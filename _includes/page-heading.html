@@ -1,0 +1,17 @@
+<section class="bg-white text-accent pb-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 text-center text-lg-start">
+                {% if include.title %}
+                    <h1>{{ include.title }}</h1>
+                {% else %}
+                    <h1>This is the title</h1>
+                {% endif %}
+                {% if include.subtitle %}
+                    <p class="lead text-black">{{ include.subtitle }}</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</section>
+

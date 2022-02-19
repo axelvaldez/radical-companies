@@ -1,0 +1,16 @@
+{% include header.html %}
+{% include page-heading.html title="Radical Blog" subtitle="A place to talk about Radical Practices" %}
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                {% include posts-loop.html %}
+            </div>
+            <div class="col-lg-3 offset-lg-1 d-none d-lg-block">
+                {% include post-sidebar.html %}
+            </div>
+        </div>
+    </div>
+</section>
+{% include cta.html %}   
+{% include footer.html %}       
