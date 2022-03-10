@@ -5,7 +5,7 @@ authors: "Matt Perez"
 image: "book.jpg"
 ---
 
-<div style="display: none;">BREAKING: First child be born in space. Every country around the world claims the First of Earth as a native.
+<div style="display: none;">BREAKING:
 <br>
 <br>
 <br>
