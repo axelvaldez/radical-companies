@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AND THEN THEY WANT TO BURN YOU [E02]"
+title:  "AND THEN… - E02 – SWEET HOME CHICAGO"
 authors: "Matt Perez"
 image: "book.jpg"
 ---
