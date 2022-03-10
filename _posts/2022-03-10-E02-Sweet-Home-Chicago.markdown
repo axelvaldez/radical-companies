@@ -5,7 +5,7 @@ authors: "Matt Perez"
 image: "book.jpg"
 ---
 
-<div style="display: none;">Sammie brings their child, Munjez, to Vic. She is in for a surprise.
+<div style="display: none;">Sammie brings their child, Munjez, to Vic. She is in for a surprise. AAA
 <br>
 <br>
 <br>
@@ -19,7 +19,7 @@ Then they want to burn you.
 And then they build monuments to you</pre>
 
 
-<h1>SWEET HOME CHICAGO</h1>
+<h3>SWEET HOME CHICAGO</h3>
 
 
 <p>

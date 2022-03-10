@@ -13,253 +13,332 @@ image: "book.jpg"
 <br>
 </div>
 
-...
-First they ignore you.
+<pre class="prettyprint">First they ignore you.
 Then they ridicule you.
 Then they want to burn you.
-And then they build monuments to you.
-...
-
-<h2>FIRST OF EARTH (E01)</h2>
-
-
-**<strong><code>SAT 16 NOV 2030.</code></strong> It came sooner than expected, though not as a complete surprise. It was a great offer for the company we had founded and contributed to for eleven years. This was proof that creating a place where every contributor is treated as an adult and everyone of them is a co-owner of what they’ve created together leads to a wildly successful business as well.
-
-**<strong><code>THU 6 NOV 2036</code></strong>. Time to get in line to get a ticket to outer space. But for our granddaughter, not for us. Of course, we don't have a granddaughter, yet, but she's on her way. And the timing of her birth is just right for her to be born in outer space.
-
-**<strong><code>THU 26 FEB 2037.</code></strong> Finally! It looks like all the ducks are lined up so that our daughter-in-law can have her baby in space safely. If somebody had told me what it was going to take, we might not have gotten into this, so thank goodness for naïveté. Of course, we were all naïve: nobody knew how to pull this off. After all, it is a first.
-
-Once we pull the trigger on this, we won't be so wealthy after all, but my wife and I want to see it through, no matter the costs. And we are not the only ones who feel this way. All kinds of people have come forward to help us make this a (very expensive) reality. They, we, are starting to get an inkling of the much bigger impact this may have on humanity.
-
-**<strong><code>WED 22 APR 2037.</code></strong> Well, I'll be …! In less than two months the sponsor nations of what became the Orbital Shipyard have chosen to declare my granddaughter a native of their respective countries the minute she's born. THIS IS FANTASTIC and beyond anything we had ever hoped for.
-
-**<strong><code>WED 10 JUN 2037.</code></strong> This is stunning. Just got word that even China and several other nations will declare my granddaughter a native of their countries as well. The UN is supposedly working on some kind of declaration, too.
-
-We are not sure what to expect anymore. What does it even mean to be a native citizen of nearly every country on Earth?
-
-**<strong><code>FRI 26 MAR 2038.</code></strong> Of course she is beautiful, she’s our granddaughter! Our first. She's also the first Citizen of Earth. That is what the UN had been working on and they announced it today, just as my daughter-in-law was in the throes of a final push. Other than the politics around it, it all went as well as we had hoped for.
-
-**<strong><code>TUE 20 SEP 2039.</code></strong> Thank goodness my son and his family are back home. They've had two years of nearly non-stop traveling. It seemed that every country in the world wanted to celebrate their first Citizen of Earth in person. Luckily, except for a few minor infections, Sammie, as we call our granddaughter Samantha, has been very healthy.
-
-She's a very happy baby. And she also has this… presence. It's almost as if she knows how significant she's become.
-
-In any case, Sammie has done her part for the world. Now it's time for her to exit the limelight, be a little girl, and enjoy the rest of her life.
-
-**<strong><code>MON 6 JUL 2043.</code></strong> Who would have thought it would get this far? The First of Earth movement has taken hold in even the most war-torn countries. It looks like they are going to pull it off. Decentralized governance, impact aligned, and … who’d have thought it possible?
-
-Happy little Sammie, look what you've brought about. You will forever be the first, but you won't be the only Citizen of Earth for long.
-
-<h2>It’s a Go!</h2>
-
-
-Samantha looked at Earth, towards a layer of clouds over Kerala and her mother. She had been there as a child to get her “gravity legs,” but for some reason her parents cut the trip short. The trip was supposed to be one of those where first generation immigrants lug their kids “back to the old country.” In her case, it was more about her leg muscles and balance intuition. But what was supposed to be a year, turned into a little over a week. Hardly enough to get acclimated to the all encompassing gravity.
-
-She had vague memories of loud arguments between her parents. After that, she went back home with her dad while her mom stayed on Earth’s Surface.
-
-It was also the last time Sammie saw her mother in person. From that point all their interaction happened in a Mod. And as much as her neuromorphics could share smells and a host of other physical sensations, it never quite was the same as in real life. A bit of machine learning ironed out the delay between Surface and the Orbiting Shipyard, or oYard as it was called, but occasionally glitches showed. She didn’t remember her mom not glitching.
-
-Floating in a non-accelerated part of the station, she pushed her forehead against one of the largest windows of the habitat and remembered her mom imploring her to come visit her in person. They argued about it at least once a year. Her mom would ask, and Sammie would respond in adolescent frustration that she was helping her father prepare the station to launch the Jovian Lagrange mission and how vital she was to the whole ordeal. It was almost a ritual.
-
-And then one day she decided to go down.
-
-She looked up to the window and saw the inflatable spaceship lumbering, slowing towards their space station. It was quite voluminous, with the faintest gaseous light emitting from its thrusters. It was coming just for her and a few research projects. Soon, her mother would get her wish. And the first human born off planet would return to Terra Madre.
-
-The orbital ferry pulled up alongside the oYard. It was a very long airship built tough enough for supersonic travel. The craft was a lenticular tube with a cross-section that reduced drag while accelerating to orbital velocity, and a flattened shape for when it would turn into the supersonic shock and slow itself as it deorbited. It would take 52 hours, about a week, for the ferry to get to Surface.
-
-The journey took as long as it did because the ship traded duration for efficiency and didn’t use as much fuel as the rockets of only a few years ago. Large solar panels allowed the craft power ion thrusters for travel through vacuum. High altitude propellers, spindly in their attempt to push air, would take the craft through the atmosphere.
-
-Weber, Sammie’s father, drifted into the airlock to check her suit seal. At this point in life, Sammie was more than old enough and technology was more than advanced enough to ensure her suit was in good working order, but it was part of oYard tradition to check a loved ones’ suit seals. A carry-over from more dangerous days.
-
-“All green, Sammie,” her father said as he pressed her face against her helmet.
-
-“Thanks, Papa,” Sammie hugged him tight. She teared up a little, unexpectedly. The trip to Terra suddenly had more gravity than she initially felt. “It’s going to be fine,” she said more for herself. 
-
-“You have all your clothes? Underwear? Socks?” he asked.
-
-Sammie laughed at the joke, “I’m sure they can print my clothes on Earth. I’ll be okay in the big city, Paw,” she emphasized the yokelness. 
-
-The reality is, it never made sense to transport anything to or from Surface that didn’t need to be, even with the space ferries being as efficient as they are. And even if it made sense to lug a keepsake, it felt anathema to violate mass limits. Better to have the keepsake in a virtual space.
-
-The airlock cycled and in came the captain of the airship. He was followed by some new additions to the crew. They said a brief hello and carried supplies past Sammie and her dad, while the pilot drifted over to them.
-
-“You’re Samantha Bellamy?” he asked. He gave her a weird look, “I’m Pilot Sils.”
-
-“That’s me, and this is my father.”
-
-“Weber Bellamy, pleasure to meet you.” Weber smiled, “A smooth journey I hope.” The pilot chuckled, “Only the finest boredom on this cruise.”
-
-At this point, the pilot would have drifted off and started unloading cargo with the rest of the incoming crew, but as he started to push away, he turned, and looked at Sammie, “You’re really the first person born in space?”
-
-“That’s what they tell me,” she said. So that’s what the look had been about. Perhaps he thought she would be taller.
-
-<h2>Slowly but Surely</h2>
-
-
-Sammie looked around the ship as she entered. An anachronistic wood veneer cabin encompassed ten seats with crash webbing, which were bisected by an aisle that led back to the cargo bay. At the front were the high bandwidth interface pilot seats. It had a warmth to it that she did not expect. 
-
-The Ascender stood ready and it even felt to Sammie like it was patiently waiting for her. After years of seeing these go back and forth, she was finally going to be a passenger. She drifted in and was about to sit in a passenger seat when the pilot tapped her on the shoulder.
-
-He smiled, “You are more than welcome to sit in the passenger seat, but you can be my copilot for the mission. I’ll show you how to drive.”
-
-“I can fly a Wyatt we use for external repairs, but I’m not sure you should give me control of something this big,” she hesitated but yielded to temptation and sank into the co-pilot chair as her neuromorphic started to pick up ship controls.
-
-“Don’t worry about it. We have a week to practice. It will help pass the time. For the most part, we are glorified passengers anyway. The ship will do most of the driving.”
-
-After about an hour practicing manual control in a shared Mod, the pilot said, “You know these ships wouldn’t have been possible without your grandfather?”
-
-“Really? But my grandfather was an activist, not an engineer.” She knew her grandfather had moved to China after the People’s Republic dictatorship had come down. But other than that she had never ventured much into the actual stories about him. Her dad’s favorite seemed to be about her grandfather getting the boot from America in its last gasp of authoritarianism.
-
-Pilot Sils explained, “Back then I worked with Jiangsu Launch Technologies in Changshu near Shanghai. Your grandfather showed up as we were having a huge debate about what direction to go. Whether it would be the ultra efficient ion airships, or the landed rockets everyone was doing at the time. The right choice wasn’t obvious at all at that momen and, honestly, the airships looked like a stupid idea.”
-
-She was dubious, but curious about her grandfather’s impact, “OK… but my grandfather didn’t design rockets.”
-
-The pilot spoke, “No he didn’t. But he re-designed the company. Or more accurately, he convinced all of us to redesign the company. And that caused us to make the right choice.”
-
-Sammie disengaged from the ship and looked at the pilot in real life. He did not look that old, but modern medicine and universal healthcare made it hard to tell sometimes. Her neuromorphics sussed out his bio: pilot Sils was sixty seven, so he would have met her grandfather, Max.
-
-She ventured, “So how did he help?”
-
-The pilot described, “Like I said, we were about to come apart over technical direction. The founders had a lot of expertise with rockets and even though they knew the technology had reached its end, they wanted to start that way to get the company going; the airship idea would come later. But we had watched that movie before and we felt that with that approach the airship would never happen…”
-
-“… and rockets would take the company all the way to its graveyard,” she extrapolated.
-
-He proceeded, “Yeah. The people who wanted the orbital airships, me included, were about to leave and start a separate company. Then your grandfather pointed out that they were very much aligned to the impact we wanted to make, we all wanted to get people to space as cheaply and sustainably as possible. That made us stop and think. We had already adopted his co-ownership model which was working very well for us...”
-
-Sammie interjected, “The oYard is co-owned and we use it to distribute the wealth we create. Surface people always get confused and want to keep the RADs for themselves. You have to repeat yourself, but eventually they get it that they are giving away ownership of the station. It’s always a hoot to see their reactions when they get it.”
-
-“Exactly,” he smiled, “And that’s how we dodged the bullet of having the founders act like obstinate bosses, pushing everybody around. Enough people in the company gave their RADs to the airship Banner and no one had to leave. The irony is that some of the technology developed for the balloon Ascenders boosted the VTOL rocket business so much that we stayed profitable even as the VTOL rocket business declined.”
-
-Sammie whispered, “Huh, I never realized my grandfather Weber impacted space tech so much.” She thought about it some more and decided she would work on a Mod around her grandfather.
-
-The pilot's casual use of “obstinate bosses” was still ringing in her ears. It must have been because the pilot was old that he tossed a word like _boss_ around so casually. She had heard her dad use it a few times when only he was very frustrated.
-
-Sammie sat on a crash couch on the second day of their deorbit. She was deep in Mod design mode. She took files on her dad and other ancestors the Worms had found and placed them in all the right notches for character design. It was fair to say that she was very good at Mod creation, and it was factual to say that she was a whiz at it. In fact, that was her chief duty on the ship. Did you need to develop a better interface for a sensor package at the stern of one of the solar vessels? Ask Sammie to design a Mod for it. She had an intuitive sense of how to leverage the Worms assistive intelligence and her neuromorphics to craft a Mod.
-
-As the file count grew she sat on a giant pile of personal details about her grandfather and pointed Worms to histories of the time period. As they were digesting the data and weaving a Mod out of it she started to assemble the whole thing together in her head. The colors, tastes of the time, the fight that authoritarianism was losing, the situation in China. She was so excited, and loud, that she woke the Pilot up from his nap, which was good because she immediately started grilling him for any of the conversations he could remember having with her grandfather.
-
-She would pop into the partially rendered Mod and run her virtual grandfather through different testing protocols. His motion started to look more idiosyncratic and less like the generic motion she started with. She would ask her mother and father to fill in some details, and there would be some people on Earth to track down to fill in the rest of his personality, but he was already more than ninety percent _real_.
-
-She popped into the rendered Mod one more time and before she could even speak, her grandfather waved her to be quiet and said, “First things first, I’m not alive, right? I’m a simulation.”
-
-“Yes. No. I mean, you are not,” she approved.
-
-“It’s good to finally meet you, Samantha. I wish I had lived longer, but we did overlap just when you were a baby.”
-
-<h2>First Visit</h2>
-
-
-It felt different on Earth. The Anchortron did a pretty good job of simulating Earth gravity, but it didn’t feel quite the same down here, not sure why. Maybe it was because there was no relief from the pull of real gravity: it was everywhere, including the open spaces.
-
-And, yes, the open spaces: They. Felt. Different. They looked like those in the Mods but they were not quite the same. Sammie was pretty sure that things like the wind, or the absence of it, was a big part of it. In space “wind” was a terrifying and life threatening problem; it meant that air was escaping. On the Surface, air didn’t escape, it just moved about, placidly. It was something to be enjoyed, nothing to be afraid of.
-
-Mods could do a great job with visuals and sounds, but it had none of the other effects, like the warmth of the direct Sun, and the sudden coolness of a passing cloud, or the slightest breeze.
-
-The thing is that when you grow up with Mods as she had, that is your reality. But down here was different, foreign and more real at the same time. Earth felt eerily alien and dangerous-but-not-dangerous in a hard-to-describe sort of way.
-
-Simulating environmental features didn’t sound like an impossible thing to do. I wonder if somebody had put up a Banner to fund looking into combining the Archotron and Neuromorphics to integrate a full blown simulation that felt more real.
-
-<h2>Mom, I’m Home</h2>
-
-
-Sammie got to her mom’s home last night, headed straight to bed, and crashed. Everybody said it would be a piece of cake because “you are so young… ,” but it wasn’t. She may be 13, but this down trip was not like any kind of cake she ever enjoyed.
-
-Her mom lived in one of those health clusters, just outside Trivandrum, that the Kerala Pod was well known for. The Dutch had gotten all the fame for a similar system in the early part of the century, but Malayali had established their use long before the Dutch reinvented that particular wheel.
-
-Her place looked deceiveling normal, but obviously something was wrong with her, otherwise she would not be at this place. Something else must be going on with her. In any case, she didn’t say anything about it and Sammie didn’t ask.
-
-Sammie was not even sure why she had come down here. Her mom had invited her to stay with her if she decided not to go to the Edge with her dad. “We’ll keep you busy down here.” The thing is that she wasn’t sure what to do. She wasn’t sure about moving down here and she wasn’t sure about moving with her dad to the Edge. Staying in the oYard was not very appealing, either, since the chance of hanging out and experimenting with people her own age was nil at the oYard.
-
-In any case, it was a chance to see her mom IRL and experience Earth.
-
-Sammie’s mom looked as always, minus the glitches. She had never used any of the filters when we talked, so Sammie had watched her get older over time. But her living in a health cluster was surprising.
-
-Sammie was not particularly surprised that her mom had not talked about it. This was the same woman that stayed on Surface when Sammie was four and let her go with her dad back to the oYard. Anita, her dad’s partner, had told her that Sammie’s mom was tense all the time she was there at the oYard.
-
-In all the time Sammie was with her, everything stayed normal enough. They went out to see a couple of Temples and restored synagogues. Even the one in Parur was a bit boring for Sammie because she had already visited its many Mods and knew the place and its history better than many of the IRL tour guides.
-
-The natural sites they visited in the region were familiar, too, although these were different in the flesh. Nothing new in the beautiful visuals, they looked just like in the Mods, but what made it all the more impressive for Sammie was the indescribable sense of… danger! Earth felt dangerous, but in a good way, in a way that made the experience a _better_ kind of different.
-
-In one of the few casual conversations they had, they ended up talking about the difficulties of giving birth at the oYard and some of the things Sammie did as a toddler. Sammie was visibly enjoying it all. But as they talked, her mom got more and more agitated, more visibly angry. At first Sammie thought it was something she had said but then her mom started talking about Weber and how crazy it was to deliver Sammie in the oYard before it was even finished. “Always dark,” she kept repeating, “always dark.” Sammie got the sense that this is what Anita was talking about.
-
-As she ranted, without any warning, the door opened and two men came in. They were smiling and walked about as if they had done this before. One of them talked to Sammie’s mom while the other one corralled her and moved her away from her mom. At first he was trying to chit chat as if they were old friends and then the other man said something. Sammie didn’t catch it but her guy obviously did because his expression changed and he quickly said, “we are here for your mother, she’ll be fine in a few minutes, but it will very much help her calm down if you went to another room.”
-
-So, we did. It didn’t take that long before he knocked softly on the door frame and he said “everything’s fine now.” Sammie asked him what was going on but he said he could not tell her. “Just make sure that she doesn’t end up talking about what went on in the past, try to stay within the last ten years or so. That’s what kicked off this episode.”
-
-Not soon after that the invitation from the Chinese Pod came and it didn’t take Sammie long to decide to accept it. A few days later she packed her things without saying much and as she was about to walk out her mom was very quiet. Sammie felt sad to leave but she wanted to get out of there even more. It sure felt like she should say something… so she reached out and hugged her mom.
-
-In that awkward, last minute hug Sammie felt an exoskeleton under her mom’s clothes. She recognized it because they were not that different from the one they all used in the oYard when they had to move something massive. Now the whole thing made sense: besides aiding her movement, the exo was keeping her mom alive and coherent. So this wasn’t quite a health cluster, more like a hospice.
-
-<h2>Floating Away</h2>
-
-
-Sammie’s trip to the Beijing Pod took a bit over forty-eight hours in an inflatable ship. It was surprisingly comfortable and very efficient. And floating in the vast body of water had the same dangerous, exhilarating  edge of the other open spaces. Little by little the immensity of Earth was starting to dawn on me. The oYard was big and roomy, but this… this _planet_ was in a different class altogether. The people who still called it Spaceship Earth had no idea how stupid that sounded to somebody who was born and raised in a real spaceship.
-
-<h2>The Middle Kingdom</h2>
-
-
-What was then the People’s Republic of China was the first to break down into Pods. The People’s Republic dictatorship had squeezed the FIAT system for all it had and the hierarchy there got more and more rigid as the economy grew. The generation that grew up with abundance could not understand why their system was getting to look more and more like a rice empire. Xi Jinping’s centralization of power went against everything that they expected from a confident country with a solid economy. They wanted to be world players, not voiceless drones. Hello: it is the 21<sup>th</sup> century.
-
-The more the dictatorship tried to suppress their defiance, the more they looked for alternatives. And as they found them, those alternatives started to capture the imagination of the _niubi_ (牛逼). The RADICAL model was most compelling to them: it was simple, it was effective, and easy to get started in a hurry and without fuzz.
-
-In 2032 the whole thing came tumbling down, swiftly and with surprising little bloodshed. There was none of the “chaos and mayhem” that most pundits predicted. The people quickly organized into co-managed and co-owned collaboratives. The massive decentralization made the wealth spread quickly and smoothly. And that was just the beginning—they are still moving the transformation forward.
-
-When she arrived, she saw two people who seemed not much older than her waving at her. She walked up to them and then got her into what looked like an old-timey car. For a second she fantasized that one of her companions was going to sit behind its huge steering wheel and… but, no, it just drove itself after all. Of course, she had seen them in the Mods, but this was very ornate. Evidently they could afford this kind of levity given Earth’s vastness. 
-
-She spoke decent Mandarin thanks to the abundance of Chinese folks at the Shipyard. Everybody spoke English but there was a certain pleasure in keeping other Earth languages alive. And there were plenty of Mandarin-speaking and Castilian-speaking people, as well as smaller groups who spoke Cantonese and other languages. From everything she read and heard, the RADICAL mindset was very much at work everywhere in the Beijing Pod.
-
-To them Sammie was not a hero because of the First of Earth fame. More than anything else, they wanted to talk about her experience _growing up RADICAL_. Unfortunately, Sammie didn’t have much to say about that. It’s like asking her, what is it like to breathe?
-
-She did end up pointing out the many vestiges of FIAT command-and-control signs that she noticed. Sammie didn’t want to come across as critical, but she did notice that they were sometimes confused, even annoyed. And then they would burst into an avalanche of questions about it.
-
-They had a long talk about what looked like their struggle with decentralization. Even they noticed that in any discussion, the first proposal was to centralize decision making “for now” or some other dodge. Luckily they had ten years of experience with this and they were practiced at fighting off that tendency, but you could see how they still had to consciously resist it.
-
-After a few weeks Sammie got tired of being a RADICAL celebrity and she accepted the invitation to go to the Chicago Pod in what used to be the United States of America. The electric jet went up to the edge of the biosphere, although she would not call that “space” as they did throughout the trip. It was a lot shorter than her trip from the Karala Pod to the Beijing Pod. It was also boring and she slept for most of it.
-
-<h2>Related</h2>
-
-
-
-
-* RADICAL COMPANIES,
-    * [EN](https://docs.google.com/document/d/1Vt-3hM_i1x9FzfoO0hDX8itRnPV5OQWKcfWsjV6a6CQ/edit#heading=h.rutigyp6zcd3): [https://radicals.world/fDm2eL](https://radicals.world/fDm2eL)
-    * [ES](https://docs.google.com/document/d/1UYxFNZyJvFZf4DMZkspF5cF6Yzl_ugI67lmqoYJhtGw/edit#heading=h.87ak6hy0sbuh): [https://radicals.world/3BFuoJ](https://radicals.world/3BFuoJ)
-    * For the Impatient: RADs, PRI, etc.: [https://radicals.world/Q0RIWR]](https://radicals.world/Q0RIWR])
-    * Frequently asked questions (FAQ): [https://radicals.world/ZVRbBc](https://radicals.world/ZVRbBc)
-* The missing chapters,
-    * [RADICAL COIN](https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu)
-    * [RADICAL LAND](https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76)
-    * [RADICAL GOVERNMENT](https://docs.google.com/document/d/1P4tZw1iAAnJtP2zlijgttIv1Cxq47PBPzqK3UbMHCSY/edit#)
-* rCompanies
-    * rPRADERA MEDIA
-        * [PRADERA SHELF](https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu)
-        * [PRADERA READER](https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu)
-        * [RADICALS.LIVE!](https://docs.google.com/document/d/1NElxng620-FtPtk2s-2xizTcL_89LdqnpkZepsnf5RA/edit#heading=h.6wmx089o9bc4)
-        * [RADICAL MBA](https://docs.google.com/document/d/1Ej3YXS8Gymknq0TAyNC161Sv5nVXGTGtN-2PwS6H30E/edit#heading=h.gqizizpnpgzu)
-    * [rHatchery](https://docs.google.com/document/d/1oV_WgvZ0mChe-f8o114p_8BSGldn3ZVkQjHnhwk7ccw/edit#heading=h.gqizizpnpgzu)
-    * [rCircuit](https://docs.google.com/document/d/1apVl75nS-Z4b2rpqu-UkDjjYkujLANMiK7zZoU0jGeE/edit#heading=h.ypydz5z11jxq)
-    * [rPlayGym](https://docs.google.com/document/d/1aoqNhAW6P4QQFM3epM5VqPFdiTgyxTKPUE1c4j8r2k4/edit#heading=h.gqizizpnpgzu)
-    * [rEnsemble](https://docs.google.com/document/d/13c1PYhbQEjRlkfmmGQESJD-cTB5b6jmWWBnEpTt1NFU/edit#heading=h.gqizizpnpgzu)
-        * [rTranslate](https://docs.google.com/document/d/1-eMt4p4qNJFc9SJkeSoarmy-xG6WtE51eQv047pvTNk/edit#heading=h.gqizizpnpgzu)
-        * [rSparkle](https://docs.google.com/document/d/14A5U000ny7_zF8_HutQF1pcMoUwQmI7tfXaMB9uKk3M/edit#heading=h.gqizizpnpgzu)
-        * [rStayHome](https://docs.google.com/document/d/16eg7wnyH61xPT4pWFWsuwHydKaxeP8k5xKGX3Pglzp0/edit#heading=h.gqizizpnpgzu)
-        * [KidsCare](https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu)
-* Startups
-    * [rBuddyNeighbor](https://docs.google.com/document/d/1lE-khYtIyXoFeSIlUGcFPzESsslnBoGcmZMQaeVBVgw/edit#)
-    * [rNextBright](https://docs.google.com/document/d/16jST0lzzezNoFstE2ccZoI2HirgWBu3gQGnEok5OhGY/edit#)
-    * [rHintersoft](https://docs.google.com/document/d/1dMxsO5LMhKle97J8tPscBs5g64_QKZsiRnDtsccBUE4/edit#heading=h.gqizizpnpgzu)
-* rProjects
-    * [REMARK!](https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu)
-    * [RADs!](https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu)
-    * [Attentive UI](https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu)
-* RADICAL Science Fiction
-    * [And then They Want to Burn You](#heading=h.hv9kv7g9sjnn)
-
-<h2>Further Reading</h2>
-
-* [The Hidden Masters – Notes](https://docs.google.com/document/d/1oxZ1Ol2pMnhmbssCijIq3ipPF-9GPvVXwaCPUtuQsUA/edit#)
-* [Moons of Jupiter](https://en.wikipedia.org/wiki/Moons_of_Jupiter)
-* [A gatekeeper for learning](https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790) (see [AnchorMod](https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.obnewqdc49h3))
-* [Narrative Arc](https://docs.google.com/document/d/139NTUSbvAfsGKKm0VYIGWFjQ_gSQReDWkmPcykSaj4A/edit#heading=h.hv9kv7g9sjnn)
-* [Future Tech and Culture](https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.45tbumt6bcua)
-* [Resources](https://us02web.zoom.us/j/82364452948?pwd=NzkvMTdLbGlHZzFEenZoUG5CYy84Zz09)
-* [Notes](https://docs.google.com/document/d/1zVBijo_3sHziYQJ4iQDqer9Lede54UbTMWbFMYeIzK0/edit#heading=h.m75zuy1og0t3)
+And then they build monuments to you</pre>
+
+
+<h1>SWEET HOME CHICAGO</h1>
+
+
+<p>
+The Chicago <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.a6wcmzph7o24">polyport</a> was busy, as in, really busy. In its heyday the old O’Hare Airport was the busiest in this part of the world, but nothing compared with all the traffic around the polyport. But for all the traffic above, inside the place was… placid. There were a few people walking around or drinking coffee and whatever else was popular down here. And none of them were waiting for me.
+</p>
+<p>
+Sammie hung about a bit and was about to taste one of these coffee things when she felt the alert. She listened to the message, looked down, and saw her sherpa which she followed to her hosts. Evidently, they were being super careful with Sammie’s identity and had sent the sherpa instead of just leaving a message. The overall culture was slowly unlearning its FIAT ways and at least a few people would still be addicted to violence.
+</p>
+<p>
+It seems that the people in this part of the world were still worried about viral transmission because they offered none of the hugging and kissing that she had experienced in the Beijing Pod.
+</p>
+<p>
+Their transport came and it was the plain vanilla type with none of the flare Sammie had seen in the Beijing Pod. As they were getting in, the taller woman (what was her name?) mentioned something about “our President.” At first, Sammie wasn’t sure what she meant, but as she talked it became clear that she was talking about a big boss type President. Well, not quite. At least not quite like the old USA Presidents, but still… Sammie made a mental note of it but decided it was not the time to dig into it. Her neuromorphics were trying to fill in, but she ignored them.
+</p>
+<p>
+Sammie ended up sharing a living space with Tula (the taller woman) who turned out to be very easy to talk with–and she was full of trivia. “Speaking of Asia,” she said, “did you know that the Cultura Libre movement started there?” A bunch of different places claimed to be Cultura Libre’s birthplace. The Castilian speaking folks at the oYard claimed that it had started in the Caribbean, maybe in Puerto Rico, or Cuba, or perhaps Venezuela. But Tula was right and Sammie’s neuromorphics confirmed it. They had used Castilian because it was very popular and it had words for <em>gratis</em> and <em>libre</em> while English conflated both concepts.
+</p>
+<p>
+Nina Paley, Sammie’s hero and champion of free culture, would have enjoyed the whole thing, except she died just before people eliminated copyright and patents and their choke on culture. While riding her recumbent bicycle, she had been run over by one of the last petroleum powered vehicles manually driven by a human.
+</p>
+<p>
+Tulla said that they were aware of the issue with having a “President,” but that it was symbolic, like Kings and Queens in what used to be Western Europe. Still, Sammie couldn’t get why anybody would spend energy on that kind of thing, as if they were something to be proud of. Why not have a Chief Inquisitor and have him perform symbolic Actos de Fe?
+</p>
+<p>
+Two days before Sammie planned to head back to the oYard, she heard Tulla talking with somebody at her front door. In no time at all her voice got louder and she sounded pissed off. She came out just as Tulla was slamming the door, hard. The windows were capturing what was going on outside and Sammie could see what seemed like a Mod recording crew outside, with their drones and all the rest.
+</p>
+<p>
+One look at Tula’s face told Sammie all she needed to know: somebody had tracked her down and wanted to put her, the goddamn “First of Earth,” in the timelines. Shit. At that moment Sammie knew that she wasn’t going to move to Surface and she wasn’t going to stay in the oYard, either.
+</p>
+<p>
+Without saying much, Sammie picked up her stuff, and hugged Tula goodbye. Sammie could see Tulla tensing as soon as she started to move towards her with her arms spread, but it was one of those things where she couldn’t stop herself. After the awkward hug, she left through one of her back windows.
+</p>
+<p>
+Sammie knew that there would be drones waiting outside, but like all her oYard clothes, her jacket had active multi-frequency reflectors. All the drones could do was capture a blur that would not be worth publishing. Most of the drones followed her all the way until she crawled into a sleeping tube and took her hiber pills. Eventually, her tube along with many others were on their way to the Orbiting Shipyard.
+</p>
+<p>
+By the time Sammie woke up we had already switched to the space transponders. The Galanet was abuzz with “First of Earth” this and “First of Earth” that. Sammie figured that a whole new Mod series about this would come out soon.
+</p>
+<p>
+Unfortunately, because of this mess, Sammie didn’t get as much time as she wanted to visit the town of Lebanon, in the St Louis Pod. That’s where the paternal side of her family had settled when they left what was the country of Lebanon in the early 1900s.
+</p>
+<h1>Sammie’s Child</h1>
+
+
+<p>
+At the age of 19, Sammie had a child and she named him Munjez, an homage to her great-great-grandfather’s birthplace. Thankfully, other children had already been born in the Edge settlements and Munjez was not “the First of” anything.
+</p>
+<p>
+Sammie and Kiki had agreed on having Vic be Munjez’ dad so he could be in his life, too. Vic didn’t turn out to be a very attentive father, or very present. Except for the rare occasions when Vic parachuted in, the two women were raising Munjez pretty much on their own, 
+</p>
+<h1>Victor Boswell</h1>
+
+
+<p>
+Vic was a pretty happy guy. Pretty much of-the-moment and with no life-long aspirations. He had truly enjoyed his ten years in space, off Surface. The oYard had been somewhat constraining, but he nevertheless appreciated the close community it supported. The ability to tumble in 3D space was the greatest experience. He might have been born a creature of gravity, but space was his home, it was his destiny.
+</p>
+<p>
+He was not ready for Sammie’s question when she asked. They were close and had had sex before, but this was different. Having a baby with her was another thing altogether. He asked her why she didn’t just not draw from the sperm bank? Every habitat had one and each represented humanity in all its shapes and colors! But her response made sense, “Yes, but I know you and I’d like my child to know his father.”
+</p>
+<p>
+Sammie’s request had changed him. The fact that he was going to be a father had changed him. He began to see the world differently. Out of the blue, he wanted to do something his son could point to and say, “my dad did that!”
+</p>
+<p>
+He insisted that he was going to be part of the kid’s life, but she knew he wouldn’t be. He got frustrated dealing with people slower than him, and children, by definition, are slower. But Vic was sure that when he grew up, he’d appreciate what “his dad” was going to create.
+</p>
+<h1>The Boss</h1>
+
+
+<p>
+“Funny, the language they use,” Sammie said, “It’s all so self-important and it must be meant to make people feel bad for always falling short of their idealized new man. They published some kind of a rant and at the end justified the whole thing with ‘this is simply for your damn good’. Who’d come up with something like that?”
+</p>
+<p>
+“Yes, not very convincing,” Kiki chuckled. Then she added, “It’s something that good ole’ Vic would say.” Sammie stopped what she was doing and she asked, “Did you just say Boswell? Vic Boswell?” Kiki snickers, “Umhum… I am sure you have deep memories of him.” When she noticed the silence, she turned to Sammie and something was definitely not right with her. “Are you OK? Why did you ask?”
+</p>
+<p>
+“Kiki, I think Vic is the Boss!”
+</p>
+<p>
+After a moment of hesitation, Kiki broke out laughing. “Oh, for crying out loud, Samantha Bellamy, that’d be way, way too obvious. BOSS-well, really? No way!”
+</p>
+<h1>The Mountain Comes to Muhammad</h1>
+
+
+<p>
+“OK, so if Vic won’t come to be with Munjez, then Munjez is going to visit him. Before things get any stranger over there, I want Munjez to spend some time with his dad. That was the whole point of having Vic father him.”
+</p>
+<p>
+Kiki was not all happy about Sammie’s decision, but she was right. “Can’t you reach out to him again and ask him to come. He promised.”
+</p>
+<p>
+“I’ve done that a bunch of times, Kiki, and he won’t respond. Lately, he doesn’t even show up in the Mods or anything. I don’t want to have to tell Munjez that his father died or some other awful lie.”
+</p>
+<p>
+“Sammie, he’s just a baby. There’s plenty of time before you have to tell him anything.”
+</p>
+<p>
+“I know, but it’s more than that. If we want him to really <em>know</em> his dad, then they have to start interacting now. It’s like learning a language, it starts from day one, otherwise your brain removes any connection that is not reinforced by the environment you grow up in. No dad, and your brain removes what could have been dad processes. I think it’s worth the trip to give Munjez, and Vic, a chance.”
+</p>
+<h1>You Won’t Like It</h1>
+
+
+<p>
+In space, she was not a celebrity, but she was well known. In any case, she had spent a lot of time here while they were finishing the Minor habitat and she had worked and lived with a lot of these people. As she went to her quarters it was all, “Wow, long time” and “Hey the little one is not so little anymore,” or “Hey, you look just like your Mod.” Vic, of course, was nowhere to be found. She was almost done setting up the room for Munjez when he finally showed up.
+</p>
+<p>
+“Sorry, I’ve been very busy. I have not spent much time in the Mods but I wasn’t avoiding you. Sorry.”
+</p>
+<p>
+Sammie almost launched into a lecture but before the words came out of her mouth, she realized it would be a waste of time.
+</p>
+<p>
+“Hi, Vic. Would you like to say hello to Munjez, you know, your son?” She could not help it.
+</p>
+<p>
+He walked over to where Munjez was sleeping and looked at him. For a moment it looked like he was going to pick him up, but he backed off. However, he kept looking at him and it was a tender, almost longing look. There was hope, Sammie thought.
+</p>
+<p>
+“How’s Kiki?”
+</p>
+<p>
+“She’s fine and worried that I am out traveling with the baby, even though she knows this is the safest place we could possibly be.”
+</p>
+<p>
+His attempt at chit chat was pathetic and he looked uncomfortable. Sammie wanted to give him a break and try to inject humor into the conversation. “By the way, you wouldn’t happen to be the Boss, would you Vic Boswell?” She emphasized “Bos” as she pronounced his surname. “Kiki thinks that’s funny.”
+</p>
+<p>
+“Yes, I am.”
+</p>
+<p>
+“That’s not funny, Vic,” was all that came out of Sammie.
+</p>
+<p>
+“I wasn’t being funny. You asked me a question and I gave you the straight answer.”
+</p>
+<p>
+He had a half smirk on his face, as if knew what was coming next and you didn’t. That look normally made him attractive, but not now.
+</p>
+<p>
+“Vic… you are the Boss. Is that what you just said?”
+</p>
+<p>
+“Twice before, yes, and yes again for the third time. Come on, Sammie, you did figure it out. Oh, wait, you did and Kiki thought it was funny. Got it. So why did you come if not to ask me face to face?”
+</p>
+<p>
+“I came to have Munjez spend time with you.” As she was saying it, she knew that he was right. “OK, so I asked you and you answered and I couldn’t be more disappointed. But, WHY?” She stopped and calmed herself down one deep breath at a time. “Forget I asked why. The important question is, are you going to spend time with Munjez? I am not worried that you’ll infect him with your bullshit, he’s too young for that. But I do want you to spend time with him. If you can’t because of your guru duties, then I’ll go back and I’ll figure out what to tell Munjez about you. And, don’t worry, I won’t make you the bad guy.”
+</p>
+<p>
+“I’ll spend time with him. Actually, seeing him in real life did make an impact on me. You did the right thing coming here with Munjez. More than you know.”
+</p>
+<p>
+Vic seemed more relaxed after saying that. He offered to sit down with Sammie and explain what’s going on. “You won’t like it, but you’ll grok it better once you know what led to all this.”
+</p>
+<h1>Catching Up, Catching On</h1>
+
+
+<p>
+They found each other in the multihall. Vic was already there and he was chatting with a short stocky guy. Sammie kind of remembered him, but could not place him. Sammie sat down and the stocky fellow left after giving her a weird glance and a weirder smirk.
+</p>
+<p>
+After they were alone, Sammie got right into it.
+</p>
+<p>
+“Given all the secrecy, you’ve obviously already ejected transparency out the airlock. And the fact that they call you the Boss pretty much tells me that decentralization is out, too. So much for Commitments, then.”
+</p>
+<p>
+“Transparency is not ‘out the airlock’ as you said. You asked me if I was the Boss and I told you without hesitation.”
+</p>
+<p>
+“Yes, but that’s only because you’ve known me for a very long time and you know there was no point denying it.”
+</p>
+<p>
+“Transparency is about not hiding things, but it’s not about broadcasting them, either. I would tell anybody who asked. If that’s not being transparent, then…”
+</p>
+<p>
+“Vic… does that line of thinking really work on people that have grown up in a RADICAL environment like these people have? Really?”
+</p>
+<p>
+“I would tell anybody who asked like you did. If that’s not being transparent, then…”
+</p>
+<p>
+“Hasn’t anybody pointed out that transparency is about not surprising the very people who are going to be impacted by a decision? And what you aim to do surely would impact, y’know, HUMANITY! Except it’s not going to spread beyond the reach of your voice.”
+</p>
+<p>
+“That’s your interpretation of transparency, but we are being transpar…”
+</p>
+<p>
+“There are no versions of transparency,” she interrupted. “You are either transparent or you are playing with words. You are plenty smart, and you are good at playing with words. But, tell me: are you dictating what everybody’s purpose is, too? Are you going to put the kibosh on experimentation unless sanctioned by you?” Vic was going to say something, but she would not let him. “And, let me guess, meaningful is whatever comes out of your mouth and they’ll be part of whatever group you tell them to join. So much for Principles. That’s a heck of a, I don’t know, rebellion?”
+</p>
+<p>
+“Correction. As in, course correction.”
+</p>
+<p>
+“Correction? What in the universe does that mean? Our RADICAL culture is broken and you have the fix for it? And you got that from, let’s see, aliens you met while on a stroll outside? Vic, are you hearing yourself? What’s happened to you?”
+</p>
+<p>
+“Munjez. Munjez happened to me. Actually, before that, when you asked me to be his dad. It opened my eyes to what was lacking in our society.”
+</p>
+<p>
+“And what would that be?”
+</p>
+<p>
+“Respect. Acknowledgement of those of us who are naturally superior. Like you. And humility. All of those things are missing but they are necessary.”
+</p>
+<p>
+“Don’t bring me into this… Wait, what about Munjez and what do you mean by ‘necessary?’”
+</p>
+<p>
+“Remember when you asked me if I wanted to have a child with you? At first I said yes like I would to most of your ideas because crazy as they may sound at first, they are always solid. But afterwards, it made me think and I saw myself from a perspective I hadn’t seen myself before. I was 22 then and I had not spent any time thinking about anything beyond next week, but just the idea of being a father changed that. That’s when I realized that I had to make my mark, I had to do something that would make Munjez proud of me. And I wanted it to be world changing.”
+</p>
+<p>
+“That’s very sweet and touching, Vic. But what do you mean by the necessary things that are missing? And why didn’t you talk to me about this before?” And then, with a shade of sadness in her voice, “Vic, we talked all the time, before, during, and after Munjez was born. Until a few months ago, we talked all the freaking time. Why…”
+</p>
+<p>
+“Because I knew you would rebuke me. The youngest Bellamy would not go against the Bellamy ideals that took over humanity. And as much as you don’t want to acknowledge it, you have a platform and could prevent me from leading this charge.”
+</p>
+<p>
+“Bellamy tradition… ? Vic, I wouldn’t have rebuked you, but I would have suggested that you run an experiment. Instead it went from your head into full production. Universal domination, that’s what it sounds like to me. In any case, I just wanted you to spend time with…” She froze mid-sentence. Then she gave him a furious look, got up, and ran back to her quarters. But it was too late and Munjez was gone.
+</p>
+
+<h1>Related</h1>
+
+
+<ul>
+<li>RADICAL COMPANIES,</li>
+<ul>
+ 
+<li><a href="https://docs.google.com/document/d/1Vt-3hM_i1x9FzfoO0hDX8itRnPV5OQWKcfWsjV6a6CQ/edit#heading=h.rutigyp6zcd3">EN</a>: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
+ 
+<li><a href="https://docs.google.com/document/d/1UYxFNZyJvFZf4DMZkspF5cF6Yzl_ugI67lmqoYJhtGw/edit#heading=h.87ak6hy0sbuh">ES</a>: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
+ 
+<li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
+ 
+<li>Frequently asked questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
+</ul>
+
+<li>The missing chapters,</li>
+<ul>
+<li><a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu">RADICAL COIN</a></li>
+ 
+<li><a href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76">RADICAL LAND</a></li>
+ 
+<li><a href="https://docs.google.com/document/d/1P4tZw1iAAnJtP2zlijgttIv1Cxq47PBPzqK3UbMHCSY/edit#">RADICAL GOVERNMENT</a></li> 
+</ul>
+
+<li>rCompanies</li>
+<ul>
+<li>rPRADERA MEDIA</li>
+<ul>
+  
+<li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA SHELF</a></li>
+  
+<li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA READER</a></li>
+  
+<li><a href="https://docs.google.com/document/d/1NElxng620-FtPtk2s-2xizTcL_89LdqnpkZepsnf5RA/edit#heading=h.6wmx089o9bc4">RADICALS.LIVE!</a></li>
+  
+<li><a href="https://docs.google.com/document/d/1Ej3YXS8Gymknq0TAyNC161Sv5nVXGTGtN-2PwS6H30E/edit#heading=h.gqizizpnpgzu">RADICAL MBA</a></li>  
+</ul>
+ 
+<li><a href="https://docs.google.com/document/d/1oV_WgvZ0mChe-f8o114p_8BSGldn3ZVkQjHnhwk7ccw/edit#heading=h.gqizizpnpgzu">rHatchery</a></li>
+ 
+<li><a href="https://docs.google.com/document/d/1apVl75nS-Z4b2rpqu-UkDjjYkujLANMiK7zZoU0jGeE/edit#heading=h.ypydz5z11jxq">rCircuit</a></li>
+ 
+<li><a href="https://docs.google.com/document/d/1aoqNhAW6P4QQFM3epM5VqPFdiTgyxTKPUE1c4j8r2k4/edit#heading=h.gqizizpnpgzu">rPlayGym</a></li>
+ 
+<li><a href="https://docs.google.com/document/d/13c1PYhbQEjRlkfmmGQESJD-cTB5b6jmWWBnEpTt1NFU/edit#heading=h.gqizizpnpgzu">rEnsemble</a></li>
+<ul>
+  
+<li><a href="https://docs.google.com/document/d/1-eMt4p4qNJFc9SJkeSoarmy-xG6WtE51eQv047pvTNk/edit#heading=h.gqizizpnpgzu">rTranslate</a></li>
+  
+<li><a href="https://docs.google.com/document/d/14A5U000ny7_zF8_HutQF1pcMoUwQmI7tfXaMB9uKk3M/edit#heading=h.gqizizpnpgzu">rSparkle</a></li>
+  
+<li><a href="https://docs.google.com/document/d/16eg7wnyH61xPT4pWFWsuwHydKaxeP8k5xKGX3Pglzp0/edit#heading=h.gqizizpnpgzu">rStayHome</a></li>
+  
+<li><a href="https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu">KidsCare</a></li>  
+</ul>
+</ul>
+
+<li>Startups</li>
+<ul>
+<li><a href="https://docs.google.com/document/d/1lE-khYtIyXoFeSIlUGcFPzESsslnBoGcmZMQaeVBVgw/edit#">rBuddyNeighbor</a></li>
+<li><a href="https://docs.google.com/document/d/16jST0lzzezNoFstE2ccZoI2HirgWBu3gQGnEok5OhGY/edit#">rNextBright</a></li>
+ 
+ 
+<li><a href="https://docs.google.com/document/d/1dMxsO5LMhKle97J8tPscBs5g64_QKZsiRnDtsccBUE4/edit#heading=h.gqizizpnpgzu">rHintersoft</a></li> 
+</ul>
+
+<li>rProjects 
+<ul>
+ 
+<li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a></li>
+ 
+<li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
+ 
+<li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a></li>
+</ul>
+
+<li>RADICAL Science Fiction</li>
+<ul>
+ 
+<li>
+<a href="#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
+</ul>
+
+<br>
+<br>
+<h1>Further Reading</h1>
+
+<ul>
+<li><a href="https://docs.google.com/document/d/1oxZ1Ol2pMnhmbssCijIq3ipPF-9GPvVXwaCPUtuQsUA/edit#">The Hidden Masters – Notes</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
+
+<li><a href="https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790">A gatekeeper for learning</a> (see <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.obnewqdc49h3">AnchorMod</a>)</li>
+
+<li><a href="https://docs.google.com/document/d/139NTUSbvAfsGKKm0VYIGWFjQ_gSQReDWkmPcykSaj4A/edit#heading=h.hv9kv7g9sjnn">Narrative Arc</a></li>
+
+<li><a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.45tbumt6bcua">Future Tech and Culture</a></li>
+
+<li><a href="https://us02web.zoom.us/j/82364452948?pwd=NzkvMTdLbGlHZzFEenZoUG5CYy84Zz09">Resources</a></li>
+
+<li><a href="https://docs.google.com/document/d/1zVBijo_3sHziYQJ4iQDqer9Lede54UbTMWbFMYeIzK0/edit#heading=h.m75zuy1og0t3">Notes</a></li>
+</ul>
