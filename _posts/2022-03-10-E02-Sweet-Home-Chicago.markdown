@@ -5,7 +5,7 @@ authors: "Matt Perez"
 image: "book.jpg"
 ---
 
-<div style="display: none;">BREAKING:
+<div style="display: none;">Sammie brings their child, Munjez, to Vic. She is in for a surprise.
 <br>
 <br>
 <br>
@@ -321,7 +321,9 @@ After they were alone, Sammie got right into it.
 <a href="#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
 </ul>
 
-<title>Further Reading</title>
+<br>
+<br>
+<h1>Further Reading</h1>
 
 <ul>
 <li><a href="https://docs.google.com/document/d/1oxZ1Ol2pMnhmbssCijIq3ipPF-9GPvVXwaCPUtuQsUA/edit#">The Hidden Masters – Notes</a></li>
