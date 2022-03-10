@@ -5,7 +5,6 @@ authors: "Matt Perez"
 image: "book.jpg"
 ---
 
-xxxx
 <div style="display: none;">BREAKING: First child be born in space. Every country around the world claims the First of Earth as a native.
 <br>
 <br>
@@ -13,14 +12,13 @@ xxxx
 <br>
 <br>
 </div>
-xxxx
 
 ...
 First they ignore you.
 Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you.
-```
+...
 
 <h2>FIRST OF EARTH (E01)</h2>
 
