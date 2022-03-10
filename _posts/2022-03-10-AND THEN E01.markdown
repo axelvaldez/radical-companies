@@ -5,12 +5,12 @@ authors: "Matt Perez"
 image: "book.jpg"
 ---
 
-<div style="display: none;">BREAKING: First child be born in space. Every country around the world claims her as a native: happy little Sammie is the the first of Earth!</div>
+<div style="display: none;">BREAKING: First child be born in space. Every country around the world claims the First of Earth as a native.</div>
 ```
 First they ignore you.
- Then they want to burn you.
- Then they ridicule you.
- And then they build monuments to you
+Then they want to burn you.
+Then they ridicule you.
+And then they build monuments to you
 ```
 
 <h2>Episode 01 – FIRST OF EARTH</h2>
