@@ -25,14 +25,9 @@ COINs are also decentralized. Companies will be the guarantors of COINs. Not ban
 
 Our goal is that a decentralized and transparent COIN will make possible a world-wide market that we can all play in without intermediaries.
 
-## Some Terminology
+### Some Terminology
 
-<table>
-<tr><th>Command</th><th>Description</th></tr>
-<tr><tb>git status</tb><tb>List all new or modified files</tb></tr>
-</table>
-
-| National Fiat Coin  | Throughout the rest of this document, you will notice that I stubbornly use “national fiat coin,” instead of “money” or “currency.” This is mostly to remind myself of a few key distinctions,
+National Fiat Coin  | Throughout the rest of this document, you will notice that I stubbornly use “national fiat coin,” instead of “money” or “currency.” This is mostly to remind myself of a few key distinctions,
 + “Money” is primarily a concept
 + “Coins” are a tangible instance of money.
 + “Fiat money” is coinage created by fiat, out of whole cloth. It used to be that you needed gold to create coins, but not anymore.
@@ -41,11 +36,9 @@ As a unit of measure, a national fiat coin works like a meter or a minute and se
 
 National fiat coins act as a store of value by virtue of their fixed nominal value. This means that these coins can be used to accumulate financial wealth. From that perspective, national fiat coins do not deserve to be called “currency,” not while stuffed under the proverbial mattress.
 
-xxx
+National fiat coins serve as a medium of exchange. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point exchange was based on the value of gold, but since the 1970s the system is based on each country’s say so, national fiat coins. National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.
 
-National fiat coins serve as a medium of exchange. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point exchange was based on the value of gold, but since the 1970s the system is based on each country’s say so, national fiat coins. National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat. |
-| Currency
-Another common name for national fiat coins is “currency.” It means to indicate that money flows from one person to the next to facilitate the exchange of commodities. But national fiat coins don’t always flow.
+Currency | Another common name for national fiat coins is “currency.” It means to indicate that money flows from one person to the next to facilitate the exchange of commodities. But national fiat coins don’t always flow.
 
 Because coins hold their value forever, they can be hoarded to accumulate financial wealth in bank accounts or under the proverbial mattress.
 
@@ -53,75 +46,114 @@ Given this, national fiat coins do not deserve to be called “currency.” |
 
 
 To avoid confusion, I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.
-Historical Perspective
+
+### Historical Perspective
+
 COINs are not to be confused, or conflated, with local or complementary currencies, demurrage money, or any such. Ditto for Mutualism, Marxism, or any other theory or ideology. The point of COIN is to make it possible to have a market, free of intermediaries, and with negligible costs.
+
 In fact, although they are not identical, COINs are very similar to national fiat coins. They are a unit of measure, a store of value, and a medium of exchange, but with these twists,
 They represent value at its broadest. In addition to financial value, they account for wellbeing, contributions, acts of kindness, and all the other things that are important to people.
 They spread risks and benefits through society. We all share in the adventure: the burden of risk and the joys of gains.
+
 COINs bypass the complications and costs brought about by banks, exchanges, national politics, and the influence of transnationals.
 COINs have the potential to enable a world-wide market. This will help us break out of our national silos, create an economy that’s decentralized and transparent.
-Worth Repeating
+
+### Worth Repeating
+
 This may be a difficult read and it may be worth repeating here a few words about the RADICAL framework and how it’s different from our current world. Probably the most confusing thing about it is that a RADICAL world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.
+
 The only difference—the big difference—is that the RADICAL system is centered around our interdependence.
+
 Our current system is based on separating us: countries, towns, good and bad neighborhoods; political parties and their vastly different realities; need to know, secrecy, protection. This leaves us disconnected and drives us to isolation. Businesses are built on creating platforms to bring us back together, for a fee. This works for a world where money comes first, ahead of everything else.
+
 A RADICAL world, too, is centered around accomplishments and real innovation, but it prioritizes what’s important to people first, ahead of everything else, including money. We’ll still be individuals, with our own needs, rights, and idiosyncrasies. We are not going to become a number. The RADICAL model is centered on trust, the type that comes from community and collaboration.
-The RADICAL Model
+
+### The RADICAL Model
 We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands telling people what to do, how to do it, and when to do it. Here we assume a RADICAL world that is, at the same time, alike and different from our world today.
+
 In the RADICAL model, a company is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word “company” because it has an interesting genesis: it comes from the Latin con- and pan. The prefix con- means “together, with” and pan means “bread, food.” At its root, then, company means “people who break bread together.” In the RADICAL model a company is a community of people who come together to contribute broad value to society and make an impact on the world.
+
 Rather than having an owner and a hierarchy of bosses, a RADICAL company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there..
 
 
 They do this starting from a simple foundation of interdependence,
-Meaning & Belonging
-Principles
-relationships
+
+---
+Meaning & Belonging |
+Principles |
+relationships |
 
 
-Transparency & Decentralization
-Commitments
-autonomy
+Transparency & Decentralization |
+Commitments |
+autonomy |
 
 
-Alignment & Experimentation
-Practices
-collaboration
+Alignment & Experimentation |
+Practices |
+collaboration |
+---
 
+### Evolution, Interrupted
 
-
-
-
-Evolution, Interrupted
 As I see it, the RADICAL model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.
+
 The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of interdependence towards a higher level of collaboration.
-A World-Wide Market
+
+### A World-Wide Market
+
 A world-wide market would bring us together rather than keeping us siloed by the Rube Goldberg markets we have today.
+
 We could have a single world government create and enforce a single currency. But even if it were politically feasible, it is unnecessary and a move in the wrong direction towards centralization. To wit, we didn’t need a single world government for minutes, meters, or the Internet, some of the most useful world-wide tools of all time.
+
 A decentralized, transparent COIN is fundamental to such a unified market. These are some of the other things we would need to nourish and support a world-wide market,
-Decentralized Market
+
+### Decentralized Market
 We need a decentralized market to nurture the next stage of innovation and accomplishment.
+
 National fiat coins are not very stable and bring with them a lot of cyclical crises. They make international markets very complex, opaque, and very expensive.
+
 Today’s international markets have been cobbled together by agreements that are fraught with weaknesses. National and international politics make transaction costs very expensive. Worst of all, these international markets are unduly influenced by transnational businesses seeking to profit no matter the harm to society.
+
 A decentralized market can truly be a pricing engine, free of interference and manipulation.
 Decentralized Minting
+
 We need decentralized minting of COINs to take national and international politics out of it and to eliminate the influence of transnational corporations.
 COINs are minted by companies, not any national government or central banks.
-Transparent COINs
+
+### Transparent COINs
+
 National fiat coins are opaque. In theory that’s good because it reduces transaction costs. But this “reduction of costs” also disables human choice.
+
 In any case, the big transaction costs are those that banks, exchanges, and political manipulation bring in. And opaqueness does not reduce any of those.
+
 RADICAL COINs are transparent. An integral part of each COIN is the log that comes along with them. This will restore people’s  ability to make choices based on that information.
-Trusted Measure
+
+### Trusted Measure
+
 A measure can be “trusted” because it means the same thing to people anywhere. RADs, too, can be trusted if you believe that people are pretty much the same anywhere.
+
 In a rural setting somebody will get RADs for milking a goat, while in an urban setting someone else will get RADs for stopping cars so children can cross the street. The same human feeling that acted in the rural case was active in the urban setting. The value of capturing that feeling in tangible ways is more important than its number accuracy. RADs, and the COINs that they factor, can be trusted because the “pricing engine,” meaning each of us, is the same.
-RAD Distributions
+
+### RAD Distributions
+
 This idea originated with entrepreneur and pioneer Philip Rosedale. This is a practice that he’s deployed at his various businesses,
+
 As the company grows, every month an equal amount of cash and shares of the company are earmarked for distribution.
 Every member gets an equal portion of the wealth the company generated.
+
 Rather than keeping them for themselves, people give this money and shares out to anybody they feel has contributed during the month.
+
 There is no set criteria and each person decides who should be recognized, what should be recognized as a contribution, and how much to give to others.
+
 The RADICAL Distributions is very similar, but instead of cash or stocks, it uses RADs, a dimensionless unit. At the end of each Distribution the total number of RADs allocated to each person represents their dynamic percentage of ownership of the broad value created by a company.
+
 Because broad value accounts for things other than financial value, RADs account for the uncountable. And because COINs are factored through RADs, they represent broad value as well. In other words, each person's share of COINs is a function of their contributions and reflects the full spectrum of human values, not just financial value.
-COIN
+
+### COIN
+
 These are a few of the qualities that a COIN must have. They are in no particular order.
+
 Decentralized Minting
 COINs are minted by companies, not a national government.
 
