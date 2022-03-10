@@ -355,35 +355,30 @@ After a few weeks Sammie got tired of being a RADICAL celebrity and she accepted
 <li><a href="https://docs.google.com/document/d/14A5U000ny7_zF8_HutQF1pcMoUwQmI7tfXaMB9uKk3M/edit#heading=h.gqizizpnpgzu">rSparkle</a></li>
   
 <li><a href="https://docs.google.com/document/d/16eg7wnyH61xPT4pWFWsuwHydKaxeP8k5xKGX3Pglzp0/edit#heading=h.gqizizpnpgzu">rStayHome</a></li>
-  
-<li><a href="https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu">KidsCare</a></li>  
-</ul>
-</ul>
+    <li><a href="https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu">KidsCare</a></li>  
+   </ul>
+  </ul>
 
 <li>Startups</li>
-<ul>
-<li><a href="https://docs.google.com/document/d/1lE-khYtIyXoFeSIlUGcFPzESsslnBoGcmZMQaeVBVgw/edit#">rBuddyNeighbor</a></li>
-<li><a href="https://docs.google.com/document/d/16jST0lzzezNoFstE2ccZoI2HirgWBu3gQGnEok5OhGY/edit#">rNextBright</a></li>
- 
- 
-<li><a href="https://docs.google.com/document/d/1dMxsO5LMhKle97J8tPscBs5g64_QKZsiRnDtsccBUE4/edit#heading=h.gqizizpnpgzu">rHintersoft</a></li> 
-</ul>
+  <ul>
+   <li><a href="https://docs.google.com/document/d/1lE-khYtIyXoFeSIlUGcFPzESsslnBoGcmZMQaeVBVgw/edit#">rBuddyNeighbor</a></li>
+   <li><a href="https://docs.google.com/document/d/16jST0lzzezNoFstE2ccZoI2HirgWBu3gQGnEok5OhGY/edit#">rNextBright</a></li>
+   <li><a href="https://docs.google.com/document/d/1dMxsO5LMhKle97J8tPscBs5g64_QKZsiRnDtsccBUE4/edit#heading=h.gqizizpnpgzu">rHintersoft</a></li> 
+  </ul>
 
 <li>rProjects 
-<ul>
+  <ul>
+   <li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a></li>
  
-<li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a></li>
+   <li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
  
-<li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
- 
-<li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a></li>
-</ul>
+   <li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a></li>
+  </ul>
 
 <li>RADICAL Science Fiction</li>
-<ul>
- 
-<li>
-<a href="#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
+  <ul>
+   <li><a href="#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
+  </ul>
 </ul>
 
 <br>
