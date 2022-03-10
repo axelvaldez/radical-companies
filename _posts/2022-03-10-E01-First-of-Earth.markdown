@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AND THEN… - E01 – FIRST OF EARTH"
+title:  "AND THEN THEY WANT TO BURN YOU<BR>E01 – FIRST OF EARTH"
 authors: "Matt Perez"
 image: "book.jpg"
 ---
