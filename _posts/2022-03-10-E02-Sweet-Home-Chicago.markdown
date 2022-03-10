@@ -251,7 +251,6 @@ After they were alone, Sammie got right into it.
  
 <li>Frequently asked questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
 </ul>
-</li>
 
 <li>The missing chapters,</li>
 <ul>
