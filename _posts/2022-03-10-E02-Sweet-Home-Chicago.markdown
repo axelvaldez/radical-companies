@@ -318,7 +318,9 @@ After they were alone, Sammie got right into it.
 <ul>
  
 <li>
-<a href="#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a>
+<a href="#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
+</ul>
+
 <h1>Further Reading</h1>
 
 <ul>
