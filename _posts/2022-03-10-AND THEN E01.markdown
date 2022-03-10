@@ -6,9 +6,9 @@ image: "book.jpg"
 ---
 
 ```
-First they ignore you. x<br>x
-Then they ridicule you.
-Then they want to burn you.
+First they ignore you.&nbsp;
+Then they want to burn you.&nbsp;
+Then they ridicule you.&nbsp;
 And then they build monuments to you
 ```
 
