@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AND THEN THEY WANT TO BURN YOU"
+title:  "AND THEN THEY WANT TO BURN YOU [E01]"
 authors: "Matt Perez"
 image: "book.jpg"
 ---
