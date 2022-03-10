@@ -29,7 +29,7 @@ Our goal is that a decentralized and transparent COIN will make possible a world
 
 <table>
 <tr><th>Command</th><th>Description</th></tr>
-<tr><th>git status</th><th>List all new or modified files</th></tr>
+<tr><tb>git status</tb><tb>List all new or modified files</tb></tr>
 </table>
 
 | National Fiat Coin  | Throughout the rest of this document, you will notice that I stubbornly use “national fiat coin,” instead of “money” or “currency.” This is mostly to remind myself of a few key distinctions,
