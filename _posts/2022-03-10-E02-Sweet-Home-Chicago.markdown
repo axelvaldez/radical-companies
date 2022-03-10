@@ -13,13 +13,6 @@ image: "book.jpg"
 <br>
 </div>
 
-...
-First they ignore you.
-Then they ridicule you.
-Then they want to burn you.
-And then they build monuments to you.
-...
-
 <pre class="prettyprint">First they ignore you.
 Then they ridicule you.
 Then they want to burn you.
@@ -126,8 +119,6 @@ Kiki was not all happy about Sammie’s decision, but she was right. “Can’t 
 “I know, but it’s more than that. If we want him to really <em>know</em> his dad, then they have to start interacting now. It’s like learning a language, it starts from day one, otherwise your brain removes any connection that is not reinforced by the environment you grow up in. No dad, and your brain removes what could have been dad processes. I think it’s worth the trip to give Munjez, and Vic, a chance.”
 </p>
 <h1>You Won’t Like It</h1>
-
-
 <p>
 In space, she was not a celebrity, but she was well known. In any case, she had spent a lot of time here while they were finishing the Minor habitat and she had worked and lived with a lot of these people. As she went to her quarters it was all, “Wow, long time” and “Hey the little one is not so little anymore,” or “Hey, you look just like your Mod.” Vic, of course, was nowhere to be found. She was almost done setting up the room for Munjez when he finally showed up.
 </p>
@@ -249,35 +240,31 @@ After they were alone, Sammie got right into it.
 
 
 <ul>
-
-<li>RADICAL COMPANIES, 
+<li>RADICAL COMPANIES,</li>
 <ul>
  
-<li><a href="https://docs.google.com/document/d/1Vt-3hM_i1x9FzfoO0hDX8itRnPV5OQWKcfWsjV6a6CQ/edit#heading=h.rutigyp6zcd3">EN</a>: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a>
+<li><a href="https://docs.google.com/document/d/1Vt-3hM_i1x9FzfoO0hDX8itRnPV5OQWKcfWsjV6a6CQ/edit#heading=h.rutigyp6zcd3">EN</a>: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
  
-<li><a href="https://docs.google.com/document/d/1UYxFNZyJvFZf4DMZkspF5cF6Yzl_ugI67lmqoYJhtGw/edit#heading=h.87ak6hy0sbuh">ES</a>: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a>
+<li><a href="https://docs.google.com/document/d/1UYxFNZyJvFZf4DMZkspF5cF6Yzl_ugI67lmqoYJhtGw/edit#heading=h.87ak6hy0sbuh">ES</a>: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
  
-<li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a>
+<li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
  
-<li>Frequently asked questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a>
-</li> 
+<li>Frequently asked questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
+</ul>
+</li>
+
+<li>The missing chapters,</li>
+<ul>
+<li><a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu">RADICAL COIN</a></li>
+ 
+<li><a href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76">RADICAL LAND</a></li>
+ 
+<li><a href="https://docs.google.com/document/d/1P4tZw1iAAnJtP2zlijgttIv1Cxq47PBPzqK3UbMHCSY/edit#">RADICAL GOVERNMENT</a></li> 
 </ul>
 
-<li>The missing chapters, 
+<li>rCompanies</li>
 <ul>
- 
-<li><a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu">RADICAL COIN</a>
- 
-<li><a href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76">RADICAL LAND</a>
- 
-<li><a href="https://docs.google.com/document/d/1P4tZw1iAAnJtP2zlijgttIv1Cxq47PBPzqK3UbMHCSY/edit#">RADICAL GOVERNMENT</a>
-</li> 
-</ul>
-
-<li>rCompanies 
-<ul>
- 
-<li>rPRADERA MEDIA  
+<li>rPRADERA MEDIA</li>
 <ul>
   
 <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA SHELF</a>
@@ -290,28 +277,26 @@ After they were alone, Sammie got right into it.
 </li>  
 </ul>
  
-<li><a href="https://docs.google.com/document/d/1oV_WgvZ0mChe-f8o114p_8BSGldn3ZVkQjHnhwk7ccw/edit#heading=h.gqizizpnpgzu">rHatchery</a>
+<li><a href="https://docs.google.com/document/d/1oV_WgvZ0mChe-f8o114p_8BSGldn3ZVkQjHnhwk7ccw/edit#heading=h.gqizizpnpgzu">rHatchery</a></li>
  
-<li><a href="https://docs.google.com/document/d/1apVl75nS-Z4b2rpqu-UkDjjYkujLANMiK7zZoU0jGeE/edit#heading=h.ypydz5z11jxq">rCircuit</a>
+<li><a href="https://docs.google.com/document/d/1apVl75nS-Z4b2rpqu-UkDjjYkujLANMiK7zZoU0jGeE/edit#heading=h.ypydz5z11jxq">rCircuit</a></li>
  
-<li><a href="https://docs.google.com/document/d/1aoqNhAW6P4QQFM3epM5VqPFdiTgyxTKPUE1c4j8r2k4/edit#heading=h.gqizizpnpgzu">rPlayGym</a>
+<li><a href="https://docs.google.com/document/d/1aoqNhAW6P4QQFM3epM5VqPFdiTgyxTKPUE1c4j8r2k4/edit#heading=h.gqizizpnpgzu">rPlayGym</a></li>
  
-<li><a href="https://docs.google.com/document/d/13c1PYhbQEjRlkfmmGQESJD-cTB5b6jmWWBnEpTt1NFU/edit#heading=h.gqizizpnpgzu">rEnsemble</a>  
+<li><a href="https://docs.google.com/document/d/13c1PYhbQEjRlkfmmGQESJD-cTB5b6jmWWBnEpTt1NFU/edit#heading=h.gqizizpnpgzu">rEnsemble</a></li>
 <ul>
   
-<li><a href="https://docs.google.com/document/d/1-eMt4p4qNJFc9SJkeSoarmy-xG6WtE51eQv047pvTNk/edit#heading=h.gqizizpnpgzu">rTranslate</a>
+<li><a href="https://docs.google.com/document/d/1-eMt4p4qNJFc9SJkeSoarmy-xG6WtE51eQv047pvTNk/edit#heading=h.gqizizpnpgzu">rTranslate</a></li>
   
-<li><a href="https://docs.google.com/document/d/14A5U000ny7_zF8_HutQF1pcMoUwQmI7tfXaMB9uKk3M/edit#heading=h.gqizizpnpgzu">rSparkle</a>
+<li><a href="https://docs.google.com/document/d/14A5U000ny7_zF8_HutQF1pcMoUwQmI7tfXaMB9uKk3M/edit#heading=h.gqizizpnpgzu">rSparkle</a></li>
   
-<li><a href="https://docs.google.com/document/d/16eg7wnyH61xPT4pWFWsuwHydKaxeP8k5xKGX3Pglzp0/edit#heading=h.gqizizpnpgzu">rStayHome</a>
+<li><a href="https://docs.google.com/document/d/16eg7wnyH61xPT4pWFWsuwHydKaxeP8k5xKGX3Pglzp0/edit#heading=h.gqizizpnpgzu">rStayHome</a></li>
   
-<li><a href="https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu">KidsCare</a>
-</li>  
+<li><a href="https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu">KidsCare</a></li>  
 </ul>
-</li>  
 </ul>
 
-<li>Startups 
+<li>Startups</li>
 <ul>
  
 <li><a href="https://docs.google.com/document/d/1lE-khYtIyXoFeSIlUGcFPzESsslnBoGcmZMQaeVBVgw/edit#">rBuddyNeighbor</a>
@@ -325,35 +310,32 @@ After they were alone, Sammie got right into it.
 <li>rProjects 
 <ul>
  
-<li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a>
+<li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a></li>
  
-<li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a>
+<li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
  
-<li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a>
-</li> 
+<li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a></li>
 </ul>
 
-<li>RADICAL Science Fiction 
+<li>RADICAL Science Fiction</li>
 <ul>
  
 <li>
 <a href="#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a>
-<h1>
-    Further Reading</h1>
-
+<h1>Further Reading</h1>
 
 <ul>
+<li><a href="https://docs.google.com/document/d/1oxZ1Ol2pMnhmbssCijIq3ipPF-9GPvVXwaCPUtuQsUA/edit#">The Hidden Masters – Notes</a></li>
 
-<li><a href="https://docs.google.com/document/d/1oxZ1Ol2pMnhmbssCijIq3ipPF-9GPvVXwaCPUtuQsUA/edit#">The Hidden Masters – Notes</a>
+<li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
 
-<li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a>
+<li><a href="https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790">A gatekeeper for learning</a> (see <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.obnewqdc49h3">AnchorMod</a>)</li>
 
-<li><a href="https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790">A gatekeeper for learning</a> (see <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.obnewqdc49h3">AnchorMod</a>)
+<li><a href="https://docs.google.com/document/d/139NTUSbvAfsGKKm0VYIGWFjQ_gSQReDWkmPcykSaj4A/edit#heading=h.hv9kv7g9sjnn">Narrative Arc</a></li>
 
-<li><a href="https://docs.google.com/document/d/139NTUSbvAfsGKKm0VYIGWFjQ_gSQReDWkmPcykSaj4A/edit#heading=h.hv9kv7g9sjnn">Narrative Arc</a>
+<li><a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.45tbumt6bcua">Future Tech and Culture</a></li>
 
-<li><a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.45tbumt6bcua">Future Tech and Culture</a>
+<li><a href="https://us02web.zoom.us/j/82364452948?pwd=NzkvMTdLbGlHZzFEenZoUG5CYy84Zz09">Resources</a></li>
 
-<li><a href="https://us02web.zoom.us/j/82364452948?pwd=NzkvMTdLbGlHZzFEenZoUG5CYy84Zz09">Resources</a>
-
-<li><a href="https://docs.google.com/document/d/1zVBijo_3sHziYQJ4iQDqer9Lede54UbTMWbFMYeIzK0/edit#heading=h.m75zuy1og0t3">Notes</a>
+<li><a href="https://docs.google.com/document/d/1zVBijo_3sHziYQJ4iQDqer9Lede54UbTMWbFMYeIzK0/edit#heading=h.m75zuy1og0t3">Notes</a></li>
+</ul>
