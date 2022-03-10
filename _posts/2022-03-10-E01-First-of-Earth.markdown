@@ -18,7 +18,7 @@ Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
 
-<h1>FIRST OF EARTH</h1>
+<h3>FIRST OF EARTH</h3>
 
 
 <p>
@@ -60,7 +60,7 @@ In any case, Sammie has done her part for the world. Now it's time for her to ex
 <p>
 Happy little Sammie, look what you've brought about. You will forever be the first, but you won't be the only Citizen of Earth for long.
 </p>
-<h1>It’s a Go!</h1>
+<h3>It’s a Go!</h3>
 
 
 <p>
@@ -123,8 +123,8 @@ At this point, the pilot would have drifted off and started unloading cargo with
 <p>
 “That’s what they tell me,” she said. So that’s what the look had been about. Perhaps he thought she would be taller.
 </p>
-<h1>
-Slowly but Surely</h1>
+<h3>
+Slowly but Surely</h3>
 
 
 <p>
@@ -202,7 +202,7 @@ She popped into the rendered Mod one more time and before she could even speak, 
 <p>
 “It’s good to finally meet you, Samantha. I wish I had lived longer, but we did overlap just when you were a baby.”
 </p>
-<h1>First Visit</h1>
+<h3>First Visit</h3>
 
 
 <p>
@@ -220,7 +220,7 @@ The thing is that when you grow up with Mods as she had, that is your reality. B
 <p>
 Simulating environmental features didn’t sound like an impossible thing to do. I wonder if somebody had put up a Banner to fund looking into combining the Archotron and Neuromorphics to integrate a full blown simulation that felt more real.
 </p>
-<h1>Mom, I’m Home</h1>
+<h3>Mom, I’m Home</h3>
 
 
 <p>
@@ -265,13 +265,13 @@ Not soon after that the invitation from the Chinese Pod came and it didn’t tak
 <p>
 In that awkward, last minute hug Sammie felt an exoskeleton under her mom’s clothes. She recognized it because they were not that different from the one they all used in the oYard when they had to move something massive. Now the whole thing made sense: besides aiding her movement, the exo was keeping her mom alive and coherent. So this wasn’t quite a health cluster, more like a hospice.
 </p>
-<h1>Floating Away</h1>
+<h3>Floating Away</h3>
 
 
 <p>
 Sammie’s trip to the Beijing Pod took a bit over forty-eight hours in an inflatable ship. It was surprisingly comfortable and very efficient. And floating in the vast body of water had the same dangerous, exhilarating  edge of the other open spaces. Little by little the immensity of Earth was starting to dawn on me. The oYard was big and roomy, but this… this <em>planet</em> was in a different class altogether. The people who still called it Spaceship Earth had no idea how stupid that sounded to somebody who was born and raised in a real spaceship.
 </p>
-<h1>The Middle Kingdom</h1>
+<h3>The Middle Kingdom</h3>
 
 
 <p>
@@ -302,7 +302,7 @@ They had a long talk about what looked like their struggle with decentralization
 After a few weeks Sammie got tired of being a RADICAL celebrity and she accepted the invitation to go to the Chicago Pod in what used to be the United States of America. The electric jet went up to the edge of the biosphere, although she would not call that “space” as they did throughout the trip. It was a lot shorter than her trip from the Karala Pod to the Beijing Pod. It was also boring and she slept for most of it.
 </p>
 
-<h1>Related</h1>
+<h3>Related</h3>
 
 
 <ul>
@@ -388,7 +388,7 @@ After a few weeks Sammie got tired of being a RADICAL celebrity and she accepted
 
 <br>
 <br>
-<h1>Further Reading</h1>
+<h3>Further Reading</h3>
 
 <ul>
 <li><a href="https://docs.google.com/document/d/1oxZ1Ol2pMnhmbssCijIq3ipPF-9GPvVXwaCPUtuQsUA/edit#">The Hidden Masters – Notes</a></li>
