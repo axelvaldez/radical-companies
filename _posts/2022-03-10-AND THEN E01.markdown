@@ -1,30 +1,9 @@
 ---
 layout: post
-title:  "AND THEN THEY WANT TO BURN YOU DOWN"
-subtitle: "EPISODE 01 — First of Earth "
+title:  "AND THEN THEY WANT TO BURN YOU"
 authors: "Matt Perez"
 image: "book.jpg"
 ---
-<table>
-  <tr>
-   <td>
-<h2>AND THEN THEY \
-WANT TO BURN YOU</h2>
-
-
-   </td>
-  </tr>
-  <tr>
-   <td>>EPISODE 01 – First of Earth
-   </td>
-  </tr>
-  <tr>
-   <td>>Matt PEREZ | Adrian PEREZ
-   </td>
-  </tr>
-</table>
-
-
 
 ```
 First they ignore you.
@@ -33,33 +12,32 @@ Then they want to burn you.
 And then they build monuments to you
 ```
 
+<h2>Episode 01 – FIRST OF EARTH</h2>
 
-<h2>FIRST OF EARTH</h2>
 
+**<strong><code>SAT 16 NOV 2030.</code></strong> It came sooner than expected, though not as a complete surprise. It was a great offer for the company we had founded and contributed to for eleven years. This was proof that creating a place where every contributor is treated as an adult and everyone of them is a co-owner of what they’ve created together leads to a wildly successful business as well.
 
-**<code>SAT 16 NOV 2030.</code></strong> It came sooner than expected, though not as a complete surprise. It was a great offer for the company we had founded and contributed to for eleven years. This was proof that creating a place where every contributor is treated as an adult and everyone of them is a co-owner of what they’ve created together leads to a wildly successful business as well.
+**<strong><code>THU 6 NOV 2036</code></strong>. Time to get in line to get a ticket to outer space. But for our granddaughter, not for us. Of course, we don't have a granddaughter, yet, but she's on her way. And the timing of her birth is just right for her to be born in outer space.
 
-**<code>THU 6 NOV 2036</code></strong>. Time to get in line to get a ticket to outer space. But for our granddaughter, not for us. Of course, we don't have a granddaughter, yet, but she's on her way. And the timing of her birth is just right for her to be born in outer space.
-
-**<code>THU 26 FEB 2037.</code></strong> Finally! It looks like all the ducks are lined up so that our daughter-in-law can have her baby in space safely. If somebody had told me what it was going to take, we might not have gotten into this, so thank goodness for naïveté. Of course, we were all naïve: nobody knew how to pull this off. After all, it is a first.
+**<strong><code>THU 26 FEB 2037.</code></strong> Finally! It looks like all the ducks are lined up so that our daughter-in-law can have her baby in space safely. If somebody had told me what it was going to take, we might not have gotten into this, so thank goodness for naïveté. Of course, we were all naïve: nobody knew how to pull this off. After all, it is a first.
 
 Once we pull the trigger on this, we won't be so wealthy after all, but my wife and I want to see it through, no matter the costs. And we are not the only ones who feel this way. All kinds of people have come forward to help us make this a (very expensive) reality. They, we, are starting to get an inkling of the much bigger impact this may have on humanity.
 
-**<code>WED 22 APR 2037.</code></strong> Well, I'll be …! In less than two months the sponsor nations of what became the Orbital Shipyard have chosen to declare my granddaughter a native of their respective countries the minute she's born. THIS IS FANTASTIC and beyond anything we had ever hoped for.
+**<strong><code>WED 22 APR 2037.</code></strong> Well, I'll be …! In less than two months the sponsor nations of what became the Orbital Shipyard have chosen to declare my granddaughter a native of their respective countries the minute she's born. THIS IS FANTASTIC and beyond anything we had ever hoped for.
 
-**<code>WED 10 JUN 2037.</code></strong> This is stunning. Just got word that even China and several other nations will declare my granddaughter a native of their countries as well. The UN is supposedly working on some kind of declaration, too.
+**<strong><code>WED 10 JUN 2037.</code></strong> This is stunning. Just got word that even China and several other nations will declare my granddaughter a native of their countries as well. The UN is supposedly working on some kind of declaration, too.
 
 We are not sure what to expect anymore. What does it even mean to be a native citizen of nearly every country on Earth?
 
-**<code>FRI 26 MAR 2038.</code></strong> Of course she is beautiful, she’s our granddaughter! Our first. She's also the first Citizen of Earth. That is what the UN had been working on and they announced it today, just as my daughter-in-law was in the throes of a final push. Other than the politics around it, it all went as well as we had hoped for.
+**<strong><code>FRI 26 MAR 2038.</code></strong> Of course she is beautiful, she’s our granddaughter! Our first. She's also the first Citizen of Earth. That is what the UN had been working on and they announced it today, just as my daughter-in-law was in the throes of a final push. Other than the politics around it, it all went as well as we had hoped for.
 
-**<code>TUE 20 SEP 2039.</code></strong> Thank goodness my son and his family are back home. They've had two years of nearly non-stop traveling. It seemed that every country in the world wanted to celebrate their first Citizen of Earth in person. Luckily, except for a few minor infections, Sammie, as we call our granddaughter Samantha, has been very healthy.
+**<strong><code>TUE 20 SEP 2039.</code></strong> Thank goodness my son and his family are back home. They've had two years of nearly non-stop traveling. It seemed that every country in the world wanted to celebrate their first Citizen of Earth in person. Luckily, except for a few minor infections, Sammie, as we call our granddaughter Samantha, has been very healthy.
 
 She's a very happy baby. And she also has this… presence. It's almost as if she knows how significant she's become.
 
 In any case, Sammie has done her part for the world. Now it's time for her to exit the limelight, be a little girl, and enjoy the rest of her life.
 
-**<code>MON 6 JUL 2043.</code></strong> Who would have thought it would get this far? The First of Earth movement has taken hold in even the most war-torn countries. It looks like they are going to pull it off. Decentralized governance, impact aligned, and … who’d have thought it possible?
+**<strong><code>MON 6 JUL 2043.</code></strong> Who would have thought it would get this far? The First of Earth movement has taken hold in even the most war-torn countries. It looks like they are going to pull it off. Decentralized governance, impact aligned, and … who’d have thought it possible?
 
 Happy little Sammie, look what you've brought about. You will forever be the first, but you won't be the only Citizen of Earth for long.
 
@@ -267,14 +245,9 @@ After a few weeks Sammie got tired of being a RADICAL celebrity and she accepted
     * [RADs!](https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu)
     * [Attentive UI](https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu)
 * RADICAL Science Fiction
-    * 
+    * [And then They Want to Burn You](#heading=h.hv9kv7g9sjnn)
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "And then They Want to Burn You"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[And then They Want to Burn You](#heading=h.hv9kv7g9sjnn)
-<h2>
-    Resources</h2>
-
+<h2>Further Reading</h2>
 
 * [The Hidden Masters – Notes](https://docs.google.com/document/d/1oxZ1Ol2pMnhmbssCijIq3ipPF-9GPvVXwaCPUtuQsUA/edit#)
 * [Moons of Jupiter](https://en.wikipedia.org/wiki/Moons_of_Jupiter)
