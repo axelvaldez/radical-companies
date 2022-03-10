@@ -6,15 +6,12 @@ image: "book.jpg"
 ---
 
 <div style="display: none;">BREAKING: First child be born in space. Every country around the world claims the First of Earth as a native.</div>
-<br>
-<br>
-<br>
-<br>
-<pre style="font-size:40ps; border:1px">
+
+<div style="font-size:40ps; border:1px">
 First they ignore you.
-Then they want to burn you.
 Then they ridicule you.
-And then they build monuments to you
+Then they want to burn you.
+And then they build monuments to you.
 </div>
 ```
 
