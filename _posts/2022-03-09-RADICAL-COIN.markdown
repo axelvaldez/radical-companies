@@ -38,12 +38,13 @@ National fiat coins act as a store of value by virtue of their fixed nominal val
 
 National fiat coins serve as a medium of exchange. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point exchange was based on the value of gold, but since the 1970s the system is based on each country’s say so, national fiat coins. National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.
 
-Currency | Another common name for national fiat coins is “currency.” It means to indicate that money flows from one person to the next to facilitate the exchange of commodities. But national fiat coins don’t always flow.
+Currency
+
+Another common name for national fiat coins is “currency.” It means to indicate that money flows from one person to the next to facilitate the exchange of commodities. But national fiat coins don’t always flow.
 
 Because coins hold their value forever, they can be hoarded to accumulate financial wealth in bank accounts or under the proverbial mattress.
 
-Given this, national fiat coins do not deserve to be called “currency.” |
-
+Given this, national fiat coins do not deserve to be called “currency.”
 
 To avoid confusion, I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.
 
