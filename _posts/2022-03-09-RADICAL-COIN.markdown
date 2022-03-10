@@ -13,7 +13,7 @@ image: "book.jpg"
 
 
 
-# Introduction
+### Introduction
 
 Today, money    is the canonical medium of exchange and that is what we assumed in our book, RADICAL COMPANIES. After all, we need money to pay our bills and as a medium of exchange to buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people. This is problematic and leads to the most serious problems we face today.
 
