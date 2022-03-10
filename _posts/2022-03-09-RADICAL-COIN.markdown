@@ -32,8 +32,10 @@ Our goal is that a decentralized and transparent COIN will make possible a world
 ## Some Terminology
 
 ---
-| National Fiat Coin  | Text |
-| Currenty | Text |
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 ---
 
 | National Fiat Coin  | Throughout the rest of this document, you will notice that I stubbornly use “national fiat coin,” instead of “money” or “currency.” This is mostly to remind myself of a few key distinctions,
