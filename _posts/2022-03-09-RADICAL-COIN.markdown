@@ -1,17 +1,13 @@
 ---
 layout: post
 title:  "RADICAL COIN"
+subtitle: "FOR A WORLD-WIDE MARKET"
 authors: "Matt Perez"
 image: "book.jpg"
 ---
-# RADICAL COIN
-## FOR A WORLD-WIDE MARKET
-
 > If Kings had figured out
 > fiat money,
 > we’d still be His Majesty’s subjects
-
-
 
 ### Introduction
 
@@ -31,12 +27,12 @@ Our goal is that a decentralized and transparent COIN will make possible a world
 
 ## Some Terminology
 
----
+<table>
 | Command | Description |
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
----
+</table>
 
 | National Fiat Coin  | Throughout the rest of this document, you will notice that I stubbornly use “national fiat coin,” instead of “money” or “currency.” This is mostly to remind myself of a few key distinctions,
 + “Money” is primarily a concept
