@@ -94,10 +94,8 @@ the whole arrangement is very fragile and under constant threat.</p>
    </td>
   </tr>
   <tr>
-   <td>x
-   </td>
-   <td>y
-   </td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
   </tr>
   <tr>
    <td><h4><p style="text-align: right">Currency</p></h4></td>
@@ -110,13 +108,9 @@ financial wealth in bank accounts or under the proverbial mattress.
 Given this, national fiat coins do not deserve to be called “currency.”
    </td>
   </tr>
-</table>
-<table>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
   </tr>
 </table>
 <p>
