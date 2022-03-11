@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "AND THEN… - E02 – SWEET HOME CHICAGO"
+title:  "AND THEN THEY WANT TO BURN YOU"
+subtitle: "E02 – SWEET HOME CHICAGO"
 authors: "Matt Perez"
 image: "book.jpg"
 ---
@@ -19,7 +20,6 @@ Then they want to burn you.
 And then they build monuments to you</pre>
 <br>
 <br>
-
 
 <h3>SWEET HOME CHICAGO</h3>
 
@@ -64,7 +64,6 @@ Unfortunately, because of this mess, Sammie didn’t get as much time as she wan
 </p>
 <h1>Sammie’s Child</h1>
 
-
 <p>
 At the age of 19, Sammie had a child and she named him Munjez, an homage to her great-great-grandfather’s birthplace. Thankfully, other children had already been born in the Edge settlements and Munjez was not “the First of” anything.
 </p>
@@ -72,7 +71,6 @@ At the age of 19, Sammie had a child and she named him Munjez, an homage to her 
 Sammie and Kiki had agreed on having Vic be Munjez’ dad so he could be in his life, too. Vic didn’t turn out to be a very attentive father, or very present. Except for the rare occasions when Vic parachuted in, the two women were raising Munjez pretty much on their own, 
 </p>
 <h1>Victor Boswell</h1>
-
 
 <p>
 Vic was a pretty happy guy. Pretty much of-the-moment and with no life-long aspirations. He had truly enjoyed his ten years in space, off Surface. The oYard had been somewhat constraining, but he nevertheless appreciated the close community it supported. The ability to tumble in 3D space was the greatest experience. He might have been born a creature of gravity, but space was his home, it was his destiny.
@@ -88,7 +86,6 @@ He insisted that he was going to be part of the kid’s life, but she knew he wo
 </p>
 <h1>The Boss</h1>
 
-
 <p>
 “Funny, the language they use,” Sammie said, “It’s all so self-important and it must be meant to make people feel bad for always falling short of their idealized new man. They published some kind of a rant and at the end justified the whole thing with ‘this is simply for your damn good’. Who’d come up with something like that?”
 </p>
@@ -102,7 +99,6 @@ He insisted that he was going to be part of the kid’s life, but she knew he wo
 After a moment of hesitation, Kiki broke out laughing. “Oh, for crying out loud, Samantha Bellamy, that’d be way, way too obvious. BOSS-well, really? No way!”
 </p>
 <h1>The Mountain Comes to Muhammad</h1>
-
 
 <p>
 “OK, so if Vic won’t come to be with Munjez, then Munjez is going to visit him. Before things get any stranger over there, I want Munjez to spend some time with his dad. That was the whole point of having Vic father him.”
@@ -172,7 +168,6 @@ He had a half smirk on his face, as if knew what was coming next and you didn’
 Vic seemed more relaxed after saying that. He offered to sit down with Sammie and explain what’s going on. “You won’t like it, but you’ll grok it better once you know what led to all this.”
 </p>
 <h1>Catching Up, Catching On</h1>
-
 
 <p>
 They found each other in the multihall. Vic was already there and he was chatting with a short stocky guy. Sammie kind of remembered him, but could not place him. Sammie sat down and the stocky fellow left after giving her a weird glance and a weirder smirk.
