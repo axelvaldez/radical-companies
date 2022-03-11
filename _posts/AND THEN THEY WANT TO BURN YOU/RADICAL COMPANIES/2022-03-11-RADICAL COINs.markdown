@@ -59,20 +59,16 @@ world-wide market that we can all play in without intermediaries.
 <h2>Some Terminology</h2>
 <table>
   <tr>
-   <td>
-<h4><p style="text-align: right">
-National Fiat Coin</p>
-</h4>
-   </td>
+   <td><h4><p style="text-align: right">National Fiat Coin</p></h4></td>
    <td>Throughout the rest of this document, you will notice that I stubbornly
 use “national fiat coin,” instead of “money” or “currency.” This is mostly to
 remind myself of a few key distinctions,
-<ul>
-<li>“Money” is primarily a concept</li>
-<li>“Coins” are a tangible instance of money.</li>
-<li>“Fiat money” is coinage created by fiat, out of whole cloth. It used to be
+   <ul>
+     <li>“Money” is primarily a concept</li>
+     <li>“Coins” are a tangible instance of money.</li>
+     <li>“Fiat money” is coinage created by fiat, out of whole cloth. It used to be
 that you needed gold to create coins, but not anymore.</li>
-</ul>
+   </ul>
 <p>
 As a <em>unit of measure</em>, a national fiat coin works like a meter or a
 minute and serves as a stable denominator for transactions. However, while the
@@ -94,7 +90,6 @@ coins.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup> National
 governments talk about this as the best thing since sliced bread, and
 international accords have tried to cobble together a market out of them, but
 the whole arrangement is very fragile and under constant threat.</p>
-</ul>
    </td>
   </tr>
   <tr>
@@ -104,11 +99,7 @@ the whole arrangement is very fragile and under constant threat.</p>
    </td>
   </tr>
   <tr>
-   <td>
-<h4><p style="text-align: right">
-Currency</p>
-</h4>
-   </td>
+   <td><h4><p style="text-align: right">Currency</p></h4></td>
    <td>Another common name for national fiat coins is “currency.” It means to
 indicate that <em>money flows</em> from one person to the next to facilitate the
 exchange of commodities. But national fiat coins don’t always flow.
