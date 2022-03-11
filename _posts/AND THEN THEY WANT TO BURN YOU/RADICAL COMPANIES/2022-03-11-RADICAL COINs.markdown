@@ -57,14 +57,10 @@ world-wide market that we can all play in without intermediaries.
 </p>
 
 <h2>Some Terminology</h2>
-xxx
 
 <table>
-xxx
   <tr>
-xxx
    <td><h4><p style="text-align: right">National Fiat Coin</p></h4></td>
-xxx
    <td>Throughout the rest of this document, you will notice that I stubbornly
 use “national fiat coin,” instead of “money” or “currency.” This is mostly to
 remind myself of a few key distinctions,
@@ -74,20 +70,17 @@ remind myself of a few key distinctions,
      <li>“Fiat money” is coinage created by fiat, out of whole cloth. It used to be
 that you needed gold to create coins, but not anymore.</li>
    </ul>
-<p>
-As a <em>unit of measure</em>, a national fiat coin works like a meter or a
+     <p>As a <em>unit of measure</em>, a national fiat coin works like a meter or a
 minute and serves as a stable denominator for transactions. However, while the
 meter and the minute are world-wide units, fiat coins are a national thing. This
 makes them very unstable and fragile as a unit of measure (<em>e.g.</em>,
 imagine a minute being “devalued” or something being measured in 仪表).<sup
 id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
-<p>
-National fiat coins act as a <em>store of value</em> by virtue of their fixed
+     <p>National fiat coins act as a <em>store of value</em> by virtue of their fixed
 nominal value. This means that these coins can be used to accumulate financial
 wealth. From that perspective, national fiat coins do not deserve to be called
 “currency,” not while stuffed under the proverbial mattress.</p>
-<p>
-National fiat coins serve as a <em>medium of exchange</em>. This is the
+     <p>National fiat coins serve as a <em>medium of exchange</em>. This is the
 prevailing message that governments, banks, and the whole financial industry
 repeats over and over. At one point exchange was based on the value of gold, but
 since the 1970s the system is based on each country’s say so, national fiat
@@ -96,28 +89,24 @@ governments talk about this as the best thing since sliced bread, and
 international accords have tried to cobble together a market out of them, but
 the whole arrangement is very fragile and under constant threat.</p>
    </td>
-   xxx
+  </tr>
+  </table>
 
-  </tr>
-xxx
+  <table>
   <tr>
    <td> </td>
    <td> </td>
   </tr>
   <tr>
-xxx
    <td><h4><p style="text-align: right">Currency</p></h4></td>
    <td>Another common name for national fiat coins is “currency.” It means to
 indicate that <em>money flows</em> from one person to the next to facilitate the
 exchange of commodities. But national fiat coins don’t always <em>flow<em>. 
 Because these coins hold their value forever, they can be hoarded to accumulate
 financial wealth in bank accounts or under the proverbial mattress.
-<p>
-Given this, national fiat coins do not deserve to be called “currency.”
+<p>Given this, national fiat coins do not deserve to be called “currency.”</p>
    </td>
-xxx
   </tr>
-xxx
   <tr>
   </tr>
 </table>
