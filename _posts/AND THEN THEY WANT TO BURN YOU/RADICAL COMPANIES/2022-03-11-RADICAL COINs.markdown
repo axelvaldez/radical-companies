@@ -94,8 +94,8 @@ the whole arrangement is very fragile and under constant threat.</p>
    </td>
   </tr>
   <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><h4><p style="text-align: right">Currency</p></h4></td>
