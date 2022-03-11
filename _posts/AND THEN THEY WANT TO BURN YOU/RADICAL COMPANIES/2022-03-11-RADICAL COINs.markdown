@@ -350,6 +350,7 @@ politics out of it and to eliminate the influence of transnational corporations.
 <p>
 COINs are minted by companies, not any national government or central banks.
 </p>
+
 <h3>Transparent COINs</h3>
 <p>
 National fiat coins are opaque. In theory that’s good because it reduces
