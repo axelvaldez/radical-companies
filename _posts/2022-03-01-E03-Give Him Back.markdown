@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:   "AND THEN THEY WANT TO BURN YOU"
-subtitle: "E03 – GIVE HIM BACK"
+subtitle: "EPISODE 03 – Give Him Back"
 authors:  "Matt Perez & Adrian Perez"
 image:    "book.jpg"
 ---
