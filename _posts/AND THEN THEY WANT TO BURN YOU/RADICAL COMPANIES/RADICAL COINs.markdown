@@ -1,7 +1,7 @@
 
 ---
 layout:   post
-title:    "AND THEN THEY WANT TO BURN YOU"
+title:    "RADICAL COINs"
 subtitle: "FOR A WORLD-WIDE MARKET"
 authors:  "Matt Perez"
 image:    "book.jpg"
