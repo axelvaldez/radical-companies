@@ -57,6 +57,7 @@ world-wide market that we can all play in without intermediaries.
 </p>
 
 <h2>Some Terminology</h2>
+xxx
 
 <table>
   <tr>
@@ -109,8 +110,6 @@ Given this, national fiat coins do not deserve to be called “currency.”
    </td>
   </tr>
   <tr>
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
   </tr>
 </table>
 <p>
