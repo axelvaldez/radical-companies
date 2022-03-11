@@ -18,7 +18,7 @@ And then they build monuments to you</pre>
 <br>
 <br>
 
-<h1 stle="text-align: center;">Different</h1>
+<h1 style="text-align: center;">Different</h1>
 
 <h2>COINs</h2>
 <p>
