@@ -153,13 +153,13 @@ adventure: the burden of risk and the joys of gains.</li>
 <li>COINs bypass the complications and costs brought about by banks, exchanges,
 national politics,<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup> and
 the influence of transnationals.<sup id="fnref7"><a href="#fn7"
-rel="footnote">7</a></sup></li>
-</ul>
+rel="footnote">7</a></sup>
 <p>
 COINs have the potential to enable a world-wide market. This will help us break
 out of our national silos, create an economy that’s decentralized and
 transparent.
-</p>
+</p></li>
+</ul>
 
 <h2>Worth Repeating</h2>
 <p>
@@ -210,15 +210,9 @@ impact on the world.
 Rather than having an owner and a hierarchy of bosses, a RADICAL company has
 co-owners and co-managers to govern and operate it. These people align
 themselves according to the impact they want to make, why they are doing so, and
-then they embark on many experiments to get there..
+then they embark on many experiments to get there.
 </p>
-<p>
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html
-alert: inline image link here (to images/image1.png). Store image on your image
-server and adjust path/filename/extension if necessary. </span><br>(<a
-href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span
-style="color: red; font-weight: bold">>>>>> </span></p>
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://docs.google.com/drawings/d/1myDCunZHMZ5a_JbuV1OFB_zbFFzqYkc7fOKqbKFcbF4/edit" alt="Three middle filgers up, as in the Scout Salute, as a mnemonic of the three elements of alignment" title="Elements of Alignment">
 </p>
 <p>
 They do this starting from a simple foundation of interdependence,
@@ -320,6 +314,7 @@ A decentralized, transparent COIN is fundamental to such a unified market. These
 are some of the other things we would need to nourish and support a world-wide
 market,
 </p>
+
 <h3>Decentralized Market</h3>
 <p>
 We need a decentralized market to nurture the next stage of innovation and
