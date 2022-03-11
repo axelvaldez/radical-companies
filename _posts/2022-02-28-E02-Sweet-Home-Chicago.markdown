@@ -22,8 +22,7 @@ And then they build monuments to you</pre>
 <br>
 <br>
 
-<h3>SWEET HOME CHICAGO</h3>
-
+<h1 style="text-align: center;">SWEET HOME CHICAGO</h1>
 <p>
 The Chicago <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.a6wcmzph7o24">polyport</a> was busy, as in, really busy. In its heyday the old O’Hare Airport was the busiest in this part of the world, but nothing compared with all the traffic around the polyport. But for all the traffic above, inside the place was… placid. There were a few people walking around or drinking coffee and whatever else was popular down here. And none of them were waiting for me.
 </p>
@@ -63,16 +62,16 @@ By the time Sammie woke up we had already switched to the space transponders. Th
 <p>
 Unfortunately, because of this mess, Sammie didn’t get as much time as she wanted to visit the town of Lebanon, in the St Louis Pod. That’s where the paternal side of her family had settled when they left what was the country of Lebanon in the early 1900s.
 </p>
-<h1>Sammie’s Child</h1>
 
+<h2>Sammie’s Child</h2>
 <p>
 At the age of 19, Sammie had a child and she named him Munjez, an homage to her great-great-grandfather’s birthplace. Thankfully, other children had already been born in the Edge settlements and Munjez was not “the First of” anything.
 </p>
 <p>
 Sammie and Kiki had agreed on having Vic be Munjez’ dad so he could be in his life, too. Vic didn’t turn out to be a very attentive father, or very present. Except for the rare occasions when Vic parachuted in, the two women were raising Munjez pretty much on their own, 
 </p>
-<h1>Victor Boswell</h1>
 
+<h2>Victor Boswell</h2>
 <p>
 Vic was a pretty happy guy. Pretty much of-the-moment and with no life-long aspirations. He had truly enjoyed his ten years in space, off Surface. The oYard had been somewhat constraining, but he nevertheless appreciated the close community it supported. The ability to tumble in 3D space was the greatest experience. He might have been born a creature of gravity, but space was his home, it was his destiny.
 </p>
@@ -85,8 +84,8 @@ Sammie’s request had changed him. The fact that he was going to be a father ha
 <p>
 He insisted that he was going to be part of the kid’s life, but she knew he wouldn’t be. He got frustrated dealing with people slower than him, and children, by definition, are slower. But Vic was sure that when he grew up, he’d appreciate what “his dad” was going to create.
 </p>
-<h1>The Boss</h1>
 
+<h2>The Boss</h2>
 <p>
 “Funny, the language they use,” Sammie said, “It’s all so self-important and it must be meant to make people feel bad for always falling short of their idealized new man. They published some kind of a rant and at the end justified the whole thing with ‘this is simply for your damn good’. Who’d come up with something like that?”
 </p>
@@ -99,8 +98,8 @@ He insisted that he was going to be part of the kid’s life, but she knew he wo
 <p>
 After a moment of hesitation, Kiki broke out laughing. “Oh, for crying out loud, Samantha Bellamy, that’d be way, way too obvious. BOSS-well, really? No way!”
 </p>
-<h1>The Mountain Comes to Muhammad</h1>
 
+<h2>The Mountain Comes to Muhammad</h2>
 <p>
 “OK, so if Vic won’t come to be with Munjez, then Munjez is going to visit him. Before things get any stranger over there, I want Munjez to spend some time with his dad. That was the whole point of having Vic father him.”
 </p>
@@ -116,7 +115,8 @@ Kiki was not all happy about Sammie’s decision, but she was right. “Can’t 
 <p>
 “I know, but it’s more than that. If we want him to really <em>know</em> his dad, then they have to start interacting now. It’s like learning a language, it starts from day one, otherwise your brain removes any connection that is not reinforced by the environment you grow up in. No dad, and your brain removes what could have been dad processes. I think it’s worth the trip to give Munjez, and Vic, a chance.”
 </p>
-<h1>You Won’t Like It</h1>
+
+<h2>You Won’t Like It</h2>
 <p>
 In space, she was not a celebrity, but she was well known. In any case, she had spent a lot of time here while they were finishing the Minor habitat and she had worked and lived with a lot of these people. As she went to her quarters it was all, “Wow, long time” and “Hey the little one is not so little anymore,” or “Hey, you look just like your Mod.” Vic, of course, was nowhere to be found. She was almost done setting up the room for Munjez when he finally showed up.
 </p>
@@ -168,8 +168,8 @@ He had a half smirk on his face, as if knew what was coming next and you didn’
 <p>
 Vic seemed more relaxed after saying that. He offered to sit down with Sammie and explain what’s going on. “You won’t like it, but you’ll grok it better once you know what led to all this.”
 </p>
-<h1>Catching Up, Catching On</h1>
 
+<h2>Catching Up, Catching On</h2>
 <p>
 They found each other in the multihall. Vic was already there and he was chatting with a short stocky guy. Sammie kind of remembered him, but could not place him. Sammie sat down and the stocky fellow left after giving her a weird glance and a weirder smirk.
 </p>

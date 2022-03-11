@@ -21,7 +21,7 @@ And then they build monuments to you</pre>
 <br>
 <br>
 
-<h2>FIRST OF EARTH</h2>
+<h1 style="text-align: center;">FIRST OF EARTH</h1>
 <p>
 <strong><code>SAT 16 NOV 2030.</code></strong> It came sooner than expected, though not as a complete surprise. It was a great offer for the company we had founded and contributed to for eleven years. This was proof that creating a place where every contributor is treated as an adult and everyone of them is a co-owner of what they’ve created together leads to a wildly successful business as well.
 <p>
@@ -115,8 +115,8 @@ At this point, the pilot would have drifted off and started unloading cargo with
 <p>
 “That’s what they tell me,” she said. So that’s what the look had been about. Perhaps he thought she would be taller.
 </p>
-<h3>
-Slowly but Surely</h3>
+
+<h2>Slowly but Surely</h2>
 <p>
 Sammie looked around the ship as she entered. An anachronistic wood veneer cabin encompassed ten seats with crash webbing, which were bisected by an aisle that led back to the cargo bay. At the front were the high bandwidth interface pilot seats. It had a warmth to it that she did not expect. 
 </p>
@@ -192,7 +192,8 @@ She popped into the rendered Mod one more time and before she could even speak, 
 <p>
 “It’s good to finally meet you, Samantha. I wish I had lived longer, but we did overlap just when you were a baby.”
 </p>
-<h3>First Visit</h3>
+
+<h2>First Visit</h2>
 <p>
 It felt different on Earth. The Anchortron did a pretty good job of simulating Earth gravity, but it didn’t feel quite the same down here, not sure why. Maybe it was because there was no relief from the pull of real gravity: it was everywhere, including the open spaces.
 </p>
@@ -208,7 +209,8 @@ The thing is that when you grow up with Mods as she had, that is your reality. B
 <p>
 Simulating environmental features didn’t sound like an impossible thing to do. I wonder if somebody had put up a Banner to fund looking into combining the Archotron and Neuromorphics to integrate a full blown simulation that felt more real.
 </p>
-<h3>Mom, I’m Home</h3>
+
+<h2>Mom, I’m Home</h3>
 <p>
 Sammie got to her mom’s home last night, headed straight to bed, and crashed. Everybody said it would be a piece of cake because “you are so young… ,” but it wasn’t. She may be 13, but this down trip was not like any kind of cake she ever enjoyed.
 </p>
@@ -251,7 +253,8 @@ Not soon after that the invitation from the Chinese Pod came and it didn’t tak
 <p>
 In that awkward, last minute hug Sammie felt an exoskeleton under her mom’s clothes. She recognized it because they were not that different from the one they all used in the oYard when they had to move something massive. Now the whole thing made sense: besides aiding her movement, the exo was keeping her mom alive and coherent. So this wasn’t quite a health cluster, more like a hospice.
 </p>
-<h3>Floating Away</h3>
+
+<h2>Floating Away</h2>
 <p>
 Sammie’s trip to the Beijing Pod took a bit over forty-eight hours in an inflatable ship. It was surprisingly comfortable and very efficient. And floating in the vast body of water had the same dangerous, exhilarating  edge of the other open spaces. Little by little the immensity of Earth was starting to dawn on me. The oYard was big and roomy, but this… this <em>planet</em> was in a different class altogether. The people who still called it Spaceship Earth had no idea how stupid that sounded to somebody who was born and raised in a real spaceship.
 </p>

@@ -175,6 +175,7 @@ acceptable enough.
 Accidentally, they found out that many of the old Pods had a similar deep-fake
 operation going on.
 </p>
+
 <h2>Breadcrumbs</h2>
 <p>
 Maryfer, from the old Mayabeque Pod, noticed something awkward in the reports
