@@ -243,8 +243,8 @@ After they were alone, Sammie got right into it.
 <h1>Related</h1>
 
 <ul>
-<li>RADICAL COMPANIES,</li>
   <ul>
+<li>RADICAL COMPANIES,</li>
 HHH
   <li><a href="https://docs.google.com/document/d/1Vt-3hM_i1x9FzfoO0hDX8itRnPV5OQWKcfWsjV6a6CQ/edit#heading=h.rutigyp6zcd3">EN</a>: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
   <li><a href="https://docs.google.com/document/d/1UYxFNZyJvFZf4DMZkspF5cF6Yzl_ugI67lmqoYJhtGw/edit#heading=h.87ak6hy0sbuh">ES</a>: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
@@ -290,12 +290,13 @@ HHH
     </ul>
   <li>rProjects 
     <ul>
-HHH
+rProjects
     <li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a></li>
     <li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
     <li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a></li>
+rProjects
     </ul>
-HHH
+RCOMPANIES
 
 <br>
 <br>
