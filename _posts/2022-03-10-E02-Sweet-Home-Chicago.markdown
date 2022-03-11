@@ -240,7 +240,7 @@ After they were alone, Sammie got right into it.
 <br>
 <br>
 
-<h1>FURTHER READING</h1>
+<h2>FURTHER READING</h2
 <ul>
   <li><a href="https://docs.google.com/document/d/1oxZ1Ol2pMnhmbssCijIq3ipPF-9GPvVXwaCPUtuQsUA/edit#">The Hidden Masters – Notes</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
@@ -254,7 +254,7 @@ After they were alone, Sammie got right into it.
 <br>
 <br>
 
-<h1>RELATED</h1>
+<h2>RELATED</h2>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
