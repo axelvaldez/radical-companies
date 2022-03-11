@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "book.jpg"
 ---
 
-<div style="display: none;">How can one battle people bent on violence without wielding violence yourself? Let's talk about it…"</div>
+<div style="display: none;">How can one battle people bent on violence without wielding violence yourself? Let's talk about it…</div>
 
 <br>
 <br>
