@@ -8,7 +8,7 @@ image:    "book.jpg"
 
 <div style="display: none;">National fiat money corrupts and makes a mess of markets. Considered some of the thoughts in this work.</div>
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">In 2009, the United States Bureau of Economics reported that the total
+<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; inline-size: min-content;">In 2009, the United States Bureau of Economics reported that the total
 value of land in the country was $23 trillion. A Forbes writer estimated that
 the rental value of that land, which George wanted to tax at 100 percent, made
 up roughly 5 percent of the total, or $1.15 trillion. If the land-value tax were
