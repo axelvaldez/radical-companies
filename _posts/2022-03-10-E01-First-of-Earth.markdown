@@ -13,7 +13,7 @@ image: "book.jpg"
 <br>
 </div>
 
-<pre class="prettyprint" style="font-size: 20px; border: 1px solid gray;">First they ignore you.
+<pre class="prettyprint" style="font-size: 20px; text-align: center; border: 1px solid gray;">First they ignore you.
 Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
