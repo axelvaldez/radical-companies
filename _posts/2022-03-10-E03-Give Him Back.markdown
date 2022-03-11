@@ -11,9 +11,6 @@ image: "book.jpg"
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">First they ignore you.
 Then they ridicule you.
