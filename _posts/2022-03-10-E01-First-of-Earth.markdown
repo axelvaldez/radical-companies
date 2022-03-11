@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "AND THEN THEY WANT TO BURN YOU<BR>E01 – FIRST OF EARTH"
-authors: "Matt Perez"
-image: "book.jpg"
+layout:   post
+title:    "AND THEN THEY WANT TO BURN YOU"
+subtitle: "E01 – FIRST OF EARTH"
+authors:  "Matt Perez"
+image:    "book.jpg"
 ---
 
 <div style="display: none;">BREAKING: First child be born in space. Every country around the world claims the First of Earth as a native.
