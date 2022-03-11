@@ -1,8 +1,0 @@
----
-layout: post
-title:  "This is a test post"
-authors: "Axel Valdez"
-image: "book.jpg"
----
-
-abc def
