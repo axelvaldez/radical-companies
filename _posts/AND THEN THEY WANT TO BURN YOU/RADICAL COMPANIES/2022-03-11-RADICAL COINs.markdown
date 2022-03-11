@@ -57,6 +57,7 @@ world-wide market that we can all play in without intermediaries.
 </p>
 
 <h2>Some Terminology</h2>
+
 <table>
   <tr>
    <td><h4><p style="text-align: right">National Fiat Coin</p></h4></td>
@@ -92,12 +93,10 @@ international accords have tried to cobble together a market out of them, but
 the whole arrangement is very fragile and under constant threat.</p>
    </td>
   </tr>
-</table>
-<table>
   <tr>
-   <td>
+   <td>x
    </td>
-   <td>
+   <td>y
    </td>
   </tr>
   <tr>
@@ -111,6 +110,8 @@ financial wealth in bank accounts or under the proverbial mattress.
 Given this, national fiat coins do not deserve to be called “currency.”
    </td>
   </tr>
+</table>
+<table>
   <tr>
    <td>
    </td>
