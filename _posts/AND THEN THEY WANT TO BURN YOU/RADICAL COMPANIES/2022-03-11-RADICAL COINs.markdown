@@ -37,10 +37,9 @@ rel="footnote">2</a></sup>
 Like today’s money, COINs function as,
 </p>
 <ul>
-<li>A unit of measure
-<li>Store of value
-<li>Medium of exchange
-</li>
+<li>A unit of measure</li>
+<li>Store of value</li>
+<li>Medium of exchange</li>
 </ul>
 <p>
 In addition, and this is critical, COINs are transparent in the sense that an
@@ -69,22 +68,23 @@ National Fiat Coin</p>
 use “national fiat coin,” instead of “money” or “currency.” This is mostly to
 remind myself of a few key distinctions,
 <ul>
-<li>“Money” is primarily a concept
-<li>“Coins” are a tangible instance of money.
+<li>“Money” is primarily a concept</li>
+<li>“Coins” are a tangible instance of money.</li>
 <li>“Fiat money” is coinage created by fiat, out of whole cloth. It used to be
-that you needed gold to create coins, but not anymore.
+that you needed gold to create coins, but not anymore.</li>
+</ul>
 <p>
 As a <em>unit of measure</em>, a national fiat coin works like a meter or a
 minute and serves as a stable denominator for transactions. However, while the
 meter and the minute are world-wide units, fiat coins are a national thing. This
 makes them very unstable and fragile as a unit of measure (<em>e.g.</em>,
 imagine a minute being “devalued” or something being measured in 仪表).<sup
-id="fnref3"><a href="#fn3" rel="footnote">3</a></sup>
+id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
 <p>
 National fiat coins act as a <em>store of value</em> by virtue of their fixed
 nominal value. This means that these coins can be used to accumulate financial
 wealth. From that perspective, national fiat coins do not deserve to be called
-“currency,” not while stuffed under the proverbial mattress.
+“currency,” not while stuffed under the proverbial mattress.</p>
 <p>
 National fiat coins serve as a <em>medium of exchange</em>. This is the
 prevailing message that governments, banks, and the whole financial industry
@@ -93,8 +93,7 @@ since the 1970s the system is based on each country’s say so, national fiat
 coins.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup> National
 governments talk about this as the best thing since sliced bread, and
 international accords have tried to cobble together a market out of them, but
-the whole arrangement is very fragile and under constant threat.
-</li>
+the whole arrangement is very fragile and under constant threat.</p>
 </ul>
    </td>
   </tr>
@@ -148,13 +147,14 @@ exchange, but with these twists,
 <ol>
 <li>They represent value at its broadest. In addition to financial value, they
 account for wellbeing, contributions, acts of kindness, and all the other things
-that are important to people.
+that are important to people.</li>
 <li>They spread risks and benefits through society. We all share in the
-adventure: the burden of risk and the joys of gains.
+adventure: the burden of risk and the joys of gains.</li>
 <li>COINs bypass the complications and costs brought about by banks, exchanges,
 national politics,<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup> and
 the influence of transnationals.<sup id="fnref7"><a href="#fn7"
-rel="footnote">7</a></sup>
+rel="footnote">7</a></sup></li>
+</ul>
 <p>
 COINs have the potential to enable a world-wide market. This will help us break
 out of our national silos, create an economy that’s decentralized and
@@ -388,14 +388,13 @@ he’s deployed at his various businesses,
 </p>
 <ul>
 <li>As the company grows, every month an equal amount of cash and shares of the
-company are earmarked for distribution.
-<li>Every member gets an equal portion of the wealth the company generated.
+company are earmarked for distribution.</li>
+<li>Every member gets an equal portion of the wealth the company generated.</li>
 <li>Rather than keeping them for themselves, people give this money and shares
-out to <em>anybody</em> they feel has contributed during the month.
+out to <em>anybody</em> they feel has contributed during the month.</li>
 <li>There is no set criteria and each person decides <em>who</em> should be
 recognized, <em>what</em> should be recognized as a contribution, and <em>how
-much</em> to give to others.
-</li>
+much</em> to give to others.</li>
 </ul>
 <p>
 The RADICAL Distributions is very similar, but instead of cash or stocks, it
@@ -441,11 +440,10 @@ All this information goes on a transparent digital store (<em>e.g.</em>,
 blockchain or similar secure) that would include, at a minimum,
 </p>
 <ul>
-<li>The amount of COINs (30,000),
-<li>The name of the company which minted them (BenCO),
-<li>The retiring terms (three years),
-<li>The repayment terms (10,000 COINs/year).
-</li>
+<li>The amount of COINs (30,000),</li>
+<li>The name of the company which minted them (BenCO),</li>
+<li>The retiring terms (three years),</li>
+<li>The repayment terms (10,000 COINs/year).</li>
 </ul>
 <p>
 This can result in any of these scenarios,
@@ -622,11 +620,10 @@ As it is today, different companies will end up with different values and their
 co-owners will have more or less purchasing power. For example,
 </p>
 <ul>
-<li>Company BenCO earns 100 COINs.
-<li>Company JerryCo earns 1,000 COINs.
-<li>JerryCo’s <em>value</em> is higher than BenCO.
-<li>JerryCO <em>people earn more COINs</em> than those at BenCO.
-</li>
+<li>Company BenCO earns 100 COINs.</li>
+<li>Company JerryCo earns 1,000 COINs.</li>
+<li>JerryCo’s <em>value</em> is higher than BenCO.</li>
+<li>JerryCO <em>people earn more COINs</em> than those at BenCO.</li>
 </ul>
 
 <h3>Guarantors</h3>
@@ -769,19 +766,21 @@ Other things that may affect company value,
 <li>As a company creates more value, it gets more revenue, and it generates more
 COINs. The revenue COINs are allocated according to each person’s broad
 contributions. Co-owners decide what is a broad contribution according to the
-value they perceive.
+value they perceive.</li>
 <li>If a company walks away from debt,<sup id="fnref23"><a href="#fn23"
 rel="footnote">23</a></sup> it’s reputation goes down, and its COINs go down in
-value.
+value.</li>
 <li>As a company retires debt, its reputation goes up, and its COINs go up in
-value.
+value.</li>
 <li>If the reputation and value of a company goes up, its COINs go down in risk.
 Those who took its COINs when they were high risk now have more desirable COINs.
-The upside spreads throughout society.
+The upside spreads throughout society.</li>
 <li>Companies that are constantly creating debt and not retiring it, will find
 themselves isolated. Their COINs will get riskier and riskier and they will be
 acceptable to fewer and fewer people. Hopefully, they will see guidance and help
-from others.
+from others.</li>
+</ul>
+
 <h2>TADDA!</h2>
 <p>
 RADs account for what so far has been unaccountable. People get to decide what a
@@ -803,7 +802,8 @@ not. It is not mysterious or left to robed experts to figure things out. Each of
 us can do it because each of us is an expert on our own sensitivities and how we
 interpret the world.
 </p>
-<h2>APPENDICES</h2>
+
+<h1 style="text-align: center; ">APPENDICES</h1>
 <h2>Bad Actors</h2>
 <p>
 There may not be as many bad actors as we think. We probably have a
@@ -1103,8 +1103,7 @@ Besides, I am earning COINs while on the boat by writing about my journey.
 <li>All the COINs I have are the ones discredited. In fact, I was one of the
 co-owners who supported the minting (we were sure we could do it). In this case,
 I screwed myself financially, but I learned something in the process. I have to
-return the boat and join WiserCO.
-</li>
+return the boat and join WiserCO.</li>
 </ol>
 
 <h3>What if lots of companies disband at the same time?</h3>
