@@ -210,7 +210,7 @@ The thing is that when you grow up with Mods as she had, that is your reality. B
 Simulating environmental features didn’t sound like an impossible thing to do. I wonder if somebody had put up a Banner to fund looking into combining the Archotron and Neuromorphics to integrate a full blown simulation that felt more real.
 </p>
 
-<h2>Mom, I’m Home</h3>
+<h2>Mom, I’m Home</h2>
 <p>
 Sammie got to her mom’s home last night, headed straight to bed, and crashed. Everybody said it would be a piece of cake because “you are so young… ,” but it wasn’t. She may be 13, but this down trip was not like any kind of cake she ever enjoyed.
 </p>
