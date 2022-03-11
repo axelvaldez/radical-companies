@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "book.jpg"
 ---
 
-<div style="display: none;">Was it a fortunate accident? Sabotage? In the end, it all came unraveled and humanity was evolving again."</div>
+<div style="display: none;">Was it a fortunate accident? Sabotage? In the end, it all came unraveled and humanity was evolving again.</div>
 
 <br>
 <br>

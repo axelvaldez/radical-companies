@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "book.jpg"
 ---
 
-<div style="display: none;">Off and On. Off and On. Off and On."</div>
+<div style="display: none;">Off and On. Off and On. Off and On.</div>
 
 <br>
 <br>

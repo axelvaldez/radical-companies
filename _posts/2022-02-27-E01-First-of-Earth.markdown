@@ -21,34 +21,27 @@ And then they build monuments to you</pre>
 <br>
 <br>
 
-<h3>FIRST OF EARTH</h3>
+<h2>FIRST OF EARTH</h2>
 <p>
 <strong><code>SAT 16 NOV 2030.</code></strong> It came sooner than expected, though not as a complete surprise. It was a great offer for the company we had founded and contributed to for eleven years. This was proof that creating a place where every contributor is treated as an adult and everyone of them is a co-owner of what they’ve created together leads to a wildly successful business as well.
-
 <p>
 <strong><code>THU 6 NOV 2036</code></strong>. Time to get in line to get a ticket to outer space. But for our granddaughter, not for us. Of course, we don't have a granddaughter, yet, but she's on her way. And the timing of her birth is just right for her to be born in outer space.
-
 <p>
 <strong><code>THU 26 FEB 2037.</code></strong> Finally! It looks like all the ducks are lined up so that our daughter-in-law can have her baby in space safely. If somebody had told me what it was going to take, we might not have gotten into this, so thank goodness for naïveté. Of course, we were all naïve: nobody knew how to pull this off. After all, it is a first.
-
 <p>
 Once we pull the trigger on this, we won't be so wealthy after all, but my wife and I want to see it through, no matter the costs. And we are not the only ones who feel this way. All kinds of people have come forward to help us make this a (very expensive) reality. They, we, are starting to get an inkling of the much bigger impact this may have on humanity.
 </p>
 <p>
 <strong><code>WED 22 APR 2037.</code></strong> Well, I'll be …! In less than two months the sponsor nations of what became the Orbital Shipyard have chosen to declare my granddaughter a native of their respective countries the minute she's born. THIS IS FANTASTIC and beyond anything we had ever hoped for.
-
 <p>
 <strong><code>WED 10 JUN 2037.</code></strong> This is stunning. Just got word that even China and several other nations will declare my granddaughter a native of their countries as well. The UN is supposedly working on some kind of declaration, too.
-
 <p>
 We are not sure what to expect anymore. What does it even mean to be a native citizen of nearly every country on Earth?
 </p>
 <p>
 <strong><code>FRI 26 MAR 2038.</code></strong> Of course she is beautiful, she’s our granddaughter! Our first. She's also the first Citizen of Earth. That is what the UN had been working on and they announced it today, just as my daughter-in-law was in the throes of a final push. Other than the politics around it, it all went as well as we had hoped for.
-
 <p>
 <strong><code>TUE 20 SEP 2039.</code></strong> Thank goodness my son and his family are back home. They've had two years of nearly non-stop traveling. It seemed that every country in the world wanted to celebrate their first Citizen of Earth in person. Luckily, except for a few minor infections, Sammie, as we call our granddaughter Samantha, has been very healthy.
-
 <p>
 She's a very happy baby. And she also has this… presence. It's almost as if she knows how significant she's become.
 </p>
@@ -57,12 +50,11 @@ In any case, Sammie has done her part for the world. Now it's time for her to ex
 </p>
 <p>
 <strong><code>MON 6 JUL 2043.</code></strong> Who would have thought it would get this far? The First of Earth movement has taken hold in even the most war-torn countries. It looks like they are going to pull it off. Decentralized governance, impact aligned, and … who’d have thought it possible?
-
 <p>
 Happy little Sammie, look what you've brought about. You will forever be the first, but you won't be the only Citizen of Earth for long.
 </p>
-<h3>It’s a Go!</h3>
 
+<h2>It’s a Go!</h2>
 <p>
 Samantha looked at Earth, towards a layer of clouds over Kerala and her mother. She had been there as a child to get her “gravity legs,” but for some reason her parents cut the trip short. The trip was supposed to be one of those where first generation immigrants lug their kids “back to the old country.” In her case, it was more about her leg muscles and balance intuition. But what was supposed to be a year, turned into a little over a week. Hardly enough to get acclimated to the all encompassing gravity.
 </p>
@@ -125,7 +117,6 @@ At this point, the pilot would have drifted off and started unloading cargo with
 </p>
 <h3>
 Slowly but Surely</h3>
-
 <p>
 Sammie looked around the ship as she entered. An anachronistic wood veneer cabin encompassed ten seats with crash webbing, which were bisected by an aisle that led back to the cargo bay. At the front were the high bandwidth interface pilot seats. It had a warmth to it that she did not expect. 
 </p>
@@ -202,7 +193,6 @@ She popped into the rendered Mod one more time and before she could even speak, 
 “It’s good to finally meet you, Samantha. I wish I had lived longer, but we did overlap just when you were a baby.”
 </p>
 <h3>First Visit</h3>
-
 <p>
 It felt different on Earth. The Anchortron did a pretty good job of simulating Earth gravity, but it didn’t feel quite the same down here, not sure why. Maybe it was because there was no relief from the pull of real gravity: it was everywhere, including the open spaces.
 </p>
@@ -219,7 +209,6 @@ The thing is that when you grow up with Mods as she had, that is your reality. B
 Simulating environmental features didn’t sound like an impossible thing to do. I wonder if somebody had put up a Banner to fund looking into combining the Archotron and Neuromorphics to integrate a full blown simulation that felt more real.
 </p>
 <h3>Mom, I’m Home</h3>
-
 <p>
 Sammie got to her mom’s home last night, headed straight to bed, and crashed. Everybody said it would be a piece of cake because “you are so young… ,” but it wasn’t. She may be 13, but this down trip was not like any kind of cake she ever enjoyed.
 </p>
@@ -263,12 +252,11 @@ Not soon after that the invitation from the Chinese Pod came and it didn’t tak
 In that awkward, last minute hug Sammie felt an exoskeleton under her mom’s clothes. She recognized it because they were not that different from the one they all used in the oYard when they had to move something massive. Now the whole thing made sense: besides aiding her movement, the exo was keeping her mom alive and coherent. So this wasn’t quite a health cluster, more like a hospice.
 </p>
 <h3>Floating Away</h3>
-
 <p>
 Sammie’s trip to the Beijing Pod took a bit over forty-eight hours in an inflatable ship. It was surprisingly comfortable and very efficient. And floating in the vast body of water had the same dangerous, exhilarating  edge of the other open spaces. Little by little the immensity of Earth was starting to dawn on me. The oYard was big and roomy, but this… this <em>planet</em> was in a different class altogether. The people who still called it Spaceship Earth had no idea how stupid that sounded to somebody who was born and raised in a real spaceship.
 </p>
-<h3>The Middle Kingdom</h3>
 
+<h3>The Middle Kingdom</h3>
 <p>
 What was then the People’s Republic of China was the first to break down into Pods. The People’s Republic dictatorship had squeezed the FIAT system for all it had and the hierarchy there got more and more rigid as the economy grew. The generation that grew up with abundance could not understand why their system was getting to look more and more like a rice empire. Xi Jinping’s centralization of power went against everything that they expected from a confident country with a solid economy. They wanted to be world players, not voiceless drones. Hello: it is the 21<sup>th</sup> century.
 </p>

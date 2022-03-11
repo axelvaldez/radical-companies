@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "book.jpg"
 ---
 
-<div style="display: none;">Sammie use Mirror Worms and other technology to confuse other Worms and technology."</div>
+<div style="display: none;">Sammie use Mirror Worms and other technology to confuse other Worms and technology.</div>
 
 <br>
 <br>

@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "book.jpg"
 ---
 
-<div style="display: none;">Petra and Ignatius learn about the other side lives. Without violence and fear."</div>
+<div style="display: none;">Petra and Ignatius learn about the other side lives. Without violence and fear.</div>
 
 <br>
 <br>

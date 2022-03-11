@@ -6,7 +6,7 @@ authors:  "Matt Perez & Adrian Perez"
 image:    "book.jpg"
 ---
 
-<div style="display: none;">Sammie figures out how to simulate the future that we may get if we keep going this way."</div>
+<div style="display: none;">Sammie figures out how to simulate the future that we may get if we keep going this way.</div>
 
 <br>
 <br>

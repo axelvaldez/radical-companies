@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "book.jpg"
 ---
 
-<div style="display: none;">The Jupiter Habitats get infected. Actually, the get invaded by Marines. And a splendid time was guaranteed for all."</div>
+<div style="display: none;">The Jupiter Habitats get infected. Actually, the get invaded by Marines. And a splendid time was guaranteed for all.</div>
 
 <br>
 <br>

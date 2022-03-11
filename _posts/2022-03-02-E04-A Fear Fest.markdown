@@ -6,7 +6,7 @@ authors:  "Matt Perez & Adrian Perez"
 image:    "book.jpg"
 ---
 
-<div style="display: none;">Vic discovered fear and how can make people bend to your will. He thought that was a good thing."</div>
+<div style="display: none;">Vic discovered fear and how can make people bend to your will. He thought that was a good thing.</div>
 
 <br>
 <br>

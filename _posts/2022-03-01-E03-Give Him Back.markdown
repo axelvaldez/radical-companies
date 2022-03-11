@@ -19,7 +19,6 @@ And then they build monuments to you</pre>
 <br>
 
 <h1>GIVE HIM BACK</h1>
-
 <p>
 “Munjez is in the ICU. He’s stable but he had to be moved quickly.” Evidently an alarm had come off in the room.
 </p>
@@ -49,7 +48,6 @@ When she got back to her quarters, she wasn’t sure what to do, where to start.
 </p>
 
 <h1>Leaving</h1>
-
 <p>
 Sammie decided to go back to the Minor habitat. She had more resources there and would not be under constant surveillance. She hated to leave Munjez behind but she knew that he would be safe. He would miss her, like already missed Kiki, and would be inconsolable for a while but Vic would make sure he is safe. She would not have been so sure before, but the look on Vic's face when he first saw him told she didn’t have to worry about that.
 </p>
@@ -127,7 +125,6 @@ Vic smiled, but he was very angry. He hesitated for a second but ‘angry’ won
 </p>
 
 <h1>Mean Mood Mod</h1>
-
 <p>
 She had been “celebrating” her 20th birthday, alone, by hopping from one Mod to another aimlessly, following the wind, so biden extends aca enrollment speak. She was definitely in a bad mood, a mean mood. Vic was intent on not letting her leave the habitat: first, he had kidnapped Munjez and then he had kidnapped her transport which was “being repaired.” “What’s next?” she wondered, “Is somebody going to tell me that the Galanet stopped working? Ha!”
 </p>
@@ -166,7 +163,6 @@ She had spent her whole life avoiding the hoopla and attention that came with be
 </p>
 
 <h1>Hanne Nader</h1>
-
 <p>
 Her Mod of Max Bellamy and the flat data it came from was made useless and there were no traces of who or how it was done. She asked Vic for help, but even he couldn’t figure out how they got into Sammie’s accounts and then managed to wipe all the data and its entangled backups spread up as they were all over the Solar system. For all intents and purposes somebody had murdered her grandfather.
 </p>
@@ -184,7 +180,6 @@ A couple of years after she arrived, her child and her mother’s child died of 
 </p>
 
 <h1>From Humble Beginnings</h1>
-
 <p>
 From the back of his horse, Leo sold cloth, thread, buttons, and the like to the farmers in the area; he also sold leather goods, mostly shoes and horse mounts. Every day he’d get on the horse his Saint Louis cousin, Aziz, had loaned him, loaded the stuff he had sent him and set out to knock on doors. Over time he got friendly with the local farmers, brought them other goods they had asked for, and he learned passable English.
 </p>
@@ -229,7 +224,6 @@ After her talk with Hannah, Sammie’s best guess was that Max Bellamy, her gran
 </p>
 
 <h1>A Grain of Fear, or Two</h1>
-
 <p>
 Vic was at a loss. There was genuine enthusiasm for his narrative but now, it was pretty much down to a handful of people. A short while ago almost 100 people were part of his movement. But then the damn interchange happened and he had lost all momentum. He thought he would have the numbers on his side, but it didn’t turn out that way. Not all of them had gone to the interchange but the ones who stayed behind were now busy welcoming the newcomers, making new friends, and reconnecting with old ones. Worst of all, they were rejecting their fears.
 </p>
@@ -250,7 +244,6 @@ Vic figured out how to broadcast fear.
 </p>
 
 <h1>The Big Nothing</h1>
-
 <p>
 It was total darkness. The emergency lights had not come on, so it was as dark as she’s never experienced before. And quiet. Very quiet. She…
 </p>

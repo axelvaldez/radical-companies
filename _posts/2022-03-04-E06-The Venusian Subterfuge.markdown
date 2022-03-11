@@ -6,7 +6,7 @@ authors:  "Adrian Perez"
 image:    "book.jpg"
 ---
 
-<div style="display: none;">The Venus Habitat had figured out how to escape the Earth Authority's rules, but the good times are running out."</div>
+<div style="display: none;">The Venus Habitat had figured out how to escape the Earth Authority's rules, but the good times are running out.</div>
 
 <br>
 <br>

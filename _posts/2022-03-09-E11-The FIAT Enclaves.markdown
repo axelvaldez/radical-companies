@@ -7,8 +7,7 @@ image:    "book.jpg"
 ---
 
 <div style="display: none;">In a world that got away from the strictly FIAT system quickly, there are still communities that cling to it. 
-  Is it fear of "different?" Or it is force and ego?
-  "</div>
+  Is it fear of "different?" Or it is force and ego?</div>
 
 <br>
 <br>
