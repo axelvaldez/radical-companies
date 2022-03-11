@@ -6,8 +6,7 @@ authors:  "Matt Perez & Adrian Perez"
 image:    "book.jpg"
 ---
 
-<div style="display: none;">Sammie discovers her grandmother, Hanne Nader, with the help of the Wormholes. And that technology can also wreck havoc with Vic's plans."
-</div>
+<div style="display: none;">Sammie discovers her grandmother, Hanne Nader, with the help of the Wormholes. And that technology can also wreck havoc with Vic's plans.</div>
 
 <br>
 <br>
