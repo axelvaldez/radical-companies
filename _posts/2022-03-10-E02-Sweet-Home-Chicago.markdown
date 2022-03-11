@@ -287,12 +287,10 @@ After they were alone, Sammie got right into it.
     <li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
     <li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a></li>
   </ul>
-xxx
+<ul>
 </ul>
-yyy
 </ul>
 
-<br>
 <br>
 
 <h2>FURTHER READING</h2>
