@@ -5,7 +5,7 @@ authors: "Matt Perez"
 image: "book.jpg"
 ---
 
-<div style="display: none;">Sammie brings their child, Munjez, to Vic. She is in for a surprise. AAA
+<div style="display: none;">Sammie brings their child, Munjez, to Vic, but s. She is in for a surprise. AAA
 <br>
 <br>
 <br>
@@ -13,14 +13,15 @@ image: "book.jpg"
 <br>
 </div>
 
-<pre class="prettyprint">First they ignore you.
+<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">First they ignore you.
 Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
+<br>
+<br>
 
 
 <h3>SWEET HOME CHICAGO</h3>
-
 
 <p>
 The Chicago <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.a6wcmzph7o24">polyport</a> was busy, as in, really busy. In its heyday the old O’Hare Airport was the busiest in this part of the world, but nothing compared with all the traffic around the polyport. But for all the traffic above, inside the place was… placid. There were a few people walking around or drinking coffee and whatever else was popular down here. And none of them were waiting for me.

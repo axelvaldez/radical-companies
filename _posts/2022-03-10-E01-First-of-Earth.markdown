@@ -63,7 +63,6 @@ Happy little Sammie, look what you've brought about. You will forever be the fir
 </p>
 <h3>It’s a Go!</h3>
 
-
 <p>
 Samantha looked at Earth, towards a layer of clouds over Kerala and her mother. She had been there as a child to get her “gravity legs,” but for some reason her parents cut the trip short. The trip was supposed to be one of those where first generation immigrants lug their kids “back to the old country.” In her case, it was more about her leg muscles and balance intuition. But what was supposed to be a year, turned into a little over a week. Hardly enough to get acclimated to the all encompassing gravity.
 </p>
@@ -126,7 +125,6 @@ At this point, the pilot would have drifted off and started unloading cargo with
 </p>
 <h3>
 Slowly but Surely</h3>
-
 
 <p>
 Sammie looked around the ship as she entered. An anachronistic wood veneer cabin encompassed ten seats with crash webbing, which were bisected by an aisle that led back to the cargo bay. At the front were the high bandwidth interface pilot seats. It had a warmth to it that she did not expect. 
@@ -205,7 +203,6 @@ She popped into the rendered Mod one more time and before she could even speak, 
 </p>
 <h3>First Visit</h3>
 
-
 <p>
 It felt different on Earth. The Anchortron did a pretty good job of simulating Earth gravity, but it didn’t feel quite the same down here, not sure why. Maybe it was because there was no relief from the pull of real gravity: it was everywhere, including the open spaces.
 </p>
@@ -222,7 +219,6 @@ The thing is that when you grow up with Mods as she had, that is your reality. B
 Simulating environmental features didn’t sound like an impossible thing to do. I wonder if somebody had put up a Banner to fund looking into combining the Archotron and Neuromorphics to integrate a full blown simulation that felt more real.
 </p>
 <h3>Mom, I’m Home</h3>
-
 
 <p>
 Sammie got to her mom’s home last night, headed straight to bed, and crashed. Everybody said it would be a piece of cake because “you are so young… ,” but it wasn’t. She may be 13, but this down trip was not like any kind of cake she ever enjoyed.
@@ -268,12 +264,10 @@ In that awkward, last minute hug Sammie felt an exoskeleton under her mom’s cl
 </p>
 <h3>Floating Away</h3>
 
-
 <p>
 Sammie’s trip to the Beijing Pod took a bit over forty-eight hours in an inflatable ship. It was surprisingly comfortable and very efficient. And floating in the vast body of water had the same dangerous, exhilarating  edge of the other open spaces. Little by little the immensity of Earth was starting to dawn on me. The oYard was big and roomy, but this… this <em>planet</em> was in a different class altogether. The people who still called it Spaceship Earth had no idea how stupid that sounded to somebody who was born and raised in a real spaceship.
 </p>
 <h3>The Middle Kingdom</h3>
-
 
 <p>
 What was then the People’s Republic of China was the first to break down into Pods. The People’s Republic dictatorship had squeezed the FIAT system for all it had and the hierarchy there got more and more rigid as the economy grew. The generation that grew up with abundance could not understand why their system was getting to look more and more like a rice empire. Xi Jinping’s centralization of power went against everything that they expected from a confident country with a solid economy. They wanted to be world players, not voiceless drones. Hello: it is the 21<sup>th</sup> century.
@@ -302,7 +296,6 @@ They had a long talk about what looked like their struggle with decentralization
 <p>
 After a few weeks Sammie got tired of being a RADICAL celebrity and she accepted the invitation to go to the Chicago Pod in what used to be the United States of America. The electric jet went up to the edge of the biosphere, although she would not call that “space” as they did throughout the trip. It was a lot shorter than her trip from the Karala Pod to the Beijing Pod. It was also boring and she slept for most of it.
 </p>
-
 
 <br>
 
