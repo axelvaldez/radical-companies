@@ -18,7 +18,7 @@ And then they build monuments to you</pre>
 <br>
 <br>
 
-<h1 style="text-align: center;">THE JUPITER SURPRISE</h2>
+<h1 style="text-align: center;">THE JUPITER SURPRISE</h1>
 <p>
 Just about everyone in the Venusian habitat asked what was happening on Jupiter
 and how big was the revolt there. General Pura Cintron, known as Gen, smiled as
