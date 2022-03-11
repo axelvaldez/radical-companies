@@ -189,7 +189,8 @@ including money. We’ll still be individuals, with our own needs, rights, and
 idiosyncrasies. We are not going to become a number. The RADICAL model is
 centered on trust, the type that comes from community and collaboration.
 </p>
-<h3>The RADICAL Model</h3>
+
+  <h3>The RADICAL Model</h3>
 <p>
 We are used to companies being governed by FIAT hierarchies, with an owner at
 the top sending down commands telling people <em>what</em> to do, <em>how</em>
@@ -283,7 +284,7 @@ Alignment & Experimentation</p>
   </tr>
 </table>
 
-<h3>Evolution, Interrupted</h3>
+  <h3>Evolution, Interrupted</h3>
 <p>
 As I see it, the RADICAL model of co-ownership and co-management is the next
 stage in collaboration. Everything humanity has accomplished has been based on
@@ -315,7 +316,7 @@ are some of the other things we would need to nourish and support a world-wide
 market,
 </p>
 
-<h3>Decentralized Market</h3>
+  <h3>Decentralized Market</h3>
 <p>
 We need a decentralized market to nurture the next stage of innovation and
 accomplishment.
@@ -337,7 +338,7 @@ A decentralized market can truly be a pricing engine, free of interference and
 manipulation.
 </p>
 
-<h3>Decentralized Minting</h3>
+  <h3>Decentralized Minting</h3>
 <p>
 We need decentralized minting of COINs to take national and international
 politics out of it and to eliminate the influence of transnational corporations.
@@ -346,7 +347,7 @@ politics out of it and to eliminate the influence of transnational corporations.
 COINs are minted by companies, not any national government or central banks.
 </p>
 
-<h3>Transparent COINs</h3>
+  <h3>Transparent COINs</h3>
 <p>
 National fiat coins are opaque. In theory that’s good because it reduces
 transaction costs. But this “reduction of costs” also disables human choice.
@@ -361,7 +362,7 @@ comes along with them. This will restore people’s  ability to make choices bas
 on that information.
 </p>
 
-<h3>Trusted Measure</h3>
+  <h3>Trusted Measure</h3>
 <p>
 A measure can be “trusted” because it means the same thing to people anywhere.
 RADs, too, can be trusted if you believe that people are pretty much the same
@@ -512,7 +513,7 @@ the calculations and, based on that, decide whether or not to take the BenCO
 COINs as payment.<sup id="fnref12"><a href="#fn12" rel="footnote">12</a></sup>
 </p>
 
-<h3>Stability</h3>
+  <h3>Stability</h3>
 <p>
 In today’s system of exchange, “reserve currencies” are used for international
 transactions. This makes these transactions very expensive.
@@ -562,7 +563,7 @@ those transactions out of the financial realm and into a people-to-people
 one.<sup id="fnref16"><a href="#fn16" rel="footnote">16</a></sup>
 </p>
 
-<h3>Broad Value</h3>
+  <h3>Broad Value</h3>
 <p>
 To be robust, a COIN needs to be tied to value creation, and COINs are. In fact
 they represent more than financial value. Their value also represents wellbeing,
@@ -576,7 +577,7 @@ contributed twice as much as I did. As a result you get twice as many COINs as I
 do.
 </p>
 
-<h3>Transparent</h3>
+  <h3>Transparent</h3>
 <p>
 National fiat coins are opaque. We make do with things like GDP, but GDP and
 others like it don’t measure anything besides financial value. They are
@@ -593,7 +594,7 @@ associated with it. Given that information, each of us can then decide whether
 or not to accept a particular COIN as payment.
 </p>
 
-<h3>COIN Value</h3>
+  <h3>COIN Value</h3>
 <p>
 The face value of national fiat coins is fixed forever. At least, that is true
 for reserve currencies. Other national fiat coins are not so lucky: their face
@@ -610,7 +611,7 @@ on all of that, each of us gets to decide whether or not to accept the COINs
 given the risks and benefits indicated in its log..
 </p>
 
-<h3>Company Value</h3>
+  <h3>Company Value</h3>
 <p>
 As it is today, different companies will end up with different values and their
 co-owners will have more or less purchasing power. For example,
@@ -622,7 +623,7 @@ co-owners will have more or less purchasing power. For example,
 <li>JerryCO <em>people earn more COINs</em> than those at BenCO.</li>
 </ul>
 
-<h3>Guarantors</h3>
+  <h3>Guarantors</h3>
 <p>
 COINs are backed up by the RADICAL COMPANIES, not national governments. This
 means that the COIN’s “value” is determined by what each company brings to
@@ -721,7 +722,7 @@ style="color: red; font-weight: bold">>>>>> </span></p>
 <img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
 </p>
 
-<h3>Calculating Risk</h3>
+  <h3>Calculating Risk</h3>
 <p>
 A COIN‘s log may include, for example, the number of co-owners that agree to its
 mint, the company’s revenue history, how many COINs the company has minted, and
@@ -736,7 +737,7 @@ the risk acceptable to the seller.<sup id="fnref22"><a href="#fn22"
 rel="footnote">22</a></sup>
 </p>
 
-<h3>Calculating Benefits</h3>
+  <h3>Calculating Benefits</h3>
 <p>
 Over time, companies will go up in value because they get very efficient,
 benefit from high demand, or both. People will likely hold on to their COINs. It
@@ -754,7 +755,7 @@ style="color: red; font-weight: bold">>>>>> </span></p>
 <img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
 </p>
 
-<h3>Other Value Factors</h3>
+  <h3>Other Value Factors</h3>
 <p>
 Other things that may affect company value,
 </p>
@@ -798,6 +799,8 @@ not. It is not mysterious or left to robed experts to figure things out. Each of
 us can do it because each of us is an expert on our own sensitivities and how we
 interpret the world.
 </p>
+
+<br>
 
 <h1 style="text-align: center; ">APPENDICES</h1>
 <h2>Bad Actors</h2>
@@ -1062,7 +1065,7 @@ couldn’t, at least not in a balanced way. When the pros and cons are weighed b
 the broader consideration of a community, the final decision is more balanced.
 </p>
 
-<h3>What if a company mints COINs and then is not able to retire the debt?</h3>
+  <h3>What if a company mints COINs and then is not able to retire the debt?</h3>
 <p>
 Yes, this kind of thing will happen. And, in case you’re asking, there is no
 punishment for the people involved in this.
@@ -1073,7 +1076,7 @@ notices. Yes, the people involved in a bankruptcy get punished, ruthlessly so.
 But the system absorbs the losses, magically.
 </p>
 
-<h3>What about people who retired on their CarelessCO’s COINs?</h3>
+  <h3>What about people who retired on their CarelessCO’s COINs?</h3>
 <p>
 I think that in a RADICAL world, “retiring” will be a thing of the past
 (<em>i.e.</em>, our present). People “retire” today because they’ve been putting
@@ -1102,12 +1105,12 @@ I screwed myself financially, but I learned something in the process. I have to
 return the boat and join WiserCO.</li>
 </ol>
 
-<h3>What if lots of companies disband at the same time?</h3>
+  <h3>What if lots of companies disband at the same time?</h3>
 <p>
 Then you adjust your app to raise the risk of similar companies.
 </p>
 
-<h3>What about people who cannot work?</h3>
+  <h3>What about people who cannot work?</h3>
 <p>
 Some people will be unable to contribute to a company, for whatever reason. But
 to their family
