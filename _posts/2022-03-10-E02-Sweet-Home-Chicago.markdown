@@ -240,20 +240,6 @@ After they were alone, Sammie got right into it.
 <br>
 <br>
 
-<h2>FURTHER READING</h2>
-<ul>
-  <li><a href="https://docs.google.com/document/d/1oxZ1Ol2pMnhmbssCijIq3ipPF-9GPvVXwaCPUtuQsUA/edit#">The Hidden Masters – Notes</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
-  <li><a href="https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790">A gatekeeper for learning</a> (see <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.obnewqdc49h3">AnchorMod</a>)</li>
-  <li><a href="https://docs.google.com/document/d/139NTUSbvAfsGKKm0VYIGWFjQ_gSQReDWkmPcykSaj4A/edit#heading=h.hv9kv7g9sjnn">Narrative Arc</a></li>
-  <li><a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.45tbumt6bcua">Future Tech and Culture</a></li>
-  <li><a href="https://us02web.zoom.us/j/82364452948?pwd=NzkvMTdLbGlHZzFEenZoUG5CYy84Zz09">Resources</a></li>
-  <li><a href="https://docs.google.com/document/d/1zVBijo_3sHziYQJ4iQDqer9Lede54UbTMWbFMYeIzK0/edit#heading=h.m75zuy1og0t3">Notes</a></li>
-</ul>
-
-<br>
-<br>
-
 <h2>RELATED</h2>
 <ul>
   <li>RADICAL COMPANIES,</li>
@@ -295,9 +281,24 @@ After they were alone, Sammie got right into it.
     <li><a href="https://docs.google.com/document/d/16jST0lzzezNoFstE2ccZoI2HirgWBu3gQGnEok5OhGY/edit#">rNextBright</a></li>
     <li><a href="https://docs.google.com/document/d/1dMxsO5LMhKle97J8tPscBs5g64_QKZsiRnDtsccBUE4/edit#heading=h.gqizizpnpgzu">rHintersoft</a></li> 
   </ul>
-  <li>rProjects 
+  <li>rProjects
   <ul>
     <li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a></li>
     <li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
     <li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a></li>
   </ul>
+</ul>
+
+<br>
+<br>
+
+<h2>FURTHER READING</h2>
+<ul>
+  <li><a href="https://docs.google.com/document/d/1oxZ1Ol2pMnhmbssCijIq3ipPF-9GPvVXwaCPUtuQsUA/edit#">The Hidden Masters – Notes</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
+  <li><a href="https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790">A gatekeeper for learning</a> (see <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.obnewqdc49h3">AnchorMod</a>)</li>
+  <li><a href="https://docs.google.com/document/d/139NTUSbvAfsGKKm0VYIGWFjQ_gSQReDWkmPcykSaj4A/edit#heading=h.hv9kv7g9sjnn">Narrative Arc</a></li>
+  <li><a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.45tbumt6bcua">Future Tech and Culture</a></li>
+  <li><a href="https://us02web.zoom.us/j/82364452948?pwd=NzkvMTdLbGlHZzFEenZoUG5CYy84Zz09">Resources</a></li>
+  <li><a href="https://docs.google.com/document/d/1zVBijo_3sHziYQJ4iQDqer9Lede54UbTMWbFMYeIzK0/edit#heading=h.m75zuy1og0t3">Notes</a></li>
+</ul>
