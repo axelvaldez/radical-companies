@@ -92,6 +92,8 @@ international accords have tried to cobble together a market out of them, but
 the whole arrangement is very fragile and under constant threat.</p>
    </td>
   </tr>
+</table>
+<table>
   <tr>
    <td>
    </td>
@@ -102,9 +104,8 @@ the whole arrangement is very fragile and under constant threat.</p>
    <td><h4><p style="text-align: right">Currency</p></h4></td>
    <td>Another common name for national fiat coins is “currency.” It means to
 indicate that <em>money flows</em> from one person to the next to facilitate the
-exchange of commodities. But national fiat coins don’t always flow.
-<p>
-Because coins hold their value forever, they can be hoarded to accumulate
+exchange of commodities. But national fiat coins don’t always <em>flow<em>. 
+Because these coins hold their value forever, they can be hoarded to accumulate
 financial wealth in bank accounts or under the proverbial mattress.
 <p>
 Given this, national fiat coins do not deserve to be called “currency.”
@@ -387,13 +388,7 @@ much</em> to give to others.</li>
 <p>
 The RADICAL Distributions is very similar, but instead of cash or stocks, it
 uses RADs, a dimensionless unit. At the end of each Distribution the total
-number of RADs allocated to each person represents their
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html
-alert: undefined internal link (link text: "dynamic percentage of ownership").
-Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a
-href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight:
-bold">>>>>> </span></p>
-<a href="#heading=h.unhvfkqervjk">dynamic percentage of ownership</a> of the
+number of RADs allocated to each person represents their dynamic percentage of ownership of the
 broad value created by a company.
 </p>
 <p>
