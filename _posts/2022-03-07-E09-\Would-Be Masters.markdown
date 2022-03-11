@@ -20,7 +20,6 @@ And then they build monuments to you</pre>
 
 <h1 style="text-align: center;">WOULD-BE MASTERS</h1>
 
-
 <h2>The Queen Is Dead</h2>
 <p>
 “What the f…?”
