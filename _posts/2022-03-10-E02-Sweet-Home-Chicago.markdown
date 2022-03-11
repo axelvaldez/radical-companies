@@ -237,6 +237,8 @@ After they were alone, Sammie got right into it.
 “Bellamy tradition… ? Vic, I wouldn’t have rebuked you, but I would have suggested that you run an experiment. Instead it went from your head into full production. Universal domination, that’s what it sounds like to me. In any case, I just wanted you to spend time with…” She froze mid-sentence. Then she gave him a furious look, got up, and ran back to her quarters. But it was too late and Munjez was gone.
 </p>
 
+<br>
+<br>
 <h1>Related</h1>
 
 <ul>
@@ -247,14 +249,12 @@ After they were alone, Sammie got right into it.
   <li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
   <li>Frequently asked questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
 </ul>
-
 <li>The Missing Chapters,</li>
   <ul>
   <li><a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu">RADICAL COIN</a></li>
   <li><a href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76">RADICAL LAND</a></li>
   <li><a href="https://docs.google.com/document/d/1P4tZw1iAAnJtP2zlijgttIv1Cxq47PBPzqK3UbMHCSY/edit#">RADICAL GOVERNMENT</a></li> 
 </ul>
-
 <li>rCompanies</li>
   <ul>
   <li>rPRADERA MEDIA</li>
@@ -291,6 +291,7 @@ After they were alone, Sammie got right into it.
     <li><a href="#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
     </ul>
 </ul>
+    xxx
   
 <br>
 <br>
