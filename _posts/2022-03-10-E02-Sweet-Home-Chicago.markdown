@@ -290,10 +290,14 @@ After they were alone, Sammie got right into it.
     <ul>
     <li><a href="#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
     </ul>
+
+  </ul>
+  HHHHH
+</ul>
   
 <br>
-HHHHH
 <br>
+
 <h1>Further Reading</h1>
   <ul>
     <li><a href="https://docs.google.com/document/d/1oxZ1Ol2pMnhmbssCijIq3ipPF-9GPvVXwaCPUtuQsUA/edit#">The Hidden Masters – Notes</a></li>
