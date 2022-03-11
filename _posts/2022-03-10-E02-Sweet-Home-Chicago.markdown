@@ -240,7 +240,6 @@ After they were alone, Sammie got right into it.
 <br>
 <br>
 
-<div>
 <h1>Related</h1>
 
 <ul>
@@ -250,13 +249,13 @@ After they were alone, Sammie got right into it.
   <li><a href="https://docs.google.com/document/d/1UYxFNZyJvFZf4DMZkspF5cF6Yzl_ugI67lmqoYJhtGw/edit#heading=h.87ak6hy0sbuh">ES</a>: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
   <li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
   <li>Frequently asked questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
-</ul>
+  </ul>
 <li>The Missing Chapters,</li>
   <ul>
   <li><a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu">RADICAL COIN</a></li>
   <li><a href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76">RADICAL LAND</a></li>
   <li><a href="https://docs.google.com/document/d/1P4tZw1iAAnJtP2zlijgttIv1Cxq47PBPzqK3UbMHCSY/edit#">RADICAL GOVERNMENT</a></li> 
-</ul>
+  </ul>
 <li>rCompanies</li>
   <ul>
   <li>rPRADERA MEDIA</li>
@@ -275,7 +274,7 @@ After they were alone, Sammie got right into it.
     <li><a href="https://docs.google.com/document/d/14A5U000ny7_zF8_HutQF1pcMoUwQmI7tfXaMB9uKk3M/edit#heading=h.gqizizpnpgzu">rSparkle</a></li>
     <li><a href="https://docs.google.com/document/d/16eg7wnyH61xPT4pWFWsuwHydKaxeP8k5xKGX3Pglzp0/edit#heading=h.gqizizpnpgzu">rStayHome</a></li>
     <li><a href="https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu">KidsCare</a></li>  
-  </ul>
+    </ul>
   <li>Startups</li>
     <ul>
     <li><a href="https://docs.google.com/document/d/1lE-khYtIyXoFeSIlUGcFPzESsslnBoGcmZMQaeVBVgw/edit#">rBuddyNeighbor</a></li>
@@ -287,14 +286,12 @@ After they were alone, Sammie got right into it.
     <li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a></li>
     <li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
     <li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a></li>
-  </ul>
+    </ul>
   <li>RADICAL Science Fiction</li>
     <ul>
     <li><a href="#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
     </ul>
 HHH
-</div>
-MMM
 
 <br>
 <br>
