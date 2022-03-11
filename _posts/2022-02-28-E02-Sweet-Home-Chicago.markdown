@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  "AND THEN THEY WANT TO BURN YOU"
+layout:   post
+title:    "AND THEN THEY WANT TO BURN YOU"
 subtitle: "E02 – SWEET HOME CHICAGO"
-authors: "Matt Perez"
-image: "book.jpg"
+authors:  "Matt Perez"
+image:    "book.jpg"
 ---
 
 <div style="display: none;">Sammie brings their child, Munjez, to Vic, but s. She is in for a surprise.
