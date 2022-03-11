@@ -14,12 +14,14 @@ image:    "book.jpg"
 <br>
 </div>
 
-<pre class="prettyprint" style="font-size: 40px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">First they ignore you.
+<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">First they ignore you.
 Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
 
 <h3>FIRST OF EARTH</h3>
+<br>
+<br>
 
 
 <p>
