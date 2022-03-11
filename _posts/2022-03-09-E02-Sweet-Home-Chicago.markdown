@@ -6,13 +6,14 @@ authors: "Matt Perez"
 image: "book.jpg"
 ---
 
-<div style="display: none;">Sammie brings their child, Munjez, to Vic, but s. She is in for a surprise. AAA
-<br>
-<br>
-<br>
-<br>
-<br>
+<div style="display: none;">Sammie brings their child, Munjez, to Vic, but s. She is in for a surprise.
 </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">First they ignore you.
 Then they ridicule you.
