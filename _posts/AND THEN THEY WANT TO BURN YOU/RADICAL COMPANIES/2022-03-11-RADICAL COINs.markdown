@@ -184,39 +184,31 @@ They do this starting from a simple foundation of interdependence,
 </p>
 <table>
   <tr>
-   <td rowspan="2" >
-<h4><p style="text-align: right">Meaning & Belonging</p></h4>
-   </td>
-   <td>
-    Principles
-   </td>
+   <td rowspan="2" ><h4><p style="text-align: right">Meaning & Belonging</p></h4></td>
+   <td style="font-size: larger;"><srong>Principles</strong></td>
   </tr>
   <tr>
-   <td><h4><em>relationships</em></h4></td>
+   <td style="font-size: smaller;"><em>relationships</em></td>
   </tr>
   <tr>
    <td colspan="2">   </td>
   </tr>
   <tr>
-   <td rowspan="2" ><h4><p style="text-align: right">Transparency & Decentralization</p></h4>
-   </td>
-   <td>
-    Commitments
-   </td>
+   <td rowspan="2" ><h4><p style="text-align: right">Transparency & Decentralization</p></h4></td>
+   <td style="font-size: larger;">Commitments</td>
   </tr>
   <tr>
-   <td><h4><em>autonomy</em></h4>
-   </td>
+   <td style="font-size: smaller;"><em>autonomy</em></td>
   </tr>
   <tr>
    <td colspan="2" >   </td>
   </tr>
   <tr>
    <td rowspan="2" ><h4><p style="text-align: right">Alignment & Experimentation</p></h4></td>
-   <td>Practices</td>
+   <td style="font-size: larger;">Practices</td>
   </tr>
   <tr>
-   <td><em>collaboration</em></td>
+   <td style="font-size: smaller;"><em>collaboration</em></td>
   </tr>
   <tr>
    <td>
