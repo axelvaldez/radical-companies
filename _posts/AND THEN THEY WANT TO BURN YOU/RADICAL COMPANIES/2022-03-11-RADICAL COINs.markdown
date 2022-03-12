@@ -174,7 +174,7 @@ co-owners and co-managers to govern and operate it. These people align
 themselves according to the impact they want to make, why they are doing so, and
 then they embark on many experiments to get there.
 </p>
-<img src="https://docs.google.com/drawings/d/1myDCunZHMZ5a_JbuV1OFB_zbFFzqYkc7fOKqbKFcbF4/edit" alt="Three middle filgers up, as in the Scout Salute, as a mnemonic of the three elements of alignment" title="Elements of Alignment">
+<img src="assets/img/RADICAL-Alignment-[EN].png" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic of the three elements of alignment: impact, purpose, mission" title="Elements of Alignment">
 </p>
 <p>
 They do this starting from a simple foundation of interdependence,
