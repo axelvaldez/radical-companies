@@ -60,33 +60,15 @@ world-wide market that we can all play in without intermediaries.
 <table>
   <tr>
    <td style="vertical-align: text-top; border-right: black dotted 1px;"><strong>National Fiat Coin</strong></td>
-   <td>Throughout the rest of this document, you will notice that I stubbornly
-use “national fiat coin,” instead of “money” or “currency.” This is mostly to
-remind myself of a few key distinctions,
+   <td>Throughout the rest of this document, you will notice that I stubbornly use “national fiat coin,” instead of “money” or “currency.” This is mostly to remind myself of a few key distinctions,
    <ul>
      <li>“Money” is primarily a concept</li>
      <li>“Coins” are a tangible instance of money.</li>
-     <li>“Fiat money” is coinage created by fiat, out of whole cloth. It used to be
-that you needed gold to create coins, but not anymore.</li>
+     <li>“Fiat money” is coinage created by fiat, out of whole cloth. It used to be that you needed gold to create coins, but not anymore.</li>
    </ul>
-     <p>As a <em>unit of measure</em>, a national fiat coin works like a meter or a
-minute and serves as a stable denominator for transactions. However, while the
-meter and the minute are world-wide units, fiat coins are a national thing. This
-makes them very unstable and fragile as a unit of measure (<em>e.g.</em>,
-imagine a minute being “devalued” or something being measured in 仪表).<sup
-id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
-     <p>National fiat coins act as a <em>store of value</em> by virtue of their fixed
-nominal value. This means that these coins can be used to accumulate financial
-wealth. From that perspective, national fiat coins do not deserve to be called
-“currency,” not while stuffed under the proverbial mattress.</p>
-     <p>National fiat coins serve as a <em>medium of exchange</em>. This is the
-prevailing message that governments, banks, and the whole financial industry
-repeats over and over. At one point exchange was based on the value of gold, but
-since the 1970s the system is based on each country’s say so, national fiat
-coins.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup> National
-governments talk about this as the best thing since sliced bread, and
-international accords have tried to cobble together a market out of them, but
-the whole arrangement is very fragile and under constant threat.</p>
+     <p>As a <em>unit of measure</em>, a national fiat coin works like a meter or a minute and serves as a stable denominator for transactions. However, while the meter and the minute are world-wide units, fiat coins are a national thing. This makes them very unstable and fragile as a unit of measure (<em>e.g.</em>, imagine a minute being “devalued” or something being measured in 仪表).<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
+     <p>National fiat coins act as a <em>store of value</em> by virtue of their fixed nominal value. This means that these coins can be used to accumulate financial wealth. From that perspective, national fiat coins do not deserve to be called “currency,” not while stuffed under the proverbial mattress.</p>
+     <p>National fiat coins serve as a <em>medium of exchange</em>. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point exchange was based on the value of gold, but since the 1970s the system is based on each country’s say so, national fiat coins.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup> National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.</p>
    </td>
   </tr>
   <tr><td>&nbsp;</td><td></td></tr>
@@ -97,8 +79,7 @@ the whole arrangement is very fragile and under constant threat.</p>
   </tr>
   <tr><td>&nbsp;</td><td></td></tr>
 </table>
-<p>To avoid confusion, I use “money” to refer to the concept, “national fiat coin”
-to refer to what we normally mean by money, and “currency” not at all.</p>
+<p>To avoid confusion, I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.</p>
 
 <h2>Historical Perspective</h2>
 <p>
@@ -175,10 +156,9 @@ themselves according to the impact they want to make, why they are doing so, and
 then they embark on many experiments to get there.
 </p>
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="assets/img/alignment.png" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: impact, purpose, and mission" title="Elements of Alignment">
+  <img src="assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: impact, purpose, and mission" title="Elements of Alignment">
 </p>
 <p>They do this starting from a simple foundation of interdependence,</p>
-
 <table style="margin: auto; margin-bottom: 20px; ">
   <tr>
    <td rowspan="2"><p style="text-align: right">Meaning & Belonging</p></td>
@@ -333,18 +313,11 @@ particular order.
 <p>
 COINs are minted by companies, not a national government.
 </p>
-<p>
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html
-alert: inline image link here (to images/image2.png). Store image on your image
-server and adjust path/filename/extension if necessary. </span><br>(<a
-href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span
-style="color: red; font-weight: bold">>>>>> </span></p>
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
+<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+  <img src="assets/img/en-decentralized-minting.svg" alt="A company gets REVENUE comes in, at the top, and sneds COINs go out to the world, at the bottom. In parallel, a company mints its own COINs, as needed and they go out to the world mixed in with revenue COINs." title="Decentralizd Minting">
 </p>
 <p>
-For example, BenCO mints 30,000 COINs and promises to repay them in three years.
-All this information goes on a transparent digital store (<em>e.g.</em>,
-blockchain or similar secure) that would include, at a minimum,
+For example, BenCO mints 30,000 COINs and promises to repay them in three years. All this information goes on a transparent digital store (<em>e.g.</em>, blockchain or similar secure) that would include, at a minimum,
 </p>
 <ul>
 <li>The amount of COINs (30,000),</li>
@@ -590,12 +563,8 @@ people even paid taxes earlier rather than let their currency “rot.”
 <table>
   <tr>
    <td>
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html
-alert: inline image link here (to images/image3.png). Store image on your image
-server and adjust path/filename/extension if necessary. </span><br>(<a
-href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span
-style="color: red; font-weight: bold">>>>>> </span></p>
-<img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
+   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+    <img src="assets/img/en-worgl.svg" alt="Five of the stamps that were applied to the back of the local currency that the town of Wörgl, Austria minted in the 1930s in response to the Great Depression." title="Wörgl Stamps">
    </td>
   </tr>
   <tr>
@@ -624,12 +593,7 @@ Every COIN carries a log of all the information people need to decide whether or
 not to accept it.
 </p>
 <p>
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html
-alert: inline image link here (to images/image4.png). Store image on your image
-server and adjust path/filename/extension if necessary. </span><br>(<a
-href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span
-style="color: red; font-weight: bold">>>>>> </span></p>
-<img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
+
 </p>
 
   <h3>Calculating Risk</h3>
