@@ -181,30 +181,28 @@ then they embark on many experiments to get there.
 
 <table>
   <tr>
-   <td rowspan="2"><h3><p style="text-align: right">Meaning & Belonging</p></h3></td>
+   <td rowspan="2"><p style="text-align: right">Meaning & Belonging</p></td>
    <td>Principles</td>
   </tr>
   <tr>
-   <td><h3><em>relationships</em></h3></td>
+   <td><em>relationships</em></td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</td>
+   <td colspan="2">2&nbsp;</td>
   </tr>
   <tr>
-   <td rowspan="2"><h3><p style="text-align: right">Transparency & Decentralization</p></h3></td>
+   <td rowspan="2"><p style="text-align: right">Transparency & Decentralization</p></td>
    <td>Commitments</td>
   </tr>
   <tr>
-   <td><h3><em>autonomy</em></h3></td>
+   <td><em>autonomy</em></td>
   </tr>
   <tr>
-   <td colspan="2" >&nbsp;</td>
+   <td colspan="3">3&nbsp;</td>
   </tr>
   <tr>
-   <td rowspan="2"><h3><p style="text-align: right">Alignment & Experimentation</p></h3></td>
-   <td>
-    Practices
-   </td>
+   <td rowspan="2"><p style="text-align: right">Alignment & Experimentation</p></td>
+   <td>Practices</td>
   </tr>
   <tr>
    <td><em>collaboration</em></td>
