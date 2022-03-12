@@ -57,9 +57,7 @@ world-wide market that we can all play in without intermediaries.
 </p>
 
 <h2>Some Terminology</h2>
-
 <table>
-<tbody>
   <tr>
    <td style="vertical-align: text-top; border-right: black dotted 1px;"><strong>National Fiat Coin</strong></td>
    <td>Throughout the rest of this document, you will notice that I stubbornly
@@ -97,14 +95,11 @@ the whole arrangement is very fragile and under constant threat.</p>
    <td><p>Another common name for national fiat coins is “currency.” It means to indicate that <em>money flows</em> from one person to the next to facilitate the exchange of commodities. But national fiat coins don’t always <em>flow</em>. Because these coins hold their value forever, they can be hoarded to accumulate financial wealth in bank accounts or under the proverbial mattress.</p>
    <p>Given this, national fiat coins do not deserve to be called “currency.”</p></td>
   </tr>
-</tbody>
 </table>
 <table>
 </table>
-
 <p>To avoid confusion, I use “money” to refer to the concept, “national fiat coin”
 to refer to what we normally mean by money, and “currency” not at all.</p>
-xxx
 
 <h2>Historical Perspective</h2>
 <p>
