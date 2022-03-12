@@ -174,7 +174,7 @@ co-owners and co-managers to govern and operate it. These people align
 themselves according to the impact they want to make, why they are doing so, and
 then they embark on many experiments to get there.
 </p>
-<p style="font-family: courier new; text-align: center; width: 75%; border: black solid 1px;">
+<p style="font-family: courier new; text-align: center; width: 75%; border: black solid 1px; margin: auto;">
   <img src="assets/img/alignment.png" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: impact, purpose, and mission" title="Elements of Alignment">
 </p>
 <p>They do this starting from a simple foundation of interdependence,</p>
