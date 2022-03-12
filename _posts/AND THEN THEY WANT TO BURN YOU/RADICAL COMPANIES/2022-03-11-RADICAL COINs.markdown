@@ -60,7 +60,7 @@ world-wide market that we can all play in without intermediaries.
 
 <table>
   <tr>
-   <td><h4><p style="text-align: right">National Fiat Coin</p></h4></td>
+   <td><h4><p style="text-align: right; vertical-align: top;">National Fiat Coin</p></h4></td>
    <td>Throughout the rest of this document, you will notice that I stubbornly
 use “national fiat coin,” instead of “money” or “currency.” This is mostly to
 remind myself of a few key distinctions,
@@ -205,60 +205,38 @@ They do this starting from a simple foundation of interdependence,
 <table>
   <tr>
    <td rowspan="2" >
-<h4><p style="text-align: right">
-Meaning & Belonging</p>
-</h4>
-</li>
-</ol>
+<h4><p style="text-align: right">Meaning & Belonging</p></h4>
    </td>
    <td>
     Principles
    </td>
   </tr>
   <tr>
-   <td>
-<h4>
-    <em>relationships</em></h4>
-   </td>
+   <td><h4><em>relationships</em></h4></td>
   </tr>
   <tr>
-   <td colspan="2" >
-   </td>
+   <td colspan="2">   </td>
   </tr>
   <tr>
-   <td rowspan="2" >
-<h4><p style="text-align: right">
-Transparency & Decentralization</p>
-</h4>
+   <td rowspan="2" ><h4><p style="text-align: right">Transparency & Decentralization</p></h4>
    </td>
    <td>
     Commitments
    </td>
   </tr>
   <tr>
-   <td>
-<h4>
-    <em>autonomy</em></h4>
+   <td><h4><em>autonomy</em></h4>
    </td>
   </tr>
   <tr>
-   <td colspan="2" >
-   </td>
+   <td colspan="2" >   </td>
   </tr>
   <tr>
-   <td rowspan="2" >
-<h4><p style="text-align: right">
-Alignment & Experimentation</p>
-</h4>
-   </td>
-   <td>
-    Practices
-   </td>
+   <td rowspan="2" ><h4><p style="text-align: right">Alignment & Experimentation</p></h4></td>
+   <td>Practices</td>
   </tr>
   <tr>
-   <td>
-    <em>collaboration</em>
-   </td>
+   <td><em>collaboration</em></td>
   </tr>
   <tr>
    <td>
