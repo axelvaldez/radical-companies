@@ -106,6 +106,8 @@ financial wealth in bank accounts or under the proverbial mattress.<br>Given thi
   </tr>
 </tbody>
 </table>
+<table>
+</table>
 
 <p>To avoid confusion, I use “money” to refer to the concept, “national fiat coin”
 to refer to what we normally mean by money, and “currency” not at all.</p>
