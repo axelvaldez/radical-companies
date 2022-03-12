@@ -92,7 +92,7 @@ the whole arrangement is very fragile and under constant threat.</p>
   </tr>
   <tr>
   <td>x</td>
-  <td>x</td>
+  <td></td>
   </tr>
   <tr>
    <td style="vertical-align: text-top; border-right: black dotted 1px;"><strong>Currency</strong></td>
