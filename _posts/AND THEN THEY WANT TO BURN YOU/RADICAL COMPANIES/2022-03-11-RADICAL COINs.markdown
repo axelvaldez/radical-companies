@@ -177,9 +177,8 @@ then they embark on many experiments to get there.
 <p style="font-family: courier new; text-align: center; width: 75%; border: black solid 1px;">
   <img src="../../assets/img/alignment.png" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: impact, purpose, and mission" title="Elements of Alignment">
 </p>
-<p>
-They do this starting from a simple foundation of interdependence,
-</p>
+<p>They do this starting from a simple foundation of interdependence,</p>
+xxx
 <table>
   <tr>
    <td rowspan="2" ><h4><p style="text-align: right">Meaning & Belonging</p></h4></td>
@@ -188,9 +187,7 @@ They do this starting from a simple foundation of interdependence,
   <tr>
    <td style="font-size: smaller;"><em>relationships</em></td>
   </tr>
-  <tr>
-   <td colspan="2">   </td>
-  </tr>
+  <tr><td colspan="2"></td></tr>
   <tr>
    <td rowspan="2" ><h4><p style="text-align: right">Transparency & Decentralization</p></h4></td>
    <td style="font-size: larger;">Commitments</td>
@@ -198,9 +195,7 @@ They do this starting from a simple foundation of interdependence,
   <tr>
    <td style="font-size: smaller;"><em>autonomy</em></td>
   </tr>
-  <tr>
-   <td colspan="2" >   </td>
-  </tr>
+  <tr><td colspan="2"></td></tr>
   <tr>
    <td rowspan="2" ><h4><p style="text-align: right">Alignment & Experimentation</p></h4></td>
    <td style="font-size: larger;">Practices</td>
