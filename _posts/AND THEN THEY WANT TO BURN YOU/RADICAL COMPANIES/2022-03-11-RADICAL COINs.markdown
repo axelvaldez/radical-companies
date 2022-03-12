@@ -90,15 +90,12 @@ international accords have tried to cobble together a market out of them, but
 the whole arrangement is very fragile and under constant threat.</p>
    </td>
   </tr>
-  </table>
-
-  <table>
   <tr>
-   <td> </td>
+   <td>_</td>
    <td> </td>
   </tr>
   <tr>
-   <td><h4><p style="text-align: right">Currency</p></h4></td>
+   <td style="vertical-align: text-top;"><strong>Currency<strong></td>
    <td>Another common name for national fiat coins is “currency.” It means to
 indicate that <em>money flows</em> from one person to the next to facilitate the
 exchange of commodities. But national fiat coins don’t always <em>flow<em>. 
