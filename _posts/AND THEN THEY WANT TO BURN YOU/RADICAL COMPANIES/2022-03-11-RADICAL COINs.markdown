@@ -60,7 +60,7 @@ world-wide market that we can all play in without intermediaries.
 
 <table>
   <tr>
-   <td style="vertical-align: text-top;"><strong>National Fiat Coin</strong></td>
+   <td style="vertical-align: text-top; border-right: black dotted 1px;"><strong>National Fiat Coin</strong></td>
    <td>Throughout the rest of this document, you will notice that I stubbornly
 use “national fiat coin,” instead of “money” or “currency.” This is mostly to
 remind myself of a few key distinctions,
@@ -95,7 +95,7 @@ the whole arrangement is very fragile and under constant threat.</p>
    <td> </td>
   </tr>
   <tr>
-   <td style="vertical-align: text-top;"><strong>Currency</strong></td>
+   <td style="vertical-align: text-top; border-right: black dotted 1px;"><strong>Currency</strong></td>
    <td>Another common name for national fiat coins is “currency.” It means to
 indicate that <em>money flows</em> from one person to the next to facilitate the
 exchange of commodities. But national fiat coins don’t always <em>flow<em>. 
