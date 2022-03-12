@@ -59,6 +59,7 @@ world-wide market that we can all play in without intermediaries.
 <h2>Some Terminology</h2>
 
 <table>
+<tbody>
   <tr>
    <td style="vertical-align: text-top; border-right: black dotted 1px;"><strong>National Fiat Coin</strong></td>
    <td>Throughout the rest of this document, you will notice that I stubbornly
@@ -104,6 +105,7 @@ financial wealth in bank accounts or under the proverbial mattress.
 <p>Given this, national fiat coins do not deserve to be called “currency.”</p>
    </td>
   </tr>
+</tbody>
 </table>
 
 <p>To avoid confusion, I use “money” to refer to the concept, “national fiat coin”
