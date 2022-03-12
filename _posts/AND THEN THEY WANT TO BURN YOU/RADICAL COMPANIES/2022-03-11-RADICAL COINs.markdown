@@ -197,7 +197,7 @@ then they embark on many experiments to get there.
    <td><strong>Practices</strong></td>
   </tr>
   <tr><td><em>collaboration</em></td></tr>
-  <tr><td colspan="3"></td></tr>
+  <tr><td colspan="3">&nbsp;</td></tr>
 </table>
 
   <h3>Evolution, Interrupted</h3>
