@@ -179,7 +179,7 @@ then they embark on many experiments to get there.
 </p>
 <p>They do this starting from a simple foundation of interdependence,</p>
 
-<table>
+<table style="margin: auto;">
   <tr>
    <td rowspan="2"><p style="text-align: right">Meaning & Belonging</p></td>
    <td><strong>Principles</strong></td>
