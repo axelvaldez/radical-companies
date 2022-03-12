@@ -174,6 +174,10 @@ co-owners and co-managers to govern and operate it. These people align
 themselves according to the impact they want to make, why they are doing so, and
 then they embark on many experiments to get there.
 </p>
+<img src="/Users/mattperez/Library/Mobile Documents/com~apple~CloudDocs/Downloads/radical-companies-repo/assets/img/alignment.png"
+     alt="Six middle fingers up, as in the Scout Salute, serves as a mnemonic of the three elements of alignment: impact, purpose, mission"
+     title="Elements of Alignment"
+>
 <img src="assets/img/alignment.png"
      alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic of the three elements of alignment: impact, purpose, mission"
      title="Elements of Alignment"
