@@ -91,10 +91,6 @@ the whole arrangement is very fragile and under constant threat.</p>
    </td>
   </tr>
   <tr>
-   <td>_</td>
-   <td> </td>
-  </tr>
-  <tr>
    <td style="vertical-align: text-top; border-right: black dotted 1px;"><strong>Currency</strong></td>
    <td>Another common name for national fiat coins is “currency.” It means to
 indicate that <em>money flows</em> from one person to the next to facilitate the
