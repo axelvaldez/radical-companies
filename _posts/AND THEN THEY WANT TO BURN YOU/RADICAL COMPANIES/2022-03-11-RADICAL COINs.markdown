@@ -60,7 +60,7 @@ world-wide market that we can all play in without intermediaries.
 
 <table>
   <tr>
-   <td style="vertical-align: text-top; text-align: right;"><strong>National Fiat Coin</strong></td>
+   <td style="vertical-align: text-top;"><strong>National Fiat Coin</strong></td>
    <td>Throughout the rest of this document, you will notice that I stubbornly
 use “national fiat coin,” instead of “money” or “currency.” This is mostly to
 remind myself of a few key distinctions,
