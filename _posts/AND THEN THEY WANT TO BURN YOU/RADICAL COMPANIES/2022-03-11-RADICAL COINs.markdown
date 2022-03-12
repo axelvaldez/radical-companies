@@ -114,21 +114,13 @@ fiat coins. They are a unit of measure, a store of value, and a medium of
 exchange, but with these twists,
 </p>
 <ol>
-<li>They represent value at its broadest. In addition to financial value, they
-account for wellbeing, contributions, acts of kindness, and all the other things
-that are important to people.</li>
-<li>They spread risks and benefits through society. We all share in the
-adventure: the burden of risk and the joys of gains.</li>
-<li>COINs bypass the complications and costs brought about by banks, exchanges,
-national politics,<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup> and
-the influence of transnationals.<sup id="fnref7"><a href="#fn7"
-rel="footnote">7</a></sup>
-<p>
-COINs have the potential to enable a world-wide market. This will help us break
-out of our national silos, create an economy that’s decentralized and
-transparent.
-</p></li>
-</ul>
+  <li>They represent value at its broadest. In addition to financial value, they account for wellbeing, contributions, acts of kindness, and all the other things that are important to people.</li>
+  <li>They spread risks and benefits through society. We all share in the adventure: the burden of risk and the joys of gains.</li>
+  <li>
+    <p>COINs bypass the complications and costs brought about by banks, exchanges, national politics,<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup> and the influence of transnationals.<sup id="fnref7"><a href="#fn7" rel="footnote">7</a></sup></p>
+    <p>COINs have the potential to enable a world-wide market. This will help us break out of our national silos, create an economy that’s decentralized and transparent.</p>
+  </li>
+</ol>
 
 <h2>Worth Repeating</h2>
 <p>
