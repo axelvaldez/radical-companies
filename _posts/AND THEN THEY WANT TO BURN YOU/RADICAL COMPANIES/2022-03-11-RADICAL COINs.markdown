@@ -90,8 +90,8 @@ international accords have tried to cobble together a market out of them, but
 the whole arrangement is very fragile and under constant threat.</p>
    </td>
   </tr>
+  <td></td>
   <tr>
-  <td>x</td>
   <td></td>
   </tr>
   <tr>
