@@ -178,30 +178,36 @@ then they embark on many experiments to get there.
   <img src="../../assets/img/alignment.png" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: impact, purpose, and mission" title="Elements of Alignment">
 </p>
 <p>They do this starting from a simple foundation of interdependence,</p>
-xxx
+
 <table>
   <tr>
-   <td rowspan="2" ><h4><p style="text-align: right">Meaning & Belonging</p></h4></td>
-   <td style="font-size: larger;"><srong>Principles</strong></td>
+   <td rowspan="2"><h3><p style="text-align: right">Meaning & Belonging</p></h3></td>
+   <td>Principles</td>
   </tr>
   <tr>
-   <td style="font-size: smaller;"><em>relationships</em></td>
-  </tr>
-  <tr><td colspan="2"></td></tr>
-  <tr>
-   <td rowspan="2" ><h4><p style="text-align: right">Transparency & Decentralization</p></h4></td>
-   <td style="font-size: larger;">Commitments</td>
+   <td><h3><em>relationships</em></h3></td>
   </tr>
   <tr>
-   <td style="font-size: smaller;"><em>autonomy</em></td>
-  </tr>
-  <tr><td colspan="2"></td></tr>
-  <tr>
-   <td rowspan="2" ><h4><p style="text-align: right">Alignment & Experimentation</p></h4></td>
-   <td style="font-size: larger;">Practices</td>
+   <td colspan="2">&nbsp;</td>
   </tr>
   <tr>
-   <td style="font-size: smaller;"><em>collaboration</em></td>
+   <td rowspan="2"><h3><p style="text-align: right">Transparency & Decentralization</p></h3></td>
+   <td>Commitments</td>
+  </tr>
+  <tr>
+   <td><h3><em>autonomy</em></h3></td>
+  </tr>
+  <tr>
+   <td colspan="2" >&nbsp;</td>
+  </tr>
+  <tr>
+   <td rowspan="2"><h3><p style="text-align: right">Alignment & Experimentation</p></h3></td>
+   <td>
+    Practices
+   </td>
+  </tr>
+  <tr>
+   <td><em>collaboration</em></td>
   </tr>
   <tr>
    <td>
