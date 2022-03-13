@@ -62,61 +62,33 @@ importantly, the value of contributions made by the community around it,
 <ul>
 <li>Two identical lots will be valued differently according to their
 <strong>improvements</strong>. The one with a small dilapidated barn on it will
-be valued less than the lot with a well-maintained barn.
+be valued less than the lot with a well-maintained barn.</li>
 <li>A lot, with the exact same house on it at one <strong>location</strong> may
-be valued very differently than the same lot and house in another location.
+be valued very differently than the same lot and house in another location.</li>
 <li>The <strong>community</strong> around a particular piece of land determines
 its overarching value. For example, there is a big difference in pricing for
-nearly identical houses but in different towns.
+nearly identical houses but in different towns.</li>
+</ul>
 <table>
   <tr>
    <td>
-<h5>
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html
-alert: inline image link here (to images/image1.png). Store image on your image
-server and adjust path/filename/extension if necessary. </span><br>(<a
-href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span
-style="color: red; font-weight: bold">>>>>> </span></p>
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
-</h5>
-</li>
-</ul>
+    <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="assets/img/een-vacant-lot-henry-george.svg" alt="Picture of a street sign that reads: EVERYBODY WORKS BUT THE VACANT LOT. I paid $3600 for this lot and will hold till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read HENRY GEORGE. Yours truly, Fay Lewis." title="Vacant Lot">
+    <h5>“EVERYBODY WORKS BUT THE VACANT LOT” – I paid $3600 for this lot and will hold ‘till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read “HENRY GEORGE”</h5>
+    <h6><p style="text-align: right"><em>— Yours Truly, Fay Lewis</em><sup id="fnref2"><a href="#fn2"rel="footnote">2</a></sup></h6>
    </td>
   </tr>
-  <tr>
-   <td>
-<h5>
-    EVERYBODY WORKS BUT THE VACANT LOT” – I paid $3600 for this lot and will
-hold ‘till I get $6000. The profit is unearned increment made possible by the
-presence of this community and enterprise of its people. I take the profit
-without earning it. For the remedy read “HENRY GEORGE</h5>
-<!--H6 not demoted to H7. -->
-<h6>
-    <p style="text-align: right">
-<em>— Yours Truly, Fay Lewis</em><sup id="fnref2"><a href="#fn2"
-rel="footnote">2</a></sup>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-  </tr>
+  <tr><td>&nbsp;</td></tr>
 </table>
 <p>
 The bidding system might look something like this,
 </p>
 <ul>
-<li>Rather than open for bids all the time, uninvited bidding may happen, say,
-once or twice a year.
-<li>The current occupier, on the other hand, may invite bids at any time
-(<em>e.g.</em>, somebody moving out of a house).
-<li>The bids would be verified to be in good faith.
-<li>The winning bidder takes over as the new occupier. This could be the current
-occupier’s bid.
-<li>Whereas land ownership today is static and never ending, a winning bidder
-occupies the land until the next winning bid.
-<li>Taxes, or equivalent, will go up or down as the winning bids go up or down.
-</li>
+<li>Rather than open for bids all the time, uninvited bidding may happen, say, once or twice a year.</li>
+<li>The current occupier, on the other hand, may invite bids at any time (<em>e.g.</em>, somebody moving out of a house).</li>
+<li>The bids would be verified to be in good faith.</li>
+<li>The winning bidder takes over as the new occupier. This could be the current occupier’s bid.</li>
+<li>Whereas land ownership today is static and never ending, a winning bidder occupies the land until the next winning bid.</li>
+<li>Taxes, or equivalent, will go up or down as the winning bids go up or down.</li>
 </ul>
 
 <h2>Taxes?</h2>
@@ -138,14 +110,7 @@ question. The community fund could then be governed as follows,
 <li>The fifth controls 3%.
 </li>
 </ul>
-<p>
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html
-alert: inline image link here (to images/image2.png). Store image on your image
-server and adjust path/filename/extension if necessary. </span><br>(<a
-href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span
-style="color: red; font-weight: bold">>>>>> </span></p>
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
-</p>
+<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="assets/img/en-community-fund-not-taxes.svg" alt="Five concentric circles: at the center is the Occupier with 49%; around it is the Hyper-Local Community circle with 27%; next is the Surrounding Community with 15%; next could be the Region with 6% and the State with 3% of the fund." title="Community Fund – Not Taxes">
 <p>
 The occupier has a big say in the use of the funds that she is contributing to
 the community. She may not be able to add a new room, but what’s in it for her
@@ -199,14 +164,8 @@ projects may pool their funds to create a bullet train through the region. Keep
 in mind that when aggregated, Region and State circles have a pretty big pool of
 actual cash to create common goods.
 </p>
+<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="assets/img/en-community-funds-intertwined.svg" alt="Five intertwined circles. the top two are intertwined at the Hyper-Local Community level (in yellow). Next two circle are intertwined at the Community level (l)ight orange). Next two are intertwined at the Region level (liht pink). The last two are intertwined at the State level (light brown)." title="Community Funds–Intertwined">
 <p>
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html
-alert: inline image link here (to images/image3.png). Store image on your image
-server and adjust path/filename/extension if necessary. </span><br>(<a
-href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span
-style="color: red; font-weight: bold">>>>>> </span></p>
-<img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
-</p>
 <p>
 A couple of unpolished thoughts,
 </p>
@@ -381,14 +340,7 @@ possibly top it. The particular community can retire a common good and open it
 to bids. The mechanism for doing so is up to community politics, and generally
 it may look like this,
 </p>
-<p>
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html
-alert: inline image link here (to images/image5.png). Store image on your image
-server and adjust path/filename/extension if necessary. </span><br>(<a
-href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span
-style="color: red; font-weight: bold">>>>>> </span></p>
-<img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
-</p>
+<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="assets/img/en-politics.svg" alt="Three circles: the left-most is labeled LAND OPEN FOR BIGS. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes into a bigger circle labeled COMMON GOOD. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes to a smaller circle labeled LAND OPEN FOR BIGS." title="Common Goods and Politics">
 <p>
 A community may denominate not enough or a whole lot of land in the “common
 good” category. The community will literally prosper or not by those kinds of

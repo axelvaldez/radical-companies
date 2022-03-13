@@ -6,7 +6,6 @@ authors:  "Matt Perez"
 image:    "book.jpg"
 ---
 
-<!-- TO PUSH GITHUB TO PUSH -->
 <div style="display: none;">National fiat money corrupts and makes a mess of markets. Considered some of the thoughts in this work.</div>
 
 <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; width: 100%; ; white-space: normal; ">In 2009, the United States Bureau of Economics reported that the total
@@ -18,6 +17,7 @@ less than half of the federal budget that year, and none of the budgets of all
 50 states and thousands of cities, towns, and counties.<sup id="fnref1"><a
 href="#fn1" rel="footnote">1</a></sup></pre>
 <br>
+
 <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">"Higher taxes are not the solution …"</pre>
 <br>
 <br>
