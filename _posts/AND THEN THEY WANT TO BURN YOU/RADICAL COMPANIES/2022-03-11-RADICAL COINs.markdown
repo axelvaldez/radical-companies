@@ -329,7 +329,7 @@ For example, BenCO mints 30,000 COINs and promises to repay them in three years.
 <p>
 This can result in any of these scenarios,
 </p>
-<table>
+<table style="text-align: top;">
   <tr>
    <td><p><strong>Happy Ending</strong></p></td>
    <td>BenCO retires the 30,000 COINs within three years, as promised.</td>
