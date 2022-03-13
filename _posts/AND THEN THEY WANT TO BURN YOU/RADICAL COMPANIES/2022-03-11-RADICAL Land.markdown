@@ -59,25 +59,22 @@ perceived value of the land, any improvements, its location, and, just as
 importantly, the value of contributions made by the community around it,
 </p>
 <ul>
-<li>Two identical lots will be valued differently according to their
-<strong>improvements</strong>. The one with a small dilapidated barn on it will
-be valued less than the lot with a well-maintained barn.</li>
-<li>A lot, with the exact same house on it at one <strong>location</strong> may
-be valued very differently than the same lot and house in another location.</li>
-<li>The <strong>community</strong> around a particular piece of land determines
-its overarching value. For example, there is a big difference in pricing for
-nearly identical houses but in different towns.</li>
+  <li>Two identical lots will be valued differently according to their <em>improvements</em>. The one with a small dilapidated barn on it will be valued less than the lot with a well-maintained barn.</li>
+  <li>A lot, with the exact same house on it at one <em>location</em> may be valued very differently than the same lot and house in another location.</li>
+  <li>The <em>community</stroemng> around a particular piece of land determines its overarching value. For example, there is a big difference in pricing for nearly identical houses but in different towns.</li>
 </ul>
+xxx
 <table>
   <tr>
    <td>
-    <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="assets/img/een-vacant-lot-henry-george.svg" alt="Picture of a street sign that reads: EVERYBODY WORKS BUT THE VACANT LOT. I paid $3600 for this lot and will hold till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read HENRY GEORGE. Yours truly, Fay Lewis." title="Vacant Lot">
-    <h5>“EVERYBODY WORKS BUT THE VACANT LOT” – I paid $3600 for this lot and will hold ‘till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read “HENRY GEORGE”</h5>
-    <h6><p style="text-align: right"><em>— Yours Truly, Fay Lewis</em><sup id="fnref2"><a href="#fn2"rel="footnote">2</a></sup></h6>
+    <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;"> <img src="assets/img/een-vacant-lot-henry-george.svg" alt="Picture of a street sign that reads: EVERYBODY WORKS BUT THE VACANT LOT. I paid $3600 for this lot and will hold till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read HENRY GEORGE. Yours truly, Fay Lewis." title="Vacant Lot">
+    <p style="font-size: smaller;">“EVERYBODY WORKS BUT THE VACANT LOT” – I paid $3600 for this lot and will hold ‘till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read “HENRY GEORGE”</0>
+    <p style="text-align: right; font-size: x-small; "><em>— Yours Truly, Fay Lewis</em><sup id="fnref2"><a href="#fn2"rel="footnote">2</a></sup></p>
    </td>
   </tr>
   <tr><td>&nbsp;</td></tr>
 </table>
+xxx
 <p>
 The bidding system might look something like this,
 </p>
@@ -226,79 +223,31 @@ co-owners and co-managers to govern and operate it. These people align
 themselves according to the impact they want to make, why they are doing so, and
 then they embark on many experiments to get there..
 </p>
-<p>
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html
-alert: inline image link here (to images/image4.png). Store image on your image
-server and adjust path/filename/extension if necessary. </span><br>(<a
-href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span
-style="color: red; font-weight: bold">>>>>> </span></p>
-<img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
+<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+  <img src="assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: impact, purpose, and mission" title="Elements of Alignment">
 </p>
 <p>
 They do this starting from a simple foundation of interdependence,
 </p>
-<table>
+<table style="margin: auto; margin-bottom: 20px; ">
   <tr>
-   <td rowspan="2" >
-<h4><p style="text-align: right">
-Meaning & Belonging</p>
-</h4>
-   </td>
-   <td>
-    Principles
-   </td>
+   <td rowspan="2"><p style="text-align: right">Meaning & Belonging</p></td>
+   <td><strong>Principles</strong></td>
   </tr>
+  <tr><td><em>relationships</em></td></tr>
+  <tr><td colspan="3"></td></tr>
   <tr>
-   <td>
-<h4>
-    <em>relationships</em></h4>
-   </td>
+   <td rowspan="2"><p style="text-align: right">Transparency & Decentralization</p></td>
+   <td><strong>Commitments</strong></td>
   </tr>
+  <tr><td><em>autonomy</em></td></tr>
+  <tr><td colspan="3"></td></tr>
   <tr>
-   <td colspan="2" >
-   </td>
+   <td rowspan="2"><p style="text-align: right">Alignment & Experimentation</p></td>
+   <td><strong>Practices</strong></td>
   </tr>
-  <tr>
-   <td rowspan="2" >
-<h4><p style="text-align: right">
-Transparency & Decentralization</p>
-</h4>
-   </td>
-   <td>
-    Commitments
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h4>
-    <em>autonomy</em></h4>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" >
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="2" >
-<h4><p style="text-align: right">
-Alignment & Experimentation</p>
-</h4>
-   </td>
-   <td>
-    Practices
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <em>collaboration</em>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
+  <tr><td><em>collaboration</em></td></tr>
+  <tr><td colspan="3">&nbsp;</td></tr>
 </table>
 
 <h3>Evolution</h3>
