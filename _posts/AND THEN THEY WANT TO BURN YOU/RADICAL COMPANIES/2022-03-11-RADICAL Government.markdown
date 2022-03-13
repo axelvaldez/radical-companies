@@ -8,10 +8,11 @@ image:    "book.jpg"
 
 <div style="display: none;">National fiat money corrupts and makes a mess of markets. Considered some of the thoughts in this work.</div>
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; width: 100%; ; white-space: normal; ">In 2009, the United States Bureau of Economics reported that the total value of land in the country was $23 trillion. A Forbes writer estimated that the rental value of that land, which George wanted to tax at 100 percent, made up roughly 5 percent of the total, or $1.15 trillion. If the land-value tax were adopted as the sole means of raising government revenue, it would have funded less than half of the federal budget that year, and none of the budgets of all 50 states and thousands of cities, towns, and counties.<sup id="fnref1"><a href="#fn1" rel="endnotes">1</a></sup></pre>
-<br>
-
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">"Higher taxes are not the solution …"<sup id="fnref2"><a href="#fn2" rel="endnotes">2</a></sup></pre>
+<div> <!-- Opening Quotes -->
+ <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; width: 100%; ; white-space: normal; ">In 2009, the United States Bureau of Economics reported that the total value of land in the country was $23 trillion. A Forbes writer estimated that the rental value of that land, which George wanted to tax at 100 percent, made up roughly 5 percent of the total, or $1.15 trillion. If the land-value tax were adopted as the sole means of raising government revenue, it would have funded less than half of the federal budget that year, and none of the budgets of all 50 states and thousands of cities, towns, and counties.<sup id="fnref1"><a href="#fn1" rel="endnotes">1</a></sup></pre>
+ <br>
+ <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">"Higher taxes are not the solution …"<sup id="fnref2"><a href="#fn2" rel="endnotes">2</a></sup></pre>
+</div>
 
 <br>
 <br>
@@ -85,22 +86,11 @@ their own wealth creating communities.
 </p>
 
 <h3>Car Traffic</h3>
-<p>
-Let’s take traffic next. I predict that all things traffic are going to change
-dramatically, very quickly. As I write this, <a
-href="https://getcruise.com">CRUISE</a> launched a driverless, Uber-like service
-in San Francisco. It won’t take long before its price comes down to the point
-that it will not make sense for individuals to own cars, and house cars, and
-little the streets with parked cars. Eventually, can be self-owned, there will
-not be cars parked on the side of roads, and autonomous cars will house
-themselves out of sight throughout an urban area.
+<p>Let’s take traffic next. I predict that all things traffic are going to change dramatically, very quickly. As I write this, <a href="https://getcruise.com">CRUISE</a> launched a driverless, Uber-like service in San Francisco. It won’t take long before its price comes down to the point that it will not make sense for individuals to own cars, and house cars, and loiter the streets with parked cars. Eventually, a car can own itself. Autonomous cars will house themselves out of sight throughout an urban area and there  won’t be cars parked on the side of roads, and.
 </p>
-<p>
- The next development is to have intra-vehicle communication. With that and the
-sensor in every vehicle, we won’t need traffic lights or signage.
+<p> The next development is to have intra-vehicle communication. With that and the sensor in every vehicle, we won’t need traffic lights or signage.
 </p>
-<p>
-So, take all things traffic off the city’s todo list.
+<p>So, take all things traffic off the city’s todo list.
 </p>
 
 <h3>Infrastructure</h3>
