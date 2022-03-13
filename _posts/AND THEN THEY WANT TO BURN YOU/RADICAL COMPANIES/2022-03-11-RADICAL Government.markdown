@@ -337,7 +337,7 @@ higher level of collaboration.
 <h2>Further Reading</h2>
 <br>
 
-<h1 style="text-align: center; ">RELATED</h1>
+<h2>Related</h2>
 <br>
 <ul>
   <li>RADICAL COMPANIES,</li>
