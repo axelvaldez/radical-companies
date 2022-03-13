@@ -46,10 +46,9 @@ My working hypothesis is that,
 </p>
 <ul>
 <li>Land <em>and</em> improvements, combined, are one thing because it would be
-difficult, at best, to separate the two
+difficult, at best, to separate the two</li>
 <li>The combo would always be open for bids, so that use privilege would be
-determined by a market that is limited to calculating value.
-</li>
+determined by a market that is limited to calculating value.</li>
 </ul>
 
 <h2>Always Open for Bid</h2>
@@ -103,12 +102,11 @@ imagine the “community” as concentric circles emanating from the land in
 question. The community fund could then be governed as follows,
 </p>
 <ul>
-<li>The occupier controls 49% of the funds.
-<li>The first circle controls 27% of it.
-<li>The second controls 15%.
-<li>The fourth controls 6%.
-<li>The fifth controls 3%.
-</li>
+<li>The occupier controls 49% of the funds.</li>
+<li>The first circle controls 27% of it.</li>
+<li>The second controls 15%.</li>
+<li>The fourth controls 6%.</li>
+<li>The fifth controls 3%.</li>
 </ul>
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="assets/img/en-community-fund-not-taxes.svg" alt="Five concentric circles: at the center is the Occupier with 49%; around it is the Hyper-Local Community circle with 27%; next is the Surrounding Community with 15%; next could be the Region with 6% and the State with 3% of the fund." title="Community Fund – Not Taxes">
 <p>
@@ -171,10 +169,9 @@ A couple of unpolished thoughts,
 </p>
 <ul>
 <li>Occupiers should not be able to pool their piece of the community fund with
-other occupiers.
+other occupiers.</li>
 <li>On the other hand, occupiers can pool their piece of a fund with the
-Community or other non-occupier circles to create common goods.
-</li>
+Community or other non-occupier circles to create common goods.</li>
 </ul>
 
 <h2>Worth Repeating</h2>
@@ -445,7 +442,11 @@ The highest bid.
  </ul>
 </ul>
 
-<h2>Notes</h2>
+<br>
+<br>
+
+<h1 style="text-align: center;">ENDNOTES</h1>
+<br>
 <div class="footnotes">
 <hr>
 <ol>
