@@ -6,6 +6,7 @@ authors:  "Matt Perez"
 image:    "book.jpg"
 ---
 
+<!-- TO PUSH GITHUB TO PUSH -->
 <div style="display: none;">National fiat money corrupts and makes a mess of markets. Considered some of the thoughts in this work.</div>
 
 <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; width: 100%; ; white-space: normal; ">In 2009, the United States Bureau of Economics reported that the total
