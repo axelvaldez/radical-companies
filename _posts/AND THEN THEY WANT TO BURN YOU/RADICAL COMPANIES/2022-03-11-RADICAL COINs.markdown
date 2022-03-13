@@ -984,11 +984,11 @@ decide what to do with them.
  <li id="fn17"><h6><a href="#bookmark=kix.wfyoy8ju08mi">n</a> Lisa Smith. <em>Does High GDP Mean Economic Prosperity?</em> Investopedia, 2021 <<a href="https://radicals.world/qfxbR0">https://radicals.world/qfxbR0</a>>.</h6></li>
  <li id="fn18"><h6><a href="#bookmark=id.hmxncmwkfbdj">n</a> Bernard Lerner, Jacqui Dune. <em>Rethinking Money: How New Currencies Turn Scarcity into Prosperity</em>. 2013 <<a href="https://a.co/gqG4Awh">https://a.co/gqG4Awh</a>>.</h6></li>
  <li id="fn19"><h6><a href="#bookmark=id.cgzqfzgtuaez">n</a> For more information, see Wörgl <<a href="https://radicals.world/sYcjKW">https://radicals.world/sYcjKW</a>>.</h6></li>
- <li id="fn20"><h6><a href="#bookmark=id.69fiuba1juhe">n</a> <em>Freigeld: FreeMoney for reacting to the Great Depression</em>. DYNDY, 2011 <<a href="https://radicals.world/dzjaIU">https://radicals.world/dzjaIU</a>>.</h6>&nbsp;<a href="#fnref20" rev="footnote">&#8617;</a><li id="fn21">
- <li id="fn21"><h6><a href="#bookmark=id.iynnuf4hjune">n</a> <em>Stamp Scrip: Money People Paid to Use. Federal Reserve Bank of Cleveland</em>. April, 2008 <<a href="https://radicals.world/hrUnt8">https://radicals.world/hrUnt8</a>>.</h6>&nbsp;<a href="#fnref21" rev="footnote">&#8617;</a></li>
- <li id="fn22"><h6>As a crutch, national fiat coins could be thrown into the mix to lower the risk of a payment since coins are considered “no risk.” <<a href="https://radicals.world/z8WRti">https://radicals.world/z8WRti</a>></h6>&nbsp;<a href="#fnref22" rev="footnote">&#8617;</a></li>
- <li id="fn23"><h6><a href="#bookmark=id.gc138b28ntsm">n</a> Money laundering will be easier to detect if they retire debt, even when their revenue stays flat or goes down.</h6>&nbsp;<a href="#fnref23" rev="footnote">&#8617;</a></li>
- <li id="fn24"><h6><a href="#bookmark=id.vhr6fda5xhw">n</a> But maybe not.</h6>&nbsp;<a href="#fnref24" rev="footnote">&#8617;</a></li>
- <li id="fn25"><h6>Seth Godin. <em>Choice vs. convenience</em>. Dec 28, 2021 <<a href="https://radicals.world/sqTIaq">https://radicals.world/sqTIaq</a>>.</h6>&nbsp;<a href="#fnref25" rev="footnote">&#8617;</a></li>
+ <li id="fn20"><h6><a href="#bookmark=id.69fiuba1juhe">n</a> <em>Freigeld: FreeMoney for reacting to the Great Depression</em>. DYNDY, 2011 <<a href="https://radicals.world/dzjaIU">https://radicals.world/dzjaIU</a>>.</h6><li id="fn21">
+ <li id="fn21"><h6><a href="#bookmark=id.iynnuf4hjune">n</a> <em>Stamp Scrip: Money People Paid to Use. Federal Reserve Bank of Cleveland</em>. April, 2008 <<a href="https://radicals.world/hrUnt8">https://radicals.world/hrUnt8</a>>.</h6></li>
+ <li id="fn22"><h6>As a crutch, national fiat coins could be thrown into the mix to lower the risk of a payment since coins are considered “no risk.” <<a href="https://radicals.world/z8WRti">https://radicals.world/z8WRti</a>></h6></li>
+ <li id="fn23"><h6><a href="#bookmark=id.gc138b28ntsm">n</a> Money laundering will be easier to detect if they retire debt, even when their revenue stays flat or goes down.</h6></li>
+ <li id="fn24"><h6><a href="#bookmark=id.vhr6fda5xhw">n</a> But maybe not.</h6></li>
+ <li id="fn25"><h6>Seth Godin. <em>Choice vs. convenience</em>. Dec 28, 2021 <<a href="https://radicals.world/sqTIaq">https://radicals.world/sqTIaq</a>>.</h6></li>
 </ol>
 </div>
