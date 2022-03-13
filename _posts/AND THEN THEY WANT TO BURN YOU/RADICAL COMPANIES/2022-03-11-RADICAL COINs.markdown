@@ -331,17 +331,17 @@ This can result in any of these scenarios,
 </p>
 <table>
   <tr>
-   <td><p style="text-align: right"><strong>Happy Ending</strong></p></td>
+   <td><p><strong>Happy Ending</strong></p></td>
    <td>BenCO retires the 30,000 COINs within three years, as promised.</td>
   </tr>
   <tr><td>&nbsp;</td><td></td></tr>
   <tr>
-   <td><p style="text-align: right"><strong>Not so Happy Ending</strong></p></td>
+   <td><p><strong>Not so Happy Ending</strong></p></td>
    <td>BenCO has retired only two thirds of the minted COIN by the third year. It does retire all 30,000 COIN, but later than promised.</td>
   </tr>
   <tr><td>&nbsp;</td><td></td></tr>
   <tr>
-   <td><p style="text-align: right"><strong>Unhappy Ending</strong></p></td>
+   <td><p><strong>Unhappy Ending</strong></p></td>
    <td>BenCO disbands and never creates enough value for society to pay the 30,000 COINs.</td>
   </tr>
   <tr><td>&nbsp;</td><td></td></tr>
