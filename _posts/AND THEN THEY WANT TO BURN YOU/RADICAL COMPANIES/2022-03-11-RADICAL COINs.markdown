@@ -626,6 +626,7 @@ interpret the world.
 <br>
 
 <h1 style="text-align: top; ">APPENDICES</h1>
+<br>
 
 <h2>Bad Actors</h2>
 <p>There may not be as many bad actors as we think. We probably have a preponderance of them today because 1) they make the news, and 2) we live in a system that is meant to reward bad behavior: gaming is part and parcel of the system. As we find out, we patch it to prevent other bad actors from exploiting the same weakness. But then the next batch of bad actors become wealthy by discovering and exploiting new weaknesses.
@@ -646,7 +647,7 @@ interpret the world.
    <td>&nbsp;</td><td></td>
   </tr>
   <tr>
-   <td>
+   <td style="vertical-align: text-top;">
     <p><strong>Battling Ghosts</strong></p>
    </td>
    <td>
@@ -660,7 +661,7 @@ interpret the world.
    <td>&nbsp;</td><td></td>
   </tr>
   <tr>
-   <td>
+   <td style="vertical-align: text-top;">
     <p><strong>Convenience</strong></p>
    </td>
    <td>Other Bad Actors act out of convenience. I’ll let Seth Godin describe this one,
@@ -675,8 +676,6 @@ interpret the world.
    <td>&nbsp;</td><td></td>
   </tr>
 </table>
-
-<br>
 
 <h2>Varying Buying Power</h2>
 <p>
