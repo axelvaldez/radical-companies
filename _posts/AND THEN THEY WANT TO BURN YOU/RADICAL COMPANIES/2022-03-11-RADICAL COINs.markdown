@@ -632,6 +632,7 @@ interpret the world.
 </p>
 
 <br>
+<br>
 
 <h1 style="text-align: center; ">APPENDICES</h1>
 <h2>Bad Actors</h2>
@@ -651,91 +652,39 @@ world.
 <table>
   <tr>
    <td>
-<h4><p style="text-align: right">
-Going Along</p>
-</h4>
-</li>
-</ul>
+    <p style="text-align: right">Going Along</p>
    </td>
-   <td>One type of “bad actor” is people who “go along.” We normally don’t think
-of them as bad actors, “they’re just nice people.” In any case, Shui is one of
-them. He notices that Namir is taking more than he contributed, but he doesn’t
-say anything and talks to Namir. Shui turns a blind eye towards Namir's bad
-behavior and goes by untested assumptions. “Namir is a nice guy and maybe he
-needs a little bit more than me.”</td>
+   <td>One type of “bad actor” is people who “go along.” We normally don’t think of them as bad actors, “they’re just nice people.” In any case, Shui is one of them. He notices that Namir is taking more than he contributed, but he doesn’t say anything and talks to Namir. Shui turns a blind eye towards Namir's bad behavior and goes by untested assumptions. “Namir is a nice guy and maybe he needs a little bit more than me.”
+   </td>
   </tr>
+  <tr><td>&nbsp;</td><td></td></tr>
   <tr>
    <td>
+    <p style="text-align: right">Battling Ghosts</p>
    </td>
-   <td>
+   <td>The other type of bad actor is the one who gets pulled into behavior that he normally would not condone.
+    <p>For example, Anita, a BenCO co-owner, wants to buy potatoes. The potato seller, Shui, looks at the COINs coming from her, but refuses to accept them. It turns out that all of Anita’s COINs come from BenCO and the company has not lived up to its promises. Shui is a very conservative type and he refuses to exchange her COINs for his potatoes. She explains the reasons why they had not made the first year payment on time, “and we will by the end of this week.” Nevertheless, Shui is unmoved and puts the potatoes back in their bin.</p>
+    <p>Further down the road, Namir sees the same log that Shui got, but he, nevertheless, accepts Anita’s COINs in exchange for his potatoes. It turns out that Namir knows Anita and what they are doing at BenCO and he trusts that they will retire their debts.</p>
+    <p>Shui sees the exchange, misinterprets it, and instead of talking with Namir he goes on to accept higher risk COINs that he is comfortable with. Instead of talking to Namir and figuring out what’s going on, he falls into his own trap of assuming Namir is out to take business away from him.</p>
    </td>
   </tr>
+  <tr><td>&nbsp;</td><td></td></tr>
   <tr>
    <td>
-<h4><p style="text-align: right">
-Battling Ghosts</p>
-</h4>
+    <p style="text-align: right">Convenience</p>
    </td>
-   <td>The other type of bad actor is the one who gets pulled into behavior that
-he normally would not condone.
-<p>
-For example, Anita, a BenCO co-owner, wants to buy potatoes. The potato seller,
-Shui, looks at the COINs coming from her, but refuses to accept them. It turns
-out that all of Anita’s COINs come from BenCO and the company has not lived up
-to its promises. Shui is a very conservative type and he refuses to exchange her
-COINs for his potatoes. She explains the reasons why they had not made the first
-year payment on time, “and we will by the end of this week.” Nevertheless, Shui
-is unmoved and puts the potatoes back in their bin.
-<p>
-Further down the road, Namir sees the same log that Shui got, but he,
-nevertheless, accepts Anita’s COINs in exchange for his potatoes. It turns out
-that Namir knows Anita and what they are doing at BenCO and he trusts that they
-will retire their debts.
-<p>
-Shui sees the exchange, misinterprets it, and instead of talking with Namir he
-goes on to accept higher risk COINs that he is comfortable with. Instead of
-talking to Namir and figuring out what’s going on, he falls into his own trap of
-assuming Namir is out to take business away from him.
+   <td>Other Bad Actors act out of convenience. I’ll let Seth Godin describe this one,
+    <h5>“<strong>Social convenience</strong>: it’s easier to sit through a boring cocktail party or a meeting than it is to tell someone you don’t want to come.</h5>
+    <h5>“<strong>Physical convenience</strong>: things that are handy are much more likely to be chosen than ones that require us to move somewhere to go get them.</h5>
+    <h5>“<strong>Intellectual convenience</strong>: change makes us uncomfortable. Sunk costs are hard to ignore. Possibility comes with agency, and agency comes with risk.</h5>
+    <h5>“<strong>Financial convenience</strong>: if it’s cheaper in the short run, we’re more likely to choose it, even if it costs satisfaction, opportunity or cash in the long run.</h5>
+    <h5>“<strong>Cultural convenience</strong>: A combination of all of these, because culture likes the status quo and reminds of this regularly.”<sup id="fnref25"><a href="#fn25" rel="footnote">25</a></sup>
    </td>
   </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h4><p style="text-align: right">
-Convenience</p>
-</h4>
-   </td>
-   <td>Other Bad Actors act out of convenience. I’ll let Seth Godin describe
-this one,
-<h5>“<strong>Social convenience</strong>: it’s easier to sit through a boring
-cocktail party or a meeting than it is to tell someone you don’t want to
-come.</h5>
-<h5>“<strong>Physical convenience</strong>: things that are handy are much more
-likely to be chosen than ones that require us to move somewhere to go get
-them.</h5>
-<h5>“<strong>Intellectual convenience</strong>: change makes us uncomfortable.
-Sunk costs are hard to ignore. Possibility comes with agency, and agency comes
-with risk.</h5>
-<h5>“<strong>Financial convenience</strong>: if it’s cheaper in the short run,
-we’re more likely to choose it, even if it costs satisfaction, opportunity or
-cash in the long run.</h5>
-<h5>“<strong>Cultural convenience</strong>: A combination of all of these,
-because culture likes the status quo and reminds of this regularly.”<sup
-id="fnref25"><a href="#fn25" rel="footnote">25</a></sup>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
+  <tr><td>&nbsp;</td><td></td></tr>
 </table>
+
+<br>
 
 <h2>Varying Buying Power</h2>
 <p>
@@ -951,7 +900,11 @@ For each COINs, the log holds facts, not judgements and each of us gets to
 decide what to do with them.
 </p>
 
-<h2>RELATED</h2>
+<br>
+<br>
+
+<h1 style="text-align: center; ">RELATED</h1>
+<br>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
@@ -1004,8 +957,12 @@ decide what to do with them.
   </ul>
 </ul>
 
+<br>
+<br>
+
 <!-- Footnotes themselves at the bottom. -->
-<h2>Notes</h2>
+<h1 style="text-align: center; ">Notes</h1>
+<br>
 <div class="footnotes">
 <hr>
 <ol><li id="fn1">
