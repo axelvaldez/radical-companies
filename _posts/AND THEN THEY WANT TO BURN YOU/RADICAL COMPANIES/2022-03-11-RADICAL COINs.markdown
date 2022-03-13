@@ -635,19 +635,20 @@ interpret the world.
 <br>
 
 <h1 style="text-align: center; ">APPENDICES</h1>
+
 <h2>Bad Actors</h2>
-<p>
-There may not be as many bad actors as we think. We probably have a preponderance of them today because 1) they make the news, and 2) we live in a system that is meant to reward bad behavior: gaming is part and parcel of the system. As we find out, we patch it to prevent other bad actors from exploiting the same weakness. But then the next batch of bad actors become wealthy by discovering and exploiting new weaknesses.
+<p>There may not be as many bad actors as we think. We probably have a preponderance of them today because 1) they make the news, and 2) we live in a system that is meant to reward bad behavior: gaming is part and parcel of the system. As we find out, we patch it to prevent other bad actors from exploiting the same weakness. But then the next batch of bad actors become wealthy by discovering and exploiting new weaknesses.
 </p>
-<p>
-We don’t normally think of these, below, as bad actors. But they are. They fall back on their FIAT world habits and are a drag on moving forward to a RADICAL world.
+<p>We don’t normally think of these, below, as bad actors. But they are. They fall back on their FIAT world habits and are a drag on moving forward to a RADICAL world.
 </p>
 <table>
   <tr>
    <td>
-    <p style="text-align: right">Going Along</p>
+    <p style="text-align: top right;"><strong>Going Along</strong></p>
    </td>
-   <td>One type of “bad actor” is people who “go along.” We normally don’t think of them as bad actors, “they’re just nice people.” In any case, Shui is one of them. He notices that Namir is taking more than he contributed, but he doesn’t say anything and talks to Namir. Shui turns a blind eye towards Namir's bad behavior and goes by untested assumptions. “Namir is a nice guy and maybe he needs a little bit more than me.”
+   <td>
+    <p>One type of “bad actor” is people who “go along.” We normally don’t think of them as bad actors, “they’re just nice people.” In any case, Shui is one of them. He notices that Namir is taking more than he contributed, but he doesn’t say anything and talks to Namir. Shui turns a blind eye towards Namir's bad behavior and goes by untested assumptions. “Namir is a nice guy and maybe he needs a little bit more than me.”
+    </p>
    </td>
   </tr>
   <tr>
@@ -655,9 +656,10 @@ We don’t normally think of these, below, as bad actors. But they are. They fal
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">Battling Ghosts</p>
+    <p style="text-align: top right;"><strong>Battling Ghosts</strong></p>
    </td>
-   <td>The other type of bad actor is the one who gets pulled into behavior that he normally would not condone.
+   <td>
+    <p>The other type of bad actor is the one who gets pulled into behavior that he normally would not condone.</p>
     <p>For example, Anita, a BenCO co-owner, wants to buy potatoes. The potato seller, Shui, looks at the COINs coming from her, but refuses to accept them. It turns out that all of Anita’s COINs come from BenCO and the company has not lived up to its promises. Shui is a very conservative type and he refuses to exchange her COINs for his potatoes. She explains the reasons why they had not made the first year payment on time, “and we will by the end of this week.” Nevertheless, Shui is unmoved and puts the potatoes back in their bin.</p>
     <p>Further down the road, Namir sees the same log that Shui got, but he, nevertheless, accepts Anita’s COINs in exchange for his potatoes. It turns out that Namir knows Anita and what they are doing at BenCO and he trusts that they will retire their debts.</p>
     <p>Shui sees the exchange, misinterprets it, and instead of talking with Namir he goes on to accept higher risk COINs that he is comfortable with. Instead of talking to Namir and figuring out what’s going on, he falls into his own trap of assuming Namir is out to take business away from him.</p>
@@ -668,7 +670,7 @@ We don’t normally think of these, below, as bad actors. But they are. They fal
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">Convenience</p>
+    <p style="text-align: top right;"><strong>Convenience</strong></p>
    </td>
    <td>Other Bad Actors act out of convenience. I’ll let Seth Godin describe this one,
     <h5>“<strong>Social convenience</strong>: it’s easier to sit through a boring cocktail party or a meeting than it is to tell someone you don’t want to come.</h5>
