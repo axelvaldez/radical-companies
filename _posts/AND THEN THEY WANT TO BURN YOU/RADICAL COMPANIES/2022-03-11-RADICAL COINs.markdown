@@ -944,7 +944,7 @@ decide what to do with them.
     <li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
     <li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a></li>
   </ul>
-  <li>RADICAL Science Fiction xx</li>
+  <li>RADICAL Science Fiction</li>
   <ul>
     <li><a href="https://docs.google.com/document/d/1u862nc5EV8OY6ng0kfH7_pBGO-HWJnK2rJB8PvpYkJ4/edit#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
   </ul>
