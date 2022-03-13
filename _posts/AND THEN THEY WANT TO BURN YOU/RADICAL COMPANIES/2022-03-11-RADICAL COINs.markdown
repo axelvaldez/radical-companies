@@ -956,10 +956,10 @@ with CarelessCO’s COINs and CarelessCO disbands. There could be three cases,
 <ol>
 <li>The COINs I have are pre-disband and their log attests to it. I feel bad
 because they had a lot of potential, but they got careless and cocky,
-over-promised, and could not meet their commitments.
+over-promised, and could not meet their commitments.</li>
 <li>The COINs I have are mostly pre-disband, but I do have some that the company
 minted. The amount is very minor, I’ll have to switch to a smaller boat.
-Besides, I am earning COINs while on the boat by writing about my journey.
+Besides, I am earning COINs while on the boat by writing about my journey.</li>
 <li>All the COINs I have are the ones discredited. In fact, I was one of the
 co-owners who supported the minting (we were sure we could do it). In this case,
 I screwed myself financially, but I learned something in the process. I have to
