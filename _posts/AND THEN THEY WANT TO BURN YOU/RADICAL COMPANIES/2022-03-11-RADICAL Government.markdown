@@ -12,6 +12,7 @@ image:    "book.jpg"
 <br>
 
 <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">"Higher taxes are not the solution …"<sup id="fnref2"><a href="#fn2" rel="endnotes">2</a></sup></pre>
+
 <br>
 <br>
 
@@ -336,6 +337,9 @@ it’s time to move on and build on the foundation of interdependence towards a
 higher level of collaboration.
 </p>
 
+<br>
+<br>
+
 <h1 style="text-align: center;">APPENDICES</h1>
 
 <h2>Terminology</h2>
@@ -401,12 +405,14 @@ Answer!
   <li>
 </ul>
 
-    n Reforming Reckless Government Spending. The Heritage Foundation (of course) <https://diigo.com/0nct6w>
+<br>
+<br>
+
 <h1 style="text-align: center; ">NOTES</h1>
 <br>
 <div class="endnotes">
   <ol>
-   <li id="fn1"><h6><a href="fnref1">n</a> Matt Perez, Adrian Perez, Jose Leal. RADICAL COMPANIES: Without Bosses or Employees. Pradera Media, 2021.</h6></li>
-   <li id="fn2"><h6><a href="fnref2">n</a> Reforming Reckless Government Spending. The Heritage Foundation (of course) <<a href="https://diigo.com/0nct6w">https://diigo.com/0nct6w</a>></h6></li>
+   <li id="fn1"><h6><a href="#fnref1">n</a> Matt Perez, Adrian Perez, Jose Leal. RADICAL COMPANIES: Without Bosses or Employees. Pradera Media, 2021.</h6></li>
+   <li id="fn2"><h6><a href="#fnref2">n</a> Reforming Reckless Government Spending. The Heritage Foundation (of course) <<a href="https://diigo.com/0nct6w">https://diigo.com/0nct6w</a>></h6></li>
   </ol>
 </div>
