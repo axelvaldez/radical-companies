@@ -331,7 +331,7 @@ This can result in any of these scenarios,
 </p>
 <table>
   <tr>
-   <td style="min-width: 20em;"><strong>Happy Ending</strong></td>
+   <td style="vertical-align: text-top;"><strong>Happy Ending</strong></td>
    <td>BenCO retires the 30,000 COINs within three years, as promised.</td>
   </tr>
   <tr>
