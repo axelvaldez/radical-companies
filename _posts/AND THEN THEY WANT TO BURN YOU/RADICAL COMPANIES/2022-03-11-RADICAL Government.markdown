@@ -323,10 +323,13 @@ higher level of collaboration.
 <br>
 
 <h1 style="text-align: center;">APPENDICES</h1>
+<br>
 
 <h2>Terminology</h2>
+<br>
 
 <h2>FAQ</h2>
+<br>
 
 <h3>Question?</h3>
 <p>
@@ -334,6 +337,7 @@ Answer!
 </p>
 
 <h2>Further Reading</h2>
+<br>
 
 <h2>RELATED</h2>
 <ul>
