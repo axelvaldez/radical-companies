@@ -338,7 +338,6 @@ higher level of collaboration.
 <br>
 
 <h2>Related</h2>
-<br>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
