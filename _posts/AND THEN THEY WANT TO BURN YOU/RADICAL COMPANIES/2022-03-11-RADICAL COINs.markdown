@@ -309,7 +309,8 @@ human values, not just financial value.
 These are a few of the qualities that a COIN must have. They are in no
 particular order.
 </p>
-<h3>Decentralized Minting</h3>
+
+  <h3>Decentralized Minting</h3>
 <p>
 COINs are minted by companies, not a national government.
 </p>
@@ -330,70 +331,23 @@ This can result in any of these scenarios,
 </p>
 <table>
   <tr>
-   <td>
-<h4><p style="text-align: right">
-Happy</p>
-</h4>
-<h4><p style="text-align: right">
-Ending</p>
-</h4>
-   </td>
-   <td>BenCO retires the 30,000 COINs within three years, as promised.
-   </td>
+   <td><p style="text-align: right"><strong>Happy Ending</strong></p></td>
+   <td>BenCO retires the 30,000 COINs within three years, as promised.</td>
   </tr>
+  <tr><td>&nbsp;</td><td></td></tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
+   <td><p style="text-align: right"><strong>Not so Happy Ending</strong></p></td>
+   <td>BenCO has retired only two thirds of the minted COIN by the third year. It does retire all 30,000 COIN, but later than promised.</td>
   </tr>
+  <tr><td>&nbsp;</td><td></td></tr>
   <tr>
-   <td>
-<h4><p style="text-align: right">
-Not so</p>
-</h4>
-<h4><p style="text-align: right">
-Happy</p>
-</h4>
-<h4><p style="text-align: right">
-Ending</p>
-</h4>
-   </td>
-   <td>BenCO has retired only two thirds of the minted COIN by the third year.
-It does retire all 30,000 COIN, but later than promised.
-   </td>
+   <td><p style="text-align: right"><strong>Unhappy Ending</strong></p></td>
+   <td>BenCO disbands and never creates enough value for society to pay the 30,000 COINs.</td>
   </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h4><p style="text-align: right">
-Unhappy</p>
-</h4>
-<h4><p style="text-align: right">
-Ending</p>
-</h4>
-   </td>
-   <td>BenCO disbands and never creates enough value for society to pay the
-30,000 COINs.
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
+  <tr><td>&nbsp;</td><td></td></tr>
 </table>
 <p>
-A seller’s app can calculate a risk factor based on the BenCO COIN’s log
-<em>and</em> her particular preset parameters. Each of us can let the apps do
-the calculations and, based on that, decide whether or not to take the BenCO
-COINs as payment.<sup id="fnref12"><a href="#fn12" rel="footnote">12</a></sup>
+A seller’s app can calculate a risk factor based on the BenCO COIN’s log <em>and</em> her particular preset parameters. Each of us can let the apps do the calculations and, based on that, decide whether or not to take the BenCO COINs as payment.<sup id="fnref12"><a href="#fn12" rel="footnote">12</a></sup>
 </p>
 
   <h3>Stability</h3>
