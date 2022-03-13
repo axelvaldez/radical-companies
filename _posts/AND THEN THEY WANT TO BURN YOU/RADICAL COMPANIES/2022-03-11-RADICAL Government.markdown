@@ -300,80 +300,34 @@ co-owners and co-managers to govern and operate it. These people align
 themselves according to the impact they want to make, why they are doing so, and
 then they embark on many experiments to get there..
 </p>
-<p>
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html
-alert: inline image link here (to images/image1.png). Store image on your image
-server and adjust path/filename/extension if necessary. </span><br>(<a
-href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span
-style="color: red; font-weight: bold">>>>>> </span></p>
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
+<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+  <img src="assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: impact, purpose, and mission" title="Elements of Alignment">
 </p>
 <p>
 They do this starting from a simple foundation of interdependence,
 </p>
-<table>
+<p>They do this starting from a simple foundation of interdependence,</p>
+<table style="margin: auto; margin-bottom: 20px; ">
   <tr>
-   <td rowspan="2" >
-<h4><p style="text-align: right">
-Meaning & Belonging</p>
-</h4>
-   </td>
-   <td>
-    Principles
-   </td>
+   <td rowspan="2"><p style="text-align: right">Meaning & Belonging</p></td>
+   <td><strong>Principles</strong></td>
   </tr>
+  <tr><td><em>relationships</em></td></tr>
+  <tr><td colspan="3"></td></tr>
   <tr>
-   <td>
-<h4>
-    <em>relationships</em></h4>
-   </td>
+   <td rowspan="2"><p style="text-align: right">Transparency & Decentralization</p></td>
+   <td><strong>Commitments</strong></td>
   </tr>
+  <tr><td><em>autonomy</em></td></tr>
+  <tr><td colspan="3"></td></tr>
   <tr>
-   <td colspan="2" >
-   </td>
+   <td rowspan="2"><p style="text-align: right">Alignment & Experimentation</p></td>
+   <td><strong>Practices</strong></td>
   </tr>
-  <tr>
-   <td rowspan="2" >
-<h4><p style="text-align: right">
-Transparency & Decentralization</p>
-</h4>
-   </td>
-   <td>
-    Commitments
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h4>
-    <em>autonomy</em></h4>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" >
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="2" >
-<h4><p style="text-align: right">
-Alignment & Experimentation</p>
-</h4>
-   </td>
-   <td>
-    Practices
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <em>collaboration</em>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
+  <tr><td><em>collaboration</em></td></tr>
+  <tr><td colspan="3">&nbsp;</td></tr>
 </table>
+
 <h3>Evolution, Interrupted</h3>
 <p>
 As I see it, the RADICAL model of co-ownership and co-management is the next
