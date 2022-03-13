@@ -796,7 +796,7 @@ COINs would show a lot of risks and sellers would likely not accept them as
 payment, particularly for luxury items.
 </p>
 
-<h3>Do you mean that there is no possible way to defraud the system?</h3>
+  <h3>Do you mean that there is no possible way to defraud the system?</h3>
 <p>
 It simply means that I can’t think of a way of doing that.
 </p>
@@ -809,7 +809,7 @@ I can imagine that there could be a way to falsify a COIN’s log, but I’ll le
 that to smarter people.
 </p>
 
-<h2>Why can’t people mint COINs? Why is it limited to companies?</h2>
+  <h3>Why can’t people mint COINs? Why is it limited to companies?</h3>
 <p>
 Community!
 </p>
@@ -948,7 +948,6 @@ decide what to do with them.
   </ul>
 </ul>
 
-<br>
 <br>
 
 <h1 style="text-align: center; ">Notes</h1>
