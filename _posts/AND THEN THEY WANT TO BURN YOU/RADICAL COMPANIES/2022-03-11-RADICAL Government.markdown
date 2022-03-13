@@ -339,7 +339,8 @@ Answer!
 <h2>Further Reading</h2>
 <br>
 
-<h2>RELATED</h2>
+<h1 style="text-align: center; ">RELATED</h1>
+<br>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
