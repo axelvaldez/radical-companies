@@ -142,12 +142,7 @@ Off the list.
 <h3>Higiene: Waste Removal</h3>
 <p>City governments already contract with private companies to do the removal work.
 Individual RADICAL communities can do this easily, with transparency providing
-the coordinating function,
-</p>
-<ul>
- <li>You are charging the community next to us less than you propose to charge us… ?</li>
- <li>— Yes, but that’s because in your case…</li>
-</ul>
+the coordinating function.
 
 <h3>Municipal Courts</h3>
 <p>
