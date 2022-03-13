@@ -637,17 +637,10 @@ interpret the world.
 <h1 style="text-align: center; ">APPENDICES</h1>
 <h2>Bad Actors</h2>
 <p>
-There may not be as many bad actors as we think. We probably have a
-preponderance of them today because 1) they make the news, and 2) we live in a
-system that is meant to reward bad behavior: gaming is part and parcel of the
-system. As we find out, we patch it to prevent other bad actors from exploiting
-the same weakness. But then the next batch of bad actors become wealthy by
-discovering and exploiting new weaknesses.
+There may not be as many bad actors as we think. We probably have a preponderance of them today because 1) they make the news, and 2) we live in a system that is meant to reward bad behavior: gaming is part and parcel of the system. As we find out, we patch it to prevent other bad actors from exploiting the same weakness. But then the next batch of bad actors become wealthy by discovering and exploiting new weaknesses.
 </p>
 <p>
-We don’t normally think of these, below, as bad actors. But they are. They fall
-back on their FIAT world habits and are a drag on moving forward to a RADICAL
-world.
+We don’t normally think of these, below, as bad actors. But they are. They fall back on their FIAT world habits and are a drag on moving forward to a RADICAL world.
 </p>
 <table>
   <tr>
@@ -657,7 +650,9 @@ world.
    <td>One type of “bad actor” is people who “go along.” We normally don’t think of them as bad actors, “they’re just nice people.” In any case, Shui is one of them. He notices that Namir is taking more than he contributed, but he doesn’t say anything and talks to Namir. Shui turns a blind eye towards Namir's bad behavior and goes by untested assumptions. “Namir is a nice guy and maybe he needs a little bit more than me.”
    </td>
   </tr>
-  <tr><td>&nbsp;</td><td></td></tr>
+  <tr>
+   <td>&nbsp;</td><td></td>
+  </tr>
   <tr>
    <td>
     <p style="text-align: right">Battling Ghosts</p>
@@ -668,7 +663,9 @@ world.
     <p>Shui sees the exchange, misinterprets it, and instead of talking with Namir he goes on to accept higher risk COINs that he is comfortable with. Instead of talking to Namir and figuring out what’s going on, he falls into his own trap of assuming Namir is out to take business away from him.</p>
    </td>
   </tr>
-  <tr><td>&nbsp;</td><td></td></tr>
+  <tr>
+   <td>&nbsp;</td><td></td>
+  </tr>
   <tr>
    <td>
     <p style="text-align: right">Convenience</p>
@@ -678,10 +675,12 @@ world.
     <h5>“<strong>Physical convenience</strong>: things that are handy are much more likely to be chosen than ones that require us to move somewhere to go get them.</h5>
     <h5>“<strong>Intellectual convenience</strong>: change makes us uncomfortable. Sunk costs are hard to ignore. Possibility comes with agency, and agency comes with risk.</h5>
     <h5>“<strong>Financial convenience</strong>: if it’s cheaper in the short run, we’re more likely to choose it, even if it costs satisfaction, opportunity or cash in the long run.</h5>
-    <h5>“<strong>Cultural convenience</strong>: A combination of all of these, because culture likes the status quo and reminds of this regularly.”<sup id="fnref25"><a href="#fn25" rel="footnote">25</a></sup>
+    <h5>“<strong>Cultural convenience</strong>: A combination of all of these, because culture likes the status quo and reminds of this regularly.”<sup id="fnref25"><a href="#fn25" rel="footnote">25</a></sup></h5>
    </td>
   </tr>
-  <tr><td>&nbsp;</td><td></td></tr>
+  <tr>
+   <td>&nbsp;</td><td></td>
+  </tr>
 </table>
 
 <br>
