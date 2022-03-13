@@ -665,7 +665,7 @@ interpret the world.
     <p><strong>Convenience</strong></p>
    </td>
    <td>Other Bad Actors act out of convenience. I’ll let Seth Godin describe this one,
-    <div style="padding: 0 20px;">
+    <div style="padding: 20px;">
      <p style="font-size: smaller;">“<strong>Social convenience</strong>: it’s easier to sit through a boring cocktail party or a meeting than it is to tell someone you don’t want to come.</p>
      <p style="font-size: smaller;">“<strong>Physical convenience</strong>: things that are handy are much more likely to be chosen than ones that require us to move somewhere to go get them.</p>
      <p style="font-size: smaller;">“<strong>Intellectual convenience</strong>: change makes us uncomfortable. Sunk costs are hard to ignore. Possibility comes with agency, and agency comes with risk.</p>
