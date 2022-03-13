@@ -634,8 +634,8 @@ interpret the world.
 </p>
 <table>
   <tr>
-   <td>
-    <p style="vertical-align: top;"><strong>Going Along</strong></p>
+   <td style="vertical-align: text-top;">
+    <p><strong>Going Along</strong></p>
    </td>
    <td>
     <p>One type of “bad actor” is people who “go along.” We normally don’t think of them as bad actors, “they’re just nice people.” In any case, Shui is one of them. He notices that Namir is taking more than he contributed, but he doesn’t say anything and talks to Namir. Shui turns a blind eye towards Namir's bad behavior and goes by untested assumptions. “Namir is a nice guy and maybe he needs a little bit more than me.”
@@ -647,7 +647,7 @@ interpret the world.
   </tr>
   <tr>
    <td>
-    <p style="vertical-align: top;"><strong>Battling Ghosts</strong></p>
+    <p><strong>Battling Ghosts</strong></p>
    </td>
    <td>
     <p>The other type of bad actor is the one who gets pulled into behavior that he normally would not condone.</p>
@@ -661,7 +661,7 @@ interpret the world.
   </tr>
   <tr>
    <td>
-    <p style="vertical-align: top;"><strong>Convenience</strong></p>
+    <p><strong>Convenience</strong></p>
    </td>
    <td>Other Bad Actors act out of convenience. I’ll let Seth Godin describe this one,
     <h5>“<strong>Social convenience</strong>: it’s easier to sit through a boring cocktail party or a meeting than it is to tell someone you don’t want to come.</h5>
