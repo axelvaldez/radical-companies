@@ -960,17 +960,16 @@ decide what to do with them.
 <br>
 <br>
 
-<!-- Footnotes themselves at the bottom. -->
 <h1 style="text-align: center; ">Notes</h1>
 <br>
 <div class="footnotes">
 <hr>
 <ol>
  <li id="fn1"><h6><a href="#bookmark=id.bh27w51980yy">n</a> Matt Perez, Adrian Perez, Jose Leal. RADICAL COMPANIES: Without Bosses or Employees. Pradera Media, 2021.</h6>&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a></li>
- <li id="fn2"><h6><a href="#bookmark=id.nc343ujwb0jd">n</a> I am taking inspiration from two books, <em>Debt</em> by David Graeber <<a href="https://a.co/cd9vVHk">https://a.co/cd9vVHk</a>> and <em>Rethinking Money</em> by Bernard Lietaer and Jacqui Dunne <<a  href="https://radicals.world/hEhkt0">https://radicals.world/hEhkt0</a>>.</h6>&nbsp;<a href="#fnref2" rev="footnote">&#8617;</a></li>
+ <li id="fn2"><h6><a href="#bookmark=id.nc343ujwb0jd">n</a> I am taking inspiration from two books, <em>Debt</em> by David Graeber <<a href="https://a.co/cd9vVHk">https://a.co/cd9vVHk</a>> and <em>Rethinking Money</em> by Bernard Lietaer and Jacqui Dunne <<a  href="https://radicals.world/hEhkt0">https://radicals.world/hEhkt0</a>>.</h6><!-- &nbsp;<a href="#fnref2" rev="footnote">&#8617;</a> --></li>
  <li id="fn3"><h6><a href="#bookmark=id.ns90s7tfhihu">n</a> “Meter” in Mandarin.</h7>&nbsp;<a href="#fnref3" rev="footnote">&#8617;</a></li>
- <li id="fn4"><h6><a href="#bookmark=id.wjg1kzgfvmib">n</a> M1 is a <em>measure</em> of how much fiat currency there is, not a backing for it. <<a href="https://radicals.world/HlOzNL">https://radicals.world/HlOzNL</a>></h6>&nbsp;<a href="#fnref4" rev="footnote">&#8617;</a></li>
- <li id="fn5"><h6><a href="#bookmark=id.vlj53pn8o56y">n</a> For example, s<em>ee Local Exchange Trading System (LETS)</em> <<a href="https://radicals.world/7zoLJT">https://radicals.world/7zoLJT</a>> and Time <em>Dollars Service Exchange</em> <<a href="https://radicals.world/P5hFb6">https://radicals.world/P5hFb6</a>>. Also, Sardex, <<a href="https://radicals.world/8u8lIc">https://radicals.world/8u8lIc</a><.</h6>&nbsp;<a href="#fnref5" rev="footnote">&#8617;</a></li>
+ <li id="fn4"><h6><a href="#bookmark=id.wjg1kzgfvmib">n</a> M1 is a <em>measure</em> of how much fiat currency there is, not a backing for it. <<a href="https://radicals.world/HlOzNL">https://radicals.world/HlOzNL</a>></h6><!-- &nbsp;<a href="#fnref4" rev="footnote">&#8617;</a> --></li>
+ <li id="fn5"><h6><a href="#bookmark=id.vlj53pn8o56y">n</a> 555 For example, see <em>Local Exchange Trading System (LETS)</em> <<a href="https://radicals.world/7zoLJT">https://radicals.world/7zoLJT</a>> and Time <em>Dollars Service Exchange</em> <<a href="https://radicals.world/P5hFb6">https://radicals.world/P5hFb6</a>>. Also, Sardex, <<a href="https://radicals.world/8u8lIc">https://radicals.world/8u8lIc</a>>.</h6><!-- &nbsp;<a href="#fnref5" rev="footnote">&#8617;</a> --></li>
  <li id="fn6"><h6><a href="#bookmark=id.f52umxna5gs8">n</a> Which has devolved from a coordination game to a competition game</h6>&nbsp;<a href="#fnref6" rev="footnote">&#8617;</a></li>
  <li id="fn7"><h6><a href="#bookmark=id.fv1drtrm1vn0">n</a> But, pay your taxes. One day we’ll be able to pay taxes with COINs and that’ll be something, but in the meantime, pay your taxes with the required coinage.</h6>&nbsp;<a href="#fnref7" rev="footnote">&#8617;</a></li>
  <li id="fn8"><h6><a href="#bookmark=id.czzfw5ky2l3x">n</a> See David Graeber’s <em>Debt: The First 5,000 Years,Updated and Expanded</em>. <<a href="https://a.co/cd9vVHk">https://a.co/cd9vVHk</a>> and Douglas McGregor’s Theory X in <em>The Human Side of Enterprise</em>, p 1. 1975 <<a href="https://radicals.world/McCTGD">https://rzadicals.world/McCTGD</a>, alt, <a href="https://www.diigo.com/item/pdf/zk1n/juhm">https://www.diigo.com/item/pdf/zk1n/juhm</a>>.</h6>&nbsp;<a href="#fnref8" rev="footnote">&#8617;</a></li>
