@@ -55,8 +55,7 @@ based on scarcity and competition as it is in the FIAT system.
 </p>
 
 <h2>City Government</h2>
-<p>
-A local government must be granted power by the State. This is probably a
+<p>A local government must be granted power by the State. This is probably a
 leftover from the days of Royalty, where the rules had to issue a charter (and
 charged for doing so).
 </p>
@@ -64,21 +63,16 @@ charged for doing so).
 City governments are responsible for,
 </p>
 <ul>
-<li>The police force, fire abatement, paramedic help.
-<li>Traffic infrastructure (<em>e.g.</em>, signs, speed zones).
-<li>Local city road construction and maintenance, including public parking for
-cars and motorcycles.
-<li>Building regulations and zoning.
-<li>Keeping water clean and maintaining sewer lines.
-<li>Waste removal.
-<li>Parks and recreation.
-<li>Municipal courts.
-</li>
+ <li>The police force, fire abatement, paramedic help.</li>
+ <li>Traffic infrastructure (<em>e.g.</em>, signs, speed zones).</li>
+ <li>Local city road construction and maintenance, including public parking for cars and motorcycles.</li>
+ <li>Building regulations and zoning.</li>
+ <li>Keeping water clean and maintaining sewer lines.</li>
+ <li>Waste removal.</li>
+ <li>Parks and recreation.</li>
+ <li>Municipal courts.</li>
 </ul>
-<p>
-Another thing that our present day’s cities get involved in is economic
-development. Let’s start with that because that is where the wheels of
-“government of the people, by the people, for the people” start to come off.
+<p>Another thing that our present day’s cities get involved in is economic development. Let’s start with that because that is where the wheels of “government of the people, by the people, for the people” start to come off.
 </p>
 
 <h3>Economic Development</h3>
@@ -146,18 +140,14 @@ Off the list.
 </p>
 
 <h3>Higiene: Waste Removal</h3>
-<p>
-City governments already contract with private companies to do the removal work.
+<p>City governments already contract with private companies to do the removal work.
 Individual RADICAL communities can do this easily, with transparency providing
 the coordinating function,
 </p>
-<p>
-— You are charging the community next to us less than you propose to charge us…
-?
-</p>
-<p>
-— Yes, but that’s because in your case…
-</p>
+<ul>
+ <li>You are charging the community next to us less than you propose to charge us… ?</li>
+ <li>— Yes, but that’s because in your case…</li>
+</ul>
 
 <h3>Municipal Courts</h3>
 <p>
