@@ -952,7 +952,7 @@ decide what to do with them.
 
 <br>
 
-<h1 style="text-align: center; ">Notes</h1>
+<h1 style="text-align: center; ">NOTES</h1>
 <br>
 <div class="footnotes">
   <hr>
