@@ -329,12 +329,10 @@ higher level of collaboration.
 <br>
 
 <h2>FAQ</h2>
-<br>
-
-<h3>Question?</h3>
-<p>
-Answer!
-</p>
+ <br>
+ <h3>Question?</h3>
+ <p>Answer!</p>
+ <br>
 
 <h2>Further Reading</h2>
 <br>
