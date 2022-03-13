@@ -8,17 +8,10 @@ image:    "book.jpg"
 
 <div style="display: none;">National fiat money corrupts and makes a mess of markets. Considered some of the thoughts in this work.</div>
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; width: 100%; ; white-space: normal; ">In 2009, the United States Bureau of Economics reported that the total
-value of land in the country was $23 trillion. A Forbes writer estimated that
-the rental value of that land, which George wanted to tax at 100 percent, made
-up roughly 5 percent of the total, or $1.15 trillion. If the land-value tax were
-adopted as the sole means of raising government revenue, it would have funded
-less than half of the federal budget that year, and none of the budgets of all
-50 states and thousands of cities, towns, and counties.<sup id="fnref1"><a
-href="#fn1" rel="footnote">1</a></sup></pre>
+<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; width: 100%; ; white-space: normal; ">In 2009, the United States Bureau of Economics reported that the total value of land in the country was $23 trillion. A Forbes writer estimated that the rental value of that land, which George wanted to tax at 100 percent, made up roughly 5 percent of the total, or $1.15 trillion. If the land-value tax were adopted as the sole means of raising government revenue, it would have funded less than half of the federal budget that year, and none of the budgets of all 50 states and thousands of cities, towns, and counties.<sup id="fnref1"><a href="#fn1" rel="endnotes">1</a></sup></pre>
 <br>
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">"Higher taxes are not the solution …"</pre>
+<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">"Higher taxes are not the solution …"<sup id="fnref2"><a href="#fn2" rel="endnotes">2</a></sup></pre>
 <br>
 <br>
 
@@ -407,3 +400,13 @@ Answer!
   <a href="https://docs.google.com/document/d/1u862nc5EV8OY6ng0kfH7_pBGO-HWJnK2rJB8PvpYkJ4/edit#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a>
   <li>
 </ul>
+
+    n Reforming Reckless Government Spending. The Heritage Foundation (of course) <https://diigo.com/0nct6w>
+<h1 style="text-align: center; ">NOTES</h1>
+<br>
+<div class="endnotes">
+  <ol>
+   <li id="fn1"><h6><a href="fnref1">n</a> Matt Perez, Adrian Perez, Jose Leal. RADICAL COMPANIES: Without Bosses or Employees. Pradera Media, 2021.</h6></li>
+   <li id="fn2"><h6><a href="fnref2">n</a> Reforming Reckless Government Spending. The Heritage Foundation (of course) <<a href="https://diigo.com/0nct6w">https://diigo.com/0nct6w</a>></h6></li>
+  </ol>
+</div>
