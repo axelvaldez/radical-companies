@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "book.jpg"
 ---
 
-<div style="display: none;">National fiat money is the problem, and so is our system of loans and investment. RADICAL COINs is a potential solution.</div>
+<div style="display: none;">National fiat money is the problem, and so is our system of loans and investment. <span style="font-size: smaller; ">RADICAL</span>COINs is a potential solution.</div>
 
 <br>
 <br>
@@ -20,7 +20,7 @@ we'd still be His Majesty's subjects</pre>
 <h2>Introduction</h2>
 <p>
 Today, money is the canonical medium of exchange and that is what we assumed in
-our book, RADICAL COMPANIES.<sup id="fnref1"><a href="#fn1"
+our book, <span style="font-size: smaller; ">RADICAL COMPANIES</span>.<sup id="fnref1"><a href="#fn1"
 rel="footnote">1</a></sup> After all, we need money to pay our bills and as a
 medium of exchange to buy stuff. Unfortunately, money also supports hoarding as
 a way to accumulate financial wealth and power over everything, including
@@ -28,7 +28,7 @@ people. This is problematic and leads to the most serious problems we face
 today.
 </p>
 <p>
-For this and other reasons, I now believe that we should have a RADICAL COIN
+For this and other reasons, I now believe that we should have a <SPAN STYLE="font-size: smaller; ">RADICAL COIN</SPAN>
 that doesn’t have the baggage of national fiat money and can help us transform
 our economy to be more human-centric.<sup id="fnref2"><a href="#fn2"
 rel="footnote">2</a></sup>
@@ -107,14 +107,14 @@ exchange, but with these twists,
 <h2>Worth Repeating</h2>
 <p>
 This may be a difficult read and it may be worth repeating here a few words
-about the RADICAL framework and how it’s different from our current world.
-Probably the most confusing thing about it is that a RADICAL world would be very
+about the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> framework and how it’s different from our current world.
+Probably the most confusing thing about it is that a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world would be very
 similar to our current world. People will be the same with all our jealousies,
 overreactions, and habits. They will be embarrassed by overpromising and want to
 sweep under the proverbial rug.
 </p>
 <p>
-The only difference—the big difference—is that the RADICAL system is centered
+The only difference—the big difference—is that the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> system is centered
 around our interdependence.
 </p>
 <p>
@@ -126,32 +126,32 @@ for a fee. This works for a world where money comes first, ahead of everything
 else.
 </p>
 <p>
-A RADICAL world, too, is centered around accomplishments and real innovation,
+A <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world, too, is centered around accomplishments and real innovation,
 but it prioritizes what’s important to people first, ahead of everything else,
 including money. We’ll still be individuals, with our own needs, rights, and
-idiosyncrasies. We are not going to become a number. The RADICAL model is
+idiosyncrasies. We are not going to become a number. The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model is
 centered on trust, the type that comes from community and collaboration.
 </p>
 
-  <h3>The RADICAL Model</h3>
+  <h3>The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Model</h3>
 <p>
 We are used to companies being governed by FIAT hierarchies, with an owner at
 the top sending down commands telling people <em>what</em> to do, <em>how</em>
-to do it, and <em>when</em> to do it. Here we assume a RADICAL world that is, at
+to do it, and <em>when</em> to do it. Here we assume a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world that is, at
 the same time, alike and different from our world today.
 </p>
 <p>
-In the RADICAL model, a <em>company</em> is a group of people coming together to
+In the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model, a <em>company</em> is a group of people coming together to
 create something bigger than each of them. Other labels abound, but we chose the
 word “company” because it has an interesting genesis: it comes from the Latin
 <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means “together, with”
 and <em>pan</em> means “bread, food.” At its root, then, <em>company</em> means
-“people who break bread together.” In the RADICAL model a company is a community
+“people who break bread together.” In the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model a company is a community
 of people who come together to contribute broad value to society and make an
 impact on the world.
 </p>
 <p>
-Rather than having an owner and a hierarchy of bosses, a RADICAL company has
+Rather than having an owner and a hierarchy of bosses, a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company has
 co-owners and co-managers to govern and operate it. These people align
 themselves according to the impact they want to make, why they are doing so, and
 then they embark on many experiments to get there.
@@ -183,7 +183,7 @@ then they embark on many experiments to get there.
 
   <h3>Evolution, Interrupted</h3>
 <p>
-As I see it, the RADICAL model of co-ownership and co-management is the next
+As I see it, the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model of co-ownership and co-management is the next
 stage in collaboration. Everything humanity has accomplished has been based on
 collaboration, but we have acted as if dominance by a few is the only way to
 achieve it.<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup>
@@ -254,7 +254,7 @@ In any case, the big transaction costs are those that banks, exchanges, and
 political manipulation bring in. And opaqueness does not reduce any of those.
 </p>
 <p>
-RADICAL COINs are transparent. An integral part of each COIN is the log that
+<SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN </SPAN>s are transparent. An integral part of each COIN is the log that
 comes along with them. This will restore people’s  ability to make choices based
 on that information.
 </p>
@@ -291,7 +291,7 @@ recognized, <em>what</em> should be recognized as a contribution, and <em>how
 much</em> to give to others.</li>
 </ul>
 <p>
-The RADICAL Distributions is very similar, but instead of cash or stocks, it
+The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions is very similar, but instead of cash or stocks, it
 uses RADs, a dimensionless unit. At the end of each Distribution the total
 number of RADs allocated to each person represents their dynamic percentage of ownership of the
 broad value created by a company.
@@ -438,7 +438,7 @@ value stays put, but their purchasing power fluctuates, sometimes wildly.
 </p>
 <p>
 COINs have a face value of one. It is backed by people who come together as
-RADICAL COMPANIES to create broad value for society. It is free from national
+<span style="font-size: smaller; ">RADICAL COMPANIES</span> to create broad value for society. It is free from national
 and international politics and manipulation.
 </p>
 <p>
@@ -461,7 +461,7 @@ co-owners will have more or less purchasing power. For example,
 
   <h3>Guarantors</h3>
 <p>
-COINs are backed up by the RADICAL COMPANIES, not national governments. This
+COINs are backed up by the <span style="font-size: smaller; ">RADICAL COMPANIES</span>, not national governments. This
 means that the COIN’s “value” is determined by what each company brings to
 society and by its co-owners’ sensitivities.
 </p>
@@ -470,7 +470,7 @@ This last bit is really important.
 </p>
 <p>
 In today’s businesses, the owners can do whatever they want. Although the same
-is technically true for a RADICAL COMPANY it will be a lot more unlikely that
+is technically true for a <span style="font-size: smaller; ">RADICAL COMPANY</span> it will be a lot more unlikely that
 all co-owners would agree to do something that goes against their own values and
 communities.
 </p>
@@ -633,7 +633,7 @@ interpret the world.
 <h2>Bad Actors</h2>
 <p>There may not be as many bad actors as we think. We probably have a preponderance of them today because 1) they make the news, and 2) we live in a system that is meant to reward bad behavior: gaming is part and parcel of the system. As we find out, we patch it to prevent other bad actors from exploiting the same weakness. But then the next batch of bad actors become wealthy by discovering and exploiting new weaknesses.
 </p>
-<p>We don’t normally think of these, below, as bad actors. But they are. They fall back on their FIAT world habits and are a drag on moving forward to a RADICAL world.
+<p>We don’t normally think of these, below, as bad actors. But they are. They fall back on their FIAT world habits and are a drag on moving forward to a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world.
 </p>
 <table>
   <tr>
@@ -807,12 +807,12 @@ But the system absorbs the losses, magically.
 
  <h3>What about people who retired on their CarelessCO’s COINs?</h3>
 <p>
-I think that in a RADICAL world, “retiring” will be a thing of the past
+I think that in a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world, “retiring” will be a thing of the past
 (<em>i.e.</em>, our present). People “retire” today because they’ve been putting
 up with their job for many years and they are burned out in more ways than one.
 </p>
 <p>
-In a RADICAL world, the more likely scenario is that people may decide to not
+In a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world, the more likely scenario is that people may decide to not
 join another company for a while and live instead off their portfolio of RADs
 from their past companies. This type of “retiring” will not be a function of age
 or tiresomeness, it will be of choice.
@@ -865,7 +865,7 @@ decide what to do with them.
 <h1 style="text-align: center; ">Related</h1>
 <br>
 <ul>
-  <li>RADICAL COMPANIES,</li>
+  <li><span style="font-size: smaller; ">RADICAL COMPANIES</span>,</li>
     <ul>
     <li>EN: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
     <li>ES: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
@@ -874,7 +874,7 @@ decide what to do with them.
   </ul>
   <li>The Missing Chapters,</li>
   <ul>
-    <li><a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu">RADICAL COIN</a></li>
+    <li><a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu"><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN></a></li>
     <li><a href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76">RADICAL LAND</a></li>
     <li><a href="https://docs.google.com/document/d/1P4tZw1iAAnJtP2zlijgttIv1Cxq47PBPzqK3UbMHCSY/edit#">RADICAL GOVERNMENT</a></li> 
   </ul>
@@ -910,7 +910,7 @@ decide what to do with them.
     <li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
     <li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a></li>
   </ul>
-  <li>RADICAL Science Fiction</li>
+  <li><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Science Fiction</li>
   <ul>
     <li><a href="https://docs.google.com/document/d/1u862nc5EV8OY6ng0kfH7_pBGO-HWJnK2rJB8PvpYkJ4/edit#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
   </ul>
@@ -924,7 +924,7 @@ decide what to do with them.
 <div class="footnotes">
   <hr>
   <ol>
-   <li id="fn1"><h6><a href="#fnref1">back</a> Matt Perez, Adrian Perez, Jose Leal. RADICAL COMPANIES: Without Bosses or Employees. Pradera Media, 2021.</h6></li>
+   <li id="fn1"><h6><a href="#fnref1">back</a> Matt Perez, Adrian Perez, Jose Leal. <span style="font-size: smaller; ">RADICAL COMPANIES</span>: Without Bosses or Employees. Pradera Media, 2021.</h6></li>
    <li id="fn2"><h6><a href="#fnref2">back</a> I am taking inspiration from two books, <em>Debt</em> by David Graeber <<a href="https://a.co/cd9vVHk">https://a.co/cd9vVHk</a>> and <em>Rethinking Money</em> by Bernard Lietaer and Jacqui Dunne <<a  href="https://radicals.world/hEhkt0">https://radicals.world/hEhkt0</a>>.</h6></li>
    <li id="fn3"><h6><a href="#fnref3">back</a> “Meter” in Mandarin.</h6></li>
    <li id="fn4"><h6><a href="#fnref4">back</a> M1 is a <em>measure</em> of how much fiat currency there is, not a backing for it. <<a href="https://radicals.world/HlOzNL">https://radicals.world/HlOzNL</a>></h6></li>
@@ -934,7 +934,7 @@ decide what to do with them.
    <li id="fn8"><h6><a href="#fnref8">back</a> See David Graeber’s <em>Debt: The First 5,000 Years,Updated and Expanded</em>. <<a href="https://a.co/cd9vVHk">https://a.co/cd9vVHk</a>> and Douglas McGregor’s Theory X in <em>The Human Side of Enterprise</em>, p 1. 1975 <<a href="https://radicals.world/McCTGD">https://rzadicals.world/McCTGD</a>, alt, <a href="https://www.diigo.com/item/pdf/zk1n/juhm">https://www.diigo.com/item/pdf/zk1n/juhm</a>>.</h6></li>
    <li id="fn9"><h6><a href="#fnref9">back</a> <em>List of economic crises</em> <<a href="https://radicals.world/2Y1Kqb">https://radicals.world/2Y1Kqb</a>>.</h6></li>
    <li id="fn10"><h6><a href="#fnref10">back</a> Philip Rosedale introduced the tool in 2005 <<a href="https://radicals.world/ny8xy3">https://radicals.world/ny8xy3</a>>.</h6></li>
-   <li id="fn11"><h6><a href="#fnref11">back</a> For more, see <em>RADICAL COMPANIES – RADs, PRI,</em> <<a href="https://radicals.world/lj3pH2">https://radicals.world/lj3pH2</a>> and <em>RADICAL COMPANIES</em>, <<a href="https://radicals.world/AS7Ofo">https://radicals.world/AS7Ofo</a>></h6></li>
+   <li id="fn11"><h6><a href="#fnref11">back</a> For more, see <em><span style="font-size: smaller; ">RADICAL COMPANIES</span> – RADs, PRI,</em> <<a href="https://radicals.world/lj3pH2">https://radicals.world/lj3pH2</a>> and <em><span style="font-size: smaller; ">RADICAL COMPANIES</span></em>, <<a href="https://radicals.world/AS7Ofo">https://radicals.world/AS7Ofo</a>></h6></li>
    <li id="fn12"><h6><a href="#fnref12">back</a> This coincides with Michael Linton’s idea of letting different businesses decide what percentage of local versus fiat currency a business will take. See <em>Covestment with Community Currencies</em> <<a href="https://radicals.world/edEy3f">https://radicals.world/edEy3f</a>></h6></li>
    <li id="fn13"><h6><a href="#fnref13">back</a> <em>List of economic crises</em><<a href="https://radicals.world/2Y1Kqb">https://radicals.world/2Y1Kqb</a>>.</h6></li>
    <li id="fn14"> <h6><a href="#fnref14">back</a> Michael J. Graetz and Olivia Briffault. A “Barbarous Relic”: The French, Gold, and the Demise of Bretton Woods. Aug, 2016 <<a href="https://radicals.world/rxLQd8">https://radicals.world/rxLQd8</a>>.</h6></li>
