@@ -687,114 +687,81 @@ BenCO’s co-owners end up with less buying power than JerryCO’s co-owners.
   <img src="assets/img/en-rad-auto-inflation-a.svg" alt="Two tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 100 COINs. Second row is RAD DISTRIBUTION, distributed as 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. They each get 10, 20, 30, and 40 COINs. For JerryCO: the EARNED DIVIDENDS  row shows +1000 New for a TOTAL of 1000 COINs. The RAD DISTRIBUTION in the second row is as follows: 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. This is the same as for BenCO, but in the JerryCO case the first person gets 100 instead of 10, the second 200 instead of 20, the third 300 instead of 30, and the fourth 400 COINs instead of 40. The BenCO co-owners end up with less buying power than JerryCO's co-owners." title="Varying Buying Powers A">
 </p>
 <p>
-Within each company, the buying power of an individual co-owner, too, can change
-every cycle. For example, in the illustration above, by the third cycle
-<strong>Ⓔ</strong>, a JerryCO co-owner who started with 100 COINs, now has 1,200
-which are enough to buy 30 dozen of my potatoes. Other other hand, JerryCO
-co-owner <strong>Ⓗ</strong> didn't get any COINs this cycle and he only has 600
-COINs and has to settle for 15 dozen of my potatoes.
+Within each company, the buying power of an individual co-owner, too, can change every cycle. For example, in the illustration above, by the third cycle <strong>Ⓔ</strong>, a JerryCO co-owner who started with 100 COINs, now has 1,200 which are enough to buy 30 dozen of my potatoes. Other other hand, JerryCO co-owner <strong>Ⓗ</strong> didn't get any COINs this cycle and he only has 600 COINs and has to settle for 15 dozen of my potatoes.
 </p>
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
   <img src="assets/img/en-rad-auto-inflation-b.svg" alt="Four tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 200 COINs. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 23% for the fourth. They each get 40, 70, 30, and 60 COINs. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +1000 New for a TOTAL of 2000 COINs. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 30% for the fourth (the same as for BenCO). They each get 400, 700, 300, and 600 COINs. Below there are two more tables. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 300 COINs. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth. They each get 120, 45, 45, and 60 COINs. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +1000 New for a TOTAL of 3000 COINs. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth (the same as for BenCO). They each get 1200, 450, 450, and 600 COINs. Some JerryCO co-owners have more COINs than others." title="Varying Buying Powers between and within companies">
 </p>
 
 <h2>FAQ</h2>
-<h3>Companies minting COINs without any rules sounds really, really!</h3>
-<p>
-If that sounds “crazy,” then the financial system we have today is crazier and
-business hostile.
-</p>
-<p>
-COINs minted by BenCO carry a log which includes all the information related to
-their creation. The co-owners are motivated to retire the COINs they minted in
-the time promised. If they don’t do that, fewer and fewer sellers will accept
-their COINs. Their buying power will go down the drain in a hurry.
-</p>
-<h3>Why not make co-owners responsible for personally retiring the debt?</h3>
-<h3>What prevents a company from continuously taking on new debt to retire old
-debt?</h3>
-<p>
-Co-owners could decide to do this, but it goes on the record, so to speak, for
-everyone to see. As sellers detect that pattern, they would shy away from the
-company’s COINs.
-</p>
-<h3>What if co-owners pay themselves a huge amount of COINs and keep taking new
-debt to paper over it? Wouldn’t this create massive inflation?</h3>
-<p>
-Co-owners could decide to do this, but it goes on the record, so to speak, for
-everyone to see. As sellers detect that pattern, they would shy away from the
-company’s COINs. They may have lots and lots of COINs, but they would not be
-welcome by most people.
-</p>
-<h3>Let’s say that the potato grower uses the COINs he got from selling her
-potatoes to buy a shovel. But then the town’s shovel-maker raised his prices so
-that he can buy metal and wood dowels to make more shovels.</h3>
-<p>
-Yes, that could happen, as it does today.
-</p>
-<p>
-Eventually, another shovel-maker would appear and make shovels that people can
-afford. The greedy shovel maker would go out of business.
-</p>
-<h3>PotatoCO mints COINs to pay for the now higher priced shovel.</h3>
-<p>
-If PotatoCO’s co-owners figure that the new price is a fair price and there’s no
-other supplier around, it would have to do that. They would have to make sure
-that they can get enough COINs from future potatoes to retire the debt as
-promised. Otherwise, they are going to pay with a lower reputation and value and
-less buying power for the co-owners.
-</p>
-<p>
-People will continue to make mistakes and miss estimates. COINs won’t change
-human nature. But co-owners can mint the COINs they need to run their companies
-without worrying about the color of their skin, or their gender, or church
-affiliation.
-</p>
-<h3>But this means that another potato grower buys a tractor and grows even more
-potatoes!</h3>
-<p>
-Yes. This means that people can experiment more.
-</p>
-<p>
-Maybe the tractor turns out to be a lemon and doesn’t help him produce more or
-better potatoes. He probably won’t be able to retire the debt he took on to buy
-it.
-</p>
-<h3>What if JerryCO, a brand new startup with no revenue, needs COINs to get
-started, can it just mint them?</h3>
-<p>
-In this case, most vendors would likely not accept JerryCO’s COINs as payments
-because its COINs would have very high risk.
-</p>
-<p>
-In this case, other companies may want to help out JerryCO by giving them COINs.
-One or more companies could mint enough COINs for JerryCO  to get to revenue or
-to build its minimum viable product. This could include vendors of equipment
-that JerryCO needs to succeed and the quid pro quo is that they will become
-JerryCO’s preferred vendors.
-</p>
-<p>
-Alternatively, the investment may come from a group of adjacent companies. They
-believe that JerryCO’s product is complementary to theirs and will help the
-market grow. Or JerryCO promises to “repay” twice the original amount of this
-investment.
-</p>
-<p>
-In any case, as JerryCO starts to show results and a pattern of doing as
-promised, the risk of its own COINs will go down and will be able to pay with a
-mix of its own COINs and co-investment COINs.
-</p>
-<h3>What if a BenCO co-owner wants to buy the latest electric, self-driving car,
-but she doesn’t get enough COINs? Can’t she convince the other co-owners to pay
-themselves more COINs?</h3>
-<p>
-For BenCO co-owners to pay themselves a lot more COINs than they actually
-receive in revenue, they would have to mint the extra COINs. These newly minted
-COINs would show a lot of risks and sellers would likely not accept them as
-payment, particularly for luxury items.
-</p>
+ <h3>Companies minting COINs without any rules sounds really, really crazy!</h3>
+ <p>If that sounds “crazy,” then the financial system we have today is crazier. And it is business hostile, on top.
+ </p>
+ <p>
+ COINs minted by BenCO carry a log which includes all the information related to their creation. The co-owners are motivated to retire the COINs they minted in the time promised. If they don’t do that, fewer and fewer sellers will accept their COINs. Their buying power will go down the drain in a hurry.
+ </p>
+ <br>
 
-  <h3>Do you mean that there is no possible way to defraud the system?</h3>
+ <h3>Why not make co-owners responsible for personally retiring the debt?</h3>
+ <br>
+
+ <h3>What prevents a company from continuously taking on new debt to retire old debt?</h3>
+ <p>Co-owners could decide to do this, but it goes on the record, so to speak, for everyone to see. As sellers detect that pattern, they would shy away from the company’s COINs.
+ </p>
+ <br>
+ 
+ <h3>What if co-owners pay themselves a huge amount of COINs and keep taking new debt to paper over it? Wouldn’t this create massive inflation?</h3>
+ <p>Co-owners could decide to do this, but it goes on the record, so to speak, for everyone to see. As sellers detect that pattern, they would shy away from the company’s COINs. They may have lots and lots of COINs, but they would not be welcome by most people.
+ </p>
+ <br>
+
+ <h3>Let’s say that the potato grower uses the COINs he got from selling her potatoes to buy a shovel. But then the town’s shovel-maker raised his prices so that he can buy metal and wood dowels to make more shovels.</h3>
+ <p>Yes, that could happen, as it does today.
+ </p>
+ <p>
+ Eventually, another shovel-maker would appear and make shovels that people can afford. The greedy shovel maker would go out of business.
+ </p>
+ <br>
+ 
+ <h3>PotatoCO mints COINs to pay for the now higher priced shovel.</h3>
+ <p>
+ If PotatoCO’s co-owners figure that the new price is a fair price and there’s no other supplier around, it would have to do that. They would have to make sure that they can get enough COINs from future potatoes to retire the debt as promised. Otherwise, they are going to pay with a lower reputation and value and less buying power for the co-owners.
+ </p>
+ <p>
+ People will continue to make mistakes and miss estimates. COINs won’t change human nature. But co-owners can mint the COINs they need to run their companies without worrying about the color of their skin, or their gender, or church affiliation.
+ </p>
+ <br>
+ 
+ <h3>But this means that another potato grower buys a tractor and grows even more potatoes!</h3>
+ <p>
+ Yes. This means that people can experiment more.
+ </p>
+ <p>
+ Maybe the tractor turns out to be a lemon and doesn’t help him produce more or better potatoes. He probably won’t be able to retire the debt he took on to buy it.
+ </p>
+ <br>
+ 
+ <h3>What if JerryCO, a brand new startup with no revenue, needs COINs to get started, can it just mint them?</h3>
+ <p>
+ In this case, most vendors would likely not accept JerryCO’s COINs as payments because its COINs would have very high risk.
+ </p>
+ <p>
+ In this case, other companies may want to help out JerryCO by giving them COINs. One or more companies could mint enough COINs for JerryCO  to get to revenue or to build its minimum viable product. This could include vendors of equipment that JerryCO needs to succeed and the quid pro quo is that they will become JerryCO’s preferred vendors.
+ </p>
+ <br>
+ <p>
+ Alternatively, the investment may come from a group of adjacent companies. They believe that JerryCO’s product is complementary to theirs and will help the market grow. Or JerryCO promises to “repay” twice the original amount of this investment.
+ </p>
+ <p>
+ In any case, as JerryCO starts to show results and a pattern of doing as promised, the risk of its own COINs will go down and will be able to pay with a mix of its own COINs and co-investment COINs.
+ </p>
+ <h3>What if a BenCO co-owner wants to buy the latest electric, self-driving car, but she doesn’t get enough COINs? Can’t she convince the other co-owners to pay themselves more COINs?</h3>
+ <p>
+ For BenCO co-owners to pay themselves a lot more COINs than they actually receive in revenue, they would have to mint the extra COINs. These newly minted COINs would show a lot of risks and sellers would likely not accept them as payment, particularly for luxury items.
+ </p>
+ <br>
+ 
+ <h3>Do you mean that there is no possible way to defraud the system?</h3>
 <p>
 It simply means that I can’t think of a way of doing that.
 </p>
@@ -807,7 +774,7 @@ I can imagine that there could be a way to falsify a COIN’s log, but I’ll le
 that to smarter people.
 </p>
 
-  <h3>Why can’t people mint COINs? Why is it limited to companies?</h3>
+ <h3>Why can’t people mint COINs? Why is it limited to companies?</h3>
 <p>
 Community!
 </p>
@@ -824,7 +791,7 @@ couldn’t, at least not in a balanced way. When the pros and cons are weighed b
 the broader consideration of a community, the final decision is more balanced.
 </p>
 
-  <h3>What if a company mints COINs and then is not able to retire the debt?</h3>
+ <h3>What if a company mints COINs and then is not able to retire the debt?</h3>
 <p>
 Yes, this kind of thing will happen. And, in case you’re asking, there is no
 punishment for the people involved in this.
@@ -835,7 +802,7 @@ notices. Yes, the people involved in a bankruptcy get punished, ruthlessly so.
 But the system absorbs the losses, magically.
 </p>
 
-  <h3>What about people who retired on their CarelessCO’s COINs?</h3>
+ <h3>What about people who retired on their CarelessCO’s COINs?</h3>
 <p>
 I think that in a RADICAL world, “retiring” will be a thing of the past
 (<em>i.e.</em>, our present). People “retire” today because they’ve been putting
@@ -864,12 +831,12 @@ I screwed myself financially, but I learned something in the process. I have to
 return the boat and join WiserCO.</li>
 </ol>
 
-  <h3>What if lots of companies disband at the same time?</h3>
+ <h3>What if lots of companies disband at the same time?</h3>
 <p>
 Then you adjust your app to raise the risk of similar companies.
 </p>
 
-  <h3>What about people who cannot work?</h3>
+ <h3>What about people who cannot work?</h3>
 <p>
 Some people will be unable to contribute to a company, for whatever reason. But
 to their family
