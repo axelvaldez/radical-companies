@@ -158,7 +158,7 @@ then they embark on many experiments to get there.
 <p>
 They do this starting from a simple foundation of interdependence,
 </p>
-<table>
+<table style="horizontal-align: center; ">
   <tr>
      <td style="padding-right: 6px; "><p>Principles</p></td>
      <td><p style="font-size: larger; ">{</p></td>
