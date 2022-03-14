@@ -695,7 +695,7 @@ Within each company, the buying power of an individual co-owner, too, can change
 </p>
 
 <h1 style="text-align: top; ">FAQ</h1>
-<br>
+<br> 
 
  <h3>Companies minting COINs without any rules sounds really, really crazy!</h3>
  <p>If that sounds “crazy,” then the financial system we have today is crazier. And it is business hostile, on top.
