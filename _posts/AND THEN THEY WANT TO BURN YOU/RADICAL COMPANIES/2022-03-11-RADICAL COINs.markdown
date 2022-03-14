@@ -162,21 +162,21 @@ They do this starting from a simple foundation of interdependence,
   <tr>
      <td style="padding-right: 6px; text-align: right; "><p><strong>Principles</strong></p></td>
      <td><p style="font-size: larger; ">{</p></td>
-     <td style="padding: 0 6px; "><p>Meaning & Belonging</p></td>
+     <td style="padding: 0 6px; text-align: center; "><p>Meaning & Belonging</p></td>
      <td><p style="font-size: larger; ">}</p></td>
      <td style="padding-left: 6px; "><p><em>relationships</em></p></td>
   </tr>
   <tr>
      <td style="padding-right: 6px; text-align: right; "><p><strong>Commitments</strong></p></td>
      <td><p style="font-size: larger; ">{</p></td>
-     <td style="padding: 0 6px; "><p>Transparency & Decentralization</p></td>
+     <td style="padding: 0 6px; text-align: center; "><p>Transparency & Decentralization</p></td>
      <td><p style="font-size: larger; ">}</p></td>
      <td style="padding-left: 6px; "><p><em>autonomy</em></p></td>
   </tr>
   <tr>
      <td style="padding-right: 6px; text-align: right; "><p><strong>Practices</strong></p></td>
      <td><p style="font-size: larger; ">{</p></td>
-     <td style="padding: 0 6px; "><p>Alignment & Experimentation</p></td>
+     <td style="padding: 0 6px; text-align: center; "><p>Alignment & Experimentation</p></td>
      <td><p style="font-size: larger; ">}</p></td>
      <td style="padding-left: 6px; "><p><em>collaboration</em></p></td>
   </tr>
