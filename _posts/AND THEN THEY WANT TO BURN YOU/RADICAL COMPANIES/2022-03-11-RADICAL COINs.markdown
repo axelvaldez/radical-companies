@@ -324,15 +324,15 @@ This can result in any of these scenarios,
 <table>
   <tr>
    <td style="vertical-align: text-top;"><strong>Happy Ending</strong></td>
-   <td>BenCO retires the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span> within three years, as promised.</td>
+   <td>BenCO retires the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s within three years, as promised.</td>
   </tr>
   <tr>
    <td><strong>Not so Happy Ending</strong></td>
-   <td>BenCO has retired only two thirds of the minted <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</ by the third year. It does retire all 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</, but later than promised.</td>
+   <td>BenCO has retired only two thirds of the minted <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s by the third year. It does retire all 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</, but later than promised.</td>
   </tr>
   <tr>
    <td><strong>Unhappy Ending</strong></td>
-   <td>BenCO disbands and never creates enough value for society to pay the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</s.</td>
+   <td>BenCO disbands and never creates enough value for society to pay the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s.</td>
   </tr>
 </table>
 <br>
