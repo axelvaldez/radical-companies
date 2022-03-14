@@ -414,5 +414,6 @@ The highest bid.
   <a href="#fnref3">n</a> <h6>Wikipedia Commons. <a href="https://radicals.world/GlK2oV">Political performance art by Fay Lewis in Rockford(Illinois), 1914</a>. <<a href="https://radicals.world/GlK2oV">https://radicals.world/GlK2oV</a>></li>
  <li id="fn4">
   <a href="#fnref4">n</a> <h6>I must admit that this aspect of the RADICAL model would be a pushover for outer space FIAT  invaders.</h6></li>
+  xxx
 </ol>
 </div>
