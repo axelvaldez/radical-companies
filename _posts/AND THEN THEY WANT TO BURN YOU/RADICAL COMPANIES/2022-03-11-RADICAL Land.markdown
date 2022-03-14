@@ -63,7 +63,6 @@ importantly, the value of contributions made by the community around it,
   <li>A lot, with the exact same house on it at one <em>location</em> may be valued very differently than the same lot and house in another location.</li>
   <li>The <em>community</stroemng> around a particular piece of land determines its overarching value. For example, there is a big difference in pricing for nearly identical houses but in different towns.</li>
 </ul>
-xxx
 <table>
   <tr>
    <td>
@@ -77,7 +76,6 @@ xxx
   </tr>
   <tr><td>&nbsp;</td></tr>
 </table>
-xxx
 <p>
 The bidding system might look something like this,
 </p>
