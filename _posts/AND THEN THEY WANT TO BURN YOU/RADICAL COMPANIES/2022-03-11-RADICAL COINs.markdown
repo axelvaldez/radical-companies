@@ -693,7 +693,9 @@ Within each company, the buying power of an individual co-owner, too, can change
   <img src="assets/img/en-rad-auto-inflation-b.svg" alt="Four tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 200 COINs. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 23% for the fourth. They each get 40, 70, 30, and 60 COINs. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +1000 New for a TOTAL of 2000 COINs. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 30% for the fourth (the same as for BenCO). They each get 400, 700, 300, and 600 COINs. Below there are two more tables. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 300 COINs. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth. They each get 120, 45, 45, and 60 COINs. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +1000 New for a TOTAL of 3000 COINs. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth (the same as for BenCO). They each get 1200, 450, 450, and 600 COINs. Some JerryCO co-owners have more COINs than others." title="Varying Buying Powers between and within companies">
 </p>
 
-<h2>FAQ</h2>
+<h1 style="text-align: top; ">FAQ</h1>
+<br>
+
  <h3>Companies minting COINs without any rules sounds really, really crazy!</h3>
  <p>If that sounds “crazy,” then the financial system we have today is crazier. And it is business hostile, on top.
  </p>
@@ -855,8 +857,8 @@ communities’ satisfaction.
 For each COINs, the log holds facts, not judgements and each of us gets to
 decide what to do with them.
 </p>
-
 <br>
+
 <br>
 
 <h1 style="text-align: center; ">Related</h1>
