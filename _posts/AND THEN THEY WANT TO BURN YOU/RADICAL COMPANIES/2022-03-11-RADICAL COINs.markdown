@@ -343,6 +343,7 @@ This can result in any of these scenarios,
    <td>BenCO disbands and never creates enough value for society to pay the 30,000 COINs.</td>
   </tr>
 </table>
+<br>
 <p>
 A seller’s app can calculate a risk factor based on the BenCO COIN’s log <em>and</em> her particular preset parameters. Each of us can let the apps do the calculations and, based on that, decide whether or not to take the BenCO COINs as payment.<sup id="fnref12"><a href="#fn12" rel="footnote">12</a></sup>
 </p>
@@ -644,9 +645,6 @@ interpret the world.
    </td>
   </tr>
   <tr>
-   <td>&nbsp;</td><td></td>
-  </tr>
-  <tr>
    <td style="vertical-align: text-top;">
     <p><strong>Battling Ghosts</strong></p>
    </td>
@@ -656,9 +654,6 @@ interpret the world.
     <p>Further down the road, Namir sees the same log that Shui got, but he, nevertheless, accepts Anita’s COINs in exchange for his potatoes. It turns out that Namir knows Anita and what they are doing at BenCO and he trusts that they will retire their debts.</p>
     <p>Shui sees the exchange, misinterprets it, and instead of talking with Namir he goes on to accept higher risk COINs that he is comfortable with. Instead of talking to Namir and figuring out what’s going on, he falls into his own trap of assuming Namir is out to take business away from him.</p>
    </td>
-  </tr>
-  <tr>
-   <td>&nbsp;</td><td></td>
   </tr>
   <tr>
    <td style="vertical-align: text-top;">
@@ -674,9 +669,7 @@ interpret the world.
     </div>
    </td>
   </tr>
-  <tr>
-   <td>&nbsp;</td><td></td>
-  </tr>
+  <tr><td>&nbsp;</td><td></td></tr>
 </table>
 
 <h2>Varying Buying Power</h2>
