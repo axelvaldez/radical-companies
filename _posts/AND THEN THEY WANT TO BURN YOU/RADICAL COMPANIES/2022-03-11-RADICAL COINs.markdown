@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "RADICAL COINs"
-subtitle: "FOR A WORLD-WIDE MARKET"
+subtitle: "FOR a WORLD-WIDE MARKET"
 authors:  "Matt Perez"
 image:    "book.jpg"
 ---
