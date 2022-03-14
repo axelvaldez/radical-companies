@@ -168,7 +168,7 @@ then they embark on many experiments to get there.
   <tr>
      <td style="text-align: right; "><strong>Practices</strong></td>
      <td style="font-size: larger; ">{</td>
-     <td style="text-align: center; "><p>Alignment & Experimentation</td>
+     <td style="text-align: center; ">Alignment & Experimentation</td>
      <td style="font-size: larger; ">}</td>
      <td style="text-align: left; "><em>collaboration</em></td>
   </tr>
