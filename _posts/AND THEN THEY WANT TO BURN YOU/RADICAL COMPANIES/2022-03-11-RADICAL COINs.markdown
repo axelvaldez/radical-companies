@@ -152,11 +152,11 @@ then they embark on many experiments to get there.
 <p>They do this starting from a simple foundation of interdependence,</p>
 <table style="margin: auto; margin-bottom: 20px; ">
   <tr>
-     <td><p style="text-align: right; "><strong>Principles</strong></p></td>
+     <td style="text-align: right; ><p"><strong>Principles</strong></p></td>
      <td><p style="font-size: larger; ">{</p></td>
-     <td><p style="text-align: center; "><p>Meaning & Belonging</p></td>
+     <td style="text-align: center; ><p"><p>Meaning & Belonging</p></td>
      <td><p style="font-size: larger; ">}</p></td>
-     <td><p style="text-align: left; "><em>relationships</em></p></td>
+     <td style="text-align: left; ><p"><em>relationships</em></p></td>
   </tr>
   <tr>
      <td><p style="text-align: right; "><strong>Commitments</strong></p></td>
