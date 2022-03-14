@@ -1,3 +1,4 @@
+---
 layout:   post
 title:    "RADICAL COINs"
 subtitle: "FOR A WORLD-WIDE MARKET"
@@ -5,7 +6,7 @@ authors:  "Matt Perez"
 image:    "book.jpg"
 ---
 
-<div style="display: none;">National fiat money is the problem, and so is our system of loans and investment. RADICAL COINs could a solution.</div>
+<div style="display: none;">National fiat money is the problem, and so is our system of loans and investment. RADICAL COINs is a potential solution.</div>
 
 <br>
 <br>
