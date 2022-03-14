@@ -689,7 +689,7 @@ Within each company, the buying power of an individual co-owner, too, can change
  </p>
  <br>
 
- <h3>Let’s say that the potato grower uses the COINs he got from selling her potatoes to buy a shovel. But then the town’s shovel-maker raised his prices so that he can buy metal and wood dowels to make more shovels.</h3>
+ <h3>The potato grower uses the COINs he got from selling her potatoes to buy a shovel. But then he discovers that the town’s shovel-maker raised his prices so that he can buy metal and wood to make more shovels.</h3>
  <p>Yes, that could happen, as it does today.
  </p>
  <p>
