@@ -61,7 +61,7 @@ importantly, the value of contributions made by the community around it,
 <ul>
   <li>Two identical lots will be valued differently according to their <em>improvements</em>. The one with a small dilapidated barn on it will be valued less than the lot with a well-maintained barn.</li>
   <li>A lot, with the exact same house on it at one <em>location</em> may be valued very differently than the same lot and house in another location.</li>
-  <li>The <em>community</stroemng> around a particular piece of land determines its overarching value. For example, there is a big difference in pricing for nearly identical houses but in different towns.</li>
+  <li>The <em>community</em> around a particular piece of land determines its overarching value. For example, there is a big difference in pricing for nearly identical houses but in different towns.</li>
 </ul>
 <table>
   <tr>
