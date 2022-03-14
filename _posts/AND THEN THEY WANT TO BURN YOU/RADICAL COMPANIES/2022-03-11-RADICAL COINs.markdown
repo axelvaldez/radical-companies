@@ -160,21 +160,21 @@ They do this starting from a simple foundation of interdependence,
 </p>
 <table>
   <tr>
-     <td><p>Principles</p></td>
-     <td><p>Meaning & Belonging</p></td>
-     <td><p>}</p></td>
+     <td style="padding-right: 6px; "><p>Principles</p></td>
+     <td style="padding-left: 6px; "><p>Meaning & Belonging</p></td>
+     <td style="padding: 0 6px; "><p>}</p></td>
      <td><p><em>relationships</em></p></td>
   </tr>
   <tr>
-     <td><p>Commitments</p></td>
-     <td><p>>Transparency & Decentralization</p></td>
-     <td><p>}</p></td>
+     <td style="padding-right: 6px; "><p>Commitments</p></td>
+     <td style="padding-left: 6px; "><p>Transparency & Decentralization</p></td>
+     <td style="padding: 0 6px; "><p>}</p></td>
      <td><p><em>autonomy</em></p></td>
   </tr>
   <tr>
-     <td><p>Practices</p></td>
-     <td><p>Alignment & Experimentation</p></td>
-     <td><p>}</p></td>
+     <td style="padding-right: 6px; "><p>Practices</p></td>
+     <td style="padding-left: 6px; "><p>Alignment & Experimentation</p></td>
+     <td style="padding: 0 6px; "><p>}</p></td>
      <td><p><em>collaboration</em></p></td>
   </tr>
   <tr>
