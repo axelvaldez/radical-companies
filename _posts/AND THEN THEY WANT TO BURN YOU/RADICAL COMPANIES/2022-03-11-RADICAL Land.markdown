@@ -402,9 +402,8 @@ The highest bid.
 <br>
 
 <h1 style="text-align: center;">ENDNOTES</h1>
-<br>
-<div class="footnotes">
 <hr>
+<div class="footnotes">
 <ol>
  <li id="fn1">
   <a href="#fnref1">n</a> <h6>Abraham Lincoln, 16th USA President. Speech to Germans at Cincinnati, Ohio, February 12, 1861 <<a href="https://radicals.world/5jV3VN">https://radicals.world/5jV3VN</a>></h6></li>
