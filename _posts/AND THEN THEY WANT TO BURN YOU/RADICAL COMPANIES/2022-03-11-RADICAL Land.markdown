@@ -345,7 +345,7 @@ The highest bid on any parcel of land.
 <br>
 <br>
 
-<h1 style="text-align: center;">Further Reading</h1>
+<h1 style="text-align: center;">Related</h1>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>

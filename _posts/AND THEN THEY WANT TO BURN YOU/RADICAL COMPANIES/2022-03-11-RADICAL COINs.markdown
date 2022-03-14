@@ -896,15 +896,15 @@ decide what to do with them.
 <br>
 <br>
 
-<h1 style="text-align: center; ">RELATED</h1>
+<h1 style="text-align: center; ">Related</h1>
 <br>
 <ul>
   <li>RADICAL COMPANIES,</li>
-  <ul>
-    <li><a href="https://docs.google.com/document/d/1Vt-3hM_i1x9FzfoO0hDX8itRnPV5OQWKcfWsjV6a6CQ/edit#heading=h.rutigyp6zcd3">EN</a>: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
-    <li><a href="https://docs.google.com/document/d/1UYxFNZyJvFZf4DMZkspF5cF6Yzl_ugI67lmqoYJhtGw/edit#heading=h.87ak6hy0sbuh">ES</a>: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
+    <ul>
+    <li>EN: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
+    <li>ES: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
     <li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
-    <li>Frequently asked questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
+    <li>Frequently Asked Questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
   </ul>
   <li>The Missing Chapters,</li>
   <ul>
@@ -953,7 +953,7 @@ decide what to do with them.
 <br>
 <br>
 
-<h1 style="text-align: center; ">NOTES</h1>
+<h1 style="text-align: center; ">Endnotes</h1>
 <br>
 <div class="footnotes">
   <hr>
