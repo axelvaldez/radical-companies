@@ -383,7 +383,7 @@ higher level of collaboration.
 <br>
 <br>
 
-<h1 style="text-align: center; ">NOTES</h1>
+<h1 style="text-align: center; ">Endnotes</h1>
 <br>
 <div class="endnotes">
   <ol>
