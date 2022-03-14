@@ -210,25 +210,25 @@ centered on trust, the type that comes from community and collaboration.
 <p>They do this starting from a simple foundation of interdependence,</p>
 <table style="margin: auto; margin-bottom: 20px; ">
   <tr>
-     <td><p style="text-align: right; "><strong>Principles</strong></p></td>
-     <td><p style="font-size: larger; ">{</p></td>
-     <td><p style="text-align: center; "><p>Meaning & Belonging</p></td>
-     <td><p style="font-size: larger; ">}</p></td>
-     <td><p style="text-align: left; "><em>relationships</em></p></td>
+     <td style="text-align: right; padding-right: 6px; "><em>principles</em></td>
+     <td style="font-size: larger; ">{</td>
+     <td style="text-align: center; "><strong>Meaning & Belonging</strong></td>
+     <td style="font-size: larger; ">}</td>
+     <td style="text-align: left; padding-left: 6px; "><em>relationships</em></td>
   </tr>
   <tr>
-     <td><p style="text-align: right; "><strong>Commitments</strong></p></td>
-     <td><p style="font-size: larger; ">{</p></td>
-     <td><p style="text-align: center; "><p>Transparency & Decentralization</p></td>
-     <td><p style="font-size: larger; ">}</p></td>
-     <td><p style="text-align: left; "><em>autonomy</em></p></td>
+     <td style="text-align: right; padding-right: 6px; "><em>commitments</em></td>
+     <td style="font-size: larger; ">{</td>
+     <td style="text-align: center; "><strong>Transparency & Decentralization</strong></td>
+     <td style="font-size: larger; ">}</td>
+     <td style="text-align: left; padding-left: 6px; "><em>autonomy</em></td>
   </tr>
   <tr>
-     <td><p style="text-align: right; "><strong>Practices</strong></p></td>
-     <td><p style="font-size: larger; ">{</p></td>
-     <td><p style="text-align: center; "><p>Alignment & Experimentation</p></td>
-     <td><p style="font-size: larger; ">}</p></td>
-     <td><p style="text-align: left; "><em>collaboration</em></p></td>
+     <td style="text-align: right; padding-right: 6px; "><em>cractices</em></td>
+     <td style="font-size: larger; ">{</td>
+     <td style="text-align: center; "><strong>Alignment & Experimentation</strong></td>
+     <td style="font-size: larger; ">}</td>
+     <td style="text-align: left; padding-left: 6px; "><em>collaboration</em></td>
   </tr>
 </table>
 
