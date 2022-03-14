@@ -394,7 +394,7 @@ higher level of collaboration.
 <br>
 <div class="endnotes">
   <ol>
-   <li id="fn1"><h6><a href="#fnref1">n</a> Matt Perez, Adrian Perez, Jose Leal. RADICAL COMPANIES: Without Bosses or Employees. Pradera Media, 2021.</h6></li>
-   <li id="fn2"><h6><a href="#fnref2">n</a> Reforming Reckless Government Spending. The Heritage Foundation (of course) <<a href="https://diigo.com/0nct6w">https://diigo.com/0nct6w</a>></h6></li>
+   <li id="fn1"><h6><a href="#fnref1">back</a> Matt Perez, Adrian Perez, Jose Leal. RADICAL COMPANIES: Without Bosses or Employees. Pradera Media, 2021.</h6></li>
+   <li id="fn2"><h6><a href="#fnref2">back</a> Reforming Reckless Government Spending. The Heritage Foundation (of course) <<a href="https://diigo.com/0nct6w">https://diigo.com/0nct6w</a>></h6></li>
   </ol>
 </div>
