@@ -312,19 +312,25 @@ higher level of collaboration.
 <br>
 <br>
 
-<h1 style="text-align: center;">APPENDICES</h1>
+<h1 style="text-align: center;">Appendices</h1>
 <br>
 
-<h2>Terminology</h2>
+ <h2>Terminology</h2>
 <br>
 
-<h2>FAQ</h2>
+<br>
+<br>
+
+<h1 style="text-align: center;">FAQ</h1>
  <br>
  <h3>Question?</h3>
  <p>Answer!</p>
  <br>
 
-<h2>Further Reading</h2>
+<br>
+<br>
+
+<h1 style="text-align: center;">Further Reading</h1>
 <br>
 
 <h2>Related</h2>
