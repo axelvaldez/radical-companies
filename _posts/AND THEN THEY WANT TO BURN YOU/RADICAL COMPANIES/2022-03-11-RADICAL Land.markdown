@@ -411,8 +411,8 @@ The highest bid.
    <a href="#fnref2">n</a>&nbsp;<h6>Yanis Varoufakis. <em>Another Now by Yanis</em> <<a href="https://a.co/90kfjT7">https://a.co/90kfjT7</a>>. Melville House, 2021</p></h6></li>
   <li id="fn3"> 
    <a href="#fnref3">n</a>&nbsp;<h6>Wikipedia Commons. <a href="https://radicals.world/GlK2oV">Political performance art by Fay Lewis in Rockford, Illinois, USA, in 1914</a>. <<a href="https://radicals.world/GlK2oV">https://radicals.world/GlK2oV</a>></li>
-  <li id="fn4"> xxx
-   <a href="#fnref4">n</a>&nbsp;<h6>I must admit that this aspect of the RADICAL model would be a pushover for outer space FIAT invaders.</h6></li>
+  <li id="fn4">
+   <a href="#fnref4">n</a>xxx<h6>I must admit that this aspect of the RADICAL model would be a pushover for outer space FIAT invaders.</h6></li>
   xxx
  </ol>
 </div>
