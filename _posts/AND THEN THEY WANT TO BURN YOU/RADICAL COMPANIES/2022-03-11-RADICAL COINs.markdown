@@ -155,26 +155,34 @@ then they embark on many experiments to get there.
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
   <img src="assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: the middle finger is IMPACT, the index finger is PURPOSE, and the ring finger is MISSION" title="Elements of Alignment">
 </p>
-<p>They do this starting from a simple foundation of interdependence,</p>
-<table style="margin: auto; margin-bottom: 20px; ">
+<p>
+They do this starting from a simple foundation of interdependence,
+</p>
+<table>
   <tr>
-   <td rowspan="2"><p style="text-align: right; padding-right: 6px; ">Meaning & Belonging</p></td>
-   <td style="right; padding-left: 6px;"><strong>Principles</strong></td>
+     <td><p>Principles</p></td>
+     <td><p>Meaning & Belonging</p></td>
+     <td><p>}</p></td>
+     <td><p><em>relationships</em></p></td>
   </tr>
-  <tr><td style="right; padding-left: 6px;"><em>relationships</em></td></tr>
-  <tr><td colspan="3"></td></tr>
   <tr>
-   <td rowspan="2"><p style="text-align: right; padding-right: 6px;">Transparency & Decentralization</p></td>
-   <td style="right; padding-left: 6px;"><strong>Commitments</strong></td>
+     <td><p>Commitments</p></td>
+     <td><p>>Transparency & Decentralization</p></td>
+     <td><p>}</p></td>
+     <td><p><em>autonomy</em></p></td>
   </tr>
-  <tr><td style="right; padding-left: 6px;"><em>autonomy</em></td></tr>
-  <tr><td colspan="3"></td></tr>
   <tr>
-   <td rowspan="2"><p style="text-align: right; padding-right: 6px;">Alignment & Experimentation</p></td>
-   <td style="right; padding-left: 6px;"><strong>Practices</strong></td>
+     <td><p>Practices</p></td>
+     <td><p>Alignment & Experimentation</p></td>
+     <td><p>}</p></td>
+     <td><p><em>collaboration</em></p></td>
   </tr>
-  <tr><td style="right; padding-left: 6px;"><em>collaboration</em></td></tr>
-  <tr><td colspan="3">&nbsp;</td></tr>
+  <tr>
+     <td>&nbsp;</td><td></td>
+     <td>&nbsp;</td><td></td>
+     <td>&nbsp;</td><td></td>
+     <td>&nbsp;</td><td></td>
+  </tr>
 </table>
 
   <h3>Evolution, Interrupted</h3>
