@@ -293,7 +293,7 @@ possibly top it. The particular community can retire a common good and open it
 to bids. The mechanism for doing so is up to community politics, and generally
 it may look like this,
 </p>
-<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="assets/img/en-politics.svg" alt="Three circles: the left-most is labeled LAND OPEN FOR BIGS. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes into a bigger circle labeled COMMON GOOD. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes to a smaller circle labeled LAND OPEN FOR BIGS." title="Common Goods and Politics">
+<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="assets/img/en-politics.svg" alt="Three circles: the left-most is labeled LAND OPEN FOR BIDS. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes into a bigger circle labeled COMMON GOOD. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes to a smaller circle labeled LAND OPEN FOR BIDS." title="Common Goods and Politics">
 <p>
 A community may denominate not enough or a whole lot of land in the “common
 good” category. The community will literally prosper or not by those kinds of
