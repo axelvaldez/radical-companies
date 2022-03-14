@@ -311,7 +311,6 @@ communities that are physically close and those which are logically close.
 </p>
 
 <br>
-<br>
 
 <h3>Surrounding Community</h3>
 <p>
@@ -320,7 +319,6 @@ community.
 </p>
 
 <br>
-<br>
 
 <h3>Improvements</h3>
 <p>
@@ -328,7 +326,6 @@ Anything added to the land in question. It could be houses, barns, irrigation,
 drainage, electricity, etc.
 </p>
 
-<br>
 <br>
 
 <h3>Occupier</h3>
@@ -347,7 +344,6 @@ note that it could be higher or lower than before. No matter, the market
 calculated a new value for the land and its improvements.
 </p>
 
-<br>
 <br>
 
 <h3>Winning Bid</h3>
