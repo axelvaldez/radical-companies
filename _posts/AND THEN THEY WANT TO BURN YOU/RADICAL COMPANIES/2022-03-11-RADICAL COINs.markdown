@@ -79,7 +79,8 @@ world-wide market that we can all play in without intermediaries.
   </tr>
   <tr><td>&nbsp;</td><td></td></tr>
 </table>
-<p>To avoid confusion, I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.</p>
+<p>To avoid confusion, I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.
+</p>
 
 <h2>Historical Perspective</h2>
 <p>
