@@ -275,7 +275,7 @@ then they embark on many experiments to get there..
   <tr>
      <td><p style="text-align: right; "><strong>Principles</strong></p></td>
      <td><p style="font-size: larger; ">{</p></td>
-     <td><p style="text-align: center; "p>Meaning & Belonging</p></td>
+     <td><p style="text-align: center; "><p>Meaning & Belonging</p></td>
      <td><p style="font-size: larger; ">}</p></td>
      <td><p style="text-align: left; "><em>relationships</em></p></td>
   <tr>

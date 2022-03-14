@@ -212,7 +212,7 @@ centered on trust, the type that comes from community and collaboration.
   <tr>
      <td><p style="text-align: right; "><strong>Principles</strong></p></td>
      <td><p style="font-size: larger; ">{</p></td>
-     <td><p style="text-align: center; "p>Meaning & Belonging</p></td>
+     <td><p style="text-align: center; "><p>Meaning & Belonging</p></td>
      <td><p style="font-size: larger; ">}</p></td>
      <td><p style="text-align: left; "><em>relationships</em></p></td>
   <tr>
