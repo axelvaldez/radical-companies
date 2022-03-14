@@ -165,7 +165,6 @@ then they embark on many experiments to get there.
      <td style="font-size: larger; ">}</td>
      <td style="text-align: left; "><em>autonomy</em></td>
   </tr>
-  xxxx
   <tr>
      <td style="text-align: right; "><strong>Practices</strong></td>
      <td style="font-size: larger; ">{</td>
