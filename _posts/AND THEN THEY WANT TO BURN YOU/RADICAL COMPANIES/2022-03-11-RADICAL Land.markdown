@@ -80,13 +80,14 @@ importantly, the value of contributions made by the community around it,
 The bidding system might look something like this,
 </p>
 <ul>
-<li>Rather than open for bids all the time, uninvited bidding may happen, say, once or twice a year.</li>
-<li>The current occupier, on the other hand, may invite bids at any time (<em>e.g.</em>, somebody moving out of a house).</li>
-<li>The bids would be verified to be in good faith.</li>
-<li>The winning bidder takes over as the new occupier. This could be the current occupier’s bid.</li>
-<li>Whereas land ownership today is static and never ending, a winning bidder occupies the land until the next winning bid.</li>
-<li>Taxes, or equivalent, will go up or down as the winning bids go up or down.</li>
+ <li>Rather than open for bids all the time, uninvited bidding may happen, say, once or twice a year.</li>
+ <li>The current occupier, on the other hand, may invite bids at any time (<em>e.g.</em>, somebody moving out of a house).</li>
+ <li>The bids would be verified to be in good faith.</li>
+ <li>The winning bidder takes over as the new occupier. This could be the current occupier’s bid.</li>
+ <li>Whereas land ownership today is static and never ending, a winning bidder occupies the land until the next winning bid.</li>
+ <li>Taxes, or equivalent, will go up or down as the winning bids go up or down.</li>
 </ul>
+<br>
 
 <h2>Taxes?</h2>
 <p>
