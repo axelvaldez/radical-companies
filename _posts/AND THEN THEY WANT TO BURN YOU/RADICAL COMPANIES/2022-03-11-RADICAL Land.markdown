@@ -71,7 +71,7 @@ xxx
     </p>
     <p style="font-size: smaller;">“EVERYBODY WORKS BUT THE VACANT LOT” – I paid $3600 for this lot and will hold ‘till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read “HENRY GEORGE”
     </p>
-    <p style="text-align: right; font-size: x-small; "><em>— Yours Truly, Fay Lewis</em><sup id="fnref2"><a href="#fn2"rel="footnote">2</a></sup>
+    <p style="text-align: right; font-size: smaller; "><em>— Yours Truly, Fay Lewis</em><sup id="fnref2"><a href="#fn2">2</a></sup>
     </p>
    </td>
   </tr>
