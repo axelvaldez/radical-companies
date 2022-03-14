@@ -153,9 +153,9 @@ then they embark on many experiments to get there.
 <table style="margin: auto; margin-bottom: 20px; ">
   <tr>
      <td style="text-align: right; "><strong>Principles</strong></td>
-     <td><p style="font-size: larger; ">{</p></td>
+     <td style="font-size: larger; ">{</td>
      <td style="text-align: center; ">Meaning & Belonging</td>
-     <td><p style="font-size: larger; ">}</td>
+     <td style="font-size: larger; ">}</td>
      <td style="text-align: left; "><em>relationships</em></td>
   </tr>
   <tr>
@@ -166,11 +166,11 @@ then they embark on many experiments to get there.
      <td style="text-align: left; "><em>autonomy</em></td>
   </tr>
   <tr>
-     <td><p style="text-align: right; "><strong>Practices</strong></p></td>
-     <td><p style="font-size: larger; ">{</p></td>
-     <td><p style="text-align: center; "><p>Alignment & Experimentation</p></td>
-     <td><p style="font-size: larger; ">}</p></td>
-     <td><p style="text-align: left; "><em>collaboration</em></p></td>
+     <td style="text-align: right; "><strong>Practices</strong></td>
+     <td style="font-size: larger; ">{</td>
+     <td style="text-align: center; "><p>Alignment & Experimentation</td>
+     <td style="font-size: larger; ">}</td>
+     <td style="text-align: left; "><em>collaboration</em></td>
   </tr>
 </table>
 
