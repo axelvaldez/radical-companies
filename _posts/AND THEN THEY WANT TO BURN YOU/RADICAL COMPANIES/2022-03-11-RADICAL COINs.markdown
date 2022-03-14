@@ -137,13 +137,7 @@ to do it, and <em>when</em> to do it. Here we assume a <SPAN STYLE="FONT-SIZE: S
 the same time, alike and different from our world today.
 </p>
 <p>
-In the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model, a <em>company</em> is a group of people coming together to
-create something bigger than each of them. Other labels abound, but we chose the
-word “company” because it has an interesting genesis: it comes from the Latin
-<em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means “together, with”
-and <em>pan</em> means “bread, food.” At its root, then, <em>company</em> means
-“people who break bread together.” In the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model a company is a community
-of people who come together to contribute broad value to society and make an
+In the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model, a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word “company” because it has an interesting genesis: it comes from Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means “together, with” and <em>pan</em> means “bread, food.” At its root, then, <em>company</em> means “people who break bread together.” In the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model a company is a community of people who come together to contribute broad value to society and make an
 impact on the world.
 </p>
 <p>
