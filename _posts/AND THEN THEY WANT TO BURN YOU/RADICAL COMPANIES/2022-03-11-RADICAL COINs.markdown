@@ -150,7 +150,7 @@ then they embark on many experiments to get there.
   <img src="assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
 </p>
 <p>They do this starting from a simple foundation of interdependence,</p>
-<table style="margin: auto; margin-bottom: 20px; ">
+<table style="margin: auto; margin-bottom: 40px; ">
   <tr>
      <td style="text-align: right; padding-right: 6px; "><em>principles</em></td>
      <td style="font-size: larger; ">{</td>
