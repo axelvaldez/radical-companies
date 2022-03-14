@@ -265,10 +265,17 @@ higher level of collaboration.
 </p>
 
 <h2>In Summary…</h2>
+<br>
+<br>
 
 <h1 style="text-align: center;">APPENDICES</h1>
+<br>
 
 <h2>Terminology</h2>
+<br>
+
+<br>
+<br>
 
 <h3>Common Good</h3>
 <p>
@@ -294,11 +301,17 @@ decisions. The RADICAL model decentralizing principle gives the people most
 immediately affected a strong voice in the process.
 </p>
 
+<br>
+<br>
+
 <h3>Hype-local Community</h3>
 <p>
 The community that is literally adjacent to the land in question. This includes
 communities that are physically close and those which are logically close.
 </p>
+
+<br>
+<br>
 
 <h3>Surrounding Community</h3>
 <p>
@@ -306,11 +319,17 @@ The community that is physically or logically adjacent to the hyper-local
 community.
 </p>
 
+<br>
+<br>
+
 <h3>Improvements</h3>
 <p>
 Anything added to the land in question. It could be houses, barns, irrigation,
 drainage, electricity, etc.
 </p>
+
+<br>
+<br>
 
 <h3>Occupier</h3>
 <p>
@@ -328,14 +347,25 @@ note that it could be higher or lower than before. No matter, the market
 calculated a new value for the land and its improvements.
 </p>
 
+<br>
+<br>
+
 <h3>Winning Bid</h3>
 <p>
 The highest bid.
 </p>
 
+<br>
+<br>
+
 <h1 style="text-align: center;">FAQ</h1>
 
+<br>
+
 <h3>Is risk associated with companies or with COINs?</h3>
+
+<br>
+<br>
 
 <h1 style="text-align: center;">Further Reading</h1>
 <ul>
