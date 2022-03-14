@@ -161,20 +161,23 @@ They do this starting from a simple foundation of interdependence,
 <table>
   <tr>
      <td style="padding-right: 6px; "><p>Principles</p></td>
+     <td><p style="font-size: larger; ">{</p></td>
      <td style="padding-left: 6px; "><p>Meaning & Belonging</p></td>
-     <td style="padding: 0 6px; "><p>}</p></td>
+     <td><p>}</p></td>
      <td><p><em>relationships</em></p></td>
   </tr>
   <tr>
      <td style="padding-right: 6px; "><p>Commitments</p></td>
+     <td><p style="font-size: larger; ">{</p></td>
      <td style="padding-left: 6px; "><p>Transparency & Decentralization</p></td>
-     <td style="padding: 0 6px; "><p>}</p></td>
+     <td><p>}</p></td>
      <td><p><em>autonomy</em></p></td>
   </tr>
   <tr>
      <td style="padding-right: 6px; "><p>Practices</p></td>
+     <td><p style="font-size: larger; ">{</p></td>
      <td style="padding-left: 6px; "><p>Alignment & Experimentation</p></td>
-     <td style="padding: 0 6px; "><p>}</p></td>
+     <td><p>}</p></td>
      <td><p><em>collaboration</em></p></td>
   </tr>
   <tr>
@@ -364,7 +367,8 @@ As guarantors of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s, how do compani
 <p>
 By comparison, companies are extremely stable because their reputation depends solely on how effective they are at creating value for society. That’s it. The worst that can happen is that a company mints <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s and then it is not able, or willing, to retire the debt. The financial impact of this would be insignificant; to wit, this is what happens today.
 </p>
-<h3>Fungible</h3>
+
+  <h3>Fungible</h3>
 <p>
 In today’s financial model, to be effective as a medium of exchange, money must be fungible—one coin is indistinguishable from all others. “Trying to use a non-fungible good as money results in transaction costs of individually evaluating each unit of the good before an exchange can take place.”<sup id="fnref15"><a href="#fn15" rel="footnote">15</a></sup>
 </p>
