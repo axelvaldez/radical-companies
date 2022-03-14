@@ -627,7 +627,7 @@ interpret the world.
 <br>
 <br>
 
-<h1 style="text-align: top; ">APPENDICES</h1>
+<h1 style="text-align: top; ">Appendices</h1>
 <br>
 
 <h2>Bad Actors</h2>
