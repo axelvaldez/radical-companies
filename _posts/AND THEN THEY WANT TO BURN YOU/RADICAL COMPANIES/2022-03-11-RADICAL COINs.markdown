@@ -153,25 +153,25 @@ then they embark on many experiments to get there.
 <table style="margin: auto; margin-bottom: 20px; ">
   <tr>
      <td><p style="text-align: right; "><strong>Principles</strong></p></td>
-     <td><p style="font-size: larger; "><</p></td>
+     <td><p style="font-size: larger; ">{</p></td>
      <td><p style="text-align: center; "><p>Meaning & Belonging</p></td>
      <td><p style="font-size: larger; ">}</p></td>
      <td><p style="text-align: left; "><em>relationships</em></p></td>
-  <tr>
+  </tr>
   <tr>
      <td><p style="text-align: right; "><strong>Commitments</strong></p></td>
      <td><p style="font-size: larger; ">{</p></td>
      <td><p style="text-align: center; "><p>Transparency & Decentralization</p></td>
      <td><p style="font-size: larger; ">}</p></td>
      <td><p style="text-align: left; "><em>autonomy</em></p></td>
-  <tr>
+  </tr>
   <tr>
      <td><p style="text-align: right; "><strong>Practices</strong></p></td>
      <td><p style="font-size: larger; ">{</p></td>
      <td><p style="text-align: center; "><p>Alignment & Experimentation</p></td>
      <td><p style="font-size: larger; ">}</p></td>
      <td><p style="text-align: left; "><em>collaboration</em></p></td>
-  <tr>
+  </tr>
 </table>
 
   <h3>Evolution, Interrupted</h3>
