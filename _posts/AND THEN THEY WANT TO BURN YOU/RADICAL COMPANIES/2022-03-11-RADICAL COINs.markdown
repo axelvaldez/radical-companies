@@ -328,8 +328,7 @@ This can result in any of these scenarios,
   </tr>
   <tr>
    <td style="vertical-align: text-top;"><strong style="padding-right: 6px; ">Not so Happy Ending</strong></td>
-   <td>BenCO has retired only two thirds of the minted <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s by the third year. It does retire all 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</, but later than promised.</td>
-  </tr>
+   <td>BenCO has retired only two thirds of the minted <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s by the third year. It does retire all 30,000 <span style="font-size: smaller; ">COIN</span>
   <tr>
    <td style="vertical-align: text-top;"><strong style="padding-right: 6px; ">Unhappy Ending</strong></td>
    <td>BenCO disbands and never creates enough value for society to pay the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s.</td>
