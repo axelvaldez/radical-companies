@@ -231,23 +231,20 @@ They do this starting from a simple foundation of interdependence,
 </p>
 <table style="margin: auto; margin-bottom: 20px; ">
   <tr>
-   <td rowspan="2"><p style="text-align: right">Meaning & Belonging</p></td>
+   <td rowspan="2"><p style="text-align: right; padding-top: 6px; ">Meaning & Belonging</p></td>
    <td><strong>Principles</strong></td>
   </tr>
-  <tr><td><em>relationships</em></td></tr>
-  <tr><td colspan="3"></td></tr>
+  <tr><td><em>Relationships</em></td></tr>
   <tr>
-   <td rowspan="2"><p style="text-align: right">Transparency & Decentralization</p></td>
+   <td rowspan="2"><p style="text-align: right; padding-top: 6px; ">Transparency & Decentralization</p></td>
    <td><strong>Commitments</strong></td>
   </tr>
-  <tr><td><em>autonomy</em></td></tr>
-  <tr><td colspan="3"></td></tr>
+  <tr><td><em>Autonomy</em></td></tr>
   <tr>
-   <td rowspan="2"><p style="text-align: right">Alignment & Experimentation</p></td>
+   <td rowspan="2"><p style="text-align: right; padding-top: 6px; ">Alignment & Experimentation</p></td>
    <td><strong>Practices</strong></td>
   </tr>
-  <tr><td><em>collaboration</em></td></tr>
-  <tr><td colspan="3">&nbsp;</td></tr>
+  <tr><td><em>Collaboration</em></td></tr>
 </table>
 
 <h3>Evolution</h3>
