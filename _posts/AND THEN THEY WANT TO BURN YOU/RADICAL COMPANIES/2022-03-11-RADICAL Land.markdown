@@ -304,7 +304,7 @@ immediately affected a strong voice in the process.
 <br>
 <br>
 
-<h3>Hype-local Community</h3>
+<h3>Hyper-local Community</h3>
 <p>
 The community that is literally adjacent to the land in question. This includes
 communities that are physically close and those which are logically close.
@@ -428,9 +428,17 @@ The highest bid.
 <div class="footnotes">
 <hr>
 <ol>
- <li id="fn1"><h6>Abraham Lincoln, 16th USA President. Speech to Germans at Cincinnati, Ohio, February 12, 1861 <<a href="https://radicals.world/5jV3VN">https://radicals.world/5jV3VN</a>></h6>&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a></li>
- <li id="fn2"><h6>Yanis Varoufakis. <em>Another Now by Yanis</em> <<a href="https://a.co/90kfjT7">https://a.co/90kfjT7</a>>. Melville House, 2021</p></h6>&nbsp;<a href="#fnref2" rev="footnote">&#8617;</a></li>
- <li id="fn3"><h6>Wikipedia Commons. <a href="https://radicals.world/GlK2oV">Political performance art by Fay Lewis in Rockford(Illinois), 1914</a>.</h6>&nbsp;<a href="#fnref3" rev="footnote">&#8617;</a></li>
- <li id="fn4"><h6>I must admit that this aspect of the RADICAL model would be a pushover for outer space FIAT  invaders.</h6>&nbsp;<a href="#fnref4" rev="footnote">&#8617;</a></li>
+ <li id="fn1">
+  <a href="#fnref1">n</a>
+  <h6>Abraham Lincoln, 16th USA President. Speech to Germans at Cincinnati, Ohio, February 12, 1861 <<a href="https://radicals.world/5jV3VN">https://radicals.world/5jV3VN</a>></h6></li>
+ <li id="fn2">
+  <a href="#fnref2">n</a>
+  <h6>Yanis Varoufakis. <em>Another Now by Yanis</em> <<a href="https://a.co/90kfjT7">https://a.co/90kfjT7</a>>. Melville House, 2021</p></h6></li>
+ <li id="fn3">
+  <a href="#fnref3">n</a>
+  <h6>Wikipedia Commons. <a href="https://radicals.world/GlK2oV">Political performance art by Fay Lewis in Rockford(Illinois), 1914</a>. <<a href="https://radicals.world/GlK2oV">https://radicals.world/GlK2oV</a>></li>
+ <li id="fn4">
+  <a href="#fnref4">n</a>
+  <h6>I must admit that this aspect of the RADICAL model would be a pushover for outer space FIAT  invaders.</h6></li>
 </ol>
 </div>
