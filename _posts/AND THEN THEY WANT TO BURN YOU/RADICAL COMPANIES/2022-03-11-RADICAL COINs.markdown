@@ -159,11 +159,11 @@ then they embark on many experiments to get there.
      <td style="text-align: left; "><em>relationships</em></td>
   </tr>
   <tr>
-     <td><p style="text-align: right; "><strong>Commitments</strong></p></td>
-     <td><p style="font-size: larger; ">{</p></td>
-     <td><p style="text-align: center; "><p>Transparency & Decentralization</p></td>
-     <td><p style="font-size: larger; ">}</p></td>
-     <td><p style="text-align: left; "><em>autonomy</em></p></td>
+     <td style="text-align: right; "><strong>Commitments</strong></td>
+     <td style="font-size: larger; ">{</td>
+     <td style="text-align: center; ">Transparency & Decentralization</td>
+     <td style="font-size: larger; ">}</td>
+     <td style="text-align: left; "><em>autonomy</em></td>
   </tr>
   <tr>
      <td><p style="text-align: right; "><strong>Practices</strong></p></td>
