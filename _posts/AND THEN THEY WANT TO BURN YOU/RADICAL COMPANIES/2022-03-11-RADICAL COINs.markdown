@@ -157,12 +157,12 @@ themselves according to the impact they want to make, why they are doing so, and
 then they embark on many experiments to get there.
 </p>
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: impact, purpose, and mission" title="Elements of Alignment">
+  <img src="assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: the middle finger is IMPACT, the index finger is PURPOSE, and the ring finger is MISSION" title="Elements of Alignment">
 </p>
 <p>They do this starting from a simple foundation of interdependence,</p>
 <table style="margin: auto; margin-bottom: 20px; ">
   <tr>
-   <td rowspan="2"><p style="text-align: ">Meaning & Belonging</p></td>
+   <td rowspan="2"><p style="text-align: right; padding-right: 6px; ">Meaning & Belonging</p></td>
    <td style="right; padding-left: 6px;"><strong>Principles</strong></td>
   </tr>
   <tr><td style="right; padding-left: 6px;"><em>relationships</em></td></tr>
