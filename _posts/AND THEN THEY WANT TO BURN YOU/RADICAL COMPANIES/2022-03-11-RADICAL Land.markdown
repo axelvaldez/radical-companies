@@ -205,11 +205,9 @@ centered on trust, the type that comes from community and collaboration.
 <p>Rather than having an owner and a hierarchy of bosses, a RADICAL company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.
 </p>
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: the middle finger is IMPACT, the index finger is PURPOSE, and the ring finger is MISSION" title="Elements of Alignment">
+  <img src="assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
 </p>
-<p>
-They do this starting from a simple foundation of interdependence,
-</p>
+<p>They do this starting from a simple foundation of interdependence,</p>
 <table style="margin: auto; margin-bottom: 20px; ">
   <tr>
    <td rowspan="2"><p style="text-align: right; padding-right: 6px; ">Meaning & Belonging</p></td>

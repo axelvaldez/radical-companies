@@ -147,39 +147,28 @@ themselves according to the impact they want to make, why they are doing so, and
 then they embark on many experiments to get there.
 </p>
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
+  <img src="assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
 </p>
-<p>
-They do this starting from a simple foundation of interdependence,
-</p>
-<table style="horizontal-align: center; ">
+<p>They do this starting from a simple foundation of interdependence,</p>
+<table style="margin: auto; margin-bottom: 20px; ">
   <tr>
-     <td style="padding-right: 6px; text-align: right; "><p><strong>Principles</strong></p></td>
-     <td><p style="font-size: larger; ">{</p></td>
-     <td style="padding: 0 6px; text-align: center; "><p>Meaning & Belonging</p></td>
-     <td><p style="font-size: larger; ">}</p></td>
-     <td style="padding-left: 6px; "><p><em>relationships</em></p></td>
+   <td rowspan="2"><p style="text-align: right; padding-right: 6px; ">Meaning & Belonging</p></td>
+   <td style="right; padding-left: 6px;"><strong>Principles</strong></td>
   </tr>
+  <tr><td style="right; padding-left: 6px;"><em>relationships</em></td></tr>
+  <tr><td colspan="3"></td></tr>
   <tr>
-     <td style="padding-right: 6px; text-align: right; "><p><strong>Commitments</strong></p></td>
-     <td><p style="font-size: larger; ">{</p></td>
-     <td style="padding: 0 6px; text-align: center; "><p>Transparency & Decentralization</p></td>
-     <td><p style="font-size: larger; ">}</p></td>
-     <td style="padding-left: 6px; "><p><em>autonomy</em></p></td>
+   <td rowspan="2"><p style="text-align: right; padding-right: 6px;">Transparency & Decentralization</p></td>
+   <td style="right; padding-left: 6px;"><strong>Commitments</strong></td>
   </tr>
+  <tr><td style="right; padding-left: 6px;"><em>autonomy</em></td></tr>
+  <tr><td colspan="3"></td></tr>
   <tr>
-     <td style="padding-right: 6px; text-align: right; "><p><strong>Practices</strong></p></td>
-     <td><p style="font-size: larger; ">{</p></td>
-     <td style="padding: 0 6px; text-align: center; "><p>Alignment & Experimentation</p></td>
-     <td><p style="font-size: larger; ">}</p></td>
-     <td style="padding-left: 6px; "><p><em>collaboration</em></p></td>
+   <td rowspan="2"><p style="text-align: right; padding-right: 6px;">Alignment & Experimentation</p></td>
+   <td style="right; padding-left: 6px;"><strong>Practices</strong></td>
   </tr>
-  <tr>
-     <td>&nbsp;</td><td></td>
-     <td>&nbsp;</td><td></td>
-     <td>&nbsp;</td><td></td>
-     <td>&nbsp;</td><td></td>
-  </tr>
+  <tr><td style="right; padding-left: 6px;"><em>collaboration</em></td></tr>
+  <tr><td colspan="3">&nbsp;</td></tr>
 </table>
 
   <h3>Evolution, Interrupted</h3>
