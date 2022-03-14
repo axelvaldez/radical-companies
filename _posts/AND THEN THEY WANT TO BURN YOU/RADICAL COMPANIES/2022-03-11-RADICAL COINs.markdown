@@ -6,12 +6,12 @@ authors:  "Matt Perez"
 image:    "book.jpg"
 ---
 
-<div style="display: none;">National fiat money is the problem, and so is our system of loans and investment. <span style="font-size: smaller; ">RADICAL</span>COINs is a potential solution.</div>
+<div style="display: none;">National fiat money is the problem, and so is our system of loans and investment. <span style="font-size: smaller; ">RADICAL COIN</span>s is a potential solution.</div>
 
 <br>
 <br>
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; ">If Kings had figured out
+<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; ">If Kings had figured out 
 fiat money,
 we'd still be His Majesty's subjects</pre>
 <br>
@@ -28,13 +28,11 @@ people. This is problematic and leads to the most serious problems we face
 today.
 </p>
 <p>
-For this and other reasons, I now believe that we should have a <SPAN STYLE="font-size: smaller; ">RADICAL COIN</SPAN>
-that doesn’t have the baggage of national fiat money and can help us transform
-our economy to be more human-centric.<sup id="fnref2"><a href="#fn2"
+For this and other reasons, I now believe that we should have a <SPAN STYLE="font-size: smaller; ">RADICAL COIN</SPAN> that doesn’t have the baggage of national fiat money and can help us transform our economy to be more human-centric.<sup id="fnref2"><a href="#fn2"
 rel="footnote">2</a></sup>
 </p>
 <p>
-Like today’s money, COINs function as,
+Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function as,
 </p>
 <ul>
 <li>A unit of measure</li>
@@ -42,17 +40,15 @@ Like today’s money, COINs function as,
 <li>Medium of exchange</li>
 </ul>
 <p>
-In addition, and this is critical, COINs are transparent in the sense that an
-integral part of each COIN is its log of information from which potential risks
+In addition, and this is critical, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are transparent in the sense that an
+integral part of each <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is its log of information from which potential risks
 and benefits can be calculated.
 </p>
 <p>
-COINs are also decentralized. Companies will be the guarantors of COINs. Not
-banks. Not governments. Not international accords. This will make the costs of
-all transactions negligible.
+<SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are also decentralized. Companies will be the guarantors of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s. Not banks. Not governments. Not international accords. This will make the costs of all transactions negligible.
 </p>
 <p>
-Our goal is that a decentralized and transparent COIN will make possible a
+Our goal is that a decentralized and transparent <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> will make possible a
 world-wide market that we can all play in without intermediaries.
 </p>
 
@@ -84,14 +80,14 @@ world-wide market that we can all play in without intermediaries.
 
 <h2>Historical Perspective</h2>
 <p>
-COINs are not to be confused, or conflated, with local or complementary
+<SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are not to be confused, or conflated, with local or complementary
 currencies, demurrage money, or any such.<sup id="fnref5"><a href="#fn5"
 rel="footnote">5</a></sup> Ditto for Mutualism, Marxism, or any other theory or
-ideology. The point of COIN is to make it possible to have a market, free of
+ideology. The point of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is to make it possible to have a market, free of
 intermediaries, and with negligible costs.
 </p>
 <p>
-In fact, although they are not identical, COINs are very similar to national
+In fact, although they are not identical, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are very similar to national
 fiat coins. They are a unit of measure, a store of value, and a medium of
 exchange, but with these twists,
 </p>
@@ -99,8 +95,8 @@ exchange, but with these twists,
   <li>They represent value at its broadest. In addition to financial value, they account for wellbeing, contributions, acts of kindness, and all the other things that are important to people.</li>
   <li>They spread risks and benefits through society. We all share in the adventure: the burden of risk and the joys of gains.</li>
   <li>
-    COINs bypass the complications and costs brought about by banks, exchanges, national politics,<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup> and the influence of transnationals.<sup id="fnref7"><a href="#fn7" rel="footnote">7</a></sup>
-    <p>COINs have the potential to enable a world-wide market. This will help us break out of our national silos, create an economy that’s decentralized and transparent.</p>
+    <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s bypass the complications and costs brought about by banks, exchanges, national politics,<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup> and the influence of transnationals.<sup id="fnref7"><a href="#fn7" rel="footnote">7</a></sup>
+    <p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s have the potential to enable a world-wide market. This will help us break out of our national silos, create an economy that’s decentralized and transparent.</p>
   </li>
 </ol>
 
@@ -208,7 +204,7 @@ government for minutes, meters, or the Internet, some of the most useful
 world-wide tools of all time.
 </p>
 <p>
-A decentralized, transparent COIN is fundamental to such a unified market. These
+A decentralized, transparent <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is fundamental to such a unified market. These
 are some of the other things we would need to nourish and support a world-wide
 market,
 </p>
@@ -237,14 +233,14 @@ manipulation.
 
   <h3>Decentralized Minting</h3>
 <p>
-We need decentralized minting of COINs to take national and international
+We need decentralized minting of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s to take national and international
 politics out of it and to eliminate the influence of transnational corporations.
 </p>
 <p>
-COINs are minted by companies, not any national government or central banks.
+<SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are minted by companies, not any national government or central banks.
 </p>
 
-  <h3>Transparent COINs</h3>
+  <h3>Transparent <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s</h3>
 <p>
 National fiat coins are opaque. In theory that’s good because it reduces
 transaction costs. But this “reduction of costs” also disables human choice.
@@ -254,9 +250,7 @@ In any case, the big transaction costs are those that banks, exchanges, and
 political manipulation bring in. And opaqueness does not reduce any of those.
 </p>
 <p>
-<SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN </SPAN>s are transparent. An integral part of each COIN is the log that
-comes along with them. This will restore people’s  ability to make choices based
-on that information.
+<SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s are transparent. An integral part of each <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is the log that comes along with them. This will restore people’s  ability to make choices based on that information.
 </p>
 
   <h3>Trusted Measure</h3>
@@ -270,7 +264,7 @@ In a rural setting somebody will get RADs for milking a goat, while in an urban
 setting someone else will get RADs for stopping cars so children can cross the
 street. The same human feeling that acted in the rural case was active in the
 urban setting. The value of capturing that feeling in tangible ways is more
-important than its number accuracy. RADs, and the COINs that they factor, can be
+important than its number accuracy. RADs, and the <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s that they factor, can be
 trusted because the “pricing engine,” meaning each of us, is the same.
 </p>
 
@@ -299,33 +293,30 @@ broad value created by a company.
 <p>
 Because broad value accounts for things other than financial value, RADs account
 for the uncountable.<sup id="fnref11"><a href="#fn11"
-rel="footnote">11</a></sup> And because COINs are <em>factored through</em>
-RADs, they represent broad value as well. In other words, each person's share of
-COINs is a function of their contributions and reflects the full spectrum of
-human values, not just financial value.
+rel="footnote">11</a></sup> And because <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are <em>factored through</em> RADs, they represent broad value as well. In other words, each person's share of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s is a function of their contributions and reflects the full spectrum of human values, not just financial value.
 </p>
 
-<h2>COIN</h2>
+<h2><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN></h2>
 <p>
-These are a few of the qualities that a COIN must have. They are in no
+These are a few of the qualities that a <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> must have. They are in no
 particular order.
 </p>
 
   <h3>Decentralized Minting</h3>
 <p>
-COINs are minted by companies, not a national government.
+<SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are minted by companies, not a national government.
 </p>
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
   <img src="assets/img/en-decentralized-minting.svg" alt="A company gets REVENUE comes in, at the top, and sneds COINs go out to the world, at the bottom. In parallel, a company mints its own COINs, as needed and they go out to the world mixed in with revenue COINs." title="Decentralizd Minting">
 </p>
 <p>
-For example, BenCO mints 30,000 COINs and promises to repay them in three years. All this information goes on a transparent digital store (<em>e.g.</em>, blockchain or similar secure) that would include, at a minimum,
+For example, BenCO mints 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span> and promises to repay them in three years. All this information goes on a transparent digital store (<em>e.g.</em>, blockchain or similar secure) that would include, at a minimum,
 </p>
 <ul>
-<li>The amount of COINs (30,000),</li>
+<li>The amount of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span> (30,000),</li>
 <li>The name of the company which minted them (BenCO),</li>
 <li>The retiring terms (three years),</li>
-<li>The repayment terms (10,000 COINs/year).</li>
+<li>The repayment terms (10,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>/year).</li>
 </ul>
 <p>
 This can result in any of these scenarios,
@@ -333,20 +324,20 @@ This can result in any of these scenarios,
 <table>
   <tr>
    <td style="vertical-align: text-top;"><strong>Happy Ending</strong></td>
-   <td>BenCO retires the 30,000 COINs within three years, as promised.</td>
+   <td>BenCO retires the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span> within three years, as promised.</td>
   </tr>
   <tr>
    <td><strong>Not so Happy Ending</strong></td>
-   <td>BenCO has retired only two thirds of the minted COIN by the third year. It does retire all 30,000 COIN, but later than promised.</td>
+   <td>BenCO has retired only two thirds of the minted <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</ by the third year. It does retire all 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</, but later than promised.</td>
   </tr>
   <tr>
    <td><strong>Unhappy Ending</strong></td>
-   <td>BenCO disbands and never creates enough value for society to pay the 30,000 COINs.</td>
+   <td>BenCO disbands and never creates enough value for society to pay the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</s.</td>
   </tr>
 </table>
 <br>
 <p>
-A seller’s app can calculate a risk factor based on the BenCO COIN’s log <em>and</em> her particular preset parameters. Each of us can let the apps do the calculations and, based on that, decide whether or not to take the BenCO COINs as payment.<sup id="fnref12"><a href="#fn12" rel="footnote">12</a></sup>
+A seller’s app can calculate a risk factor based on the BenCO <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>’s log <em>and</em> her particular preset parameters. Each of us can let the apps do the calculations and, based on that, decide whether or not to take the BenCO <span style="font-size: smaller; ">COIN</span>s as payment.<sup id="fnref12"><a href="#fn12" rel="footnote">12</a></sup>
 </p>
 
   <h3>Stability</h3>
@@ -361,56 +352,25 @@ Sterling (£). These national fiat coinage are backed up by strong, stable
 economies. At least, that’s how the story goes.
 </p>
 <p>
-As guarantors of COINs, how do companies compare with national economies? For
-one, national economies are not as stable as all that and financial crises
-happen on a cyclical basis.<sup id="fnref13"><a href="#fn13"
-rel="footnote">13</a></sup> For another, people invariably find ways to exploit
-some aspect of the financial system for private gain. Politicians are very good
-at this and manipulate national economies shamelessly. For example, in 1971 then
-President Nixon renounced gold as a standard and blamed it mostly on De Gaulle’s
-policies. In reality, he did it to maintain “global economic dominance and to
-improve economic conditions at home.”<sup id="fnref14"><a href="#fn14"
-rel="footnote">14</a></sup>
+As guarantors of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s, how do companies compare with national economies? For one, national economies are not as stable as all that and financial crises happen on a cyclical basis.<sup id="fnref13"><a href="#fn13" rel="footnote">13</a></sup> For another, people invariably find ways to exploit some aspect of the financial system for private gain. Politicians are very good at this and manipulate national economies shamelessly. For example, in 1971 then President Nixon renounced gold as a standard and blamed it mostly on De Gaulle’s policies. In reality, he did it to maintain “global economic dominance and to improve economic conditions at home.”<sup id="fnref14"><a href="#fn14" rel="footnote">14</a></sup>
 </p>
 <p>
-By comparison, companies are extremely stable because their reputation depends
-solely on how effective they are at creating value for society. That’s it. The
-worst that can happen is that a company mints COINs and then it is not able, or
-willing, to retire the debt. The financial impact of this would be
-insignificant; to wit, this is what happens today.
+By comparison, companies are extremely stable because their reputation depends solely on how effective they are at creating value for society. That’s it. The worst that can happen is that a company mints <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s and then it is not able, or willing, to retire the debt. The financial impact of this would be insignificant; to wit, this is what happens today.
 </p>
 <h3>Fungible</h3>
 <p>
-In today’s financial model, to be effective as a medium of exchange, money must
-be fungible—one coin is indistinguishable from all others. “Trying to use a
-non-fungible good as money results in transaction costs of individually
-evaluating each unit of the good before an exchange can take place.”<sup
-id="fnref15"><a href="#fn15" rel="footnote">15</a></sup>
+In today’s financial model, to be effective as a medium of exchange, money must be fungible—one coin is indistinguishable from all others. “Trying to use a non-fungible good as money results in transaction costs of individually evaluating each unit of the good before an exchange can take place.”<sup id="fnref15"><a href="#fn15" rel="footnote">15</a></sup>
 </p>
 <p>
-Thankfully, COINs are fungible, world-wide. Their transaction costs, nationally
-and internationally, are negligible. Their only transaction cost is that of
-“evaluating” each payment and whether or not to accept the risk associated with
-it. But this is automated and insignificant. The other cost is deciding whether
-to accept a given mix of COINs as payment, and that carries no financial cost
-since most transactions would be driven by the app’s results and the few
-exceptions to it would be driven by people to people relationships. This takes
-those transactions out of the financial realm and into a people-to-people
-one.<sup id="fnref16"><a href="#fn16" rel="footnote">16</a></sup>
+Thankfully, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are fungible, world-wide. Their transaction costs, nationally and internationally, are negligible. Their only transaction cost is that of “evaluating” each payment and whether or not to accept the risk associated with it. But this is automated and insignificant. The other cost is deciding whether to accept a given mix of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s as payment, and that carries no financial cost since most transactions would be driven by the app’s results and the few exceptions to it would be driven by people to people relationships. This takes those transactions out of the financial realm and into a people-to-people one.<sup id="fnref16"><a href="#fn16" rel="footnote">16</a></sup>
 </p>
 
   <h3>Broad Value</h3>
 <p>
-To be robust, a COIN needs to be tied to value creation, and COINs are. In fact
-they represent more than financial value. Their value also represents wellbeing,
-acts of kindness, and whatever else people consider important. And since COINs
-are factored through RADs they represent broad value contributions as well.
+To be robust, a <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> needs to be tied to value creation, and <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are. In fact they represent more than financial value. Their value also represents wellbeing, acts of kindness, and whatever else people consider important. And since COINs are factored through RADs they represent broad value contributions as well.
 </p>
 <p>
-For example, if the RADs that have been allocated to me amount to 10% of the
-total and yours to 20%, this means that our fellow co-owners decided that you
-contributed twice as much as I did. As a result you get twice as many COINs as I
-do.
+For example, if the RADs that have been allocated to me amount to 10% of the total and yours to 20%, this means that our fellow co-owners decided that you contributed twice as much as I did. As a result you get twice as many COINs as I do.
 </p>
 
   <h3>Transparent</h3>
