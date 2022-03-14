@@ -210,23 +210,26 @@ centered on trust, the type that comes from community and collaboration.
 <p>They do this starting from a simple foundation of interdependence,</p>
 <table style="margin: auto; margin-bottom: 20px; ">
   <tr>
-   <td rowspan="2"><p style="text-align: right; padding-right: 6px; ">Meaning & Belonging</p></td>
-   <td style="right; padding-left: 6px;"><strong>Principles</strong></td>
-  </tr>
-  <tr><td style="right; padding-left: 6px;"><em>relationships</em></td></tr>
-  <tr><td colspan="3"></td></tr>
+     <td><p style="text-align: right; "><strong>Principles</strong></p></td>
+     <td><p style="font-size: larger; ">{</p></td>
+     <td><p style="text-align: center; "p>Meaning & Belonging</p></td>
+     <td><p style="font-size: larger; ">}</p></td>
+     <td><p style="text-align: left; "><em>relationships</em></p></td>
   <tr>
-   <td rowspan="2"><p style="text-align: right; padding-right: 6px;">Transparency & Decentralization</p></td>
-   <td style="right; padding-left: 6px;"><strong>Commitments</strong></td>
-  </tr>
-  <tr><td style="right; padding-left: 6px;"><em>autonomy</em></td></tr>
-  <tr><td colspan="3"></td></tr>
   <tr>
-   <td rowspan="2"><p style="text-align: right; padding-right: 6px;">Alignment & Experimentation</p></td>
-   <td style="right; padding-left: 6px;"><strong>Practices</strong></td>
-  </tr>
-  <tr><td style="right; padding-left: 6px;"><em>collaboration</em></td></tr>
-  <tr><td colspan="3">&nbsp;</td></tr>
+     <td><p style="text-align: right; "><strong>Commitments</strong></p></td>
+     <td><p style="font-size: larger; ">{</p></td>
+     <td><p style="text-align: center; "><p>Transparency & Decentralization</p></td>
+     <td><p style="font-size: larger; ">}</p></td>
+     <td><p style="text-align: left; "><em>autonomy</em></p></td>
+  <tr>
+  <tr>
+     <td><p style="text-align: right; "><strong>Practices</strong></p></td>
+     <td><p style="font-size: larger; ">{</p></td>
+     <td><p style="text-align: center; "><p>Alignment & Experimentation</p></td>
+     <td><p style="font-size: larger; ">}</p></td>
+     <td><p style="text-align: left; "><em>collaboration</em></p></td>
+  <tr>
 </table>
 
  <h3>Evolution</h3>
