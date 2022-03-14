@@ -331,7 +331,7 @@ calculated a new value for the land and its improvements.
 
  <h3>Winning Bid</h3>
 <p>
-The highest bid.
+The highest bid on any parcel of land.
 </p>
 
 <br>
