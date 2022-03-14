@@ -152,23 +152,23 @@ then they embark on many experiments to get there.
 <p>They do this starting from a simple foundation of interdependence,</p>
 <table style="margin: auto; margin-bottom: 20px; ">
   <tr>
-     <td style="text-align: right; "><strong>Principles</strong></td>
+     <td style="text-align: right; "><em>principles</em></td>
      <td style="font-size: larger; ">{</td>
-     <td style="text-align: center; ">Meaning & Belonging</td>
+     <td style="text-align: center; "><strong>Meaning & Belonging</strong></td>
      <td style="font-size: larger; ">}</td>
      <td style="text-align: left; "><em>relationships</em></td>
   </tr>
   <tr>
-     <td style="text-align: right; "><strong>Commitments</strong></td>
+     <td style="text-align: right; "><strong>commitments</strong></td>
      <td style="font-size: larger; ">{</td>
-     <td style="text-align: center; ">Transparency & Decentralization</td>
+     <td style="text-align: center; "><strong>Transparency & Decentralization</strong></td>
      <td style="font-size: larger; ">}</td>
      <td style="text-align: left; "><em>autonomy</em></td>
   </tr>
   <tr>
-     <td style="text-align: right; "><strong>Practices</strong></td>
+     <td style="text-align: right; "><strong>cractices</strong></td>
      <td style="font-size: larger; ">{</td>
-     <td style="text-align: center; ">Alignment & Experimentation</td>
+     <td style="text-align: center; "><strong>Alignment & Experimentation</strong></td>
      <td style="font-size: larger; ">}</td>
      <td style="text-align: left; "><em>collaboration</em></td>
   </tr>
