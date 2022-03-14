@@ -401,8 +401,9 @@ The highest bid on any parcel of land.
 <br>
 <br>
 
-<h1 style="text-align: center;">ENDNOTES</h1>
+<h1 style="text-align: center;">Endnotes</h1>
 <hr>
+<div class="endnotes">
  <ol>
   <li id="fn1">
    <h6>
