@@ -23,49 +23,24 @@ And then they build monuments to you</pre>
 
 <h2>… After All These Years</h2>
 <p>
-Not long after Ping’s death, the world has moved quickly from under the FIAT
-choke. Some national governments resurfaced, but that didn’t last long.
-Communities had come into being, but this time they were very fluid and took on
-different shapes as needed, like musical ensembles that changed as new
-instruments came in and out.
+Not long after Ping’s death, the world has moved quickly from under the FIAT choke. Some national governments resurfaced, but that didn’t last long. Communities had come into being, but this time they were very fluid and took on different shapes as needed, like musical ensembles that changed as new instruments came in and out.
 </p>
 <p>
-A few communities had stuck to FIAT ways, but most were slowly evolving.
-Communities broke away from the ones that didn’t evolve fast enough for them.
-They could see what was going on with their neighbors and experimented with
-no-FIAT ways. Then, starting early in 2065, many of the FIAT regions started to
-make it hard to break away and by the end of the year they had declared borders
-and completely closed them. In many ways, they were reminiscent of the old North
-Korean and Cuban dictatorships.
+A few communities had stuck to FIAT ways, but most were slowly evolving. Communities broke away from the ones that didn’t evolve fast enough for them. They could see what was going on with their neighbors and experimented with no-FIAT ways. Then, starting early in 2065, many of the FIAT regions started to make it hard to break away and by the end of the year they had declared borders and completely closed them. In many ways, they were reminiscent of the old North Korean and Cuban dictatorships.
 </p>
 <p>
-The few of us who had lived through these regimes in the late and early
-21<sup>th</sup> century were mildly concerned at first. By the time these
-regions had declared borders more people had become worried and were now paying
-attention. Then, when they closed their borders, most people were highly
-alarmed. The off Earth Surface (FES) people who had lived under the Earth
-Authority’s rule were more than alarmed and began to prepare for the worst.
+The few of us who had lived through these regimes in the late and early 21<sup>th</sup> century were mildly concerned at first. By the time these regions had declared borders more people had become worried and were now paying attention. Then, when they closed their borders, most people were highly alarmed. The off Earth Surface (FES) people who had lived under the Earth Authority’s rule were more than alarmed and began to prepare for the worst.
 </p>
 
 <h2>Petra and Ignatius</h2>
 <p>
-They went back to their units, resigned to fight for the only home they knew.
-They, all 19 youths, understood that the whole Bracia aggression was aimed at
-anchoring the power of the hierarchy over the people in their domain.
-Nevertheless, they went back. They were not prisoners and we invited them to
-visit whatever Ensemble they chose, but by next morning all but two remained.
+They went back to their units, resigned to fight for the only home they knew. They, all 19 youths, understood that the whole Bracia aggression was aimed at anchoring the power of the hierarchy over the people in their domain. Nevertheless, they went back. They were not prisoners and we invited them to visit whatever Ensemble they chose, but by next morning all but two remained.
 </p>
 <p>
-They, a young woman and man, held fast to each other and trembled every so
-often, even though their quarters were kept at a comfortable temperature. “The
-other went back. We didn’t. Obviously,” said the young woman. “They’ll report us
-as dead. We want to get as far away as we can from The Bracia.” I looked at them
-and was about to speak when he said, softly, “Yes, both of us. Together.”
+They, a young woman and man, held fast to each other and trembled every so often, even though their quarters were kept at a comfortable temperature. “The other went back. We didn’t. Obviously,” said the young woman. “They’ll report us as dead. We want to get as far away as we can from The Bracia.” I looked at them and was about to speak when he said, softly, “Yes, both of us. Together.”
 </p>
 <p>
-“Even if half of what you say is a lie,” she said, “we’d rather stay out of that
-hell on Earth Surface.” I was surprised how she mixed “hell” and “Earth Surface”
-in the same sentence. All I managed to say was, “Uh, OK. Then follow me.”
+“Even if half of what you say is a lie,” she said, “we’d rather stay out of that hell on Earth Surface.” I was surprised how she mixed “hell” and “Earth Surface” in the same sentence. All I managed to say was, “Uh, OK. Then follow me.”
 </p>
 <p>
 I walked ahead of them, and without turning asked them their names.
@@ -77,75 +52,47 @@ I walked ahead of them, and without turning asked them their names.
 “And I am Petra. I am 16. I am married, but it doesn’t matter. Not anymore.”
 </p>
 <p>
-“El<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> help us,” said
-Ignatious, under his breath. But Petra heard him. “El Shaddai is not going to
-help us. El is a burden on us, on all The Bracia. We have to help ourselves. We
-have to trust that these people will help us. If you want to pray, pray that
-they’d be Yahweh M'kaddesh.”
+“El<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> help us,” said Ignatious, under his breath. But Petra heard him. “El Shaddai is not going to help us. El is a burden on us, on all The Bracia. We have to help ourselves. We have to trust that these people will help us. If you want to pray, pray that they’d be Yahweh M'kaddesh.”
 </p>
 <p>
-“I am not praying,” said Ignatious, “it was just something I said. Don’t let
-your amygdala rule you.”
+“I am not praying,” said Ignatious, “it was just something I said. Don’t let your amygdala rule you.”
 </p>
 <p>
-Petra chuckled and I took a quick glance, enough to see her giving him an
-awkward hug as they walked behind me.
+Petra chuckled and I took a quick glance, enough to see them walking in an awkward hug as they walked behind me.
 </p>
 
 <h2>Over the Hill</h2>
 <p>
-About three days later one of the people who had returned was found down from
-the hoodoos on the crest of a nearby hill. It seemed that he had spent the whole
-night there. It looked like he had been beaten and had bite marks in his legs
-and hips. He was almost nakes and we looked more dead than alive.
+About three days later one of the people who had returned was found down from the hoodoos on the crest of a nearby hill. It seemed that he had spent the whole night there. It looked like he had been beaten and had bite marks in his legs and hips. He was almost nakes and we looked more dead than alive.
 </p>
 <p>
-He stayed under an induced coma for almost three days. When he came out of it,
-the first words out of his mouth were, “your brother’s dead.” The woman nurse
-was taken aback, but she quickly realized that he was delirious and had confused
-her for somebody else. It didn’t take long for the word to get back to Petra
-that her brother was dead.
+He stayed under an induced coma for almost three days. When he came out of it, the first words out of his mouth were, “your brother’s dead.” The woman nurse was taken aback, but she quickly realized that he was delirious and had confused her for somebody else. It didn’t take long for the word to get back to Petra that her brother was dead.
 </p>
 <p>
-“Evidently, he took his own life when they found out that you and Ignacious were
-not dead after all. They found out when a few of the others confessed.”
+“Evidently, he took his own life when they found out that you and Ignacious were not dead after all. They found out when a few of the others confessed.”
 </p>
 <p>
-“‘Confessions’ my eye. They were tortured, alright, but…” Ignatius stopped in
-mid sentence and glimpsed at Petra.
+“‘Confessions’ my eye. They were tortured, alright, but…” Ignatius stopped in mid sentence and glimpsed at Petra.
 </p>
 <p>
-“Yes, unless they declared what he said a mortal sin,” Petra said. “They… they
-made him kill himself.” She stopped talking, her face became hard, and she
-dropped her head. I made a gesture to hug her and she hugged me hard. Just as
-suddenly, she let go and said, “when can we leave?”
+“Yes, unless they declared what he said a mortal sin,” Petra said. “They… they made him kill himself.” She stopped talking, her face became hard, and she dropped her head. I made a gesture to hug her and she hugged me hard. Just as suddenly, she let go and said, “when can we leave?”
 </p>
 <p>
 “I’ll grab my gear and we can go.”
 </p>
 <p>
-They stayed outside while I changed into my field outfit and picked up my
-backpack. I called for a cruiser and both of them looked at first horrified as
-it came towards us and then surprised when it came to a stop. “I take it you
-have not seen autonomous transports before?”
+They stayed outside while I changed into my field outfit and picked up my backpack. I called for a cruiser and both of them looked at first horrified as it came towards us and then surprised when it came to a stop. “I take it you have not seen autonomous transports before?”
 </p>
 <p>
-“Yes, we have them, but only a few and all at the service of the Far, the Prime,
-and his closests people.” Preta said and then she looked at Ignatius.
+“Yes, we have them, but only a few and all at the service of the Far, the Prime, and his closests people.” Preta said and then she looked at Ignatius.
 </p>
 <p>
-“The rumors were right, I guess,” he said. Looking at me, he explained, “the
-official line was that those transports navigated with El’s guidance and only
-worked for the Far and his Bosses because of their exalted DNA. But rumor had it
-that it was technology developed outside The Bracia.
+“The rumors were right, I guess,” he said. Looking at me, he explained, “the official line was that those transports navigated with El’s guidance and only worked for the Far and his Bosses because of their exalted DNA. But rumor had it that it was technology developed outside The Bracia.
 </p>
 
 <h2>From Hurricane to Talking</h2>
 <p>
-We headed for another community, southeast of us. Ignatius slept for the first
-part of the trip, but Petra stayed up and watched our surroundings, intensely,
-as we moved. The cruiser kept at a reasonable speed so Petra could see all she
-wanted to see.
+We headed for another community, southeast of us. Ignatius slept for the first part of the trip, but Petra stayed up and watched our surroundings, intensely, as we moved. The cruiser kept at a reasonable speed so Petra could see all she wanted to see.
 </p>
 <p>
 Finally, they approached a village and stopped in front of a multi-story house.
@@ -157,53 +104,31 @@ Finally, they approached a village and stopped in front of a multi-story house.
 “Who is Zion?” said Ignatious, snapping to full awareness after a long sleep.
 </p>
 <p>
-“Oh, no, it’s nobody… It doesn’t mean that this is the property of somebody
-called Zion… it’s just the name of this village. It used to be called Cedar
-Points but they adopted Tiny Getaway as their name.”
+“Oh, no, it’s nobody… It doesn’t mean that this is the property of somebody called Zion… it’s just the name of this village. It used to be called Cedar Points but they adopted Tiny Getaway as their name.”
 </p>
 <p>
-“Are we going to be safe here?,” asked Petra, “Is there a defense unit here? Is
-that why we are stopping here?” She seemed to be on tippy toes, ready to jump.
-After the relaxing trip watching nature’s beauty, coming to a stop brought out
-her daemons.
+“Are we going to be safe here?,” asked Petra, “Is there a defense unit here? Is that why we are stopping here?” She seemed to be on tippy toes, ready to jump. After the relaxing trip watching nature’s beauty, coming to a stop brought out her daemons.
 </p>
 <p>
-“Look,” I said, “we could keep going if you’d like, or we can stop here for a
-bit, rest, and then keep going. I wanted to rest and you might want to learn
-something about the way other people live while we travel away from The Bracia.
-But, don’t worry we are getting away from them.”
+“Look,” I said, “we could keep going if you’d like, or we can stop here for a bit, rest, and then keep going. I wanted to rest and you might want to learn something about the way other people live while we travel away from The Bracia. But, don’t worry we are getting away from them.”
 </p>
 <p>
-Petra relaxed a bit and Ignatius started to take the gear we had provided them
-out of the frunk. It was becoming obvious how well they complemented each other.
+Petra relaxed a bit and Ignatius started to take the gear we had provided them out of the frunk. It was becoming obvious how well they complemented each other.
 </p>
 <p>
-“But you didn’t ask us,” Petra was curious, not angry. “But, that’s OK, you’re
-the boss. BTW, this is kind of small or something.” Then, she turned to Ignatius
-and said, “It’s like it’s missing the rest of the compound, right?”
+“But you didn’t ask us,” Petra was curious, not angry. “But, that’s OK, you’re the boss. BTW, this is kind of small or something.” Then, she turned to Ignatius and said, “It’s like it’s missing the rest of the compound, right?”
 </p>
 <p>
-“This was built as a home for a family. Now it is co-owned by the local company,
-including most of the villagers, and they rent it for parties, or working, or
-whatever. I rented the whole thing so you have plenty of space to decompress.
-Later, we could have other people over if we want.”
+“This was built as a home for a family. Now it is co-owned by the local company, including most of the villagers, and they rent it for parties, or working, or whatever. I rented the whole thing so you have plenty of space to decompress. Later, we could have other people over if we want.”
 </p>
 <p>
-Ignatius dropped the gear he had taken out of the car and ran upstairs. Petra,
-still grasping her gear, walked straight to the backyard. I took that time to
-set up the rooms, leaving the one closer to the stairs for Petra and dropping
-Ignatius gear in the other one. I took one on the other side of the hallway.
+Ignatius dropped the gear he had taken out of the car and ran upstairs. Petra, still grasping her gear, walked straight to the backyard. I took that time to set up the rooms, leaving the one closer to the stairs for Petra and dropping Ignatius gear in the other one. I took one on the other side of the hallway.
 </p>
 <p>
-After setting up my room, Ignatius and I talked a bit at the top of the stairs
-and Petra came up.
+After setting up my room, Ignatius and I talked a bit at the top of the stairs and Petra came up.
 </p>
 <p>
-“BTW, you learn fast. You are right that we normally would consult with one
-another, but as I see you both are babes in the woods when it comes to life
-outside The Bracia. I am still trying to figure things out, so please forgive
-me. I will treat you like the adults you are, but you have to tell me when I go
-overboard or if something does not make sense to you.”
+“BTW, you learn fast. You are right that we normally would consult with one another, but as I see you both are babes in the woods when it comes to life outside The Bracia. I am still trying to figure things out, so please forgive me. I will treat you like the adults you are, but you have to tell me when I go overboard or if something does not make sense to you.”
 </p>
 <p>
 “You mean, like, ‘who’s Zion’?” Ignatius had a wicker smile on as he said it.
@@ -220,13 +145,10 @@ overboard or if something does not make sense to you.”
 “I looked,” Ignatius said. “It’s mostly clothes in there”
 </p>
 <p>
-“Yes, but… let’s go over it, OK? Most of it is the usual higiene stuff, but I
-want to tell you about the clothes, like the overall I am wearing.” In the half
-gloom of the landing, I turned it on. “Do you see it glow?”
+“Yes, but… let’s go over it, OK? Most of it is the usual higiene stuff, but I want to tell you about the clothes, like the overall I am wearing.” In the half gloom of the landing, I turned it on. “Do you see it glow?”
 </p>
 <p>
-“Oh, yeah.” said Petra, as she got closer and her arm extended towards my
-shoulder. “That’s something. Can I touch it?”
+“Oh, yeah.” said Petra, as she got closer and her arm extended towards my shoulder. “That’s something. Can I touch it?”
 </p>
 <p>
 “Of course. But you can do that with your clothes, too.”
