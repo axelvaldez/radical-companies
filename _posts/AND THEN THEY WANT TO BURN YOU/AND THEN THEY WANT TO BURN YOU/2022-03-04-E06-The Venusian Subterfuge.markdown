@@ -3,7 +3,7 @@ layout:   post
 title:    "AND THEN THEY WANT TO BURN YOU"
 subtitle: "EPISODE 06 – The Venusian Subterfuge"
 authors:  "Adrian Perez"
-image:    "book.jpg"
+image:    "and-then-e06.png"
 ---
 
 <div style="display: none;">The Venus Habitat had figured out how to escape the Earth Authority's rules, but the good times are running out.</div>
