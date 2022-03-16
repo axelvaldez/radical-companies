@@ -3,7 +3,7 @@ layout:   post
 title:    "AND THEN THEY WANT TO BURN YOU"
 subtitle: "EPISODE 04 – A Fear Fest"
 authors:  "Matt Perez & Adrian Perez"
-image:    "book.jpg"
+image:    "and-then-e04.png"
 ---
 
 <div style="display: none;">Vic discovered fear and how can make people bend to your will. He thought that was a good thing.</div>
