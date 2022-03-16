@@ -3,7 +3,7 @@ layout:   post
 title:    "AND THEN THEY WANT TO BURN YOU"
 subtitle: "EPISODE 05 – My Baby Wrote Me a Letter"
 authors:  "Matt Perez & Adrian Perez"
-image:    "book.jpg"
+image:    "and-then-e05.png"
 ---
 
 <div style="display: none;">Sammie figures out how to simulate the future that we may get if we keep going this way.</div>
