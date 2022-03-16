@@ -3,7 +3,7 @@ layout:   post
 title:    "AND THEN THEY WANT TO BURN YOU"
 subtitle: "EPISODE 02 – Sweet Home Chicago"
 authors:  "Matt Perez & Adrian Perez"
-image:    "book.jpg"
+image:    "and-then-e02.png"
 ---
 
 <div style="display: none;">Sammie brings their child, Munjez, to Vic, but s. She is in for a surprise.
@@ -11,14 +11,12 @@ image:    "book.jpg"
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">First they ignore you.
 Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
+
 <br>
 <br>
 
