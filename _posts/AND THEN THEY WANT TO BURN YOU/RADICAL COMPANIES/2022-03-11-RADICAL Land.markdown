@@ -3,7 +3,7 @@ layout:   post
 title:    "RADICAL Land"
 subtitle: "A Salute to Henry George"
 authors:  "Matt Perez"
-image:    "book.jpg"
+image:    "en-vacant-lot-henry-george.svg"
 ---
 
 <div style="display: none;">What about land?.</div>
@@ -61,7 +61,7 @@ importantly, the value of contributions made by the community around it,
 <table>
   <tr>
    <td>
-    <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;"> <img src="/assets/img/een-vacant-lot-henry-george.svg" alt="Picture of a street sign that reads: EVERYBODY WORKS BUT THE VACANT LOT. I paid $3600 for this lot and will hold till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read HENRY GEORGE. Yours truly, Fay Lewis." title="Vacant Lot">
+    <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;"> <img src="/assets/img/en-vacant-lot-henry-george.svg" alt="Picture of a street sign that reads: EVERYBODY WORKS BUT THE VACANT LOT. I paid $3600 for this lot and will hold till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read HENRY GEORGE. Yours truly, Fay Lewis." title="Vacant Lot">
     </p>
     <p style="font-size: smaller;">“EVERYBODY WORKS BUT THE VACANT LOT” – I paid $3600 for this lot and will hold ‘till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read “HENRY GEORGE”
     </p>
