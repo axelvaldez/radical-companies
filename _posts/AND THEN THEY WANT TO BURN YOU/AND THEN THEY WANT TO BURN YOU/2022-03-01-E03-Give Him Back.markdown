@@ -3,7 +3,7 @@ layout:   post
 title:   "AND THEN THEY WANT TO BURN YOU"
 subtitle: "EPISODE 03 – Give Him Back"
 authors:  "Matt Perez & Adrian Perez"
-image:    "book.jpg"
+image:    "and-then-e03.png"
 ---
 
 <div style="display: none;">Sammie discovers her grandmother, Hanne Nader, with the help of the Wormholes. And that technology can also wreck havoc with Vic's plans.</div>
