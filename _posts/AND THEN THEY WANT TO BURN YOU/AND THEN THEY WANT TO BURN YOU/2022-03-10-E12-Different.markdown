@@ -3,7 +3,7 @@ layout:   post
 title:    "AND THEN THEY WANT TO BURN YOU"
 subtitle: "EPISODE 12 – Different"
 authors:  "Matt Perez"
-image:    "book.jpg"
+image:    "and-then-e12.png"
 ---
 
 <div style="display: none;">Petra and Ignatius learn about the other side lives. Without violence and fear.</div>
@@ -15,6 +15,7 @@ image:    "book.jpg"
 Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
+
 <br>
 <br>
 

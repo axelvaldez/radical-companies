@@ -3,7 +3,7 @@ layout:   post
 title:    "AND THEN THEY WANT TO BURN YOU"
 subtitle: "EPISODE 09 – Would-Be Masters"
 authors:  "Matt Perez"
-image:    "book.jpg"
+image:    "and-then-e09.png"
 ---
 
 <div style="display: none;">Off and On. Off and On. Off and On.</div>

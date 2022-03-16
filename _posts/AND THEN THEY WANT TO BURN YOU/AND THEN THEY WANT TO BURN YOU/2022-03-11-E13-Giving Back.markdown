@@ -3,7 +3,7 @@ layout:   post
 title:    "AND THEN THEY WANT TO BURN YOU"
 subtitle: "EPISODE 13 – Giving Back"
 authors:  "Matt Perez"
-image:    "book.jpg"
+image:    "and-then-e13.png"
 ---
 
 <div style="display: none;">How can one battle people bent on violence without wielding violence yourself? Let's talk about it…</div>
@@ -15,6 +15,7 @@ image:    "book.jpg"
 Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
+
 <br>
 <br>
 

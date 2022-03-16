@@ -3,7 +3,7 @@ layout:   post
 title:    "AND THEN THEY WANT TO BURN YOU"
 subtitle: "EPISODE 10 – The End. The Beginning"
 authors:  "Matt Perez"
-image:    "book.jpg"
+image:    "and-then-e10.png"
 ---
 
 <div style="display: none;">Was it a fortunate accident? Sabotage? In the end, it all came unraveled and humanity was evolving again.</div>
@@ -15,6 +15,7 @@ image:    "book.jpg"
 Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
+
 <br>
 <br>
 

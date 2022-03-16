@@ -3,7 +3,7 @@ layout:   post
 title:    "AND THEN THEY WANT TO BURN YOU"
 subtitle: "EPISODE 11 – The FIAT Enclaves"
 authors:  "Matt Perez"
-image:    "book.jpg"
+image:    "and-then-e11.png"
 ---
 
 <div style="display: none;">In a world that got away from the strictly FIAT system quickly, there are still communities that cling to it. 
@@ -16,6 +16,7 @@ image:    "book.jpg"
 Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
+
 <br>
 <br>
 
