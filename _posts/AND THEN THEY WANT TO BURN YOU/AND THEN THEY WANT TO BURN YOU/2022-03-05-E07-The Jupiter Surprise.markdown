@@ -3,7 +3,7 @@ layout:   post
 title:    "AND THEN THEY WANT TO BURN YOU"
 subtitle: "EPISODE 07 – The Jupiter Surprise "
 authors:  "Matt Perez"
-image:    "book.jpg"
+image:    "and-then-e07.png"
 ---
 
 <div style="display: none;">The Jupiter Habitats get infected. Actually, the get invaded by Marines. And a splendid time was guaranteed for all.</div>
@@ -15,6 +15,7 @@ image:    "book.jpg"
 Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
+
 <br>
 <br>
 
