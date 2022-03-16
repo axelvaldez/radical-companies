@@ -3,7 +3,7 @@ layout:   post
 title:    "RADICAL COINs"
 subtitle: "FOR a WORLD-WIDE MARKET"
 authors:  "Matt Perez"
-image:    "book.jpg"
+image:    "en-decentralized-minting.svg"
 ---
 
 <div style="display: none;">National fiat money is the problem, and so is our system of loans and investment. <span style="font-size: smaller; ">RADICAL COIN</span>s is a potential solution.</div>
@@ -14,6 +14,7 @@ image:    "book.jpg"
 <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; ">If Kings had figured out 
 fiat money,
 we'd still be His Majesty's subjects</pre>
+
 <br>
 <br>
 
