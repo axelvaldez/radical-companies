@@ -61,7 +61,7 @@ importantly, the value of contributions made by the community around it,
 <table>
   <tr>
    <td>
-    <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;"> <img src="assets/img/een-vacant-lot-henry-george.svg" alt="Picture of a street sign that reads: EVERYBODY WORKS BUT THE VACANT LOT. I paid $3600 for this lot and will hold till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read HENRY GEORGE. Yours truly, Fay Lewis." title="Vacant Lot">
+    <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;"> <img src="/assets/img/een-vacant-lot-henry-george.svg" alt="Picture of a street sign that reads: EVERYBODY WORKS BUT THE VACANT LOT. I paid $3600 for this lot and will hold till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read HENRY GEORGE. Yours truly, Fay Lewis." title="Vacant Lot">
     </p>
     <p style="font-size: smaller;">“EVERYBODY WORKS BUT THE VACANT LOT” – I paid $3600 for this lot and will hold ‘till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read “HENRY GEORGE”
     </p>
@@ -102,7 +102,7 @@ question. The community fund could then be governed as follows,
 <li>The fourth controls 6%.</li>
 <li>The fifth controls 3%.</li>
 </ul>
-<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="assets/img/en-community-fund-not-taxes.svg" alt="Five concentric circles: at the center is the Occupier with 49%; around it is the Hyper-Local Community circle with 27%; next is the Surrounding Community with 15%; next could be the Region with 6% and the State with 3% of the fund." title="Community Fund – Not Taxes">
+<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="/assets/img/en-community-fund-not-taxes.svg" alt="Five concentric circles: at the center is the Occupier with 49%; around it is the Hyper-Local Community circle with 27%; next is the Surrounding Community with 15%; next could be the Region with 6% and the State with 3% of the fund." title="Community Fund – Not Taxes">
 <p>
 The occupier has a big say in the use of the funds that she is contributing to
 the community. She may not be able to add a new room, but what’s in it for her
@@ -156,7 +156,7 @@ projects may pool their funds to create a bullet train through the region. Keep
 in mind that when aggregated, Region and State circles have a pretty big pool of
 actual cash to create common goods.
 </p>
-<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="assets/img/en-community-funds-intertwined.svg" alt="Five intertwined circles. the top two are intertwined at the Hyper-Local Community level (in yellow). Next two circle are intertwined at the Community level (l)ight orange). Next two are intertwined at the Region level (liht pink). The last two are intertwined at the State level (light brown)." title="Community Funds–Intertwined">
+<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="/assets/img/en-community-funds-intertwined.svg" alt="Five intertwined circles. the top two are intertwined at the Hyper-Local Community level (in yellow). Next two circle are intertwined at the Community level (l)ight orange). Next two are intertwined at the Region level (liht pink). The last two are intertwined at the State level (light brown)." title="Community Funds–Intertwined">
 <p>
 <p>
 A couple of unpolished thoughts,
@@ -205,7 +205,7 @@ centered on trust, the type that comes from community and collaboration.
 <p>Rather than having an owner and a hierarchy of bosses, a RADICAL company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.
 </p>
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
+  <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
 </p>
 <p>They do this starting from a simple foundation of interdependence,</p>
 <table style="margin: auto; margin-bottom: 40px; ">
@@ -275,7 +275,7 @@ possibly top it. The particular community can retire a common good and open it
 to bids. The mechanism for doing so is up to community politics, and generally
 it may look like this,
 </p>
-<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="assets/img/en-politics.svg" alt="Three circles: the left-most is labeled LAND OPEN FOR BIDS. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes into a bigger circle labeled COMMON GOOD. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes to a smaller circle labeled LAND OPEN FOR BIDS." title="Common Goods and Politics">
+<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="/assets/img/en-politics.svg" alt="Three circles: the left-most is labeled LAND OPEN FOR BIDS. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes into a bigger circle labeled COMMON GOOD. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes to a smaller circle labeled LAND OPEN FOR BIDS." title="Common Goods and Politics">
 <p>
 A community may denominate not enough or a whole lot of land in the “common
 good” category. The community will literally prosper or not by those kinds of
