@@ -148,7 +148,7 @@ themselves according to the impact they want to make, why they are doing so, and
 then they embark on many experiments to get there.
 </p>
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
+  <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
 </p>
 <p>They do this starting from a simple foundation of interdependence,</p>
 <table style="margin: auto; margin-bottom: 40px; ">
@@ -305,7 +305,7 @@ particular order.
 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are minted by companies, not a national government.
 </p>
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="assets/img/en-decentralized-minting.svg" alt="A company gets REVENUE comes in, at the top, and sneds COINs go out to the world, at the bottom. In parallel, a company mints its own COINs, as needed and they go out to the world mixed in with revenue COINs." title="Decentralizd Minting">
+  <img src="/assets/img/en-decentralized-minting.svg" alt="A company gets REVENUE comes in, at the top, and sneds COINs go out to the world, at the bottom. In parallel, a company mints its own COINs, as needed and they go out to the world mixed in with revenue COINs." title="Decentralizd Minting">
 </p>
 <p>
 For example, BenCO mints 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span> and promises to repay them in three years. All this information goes on a transparent digital store (<em>e.g.</em>, blockchain or similar secure) that would include, at a minimum,
@@ -475,7 +475,7 @@ people even paid taxes earlier rather than let their currency “rot.”
   <tr>
    <td>
    <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-    <img src="assets/img/en-worgl.svg" alt="Five of the stamps that were applied to the back of the local currency that the town of Wörgl, Austria minted in the 1930s in response to the Great Depression." title="Wörgl Stamps">
+    <img src="/assets/img/en-worgl.svg" alt="Five of the stamps that were applied to the back of the local currency that the town of Wörgl, Austria minted in the 1930s in response to the Great Depression." title="Wörgl Stamps">
    </td>
   </tr>
   <tr>
@@ -505,7 +505,7 @@ not to accept it.
 </p>
 <p>
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="assets/img/en-rad-auto-inflation.svg" alt="Table, with RISKS along the horizontal and BENEFITS along the vertical axis. WHen COINs are low in RISKS and BENEFITS, there is high acceptance of them. When COINs come with high RISKS and low BENEFITS, or low RISKS and high BENEFITS, there some resistance and acceptance of them. When COINs have high RISKS and high BENEFITS, there is high resistance to accepting them. " title="COIN RISKS and BENEFITS">
+  <img src="/assets/img/en-rad-auto-inflation.svg" alt="Table, with RISKS along the horizontal and BENEFITS along the vertical axis. WHen COINs are low in RISKS and BENEFITS, there is high acceptance of them. When COINs come with high RISKS and low BENEFITS, or low RISKS and high BENEFITS, there some resistance and acceptance of them. When COINs have high RISKS and high BENEFITS, there is high resistance to accepting them. " title="COIN RISKS and BENEFITS">
 </p>
 
   <h3>Calculating Risk</h3>
@@ -534,7 +534,7 @@ companies.
 </p>
 <p>
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="assets/img/en-rads-value-increase.svg" alt="Table. Four columns by three rows. First row: After Month 1; +100 in Revenue;+100 New RADs; each RAD is worth one 100th; or one COIN per RAD. After month 2: revenue is up by 1000; +100 New RADs; each worth one 200th of total; or 10 COINs per RAD. After Month 3: revenue has gone up by 5000; +100 New RADs; each woth one 300%th; or 50 COINs per RAD." title="Decentralizd Minting">
+  <img src="/assets/img/en-rads-value-increase.svg" alt="Table. Four columns by three rows. First row: After Month 1; +100 in Revenue;+100 New RADs; each RAD is worth one 100th; or one COIN per RAD. After month 2: revenue is up by 1000; +100 New RADs; each worth one 200th of total; or 10 COINs per RAD. After Month 3: revenue has gone up by 5000; +100 New RADs; each woth one 300%th; or 50 COINs per RAD." title="Decentralizd Minting">
 </p>
 
   <h3>Other Value Factors</h3>
@@ -643,13 +643,13 @@ more efficient or maybe its products or services are more valuable. Either way,
 BenCO’s co-owners end up with less buying power than JerryCO’s co-owners.
 </p>
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="assets/img/en-rad-auto-inflation-a.svg" alt="Two tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 100 COINs. Second row is RAD DISTRIBUTION, distributed as 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. They each get 10, 20, 30, and 40 COINs. For JerryCO: the EARNED DIVIDENDS  row shows +1000 New for a TOTAL of 1000 COINs. The RAD DISTRIBUTION in the second row is as follows: 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. This is the same as for BenCO, but in the JerryCO case the first person gets 100 instead of 10, the second 200 instead of 20, the third 300 instead of 30, and the fourth 400 COINs instead of 40. The BenCO co-owners end up with less buying power than JerryCO's co-owners." title="Varying Buying Powers A">
+  <img src="/assets/img/en-rad-auto-inflation-a.svg" alt="Two tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 100 COINs. Second row is RAD DISTRIBUTION, distributed as 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. They each get 10, 20, 30, and 40 COINs. For JerryCO: the EARNED DIVIDENDS  row shows +1000 New for a TOTAL of 1000 COINs. The RAD DISTRIBUTION in the second row is as follows: 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. This is the same as for BenCO, but in the JerryCO case the first person gets 100 instead of 10, the second 200 instead of 20, the third 300 instead of 30, and the fourth 400 COINs instead of 40. The BenCO co-owners end up with less buying power than JerryCO's co-owners." title="Varying Buying Powers A">
 </p>
 <p>
 Within each company, the buying power of an individual co-owner, too, can change every cycle. For example, in the illustration above, by the third cycle <strong>Ⓔ</strong>, a JerryCO co-owner who started with 100 COINs, now has 1,200 which are enough to buy 30 dozen of my potatoes. Other other hand, JerryCO co-owner <strong>Ⓗ</strong> didn't get any COINs this cycle and he only has 600 COINs and has to settle for 15 dozen of my potatoes.
 </p>
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="assets/img/en-rad-auto-inflation-b.svg" alt="Four tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 200 COINs. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 23% for the fourth. They each get 40, 70, 30, and 60 COINs. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +1000 New for a TOTAL of 2000 COINs. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 30% for the fourth (the same as for BenCO). They each get 400, 700, 300, and 600 COINs. Below there are two more tables. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 300 COINs. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth. They each get 120, 45, 45, and 60 COINs. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +1000 New for a TOTAL of 3000 COINs. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth (the same as for BenCO). They each get 1200, 450, 450, and 600 COINs. Some JerryCO co-owners have more COINs than others." title="Varying Buying Powers between and within companies">
+  <img src="/assets/img/en-rad-auto-inflation-b.svg" alt="Four tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 200 COINs. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 23% for the fourth. They each get 40, 70, 30, and 60 COINs. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +1000 New for a TOTAL of 2000 COINs. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 30% for the fourth (the same as for BenCO). They each get 400, 700, 300, and 600 COINs. Below there are two more tables. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 300 COINs. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth. They each get 120, 45, 45, and 60 COINs. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +1000 New for a TOTAL of 3000 COINs. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth (the same as for BenCO). They each get 1200, 450, 450, and 600 COINs. Some JerryCO co-owners have more COINs than others." title="Varying Buying Powers between and within companies">
 </p>
 
 <h1 style="text-align: center; ">FAQ</h1>
