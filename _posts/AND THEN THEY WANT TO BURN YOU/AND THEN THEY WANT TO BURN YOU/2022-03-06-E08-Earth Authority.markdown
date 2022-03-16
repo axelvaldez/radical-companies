@@ -3,7 +3,7 @@ layout:   post
 title:    "AND THEN THEY WANT TO BURN YOU"
 subtitle: "EPISODE 08 – Earth Authority"
 authors:  "Matt Perez"
-image:    "book.jpg"
+image:    "and-then-e08.png"
 ---
 
 <div style="display: none;">Sammie use Mirror Worms and other technology to confuse other Worms and technology.</div>
