@@ -167,7 +167,7 @@ then they embark on many experiments to get there.
      <td style="text-align: left; padding-left: 6px; "><em>autonomy</em></td>
   </tr>
   <tr>
-     <td style="text-align: right; padding-right: 6px; "><em>cractices</em></td>
+     <td style="text-align: right; padding-right: 6px; "><em>practices</em></td>
      <td style="font-size: larger; ">{</td>
      <td style="text-align: center; "><strong>Alignment & Experimentation</strong></td>
      <td style="font-size: larger; ">}</td>
