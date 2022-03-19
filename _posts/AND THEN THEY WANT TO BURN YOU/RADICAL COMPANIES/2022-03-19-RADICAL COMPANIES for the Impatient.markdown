@@ -34,7 +34,6 @@ Every company is different because the people who embody it are different, so ev
   <td>⬈</td>
  </tr>
  <tr><td colspan="4">&nbsp;</td></tr>
- </tr>
 </table>
 <table>
  <tr>
