@@ -29,7 +29,7 @@ Every company is different because the people who embody it are different, so ev
   <td rowspan="2" style="vertical-align: top; "><p>relationships</p></td>
  </tr>
  <tr>
-  <td style="width: 3in; text-align: right; padding-right: 2m; "><em>principles</em></td>
+  <td style="width: 3in; text-align: right; padding-right: 2em; "><em>principles</em></td>
   <td style="width: 2in; background-color: #dddddd; text-align: center; "><strong>Meaning & Belonging</strong></td>
   <td>⬈</td>
  </tr>
@@ -41,7 +41,7 @@ Every company is different because the people who embody it are different, so ev
   <td rowspan="2" style="vertical-align: top; "><p>autonomy</p></td>
  </tr>
  <tr>
-  <td style="width: 3in; text-align: right; padding-right: 2m; "><em>commitments</em></td>
+  <td style="width: 3in; text-align: right; padding-right: 2em; "><em>commitments</em></td>
   <td style="width: 2in; background-color: #dddddd; text-align: center; "><strong>Transparency & Decentralization</strong></td>
   <td>⬈</td>
  </tr>
@@ -53,7 +53,7 @@ Every company is different because the people who embody it are different, so ev
   <td rowspan="2" style="vertical-align: top; "><p>collaboration</p></td>
  </tr>
  <tr>
-  <td style="width: 3in; text-align: right; padding-right: 2m; "><em>practices</em></td>
+  <td style="width: 3in; text-align: right; padding-right: 2em; "><em>practices</em></td>
   <td style="width: 2in; background-color: #dddddd; text-align: center; "><strong>Alignment & Experimentation</strong></td>
   <td>⬈</td>
  </tr>
