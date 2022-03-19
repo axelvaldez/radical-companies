@@ -21,7 +21,7 @@ image:    "en-vacant-lot-henry-george.svg"
 
 <h2>A Three Legged Stool</h2>
 <p>
-Every company is different because the people who embody it are different, so every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN> different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence,
+Every company is different because the people who embody it are different, so every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN> different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence, xxx
 </p>
 <table>
  <tr>
