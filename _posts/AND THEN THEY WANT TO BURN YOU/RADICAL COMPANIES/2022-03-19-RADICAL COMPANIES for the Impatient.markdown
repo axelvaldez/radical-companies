@@ -223,7 +223,7 @@ Every company is different because the people who embody it are different, so ev
     <tr>
      <th><p style="text-align: right; text-align: top; padding-right: 1m; ; ">Teams</p>
      </th>
-     <td>Teams can be represented by a Banner. “re: Recognize our IT support team for how they handled the storm.”
+     <td><p style="font-size: larger; text-align: center; ">Teams can be represented by a Banner. “re: Recognize our IT support team for how they handled the storm.”</p>
      </td>
     </tr>
     <tr>
