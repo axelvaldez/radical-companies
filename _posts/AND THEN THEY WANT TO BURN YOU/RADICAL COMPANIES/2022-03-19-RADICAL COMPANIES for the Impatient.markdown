@@ -21,7 +21,7 @@ image:    "en-vacant-lot-henry-george.svg"
 
 <h2>A Three Legged Stool</h2>
 <p>
-Every company is different because the people who embody it are different, so every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN> different from a FIAT business is that it starts from a simple foundation of interdependence,
+Every company is different because the people who embody it are different, so every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN> different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence,
 </p>
 <table>
 <tr>
@@ -48,7 +48,7 @@ Every company is different because the people who embody it are different, so ev
 </table>
 <p>Other principles and practices can be layered on top of them, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN> these are essential, otherwise it is just a FIAT business with ain’t-we-nice sprinkled on top.
 </p>
-<p>Unlike in a FIAT business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time.
+<p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time.
 </p>
 <p style="font-size: smaller; ">“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>
 </p>
@@ -212,7 +212,7 @@ Every company is different because the people who embody it are different, so ev
    <tr>
     <th><p style="text-align: right; text-align: top; padding-right: 1m; ; ">Experimental Projects</p>
     </th>
-    <td>At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects and things like Google News came out of it. That was a generous policy given by the FIAT owners, but the same owners later took it away.
+    <td>At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects and things like Google News came out of it. That was a generous policy given by the <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> owners, but the same owners later took it away.
       <p>For a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN> the equivalent thing would be to put up a “20%” Banner and co-owners could allocate RADs to it as they see fit. Or more specifically, a “Google News” Banner could fund that specific project.
       </p>
     </td>
@@ -220,7 +220,7 @@ Every company is different because the people who embody it are different, so ev
    <tr>
     <th><p style="text-align: right; text-align: top; padding-right: 1m; ">Investments</p>
     </th>
-    <td>In FIAT businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has more to do with ego, like a pharaoh’s pyramid.
+    <td>In <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has more to do with ego, like a pharaoh’s pyramid.
       <p>In a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN>, anybody can put up a “New building” Banner and allow co-owners to contribute to the funding of it or not.
       </p>
     </td>
@@ -277,7 +277,7 @@ Every company is different because the people who embody it are different, so ev
 <br>
 
   <h2>Predictable Recurring Income (PRI)</h2>
-  <p>When you really think about it, “salary” is a FIAT tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> context.
+  <p>When you really think about it, “salary” is a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> context.
   </p>
   <p>The PRI is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),
   </p>
