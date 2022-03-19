@@ -190,25 +190,25 @@ Every company is different because the people who embody it are different, so ev
   </p>
   <table>
    <tr>
-    <td><p style="text-align: right">Teams</p>
-    </td>
+    <th><p style="text-align: right; text-align: top; padding-right: 1m; ; ">Teams</p>
+    </th>
     <td>Teams can be represented by a Banner. “re: Recognize our IT support team for how they handled the storm.”
     </td>
    </tr>
    <tr>
-    <td><p style="text-align: right">Special Accomplishment</p>
+    <td><p style="text-align: right; text-align: top; padding-right: 1m; ; ">Special Accomplishment</p>
     </td>
     <td>“Margot deserves to be recognized for stewarding the creation of our training platform.”
     </td>
    </tr>
    <tr>
-    <td><p style="text-align: right">Community</p>
+    <td><p style="text-align: right; text-align: top; padding-right: 1m; ; ">Community</p>
     </td>
     <td>For example, a “No Noise” banner could fund a sound barrier around a noisy factory. A “River Walk” banner could fund a clean up and beautification of a stream that runs nearby. One could even fund a local vet hospital to help it recover from a fire.
     </td>
    </tr>
    <tr>
-    <td><p style="text-align: right">Experimental Projects</p>
+    <td><p style="text-align: right; text-align: top; padding-right: 1m; ; ">Experimental Projects</p>
     </td>
     <td>At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects and things like Google News came out of it. That was a generous policy given by the FIAT owners, but the same owners later took it away.
       <p>For a RADICAL company the equivalent thing would be to put up a “20%” Banner and co-owners could allocate RADs to it as they see fit. Or more specifically, a “Google News” Banner could fund that specific project.
@@ -216,7 +216,7 @@ Every company is different because the people who embody it are different, so ev
     </td>
    </tr>
    <tr>
-    <td><p style="text-align: right">Investments</p>
+    <td><p style="text-align: right; text-align: top; padding-right: 1m; ">Investments</p>
     </td>
     <td>In FIAT businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has more to do with ego, like a pharaoh’s pyramid.
       <p>In a RADICAL company, anybody can put up a “New building” Banner and allow co-owners to contribute to the funding of it or not.
