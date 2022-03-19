@@ -6,7 +6,10 @@ authors:  "Matt PEREZ | Adrian PEREZ | Jose LEAL"
 image:    "en-vacant-lot-henry-george.svg"
 ---
 
-<h1 style="font-size: larger; text-align: center; ">1. The RADICAL Model</h1>
+<h1 style="text-align: center; ">1. The RADICAL Model</h1>
+
+<br>
+<br>
 
 <h1>What Ails Us</h1>
 <p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.
@@ -316,15 +319,15 @@ Anybody who wants to can call for a feedback session after a Distribution. In pa
 </ul>
 <p>This first scenario is what normally happens at the start of a company: it doesn’t generate enough revenue to cover everybody’s PRI. In this case, we would need an investment or loan to put in the PRI Account so we can use it to meet the amount of PRI each person has set.
 </p>
-<p><img src="" alt="" title="">
+<p><img src="assets/img/dynamic-distribution-1" alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
 </p>
 <p>In the breakeven case we finally get to pay ourselves fully from the revenue that we’ve generated. Even in this case, some people may need to draw from the Predictable Recurring Income (PRI) Account, maybe because their PRI are high, or their RADs are low, or both.
 </p>
-<p><img src="" alt="" title="">
+<p><img src="assets/img/dynamic-distribution-2"  alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
 </p>
 <p>At some point, after we’ve been steadily growing our revenue, no money is coming out of our Predictable Recurring Income (PRI). This is when we start disbursing Earned Dividends in addition to covering everybody’s PRI.
 </p>
-<p><img src="" alt="" title="">
+<p><img src="assets/img/dynamic-distribution-3"  alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
 </p>
 <p>Notice that even though dividends are up, Julio continues to draw from the PRI Account because his PRI is pretty high and his RAD count is pretty low. He may want to change his PRI or get feedback on why his RADs are so low.
 </p>
@@ -332,7 +335,61 @@ Anybody who wants to can call for a feedback session after a Distribution. In pa
 <h1>By Comparison</h1>
 <p>This way of sharing the wealth should yield, at worst, the same as today’s VC system but with less risk and a huge increase in the number of beneficiaries.
 </p>
-<p><img src="" alt="" title="">
+<p><img src="bank-vs-vcs-vs-radical.svg" alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear at a little over half way into RISKS and half way up YIELD. RADICAL appear at a little less than half way into RISKS and nine tenth of the way up YIELD. The one on the right has RISKS on the horizontal axis and BENEFICIARIES on the vertical axis. As in the previous graph, BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear seven tenth of the way into RISKS and one fourth of the way up YIELD. As in the previous graph, RADICAL appear at a little less than half way into RISKS and nine tenth of the way up YIELD." title="Comparing Banks, VCs, and RADICAL.">
 </p>
 
-<h1>References</h1>
+<br>
+<br>
+
+<h1 style="text-align: center; ">Related</h1>
+<ul>
+  <li><span style="font-size: smaller; ">RADICAL COMPANIES</span>,</li>
+    <ul>
+    <li>EN: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
+    <li>ES: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
+    <li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
+    <li>Frequently Asked Questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
+  </ul>
+  <li>The Missing Chapters,</li>
+  <ul>
+    <li><a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu"><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN></a></li>
+    <li><a href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76">RADICAL LAND</a></li>
+    <li><a href="https://docs.google.com/document/d/1P4tZw1iAAnJtP2zlijgttIv1Cxq47PBPzqK3UbMHCSY/edit#">RADICAL GOVERNMENT</a></li> 
+  </ul>
+  <li>rCompanies</li>
+  <ul>
+    <li>rPRADERA MEDIA</li>
+    <ul>
+      <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA SHELF</a></li>
+      <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA READER</a></li>
+      <li><a href="https://docs.google.com/document/d/1NElxng620-FtPtk2s-2xizTcL_89LdqnpkZepsnf5RA/edit#heading=h.6wmx089o9bc4">RADICALS.LIVE!</a></li>
+      <li><a href="https://docs.google.com/document/d/1Ej3YXS8Gymknq0TAyNC161Sv5nVXGTGtN-2PwS6H30E/edit#heading=h.gqizizpnpgzu">RADICAL MBA</a></li>  
+    </ul>
+    <li><a href="https://docs.google.com/document/d/1oV_WgvZ0mChe-f8o114p_8BSGldn3ZVkQjHnhwk7ccw/edit#heading=h.gqizizpnpgzu">rHatchery</a></li>
+    <li><a href="https://docs.google.com/document/d/1apVl75nS-Z4b2rpqu-UkDjjYkujLANMiK7zZoU0jGeE/edit#heading=h.ypydz5z11jxq">rCircuit</a></li>
+    <li><a href="https://docs.google.com/document/d/1aoqNhAW6P4QQFM3epM5VqPFdiTgyxTKPUE1c4j8r2k4/edit#heading=h.gqizizpnpgzu">rPlayGym</a></li>
+    <li><a href="https://docs.google.com/document/d/13c1PYhbQEjRlkfmmGQESJD-cTB5b6jmWWBnEpTt1NFU/edit#heading=h.gqizizpnpgzu">rEnsemble</a></li>
+    <ul>
+      <li><a href="https://docs.google.com/document/d/1-eMt4p4qNJFc9SJkeSoarmy-xG6WtE51eQv047pvTNk/edit#heading=h.gqizizpnpgzu">rTranslate</a></li>
+      <li><a href="https://docs.google.com/document/d/14A5U000ny7_zF8_HutQF1pcMoUwQmI7tfXaMB9uKk3M/edit#heading=h.gqizizpnpgzu">rSparkle</a></li>
+      <li><a href="https://docs.google.com/document/d/16eg7wnyH61xPT4pWFWsuwHydKaxeP8k5xKGX3Pglzp0/edit#heading=h.gqizizpnpgzu">rStayHome</a></li>
+      <li><a href="https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu">KidsCare</a></li>
+    </ul>
+  </ul>
+  <li>Startups</li>
+  <ul>
+    <li><a href="https://docs.google.com/document/d/1lE-khYtIyXoFeSIlUGcFPzESsslnBoGcmZMQaeVBVgw/edit#">rBuddyNeighbor</a></li>
+    <li><a href="https://docs.google.com/document/d/16jST0lzzezNoFstE2ccZoI2HirgWBu3gQGnEok5OhGY/edit#">rNextBright</a></li>
+    <li><a href="https://docs.google.com/document/d/1dMxsO5LMhKle97J8tPscBs5g64_QKZsiRnDtsccBUE4/edit#heading=h.gqizizpnpgzu">rHintersoft</a></li> 
+  </ul>
+  <li>rProjects</li>
+  <ul>
+    <li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a></li>
+    <li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
+    <li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a></li>
+  </ul>
+  <li><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Science Fiction</li>
+  <ul>
+    <li><a href="https://docs.google.com/document/d/1u862nc5EV8OY6ng0kfH7_pBGO-HWJnK2rJB8PvpYkJ4/edit#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
+  </ul>
+</ul>
