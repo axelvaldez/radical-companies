@@ -50,7 +50,7 @@ Every company is different because the people who embody it are different, so ev
 </p>
 <p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time.
 </p>
-<p style="font-size: smaller; ">“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>
+<p style="font-size: smaller; padding-left: 5em; ">“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>
 </p>
 
 <h2>Alignment</h2>
