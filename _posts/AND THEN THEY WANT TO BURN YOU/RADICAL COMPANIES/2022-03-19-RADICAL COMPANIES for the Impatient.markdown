@@ -31,7 +31,7 @@ Every company is different because the people who embody it are different, so ev
   <td rowspan="2" style="text-align: top; ">relationships</td>
  </tr>
  <tr>
-  <td><p style="text-align: right"><em>principles</em></p></td>
+  <td style="vertical-align: right"><p><em>principles</em></p></td>
   <td style="width: 3in; background-color: #dddddd; text-align: center; "><strong>Meaning & Belonging</strong></td>
   <td>⬈</td>
  </tr>
@@ -40,22 +40,22 @@ Every company is different because the people who embody it are different, so ev
   <td></td>
   <td></td>
   <td></td>
-  <td rowspan="2" style="text-align: top; ">autonomy</td>
+  <td rowspan="2" style="vertical-align: top; ">autonomy</td>
  </tr>
  <tr>
-  <td><p style="text-align: right"><em>commitments</em></p></td>
-  <td style="width: 1.5in; background-color: #dddddd; text-align: center; "><strong>Transparency & Decentralization</strong></td>
+  <td style="vertical-align: right"><em>commitments</em></p></td>
+  <td style="width: 2in; background-color: #dddddd; text-align: center; "><strong>Transparency & Decentralization</strong></td>
   <td>⬈</td>
  </tr>
  <tr>
   <td></td>
   <td></td>
   <td></td>
-   <td rowspan="2" style="text-align: top; ">collaboration</td>
+  <td rowspan="2" style="text-align: top; ">collaboration</td>
  </tr>
  <tr>
-  <td><p style="text-align: right"><em>practices</em></p></td>
-  <td style="width: 1.5in; background-color: #dddddd; text-align: center; "><strong>Alignment & Experimentation</strong></td>
+  <td style="vertical-align: right"><em>practices</em></p></td>
+  <td style="width: 2in; background-color: #dddddd; text-align: center; "><strong>Alignment & Experimentation</strong></td>
   <td>⬈</td>
  </tr>
  <tr><td>&nbsp;</td></tr>
