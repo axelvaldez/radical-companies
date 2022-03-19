@@ -11,7 +11,7 @@ image:    "en-vacant-lot-henry-george.svg"
 <br>
 <br>
 
-<h1>What Ails Us</h1>
+<h2>What Ails Us</h2>
 <p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.
 </p>
 <p>Nature follows a simple path to create big beautiful things out of unpretentious, small ones. From tiny seed to mighty oak tree. We don’t think that a long list of principles or color scales or a 17 page constitution are necessary to make a fundamental change. Eventually, these can become dogma and get in the way.
@@ -19,7 +19,7 @@ image:    "en-vacant-lot-henry-george.svg"
 <p> With that in mind, we came up with what we think are the most basic foundations to support our coming together to share work and wealth.
 </p>
 
-<h1>A Three Legged Stool</h1>
+<h2>A Three Legged Stool</h2>
 <p>
 Every company is different because the people who embody it are different, so every company must find its own way. What fundamentally makes a RADICAL company different from a FIAT business is that it starts from a simple foundation of interdependence,
 </p>
@@ -52,7 +52,7 @@ Every company is different because the people who embody it are different, so ev
 </p><h4>“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>
 </p>
 
-<h1>Alignment</h1>
+<h2>Alignment</h2>
 <p>In order to create a RADICAL company, we will first need to be explicit about the company’s <em>what for</em>, its <em>why</em>, and its <em>what</em>, <em>how</em>, and <em>when</em>. You might call them something different or you might lump some of these together. No matter how you express them, they have to be explicit and completely open and accessible to everyone. The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,
 <img src="assets/img/en-alignment.svg" alt="alt_text" title="Three-finger salute">
 <p>
@@ -72,7 +72,7 @@ Every company is different because the people who embody it are different, so ev
 <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and intelligible to everybody in the team.
 </p>
 
-<h1 style="font-size: larger; text-align: center; ">2. RADICAL Distribution</h1>
+<h1 style="text-align: center; ">2. RADICAL Distribution</h1>
 <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.
 </p>
 <h1>Rosedale Distribution</h1>
@@ -91,7 +91,7 @@ Every company is different because the people who embody it are different, so ev
   </li>
 </ul>
 
-<h1>The RADICAL Difference</h1>
+<h2>The RADICAL Difference</h2>
   <p>Instead of cash or stocks, RADICAL Distribution uses a dimensionless unit we call a RAD. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, RADs represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>. 
   </p>
   <p>RADs represent any kind of contribution, not just financial. In fact, as an accounting tool, RADs account for the unaccountable.
@@ -131,7 +131,7 @@ Every company is different because the people who embody it are different, so ev
     </li>
 </ul>
 
-<h1>Scalability</h1>
+<h2>Scalability</h2>
 <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,
 </p>
 <table>
@@ -174,7 +174,7 @@ Every company is different because the people who embody it are different, so ev
 <p>As people share and grant each other RADs, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.
 </p>
 
-<h1>Banners</h1>
+<h2>Banners</h2>
 <p>
 Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.
 </p>
@@ -222,22 +222,22 @@ Recognition is really important to both the giver and the receiver. Whether as i
   </tr>
 </table>
 
-<h1>Retrospectives</h1>
+<h2>Retrospectives</h2>
 <p>At a RADICAL Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much as they’d like of their criteria. These do not prevent people from making their own decisions, but it serves as a guide.
 </p>
 
-<h1>Feedback</h1>
+<h2>Feedback</h2>
 <p>
 Anybody who wants to can call for a feedback session after a Distribution. In particular, people who didn’t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it’s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.
 </p>
 
-<h1>Distribution Transparency</h1>
+<h2>Distribution Transparency</h2>
 <p>We don’t think that RADICAL Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of RADs allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.
 </p>
 <p>Of course, you’ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.
 </p>
 
-<h1>Accounting for the Unaccountable</h1>
+<h2>Accounting for the Unaccountable</h2>
 <p>RADs represent many things other than simple financial value. They are not beans, but they can be counted.
 </p>
 <p>The RADs you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you’ll probably get fewer RADs from us; if you are helping us thrive, you’ll likely get more. If you do something that goes against our Impact, “but, hey, it makes money,” you’ll get less RADs; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you’ll get more RADs.
@@ -247,7 +247,7 @@ Anybody who wants to can call for a feedback session after a Distribution. In pa
 <p>In short, RADs account for the uncountable, they measure the immeasurable.
 </p>
 
-<h1 style="font-size: larger; text-align: center; ">3. RADICAL Wealth Extraction</h1>
+<h1 style="text-align: center; ">3. RADICAL Wealth Extraction</h1>
 <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated RADs. For example,
 </p>
 <ul>
@@ -263,7 +263,7 @@ Anybody who wants to can call for a feedback session after a Distribution. In pa
 <p>That earned amount is split between Dividends and a Predictable Recurring Income component.
 </p>
 
-<h1>Predictable Recurring Income (PRI)</h1>
+<h2>Predictable Recurring Income (PRI)</h2>
 <p>When you really think about it, “salary” is a FIAT tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the RADICAL context.
 </p>
 <p>The PRI is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),
@@ -304,7 +304,7 @@ Anybody who wants to can call for a feedback session after a Distribution. In pa
 <p>If you are thinking that this process takes a lot of time, you’re right. But it is cheaper and healthier than leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).
 </p>
 
-<h1>Earned Dividends</h1>
+<h2>Earned Dividends</h2>
 <p>Below there are three sample scenarios for how Earned Dividends are calculated,
 </p>
 <ul>
@@ -330,7 +330,7 @@ Anybody who wants to can call for a feedback session after a Distribution. In pa
 <p>Notice that even though dividends are up, Julio continues to draw from the PRI Account because his PRI is pretty high and his RAD count is pretty low. He may want to change his PRI or get feedback on why his RADs are so low.
 </p>
 
-<h1>By Comparison</h1>
+<h2>By Comparison</h2h1>
 <p>This way of sharing the wealth should yield, at worst, the same as today’s VC system but with less risk and a huge increase in the number of beneficiaries.
 </p>
 <p><img src="bank-vs-vcs-vs-radical.svg" alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear at a little over half way into RISKS and half way up YIELD. RADICAL appear at a little less than half way into RISKS and nine tenth of the way up YIELD. The one on the right has RISKS on the horizontal axis and BENEFICIARIES on the vertical axis. As in the previous graph, BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear seven tenth of the way into RISKS and one fourth of the way up YIELD. As in the previous graph, RADICAL appear at a little less than half way into RISKS and nine tenth of the way up YIELD." title="Comparing Banks, VCs, and RADICAL.">
