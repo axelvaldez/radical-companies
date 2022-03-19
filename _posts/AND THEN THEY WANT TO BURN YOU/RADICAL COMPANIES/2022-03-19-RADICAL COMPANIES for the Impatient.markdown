@@ -27,6 +27,7 @@ Every company is different because the people who embody it are different, so ev
  <tr>
   <td></td>
   <td></td>
+  <td></td>
   <td rowspan="2" style="text-align: top; ">relationships</td>
  </tr>
  <tr>
@@ -38,6 +39,7 @@ Every company is different because the people who embody it are different, so ev
  <tr>
   <td></td>
   <td></td>
+  <td></td>
   <td rowspan="2" style="text-align: top; ">autonomy</td>
  </tr>
  <tr>
@@ -46,6 +48,7 @@ Every company is different because the people who embody it are different, so ev
   <td>⬈</td>
  </tr>
  <tr>
+  <td></td>
   <td></td>
   <td></td>
    <td rowspan="2" style="text-align: top; ">collaboration</td>
