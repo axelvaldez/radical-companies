@@ -24,27 +24,38 @@ image:    "en-vacant-lot-henry-george.svg"
 Every company is different because the people who embody it are different, so every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN> different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence,
 </p>
 <table>
-<tr>
-    <td><p style="text-align: right"><em>principles</em></p></td>
-    <td style="width: 1.5in; background-color: #dddddd; text-align: center; "><strong>Meaning & Belonging</strong></td>
-    <td>⬈</td>
-    <td rowspan="2" style="text-align: top; ">relationships</td>
-</tr>
-<tr><td>&nbsp;</td></tr>
-<tr>
-    <td><p style="text-align: right"><em>commitments</em></p></td>
-    <td style="width: 1.5in; background-color: #dddddd; text-align: center; "><strong>Transparency & Decentralization</strong></td>
-    <td>⬈</td>
-    <td rowspan="2" style="text-align: top; ">autonomy<</td>
-</tr>
-<tr><td>&nbsp;</td></tr>
-<tr>
-    <td><p style="text-align: right"><em>practices</em></p></td>
-    <td style="width: 1.5in; background-color: #dddddd; text-align: center; "><strong>Alignment & Experimentation</strong></td>
-    <td>⬈</td>
-    <td rowspan="2" style="text-align: top; ">collaboration</td>
-</tr>
-<tr><td>&nbsp;</td></tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td rowspan="2" style="text-align: top; ">relationships</td>
+ </tr>
+ <tr>
+  <td><p style="text-align: right"><em>principles</em></p></td>
+  <td style="width: 1.5in; background-color: #dddddd; text-align: center; "><strong>Meaning & Belonging</strong></td>
+  <td>⬈</td>
+ </tr>
+ <tr><td>&nbsp;</td></tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td rowspan="2" style="text-align: top; ">autonomy</td>
+ </tr>
+ <tr>
+  <td><p style="text-align: right"><em>commitments</em></p></td>
+  <td style="width: 1.5in; background-color: #dddddd; text-align: center; "><strong>Transparency & Decentralization</strong></td>
+  <td>⬈</td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+   <td rowspan="2" style="text-align: top; ">collaboration</td>
+ </tr>
+ <tr>
+  <td><p style="text-align: right"><em>practices</em></p></td>
+  <td style="width: 1.5in; background-color: #dddddd; text-align: center; "><strong>Alignment & Experimentation</strong></td>
+  <td>⬈</td>
+ </tr>
+ <tr><td>&nbsp;</td></tr>
 </table>
 <p>Other principles and practices can be layered on top of them, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN> these are essential, otherwise it is just a FIAT business with ain’t-we-nice sprinkled on top.
 </p>
