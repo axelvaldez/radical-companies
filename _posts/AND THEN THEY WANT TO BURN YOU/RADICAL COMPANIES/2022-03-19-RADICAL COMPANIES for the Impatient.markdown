@@ -58,7 +58,7 @@ Every company is different because the people who embody it are different, so ev
   <td style="width: 2in; background-color: #dddddd; text-align: center; "><strong>Alignment & Experimentation</strong></td>
   <td>⬈</td>
  </tr>
- <tr><td colspan="4">ccc&nbsp;</td></tr>
+ <tr><td colspan="4">ccc&nbsp;</td>xyz</tr>zyx
 </table>
 <p>Other principles and practices can be layered on top of them, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN> these are essential, otherwise it is just a FIAT business with ain’t-we-nice sprinkled on top.
 </p>
