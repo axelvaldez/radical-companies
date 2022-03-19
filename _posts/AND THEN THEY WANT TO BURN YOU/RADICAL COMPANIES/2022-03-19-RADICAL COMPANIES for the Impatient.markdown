@@ -21,7 +21,7 @@ image:    "en-vacant-lot-henry-george.svg"
 
 <h2>A Three Legged Stool</h2>
 <p>
-Every company is different because the people who embody it are different, so every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN> different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence,
+Every company is different because the people who embody it are different, so every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence,
 </p>
 <table>
  <tr>
@@ -59,7 +59,7 @@ Every company is different because the people who embody it are different, so ev
  </tr>
  <tr><td colspan="4">&nbsp;</td></tr>
 </table>
-<p>Other principles and practices can be layered on top of them, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN> these are essential, otherwise it is just a FIAT business with ain’t-we-nice sprinkled on top.
+<p>Other principles and practices can be layered on top of them, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company these are essential, otherwise it is just a FIAT business with ain’t-we-nice sprinkled on top.
 </p>
 <p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time.
 </p>
@@ -67,7 +67,7 @@ Every company is different because the people who embody it are different, so ev
 </p>
 
 <h2>Alignment</h2>
-<p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN>, we will first need to be explicit about the company’s <em>what for</em>, its <em>why</em>, and its <em>what</em>, <em>how</em>, and <em>when</em>. You might call them something different or you might lump some of these together. No matter how you express them, they have to be explicit and completely open and accessible to everyone. The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,
+<p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, we will first need to be explicit about the company’s <em>what for</em>, its <em>why</em>, and its <em>what</em>, <em>how</em>, and <em>when</em>. You might call them something different or you might lump some of these together. No matter how you express them, they have to be explicit and completely open and accessible to everyone. The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,
 <img src="assets/img/en-alignment.svg" alt="en-alignment.svg" title="Three-finger salute">
 <p>
   <ul>
@@ -230,7 +230,7 @@ Every company is different because the people who embody it are different, so ev
      <th><p style="text-align: right; text-align: top; padding-right: 1m; ; ">Experimental Projects</p>
      </th>
      <td>At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects and  things like Google News came out of it. That was a generous policy given by the <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> owners, but the same owners later took it away.
-      <p>For a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN> the equivalent thing would be to put up a “20%” Banner and co-owners could allocate RADs to it as they see fit. Or more specifically, a “Google News” Banner could fund that specific project.
+      <p>For a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company the equivalent thing would be to put up a “20%” Banner and co-owners could allocate RADs to it as they see fit. Or more specifically, a “Google News” Banner could fund that specific project.
       </p>
      </td>
     </tr>
@@ -238,7 +238,7 @@ Every company is different because the people who embody it are different, so ev
      <th><p style="text-align: right; text-align: top; padding-right: 1m; ">Investments</p>
      </th>
      <td>In <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has more to do with ego, like a pharaoh’s pyramid.
-      <p>In a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN>, anybody can put up a “New building” Banner and allow co-owners to contribute to the funding of it or not.
+      <p>In a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company , anybody can put up a “New building” Banner and allow co-owners to contribute to the funding of it or not.
       </p>
      </td>
     </tr>
