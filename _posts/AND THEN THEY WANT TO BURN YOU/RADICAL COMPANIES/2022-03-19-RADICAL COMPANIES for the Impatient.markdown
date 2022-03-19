@@ -6,7 +6,7 @@ authors:  "Matt PEREZ | Adrian PEREZ | Jose LEAL"
 image:    "en-vacant-lot-henry-george.svg"
 ---
 
-<h1 style="text-align: center; ">1. The RADICAL Model</h1>
+<h1 style="text-align: center; ">1. The <span style="font-size: smaller; ">RADICAL</span> Model</h1>
 
 <br>
 <br>
@@ -21,7 +21,7 @@ image:    "en-vacant-lot-henry-george.svg"
 
 <h2>A Three Legged Stool</h2>
 <p>
-Every company is different because the people who embody it are different, so every company must find its own way. What fundamentally makes a RADICAL company different from a FIAT business is that it starts from a simple foundation of interdependence,
+Every company is different because the people who embody it are different, so every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN> different from a FIAT business is that it starts from a simple foundation of interdependence,
 </p>
 <table>
 <tr>
@@ -46,7 +46,7 @@ Every company is different because the people who embody it are different, so ev
 </tr>
 <tr><td>&nbsp;</td></tr>
 </table>
-<p>Other principles and practices can be layered on top of them, but for a RADICAL company these are essential, otherwise it is just a FIAT business with ain’t-we-nice sprinkled on top.
+<p>Other principles and practices can be layered on top of them, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN> these are essential, otherwise it is just a FIAT business with ain’t-we-nice sprinkled on top.
 </p>
 <p>Unlike in a FIAT business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time.
 </p>
@@ -54,7 +54,7 @@ Every company is different because the people who embody it are different, so ev
 </p>
 
 <h2>Alignment</h2>
-<p>In order to create a RADICAL company, we will first need to be explicit about the company’s <em>what for</em>, its <em>why</em>, and its <em>what</em>, <em>how</em>, and <em>when</em>. You might call them something different or you might lump some of these together. No matter how you express them, they have to be explicit and completely open and accessible to everyone. The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,
+<p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN>, we will first need to be explicit about the company’s <em>what for</em>, its <em>why</em>, and its <em>what</em>, <em>how</em>, and <em>when</em>. You might call them something different or you might lump some of these together. No matter how you express them, they have to be explicit and completely open and accessible to everyone. The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,
 <img src="assets/img/en-alignment.svg" alt="alt_text" title="Three-finger salute">
 <p>
   <ul>
@@ -76,7 +76,7 @@ Every company is different because the people who embody it are different, so ev
 <br>
 <br>
 
-<h1 style="text-align: center; ">2. RADICAL Distribution</h1>
+<h1 style="text-align: center; ">2. <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution</h1>
 <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.
 </p>
 
@@ -99,8 +99,8 @@ Every company is different because the people who embody it are different, so ev
 <br>
 <br>
 
- <h2>The RADICAL Difference</h2>
-  <p>Instead of cash or stocks, RADICAL Distribution uses a dimensionless unit we call a RAD. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, RADs represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>. 
+ <h2>The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Difference</h2>
+  <p>Instead of cash or stocks, <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution uses a dimensionless unit we call a RAD. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, RADs represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>. 
   </p>
   <p>RADs represent any kind of contribution, not just financial. In fact, as an accounting tool, RADs account for the unaccountable.
   </p>
@@ -212,7 +212,7 @@ Every company is different because the people who embody it are different, so ev
     <th><p style="text-align: right; text-align: top; padding-right: 1m; ; ">Experimental Projects</p>
     </th>
     <td>At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects and things like Google News came out of it. That was a generous policy given by the FIAT owners, but the same owners later took it away.
-      <p>For a RADICAL company the equivalent thing would be to put up a “20%” Banner and co-owners could allocate RADs to it as they see fit. Or more specifically, a “Google News” Banner could fund that specific project.
+      <p>For a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN> the equivalent thing would be to put up a “20%” Banner and co-owners could allocate RADs to it as they see fit. Or more specifically, a “Google News” Banner could fund that specific project.
       </p>
     </td>
    </tr>
@@ -220,7 +220,7 @@ Every company is different because the people who embody it are different, so ev
     <th><p style="text-align: right; text-align: top; padding-right: 1m; ">Investments</p>
     </th>
     <td>In FIAT businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has more to do with ego, like a pharaoh’s pyramid.
-      <p>In a RADICAL company, anybody can put up a “New building” Banner and allow co-owners to contribute to the funding of it or not.
+      <p>In a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN>, anybody can put up a “New building” Banner and allow co-owners to contribute to the funding of it or not.
       </p>
     </td>
    </tr>
@@ -230,7 +230,7 @@ Every company is different because the people who embody it are different, so ev
   </table>
 
   <h3>Retrospectives</h3>
-  <p>At a RADICAL Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much as they’d like of their criteria. These do not prevent people from making their own decisions, but it serves as a guide.
+  <p>At a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much as they’d like of their criteria. These do not prevent people from making their own decisions, but it serves as a guide.
   </p>
 
   <h3>Feedback</h3>
@@ -238,7 +238,7 @@ Every company is different because the people who embody it are different, so ev
   </p>
 
   <h3>Distribution Transparency</h3>
-  <p>We don’t think that RADICAL Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of RADs allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.
+  <p>We don’t think that <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of RADs allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.
   </p>
   <p>Of course, you’ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.
   </p>
@@ -256,7 +256,7 @@ Every company is different because the people who embody it are different, so ev
 <br>
 <br>
 
-<h1 style="text-align: center; ">3. RADICAL Wealth Extraction</h1>
+<h1 style="text-align: center; ">3. <span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
 <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated RADs. For example,
 </p>
 <ul>
@@ -276,7 +276,7 @@ Every company is different because the people who embody it are different, so ev
 <br>
 
   <h2>Predictable Recurring Income (PRI)</h2>
-  <p>When you really think about it, “salary” is a FIAT tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the RADICAL context.
+  <p>When you really think about it, “salary” is a FIAT tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> context.
   </p>
   <p>The PRI is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),
   </p>
@@ -345,7 +345,7 @@ Every company is different because the people who embody it are different, so ev
   <h2>By Comparison</h2h1>
   <p>This way of sharing the wealth should yield, at worst, the same as today’s VC system but with less risk and a huge increase in the number of beneficiaries.
   </p>
-  <p><img src="bank-vs-vcs-vs-radical.svg" alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear at a little over half way into RISKS and half way up YIELD. RADICAL appear at a little less than half way into RISKS and nine tenth of the way up YIELD. The one on the right has RISKS on the horizontal axis and BENEFICIARIES on the vertical axis. As in the previous graph, BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear seven tenth of the way into RISKS and one fourth of the way up YIELD. As in the previous graph, RADICAL appear at a little less than half way into RISKS and nine tenth of the way up YIELD." title="Comparing Banks, VCs, and RADICAL.">
+  <p><img src="bank-vs-vcs-vs-radical.svg" alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear at a little over half way into RISKS and half way up YIELD." title=""> <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> appear at a little less than half way into RISKS and nine tenth of the way up YIELD. The one on the right has RISKS on the horizontal axis and BENEFICIARIES on the vertical axis. As in the previous graph, BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear seven tenth of the way into RISKS and one fourth of the way up YIELD. As in the previous graph, <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> appear at a little less than half way into RISKS and nine tenth of the way up YIELD." title="Comparing Banks, VCs, and <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN>.">
   </p>
 
 <br>
