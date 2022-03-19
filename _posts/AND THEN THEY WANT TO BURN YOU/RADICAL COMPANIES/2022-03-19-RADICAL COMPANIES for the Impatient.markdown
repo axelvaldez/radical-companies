@@ -25,24 +25,24 @@ Every company is different because the people who embody it are different, so ev
 </p>
 <table>
 <tr>
-    <td><p style="text-align: right">principles</p></td>
-    <td>Meaning &<br>Belonging</td>
+    <td><p style="text-align: right"><em>principles</em></p></td>
+    <td style="background-color: #CCCCCC; "><strong>Meaning &<br>Belonging</strong></td>
     <td>⬈</td>
-    <td rowspan="2"><em>relationships</em></td>
+    <td rowspan="2" style="text-align: top; "><em>relationships</em></td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
-    <td><p style="text-align: right">commitments</p></td>
-    <td>Transparency &<br>Decentralization</td>
+    <td><p style="text-align: right"><em>commitments</em></p></td>
+    <td style="background-color: #CCCCCC; "><strong>Transparency &<br>Decentralization</strong></td>
     <td>⬈</td>
-    <td rowspan="2">autonomy</em></td>
+    <td rowspan="2" style="text-align: top; ">autonomy</em></td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
-    <td><p style="text-align: right">practices</p></td>
-    <td>Alignment & Experimentation</td>
+    <td><p style="text-align: right"><em>practices</em></p></td>
+    <td style="background-color: #CCCCCC; "><strong>Alignment & Experimentation</strong></td>
     <td>⬈</td>
-    <td rowspan="2"><em>collaboration</em></td>
+    <td rowspan="2" style="text-align: top; "><em>collaboration</em></td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 </table>
