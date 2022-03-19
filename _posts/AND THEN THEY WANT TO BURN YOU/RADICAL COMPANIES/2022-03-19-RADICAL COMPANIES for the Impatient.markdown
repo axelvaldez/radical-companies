@@ -79,10 +79,11 @@ Every company is different because the people who embody it are different, so ev
 <h1 style="text-align: center; ">2. RADICAL Distribution</h1>
 <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.
 </p>
-<h1>Rosedale Distribution</h1>
-<p>Rosedale Distribution<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,
-</p>
-<ul>
+
+ <h2>Rosedale Distribution</h2>
+ <p>Rosedale Distribution<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,
+ </p>
+ <ul>
   <li>As the company grows, a small amount of cash and shares are put out for distribution every month.
   </li>
   <li>Every member gets, say, $1,000, an equal portion of the wealth the company generated.
@@ -93,7 +94,7 @@ Every company is different because the people who embody it are different, so ev
   </li>
   <li>Each person decides how much to give to whom based on whatever criteria “feels right” at that time.
   </li>
-</ul>
+ </ul>
 
 <br>
 <br>
