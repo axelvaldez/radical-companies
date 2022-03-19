@@ -68,7 +68,9 @@ Every company is different because the people who embody it are different, so ev
 
 <h2>Alignment</h2>
 <p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, we will first need to be explicit about the company’s <em>what for</em>, its <em>why</em>, and its <em>what</em>, <em>how</em>, and <em>when</em>. You might call them something different or you might lump some of these together. No matter how you express them, they have to be explicit and completely open and accessible to everyone. The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,
-<img src="assets/img/en-alignment.svg" alt="en-alignment.svg" title="Three-finger salute">
+<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+  <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
+</p>
 <p>
   <ul>
     <li>Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.
@@ -167,27 +169,40 @@ Every company is different because the people who embody it are different, so ev
     </td>
    </tr>
    <tr>
-    <td colspan="4" ><img src="" alt="Two people’s point of view." title="">
+    <td>
+     <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+      <img src="/assets/img/and-then-e01.png" alt="Two people’s point of view." title="">
+     </p>
     </td>
-    <td colspan="4" ><img src="" alt="Three people’s point of view." title="">
+    <td>
+     <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+      <img src="/assets/img/and-then-e01.png" alt="Three people’s point of view." title="">
+     </p>
     </td>
-    <td colspan="4" ><img src="" alt="Four people’s point of view." title="">
+    <td>
+    <td>
+     <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+      <img src="/assets/img/and-then-e01.png" alt="Four people’s point of view." title="">
+     </p>
     </td>
-    <td colspan="4" ><img src="" alt="Five people’s point of view." title="">
+    <td>
+     <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+      <img src="/assets/img/and-then-e01.png" alt="Five people’s point of view." title="">
+     </p>
     </td>
    </tr>
    <tr>
     <td>11 of 56 people.<br>
-     Two people’s point of view.
+        Two people’s point of view.
     </td>
     <td>40 of 56.<br>
-     Three people’s point of view.
+        Three people’s point of view.
     </td>
     <td>55 of 56.<br>
-     Four people’s point of view.
+        Four people’s point of view.
     </td>
     <td>56 of 56.<br>
-     Five people’s point of view.
+        Five people’s point of view.
     </td>
  </tr>
  <tr>
@@ -202,7 +217,7 @@ Every company is different because the people who embody it are different, so ev
    </p>
    <p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.
    </p>
-   <p><td colspan="4" ><img src="assets/img/en-banner-funding-product-dev.svg" alt="Two post-its. The one of the left reads, 'Community:   Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
+   <p><td colspan="4" ><img src="/assets/img/en-banner-funding-product-dev.svg" alt="Two post-its. The one of the left reads, 'Community:   Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
    </p>
    <table>
     <tr>
@@ -323,9 +338,9 @@ Every company is different because the people who embody it are different, so ev
   <p>In the example below, Salim, Daliah, Alicia, and Anita earned enough dividends to cover their full Predictable Recurring Income (PRI); Kim and Julio earned less than their PRI, so money flows out of the <em>PRI Account</em> to make up the difference, but they now owe this much to the <em>PRI Account</em>.
   </p>
   <p>
-   <p><img src="assets/img/dynamic-distribution-1" alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
+   <p><img src="/assets/img/dynamic-distribution-1" alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
    </p>
-   <p><img src="assets/img/dynamic-distribution-1" alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
+   <p><img src="/assets/img/dynamic-distribution-1" alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
    </p>
   </p>
   <p>We had a lot of back and forth over the PRI Account being a <em>personal</em> debt. Why not have it be a shared debt? The problem is that this may work for small groups, but it doesn’t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don’t know. They would want to know things like “Why is Julio’s PRI so high?” On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn’t feel good about going into so much debt and brings down his PRI after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister’s school and is willing to bear the debt for a while longer.
@@ -354,7 +369,7 @@ Every company is different because the people who embody it are different, so ev
    </p>
    <p>At some point, after we’ve been steadily growing our revenue, no money is coming out of our Predictable Recurring Income (PRI). This is when we start disbursing Earned Dividends in addition to covering everybody’s PRI.
    </p>
-   <p><img src="assets/img/dynamic-distribution-4"  alt="Two tables and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
+   <p><img src="/assets/img/dynamic-distribution-4"  alt="Two tables and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
    </p>
    <p>Notice that even though dividends are up, Julio continues to draw from the PRI Account because his PRI is pretty high and his RAD count is pretty low. He may want to change his PRI or get feedback on why his RADs are so low.
    </p>
@@ -362,7 +377,7 @@ Every company is different because the people who embody it are different, so ev
   <h2>By Comparison</h2h1>
    <p>This way of sharing the wealth should yield, at worst, the same as today’s VC system but with less risk and a huge increase in the number of beneficiaries.
    </p>
-   <p><img src="bank-vs-vcs-vs-radical.svg" alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear at a little over half way into RISKS and half way up YIELD." title=""> <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> appear at a little less than half way into RISKS and nine tenth of the way up YIELD. The one on the right has RISKS on the horizontal axis and BENEFICIARIES on the vertical axis. As in the previous graph, BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear seven tenth of the way into RISKS and one fourth of the way up YIELD. As in the previous graph, <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> appear at a little less than half way into RISKS and nine tenth of the way up YIELD." title="Comparing Banks, VCs, and <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN>.">
+   <p><img src="/assets/img/bank-vs-vcs-vs-radical.svg" alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear at a little over half way into RISKS and half way up YIELD." title=""> <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> appear at a little less than half way into RISKS and nine tenth of the way up YIELD. The one on the right has RISKS on the horizontal axis and BENEFICIARIES on the vertical axis. As in the previous graph, BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear seven tenth of the way into RISKS and one fourth of the way up YIELD. As in the previous graph, <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> appear at a little less than half way into RISKS and nine tenth of the way up YIELD." title="Comparing Banks, VCs, and <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN>.">
    </p>
 
 <br>
