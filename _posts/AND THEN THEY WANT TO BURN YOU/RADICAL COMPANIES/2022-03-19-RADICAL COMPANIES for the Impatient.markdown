@@ -28,11 +28,11 @@ Every company is different because the people who embody it are different, so ev
   <td></td>
   <td></td>
   <td></td>
-  <td rowspan="2" style="text-align: top; ">relationships</td>
+  <td rowspan="2" style="vertical-align: top; "><p>relationships</p></td>
  </tr>
  <tr>
-  <td style="vertical-align: right"><p><em>principles</em></p></td>
-  <td style="width: 3in; background-color: #dddddd; text-align: center; "><strong>Meaning & Belonging</strong></td>
+  <td><p style="tex-align: right"><em>principles</em></p></td>
+  <td style="width: 3in; background-color: #dddddd; text-align: center; "><p><strong>Meaning & Belonging</strong></p></td>
   <td>⬈</td>
  </tr>
  <tr><td>&nbsp;</td></tr>
@@ -40,22 +40,22 @@ Every company is different because the people who embody it are different, so ev
   <td></td>
   <td></td>
   <td></td>
-  <td rowspan="2" style="vertical-align: top; ">autonomy</td>
+  <td rowspan="2" style="vertical-align: top; "><p>autonomy</p></td>
  </tr>
  <tr>
-  <td style="vertical-align: right"><em>commitments</em></p></td>
-  <td style="width: 2in; background-color: #dddddd; text-align: center; "><strong>Transparency & Decentralization</strong></td>
+  <td><p style="tex-align: right"><em>commitments</em></p></td>
+  <td style="width: 2in; background-color: #dddddd; text-align: center; "><p><strong>Transparency & Decentralization</strong></p></td>
   <td>⬈</td>
  </tr>
  <tr>
   <td></td>
   <td></td>
   <td></td>
-  <td rowspan="2" style="text-align: top; ">collaboration</td>
+  <td rowspan="2" style="vertical-align: top; "><p>collaboration</p></td>
  </tr>
  <tr>
-  <td style="vertical-align: right"><em>practices</em></p></td>
-  <td style="width: 2in; background-color: #dddddd; text-align: center; "><strong>Alignment & Experimentation</strong></td>
+  <td><p style="vertical-align: right"><em>practices</em></p></td>
+  <td style="width: 2in; background-color: #dddddd; text-align: center; "><p><strong>Alignment & Experimentation</strong></p></td>
   <td>⬈</td>
  </tr>
  <tr><td>&nbsp;</td></tr>
