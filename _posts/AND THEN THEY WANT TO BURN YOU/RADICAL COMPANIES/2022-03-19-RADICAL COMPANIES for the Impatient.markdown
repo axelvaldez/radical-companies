@@ -95,7 +95,10 @@ Every company is different because the people who embody it are different, so ev
   </li>
 </ul>
 
-<h2>The RADICAL Difference</h2>
+<br>
+<br>
+
+ <h2>The RADICAL Difference</h2>
   <p>Instead of cash or stocks, RADICAL Distribution uses a dimensionless unit we call a RAD. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, RADs represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>. 
   </p>
   <p>RADs represent any kind of contribution, not just financial. In fact, as an accounting tool, RADs account for the unaccountable.
@@ -135,19 +138,19 @@ Every company is different because the people who embody it are different, so ev
     </li>
 </ul>
 
-<h2>Scalability</h2>
-<p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,
-</p>
-<table>
-  <tr>
-    <td colspan="4" ><img src="" alt="" title="">
+   <h3>Scalability</h3>
+   <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,
+   </p>
+  <table>
+   <tr>
+   <td colspan="4" ><img src="" alt="" title="">
     </td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td colspan="4" >17 of 56 people. One person’s point of view.
     </td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td colspan="4" ><img src="" alt="Two people’s point of view." title="">
     </td>
     <td colspan="4" ><img src="" alt="Three people’s point of view." title="">
@@ -156,29 +159,29 @@ Every company is different because the people who embody it are different, so ev
     </td>
     <td colspan="4" ><img src="" alt="Five people’s point of view." title="">
     </td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td>11 of 56 people.<br>
-        Two people’s point of view.
+     Two people’s point of view.
     </td>
     <td>40 of 56.<br>
-       Three people’s point of view.
+     Three people’s point of view.
     </td>
     <td>55 of 56.<br>
-       Four people’s point of view.
+     Four people’s point of view.
     </td>
     <td>56 of 56.<br>
-       Five people’s point of view.
+     Five people’s point of view.
     </td>
-  </tr>
-  <tr>
-   <td colspan="4">&nbsp;</td>
-  </tr>
+ </tr>
+ <tr>
+  <td colspan="4">&nbsp;</td>
+ </tr>
 </table>
 <p>As people share and grant each other RADs, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.
 </p>
 
-<h2>Banners</h2>
+  <h3>Banners</h3>
 <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.
 </p>
 <p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.
@@ -225,22 +228,22 @@ Every company is different because the people who embody it are different, so ev
   </tr>
 </table>
 
-<h2>Retrospectives</h2>
+  <h3>Retrospectives</h3>
 <p>At a RADICAL Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much as they’d like of their criteria. These do not prevent people from making their own decisions, but it serves as a guide.
 </p>
 
-<h2>Feedback</h2>
+  <h3>Feedback</h3>
 <p>
 Anybody who wants to can call for a feedback session after a Distribution. In particular, people who didn’t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it’s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.
 </p>
 
-<h2>Distribution Transparency</h2>
+  <h3>Distribution Transparency</h3>
 <p>We don’t think that RADICAL Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of RADs allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.
 </p>
 <p>Of course, you’ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.
 </p>
 
-<h2>Accounting for the Unaccountable</h2>
+  <h3>Accounting for the Unaccountable</h3>
 <p>RADs represent many things other than simple financial value. They are not beans, but they can be counted.
 </p>
 <p>The RADs you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you’ll probably get fewer RADs from us; if you are helping us thrive, you’ll likely get more. If you do something that goes against our Impact, “but, hey, it makes money,” you’ll get less RADs; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you’ll get more RADs.
@@ -269,7 +272,10 @@ Anybody who wants to can call for a feedback session after a Distribution. In pa
 <p>That earned amount is split between Dividends and a Predictable Recurring Income component.
 </p>
 
-<h2>Predictable Recurring Income (PRI)</h2>
+<br>
+<br>
+
+  <h2>Predictable Recurring Income (PRI)</h2>
 <p>When you really think about it, “salary” is a FIAT tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the RADICAL context.
 </p>
 <p>The PRI is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),
@@ -310,7 +316,7 @@ Anybody who wants to can call for a feedback session after a Distribution. In pa
 <p>If you are thinking that this process takes a lot of time, you’re right. But it is cheaper and healthier than leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).
 </p>
 
-<h2>Earned Dividends</h2>
+  <h2>Earned Dividends</h2>
 <p>Below there are three sample scenarios for how Earned Dividends are calculated,
 </p>
 <ul>
@@ -336,7 +342,7 @@ Anybody who wants to can call for a feedback session after a Distribution. In pa
 <p>Notice that even though dividends are up, Julio continues to draw from the PRI Account because his PRI is pretty high and his RAD count is pretty low. He may want to change his PRI or get feedback on why his RADs are so low.
 </p>
 
-<h2>By Comparison</h2h1>
+  <h2>By Comparison</h2h1>
 <p>This way of sharing the wealth should yield, at worst, the same as today’s VC system but with less risk and a huge increase in the number of beneficiaries.
 </p>
 <p><img src="bank-vs-vcs-vs-radical.svg" alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear at a little over half way into RISKS and half way up YIELD. RADICAL appear at a little less than half way into RISKS and nine tenth of the way up YIELD. The one on the right has RISKS on the horizontal axis and BENEFICIARIES on the vertical axis. As in the previous graph, BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear seven tenth of the way into RISKS and one fourth of the way up YIELD. As in the previous graph, RADICAL appear at a little less than half way into RISKS and nine tenth of the way up YIELD." title="Comparing Banks, VCs, and RADICAL.">
