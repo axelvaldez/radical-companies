@@ -182,76 +182,75 @@ Every company is different because the people who embody it are different, so ev
 </p>
 
   <h3>Banners</h3>
-<p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.
-</p>
-<p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.
-</p>
-<p><td colspan="4" ><img src="assets/img/en-banner-funding-product-dev.svg" alt="Two post-its. The one of the left reads, 'Community: Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
-</p>
-<table>
-  <tr>
+  <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.
+  </p>
+  <p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.
+  </p>
+  <p><td colspan="4" ><img src="assets/img/en-banner-funding-product-dev.svg" alt="Two post-its. The one of the left reads, 'Community: Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
+  </p>
+  <table>
+   <tr>
     <td><p style="text-align: right">Teams</p>
     </td>
     <td>Teams can be represented by a Banner. “re: Recognize our IT support team for how they handled the storm.”
     </td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td><p style="text-align: right">Special Accomplishment</p>
     </td>
     <td>“Margot deserves to be recognized for stewarding the creation of our training platform.”
     </td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td><p style="text-align: right">Community</p>
     </td>
     <td>For example, a “No Noise” banner could fund a sound barrier around a noisy factory. A “River Walk” banner could fund a clean up and beautification of a stream that runs nearby. One could even fund a local vet hospital to help it recover from a fire.
     </td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td><p style="text-align: right">Experimental Projects</p>
     </td>
     <td>At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects and things like Google News came out of it. That was a generous policy given by the FIAT owners, but the same owners later took it away.
       <p>For a RADICAL company the equivalent thing would be to put up a “20%” Banner and co-owners could allocate RADs to it as they see fit. Or more specifically, a “Google News” Banner could fund that specific project.
       </p>
     </td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td><p style="text-align: right">Investments</p>
     </td>
     <td>In FIAT businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has more to do with ego, like a pharaoh’s pyramid.
       <p>In a RADICAL company, anybody can put up a “New building” Banner and allow co-owners to contribute to the funding of it or not.
       </p>
     </td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td colspan="2">&nbsp;</td>
-  </tr>
-</table>
+   </tr>
+  </table>
 
   <h3>Retrospectives</h3>
-<p>At a RADICAL Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much as they’d like of their criteria. These do not prevent people from making their own decisions, but it serves as a guide.
-</p>
+  <p>At a RADICAL Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much as they’d like of their criteria. These do not prevent people from making their own decisions, but it serves as a guide.
+  </p>
 
   <h3>Feedback</h3>
-<p>
-Anybody who wants to can call for a feedback session after a Distribution. In particular, people who didn’t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it’s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.
-</p>
+  <p>Anybody who wants to can call for a feedback session after a Distribution. In particular, people who didn’t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it’s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.
+  </p>
 
   <h3>Distribution Transparency</h3>
-<p>We don’t think that RADICAL Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of RADs allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.
-</p>
-<p>Of course, you’ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.
-</p>
+  <p>We don’t think that RADICAL Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of RADs allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.
+  </p>
+  <p>Of course, you’ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.
+  </p>
 
   <h3>Accounting for the Unaccountable</h3>
-<p>RADs represent many things other than simple financial value. They are not beans, but they can be counted.
-</p>
-<p>The RADs you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you’ll probably get fewer RADs from us; if you are helping us thrive, you’ll likely get more. If you do something that goes against our Impact, “but, hey, it makes money,” you’ll get less RADs; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you’ll get more RADs.
-</p>
-<p>Maybe I gave you RADs because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.
-</p>
-<p>In short, RADs account for the uncountable, they measure the immeasurable.
-</p>
+  <p>RADs represent many things other than simple financial value. They are not beans, but they can be counted.
+  </p>
+  <p>The RADs you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you’ll probably get fewer RADs from us; if you are helping us thrive, you’ll likely get more. If you do something that goes against our Impact, “but, hey, it makes money,” you’ll get less RADs; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you’ll get more RADs.
+  </p>
+  <p>Maybe I gave you RADs because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.
+  </p>
+  <p>In short, RADs account for the uncountable, they measure the immeasurable.
+  </p>
 
 <br>
 <br>
@@ -260,14 +259,14 @@ Anybody who wants to can call for a feedback session after a Distribution. In pa
 <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated RADs. For example,
 </p>
 <ul>
-  <li>Six of us generate $16,000 in dividends.
-  </li>
-  <li>There is a total of 1,000 RADs allocated which means that each RAD is worth $16 this cycle.
-  </li>
-  <li>You have 450 allocated RADs and I have 130.
-  </li>
-  <li>You <em>earned</em> $7,200 and I’ve <em>earned</em> $2,080 of the total dividends.
-  </li>
+ <li>Six of us generate $16,000 in dividends.
+ </li>
+ <li>There is a total of 1,000 RADs allocated which means that each RAD is worth $16 this cycle.
+ </li>
+ <li>You have 450 allocated RADs and I have 130.
+ </li>
+ <li>You <em>earned</em> $7,200 and I’ve <em>earned</em> $2,080 of the total dividends.
+ </li>
 </ul>
 <p>That earned amount is split between Dividends and a Predictable Recurring Income component.
 </p>
@@ -276,33 +275,33 @@ Anybody who wants to can call for a feedback session after a Distribution. In pa
 <br>
 
   <h2>Predictable Recurring Income (PRI)</h2>
-<p>When you really think about it, “salary” is a FIAT tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the RADICAL context.
-</p>
-<p>The PRI is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),
-</p>
-<ul>
-  <li>Each member determines their Predictable Recurring Income (PRI). This is what they need to take home every month.
-  </li>
-  <li>Along with expenses, loan repayment, and other fixed expenses, the sum of all PRIs determines what for simplicity we’ll call the company’s breakeven point.
-  </li>
-  <li>Every month, the company pays its bills and all PRIs and what’s left is distributed as Earned Dividends according to each person’s RAD allocations. This is the happy path.
-  </li>
-  <li>When revenue doesn’t cover the breakeven point, a PRI Account for each member provides predictability. As a company we can get a loan or an investment for this fund. Then, as needed, money flows out of the PRI Account to cover a member’s full PRI.
-  </li>
-  <li>Each co-owner is responsible for her PRI Account and has to pay back what they got out of it. Most likely, this will be paid back out of Earned Dividends once revenue goes above breakeven, but this is something you’d have to experiment with.
-  </li>
-  <li>In the worst case, if the company goes belly up, then if the PRI Account was funded with investment money, there’s no “debt” to be paid back. If it was funded with a loan, then people with unpaid balances have to make good on that loan.
-  </li>
-</ul>
-<p>The PRI looks like a salary,
-</p>
-<ul>
-  <li>If I earned more than my PRI, then I can take home my PRI and my Earned Dividends.
-  </li>
-  <li>If what I’ve earned matches my PRI, then I take that much home, similar to a traditional salary.
-  <li>If I earned less than my PRI, I still take home the amount of money I expected, because the PRI Account makes up the difference. But I now owe the difference to the PRI Account.
-  </li>
-</ul>
+  <p>When you really think about it, “salary” is a FIAT tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the RADICAL context.
+  </p>
+  <p>The PRI is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),
+  </p>
+  <ul>
+   <li>Each member determines their Predictable Recurring Income (PRI). This is what they need to take home every month.
+   </li>
+   <li>Along with expenses, loan repayment, and other fixed expenses, the sum of all PRIs determines what for simplicity we’ll call the company’s breakeven point.
+   </li>
+   <li>Every month, the company pays its bills and all PRIs and what’s left is distributed as Earned Dividends according to each person’s RAD allocations. This is the happy path.
+   </li>
+   <li>When revenue doesn’t cover the breakeven point, a PRI Account for each member provides predictability. As a company we can get a loan or an investment for this fund. Then, as needed, money flows out of the PRI Account to cover a member’s full PRI.
+   </li>
+   <li>Each co-owner is responsible for her PRI Account and has to pay back what they got out of it. Most likely, this will be paid back out of Earned Dividends once revenue goes above breakeven, but this is something you’d have to experiment with.
+   </li>
+   <li>In the worst case, if the company goes belly up, then if the PRI Account was funded with investment money, there’s no “debt” to be paid back. If it was funded with a loan, then people with unpaid balances have to make good on that loan.
+   </li>
+  </ul>
+  <p>The PRI looks like a salary,
+  </p>
+  <ul>
+   <li>If I earned more than my PRI, then I can take home my PRI and my Earned Dividends.
+   </li>
+   <li>If what I’ve earned matches my PRI, then I take that much home, similar to a traditional salary.
+   <li>If I earned less than my PRI, I still take home the amount of money I expected, because the PRI Account makes up the difference. But I now owe the difference to the PRI Account.
+   </li>
+  </ul>
 <p>You’ll have to experiment with how these debts are settled. At its loosest, I could pay that debt “later” (<em>e.g.</em>, out of my future Earned Dividends). At its most rigid, I’d have to pay the PRI Account debt, plus interest, within 60 days. Our suggestion, as always, is to go for a policy that matches your current situation and group of people. If a problem crops up, then see if the policy needs to be changed. Otherwise, don’t yield to your imagined fears.
 </p>
 <p>In the example below, Salim, Daliah, Alicia, and Anita earned enough dividends to cover their full Predictable Recurring Income (PRI); Kim and Julio earned less than their PRI, so money flows out of the <em>PRI Account</em> to make up the difference, but they now owe this much to the <em>PRI Account</em>.
@@ -317,36 +316,36 @@ Anybody who wants to can call for a feedback session after a Distribution. In pa
 </p>
 
   <h2>Earned Dividends</h2>
-<p>Below there are three sample scenarios for how Earned Dividends are calculated,
-</p>
-<ul>
-  <li>Below breakeven: When we as a company don’t generate enough Dividends to cover everybody’s PRIs in full and the difference has to come out of the PRI Accounts.
-  </li>
-  <li>At breakeven: When we make enough to at least pay everybody’s PRI.
-  </li>
-  <li>Above breakeven: When we as a company can pay everybody’s PRI <em>and</em> disburse Earned Dividends.
-  </li>
-</ul>
-<p>This first scenario is what normally happens at the start of a company: it doesn’t generate enough revenue to cover everybody’s PRI. In this case, we would need an investment or loan to put in the PRI Account so we can use it to meet the amount of PRI each person has set.
-</p>
-<p><img src="assets/img/dynamic-distribution-1" alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
-</p>
-<p>In the breakeven case we finally get to pay ourselves fully from the revenue that we’ve generated. Even in this case, some people may need to draw from the Predictable Recurring Income (PRI) Account, maybe because their PRI are high, or their RADs are low, or both.
-</p>
-<p><img src="assets/img/dynamic-distribution-2"  alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
-</p>
-<p>At some point, after we’ve been steadily growing our revenue, no money is coming out of our Predictable Recurring Income (PRI). This is when we start disbursing Earned Dividends in addition to covering everybody’s PRI.
-</p>
-<p><img src="assets/img/dynamic-distribution-3"  alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
-</p>
-<p>Notice that even though dividends are up, Julio continues to draw from the PRI Account because his PRI is pretty high and his RAD count is pretty low. He may want to change his PRI or get feedback on why his RADs are so low.
-</p>
+  <p>Below there are three sample scenarios for how Earned Dividends are calculated,
+  </p>
+  <ul>
+   <li>Below breakeven: When we as a company don’t generate enough Dividends to cover everybody’s PRIs in full and the difference has to come out of the PRI Accounts.
+   </li>
+   <li>At breakeven: When we make enough to at least pay everybody’s PRI.
+   </li>
+   <li>Above breakeven: When we as a company can pay everybody’s PRI <em>and</em> disburse Earned Dividends.
+   </li>
+  </ul>
+  <p>This first scenario is what normally happens at the start of a company: it doesn’t generate enough revenue to cover everybody’s PRI. In this case, we would need an investment or loan to put in the PRI Account so we can use it to meet the amount of PRI each person has set.
+  </p>
+  <p><img src="assets/img/dynamic-distribution-1" alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
+  </p>
+  <p>In the breakeven case we finally get to pay ourselves fully from the revenue that we’ve generated. Even in this case, some people may need to draw from the Predictable Recurring Income (PRI) Account, maybe because their PRI are high, or their RADs are low, or both.
+  </p>
+  <p><img src="assets/img/dynamic-distribution-2"  alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
+  </p>
+  <p>At some point, after we’ve been steadily growing our revenue, no money is coming out of our Predictable Recurring Income (PRI). This is when we start disbursing Earned Dividends in addition to covering everybody’s PRI.
+  </p>
+  <p><img src="assets/img/dynamic-distribution-3"  alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
+  </p>
+  <p>Notice that even though dividends are up, Julio continues to draw from the PRI Account because his PRI is pretty high and his RAD count is pretty low. He may want to change his PRI or get feedback on why his RADs are so low.
+  </p>
 
   <h2>By Comparison</h2h1>
-<p>This way of sharing the wealth should yield, at worst, the same as today’s VC system but with less risk and a huge increase in the number of beneficiaries.
-</p>
-<p><img src="bank-vs-vcs-vs-radical.svg" alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear at a little over half way into RISKS and half way up YIELD. RADICAL appear at a little less than half way into RISKS and nine tenth of the way up YIELD. The one on the right has RISKS on the horizontal axis and BENEFICIARIES on the vertical axis. As in the previous graph, BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear seven tenth of the way into RISKS and one fourth of the way up YIELD. As in the previous graph, RADICAL appear at a little less than half way into RISKS and nine tenth of the way up YIELD." title="Comparing Banks, VCs, and RADICAL.">
-</p>
+  <p>This way of sharing the wealth should yield, at worst, the same as today’s VC system but with less risk and a huge increase in the number of beneficiaries.
+  </p>
+  <p><img src="bank-vs-vcs-vs-radical.svg" alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear at a little over half way into RISKS and half way up YIELD. RADICAL appear at a little less than half way into RISKS and nine tenth of the way up YIELD. The one on the right has RISKS on the horizontal axis and BENEFICIARIES on the vertical axis. As in the previous graph, BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear seven tenth of the way into RISKS and one fourth of the way up YIELD. As in the previous graph, RADICAL appear at a little less than half way into RISKS and nine tenth of the way up YIELD." title="Comparing Banks, VCs, and RADICAL.">
+  </p>
 
 <br>
 <br>
