@@ -29,9 +29,11 @@ Every company is different because the people who embody it are different, so ev
   <td rowspan="2" style="vertical-align: top; "><p>relationships</p></td>
  </tr>
  <tr>
-  <td style="tex-align: right"><em>principles</em></td>
+  <td style="tex-align: right; padding-right: 1m; "><em>principles</em></td>
   <td style="width: 2in; background-color: #dddddd; text-align: center; "><strong>Meaning & Belonging</strong>/td>
   <td>⬈</td>
+ </tr>
+ <tr><td colspan="4">aaa&nbsp;</td></tr>
  </tr>
 </table>
 <table>
@@ -40,11 +42,11 @@ Every company is different because the people who embody it are different, so ev
   <td rowspan="2" style="vertical-align: top; "><p>autonomy</p></td>
  </tr>
  <tr>
-  <td style="tex-align: right"><em>commitments</em></td>
+  <td style="tex-align: right; padding-right: 1m; "><em>commitments</em></td>
   <td style="width: 2in; background-color: #dddddd; text-align: center; "><strong>Transparency & Decentralization</strong></td>
   <td>⬈</td>
  </tr>
- <tr><td colspan="4">&nbsp;</td></tr>
+ <tr><td colspan="4">bbb&nbsp;</td></tr>
 </table>
 <table>
  <tr>
@@ -52,11 +54,11 @@ Every company is different because the people who embody it are different, so ev
   <td rowspan="2" style="vertical-align: top; "><p>collaboration</p></td>
  </tr>
  <tr>
-  <td style="vertical-align: right"><em>practices</em></td>
+  <td style="vertical-align: right; padding-right: 1m; "><em>practices</em></td>
   <td style="width: 2in; background-color: #dddddd; text-align: center; "><strong>Alignment & Experimentation</strong></td>
   <td>⬈</td>
  </tr>
- <tr><td colspan="4">&nbsp;</td></tr>
+ <tr><td colspan="4">ccc&nbsp;</td></tr>
 </table>
 <p>Other principles and practices can be layered on top of them, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN> these are essential, otherwise it is just a FIAT business with ain’t-we-nice sprinkled on top.
 </p>
