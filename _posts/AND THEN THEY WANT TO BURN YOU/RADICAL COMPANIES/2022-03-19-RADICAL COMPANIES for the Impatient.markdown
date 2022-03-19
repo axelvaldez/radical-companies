@@ -81,20 +81,20 @@ Every company is different because the people who embody it are different, so ev
 </p>
 
  <h2>Rosedale Distribution</h2>
- <p>Rosedale Distribution<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,
- </p>
- <ul>
-  <li>As the company grows, a small amount of cash and shares are put out for distribution every month.
-  </li>
-  <li>Every member gets, say, $1,000, an equal portion of the wealth the company generated.
-  </li>
-  <li>People don’t get to keep these goodies for themselves: they get to distribute them to other members.
-  </li>
-  <li>They give it to anybody they feel has contributed the most during the month. Each person knows best who has contributed.
-  </li>
-  <li>Each person decides how much to give to whom based on whatever criteria “feels right” at that time.
-  </li>
- </ul>
+  <p>Rosedale Distribution<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,
+  </p>
+  <ul>
+   <li>As the company grows, a small amount of cash and shares are put out for distribution every month.
+   </li>
+   <li>Every member gets, say, $1,000, an equal portion of the wealth the company generated.
+   </li>
+   <li>People don’t get to keep these goodies for themselves: they get to distribute them to other members.
+   </li>
+   <li>They give it to anybody they feel has contributed the most during the month. Each person knows best who has contributed.
+   </li>
+   <li>Each person decides how much to give to whom based on whatever criteria “feels right” at that time.
+   </li>
+  </ul>
 
 <br>
 <br>
