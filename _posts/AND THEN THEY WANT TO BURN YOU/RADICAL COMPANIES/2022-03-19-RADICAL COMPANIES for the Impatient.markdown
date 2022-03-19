@@ -161,11 +161,11 @@ Every company is different because the people who embody it are different, so ev
    </p>
   <table>
    <tr>
-   <td colspan="4" ><img src="" alt="" title="">
+    <td colspan="4"><img src="/assets/img/and-then-e01.png" alt="" title="">
     </td>
    </tr>
    <tr>
-    <td colspan="4" >17 of 56 people. One person’s point of view.
+    <td colspan="4">17 of 56 people. One person’s point of view.
     </td>
    </tr>
    <tr>
