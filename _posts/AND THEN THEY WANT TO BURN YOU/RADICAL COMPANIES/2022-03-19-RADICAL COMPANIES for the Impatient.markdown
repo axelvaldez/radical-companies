@@ -161,7 +161,7 @@ Every company is different because the people who embody it are different, so ev
    </p>
   <table>
    <tr>
-    <td colspan="4"><img src="/assets/img/and-then-e01.png" alt="" title="">
+    <td colspan="4"><img src="/assets/img/predictable-recurring-income-pri-t1.svg" alt="" title="">
     </td>
    </tr>
    <tr>
@@ -171,23 +171,23 @@ Every company is different because the people who embody it are different, so ev
    <tr>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/and-then-e01.png" alt="Two people’s point of view." title="">
+      <img src="/assets/img/predictable-recurring-income-pri-t1.svg" alt="Two people’s point of view." title="">
      </p>
     </td>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/and-then-e01.png" alt="Three people’s point of view." title="">
+      <img src="/assets/img/predictable-recurring-income-pri-t2.svg" alt="Three people’s point of view." title="">
      </p>
     </td>
     <td>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/and-then-e01.png" alt="Four people’s point of view." title="">
+      <img src="/assets/img/predictable-recurring-income-pri-t3.svg" alt="Four people’s point of view." title="">
      </p>
     </td>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/and-then-e01.png" alt="Five people’s point of view." title="">
+      <img src="/assets/img/predictable-recurring-income-pri-t4.svg" alt="Five people’s point of view." title="">
      </p>
     </td>
    </tr>
