@@ -55,7 +55,6 @@ Every company is different because the people who embody it are different, so ev
 <h1>Alignment</h1>
 <p>In order to create a RADICAL company, we will first need to be explicit about the company’s <em>what for</em>, its <em>why</em>, and its <em>what</em>, <em>how</em>, and <em>when</em>. You might call them something different or you might lump some of these together. No matter how you express them, they have to be explicit and completely open and accessible to everyone. The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,
 <img src="assets/img/en-alignment.svg" alt="alt_text" title="Three-finger salute">
-
 <p>
   <ul>
     <li>Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.
@@ -135,7 +134,6 @@ Every company is different because the people who embody it are different, so ev
 <h1>Scalability</h1>
 <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,
 </p>
-
 <table>
   <tr>
     <td colspan="4" ><img src="" alt="" title="">
