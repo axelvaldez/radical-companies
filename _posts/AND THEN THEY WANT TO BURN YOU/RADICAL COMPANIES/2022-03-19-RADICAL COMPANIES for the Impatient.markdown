@@ -26,21 +26,21 @@ Every company is different because the people who embody it are different, so ev
 <table>
 <tr>
     <td><p style="text-align: right"><em>principles</em></p></td>
-    <td style="background-color: #dddddd; text-align: center; width: 1in; "><strong>Meaning &<br>Belonging</strong></td>
+    <td style="background-color: #dddddd; text-align: center; width: 1.25in; "><strong>Meaning &<br>Belonging</strong></td>
     <td>⬈</td>
     <td rowspan="2" style="text-align: top; "><em>relationships</em></td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
     <td><p style="text-align: right"><em>commitments</em></p></td>
-    <td style="background-color: #dddddd; text-align: center; width: 1in; "><strong>Transparency &<br>Decentralization</strong></td>
+    <td style="background-color: #dddddd; text-align: center; width: 1.25in; "><strong>Transparency &<br>Decentralization</strong></td>
     <td>⬈</td>
     <td rowspan="2" style="text-align: top; ">autonomy</em></td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
     <td><p style="text-align: right"><em>practices</em></p></td>
-    <td style="background-color: #dddddd; text-align: center; width: 1in; "><strong>Alignment & Experimentation</strong></td>
+    <td style="background-color: #dddddd; text-align: center; width: 1.25in; "><strong>Alignment & Experimentation</strong></td>
     <td>⬈</td>
     <td rowspan="2" style="text-align: top; "><em>collaboration</em></td>
 </tr>
