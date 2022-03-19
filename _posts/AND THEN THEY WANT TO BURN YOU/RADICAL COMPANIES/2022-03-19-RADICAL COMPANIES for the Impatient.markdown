@@ -73,6 +73,9 @@ Every company is different because the people who embody it are different, so ev
 <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and intelligible to everybody in the team.
 </p>
 
+<br>
+<br>
+
 <h1 style="text-align: center; ">2. RADICAL Distribution</h1>
 <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.
 </p>
@@ -176,12 +179,11 @@ Every company is different because the people who embody it are different, so ev
 </p>
 
 <h2>Banners</h2>
-<p>
-Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.
+<p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.
 </p>
 <p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.
 </p>
-<p><td colspan="4" ><img src="" alt="Five people’s point of view." title="">
+<p><td colspan="4" ><img src="assets/img/en-banner-funding-product-dev.svg" alt="Two post-its. The one of the left reads, 'Community: Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
 </p>
 <table>
   <tr>
@@ -247,6 +249,9 @@ Anybody who wants to can call for a feedback session after a Distribution. In pa
 </p>
 <p>In short, RADs account for the uncountable, they measure the immeasurable.
 </p>
+
+<br>
+<br>
 
 <h1 style="text-align: center; ">3. RADICAL Wealth Extraction</h1>
 <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated RADs. For example,
