@@ -25,7 +25,7 @@ Every company is different because the people who embody it are different, so ev
 </p>
 <table>
  <tr>
-  <td colspan="3">xxx</td>
+  <td colspan="3"></td>
   <td rowspan="2" style="vertical-align: top; "><p>relationships</p></td>
  </tr>
  <tr>
@@ -38,7 +38,7 @@ Every company is different because the people who embody it are different, so ev
 </table>
 <table>
  <tr>
-  <td colspan="3">yyy</td>
+  <td colspan="3"></td>
   <td rowspan="2" style="vertical-align: top; "><p>autonomy</p></td>
  </tr>
  <tr>
@@ -50,7 +50,7 @@ Every company is different because the people who embody it are different, so ev
 </table>
 <table>
  <tr>
-  <td colspan="3">zzz</td>
+  <td colspan="3"></td>
   <td rowspan="2" style="vertical-align: top; "><p>collaboration</p></td>
  </tr>
  <tr>
