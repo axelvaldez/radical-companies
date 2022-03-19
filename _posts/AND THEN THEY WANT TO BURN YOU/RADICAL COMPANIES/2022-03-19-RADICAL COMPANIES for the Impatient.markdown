@@ -26,21 +26,21 @@ Every company is different because the people who embody it are different, so ev
 <table>
 <tr>
     <td><p style="text-align: right"><em>principles</em></p></td>
-    <td style="background-color: #dddddd; text-align: center; ; "><strong>Meaning &<br>Belonging</strong></td>
+    <td style="background-color: #dddddd; text-align: center; width: 1in; "><strong>Meaning &<br>Belonging</strong></td>
     <td>⬈</td>
     <td rowspan="2" style="text-align: top; "><em>relationships</em></td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
     <td><p style="text-align: right"><em>commitments</em></p></td>
-    <td style="background-color: #dddddd; text-align: center; ; "><strong>Transparency &<br>Decentralization</strong></td>
+    <td style="background-color: #dddddd; text-align: center; width: 1in; "><strong>Transparency &<br>Decentralization</strong></td>
     <td>⬈</td>
     <td rowspan="2" style="text-align: top; ">autonomy</em></td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
     <td><p style="text-align: right"><em>practices</em></p></td>
-    <td style="background-color: #dddddd; text-align: center; "><strong>Alignment & Experimentation</strong></td>
+    <td style="background-color: #dddddd; text-align: center; width: 1in; "><strong>Alignment & Experimentation</strong></td>
     <td>⬈</td>
     <td rowspan="2" style="text-align: top; "><em>collaboration</em></td>
 </tr>
@@ -56,6 +56,7 @@ Every company is different because the people who embody it are different, so ev
 <h2>Alignment</h2>
 <p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COMPANY</SPAN>, we will first need to be explicit about the company’s <em>what for</em>, its <em>why</em>, and its <em>what</em>, <em>how</em>, and <em>when</em>. You might call them something different or you might lump some of these together. No matter how you express them, they have to be explicit and completely open and accessible to everyone. The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,
 <img src="assets/img/en-alignment.svg" alt="alt_text" title="Three-finger salute">
+
 <p>
   <ul>
     <li>Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.
