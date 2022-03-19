@@ -32,7 +32,7 @@ Every company is different because the people who embody it are different, so ev
  </tr>
  <tr>
   <td><p style="tex-align: right"><em>principles</em></p></td>
-  <td style="width: 3in; background-color: #dddddd; text-align: center; "><p><strong>Meaning & Belonging</strong></p></td>
+  <td style="width: 2in; background-color: #dddddd; text-align: center; "><p><strong>Meaning & Belonging</strong></p></td>
   <td>⬈</td>
  </tr>
  <tr><td>&nbsp;</td></tr>
