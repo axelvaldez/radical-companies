@@ -26,21 +26,21 @@ Every company is different because the people who embody it are different, so ev
 <table>
 <tr>
     <td><p style="text-align: right"><em>principles</em></p></td>
-    <td style="background-color: #dddddd; text-align: center; width: 1.5in; "><strong>Meaning &<br>Belonging</strong></td>
+    <td style="width: 1.5in; background-color: #dddddd; text-align: center; "><strong>Meaning & Belonging</strong></td>
     <td>⬈</td>
     <td rowspan="2" style="text-align: top; ">relationships</td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
     <td><p style="text-align: right"><em>commitments</em></p></td>
-    <td style="background-color: #dddddd; text-align: center; width: 1.5in; "><strong>Transparency &<br>Decentralization</strong></td>
+    <td style="width: 1.5in; background-color: #dddddd; text-align: center; "><strong>Transparency & Decentralization</strong></td>
     <td>⬈</td>
     <td rowspan="2" style="text-align: top; ">autonomy<</td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
     <td><p style="text-align: right"><em>practices</em></p></td>
-    <td style="background-color: #dddddd; text-align: center; width: 1.5in; "><strong>Alignment & Experimentation</strong></td>
+    <td style="width: 1.5in; background-color: #dddddd; text-align: center; "><strong>Alignment & Experimentation</strong></td>
     <td>⬈</td>
     <td rowspan="2" style="text-align: top; ">collaboration</td>
 </tr>
@@ -50,7 +50,7 @@ Every company is different because the people who embody it are different, so ev
 </p>
 <p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time.
 </p>
-<p style="font-size: smaller; padding-left: 5em; ">“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>
+<p style="font-size: smaller; padding: 0 3em; ">“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>
 </p>
 
 <h2>Alignment</h2>
