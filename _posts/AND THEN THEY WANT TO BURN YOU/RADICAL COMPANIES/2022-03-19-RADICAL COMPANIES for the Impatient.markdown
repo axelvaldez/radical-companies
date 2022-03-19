@@ -90,11 +90,9 @@ Every company is different because the people who embody it are different, so ev
 <br>
 
 <h1 style="text-align: center; ">2. <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution</h1>
+<br>
 <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.
 </p>
-
- <br>
-<br>
 
  <h2>Rosedale Distribution</h2>
   <br>
@@ -117,7 +115,6 @@ Every company is different because the people who embody it are different, so ev
 <br>
 
  <h2>The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Difference</h2>
-  <br>
   <p>Instead of cash or stocks, <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution uses a dimensionless unit we call a RAD. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, RADs represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>. 
   </p>
   <p>RADs represent any kind of contribution, not just financial. In fact, as an accounting tool, RADs account for the unaccountable.
