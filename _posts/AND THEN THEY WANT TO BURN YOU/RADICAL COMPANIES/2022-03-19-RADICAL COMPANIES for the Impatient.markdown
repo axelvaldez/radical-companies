@@ -33,6 +33,8 @@ Every company is different because the people who embody it are different, so ev
   <td style="width: 2in; background-color: #dddddd; text-align: center; "><strong>Meaning & Belonging</strong>/td>
   <td>⬈</td>
  </tr>
+</table>
+<table>
  <tr><td colspan="4">&nbsp;</td></tr>
  <tr>
   <td colspan="3"></td>
