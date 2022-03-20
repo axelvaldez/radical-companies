@@ -385,7 +385,7 @@ Every company is different because the people who embody it are different, so ev
    <p>Notice that even though dividends are up, Julio continues to draw from the PRI Account because his PRI is pretty high and his RAD count is pretty low. He may want to change his PRI or get feedback on why his <SPAN>RAD</SPAN>s are so low.
    </p>
 
-  <h2>By Comparison</h2h1>
+  <h2>By Comparison</h2>
    <p>This way of sharing the wealth should yield, at worst, the same as today’s VC system but with less risk and a huge increase in the number of beneficiaries.
    </p>
    <p><img src="/assets/img/bank-vs-vcs-vs-radical.svg" alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear at a little over half way into RISKS and half way up YIELD." title=""> <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> appear at a little less than half way into RISKS and nine tenth of the way up YIELD. The one on the right has RISKS on the horizontal axis and BENEFICIARIES on the vertical axis. As in the previous graph, BANKS appear at about one fifth of the way into RISKS and one tenth of the way up YIELD. VCs appear seven tenth of the way into RISKS and one fourth of the way up YIELD. As in the previous graph, <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> appear at a little less than half way into RISKS and nine tenth of the way up YIELD." title="Comparing Banks, VCs, and <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN>.">
