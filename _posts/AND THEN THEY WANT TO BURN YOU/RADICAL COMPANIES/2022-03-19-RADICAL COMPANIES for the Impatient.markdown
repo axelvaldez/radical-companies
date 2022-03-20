@@ -231,7 +231,7 @@ Every company is different because the people who embody it are different, so ev
       </p>
      </td>
     </tr>
-    <tr style="border: 1px 1px 1px 1px; ">
+    <tr style="border-width: 1px 1px 1px 1px; ">
      <th>
       <p style="text-align: right; text-align: top; padding-right: 1em; vertical-align: top; ">Community
       </p>
@@ -241,7 +241,7 @@ Every company is different because the people who embody it are different, so ev
       </p>
      </td>
     </tr>
-    <tr style="border: 1px 1px 1px 1px; ">
+    <tr style="border-width: 1px 1px 1px 1px; ">
      <th>
       <p style="text-align: right; text-align: top; padding-right: 1em; vertical-align: top; ">Experimental Projects
       </p>
@@ -253,7 +253,7 @@ Every company is different because the people who embody it are different, so ev
       </p>
      </td>
     </tr>
-    <tr>
+    <tr style="border-width: 1px 1px 1px 1px; ">
      <th><p style="text-align: right; text-align: top; padding-right: 1em; ">Investments</p>
      </th>
      <td>
@@ -263,7 +263,9 @@ Every company is different because the people who embody it are different, so ev
       </p>
      </td>
     </tr>
-    <tr><td colspan="2">&nbsp;</td></tr>
+    <tr style="border-width: 1px 1px 1px 1px; ">
+     <td colspan="2">&nbsp;</td>
+    </tr>
    </table>
 
   <h3>Retrospectives</h3>
