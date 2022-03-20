@@ -215,25 +215,25 @@ Every company is different because the people who embody it are different, so ev
    <p style="width: 80%; margin: 0 auto; "><img src="/assets/img/en-banner-funding-product-dev.svg" alt="Two post-its. The one of the left reads, 'Community:   Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
    </p>
    <table>
-    <tr>
+    <tr style="border: 1px 1px 1px 1px; ">
      <th><p style="text-align: right; text-align: top; padding-right: 1em; vertical-align: top; ">Teams</p>
      </th>
      <td>Teams can be represented by a Banner. “re: Recognize our IT support team for how they handled the storm.”
      </td>
     </tr>
-    <tr>
+    <tr style="border: 1px 1px 1px 1px; ">
      <th><p style="text-align: right; text-align: top; padding-right: 1em; vertical-align: top; ">Special Accomplishment</p>
      </th>
      <td>“Margot deserves to be recognized for stewarding the creation of our training platform.”
      </td>
     </tr>
-    <tr>
+    <tr style="border: 1px 1px 1px 1px; ">
      <th><p style="text-align: right; text-align: top; padding-right: 1em; vertical-align: top; ">Community</p>
      </th>
      <td>For example, a “No Noise” banner could fund a sound barrier around a noisy factory. A “River Walk” banner could fund a clean up and beautification of a stream that runs nearby. One could even fund a local vet hospital to help it recover from a fire.
      </td>
     </tr>
-    <tr>
+    <tr style="border: 1px 1px 1px 1px; ">
      <th><p style="text-align: right; text-align: top; padding-right: 1em; vertical-align: top; ">Experimental Projects</p>
      </th>
      <td>At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects and  things like Google News came out of it. That was a generous policy given by the <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> owners, but the same owners later took it away.
