@@ -191,16 +191,16 @@ Every company is different because the people who embody it are different, so ev
     </td>
    </tr>
    <tr>
-    <td style="font-size: x-small; ">31 of 56 people.<br>
+    <td style="font-size: x-small; text-align: center; ">31 of 56 people.<br>
      Two people’s point of view.
     </td>
-    <td style="font-size: x-small; ">40 of 56.<br>
+    <td style="font-size: x-small; text-align: center; ; ">40 of 56.<br>
      Three people’s point of view.
     </td>
-    <td style="font-size: x-small; ">55 of 56.<br>
+    <td style="font-size: x-small; text-align: center; ; ">55 of 56.<br>
      Four people’s point of view.
     </td>
-    <td style="font-size: x-small; ">56 of 56.<br>
+    <td style="font-size: x-small; text-align: center; ; ">56 of 56.<br>
      Five people’s point of view.
     </td>
  </tr>
