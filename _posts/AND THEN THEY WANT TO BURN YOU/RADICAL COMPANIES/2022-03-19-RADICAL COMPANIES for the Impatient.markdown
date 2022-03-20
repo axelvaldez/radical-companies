@@ -212,7 +212,7 @@ Every company is different because the people who embody it are different, so ev
    </p>
    <p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.
    </p>
-   <p><td colspan="4" ><img src="/assets/img/en-banner-funding-product-dev.svg" alt="Two post-its. The one of the left reads, 'Community:   Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
+   <p style="width: 80%; margin: 0 auto; "><img src="/assets/img/en-banner-funding-product-dev.svg" alt="Two post-its. The one of the left reads, 'Community:   Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
    </p>
    <table>
     <tr>
