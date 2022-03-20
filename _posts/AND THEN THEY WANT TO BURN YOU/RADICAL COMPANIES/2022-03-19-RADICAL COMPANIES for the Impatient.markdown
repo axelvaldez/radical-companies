@@ -215,15 +215,17 @@ Every company is different because the people who embody it are different, so ev
    <p style="width: 80%; margin: 0 auto; "><img src="/assets/img/en-banner-funding-product-dev.svg" alt="Two post-its. The one of the left reads, 'Community:   Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
    </p>
    <table>
-    <tr style="border: 1px 1px 1px 1px; ">
-     <th><p style="text-align: right; text-align: top; padding-right: 1em; vertical-align: top; ">Teams</p>
+    <tr style="vertical-align: top; border-width: 0 1px; ">
+     <th style=" text-align: right; padding-right: 1em; ">
+      <p>Teams
+      </p>
      </th>
      <td><p>Teams can be represented by a Banner. “re: Recognize our IT support team for how they handled the storm.”</p>
      </td>
     </tr>
-    <tr style="border: 1px 1px 1px 1px; ">
-     <th>
-      <p style="text-align: right; text-align: top; padding-right: 1em; vertical-align: top; ">Special Accomplishment
+    <tr style="vertical-align: top; border-width: 0 1px; ">
+     <th style=" text-align: right; padding-right: 1em; ">
+      <p>Special Accomplishment
       </p>
      </th>
      <td>
@@ -233,7 +235,7 @@ Every company is different because the people who embody it are different, so ev
     </tr>
     <tr style="border-width: 1px 1px 1px 1px; ">
      <th>
-      <p style="text-align: right; text-align: top; padding-right: 1em; vertical-align: top; ">Community
+      <p>Community
       </p>
      </th>
      <td>
@@ -241,9 +243,9 @@ Every company is different because the people who embody it are different, so ev
       </p>
      </td>
     </tr>
-    <tr style="border-width: 1px 1px 1px 1px; ">
-     <th>
-      <p style="text-align: right; text-align: top; padding-right: 1em; vertical-align: top; ">Experimental Projects
+    <tr style="vertical-align: top; border-width: 0 1px; ">
+     <th style=" text-align: right; padding-right: 1em; ">
+      <p>Experimental Projects
       </p>
      </th>
      <td>
@@ -253,8 +255,9 @@ Every company is different because the people who embody it are different, so ev
       </p>
      </td>
     </tr>
-    <tr style="border-width: 1px 1px 1px 1px; ">
-     <th><p style="text-align: right; text-align: top; padding-right: 1em; ">Investments</p>
+    <tr style="vertical-align: top; border-width: 0 1px; ">
+     <th style=" text-align: right; padding-right: 1em; ">
+      <p>Investments</p>
      </th>
      <td>
       <p>In <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has more to do with ego, like a pharaoh’s pyramid.
@@ -262,9 +265,6 @@ Every company is different because the people who embody it are different, so ev
       <p>In a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company , anybody can put up a “New building” Banner and allow co-owners to contribute to the funding of it or not.
       </p>
      </td>
-    </tr>
-    <tr style="border-width: 1px 1px 1px 1px; ">
-     <td colspan="2">&nbsp;</td>
     </tr>
    </table>
 
