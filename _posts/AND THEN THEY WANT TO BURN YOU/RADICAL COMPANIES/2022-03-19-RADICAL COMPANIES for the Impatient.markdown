@@ -212,10 +212,11 @@ Every company is different because the people who embody it are different, so ev
    </p>
    <p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.
    </p>
-   <p style="width: 80%; margin: 0 auto; "><img src="/assets/img/en-banner-funding-product-dev.svg" alt="Two post-its. The one of the left reads, 'Community:   Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
+   <p style="width: 80%; margin: 0 auto; ">
+    <img src="/assets/img/en-banner-funding-product-dev.svg" alt="Two post-its. The one of the left reads, 'Community:   Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
    </p>
    <table>
-    <tr style="vertical-align: top; border-width: 0 1px; ">
+    <tr style="vertical-align: top; ">
      <th style=" text-align: right; padding-right: 1em; ">
       <p>Teams
       </p>
@@ -223,7 +224,7 @@ Every company is different because the people who embody it are different, so ev
      <td><p>Teams can be represented by a Banner. “re: Recognize our IT support team for how they handled the storm.”</p>
      </td>
     </tr>
-    <tr style="vertical-align: top; border-width: 0 1px; ">
+    <tr style="vertical-align: top; ">
      <th style=" text-align: right; padding-right: 1em; ">
       <p>Special Accomplishment
       </p>
@@ -233,8 +234,8 @@ Every company is different because the people who embody it are different, so ev
       </p>
      </td>
     </tr>
-    <tr style="border-width: 1px 1px 1px 1px; ">
-     <th>
+    <tr style="vertical-align: top; ">
+     <th style=" text-align: right; padding-right: 1em; ">
       <p>Community
       </p>
      </th>
@@ -243,7 +244,7 @@ Every company is different because the people who embody it are different, so ev
       </p>
      </td>
     </tr>
-    <tr style="vertical-align: top; border-width: 0 1px; ">
+    <tr style="vertical-align: top; ">
      <th style=" text-align: right; padding-right: 1em; ">
       <p>Experimental Projects
       </p>
@@ -255,7 +256,7 @@ Every company is different because the people who embody it are different, so ev
       </p>
      </td>
     </tr>
-    <tr style="vertical-align: top; border-width: 0 1px; ">
+    <tr style="vertical-align: top; ">
      <th style=" text-align: right; padding-right: 1em; ">
       <p>Investments</p>
      </th>
