@@ -216,25 +216,25 @@ Every company is different because the people who embody it are different, so ev
    </p>
    <table>
     <tr>
-     <th><p style="text-align: right; text-align: top; padding-right: 1em; ; ">Teams</p>
+     <th><p style="text-align: right; text-align: top; padding-right: 1em; vertical-align: top; ">Teams</p>
      </th>
      <td>Teams can be represented by a Banner. “re: Recognize our IT support team for how they handled the storm.”
      </td>
     </tr>
     <tr>
-     <th><p style="text-align: right; text-align: top; padding-right: 1em; ; ">Special Accomplishment</p>
+     <th><p style="text-align: right; text-align: top; padding-right: 1em; vertical-align: top; ">Special Accomplishment</p>
      </th>
      <td>“Margot deserves to be recognized for stewarding the creation of our training platform.”
      </td>
     </tr>
     <tr>
-     <th><p style="text-align: right; text-align: top; padding-right: 1em; ; ">Community</p>
+     <th><p style="text-align: right; text-align: top; padding-right: 1em; vertical-align: top; ">Community</p>
      </th>
      <td>For example, a “No Noise” banner could fund a sound barrier around a noisy factory. A “River Walk” banner could fund a clean up and beautification of a stream that runs nearby. One could even fund a local vet hospital to help it recover from a fire.
      </td>
     </tr>
     <tr>
-     <th><p style="text-align: right; text-align: top; padding-right: 1em; ; ">Experimental Projects</p>
+     <th><p style="text-align: right; text-align: top; padding-right: 1em; vertical-align: top; ">Experimental Projects</p>
      </th>
      <td>At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects and  things like Google News came out of it. That was a generous policy given by the <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> owners, but the same owners later took it away.
       <p>For a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company the equivalent thing would be to put up a “20%” Banner and co-owners could allocate RADs to it as they see fit. Or more specifically, a “Google News” Banner could fund that specific project.
