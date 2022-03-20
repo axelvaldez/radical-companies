@@ -340,6 +340,7 @@ Every company is different because the people who embody it are different, so ev
    <li>If I earned more than my PRI, then I can take home my PRI and my Earned Dividends.
    </li>
    <li>If what I’ve earned matches my PRI, then I take that much home, similar to a traditional salary.
+   </li>
    <li>If I earned less than my PRI, I still take home the amount of money I expected, because the PRI Account makes up the difference. But I now owe the difference to the PRI Account.
    </li>
   </ul>
