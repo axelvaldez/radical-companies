@@ -159,7 +159,7 @@ Every company is different because the people who embody it are different, so ev
   <h3>Scalability</h3>
    <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,
    </p>
-  <table>
+  <table style="width: 80%; margin: 0 auto; ">
    <tr>
     <td colspan="4"><img src="/assets/img/dynamic-distribution-1.svg" alt="A big circle inside which there are 56 faces, 17 of which are in color to indicate they've been given RADs by one person." title="17 of 56 people. One person’s point of view.">
     </td>
