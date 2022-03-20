@@ -165,7 +165,7 @@ Every company is different because the people who embody it are different, so ev
     </td>
    </tr>
    <tr>
-    <td colspan="4" style="font-size: larger; text-align: center: ">17 of 56 people. One person’s point of view.
+    <td colspan="4" style="font-size: larger; margin: 0 auto; ">17 of 56 people. One person’s point of view.
     </td>
    </tr>
    <tr>
