@@ -171,23 +171,23 @@ Every company is different because the people who embody it are different, so ev
    <tr>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/dynamic-distribution-2.svg" alt="A small circle inside which there are 56 faces, 31 of which are in color to indicate they've been given RADs by two people." title="21 of 56 people. Two people’s point of view.">
+      <img src="assets/img/dynamic-distribution-2.svg" alt="A small circle inside which there are 56 faces, 31 of which are in color to indicate they've been given RADs by two people." title="21 of 56 people. Two people’s point of view.">
      </p>
     </td>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/dynamic-distribution-3.svg" alt="A small circle inside which there are 56 faces, 40 of which are in color to indicate they've been given RADs by three people." title="40 of 56 people. Three people’s point of view.">
+      <img src="assets/img/dynamic-distribution-3.svg" alt="A small circle inside which there are 56 faces, 40 of which are in color to indicate they've been given RADs by three people." title="40 of 56 people. Three people’s point of view.">
      </p>
     </td>
     <td>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/dynamic-distribution-4.svg" alt="A small circle inside which there are 56 faces, 55 of which are in color to indicate they've been given RADs by four people." title="55 of 56 people. Four people’s point of view.">
+      <img src="assets/img/dynamic-distribution-4.svg" alt="A small circle inside which there are 56 faces, 55 of which are in color to indicate they've been given RADs by four people." title="55 of 56 people. Four people’s point of view.">
      </p>
     </td>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/dynamic-distribution-5.svg" alt="A small circle inside which there are 56 faces, all of which are in color to indicate they've been given RADs by five people." title="56 of 56 people. Five people’s point of view.">
+      <img src="assets/img/dynamic-distribution-5.svg" alt="A small circle inside which there are 56 faces, all of which are in color to indicate they've been given RADs by five people." title="56 of 56 people. Five people’s point of view.">
      </p>
     </td>
    </tr>
