@@ -17,6 +17,8 @@ the Impatient</a>.
 <br>
 
 <h1 style="text-align: center; ">Co-Ownership</h1>
+<br>
+
 <h2>Does a company need to be co-owned to be RADICAL?</h2>
 <p>Yes, it has to be co-owned <em>and</em> co-managed.
 </p>
