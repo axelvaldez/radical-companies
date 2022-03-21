@@ -327,8 +327,7 @@ differently,
    </td>
   </tr>
   <tr>
-   <td>
-    <p style="text-align: right; padding-right: 1em; ">commitments
+   <td style="vertical-align: middle; text-align: right; padding-right: 1em; ">commitments
     </p>
    </td>
    <td style="background-color: lightgrey; width: 2in; text-align: center; ">
@@ -344,7 +343,7 @@ differently,
    </td>
   </tr>
   <tr>
-   <td><p style="text-align: right; padding-right: 1em; ">practices</p>
+   <td style="vertical-align: middle; text-align: right; padding-right: 1em; ">practices
    </td>
    <td style="background-color: lightgrey; width: 2in; text-align: center; ">
     <strong>Alignment & Experimentation</strong>
