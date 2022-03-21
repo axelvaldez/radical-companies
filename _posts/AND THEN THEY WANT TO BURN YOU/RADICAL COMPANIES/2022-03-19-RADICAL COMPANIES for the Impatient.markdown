@@ -386,16 +386,16 @@ Every company is different because the people who embody it are different, so ev
    <p>In the breakeven case we finally get to pay ourselves fully from the revenue that we’ve generated. Even in this case, some people may need to draw from the Predictable Recurring Income (PRI) Account, maybe because their PRI are high, or their RADs are low, or both.
    </p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-     <img src="assets/img/dynamic-distribution-3.svg" alt="A table and a graph. The DIVIDENS for the month is $6000 (which is below the $10000 breakeven point). The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
-     The total DIVIDENDS add up to $16000, which is right at breakeven.
-     The firs column is labeled SALIM who has 250 RADs, has EARNED  $2000 and so he doesn't have to take anything from the PRI ACCOUNT and take his $2000 PRI.
-     The second column is labeled DALIAH who has 450 RADs, has EARNED $3600 and doesn't have to take anything out of the PRI ACCOUNT to cover his $1500 PRI.
-     Next is ALICIA with 670 RADs, she has EARNED $5360 and doesn't need to take anything from the PRI ACCOUNT to cover her $5000 PRI take home.
-     Next is KIM who has 200 RADs, has EARNED $1600, and needs to take $900 out of the PRI ACCOUNT to cover his $2500 PRI.
-     Next is JULIO who has 130 RADs, has EARNED $1040, and has to take $2960 from the PRI ACCOUNT to cover this $4000 PRI.
-     The last column is labeled ANITA who has 300 RADs, has EARNED $2400, and doesn't need to take anything from the PRI ACCOUNT to cover her $1000 PRI take home.
-     The graph shows the PRI ACCOUNT as box full of read liquid.
-     Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
+    <img src="assets/img/dynamic-distribution-3.svg" alt="A table and a graph. The DIVIDENS for the month is $6000 (which is below the $10000 breakeven point). The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
+    The total DIVIDENDS add up to $16000, which is right at breakeven.
+    The firs column is labeled SALIM who has 250 RADs, has EARNED  $2000 and so he doesn't have to take anything from the PRI ACCOUNT and take his $2000 PRI.
+    The second column is labeled DALIAH who has 450 RADs, has EARNED $3600 and doesn't have to take anything out of the PRI ACCOUNT to cover his $1500 PRI.
+    Next is ALICIA with 670 RADs, she has EARNED $5360 and doesn't need to take anything from the PRI ACCOUNT to cover her $5000 PRI take home.
+    Next is KIM who has 200 RADs, has EARNED $1600, and needs to take $900 out of the PRI ACCOUNT to cover his $2500 PRI.
+    Next is JULIO who has 130 RADs, has EARNED $1040, and has to take $2960 from the PRI ACCOUNT to cover this $4000 PRI.
+    The last column is labeled ANITA who has 300 RADs, has EARNED $2400, and doesn't need to take anything from the PRI ACCOUNT to cover her $1000 PRI take home.
+    The graph shows the PRI ACCOUNT as box full of read liquid.
+    Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
    </p>
    <p>At some point, after we’ve been steadily growing our revenue, no money is coming out of our Predictable Recurring Income (PRI). This is when we start disbursing Earned Dividends in addition to covering everybody’s PRI.
    </p>
