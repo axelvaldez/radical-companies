@@ -3,7 +3,7 @@ layout:   post
 title:    "RADICAL COMPANIES for the Impatient"
 subtitle: ""
 authors:  "Matt PEREZ | Adrian PEREZ | Jose LEAL"
-image:    "en-vacant-lot-henry-george.svg"
+image:    "dynamic-distribution-1.svg"
 ---
 
 <h1 style="text-align: center; ">1. The <span style="font-size: smaller; ">RADICAL</span> Model</h1>
