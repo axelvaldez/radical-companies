@@ -126,11 +126,14 @@ differently,
 <p>Given the financial risk, then why do RADICAL investments at all?
 </p>
 <ul>
-<li>Every co-owner wants their business to succeed and the investment into a blow out financial success. Their self-interest is perfectly aligned with the financial investor’s interest.
-<li>If problems arise, co-owners will recognize them right away and make them visible to all other co-owners and investors. (<em>i.e.</em>, transparency).
-<li>Co-owners have the wherewithal to come up with solutions or ways around a problem. There is little or no energy will ever go into trying to hide a significant problem.
-<li>There is very little chance of, say, a founder taking the company in the wrong direction for long without other co-owners noticing, voicing it, and doing something about it.
-</li>
+ <li>Every co-owner wants their business to succeed and the investment into a blow out financial success. Their self-interest is perfectly aligned with the financial investor’s interest.
+ </li>
+ <li>If problems arise, co-owners will recognize them right away and make them visible to all other co-owners and investors. (<em>i.e.</em>, transparency).
+ </li>
+ <li>Co-owners have the wherewithal to come up with solutions or ways around a problem. There is little or no energy will ever go into trying to hide a significant problem.
+ </li>
+ <li>There is very little chance of, say, a founder taking the company in the wrong direction for long without other co-owners noticing, voicing it, and doing something about it.
+ </li>
 </ul>
 <p>This is to say that a RADICAL investment is less risky than the traditional risk capital investment because everyone in the company, and not just a select few, is committed to its success and fully supportive of it.
 </p>
@@ -169,7 +172,7 @@ differently,
 <p>My hope is that over time changing how companies are governed and owned will spill out and change the system we live in and make things healthier. And all kinds of shenanigans will happen along the way, for sure.
 </p>
 
-<h2>Do you know of other models for handling salaries?
+<h2>Do you know of other models for handling salaries?</h2>
 <p>There are a couple of companies in Argentina and a few in Europe that are experimenting with salaries. Ricardo Semler experimented with self-assigned salaries at SEMCO, in the late 1970s.
 </p>
 <p> In the cases we know of, they are still considered wages. We are so used to the work-for-money system that we don’t question it. We don’t even  realize that it is more like, “I create wealth for you, and you give me a fixed amount of money that’s unrelated to the wealth generated.”
@@ -181,13 +184,13 @@ differently,
 <p>We don’t know what the ultimate form of this will be, but we feel strongly that wealth extraction has to be tied to financial performance and contributions.
 </p>
 
-<h2>So, stock owners don't have any form of control? Look at what’s happening in the oil & gas industry. We need responsible stockowners to force companies to change!
+<h2>So, stock owners don't have any form of control? Look at what’s happening in the oil & gas industry. We need responsible stockowners to force companies to change!</h2>
 <p>The existing financial system is broken, yes. What’s happening with many businesses, not in oil and gas, is a reflection of that. We don’t know how to tweak the current system so it lets us live a bit longer, but more bureaucratic controls are not going to fix it.
 </p>
 <p>In a decentralized world, co-owners will deal with problems <em>before</em> they become a problem. They become a problem today because a handful of people can decide to ignore “externalities” for the sake of financial gain.
 </p>
 
-<h2>Aren’t the liquidy suggestions super complex? What about tax-wise? Do we want the people to deal with that?
+<h2>Aren’t the liquidy suggestions super complex? What about tax-wise? Do we want the people to deal with that?</h2>
 <p>We never said anything about taxes, law, or anything else we don’t know much about. These are suggestions, thought experiments to point to  how things could possibly work.
 </p>
 <p>Maybe it is not so much a case that these ideas are impractical, as it is that they are different and unfamiliar.
@@ -224,17 +227,18 @@ differently,
 <p>You organize as a RADICAL company because,
 </p>
 <ul>
-<li>You want a better quality of life for yourself and those around you.
+ <li>You want a better quality of life for yourself and those around you.
 </li>
  <li>You want the company to outlast you.
-</li>
+ </li>
  <li>You want the company to grow.
-</li>
+ </li>
  <li>You want everybody to financially benefit from the wealth the company creates.
-<li>You want to take more chances while minimizing the risk of doing so.
-</li>
+ </li>
+ <li>You want to take more chances while minimizing the risk of doing so.
+ </li>
  <li>How do I become a RADICAL Company?
-</li>
+ </li>
 </ul>
 <p>By committing to transforming to the RADICAL paradigm. In the words of the all-wise Yoda, “try not, do.”
 </p>
@@ -253,7 +257,7 @@ differently,
 <p>What you get instead is a company that creates more wealth that more people benefit from, a better quality of life for all involved, it’s more innovative and less risky, more resilient and scalable, a learning, collaborative culture.
 </p>
 
-<h2>If the benevolent owners are fairly young, self-management is not so at risk, right?
+<h2>If the benevolent owners are fairly young, self-management is not so at risk, right?</h2>
 <p>The owners could decide to sell the company or they can simply change their mind overnight. Unfortunately, we’ve had an example of the latter recently
 (<em>ca.</em>, 2021), witness Basecamp.
 </p>
@@ -262,14 +266,14 @@ differently,
 <p>BTW, this overnight change of heart was, at least, more open (<em>i.e.</em>, Fried posted the letter publicly). When benevolent owners backtrack little by little, it most often goes unnoticed.
 </p>
 
-<h2>Core Design Principle “nested enterprises,” is questionable. Wouldn’t bad behavior of one group always be sanctioned within a bigger ecosystem?
+<h2>Core Design Principle “nested enterprises,” is questionable. Wouldn’t bad behavior of one group always be sanctioned within a bigger ecosystem?</h2>
 <p>This stuff about “sanctioning bad behavior” only makes sense if the whole ecosystem is corrupt. This is very likely the case in a FIAT business. But in a RADICAL company even if a few co-owners drink too much Kool-Aid, the others will raise the red flag.
 </p>
 <p>In any case, this is not about “sanctioning.” It is about applying the same Core Design Principle to any interactions with other groups within the same organization managing a Common Pool Resource,
 </p>
 
-<h2>Boundaries of users and resource are clear
- <li>Congruence between benefits and costs
+<h2>Boundaries of users and resource are clear</h2>
+<li>Congruence between benefits and costs
  </li>
  <li>Users had procedures for making own rules
  </li>
@@ -289,7 +293,7 @@ differently,
 <p>No question that <em>financially</em> businesses are going up, but the financial “rewards,” the dividends, are going to fewer and fewer while the price, emotional damage and diminished health, is being paid by more and more.
 </p>
 
-<h2>How do we do this [transformation] even for the people that do not want it or are not ready for it?
+<h2>How do we do this [transformation] even for the people that do not want it or are not ready for it?</h2>
 <p>We cannot “do this” for anybody. With this book, we are simply trying to make everybody aware of the system we are immersed in: we are making us fish aware that we live in water and how this shapes us. As RADICAL ideas become more widely known and more people go from I-am-curious to I-am-ready, companies will start to transform. This will be evolutionary, from living in water to living on land. Through it all, we'll find out what works and what doesn't for every particular company.
 </p>
 <p>Rather than dictate yet-another-structure, we are proposing a few foundational basics,
@@ -353,7 +357,7 @@ differently,
 <em>your</em> company’s progress over time (“We are <em>more</em> transparent this month than last month”).
 </p>
 
-<h2>How can a FIAT company transform to a RADICAL model? It needs first a certain base of trust and experience before such an approach can be successful, no? How can this gap be bridged?
+<h2>How can a FIAT company transform to a RADICAL model? It needs first a certain base of trust and experience before such an approach can be successful, no? How can this gap be bridged?</h2>
 <p>K2K Emocionando in Spain has been doing it since 2007, so it is possible.
 </p>
 <p>First they spend time educating the owners on what to expect, the financial arrangements, etc. Then they spend time with <em>everybody</em> else in the company. Then they put together a proposal based on what they heard. Finally, people (sigh) vote on it. If there’s an overwhelming number of YES (not just majority), then they start implementing the transformation. Each is different.
@@ -369,7 +373,7 @@ differently,
 </p>
 <p>We are financially dependent on our jobs and not far away from the risk of destitution if we step outside the box.
 </p></h2></h2>
-<h2>Maybe use a less “devastating, negative and martial” language when talking about FIAT companies? Giving the “old way of doing it” a bit more credit will give the cause more credibility and acceptance as well.
+<h2>Maybe use a less “devastating, negative and martial” language when talking about FIAT companies? Giving the “old way of doing it” a bit more credit will give the cause more credibility and acceptance as well.</h2>
 <p>At this point there are people who recognize the problem and are looking for ways out of it and will not feel threatened. We tried not to make it sound like war, but probably got over-enthusiastic in places.
 </p>
 <p>No language will move people who are squarely committed to the status quo. On the other hand, it will equivocate the fundamental message that the status quo is killing us and we have to find alternatives. This book is one such alternative.
@@ -377,7 +381,7 @@ differently,
 <p>As we mentioned somewhere in the book, for most people who grew up climbing the FIAT ladder, all of this is “utterly ridiculous.” There will be a time, later, when we'll have to help the undecided move away from FIAT, but it's not time yet, IMO.
 </p>
 
-<h2>Voting may be a limited way of making decisions, but how can it be overcome, particularly in larger organizations?
+<h2>Voting may be a limited way of making decisions, but how can it be overcome, particularly in larger organizations?</h2>
 <p>Every so often we will get a letter from a company asking us to “please, vote” for a new Board. However, there's usually a given slate of Board candidates already selected and, at best, you can write in a candidate or two. In the end, the system remains and the new Board operates like the old Board. Every few years we get to vote for our “leaders” in the US. Your vote counts to determine who gets elected, but it doesn’t change the system they operate in. This is one problem with voting.
 </p>
 <p>The other problem is that voting assumes that you are choosing between bosses or rules that apply to everyone. It assumes a monoculture. But life is not a monoculture, it is more subtle and complex than that. There are people who are gluten-intolerant in the US, but they can gorge on bread when they go to Europe. I don't want to vote between grain A and grain B, I'd rather have distincts breads made with different grains. The monolithic approach doesn’t work for businesses and it doesn’t work for people.
@@ -387,7 +391,7 @@ differently,
 <p>The reference to “larger organizations” only makes sense in the monolithic FIAT case, particularly when it comes to financial reporting. In the RADICAL model a “larger organization” is just the same as a smaller organization, except with more groups working on more things. The difference between companies is their expressed Alignment, not their organizational foundation.
 </p>
 
-<h2>How do we deal with an extreme crisis, the ones where you as an entrepreneur put everything you have into the game and at stake?
+<h2>How do we deal with an extreme crisis, the ones where you as an entrepreneur put everything you have into the game and at stake?</h2>
 <p>Except for earthquakes, “extreme crises” happen because of the limited visibility of a handful of owners. A problem starts to build up but the owners manage to ignore it until it is pretty late. When everybody is a co-owner, somebody is bound to point out the problem just as it is taking shape and with others who care about the situation they’ll come up with a solution <em>before it becomes a crisis</em>.
 </p>
 <p>If you are the first one to see the problem, then you would say, “we need to decide by the end of today, let's get together at 3 pm.”  Most people will not bother to show up, but everybody who wants to show up could, to be part of the decision. Maybe your proposal will carry the day you are very clear on what needs to happen and you'd be very convincing. But maybe there’s a better idea that comes out of the discussion. Either way, you’ll come out of it with a plan on what to do about it.
@@ -395,13 +399,13 @@ differently,
 <p>In the extreme case of, say, a fire there is no discussion to be had and whoever is close to an escape will lead others through it. No need to wait for the boss to figure things out.
 </p>
 
-<h2>Where does the evidence for better financial growth for RADICAL companies come from?
+<h2>Where does the evidence for better financial growth for RADICAL companies come from?</h2>
 <p>There is no “evidence” because there are almost no RADICAL companies around. In the US we’ve identified only one, W L Gore.
 </p>
 <p>We can extrapolate from the financial performance of businesses which practice self-management, or have set up an ESOP, or those that practice Open Book Management. Even then, these businesses perform financially better than strict FIAT businesses.
 </p>
 
-<h2>Is the RADICAL approach not risking slowly killing innovation and progressive ideas?
+<h2>Is the RADICAL approach not risking slowly killing innovation and progressive ideas?</h2>
 <p>Quite the opposite. FIAT companies put up a lot of barriers to any innovative and progressive proposal that doesn’t come from the boss or from those handpicked by the boss.
 </p>
 <p>Decentralization means that ideas can come from anybody in the company. Funding the implementation of those ideas is up to the co-owners which may or not support it.
@@ -409,14 +413,16 @@ differently,
 <p>Over time, each company will learn which ideas are more aligned with their impact and which are too far out.
 </p>
 
-<h2>So what if the boss’ project gets more resources? How many super successful projects and strategies would have never seen the light of day if it weren’t for the founders?
+<h2>So what if the boss’ project gets more resources? How many super successful projects and strategies would have never seen the light of day if it weren’t for the founders?</h2>
 <p>In a FIAT organization, the boss (and his proxies) decide who gets how much for which project and which idea gets implemented. If it turns out to be a financial win, the boss will pat himself on the back for being innovative and whitepapers will be written about it. If it doesn't turn out, then nobody will talk about it.
 </p>
 <p>In a RADICAL organization, everybody has the opportunity to ask the other co-owners to invest in their project. That opens the door to more innovation to come from all over, not just a select few. If you start to implement it and it becomes obvious that it is not going to work, the co-owners working on it will pull the red flag. If it looks like it's going to work, the co-owners working on it will probably push a bit harder to get out the door sooner because they know that it is not just good ideas, but good ideas that make it to market.
-</p></h2></h2></h2></h2></h2></h2>
+</p>
+
 <h2>References</h2>
 <ul>
-<li>RADICAL COMPANIES,
+ <li>RADICAL COMPANIES,
+ </li>
 <ul>
 <li><a
 href="https://docs.google.com/document/d/1Vt-3hM_i1x9FzfoO0hDX8itRnPV5OQWKcfWsjV6a6CQ/edit#heading=h.rutigyp6zcd3">EN</a>:
@@ -443,65 +449,60 @@ href="https://docs.google.com/document/d/1P4tZw1iAAnJtP2zlijgttIv1Cxq47PBPzqK3Ub
 GOVERNMENT</a>
 </li>
 </ul>
-<li>rProjects
-<ul>
-<li><a
-href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a>
-<li><a
-href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a>
-<li><a
-href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive
-UI</a>
-</li>
-</ul>
-<li>RADICAL Science Fiction
-<ul>
-<li><a
-href="https://docs.google.com/document/d/1mNEsfVlMg8gZxtfL5A6YLV0CFAjVanref_68i3J1t1g/edit#heading=h.hv9kv7g9sjnn">And
-then They Want to Burn You</a>
-</li>
-</ul>
-<li>rCompanies
-<ul>
-<li>rPRADERA MEDIA
-<ul>
-<li><a
-href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA
-SHELF</a>
-<li><a
-href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA
-READER</a>
-<li><a
-href="https://docs.google.com/document/d/1NElxng620-FtPtk2s-2xizTcL_89LdqnpkZepsnf5RA/edit#heading=h.6wmx089o9bc4">RADICALS.LIVE!</a>
-<li><a
-href="https://docs.google.com/document/d/1Ej3YXS8Gymknq0TAyNC161Sv5nVXGTGtN-2PwS6H30E/edit#heading=h.gqizizpnpgzu">RADICAL
-MBA</a>
-</li>
-</ul>
-<li><a
-href="https://docs.google.com/document/d/1oV_WgvZ0mChe-f8o114p_8BSGldn3ZVkQjHnhwk7ccw/edit#heading=h.gqizizpnpgzu">rHatchery</a>
-<li><a
-href="https://docs.google.com/document/d/1apVl75nS-Z4b2rpqu-UkDjjYkujLANMiK7zZoU0jGeE/edit#heading=h.ypydz5z11jxq">rCircuit</a>
-<li><a
-href="https://docs.google.com/document/d/1aoqNhAW6P4QQFM3epM5VqPFdiTgyxTKPUE1c4j8r2k4/edit#heading=h.gqizizpnpgzu">rPlayGym</a>
-<li><a
-href="https://docs.google.com/document/d/13c1PYhbQEjRlkfmmGQESJD-cTB5b6jmWWBnEpTt1NFU/edit#heading=h.gqizizpnpgzu">rEnsemble</a>
-<ul>
-<li><a
-href="https://docs.google.com/document/d/1-eMt4p4qNJFc9SJkeSoarmy-xG6WtE51eQv047pvTNk/edit#heading=h.gqizizpnpgzu">rTranslate</a>
-<li><a
-href="https://docs.google.com/document/d/14A5U000ny7_zF8_HutQF1pcMoUwQmI7tfXaMB9uKk3M/edit#heading=h.gqizizpnpgzu">rSparkle</a>
-<li><a
-href="https://docs.google.com/document/d/16eg7wnyH61xPT4pWFWsuwHydKaxeP8k5xKGX3Pglzp0/edit#heading=h.gqizizpnpgzu">rStayHome</a>
-<li><a
-href="https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu">KidsCare</a>
-</li>
-</ul>
-<li>rStartups
-<ul>
-<li><a
-href="https://docs.google.com/document/d/1lE-khYtIyXoFeSIlUGcFPzESsslnBoGcmZMQaeVBVgw/edit#">rBuddyNeighbor</a>
-<li><a
-href="https://docs.google.com/document/d/16jST0lzzezNoFstE2ccZoI2HirgWBu3gQGnEok5OhGY/edit#">rNextBright</a>
-<li><a
-href="https://docs.google.com/document/d/1dMxsO5LMhKle97J8tPscBs5g64_QKZsiRnDtsccBUE4/edit#heading=h.gqizizpnpgzu">rHintersoft</a>
+ <li>rProjects
+ </li>
+  <ul>
+   <li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a>
+   </li>
+   <li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a>
+   </li>
+   <li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a>
+   </li>
+  </ul>
+ <li>RADICAL Science Fiction
+  <ul>
+   <li><a href="https://docs.google.com/document/d/1mNEsfVlMg8gZxtfL5A6YLV0CFAjVanref_68i3J1t1g/edit#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a>
+   </li>
+  </ul>
+  <li>rCompanies
+   <ul>
+    <li>rPRADERA MEDIA
+    </li>
+   <ul>
+    <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA SHELF</a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA READER</a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/1NElxng620-FtPtk2s-2xizTcL_89LdqnpkZepsnf5RA/edit#heading=h.6wmx089o9bc4">RADICALS.LIVE!</a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/1Ej3YXS8Gymknq0TAyNC161Sv5nVXGTGtN-2PwS6H30E/edit#heading=h.gqizizpnpgzu">RADICAL MBA</a>
+    </li>
+   </ul>
+   <li><a href="https://docs.google.com/document/d/1oV_WgvZ0mChe-f8o114p_8BSGldn3ZVkQjHnhwk7ccw/edit#heading=h.gqizizpnpgzu">rHatchery</a>
+   </li>
+   <li><a href="https://docs.google.com/document/d/1apVl75nS-Z4b2rpqu-UkDjjYkujLANMiK7zZoU0jGeE/edit#heading=h.ypydz5z11jxq">rCircuit</a>
+   </li>
+   <li><a href="https://docs.google.com/document/d/1aoqNhAW6P4QQFM3epM5VqPFdiTgyxTKPUE1c4j8r2k4/edit#heading=h.gqizizpnpgzu">rPlayGym</a>
+   </li>
+   <li><a href="https://docs.google.com/document/d/13c1PYhbQEjRlkfmmGQESJD-cTB5b6jmWWBnEpTt1NFU/edit#heading=h.gqizizpnpgzu">rEnsemble</a>
+   </li>
+   <ul>
+    <li><a href="https://docs.google.com/document/d/1-eMt4p4qNJFc9SJkeSoarmy-xG6WtE51eQv047pvTNk/edit#heading=h.gqizizpnpgzu">rTranslate</a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/14A5U000ny7_zF8_HutQF1pcMoUwQmI7tfXaMB9uKk3M/edit#heading=h.gqizizpnpgzu">rSparkle</a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/16eg7wnyH61xPT4pWFWsuwHydKaxeP8k5xKGX3Pglzp0/edit#heading=h.gqizizpnpgzu">rStayHome</a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu">KidsCare</a>
+    </li>
+   </ul>
+   <li>rStartups
+   <ul>
+    <li><a href="https://docs.google.com/document/d/1lE-khYtIyXoFeSIlUGcFPzESsslnBoGcmZMQaeVBVgw/edit#">rBuddyNeighbor</a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/16jST0lzzezNoFstE2ccZoI2HirgWBu3gQGnEok5OhGY/edit#">rNextBright</a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/1dMxsO5LMhKle97J8tPscBs5g64_QKZsiRnDtsccBUE4/edit#heading=h.gqizizpnpgzu">rHintersoft</a>
+    </li>
+   </ul>
+  </li>
