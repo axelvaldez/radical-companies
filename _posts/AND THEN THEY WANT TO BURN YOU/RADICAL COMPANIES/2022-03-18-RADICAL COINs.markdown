@@ -40,17 +40,11 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
 <li>Store of value</li>
 <li>Medium of exchange</li>
 </ul>
-<p>
-In addition, and this is critical, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are transparent in the sense that an
-integral part of each <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is its log of information from which potential risks
-and benefits can be calculated.
+<p>In addition, and this is critical, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are transparent in the sense that an integral part of each <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is its log of information from which potential risks and benefits can be calculated.
 </p>
-<p>
-<SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are also decentralized. Companies will be the guarantors of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s. Not banks. Not governments. Not international accords. This will make the costs of all transactions negligible.
+<p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are also decentralized. Companies will be the guarantors of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s. Not banks. Not governments. Not international accords. This will make the costs of all transactions negligible.
 </p>
-<p>
-Our goal is that a decentralized and transparent <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> will make possible a
-world-wide market that we can all play in without intermediaries.
+<p>Our goal is that a decentralized and transparent <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> will make possible a world-wide market that we can all play in without intermediaries.
 </p>
 
 <h2>Some Terminology</h2>
@@ -80,61 +74,32 @@ world-wide market that we can all play in without intermediaries.
 </p>
 
 <h2>Historical Perspective</h2>
-<p>
-<SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are not to be confused, or conflated, with local or complementary
-currencies, demurrage money, or any such.<sup id="fnref5"><a href="#fn5"
-rel="footnote">5</a></sup> Ditto for Mutualism, Marxism, or any other theory or
-ideology. The point of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is to make it possible to have a market, free of
-intermediaries, and with negligible costs.
+<p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are not to be confused, or conflated, with local or complementary currencies, demurrage money, or any such.<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup> Ditto for Mutualism, Marxism, or any other theory or ideology. The point of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is to make it possible to have a market, free of intermediaries, and with negligible costs.
 </p>
-<p>
-In fact, although they are not identical, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are very similar to national
-fiat coins. They are a unit of measure, a store of value, and a medium of
-exchange, but with these twists,
+<p>In fact, although they are not identical, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are very similar to national fiat coins. They are a unit of measure, a store of value, and a medium of exchange, but with these twists,
 </p>
 <ol>
   <li>They represent value at its broadest. In addition to financial value, they account for wellbeing, contributions, acts of kindness, and all the other things that are important to people.</li>
   <li>They spread risks and benefits through society. We all share in the adventure: the burden of risk and the joys of gains.</li>
-  <li>
-    <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s bypass the complications and costs brought about by banks, exchanges, national politics,<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup> and the influence of transnationals.<sup id="fnref7"><a href="#fn7" rel="footnote">7</a></sup>
-    <p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s have the potential to enable a world-wide market. This will help us break out of our national silos, create an economy that’s decentralized and transparent.</p>
+  <li><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s bypass the complications and costs brought about by banks, exchanges, national politics,<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup> and the influence of transnationals.<sup id="fnref7"><a href="#fn7" rel="footnote">7</a></sup>
+   <p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s have the potential to enable a world-wide market. This will help us break out of our national silos, create an economy that’s decentralized and transparent.</p>
   </li>
 </ol>
 
 <h2>Worth Repeating</h2>
 <p>
 This may be a difficult read and it may be worth repeating here a few words
-about the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> framework and how it’s different from our current world.
-Probably the most confusing thing about it is that a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world would be very
-similar to our current world. People will be the same with all our jealousies,
-overreactions, and habits. They will be embarrassed by overpromising and want to
-sweep under the proverbial rug.
+about the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> framework and how it’s different from our current world. Probably the most confusing thing about it is that a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.
 </p>
-<p>
-The only difference—the big difference—is that the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> system is centered
-around our interdependence.
+<p>The only difference—the big difference—is that the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> system is centered around our interdependence.
 </p>
-<p>
-Our current system is based on separating us: countries, towns, good and bad
-neighborhoods; political parties and their vastly different realities; need to
-know, secrecy, protection. This leaves us disconnected and drives us to
-isolation. Businesses are built on creating platforms to bring us back together,
-for a fee. This works for a world where money comes first, ahead of everything
-else.
+<p>Our current system is based on separating us: countries, towns, good and bad neighborhoods; political parties and their vastly different realities; need to know, secrecy, protection. This leaves us disconnected and drives us to isolation. Businesses are built on creating platforms to bring us back together, for a fee. This works for a world where money comes first, ahead of everything else.
 </p>
-<p>
-A <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world, too, is centered around accomplishments and real innovation,
-but it prioritizes what’s important to people first, ahead of everything else,
-including money. We’ll still be individuals, with our own needs, rights, and
-idiosyncrasies. We are not going to become a number. The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model is
-centered on trust, the type that comes from community and collaboration.
+<p>A <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world, too, is centered around accomplishments and real innovation, but it prioritizes what’s important to people first, ahead of everything else, including money. We’ll still be individuals, with our own needs, rights, and idiosyncrasies. We are not going to become a number. The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model is centered on trust, the type that comes from community and collaboration.
 </p>
 
   <h3>The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Model</h3>
-<p>
-We are used to companies being governed by FIAT hierarchies, with an owner at
-the top sending down commands telling people <em>what</em> to do, <em>how</em>
-to do it, and <em>when</em> to do it. Here we assume a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world that is, at
+<p>We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands telling people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it. Here we assume a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world that is, at
 the same time, alike and different from our world today.
 </p>
 <p>
@@ -560,7 +525,7 @@ acceptable to fewer and fewer people. Hopefully, they will see guidance and help
 from others.</li>
 </ul>
 
-<h2>TADDA!</h2>
+<h2>TA-DA!</h2>
 <p>
 RADs account for what so far has been unaccountable. People get to decide what a
 contribution is and by doing so they “measure” what has been unmeasurable: an
@@ -793,31 +758,27 @@ return the boat and join WiserCO.</li>
 </ol>
 
  <h3>What if lots of companies disband at the same time?</h3>
-<p>
-Then you adjust your app to raise the risk of similar companies.
-</p>
+  <p>Then you adjust your app to raise the risk of similar companies.
+  </p>
 
  <h3>What about people who cannot work?</h3>
-<p>
-Some people will be unable to contribute to a company, for whatever reason. But
-to their family
-</p>
+ <p>Some people will be unable to contribute to a company, for whatever reason. But to their family
+ </p>
+
 <h3>Is risk associated with companies or with COINs?</h3>
-<p>
-A COINs log includes all the information needed to calculate the COIN’s
+ <p>A COINs log includes all the information needed to calculate the COIN’s
 potential risk and benefits. But, this date comes from the company behind the
 minted COINs. In all likelihood, it would include the number of co-owners who
 agreed to the mint and its how well they’ve kept to their promises. It would
 also include that a case has been made by several communities that the company
 is harming them and whether or not the situation has been resolved to the
 communities’ satisfaction.
-</p>
-<p>
-For each COINs, the log holds facts, not judgements and each of us gets to
+ </p>
+ <p>For each COINs, the log holds facts, not judgements and each of us gets to
 decide what to do with them.
-</p>
-<br>
+ </p>
 
+<br>
 <br>
 
 <h1 style="text-align: center; ">Related</h1>
@@ -825,52 +786,79 @@ decide what to do with them.
 <ul>
   <li><span style="font-size: smaller; ">RADICAL COMPANIES</span>,</li>
     <ul>
-    <li>EN: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
-    <li>ES: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
-    <li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
-    <li>Frequently Asked Questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
+    <li>EN: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a>
+    </li>
+    <li>ES: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a>
+    </li>
+    <li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a>
+    </li>
+    <li>Frequently Asked Questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a>
+    </li>
   </ul>
   <li>The Missing Chapters,</li>
   <ul>
-    <li><a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu"><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN></a></li>
-    <li><a href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76">RADICAL LAND</a></li>
-    <li><a href="https://docs.google.com/document/d/1P4tZw1iAAnJtP2zlijgttIv1Cxq47PBPzqK3UbMHCSY/edit#">RADICAL GOVERNMENT</a></li> 
+    <li><a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu"><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN></a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76">RADICAL LAND</a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/1P4tZw1iAAnJtP2zlijgttIv1Cxq47PBPzqK3UbMHCSY/edit#">RADICAL GOVERNMENT</a>
+    </li> 
   </ul>
   <li>rCompanies</li>
   <ul>
     <li>rPRADERA MEDIA</li>
     <ul>
-      <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA SHELF</a></li>
-      <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA READER</a></li>
-      <li><a href="https://docs.google.com/document/d/1NElxng620-FtPtk2s-2xizTcL_89LdqnpkZepsnf5RA/edit#heading=h.6wmx089o9bc4">RADICALS.LIVE!</a></li>
-      <li><a href="https://docs.google.com/document/d/1Ej3YXS8Gymknq0TAyNC161Sv5nVXGTGtN-2PwS6H30E/edit#heading=h.gqizizpnpgzu">RADICAL MBA</a></li>  
+      <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA SHELF</a>
+      </li>
+      <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA READER</a>
+      </li>
+      <li><a href="https://docs.google.com/document/d/1NElxng620-FtPtk2s-2xizTcL_89LdqnpkZepsnf5RA/edit#heading=h.6wmx089o9bc4">RADICALS.LIVE!</a>
+      </li>
+      <li><a href="https://docs.google.com/document/d/1Ej3YXS8Gymknq0TAyNC161Sv5nVXGTGtN-2PwS6H30E/edit#heading=h.gqizizpnpgzu">RADICAL MBA</a>
+      </li>  
     </ul>
-    <li><a href="https://docs.google.com/document/d/1oV_WgvZ0mChe-f8o114p_8BSGldn3ZVkQjHnhwk7ccw/edit#heading=h.gqizizpnpgzu">rHatchery</a></li>
-    <li><a href="https://docs.google.com/document/d/1apVl75nS-Z4b2rpqu-UkDjjYkujLANMiK7zZoU0jGeE/edit#heading=h.ypydz5z11jxq">rCircuit</a></li>
-    <li><a href="https://docs.google.com/document/d/1aoqNhAW6P4QQFM3epM5VqPFdiTgyxTKPUE1c4j8r2k4/edit#heading=h.gqizizpnpgzu">rPlayGym</a></li>
-    <li><a href="https://docs.google.com/document/d/13c1PYhbQEjRlkfmmGQESJD-cTB5b6jmWWBnEpTt1NFU/edit#heading=h.gqizizpnpgzu">rEnsemble</a></li>
+    <li><a href="https://docs.google.com/document/d/1oV_WgvZ0mChe-f8o114p_8BSGldn3ZVkQjHnhwk7ccw/edit#heading=h.gqizizpnpgzu">rHatchery</a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/1apVl75nS-Z4b2rpqu-UkDjjYkujLANMiK7zZoU0jGeE/edit#heading=h.ypydz5z11jxq">rCircuit</a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/1aoqNhAW6P4QQFM3epM5VqPFdiTgyxTKPUE1c4j8r2k4/edit#heading=h.gqizizpnpgzu">rPlayGym</a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/13c1PYhbQEjRlkfmmGQESJD-cTB5b6jmWWBnEpTt1NFU/edit#heading=h.gqizizpnpgzu">rEnsemble</a>
+    </li>
     <ul>
-      <li><a href="https://docs.google.com/document/d/1-eMt4p4qNJFc9SJkeSoarmy-xG6WtE51eQv047pvTNk/edit#heading=h.gqizizpnpgzu">rTranslate</a></li>
-      <li><a href="https://docs.google.com/document/d/14A5U000ny7_zF8_HutQF1pcMoUwQmI7tfXaMB9uKk3M/edit#heading=h.gqizizpnpgzu">rSparkle</a></li>
-      <li><a href="https://docs.google.com/document/d/16eg7wnyH61xPT4pWFWsuwHydKaxeP8k5xKGX3Pglzp0/edit#heading=h.gqizizpnpgzu">rStayHome</a></li>
-      <li><a href="https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu">KidsCare</a></li>
+      <li><a href="https://docs.google.com/document/d/1-eMt4p4qNJFc9SJkeSoarmy-xG6WtE51eQv047pvTNk/edit#heading=h.gqizizpnpgzu">rTranslate</a>
+      </li>
+      <li><a href="https://docs.google.com/document/d/14A5U000ny7_zF8_HutQF1pcMoUwQmI7tfXaMB9uKk3M/edit#heading=h.gqizizpnpgzu">rSparkle</a>
+      </li>
+      <li><a href="https://docs.google.com/document/d/16eg7wnyH61xPT4pWFWsuwHydKaxeP8k5xKGX3Pglzp0/edit#heading=h.gqizizpnpgzu">rStayHome</a>
+</li>
+      <li><a href="https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu">KidsCare</a>
+      </li>
     </ul>
   </ul>
-  <li>Startups</li>
+  <li>Startups
+  </li>
   <ul>
-    <li><a href="https://docs.google.com/document/d/1lE-khYtIyXoFeSIlUGcFPzESsslnBoGcmZMQaeVBVgw/edit#">rBuddyNeighbor</a></li>
-    <li><a href="https://docs.google.com/document/d/16jST0lzzezNoFstE2ccZoI2HirgWBu3gQGnEok5OhGY/edit#">rNextBright</a></li>
-    <li><a href="https://docs.google.com/document/d/1dMxsO5LMhKle97J8tPscBs5g64_QKZsiRnDtsccBUE4/edit#heading=h.gqizizpnpgzu">rHintersoft</a></li> 
+    <li><a href="https://docs.google.com/document/d/1lE-khYtIyXoFeSIlUGcFPzESsslnBoGcmZMQaeVBVgw/edit#">rBuddyNeighbor</a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/16jST0lzzezNoFstE2ccZoI2HirgWBu3gQGnEok5OhGY/edit#">rNextBright</a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/1dMxsO5LMhKle97J8tPscBs5g64_QKZsiRnDtsccBUE4/edit#heading=h.gqizizpnpgzu">rHintersoft</a>
+    </li>
   </ul>
   <li>rProjects</li>
   <ul>
-    <li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a></li>
-    <li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
-    <li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a></li>
+    <li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a>
+    </li>
+    <li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a>
+    </li>
   </ul>
   <li><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Science Fiction</li>
   <ul>
-    <li><a href="https://docs.google.com/document/d/1u862nc5EV8OY6ng0kfH7_pBGO-HWJnK2rJB8PvpYkJ4/edit#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
+    <li><a href="https://docs.google.com/document/d/1u862nc5EV8OY6ng0kfH7_pBGO-HWJnK2rJB8PvpYkJ4/edit#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a>
+    </li>
   </ul>
 </ul>
 
@@ -882,7 +870,8 @@ decide what to do with them.
 <div class="footnotes">
   <hr>
   <ol>
-   <li id="fn1"><h6><a href="#fnref1">back</a> Matt Perez, Adrian Perez, Jose Leal. <span style="font-size: smaller; ">RADICAL COMPANIES</span>: Without Bosses or Employees. Pradera Media, 2021.</h6></li>
+   <li id="fn1"><h6><a href="#fnref1">back</a> Matt Perez, Adrian Perez, Jose Leal. <span style="font-size: smaller; ">RADICAL COMPANIES</span>: Without Bosses or Employees. Pradera Media, 2021.</h6>
+   </li>
    <li id="fn2"><h6><a href="#fnref2">back</a> I am taking inspiration from two books, <em>Debt</em> by David Graeber <<a href="https://a.co/cd9vVHk">https://a.co/cd9vVHk</a>> and <em>Rethinking Money</em> by Bernard Lietaer and Jacqui Dunne <<a  href="https://radicals.world/hEhkt0">https://radicals.world/hEhkt0</a>>.</h6></li>
    <li id="fn3"><h6><a href="#fnref3">back</a> “Meter” in Mandarin.</h6></li>
    <li id="fn4"><h6><a href="#fnref4">back</a> M1 is a <em>measure</em> of how much fiat currency there is, not a backing for it. <<a href="https://radicals.world/HlOzNL">https://radicals.world/HlOzNL</a>></h6></li>
