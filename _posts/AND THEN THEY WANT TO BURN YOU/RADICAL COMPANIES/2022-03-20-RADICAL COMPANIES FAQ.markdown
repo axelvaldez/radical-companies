@@ -372,11 +372,12 @@ differently,
 </p>
 
 <h2>Are we <em>really</em> “drowning in scarcity?” It seems that it is because
-<em>we are not</em> drowning that we have the luxury to rethink the way we organize companies.
+<em>we are not</em> drowning that we have the luxury to rethink the way we organize companies.</h2>
 <p>It is true that not all of us are drowning in <em>financial</em> scarcity. In fact, most people alive today live in financial splendor compared with the royalty of old. On the other hand, we definitely lack time, mental health, choices, and are generally stunted in our ability to live a full life. At work, we don’t function as adults.
 </p>
 <p>We are financially dependent on our jobs and not far away from the risk of destitution if we step outside the box.
 </p>
+
 <h2>Maybe use a less “devastating, negative and martial” language when talking about FIAT companies? Giving the “old way of doing it” a bit more credit will give the cause more credibility and acceptance as well.</h2>
 <p>At this point there are people who recognize the problem and are looking for ways out of it and will not feel threatened. We tried not to make it sound like war, but probably got over-enthusiastic in places.
 </p>
