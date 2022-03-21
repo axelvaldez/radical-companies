@@ -196,8 +196,10 @@ differently,
 <p>Maybe it is not so much a case that these ideas are impractical, as it is that they are different and unfamiliar.
 </p>
 
-<h2>Co-Management</h2>
-<h2>What about titles?</h2></h2></h2></h2>
+<h1 style="text-align: center; ">Co-Management</h1>
+<br>
+
+<h2>What about titles?</h2>
 <p>In a co-managed company there is no FIAT hierarchy and, therefore, there are no hierarchical titles. Even if you use them when you work with FIAT businesses, these titles don’t mean anything inside a co-managed company.
 </p>
 <p>There are still roles that people perform, functions that have to be done, and specific skill sets that people have. But there are no entitled bosses “in charge” of silos. People work together in teams (fluid) but there are no departments (static).
