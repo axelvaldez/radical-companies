@@ -330,10 +330,7 @@ higher level of collaboration.
 <br>
 <br>
 
-<h1 style="text-align: center;">Further Reading</h1>
-<br>
-
-<h2>Related</h2>
+<h1 style="text-align: center;">RELATED</h1>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
@@ -390,7 +387,7 @@ higher level of collaboration.
 <br>
 <br>
 
-<h1 style="text-align: center; ">Endnotes</h1>
+<h1 style="text-align: center; ">ENDNOTES</h1>
 <br>
 <div class="endnotes">
   <ol>
