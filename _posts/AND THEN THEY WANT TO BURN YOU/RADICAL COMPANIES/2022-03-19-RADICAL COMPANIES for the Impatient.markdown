@@ -313,7 +313,6 @@ Every company is different because the people who embody it are different, so ev
  </p>
 
 <br>
-<br>
 
   <h2>Predictable Recurring Income (PRI)</h2>
    <p>When you really think about it, “salary” is a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> context.
@@ -384,6 +383,8 @@ Every company is different because the people who embody it are different, so ev
    </p>
    <p>Notice that even though dividends are up, Julio continues to draw from the PRI Account because his PRI is pretty high and his RAD count is pretty low. He may want to change his PRI or get feedback on why his <SPAN>RAD</SPAN>s are so low.
    </p>
+
+   <br>
 
   <h2>By Comparison</h2>
    <p>This way of sharing the wealth should yield, at worst, the same as today’s VC system but with less risk and a huge increase in the number of beneficiaries.
