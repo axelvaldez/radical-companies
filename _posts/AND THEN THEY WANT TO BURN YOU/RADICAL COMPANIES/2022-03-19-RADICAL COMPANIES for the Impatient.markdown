@@ -113,7 +113,7 @@ Every company is different because the people who embody it are different, so ev
    </li>
   </ul>
 
- <br>
+<br>
 <br>
 
  <h2>The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Difference</h2>
@@ -312,8 +312,6 @@ Every company is different because the people who embody it are different, so ev
  <p>That earned amount is split between Dividends and a Predictable Recurring Income component.
  </p>
 
-<br>
-
   <h2>Predictable Recurring Income (PRI)</h2>
    <p>When you really think about it, “salary” is a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> context.
    </p>
@@ -434,55 +432,56 @@ Every company is different because the people who embody it are different, so ev
 <br>
 <br>
 
-<h1 style="text-align: center; ">Related</h1>
- <ul>
-  <li><span style="font-size: smaller; ">RADICAL COMPANIES</span>,</li>
-   <ul>
+<h1 style="text-align: center;">RELATED</h1>
+<ul>
+  <li>RADICAL COMPANIES,</li>
+  <ul>
+    <ul>
     <li>EN: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
     <li>ES: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
     <li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
     <li>Frequently Asked Questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
-   </ul>
-   <li>The Missing Chapters,</li>
-   <ul>
-    <li><a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu"><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN></a></li>
+  </ul>
+  <li>The Missing Chapters,</li>
+  <ul>
+    <li><a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu">RADICAL COIN</a></li>
     <li><a href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76">RADICAL LAND</a></li>
     <li><a href="https://docs.google.com/document/d/1P4tZw1iAAnJtP2zlijgttIv1Cxq47PBPzqK3UbMHCSY/edit#">RADICAL GOVERNMENT</a></li> 
-   </ul>
-   <li>rCompanies</li>
-   <ul>
+  </ul>
+  <li>rCompanies</li>
+  <ul>
     <li>rPRADERA MEDIA</li>
-     <ul>
+    <ul>
       <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA SHELF</a></li>
       <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA READER</a></li>
       <li><a href="https://docs.google.com/document/d/1NElxng620-FtPtk2s-2xizTcL_89LdqnpkZepsnf5RA/edit#heading=h.6wmx089o9bc4">RADICALS.LIVE!</a></li>
       <li><a href="https://docs.google.com/document/d/1Ej3YXS8Gymknq0TAyNC161Sv5nVXGTGtN-2PwS6H30E/edit#heading=h.gqizizpnpgzu">RADICAL MBA</a></li>  
-     </ul>
-     <li><a href="https://docs.google.com/document/d/1oV_WgvZ0mChe-f8o114p_8BSGldn3ZVkQjHnhwk7ccw/edit#heading=h.gqizizpnpgzu">rHatchery</a></li>
-     <li><a href="https://docs.google.com/document/d/1apVl75nS-Z4b2rpqu-UkDjjYkujLANMiK7zZoU0jGeE/edit#heading=h.ypydz5z11jxq">rCircuit</a></li>
-     <li><a href="https://docs.google.com/document/d/1aoqNhAW6P4QQFM3epM5VqPFdiTgyxTKPUE1c4j8r2k4/edit#heading=h.gqizizpnpgzu">rPlayGym</a></li>
-     <li><a href="https://docs.google.com/document/d/13c1PYhbQEjRlkfmmGQESJD-cTB5b6jmWWBnEpTt1NFU/edit#heading=h.gqizizpnpgzu">rEnsemble</a></li>
-     <ul>
+    </ul>
+    <li><a href="https://docs.google.com/document/d/1oV_WgvZ0mChe-f8o114p_8BSGldn3ZVkQjHnhwk7ccw/edit#heading=h.gqizizpnpgzu">rHatchery</a></li>
+    <li><a href="https://docs.google.com/document/d/1apVl75nS-Z4b2rpqu-UkDjjYkujLANMiK7zZoU0jGeE/edit#heading=h.ypydz5z11jxq">rCircuit</a></li>
+    <li><a href="https://docs.google.com/document/d/1aoqNhAW6P4QQFM3epM5VqPFdiTgyxTKPUE1c4j8r2k4/edit#heading=h.gqizizpnpgzu">rPlayGym</a></li>
+    <li><a href="https://docs.google.com/document/d/13c1PYhbQEjRlkfmmGQESJD-cTB5b6jmWWBnEpTt1NFU/edit#heading=h.gqizizpnpgzu">rEnsemble</a></li>
+    <ul>
       <li><a href="https://docs.google.com/document/d/1-eMt4p4qNJFc9SJkeSoarmy-xG6WtE51eQv047pvTNk/edit#heading=h.gqizizpnpgzu">rTranslate</a></li>
       <li><a href="https://docs.google.com/document/d/14A5U000ny7_zF8_HutQF1pcMoUwQmI7tfXaMB9uKk3M/edit#heading=h.gqizizpnpgzu">rSparkle</a></li>
       <li><a href="https://docs.google.com/document/d/16eg7wnyH61xPT4pWFWsuwHydKaxeP8k5xKGX3Pglzp0/edit#heading=h.gqizizpnpgzu">rStayHome</a></li>
       <li><a href="https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu">KidsCare</a></li>
-     </ul>
-   </ul>
-   <li>Startups</li>
-   <ul>
+    </ul>
+  </ul>
+  <li>Startups</li>
+  <ul>
     <li><a href="https://docs.google.com/document/d/1lE-khYtIyXoFeSIlUGcFPzESsslnBoGcmZMQaeVBVgw/edit#">rBuddyNeighbor</a></li>
     <li><a href="https://docs.google.com/document/d/16jST0lzzezNoFstE2ccZoI2HirgWBu3gQGnEok5OhGY/edit#">rNextBright</a></li>
     <li><a href="https://docs.google.com/document/d/1dMxsO5LMhKle97J8tPscBs5g64_QKZsiRnDtsccBUE4/edit#heading=h.gqizizpnpgzu">rHintersoft</a></li> 
-   </ul>
-   <li>rProjects</li>
-   <ul>
+  </ul>
+  <li>rProjects</li>
+  <ul>
     <li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a></li>
     <li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
     <li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a></li>
-   </ul>
-   <li><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Science Fiction</li>
-   <ul>
-    <li><a href="https://docs.google.com/document/d/1u862nc5EV8OY6ng0kfH7_pBGO-HWJnK2rJB8PvpYkJ4/edit#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
-   </ul>
   </ul>
+  <li>RADICAL Science Fiction</li>
+  <ul>
+    <li><a href="https://docs.google.com/document/d/1u862nc5EV8OY6ng0kfH7_pBGO-HWJnK2rJB8PvpYkJ4/edit#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
+  </ul>
+</ul>
