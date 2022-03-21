@@ -275,7 +275,8 @@ differently,
 </p>
 
 <h2>Boundaries of users and resource are clear</h2>
-<li>Congruence between benefits and costs
+<ul>
+ <li>Congruence between benefits and costs
  </li>
  <li>Users had procedures for making own rules
  </li>
@@ -285,6 +286,7 @@ differently,
  </li>
  <li>Conflict resolution mechanism
  </li>
+</ul>
 <p>For more information, see the <a href="https://docs.google.com/document/d/10NJA6kzzzHZiS-CQBB6HpWdJ1gFqmYK5kNQYG_JR7X0/edit?pli=1#heading=h.ud821w7zvp4x">Ostrom’s Core Design Principles</a> book appendix.
 </p>
 
@@ -374,7 +376,7 @@ differently,
 <p>It is true that not all of us are drowning in <em>financial</em> scarcity. In fact, most people alive today live in financial splendor compared with the royalty of old. On the other hand, we definitely lack time, mental health, choices, and are generally stunted in our ability to live a full life. At work, we don’t function as adults.
 </p>
 <p>We are financially dependent on our jobs and not far away from the risk of destitution if we step outside the box.
-</p></h2></h2>
+</p>
 <h2>Maybe use a less “devastating, negative and martial” language when talking about FIAT companies? Giving the “old way of doing it” a bit more credit will give the cause more credibility and acceptance as well.</h2>
 <p>At this point there are people who recognize the problem and are looking for ways out of it and will not feel threatened. We tried not to make it sound like war, but probably got over-enthusiastic in places.
 </p>
