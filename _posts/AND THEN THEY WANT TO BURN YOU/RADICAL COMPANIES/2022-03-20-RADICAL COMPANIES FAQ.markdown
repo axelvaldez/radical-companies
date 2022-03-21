@@ -422,114 +422,91 @@ ecosystem is corrupt. This is very likely the case in a FIAT business. But in a
 RADICAL company even if a few co-owners drink too much Kool-Aid, the others will
 raise the red flag.
 </p>
-<p>In any case, this is not about “sanctioning.” It is about applying the same Core
-Design Principle to any interactions with other groups within the same
+<p>In any case, this is not about “sanctioning.” It is about applying the same Core Design Principle to any interactions with other groups within the same
 organization managing a Common Pool Resource,
 </p>
 
 <h2>Boundaries of users and resource are clear
-<li>Congruence between benefits and costs
-</li>
+ <li>Congruence between benefits and costs
+ </li>
  <li>Users had procedures for making own rules
-
-</li>
-<li>Regular monitoring of users and resource condition
-</li>
+ </li>
+ <li>Regular monitoring of users and resource condition
+ </li>
  <li>Graduated sanctions
-</li>
-<li>Conflict resolution mechanism</h2></h2></h2>
+ </li>
+ <li>Conflict resolution mechanism
+ </li>
 <p>For more information, see the <a
-href="https://docs.google.com/document/d/10NJA6kzzzHZiS-CQBB6HpWdJ1gFqmYK5kNQYG_JR7X0/edit?pli=1#heading=h.ud821w7zvp4x">Ostrom’s
-Core Design Principles</a> book appendix.
+href="https://docs.google.com/document/d/10NJA6kzzzHZiS-CQBB6HpWdJ1gFqmYK5kNQYG_JR7X0/edit?pli=1#heading=h.ud821w7zvp4x">Ostrom’s Core Design Principles</a> book appendix.
 </p>
 
 <h2>General</h2>
-<h2>If “businesses are broken,“ how can it be that they are more successful than
-ever?</h2>
-<p>More <em>financially</em> successful, yes. On the other hand, engagement and
-tenure are going down, innovation is much talked about but non-existent in
+<p>If “businesses are broken,“ how can it be that they are more successful than ever?</p>
+<p>More <em>financially</em> successful, yes. On the other hand, engagement and tenure are going down, innovation is much talked about but non-existent in
 practice, burnout and suicides are going up.
 </p>
-<p>No question that <em>financially</em> businesses are going up, but the financial
-“rewards,” the dividends, are going to fewer and fewer while the price,
-emotional damage and diminished health, is being paid by more and more.
+<p>No question that <em>financially</em> businesses are going up, but the financial “rewards,” the dividends, are going to fewer and fewer while the price, emotional damage and diminished health, is being paid by more and more.
 </p>
-<p></p>
 
 <h2>How do we do this [transformation] even for the people that do not want it
 or are not ready for it?
-<p>    We cannot “do this” for anybody. With this book, we are simply trying to
+<p>We cannot “do this” for anybody. With this book, we are simply trying to
 make everybody aware of the system we are immersed in: we are making us fish
-aware that we live in water and how this shapes us. As RADICAL ideas become more
-widely known and more people go from I-am-curious to I-am-ready, companies will
-start to transform. This will be evolutionary, from living in water to living on
-land. Through it all, we'll find out what works and what doesn't for every
-particular company.
+aware that we live in water and how this shapes us. As RADICAL ideas become more widely known and more people go from I-am-curious to I-am-ready, companies will start to transform. This will be evolutionary, from living in water to living on land. Through it all, we'll find out what works and what doesn't for every particular company.
 </p>
-<p>    Rather than dictate yet-another-structure, we are proposing a few
+<p>Rather than dictate yet-another-structure, we are proposing a few
 foundational basics,
 </p>
 <table>
   <tr>
-   <td rowspan="2" >
-<h4><p style="text-align: right">
-Meaning & Belonging</p>
-</h4></h2>
+   <td colspan="3">
    </td>
-   <td>
-    Principles
+   <td rowspan="2"><em>relationships</em>
    </td>
   </tr>
   <tr>
+    <td>
+     <p style="text-align: right">principles
+     </p>
+   </td>
+   <td style="background-color: lightgrey; "><strong>Meaning & Belonging</strong>
+   </td>
+   <td>⬈
+   </td>
+  </tr>
+
+  <tr>
+   <td colspan="3">
+   </td>
+   <td rowspan="2"><em>autonomy</em>
+   </td>
+  </tr>
    <td>
-<h4>
-    <em>relationships</em></h4>
+   <td>
+    <p style="text-align: right">commitments
+    </p>
+   </td>
+   <td style="background-color: lightgrey; "><strong>Transparency & Decentralization</strong>
+   </td>
+   <td>⬈
+   </td>
+  </tr>
+
+  <tr>
+   <td colspan="3">
+   </td>
+   <td rowspan="2"><em>collaboration</em>
+   </td>
+   <td><p style="text-align: right">practices</p>
+   </td>
+   <td style="background-color: lightgrey; "><strong>Alignment & Experimentation</strong>
+   </td>
+   <td>⬈
    </td>
   </tr>
   <tr>
-   <td colspan="2" >
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="2" >
-<h4><p style="text-align: right">
-Transparency & Decentralization</p>
-</h4>
-   </td>
-   <td>
-    Commitments
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h4>
-    <em>autonomy</em></h4>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" >
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="2" >
-<h4><p style="text-align: right">
-Alignment & Experimentation</p>
-</h4>
-   </td>
-   <td>
-    Practices
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <em>collaboration</em>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
+   <td colspan="5"></td>
   </tr>
 </table>
 <p>    These are what we think are the important dimensions by which to view how
