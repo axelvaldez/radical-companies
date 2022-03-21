@@ -84,6 +84,7 @@ differently,
  <li>You want the company to grow.
  <li>
  <li>You want everybody to financially benefit from the wealth the company creates.
+ <li>
  <li>You want to take more chances while minimizing the risk of doing so.
  </li>
  <li>You want a better quality of life for yourself and those around you.
