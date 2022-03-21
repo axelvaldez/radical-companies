@@ -346,7 +346,7 @@ differently,
   <tr>
    <td colspan="3">
    </td>
-   <td rowspan="2"><em>collaboration</em>
+   <td rowspan="2" style="vertical-align: top; "><em>collaboration</em>
    </td>
   </tr>
   <tr>
