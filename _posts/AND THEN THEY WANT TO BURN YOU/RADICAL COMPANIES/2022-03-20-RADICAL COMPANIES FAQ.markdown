@@ -426,7 +426,11 @@ differently,
 <p>In a RADICAL organization, everybody has the opportunity to ask the other co-owners to invest in their project. That opens the door to more innovation to come from all over, not just a select few. If you start to implement it and it becomes obvious that it is not going to work, the co-owners working on it will pull the red flag. If it looks like it's going to work, the co-owners working on it will probably push a bit harder to get out the door sooner because they know that it is not just good ideas, but good ideas that make it to market.
 </p>
 
-<h2>References</h2>
+<br>
+<br>
+
+<h1 style="text-align: center; ">RELATED</h1>
+<br>
 <ul>
  <li>RADICAL COMPANIES,
  </li>
