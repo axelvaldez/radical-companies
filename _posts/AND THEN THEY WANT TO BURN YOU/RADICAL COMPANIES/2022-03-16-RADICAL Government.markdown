@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "en-alignment.svg"
 ---
 
-<div style="display: none;">National fiat money corrupts and makes a mess of markets. Considered some of the thoughts in this work.</div>
+<div style="display: none;">In this document I get to lay down some my thoughts, albeit unpolished, about government.</div>
 
 <div> <!-- Opening Quotes -->
  <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; width: 100%; ; white-space: normal; ">In 2009, the United States Bureau of Economics reported that the total value of land in the country was $23 trillion. A Forbes writer estimated that the rental value of that land, which George wanted to tax at 100 percent, made up roughly 5 percent of the total, or $1.15 trillion. If the land-value tax were adopted as the sole means of raising government revenue, it would have funded less than half of the federal budget that year, and none of the budgets of all 50 states and thousands of cities, towns, and counties.<sup id="fnref1"><a href="#fn1" rel="endnotes">1</a></sup></pre>
