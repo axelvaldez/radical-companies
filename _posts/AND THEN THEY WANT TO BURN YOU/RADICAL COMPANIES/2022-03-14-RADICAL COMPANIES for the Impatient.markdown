@@ -69,21 +69,21 @@ Every company is different because the people who embody it are different, so ev
 <h2>Alignment</h2>
 <p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, we will first need to be explicit about the company’s <em>what for</em>, its <em>why</em>, and its <em>what</em>, <em>how</em>, and <em>when</em>. You might call them something different or you might lump some of these together. No matter how you express them, they have to be explicit and completely open and accessible to everyone. The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
+ <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
 </p>
 <p>
-  <ul>
-    <li>Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.
-      <p>Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, “… a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.”<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup>
-      </p>
-    </li>
-  </ul>
-  <ul>
-    <li>Purpose is the reason why we, as a company, are focused on this particular Impact. It doesn't have to be world shaking and it doesn't have to strum your heart’s strings. An effective Purpose must clearly express <em>why</em> it is important for others to join us in this adventure.
-    </li>
-    <li>The Mission defines <em>what</em> we are going to do to move towards the Impact, <em>how</em> we are going to do it, and by <em>when</em>. In the case of Nearsoft, we have defined two five-year Missions, one in 2012 and another in 2017.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup> Everybody takes part in this: about 80 Nearsoftians in the first one, and around 300 participated in defining our latest Mission, as of this writing.
-    </li>
-  </ul>
+ <ul>
+  <li>Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.
+   <p>Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, “… a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.”<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup>
+   </p>
+  </li>
+ </ul>
+ <ul>
+  <li>Purpose is the reason why we, as a company, are focused on this particular Impact. It doesn't have to be world shaking and it doesn't have to strum your heart’s strings. An effective Purpose must clearly express <em>why</em> it is important for others to join us in this adventure.
+  </li>
+  <li>The Mission defines <em>what</em> we are going to do to move towards the Impact, <em>how</em> we are going to do it, and by <em>when</em>. In the case of Nearsoft, we have defined two five-year Missions, one in 2012 and another in 2017.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup> Everybody takes part in this: about 80 Nearsoftians in the first one, and around 300 participated in defining our latest Mission, as of this writing.
+  </li>
+ </ul>
 </p>
 <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and intelligible to everybody in the team.
 </p>
@@ -126,39 +126,39 @@ Every company is different because the people who embody it are different, so ev
   <p>A few important observations,
   </p>
   <ul>
-    <li>RADs are not a currency.
-    </li>
-    <li><SPAN>RAD</SPAN>s are issued even before there is revenue because contributions happen regardless of revenue.
-    </li>
-    <li>The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every Distribution Retrospective new criteria are fleshed out and harvested as an optional guideline.
-    </li>
-    <li><SPAN>RAD</SPAN>s represent <em>dynamic</em> ownership. One month you may give me all your <SPAN>RAD</SPAN>s, but the next month you may not give me any.
-    </li>
-    <li>The absolute number of <SPAN>RAD</SPAN>s allocated to me either stays the same or goes up at every distribution. If I had 100 <SPAN>RAD</SPAN>s last cycle and I get 50 this cycle, my total number of <SPAN>RAD</SPAN>s goes to 150. If I don’t get any this cycle, my total number of <SPAN>RAD</SPAN>s stays at 100.
-    </li>
-    <li>On the other hand, my percentage of the total could go up, stay the same, or go down at every Distribution. If my 100 <SPAN>RAD</SPAN>s represented 10% of the total last cycle and I get 150 <SPAN>RAD</SPAN>s this cycle, then my percent ownership went up to 12.5%; if I get 100 new <SPAN>RAD</SPAN>s, my percentage stays at 10%; if don’t get any new <SPAN>RAD</SPAN>s, my percentage goes down to 5%.
-    </li>
-    <li>To calculate your percentage ownership, divide the number of <SPAN>RAD</SPAN>s you have been allocated by the total number of allocated <SPAN>RAD</SPAN>s.
-    </li>
-    <li>When money, or time, or whatever else is disbursed later, it is done as a function of the number of <SPAN>RAD</SPAN>s each person owns. If you have accumulated 200 <SPAN>RAD</SPAN>s and I have 100, then you’ll get twice as much as me of whatever is being factored through the <SPAN>RAD</SPAN>s.
-    </li>
+   <li>RADs are not a currency.
+   </li>
+   <li><SPAN>RAD</SPAN>s are issued even before there is revenue because contributions happen regardless of revenue.
+   </li>
+   <li>The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every Distribution Retrospective new criteria are fleshed out and harvested as an optional guideline.
+   </li>
+   <li><SPAN>RAD</SPAN>s represent <em>dynamic</em> ownership. One month you may give me all your <SPAN>RAD</SPAN>s, but the next month you may not give me any.
+   </li>
+   <li>The absolute number of <SPAN>RAD</SPAN>s allocated to me either stays the same or goes up at every distribution. If I had 100 <SPAN>RAD</SPAN>s last cycle and I get 50 this cycle, my total number of <SPAN>RAD</SPAN>s goes to 150. If I don’t get any this cycle, my total number of <SPAN>RAD</SPAN>s stays at 100.
+   </li>
+   <li>On the other hand, my percentage of the total could go up, stay the same, or go down at every Distribution. If my 100 <SPAN>RAD</SPAN>s represented 10% of the total last cycle and I get 150 <SPAN>RAD</SPAN>s this cycle, then my percent ownership went up to 12.5%; if I get 100 new <SPAN>RAD</SPAN>s, my percentage stays at 10%; if don’t get any new <SPAN>RAD</SPAN>s, my percentage goes down to 5%.
+   </li>
+   <li>To calculate your percentage ownership, divide the number of <SPAN>RAD</SPAN>s you have been allocated by the total number of allocated <SPAN>RAD</SPAN>s.
+   </li>
+   <li>When money, or time, or whatever else is disbursed later, it is done as a function of the number of <SPAN>RAD</SPAN>s each person owns. If you have accumulated 200 <SPAN>RAD</SPAN>s and I have 100, then you’ll get twice as much as me of whatever is being factored through the <SPAN>RAD</SPAN>s.
+   </li>
   </ul>
   <p>There probably are many ways of doing this,
   </p>
   <ul>
-    <li>Every cycle each member gets to distribute a number of <SPAN>RAD</SPAN>s as they see fit. For example, if you get 100 <SPAN>RAD</SPAN>s this month, you may give fifty to Adrian, 30 to Jose, and 20 to me.
-    </li>
-    <li>Alternatively, co-owners might get one <SPAN>RAD</SPAN>s per day. They could then allocate fractions of this one <SPAN>RAD</SPAN>. One tenth to Adrian, 0.01 to Jose, and 0.001 to me.
-    </li>
-    <li>We may have Distribution events once a month, where everybody participates. Alternatively, you may do your allocations daily and I may do them once a month. Or maybe you start daily and then skip a few days before you allocate again.
-    </li>
-    <li>Your unallocated <SPAN>RAD</SPAN>s may disappear every day or they may accumulate for a month or a year.
-    </li>
-</ul>
+   <li>Every cycle each member gets to distribute a number of <SPAN>RAD</SPAN>s as they see fit. For example, if you get 100 <SPAN>RAD</SPAN>s this month, you may give fifty to Adrian, 30 to Jose, and 20 to me.
+   </li>
+   <li>Alternatively, co-owners might get one <SPAN>RAD</SPAN>s per day. They could then allocate fractions of this one <SPAN>RAD</SPAN>. One tenth to Adrian, 0.01 to Jose, and 0.001 to me.
+   </li>
+   <li>We may have Distribution events once a month, where everybody participates. Alternatively, you may do your allocations daily and I may do them once a month. Or maybe you start daily and then skip a few days before you allocate again.
+   </li>
+   <li>Your unallocated <SPAN>RAD</SPAN>s may disappear every day or they may accumulate for a month or a year.
+   </li>
+  </ul>
 
   <h3>Scalability</h3>
-   <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,
-   </p>
+  <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,
+  </p>
   <table style="width: 80%; margin: 0 auto; ">
    <tr>
     <td colspan="4"><img src="/assets/img/dynamic-distribution-1.svg" alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person." title="17 of 56 people. One person’s point of view.">
@@ -312,7 +312,7 @@ Every company is different because the people who embody it are different, so ev
  <p>That earned amount is split between Dividends and a Predictable Recurring Income component.
  </p>
 
-  <h2>Predictable Recurring Income (PRI)</h2>
+ <h2>Predictable Recurring Income (PRI)</h2>
    <p>When you really think about it, “salary” is a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> context.
    </p>
    <p>The PRI is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),
@@ -362,7 +362,7 @@ Every company is different because the people who embody it are different, so ev
   <p>If you are thinking that this process takes a lot of time, you’re right. But it is cheaper and healthier than leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).
   </p>
 
-  <h2>Earned Dividends</h2>
+ <h2>Earned Dividends</h2>
    <p>Below there are three sample scenarios for how Earned Dividends are calculated,
    </p>
    <ul>
@@ -421,7 +421,7 @@ Every company is different because the people who embody it are different, so ev
 
    <br>
 
-  <h2>By Comparison</h2>
+ <h2>By Comparison</h2>
    <p>This way of sharing the wealth should yield, at worst, the same as today’s VC system but with less risk and a huge increase in the number of beneficiaries.
    </p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
