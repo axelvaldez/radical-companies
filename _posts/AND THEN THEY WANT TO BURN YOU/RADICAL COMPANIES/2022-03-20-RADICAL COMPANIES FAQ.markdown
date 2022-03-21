@@ -5,6 +5,7 @@ subtitle: ""
 authors:  "Matt PEREZ | Adrian PEREZ | Jose LEAL"
 image:    "en-vacant-lot-henry-george.svg"
 ---
+
 <p>These questions come from readers of the <a
 href="https://docs.google.com/document/d/10NJA6kzzzHZiS-CQBB6HpWdJ1gFqmYK5kNQYG_JR7X0/edit#heading=h.87ak6hy0sbuh">RADICAL
 COMPANIES</a> book and its accompanying booklet, <a
@@ -50,11 +51,12 @@ differently,
  <li>This time you get 142 additional RADs for a total of 592 (16%) and I end up with a total of 630 (17%).
  </li>
 </ul>
- <h2>Who’s looking out for the business?</h2>
-<p>The allocation of RADs is not based on traditional key performance indicators, or targets, or any of the things that are usually measured and checked by the bosses. So, the question is who is looking out for the company? And the answer is the co-owners, the people who embody it.
-</p>
-<p>The metrics that are important to the business continue to be important to the company and co-owners will want to look at these metrics, question the results, etc. For example, if I didn’t come through on something I promised to do that was critical to these indicators, then we’ll have to figure out why it didn’t happen and what could we have done differently to make it happen. These conversations may get heated, and voices will be raised. RADICAL Distributions are not a replacement for these difficult decisions and hard conversations.
-</p>
+
+<h2>Who’s looking out for the business?</h2>
+ <p>The allocation of RADs is not based on traditional key performance indicators, or targets, or any of the things that are usually measured and checked by the bosses. So, the question is who is looking out for the company? And the answer is the co-owners, the people who embody it.
+ </p>
+ <p>The metrics that are important to the business continue to be important to the company and co-owners will want to look at these metrics, question the results, etc. For example, if I didn’t come through on something I promised to do that was critical to these indicators, then we’ll have to figure out why it didn’t happen and what could we have done differently to make it happen. These conversations may get heated, and voices will be raised. RADICAL Distributions are not a replacement for these difficult decisions and hard conversations.
+ </p>
 
 <h2>Stock shares of don’t count? really?</h2>
 <p>Stock counts when a company is sold, either to another business or to the public market. It is unlikely that a RADICAL company will be sold, but if it is, the total amount of money paid for the company would be distributed according to the distribution of the RADs.
