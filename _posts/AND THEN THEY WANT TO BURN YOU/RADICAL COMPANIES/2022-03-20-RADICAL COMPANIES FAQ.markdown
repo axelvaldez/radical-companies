@@ -437,30 +437,25 @@ differently,
  <li>RADICAL COMPANIES,
  </li>
 <ul>
-<li><a
-href="https://docs.google.com/document/d/1Vt-3hM_i1x9FzfoO0hDX8itRnPV5OQWKcfWsjV6a6CQ/edit#heading=h.rutigyp6zcd3">EN</a>:
-<a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a>
-<li><a
-href="https://docs.google.com/document/d/1UYxFNZyJvFZf4DMZkspF5cF6Yzl_ugI67lmqoYJhtGw/edit#heading=h.87ak6hy0sbuh">ES</a>:
-<a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a>
-<li>For the Impatient: RADs, PRI, etc.: <a
-href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a>
-<li>Frequently asked questions (FAQ): <a
-href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a>
-</li>
+ <li><a href="https://docs.google.com/document/d/1Vt-3hM_i1x9FzfoO0hDX8itRnPV5OQWKcfWsjV6a6CQ/edit#heading=h.rutigyp6zcd3">EN</a>: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a>
+ </li>
+ <li><a href="https://docs.google.com/document/d/1UYxFNZyJvFZf4DMZkspF5cF6Yzl_ugI67lmqoYJhtGw/edit#heading=h.87ak6hy0sbuh">ES</a>: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a>
+ </li>
+ <li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a>
+ </li>
+ <li>Frequently asked questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a>
+  </li>
 </ul>
 <li>The missing chapters,
-<ul>
-<li><a
-href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu">RADICAL
-COIN</a>
-<li><a
-href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76">RADICAL
-LAND</a>
-<li><a
-href="https://docs.google.com/document/d/1P4tZw1iAAnJtP2zlijgttIv1Cxq47PBPzqK3UbMHCSY/edit#">RADICAL
-GOVERNMENT</a>
 </li>
+ <ul>
+  <li><a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu">RADICAL COIN</a>
+ </li>
+ <li><a href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76">RADICAL LAND</a>
+ </li>
+ <li><a href="https://docs.google.com/document/d/1P4tZw1iAAnJtP2zlijgttIv1Cxq47PBPzqK3UbMHCSY/edit#">RADICAL
+GOVERNMENT</a>
+ </li>
 </ul>
  <li>rProjects
  </li>
