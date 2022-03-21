@@ -393,7 +393,7 @@ Every company is different because the people who embody it are different, so ev
    <p>In the breakeven case we finally get to pay ourselves fully from the revenue that we’ve generated. Even in this case, some people may need to draw from the Predictable Recurring Income (PRI) Account, maybe because their PRI are high, or their RADs are low, or both.
    </p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-    <img src="assets/img/en-predictable-recurring-income-pri-t2.svg" alt="A table and a graph. The DIVIDENS are $6000, which is below the $10000 breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
+    <img src="/assets/img/en-predictable-recurring-income-pri-t2.svg" alt="A table and a graph. The DIVIDENS are $6000, which is below the $10000 breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
     The total DIVIDENDS add up to $16000, which is right at breakeven.
     The firs column is labeled SALIM who has 250 RADs, has EARNED  $2000 and so he doesn't have to take anything from the PRI ACCOUNT and take his $2000 PRI.
     The second column is labeled DALIAH who has 450 RADs, has EARNED $3600 and doesn't have to take anything out of the PRI ACCOUNT to cover his $1500 PRI.
