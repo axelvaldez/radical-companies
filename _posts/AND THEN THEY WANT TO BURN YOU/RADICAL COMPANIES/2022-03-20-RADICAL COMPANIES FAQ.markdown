@@ -290,8 +290,10 @@ differently,
 <p>For more information, see the <a href="https://docs.google.com/document/d/10NJA6kzzzHZiS-CQBB6HpWdJ1gFqmYK5kNQYG_JR7X0/edit?pli=1#heading=h.ud821w7zvp4x">Ostrom’s Core Design Principles</a> book appendix.
 </p>
 
-<h2>General</h2>
-<p>If “businesses are broken,“ how can it be that they are more successful than ever?</p>
+<h1 style="text-align: center; ">General</h1>
+<br>
+
+<h2>If “businesses are broken,“ how can it be that they are more successful than ever?</h2>
 <p>More <em>financially</em> successful, yes. On the other hand, engagement and tenure are going down, innovation is much talked about but non-existent in practice, burnout and suicides are going up.
 </p>
 <p>No question that <em>financially</em> businesses are going up, but the financial “rewards,” the dividends, are going to fewer and fewer while the price, emotional damage and diminished health, is being paid by more and more.
@@ -310,47 +312,57 @@ differently,
    </td>
   </tr>
   <tr>
-    <td>
+   <td>
      <p style="text-align: right">principles
      </p>
    </td>
-   <td style="background-color: lightgrey; "><strong>Meaning & Belonging</strong>
+   <td style="background-color: lightgrey; ">
+    <p>
+     <strong>Meaning & Belonging</strong> 
+    </p>
    </td>
    <td>⬈
    </td>
   </tr>
-
   <tr>
    <td colspan="3">
    </td>
    <td rowspan="2"><em>autonomy</em>
    </td>
   </tr>
-   <td>
+  <tr>
    <td>
     <p style="text-align: right">commitments
     </p>
    </td>
-   <td style="background-color: lightgrey; "><strong>Transparency & Decentralization</strong>
+   <td style="background-color: lightgrey; ">
+    <p>
+     <strong>Transparency & Decentralization</strong>
+    </p>
    </td>
    <td>⬈
    </td>
   </tr>
-
   <tr>
    <td colspan="3">
    </td>
    <td rowspan="2"><em>collaboration</em>
    </td>
+  </tr>
+  <tr>
    <td><p style="text-align: right">practices</p>
    </td>
-   <td style="background-color: lightgrey; "><strong>Alignment & Experimentation</strong>
+   <td style="background-color: lightgrey; ">
+    <p>
+     <strong>Alignment & Experimentation</strong>
+    </p>
    </td>
    <td>⬈
    </td>
   </tr>
   <tr>
-   <td colspan="5"></td>
+   <td colspan="4">
+   </td>
   </tr>
 </table>
 <p>These are what we think are the important dimensions by which to view how healthy a community is and how supportive it is for learning and development of its members. You can also look at it as a self-assessment tool that companies can use to figure out what’s most important to them and where they want to go. It is also a common language for companies to work with each other. Regardless of what “solutions” they’ve adopted, they can use these dimensions to figure where each is and how they could possibly collaborate with one another.
