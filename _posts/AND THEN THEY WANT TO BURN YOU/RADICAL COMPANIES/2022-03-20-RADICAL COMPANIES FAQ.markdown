@@ -304,7 +304,7 @@ differently,
 </p>
 <p>Rather than dictate yet-another-structure, we are proposing a few foundational basics,
 </p>
-<table>
+<table style="margin: auto; ">
   <tr>
    <td colspan="3">
    </td>
