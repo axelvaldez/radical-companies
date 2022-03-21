@@ -308,7 +308,7 @@ differently,
   <tr>
    <td colspan="3">
    </td>
-   <td rowspan="2"><em>relationships</em>
+   <td rowspan="2" style="vertical-align: top; "><em>relationships</em>
    </td>
   </tr>
   <tr>
@@ -327,7 +327,7 @@ differently,
   <tr>
    <td colspan="3">
    </td>
-   <td rowspan="2"><em>autonomy</em>
+   <td rowspan="2" style="vertical-align: top; "><em>autonomy</em>
    </td>
   </tr>
   <tr>
