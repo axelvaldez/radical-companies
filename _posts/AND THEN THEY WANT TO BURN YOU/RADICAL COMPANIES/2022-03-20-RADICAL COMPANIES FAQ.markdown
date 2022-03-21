@@ -316,7 +316,7 @@ differently,
      <p style="text-align: right">principles
      </p>
    </td>
-   <td style="background-color: lightgrey; ">
+   <td style="background-color: lightgrey; width: 20em">
     <p>
      <strong>Meaning & Belonging</strong> 
     </p>
