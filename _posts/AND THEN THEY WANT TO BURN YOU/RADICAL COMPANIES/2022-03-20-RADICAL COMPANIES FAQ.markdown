@@ -313,7 +313,7 @@ differently,
   </tr>
   <tr>
    <td>
-     <p style="text-align: right">principles
+     <p style="text-align: right; padding-right: 2em; ">principles
      </p>
    </td>
    <td style="background-color: lightgrey; width: 20em">
@@ -332,7 +332,7 @@ differently,
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">commitments
+    <p style="text-align: right; padding-right: 2em; ">commitments
     </p>
    </td>
    <td style="background-color: lightgrey; ">
@@ -350,7 +350,7 @@ differently,
    </td>
   </tr>
   <tr>
-   <td><p style="text-align: right">practices</p>
+   <td><p style="text-align: right; padding-right: 2em; ">practices</p>
    </td>
    <td style="background-color: lightgrey; ">
     <p>
