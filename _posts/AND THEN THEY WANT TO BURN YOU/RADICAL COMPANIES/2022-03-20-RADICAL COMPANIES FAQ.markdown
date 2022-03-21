@@ -328,7 +328,6 @@ differently,
   </tr>
   <tr>
    <td style="vertical-align: middle; text-align: right; padding-right: 1em; ">commitments
-    </p>
    </td>
    <td style="background-color: lightgrey; width: 2in; text-align: center; ">
     <strong>Transparency & Decentralization</strong>
