@@ -349,7 +349,7 @@ Every company is different because the people who embody it are different, so ev
   </p>
   <p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-    <img src="/assets/img/dynamic-distribution-1" alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM who has 250 RADs and takes $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and takes $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
+    <img src="/assets/img/dynamic-distribution-1.svg" alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM who has 250 RADs and takes $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and takes $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
    </p>
   </p>
   <p>We had a lot of back and forth over the PRI Account being a <em>personal</em> debt. Why not have it be a shared debt? The problem is that this may work for small groups, but it doesn’t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don’t know. They would want to know things like “Why is Julio’s PRI so high?” On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn’t feel good about going into so much debt and brings down his PRI after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister’s school and is willing to bear the debt for a while longer.
@@ -371,24 +371,45 @@ Every company is different because the people who embody it are different, so ev
    <p>This first scenario is what normally happens at the start of a company: it doesn’t generate enough revenue to cover everybody’s PRI. In this case, we would need an investment or loan to put in the PRI Account so we can use it to meet the amount of PRI each person has set.
    </p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-    <img src="assets/img/dynamic-distribution-2" alt="A table and a graph. The DIVIDENS for the month is $6000 (which is below the $10000 breakeven point). The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens. The total DIVIDENDS add up to $6000, which is below the $10000 break even for the month.
+    <img src="/assets/img/dynamic-distribution-2.svg" alt="A table and a graph. The DIVIDENS for the month is $6000 (which is below the $10000 breakeven point). The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
+    The total DIVIDENDS add up to $6000, which is below the $10000 breakeven.
     The firs column is labeled SALIM who has 250 RADs, has EARNED  $750 and has to take $1250 out of the PRI ACCOUNT to cover his $2000 PRI take home.
     The second column is labeled DALIAH who has 450 RADs, has EARNED $1350 and has to take $150 out of the PRI ACCOUNT to cover her $1500 PRI take home.
-    Next is ALICIA with 670 RADs, she has EARNED $2010 and needs to take $2990 from the PRI ACCOUNT to cover her $5000 PRI take home. Next is KIM has 200 RADs, has EARNED $600, and needs to take $1900 out of the PRI ACCOUNT to cover his $2500 PRI take home.
-    Net is JULIO who has 130 RADs, has EARNED $390, and has to take $3610 from the PRI ACCOUNT to cover this $4000 PRI take home.
+    Next is ALICIA with 670 RADs, she has EARNED $2010 and needs to take $2990 from the PRI ACCOUNT to cover her $5000 PRI take home.
+    Next is KIM has 200 RADs, has EARNED $600, and needs to take $1900 out of the PRI ACCOUNT to cover his $2500 PRI take home.
+    Next is JULIO who has 130 RADs, has EARNED $390, and has to take $3610 from the PRI ACCOUNT to cover this $4000 PRI take home.
     The last column is labeled ANITA who has 300 RADs, has EARNED $900, and now has to take $100 out of the PRI ACCOUNT to cover his $1000 PRI take home.
     The graph shows the PRI ACCOUNT as box full of read liquid.
-    Below are graphics representation of each PRIs with a mix of red and beige. taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
+    Below are graphics representation of each PRIs with a mix of red and beige. taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000.
+    The graph shows the PRI ACCOUNT as a horizontal box full of read liquid. Below are vertical boxes that represent each person's PRI.They all have a mix of beige and red to indicate that they all had to complement their PRI with withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
    </p>
    <p>In the breakeven case we finally get to pay ourselves fully from the revenue that we’ve generated. Even in this case, some people may need to draw from the Predictable Recurring Income (PRI) Account, maybe because their PRI are high, or their RADs are low, or both.
    </p>
-    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-     <img src="assets/img/dynamic-distribution-3"  alt="Two tables and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
+   <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+     <img src="assets/img/dynamic-distribution-3.svg" alt="A table and a graph. The DIVIDENS for the month is $6000 (which is below the $10000 breakeven point). The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
+     The total DIVIDENDS add up to $16000, which is right at breakeven.
+     The firs column is labeled SALIM who has 250 RADs, has EARNED  $2000 and so he doesn't have to take anything from the PRI ACCOUNT and take his $2000 PRI.
+     The second column is labeled DALIAH who has 450 RADs, has EARNED $3600 and doesn't have to take anything out of the PRI ACCOUNT to cover his $1500 PRI.
+     Next is ALICIA with 670 RADs, she has EARNED $5360 and doesn't need to take anything from the PRI ACCOUNT to cover her $5000 PRI take home.
+     Next is KIM who has 200 RADs, has EARNED $1600, and needs to take $900 out of the PRI ACCOUNT to cover his $2500 PRI.
+     Next is JULIO who has 130 RADs, has EARNED $1040, and has to take $2960 from the PRI ACCOUNT to cover this $4000 PRI.
+     The last column is labeled ANITA who has 300 RADs, has EARNED $2400, and doesn't need to take anything from the PRI ACCOUNT to cover her $1000 PRI take home.
+     The graph shows the PRI ACCOUNT as box full of read liquid.
+     Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
    </p>
    <p>At some point, after we’ve been steadily growing our revenue, no money is coming out of our Predictable Recurring Income (PRI). This is when we start disbursing Earned Dividends in addition to covering everybody’s PRI.
    </p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-    <img src="/assets/img/dynamic-distribution-4"  alt="Two tables and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM and who has 250 RADs and take $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. KIM has 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and take $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red. Below are graphics representation of the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
+    <img src="/assets/img/dynamic-distribution-4.svg" alt="A table and a graph. The DIVIDENS for the month is $25000 (which is $9000 above the $10000 breakeven point). The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
+    The total DIVIDENDS add up to $16000, which is right at breakeven.
+    The firs column is labeled SALIM who has 250 RADs, has EARNED  $2000 and so he doesn't have to take anything from the PRI ACCOUNT and take his $2000 PRI.
+    The second column is labeled DALIAH who has 450 RADs, has EARNED $3600 and doesn't have to take anything out of the PRI ACCOUNT to cover his $1500 PRI.
+    Next is ALICIA with 670 RADs, she has EARNED $5360 and doesn't need to take anything from the PRI ACCOUNT to cover her $5000 PRI take home.
+    Next is KIM who has 200 RADs, has EARNED $1600, and needs to take $900 out of the PRI ACCOUNT to cover his $2500 PRI.
+    Next is JULIO who has 130 RADs, has EARNED $1040, and has to take $2960 from the PRI ACCOUNT to cover this $4000 PRI.
+    The last column is labeled ANITA who has 300 RADs, has EARNED $2400, and doesn't need to take anything from the PRI ACCOUNT to cover her $1000 PRI take home.
+    The graph shows the PRI ACCOUNT as box full of read liquid.
+    Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
    </p>
    <p>Notice that even though dividends are up, Julio continues to draw from the PRI Account because his PRI is pretty high and his RAD count is pretty low. He may want to change his PRI or get feedback on why his <SPAN>RAD</SPAN>s are so low.
    </p>
