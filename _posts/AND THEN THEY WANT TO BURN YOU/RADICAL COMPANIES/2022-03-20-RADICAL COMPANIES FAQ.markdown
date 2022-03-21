@@ -12,6 +12,10 @@ COMPANIES</a> book and its accompanying booklet, <a
 href="https://docs.google.com/document/d/17uegxy6GPeLsajIaM_6faQ0hdl56PqMXpJvLW37iJVg/edit#">For
 the Impatient</a>.
 </p>
+
+<br>
+<br>
+
 <h1 style="text-align: center; ">Co-Ownership</h1>
 <h2>Does a company need to be co-owned to be RADICAL?</h2>
 <p>Yes, it has to be co-owned <em>and</em> co-managed.
@@ -198,6 +202,9 @@ differently,
 <p>Maybe it is not so much a case that these ideas are impractical, as it is that they are different and unfamiliar.
 </p>
 
+<br>
+<br>
+
 <h1 style="text-align: center; ">Co-Management</h1>
 <br>
 
@@ -291,6 +298,9 @@ differently,
 </ul>
 <p>For more information, see the <a href="https://docs.google.com/document/d/10NJA6kzzzHZiS-CQBB6HpWdJ1gFqmYK5kNQYG_JR7X0/edit?pli=1#heading=h.ud821w7zvp4x">Ostrom’s Core Design Principles</a> book appendix.
 </p>
+
+<br>
+<br>
 
 <h1 style="text-align: center; ">General</h1>
 <br>
