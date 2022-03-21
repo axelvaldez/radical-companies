@@ -64,7 +64,7 @@ differently,
  <p>The metrics that are important to the business continue to be important to the company and co-owners will want to look at these metrics, question the results, etc. For example, if I didn’t come through on something I promised to do that was critical to these indicators, then we’ll have to figure out why it didn’t happen and what could we have done differently to make it happen. These conversations may get heated, and voices will be raised. RADICAL Distributions are not a replacement for these difficult decisions and hard conversations.
  </p>
 
-<h2>Stock shares of don’t count? really?</h2>
+<h2>Stock shares don’t count? really?</h2>
 <p>Stock counts when a company is sold, either to another business or to the public market. It is unlikely that a RADICAL company will be sold, but if it is, the total amount of money paid for the company would be distributed according to the distribution of the RADs.
 </p>
 <p>A RADICAL investment is ruled by a specific contract that stipulates how and how much the investment is to be paid back. This agreement is what rules the investment. If, out of habit, the investors demand “stocks!” then you can create a separate company and they can hold stock in that company, but with the condition that the stock goes back when the investment is paid according to the terms agreed upon. The parallel company could hold a percentage ownership in the RADICAL company.
