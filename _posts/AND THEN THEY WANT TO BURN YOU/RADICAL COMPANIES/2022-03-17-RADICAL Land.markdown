@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "en-vacant-lot-henry-george.svg"
 ---
 
-<div style="display: none;">What about land in a RADICAL world? Would you <em>own</em> it.</div>
+<div style="display: none;">What about land in a RADICAL world? Would you <em>own</em> it?</div>
 
 <br>
 <br>
