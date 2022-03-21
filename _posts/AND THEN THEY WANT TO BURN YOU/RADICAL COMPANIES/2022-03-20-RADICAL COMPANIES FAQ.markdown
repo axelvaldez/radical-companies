@@ -316,7 +316,7 @@ differently,
      <p style="text-align: right; padding-right: 1em; ">principles
      </p>
    </td>
-   <td style="background-color: lightgrey; width: 2in; ">
+   <td style="background-color: lightgrey; width: 2in; text-align: center; ">
     <p>
      <strong>Meaning & Belonging</strong> 
     </p>
@@ -335,7 +335,7 @@ differently,
     <p style="text-align: right; padding-right: 1em; ">commitments
     </p>
    </td>
-   <td style="background-color: lightgrey; width: 2in; ; ">
+   <td style="background-color: lightgrey; width: 2in; text-align: center; ">
     <p>
      <strong>Transparency & Decentralization</strong>
     </p>
@@ -352,7 +352,7 @@ differently,
   <tr>
    <td><p style="text-align: right; padding-right: 1em; ">practices</p>
    </td>
-   <td style="background-color: lightgrey; width: 2in; ; ">
+   <td style="background-color: lightgrey; width: 2in; text-align: center; ">
     <p>
      <strong>Alignment & Experimentation</strong>
     </p>
