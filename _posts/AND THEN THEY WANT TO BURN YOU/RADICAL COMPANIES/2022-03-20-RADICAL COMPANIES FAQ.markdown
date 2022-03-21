@@ -317,9 +317,7 @@ differently,
      </p>
    </td>
    <td style="background-color: lightgrey; width: 2in; text-align: center; ">
-    <p>
-     <strong>Meaning & Belonging</strong> 
-    </p>
+    <strong>Meaning & Belonging</strong> 
    </td>
    <td>⬈
    </td>
@@ -336,9 +334,7 @@ differently,
     </p>
    </td>
    <td style="background-color: lightgrey; width: 2in; text-align: center; ">
-    <p>
-     <strong>Transparency & Decentralization</strong>
-    </p>
+    <strong>Transparency & Decentralization</strong>
    </td>
    <td>⬈
    </td>
@@ -353,9 +349,7 @@ differently,
    <td><p style="text-align: right; padding-right: 1em; ">practices</p>
    </td>
    <td style="background-color: lightgrey; width: 2in; text-align: center; ">
-    <p>
-     <strong>Alignment & Experimentation</strong>
-    </p>
+    <strong>Alignment & Experimentation</strong>
    </td>
    <td>⬈
    </td>
