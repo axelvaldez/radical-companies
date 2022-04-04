@@ -50,7 +50,7 @@ Surface” in the same sentence. All I managed to say was, “Uh, OK. Then follo
 </p>
 <p>“I am not praying,” said Ignatious, “it was just something I said. Don’t let your amygdala rule you.”
 </p>
-<p>I heard Petra chuckled. Then I took a brief glance, enough to see them walking behind me in an awkward hug.
+<p>I heard Petra chuckled. Then I quickly turned around and took a brief glance, enough to see them walking behind me in an awkward hug.
 </p>
 
 <h2>Over the Hill</h2>
