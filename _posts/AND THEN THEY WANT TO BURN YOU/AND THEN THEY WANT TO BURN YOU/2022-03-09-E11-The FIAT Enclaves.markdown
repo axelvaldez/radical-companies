@@ -22,44 +22,35 @@ And then they build monuments to you</pre>
 
 <h1 style="text-align: center;">THE FIAT ENCLAVES</h1>
 
-<h2>… After All These Years</h2>
-<p>
-Not long after Ping’s death, the world has moved quickly from under the FIAT choke. Some national governments resurfaced, but that didn’t last long. Communities had come into being, but this time they were very fluid and took on different shapes as needed, like musical ensembles that changed as new instruments came in and out.
+<h2>Still Crazy…</h2>
+<p>Not long after Ping’s death, the world moved quickly from under the FIAT choke. Some national governments resurfaced, but that didn’t last long. Communities had come into being and this time they took on different shapes as needed, like musical ensembles that changed as new players came in and out.
 </p>
-<p>
-A few communities had stuck to FIAT ways, but most were slowly evolving. Communities broke away from the ones that didn’t evolve fast enough for them. They could see what was going on with their neighbors and experimented with no-FIAT ways. Then, starting early in 2065, many of the FIAT regions started to make it hard to break away and by the end of the year they had declared borders and completely closed them. In many ways, they were reminiscent of the old North Korean and Cuban dictatorships.
+<p>A few communities had stuck to FIAT ways, but most were slowly evolving. People could see what was going on with their neighbors and broke away from communities that didn’t evolve fast enough for them. Then, starting early in 2065, one FIAT region started to make it hard to break away and by the end of the year it had declared borders and completely closed them. In many ways, they were reminiscent of the old North Korean and Cuban dictatorships.
 </p>
-<p>
-The few of us who had lived through these regimes in the late and early 21<sup>th</sup> century were mildly concerned at first. By the time these regions had declared borders more people had become worried and were now paying attention. Then, when they closed their borders, most people were highly alarmed. The off Earth Surface (FES) people who had lived under the Earth Authority’s rule were more than alarmed and began to prepare for the worst.
+<p>The few of us who had lived through these regimes in the late and early 21<sup>th</sup> century were mildly concerned at first. By the time these regions had declared borders more people had become worried and were now paying attention. People became very alarmed when the region called The Bracia completely closed its borders. The off Earth Surface (FES) people who had lived under the Earth Authority’s rule were more than alarmed and began to prepare for the worst.
 </p>
-
 <h2>Petra and Ignatius</h2>
-<p>
-They went back to their units, resigned to fight for the only home they knew. They, all 19 youths, understood that the whole Bracia aggression was aimed at anchoring the power of the hierarchy over the people in their domain. Nevertheless, they went back. They were not prisoners and we invited them to visit whatever Ensemble they chose, but by next morning all but two remained.
+<p>Just before dawn, one of The Bracia fighting units came over the hill, dropped their weapons, and raised what passed as an old fashioned white flag. They came down with their hands up for some reason. It turned out that they were deserting and giving themselves up as prisoners. We took care of them as best we could and explained that they were welcome to stay as members of our community, just not as prisoners. I spent a few hours explaining how our Ensemble operated and then left them to rest.
 </p>
-<p>
-They, a young woman and man, held fast to each other and trembled every so often, even though their quarters were kept at a comfortable temperature. “The other went back. We didn’t. Obviously,” said the young woman. “They’ll report us as dead. We want to get as far away as we can from The Bracia.” I looked at them and was about to speak when he said, softly, “Yes, both of us. Together.”
+<p>By next morning, they were ready to go back, resigned to fight for the only home they knew. All of them understood that The Bracia aggression was unnecessary, but nevertheless, most wanted to go back. By the end of the day  all but two had left.
 </p>
-<p>
-“Even if half of what you say is a lie,” she said, “we’d rather stay out of that hell on Earth Surface.” I was surprised how she mixed “hell” and “Earth Surface” in the same sentence. All I managed to say was, “Uh, OK. Then follow me.”
+<p>“The others went back. We didn’t. Obviously,” said the young woman. “They’ll report us as dead. We want to get as far away as we can from The Bracia.” I
+looked at them and was about to speak when the young man said, softly, “Yes, both of us. Together.”
 </p>
-<p>
-I walked ahead of them, and without turning asked them their names.
+<p>“Even if half of what you said is a lie,” she said, “we’d rather stay out of that hell on Earth Surface.” I was surprised how she mixed “hell” and “Earth
+Surface” in the same sentence. All I managed to say was, “Uh, OK. Then follow me.”
 </p>
-<p>
-“I am Ignacious. I am 18 years old. I am not married.”
+<p>I walked ahead of them, and without turning asked them their names.
 </p>
-<p>
-“And I am Petra. I am 16. I am married, but it doesn’t matter. Not anymore.”
+<p>“I am Ignacious. I am 18 years old. Not married.”
 </p>
-<p>
-“El<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> help us,” said Ignatious, under his breath. But Petra heard him. “El Shaddai is not going to help us. El is a burden on us, on all The Bracia. We have to help ourselves. We have to trust that these people will help us. If you want to pray, pray that they’d be Yahweh M'kaddesh.”
+<p>“And I am Petra. I am 20. I am married, but it doesn’t matter. Not anymore.”
 </p>
-<p>
-“I am not praying,” said Ignatious, “it was just something I said. Don’t let your amygdala rule you.”
+<p>“El<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> help us,” said Ignatious, under his breath. But Petra heard him. “El Shaddai is not going to help us. El is a burden on us, on all The Bracia. We have to help ourselves. We have to trust that these people will help us. If you want to pray, pray that they’d be Yahweh M'kaddesh.”
 </p>
-<p>
-Petra chuckled and I took a quick glance, enough to see them walking in an awkward hug as they walked behind me.
+<p>“I am not praying,” said Ignatious, “it was just something I said. Don’t let your amygdala rule you.”
+</p>
+<p>I heard Petra chuckled. Then I took a brief glance, enough to see them walking behind me in an awkward hug.
 </p>
 
 <h2>Over the Hill</h2>
