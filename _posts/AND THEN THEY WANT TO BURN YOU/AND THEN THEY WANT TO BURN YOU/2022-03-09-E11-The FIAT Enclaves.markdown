@@ -29,6 +29,7 @@ And then they build monuments to you.</pre>
 </p>
 <p>The few of us who had lived through these regimes in the late and early 21<sup>th</sup> century were mildly concerned at first. By the time these regions had declared borders more people had become worried and were now paying attention. People became very alarmed when the region called The Bracia completely closed its borders. The off Earth Surface (FES) people who had lived under the Earth Authority’s rule were more than alarmed and began to prepare for the worst.
 </p>
+
 <h2>Petra and Ignatius</h2>
 <p>Just before dawn, one of The Bracia fighting units came over the hill, dropped their weapons, and raised what passed as an old fashioned white flag. They came down with their hands up for some reason. It turned out that they were deserting and giving themselves up as prisoners. We took care of them as best we could and explained that they were welcome to stay as members of our community, just not as prisoners. I spent a few hours explaining how our Ensemble operated and then left them to rest.
 </p>
@@ -487,7 +488,7 @@ Ignatius was startled by Petra’s remark and decided to change the conversation
     <li><a href="https://docs.google.com/document/d/16jST0lzzezNoFstE2ccZoI2HirgWBu3gQGnEok5OhGY/edit#">rNextBright</a></li>
     <li><a href="https://docs.google.com/document/d/1dMxsO5LMhKle97J8tPscBs5g64_QKZsiRnDtsccBUE4/edit#heading=h.gqizizpnpgzu">rHintersoft</a></li> 
   </ul>
-  <li>rProjects
+  <li>rProjects</li>
   <ul>
     <li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a></li>
     <li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
