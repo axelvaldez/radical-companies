@@ -15,7 +15,7 @@ image:    "and-then-e11.png"
 <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">First they ignore you.
 Then they ridicule you.
 Then they want to burn you.
-And then they build monuments to you</pre>
+And then they build monuments to you.</pre>
 
 <br>
 <br>
