@@ -39,10 +39,15 @@ defaults:
       image: "post-default.png"
 
 
+
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+gems:
+  - jekyll-paginate-v2
 
 exclude:
   - .sass-cache/
@@ -55,3 +60,12 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
