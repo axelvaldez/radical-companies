@@ -1,0 +1,49 @@
+---
+layout: blog
+title: Blog
+pagination:
+    enabled: true
+---
+
+{% include page-heading.html title="Radical Blog" subtitle="A place to talk about Radical Practices" %}
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                {% for post in paginator.posts %}
+                    <div class="row align-items-lg-center mb-5">
+                        <div class="col-2 col-lg-4">
+                            <img src="/assets/img/{{ post.image }}" class="img-fluid" alt="">
+                        </div>
+                        <div class="col-10 col-lg-8">
+                            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                            <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 140 }}</p>
+                            <a href="{{ post.url }}">Read more&hellip;</a>
+                        </div>
+                    </div>
+                {% endfor %}
+                
+                {% if paginator.total_pages > 1 %}
+                <div class="row">
+                    <div class="col-6">
+                        {% if paginator.previous_page %}
+                        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-tertiary text-orange">&larr; Newer Posts</a>
+                        {% endif %}
+                    </div>
+                    <div class="col-6 text-end">
+                        {% if paginator.next_page %}
+                        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"  class="btn btn-tertiary text-orange">Older Posts &rarr;</a>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endif %}
+                
+                
+            </div>
+            <div class="col-lg-3 offset-lg-1 d-none d-lg-block">
+                {% include post-sidebar.html %}
+            </div>
+        </div>
+    </div>
+</section>
+{% include cta.html %}   
