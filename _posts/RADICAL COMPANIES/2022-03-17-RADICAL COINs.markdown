@@ -99,30 +99,109 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
   <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
  </p>
- <p>They do this starting from a simple foundation of interdependence,</p>
- <table style="margin: auto; margin-bottom: 40px; ">
+ <p>
+ <p>
+They do this starting from a simple foundation of interdependence,
+</p>
   <tr>
-     <td style="text-align: right; padding-right: 6px; "><em>principles</em></td>
-     <td style="font-size: larger; ">{</td>
-     <td style="text-align: center; "><strong>Meaning & Belonging</strong></td>
-     <td style="font-size: larger; ">}</td>
-     <td style="text-align: left; padding-left: 6px; "><em>relationships</em></td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td rowspan="2">
+    <h4><em>relationships</em></h4>
+   </td>
   </tr>
-  <tr>
-     <td style="text-align: right; padding-right: 6px; "><em>commitments</em></td>
-     <td style="font-size: larger; ">{</td>
-     <td style="text-align: center; "><strong>Transparency & Decentralization</strong></td>
-     <td style="font-size: larger; ">}</td>
-     <td style="text-align: left; padding-left: 6px; "><em>autonomy</em></td>
-  </tr>
-  <tr>
-     <td style="text-align: right; padding-right: 6px; "><em>practices</em></td>
-     <td style="font-size: larger; ">{</td>
-     <td style="text-align: center; "><strong>Alignment & Experimentation</strong></td>
-     <td style="font-size: larger; ">}</td>
-     <td style="text-align: left; padding-left: 6px; "><em>collaboration</em></td>
-  </tr>
- </table>
+   <td>
+    <h4><p style="text-align: right">principles</p>
+    </h4>
+   </td>
+   <td></td>
+   <td>
+    <h4>Meaning &</h4>
+    <h4>Belonging</h4>
+   </td>
+   <td>
+    <h4> ⬈</h4>
+   </td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td rowspan="2" >
+    <h4><em>autonomy</em></h4>
+   </td>
+   <td>
+    <h4><p style="text-align: right">commitments</p>
+    </h4>
+   </td>
+   <td></td>
+   <td>
+    <h4>Transparency &</h4>
+    <h4>Decentralization</h4>
+   </td><td>
+    <h4> ⬈</h4>
+   </td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td rowspan="2" >
+    <h4><em>collaboration</em></h4>
+   </td>
+   <td>
+    <h4><p style="text-align: right">practices</p>
+    </h4>
+   </td>
+   <td></td>
+   <td>
+    <h4>Alignment &</h4>
+    <h4>Experimentation</h4>
+   </td>
+   <td>
+    <h4> ⬈</h4>
+   </td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+  </p>
+  <p>They do this starting from a simple foundation of interdependence,
+  </p>
+  <table style="margin: auto; margin-bottom: 40px; ">
+   <tr>
+    <td style="text-align: right; padding-right: 6px; "><em>principles</m></td>
+    <td style="font-size: larger; ">{</td>
+    <td style="text-align: center; "><strong>Meaning & Belonging</trong></td>
+    <td style="font-size: larger; ">}</td>
+     <td style="text-align: left; padding-left: 6px; "><em>relationships<em></td>
+   </tr>
+   <tr>
+    <td style="text-align: right; padding-right: 6px; "><em>commitments</em>
+    </td>
+    <td style="font-size: larger; ">{
+    </td>
+    <td style="text-align: center; "><strong>Transparency & Decentralization</strong>
+    </td>
+    <td style="font-size: larger; ">}
+    </td>
+    <td style="text-align: left; padding-left: 6px; "><em>autonomy</em>
+    </td>
+   </tr>
+   <tr>
+    <td style="text-align: right; padding-right: 6px; "><em>practices</em>
+    </td>
+    <td style="font-size: larger; ">{
+    </td>
+    <td style="text-align: center; "><strong>Alignment & Experimentation</strong>
+    </td>
+    <td style="font-size: larger; ">}
+    </td>
+    <td style="text-align: left; padding-left: 6px; "><em>collaboration</em>
+    </td>
+   </tr>
+  </table>
 
  <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s as Collaboration</h3>
  <p>As I see it, the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve &ldquo;<em>progress</em>.&rdquo;<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup>
