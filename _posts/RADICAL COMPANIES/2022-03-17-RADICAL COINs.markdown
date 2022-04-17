@@ -103,34 +103,35 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
  <p>
 They do this starting from a simple foundation of interdependence,
 </p>
-  <tr>
-   <td colspan="4"></td>
-  </tr>
-  <tr>
-   <td rowspan="2" valign="middle" style="text-align: right; ">principles</td>
-   <td>x</td>
-   <td>Meaning &<br>Belonging</td>
-   <td rowspan="2" valign="middle"> ⬈</td>
-   <td rowspan="2" valign="top">relationships</td>
-  </tr>
-  <tr>
-   <td rowspan="2" valign="middle" style="text-align: right; ">commitments</td>
-   <td>x</td>
-   <td>Transparency &<br>Decentralization</td>
-   <td rowspan="2" valign="middle"> ⬈</td>
-   <td rowspan="2" valign="top"><em>autonomy</em></td>
-  </tr>
-  <tr>
-   <td rowspan="2" valign="middle" style="text-align: right; ">practices</td>
-   <td>x</td>
-   <td>Alignment &<br>Experimentation</td>
-   <td rowspan="2" valign="middle"> ⬈</td>
-   <td rowspan="2" valign="top"><em>collaboration</em></td>
-  </tr>
-   <tr>
-    <td colspan="4"></td>
-   </tr>
-  </table>
+<table>
+ <tr>
+  <td colspan="4">hhh</td>
+ </tr>
+ <tr>
+  <td rowspan="2" valign="middle" style="text-align: right; ">principles</td>
+  <td>x</td>
+  <td>Meaning &<br>Belonging</td>
+  <td rowspan="2" valign="middle"> ⬈</td>
+  <td rowspan="2" valign="top">relationships</td>
+ </tr>
+ <tr>
+  <td rowspan="2" valign="middle" style="text-align: right; ">commitments</td>
+  <td>x</td>
+  <td>Transparency &<br>Decentralization</td>
+  <td rowspan="2" valign="middle"> ⬈</td>
+  <td rowspan="2" valign="top"><em>autonomy</em></td>
+ </tr>
+ <tr>
+  <td rowspan="2" valign="middle" style="text-align: right; ">practices</td>
+  <td>x</td>
+  <td>Alignment &<br>Experimentation</td>
+  <td rowspan="2" valign="middle"> ⬈</td>
+  <td rowspan="2" valign="top"><em>collaboration</em></td>
+ </tr>
+ <tr>
+  <td colspan="4">hhh</td>
+ </tr>
+</table>
 
   xxxx
 
