@@ -23,7 +23,7 @@ we'd still be His Majesty's subjects</pre>
 Today, money is the canonical medium of exchange and that is what we assumed in our book, <span style="font-size: smaller; ">RADICAL COMPANIES</span>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> After all, we need money to pay our bills and as a medium of exchange to buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people. This is problematic and leads to the most serious problems we face today.
 </p>
 <p>
-For this and other reasons, I now believe that we should have a universal medium of exchange, like <SPAN STYLE="font-size: smaller; ">RADICAL COIN</SPAN>s that doesn’t have the baggage of national fiat money and can help us transform our economy to be more human-centric.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup>
+For this and other reasons, I now believe that we should have a universal medium of exchange, like <SPAN STYLE="font-size: smaller; ">RADICAL COIN</SPAN>s that doesn’t have the baggage of national fiat money and can help us transform to a human centered economy.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup>
 </p>
 <p>
 Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function as,
@@ -35,9 +35,9 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
 </ul>
 <p>In addition, and this is critical, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are transparent in the sense that an integral part of each <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is its log of information from which potential risks and benefits can be calculated.
 </p>
-<p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are also decentralized. Companies will be the guarantors of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s. Not banks. Not governments. Not international accords. This will make the costs of all transactions negligible.
+<p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are also decentralized. Companies will be the guarantors of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s: not banks, not governments, and not international accords. This will make the costs of all transactions negligible.
 </p>
-<p>Our goal is that a decentralized and transparent <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> will make possible a world-wide market that we can all play in without intermediaries.
+<p>A decentralized and transparent <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> will make possible a world-wide market that we can all play in without intermediaries.
 </p>
 
 <h2>Terminology Used in this Doc</h2>
@@ -63,19 +63,19 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
   </tr>
   <tr><td>&nbsp;</td><td></td></tr>
 </table>
-<p>To avoid confusion, I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.
+<p>To avoid confusion, in this document I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.
 </p>
 
-<h2>Historical Perspective</h2>
-<p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are not to be confused, or conflated, with local or complementary currencies, demurrage money, or any such.<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup> Ditto for Mutualism, Marxism, or any other theory or ideology. The point of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is to make it possible to have a market, free of intermediaries, and with negligible costs.
+<h2>A Historical Perspective</h2>
+<p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are not to be confused, or conflated, with local or complementary currencies, demurrage money, or any such.<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup> Ditto for Mutualism, Marxism, or any other theory or ideology. The point of <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>a is to make it possible to have a world-wide market, free of intermediaries, and with negligible costs.
 </p>
-<p>In fact, although they are not identical, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are very similar to national fiat coins. They are a unit of measure, a store of value, and a medium of exchange, but with these twists,
+<p>In fact, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are very similar to national fiat coins. They are a unit of measure, a store of value, and a medium of exchange, but with these twists,
 </p>
 <ol>
   <li>They represent value at its broadest. In addition to financial value, they account for wellbeing, contributions, acts of kindness, and all the other things that are important to people.</li>
   <li>They spread risks and benefits through society. We all share in the adventure: the burden of risk and the joys of gains.</li>
-  <li><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s bypass the complications and costs brought about by banks, exchanges, national politics,<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup> and the influence of transnationals.<sup id="fnref7"><a href="#fn7" rel="footnote">7</a></sup>
-   <p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s have the potential to enable a world-wide market. This will help us break out of our national silos, create an economy that’s decentralized and transparent.</p>
+  <li><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s bypass the complications and costs brought about by banks, exchanges, national politics,<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup> and the influence of transnational corporations.<sup id="fnref7"><a href="#fn7" rel="footnote">7</a></sup>
+   <p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s have the potential to enable a world-wide market. This will help us break out of our national silos and create a world-wide economy that’s decentralized and transparent.</p>
   </li>
 </ol>
 
@@ -92,7 +92,7 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
  <h3>The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Model</h3>
  <p>We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands telling people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it. Here we assume a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world that is, at the same time, alike and different from our world today.
  </p>
-  < p>In the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model, a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word “company” because it has an interesting genesis: it comes from Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means “together, with” and <em>pan</em> means “bread, food.” At its root, then, <em>company</em> means “people who break bread together.” In the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model a company is a community of people who come together to contribute broad value to society and make an impact on the world.
+  < p>In the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model, a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word “company” because it has an interesting genesis: it comes from Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means “together, with” and <em>pan</em> means &ldquo;bread, food.&rdquo; At its root, then, <em>company</em> means “people who break bread together.” In the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model a company is a community of people who come together to contribute broad value to society and make an impact on the world.
  </p>
  <p>Rather than having an owner and a hierarchy of bosses, a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.
  </p>
@@ -125,7 +125,7 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
  </table>
 
  <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s as Collaboration</h3>
- <p>As I see it, the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup>
+ <p>As I see it, the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve &ldquo;<em>progress</em>.&rdquo;<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup>
  </p>
  <p>Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of collaboration.
  </p>
@@ -138,7 +138,7 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
 <p>A decentralized, transparent <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is fundamental to such a unified market. These are some of the other things we would need to nourish and support a world-wide market,
 </p>
 
- <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s for a Decentralized Market</h3>
+ <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s for a Decentralized Market</h3>
  <p>We need a decentralized market to nurture the next stage of innovation and accomplishment. Unfortunately, national fiat coins are an obstacle to this. They are not very stable and are subject to cyclical crises.<sup id="fnref9"><a href="#fn9" rel="footnote">9</a></sup> They make international markets very complex, very opaque, and very expensive.
  </p> 
  <p>Today’s international markets have been cobbled together by agreements that are fraught with weaknesses. National and international politics make transaction costs very expensive. Worst of all, these international markets are unduly influenced by transnational businesses seeking to profit no matter the harm to society.
@@ -146,21 +146,18 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
  <p>A decentralized market can truly be a pricing engine, free of interference and manipulation.
  </p>
 
- <h3>Decentralized Minting</h3>
+ <h3>Decentralized Minting of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s</h3>
  <p>We need decentralized minting of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s to take national and international politics out of it and to eliminate the influence of transnational corporations.
  </p>
  <p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are minted by companies, not any national government or central banks.
  </p>
 
- <h3>Transparent <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s</h3>
-<p>
-National fiat coins are opaque. In theory that’s good because it reduces transaction costs. But this “reduction of costs” also disables human choice.
+ <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s Are Transparent</h3>
+<p>National fiat coins are opaque. In theory that’s good because it reduces transaction costs. But this “reduction of costs” also disables human choice.
 </p>
-<p>
-In any case, the big transaction costs are those that banks, exchanges, and political manipulation bring in. And opaqueness does not reduce any of those.
+<p>In any case, the big transaction costs are those that banks, exchanges, and political manipulation bring in. And opaqueness does not reduce any of those.
 </p>
-<p>
-<SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s are transparent. An integral part of each <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is the log that comes along with them. This will restore people’s  ability to make choices based on that information.
+<p><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s are transparent. An integral part of each <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is the log that comes along with them. This will restore people’s  ability to make choices based on that information.
 </p>
 
  <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s as a Trusted Measure</h3>
@@ -283,7 +280,7 @@ Thankfully, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are fungible, world-
  </p>
  <p>One way to keep money flowing is by having it lose its value over time (<em>i.e.</em>, there is no point in hoarding it because it will “rot”). This can be done by inflation or demurrage. Inflation, the decline of purchasing power, has been the preferred method of national governments for controlling the value and availability of its coinage. Governments can do this by tweaking interest rates, which impacts the supply of national fiat coins. For most of us, this all happens very mysteriously. We all know that “inflation is bad,” but we cannot do anything about it.
  </p>
- <p>The other approach is by demurrage where coins <em>lose</em> their value over time. There’s been a number of local deployments of demurrage coins and they are generally beneficial to the local economy. However, as far as I know, demurrage has never been used at a national level. The poster child of demurrage is the "Miracle of Wörgl."<sup id="fnref19"><a href="#fn19" rel="footnote">19</a></sup>.
+ <p>The other approach is by demurrage where coins <em>lose</em> their value over time. There’s been a number of local deployments of demurrage coins and they are generally beneficial to the local economy. However, as far as I know, demurrage has never been used at a national level. The poster child of demurrage is the &ldquo;Miracle of Wörgl."&rdquo;<sup id="fnref19"><a href="#fn19" rel="footnote">19</a></sup>.
  </p>
  <p>During the Great Depression, the town of Wörgl, Austria, was quickly running out of money, like most of the world. The mayor issued Wörgls to pay people for doing local jobs and the local shops agreed to accept them. The bills had to be stamped every week in order to keep them valid, and every stamp reduced the value of these coins. This kept the notes in circulation. So much so, that people even paid taxes earlier rather than let their currency “rot.”
  </p>
@@ -295,7 +292,7 @@ Thankfully, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are fungible, world-
    </td>
   </tr>
   <tr>
-   <td>The bills had "52 spaces on the reverse side, one for each week of the year, and the scrip was to have the value of its stated denomination only for one week"<sup id="fnref20"><a href="#fn20" rel="footnote">20</a></sup>
+   <td>The bills had &ldquo;52 spaces on the reverse side, one for each week of the year, and the scrip was to have the value of its stated denomination only for one week&rdquo;<sup id="fnref20"><a href="#fn20" rel="footnote">20</a></sup>
    </td>
   </tr>
   <tr>
