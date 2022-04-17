@@ -105,33 +105,28 @@ They do this starting from a simple foundation of interdependence,
 </p>
 <table>
  <tr>
-  <td colspan="4" style="text-align: center; ">hhh</td>
+  <td colspan="4" style="text-align: center; ">HHH</td>
  </tr>
  <tr>
   <td valign="middle" style="text-align: right; ">principles</td>
-  <td>x</td>
   <td>Meaning &<br>Belonging</td>
   <td valign="middle"> ⬈</td>
   <td valign="top">relationships</td>
  </tr>
  <tr>
- </tr>
- <tr>
-  <td rowspan="2" valign="middle" style="text-align: right; ">commitments</td>
-  <td>x</td>
+  <td valign="middle" style="text-align: right; ">commitments</td>
   <td>Transparency &<br>Decentralization</td>
-  <td rowspan="2" valign="middle"> ⬈</td>
-  <td rowspan="2" valign="top"><em>autonomy</em></td>
+  <td valign="middle"> ⬈</td>
+  <td valign="top"><em>autonomy</em></td>
  </tr>
  <tr>
-  <td rowspan="2" valign="middle" style="text-align: right; ">practices</td>
-  <td>x</td>
+  <td valign="middle" style="text-align: right; ">practices</td>
   <td>Alignment &<br>Experimentation</td>
-  <td rowspan="2" valign="middle"> ⬈</td>
-  <td rowspan="2" valign="top"><em>collaboration</em></td>
+  <td valign="middle"> ⬈</td>
+  <td valign="top"><em>collaboration</em></td>
  </tr>
  <tr>
-  <td colspan="4">hhh</td>
+  <td colspan="4">HHH</td>
  </tr>
 </table>
 
