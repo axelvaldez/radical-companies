@@ -108,19 +108,19 @@ They do this starting from a simple foundation of interdependence,
   <td colspan="4"></td>
  </tr>
  <tr>
-  <td valign="middle" style="text-align: right; ">principles </td>
+  <td valign="middle" style="text-align: right; ">principles&nbsp;</td>
   <td style="text-align: center; ">Meaning &<br>Belonging</td>
   <td valign="middle" style="font-size: larger; "> ⬈</td>
   <td valign="top">relationships</td>
  </tr>
  <tr>
-  <td valign="middle" style="text-align: right; ">commitments </td>
+  <td valign="middle" style="text-align: right; ">commitments&nbsp;x&nbsp;</td>
   <td style="text-align: center; background-color: lightgrey;">Transparency &<br>Decentralization</td>
   <td valign="middle" style="font-size: larger; "> ⬈</td>
   <td valign="top"><em>autonomy</em></td>
  </tr>
  <tr>
-  <td valign="middle" style="text-align: right; ">practices </td>
+  <td valign="middle" style="text-align: right; ">practices&nbsp;</td>
   <td style="text-align: center; ">Alignment &<br>Experimentation</td>
   <td valign="middle" style="font-size: larger; "> ⬈</td>
   <td valign="top"><em>collaboration</em></td>
