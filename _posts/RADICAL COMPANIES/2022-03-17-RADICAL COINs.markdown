@@ -120,13 +120,13 @@ They do this starting from a simple foundation of interdependence,
    <td rowspan="2" valign="middle"> ⬈</td>
    <td rowspan="2" valign="top"><em>autonomy</em></td>
   </tr>
-   <td>
+  <tr>
    <td rowspan="2" valign="middle" style="text-align: right; ">practices</td>
    <td>x</td>
    <td>Alignment &<br>Experimentation</td>
-    <td rowspan="2" valign="middle"> ⬈</td>
-    <td rowspan="2" valign="top"><em>collaboration</em></td>
-   </tr>
+   <td rowspan="2" valign="middle"> ⬈</td>
+   <td rowspan="2" valign="top"><em>collaboration</em></td>
+  </tr>
    <tr>
     <td colspan="4"></td>
    </tr>
