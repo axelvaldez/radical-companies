@@ -11,8 +11,8 @@ image:    "en-decentralized-minting.svg"
 <br>
 <br>
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; ">If Kings had figured out 
-fiat money,
+<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; ">If Kings had
+figured out fiat money,
 we'd still be His Majesty's subjects</pre>
 
 <br>
