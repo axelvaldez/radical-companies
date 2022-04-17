@@ -229,34 +229,33 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
  </p>
 
  <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span>s Are (Not) Fungible</h3>
-<p>In today’s financial model, to be effective as a medium of exchange, money must be fungible—one coin is indistinguishable from all others. “Trying to use a non-fungible good as money results in transaction costs of individually evaluating each unit of the good before an exchange can take place.”<sup id="fnref15"><a href="#fn15" rel="footnote">15</a></sup>
-</p>
-<p>
-Thankfully, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are fungible, world-wide. Their transaction costs, nationally and internationally, are negligible. Their only transaction cost is that of “evaluating” whether or not to accept the risk associated with it. But this is automated and insignificant. The other cost is deciding whether to accept a given mix of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s as payment, and that carries no financial cost since most transactions would be driven by the app’s results and the few exceptions to it would be driven by people to people relationships. This takes those transactions out of the financial realm and into a people-to-people one.<sup id="fnref16"><a href="#fn16" rel="footnote">16</a></sup>
-</p>
+ <p>In today’s financial model, to be effective as a medium of exchange, money must be fungible—one coin is indistinguishable from all others. “Trying to use a non-fungible good as money results in transaction costs of individually evaluating each unit of the good before an exchange can take place.”<sup id="fnref15"><a href="#fn15" rel="footnote">15</a></sup>
+ </p>
+ <p>Thankfully, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are fungible, world-wide, as a class. Their transaction costs, nationally and internationally, are negligible.</p>
+ <p>But, also thankfully, they are not fungible individually. Each <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> carries information about its genesis and history and this translates to a different level of risk associated with each one. Their only transaction cost is that of “evaluating” whether or not to accept the risk associated with it. But this can be automated and it is insignificant. To decide whether to accept a given mix of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s as payment carries no financial cost since most transactions would be driven by the app’s results and the few exceptions to it would be driven by people to people relationships. This takes those transactions out of the financial realm and into a people-to-people one.<sup id="fnref16"><a href="#fn16" rel="footnote">16</a></sup>
+ </p>
 
- <h3>Broad Value</h3>
- <p>To be robust, a <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> needs to be tied to value creation, and <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are. In fact they represent more than financial value. Their value also represents wellbeing, acts of kindness, and whatever else people consider important. And since COINs are factored through RADs they represent broad value contributions as well.
+ <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span>s Represent Broad Value</h3>
+ <p>To be robust, a <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> needs to be tied to value creation, and <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are. In fact they represent more than financial value. Their value also represents wellbeing, acts of kindness, and whatever else people consider important. And since COINs are factored through <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</span>s they represent broad value contributions as well.
  </p>
  <p>For example, if the RADs that have been allocated to me amount to 10% of the total and yours to 20%, this means that our fellow co-owners decided that you contributed twice as much as I did. As a result you get twice as many COINs as I do.
  </p>
 
- <h3>Transparent</h3>
+ <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span>s Transparent</h3>
  <p>National fiat coins are opaque. We make do with things like GDP, but GDP and others like it don’t measure anything besides financial value. They are canonical examples of the Broken Window Fallacy and don’t take into account society-wide costs. What’s more, these indices can be very misleading, and “GDP can increase after a car accident or a major flood. GDP can grow rapidly during a war or after a terrorist attack.”<sup id="fnref17"><a href="#fn17" rel="footnote">17</a></sup>
  </p>
  <p>COINs are transparent and we need them to be. Each COIN carries with it a log of all the information necessary to calculate the potential risks and benefits associated with it. Given that information, each of us can then decide whether or not to accept a particular COIN as payment.
  </p>
 
- <h3>COIN Value</h3>
+ <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span> Value</h3>
  <p>The face value of national fiat coins is fixed forever. At least, that is true for reserve currencies. Other national fiat coins are not so lucky: their face value stays put, but their purchasing power fluctuates, sometimes wildly.
  </p>
- <p>COINs have a face value of one. It is backed by people who come together as
-<span style="font-size: smaller; ">RADICAL COMPANIES</span> to create broad value for society. It is free from national and international politics and manipulation.
+ <p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN<span>s have a face value of one. It is backed by people who come together as <span style="font-size: smaller; ">RADICAL COMPANIES</span> to create broad value for society. It is free from national and international politics and manipulation.
  </p>
- <p>The face value of COINs never changes but the information in its log may. Based on all of that, each of us gets to decide whether or not to accept the COINs given the risks and benefits indicated in its log.
+ <p>The face value of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN<span>s never changes but the information in its log may. Based on all of that, each of us gets to decide whether or not to accept the COINs given the risks and benefits indicated in its log.
  </p>
 
- <h3>Company Value</h3>
+ <h3>Different Companies, Different Values</h3>
  <p>As it is today, different companies will end up with different values and their co-owners will have more or less purchasing power. For example,
  </p>
  <ul>
@@ -266,7 +265,7 @@ Thankfully, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are fungible, world-
   <li>JerryCO <em>people earn more COINs</em> than those at BenCO.</li>
  </ul>
 
- <h3>Guarantors</h3>
+ <h3>Companies as Guarantors</h3>
  <p>COINs are backed up by the <span style="font-size: smaller; ">RADICAL COMPANIES</span>, not national governments. This means that the COIN’s “value” is determined by what each company brings to society and by its co-owners’ sensitivities.
  </p>
  <p>This last bit is really important.
@@ -276,24 +275,22 @@ Thankfully, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are fungible, world-
  <p>For example, if a community feels harmed by the actions of CarelessCO they can make their case to a few of its co-owners to at least get a conversation going. If the harm affects many such communities and all its co-owners refuse to engage, they can simply record the failed discussion to CarelessCO’s COINs. Some people may interpret this as a high risk (to society) while others may see it differently. We all get to decide.
  </p>
 
-<h2>Risks and Benefits</h2>
- <p>There is plenty of evidence that shows that a currency, one that actually actually flows, can benefit a society,<sup id="fnref18"><a href="#fn18" rel="footnote">18</a></sup> while money stuffed under a mattress only benefits the hoarder.
- </p>
- <p>One way to keep money flowing is by having it lose its value over time (<em>i.e.</em>, there is no point in hoarding it because it will “rot”). This can be done by inflation or demurrage. Inflation, the decline of purchasing power, has been the preferred method of national governments for controlling the value and availability of its coinage. Governments can do this by tweaking interest rates, which impacts the supply of national fiat coins. For most of us, this all happens very mysteriously. We all know that “inflation is bad,” but we cannot do anything about it.
- </p>
- <p>The other approach is by demurrage where coins <em>lose</em> their value over time. There’s been a number of local deployments of demurrage coins and they are generally beneficial to the local economy. However, as far as I know, demurrage has never been used at a national level. The poster child of demurrage is the &ldquo;Miracle of Wörgl."&rdquo;<sup id="fnref19"><a href="#fn19" rel="footnote">19</a></sup>.
- </p>
- <p>During the Great Depression, the town of Wörgl, Austria, was quickly running out of money, like most of the world. The mayor issued Wörgls to pay people for doing local jobs and the local shops agreed to accept them. The bills had to be stamped every week in order to keep them valid, and every stamp reduced the value of these coins. This kept the notes in circulation. So much so, that people even paid taxes earlier rather than let their currency “rot.”
- </p>
+<h2><span style="font-size: smaller; ">RADICAL COIN</span>s Risks and Benefits</h2>
+<p>There is plenty of evidence that shows that a currency, one that actually actually flows, can benefit a society,<sup id="fnref18"><a href="#fn18" rel="footnote">18</a></sup> while money stuffed under a mattress only benefits the hoarder.
+</p>
+<p>People have figured out that, in today’s world, one way to keep money flowing is by having it lose its value over time (<em>i.e.</em>, there is no point in hoarding it because it will “rot”). This can be done by inflation or demurrage. Inflation, the decline of purchasing power, has been the preferred method of national governments for controlling the value and availability of its coinage. Governments can do this by several means, including by tweaking interest rates, which impacts the supply of national fiat coins. We all know that “inflation is bad,” but we cannot do anything about it.
+</p>
+<p>The other approach is by demurrage, where coins <em>lose</em> their value over time. There’s been a number of local deployments of demurrage coins and they are generally beneficial to the local economy. However, as far as I know, demurrage has never been used at a national level. The poster child of demurrage is the &ldquo;Miracle of Wörgl."&rdquo;<sup id="fnref19"><a href="#fn19" rel="footnote">19</a></sup>. During the Great Depression, the town of Wörgl, Austria, was quickly running out of money, like most of the world. The mayor issued Wörgls to pay people for doing local jobs and the local shops agreed to accept them. The bills had to be stamped every week in order to keep them valid, and every stamp reduced the value of these coins. This kept the notes in circulation. So much so, that people even paid taxes earlier rather than let their currency “rot.”
+</p>
 <table>
   <tr>
    <td>
    <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-    <img src="/assets/img/en-worgl.svg" alt="Five of the stamps that were applied to the back of the local currency that the town of Wörgl, Austria minted in the 1930s in response to the Great Depression." title="Wörgl Stamps">
+    <img src="/assets/img/en-worgl.svg" alt="Five of the 52 stamps that were applied to the back of the local currency that the town of Wörgl, Austria minted in the 1930s in response to the Great Depression." title="Wörgl Stamps">
    </td>
   </tr>
   <tr>
-   <td>The bills had &ldquo;52 spaces on the reverse side, one for each week of the year, and the scrip was to have the value of its stated denomination only for one week&rdquo;<sup id="fnref20"><a href="#fn20" rel="footnote">20</a></sup>
+   <td>The bills had &ldquo;52 spaces on the reverse side, one for each week of the year.&rdquo;<sup id="fnref20"><a href="#fn20" rel="footnote">20</a></sup> This meant that the script kept its face value only for one week.
    </td>
   </tr>
   <tr>
@@ -301,32 +298,25 @@ Thankfully, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are fungible, world-
    </td>
   </tr>
 </table>
-<p>
-One problem with demurrage is that its rate of decay is not tied to value creation or anything like it. For example, kept its face value for a week Wörgl and went down in value every week thereafter. The Wära, another demurrage coin, lost 1% of its value every month.<sup id="fnref21"><a href="#fn21" rel="footnote">21</a></sup> These rates of decay are, for all intents and purposes, picked out of thin air.
+<p>One problem with demurrage is that the rate of decay is not tied to value creation or anything like it. The Wörgl, and others like it, kept its face value for a week and went down in value every week thereafter. The W&auml;ra, another demurrage coin, lost 1% of its value every month.<sup id="fnref21"><a href="#fn21" rel="footnote">21</a></sup> Regardless of their good intentions, these rates of decay are picked out of thin air.
 </p>
-<p>
-COINs, on the other hand, are always the same value. What changes is the potential risks and benefits associated with the company that engendered it. Every COIN carries a log of all the information people need to decide whether or not to accept it.
+<p><span style="font-size: smaller; ">COIN<span>s, on the other hand, are always the same value. What changes is the potential risks and benefits associated with the company that engendered it. Every COIN carries a log of all the information people need to decide whether or not to accept it.
 </p>
-<p>
-<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="/assets/img/en-rad-auto-inflation.svg" alt="Table, with RISKS along the horizontal and BENEFITS along the vertical axis. WHen COINs are low in RISKS and BENEFITS, there is high acceptance of them. When COINs come with high RISKS and low BENEFITS, or low RISKS and high BENEFITS, there some resistance and acceptance of them. When COINs have high RISKS and high BENEFITS, there is high resistance to accepting them. " title="COIN RISKS and BENEFITS">
-</p>
-  <h3>Calculating Risk</h3>
-<p>
-A COIN‘s log may include, for example, the number of co-owners that agree to its mint, the company’s revenue history, how many COINs the company has minted, and the company’s debt performance. Given the COIN’s log, we can calculate the risk associated with every COIN and decide whether or not to accept a particular COIN as payment.
-</p>
-<p>
-One side-effect of this, is that people will try to dilute what risk they hold by paying with a combination of low and high risk COINs, enough of each to make the risk acceptable to the seller.<sup id="fnref22"><a href="#fn22" rel="footnote">22</a></sup>
+<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; "><img src="/assets/img/en-rad-auto-inflation.svg" alt="Table, with RISKS along the horizontal and BENEFITS along the vertical axis. WHen COINs are low in RISKS and BENEFITS, there is high acceptance of them. When COINs come with high RISKS and low BENEFITS, or low RISKS and high BENEFITS, there some resistance and acceptance of them. When COINs have high RISKS and high BENEFITS, there is high resistance to accepting them. " title="COIN RISKS and BENEFITS">
 </p>
 
+ <h3>Calculating Risk</h3>
+ <p>A <span style="font-size: smaller; ">COIN<span>‘s log may include, for example, the number of co-owners that agree to its mint, the company’s revenue history, how many COINs the company has minted, and the company’s debt performance. Given the <span style="font-size: smaller; ">COIN<span>’s log, we can calculate the risk associated with every <span style="font-size: smaller; ">COIN<span> and decide whether or not to accept a particular <span style="font-size: smaller; ">COIN<span> as payment.
+ </p>
+ <p>One side-effect of this, is that people will try to dilute what risk they hold by paying with a combination of low and high risk <span style="font-size: smaller; ">COIN<span>s, enough of each to make the risk acceptable to the seller.<sup id="fnref22"><a href="#fn22" rel="footnote">22</a></sup>
+ </p>
+
  <h3>Calculating Benefits</h3>
-<p>
-Over time, companies will go up in value because they get very efficient, benefit from high demand, or both. People will likely hold on to their COINs. It may be that they are more comfortable with risk and may not mind taking higher risk COINs from fledgling companies. It may also be that even the more conservative folks may be tempted to take high risk COINs from high potential companies.
-</p>
-<p>
-<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="/assets/img/en-rads-value-increase.svg" alt="Table. Four columns by three rows. First row: After Month 1; +100 in Revenue;+100 New RADs; each RAD is worth one 100th; or one COIN per RAD. After month 2: revenue is up by 1000; +100 New RADs; each worth one 200th of total; or 10 COINs per RAD. After Month 3: revenue has gone up by 5000; +100 New RADs; each woth one 300%th; or 50 COINs per RAD." title="Decentralizd Minting">
-</p>
+ <p>Over time, companies will go up in value because they get very efficient, benefit from high demand, or both. People will likely hold on to their COINs. It may be that they are more comfortable with risk and may not mind taking higher risk COINs from fledgling companies. It may also be that even the more conservative folks may be tempted to take high risk COINs from high potential companies.
+ </p>
+ <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+ <img src="/assets/img/en-rads-value-increase.svg" alt="Table. Four columns by three rows. First row: After Month 1; +100 in Revenue;+100 New RADs; each RAD is worth one 100th; or one COIN per RAD. After month 2: revenue is up by 1000; +100 New RADs; each worth one 200th of total; or 10 COINs per RAD. After Month 3: revenue has gone up by 5000; +100 New RADs; each woth one 300%th; or 50 COINs per RAD." title="Decentralizd Minting">
+ </p>
 
  <h3>Other Value Factors</h3>
 <p>
@@ -341,14 +331,12 @@ Other things that may affect company value,
 </ul>
 
 <h2>TA-DA!</h2>
-<p>
-RADs account for what so far has been unaccountable. People get to decide what a contribution is and by doing so they “measure” what has been unmeasurable: an act of kindness, spontaneous help. Co-owners get COINs according to the percentage of RADs they have and that makes COINs a much broader measure than just financial value.
+<p><span style="font-size: smaller; ">RAD</span>s account for what so far has been unaccountable. People get to decide what a contribution is and by doing so they “measure” what has been unmeasurable: an act of kindness, spontaneous help. Co-owners get <span style="font-size: smaller; ">COIN</span>s according to the percentage of RADs they have and that makes COINs a much broader measure than just financial value.
 </p>
 <p>
-Companies mint COINs. This means that COINs are decentralized and free of interference by national and international politics, financial institutions, and too-big-to-fail transnationals. COINs will make it possible to create a world-wide market that Adam Smith would be happy with.<sup id="fnref24"><a href="#fn24" rel="footnote">24</a></sup>
+Companies mint <span style="font-size: smaller; ">COIN</span>s. This means that <span style="font-size: smaller; ">COIN</span>s are decentralized and free of interference by national and international politics, financial institutions, and too-big-to-fail transnationals. <span style="font-size: smaller; ">COIN</span>s will make it possible to create a world-wide market that Adam Smith would be happy with.<sup id="fnref24"><a href="#fn24" rel="footnote">24</a></sup>
 </p>
-<p>
-The whole system is transparent and each of us can decide to accept a payment or not. It is not mysterious or left to robed experts to figure things out. Each of us can do it because each of us is an expert on our own sensitivities and how we interpret the world.
+<p>The whole system is transparent and each of us can decide to accept a payment or not. It is not mysterious or left to robed experts to figure things out. Each of us can do it because each of us is an expert on our own sensitivities and how we interpret the world.
 </p>
 
 <br>
@@ -376,7 +364,7 @@ The whole system is transparent and each of us can decide to accept a payment or
    <td style="vertical-align: text-top;">
     <p><strong>Battling Ghosts</strong></p>
    </td>
-   <td>
+    <td>
     <p>The other type of bad actor is the one who gets pulled into behavior that he normally would not condone.</p>
     <p>For example, Anita, a BenCO co-owner, wants to buy potatoes. The potato seller, Shui, looks at the COINs coming from her, but declines to accept them. It turns out that <em>all</em> of Anita’s COINs come from BenCO and the company has not lived up to its promises. Shui is a very conservative type and he refuses to exchange her COINs for his potatoes. She explains the reasons why they had not made the first year payment on time, “and we will, by the end of this week.” Nevertheless, Shui is unmoved and puts the potatoes back in their bin.
     </p>
@@ -404,8 +392,7 @@ The whole system is transparent and each of us can decide to accept a payment or
 </table>
 
 <h2 id="VaryingBuyingPower">Varying Buying Power</h2>
-<p>
-I am selling potatoes at 40 COINs per dozen. After the first month <strong>Ⓐ</strong>, below, and his co-owners don’t have enough COINs to buy my potatoes, but <strong>Ⓔ</strong> and his co-owners do. It may be that JerryCO is more efficient or maybe its products or services are more valuable. Either way, BenCO’s co-owners end up with less buying power than JerryCO’s co-owners.
+<p>I am selling potatoes at 40 COINs per dozen. After the first month <strong>Ⓐ</strong>, below, and his co-owners don’t have enough COINs to buy my potatoes, but <strong>Ⓔ</strong> and his co-owners do. It may be that JerryCO is more efficient or maybe its products or services are more valuable. Either way, BenCO’s co-owners end up with less buying power than JerryCO’s co-owners.
 </p>
 <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
   <img src="/assets/img/en-rad-auto-inflation-a.svg" alt="Two tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 100 COINs. Second row is RAD DISTRIBUTION, distributed as 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. They each get 10, 20, 30, and 40 COINs. For JerryCO: the EARNED DIVIDENDS  row shows +1000 New for a TOTAL of 1000 COINs. The RAD DISTRIBUTION in the second row is as follows: 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. This is the same as for BenCO, but in the JerryCO case the first person gets 100 instead of 10, the second 200 instead of 20, the third 300 instead of 30, and the fourth 400 COINs instead of 40. The BenCO co-owners end up with less buying power than JerryCO's co-owners." title="Varying Buying Powers A">
@@ -421,9 +408,9 @@ Within each company, the buying power of an individual co-owner, too, can change
 <br>
 
  <h3>Companies minting COINs without any rules sounds really, really crazy!</h3>
- <p>If that sounds “crazy,” then the financial system we have today is crazier. And it is business hostile, on top.  </p>
- <p>
- COINs minted by BenCO carry a log which includes all the information related to their creation. The co-owners are motivated to retire the COINs they minted in the time promised. If they don’t do that, fewer and fewer sellers will accept their COINs. Their buying power will go down the drain in a hurry.
+ <p>If that sounds “crazy,” then the financial system we have today is crazier. And it is business hostile, on top.
+ </p>
+ <p>COINs minted by BenCO carry a log which includes all the information related to their creation. The co-owners are motivated to retire the COINs they minted in the time promised. If they don’t do that, fewer and fewer sellers will accept their COINs. Their buying power will go down the drain in a hurry.
  </p>
  <br>
 
@@ -449,51 +436,41 @@ Within each company, the buying power of an individual co-owner, too, can change
  <br>
  
  <h3>PotatoCO mints COINs to pay for the now higher priced shovel.</h3>
- <p>
- If PotatoCO’s co-owners figure that the new price is a fair price and there’s no other supplier around, it would have to do that. They would have to make sure that they can get enough COINs from future potatoes to retire the debt as promised. Otherwise, they are going to pay with a lower reputation and value and less buying power for the co-owners.
+ <p>If PotatoCO’s co-owners figure that the new price is a fair price and there’s no other supplier around, it would have to do that. They would have to make sure that they can get enough COINs from future potatoes to retire the debt as promised. Otherwise, they are going to pay with a lower reputation and value and less buying power for the co-owners.
  </p>
- <p>
- People will continue to make mistakes and miss estimates. COINs won’t change human nature. But co-owners can mint the COINs they need to run their companies without worrying about the color of their skin, or their gender, or church affiliation.
+ <p>People will continue to make mistakes and miss estimates. COINs won’t change human nature. But co-owners can mint the COINs they need to run their companies without worrying about the color of their skin, or their gender, or church affiliation.
  </p>
  <br>
  
  <h3>But this means that another potato grower buys a tractor and grows even more potatoes!</h3>
- <p> Yes. This means that people can experiment more.
+ <p>Yes. This means that people can experiment more.
  </p>
- <p> Maybe the tractor turns out to be a lemon and doesn’t help him produce more or better potatoes. He probably won’t be able to retire the debt he took on to buy it.
+ <p>Maybe the tractor turns out to be a lemon and doesn’t help him produce more or better potatoes. He probably won’t be able to retire the debt he took on to buy it.
  </p>
  <br>
  
  <h3>What if JerryCO, a brand new startup with no revenue, needs COINs to get started, can it just mint them?</h3>
- <p>
- In this case, most vendors would likely not accept JerryCO’s COINs as payments because its COINs would have very high risk.
+ <p>In this case, most vendors would likely not accept JerryCO’s COINs as payments because its COINs would have very high risk.
  </p>
- <p>
- In this case, other companies may want to help out JerryCO by giving them COINs. One or more companies could mint enough COINs for JerryCO  to get to revenue or to build its minimum viable product. This could include vendors of equipment that JerryCO needs to succeed and the quid pro quo is that they will become JerryCO’s preferred vendors.
+ <p>In this case, other companies may want to help out JerryCO by giving them COINs. One or more companies could mint enough COINs for JerryCO  to get to revenue or to build its minimum viable product. This could include vendors of equipment that JerryCO needs to succeed and the quid pro quo is that they will become JerryCO’s preferred vendors.
  </p>
- <br>
- <p>
- Alternatively, the investment may come from a group of adjacent companies. They believe that JerryCO’s product is complementary to theirs and will help the market grow. Or JerryCO promises to “repay” twice the original amount of this investment.
+ <p>Alternatively, the investment may come from a group of adjacent companies. They believe that JerryCO’s product is complementary to theirs and will help the market grow. Or JerryCO promises to “repay” twice the original amount of this investment.
  </p>
- <p>
- In any case, as JerryCO starts to show results and a pattern of doing as promised, the risk of its own COINs will go down and will be able to pay with a mix of its own COINs and co-investment COINs.
+ <p>In any case, as JerryCO starts to show results and a pattern of doing as promised, the risk of its own COINs will go down and will be able to pay with a mix of its own COINs and co-investment COINs.
  </p>
+
  <h3>What if a BenCO co-owner wants to buy the latest electric, self-driving car, but she doesn’t get enough COINs? Can’t she convince the other co-owners to pay themselves more COINs?</h3>
  <p>
  For BenCO co-owners to pay themselves a lot more COINs than they actually receive in revenue, they would have to mint the extra COINs. These newly minted COINs would show a lot of risks and sellers would likely not accept them as payment, particularly for luxury items.
  </p>
- <br>
  
  <h3>Do you mean that there is no possible way to defraud the system?</h3>
-<p>
-It simply means that I can’t think of a way of doing that.
-</p>
-<p>
-Every time I think of something, the system manages to protect itself. And it is all because of the transparency built into it.
-</p>
-<p>
-I can imagine that there could be a way to falsify a COIN’s log, but I’ll leave that to smarter people.
-</p>
+ <p>It simply means that I can’t think of a way of doing that.
+ </p>
+ <p>Every time I think of something, the system manages to protect itself. And it is all because of the transparency built into it.
+ </p>
+ <p>I can imagine that there could be a way to falsify a COIN’s log, but I’ll leave that to smarter people.
+ </p> 
 
  <h3>Why can’t people mint COINs? Why is it limited to companies?</h3>
  <p>Community!
@@ -523,18 +500,18 @@ I can imagine that there could be a way to falsify a COIN’s log, but I’ll le
  </ol>
 
  <h3>What if lots of companies disband at the same time?</h3>
-  <p>Then you adjust your app to raise the risk of similar companies.
-  </p>
+ <p>Then you adjust your app to raise the risk of similar companies.
+ </p>
 
  <h3>What about people who cannot work?</h3>
-  <p>Some people will be unable to contribute to a company, for whatever reason. But to their family
-  </p>
+ <p>Some people will be unable to contribute to a company, for whatever reason. But to their family
+ </p>
 
  <h3>Is risk associated with companies or with COINs?</h3>
-  <p>A COINs log includes all the information needed to calculate the COIN’s potential risk and benefits. But, this date comes from the company behind the minted COINs. In all likelihood, it would include the number of co-owners who agreed to the mint and its how well they’ve kept to their promises. It would also include that a case has been made by several communities that the company is harming them and whether or not the situation has been resolved to the communities’ satisfaction.
-  </p>
-  <p>For each COINs, the log holds facts, not judgements and each of us gets to decide what to do with them.
-  </p>
+ <p>A COINs log includes all the information needed to calculate the COIN’s potential risk and benefits. But, this date comes from the company behind the minted COINs. In all likelihood, it would include the number of co-owners who agreed to the mint and its how well they’ve kept to their promises. It would also include that a case has been made by several communities that the company is harming them and whether or not the situation has been resolved to the communities’ satisfaction.
+ </p>
+ <p>For each COINs, the log holds facts, not judgements and each of us gets to decide what to do with them.
+ </p>
 
 <br>
 <br>
