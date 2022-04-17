@@ -111,7 +111,7 @@ They do this starting from a simple foundation of interdependence,
    <td>x</td>
    <td>Meaning &<br>Belonging</td>
    <td rowspan="2" valign="middle"> ⬈</td>
-   <td rowspan="2" valign="top"><em>relationships</em></td>
+   <td rowspan="2" valign="top">relationships</td>
   </tr>
   <tr>
    <td rowspan="2" valign="middle" style="text-align: right; ">commitments</td>
@@ -122,6 +122,7 @@ They do this starting from a simple foundation of interdependence,
   </tr>
    <td>
    <td rowspan="2" valign="middle" style="text-align: right; ">practices</td>
+   <td>x</td>
    <td>Alignment &<br>Experimentation</td>
     <td rowspan="2" valign="middle"> ⬈</td>
     <td rowspan="2" valign="top"><em>collaboration</em></td>
@@ -132,7 +133,7 @@ They do this starting from a simple foundation of interdependence,
   </table>
 
   xxxx
-  
+
   <table style="margin: auto; margin-bottom: 40px; ">
    <tr>
     <td style="text-align: right; padding-right: 6px; "><em>principles</m></td>
