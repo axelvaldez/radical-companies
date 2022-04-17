@@ -105,15 +105,16 @@ They do this starting from a simple foundation of interdependence,
 </p>
 <table>
  <tr>
-  <td colspan="4">hhh</td>
+  <td colspan="4" style="text-align: center; ">hhh</td>
  </tr>
  <tr>
-  <td rowspan="2" valign="middle" style="text-align: right; ">principles</td>
+  <td valign="middle" style="text-align: right; ">principles</td>
   <td>x</td>
-  <td>x</td>
-  <td rowspan="2">Meaning &<br>Belonging</td>
-  <td rowspan="2" valign="middle"> ⬈</td>
-  <td rowspan="2" valign="top">relationships</td>
+  <td>Meaning &<br>Belonging</td>
+  <td valign="middle"> ⬈</td>
+  <td valign="top">relationships</td>
+ </tr>
+ <tr>
  </tr>
  <tr>
   <td rowspan="2" valign="middle" style="text-align: right; ">commitments</td>
