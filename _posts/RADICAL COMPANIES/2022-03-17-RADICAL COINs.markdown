@@ -107,63 +107,32 @@ They do this starting from a simple foundation of interdependence,
    <td colspan="4"></td>
   </tr>
   <tr>
-   <td>
-    <span style="text-align: right">principles</span>
-   </td>
-   <td></td>
-   <td>
-    <p>Meaning &</p>
-    <p>Belonging</p>
-   </td>
-   <td> ⬈</td>
+   <td rowspan="2" valign="middle" style="text-align: right; ">principles</td>
+   <td>x</td>
+   <td>Meaning &<br>Belonging</td>
+   <td rowspan="2" valign="middle"> ⬈</td>
    <td rowspan="2" valign="top"><em>relationships</em></td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
-   <td></td>
-   <td></td>
-   <td rowspan="2" >
-    <h4><em>autonomy</em></h4>
-   </td>
+   <td rowspan="2" valign="middle" style="text-align: right; ">commitments</td>
+   <td>x</td>
+   <td>Transparency &<br>Decentralization</td>
+   <td rowspan="2" valign="middle"> ⬈</td>
+   <td rowspan="2" valign="top"><em>autonomy</em></td>
+  </tr>
    <td>
-    <h4><p style="text-align: right">commitments</p>
-    </h4>
-   </td>
-   <td></td>
-   <td>
-    <h4>Transparency &</h4>
-    <h4>Decentralization</h4>
-   </td><td>
-    <h4> ⬈</h4>
-   </td>
-   <td></td>
-   <td></td>
-   <td></td>
-   <td></td>
-   <td rowspan="2" >
-    <h4><em>collaboration</em></h4>
-   </td>
-   <td>
-    <h4><p style="text-align: right">practices</p>
-    </h4>
-   </td>
-   <td></td>
-   <td>
-    <h4>Alignment &</h4>
-    <h4>Experimentation</h4>
-   </td>
-   <td>
-    <h4> ⬈</h4>
-   </td>
-   <td></td>
-   <td></td>
-   <td></td>
-   <td></td>
-   <td></td>
-  </p>
-  <p>They do this starting from a simple foundation of interdependence,
-  </p>
+   <td rowspan="2" valign="middle" style="text-align: right; ">practices</td>
+   <td>Alignment &<br>Experimentation</td>
+    <td rowspan="2" valign="middle"> ⬈</td>
+    <td rowspan="2" valign="top"><em>collaboration</em></td>
+   </tr>
+   <tr>
+    <td colspan="4"></td>
+   </tr>
+  </table>
+
+  xxxx
+  
   <table style="margin: auto; margin-bottom: 40px; ">
    <tr>
     <td style="text-align: right; padding-right: 6px; "><em>principles</m></td>
