@@ -11,14 +11,14 @@ image:    "en-decentralized-minting.svg"
 <br>
 <br>
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; ">If Kings had
-figured out fiat money,
+<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; ">If Kings
+had figured out fiat money,
 we'd still be His Majesty's subjects</pre>
 
 <br>
 <br>
 
-<h2>Hoarding as Force</h2>
+<h2>Hoarding Is Violence</h2>
 <p>
 Today, money is the canonical medium of exchange and that is what we assumed in our book, <span style="font-size: smaller; ">RADICAL COMPANIES</span>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> After all, we need money to pay our bills and as a medium of exchange to buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people. This is problematic and leads to the most serious problems we face today.
 </p>
@@ -163,26 +163,23 @@ In any case, the big transaction costs are those that banks, exchanges, and poli
 <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s are transparent. An integral part of each <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is the log that comes along with them. This will restore people’s  ability to make choices based on that information.
 </p>
 
- <h3>Trusted Measure</h3>
- <p>A measure can be “trusted” because it means the same thing to people anywhere. RADs, too, can be trusted if you believe that people are pretty much the same anywhere.  </p>
- <p>In a rural setting somebody will get RADs for milking a goat, while in an urban setting someone else will get RADs for stopping cars so children can cross the street. The same human feeling that acted in the rural case was active in the urban setting. The value of capturing that feeling in tangible ways is more important than its number accuracy. RADs, and the <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s that they factor, can be trusted because the “pricing engine,” meaning each of us, is the same.
+ <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s as a Trusted Measure</h3>
+ <p>A measure can be “trusted” because it means the same thing to people anywhere. <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s, too, can be trusted if you believe that people and their relationships are pretty much the same anywhere.  </p>
+ <p>In a rural setting somebody will get <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s for milking a goat, while in an urban setting someone else will get <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s for stopping cars so children can cross the street. The same human feeling recognizes the act of contribution in the rural case and in the urban setting. The value of capturing that feeling in a tangible way is more important than its number accuracy. <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s, and the <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s that they factor, can be trusted because people, in a particular setting, decide what is <em>a contribution that deserves to be recognized<em>.
  </p>
 
-<h2>Contribution as <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s</h2>
-<p>
-This idea originated with entrepreneur and pioneer Philip Rosedale.<sup id="fnref10"><a href="#fn10" rel="footnote">10</a></sup> This is a practice that he’s deployed at his various businesses,
+<h2><SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s Represent Contributions</h2>
+<p>This idea originated with entrepreneur and pioneer Philip Rosedale,<sup id="fnref10"><a href="#fn10" rel="footnote">10</a></sup>
 </p>
 <ul>
 <li>As the company grows, every month an equal amount of cash and shares of the company are earmarked for distribution.</li>
-<li>Every member gets an equal portion of the wealth the company generated.</li>
-<li>Rather than keeping them for themselves, people give this money and shares out to <em>anybody</em> they feel has contributed during the month.</li>
-<li>There is no set criteria and each person decides <em>who</em> should be recognized, <em>what</em> should be recognized as a contribution, and <em>how much</em> to give to others.</li>
+<li>Every member gets an equal portion of this cash and shares which represent the wealth the company generated.</li>
+<li>Rather than keeping them for themselves, people give this money and shares out to <b>anybody</b> they feel has contributed during the month.</li>
+<li>There is no set criteria and each person decides <b>who</b> should be recognized, <b>what</b> should be recognized as a contribution, and <b>how much</b> of this wealth to give to others.</li>
 </ul>
-<p>
-The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions is very similar, but instead of cash or stocks, it uses RADs, a dimensionless unit. At the end of each Distribution the total number of RADs allocated to each person represents their dynamic percentage of ownership of the broad value created by a company.
+<p><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions is very similar, but instead of cash or stocks, it uses <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s, a dimensionless unit. At the end of each Distribution the total number of <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s allocated to each person represents their (dynamic) percentage of ownership of the broad value created by a company.
 </p>
-<p>
-Because broad value accounts for things other than financial value, RADs account for the uncountable.<sup id="fnref11"><a href="#fn11" rel="footnote">11</a></sup> And because <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are <em>factored through</em> RADs, they represent broad value as well. In other words, each person's share of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s is a function of their contributions and reflects the full spectrum of human values, not just financial value.
+<p>This broad value accounts for things other than financial value, which means that <b><SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s account for the uncountable</b>.<sup id="fnref11"><a href="#fn11" rel="footnote">11</a></sup> And because <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are <em>factored through</em> RADs, they represent broad value as well. In other words, each person's share of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s is a function of their contributions and reflects the full spectrum of human values, not just financial value.
 </p>
 
 <h2><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN></h2>
@@ -193,7 +190,7 @@ Because broad value accounts for things other than financial value, RADs account
  <p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are minted by companies, not a national government.
  </p>
  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="/assets/img/en-decentralized-minting.svg" alt="A company gets REVENUE comes in, at the top, and sneds COINs go out to the world, at the bottom. In parallel, a company mints its own COINs, as needed and they go out to the world mixed in with revenue COINs." title="Decentralizd Minting">
+  <img src="/assets/img/en-decentralized-minting.svg" alt="A company gets REVENUE, at the top, and sends COINs out to the world, at the bottom. In parallel, a company mints its own COINs, as needed, and they go out to the world mixed in with REVENUE COINs." title="Decentralizd Minting">
  </p>
  <p>For example, BenCO mints 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span> and promises to repay them in three years. All this information goes on a transparent digital store (<em>e.g.</em>, blockchain or similar secure) that would include, at a minimum,
  </p>
