@@ -161,8 +161,9 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
 </p>
 
  <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s as a Trusted Measure</h3>
- <p>A measure can be “trusted” because it means the same thing to people anywhere. <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s, too, can be trusted if you believe that people and their relationships are pretty much the same anywhere.  </p>
- <p>In a rural setting somebody will get <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s for milking a goat, while in an urban setting someone else will get <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s for stopping cars so children can cross the street. The same human feeling recognizes the act of contribution in the rural case and in the urban setting. The value of capturing that feeling in a tangible way is more important than its number accuracy. <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s, and the <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s that they factor, can be trusted because people, in a particular setting, decide what is <em>a contribution that deserves to be recognized<em>.
+ <p>A measure can be “trusted” because it means the same thing to people anywhere.
+ So, if you believe that people are pretty much the same anywhere, you can trust <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s as a measure.</p>
+ <p>In a rural setting somebody will get <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s for milking a goat, while in an urban setting someone else will get <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s for stopping cars so children can cross the street. The same human feeling that recognized the generosity of these acts was present in the rural case as well as in the urban setting. RADs capture that recognition in a tangible way, regardless of its numeric accuracy. <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s, and the <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s that they factor, can be trusted because people decide what is <em>a contribution that deserves to be recognized<em>.
  </p>
 
 <h2><SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s Represent Contributions</h2>
@@ -174,13 +175,13 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
 <li>Rather than keeping them for themselves, people give this money and shares out to <b>anybody</b> they feel has contributed during the month.</li>
 <li>There is no set criteria and each person decides <b>who</b> should be recognized, <b>what</b> should be recognized as a contribution, and <b>how much</b> of this wealth to give to others.</li>
 </ul>
-<p><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions is very similar, but instead of cash or stocks, it uses <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s, a dimensionless unit. At the end of each Distribution the total number of <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s allocated to each person represents their (dynamic) percentage of ownership of the broad value created by a company.
+<p><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions are very similar, but instead of cash or stocks, it uses <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s, a dimensionless unit. At the end of each Distribution the total number of <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s allocated to each person represents their (dynamic) <a href="#VaryingBuyingPower">percentage of ownership</a> of the broad value created by a company.
 </p>
-<p>This broad value accounts for things other than financial value, which means that <b><SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s account for the uncountable</b>.<sup id="fnref11"><a href="#fn11" rel="footnote">11</a></sup> And because <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are <em>factored through</em> RADs, they represent broad value as well. In other words, each person's share of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s is a function of their contributions and reflects the full spectrum of human values, not just financial value.
+<p>Because this broad value accounts for things other than financial value, <em><SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s account for the uncountable</em>.<sup id="fnref11"><a href="#fn11" rel="footnote">11</a></sup> And because <em><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are factored through <span style="font-zise: smaller; ">RAD</span>s</em>, they represent broad value as well. In other words, each person's share of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s is a function of their contributions and reflects the full spectrum of human values, not just financial value.
 </p>
 
-<h2><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN></h2>
-<p>These are a few of the qualities that a <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> must have. They are in no particular order.
+<h2><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN> Qualities</h2>
+<p>These are, in no particular order, a few of the qualities that a <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> must have,
 </p>
 
  <h3>Decentralized Minting</h3>
@@ -216,22 +217,22 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
  <p>A seller’s app can calculate a risk factor based on the BenCO <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>’s log <em>and</em> her particular preset parameters. Each of us can let the apps do the calculations and, based on that, decide whether or not to take the BenCO <span style="font-size: smaller; ">COIN</span>s as payment.<sup id="fnref12"><a href="#fn12" rel="footnote">12</a></sup>
  </p>
 
- <h3>Stability</h3>
+ <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s Are Stable</h3>
  <p>In today’s system of exchange, “reserve currencies” are used for international transactions. This makes these transactions very expensive.
  </p>
  <p>As of this writing, the four most widely held “reserve currencies” are the US dollar ($), the European Euro (€), the Japanese Yen (¥), and the UK Pound Sterling (£). These national fiat coinage are backed up by strong, stable economies. At least, that’s how the story goes.
  </p>
- <p>As guarantors of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s, how do companies compare with national economies? For one, national economies are not as stable as all that and financial crises happen on a cyclical basis.<sup id="fnref13"><a href="#fn13" rel="footnote">13</a></sup> For another, people invariably find ways to exploit some aspect of the financial system for private gain. Politicians are very good at this and manipulate national economies shamelessly. For example, in 1971 then President Nixon renounced gold as a standard and blamed it mostly on De Gaulle’s policies. In reality, he did it to maintain “global economic dominance and to improve economic conditions at home.”<sup id="fnref14"><a href="#fn14" rel="footnote">14</a></sup>
+ <h3>Companies as Guarantors of <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span>s</h3>
+<p>National economies are not as stable as all that and financial crises happen on a cyclical basis.<sup id="fnref13"><a href="#fn13" rel="footnote">13</a></sup> For another, people invariably find ways to exploit some aspect of the financial system for private gain. Politicians are very good at this and manipulate national economies shamelessly. For example, in 1971 then President Nixon renounced gold as a standard and blamed it mostly on De Gaulle’s policies. In reality, he did it to maintain “global economic dominance and to improve economic conditions at home.”<sup id="fnref14"><a href="#fn14" rel="footnote">14</a></sup>
  </p>
  <p>By comparison, companies are extremely stable because their reputation depends solely on how effective they are at creating value for society. That’s it. The worst that can happen is that a company mints <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s and then it is not able, or willing, to retire the debt. The financial impact of this would be insignificant; to wit, this is what happens today.
  </p>
 
- <h3>Fungible</h3>
-<p>
-In today’s financial model, to be effective as a medium of exchange, money must be fungible—one coin is indistinguishable from all others. “Trying to use a non-fungible good as money results in transaction costs of individually evaluating each unit of the good before an exchange can take place.”<sup id="fnref15"><a href="#fn15" rel="footnote">15</a></sup>
+ <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span>s Are (Not) Fungible</h3>
+<p>In today’s financial model, to be effective as a medium of exchange, money must be fungible—one coin is indistinguishable from all others. “Trying to use a non-fungible good as money results in transaction costs of individually evaluating each unit of the good before an exchange can take place.”<sup id="fnref15"><a href="#fn15" rel="footnote">15</a></sup>
 </p>
 <p>
-Thankfully, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are fungible, world-wide. Their transaction costs, nationally and internationally, are negligible. Their only transaction cost is that of “evaluating” each payment and whether or not to accept the risk associated with it. But this is automated and insignificant. The other cost is deciding whether to accept a given mix of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s as payment, and that carries no financial cost since most transactions would be driven by the app’s results and the few exceptions to it would be driven by people to people relationships. This takes those transactions out of the financial realm and into a people-to-people one.<sup id="fnref16"><a href="#fn16" rel="footnote">16</a></sup>
+Thankfully, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are fungible, world-wide. Their transaction costs, nationally and internationally, are negligible. Their only transaction cost is that of “evaluating” whether or not to accept the risk associated with it. But this is automated and insignificant. The other cost is deciding whether to accept a given mix of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s as payment, and that carries no financial cost since most transactions would be driven by the app’s results and the few exceptions to it would be driven by people to people relationships. This takes those transactions out of the financial realm and into a people-to-people one.<sup id="fnref16"><a href="#fn16" rel="footnote">16</a></sup>
 </p>
 
  <h3>Broad Value</h3>
@@ -402,7 +403,7 @@ The whole system is transparent and each of us can decide to accept a payment or
   <tr><td>&nbsp;</td><td></td></tr>
 </table>
 
-<h2>Varying Buying Power</h2>
+<h2 id="VaryingBuyingPower">Varying Buying Power</h2>
 <p>
 I am selling potatoes at 40 COINs per dozen. After the first month <strong>Ⓐ</strong>, below, and his co-owners don’t have enough COINs to buy my potatoes, but <strong>Ⓔ</strong> and his co-owners do. It may be that JerryCO is more efficient or maybe its products or services are more valuable. Either way, BenCO’s co-owners end up with less buying power than JerryCO’s co-owners.
 </p>
