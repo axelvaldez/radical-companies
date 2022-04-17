@@ -110,7 +110,8 @@ They do this starting from a simple foundation of interdependence,
  <tr>
   <td rowspan="2" valign="middle" style="text-align: right; ">principles</td>
   <td>x</td>
-  <td>Meaning &<br>Belonging</td>
+  <td>x</td>
+  <td rowspan="2">Meaning &<br>Belonging</td>
   <td rowspan="2" valign="middle"> ⬈</td>
   <td rowspan="2" valign="top">relationships</td>
  </tr>
