@@ -105,32 +105,33 @@ They do this starting from a simple foundation of interdependence,
 </p>
 <table>
  <tr>
-  <td colspan="4" style="text-align: center; ">HHH</td>
+  <td colspan="4"></td>
  </tr>
  <tr>
   <td valign="middle" style="text-align: right; ">principles</td>
+  <td></td>
   <td>Meaning &<br>Belonging</td>
   <td valign="middle"> ⬈</td>
   <td valign="top">relationships</td>
  </tr>
  <tr>
   <td valign="middle" style="text-align: right; ">commitments</td>
+  <td></td>
   <td>Transparency &<br>Decentralization</td>
   <td valign="middle"> ⬈</td>
   <td valign="top"><em>autonomy</em></td>
  </tr>
  <tr>
   <td valign="middle" style="text-align: right; ">practices</td>
+  <td></td>
   <td>Alignment &<br>Experimentation</td>
   <td valign="middle"> ⬈</td>
   <td valign="top"><em>collaboration</em></td>
  </tr>
  <tr>
-  <td colspan="4">HHH</td>
+  <td colspan="4"></td>
  </tr>
 </table>
-
-  xxxx
 
  <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s as Collaboration</h3>
  <p>As I see it, the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve &ldquo;<em>progress</em>.&rdquo;<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup>
