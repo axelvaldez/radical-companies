@@ -103,7 +103,7 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
  <p>
 They do this starting from a simple foundation of interdependence,
 </p>
-<table>
+<table align="center">
  <tr>
   <td colspan="4"></td>
  </tr>
