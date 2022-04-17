@@ -19,7 +19,7 @@ image:    "en-vacant-lot-henry-george.svg"
 <p>
 In the book <a href="https://radicals.world/fDm2e">RADICAL COMPANIES</a>, we only considered how the RADICAL model would work in <em>a company environment</em>, and other than a mention, we said nothing about money, land, or governments.
 </p>
-<p>In <a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu"><span style="font-size: smaller; ">COIN</span></a>, I laid out my ideas about money and what it would look like in a decentralized, transparent world. Land and government are definitely harder topics for me. In this document I am laying out my thoughts about what the model for land would look like in a RADICAL world.
+<p>In <a href="https://radicalcompanies.com/2022/03/17/radical-coins"><span style="font-size: smaller; ">RADICAL COIN</span></a>, I laid out a few ideas about money and what it would look like in a decentralized, transparent world. Land and government are definitely harder topics for me. In this document I am laying out my thoughts about what the model for land would look like in a RADICAL world.
 </p>
 
 <h2>Land Models</h2>
