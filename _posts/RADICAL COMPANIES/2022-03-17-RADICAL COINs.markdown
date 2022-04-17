@@ -104,26 +104,21 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
 They do this starting from a simple foundation of interdependence,
 </p>
   <tr>
-   <td></td>
-   <td></td>
-   <td></td>
-   <td></td>
-   <td rowspan="2">
-    <h4><em>relationships</em></h4>
-   </td>
+   <td colspan="4"></td>
   </tr>
+  <tr>
    <td>
-    <h4><p style="text-align: right">principles</p>
-    </h4>
+    <span style="text-align: right">principles</span>
    </td>
    <td></td>
    <td>
-    <h4>Meaning &</h4>
-    <h4>Belonging</h4>
+    <p>Meaning &</p>
+    <p>Belonging</p>
    </td>
-   <td>
-    <h4> ⬈</h4>
-   </td>
+   <td> ⬈</td>
+   <td rowspan="2" valign="top"><em>relationships</em></td>
+  </tr>
+  <tr>
    <td></td>
    <td></td>
    <td></td>
