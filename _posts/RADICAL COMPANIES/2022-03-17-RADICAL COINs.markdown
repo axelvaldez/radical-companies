@@ -124,13 +124,13 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
   </tr>
  </table>
 
- <h3>Evolution, Interrupted</h3>
+ <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s as Collaboration</h3>
  <p>As I see it, the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup>
  </p>
- <p>The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of interdependence towards a higher level of collaboration.
+ <p>Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of collaboration.
  </p>
 
-<h2>A World-Wide Market</h2>
+<h2><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIs</SPAN>s for a World-Wide Market</h2>
 <p>A world-wide market would bring us together rather than keeping us siloed by the Rube Goldberg markets we have today.
 </p>
 <p>We could have a single world government create and enforce a single currency. But even if it were politically feasible, it is unnecessary and a move in the wrong direction towards centralization. To wit, we didn’t need a single world government for minutes, meters, or the Internet, some of the most useful world-wide tools of all time.
@@ -138,10 +138,8 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
 <p>A decentralized, transparent <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is fundamental to such a unified market. These are some of the other things we would need to nourish and support a world-wide market,
 </p>
 
- <h3>Decentralized Market</h3>
- <p>We need a decentralized market to nurture the next stage of innovation and accomplishment.
- </p>
- <p>National fiat coins are not very stable and bring with them a lot of cyclical crises.<sup id="fnref9"><a href="#fn9" rel="footnote">9</a></sup> They make international markets very complex, opaque, and very expensive.
+ <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s for a Decentralized Market</h3>
+ <p>We need a decentralized market to nurture the next stage of innovation and accomplishment. Unfortunately, national fiat coins are an obstacle to this. They are not very stable and are subject to cyclical crises.<sup id="fnref9"><a href="#fn9" rel="footnote">9</a></sup> They make international markets very complex, very opaque, and very expensive.
  </p> 
  <p>Today’s international markets have been cobbled together by agreements that are fraught with weaknesses. National and international politics make transaction costs very expensive. Worst of all, these international markets are unduly influenced by transnational businesses seeking to profit no matter the harm to society.
  </p>
@@ -170,7 +168,7 @@ In any case, the big transaction costs are those that banks, exchanges, and poli
  <p>In a rural setting somebody will get RADs for milking a goat, while in an urban setting someone else will get RADs for stopping cars so children can cross the street. The same human feeling that acted in the rural case was active in the urban setting. The value of capturing that feeling in tangible ways is more important than its number accuracy. RADs, and the <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s that they factor, can be trusted because the “pricing engine,” meaning each of us, is the same.
  </p>
 
-<h2>RAD Distributions</h2>
+<h2>Contribution as <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s</h2>
 <p>
 This idea originated with entrepreneur and pioneer Philip Rosedale.<sup id="fnref10"><a href="#fn10" rel="footnote">10</a></sup> This is a practice that he’s deployed at his various businesses,
 </p>
