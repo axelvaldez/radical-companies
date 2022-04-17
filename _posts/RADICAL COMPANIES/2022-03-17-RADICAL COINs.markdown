@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "RADICAL COINs"
+title:    "RADICAL COINs: towards a world-wide market"
 subtitle: "FOR a WORLD-WIDE MARKET"
 authors:  "Matt Perez"
 image:    "en-decentralized-minting.svg"
@@ -18,12 +18,12 @@ we'd still be His Majesty's subjects</pre>
 <br>
 <br>
 
-<h2>Introduction</h2>
+<h2>Hoarding as Force</h2>
 <p>
 Today, money is the canonical medium of exchange and that is what we assumed in our book, <span style="font-size: smaller; ">RADICAL COMPANIES</span>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> After all, we need money to pay our bills and as a medium of exchange to buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people. This is problematic and leads to the most serious problems we face today.
 </p>
 <p>
-For this and other reasons, I now believe that we should have a <SPAN STYLE="font-size: smaller; ">RADICAL COIN</SPAN> that doesn’t have the baggage of national fiat money and can help us transform our economy to be more human-centric.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup>
+For this and other reasons, I now believe that we should have a universal medium of exchange, like <SPAN STYLE="font-size: smaller; ">RADICAL COIN</SPAN>s that doesn’t have the baggage of national fiat money and can help us transform our economy to be more human-centric.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup>
 </p>
 <p>
 Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function as,
@@ -40,7 +40,7 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
 <p>Our goal is that a decentralized and transparent <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> will make possible a world-wide market that we can all play in without intermediaries.
 </p>
 
-<h2>Some Terminology</h2>
+<h2>Terminology Used in this Doc</h2>
 <table>
   <tr>
    <td style="vertical-align: text-top; border-right: black dotted 1px;"><strong>National Fiat Coin</strong></td>
@@ -79,7 +79,7 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
   </li>
 </ol>
 
-<h2>Worth Repeating</h2>
+<h2>About the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Framework</h2>
 <p>This may be a difficult read and it may be worth repeating here a few words about the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> framework and how it’s different from our current world. Probably the most confusing thing about it is that a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.
 </p>
 <p>The only difference—the big difference—is that the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> system is centered around our interdependence.
