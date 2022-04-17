@@ -134,40 +134,6 @@ They do this starting from a simple foundation of interdependence,
 
   xxxx
 
-  <table style="margin: auto; margin-bottom: 40px; ">
-   <tr>
-    <td style="text-align: right; padding-right: 6px; "><em>principles</m></td>
-    <td style="font-size: larger; ">{</td>
-    <td style="text-align: center; "><strong>Meaning & Belonging</trong></td>
-    <td style="font-size: larger; ">}</td>
-     <td style="text-align: left; padding-left: 6px; "><em>relationships<em></td>
-   </tr>
-   <tr>
-    <td style="text-align: right; padding-right: 6px; "><em>commitments</em>
-    </td>
-    <td style="font-size: larger; ">{
-    </td>
-    <td style="text-align: center; "><strong>Transparency & Decentralization</strong>
-    </td>
-    <td style="font-size: larger; ">}
-    </td>
-    <td style="text-align: left; padding-left: 6px; "><em>autonomy</em>
-    </td>
-   </tr>
-   <tr>
-    <td style="text-align: right; padding-right: 6px; "><em>practices</em>
-    </td>
-    <td style="font-size: larger; ">{
-    </td>
-    <td style="text-align: center; "><strong>Alignment & Experimentation</strong>
-    </td>
-    <td style="font-size: larger; ">}
-    </td>
-    <td style="text-align: left; padding-left: 6px; "><em>collaboration</em>
-    </td>
-   </tr>
-  </table>
-
  <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s as Collaboration</h3>
  <p>As I see it, the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve &ldquo;<em>progress</em>.&rdquo;<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup>
  </p>
