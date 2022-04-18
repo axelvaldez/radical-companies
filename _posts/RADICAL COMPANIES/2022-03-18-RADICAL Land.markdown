@@ -131,28 +131,34 @@ image:    "en-vacant-lot-henry-george.svg"
   <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
 </p>
 <p style="text-align: justify; ">They do this starting from a simple foundation of interdependence,</p>
-<table style="margin: auto; margin-bottom: 40px; ">
-  <tr>
-   <td style="text-align: right; padding-right: 6px; "><em>principles</em></td>
-   <td style="font-size: larger; ">{</td>
-   <td style="text-align: center; "><strong>Meaning & Belonging</strong></td>
-   <td style="font-size: larger; ">}</td>
-   <td style="text-align: left; padding-left: 6px; "><em>relationships</em></td>
-  </tr>
-  <tr>
-   <td style="text-align: right; padding-right: 6px; "><em>commitments</em></td>
-   <td style="font-size: larger; ">{</td>
-   <td style="text-align: center; "><strong>Transparency & Decentralization</strong></td>
-   <td style="font-size: larger; ">}</td>
-   <td style="text-align: left; padding-left: 6px; "><em>autonomy</em></td>
-  </tr>
-  <tr>
-   <td style="text-align: right; padding-right: 6px; "><em>practices</em></td>
-   <td style="font-size: larger; ">{</td>
-   <td style="text-align: center; "><strong>Alignment & Experimentation</strong></td>
-   <td style="font-size: larger; ">}</td>
-   <td style="text-align: left; padding-left: 6px; "><em>collaboration</em></td>
-  </tr>
+<table align="center">
+ <tr>
+  <td valign="middle" style="text-align: right; ">principles&nbsp;&nbsp;</td>
+  <td style="text-align: center; background-color: lightgrey; ">Meaning &<br>Belonging</td>
+  <td valign="middle" style="font-size: larger; "> ⬈</td>
+  <td valign="top">relationships</td>
+ </tr>
+ <tr>
+  <td style="background-color: white; height: 7px;"></td>
+ </tr>
+ <tr>
+  <td valign="middle" style="text-align: right; ">commitments&nbsp;&nbsp;</td>
+  <td style="text-align: center; background-color: lightgrey;">Transparency &<br>Decentralization</td>
+  <td valign="middle" style="font-size: larger; "> ⬈</td>
+  <td valign="top"><em>autonomy</em></td>
+ </tr>
+ <tr>
+  <td style="background-color: white; height: 7px;"></td>
+ </tr>
+ <tr>
+  <td valign="middle" style="text-align: right; ">practices&nbsp;&nbsp;</td>
+  <td style="text-align: center; background-color: lightgrey; ">Alignment &<br>Experimentation</td>
+  <td valign="middle" style="font-size: larger; "> ⬈</td>
+  <td valign="top"><em>collaboration</em></td>
+ </tr>
+ <tr>
+  <td colspan="4">&nbsp;</td>
+ </tr>
 </table>
 
  <h3>Evolution</h3>
