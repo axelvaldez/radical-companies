@@ -114,7 +114,7 @@ They xxx do this starting from a simple foundation of interdependence,
   <td valign="top">relationships</td>
  </tr>
  <tr>
-  <td style="background-color: white; ">xxx</td>
+  <td style="background-color: white; height: 7px;"></td>
  </tr>
  <tr>
   <td valign="middle" style="text-align: right; ">commitments&nbsp;&nbsp;</td>
