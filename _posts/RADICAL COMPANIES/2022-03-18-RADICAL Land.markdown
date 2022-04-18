@@ -13,7 +13,7 @@ image:    "en-vacant-lot-henry-george.svg"
 
 <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; ">… in so far as Government lands can be disposed of,
 I am in favor of cutting up the wild lands into parcels,
-<em>so that every poor man may have a home</em>.
+<em>so that every poor man may have a home</em>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>
 </pre>
 
 <br>
@@ -26,7 +26,7 @@ I am in favor of cutting up the wild lands into parcels,
 </p>
 
 <h2>Land Models</h2>
-<p style="text-align: justify; ">In <em>Another Now</em>, Yanis Varoufakis envisions all land as a commons controlled by “gComms, as the ground commons authorities or ground trusts came to be known.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> Henry George saw the land as one thing and anything sitting on it as separate, so his proposed single tax would tax the land net of improvements. Various people, including Joeri Torfs and Pim Ampe, have envisioned land <em>and</em> improvements as being perennially open for sale.
+<p style="text-align: justify; ">In <em>Another Now</em>, Yanis Varoufakis envisions all land as a commons controlled by “gComms, as the ground commons authorities or ground trusts came to be known.”<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> Henry George saw the land as one thing and anything sitting on it as separate, so his proposed single tax would tax the land net of improvements. Various people, including Joeri Torfs and Pim Ampe, have envisioned land <em>and</em> improvements as being perennially open for sale.
 </p>
 <p style="text-align: justify; ">My working hypothesis is that,
 </p>
