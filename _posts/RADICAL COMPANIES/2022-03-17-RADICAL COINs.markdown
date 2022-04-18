@@ -207,14 +207,14 @@ They do this starting from a simple foundation of interdependence,
  </p>
  <table>
   <tr>
-   <td style="vertical-align: text-top; col-width: 20em; "><strong style="padding-right: 6px; ">Happy Ending</strong></td>
+   <td style="vertical-align: text-top; col-width: 20em; "><strong style="padding-right: 6px; text-align: right; ">Happy Ending</strong></td>
    <td>BenCO retires the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s within three years, as promised.</td>
   </tr>
   <tr>
-   <td style="vertical-align: text-top;"><strong style="padding-right: 6px; ">Not so Happy Ending</strong></td>
-   <td>BenCO has retired only two thirds of the minted <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s by the third year. It does retire all 30,000 <span style="font-size: smaller; ">COIN</span>
+   <td style="vertical-align: text-top;"><strong style="padding-right: 6px; text-align: right; ">Not so Happy Ending</strong></td>
+   <td>BenCO has retired only wo thirds of the minted <SPAN STYLE="FONT-SIZE: SMALLER; "t>COIN</span>s by the third year. It does retire all 30,000 <span style="font-size: smaller; ">COIN</span>
   <tr>
-   <td style="vertical-align: text-top;"><strong style="padding-right: 6px; ">Unhappy Ending</strong></td>
+   <td style="vertical-align: text-top;"><strong style="padding-right: 6px; text-align: right; ">Unhappy Ending</strong></td>
    <td>BenCO disbands and never creates enough value for society to pay the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s.</td>
   </tr>
  </table>
