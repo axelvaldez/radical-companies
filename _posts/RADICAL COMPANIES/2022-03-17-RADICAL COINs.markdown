@@ -105,7 +105,7 @@ They do this starting from a simple foundation of interdependence,
 </p>
 <table align="center">
  <tr>
-  <td colspan="4"></td>
+  <td colspan="4">&nbsp;</td>
  </tr>
  <tr>
   <td valign="middle" style="text-align: right; ">principles&nbsp;&nbsp;</td>
@@ -132,7 +132,7 @@ They do this starting from a simple foundation of interdependence,
   <td valign="top"><em>collaboration</em></td>
  </tr>
  <tr>
-  <td colspan="4"></td>
+  <td colspan="4">&nbsp;</td>
  </tr>
 </table>
 
