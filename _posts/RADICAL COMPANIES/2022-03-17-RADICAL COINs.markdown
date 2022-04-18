@@ -132,7 +132,7 @@ They do this starting from a simple foundation of interdependence,
   <td valign="top"><em>collaboration</em></td>
  </tr>
  <tr>
-  <td colspan="4">&nbsp;</td>
+  <td colspan="4">caca&nbsp;</td>
  </tr>
 </table>
 
