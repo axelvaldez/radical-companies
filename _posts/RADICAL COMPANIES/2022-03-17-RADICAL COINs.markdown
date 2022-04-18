@@ -123,7 +123,7 @@ They xxx do this starting from a simple foundation of interdependence,
   <td valign="top"><em>autonomy</em></td>
  </tr>
  <tr>
-  <td style="background-color: white; ">&nbsp;</td>
+  <td style="background-color: white; height: 7px;"></td>
  </tr>
  <tr>
   <td valign="middle" style="text-align: right; ">practices&nbsp;&nbsp;</td>
