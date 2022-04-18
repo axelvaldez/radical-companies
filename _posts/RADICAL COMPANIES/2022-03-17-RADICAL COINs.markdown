@@ -220,7 +220,7 @@ They do this starting from a simple foundation of interdependence,
  <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s Are Stable</h3>
  <p style="text-align: justify; ">In today’s system of exchange, “reserve currencies” are used for international transactions. This makes these transactions very expensive.
  </p>
- <p style="text-align: justify; ">As of this writing, the four most widely held “reserve currencies” are the US dollar ($), the European Euro (&euro;€), the Japanese Yen (&yen;¥), and the UK Pound Sterling (&pound;£). These national fiat coinage are backed up by strong, stable economies. At least, that’s how the story goes.
+ <p style="text-align: justify; ">As of this writing, the four most widely held “reserve currencies” are the US dollar (&dollar;), the European Euro (&euro;), the Japanese Yen (&yen;), and the UK Pound Sterling (&pound;). These national fiat coinage are backed up by strong, stable economies. At least, that’s how the story goes.
  </p>
  <h3>Companies as Guarantors of <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span>s</h3>
 <p style="text-align: justify; ">National economies are not as stable as all that and financial crises happen on a cyclical basis.<sup id="fnref13"><a href="#fn13" rel="footnote">13</a></sup> For another, people invariably find ways to exploit some aspect of the financial system for private gain. Politicians are very good at this and manipulate national economies shamelessly. For example, in 1971 then President Nixon renounced gold as a standard and blamed it mostly on De Gaulle’s policies. In reality, he did it to maintain “global economic dominance and to improve economic conditions at home.”<sup id="fnref14"><a href="#fn14" rel="footnote">14</a></sup>
