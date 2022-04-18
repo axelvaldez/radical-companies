@@ -69,9 +69,9 @@ we'd still be His Majesty's subjects</pre>
 <p style="text-align: justify; ">In fact, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are very similar to national fiat coins. They are a unit of measure, a store of value, and a medium of exchange, but with these twists,
 </p>
 <ol>
-  <li>They represent value at its broadest. In addition to financial value, they account for wellbeing, contributions, acts of kindness, and all the other things that are important to people.</li>
-  <li>They spread risks and benefits through society. We all share in the adventure: the burden of risk and the joys of gains.</li>
-  <li><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s bypass the complications and costs brought about by banks, exchanges, national politics,<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup> and the influence of transnational corporations.<sup id="fnref7"><a href="#fn7" rel="footnote">7</a></sup>
+  <li style="text-align: justify; ">They represent value at its broadest. In addition to financial value, they account for wellbeing, contributions, acts of kindness, and all the other things that are important to people.</li>
+  <li style="text-align: justify; ">They spread risks and benefits through society. We all share in the adventure: the burden of risk and the joys of gains.</li>
+  <li style="text-align: justify; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s bypass the complications and costs brought about by banks, exchanges, national politics,<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup> and the influence of transnational corporations.<sup id="fnref7"><a href="#fn7" rel="footnote">7</a></sup>
    <p style="text-align: justify; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s have the potential to enable a world-wide market. This will help us break out of our national silos and create a world-wide economy that’s decentralized and transparent.</p>
   </li>
 </ol>
@@ -169,10 +169,10 @@ They do this starting from a simple foundation of interdependence,
 <p style="text-align: justify; ">This idea originated with entrepreneur and pioneer Philip Rosedale,<sup id="fnref10"><a href="#fn10" rel="footnote">10</a></sup>
 </p>
 <ul>
-<li>As the company grows, every month an equal amount of cash and shares of the company are earmarked for distribution.</li>
-<li>Every member gets an equal portion of this cash and shares which represent the wealth the company generated.</li>
-<li>Rather than keeping them for themselves, people give this money and shares out to <b>anybody</b> they feel has contributed during the month.</li>
-<li>There is no set criteria and each person decides <b>who</b> should be recognized, <b>what</b> should be recognized as a contribution, and <b>how much</b> of this wealth to give to others.</li>
+<li style="text-align: justify; ">As the company grows, every month an equal amount of cash and shares of the company are earmarked for distribution.</li>
+<li style="text-align: justify; ">Every member gets an equal portion of this cash and shares which represent the wealth the company generated.</li>
+<li style="text-align: justify; ">Rather than keeping them for themselves, people give this money and shares out to <b>anybody</b> they feel has contributed during the month.</li>
+<li style="text-align: justify; ">There is no set criteria and each person decides <b>who</b> should be recognized, <b>what</b> should be recognized as a contribution, and <b>how much</b> of this wealth to give to others.</li>
 </ul>
 <p style="text-align: justify; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions are very similar, but instead of cash or stocks, it uses <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s, a dimensionless unit. At the end of each Distribution the total number of <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s allocated to each person represents their (dynamic) <a href="#VaryingBuyingPower">percentage of ownership</a> of the broad value created by a company.
 </p>
@@ -191,10 +191,10 @@ They do this starting from a simple foundation of interdependence,
  <p style="text-align: justify; ">For example, BenCO mints 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span> and promises to repay them in three years. All this information goes on a transparent digital store (<em>e.g.</em>, blockchain or similar secure) that would include, at a minimum,
  </p>
  <ul>
-  <li>The amount of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span> (30,000),</li>
-  <li>The name of the company which minted them (BenCO),</li>
-  <li>The retiring terms (three years),</li>
-  <li>The repayment terms (10,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>/year).</li>
+  <li style="text-align: justify; ">The amount of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span> (30,000),</li>
+  <li style="text-align: justify; ">The name of the company which minted them (BenCO),</li>
+  <li style="text-align: justify; ">The retiring terms (three years),</li>
+  <li style="text-align: justify; ">The repayment terms (10,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>/year).</li>
  </ul>
  <p style="text-align: justify; ">This can result in any of these scenarios,
  </p>
@@ -254,10 +254,10 @@ They do this starting from a simple foundation of interdependence,
  <p style="text-align: justify; ">As it is today, different companies will end up with different values and their co-owners will have more or less purchasing power. For example,
  </p>
  <ul>
-  <li>Company BenCO earns 100 COINs.</li>
-  <li>Company JerryCo earns 1,000 COINs.</li>
-  <li>JerryCo’s <em>value</em> is higher than BenCO.</li>
-  <li>JerryCO <em>people earn more COINs</em> than those at BenCO.</li>
+  <li style="text-align: justify; ">Company BenCO earns 100 COINs.</li>
+  <li style="text-align: justify; ">Company JerryCo earns 1,000 COINs.</li>
+  <li style="text-align: justify; ">JerryCo’s <em>value</em> is higher than BenCO.</li>
+  <li style="text-align: justify; ">JerryCO <em>people earn more COINs</em> than those at BenCO.</li>
  </ul>
  <h3>Companies as Guarantors</h3>
  <p style="text-align: justify; ">COINs are backed up by the <span style="font-size: smaller; ">RADICAL COMPANIES</span>, not national governments. This means that the COIN’s “value” is determined by what each company brings to society and by its co-owners’ sensitivities.
@@ -309,11 +309,11 @@ They do this starting from a simple foundation of interdependence,
 Other things that may affect company value,
 </p>
 <ul>
-<li>As a company creates more value, it gets more revenue, and it generates more COINs. The revenue COINs are allocated according to each person’s broad contributions. Co-owners decide what is a broad contribution according to the value they perceive.</li>
-<li>If a company walks away from debt,<sup id="fnref23"><a href="#fn23" rel="footnote">23</a></sup> it’s reputation goes down, and its COINs go down in value.</li>
-<li>As a company retires debt, its reputation goes up, and its COINs go up in value.</li>
-<li>If the reputation and value of a company goes up, its COINs go down in risk. Those who took its COINs when they were high risk now have more desirable COINs. The upside spreads throughout society.</li>
-<li>Companies that are constantly creating debt and not retiring it, will find themselves isolated. Their COINs will get riskier and riskier and they will be acceptable to fewer and fewer people. Hopefully, they will see guidance and help from others.</li>
+<li style="text-align: justify; ">As a company creates more value, it gets more revenue, and it generates more COINs. The revenue COINs are allocated according to each person’s broad contributions. Co-owners decide what is a broad contribution according to the value they perceive.</li>
+<li style="text-align: justify; ">If a company walks away from debt,<sup id="fnref23"><a href="#fn23" rel="footnote">23</a></sup> it’s reputation goes down, and its COINs go down in value.</li>
+<li style="text-align: justify; ">As a company retires debt, its reputation goes up, and its COINs go up in value.</li>
+<li style="text-align: justify; ">If the reputation and value of a company goes up, its COINs go down in risk. Those who took its COINs when they were high risk now have more desirable COINs. The upside spreads throughout society.</li>
+<li style="text-align: justify; ">Companies that are constantly creating debt and not retiring it, will find themselves isolated. Their COINs will get riskier and riskier and they will be acceptable to fewer and fewer people. Hopefully, they will see guidance and help from others.</li>
 </ul>
 
 <h2>TA-DA!</h2>
@@ -465,9 +465,9 @@ Within each company, the buying power of an individual co-owner, too, can change
  <p style="text-align: justify; ">So, let’s say that I decide to travel the world on a sailboat, paying for it with CarelessCO’s COINs and CarelessCO disbands. There could be three cases,
  </p>
  <ol>
-  <li>The COINs I have are pre-disband and their log attests to it. I feel bad because they had a lot of potential, but they got careless and cocky, over-promised, and could not meet their commitments.</li>
-  <li>The COINs I have are mostly pre-disband, but I do have some that the company minted. The amount is very minor, I’ll have to switch to a smaller boat. Besides, I am earning COINs while on the boat by writing about my journey.</li>
-  <li>All the COINs I have are the ones discredited. In fact, I was one of the co-owners who supported the minting (we were sure we could do it). In this case, I screwed myself financially, but I learned something in the process. I have to return the boat and join WiserCO.</li>
+  <li style="text-align: justify; ">The COINs I have are pre-disband and their log attests to it. I feel bad because they had a lot of potential, but they got careless and cocky, over-promised, and could not meet their commitments.</li>
+  <li style="text-align: justify; ">The COINs I have are mostly pre-disband, but I do have some that the company minted. The amount is very minor, I’ll have to switch to a smaller boat. Besides, I am earning COINs while on the boat by writing about my journey.</li>
+  <li style="text-align: justify; ">All the COINs I have are the ones discredited. In fact, I was one of the co-owners who supported the minting (we were sure we could do it). In this case, I screwed myself financially, but I learned something in the process. I have to return the boat and join WiserCO.</li>
  </ol>
  <h3>What if lots of companies disband at the same time?</h3>
  <p style="text-align: justify; ">Then you adjust your app to raise the risk of similar companies.
