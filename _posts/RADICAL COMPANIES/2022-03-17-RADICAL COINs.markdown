@@ -121,6 +121,7 @@ They do this starting from a simple foundation of interdependence,
  </tr>
  <tr>
   <td valign="middle" style="text-align: right; ">practices&nbsp;&nbsp;</td>
+  <td><td>
   <td style="text-align: center; background-color: lightgrey; ">Alignment &<br>Experimentation</td>
   <td valign="middle" style="font-size: larger; "> ⬈</td>
   <td valign="top"><em>collaboration</em></td>
