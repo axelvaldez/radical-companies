@@ -119,7 +119,6 @@ image:    "en-vacant-lot-henry-george.svg"
 </p>
 <p style="text-align: justify; ">A <span style="font-size: smaller; ">RADICAL</span> world, too, is centered around accomplishments and real innovation, but it prioritizes what’s important to people first, ahead of everything else, including money. We’ll still be individuals, with our own needs, rights, and idiosyncrasies. We are not going to become a number. The <span style="font-size: smaller; ">RADICAL</span> model is centered on trust, the type that comes from community and collaboration.
 </p>
-
  <h3>The <span style="font-size: smaller; ">RADICAL</span> Model</h3>
  <p style="text-align: justify; ">We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands telling people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it. Here we assume a <span style="font-size: smaller; ">RADICAL</span> world that is, at the same time, alike and different from our world today.
  </p>
@@ -159,7 +158,6 @@ image:    "en-vacant-lot-henry-george.svg"
    <td colspan="4">&nbsp;</td>
   </tr>
  </table>
-
  <h3>Evolution</h3>
  <p style="text-align: justify; ">As I see it, the <span style="font-size: smaller; ">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup>
  </p>
@@ -167,12 +165,13 @@ image:    "en-vacant-lot-henry-george.svg"
  </p>
 
 <h2>In Summary…</h2>
+<p style="text-align: justify; ">TBD</p>
 <br>
 <br>
 
 <h1 style="text-align: center;">Appendices</h1>
-<br>
 <h3>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h3>
+<br>
 <h2>Terminology</h2>
  <h3>Common Good</h3>
  <p style="text-align: justify; ">A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.
@@ -208,7 +207,6 @@ image:    "en-vacant-lot-henry-george.svg"
 <br>
 
 <h1 style="text-align: center;">FAQ</h1>
-<br>
 <h3>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h3>
 
 <h1 style="text-align: center;">Related</h1>
