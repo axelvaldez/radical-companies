@@ -182,7 +182,7 @@ They do this starting from a simple foundation of interdependence,
 <h2><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN> Qualities</h2>
 <p style="text-align: justify; ">These are, in no particular order, a few of the qualities that a <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> must have,
 </p>
- <h3>Decentralized Minting< of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s</h3>
+ <h3>Decentralized Minting of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s</h3>
  <p style="text-align: justify; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are minted by companies, not a national government.
  </p>
  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
