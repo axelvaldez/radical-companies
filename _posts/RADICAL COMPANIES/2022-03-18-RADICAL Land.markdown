@@ -11,7 +11,7 @@ image:    "en-vacant-lot-henry-george.svg"
 <br>
 <br>
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; ">… in so far as Government lands can be disposed of, I am in favor of cutting up the wild lands into parcels, <em><b>so that every poor man may have a home</b></em>.</pre>
+<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; white-space: normal; ">… in so far as Government lands can be disposed of, I am in favor of cutting up the wild lands into parcels, <em><b>so that every poor man may have a home</b></em>.</pre>
 <br>
 <br>
 
