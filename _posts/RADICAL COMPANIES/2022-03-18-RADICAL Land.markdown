@@ -177,7 +177,7 @@ image:    "en-vacant-lot-henry-george.svg"
 
 <h1 style="text-align: center;">Appendices</h1>
 <br>
-<h2>Terminology</h2>
+<h1 style="text-align: center; ">Terminology</h2>
  <h3>Common Good</h3>
  <p style="text-align: justify; ">A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.
  </p>
@@ -210,6 +210,7 @@ image:    "en-vacant-lot-henry-george.svg"
 
 <h1 style="text-align: center;">FAQ</h1>
 <h3>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h3>
+<br>
 
 <h1 style="text-align: center;">Related</h1>
 <ul>
@@ -263,7 +264,6 @@ image:    "en-vacant-lot-henry-george.svg"
     <li><a href="https://docs.google.com/document/d/1u862nc5EV8OY6ng0kfH7_pBGO-HWJnK2rJB8PvpYkJ4/edit#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
   </ul>
 </ul>
-<br>
 <br>
 
 <h1 style="text-align: center;">Endnotes</h1>
