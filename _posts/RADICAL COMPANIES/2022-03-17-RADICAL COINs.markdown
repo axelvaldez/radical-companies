@@ -205,6 +205,7 @@ They do this starting from a simple foundation of interdependence,
  </ul>
  <p style="text-align: justify; ">This can result in any of these scenarios,
  </p>
+ xxxx
  <table>
   <tr>
    <td style="vertical-align: text-top; padding-right: 6px; text-align: right;"><strong>Happy Ending</strong></td>
@@ -212,7 +213,7 @@ They do this starting from a simple foundation of interdependence,
   </tr>
   <tr>
    <td style="vertical-align: text-top; padding-right: 6px; text-align: right;"><strong>Not so Happy Ending</strong></td>
-   <td>BenCO has retired only wo thirds of the minted <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s by the third year. It does retire all 30,000 <span style="font-size: smaller; ">COIN</span>s</td>
+   <td>BenCO has retired only wo thirds of the minted <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s by the third year. It does retire all 30,000 <span style="font-size: smaller; ">COIN</span>s.</td>
   </tr>
   <tr>
    <td style="vertical-align: text-top; padding-right: 6px; text-align: right;"><strong>Unhappy Ending</strong></td>
