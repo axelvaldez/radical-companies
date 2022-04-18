@@ -323,8 +323,8 @@ higher level of collaboration.
 
 <h2 style="text-align: center; ">FAQ</h2>
  <br>
- <h3>Question?</h3>
- <p>Answer!</p>
+ <h3>Q</h3>
+ <p>A</p>
  <br>
 
 <br>
