@@ -315,7 +315,7 @@ higher level of collaboration.
 <h1 style="text-align: center; ">Appendices</h1>
 <br>
 
-<h2>Terminology</h2>
+<h2 style="text-align: center; ">Terminology</h2>
 <br>
 
 <br>
