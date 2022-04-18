@@ -179,7 +179,8 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
 
 <h1 style="text-align: center;">Appendices</h1>
 <br>
-<h1 style="text-align: center; ">Terminology</h1>
+
+<h2 style="text-align: center; ">Terminology</h2>
  <h3>Common Good</h3>
  <p style="text-align: justify; ">A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.
  </p>
@@ -210,8 +211,10 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <p style="text-align: justify; ">The highest bid on any parcel of land.
  </p>
 
-<h1 style="text-align: center;">FAQ</h1>
+<h2 style="text-align: center;">FAQ</h2>
 <h3>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h3>
+ <p style="text-align: justify; ">There really is no distinction. A <span style="font-size: smaller; ">COIN</span> minted, or sponsored, by one person will probably have a very high risk. But there may be exceptions (<em>e.g.</em>, a solo perfume maker who is very well know for producing exquisite perfumes).
+ </p>
 <br>
 
 <h1 style="text-align: center;">Related</h1>
