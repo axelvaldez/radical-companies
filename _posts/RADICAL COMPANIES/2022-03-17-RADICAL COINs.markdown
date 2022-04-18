@@ -101,7 +101,7 @@ Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function a
  </p>
  <p>
  <p>
-They xxx do this starting from a simple foundation of interdependence,
+They do this starting from a simple foundation of interdependence,
 </p>
 <table align="center">
  <tr>
