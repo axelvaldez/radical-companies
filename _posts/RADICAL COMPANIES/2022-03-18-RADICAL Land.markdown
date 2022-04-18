@@ -171,13 +171,8 @@ image:    "en-vacant-lot-henry-george.svg"
 <br>
 
 <h1 style="text-align: center;">Appendices</h1>
-<br>
 <h2>Terminology</h2>
 <br>
-
-<br>
-<br>
-
  <h3>Common Good</h3>
  <p style="text-align: justify; ">Basically a good that does not belong to anybody.
  </p>
@@ -187,25 +182,16 @@ image:    "en-vacant-lot-henry-george.svg"
  </p>
  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="/assets/img/en-politics.svg" alt="Three circles: the left-most is labeled LAND OPEN FOR BIDS. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes into a bigger circle labeled COMMON GOOD. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes to a smaller circle labeled LAND OPEN FOR BIDS." title="Common Goods and Politics">
  <p style="text-align: justify; ">A community may denominate not enough or a whole lot of land in the “common good” category. The community will literally prosper or not by those kinds of decisions. The RADICAL model decentralizing principle gives the people most immediately affected a strong voice in the process.
-</p>
-
-<br>
-
+ </p>
  <h3>Hyper-local Community</h3>
  <p style="text-align: justify; ">The community that is literally adjacent to the land in question. This includes communities that are physically close and those which are logically close.
  </p>
- <br>
-
  <h3>Surrounding Community</h3>
  <p style="text-align: justify; ">The community that is physically or logically adjacent to the hyper-local community.
  </p>
- <br>
-
  <h3>Improvements</h3>
  <p style="text-align: justify; ">Anything added to the land in question. It could be houses, barns, irrigation, drainage, electricity, etc.
  </p>
- <br>
-
  <h3>Occupier</h3>
  <p style="text-align: justify; ">Occupiers are what we would call owners in our current FIAT model. The difference is that it lasts until the next bidding.
  </p>
@@ -213,8 +199,6 @@ image:    "en-vacant-lot-henry-george.svg"
  </p>
  <p style="text-align: justify; ">In either case, the occupier pays a percentage of her bid to the community fund; note that it could be higher or lower than before. No matter, the market calculated a new value for the land and its improvements.
  </p>
- <br>
-
  <h3>Winning Bid</h3>
  <p style="text-align: justify; ">The highest bid on any parcel of land.
  </p>
