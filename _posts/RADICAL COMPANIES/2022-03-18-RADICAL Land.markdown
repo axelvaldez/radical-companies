@@ -177,9 +177,6 @@ image:    "en-vacant-lot-henry-george.svg"
 
 <h1 style="text-align: center;">Appendices</h1>
 <br>
-<h2>FAQ</h2>
- <h3>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h3>
-<br>
 <h2>Terminology</h2>
  <h3>Common Good</h3>
  <p style="text-align: justify; ">A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.
@@ -210,9 +207,6 @@ image:    "en-vacant-lot-henry-george.svg"
  <h3>Winning Bid</h3>
  <p style="text-align: justify; ">The highest bid on any parcel of land.
  </p>
-
-<br>
-<br>
 
 <h1 style="text-align: center;">FAQ</h1>
 <h3>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h3>
