@@ -276,7 +276,7 @@ They do this starting from a simple foundation of interdependence,
 </p>
 <table>
   <tr>
-   <td><p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; "><img src="/assets/img/en-worgl.svg" alt="Five of the 52 stamps that were applied to the back of the local currency that the town of Wörgl, Austria minted in the 1930s in response to the Great Depression." title="Wö&ouml;gl Stamps"></td>
+   <td><p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; "><img src="/assets/img/en-worgl.svg" alt="Five of the 52 stamps that were applied to the back of the local currency that the town of Wörgl, Austria minted in the 1930s in response to the Great Depression." title="Wö&ouml;gl Stamps"></p></td>
   </tr>
   <tr>
    <td>The bills had &ldquo;52 spaces on the reverse side, one for each week of the year.&rdquo;<sup id="fnref20"><a href="#fn20" rel="footnote">20</a></sup> This meant that the script kept its face value only for one week.</td>
