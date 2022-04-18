@@ -17,7 +17,7 @@ I am in favor of cutting up the wild lands into parcels,
 <em>so that every poor man may have a home</em>.
  </pre>
 
- <pre><span style="text-align: right; ">&mdash; Abraham Lincoln&rdquo;<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></span>
+ <pre style="text-align: right; ">&mdash; Abraham Lincoln&rdquo;<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>
  </pre>
 </div>
 
