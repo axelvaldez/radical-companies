@@ -179,7 +179,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
 
 <h1 style="text-align: center;">Appendices</h1>
 <br>
-<h2 style="text-align: center; ">Terminology</h2>
+<h2>Terminology</h2>
  <h3>Common Good</h3>
  <p style="text-align: justify; ">A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.
  </p>
