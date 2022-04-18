@@ -173,7 +173,7 @@ image:    "en-vacant-lot-henry-george.svg"
 <h1 style="text-align: center;">Appendices</h1>
 <h2>Terminology</h2>
  <h3>Common Good</h3>
- <p style="text-align: justify; ">Basically a good that does not belong to anybody.
+ <p style="text-align: justify; ">A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.
  </p>
  <p style="text-align: justify; ">Land and improvements on it are common goods. If it is occupied, it is managed by the occupier until the next bid for it comes in. If it is disoccupied, then it defaults to its surrounding community until someone bids for it (<em>i.e.</em>, the community cannot counter-bid).
  </p>
