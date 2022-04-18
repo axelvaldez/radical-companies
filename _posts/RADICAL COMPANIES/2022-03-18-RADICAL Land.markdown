@@ -172,7 +172,6 @@ image:    "en-vacant-lot-henry-george.svg"
 
 <h1 style="text-align: center;">Appendices</h1>
 <h2>Terminology</h2>
-<br>
  <h3>Common Good</h3>
  <p style="text-align: justify; ">Basically a good that does not belong to anybody.
  </p>
