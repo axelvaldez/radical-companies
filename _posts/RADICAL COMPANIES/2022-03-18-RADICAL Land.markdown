@@ -121,45 +121,44 @@ image:    "en-vacant-lot-henry-george.svg"
 </p>
 
  <h3>The RADICAL Model</h3>
-<p style="text-align: justify; ">We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands telling people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it. Here we assume a RADICAL world that is, at the same time, alike and different from our world today.
-</p>
-<p style="text-align: justify; ">In the RADICAL model, a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word “company” because it has an interesting genesis: it comes from the Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means “together, with” and <em>pan</em> means “bread, food.” At its root, then, <em>company</em> means “people who break bread together.” In the RADICAL model a company is a community of people who come together to contribute broad value to society and make an impact on the world.
-</p>
-<p style="text-align: justify; ">Rather than having an owner and a hierarchy of bosses, a RADICAL company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.
-</p>
-<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
-</p>
-<p style="text-align: justify; ">They do this starting from a simple foundation of interdependence,</p>
-<table align="center">
- <tr>
-  <td valign="middle" style="text-align: right; ">principles&nbsp;&nbsp;</td>
-  <td style="text-align: center; background-color: lightgrey; ">Meaning &<br>Belonging</td>
-  <td valign="middle" style="font-size: larger; "> ⬈</td>
-  <td valign="top">relationships</td>
- </tr>
- <tr>
-  <td style="background-color: white; height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align: right; ">commitments&nbsp;&nbsp;</td>
-  <td style="text-align: center; background-color: lightgrey;">Transparency &<br>Decentralization</td>
-  <td valign="middle" style="font-size: larger; "> ⬈</td>
-  <td valign="top"><em>autonomy</em></td>
- </tr>
- <tr>
-  <td style="background-color: white; height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align: right; ">practices&nbsp;&nbsp;</td>
-  <td style="text-align: center; background-color: lightgrey; ">Alignment &<br>Experimentation</td>
-  <td valign="middle" style="font-size: larger; "> ⬈</td>
-  <td valign="top"><em>collaboration</em></td>
- </tr>
- <tr>
-  <td colspan="4">&nbsp;</td>
- </tr>
-</table>
+ <p style="text-align: justify; ">We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands telling people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it. Here we assume a RADICAL world that is, at the same time, alike and different from our world today.
+ </p>
+ <p style="text-align: justify; ">In the RADICAL model, a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word “company” because it has an interesting genesis: it comes from the Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means “together, with” and <em>pan</em> means “bread, food.” At its root, then, <em>company</em> means “people who break bread together.” In the RADICAL model a company is a community of people who come together to contribute broad value to society and make an impact on the world.
+ </p>
+ <p style="text-align: justify; ">Rather than having an owner and a hierarchy of bosses, a RADICAL company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.
+ </p>
+ <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; "><img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
+ </p>
+ <p style="text-align: justify; ">They do this starting from a simple foundation of interdependence,</p>
+ <table align="center">
+  <tr>
+   <td valign="middle" style="text-align: right; ">principles&nbsp;&nbsp;</td>
+   <td style="text-align: center; background-color: lightgrey; ">Meaning &<br>Belonging</td>
+   <td valign="middle" style="font-size: larger; "> ⬈</td>
+   <td valign="top">relationships</td>
+  </tr>
+  <tr>
+   <td style="background-color: white; height: 7px;"></td>
+  </tr>
+  <tr>
+   <td valign="middle" style="text-align: right; ">commitments&nbsp;&nbsp;</td>
+   <td style="text-align: center; background-color: lightgrey;">Transparency &<br>Decentralization</td>
+   <td valign="middle" style="font-size: larger; "> ⬈</td>
+   <td valign="top"><em>autonomy</em></td>
+  </tr>
+  <tr>
+   <td style="background-color: white; height: 7px;"></td>
+  </tr>
+  <tr>
+   <td valign="middle" style="text-align: right; ">practices&nbsp;&nbsp;</td>
+   <td style="text-align: center; background-color: lightgrey; ">Alignment &<br>Experimentation</td>
+   <td valign="middle" style="font-size: larger; "> ⬈</td>
+   <td valign="top"><em>collaboration</em></td>
+  </tr>
+  <tr>
+   <td colspan="4">&nbsp;</td>
+  </tr>
+ </table>
 
  <h3>Evolution</h3>
  <p style="text-align: justify; ">As I see it, the RADICAL model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup>
