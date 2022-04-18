@@ -15,7 +15,6 @@ image:    "en-vacant-lot-henry-george.svg"
  <br>
  <pre style="text-align: center; ">&ldquo;I am in favor of cutting up<br>the wild lands into parcels,<br><em>so that every poor man may have a home</em>.&rdquo;
  </pre>
-
  <pre style="text-align: right; padding-right: 2em; ">&mdash; Abraham Lincoln<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>
  </pre>
 </div>
@@ -177,7 +176,9 @@ image:    "en-vacant-lot-henry-george.svg"
 <br>
 
 <h1 style="text-align: center;">Appendices</h1>
-<h3>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h3>
+<br>
+<h2>FAQ</h2>
+ <h3>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h3>
 <br>
 <h2>Terminology</h2>
  <h3>Common Good</h3>
