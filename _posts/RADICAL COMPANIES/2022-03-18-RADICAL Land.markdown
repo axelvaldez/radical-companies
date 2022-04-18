@@ -213,11 +213,11 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
 
 <h2 style="text-align: center;">FAQ</h2>
  <h3>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h3>
- <p style="text-align: justify; ">There really is no distinction. A <span style="font-size: smaller; ">COIN</span> minted, or sponsored, by one person will probably have a very high risk. But there may be exceptions (<em>e.g.</em>, a solo perfume maker who is very well known for producing exquisite perfumes).
+ <p style="text-align: justify; ">This really is a distinction without a difference. A <span style="font-size: smaller; ">COIN</span> minted, or sponsored, by one person will probably have a very high risk. But there may be exceptions (<em>e.g.</em>, a solo perfume maker who is very well known for producing exquisite perfumes).
  </p>
 <br>
 
-<h1 style="text-align: center;">Related</h1>
+<h2 style="text-align: center;">Related</h2>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
@@ -271,7 +271,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
 </ul>
 <br>
 
-<h1 style="text-align: center;">Endnotes</h1>
+<h2 style="text-align: center;">Endnotes</h2>
 <hr>
 <div class="endnotes">
  <ol>
