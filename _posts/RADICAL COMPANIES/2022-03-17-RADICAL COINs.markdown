@@ -212,7 +212,6 @@ They do this starting from a simple foundation of interdependence,
    <td>BenCO disbands and never creates enough value for society to pay the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s.</td>
   </tr>
  </table>
- <br>
  <p style="text-align: justify; ">A seller’s app can calculate a risk factor based on the BenCO <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>’s log <em>and</em> her particular preset parameters. Each of us can let the apps do the calculations and, based on that, decide whether or not to take the BenCO <span style="font-size: smaller; ">COIN</span>s as payment.<sup id="fnref12"><a href="#fn12" rel="footnote">12</a></sup>
  </p>
  <h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s Are Stable</h3>
