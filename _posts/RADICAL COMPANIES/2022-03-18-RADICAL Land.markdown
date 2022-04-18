@@ -17,9 +17,9 @@ image:    "en-vacant-lot-henry-george.svg"
 <br>
 
 <h2>Introduction</h2>
-<p style="text-align: justify; ">In the book <a href="https://radicals.world/fDm2e">RADICAL COMPANIES</a>, we only considered how the RADICAL model would work in <em>a company environment</em>, and other than a mention, we said nothing about money, land, or governments.
+<p style="text-align: justify; ">In the book <a href="https://radicals.world/fDm2e">RADICAL COMPANIES</a>, we only considered how the <span style="font-size: smaller; ">RADICAL</span> model would work in <em>a company environment</em>, and other than a mention, we said nothing about money, land, or governments.
 </p>
-<p style="text-align: justify; ">In <a href="https://radicalcompanies.com/2022/03/17/radical-coins"><span style="font-size: smaller; ">RADICAL COIN</span></a>, I laid out a few ideas about money and what it would look like in a decentralized, transparent world. Land and government are definitely harder topics for me. In this document I am laying out my thoughts about what the model for land would look like in a RADICAL world.
+<p style="text-align: justify; ">In <a href="https://radicalcompanies.com/2022/03/17/radical-coins"><span style="font-size: smaller; ">RADICAL COIN</span></a>, I laid out a few ideas about money and what it would look like in a decentralized, transparent world; land and government are definitely harder topics for me. In this document I am laying out my thoughts about what the model for land would look like in a <span style="font-size: smaller; ">RADICAL</span> world.
 </p>
 
 <h2>Land Models</h2>
@@ -66,7 +66,7 @@ image:    "en-vacant-lot-henry-george.svg"
 <br>
 
 <h2>Taxes?</h2>
-<p style="text-align: justify; ">In the FIAT model, “taxes” disappear into the coffers of the County or State government. In the RADICAL model, the occupier pays a percentage of her winning bid to a community fund. The fund would be used to create common goods.
+<p style="text-align: justify; ">In the FIAT model, “taxes” disappear into the coffers of the County or State government. In the <span style="font-size: smaller; ">RADICAL</span> model, the occupier pays a percentage of her winning bid to a community fund. The fund would be used to create common goods.
 </p>
 <p style="text-align: justify; ">But what is a community in this context? One possible way of defining this is to imagine the “community” as concentric circles emanating from the land in question. The community fund could then be governed as follows,
 </p>
@@ -111,21 +111,21 @@ image:    "en-vacant-lot-henry-george.svg"
 </ul>
 
 <h2>Worth Repeating</h2>
-<p style="text-align: justify; ">This may be a difficult read and it may be worth repeating here a few words about the RADICAL framework and how it’s different from our current world. Probably the most confusing thing about it is that a RADICAL world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.
+<p style="text-align: justify; ">This may be a difficult read and it may be worth repeating here a few words about the <span style="font-size: smaller; ">RADICAL</span> framework and how it’s different from our current world. Probably the most confusing thing about it is that a RADI<span style="font-size: smaller; ">RADICAL</span> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.
 </p>
-<p style="text-align: justify; ">The only difference—the big difference—is that the RADICAL system is centered around our interdependence.
+<p style="text-align: justify; ">The only difference—the big difference—is that the <span style="font-size: smaller; ">RADICAL</span> system is centered around our interdependence.
 </p>
 <p style="text-align: justify; ">Our current system is based on separating us: countries, towns, good and bad neighborhoods; political parties and their vastly different realities; need to know, secrecy, protection. This leaves us disconnected and drives us to isolation. Businesses are built on creating platforms to bring us back together, for a fee. This works for a world where money comes first, ahead of everything else.
 </p>
-<p style="text-align: justify; ">A RADICAL world, too, is centered around accomplishments and real innovation, but it prioritizes what’s important to people first, ahead of everything else, including money. We’ll still be individuals, with our own needs, rights, and idiosyncrasies. We are not going to become a number. The RADICAL model is centered on trust, the type that comes from community and collaboration.
+<p style="text-align: justify; ">A <span style="font-size: smaller; ">RADICAL</span> world, too, is centered around accomplishments and real innovation, but it prioritizes what’s important to people first, ahead of everything else, including money. We’ll still be individuals, with our own needs, rights, and idiosyncrasies. We are not going to become a number. The <span style="font-size: smaller; ">RADICAL</span> model is centered on trust, the type that comes from community and collaboration.
 </p>
 
- <h3>The RADICAL Model</h3>
- <p style="text-align: justify; ">We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands telling people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it. Here we assume a RADICAL world that is, at the same time, alike and different from our world today.
+ <h3>The <span style="font-size: smaller; ">RADICAL</span> Model</h3>
+ <p style="text-align: justify; ">We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands telling people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it. Here we assume a <span style="font-size: smaller; ">RADICAL</span> world that is, at the same time, alike and different from our world today.
  </p>
- <p style="text-align: justify; ">In the RADICAL model, a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word “company” because it has an interesting genesis: it comes from the Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means “together, with” and <em>pan</em> means “bread, food.” At its root, then, <em>company</em> means “people who break bread together.” In the RADICAL model a company is a community of people who come together to contribute broad value to society and make an impact on the world.
+ <p style="text-align: justify; ">In the <span style="font-size: smaller; ">RADICAL</span> model, a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word “company” because it has an interesting genesis: it comes from the Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means “together, with” and <em>pan</em> means “bread, food.” At its root, then, <em>company</em> means “people who break bread together.” In the <span style="font-size: smaller; ">RADICAL</span> model a company is a community of people who come together to contribute broad value to society and make an impact on the world.
  </p>
- <p style="text-align: justify; ">Rather than having an owner and a hierarchy of bosses, a RADICAL company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.
+ <p style="text-align: justify; ">Rather than having an owner and a hierarchy of bosses, a <span style="font-size: smaller; ">RADICAL</span> company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.
  </p>
  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; "><img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
  </p>
@@ -161,7 +161,7 @@ image:    "en-vacant-lot-henry-george.svg"
  </table>
 
  <h3>Evolution</h3>
- <p style="text-align: justify; ">As I see it, the RADICAL model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup>
+ <p style="text-align: justify; ">As I see it, the <span style="font-size: smaller; ">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup>
  </p>
  <p style="text-align: justify; ">The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of interdependence towards a higher level of collaboration.
  </p>
@@ -171,6 +171,8 @@ image:    "en-vacant-lot-henry-george.svg"
 <br>
 
 <h1 style="text-align: center;">Appendices</h1>
+<br>
+<h3>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h3>
 <h2>Terminology</h2>
  <h3>Common Good</h3>
  <p style="text-align: justify; ">A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.
@@ -180,7 +182,7 @@ image:    "en-vacant-lot-henry-george.svg"
  <p style="text-align: justify; ">Common goods, like a park, would have an infinite value and so no big can possibly top it. The particular community can retire a common good and open it to bids. The mechanism for doing so is up to community politics, and generally it may look like this,
  </p>
  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="/assets/img/en-all-politics.svg" alt="Three circles: the left-most is labeled LAND OPEN FOR BIDS. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes into a bigger circle labeled COMMON GOOD. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes to a smaller circle labeled LAND OPEN FOR BIDS." title="Common Goods and Politics">
- <p style="text-align: justify; ">A community may denominate not enough or a whole lot of land in the “common good” category. The community will literally prosper or not by those kinds of decisions. The RADICAL model decentralizing principle gives the people most immediately affected a strong voice in the process.
+ <p style="text-align: justify; ">A community may denominate not enough or a whole lot of land in the “common good” category. The community will literally prosper or not by those kinds of decisions. The <span style="font-size: smaller; ">RADICAL</span> model decentralizing principle gives the people most immediately affected a strong voice in the process.
  </p>
  <h3>Hyper-local Community</h3>
  <p style="text-align: justify; ">The community that is literally adjacent to the land in question. This includes communities that are physically close and those which are logically close.
@@ -208,9 +210,6 @@ image:    "en-vacant-lot-henry-george.svg"
 <h1 style="text-align: center;">FAQ</h1>
 <br>
 <h3>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h3>
-
-<br>
-<br>
 
 <h1 style="text-align: center;">Related</h1>
 <ul>
