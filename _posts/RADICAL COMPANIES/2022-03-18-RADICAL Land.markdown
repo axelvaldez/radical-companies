@@ -12,7 +12,7 @@ image:    "en-vacant-lot-henry-george.svg"
 <br>
 
 <div class="prettyprint" style="font-size: 30px; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; white-space: normal; ">
- <pre style="text-align: center; ">&ldquo;I am in favor of cutting up the wild lands into parcels,<br><em>so that every poor man may have a home</em>.&rdquo;
+ <pre style="text-align: center; ">&ldquo;I am in favor of cutting up<br>the wild lands into parcels,<br><em>so that every poor man may have a home</em>.&rdquo;
  </pre>
 
  <pre style="text-align: right; ">&mdash; Abraham Lincoln<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>
