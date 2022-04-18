@@ -11,13 +11,13 @@ image:    "en-vacant-lot-henry-george.svg"
 <br>
 <br>
 
-<div class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; ">
- <pre>&ldquo;… in so far as Government lands can be disposed of,
+<div class="prettyprint">
+ <pre style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; ">&ldquo;… in so far as Government lands can be disposed of,
 I am in favor of cutting up the wild lands into parcels,
 <em>so that every poor man may have a home</em>.
  </pre>
 
- <pre style="text-align: right; ">&mdash; Abraham Lincoln&rdquo;<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>
+ <pre style="text-align: right; ">&mdash; Abraham Lincoln<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>
  </pre>
 </div>
 
