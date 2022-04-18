@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "RADICAL Land: thriving of local communities "
+title:    "RADICAL Land: local communities thriving"
 subtitle: "A Salute to Henry George"
 authors:  "Matt Perez"
 image:    "en-vacant-lot-henry-george.svg"
