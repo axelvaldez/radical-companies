@@ -321,7 +321,7 @@ higher level of collaboration.
 <br>
 <br>
 
-<h1 style="text-align: center;">FAQ</h1>
+<h2 style="text-align: center;">FAQ</h2>
  <br>
  <h3>Question?</h3>
  <p>Answer!</p>
@@ -330,7 +330,7 @@ higher level of collaboration.
 <br>
 <br>
 
-<h1 style="text-align: center;">RELATED</h1>
+<h2 style="text-align: center;">RELATED</h2>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
@@ -387,7 +387,7 @@ higher level of collaboration.
 <br>
 <br>
 
-<h1 style="text-align: center; ">ENDNOTES</h1>
+<h2 style="text-align: center; ">ENDNOTES</h2>
 <br>
 <div class="endnotes">
   <ol>
