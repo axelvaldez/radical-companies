@@ -212,7 +212,7 @@ They do this starting from a simple foundation of interdependence,
   </tr>
   <tr>
    <td style="vertical-align: text-top; padding-right: 6px; text-align: right;"><strong>Not so Happy Ending</strong></td>
-   <td>BenCO has retired only wo thirds of the minted <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s by the third year. It does retire all 30,000 <span style="font-size: smaller; ">COIN</span>
+   <td>BenCO has retired only wo thirds of the minted <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s by the third year. It does retire all 30,000 <span style="font-size: smaller; ">COIN</span>s</td>
   </tr>
   <tr>
    <td style="vertical-align: text-top; padding-right: 6px; text-align: right;"><strong>Unhappy Ending</strong></td>
