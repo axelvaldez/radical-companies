@@ -101,9 +101,6 @@ They do this starting from a simple foundation of interdependence,
 </p>
 <table align="center">
  <tr>
-  <td colspan="4">&nbsp;</td>
- </tr>
- <tr>
   <td valign="middle" style="text-align: right; ">principles&nbsp;&nbsp;</td>
   <td style="text-align: center; background-color: lightgrey; ">Meaning &<br>Belonging</td>
   <td valign="middle" style="font-size: larger; "> ⬈</td>
