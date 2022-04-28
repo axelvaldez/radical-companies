@@ -12,7 +12,7 @@ image:    "10-progressive-org-structures.png"
 <h3>Common Denominator: Owner-Boss</h3>
 <p>
 In a recent Corporate Rebels post, Joost Minaar identifies <a
-href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid=0df9a3a5c7&mc_eid=eb36a9b4c1">ten progressive organizational structures</a>. Except one, the rest : an owner-boss.
+href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid=0df9a3a5c7&mc_eid=eb36a9b4c1">ten progressive organizational structures</a>. Except for one, the rest one thing in common: an owner-boss.
 </p>
 <table>
   <tr>
@@ -65,16 +65,12 @@ writing happens to be <a href="https://en.wikipedia.org/wiki/Leader_of_the_Chine
    </td>
   </tr>
   <tr>
-   <td>9. Mini-Factories<p>FAVI</p>
-   </td>
-   <td>“… in 2009, the organization returned to more traditional modes of management,” following the departure of the benevolent boss.
-   </td>
+   <td>9. Mini-Factories<p>FAVI</p></td>
+   <td>“&hellip; in 2009, the organization returned to more traditional modes of management,” following the departure of the benevolent boss.</td>
   </tr>
   <tr>
-   <td>10. Squads<p>Spotify</p>
-   </td>
-   <td>Squads are nice, but the owner-boss (<em>i.e.</em>, Board and CEO) can change or sell the organization at any time.
-   </td>
+   <td>10. Squads<p>Spotify</p></td>
+   <td>Squads are nice, but the owner-boss (<em>i.e.</em>, Board and CEO) can change or sell the organization at any time.</td>
   </tr>
 </table>
 <h3>Co-Ownership Means Permanence</h3>
