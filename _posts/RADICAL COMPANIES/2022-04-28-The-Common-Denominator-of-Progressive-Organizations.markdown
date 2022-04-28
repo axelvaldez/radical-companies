@@ -31,7 +31,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   3
   <tr>
-   <td>4. Chains<p>Irizar</td>p></td>
+   <td>4. Chains<p>Irizar</p></td>
    <td>Returned to a FIAT hierarchical model following the departure of its benevolent boss.</td>
   </tr>
   4
