@@ -67,7 +67,7 @@ writing happens to be <a href="https://en.wikipedia.org/wiki/Leader_of_the_Chine
   </tr>
   10
 </table>
-<h3>Co-Ownership Gives Co-Management Permanence</h3>
+<h3>Co-Ownership + Co-Management = Permanence</h3>
 <p>It is good, in fact, that these companies have experimented with some form of alternative organizational model&mdash;it shows that alternative models work and we don’t <em>need</em> the FIAT hierarchical system we buckle under. Unfortunately, co-management is transitory and doesn’t last when it comes as a gift from above: when the benevolent owner exits, that’s the end of it.
 </p>
 <p>For a permanent alternative to our current system <em>co-management</em> must be accompanied by <em>decentralized ownership</em> or <em>co-ownership</em>.
