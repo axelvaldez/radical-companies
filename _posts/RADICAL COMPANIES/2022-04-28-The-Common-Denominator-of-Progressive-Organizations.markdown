@@ -19,43 +19,53 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td>1. Amoebas<p>Kyocera</p></td>
    <td>Has a Board and CEO and FIAT hierarchy and has rolled up many other businesses.</td>
   </tr>
+  1
   <tr>
    <td>2. Cells<p>BSO/Origin</p></td>
    <td>Was sold by its owner-boss and reverted to FIAT hierarchical management.</td>
   </tr>
+  2
   <tr>
    <td>3. Circles<p>Endenburg</d>p></td>
    <td>Was sold by its owner-boss and it’s now under FIAT management.</td>
   </tr>
+  3
   <tr>
    <td>4. Chains<p>Irizar</td>p></td>
    <td>Returned to a FIAT hierarchical model following the departure of its benevolent boss.</td>
   </tr>
+  4
   <tr>
    <td>5. Fractals<p>VISA</p></td>
    <td>“VISA eventually abandoned the <em>fractal</em> structure when it restructured itself into a more traditional company.”</td>
   </tr>
+  5
   <tr>
    <td>6. Honeycombs<p>AES</p></td>
    <td>“… AES eventually reverted to more conventional management approaches,” following the departure of the benevolent boss.</td>
   </tr>
+  6
   <tr>
    <td>7. Lattice<p>WL Gore</p></td>
    <td>This is the exception. It has a CEO and other “entitled” positions required by the US legal system, but they are elected.</td>
   </tr>
+  7
   <tr>
    <td>8. Micro-communities<p>Haier</p></td>
    <td>The benevolent boss, and his generous Rendanheyi system, will last for as long as he’s on the right side of the ultimate ultimate boss, which as of this
 writing happens to be <a href="https://en.wikipedia.org/wiki/Leader_of_the_Chinese_Communist_Party">Xi Jinping</a>.</td>
   </tr>
+  8
   <tr>
    <td>9. Mini-Factories<p>FAVI</p></td>
    <td>“&hellip; in 2009, the organization returned to more traditional modes of management,” following the departure of the benevolent boss.</td>
   </tr>
+  9
   <tr>
    <td>10. Squads<p>Spotify</p></td>
    <td>Squads are nice, but the owner-boss (<em>i.e.</em>, Board and CEO) can change or sell the organization at any time.</td>
   </tr>
+  10
 </table>
 <h3>Co-Ownership Means Permanence</h3>
 <p>It is good, in fact, that these companies have experimented with some form of alternative organizational model—it shows that alternative models work and we
