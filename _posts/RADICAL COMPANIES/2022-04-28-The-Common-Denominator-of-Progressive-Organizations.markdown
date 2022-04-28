@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "en-alignment.svg"
 ---
 
-<div style="display: none;">Co-management is nice but it is fragile by itself. We must have co-ownership to give it permanence.</div>
+<div style="display: none;">Co-management is a step away from the <span style="font-size: smaller; ">FIAT</span> hierarchy, but it is fragile by itself. We must have co-ownership to give it permanence.</div>
 
 
 <h3>Common Denominator: Owner-Boss</h3>
