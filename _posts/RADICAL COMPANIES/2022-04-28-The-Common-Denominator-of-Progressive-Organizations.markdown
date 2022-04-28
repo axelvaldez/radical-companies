@@ -26,7 +26,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   2
   <tr>
-   <td>3. Circles<p>Endenburg</d>p></td>
+   <td>3. Circles<p>Endenburg</p></td>
    <td>Was sold by its owner-boss and it’s now under FIAT management.</td>
   </tr>
   3
