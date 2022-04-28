@@ -6,8 +6,8 @@ authors:  "Matt Perez"
 image:    "en-alignment.svg"
 ---
 
-<div style="display: none;">Unpolished thoughts about national governments in a RADICAL world.</div>
 
+<div style="display: none;">Unpolished thoughts about national governments in a <span style="font-size: smaller; ">RADICAL</span world.</div>
 <div> <!-- Opening Quotes -->
  <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; white-space: normal; ">If the land-value tax were adopted as the sole means of raising [USA] government revenue, it would have funded [in 2009] less than half of the federal budget, and none of the budgets of all 50 states and thousands of cities, towns, and counties.<sup id="fnref1"><a href="#fn1" rel="endnotes">1</a></sup></pre>
  <br>
