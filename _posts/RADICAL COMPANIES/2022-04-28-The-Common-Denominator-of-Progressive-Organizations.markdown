@@ -3,7 +3,7 @@ layout:   post
 title:    "The Common Denominator of “Progressive” Organizations"
 subtitle: "Co-Ownership Is a Must"
 authors:  "Matt Perez"
-image:    "https://corporate-rebels.com/CDN/4457-1140x0.png"
+image:    "10-progressive-org-structures.png"
 ---
 
 <div style="display: none;">Co-management is a step away from the <span style="font-size: smaller; ">FIAT</span> hierarchy, and that's good. However, co-management by itself is only temporary: we must have co-ownership to give it permanence.</div>
