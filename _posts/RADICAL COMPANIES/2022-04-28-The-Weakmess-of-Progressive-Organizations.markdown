@@ -16,7 +16,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
 
 <table style="margin-left:auto; margin-right:auto; vertical-align:text-top; ">
   <tr>
-   <th colspan="3" style="text-align:right; ">AMOEBAS</th>
+   <th colspan="3" style="text-align:right; background-color: #ddd; ">AMOEBAS</th>
    <th></th>
   </tr>
   <tr>
