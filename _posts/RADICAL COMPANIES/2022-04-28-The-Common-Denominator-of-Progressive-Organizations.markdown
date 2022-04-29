@@ -51,8 +51,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">Irizar</td>
-   <td style="border-right: 1px black solid; padding-left: 1em; "></td>
-   <td style="border-left: 1px black solid; padding-right: 1em; "></td>
+   <td style="border-right: 1px black solid; padding-left: 1em; width: 1%; "></td>
+   <td style="border-left: 1px black solid; padding-right: 1em; width: 1%; "></td>
    <td>Returned to a <span style="font-size: smaller; ">FIAT</span> hierarchical model following the departure of its benevolent boss.</td>
   </tr>
   <tr>
