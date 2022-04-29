@@ -101,8 +101,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">FAVI</td>
-   <td style="border-right: 1px black solid; padding-left: 1em; "></td>
-   <td style="border-left: 1px black solid; padding-right: 1em; "></td>
+   <td style="border: 1px black solid; padding-left: 1em; "></td>
+   <td style="border: 1px black solid; padding-right: 1em; "></td>
    <td>“&hellip; in 2009, the organization returned to more traditional modes of management,” following the departure of the benevolent boss.</td>
   </tr>
   <tr>
