@@ -16,27 +16,27 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
 
 <table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
   <tr>
-   <th></th>
+   <th>x</th>
    <th colspan="3" style="text-align: left; ">AMOEBAS</th>
   </tr>
 </table>
 <table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">Kyocera</td>
-   <td style="border-right: 1px black solid; padding-left: 1em; "></td>
-   <td style="border-left: 1px black solid; padding-right: 1em; "></td>
+   <td style="border-right: 1px black solid; padding-left: 1em; ">x</td>
+   <td style="border-left: 1px black solid; padding-right: 1em; ">x</td>
    <td style="width: 80%; ">It has an owner-boss (<em>i.e.</em>, a Board and CEO).</td>
   </tr>
 </table>
 <table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
   <tr>
-   <td></td>
+   <td>x</td>
    <th colspan="3" style="text-align: left; ">CELLS</th>
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">BSO/Origin</td>
-   <td style="border-right: 1px black solid; padding-left: 1em; "></td>
-   <td style="border-left: 1px black solid; padding-right: 1em; "></td>
+   <td style="border-right: 1px black solid; padding-left: 1em; ">x</td>
+   <td style="border-left: 1px black solid; padding-right: 1em; ">x</td>
    <td style="width: 80%; ">Was sold by its owner-boss and reverted to <span style="font-size: smaller; ">FIAT</span> hierarchical management.</td>
   </tr>
 </table>
