@@ -313,18 +313,17 @@ higher level of collaboration.
 <br>
 <br>
 
+<!--
 <h1 style="text-align: center; ">Appendices</h1>
 <br>
 
-<!--
+
 <h2 style="text-align: center; ">Terminology</h2>
 <br>
--->
 
 <br>
 <br>
 
-<!--
 <h2 style="text-align: center; ">FAQ</h2>
  <br>
  <h3>Q</h3>
