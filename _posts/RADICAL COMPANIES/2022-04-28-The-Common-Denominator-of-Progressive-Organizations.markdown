@@ -90,7 +90,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <th></th>
   </tr>
   <tr>
-   <td style="vertical-align: text-top; text-align: right; ">Haier</td>
+   <td style="vertical-align: text-top; text-align: right; width: 10px; ">Haier</td>
    <td style="padding-left: 1ex; width: 1ex; "></td>
    <td style="padding-right: 1ex; width: 1ex; border-left: 1pm black solid; "></td>
    <td>The benevolent boss, and his generous Rendanheyi system, will last for as long as he’s on the right side of the ultimate ultimate boss, which as of this writing happens to be <a href="https://en.wikipedia.org/wiki/Leader_of_the_Chinese_Communist_Party">Xi Jinping</a>.</td>
