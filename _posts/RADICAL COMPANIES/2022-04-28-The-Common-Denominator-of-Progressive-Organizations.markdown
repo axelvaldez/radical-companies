@@ -14,7 +14,7 @@ image:    "10-progressive-org-structures.png"
 href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid=0df9a3a5c7&mc_eid=eb36a9b4c1">ten progressive organizational structures</a>. Except for one, Lattice/WL Gore, the rest one thing in common: an owner-boss.
 </p>
 
-<table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
+<table style="margin-left: auto; margin-right: auto; vertical-align: text-top; ">
   <tr>
    <th></th>
    <th colspan="3" style="text-align: ">AMOEBAS</th>
