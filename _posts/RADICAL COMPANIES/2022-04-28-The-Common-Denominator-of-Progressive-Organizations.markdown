@@ -21,8 +21,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr style="border: 1px blue solid;">
    <td style="vertical-align: text-top; text-align: right; ">Kyocera</td>
-   <td style="padding-left: 1em; width: 10px; ">a</td>
-   <td style="padding-right: 1em; width: 10px; border: 1px black solid; ">b</td>
+   <td style="padding-left: 1en; width: 10px; ">a</td>
+   <td style="padding-right: 1en; width: 10px; border: 1px black solid; ">b</td>
    <td>It has an owner-boss (<em>i.e.</em>, a Board and CEO).</td>
   </tr>
   <tr>
@@ -31,8 +31,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr style="border: 1px blue solid;">
    <td style="vertical-align: text-top; text-align: right; ">BSO/Origin</td>
-   <td style="padding-left: 1em; width: 10px; ">c</td>
-   <td style="padding-right: 1em; width: 10px; border: 1px black solid; ">d</td>
+   <td style="padding-left: 1en; width: 10px; ">c</td>
+   <td style="padding-right: 1en; width: 10px; border: 1px black solid; ">d</td>
    <td>Was sold by its owner-boss and reverted to <span style="font-size: smaller; ">FIAT</span> hierarchical management.</td>
   </tr>
 </table>
