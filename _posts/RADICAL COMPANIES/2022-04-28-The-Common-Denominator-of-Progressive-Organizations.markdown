@@ -107,7 +107,6 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td>“&hellip; in 2009, the organization returned to more traditional modes of management,” following the departure of the benevolent boss.</td>
   </tr>
-<!--
   <tr>
    <th></th>
    <th colspan="3" style="text-align: left; ">SQUADS</th>
@@ -116,10 +115,9 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="vertical-align: text-top; text-align: right; ">Spotify</td>
    <td style="border-right: 1px black solid; padding-left: 1em; "></td>
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
-   <td>Squads are nice, but the owner-boss (<em>i.e.</em>, Board and CEO) can change or sell the organization at any time.</td>
+   <td><!--Squads are nice, but the owner-boss (<em>i.e.</em>, Board and CEO) can change or sell the organization at any time.--></td>
   </tr>
 </table>
--->
 <br>
 
 <h2>Co-Ownership + Co-Management = Robustness</h2>
