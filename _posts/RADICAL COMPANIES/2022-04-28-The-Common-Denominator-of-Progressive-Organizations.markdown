@@ -28,7 +28,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
 
   <tr>
    <td style="width: 30%; "></td>
-   <th colspan="2" style="text-align: center; ">CELLS</th>
+   <th colspan="2" style="text-align: left; ">CELLS</th>
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">BSO/Origin</td>
@@ -38,7 +38,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="width: 30%; "></td>
-   <th colspan="2" style="text-align: center; ">CIRCLES</th>
+   <th colspan="2" style="text-align: left; ">CIRCLES</th>
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">Endenburg</td>
@@ -48,7 +48,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="width: 30%; "></td>
-   <th colspan="2" style="text-align: center; ">CHAINS</th>
+   <th colspan="2" style="text-align: left; ">CHAINS</th>
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">Irizar</td>
@@ -58,7 +58,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="width: 30%; "></td>
-   <th colspan="2" style="text-align: center; ">FRACTALS</th>
+   <th colspan="2" style="text-align: left; ">FRACTALS</th>
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">VISA</td>
@@ -68,7 +68,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="width: 30%; "></td>
-   <th colspan="2" style="text-align: center; ">HONEYCOMBS</th>
+   <th colspan="2" style="text-align: left; ">HONEYCOMBS</th>
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">AES</td>
@@ -78,7 +78,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="width: 30%; "></td>
-   <th colspan="2" style="text-align: center; ">LATTICE</th>
+   <th colspan="2" style="text-align: left; ">LATTICE</th>
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">WL Gore</td>
@@ -88,7 +88,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="width: 30%; "></td>
-   <th colspan="2" style="text-align: center; ">MICRO-COMMUNITIES</th>
+   <th colspan="2" style="text-align: left; ">MICRO-COMMUNITIES</th>
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">Haier</td>
@@ -98,7 +98,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="width: 30%; "></td>
-   <th colspan="2" style="text-align: center; ">MINI-FACTORIES</th>
+   <th colspan="2" style="text-align: left; ">MINI-FACTORIES</th>
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">FAVI</td>
@@ -108,7 +108,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="width: 30%; "></td>
-   <th colspan="2" style="text-align: center; ">SQUADS</th>
+   <th colspan="2" style="text-align: left; ">SQUADS</th>
   </tr>
    <td style="vertical-align: text-top; text-align: right; ">Spotify</td>
    <td style="border-right: 1px black solid; padding-left: 1em; "></td>
