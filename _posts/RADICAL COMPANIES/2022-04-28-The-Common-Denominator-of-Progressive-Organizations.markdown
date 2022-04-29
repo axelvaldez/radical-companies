@@ -16,43 +16,65 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
 </p>
 <table>
   <tr>
-   <td>1. Amoebas<p>Kyocera</p></td>
+   <td colspan="2">AMOEBAS</td>
+  </tr>
+  <tr>
+   <td>Kyocera</td>
    <td>Has a Board and CEO and FIAT hierarchy and has rolled up many other businesses.</td>
   </tr>
   <tr>
-   <td>2. Cells<p>BSO/Origin</p></td>
+   <td colspan="2">CELLS</td>
+  </tr>
+  <tr>
+   <td>BSO/Origin</td>
    <td>Was sold by its owner-boss and reverted to FIAT hierarchical management.</td>
   </tr>
   <tr>
-   <td>3. Circles<p>Endenburg</p></td>
+   <td colspan="2">CIRCLES</td>
+  </tr>
+  <tr>
+   <td>Endenburg</td>
    <td>Was sold by its owner-boss and it’s now under FIAT management.</td>
   </tr>
   <tr>
-   <td>4. Chains<p>Irizar</p></td>
+   <td colspan="2">CHAINS</td>
+  </tr>
+  <tr>
+   <td>Irizar</td>
    <td>Returned to a FIAT hierarchical model following the departure of its benevolent boss.</td>
   </tr>
   <tr>
-   <td>5. Fractals<p>VISA</p></td>
+   <td colspan="2">FRACTALS</td>
+  </tr>
+  <tr>
+   <td>VISA</td>
    <td>“VISA eventually abandoned the <em>fractal</em> structure when it restructured itself into a more traditional company.”</td>
   </tr>
   <tr>
-   <td>6. Honeycombs<p>AES</p></td>
+   <td colspan="2">HONEYCOMBS</td>
+  </tr>
+  <tr>
+   <td>AES</td>
    <td>“… AES eventually reverted to more conventional management approaches,” following the departure of the benevolent boss.</td>
   </tr>
   <tr>
-   <td>7. Lattice<p>WL Gore</p></td>
+   <td colspan="2">LATTICE</td>
+   <td>WL Gore</td>
    <td>This is the exception. It has a CEO and other “entitled” positions required by the US legal system, but they are elected.</td>
   </tr>
   <tr>
-   <td>8. Micro-communities<p>Haier</p></td>
+   <td colspan="2">MICRO-COMMUNITIES</td>
+   <td>Haier</td>
    <td>The benevolent boss, and his generous Rendanheyi system, will last for as long as he’s on the right side of the ultimate ultimate boss, which as of this writing happens to be <a href="https://en.wikipedia.org/wiki/Leader_of_the_Chinese_Communist_Party">Xi Jinping</a>.</td>
   </tr>
   <tr>
-   <td>9. Mini-Factories<p>FAVI</p></td>
+   <td colspan="2">MINI-FACTORIES</td>
+   <td>FAVI</td>
    <td>“&hellip; in 2009, the organization returned to more traditional modes of management,” following the departure of the benevolent boss.</td>
   </tr>
   <tr>
-   <td>10. Squads<p>Spotify</p></td>
+   <td colspan="2">SQUADS</td>
+   <td>Spotify</td>
    <td>Squads are nice, but the owner-boss (<em>i.e.</em>, Board and CEO) can change or sell the organization at any time.</td>
   </tr>
 </table>
