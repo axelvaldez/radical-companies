@@ -55,8 +55,6 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="padding-right: 1ex; width: 1ex; ">x</td>
    <td>Returned to a <span style="font-size: smaller; ">FIAT</span> hierarchical model following the departure of its benevolent boss.</td>
   </tr>
-</table>
-<table style="margin-left: auto; margin-right: auto; vertical-align: text-top; ">
   <tr>
    <th colspan="3" style="text-align: right; ">FRACTALS</th>
    <th></th>
