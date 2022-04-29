@@ -86,7 +86,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td>This is the exception. It has a CEO and other “entitled” positions required by the US legal system, but they are elected.</td>
   </tr>
   <tr>
-   <th colspan="3" style="text-align:right; width:30%; ">MICRO-COMMUNITIES</th>
+   <th colspan="3" style="text-align:right; width:30%; ">xMICRO-COMMUNITIES</th>
    <th></th>
   </tr>
   <tr>
