@@ -158,26 +158,25 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <li><a href="https://docs.google.com/document/d/16eg7wnyH61xPT4pWFWsuwHydKaxeP8k5xKGX3Pglzp0/edit#heading=h.gqizizpnpgzu">rStayHome</a></li>
    <li><a href="https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu">KidsCare</a></li>
   </ul>
- </li>
-</ul>
-<li>Startups</li>
- <ul>
-  <li><a href="https://docs.google.com/document/d/1lE-khYtIyXoFeSIlUGcFPzESsslnBoGcmZMQaeVBVgw/edit#">rBuddyNeighbor</a></li>
-  <li><a href="https://docs.google.com/document/d/16jST0lzzezNoFstE2ccZoI2HirgWBu3gQGnEok5OhGY/edit#">rNextBright</a></li>
-  <li><a href="https://docs.google.com/document/d/1dMxsO5LMhKle97J8tPscBs5g64_QKZsiRnDtsccBUE4/edit#heading=h.gqizizpnpgzu">rHintersoft</a></li>
  </ul>
- <li>rProjects</li>
- <ul>
-  <li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a></li>
-  <li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
-  <li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a></li>
- </ul>
- <li>rFiction</li>
- <ul>
+ <li>Startups</li>
+  <ul>
+   <li><a href="https://docs.google.com/document/d/1lE-khYtIyXoFeSIlUGcFPzESsslnBoGcmZMQaeVBVgw/edit#">rBuddyNeighbor</a></li>
+   <li><a href="https://docs.google.com/document/d/16jST0lzzezNoFstE2ccZoI2HirgWBu3gQGnEok5OhGY/edit#">rNextBright</a></li>
+   <li><a href="https://docs.google.com/document/d/1dMxsO5LMhKle97J8tPscBs5g64_QKZsiRnDtsccBUE4/edit#heading=h.gqizizpnpgzu">rHintersoft</a></li>
+  </ul>
+  <li>rProjects</li>
+  <ul>
+   <li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a></li>
+   <li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
+   <li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a></li>
+  </ul>
+  <li>rFiction</li>
+  <ul>
   <li>AND THEN THEY WANT TO BURN YOU</li>
-   <ul>
-    <li>EPISODE 01 – First of Earth <<a href="https://radicals.world/sPzTII">https://radicals.world/sPzTII</a></li>
-    <li>EPISODE 11 – The FIAT Enclaves <<a href="https://radicals.world/KW4xmO">https://radicals.world/KW4xmO</a></li>
- </ul>
- <li>RADICAL Ferengi <<a href="https://radicals.world/fHIfqD">https://radicals.world/fHIfqD</a></li>
+  <ul>
+   <li>EPISODE 01 – First of Earth <<a href="https://radicals.world/sPzTII">https://radicals.world/sPzTII</a></li>
+   <li>EPISODE 11 – The FIAT Enclaves <<a href="https://radicals.world/KW4xmO">https://radicals.world/KW4xmO</a></li>
+  </ul>
+  <li>RADICAL Ferengi <<a href="https://radicals.world/fHIfqD">https://radicals.world/fHIfqD</a></li>
  </ul>
