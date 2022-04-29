@@ -23,7 +23,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="vertical-align:text-top; text-align:right; ">Kyocera</td>
    <td style="padding-left:1ex; width:1ex; "></td>
    <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
-   <td>It has an owner-boss (<em>i.e.</em>, a Board and CEO).</td>
+   <td>It has an owner-boss (<em>i.e.</em>, a Board and CEO) who can change or sell the business at any time.</td>
   </tr>
   <tr>
    <th colspan="3" style="text-align:right; ">CELLS</th>
@@ -73,7 +73,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="vertical-align:text-top; text-align:right; ">AES</td>
    <td style="padding-left:1ex; width:1ex; "></td>
    <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
-   <td>“&hellip; AES eventually reverted to more conventional management approaches,” following the departure of the benevolent boss.</td>
+   <td>“&hellip; AES eventually reverted to " <span style="font-size:smaller; ">FIAT</span> hierarchical management following the departure of the benevolent boss.</td>
   </tr>
   <tr>
    <th colspan="3" style="text-align:right; ">LATTICE</th>
@@ -83,7 +83,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="vertical-align:text-top; text-align:right; ">WL Gore</td>
    <td style="padding-left:1ex; width:1ex; "></td>
    <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
-   <td>This is the exception. It has a CEO and other “entitled” positions required by the US legal system, but they are elected.</td>
+   <td>This is the exception. It has a CEO and other “entitled” positions required by the US legal system, but they are elected and have a limited role.</td>
   </tr>
   <tr>
    <th colspan="3" style="text-align:right; width:30%; ">MICRO-COMMUNITIES</th>
@@ -93,7 +93,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="vertical-align:text-top; text-align:right; ">Haier</td>
    <td style="padding-left:1ex; width:1ex; "></td>
    <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
-   <td>The benevolent boss, and his Rendanheyi system, will last for as long as he’s on the right side of the ultimate ultimate boss, which as of this writing happens to be <a href="https://en.wikipedia.org/wiki/Leader_of_the_Chinese_Communist_Party">Xi Jinping</a>.</td>
+   <td>The benevolent boss, and his Rendanheyi system, will last for as long as he’s on the right side of the ultimate boss, which as of this writing happens to be <a href="https://en.wikipedia.org/wiki/Leader_of_the_Chinese_Communist_Party">Xi Jinping</a>.</td>
   </tr>
   <tr>
    <th colspan="3" style="text-align:right; ">MINI-FACTORIES</th>
@@ -103,7 +103,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="vertical-align:text-top; text-align:right; ">FAVI</td>
    <td style="padding-left:1ex; width:1ex; "></td>
    <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
-   <td>“&hellip; in 2009, the organization returned to more traditional modes of management,” following the departure of the benevolent boss.</td>
+   <td>“&hellip; in 2009, the organization returned to " <span style="font-size:smaller; ">FIAT</span> hierarchical management following the departure of the benevolent boss.</td>
   </tr>
   <tr>
    <th colspan="3" style="text-align:right; ">SQUADS</th>
@@ -113,7 +113,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="vertical-align:text-top; text-align:right; ">Spotify</td>
    <td style="padding-left:1ex; width:1ex; "></td>
    <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
-   <td>Squads are nice, but the owner-boss (<em>i.e.</em>, Board and CEO) can change or sell the organization at any time.</td>
+   <td>Squads are nice, but the owner-boss (<em>i.e.</em>, Board and CEO) can change or sell the business at any time.</td>
   </tr>
 </table>
 <br>
