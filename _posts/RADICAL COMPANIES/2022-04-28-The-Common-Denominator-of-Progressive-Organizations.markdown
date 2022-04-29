@@ -19,7 +19,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <th colspan="3" style="text-align: right; ">AMOEBAS</th>
    <th></th>
   </tr>
-  <tr style="border: 1px blue solid;">
+  <tr>
    <td style="vertical-align: text-top; text-align: right; ">Kyocera</td>
    <td style="padding-left:  1ex; width: 1ex; ">x</td>
    <td style="padding-right: 1ex; width: 1ex; border-left: 1px red solid; ">x</td>
@@ -29,7 +29,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <th colspan="3" style="text-align: right; ">CELLS</th>
    <th></th>
   </tr>
-  <tr style="border: 1px blue solid;">
+  <tr>
    <td style="vertical-align: text-top; text-align: right; ">BSO/Origin</td>
    <td style="padding-left: 1ex; width: 1ex; ">x</td>
    <td style="padding-right: 1ex; width: 1ex; border-left: 1px red solid; ">x</td>
@@ -39,7 +39,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <th colspan="3" style="text-align: right; ">CIRCLES</th>
    <th></th>
   </tr>
-  <tr style="border: 1px blue solid;">
+  <tr>
    <td style="vertical-align: text-top; text-align: right; ">Endenburg</td>
    <td style="padding-left: 1ex; width: 1ex; ">x</td>
    <td style="padding-right: 1ex; width: 1ex; border-left: 1px red solid; ">x</td>
