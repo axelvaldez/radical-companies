@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "10-progressive-org-structures.png"
 ---
 
-<div style="display:none;">Co-management is a step away from the <span style="font-size:smaller; ">FIAT</span> hierarchy, and that's good. However, co-management by itself is only temporary: we must have co-ownership to give it permanence.</div>
+<div style="display:none;">Co-management is a step away from the <span style="font-size:smaller; ">FIAT</span> hierarchy, and that's good. However, by itself it doesn't last: we must have co-ownership for a robust, long-term organization.</div>
 
 
 <h2>Common Denominator: Owner-Boss</h2>
