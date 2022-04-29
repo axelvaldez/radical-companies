@@ -121,7 +121,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
 <h2>Co-Ownership + Co-Management = Robustness</h2>
 <p>It is good, in fact, that these companies have experimented with some form of alternative organizational model&mdash;it shows that alternative models work and we don’t <em>need</em> the FIAT hierarchical system we buckle under. Unfortunately, co-management is transitory and doesn’t last when it comes as a gift from above: when the benevolent owner exits, that’s the end of it.
 </p>
-<p>For a permanent alternative to our current system <em>co-management</em> must be accompanied by <em>decentralized ownership</em> or <em>co-ownership</em>.
+<p>For a robust alternative to our current system <em>co-management</em> must be accompanied by <em>decentralized ownership</em> or <em>co-ownership</em>.
 </p>
 <h2>Related</h2>
 <ul>
