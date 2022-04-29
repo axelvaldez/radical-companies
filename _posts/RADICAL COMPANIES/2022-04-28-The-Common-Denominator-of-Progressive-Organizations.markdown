@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "10-progressive-org-structures.png"
 ---
 
-<div style="display: none;">Co-management is a step away from the <span style="font-size: smaller; ">FIAT</span> hierarchy, and that's good. However, co-management by itself is only temporary: we must have co-ownership to give it permanence.</div>
+<div style="display:none;">Co-management is a step away from the <span style="font-size:smaller; ">FIAT</span> hierarchy, and that's good. However, co-management by itself is only temporary: we must have co-ownership to give it permanence.</div>
 
 
 <h2>Common Denominator: Owner-Boss</h2>
@@ -14,75 +14,75 @@ image:    "10-progressive-org-structures.png"
 href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid=0df9a3a5c7&mc_eid=eb36a9b4c1">ten progressive organizational structures</a>. Except for one, Lattice/WL Gore, the rest one thing in common: an owner-boss.
 </p>
 
-<table style="margin-left: auto; margin-right: auto; vertical-align: text-top; ">
+<table style="margin-left:auto; margin-right:auto; vertical-align:text-top; ">
   <tr>
-   <th colspan="3" style="text-align: right; ">AMOEBAS</th>
+   <th colspan="3" style="text-align:right; ">AMOEBAS</th>
    <th></th>
   </tr>
   <tr>
-   <td style="vertical-align: text-top; text-align: right; ">Kyocera</td>
-   <td style="padding-left: 1ex; width: 1ex; "></td>
-   <td style="padding-right: 1ex; width: 1ex; border-left: 1px black solid; "></td>
+   <td style="vertical-align:text-top; text-align:right; ">Kyocera</td>
+   <td style="padding-left:1ex; width:1ex; "></td>
+   <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
    <td>It has an owner-boss (<em>i.e.</em>, a Board and CEO).</td>
   </tr>
   <tr>
-   <th colspan="3" style="text-align: right; ">CELLS</th>
+   <th colspan="3" style="text-align:right; ">CELLS</th>
    <th></th>
   </tr>
   <tr>
-   <td style="vertical-align: text-top; text-align: right; ">BSO/Origin</td>
-   <td style="padding-left: 1ex; width: 1ex; "></td>
-   <td style="padding-right: 1ex; width: 1ex; border-left: 1px black solid; "></td>
-   <td>Was sold by its owner-boss and reverted to <span style="font-size: smaller; ">FIAT</span> hierarchical management.</td>
+   <td style="vertical-align:text-top; text-align:right; ">BSO/Origin</td>
+   <td style="padding-left:1ex; width:1ex; "></td>
+   <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
+   <td>Was sold by its owner-boss and reverted to <span style="font-size:smaller; ">FIAT</span> hierarchical management.</td>
   </tr>
  <tr>
-   <th colspan="3" style="text-align: right; ">CIRCLES</th>
+   <th colspan="3" style="text-align:right; ">CIRCLES</th>
    <th></th>
   </tr>
   <tr>
-   <td style="vertical-align: text-top; text-align: right; ">Endenburg</td>
-   <td style="padding-left: 1ex; width: 1ex; "></td>
-   <td style="padding-right: 1ex; width: 1ex; border-left: 1px black solid; "></td>
-   <td>Was sold by its owner-boss and it’s now under <span style="font-size: smaller; ">FIAT</span> management.</td>
+   <td style="vertical-align:text-top; text-align:right; ">Endenburg</td>
+   <td style="padding-left:1ex; width:1ex; "></td>
+   <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
+   <td>Was sold by its owner-boss and it’s now under <span style="font-size:smaller; ">FIAT</span> management.</td>
   </tr>
   <tr>
-   <th colspan="3" style="text-align: right; ">CHAINS</th>
+   <th colspan="3" style="text-align:right; ">CHAINS</th>
    <th></th>
   </tr>
   <tr>
-   <td style="vertical-align: text-top; text-align: right; ">Irizar</td>
-   <td style="padding-left: 1ex; width: 1ex; "></td>
-   <td style="padding-right: 1ex; width: 1ex; border-left: 1px black solid; "></td>
-   <td>Returned to a <span style="font-size: smaller; ">FIAT</span> hierarchical model following the departure of its benevolent boss.</td>
+   <td style="vertical-align:text-top; text-align:right; ">Irizar</td>
+   <td style="padding-left:1ex; width:1ex; "></td>
+   <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
+   <td>Returned to a <span style="font-size:smaller; ">FIAT</span> hierarchical model following the departure of its benevolent boss.</td>
   </tr>
   <tr>
-   <th colspan="3" style="text-align: right; ">FRACTALS</th>
+   <th colspan="3" style="text-align:right; ">FRACTALS</th>
    <th></th>
   </tr>
   <tr>
-   <td style="vertical-align: text-top; text-align: right; ">VISA</td>
-   <td style="padding-left: 1ex; width: 1ex; "></td>
-   <td style="padding-right: 1ex; width: 1ex; border-left: 1px black solid; "></td>
-   <td>“VISA eventually abandoned the fractal structure [and] it restructured itself into a " <span style="font-size: smaller; ">FIAT</span> hierarchical business.</td>
+   <td style="vertical-align:text-top; text-align:right; ">VISA</td>
+   <td style="padding-left:1ex; width:1ex; "></td>
+   <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
+   <td>“VISA eventually abandoned the fractal structure [and] it restructured itself into a " <span style="font-size:smaller; ">FIAT</span> hierarchical business.</td>
   </tr>
   <tr>
-   <th colspan="3" style="text-align: right; ">HONEYCOMBS</th>
+   <th colspan="3" style="text-align:right; ">HONEYCOMBS</th>
    <th></th>
   </tr>
   <tr>
-   <td style="vertical-align: text-top; text-align: right; ">AES</td>
-   <td style="padding-left: 1ex; width: 1ex; "></td>
-   <td style="padding-right: 1ex; width: 1ex; border-left: 1px black solid; "></td>
+   <td style="vertical-align:text-top; text-align:right; ">AES</td>
+   <td style="padding-left:1ex; width:1ex; "></td>
+   <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
    <td>“&hellip; AES eventually reverted to more conventional management approaches,” following the departure of the benevolent boss.</td>
   </tr>
   <tr>
-   <th colspan="3" style="text-align: right; ">LATTICE</th>
+   <th colspan="3" style="text-align:right; ">LATTICE</th>
    <th></th>
   </tr>
   <tr>
-   <td style="vertical-align: text-top; text-align: right; ">WL Gore</td>
-   <td style="padding-left: 1ex; width: 1ex; "></td>
-   <td style="padding-right: 1ex; width: 1ex; border-left: 1px black solid; "></td>
+   <td style="vertical-align:text-top; text-align:right; ">WL Gore</td>
+   <td style="padding-left:1ex; width:1ex; "></td>
+   <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
    <td>This is the exception. It has a CEO and other “entitled” positions required by the US legal system, but they are elected.</td>
   </tr>
   <tr>
@@ -90,29 +90,29 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <th></th>
   </tr>
   <tr>
-   <td style="vertical-align: text-top; text-align: right; ">Haier</td>
-   <td style="padding-left: 1ex; width: 1ex; "></td>
-   <td style="padding-right: 1ex; width: 1ex; border-left: 1px black solid; "></td>
+   <td style="vertical-align:text-top; text-align:right; ">Haier</td>
+   <td style="padding-left:1ex; width:1ex; "></td>
+   <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
    <td>The benevolent boss, and his Rendanheyi system, will last for as long as he’s on the right side of the ultimate ultimate boss, which as of this writing happens to be <a href="https://en.wikipedia.org/wiki/Leader_of_the_Chinese_Communist_Party">Xi Jinping</a>.</td>
   </tr>
   <tr>
-   <th colspan="3" style="text-align: right; ">MINI-FACTORIES</th>
+   <th colspan="3" style="text-align:right; ">MINI-FACTORIES</th>
    <th></th>
   </tr>
   <tr>
-   <td style="vertical-align: text-top; text-align: right; ">FAVI</td>
-   <td style="padding-left: 1ex; width: 1ex; "></td>
-   <td style="padding-right: 1ex; width: 1ex; border-left: 1px black solid; "></td>
+   <td style="vertical-align:text-top; text-align:right; ">FAVI</td>
+   <td style="padding-left:1ex; width:1ex; "></td>
+   <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
    <td>“&hellip; in 2009, the organization returned to more traditional modes of management,” following the departure of the benevolent boss.</td>
   </tr>
   <tr>
-   <th colspan="3" style="text-align: right; ">SQUADS</th>
+   <th colspan="3" style="text-align:right; ">SQUADS</th>
    <th></th>
   </tr>
   <tr>
-   <td style="vertical-align: text-top; text-align: right; ">Spotify</td>
-   <td style="padding-left: 1ex; width: 1ex; "></td>
-   <td style="padding-right: 1ex; width: 1ex; border-left: 1px black solid; "></td>
+   <td style="vertical-align:text-top; text-align:right; ">Spotify</td>
+   <td style="padding-left:1ex; width:1ex; "></td>
+   <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
    <td>Squads are nice, but the owner-boss (<em>i.e.</em>, Board and CEO) can change or sell the organization at any time.</td>
   </tr>
 </table>
