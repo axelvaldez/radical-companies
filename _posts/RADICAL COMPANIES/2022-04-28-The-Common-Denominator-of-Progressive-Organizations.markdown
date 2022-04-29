@@ -14,9 +14,9 @@ image:    "10-progressive-org-structures.png"
 In a recent Corporate Rebels post, Joost Minaar identifies <a
 href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid=0df9a3a5c7&mc_eid=eb36a9b4c1">ten progressive organizational structures</a>. Except for one, the rest one thing in common: an owner-boss.
 </p>
-<table>
+<table style="horizontal-align: center;">
   <tr style="vertical-align: text-top; ">
-   <td colspan="2" style="horizontal-align: text-acenter; ">AMOEBAS</td>
+   <td colspan="2" style="horizontal-align: text-center; ">AMOEBAS</td>
   </tr>
   <tr>
    <td style="width: 20%; vertical-align: text-top; ">Kyocera</td>
