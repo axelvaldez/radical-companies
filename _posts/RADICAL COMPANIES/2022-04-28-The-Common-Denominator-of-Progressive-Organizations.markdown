@@ -15,7 +15,7 @@ In a recent Corporate Rebels post, Joost Minaar identifies <a
 href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid=0df9a3a5c7&mc_eid=eb36a9b4c1">ten progressive organizational structures</a>. Except for one, the rest one thing in common: an owner-boss.
 </p>
 <table>
-  <tr>
+  <tr style="vertical-align: text-top; ">
    <td colspan="2">AMOEBAS</td>
   </tr>
   <tr>
