@@ -35,8 +35,6 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="padding-right: 1ex; width: 1ex; border-left: 1px red solid; ">x</td>
    <td>Was sold by its owner-boss and reverted to <span style="font-size: smaller; ">FIAT</span> hierarchical management.</td>
   </tr>
-</table>
-<table style="margin-left: auto; margin-right: auto; vertical-align: text-top; ">
  <tr>
    <th colspan="3" style="text-align: left; ">CIRCLES</th>
    <th></th>
@@ -47,6 +45,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="padding-right: 1ex; width: 1ex; border-left: 1px red solid; ">x</td>
    <td>Was sold by its owner-boss and it’s now under <span style="font-size: smaller; ">FIAT</span> management.</td>
   </tr>
+</table>
+<table style="margin-left: auto; margin-right: auto; vertical-align: text-top; ">
   <tr>
    <th colspan="3" style="text-align: left; ">CHAINS</th>
    <th></th>
