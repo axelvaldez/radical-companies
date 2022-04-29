@@ -22,7 +22,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   <tr style="border: 1px blue solid;">
    <td style="vertical-align: text-top; text-align: right; ">Kyocera</td>
    <td style="padding-left:  1ex; width: 1ex; ">x</td>
-   <td style="padding-right: 1ex; width: 1ex; border-left: 1px black solid; ">x</td>
+   <td style="padding-right: 1ex; width: 1ex; border-left: 1px red solid; ">x</td>
    <td>It has an owner-boss (<em>i.e.</em>, a Board and CEO).</td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   <tr style="border: 1px blue solid;">
    <td style="vertical-align: text-top; text-align: right; ">BSO/Origin</td>
    <td style="padding-left: 1ex; width: 1ex; ">x</td>
-   <td style="padding-right: 1ex; width: 1ex; border-left: 1px black solid; ">x</td>
+   <td style="padding-right: 1ex; width: 1ex; border-left: 1px red solid; ">x</td>
    <td>Was sold by its owner-boss and reverted to <span style="font-size: smaller; ">FIAT</span> hierarchical management.</td>
   </tr>
 </table>
@@ -44,7 +44,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   <tr style="border: 1px blue solid;">
    <td style="vertical-align: text-top; text-align: right; ">Endenburg</td>
    <td style="padding-left: 1ex; width: 1ex; ">x</td>
-   <td style="padding-right: 1ex; width: 1ex; border-left: 1px black solid; ">x</td>
+   <td style="padding-right: 1ex; width: 1ex; border-left: 1px red solid; ">x</td>
    <td>Was sold by its owner-boss and it’s now under <span style="font-size: smaller; ">FIAT</span> management.</td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">Irizar</td>
    <td style="padding-left: 1ex; width: 1ex; ">x</td>
-   <td style="padding-right: 1ex; width: 1ex; border-left: 1px black solid; ">x</td>
+   <td style="padding-right: 1ex; width: 1ex; border-left: 1px red solid; ">x</td>
    <td>Returned to a <span style="font-size: smaller; ">FIAT</span> hierarchical model following the departure of its benevolent boss.</td>
   </tr>
   <tr>
