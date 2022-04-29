@@ -105,8 +105,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
    <td>“&hellip; in 2009, the organization returned to " <span style="font-size:smaller; ">FIAT</span> hierarchical management following the departure of the benevolent boss.</td>
   </tr>
-  <tr>
-   <th colspan="3" style="text-align:right; background-color: #ddd; ">SQUADS</th>
+  <tr style="background-color: #ddd; ">
+   <th colspan="3" style="text-align:right; ">SQUADS</th>
    <th></th>
   </tr>
   <tr>
