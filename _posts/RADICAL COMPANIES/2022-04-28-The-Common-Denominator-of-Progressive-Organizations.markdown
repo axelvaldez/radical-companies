@@ -21,8 +21,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">Kyocera</td>
-   <td style="padding-left:  1ex; width: 1ex; ">x</td>
-   <td style="padding-right: 1ex; width: 1ex; ">x</td>
+   <td style="padding-left:  1ex; width: 1ex; "></td>
+   <td style="padding-right: 1ex; width: 1ex; "></td>
    <td>It has an owner-boss (<em>i.e.</em>, a Board and CEO).</td>
   </tr>
   <tr>
@@ -31,8 +31,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">BSO/Origin</td>
-   <td style="padding-left: 1ex; width: 1ex; ">x</td>
-   <td style="padding-right: 1ex; width: 1ex; ">x</td>
+   <td style="padding-left: 1ex; width: 1ex; "></td>
+   <td style="padding-right: 1ex; width: 1ex; "></td>
    <td>Was sold by its owner-boss and reverted to <span style="font-size: smaller; ">FIAT</span> hierarchical management.</td>
   </tr>
  <tr>
@@ -41,8 +41,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">Endenburg</td>
-   <td style="padding-left: 1ex; width: 1ex; ">x</td>
-   <td style="padding-right: 1ex; width: 1ex; ">x</td>
+   <td style="padding-left: 1ex; width: 1ex; "></td>
+   <td style="padding-right: 1ex; width: 1ex; "></td>
    <td>Was sold by its owner-boss and it’s now under <span style="font-size: smaller; ">FIAT</span> management.</td>
   </tr>
   <tr>
@@ -51,8 +51,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">Irizar</td>
-   <td style="padding-left: 1ex; width: 1ex; ">x</td>
-   <td style="padding-right: 1ex; width: 1ex; ">x</td>
+   <td style="padding-left: 1ex; width: 1ex; "></td>
+   <td style="padding-right: 1ex; width: 1ex; "></td>
    <td>Returned to a <span style="font-size: smaller; ">FIAT</span> hierarchical model following the departure of its benevolent boss.</td>
   </tr>
   <tr>
@@ -61,8 +61,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">VISA</td>
-   <td style="padding-left: 1ex; width: 1ex; ">x</td>
-   <td style="padding-right: 1ex; width: 1ex; ">x</td>
+   <td style="padding-left: 1ex; width: 1ex; "></td>
+   <td style="padding-right: 1ex; width: 1ex; "></td>
    <td>“VISA eventually abandoned the <em>fractal</em> structure when it restructured itself into a more traditional company.”</td>
   </tr>
   <tr>
@@ -71,8 +71,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">AES</td>
-   <td style="padding-left: 1ex; width: 1ex; ">x</td>
-   <td style="padding-right: 1ex; width: 1ex; ">x</td>
+   <td style="padding-left: 1ex; width: 1ex; "></td>
+   <td style="padding-right: 1ex; width: 1ex; "></td>
    <td>“&hellip; AES eventually reverted to more conventional management approaches,” following the departure of the benevolent boss.</td>
   </tr>
   <tr>
@@ -81,8 +81,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">WL Gore</td>
-   <td style="padding-left: 1ex; width: 1ex; ">x</td>
-   <td style="padding-right: 1ex; width: 1ex; ">x</td>
+   <td style="padding-left: 1ex; width: 1ex; "></td>
+   <td style="padding-right: 1ex; width: 1ex; "></td>
    <td>This is the exception. It has a CEO and other “entitled” positions required by the US legal system, but they are elected.</td>
   </tr>
   <tr>
@@ -91,8 +91,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">Haier</td>
-   <td style="padding-left: 1ex; width: 1ex; ">x</td>
-   <td style="padding-right: 1ex; width: 1ex; ">x</td>
+   <td style="padding-left: 1ex; width: 1ex; "></td>
+   <td style="padding-right: 1ex; width: 1ex; "></td>
    <td>The benevolent boss, and his generous Rendanheyi system, will last for as long as he’s on the right side of the ultimate ultimate boss, which as of this writing happens to be <a href="https://en.wikipedia.org/wiki/Leader_of_the_Chinese_Communist_Party">Xi Jinping</a>.</td>
   </tr>
   <tr>
@@ -101,8 +101,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">FAVI</td>
-   <td style="padding-left: 1ex; width: 1ex; ">x</td>
-   <td style="padding-right: 1ex; width: 1ex; ">x</td>
+   <td style="padding-left: 1ex; width: 1ex; "></td>
+   <td style="padding-right: 1ex; width: 1ex; "></td>
    <td>“&hellip; in 2009, the organization returned to more traditional modes of management,” following the departure of the benevolent boss.</td>
   </tr>
   <tr>
@@ -111,8 +111,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">Spotify</td>
-   <td style="padding-left: 1ex; width: 1ex; ">x</td>
-   <td style="padding-right: 1ex; width: 1ex; ">x</td>
+   <td style="padding-left: 1ex; width: 1ex; "></td>
+   <td style="padding-right: 1ex; width: 1ex; "></td>
    <td>Squads are nice, but the owner-boss (<em>i.e.</em>, Board and CEO) can change or sell the organization at any time.</td>
   </tr>
 </table>
