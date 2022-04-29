@@ -17,7 +17,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
 <table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
   <tr>
    <th></th>
-   <th colspan="3" style="text-align: left; ">AMOEBAS</th>
+   <th colspan="3" style="text-align: left; width: 20%; ">AMOEBAS</th>
   </tr>
 </table>
 <table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
@@ -25,7 +25,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="vertical-align: text-top; text-align: right; ">Kyocera</td>
    <td style="border-right: 1px red solid; padding-left: 1em; "></td>
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
-   <td style="width: 80%; ">It has an owner-boss (<em>i.e.</em>, a Board and CEO).</td>
+   <td style="width: 78%; ">It has an owner-boss (<em>i.e.</em>, a Board and CEO).</td>
   </tr>
 </table>
 <table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
