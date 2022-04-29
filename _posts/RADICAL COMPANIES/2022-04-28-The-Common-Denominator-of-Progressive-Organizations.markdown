@@ -9,11 +9,11 @@ image:    "10-progressive-org-structures.png"
 <div style="display: none;">Co-management is a step away from the <span style="font-size: smaller; ">FIAT</span> hierarchy, and that's good. However, co-management by itself is only temporary: we must have co-ownership to give it permanence.</div>
 
 
-<h3>Common Denominator: Owner-Boss</h3>
-<p>
-In a recent Corporate Rebels post, Joost Minaar identifies <a
+<h2>Common Denominator: Owner-Boss</h2>
+<p>In a recent Corporate Rebels post, Joost Minaar identifies <a
 href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid=0df9a3a5c7&mc_eid=eb36a9b4c1">ten progressive organizational structures</a>. Except for one, the rest one thing in common: an owner-boss.
 </p>
+
 <table style="margin-left: auto; margin-right: auto; ">
   <tr style="vertical-align: text-top; ">
    <th colspan="2" style="horizontal-align: text-center; ">AMOEBAS</th>
@@ -86,7 +86,9 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td>Squads are nice, but the owner-boss (<em>i.e.</em>, Board and CEO) can change or sell the organization at any time.</td>
   </tr>
 </table>
-<h3>Co-Ownership + Co-Management = Permanence</h3>
+<br>
+
+<h2>Co-Ownership + Co-Management = Permanence</h2>
 <p>It is good, in fact, that these companies have experimented with some form of alternative organizational model&mdash;it shows that alternative models work and we don’t <em>need</em> the FIAT hierarchical system we buckle under. Unfortunately, co-management is transitory and doesn’t last when it comes as a gift from above: when the benevolent owner exits, that’s the end of it.
 </p>
 <p>For a permanent alternative to our current system <em>co-management</em> must be accompanied by <em>decentralized ownership</em> or <em>co-ownership</em>.
