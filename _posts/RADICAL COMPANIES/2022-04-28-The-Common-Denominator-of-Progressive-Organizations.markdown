@@ -114,7 +114,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
 </table>
 <table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
   <tr>
-   <td></td>
+   <th></th>
    <th colspan="3" style="text-align: left; ">MINI-FACTORIES</th>
   </tr>
   <tr>
@@ -126,7 +126,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
 </table>
 <table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
   <tr>
-   <td></td>
+   <th></th>
    <th colspan="3" style="text-align: left; ">SQUADS</th>
   </tr>
   </tr>
