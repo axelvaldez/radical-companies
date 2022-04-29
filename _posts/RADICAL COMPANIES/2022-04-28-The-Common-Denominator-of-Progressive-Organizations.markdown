@@ -19,16 +19,12 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <th></th>
    <th colspan="3" style="text-align: left; width: 20%; ">AMOEBAS</th>
   </tr>
-</table>
-<table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">Kyocera</td>
    <td style="border-right: 1px red solid; padding-left: 1em; "></td>
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td style="width: 78%; ">It has an owner-boss (<em>i.e.</em>, a Board and CEO).</td>
   </tr>
-</table>
-<table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
   <tr>
    <td></td>
    <th colspan="3" style="text-align: left; ">CELLS</th>
@@ -39,8 +35,6 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td style="width: 80%; ">Was sold by its owner-boss and reverted to <span style="font-size: smaller; ">FIAT</span> hierarchical management.</td>
   </tr>
-</table>
-<table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
   <tr>
    <td></td>
    <th colspan="3" style="text-align: left; ">CIRCLES</th>
@@ -51,8 +45,6 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td style="width: 80%; ">Was sold by its owner-boss and it’s now under <span style="font-size: smaller; ">FIAT</span> management.</td>
   </tr>
-</table>
-<table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
   <tr>
    <td></td>
    <th colspan="3" style="text-align: left; ">CHAINS</th>
@@ -63,8 +55,6 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td style="width: 80%; ">Returned to a <span style="font-size: smaller; ">FIAT</span> hierarchical model following the departure of its benevolent boss.</td>
   </tr>
-</table>
-<table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
   <tr>
    <td></td>
    <th colspan="3" style="text-align: left; ">FRACTALS</th>
@@ -75,8 +65,6 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td style="width: 80%; ">“VISA eventually abandoned the <em>fractal</em> structure when it restructured itself into a more traditional company.”</td>
   </tr>
-</table>
-<table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
   <tr>
    <td></td>
    <th colspan="2" style="text-align: left; ">HONEYCOMBS</th>
@@ -87,8 +75,6 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td style="width: 80%; ">“&hellip; AES eventually reverted to more conventional management approaches,” following the departure of the benevolent boss.</td>
   </tr>
-</table>
-<table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
   <tr>
    <td></td>
    <th colspan="3" style="text-align: left; ">LATTICE</th>
@@ -99,8 +85,6 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td style="width: 80%; ">This is the exception. It has a CEO and other “entitled” positions required by the US legal system, but they are elected.</td>
   </tr>
-</table>
-<table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
   <tr>
    <td></td>
    <th colspan="3" style="text-align: left; ">MICRO-COMMUNITIES</th>
