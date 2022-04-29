@@ -21,15 +21,15 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr style="border: 1px blue solid;">
    <td style="vertical-align: text-top; text-align: right; ">Kyocera</td>
-   <td style="border: 1px red solid; padding-left: 1em; width: 10px; "></td>
-   <td style="border: 1px black solid; padding-right: 1em; width: 10px; "></td>
+   <td style="padding-left: 1em; width: 10px; "></td>
+   <td style="padding-right: 1em; width: 10px; border: 1px black solid; "></td>
    <td>It has an owner-boss (<em>i.e.</em>, a Board and CEO).</td>
   </tr>
   <tr>
    <th></th>
    <th colspan="3" style="text-align: left; ">CELLS</th>
   </tr>
-  <tr>
+  <tr style="border: 1px blue solid;">
    <td style="vertical-align: text-top; text-align: right; ">BSO/Origin</td>
    <td style="border-right: 1px black solid; padding-left: 1em; "></td>
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
@@ -41,7 +41,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <th></th>
    <th colspan="3" style="text-align: left; ">CIRCLES</th>
   </tr>
-  <tr>
+  <tr style="border: 1px blue solid;">
    <td style="vertical-align: text-top; text-align: right; ">Endenburg</td>
    <td style="border-right: 1px black solid; padding-left: 1em; "></td>
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
