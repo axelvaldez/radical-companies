@@ -31,8 +31,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr style="border: 1px blue solid;">
    <td style="vertical-align: text-top; text-align: right; ">BSO/Origin</td>
-   <td style="border-right: 1px black solid; padding-left: 1em; "></td>
-   <td style="border-left: 1px black solid; padding-right: 1em; "></td>
+   <td style="padding-left: 1em; width: 10px; "></td>
+   <td style="padding-right: 1em; width: 10px; border: 1px black solid; "></td>
    <td>Was sold by its owner-boss and reverted to <span style="font-size: smaller; ">FIAT</span> hierarchical management.</td>
   </tr>
 </table>
