@@ -16,73 +16,73 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
 
 <table style="margin-left: auto; margin-right: auto; width: 40%; ">
   <tr style="vertical-align: text-top; ">
-   <th colspan="2" style="horizontal-align: text-center; ">AMOEBAS</th>
+   <th colspan="2" style="text-align: center; ">AMOEBAS</th>
   </tr>
   <tr>
-   <td style="width: 30%; vertical-align: text-top; horizontal-align: text-right; ">Kyocera</td>
+   <td style="width: 30%; vertical-align: text-top; text-align: right; ">Kyocera</td>
    <td style="width: 70%; ">Has a Board and CEO and FIAT hierarchy and has rolled up many other businesses.</td>
   </tr>
   <tr>
    <th colspan="2" style="horizontal-align: text-center; ">CELLS</th>
   </tr>
   <tr>
-   <td style="width: 10%; vertical-align: text-top; horizontal-align: text-right; ">BSO/Origin</td>
+   <td style="width: 10%; vertical-align: text-top; text-align: right; ">BSO/Origin</td>
    <td>Was sold by its owner-boss and reverted to FIAT hierarchical management.</td>
   </tr>
   <tr>
    <th colspan="2" style="horizontal-align: text-center; ">CIRCLES</th>
   </tr>
   <tr>
-   <td style="width: 10%; vertical-align: text-top; horizontal-align: text-right; ">Endenburg</td>
+   <td style="width: 10%; vertical-align: text-top; text-align: right; ">Endenburg</td>
    <td>Was sold by its owner-boss and it’s now under FIAT management.</td>
   </tr>
   <tr>
    <th colspan="2" style="horizontal-align: text-center; ">CHAINS</th>
   </tr>
   <tr>
-   <td style="width: 10%; vertical-align: text-top; horizontal-align: text-right; ">Irizar</td>
+   <td style="width: 10%; vertical-align: text-top; text-align: right; ">Irizar</td>
    <td>Returned to a FIAT hierarchical model following the departure of its benevolent boss.</td>
   </tr>
   <tr>
    <th colspan="2" style="horizontal-align: text-center; ">FRACTALS</th>
   </tr>
   <tr>
-   <td style="width: 10%; vertical-align: text-top; horizontal-align: text-right; ">VISA</td>
+   <td style="width: 10%; vertical-align: text-top; text-align: right; ">VISA</td>
    <td>“VISA eventually abandoned the <em>fractal</em> structure when it restructured itself into a more traditional company.”</td>
   </tr>
   <tr>
    <th colspan="2" style="horizontal-align: text-center; ">HONEYCOMBS</th>
   </tr>
   <tr>
-   <td style="width: 10%; vertical-align: text-top; horizontal-align: text-right; ">AES</td>
+   <td style="width: 10%; vertical-align: text-top; text-align: right; ">AES</td>
    <td>“… AES eventually reverted to more conventional management approaches,” following the departure of the benevolent boss.</td>
   </tr>
   <tr>
    <th colspan="2" style="horizontal-align: text-center; ">LATTICE</th>
   </tr>
   <tr>
-   <td style="width: 10%; vertical-align: text-top; horizontal-align: text-right; ">WL Gore</td>
+   <td style="width: 10%; vertical-align: text-top; text-align: right; ">WL Gore</td>
    <td>This is the exception. It has a CEO and other “entitled” positions required by the US legal system, but they are elected.</td>
   </tr>
   <tr>
    <th colspan="2" style="horizontal-align: text-center; ">MICRO-COMMUNITIES</th>
   </tr>
   <tr>
-   <td style="width: 10%; vertical-align: text-top; horizontal-align: text-right; ">Haier</td>
+   <td style="width: 10%; vertical-align: text-top; text-align: right; ">Haier</td>
    <td>The benevolent boss, and his generous Rendanheyi system, will last for as long as he’s on the right side of the ultimate ultimate boss, which as of this writing happens to be <a href="https://en.wikipedia.org/wiki/Leader_of_the_Chinese_Communist_Party">Xi Jinping</a>.</td>
   </tr>
   <tr>
    <th colspan="2" style="horizontal-align: text-center; ">MINI-FACTORIES</th>
   </tr>
   <tr>
-   <td style="width: 10%; vertical-align: text-top; horizontal-align: text-right; ">FAVI</td>
+   <td style="width: 10%; vertical-align: text-top; text-align: right; ">FAVI</td>
    <td>“&hellip; in 2009, the organization returned to more traditional modes of management,” following the departure of the benevolent boss.</td>
   </tr>
   <tr>
    <th colspan="2" style="horizontal-align: text-center; ">SQUADS</th>
   </tr>
   <tr>
-   <td style="width: 10%; vertical-align: text-top; horizontal-align: text-right; ">Spotify</td>
+   <td style="width: 10%; vertical-align: text-top; text-align: right; ">Spotify</td>
    <td>Squads are nice, but the owner-boss (<em>i.e.</em>, Board and CEO) can change or sell the organization at any time.</td>
   </tr>
 </table>
