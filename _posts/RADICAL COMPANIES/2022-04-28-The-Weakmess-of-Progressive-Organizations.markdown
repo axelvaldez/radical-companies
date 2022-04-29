@@ -11,7 +11,7 @@ image:    "10-progressive-org-structures.png"
 
 <h2>Common Denominator: Owner-Boss</h2>
 <p>In a recent Corporate Rebels post, Joost Minaar identifies <a
-href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid=0df9a3a5c7&mc_eid=eb36a9b4c1">ten progressive organizational structures</a>. Except for one, LATTICE/WL Gore, the rest one thing in common: an owner-boss.
+href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid=0df9a3a5c7&mc_eid=eb36a9b4c1">ten progressive organizational structures</a>. Except for one, LATTICE/WL Gore, the rest share one weakness: an owner-boss.
 </p>
 
 <table style="margin-left:auto; margin-right:auto; vertical-align:text-top; ">
