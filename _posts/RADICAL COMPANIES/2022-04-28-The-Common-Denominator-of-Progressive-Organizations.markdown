@@ -26,8 +26,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td>It has an owner-boss (<em>i.e.</em>, a Board and CEO).</td>
   </tr>
   <tr>
+   <th colspan="3" style="text-align: right; ">CELLS</th>
    <th></th>
-   <th colspan="3" style="text-align: left; ">CELLS</th>
   </tr>
   <tr style="border: 1px blue solid;">
    <td style="vertical-align: text-top; text-align: right; ">BSO/Origin</td>
@@ -38,8 +38,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
 </table>
 <table style="margin-left: auto; margin-right: auto; vertical-align: text-top; ">
  <tr>
-   <th></th>
    <th colspan="3" style="text-align: left; ">CIRCLES</th>
+   <th></th>
   </tr>
   <tr style="border: 1px blue solid;">
    <td style="vertical-align: text-top; text-align: right; ">Endenburg</td>
@@ -48,8 +48,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td>Was sold by its owner-boss and it’s now under <span style="font-size: smaller; ">FIAT</span> management.</td>
   </tr>
   <tr>
-   <th></th>
    <th colspan="3" style="text-align: left; ">CHAINS</th>
+   <th></th>
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">Irizar</td>
