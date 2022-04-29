@@ -34,7 +34,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <th colspan="3" style="text-align: left; ">CELLS</th>
   </tr>
   <tr>
-   <td style="vertical-align: text-top; text-align: right; ">BSO/Origin</td>
+   <td style="vertical-align: text-top; text-align: right; ">Kyocera <!--BSO/Origin--></td>
    <td style="border-right: 1px black solid; padding-left: 1em; ">x</td>
    <td style="border-left: 1px black solid; padding-right: 1em; ">x</td>
    <td style="width: 80%; ">Was sold by its owner-boss and reverted to <span style="font-size: smaller; ">FIAT</span> hierarchical management.</td>
