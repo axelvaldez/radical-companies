@@ -21,11 +21,12 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   <tr style="vertical-align: text-top; ">
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">Kyocera</td>
-   <td style="border-right: 1px black solid; padding-left: 1em; ">
-   <td style="border-left: 1px black solid; padding-right: 1em; ">
+   <td style="border-right: 1px black solid; padding-left: 1em; "></td>
+   <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td>It has a owner-boss (<em>i.e.</em>, a Board and CEO).</td>
   </tr>
 </table>
+
 <table style="margin-left: auto; margin-right: auto; width: 100%; border: 1px red solid; ">
   <tr>
    <th colspan="2" style="text-align: center; ">CELLS</th>
