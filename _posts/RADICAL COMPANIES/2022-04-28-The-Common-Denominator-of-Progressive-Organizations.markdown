@@ -16,32 +16,37 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
 
 <table style="margin-left: auto; margin-right: auto; width: 100%; ">
   <tr style="vertical-align: text-top; ">
-   <th colspan="2" style="text-align: center; ">AMOEBAS</th>
-  </tr>
+   <td style="width: 30%; "></td>
+   <th colspan="3" style="text-align: left; ">AMOEBAS</th>
+  <tr style="vertical-align: text-top; ">
   <tr>
-   <td style="width: 30%; vertical-align: text-top; text-align: right; padding-right: 1em; ">Kyocera</td>
-   <td style="width: 70%; border-left: 1px black solid; padding-left: 1em; ">Has a Board and CEO and FIAT hierarchy and has rolled up many other businesses.</td>
+   <td style="vertical-align: text-top; text-align: right; ">Kyocera</td>
+   <td style="border-right: 1px black solid; padding-left: 1em; ">
+   <td style="border-left: 1px black solid; padding-right: 1em; ">
+   <td>Has a Board and CEO and <span style="font-size: smaller; ">FIAT</span> hierarchy and has rolled up many other businesses.</td>
   </tr>
+</table>
+<table style="margin-left: auto; margin-right: auto; width: 100%; border: 1px red solid; ">
   <tr>
    <th colspan="2" style="text-align: center; ">CELLS</th>
   </tr>
   <tr>
    <td style="width: 10%; vertical-align: text-top; text-align: right; padding-right: 1em; ">BSO/Origin</td>
-   <td style="width: 70%; border-left: 1px black solid; padding-left: 1em; ">Was sold by its owner-boss and reverted to FIAT hierarchical management.</td>
+   <td style="width: 70%; border-left: 1px black solid; padding-left: 1em; ">Was sold by its owner-boss and reverted to <span style="font-size: smaller; ">FIAT</span> hierarchical management.</td>
   </tr>
   <tr>
    <th colspan="2" style="text-align: center; ">CIRCLES</th>
   </tr>
   <tr>
    <td style="width: 10%; vertical-align: text-top; text-align: right; padding-right: 1em; ">Endenburg</td>
-   <td style="width: 70%; border-left: 1px black solid; padding-left: 1em; ">Was sold by its owner-boss and it’s now under FIAT management.</td>
+   <td style="width: 70%; border-left: 1px black solid; padding-left: 1em; ">Was sold by its owner-boss and it’s now under <span style="font-size: smaller; ">FIAT</span> management.</td>
   </tr>
   <tr>
    <th colspan="2" style="text-align: center; ">CHAINS</th>
   </tr>
   <tr>
    <td style="width: 10%; vertical-align: text-top; text-align: right; padding-right: 1em; ">Irizar</td>
-   <td style="width: 70%; border-left: 1px black solid; padding-left: 1em; ">Returned to a FIAT hierarchical model following the departure of its benevolent boss.</td>
+   <td style="width: 70%; border-left: 1px black solid; padding-left: 1em; ">Returned to a <span style="font-size: smaller; ">FIAT</span> hierarchical model following the departure of its benevolent boss.</td>
   </tr>
   <tr>
    <th colspan="2" style="text-align: center; ">FRACTALS</th>
