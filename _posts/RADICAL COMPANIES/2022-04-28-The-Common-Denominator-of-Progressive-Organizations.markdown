@@ -19,7 +19,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td colspan="2" style="horizontal-align: text-acenter; ">AMOEBAS</td>
   </tr>
   <tr>
-   <td style="width: 20%; horizontal-align: text-center; ">Kyocera</td>
+   <td style="width: 20%; vertical-align: text-top; ">Kyocera</td>
    <td style="width: 60%; ">Has a Board and CEO and FIAT hierarchy and has rolled up many other businesses.</td>
   </tr>
   <tr>
@@ -59,21 +59,29 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td colspan="2">LATTICE</td>
+  </tr>
+  <tr>
    <td>WL Gore</td>
    <td>This is the exception. It has a CEO and other “entitled” positions required by the US legal system, but they are elected.</td>
   </tr>
   <tr>
    <td colspan="2">MICRO-COMMUNITIES</td>
+  </tr>
+  <tr>
    <td>Haier</td>
    <td>The benevolent boss, and his generous Rendanheyi system, will last for as long as he’s on the right side of the ultimate ultimate boss, which as of this writing happens to be <a href="https://en.wikipedia.org/wiki/Leader_of_the_Chinese_Communist_Party">Xi Jinping</a>.</td>
   </tr>
   <tr>
    <td colspan="2">MINI-FACTORIES</td>
+  </tr>
+  <tr>
    <td>FAVI</td>
    <td>“&hellip; in 2009, the organization returned to more traditional modes of management,” following the departure of the benevolent boss.</td>
   </tr>
   <tr>
    <td colspan="2">SQUADS</td>
+  </tr>
+  <tr>
    <td>Spotify</td>
    <td>Squads are nice, but the owner-boss (<em>i.e.</em>, Board and CEO) can change or sell the organization at any time.</td>
   </tr>
