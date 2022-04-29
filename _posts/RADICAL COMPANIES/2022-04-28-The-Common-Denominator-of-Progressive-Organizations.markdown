@@ -43,8 +43,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr style="border: 1px blue solid;">
    <td style="vertical-align: text-top; text-align: right; ">Endenburg</td>
-   <td style="border-right: 1px black solid; padding-left: 1em; "></td>
-   <td style="border-left: 1px black solid; padding-right: 1em; "></td>
+   <td style="padding-left: 1ex; width: 1ex; ">x</td>
+   <td style="padding-right: 1ex; width: 1ex; border-left: 1px black solid; ">x</td>
    <td>Was sold by its owner-boss and it’s now under <span style="font-size: smaller; ">FIAT</span> management.</td>
   </tr>
   <tr>
@@ -53,8 +53,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
   </tr>
   <tr>
    <td style="vertical-align: text-top; text-align: right; ">Irizar</td>
-   <td style="border-right: 1px black solid; padding-left: 1em; width: 1%; "></td>
-   <td style="border-left: 1px black solid; padding-right: 1em; width: 1%; "></td>
+   <td style="padding-left: 1ex; width: 1ex; ">x</td>
+   <td style="padding-right: 1ex; width: 1ex; border-left: 1px black solid; ">x</td>
    <td>Returned to a <span style="font-size: smaller; ">FIAT</span> hierarchical model following the departure of its benevolent boss.</td>
   </tr>
   <tr>
