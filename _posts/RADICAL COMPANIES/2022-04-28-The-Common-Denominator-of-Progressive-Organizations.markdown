@@ -63,7 +63,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="vertical-align: text-top; text-align: right; ">VISA</td>
    <td style="padding-left: 1ex; width: 1ex; "></td>
    <td style="padding-right: 1ex; width: 1ex; border-left: 1pm red lack solid; "></td>
-   <td>“VISA eventually abandoned the fractal structure when it restructured itself into a more traditional company.”</td>
+   <td>“VISA eventually abandoned the fractal structure [and] it restructured itself into a more traditional company.”</td>
   </tr>
   <tr>
    <th colspan="2" style="text-align: right; ">HONEYCOMBS</th>
