@@ -16,7 +16,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
 
 <table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
   <tr>
-   <th style="width: 30%; ">x</th>
+   <th style="width: 30%; "></th>
    <th colspan="3" style="text-align: left; ">AMOEBAS</th>
   </tr>
   <tr>
@@ -36,6 +36,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td>Was sold by its owner-boss and reverted to <span style="font-size: smaller; ">FIAT</span> hierarchical management.</td>
   </tr>
+
   <tr>
    <td style="width: 30%; "></td>
    <th colspan="3" style="text-align: left; ">CIRCLES</th>
@@ -46,6 +47,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td>Was sold by its owner-boss and it’s now under <span style="font-size: smaller; ">FIAT</span> management.</td>
   </tr>
+
   <tr>
    <td style="width: 30%; "></td>
    <th colspan="3" style="text-align: left; ">CHAINS</th>
@@ -56,6 +58,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td>Returned to a <span style="font-size: smaller; ">FIAT</span> hierarchical model following the departure of its benevolent boss.</td>
   </tr>
+  
   <tr>
    <td style="width: 30%; "></td>
    <th colspan="3" style="text-align: left; ">FRACTALS</th>
@@ -66,6 +69,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td>>“VISA eventually abandoned the <em>fractal</em> structure when it restructured itself into a more traditional company.”</td>
   </tr>
+  
   <tr>
    <td style="width: 30%; "></td>
    <th colspan="2" style="text-align: left; ">HONEYCOMBS</th>
@@ -76,6 +80,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td>“&hellip; AES eventually reverted to more conventional management approaches,” following the departure of the benevolent boss.</td>
   </tr>
+  
   <tr>
    <td style="width: 30%; "></td>
    <th colspan="3" style="text-align: left; ">LATTICE</th>
@@ -86,6 +91,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td>This is the exception. It has a CEO and other “entitled” positions required by the US legal system, but they are elected.</td>
   </tr>
+  
   <tr>
    <td style="width: 30%; "></td>
    <th colspan="3" style="text-align: left; ">MICRO-COMMUNITIES</th>
@@ -96,6 +102,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td>The benevolent boss, and his generous Rendanheyi system, will last for as long as he’s on the right side of the ultimate ultimate boss, which as of this writing happens to be <a href="https://en.wikipedia.org/wiki/Leader_of_the_Chinese_Communist_Party">Xi Jinping</a>.</td>
   </tr>
+  
   <tr>
    <td style="width: 30%; "></td>
    <th colspan="3" style="text-align: left; ">MINI-FACTORIES</th>
@@ -106,6 +113,7 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td>“&hellip; in 2009, the organization returned to more traditional modes of management,” following the departure of the benevolent boss.</td>
   </tr>
+  
   <tr>
    <td style="width: 30%; "></td>
    <th colspan="3" style="text-align: left; ">SQUADS</th>
