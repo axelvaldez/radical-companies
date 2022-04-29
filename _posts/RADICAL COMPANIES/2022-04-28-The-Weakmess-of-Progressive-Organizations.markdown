@@ -15,8 +15,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
 </p>
 
 <table style="margin-left:auto; margin-right:auto; vertical-align:text-top; ">
-  <tr>
-   <th colspan="3" style="text-align:right; background-color: #ddd; ">AMOEBAS</th>
+  <tr style="background-color: #ddd; ">
+   <th colspan="3" style="text-align:right; ">AMOEBAS</th>
    <th></th>
   </tr>
   <tr>
@@ -25,8 +25,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
    <td>It has an owner-boss (<em>i.e.</em>, a Board and CEO) who can change or sell the business at any time.</td>
   </tr>
-  <tr>
-   <th colspan="3" style="text-align:right;  background-color: #ddd;">CELLS</th>
+  <tr style="background-color: #ddd; ">
+   <th colspan="3" style="text-align:right; ">CELLS</th>
    <th></th>
   </tr>
   <tr>
@@ -35,8 +35,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
    <td>Was sold by its owner-boss and reverted to <span style="font-size:smaller; ">FIAT</span> hierarchical management.</td>
   </tr>
- <tr>
-   <th colspan="3" style="text-align:right; background-color: #ddd; ">CIRCLES</th>
+  <tr style="background-color: #ddd; ">
+   <th colspan="3" style="text-align:right; ">CIRCLES</th>
    <th></th>
   </tr>
   <tr>
@@ -45,8 +45,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
    <td>Was sold by its owner-boss and it’s now under <span style="font-size:smaller; ">FIAT</span> management.</td>
   </tr>
-  <tr>
-   <th colspan="3" style="text-align:right; background-color: #ddd; ">CHAINS</th>
+  <tr style="background-color: #ddd; ">
+   <th colspan="3" style="text-align:right; ">CHAINS</th>
    <th></th>
   </tr>
   <tr>
@@ -55,8 +55,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
    <td>Returned to a <span style="font-size:smaller; ">FIAT</span> hierarchical model following the departure of its benevolent boss.</td>
   </tr>
-  <tr>
-   <th colspan="3" style="text-align:right; background-color: #ddd; ">FRACTALS</th>
+  <tr style="background-color: #ddd; ">
+   <th colspan="3" style="text-align:right; ">FRACTALS</th>
    <th></th>
   </tr>
   <tr>
@@ -65,8 +65,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
    <td>“VISA eventually abandoned the fractal structure [and] it restructured itself into a " <span style="font-size:smaller; ">FIAT</span> hierarchical business.</td>
   </tr>
-  <tr>
-   <th colspan="3" style="text-align:right; background-color: #ddd; ">HONEYCOMBS</th>
+  <tr style="background-color: #ddd; ">
+   <th colspan="3" style="text-align:right; ">HONEYCOMBS</th>
    <th></th>
   </tr>
   <tr>
@@ -75,8 +75,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
    <td>“&hellip; AES eventually reverted to " <span style="font-size:smaller; ">FIAT</span> hierarchical management following the departure of the benevolent boss.</td>
   </tr>
-  <tr>
-   <th colspan="3" style="text-align:right; background-color: #ddd; ">LATTICE</th>
+  <tr style="background-color: #ddd; ">
+   <th colspan="3" style="text-align:right; ">LATTICE</th>
    <th></th>
   </tr>
   <tr>
@@ -85,8 +85,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
    <td>This is the exception. It has a CEO and other “entitled” positions required by the US legal system, but they are elected and have a limited role.</td>
   </tr>
-  <tr>
-   <th colspan="3" style="text-align:right; background-color: #ddd; width:30%; ">MICRO-COMMUNITIES</th>
+  <tr style="background-color: #ddd; ">
+   <th colspan="3" style="text-align:right; ">MICRO-COMMUNITIES</th>
    <th></th>
   </tr>
   <tr>
@@ -95,8 +95,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="padding-right:1ex; width:1ex; border-left:1px black solid; "></td>
    <td>The benevolent boss, and his Rendanheyi system, will last for as long as he’s on the right side of the ultimate boss, which as of this writing happens to be <a href="https://en.wikipedia.org/wiki/Leader_of_the_Chinese_Communist_Party">Xi Jinping</a>.</td>
   </tr>
-  <tr>
-   <th colspan="3" style="text-align:right; background-color: #ddd; ">MINI-FACTORIES</th>
+  <tr style="background-color: #ddd; ">
+   <th colspan="3" style="text-align:right; ">MINI-FACTORIES</th>
    <th></th>
   </tr>
   <tr>
