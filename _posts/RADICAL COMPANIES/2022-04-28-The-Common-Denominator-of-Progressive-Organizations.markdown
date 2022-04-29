@@ -19,8 +19,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <th colspan="2" style="text-align: center; ">AMOEBAS</th>
   </tr>
   <tr>
-   <td style="width: 30%; vertical-align: text-top; text-align: right; ">Kyocera</td>
-   <td style="width: 70%; border-left: 1px black solid; ">Has a Board and CEO and FIAT hierarchy and has rolled up many other businesses.</td>
+   <td style="width: 30%; vertical-align: text-top; text-align: right; padding-right: 1em;">Kyocera</td>
+   <td style="width: 70%; border-left: 1px black solid; padding-left: 1em; ">Has a Board and CEO and FIAT hierarchy and has rolled up many other businesses.</td>
   </tr>
   <tr>
    <th colspan="2" style="text-align: center; ">CELLS</th>
