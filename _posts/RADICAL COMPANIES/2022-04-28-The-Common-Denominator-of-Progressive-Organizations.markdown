@@ -108,9 +108,6 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="border-left: 1px black solid; padding-right: 1em; "></td>
    <td style="width: 80%; ">“&hellip; in 2009, the organization returned to more traditional modes of management,” following the departure of the benevolent boss.</td>
   </tr>
-</table>
--->
-<table style="margin-left: auto; margin-right: auto; width: 100%; vertical-align: text-top; ">
   <tr>
    <th></th>
    <th colspan="3" style="text-align: left; ">SQUADS</th>
@@ -122,7 +119,8 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
    <td style="width: 80%; ">Squads are nice, but the owner-boss (<em>i.e.</em>, Board and CEO) can change or sell the organization at any time.</td>
   </tr>
 </table>
-<br>
+-->
+br>
 
 <h2>Co-Ownership + Co-Management = Robustness</h2>
 <p>It is good, in fact, that these companies have experimented with some form of alternative organizational model&mdash;it shows that alternative models work and we don’t <em>need</em> the FIAT hierarchical system we buckle under. Unfortunately, co-management is transitory and doesn’t last when it comes as a gift from above: when the benevolent owner exits, that’s the end of it.
