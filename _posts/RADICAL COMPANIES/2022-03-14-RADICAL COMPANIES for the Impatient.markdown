@@ -23,42 +23,35 @@ image:    "dynamic-distribution-1.svg"
 <p>
 Every company is different because the people who embody it are different, so every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence,
 </p>
-<table>
- <tr>
-  <td colspan="3"></td>
-  <td rowspan="2" style="vertical-align: top; "><p>relationships</p></td>
- </tr>
- <tr>
-  <td style="width: 3in; text-align: right; padding-right: 2em; "><em>principles</em></td>
-  <td style="width: 2in; background-color: #dddddd; text-align: center; "><strong>Meaning & Belonging</strong></td>
-  <td>⬈</td>
- </tr>
- <tr><td colspan="4">&nbsp;</td></tr>
-</table>
-<table>
- <tr>
-  <td colspan="3"></td>
-  <td rowspan="2" style="vertical-align: top; "><p>autonomy</p></td>
- </tr>
- <tr>
-  <td style="width: 3in; text-align: right; padding-right: 2em; "><em>commitments</em></td>
-  <td style="width: 2in; background-color: #dddddd; text-align: center; "><strong>Transparency & Decentralization</strong></td>
-  <td>⬈</td>
- </tr>
- <tr><td colspan="4">&nbsp;</td></tr>
-</table>
-<table>
- <tr>
-  <td colspan="3"></td>
-  <td rowspan="2" style="vertical-align: top; "><p>collaboration</p></td>
- </tr>
- <tr>
-  <td style="width: 3in; text-align: right; padding-right: 2em; "><em>practices</em></td>
-  <td style="width: 2in; background-color: #dddddd; text-align: center; "><strong>Alignment & Experimentation</strong></td>
-  <td>⬈</td>
- </tr>
- <tr><td colspan="4">&nbsp;</td></tr>
-</table>
+<table align="center">
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
+   <td style="text-align:center; background-color:#EEEEEE; ">Meaning &<br>Belonging</td>
+   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+   <td valign="top"><em>relationships</em></td>
+  </tr>
+  <tr>
+   <td style="background-color: white; height: 7px;"></td>
+  </tr>
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
+   <td style="text-align:center; background-color:#EEEEEE;">Transparency &<br>Decentralization</td>
+   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+   <td valign="top"><em>autonomy</em></td>
+  </tr>
+  <tr>
+   <td style="background-color: white; height: 7px;"></td>
+  </tr>
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
+   <td style="text-align:center; background-color:#EEEEEE; ">Alignment &<br>Experimentation</td>
+   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+   <td valign="top"><em>collaboration</em></td>
+  </tr>
+  <tr>
+   <td colspan="4">&nbsp;</td>
+  </tr>
+ </table>
 <p>Other principles and practices can be layered on top of them, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company these are essential, otherwise it is just a FIAT business with ain’t-we-nice sprinkled on top.
 </p>
 <p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time.
