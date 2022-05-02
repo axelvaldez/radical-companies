@@ -19,10 +19,10 @@ Mini-factories, and Squads.</p>
 
 <h2>Co-Ownership Brings Robustness</h2>
 <p>It is great, in fact, that these companies have experimented with co-management, have shown that it works, and that we don’t need the FIAT hierarchical system we live under. Unfortunately, co-management doesn’t last. Because when the owner-boss exits, that’s the end of it. Most of these progressive companies have fallen back to the FIAT hierarchical model following the exit of the benevolent owner-boss.</p>
-<p>For it to be robust and long-term decentralized management must be accompanied by decentralized ownership.</p>
+<p>For it to be robust and long-term decentralized management must be accompanied by <a href="https://radicalcompanies.com/2022/03/14/radical-companies-for-the-impatient">decentralized ownership.</a></p>
 
 <h2>Robustness Emerges from a Solid Foundation</h2>
-<p>Rather than specific practices or strict methodologies, a solid foundation allows you to find out 1) what works for you, while 2) keeping you grounded on what’s important,</p>
+<p>Rather than specific practices or strict methodologies, a solid foundation allows you to discover out what works for you, while keeping you grounded on what’s important,</p>
 <table align="center">
   <tr>
    <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
