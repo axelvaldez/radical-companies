@@ -44,7 +44,7 @@ Mini-factories, and Squads.</p>
   </tr>
   <tr>
    <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; background-color:#ccc; ">Alignment &<br>Experimentation</td>
+   <td style="text-align:center; background-color:#ddd; ">Alignment &<br>Experimentation</td>
    <td valign="middle" style="font-size:x-large; "> ⬈</td>
    <td valign="top"><em>collaboration</em></td>
   </tr>
