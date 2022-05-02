@@ -25,27 +25,27 @@ Mini-factories, and Squads.</p>
 <p>Rather than specific practices or strict methodologies, a solid foundation allows you to find out 1) what works for you, while 2) keeping you grounded on what’s important,</p>
 <table align="center">
   <tr>
-   <td valign="middle" style="text-align: right; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align: center; background-color: lightgrey; ">Meaning &<br>Belonging</td>
-   <td valign="middle" style="font-size: larger; "> ⬈</td>
-   <td valign="top">relationships</td>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
+   <td style="text-align:center; background-color:lightgrey; ">Meaning &<br>Belonging</td>
+   <td valign="middle" style="font-size:larger; "> ⬈</td>
+   <td valign="top"><em>relationships</em></td>
   </tr>
   <tr>
    <td style="background-color: white; height: 7px;"></td>
   </tr>
   <tr>
-   <td valign="middle" style="text-align: right; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align: center; background-color: lightgrey;">Transparency &<br>Decentralization</td>
-   <td valign="middle" style="font-size: larger; "> ⬈</td>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
+   <td style="text-align:center; background-color:lightgrey;">Transparency &<br>Decentralization</td>
+   <td valign="middle" style="font-size:larger; "> ⬈</td>
    <td valign="top"><em>autonomy</em></td>
   </tr>
   <tr>
    <td style="background-color: white; height: 7px;"></td>
   </tr>
   <tr>
-   <td valign="middle" style="text-align: right; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align: center; background-color: lightgrey; ">Alignment &<br>Experimentation</td>
-   <td valign="middle" style="font-size: larger; "> ⬈</td>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
+   <td style="text-align:center; background-color:lightgrey; ">Alignment &<br>Experimentation</td>
+   <td valign="middle" style="font-size:larger; "> ⬈</td>
    <td valign="top"><em>collaboration</em></td>
   </tr>
   <tr>
