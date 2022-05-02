@@ -15,20 +15,161 @@ href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid
 progressive organizational structures</a> which he calls Amoebas, Cells,
 Circles, Chains, Fractals, Honeycombs, Lattice, Micro-communities,
 Mini-factories, and Squads.</p>
-<p>Unfortunately, all the organizations mentioned have an owner-boss at the top and
-a FIAT hierarchy below.</p>
-<p>All, that is, except WL Gore which doesn’t have an
-owner-boss elite in charge. It has a CEO and other  positions required by the US
-legal system, but they are elected.</p>
+<p>Unfortunately, except for WL Gore, all the organizations given as primary examples have an owner-boss at the top. In these cases, the owner-boss sees himself as a “servant leader” or otherwise benevolent.</p>
 
 <h2>Co-Ownership Means Robustness</h2>
-<p>It is great, in fact, that these companies have experimented with alternative
-organizational models. It goes to show that we don’t <em>need</em> the FIAT
-hierarchical system we buckle under and co-management works. Unfortunately, by
-itself, co-management doesn’t last when it comes as a gift from above: when the
-benevolent owner exits, that’s the end of it.</p>
-<p>For a permanent alternative to our current system <em>co-management</em> must be
-accompanied by <em>decentralized co-ownership</em>.</p>
+<p>It is great, in fact, that these companies have experimented with co-management, have shown that it works, and that we don’t need the FIAT hierarchical system we live under. Unfortunately, co-management doesn’t last. Because when the owner-boss exits, that’s the end of it. Most of these progressive companies have fallen back to the FIAT hierarchical model following the exit of the benevolent owner-boss.</p>
+<p>For it to be robust and long-term decentralized management must be accompanied by decentralized ownership.</p>
+
+<h2>Robustness Emerges from a Solid Foundation</h2>
+<p>Rather than specific practices or strict methodologies, a solid foundation allows you to find out 1) what works for you, while 2) keeping you grounded on what’s important,</p>
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td rowspan="2" >
+<h3><em>relationships</em></h3>
+
+
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3><p style="text-align: right">
+principles</p>
+</h3>
+
+
+   </td>
+   <td>
+   </td>
+   <td>
+<h3>Meaning &</h3>
+
+
+<h3>Belonging</h3>
+
+
+   </td>
+   <td>
+<h3> ⬈</h3>
+
+
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td rowspan="2" >
+<h3><em>autonomy</em></h3>
+
+
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3><p style="text-align: right">
+commitments</p>
+</h3>
+
+
+   </td>
+   <td>
+   </td>
+   <td>
+<h3>Transparency &</h3>
+
+
+<h3>Decentralization</h3>
+
+
+   </td>
+   <td>
+<h3> ⬈</h3>
+
+
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td rowspan="2" >
+<h3><em>collaboration</em></h3>
+
+
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3><p style="text-align: right">
+practices</p>
+</h3>
+
+
+   </td>
+   <td>
+   </td>
+   <td>
+<h3>Alignment &</h3>
+
+
+<h3>Experimentation</h3>
+
+
+   </td>
+   <td>
+<h3> ⬈</h3>
+
+
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+<p>It consists of principles, commitments, and practices.</p>
+
+<h2>Principles</h2>
+<p>People are the highest priority to whatever we are doing together. The principles reflect that in that it must make sense to me (meaning) and that I am doing it with people that I want to hang out with (belonging).</p>
+
+<h2>Commitments</h2>
+<p>It is very important that we all commit to decentralization without having to depend on an owner-boss. Leadership still is  important and necessary, but there is no anointed boss.</p>
+<p>Also, for decentralized decision-making and action, all information must be transparent and freely available.</p>
+
+<h2>Practices</h2>
+<p>Also for the sake of decentralization, explicit alignment is an absolute must. In a FIAT organization, the owner-boss and the hierarchy below him, are the source of alignment, but in a decentralized organization we need to agree on what it is we are doing in ways that people can remember them and live them.</p>
+<p><img src="/assets/img/en-alignment.svg" alt="The Scout salute as a mnemonic for IMPACT, PURPOSE, and MISSION. The middle finger represents IMPACT or what are we doing this for? The index finger represents PURPOSE or why are we doing this? and the annular finger represents MISSION or the What, When, and How we are doing this."></p>
+<p>Finally, experiment. Be explicit about what you expect (<em>e.g.</em>, levels of acidity in a tomato paste) and then don’t be afraid of experimenting. If your results match your expectations, call it an innovation and celebrate. Otherwise, learn from it.</p>
 
 <h2>Related</h2>
 <ul>
