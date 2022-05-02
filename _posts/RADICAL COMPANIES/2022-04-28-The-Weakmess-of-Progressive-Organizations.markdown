@@ -63,7 +63,7 @@ Mini-factories, and Squads.</p>
 
 <h2>Practices</h2>
 <p>Also for the sake of decentralization, explicit alignment is an absolute must. In a FIAT organization, the owner-boss and the hierarchy below him, are the source of alignment, but in a decentralized organization we need to agree on what it is we are doing in ways that people can remember them and live them.</p>
-<p><img src="/assets/img/en-alignment.svg" alt="The Scout salute as a mnemonic for IMPACT, PURPOSE, and MISSION. The middle finger represents IMPACT or what are we doing this for? The index finger represents PURPOSE or why are we doing this? and the annular finger represents MISSION or the What, When, and How we are doing this."></p>
+<p><img src="/assets/img/en-alignment.svg" alt="The Scout salute as a mnemonic for IMPACT, PURPOSE, and MISSION. The middle finger represents IMPACT or what are we doing this for? The index finger represents PURPOSE or why are we doing this? and the annular finger represents MISSION or the What, When, and How we are doing this." width="80%" align="center"></p>
 <p>Finally, experiment. Be explicit about what you expect (<em>e.g.</em>, levels of acidity in a tomato paste) and then don’t be afraid of experimenting. If your results match your expectations, call it an innovation and celebrate. Otherwise, learn from it.</p>
 
 <h2>Related</h2>
