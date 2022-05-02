@@ -17,7 +17,7 @@ Circles, Chains, Fractals, Honeycombs, Lattice, Micro-communities,
 Mini-factories, and Squads.</p>
 <p>Unfortunately, except for WL Gore, all the organizations given as primary examples have an owner-boss at the top. In these cases, the owner-boss sees himself as a “servant leader” or otherwise benevolent.</p>
 
-<h2>Co-Ownership Means Robustness</h2>
+<h2>Co-Ownership Brings Robustness</h2>
 <p>It is great, in fact, that these companies have experimented with co-management, have shown that it works, and that we don’t need the FIAT hierarchical system we live under. Unfortunately, co-management doesn’t last. Because when the owner-boss exits, that’s the end of it. Most of these progressive companies have fallen back to the FIAT hierarchical model following the exit of the benevolent owner-boss.</p>
 <p>For it to be robust and long-term decentralized management must be accompanied by decentralized ownership.</p>
 
