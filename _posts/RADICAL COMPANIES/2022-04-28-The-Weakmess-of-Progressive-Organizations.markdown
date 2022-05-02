@@ -53,7 +53,6 @@ Mini-factories, and Squads.</p>
   </tr>
  </table>
 
-
 <div style="margin-left: 2em; ">
  <h3>Principles</h3>
  <p>People are the highest priority to whatever we are doing together. The principles reflect that in that it must make sense to me (meaning) and that I am doing it with people that I want to hang out with (belonging).</p>
