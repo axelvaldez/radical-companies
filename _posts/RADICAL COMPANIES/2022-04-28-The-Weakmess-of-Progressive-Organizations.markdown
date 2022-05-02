@@ -23,140 +23,35 @@ Mini-factories, and Squads.</p>
 
 <h2>Robustness Emerges from a Solid Foundation</h2>
 <p>Rather than specific practices or strict methodologies, a solid foundation allows you to find out 1) what works for you, while 2) keeping you grounded on what’s important,</p>
-
-<table>
+<table align="center">
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td rowspan="2" >
-<h3><em>relationships</em></h3>
-
-
-   </td>
+   <td valign="middle" style="text-align: right; ">principles&nbsp;&nbsp;</td>
+   <td style="text-align: center; background-color: lightgrey; ">Meaning &<br>Belonging</td>
+   <td valign="middle" style="font-size: larger; "> ⬈</td>
+   <td valign="top">relationships</td>
   </tr>
   <tr>
-   <td>
-<h3><p style="text-align: right">
-principles</p>
-</h3>
-
-
-   </td>
-   <td>
-   </td>
-   <td>
-<h3>Meaning &</h3>
-
-
-<h3>Belonging</h3>
-
-
-   </td>
-   <td>
-<h3> ⬈</h3>
-
-
-   </td>
+   <td style="background-color: white; height: 7px;"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td rowspan="2" >
-<h3><em>autonomy</em></h3>
-
-
-   </td>
+   <td valign="middle" style="text-align: right; ">commitments&nbsp;&nbsp;</td>
+   <td style="text-align: center; background-color: lightgrey;">Transparency &<br>Decentralization</td>
+   <td valign="middle" style="font-size: larger; "> ⬈</td>
+   <td valign="top"><em>autonomy</em></td>
   </tr>
   <tr>
-   <td>
-<h3><p style="text-align: right">
-commitments</p>
-</h3>
-
-
-   </td>
-   <td>
-   </td>
-   <td>
-<h3>Transparency &</h3>
-
-
-<h3>Decentralization</h3>
-
-
-   </td>
-   <td>
-<h3> ⬈</h3>
-
-
-   </td>
+   <td style="background-color: white; height: 7px;"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td rowspan="2" >
-<h3><em>collaboration</em></h3>
-
-
-   </td>
+   <td valign="middle" style="text-align: right; ">practices&nbsp;&nbsp;</td>
+   <td style="text-align: center; background-color: lightgrey; ">Alignment &<br>Experimentation</td>
+   <td valign="middle" style="font-size: larger; "> ⬈</td>
+   <td valign="top"><em>collaboration</em></td>
   </tr>
   <tr>
-   <td>
-<h3><p style="text-align: right">
-practices</p>
-</h3>
-
-
-   </td>
-   <td>
-   </td>
-   <td>
-<h3>Alignment &</h3>
-
-
-<h3>Experimentation</h3>
-
-
-   </td>
-   <td>
-<h3> ⬈</h3>
-
-
-   </td>
+   <td colspan="4">&nbsp;</td>
   </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
+ </table>
 <p>It consists of principles, commitments, and practices.</p>
 
 <h2>Principles</h2>
