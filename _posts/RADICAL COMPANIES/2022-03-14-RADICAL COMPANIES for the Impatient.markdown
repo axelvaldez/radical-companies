@@ -6,7 +6,7 @@ authors:  "Matt PEREZ | Adrian PEREZ | Jose LEAL"
 image:    "dynamic-distribution-1.svg"
 ---
 
-<h1 style="text-align: center; ">An abbreviated description of the <span style="font-size: smaller; ">RADICAL</span> Model</h1>
+<div style="display:none;">An abbreviated description of the <span style="font-size: smaller; ">RADICAL</span> Model</div>
 
 <br>
 <br>
