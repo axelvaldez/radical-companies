@@ -52,7 +52,6 @@ Mini-factories, and Squads.</p>
    <td colspan="4">&nbsp;</td>
   </tr>
  </table>
-<p>It consists of principles, commitments, and practices.</p>
 
 <h3>Principles</h3>
 <p>People are the highest priority to whatever we are doing together. The principles reflect that in that it must make sense to me (meaning) and that I am doing it with people that I want to hang out with (belonging).</p>
