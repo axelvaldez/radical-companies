@@ -27,7 +27,7 @@ Mini-factories, and Squads.</p>
   <tr>
    <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
    <td style="text-align:center; background-color:lightgrey; ">Meaning &<br>Belonging</td>
-   <td valign="middle" style="font-size:larger; "> ⬈</td>
+   <td valign="middle" style="font-size:xxx-large; "> ⬈</td>
    <td valign="top"><em>relationships</em></td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@ Mini-factories, and Squads.</p>
   <tr>
    <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
    <td style="text-align:center; background-color:lightgrey;">Transparency &<br>Decentralization</td>
-   <td valign="middle" style="font-size:larger; "> ⬈</td>
+   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
    <td valign="top"><em>autonomy</em></td>
   </tr>
   <tr>
@@ -45,7 +45,7 @@ Mini-factories, and Squads.</p>
   <tr>
    <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
    <td style="text-align:center; background-color:#ccc; ">Alignment &<br>Experimentation</td>
-   <td valign="middle" style="font-size:larger; "> ⬈</td>
+   <td valign="middle" style="font-size:x-large; "> ⬈</td>
    <td valign="top"><em>collaboration</em></td>
   </tr>
   <tr>
