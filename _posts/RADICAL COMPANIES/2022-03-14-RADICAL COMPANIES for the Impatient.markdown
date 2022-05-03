@@ -61,7 +61,7 @@ image:    "dynamic-distribution-1.svg"
  <p style="font-size: smaller; padding: 0 3em; ">“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
 </pre>
 
-<h2>Alignment</h2>
+<h2>Explicit Alignment</h2>
 <p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, we first need to be explicit about the company’s IMPACT  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump tje, in different ways. No matter, they have to be explicit and completely open and accessible to everyone.</p>
 <p>The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,</p>
 <pre style="font-family: courier new; text-align: center; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
@@ -85,7 +85,7 @@ image:    "dynamic-distribution-1.svg"
 </p>
 <br>
 
-<h1 style="text-align: center; font-size:10ex; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution</h1>
+<h1 style="text-align: center; font-size:7ex; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution</h1>
 <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
 
  <h2>Rosedale Distribution</h2>
@@ -143,7 +143,6 @@ image:    "dynamic-distribution-1.svg"
    <li>Your unallocated <SPAN>RAD</SPAN>s may disappear every day or they may accumulate for a month or a year.
    </li>
   </ul>
-
   <h3>Scalability</h3>
   <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,
   </p>
@@ -194,7 +193,6 @@ image:    "dynamic-distribution-1.svg"
 </table>
 <p>As people share and grant each other <span>RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.
 </p>
-
   <h3>Banners</h3>
    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.
    </p>
@@ -256,19 +254,15 @@ image:    "dynamic-distribution-1.svg"
      </td>
     </tr>
    </table>
-
   <h3>Retrospectives</h3>
    <p>At a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much as they’d like of their criteria. These do not prevent people from making their own decisions, but it serves as a guide.
    </p>
-
   <h3>Feedback</h3>
    <p>Anybody who wants to can call for a feedback session after a Distribution. In particular, people who didn’t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it’s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.
    </p>
-
   <h3>Distribution Transparency</h3>
    <p>We don’t think that <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of <SPAN>RAD</SPAN>s allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.</p>
    <p>Of course, you’ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
-
   <h3>Accounting for the Unaccountable</h3>
    <p><SPAN>RAD</SPAN>s represent many things other than simple financial value. They are not beans, but they can be counted.
    </p>
@@ -279,7 +273,7 @@ image:    "dynamic-distribution-1.svg"
    <p>In short, <SPAN>RAD</SPAN>s account for the uncountable, they measure the immeasurable.
    </p>
 
-<h1 style="text-align: center; font-size:10ex; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
+<h1 style="text-align: center; font-size:7ex; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <SPAN>RAD</SPAN>s. For example,
  </p>
  <ul>
@@ -384,8 +378,6 @@ image:    "dynamic-distribution-1.svg"
    <p>Notice that even though dividends are up, Julio continues to draw from the PRI Account because his PRI is pretty high and his RAD count is pretty low. He may want to change his PRI or get feedback on why his <SPAN>RAD</SPAN>s are so low.
    </p>
 
-   <br>
-
  <h2>By Comparison</h2>
    <p>This way of sharing the wealth should yield, at worst, the same as today’s VC system but with less risk and a huge increase in the number of beneficiaries.
    </p>
@@ -395,7 +387,7 @@ image:    "dynamic-distribution-1.svg"
    </p>
  <br>
 
-<h1 style="text-align: center; font-size:10ex; ">RELATED</h1>
+<h1 style="text-align: center; font-size:7ex; ">RELATED</h1>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
