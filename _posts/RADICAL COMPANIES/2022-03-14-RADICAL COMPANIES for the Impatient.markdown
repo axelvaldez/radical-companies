@@ -285,7 +285,7 @@ image:    "dynamic-distribution-1.svg"
 <br>
 <br>
 
-<h1 style="text-align: center; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
+<h1 style="text-align: center; font-size:smaller; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <SPAN>RAD</SPAN>s. For example,
  </p>
  <ul>
