@@ -435,3 +435,8 @@ image:    "dynamic-distribution-1.svg"
     <li><a href="https://docs.google.com/document/d/1u862nc5EV8OY6ng0kfH7_pBGO-HWJnK2rJB8PvpYkJ4/edit#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
   </ul>
 </ul>
+
+<h1 style="text-align: center; font-size:7ex; margin:30px 0 20px 0; ">ENDNOTES</h1>
+<ul>
+ <li id="fn1"><h6><a href="#fnref24">back</a> Seth Godin. What kind of org? (alt., here). May 4, 2020.</h6></li>
+</ul>  
