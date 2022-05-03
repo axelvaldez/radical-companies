@@ -11,63 +11,61 @@ image:    "dynamic-distribution-1.svg"
 <h1 style="text-align: center; font-size:7ex; margin-bottom:20px; ">Strictly for the Impatient</h1>
 
  <h2>Businesses Run as Dictatorships Hurt Us</h2>
-<p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.</p>
-<p>Nature follows a simple path to create big beautiful things out of unpretentious, small ones. From tiny seed to mighty oak tree. We don’t think that a long list of principles or color scales or a 17 page constitution are necessary to make a fundamental change. Eventually, these can become dogma, a form of force, and get in the way.</p>
-<p> With that in mind, we came up with what we think are the most basic foundations to support our coming together to share work and wealth.</p>
-
+ <p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.</p>
+ <p>Nature follows a simple path to create big beautiful things out of unpretentious, small ones. From tiny seed to mighty oak tree. We don’t think that a long list of principles or color scales or a 17 page constitution are necessary to make a fundamental change. Eventually, these can become dogma, a form of force, and get in the way.</p>
+ <p> With that in mind, we came up with what we think are the most basic foundations to support our coming together to share work and wealth.</p>
  <h2>A Minimal Foundations for a <span style="font-size:smaller; ">RADICAL</span> Companie</h2>
-<p>In the RADICAL world, a company is what we call a group of people who come together to build something bigger than themselves. In fact, the word "company" come from the Latin prefix <em>con-</em>, meaning together, and <em>pan</em>, meaning bread: people who break bread together.</p>
-<p>Every company is different because the people who embody it are different, and every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence,</p>
-<table align="center">
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-  <td style="text-align:center; background-color:#EEEEEE; ">Meaning &<br>Belonging</td>
-  <td valign="middle" style="font-size:xx-large; "> ⬈</td>
-  <td valign="top"><em>relationships</em></td>
- </tr>
- <tr>
-  <td style="background-color: white; height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-  <td style="text-align:center; background-color:#EEEEEE;">Transparency &<br>Decentralization</td>
-  <td valign="middle" style="font-size:xx-large; "> ⬈</td>
-  <td valign="top"><em>autonomy</em></td>
- </tr>
- <tr>
-  <td style="background-color: white; height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-  <td style="text-align:center; background-color:#EEEEEE; ">Alignment &<br>Experimentation</td>
-  <td valign="middle" style="font-size:xx-large; "> ⬈</td>
-  <td valign="top"><em>collaboration</em></td>
- </tr>
- <tr>
-  <td colspan="4">&nbsp;</td>
- </tr>
-</table>
-<p>Other practices can be layered on top of these, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company these are essential, otherwise it is just a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business with ain’t-we-nice sprinkled on top.</p>
-<ul>
- <li>Will this reduce the autonomy of people to find meaning? (<em>e.g.</em>, "This is has be done by&hellip;&nbsp;")</li>
- <li>Are we taking people's autonomy to determine who they work work with? (<em>e.g.</em>, pre-assigned "teams")</li>
- <li>Will this makes more or less centralized? (<em>e.g.</em>, having an entitled subcomitee)</li>
- <li>Will this decision make us more or less transparent? (<em>e.g.</em>, predetermining budgets)</li>
- <li>Does this go agains our agreed upon alignment? (<em>e.g.</em>, "We have to do this for a little while&hellip;&nbsp;")</li>
- <li>Are we allowing for experimentation? (<em>e.g.</em>, "This has to meet these requirement <em>and</em> it has to be done this way&hellip;&nbsp;")</li>
+ <p>In the RADICAL world, a company is what we call a group of people who come together to build something bigger than themselves. In fact, the word "company" come from the Latin prefix <em>con-</em>, meaning together, and <em>pan</em>, meaning bread: people who break bread together.</p>
+ <p>Every company is different because the people who embody it are different, and every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence,</p>
+ <table align="center">
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
+   <td style="text-align:center; background-color:#EEEEEE; ">Meaning &<br>Belonging</td>
+   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+   <td valign="top"><em>relationships</em></td>
+  </tr>
+  <tr>
+   <td style="background-color: white; height: 7px;"></td>
+  </tr>
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
+   <td style="text-align:center; background-color:#EEEEEE;">Transparency &<br>Decentralization</td>
+   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+   <td valign="top"><em>autonomy</em></td>
+  </tr>
+  <tr>
+   <td style="background-color: white; height: 7px;"></td>
+  </tr>
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
+   <td style="text-align:center; background-color:#EEEEEE; ">Alignment &<br>Experimentation</td>
+   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+   <td valign="top"><em>collaboration</em></td>
+  </tr>
+  <tr>
+   <td colspan="4">&nbsp;</td>
+  </tr>
+ </table>
+ <p>Other practices can be layered on top of these, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company these are essential, otherwise it is just a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business with ain’t-we-nice sprinkled on top.</p>
+ <ul>
+  <li>Will this reduce the autonomy of people to find meaning? (<em>e.g.</em>, "This is has be done by&hellip;&nbsp;")</li>
+  <li>Are we taking people's autonomy to determine who they work work with? (<em>e.g.</em>, pre-assigned "teams")</li>
+  <li>Will this makes more or less centralized? (<em>e.g.</em>, having an entitled subcomitee)</li>
+  <li>Will this decision make us more or less transparent? (<em>e.g.</em>, predetermining budgets)</li>
+  <li>Does this go agains our agreed upon alignment? (<em>e.g.</em>, "We have to do this for a little while&hellip;&nbsp;")</li>
+  <li>Are we allowing for experimentation? (<em>e.g.</em>, "This has to meet these requirement <em>and</em> it has to be done this way&hellip;&nbsp;")</li>
  </ul>
-<p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed and by the people involved.</p>
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; white-space: normal; ">
- <p style="font-size: smaller; padding: 0 3em; ">“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
-</pre>
+ <p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed and by the people involved.</p>
+ <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; white-space: normal; ">
+  <p style="font-size: smaller; padding: 0 3em; ">“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
+ </pre>
 
  <h2>Alignment Must Be Explicit and Transparent</h2>
-<p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, we first need to be explicit about the company’s IMPACT  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump tje, in different ways. No matter, they have to be explicit and completely open and accessible to everyone.</p>
-<p>The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,</p>
-<pre style="font-family: courier new; text-align: center; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
- <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment" style="width: 80%; ">
-</pre>
-<p>
+ <p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, we first need to be explicit about the company’s IMPACT  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump tje, in different ways. No matter, they have to be explicit and completely open and accessible to everyone.</p>
+ <p>The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,</p>
+ <pre style="font-family: courier new; text-align: center; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+  <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment" style="width: 80%; ">
+ </pre>
  <ul>
   <li>
    <p>Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.</p>
@@ -80,9 +78,7 @@ image:    "dynamic-distribution-1.svg"
    <p>The Mission defines <em>what</em> we are going to do to move towards the Impact, <em>how</em> we are going to do it, and by <em>when</em>. This is a conversation, live, dynamic conversation where everybody who wants to can participate. It is not "suggestions" sent by email to somebody else who is going to select by popularity or any such.And, yes, there are many ways to do it with 50, 1,00, or 10,000 people.</p>
   </li>
  </ul>
-</p>
-<p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to ,<em>everybody</em> in the team.
-</p>
+ <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to ,<em>everybody</em> in the team.</p>
 <br>
 
 <h1 style="text-align: center; font-size:7ex; margin-bottom:20px; "><spen style="FONT-SIZE: SMALLER; ">RADICAL</spen> Distribution</h1>
@@ -191,8 +187,7 @@ image:    "dynamic-distribution-1.svg"
   <td colspan="4">&nbsp;</td>
  </tr>
 </table>
-<p>As people share and grant each other <span>RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.
-</p>
+ <p>As people share and grant each other <span>RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
   <h3>Banners</h3>
    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.
    </p>
