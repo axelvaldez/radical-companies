@@ -48,7 +48,15 @@ image:    "dynamic-distribution-1.svg"
   <td colspan="4">&nbsp;</td>
  </tr>
 </table>
-<p>Other principles and practices can be layered on top of these, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company these are essential, otherwise it is just a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business with ain’t-we-nice sprinkled on top.</p>
+<p>Other practices can be layered on top of these, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company these are essential, otherwise it is just a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business with ain’t-we-nice sprinkled on top.</p>
+<ul>
+ <li>Will this reduce the autonomy of people to find meaning? (<em>e.g.</em>, "This is has be done by&hellip; ")</li>
+ <li>Are we taking people's autonomy to determine who they work work with? (<em>e.g.</em>, pre-assigned "teams")</li>
+ <li>Will this makes more or less centralized? (<em>e.g.</em>, having an entitled subcomitee)</li>
+ <li>Will this decision make us more or less transparent? (<em>e.g.</em>, predetermining budgets)</li>
+ <li>Does this go agains our agreed upon alignment? (<em>e.g.</em>, "We have to do this for a little while&hellip; ")</li>
+ <li>Are we allowing for experimentation? (<em>e.g.</em>, "This has to meet these requirement <em>and</em> it has to be done this way&hellip; ")</li>
+ </ul>
 <p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed and by the people involved.</p>
 <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; white-space: normal; ">
 <p style="font-size: smaller; padding: 0 3em; ">“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></pre>
