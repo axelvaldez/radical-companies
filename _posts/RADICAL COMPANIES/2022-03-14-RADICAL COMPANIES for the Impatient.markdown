@@ -9,6 +9,7 @@ image:    "dynamic-distribution-1.svg"
 <div style="display:none;">An abbreviated description of the <span style="font-size: smaller; ">RADICAL</span> Model</div>
 
 <h1>Strictly for the Impatient</h1>
+<br>
 
 <h2>What Hurt Us</h2>
 <p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.</p>
@@ -19,36 +20,36 @@ image:    "dynamic-distribution-1.svg"
 <p>In the RADICAL world, a company is what we call a group of people who come together to build something bigger than themselves. In fact, the word "company" come from the Latin prefix <em>con-</em>, meaning together, and <em>pan</em>, meaning bread: people who break bread together.</p>
 <p>Every company is different because the people who embody it are different, and every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence,</p>
 <table align="center">
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; background-color:#EEEEEE; ">Meaning &<br>Belonging</td>
-   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
-   <td valign="top"><em>relationships</em></td>
-  </tr>
-  <tr>
-   <td style="background-color: white; height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; background-color:#EEEEEE;">Transparency &<br>Decentralization</td>
-   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
-   <td valign="top"><em>autonomy</em></td>
-  </tr>
-  <tr>
-   <td style="background-color: white; height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; background-color:#EEEEEE; ">Alignment &<br>Experimentation</td>
-   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
-   <td valign="top"><em>collaboration</em></td>
-  </tr>
-  <tr>
-   <td colspan="4">&nbsp;</td>
-  </tr>
- </table>
+ <tr>
+  <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
+  <td style="text-align:center; background-color:#EEEEEE; ">Meaning &<br>Belonging</td>
+  <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+  <td valign="top"><em>relationships</em></td>
+ </tr>
+ <tr>
+  <td style="background-color: white; height: 7px;"></td>
+ </tr>
+ <tr>
+  <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
+  <td style="text-align:center; background-color:#EEEEEE;">Transparency &<br>Decentralization</td>
+  <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+  <td valign="top"><em>autonomy</em></td>
+ </tr>
+ <tr>
+  <td style="background-color: white; height: 7px;"></td>
+ </tr>
+ <tr>
+  <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
+  <td style="text-align:center; background-color:#EEEEEE; ">Alignment &<br>Experimentation</td>
+  <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+  <td valign="top"><em>collaboration</em></td>
+ </tr>
+ <tr>
+  <td colspan="4">&nbsp;</td>
+ </tr>
+</table>
 <p>Other principles and practices can be layered on top of these, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company these are essential, otherwise it is just a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business with ain’t-we-nice sprinkled on top.</p>
-<p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time.</p>
+<p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed and by the people involved.</p>
 <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; white-space: normal; ">
 <p style="font-size: smaller; padding: 0 3em; ">“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></pre>
 
