@@ -10,7 +10,7 @@ image:    "dynamic-distribution-1.svg"
 
 <h1 style="text-align: center; font-size:7ex; margin-bottom:20px; ">Strictly for the Impatient</h1>
 
-<h2>Business Run as Dictatorships Hurt Us</h2>
+<h2>Businesses Run as Dictatorships Hurt Us</h2>
 <p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.</p>
 <p>Nature follows a simple path to create big beautiful things out of unpretentious, small ones. From tiny seed to mighty oak tree. We don’t think that a long list of principles or color scales or a 17 page constitution are necessary to make a fundamental change. Eventually, these can become dogma, a form of force, and get in the way.</p>
 <p> With that in mind, we came up with what we think are the most basic foundations to support our coming together to share work and wealth.</p>
