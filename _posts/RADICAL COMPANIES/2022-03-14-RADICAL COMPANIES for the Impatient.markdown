@@ -8,7 +8,7 @@ image:    "dynamic-distribution-1.svg"
 
 <div style="display:none;">An abbreviated description of the <span style="font-size: smaller; ">RADICAL</span> Model</div>
 
-<h1>Strictly for the Impatient</h1>
+<h1 style="font-size:smaller; ">Strictly for the Impatient</h1>
 <br>
 
 <h2>What Hurt Us</h2>
