@@ -69,18 +69,12 @@ image:    "dynamic-distribution-1.svg"
 <p>
  <ul>
   <li>Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.
-   <p>Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, “… a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.”<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup>
-   </p>
-  </li>
- </ul>
- <ul>
-  <li>Purpose is the reason why we, as a company, are focused on this particular Impact. It doesn't have to be world shaking and it doesn't have to strum your heart’s strings. An effective Purpose must clearly express <em>why</em> it is important for others to join us in this adventure.
-  </li>
-  <li>The Mission defines <em>what</em> we are going to do to move towards the Impact, <em>how</em> we are going to do it, and by <em>when</em>. In the case of Nearsoft, we have defined two five-year Missions, one in 2012 and another in 2017.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup> Everybody takes part in this: about 80 Nearsoftians in the first one, and around 300 participated in defining our latest Mission, as of this writing.
-  </li>
+   <p>Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, “… a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.”<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></li>
+  <li>Purpose is the reason why we, as a company, are focused on this particular Impact. It doesn't have to be world shaking and it doesn't have to strum your heart’s strings. An effective Purpose must clearly express <em>why</em> it is important for others to join us in this adventure.</li>
+  <li>The Mission defines <em>what</em> we are going to do to move towards the Impact, <em>how</em> we are going to do it, and by <em>when</em>. This is a conversation, live, dynamic conversation where everybody who wants to can participate. It is not "suggestions" sent by email to somebody else who is going to select by popularity or any such.And, yes, there are many ways to do it with 50, 1,00, or 10,000 people.</li>
  </ul>
 </p>
-<p>This is but one way to express alignment. The important thing is to make it explicit, simple, and intelligible to everybody in the team.
+<p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to ,<em>everybody</em> in the team.
 </p>
 
 <br>
