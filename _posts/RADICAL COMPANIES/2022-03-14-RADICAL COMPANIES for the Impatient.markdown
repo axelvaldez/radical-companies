@@ -267,10 +267,8 @@ image:    "dynamic-distribution-1.svg"
    </p>
 
   <h3>Distribution Transparency</h3>
-   <p>We don’t think that <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of <SPAN>RAD</SPAN>s allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.
-   </p>
-   <p>Of course, you’ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.
-   </p>
+   <p>We don’t think that <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of <SPAN>RAD</SPAN>s allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.</p>
+   <p>Of course, you’ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
 
   <h3>Accounting for the Unaccountable</h3>
    <p><SPAN>RAD</SPAN>s represent many things other than simple financial value. They are not beans, but they can be counted.
@@ -397,11 +395,9 @@ image:    "dynamic-distribution-1.svg"
     <img src="/assets/img/bank-vs-vcs-vs-radical.svg" alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS defines a small horizontal parallelogram, it's dot is about     one fifth of the way into the RISKS axis and one tenth of the way up the YIELD axis. VC defines a square, it's dot is a little over half way into the RISKS axis and half way up the YIELD axis. RADICAL defines a large vertical parallelogram, with its dot at a little less than half way into the RISKS axis and nine tenth of the way up
     the YIELD axis. The RADICAL box shows a hashed square area which highlights the fact that the RADICAL approach provides much more YIELD than the BANKS or VC approaches.    The graph on the right has RISKS on the horizontal axis and BENEFICIARIES on the vertical axis. As in the previous graph, BANKS defines a small horizontal parallelogram. VC defines a horizontal parallelogram, with it's dot appears seven tenth of the way into the RISKS axis and one fourth of the way up the YIELD axis. As in the previous graph, RADICAL defines a large vertical parallelogram. The RADICAL box shows a hashed area which highlights the fact that the RADICAL approach BENEFITS many more people than the BANKS or VC approaches. " title="Comparing Banks, VCs, and RADICAL.">
    </p>
+ <br>
 
-<br>
-<br>
-
-<h1 style="text-align: center;">RELATED</h1>
+<h1 style="text-align: center; font-size:smaller; ">RELATED</h1>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
