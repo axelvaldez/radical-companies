@@ -8,7 +8,7 @@ image:    "dynamic-distribution-1.svg"
 
 <div style="display:none;">An abbreviated description of the <span style="font-size: smaller; ">RADICAL</span> Model</div>
 
-<h1 style="text-align: center; font-size:smaller; ">Strictly for the Impatient</h1>
+<h1 style="text-align: center; font-size:14ex; ">Strictly for the Impatient</h1>
 <br>
 
 <h2>What Hurt Us</h2>
@@ -86,7 +86,7 @@ image:    "dynamic-distribution-1.svg"
 </p>
 <br>
 
-<h1 style="text-align: center; font-size:smaller; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution</h1>
+<h1 style="text-align: center; font-size:14ex; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution</h1>
 <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
 
  <h2>Rosedale Distribution</h2>
@@ -279,11 +279,9 @@ image:    "dynamic-distribution-1.svg"
    </p>
    <p>In short, <SPAN>RAD</SPAN>s account for the uncountable, they measure the immeasurable.
    </p>
+  <br>
 
-<br>
-<br>
-
-<h1 style="text-align: center; font-size:smaller; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
+<h1 style="text-align: center; font-size:14ex; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <SPAN>RAD</SPAN>s. For example,
  </p>
  <ul>
