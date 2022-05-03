@@ -395,7 +395,7 @@ image:    "dynamic-distribution-1.svg"
    </p>
  <br>
 
-<h1 style="text-align: center; font-size:smaller; ">RELATED</h1>
+<h1 style="text-align: center; font-size:10ex; ">RELATED</h1>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
