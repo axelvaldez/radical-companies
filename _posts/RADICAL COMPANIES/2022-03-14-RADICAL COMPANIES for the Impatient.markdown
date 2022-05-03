@@ -318,14 +318,16 @@ image:    "dynamic-distribution-1.svg"
   </ul>
   <p>You’ll have to experiment with how these debts are settled. At its loosest, I could pay that debt “later” (<em>e.g.</em>, out of my future Earned Dividends). At its most rigid, I’d have to pay the PRI Account debt, plus interest, within 60 days. Our suggestion, as always, is to go for a policy that matches your current situation and group of people. If a problem crops up, then see if the policy needs to be changed. Otherwise, don’t yield to your imagined fears.</p>
   <p>In the example below, Salim, Daliah, Alicia, and Anita earned enough dividends to cover their full Predictable Recurring Income (PRI); Kim and Julio earned less than their PRI, so money flows out of the <em>PRI Account</em> to make up the difference, but they now owe this much to the <em>PRI Account</em>.</p>
-   <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; "><img src="/assets/img/en-predictable-recurring-income-pri-t0.svg" alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs.
+  <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+   <img src="/assets/img/en-predictable-recurring-income-pri-t0.svg" alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs.
    The firs column is labeled SALIM who has 250 RADs and takes home $2000 in PRI.
    The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI.
    Next is ALICIA with 670 RADs and takes $5000 in PRI.
    Next is KIM with 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI.
    Next is JULIO with 130 RADs and takes $4000 in PRI.
    The sixth column is labeled ANITA who has 300 RADs and takes $1000 in PRI.
-   The graph shows a box labeled PRI ACCOUNT which is mostly filled with red liquid (an RADICAL investment). Below it are vertical boxes representing the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA takes the largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution"></p>
+   The graph shows a box labeled PRI ACCOUNT which is mostly filled with red liquid (an RADICAL investment). Below it are vertical boxes representing the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA takes the  largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
+  </p>
   <p>We had a lot of back and forth over the PRI Account being a <em>personal</em> debt. Why not have it be a shared debt? The problem is that this may work for small groups, but it doesn’t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don’t know. They would want to know things like “Why is Julio’s PRI so high?” On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn’t feel good about going into so much debt and brings down his PRI after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister’s school and is willing to bear the debt for a while longer.</p>
   <p>If you are thinking that this process takes a lot of time, you’re right. But it is cheaper and healthier than leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).</p>
 
