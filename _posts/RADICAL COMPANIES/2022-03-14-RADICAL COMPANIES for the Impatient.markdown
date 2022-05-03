@@ -8,21 +8,16 @@ image:    "dynamic-distribution-1.svg"
 
 <div style="display:none;">An abbreviated description of the <span style="font-size: smaller; ">RADICAL</span> Model</div>
 
-<br>
-<br>
+<h1>Strictly for the Impatient</h1>
 
-<h2>What Ails Us</h2>
-<p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.
-</p>
-<p>Nature follows a simple path to create big beautiful things out of unpretentious, small ones. From tiny seed to mighty oak tree. We don’t think that a long list of principles or color scales or a 17 page constitution are necessary to make a fundamental change. Eventually, these can become dogma and get in the way.
-</p>
-<p> With that in mind, we came up with what we think are the most basic foundations to support our coming together to share work and wealth.
-</p>
+<h2>What Hurt Us</h2>
+<p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.</p>
+<p>Nature follows a simple path to create big beautiful things out of unpretentious, small ones. From tiny seed to mighty oak tree. We don’t think that a long list of principles or color scales or a 17 page constitution are necessary to make a fundamental change. Eventually, these can become dogma, a form of force, and get in the way.</p>
+<p> With that in mind, we came up with what we think are the most basic foundations to support our coming together to share work and wealth.</p>
 
-<h2>A Three Legged Stool</h2>
-<p>
-Every company is different because the people who embody it are different, so every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence,
-</p>
+<h2>Foundations: A Three Legged Stool</h2>
+<p>In the RADICAL world, a company is what we call a group of people who come together to build something bigger than themselves. In fact, the word "company" come from the Latin prefix <em>con-</em>, meaning together, and <em>pan</em>, meaning bread: people who break bread together.</p>
+<p>Every company is different because the people who embody it are different, and every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence,</p>
 <table align="center">
   <tr>
    <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
@@ -52,12 +47,10 @@ Every company is different because the people who embody it are different, so ev
    <td colspan="4">&nbsp;</td>
   </tr>
  </table>
-<p>Other principles and practices can be layered on top of them, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company these are essential, otherwise it is just a FIAT business with ain’t-we-nice sprinkled on top.
-</p>
-<p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time.
-</p>
-<p style="font-size: smaller; padding: 0 3em; ">“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>
-</p>
+<p>Other principles and practices can be layered on top of these, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company these are essential, otherwise it is just a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business with ain’t-we-nice sprinkled on top.</p>
+<p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time.</p>
+<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; white-space: normal; ">
+<p style="font-size: smaller; padding: 0 3em; ">“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></pre>
 
 <h2>Alignment</h2>
 <p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, we will first need to be explicit about the company’s <em>what for</em>, its <em>why</em>, and its <em>what</em>, <em>how</em>, and <em>when</em>. You might call them something different or you might lump some of these together. No matter how you express them, they have to be explicit and completely open and accessible to everyone. The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,
