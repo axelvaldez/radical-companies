@@ -102,34 +102,21 @@ image:    "dynamic-distribution-1.svg"
   </ul>
 
  <h2>The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution Difference</h2>
-  <p>Instead of cash or stocks, <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution uses a dimensionless unit we call a <SPAN>RAD</SPAN>. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, <SPAN>RAD</SPAN>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>. 
-  </p>
-  <p>RADs represent any kind of contribution, not just financial. In fact, as an accounting tool, <SPAN>RAD</SPAN>s account for the unaccountable.
-  </p>
-  <p>Co-owners then get to distribute RADs according to their individual judgment. Each decides what is an <em>equitable</em> number of <SPAN>RAD</SPAN>s to give to other co-owners as recognition for their contributions. The value of the whole emerges from the judgment of the many.
-  </p> 
-  <p>A few important observations,
-  </p>
+  <p>Instead of cash or stocks, <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution uses a dimensionless unit we call a <SPAN>RAD</SPAN>. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, <SPAN>RAD</SPAN>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>.</p>
+  <p>RADs represent any kind of contribution, not just financial. In fact, as an accounting tool, <SPAN>RAD</SPAN>s account for the unaccountable.</p>
+  <p>Co-owners then get to distribute RADs according to their individual judgment. Each decides what is an <em>equitable</em> number of <SPAN>RAD</SPAN>s to give to other co-owners as recognition for their contributions. The value of the whole emerges from the judgment of the many.</p> 
+  <p>A few important observations,</p>
   <ul>
-   <li>RADs are not a currency.
-   </li>
-   <li><SPAN>RAD</SPAN>s are issued even before there is revenue because contributions happen regardless of revenue.
-   </li>
-   <li>The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every Distribution Retrospective new criteria are fleshed out and harvested as an optional guideline.
-   </li>
-   <li><SPAN>RAD</SPAN>s represent <em>dynamic</em> ownership. One month you may give me all your <SPAN>RAD</SPAN>s, but the next month you may not give me any.
-   </li>
-   <li>The absolute number of <SPAN>RAD</SPAN>s allocated to me either stays the same or goes up at every distribution. If I had 100 <SPAN>RAD</SPAN>s last cycle and I get 50 this cycle, my total number of <SPAN>RAD</SPAN>s goes to 150. If I don’t get any this cycle, my total number of <SPAN>RAD</SPAN>s stays at 100.
-   </li>
-   <li>On the other hand, my percentage of the total could go up, stay the same, or go down at every Distribution. If my 100 <SPAN>RAD</SPAN>s represented 10% of the total last cycle and I get 150 <SPAN>RAD</SPAN>s this cycle, then my percent ownership went up to 12.5%; if I get 100 new <SPAN>RAD</SPAN>s, my percentage stays at 10%; if don’t get any new <SPAN>RAD</SPAN>s, my percentage goes down to 5%.
-   </li>
-   <li>To calculate your percentage ownership, divide the number of <SPAN>RAD</SPAN>s you have been allocated by the total number of allocated <SPAN>RAD</SPAN>s.
-   </li>
-   <li>When money, or time, or whatever else is disbursed later, it is done as a function of the number of <SPAN>RAD</SPAN>s each person owns. If you have accumulated 200 <SPAN>RAD</SPAN>s and I have 100, then you’ll get twice as much as me of whatever is being factored through the <SPAN>RAD</SPAN>s.
-   </li>
+   <li>RADs are not a currency.</li>
+   <li><SPAN>RAD</SPAN>s are issued even before there is revenue because contributions happen regardless of revenue.</li>
+   <li>The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every Distribution Retrospective new criteria are fleshed out and harvested as an optional guideline.</li>
+   <li><SPAN>RAD</SPAN>s represent <em>dynamic</em> ownership. One month you may give me all your <SPAN>RAD</SPAN>s, but the next month you may not give me any.</li>
+   <li>The absolute number of <SPAN>RAD</SPAN>s allocated to me either stays the same or goes up at every distribution. If I had 100 <SPAN>RAD</SPAN>s last cycle and I get 50 this cycle, my total number of <SPAN>RAD</SPAN>s goes to 150. If I don’t get any this cycle, my total number of <SPAN>RAD</SPAN>s stays at 100.</li>
+   <li>On the other hand, my percentage of the total could go up, stay the same, or go down at every Distribution. If my 100 <SPAN>RAD</SPAN>s represented 10% of the total last cycle and I get 150 <SPAN>RAD</SPAN>s this cycle, then my percent ownership went up to 12.5%; if I get 100 new <SPAN>RAD</SPAN>s, my percentage stays at 10%; if don’t get any new <SPAN>RAD</SPAN>s, my percentage goes down to 5%.</li>
+   <li>To calculate your percentage ownership, divide the number of <SPAN>RAD</SPAN>s you have been allocated by the total number of allocated <SPAN>RAD</SPAN>s.</li>
+   <li>When money, or time, or whatever else is disbursed later, it is done as a function of the number of <SPAN>RAD</SPAN>s each person owns. If you have accumulated 200 <SPAN>RAD</SPAN>s and I have 100, then you’ll get twice as much as me of whatever is being factored through the <SPAN>RAD</SPAN>s.</li>
   </ul>
-  <p>There probably are many ways of doing this,
-  </p>
+  <p>There probably are many ways of doing this,</p>
   <ul>
    <li>Every cycle each member gets to distribute a number of <SPAN>RAD</SPAN>s as they see fit. For example, if you get 100 <SPAN>RAD</SPAN>s this month, you may give fifty to Adrian, 30 to Jose, and 20 to me.
    </li>
