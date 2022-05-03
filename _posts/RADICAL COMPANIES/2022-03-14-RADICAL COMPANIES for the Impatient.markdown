@@ -6,16 +6,16 @@ authors:  "Matt PEREZ | Adrian PEREZ | Jose LEAL"
 image:    "dynamic-distribution-1.svg"
 ---
 
-<div style="display:none;">An abbreviated description of the <span style="font-size: smaller; ">RADICAL</span> Model</div>
+<div style="display:none;">An short walkthrough the <span style="font-size: smaller; ">RADICAL</span> Model</div>
 
 <h1 style="text-align: center; font-size:7ex; margin-bottom:20px; ">Strictly for the Impatient</h1>
 
-<h2>Businesses Run as Dictatorships Hurt Us</h2>
+ <h2>Businesses Run as Dictatorships Hurt Us</h2>
 <p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.</p>
 <p>Nature follows a simple path to create big beautiful things out of unpretentious, small ones. From tiny seed to mighty oak tree. We don’t think that a long list of principles or color scales or a 17 page constitution are necessary to make a fundamental change. Eventually, these can become dogma, a form of force, and get in the way.</p>
 <p> With that in mind, we came up with what we think are the most basic foundations to support our coming together to share work and wealth.</p>
 
-<h2>A Minimal Foundations for <span style="font-size:smaller; ">RADICAL</span> Companies</h2>
+ <h2>A Minimal Foundations for a <span style="font-size:smaller; ">RADICAL</span> Companie</h2>
 <p>In the RADICAL world, a company is what we call a group of people who come together to build something bigger than themselves. In fact, the word "company" come from the Latin prefix <em>con-</em>, meaning together, and <em>pan</em>, meaning bread: people who break bread together.</p>
 <p>Every company is different because the people who embody it are different, and every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence,</p>
 <table align="center">
@@ -61,7 +61,7 @@ image:    "dynamic-distribution-1.svg"
  <p style="font-size: smaller; padding: 0 3em; ">“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
 </pre>
 
-<h2>Explicit Alignment</h2>
+ <h2>Alignment Must Be Explicit and Transparent</h2>
 <p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, we first need to be explicit about the company’s IMPACT  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump tje, in different ways. No matter, they have to be explicit and completely open and accessible to everyone.</p>
 <p>The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,</p>
 <pre style="font-family: courier new; text-align: center; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
@@ -85,10 +85,10 @@ image:    "dynamic-distribution-1.svg"
 </p>
 <br>
 
-<h1 style="text-align: center; font-size:7ex; margin-bottom:20px; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution</h1>
+<h1 style="text-align: center; font-size:7ex; margin-bottom:20px; "><spen style="FONT-SIZE: SMALLER; ">RADICAL</spen> Distribution</h1>
 <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
 
- <h2>Rosedale Distribution</h2>
+ <h2>Inspiration: The Rosedale Distribution</h2>
   <p>Rosedale Distribution<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,
   </p>
   <ul>
@@ -104,7 +104,7 @@ image:    "dynamic-distribution-1.svg"
    </li>
   </ul>
 
- <h2>The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Difference</h2>
+ <h2>The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution Is Difference</h2>
   <p>Instead of cash or stocks, <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution uses a dimensionless unit we call a <SPAN>RAD</SPAN>. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, <SPAN>RAD</SPAN>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>. 
   </p>
   <p>RADs represent any kind of contribution, not just financial. In fact, as an accounting tool, <SPAN>RAD</SPAN>s account for the unaccountable.
@@ -321,7 +321,7 @@ image:    "dynamic-distribution-1.svg"
   <p>We had a lot of back and forth over the PRI Account being a <em>personal</em> debt. Why not have it be a shared debt? The problem is that this may work for small groups, but it doesn’t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don’t know. They would want to know things like “Why is Julio’s PRI so high?” On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn’t feel good about going into so much debt and brings down his PRI after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister’s school and is willing to bear the debt for a while longer.</p>
   <p>If you are thinking that this process takes a lot of time, you’re right. But it is cheaper and healthier than leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).</p>
 
- <h2>Dividends Are Not a Gift, You Earned</h2>
+ <h2>Dividends Are Not a Gift, You Earned Them</h2>
    <p>Below there are three sample scenarios for how Earned Dividends are calculated,
    </p>
    <ul>
@@ -378,7 +378,7 @@ image:    "dynamic-distribution-1.svg"
    <p>Notice that even though dividends are up, Julio continues to draw from the PRI Account because his PRI is pretty high and his RAD count is pretty low. He may want to change his PRI or get feedback on why his <SPAN style="font-size:smaller; ">RAD</SPAN>s are so low.
    </p>
 
- <h2>Comparing Banks, VCs, and RADICAL investments</h2>
+ <h2>Comparing the <span style="font-size:smaller; ">RADICAL</span> Investment Model with that of Banks and VCs</h2>
    <p><span style="font-size:smaller; ">RADICAL</span> investments will, at worst, have the same financial yield as today’s VC system, but with 1) a lot more beneficiaries (<em>i.e.</em>, all the co-owners), and 2) less risk (<em>i.e.</em>, because a lot more people will be committed to making it work).</p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
     <img src="/assets/img/bank-vs-vcs-vs-radical.svg" alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS defines a small horizontal parallelogram, it's dot is about     one fifth of the way into the RISKS axis and one tenth of the way up the YIELD axis. VC defines a square, it's dot is a little over half way into the RISKS axis and half way up the YIELD axis. RADICAL defines a large vertical parallelogram, with its dot at a little less than half way into the RISKS axis and nine tenth of the way up
