@@ -8,7 +8,7 @@ image:    "dynamic-distribution-1.svg"
 
 <div style="display:none;">An abbreviated description of the <span style="font-size: smaller; ">RADICAL</span> Model</div>
 
-<h1 style="text-align: center; font-size:7ex; ">Strictly for the Impatient</h1>
+<h1 style="text-align: center; font-size:7ex; margin-bottom:20px; ">Strictly for the Impatient</h1>
 
 <h2>Business Run as Dictatorships Hurt Us</h2>
 <p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.</p>
@@ -85,7 +85,7 @@ image:    "dynamic-distribution-1.svg"
 </p>
 <br>
 
-<h1 style="text-align: center; font-size:7ex; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution</h1>
+<h1 style="text-align: center; font-size:7ex; margin-bottom:20px; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution</h1>
 <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
 
  <h2>Rosedale Distribution</h2>
@@ -273,7 +273,7 @@ image:    "dynamic-distribution-1.svg"
    <p>In short, <SPAN>RAD</SPAN>s account for the uncountable, they measure the immeasurable.
    </p>
 
-<h1 style="text-align: center; font-size:7ex; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
+<h1 style="text-align: center; font-size:7ex; margin-bottom:20px; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <SPAN>RAD</SPAN>s. For example,
  </p>
  <ul>
@@ -387,7 +387,7 @@ image:    "dynamic-distribution-1.svg"
    </p>
  <br>
 
-<h1 style="text-align: center; font-size:7ex; ">RELATED</h1>
+<h1 style="text-align: center; font-size:7ex; margin-bottom:20px; ">RELATED</h1>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
