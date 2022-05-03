@@ -62,7 +62,7 @@ image:    "dynamic-distribution-1.svg"
  <p style="font-size: smaller; padding: 0 3em; ">“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
 </pre>
 
-<h2>xAlignment</h2>
+<h2>Alignment</h2>
 <p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, we first need to be explicit about the company’s IMPACT  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump tje, in different ways. No matter, they have to be explicit and completely open and accessible to everyone.</p>
 <p>The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,</p>
 <pre style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
@@ -70,16 +70,20 @@ image:    "dynamic-distribution-1.svg"
 </pre>
 <p>
  <ul>
-  <li>Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.
-   <p>Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, “… a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.”<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></li>
-  <li>Purpose is the reason why we, as a company, are focused on this particular Impact. It doesn't have to be world shaking and it doesn't have to strum your heart’s strings. An effective Purpose must clearly express <em>why</em> it is important for others to join us in this adventure.</li>
-  <li>The Mission defines <em>what</em> we are going to do to move towards the Impact, <em>how</em> we are going to do it, and by <em>when</em>. This is a conversation, live, dynamic conversation where everybody who wants to can participate. It is not "suggestions" sent by email to somebody else who is going to select by popularity or any such.And, yes, there are many ways to do it with 50, 1,00, or 10,000 people.</li>
+  <li>
+   <p>Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.</p>
+   <p>Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, “… a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.”<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
+  </li>
+  <li>
+   <p>Purpose is the reason why we, as a company, are focused on this particular Impact. It doesn't have to be world shaking and it doesn't have to strum your heart’s strings. An effective Purpose must clearly express <em>why</em> it is important for others to join us in this adventure.</p>
+  </li>
+  <li>
+   <p>The Mission defines <em>what</em> we are going to do to move towards the Impact, <em>how</em> we are going to do it, and by <em>when</em>. This is a conversation, live, dynamic conversation where everybody who wants to can participate. It is not "suggestions" sent by email to somebody else who is going to select by popularity or any such.And, yes, there are many ways to do it with 50, 1,00, or 10,000 people.</p>
+  </li>
  </ul>
 </p>
 <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to ,<em>everybody</em> in the team.
 </p>
-
-<br>
 <br>
 
 <h1 style="text-align: center; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution</h1>
