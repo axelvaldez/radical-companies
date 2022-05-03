@@ -9,7 +9,6 @@ image:    "dynamic-distribution-1.svg"
 <div style="display:none;">An abbreviated description of the <span style="font-size: smaller; ">RADICAL</span> Model</div>
 
 <h1 style="text-align: center; font-size:14ex; ">Strictly for the Impatient</h1>
-<br>
 
 <h2>What Hurt Us</h2>
 <p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.</p>
@@ -279,7 +278,6 @@ image:    "dynamic-distribution-1.svg"
    </p>
    <p>In short, <SPAN>RAD</SPAN>s account for the uncountable, they measure the immeasurable.
    </p>
-  <br>
 
 <h1 style="text-align: center; font-size:14ex; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <SPAN>RAD</SPAN>s. For example,
