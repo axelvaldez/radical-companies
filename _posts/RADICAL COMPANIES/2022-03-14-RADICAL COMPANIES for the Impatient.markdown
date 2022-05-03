@@ -101,7 +101,7 @@ image:    "dynamic-distribution-1.svg"
    </li>
   </ul>
 
- <h2>The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution Is Difference</h2>
+ <h2>The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution Difference</h2>
   <p>Instead of cash or stocks, <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution uses a dimensionless unit we call a <SPAN>RAD</SPAN>. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, <SPAN>RAD</SPAN>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>. 
   </p>
   <p>RADs represent any kind of contribution, not just financial. In fact, as an accounting tool, <SPAN>RAD</SPAN>s account for the unaccountable.
