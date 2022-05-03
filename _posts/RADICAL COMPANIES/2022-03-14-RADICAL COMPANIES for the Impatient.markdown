@@ -300,13 +300,13 @@ image:    "dynamic-distribution-1.svg"
     <li>Each co-owner is responsible for her PRI Account and has to pay back what they got out of it. Most likely, this will be paid back out of Earned Dividends once revenue goes above breakeven, but this is something you’d have to experiment with.</li>
     <li>In the worst case, if the company goes belly up, then if the PRI Account was funded with investment money, there’s no “debt” to be paid back. If it was funded with a loan, then people with unpaid balances have to make good on that loan.</li>
    </ul>
-  <p>The PRI looks like a salary,  </p>
+  <p>The PRI functions a lot like a salary,  </p>
   <ul>
-   <li>If I earned more than my PRI, then I can take home my PRI and my Earned Dividends.</li>
-   <li>If what I’ve earned matches my PRI, then I take that much home, similar to a traditional salary.</li>
-   <li>If I earned less than my PRI, I still take home the amount of money I expected, because the PRI Account makes up the difference. But I now owe the difference to the PRI Account.</li>
+   <li>If I earned <em>more</em> than my PRI, then I can take home my PRI <em>and my Earned Dividends</em>.</li>
+   <li>If what I’ve earned matches my PRI, then I take that much home, reminiscent of a traditional salary.</li>
+   <li>If I earned <em>less than my PRI</em>, I still take home <em>the amount of money I expected</em>, because the PRI Account makes up the difference, but I now owe the difference to the PRI Account.</li>
   </ul>
-  <p>You’ll have to experiment with how these debts are settled. At its loosest, I could pay that debt “later” (<em>e.g.</em>, out of my future Earned Dividends). At its most rigid, I’d have to pay the PRI Account debt, plus interest, within 60 days. Our suggestion, as always, is to go for a policy that matches your current situation and group of people. If a problem crops up, then see if the policy needs to be changed. Otherwise, don’t yield to your imagined fears.</p>
+  <p>You’ll have to experiment with how these debts are settled. At its loosest, I could pay that debt “later” (<em>e.g.</em>, out of my future Earned Dividends). At its most rigid, I’d have to pay the PRI Account debt, plus interest, within 60 days. Our suggestion, as always, is to go for a policy that matches peoples' needs and situation. If a problem crops up, then tweak the policy as appropiate. In any case, don’t yield to imagined fears.</p>
   <p>In the example below, Salim, Daliah, Alicia, and Anita earned enough dividends to cover their full Predictable Recurring Income (PRI); Kim and Julio earned less than their PRI, so money flows out of the <em>PRI Account</em> to make up the difference, but they now owe this much to the <em>PRI Account</em>.</p>
   <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/en-predictable-recurring-income-pri-t0.svg" alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs.
