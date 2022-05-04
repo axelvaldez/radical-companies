@@ -86,7 +86,7 @@ image:    "dynamic-distribution-1.svg"
 <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
 
  <h2>Inspiration: The Rosedale Distribution</h2>
-  <p>Rosedale Distribution<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,
+  <p>Rosedale Distribution<sup id="fnref5"><a href="#fn4" rel="footnote">5</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,
   </p>
   <ul>
    <li>As the company grows, a small amount of cash and shares are put out for distribution every month.
@@ -167,7 +167,7 @@ image:    "dynamic-distribution-1.svg"
     <td colspan="4">&nbsp;</td>
    </tr>
   </table>
-  <p>As people share and grant each other <span>RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
+  <p>As people share and grant each other <span>RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn5" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
   <h3>The RADICAL Distribution Includes Banners</h3>
    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.
    </p>
@@ -342,9 +342,8 @@ image:    "dynamic-distribution-1.svg"
   <li id="fn1"><h6><a href="#fnref1">🔼</a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>). May 4, 2020.</h6>x</li>
   <li id="fn2"><h6><a href="#fnref2">🔼</a>This is also a gesture popularized in <a href="https://en.wikipedia.org/wiki/The_Hunger_Games">The Hunger Games</a> movies to express unity with people striving to survive. Since 2014 it has also become a symbol of <a href="https://radicals.world/pG9bAM">pro-democracy in Thailand</a> (alt., <a href="https://diigo.com/0iu409">here</a>). Very apropos.x</li>
   <li id="fn3"><h6><a href="#fnref3">🔼</a>Dave Logan. How to Develop Your Noble Obsession (alt., <a href="">here</a>). Aug 5, 2013.</li>
-  <li id="fn4"><h6><a href="#fnref4">🔼</a>Luis Ortiz. <a href="https://nearsoft.com/videos/life-at-nearsoft/">Work Hard, Have Fun: a Day-in-the-Life at Nearsoft</a> (alt., <a href="https://diigo.com/0j6zps">here</a>).x</li>
-  <li id="fn5"><h6><a href="#fnref5">🔼</a><a href="https://en.wikipedia.org/wiki/Philip_Rosedale">Philip Rosedale</a> introduced the tool in 2005 when Linden Labs had about 50 employees.x</li>
-  <li id="fn6"><h6><a href="#fnref6">🔼</a>James Owen. <a href="https://www.goodreads.com/quotes/1279415-it-ain-t-bragging-if-you-ve-done-it-there-s-nothing-wrong">Drawing Out the Dragons: A Meditation on Art, Destiny, and the Power of Choice</a> (alt., <a href="https://diigo.com/0ofgkz">here</a>). 2014.x</li>
+  <li id="fn4"><h6><a href="#fnref5">🔼</a><a href="https://en.wikipedia.org/wiki/Philip_Rosedale">Philip Rosedale</a> introduced the tool in 2005 when Linden Labs had about 50 employees.x</li>
+  <li id="fn5"><h6><a href="#fnref6">🔼</a>James Owen. <a href="https://www.goodreads.com/quotes/1279415-it-ain-t-bragging-if-you-ve-done-it-there-s-nothing-wrong">Drawing Out the Dragons: A Meditation on Art, Destiny, and the Power of Choice</a> (alt., <a href="https://diigo.com/0ofgkz">here</a>). 2014.x</li>
  </ol>
 
 <h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; ">RELATED</h1>
