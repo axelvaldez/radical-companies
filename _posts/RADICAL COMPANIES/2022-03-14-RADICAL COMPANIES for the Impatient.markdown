@@ -131,22 +131,20 @@ image:    "dynamic-distribution-1.svg"
   <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,</p>
   <table style="width: 80%; margin: 0 auto; ">
    <tr>
-    <td colspan="4"><img src="/assets/img/dynamic-distribution-1.svg" alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person." title="17 of 56 people. One person’s point of view.">
-    </td>
+    <td colspan="4"><img src="/assets/img/dynamic-distribution-1.svg" alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person." title="One person’s point of view: 17 of 56 people."></td>
    </tr>
    <tr>
-    <td colspan="4" style="font-size: larger; text-align: center; ">17 of 56 people. One person’s point of view.
-    </td>
+    <td colspan="4" style="font-size: larger; text-align: center; ">One person’s point of view: 17 of 56 people.</td>
    </tr>
    <tr>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/dynamic-distribution-2.svg" alt="A small circle inside which there are 56 monochrome faces, 31 of which are in color to indicate they've been given RADs by two people." title="31 of 56 people. Two people’s point of view.">
+      <img src="/assets/img/dynamic-distribution-2.svg" alt="A small circle inside which there are 56 monochrome faces, 31 of which are in color to indicate they've been given RADs by two people." title="Two people’s point of view: 31 of 56 people.">
      </p>
     </td>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/dynamic-distribution-3.svg" alt="A small circle inside which there are 56 monochrome faces, 40 of which are in color to indicate they've been given RADs by three people." title="40 of 56 people. Three people’s point of view."></p>
+      <img src="/assets/img/dynamic-distribution-3.svg" alt="A small circle inside which there are 56 monochrome faces, 40 of which are in color to indicate they've been given RADs by three people." title="Three people’s point of view: 40 of 56 people."></p>
     </td>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
