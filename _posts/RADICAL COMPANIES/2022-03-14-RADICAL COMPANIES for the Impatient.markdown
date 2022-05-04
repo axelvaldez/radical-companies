@@ -207,14 +207,11 @@ image:    "dynamic-distribution-1.svg"
     </tr>
     <tr style="vertical-align: top; ">
      <th style=" text-align: right; padding-right: 1em; ">
-      <p>Experimental Projects
-      </p>
+      <p>Experimental Projects</p>
      </th>
      <td>
-      <p>At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects and  things like Google News came out of it. That was a generous policy given by the <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> owners, but the same owners later took it away.
-      </p>
-      <p>For a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company the equivalent thing would be to put up a “20%” Banner and co-owners could allocate RADs to it as they see fit. Or more specifically, a “Google News” Banner could fund that specific project.
-      </p>
+      <p>At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects and  things like Google News came out of it. That was a generous gift from the <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> owners, but the same owners later took it away.</p>
+      <p>For a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company the equivalent thing would be to put up a “20%” Banner and co-owners could allocate RADs to it as they see fit. Or more specifically, a “Google News” Banner could fund that specific project.</p>
      </td>
     </tr>
     <tr style="vertical-align: top; ">
@@ -222,10 +219,8 @@ image:    "dynamic-distribution-1.svg"
       <p>Investments</p>
      </th>
      <td>
-      <p>In <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has more to do with ego, like a pharaoh’s pyramid.
-      </p>
-      <p>In a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company , anybody can put up a “New building” Banner and allow co-owners to contribute to the funding of it or not.
-      </p>
+      <p>In <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has more to do with ego, like a pharaoh’s pyramid.</p>
+      <p>In a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company , anybody can put up a “New building” Banner and allow co-owners to contribute to the funding of it or not.</p>
      </td>
     </tr>
    </table>
