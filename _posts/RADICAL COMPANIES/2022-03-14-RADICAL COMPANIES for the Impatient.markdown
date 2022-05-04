@@ -341,7 +341,6 @@ image:    "dynamic-distribution-1.svg"
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
-    <ul>
     <li>EN: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
     <li>ES: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
     <li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
