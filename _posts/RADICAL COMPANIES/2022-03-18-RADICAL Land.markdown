@@ -44,7 +44,6 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
     </div>
    </td>
   </tr>
-  <tr><td>&nbsp;</td></tr>
  </table>
  <p style="text-align: justify; ">The bidding system might look something like this,</p>
  <ul>
