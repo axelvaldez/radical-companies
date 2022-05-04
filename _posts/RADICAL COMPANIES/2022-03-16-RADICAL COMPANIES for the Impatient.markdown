@@ -226,8 +226,9 @@ image:    "dynamic-distribution-1.svg"
    <p>Of course, you’ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
   <h3><span style="font-size:smaller; ">RAD</span>s Account for the Unaccountable</h3>
    <p><span style="font-size:smaller; ">RAD</SPAN>s represent many things other than simple financial value. They are not beans, but they can be counted.</p>
-   <p>The <SPAN>RAD</SPAN>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you’ll probably get fewer <SPAN>RAD</SPAN>s from us; if you are helping us thrive, you’ll likely get more. If you do something that goes against our Impact, “but, hey, it makes money,” you’ll get less <SPAN>RAD</SPAN>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you’ll get more <SPAN>RAD</SPAN>s.</p>
-   <p>In short, <SPAN>RAD</SPAN>s account for the uncountable, they measure the immeasurable.</p>
+   <p>The <span style="font-size:smaller; ">RAD</span>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you’ll probably get fewer <SPAN>RAD</SPAN>s from us; if you are helping us thrive, you’ll likely get more. If you do something that goes against our Impact, “but, hey, it makes money,” you’ll get less <span style="font-size:smaller; ">RAD</span>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you’ll get more <span style="font-size:smaller; ">RAD</span>s.</p>
+   <p>Maybe I gave you RADs because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
+   <p>In short, <span style="font-size:smaller; ">RAD</span>s account for the uncountable, they measure the immeasurable.</p>
 
 <h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <SPAN>RAD</SPAN>s. For example,
