@@ -253,17 +253,17 @@ image:    "dynamic-distribution-1.svg"
     <li>Each member determines their <em>Predictable  Recurring Income</em> (PRI). This is what they need to take home every month.</li>
     <li>Along with expenses, loan repayment, and other fixed expenses, the sum of all PRIs determines what for simplicity we’ll call the company’s breakeven point.</li>
     <li>Every month, the company pays its bills and all PRIs and what’s left is distributed as Earned Dividends according to each person’s <SPAN>RAD</SPAN>  allocations. This is the happy path.</li>
-    <li>When revenue doesn’t cover the breakeven point, a PRI Account for each member provides predictability. As a company we can get a loan or  an investment for this fund. Then, as needed, money flows out of the PRI Account to cover a member’s full PRI.</li>
-    <li>Each co-owner is responsible for her PRI Account and has to pay back what they got out of it. Most likely, this will be paid back out of Earned Dividends once revenue goes above breakeven, but this is something you’d have to experiment with.</li>
-    <li>In the worst case, if the company goes belly up, then if the PRI Account was funded with investment money, there’s no “debt” to be paid back. If it was funded with a loan, then people with unpaid balances have to make good on that loan.</li>
+    <li>When revenue doesn’t cover the breakeven point, a <em>PRI Account</em> for each member provides predictability. As a company we can get a loan or  an investment for this fund. Then, as needed, money flows out of the <em>PRI Account</em> to cover a member’s full PRI.</li>
+    <li>Each co-owner is responsible for her <em>PRI Account</em> and has to pay back what they got out of it. Most likely, this will be paid back out of Earned Dividends once revenue goes above breakeven, but this is something you’d have to experiment with.</li>
+    <li>In the worst case, if the company goes belly up, then if the <em>PRI Account</em> was funded with investment money, there’s no “debt” to be paid back. If it was funded with a loan, then people with unpaid balances have to make good on that loan.</li>
    </ul>
    <p>The PRI functions a lot like a salary,  </p>
    <ul>
     <li>If I earned <em>more</em> than my PRI, then I can take home my PRI <em>and my Earned Dividends</em>.</li>
     <li>If what I’ve earned matches my PRI, then I take that much home.</li>
-    <li>If I earned <em>less than my PRI</em>, I still take home <em>the amount of money I expected</em>, because the PRI Account makes up the difference, but I now owe the difference to the PRI Account.</li>
+    <li>If I earned <em>less than my PRI</em>, I still take home <em>the amount of money I expected</em>, because the <em>PRI Account</em> makes up the difference, but I now owe the difference to the <em>PRI Account</em>.</li>
    </ul>
-   <p>You’ll have to experiment with how these debts are settled. At its loosest, I could pay that debt “later” (<em>e.g.</em>, out of my future Earned Dividends). At its most rigid, I’d have to pay the PRI Account debt, plus interest, within 60 days. Our suggestion, as always, is to go for a policy that matches peoples' needs and situation. If a problem crops up, then tweak the policy as appropiate. In any case, don’t yield to imagined fears.</p>
+   <p>You’ll have to experiment with how these debts are settled. At its loosest, I could pay that debt “later” (<em>e.g.</em>, out of my future Earned Dividends). At its most rigid, I’d have to pay the <em>PRI Account</em> debt, plus interest, within 60 days. Our suggestion, as always, is to go for a policy that matches peoples' needs and situation. If a problem crops up, then tweak the policy as appropiate. In any case, don’t yield to imagined fears.</p>
    <p>In the example below, Salim, Daliah, Alicia, and Anita earned enough dividends to cover their full <em>Predictable  Recurring Income</em> (PRI); Kim and Julio earned less than their PRI, so money flows out of the <em>PRI Account</em> to make up the difference, but they now owe this much to the <em>PRI Account</em>.</p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
     <img src="/assets/img/en-predictable-recurring-income-pri-t0.svg" alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs.
@@ -275,17 +275,17 @@ image:    "dynamic-distribution-1.svg"
     The sixth column is labeled ANITA who has 300 RADs and takes $1000 in PRI.
     The graph shows a box labeled PRI ACCOUNT which is mostly filled with red liquid (an RADICAL investment). Below it are vertical boxes representing the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA takes the  largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
    </p>
-   <p>We had a lot of back and forth over the PRI Account being a <em>personal</em> debt. Why not have it be a shared debt? The problem is that this may work for small groups, but it doesn’t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don’t know. They would want to know things like “Why is Julio’s PRI so high?” On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn’t feel good about going into so much debt and brings down his PRI after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister’s school and is willing to bear the debt for a while longer.</p>
+   <p>We had a lot of back and forth over the <em>PRI Account</em> being a <em>personal</em> debt. Why not have it be a shared debt? The problem is that this may work for small groups, but it doesn’t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don’t know. They would want to know things like “Why is Julio’s PRI so high?” On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn’t feel good about going into so much debt and brings down his PRI after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister’s school and is willing to bear the debt for a while longer.</p>
    <p>If you are thinking that this process takes a lot of time, you’re right. But it is cheaper and healthier than  leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).</p>
 
  <h2>Dividends Are Not a Gift, You Earned Them</h2>
    <p>Below there are three sample scenarios for how Earned Dividends are calculated,</p>
    <ul>
-    <li>Below breakeven: When we as a company don’t generate enough Dividends to cover everybody’s PRIs in full and the difference has to come out of the PRI Accounts.</li>
+    <li>Below breakeven: When we as a company don’t generate enough Dividends to cover everybody’s PRIs in full and the difference has to come out of the <em>PRI Account</em>s.</li>
     <li>At breakeven: When we make enough to at least pay everybody’s PRI.</li>
     <li>Above breakeven: When we as a company can pay everybody’s PRI <em>and</em> disburse Earned Dividends.</li>
    </ul>
-   <p>This first scenario is what normally happens at the start of a company: it doesn’t generate enough revenue to cover everybody’s PRI. In this case, we would need a cash infusion to the PRI Account so we can use it to meet the amount of PRI each person has set.</p>
+   <p>This first scenario is what normally happens at the start of a company: it doesn’t generate enough revenue to cover everybody’s PRI. In this case, we would need a cash infusion to the <em>PRI Account</em> so we can use it to meet the amount of PRI each person has set.</p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
     <img src="/assets/img/en-predictable-recurring-income-pri-t1.svg" alt="A table and a graph. The DIVIDENS for the month is $16000, which is $10000 below the breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
     The total DIVIDENDS add up to $6000, which is below the $10000 breakeven.
@@ -327,7 +327,7 @@ image:    "dynamic-distribution-1.svg"
     The graph shows the PRI ACCOUNT as box full of read liquid.
     Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
    </p>
-   <p>Notice that even though dividends are up, Julio continues to draw from the PRI Account because his PRI is pretty high and his RAD count is pretty low. He may want to change his PRI or get feedback on why his <SPAN style="font-size:smaller; ">RAD</SPAN>s are so low.
+   <p>Notice that even though dividends are up, Julio continues to draw from the <em>PRI Account</em> because his PRI is pretty high and his RAD count is pretty low. He may want to change his PRI or get feedback on why his <SPAN style="font-size:smaller; ">RAD</SPAN>s are so low.
    </p>
 
  <h2>Comparing the <span style="font-size:smaller; ">RADICAL</span> Investment Model with that of Banks and VCs</h2>
