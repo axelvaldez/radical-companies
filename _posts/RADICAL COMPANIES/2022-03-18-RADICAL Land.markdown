@@ -21,7 +21,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <p id="fnref2" style="text-align: justify; ">In <em>Another Now</em>, Yanis Varoufakis envisions all land as a commons controlled by “gComms, as the ground commons authorities or ground trusts came to be known.”<sup><a href="#fn2" rel="footnote">2</a></sup> Henry George saw the land as one thing and anything sitting on it as separate, so his proposed single tax would tax the land net of improvements. Various people, including Joeri Torfs and Pim Ampe, have envisioned land <em>and</em> improvements as being perennially open for sale.</p>
  <p style="text-align: justify; ">My working model is that,</p>
  <ul>
-  <li>Treat land <em>and</em> improvements as one thing&mdash;it would be difficult, at best, to separate the two in people's minds for the foreseeable future.</li>
+  <li>Treat land <em>and</em> improvements as one thing&mdash;it would be difficult, at best, to separate the two in people&rsquo;s minds for the foreseeable future.</li>
   <li>The combo would always be open for bids, so that use privilege would be determined by <em>a market dedicated to calculating land value</em>.</li>
  </ul>
 
@@ -50,7 +50,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
   <li>Rather than open for bids all the time, uninvited bidding may happen, say, once or twice a year.</li>
   <li>The current occupier, on the other hand, may invite bids at any time (<em>e.g.</em>, somebody moving out of a house).</li>
   <li>The bids would be verified to be in good faith.</li>
-  <li>The winning bidder takes over as the new occupier. This could be the current occupier’s bid.</li>
+  <li>The winning bidder takes over as the new occupier. This could be the current occupier&rsquo;s bid.</li>
   <li>Whereas land ownership today is static and never ending, a winning bidder occupies the land until the next winning bid.</li>
   <li>Taxes, or equivalent, will go up or down as the winning bids go up or down.</li>
  </ul>
@@ -68,34 +68,35 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  ">
   <img src="/assets/img/en-community-fund-not-taxes.svg" alt="Five concentric circles: at the center is the Occupier with 49%; around it is the Hyper-Local Community circle with 27%; next is the Surrounding Community with 15%; next could be the Region with 6% and the State with 3% of the fund." title="Community Fund – Not Taxes">
  </p>
- <p style="text-align: justify; ">The occupier has a big say in the use of the funds that she is contributing to the community. She may not be able to add a new room, but what’s in it for her is that she can likely steer a big chunk of her contribution to her favorite community project.</p>
+ <p style="text-align: justify; ">The occupier has a big say in the use of the funds that she is contributing to the community. She may not be able to add a new room, but what&rsquo;s in it for her is that she can likely steer a big chunk of her contribution to her favorite community project.</p>
  <p style="text-align: justify; ">The adjacent, hyper-local community also has a big say and can do significant works when combined with what other occupiers contribute to the fund. Ditto for the surrounding community.</p>
  <p style="text-align: justify; ">I am not sure about “Region” and “State,” thus the question marks, but I suspect the latter will be around for a long time.</p>
 
-<h1>What Happened to the Country?</h1>
- <p style="text-align: justify; ">Note that there is no “country” circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a “country,” the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a Banner earmarked for a research area. I am not counting on the “goodness” of people or “their kind hearts”—instead, I am counting on people’s interests and their persuasive power when impassioned enough.</p>
-
-<h1>What about the Military?</h1>
- <p style="text-align: justify; ">Also, there is no funds for a military or any kind of state violence. It may take longer, but that’s where we are heading.</p>
- <p id="fnref3" style="text-align: justify; ">But, how n&auml;ive, say you, all it takes is a <em>few bad people</em> with weapons to take over the system, won’t it? Again, I am counting on people’s aversion to violence and how swiftly they can mobilize, particularly in a well-connected world, to neutralize the violence of the “few bad people.”<sup><a href="#fn3" rel="footnote">3</a></sup></p>
- <p style="text-align: justify; ">In any case, it will be worth the experimentation.</p>
+<h1>What about the the Country and Military?</h1>
+ <p style="text-align: justify; ">Note that there is no “country” circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a “country,” the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a Banner earmarked for a research area. I am not counting on the “goodness” of people or “their kind hearts”—instead, I am counting on people&rsquo;s interests and their persuasive power when impassioned enough.</p>
+ <h2>The Country?</h2>
+  <p>Note that there is no “country” circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a “country,” the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a Banner earmarked for a research area. I am not counting on the “goodness” of people or “their kind hearts”&mdash;instead, I am counting on people&rsquo;s interests and the persuasive power of their enthusiasm.</p>
+ <h2>The Military?</h2>
+  <p style="text-align: justify; ">Also, there is no funds for a military or any kind of state violence. It may take longer, but that&rsquo;s where we are heading.</p>
+  <p id="fnref3" style="text-align: justify; ">But, how n&auml;ive, say you, all it takes is a <em>few bad people</em> with weapons to take over the system, won’t it? Again, I am counting on &rsquo;s aversion to violence and how swiftly they can mobilize, particularly in a well-connected world, to neutralize the violence of the “few bad people.”<sup><a href="#fn3" rel="footnote">3</a></sup></p>
+  <p style="text-align: justify; ">In any case, it will be worth the experimentation.</p>
 
 <h1>Community Fund Governance</h1>
-<p>The “circles” in the pictures could be governed jointly or individually. For example, all the hyper-local community circles (26%) circles in the neighborhood may join up to create a park and the (3%) circles that deal with big, audacious, long-term projects may pool their funds to create a bullet train through the region. Keep in mind that when aggregated, Region and State circles have a pretty big pool of actual cash to create common goods.</p>
-<p style="font-family:courier new; text-align:center; width:80%; border:silver dotted 1px; margin:auto; margin-bottom:20px;  ">
- <img src="/assets/img/en-community-funds-intertwined.svg" alt="Five intertwined circles. the top two are intertwined at the Hyper-Local Community level (in yellow). Next two circle are intertwined at the Community level (l)ight orange). Next two are intertwined at the Region level (liht pink). The last two are intertwined at the State level (light brown)." title="Community Funds–Intertwined">
-</p>
-<p style="text-align: justify; ">A couple of unpolished thoughts,</p>
+ <p>The “circles” in the pictures could be governed jointly or individually. For example, all the hyper-local community circles (26%) circles in the neighborhood may join up to create a park and the (3%) circles that deal with big, audacious, long-term projects may pool their funds to create a bullet train through the region. Keep in mind that when aggregated, Region and State circles have a pretty big pool of actual cash to create common goods.</p>
+ <p style="font-family:courier new; text-align:center; width:80%; border:silver dotted 1px; margin:auto; margin-bottom:20px;  ">
+  <img src="/assets/img/en-community-funds-intertwined.svg" alt="Five intertwined circles. the top two are intertwined at the Hyper-Local Community level (in yellow). Next two circle are intertwined at the Community level (l)ight orange). Next two are intertwined at the Region level (liht pink). The last two are intertwined at the State level (light brown)." title="Community Funds–Intertwined">
+ </p>
+ <p style="text-align: justify; ">A couple of unpolished thoughts,</p>
 <ul>
  <li>Occupiers should not be able to pool their piece of the community fund with other occupiers.</li>
  <li>On the other hand, occupiers can pool their piece of a fund with the Community or other non-occupier circles to create common goods.</li>
 </ul>
 
- <h2>The <span style="font-size:smaller; ">RADICAL</span> Model</h2>
-  <p style="text-align: justify; ">This may be a difficult read and it may be worth repeating here a few words about the <span style="font-size: smaller; ">RADICAL</span> framework and how it’s different from our current world. Probably the most confusing thing about it is that a RADI<span style="font-size: smaller; ">RADICAL</span> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.</p>
-  <p style="text-align: justify; ">The only difference—the big difference—is that the <span style="font-size: smaller; ">RADICAL</span> system is centered around our interdependence.</p>
+ <h2>The <span style="font-size:smaller; ">RADICAL COMPANIES</span> Model</h2>
+  <p style="text-align: justify; ">It may be worth repeating here a few words about the <span style="font-size: smaller; ">RADICAL</span> framework and how it&rsquo;s different from our current world. Probably the most confusing thing about it is that a RADI<span style="font-size: smaller; ">RADICAL</span> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.</p>
+  <p style="text-align: justify; ">The only difference—the big difference—is that the <span style="font-size: smaller; ">RADICAL</span> system is centered around people&rsquo;s interdependence.</p>
   <p style="text-align: justify; ">Our current system is based on separating us: countries, towns, good and bad neighborhoods; political parties and their vastly different realities; need to know, secrecy, protection. This leaves us disconnected and drives us to isolation. Businesses are built on creating platforms to bring us back together, for a fee. This works for a world where money comes first, ahead of everything else.</p>
-  <p style="text-align: justify; ">A <span style="font-size: smaller; ">RADICAL</span> world, too, is centered around accomplishments and real innovation, but it prioritizes what’s important to people first, ahead of everything else, including money. We’ll still be individuals, with our own needs, rights, and idiosyncrasies. We are not going to become a number. The <span style="font-size: smaller; ">RADICAL</span> model is centered on trust, the type that comes from community and collaboration.</p>
+  <p style="text-align: justify; ">A <span style="font-size: smaller; ">RADICAL</span> world, too, is centered around accomplishments and real innovation, but it prioritizes what&rsquo;s important to people first, ahead of everything else, including money. We’ll still be individuals, with our own needs, rights, and idiosyncrasies. We are not going to become a number. The <span style="font-size: smaller; ">RADICAL</span> model is centered on trust, the type that comes from community and collaboration.</p>
  <h3>The <span style="font-size: smaller; ">RADICAL</span> Model</h3>
   <p style="text-align: justify; ">We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands telling people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it. Here we assume a <span style="font-size: smaller; ">RADICAL</span> world that is, at the same time, alike and different from our world today. </p>
   <p style="text-align: justify; ">In the <span style="font-size: smaller; ">RADICAL</span> model, a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word “company” because it has an interesting genesis: it comes from the Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means “together, with” and <em>pan</em> means “bread, food.” At its root, then, <em>company</em> means “people who break bread together.” In the <span style="font-size: smaller; ">RADICAL</span> model a company is a community of people who come together to contribute broad value to society and make an impact on the world.</p>
@@ -135,7 +136,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
   </table>
  <h3>Evolution</h3>
   <p id="fnref4" style="text-align: justify; ">As I see it, the <span style="font-size: smaller; ">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup><a href="#fn4" rel="footnote">4</a></sup></p>
-  <p style="text-align: justify; ">The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of interdependence towards a higher level of collaboration.</p>
+  <p style="text-align: justify; ">The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of interdependence towards a higher level of collaboration.</p>
 
  <h2>In Summary…</h2>
   <p style="text-align: justify; ">TBD</p>
