@@ -53,7 +53,7 @@ image:    "dynamic-distribution-1.svg"
   <li>Are we taking people's autonomy to determine who they work with? (<em>e.g.</em>, pre-assigned "teams")</li>
   <li>Will this make it more or less centralized? (<em>e.g.</em>, having an entitled subcommittee)</li>
   <li>Will this decision make us more or less transparent? (<em>e.g.</em>, predetermining budgets)</li>
-  <li>Does this go agains our agreed upon alignment? (<em>e.g.</em>, "We have to do this for a little while&hellip;&nbsp;")</li>
+  <li>Does this go against our agreed upon alignment? (<em>e.g.</em>, "We have to do this for a little while&hellip;&nbsp;")</li>
   <li>Are we allowing for experimentation? (<em>e.g.</em>, "This has to meet these requirement <em>and</em> it has to be done this way&hellip;&nbsp;")</li>
  </ul>
  <p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed and by the people involved.</p>
