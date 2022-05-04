@@ -58,9 +58,8 @@ image:    "dynamic-distribution-1.svg"
  </ul>
  <p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed and by the people involved.</p>
  <div id="fnref1"> </div>
- <pre class="prettyprint" style="font-size:40px; text-align:center; border:1px solid CadetBlue; background-color:#FFFAF0; font-family:American Typewriter, serif; white-space:normal; margin:30px 0; ">
-  <p style="font-size: smaller; padding: 0 3em; ">“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup><a href="#fn1" rel="footnote">1</a></sup></p>
- </pre>
+ <p>Unlike in a FIAT business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time. “An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup><a href="#fn1" rel="footnote">1</a></sup></p>
+
 
  <h2>Alignment Must Be Explicit and Transparent</h2>
  <p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, we first need to be explicit about the company’s IMPACT  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump tje, in different ways. No matter, they have to be explicit and completely open and accessible to everyone.</p>
