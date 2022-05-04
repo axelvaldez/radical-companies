@@ -18,7 +18,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <p style="text-align: justify; ">In <a href="https://radicalcompanies.com/2022/03/17/radical-coins"><span style="font-size: smaller; ">RADICAL COIN</span></a>, I laid out a few ideas about money and what it would look like in a decentralized, transparent world; land and government are definitely harder topics for me. In this document I am laying out my thoughts about what the model for land would look like in a <span style="font-size: smaller; ">RADICAL</span> world.</p>
 
 <h1>Land Models</h1>
- <p style="text-align: justify; ">In <em>Another Now</em>, Yanis Varoufakis envisions all land as a commons controlled by “gComms, as the ground commons authorities or ground trusts came to be known.”<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> Henry George saw the land as one thing and anything sitting on it as separate, so his proposed single tax would tax the land net of improvements. Various people, including Joeri Torfs and Pim Ampe, have envisioned land <em>and</em> improvements as being perennially open for sale.</p>
+ <p id="fnref2" style="text-align: justify; ">In <em>Another Now</em>, Yanis Varoufakis envisions all land as a commons controlled by “gComms, as the ground commons authorities or ground trusts came to be known.”<sup><a href="#fn2" rel="footnote">2</a></sup> Henry George saw the land as one thing and anything sitting on it as separate, so his proposed single tax would tax the land net of improvements. Various people, including Joeri Torfs and Pim Ampe, have envisioned land <em>and</em> improvements as being perennially open for sale.</p>
  <p style="text-align: justify; ">My working hypothesis is that,</p>
  <ul>
   <li>Land <em>and</em> improvements, combined, are one thing because it would be difficult, at best, to separate the two</li>
@@ -77,7 +77,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
 
 <h1>Military?</h1>
  <p style="text-align: justify; ">Also, there is no funds for a military or any kind of state violence. It may take longer, but that’s where we are heading.</p>
- <p style="text-align: justify; ">But, how n&auml;ive, say you, all it takes is a <em>few bad people</em> with weapons to take over the system, won’t it? Again, I am counting on people’s aversion to violence and how swiftly they can mobilize, particularly in a well-connected world, to neutralize the violence of the “few bad people.”<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
+ <p id="fnref3" style="text-align: justify; ">But, how n&auml;ive, say you, all it takes is a <em>few bad people</em> with weapons to take over the system, won’t it? Again, I am counting on people’s aversion to violence and how swiftly they can mobilize, particularly in a well-connected world, to neutralize the violence of the “few bad people.”<sup><a href="#fn3" rel="footnote">3</a></sup></p>
  <p style="text-align: justify; ">In any case, it will be worth the experimentation.</p>
 
 <h1>Community Fund Governance</h1>
@@ -134,7 +134,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
    </tr>
   </table>
  <h3>Evolution</h3>
-  <p style="text-align: justify; ">As I see it, the <span style="font-size: smaller; ">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup></p>
+  <p id="fnref4" style="text-align: justify; ">As I see it, the <span style="font-size: smaller; ">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup><a href="#fn4" rel="footnote">4</a></sup></p>
   <p style="text-align: justify; ">The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of interdependence towards a higher level of collaboration.</p>
 
  <h2>In Summary…</h2>
