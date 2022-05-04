@@ -236,7 +236,7 @@ image:    "dynamic-distribution-1.svg"
     </tr>
    </table>
   <h3>The RADICAL Distribution Includes Retrospectives</h3>
-   <p>At a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much or as little of their criteria. These do not prevent people from making their own decisions, but it serves as a guide.</p>
+   <p>At a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
   <h3>The RADICAL Distribution Includes Feedback</h3>
    <p>Anybody who wants to can call for a feedback session after a Distribution. In particular, people who didn’t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it’s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
   <h3>The RADICAL Distribution Is Transparency</h3>
