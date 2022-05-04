@@ -186,7 +186,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
    </li>
    <li id="fn4">
     <h6>
-     <a href="#fnref4">🔼</a>&nbsp;I must admit that this aspect of the RADICAL model would be a pushover for outer space FIAT invaders.
+     <a href="#fnref4">🔼</a>&nbsp;I must admit that this aspect of the RADICAL model would be a pushover for malevolent outer space FIAT invaders.
     </h6>
    </li>
   </ol>
