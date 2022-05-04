@@ -337,6 +337,16 @@ image:    "dynamic-distribution-1.svg"
    </p>
  <br>
 
+<h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; ">ENDNOTES</h1>
+ <ol>
+  <li id="fn1"><h6><a href="#fnref1">🔼</a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>). May 4, 2020.</h6></li>
+  <li id="fn2"><h6><a href="#fnref2">🔼</a>2. This is also a gesture popularized in <a href="https://en.wikipedia.org/wiki/The_Hunger_Games">The Hunger Games</a> movies to express unity with people striving to survive. Since 2014 it has also become a symbol of <a href="https://radicals.world/pG9bAM">pro-democracy in Thailand</a> (alt., <a href="https://diigo.com/0iu409">here</a>). Very apropos.</li>
+  <li id="fn3"><h6><a href="#fnref3">🔼</a>3. Dave Logan. How to Develop Your Noble Obsession (alt., <a href="">here</a>). Aug 5, 2013.</li>
+  <li id="fn4"><h6><a href="#fnref4">🔼</a>Luis Ortiz. <a href="https://nearsoft.com/videos/life-at-nearsoft/">Work Hard, Have Fun: a Day-in-the-Life at Nearsoft</a> (alt., <a href="https://diigo.com/0j6zps">here</a>).</li>
+  <li id="fn5"><h6><a href="#fnref5">🔼</a><a href="https://en.wikipedia.org/wiki/Philip_Rosedale">Philip Rosedale</a> introduced the tool in 2005 when Linden Labs had about 50 employees.</li>
+  <li id="fn6"><h6><a href="#fnref6">🔼</a>James Owen. <a href="https://www.goodreads.com/quotes/1279415-it-ain-t-bragging-if-you-ve-done-it-there-s-nothing-wrong">Drawing Out the Dragons: A Meditation on Art, Destiny, and the Power of Choice</a> (alt., <a href="https://diigo.com/0ofgkz">here</a>). 2014.</li>
+ </ol>
+
 <h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; ">RELATED</h1>
 <ul>
   <li>RADICAL COMPANIES,</li>
@@ -390,7 +400,5 @@ image:    "dynamic-distribution-1.svg"
   </ul>
 </ul>
 
-<h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; ">ENDNOTES</h1>
- <ol>
-  <li id="fn1"><h6><a href="#fnref1">🔼</a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>). May 4, 2020.</h6></li>
- </ol>  
+
+ 
