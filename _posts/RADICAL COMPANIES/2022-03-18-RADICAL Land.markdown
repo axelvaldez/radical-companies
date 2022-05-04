@@ -137,9 +137,10 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <p id="fnref4" style="text-align: justify; ">As I see it, the <span style="font-size: smaller; ">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup><a href="#fn4" rel="footnote">4</a></sup></p>
  <p style="text-align: justify; ">The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of interdependence towards a higher level of collaboration.</p>
 
-<h1 style="text-align:center; ">APPENDICES</h1>
- <h2>Terminology</h2>
-  <h3>Common Good</h3>
+<h1 style="font-size:larger; text-align:center; ">APPENDICES</h1>
+
+ <h1>Terminology</h1>
+  <h2>Common Good</h2>
    <p style="text-align: justify; ">A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.</p>
    <p style="text-align: justify; ">Land and improvements on it are common goods. If it is occupied, it is managed by the occupier until the next bid for it comes in. If it is disoccupied, then it defaults to its surrounding community until someone bids for it (<em>i.e.</em>, the community cannot counter-bid).</p>
    <p style="text-align: justify; ">Common goods, like a park, would have an infinite value and so no big can possibly top it. The particular community can retire a common good and open it to bids. The mechanism for doing so is up to community politics, and generally it may look like this,</p>
@@ -147,19 +148,20 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
     <img src="/assets/img/en-all-politics.svg" alt="Three circles: the left-most is labeled LAND OPEN FOR BIDS. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes into a bigger circle labeled COMMON GOOD. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes to a smaller circle labeled LAND OPEN FOR BIDS." title="Common Goods and Politics">
    </p>
    <p style="text-align: justify; ">A community may denominate not enough or a whole lot of land in the “common good” category. The community will literally prosper or not by those kinds of decisions. The <span style="font-size: smaller; ">RADICAL</span> model decentralizing principle gives the people most immediately affected a strong voice in the process.</p>
-  <h3>Hyper-local Community</h3>
+  <h2>Hyper-local Community</h2>
    <p style="text-align: justify; ">The community that is literally adjacent to the land in question. This includes communities that are physically close and those which are logically close.</p>
-  <h3>Surrounding Community</h3>
+  <h2>Surrounding Community</h2>
    <p style="text-align: justify; ">The community that is physically or logically adjacent to the hyper-local community. </p>
-  <h3>Improvements</h3>
+  <h2>Improvements</h2>
    <p style="text-align: justify; ">Anything added to the land in question. It could be houses, barns, irrigation, drainage, electricity, etc.</p>
-  <h3>Occupier</h3>
+  <h2>Occupier</h2>
    <p style="text-align: justify; ">Occupiers are what we would call owners in our current FIAT model. The difference is that it lasts until the next bidding.</p>
    <p style="text-align: justify; ">If the current occupier wins, then everything continues as before. However, if somebody has a higher bid, the new occupier moves in. If the new occupier wants to do away with an improvement, she pays for doing so.</p>
    <p style="text-align: justify; ">In either case, the occupier pays a percentage of her bid to the community fund; note that it could be higher or lower than before. No matter, the market calculated a new value for the land and its improvements.</p>
-  <h3>Winning Bid</h3>
+  <h2>Winning Bid</h2>
    <p style="text-align: justify; ">The highest bid on any parcel of land.</p>
- <h2 style="text-align: center;">FAQ</h2>
+
+ <h1 style="text-align: center;">FAQ</h1>
   <h3>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h3>
    <p style="text-align: justify; ">This really is a distinction without a difference. A <span style="font-size: smaller; ">COIN</span> minted by a one person &ldquo;company&rdquo; will probably have a very high risk and nobody would take it.</p>
    </p>On the other hand, there may be a young perfume maker who is very well known in his community for producing exquisite perfumes. People may accept her <span style="font-size: smaller; ">COIN</span>s based on personal knowledge.</p>
