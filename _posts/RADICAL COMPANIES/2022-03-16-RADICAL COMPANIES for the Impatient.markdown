@@ -12,7 +12,7 @@ image:    "dynamic-distribution-1.svg"
 
  <h2>Businesses-as-Dictatorships Hurt Us</h2>
  <p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.</p>
- <p>Nature follows a simple path to create big beautiful things out of unpretentious, small ones. From tiny seed to mighty oak tree. We don’t think that a long list of principles or color scales or a 17 page constitution are necessary to make a fundamental change. Eventually, these can become dogma, a form of force, and get in the way.</p>
+ <p>Nature follows a simple path to create big beautiful things out of unpretentious, small ones. From a tiny seed to a mighty oak tree. We don’t think that a long list of principles or color scales or a 17 page constitution are necessary to make a fundamental change. Eventually, these can become dogma, a form of force, and get in the way.</p>
  <p> With that in mind, we came up with what we think are the most basic foundations to support our coming together to share work and wealth.</p>
 
  <h2>Easy-to-Remember Foundation for a <span style="font-size:smaller; ">RADICAL</span> Company</h2>
