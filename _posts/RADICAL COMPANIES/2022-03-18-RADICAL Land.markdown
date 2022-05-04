@@ -17,12 +17,12 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <p style="text-align: justify; ">In the book <span style="font-size:smaller; "><a href="https://radicalcompanies.com">RADICAL COMPANIES</a></span>, we only considered how the <span style="font-size: smaller; ">RADICAL</span> model would work in <em>a company environment</em>, and other than a mention, we said nothing about money, land, or governments.</p>
  <p style="text-align: justify; ">In <a href="https://radicalcompanies.com/2022/03/17/radical-coins"><span style="font-size: smaller; ">RADICAL COIN</span></a>, I laid out a few ideas about money and what it would look like in a decentralized, transparent world; land and government are definitely harder topics for me. In this document I am laying out my thoughts about what the model for land would look like in a <span style="font-size: smaller; ">RADICAL</span> world.</p>
 
-<h1>The <span style="font-size:smaller; ">RADICAL<span> Land Models</h1>
+<h1>The <span style="font-size:smaller; ">RADICAL<span> Land Model</h1>
  <p id="fnref2" style="text-align: justify; ">In <em>Another Now</em>, Yanis Varoufakis envisions all land as a commons controlled by “gComms, as the ground commons authorities or ground trusts came to be known.”<sup><a href="#fn2" rel="footnote">2</a></sup> Henry George saw the land as one thing and anything sitting on it as separate, so his proposed single tax would tax the land net of improvements. Various people, including Joeri Torfs and Pim Ampe, have envisioned land <em>and</em> improvements as being perennially open for sale.</p>
  <p style="text-align: justify; ">My working hypothesis is that,</p>
  <ul>
-  <li>Land <em>and</em> improvements, combined, are one thing because it would be difficult, at best, to separate the two</li>
-  <li>The combo would always be open for bids, so that use privilege would be determined by a market that is limited to calculating value.</li>
+  <li>Treat land <em>and</em> improvements, combined, as one thing&mdash;it would be difficult, at best, to separate the two in people's minds for the foreseeable future.</li>
+  <li>The combo would always be open for bids, so that use privilege would be determined by a market focused on land value.</li>
  </ul>
 
 <h1>Always Open for Bid</h1>
