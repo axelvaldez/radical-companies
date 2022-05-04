@@ -92,57 +92,53 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <li>On the other hand, occupiers can pool their piece of a fund with the Community or other non-occupier circles to create common goods.</li>
 </ul>
 
- <h2>The <span style="font-size:smaller; ">RADICAL COMPANIES</span> Model</h2>
-  <p style="text-align: justify; ">It may be worth repeating here a few words about the <span style="font-size: smaller; ">RADICAL</span> framework and how it&rsquo;s different from our current world. Probably the most confusing thing about it is that a RADI<span style="font-size: smaller; ">RADICAL</span> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.</p>
-  <p style="text-align: justify; ">The only difference—the big difference—is that the <span style="font-size: smaller; ">RADICAL</span> system is centered around people&rsquo;s interdependence.</p>
-  <p style="text-align: justify; ">Our current system is based on separating us: countries, towns, good and bad neighborhoods; political parties and their vastly different realities; need to know, secrecy, protection. This leaves us disconnected and drives us to isolation. Businesses are built on creating platforms to bring us back together, for a fee. This works for a world where money comes first, ahead of everything else.</p>
-  <p style="text-align: justify; ">A <span style="font-size: smaller; ">RADICAL</span> world, too, is centered around accomplishments and real innovation, but it prioritizes what&rsquo;s important to people first, ahead of everything else, including money. We’ll still be individuals, with our own needs, rights, and idiosyncrasies. We are not going to become a number. The <span style="font-size: smaller; ">RADICAL</span> model is centered on trust, the type that comes from community and collaboration.</p>
- <h3>The <span style="font-size: smaller; ">RADICAL</span> Model</h3>
-  <p style="text-align: justify; ">We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands telling people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it. Here we assume a <span style="font-size: smaller; ">RADICAL</span> world that is, at the same time, alike and different from our world today. </p>
-  <p style="text-align: justify; ">In the <span style="font-size: smaller; ">RADICAL</span> model, a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word “company” because it has an interesting genesis: it comes from the Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means “together, with” and <em>pan</em> means “bread, food.” At its root, then, <em>company</em> means “people who break bread together.” In the <span style="font-size: smaller; ">RADICAL</span> model a company is a community of people who come together to contribute broad value to society and make an impact on the world.</p>
-  <p style="text-align: justify; ">Rather than having an owner and a hierarchy of bosses, a <span style="font-size: smaller; ">RADICAL</span> company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.</p>
-  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-   <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
-  </p>
-  <p style="text-align: justify; ">They do this starting from a simple foundation of interdependence,</p>
-  <table align="center">
-   <tr>
-    <td valign="middle" style="text-align: right; ">principles&nbsp;&nbsp;</td>
-    <td style="text-align: center; background-color: lightgrey; ">Meaning &<br>Belonging</td>
-    <td valign="middle" style="font-size: larger; "> ⬈</td>
-    <td valign="top">relationships</td>
-   </tr>
-   <tr>
-    <td style="background-color: white; height: 7px;"></td>
-   </tr>
-   <tr>
-    <td valign="middle" style="text-align: right; ">commitments&nbsp;&nbsp;</td>
-    <td style="text-align: center; background-color: lightgrey;">Transparency &<br>Decentralization</td>
-    <td valign="middle" style="font-size: larger; "> ⬈</td>
-    <td valign="top"><em>autonomy</em></td>
-   </tr>
-   <tr>
-    <td style="background-color: white; height: 7px;"></td>
-   </tr>
-   <tr>
-    <td valign="middle" style="text-align: right; ">practices&nbsp;&nbsp;</td>
-    <td style="text-align: center; background-color: lightgrey; ">Alignment &<br>Experimentation</td>
-    <td valign="middle" style="font-size: larger; "> ⬈</td>
-    <td valign="top"><em>collaboration</em></td>
-   </tr>
-   <tr>
-    <td colspan="4">&nbsp;</td>
-   </tr>
-  </table>
- <h3>Evolution</h3>
-  <p id="fnref4" style="text-align: justify; ">As I see it, the <span style="font-size: smaller; ">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup><a href="#fn4" rel="footnote">4</a></sup></p>
-  <p style="text-align: justify; ">The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of interdependence towards a higher level of collaboration.</p>
+<h1>The <span style="font-size:smaller; ">RADICAL COMPANIES</span> Model</h1>
+ <p style="text-align: justify; ">It may be worth repeating here a few words about the <span style="font-size: smaller; ">RADICAL</span> framework and how it&rsquo;s different from our current world. Probably the most confusing thing about it is that a RADI<span style="font-size: smaller; ">RADICAL</span> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.</p>
+ <p style="text-align: justify; ">The only difference—the big difference—is that the <span style="font-size: smaller; ">RADICAL</span> system is centered around people&rsquo;s interdependence.</p>
+ <p style="text-align: justify; ">Our current system is based on separating us: countries, towns, good and bad neighborhoods; political parties and their vastly different realities; need to know, secrecy, protection. This leaves us disconnected and drives us to isolation. Businesses are built on creating platforms to bring us back together, for a fee. This works for a world where money comes first, ahead of everything else.</p>
+ <p style="text-align: justify; ">A <span style="font-size: smaller; ">RADICAL</span> world, too, is centered around accomplishments and real innovation, but it prioritizes what&rsquo;s important to people first, ahead of everything else, including money. We’ll still be individuals, with our own needs, rights, and idiosyncrasies. We are not going to become a number. The <span style="font-size: smaller; ">RADICAL</span> model is centered on trust, the type that comes from community and collaboration.</p>
+ <p style="text-align: justify; ">We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands telling people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it. Here we assume a <span style="font-size: smaller; ">RADICAL</span> world that is, at the same time, alike and different from our world today. </p>
+ <p style="text-align: justify; ">In the <span style="font-size: smaller; ">RADICAL</span> model, a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word “company” because it has an interesting genesis: it comes from the Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means “together, with” and <em>pan</em> means “bread, food.” At its root, then, <em>company</em> means “people who break bread together.” In the <span style="font-size: smaller; ">RADICAL</span> model a company is a community of people who come together to contribute broad value to society and make an impact on the world.</p>
+ <p style="text-align: justify; ">Rather than having an owner and a hierarchy of bosses, a <span style="font-size: smaller; ">RADICAL</span> company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.</p>
+ <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+  <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
+ </p>
+ <p style="text-align: justify; ">They do this starting from a simple foundation of interdependence,</p>
+ <table align="center">
+  <tr>
+   <td valign="middle" style="text-align: right; ">principles&nbsp;&nbsp;</td>
+   <td style="text-align: center; background-color: lightgrey; ">Meaning &<br>Belonging</td>
+   <td valign="middle" style="font-size: larger; "> ⬈</td>
+   <td valign="top">relationships</td>
+  </tr>
+  <tr>
+   <td style="background-color: white; height: 7px;"></td>
+  </tr>
+  <tr>
+   <td valign="middle" style="text-align: right; ">commitments&nbsp;&nbsp;</td>
+   <td style="text-align: center; background-color: lightgrey;">Transparency &<br>Decentralization</td>
+   <td valign="middle" style="font-size: larger; "> ⬈</td>
+   <td valign="top"><em>autonomy</em></td>
+  </tr>
+  <tr>
+   <td style="background-color: white; height: 7px;"></td>
+  </tr>
+  <tr>
+   <td valign="middle" style="text-align: right; ">practices&nbsp;&nbsp;</td>
+   <td style="text-align: center; background-color: lightgrey; ">Alignment &<br>Experimentation</td>
+   <td valign="middle" style="font-size: larger; "> ⬈</td>
+   <td valign="top"><em>collaboration</em></td>
+  </tr>
+  <tr>
+   <td colspan="4">&nbsp;</td>
+  </tr>
+ </table>
 
- <h2>In Summary…</h2>
-  <p style="text-align: justify; ">TBD</p>
+<h1>Thriving Local Communities</h1>
+ <p id="fnref4" style="text-align: justify; ">As I see it, the <span style="font-size: smaller; ">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup><a href="#fn4" rel="footnote">4</a></sup></p>
+ <p style="text-align: justify; ">The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of interdependence towards a higher level of collaboration.</p>
 
 <h1 style="text-align: center;">APPENDICES</h1>
-
  <h2 style="text-align: center; ">Terminology</h2>
   <h3>Common Good</h3>
    <p style="text-align: justify; ">A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.</p>
@@ -164,11 +160,9 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
    <p style="text-align: justify; ">In either case, the occupier pays a percentage of her bid to the community fund; note that it could be higher or lower than before. No matter, the market calculated a new value for the land and its improvements.</p>
   <h3>Winning Bid</h3>
    <p style="text-align: justify; ">The highest bid on any parcel of land.</p>
-
  <h2 style="text-align: center;">FAQ</h2>
   <h3>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h3>
    <p style="text-align: justify; ">This really is a distinction without a difference. A <span style="font-size: smaller; ">COIN</span> minted, or sponsored, by one person will probably have a very high risk. But there may be exceptions (<em>e.g.</em>, a solo perfume maker who is very well known for producing exquisite perfumes).</p>
-
  <h2 style="text-align: center;">ENDNOTES</h2>
   <div class="endnotes">
    <ol>
@@ -194,7 +188,6 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
     </li>
    </ol>
   </div>
-
  <h2 style="text-align: center;">RELATED</h2>
  <ul>
   <li>RADICAL COMPANIES,</li>
