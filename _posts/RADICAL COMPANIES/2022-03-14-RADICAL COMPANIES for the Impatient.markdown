@@ -158,14 +158,10 @@ image:    "dynamic-distribution-1.svg"
     </td>
    </tr>
    <tr>
-    <td style="font-size: x-small; text-align: center; ">31 of 56 people.<br>Two people’s point of view.
-    </td>
-    <td style="font-size: x-small; text-align: center; ; ">40 of 56.<br>Three people’s point of view.
-    </td>
-    <td style="font-size: x-small; text-align: center; ; ">55 of 56.<br>Four people’s point of view.
-    </td>
-    <td style="font-size: x-small; text-align: center; ; ">56 of 56.<br>Five people’s point of view.
-    </td>
+    <td style="font-size: x-small; text-align: center; ">Two people’s point of view:<br>31 of 56 people.</td>
+    <td style="font-size: x-small; text-align: center; ">Three people’s point of view:<br>40 of 56.</td>
+    <td style="font-size: x-small; text-align: center; ">Four people’s point of view:<br>55 of 56.</td>
+    <td style="font-size: x-small; text-align: center; ">Five people’s point of view:<br>56 of 56.</td>
    </tr>
    <tr>
     <td colspan="4">&nbsp;</td>
