@@ -72,10 +72,10 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <p style="text-align: justify; ">The adjacent, hyper-local community also has a big say and can do significant works when combined with what other occupiers contribute to the fund. Ditto for the surrounding community.</p>
  <p style="text-align: justify; ">I am not sure about “Region” and “State,” thus the question marks, but I suspect the latter will be around for a long time.</p>
 
-<h1>Country?</h1>
+<h1>What Happened to the Country?</h1>
  <p style="text-align: justify; ">Note that there is no “country” circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a “country,” the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a Banner earmarked for a research area. I am not counting on the “goodness” of people or “their kind hearts”—instead, I am counting on people’s interests and their persuasive power when impassioned enough.</p>
 
-<h1>Military?</h1>
+<h1>What about the Military?</h1>
  <p style="text-align: justify; ">Also, there is no funds for a military or any kind of state violence. It may take longer, but that’s where we are heading.</p>
  <p id="fnref3" style="text-align: justify; ">But, how n&auml;ive, say you, all it takes is a <em>few bad people</em> with weapons to take over the system, won’t it? Again, I am counting on people’s aversion to violence and how swiftly they can mobilize, particularly in a well-connected world, to neutralize the violence of the “few bad people.”<sup><a href="#fn3" rel="footnote">3</a></sup></p>
  <p style="text-align: justify; ">In any case, it will be worth the experimentation.</p>
@@ -91,7 +91,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <li>On the other hand, occupiers can pool their piece of a fund with the Community or other non-occupier circles to create common goods.</li>
 </ul>
 
- <h2>Worth Repeating</h2>
+ <h2>The <span style="font-size:smaller; ">RADICAL</span> Model</h2>
   <p style="text-align: justify; ">This may be a difficult read and it may be worth repeating here a few words about the <span style="font-size: smaller; ">RADICAL</span> framework and how it’s different from our current world. Probably the most confusing thing about it is that a RADI<span style="font-size: smaller; ">RADICAL</span> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.</p>
   <p style="text-align: justify; ">The only difference—the big difference—is that the <span style="font-size: smaller; ">RADICAL</span> system is centered around our interdependence.</p>
   <p style="text-align: justify; ">Our current system is based on separating us: countries, towns, good and bad neighborhoods; political parties and their vastly different realities; need to know, secrecy, protection. This leaves us disconnected and drives us to isolation. Businesses are built on creating platforms to bring us back together, for a fee. This works for a world where money comes first, ahead of everything else.</p>
