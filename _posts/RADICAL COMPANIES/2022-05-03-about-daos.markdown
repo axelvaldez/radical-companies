@@ -11,8 +11,7 @@ image:    "about-daos.png"
 </div>
 
 <h1 style="font-size:50px; ">The DAO Myth</h1>
-The myth is that DAOs are decentralized and autonomous, but there's nothing decentralized or autonomous about DAOs. I don't mean that as a criticism, but simply as an observation.
-The DAO technology is a FIAT technology meant to make creating money-first organizations more efficient, with less friction.
+ <p>In spite of their name, there's nothing decentralized or autonomous about DAOs. I don't mean that as a criticism, but simply as an observation. Worse, the DAO technology is a FIAT technology meant to make creating money-first organizations more efficient, with less friction.</p>
 
 <h1 style="font-size:50px; ">DAOs Are Not Decentralized</h1>
  <p>They are as decentralized, or not, as its governance model allows. Sure, people always have the choice of not joining the DAO, but that’s not a solution to our big problem. We need to move away from the <span style="font-size:smaller; ">FIAT</span> ways of doing things and to a truly decentralized and autonomous alternative to our current system based on force.<p>
