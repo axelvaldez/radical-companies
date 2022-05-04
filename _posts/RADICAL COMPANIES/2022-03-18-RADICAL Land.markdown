@@ -161,7 +161,8 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
    <p style="text-align: justify; ">The highest bid on any parcel of land.</p>
  <h2 style="text-align: center;">FAQ</h2>
   <h3>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h3>
-   <p style="text-align: justify; ">This really is a distinction without a difference. A <span style="font-size: smaller; ">COIN</span> minted by a one person &ldquo;company&rdquo; will probably have a very high risk and nobody would take it. But there may be exceptions (<em>e.g.</em>, a solo perfume maker who is very well known for producing exquisite perfumes).</p>
+   <p style="text-align: justify; ">This really is a distinction without a difference. A <span style="font-size: smaller; ">COIN</span> minted by a one person &ldquo;company&rdquo; will probably have a very high risk and nobody would take it.</p>
+   </p>On the other hand, there may be a young perfume maker who is very well known in his community for producing exquisite perfumes. People may accept her <span style="font-size: smaller; ">COIN</span>s based on personal knowledge.</p>
 
 <h1 style="text-align: center;">ENDNOTES</h1>
  <div class="endnotes">
