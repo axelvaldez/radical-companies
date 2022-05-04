@@ -88,7 +88,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <p style="text-align: justify; ">A couple of unpolished thoughts,</p>
 <ul>
  <li>Occupiers should not be able to pool their piece of the community fund with other occupiers.</li>
- <li>On the other hand, occupiers can pool their piece of a fund with the Community or other non-occupier circles to create common goods.</li>
+ <li>On the other hand, occupiers can pool their piece of a fund with the Community or other non-occupier circles to create <em>common goods</em>.</li>
 </ul>
 
 <h1>The <span style="font-size:smaller; ">RADICAL COMPANIES</span> Model</h1>
