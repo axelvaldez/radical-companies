@@ -234,7 +234,6 @@ image:    "dynamic-distribution-1.svg"
   <h3><span style="font-size:smaller; ">RAD</span>s Account for the Unaccountable</h3>
    <p><span style="font-size:smaller; ">RAD</SPAN>s represent many things other than simple financial value. They are not beans, but they can be counted.</p>
    <p>The <SPAN>RAD</SPAN>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you’ll probably get fewer <SPAN>RAD</SPAN>s from us; if you are helping us thrive, you’ll likely get more. If you do something that goes against our Impact, “but, hey, it makes money,” you’ll get less <SPAN>RAD</SPAN>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you’ll get more <SPAN>RAD</SPAN>s.</p>
-   <p>Maybe I gave you <SPAN>RAD</SPAN>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
    <p>In short, <SPAN>RAD</SPAN>s account for the uncountable, they measure the immeasurable.</p>
 
 <h1 style="text-align: center; font-size:7ex; margin:30px 0 20px 0; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
@@ -267,7 +266,7 @@ image:    "dynamic-distribution-1.svg"
    <p>The PRI functions a lot like a salary,  </p>
    <ul>
     <li>If I earned <em>more</em> than my PRI, then I can take home my PRI <em>and my Earned Dividends</em>.</li>
-    <li>If what I’ve earned matches my PRI, then I take that much home, reminiscent of a traditional salary.</li>
+    <li>If what I’ve earned matches my PRI, then I take that much home.</li>
     <li>If I earned <em>less than my PRI</em>, I still take home <em>the amount of money I expected</em>, because the PRI Account makes up the difference, but I now owe the difference to the PRI Account.</li>
    </ul>
    <p>You’ll have to experiment with how these debts are settled. At its loosest, I could pay that debt “later” (<em>e.g.</em>, out of my future Earned Dividends). At its most rigid, I’d have to pay the PRI Account debt, plus interest, within 60 days. Our suggestion, as always, is to go for a policy that matches peoples' needs and situation. If a problem crops up, then tweak the policy as appropiate. In any case, don’t yield to imagined fears.</p>
