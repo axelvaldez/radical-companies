@@ -76,7 +76,7 @@ image:    "dynamic-distribution-1.svg"
    <p>Purpose is the reason why we, as a company, are focused on this particular Impact. It doesn't have to be world shaking and it doesn't have to strum your heart’s strings. An effective Purpose must clearly express <em>why</em> it is important for others to join us in this adventure.</p>
   </li>
   <li>
-   <p>The Mission defines <em>what</em> we are going to do to move towards the Impact, <em>how</em> we are going to do it, and by <em>when</em>. This is a live, dynamic conversation where everybody who wants to can participate. It is not "suggestions" sent by email to somebody else who is going to select by popularity or any such.And, yes, there are many ways to do it with 50, 1,00, or 10,000 people.</p>
+   <p>The Mission defines <em>what</em> we are going to do to move towards the Impact, <em>how</em> we are going to do it, and by <em>when</em>. This is a live, dynamic conversation where everybody who wants to can participate. It is not "suggestions" sent by email to somebody else who is going to select by popularity or any such. And, yes, it scales: there are many ways to do it with 50, 1,00, or 10,000 people.</p>
   </li>
  </ul>
  <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to ,<em>everybody</em> in the team.</p>
