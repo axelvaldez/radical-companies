@@ -253,7 +253,7 @@ image:    "dynamic-distribution-1.svg"
  <p>That earned amount is split between Dividends and a Predictable Recurring Income component.
  </p>
 
- <h2>Takehome Must Be Predictable (and Recurring)</h2>
+ <h2>Takehome Pay Must Be Predictable (and Recurring)</h2>
    <p>When you really think about it, “salary” is a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> context.</p>
    <p>The PRI is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),</p>
    <ul>
