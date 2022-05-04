@@ -15,7 +15,7 @@ image:    "dynamic-distribution-1.svg"
  <p>Nature follows a simple path to create big beautiful things out of unpretentious, small ones. From tiny seed to mighty oak tree. We don’t think that a long list of principles or color scales or a 17 page constitution are necessary to make a fundamental change. Eventually, these can become dogma, a form of force, and get in the way.</p>
  <p> With that in mind, we came up with what we think are the most basic foundations to support our coming together to share work and wealth.</p>
 
- <h2>An Easy-to-Remember Foundation for a <span style="font-size:smaller; ">RADICAL</span> Companies</h2>
+ <h2>Easy-to-Remember Foundation for a <span style="font-size:smaller; ">RADICAL</span> Companyß</h2>
  <p>In the RADICAL world, a company is what we call a group of people who come together to build something bigger than themselves. In fact, the word "company" come from the Latin prefix <em>con-</em>, meaning together, and <em>pan</em>, meaning bread: people who break bread together.</p>
  <p>Every company is different because the people who embody it are different, and every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence,</p>
  <table align="center">
