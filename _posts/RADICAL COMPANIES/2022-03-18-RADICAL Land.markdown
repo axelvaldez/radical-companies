@@ -21,8 +21,8 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <p id="fnref2" style="text-align: justify; ">In <em>Another Now</em>, Yanis Varoufakis envisions all land as a commons controlled by “gComms, as the ground commons authorities or ground trusts came to be known.”<sup><a href="#fn2" rel="footnote">2</a></sup> Henry George saw the land as one thing and anything sitting on it as separate, so his proposed single tax would tax the land net of improvements. Various people, including Joeri Torfs and Pim Ampe, have envisioned land <em>and</em> improvements as being perennially open for sale.</p>
  <p style="text-align: justify; ">My working hypothesis is that,</p>
  <ul>
-  <li>Treat land <em>and</em> improvements, combined, as one thing&mdash;it would be difficult, at best, to separate the two in people's minds for the foreseeable future.</li>
-  <li>The combo would always be open for bids, so that use privilege would be determined by a market focused on land value.</li>
+  <li>Treat land <em>and</em> improvements as one thing&mdash;it would be difficult, at best, to separate the two in people's minds for the foreseeable future.</li>
+  <li>The combo would always be open for bids, so that use privilege would be determined by <em>a market dedicated to calculating land value</em>.</li>
  </ul>
 
 <h2>Land Is always Open for Bid</h2>
