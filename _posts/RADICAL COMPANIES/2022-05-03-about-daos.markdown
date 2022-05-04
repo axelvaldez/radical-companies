@@ -20,7 +20,7 @@ image:    "about-daos.png"
  <p>We need to move away from the &ldquo;because I say so&rdquo;, <span style="font-size:smaller; ">FIAT</span> ways of doing things and to a truly decentralized and autonomous alternative to our current system based on force and fear.<p>
 
 <h1 style="font-size:50px; ">DAOs Are Not Autonomous</h1>
- <p>At least, not autonomous in the sense that &ldquo;it is run by code, not by people&rdquo;. In fact, they are governed and operated by committees of people. Even if those could be eliminated, &ldquo;code&rdquo; is created by one or more people.</p>
+ <p>At least, not autonomous in the sense that &ldquo;it is run by code, not by people.&rdquo; In fact, they are governed and operated by committees of people. Even if those could be eliminated, &ldquo;code&rdquo; is created by one or more people.</p>
  <p>Autonomy is the domain of people. We need autonomous collaboration, and people collaborate via conversations. Today&rsquo;s DAOs are basically an <em>automated investment</em> platform. Instead, we need a conversation platform supported by all the cool Web3 technology.</p>
 
 <h1 style="font-size:50px; ">RELATED</h1>
