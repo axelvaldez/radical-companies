@@ -220,7 +220,7 @@ image:    "dynamic-distribution-1.svg"
      </th>
      <td>
       <p>In <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has more to do with ego, like a pharaoh’s pyramid.</p>
-      <p>In a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, anybody can put up a “New building” Banner and allow co-owners to contribute to the funding of it or not.</p>
+      <p>In a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, anybody can put up a “New building” Banner for co-owners to contribute to the funding of it or not.</p>
      </td>
     </tr>
    </table>
