@@ -327,7 +327,7 @@ image:    "dynamic-distribution-1.svg"
     The graph shows the PRI ACCOUNT as box full of read liquid.
     Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
    </p>
-   <p>Notice that even though dividends are up, Julio continues to draw from the <em>PRI Account</em> because his PRI is pretty high and his RAD count is pretty low. He may want to change his PRI or get feedback on why his <span style="font-size:smaller; ">RAD</span>s are so low.
+   <p>Notice that even though dividends are up, Julio continues to draw from the <em>PRI Account</em> because his PRI is pretty high and his <span style="font-size:smaller; ">RAD</span>s count is pretty low. He may want to change his PRI or get feedback on why his <span style="font-size:smaller; ">RAD</span>s are so low.
    </p>
 
  <h2>Comparing the <span style="font-size:smaller; ">RADICAL</span> Investment Model with that of Banks and VCs</h2>
