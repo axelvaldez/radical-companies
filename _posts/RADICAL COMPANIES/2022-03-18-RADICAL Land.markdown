@@ -47,7 +47,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  </table>
  <p style="text-align: justify; ">The bidding system might look something like this,</p>
  <ul>
-  <li>Rather than open for bids all the time, uninvited bidding may happen, say, once or twice a year.</li>
+  <li>Rather than open for bids all the time, uninvited bidding may happen, say, once or twice a year. Each community may have different rythym.</li>
   <li>The current occupier, on the other hand, may invite bids at any time (<em>e.g.</em>, somebody moving out of a house).</li>
   <li>The bids would be verified to be in good faith.</li>
   <li>The winning bidder takes over as the new occupier. This could be the current occupier&rsquo;s bid.</li>
