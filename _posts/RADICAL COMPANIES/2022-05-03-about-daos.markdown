@@ -19,4 +19,4 @@ image:    "about-daos.png"
 
 <h1 style="font-size:50px; ">DAOs Are Not Autonomous</h1>
  <p>At least, not autonomous in the sense that &ldquo;it is run by code, not by people&rdquo;. In fact, they are governed and operated by committees of people. Even if those could be eliminated, &ldquo;code&rdquo; is created by one or more people.</p>
- <p>Autonomy is the domain of people. We need autonomous collaboration, and people collaborate via conversations. If today&rsquo;s DAOs are basically <em>automoted investors</em>, what we need a conversation platform supported by all the cool Web3 technology behind it.</p>
+ <p>Autonomy is the domain of people. We need autonomous collaboration, and people collaborate via conversations. Today&rsquo;s DAOs are basically <em>automoted investors</em>. Instead, we need a conversation platform supported by all the cool Web3 technology behind it.</p>
