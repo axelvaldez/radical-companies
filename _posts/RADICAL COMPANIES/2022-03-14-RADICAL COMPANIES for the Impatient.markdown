@@ -196,39 +196,32 @@ image:    "dynamic-distribution-1.svg"
      </td>
     </tr>
     <tr style="vertical-align: top; ">
-     <th style=" text-align: right; padding-right: 1em; ">
-      <p>Community
-      </p>
-     </th>
+     <th style=" text-align: right; padding-right: 1em; "><p>Community</p></th>
      <td>
       <p>For example, a “No Noise” banner could fund a sound barrier around a noisy factory. A “River Walk” banner could fund a clean up and beautification of a stream that runs nearby. One could even fund a local vet hospital to help it recover from a fire.
       </p>
      </td>
     </tr>
     <tr style="vertical-align: top; ">
-     <th style=" text-align: right; padding-right: 1em; ">
-      <p>Experimental Projects</p>
-     </th>
+     <th style=" text-align: right; padding-right: 1em; "><p>Experimental Projects</p></th>
      <td>
       <p>At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects and  things like Google News came out of it. That was a generous gift from the <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> owners, but the same owners later took it away.</p>
       <p>For a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company the equivalent thing would be to put up a “20%” Banner and co-owners could allocate RADs to it as they see fit. Or more specifically, a “Google News” Banner could fund that specific project.</p>
      </td>
     </tr>
     <tr style="vertical-align: top; ">
-     <th style=" text-align: right; padding-right: 1em; ">
-      <p>Investments</p>
-     </th>
+     <th style=" text-align: right; padding-right: 1em; "><p>Investments</p></th>
      <td>
       <p>In <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has more to do with ego, like a pharaoh’s pyramid.</p>
       <p>In a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, anybody can put up a “New building” Banner for co-owners to contribute to the funding of it or not.</p>
      </td>
     </tr>
    </table>
-  <h3>The RADICAL Distribution Includes Retrospectives</h3>
+  <h3<span style="font-size:smaller; ">RADICAL</span> Includes Retrospectives</h3>
    <p>At a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
-  <h3>The RADICAL Distribution Includes Feedback</h3>
+  <h3><span style="font-size:smaller; ">RADICAL</span> Distribution Includes Feedback</h3>
    <p>Anybody who wants to can call for a feedback session after a Distribution. In particular, people who didn’t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it’s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
-  <h3>The RADICAL Distribution Is Transparency</h3>
+  <h3><span style="font-size:smaller; ">RADICAL</span> Distribution Is Transparency</h3>
    <p>We don’t think that <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of <SPAN>RAD</SPAN>s allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.</p>
    <p>Of course, you’ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
   <h3><span style="font-size:smaller; ">RAD</span>s Account for the Unaccountable</h3>
