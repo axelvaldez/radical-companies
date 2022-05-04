@@ -13,7 +13,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <pre style="text-align:right; ">&mdash; Abraham Lincoln<sup><a href="#fn1" rel="footnote">1</a></sup></pre>
 </div>
 
-<h1>Land Defines Local</h1>
+<h1 style="font-size:60px; ">Land Defines Local</h1>
  <p style="text-align: justify; ">In the book <span style="font-size:smaller; "><a href="https://radicalcompanies.com">RADICAL COMPANIES</a></span>, we only considered how the <span style="font-size: smaller; ">RADICAL</span> model would work in <em>a company environment</em>, and other than a mention, we said nothing about money, land, or governments.</p>
  <p style="text-align: justify; ">In <a href="https://radicalcompanies.com/2022/03/17/radical-coins"><span style="font-size: smaller; ">RADICAL COIN</span></a>, I laid out a few ideas about money and what it would look like in a decentralized, transparent world; land and government are definitely harder topics for me. In this document I am laying out my thoughts about what the model for land would look like in a <span style="font-size: smaller; ">RADICAL</span> world.</p>
 <h2>The <span style="font-size:smaller; ">RADICAL</span> Land Model</h2>
