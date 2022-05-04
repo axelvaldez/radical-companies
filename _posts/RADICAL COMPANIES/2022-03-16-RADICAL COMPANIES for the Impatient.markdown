@@ -393,5 +393,5 @@ image:    "dynamic-distribution-1.svg"
 
 <h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; ">ENDNOTES</h1>
  <ol>
-  <li id="fn1"><h6><a href="#fnref1">back</a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://seths.blog/2020/05/what-kind-of-org/">here</a>). May 4, 2020.</h6></li>
+  <li id="fn1"><h6><a href="#fnref1">🔼</a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://seths.blog/2020/05/what-kind-of-org/">here</a>). May 4, 2020.</h6></li>
  </ol>  
