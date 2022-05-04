@@ -246,9 +246,9 @@ Frequently asked questions (FAQ) <https://radicals.world/ZVRbBc>
  <ul>
   <li>AND THEN THEY WANT TO BURN YOU</li>
    <ul>
-    <li>EPISODE 01 – First of Earth <https://radicals.world/sPzTII></li>
-    <li>EPISODE 11 – The FIAT Enclaves <https://radicals.world/KW4xmO></li>
-    <li>RADICAL Ferengi <https://radicals.world/fHIfqD></li>
+    <li>EPISODE 01 – First of Earth    <<a href="https://radicals.world/sPzTII">https://radicals.world/sPzTII</a>></li>
+    <li>EPISODE 11 – The FIAT Enclaves <<a href="https://radicals.world/KW4xmO">https://radicals.world/KW4xmO</a>></li>
+    <li>RADICAL Ferengi                <<a href="https://radicals.world/fHIfqD">https://radicals.world/fHIfqD</a>></li>
    333</ul>
   22</ul>
  1</ul>
