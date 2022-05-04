@@ -8,7 +8,7 @@ image:    "dynamic-distribution-1.svg"
 
 <div style="display:none;">An short walkthrough the <span style="font-size: smaller; ">RADICAL</span> Model</div>
 
-<h1 style="text-align: center; font-size:7ex; margin:30px 0 20px 0; ">Strictly for the Impatient</h1>
+<h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; ">Strictly for the Impatient</h1>
 
  <h2>Businesses Run as Dictatorships Hurt Us</h2>
  <p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.</p>
@@ -82,7 +82,7 @@ image:    "dynamic-distribution-1.svg"
  <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to ,<em>everybody</em> in the team.</p>
 <br>
 
-<h1 style="text-align: center; font-size:7ex; margin:30px 0 20px 0; "><spen style="FONT-SIZE: SMALLER; ">RADICAL</spen> Distribution</h1>
+<h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; "><spen style="FONT-SIZE: SMALLER; ">RADICAL</spen> Distribution</h1>
 <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
 
  <h2>Inspiration: The Rosedale Distribution</h2>
@@ -229,7 +229,7 @@ image:    "dynamic-distribution-1.svg"
    <p>The <SPAN>RAD</SPAN>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you’ll probably get fewer <SPAN>RAD</SPAN>s from us; if you are helping us thrive, you’ll likely get more. If you do something that goes against our Impact, “but, hey, it makes money,” you’ll get less <SPAN>RAD</SPAN>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you’ll get more <SPAN>RAD</SPAN>s.</p>
    <p>In short, <SPAN>RAD</SPAN>s account for the uncountable, they measure the immeasurable.</p>
 
-<h1 style="text-align: center; font-size:7ex; margin:30px 0 20px 0; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
+<h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <SPAN>RAD</SPAN>s. For example,
  </p>
  <ul>
@@ -337,7 +337,7 @@ image:    "dynamic-distribution-1.svg"
    </p>
  <br>
 
-<h1 style="text-align: center; font-size:7ex; margin:30px 0 20px 0; ">RELATED</h1>
+<h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; ">RELATED</h1>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
@@ -391,7 +391,7 @@ image:    "dynamic-distribution-1.svg"
   </ul>
 </ul>
 
-<h1 style="text-align: center; font-size:7ex; margin:30px 0 20px 0; ">ENDNOTES</h1>
+<h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; ">ENDNOTES</h1>
  <ol>
   <li id="fn1"><h6><a href="#fnref1">back</a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://seths.blog/2020/05/what-kind-of-org/">here</a>). May 4, 2020.</h6></li>
  </ol>  
