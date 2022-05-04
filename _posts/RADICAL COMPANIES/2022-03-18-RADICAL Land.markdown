@@ -13,7 +13,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <pre style="text-align:right; ">&mdash; Abraham Lincoln<sup><a href="#fn1" rel="footnote">1</a></sup></pre>
 </div>
 
-<h1 style="font-size:60px; ">Land Defines Local</h1>
+<h1 style="font-size:50px; ">Land Defines Local</h1>
  <p style="text-align: justify; ">In the book <span style="font-size:smaller; "><a href="https://radicalcompanies.com">RADICAL COMPANIES</a></span>, we only considered how the <span style="font-size: smaller; ">RADICAL</span> model would work in <em>a company environment</em>, and other than a mention, we said nothing about money, land, or governments.</p>
  <p style="text-align: justify; ">In <a href="https://radicalcompanies.com/2022/03/17/radical-coins"><span style="font-size: smaller; ">RADICAL COIN</span></a>, I laid out a few ideas about money and what it would look like in a decentralized, transparent world; land and government are definitely harder topics for me. In this document I am laying out my thoughts about what the model for land would look like in a <span style="font-size: smaller; ">RADICAL</span> world.</p>
 <h2>The <span style="font-size:smaller; ">RADICAL</span> Land Model</h2>
@@ -69,7 +69,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <p style="text-align: justify; ">The adjacent, hyper-local community also has a big say and can do significant works when combined with what other occupiers contribute to the fund. Ditto for the surrounding community.</p>
  <p style="text-align: justify; ">I am not sure about “Region” and “State,” thus the question marks, but I suspect the latter will be around for a long time.</p>
 
-<h1 style="font-size:60px; ">What about the the Country and Military?</h1>
+<h1 style="font-size:50px; ">What about the the Country and Military?</h1>
  <p style="text-align: justify; ">Note that there is no “country” circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a “country,” the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a Banner earmarked for a research area. I am not counting on the “goodness” of people or “their kind hearts”—instead, I am counting on people&rsquo;s interests and their persuasive power when impassioned enough.</p>
  <h2>The Country?</h2>
   <p>Note that there is no “country” circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a “country,” the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a Banner earmarked for a research area. I am not counting on the “goodness” of people or “their kind hearts”&mdash;instead, I am counting on people&rsquo;s interests and the persuasive power of their enthusiasm.</p>
@@ -77,7 +77,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
   <p style="text-align: justify; ">Also, there is no funds for a military or any kind of state violence. It may take longer, but that&rsquo;s where we are heading.</p>
   <p id="fnref3" style="text-align: justify; ">But, how n&auml;ive, you might say, all it takes is a <em>few bad people</em> with weapons to take over everything, won’t it? Again, I am counting on &rsquo;s aversion to violence and how swiftly they can mobilize in a connected world to neutralize the violence of the “few bad people.”<sup><a href="#fn3" rel="footnote">3</a></sup></p>
 
-<h1 style="font-size:60px; ">Community Fund Governance</h1>
+<h1 style="font-size:50px; ">Community Fund Governance</h1>
  <p>The “circles” in the pictures could be governed jointly or individually. For example, hyper-local community circles (26%) may join up to create a park. Surrounding communites (3%) may pool their funds to create a bullet train through the region. Keep in mind that when aggregated, Region and State circles have a pretty big pool of actual cash to create <em>common goods</em>.</p>
  <p style="font-family:courier new; text-align:center; width:80%; border:silver dotted 1px; margin:auto; margin-bottom:20px;  ">
   <img src="/assets/img/en-community-funds-intertwined.svg" alt="Five intertwined circles. the top two are intertwined at the Hyper-Local Community level (in yellow). Next two circle are intertwined at the Community level (l)ight orange). Next two are intertwined at the Region level (liht pink). The last two are intertwined at the State level (light brown)." title="Community Funds–Intertwined">
@@ -88,7 +88,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <li>On the other hand, occupiers can pool their piece of a fund with the Community or other non-occupier circles to create <em>common goods</em>.</li>
 </ul>
 
-<h1 style="font-size:60px; ">The <span style="font-size:smaller; ">RADICAL COMPANIES</span> Model</h1>
+<h1 style="font-size:50px; ">The <span style="font-size:smaller; ">RADICAL COMPANIES</span> Model</h1>
  <p style="text-align: justify; ">It may be worth repeating here a few words about the <span style="font-size: smaller; ">RADICAL</span> framework and how it&rsquo;s different from our current world. Probably the most confusing thing about it is that a RADI<span style="font-size: smaller; ">RADICAL</span> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.</p>
  <p style="text-align: justify; ">The only difference—the big difference—is that the <span style="font-size: smaller; ">RADICAL</span> system is centered around people&rsquo;s interdependence.</p>
  <p style="text-align: justify; ">Our current system is based on separating us: countries, towns, good and bad neighborhoods; political parties and their vastly different realities; need to know, secrecy, protection. This leaves us disconnected and drives us to isolation. Businesses are built on creating platforms to bring us back together, for a fee. This works for a world where money comes first, ahead of everything else.</p>
@@ -130,13 +130,13 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
   </tr>
  </table>
 
-<h1 style="font-size:60px; ">Thriving Local Communities</h1>
+<h1 style="font-size:50px; ">Thriving Local Communities</h1>
  <p id="fnref4" style="text-align: justify; ">As I see it, the <span style="font-size: smaller; ">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup><a href="#fn4" rel="footnote">4</a></sup></p>
  <p style="text-align: justify; ">The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of interdependence towards a higher level of collaboration.</p>
 
-<h1 style="font-size:60px; text-align:center; margin: 40px 0 20px 0; ">APPENDICES</h1>
+<h1 style="font-size:50px; text-align:center; margin: 40px 0 20px 0; ">APPENDICES</h1>
 
-<h1 style="font-size:60px; text-align:center; ">Terminology</h1>
+<h1 style="font-size:50px; text-align:center; ">Terminology</h1>
  <h2>Common Good</h2>
   <p style="text-align: justify; ">A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.</p>
   <p style="text-align: justify; ">Land and improvements on it are common goods. If it is occupied, it is managed by the occupier until the next bid for it comes in. If it is disoccupied, then it defaults to its surrounding community until someone bids for it (<em>i.e.</em>, the community cannot counter-bid).</p>
@@ -158,12 +158,12 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <h2>Winning Bid</h2>
    <p style="text-align: justify; ">The highest bid on any parcel of land.</p>
 
-<h1 style="font-size:60px; text-align:center; ">FAQ</h1>
+<h1 style="font-size:50px; text-align:center; ">FAQ</h1>
  <h2>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h2>
    <p style="text-align: justify; ">This really is a distinction without a difference. A <span style="font-size: smaller; ">COIN</span> minted by a one person &ldquo;company&rdquo; will probably have a very high risk and nobody would take it.</p>
    <p>On the other hand, there may be a young perfume maker who is very well known in his community for producing exquisite perfumes. People may accept her <span style="font-size: smaller; ">COIN</span>s based on personal knowledge.</p>
 
-<h1 style="font-size:60px; text-align:center; ">ENDNOTES</h1>
+<h1 style="font-size:50px; text-align:center; ">ENDNOTES</h1>
  <div class="endnotes">
   <ol>
    <li id="fn1">
@@ -189,7 +189,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
   </ol>
  </div>
 
-<h1 style="font-size:60px; text-align:center; ">RELATED</h1>
+<h1 style="font-size:50px; text-align:center; ">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
