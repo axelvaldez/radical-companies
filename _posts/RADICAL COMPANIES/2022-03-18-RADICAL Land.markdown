@@ -137,7 +137,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <p id="fnref4" style="text-align: justify; ">As I see it, the <span style="font-size: smaller; ">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup><a href="#fn4" rel="footnote">4</a></sup></p>
  <p style="text-align: justify; ">The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of interdependence towards a higher level of collaboration.</p>
 
-<h1 style="font-size:smaller; text-align:center; ">APPENDICES</h1>
+<h1 style="font-size:small; text-align:center; ">APPENDICES</h1>
  <h1 style="font-size:amaller; ">Terminology</h1>
   <h2>Common Good</h2>
    <p style="text-align: justify; ">A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.</p>
@@ -160,12 +160,12 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
   <h2>Winning Bid</h2>
    <p style="text-align: justify; ">The highest bid on any parcel of land.</p>
 
-<h1 style="font-size:smaller; text-align:center; ">FAQ</h1>
+<h1 style="font-size:small; text-align:center; ">FAQ</h1>
  <h2>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h2>
    <p style="text-align: justify; ">This really is a distinction without a difference. A <span style="font-size: smaller; ">COIN</span> minted by a one person &ldquo;company&rdquo; will probably have a very high risk and nobody would take it.</p>
    </p>On the other hand, there may be a young perfume maker who is very well known in his community for producing exquisite perfumes. People may accept her <span style="font-size: smaller; ">COIN</span>s based on personal knowledge.</p>
 
-<h1 style="font-size:smaller; text-align:center; ">ENDNOTES</h1>
+<h1 style="font-size:small; text-align:center; ">ENDNOTES</h1>
  <div class="endnotes">
   <ol>
    <li id="fn1">
@@ -191,7 +191,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
   </ol>
  </div>
 
-<h1 style="font-size:smaller; text-align:center; ">RELATED</h1>
+<h1 style="font-size:small; text-align:center; ">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
