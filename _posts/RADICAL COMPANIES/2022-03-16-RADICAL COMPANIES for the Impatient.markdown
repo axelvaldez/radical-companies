@@ -131,37 +131,37 @@ image:    "dynamic-distribution-1.svg"
   <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,</p>
   <table style="width: 80%; margin: 0 auto; ">
    <tr>
-    <td colspan="4"><img src="/assets/img/dynamic-distribution-1.svg" alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person." title="One person’s point of view: 17 of 56 people."></td>
+    <td colspan="4"><img src="/assets/img/dynamic-distribution-1.svg" alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person." title="1 person’s point of view: 17 of 56 people."></td>
    </tr>
    <tr>
-    <td colspan="4" style="font-size: larger; text-align: center; ">One person’s point of view: 17 of 56 people.</td>
+    <td colspan="4" style="font-size: larger; text-align: center; ">1 person’s point of view: 17 of 56 people.</td>
    </tr>
    <tr>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/dynamic-distribution-2.svg" alt="A small circle inside which there are 56 monochrome faces, 31 of which are in color to indicate they've been given RADs by two people." title="Two people’s point of view: 31 of 56 people.">
+      <img src="/assets/img/dynamic-distribution-2.svg" alt="A small circle inside which there are 56 monochrome faces, 31 of which are in color to indicate they've been given RADs by two people." title="2 people’s point of view: 31 of 56 people.">
      </p>
     </td>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/dynamic-distribution-3.svg" alt="A small circle inside which there are 56 monochrome faces, 40 of which are in color to indicate they've been given RADs by three people." title="Three people’s point of view: 40 of 56 people."></p>
+      <img src="/assets/img/dynamic-distribution-3.svg" alt="A small circle inside which there are 56 monochrome faces, 40 of which are in color to indicate they've been given RADs by three people." title="3 people’s point of view: 40 of 56 people."></p>
     </td>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/dynamic-distribution-4.svg" alt="A small circle inside which there are 56 monochrome faces, 55 of which are in color to indicate they've been given RADs by four people." title="55 of 56 people. Four people’s point of view.">
+      <img src="/assets/img/dynamic-distribution-4.svg" alt="A small circle inside which there are 56 monochrome faces, 55 of which are in color to indicate they've been given RADs by four people." title="4 people’s point of view: 55 of 56 people.">
      </p>
     </td>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/dynamic-distribution-5.svg" alt="A small circle inside which there are 56 faces, all of which are in color to indicate they've been given RADs by five people." title="56 of 56 people. Five people’s point of view.">
+      <img src="/assets/img/dynamic-distribution-5.svg" alt="A small circle inside which there are 56 faces, all of which are in color to indicate they've been given RADs by five people." title="5 people’s point of view: 56 of 56 people.">
      </p>
     </td>
    </tr>
    <tr>
-    <td style="font-size: x-small; text-align: center; ">Two people’s point of view:<br>31 of 56 people.</td>
-    <td style="font-size: x-small; text-align: center; ">Three people’s point of view:<br>40 of 56.</td>
-    <td style="font-size: x-small; text-align: center; ">Four people’s point of view:<br>55 of 56.</td>
-    <td style="font-size: x-small; text-align: center; ">Five people’s point of view:<br>56 of 56.</td>
+    <td style="font-size: x-small; text-align: center; ">2 people’s point of view:<br>31 of 56 people.</td>
+    <td style="font-size: x-small; text-align: center; ">4 people’s point of view:<br>40 of 56.</td>
+    <td style="font-size: x-small; text-align: center; ">4 people’s point of view:<br>55 of 56.</td>
+    <td style="font-size: x-small; text-align: center; ">5 people’s point of view:<br>56 of 56.</td>
    </tr>
    <tr>
     <td colspan="4">&nbsp;</td>
