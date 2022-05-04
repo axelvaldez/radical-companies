@@ -79,7 +79,6 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <h2>The Military?</h2>
   <p style="text-align: justify; ">Also, there is no funds for a military or any kind of state violence. It may take longer, but that&rsquo;s where we are heading.</p>
   <p id="fnref3" style="text-align: justify; ">But, how n&auml;ive, you might say, all it takes is a <em>few bad people</em> with weapons to take over everything, won’t it? Again, I am counting on &rsquo;s aversion to violence and how swiftly they can mobilize in a connected world to neutralize the violence of the “few bad people.”<sup><a href="#fn3" rel="footnote">3</a></sup></p>
-  <p style="text-align: justify; ">In any case, it will be worth the experiment.</p>
 
 <h1>Community Fund Governance</h1>
  <p>The “circles” in the pictures could be governed jointly or individually. For example, all the hyper-local community circles (26%) circles in the neighborhood may join up to create a park and the (3%) circles that deal with big, audacious, long-term projects may pool their funds to create a bullet train through the region. Keep in mind that when aggregated, Region and State circles have a pretty big pool of actual cash to create common goods.</p>
