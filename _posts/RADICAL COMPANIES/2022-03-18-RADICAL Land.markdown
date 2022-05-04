@@ -208,7 +208,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
   <ul>
     <li>EN:                               <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
     <li>ES:                               <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
-    <li>For the Impatient:                <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
+    <li>For the Impatient:                <a href="https://radicals.world/Q0RIWR">https://radicals.world/Q0RIWR</a></li>
     <li>Frequently Asked Questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
   </ul>
   <li>The Missing Chapters,</li>
