@@ -127,9 +127,8 @@ image:    "dynamic-distribution-1.svg"
    <li>Your unallocated <SPAN>RAD</SPAN>s may disappear every day or they may accumulate for a month or a year.
    </li>
   </ul>
-  <h3>Scalability</h3>
-  <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,
-  </p>
+  <h3>The RADICAL Distribution is Scalable</h3>
+  <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,</p>
   <table style="width: 80%; margin: 0 auto; ">
    <tr>
     <td colspan="4"><img src="/assets/img/dynamic-distribution-1.svg" alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person." title="17 of 56 people. One person’s point of view.">
@@ -147,8 +146,7 @@ image:    "dynamic-distribution-1.svg"
     </td>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/dynamic-distribution-3.svg" alt="A small circle inside which there are 56 monochrome faces, 40 of which are in color to indicate they've been given RADs by three people." title="40 of 56 people. Three people’s point of view.">
-     </p>
+      <img src="/assets/img/dynamic-distribution-3.svg" alt="A small circle inside which there are 56 monochrome faces, 40 of which are in color to indicate they've been given RADs by three people." title="40 of 56 people. Three people’s point of view."></p>
     </td>
     <td>
      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
@@ -170,13 +168,13 @@ image:    "dynamic-distribution-1.svg"
     </td>
     <td style="font-size: x-small; text-align: center; ; ">56 of 56.<br>Five people’s point of view.
     </td>
- </tr>
- <tr>
-  <td colspan="4">&nbsp;</td>
- </tr>
-</table>
- <p>As people share and grant each other <span>RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
-  <h3>Banners</h3>
+   </tr>
+   <tr>
+    <td colspan="4">&nbsp;</td>
+   </tr>
+  </table>
+  <p>As people share and grant each other <span>RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
+  <h3>The RADICAL Distribution Includes Banners</h3>
    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.
    </p>
    <p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.
@@ -237,24 +235,18 @@ image:    "dynamic-distribution-1.svg"
      </td>
     </tr>
    </table>
-  <h3>Retrospectives</h3>
-   <p>At a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much as they’d like of their criteria. These do not prevent people from making their own decisions, but it serves as a guide.
-   </p>
-  <h3>Feedback</h3>
-   <p>Anybody who wants to can call for a feedback session after a Distribution. In particular, people who didn’t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it’s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.
-   </p>
-  <h3>Distribution Transparency</h3>
+  <h3>The RADICAL Distribution Includes Retrospectives</h3>
+   <p>At a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much as they’d like of their criteria. These do not prevent people from making their own decisions, but it serves as a guide.</p>
+  <h3>The RADICAL Distribution Includes Feedback</h3>
+   <p>Anybody who wants to can call for a feedback session after a Distribution. In particular, people who didn’t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it’s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
+  <h3>The RADICAL Distribution Is Transparency</h3>
    <p>We don’t think that <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of <SPAN>RAD</SPAN>s allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.</p>
    <p>Of course, you’ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
-  <h3>Accounting for the Unaccountable</h3>
-   <p><SPAN>RAD</SPAN>s represent many things other than simple financial value. They are not beans, but they can be counted.
-   </p>
-   <p>The <SPAN>RAD</SPAN>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you’ll probably get fewer <SPAN>RAD</SPAN>s from us; if you are helping us thrive, you’ll likely get more. If you do something that goes against our Impact, “but, hey, it makes money,” you’ll get less <SPAN>RAD</SPAN>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you’ll get more <SPAN>RAD</SPAN>s.
-   </p>
-   <p>Maybe I gave you <SPAN>RAD</SPAN>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.
-   </p>
-   <p>In short, <SPAN>RAD</SPAN>s account for the uncountable, they measure the immeasurable.
-   </p>
+  <h3><span style="font-size:smaller; ">RAD</span>s Account for the Unaccountable</h3>
+   <p><span style="font-size:smaller; ">RAD</SPAN>s represent many things other than simple financial value. They are not beans, but they can be counted.</p>
+   <p>The <SPAN>RAD</SPAN>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you’ll probably get fewer <SPAN>RAD</SPAN>s from us; if you are helping us thrive, you’ll likely get more. If you do something that goes against our Impact, “but, hey, it makes money,” you’ll get less <SPAN>RAD</SPAN>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you’ll get more <SPAN>RAD</SPAN>s.</p>
+   <p>Maybe I gave you <SPAN>RAD</SPAN>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
+   <p>In short, <SPAN>RAD</SPAN>s account for the uncountable, they measure the immeasurable.</p>
 
 <h1 style="text-align: center; font-size:7ex; margin:30px 0 20px 0; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <SPAN>RAD</SPAN>s. For example,
@@ -283,40 +275,35 @@ image:    "dynamic-distribution-1.svg"
     <li>Each co-owner is responsible for her PRI Account and has to pay back what they got out of it. Most likely, this will be paid back out of Earned Dividends once revenue goes above breakeven, but this is something you’d have to experiment with.</li>
     <li>In the worst case, if the company goes belly up, then if the PRI Account was funded with investment money, there’s no “debt” to be paid back. If it was funded with a loan, then people with unpaid balances have to make good on that loan.</li>
    </ul>
-  <p>The PRI functions a lot like a salary,  </p>
-  <ul>
-   <li>If I earned <em>more</em> than my PRI, then I can take home my PRI <em>and my Earned Dividends</em>.</li>
-   <li>If what I’ve earned matches my PRI, then I take that much home, reminiscent of a traditional salary.</li>
-   <li>If I earned <em>less than my PRI</em>, I still take home <em>the amount of money I expected</em>, because the PRI Account makes up the difference, but I now owe the difference to the PRI Account.</li>
-  </ul>
-  <p>You’ll have to experiment with how these debts are settled. At its loosest, I could pay that debt “later” (<em>e.g.</em>, out of my future Earned Dividends). At its most rigid, I’d have to pay the PRI Account debt, plus interest, within 60 days. Our suggestion, as always, is to go for a policy that matches peoples' needs and situation. If a problem crops up, then tweak the policy as appropiate. In any case, don’t yield to imagined fears.</p>
-  <p>In the example below, Salim, Daliah, Alicia, and Anita earned enough dividends to cover their full Predictable Recurring Income (PRI); Kim and Julio earned less than their PRI, so money flows out of the <em>PRI Account</em> to make up the difference, but they now owe this much to the <em>PRI Account</em>.</p>
-  <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-   <img src="/assets/img/en-predictable-recurring-income-pri-t0.svg" alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs.
-   The firs column is labeled SALIM who has 250 RADs and takes home $2000 in PRI.
-   The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI.
-   Next is ALICIA with 670 RADs and takes $5000 in PRI.
-   Next is KIM with 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI.
-   Next is JULIO with 130 RADs and takes $4000 in PRI.
-   The sixth column is labeled ANITA who has 300 RADs and takes $1000 in PRI.
-   The graph shows a box labeled PRI ACCOUNT which is mostly filled with red liquid (an RADICAL investment). Below it are vertical boxes representing the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA takes the  largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
-  </p>
-  <p>We had a lot of back and forth over the PRI Account being a <em>personal</em> debt. Why not have it be a shared debt? The problem is that this may work for small groups, but it doesn’t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don’t know. They would want to know things like “Why is Julio’s PRI so high?” On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn’t feel good about going into so much debt and brings down his PRI after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister’s school and is willing to bear the debt for a while longer.</p>
-  <p>If you are thinking that this process takes a lot of time, you’re right. But it is cheaper and healthier than leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).</p>
+   <p>The PRI functions a lot like a salary,  </p>
+   <ul>
+    <li>If I earned <em>more</em> than my PRI, then I can take home my PRI <em>and my Earned Dividends</em>.</li>
+    <li>If what I’ve earned matches my PRI, then I take that much home, reminiscent of a traditional salary.</li>
+    <li>If I earned <em>less than my PRI</em>, I still take home <em>the amount of money I expected</em>, because the PRI Account makes up the difference, but I now owe the difference to the PRI Account.</li>
+   </ul>
+   <p>You’ll have to experiment with how these debts are settled. At its loosest, I could pay that debt “later” (<em>e.g.</em>, out of my future Earned Dividends). At its most rigid, I’d have to pay the PRI Account debt, plus interest, within 60 days. Our suggestion, as always, is to go for a policy that matches peoples' needs and situation. If a problem crops up, then tweak the policy as appropiate. In any case, don’t yield to imagined fears.</p>
+   <p>In the example below, Salim, Daliah, Alicia, and Anita earned enough dividends to cover their full Predictable  Recurring Income (PRI); Kim and Julio earned less than their PRI, so money flows out of the <em>PRI Account</em> to make up the difference, but they now owe this much to the <em>PRI Account</em>.</p>
+   <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+    <img src="/assets/img/en-predictable-recurring-income-pri-t0.svg" alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs.
+    The firs column is labeled SALIM who has 250 RADs and takes home $2000 in PRI.
+    The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI.
+    Next is ALICIA with 670 RADs and takes $5000 in PRI.
+    Next is KIM with 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI.
+    Next is JULIO with 130 RADs and takes $4000 in PRI.
+    The sixth column is labeled ANITA who has 300 RADs and takes $1000 in PRI.
+    The graph shows a box labeled PRI ACCOUNT which is mostly filled with red liquid (an RADICAL investment). Below it are vertical boxes representing the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA takes the  largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
+   </p>
+   <p>We had a lot of back and forth over the PRI Account being a <em>personal</em> debt. Why not have it be a shared debt? The problem is that this may work for small groups, but it doesn’t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don’t know. They would want to know things like “Why is Julio’s PRI so high?” On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn’t feel good about going into so much debt and brings down his PRI after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister’s school and is willing to bear the debt for a while longer.</p>
+   <p>If you are thinking that this process takes a lot of time, you’re right. But it is cheaper and healthier than  leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).</p>
 
  <h2>Dividends Are Not a Gift, You Earned Them</h2>
-   <p>Below there are three sample scenarios for how Earned Dividends are calculated,
-   </p>
+   <p>Below there are three sample scenarios for how Earned Dividends are calculated,</p>
    <ul>
-    <li>Below breakeven: When we as a company don’t generate enough Dividends to cover everybody’s PRIs in full and the difference has to come out of the PRI Accounts.
-    </li>
-    <li>At breakeven: When we make enough to at least pay everybody’s PRI.
-    </li>
-    <li>Above breakeven: When we as a company can pay everybody’s PRI <em>and</em> disburse Earned Dividends.
-    </li>
+    <li>Below breakeven: When we as a company don’t generate enough Dividends to cover everybody’s PRIs in full and the difference has to come out of the PRI Accounts.</li>
+    <li>At breakeven: When we make enough to at least pay everybody’s PRI.</li>
+    <li>Above breakeven: When we as a company can pay everybody’s PRI <em>and</em> disburse Earned Dividends.</li>
    </ul>
-   <p>This first scenario is what normally happens at the start of a company: it doesn’t generate enough revenue to cover everybody’s PRI. In this case, we would need an investment or loan to put in the PRI Account so we can use it to meet the amount of PRI each person has set.
-   </p>
+   <p>This first scenario is what normally happens at the start of a company: it doesn’t generate enough revenue to cover everybody’s PRI. In this case, we would need an investment or loan to put in the PRI Account so we can use it to meet the amount of PRI each person has set.</p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
     <img src="/assets/img/en-predictable-recurring-income-pri-t1.svg" alt="A table and a graph. The DIVIDENS for the month is $16000, which is $10000 below the breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
     The total DIVIDENDS add up to $6000, which is below the $10000 breakeven.
@@ -424,6 +411,6 @@ image:    "dynamic-distribution-1.svg"
 </ul>
 
 <h1 style="text-align: center; font-size:7ex; margin:30px 0 20px 0; ">ENDNOTES</h1>
-<ul>
- <li id="fn1"><h6><a href="#fnref1">back</a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://seths.blog/2020/05/what-kind-of-org/">here</a>). May 4, 2020.</h6></li>
-</ul>  
+ <ol>
+  <li id="fn1"><h6><a href="#fnref1">back</a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://seths.blog/2020/05/what-kind-of-org/">here</a>). May 4, 2020.</h6></li>
+ </ol>  
