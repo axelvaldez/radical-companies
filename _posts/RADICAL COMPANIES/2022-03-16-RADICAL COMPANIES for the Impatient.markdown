@@ -97,7 +97,7 @@ image:    "dynamic-distribution-1.svg"
    </li>
    <li>They give it to anybody they feel has contributed the most during the month. Each person knows best who has contributed.
    </li>
-   <li>Each person decides how much to give to whom based on whatever criteria “feels right” at that time.
+   <li>Each person decides how much to give to whom based on whatever criteria “feels right” to them.
    </li>
   </ul>
 
