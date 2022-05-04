@@ -10,7 +10,7 @@ image:    "dynamic-distribution-1.svg"
 
 <h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; ">Strictly for the Impatient</h1>
 
- <h2>Businesses Run as Dictatorships Hurt Us</h2>
+ <h2>Businesses-as-Dictatorships Hurt Us</h2>
  <p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.</p>
  <p>Nature follows a simple path to create big beautiful things out of unpretentious, small ones. From tiny seed to mighty oak tree. We don’t think that a long list of principles or color scales or a 17 page constitution are necessary to make a fundamental change. Eventually, these can become dogma, a form of force, and get in the way.</p>
  <p> With that in mind, we came up with what we think are the most basic foundations to support our coming together to share work and wealth.</p>
@@ -393,5 +393,5 @@ image:    "dynamic-distribution-1.svg"
 
 <h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; ">ENDNOTES</h1>
  <ol>
-  <li id="fn1"><h6><a href="#fnref1">🔼</a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://seths.blog/2020/05/what-kind-of-org/">here</a>). May 4, 2020.</h6></li>
+  <li id="fn1"><h6><a href="#fnref1">🔼</a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>). May 4, 2020.</h6></li>
  </ol>  
