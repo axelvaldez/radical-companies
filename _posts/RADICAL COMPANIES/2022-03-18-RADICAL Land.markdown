@@ -194,16 +194,20 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
+   <li>EN: <https://radicals.world/fDm2eL>
+   <li>ES: <https://radicals.world/3BFuoJ>
+   <li>For the Impatient: RADs, PRI, etc. <https://radicals.world/Q0RIWR]>
+Frequently asked questions (FAQ) <https://radicals.world/ZVRbBc>
     <li>EN: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
     <li>ES: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
-    <li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
+    <li>For the Impatient: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
     <li>Frequently Asked Questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
   </ul>
   <li>The Missing Chapters,</li>
   <ul>
-    <li><a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu">RADICAL COIN</a></li>
-    <li><a href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76">RADICAL LAND</a></li>
-    <li><a href="https://docs.google.com/document/d/1P4tZw1iAAnJtP2zlijgttIv1Cxq47PBPzqK3UbMHCSY/edit#">RADICAL GOVERNMENT</a></li> 
+    <li><span style="font-size:smaller; ">RADICAL</span> COIN <a href="https://radicals.world/AzS0ao">https://radicals.world/AzS0ao</a></li>
+    <li><span style="font-size:smaller; ">RADICAL</span> Land <a href="https://radicals.world/1dW1z1">https://radicals.world/1dW1z1</a></li>
+    <li><span style="font-size:smaller; ">RADICAL</span> Government <a href="https://radicals.world/elLrl7">https://radicals.world/elLrl7</a></li> 
   </ul>
   <li>rCompanies</li>
   <ul>
