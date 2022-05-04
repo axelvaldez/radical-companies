@@ -15,24 +15,19 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
 </div>
 
 <h2>Introduction</h2>
-<p style="text-align: justify; ">In the book <a href="https://radicals.world/fDm2e">RADICAL COMPANIES</a>, we only considered how the <span style="font-size: smaller; ">RADICAL</span> model would work in <em>a company environment</em>, and other than a mention, we said nothing about money, land, or governments.
-</p>
-<p style="text-align: justify; ">In <a href="https://radicalcompanies.com/2022/03/17/radical-coins"><span style="font-size: smaller; ">RADICAL COIN</span></a>, I laid out a few ideas about money and what it would look like in a decentralized, transparent world; land and government are definitely harder topics for me. In this document I am laying out my thoughts about what the model for land would look like in a <span style="font-size: smaller; ">RADICAL</span> world.
-</p>
+<p style="text-align: justify; ">In the book <a href="https://radicals.world/fDm2e">RADICAL COMPANIES</a>, we only considered how the <span style="font-size: smaller; ">RADICAL</span> model would work in <em>a company environment</em>, and other than a mention, we said nothing about money, land, or governments.</p>
+<p style="text-align: justify; ">In <a href="https://radicalcompanies.com/2022/03/17/radical-coins"><span style="font-size: smaller; ">RADICAL COIN</span></a>, I laid out a few ideas about money and what it would look like in a decentralized, transparent world; land and government are definitely harder topics for me. In this document I am laying out my thoughts about what the model for land would look like in a <span style="font-size: smaller; ">RADICAL</span> world.</p>
 
 <h2>Land Models</h2>
-<p style="text-align: justify; ">In <em>Another Now</em>, Yanis Varoufakis envisions all land as a commons controlled by “gComms, as the ground commons authorities or ground trusts came to be known.”<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> Henry George saw the land as one thing and anything sitting on it as separate, so his proposed single tax would tax the land net of improvements. Various people, including Joeri Torfs and Pim Ampe, have envisioned land <em>and</em> improvements as being perennially open for sale.
-</p>
-<p style="text-align: justify; ">My working hypothesis is that,
-</p>
+<p style="text-align: justify; ">In <em>Another Now</em>, Yanis Varoufakis envisions all land as a commons controlled by “gComms, as the ground commons authorities or ground trusts came to be known.”<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> Henry George saw the land as one thing and anything sitting on it as separate, so his proposed single tax would tax the land net of improvements. Various people, including Joeri Torfs and Pim Ampe, have envisioned land <em>and</em> improvements as being perennially open for sale.</p>
+<p style="text-align: justify; ">My working hypothesis is that,</p>
 <ul>
  <li>Land <em>and</em> improvements, combined, are one thing because it would be difficult, at best, to separate the two</li>
  <li>The combo would always be open for bids, so that use privilege would be determined by a market that is limited to calculating value.</li>
 </ul>
 
 <h2>Always Open for Bid</h2>
-<p style="text-align: justify; ">Having all land perennially open for bids creates a decentralized market, able to calculate its current value. That is because the winning bid will reflect the perceived value of the land, any improvements, its location, and, just as importantly, the value of contributions made by the community around it,
-</p>
+<p style="text-align: justify; ">Having all land perennially open for bids creates a decentralized market, able to calculate its current value. That is because the winning bid will reflect the perceived value of the land, any improvements, its location, and, just as importantly, the value of contributions made by the community around it,</p>
 <ul>
   <li>Two identical lots will be valued differently according to their <em>improvements</em>. The one with a small dilapidated barn on it will be valued less than the lot with a well-maintained barn.</li>
   <li>A lot, with the exact same house on it at one <em>location</em> may be valued very differently than the same lot and house in another location.</li>
@@ -66,10 +61,8 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
 <br>
 
 <h2>Taxes?</h2>
-<p style="text-align: justify; ">In the FIAT model, “taxes” disappear into the coffers of the County or State government. In the <span style="font-size: smaller; ">RADICAL</span> model, the occupier pays a percentage of her winning bid to a community fund. The fund would be used to create common goods.
-</p>
-<p style="text-align: justify; ">But what is a community in this context? One possible way of defining this is to imagine the “community” as concentric circles emanating from the land in question. The community fund could then be governed as follows,
-</p>
+<p style="text-align: justify; ">In the FIAT model, “taxes” disappear into the coffers of the County or State government. In the <span style="font-size: smaller; ">RADICAL</span> model, the occupier pays a percentage of her winning bid to a community fund. The fund would be used to create common goods.</p>
+<p style="text-align: justify; ">But what is a community in this context? One possible way of defining this is to imagine the “community” as concentric circles emanating from the land in question. The community fund could then be governed as follows,</p>
 <ul>
  <li>The occupier controls 49% of the funds.</li>
  <li>The first circle controls 27% of it.</li>
@@ -77,23 +70,19 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <li>The fourth controls 6%.</li>
  <li>The fifth controls 3%.</li>
 </ul>
-<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  "><img src="/assets/img/en-community-fund-not-taxes.svg" alt="Five concentric circles: at the center is the Occupier with 49%; around it is the Hyper-Local Community circle with 27%; next is the Surrounding Community with 15%; next could be the Region with 6% and the State with 3% of the fund." title="Community Fund – Not Taxes">
+<p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  ">
+ <img src="/assets/img/en-community-fund-not-taxes.svg" alt="Five concentric circles: at the center is the Occupier with 49%; around it is the Hyper-Local Community circle with 27%; next is the Surrounding Community with 15%; next could be the Region with 6% and the State with 3% of the fund." title="Community Fund – Not Taxes">
 </p>
-<p style="text-align: justify; ">The occupier has a big say in the use of the funds that she is contributing to the community. She may not be able to add a new room, but what’s in it for her is that she can likely steer a big chunk of her contribution to her favorite community project.
-</p>
-<p style="text-align: justify; ">The adjacent, hyper-local community also has a big say and can do significant works when combined with what other occupiers contribute to the fund. Ditto for the surrounding community.
-</p>
-<p style="text-align: justify; ">I am not sure about “Region” and “State,” thus the question marks, but I suspect the latter will be around for a long time.
-</p>
+<p style="text-align: justify; ">The occupier has a big say in the use of the funds that she is contributing to the community. She may not be able to add a new room, but what’s in it for her is that she can likely steer a big chunk of her contribution to her favorite community project.</p>
+<p style="text-align: justify; ">The adjacent, hyper-local community also has a big say and can do significant works when combined with what other occupiers contribute to the fund. Ditto for the surrounding community.</p>
+<p style="text-align: justify; ">I am not sure about “Region” and “State,” thus the question marks, but I suspect the latter will be around for a long time.</p>
 
 <h2>Country?</h2>
-<p style="text-align: justify; ">Note that there is no “country” circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a “country,” the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a Banner earmarked for a research area. I am not counting on the “goodness” of people or “their kind hearts”—instead, I am counting on people’s interests and their persuasive power when impassioned enough.
-</p>
+<p style="text-align: justify; ">Note that there is no “country” circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a “country,” the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a Banner earmarked for a research area. I am not counting on the “goodness” of people or “their kind hearts”—instead, I am counting on people’s interests and their persuasive power when impassioned enough.</p>
 
 <h2>Military?</h2>
-<p style="text-align: justify; ">Also, there is no funds for a military or any kind of state violence. It may take longer, but that’s where we are heading.
-</p>
-<p style="text-align: justify; ">But, how näive, say you, all it takes is a <em>few bad people</em> with weapons to take over the system, won’t it? Again, I am counting on people’s aversion to violence and how swiftly they can mobilize, particularly in a well-connected world, to neutralize the violence of the “few bad people.”<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup>
+<p style="text-align: justify; ">Also, there is no funds for a military or any kind of state violence. It may take longer, but that’s where we are heading.</p>
+<p style="text-align: justify; ">But, how n&auml;ive, say you, all it takes is a <em>few bad people</em> with weapons to take over the system, won’t it? Again, I am counting on people’s aversion to violence and how swiftly they can mobilize, particularly in a well-connected world, to neutralize the violence of the “few bad people.”<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup>
 </p>
 <p style="text-align: justify; ">In any case, it will be worth the experimentation.
 </p>
