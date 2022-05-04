@@ -284,7 +284,7 @@ image:    "dynamic-distribution-1.svg"
     <li>At breakeven: When we make enough to at least pay everybody’s PRI.</li>
     <li>Above breakeven: When we as a company can pay everybody’s PRI <em>and</em> disburse Earned Dividends.</li>
    </ul>
-   <p>This first scenario is what normally happens at the start of a company: it doesn’t generate enough revenue to cover everybody’s PRI. In this case, we would need an investment or loan to put in the PRI Account so we can use it to meet the amount of PRI each person has set.</p>
+   <p>This first scenario is what normally happens at the start of a company: it doesn’t generate enough revenue to cover everybody’s PRI. In this case, we would need a cash infusion to the PRI Account so we can use it to meet the amount of PRI each person has set.</p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
     <img src="/assets/img/en-predictable-recurring-income-pri-t1.svg" alt="A table and a graph. The DIVIDENS for the month is $16000, which is $10000 below the breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
     The total DIVIDENDS add up to $6000, which is below the $10000 breakeven.
