@@ -8,9 +8,9 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
 
 <div style="display: none;">What about land in a RADICAL world? Would you <em>own</em> it?</div>
 
-<div STYLE="background-color:#FFFAF0; padding:1em; border:1px solid CadetBlue; margin-bottom:20px; "> <!-- Opening Quotes -->
+<div id="fnref1" style="background-color:#FFFAF0; padding:1em; border:1px solid CadetBlue; margin-bottom:20px; "> <!-- Opening Quotes -->
  <pre class="prettyprint" style="font-size:30px; text-align:center; font-family:American Typewriter, serif; white-space:normal; ">&ldquo;&hellip; I am in favor of cutting up the wild lands into parcels, <em>so that every poor man may have a home</em>.&rdquo;</pre>
- <pre style="text-align:right; ">&mdash; Abraham Lincoln<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></pre>
+ <pre style="text-align:right; ">&mdash; Abraham Lincoln<sup><a href="#fn1" rel="footnote">1</a></sup></pre>
 </div>
 
 <h1>Introduction</h1>
@@ -39,8 +39,8 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
      <p style="font-family: courier new; text-align: center; border: silver dotted 1px; margin: auto; margin-bottom: 20px;">
       <img src="/assets/img/en-vacant-lot-henry-george-w-border.svg" alt="Picture of a street sign that reads: EVERYBODY WORKS BUT THE VACANT LOT. I paid $3600 for this lot and will hold till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read HENRY GEORGE. Yours truly, Fay Lewis." title="Vacant Lot">
      </p>
-     <p style="font-size: smaller; text-align: justify; ">“EVERYBODY WORKS BUT THE VACANT LOT” – I paid $3600 for this lot and will hold ‘till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read “HENRY GEORGE”</p>
-     <p style="font-size:smaller; text-align:right; "><em>— Yours Truly, Fay Lewis</em><sup id="fnref2"><a href="#fn2">2</a></sup></p>
+     <p id="fnref2" style="font-size: smaller; text-align: justify; ">“EVERYBODY WORKS BUT THE VACANT LOT” – I paid $3600 for this lot and will hold ‘till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read “HENRY GEORGE”</p>
+     <p style="font-size:smaller; text-align:right; "><em>— Yours Truly, Fay Lewis</em><sup><a href="#fn2">2</a></sup></p>
     </div>
    </td>
   </tr>
