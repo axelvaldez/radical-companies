@@ -243,14 +243,14 @@ image:    "dynamic-distribution-1.svg"
   <li>You <em>earned</em> $7,200 and I’ve <em>earned</em> $2,080 of the total dividends.
   </li>
  </ul>
- <p>That earned amount is split between Dividends and a Predictable Recurring Income component.
+ <p>That earned amount is split between Dividends and a <em>Predictable  Recurring Income</em> (PRI) component.
  </p>
 
  <h2>Making Recurring Takehome Pay Predictable</h2>
    <p>When you really think about it, “salary” is a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> context.</p>
    <p>The PRI is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),</p>
    <ul>
-    <li>Each member determines their Predictable Recurring Income (PRI). This is what they need to take home every month.</li>
+    <li>Each member determines their <em>Predictable  Recurring Income</em> (PRI). This is what they need to take home every month.</li>
     <li>Along with expenses, loan repayment, and other fixed expenses, the sum of all PRIs determines what for simplicity we’ll call the company’s breakeven point.</li>
     <li>Every month, the company pays its bills and all PRIs and what’s left is distributed as Earned Dividends according to each person’s <SPAN>RAD</SPAN>  allocations. This is the happy path.</li>
     <li>When revenue doesn’t cover the breakeven point, a PRI Account for each member provides predictability. As a company we can get a loan or  an investment for this fund. Then, as needed, money flows out of the PRI Account to cover a member’s full PRI.</li>
@@ -299,7 +299,7 @@ image:    "dynamic-distribution-1.svg"
     Below are graphics representation of each PRIs with a mix of red and beige. taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000.
     The graph shows the PRI ACCOUNT as a horizontal box full of read liquid. Below are vertical boxes that represent each person's PRI.They all have a mix of beige and red to indicate that they all had to complement their PRI with withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
    </p>
-   <p>In the breakeven case we finally get to pay ourselves fully from the revenue that we’ve generated. Even in this case, some people may need to draw from the Predictable Recurring Income (PRI) Account, maybe because their PRI are high, or their RADs are low, or both.
+   <p>In the breakeven case we finally get to pay ourselves fully from the revenue that we’ve generated. Even in this case, some people may need to draw from the <em>Predictable  Recurring Income</em> (PRI) Account, maybe because their PRI are high, or their RADs are low, or both.
    </p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
     <img src="/assets/img/en-predictable-recurring-income-pri-t2.svg" alt="A table and a graph. The DIVIDENS are $6000, which is below the $10000 breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
@@ -313,7 +313,7 @@ image:    "dynamic-distribution-1.svg"
     The graph shows the PRI ACCOUNT as box full of read liquid.
     Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
    </p>
-   <p>At some point, after we’ve been steadily growing our revenue, no money is coming out of our Predictable Recurring Income (PRI). This is when we start disbursing Earned Dividends in addition to covering everybody’s PRI.
+   <p>At some point, after we’ve been steadily growing our revenue, no money is coming out of our <em>Predictable  Recurring Income</em> (PRI). This is when we start disbursing Earned Dividends in addition to covering everybody’s PRI.
    </p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
     <img src="/assets/img/en-predictable-recurring-income-pri-t3.svg" alt="A table and a graph. The DIVIDENS for the month is $25000, which is $9000 above the breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, EARNED, PRI ACCOUNT, and EARNED DIVIDENDS.
