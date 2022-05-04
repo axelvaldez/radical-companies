@@ -78,7 +78,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
   <p>Note that there is no “country” circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a “country,” the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a Banner earmarked for a research area. I am not counting on the “goodness” of people or “their kind hearts”&mdash;instead, I am counting on people&rsquo;s interests and the persuasive power of their enthusiasm.</p>
  <h2>The Military?</h2>
   <p style="text-align: justify; ">Also, there is no funds for a military or any kind of state violence. It may take longer, but that&rsquo;s where we are heading.</p>
-  <p id="fnref3" style="text-align: justify; ">But, how n&auml;ive, say you, all it takes is a <em>few bad people</em> with weapons to take over the system, won’t it? Again, I am counting on &rsquo;s aversion to violence and how swiftly they can mobilize, particularly in a well-connected world, to neutralize the violence of the “few bad people.”<sup><a href="#fn3" rel="footnote">3</a></sup></p>
+  <p id="fnref3" style="text-align: justify; ">But, how n&auml;ive, say you, all it takes is a <em>few bad people</em> with weapons to take over the system, won’t it? Again, I am counting on &rsquo;s aversion to violence and how swiftly they can mobilize in a connected world to neutralize the violence of the “few bad people.”<sup><a href="#fn3" rel="footnote">3</a></sup></p>
   <p style="text-align: justify; ">In any case, it will be worth the experimentation.</p>
 
 <h1>Community Fund Governance</h1>
