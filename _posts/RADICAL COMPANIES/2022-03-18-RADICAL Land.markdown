@@ -8,19 +8,11 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
 
 <div style="display: none;">What about land in a RADICAL world? Would you <em>own</em> it?</div>
 
-<br>
-<br>
-
-<div class="prettyprint" style="font-size: 30px; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; white-space: normal; ">
- <br>
- <pre style="text-align: center; ">&ldquo;I am in favor of cutting up<br>the wild lands into parcels,<br><em>so that every poor man may have a home</em>.&rdquo;
- </pre>
+<div> <!-- Opening Quotes -->
+ <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; white-space: normal; ">&ldquo;&hellip; I am in favor of cutting up<br>the wild lands into parcels,<br><em>so that every poor man may have a home</em>.&rdquo;</pre>
  <pre style="text-align: right; padding-right: 2em; ">&mdash; Abraham Lincoln<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>
  </pre>
 </div>
-
-<br>
-<br>
 
 <h2>Introduction</h2>
 <p style="text-align: justify; ">In the book <a href="https://radicals.world/fDm2e">RADICAL COMPANIES</a>, we only considered how the <span style="font-size: smaller; ">RADICAL</span> model would work in <em>a company environment</em>, and other than a mention, we said nothing about money, land, or governments.
