@@ -166,7 +166,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
    <p style="text-align: justify; ">This really is a distinction without a difference. A <span style="font-size: smaller; ">COIN</span> minted by a one person &ldquo;company&rdquo; will probably have a very high risk and nobody would take it.</p>
    </p>On the other hand, there may be a young perfume maker who is very well known in his community for producing exquisite perfumes. People may accept her <span style="font-size: smaller; ">COIN</span>s based on personal knowledge.</p>
 
-<h1 style="font-size:20px; text-align:center; ">ENDNOTES</h1>
+<h1 style="font-size:40px; text-align:center; ">ENDNOTES</h1>
  <div class="endnotes">
   <ol>
    <li id="fn1">
