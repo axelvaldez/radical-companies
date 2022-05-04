@@ -192,7 +192,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
   </ol>
  </div>
 
-<h1 style="font-size:smaller; text-align:center; ">RELATED</h1>
+<h1 style="font-size:small; text-align:center; ">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
