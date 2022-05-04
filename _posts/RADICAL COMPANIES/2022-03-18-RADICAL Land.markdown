@@ -139,7 +139,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <p style="text-align: justify; ">The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of interdependence towards a higher level of collaboration.</p>
 
 <h1 style="text-align: center;">APPENDICES</h1>
- <h2 style="text-align: center; ">Terminology</h2>
+ <h2>Terminology</h1>
   <h3>Common Good</h3>
    <p style="text-align: justify; ">A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.</p>
    <p style="text-align: justify; ">Land and improvements on it are common goods. If it is occupied, it is managed by the occupier until the next bid for it comes in. If it is disoccupied, then it defaults to its surrounding community until someone bids for it (<em>i.e.</em>, the community cannot counter-bid).</p>
@@ -163,32 +163,34 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <h2 style="text-align: center;">FAQ</h2>
   <h3>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h3>
    <p style="text-align: justify; ">This really is a distinction without a difference. A <span style="font-size: smaller; ">COIN</span> minted, or sponsored, by one person will probably have a very high risk. But there may be exceptions (<em>e.g.</em>, a solo perfume maker who is very well known for producing exquisite perfumes).</p>
- <h2 style="text-align: center;">ENDNOTES</h2>
-  <div class="endnotes">
-   <ol>
-    <li id="fn1">
-     <h6>
-      <a href="#fnref1">🔼</a>&nbsp;Abraham Lincoln, 16th USA President. Speech to Germans at Cincinnati, Ohio, February 12, 1861     <<a href="https://radicals.world/5jV3VN">https://radicals.world/5jV3VN</a>>
-     </h6>
-    </li>
-    <li id="fn2">
-     <h6>
-      <a href="#fnref2">🔼</a>&nbsp;Yanis Varoufakis. <em>Another Now by Yanis</em> <<a href="https://a.co/90kfjT7">https://a.co/90kfjT7</a>>. Melville House, 2021</p>
-     </h6>
-    </li>
-    <li id="fn3">
-     <h6>
-      <a href="#fnref3">🔼</a>&nbsp;Wikipedia Commons.<a href="https://radicals.world/GlK2oV">Political performance art by Fay Lewis in Rockford, Illinois, USA, in 1914</a>. <<a href="https://radicals.world/GlK2oV">https://radicals.world/GlK2oV</a>>
-     </h6>
-    </li>
-    <li id="fn4">
-     <h6>
-      <a href="#fnref4">🔼</a>&nbsp;I must admit that this aspect of the RADICAL model would be a pushover for outer space FIAT invaders.
-     </h6>
-    </li>
-   </ol>
-  </div>
- <h2 style="text-align: center;">RELATED</h2>
+
+<h1 style="text-align: center;">ENDNOTES</h1>
+ <div class="endnotes">
+  <ol>
+   <li id="fn1">
+    <h6>
+     <a href="#fnref1">🔼</a>&nbsp;Abraham Lincoln, 16th USA President. Speech to Germans at Cincinnati, Ohio, February 12, 1861     <<a href="https://radicals.world/5jV3VN">https://radicals.world/5jV3VN</a>>
+    </h6>
+   </li>
+   <li id="fn2">
+    <h6>
+     <a href="#fnref2">🔼</a>&nbsp;Yanis Varoufakis. <em>Another Now by Yanis</em> <<a href="https://a.co/90kfjT7">https://a.co/90kfjT7</a>>. Melville House, 2021</p>
+    </h6>
+   </li>
+   <li id="fn3">
+    <h6>
+     <a href="#fnref3">🔼</a>&nbsp;Wikipedia Commons.<a href="https://radicals.world/GlK2oV">Political performance art by Fay Lewis in Rockford, Illinois, USA, in 1914</a>. <<a href="https://radicals.world/GlK2oV">https://radicals.world/GlK2oV</a>>
+    </h6>
+   </li>
+   <li id="fn4">
+    <h6>
+     <a href="#fnref4">🔼</a>&nbsp;I must admit that this aspect of the RADICAL model would be a pushover for outer space FIAT invaders.
+    </h6>
+   </li>
+  </ol>
+ </div>
+
+ <h1 style="text-align: center;">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
