@@ -17,7 +17,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <p style="text-align: justify; ">In the book <span style="font-size:smaller; "><a href="https://radicalcompanies.com">RADICAL COMPANIES</a></span>, we only considered how the <span style="font-size: smaller; ">RADICAL</span> model would work in <em>a company environment</em>, and other than a mention, we said nothing about money, land, or governments.</p>
  <p style="text-align: justify; ">In <a href="https://radicalcompanies.com/2022/03/17/radical-coins"><span style="font-size: smaller; ">RADICAL COIN</span></a>, I laid out a few ideas about money and what it would look like in a decentralized, transparent world; land and government are definitely harder topics for me. In this document I am laying out my thoughts about what the model for land would look like in a <span style="font-size: smaller; ">RADICAL</span> world.</p>
 
-<h1>The <span style="font-size:smaller; ">RADICAL<span> Land Model</h1>
+<h2>The <span style="font-size:smaller; ">RADICAL<span> Land Model</h2>
  <p id="fnref2" style="text-align: justify; ">In <em>Another Now</em>, Yanis Varoufakis envisions all land as a commons controlled by “gComms, as the ground commons authorities or ground trusts came to be known.”<sup><a href="#fn2" rel="footnote">2</a></sup> Henry George saw the land as one thing and anything sitting on it as separate, so his proposed single tax would tax the land net of improvements. Various people, including Joeri Torfs and Pim Ampe, have envisioned land <em>and</em> improvements as being perennially open for sale.</p>
  <p style="text-align: justify; ">My working hypothesis is that,</p>
  <ul>
@@ -25,7 +25,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
   <li>The combo would always be open for bids, so that use privilege would be determined by a market focused on land value.</li>
  </ul>
 
-<h1>Always Open for Bid</h1>
+<h2>Land Is always Open for Bid</h2>
  <p style="text-align: justify; ">Having all land perennially open for bids creates a decentralized market, able to calculate its current value. That is because the winning bid will reflect the perceived value of the land, any improvements, its location, and, just as importantly, the value of contributions made by the community around it,</p>
  <ul>
   <li>Two identical lots will be valued differently according to their <em>improvements</em>. The one with a small dilapidated barn on it will be valued less than the lot with a well-maintained barn.</li>
@@ -55,7 +55,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
   <li>Taxes, or equivalent, will go up or down as the winning bids go up or down.</li>
  </ul>
 
-<h1>Taxes?</h1>
+<h2>Local Land, Local Taxes?</h2>
  <p style="text-align: justify; ">In the FIAT model, “taxes” disappear into the coffers of the County or State government. In the <span style="font-size: smaller; ">RADICAL</span> model, the occupier pays a percentage of her winning bid to a community fund. The fund would be used to create common goods.</p>
  <p style="text-align: justify; ">But what is a community in this context? One possible way of defining this is to imagine the “community” as concentric circles emanating from the land in question. The community fund could then be governed as follows,</p>
  <ul>
