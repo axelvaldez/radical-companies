@@ -57,7 +57,7 @@ image:    "dynamic-distribution-1.svg"
   <li>Are we allowing for experimentation? (<em>e.g.</em>, "This has to meet these requirement <em>and</em> it has to be done this way&hellip;&nbsp;")</li>
  </ul>
  <p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed and by the people involved.</p>
- <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; white-space: normal; ">
+ <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; white-space: normal; margin:30px 0; ">
   <p style="font-size: smaller; padding: 0 3em; ">“An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
  </pre>
 
