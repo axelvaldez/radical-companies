@@ -15,7 +15,7 @@ image:    "en-decentralized-minting.svg"
  <p>While on or near a PADERA SHELF, the READER app can be used to,</p>
  <ul>
   <li>Download, listen to, or watch content.</li>
-  <li>Upload reviews and other content (i.e., as text, audio, or video).
+  <li>Upload reviews and other content (i.e., as text, audio, or video).</li>
   <li>Read a book.</li>
   <li>Download the digital book at a discount or get a discount coupon (e.g., QR code) to buy a paper copy of the book at the hosting store.</li>
  </ul>
