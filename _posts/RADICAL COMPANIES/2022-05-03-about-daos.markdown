@@ -23,8 +23,8 @@ image:    "about-daos.png"
  <p>At least, not autonomous in the sense that &ldquo;it is run by code, not by people.&rdquo; In fact, they are governed and operated by committees of people. Even if those could be eliminated, &ldquo;code&rdquo; is created by one or more people.</p>
  <p>Autonomy is the domain of people. We need autonomous collaboration, and people collaborate via conversations. Today&rsquo;s DAOs are basically an <em>automated investment</em> platform. Instead, we need a conversation platform supported by all the cool Web3 technology.</p>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; ">What Fear Means</h1>
- <p>I</p>
+<h1 style="font-size:50px; font-family:Courier New, monospace; ">What Is Fear?</h1>
+ <p>I have been bringing up &ldquo;violence,&rdquo; &ldquo;force,&rdquo; and &ldquo;fear,&rdquo; but without any explanation at all. I'd like to do that now.</p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; ">RELATED</h1>
  <ul>
