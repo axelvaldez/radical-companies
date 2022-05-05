@@ -8,8 +8,8 @@ image:    "en-decentralized-minting.svg"
 
 <div style="display: none; ">National fiat money is the problem, and so is our system of loans and investment. <span style="font-size: smaller; ">RADICAL COIN</span>s is a potential solution.</div>
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; ">If Kings
-had figured out fiat money,
+<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; ">If Kings and Queens
+had figured out the fiat money racket,
 we'd still be His Majesty's subjects</pre>
 
 <br>
