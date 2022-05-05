@@ -25,7 +25,7 @@ image:    "about-daos.png"
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; ">What Is Fear?</h1>
  <p>I have been bringing up &ldquo;violence,&rdquo; &ldquo;force,&rdquo; and &ldquo;fear,&rdquo; but without any explanation at all. I'd like to do that now.</p>
- <p>Fear is so prevalent in our present world that it mostly go unoticed. At least, it goes unoticed by our cognitive system, by the neocortex; the rest of our body is affected by it and often not in a good, healthy way.</p>
+ <p>Fear is so prevalent in our present world that it mostly goes unnoticed. At least, it goes unnoticed by our cognitive system, by the neocortex. It doesn't get out attention, except when it goes overboard. On the other hand, our bodies are affected by it and often not in a good, healthy way. When I use &ldquo;violence,&rdquo; &ldquo;force,&rdquo; and &ldquo;fear,&rdquo; I mean the type that we are </p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; ">RELATED</h1>
  <ul>
