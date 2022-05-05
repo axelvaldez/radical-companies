@@ -17,7 +17,7 @@ image:    "en-decentralized-minting.svg"
   <li>Download, listen to, or watch content.</li>
   <li>Upload reviews and other content (i.e., as text, audio, or video).</li>
   <li>Read a book.</li>
-  <li>Download the digital book at a discount or get a discount coupon (e.g., QR code) to buy a paper copy of the book at the hosting store.</li>
+  <li>Download the digital book at a discount or get a discount coupon (<em>e.g.</em>, QR code) to buy a paper copy of the book at the hosting store.</li>
  </ul>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Highlights</h1>
