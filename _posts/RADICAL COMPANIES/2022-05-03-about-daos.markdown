@@ -23,7 +23,7 @@ image:    "about-daos.png"
  <p>At least, not autonomous in the sense that &ldquo;it is run by code, not by people.&rdquo; In fact, they are governed and operated by committees of people. Even if those could be eliminated, &ldquo;code&rdquo; is created by one or more people.</p>
  <p>Autonomy is the domain of people. We need autonomous collaboration, and people collaborate via conversations. Today&rsquo;s DAOs are basically an <em>automated investment</em> platform. Instead, we need a conversation platform supported by all the cool Web3 technology.</p>
 
-<h1 style="font-size:50px; ">RELATED</h1>
+<h1 style="font-size:50px; font-family:american typewriter; ">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
    <ul>
