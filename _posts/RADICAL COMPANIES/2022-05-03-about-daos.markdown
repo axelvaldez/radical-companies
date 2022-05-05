@@ -16,7 +16,7 @@ image:    "about-daos.png"
  <p>Fortunately, all the creativity that has gone into creating the DAO technology could also be used to create alternatives to the <span style="font-size:smaller; ">FIAT</span> regime.</p>
 
 <h1 style="font-size:50px; font-family:american typewriter; ">DAOs Are Not Decentralized</h1>
- <p>They are as more or less centralized, depending on its governance model. But there's no incentive or commitment to decentralize. More LPs and less friction does not equal decentralization. Sure, LPs have the choice of not joining the DAO or, depending on the governance model, bailing out, but that’s not a solution to our big problem.<p>
+ <p>They are more or less centralized, depending on its governance model. But there's no incentive or commitment to decentralize. More LPs and less friction does not equal decentralization. Sure, LPs have the choice of not joining the DAO or, depending on the governance model, bailing out, but that’s not a solution to our big problem.<p>
  <p>We need to move away from the &ldquo;because I say so&rdquo;, <span style="font-size:smaller; ">FIAT</span> ways of doing things and to a truly decentralized and autonomous alternative to our current system based on force and fear.<p>
 
 <h1 style="font-size:50px; font-family:american typewriter; ">DAOs Are Not Autonomous</h1>
