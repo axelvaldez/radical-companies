@@ -3,7 +3,7 @@ layout:   post
 title:    "About DAOs"
 subtitle: "Non-Decentralized and Non-Autonomous"
 authors:  "Matt Perez"
-image:    "about-daos.png"
+image:    "about-daos.svg"
 ---
 
 <div style="display:none;">
