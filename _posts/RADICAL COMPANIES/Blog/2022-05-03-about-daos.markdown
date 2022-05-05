@@ -37,10 +37,10 @@ image:    "about-daos.svg"
    <ul>
     <li>English <<a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a>></li>
     <li>Castellano <<a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a>></li>
-    <li>For the Impatient: RADs, PRI, etc. <<a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a>></li>
-    <li>Frequently asked questions (FAQ) <<a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a>></li>
+    <li>For the Impatient: RADs, PRI, etc. <<a href="https://radicalcompanies.com/2022/03/18/radical-land">…radical-land</a>></li>
+    <li>Frequently Asked Questions (FAQ) <<a href="https://radicalcompanies.com/2022/03/15/radical-companies-faq">…radical-companies-faq</a>></li>
    </ul>
-  <li>The missing chapters,</li>
+  <li>The Missing Chapters,</li>
    <ul>
     <li>RADICAL COIN <<a href="https://radicals.world/AzS0ao">https://radicals.world/AzS0ao</a>></li>
     <li>RADICAL LAND <<a href="https://radicals.world/1dW1z1">https://radicals.world/1dW1z1</a>></li>
