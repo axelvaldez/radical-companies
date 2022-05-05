@@ -9,7 +9,7 @@ image:    "en-decentralized-minting.svg"
 <div style="display: none;"><p></p></div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Intro</h1>
- <p>A reader app that works with ebooks and platforms (e.g., Kindle).</p>
+ <p>A reader app that works with ebooks and platforms (<em>e.g.</em>, Kindle).</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Features</h1>
  <p>While on or near a PADERA SHELF, the READER app can be used to,</p>
@@ -21,7 +21,7 @@ image:    "en-decentralized-minting.svg"
  </ul>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Highlights</h1>
- <p>The READER allows readers to highlight from one word to a whole fragment. As opposed to the Kindle, a “word” does not include adjacent punctuation (e.g, single and double quotes, commas, periods, colons, semicolons, ellipses, dashes, parentheses, brackets, and exclamation and question marks) although the user may include it manually by adjusting the selection one character at a time.</p>
+ <p>The READER allows readers to highlight from one word to a whole fragment. As opposed to the Kindle, a &ldquo;word&rdquo; does not include adjacent punctuation (e.g, single and double quotes, commas, periods, colons, semicolons, ellipses, dashes, parentheses, brackets, and exclamation and question marks) although the user may include it manually by adjusting the selection one character at a time.</p>
  <p>In addition to highlighting, the READER will support underlines, boxes, and other forms of emphasis alone or in combination.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">RELATED</h1>
