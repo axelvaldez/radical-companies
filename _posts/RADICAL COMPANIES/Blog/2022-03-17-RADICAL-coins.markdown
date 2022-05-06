@@ -306,7 +306,7 @@ we'd still be His Majesty's subjects</pre>
   <p style="text-indent:1em; ">Co-owners could decide to do this, but it goes on the record, so to speak, for everyone to see. As sellers detect that pattern, they would shy away from the company’s COINs.</p>
  <h3 style="font-size:25px; font-family:Courier New, monospace; ">What if co-owners pay themselves a huge amount of COINs and keep taking new debt to paper over it? Wouldn’t this create massive inflation?</h3>
   <p style="text-indent:1em; ">Co-owners could decide to do this, but it goes on the record, so to speak, for everyone to see. As sellers detect that pattern, they would shy away from the company’s COINs. They may have lots and lots of COINs, but they would not be welcome by most people.</p> 
- <h3 style="font-size:25px; font-family:Courier New, monospace; ">The potato grower uses the COINs he got from selling her potatoes to buy a shovel. But then he discovers that the town’s shovel-maker raised his prices so that he can buy metal and wood to make more shovels.</h3>
+ <h3 style="font-size:25px; font-family:Courier New, monospace; ">The potato grower uses the COINs he got from selling her potatoes to buy a shovel. But then she discovers that the town’s shovel-maker raised his prices so that he can buy metal and wood to make more shovels.</h3>
   <p style="text-indent:1em; ">Yes, that could happen, as it does today.</p>
   <p style="text-indent:1em; ">Eventually, another shovel-maker would appear and make shovels that people can afford. The greedy shovel maker would go out of business.</p>
  <h3 style="font-size:25px; font-family:Courier New, monospace; ">PotatoCO mints COINs to pay for the now higher priced shovel.</h3>
