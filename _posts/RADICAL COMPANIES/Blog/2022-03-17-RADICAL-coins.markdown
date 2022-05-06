@@ -113,7 +113,7 @@ we'd still be His Majesty's subjects</pre>
  <h3 style="font-size:30px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s for a Decentralized Market</h3>
  <p style="text-indent:1em; ">We need a decentralized market to nurture the next stage of innovation and accomplishment. Unfortunately, national fiat coins are an obstacle to this. They are not very stable and are subject to cyclical crises.<sup id="fnref9"><a href="#fn9" rel="footnote">9</a></sup> They make international markets very complex, very opaque, and very expensive.</p> 
  <p style="text-indent:1em; ">Today’s international markets have been cobbled together by agreements that are fraught with weaknesses. National and international politics make transaction costs very expensive. Worst of all, these international markets are unduly influenced by transnational businesses seeking to profit no matter the harm to society.</p>
- <p style="text-indent:1em; ">A decentralized market can truly be a pricing engine, free of interference and manipulation.</p>
+ <p style="text-indent:1em; ">A decentralized market, free of interference and manipulation, is the iltimate pricing engine.</p>
  <h3 style="font-size:30px; font-family:Courier New, monospace; ">Decentralized Minting of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s</h3>
  <p style="text-indent:1em; ">We need decentralized minting of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s to take national and international politics out of it and to eliminate the influence of transnational corporations.</p>
  <p style="text-indent:1em; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are minted by companies, not any national government or central banks.</p>
