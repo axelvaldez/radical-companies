@@ -82,7 +82,7 @@ image:    "PRADERA-background.svg"
 <h1>What's in It for …?</h1>
  <table> 
   <tr>
-   <td>People<td>
+   <td>People</td>
   </tr>
   <tr>
    <td>For business people, it would be a safe space to develop their mindset beyond FIAT. It should feel like a weight lifted off their shoulders (<em>i.e.</em>, letting go of all that fear).</td>
