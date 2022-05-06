@@ -80,7 +80,7 @@ image:    "PRADERA-background.svg"
  </table> 
 
 <h1>What's in It for …?</h1>
- <table> 
+ <table style="vertical-align:top; "> 
   <tr>
    <td style="font-weight:bold; ">People</td>
    <td>
