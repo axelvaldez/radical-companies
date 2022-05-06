@@ -3,7 +3,7 @@ layout:   post
 title:    "PRADERA READER"
 subtitle: "A PRADERA MEDIA Tool"
 authors:  "Matt Perez"
-image:    "en-decentralized-minting.svg"
+image:    "PRADERA-background.svg"
 ---
 
 <div style="display: none;">
