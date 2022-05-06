@@ -350,7 +350,7 @@ we'd still be His Majesty's subjects</pre>
   <p style="text-indent:1em; ">A COINs log includes all the information needed to calculate the COIN’s potential risk and benefits. But, this date comes from the company behind the minted COINs. In all likelihood, it would include the number of co-owners who agreed to the mint and its how well they’ve kept to their promises. It would also include that a case has been made by several communities that the company is harming them and whether or not the situation has been resolved to the communities’ satisfaction.</p>
   <p style="text-indent:1em; ">For each COINs, the log holds facts, not judgements and each of us gets to decide what to do with them.</p>
 
-<h1 style="font-size:45px; font-family:Courier New, monospace; text-align: center; ">ENDNOTES</h1>
+<h1 style="font-size:45px; font-family:Courier New, monospace; text-align: center; margin: 40px 0 20px 0; ">ENDNOTES</h1>
  <div class="footnotes">
   <hr>
   <ol>
@@ -382,7 +382,7 @@ we'd still be His Majesty's subjects</pre>
   </ol>
 </div>
 
-<h1 style="font-size:45px; font-family:Courier New, monospace; text-align: center; ">RELATED</h1>
+<h1 style="font-size:45px; font-family:Courier New, monospace; text-align: center; margin: 40px 0 20px 0; ">RELATED</h1>
  <ul>
   <li><span style="font-size: smaller; ">RADICAL COMPANIES</span>,</li>
    <ul>
