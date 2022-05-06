@@ -102,7 +102,7 @@ we'd still be His Majesty's subjects</pre>
    <td colspan="4">&nbsp;</td>
   </tr>
  </table>
- <h3 style="font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s as Collaboration</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s as Collaboration</h3>
   <p style="text-indent:1em; ">As I see it, the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve &ldquo;<em>progress</em>.&rdquo;<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup></p>
   <p style="text-indent:1em; ">Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of collaboration.</p>
 
@@ -110,18 +110,18 @@ we'd still be His Majesty's subjects</pre>
 <p style="text-indent:1em; ">A world-wide market would bring us together rather than keeping us siloed by the Rube Goldberg markets we have today.</p>
 <p style="text-indent:1em; ">We could have a single world government create and enforce a single currency. But even if it were politically feasible, it is unnecessary and a move in the wrong direction towards centralization. To wit, we didn’t need a single world government for minutes, meters, or the Internet, some of the most useful world-wide tools of all time.</p>
 <p style="text-indent:1em; ">A decentralized, transparent <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is fundamental to such a unified market. These are some of the other things we would need to nourish and support a world-wide market,</p>
- <h3 style="font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s for a Decentralized Market</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s for a Decentralized Market</h3>
  <p style="text-indent:1em; ">We need a decentralized market to nurture the next stage of innovation and accomplishment. Unfortunately, national fiat coins are an obstacle to this. They are not very stable and are subject to cyclical crises.<sup id="fnref9"><a href="#fn9" rel="footnote">9</a></sup> They make international markets very complex, very opaque, and very expensive.</p> 
  <p style="text-indent:1em; ">Today’s international markets have been cobbled together by agreements that are fraught with weaknesses. National and international politics make transaction costs very expensive. Worst of all, these international markets are unduly influenced by transnational businesses seeking to profit no matter the harm to society.</p>
  <p style="text-indent:1em; ">A decentralized market can truly be a pricing engine, free of interference and manipulation.</p>
- <h3 style="font-family:Courier New, monospace; ">Decentralized Minting of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">Decentralized Minting of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s</h3>
  <p style="text-indent:1em; ">We need decentralized minting of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s to take national and international politics out of it and to eliminate the influence of transnational corporations.</p>
  <p style="text-indent:1em; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are minted by companies, not any national government or central banks.</p>
- <h3 style="font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s Are Transparent</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s Are Transparent</h3>
 <p style="text-indent:1em; ">National fiat coins are opaque. In theory that’s good because it reduces transaction costs. But this “reduction of costs” also disables human choice.</p>
 <p style="text-indent:1em; ">In any case, the big transaction costs are those that banks, exchanges, and political manipulation bring in. And opaqueness does not reduce any of those.</p>
 <p style="text-indent:1em; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s are transparent. An integral part of each <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is the log that comes along with them. This will restore people’s  ability to make choices based on that information.</p>
- <h3 style="font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s as a Trusted Measure</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s as a Trusted Measure</h3>
  <p style="text-indent:1em; ">A measure can be “trusted” because it means the same thing to people anywhere.
  So, if you believe that people are pretty much the same anywhere, you can trust <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s as a measure.</p>
  <p style="text-indent:1em; ">In a rural setting somebody will get <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s for milking a goat, while in an urban setting someone else will get <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s for stopping cars so children can cross the street. The same human feeling that recognized the generosity of these acts was present in the rural case as well as in the urban setting. RADs capture that recognition in a tangible way, regardless of its numeric accuracy. <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s, and the <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s that they factor, can be trusted because people decide what is <em>a contribution that deserves to be recognized</em>.</p>
@@ -139,7 +139,7 @@ we'd still be His Majesty's subjects</pre>
 
 <h2 style="font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN> Qualities</h2>
  <p style="text-indent:1em; ">These are, in no particular order, a few of the qualities that a <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> must have,</p>
- <h3 style="font-family:Courier New, monospace; ">Decentralized Minting of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">Decentralized Minting of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s</h3>
   <p style="text-indent:1em; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are minted by companies, not a national government.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/en-decentralized-minting.svg" alt="A company gets REVENUE, at the top, and sends COINs out to the world, at the bottom. In parallel, a company mints its own COINs, as needed, and they go out to the world mixed in with REVENUE COINs." title="Decentralizd Minting" style="align: center; "></p>
@@ -169,27 +169,27 @@ we'd still be His Majesty's subjects</pre>
    </tr>
   </table>
   <p style="text-indent:1em; ">A seller’s app can calculate a risk factor based on the BenCO <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>’s log <em>and</em> her particular preset parameters. Each of us can let the apps do the calculations and, based on that, decide whether or not to take the BenCO <span style="font-size: smaller; ">COIN</span>s as payment.<sup id="fnref12"><a href="#fn12" rel="footnote">12</a></sup></p>
- <h3 style="font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s Are Stable</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s Are Stable</h3>
   <p style="text-indent:1em; ">In today’s system of exchange, “reserve currencies” are used for international transactions. This makes these transactions very expensive.</p>
   <p style="text-indent:1em; ">As of this writing, the four most widely held “reserve currencies” are the US dollar (&dollar;), the European Euro (&euro;), the Japanese Yen (&yen;), and the UK Pound Sterling (&pound;). These national fiat coinage are backed up by strong, stable economies. At least, that’s how the story goes.</p>
- <h3 style="font-family:Courier New, monospace; ">Companies as Guarantors of <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span>s</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">Companies as Guarantors of <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span>s</h3>
   <p style="text-indent:1em; ">National economies are not as stable as all that and financial crises happen on a cyclical basis.<sup id="fnref13"><a href="#fn13" rel="footnote">13</a></sup> For another, people invariably find ways to exploit some aspect of the financial system for private gain. Politicians are very good at this and manipulate national economies shamelessly. For example, in 1971 then President Nixon renounced gold as a standard and blamed it mostly on De Gaulle’s policies. In reality, he did it to maintain “global economic dominance and to improve economic conditions at home.”<sup id="fnref14"><a href="#fn14" rel="footnote">14</a></sup></p>
   <p style="text-indent:1em; ">By comparison, companies are extremely stable because their reputation depends solely on how effective they are at creating value for society. That’s it. The worst that can happen is that a company mints <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s and then it is not able, or willing, to retire the debt. The financial impact of this would be insignificant; to wit, this is what happens today.</p>
- <h3 style="font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span>s Are (Not) Fungible</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span>s Are (Not) Fungible</h3>
   <p style="text-indent:1em; ">In today’s financial model, to be effective as a medium of exchange, money must be fungible—one coin is indistinguishable from all others. “Trying to use a non-fungible good as money results in transaction costs of individually evaluating each unit of the good before an exchange can take place.”<sup id="fnref15"><a href="#fn15" rel="footnote">15</a></sup></p>
   <p style="text-indent:1em; ">Thankfully, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are fungible, world-wide, as a class. Their transaction costs, nationally and internationally, are negligible.</p>
   <p style="text-indent:1em; ">But, also thankfully, they are not fungible individually. Each <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> carries information about its genesis and history and this translates to a different level of risk associated with each one. Their only transaction cost is that of “evaluating” whether or not to accept the risk associated with it. But this can be automated and it is insignificant. To decide whether to accept a given mix of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s as payment carries no financial cost since most transactions would be driven by the app’s results and the few exceptions to it would be driven by people to people relationships. This takes those transactions out of the financial realm and into a people-to-people one.<sup id="fnref16"><a href="#fn16" rel="footnote">16</a></sup></p>
- <h3 style="font-family:Courier New, monospace; "h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span>s Represent Broad Value</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; "h3><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span>s Represent Broad Value</h3>
   <p style="text-indent:1em; ">To be robust, a <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> needs to be tied to value creation, and <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are. In fact they represent more than financial value. Their value also represents wellbeing, acts of kindness, and whatever else people consider important. And since COINs are factored through <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</span>s they represent broad value contributions as well.</p>
   <p style="text-indent:1em; ">For example, if the RADs that have been allocated to me amount to 10% of the total and yours to 20%, this means that our fellow co-owners decided that you contributed twice as much as I did. As a result you get twice as many COINs as I do.</p>
- <h3 style="font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span>s Transparent</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span>s Transparent</h3>
   <p style="text-indent:1em; ">National fiat coins are opaque. We make do with things like GDP, but GDP and others like it don’t measure anything besides financial value. They are canonical examples of the Broken Window Fallacy and don’t take into account society-wide costs. What’s more, these indices can be very misleading, and “GDP can increase after a car accident or a major flood. GDP can grow rapidly during a war or after a terrorist attack.”<sup id="fnref17"><a href="#fn17" rel="footnote">17</a></sup></p>
   <p style="text-indent:1em; ">COINs are transparent and we need them to be. Each COIN carries with it a log of all the information necessary to calculate the potential risks and benefits associated with it. Given that information, each of us can then decide whether or not to accept a particular COIN as payment.</p>
- <h3 style="font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span> Value</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</span> Value</h3>
   <p style="text-indent:1em; ">The face value of national fiat coins is fixed forever. At least, that is true for reserve currencies. Other national fiat coins are not so lucky: their face value stays put, but their purchasing  power fluctuates, sometimes wildly.</p>
   <p style="text-indent:1em; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s have a face value of one. It is backed by people who come together as <span style="font-size: smaller; ">RADICAL COMPANIES</span> to create broad value for society. It is free from national and international politics and manipulation.</p>
   <p style="text-indent:1em; ">The face value of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s never changes but the information in its log may. Based on all of that, each of us gets to decide whether or not to accept the COINs given the risks and benefits indicated in its log.</p>
- <h3 style="font-family:Courier New, monospace; ">Different Companies, Different Values</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">Different Companies, Different Values</h3>
   <p style="text-indent:1em; ">As it is today, different companies will end up with different values and their co-owners will have more or less purchasing power. For example.</p>
   <ul>
    <li>Company BenCO earns 100 COINs.</li>
@@ -197,7 +197,7 @@ we'd still be His Majesty's subjects</pre>
    <li>JerryCo’s <em>value</em> is higher than BenCO.</li>
    <li>JerryCO <em>people earn more COINs</em> than those at BenCO.</li>
   </ul>
- <h3 style="font-family:Courier New, monospace; ">Companies as Guarantors</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">Companies as Guarantors</h3>
   <p style="text-indent:1em; ">COINs are backed up by the <span style="font-size: smaller; ">RADICAL COMPANIES</span>, not national governments. This means that the COIN’s “value” is determined by what each company brings to society and by its co-owners’ sensitivities.</p>
   <p style="text-indent:1em; ">This last bit is really important.</p>
   <p style="text-indent:1em; ">In today’s businesses, the owners can do whatever they want. Although the same is technically true for a <span style="font-size: smaller; ">RADICAL COMPANY</span> it will be a lot more unlikely that all co-owners would agree to do something that goes against their own values and communities.</p>
@@ -223,15 +223,15 @@ we'd still be His Majesty's subjects</pre>
  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
   <img src="/assets/img/en-rad-auto-inflation.svg" alt="Table, with RISKS along the horizontal and BENEFITS along the vertical axis. WHen COINs are low in RISKS and BENEFITS, there is high acceptance of them. When COINs come with high RISKS and low BENEFITS, or low RISKS and high BENEFITS, there some resistance and acceptance of them. When COINs have high RISKS and high BENEFITS, there is high resistance to accepting them. " title="COIN RISKS and BENEFITS">
  </p> 
- <h3 style="font-family:Courier New, monospace; ">Calculating Risk</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">Calculating Risk</h3>
   <p style="text-indent:1em; ">A <span style="font-size: smaller; ">COIN</span>‘s log may include, for example, the number of co-owners that agree to its mint, the company’s revenue history, how many COINs the company has minted, and the company’s debt performance. Given the <span style="font-size: smaller; ">COIN</span>’s log, we can calculate the risk associated with every <span style="font-size: smaller; ">COIN</span> and decide whether or not to accept a particular <span style="font-size: smaller; ">COIN</span> as payment.</p>
   <p style="text-indent:1em; ">One side-effect of this, is that people will try to dilute what risk they hold by paying with a combination of low and high risk <span style="font-size: smaller; ">COIN</span>s, enough of each to make the risk acceptable to the seller.<sup id="fnref22"><a href="#fn22" rel="footnote">22</a></sup></p>
- <h3 style="font-family:Courier New, monospace; ">Calculating Benefits</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">Calculating Benefits</h3>
   <p style="text-indent:1em; ">Over time, companies will go up in value because they get very efficient, benefit from high demand, or both. People will likely hold on to their COINs. It may be that they are more comfortable with risk and may not mind taking higher risk COINs from fledgling companies. It may also be that even the more conservative folks may be tempted to take high risk COINs from high potential companies.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/en-rads-value-increase.svg" alt="Table. Four columns by three rows. First row: After Month 1; +100 in Revenue;+100 New RADs; each RAD is worth one 100th; or one COIN per RAD. After month 2: revenue is up by 1000; +100 New RADs; each worth one 200th of total; or 10 COINs per RAD. After Month 3: revenue has gone up by 5000; +100 New RADs; each woth one 300%th; or 50 COINs per RAD." title="Decentralizd Minting">
   </p>
- <h3 style="font-family:Courier New, monospace; ">Other Value Factors</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">Other Value Factors</h3>
   <p style="text-indent:1em; ">Other things that may affect company value,</p>
   <ul>
    <li>As a company creates more value, it gets more revenue, and it generates more COINs. The revenue COINs are allocated according to each person’s broad contributions. Co-owners decide what is a broad contribution according to the value they perceive.</li>
@@ -297,42 +297,42 @@ we'd still be His Majesty's subjects</pre>
  </p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; text-align: center; ">FAQ</h1> 
- <h3 style="font-family:Courier New, monospace; ">Companies minting COINs without any rules sounds really, really crazy!</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">Companies minting COINs without any rules sounds really, really crazy!</h3>
   <p style="text-indent:1em; ">If that sounds “crazy,” then the financial system we have today is crazier. And it is business hostile, on top.</p>
   <p style="text-indent:1em; ">COINs minted by BenCO carry a log which includes all the information related to their creation. The co-owners are motivated to retire the COINs they minted in the time promised. If they don’t do that, fewer and fewer sellers will accept their COINs. Their buying power will go down the drain in a hurry.</p> 
- <h3 style="font-family:Courier New, monospace; ">Why not make co-owners responsible for personally retiring the debt?</h3>
- <h3 style="font-family:Courier New, monospace; ">What prevents a company from continuously taking on new debt to retire old debt?</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">Why not make co-owners responsible for personally retiring the debt?</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">What prevents a company from continuously taking on new debt to retire old debt?</h3>
   <p style="text-indent:1em; ">Co-owners could decide to do this, but it goes on the record, so to speak, for everyone to see. As sellers detect that pattern, they would shy away from the company’s COINs.</p>
- <h3 style="font-family:Courier New, monospace; ">What if co-owners pay themselves a huge amount of COINs and keep taking new debt to paper over it? Wouldn’t this create massive inflation?</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">What if co-owners pay themselves a huge amount of COINs and keep taking new debt to paper over it? Wouldn’t this create massive inflation?</h3>
   <p style="text-indent:1em; ">Co-owners could decide to do this, but it goes on the record, so to speak, for everyone to see. As sellers detect that pattern, they would shy away from the company’s COINs. They may have lots and lots of COINs, but they would not be welcome by most people.</p> 
- <h3 style="font-family:Courier New, monospace; ">The potato grower uses the COINs he got from selling her potatoes to buy a shovel. But then he discovers that the town’s shovel-maker raised his prices so that he can buy metal and wood to make more shovels.</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">The potato grower uses the COINs he got from selling her potatoes to buy a shovel. But then he discovers that the town’s shovel-maker raised his prices so that he can buy metal and wood to make more shovels.</h3>
   <p style="text-indent:1em; ">Yes, that could happen, as it does today.</p>
   <p style="text-indent:1em; ">Eventually, another shovel-maker would appear and make shovels that people can afford. The greedy shovel maker would go out of business.</p>
- <h3 style="font-family:Courier New, monospace; ">PotatoCO mints COINs to pay for the now higher priced shovel.</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">PotatoCO mints COINs to pay for the now higher priced shovel.</h3>
   <p style="text-indent:1em; ">If PotatoCO’s co-owners figure that the new price is a fair price and there’s no other supplier around, it would have to do that. They would have to make sure that they can get enough COINs from future potatoes to retire the debt as promised. Otherwise, they are going to pay with a lower reputation and value and less buying power for the co-owners.</p>
   <p style="text-indent:1em; ">People will continue to make mistakes and miss estimates. COINs won’t change human nature. But co-owners can mint the COINs they need to run their companies without worrying about the color of their skin, or their gender, or church affiliation.</p>
- <h3 style="font-family:Courier New, monospace; ">But this means that another potato grower buys a tractor and grows even more potatoes!</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">But this means that another potato grower buys a tractor and grows even more potatoes!</h3>
   <p style="text-indent:1em; ">Yes. This means that people can experiment more.</p>
   <p style="text-indent:1em; ">Maybe the tractor turns out to be a lemon and doesn’t help him produce more or better potatoes. He probably won’t be able to retire the debt he took on to buy it.</p> 
- <h3 style="font-family:Courier New, monospace; ">What if JerryCO, a brand new startup with no revenue, needs COINs to get started, can it just mint them?</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">What if JerryCO, a brand new startup with no revenue, needs COINs to get started, can it just mint them?</h3>
   <p style="text-indent:1em; ">In this case, most vendors would likely not accept JerryCO’s COINs as payments because its COINs would have very high risk.</p>
   <p style="text-indent:1em; ">In this case, other companies may want to help out JerryCO by giving them COINs. One or more companies could mint enough COINs for JerryCO  to get to revenue or to build its minimum viable product. This could include vendors of equipment that JerryCO needs to succeed and the quid pro quo is that they will become JerryCO’s preferred vendors.</p>
   <p style="text-indent:1em; ">Alternatively, the investment may come from a group of adjacent companies. They believe that JerryCO’s product is complementary to theirs and will help the market grow. Or JerryCO promises to “repay” twice the original amount of this investment.</p>
   <p style="text-indent:1em; ">In any case, as JerryCO starts to show results and a pattern of doing as promised, the risk of its own COINs will go down and will be able to pay with a mix of its own COINs and co-investment COINs.</p>
- <h3 style="font-family:Courier New, monospace; ">What if a BenCO co-owner wants to buy the latest electric, self-driving car, but she doesn’t get enough COINs? Can’t she convince the other co-owners to pay themselves more COINs?</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">What if a BenCO co-owner wants to buy the latest electric, self-driving car, but she doesn’t get enough COINs? Can’t she convince the other co-owners to pay themselves more COINs?</h3>
    <p style="text-indent:1em; ">For BenCO co-owners to pay themselves a lot more COINs than they actually receive in revenue, they would have to mint the extra COINs. These newly minted COINs would show a lot of risks and sellers would likely not accept them as payment, particularly for luxury items.</p>
- <h3 style="font-family:Courier New, monospace; ">Do you mean that there is no possible way to defraud the system?</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">Do you mean that there is no possible way to defraud the system?</h3>
   <p style="text-indent:1em; ">It simply means that I can’t think of a way of doing that.</p>
   <p style="text-indent:1em; ">Every time I think of something, the system manages to protect itself. And it is all because of the transparency built into it.</p>
   <p style="text-indent:1em; ">I can imagine that there could be a way to falsify a COIN’s log, but I’ll leave that to smarter people.</p>
- <h3 style="font-family:Courier New, monospace; ">Why can’t people mint COINs? Why is it limited to companies?</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">Why can’t people mint COINs? Why is it limited to companies?</h3>
   <p style="text-indent:1em; ">Community!</p>
   <p style="text-indent:1em; ">In the RADICAL model, a company is a community of people who come together to contribute broad value to society and make an impact in the world. This means that co-owners may be motivated to mind COINs, but the risks of doing so may hold them back. Do we believe that we can retire the debt? Can we do as we are promising?</p>
   <p style="text-indent:1em; ">Maybe individuals can weigh all those considerations by themselves, but I know I couldn’t, at least not in a balanced way. When the pros and cons are weighed by the broader consideration of a community, the final decision is more balanced.</p>
- <h3 style="font-family:Courier New, monospace; ">What if a company mints COINs and then is not able to retire the debt?</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">What if a company mints COINs and then is not able to retire the debt?</h3>
   <p style="text-indent:1em; ">Yes, this kind of thing will happen. And, in case you’re asking, there is no punishment for the people involved in this.</p>
   <p style="text-indent:1em; ">The overall costs will be negligible. It happens all the time today and nobody notices. Yes, the people involved in a bankruptcy get punished, ruthlessly so. But the system absorbs the losses, magically.</p>
- <h3 style="font-family:Courier New, monospace; ">What about people who retired on their CarelessCO’s COINs?</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">What about people who retired on their CarelessCO’s COINs?</h3>
   <p style="text-indent:1em; "> I think that in a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world, “retiring” will be a thing of the past (<em>i.e.</em>, our present). People “retire” today because they’ve been putting up with their job for many years and they are burned out in more ways than one.</p>
   <p style="text-indent:1em; ">In a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world, the more likely scenario is that people may decide to not join another company for a while and live instead off their portfolio of RADs from their past companies. This type of “retiring” will not be a function of age or tiresomeness, it will be of choice.</p>
   <p style="text-indent:1em; ">So, let’s say that I decide to travel the world on a sailboat, paying for it with CarelessCO’s COINs and CarelessCO disbands. There could be three cases,</p>
@@ -341,11 +341,11 @@ we'd still be His Majesty's subjects</pre>
    <li>The COINs I have are mostly pre-disband, but I do have some that the company minted. The amount is very minor, I’ll have to switch to a smaller boat. Besides, I am earning COINs while on the boat by writing about my journey.</li>
    <li>All the COINs I have are the ones discredited. In fact, I was one of the co-owners who supported the minting (we were sure we could do it). In this case, I screwed myself financially, but I learned something in the process. I have to return the boat and join WiserCO.</li>
   </ol>
- <h3 style="font-family:Courier New, monospace; ">What if lots of companies disband at the same time?</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">What if lots of companies disband at the same time?</h3>
   <p style="text-indent:1em; ">Then you adjust your app to raise the risk of similar companies.</p>
- <h3 style="font-family:Courier New, monospace; ">What about people who cannot work?</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">What about people who cannot work?</h3>
   <p style="text-indent:1em; ">Some people will be unable to contribute to a company, for whatever reason. But to their family</p>
- <h3 style="font-family:Courier New, monospace; ">Is risk associated with companies or with COINs?</h3>
+ <h3 style="font-size:20px; font-family:Courier New, monospace; ">Is risk associated with companies or with COINs?</h3>
   <p style="text-indent:1em; ">A COINs log includes all the information needed to calculate the COIN’s potential risk and benefits. But, this date comes from the company behind the minted COINs. In all likelihood, it would include the number of co-owners who agreed to the mint and its how well they’ve kept to their promises. It would also include that a case has been made by several communities that the company is harming them and whether or not the situation has been resolved to the communities’ satisfaction.</p>
   <p style="text-indent:1em; ">For each COINs, the log holds facts, not judgements and each of us gets to decide what to do with them.</p>
 
