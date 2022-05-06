@@ -260,7 +260,7 @@ we'd still be His Majesty's subjects</pre>
     </td>
    </tr>
    <tr>
-    <td style="vertical-align: text-top;">
+    <td style="vertical-align: text-top; horizontal-align:right; ">
      <p style="text-indent:1em; "><strong>Battling Ghosts</strong></p>
     </td>
     <td>
