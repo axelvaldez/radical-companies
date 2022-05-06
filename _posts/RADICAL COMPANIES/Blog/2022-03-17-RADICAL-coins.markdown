@@ -354,7 +354,6 @@ we'd still be His Majesty's subjects</pre>
 
 <h1 style="font-size:45px; font-family:Courier New, monospace; text-align: center; margin: 40px 0 20px 0; ">ENDNOTES</h1>
  <div class="footnotes">
-  <hr>
   <ol>
    <li id="fn1"><h6><a href="#fnref1">back</a> Matt Perez, Adrian Perez, Jose Leal. <span style="font-size: smaller; ">RADICAL COMPANIES</span>: Without Bosses or Employees. Pradera Media, 2021.</h6></li>
    <li id="fn2"><h6><a href="#fnref2">back</a> I am taking inspiration from two books, <em>Debt</em> by David Graeber <<a href="https://a.co/cd9vVHk">https://a.co/cd9vVHk</a>> and <em>Rethinking Money</em> by Bernard Lietaer and Jacqui Dunne <<a  href="https://radicals.world/hEhkt0">https://radicals.world/hEhkt0</a>>.</h6></li>
