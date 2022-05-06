@@ -13,7 +13,7 @@ image:    "PRADERA-background.svg"
 <h1>Intro</h1>
  <p>The PRADERA SHELF could bring new life to small booksellers and make their business more profitable.</p>
 
-<h1>Features<h1>
+<h1>Features</h1>
  <p>Retailers would have an area, called the SHELF, dedicated to PRADERA MEDIA content.</p>
  <p>Later, retailers could include other publishers, but they would have to pay a fee to the store for the privilege (at that point the store would probably have to buy the SHELF).</p>
  <p>Mobile phones and pads will readily connect to the SHELF to,</p>
