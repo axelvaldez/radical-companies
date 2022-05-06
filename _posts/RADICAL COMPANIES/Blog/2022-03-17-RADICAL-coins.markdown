@@ -301,6 +301,7 @@ we'd still be His Majesty's subjects</pre>
   <p style="text-indent:1em; ">If that sounds “crazy,” then the financial system we have today is crazier. And it is business hostile, on top.</p>
   <p style="text-indent:1em; ">COINs minted by BenCO carry a log which includes all the information related to their creation. The co-owners are motivated to retire the COINs they minted in the time promised. If they don’t do that, fewer and fewer sellers will accept their COINs. Their buying power will go down the drain in a hurry.</p> 
  <h3 style="font-size:30px; font-family:Courier New, monospace; ">Why not make co-owners responsible for personally retiring the debt?</h3>
+  <p style="text-indent:1em; "></p>
  <h3 style="font-size:30px; font-family:Courier New, monospace; ">What prevents a company from continuously taking on new debt to retire old debt?</h3>
   <p style="text-indent:1em; ">Co-owners could decide to do this, but it goes on the record, so to speak, for everyone to see. As sellers detect that pattern, they would shy away from the company’s COINs.</p>
  <h3 style="font-size:30px; font-family:Courier New, monospace; ">What if co-owners pay themselves a huge amount of COINs and keep taking new debt to paper over it? Wouldn’t this create massive inflation?</h3>
