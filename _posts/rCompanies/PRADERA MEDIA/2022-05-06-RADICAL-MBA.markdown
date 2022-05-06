@@ -82,7 +82,7 @@ image:    "PRADERA-background.svg"
 <h1>What's in It for …?</h1>
  <table> 
   <tr style="vertical-align:top; ">
-   <td style="font-weight:bold; ">People</td>
+   <td style="font-weight:bold; text-align:right; ">People</td>
    <td>
     <ul>
      <li>For business people, it would be a safe space to develop their mindset beyond FIAT. It should feel like a weight lifted off their shoulders (<em>i.e.</em>, letting go of all that fear).</li>
@@ -91,7 +91,7 @@ image:    "PRADERA-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:top; ">
-   <td style="font-weight:bold; ">Companies</td>
+   <td style="font-weight:bold; text-align:right; ">Companies</td>
    <td>
     <ul>
      <li>As they break free of their FIAT ways they will experience  lower costs (e.g., less turnover, higher productivity), innovation (e.g., operations, new products and services), higher Earned Dividends.</li>
@@ -99,7 +99,7 @@ image:    "PRADERA-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:top; ">
-   <td style="font-weight:bold; ">Communities</td>
+   <td style="font-weight:bold; text-align:right; ">Communities</td>
    <td>
     <ul>
      <li>More and more people who understand interdependence in their bones.</li>
@@ -108,7 +108,7 @@ image:    "PRADERA-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:top; ">
-   <td style="font-weight:bold; ">World</td>
+   <td style="font-weight:bold; text-align:right; ">World</td>
    <td>
     <ul>
      <li>Continues to support life.</li>
