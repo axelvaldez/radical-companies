@@ -384,7 +384,7 @@ we'd still be His Majesty's subjects</pre>
 
 <h1 style="font-size:45px; font-family:Courier New, monospace; text-align: center; margin: 40px 0 20px 0; ">RELATED</h1>
  <ul>
-  <li><span style="font-size: smaller; ">RADICAL COMPANIES</span>,</li>
+  <li><span style="font-size: smaller; ">RADICAL</span> COMPANIES,</li>
    <ul>
     <li>EN: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
     <li>ES: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
