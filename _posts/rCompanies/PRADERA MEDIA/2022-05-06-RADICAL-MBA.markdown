@@ -82,20 +82,20 @@ image:    "PRADERA-background.svg"
 <h1>What's in It for …?</h1>
  <table> 
   <tr>
-   <td>People</td>
+   <td style="font-weight:bold; ">People</td>
   </tr>
   <tr>
    <td>For business people, it would be a safe space to develop their mindset beyond FIAT. It should feel like a weight lifted off their shoulders (<em>i.e.</em>, letting go of all that fear).</td>
    <td>For facilitators, it would strengthen their RADICAL muscles. It would also potentially provide future business to help the business folks actually go through real metamorphosis (<em>i.e.</em>, co-ownership opportunities).</td>
   </tr>
   <tr>
-   <td>Companies</td>
+   <td style="font-weight:bold; ">Companies</td>
   </tr>
   </tr>
    <td>As they break free of their FIAT ways they will experience  lower costs (e.g., less turnover, higher productivity), innovation (e.g., operations, new products and services), higher Earned Dividends.</td>
   </tr>
   <tr>
-   <td>Communities</td>
+   <td style="font-weight:bold; ">Communities</td>
   </tr>
   <tr>
    <td>
