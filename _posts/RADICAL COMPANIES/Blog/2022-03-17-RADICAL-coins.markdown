@@ -25,7 +25,7 @@ we'd still be His Majesty's subjects</pre>
  <p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are also decentralized. Companies will be the guarantors of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s: not banks, not governments, and not international accords. This will make the costs of all transactions negligible.</p>
  <p>A decentralized and transparent <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> will make possible a world-wide market that we can all play in without intermediaries.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace; ">Terminology Used in this Doc</h2>
+<h2 style="font-family:Courier New, monospace; ">Terminology Used in this Doc</h2>
  <table>
   <tr>
    <td style="vertical-align: text-top; border-right: black dotted 1px;"><strong>National Fiat Coin</strong></td>
@@ -50,7 +50,7 @@ we'd still be His Majesty's subjects</pre>
  </table>
  <p>To avoid confusion, in this document I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace; ">A Historical Perspective</h2>
+<h2 style="font-family:Courier New, monospace; ">A Historical Perspective</h2>
  <p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are not to be confused, or conflated, with local or complementary currencies, demurrage money, or any such.<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup> Ditto for Mutualism, Marxism, or any other theory or ideology. The point of <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>a is to make it possible to have a world-wide market, free of intermediaries, and with negligible costs.</p>
  <p>In fact, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are very similar to national fiat coins. They are a unit of measure, a store of value, and a medium of exchange, but with these twists,</p>
  <ol>
@@ -61,7 +61,7 @@ we'd still be His Majesty's subjects</pre>
   </li>
  </ol>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace; ">About the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Framework</h2>
+<h2 style="font-family:Courier New, monospace; ">About the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Framework</h2>
  <p>This may be a difficult read and it may be worth repeating here a few words about the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> framework and how it’s different from our current world. Probably the most confusing thing about it is that a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.</p>
  <p>The only difference—the big difference—is that the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> system is centered around our interdependence.</p>
  <p>Our current system is based on separating us: countries, towns, good and bad neighborhoods; political parties and their vastly different realities; need to know, secrecy, protection. This leaves us disconnected and drives us to isolation. Businesses are built on creating platforms to bring us back together, for a fee. This works for a world where money comes first, ahead of everything else.</p>
@@ -126,7 +126,7 @@ we'd still be His Majesty's subjects</pre>
  So, if you believe that people are pretty much the same anywhere, you can trust <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s as a measure.</p>
  <p>In a rural setting somebody will get <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s for milking a goat, while in an urban setting someone else will get <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s for stopping cars so children can cross the street. The same human feeling that recognized the generosity of these acts was present in the rural case as well as in the urban setting. RADs capture that recognition in a tangible way, regardless of its numeric accuracy. <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s, and the <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s that they factor, can be trusted because people decide what is <em>a contribution that deserves to be recognized</em>.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s Represent Contributions</h2>
+<h2 style="font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s Represent Contributions</h2>
  p>This idea originated with entrepreneur and pioneer Philip Rosedale,<sup id="fnref10"><a href="#fn10" rel="footnote">10</a></sup></p>
  <ul>
   <li>As the company grows, every month an equal amount of cash and shares of the company are earmarked for distribution.</li>
@@ -137,7 +137,7 @@ we'd still be His Majesty's subjects</pre>
  <p><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions are very similar, but instead of cash or stocks, it uses <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s, a dimensionless unit. At the end of each Distribution the total number of <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s allocated to each person represents their (dynamic) <a href="#VaryingBuyingPower">percentage of ownership</a> of the broad value created by a company.</p>
  <p>Because this broad value accounts for things other than financial value, <em><SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s account for the uncountable</em>.<sup id="fnref11"><a href="#fn11" rel="footnote">11</a></sup> And because <em><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are factored through <span style="font-zise: smaller; ">RAD</span>s</em>, they represent broad value as well. In other words, each person's share of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s is a function of their contributions and reflects the full spectrum of human values, not just financial value.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN> Qualities</h2>
+<h2 style="font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN> Qualities</h2>
  <p>These are, in no particular order, a few of the qualities that a <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> must have,</p>
 
  <h3 style="font-size:20px; font-family:Courier New, monospace; ">Decentralized Minting of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s</h3>
@@ -212,7 +212,7 @@ we'd still be His Majesty's subjects</pre>
   <p>In today’s businesses, the owners can do whatever they want. Although the same is technically true for a <span style="font-size: smaller; ">RADICAL COMPANY</span> it will be a lot more unlikely that all co-owners would agree to do something that goes against their own values and communities.</p>
   <p>For example, if a community feels harmed by the actions of CarelessCO they can make their case to a few of its co-owners to at least get a conversation going. If the harm affects many such communities and all its co-owners refuse to engage, they can simply record the failed discussion to CarelessCO’s COINs. Some people may interpret this as a high risk (to society) while others may see it differently. We all get to decide.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace; "><span style="font-size: smaller; ">RADICAL COIN</span> Risks and Benefits</h2>
+<h2 style="font-family:Courier New, monospace; "><span style="font-size: smaller; ">RADICAL COIN</span> Risks and Benefits</h2>
  <p>There is plenty of evidence that shows that a currency, one that actually actually flows, can benefit a society,<sup id="fnref18"><a href="#fn18" rel="footnote">18</a></sup> while money stuffed under a mattress only benefits the hoarder.</p>
  <p>People have figured out that, in today’s world, one way to keep money flowing is by having it lose its value over time (<em>i.e.</em>, there is no point in hoarding it because it will “rot”). This can be done by inflation or demurrage. Inflation, the decline of purchasing power, has been the preferred method of national governments for controlling the value and availability of its coinage. Governments can do this by several means, including by tweaking interest rates, which impacts the supply of national fiat coins. We all know that “inflation is bad,” but we cannot do anything about it.</p>
  <p>The other approach is by demurrage, where coins <em>lose</em> their value over time. There’s been a number of local deployments of demurrage coins and they are generally beneficial to the local economy. However, as far as I know, demurrage has never been used at a national level. The poster child of demurrage is the &ldquo;Miracle of Wörgl."&rdquo;<sup id="fnref19"><a href="#fn19" rel="footnote">19</a></sup>. During the Great Depression, the town of Wörgl, Austria, was quickly running out of money, like most of the world. The mayor issued Wörgls to pay people for doing local jobs and the local shops agreed to accept them. The bills had to be stamped every week in order to keep them valid, and every stamp reduced the value of these coins. This kept the notes in circulation. So much so, that people even paid taxes earlier rather than let their currency “rot.”</p>
@@ -251,7 +251,7 @@ we'd still be His Majesty's subjects</pre>
    <li>Companies that are constantly creating debt and not retiring it, will find themselves isolated. Their COINs will get riskier and riskier and they will be acceptable to fewer and fewer people. Hopefully, they will see guidance and help from others.</li>
   </ul>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace; ">TA-DA!</h2>
+<h2 style="font-family:Courier New, monospace; ">TA-DA!</h2>
  <p><span style="font-size: smaller; ">RAD</span>s account for what so far has been unaccountable. People get to decide what a contribution is and by doing so they “measure” what has been unmeasurable: an act of kindness, spontaneous help. Co-owners get <span style="font-size: smaller; ">COIN</span>s according to the percentage of RADs they have and that makes COINs a much broader measure than just financial value.</p>
  <p>Companies mint <span style="font-size: smaller; ">COIN</span>s. This means that <span style="font-size: smaller; ">COIN</span>s are decentralized and free of interference by national and international politics, financial institutions, and too-big-to-fail transnationals. <span style="font-size: smaller; ">COIN</span>s will make it possible to create a world-wide market that Adam Smith would be happy with.<sup id="fnref24"><a href="#fn24" rel="footnote">24</a></sup></p>
  <p>The whole system is transparent and each of us can decide to accept a payment or not. It is not mysterious or left to robed experts to figure things out. Each of us can do it because each of us is an expert on our own sensitivities and how we interpret the world.</p>
