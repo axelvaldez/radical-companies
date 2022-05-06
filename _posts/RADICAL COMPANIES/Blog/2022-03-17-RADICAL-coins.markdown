@@ -246,7 +246,7 @@ we'd still be His Majesty's subjects</pre>
  <p style="text-indent:1em; ">Companies mint <span style="font-size: smaller; ">COIN</span>s. This means that <span style="font-size: smaller; ">COIN</span>s are decentralized and free of interference by national and international politics, financial institutions, and too-big-to-fail transnationals. <span style="font-size: smaller; ">COIN</span>s will make it possible to create a world-wide market that Adam Smith would be happy with.<sup id="fnref24"><a href="#fn24" rel="footnote">24</a></sup></p>
  <p style="text-indent:1em; ">The whole system is transparent and each of us can decide to accept a payment or not. It is not mysterious or left to robed experts to figure things out. Each of us can do it because each of us is an expert on our own sensitivities and how we interpret the world.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; text-align: center; ">APPENDICES</h1>
+<h1 style="font-size:45px; font-family:Courier New, monospace; text-align: center; ">APPENDICES</h1>
  <h2 style="font-family:Courier New, monospace; ">Bad Actors</h2>
   <p style="text-indent:1em; ">There may not be as many bad actors as we think. We probably have a preponderance of them today because 1) they make the news, and 2) we live in a system that is meant to reward bad behavior: gaming is part and parcel of the system. As we find out, we patch it to prevent other bad actors from exploiting the same weakness. But then the next batch of bad actors become wealthy by discovering and exploiting new weaknesses.</p>
   <p style="text-indent:1em; ">We don’t normally think of these, below, as bad actors. But they are. They fall back on their FIAT world habits and are a drag on moving forward to a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world.</p>
@@ -296,7 +296,7 @@ we'd still be His Majesty's subjects</pre>
   <img src="/assets/img/en-rad-auto-inflation-b.svg" alt="Four tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 200 COINs. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 23% for the fourth. They each get 40, 70, 30, and 60 COINs. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +1000 New for a TOTAL of 2000 COINs. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 30% for the fourth (the same as for BenCO). They each get 400, 700, 300, and 600 COINs. Below there are two more tables. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 300 COINs. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth. They each get 120, 45, 45, and 60 COINs. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +1000 New for a TOTAL of 3000 COINs. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth (the same as for BenCO). They each get 1200, 450, 450, and 600 COINs. Some JerryCO co-owners have more COINs than others." title="Varying Buying Powers between and within companies">
  </p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; text-align: center; ">FAQ</h1> 
+<h1 style="font-size:45px; font-family:Courier New, monospace; text-align: center; ">FAQ</h1> 
  <h3 style="font-size:30px; font-family:Courier New, monospace; ">Companies minting COINs without any rules sounds really, really crazy!</h3>
   <p style="text-indent:1em; ">If that sounds “crazy,” then the financial system we have today is crazier. And it is business hostile, on top.</p>
   <p style="text-indent:1em; ">COINs minted by BenCO carry a log which includes all the information related to their creation. The co-owners are motivated to retire the COINs they minted in the time promised. If they don’t do that, fewer and fewer sellers will accept their COINs. Their buying power will go down the drain in a hurry.</p> 
@@ -349,7 +349,7 @@ we'd still be His Majesty's subjects</pre>
   <p style="text-indent:1em; ">A COINs log includes all the information needed to calculate the COIN’s potential risk and benefits. But, this date comes from the company behind the minted COINs. In all likelihood, it would include the number of co-owners who agreed to the mint and its how well they’ve kept to their promises. It would also include that a case has been made by several communities that the company is harming them and whether or not the situation has been resolved to the communities’ satisfaction.</p>
   <p style="text-indent:1em; ">For each COINs, the log holds facts, not judgements and each of us gets to decide what to do with them.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; text-align: center; ">ENDNOTES</h1>
+<h1 style="font-size:45px; font-family:Courier New, monospace; text-align: center; ">ENDNOTES</h1>
  <div class="footnotes">
   <hr>
   <ol>
@@ -381,7 +381,7 @@ we'd still be His Majesty's subjects</pre>
   </ol>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; text-align: center; ">RELATED</h1>
+<h1 style="font-size:45px; font-family:Courier New, monospace; text-align: center; ">RELATED</h1>
  <ul>
   <li><span style="font-size: smaller; ">RADICAL COMPANIES</span>,</li>
    <ul>
