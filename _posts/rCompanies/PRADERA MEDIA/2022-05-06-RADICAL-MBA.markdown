@@ -83,8 +83,12 @@ image:    "PRADERA-background.svg"
  <table> 
   <tr>
    <td style="font-weight:bold; ">People</td>
-   <td>For business people, it would be a safe space to develop their mindset beyond FIAT. It should feel like a weight lifted off their shoulders (<em>i.e.</em>, letting go of all that fear).</td>
-   <td>For facilitators, it would strengthen their RADICAL muscles. It would also potentially provide future business to help the business folks actually go through real metamorphosis (<em>i.e.</em>, co-ownership opportunities).</td>
+   <td>
+    <ul>
+     <li>For business people, it would be a safe space to develop their mindset beyond FIAT. It should feel like a weight lifted off their shoulders (<em>i.e.</em>, letting go of all that fear).</li>
+     <li>For facilitators, it would strengthen their RADICAL muscles. It would also potentially provide future business to help the business folks actually go through real metamorphosis (<em>i.e.</em>, co-ownership opportunities).</li>
+    </ul>
+   </td>
   </tr>
   <tr>
    <td style="font-weight:bold; ">Companies</td>
