@@ -29,7 +29,8 @@ we'd still be His Majesty's subjects</pre>
  <table>
   <tr>
    <td style="vertical-align: text-top; border-right: black dotted 1px;"><strong>National Fiat Coin</strong></td>
-   <td style="padding-left: 6px; ">Throughout the rest of this document, you will notice that I stubbornly use “national fiat coin,” instead of “money” or “currency.” This is mostly to remind myself of a few key distinctions,
+   <td>
+    <p style="text-indent:2em; ">Throughout the rest of this document, you will notice that I stubbornly use “national fiat coin,” instead of “money” or “currency.” This is mostly to remind myself of a few key distinctions,</p>
    <ul>
      <li>“Money” is primarily a concept</li>
      <li>“Coins” are a tangible instance of money.</li>
