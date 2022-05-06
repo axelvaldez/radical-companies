@@ -77,9 +77,10 @@ image:    "PRADERA-background.svg"
     </ul>
    </td>
   </tr>
+ </table> 
 
 <h1>What's in It for …?</h1>
- <table>
+ <table> 
   <tr>
    <td>People<td>
   </tr>
