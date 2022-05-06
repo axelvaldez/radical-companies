@@ -24,7 +24,7 @@ image:    "en-decentralized-minting.svg"
  <p>The READER allows readers to highlight from one word to a whole fragment. As opposed to the Kindle, a &ldquo;word&rdquo; does not include adjacent punctuation (<em>e.g</em>, single and double quotes, commas, periods, colons, semicolons, ellipses, dashes, parentheses, brackets, and exclamation and question marks) although the user may include it manually by adjusting the selection one character at a time.</p>
  <p>In addition to highlighting, the READER can support underlines, boxes, and other forms of emphasis alone or in combination.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">RELATED</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; margin: 40px 0 20px 0; ">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
    <ul>
