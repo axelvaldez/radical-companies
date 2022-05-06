@@ -92,9 +92,11 @@ image:    "PRADERA-background.svg"
   </tr>
   <tr>
    <td style="font-weight:bold; ">Companies</td>
-  </tr>
-  <tr>
-   <td>As they break free of their FIAT ways they will experience  lower costs (e.g., less turnover, higher productivity), innovation (e.g., operations, new products and services), higher Earned Dividends.</td>
+   <td>
+    <ul>
+     <li>As they break free of their FIAT ways they will experience  lower costs (e.g., less turnover, higher productivity), innovation (e.g., operations, new products and services), higher Earned Dividends.</li>
+    </ul>
+   </td>
   </tr>
   <tr>
    <td style="font-weight:bold; ">Communities</td>
