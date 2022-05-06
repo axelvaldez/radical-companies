@@ -252,7 +252,7 @@ we'd still be His Majesty's subjects</pre>
   <p style="text-indent:1em; ">We don’t normally think of these, below, as bad actors. But they are. They fall back on their FIAT world habits and are a drag on moving forward to a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world.</p>
   <table>
    <tr>
-    <td style="vertical-align: text-top;">
+    <td style="vertical-align: text-top; text-align:right; ">
      <p style="text-indent:1em; "><strong>Going Along</strong></p>
     </td>
     <td>
@@ -264,14 +264,14 @@ we'd still be His Majesty's subjects</pre>
      <p><strong>Battling Ghosts</strong></p>
     </td>
     <td>
-     <p style="text-indent:1em; ">The other type of bad actor is the one who gets pulled into behavior that he normally would not condone.</p>
+     <p>The other type of bad actor is the one who gets pulled into behavior that he normally would not condone.</p>
      <p style="text-indent:1em; ">For example, Anita, a BenCO co-owner, wants to buy potatoes. The potato seller, Shui, looks at the COINs coming from her, but declines to accept them. It turns out that <em>all</em> of Anita’s COINs come from BenCO and the company has not lived up to its promises. Shui is a very conservative type and he refuses to exchange her COINs for his potatoes. She explains the reasons why they had not made the first year payment on time, “and we will, by the end of this week.” Nevertheless, Shui is unmoved and puts the potatoes back in their bin.</p>
      <p style="text-indent:1em; ">Further down the road, Namir sees the same log that Shui got, but he, nevertheless, accepts Anita’s COINs in exchange for his potatoes. It turns out that Namir knows Anita and what they are doing at BenCO and he trusts that they will retire their debts.</p>
      <p style="text-indent:1em; ">Shui sees the exchange, misinterprets it, and instead of talking with Namir he goes on to accept higher risk COINs that he is comfortable with. Instead of talking to Namir and figuring out what’s going on, he falls into his own trap of assuming Namir is out to take business away from him.</p>
     </td>
    </tr>
    <tr>
-    <td style="vertical-align: text-top;">
+    <td style="vertical-align: text-top; text-align:right; ">
      <p style="font-weight:bold; ">Convenience</p>
     </td>
     <td>Other Bad Actors act out of convenience. I’ll let Seth Godin describe this one,
