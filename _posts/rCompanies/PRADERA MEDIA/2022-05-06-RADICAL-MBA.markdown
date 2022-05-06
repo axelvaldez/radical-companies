@@ -108,9 +108,7 @@ image:    "PRADERA-background.svg"
    </td>
   </tr>
   <tr>
-   <td>World</td>
-  </tr>
-  <tr>
+   <td style="font-weight:bold; ">World</td>
    <td>
     <ul>
      <li>Continues to support life.</li>
