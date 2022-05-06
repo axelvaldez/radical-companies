@@ -19,6 +19,7 @@ image:    "PRADERA-background.svg"
   <li>RADICAL PURPOSE outlines an alternative model to FIAT thinking.</li>
   <li>RADICAL COMPANIES outlines a model for creating a co-managed and co-owned company shaped by the RADICAL PURPOSE mindset.</li>
   <li>The workshop includes exercises and Q&A.</li>
+ </ul>
 
 <h1>Alignment</h1>
  <table>
