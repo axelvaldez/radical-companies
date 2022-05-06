@@ -24,7 +24,7 @@ image:    "PRADERA-background.svg"
 <h1>Alignment</h1>
  <table>
   <tr>
-   <td colspan="2">Impact</td>
+   <td colspan="2" style="font-weight:bold; ">Impact</td>
   </tr>
   <tr>
    <td style="text-align:right; margin-right:1em; ">What for?</td>
@@ -35,7 +35,7 @@ image:    "PRADERA-background.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2">Purpose</td>
+   <td colspan="2" style="font-weight:bold; ">Purpose</td>
   </tr>
   <tr>
    <td style="text-align:right; margin-right:1em; ">Why?</td>
@@ -47,7 +47,7 @@ image:    "PRADERA-background.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2">Mission</td>
+   <td colspan="2" style="font-weight:bold; ">Mission</td>
   </tr>
   <tr>
    <td style="text-align:right; margin-right:1em; ">What?</td>
