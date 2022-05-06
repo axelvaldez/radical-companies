@@ -285,7 +285,6 @@ we'd still be His Majesty's subjects</pre>
      </div>
     </td>
    </tr>
-   <tr><td>&nbsp;</td><td></td></tr>
   </table>
   
 <h1 style="font-size:45px; font-family:Courier New, monospace; text-align: center; margin: 30px 0 20px 0; " id="VaryingBuyingPower">Varying Buying Power</h1>
