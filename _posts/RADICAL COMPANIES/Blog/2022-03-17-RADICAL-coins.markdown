@@ -252,7 +252,7 @@ we'd still be His Majesty's subjects</pre>
   <p style="text-indent:1em; ">We don’t normally think of these, below, as bad actors. But they are. They fall back on their FIAT world habits and are a drag on moving forward to a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world.</p>
   <table>
    <tr>
-    <td style="vertical-align: text-top; text-align:right; ">
+    <td style="vertical-align: text-top; text-align:right; padding-right:1em; ">
      <p style="text-indent:1em; "><strong>Going Along</strong></p>
     </td>
     <td>
@@ -260,7 +260,7 @@ we'd still be His Majesty's subjects</pre>
     </td>
    </tr>
    <tr>
-    <td style="vertical-align: text-top; text-align:right; ">
+    <td style="vertical-align: text-top; text-align:right; padding-right:1em; ">
      <p><strong>Battling Ghosts</strong></p>
     </td>
     <td>
@@ -271,7 +271,7 @@ we'd still be His Majesty's subjects</pre>
     </td>
    </tr>
    <tr>
-    <td style="vertical-align: text-top; text-align:right; ">
+    <td style="vertical-align: text-top; text-align:right; padding-right:1em; ">
      <p style="font-weight:bold; ">Convenience</p>
     </td>
     <td>Other Bad Actors act out of convenience. I’ll let Seth Godin describe this one,
