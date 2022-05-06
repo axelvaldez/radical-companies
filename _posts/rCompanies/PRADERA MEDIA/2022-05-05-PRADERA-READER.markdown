@@ -6,7 +6,9 @@ authors:  "Matt Perez"
 image:    "en-decentralized-minting.svg"
 ---
 
-<div style="display: none;"><p></p></div>
+<div style="display: none;">
+ <p>A reader app that works with ebooks and platforms (<em>e.g.</em>, Kindle).</p>
+</div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Intro</h1>
  <p>A reader app that works with ebooks and platforms (<em>e.g.</em>, Kindle).</p>
@@ -43,8 +45,8 @@ image:    "en-decentralized-minting.svg"
   <ul>
    <li>rPRADERA MEDIA</li >
    <ul>
+    <li><a href="https://radicals.world/elLrl7">PRADERA READER</a></li>
     <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA SHELF</a></li>
-    <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA READER</a></li>
     <li><a href="https://docs.google.com/document/d/1NElxng620-FtPtk2s-2xizTcL_89LdqnpkZepsnf5RA/edit#heading=h.6wmx089o9bc4">RADICALS.LIVE!</a></li>
     <li><a href="https://docs.google.com/document/d/1Ej3YXS8Gymknq0TAyNC161Sv5nVXGTGtN-2PwS6H30E/edit#heading=h.gqizizpnpgzu">RADICAL MBA</a></li>
    </ul>
