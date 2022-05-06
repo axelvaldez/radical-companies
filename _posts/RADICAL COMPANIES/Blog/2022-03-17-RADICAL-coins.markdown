@@ -247,7 +247,7 @@ we'd still be His Majesty's subjects</pre>
  <p style="text-indent:1em; ">The whole system is transparent and each of us can decide to accept a payment or not. It is not mysterious or left to robed experts to figure things out. Each of us can do it because each of us is an expert on our own sensitivities and how we interpret the world.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; text-align: center; ">APPENDICES</h1>
- <h2>Bad Actors</h2>
+ <h2 style="font-family:Courier New, monospace; ">Bad Actors</h2>
   <p style="text-indent:1em; ">There may not be as many bad actors as we think. We probably have a preponderance of them today because 1) they make the news, and 2) we live in a system that is meant to reward bad behavior: gaming is part and parcel of the system. As we find out, we patch it to prevent other bad actors from exploiting the same weakness. But then the next batch of bad actors become wealthy by discovering and exploiting new weaknesses.</p>
   <p style="text-indent:1em; ">We don’t normally think of these, below, as bad actors. But they are. They fall back on their FIAT world habits and are a drag on moving forward to a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world.</p>
   <table>
@@ -286,7 +286,7 @@ we'd still be His Majesty's subjects</pre>
    </tr>
    <tr><td>&nbsp;</td><td></td></tr>
   </table>
-<h2 id="VaryingBuyingPower">Varying Buying Power</h2>
+<h2 style="font-family:Courier New, monospace; " id="VaryingBuyingPower">Varying Buying Power</h2>
  <p style="text-indent:1em; ">I am selling potatoes at 40 COINs per dozen. After the first month <strong>Ⓐ</strong>, below, and his co-owners don’t have enough COINs to buy my potatoes, but <strong>Ⓔ</strong> and his co-owners do. It may be that JerryCO is more efficient or maybe its products or services are more valuable. Either way, BenCO’s co-owners end up with less buying power than JerryCO’s co-owners.</p>
  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
   <img src="/assets/img/en-rad-auto-inflation-a.svg" alt="Two tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 100 COINs. Second row is RAD DISTRIBUTION, distributed as 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. They each get 10, 20, 30, and 40 COINs. For JerryCO: the EARNED DIVIDENDS  row shows +1000 New for a TOTAL of 1000 COINs. The RAD DISTRIBUTION in the second row is as follows: 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. This is the same as for BenCO, but in the JerryCO case the first person gets 100 instead of 10, the second 200 instead of 20, the third 300 instead of 30, and the fourth 400 COINs instead of 40. The BenCO co-owners end up with less buying power than JerryCO's co-owners." title="Varying Buying Powers A">
