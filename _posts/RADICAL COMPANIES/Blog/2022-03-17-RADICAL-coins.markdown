@@ -256,12 +256,12 @@ we'd still be His Majesty's subjects</pre>
      <p style="text-indent:1em; "><strong>Going Along</strong></p>
     </td>
     <td>
-     <p style="text-indent:1em; ">One type of “bad actor” is people who “go along.” We normally don’t think of them as bad actors, “they’re just nice people.” In any case, Shui is one of them. He notices that Namir is taking more than he contributed, but he doesn’t say anything and talks to Namir. Shui turns a blind eye towards Namir's bad behavior and goes by untested assumptions. “Namir is a nice guy and maybe he needs a little bit more than me.”</p>
+     <p>One type of “bad actor” is people who “go along.” We normally don’t think of them as bad actors, “they’re just nice people.” In any case, Shui is one of them. He notices that Namir is taking more than he contributed, but he doesn’t say anything and talks to Namir. Shui turns a blind eye towards Namir's bad behavior and goes by untested assumptions. “Namir is a nice guy and maybe he needs a little bit more than me.”</p>
     </td>
    </tr>
    <tr>
     <td style="vertical-align: text-top; horizontal-align:right; ">
-     <p style="text-indent:1em; "><strong>Battling Ghosts</strong></p>
+     <p><strong>Battling Ghosts</strong></p>
     </td>
     <td>
      <p style="text-indent:1em; ">The other type of bad actor is the one who gets pulled into behavior that he normally would not condone.</p>
@@ -272,7 +272,7 @@ we'd still be His Majesty's subjects</pre>
    </tr>
    <tr>
     <td style="vertical-align: text-top;">
-     <p style="text-indent:1em; "><strong>Convenience</strong></p>
+     <p style="font-weight:bold; ">Convenience</p>
     </td>
     <td>Other Bad Actors act out of convenience. I’ll let Seth Godin describe this one,
      <div style="padding: 10px 40px;">
