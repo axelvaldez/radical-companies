@@ -80,8 +80,8 @@ image:    "PRADERA-background.svg"
  </table> 
 
 <h1>What's in It for …?</h1>
- <table style="vertical-align:top; "> 
-  <tr>
+ <table> 
+  <tr style="vertical-align:top; ">
    <td style="font-weight:bold; ">People</td>
    <td>
     <ul>
@@ -90,7 +90,7 @@ image:    "PRADERA-background.svg"
     </ul>
    </td>
   </tr>
-  <tr>
+  <tr style="vertical-align:top; ">
    <td style="font-weight:bold; ">Companies</td>
    <td>
     <ul>
@@ -98,7 +98,7 @@ image:    "PRADERA-background.svg"
     </ul>
    </td>
   </tr>
-  <tr>
+  <tr style="vertical-align:top; ">
    <td style="font-weight:bold; ">Communities</td>
    <td>
     <ul>
@@ -107,7 +107,7 @@ image:    "PRADERA-background.svg"
     </ul>
    </td>
   </tr>
-  <tr>
+  <tr style="vertical-align:top; ">
    <td style="font-weight:bold; ">World</td>
    <td>
     <ul>
