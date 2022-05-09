@@ -32,6 +32,9 @@ image:    "pradera-background.svg"
    </ul>
   </td>
  </tr>
+  <tr>
+   <td colspan="2">&nbsp;</td>
+  </tr>
  <tr>
   <td colspan="2" style="font-weight:bold; text-align:center; ">Purpose</td>
  </tr>
@@ -45,6 +48,9 @@ image:    "pradera-background.svg"
    </ul>
   </td>
  </tr>
+  <tr>
+   <td colspan="2">&nbsp;</td>
+  </tr>
  <tr>
   <td colspan="2" style="font-weight:bold; text-align:center; ">Mission</td>
  </tr>
@@ -94,9 +100,9 @@ image:    "pradera-background.svg"
      </ul>
     </td>
    </tr>
-   <tr>
-    <td colspan="2"></td>
-   </tr>
+  <tr>
+   <td colspan="2">&nbsp;</td>
+  </tr>
    <tr>
     <td style="text-align:right; width:10em; font-weight:bold; padding-right:1em; border-right:1px solid black; ">In Person</td>
     <td>
@@ -107,9 +113,9 @@ image:    "pradera-background.svg"
      </ul>
     </td>
    </tr>
-   <tr>
-    <td colspan="2"></td>
-   </tr>
+  <tr>
+   <td colspan="2">&nbsp;</td>
+  </tr>
    <tr>
     <td style="text-align:right; width:10em; font-weight:bold; padding-right:1em; border-right:1px solid black; ">Full Production</td>
     <td>
@@ -137,9 +143,9 @@ image:    "pradera-background.svg"
      </ul>
     </td>
    </tr>
-   <tr>
-    <td colspan="2"></td>
-   </tr>
+  <tr>
+   <td colspan="2">&nbsp;</td>
+  </tr>
    <tr>
     <td style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black; ">In Person</td>
     <td>
@@ -150,9 +156,9 @@ image:    "pradera-background.svg"
      </ul>
     </td>
    </tr>
-   <tr>
-    <td colspan="2"></td>
-   </tr>
+  <tr>
+   <td colspan="2">&nbsp;</td>
+  </tr>
    <tr>
     <td style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black; ">Full Production</td>
     <td>
