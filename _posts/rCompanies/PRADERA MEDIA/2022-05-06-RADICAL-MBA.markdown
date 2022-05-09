@@ -17,7 +17,7 @@ image:    "PRADERA-background.svg"
 
 
 <h2>Alignment</h2>
-<table>
+<table style="text-aligh:top; ">
  <tr>
   <td colspan="2" style="font-weight:bold; text-align:center; ">Impact</td>
  </tr>
