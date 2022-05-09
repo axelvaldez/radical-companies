@@ -182,7 +182,7 @@ image:    "pradera-background.svg"
    <td>Target Audience</td>
   </tr>
   <tr>
-   <td style="width:10em; text-align:right; padding-right:1em; ">Episode</td>
+   <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black; ">Episode</td>
    <td>
     <ul>
      <li>90 min</li>
@@ -195,7 +195,7 @@ image:    "pradera-background.svg"
    <td colspan="4">&nbsp;</td>
   </tr>
   <tr>
-   <td style="width:10em; text-align:right; padding-right:1em; ">Hour</td>
+   <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black;  ">Hour</td>
    <td>
     <ul>
      <li>50 min</li>
@@ -208,7 +208,7 @@ image:    "pradera-background.svg"
    <td colspan="4">&nbsp;</td>
   </tr>
   <tr>
-   <td style="width:10em; text-align:right; padding-right:1em; ">Highlights</td>
+   <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black;  ">Highlights</td>
    <td>
     <ul>
      <li>30-45 sec</li>
@@ -223,7 +223,7 @@ image:    "pradera-background.svg"
    <td colspan="4">&nbsp;</td>
   </tr>
   <tr>
-   <td style="width:10em; text-align:right; padding-right:1em; ">Brief</td>
+   <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black;  ">Brief</td>
    <td>
     <ul>
      <li>25 min</li>
@@ -236,7 +236,7 @@ image:    "pradera-background.svg"
    <td colspan="4">&nbsp;</td>
   </tr>
   <tr>
-   <td style="width:10em; text-align:right; padding-right:1em; ">Outtakes</td>
+   <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black;  ">Outtakes</td>
    <td>&nbsp;</td>
    <td>Bloopers and other outtakes</td>
    <td>For co-owners and promotion</td>
@@ -245,7 +245,7 @@ image:    "pradera-background.svg"
    <td colspan="4">&nbsp;</td>
   </tr>
   <tr>
-   <td style="width:10em; text-align:right; padding-right:1em; ">Bloposts</td>
+   <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black;  ">Bloposts</td>
    <td>&nbsp;</td>
    <td>Podcast summary.</td>
    <td>For bloggers to cut-and-paste.</td>
