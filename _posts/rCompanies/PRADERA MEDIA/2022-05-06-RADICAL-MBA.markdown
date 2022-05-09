@@ -23,7 +23,7 @@ image:    "PRADERA-background.svg"
   <td colspan="2" style="font-weight:bold; text-align:center; ">Impact</td>
  </tr>
  <tr>
-  <td style="text-align:right; width:10em; ">What for?</td>
+  <td style="text-align:right; width:10em; font-style:italic; ">What for?</td>
   <td>
    <ul>
     <li>To promote RADICAL principles, commitments, and practices.</li>
@@ -34,7 +34,7 @@ image:    "PRADERA-background.svg"
   <td colspan="2" style="font-weight:bold; text-align:center; ">Purpose</td>
  </tr>
  <tr>
-  <td style="text-align:right; width:10em; ">Why?</td>
+  <td style="text-align:right; width:10em; font-style:italic;  ">Why?</td>
   <td>
    <ul>
     <li>Spread the word about the RADICAL paradigm and make it familiar to people (<em>i.e.</em>, non-threatening).</li>
@@ -55,7 +55,7 @@ image:    "PRADERA-background.svg"
    </ul>
   </td>
  <tr>
-  <td style="text-align:right; width:10em; ">When?</td>
+  <td style="text-align:right; width:10em; font-style:italic;  ">When?</td>
   <td>
    <ul>
     <li>Every week.</li>
@@ -63,7 +63,7 @@ image:    "PRADERA-background.svg"
   </td>
  </tr>
  <tr>
-  <td style="text-align:right; width:10em; ">How?</td>
+  <td style="text-align:right; width:10em; font-style:italic;  ">How?</td>
   <td>
    <ul>
     <li>Video podcasts.</li>
