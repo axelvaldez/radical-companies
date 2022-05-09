@@ -273,5 +273,123 @@ image:    "pradera-background.svg"
 </table>
 
 <h1>Roles and Activities</h1>
-<h2>Direction</h2>
-<p>Recording will take two to four hours.</p>
+ <h2>Direction</h2>
+  <p>Recording will take two to four hours.</p>
+  <table>
+   <tbody>
+    <tr>
+     <td>Onboarding
+      <ul>
+       <li>Practice recording: Lets the LIVEr get his “pitch” out of his system.</li>
+       <li>Reminding each LIVEr of the primary topic.</li>
+       <li>Hints of how to get started.</li>
+       <li>How to watch out for direction to get back on topic.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td colspan="4" style="">&nbsp;</td>
+    </tr>
+    <tr>
+     <td>Direction</td>
+     <td>
+      <ul>
+       <li>Pausing when the LIVEr way goes off subject and helping them get back on track.</li>
+       <li>Handling bathroom breaks and other unavoidable interruptions.</li>
+       <li>Moving from one location to another. Ideally, the LIVEr pairs should move to different locations (<em>e.g.</em>, inside/outside, sitting/standing, walking) every 20-30 minutes or so.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td colspan="4" style="">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+ <h2>Production</h2>
+  <table>
+   <tbody>
+    <tr>
+     <td>Planning</td>
+     <td>Includes all preparations before a show for optimal experience,
+      <ul>
+       <li>Schedule Guests – Making sure everyone is aware of the time, date and location of recording.</li>
+       <li>Location Scouting – Figuring out where the episode will be shot and recorded</li>
+       <li>Guest Prepping – Identifying topics and discussing with guests’ to select the most appropriate topics per episode.</li>
+       <li>Guest Communication – Ensuring all players involved are up to date on all information</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td colspan="4" style="">&nbsp;</td>
+    </tr>
+    <tr>
+     <td>Recruiting</td>
+     <td>
+      <ul>
+       <li>Send intro emails. If possible, the <span style="font-size:smaller; ">LIVE</span>r can help make these intros emails a bit &ldquo;warmer.&rdquo;</li>
+       <li>Following up with non-respondents.</li>
+       <li>Nurturing respondents.</li>
+       <li>Get a firm commitment from each <span style="font-size:smaller; ">LIVE</span>r.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td colspan="4" style="">&nbsp;</td>
+    </tr>
+    <tr>
+     <td>Production</td>
+     <td>Involves everything during the process of recording,
+      <ul>
+       <li>Set Prep – Ensuring the set looks professional and well dressed as well as ensuring all equipment is set up and functioning optimally.</li>
+       <li>Video and Audio Production - Ensuring an audio engineer and videographer and present and recording all that needs to be shot.</li>
+       <li>Producing – A producer off screen will be necessary to quickly research any topics guests’ are discussing so as to be a reference point when needed.</li>
+       <li>Media Archival – Making sure all media is archived and backed up once recorded is complete.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td colspan="4" style="">&nbsp;</td>
+    </tr>
+    <tr>
+     <td style="text-align: right">Post Production</td>
+     <td>All video and audio editing from source recording.</td>
+    </tr>
+    <tr>
+     <td colspan="4" style="">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+
+<h2>Marketing & Sales</h2>
+<table>
+ <tbody>
+  <tr>
+   <td style="text-align: right">Promotion</td>
+   <td>It involves everything from posting the content to promoting the content for audience growth.
+    <ul>
+     <li>Posting – Post all content to all necessary platforms. This includes video and audio podcast channels.</li>
+     <li>Online Promotion – Actively promote content online by spreading through forums and sending to relevant key players in the field.</li>
+     <li>Live Promotion – Attend events to promote the show and spread the word.</li>
+     <li>Feed our podcast and blogger circuit.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2">&nbsp;</td>
+  </tr>
+  <tr>
+   <td style="text-align: right">Syndication</td>
+   <td>Share the distribution package with,
+    <ul>
+     <li>Bloggers.</li>
+     <li>Podcasters.</li>
+     <li>Writers, editors, and publishers. Leverage the LIVEr’s connections whenever possible (<em>e.g.</em>, Doug writes for Huffspot, Chuck for Inc magazine).</li>
+     <li>Radio and TV producers and hosts.</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2">&nbsp;</td>
+  </tr>
+ </tbody>
+</table>
