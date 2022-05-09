@@ -88,7 +88,7 @@ image:    "PRADERA-background.svg"
    <tr>
     <td style="text-align:right; width:10em; font-style:italic; ">Simple</td>
      <ul>
-      <li>The RADICALS.LIVE! episodes are online (e.g.,  Zoom, Riff) or in person</li>
+      <li>The RADICALS.LIVE! episodes are online (<em>e.g.</em>,  Zoom, Riff) or in person</li>
       <li>Each speaker must appear to be looking at the other most of the time, not the camera. Their camera is the third party in the room and they could speak to it, too.</li>
      </ul>
     </td>
@@ -96,7 +96,6 @@ image:    "PRADERA-background.svg"
    <tr>
     <td style="text-align:right; width:10em; font-style:italic; ">In Person<td>
      <ul>
-      <li>The RADICALS.LIVE! episodes are online (e.g.,  Zoom, Riff) or in person</li>
       <li>Having the conversation in person. If need be, one LIVEr would travel to the other.</li>
       <li>It can be recorded at the LIVEr home or office or some iconic nearby place (i.e., with no background noise). Segments for the episode could be recorded in different locations.</li>
       <li>We can record with a (phone) camera on a tripod and a fixed/directional audio setup. If there’s local help, that person could be recording with a roving (phone) camera.</li>
@@ -106,7 +105,6 @@ image:    "PRADERA-background.svg"
    <tr>
     <td style="text-align:right; width:10em; font-style:italic; ">Full Production<td>
      <ul>
-      <li>The RADICALS.LIVE! episodes are online (e.g.,  Zoom, Riff) or in person</li>
       <li>Hire a local videographer to give the LIVEr the ability to walk and move around.</li>
       <li>Multiple cameras.</li>
       <li>Record in public places, with people mulling about, ambient hum, etc.</li>
