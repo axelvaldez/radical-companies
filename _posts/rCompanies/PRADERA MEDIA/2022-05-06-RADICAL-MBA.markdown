@@ -34,8 +34,6 @@ image:    "PRADERA-background.svg"
  </tr>
  <tr>
   <td style="text-align:right; width:10em; ">Why?</td>
- </tr>
- <tr>
   <td>
    <ul>
     <li>Spread the word about the RADICAL paradigm and make it familiar to people (<em>i.e.</em>, non-threatening).</li>
