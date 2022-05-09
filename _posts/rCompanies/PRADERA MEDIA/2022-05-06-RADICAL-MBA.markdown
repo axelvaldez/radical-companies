@@ -1,118 +1,81 @@
 ---
 layout:   post
-title:    "RADICAL MBA"
-subtitle: ""
+title:    "RADICALS LIVE"
+subtitle: "Iconoclasts!"
 authors:  "Matt Perez"
 image:    "PRADERA-background.svg"
 ---
 
 <div style="display: none;">
- <p>TThe idea came up during a conversation with Jose Leal and Marcial Quintanar. One thing led to another and we ended up with rough plans for a RADICAL MBA.</p>
+ <p>Iconoclasts talking.</p>
 </div>
 
-<h1>Origin Story</h1>
- <p>The idea came up during a conversation with Jose Leal and Marcial Quintanar. One thing led to another and we ended up with rough plans for a RADICAL MBA.</p>
+<div style="background-color:beige; ">
+ <pre>&ldquo;The form of association, which if mankind continue to improve, must be expected in the end to predominate, is not that which can exist between a capitalist as chief, and work-people without a voice in the management, but the association of the labourers themselves on terms of equality, collectively owning the capital with which they carry on their operations<rdquo;</pre>
+ <pre style="text-align:right; ">&mdash John Stuart Mill</pre>
+</dv>
 
-<h1>Facilitated Workshops</h1>
- <ul>
-  <li>A formal, facilitated, co-training program that combines elements from the RADICAL PURPOSE and RADICAL COMPANIES models.</li>
-  <li>RADICAL PURPOSE outlines an alternative model to FIAT thinking.</li>
-  <li>RADICAL COMPANIES outlines a model for creating a co-managed and co-owned company shaped by the RADICAL PURPOSE mindset.</li>
-  <li>The workshop includes exercises and Q&A.</li>
- </ul>
 
-<h1>Alignment</h1>
- <table>
-  <tr>
-   <td colspan="2" style="font-weight:bold; ">Impact</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; margin-right:1em; ">What for?</td>
-   <td>
-    <ul>
-     <li>To create a world with a better chance of thriving.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" style="font-weight:bold; ">Purpose</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; margin-right:1em; ">Why?</td>
-   <td>
-    <ul>
-     <li>To give people a chance to think outside the FIAT box.</li>
-     <li>RADICALS  with a hands-on project, evangelizing by doing.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" style="font-weight:bold; ">Mission</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; margin-right:1em; ">What?</td>
-   <td>
-    <ul>
-     <li>Put more meat on them bones.</li>
-     <li>Beta test with mastermind-like facilitated workshops.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td style="text-align:right; margin-right:1em; ">When?</td>
-   <td>
-    <ul>
-     <li>Publish an outline by the end of 2021.</li>
-     <li>Start in 2022.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td style="text-align:right; margin-right:1em; ">How?</td>
-   <td>
-    <ul>
-     <li>Marcial will try it out in Mexico, as part of a group of businessmen he’s part of. He already meets with small groups, and will start mastermind-like meetings with people who are interested in an alternative to FIAT management and ownership.</li>
-     <li>Eventually, it may be offered as a “diplomado” (<em>i.e.</em>, certificate).</li>
-     <li>Could even become an IPADE and Stanford alternative MBA.</li>
-    </ul>
-   </td>
-  </tr>
- </table> 
-
-<h1>What's in It for …?</h1>
- <table> 
-  <tr style="vertical-align:top; ">
-   <td style="font-weight:bold; text-align:right; ">People</td>
-   <td>
-    <ul>
-     <li>For business people, it would be a safe space to develop their mindset beyond FIAT. It should feel like a weight lifted off their shoulders (<em>i.e.</em>, letting go of all that fear).</li>
-     <li>For facilitators, it would strengthen their RADICAL muscles. It would also potentially provide future business to help the business folks actually go through real metamorphosis (<em>i.e.</em>, co-ownership opportunities).</li>
-    </ul>
-   </td>
-  </tr>
-  <tr style="vertical-align:top; ">
-   <td style="font-weight:bold; text-align:right; ">Companies</td>
-   <td>
-    <ul>
-     <li>As they break free of their FIAT ways they will experience  lower costs (e.g., less turnover, higher productivity), innovation (e.g., operations, new products and services), higher Earned Dividends.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr style="vertical-align:top; ">
-   <td style="font-weight:bold; text-align:right; ">Communities</td>
-   <td>
-    <ul>
-     <li>More and more people who understand interdependence in their bones.</li>
-     <li>Funding for community projects (<em>i.e.</em>, Banners).</li>
-    </ul>
-   </td>
-  </tr>
-  <tr style="vertical-align:top; ">
-   <td style="font-weight:bold; text-align:right; ">World</td>
-   <td>
-    <ul>
-     <li>Continues to support life.</li>
-    </ul>
-   </td>
-  </tr>
- </table>
+<h2>Alignment</h2>
+<table>
+ <tr>
+  <td colspan="2" style="font-weight:bold; ">Impact</td>
+ </tr>
+ <tr>
+  <td style="text-align: right; ">What for?</td>
+  <td>
+   <ul>
+    <li>To promote RADICAL principles, commitments, and practices.</li>
+   </ul>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="font-weight:bold; ">Purpose</td>
+ </tr>
+ <tr>
+  <td style="text-align: right">Why?</td>
+ </tr>
+ <tr>
+  <td>
+   <ul>
+    <li>Spread the word about the RADICAL paradigm and make it familiar to people (<em>i.e.</em>, non-threatening).</li>
+    <li>To give everybody the opportunity to reveal their ideal future.</li>
+    <li>To bring together RADICAL-adjacent movements.</li>
+   </ul>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="font-weight:bold; ">Mission</td>
+ </tr>
+ <tr>
+  <td style="text-align: right">What?</td>
+ </tr>
+ <tr>
+  <td>
+   <ul>
+    <li>Well known and actively discussed.</li>
+    <li>Asking all guests: what will the work look like in 2045? What will the impact of your effort be on the 2045 world?</li>
+   </ul>
+  </td>
+ <tr>
+  <td style="text-align: right">When?</td>
+ </tr>
+ <tr>
+  <td>
+   <ul>
+    <li>Every week.</li>
+   </ul>
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align: right">How?</td>
+  <td>
+   <ul>
+    <li>Video podcasts.</li>
+    <li>Audio podcasts.</li>
+    <li>Blog posts.</li>
+    <li>Special events for subscribed folks.</li>
+   </ul>
+  </td>
+ </tr>
+</table>
