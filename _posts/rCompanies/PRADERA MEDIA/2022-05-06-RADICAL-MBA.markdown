@@ -47,8 +47,6 @@ image:    "PRADERA-background.svg"
  </tr>
  <tr>
   <td style="text-align:right; width:10em; ">What?</td>
- </tr>
- <tr>
   <td>
    <ul>
     <li>Well known and actively discussed.</li>
@@ -57,8 +55,6 @@ image:    "PRADERA-background.svg"
   </td>
  <tr>
   <td style="text-align:right; width:10em; ">When?</td>
- </tr>
- <tr>
   <td>
    <ul>
     <li>Every week.</li>
