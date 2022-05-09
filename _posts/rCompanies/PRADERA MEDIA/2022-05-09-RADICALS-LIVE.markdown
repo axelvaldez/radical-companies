@@ -22,10 +22,10 @@ image:    "pradera-background.svg"
 <table>
 <tbody style="font-size:smaller; vertical-align:top; ">
  <tr>
-  <td colspan="2" style="font-weight:bold; text-align:center; padding-right:1em; border-right:1px solid black; ">Impact</td>
+  <td colspan="2" style="font-weight:bold; text-align:center; ">Impact</td>
  </tr>
  <tr>
-  <td style="text-align:right; width:10em; font-style:italic; ">What for?</td>
+  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What for?</td>
   <td>
    <ul>
     <li>To promote RADICAL principles, commitments, and practices.</li>
@@ -33,10 +33,10 @@ image:    "pradera-background.svg"
   </td>
  </tr>
  <tr>
-  <td colspan="2" style="font-weight:bold; text-align:center; padding-right:1em; border-right:1px solid black; ">Purpose</td>
+  <td colspan="2" style="font-weight:bold; text-align:center; ">Purpose</td>
  </tr>
  <tr>
-  <td style="text-align:right; width:10em; font-style:italic;  ">Why?</td>
+  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black;  ">Why?</td>
   <td>
    <ul>
     <li>Spread the word about the RADICAL paradigm and make it familiar to people (<em>i.e.</em>, non-threatening).</li>
@@ -46,10 +46,10 @@ image:    "pradera-background.svg"
   </td>
  </tr>
  <tr>
-  <td colspan="2" style="font-weight:bold; text-align:center; padding-right:1em; border-right:1px solid black; ">Mission</td>
+  <td colspan="2" style="font-weight:bold; text-align:center; ">Mission</td>
  </tr>
  <tr>
-  <td style="text-align:right; width:10em; font-style:italic; ">What?</td>
+  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What?</td>
   <td>
    <ul>
     <li>Well known and actively discussed.</li>
@@ -58,7 +58,7 @@ image:    "pradera-background.svg"
   </td>
  </tr>
  <tr>
-  <td style="text-align:right; width:10em; font-style:italic; ">When?</td>
+  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black;">When?</td>
   <td>
    <ul>
     <li>Every week.</li>
@@ -66,7 +66,7 @@ image:    "pradera-background.svg"
   </td>
  </tr>
  <tr>
-  <td style="text-align:right; width:10em; font-style:italic; ">How?</td>
+  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">How?</td>
   <td>
    <ul>
     <li>Video podcasts.</li>
