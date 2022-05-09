@@ -21,6 +21,6 @@ image:    "PRADERA-background.svg"
 <h1>ENDNOTES</h1>
  <ol>
    <h6>
-    <li id="fn1"><a href="#fnref1">n</a>Not the perfect name, but MBA is more accessible. For now.</li>
+    <li id="fn1"><a href="#fnref1">n</a> Not the perfect name, but MBA is more accessible. For now.</li>
    </h6>
  </ol>
