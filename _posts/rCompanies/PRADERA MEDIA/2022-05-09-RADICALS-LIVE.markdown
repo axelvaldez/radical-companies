@@ -16,7 +16,7 @@ image:    "pradera-background.svg"
 </div>
 
 <h1>Intro</h1>
- <p style="text-indent:1ex; ">Iconoclasts talking.</p>
+ <p>Iconoclasts talking.</p>
 
 <h1>Alignment</h1>
 <table>
@@ -80,7 +80,7 @@ image:    "pradera-background.svg"
 </table>
 
 <h1>Format</h1>
- <p style="text-indent:1ex; ">The format is inspired by the HBO series Iconoclasts which featured &ldquo;an hour of personal conversation and storytelling.&rdquo; There are no &ldquo;hosts&rdquo; or &ldquo;guests,&rdquo; it is simply people talking about their journeys, going against the grain of traditional beliefs and institutions, projecting what the world would be like if they were wildly successful in their efforts.</p>
+ <p>The format is inspired by the HBO series Iconoclasts which featured &ldquo;an hour of personal conversation and storytelling.&rdquo; There are no &ldquo;hosts&rdquo; or &ldquo;guests,&rdquo; it is simply people talking about their journeys, going against the grain of traditional beliefs and institutions, projecting what the world would be like if they were wildly successful in their efforts.</p>
 
 <h1>Modality</h1>
  <table>
