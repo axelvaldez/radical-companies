@@ -180,7 +180,7 @@ image:    "pradera-background.svg"
 <p>The  resulting distribution package will include,</p>
 <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
-  <tr style="text-align:center;font-weight:bold; ">
+  <tr style="text-align:center;font-weight:bold; border-bottom:1px solid black; ">
    <td>&nbsp;</td>
    <td>Duration</td>
    <td>What</td>
