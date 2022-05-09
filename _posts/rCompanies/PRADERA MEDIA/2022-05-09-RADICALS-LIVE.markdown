@@ -166,3 +166,91 @@ image:    "pradera-background.svg"
 </table>
 
 <h1>Launch</h1>
+ <p>We will start by pairing up with the first few guests. These will be people we know, like Doug Kirkpatrick and Chuck Blakeman on the co-management side and Nathan Schneider on the co-ownership side (see LIVEr Candidates).</p>
+ <p>We want diverse LIVErs. It could be an experienced co-management practitioner with a traditional boss. Other things to consider are age, gender, and ethnicity. The point is to create a high contrast that screams &ldquo;this works for everybody, including you, the audience.&rdquo;</p>
+ <p>Later, these LIVErs can recruit other people to record an episode with. We need to make this as frictionless as possible while insisting that the RADICAL message not be diluted. The whole episode could be all about how &ldquo;it won’t work,&rdquo; but the RADICAL message has to be central. Otherwise, the show won’t be published under the brand, although the participants will get the raw material to use as they see fit.</p>
+
+<h1>Distribution Package</h1>
+<p>The  resulting distribution package will include,</p>
+<table>
+ <tbody>
+  <tr style="text-align:center; ">
+   <td>&nbsp;</td>
+   <td>Duration</td>
+   <td>What</td>
+   <td>Target Audience</td>
+  </tr>
+  <tr>
+   <td style="text-align:right; padding-right:1em; ">Episode</td>
+   <td>
+    <ul>
+     <li>90 min</li>
+    </ul>
+   </td>
+   <td>Live streamed and recorded</td>
+   <td>For co-owners</td>
+  </tr>
+  <tr>
+   <td colspan="4">&nbsp;</td>
+  </tr>
+  <tr>
+   <td style="text-align:right; padding-right:1em; ">Hour</td>
+   <td>
+    <ul>
+     <li>50 min</li>
+    </ul>
+   </td>
+   <td>Edited</td>
+   <td>For general distribution</td>
+  </tr>
+  <tr>
+   <td colspan="4">&nbsp;</td>
+  </tr>
+  <tr>
+   <td p style="text-align: right">Highlights</td>
+   <td>
+    <ul>
+     <li>30-45 sec</li>
+     <li>1 min</li>
+     <li>5-min</li>
+    </ul>
+   </td>
+   <td>Dramatic, explosive moments</td>
+   <td>For promotion on social media platforms, podcasters, blogs, etc</td>
+  </tr>
+  <tr>
+   <td colspan="4">&nbsp;</td>
+  </tr>
+  <tr>
+   <td p style="text-align: right">Brief</td>
+   <td>
+    <ul>
+     <li>25 min</li>
+    </ul>
+   </td>
+   <td>A short version of the show</td>
+   <td>For blogs, news articles, etc</td>
+  </tr>
+  <tr>
+   <td colspan="4">&nbsp;</td>
+  </tr>
+  <tr>
+   <td p style="text-align: right">Outtakes</td>
+   <td>&nbsp;</td>
+   <td>Bloopers and other outtakes</td>
+   <td>For co-owners and promotion</td>
+  </tr>
+  <tr>
+   <td colspan="4">&nbsp;</td>
+  </tr>
+  <tr>
+   <td style="text-align: right">Bloposts</td>
+   <td>&nbsp;</td>
+   <td>Podcast summary.</td>
+   <td>For bloggers to cut-and-paste.</td>
+  </tr>
+</table>
+
+<h1>Roles and Activities</h1>
+<h2>Direction</h2>
+<p>Recording will take two to four hours.</p>
