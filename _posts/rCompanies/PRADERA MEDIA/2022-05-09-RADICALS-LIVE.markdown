@@ -95,6 +95,9 @@ image:    "pradera-background.svg"
     </td>
    </tr>
    <tr>
+    <td colspan="2"></td>
+   </tr>
+   <tr>
     <td style="text-align:right; width:10em; font-weight:bold; padding-right:1em; border-right:1px solid black; ">In Person</td>
     <td>
      <ul>
@@ -103,6 +106,9 @@ image:    "pradera-background.svg"
       <li>We can record with a (phone) camera on a tripod and a fixed/directional audio setup. If there’s local help, that person could be recording with a roving (phone) camera.</li>
      </ul>
     </td>
+   </tr>
+   <tr>
+    <td colspan="2"></td>
    </tr>
    <tr>
     <td style="text-align:right; width:10em; font-weight:bold; padding-right:1em; border-right:1px solid black; ">Full Production</td>
@@ -135,7 +141,8 @@ image:    "pradera-background.svg"
     <td colspan="2"></td>
    </tr>
    <tr>
-    <td colspan="2" style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black; ">In Person</td>
+    <td style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black; ">In Person</td>
+    <td>
     <td>
      <ul>
       <li>Travel for one LIVEr and local videographer.</li>
@@ -145,19 +152,16 @@ image:    "pradera-background.svg"
     </td>
    </tr>
    <tr>
-   <tr>
     <td colspan="2"></td>
    </tr>
    <tr>
-    <td colspan="2" style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black; ">Full Production<td>
+    <td style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black; ">Full Production<td>
+    <td>
      <ul>
       <li>Same as In Person, plus another videographer and audio person.</li>
       <li>Equipment rental.</li>
      </ul>
     </td>
-   </tr>
-   <tr>
-    <td colspan="2"></td>
    </tr>
 </table>
 
