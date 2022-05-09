@@ -114,6 +114,53 @@ image:    "PRADERA-background.svg"
   </tbody>
  </table>
 
+<h1>Costs</h1>
+ <table>
+  <tbody>
+   <tr>
+    <td colspan="2" style="font-weight:bold; text-align:right; ">Simple</td>
+    <td>
+     <ul>
+      <li>Green screen.<sup><a href="#bookmark=id.vqnuy2hbs882">3</a></sup></li>
+      <li>Local recording.<sup><a href="#bookmark=id.fxqsjig0hepn">4</a></sup></li>
+      <li>The time and tools to record and edit.</li>
+      <li>Distribution platforms.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2"></td>
+   </tr>
+   <tr>
+    <td colspan="2" style="font-weight:bold; text-align:right; ">In Person</td>
+    <td>
+     <ul>
+      <li>Travel for one LIVEr and local videographer.</li>
+      <li>For lodging, stay with the local LIVEr, or Airbnb, or hotel.</li>
+      <li>Equipment rental.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+   <tr>
+    <td colspan="2"></td>
+   </tr>
+   <tr>
+    <td colspan="2" style="font-weight:bold; text-align:right; ">Full Production<td>
+     <ul>
+      <li>Same as In Person, plus another videographer and audio person.</li>
+      <li>Equipment rental.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2"></td>
+   </tr>
+</table>
+
+<h1>Launch</h1>
+
+
 
 
 
