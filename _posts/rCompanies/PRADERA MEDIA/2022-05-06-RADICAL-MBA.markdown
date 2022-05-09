@@ -18,16 +18,10 @@ image:    "PRADERA-background.svg"
 
 <h1>Alignment</h1>
 <table>
-<tbody></tbody>
-</table>
-
-<table>
 <tbody style="font-size:smaller; vertical-align:top; ">
-
  <tr>
   <td colspan="2" style="font-weight:bold; text-align:center; ">Impact</td>
  </tr>
-
  <tr>
   <td style="text-align:right; width:10em; font-style:italic; ">What for?</td>
   <td>
@@ -36,11 +30,9 @@ image:    "PRADERA-background.svg"
    </ul>
   </td>
  </tr>
-
  <tr>
   <td colspan="2" style="font-weight:bold; text-align:center; ">Purpose</td>
  </tr>
-
  <tr>
   <td style="text-align:right; width:10em; font-style:italic;  ">Why?</td>
   <td>
@@ -51,11 +43,9 @@ image:    "PRADERA-background.svg"
    </ul>
   </td>
  </tr>
-
  <tr>
   <td colspan="2" style="font-weight:bold; text-align:center; ">Mission</td>
  </tr>
-
  <tr>
   <td style="text-align:right; width:10em; font-style:italic; ">What?</td>
   <td>
@@ -65,7 +55,6 @@ image:    "PRADERA-background.svg"
    </ul>
   </td>
  </tr>
-
  <tr>
   <td style="text-align:right; width:10em; font-style:italic; ">When?</td>
   <td>
@@ -74,7 +63,6 @@ image:    "PRADERA-background.svg"
    </ul>
   </td>
  </tr>
-
  <tr>
   <td style="text-align:right; width:10em; font-style:italic; ">How?</td>
   <td>
@@ -86,9 +74,50 @@ image:    "PRADERA-background.svg"
    </ul>
   </td>
  </tr>
- 
 </tbody>
 </table>
 
 <h1>Format</h1>
  <p>The format is inspired by the HBO series Iconoclasts which featured &ldquo;an hour of personal conversation and storytelling.&rdquo; There are no &ldquo;hosts&rdquo; or &ldquo;guests,&rdquo; it is simply people talking about their journeys, going against the grain of traditional beliefs and institutions, projecting what the world would be like if they were wildly successful in their efforts.</p>
+
+<h1>Modality</h1>
+ <table>
+  <tbody style="font-size:smaller; vertical-align:top; ">
+   <tr>
+    <tbody style="font-size:smaller; vertical-align:top; ">
+     <td style="text-align:right; width:10em; font-style:italic; ">Simple</td>
+      <li>The RADICALS.LIVE! episodes are online (e.g.,  Zoom, Riff) or in person</li>
+      <li>Each speaker must appear to be looking at the other most of the time, not the camera. Their camera is the third party in the room and they could speak to it, too.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+     <td style="text-align:right; width:10em; font-style:italic; ">In Person<td>
+     <ul>
+      <li>The RADICALS.LIVE! episodes are online (e.g.,  Zoom, Riff) or in person</li>
+      <li>Having the conversation in person. If need be, one LIVEr would travel to the other.</li>
+      <li>It can be recorded at the LIVEr home or office or some iconic nearby place (i.e., with no background noise). Segments for the episode could be recorded in different locations.</li>
+      <li>We can record with a (phone) camera on a tripod and a fixed/directional audio setup. If there’s local help, that person could be recording with a roving (phone) camera.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td style="text-align:right; width:10em; font-style:italic; ">Full Production<td>
+     <ul>
+      <li>The RADICALS.LIVE! episodes are online (e.g.,  Zoom, Riff) or in person</li>
+      <li>Hire a local videographer to give the LIVEr the ability to walk and move around.</li>
+      <li>Multiple cameras.</li>
+      <li>Record in public places, with people mulling about, ambient hum, etc.</li>
+     </ul>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+
+
+
+
+
+
+
+
