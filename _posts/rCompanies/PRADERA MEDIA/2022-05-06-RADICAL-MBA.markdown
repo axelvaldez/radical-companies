@@ -18,10 +18,16 @@ image:    "PRADERA-background.svg"
 
 <h1>Alignment</h1>
 <table>
+<tbody></tbody>
+</table>
+
+<table>
 <tbody style="font-size:smaller; vertical-align:top; ">
+
  <tr>
   <td colspan="2" style="font-weight:bold; text-align:center; ">Impact</td>
  </tr>
+
  <tr>
   <td style="text-align:right; width:10em; font-style:italic; ">What for?</td>
   <td>
@@ -30,9 +36,11 @@ image:    "PRADERA-background.svg"
    </ul>
   </td>
  </tr>
+
  <tr>
   <td colspan="2" style="font-weight:bold; text-align:center; ">Purpose</td>
  </tr>
+
  <tr>
   <td style="text-align:right; width:10em; font-style:italic;  ">Why?</td>
   <td>
@@ -43,9 +51,11 @@ image:    "PRADERA-background.svg"
    </ul>
   </td>
  </tr>
+
  <tr>
   <td colspan="2" style="font-weight:bold; text-align:center; ">Mission</td>
  </tr>
+
  <tr>
   <td style="text-align:right; width:10em; font-style:italic; ">What?</td>
   <td>
@@ -54,6 +64,8 @@ image:    "PRADERA-background.svg"
     <li>Asking all guests: what will the work look like in 2045? What will the impact of your effort be on the 2045 world?</li>
    </ul>
   </td>
+ </tr>
+
  <tr>
   <td style="text-align:right; width:10em; font-style:italic; ">When?</td>
   <td>
@@ -62,6 +74,7 @@ image:    "PRADERA-background.svg"
    </ul>
   </td>
  </tr>
+
  <tr>
   <td style="text-align:right; width:10em; font-style:italic; ">How?</td>
   <td>
@@ -73,6 +86,7 @@ image:    "PRADERA-background.svg"
    </ul>
   </td>
  </tr>
+ 
 </tbody>
 </table>
 
