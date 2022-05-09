@@ -180,11 +180,11 @@ image:    "pradera-background.svg"
 <p>The  resulting distribution package will include,</p>
 <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
-  <tr style="text-align:center;font-weight:bold; border-bottom:1px solid black; ">
+  <tr style="text-align:center;font-weight:bold; ">
    <td>&nbsp;</td>
-   <td>Duration</td>
-   <td>What</td>
-   <td>Target Audience</td>
+   <td style="border-bottom:1px solid black; ">Duration</td>
+   <td style="border-bottom:1px solid black; ">What</td>
+   <td style="border-bottom:1px solid black; ">Target Audience</td>
   </tr>
   <tr>
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black; ">Episode</td>
