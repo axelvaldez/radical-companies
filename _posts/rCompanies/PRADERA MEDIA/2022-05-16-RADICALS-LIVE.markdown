@@ -3,7 +3,7 @@ layout:   post
 title:    "RADICALS LIVE"
 subtitle: "Iconoclasts!"
 authors:  "Matt Perez"
-image:    "PRADERA-background.svg"
+image:    "pradera-background.svg"
 ---
 
 <div style="display: none;">
