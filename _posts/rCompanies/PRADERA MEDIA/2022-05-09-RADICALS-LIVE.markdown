@@ -203,7 +203,8 @@ image:    "pradera-background.svg"
    <td style="background-color:#eee; ">For co-owners</td>
   </tr>
   <tr>
-   <td colspan="4" style="border-right:1px solid black; ">&nbsp;</td>
+   <td style="border-right:1px solid black; ">&nbsp;</td>
+   <td colspan="3">&nbsp;</td>
   </tr>
   <tr>
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black; font-weight:bold; ">Hour</td>
@@ -216,7 +217,8 @@ image:    "pradera-background.svg"
    <td style="background-color:#eee; ">For general distribution</td>
   </tr>
   <tr>
-   <td colspan="4" style="border-right:1px solid black; ">&nbsp;</td>
+   <td style="border-right:1px solid black; ">&nbsp;</td>
+   <td colspan="3">&nbsp;</td>
   </tr>
   <tr>
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black; font-weight:bold; ">Highlights</td>
@@ -231,7 +233,8 @@ image:    "pradera-background.svg"
    <td style="background-color:#eee; ">For promotion on social media platforms, podcasters, blogs, etc</td>
   </tr>
   <tr>
-   <td colspan="4" style="border-right:1px solid black; ">&nbsp;</td>
+   <td style="border-right:1px solid black; ">&nbsp;</td>
+   <td colspan="3">&nbsp;</td>
   </tr>
   <tr>
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black; font-weight:bold; ">Brief</td>
@@ -244,7 +247,8 @@ image:    "pradera-background.svg"
    <td style="background-color:#eee; ">For blogs, news articles, etc</td>
   </tr>
   <tr>
-   <td colspan="4" style="border-right:1px solid black; ">&nbsp;</td>
+   <td style="border-right:1px solid black; ">&nbsp;</td>
+   <td colspan="3">&nbsp;</td>
   </tr>
   <tr>
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black; font-weight:bold; ">Outtakes</td>
@@ -253,7 +257,8 @@ image:    "pradera-background.svg"
    <td style="background-color:#eee; ">For co-owners and promotion</td>
   </tr>
   <tr>
-   <td colspan="4" style="border-right:1px solid black; ">&nbsp;</td>
+   <td style="border-right:1px solid black; ">&nbsp;</td>
+   <td colspan="3">&nbsp;</td>
   </tr>
   <tr>
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black; font-weight:bold; ">Bloposts</td>
