@@ -250,6 +250,7 @@ image:    "pradera-background.svg"
    <td>Podcast summary.</td>
    <td>For bloggers to cut-and-paste.</td>
   </tr>
+ </tbody>
 </table>
 
 <h1>Roles and Activities</h1>
