@@ -180,7 +180,7 @@ image:    "pradera-background.svg"
 <p>The  resulting distribution package will include,</p>
 <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
-  <tr style="text-align:center; ">
+  <tr style="text-align:center;font-weight:bold; ">
    <td>&nbsp;</td>
    <td>Duration</td>
    <td>What</td>
@@ -188,33 +188,33 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black; ">Episode</td>
-   <td>
+   <td style="background-color:#eee; ">
     <ul>
      <li style="width:9em; ">90 min</li>
     </ul>
    </td>
    <td>Live streamed and recorded</td>
-   <td>For co-owners</td>
+   <td style="background-color:#eee; ">For co-owners</td>
   </tr>
   <tr>
    <td colspan="4">&nbsp;</td>
   </tr>
   <tr>
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black;  ">Hour</td>
-   <td>
+   <td style="background-color:#eee; ">
     <ul>
      <li style="width:9em; ">50 min</li>
     </ul>
    </td>
    <td>Edited</td>
-   <td>For general distribution</td>
+   <td style="background-color:#eee; ">For general distribution</td>
   </tr>
   <tr>
    <td colspan="4">&nbsp;</td>
   </tr>
   <tr>
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black;  ">Highlights</td>
-   <td>
+   <td style="background-color:#eee; ">
     <ul>
      <li style="width:9em; ">30-45 sec</li>
      <li>1 min</li>
@@ -222,38 +222,38 @@ image:    "pradera-background.svg"
     </ul>
    </td>
    <td>Dramatic, explosive moments</td>
-   <td>For promotion on social media platforms, podcasters, blogs, etc</td>
+   <td style="background-color:#eee; ">For promotion on social media platforms, podcasters, blogs, etc</td>
   </tr>
   <tr>
    <td colspan="4">&nbsp;</td>
   </tr>
   <tr>
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black;  ">Brief</td>
-   <td>
+   <td style="background-color:#eee; ">
     <ul>
      <li style="width:9em; ">25 min</li>
     </ul>
    </td>
    <td>A short version of the show</td>
-   <td>For blogs, news articles, etc</td>
+   <td style="background-color:#eee; ">For blogs, news articles, etc</td>
   </tr>
   <tr>
    <td colspan="4">&nbsp;</td>
   </tr>
   <tr>
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black;  ">Outtakes</td>
-   <td>&nbsp;</td>
+   <td style="background-color:#eee; ">&nbsp;</td>
    <td>Bloopers and other outtakes</td>
-   <td>For co-owners and promotion</td>
+   <td style="background-color:#eee; ">For co-owners and promotion</td>
   </tr>
   <tr>
    <td colspan="4">&nbsp;</td>
   </tr>
   <tr>
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black;  ">Bloposts</td>
-   <td>&nbsp;</td>
+   <td style="background-color:#eee; ">&nbsp;</td>
    <td>Podcast summary.</td>
-   <td>For bloggers to cut-and-paste.</td>
+   <td style="background-color:#eee; ">For bloggers to cut-and-paste.</td>
   </tr>
  </tbody>
 </table>
