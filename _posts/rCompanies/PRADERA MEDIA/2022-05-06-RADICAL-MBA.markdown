@@ -86,8 +86,7 @@ image:    "PRADERA-background.svg"
  <table>
   <tbody style="font-size:smaller; vertical-align:top; ">
    <tr>
-    <tbody style="font-size:smaller; vertical-align:top; ">
-     <td style="text-align:right; width:10em; font-style:italic; ">Simple</td>
+    <td style="text-align:right; width:10em; font-style:italic; ">Simple</td>
       <li>The RADICALS.LIVE! episodes are online (e.g.,  Zoom, Riff) or in person</li>
       <li>Each speaker must appear to be looking at the other most of the time, not the camera. Their camera is the third party in the room and they could speak to it, too.</li>
      </ul>
