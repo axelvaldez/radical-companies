@@ -143,7 +143,6 @@ image:    "pradera-background.svg"
    <tr>
     <td style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black; ">In Person</td>
     <td>
-    <td>
      <ul>
       <li>Travel for one LIVEr and local videographer.</li>
       <li>For lodging, stay with the local LIVEr, or Airbnb, or hotel.</li>
