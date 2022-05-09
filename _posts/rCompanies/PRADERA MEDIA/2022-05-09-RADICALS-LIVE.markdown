@@ -253,7 +253,7 @@ image:    "pradera-background.svg"
    <td style="background-color:#eee; ">For co-owners and promotion</td>
   </tr>
   <tr>
-   <td colspan="4">&nbsp;</td>
+   <td colspan="4" style="border-right:1px solid black; ">&nbsp;</td>
   </tr>
   <tr>
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black; font-weight:bold; ">Bloposts</td>
