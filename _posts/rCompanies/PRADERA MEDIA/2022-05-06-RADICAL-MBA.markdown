@@ -73,5 +73,5 @@ image:    "PRADERA-background.svg"
    </ul>
   </td>
  </tr>
-</tbody>
-</table>
+x</tbody>
+y</table>
