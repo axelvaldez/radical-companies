@@ -22,5 +22,5 @@ image:    "PRADERA-background.svg"
  <ol>
    <h6>
     <li id="fn1"><a href="#fnref1">n</a>Not the perfect name, but MBA is more accessible. For now.</li>
-   
+   </h6>
  </ol>
