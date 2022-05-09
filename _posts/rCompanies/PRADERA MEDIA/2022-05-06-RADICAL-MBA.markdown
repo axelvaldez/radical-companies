@@ -22,7 +22,7 @@ image:    "PRADERA-background.svg"
   <td colspan="2" style="font-weight:bold; text-align:center; ">Impact</td>
  </tr>
  <tr>
-  <td style="text-align: right; ">What for?</td>
+  <td style="text-align: right; width:1in; ">What for?</td>
   <td>
    <ul>
     <li>To promote RADICAL principles, commitments, and practices.</li>
