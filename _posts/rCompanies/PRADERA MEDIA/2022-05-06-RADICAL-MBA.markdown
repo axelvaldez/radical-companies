@@ -17,8 +17,7 @@ image:    "PRADERA-background.svg"
 
 
 <h2>Alignment</h2>
-<table>
-<tbody style="font-size:smaller; text-aligh:top; ">
+<table style="font-size:smaller; vertical-aligh:top; ">
  <tr>
   <td colspan="2" style="font-weight:bold; text-align:center; ">Impact</td>
  </tr>
@@ -47,7 +46,7 @@ image:    "PRADERA-background.svg"
   <td colspan="2" style="font-weight:bold; text-align:center; ">Mission</td>
  </tr>
  <tr>
-  <td style="text-align:right; width:10em; ">What?</td>
+  <td style="text-align:right; width:10em; font-style:italic; ">What?</td>
   <td>
    <ul>
     <li>Well known and actively discussed.</li>
@@ -55,7 +54,7 @@ image:    "PRADERA-background.svg"
    </ul>
   </td>
  <tr>
-  <td style="text-align:right; width:10em; font-style:italic;  ">When?</td>
+  <td style="text-align:right; width:10em; font-style:italic; ">When?</td>
   <td>
    <ul>
     <li>Every week.</li>
@@ -63,7 +62,7 @@ image:    "PRADERA-background.svg"
   </td>
  </tr>
  <tr>
-  <td style="text-align:right; width:10em; font-style:italic;  ">How?</td>
+  <td style="text-align:right; width:10em; font-style:italic; ">How?</td>
   <td>
    <ul>
     <li>Video podcasts.</li>
