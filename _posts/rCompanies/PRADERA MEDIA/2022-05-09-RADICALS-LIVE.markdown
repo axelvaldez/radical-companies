@@ -266,6 +266,9 @@ image:    "pradera-background.svg"
    <td>Podcast summary.</td>
    <td style="background-color:#eee; ">For bloggers to cut-and-paste.</td>
   </tr>
+  <tr>
+   <td colspan="4">&nbsp;</td>
+  </tr>
  </tbody>
 </table>
 
