@@ -125,7 +125,7 @@ image:    "pradera-background.svg"
 
 <h1>Costs</h1>
  <table>
-  <tbody style="vertical-align:top; ">
+  <tbody style="font-size:smaller; vertical-align:top; ">
    <tr>
     <td colspan="2" style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black;">Simple</td>
     <td>
@@ -155,7 +155,7 @@ image:    "pradera-background.svg"
     <td colspan="2"></td>
    </tr>
    <tr>
-    <td style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black; ">Full Production<td>
+    <td style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black; ">Full Production</td>
     <td>
      <ul>
       <li>Same as In Person, plus another videographer and audio person.</li>
@@ -174,7 +174,7 @@ image:    "pradera-background.svg"
 <h1>Distribution Package</h1>
 <p>The  resulting distribution package will include,</p>
 <table>
- <tbody style="vertical-align:top; ">
+ <tbody style="font-size:smaller; vertical-align:top; ">
   <tr style="text-align:center; ">
    <td>&nbsp;</td>
    <td>Duration</td>
