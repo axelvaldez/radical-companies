@@ -125,7 +125,7 @@ image:    "pradera-background.svg"
 
 <h1>Costs</h1>
  <table>
-  <tbody>
+  <tbody style="vertical-align:top; ">
    <tr>
     <td colspan="2" style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black;">Simple</td>
     <td>
