@@ -94,7 +94,7 @@ image:    "PRADERA-background.svg"
     </td>
    </tr>
    <tr>
-     <td style="text-align:right; width:10em; font-style:italic; ">In Person<td>
+    <td style="text-align:right; width:10em; font-style:italic; ">In Person<td>
      <ul>
       <li>The RADICALS.LIVE! episodes are online (e.g.,  Zoom, Riff) or in person</li>
       <li>Having the conversation in person. If need be, one LIVEr would travel to the other.</li>
