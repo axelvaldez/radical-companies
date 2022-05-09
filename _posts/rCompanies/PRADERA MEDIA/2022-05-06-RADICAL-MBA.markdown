@@ -12,7 +12,7 @@ image:    "PRADERA-background.svg"
 
 <div style="background-color:beige; white-space:pre-wrap; ">
  <pre>&ldquo;The form of association, which if mankind continue to improve, must be expected in the end to predominate, is not that which can exist between a capitalist as chief, and work-people without a voice in the management, but the association of the labourers themselves on terms of equality, collectively owning the capital with which they carry on their operations<rdquo;</pre>
- <pre style="text-align:right; ">&mdash; John Stuart Mill</pre>
+ <pre style="text-align:right; padding-right:1em; ">&mdash; John Stuart Mill</pre>
 </div>
 
 
