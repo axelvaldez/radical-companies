@@ -73,3 +73,6 @@ image:    "PRADERA-background.svg"
    </ul>
   </td>
  </tr>
+
+<h1>Format</h1>
+ <p>The format is inspired by the HBO series Iconoclasts which featured &ldquo;an hour of personal conversation and storytelling.&rdquo; There are no &ldquo;hosts&rdquo; or &ldquo;guests,&rdquo; it is simply people talking about their journeys, going against the grain of traditional beliefs and institutions, projecting what the world would be like if they were wildly successful in their efforts.</p>
