@@ -127,7 +127,7 @@ image:    "pradera-background.svg"
  <table>
   <tbody style="font-size:smaller; vertical-align:top; ">
    <tr>
-    <td colspan="2" style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black;">Simple</td>
+    <td style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black;">Simple</td>
     <td>
      <ul>
       <li>Green screen.<sup><a href="#bookmark=id.vqnuy2hbs882">3</a></sup></li>
