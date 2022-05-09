@@ -185,7 +185,7 @@ image:    "pradera-background.svg"
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black; ">Episode</td>
    <td>
     <ul>
-     <li>90 min</li>
+     <li style="width:9em; ">90 min</li>
     </ul>
    </td>
    <td>Live streamed and recorded</td>
@@ -198,7 +198,7 @@ image:    "pradera-background.svg"
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black;  ">Hour</td>
    <td>
     <ul>
-     <li>50 min</li>
+     <li style="width:9em; ">50 min</li>
     </ul>
    </td>
    <td>Edited</td>
@@ -211,7 +211,7 @@ image:    "pradera-background.svg"
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black;  ">Highlights</td>
    <td>
     <ul>
-     <li>30-45 sec</li>
+     <li style="width:9em; ">30-45 sec</li>
      <li>1 min</li>
      <li>5-min</li>
     </ul>
@@ -226,7 +226,7 @@ image:    "pradera-background.svg"
    <td style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black;  ">Brief</td>
    <td>
     <ul>
-     <li>25 min</li>
+     <li style="width:9em; ">25 min</li>
     </ul>
    </td>
    <td>A short version of the show</td>
