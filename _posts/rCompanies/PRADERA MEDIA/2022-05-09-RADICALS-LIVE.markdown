@@ -163,7 +163,8 @@ image:    "pradera-background.svg"
      </ul>
     </td>
    </tr>
-</table>
+  </tbody>
+ </table>
 
 <h1>Launch</h1>
  <p>We will start by pairing up with the first few guests. These will be people we know, like Doug Kirkpatrick and Chuck Blakeman on the co-management side and Nathan Schneider on the co-ownership side (see LIVEr Candidates).</p>
