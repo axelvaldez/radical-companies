@@ -288,7 +288,7 @@ image:    "pradera-background.svg"
      <td style="padding-right:1em; ">
       <ul>
        <li>Practice recording: Lets the <span style="font-size:smaller; ">ICONOCLAST</span>s get his “pitch” out of his system.</li>
-       <li>seminding each <span style="font-size:smaller; ">ICONOCLAST</span>s of the primary topic.</li>
+       <li>Reminding each <span style="font-size:smaller; ">ICONOCLAST</span>s of the primary topic.</li>
        <li>Hints of how to get started.</li>
        <li>How to watch out for direction to get back on topic.</li>
       </ul>
