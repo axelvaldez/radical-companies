@@ -276,6 +276,12 @@ image:    "pradera-background.svg"
  <h2>Direction</h2>
   <p>Recording will take two to four hours.</p>
   <table>
+   <colgroup>
+    <col style="text-align:right; font-weight:bold; ">
+    <col>
+    <col>
+    <col>
+   </colgroup>
    <tbody style="font-size:smaller; vertical-align:top; ">
     <tr>
      <td>Onboarding</td>
@@ -308,6 +314,12 @@ image:    "pradera-background.svg"
   </table>
  <h2>Production</h2>
   <table>
+   <colgroup>
+    <col style="text-align:right; font-weight:bold; ">
+    <col>
+    <col>
+    <col>
+   </colgroup>
    <tbody style="font-size:smaller; vertical-align:top; ">
     <tr>
      <td>Planning</td>
@@ -361,7 +373,13 @@ image:    "pradera-background.svg"
    </tbody>
   </table>
  <h2>Marketing & Sales</h2>
- <table>
+  <table>
+   <colgroup>
+    <col style="text-align:right; font-weight:bold; ">
+    <col>
+    <col>
+    <col>
+   </colgroup>
   <tbody style="font-size:smaller; vertical-align:top; ">
    <tr>
     <td style="text-align: right">Promotion</td>
