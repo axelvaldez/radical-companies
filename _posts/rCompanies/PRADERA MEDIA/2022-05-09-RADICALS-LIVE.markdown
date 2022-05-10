@@ -279,8 +279,6 @@ image:    "pradera-background.svg"
    <colgroup>
     <col style="text-align:right; font-weight:bold; ">
     <col>
-    <col>
-    <col>
    </colgroup>
    <tbody style="font-size:smaller; vertical-align:top; ">
     <tr>
