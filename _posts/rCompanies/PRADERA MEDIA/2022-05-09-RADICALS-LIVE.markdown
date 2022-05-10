@@ -282,8 +282,8 @@ image:    "pradera-background.svg"
    </colgroup>
    <tbody style="font-size:smaller; vertical-align:top; ">
     <tr>
-     <td style="text-align:right; border-right:1px solid black; ">Onboarding</td>
-     <td style="padding-right:1em; ">
+     <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Onboarding</td>
+     <td style="padding-left:1em; ">
       <ul>
        <li>Practice recording: Lets the <span style="font-size:smaller; ">ICONOCLAST</span>s get his “pitch” out of his system.</li>
        <li>Reminding each <span style="font-size:smaller; ">ICONOCLAST</span>s of the primary topic.</li>
@@ -296,8 +296,8 @@ image:    "pradera-background.svg"
      <td colspan="4">&nbsp;</td>
     </tr>
     <tr>
-     <td style="text-align:right; border-right:1px solid black; ">Direction</td>
-     <td style="padding-right:1em; ">
+     <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Direction</td>
+     <td style="padding-left:1em; ">
       <ul>
        <li>Pausing when the <span style="font-size:smaller; ">ICONOCLAST</span>s way goes off subject and helping them get back on track.</li>
        <li>Handling bathroom breaks and other unavoidable interruptions.</li>
