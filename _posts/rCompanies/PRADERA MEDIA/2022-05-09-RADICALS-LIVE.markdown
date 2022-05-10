@@ -320,9 +320,9 @@ image:    "pradera-background.svg"
     <col>
     <col>
    </colgroup>
-   <tbody style="font-size:smaller; vertical-align:top; ">
+   <tbody style="font-size:smaller; vertical-align:top;  padding-right:1em;">
     <tr>
-     <td>Planning</td>
+     <td style="text-align:right; border-right:1px solid black; ">Planning</td>
      <td>Includes all preparations before a show for optimal experience,
       <ul>
        <li>Schedule Guests – Making sure everyone is aware of the time, date and location of recording.</li>
@@ -336,7 +336,7 @@ image:    "pradera-background.svg"
      <td colspan="4" style="">&nbsp;</td>
     </tr>
     <tr>
-     <td>Recruiting</td>
+     <td style="text-align:right; border-right:1px solid black; ">Recruiting</td>
      <td>
       <ul>
        <li>Send intro emails. If possible, the <span style="font-size:smaller; ">LIVE</span>r can help make these intros emails a bit &ldquo;warmer.&rdquo;</li>
@@ -350,7 +350,7 @@ image:    "pradera-background.svg"
      <td colspan="4" style="">&nbsp;</td>
     </tr>
     <tr>
-     <td>Production</td>
+     <td style="text-align:right; border-right:1px solid black; ">Production</td>
      <td>Involves everything during the process of recording,
       <ul>
        <li>Set Prep – Ensuring the set looks professional and well dressed as well as ensuring all equipment is set up and functioning optimally.</li>
