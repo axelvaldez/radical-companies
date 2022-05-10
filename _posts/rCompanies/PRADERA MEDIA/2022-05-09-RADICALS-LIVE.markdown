@@ -360,7 +360,7 @@ image:    "pradera-background.svg"
      <td colspan="2">&nbsp;</td>
     </tr>
     <tr>
-     <td style="text-align: right">Post Production</td>
+     <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Post Production</td>
      <td style="padding-left:1em; ">All video and audio editing from source recording.</td>
     </tr>
     <tr>
@@ -373,13 +373,11 @@ image:    "pradera-background.svg"
    <colgroup>
     <col style="text-align:right; font-weight:bold; ">
     <col>
-    <col>
-    <col>
    </colgroup>
   <tbody style="font-size:smaller; vertical-align:top;  padding-right:1em;">
    <tr>
     <td style="text-align:right; border-right:1px solid black; ">Promotion</td>
-    <td style="padding-right:1em; ">It involves everything from posting the content to promoting the content for audience growth.
+    <td style="padding-left:1em; ">It involves everything from posting the content to promoting the content for audience growth.
      <ul>
       <li>Posting – Post all content to all necessary platforms. This includes video and audio podcast channels.</li>
       <li>Online Promotion – Actively promote content online by spreading through forums and sending to relevant key  players in the field.</li>
@@ -393,7 +391,7 @@ image:    "pradera-background.svg"
    </tr>
    <tr>
     <td style="text-align:right; border-right:1px solid black; ">Syndication</td>
-    <td style="padding-right:1em; ">Share the distribution package with,
+    <td style="padding-left:1em; ">Share the distribution package with,
      <ul>
       <li>Bloggers.</li>
       <li>Podcasters.</li>
