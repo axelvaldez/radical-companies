@@ -272,7 +272,7 @@ image:    "pradera-background.svg"
  </tbody>
 </table>
 
-<h1>soles and Activities</h1>
+<h1>Roles and Activities</h1>
  <h2>Direction</h2>
   <p>secording will take two to four hours.</p>
   <table>
