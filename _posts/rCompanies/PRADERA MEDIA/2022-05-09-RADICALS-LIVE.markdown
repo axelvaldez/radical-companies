@@ -284,8 +284,8 @@ image:    "pradera-background.svg"
    </colgroup>
    <tbody style="font-size:smaller; vertical-align:top; ">
     <tr>
-     <td>Onboarding</td>
-     <td>
+     <td style="text-align:right; border-right:1px solid black; ">Onboarding</td>
+     <td style="padding-right:1em; ">
       <ul>
        <li>Practice recording: Lets the LIVEr get his “pitch” out of his system.</li>
        <li>Reminding each LIVEr of the primary topic.</li>
@@ -298,8 +298,8 @@ image:    "pradera-background.svg"
      <td colspan="4" style="">&nbsp;</td>
     </tr>
     <tr>
-     <td>Direction</td>
-     <td>
+     <td style="text-align:right; border-right:1px solid black; ">Direction</td>
+     <td style="padding-right:1em; ">
       <ul>
        <li>Pausing when the LIVEr way goes off subject and helping them get back on track.</li>
        <li>Handling bathroom breaks and other unavoidable interruptions.</li>
