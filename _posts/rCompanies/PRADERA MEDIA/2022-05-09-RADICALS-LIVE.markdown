@@ -180,7 +180,7 @@ image:    "pradera-background.svg"
 <p>The  resulting distribution package will include,</p>
 <table>
  <colgroup>
-  <col style="text-align:right; font-weight:bold; ">
+  <col style="width:10em; text-align:right; font-weight:bold; ">
   <col>
   <col>
   <col>
@@ -277,7 +277,7 @@ image:    "pradera-background.svg"
   <p>Recording will take two to four hours.</p>
   <table>
    <colgroup>
-    <col style="text-align:right; font-weight:bold; ">
+    <col style="width:10em; text-align:right; font-weight:bold; ">
     <col>
    </colgroup>
    <tbody style="font-size:smaller; vertical-align:top; ">
@@ -371,7 +371,7 @@ image:    "pradera-background.svg"
  <h2>Marketing & Sales</h2>
   <table>
    <colgroup>
-    <col style="text-align:right; font-weight:bold; ">
+    <col style="width:10em; text-align:right; font-weight:bold; ">
     <col>
    </colgroup>
   <tbody style="font-size:smaller; vertical-align:top;  padding-right:1em;">
