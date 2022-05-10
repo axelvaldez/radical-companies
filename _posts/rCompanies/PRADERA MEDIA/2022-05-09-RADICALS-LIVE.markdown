@@ -295,7 +295,7 @@ image:    "pradera-background.svg"
      </td>
     </tr>
     <tr>
-     <td colspan="4" style="">&nbsp;</td>
+     <td colspan="4">&nbsp;</td>
     </tr>
     <tr>
      <td style="text-align:right; border-right:1px solid black; ">Direction</td>
@@ -308,7 +308,7 @@ image:    "pradera-background.svg"
      </td>
     </tr>
     <tr>
-     <td colspan="4" style="">&nbsp;</td>
+     <td colspan="4">&nbsp;</td>
     </tr>
    </tbody>
   </table>
@@ -333,10 +333,10 @@ image:    "pradera-background.svg"
      </td>
     </tr>
     <tr>
-     <td colspan="4" style="">&nbsp;</td>
+     <td colspan="4">&nbsp;</td>
     </tr>
     <tr>
-     <td style="text-align:right; border-right:1px solid black; ">secruiting</td>
+     <td style="text-align:right; border-right:1px solid black; ">recruiting</td>
      <td style="padding-right:1em; ">
       <ul>
        <li>Send intro emails. If possible, the <span style="font-size:smaller; ">ICONOCLAST</span>s can help make these intros emails a bit &ldquo;warmer.&rdquo;</li>
@@ -347,7 +347,7 @@ image:    "pradera-background.svg"
      </td>
     </tr>
     <tr>
-     <td colspan="4" style="">&nbsp;</td>
+     <td colspan="4">&nbsp;</td>
     </tr>
     <tr>
      <td style="text-align:right; border-right:1px solid black; ">Production</td>
@@ -361,14 +361,14 @@ image:    "pradera-background.svg"
      </td>
     </tr>
     <tr>
-     <td colspan="4" style="">&nbsp;</td>
+     <td colspan="4">&nbsp;</td>
     </tr>
     <tr>
      <td style="text-align: right">Post Production</td>
      <td style="padding-right:1em; ">All video and audio editing from source recording.</td>
     </tr>
     <tr>
-     <td colspan="4" style="">&nbsp;</td>
+     <td colspan="4">&nbsp;</td>
     </tr>
    </tbody>
   </table>
@@ -401,7 +401,7 @@ image:    "pradera-background.svg"
      <ul>
       <li>Bloggers.</li>
       <li>Podcasters.</li>
-      <li>Writers, editors, and publishers. Leverage the <span style="font-size:smaller; ">ICONOCLAST</span>s’s connections whenever possible (<em>e.g.</em>, Doug writes for Huffspot, Chuck for Inc magazine).</li>
+      <li>Writers, editors, and publishers. Leverage the <span style="font-size:smaller; ">ICONOCLAST</span>s&lsquo; connections whenever possible (<em>e.g.</em>, Doug writes for Huffspot, Chuck for Inc magazine).</li>
       <li>sadio and TV producers and hosts.</li>
      </ul> 
     </td>
