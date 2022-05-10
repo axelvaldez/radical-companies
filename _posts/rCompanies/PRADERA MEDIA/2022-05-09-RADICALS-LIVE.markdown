@@ -181,9 +181,7 @@ image:    "pradera-background.svg"
 <table>
  <colgroup>
   <col style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black; font-weight:bold; ">
-  <col>
-  <col>
-  <col>
+  <col span="3">
  </colgroup>
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr style="text-align:center; font-weight:bold; ">
