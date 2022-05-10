@@ -322,8 +322,8 @@ image:    "pradera-background.svg"
    </colgroup>
    <tbody style="font-size:smaller; vertical-align:top;  padding-right:1em;">
     <tr>
-     <td style="text-align:right; border-right:1px solid black; ">Planning</td>
-     <td>Includes all preparations before a show for optimal experience,
+     <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Planning</td>
+     <td style="padding-right:1em; ">Includes all preparations before a show for optimal experience,
       <ul>
        <li>Schedule Guests – Making sure everyone is aware of the time, date and location of recording.</li>
        <li>Location Scouting – Figuring out where the episode will be shot and recorded</li>
@@ -337,7 +337,7 @@ image:    "pradera-background.svg"
     </tr>
     <tr>
      <td style="text-align:right; border-right:1px solid black; ">Recruiting</td>
-     <td>
+     <td style="padding-right:1em; ">
       <ul>
        <li>Send intro emails. If possible, the <span style="font-size:smaller; ">LIVE</span>r can help make these intros emails a bit &ldquo;warmer.&rdquo;</li>
        <li>Following up with non-respondents.</li>
@@ -351,7 +351,7 @@ image:    "pradera-background.svg"
     </tr>
     <tr>
      <td style="text-align:right; border-right:1px solid black; ">Production</td>
-     <td>Involves everything during the process of recording,
+     <td style="padding-right:1em; ">Involves everything during the process of recording,
       <ul>
        <li>Set Prep – Ensuring the set looks professional and well dressed as well as ensuring all equipment is set up and functioning optimally.</li>
        <li>Video and Audio Production - Ensuring an audio engineer and videographer and present and recording all that needs to be shot.</li>
@@ -365,7 +365,7 @@ image:    "pradera-background.svg"
     </tr>
     <tr>
      <td style="text-align: right">Post Production</td>
-     <td>All video and audio editing from source recording.</td>
+     <td style="padding-right:1em; ">All video and audio editing from source recording.</td>
     </tr>
     <tr>
      <td colspan="4" style="">&nbsp;</td>
@@ -383,7 +383,7 @@ image:    "pradera-background.svg"
   <tbody style="font-size:smaller; vertical-align:top;  padding-right:1em;">
    <tr>
     <td style="text-align:right; border-right:1px solid black; ">Promotion</td>
-    <td>It involves everything from posting the content to promoting the content for audience growth.
+    <td style="padding-right:1em; ">It involves everything from posting the content to promoting the content for audience growth.
      <ul>
       <li>Posting – Post all content to all necessary platforms. This includes video and audio podcast channels.</li>
       <li>Online Promotion – Actively promote content online by spreading through forums and sending to relevant key  players in the field.</li>
@@ -397,7 +397,7 @@ image:    "pradera-background.svg"
    </tr>
    <tr>
     <td style="text-align:right; border-right:1px solid black; ">Syndication</td>
-    <td>Share the distribution package with,
+    <td style="padding-right:1em; ">Share the distribution package with,
      <ul>
       <li>Bloggers.</li>
       <li>Podcasters.</li>
