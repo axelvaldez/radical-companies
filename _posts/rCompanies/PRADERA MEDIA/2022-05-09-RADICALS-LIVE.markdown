@@ -380,9 +380,9 @@ image:    "pradera-background.svg"
     <col>
     <col>
    </colgroup>
-  <tbody style="font-size:smaller; vertical-align:top; ">
+  <tbody style="font-size:smaller; vertical-align:top;  padding-right:1em;">
    <tr>
-    <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Promotion</td>
+    <td style="text-align:right; border-right:1px solid black; ">Promotion</td>
     <td>It involves everything from posting the content to promoting the content for audience growth.
      <ul>
       <li>Posting – Post all content to all necessary platforms. This includes video and audio podcast channels.</li>
@@ -396,7 +396,7 @@ image:    "pradera-background.svg"
     <td colspan="2">&nbsp;</td>
    </tr>
    <tr>
-    <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Syndication</td>
+    <td style="text-align:right; border-right:1px solid black; ">Syndication</td>
     <td>Share the distribution package with,
      <ul>
       <li>Bloggers.</li>
