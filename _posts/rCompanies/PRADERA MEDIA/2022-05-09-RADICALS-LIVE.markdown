@@ -193,7 +193,7 @@ image:    "pradera-background.svg"
    <td style="border-bottom:1px solid black; ">Target Audience</td>
   </tr>
   <tr>
-   <td>Episode</td>
+   <td style="text-align:right; padding-right:1em; font-weight:bold; ">Episode</td>
    <td style="background-color:#eee; ">
     <ul>
      <li style="width:9em; ">90 min</li>
