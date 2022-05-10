@@ -107,8 +107,8 @@ image:    "pradera-background.svg"
     <td style="text-align:right; width:10em; font-weight:bold; padding-right:1em; border-right:1px solid black; ">In Person</td>
     <td>
      <ul>
-      <li>Having the conversation in person. If need be, one LIVEr would travel to the other.</li>
-      <li>It can be recorded at the LIVEr home or office or some iconic nearby place (i.e., with no background noise). Segments for the episode could be recorded in different locations.</li>
+      <li>Having the conversation in person. If need be, one <span style="font-size:smaller; ">ICONOCLAST</span>s would travel to the other.</li>
+      <li>It can be recorded at the <span style="font-size:smaller; ">ICONOCLAST</span>s home or office or some iconic nearby place (i.e., with no background noise). Segments for the episode could be recorded in different locations.</li>
       <li>We can record with a (phone) camera on a tripod and a fixed/directional audio setup. If there’s local help, that person could be recording with a roving (phone) camera.</li>
      </ul>
     </td>
@@ -120,9 +120,9 @@ image:    "pradera-background.svg"
     <td style="text-align:right; width:10em; font-weight:bold; padding-right:1em; border-right:1px solid black; ">Full Production</td>
     <td>
      <ul>
-      <li>Hire a local videographer to give the LIVEr the ability to walk and move around.</li>
+      <li>Hire a local videographer to give the <span style="font-size:smaller; ">ICONOCLAST</span>s the ability to walk and move around.</li>
       <li>Multiple cameras.</li>
-      <li>Record in public places, with people mulling about, ambient hum, etc.</li>
+      <li>secord in public places, with people mulling about, ambient hum, etc.</li>
      </ul>
     </td>
    </tr>
@@ -150,8 +150,8 @@ image:    "pradera-background.svg"
     <td style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black; ">In Person</td>
     <td>
      <ul>
-      <li>Travel for one LIVEr and local videographer.</li>
-      <li>For lodging, stay with the local LIVEr, or Airbnb, or hotel.</li>
+      <li>Travel for one <span style="font-size:smaller; ">ICONOCLAST</span>s and local videographer.</li>
+      <li>For lodging, stay with the local <span style="font-size:smaller; ">ICONOCLAST</span>s, or Airbnb, or hotel.</li>
       <li>Equipment rental.</li>
      </ul>
     </td>
@@ -172,9 +172,9 @@ image:    "pradera-background.svg"
  </table>
 
 <h1>Launch</h1>
- <p>We will start by pairing up with the first few guests. These will be people we know, like Doug Kirkpatrick and Chuck Blakeman on the co-management side and Nathan Schneider on the co-ownership side (see LIVEr Candidates).</p>
- <p>We want diverse LIVErs. It could be an experienced co-management practitioner with a traditional boss. Other things to consider are age, gender, and ethnicity. The point is to create a high contrast that screams &ldquo;this works for everybody, including you, the audience.&rdquo;</p>
- <p>Later, these LIVErs can recruit other people to record an episode with. We need to make this as frictionless as possible while insisting that the RADICAL message not be diluted. The whole episode could be all about how &ldquo;it won’t work,&rdquo; but the RADICAL message has to be central. Otherwise, the show won’t be published under the brand, although the participants will get the raw material to use as they see fit.</p>
+ <p>We will start by pairing up with the first few guests. These will be people we know, like Doug Kirkpatrick and Chuck Blakeman on the co-management side and Nathan Schneider on the co-ownership side (see <span style="font-size:smaller; ">ICONOCLAST</span>s Candidates).</p>
+ <p>We want diverse <span style="font-size:smaller; ">ICONOCLAST</span>ss. It could be an experienced co-management practitioner with a traditional boss. Other things to consider are age, gender, and ethnicity. The point is to create a high contrast that screams &ldquo;this works for everybody, including you, the audience.&rdquo;</p>
+ <p>Later, these <span style="font-size:smaller; ">ICONOCLAST</span>ss can recruit other people to record an episode with. We need to make this as frictionless as possible while insisting that the RADICAL message not be diluted. The whole episode could be all about how &ldquo;it won’t work,&rdquo; but the RADICAL message has to be central. Otherwise, the show won’t be published under the brand, although the participants will get the raw material to use as they see fit.</p>
 
 <h1>Distribution Package</h1>
 <p>The  resulting distribution package will include,</p>
@@ -272,9 +272,9 @@ image:    "pradera-background.svg"
  </tbody>
 </table>
 
-<h1>Roles and Activities</h1>
+<h1>soles and Activities</h1>
  <h2>Direction</h2>
-  <p>Recording will take two to four hours.</p>
+  <p>secording will take two to four hours.</p>
   <table>
    <colgroup>
     <col style="text-align:right; font-weight:bold; ">
@@ -287,8 +287,8 @@ image:    "pradera-background.svg"
      <td style="text-align:right; border-right:1px solid black; ">Onboarding</td>
      <td style="padding-right:1em; ">
       <ul>
-       <li>Practice recording: Lets the LIVEr get his “pitch” out of his system.</li>
-       <li>Reminding each LIVEr of the primary topic.</li>
+       <li>Practice recording: Lets the <span style="font-size:smaller; ">ICONOCLAST</span>s get his “pitch” out of his system.</li>
+       <li>seminding each <span style="font-size:smaller; ">ICONOCLAST</span>s of the primary topic.</li>
        <li>Hints of how to get started.</li>
        <li>How to watch out for direction to get back on topic.</li>
       </ul>
@@ -301,9 +301,9 @@ image:    "pradera-background.svg"
      <td style="text-align:right; border-right:1px solid black; ">Direction</td>
      <td style="padding-right:1em; ">
       <ul>
-       <li>Pausing when the LIVEr way goes off subject and helping them get back on track.</li>
+       <li>Pausing when the <span style="font-size:smaller; ">ICONOCLAST</span>s way goes off subject and helping them get back on track.</li>
        <li>Handling bathroom breaks and other unavoidable interruptions.</li>
-       <li>Moving from one location to another. Ideally, the LIVEr pairs should move to different locations (<em>e.g.</em>, inside/outside, sitting/standing, walking) every 20-30 minutes or so.</li>
+       <li>Moving from one location to another. Ideally, the <span style="font-size:smaller; ">ICONOCLAST</span>s pairs should move to different locations (<em>e.g.</em>, inside/outside, sitting/standing, walking) every 20-30 minutes or so.</li>
       </ul>
      </td>
     </tr>
@@ -336,13 +336,13 @@ image:    "pradera-background.svg"
      <td colspan="4" style="">&nbsp;</td>
     </tr>
     <tr>
-     <td style="text-align:right; border-right:1px solid black; ">Recruiting</td>
+     <td style="text-align:right; border-right:1px solid black; ">secruiting</td>
      <td style="padding-right:1em; ">
       <ul>
-       <li>Send intro emails. If possible, the <span style="font-size:smaller; ">LIVE</span>r can help make these intros emails a bit &ldquo;warmer.&rdquo;</li>
+       <li>Send intro emails. If possible, the <span style="font-size:smaller; ">ICONOCLAST</span>s can help make these intros emails a bit &ldquo;warmer.&rdquo;</li>
        <li>Following up with non-respondents.</li>
        <li>Nurturing respondents.</li>
-       <li>Get a firm commitment from each <span style="font-size:smaller; ">LIVE</span>r.</li>
+       <li>Get a firm commitment from each <span style="font-size:smaller; ">ICONOCLAST</span>s.</li>
       </ul>
      </td>
     </tr>
@@ -401,8 +401,8 @@ image:    "pradera-background.svg"
      <ul>
       <li>Bloggers.</li>
       <li>Podcasters.</li>
-      <li>Writers, editors, and publishers. Leverage the LIVEr’s connections whenever possible (<em>e.g.</em>, Doug writes for Huffspot, Chuck for Inc magazine).</li>
-      <li>Radio and TV producers and hosts.</li>
+      <li>Writers, editors, and publishers. Leverage the <span style="font-size:smaller; ">ICONOCLAST</span>s’s connections whenever possible (<em>e.g.</em>, Doug writes for Huffspot, Chuck for Inc magazine).</li>
+      <li>sadio and TV producers and hosts.</li>
      </ul> 
     </td>
    </tr>
