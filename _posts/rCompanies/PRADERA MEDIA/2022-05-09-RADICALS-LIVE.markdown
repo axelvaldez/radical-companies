@@ -276,7 +276,7 @@ image:    "pradera-background.svg"
  <h2>Direction</h2>
   <p>Recording will take two to four hours.</p>
   <table>
-   <tbody>
+   <tbody style="font-size:smaller; vertical-align:top; ">
     <tr>
      <td>Onboarding</td>
      <td>
@@ -308,7 +308,7 @@ image:    "pradera-background.svg"
   </table>
  <h2>Production</h2>
   <table>
-   <tbody>
+   <tbody style="font-size:smaller; vertical-align:top; ">
     <tr>
      <td>Planning</td>
      <td>Includes all preparations before a show for optimal experience,
@@ -360,37 +360,36 @@ image:    "pradera-background.svg"
     </tr>
    </tbody>
   </table>
-
-<h2>Marketing & Sales</h2>
-<table>
- <tbody>
-  <tr>
-   <td style="text-align: right">Promotion</td>
-   <td>It involves everything from posting the content to promoting the content for audience growth.
-    <ul>
-     <li>Posting – Post all content to all necessary platforms. This includes video and audio podcast channels.</li>
-     <li>Online Promotion – Actively promote content online by spreading through forums and sending to relevant key players in the field.</li>
-     <li>Live Promotion – Attend events to promote the show and spread the word.</li>
-     <li>Feed our podcast and blogger circuit.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2">&nbsp;</td>
-  </tr>
-  <tr>
-   <td style="text-align: right">Syndication</td>
-   <td>Share the distribution package with,
-    <ul>
-     <li>Bloggers.</li>
-     <li>Podcasters.</li>
-     <li>Writers, editors, and publishers. Leverage the LIVEr’s connections whenever possible (<em>e.g.</em>, Doug writes for Huffspot, Chuck for Inc magazine).</li>
-     <li>Radio and TV producers and hosts.</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2">&nbsp;</td>
-  </tr>
- </tbody>
-</table>
+ <h2>Marketing & Sales</h2>
+ <table>
+  <tbody style="font-size:smaller; vertical-align:top; ">
+   <tr>
+    <td style="text-align: right">Promotion</td>
+    <td>It involves everything from posting the content to promoting the content for audience growth.
+     <ul>
+      <li>Posting – Post all content to all necessary platforms. This includes video and audio podcast channels.</li>
+      <li>Online Promotion – Actively promote content online by spreading through forums and sending to relevant key  players in the field.</li>
+      <li>Live Promotion – Attend events to promote the show and spread the word.</li>
+      <li>Feed our podcast and blogger circuit.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2">&nbsp;</td>
+   </tr>
+   <tr>
+    <td style="text-align: right">Syndication</td>
+    <td>Share the distribution package with,
+     <ul>
+      <li>Bloggers.</li>
+      <li>Podcasters.</li>
+      <li>Writers, editors, and publishers. Leverage the LIVEr’s connections whenever possible (<em>e.g.</em>, Doug writes for Huffspot, Chuck for Inc magazine).</li>
+      <li>Radio and TV producers and hosts.</li>
+     </ul> 
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2">&nbsp;</td>
+   </tr>
+  </tbody>
+ </table>
