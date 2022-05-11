@@ -281,7 +281,11 @@ image:    "pradera-background.svg"
    <tbody style="font-size:smaller; vertical-align:top; ">
     <tr>
      <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Onboarding</td>
-     <td></td>
+     <td>a</td>
+    </tr>
+    <tr>
+     <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Direction</td>
+     <td>b</td>
     </tr>
    </tbody>
   </table>
