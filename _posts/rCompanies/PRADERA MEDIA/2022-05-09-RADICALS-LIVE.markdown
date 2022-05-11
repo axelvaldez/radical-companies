@@ -179,7 +179,7 @@ image:    "pradera-background.svg"
 <h1>Distribution Package</h1>
 <p>The  resulting distribution package will include 1,</p>
 <table style="font-size:smaller; ">
- <tbody style="width:15en; vertical-align:text-top; border-bottom:1px solid black; text-align:center; font-weight:bold; ">
+ <tbody style="border-bottom:1px solid black; text-align:center; font-weight:bold; ">
   <tr>
    <td>&nbsp;</td>
    <td>Duration</td>
@@ -189,7 +189,7 @@ image:    "pradera-background.svg"
  </tbody>
  <tbody>
   <colgroup>
-   <col style="width:12en; text-align:right; padding-right:1em; border-right:1px solid black; ">
+   <col style="width:15en; text-align:right; padding-right:1em; border-right:1px solid black; ">
    <col style="background-color:#eee; ">
    <col style="color:red; ">
    <col style="background-color:#eee; ">
