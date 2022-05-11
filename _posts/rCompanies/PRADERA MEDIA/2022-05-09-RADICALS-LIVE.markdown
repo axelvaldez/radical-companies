@@ -281,8 +281,11 @@ image:    "pradera-background.svg"
    <tbody style="font-size:smaller; vertical-align:top; ">
     <tr>
      <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Onboarding</td>
-     <td>
-      <ul>
+     <td></td>
+    </tr>
+   </tbody>
+  </table>
+      <!-- <ul>
        <li>Practice recording: Lets the <span style="font-size:smaller; ">ICONOCLAST</span>s get his “pitch” out of his system.</li>
        <li>Reminding each <span style="font-size:smaller; ">ICONOCLAST</span>s of the primary topic.</li>
        <li>Hints of how to get started.</li>
@@ -307,7 +310,7 @@ image:    "pradera-background.svg"
      <td colspan="2">&nbsp;</td>
     </tr>
    </tbody>
-  </table>
+  </table> -->
  <h2>Production</h2>
   <table>
    <colgroup>
