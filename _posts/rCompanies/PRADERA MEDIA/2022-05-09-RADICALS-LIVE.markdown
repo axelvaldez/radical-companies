@@ -177,7 +177,7 @@ image:    "pradera-background.svg"
  <p>Later, these <span style="font-size:smaller; ">ICONOCLAST</span>ss can recruit other people to record an episode with. We need to make this as frictionless as possible while insisting that the RADICAL message not be diluted. The whole episode could be all about how &ldquo;it won’t work,&rdquo; but the RADICAL message has to be central. Otherwise, the show won’t be published under the brand, although the participants will get the raw material to use as they see fit.</p>
 
 <h1>Distribution Package</h1>
-<p>The  resulting distribution package will include 2,</p>
+<p>The  resulting distribution package will include,</p>
 <table style="font-size:smaller; ">
  <tbody>
   <tr style="text-align:center; border-bottom:1px solid black; ">
@@ -188,7 +188,7 @@ image:    "pradera-background.svg"
   </tr>
  </tbody>
  <colgroup style="">
-  <col style="width:12en; border-right:1px solid black; ">
+  <col style="width:12en; border-right:1px solid black; vertical-align:top; ">
   <col style="background-color:#eee; ">
   <col style="">
   <col style="background-color:#eee; ">
@@ -208,7 +208,7 @@ image:    "pradera-background.svg"
    <td colspan="4" style="font-size:2px; ">&nbsp;</td>
   </tr>
   <tr>
-   <td>Hour</td>
+   <td style="font-weight:bold; text-align:right; padding-right:1em; ">Hour</td>
    <td>
     <ul>
      <li>50 min</li>
