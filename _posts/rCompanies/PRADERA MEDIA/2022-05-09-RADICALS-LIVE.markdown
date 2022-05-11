@@ -191,9 +191,9 @@ image:    "pradera-background.svg"
  <tbody>
   <colgroup>
    <col style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black; ">
-   <col style="background-color:blue; ">
+   <col style="background-color:#eee; ">
    <col>
-   <col style="background-color:olive; ">
+   <col style="background-color:#eee; ">
   </colgroup>
   <tr>
    <td>Episode</td>
