@@ -195,7 +195,7 @@ image:    "pradera-background.svg"
  </colgroup>
  <tbody>
   <tr>
-   <td>Episode</td>
+   <td style="font-weight:bold; text-align:right; padding-right:1em; ">Episode</td>
    <td>
     <ul>
      <li>90 min</li>
@@ -214,14 +214,14 @@ image:    "pradera-background.svg"
      <li>50 min</li>
     </ul>
    </td>
-   <td>Edited</td>
+   <td style="font-weight:bold; text-align:right; padding-right:1em; ">Edited</td>
    <td>For general distribution</td>
   </tr>
   <tr>
    <td colspan="4" style="font-size:2px; ">&nbsp;</td>
   </tr>
   <tr>
-   <td>Highlights</td>
+   <td style="font-weight:bold; text-align:right; padding-right:1em; ">Highlights</td>
    <td>
     <ul>
      <li>30-45 sec</li>
@@ -236,7 +236,7 @@ image:    "pradera-background.svg"
    <td colspan="4" style="font-size:2px; ">&nbsp;</td>
   </tr>
   <tr>
-   <td>Brief</td>
+   <td style="font-weight:bold; text-align:right; padding-right:1em; ">Brief</td>
    <td>
     <ul>
      <li>25 min</li>
@@ -249,7 +249,7 @@ image:    "pradera-background.svg"
    <td colspan="4" style="font-size:2px; ">&nbsp;</td>
   </tr>
   <tr>
-   <td>Outtakes</td>
+   <td style="font-weight:bold; text-align:right; padding-right:1em; ">Outtakes</td>
    <td>&nbsp;</td>
    <td>Bloopers and other outtakes</td>
    <td>For co-owners and promotion</td>
@@ -258,7 +258,7 @@ image:    "pradera-background.svg"
    <td colspan="4" style="font-size:2px; ">&nbsp;</td>
   </tr>
   <tr>
-   <td>Bloposts</td>
+   <td style="font-weight:bold; text-align:right; padding-right:1em; ">Bloposts</td>
    <td>&nbsp;</td>
    <td>Podcast summary.</td>
    <td>For bloggers to cut-and-paste.</td>
