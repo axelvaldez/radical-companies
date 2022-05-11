@@ -181,7 +181,7 @@ image:    "pradera-background.svg"
 <table style="font-size:smaller; ">
  <tbody style="text-align:center; font-weight:bold; ">
   <tr style="border:1px solid red;">
-   <td span="4">x</td>
+   <td span="4">xxxx</td>
   </tr>
   <tr style="border:1px solid red;">
    <td>&nbsp;</td>
