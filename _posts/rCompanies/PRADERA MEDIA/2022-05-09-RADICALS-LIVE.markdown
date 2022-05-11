@@ -180,7 +180,7 @@ image:    "pradera-background.svg"
 <p>The  resulting distribution package will include 2,</p>
 <table>
  <colgroup>
-  <col style="width:15em; font-weight:bold; padding-right:1em; border-right:1px solid black; ">
+  <col style="width:10em; font-weight:bold; padding-right:1em; border-right:1px solid black; ">
   <col span="3">
  </colgroup>
  <!-- <tbody style="font-size:smaller; vertical-align:top; font-weight:bold; text-align:center; "> -->
