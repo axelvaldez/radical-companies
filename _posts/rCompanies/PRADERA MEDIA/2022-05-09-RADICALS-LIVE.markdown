@@ -272,11 +272,11 @@ image:    "pradera-background.svg"
 
 <h1>Roles and Activities</h1>
  <h2>Direction</h2>
-  <p>Recording will take two to four 4 hours.</p>
+  <p>Recording will take two to four 3 hours.</p>
   <table>
    <colgroup>
-    <col style="width:15em; font-size:x-small; color:red; text-align:right; font-weight:bold; ">
-    <col>
+    <col style="font-size:x-small; font-weight:bold; ">
+    <col style="font-size:x-small; padding-left:1em; ">
    </colgroup>
    <tbody style="font-size:smaller; vertical-align:top; ">
     <tr>
