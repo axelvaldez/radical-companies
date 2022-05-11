@@ -189,7 +189,7 @@ image:    "pradera-background.svg"
  </tbody>
  <tbody>
   <colgroup>
-   <col style="width:15en; text-align:right; padding-right:1em; border-right:1px solid black; ">
+   <col style="width:15en; border-right:1px solid black; text-align:right; padding-right:1em; ">
    <col style="background-color:#eee; ">
    <col style="color:red; ">
    <col style="background-color:#eee; ">
