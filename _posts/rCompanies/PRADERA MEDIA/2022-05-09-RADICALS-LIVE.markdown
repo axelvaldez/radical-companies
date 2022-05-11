@@ -185,6 +185,7 @@ image:    "pradera-background.svg"
  </colgroup>
  <!-- <tbody style="font-size:smaller; vertical-align:top; font-weight:bold; text-align:center; "> -->
  <tbody>
+  <tr>
    <td>&nbsp;</td>
    <td style="border-bottom:1px solid black; ">Duration</td>
    <td style="border-bottom:1px solid black; ">What</td>
