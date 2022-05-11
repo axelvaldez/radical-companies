@@ -180,20 +180,20 @@ image:    "pradera-background.svg"
 <p>The  resulting distribution package will include 1,</p>
 <table style="font-size:smaller; ">
  <tbody>
-  <tr style="text-align:center; ">
+  <tr style="text-align:center; border-bottom:1px solid black; ">
    <th>&nbsp;</th>
    <th>Duration</th>
    <th>What</th>
    <th>Target Audience</th>
   </tr>
  </tbody>
+ <colgroup style="">
+  <col style="font-weight:bold; ">
+  <col style="background-color:#eee; ">
+  <col style="">
+  <col style="background-color:#eee; ">
+ </colgroup>
  <tbody>
-  <colgroup style="border-top:1px solid black; ">
-   <col>
-   <col>
-   <col>
-   <col>
-  </colgroup>
   <tr>
    <td>Episode</td>
    <td>
