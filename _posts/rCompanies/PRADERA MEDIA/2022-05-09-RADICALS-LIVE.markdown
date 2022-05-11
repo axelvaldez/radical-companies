@@ -275,7 +275,7 @@ image:    "pradera-background.svg"
   <p>Recording will take two to four 4 hours.</p>
   <table>
    <colgroup>
-    <col style="width:12em; font-size:x-small; text-align:right; font-weight:bold; ">
+    <col style="width:20em; font-size:x-small; text-align:right; font-weight:bold; ">
     <col>
    </colgroup>
    <tbody style="font-size:smaller; vertical-align:top; ">
