@@ -182,7 +182,7 @@ image:    "pradera-background.svg"
  <tbody style="text-align:center; font-weight:bold; ">
   <tr>
    <td>&nbsp;</td>
-   <td style="border-bottom:1px solid black;">Duration</td>
+   <td style="border:1px solid black;">Duration</td>
    <td style="border-bottom:1px solid black;">What</td>
    <td style="border-bottom:1px solid black;">Target Audience</td>
   </tr>
