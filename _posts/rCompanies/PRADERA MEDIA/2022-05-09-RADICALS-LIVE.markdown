@@ -179,23 +179,16 @@ image:    "pradera-background.svg"
 <h1>Distribution Package</h1>
 <p>The  resulting distribution package will include 1,</p>
 <table style="font-size:smaller; ">
- <tbody style="text-align:center; ">
-  <tr style="border:1px solid red;">
-   <td>1</td>
-   <td>  2</td>
-   <td>    3</td>
-   <td>      4</td>
-  </tr>
-  <tr style="border:1px solid blue;">
-   <th>&nbsp;</th>
-   <th>Duration</th>
-   <th>What</th>
-   <th>Target Audience</th>
-  </tr>
+ <tr style="border:1px solid red; text-align:center; ">
+  <th>&nbsp;</th>
+  <th>Duration</th>
+  <th>What</th>
+  <th>Target Audience</th>
+ </tr>
  </tbody>
  <tbody>
-  <colgroup>
-   <col style="width:15en; border-right:1px solid black; text-align:right; padding-right:1em; ">
+  <colgroup style="border:1px solid green; ">
+   <col style="width:15en; text-align:right; padding-right:1em; ">
    <col style="background-color:#eee; ">
    <col style="color:red; ">
    <col style="background-color:#eee; ">
