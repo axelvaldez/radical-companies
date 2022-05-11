@@ -179,13 +179,7 @@ image:    "pradera-background.svg"
 <h1>Distribution Package</h1>
 <p>The  resulting distribution package will include 1,</p>
 <table style="font-size:smaller; ">
- <colgroup>
-  <col style="width:10em; border-right:1px solid black; ">
-  <col>
-  <col>
-  <col>
- </colgroup>
- <!-- <tbody style="font-size:smaller; vertical-align:top; font-weight:bold; text-align:center; "> -->
+  <!-- <tbody style="font-size:smaller; vertical-align:top; font-weight:bold; text-align:center; "> -->
  <tbody>
   <tbody style="border-bottom:1px solid black; text-align:center; ">
    <tr>
@@ -195,11 +189,18 @@ image:    "pradera-background.svg"
     <td>Target Audience</td>
    </tr>
   </tbody>
+ <colgroup>
+  <col style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black; ">
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
   <tr>
-   <td style="text-align:right; padding-right:1em; ">Episode</td>
+   <td>Episode</td>
    <td style="background-color:#eee; ">
     <ul>
-     <li style="width:9em; ">90 min</li>
+     <li>90 min</li>
     </ul>
    </td>
    <td>Live streamed and recorded</td>
@@ -212,21 +213,20 @@ image:    "pradera-background.svg"
    <td>Hour</td>
    <td style="background-color:#eee; ">
     <ul>
-     <li style="width:9em; ">50 min</li>
+     <li>50 min</li>
     </ul>
    </td>
    <td>Edited</td>
    <td style="background-color:#eee; ">For general distribution</td>
   </tr>
   <tr>
-   <td style="border-right:1px solid black; ">&nbsp;</td>
-   <td colspan="3">&nbsp;</td>
+   <td colspan="4">&nbsp;</td>
   </tr>
   <tr>
    <td>Highlights</td>
    <td style="background-color:#eee; ">
     <ul>
-     <li style="width:9em; ">30-45 sec</li>
+     <li>30-45 sec</li>
      <li>1 min</li>
      <li>5-min</li>
     </ul>
@@ -235,8 +235,7 @@ image:    "pradera-background.svg"
    <td style="background-color:#eee; ">For promotion on social media platforms, podcasters, blogs, etc</td>
   </tr>
   <tr>
-   <td style="border-right:1px solid black; ">&nbsp;</td>
-   <td colspan="3">&nbsp;</td>
+   <td colspan="4">&nbsp;</td>
   </tr>
   <tr>
    <td>Brief</td>
@@ -249,8 +248,7 @@ image:    "pradera-background.svg"
    <td style="background-color:#eee; ">For blogs, news articles, etc</td>
   </tr>
   <tr>
-   <td style="border-right:1px solid black; ">&nbsp;</td>
-   <td colspan="3">&nbsp;</td>
+   <td colspan="4">&nbsp;</td>
   </tr>
   <tr>
    <td>Outtakes</td>
@@ -259,8 +257,7 @@ image:    "pradera-background.svg"
    <td style="background-color:#eee; ">For co-owners and promotion</td>
   </tr>
   <tr>
-   <td style="border-right:1px solid black; ">&nbsp;</td>
-   <td colspan="3">&nbsp;</td>
+   <td colspan="4">&nbsp;</td>
   </tr>
   <tr>
    <td>Bloposts</td>
