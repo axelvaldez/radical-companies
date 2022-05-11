@@ -186,7 +186,7 @@ image:    "pradera-background.svg"
   <th>Target Audience</th>
  </tr>
  <tbody>
-  <colgroup style="border-top:1px solid green; ">
+  <colgroup style="border-top:1px solid cyan; ">
    <col>
    <col>
    <col>
