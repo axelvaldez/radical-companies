@@ -188,7 +188,7 @@ image:    "pradera-background.svg"
   </tr>
  </tbody>
  <tbody>
-  <colgroup style="border-bottom:1px solid black; ">
+  <colgroup style="border-top:1px solid black; ">
    <col>
    <col>
    <col>
