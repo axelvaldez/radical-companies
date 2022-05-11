@@ -180,7 +180,7 @@ image:    "pradera-background.svg"
 <p>The  resulting distribution package will include,</p>
 <table>
  <colgroup>
-  <col style="width:10em; font-weight:bold; text-align:right;
+  <col style="width:15em; font-weight:bold; text-align:right;
    padding-right:1em; border-right:1px solid black; ">
   <col span="3">
  </colgroup>
@@ -272,7 +272,7 @@ image:    "pradera-background.svg"
 
 <h1>Roles and Activities</h1>
  <h2>Direction</h2>
-  <p>Recording will take two to four 3 hours.</p>
+  <p>Recording will take two to four 2 hours.</p>
   <table>
    <colgroup>
     <col style="font-weight:bold; width:15em; background-color:red; ">
@@ -280,7 +280,7 @@ image:    "pradera-background.svg"
    </colgroup>
    <tbody style="font-size:smaller; vertical-align:top; ">
     <tr>
-     <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Onboarding</td>
+     <td>Onboarding</td>
      <td>a</td>
     </tr>
     <tr>
