@@ -218,7 +218,7 @@ image:    "pradera-background.svg"
    <td>For general distribution</td>
   </tr>
   <tr>
-   <td colspan="4">&nbsp;</td>
+   <td colspan="4" style="font-size:2px; ">&nbsp;</td>
   </tr>
   <tr>
    <td>Highlights</td>
@@ -233,7 +233,7 @@ image:    "pradera-background.svg"
    <td>For promotion on social media platforms, podcasters, blogs, etc</td>
   </tr>
   <tr>
-   <td colspan="4">&nbsp;</td>
+   <td colspan="4" style="font-size:2px; ">&nbsp;</td>
   </tr>
   <tr>
    <td>Brief</td>
@@ -246,7 +246,7 @@ image:    "pradera-background.svg"
    <td>For blogs, news articles, etc</td>
   </tr>
   <tr>
-   <td colspan="4">&nbsp;</td>
+   <td colspan="4" style="font-size:2px; ">&nbsp;</td>
   </tr>
   <tr>
    <td>Outtakes</td>
@@ -255,7 +255,7 @@ image:    "pradera-background.svg"
    <td>For co-owners and promotion</td>
   </tr>
   <tr>
-   <td colspan="4">&nbsp;</td>
+   <td colspan="4" style="font-size:2px; ">&nbsp;</td>
   </tr>
   <tr>
    <td>Bloposts</td>
