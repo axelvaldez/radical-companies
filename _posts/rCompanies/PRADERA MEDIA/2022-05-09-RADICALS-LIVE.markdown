@@ -191,9 +191,9 @@ image:    "pradera-background.svg"
   </tbody>
  <colgroup>
   <col style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black; ">
-  <col style="background-color:#eee; ">
+  <col style="background-color:blue; ">
   <col>
-  <col style="background-color:#eee; ">
+  <col style="background-color:olive; ">
  </colgroup>
  <tbody>
   <tr>
