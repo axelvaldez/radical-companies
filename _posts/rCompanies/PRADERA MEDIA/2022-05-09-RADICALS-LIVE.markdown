@@ -190,6 +190,7 @@ image:    "pradera-background.svg"
    <col>
    <col>
    <col>
+   <col>
   </colgroup>
   <tr>
    <td>Episode</td>
