@@ -180,11 +180,11 @@ image:    "pradera-background.svg"
 <p>The  resulting distribution package will include,</p>
 <table>
  <colgroup>
-  <col style="width:10em; text-align:right; padding-right:1em; border-right:1px solid black; font-weight:bold; ">
+  <col style="width:10em; font-weight:bold; text-align:right;
+   padding-right:1em; border-right:1px solid black; ">
   <col span="3">
  </colgroup>
- <tbody style="font-size:smaller; vertical-align:top; ">
-  <tr style="text-align:center; font-weight:bold; ">
+ <tbody style="font-size:smaller; vertical-align:top; font-weight:bold; "> <!-- <tr style="text-align:center; "> -->
    <td>&nbsp;</td>
    <td style="border-bottom:1px solid black; ">Duration</td>
    <td style="border-bottom:1px solid black; ">What</td>
