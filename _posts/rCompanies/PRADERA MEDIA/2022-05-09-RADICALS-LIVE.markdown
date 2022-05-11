@@ -205,7 +205,7 @@ image:    "pradera-background.svg"
    <td>For co-owners</td>
   </tr>
   <tr>
-   <td colspan="4">&nbsp;</td>
+   <td colspan="4" style="font-size:2px; ">&nbsp;</td>
   </tr>
   <tr>
    <td>Hour</td>
