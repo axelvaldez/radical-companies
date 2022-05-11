@@ -188,7 +188,7 @@ image:    "pradera-background.svg"
   </tr>
  </tbody>
  <colgroup style="">
-  <col style="font-weight:bold; ">
+  <col style="font-weight:bold; background-color:yellow; ">
   <col style="background-color:#eee; ">
   <col style="">
   <col style="background-color:#eee; ">
