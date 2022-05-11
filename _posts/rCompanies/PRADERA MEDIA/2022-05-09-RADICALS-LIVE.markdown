@@ -180,7 +180,7 @@ image:    "pradera-background.svg"
 <p>The  resulting distribution package will include 3,</p>
 <table>
  <colgroup>
-  <col style="width:10em; border-right:1px solid cyan; ">
+  <col style="width:10em; border-right:1px solid black; ">
   <col>
   <col>
   <col>
@@ -188,12 +188,12 @@ image:    "pradera-background.svg"
  <!-- <tbody style="font-size:smaller; vertical-align:top; font-weight:bold; text-align:center; "> -->
  <tbody>
   <tbody style="border-bottom:1px solid black; ">
-  <tr>
-   <td>&nbsp;</td>
-   <td>Duration</td>
-   <td>What</td>
-   <td>Target Audience</td>
-  </tr>
+   <tr>
+    <td>&nbsp;</td>
+    <td>Duration</td>
+    <td>What</td>
+    <td>Target Audience</td>
+   </tr>
   </tbody>
   <tr>
    <td style="text-align:right; padding-right:1em; ">Episode</td>
