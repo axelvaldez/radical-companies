@@ -277,7 +277,7 @@ image:    "pradera-background.svg"
     <col style="width:15en; border-right:1px solid black; vertical-align:top; font-size:smaller; ">
     <col>
    </colgroup>
-   <tbody>
+   <tbody style="vertical-align:top; ">
     <tr>
      <td>Onboarding</td>
      <td>
@@ -307,8 +307,7 @@ image:    "pradera-background.svg"
     </tr>
    </tbody>
   </table>
-  
- <h1>Production</h1>
+ <h2>Production</h2>
   <table>
    <colgroup>
     <col style="font-size:smaller; text-align:right; font-weight:bold; ">
