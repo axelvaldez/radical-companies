@@ -86,7 +86,7 @@ image:    "pradera-background.svg"
 </table>
 
 <h1>Format</h1>
- <p>The format is inspired by the HBO series <span style="font-size:smaller; ">ICONOCLAST</span>s which featured &ldquo;an hour of personal conversation and storytelling.&rdquo; There are no &ldquo;hosts&rdquo; or &ldquo;guests,&rdquo; it is simply people talking about their journeys, going against the grain of traditional beliefs and institutions, projecting what the world would be like if they were wildly successful in their efforts.</p>
+ <p>The format is inspired by the HBO series <span style="font-size:smaller; ">ICONOCLAST</span>s which featured &ldquo;an hour of personal conversation and storytelling.&rdquo;<sup id="bm1"><a href="#en1">1</a></sup> There are no &ldquo;hosts&rdquo; or &ldquo;guests,&rdquo; it is simply people talking about their journeys, going against the grain of traditional beliefs and institutions, projecting what the world would be like if they were wildly successful in their efforts.</p>
 
 <h1>Modality</h1>
  <table>
@@ -404,8 +404,8 @@ image:    "pradera-background.svg"
  </table>
 
 <h1>Endnotes</h1>
- <p>1.	<a href="#bookmark=id.yk9xom7rbsjf">n</a> <em>Iconoclasts</em>. HBO Series, 2205-2012 &lt;<a href="https://radicals.world/qDs5o9">https://radicals.world/qDs5o9</a>></p>
- <p>2.	<a href="#bookmark=id.89w8uold3azw">n</a> “Iconoclasts” would be the perfect name for this show, wouldn’t it? (Hey, <a href="https://www.youtube.com/watch?v=IdaHRoxNMZQ&feature=youtu.be&t=3">HBO/Grey Goose</a>, can we talk?) &lt;<a href="https://radicals.world/d8ykRz">https://radicals.world/d8ykRz</a>></p>
- <p>3.	<a href="#bookmark=id.tizcrc5nkutc">n</a> BANNIO 4.7Ft Green Screen. Amazon, $29 &lt;<a href="https://radicals.world/DJXfXq">https://radicals.world/DJXfXq</a>></p>
- <p>4.	<a href="#bookmark=id.1g02rwj8p6a9">n</a> Video+Mic, Amazon, $70 &lt;<a href="https://radicals.world/zO6ndt">https://radicals.world/zO6ndt</a>>. Alternative microphone, Amazon, $29 &lt;<a href="https://radicals.world/zErPki">https://radicals.world/zErPki</a>></p>
-
+ <ol style="font-size:smaller; ">
+  <li id="en1"><a href="#bm1">n</a> “Iconoclasts” would be the perfect name for this show, wouldn’t it? (Hey, <a href="https://www.youtube.com/watch?v=IdaHRoxNMZQ&feature=youtu.be&t=3">HBO/Grey Goose</a>, can we talk?) &lt;<a href="https://radicals.world/d8ykRz">https://radicals.world/d8ykRz</a>></li>
+  <li id="en2"><a href="#bm2">n</a> BANNIO 4.7Ft Green Screen. Amazon, $29 &lt;<a href="https://radicals.world/DJXfXq">https://radicals.world/DJXfXq</a>></li>
+  <li id="en3"><a href="#bm3">n</a> Video+Mic, Amazon, $70 &lt;<a href="https://radicals.world/zO6ndt">https://radicals.world/zO6ndt</a>>. Alternative microphone, Amazon, $29 &lt;<a href="https://radicals.world/zErPki">https://radicals.world/zErPki</a>></li>
+</ol>
