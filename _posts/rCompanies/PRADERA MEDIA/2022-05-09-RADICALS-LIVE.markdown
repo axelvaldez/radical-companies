@@ -273,11 +273,10 @@ image:    "pradera-background.svg"
  <h2>Direction</h2>
   <p>Recording will take two to four 1 hours.</p>
   <table style="font-size:smaller; ">
-   <tbody style="vertical-align:top; ">
-    <colgroup>
-     <col style="padding-right:1em; width:20en; ">
-     <col style="padding-left:1em; ">
-    </colgroup>
+   <colgroup style="">
+    <col style="width:12en; border-right:1px solid black; vertical-align:top; font-size:smaller; ">
+   </colgroup>
+   <tbody>
     <tr>
      <td>Onboarding</td>
      <td>a</td>
