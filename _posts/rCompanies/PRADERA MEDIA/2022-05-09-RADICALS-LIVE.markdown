@@ -369,12 +369,12 @@ image:    "pradera-background.svg"
   <table>
    <colgroup>
     <col style="padding-right:1em; border-right:1px solid black; width:20en;">
-    <col style="padding-left:1em; ">
+    <col>
    </colgroup>
   <tbody style="font-size:smaller; vertical-align:top; ">
    <tr>
     <td style="font-weight:bold; text-align:right; ">Promotion</td>
-    <td>It involves everything from posting the content to promoting the content for audience growth.
+    <td style="padding-left:1em; ">It involves everything from posting the content to promoting the content for audience growth.
      <ul>
       <li>Posting – Post all content to all necessary platforms. This includes video and audio podcast channels.</li>
       <li>Online Promotion – Actively promote content online by spreading through forums and sending to relevant key  players in the field.</li>
@@ -388,7 +388,7 @@ image:    "pradera-background.svg"
    </tr>
    <tr>
     <td style="font-weight:bold; text-align:right; padding-right:1em; ">Syndication</td>
-    <td>Share the distribution package with,
+    <td style="padding-left:1em; ">Share the distribution package with,
      <ul>
       <li>Bloggers.</li>
       <li>Podcasters.</li>
