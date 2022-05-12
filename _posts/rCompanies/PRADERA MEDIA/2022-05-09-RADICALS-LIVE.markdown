@@ -310,7 +310,7 @@ image:    "pradera-background.svg"
  <h2>Production</h2>
   <table>
    <colgroup>
-    <col style="text-align:right; font-weight:bold; border-right:1px solid black; width:20en; ">
+    <col style="text-align:right; font-weight:bold; border-right:1px solid black; width:30en; ">
     <col style="border-left:1px solid black; ">
    </colgroup>
    <tbody style="font-size:smaller; width:20en; font-size:smaller; vertical-align:top; padding-right:1em; ">
