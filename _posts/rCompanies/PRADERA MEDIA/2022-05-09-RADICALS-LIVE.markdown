@@ -330,7 +330,7 @@ image:    "pradera-background.svg"
     </tr>
     <tr>
      <td style="font-weight:bold; text-align:right; padding-right:1em; ">Recruiting</td>
-     <td>
+     <td style="padding-left:1em; ">
       <ul>
        <li>Send intro emails. If possible, the <span style="font-size:smaller; ">ICONOCLAST</span>s can help make these intros emails a bit &ldquo;warmer.&rdquo;</li>
        <li>Following up with non-respondents.</li>
@@ -344,7 +344,7 @@ image:    "pradera-background.svg"
     </tr>
     <tr>
      <td style="font-weight:bold; text-align:right; padding-right:1em; ">Production</td>
-     <td>Involves everything during the process of recording,
+     <td style="padding-left:1em; ">Involves everything during the process of recording,
       <ul>
        <li>Set Prep – Ensuring the set looks professional and well dressed as well as ensuring all equipment is set up and functioning optimally.</li>
        <li>Video and Audio Production - Ensuring an audio engineer and videographer and present and recording all that needs to be shot.</li>
