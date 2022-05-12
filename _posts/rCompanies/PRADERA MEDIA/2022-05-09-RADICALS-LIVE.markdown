@@ -358,7 +358,7 @@ image:    "pradera-background.svg"
     </tr>
     <tr>
      <td style="font-weight:bold; text-align:right; padding-right:1em; ">Post Production</td>
-     <td>All video and audio editing from source recording.</td>
+     <td style="padding-left:1em; ">All video and audio editing from source recording.</td>
     </tr>
     <tr>
      <td colspan="2">&nbsp;</td>
