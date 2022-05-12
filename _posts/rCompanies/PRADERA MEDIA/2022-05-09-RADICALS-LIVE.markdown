@@ -288,8 +288,6 @@ image:    "pradera-background.svg"
        <li>How to watch out for direction to get back on topic.</li>
       </ul>
      </td>
-     <td>
-     </td>
     </tr>
     <tr>
      <td colspan="4" style="font-size:2px; ">&nbsp;</td>
