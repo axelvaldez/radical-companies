@@ -293,7 +293,7 @@ image:    "pradera-background.svg"
      <td colspan="4" style="font-size:2px; ">&nbsp;</td>
     </tr>
     <tr>
-     <td>Direction</td>
+     <td style="font-weight:bold; text-align:right; padding-right:1em; ">Direction</td>
      <td>
       <ul>
        <li>Pausing when the Iconoclasts way goes off subject and helping them get back on track.</li>
