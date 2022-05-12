@@ -326,7 +326,7 @@ image:    "pradera-background.svg"
      </td>
     </tr>
     <tr>
-     <td colspan="2">&nbsp;</td>
+     <td colspan="4" style="font-size:2px; ">&nbsp;</td>
     </tr>
     <tr>
      <td style="font-weight:bold; text-align:right; padding-right:1em; ">Recruiting</td>
@@ -340,7 +340,7 @@ image:    "pradera-background.svg"
      </td>
     </tr>
     <tr>
-     <td colspan="2">&nbsp;</td>
+     <td colspan="4" style="font-size:2px; ">&nbsp;</td>
     </tr>
     <tr>
      <td style="font-weight:bold; text-align:right; padding-right:1em; ">Production</td>
@@ -354,10 +354,10 @@ image:    "pradera-background.svg"
      </td>
     </tr>
     <tr>
-     <td colspan="2">&nbsp;</td>
+     <td colspan="4" style="font-size:2px; ">&nbsp;</td>
     </tr>
     <tr>
-     <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Post Production</td>
+     <td style="font-weight:bold; text-align:right; padding-right:1em; ">Post Production</td>
      <td>All video and audio editing from source recording.</td>
     </tr>
     <tr>
@@ -384,7 +384,7 @@ image:    "pradera-background.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2">&nbsp;</td>
+     <td colspan="4" style="font-size:2px; ">&nbsp;</td>
    </tr>
    <tr>
     <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Syndication</td>
