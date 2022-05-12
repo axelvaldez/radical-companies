@@ -369,7 +369,7 @@ image:    "pradera-background.svg"
   <table>
    <colgroup>
     <col style="font-size:smaller; text-align:right; font-weight:bold; border-right:1px solid black; ">
-    <col style="font-size:smaller; border-left:1px solid black; ">
+    <col style="font-size:smaller; border-left:1px solid black; padding-left:1em; ">
    </colgroup>
   <tbody style="font-size:smaller; vertical-align:top; ">
    <tr>
