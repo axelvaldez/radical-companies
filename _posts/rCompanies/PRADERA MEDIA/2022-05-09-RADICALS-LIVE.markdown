@@ -274,7 +274,7 @@ image:    "pradera-background.svg"
   <p>Recording will take two to four hours.</p>
   <table>
    <colgroup style="">
-    <col style="width:20en; border-right:1px solid black; padding-right:1em; ">
+    <col style="border-right:1px solid black; width:20en; ">
     <col>
    </colgroup>
    <tbody style="font-size:smaller; vertical-align:top; ">
@@ -310,8 +310,8 @@ image:    "pradera-background.svg"
  <h2>Production</h2>
   <table>
    <colgroup>
-    <col style="text-align:right; font-weight:bold; border-right:1px solid black; ">
-    <col style="border-left:1px solid black; padding-left:1em; ">
+    <col style="text-align:right; font-weight:bold; border-right:1px solid black; width:20en; ">
+    <col style="border-left:1px solid black; ">
    </colgroup>
    <tbody style="font-size:smaller; width:20en; font-size:smaller; vertical-align:top; padding-right:1em; ">
     <tr>
@@ -368,7 +368,7 @@ image:    "pradera-background.svg"
  <h2>Marketing & Sales</h2>
   <table>
    <colgroup>
-    <col style="padding-right:1em; border-right:1px solid black; width:20en;">
+    <col style="padding-right:1em; border-right:1px solid black; width:20en; ">
     <col>
    </colgroup>
   <tbody style="font-size:smaller; vertical-align:top; ">
