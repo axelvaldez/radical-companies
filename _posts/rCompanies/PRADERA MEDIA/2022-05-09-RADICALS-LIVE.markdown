@@ -188,12 +188,12 @@ image:    "pradera-background.svg"
   </tr>
  </tbody>
  <colgroup>
-  <col style="width:12en; border-right:1px solid black; vertical-align:top; font-size:smaller; ">
+  <col style="width:12en; border-right:1px solid black; font-size:smaller; ">
   <col style="background-color:#eee; ">
   <col style="">
   <col style="background-color:#eee; ">
  </colgroup>
- <tbody>
+ <tbody style="vertical-align:top; ">
   <tr>
    <td style="font-weight:bold; text-align:right; padding-right:1em; ">Episode</td>
    <td>
