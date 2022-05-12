@@ -274,12 +274,12 @@ image:    "pradera-background.svg"
   <p>Recording will take two to four hours.</p>
   <table style="font-size:smaller; ">
    <colgroup style="">
-    <col style="width:15en; border-right:1px solid black; padding-right:1em; font-size:smaller; ">
+    <col style="width:15en; border-right:1px solid black; font-size:smaller; ">
     <col>
    </colgroup>
    <tbody style="vertical-align:top; ">
     <tr>
-     <td>Onboarding</td>
+     <td style="font-weight:bold; text-align:right; padding-right:1em; ">Onboarding</td>
      <td>
       <ul>
        <li>Practice recording: Lets the Iconoclasts get his “pitch” out of his system.</li>
