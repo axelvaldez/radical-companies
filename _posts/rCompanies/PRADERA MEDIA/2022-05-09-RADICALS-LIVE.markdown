@@ -187,8 +187,8 @@ image:    "pradera-background.svg"
    <th>Target Audience</th>
   </tr>
  </tbody>
- <colgroup style="">
-  <col style="width:12en; border-right:1px solid black; vertical-align:top; font-size:smaller; ">
+ <colgroup>
+  <col style="width:15en; border-right:1px solid black; vertical-align:top; font-size:smaller; ">
   <col style="background-color:#eee; ">
   <col style="">
   <col style="background-color:#eee; ">
@@ -275,6 +275,7 @@ image:    "pradera-background.svg"
   <table style="font-size:smaller; ">
    <colgroup style="">
     <col style="width:15en; border-right:1px solid black; vertical-align:top; font-size:smaller; ">
+    <col>
    </colgroup>
    <tbody>
     <tr>
