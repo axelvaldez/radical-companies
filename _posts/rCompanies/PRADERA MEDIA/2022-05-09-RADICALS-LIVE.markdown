@@ -368,7 +368,7 @@ image:    "pradera-background.svg"
  <h2>Marketing & Sales</h2>
   <table>
    <colgroup>
-    <col style="padding-right:1em; border-right:1px solid black; width:20en; ">
+    <col style="padding-right:1em; border-right:1px solid black; width:25en; ">
     <col>
    </colgroup>
   <tbody style="font-size:smaller; vertical-align:top; ">
@@ -402,3 +402,10 @@ image:    "pradera-background.svg"
    </tr>
   </tbody>
  </table>
+
+<h1>Endnotes</h1>
+ <p>1.	<a href="#bookmark=id.yk9xom7rbsjf">n</a> <em>Iconoclasts</em>. HBO Series, 2205-2012 &lt;<a href="https://radicals.world/qDs5o9">https://radicals.world/qDs5o9</a>></p>
+ <p>2.	<a href="#bookmark=id.89w8uold3azw">n</a> “Iconoclasts” would be the perfect name for this show, wouldn’t it? (Hey, <a href="https://www.youtube.com/watch?v=IdaHRoxNMZQ&feature=youtu.be&t=3">HBO/Grey Goose</a>, can we talk?) &lt;<a href="https://radicals.world/d8ykRz">https://radicals.world/d8ykRz</a>></p>
+ <p>3.	<a href="#bookmark=id.tizcrc5nkutc">n</a> BANNIO 4.7Ft Green Screen. Amazon, $29 &lt;<a href="https://radicals.world/DJXfXq">https://radicals.world/DJXfXq</a>></p>
+ <p>4.	<a href="#bookmark=id.1g02rwj8p6a9">n</a> Video+Mic, Amazon, $70 &lt;<a href="https://radicals.world/zO6ndt">https://radicals.world/zO6ndt</a>>. Alternative microphone, Amazon, $29 &lt;<a href="https://radicals.world/zErPki">https://radicals.world/zErPki</a>></p>
+
