@@ -214,7 +214,7 @@ image:    "pradera-background.svg"
      <li>50 min</li>
     </ul>
    </td>
-   <td style="font-weight:bold; text-align:right; padding-right:1em; ">Edited</td>
+   <td>Edited</td>
    <td>For general distribution</td>
   </tr>
   <tr>
@@ -368,8 +368,8 @@ image:    "pradera-background.svg"
  <h2>Marketing & Sales</h2>
   <table>
    <colgroup>
-    <col style="border-right:1px solid black; padding-right:1em; width:20en;">
-    <col style="border-left:1px solid black; padding-left:1em; ">
+    <col style="padding-right:1em; border-right:1px solid black; width:20en;">
+    <col style="padding-left:1em; ">
    </colgroup>
   <tbody style="font-size:smaller; vertical-align:top; ">
    <tr>
