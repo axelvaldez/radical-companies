@@ -392,8 +392,8 @@ image:    "pradera-background.svg"
      <ul>
       <li>Bloggers.</li>
       <li>Podcasters.</li>
-      <li>Writers, editors, and publishers. Leverage the <span style="font-size:smaller; ">ICONOCLAST</span>s&lsquo; connections whenever possible (<em>e.g.</em>, Doug writes for Huffspot, Chuck for Inc magazine).</li>
-      <li>sadio and TV producers and hosts.</li>
+      <li>Writers, editors, and publishers. Leverage the <span style="font-size:smaller; ">ICONOCLAST</span>s&lsquo; connections whenever possible.</li>
+      <li>Radio and TV producers and hosts.</li>
      </ul> 
     </td>
    </tr>
