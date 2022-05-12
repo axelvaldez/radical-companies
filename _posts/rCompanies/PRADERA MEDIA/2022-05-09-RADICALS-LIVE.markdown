@@ -368,12 +368,12 @@ image:    "pradera-background.svg"
  <h2>Marketing & Sales</h2>
   <table>
    <colgroup>
-    <col style="text-align:right; font-weight:bold; border-right:1px solid black; ">
+    <col style="border-right:1px solid black; padding-right:1em; width:20en;">
     <col style="border-left:1px solid black; padding-left:1em; ">
    </colgroup>
   <tbody style="font-size:smaller; vertical-align:top; ">
    <tr>
-    <td style="font-weight:bold; text-align:right; padding-right:1em; ">Promotion</td>
+    <td style="font-weight:bold; text-align:right; ">Promotion</td>
     <td>It involves everything from posting the content to promoting the content for audience growth.
      <ul>
       <li>Posting – Post all content to all necessary platforms. This includes video and audio podcast channels.</li>
