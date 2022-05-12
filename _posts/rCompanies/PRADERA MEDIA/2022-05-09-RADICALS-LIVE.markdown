@@ -311,7 +311,7 @@ image:    "pradera-background.svg"
   <table>
    <colgroup>
     <col style="font-size:smaller; text-align:right; font-weight:bold; border-right:1px solid black; ">
-    <col>
+    <col style="font-size:smaller; border-left:1px solid black; ">
    </colgroup>
    <tbody style="width:20en; font-size:smaller; vertical-align:top; padding-right:1em; ">
     <tr>
@@ -368,8 +368,8 @@ image:    "pradera-background.svg"
  <h2>Marketing & Sales</h2>
   <table>
    <colgroup>
-    <col style="width:15en; border-right:1px solid black; padding-right:1em; font-size:smaller; text-align:right; font-weight:bold; ">
-    <col>
+    <col style="font-size:smaller; text-align:right; font-weight:bold; border-right:1px solid black; ">
+    <col style="font-size:smaller; border-left:1px solid black; ">
    </colgroup>
   <tbody style="font-size:smaller; vertical-align:top; ">
    <tr>
