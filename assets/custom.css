@@ -137,6 +137,10 @@ section, footer{
   background-color: var(--color-text);
 }
 
+.bg-hover-accent:hover{
+  background-color: var(--color-acc-1);
+}
+
 .text-accent{
   color: var(--color-acc-1);
 }
@@ -175,6 +179,14 @@ section, footer{
     background-repeat: no-repeat;
 }
 
+.ripped-top-alt{
+  padding-top: 7rem;
+  background-image: url(img/rip-2.png);
+  background-position: center top;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
 .ripped-top{
   padding-top: 7rem;
   background-image: url(img/rip-1.png);
@@ -183,11 +195,26 @@ section, footer{
   background-repeat: no-repeat;
 }
 
+.section-buy{
+  background:
+    url(img/rip-1.png),
+    linear-gradient(var(--color-light) 0, var(--color-light) 50%, var(--color-acc-1) 50%, var(--color-acc-1) 100%);
+  background-position: center center, center top;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
 footer{
     padding-top: 10rem;
-    background-image: url(img/rip-3.png);
+    background-image: url(img/rip-4.png);
     background-position: center top;
     background-size: 100%;
     background-repeat: no-repeat;
     font-family: "Roboto", sans-serif;
+}
+
+@media (min-width: 1024px){
+  .hero-img{
+    margin-left: -250px;
+  }
 }
