@@ -274,7 +274,7 @@ image:    "pradera-background.svg"
   <p>Recording will take two to four hours.</p>
   <table style="font-size:smaller; ">
    <colgroup style="">
-    <col style="width:15en; border-right:1px solid black; font-size:smaller; ">
+    <col style="width:15en; border-right:1px solid black; padding-right:1em; font-size:smaller; ">
     <col>
    </colgroup>
    <tbody style="vertical-align:top; ">
@@ -368,10 +368,10 @@ image:    "pradera-background.svg"
  <h2>Marketing & Sales</h2>
   <table>
    <colgroup>
-    <col style="width:15en; text-align:right; font-weight:bold; ">
+    <col style="width:15en; border-right:1px solid black; padding-right:1em; font-size:smaller; text-align:right; font-weight:bold; ">
     <col>
    </colgroup>
-  <tbody style="font-size:smaller; vertical-align:top;  padding-right:1em;">
+  <tbody style="font-size:smaller; vertical-align:top; ">
    <tr>
     <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Promotion</td>
     <td>It involves everything from posting the content to promoting the content for audience growth.
