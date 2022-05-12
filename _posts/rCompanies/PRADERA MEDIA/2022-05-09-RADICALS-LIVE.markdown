@@ -313,7 +313,7 @@ image:    "pradera-background.svg"
     <col style="font-size:smaller; text-align:right; font-weight:bold; ">
     <col>
    </colgroup>
-   <tbody style="width:15en; font-size:smaller; vertical-align:top;  padding-right:1em;">
+   <tbody style="width:15en; font-size:smaller; vertical-align:top; padding-right:1em; ">
     <tr>
      <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Planning</td>
      <td style="padding-left:1em; ">Includes all preparations before a show for optimal experience,
