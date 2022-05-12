@@ -271,7 +271,7 @@ image:    "pradera-background.svg"
 
 <h1>Roles and Activities</h1>
  <h2>Direction</h2>
-  <p>Recording will take two to four 1 hours.</p>
+  <p>Recording will take two to four hours.</p>
   <table style="font-size:smaller; ">
    <colgroup style="">
     <col style="width:15en; border-right:1px solid black; vertical-align:top; font-size:smaller; ">
