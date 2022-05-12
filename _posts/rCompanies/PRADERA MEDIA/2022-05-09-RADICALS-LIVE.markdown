@@ -282,8 +282,8 @@ image:    "pradera-background.svg"
      <td>Onboarding</td>
      <td>
       <ul>
-       <li>Practice recording: Lets the LIVEr get his “pitch” out of his system.</li>
-       <li>Reminding each LIVEr of the primary topic.</li>
+       <li>Practice recording: Lets the Iconoclasts get his “pitch” out of his system.</li>
+       <li>Reminding each Iconoclasts of the primary topic.</li>
        <li>Hints of how to get started.</li>
        <li>How to watch out for direction to get back on topic.</li>
       </ul>
@@ -296,9 +296,9 @@ image:    "pradera-background.svg"
      <td>Direction</td>
      <td>
       <ul>
-       <li>Pausing when the LIVEr way goes off subject and helping them get back on track.</li>
+       <li>Pausing when the Iconoclasts way goes off subject and helping them get back on track.</li>
        <li>Handling bathroom breaks and other unavoidable interruptions.</li>
-       <li>Moving from one location to another. Ideally, the LIVEr pairs should move to different locations (<em>e.g.</em>, inside/outside, sitting/standing, walking) every 20-30 minutes or so.</li>
+       <li>Moving from one location to another. Ideally, the Iconoclasts pairs should move to different locations (<em>e.g.</em>, inside/outside, sitting/standing, walking) every 20-30 minutes or so.</li>
       </ul>
      </td>
     </tr>
