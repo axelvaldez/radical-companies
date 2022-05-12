@@ -274,7 +274,7 @@ image:    "pradera-background.svg"
   <p>Recording will take two to four 1 hours.</p>
   <table style="font-size:smaller; ">
    <colgroup style="">
-    <col style="width:12en; border-right:1px solid black; vertical-align:top; font-size:smaller; ">
+    <col style="width:15en; border-right:1px solid black; vertical-align:top; font-size:smaller; ">
    </colgroup>
    <tbody>
     <tr>
@@ -293,7 +293,7 @@ image:    "pradera-background.svg"
     <col style="font-size:smaller; text-align:right; font-weight:bold; ">
     <col>
    </colgroup>
-   <tbody style="width:10em; font-size:smaller; vertical-align:top;  padding-right:1em;">
+   <tbody style="width:15en; font-size:smaller; vertical-align:top;  padding-right:1em;">
     <tr>
      <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Planning</td>
      <td style="padding-left:1em; ">Includes all preparations before a show for optimal experience,
