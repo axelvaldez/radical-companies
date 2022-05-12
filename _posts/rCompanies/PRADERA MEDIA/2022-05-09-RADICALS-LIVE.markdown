@@ -368,7 +368,7 @@ image:    "pradera-background.svg"
  <h2>Marketing & Sales</h2>
   <table>
    <colgroup>
-    <col style="width:10em; text-align:right; font-weight:bold; ">
+    <col style="width:15en; text-align:right; font-weight:bold; ">
     <col>
    </colgroup>
   <tbody style="font-size:smaller; vertical-align:top;  padding-right:1em;">
