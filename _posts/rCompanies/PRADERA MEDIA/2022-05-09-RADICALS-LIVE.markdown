@@ -278,16 +278,37 @@ image:    "pradera-background.svg"
    </colgroup>
    <tbody>
     <tr>
-     <td>Onboarding</td>
-     <td>a</td>
+     <td>Onboarding
+      <ul>
+       <li>Practice recording: Lets the LIVEr get his “pitch” out of his system.</li>
+       <li>Reminding each LIVEr of the primary topic.</li>
+       <li>Hints of how to get started.</li>
+       <li>How to watch out for direction to get back on topic.</li>
+      </ul>
+     </td>
+     <td>
+     </td>
     </tr>
     <tr>
-     <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Direction</td>
-     <td>b</td>
+     <td colspan="4" style="font-size:2px; ">&nbsp;</td>
+    </tr>
+    <tr>
+     <td>Direction</td>
+     <td>
+      <ul>
+       <li>Pausing when the LIVEr way goes off subject and helping them get back on track.</li>
+       <li>Handling bathroom breaks and other unavoidable interruptions.</li>
+       <li>Moving from one location to another. Ideally, the LIVEr pairs should move to different locations (<em>e.g.</em>, inside/outside, sitting/standing, walking) every 20-30 minutes or so.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td colspan="4">&nbsp;</td>
     </tr>
    </tbody>
   </table>
- <h2>Production</h2>
+  
+ <h1>Production</h1>
   <table>
    <colgroup>
     <col style="font-size:smaller; text-align:right; font-weight:bold; ">
