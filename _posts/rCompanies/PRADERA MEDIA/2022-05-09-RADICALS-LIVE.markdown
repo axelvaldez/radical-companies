@@ -272,12 +272,12 @@ image:    "pradera-background.svg"
 <h1>Roles and Activities</h1>
  <h2>Direction</h2>
   <p>Recording will take two to four hours.</p>
-  <table style="font-size:smaller; ">
+  <table>
    <colgroup style="">
-    <col style="width:20en; border-right:1px solid black; font-size:smaller; ">
+    <col style="width:20en; border-right:1px solid black; padding-right:1em; ">
     <col>
    </colgroup>
-   <tbody style="vertical-align:top; ">
+   <tbody style="font-size:smaller; vertical-align:top; ">
     <tr>
      <td style="font-weight:bold; text-align:right; padding-right:1em; ">Onboarding</td>
      <td>
@@ -310,10 +310,10 @@ image:    "pradera-background.svg"
  <h2>Production</h2>
   <table>
    <colgroup>
-    <col style="font-size:smaller; text-align:right; font-weight:bold; border-right:1px solid black; ">
-    <col style="font-size:smaller; border-left:1px solid black; ">
+    <col style="text-align:right; font-weight:bold; border-right:1px solid black; ">
+    <col style="border-left:1px solid black; ">
    </colgroup>
-   <tbody style="width:20en; font-size:smaller; vertical-align:top; padding-right:1em; ">
+   <tbody style="font-size:smaller; width:20en; font-size:smaller; vertical-align:top; padding-right:1em; ">
     <tr>
      <td style="font-weight:bold; text-align:right; padding-right:1em; ">Planning</td>
      <td style="padding-left:1em; ">Includes all preparations before a show for optimal experience,
@@ -368,12 +368,12 @@ image:    "pradera-background.svg"
  <h2>Marketing & Sales</h2>
   <table>
    <colgroup>
-    <col style="font-size:smaller; text-align:right; font-weight:bold; border-right:1px solid black; ">
-    <col style="font-size:smaller; border-left:1px solid black; padding-left:1em; ">
+    <col style="text-align:right; font-weight:bold; border-right:1px solid black; ">
+    <col style="border-left:1px solid black; padding-left:1em; ">
    </colgroup>
   <tbody style="font-size:smaller; vertical-align:top; ">
    <tr>
-    <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Promotion</td>
+    <td style="font-weight:bold; text-align:right; padding-right:1em; ">Promotion</td>
     <td>It involves everything from posting the content to promoting the content for audience growth.
      <ul>
       <li>Posting – Post all content to all necessary platforms. This includes video and audio podcast channels.</li>
@@ -387,7 +387,7 @@ image:    "pradera-background.svg"
      <td colspan="4" style="font-size:2px; ">&nbsp;</td>
    </tr>
    <tr>
-    <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Syndication</td>
+    <td style="font-weight:bold; text-align:right; padding-right:1em; ">Syndication</td>
     <td>Share the distribution package with,
      <ul>
       <li>Bloggers.</li>
