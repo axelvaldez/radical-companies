@@ -16,7 +16,7 @@ image:    "pradera-background.svg"
 </div>
 
 <h1>Intro</h1>
- <p>Iconoclasts talking.</p>
+ <p><span style="font-size:smaller; ">ICONOCLAST</span>s talking.</p>
 
 <h1>Alignment</h1>
 <table>
@@ -86,7 +86,7 @@ image:    "pradera-background.svg"
 </table>
 
 <h1>Format</h1>
- <p>The format is inspired by the HBO series Iconoclasts which featured &ldquo;an hour of personal conversation and storytelling.&rdquo; There are no &ldquo;hosts&rdquo; or &ldquo;guests,&rdquo; it is simply people talking about their journeys, going against the grain of traditional beliefs and institutions, projecting what the world would be like if they were wildly successful in their efforts.</p>
+ <p>The format is inspired by the HBO series <span style="font-size:smaller; ">ICONOCLAST</span>s which featured &ldquo;an hour of personal conversation and storytelling.&rdquo; There are no &ldquo;hosts&rdquo; or &ldquo;guests,&rdquo; it is simply people talking about their journeys, going against the grain of traditional beliefs and institutions, projecting what the world would be like if they were wildly successful in their efforts.</p>
 
 <h1>Modality</h1>
  <table>
@@ -282,8 +282,8 @@ image:    "pradera-background.svg"
      <td style="font-weight:bold; text-align:right; padding-right:1em; ">Onboarding</td>
      <td>
       <ul>
-       <li>Practice recording: Lets the Iconoclasts get his “pitch” out of his system.</li>
-       <li>Reminding each Iconoclasts of the primary topic.</li>
+       <li>Practice recording: Lets the <span style="font-size:smaller; ">ICONOCLAST</span>s get his “pitch” out of his system.</li>
+       <li>Reminding each <span style="font-size:smaller; ">ICONOCLAST</span>s of the primary topic.</li>
        <li>Hints of how to get started.</li>
        <li>How to watch out for direction to get back on topic.</li>
       </ul>
@@ -296,9 +296,9 @@ image:    "pradera-background.svg"
      <td style="font-weight:bold; text-align:right; padding-right:1em; ">Direction</td>
      <td>
       <ul>
-       <li>Pausing when the Iconoclasts way goes off subject and helping them get back on track.</li>
+       <li>Pausing when the <span style="font-size:smaller; ">ICONOCLAST</span>s way goes off subject and helping them get back on track.</li>
        <li>Handling bathroom breaks and other unavoidable interruptions.</li>
-       <li>Moving from one location to another. Ideally, the Iconoclasts pairs should move to different locations (<em>e.g.</em>, inside/outside, sitting/standing, walking) every 20-30 minutes or so.</li>
+       <li>Moving from one location to another. Ideally, the <span style="font-size:smaller; ">ICONOCLAST</span>s pairs should move to different locations (<em>e.g.</em>, inside/outside, sitting/standing, walking) every 20-30 minutes or so.</li>
       </ul>
      </td>
     </tr>
@@ -313,9 +313,9 @@ image:    "pradera-background.svg"
     <col style="font-size:smaller; text-align:right; font-weight:bold; ">
     <col>
    </colgroup>
-   <tbody style="width:15en; font-size:smaller; vertical-align:top; padding-right:1em; ">
+   <tbody style="width:20en; font-size:smaller; vertical-align:top; padding-right:1em; ">
     <tr>
-     <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Planning</td>
+     <td style="font-weight:bold; text-align:right; padding-right:1em; ">Planning</td>
      <td style="padding-left:1em; ">Includes all preparations before a show for optimal experience,
       <ul>
        <li>Schedule Guests – Making sure everyone is aware of the time, date and location of recording.</li>
@@ -329,7 +329,7 @@ image:    "pradera-background.svg"
      <td colspan="2">&nbsp;</td>
     </tr>
     <tr>
-     <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Recruiting</td>
+     <td style="font-weight:bold; text-align:right; padding-right:1em; ">Recruiting</td>
      <td>
       <ul>
        <li>Send intro emails. If possible, the <span style="font-size:smaller; ">ICONOCLAST</span>s can help make these intros emails a bit &ldquo;warmer.&rdquo;</li>
@@ -343,7 +343,7 @@ image:    "pradera-background.svg"
      <td colspan="2">&nbsp;</td>
     </tr>
     <tr>
-     <td style="text-align:right; padding-right:1em; border-right:1px solid black; ">Production</td>
+     <td style="font-weight:bold; text-align:right; padding-right:1em; ">Production</td>
      <td>Involves everything during the process of recording,
       <ul>
        <li>Set Prep – Ensuring the set looks professional and well dressed as well as ensuring all equipment is set up and functioning optimally.</li>
