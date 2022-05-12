@@ -311,7 +311,7 @@ image:    "pradera-background.svg"
   <table>
    <colgroup>
     <col style="text-align:right; font-weight:bold; border-right:1px solid black; ">
-    <col style="border-left:1px solid black; ">
+    <col style="border-left:1px solid black; padding-left:1em; ">
    </colgroup>
    <tbody style="font-size:smaller; width:20en; font-size:smaller; vertical-align:top; padding-right:1em; ">
     <tr>
