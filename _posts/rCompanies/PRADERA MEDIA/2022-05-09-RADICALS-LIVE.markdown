@@ -278,7 +278,8 @@ image:    "pradera-background.svg"
    </colgroup>
    <tbody>
     <tr>
-     <td>Onboarding
+     <td>Onboarding</td>
+     <td>
       <ul>
        <li>Practice recording: Lets the LIVEr get his “pitch” out of his system.</li>
        <li>Reminding each LIVEr of the primary topic.</li>
