@@ -373,7 +373,7 @@ image:    "pradera-background.svg"
    </colgroup>
   <tbody style="font-size:smaller; vertical-align:top; ">
    <tr>
-    <td style="font-weight:bold; text-align:right; ">Promotion</td>
+    <td style="font-weight:bold; text-align:right; padding-right:1em; ">Promotion</td>
     <td style="padding-left:1em; ">It involves everything from posting the content to promoting the content for audience growth.
      <ul>
       <li>Posting – Post all content to all necessary platforms. This includes video and audio podcast channels.</li>
