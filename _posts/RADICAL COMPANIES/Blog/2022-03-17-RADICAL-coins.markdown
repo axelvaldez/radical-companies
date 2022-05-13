@@ -32,13 +32,13 @@ image:    "en-decentralized-minting.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Terminology Used in this Doc</h1>
  <table>
   <colgroup>
-   <col style="margin-right:1em; text-align:right; border-right:1px solid black; ">
-   <col style="margin-left:1em; ">
+   <col style="border-right:1px solid black; ">
+   <col>
   </colgroup>
   <tbody>
    <tr style="vertical-align:text-top; ">
-    <td><strong>National Fiat Coin</strong></td>
-    <td>
+    <th style="text-align:right; margin-right:1em; ">National Fiat Coin</th>
+    <td style="margin-left:1em; ">
      <p>Throughout the rest of this document, you will notice that I stubbornly use “national fiat coin,” instead of “money” or “currency.” This is mostly to remind myself of a few key distinctions,</p>
      <ul>
       <li>“Money” is primarily a concept</li>
