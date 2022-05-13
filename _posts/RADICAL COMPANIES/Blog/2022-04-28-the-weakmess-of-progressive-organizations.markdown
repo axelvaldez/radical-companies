@@ -65,7 +65,7 @@ Mini-factories, and Squads.</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">RELATED</h2>
-<ul>
+<ul style="font-size:smaller; ">
  <li>RADICAL COMPANIES,</li>
   <ul>
    <li>English <<a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a>></li>
