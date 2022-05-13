@@ -63,7 +63,7 @@ image:    "en-alignment.svg"
    <p>The first thing to note about the police is that it is <em>a force</em>, carrying lethal weapons. They <em>fight</em> criminals, people who don’t abide by the rules and would harm the rest of us, well behaved citizens. We want them to do a lot besides that: caretakers and givers, arbiters, the calmest person in the room and the most aggressive person in the room. In the face of all these conflicting roles, they often default to the threat of violence and violence itself. I doubt that there’d be a need for specialized police—people would do most of it—but even if there is, it would be very different than it is today.</p>
    <p>Fire abatement has been around for a long time. At the beginning putting out fires was a paid FIAT business, “you have to pay before we put out the fire.” Eventually it became a public service. I imagine that fire abatement, paramedics, and disaster help would all come as a service paid for Banners.</p>
 
-<h1>County Government</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">County Government</h1>
  <p>These take care of school districts independent of cities. They also handle many city-like functions for unincorporated areas.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">State Government</h1>
