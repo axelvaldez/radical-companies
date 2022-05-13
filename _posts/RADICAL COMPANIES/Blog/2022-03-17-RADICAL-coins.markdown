@@ -57,7 +57,8 @@ image:    "en-decentralized-minting.svg"
    <tr>
     <td colspan="2" style="font-size:7px; ">&nbsp;</td>
    </tr>
- 1</table>
+  </tbody>
+1</table>
  <p style="text-indent:1em; ">To avoid confusion, in this document I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">A Historical Perspective</h1>
