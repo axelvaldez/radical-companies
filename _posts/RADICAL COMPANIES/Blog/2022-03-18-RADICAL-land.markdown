@@ -8,7 +8,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
 
 <div style="display: none;">What about land in a RADICAL world? Would you <em>own</em> it?</div>
 
-<div id="fnref1" style="background-color:#FFFAF0; padding:1em; border:1px solid CadetBlue; margin-bottom:20px; "> <!-- Opening Quotes -->
+<div id="fnref1" style="background-color:#FFFAF0; padding:1em; border:1px solid CadetBlue; margin-bottom:20px; ">
  <pre class="prettyprint" style="font-size:30px; text-align:center; font-family:American Typewriter, serif; white-space:normal; ">&ldquo;&hellip; I am in favor of cutting up the wild lands into parcels, <em>so that every poor man may have a home</em>.&rdquo;</pre>
  <pre style="text-align:right; ">&mdash; Abraham Lincoln<sup><a href="#fn1" rel="footnote">1</a></sup></pre>
 </div>
@@ -182,7 +182,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  </div>
 
 <h1 style="font-size:50px; text-align:center; ">RELATED</h1>
- <ul>
+ <ul style="font-size:smaller; ">
   <li>RADICAL COMPANIES,</li>
   <ul>
    <li>EN:                               <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
