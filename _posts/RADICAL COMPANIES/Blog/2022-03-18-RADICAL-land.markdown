@@ -167,24 +167,16 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <div class="endnotes">
   <ol>
    <li id="fn1">
-    <h6>
-     <a href="#fnref1">🔼</a>&nbsp;Abraham Lincoln, 16th USA President. Speech to Germans at Cincinnati, Ohio, February 12, 1861 <<a href="https://radicals.world/5jV3VN">https://radicals.world/5jV3VN</a>>
-    </h6>
+    <h6><a href="#fnref1"><img src="/assets/img/arrow-up-icon.png"></a>&nbsp;Abraham Lincoln, 16th USA President. Speech to Germans at Cincinnati, Ohio, February 12, 1861 <<a href="https://radicals.world/5jV3VN">https://radicals.world/5jV3VN</a>></h6>
    </li>
    <li id="fn2">
-    <h6>
-     <a href="#fnref2">🔼</a>&nbsp;Yanis Varoufakis. <em>Another Now</em> <<a href="https://a.co/90kfjT7">https://a.co/90kfjT7</a>>. Melville House, 2021.
-    </h6>
+    <h6><a href="#fnref2"><img src="/assets/img/arrow-up-icon.png"></a>&nbsp;Yanis Varoufakis. <em>Another Now</em> <<a href="https://a.co/90kfjT7">https://a.co/90kfjT7</a>>. Melville House, 2021.</h6>
    </li>
    <li id="fn3">
-    <h6>
-     <a href="#fnref3">🔼</a>&nbsp;Wikipedia Commons. <a href="https://radicals.world/GlK2oV">Political performance art by Fay Lewis in Rockford, Illinois, USA, in 1914</a>. <<a href="https://radicals.world/GlK2oV">https://radicals.world/GlK2oV</a>>
-    </h6>
+    <h6><a href="#fnref3"><img src="/assets/img/arrow-up-icon.png"></a>&nbsp;Wikipedia Commons. <a href="https://radicals.world/GlK2oV">Political performance art by Fay Lewis in Rockford, Illinois, USA, in 1914</a>. <<a href="https://radicals.world/GlK2oV">https://radicals.world/GlK2oV</a>></h6>
    </li>
    <li id="fn4">
-    <h6>
-     <a href="#fnref4">🔼</a>&nbsp;I must admit that this aspect of the RADICAL model would be a pushover for malevolent outer space FIAT invaders.
-    </h6>
+    <h6><a href="#fnref4"><img src="/assets/img/arrow-up-icon.png"></a>&nbsp;I must admit that this aspect of the RADICAL model would be a pushover for malevolent outer space FIAT invaders.</h6>
    </li>
   </ol>
  </div>
