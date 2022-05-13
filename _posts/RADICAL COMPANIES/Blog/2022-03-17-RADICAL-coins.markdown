@@ -32,10 +32,10 @@ image:    "en-decentralized-minting.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Terminology Used in this Doc</h1>
  <table>
   <colgroup>
-   <col style="margin-right:1em; ">
+   <col style="margin-right:1em; border-right:1px solid black; ">
    <col style="margin-left:1em; ">
   </colgroup>
-  <tbody style="border-right:1px solid black; ">
+  <tbody>
    <tr style="vertical-align:text-top; ">
     <td><strong>National Fiat Coin</strong></td>
     <td>
