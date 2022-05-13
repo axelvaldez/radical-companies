@@ -33,7 +33,7 @@ image:    "about-daos.svg"
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">ENDNOTES</h1>
  <ol>
-  <li id="en01"><a href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="width:45px; "></a> David Rosenthal. <a href="https://blog.dshr.org/2022/02/ee380-talk.html">EE380 Talk</a>. Feb 9, 2022.</li>
+  <li id="en01"><a href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="width:35px; "></a> David Rosenthal. <a href="https://blog.dshr.org/2022/02/ee380-talk.html">EE380 Talk</a>. Feb 9, 2022.</li>
  </ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
