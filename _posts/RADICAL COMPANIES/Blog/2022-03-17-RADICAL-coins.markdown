@@ -16,7 +16,7 @@ image:    "en-decentralized-minting.svg"
  we'd still be His Majesty's subjects</pre>
 </div>
 
-<h1 style="font-family:Courier New, monospace; ">Hoarding Is Violence</h2>
+<h1 style="font-family:Courier New, monospace; ">Hoarding Is Violence</h1>
  <p style="text-indent:1em; ">Today, money is the canonical medium of exchange and that is what we assumed in our book, <span style="font-size: smaller; ">RADICAL COMPANIES</span>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> After all, we need money to pay our bills and as a medium of exchange to buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people. This is problematic and leads to the most serious problems we face today.</p>
  <p style="text-indent:1em; ">For this and other reasons, I now believe that we should have a universal medium of exchange, like <SPAN STYLE="font-size: smaller; ">RADICAL COIN</SPAN>s that doesn’t have the baggage of national fiat money and can help us transform to a human centered economy.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup></p>
  <p style="text-indent:1em; ">Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function as,</p>
