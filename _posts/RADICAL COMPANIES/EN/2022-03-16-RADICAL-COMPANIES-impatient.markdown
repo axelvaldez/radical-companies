@@ -333,7 +333,7 @@ image:    "dynamic-distribution-1.svg"
  </ol>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">RELATED</h1>
- <ul>
+ <ul style="font-size:smaller; ">
   <li>RADICAL COMPANIES,</li>
   <ul>
     <li>EN: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
