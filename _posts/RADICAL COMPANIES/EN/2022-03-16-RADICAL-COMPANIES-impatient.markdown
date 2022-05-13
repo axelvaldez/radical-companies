@@ -58,7 +58,7 @@ image:    "dynamic-distribution-1.svg"
   </ul>
   <p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed and by the people involved.</p>
   <div id="fnref1"> </div>
-   <p>Unlike in a FIAT business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time. “An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup><a href="#fn1" rel="footnote">1</a></sup></p>
+   <p>Unlike in a FIAT business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time. “An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Alignment Must Be Explicit and Transparent</h2>
   <p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, we first need to be explicit about the company’s IMPACT  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump tje, in different ways. No matter, they have to be explicit and completely open and accessible to everyone.</p>
   <p>The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,</p>
@@ -325,11 +325,11 @@ image:    "dynamic-distribution-1.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
-  <li id="fn1"><a href="%2"><img src="/assets/img/arrow-up-icon.png"></a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>). May 4, 2020.</li>
-  <li id="fn2"><a href="%2"><img src="/assets/img/arrow-up-icon.png"></a>This is also a gesture popularized in <a href="https://en.wikipedia.org/wiki/The_Hunger_Games">The Hunger Games</a> movies to express unity with people striving to survive. Since 2014 it has also become a symbol of <a href="https://radicals.world/pG9bAM">pro-democracy in Thailand</a> (alt., <a href="https://diigo.com/0iu409">here</a>). Very apropos.</li>
-  <li id="fn3"><a href="%2"><img src="/assets/img/arrow-up-icon.png"></a>Dave Logan. How to Develop Your Noble Obsession (alt., <a href="">here</a>). Aug 5, 2013.</li>
-  <li id="fn4"><a href="%2"><img src="/assets/img/arrow-up-icon.png"></a><a href="https://en.wikipedia.org/wiki/Philip_Rosedale">Philip Rosedale</a> introduced the tool in 2005 when Linden Labs had about 50 employees.</li>
-  <li id="fn5"><a href="%2"><img src="/assets/img/arrow-up-icon.png"></a>James Owen. <a href="https://www.goodreads.com/quotes/1279415-it-ain-t-bragging-if-you-ve-done-it-there-s-nothing-wrong">Drawing Out the Dragons: A Meditation on Art, Destiny, and the Power of Choice</a> (alt., <a href="https://diigo.com/0ofgkz">here</a>). 2014.</li>
+  <li id="fn1"><a href="#fnref1"><img src="/assets/img/arrow-up-icon.png"></a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>). May 4, 2020.</li>
+  <li id="fn2"><a href="#fnref2"><img src="/assets/img/arrow-up-icon.png"></a>This is also a gesture popularized in <a href="https://en.wikipedia.org/wiki/The_Hunger_Games">The Hunger Games</a> movies to express unity with people striving to survive. Since 2014 it has also become a symbol of <a href="https://radicals.world/pG9bAM">pro-democracy in Thailand</a> (alt., <a href="https://diigo.com/0iu409">here</a>). Very apropos.</li>
+  <li id="fn3"><a href="#fnref3"><img src="/assets/img/arrow-up-icon.png"></a>Dave Logan. How to Develop Your Noble Obsession (alt., <a href="">here</a>). Aug 5, 2013.</li>
+  <li id="fn4"><a href="#fnref4"><img src="/assets/img/arrow-up-icon.png"></a><a href="https://en.wikipedia.org/wiki/Philip_Rosedale">Philip Rosedale</a> introduced the tool in 2005 when Linden Labs had about 50 employees.</li>
+  <li id="fn5"><a href="#fnref5"><img src="/assets/img/arrow-up-icon.png"></a>James Owen. <a href="https://www.goodreads.com/quotes/1279415-it-ain-t-bragging-if-you-ve-done-it-there-s-nothing-wrong">Drawing Out the Dragons: A Meditation on Art, Destiny, and the Power of Choice</a> (alt., <a href="https://diigo.com/0ofgkz">here</a>). 2014.</li>
  </ol>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">RELATED</h1>
