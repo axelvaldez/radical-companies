@@ -6,86 +6,82 @@ authors:  "Matt PEREZ | Adrian PEREZ | Jose LEAL"
 image:    "dynamic-distribution-1.svg"
 ---
 
-<div style="display:none;">An short walkthrough the <span style="font-size: smaller; ">RADICAL</span> Model</div>
+<div style="display:none;">
+ <p>A short walkthrough the <span style="font-size: smaller; ">RADICAL</span> Model</p>
+</div>
 
-<h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; ">The <span style="font-size:smaller; ">RADICAL</span> Model</h1>
-
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">The <span style="font-size:smaller; ">RADICAL</span> Model</h1>
  <h2>Businesses-as-Dictatorships Hurt Us</h2>
- <p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.</p>
- <p>Nature follows a simple path to create big beautiful things out of unpretentious, small ones. From a tiny seed to a mighty oak tree. We don’t think that a long list of principles or color scales or a 17 page constitution are necessary to make a fundamental change. Eventually, these can become dogma, a form of force, and get in the way.</p>
- <p> With that in mind, we came up with what we think are the most basic foundations to support our coming together to share work and wealth.</p>
-
+  <p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.</p>
+  <p>Nature follows a simple path to create big beautiful things out of unpretentious, small ones. From a tiny seed to a mighty oak tree. We don’t think that a long list of principles or color scales or a 17 page constitution are necessary to make a fundamental change. Eventually, these can become dogma, a form of force, and get in the way.</p>
+  <p> With that in mind, we came up with what we think are the most basic foundations to support our coming together to share work and wealth.</p>
  <h2>Easy-to-Remember Foundation for a <span style="font-size:smaller; ">RADICAL</span> Company</h2>
- <p>In the RADICAL world, a company is what we call a group of people who come together to build something bigger than themselves. In fact, the word "company" comes from the Latin prefix <em>con-</em>, meaning together, and <em>pan</em>, meaning bread: people who break bread together.</p>
- <p>Every company is different because the people who embody it are different, and every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence,</p>
- <table align="center">
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; background-color:#EEEEEE; ">Meaning &<br>Belonging</td>
-   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
-   <td valign="top"><em>relationships</em></td>
-  </tr>
-  <tr>
-   <td style="background-color: white; height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; background-color:#EEEEEE;">Transparency &<br>Decentralization</td>
-   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
-   <td valign="top"><em>autonomy</em></td>
-  </tr>
-  <tr>
-   <td style="background-color: white; height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; background-color:#EEEEEE; ">Alignment &<br>Experimentation</td>
-   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
-   <td valign="top"><em>collaboration</em></td>
-  </tr>
-  <tr>
-   <td colspan="4">&nbsp;</td>
-  </tr>
- </table>
- <p>Other practices can be layered on top of these, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company these are essential, otherwise it is just a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business with ain’t-we-nice sprinkled on top.</p>
- <ul>
-  <li>Will this reduce the autonomy of people to find meaning? (<em>e.g.</em>, "This is has be done by&hellip;&nbsp;")</li>
-  <li>Are we taking people's autonomy to determine who they work with? (<em>e.g.</em>, pre-assigned "teams")</li>
-  <li>Will this make it more or less centralized? (<em>e.g.</em>, having an entitled subcommittee)</li>
-  <li>Will this decision make us more or less transparent? (<em>e.g.</em>, predetermining budgets)</li>
-  <li>Does this go against our agreed upon alignment? (<em>e.g.</em>, "We have to do this for a little while&hellip;&nbsp;")</li>
-  <li>Are we allowing for experimentation? (<em>e.g.</em>, "This has to meet these requirement <em>and</em> it has to be done this way&hellip;&nbsp;")</li>
- </ul>
- <p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed and by the people involved.</p>
- <div id="fnref1"> </div>
- <p>Unlike in a FIAT business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time. “An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup><a href="#fn1" rel="footnote">1</a></sup></p>
-
-
+  <p>In the RADICAL world, a company is what we call a group of people who come together to build something bigger than themselves. In fact, the word "company" comes from the Latin prefix <em>con-</em>, meaning together, and <em>pan</em>, meaning bread: people who break bread together.</p>
+  <p>Every company is different because the people who embody it are different, and every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence,</p>
+  <table align="center">
+   <tr>
+    <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
+    <td style="text-align:center; background-color:#EEEEEE; ">Meaning &<br>Belonging</td>
+    <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+    <td valign="top"><em>relationships</em></td>
+   </tr>
+   <tr>
+    <td style="background-color: white; height: 7px;"></td>
+   </tr>
+   <tr>
+    <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
+    <td style="text-align:center; background-color:#EEEEEE;">Transparency &<br>Decentralization</td>
+    <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+    <td valign="top"><em>autonomy</em></td>
+   </tr>
+   <tr>
+    <td style="background-color: white; height: 7px;"></td>
+   </tr>
+   <tr>
+    <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
+    <td style="text-align:center; background-color:#EEEEEE; ">Alignment &<br>Experimentation</td>
+    <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+    <td valign="top"><em>collaboration</em></td>
+   </tr>
+   <tr>
+    <td colspan="4">&nbsp;</td>
+   </tr>
+  </table>
+  <p>Other practices can be layered on top of these, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company these are essential, otherwise it is just a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business with ain’t-we-nice sprinkled on top.</p>
+  <ul>
+   <li>Will this reduce the autonomy of people to find meaning? (<em>e.g.</em>, "This is has be done by&hellip;&nbsp;")</li>
+   <li>Are we taking people's autonomy to determine who they work with? (<em>e.g.</em>, pre-assigned "teams")</li>
+   <li>Will this make it more or less centralized? (<em>e.g.</em>, having an entitled subcommittee)</li>
+   <li>Will this decision make us more or less transparent? (<em>e.g.</em>, predetermining budgets)</li>
+   <li>Does this go against our agreed upon alignment? (<em>e.g.</em>, "We have to do this for a little while&hellip;&nbsp;")</li>
+   <li>Are we allowing for experimentation? (<em>e.g.</em>, "This has to meet these requirement <em>and</em> it has to be done this way&hellip;&nbsp;")</li>
+  </ul>
+  <p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed and by the people involved.</p>
+  <div id="fnref1"> </div>
+   <p>Unlike in a FIAT business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time. “An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup><a href="#fn1" rel="footnote">1</a></sup></p>
  <h2>Alignment Must Be Explicit and Transparent</h2>
- <p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, we first need to be explicit about the company’s IMPACT  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump tje, in different ways. No matter, they have to be explicit and completely open and accessible to everyone.</p>
- <p>The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,</p>
- <pre style="font-family: courier new; text-align: center; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment" style="width: 80%; ">
- </pre>
- <ul>
-  <li>
-   <p>Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.</p>
-   <p>Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, “… a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.”<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
-  </li>
-  <li>
-   <p>Purpose is the reason why we, as a company, are focused on this particular Impact. It doesn't have to be world shaking and it doesn't have to strum your heart’s strings. An effective Purpose must clearly express <em>why</em> it is important for others to join us in this adventure.</p>
-  </li>
-  <li>
+  <p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, we first need to be explicit about the company’s IMPACT  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump tje, in different ways. No matter, they have to be explicit and completely open and accessible to everyone.</p>
+  <p>The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,</p>
+  <pre style="font-family: courier new; text-align: center; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+   <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment" style="width: 80%; ">
+  </pre>
+  <ul>
+   <li>
+    <p>Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.</p>
+    <p>Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, “… a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.”<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
+   </li>
+   <li>
+    <p>Purpose is the reason why we, as a company, are focused on this particular Impact. It doesn't have to be world shaking and it doesn't have to strum your heart’s strings. An effective Purpose must clearly express <em>why</em> it is important for others to join us in this adventure.</p>
+   </li>
+   <li>
    <p>The Mission defines <em>what</em> we are going to do to move towards the Impact, <em>how</em> we are going to do it, and by <em>when</em>. This is a live, dynamic conversation where everybody who wants to can participate. It is not "suggestions" sent by email to somebody else who is going to select by popularity or any such. And, yes, it scales: there are many ways to do it with 50, 1,00, or 10,000 people.</p>
   </li>
  </ul>
  <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to <em>everybody</em> in the team.</p>
-<br>
 
-<h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; "><spen style="FONT-SIZE: SMALLER; ">RADICAL</spen> Distribution</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; "><spen style="FONT-SIZE: SMALLER; ">RADICAL</spen> Distribution</h1>
 <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
-
- <h2>Inspiration: The Rosedale Distribution</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">Inspiration: The Rosedale Distribution</h2>
   <p>Rosedale Distribution<sup id="fnref5"><a href="#fn4" rel="footnote">5</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,
   </p>
   <ul>
@@ -100,8 +96,7 @@ image:    "dynamic-distribution-1.svg"
    <li>Each person decides how much to give to whom based on whatever criteria “feels right” to them.
    </li>
   </ul>
-
- <h2>The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution Difference</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution Difference</h2>
   <p>Instead of cash or stocks, <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution uses a dimensionless unit we call a <SPAN>RAD</SPAN>. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, <SPAN>RAD</SPAN>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>.</p>
   <p>RADs represent any kind of contribution, not just financial. In fact, as an accounting tool, <SPAN>RAD</SPAN>s account for the unaccountable.</p>
   <p>Co-owners then get to distribute RADs according to their individual judgment. Each decides what is an <em>equitable</em> number of <SPAN>RAD</SPAN>s to give to other co-owners as recognition for their contributions. The value of the whole emerges from the judgment of the many.</p> 
@@ -230,7 +225,7 @@ image:    "dynamic-distribution-1.svg"
    <p>Maybe I gave you <span style="font-size:smaller; ">RAD</span>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
    <p>In short, <span style="font-size:smaller; ">RAD</span>s account for the uncountable, they measure what had previously been immeasurable.</p>
 
-<h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <SPAN>RAD</SPAN>s. For example,
  </p>
  <ul>
@@ -245,8 +240,7 @@ image:    "dynamic-distribution-1.svg"
  </ul>
  <p>That earned amount is split between Dividends and a <em>Predictable  Recurring Income</em> (PRI) component.
  </p>
-
- <h2>Making Recurring Takehome Pay Predictable</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">Making Recurring Takehome Pay Predictable</h2>
    <p>When you really think about it, “salary” is a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> context.</p>
    <p>The PRI is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),</p>
    <ul>
@@ -277,8 +271,7 @@ image:    "dynamic-distribution-1.svg"
    </p>
    <p>We had a lot of back and forth over the <em>PRI Account</em> being a <em>personal</em> debt. Why not have it be a shared debt? The problem is that this may work for small groups, but it doesn’t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don’t know. They would want to know things like “Why is Julio’s PRI so high?” On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn’t feel good about going into so much debt and brings down his PRI after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister’s school and is willing to bear the debt for a while longer.</p>
    <p>If you are thinking that this process takes a lot of time, you’re right. But it is cheaper and healthier than  leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).</p>
-
- <h2>Dividends Are Not a Gift, You Earned Them</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">Dividends Are Not a Gift, You Earned Them</h2>
    <p>Below there are three sample scenarios for how Earned Dividends are calculated,</p>
    <ul>
     <li>Below breakeven: When we as a company don’t generate enough Dividends to cover everybody’s PRIs in full and the difference has to come out of the <em>PRI Account</em>s.</li>
@@ -329,8 +322,7 @@ image:    "dynamic-distribution-1.svg"
    </p>
    <p>Notice that even though dividends are up, Julio continues to draw from the <em>PRI Account</em> because his PRI is pretty high and his <span style="font-size:smaller; ">RAD</span>s count is pretty low. He may want to change his PRI or get feedback on why his <span style="font-size:smaller; ">RAD</span>s are so low.
    </p>
-
- <h2>Comparing the <span style="font-size:smaller; ">RADICAL</span> Investment Model with that of Banks and VCs</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">Comparing the <span style="font-size:smaller; ">RADICAL</span> Investment Model with that of Banks and VCs</h2>
    <p><span style="font-size:smaller; ">RADICAL</span> investments will, at worst, have the same financial yield as today’s VC system, but with 1) a lot more beneficiaries (<em>i.e.</em>, all the co-owners), and 2) less risk (<em>i.e.</em>, because a lot more people will be committed to making it work).</p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
     <img src="/assets/img/bank-vs-vcs-vs-radical.svg" alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS defines a small horizontal parallelogram, it's dot is about     one fifth of the way into the RISKS axis and one tenth of the way up the YIELD axis. VC defines a square, it's dot is a little over half way into the RISKS axis and half way up the YIELD axis. RADICAL defines a large vertical parallelogram, with its dot at a little less than half way into the RISKS axis and nine tenth of the way up
@@ -338,7 +330,7 @@ image:    "dynamic-distribution-1.svg"
    </p>
  <br>
 
-<h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; ">ENDNOTES</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">ENDNOTES</h1>
  <ol>
   <li id="fn1"><h6><a href="#fnref1">🔼</a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>). May 4, 2020.</h6></li>
   <li id="fn2"><h6><a href="#fnref2">🔼</a>This is also a gesture popularized in <a href="https://en.wikipedia.org/wiki/The_Hunger_Games">The Hunger Games</a> movies to express unity with people striving to survive. Since 2014 it has also become a symbol of <a href="https://radicals.world/pG9bAM">pro-democracy in Thailand</a> (alt., <a href="https://diigo.com/0iu409">here</a>). Very apropos.</h6></li>
@@ -347,8 +339,8 @@ image:    "dynamic-distribution-1.svg"
   <li id="fn5"><h6><a href="#fnref6">🔼</a>James Owen. <a href="https://www.goodreads.com/quotes/1279415-it-ain-t-bragging-if-you-ve-done-it-there-s-nothing-wrong">Drawing Out the Dragons: A Meditation on Art, Destiny, and the Power of Choice</a> (alt., <a href="https://diigo.com/0ofgkz">here</a>). 2014.</h6></li>
  </ol>
 
-<h1 style="text-align: center; font-size:7ex; margin:40px 0 20px 0; ">RELATED</h1>
-<ul>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">RELATED</h1>
+ <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
     <li>EN: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
@@ -398,7 +390,4 @@ image:    "dynamic-distribution-1.svg"
   <ul>
     <li><a href="https://docs.google.com/document/d/1u862nc5EV8OY6ng0kfH7_pBGO-HWJnK2rJB8PvpYkJ4/edit#heading=h.hv9kv7g9sjnn">And then They Want to Burn You</a></li>
   </ul>
-</ul>
-
-
- 
+ </ul>
