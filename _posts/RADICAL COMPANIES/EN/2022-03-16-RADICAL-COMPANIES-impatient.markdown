@@ -325,7 +325,7 @@ image:    "dynamic-distribution-1.svg"
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
-  <li id="fn1"><a href="#fnref1"><img src="/assets/img/arrow-up-icon.png"></a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>). May 4, 2020.</li>
+  <li id="fn1"><a href="#fnref1"><img src="/assets/img/arrow-up-icon.png" style="margin"></a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>). May 4, 2020.</li>
   <li id="fn2"><a href="#fnref2"><img src="/assets/img/arrow-up-icon.png"></a>This is also a gesture popularized in <a href="https://en.wikipedia.org/wiki/The_Hunger_Games">The Hunger Games</a> movies to express unity with people striving to survive. Since 2014 it has also become a symbol of <a href="https://radicals.world/pG9bAM">pro-democracy in Thailand</a> (alt., <a href="https://diigo.com/0iu409">here</a>). Very apropos.</li>
   <li id="fn3"><a href="#fnref3"><img src="/assets/img/arrow-up-icon.png"></a>Dave Logan. How to Develop Your Noble Obsession (alt., <a href="">here</a>). Aug 5, 2013.</li>
   <li id="fn4"><a href="#fnref4"><img src="/assets/img/arrow-up-icon.png"></a><a href="https://en.wikipedia.org/wiki/Philip_Rosedale">Philip Rosedale</a> introduced the tool in 2005 when Linden Labs had about 50 employees.</li>
