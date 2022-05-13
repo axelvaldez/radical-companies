@@ -11,12 +11,12 @@ image:    "en-alignment.svg"
 </div>
 
 <div style="background-color:beige; ">
- <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; white-space: normal; ">If the land-value tax were adopted as the sole means of raising [USA] government revenue, it would have funded [in 2009] less than half of the federal budget, and none of the budgets of all 50 states and thousands of cities, towns, and counties.<sup id="fnref1"><a href="#fn1" rel="endnotes">1</a></sup></pre>
+ <pre class="prettyprint" style="font-size:20px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; ">If the land-value tax were adopted as the sole means of raising [USA] government revenue, it would have funded [in 2009] less than half of the federal budget, and none of the budgets of all 50 states and thousands of cities, towns, and counties.<sup id="fnref1"><a href="#fn1" rel="endnotes">1</a></sup></pre>
  <br>
- <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">"Higher taxes are not the solution …"<sup id="fnref2"><a href="#fn2" rel="endnotes">2</a></sup></pre>
+ <pre class="prettyprint" style="font-size:20px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif">"Higher taxes are not the solution …"<sup id="fnref2"><a href="#fn2" rel="endnotes">2</a></sup></pre>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Introduction</h1>
+<h1 style="font-size:0px; font-family:Courier New, monospace; ">Introduction</h1>
  <p>In the book <a href="https://radicals.world/fDm2e">RADICAL COMPANIES</a>, we considered how the <span style="font-size: smaller; ">RADICAL</span> model would work in a company environment. Other than a mention here and there, we said next to nothing about money, land, or governments.</p>
  <p>In <a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h. gqizizpnpgzu"><span style="font-size: smaller; ">COIN</span></a>, I laid out my ideas about money and what it would look like in a decentralized, transparent world. In <a href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76"><span style="font-size: smaller; ">LAND</span></a>, I put down my thoughts on how land would be handled in a <span style="font-size: smaller; ">RADICAL</span> world.</p>
  <p>In this document I finally get to lay down some my thoughts, albeit unpolished, about government.</p>
