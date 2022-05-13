@@ -323,7 +323,7 @@ image:    "dynamic-distribution-1.svg"
     the YIELD axis. The RADICAL box shows a hashed square area which highlights the fact that the RADICAL approach provides much more YIELD than the BANKS or VC approaches.    The graph on the right has RISKS on the horizontal axis and BENEFICIARIES on the vertical axis. As in the previous graph, BANKS defines a small horizontal parallelogram. VC defines a horizontal parallelogram, with it's dot appears seven tenth of the way into the RISKS axis and one fourth of the way up the YIELD axis. As in the previous graph, RADICAL defines a large vertical parallelogram. The RADICAL box shows a hashed area which highlights the fact that the RADICAL approach BENEFITS many more people than the BANKS or VC approaches. " title="Comparing Banks, VCs, and RADICAL.">
    </p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">ENDNOTES</h1>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="fn1"><a href="#fnref1"><img src="/assets/img/arrow-up-icon.png"></a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>). May 4, 2020.</li>
   <li id="fn2"><a href="#fnref2"><img src="/assets/img/arrow-up-icon.png"></a>This is also a gesture popularized in <a href="https://en.wikipedia.org/wiki/The_Hunger_Games">The Hunger Games</a> movies to express unity with people striving to survive. Since 2014 it has also become a symbol of <a href="https://radicals.world/pG9bAM">pro-democracy in Thailand</a> (alt., <a href="https://diigo.com/0iu409">here</a>). Very apropos.</li>
@@ -332,7 +332,7 @@ image:    "dynamic-distribution-1.svg"
   <li id="fn5"><a href="#fnref5"><img src="/assets/img/arrow-up-icon.png"></a>James Owen. <a href="https://www.goodreads.com/quotes/1279415-it-ain-t-bragging-if-you-ve-done-it-there-s-nothing-wrong">Drawing Out the Dragons: A Meditation on Art, Destiny, and the Power of Choice</a> (alt., <a href="https://diigo.com/0ofgkz">here</a>). 2014.</li>
  </ol>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">RELATED</h1>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">RELATED</h1>
  <ul style="font-size:smaller; ">
   <li>RADICAL COMPANIES,</li>
   <ul>
