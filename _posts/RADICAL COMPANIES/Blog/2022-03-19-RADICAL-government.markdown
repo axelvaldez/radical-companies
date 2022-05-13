@@ -12,7 +12,6 @@ image:    "en-alignment.svg"
 
 <div>
  <pre class="prettyprint" style="font-size:20px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; ">If the land-value tax were adopted as the sole means of raising [USA] government revenue, it would have funded [in 2009] less than half of the federal budget, and none of the budgets of all 50 states and thousands of cities, towns, and counties.<sup id="fnref1"><a href="#fn1" rel="endnotes">1</a></sup></pre>
- <br>
  <pre class="prettyprint" style="font-size:20px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif">"Higher taxes are not the solution …"<sup id="fnref2"><a href="#fn2" rel="endnotes">2</a></sup></pre>
 </div>
 
