@@ -126,7 +126,13 @@ image:    "en-alignment.svg"
   <p>The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of nterdependence towards a higher level of collaboration.</p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">ENDNOTES</h1>
- <ul>
+ <ol style="font-size:smaller; ">
+  <li id="fn1"><a href="#fnref1"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a> Matt Perez, Adrian Perez, Jose Leal. RADICAL COMPANIES: Without Bosses or Employees. Pradera Media, 2021.</li>
+  <li id="fn2"><a href="#fnref2"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a> Reforming Reckless Government Spending. The Heritage Foundation (of course) <<a href="https://diigo.com/0nct6w">https://diigo.com/0nct6w</a>></li>
+ </ol>
+
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">RELATED</h1>
+ <ul style="font-size:smaller; ">
   <li>RADICAL COMPANIES,</li>
    <ul>
     <li>English <<a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a>></li>
@@ -181,9 +187,3 @@ image:    "en-alignment.svg"
   </ul>
   <li>RADICAL Ferengi <<a href="https://radicals.world/fHIfqD">https://radicals.world/fHIfqD</a></li>
  </ul>
-
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">RELATED</h1>
- <ol style="font-size:smaller; ">
-  <li id="fn1"><h6><a href="#fnref1">back</a> Matt Perez, Adrian Perez, Jose Leal. RADICAL COMPANIES: Without Bosses or Employees. Pradera Media, 2021.</h6></li>
-  <li id="fn2"><h6><a href="#fnref2">back</a> Reforming Reckless Government Spending. The Heritage Foundation (of course) <<a href="https://diigo.com/0nct6w">https://diigo.com/0nct6w</a>></h6></li>
- </ol>
