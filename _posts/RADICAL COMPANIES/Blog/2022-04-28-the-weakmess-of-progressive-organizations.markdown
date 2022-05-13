@@ -62,6 +62,7 @@ image:    "10-progressive-org-structures.png"
   <p>Finally, experiment. Be explicit about what you expect (<em>e.g.</em>, levels of acidity in a tomato paste) and then don’t be afraid of experimenting. If your results match your expectations, call it an innovation and celebrate. Otherwise, learn from it.</p>
 
 <h1 style="font-size:60px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
+
  <ul style="font-size:smaller; ">
   <li>RADICAL COMPANIES,</li>
    <ul>
@@ -78,23 +79,22 @@ image:    "10-progressive-org-structures.png"
    </ul>
   <li>rCompanies</li>
    <ul>
-   <li>rPRADERA MEDIA</li >
+    <li>rPRADERA MEDIA</li >
+     <ul>
+      <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA SHELF</a></li>
+      <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA READER</a></li>
+      <li><a href="https://docs.google.com/document/d/1NElxng620-FtPtk2s-2xizTcL_89LdqnpkZepsnf5RA/edit#heading=h.6wmx089o9bc4">RADICALS.LIVE!</a></li>
+      <li><a href="https://docs.google.com/document/d/1Ej3YXS8Gymknq0TAyNC161Sv5nVXGTGtN-2PwS6H30E/edit#heading=h.gqizizpnpgzu">RADICAL MBA</a></li>
+     </ul>
+    <li><a href="https://docs.google.com/document/d/1oV_WgvZ0mChe-f8o114p_8BSGldn3ZVkQjHnhwk7ccw/edit#heading=h.gqizizpnpgzu">rHatchery</a></li>
+    <li><a href="https://docs.google.com/document/d/1apVl75nS-Z4b2rpqu-UkDjjYkujLANMiK7zZoU0jGeE/edit#heading=h.ypydz5z11jxq">rCircuit</a></li>
+    <li><a href="https://docs.google.com/document/d/1aoqNhAW6P4QQFM3epM5VqPFdiTgyxTKPUE1c4j8r2k4/edit#heading=h.gqizizpnpgzu">rPlayGym</a></li>
+    <li><a href="https://docs.google.com/document/d/13c1PYhbQEjRlkfmmGQESJD-cTB5b6jmWWBnEpTt1NFU/edit#heading=h.gqizizpnpgzu">rEnsemble</a></li>
    <ul>
-    <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA SHELF</a></li>
-    <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA READER</a></li>
-    <li><a href="https://docs.google.com/document/d/1NElxng620-FtPtk2s-2xizTcL_89LdqnpkZepsnf5RA/edit#heading=h.6wmx089o9bc4">RADICALS.LIVE!</a></li>
-    <li><a href="https://docs.google.com/document/d/1Ej3YXS8Gymknq0TAyNC161Sv5nVXGTGtN-2PwS6H30E/edit#heading=h.gqizizpnpgzu">RADICAL MBA</a></li>
-   </ul>
-   <li><a href="https://docs.google.com/document/d/1oV_WgvZ0mChe-f8o114p_8BSGldn3ZVkQjHnhwk7ccw/edit#heading=h.gqizizpnpgzu">rHatchery</a></li>
-   <li><a href="https://docs.google.com/document/d/1apVl75nS-Z4b2rpqu-UkDjjYkujLANMiK7zZoU0jGeE/edit#heading=h.ypydz5z11jxq">rCircuit</a></li>
-   <li><a href="https://docs.google.com/document/d/1aoqNhAW6P4QQFM3epM5VqPFdiTgyxTKPUE1c4j8r2k4/edit#heading=h.gqizizpnpgzu">rPlayGym</a></li>
-   <li><a href="https://docs.google.com/document/d/13c1PYhbQEjRlkfmmGQESJD-cTB5b6jmWWBnEpTt1NFU/edit#heading=h.gqizizpnpgzu">rEnsemble</a></li>
-   <ul>
-    <li><a href="https://docs.google.com/document/d/1-eMt4p4qNJFc9SJkeSoarmy-xG6WtE51eQv047pvTNk/edit#heading=h.gqizizpnpgzu">rTranslate</a></li>
-    <li><a href="https://docs.google.com/document/d/14A5U000ny7_zF8_HutQF1pcMoUwQmI7tfXaMB9uKk3M/edit#heading=h.gqizizpnpgzu">rSparkle</a></li>
-    <li><a href="https://docs.google.com/document/d/16eg7wnyH61xPT4pWFWsuwHydKaxeP8k5xKGX3Pglzp0/edit#heading=h.gqizizpnpgzu">rStayHome</a></li>
-    <li><a href="https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu">KidsCare</a></li>
-   </ul>
+   <li><a href="https://docs.google.com/document/d/1-eMt4p4qNJFc9SJkeSoarmy-xG6WtE51eQv047pvTNk/edit#heading=h.gqizizpnpgzu">rTranslate</a></li>
+   <li><a href="https://docs.google.com/document/d/14A5U000ny7_zF8_HutQF1pcMoUwQmI7tfXaMB9uKk3M/edit#heading=h.gqizizpnpgzu">rSparkle</a></li>
+   <li><a href="https://docs.google.com/document/d/16eg7wnyH61xPT4pWFWsuwHydKaxeP8k5xKGX3Pglzp0/edit#heading=h.gqizizpnpgzu">rStayHome</a></li>
+   <li><a href="https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu">KidsCare</a></li>
   </ul>
   <li>Startups</li>
    <ul>
@@ -115,5 +115,5 @@ image:    "10-progressive-org-structures.png"
     <li>EPISODE 01 – First of Earth <<a href="https://radicals.world/sPzTII">https://radicals.world/sPzTII</a></li>
     <li>EPISODE 11 – The <span style="font-size:smaller; ">FIAT</a> Enclaves <<a href="https://radicals.world/KW4xmO">https://radicals.world/KW4xmO</a></li>
    </ul>
-   <li>RADICAL Ferengi <<a href="https://radicals.world/fHIfqD">https://radicals.world/fHIfqD</a></li>
-  </ul>
+  <li>RADICAL Ferengi <<a href="https://radicals.world/fHIfqD">https://radicals.world/fHIfqD</a></li>
+ </ul>
