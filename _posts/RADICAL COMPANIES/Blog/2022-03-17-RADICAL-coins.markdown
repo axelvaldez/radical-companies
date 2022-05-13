@@ -47,15 +47,17 @@ image:    "en-decentralized-minting.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2" style="font-size: ;">&nbsp;</td>
+    <td colspan="2" style="font-size:7px; ">&nbsp;</td>
    </tr>
   <tr>
    <td style="vertical-align: text-top; border-right: black dotted 1px;"><strong>Currency</strong></td>
    <td style="padding-left: 6px; "><p style="text-indent:1em; ">Another common name for national fiat coins is “currency.” It means to indicate that <em>money flows</em> from one person to the next to facilitate the exchange of commodities. But national fiat coins don’t always <em>flow</em>. Because these coins hold their value forever, they can be hoarded to accumulate financial wealth in bank accounts or under the proverbial mattress.</p>
    <p style="text-indent:1em; ">Given this, national fiat coins do not deserve to be called “currency.”</p></td>
   </tr>
-  <tr><td>&nbsp;</td><td></td></tr>
- </table>
+   <tr>
+    <td colspan="2" style="font-size:7px; ">&nbsp;</td>
+   </tr>
+ 1</table>
  <p style="text-indent:1em; ">To avoid confusion, in this document I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">A Historical Perspective</h1>
@@ -108,7 +110,7 @@ image:    "en-decentralized-minting.svg"
   <tr>
    <td colspan="4">&nbsp;</td>
   </tr>
- </table>
+ 2</table>
  <h2 style="font-size:30px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s as Collaboration</h2>
   <p style="text-indent:1em; ">As I see it, the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve &ldquo;<em>progress</em>.&rdquo;<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup></p>
   <p style="text-indent:1em; ">Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of collaboration.</p>
@@ -175,7 +177,7 @@ image:    "en-decentralized-minting.svg"
    <tr>
     <td style="height: 7px; ">&nbsp;</td>
    </tr>
-  </table>
+  3</table>
   <p style="text-indent:1em; ">A seller’s app can calculate a risk factor based on the BenCO <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>’s log <em>and</em> her particular preset parameters. Each of us can let the apps do the calculations and, based on that, decide whether or not to take the BenCO <span style="font-size: smaller; ">COIN</span>s as payment.<sup id="fnref12"><a href="#fn12" rel="footnote">12</a></sup></p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s Are Stable</h2>
   <p style="text-indent:1em; ">In today’s system of exchange, “reserve currencies” are used for international transactions. This makes these transactions very expensive.</p>
@@ -225,7 +227,7 @@ image:    "en-decentralized-minting.svg"
   <tr>
    <td style="height: 7px; ">&nbsp;</td>
   </tr>
- </table>
+ 4</table>
  <p style="text-indent:1em; ">One problem with demurrage is that the rate of decay is not tied to value creation or anything like it. The Wörgl, and others like it, kept its face value for a week and went down in value every week thereafter. The W&auml;ra, another demurrage coin, lost 1% of its value every month.<sup id="fnref21"><a href="#fn21" rel="footnote">21</a></sup> Regardless of their good intentions, these rates of decay are picked out of thin air.</p>
  <p style="text-indent:1em; "><span style="font-size: smaller; ">COIN</span>s, on the other hand, are always the same value. What changes is the potential risks and benefits associated with the company that engendered it. Every COIN carries a log of all the information people need to decide whether or not to accept it.</p>
  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
