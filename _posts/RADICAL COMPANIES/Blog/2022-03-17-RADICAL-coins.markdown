@@ -32,11 +32,11 @@ image:    "en-decentralized-minting.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Terminology Used in this Doc</h1>
  <table>
   <colgroup>
-   <col style="margin-right:1em; vertical-align:text-top; ">
+   <col style="margin-right:1em; ">
    <col style="margin-left:1em; ">
   </colgroup>
   <tbody style="border-right:1px solid black; ">
-   <tr>
+   <tr style="vertical-align:text-top; ">
     <td><strong>National Fiat Coin</strong></td>
     <td>
      <p>Throughout the rest of this document, you will notice that I stubbornly use “national fiat coin,” instead of “money” or “currency.” This is mostly to remind myself of a few key distinctions,</p>
@@ -53,17 +53,18 @@ image:    "en-decentralized-minting.svg"
    <tr>
     <td colspan="2" style="font-size:7px; ">&nbsp;</td>
    </tr>
-  <tr>
-   <td style="vertical-align:text-top; "><strong>Currency</strong></td>
-   <td><p>Another common name for national fiat coins is “currency.” It means to indicate that <em>money flows</em> from one person to the next to facilitate the exchange of commodities. But national fiat coins don’t always <em>flow</em>. Because these coins hold their value forever, they can be hoarded to accumulate financial wealth in bank accounts or under the proverbial mattress.</p>
-   <p>Given this, national fiat coins do not deserve to be called “currency.”</p></td>
-  </tr>
    <tr>
-    <td colspan="2" style="font-size:7px; ">&nbsp;</td>
-   </tr>
-  </tbody>
- </table>
- <p>To avoid confusion, in this document I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.</p>
+    <td style="vertical-align:text-top; "><strong>Currency</strong></td>
+    <td>
+     <p>Another common name for national fiat coins is “currency.” It means to indicate that <em>money flows</em> from one person to the next to facilitate the exchange of commodities. But national fiat coins don’t always <em>flow</em>. Because these coins hold their value forever, they can be hoarded to accumulate financial wealth in bank accounts or under the proverbial mattress.</p>
+     <p>Given this, national fiat coins do not deserve to be called “currency.”</p></td>
+    </tr>
+    <tr>
+     <td colspan="2" style="font-size:7px; ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <p>To avoid confusion, in this document I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">A Historical Perspective</h1>
  <p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are not to be confused, or conflated, with local or complementary currencies, demurrage money, or any such.<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup> Ditto for Mutualism, Marxism, or any other theory or ideology. The point of <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>a is to make it possible to have a world-wide market, free of intermediaries, and with negligible costs.</p>
