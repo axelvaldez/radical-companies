@@ -53,7 +53,7 @@ image:    "en-alignment.svg"
    <p>Parks and recreation are very similar, with people responsible for <em>coordinating</em> planning and construction. Ditto for water purification.</p>
    <p>A few things off the list.</p>
   <h2 style="font-size:30px; font-family:Courier New, monospace; ">Zoning and Building Regulations</h2>
-   <p>Zoning strikes me as a weak way to try and control the worst tendencies of FIAT landowners. But keeping the “bad” buildings away from the residential buildings is not harmless, either, and it is not a solution, either. I’d rather trust each hyper-local community, people who know each other, to make those decisions using the RADICAL system rather than a city government.</p>
+   <p>Zoning strikes me as a weak way to try and control the worst tendencies of FIAT landowners. But keeping the “bad” buildings away from the residential buildings is not harmless. And it is not a solution, either. I’d rather trust each hyper-local community, people who know each other, to make those decisions using the RADICAL system rather than a city government.</p>
    <p>There might be a coordinating function needed as well as expertise but that can be handled by RADICAL companies.</p>
    <p>Off the list.</p>
   <h2 style="font-size:30px; font-family:Courier New, monospace; ">Higiene: Waste Removal</h2>
@@ -182,8 +182,8 @@ image:    "en-alignment.svg"
   <li>RADICAL Ferengi <<a href="https://radicals.world/fHIfqD">https://radicals.world/fHIfqD</a></li>
  </ul>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">ENDNOTES</h1>
- <ol>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">RELATED</h1>
+ <ol style="font-size:smaller; ">
   <li id="fn1"><h6><a href="#fnref1">back</a> Matt Perez, Adrian Perez, Jose Leal. RADICAL COMPANIES: Without Bosses or Employees. Pradera Media, 2021.</h6></li>
   <li id="fn2"><h6><a href="#fnref2">back</a> Reforming Reckless Government Spending. The Heritage Foundation (of course) <<a href="https://diigo.com/0nct6w">https://diigo.com/0nct6w</a>></h6></li>
  </ol>
