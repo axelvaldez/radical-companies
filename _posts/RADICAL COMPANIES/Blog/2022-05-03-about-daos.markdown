@@ -37,7 +37,7 @@ image:    "about-daos.svg"
  </ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
- <ul>
+ <ul style="font-size:smaller; ">
   <li>RADICAL COMPANIES,</li>
    <ul>
     <li>English <<a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a>></li>
