@@ -35,7 +35,7 @@ image:    "en-decentralized-minting.svg"
    <col style="border-right:1px solid black; ">
    <col>
   </colgroup>
-  <tbody>
+  <tbody style="font-size:smaller; ">
    <tr style="vertical-align:text-top; ">
     <th style="text-align:right; margin-right:1em; ">National Fiat Coin</th>
     <td style="margin-left:1em; ">
