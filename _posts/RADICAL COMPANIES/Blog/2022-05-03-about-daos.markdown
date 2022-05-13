@@ -36,7 +36,7 @@ image:    "about-daos.svg"
   <li id="bn01">David Rosenthal. <a href="https://blog.dshr.org/2022/02/ee380-talk.html">EE380 Talk</a>. Feb 9, 2022.</li>
  </ol>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">RELATED</h1>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 40 0 20 0; ">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
    <ul>
