@@ -31,6 +31,11 @@ image:    "about-daos.svg"
  <p>You might be thinking, &ldquo;But that's the way it is. You have to learn to restrain yourself and be polite about what you say and how you say. Otherwise, we will end up like animals, hurting each other.&rdquo; That reasoning is fear, too. Think of it this way: as a species, we are pretty successful. Do you think we got here by behaving like animals towards each other? In fact, social animals, like us, collaborate, not compete, and that's what&rsquo;s made them successful as a species. Perhaps we should behave more like the social animals we are.</p>
  <p>Force, and the fear it engenders, is what&rsquo;s holding us back, it hurts us, and will eventually kill more of us.</p>
 
+<title>ENDNOTES</title>
+ <ol>
+  <li id="bn01">David Rosenthal. <a href="https://blog.dshr.org/2022/02/ee380-talk.html">EE380 Talk</a>. Feb 9, 2022.</li>
+ </ol>
+
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
@@ -87,8 +92,3 @@ image:    "about-daos.svg"
    </ul>
    <li>RADICAL Ferengi <<a href="https://radicals.world/fHIfqD">https://radicals.world/fHIfqD</a></li>
   </ul>
-
-  <title>ENDNOTES</title>
-   <ol>
-    <li id="bn01">David Rosenthal. <a href="https://blog.dshr.org/2022/02/ee380-talk.html">EE380 Talk</a>. Feb 9, 2022.</li>
-   </ol>
