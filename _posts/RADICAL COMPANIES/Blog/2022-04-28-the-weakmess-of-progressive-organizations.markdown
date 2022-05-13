@@ -61,7 +61,7 @@ image:    "10-progressive-org-structures.png"
   </p>
   <p>Finally, experiment. Be explicit about what you expect (<em>e.g.</em>, levels of acidity in a tomato paste) and then don’t be afraid of experimenting. If your results match your expectations, call it an innovation and celebrate. Otherwise, learn from it.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">RELATED</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; text-align:center; ">RELATED</h1>
 <ul style="font-size:smaller; ">
  <li>RADICAL COMPANIES,</li>
   <ul>
