@@ -28,7 +28,6 @@ image:    "en-decentralized-minting.svg"
  <p style="text-indent:1em; ">In addition, and this is critical, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are transparent in the sense that an integral part of each <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is its log of information from which potential risks and benefits can be calculated.</p>
  <p style="text-indent:1em; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are also decentralized. Companies will be the guarantors of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s: not banks, not governments, and not international accords. This will make the costs of all transactions negligible.</p>
  <p style="text-indent:1em; ">A decentralized and transparent <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> will make possible a world-wide market that we can all play in without intermediaries.</p>
-
 <h2 style="font-family:Courier New, monospace; ">Terminology Used in this Doc</h2>
  <table>
   <tbody style="margin-left:1em; ">
@@ -57,7 +56,6 @@ image:    "en-decentralized-minting.svg"
   <tr><td>&nbsp;</td><td></td></tr>
  </table>
  <p style="text-indent:1em; ">To avoid confusion, in this document I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.</p>
-
 <h2 style="font-family:Courier New, monospace; ">A Historical Perspective</h2>
  <p style="text-indent:1em; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are not to be confused, or conflated, with local or complementary currencies, demurrage money, or any such.<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup> Ditto for Mutualism, Marxism, or any other theory or ideology. The point of <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>a is to make it possible to have a world-wide market, free of intermediaries, and with negligible costs.</p>
  <p style="text-indent:1em; ">In fact, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are very similar to national fiat coins. They are a unit of measure, a store of value, and a medium of exchange, but with these twists,</p>
@@ -67,7 +65,6 @@ image:    "en-decentralized-minting.svg"
   <li><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s bypass the complications and costs brought about by banks, exchanges, national politics,<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup> and the influence of transnational corporations.<sup id="fnref7"><a href="#fn7" rel="footnote">7</a></sup>
    <p style="text-indent:1em; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s have the potential to enable a world-wide market. This will help us break out of our national silos and create a world-wide economy that’s decentralized and transparent.</p></li>
  </ol>
-
 <h2 style="font-family:Courier New, monospace; ">About the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Framework</h2>
  <p style="text-indent:1em; ">This may be a difficult read and it may be worth repeating here a few words about the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> framework and how it’s different from our current world. Probably the most confusing thing about it is that a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.</p>
  <p style="text-indent:1em; ">The only difference—the big difference—is that the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> system is centered around our interdependence.</p>
@@ -112,7 +109,6 @@ image:    "en-decentralized-minting.svg"
  <h3 style="font-size:30px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s as Collaboration</h3>
   <p style="text-indent:1em; ">As I see it, the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve &ldquo;<em>progress</em>.&rdquo;<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup></p>
   <p style="text-indent:1em; ">Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of collaboration.</p>
-
 <h2 style="font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s for a World-Wide Market</h2>
 <p style="text-indent:1em; ">A world-wide market would bring us together rather than keeping us siloed by the Rube Goldberg markets we have today.</p>
 <p style="text-indent:1em; ">We could have a single world government create and enforce a single currency. But even if it were politically feasible, it is unnecessary and a move in the wrong direction towards centralization. To wit, we didn’t need a single world government for minutes, meters, or the Internet, some of the most useful world-wide tools of all time.</p>
@@ -132,7 +128,6 @@ image:    "en-decentralized-minting.svg"
  <p style="text-indent:1em; ">A measure can be “trusted” because it means the same thing to people anywhere.
  So, if you believe that people are pretty much the same anywhere, you can trust <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s as a measure.</p>
  <p style="text-indent:1em; ">In a rural setting somebody will get <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s for milking a goat, while in an urban setting someone else will get <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s for stopping cars so children can cross the street. The same human feeling that recognized the generosity of these acts was present in the rural case as well as in the urban setting. RADs capture that recognition in a tangible way, regardless of its numeric accuracy. <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s, and the <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s that they factor, can be trusted because people decide what is <em>a contribution that deserves to be recognized</em>.</p>
-
 <h2 style="font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s Represent Contributions</h2>
  p>This idea originated with entrepreneur and pioneer Philip Rosedale,<sup id="fnref10"><a href="#fn10" rel="footnote">10</a></sup></p>
  <ul>
@@ -143,7 +138,6 @@ image:    "en-decentralized-minting.svg"
  </ul>
  <p style="text-indent:1em; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions are very similar, but instead of cash or stocks, it uses <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s, a dimensionless unit. At the end of each Distribution the total number of <SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s allocated to each person represents their (dynamic) <a href="#VaryingBuyingPower">percentage of ownership</a> of the broad value created by a company.</p>
  <p style="text-indent:1em; ">Because this broad value accounts for things other than financial value, <em><SPAN STYLE="FONT-SIZE: SMALLER; ">RAD</SPAN>s account for the uncountable</em>.<sup id="fnref11"><a href="#fn11" rel="footnote">11</a></sup> And because <em><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are factored through <span style="font-zise: smaller; ">RAD</span>s</em>, they represent broad value as well. In other words, each person's share of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s is a function of their contributions and reflects the full spectrum of human values, not just financial value.</p>
-
 <h2 style="font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN> Qualities</h2>
  <p style="text-indent:1em; ">These are, in no particular order, a few of the qualities that a <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> must have,</p>
  <h3 style="font-size:30px; font-family:Courier New, monospace; ">Decentralized Minting of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s</h3>
@@ -209,7 +203,6 @@ image:    "en-decentralized-minting.svg"
   <p style="text-indent:1em; ">This last bit is really important.</p>
   <p style="text-indent:1em; ">In today’s businesses, the owners can do whatever they want. Although the same is technically true for a <span style="font-size: smaller; ">RADICAL COMPANY</span> it will be a lot more unlikely that all co-owners would agree to do something that goes against their own values and communities.</p>
   <p style="text-indent:1em; ">For example, if a community feels harmed by the actions of CarelessCO they can make their case to a few of its co-owners to at least get a conversation going. If the harm affects many such communities and all its co-owners refuse to engage, they can simply record the failed discussion to CarelessCO’s COINs. Some people may interpret this as a high risk (to society) while others may see it differently. We all get to decide.</p>
-
 <h2 style="font-family:Courier New, monospace; "><span style="font-size: smaller; ">RADICAL COIN</span> Risks and Benefits</h2>
  <p style="text-indent:1em; ">There is plenty of evidence that shows that a currency, one that actually actually flows, can benefit a society,<sup id="fnref18"><a href="#fn18" rel="footnote">18</a></sup> while money stuffed under a mattress only benefits the hoarder.</p>
  <p style="text-indent:1em; ">People have figured out that, in today’s world, one way to keep money flowing is by having it lose its value over time (<em>i.e.</em>, there is no point in hoarding it because it will “rot”). This can be done by inflation or demurrage. Inflation, the decline of purchasing power, has been the preferred method of national governments for controlling the value and availability of its coinage. Governments can do this by several means, including by tweaking interest rates, which impacts the supply of national fiat coins. We all know that “inflation is bad,” but we cannot do anything about it.</p>
@@ -247,7 +240,6 @@ image:    "en-decentralized-minting.svg"
    <li>If the reputation and value of a company goes up, its COINs go down in risk. Those who took its COINs when they were high risk now have more desirable COINs. The upside spreads throughout society.</li>
    <li>Companies that are constantly creating debt and not retiring it, will find themselves isolated. Their COINs will get riskier and riskier and they will be acceptable to fewer and fewer people. Hopefully, they will see guidance and help from others.</li>
   </ul>
-
 <h2 style="font-family:Courier New, monospace; ">TA-DA!</h2>
  <p style="text-indent:1em; "><span style="font-size: smaller; ">RAD</span>s account for what so far has been unaccountable. People get to decide what a contribution is and by doing so they “measure” what has been unmeasurable: an act of kindness, spontaneous help. Co-owners get <span style="font-size: smaller; ">COIN</span>s according to the percentage of RADs they have and that makes COINs a much broader measure than just financial value.</p>
  <p style="text-indent:1em; ">Companies mint <span style="font-size: smaller; ">COIN</span>s. This means that <span style="font-size: smaller; ">COIN</span>s are decentralized and free of interference by national and international politics, financial institutions, and too-big-to-fail transnationals. <span style="font-size: smaller; ">COIN</span>s will make it possible to create a world-wide market that Adam Smith would be happy with.<sup id="fnref24"><a href="#fn24" rel="footnote">24</a></sup></p>
@@ -255,7 +247,7 @@ image:    "en-decentralized-minting.svg"
 
 <h1 style="font-size:55px; font-family:Courier New, monospace; text-align: center; margin: 80px 0 20px 0; ">APPENDICES</h1>
 
-<h1 style="font-size:45px; font-family:Courier New, monospace; text-align: center; margin: 40px 0 20px 0; ">Bad Actors</h1>
+<h1 style="font-size:45px; font-family:Courier New, monospace; text-align: center; margin: 40px 0 20px 0; ">BAD ACTORS</h1>
   <p style="text-indent:1em; ">There may not be as many bad actors as we think. We probably have a preponderance of them today because 1) they make the news, and 2) we live in a system that is meant to reward bad behavior: gaming is part and parcel of the system. As we find out, we patch it to prevent other bad actors from exploiting the same weakness. But then the next batch of bad actors become wealthy by discovering and exploiting new weaknesses.</p>
   <p style="text-indent:1em; ">We don’t normally think of these, below, as bad actors. But they are. They fall back on their FIAT world habits and are a drag on moving forward to a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world.</p>
   <table>
@@ -294,7 +286,7 @@ image:    "en-decentralized-minting.svg"
    </tr>
   </table>
   
-<h1 style="font-size:45px; font-family:Courier New, monospace; text-align: center; margin: 30px 0 20px 0; " id="VaryingBuyingPower">Varying Buying Power</h1>
+<h1 style="font-size:45px; font-family:Courier New, monospace; text-align: center; margin: 30px 0 20px 0; " id="VaryingBuyingPower">VARYING BUYING POWER</h1>
   <p style="text-indent:1em; ">I am selling potatoes at 40 COINs per dozen. After the first month <strong>Ⓐ</strong>, below, and his co-owners don’t have enough COINs to buy my potatoes, but <strong>Ⓔ</strong> and his co-owners do. It may be that JerryCO is more efficient or maybe its products or services are more valuable. Either way, BenCO’s co-owners end up with less buying power than JerryCO’s co-owners.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/en-rad-auto-inflation-a.svg" alt="Two tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 100 COINs. Second row is RAD DISTRIBUTION, distributed as 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. They each get 10, 20, 30, and 40 COINs. For JerryCO: the EARNED DIVIDENDS  row shows +1000 New for a TOTAL of 1000 COINs. The RAD DISTRIBUTION in the second row is as follows: 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. This is the same as for BenCO, but in the JerryCO case the first person gets 100 instead of 10, the second 200 instead of 20, the third 300 instead of 30, and the fourth 400 COINs instead of 40. The BenCO co-owners end up with less buying power than JerryCO's co-owners." title="Varying Buying Powers A">
