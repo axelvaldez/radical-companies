@@ -16,7 +16,7 @@ image:    "about-daos.svg"
  <p>Fortunately, all the creativity that has gone into creating the DAO technology could also be used to create alternatives to the <span style="font-size:smaller; ">FIAT</span> regime.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">DAOs Are Not Decentralized</h1>
- <p>They are more or less centralized, depending on its governance model. But there's no incentive or commitment to decentralize. More LPs and less friction does not equal decentralization. Sure, LPs have the choice of not joining the DAO or, depending on the governance model, bailing out, but that’s not a solution to our big problem.<p>
+ <p>DAOs are not decentralized<sup id="bm01"><a href="#en01">1</a></sup>: they are more or less centralized, depending on its governance model. But there's no incentive or commitment to decentralize. More LPs and less friction does not equal decentralization. Sure, LPs have the choice of not joining the DAO or, depending on the governance model, bailing out, but that’s not a solution to our big problem.<p>
  <p>We need to move away from the &ldquo;because I say so&rdquo;, <span style="font-size:smaller; ">FIAT</span> ways of doing things and to a truly decentralized and autonomous alternative to our current system based on force and fear.<p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">DAOs Are Not Autonomous</h1>
@@ -87,3 +87,8 @@ image:    "about-daos.svg"
    </ul>
    <li>RADICAL Ferengi <<a href="https://radicals.world/fHIfqD">https://radicals.world/fHIfqD</a></li>
   </ul>
+
+  <title>ENDNOTES</title>
+   <ol>
+    <li id="bn01">David Rosenthal. <a href="https://blog.dshr.org/2022/02/ee380-talk.html">EE380 Talk</a>. Feb 9, 2022.</li>
+   </ol>
