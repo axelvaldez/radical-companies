@@ -112,8 +112,8 @@ image:    "10-progressive-org-structures.png"
    <ul>
     <li>AND THEN THEY WANT TO BURN YOU</li>
     <ul>
-     <li>EPISODE 01 – First of Earth <<a href="https://radicals.world/sPzTII">https://radicals.world/sPzTII</a></li>
-     <li>EPISODE 11 – The <span style="font-size:smaller; ">FIAT</span> Enclaves <<a href="https://radicals.world/KW4xmO">https://radicals.world/KW4xmO</a></li>
+     <li>EPISODE 01-10 – First of Earth <<a href="https://radicals.world/sPzTII">https://radicals.world/sPzTII</a></li>
+     <li>EPISODE 11-13 – The <span style="font-size:smaller; ">FIAT</span> Enclaves <<a href="https://radicals.world/KW4xmO">https://radicals.world/KW4xmO</a></li>
     </ul>
     <li>RADICAL Ferengi <<a href="https://radicals.world/fHIfqD">https://radicals.world/fHIfqD</a></li>
    </ul>
