@@ -122,7 +122,7 @@ image:    "dynamic-distribution-1.svg"
    <li>Your unallocated <SPAN>RAD</SPAN>s may disappear every day or they may accumulate for a month or a year.
    </li>
   </ul>
-  <h3>The RADICAL Distribution is Scalable</h3>
+  <h3 style="font-size:20px; font-family:Courier New, monospace; ">The RADICAL Distribution is Scalable</h3>
   <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,</p>
   <table style="width: 80%; margin: 0 auto; ">
    <tr>
@@ -163,7 +163,7 @@ image:    "dynamic-distribution-1.svg"
    </tr>
   </table>
   <p>As people share and grant each other <span>RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn5" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
-  <h3>The RADICAL Distribution Includes Banners</h3>
+  <h3 style="font-size:20px; font-family:Courier New, monospace; ">The RADICAL Distribution Includes Banners</h3>
    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.
    </p>
    <p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.
@@ -212,14 +212,14 @@ image:    "dynamic-distribution-1.svg"
      </td>
     </tr>
    </table>
-  <h3><span style="font-size:smaller; ">RADICAL</span> Includes Retrospectives</h3>
+  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL</span> Includes Retrospectives</h3>
    <p>At a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
-  <h3><span style="font-size:smaller; ">RADICAL</span> Distribution Includes Feedback</h3>
+  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL</span> Distribution Includes Feedback</h3>
    <p>Anybody who wants to can call for a feedback session after a Distribution. In particular, people who didn’t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it’s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
-  <h3><span style="font-size:smaller; ">RADICAL</span> Distribution Is Transparent</h3>
+  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL</span> Distribution Is Transparent</h3>
    <p>We don’t think that <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of <SPAN>RAD</SPAN>s allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.</p>
    <p>Of course, you’ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
-  <h3><span style="font-size:smaller; ">RAD</span>s Account for the Unaccountable</h3>
+  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RAD</span>s Account for the Unaccountable</h3>
    <p><span style="font-size:smaller; ">RAD</SPAN>s represent many things other than simple financial value. They are not beans, but they can be counted.</p>
    <p>The <span style="font-size:smaller; ">RAD</span>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you’ll probably get fewer <SPAN>RAD</SPAN>s from us; if you are helping us thrive, you’ll likely get more. If you do something that goes against our Impact, “but, hey, it makes money,” you’ll get less <span style="font-size:smaller; ">RAD</span>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you’ll get more <span style="font-size:smaller; ">RAD</span>s.</p>
    <p>Maybe I gave you <span style="font-size:smaller; ">RAD</span>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
