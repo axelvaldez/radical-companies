@@ -226,20 +226,14 @@ image:    "dynamic-distribution-1.svg"
    <p>In short, <span style="font-size:smaller; ">RAD</span>s account for the uncountable, they measure what had previously been immeasurable.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
- <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <SPAN>RAD</SPAN>s. For example,
- </p>
+ <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <SPAN>RAD</SPAN>s. For example,</p>
  <ul>
-  <li>Six of us generate $16,000 in dividends.
-  </li>
-  <li>There is a total of 1,000 RADs allocated which means that each <SPAN>RAD</SPAN> is worth $16 this cycle.
-  </li>
-  <li>You have 450 allocated RADs and I have 130.
-  </li>
-  <li>You <em>earned</em> $7,200 and I’ve <em>earned</em> $2,080 of the total dividends.
-  </li>
+  <li>Six of us generate $16,000 in dividends.</li>
+  <li>There is a total of 1,000 RADs allocated which means that each <SPAN>RAD</SPAN> is worth $16 this cycle.</li>
+  <li>You have 450 allocated RADs and I have 130.</li>
+  <li>You <em>earned</em> $7,200 and I’ve <em>earned</em> $2,080 of the total dividends.</li>
  </ul>
- <p>That earned amount is split between Dividends and a <em>Predictable  Recurring Income</em> (PRI) component.
- </p>
+ <p>That earned amount is split between Dividends and a <em>Predictable  Recurring Income</em> (PRI) component.</p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Making Recurring Takehome Pay Predictable</h2>
    <p>When you really think about it, “salary” is a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> context.</p>
    <p>The PRI is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),</p>
@@ -328,15 +322,14 @@ image:    "dynamic-distribution-1.svg"
     <img src="/assets/img/bank-vs-vcs-vs-radical.svg" alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS defines a small horizontal parallelogram, it's dot is about     one fifth of the way into the RISKS axis and one tenth of the way up the YIELD axis. VC defines a square, it's dot is a little over half way into the RISKS axis and half way up the YIELD axis. RADICAL defines a large vertical parallelogram, with its dot at a little less than half way into the RISKS axis and nine tenth of the way up
     the YIELD axis. The RADICAL box shows a hashed square area which highlights the fact that the RADICAL approach provides much more YIELD than the BANKS or VC approaches.    The graph on the right has RISKS on the horizontal axis and BENEFICIARIES on the vertical axis. As in the previous graph, BANKS defines a small horizontal parallelogram. VC defines a horizontal parallelogram, with it's dot appears seven tenth of the way into the RISKS axis and one fourth of the way up the YIELD axis. As in the previous graph, RADICAL defines a large vertical parallelogram. The RADICAL box shows a hashed area which highlights the fact that the RADICAL approach BENEFITS many more people than the BANKS or VC approaches. " title="Comparing Banks, VCs, and RADICAL.">
    </p>
- <br>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">ENDNOTES</h1>
  <ol>
-  <li id="fn1"><h6><a href="#fnref1">🔼</a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>). May 4, 2020.</h6></li>
-  <li id="fn2"><h6><a href="#fnref2">🔼</a>This is also a gesture popularized in <a href="https://en.wikipedia.org/wiki/The_Hunger_Games">The Hunger Games</a> movies to express unity with people striving to survive. Since 2014 it has also become a symbol of <a href="https://radicals.world/pG9bAM">pro-democracy in Thailand</a> (alt., <a href="https://diigo.com/0iu409">here</a>). Very apropos.</h6></li>
-  <li id="fn3"><h6><a href="#fnref3">🔼</a>Dave Logan. How to Develop Your Noble Obsession (alt., <a href="">here</a>). Aug 5, 2013.</h6></li>
-  <li id="fn4"><h6><a href="#fnref5">🔼</a><a href="https://en.wikipedia.org/wiki/Philip_Rosedale">Philip Rosedale</a> introduced the tool in 2005 when Linden Labs had about 50 employees.</h6></li>
-  <li id="fn5"><h6><a href="#fnref6">🔼</a>James Owen. <a href="https://www.goodreads.com/quotes/1279415-it-ain-t-bragging-if-you-ve-done-it-there-s-nothing-wrong">Drawing Out the Dragons: A Meditation on Art, Destiny, and the Power of Choice</a> (alt., <a href="https://diigo.com/0ofgkz">here</a>). 2014.</h6></li>
+  <li id="fn1"><a href="%2"><img src="/assets/img/arrow-up-icon.png"></a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>). May 4, 2020.</li>
+  <li id="fn2"><a href="%2"><img src="/assets/img/arrow-up-icon.png"></a>This is also a gesture popularized in <a href="https://en.wikipedia.org/wiki/The_Hunger_Games">The Hunger Games</a> movies to express unity with people striving to survive. Since 2014 it has also become a symbol of <a href="https://radicals.world/pG9bAM">pro-democracy in Thailand</a> (alt., <a href="https://diigo.com/0iu409">here</a>). Very apropos.</li>
+  <li id="fn3"><a href="%2"><img src="/assets/img/arrow-up-icon.png"></a>Dave Logan. How to Develop Your Noble Obsession (alt., <a href="">here</a>). Aug 5, 2013.</li>
+  <li id="fn4"><a href="%2"><img src="/assets/img/arrow-up-icon.png"></a><a href="https://en.wikipedia.org/wiki/Philip_Rosedale">Philip Rosedale</a> introduced the tool in 2005 when Linden Labs had about 50 employees.</li>
+  <li id="fn5"><a href="%2"><img src="/assets/img/arrow-up-icon.png"></a>James Owen. <a href="https://www.goodreads.com/quotes/1279415-it-ain-t-bragging-if-you-ve-done-it-there-s-nothing-wrong">Drawing Out the Dragons: A Meditation on Art, Destiny, and the Power of Choice</a> (alt., <a href="https://diigo.com/0ofgkz">here</a>). 2014.</li>
  </ol>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">RELATED</h1>
