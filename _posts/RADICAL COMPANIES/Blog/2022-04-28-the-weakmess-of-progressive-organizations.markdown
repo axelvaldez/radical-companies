@@ -15,7 +15,7 @@ image:    "10-progressive-org-structures.png"
  <p>Unfortunately, except for WL Gore, all the organizations given as primary examples have an owner-boss at the top. In these cases, the owner-boss sees himself as a “servant leader” or otherwise benevolent.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Co-Ownership Brings Robustness</h1>
- <p>It is great, in fact, that these companies have experimented with co-management, have shown that it works, and that we don’t need the FIAT hierarchical system we live under. Unfortunately, co-management doesn’t last. Because when the owner-boss exits, that’s the end of it. Most of these progressive companies have fallen back to the FIAT hierarchical model following the exit of the benevolent owner-boss.</p>
+ <p>It is great, in fact, that these companies have experimented with co-management, have shown that it works, and that we don’t need the <span style="font-size:smaller; ">FIAT</a> hierarchical system we live under. Unfortunately, co-management doesn’t last. Because when the owner-boss exits, that’s the end of it. Most of these progressive companies have fallen back to the <span style="font-size:smaller; ">FIAT</a> hierarchical model following the exit of the benevolent owner-boss.</p>
  <p>For it to be robust and long-term decentralized management must be accompanied by <a href="https://radicalcompanies.com/2022/03/14/radical-companies-for-the-impatient">decentralized ownership.</a></p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Robustness Emerges from a Solid Foundation</h2>
@@ -56,7 +56,7 @@ image:    "10-progressive-org-structures.png"
    <p>It is very important that we all commit to decentralization without having to depend on an owner-boss. Leadership still is  important and necessary, but there is no anointed boss.</p>
    <p>Also, for decentralized decision-making and action, all information must be transparent and freely available.</p>
   <h3>Practices</h3>
-   <p>Also for the sake of decentralization, explicit alignment is an absolute must. In a FIAT organization, the owner-boss and the hierarchy below him, are the source of alignment, but in a decentralized organization we need to agree on what it is we are doing in ways that people can remember them and live them.</p>
+   <p>Also for the sake of decentralization, explicit alignment is an absolute must. In a <span style="font-size:smaller; ">FIAT</a> organization, the owner-boss and the hierarchy below him, are the source of alignment, but in a decentralized organization we need to agree on what it is we are doing in ways that people can remember them and live them.</p>
    <p style="text-align:center; "><img src="/assets/img/en-alignment.svg" alt="The Scout salute as a mnemonic for IMPACT, PURPOSE, and MISSION. The middle finger represents IMPACT or what are we doing this for? The index finger represents PURPOSE or why are we doing this? and the annular finger represents MISSION or the What, When, and How we are doing this." width="80%"></p>
    <p>Finally, experiment. Be explicit about what you expect (<em>e.g.</em>, levels of acidity in a tomato paste) and then don’t be afraid of experimenting. If your results match your expectations, call it an innovation and celebrate. Otherwise, learn from it.</p>
 </div>
@@ -113,7 +113,7 @@ image:    "10-progressive-org-structures.png"
   <li>AND THEN THEY WANT TO BURN YOU</li>
   <ul>
    <li>EPISODE 01 – First of Earth <<a href="https://radicals.world/sPzTII">https://radicals.world/sPzTII</a></li>
-   <li>EPISODE 11 – The FIAT Enclaves <<a href="https://radicals.world/KW4xmO">https://radicals.world/KW4xmO</a></li>
+   <li>EPISODE 11 – The <span style="font-size:smaller; ">FIAT</a> Enclaves <<a href="https://radicals.world/KW4xmO">https://radicals.world/KW4xmO</a></li>
   </ul>
   <li>RADICAL Ferengi <<a href="https://radicals.world/fHIfqD">https://radicals.world/fHIfqD</a></li>
  </ul>
