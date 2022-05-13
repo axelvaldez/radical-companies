@@ -32,12 +32,12 @@ image:    "en-decentralized-minting.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Terminology Used in this Doc</h1>
  <table>
   <colgroup>
-   <col style="margin-right:1em; ">
+   <col style="margin-right:1em; vertical-align:text-top; ">
    <col style="margin-left:1em; ">
   </colgroup>
-  <tbody border-right:1px solid black;>
+  <tbody style="border-right:1px solid black; ">
    <tr>
-    <td style="vertical-align:text-top; "><strong>National Fiat Coin</strong></td>
+    <td><strong>National Fiat Coin</strong></td>
     <td>
      <p>Throughout the rest of this document, you will notice that I stubbornly use “national fiat coin,” instead of “money” or “currency.” This is mostly to remind myself of a few key distinctions,</p>
      <ul>
@@ -62,7 +62,7 @@ image:    "en-decentralized-minting.svg"
     <td colspan="2" style="font-size:7px; ">&nbsp;</td>
    </tr>
   </tbody>
-1</table>
+ </table>
  <p>To avoid confusion, in this document I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">A Historical Perspective</h1>
