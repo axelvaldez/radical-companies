@@ -65,7 +65,7 @@ Mini-factories, and Squads.</p>
  <p>Finally, experiment. Be explicit about what you expect (<em>e.g.</em>, levels of acidity in a tomato paste) and then don’t be afraid of experimenting. If your results match your expectations, call it an innovation and celebrate. Otherwise, learn from it.</p>
 </div>
 
-<h2>Related</h2>
+<h2>RELATED</h2>
 <ul>
  <li>RADICAL COMPANIES,</li>
   <ul>
