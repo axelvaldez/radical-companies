@@ -15,8 +15,8 @@ image:    "10-progressive-org-structures.png"
  <p>Unfortunately, except for WL Gore, all the organizations given as primary examples have an owner-boss at the top. In these cases, the owner-boss sees himself as a “servant leader” or otherwise benevolent.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Co-Ownership Brings Robustness</h1>
-<p>It is great, in fact, that these companies have experimented with co-management, have shown that it works, and that we don’t need the FIAT hierarchical system we live under. Unfortunately, co-management doesn’t last. Because when the owner-boss exits, that’s the end of it. Most of these progressive companies have fallen back to the FIAT hierarchical model following the exit of the benevolent owner-boss.</p>
-<p>For it to be robust and long-term decentralized management must be accompanied by <a href="https://radicalcompanies.com/2022/03/14/radical-companies-for-the-impatient">decentralized ownership.</a></p>
+ <p>It is great, in fact, that these companies have experimented with co-management, have shown that it works, and that we don’t need the FIAT hierarchical system we live under. Unfortunately, co-management doesn’t last. Because when the owner-boss exits, that’s the end of it. Most of these progressive companies have fallen back to the FIAT hierarchical model following the exit of the benevolent owner-boss.</p>
+ <p>For it to be robust and long-term decentralized management must be accompanied by <a href="https://radicalcompanies.com/2022/03/14/radical-companies-for-the-impatient">decentralized ownership.</a></p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Robustness Emerges from a Solid Foundation</h2>
  <p>Rather than specific practices or strict methodologies, a solid foundation allows you to discover out what works for you, while keeping you grounded on what’s important,</p>
