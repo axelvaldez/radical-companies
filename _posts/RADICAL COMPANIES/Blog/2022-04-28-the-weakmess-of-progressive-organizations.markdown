@@ -6,7 +6,9 @@ authors:  "Matt Perez"
 image:    "10-progressive-org-structures.png"
 ---
 
-<div style="display:none;">Co-management is a step away from the <span style="font-size:smaller; ">FIAT</span> hierarchy, and that's good. However, by itself it doesn't last: we must have co-ownership for a robust, long-term organization.</div>
+<div style="display:none;">
+ <p>Co-management is a move away from the <span style="font-size:smaller; ">FIAT</span> hierarchy, and that's good. Unfortunately, by itself it doesn't last: we must have co-ownership for robust, stable governance by people.</p>
+</div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">The Weakness: Owner-Boss</h1>
  <p>In a recent Corporate Rebels post, Joost Minaar identifies <a href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid=0df9a3a5c7&mc_eid=eb36a9b4c1">ten progressive organizational structures</a> which he calls Amoebas, Cells, Circles, Chains, Fractals, Honeycombs, Lattice, Micro-communities, Mini-factories, and Squads.</p>
