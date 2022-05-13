@@ -8,16 +8,11 @@ image:    "10-progressive-org-structures.png"
 
 <div style="display:none;">Co-management is a step away from the <span style="font-size:smaller; ">FIAT</span> hierarchy, and that's good. However, by itself it doesn't last: we must have co-ownership for a robust, long-term organization.</div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">The Weakness: Owner-Boss</h2>
-<p>
-In a recent Corporate Rebels post, Joost Minaar identifies <a
-href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid=0df9a3a5c7&mc_eid=eb36a9b4c1">ten
-progressive organizational structures</a> which he calls Amoebas, Cells,
-Circles, Chains, Fractals, Honeycombs, Lattice, Micro-communities,
-Mini-factories, and Squads.</p>
-<p>Unfortunately, except for WL Gore, all the organizations given as primary examples have an owner-boss at the top. In these cases, the owner-boss sees himself as a “servant leader” or otherwise benevolent.</p>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">The Weakness: Owner-Boss</h1>
+ <p>In a recent Corporate Rebels post, Joost Minaar identifies <a href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid=0df9a3a5c7&mc_eid=eb36a9b4c1">ten progressive organizational structures</a> which he calls Amoebas, Cells, Circles, Chains, Fractals, Honeycombs, Lattice, Micro-communities, Mini-factories, and Squads.</p>
+ <p>Unfortunately, except for WL Gore, all the organizations given as primary examples have an owner-boss at the top. In these cases, the owner-boss sees himself as a “servant leader” or otherwise benevolent.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Co-Ownership Brings Robustness</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Co-Ownership Brings Robustness</h1>
 <p>It is great, in fact, that these companies have experimented with co-management, have shown that it works, and that we don’t need the FIAT hierarchical system we live under. Unfortunately, co-management doesn’t last. Because when the owner-boss exits, that’s the end of it. Most of these progressive companies have fallen back to the FIAT hierarchical model following the exit of the benevolent owner-boss.</p>
 <p>For it to be robust and long-term decentralized management must be accompanied by <a href="https://radicalcompanies.com/2022/03/14/radical-companies-for-the-impatient">decentralized ownership.</a></p>
 
@@ -64,7 +59,7 @@ Mini-factories, and Squads.</p>
    <p>Finally, experiment. Be explicit about what you expect (<em>e.g.</em>, levels of acidity in a tomato paste) and then don’t be afraid of experimenting. If your results match your expectations, call it an innovation and celebrate. Otherwise, learn from it.</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">RELATED</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">RELATED</h1>
 <ul style="font-size:smaller; ">
  <li>RADICAL COMPANIES,</li>
   <ul>
