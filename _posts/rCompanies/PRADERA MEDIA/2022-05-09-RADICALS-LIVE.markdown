@@ -15,10 +15,10 @@ image:    "pradera-background.svg"
  <p style="text-align:right; padding-right:1em; ">&mdash; John Stuart Mill</p>
 </div>
 
-<h1>Intro</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Intro</h1>
  <p><span style="font-size:smaller; ">ICONOCLAST</span>s talking.</p>
 
-<h1>Alignment</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
 <table>
 <tbody style="font-size:smaller; vertical-align:top; ">
  <tr>
@@ -85,10 +85,10 @@ image:    "pradera-background.svg"
 </tbody>
 </table>
 
-<h1>Format</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Format</h1>
  <p>The format is inspired by the HBO series <span style="font-size:smaller; ">ICONOCLAST</span>s which featured &ldquo;an hour of personal conversation and storytelling.&rdquo;<sup id="bm1"><a href="#en1">1</a></sup> There are no &ldquo;hosts&rdquo; or &ldquo;guests,&rdquo; it is simply people talking about their journeys, going against the grain of traditional beliefs and institutions, projecting what the world would be like if they were wildly successful in their efforts.</p>
 
-<h1>Modality</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Modality</h1>
  <table>
   <tbody style="font-size:smaller; vertical-align:top; ">
    <tr>
@@ -129,7 +129,7 @@ image:    "pradera-background.svg"
   </tbody>
  </table>
 
-<h1>Costs</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Costs</h1>
  <table>
   <tbody style="font-size:smaller; vertical-align:top; ">
    <tr>
@@ -171,12 +171,12 @@ image:    "pradera-background.svg"
   </tbody>
  </table>
 
-<h1>Launch</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Launch</h1>
  <p>We will start by pairing up with the first few guests. These will be people we know, like Doug Kirkpatrick and Chuck Blakeman on the co-management side and Nathan Schneider on the co-ownership side (see <span style="font-size:smaller; ">ICONOCLAST</span>s Candidates).</p>
  <p>We want diverse <span style="font-size:smaller; ">ICONOCLAST</span>ss. It could be an experienced co-management practitioner with a traditional boss. Other things to consider are age, gender, and ethnicity. The point is to create a high contrast that screams &ldquo;this works for everybody, including you, the audience.&rdquo;</p>
  <p>Later, these <span style="font-size:smaller; ">ICONOCLAST</span>ss can recruit other people to record an episode with. We need to make this as frictionless as possible while insisting that the RADICAL message not be diluted. The whole episode could be all about how &ldquo;it won’t work,&rdquo; but the RADICAL message has to be central. Otherwise, the show won’t be published under the brand, although the participants will get the raw material to use as they see fit.</p>
 
-<h1>Distribution Package</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Distribution Package</h1>
 <p>The  resulting distribution package will include,</p>
 <table style="font-size:smaller; ">
  <tbody>
@@ -269,7 +269,7 @@ image:    "pradera-background.svg"
  </tbody>
 </table>
 
-<h1>Roles and Activities</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Roles and Activities</h1>
  <h2>Direction</h2>
   <p>Recording will take two to four hours.</p>
   <table>
@@ -403,7 +403,7 @@ image:    "pradera-background.svg"
   </tbody>
  </table>
 
-<h1>Endnotes</h1>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="en1"><a href="#bm1">n</a> “Iconoclasts” would be the perfect name for this show, wouldn’t it? (Hey, <a href="https://www.youtube.com/watch?v=IdaHRoxNMZQ&feature=youtu.be&t=3">HBO/Grey Goose</a>, can we talk?) &lt;<a href="https://radicals.world/d8ykRz">https://radicals.world/d8ykRz</a>></li>
   <li id="en2"><a href="#bm2">n</a> BANNIO 4.7Ft Green Screen. Amazon, $29 &lt;<a href="https://radicals.world/DJXfXq">https://radicals.world/DJXfXq</a>></li>
