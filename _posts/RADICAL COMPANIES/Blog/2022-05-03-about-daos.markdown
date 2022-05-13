@@ -10,7 +10,7 @@ image:    "about-daos.svg"
  <p>There's nothing decentralized or autonomous about DAOs. That's not a criticism, it's simply an observation. They don't address the main societal issue today which is an overuse of force, and it's child, dominance.</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">The DAO Myth</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">The DAO Story</h1>
  <p>In spite of their name, there's nothing decentralized or autonomous about DAOs. I don't mean that as a criticism, but simply as an observation. As a criticism I would point out that the DAO technology is an <em>automated investment</em> platform meant to make creating money-first organizations more efficient. As such, it is a technology that would do nothing but expand <span style="font-size:smaller; ">FIAT</span> investment options.</p>
  <p>Financial investment has progressed from royalty, to wealthy patrons, to banks, to VCs: DAO is simply the next step in that progression. But the technology promises to do nothing towards taking ourselves and the world we live in. It is still grounded on the same principles of force and fear, "I have the capital, I am the boss." What it brings into the picture is a frictionless way for what VCs call <em>limited partners</em> (LP): more of them can enter at any capital amount. Great, more capitalists which should give way to more entrepreneurs. Not bad if you want to see the anthrosphere continue on its path to more fear, domination, force, and a bigger wealth gap with fewer and fewer at a higher, and higher top. The DAO technology as configured now will make that worse.</p>
  <p>Fortunately, all the creativity that has gone into creating the DAO technology could also be used to create alternatives to the <span style="font-size:smaller; ">FIAT</span> regime.</p>
@@ -31,12 +31,12 @@ image:    "about-daos.svg"
  <p>You might be thinking, &ldquo;But that's the way it is. You have to learn to restrain yourself and be polite about what you say and how you say. Otherwise, we will end up like animals, hurting each other.&rdquo; That reasoning is fear, too. Think of it this way: as a species, we are pretty successful. Do you think we got here by behaving like animals towards each other? In fact, social animals, like us, collaborate, not compete, and that's what&rsquo;s made them successful as a species. Perhaps we should behave more like the social animals we are.</p>
  <p>Force, and the fear it engenders, is what&rsquo;s holding us back, it hurts us, and will eventually kill more of us.</p>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">ENDNOTES</h1>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">ENDNOTES</h1>
  <ol>
   <li id="bn01">David Rosenthal. <a href="https://blog.dshr.org/2022/02/ee380-talk.html">EE380 Talk</a>. Feb 9, 2022.</li>
  </ol>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">RELATED</h1>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
    <ul>
