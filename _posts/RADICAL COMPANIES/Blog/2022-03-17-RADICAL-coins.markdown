@@ -6,13 +6,17 @@ authors:  "Matt Perez"
 image:    "en-decentralized-minting.svg"
 ---
 
-<div style="display: none; ">National fiat money is the problem, and so is our system of loans and investment. <span style="font-size: smaller; ">RADICAL COIN</span>s is a potential solution.</div>
+<div style="display: none; ">
+ <p>National fiat money is the problem, and so is our system of loans and investment. <span style="font-size: smaller; ">RADICAL COIN</span>s is a potential solution.</p>
+</div>
 
-<pre class="prettyprint" style="font-size:30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; ">If Kings and Queens
-had figured out the fiat money racket,
-we'd still be His Majesty's subjects</pre>
+<div style="background-color:beige; ">
+ <pre class="prettyprint" style="font-size:30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; ">If Kings and Queens
+ had figured out the fiat money racket,
+ we'd still be His Majesty's subjects</pre>
+</div>
 
-<h2 style="font-family:Courier New, monospace; ">Hoarding Is Violence</h2>
+<h1 style="font-family:Courier New, monospace; ">Hoarding Is Violence</h2>
  <p style="text-indent:1em; ">Today, money is the canonical medium of exchange and that is what we assumed in our book, <span style="font-size: smaller; ">RADICAL COMPANIES</span>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> After all, we need money to pay our bills and as a medium of exchange to buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people. This is problematic and leads to the most serious problems we face today.</p>
  <p style="text-indent:1em; ">For this and other reasons, I now believe that we should have a universal medium of exchange, like <SPAN STYLE="font-size: smaller; ">RADICAL COIN</SPAN>s that doesn’t have the baggage of national fiat money and can help us transform to a human centered economy.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup></p>
  <p style="text-indent:1em; ">Like today’s money, <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s function as,</p>
@@ -27,21 +31,24 @@ we'd still be His Majesty's subjects</pre>
 
 <h2 style="font-family:Courier New, monospace; ">Terminology Used in this Doc</h2>
  <table>
-  <tr>
-   <td style="vertical-align: text-top; border-right: black dotted 1px;"><strong>National Fiat Coin</strong></td>
-   <td>
-    <p style="text-indent:1em; ">Throughout the rest of this document, you will notice that I stubbornly use “national fiat coin,” instead of “money” or “currency.” This is mostly to remind myself of a few key distinctions,</p>
-   <ul>
-     <li>“Money” is primarily a concept</li>
-     <li>“Coins” are a tangible instance of money.</li>
-     <li>“Fiat money” is coinage created by fiat, out of whole cloth. It used to be that you needed gold to create coins, but not anymore.</li>
-   </ul>
+  <tbody style="margin-left:1em; ">
+   <tr>
+    <td style="vertical-align: text-top; border-right: black dotted 1px;"><strong>National Fiat Coin</strong></td>
+    <td>
+     <p style="text-indent:1em; ">Throughout the rest of this document, you will notice that I stubbornly use “national fiat coin,” instead of “money” or “currency.” This is mostly to remind myself of a few key distinctions,</p>
+     <ul>
+      <li>“Money” is primarily a concept</li>
+      <li>“Coins” are a tangible instance of money.</li>
+      <li>“Fiat money” is coinage created by fiat, out of whole cloth. It used to be that you needed gold to create coins, but not anymore.</li>
+     </ul>
      <p style="text-indent:1em; ">As a <em>unit of measure</em>, a national fiat coin works like a meter or a minute and serves as a stable denominator for transactions. However, while the meter and the minute are world-wide units, fiat coins are a national thing. This makes them very unstable and fragile as a unit of measure (<em>e.g.</em>, imagine a minute being “devalued” or something being measured in 仪表).<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
      <p style="text-indent:1em; ">National fiat coins act as a <em>store of value</em> by virtue of their fixed nominal value. This means that these coins can be used to accumulate financial wealth. From that perspective, national fiat coins do not deserve to be called “currency,” not while stuffed under the proverbial mattress.</p>
      <p style="text-indent:1em; ">National fiat coins serve as a <em>medium of exchange</em>. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point exchange was based on the value of gold, but since the 1970s the system is based on each country’s say so, national fiat coins.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup> National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.</p>
-   </td>
-  </tr>
-  <tr><td>&nbsp;</td><td></td></tr>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" style="font-size: ;">&nbsp;</td>
+   </tr>
   <tr>
    <td style="vertical-align: text-top; border-right: black dotted 1px;"><strong>Currency</strong></td>
    <td style="padding-left: 6px; "><p style="text-indent:1em; ">Another common name for national fiat coins is “currency.” It means to indicate that <em>money flows</em> from one person to the next to facilitate the exchange of commodities. But national fiat coins don’t always <em>flow</em>. Because these coins hold their value forever, they can be hoarded to accumulate financial wealth in bank accounts or under the proverbial mattress.</p>
