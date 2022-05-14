@@ -49,7 +49,7 @@ image:    "en-alignment.svg"
    <p>Local city road construction and maintenance remains a task that somebody has to be responsible for, at least, coordinating. Imagine a company whose “product” is the public good, with expertise of where the roads are needed, and whose “performance” would then be measured via RADs.</p>
    <p>The actual construction of the roads would be 1) funded by the community that needs it and 2) built by companies that have expertise in doing so and are highly valued by the communities that finance them (again, as measured by RADs).</p>
    <p>Parks and recreation are very similar, with people responsible for <em>coordinating</em> planning and construction. Ditto for water purification.</p>
-   <p>A few things off the list.</p>
+   <p>What else?</p>
   <h2 style="font-size:30px; font-family:Courier New, monospace; ">Zoning and Building Regulations</h2>
    <p>Zoning strikes me as a weak way to try and control the worst tendencies of FIAT landowners. But keeping the “bad” buildings away from the residential buildings is not harmless. And it is not a solution, either. I’d rather trust each hyper-local community, people who know each other, to make those decisions using the <span style="font-size: smaller; ">RADICAL</span> system rather than a city government.</p>
    <p>There might be a coordinating function needed as well as expertise but that can be handled by <span style="font-size: smaller; ">RADICAL</span> companies.</p>
