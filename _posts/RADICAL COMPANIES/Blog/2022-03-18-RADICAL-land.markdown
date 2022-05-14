@@ -147,7 +147,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">APPENDICES</h1>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Terminology</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; text-align:center; margin: 40px 0 20px 0; ">Terminology</h1>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Common Good</h2>
   <p style="text-align: justify; ">A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.</p>
   <p style="text-align: justify; ">Land and improvements on it are common goods. If it is occupied, it is managed by the occupier until the next bid for it comes in. If it is disoccupied, then it defaults to its surrounding community until someone bids for it (<em>i.e.</em>, the community cannot counter-bid).</p>
@@ -169,7 +169,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Winning Bid</h2>
    <p style="text-align: justify; ">The highest bid on any parcel of land.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">FAQ</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; text-align:center; margin: 40px 0 20px 0; ">FAQ</h1>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h2>
    <p style="text-align: justify; ">This really is a distinction without a difference. A <span style="font-size: smaller; ">COIN</span> minted by a one person &ldquo;company&rdquo; will probably have a very high risk and nobody would take it.</p>
    <p>On the other hand, there may be a young perfume maker who is very well known in his community for producing exquisite perfumes. People may accept her <span style="font-size: smaller; ">COIN</span>s based on personal knowledge.</p>
