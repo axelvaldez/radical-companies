@@ -175,19 +175,19 @@ image:    "en-decentralized-minting.svg"
   <p>This can result in any of these scenarios,</p>
   <table>
    <colgroup>
-    <col style="width:15en; vertical-align:text-top; text-align:right; padding-right:1em; boder-right:1px solid black; ">
+    <col style="boder-right:1px solid black; ">
     <col>
    </colgroup>
    <tr>
-    <th style="">Happy Ending</th>
+    <th style="vertical-align:text-top; text-align:right; padding-right:1em; ">Happy Ending</th>
     <td>BenCO retires the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s within three years, as promised.</td>
    </tr>
    <tr>
-    <th style="">Not so Happy Ending</th>
+    <th style="vertical-align:text-top; text-align:right; padding-right:1em; ">Not so Happy Ending</th>
     <td>BenCO has retired only wo thirds of the minted <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s by the third year. It does retire all 30,000 <span style="font-size: smaller; ">COIN</span>s.</td>
    </tr>
    <tr>
-    <th style="vertical-align: text-top; padding-right: 6px; text-align: right;">Unhappy Ending</th>
+    <th style="vertical-align:text-top; text-align:right; padding-right:1em; ">Unhappy Ending</th>
     <td>BenCO disbands and never creates enough value for society to pay the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s.</td>
    </tr>
    <tr>
