@@ -392,7 +392,7 @@ image:    "en-decentralized-minting.svg"
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align: center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <div class="footnotes">
-  <ol>
+  <ol style="font-size:smaller; ">
    <li id="fn1"><a href="#fnref1"><img src="/assets/img/arrow-up-icon.png" style="width:20px; margin-right:1ex; "></a> Matt Perez, Adrian Perez, Jose Leal. <span style="font-size: smaller; ">RADICAL COMPANIES</span>: Without Bosses or Employees. Pradera Media, 2021.</li>
    <li id="fn2"><a href="#fnref2"><img src="/assets/img/arrow-up-icon.png" style="width:20px; margin-right:1ex; "></a> I am taking inspiration from two books, <em>Debt</em> by David Graeber <<a href="https://a.co/cd9vVHk">https://a.co/cd9vVHk</a>> and <em>Rethinking Money</em> by Bernard Lietaer and Jacqui Dunne <<a  href="https://radicals.world/hEhkt0">https://radicals.world/hEhkt0</a>>.</li>
    <li id="fn3"><a href="#fnref3"><img src="/assets/img/arrow-up-icon.png" style="width:20px; margin-right:1ex; "></a> “Meter” in Mandarin.</li>
