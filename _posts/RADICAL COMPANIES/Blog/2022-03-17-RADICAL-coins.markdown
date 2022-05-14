@@ -32,12 +32,12 @@ image:    "en-decentralized-minting.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Terminology Used in this Doc</h1>
  <table>
   <colgroup>
-   <col style="width:20en; padding-right:1em; border-right:1px solid black; ">
+   <col style="width:20ex; ">
    <col>
   </colgroup>
   <tbody style="font-size:smaller; ">
    <tr style="vertical-align:text-top; ">
-    <th style="text-align:right; ">National Fiat Coin</th>
+    <th style="padding-right:1ex; text-align:right; border-right:1px solid black; ">National Fiat Coin</th>
     <td style="padding-left:1em; ">
      <p>Throughout the rest of this document, you will notice that I stubbornly use “national fiat coin,” instead of “money” or “currency.” This is mostly to remind myself of a few key distinctions,</p>
      <ul>
@@ -50,11 +50,11 @@ image:    "en-decentralized-minting.svg"
      <p>National fiat coins serve as a <em>medium of exchange</em>. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point exchange was based on the value of gold, but since the 1970s the system is based on each country’s say so, national fiat coins.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup> National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.</p>
     </td>
    </tr>
-   <tr style="vertical-align:text-top; ">
+   <tr>
     <td colspan="2" style="font-size:7px; ">&nbsp;</td>
    </tr>
    <tr>
-    <th style="text-align:right; ">Currency</th>
+    <th style="padding-right:1ex; text-align:right; border-right:1px solid black; ">Currency</th>
     <td style="margin-left:1em; ">
      <p>Another common name for national fiat coins is “currency.” It means to indicate that <em>money flows</em> from one person to the next to facilitate the exchange of commodities. But national fiat coins don’t always <em>flow</em>. Because these coins hold their value forever, they can be hoarded to accumulate financial wealth in bank accounts or under the proverbial mattress.</p>
      <p>Given this, national fiat coins do not deserve to be called “currency.”</p></td>
