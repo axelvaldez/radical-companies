@@ -43,7 +43,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
         <img src="/assets/img/en-vacant-lot-henry-george-w-border.svg" alt="Picture of a street sign that reads: EVERYBODY WORKS BUT THE VACANT LOT. I paid $3600 for this lot and will hold till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read HENRY GEORGE. Yours truly, Fay Lewis." title="Vacant Lot">
        </p>
        <p id="fnref2" style="font-size: smaller; text-align: justify; font-family:helvetica, sans-serif; ">“EVERYBODY WORKS BUT THE VACANT LOT” – I paid $3600 for this lot and will hold ‘till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read “HENRY GEORGE”</p>
-       <p style="font-size:smaller; text-align:right; font-style:italic; "><em>— Yours Truly, Fay Lewis</em><sup><a href="#fn2">2</a></sup></p>
+       <p style="font-size:smaller; text-align:right; font-family:helvetica, sans-serif; font-style:italic; "><em>— Yours Truly, Fay Lewis</em><sup><a href="#fn2">2</a></sup></p>
       </div>
      </td>
     </tr>
