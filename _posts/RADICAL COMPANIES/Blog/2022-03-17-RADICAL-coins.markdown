@@ -296,7 +296,7 @@ image:    "en-decentralized-minting.svg"
       <p>One type of “bad actor” is people who “go along.” We normally don’t think of them as bad actors, “they’re just nice people.” In any case, Shui is one of them. He notices that Namir is taking more than he contributed, but he doesn’t say anything and talks to Namir. Shui turns a blind eye towards Namir's bad behavior and goes by untested assumptions. “Namir is a nice guy and maybe he needs a little bit more than me.”</p>
      </td>
     </tr>
-    <tr>
+   <tbody style="font-size:smaller; ">
      <th style="padding-right:1ex; text-align:right; border-right:1px solid black; ">Battling Ghosts</th>
      <td style="padding-left:1ex; ">
       <p>The other type of bad actor is the one who gets pulled into behavior that he normally would not condone.</p>
@@ -305,7 +305,7 @@ image:    "en-decentralized-minting.svg"
       <p>Shui sees the exchange, misinterprets it, and instead of talking with Namir he goes on to accept higher risk COINs that he is comfortable with. Instead of talking to Namir and figuring out what’s going on, he falls into his own trap of assuming Namir is out to take business away from him.</p>
      </td>
     </tr>
-    <tr>
+   <tbody style="font-size:smaller; ">
      <th style="padding-right:1ex; text-align:right; border-right:1px solid black; ">Convenience</th>
      <td style="padding-left:1ex; ">
       <p>Other Bad Actors act out of convenience. I’ll let Seth Godin describe this one,</p>
