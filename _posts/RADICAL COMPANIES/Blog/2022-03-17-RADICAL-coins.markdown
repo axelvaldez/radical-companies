@@ -174,8 +174,12 @@ image:    "en-decentralized-minting.svg"
   </ul>
   <p>This can result in any of these scenarios,</p>
   <table>
+   <colgroup>
+    <col style="vertical-align:text-top; text-align:right; padding-right:1em; ">
+    <col>
+   </colgroup>
    <tr>
-    <th style="vertical-align: text-top; padding-right: 6px; text-align: right;">Happy Ending</th>
+    <th style="">Happy Ending</th>
     <td>BenCO retires the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s within three years, as promised.</td>
    </tr>
    <tr>
