@@ -68,7 +68,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
     <li>The fourth controls 6%.</li>
     <li>The fifth controls 3%.</li>
    </ul>
-   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  ">
+   <p style="font-family: courier new; text-align: center; width: 70%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  ">
     <img src="/assets/img/en-community-fund-not-taxes.svg" alt="Five concentric circles: at the center is the Occupier with 49%; around it is the Hyper-Local Community circle with 27%; next is the Surrounding Community with 15%; next could be the Region with 6% and the State with 3% of the fund." title="Community Fund – Not Taxes">
    </p>
    <p style="text-align: justify; ">The occupier has a big say in the use of the funds that she is contributing to the community. She may not be able to add a new room, but what&rsquo;s in it for her is that she can likely steer a big chunk of her contribution to her favorite community project.</p>
