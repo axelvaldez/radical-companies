@@ -32,7 +32,7 @@ image:    "en-decentralized-minting.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Terminology Used in this Doc</h1>
  <table>
   <colgroup>
-   <col style="width:20ex; ">
+   <col style="width:15ex; ">
    <col>
   </colgroup>
   <tbody style="font-size:smaller; ">
