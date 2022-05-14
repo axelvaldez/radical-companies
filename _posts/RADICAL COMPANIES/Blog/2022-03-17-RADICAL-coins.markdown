@@ -38,7 +38,7 @@ image:    "en-decentralized-minting.svg"
   <tbody style="font-size:smaller; ">
    <tr style="vertical-align:text-top; ">
     <th style="text-align:right; ">National Fiat Coin</th>
-    <td style="margin-left:1em; ">
+    <td style="padding-left:1em; ">
      <p>Throughout the rest of this document, you will notice that I stubbornly use “national fiat coin,” instead of “money” or “currency.” This is mostly to remind myself of a few key distinctions,</p>
      <ul>
       <li>“Money” is primarily a concept</li>
