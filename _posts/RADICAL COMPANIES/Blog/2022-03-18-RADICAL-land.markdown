@@ -6,70 +6,77 @@ authors:  "Matt Perez"
 image:    "en-vacant-lot-henry-george-wo-border.svg"
 ---
 
-<div style="display: none;">What about land in a RADICAL world? Would you <em>own</em> it?</div>
+<div style="display: none;">
+ <p>What about land in a RADICAL world? Would you <em>own</em> it?</p>
+</div>
 
 <div id="fnref1" style="background-color:#FFFAF0; padding:1em; border:1px solid CadetBlue; margin-bottom:20px; ">
  <pre class="prettyprint" style="font-size:30px; text-align:center; font-family:American Typewriter, serif; white-space:normal; ">&ldquo;&hellip; I am in favor of cutting up the wild lands into parcels, <em>so that every poor man may have a home</em>.&rdquo;</pre>
  <pre style="text-align:right; ">&mdash; Abraham Lincoln<sup><a href="#fn1" rel="footnote">1</a></sup></pre>
 </div>
 
-<h1 style="font-size:50px; ">Land Defines Local</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Land Defines Local</h1>
  <p style="text-align: justify; ">In the book <span style="font-size:smaller; "><a href="https://radicalcompanies.com">RADICAL COMPANIES</a></span>, we only considered how the <span style="font-size: smaller; ">RADICAL</span> model would work in <em>a company environment</em>, and other than a mention, we said nothing about money, land, or governments.</p>
  <p style="text-align: justify; ">In <a href="https://radicalcompanies.com/2022/03/17/radical-coins"><span style="font-size: smaller; ">RADICAL COIN</span></a>, I laid out a few ideas about money and what it would look like in a decentralized, transparent world; land and government are definitely harder topics for me. In this document I am laying out my thoughts about what the model for land would look like in a <span style="font-size: smaller; ">RADICAL</span> world.</p>
-<h2>The <span style="font-size:smaller; ">RADICAL</span> Land Model</h2>
- <p id="fnref2" style="text-align: justify; ">In <em>Another Now</em>, Yanis Varoufakis envisions all land as a commons controlled by “gComms, as the ground commons authorities or ground trusts came to be known.”<sup><a href="#fn2" rel="footnote">2</a></sup> Henry George saw the land as one thing and anything sitting on it as separate, so his proposed single tax would tax the land net of improvements. Various people, including Joeri Torfs and Pim Ampe, have envisioned land <em>and</em> improvements as being perennially open for sale.</p>
- <p style="text-align: justify; ">My working model is that,</p>
- <ul>
-  <li>Treat land <em>and</em> improvements as one thing&mdash;it would be difficult, at best, to separate the two in people&rsquo;s minds for the foreseeable future.</li>
-  <li>The combo would always be open for bids, so that use privilege would be determined by <em>a market dedicated to calculating land value</em>.</li>
- </ul>
-<h2>Land Is always Open for Bid</h2>
- <p style="text-align: justify; ">Having all land perennially open for bids creates a decentralized market, able to calculate its current value. That is because the winning bid will reflect the perceived value of the land, any improvements, its location, and, just as importantly, the value of contributions made by the community around it,</p>
- <ul>
-  <li>Two identical lots will be valued differently according to their <em>improvements</em>. The one with a small dilapidated barn on it will be valued less than the lot with a well-maintained barn.</li>
-  <li>A lot, with the exact same house on it at one <em>location</em> may be valued very differently than the same lot and house in another location.</li>
-  <li>The <em>community</em> around a particular piece of land determines its overarching value. For example, there is a big difference in pricing for nearly identical houses but in different towns.</li>
- </ul>
- <table>
-  <tr>
-   <td>
-    <div style="width: 80%; margin: 0 10%; ">
-     <p style="font-family: courier new; text-align: center; border: silver dotted 1px; margin: auto; margin-bottom: 20px;">
-      <img src="/assets/img/en-vacant-lot-henry-george-w-border.svg" alt="Picture of a street sign that reads: EVERYBODY WORKS BUT THE VACANT LOT. I paid $3600 for this lot and will hold till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read HENRY GEORGE. Yours truly, Fay Lewis." title="Vacant Lot">
-     </p>
-     <p id="fnref2" style="font-size: smaller; text-align: justify; ">“EVERYBODY WORKS BUT THE VACANT LOT” – I paid $3600 for this lot and will hold ‘till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read “HENRY GEORGE”</p>
-     <p style="font-size:smaller; text-align:right; "><em>— Yours Truly, Fay Lewis</em><sup><a href="#fn2">2</a></sup></p>
-    </div>
-   </td>
-  </tr>
- </table>
- <p style="text-align: justify; ">The bidding system might look something like this,</p>
- <ul>
-  <li>Rather than open for bids all the time, uninvited bidding may happen, say, once or twice a year. Each community may have a different rhythm.</li>
-  <li>The current occupier, on the other hand, may invite bids at any time (<em>e.g.</em>, somebody moving out of a house).</li>
-  <li>The bids would be verified to be in good faith.</li>
-  <li>The winning bidder takes over as the new occupier. This could be the current occupier&rsquo;s bid.</li>
-  <li>Whereas land ownership today is static and never ending, a winning bidder occupies the land until the next winning bid.</li>
-  <li>Taxes, or equivalent, will go up or down as the winning bids go up or down.</li>
- </ul>
- <h2>Local Land, Local Taxes?</h2>
-  <p style="text-align: justify; ">In the FIAT model, “taxes” disappear into the coffers of the County or State government. In the <span style="font-size: smaller; ">RADICAL</span> model, the occupier pays a percentage of her winning bid to a community fund. The fund would be used to create common goods.</p>
-  <p style="text-align: justify; ">But what is a community in this context? One possible way of defining this is to imagine the “community” as concentric circles emanating from the land in question. The community fund could then be governed as follows,</p>
+ <h2>The <span style="font-size:smaller; ">RADICAL</span> Land Model</h2>
+  <p id="fnref2" style="text-align: justify; ">In <em>Another Now</em>, Yanis Varoufakis envisions all land as a commons controlled by “gComms, as the ground commons authorities or ground trusts came to be known.”<sup><a href="#fn2" rel="footnote">2</a></sup> Henry George saw the land as one thing and anything sitting on it as separate, so his proposed single tax would tax the land net of improvements. Various people, including Joeri Torfs and Pim Ampe, have envisioned land <em>and</em> improvements as being perennially open for sale.</p>
+  <p style="text-align: justify; ">My working model is that,</p>
   <ul>
-   <li>The occupier controls 49% of the funds.</li>
-  <li>The first circle controls 27% of it.</li>
-  <li>The second controls 15%.</li>
-  <li>The fourth controls 6%.</li>
-  <li>The fifth controls 3%.</li>
- </ul>
- <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  ">
-  <img src="/assets/img/en-community-fund-not-taxes.svg" alt="Five concentric circles: at the center is the Occupier with 49%; around it is the Hyper-Local Community circle with 27%; next is the Surrounding Community with 15%; next could be the Region with 6% and the State with 3% of the fund." title="Community Fund – Not Taxes">
- </p>
- <p style="text-align: justify; ">The occupier has a big say in the use of the funds that she is contributing to the community. She may not be able to add a new room, but what&rsquo;s in it for her is that she can likely steer a big chunk of her contribution to her favorite community project.</p>
- <p style="text-align: justify; ">The adjacent, hyper-local community also has a big say and can do significant works when combined with what other occupiers contribute to the fund. Ditto for the surrounding community.</p>
- <p style="text-align: justify; ">I am not sure about “Region” and “State,” thus the question marks, but I suspect the latter will be around for a long time.</p>
+   <li>Treat land <em>and</em> improvements as one thing&mdash;it would be difficult, at best, to separate the two in people&rsquo;s minds for the foreseeable future.</li>
+   <li>The combo would always be open for bids, so that use privilege would be determined by <em>a market dedicated to calculating land value</em>.</li>
+  </ul>
+ <h2>Land Is always Open for Bid</h2>
+  <p style="text-align: justify; ">Having all land perennially open for bids creates a decentralized market, able to calculate its current value. That is because the winning bid will reflect the perceived value of the land, any improvements, its location, and, just as importantly, the value of contributions made by the community around it,</p>
+  <ul>
+   <li>Two identical lots will be valued differently according to their <em>improvements</em>. The one with a small dilapidated barn on it will be valued less than the lot with a well-maintained barn.</li>
+   <li>A lot, with the exact same house on it at one <em>location</em> may be valued very differently than the same lot and house in another location.</li>
+   <li>The <em>community</em> around a particular piece of land determines its overarching value. For example, there is a big difference in pricing for nearly identical houses but in different towns.</li>
+  </ul>
+  <table>
+   <colgroup>
+    <col>
+   </colgroup>
+   <tbody>
+    <tr>
+     <td>
+      <div style="width: 80%; margin: 0 10%; ">
+       <p style="font-family: courier new; text-align: center; border: silver dotted 1px; margin: auto; margin-bottom: 20px;">
+        <img src="/assets/img/en-vacant-lot-henry-george-w-border.svg" alt="Picture of a street sign that reads: EVERYBODY WORKS BUT THE VACANT LOT. I paid $3600 for this lot and will hold till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read HENRY GEORGE. Yours truly, Fay Lewis." title="Vacant Lot">
+       </p>
+       <p id="fnref2" style="font-size: smaller; text-align: justify; ">“EVERYBODY WORKS BUT THE VACANT LOT” – I paid $3600 for this lot and will hold ‘till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read “HENRY GEORGE”</p>
+       <p style="font-size:smaller; text-align:right; "><em>— Yours Truly, Fay Lewis</em><sup><a href="#fn2">2</a></sup></p>
+      </div>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <p style="text-align: justify; ">The bidding system might look something like this,</p>
+  <ul>
+   <li>Rather than open for bids all the time, uninvited bidding may happen, say, once or twice a year. Each community may have a different rhythm.</li>
+   <li>The current occupier, on the other hand, may invite bids at any time (<em>e.g.</em>, somebody moving out of a house).</li>
+   <li>The bids would be verified to be in good faith.</li>
+   <li>The winning bidder takes over as the new occupier. This could be the current occupier&rsquo;s bid.</li>
+   <li>Whereas land ownership today is static and never ending, a winning bidder occupies the land until the next winning bid.</li>
+   <li>Taxes, or equivalent, will go up or down as the winning bids go up or down.</li>
+  </ul>
+  <h2>Local Land, Local Taxes?</h2>
+   <p style="text-align: justify; ">In the FIAT model, “taxes” disappear into the coffers of the County or State government. In the <span style="font-size: smaller; ">RADICAL</span> model, the occupier pays a percentage of her winning bid to a community fund. The fund would be used to create common goods.</p>
+   <p style="text-align: justify; ">But what is a community in this context? One possible way of defining this is to imagine the “community” as concentric circles emanating from the land in question. The community fund could then be governed as follows,</p>
+   <ul>
+    <li>The occupier controls 49% of the funds.</li>
+    <li>The first circle controls 27% of it.</li>
+    <li>The second controls 15%.</li>
+    <li>The fourth controls 6%.</li>
+    <li>The fifth controls 3%.</li>
+   </ul>
+   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  ">
+    <img src="/assets/img/en-community-fund-not-taxes.svg" alt="Five concentric circles: at the center is the Occupier with 49%; around it is the Hyper-Local Community circle with 27%; next is the Surrounding Community with 15%; next could be the Region with 6% and the State with 3% of the fund." title="Community Fund – Not Taxes">
+   </p>
+   <p style="text-align: justify; ">The occupier has a big say in the use of the funds that she is contributing to the community. She may not be able to add a new room, but what&rsquo;s in it for her is that she can likely steer a big chunk of her contribution to her favorite community project.</p>
+   <p style="text-align: justify; ">The adjacent, hyper-local community also has a big say and can do significant works when combined with what other occupiers contribute to the fund. Ditto for the surrounding community.</p>
+   <p style="text-align: justify; ">I am not sure about “Region” and “State,” thus the question marks, but I suspect the latter will be around for a long time.</p>
 
-<h1 style="font-size:50px; ">What about the the Country and Military?</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">What about the the Country and Military?</h1>
  <p style="text-align: justify; ">Note that there is no “country” circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a “country,” the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a Banner earmarked for a research area. I am not counting on the “goodness” of people or “their kind hearts”—instead, I am counting on people&rsquo;s interests and their persuasive power when impassioned enough.</p>
  <h2>The Country?</h2>
   <p>Note that there is no “country” circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a “country,” the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a Banner earmarked for a research area. I am not counting on the “goodness” of people or “their kind hearts”&mdash;instead, I am counting on people&rsquo;s interests and the persuasive power of their enthusiasm.</p>
@@ -77,18 +84,18 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
   <p style="text-align: justify; ">Also, there is no funds for a military or any kind of state violence. It may take longer, but that&rsquo;s where we are heading.</p>
   <p id="fnref3" style="text-align: justify; ">But, how n&auml;ive, you might say, all it takes is a <em>few bad people</em> with weapons to take over everything, won’t it? Again, I am counting on &rsquo;s aversion to violence and how swiftly they can mobilize in a connected world to neutralize the violence of the “few bad people.”<sup><a href="#fn3" rel="footnote">3</a></sup></p>
 
-<h1 style="font-size:50px; ">Community Fund Governance</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Community Fund Governance</h1>
  <p>The “circles” in the pictures could be governed jointly or individually. For example, hyper-local community circles (26%) may join up to create a park. Surrounding communites (3%) may pool their funds to create a bullet train through the region. Keep in mind that when aggregated, Region and State circles have a pretty big pool of actual cash to create <em>common goods</em>.</p>
  <p style="font-family:courier new; text-align:center; width:80%; border:silver dotted 1px; margin:auto; margin-bottom:20px;  ">
   <img src="/assets/img/en-community-funds-intertwined.svg" alt="Five intertwined circles. the top two are intertwined at the Hyper-Local Community level (in yellow). Next two circle are intertwined at the Community level (l)ight orange). Next two are intertwined at the Region level (liht pink). The last two are intertwined at the State level (light brown)." title="Community Funds–Intertwined">
  </p>
  <p style="text-align: justify; ">A couple of unpolished thoughts,</p>
-<ul>
- <li>Occupiers should not be able to pool their piece of the community fund with other occupiers.</li>
- <li>On the other hand, occupiers can pool their piece of a fund with the Community or other non-occupier circles to create <em>common goods</em>.</li>
-</ul>
+ <ul>
+  <li>Occupiers should not be able to pool their piece of the community fund with other occupiers.</li>
+  <li>On the other hand, occupiers can pool their piece of a fund with the Community or other non-occupier circles to create <em>common goods</em>.</li>
+ </ul>
 
-<h1 style="font-size:50px; ">The <span style="font-size:smaller; ">RADICAL COMPANIES</span> Model</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">The <span style="font-size:smaller; ">RADICAL COMPANIES</span> Model</h1>
  <p style="text-align: justify; ">It may be worth repeating here a few words about the <span style="font-size: smaller; ">RADICAL</span> framework and how it&rsquo;s different from our current world. Probably the most confusing thing about it is that a RADI<span style="font-size: smaller; ">RADICAL</span> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.</p>
  <p style="text-align: justify; ">The only difference—the big difference—is that the <span style="font-size: smaller; ">RADICAL</span> system is centered around people&rsquo;s interdependence.</p>
  <p style="text-align: justify; ">Our current system is based on separating us: countries, towns, good and bad neighborhoods; political parties and their vastly different realities; need to know, secrecy, protection. This leaves us disconnected and drives us to isolation. Businesses are built on creating platforms to bring us back together, for a fee. This works for a world where money comes first, ahead of everything else.</p>
@@ -101,42 +108,47 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  </p>
  <p style="text-align: justify; ">They do this starting from a simple foundation of interdependence,</p>
  <table align="center">
-  <tr>
-   <td valign="middle" style="text-align: right; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align: center; background-color: lightgrey; ">Meaning &<br>Belonging</td>
-   <td valign="middle" style="font-size: larger; "> ⬈</td>
-   <td valign="top">relationships</td>
-  </tr>
-  <tr>
-   <td style="background-color: white; height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align: right; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align: center; background-color: lightgrey;">Transparency &<br>Decentralization</td>
-   <td valign="middle" style="font-size: larger; "> ⬈</td>
-   <td valign="top"><em>autonomy</em></td>
-  </tr>
-  <tr>
-   <td style="background-color: white; height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align: right; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align: center; background-color: lightgrey; ">Alignment &<br>Experimentation</td>
-   <td valign="middle" style="font-size: larger; "> ⬈</td>
-   <td valign="top"><em>collaboration</em></td>
-  </tr>
-  <tr>
-   <td colspan="4">&nbsp;</td>
-  </tr>
+  <colgroup>
+   <col>
+  </colgroup>
+  <tbody>
+   <tr>
+    <td valign="middle" style="text-align: right; ">principles&nbsp;&nbsp;</td>
+    <td style="text-align: center; background-color: lightgrey; ">Meaning &<br>Belonging</td>
+    <td valign="middle" style="font-size: larger; "> ⬈</td>
+    <td valign="top">relationships</td>
+   </tr>
+   <tr>
+    <td style="background-color: white; height: 7px;"></td>
+   </tr>
+   <tr>
+    <td valign="middle" style="text-align: right; ">commitments&nbsp;&nbsp;</td>
+    <td style="text-align: center; background-color: lightgrey;">Transparency &<br>Decentralization</td>
+    <td valign="middle" style="font-size: larger; "> ⬈</td>
+    <td valign="top"><em>autonomy</em></td>
+   </tr>
+   <tr>
+    <td style="background-color: white; height: 7px;"></td>
+   </tr>
+   <tr>
+    <td valign="middle" style="text-align: right; ">practices&nbsp;&nbsp;</td>
+    <td style="text-align: center; background-color: lightgrey; ">Alignment &<br>Experimentation</td>
+    <td valign="middle" style="font-size: larger; "> ⬈</td>
+    <td valign="top"><em>collaboration</em></td>
+   </tr>
+   <tr>
+    <td colspan="4">&nbsp;</td>
+   </tr>
+  </tbody>
  </table>
 
-<h1 style="font-size:50px; ">Thriving Local Communities</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Thriving Local Communities</h1>
  <p id="fnref4" style="text-align: justify; ">As I see it, the <span style="font-size: smaller; ">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup><a href="#fn4" rel="footnote">4</a></sup></p>
  <p style="text-align: justify; ">The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of interdependence towards a higher level of collaboration.</p>
 
-<h1 style="font-size:50px; text-align:center; margin: 40px 0 20px 0; ">APPENDICES</h1>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">APPENDICES</h1>
 
-<h1 style="font-size:50px; text-align:center; ">Terminology</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Terminology</h1>
  <h2>Common Good</h2>
   <p style="text-align: justify; ">A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.</p>
   <p style="text-align: justify; ">Land and improvements on it are common goods. If it is occupied, it is managed by the occupier until the next bid for it comes in. If it is disoccupied, then it defaults to its surrounding community until someone bids for it (<em>i.e.</em>, the community cannot counter-bid).</p>
@@ -158,12 +170,12 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
  <h2>Winning Bid</h2>
    <p style="text-align: justify; ">The highest bid on any parcel of land.</p>
 
-<h1 style="font-size:50px; text-align:center; ">FAQ</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">FAQ</h1>
  <h2>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h2>
    <p style="text-align: justify; ">This really is a distinction without a difference. A <span style="font-size: smaller; ">COIN</span> minted by a one person &ldquo;company&rdquo; will probably have a very high risk and nobody would take it.</p>
    <p>On the other hand, there may be a young perfume maker who is very well known in his community for producing exquisite perfumes. People may accept her <span style="font-size: smaller; ">COIN</span>s based on personal knowledge.</p>
 
-<h1 style="font-size:50px; text-align:center; ">ENDNOTES</h1>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <div class="endnotes">
   <ol>
    <li id="fn1"><h6><a href="#fnref1"><img src="/assets/img/arrow-up-icon.png"></a>&nbsp;Abraham Lincoln, 16th USA President. Speech to Germans at Cincinnati, Ohio, February 12, 1861 <<a href="https://radicals.world/5jV3VN">https://radicals.world/5jV3VN</a>></li>
@@ -173,7 +185,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
   </ol>
  </div>
 
-<h1 style="font-size:50px; text-align:center; ">RELATED</h1>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">RELATED</h1>
  <ul style="font-size:smaller; ">
   <li>RADICAL COMPANIES,</li>
   <ul>
