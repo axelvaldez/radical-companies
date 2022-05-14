@@ -273,7 +273,7 @@ image:    "en-decentralized-minting.svg"
    <li>Companies that are constantly creating debt and not retiring it, will find themselves isolated. Their COINs will get riskier and riskier and they will be acceptable to fewer and fewer people. Hopefully, they will see guidance and help from others.</li>
   </ul>
 
-<h1 style="font-family:Courier New, monospace; ">TA-DA!</h1>
+<h1 style="font-size:30px; font-family:Courier New, monospace; ">TA-DA!</h1>
  <p><span style="font-size: smaller; ">RAD</span>s account for what so far has been unaccountable. People get to decide what a contribution is and by doing so they “measure” what has been unmeasurable: an act of kindness, spontaneous help. Co-owners get <span style="font-size: smaller; ">COIN</span>s according to the percentage of RADs they have and that makes COINs a much broader measure than just financial value.</p>
  <p>Companies mint <span style="font-size: smaller; ">COIN</span>s. This means that <span style="font-size: smaller; ">COIN</span>s are decentralized and free of interference by national and international politics, financial institutions, and too-big-to-fail transnationals. <span style="font-size: smaller; ">COIN</span>s will make it possible to create a world-wide market that Adam Smith would be happy with.<sup id="fnref24"><a href="#fn24" rel="footnote">24</a></sup></p>
  <p>The whole system is transparent and each of us can decide to accept a payment or not. It is not mysterious or left to robed experts to figure things out. Each of us can do it because each of us is an expert on our own sensitivities and how we interpret the world.</p>
