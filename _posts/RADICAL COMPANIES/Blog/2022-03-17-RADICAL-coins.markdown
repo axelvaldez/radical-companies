@@ -308,13 +308,11 @@ image:    "en-decentralized-minting.svg"
      <th style="padding-right:1ex; text-align:right; border-right:1px solid black; ">Convenience</th>
      <td style="padding-left:1ex; ">
       <p>Other Bad Actors act out of convenience. I’ll let Seth Godin describe this one,</p>
-      <div style="padding: 10px 40px;">
-       <p style="font-size: smaller;">“<strong>Social convenience</strong>: it’s easier to sit through a boring cocktail party or a meeting than it is to tell someone you don’t want to come.</p>
-       <p style="font-size: smaller;">“<strong>Physical convenience</strong>: things that are handy are much more likely  to be chosen than ones that require us to move somewhere to go get them.</p>
-       <p style="font-size: smaller;">“<strong>Intellectual convenience</strong>: change makes us uncomfortable. Sunk costs are hard to ignore. Possibility comes with agency, and agency comes with risk.</p>
-       <p style="font-size: smaller;">“<strong>Financial convenience</strong>: if it’s cheaper in the short run, we’re more likely to choose it, even if it costs satisfaction, opportunity or cash in the long run.</p>
-       <p style="font-size: smaller;">“<strong>Cultural convenience</strong>: A combination of all of these, because culture likes the status quo and reminds of this regularly.”<sup id="fnref25"><a href="#fn25" rel="footnote">25</a></sup></p>
-      </div>
+       <p style="font-size: smaller; margin-bottom:6px; ">“<strong>Social convenience</strong>: it’s easier to sit through a boring cocktail party or a meeting than it is to tell someone you don’t want to come.</p>
+       <p style="font-size: smaller; margin-bottom:6px; ">“<strong>Physical convenience</strong>: things that are handy are much more likely  to be chosen than ones that require us to move somewhere to go get them.</p>
+       <p style="font-size: smaller; margin-bottom:6px; ">“<strong>Intellectual convenience</strong>: change makes us uncomfortable. Sunk costs are hard to ignore. Possibility comes with agency, and agency comes with risk.</p>
+       <p style="font-size: smaller; margin-bottom:6px; ">“<strong>Financial convenience</strong>: if it’s cheaper in the short run, we’re more likely to choose it, even if it costs satisfaction, opportunity or cash in the long run.</p>
+       <p style="font-size: smaller; margin-bottom:6px; ">“<strong>Cultural convenience</strong>: A combination of all of these, because culture likes the status quo and reminds of this regularly.”<sup id="fnref25"><a href="#fn25" rel="footnote">25</a></sup></p>
      </td>
     </tr>
    </tbody>
