@@ -6,11 +6,8 @@ authors:  "Matt PEREZ | Adrian PEREZ | Jose LEAL"
 image:    "questions.png"
 ---
 
- <p>These questions come from readers of the <a
-href="https://docs.google.com/document/d/10NJA6kzzzHZiS-CQBB6HpWdJ1gFqmYK5kNQYG_JR7X0/edit#heading=h.87ak6hy0sbuh">RADICAL
-COMPANIES</a> book and its accompanying booklet, <a
-href="https://docs.google.com/document/d/17uegxy6GPeLsajIaM_6faQ0hdl56PqMXpJvLW37iJVg/edit#">For
-the Impatient</a>.</p>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Intro</h1>
+ <p>These questions come from readers of the <a href="https://docs.google.com/document/d/10NJA6kzzzHZiS-CQBB6HpWdJ1gFqmYK5kNQYG_JR7X0/edit#heading=h.87ak6hy0sbuh">RADICAL COMPANIES</a> book and its accompanying booklet, <a href="https://docs.google.com/document/d/17uegxy6GPeLsajIaM_6faQ0hdl56PqMXpJvLW37iJVg/edit#">For the Impatient</a>.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Co-Ownership</h1>
 
@@ -129,11 +126,7 @@ the Impatient</a>.</p>
  <p>We never said anything about taxes, law, or anything else we don’t know much about. These are suggestions, thought experiments to point to  how things could possibly work.</p>
  <p>Maybe it is not so much a case that these ideas are impractical, as it is that they are different and unfamiliar.</p>
 
-<br>
-<br>
-
 <h1 style="text-align: center; ">Co-Management</h1>
-<br>
 
 <h2 style="font-size:30px; font-family:Courier New, monospace;  ">What about titles?</h2>
  <p>In a co-managed company there is no FIAT hierarchy and, therefore, there are no hierarchical titles. Even if you use them when you work with FIAT businesses, these titles don’t mean anything inside a co-managed company.</p>
@@ -173,8 +166,7 @@ the Impatient</a>.</p>
  <p>What you get instead is a company that creates more wealth that more people benefit from, a better quality of life for all involved, it’s more innovative and less risky, more resilient and scalable, a learning, collaborative culture.</p>
 
 <h2 style="font-size:30px; font-family:Courier New, monospace;  ">If the benevolent owners are fairly young, self-management is not so at risk, right?</h2>
- <p>The owners could decide to sell the company or they can simply change their mind overnight. Unfortunately, we’ve had an example of the latter recently
-(<em>ca.</em>, 2021), witness Basecamp.</p>
+ <p>The owners could decide to sell the company or they can simply change their mind overnight. Unfortunately, we’ve had an example of the latter recently (<em>ca.</em>, 2021), witness Basecamp.</p>
  <p>Basecamp is a software company and was touted as a self-management poster child. Its owners, Jason Fried and David Heinemeier Hansson, believe strongly in the capability of people to self-manage – Fried even wrote books about it. Then one day Jason and David got off on the wrong side of their respective beds, so to speak, and brushed aside everything that the Basecamp <em>employees</em> had built over many years as a self-managed team. As a result Basecamp lost more than a third of its staff overnight.</p>
  <p>BTW, this overnight change of heart was, at least, more open (<em>i.e.</em>, Fried posted the letter publicly). When benevolent owners backtrack little by little, it most often goes unnoticed.</p>
 
@@ -191,9 +183,6 @@ the Impatient</a>.</p>
   <li>Conflict resolution mechanism</li>
 </ul>
  <p>For more information, see the <a href="https://docs.google.com/document/d/10NJA6kzzzHZiS-CQBB6HpWdJ1gFqmYK5kNQYG_JR7X0/edit?pli=1#heading=h.ud821w7zvp4x">Ostrom’s Core Design Principles</a> book appendix.</p>
-
-<br>
-<br>
 
 <h1 style="text-align: center; ">General</h1>
 <br>
@@ -300,9 +289,6 @@ the Impatient</a>.</p>
 <h2 style="font-size:30px; font-family:Courier New, monospace;  ">So what if the boss’ project gets more resources? How many super successful projects and strategies would have never seen the light of day if it weren’t for the founders?</h2>
  <p>In a FIAT organization, the boss (and his proxies) decide who gets how much for which project and which idea gets implemented. If it turns out to be a financial win, the boss will pat himself on the back for being innovative and whitepapers will be written about it. If it doesn't turn out, then nobody will talk about it.</p>
  <p>In a RADICAL company, everybody has the opportunity to ask the other co-owners to invest in their project. That opens the door to more innovation to come from all over, not just a select few. If you start to implement it and it becomes obvious that it is not going to work, the co-owners working on it will pull the red flag. If it looks like it's going to work, the co-owners working on it will probably push a bit harder to get out the door sooner because they know that it is not just good ideas, but good ideas that make it to market.</p>
-
-<br>
-<br>
 
 <h1 style="text-align: center;">RELATED</h1>
  <ul>
