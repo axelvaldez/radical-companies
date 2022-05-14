@@ -90,33 +90,33 @@ image:    "en-decentralized-minting.svg"
   <p>hey do this starting from a simple foundation of interdependence,</p>
   <table align="center">
    <colgroup>
-    <col style="width:20en; padding-right:1em; border-right:1px solid black; ">
+    <col style="width:20en; ">
     <col colspan="3">
    </colgroup>
    <tbody style="font-size:smaller; ">
     <tr style="vertical-align:text-top; ">
-     <th style="text-align:right; ">principles</th>
+     <th style="text-align:right; padding-right:1ex; ">principles</th>
      <td style="text-align: center; background-color: lightgrey; ">Meaning &<br>Belonging</td>
      <td valign="middle" style="font-size: larger; "> ⬈</td>
      <td valign="top">relationships</td>
     </tr>
     <tr>
-     <td style="background-color:white; font-size:7px; ">&nbsp;</td>
+     <td style="font-size:7px; ">&nbsp;</td>
     </tr>
     <tr style="vertical-align:text-top; ">
-     <th style="text-align:right; ">commitments</th>
+     <th style="text-align:right; padding-right:1ex; ">commitments</th>
      <td style="text-align: center; background-color: lightgrey;">Transparency &<br>Decentralization</td>
-     <td valign="middle" style="font-size: larger; "> ⬈</td>
+     <td style="font-size:larger; vertical-align:middle; "> ⬈</td>
      <td valign="top"><em>autonomy</em></td>
     </tr>
     <tr>
-     <td style="background-color:white; font-size:7px; ">&nbsp;</td>
+     <td style="font-size:7px; ">&nbsp;</td>
     </tr>
     <tr>
-     <td valign="middle" style="text-align: right; ">practices&nbsp;&nbsp;</td>
+     <td style="text-align: right;  padding-right:1ex;">practices&nbsp;&nbsp;</td>
      <td style="text-align: center; background-color: lightgrey; ">Alignment &<br>Experimentation</td>
      <td valign="middle" style="font-size: larger; "> ⬈</td>
-     <td valign="top"><em>collaboration</em></td>
+     <td style="font-size:larger; vertical-align:middle; "> ⬈</td>
     </tr>
     <tr>
      <td colspan="4">&nbsp;</td>
