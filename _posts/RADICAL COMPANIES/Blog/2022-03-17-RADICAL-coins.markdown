@@ -175,7 +175,7 @@ image:    "en-decentralized-minting.svg"
   <p>This can result in any of these scenarios,</p>
   <table>
    <colgroup>
-    <col style="padding-right:1em; width:20en; border-right:1px solid black; ">
+    <col style="padding-right:1em; width:30en; border-right:1px solid black; ">
     <col style="padding-left:1em; ">
    </colgroup>
    <tr>
