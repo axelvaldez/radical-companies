@@ -25,7 +25,6 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
    <li>Treat land <em>and</em> improvements as one thing&mdash;it would be difficult, at best, to separate the two in people&rsquo;s minds for the foreseeable future.</li>
    <li>The combo would always be open for bids, so that use privilege would be determined by <em>a market dedicated to calculating land value</em>.</li>
   </ul>
- <h2>Land Is always Open for Bid</h2>
   <p style="text-align: justify; ">Having all land perennially open for bids creates a decentralized market, able to calculate its current value. That is because the winning bid will reflect the perceived value of the land, any improvements, its location, and, just as importantly, the value of contributions made by the community around it,</p>
   <ul>
    <li>Two identical lots will be valued differently according to their <em>improvements</em>. The one with a small dilapidated barn on it will be valued less than the lot with a well-maintained barn.</li>
@@ -59,7 +58,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
    <li>Whereas land ownership today is static and never ending, a winning bidder occupies the land until the next winning bid.</li>
    <li>Taxes, or equivalent, will go up or down as the winning bids go up or down.</li>
   </ul>
-  <h2>Local Land, Local Taxes?</h2>
+  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Local Land, Local Taxes?</h2>
    <p style="text-align: justify; ">In the FIAT model, “taxes” disappear into the coffers of the County or State government. In the <span style="font-size: smaller; ">RADICAL</span> model, the occupier pays a percentage of her winning bid to a community fund. The fund would be used to create common goods.</p>
    <p style="text-align: justify; ">But what is a community in this context? One possible way of defining this is to imagine the “community” as concentric circles emanating from the land in question. The community fund could then be governed as follows,</p>
    <ul>
