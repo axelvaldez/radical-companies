@@ -96,8 +96,8 @@ image:    "en-decentralized-minting.svg"
    <tbody style="font-size:smaller; ">
     <tr style="vertical-align:text-top; ">
      <th style="text-align:right; padding-right:1ex; ">principles</th>
-     <td style="text-align: center; background-color: lightgrey; ">Meaning &<br>Belonging</td>
-     <td valign="middle" style="font-size: larger; "> ⬈</td>
+     <td style="text-align:center; background-color:lightgrey; ">Meaning &<br>Belonging</td>
+     <td valign="middle" style="font-size:larger; vertical-align:middle; "> ⬈</td>
      <td valign="top">relationships</td>
     </tr>
     <tr>
@@ -105,18 +105,18 @@ image:    "en-decentralized-minting.svg"
     </tr>
     <tr style="vertical-align:text-top; ">
      <th style="text-align:right; padding-right:1ex; ">commitments</th>
-     <td style="text-align: center; background-color: lightgrey;">Transparency &<br>Decentralization</td>
+     <td style="text-align:center; background-color:lightgrey;">Transparency &<br>Decentralization</td>
      <td style="font-size:larger; vertical-align:middle; "> ⬈</td>
      <td valign="top"><em>autonomy</em></td>
     </tr>
     <tr>
      <td style="font-size:7px; ">&nbsp;</td>
     </tr>
-    <tr>
-     <td style="text-align: right;  padding-right:1ex;">practices&nbsp;&nbsp;</td>
-     <td style="text-align: center; background-color: lightgrey; ">Alignment &<br>Experimentation</td>
+    <tr style="vertical-align:text-top; ">
+     <td style="text-align:right; padding-right:1ex; ">practices</td>
+     <td style="text-align:center; background-color:lightgrey; ">Alignment &<br>Experimentation</td>
      <td valign="middle" style="font-size: larger; "> ⬈</td>
-     <td style="font-size:larger; vertical-align:middle; "> ⬈</td>
+     <td valign="top"><em>collaboration</em></td>
     </tr>
     <tr>
      <td colspan="4">&nbsp;</td>
