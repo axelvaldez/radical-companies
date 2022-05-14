@@ -183,7 +183,7 @@ image:    "en-decentralized-minting.svg"
     <td>BenCO retires the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s within three years, as promised.</td>
    </tr>
    <tr>
-    <th style="vertical-align: text-top; padding-right: 6px; text-align: right;">Not so Happy Ending</th>
+    <th style="">Not so Happy Ending</th>
     <td>BenCO has retired only wo thirds of the minted <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s by the third year. It does retire all 30,000 <span style="font-size: smaller; ">COIN</span>s.</td>
    </tr>
    <tr>
