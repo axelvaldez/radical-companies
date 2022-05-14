@@ -133,7 +133,7 @@ image:    "en-decentralized-minting.svg"
   <p>We need decentralized minting of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s to take national and international politics out of it and to eliminate the influence of transnational corporations.</p>
   <p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are minted by companies, not any national government or central banks.</p>
 
-<h1 style="font-size:30px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s Are Transparent</h2>
+<h1 style="font-size:30px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s Are Transparent</h1>
  <p>National fiat coins are opaque. In theory that’s good because it reduces transaction costs. But this “reduction of costs” also disables human choice.</p>
  <p>In any case, the big transaction costs are those that banks, exchanges, and political manipulation bring in. And opaqueness does not reduce any of those.</p>
  <p><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s are transparent. An integral part of each <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN> is the log that comes along with them. This will restore people’s  ability to make choices based on that information.</p>
