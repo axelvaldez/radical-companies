@@ -175,23 +175,29 @@ image:    "en-decentralized-minting.svg"
   <p>This can result in any of these scenarios,</p>
   <table>
    <colgroup>
-    <col style="padding-right:1em; width:30en; border-right:1px solid black; ">
-    <col style="padding-left:1em; ">
+    <col style="width:18ex; border-right:1px solid black; ">
+    <col>
    </colgroup>
    <tr>
-    <th style="vertical-align:text-top; text-align:right; padding-right:1em; ">Happy Ending</th>
-    <td>BenCO retires the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s within three years, as promised.</td>
-   </tr>
-   <tr>
-    <th style="vertical-align:text-top; text-align:right; padding-right:1em; ">Not so Happy Ending</th>
-    <td>BenCO has retired only wo thirds of the minted <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s by the third year. It does retire all 30,000 <span style="font-size: smaller; ">COIN</span>s.</td>
-   </tr>
-   <tr>
-    <th style="vertical-align:text-top; text-align:right; padding-right:1em; ">Unhappy Ending</th>
-    <td>BenCO disbands and never creates enough value for society to pay the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s.</td>
+    <th style="vertical-align:text-top; text-align:right; padding-right:1ex; ">Happy Ending</th>
+    <td style="padding-left:1ex; ">BenCO retires the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s within three years, as promised.</td>
    </tr>
    <tr>
     <td style="height: 7px; ">&nbsp;</td>
+   </tr>
+   <tr>
+    <th style="vertical-align:text-top; text-align:right; padding-right:1ex; ">Not so Happy Ending</th>
+    <td style="padding-left:1ex; ">BenCO has retired only wo thirds of the minted <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s by the third year. It does retire all 30,000 <span style="font-size: smaller; ">COIN</span>s.</td>
+   </tr>
+   <tr>
+    <td style="height: 7px; ">&nbsp;</td>
+   </tr>
+   <tr>
+    <th style="vertical-align:text-top; text-align:right; padding-right:1ex; ">Unhappy Ending</th>
+    <td style="padding-left:1ex; ">BenCO disbands and never creates enough value for society to pay the 30,000 <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>s.</td>
+   </tr>
+   <tr>
+    <td>&nbsp;</td>
    </tr>
   </table>
   <p>A seller’s app can calculate a risk factor based on the BenCO <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</span>’s log <em>and</em> her particular preset parameters. Each of us can let the apps do the calculations and, based on that, decide whether or not to take the BenCO <span style="font-size: smaller; ">COIN</span>s as payment.<sup id="fnref12"><a href="#fn12" rel="footnote">12</a></sup></p>
