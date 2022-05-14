@@ -18,7 +18,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Land Defines Local</h1>
  <p style="text-align: justify; ">In the book <span style="font-size:smaller; "><a href="https://radicalcompanies.com">RADICAL COMPANIES</a></span>, we only considered how the <span style="font-size: smaller; ">RADICAL</span> model would work in <em>a company environment</em>, and other than a mention, we said nothing about money, land, or governments.</p>
  <p style="text-align: justify; ">In <a href="https://radicalcompanies.com/2022/03/17/radical-coins"><span style="font-size: smaller; ">RADICAL COIN</span></a>, I laid out a few ideas about money and what it would look like in a decentralized, transparent world; land and government are definitely harder topics for me. In this document I am laying out my thoughts about what the model for land would look like in a <span style="font-size: smaller; ">RADICAL</span> world.</p>
- <h2>The <span style="font-size:smaller; ">RADICAL</span> Land Model</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">The <span style="font-size:smaller; ">RADICAL</span> Land Model</h2>
   <p id="fnref2" style="text-align: justify; ">In <em>Another Now</em>, Yanis Varoufakis envisions all land as a commons controlled by “gComms, as the ground commons authorities or ground trusts came to be known.”<sup><a href="#fn2" rel="footnote">2</a></sup> Henry George saw the land as one thing and anything sitting on it as separate, so his proposed single tax would tax the land net of improvements. Various people, including Joeri Torfs and Pim Ampe, have envisioned land <em>and</em> improvements as being perennially open for sale.</p>
   <p style="text-align: justify; ">My working model is that,</p>
   <ul>
@@ -78,9 +78,9 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">What about the the Country and Military?</h1>
  <p style="text-align: justify; ">Note that there is no “country” circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a “country,” the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a Banner earmarked for a research area. I am not counting on the “goodness” of people or “their kind hearts”—instead, I am counting on people&rsquo;s interests and their persuasive power when impassioned enough.</p>
- <h2>The Country?</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">The Country?</h2>
   <p>Note that there is no “country” circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a “country,” the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a Banner earmarked for a research area. I am not counting on the “goodness” of people or “their kind hearts”&mdash;instead, I am counting on people&rsquo;s interests and the persuasive power of their enthusiasm.</p>
- <h2>The Military?</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">The Military?</h2>
   <p style="text-align: justify; ">Also, there is no funds for a military or any kind of state violence. It may take longer, but that&rsquo;s where we are heading.</p>
   <p id="fnref3" style="text-align: justify; ">But, how n&auml;ive, you might say, all it takes is a <em>few bad people</em> with weapons to take over everything, won’t it? Again, I am counting on &rsquo;s aversion to violence and how swiftly they can mobilize in a connected world to neutralize the violence of the “few bad people.”<sup><a href="#fn3" rel="footnote">3</a></sup></p>
 
@@ -149,7 +149,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">APPENDICES</h1>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Terminology</h1>
- <h2>Common Good</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">Common Good</h2>
   <p style="text-align: justify; ">A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.</p>
   <p style="text-align: justify; ">Land and improvements on it are common goods. If it is occupied, it is managed by the occupier until the next bid for it comes in. If it is disoccupied, then it defaults to its surrounding community until someone bids for it (<em>i.e.</em>, the community cannot counter-bid).</p>
   <p style="text-align: justify; ">Common goods, like a park, would have an infinite value and so no big can possibly top it. The particular community can retire a common good and open it to bids. The mechanism for doing so is up to community politics, and generally it may look like this,</p>
@@ -157,21 +157,21 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
    <img src="/assets/img/en-all-politics.svg" alt="Three circles: the left-most is labeled LAND OPEN FOR BIDS. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes into a bigger circle labeled COMMON GOOD. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes to a smaller circle labeled LAND OPEN FOR BIDS." title="Common Goods and Politics">
   </p>
   <p style="text-align: justify; ">A community may denominate not enough or a whole lot of land in the “common good” category. The community will literally prosper or not by those kinds of decisions. The <span style="font-size: smaller; ">RADICAL</span> model decentralizing principle gives the people most immediately affected a strong voice in the process.</p>
- <h2>Hyper-local Community</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">Hyper-local Community</h2>
   <p style="text-align: justify; ">The community that is literally adjacent to the land in question. This includes communities that are physically close and those which are logically close.</p>
- <h2>Surrounding Community</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">Surrounding Community</h2>
   <p style="text-align: justify; ">The community that is physically or logically adjacent to the hyper-local community. </p>
- <h2>Improvements</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">Improvements</h2>
   <p style="text-align: justify; ">Anything added to the land in question. It could be houses, barns, irrigation, drainage, electricity, etc.</p>
- <h2>Occupier</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">Occupier</h2>
   <p style="text-align: justify; ">Occupiers are what we would call owners in our current FIAT model. The difference is that it lasts until the next bidding.</p>
   <p style="text-align: justify; ">If the current occupier wins, then everything continues as before. However, if somebody has a higher bid, the new occupier moves in. If the new occupier wants to do away with an improvement, she pays for doing so.</p>
   <p style="text-align: justify; ">In either case, the occupier pays a percentage of her bid to the community fund; note that it could be higher or lower than before. No matter, the market calculated a new value for the land and its improvements.</p>
- <h2>Winning Bid</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">Winning Bid</h2>
    <p style="text-align: justify; ">The highest bid on any parcel of land.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">FAQ</h1>
- <h2>Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">Is risk associated with companies or with <span style="font-size: smaller; ">COIN</span>s?</h2>
    <p style="text-align: justify; ">This really is a distinction without a difference. A <span style="font-size: smaller; ">COIN</span> minted by a one person &ldquo;company&rdquo; will probably have a very high risk and nobody would take it.</p>
    <p>On the other hand, there may be a young perfume maker who is very well known in his community for producing exquisite perfumes. People may accept her <span style="font-size: smaller; ">COIN</span>s based on personal knowledge.</p>
 
