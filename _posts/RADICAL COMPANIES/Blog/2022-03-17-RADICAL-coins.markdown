@@ -89,34 +89,40 @@ image:    "en-decentralized-minting.svg"
    <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment" style="width: 90%; text-align: center; "></p>
   <p>hey do this starting from a simple foundation of interdependence,</p>
   <table align="center">
-  <tr>
-   <td valign="middle" style="text-align: right; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align: center; background-color: lightgrey; ">Meaning &<br>Belonging</td>
-   <td valign="middle" style="font-size: larger; "> ⬈</td>
-   <td valign="top">relationships</td>
-  </tr>
-  <tr>
-   <td style="background-color: white; height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align: right; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align: center; background-color: lightgrey;">Transparency &<br>Decentralization</td>
-   <td valign="middle" style="font-size: larger; "> ⬈</td>
-   <td valign="top"><em>autonomy</em></td>
-  </tr>
-  <tr>
-   <td style="background-color: white; height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align: right; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align: center; background-color: lightgrey; ">Alignment &<br>Experimentation</td>
-   <td valign="middle" style="font-size: larger; "> ⬈</td>
-   <td valign="top"><em>collaboration</em></td>
-  </tr>
-  <tr>
-   <td colspan="4">&nbsp;</td>
-  </tr>
- </table>
+   <colgroup>
+    <col style="width:20en; padding-right:1em; border-right:1px solid black; ">
+    <col colspan="3">
+   </colgroup>
+   <tbody style="font-size:smaller; ">
+    <tr style="vertical-align:text-top; ">
+     <th style="text-align:right; ">principles</th>
+     <td style="text-align: center; background-color: lightgrey; ">Meaning &<br>Belonging</td>
+     <td valign="middle" style="font-size: larger; "> ⬈</td>
+     <td valign="top">relationships</td>
+    </tr>
+    <tr>
+     <td style="background-color:white; font-size:7px; ">&nbsp;</td>
+    </tr>
+    <tr style="vertical-align:text-top; ">
+     <th style="text-align:right; ">commitments</th>
+     <td style="text-align: center; background-color: lightgrey;">Transparency &<br>Decentralization</td>
+     <td valign="middle" style="font-size: larger; "> ⬈</td>
+     <td valign="top"><em>autonomy</em></td>
+    </tr>
+    <tr>
+     <td style="background-color:white; font-size:7px; ">&nbsp;</td>
+    </tr>
+    <tr>
+     <td valign="middle" style="text-align: right; ">practices&nbsp;&nbsp;</td>
+     <td style="text-align: center; background-color: lightgrey; ">Alignment &<br>Experimentation</td>
+     <td valign="middle" style="font-size: larger; "> ⬈</td>
+     <td valign="top"><em>collaboration</em></td>
+    </tr>
+    <tr>
+     <td colspan="4">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
  <h2 style="font-size:30px; font-family:Courier New, monospace; "><SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL COIN</SPAN>s as Collaboration</h2>
   <p>As I see it, the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve &ldquo;<em>progress</em>.&rdquo;<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup></p>
   <p>Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of collaboration.</p>
@@ -267,19 +273,15 @@ image:    "en-decentralized-minting.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; text-align: center; margin: 40px 0 20px 0; ">BAD ACTORS</h1>
   <p>There may not be as many bad actors as we think. We probably have a preponderance of them today because 1) they make the news, and 2) we live in a system that is meant to reward bad behavior: gaming is part and parcel of the system. As we find out, we patch it to prevent other bad actors from exploiting the same weakness. But then the next batch of bad actors become wealthy by discovering and exploiting new weaknesses.</p>
   <p>We don’t normally think of these, below, as bad actors. But they are. They fall back on their FIAT world habits and are a drag on moving forward to a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> world.</p>
-  <table>
+  <table style="vertical-align:top;text-top; ">
    <tr>
-    <td style="vertical-align: text-top; text-align:right; padding-right:1em; ">
-     <p><strong>Going Along</strong></p>
-    </td>
+    <th style="text-align:right; padding-right:1em; ">Going Along</th>
     <td>
      <p>One type of “bad actor” is people who “go along.” We normally don’t think of them as bad actors, “they’re just nice people.” In any case, Shui is one of them. He notices that Namir is taking more than he contributed, but he doesn’t say anything and talks to Namir. Shui turns a blind eye towards Namir's bad behavior and goes by untested assumptions. “Namir is a nice guy and maybe he needs a little bit more than me.”</p>
     </td>
    </tr>
    <tr>
-    <td style="vertical-align: text-top; text-align:right; padding-right:1em; ">
-     <p><strong>Battling Ghosts</strong></p>
-    </td>
+    <th style="text-align:right; padding-right:1em; ">Battling Ghosts</th>
     <td>
      <p>The other type of bad actor is the one who gets pulled into behavior that he normally would not condone.</p>
      <p>For example, Anita, a BenCO co-owner, wants to buy potatoes. The potato seller, Shui, looks at the COINs coming from her, but declines to accept them. It turns out that <em>all</em> of Anita’s COINs come from BenCO and the company has not lived up to its promises. Shui is a very conservative type and he refuses to exchange her COINs for his potatoes. She explains the reasons why they had not made the first year payment on time, “and we will, by the end of this week.” Nevertheless, Shui is unmoved and puts the potatoes back in their bin.</p>
@@ -288,9 +290,7 @@ image:    "en-decentralized-minting.svg"
     </td>
    </tr>
    <tr>
-    <td style="vertical-align: text-top; text-align:right; padding-right:1em; ">
-     <p style="font-weight:bold; ">Convenience</p>
-    </td>
+    <th style="text-align:right; padding-right:1em; ">Convenience</th>
     <td>Other Bad Actors act out of convenience. I’ll let Seth Godin describe this one,
      <div style="padding: 10px 40px;">
       <p style="font-size: smaller;">“<strong>Social convenience</strong>: it’s easier to sit through a boring cocktail party or a meeting than it is to tell someone you don’t want to come.</p>
