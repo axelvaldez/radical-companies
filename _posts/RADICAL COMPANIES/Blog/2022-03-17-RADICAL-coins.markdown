@@ -135,7 +135,7 @@ image:    "en-decentralized-minting.svg"
   <p>We need a decentralized market to nurture the next stage of innovation and accomplishment. Unfortunately, national fiat coins are an obstacle to this. They are not very stable and are subject to cyclical crises.<sup id="fnref9"><a href="#fn9" rel="footnote">9</a></sup> They make international markets very complex, very opaque, and very expensive.</p> 
   <p>Today’s international markets have been cobbled together by agreements that are fraught with weaknesses. National and international politics make transaction costs very expensive. Worst of all, these international markets are unduly influenced by transnational businesses seeking to profit no matter the harm to society.</p>
   <p>A decentralized market, free of interference and manipulation, is the iltimate pricing engine.</p>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Decentralized Minting of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">Decentralized Minting of <span style="font-size:smaller; ">COIN</span>s</h2>
   <p>We need decentralized minting of <SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s to take national and international politics out of it and to eliminate the influence of transnational corporations.</p>
   <p><SPAN STYLE="FONT-SIZE: SMALLER; ">COIN</SPAN>s are minted by companies, not any national government or central banks.</p>
 
