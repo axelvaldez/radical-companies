@@ -16,7 +16,7 @@ image:    "en-alignment.svg"
 </div>
 
 <h1 style="font-size:0px; font-family:Courier New, monospace; ">Introduction</h1>
- <p>In the book <a href="https://radicals.world/fDm2e">RADICAL COMPANIES</a>, we considered how the <span style="font-size: smaller; ">RADICAL</span> model would work in a company environment. Other than a mention here and there, we said next to nothing about money, land, or governments.</p>
+ <p>In the book <a href="https://radicals.world/fDm2e">RADICAL COMPANIES</a>, we considered how the <span style="font-size: smaller; ">RADICAL</span> model would work in a company environment, but we said next to nothing about money, land, or government.</p>
  <p>In <a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h. gqizizpnpgzu"><span style="font-size: smaller; ">COIN</span></a>, I laid out my ideas about money and what it would look like in a decentralized, transparent world. In <a href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76"><span style="font-size: smaller; ">LAND</span></a>, I put down my thoughts on how land would be handled in a <span style="font-size: smaller; ">RADICAL</span> world.</p>
  <p>In this document I finally get to lay down some my thoughts, albeit unpolished, about government.</p>
 
