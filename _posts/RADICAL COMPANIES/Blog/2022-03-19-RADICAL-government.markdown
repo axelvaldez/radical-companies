@@ -12,7 +12,7 @@ image:    "en-alignment.svg"
 
 <div>
  <pre class="prettyprint" style="font-size:25px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; ">If the land-value tax were adopted as the sole means of raising [USA] government revenue, it would have funded [in 2009] less than half of the federal budget, and none of the budgets of all 50 states and thousands of cities, towns, and counties.<sup id="fnref1"><a href="#fn1" rel="endnotes">1</a></sup></pre>
- <pre class="prettyprint" style="font-size:25px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; ">"Higher taxes are not the solution …"<sup id="fnref2"><a href="#fn2" rel="endnotes">2</a></sup></pre>
+ <pre class="prettyprint" style="font-size:25px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; ">"&hellip; taxes are not the solution …"<sup id="fnref2"><a href="#fn2" rel="endnotes">2</a></sup></pre>
 </div>
 
 <h1 style="font-size:0px; font-family:Courier New, monospace; ">Introduction</h1>
