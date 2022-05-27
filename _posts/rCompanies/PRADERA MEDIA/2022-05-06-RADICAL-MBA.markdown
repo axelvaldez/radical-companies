@@ -7,7 +7,7 @@ image:    "PRADERA-background.svg"
 ---
 
 <div style="display: none;">
-/<p>The idea came up during a conversation with Jose Leal and Marcial Quintanar. One thing led to another and we ended up with rough plans for a RADICAL MBA.</p>
+ <p>The idea came up during a conversation with Jose Leal and Marcial Quintanar. One thing led to another and we ended up with rough plans for a RADICAL MBA.</p>
 </div>
 
 <div style="background-color:beige; font-size:larger; font-family:american typewriter, serif; padding:1em; ">
