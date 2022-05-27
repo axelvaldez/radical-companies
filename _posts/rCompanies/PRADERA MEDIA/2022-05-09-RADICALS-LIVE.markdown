@@ -7,7 +7,7 @@ image:    "pradera-background.svg"
 ---
 
 <div style="display: none;">
- <p>Iconoclasts talking.</p>
+ <p>Iconoclasts talking to each about their ideas and experience with alternative systems to what we have today.</p>
 </div>
 
 <div style="background-color:beige; font-size:larger; font-family:american typewriter, serif; padding:1em; ">
