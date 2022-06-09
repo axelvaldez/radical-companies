@@ -20,7 +20,7 @@ And then they build monuments to you</pre>
 <br>
 <br>
 
-<h1 style="text-align: center;">SWEET HOME CHICAGO</h1>
+<h1 style="text-align: center; margin: 1in 0 0.4in 0; ">SWEET HOME CHICAGO</h1>
 <p>
 The Chicago <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.a6wcmzph7o24">polyport</a> was busy, as in, really busy. In its heyday the old O’Hare Airport was the busiest in this part of the world, but nothing compared with all the traffic around the polyport. But for all the traffic above, inside the place was… placid. There were a few people walking around or drinking coffee and whatever else was popular down here. And none of them were waiting for me.
 </p>
