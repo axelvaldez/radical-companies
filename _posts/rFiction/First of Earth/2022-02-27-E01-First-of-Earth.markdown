@@ -117,7 +117,7 @@ And then they build monuments to you</pre>
 
 <p style="text-align:center; "><a href="https://radicalcompanies.com/2022/02/28/e02-sweet-home-chicago">Next Episode</a></p>
 
-<h2 style="margin-top:3m; ">FURTHER READING</h2>
+<h2 style="margin-top:0.5in; ">FURTHER READING</h2>
 <ul>
   <li><a href="">The Hidden Masters – Notes</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
@@ -128,7 +128,7 @@ And then they build monuments to you</pre>
   <li><a href="">Notes</a></li>
 </ul>
 
-<h2 style="margin-top:3m; ">RELATED</h2>
+<h2 style="margin-top:0.5in; ">RELATED</h2>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
