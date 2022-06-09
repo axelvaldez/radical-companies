@@ -94,9 +94,9 @@ And then they build monuments to you</pre>
  </p>“Because I knew you would rebuke me. The youngest Bellamy would not go against the Bellamy ideals that took over humanity. And as much as you don’t want to acknowledge it, you have a platform and could prevent me from leading this charge.”</p>
  </p>“Bellamy tradition… ? Vic, I wouldn’t have rebuked you, but I would have suggested that you run an experiment. Instead it went from your head into full production. Universal domination, that’s what it sounds like to me. In any case, I just wanted you to spend time with…” She froze mid-sentence. Then she gave him a furious look, got up, and ran back to her quarters. But it was too late and Munjez was gone.</p>
 
-<br>
+<p style="text-align:right; font-family: American Typewriter, serif; "><a href="https://radicalcompanies.com/2022/03/01/e03-give-him-back">Next Episode</a></p>
 
-<h2>FURTHER READING</h2>
+<h2 style="margin-top:0.5in; ">FURTHER READING</h2>
 <ul>
   <li><a href="https://docs.google.com/document/d/1oxZ1Ol2pMnhmbssCijIq3ipPF-9GPvVXwaCPUtuQsUA/edit#">The Hidden Masters – Notes</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
