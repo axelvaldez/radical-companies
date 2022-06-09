@@ -9,7 +9,7 @@ image:    "and-then-e01.png"
 <div style="display: none;">BREAKING: First child be born in space. Every country around the world claims the First of Earth as a native.
 </div>
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; margin-bottom: 3m; ">First they ignore you.
+<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; margin-bottom: 0.4in; ">First they ignore you.
 Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
@@ -115,7 +115,7 @@ And then they build monuments to you</pre>
  <p>They had a long talk about what looked like their struggle with decentralization. Even they noticed that in any discussion, the first proposal was to centralize decision making “for now” or some other dodge. Luckily they had ten years of experience with this and they were practiced at fighting off that tendency, but you could see how they still had to consciously resist it.</p>
  <p>After a few weeks Sammie got tired of being a RADICAL celebrity and she accepted the invitation to go to the Chicago Pod in what used to be the United States of America. The electric jet went up to the edge of the biosphere, although she would not call that “space” as they did throughout the trip. It was a lot shorter than her trip from the Karala Pod to the Beijing Pod. It was also boring and she slept for most of it.</p>
 
-<h2 style="text-align:center; "><a href="https://radicalcompanies.com/2022/02/28/e02-sweet-home-chicago">Next Episode</a></h2>
+<p style="text-align:center; "><a href="https://radicalcompanies.com/2022/02/28/e02-sweet-home-chicago">Next Episode</a></p>
 
 <h2 style="margin-top:3m; ">FURTHER READING</h2>
 <ul>
