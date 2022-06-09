@@ -9,7 +9,7 @@ image:    "and-then-e01.png"
 <div style="display: none;">BREAKING: First child be born in space. Every country around the world claims the First of Earth as a native.
 </div>
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; margin-bottom: 0.4in; ">First they ignore you.
+<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; margin: 1in 0 0.4in 0; ">First they ignore you.
 Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
