@@ -128,9 +128,7 @@ And then they build monuments to you</pre>
   <li><a href="">Notes</a></li>
 </ul>
 
-<br>
-
-<h2>RELATED</h2>
+<h2 style="margin-top:3m; ">RELATED</h2>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
