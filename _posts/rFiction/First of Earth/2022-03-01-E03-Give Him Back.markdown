@@ -10,12 +10,12 @@ image:    "and-then-e03.png"
  <p>Sammie discovers her grandmother, Hanne Nader, with the help of the Wormholes. And that technology can also wreck havoc with Vic's plans.</p>
 </div>
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">First they ignore you.
+<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; margin:0.4in 0; ">First they ignore you.
 Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
 
-<h1 style="text-align: center; margin: 1in 0 0.4in 0; ">&nbsp;</h1>
+<h1>&nbsp;</h1>
  <p>“Munjez is in the ICU. He’s stable but he had to be moved quickly.” Evidently an alarm had come off in the room.</p>
  <p>Now she was sure that she had a whole habitat to contend with and the people who were not fully onboard with this were too scared to do anything about it. That’s why Vic had to plot in secret, to be able to deploy the kind of violence that these people had only read about in the history books.</p>
  <p>But they had taken her baby and that was a mistake.</p>
@@ -108,7 +108,7 @@ And then they build monuments to you</pre>
  <p>And then the power came back on. From a sea of voices to the familiar lights and total silence, in an instant.</p>
  <p>After a few minutes of staring at each other, a voice came through our devices, “Vic found the problem… well… OK. One more time, Vic brought back our power, but he doesn’t yet know what caused it to go down.” At which point Sammie felt hands holding her and leading her back to her quarters. This time the door was firmly locked behind. And about time, so she could get back to her Mods.</p>
 
-<p style="text-align:right; font-family: American Typewriter, serif; "><a href="https://radicalcompanies.com/2022/03/02/E04-A-Fear-Fest.html">Next Episode</a></p>
+<p style="text-align:right; font-family: American Typewriter, serif; "><a href="https://radicalcompanies.com/2022/03/02/E04-A-Fear-Fest.html">> Next</a></p>
 
 <h2 style="margin-top:0.5in; ">FURTHER READING</h2>
 <ul>
