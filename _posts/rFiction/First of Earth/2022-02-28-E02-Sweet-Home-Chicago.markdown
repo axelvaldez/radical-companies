@@ -116,39 +116,39 @@ image:    "and-then-e02.png"
   </ul>
   <li>The Missing Chapters,</li>
   <ul>
-    <li><a href="">RADICAL COIN</a></li>
-    <li><a href="">RADICAL LAND</a></li>
-    <li><a href="">RADICAL GOVERNMENT</a></li> 
+    <li><a href="https://radicalcompanies.com/2022/03/17/RADICAL-coins.html">RADICAL COIN</a></li>
+    <li><a href="https://radicalcompanies.com/2022/03/18/RADICAL-land.html">RADICAL LAND</a></li>
+    <li><a href="https://radicalcompanies.com/2022/03/19/RADICAL-government.html">RADICAL GOVERNMENT</a></li> 
   </ul>
   <li>rCompanies</li>
   <ul>
     <li>rPRADERA MEDIA</li>
     <ul>
-      <li><a href="">PRADERA SHELF</a></li>
-      <li><a href="">PRADERA READER</a></li>
-      <li><a href="">RADICALS.LIVE!</a></li>
-      <li><a href="">RADICAL MBA</a></li>  
+      <li><a href="https://radicalcompanies.com/2022/05/05/PRADERA-READER.html">PRADERA READER</a></li>
+      <li><a href="https://radicalcompanies.com/2022/05/06/PRADERA-SHELF.html">PRADERA SHELF</a></li>
+      <li><a href="https://radicalcompanies.com/2022/05/06/RADICAL-MBA.html">RADICAL MBA</a></li>  
+      <li><a href="https://radicalcompanies.com/2022/05/09/RADICALS-LIVE.html">RADICALS.LIVE!</a></li>
     </ul>
-    <li><a href="">rHatchery</a></li>
-    <li><a href="">rCircuit</a></li>
-    <li><a href="">rPlayGym</a></li>
-    <li><a href="">rEnsemble</a></li>
+    <li><a>rHatchery</a></li>
+    <li><a>rCircuit</a></li>
+    <li><a>rPlayGym</a></li>
+    <li><a>rEnsemble</a></li>
     <ul>
-      <li><a href="">rTranslate</a></li>
-      <li><a href="">rSparkle</a></li>
-      <li><a href="">rStayHome</a></li>
-      <li><a href="">KidsCare</a></li>
+      <li><a>rTranslate</a></li>
+      <li><a>rSparkle</a></li>
+      <li><a>rStayHome</a></li>
+      <li><a>KidsCare</a></li>
     </ul>
   </ul>
   <li>Startups</li>
   <ul>
-    <li><a href="">rBuddyNeighbor</a></li>
-    <li><a href="">rNextBright</a></li>
-    <li><a href="">rHintersoft</a></li> 
+    <li><a>rBuddyNeighbor</a></li>
+    <li><a>rNextBright</a></li>
+    <li><a>rHintersoft</a></li> 
   </ul>
   <li>rProjects</li>
   <ul>
-    <li><a href="">REMARK!</a></li>
-    <li><a href="">RADs!</a></li>
-    <li><a href="">Attentive UI</a></li>
+    <li><a>REMARK!</a></li>
+    <li><a>RADs!</a></li>
+    <li><a>Attentive UI</a></li>
   </ul>
