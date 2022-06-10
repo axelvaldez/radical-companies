@@ -10,30 +10,28 @@ image:    "and-then-e04.png"
  <p>Vic discovered fear and how can make people bend to your will. He thought that was a good thing.</p>
 </div>
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; margin:0.4in 0; ">First they ignore you.
-Then they ridicule you.
-Then they want to burn you.
-And then they build monuments to you</pre>
-
-<h1>&nbsp;</h1>
  <p>After the Big Nothing people were openly fearful and they were quieter than usual, afraid to speak up. They weren’t helping each other to get over it, and, worse, they were drawing each other into it. Sammie’s mom had a saying which she never understood until now: “misery loves company.”</p>
  <p>The scariest part is that nobody knew what had caused it and could not make sense of it. Was it sabotage? a system failure? Some kind of attack? Nothing fit, nothing made sense. But the fear was palpable, more so than Sammie expected.</p>
  <p>The first thing Sammie did was to check on Kiki. It seemed that there was no Big Nothing in their habitat. They talked, cried, and laughed for a while. They both knew that everything was being spied on, so Sammie was careful not to hint at her real suspicions.</p>
+
  <h2>Pulp Fiction</h2>
   <p>In fact, the whole being-spied-on thing made her research more complex. But then, she had paper, the stuff made up from the pulp of dead trees.</p>
   <p>She had gotten physical sheets of paper a while back when somebody waxed poetic about “the feel of paper, and, oh gosh, <em>that smell</em>.” It sounded very alluring then and she had gotten it, but when she actually tried it out she didn’t find it very sensual and it didn’t smell of anything, at least not anything pleasant. On the other hand, it was hard to handle because light had to hit it just so or else there was always a shadow or a reflection getting in the way. Nevertheless, she kept it and had brought it along out of habit. And good she did because paper was “off the grid” as they said in the drama Mods.</p>
   <p>Of course the Worms could track paper if it was visible to the nearest camera or laser. But her outside jacket defeated that. The Worms would see her moving around the anchorMod, but they could not see what was under her outside jacket. She made her writing look like nervous scratching, a tick, and that’s what you would see: Sammie mindlessly scratching every so often.</p>
   <p>Jotting things down on paper helped her remember later on, the same as moving around in the Mods did. Her muscles would help her remember, the act of writing would help her remember, focusing on something to jot down would help her remember. She was glad that she had kept that particular memento around.</p>
+
  <h2>Vic’s Mirror</h2>
   <p>Ever since he could remember, Vic had had a knack for picking up on things that would later come in handy. And the Magnetar Effect was one of those things. They were still back in the oYard when he first heard about them from Mr Bellamy. Early in the century they were just a theory, something that dropped out of the math. Then somebody tracked the mysterious <em>fast radio bursts</em> to their source and they ended up discovering the first magnetars. Astronomers had used them to study high-energy astrophysics and map the rarefied, magnetized plasma that space is full of. But that’s not what interested Vic.</p>
   <p>After Munjez, his child, was born, Vic desperately wanted to make a mark in the world for Munjez to admire. He had never worked so hard tracking all kinds of math puzzles the space people loved so much, but nothing paid off. Besides, math exercises were not his passion, his forte was using the math to make things that did something that solved problems. And surprisingly, magnetars fit.</p>
   <p>The kind of magnetar he became interested in was the repeating kind. They were buried in dwarf galaxies and repeated <em>fast radio bursts</em> that originated elsewhere. Enough of them had been discovered by now that anybody who wanted could set up equipment to witness the whole song and dance. One of those bursts close enough to a habitat would bring down the whole electromagnetic infrastructure of a habitat. That’d be really something, if it would only last a fraction of a second. But using it this way would not make him famous and admired as he wanted to be. Nevertheless, it was fun working out how to create an array of mirrors that could direct the energy. He worked on it on and off and eventually he found that he could arrange such a local repeater by positioning a few of the many satellites that the habitats had at their disposal. He never did test it because how would you test such a thing without anybody noticing? But he knew it would work.</p>
+ 
  <h2>Samantha Bellamy, PI</h2>
   <p>Sammie was very, very curious about the Big Nothing—you could even say she was obsessed with it. She was convinced that it was a trick that Vick had pulled off, but she could not figure out how he had done it. She had to learn how to do it herself if she was to prove that it was a trick and not at all mysterious.</p>
   <p>It didn’t go as quickly as it could have because she had to look at other things. She had to or the pattern of her obsession would become too obvious to anybody who might be spying on her Mod time.</p>
   <p>As she was about to move further down the trail of her great-great-grandmother she had a feeling that she needed to revisit her father Mod. Something she had seen or that he had said kept bouncing around her head, but she wasn’t sure what it was or when he said it. As she was moving out, frustrated, she heard her father talk about how some galaxies could generate flashes of radio waves as bright as 500 million Suns for a few milliseconds. Not obvious that this was it but Vic did hang around her dad a lot. Even an attenuated version of that energy would be enough to knock out a habitat's electromagnetic infrastructure.</p>
   <p>Over many days and much “scratching” under her jacket, she figured out how to do it. She eventually figured out how to arrange their satellites into the right configuration to unleash Big Nothings. Or, rather, a stream of similar events. Vic had access to the habitat’s system when the power went out and he was probably able to prevent the emergency system from coming online. She would not have that luxury, so her best hope was to cause a stream of events, one after the other. The emergency systems would immediately come online, but the disruption stream would be enough for people to notice.</p>
   <p>The next challenge was to rearrange the satellites. Vic had the advantage, again, of having access to them, and she didn’t. At least, not directly. But the bot satellites were part of the Galanet and changed position and attitude depending on their data loads among other things. She would have to configure a bunch of requests that would eventually consume an avalanche of data and would get the satellites in the right position. If Vic had done it and if he was watching, he’d figure out what was happening before she had a chance to trigger a stream of Big Nothings. But she still hoped that it wasn’t him watching. All she needed was 60 seconds.</p>
+ 
  <h2>She. Is. Right!</h2>
   <p>Sammie finally had it all set up to trigger a series of Big Nothing events that the backup systems would not be able to paper over. She was ready to start a commotion.</p>
   <p>She had figured out how to turn off the sound canceling around her quarters and before she fired the first event stream, she played music really loud and broke into Mods she wasn’t supposed to and basically graffitied them.</p>
@@ -57,7 +55,6 @@ And then they build monuments to you</pre>
 <div>
  <span style="text-align:right; font-family: American Typewriter, serif; text-align:left; "><a href="">Previous <</a></span><span style="text-align:right; font-family: American Typewriter, serif; text-align:right; "><a href="https://radicalcompanies.com/2022/03/02/E04-A-Fear-Fest.html">> Next</a></span>
 </div>
-
 
 <h2 style="margin-top:0.5in; ">FURTHER READING</h2>
 <ul>
