@@ -54,7 +54,7 @@ image:    "and-then-e04.png"
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <span style="float:left; "><a href="">Previous <</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/02/e04-a-fear-fest">> Next</a></span>
+ <span style="float:right; "><a href="">> Next</a></span>
 </div>
 
 <h2 style="margin-top:1in; ">FURTHER READING</h2>
