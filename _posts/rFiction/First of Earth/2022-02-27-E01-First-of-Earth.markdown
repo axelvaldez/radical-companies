@@ -115,7 +115,9 @@ And then they build monuments to you</pre>
  <p>After a few weeks Sammie got tired of being a RADICAL celebrity and she accepted the invitation to go to the Chicago Pod in what used to be the United States of America. The electric jet went up to the edge of the biosphere, although she would not call that “space” as they did throughout the trip. It was a lot shorter than her trip from the Karala Pod to the Beijing Pod. It was also boring and she slept for most of it.</p>
 
 <div>
- <div style="text-align:right; font-family: American Typewriter, serif; text-align:left; "><a href="">Previous <</a></div><div style="text-align:right; font-family: American Typewriter, serif; text-align:right; "><a href="https://radicalcompanies.com/2022/02/28/e02-sweet-home-chicago">> Next</a></div>
+ <div style="text-align:right; font-family: American Typewriter, serif; float:left; "><a href="">Previous <</a></div>
+ <div style="text-align:right; font-family: American Typewriter, serif; float:right; "><a href="https://radicalcompanies.com/2022/02/28/e02-sweet-home-chicago">> Next</a></div>
+ <!-- <div style="clear: both;"></div> -->
 </div>
 
 <h2 style="margin-top:0.5in; ">FURTHER READING</h2>
