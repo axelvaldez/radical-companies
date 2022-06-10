@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "Give Him Back [E03]"
-subtitle:
+title:    "Give Him Back"
+subtitle: "Episode 03"
 authors:  "Matt Perez & Adrian Perez"
 image:    "and-then-e03.png"
 ---
