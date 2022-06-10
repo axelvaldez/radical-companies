@@ -120,7 +120,7 @@ And then they build monuments to you</pre>
  <!-- <div style="clear: both;"></div> -->
 </div>
 
-<h2 style="margin-top:0.5in; ">FURTHER READING</h2>
+<h2 style="margin-top:1in; ">FURTHER READING</h2>
 <ul>
   <li><a>The Hidden Masters – Notes</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
