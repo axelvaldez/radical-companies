@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "Sweet Home Chicago [E02]"
-subtitle: 
+title:    "Sweet Home Chicago"
+subtitle: "Episode 02"
 authors:  "Matt Perez & Adrian Perez"
 image:    "and-then-e02.png"
 ---
