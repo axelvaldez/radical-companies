@@ -89,19 +89,20 @@ image:    "and-then-e02.png"
  <p>“Because I knew you would rebuke me. The youngest Bellamy would not go against the Bellamy ideals that took over humanity. And as much as you don’t want to acknowledge it, you have a platform and could prevent me from leading this charge.”</p>
  <p>“Bellamy tradition… ? Vic, I wouldn’t have rebuked you, but I would have suggested that you run an experiment. Instead it went from your head into full production. Universal domination, that’s what it sounds like to me. In any case, I just wanted you to spend time with…” She froze mid-sentence. Then she gave him a furious look, got up, and ran back to her quarters. But it was too late and Munjez was gone.</p>
 
-<div>
- <span style="text-align:right; font-family: American Typewriter, serif; text-align:left; "><a href="">Previous <</a></span><span style="text-align:right; font-family: American Typewriter, serif; text-align:right; "><a href="https://radicalcompanies.com/2022/03/01/e03-give-him-back">> Next</a></span>
+<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+ <span style="float:left; "><a href="">Previous <</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/01/e03-give-him-back">> Next</a></span>
 </div>
 
-<h2 style="margin-top:0.5in; ">FURTHER READING</h2>
+<h2 style="margin-top:1in; ">FURTHER READING</h2>
 <ul>
-  <li><a href="">The Hidden Masters – Notes</a></li>
+  <li><a>The Hidden Masters – Notes</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
-  <li><a href="https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790">A gatekeeper for learning</a> (see <a href="">AnchorMod</a>)</li>
-  <li><a href="">Narrative Arc</a></li>
-  <li><a href="">Future Tech and Culture</a></li>
-  <li><a href="">Resources</a></li>
-  <li><a href="">Notes</a></li>
+  <li><a href="https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790">A gatekeeper for learning</a> (see <a>AnchorMod</a>)</li>
+  <li><a>Narrative Arc</a></li>
+  <li><a>Future Tech and Culture</a></li>
+  <li><a>Resources</a></li>
+  <li><a>Notes</a></li>
 </ul>
 
 <h2 style="margin-top:0.5in; ">RELATED</h2>

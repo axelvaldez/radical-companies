@@ -117,7 +117,6 @@ And then they build monuments to you</pre>
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <span style="float:left; "><a href="">Previous <</a></span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2022/02/28/e02-sweet-home-chicago">> Next</a></span>
- <!-- <div style="clear: both;"></div> -->
 </div>
 
 <h2 style="margin-top:1in; ">FURTHER READING</h2>
