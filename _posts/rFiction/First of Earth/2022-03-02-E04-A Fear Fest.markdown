@@ -10,12 +10,12 @@ image:    "and-then-e04.png"
  <p>Vic discovered fear and how can make people bend to your will. He thought that was a good thing.</p>
 </div>
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">First they ignore you.
+<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; margin:0.4in 0; ">First they ignore you.
 Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
 
-<h1 style="text-align: center;">A FEAR FEST</h1>
+<h1>&nbsp;</h1>
  <p>After the Big Nothing people were openly fearful and they were quieter than usual, afraid to speak up. They weren’t helping each other to get over it, and, worse, they were drawing each other into it. Sammie’s mom had a saying which she never understood until now: “misery loves company.”</p>
  <p>The scariest part is that nobody knew what had caused it and could not make sense of it. Was it sabotage? a system failure? Some kind of attack? Nothing fit, nothing made sense. But the fear was palpable, more so than Sammie expected.</p>
  <p>The first thing Sammie did was to check on Kiki. It seemed that there was no Big Nothing in their habitat. They talked, cried, and laughed for a while. They both knew that everything was being spied on, so Sammie was careful not to hint at her real suspicions.</p>
@@ -54,18 +54,20 @@ And then they build monuments to you</pre>
  <p>The next question for Sammie was how to test Kiki’s hypothesis. And next after that, how could she use it to thwart Vic and his mob. Not clear that it would be useful for that, but she had to find out.</p>
  <p>Before Sammie could figure out how to test it, Kiki did and she let Sammie know that the whispers were related to the neuromorphics. Kiki didn’t have to say it, but Sammie knew that Kiki was now on the trail and would keep digging. So, she could focus if this could be used to at least slow Vic down.</p>
 
-<h2>FURTHER READING</h2>
- <ul>
-  <li><a href="https://docs.google.com/document/d/1oxZ1Ol2pMnhmbssCijIq3ipPF-9GPvVXwaCPUtuQsUA/edit#">The Hidden Masters – Notes</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
-  <li><a href="https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790">A gatekeeper for learning</a> (see <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.obnewqdc49h3">AnchorMod</a>)</li>
-  <li><a href="https://docs.google.com/document/d/139NTUSbvAfsGKKm0VYIGWFjQ_gSQReDWkmPcykSaj4A/edit#heading=h.hv9kv7g9sjnn">Narrative Arc</a></li>
-  <li><a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.45tbumt6bcua">Future Tech and Culture</a></li>
-  <li><a href="https://us02web.zoom.us/j/82364452948?pwd=NzkvMTdLbGlHZzFEenZoUG5CYy84Zz09">Resources</a></li>
-  <li><a href="https://docs.google.com/document/d/1zVBijo_3sHziYQJ4iQDqer9Lede54UbTMWbFMYeIzK0/edit#heading=h.m75zuy1og0t3">Notes</a></li>
- </ul>
+<p style="text-align:right; font-family: American Typewriter, serif; "><a href="https://radicalcompanies.com/2022/03/02/E04-A-Fear-Fest.html">> Next</a></p>
 
-<h2>RELATED</h2>
+<h2 style="margin-top:0.5in; ">FURTHER READING</h2>
+<ul>
+  <li><a href="">The Hidden Masters – Notes</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
+  <li><a href="https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790">A gatekeeper for learning</a> (see <a href="">AnchorMod</a>)</li>
+  <li><a href="">Narrative Arc</a></li>
+  <li><a href="">Future Tech and Culture</a></li>
+  <li><a href="">Resources</a></li>
+  <li><a href="">Notes</a></li>
+</ul>
+
+<h2 style="margin-top:0.5in; ">RELATED</h2>
  <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
