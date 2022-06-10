@@ -54,7 +54,11 @@ And then they build monuments to you</pre>
  <p>The next question for Sammie was how to test Kiki’s hypothesis. And next after that, how could she use it to thwart Vic and his mob. Not clear that it would be useful for that, but she had to find out.</p>
  <p>Before Sammie could figure out how to test it, Kiki did and she let Sammie know that the whispers were related to the neuromorphics. Kiki didn’t have to say it, but Sammie knew that Kiki was now on the trail and would keep digging. So, she could focus if this could be used to at least slow Vic down.</p>
 
-<p style="text-align:right; font-family: American Typewriter, serif; "><a href="https://radicalcompanies.com/2022/03/02/E04-A-Fear-Fest.html">> Next</a></p>
+<div>
+ <p style="text-align:right; font-family: American Typewriter, serif; text-align:left; "><a href="">Previous <</a></p>
+ <p style="text-align:right; font-family: American Typewriter, serif; "><a href="https://radicalcompanies.com/2022/03/02/E04-A-Fear-Fest.html">> Next</a></p>
+</div>
+
 
 <h2 style="margin-top:0.5in; ">FURTHER READING</h2>
 <ul>
