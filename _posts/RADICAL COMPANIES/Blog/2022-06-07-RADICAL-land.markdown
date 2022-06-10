@@ -7,7 +7,7 @@ image:    "en-vacant-lot-henry-george-wo-border.svg"
 ---
 
 <div style="display: none;">
- <p>What about land in a RADICAL world? Would you <em>own</em> land?</p>
+ <p>What about land in a RADICAL world? Would you *own* land?</p>
 </div>
 
 <div id="fnref1" style="background-color:#FFFAF0; padding:1em; border:1px solid CadetBlue; margin-bottom:20px; ">
