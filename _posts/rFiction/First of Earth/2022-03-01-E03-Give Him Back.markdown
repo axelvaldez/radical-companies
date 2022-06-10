@@ -114,7 +114,7 @@ And then they build monuments to you</pre>
 <ul>
   <li><a href="">The Hidden Masters – Notes</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
-  <li><a href="https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790">A gatekeeper for learning</a> (see <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.obnewqdc49h3">AnchorMod</a>)</li>
+  <li><a href="https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790">A gatekeeper for learning</a> (see <a href="">AnchorMod</a>)</li>
   <li><a href="">Narrative Arc</a></li>
   <li><a href="">Future Tech and Culture</a></li>
   <li><a href="">Resources</a></li>
