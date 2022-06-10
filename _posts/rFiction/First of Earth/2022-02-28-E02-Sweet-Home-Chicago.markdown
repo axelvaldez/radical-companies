@@ -94,7 +94,10 @@ And then they build monuments to you</pre>
  <p>“Because I knew you would rebuke me. The youngest Bellamy would not go against the Bellamy ideals that took over humanity. And as much as you don’t want to acknowledge it, you have a platform and could prevent me from leading this charge.”</p>
  <p>“Bellamy tradition… ? Vic, I wouldn’t have rebuked you, but I would have suggested that you run an experiment. Instead it went from your head into full production. Universal domination, that’s what it sounds like to me. In any case, I just wanted you to spend time with…” She froze mid-sentence. Then she gave him a furious look, got up, and ran back to her quarters. But it was too late and Munjez was gone.</p>
 
-<p style="text-align:right; font-family: American Typewriter, serif; "><a href="https://radicalcompanies.com/2022/03/01/e03-give-him-back">> Next</a></p>
+<div>
+ <p style="text-align:right; font-family: American Typewriter, serif; text-align:left; "><a href="">Previous <</a></p>
+ <p style="text-align:right; font-family: American Typewriter, serif; "><a href="https://radicalcompanies.com/2022/03/01/e03-give-him-back">> Next</a></p>
+</div>
 
 <h2 style="margin-top:0.5in; ">FURTHER READING</h2>
 <ul>
