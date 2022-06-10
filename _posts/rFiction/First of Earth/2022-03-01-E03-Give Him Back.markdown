@@ -109,8 +109,8 @@ And then they build monuments to you</pre>
  <p>After a few minutes of staring at each other, a voice came through our devices, “Vic found the problem… well… OK. One more time, Vic brought back our power, but he doesn’t yet know what caused it to go down.” At which point Sammie felt hands holding her and leading her back to her quarters. This time the door was firmly locked behind. And about time, so she could get back to her Mods.</p>
 
 <div>
- <p style="text-align:right; font-family: American Typewriter, serif; text-align:left; "><a href="">Previous <</a></p>
- <p style="text-align:right; font-family: American Typewriter, serif; "><a href="https://radicalcompanies.com/2022/03/02/E04-A-Fear-Fest.html">> Next</a></p>
+ <span style="text-align:right; font-family: American Typewriter, serif; text-align:left; "><a href="">Previous <</a></span>
+ <span style="text-align:right; font-family: American Typewriter, serif; text-align:right; "><a href="https://radicalcompanies.com/2022/03/02/E04-A-Fear-Fest.html">> Next</a></span>
 </div>
 
 
