@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "AND THEN THEY WANT TO BURN YOU"
-subtitle: "EPISODE 02 – Sweet Home Chicago"
+title:    "Sweet Home Chicago [E02]"
+subtitle: 
 authors:  "Matt Perez & Adrian Perez"
 image:    "and-then-e02.png"
 ---
@@ -14,7 +14,7 @@ Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
 
-<h1 style="text-align: center; margin: 1in 0 0.4in 0; ">SWEET HOME CHICAGO</h1>
+<h1 style="text-align: center; margin: 1in 0 0.4in 0; ">&nbsp;</h1>
  <p>The Chicago <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.a6wcmzph7o24">polyport</a> was busy, as in, really busy. In its heyday the old O’Hare Airport was the busiest in this part of the world, but nothing compared with all the traffic around the polyport. But for all the traffic above, inside the place was… placid. There were a few people walking around or drinking coffee and whatever else was popular down here. And none of them were waiting for me.</p>
  <p>Sammie hung about a bit and was about to taste one of these coffee things when she felt the alert. She listened to the message, looked down, and saw her sherpa which she followed to her hosts. Evidently, they were being super careful with Sammie’s identity and had sent the sherpa instead of just leaving a message. The overall culture was slowly unlearning its FIAT ways and at least a few people would still be addicted to violence.</p>
  <p>It seems that the people in this part of the world were still worried about viral transmission because they offered none of the hugging and kissing that she had experienced in the Beijing Pod.</p>
