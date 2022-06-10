@@ -7,7 +7,7 @@ image:    "and-then-e02.png"
 ---
 
 <div style="display: none;">
- <p>Sammie brings their child, Munjez, to Vic, but s. She is in for a surprise.</p>
+ <p>Sammie brings their child, Munjez, to Vic, but she is in for a surprise.</p>
 </div>
 
  <p>The Chicago <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.a6wcmzph7o24">polyport</a> was busy, as in, really busy. In its heyday the old O’Hare Airport was the busiest in this part of the world, but nothing compared with all the traffic around the polyport. But for all the traffic above, inside the place was… placid. There were a few people walking around or drinking coffee and whatever else was popular down here. And none of them were waiting for me.</p>
