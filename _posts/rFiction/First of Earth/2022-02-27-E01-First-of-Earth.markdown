@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "AND THEN THEY WANT TO BURN YOU"
-subtitle: "EPISODE 01 – First of Earth"
+title:    "EPISODE 01 – First of Earth"
+subtitle: 
 authors:  "Matt Perez & Adrian Perez"
 image:    "and-then-e01.png"
 ---
