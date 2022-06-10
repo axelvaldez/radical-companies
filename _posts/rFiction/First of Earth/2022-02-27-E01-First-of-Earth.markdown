@@ -14,7 +14,7 @@ Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
 
-<h1 style="text-align: center; margin: 1in 0 0.4in 0; ">&nbsp;</h1>
+<h1>&nbsp;</h1>
  <p><strong><code>SAT 16 NOV 2030.</code></strong> It came sooner than expected, though not as a complete surprise. It was a great offer for the company we had founded and contributed to for eleven years. This was proof that creating a place where every contributor is treated as an adult and everyone of them is a co-owner of what they’ve created together leads to a wildly successful business as well.</p>
  <p><strong><code>THU 6 NOV 2036</code></strong>. Time to get in line to get a ticket to outer space. But for our granddaughter, not for us. Of course, we don't have a granddaughter, yet, but she's on her way. And the timing of her birth is just right for her to be born in outer space.</p>
  <p><strong><code>THU 26 FEB 2037.</code></strong> Finally! It looks like all the ducks are lined up so that our daughter-in-law can have her baby in space safely. If somebody had told me what it was going to take, we might not have gotten into this, so thank goodness for naïveté. Of course, we were all naïve: nobody knew how to pull this off. After all, it is a first.</p>
