@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "RADICAL COINs: towards a world-wide market"
-subtitle: "FOR a WORLD-WIDE MARKET"
+title:    "RADICAL COINs: Towards a World-Wide Market"
+subtitle: "Towards a World-Wide Market"
 authors:  "Matt Perez"
 image:    "en-decentralized-minting.svg"
 ---
