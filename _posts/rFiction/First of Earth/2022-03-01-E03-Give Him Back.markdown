@@ -15,7 +15,7 @@ Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
 
-<h1 style="text-align: center;">GIVE HIM BACK</h1>
+<h1 style="text-align: center; margin: 1in 0 0.4in 0; ">&nbsp;</h1>
  <p>“Munjez is in the ICU. He’s stable but he had to be moved quickly.” Evidently an alarm had come off in the room.</p>
  <p>Now she was sure that she had a whole habitat to contend with and the people who were not fully onboard with this were too scared to do anything about it. That’s why Vic had to plot in secret, to be able to deploy the kind of violence that these people had only read about in the history books.</p>
  <p>But they had taken her baby and that was a mistake.</p>
