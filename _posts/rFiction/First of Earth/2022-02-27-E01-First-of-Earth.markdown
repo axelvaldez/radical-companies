@@ -14,7 +14,6 @@ Then they ridicule you.
 Then they want to burn you.
 And then they build monuments to you</pre>
 
-<div>
  <p><strong><code>SAT 16 NOV 2030.</code></strong> It came sooner than expected, though not as a complete surprise. It was a great offer for the company we had founded and contributed to for eleven years. This was proof that creating a place where every contributor is treated as an adult and everyone of them is a co-owner of what they’ve created together leads to a wildly successful business as well.</p>
  <p><strong><code>THU 6 NOV 2036</code></strong>. Time to get in line to get a ticket to outer space. But for our granddaughter, not for us. Of course, we don't have a granddaughter, yet, but she's on her way. And the timing of her birth is just right for her to be born in outer space.</p>
  <p><strong><code>THU 26 FEB 2037.</code></strong> Finally! It looks like all the ducks are lined up so that our daughter-in-law can have her baby in space safely. If somebody had told me what it was going to take, we might not have gotten into this, so thank goodness for naïveté. Of course, we were all naïve: nobody knew how to pull this off. After all, it is a first.</p>
@@ -28,7 +27,6 @@ And then they build monuments to you</pre>
  <p>In any case, Sammie has done her part for the world. Now it's time for her to exit the limelight, be a little girl, and enjoy the rest of her life.</p>
  <p><strong><code>MON 6 JUL 2043.</code></strong> Who would have thought it would get this far? The First of Earth movement has taken hold in even the most war-torn countries. It looks like they are going to pull it off. Decentralized governance, impact aligned, and … who’d have thought it possible?</p>
  <p>Happy little Sammie, look what you've brought about. You will forever be the first, but you won't be the only Citizen of Earth for long.</p>
-</div>
 
 <h2>It’s a Go!</h2>
  <p>Samantha looked at Earth, towards a layer of clouds over Kerala and her mother. She had been there as a child to get her “gravity legs,” but for some reason her parents cut the trip short. The trip was supposed to be one of those where first generation immigrants lug their kids “back to the old country.” In her case, it was more about her leg muscles and balance intuition. But what was supposed to be a year, turned into a little over a week. Hardly enough to get acclimated to the all encompassing gravity.</p>
