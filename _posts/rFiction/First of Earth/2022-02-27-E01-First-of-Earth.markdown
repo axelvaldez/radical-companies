@@ -114,7 +114,7 @@ And then they build monuments to you</pre>
  <p>They had a long talk about what looked like their struggle with decentralization. Even they noticed that in any discussion, the first proposal was to centralize decision making “for now” or some other dodge. Luckily they had ten years of experience with this and they were practiced at fighting off that tendency, but you could see how they still had to consciously resist it.</p>
  <p>After a few weeks Sammie got tired of being a RADICAL celebrity and she accepted the invitation to go to the Chicago Pod in what used to be the United States of America. The electric jet went up to the edge of the biosphere, although she would not call that “space” as they did throughout the trip. It was a lot shorter than her trip from the Karala Pod to the Beijing Pod. It was also boring and she slept for most of it.</p>
 
-<div>
+<div style="margin-bottom:0.4in; ">
  <span style="text-align:right; font-family: American Typewriter, serif; float:left; "><a href="">Previous <</a></dspaniv>
  <span style="text-align:right; font-family: American Typewriter, serif; float:right; "><a href="https://radicalcompanies.com/2022/02/28/e02-sweet-home-chicago">> Next</a></span>
  <!-- <div style="clear: both;"></div> -->
