@@ -90,8 +90,8 @@ image:    "and-then-e02.png"
  <p>“Bellamy tradition… ? Vic, I wouldn’t have rebuked you, but I would have suggested that you run an experiment. Instead it went from your head into full production. Universal domination, that’s what it sounds like to me. In any case, I just wanted you to spend time with…” She froze mid-sentence. Then she gave him a furious look, got up, and ran back to her quarters. But it was too late and Munjez was gone.</p>
 
 <div>
- <p style="text-align:right; font-family: American Typewriter, serif; text-align:left; "><a href="">Previous <</a></p>
- <p style="text-align:right; font-family: American Typewriter, serif; "><a href="https://radicalcompanies.com/2022/03/01/e03-give-him-back">> Next</a></p>
+ <span style="text-align:right; font-family: American Typewriter, serif; text-align:left; "><a href="">Previous <</a></span>
+ <span style="text-align:right; font-family: American Typewriter, serif; text-align:right; "><a href="https://radicalcompanies.com/2022/03/01/e03-give-him-back">> Next</a></span>
 </div>
 
 <h2 style="margin-top:0.5in; ">FURTHER READING</h2>
