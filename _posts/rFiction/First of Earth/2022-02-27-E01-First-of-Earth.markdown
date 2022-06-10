@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "First of Earth [E01]"
-subtitle: 
+title:    "First of Earth"
+subtitle: "Episode 01"
 authors:  "Matt Perez & Adrian Perez"
 image:    "and-then-e01.png"
 ---
