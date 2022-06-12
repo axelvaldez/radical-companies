@@ -24,30 +24,30 @@ image:    "and-then-e02.png"
  <p>By the time Sammie woke up we had already switched to the space transponders. The Galanet was abuzz with “First of Earth” this and “First of Earth” that. Sammie figured that a whole new Mod series about this would come out soon.</p>
  <p>Unfortunately, because of this mess, Sammie didn’t get as much time as she wanted to visit the town of Lebanon, in the St Louis Pod. That’s where the paternal side of her family had settled when they left what was the country of Lebanon in the early 1900s.</p>
 
-<h2>Sammie’s Child</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Sammie’s Child</h2>
  <p>At the age of 19, Sammie had a child and she named him Munjez, an homage to her great-great-grandfather’s birthplace. Thankfully, other children had already been born in the Edge settlements and Munjez was not “the First of” anything.</p>
  <p>Sammie and Kiki had agreed on having Vic be Munjez’ dad so he could be in his life, too. Vic didn’t turn out to be a very attentive father, or very present. Except for the rare occasions when Vic parachuted in, the two women were raising Munjez pretty much on their own,</p>
 
-<h2>Victor Boswell</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Victor Boswell</h2>
  <p>Vic was a pretty happy guy. Pretty much of-the-moment and with no life-long aspirations. He had truly enjoyed his ten years in space, off Surface. The oYard had been somewhat constraining, but he nevertheless appreciated the close community it supported. The ability to tumble in 3D space was the greatest experience. He might have been born a creature of gravity, but space was his home, it was his destiny.</p>
  <p>He was not ready for Sammie’s question when she asked. They were close and had had sex before, but this was different. Having a baby with her was another thing altogether. He asked her why she didn’t just not draw from the sperm bank? Every habitat had one and each represented humanity in all its shapes and colors! But her response made sense, “Yes, but I know you and I’d like my child to know his father.”</p>
  <p>Sammie’s request had changed him. The fact that he was going to be a father had changed him. He began to see the world differently. Out of the blue, he wanted to do something his son could point to and say, “my dad did that!”</p>
  <p>He insisted that he was going to be part of the kid’s life, but she knew he wouldn’t be. He got frustrated dealing with people slower than him, and children, by definition, are slower. But Vic was sure that when he grew up, he’d appreciate what “his dad” was going to create.</p>
 
-<h2>The Boss</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">The Boss</h2>
  <p>“Funny, the language they use,” Sammie said, “It’s all so self-important and it must be meant to make people feel bad for always falling short of their idealized new man. They published some kind of a rant and at the end justified the whole thing with ‘this is simply for your damn good’. Who’d come up with something like that?”</p>
  <p>“Yes, not very convincing,” Kiki chuckled. Then she added, “It’s something that good ole’ Vic would say.” Sammie stopped what she was doing and she asked, “Did you just say Boswell? Vic Boswell?” Kiki snickers, “Umhum… I am sure you have deep memories of him.” When she noticed the silence, she turned to Sammie and something was definitely not right with her. “Are you OK? Why did you ask?”</p>
  <p>“Kiki, I think Vic is the Boss!”</p>
  <p>After a moment of hesitation, Kiki broke out laughing. “Oh, for crying out loud, Samantha Bellamy, that’d be way, way too obvious. BOSS-well, really? No way!”</p>
 
-<h2>The Mountain Comes to Muhammad</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">The Mountain Comes to Muhammad</h2>
  <p>“OK, so if Vic won’t come to be with Munjez, then Munjez is going to visit him. Before things get any stranger over there, I want Munjez to spend some time with his dad. That was the whole point of having Vic father him.”</p>
  <p>Kiki was not all happy about Sammie’s decision, but she was right. “Can’t you reach out to him again and ask him to come. He promised.”</p>
  <p>“I’ve done that a bunch of times, Kiki, and he won’t respond. Lately, he doesn’t even show up in the Mods or anything. I don’t want to have to tell Munjez that his father died or some other awful lie.”</p>
  <p>“Sammie, he’s just a baby. There’s plenty of time before you have to tell him anything.”</p>
  <p>“I know, but it’s more than that. If we want him to really <em>know</em> his dad, then they have to start interacting now. It’s like learning a language, it starts from day one, otherwise your brain removes any connection that is not reinforced by the environment you grow up in. No dad, and your brain removes what could have been dad processes. I think it’s worth the trip to give Munjez, and Vic, a chance.”</p>
 
-<h2>You Won’t Like It</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">You Won’t Like It</h2>
  <p>In space, she was not a celebrity, but she was well known. In any case, she had spent a lot of time here while they were finishing the Minor habitat and she had worked and lived with a lot of these people. As she went to her quarters it was all, “Wow, long time” and “Hey the little one is not so little anymore,” or “Hey, you look just like your Mod.” Vic, of course, was nowhere to be found. She was almost done setting up the room for Munjez when he finally showed up.</p>
  <p>“Sorry, I’ve been very busy. I have not spent much time in the Mods but I wasn’t avoiding you. Sorry.”</p>
  <p>Sammie almost launched into a lecture but before the words came out of her mouth, she realized it would be a waste of time.</p>
@@ -66,7 +66,7 @@ image:    "and-then-e02.png"
  <p>“I’ll spend time with him. Actually, seeing him in real life did make an impact on me. You did the right thing coming here with Munjez. More than you know.”</p>
  <p>Vic seemed more relaxed after saying that. He offered to sit down with Sammie and explain what’s going on. “You won’t like it, but you’ll grok it better once you know what led to all this.”</p>
 
-<h2>Catching Up, Catching On</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Catching Up, Catching On</h2>
  <p>They found each other in the multihall. Vic was already there and he was chatting with a short stocky guy. Sammie kind of remembered him, but could not place him. Sammie sat down and the stocky fellow left after giving her a weird glance and a weirder smirk.</p>
  <p>After they were alone, Sammie got right into it.</p>
  <p>“Given all the secrecy, you’ve obviously already ejected transparency out the airlock. And the fact that they call you the Boss pretty much tells me that decentralization is out, too. So much for Commitments, then.”</p>
@@ -94,7 +94,7 @@ image:    "and-then-e02.png"
  <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/01/e03-give-him-back">> Next</a></span>
 </div>
 
-<h2 style="margin-top:1in; ">FURTHER READING</h2>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h2>
  <ul>
   <li><a>The Hidden Masters – Notes</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
@@ -105,7 +105,7 @@ image:    "and-then-e02.png"
   <li><a>Notes</a></li>
  </ul>
 
-<h2 style="margin-top:0.5in; ">RELATED</h2>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h2>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
