@@ -20,7 +20,7 @@ image:    "and-then-e03.png"
  <p>“Right. Sure. Then, what, I’ll go back to my quarters and wait until you tell me it’s visiting hours? Are you sure you won’t have trouble contacting me this time.” And with that, she turned around without waiting for the made up response.</p>
  <p>When she got back to her quarters, she wasn’t sure what to do, where to start. Kiki was right, she should not have come. Come to think of it, Vic’s no show routine probably was a trap to get her to come with the baby.</p>
 
-<h2>Leaving</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Leaving</h1>
  <p>Sammie decided to go back to the Minor habitat. She had more resources there and would not be under constant surveillance. She hated to leave Munjez behind but she knew that he would be safe. He would miss her, like already missed Kiki, and would be inconsolable for a while but Vic would make sure he is safe. She would not have been so sure before, but the look on Vic's face when he first saw him told she didn’t have to worry about that.</p>
  <p>It didn’t take her long to pack what little she had brought. Then she went straight to the dock. As she got close to it, she saw, what… a guard? He was big but young, around 20 terran years. He intercepted her.</p>
  <p>“I am going to leave. Are you really going to block me?”</p>
@@ -47,7 +47,7 @@ image:    "and-then-e03.png"
  <p>She paused and tilted her head, “Vic, I think I should apologize. I didn’t know that <em>my</em> pregnancy was going to upset <em>your</em> body chemistry so much that you were going to go full on narcissist.”</p>
  <p>Vic smiled, but he was very angry. He hesitated for a second but ‘angry’ won out and he walked out of the space, behind a crypto wall. “Go sulk, Vic.”</p>
 
-<h2>Mean Mood Mod</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Mean Mood Mod</h1>
  <p>She had been “celebrating” her 20th birthday, alone, by hopping from one Mod to another aimlessly, following the wind, so biden extends aca enrollment speak. She was definitely in a bad mood, a mean mood. Vic was intent on not letting her leave the habitat: first, he had kidnapped Munjez and then he had kidnapped her transport which was “being repaired.” “What’s next?” she wondered, “Is somebody going to tell me that the Galanet stopped working? Ha!”</p>
  <p>In a sudden panic, she checked. And it had, almost</p>
  <p>Her dad’s Mod was… disappeared? That was the equivalent of murdering Weber Bellamy! The only thing she could find was the references to his work. Those were all there, but nothing else. His avatar was pretty much generic and his personality, his voice, everything else was gone!</p>
@@ -61,14 +61,14 @@ image:    "and-then-e03.png"
  <p>As she listened to her great-great-grandmother her head filled up with ideas, each crazier than the next. She spent hours talking with her and by the end of it she knew how to turn back this FIAT wave. Unwittingly, they had forced her to take the time to understand it all and as a result she was now ready to cause a commotion.</p>
  <p>She had spent her whole life avoiding the hoopla and attention that came with being First of Earth but now she was going to do the opposite. She was going to use it as a loudspeaker.</p>
 
-<h2>Hanne Nader</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Hanne Nader</h1>
  <p>Her Mod of Max Bellamy and the flat data it came from was made useless and there were no traces of who or how it was done. She asked Vic for help, but even he couldn’t figure out how they got into Sammie’s accounts and then managed to wipe all the data and its entangled backups spread up as they were all over the Solar system. For all intents and purposes somebody had murdered her grandfather.</p>
  <p>This was the equivalent of losing all your mementos in a fire. She could reconstruct some of it from her logs and her own memories but that would take a long time and the results would not really be useful or reliable.</p>
  <p>Out of frustration she reconstructed enough of her great-grandfather scattered data. There wasn’t much about him, except a few references to his parents, and his mom in particular. She followed her path and after many, many hours of research with the Worms’ help,  a Mod of her great-great-grandmother started to emerge. And a lot of things started to make sense.</p>
  <p>It turns out that Hanne Nader, or Hannah as she was renamed in the US, had been a very determined and tenacious woman. In 1908, at the age of 13, she emigrated from Lebanon, the country, to Lebanon, a tiny town in southern Illinois in what was then one of the united states. Along with her came her husband and newly born child, two of her brothers, and her mother and her newly born child. The town turned out to be a good place for them where a couple of Lebanese families already settled there.</p>
  <p>A couple of years after she arrived, her child and her mother’s child died of whooping cough. A few months after that Hannah’s husband was run over by a west bound train. After a period of mourning, the small Lebanese community found her a new husband, Balawi, or as he was renamed on entry, Bellamy, Leo Bellamy. The Worms never found out his original birth name so Leo was it.</p>
 
-<h2>From Humble Beginnings</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">From Humble Beginnings</h1>
  <p>From the back of his horse, Leo sold cloth, thread, buttons, and the like to the farmers in the area; he also sold leather goods, mostly shoes and horse mounts. Every day he’d get on the horse his Saint Louis cousin, Aziz, had loaned him, loaded the stuff he had sent him and set out to knock on doors. Over time he got friendly with the local farmers, brought them other goods they had asked for, and he learned passable English.</p>
  <p>He was very industrious and pretty handsome, with an exotic look about him. The women loved him and he smoked and played cards with their husbands and fathers. He had happily found his niche, but he was lonely. When Sara Oaïs, the one and only ḵāṭiba, approached him, he was ready. He had been saving all the money he could and knew he was capable of setting up a household.</p>
  <p>He knew Hannah from afar but when he met her up close, he was smitten. He got a taste of her character when she started to interrogate him over the objections of her mother Mariana Barquet.</p>
@@ -84,7 +84,7 @@ image:    "and-then-e03.png"
  <p>Even though Sammie knew it was pointless, she told her that Manny’s progeny had turned out well. “Look at me,” she said, and Hannah smiled. Sammie knew the Mod would not incorporate into itself anything beyond what the Worms had found. Even so, Sammie wanted to make Hannah smile, at least a little.</p>
  <p>After her talk with Hannah, Sammie’s best guess was that Max Bellamy, her grandfather and Manny’s second son, must have heard about Hannah from his aunts and uncles. Enough that as he grew older he picked up on some of her ideas. Or maybe he put it all together from scratch. Either way, she was surprised that RADICAL ran in her family and even more surprised that her dad had never said so. Maybe he didn’t think it was that important but, damn it, it was to her now.</p>
 
-<h2>A Grain of Fear, or Two</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">A Grain of Fear, or Two</h1>
  <p>Vic was at a loss. There was genuine enthusiasm for his narrative but now, it was pretty much down to a handful of people. A short while ago almost 100 people were part of his movement. But then the damn interchange happened and he had lost all momentum. He thought he would have the numbers on his side, but it didn’t turn out that way. Not all of them had gone to the interchange but the ones who stayed behind were now busy welcoming the newcomers, making new friends, and reconnecting with old ones. Worst of all, they were rejecting their fears.</p>
  <p>He had to think bigger. He had to get his message out, beyond his habitat and to at least the Major habitats. Sammie’s habitat near the Minor Trojans could wait. Besides, she and Munjez were now here, much to his surprise. He had to act quickly and take advantage of this ever-so-lucky turn of events.</p>
  <p>It was obvious he needed a new strategy. What had almost worked in their habitat was not going to work across all habitats at once.</p>
@@ -92,7 +92,7 @@ image:    "and-then-e03.png"
  <p>Really, it didn’t take a genius to figure out that some kind of fear was behind all those momentary comments. Everybody knew how to bring it out in the open with the help of others, and face it until it went puff. But he did notice that without somebody else helping along, a little grain of fear would do all kinds of things to people’s heads. More than anything else, they became docile. Keep the fear in them for a while and they’d become adolescent-like. That’s pretty much the state his inner core of six were in and why they had skipped the interchange.</p>
  <p>Vic figured out how to broadcast fear.</p>
 
-<h2>The Big Nothing</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">The Big Nothing</h1>
  <p>It was total darkness. The emergency lights had not come on, so it was as dark as she’s never experienced before. And quiet. Very quiet. She…</p>
  <p>What was going on?</p>
  <p>Sammie was starting to panic, something else she’s never experienced before. She couldn’t do much, locked in as she was. Except… she heard a hum. She tried the door and it was unlocked. Of course, the magnetically locked door would be unlocked and her room was no longer acoustically isolated.</p>
@@ -107,7 +107,7 @@ image:    "and-then-e03.png"
  <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/02/e04-a-fear-fest">> Next</a></span>
 </div>
 
-<h2 style="margin-top:1in; ">FURTHER READING</h2>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h1>
  <ul>
   <li><a>The Hidden Masters – Notes</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
@@ -118,7 +118,7 @@ image:    "and-then-e03.png"
   <li><a>Notes</a></li>
  </ul>
 
-<h2 style="margin-top:0.5in; ">RELATED</h2>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
