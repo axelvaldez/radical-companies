@@ -7,7 +7,7 @@ image:    "and-then-e01.png"
 ---
 
 <div style="display: none;">
- <p>BREAKING: First child be born in space. Every country around the world claims her as a native.<p>
+ <p>a BREAKING: First child be born in space. Every country around the world claims her as a native.<p>
 </div>
 
 <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; margin:0.4in 0; ">First they ignore you.
