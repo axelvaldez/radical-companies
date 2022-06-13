@@ -11,10 +11,12 @@ image:    "and-then-e11.png"
 </div>
 
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">First they ignore you.
+<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">
+ </span>First they ignore you.
 Then they ridicule you.
 Then they want to burn you.
-And then they build monuments to you.</pre>
+And then they build monuments to you.</span>
+</pre>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Still Crazy…</h1>
   <p>Not long after Ping’s death, the world moved quickly from under the FIAT choke. Some national governments resurfaced, but that didn’t last long. Communities had come into being and this time they took on different shapes as needed, like musical ensembles that changed as new players came in and out.</p>
@@ -132,7 +134,7 @@ And then they build monuments to you.</pre>
 </div>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h1>
-<ul>
+ <ul>
   <li><a>The Hidden Masters – Notes</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
   <li><a>A gatekeeper for learning</a> (see <a>AnchorMod</a>)</li>
@@ -140,10 +142,10 @@ And then they build monuments to you.</pre>
   <li><a>Future Tech and Culture</a></li>
   <li><a>Resources</a></li>
   <li><a>Notes</a></li>
-</ul>
+ </ul>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
-<ul>
+ <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
     <li><a>EN</a>: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
@@ -189,4 +191,4 @@ And then they build monuments to you.</pre>
     <li><a>RADs!</a></li>
     <li><a>Attentive UI</a></li>
   </ul>
-</ul>
+ </ul>
