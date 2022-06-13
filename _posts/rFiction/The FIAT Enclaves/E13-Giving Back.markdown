@@ -1,27 +1,16 @@
 ---
 layout:   post
-title:    "AND THEN THEY WANT TO BURN YOU"
-subtitle: "EPISODE 13 – Giving Back"
+title:    "Giving Back"
+subtitle: "AND THEN THEY WANT TO BURN YOU — E13"
 authors:  "Matt Perez"
 image:    "and-then-e13.png"
 ---
 
-<div style="display: none;">How can one battle people bent on violence without wielding violence yourself? Let's talk about it…</div>
+<div style="display: none;">
+ <p>How can one battle people bent on violence without wielding violence yourself? Let's talk about it&hellip;</p>
+</div>
 
-<br>
-<br>
-
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">First they ignore you.
-Then they ridicule you.
-Then they want to burn you.
-And then they build monuments to you</pre>
-
-<br>
-<br>
-
-<h1 style="text-aligh: center;">GIVING BACK<h1>
-
-<h2>Onwards</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Onwards</h1>
 <p>
 They decided to continue on their journey and experience other communities.
 Saying goodbye to the people they had met took a while but eventually they got
@@ -104,7 +93,7 @@ imposing dome, Bayta said, “Actually, we need a place to sleep.” The cruiser
 found one and veered off in its direction.
 </p>
 
-<h2>Surprise!</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Surprise!</h1>
 <p>
 The next morning a new cruiser was waiting for them but they decided to walk to
 the nearest open kitchen. They found and went up a few steps to find mostly
@@ -223,7 +212,7 @@ Bayta, Julian, and Mirna left them alone while the four of them went into an
 intense conversation.
 </p>
 
-<h2>No Violence!</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">No Violence!</h1>
 <p>
 Bayta turned around at the tap on her shoulder and found herself face to face
 with all of them.
@@ -283,7 +272,7 @@ agreement and walked for a long time to reach their camp. They avoided cruises
 or anything else that could be tracked from a distance.
 </p>
 
-<h2>Action!</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Action!</h1>
 <p>
 The next morning Petra, Ignatius, and Bayta picked up their backups and met
 Jacob and Clayton in front of the house where they had met. Jacob was
@@ -324,7 +313,7 @@ non-combustion ride. They made a couple of stops, but other than that they drove
 straight to Hurricane. Ignatius even got to drive the car with Jacob’s help.
 </p>
 
-<h2>Returns</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Returns</h1>
 <p>
 A few days later, climbed the hill that Petra, Ignatius, and the others from
 their fighting unit had used for their escape. But this time they were going
@@ -374,7 +363,7 @@ Jesus came up to Bayta and said, “My apologies for calling you lamanite. I sai
 carelessly and for that I am sorry.” Jesus extended his hand and said, “Bayta, I
 am Jesus, very nice to meet you.”
 </p>
-<h2>The Vecheka</h2>
+<h2>The Vecheka</h1>
 <p>
 They were eating when they heard from their drones that three Vecheka officers
 were approaching.
@@ -431,7 +420,7 @@ say about the Vecheka, they reacted quickly and were about to shoot again when
 several of their own drones fell on them and knocked them to the ground.
 </p>
 
-<h2>Different Approach</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Different Approach</h1>
 <p>
 A few days after the incident near Hurricane a few people arrived at the ridge
 and set up camp up there. A few were hit with hand weapons but didn’t take
@@ -509,7 +498,7 @@ skeptical and looked at each other with wide-open eyes and smirks on their
 faces.
 </p>
 
-<h2>A New Day</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">A New Day</h1>
 <p>
 The next morning a carrier brought what looked like a hardened Anchortron. After
 the top Vecheka gathered around it, the Prime appeared via Anchortron with the
@@ -562,7 +551,7 @@ family, or your relatives in other communities.” It had a powerful effect; eve
 the Vecheka were listening attentively.
 </p>
 
-<h2>Falling Apart</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Falling Apart</h1>
 <p>
 As the Vecheka forces were pulled out of the urban centers and assigned to The
 Bracia borders, they left behind the regular fighting units, but they started to
@@ -588,7 +577,7 @@ To this day, that community in Ox Valley remains very isolated of its own
 accord.
 </p>
 
-<h2>Onwards</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Onwards</h1>
 <p>
 Petra went back to Hurricane and helped her folks there ensemble with others
 throughout the biosphere. She continues to be an enthusiastic user of the
@@ -600,66 +589,62 @@ while back, spent time in South of the Sahara, and he is now in Europe. His next
 presentation is scheduled in Kyiv.
 </p>
 
-<br>
-
-<h2>FURTHER READING</h2>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h1>
 <ul>
-  <li><a href="https://docs.google.com/document/d/1oxZ1Ol2pMnhmbssCijIq3ipPF-9GPvVXwaCPUtuQsUA/edit#">The Hidden Masters – Notes</a></li>
+  <li><a>The Hidden Masters – Notes</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
-  <li><a href="https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790">A gatekeeper for learning</a> (see <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.obnewqdc49h3">AnchorMod</a>)</li>
-  <li><a href="https://docs.google.com/document/d/139NTUSbvAfsGKKm0VYIGWFjQ_gSQReDWkmPcykSaj4A/edit#heading=h.hv9kv7g9sjnn">Narrative Arc</a></li>
-  <li><a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.45tbumt6bcua">Future Tech and Culture</a></li>
-  <li><a href="https://us02web.zoom.us/j/82364452948?pwd=NzkvMTdLbGlHZzFEenZoUG5CYy84Zz09">Resources</a></li>
-  <li><a href="https://docs.google.com/document/d/1zVBijo_3sHziYQJ4iQDqer9Lede54UbTMWbFMYeIzK0/edit#heading=h.m75zuy1og0t3">Notes</a></li>
+  <li><a>A gatekeeper for learning</a> (see <a>AnchorMod</a>)</li>
+  <li><a>Narrative Arc</a></li>
+  <li><a>Future Tech and Culture</a></li>
+  <li><a>Resources</a></li>
+  <li><a>Notes</a></li>
 </ul>
 
-<br>
-
-<h2>RELATED</h2>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
 <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
-    <li><a href="https://docs.google.com/document/d/1Vt-3hM_i1x9FzfoO0hDX8itRnPV5OQWKcfWsjV6a6CQ/edit#heading=h.rutigyp6zcd3">EN</a>: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
-    <li><a href="https://docs.google.com/document/d/1UYxFNZyJvFZf4DMZkspF5cF6Yzl_ugI67lmqoYJhtGw/edit#heading=h.87ak6hy0sbuh">ES</a>: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
+    <li><a>EN</a>: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
+    <li><a>ES</a>: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
     <li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
     <li>Frequently asked questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
   </ul>
   <li>The Missing Chapters,</li>
   <ul>
-    <li><a href="https://docs.google.com/document/d/1rqcL9sLPAgUs5KmiI_F-Qtr5q0V2LZjxXELYgj6ZXu8/edit#heading=h.gqizizpnpgzu">RADICAL COIN</a></li>
-    <li><a href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76">RADICAL LAND</a></li>
-    <li><a href="https://docs.google.com/document/d/1P4tZw1iAAnJtP2zlijgttIv1Cxq47PBPzqK3UbMHCSY/edit#">RADICAL GOVERNMENT</a></li> 
+    <li><a>RADICAL COIN</a></li>
+    <li><a>RADICAL LAND</a></li>
+    <li><a>RADICAL GOVERNMENT</a></li> 
   </ul>
   <li>rCompanies</li>
   <ul>
     <li>rPRADERA MEDIA</li>
     <ul>
-      <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA SHELF</a></li>
-      <li><a href="https://docs.google.com/document/d/1JRTguYldUhF2ZyC_zabJ-Nr8J_oAylKh5ELAMFFFldI/edit#heading=h.gqizizpnpgzu">PRADERA READER</a></li>
-      <li><a href="https://docs.google.com/document/d/1NElxng620-FtPtk2s-2xizTcL_89LdqnpkZepsnf5RA/edit#heading=h.6wmx089o9bc4">RADICALS.LIVE!</a></li>
-      <li><a href="https://docs.google.com/document/d/1Ej3YXS8Gymknq0TAyNC161Sv5nVXGTGtN-2PwS6H30E/edit#heading=h.gqizizpnpgzu">RADICAL MBA</a></li>  
+      <li><a>PRADERA SHELF</a></li>
+      <li><a>PRADERA READER</a></li>
+      <li><a>RADICALS.LIVE!</a></li>
+      <li><a>RADICAL MBA</a></li>  
     </ul>
-    <li><a href="https://docs.google.com/document/d/1oV_WgvZ0mChe-f8o114p_8BSGldn3ZVkQjHnhwk7ccw/edit#heading=h.gqizizpnpgzu">rHatchery</a></li>
-    <li><a href="https://docs.google.com/document/d/1apVl75nS-Z4b2rpqu-UkDjjYkujLANMiK7zZoU0jGeE/edit#heading=h.ypydz5z11jxq">rCircuit</a></li>
-    <li><a href="https://docs.google.com/document/d/1aoqNhAW6P4QQFM3epM5VqPFdiTgyxTKPUE1c4j8r2k4/edit#heading=h.gqizizpnpgzu">rPlayGym</a></li>
-    <li><a href="https://docs.google.com/document/d/13c1PYhbQEjRlkfmmGQESJD-cTB5b6jmWWBnEpTt1NFU/edit#heading=h.gqizizpnpgzu">rEnsemble</a></li>
+    <li><a>rHatchery</a></li>
+    <li><a>rCircuit</a></li>
+    <li><a>rPlayGym</a></li>
+    <li><a>rEnsemble</a></li>
     <ul>
-      <li><a href="https://docs.google.com/document/d/1-eMt4p4qNJFc9SJkeSoarmy-xG6WtE51eQv047pvTNk/edit#heading=h.gqizizpnpgzu">rTranslate</a></li>
-      <li><a href="https://docs.google.com/document/d/14A5U000ny7_zF8_HutQF1pcMoUwQmI7tfXaMB9uKk3M/edit#heading=h.gqizizpnpgzu">rSparkle</a></li>
-      <li><a href="https://docs.google.com/document/d/16eg7wnyH61xPT4pWFWsuwHydKaxeP8k5xKGX3Pglzp0/edit#heading=h.gqizizpnpgzu">rStayHome</a></li>
-      <li><a href="https://docs.google.com/document/d/11g5cm_1RpORvKiLm_cmZJMQWuZDyHQA3eastDXytYzE/edit#heading=h.gqizizpnpgzu">KidsCare</a></li>
+      <li><a>rTranslate</a></li>
+      <li><a>rSparkle</a></li>
+      <li><a>rStayHome</a></li>
+      <li><a>KidsCare</a></li>
     </ul>
   </ul>
   <li>Startups</li>
   <ul>
-    <li><a href="https://docs.google.com/document/d/1lE-khYtIyXoFeSIlUGcFPzESsslnBoGcmZMQaeVBVgw/edit#">rBuddyNeighbor</a></li>
-    <li><a href="https://docs.google.com/document/d/16jST0lzzezNoFstE2ccZoI2HirgWBu3gQGnEok5OhGY/edit#">rNextBright</a></li>
-    <li><a href="https://docs.google.com/document/d/1dMxsO5LMhKle97J8tPscBs5g64_QKZsiRnDtsccBUE4/edit#heading=h.gqizizpnpgzu">rHintersoft</a></li> 
+    <li><a>rBuddyNeighbor</a></li>
+    <li><a>rNextBright</a></li>
+    <li><a>rHintersoft</a></li> 
   </ul>
   <li>rProjects</li>
   <ul>
-    <li><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit#heading=h.gqizizpnpgzu">REMARK!</a></li>
-    <li><a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#heading=h.gqizizpnpgzu">RADs!</a></li>
-    <li><a href="https://docs.google.com/document/d/1YyiASEMY2ZHx4zen4TQHicygr0JOUWY_pJiP-7Nk6OY/edit#heading=h.gqizizpnpgzu">Attentive UI</a></li>
+    <li><a>REMARK!</a></li>
+    <li><a>RADs!</a></li>
+    <li><a>Attentive UI</a></li>
   </ul>
 </ul>
