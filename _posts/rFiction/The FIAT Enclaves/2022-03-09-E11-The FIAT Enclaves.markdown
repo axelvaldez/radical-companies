@@ -12,10 +12,10 @@ image:    "and-then-e11.png"
 
 
 <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">
- </span>First they ignore you.
-Then they ridicule you.
-Then they want to burn you.
-And then they build monuments to you.</span>
+ First they ignore you.
+ Then they ridicule you.
+ Then they want to burn you.
+ And then they build monuments to you.
 </pre>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Still Crazy…</h1>
