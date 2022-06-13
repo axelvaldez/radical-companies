@@ -589,6 +589,11 @@ while back, spent time in South of the Sahara, and he is now in Europe. His next
 presentation is scheduled in Kyiv.
 </p>
 
+<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+ <span style="float:left; "><a href="">Previous <</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/02/e04-a-fear-fest">> Next</a></span>
+</div>
+
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h1>
 <ul>
   <li><a>The Hidden Masters – Notes</a></li>
