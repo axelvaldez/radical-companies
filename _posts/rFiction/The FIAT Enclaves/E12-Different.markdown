@@ -173,13 +173,13 @@ image:    "and-then-e12.png"
 </ul>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
-<ul>
+ <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
-    <li><a>EN</a>: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
-    <li><a>ES</a>: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
-    <li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
-    <li>Frequently asked questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
+    <li><a>EN</a>: <a></a></li>
+    <li><a>ES</a>: <a></a></li>
+    <li>For the Impatient: RADs, PRI, etc.: <a></a></li>
+    <li>Frequently asked questions (FAQ): <a></a></li>
   </ul>
   <li>The Missing Chapters,</li>
   <ul>
@@ -219,4 +219,4 @@ image:    "and-then-e12.png"
     <li><a>RADs!</a></li>
     <li><a>Attentive UI</a></li>
   </ul>
-</ul>
+ </ul>
