@@ -129,7 +129,7 @@ image:    "and-then-e11.png"
  <p>Ignatius was startled by Petra’s remark and decided to change the conversation. “What are COINs, anyway? They’re like dollars, right?”</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; "></a></span>
+ <span style="float:left; "><a></a></span>
  <span style="float:right; "><a href="https://radicalcompanies.com/E12-Different">> Next</a></span>
 </div>
 
