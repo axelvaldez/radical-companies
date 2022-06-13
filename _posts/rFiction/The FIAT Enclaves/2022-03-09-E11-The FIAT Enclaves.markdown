@@ -1,8 +1,9 @@
 ---
-layout:   post title:    "The FIAT Enclaves"
-subtitle: "AND THEN THEY WANT TO BURN YOU — E11"
-authors:  "Matt Perez"
-image:    "and-then-e11.png"
+layout:
+post title: "The FIAT Enclaves"
+subtitle:   "AND THEN THEY WANT TO BURN YOU — E11"
+authors:    "Matt Perez"
+image:      "and-then-e11.png"
 ---
 
 <div style="display: none;">
