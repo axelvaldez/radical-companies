@@ -93,29 +93,29 @@ image:    "dynamic-distribution-1.svg"
   </ul>
 
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL DISTRIBUTION</SPAN> Difference</h2>
-  <p>Instead of cash or stocks, <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution uses a dimensionless unit we call a <SPAN>RAD</SPAN>. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, <SPAN>RAD</SPAN>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>.</p>
-  <p>RADs represent any kind of contribution, not just financial. In fact, as an accounting tool, <SPAN>RAD</SPAN>s account for the unaccountable.</p>
-  <p>Co-owners then get to distribute RADs according to their individual judgment. Each decides what is an <em>equitable</em> number of <SPAN>RAD</SPAN>s to give to other co-owners as recognition for their contributions. The value of the whole emerges from the judgment of the many.</p> 
+  <p>Instead of cash or stocks, <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution uses a dimensionless unit we call a <span style="font-size:smaller; ">RAD</SPAN>. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, <span style="font-size:smaller; ">RAD</SPAN>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>.</p>
+  <p>RADs represent any kind of contribution, not just financial. In fact, as an accounting tool, <span style="font-size:smaller; ">RAD</SPAN>s account for the unaccountable.</p>
+  <p>Co-owners then get to distribute RADs according to their individual judgment. Each decides what is an <em>equitable</em> number of <span style="font-size:smaller; ">RAD</SPAN>s to give to other co-owners as recognition for their contributions. The value of the whole emerges from the judgment of the many.</p> 
   <p>A few important observations,</p>
   <ul>
    <li>RADs are not a currency.</li>
-   <li><SPAN>RAD</SPAN>s are issued even before there is revenue because contributions happen regardless of revenue.</li>
+   <li><span style="font-size:smaller; ">RAD</SPAN>s are issued even before there is revenue because contributions happen regardless of revenue.</li>
    <li>The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every Distribution Retrospective new criteria are fleshed out and harvested as an optional guideline.</li>
-   <li><SPAN>RAD</SPAN>s represent <em>dynamic</em> ownership. One month you may give me all your <SPAN>RAD</SPAN>s, but the next month you may not give me any.</li>
-   <li>The absolute number of <SPAN>RAD</SPAN>s allocated to me either stays the same or goes up at every distribution. If I had 100 <SPAN>RAD</SPAN>s last cycle and I get 50 this cycle, my total number of <SPAN>RAD</SPAN>s goes to 150. If I don’t get any this cycle, my total number of <SPAN>RAD</SPAN>s stays at 100.</li>
-   <li>On the other hand, my percentage of the total could go up, stay the same, or go down at every Distribution. If my 100 <SPAN>RAD</SPAN>s represented 10% of the total last cycle and I get 150 <SPAN>RAD</SPAN>s this cycle, then my percent ownership went up to 12.5%; if I get 100 new <SPAN>RAD</SPAN>s, my percentage stays at 10%; if don’t get any new <SPAN>RAD</SPAN>s, my percentage goes down to 5%.</li>
-   <li>To calculate your percentage ownership, divide the number of <SPAN>RAD</SPAN>s you have been allocated by the total number of allocated <SPAN>RAD</SPAN>s.</li>
-   <li>When money, or time, or whatever else is disbursed later, it is done as a function of the number of <SPAN>RAD</SPAN>s each person owns. If you have accumulated 200 <SPAN>RAD</SPAN>s and I have 100, then you’ll get twice as much as me of whatever is being factored through the <SPAN>RAD</SPAN>s.</li>
+   <li><span style="font-size:smaller; ">RAD</SPAN>s represent <em>dynamic</em> ownership. One month you may give me all your <span style="font-size:smaller; ">RAD</SPAN>s, but the next month you may not give me any.</li>
+   <li>The absolute number of <span style="font-size:smaller; ">RAD</SPAN>s allocated to me either stays the same or goes up at every distribution. If I had 100 <span style="font-size:smaller; ">RAD</SPAN>s last cycle and I get 50 this cycle, my total number of <span style="font-size:smaller; ">RAD</SPAN>s goes to 150. If I don’t get any this cycle, my total number of <span style="font-size:smaller; ">RAD</SPAN>s stays at 100.</li>
+   <li>On the other hand, my percentage of the total could go up, stay the same, or go down at every Distribution. If my 100 <span style="font-size:smaller; ">RAD</SPAN>s represented 10% of the total last cycle and I get 150 <span style="font-size:smaller; ">RAD</SPAN>s this cycle, then my percent ownership went up to 12.5%; if I get 100 new <span style="font-size:smaller; ">RAD</SPAN>s, my percentage stays at 10%; if don’t get any new <span style="font-size:smaller; ">RAD</SPAN>s, my percentage goes down to 5%.</li>
+   <li>To calculate your percentage ownership, divide the number of <span style="font-size:smaller; ">RAD</SPAN>s you have been allocated by the total number of allocated <span style="font-size:smaller; ">RAD</SPAN>s.</li>
+   <li>When money, or time, or whatever else is disbursed later, it is done as a function of the number of <span style="font-size:smaller; ">RAD</SPAN>s each person owns. If you have accumulated 200 <span style="font-size:smaller; ">RAD</SPAN>s and I have 100, then you’ll get twice as much as me of whatever is being factored through the <span style="font-size:smaller; ">RAD</SPAN>s.</li>
   </ul>
   <p>There probably are many ways of doing this,</p>
   <ul>
-   <li>Every cycle each member gets to distribute a number of <SPAN>RAD</SPAN>s as they see fit. For example, if you get 100 <SPAN>RAD</SPAN>s this month, you may give fifty to Adrian, 30 to Jose, and 20 to me.
+   <li>Every cycle each member gets to distribute a number of <span style="font-size:smaller; ">RAD</SPAN>s as they see fit. For example, if you get 100 <span style="font-size:smaller; ">RAD</SPAN>s this month, you may give fifty to Adrian, 30 to Jose, and 20 to me.
    </li>
-   <li>Alternatively, co-owners might get one <SPAN>RAD</SPAN>s per day. They could then allocate fractions of this one <SPAN>RAD</SPAN>. One tenth to Adrian, 0.01 to Jose, and 0.001 to me.
+   <li>Alternatively, co-owners might get one <span style="font-size:smaller; ">RAD</SPAN>s per day. They could then allocate fractions of this one <span style="font-size:smaller; ">RAD</SPAN>. One tenth to Adrian, 0.01 to Jose, and 0.001 to me.
    </li>
    <li>We may have Distribution events once a month, where everybody participates. Alternatively, you may do your allocations daily and I may do them once a month. Or maybe you start daily and then skip a few days before you allocate again.
    </li>
-   <li>Your unallocated <SPAN>RAD</SPAN>s may disappear every day or they may accumulate for a month or a year.
+   <li>Your unallocated <span style="font-size:smaller; ">RAD</SPAN>s may disappear every day or they may accumulate for a month or a year.
    </li>
   </ul>
   <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Are Scalable</h3>
@@ -158,7 +158,7 @@ image:    "dynamic-distribution-1.svg"
      <td colspan="4">&nbsp;</td>
     </tr>
    </table>
-   <p>As people share and grant each other <span>RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn5" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
+   <p>As people share and grant each other <span style="font-size:smaller; ">RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn5" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
 
    <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Include Banners</h3>
    caca
@@ -213,20 +213,20 @@ image:    "dynamic-distribution-1.svg"
    <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL DISTRIBUTIONS</span> Include Feedback</h3>
     <p>Anybody who wants to can call for a feedback session after a Distribution. In particular, people who didn’t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it’s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
    <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL DISTRIBUTIONS</span> Are Transparent</h3>
-    <p>We don’t think that <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of <SPAN>RAD</SPAN>s allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.</p>
+    <p>We don’t think that <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of <span style="font-size:smaller; ">RAD</SPAN>s allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.</p>
     <p>Of course, you’ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
    <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RAD</span>s Account for the Unaccountable</h3>
     <p><span style="font-size:smaller; ">RAD</SPAN>s represent many things other than simple financial value. They are not beans, but they can be counted.</p>
-    <p>The <span style="font-size:smaller; ">RAD</span>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you’ll probably get fewer <SPAN>RAD</SPAN>s from us; if you are helping us thrive, you’ll likely get more. If you do something that goes against our Impact, “but, hey, it makes money,” you’ll get less <span style="font-size:smaller; ">RAD</span>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you’ll get more <span style="font-size:smaller; ">RAD</span>s.</p>
+    <p>The <span style="font-size:smaller; ">RAD</span>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you’ll probably get fewer <span style="font-size:smaller; ">RAD</SPAN>s from us; if you are helping us thrive, you’ll likely get more. If you do something that goes against our Impact, “but, hey, it makes money,” you’ll get less <span style="font-size:smaller; ">RAD</span>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you’ll get more <span style="font-size:smaller; ">RAD</span>s.</p>
     <p>Maybe I gave you <span style="font-size:smaller; ">RAD</span>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
     <p>In short, <span style="font-size:smaller; ">RAD</span>s account for the uncountable, they measure what had previously been immeasurable.</p>
     -->
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
- <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <SPAN>RAD</SPAN>s. For example,</p>
+ <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <span style="font-size:smaller; ">RAD</SPAN>s. For example,</p>
  <ul>
   <li>Six of us generate $16,000 in dividends.</li>
-  <li>There is a total of 1,000 RADs allocated which means that each <SPAN>RAD</SPAN> is worth $16 this cycle.</li>
+  <li>There is a total of 1,000 RADs allocated which means that each <span style="font-size:smaller; ">RAD</SPAN> is worth $16 this cycle.</li>
   <li>You have 450 allocated RADs and I have 130.</li>
   <li>You <em>earned</em> $7,200 and I’ve <em>earned</em> $2,080 of the total dividends.</li>
  </ul>
@@ -237,7 +237,7 @@ image:    "dynamic-distribution-1.svg"
    <ul>
     <li>Each member determines their <em>Predictable  Recurring Income</em> (PRI). This is what they need to take home every month.</li>
     <li>Along with expenses, loan repayment, and other fixed expenses, the sum of all PRIs determines what for simplicity we’ll call the company’s breakeven point.</li>
-    <li>Every month, the company pays its bills and all PRIs and what’s left is distributed as Earned Dividends according to each person’s <SPAN>RAD</SPAN>  allocations. This is the happy path.</li>
+    <li>Every month, the company pays its bills and all PRIs and what’s left is distributed as Earned Dividends according to each person’s <span style="font-size:smaller; ">RAD</SPAN>  allocations. This is the happy path.</li>
     <li>When revenue doesn’t cover the breakeven point, a <em>PRI Account</em> for each member provides predictability. As a company we can get a loan or  an investment for this fund. Then, as needed, money flows out of the <em>PRI Account</em> to cover a member’s full PRI.</li>
     <li>Each co-owner is responsible for her <em>PRI Account</em> and has to pay back what they got out of it. Most likely, this will be paid back out of Earned Dividends once revenue goes above breakeven, but this is something you’d have to experiment with.</li>
     <li>In the worst case, if the company goes belly up, then if the <em>PRI Account</em> was funded with investment money, there’s no “debt” to be paid back. If it was funded with a loan, then people with unpaid balances have to make good on that loan.</li>
