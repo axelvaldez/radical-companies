@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "RADICALS LIVE"
-subtitle: "Iconoclasts!"
+title:    "RADICALS.LIVE"
+subtitle: "Iconoclasts In Conversations!"
 authors:  "Matt Perez"
 image:    "pradera-background.svg"
 ---
@@ -10,6 +10,7 @@ image:    "pradera-background.svg"
  <p>Iconoclasts talking to each about their ideas and experience with alternative systems to what we have today.</p>
 </div>
 
+<!-- Quote -->
 <div style="background-color:beige; font-size:larger; font-family:american typewriter, serif; padding:1em; ">
  <p style="text-align:justify; ">&ldquo;The form of association, which if mankind continue to improve, must be expected in the end to predominate, is not that which can exist between a capitalist as chief, and work-people without a voice in the management, but the association of the labourers themselves on terms of equality, collectively owning the capital with which they carry on their operations&rdquo;</p>
  <p style="text-align:right; padding-right:1em; ">&mdash; John Stuart Mill</p>
