@@ -1,6 +1,5 @@
 ---
-layout:   post
-title:    "Earth Authority"
+layout:   post title:    "Earth Authority"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E08"
 authors:  "Matt Perez"
 image:    "and-then-e08.png"

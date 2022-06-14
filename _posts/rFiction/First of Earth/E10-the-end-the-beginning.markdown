@@ -1,6 +1,5 @@
 ---
-layout:   post
-title:    "AND THEN THEY WANT TO BURN YOU"
+layout:   post title:    "AND THEN THEY WANT TO BURN YOU"
 subtitle: "EPISODE 10 – The End. The Beginning"
 authors:  "Matt Perez"
 image:    "and-then-e10.png"
@@ -11,11 +10,11 @@ image:    "and-then-e10.png"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">The Queen Is Dead</h1>
- <p>“What the f…?”</p>
- <p>“What is it?”</p>
- <p>“Ping DIED!”</p>
- <p>“Really? What hap…”</p>
- <p>“PING FELL DOWN A PRECIPICE!”</p>
+ <p>&ldquo;What the f&hellip;?&rdquo;</p>
+ <p>&ldquo;What is it?&rdquo;</p>
+ <p>&ldquo;Ping DIED!&rdquo;</p>
+ <p>&ldquo;Really? What hap&hellip;&rdquo;</p>
+ <p>&ldquo;PING FELL DOWN A PRECIPICE!&rdquo;</p>
  <p>Humanity held its breath for a moment.</p>
  <p>And then the infighting began.</p>
 
