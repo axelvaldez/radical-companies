@@ -3,6 +3,7 @@ layout:   post title:    "Giving Back"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E13"
 authors:  "Matt Perez"
 image:    "and-then-e13.png"
+unlisted: true
 ---
 
 <div style="display: none;">
@@ -101,7 +102,7 @@ image:    "and-then-e13.png"
  <p>All of them formed a huddle and Petra and Ignatius started to tell them about the few days they had spent outside The Bracia and what they had learned from interactions with regular people, even kids. There were a lot of questions and cries of &ldquo;bullshit.&rdquo; They even seemed that they were going to break up but after some more talking they reformed the huddle and ended up with lots of hugging and patting each other in the back.</p>
  <p>Jesus came up to Bayta and said, &ldquo;My apologies for calling you lamanite. I said carelessly and for that I am sorry.&rdquo; Jesus extended his hand and said, &ldquo;Bayta, I am Jesus, very nice to meet you.&rdquo;</p>
 
-<h2>The Vecheka</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">The Vecheka</h1>
  <p>They were eating when they heard from their drones that three Vecheka officers were approaching.</p>
  <p>&ldquo;We expected this to happen. We are going to run to the ridge and you&rsquo;re going to shoot us.&rdquo;</p>
  <p>Sarah started to say, &ldquo;No, we would never&hellip;&rdquo;</p>
@@ -142,7 +143,7 @@ image:    "and-then-e13.png"
  <p>Ignatius decided to live with different communities. He left North America a while back, spent time in South of the Sahara, and he is now in Europe. His next presentation is scheduled in Kyiv.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; "><a href="https://radicalcompanies.com/E12-different">Previous <</a></span>
+ <span style="float:left; "><a href="../E12-different">Previous <</a></span>
  <!-- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/02/e04-a-fear-fest">> Next</a></span>-->
 </div>
 

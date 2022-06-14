@@ -3,6 +3,7 @@ layout:   post title:    "AND THEN THEY WANT TO BURN YOU"
 subtitle: "EPISODE 10 – The End. The Beginning"
 authors:  "Matt Perez"
 image:    "and-then-e10.png"
+unlisted: true
 ---
 
 <div style="display: none;">
