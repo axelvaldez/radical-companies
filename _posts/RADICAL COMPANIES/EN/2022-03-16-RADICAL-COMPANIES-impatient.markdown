@@ -161,19 +161,16 @@ image:    "dynamic-distribution-1.svg"
    <p>As people share and grant each other <span style="font-size:smaller; ">RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn5" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
 
    <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Include Banners</h3>
-    caca
-   <p>acac</p>
    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.</p>
    <p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.</p>
    <p style="width: 80%; margin: 0 auto; ">
     <img src="/assets/img/en-banner-funding-product-dev.svg" alt="Two post-its. The one of the left reads, 'Community:   Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
    </p>
-    <!--
-    <table>
-     <tbody style="font-size:smaller; ">
-      <tr style="vertical-align: top; ">
-       <th style=" text-align: right; padding-right: 1em; ">
-        <p>Teams</p>
+   <table>
+    <tbody style="font-size:smaller; ">
+     <tr style="vertical-align: top; ">
+      <th style=" text-align: right; padding-right: 1em; ">
+       <p>Teams</p>
       </th>
       <td><p>Teams can be represented by a Banner. “re: Recognize our IT support team for how they handled the storm.” </p>
       </td>
@@ -207,9 +204,9 @@ image:    "dynamic-distribution-1.svg"
       </td>
      </tr>
     </tbody>
-   </table>
+  </table>
    <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL DISTRIBUTIONS</span> Include Retrospectives</h3>
-    <p>At a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
+   <p>At a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
    <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL DISTRIBUTIONS</span> Include Feedback</h3>
     <p>Anybody who wants to can call for a feedback session after a Distribution. In particular, people who didn’t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it’s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
    <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL DISTRIBUTIONS</span> Are Transparent</h3>
