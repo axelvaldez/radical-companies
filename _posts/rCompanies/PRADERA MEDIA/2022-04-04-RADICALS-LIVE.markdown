@@ -16,9 +16,6 @@ image:    "pradera-background.svg"
  <p style="text-align:right; padding-right:1em; ">&mdash; John Stuart Mill</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Intro</h1>
- <p><span style="font-size:smaller; ">ICONOCLAST</span>s talking.</p>
-
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
 <table>
 <tbody style="font-size:smaller; vertical-align:top; ">
