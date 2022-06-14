@@ -7,7 +7,7 @@ image:    "10-progressive-org-structures.png"
 ---
 
 <div style="display:none;">
- <p>Co-management is a move away from the <span style="font-size:smaller; ">FIAT</span> hierarchy, and that's good. Unfortunately, by itself it doesn't last: we must have co-ownership for robust, stable governance by people.</p>
+ <p>Co-management is a move away from the <span style="font-size:smaller; ">FIAT</span> hierarchy, and that&rsquo;s good. But it doesn&rsquo;t last: we must have co-ownership for robust and stable governance.</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">The Weakness: Owner-Boss</h1>
