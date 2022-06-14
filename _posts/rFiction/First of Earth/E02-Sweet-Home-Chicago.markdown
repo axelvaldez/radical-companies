@@ -10,10 +10,10 @@ image:    "and-then-e02.png"
  <p>Sammie brings their child, Munjez, to Vic, but she is in for a surprise.</p>
 </div>
 
- <p>The Chicago <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.a6wcmzph7o24">polyport</a> was busy, as in, really busy. In its heyday the old O’Hare Airport was the busiest in this part of the world, but nothing compared with all the traffic around the polyport. But for all the traffic above, inside the place was… placid. There were a few people walking around or drinking coffee and whatever else was popular down here. And none of them were waiting for me.</p>
+ <p>The Chicago <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.a6wcmzph7o24">polyport</a> was busy, as in, really busy. In its heyday the old O’Hare Airport was the busiest in this part of the world, but nothing compared with all the traffic around the polyport. But for all the traffic above, inside the place was&hellip; placid. There were a few people walking around or drinking coffee and whatever else was popular down here. And none of them were waiting for me.</p>
  <p>Sammie hung about a bit and was about to taste one of these coffee things when she felt the alert. She listened to the message, looked down, and saw her sherpa which she followed to her hosts. Evidently, they were being super careful with Sammie’s identity and had sent the sherpa instead of just leaving a message. The overall culture was slowly unlearning its FIAT ways and at least a few people would still be addicted to violence.</p>
  <p>It seems that the people in this part of the world were still worried about viral transmission because they offered none of the hugging and kissing that she had experienced in the Beijing Pod.</p>
- <p>Their transport came and it was the plain vanilla type with none of the flare Sammie had seen in the Beijing Pod. As they were getting in, the taller woman (what was her name?) mentioned something about “our President.” At first, Sammie wasn’t sure what she meant, but as she talked it became clear that she was talking about a big boss type President. Well, not quite. At least not quite like the old USA Presidents, but still… Sammie made a mental note of it but decided it was not the time to dig into it. Her neuromorphics were trying to fill in, but she ignored them.</p>
+ <p>Their transport came and it was the plain vanilla type with none of the flare Sammie had seen in the Beijing Pod. As they were getting in, the taller woman (what was her name?) mentioned something about “our President.” At first, Sammie wasn’t sure what she meant, but as she talked it became clear that she was talking about a big boss type President. Well, not quite. At least not quite like the old USA Presidents, but still&hellip; Sammie made a mental note of it but decided it was not the time to dig into it. Her neuromorphics were trying to fill in, but she ignored them.</p>
  <p>Sammie ended up sharing a living space with Tula (the taller woman) who turned out to be very easy to talk with–and she was full of trivia. “Speaking of Asia,” she said, “did you know that the Cultura Libre movement started there?” A bunch of different places claimed to be Cultura Libre’s birthplace. The Castilian speaking folks at the oYard claimed that it had started in the Caribbean, maybe in Puerto Rico, or Cuba, or perhaps Venezuela. But Tula was right and Sammie’s neuromorphics confirmed it. They had used Castilian because it was very popular and it had words for <em>gratis</em> and <em>libre</em> while English conflated both concepts.</p>
  <p>Nina Paley, Sammie’s hero and champion of free culture, would have enjoyed the whole thing, except she died just before people eliminated copyright and patents and their choke on culture. While riding her recumbent bicycle, she had been run over by one of the last petroleum powered vehicles manually driven by a human.</p>
  <p>Tulla said that they were aware of the issue with having a “President,” but that it was symbolic, like Kings and Queens in what used to be Western Europe. Still, Sammie couldn’t get why anybody would spend energy on that kind of thing, as if they were something to be proud of. Why not have a Chief Inquisitor and have him perform symbolic Actos de Fe?</p>
@@ -36,7 +36,7 @@ image:    "and-then-e02.png"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">The Boss</h1>
  <p>“Funny, the language they use,” Sammie said, “It’s all so self-important and it must be meant to make people feel bad for always falling short of their idealized new man. They published some kind of a rant and at the end justified the whole thing with ‘this is simply for your damn good’. Who’d come up with something like that?”</p>
- <p>“Yes, not very convincing,” Kiki chuckled. Then she added, “It’s something that good ole’ Vic would say.” Sammie stopped what she was doing and she asked, “Did you just say Boswell? Vic Boswell?” Kiki snickers, “Umhum… I am sure you have deep memories of him.” When she noticed the silence, she turned to Sammie and something was definitely not right with her. “Are you OK? Why did you ask?”</p>
+ <p>“Yes, not very convincing,” Kiki chuckled. Then she added, “It’s something that good ole’ Vic would say.” Sammie stopped what she was doing and she asked, “Did you just say Boswell? Vic Boswell?” Kiki snickers, “Umhum&hellip; I am sure you have deep memories of him.” When she noticed the silence, she turned to Sammie and something was definitely not right with her. “Are you OK? Why did you ask?”</p>
  <p>“Kiki, I think Vic is the Boss!”</p>
  <p>After a moment of hesitation, Kiki broke out laughing. “Oh, for crying out loud, Samantha Bellamy, that’d be way, way too obvious. BOSS-well, really? No way!”</p>
 
@@ -60,7 +60,7 @@ image:    "and-then-e02.png"
  <p>“That’s not funny, Vic,” was all that came out of Sammie.</p>
  <p>“I wasn’t being funny. You asked me a question and I gave you the straight answer.”</p>
  <p>He had a half smirk on his face, as if knew what was coming next and you didn’t. That look normally made him attractive, but not now.</p>
- <p>“Vic… you are the Boss. Is that what you just said?”</p>
+ <p>“Vic&hellip; you are the Boss. Is that what you just said?”</p>
  <p>“Twice before, yes, and yes again for the third time. Come on, Sammie, you did figure it out. Oh, wait, you did and Kiki thought it was funny. Got it. So why did you come if not to ask me face to face?”</p>
  <p>“I came to have Munjez spend time with you.” As she was saying it, she knew that he was right. “OK, so I asked you and you answered and I couldn’t be more disappointed. But, WHY?” She stopped and calmed herself down one deep breath at a time. “Forget I asked why. The important question is, are you going to spend time with Munjez? I am not worried that you’ll infect him with your bullshit, he’s too young for that. But I do want you to spend time with him. If you can’t because of your guru duties, then I’ll go back and I’ll figure out what to tell Munjez about you. And, don’t worry, I won’t make you the bad guy.”</p>
  <p>“I’ll spend time with him. Actually, seeing him in real life did make an impact on me. You did the right thing coming here with Munjez. More than you know.”</p>
@@ -72,33 +72,33 @@ image:    "and-then-e02.png"
  <p>“Given all the secrecy, you’ve obviously already ejected transparency out the airlock. And the fact that they call you the Boss pretty much tells me that decentralization is out, too. So much for Commitments, then.”</p>
  <p>“Transparency is not ‘out the airlock’ as you said. You asked me if I was the Boss and I told you without hesitation.”<p>
  <p>“Yes, but that’s only because you’ve known me for a very long time and you know there was no point denying it.”</p>
- <p>“Transparency is about not hiding things, but it’s not about broadcasting them, either. I would tell anybody who asked. If that’s not being transparent, then…”</p>
- <p>“Vic… does that line of thinking really work on people that have grown up in a RADICAL environment like these people have? Really?”</p>
- <p>“I would tell anybody who asked like you did. If that’s not being transparent, then…”</p>
+ <p>“Transparency is about not hiding things, but it’s not about broadcasting them, either. I would tell anybody who asked. If that’s not being transparent, then&hellip;”</p>
+ <p>“Vic&hellip; does that line of thinking really work on people that have grown up in a RADICAL environment like these people have? Really?”</p>
+ <p>“I would tell anybody who asked like you did. If that’s not being transparent, then&hellip;”</p>
  <p>“Hasn’t anybody pointed out that transparency is about not surprising the very people who are going to be impacted by a decision? And what you aim to do surely would impact, y’know, HUMANITY! Except it’s not going to spread beyond the reach of your voice.”</p>
- <p>“That’s your interpretation of transparency, but we are being transpar…”</p>
+ <p>“That’s your interpretation of transparency, but we are being transpar&hellip;”</p>
  <p>“There are no versions of transparency,” she interrupted. “You are either transparent or you are playing with words. You are plenty smart, and you are good at playing with words. But, tell me: are you dictating what everybody’s purpose is, too? Are you going to put the kibosh on experimentation unless sanctioned by you?” Vic was going to say something, but she would not let him. “And, let me guess, meaningful is whatever comes out of your mouth and they’ll be part of whatever group you tell them to join. So much for Principles. That’s a heck of a, I don’t know, rebellion?”</p>
  <p>“Correction. As in, course correction.”</p>
  <p>“Correction? What in the universe does that mean? Our RADICAL culture is broken and you have the fix for it? And you got that from, let’s see, aliens you met while on a stroll outside? Vic, are you hearing yourself? What’s happened to you?”</p>
  <p>“Munjez. Munjez happened to me. Actually, before that, when you asked me to be his dad. It opened my eyes to what was lacking in our society.”</p>
  <p>“And what would that be?”</p>
  <p>“Respect. Acknowledgement of those of us who are naturally superior. Like you. And humility. All of those things are missing but they are necessary.”</p>
- <p>“Don’t bring me into this… Wait, what about Munjez and what do you mean by ‘necessary?’”</p>
+ <p>“Don’t bring me into this&hellip; Wait, what about Munjez and what do you mean by ‘necessary?’”</p>
  <p>“Remember when you asked me if I wanted to have a child with you? At first I said yes like I would to most of your ideas because crazy as they may sound at first, they are always solid. But afterwards, it made me think and I saw myself from a perspective I hadn’t seen myself before. I was 22 then and I had not spent any time thinking about anything beyond next week, but just the idea of being a father changed that. That’s when I realized that I had to make my mark, I had to do something that would make Munjez proud of me. And I wanted it to be world changing.”</p>
- <p>“That’s very sweet and touching, Vic. But what do you mean by the necessary things that are missing? And why didn’t you talk to me about this before?” And then, with a shade of sadness in her voice, “Vic, we talked all the time, before, during, and after Munjez was born. Until a few months ago, we talked all the freaking time. Why…”</p>
+ <p>“That’s very sweet and touching, Vic. But what do you mean by the necessary things that are missing? And why didn’t you talk to me about this before?” And then, with a shade of sadness in her voice, “Vic, we talked all the time, before, during, and after Munjez was born. Until a few months ago, we talked all the freaking time. Why&hellip;”</p>
  <p>“Because I knew you would rebuke me. The youngest Bellamy would not go against the Bellamy ideals that took over humanity. And as much as you don’t want to acknowledge it, you have a platform and could prevent me from leading this charge.”</p>
- <p>“Bellamy tradition… ? Vic, I wouldn’t have rebuked you, but I would have suggested that you run an experiment. Instead it went from your head into full production. Universal domination, that’s what it sounds like to me. In any case, I just wanted you to spend time with…” She froze mid-sentence. Then she gave him a furious look, got up, and ran back to her quarters. But it was too late and Munjez was gone.</p>
+ <p>“Bellamy tradition&hellip; ? Vic, I wouldn’t have rebuked you, but I would have suggested that you run an experiment. Instead it went from your head into full production. Universal domination, that’s what it sounds like to me. In any case, I just wanted you to spend time with&hellip;” She froze mid-sentence. Then she gave him a furious look, got up, and ran back to her quarters. But it was too late and Munjez was gone.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; "><a href="">Previous <</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/01/e03-give-him-back">> Next</a></span>
+ <span style="float:left; "><a href="2022-02-27-E01-first-of-earth">Previous <</a></span>
+ <span style="float:right; "><a href="e03-give-him-back">> Next</a></span>
 </div>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h1>
  <ul>
   <li><a>The Hidden Masters – Notes</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
-  <li><a href="https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790">A gatekeeper for learning</a> (see <a>AnchorMod</a>)</li>
+  <li><a>A gatekeeper for learning</a> (see <a>AnchorMod</a>)</li>
   <li><a>Narrative Arc</a></li>
   <li><a>Future Tech and Culture</a></li>
   <li><a>Resources</a></li>
@@ -106,28 +106,28 @@ image:    "and-then-e02.png"
  </ul>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
-<ul>
+ <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
-    <li><a href="">EN</a>: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
-    <li><a href="">ES</a>: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
-    <li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
-    <li>Frequently asked questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
+    <li><a>EN</a>: <a></a></li>
+    <li><a>ES</a>: <a></a></li>
+    <li>For the Impatient: RADs, PRI, etc.: <a></a></li>
+    <li>Frequently asked questions (FAQ): <a></a></li>
   </ul>
   <li>The Missing Chapters,</li>
   <ul>
-    <li><a href="https://radicalcompanies.com/2022/03/17/RADICAL-coins.html">RADICAL COIN</a></li>
-    <li><a href="https://radicalcompanies.com/2022/03/18/RADICAL-land.html">RADICAL LAND</a></li>
-    <li><a href="https://radicalcompanies.com/2022/03/19/RADICAL-government.html">RADICAL GOVERNMENT</a></li> 
+    <li><a>RADICAL COIN</a></li>
+    <li><a>RADICAL LAND</a></li>
+    <li><a>RADICAL GOVERNMENT</a></li> 
   </ul>
   <li>rCompanies</li>
   <ul>
     <li>rPRADERA MEDIA</li>
     <ul>
-      <li><a href="https://radicalcompanies.com/2022/05/05/PRADERA-READER.html">PRADERA READER</a></li>
-      <li><a href="https://radicalcompanies.com/2022/05/06/PRADERA-SHELF.html">PRADERA SHELF</a></li>
-      <li><a href="https://radicalcompanies.com/2022/05/06/RADICAL-MBA.html">RADICAL MBA</a></li>  
-      <li><a href="https://radicalcompanies.com/2022/05/09/RADICALS-LIVE.html">RADICALS.LIVE!</a></li>
+      <li><a>PRADERA SHELF</a></li>
+      <li><a>PRADERA READER</a></li>
+      <li><a>RADICALS.LIVE!</a></li>
+      <li><a>RADICAL MBA</a></li>  
     </ul>
     <li><a>rHatchery</a></li>
     <li><a>rCircuit</a></li>
@@ -152,3 +152,4 @@ image:    "and-then-e02.png"
     <li><a>RADs!</a></li>
     <li><a>Attentive UI</a></li>
   </ul>
+ </ul>

@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "AND THEN THEY WANT TO BURN YOU"
-subtitle: "EPISODE 09 – Would-Be Masters"
+title:    "Would-Be Masters"
+subtitle: "AND THEN THEY WANT TO BURN YOU — E09"
 authors:  "Matt Perez"
 image:    "and-then-e09.png"
 ---
@@ -75,14 +75,14 @@ like the Amish of the late 21st century: small and getting smaller.</p>
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">A New Role</h1>
  <p>Long-term neuropaths were still rare, but they existed. This was no longer a hypothetical condition and Nexus was clear evidence of that.</p>  <p>Diana and Iliana found themselves spending more and more time training Bridges on how to recognize it and how to resist it. The requests started to come in from the companies that Andres had identified, but as these cases became better known, other communities didn’t want to be caught with their pants down were it ever to happen to them. They, along with other people from Nexus, found themselves completely dedicated to this work, which included simulating for the neuro-ons what neuropathology felt like. As they did that, they established a support network to deal with potential cases in the future.</p>
  <p>Even self-correcting systems go over the edge sometimes. Like other forms of love, you have to work at it to preserve it.</p>
- 
+
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; "><a href="E08-earth-authority">Previous <</a></span>
- <span style="float:right; "><a href="E10-the-end-the-beginning">> Next</a></span>
+ <span style="float:left; "><a href="E08-earth-authority">< Previous</a></span>
+ <span style="float:right; "><a href="E10-the-end-the-beginning">Next ></a></span>
 </div>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h1>
-<ul>
+ <ul>
   <li><a>The Hidden Masters – Notes</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
   <li><a>A gatekeeper for learning</a> (see <a>AnchorMod</a>)</li>
@@ -90,7 +90,7 @@ like the Amish of the late 21st century: small and getting smaller.</p>
   <li><a>Future Tech and Culture</a></li>
   <li><a>Resources</a></li>
   <li><a>Notes</a></li>
-</ul>
+ </ul>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
  <ul>

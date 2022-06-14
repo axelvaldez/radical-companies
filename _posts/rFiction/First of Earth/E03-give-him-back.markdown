@@ -14,7 +14,7 @@ image:    "and-then-e03.png"
  <p>Now she was sure that she had a whole habitat to contend with and the people who were not fully onboard with this were too scared to do anything about it. That’s why Vic had to plot in secret, to be able to deploy the kind of violence that these people had only read about in the history books.</p>
  <p>But they had taken her baby and that was a mistake.</p>
  <p>She got to the ICU and she tried displaying some violence of her own. She was learning, but not fast enough. The people there didn’t seem too concerned and kept her at bay.</p>
- <p>A tall woman they called Dotty (her neuromorphics showed her name as Надежда) came out and told her about what happened, why they had taken Munjez without letting her know, but they were about to…</p>
+ <p>A tall woman they called Dotty (her neuromorphics showed her name as Надежда) came out and told her about what happened, why they had taken Munjez without letting her know, but they were about to&hellip;</p>
  <p>“OK, Dotty. I understand. You are not going to give me Munjez unless Vic tells you to. That’s if he’s even here.”</p>
  <p>“Oh, he's here. Right behind that door.”</p>
  <p>“Right. Sure. Then, what, I’ll go back to my quarters and wait until you tell me it’s visiting hours? Are you sure you won’t have trouble contacting me this time.” And with that, she turned around without waiting for the made up response.</p>
@@ -22,17 +22,17 @@ image:    "and-then-e03.png"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Leaving</h1>
  <p>Sammie decided to go back to the Minor habitat. She had more resources there and would not be under constant surveillance. She hated to leave Munjez behind but she knew that he would be safe. He would miss her, like already missed Kiki, and would be inconsolable for a while but Vic would make sure he is safe. She would not have been so sure before, but the look on Vic's face when he first saw him told she didn’t have to worry about that.</p>
- <p>It didn’t take her long to pack what little she had brought. Then she went straight to the dock. As she got close to it, she saw, what… a guard? He was big but young, around 20 terran years. He intercepted her.</p>
+ <p>It didn’t take her long to pack what little she had brought. Then she went straight to the dock. As she got close to it, she saw, what&hellip; a guard? He was big but young, around 20 terran years. He intercepted her.</p>
  <p>“I am going to leave. Are you really going to block me?”</p>
  <p>The guy looked nervous. “Did you decompress?”</p>
- <p>“What… Look, I am not going in a suit, I am leaving in my fully pressurized ship. Are you the dock lead? Why are you outside the dock? What’s going on?”</p>
+ <p>“What&hellip; Look, I am not going in a suit, I am leaving in my fully pressurized ship. Are you the dock lead? Why are you outside the dock? What’s going on?”</p>
  <p>“Sorry, but I am afraid you can’t leave.”</p>
  <p>“And why would that be?”</p>
  <p>“Your ship reported it needed repairs. It took us a day to print the parts. We’ll have them ready by morning and it will be repaired then.”</p>
  <p>While the fellow was talking, she tried to check the logs, but they were blocked or something and she could not get to them. She knew it was a pretty transparent charade to keep her from leaving, but she was so, so pissed off.</p>
- <p>“Now I can’t get to my ship’s logs. Was that one of the things that was broken, it couldn’t keep logs? If so, how did you find out that it needed repairs, a signal from Alpha Centauri? A flash of light from…”</p>
+ <p>“Now I can’t get to my ship’s logs. Was that one of the things that was broken, it couldn’t keep logs? If so, how did you find out that it needed repairs, a signal from Alpha Centauri? A flash of light from&hellip;”</p>
  <p>“The Boss told us that the ship needed new parts and what they were.”</p>
- <p>“So Vic imposed a blackout on my ship’s log, unilaterally. None of you questioned that, and now…”</p>
+ <p>“So Vic imposed a blackout on my ship’s log, unilaterally. None of you questioned that, and now&hellip;”</p>
  <p>She had enough. She smiled at the guy and walked away. And as she did, she sent out a habitat-wide message calling for a feedback session, in an hour, in the multipurpose hall. That was just about enough time for her to calm down. By the time she reached the hall, she was centered and ready to get to the bottom of this. Except no one showed.</p>
  <p>Not. A. One.</p>
  <p>A girl of around 15 showed up a few minutes after the hour and hesitantly told her that Vic would talk to her later, after dinner. “And what time would that be?” But she was already out.</p>
@@ -50,8 +50,8 @@ image:    "and-then-e03.png"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Mean Mood Mod</h1>
  <p>She had been “celebrating” her 20th birthday, alone, by hopping from one Mod to another aimlessly, following the wind, so biden extends aca enrollment speak. She was definitely in a bad mood, a mean mood. Vic was intent on not letting her leave the habitat: first, he had kidnapped Munjez and then he had kidnapped her transport which was “being repaired.” “What’s next?” she wondered, “Is somebody going to tell me that the Galanet stopped working? Ha!”</p>
  <p>In a sudden panic, she checked. And it had, almost</p>
- <p>Her dad’s Mod was… disappeared? That was the equivalent of murdering Weber Bellamy! The only thing she could find was the references to his work. Those were all there, but nothing else. His avatar was pretty much generic and his personality, his voice, everything else was gone!</p>
- <p>As she was starting to choke up, she had a panicked thought and she looked for her grandfather and… Max Bellamy’s Mod, too, was completely gone. At first she thought it was the part that overlapped her dad’s Mod, but she looked and looked and he was <em>completely</em> gone.</p>
+ <p>Her dad’s Mod was&hellip; disappeared? That was the equivalent of murdering Weber Bellamy! The only thing she could find was the references to his work. Those were all there, but nothing else. His avatar was pretty much generic and his personality, his voice, everything else was gone!</p>
+ <p>As she was starting to choke up, she had a panicked thought and she looked for her grandfather and&hellip; Max Bellamy’s Mod, too, was completely gone. At first she thought it was the part that overlapped her dad’s Mod, but she looked and looked and he was <em>completely</em> gone.</p>
  <p>Over the next couple of days she tried the possible places the data could be. She even looked by hand because she didn’t feel she could trust the Worms any more. He was disappeared completely and thoroughly. And it was the equivalent of murder because they had to also take out anything, and anybody, that was adjacent to him.</p>
  <p>She wanted to cry, but she didn’t want to give Vic and his minions the satisfaction. No matter, she let go and cried her eyes out. She never expected this level of violence.</p>
  <p>When she woke up the next cycle she seemed calm. She went about her usual routine and after finishing breakfast, she wasted her time at the Anchotron.</p>
@@ -93,25 +93,25 @@ image:    "and-then-e03.png"
  <p>Vic figured out how to broadcast fear.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">The Big Nothing</h1>
- <p>It was total darkness. The emergency lights had not come on, so it was as dark as she’s never experienced before. And quiet. Very quiet. She…</p>
+ <p>It was total darkness. The emergency lights had not come on, so it was as dark as she’s never experienced before. And quiet. Very quiet. She&hellip;</p>
  <p>What was going on?</p>
- <p>Sammie was starting to panic, something else she’s never experienced before. She couldn’t do much, locked in as she was. Except… she heard a hum. She tried the door and it was unlocked. Of course, the magnetically locked door would be unlocked and her room was no longer acoustically isolated.</p>
+ <p>Sammie was starting to panic, something else she’s never experienced before. She couldn’t do much, locked in as she was. Except&hellip; she heard a hum. She tried the door and it was unlocked. Of course, the magnetically locked door would be unlocked and her room was no longer acoustically isolated.</p>
  <p>OK, she was no longer panicking, she could think again. The unlocked door gave her a place to start. And a way out.</p>
  <p>It seemed like everybody was out in the hallways. The hum she had heard was now a roar of voices. It was crazy.</p>
  <p>“My baby is going to die!” somebody screamed. Evidently somebody had an intensive care baby and without power the poor thing was doomed.</p>
  <p>And then the power came back on. From a sea of voices to the familiar lights and total silence, in an instant.</p>
- <p>After a few minutes of staring at each other, a voice came through our devices, “Vic found the problem… well… OK. One more time, Vic brought back our power, but he doesn’t yet know what caused it to go down.” At which point Sammie felt hands holding her and leading her back to her quarters. This time the door was firmly locked behind. And about time, so she could get back to her Mods.</p>
+ <p>After a few minutes of staring at each other, a voice came through our devices, “Vic found the problem&hellip; well&hellip; OK. One more time, Vic brought back our power, but he doesn’t yet know what caused it to go down.” At which point Sammie felt hands holding her and leading her back to her quarters. This time the door was firmly locked behind. And about time, so she could get back to her Mods.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; "><a href="">Previous <</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/02/e04-a-fear-fest">> Next</a></span>
+ <span style="float:left; "><a href="E02-sweet-home-chicago">< Previous</a></span>
+ <span style="float:right; "><a href="E04-a-fear-fest">Next ></a></span>
 </div>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h1>
  <ul>
   <li><a>The Hidden Masters – Notes</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
-  <li><a href="https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790">A gatekeeper for learning</a> (see <a>AnchorMod</a>)</li>
+  <li><a>A gatekeeper for learning</a> (see <a>AnchorMod</a>)</li>
   <li><a>Narrative Arc</a></li>
   <li><a>Future Tech and Culture</a></li>
   <li><a>Resources</a></li>
@@ -119,28 +119,28 @@ image:    "and-then-e03.png"
  </ul>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
-<ul>
+ <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
-    <li><a href="">EN</a>: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
-    <li><a href="">ES</a>: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
-    <li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
-    <li>Frequently asked questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
+    <li><a>EN</a>: <a></a></li>
+    <li><a>ES</a>: <a></a></li>
+    <li>For the Impatient: RADs, PRI, etc.: <a></a></li>
+    <li>Frequently asked questions (FAQ): <a></a></li>
   </ul>
   <li>The Missing Chapters,</li>
   <ul>
-    <li><a href="https://radicalcompanies.com/2022/03/17/RADICAL-coins.html">RADICAL COIN</a></li>
-    <li><a href="https://radicalcompanies.com/2022/03/18/RADICAL-land.html">RADICAL LAND</a></li>
-    <li><a href="https://radicalcompanies.com/2022/03/19/RADICAL-government.html">RADICAL GOVERNMENT</a></li> 
+    <li><a>RADICAL COIN</a></li>
+    <li><a>RADICAL LAND</a></li>
+    <li><a>RADICAL GOVERNMENT</a></li> 
   </ul>
   <li>rCompanies</li>
   <ul>
     <li>rPRADERA MEDIA</li>
     <ul>
-      <li><a href="https://radicalcompanies.com/2022/05/05/PRADERA-READER.html">PRADERA READER</a></li>
-      <li><a href="https://radicalcompanies.com/2022/05/06/PRADERA-SHELF.html">PRADERA SHELF</a></li>
-      <li><a href="https://radicalcompanies.com/2022/05/06/RADICAL-MBA.html">RADICAL MBA</a></li>  
-      <li><a href="https://radicalcompanies.com/2022/05/09/RADICALS-LIVE.html">RADICALS.LIVE!</a></li>
+      <li><a>PRADERA SHELF</a></li>
+      <li><a>PRADERA READER</a></li>
+      <li><a>RADICALS.LIVE!</a></li>
+      <li><a>RADICAL MBA</a></li>  
     </ul>
     <li><a>rHatchery</a></li>
     <li><a>rCircuit</a></li>
@@ -165,3 +165,4 @@ image:    "and-then-e03.png"
     <li><a>RADs!</a></li>
     <li><a>Attentive UI</a></li>
   </ul>
+ </ul>

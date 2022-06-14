@@ -10,23 +10,18 @@ image:    "and-then-e01.png"
  <p>BREAKING: First child be born in space. Every country around the world claims her as a native.</p>
 </div>
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; margin:0.4in 0; ">First they ignore you.
-Then they ridicule you.
-Then they want to burn you.
-And then they build monuments to you</pre>
-
  <p><strong><code>SAT 16 NOV 2030.</code></strong> It came sooner than expected, though not as a complete surprise. It was a great offer for the company we had founded and contributed to for eleven years. This was proof that creating a place where every contributor is treated as an adult and everyone of them is a co-owner of what they’ve created together leads to a wildly successful business as well.</p>
  <p><strong><code>THU 6 NOV 2036</code></strong>. Time to get in line to get a ticket to outer space. But for our granddaughter, not for us. Of course, we don't have a granddaughter, yet, but she's on her way. And the timing of her birth is just right for her to be born in outer space.</p>
  <p><strong><code>THU 26 FEB 2037.</code></strong> Finally! It looks like all the ducks are lined up so that our daughter-in-law can have her baby in space safely. If somebody had told me what it was going to take, we might not have gotten into this, so thank goodness for naïveté. Of course, we were all naïve: nobody knew how to pull this off. After all, it is a first.</p>
  <p>Once we pull the trigger on this, we won't be so wealthy after all, but my wife and I want to see it through, no matter the costs. And we are not the only ones who feel this way. All kinds of people have come forward to help us make this a (very expensive) reality. They, we, are starting to get an inkling of the much bigger impact this may have on humanity.</p>
- <p><strong><code>WED 22 APR 2037.</code></strong> Well, I'll be …! In less than two months the sponsor nations of what became the Orbital Shipyard have chosen to declare my granddaughter a native of their respective countries the minute she's born. THIS IS FANTASTIC and beyond anything we had ever hoped for.</p>
+ <p><strong><code>WED 22 APR 2037.</code></strong> Well, I'll be &hellip;! In less than two months the sponsor nations of what became the Orbital Shipyard have chosen to declare my granddaughter a native of their respective countries the minute she's born. THIS IS FANTASTIC and beyond anything we had ever hoped for.</p>
  <p><strong><code>WED 10 JUN 2037.</code></strong> This is stunning. Just got word that even China and several other nations will declare my granddaughter a native of their countries as well. The UN is supposedly working on some kind of declaration, too.</p>
  <p>We are not sure what to expect anymore. What does it even mean to be a native citizen of nearly every country on Earth?</p>
  <p><strong><code>FRI 26 MAR 2038.</code></strong> Of course she is beautiful, she’s our granddaughter! Our first. She's also the first Citizen of Earth. That is what the UN had been working on and they announced it today, just as my daughter-in-law was in the throes of a final push. Other than the politics around it, it all went as well as we had hoped for.</p>
  <p><strong><code>TUE 20 SEP 2039.</code></strong> Thank goodness my son and his family are back home. They've had two years of nearly non-stop traveling. It seemed that every country in the world wanted to celebrate their first Citizen of Earth in person. Luckily, except for a few minor infections, Sammie, as we call our granddaughter Samantha, has been very healthy.</p>
- <p>She's a very happy baby. And she also has this… presence. It's almost as if she knows how significant she's become.</p>
+ <p>She's a very happy baby. And she also has this&hellip; presence. It's almost as if she knows how significant she's become.</p>
  <p>In any case, Sammie has done her part for the world. Now it's time for her to exit the limelight, be a little girl, and enjoy the rest of her life.</p>
- <p><strong><code>MON 6 JUL 2043.</code></strong> Who would have thought it would get this far? The First of Earth movement has taken hold in even the most war-torn countries. It looks like they are going to pull it off. Decentralized governance, impact aligned, and … who’d have thought it possible?</p>
+ <p><strong><code>MON 6 JUL 2043.</code></strong> Who would have thought it would get this far? The First of Earth movement has taken hold in even the most war-torn countries. It looks like they are going to pull it off. Decentralized governance, impact aligned, and &hellip; who’d have thought it possible?</p>
  <p>Happy little Sammie, look what you've brought about. You will forever be the first, but you won't be the only Citizen of Earth for long.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">It’s a Go!</h1>
@@ -60,12 +55,12 @@ And then they build monuments to you</pre>
  <p>After about an hour practicing manual control in a shared Mod, the pilot said, “You know these ships wouldn’t have been possible without your grandfather?”</p>
  <p>“Really? But my grandfather was an activist, not an engineer.” She knew her grandfather had moved to China after the People’s Republic dictatorship had come down. But other than that she had never ventured much into the actual stories about him. Her dad’s favorite seemed to be about her grandfather getting the boot from America in its last gasp of authoritarianism.</p>
  <p>Pilot Sils explained, “Back then I worked with Jiangsu Launch Technologies in Changshu near Shanghai. Your grandfather showed up as we were having a huge debate about what direction to go. Whether it would be the ultra efficient ion airships, or the landed rockets everyone was doing at the time. The right choice wasn’t obvious at all at that momen and, honestly, the airships looked like a stupid idea.”</p>
-<p>She was dubious, but curious about her grandfather’s impact, “OK… but my grandfather didn’t design rockets.”</p>
+<p>She was dubious, but curious about her grandfather’s impact, “OK&hellip; but my grandfather didn’t design rockets.”</p>
 <p>The pilot spoke, “No he didn’t. But he re-designed the company. Or more accurately, he convinced all of us to redesign the company. And that caused us to make the right choice.”</p>
 <p>Sammie disengaged from the ship and looked at the pilot in real life. He did not look that old, but modern medicine and universal healthcare made it hard to tell sometimes. Her neuromorphics sussed out his bio: pilot Sils was sixty seven, so he would have met her grandfather, Max.</p>
 <p>She ventured, “So how did he help?”</p>
-<p>The pilot described, “Like I said, we were about to come apart over technical direction. The founders had a lot of expertise with rockets and even though they knew the technology had reached its end, they wanted to start that way to get the company going; the airship idea would come later. But we had watched that movie before and we felt that with that approach the airship would never happen…”</p>
- <p>“… and rockets would take the company all the way to its graveyard,” she extrapolated.</p>
+<p>The pilot described, “Like I said, we were about to come apart over technical direction. The founders had a lot of expertise with rockets and even though they knew the technology had reached its end, they wanted to start that way to get the company going; the airship idea would come later. But we had watched that movie before and we felt that with that approach the airship would never happen&hellip;”</p>
+ <p>“&hellip; and rockets would take the company all the way to its graveyard,” she extrapolated.</p>
  <p>He proceeded, “Yeah. The people who wanted the orbital airships, me included, were about to leave and start a separate company. Then your grandfather pointed out that they were very much aligned to the impact we wanted to make, we all wanted to get people to space as cheaply and sustainably as possible. That made us stop and think. We had already adopted his co-ownership model which was working very well for us...”</p>
  <p>Sammie interjected, “The oYard is co-owned and we use it to distribute the wealth we create. Surface people always get confused and want to keep the RADs for themselves. You have to repeat yourself, but eventually they get it that they are giving away ownership of the station. It’s always a hoot to see their reactions when they get it.”</p>
  <p>“Exactly,” he smiled, “And that’s how we dodged the bullet of having the founders act like obstinate bosses, pushing everybody around. Enough people in the company gave their RADs to the airship Banner and no one had to leave. The irony is that some of the technology developed for the balloon Ascenders boosted the VTOL rocket business so much that we stayed profitable even as the VTOL rocket business declined.”</p>
@@ -86,7 +81,7 @@ And then they build monuments to you</pre>
  <p>Simulating environmental features didn’t sound like an impossible thing to do. I wonder if somebody had put up a Banner to fund looking into combining the Archotron and Neuromorphics to integrate a full blown simulation that felt more real.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Mom, I’m Home</h1>
- <p>Sammie got to her mom’s home last night, headed straight to bed, and crashed. Everybody said it would be a piece of cake because “you are so young… ,” but it wasn’t. She may be 13, but this down trip was not like any kind of cake she ever enjoyed.</p>
+ <p>Sammie got to her mom’s home last night, headed straight to bed, and crashed. Everybody said it would be a piece of cake because “you are so young&hellip; ,” but it wasn’t. She may be 13, but this down trip was not like any kind of cake she ever enjoyed.</p>
  <p>Her mom lived in one of those health clusters, just outside Trivandrum, that the Kerala Pod was well known for. The Dutch had gotten all the fame for a similar system in the early part of the century, but Malayali had established their use long before the Dutch reinvented that particular wheel.</p>
  <p>Her place looked deceiveling normal, but obviously something was wrong with her, otherwise she would not be at this place. Something else must be going on with her. In any case, she didn’t say anything about it and Sammie didn’t ask.</p>
  <p>Sammie was not even sure why she had come down here. Her mom had invited her to stay with her if she decided not to go to the Edge with her dad. “We’ll keep you busy down here.” The thing is that she wasn’t sure what to do. She wasn’t sure about moving down here and she wasn’t sure about moving with her dad to the Edge. Staying in the oYard was not very appealing, either, since the chance of hanging out and experimenting with people her own age was nil at the oYard.</p>
@@ -94,21 +89,21 @@ And then they build monuments to you</pre>
  <p>Sammie’s mom looked as always, minus the glitches. She had never used any of the filters when we talked, so Sammie had watched her get older over time. But her living in a health cluster was surprising.</p>
  <p>Sammie was not particularly surprised that her mom had not talked about it. This was the same woman that stayed on Surface when Sammie was four and let her go with her dad back to the oYard. Anita, her dad’s partner, had told her that Sammie’s mom was tense all the time she was there at the oYard.</p>
  <p>In all the time Sammie was with her, everything stayed normal enough. They went out to see a couple of Temples and restored synagogues. Even the one in Parur was a bit boring for Sammie because she had already visited its many Mods and knew the place and its history better than many of the IRL tour guides.</p>
- <p>The natural sites they visited in the region were familiar, too, although these were different in the flesh. Nothing new in the beautiful visuals, they looked just like in the Mods, but what made it all the more impressive for Sammie was the indescribable sense of… danger! Earth felt dangerous, but in a good way, in a way that made the experience a <em>better</em> kind of different.</p>
+ <p>The natural sites they visited in the region were familiar, too, although these were different in the flesh. Nothing new in the beautiful visuals, they looked just like in the Mods, but what made it all the more impressive for Sammie was the indescribable sense of&hellip; danger! Earth felt dangerous, but in a good way, in a way that made the experience a <em>better</em> kind of different.</p>
  <p>In one of the few casual conversations they had, they ended up talking about the difficulties of giving birth at the oYard and some of the things Sammie did as a toddler. Sammie was visibly enjoying it all. But as they talked, her mom got more and more agitated, more visibly angry. At first Sammie thought it was something she had said but then her mom started talking about Weber and how crazy it was to deliver Sammie in the oYard before it was even finished. “Always dark,” she kept repeating, “always dark.” Sammie got the sense that this is what Anita was talking about.</p>
  <p>As she ranted, without any warning, the door opened and two men came in. They were smiling and walked about as if they had done this before. One of them talked to Sammie’s mom while the other one corralled her and moved her away from her mom. At first he was trying to chit chat as if they were old friends and then the other man said something. Sammie didn’t catch it but her guy obviously did because his expression changed and he quickly said, “we are here for your mother, she’ll be fine in a few minutes, but it will very much help her calm down if you went to another room.”</p>
  <p>So, we did. It didn’t take that long before he knocked softly on the door frame and he said “everything’s fine now.” Sammie asked him what was going on but he said he could not tell her. “Just make sure that she doesn’t end up talking about what went on in the past, try to stay within the last ten years or so. That’s what kicked off this episode.”</p>
- <p>Not soon after that the invitation from the Chinese Pod came and it didn’t take Sammie long to decide to accept it. A few days later she packed her things without saying much and as she was about to walk out her mom was very quiet. Sammie felt sad to leave but she wanted to get out of there even more. It sure felt like she should say something… so she reached out and hugged her mom.</p>
+ <p>Not soon after that the invitation from the Chinese Pod came and it didn’t take Sammie long to decide to accept it. A few days later she packed her things without saying much and as she was about to walk out her mom was very quiet. Sammie felt sad to leave but she wanted to get out of there even more. It sure felt like she should say something&hellip; so she reached out and hugged her mom.</p>
  <p>In that awkward, last minute hug Sammie felt an exoskeleton under her mom’s clothes. She recognized it because they were not that different from the one they all used in the oYard when they had to move something massive. Now the whole thing made sense: besides aiding her movement, the exo was keeping her mom alive and coherent. So this wasn’t quite a health cluster, more like a hospice.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Floating Away</h1>
- <p>Sammie’s trip to the Beijing Pod took a bit over forty-eight hours in an inflatable ship. It was surprisingly comfortable and very efficient. And floating in the vast body of water had the same dangerous, exhilarating  edge of the other open spaces. Little by little the immensity of Earth was starting to dawn on me. The oYard was big and roomy, but this… this <em>planet</em> was in a different class altogether. The people who still called it Spaceship Earth had no idea how stupid that sounded to somebody who was born and raised in a real spaceship.</p>
+ <p>Sammie’s trip to the Beijing Pod took a bit over forty-eight hours in an inflatable ship. It was surprisingly comfortable and very efficient. And floating in the vast body of water had the same dangerous, exhilarating  edge of the other open spaces. Little by little the immensity of Earth was starting to dawn on me. The oYard was big and roomy, but this&hellip; this <em>planet</em> was in a different class altogether. The people who still called it Spaceship Earth had no idea how stupid that sounded to somebody who was born and raised in a real spaceship.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">The Middle Kingdom</h1>
  <p>What was then the People’s Republic of China was the first to break down into Pods. The People’s Republic dictatorship had squeezed the FIAT system for all it had and the hierarchy there got more and more rigid as the economy grew. The generation that grew up with abundance could not understand why their system was getting to look more and more like a rice empire. Xi Jinping’s centralization of power went against everything that they expected from a confident country with a solid economy. They wanted to be world players, not voiceless drones. Hello: it is the 21<sup>th</sup> century.</p>
  <p>The more the dictatorship tried to suppress their defiance, the more they looked for alternatives. And as they found them, those alternatives started to capture the imagination of the <em>niubi</em> (牛逼). The RADICAL model was most compelling to them: it was simple, it was effective, and easy to get started in a hurry and without fuzz.</p>
  <p>In 2032 the whole thing came tumbling down, swiftly and with surprising little bloodshed. There was none of the “chaos and mayhem” that most pundits predicted. The people quickly organized into co-managed and co-owned collaboratives. The massive decentralization made the wealth spread quickly and smoothly. And that was just the beginning—they are still moving the transformation forward.</p>
- <p>When she arrived, she saw two people who seemed not much older than her waving at her. She walked up to them and then got her into what looked like an old-timey car. For a second she fantasized that one of her companions was going to sit behind its huge steering wheel and… but, no, it just drove itself after all. Of course, she had seen them in the Mods, but this was very ornate. Evidently they could afford this kind of levity given Earth’s vastness. </p>
+ <p>When she arrived, she saw two people who seemed not much older than her waving at her. She walked up to them and then got her into what looked like an old-timey car. For a second she fantasized that one of her companions was going to sit behind its huge steering wheel and&hellip; but, no, it just drove itself after all. Of course, she had seen them in the Mods, but this was very ornate. Evidently they could afford this kind of levity given Earth’s vastness. </p>
  <p>She spoke decent Mandarin thanks to the abundance of Chinese folks at the Shipyard. Everybody spoke English but there was a certain pleasure in keeping other Earth languages alive. And there were plenty of Mandarin-speaking and Castilian-speaking people, as well as smaller groups who spoke Cantonese and other languages. From everything she read and heard, the RADICAL mindset was very much at work everywhere in the Beijing Pod.</p>
  <p>To them Sammie was not a hero because of the First of Earth fame. More than anything else, they wanted to talk about her experience <em>growing up RADICAL</em>. Unfortunately, Sammie didn’t have much to say about that. It’s like asking her, what is it like to breathe?</p>
  <p>She did end up pointing out the many vestiges of FIAT command-and-control signs that she noticed. Sammie didn’t want to come across as critical, but she did notice that they were sometimes confused, even annoyed. And then they would burst into an avalanche of questions about it.</p>
@@ -117,14 +112,14 @@ And then they build monuments to you</pre>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <!--<span style="float:left; "><a href="">Previous <</a></span>-->
- <span style="float:right; "><a href="https://radicalcompanies.com/2022/02/28/e02-sweet-home-chicago">> Next</a></span>
+ <span style="float:right; "><a href="E02-sweet-home-chicago">> Next</a></span>
 </div>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h1>
  <ul>
   <li><a>The Hidden Masters – Notes</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
-  <li><a href="https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790">A gatekeeper for learning</a> (see <a>AnchorMod</a>)</li>
+  <li><a>A gatekeeper for learning</a> (see <a>AnchorMod</a>)</li>
   <li><a>Narrative Arc</a></li>
   <li><a>Future Tech and Culture</a></li>
   <li><a>Resources</a></li>
@@ -132,28 +127,28 @@ And then they build monuments to you</pre>
  </ul>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
-<ul>
+ <ul>
   <li>RADICAL COMPANIES,</li>
   <ul>
-    <li><a href="">EN</a>: <a href="https://radicals.world/fDm2eL">https://radicals.world/fDm2eL</a></li>
-    <li><a href="">ES</a>: <a href="https://radicals.world/3BFuoJ">https://radicals.world/3BFuoJ</a></li>
-    <li>For the Impatient: RADs, PRI, etc.: <a href="https://radicals.world/Q0RIWR]">https://radicals.world/Q0RIWR]</a></li>
-    <li>Frequently asked questions (FAQ): <a href="https://radicals.world/ZVRbBc">https://radicals.world/ZVRbBc</a></li>
+    <li><a>EN</a>: <a></a></li>
+    <li><a>ES</a>: <a></a></li>
+    <li>For the Impatient: RADs, PRI, etc.: <a></a></li>
+    <li>Frequently asked questions (FAQ): <a></a></li>
   </ul>
   <li>The Missing Chapters,</li>
   <ul>
-    <li><a href="https://radicalcompanies.com/2022/03/17/RADICAL-coins.html">RADICAL COIN</a></li>
-    <li><a href="https://radicalcompanies.com/2022/03/18/RADICAL-land.html">RADICAL LAND</a></li>
-    <li><a href="https://radicalcompanies.com/2022/03/19/RADICAL-government.html">RADICAL GOVERNMENT</a></li> 
+    <li><a>RADICAL COIN</a></li>
+    <li><a>RADICAL LAND</a></li>
+    <li><a>RADICAL GOVERNMENT</a></li> 
   </ul>
   <li>rCompanies</li>
   <ul>
     <li>rPRADERA MEDIA</li>
     <ul>
-      <li><a href="https://radicalcompanies.com/2022/05/05/PRADERA-READER.html">PRADERA READER</a></li>
-      <li><a href="https://radicalcompanies.com/2022/05/06/PRADERA-SHELF.html">PRADERA SHELF</a></li>
-      <li><a href="https://radicalcompanies.com/2022/05/06/RADICAL-MBA.html">RADICAL MBA</a></li>  
-      <li><a href="https://radicalcompanies.com/2022/05/09/RADICALS-LIVE.html">RADICALS.LIVE!</a></li>
+      <li><a>PRADERA SHELF</a></li>
+      <li><a>PRADERA READER</a></li>
+      <li><a>RADICALS.LIVE!</a></li>
+      <li><a>RADICAL MBA</a></li>  
     </ul>
     <li><a>rHatchery</a></li>
     <li><a>rCircuit</a></li>
@@ -178,3 +173,4 @@ And then they build monuments to you</pre>
     <li><a>RADs!</a></li>
     <li><a>Attentive UI</a></li>
   </ul>
+ </ul>

@@ -10,12 +10,6 @@ image:    "and-then-e10.png"
  <p>Was it a fortunate accident? Sabotage? In the end, it all came unraveled and humanity was evolving again.</p>
 </div>
 
-<pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">First they ignore you.
-Then they ridicule you.
-Then they want to burn you.
-And then they build monuments to you
-</pre>
-
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">The Queen Is Dead</h1>
  <p>“What the f…?”</p>
  <p>“What is it?”</p>
@@ -37,12 +31,12 @@ And then they build monuments to you
  <p>This time the RADICALS were ready to actively help make that possible.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; "><a href="E09-would-be-masters">Previous <</a></span>
+ <span style="float:left; "><a href="E09-would-be-masters">< Previous</a></span>
  <!-- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/02/e04-a-fear-fest">> Next</a></span>-->
 </div>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h1>
-<ul>
+ <ul>
   <li><a>The Hidden Masters – Notes</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
   <li><a>A gatekeeper for learning</a> (see <a>AnchorMod</a>)</li>
@@ -50,7 +44,7 @@ And then they build monuments to you
   <li><a>Future Tech and Culture</a></li>
   <li><a>Resources</a></li>
   <li><a>Notes</a></li>
-</ul>
+ </ul>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
  <ul>
