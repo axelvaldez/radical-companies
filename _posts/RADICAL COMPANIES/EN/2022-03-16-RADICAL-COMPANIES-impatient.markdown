@@ -121,7 +121,7 @@ image:    "dynamic-distribution-1.svg"
    <li>Your unallocated <SPAN>RAD</SPAN>s may disappear every day or they may accumulate for a month or a year.
    </li>
   </ul>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL Distribution is Scalable</h3>
+  <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS is Scalable</h3>
    <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,</p>
    <table style="width: 80%; margin: 0 auto; ">
     <tr>
@@ -162,7 +162,7 @@ image:    "dynamic-distribution-1.svg"
     </tr>
    </table>
    <p>As people share and grant each other <span>RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn5" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
-   <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL Distribution Includes Banners</h3>
+   <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Includes Banners</h3>
     <p>xyz</p>
     <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.</p>
     <p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.</p>
@@ -257,7 +257,7 @@ image:    "dynamic-distribution-1.svg"
     Next is KIM with 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI.
     Next is JULIO with 130 RADs and takes $4000 in PRI.
     The sixth column is labeled ANITA who has 300 RADs and takes $1000 in PRI.
-    The graph shows a box labeled PRI ACCOUNT which is mostly filled with red liquid (an RADICAL investment). Below it are vertical boxes representing the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA takes the  largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL Distribution">
+    The graph shows a box labeled PRI ACCOUNT which is mostly filled with red liquid (an RADICAL investment). Below it are vertical boxes representing the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA takes the  largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL DISTRIBUTIONS">
    </p>
    <p>We had a lot of back and forth over the <em>PRI Account</em> being a <em>personal</em> debt. Why not have it be a shared debt? The problem is that this may work for small groups, but it doesn’t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don’t know. They would want to know things like “Why is Julio’s PRI so high?” On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn’t feel good about going into so much debt and brings down his PRI after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister’s school and is willing to bear the debt for a while longer.</p>
    <p>If you are thinking that this process takes a lot of time, you’re right. But it is cheaper and healthier than  leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).</p>
@@ -280,7 +280,7 @@ image:    "dynamic-distribution-1.svg"
    The last column is labeled ANITA who has 300 RADs, has EARNED $900, and now has to take $100 out of the PRI ACCOUNT to cover his $1000 PRI take home.
    The graph shows the PRI ACCOUNT as box full of read liquid.
    Below are graphics representation of each PRIs with a mix of red and beige. taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000.
-   The graph shows the PRI ACCOUNT as a horizontal box full of read liquid. Below are vertical boxes that represent each person's PRI.They all have a mix of beige and red to indicate that they all had to complement their PRI with withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
+   The graph shows the PRI ACCOUNT as a horizontal box full of read liquid. Below are vertical boxes that represent each person's PRI.They all have a mix of beige and red to indicate that they all had to complement their PRI with withdrawals from the PRI ACCOUNT." title="RADICAL DISTRIBUTIONS">
   </p>
   <p>In the breakeven case we finally get to pay ourselves fully from the revenue that we’ve generated. Even in this case, some people may need to draw from the <em>Predictable  Recurring Income</em> (PRI) Account, maybe because their PRI are high, or their RADs are low, or both.
   </p>
@@ -294,7 +294,7 @@ image:    "dynamic-distribution-1.svg"
    Next is JULIO who has 130 RADs, has EARNED $1040, and has to take $2960 from the PRI ACCOUNT to cover this $4000 PRI.
    The last column is labeled ANITA who has 300 RADs, has EARNED $2400, and doesn't need to take anything from the PRI ACCOUNT to cover her $1000 PRI take home.
    The graph shows the PRI ACCOUNT as box full of read liquid.
-   Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
+   Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL DISTRIBUTIONS">
   </p>
   <p>At some point, after we’ve been steadily growing our revenue, no money is coming out of our <em>Predictable  Recurring Income</em> (PRI). This is when we start disbursing Earned Dividends in addition to covering everybody’s PRI.</p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
@@ -307,7 +307,7 @@ image:    "dynamic-distribution-1.svg"
     Next is JULIO who has 130 RADs, has EARNED $1040, and has to take $2960 from the PRI ACCOUNT to cover this $4000 PRI.
     The last column is labeled ANITA who has 300 RADs, has EARNED $2400, and doesn't need to take anything from the PRI ACCOUNT to cover her $1000 PRI take home.
     The graph shows the PRI ACCOUNT as box full of read liquid.
-    Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
+    Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL DISTRIBUTIONS">
    </p>
    <p>Notice that even though dividends are up, Julio continues to draw from the <em>PRI Account</em> because his PRI is pretty high and his <span style="font-size:smaller; ">RAD</span>s count is pretty low. He may want to change his PRI or get feedback on why his <span style="font-size:smaller; ">RAD</span>s are so low.</p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Comparing the <span style="font-size:smaller; ">RADICAL</span> Investment Model with that of Banks and VCs</h2>
