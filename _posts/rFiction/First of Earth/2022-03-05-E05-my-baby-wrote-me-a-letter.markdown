@@ -1,5 +1,6 @@
 ---
-layout:   post title:    "AND THEN THEY WANT TO BURN YOU"
+layout:   post
+title:    "AND THEN THEY WANT TO BURN YOU"
 subtitle: "EPISODE 05 – My Baby Wrote Me a Letter"
 authors:  "Matt Perez & Adrian Perez"
 image:    "and-then-e05.png"

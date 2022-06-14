@@ -1,5 +1,6 @@
 ---
-layout:   post title:    "Giving Back"
+layout:   post
+title:    "Giving Back"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E13"
 authors:  "Matt Perez"
 image:    "and-then-e13.png"

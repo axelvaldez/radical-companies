@@ -1,5 +1,6 @@
 ---
-layout:   post title:    "Would-Be Masters"
+layout:   post
+title:    "Would-Be Masters"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E09"
 authors:  "Matt Perez"
 image:    "and-then-e09.png"
