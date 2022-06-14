@@ -84,16 +84,11 @@ image:    "dynamic-distribution-1.svg"
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Inspiration: The Rosedale Distribution</h2>
   <p>Rosedale Distribution<sup id="fnref5"><a href="#fn4" rel="footnote">5</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,</p>
   <ul>
-   <li>As the company grows, a small amount of cash and shares are put out for distribution every month.
-   </li>
-   <li>Every member gets, say, $1,000, an equal portion of the wealth the company generated.
-   </li>
-   <li>People don’t get to keep these goodies for themselves: they get to distribute them to other members.
-   </li>
-   <li>They give it to anybody they feel has contributed the most during the month. Each person knows best who has contributed.
-   </li>
-   <li>Each person decides how much to give to whom based on whatever criteria “feels right” to them.
-   </li>
+   <li>As the company grows, a small amount of cash and shares are put out for distribution every month.</li>
+   <li>Every member gets, say, $1,000, an equal portion of the wealth the company generated.</li>
+   <li>People don’t get to keep these goodies for themselves: they get to distribute them to other members.</li>
+   <li>They give it to anybody they feel has contributed the most during the month. Each person knows best who has contributed.</li>
+   <li>Each person decides how much to give to whom based on whatever criteria “feels right” to them.</li>
   </ul>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution Difference</h2>
   <p>Instead of cash or stocks, <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution uses a dimensionless unit we call a <SPAN>RAD</SPAN>. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, <SPAN>RAD</SPAN>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>.</p>
@@ -121,7 +116,7 @@ image:    "dynamic-distribution-1.svg"
    <li>Your unallocated <SPAN>RAD</SPAN>s may disappear every day or they may accumulate for a month or a year.
    </li>
   </ul>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS is Scalable</h3>
+  <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Are Scalable</h3>
    <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,</p>
    <table style="width: 80%; margin: 0 auto; ">
     <tr>
