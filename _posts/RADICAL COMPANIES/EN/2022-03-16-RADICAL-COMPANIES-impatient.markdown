@@ -163,7 +163,7 @@ image:    "dynamic-distribution-1.svg"
    </table>
    <p>As people share and grant each other <span>RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn5" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
    <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL Distribution Includes Banners</h3>
-    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.</p>
+    <p>x Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.</p>
     <p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.</p>
     <p style="width: 80%; margin: 0 auto; ">
      <img src="/assets/img/en-banner-funding-product-dev.svg" alt="Two post-its. The one of the left reads, 'Community:   Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
