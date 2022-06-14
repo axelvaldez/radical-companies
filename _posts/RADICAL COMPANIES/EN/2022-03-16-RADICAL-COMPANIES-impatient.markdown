@@ -80,10 +80,9 @@ image:    "dynamic-distribution-1.svg"
  <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to <em>everybody</em> in the team.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; "><spen style="FONT-SIZE: SMALLER; ">RADICAL</spen> Distribution</h1>
-<p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
+ <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Inspiration: The Rosedale Distribution</h2>
-  <p>Rosedale Distribution<sup id="fnref5"><a href="#fn4" rel="footnote">5</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,
-  </p>
+  <p>Rosedale Distribution<sup id="fnref5"><a href="#fn4" rel="footnote">5</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,</p>
   <ul>
    <li>As the company grows, a small amount of cash and shares are put out for distribution every month.
    </li>
@@ -123,72 +122,67 @@ image:    "dynamic-distribution-1.svg"
    </li>
   </ul>
   <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL Distribution is Scalable</h3>
-  <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,</p>
-  <table style="width: 80%; margin: 0 auto; ">
-   <tr>
-    <td colspan="4"><img src="/assets/img/dynamic-distribution-1.svg" alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person." title="1 person’s point of view: 17 of 56 people."></td>
-   </tr>
-   <tr>
-    <td colspan="4" style="font-size: larger; text-align: center; ">1 person’s point of view: 17 of 56 people.</td>
-   </tr>
-   <tr>
-    <td>
-     <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/dynamic-distribution-2.svg" alt="A small circle inside which there are 56 monochrome faces, 31 of which are in color to indicate they've been given RADs by two people." title="2 people’s point of view: 31 of 56 people.">
-     </p>
-    </td>
-    <td>
-     <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/dynamic-distribution-3.svg" alt="A small circle inside which there are 56 monochrome faces, 40 of which are in color to indicate they've been given RADs by three people." title="3 people’s point of view: 40 of 56 people."></p>
-    </td>
-    <td>
-     <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/dynamic-distribution-4.svg" alt="A small circle inside which there are 56 monochrome faces, 55 of which are in color to indicate they've been given RADs by four people." title="4 people’s point of view: 55 of 56 people.">
-     </p>
-    </td>
-    <td>
-     <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-      <img src="/assets/img/dynamic-distribution-5.svg" alt="A small circle inside which there are 56 faces, all of which are in color to indicate they've been given RADs by five people." title="5 people’s point of view: 56 of 56 people.">
-     </p>
-    </td>
-   </tr>
-   <tr>
-    <td style="font-size: x-small; text-align: center; ">2 people’s point of view:<br>31 of 56 people.</td>
-    <td style="font-size: x-small; text-align: center; ">4 people’s point of view:<br>40 of 56 people.</td>
-    <td style="font-size: x-small; text-align: center; ">4 people’s point of view:<br>55 of 56 people.</td>
-    <td style="font-size: x-small; text-align: center; ">5 people’s point of view:<br>56 of 56 people.</td>
-   </tr>
-   <tr>
-    <td colspan="4">&nbsp;</td>
-   </tr>
-  </table>
-  <p>As people share and grant each other <span>RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn5" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL Distribution Includes Banners</h3>
-   <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.
-   </p>
-   <p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.
-   </p>
-   <p style="width: 80%; margin: 0 auto; ">
-    <img src="/assets/img/en-banner-funding-product-dev.svg" alt="Two post-its. The one of the left reads, 'Community:   Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
-   </p>
-   <table>
-    <tbody style="font-size:smaller; ">
-     <tr style="vertical-align: top; ">
-      <th style=" text-align: right; padding-right: 1em; ">
-       <p>Teams
-       </p>
+   <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,</p>
+   <table style="width: 80%; margin: 0 auto; ">
+    <tr>
+     <td colspan="4"><img src="/assets/img/dynamic-distribution-1.svg" alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person." title="1 person’s point of view: 17 of 56 people."></td>
+    </tr>
+    <tr>
+     <td colspan="4" style="font-size: larger; text-align: center; ">1 person’s point of view: 17 of 56 people.</td>
+    </tr>
+    <tr>
+     <td>
+      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+       <img src="/assets/img/dynamic-distribution-2.svg" alt="A small circle inside which there are 56 monochrome faces, 31 of which are in color to indicate they've been given RADs by two people." title="2 people’s point of view: 31 of 56 people.">
+      </p>
+     </td>
+     <td>
+      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+       <img src="/assets/img/dynamic-distribution-3.svg" alt="A small circle inside which there are 56 monochrome faces, 40 of which are in color to indicate they've been given RADs by three people." title="3 people’s point of view: 40 of 56 people."></p>
+     </td>
+     <td>
+      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+       <img src="/assets/img/dynamic-distribution-4.svg" alt="A small circle inside which there are 56 monochrome faces, 55 of which are in color to indicate they've been given RADs by four people." title="4 people’s point of view: 55 of 56 people.">
+      </p>
+     </td>
+     <td>
+      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+       <img src="/assets/img/dynamic-distribution-5.svg" alt="A small circle inside which there are 56 faces, all of which are in color to indicate they've been given RADs by five people." title="5 people’s point of view: 56 of 56 people.">
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td style="font-size: x-small; text-align: center; ">2 people’s point of view:<br>31 of 56 people.</td>
+     <td style="font-size: x-small; text-align: center; ">4 people’s point of view:<br>40 of 56 people.</td>
+     <td style="font-size: x-small; text-align: center; ">4 people’s point of view:<br>55 of 56 people.</td>
+     <td style="font-size: x-small; text-align: center; ">5 people’s point of view:<br>56 of 56 people.</td>
+    </tr>
+    <tr>
+     <td colspan="4">&nbsp;</td>
+    </tr>
+   </table>
+   <p>As people share and grant each other <span>RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn5" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
+   <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL Distribution Includes Banners</h3>
+    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.</p>
+    <p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.</p>
+    <p style="width: 80%; margin: 0 auto; ">
+     <img src="/assets/img/en-banner-funding-product-dev.svg" alt="Two post-its. The one of the left reads, 'Community:   Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
+    </p>
+    <table>
+     <tbody style="font-size:smaller; ">
+      <tr style="vertical-align: top; ">
+       <th style=" text-align: right; padding-right: 1em; ">
+        <p>Teams</p>
       </th>
       <td><p>Teams can be represented by a Banner. “re: Recognize our IT support team for how they handled the storm.” </p>
       </td>
      </tr>
      <tr style="vertical-align: top; ">
       <th style=" text-align: right; padding-right: 1em; ">
-       <p>Special Accomplishment
-       </p>
+       <p>Special Accomplishment</p>
       </th>
       <td>
-       <p>“Margot deserves to be recognized for stewarding the creation of our training platform.”
-       </p>
+       <p>“Margot deserves to be recognized for stewarding the creation of our training platform.”</p>
       </td>
      </tr>
      <tr style="vertical-align: top; ">
@@ -213,18 +207,18 @@ image:    "dynamic-distribution-1.svg"
      </tr>
     </tbody>
    </table>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL DISTRIBUTIONS</span> Includes Retrospectives</h3>
-   <p>At a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL</span> Distribution Includes Feedback</h3>
-   <p>Anybody who wants to can call for a feedback session after a Distribution. In particular, people who didn’t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it’s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL</span> Distribution Is Transparent</h3>
-   <p>We don’t think that <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of <SPAN>RAD</SPAN>s allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.</p>
-   <p>Of course, you’ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RAD</span>s Account for the Unaccountable</h3>
-   <p><span style="font-size:smaller; ">RAD</SPAN>s represent many things other than simple financial value. They are not beans, but they can be counted.</p>
-   <p>The <span style="font-size:smaller; ">RAD</span>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you’ll probably get fewer <SPAN>RAD</SPAN>s from us; if you are helping us thrive, you’ll likely get more. If you do something that goes against our Impact, “but, hey, it makes money,” you’ll get less <span style="font-size:smaller; ">RAD</span>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you’ll get more <span style="font-size:smaller; ">RAD</span>s.</p>
-   <p>Maybe I gave you <span style="font-size:smaller; ">RAD</span>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
-   <p>In short, <span style="font-size:smaller; ">RAD</span>s account for the uncountable, they measure what had previously been immeasurable.</p>
+   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL DISTRIBUTIONS</span> Includes Retrospectives</h3>
+    <p>At a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
+   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL</span> Distribution Includes Feedback</h3>
+    <p>Anybody who wants to can call for a feedback session after a Distribution. In particular, people who didn’t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it’s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
+   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL</span> Distribution Is Transparent</h3>
+    <p>We don’t think that <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of <SPAN>RAD</SPAN>s allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.</p>
+    <p>Of course, you’ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
+   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RAD</span>s Account for the Unaccountable</h3>
+    <p><span style="font-size:smaller; ">RAD</SPAN>s represent many things other than simple financial value. They are not beans, but they can be counted.</p>
+    <p>The <span style="font-size:smaller; ">RAD</span>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you’ll probably get fewer <SPAN>RAD</SPAN>s from us; if you are helping us thrive, you’ll likely get more. If you do something that goes against our Impact, “but, hey, it makes money,” you’ll get less <span style="font-size:smaller; ">RAD</span>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you’ll get more <span style="font-size:smaller; ">RAD</span>s.</p>
+    <p>Maybe I gave you <span style="font-size:smaller; ">RAD</span>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
+    <p>In short, <span style="font-size:smaller; ">RAD</span>s account for the uncountable, they measure what had previously been immeasurable.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <SPAN>RAD</SPAN>s. For example,</p>
@@ -267,42 +261,41 @@ image:    "dynamic-distribution-1.svg"
    <p>We had a lot of back and forth over the <em>PRI Account</em> being a <em>personal</em> debt. Why not have it be a shared debt? The problem is that this may work for small groups, but it doesn’t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don’t know. They would want to know things like “Why is Julio’s PRI so high?” On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn’t feel good about going into so much debt and brings down his PRI after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister’s school and is willing to bear the debt for a while longer.</p>
    <p>If you are thinking that this process takes a lot of time, you’re right. But it is cheaper and healthier than  leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).</p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Dividends Are Not a Gift, You Earned Them</h2>
-   <p>Below there are three sample scenarios for how Earned Dividends are calculated,</p>
+  <p>Below there are three sample scenarios for how Earned Dividends are calculated,</p>
    <ul>
     <li>Below breakeven: When we as a company don’t generate enough Dividends to cover everybody’s PRIs in full and the difference has to come out of the <em>PRI Account</em>s.</li>
     <li>At breakeven: When we make enough to at least pay everybody’s PRI.</li>
     <li>Above breakeven: When we as a company can pay everybody’s PRI <em>and</em> disburse Earned Dividends.</li>
    </ul>
-   <p>This first scenario is what normally happens at the start of a company: it doesn’t generate enough revenue to cover everybody’s PRI. In this case, we would need a cash infusion to the <em>PRI Account</em> so we can use it to meet the amount of PRI each person has set.</p>
-   <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-    <img src="/assets/img/en-predictable-recurring-income-pri-t1.svg" alt="A table and a graph. The DIVIDENS for the month is $16000, which is $10000 below the breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
-    The total DIVIDENDS add up to $6000, which is below the $10000 breakeven.
-    The firs column is labeled SALIM who has 250 RADs, has EARNED  $750 and has to take $1250 out of the PRI ACCOUNT to cover his $2000 PRI take home.
-    The second column is labeled DALIAH who has 450 RADs, has EARNED $1350 and has to take $150 out of the PRI ACCOUNT to cover her $1500 PRI take home.
-    Next is ALICIA with 670 RADs, she has EARNED $2010 and needs to take $2990 from the PRI ACCOUNT to cover her $5000 PRI take home.
-    Next is KIM has 200 RADs, has EARNED $600, and needs to take $1900 out of the PRI ACCOUNT to cover his $2500 PRI take home.
-    Next is JULIO who has 130 RADs, has EARNED $390, and has to take $3610 from the PRI ACCOUNT to cover this $4000 PRI take home.
-    The last column is labeled ANITA who has 300 RADs, has EARNED $900, and now has to take $100 out of the PRI ACCOUNT to cover his $1000 PRI take home.
-    The graph shows the PRI ACCOUNT as box full of read liquid.
-    Below are graphics representation of each PRIs with a mix of red and beige. taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000.
-    The graph shows the PRI ACCOUNT as a horizontal box full of read liquid. Below are vertical boxes that represent each person's PRI.They all have a mix of beige and red to indicate that they all had to complement their PRI with withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
-   </p>
-   <p>In the breakeven case we finally get to pay ourselves fully from the revenue that we’ve generated. Even in this case, some people may need to draw from the <em>Predictable  Recurring Income</em> (PRI) Account, maybe because their PRI are high, or their RADs are low, or both.
-   </p>
-   <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-    <img src="/assets/img/en-predictable-recurring-income-pri-t2.svg" alt="A table and a graph. The DIVIDENS are $6000, which is below the $10000 breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
-    The total DIVIDENDS add up to $16000, which is right at breakeven.
-    The firs column is labeled SALIM who has 250 RADs, has EARNED  $2000 and so he doesn't have to take anything from the PRI ACCOUNT and take his $2000 PRI.
-    The second column is labeled DALIAH who has 450 RADs, has EARNED $3600 and doesn't have to take anything out of the PRI ACCOUNT to cover his $1500 PRI.
-    Next is ALICIA with 670 RADs, she has EARNED $5360 and doesn't need to take anything from the PRI ACCOUNT to cover her $5000 PRI take home.
-    Next is KIM who has 200 RADs, has EARNED $1600, and needs to take $900 out of the PRI ACCOUNT to cover his $2500 PRI.
-    Next is JULIO who has 130 RADs, has EARNED $1040, and has to take $2960 from the PRI ACCOUNT to cover this $4000 PRI.
-    The last column is labeled ANITA who has 300 RADs, has EARNED $2400, and doesn't need to take anything from the PRI ACCOUNT to cover her $1000 PRI take home.
-    The graph shows the PRI ACCOUNT as box full of read liquid.
-    Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
-   </p>
-   <p>At some point, after we’ve been steadily growing our revenue, no money is coming out of our <em>Predictable  Recurring Income</em> (PRI). This is when we start disbursing Earned Dividends in addition to covering everybody’s PRI.
-   </p>
+  <p>This first scenario is what normally happens at the start of a company: it doesn’t generate enough revenue to cover everybody’s PRI. In this case, we would need a cash infusion to the <em>PRI Account</em> so we can use it to meet the amount of PRI each person has set.</p>
+  <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+   <img src="/assets/img/en-predictable-recurring-income-pri-t1.svg" alt="A table and a graph. The DIVIDENS for the month is $16000, which is $10000 below the breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
+   The total DIVIDENDS add up to $6000, which is below the $10000 breakeven.
+   The firs column is labeled SALIM who has 250 RADs, has EARNED  $750 and has to take $1250 out of the PRI ACCOUNT to cover his $2000 PRI take home.
+   The second column is labeled DALIAH who has 450 RADs, has EARNED $1350 and has to take $150 out of the PRI ACCOUNT to cover her $1500 PRI take home.
+   Next is ALICIA with 670 RADs, she has EARNED $2010 and needs to take $2990 from the PRI ACCOUNT to cover her $5000 PRI take home.
+   Next is KIM has 200 RADs, has EARNED $600, and needs to take $1900 out of the PRI ACCOUNT to cover his $2500 PRI take home.
+   Next is JULIO who has 130 RADs, has EARNED $390, and has to take $3610 from the PRI ACCOUNT to cover this $4000 PRI take home.
+   The last column is labeled ANITA who has 300 RADs, has EARNED $900, and now has to take $100 out of the PRI ACCOUNT to cover his $1000 PRI take home.
+   The graph shows the PRI ACCOUNT as box full of read liquid.
+   Below are graphics representation of each PRIs with a mix of red and beige. taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000.
+   The graph shows the PRI ACCOUNT as a horizontal box full of read liquid. Below are vertical boxes that represent each person's PRI.They all have a mix of beige and red to indicate that they all had to complement their PRI with withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
+  </p>
+  <p>In the breakeven case we finally get to pay ourselves fully from the revenue that we’ve generated. Even in this case, some people may need to draw from the <em>Predictable  Recurring Income</em> (PRI) Account, maybe because their PRI are high, or their RADs are low, or both.
+  </p>
+  <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+   <img src="/assets/img/en-predictable-recurring-income-pri-t2.svg" alt="A table and a graph. The DIVIDENS are $6000, which is below the $10000 breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
+   The total DIVIDENDS add up to $16000, which is right at breakeven.
+   The firs column is labeled SALIM who has 250 RADs, has EARNED  $2000 and so he doesn't have to take anything from the PRI ACCOUNT and take his $2000 PRI.
+   The second column is labeled DALIAH who has 450 RADs, has EARNED $3600 and doesn't have to take anything out of the PRI ACCOUNT to cover his $1500 PRI.
+   Next is ALICIA with 670 RADs, she has EARNED $5360 and doesn't need to take anything from the PRI ACCOUNT to cover her $5000 PRI take home.
+   Next is KIM who has 200 RADs, has EARNED $1600, and needs to take $900 out of the PRI ACCOUNT to cover his $2500 PRI.
+   Next is JULIO who has 130 RADs, has EARNED $1040, and has to take $2960 from the PRI ACCOUNT to cover this $4000 PRI.
+   The last column is labeled ANITA who has 300 RADs, has EARNED $2400, and doesn't need to take anything from the PRI ACCOUNT to cover her $1000 PRI take home.
+   The graph shows the PRI ACCOUNT as box full of read liquid.
+   Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
+  </p>
+  <p>At some point, after we’ve been steadily growing our revenue, no money is coming out of our <em>Predictable  Recurring Income</em> (PRI). This is when we start disbursing Earned Dividends in addition to covering everybody’s PRI.</p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
     <img src="/assets/img/en-predictable-recurring-income-pri-t3.svg" alt="A table and a graph. The DIVIDENS for the month is $25000, which is $9000 above the breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, EARNED, PRI ACCOUNT, and EARNED DIVIDENDS.
     The total DIVIDENDS add up to $16000, which is right at breakeven.
@@ -315,8 +308,7 @@ image:    "dynamic-distribution-1.svg"
     The graph shows the PRI ACCOUNT as box full of read liquid.
     Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL Distribution">
    </p>
-   <p>Notice that even though dividends are up, Julio continues to draw from the <em>PRI Account</em> because his PRI is pretty high and his <span style="font-size:smaller; ">RAD</span>s count is pretty low. He may want to change his PRI or get feedback on why his <span style="font-size:smaller; ">RAD</span>s are so low.
-   </p>
+   <p>Notice that even though dividends are up, Julio continues to draw from the <em>PRI Account</em> because his PRI is pretty high and his <span style="font-size:smaller; ">RAD</span>s count is pretty low. He may want to change his PRI or get feedback on why his <span style="font-size:smaller; ">RAD</span>s are so low.</p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Comparing the <span style="font-size:smaller; ">RADICAL</span> Investment Model with that of Banks and VCs</h2>
    <p><span style="font-size:smaller; ">RADICAL</span> investments will, at worst, have the same financial yield as today’s VC system, but with 1) a lot more beneficiaries (<em>i.e.</em>, all the co-owners), and 2) less risk (<em>i.e.</em>, because a lot more people will be committed to making it work).</p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
