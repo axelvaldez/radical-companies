@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "AND THEN THEY WANT TO BURN YOU"
-subtitle: "EPISODE 05 – My Baby Wrote Me a Letter"
+title:    "My Baby Wrote Me a Letter"
+subtitle: "AND THEN THEY WANT TO BURN YOU — E05"
 authors:  "Matt Perez & Adrian Perez"
 image:    "and-then-e05.png"
 unlisted: true
