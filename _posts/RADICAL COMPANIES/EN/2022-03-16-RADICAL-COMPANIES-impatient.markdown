@@ -162,11 +162,11 @@ image:    "dynamic-distribution-1.svg"
 
    <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Include Banners</h3>
     <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.</p>
-    <!--
     <p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.</p>
     <p style="width: 80%; margin: 0 auto; ">
      <img src="/assets/img/en-banner-funding-product-dev.svg" alt="Two post-its. The one of the left reads, 'Community:   Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
     </p>
+    <!--
     <table>
      <tbody style="font-size:smaller; ">
       <tr style="vertical-align: top; ">
