@@ -1,5 +1,6 @@
 ---
-layout:   post title:    "AND THEN THEY WANT TO BURN YOU"
+layout:   post
+title:    "AND THEN THEY WANT TO BURN YOU"
 subtitle: "EPISODE 10 – The End. The Beginning"
 authors:  "Matt Perez"
 image:    "and-then-e10.png"
@@ -31,7 +32,7 @@ unlisted: true
  <p>This time the RADICALS were ready to actively help make that possible.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; "><a href="E09-would-be-masters">< Previous</a></span>
+ <span style="float:left; "><a href="https://radicalcompanies.com/2022-03-09-E09-would-be-masters">< Previous</a></span>
  <!-- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/02/e04-a-fear-fest">> Next</a></span>-->
 </div>
 

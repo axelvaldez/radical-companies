@@ -1,5 +1,6 @@
 ---
-layout:   post title:    "The Venusian Subterfuge"
+layout:   post
+title:    "The Venusian Subterfuge"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E06"
 authors:  "Adrian Perez"
 image:    "and-then-e06.png"
@@ -45,8 +46,8 @@ unlisted: true
  <p>Everyone asked what was happening on Jupiter and how big was the revolt there. Marine General Pura Cintron, who refused to be called &ldquo;General,&rdquo; smiled as she climbed back into her ship. There was no revolt. They had faked one. They had always just wanted to go to Jupiter, and they were done being told what to do.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; "><a href="../E05-my-baby-wrote-me-a-letter">Previous <</a></span>
- <span style="float:right; "><a href="../E07-the-jupiter-surprise">Next ></a></span>
+ <span style="float:left; "><a href="https://radicalcompanies.com/E05-my-baby-wrote-me-a-letter">Previous <</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/E07-the-jupiter-surprise">Next ></a></span>
 </div>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h1>
