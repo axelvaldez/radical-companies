@@ -162,8 +162,8 @@ image:    "and-then-e12.png"
  <p>&ldquo;And… we don’t know, yet.&rdquo; Petra said as she and Ignatius laughed out loud.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; "><a href="">Previous <</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/02/e04-a-fear-fest">> Next</a></span>
+ <span style="float:left; "><a href="https://radicalcompanies.com/2022-03-09-E11-the-fiat-enclaves">Previous <</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/E13-giving-back">> Next</a></span>
 </div>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h1>
