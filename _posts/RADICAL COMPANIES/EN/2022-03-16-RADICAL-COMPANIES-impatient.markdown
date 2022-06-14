@@ -81,7 +81,6 @@ image:    "dynamic-distribution-1.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; "><spen style="FONT-SIZE: SMALLER; ">RADICAL</spen> Distribution</h1>
  <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
-
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Inspiration: The Rosedale Distribution</h2>
   <p>Rosedale Distribution<sup id="fnref5"><a href="#fn4" rel="footnote">5</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,</p>
   <ul>
@@ -91,7 +90,6 @@ image:    "dynamic-distribution-1.svg"
    <li>They give it to anybody they feel has contributed the most during the month. Each person knows best who has contributed.</li>
    <li>Each person decides how much to give to whom based on whatever criteria “feels right” to them.</li>
   </ul>
-
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL DISTRIBUTION</SPAN> Difference</h2>
   <p>Instead of cash or stocks, <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution uses a dimensionless unit we call a <span style="font-size:smaller; ">RAD</SPAN>. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, <span style="font-size:smaller; ">RAD</SPAN>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>.</p>
   <p>RADs represent any kind of contribution, not just financial. In fact, as an accounting tool, <span style="font-size:smaller; ">RAD</SPAN>s account for the unaccountable.</p>
@@ -159,7 +157,6 @@ image:    "dynamic-distribution-1.svg"
     </tr>
    </table>
    <p>As people share and grant each other <span style="font-size:smaller; ">RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn5" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
-
    <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Include Banners</h3>
    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.</p>
    <p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.</p>
