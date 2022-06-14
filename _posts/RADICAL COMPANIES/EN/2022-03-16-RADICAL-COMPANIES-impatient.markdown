@@ -122,7 +122,7 @@ image:    "dynamic-distribution-1.svg"
    <li>Your unallocated <SPAN>RAD</SPAN>s may disappear every day or they may accumulate for a month or a year.
    </li>
   </ul>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; ">The RADICAL Distribution is Scalable</h3>
+  <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL Distribution is Scalable</h3>
   <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,</p>
   <table style="width: 80%; margin: 0 auto; ">
    <tr>
