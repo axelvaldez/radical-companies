@@ -1,5 +1,6 @@
 ---
-layout:   post title:    "First of Earth"
+layout:   post
+title:    "First of Earth"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E01"
 authors:  "Matt Perez & Adrian Perez"
 image:    "and-then-e01.png"
