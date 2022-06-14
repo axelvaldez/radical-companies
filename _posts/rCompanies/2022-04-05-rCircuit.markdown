@@ -7,7 +7,7 @@ image:    "pradera-background.svg"
 ---
 
 <div style="display: none;">
- <p>Curious people can <strong>live<strong> the RADICAL experience in an rCircuit made up of co-owned and co-managed companies.</p>
+ <p>Curious people can <strong>live<strong> the RADICAL experience in rCircuits. These are made up of co-owned and co-managed companies and would-be <span style="font-size:smaller; ">RADICAL</span>s would get first-hand experience of what it feels like by going from one to the other.</p>
 </div>
 
 <div style="background-color:beige; font-size:larger; font-family:american typewriter, serif; padding:1em; ">
