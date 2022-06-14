@@ -7,7 +7,7 @@ image:    "PRADERA-background.svg"
 ---
 
 <div style="display: none;">
- <p>A reader app that works with ebooks and platforms (<em>e.g.</em>, Kindle).</p>
+ <p>A reader that works with ebooks and platforms (<em>e.g.</em>, Kindle).</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Intro</h1>
