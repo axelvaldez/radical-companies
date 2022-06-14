@@ -144,7 +144,7 @@ unlisted: true
  <p>Ignatius decided to live with different communities. He left North America a while back, spent time in South of the Sahara, and he is now in Europe. His next presentation is scheduled in Kyiv.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; "><a href="../E12-different">Previous <</a></span>
+ <span style="float:left; "><a href="https://radicalcompanies.com/2022-03-12-E12-different">Previous <</a></span>
  <!-- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/02/e04-a-fear-fest">> Next</a></span>-->
 </div>
 

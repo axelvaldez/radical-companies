@@ -10,7 +10,6 @@ image:    "and-then-e11.png"
  <p>In a world that got away from the strictly FIAT system quickly, there are still communities that cling to it. Is it fear of "different?" Or it is force and ego?</p>
 </div>
 
-
 <pre class="prettyprint" style="font-size: 30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif">
  First they ignore you.
  Then they ridicule you.
@@ -130,7 +129,7 @@ image:    "and-then-e11.png"
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <!--<span style="float:left; "><a></a></span>-->
- <span style="float:right; "><a href="../E12-different">> Next</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022-03-12-E12-different">> Next</a></span>
 </div>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h1>

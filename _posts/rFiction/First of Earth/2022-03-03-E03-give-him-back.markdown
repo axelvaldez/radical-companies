@@ -104,8 +104,8 @@ unlisted: true
  <p>After a few minutes of staring at each other, a voice came through our devices, &ldquo;Vic found the problem&hellip; well&hellip; OK. One more time, Vic brought back our power, but he doesn&rsquo;t yet know what caused it to go down.&rdquo; At which point Sammie felt hands holding her and leading her back to her quarters. This time the door was firmly locked behind. And about time, so she could get back to her Mods.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; "><a href="../E02-sweet-home-chicago">< Previous</a></span>
- <span style="float:right; "><a href="../E04-a-fear-fest">Next ></a></span>
+ <span style="float:left; "><a href="https://radicalcompanies.com/2022-03-02-E02-sweet-home-chicago">< Previous</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/E04-a-fear-fest">Next ></a></span>
 </div>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h1>
