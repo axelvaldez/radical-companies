@@ -203,11 +203,11 @@ image:    "dynamic-distribution-1.svg"
      </tr>
     </tbody>
    </table>
-   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL DISTRIBUTIONS</span> Includes Retrospectives</h3>
+   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL DISTRIBUTIONS</span> Include Retrospectives</h3>
     <p>At a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
-   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL</span> Distribution Includes Feedback</h3>
+   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL DISTRIBUTIONS</span> Include Feedback</h3>
     <p>Anybody who wants to can call for a feedback session after a Distribution. In particular, people who didn’t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it’s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
-   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL</span> Distribution Is Transparent</h3>
+   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL DISTRIBUTIONS</span> Are Transparent</h3>
     <p>We don’t think that <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of <SPAN>RAD</SPAN>s allocated, but that is fear speaking, limiting our options. We don’t think that anything less than full disclosure will work.</p>
     <p>Of course, you’ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
    <h3 style="font-size:20px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RAD</span>s Account for the Unaccountable</h3>
