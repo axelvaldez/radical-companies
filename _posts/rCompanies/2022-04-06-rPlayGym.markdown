@@ -224,9 +224,9 @@ image:    "pradera-background.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
  <p>This is a schematic depiction of the current recruiting pipeline,</p>
- <p>
-  <img>
- </p>
+  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+   <img src="/assets/img/recruiting-pipeline-default.svg" alt="" title="Recruiting Pipeline – Default">
+  </p>
  <p>The rPlayGym is a drastically different approach to growing a team. Although it still works with the traditional academia/industry scheme, it changes its relationship to it,</p>
  <ul>
   <li>It starts way before the traditional “interview.”</li>
@@ -234,6 +234,9 @@ image:    "pradera-background.svg"
   <li>Everybody learns from everybody.</li>
   <li>It really never ends.</li>
  </ul>
+  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+   <img src="/assets/img/recruiting-pipeline-rplaygym.svg" alt="" title="Recruiting Pipeline - rPlayGym">
+  </p>
  <p>The activities are not only technical and may include many other topics, including mental health, self-care, and holding on to your chicken.</p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">APPENDICES</h1>
