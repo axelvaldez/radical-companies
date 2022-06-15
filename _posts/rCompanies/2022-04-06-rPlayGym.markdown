@@ -25,7 +25,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right; vertical-align:top; ">What for?</p>
+    <p style="text-align: right; vertical-align:text-top; ">What for?</p>
    </td>
    <td>
     <ul>
@@ -35,13 +35,13 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right; font-weight: bold;">Purpose</p>
+    <p style="text-align:right; font-weight: bold;">Purpose</p>
    </td>
    <td>&nbsp;</td>
   </tr>
   <tr>
    <td>
-    <p style="text-align: right; vertical-align:top; ">Why?</p>
+    <p style="text-align:right; vertical-align:text-top; ">Why?</p>
    </td>
    <td>
     <ul>
@@ -52,13 +52,13 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right; font-weight: bold;">Mission</p>
+    <p style="text-align:right; font-weight: bold;">Mission</p>
    </td>
    <td>&nbsp;</td>
   </tr>
   <tr>
    <td>
-    <p style="text-align: right; vertical-align:top; ">What?</p>
+    <p style="text-align:right; vertical-align:text-top; ">What?</p>
    </td>
    <td>
     <ul>
@@ -68,7 +68,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right; vertical-align:top; ">How?</p>
+    <p style="text-align: right; vertical-align:text-top; ">How?</p>
    </td>
    <td>
     <ul>
@@ -78,7 +78,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right; vertical-align:top; ">When?</p>
+    <p style="text-align: right; vertical-align:text-top; ">When?</p>
    </td>
    <td>
     <ul>
