@@ -136,9 +136,11 @@ image:    "pradera-background.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Costs</h1>
  <p>The costs of traditional recruiting include,</p>
- <table>
-  <tr>
-   <td>Capital Investment</td>
+ <table style="font-size:smaller; ">
+  <tr style="vertical-align:text-top; ">
+   <td>
+    <p style="text-align:right; font-weight:bold; font-size:larger; padding-right:1em; ">Capital Investment</p>
+   </td>
    <td>
     <ul>
      <li>Commision to Contingency recruiters,</li>
@@ -149,7 +151,10 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td>Opportunity loss</td>
+  <tr style="vertical-align:text-top; ">
+   <td>
+    <p style="text-align:right; font-weight:bold; font-size:larger; padding-right:1em; ">Opportunity loss</p>
+   </td>
    <td>
     <ul>
      <li>Not getting out to market when needed.</li>
@@ -158,8 +163,9 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
-  <tr>
-   <td>Interview frustration</td>
+  <tr style="vertical-align:text-top; ">
+   <td>
+    <p style="text-align:right; font-weight:bold; font-size:larger; padding-right:1em; ">Interview frustration</td>
    <td>
     <ul>
      <li>For the candidate: anxiety, surprises, no feedback, pointless trick questions.</li>
@@ -169,9 +175,11 @@ image:    "pradera-background.svg"
   </tr>
  </table>
  <p>The cost of the rPlayGym approach is lower, and its results are more effective than those of traditional recruiting.</p>
- <table>
-  <tr>
-   <td>Capital Investment</td>
+ <table style="font-size:smaller; ">
+  <tr style="vertical-align:text-top; ">
+   <td>
+    <p style="text-align:right; font-weight:bold; font-size:larger; padding-right:1em; ">Capital Investment</p>
+   </td>
    <td>
     <ul>
      <li>rPlayGym promotion, marketing.</li>
@@ -181,15 +189,18 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td>Opportunity loss</td>
+  <tr style="vertical-align:text-top; ">
+   <td>
+    <p style="text-align:right; font-weight:bold; font-size:larger; padding-right:1em; ">Opportunity loss</td>
    <td>
     <ul>
      <li>Once you have a rPlayGym in place, it generates people who are well integrated with your teams continuously.</li>
     </ul>
    </td>
   </tr>
-  <tr>
-   <td>Interview frustration</td>
+  <tr style="vertical-align:text-top; ">
+   <td>
+    <p style="text-align:right; font-weight:bold; font-size:larger; padding-right:1em; ">Interview frustration</td>
    <td>
     <ul>
      <li>N/A</li>
