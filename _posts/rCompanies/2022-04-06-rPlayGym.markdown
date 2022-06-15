@@ -174,7 +174,6 @@ image:    "pradera-background.svg"
    </td>
   </tr>
  </table>
-
  <p>The cost of the rPlayGym approach is lower, and its results are more effective than those of traditional recruiting.</p>
  <table style="font-size:smaller; ">
   <tr style="vertical-align:text-top; ">
@@ -225,7 +224,7 @@ image:    "pradera-background.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
  <p>This is a schematic depiction of the current recruiting pipeline,</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-   <img src="/assets/img/recruiting-pipeline-default.svg" alt="" title="Recruiting Pipeline – Default">
+   <img src="/assets/img/recruiting-pipeline-default.svg" alt="The default recruiting pipeline is divided into academia and industry. jumps from box to box starting with Primary School, then Secondary School, College and University" title="Recruiting Pipeline – Default">
   </p>
  <p>The rPlayGym is a drastically different approach to growing a team. Although it still works with the traditional academia/industry scheme, it changes its relationship to it,</p>
  <ul>
