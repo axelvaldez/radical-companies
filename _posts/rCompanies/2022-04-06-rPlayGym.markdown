@@ -193,25 +193,23 @@ image:    "pradera-background.svg"
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Opportunity loss</p>
+   </td>
    <td>
     <ul>
      <li>Once you have a rPlayGym in place, it generates people who are well integrated with your teams continuously.</li>
     </ul>
    </td>
   </tr>
- </table>
- <table>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Interview frustration</p>
+   </td>
    <td>
     <ul>
      <li>N/A</li>
     </ul>
    </td>
   </tr>
- </table>
- <table>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">rPlayGym Benefits</p>
