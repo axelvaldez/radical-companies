@@ -25,7 +25,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">What for?</p>
+    <p style="text-align: right; vertical-align:top; ">What for?</p>
    </td>
    <td>
     <ul>
@@ -41,7 +41,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">Why?</p>
+    <p style="text-align: right; vertical-align:top; ">Why?</p>
    </td>
    <td>
     <ul>
@@ -58,7 +58,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right; ">What?</p>
+    <p style="text-align: right; vertical-align:top; ">What?</p>
    </td>
    <td>
     <ul>
@@ -68,7 +68,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right; ">How?</p>
+    <p style="text-align: right; vertical-align:top; ">How?</p>
    </td>
    <td>
     <ul>
@@ -78,7 +78,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right; ">When?</p>
+    <p style="text-align: right; vertical-align:top; ">When?</p>
    </td>
    <td>
     <ul>
