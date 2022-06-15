@@ -253,7 +253,9 @@ image:    "pradera-background.svg"
     <li>If the candidate passes the screen, fix dates for all interviews.</li>
    </ul>
    <li>Schedule all subsequent interviews.</li>
-   <li>Profile interview,</li>
+  </ul>
+  <p>Profile interview,</p>
+   <ul>
    <li>Check for cultural alignment (i.e., according to your Impact, Purpose, and Mission or whatever Alignment principles you use).</li>
    <li>Check for level of knowledge about Computer Science basics.</li>
    <li>Decide if a Task interview is appropriate. The candidate is part of this discussion.</li>
