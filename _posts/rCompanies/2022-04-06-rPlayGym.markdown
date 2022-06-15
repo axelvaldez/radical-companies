@@ -188,6 +188,8 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
+ </table>
+ <table>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Opportunity loss</p>
@@ -223,7 +225,7 @@ image:    "pradera-background.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
  <p>This is a schematic depiction of the current recruiting pipeline,</p>
  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-   <img src="/assets/img/recruiting-pipeline-default.svg" alt="The default recruiting pipeline is divided into academia and industry. Academia is divided into three boxes: Primary School, Secondary School, and College and University. Industry is divided people by years of experience: newbies, experienced, and unicorns. The recruiting process is a hard wall of interviews and judgements between Academia and Industry. It is a bad experience that leaves even the people who get through it with a bad taste in their mouth. It is indicative of the competition that prevails in industry." title="Recruiting Pipeline – Default">
+  <img src="/assets/img/recruiting-pipeline-default.svg" alt="The default recruiting pipeline is divided into academia and industry. Academia divides people by age and industry by years of experience. The recruiting process is a hard wall of interviews and judgements between Academia and Industry. It is a bad experience that leaves even the people who get through it with a bad taste in their mouths." title="Recruiting Pipeline – Default">
  </p>
  <p>The rPlayGym is a drastically different approach to growing a team. Although it still works with the traditional academia/industry scheme, it changes its relationship to it,</p>
  <ul>
