@@ -253,39 +253,39 @@ image:    "pradera-background.svg"
     <li>If the candidate passes the screen, fix dates for all interviews.</li>
    </ul>
    <li>Schedule all subsequent interviews.</li>
-  </ul>
-  <p>Profile interview,</p>
-   <ul>
-   <li>Check for cultural alignment (i.e., according to your Impact, Purpose, and Mission or whatever Alignment principles you use).</li>
-   <li>Check for level of knowledge about Computer Science basics.</li>
-   <li>Decide if a Task interview is appropriate. The candidate is part of this discussion.</li>
-   <li>Task interview,</li>
+   <li>Profile interview,</li>
     <ul>
-     <li>For developers, this is done as a Pair Programming with pre-defined exercises for the appropriate stack. For manual testers, the candidate is given a scenario and asked to put together a test plan.</li>
-     <li>Work and talk with the candidate.</li>
-     <li>Offer hints (“I saw a thread in StackOverflow abou that”).</li>
-     <li>Question/nudge as needed (“wouldn't it be easier, if you did…”).</li>
-     <li>One interviewer acts as a distractor (i.e., to learn if the candidate is easily distracted or not, and whether she loses her train of thought easily or not).</li>
-     <li>The Task interview includes three exercises,</li>
-      <ul>
-       <li>Easy. Doable in 10-15 minutes. Meant to make the candidate feel good, confident.</li>
-       <li>Middling. Doable in 30-45 minutes.</li>
-       <li>Difficult. Doable in 1-1:30 hours. Instructions for the difficult exercise are incomplete to see what the candidate does about it.</li>
-       <li>Give the candidate feedback immediately, as much as you can.</li></li>
-      </ul>
-   <li>Thumbs meeting</li>
-    <ul>
-     <li>Everybody who's talked to the candidate gets together.</li>
-     <li>On their own, they grade the candidate on 1-4 scale on a) tech skills and b) cultural alignment.</li>
-     <li>They disclose their ratings (e.g., Planning Poker) and discuss results.</li>
-     <li>If need be, update ratings.</li>
-     <li>Repeat until the decision to hire/not hire is made.</li>
-     <li>If the decision is to pass but offer Office Hours, whoever volunteers to do it takes the lead and talks to the candidate about the process, etc.</li>
-     <li>If the decision is to hire, but it includes the Skills Incubator, then a member of the team takes the lead to talk with the candidate about the process, etc.</li>
-     <li>If the decision is to hire, then you’re done.</li>
+     <li>Check for cultural alignment (i.e., according to your Impact, Purpose, and Mission or whatever Alignment principles you use).</li>
+     <li>Check for level of knowledge about Computer Science basics.</li>
+     <li>Decide if a Task interview is appropriate. The candidate is part of this discussion.</li>
     </ul>
-   </ul>
-  </ul>
+    <li>Task interview,</li>
+     <ul>
+      <li>For developers, this is done as a Pair Programming with pre-defined exercises for the appropriate stack. For manual testers, the candidate is given a scenario and asked to put together a test plan.</li>
+      <li>Work and talk with the candidate.</li>
+      <li>Offer hints (“I saw a thread in StackOverflow abou that”).</li>
+      <li>Question/nudge as needed (“wouldn't it be easier, if you did…”).</li>
+      <li>One interviewer acts as a distractor (i.e., to learn if the candidate is easily distracted or not, and whether she loses her train of thought easily or not).</li>
+      <li>The Task interview includes three exercises,</li>
+       <ul>
+        <li>Easy. Doable in 10-15 minutes. Meant to make the candidate feel good, confident.</li>
+        <li>Middling. Doable in 30-45 minutes.</li>
+        <li>Difficult. Doable in 1-1:30 hours. Instructions for the difficult exercise are incomplete to see what the candidate does about it.</li>
+       </ul>
+      <li>Give the candidate feedback immediately, as much as you can.</li></li>
+     </ul>
+     <li>Thumbs meeting</li>
+      <ul>
+       <li>Everybody who's talked to the candidate gets together.</li>
+       <li>On their own, they grade the candidate on 1-4 scale on a) tech skills and b) cultural alignment.</li>
+       <li>They disclose their ratings (e.g., Planning Poker) and discuss results.</li>
+       <li>If need be, update ratings.</li>
+       <li>Repeat until the decision to hire/not hire is made.</li>
+       <li>If the decision is to pass but offer Office Hours, whoever volunteers to do it takes the lead and talks to the candidate about the process, etc.</li>
+       <li>If the decision is to hire, but it includes the Skills Incubator, then a member of the team takes the lead to talk with the candidate about the process, etc.</li>
+       <li>If the decision is to hire, then you’re done.</li>
+      </ul>
+     </ul>
  <p>The interview process must be completely transparent. Interviewers must keep notes throughout the process and share them with the candidate at the end of it,</p>
   <ol>
    <li>Tell rejected candidates exactly why you decided against hiring.</li>
@@ -305,19 +305,23 @@ image:    "pradera-background.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Incubator</h1>
  <p>This Incubator is for people who is missing a key skill, or doesn’t have experienced with a particular technology,</p>
- <ul>
-  <li>After the Thumbs, a member of the team tells the candidate about the Skills Incubator.</li>
-  <li>The team had already estimated how long it would take the candidate to complete the program, now ask the candidate for her own estimate.</li>
-  <li>Share the team's estimate (i.e., usually their estimate is lower than the team’s).</li>
-  <li>Now you can both figure out what the appropriate estimate is to complete the Skills Incubator program.</li>
-  <li>Use an in-house or external program to do the necessary training.</li>
-  <li>Assign a mentor.</li>
-  <li>The mentor's job is to check with the candidate about her progress, any questions she may have, any topic the mentor feels she needs help with.</li>
- </ul>
+  <ul>
+   <li>After the Thumbs, a member of the team tells the candidate about the Skills Incubator.</li>
+   <li>The team had already estimated how long it would take the candidate to complete the program, now ask the candidate for her own estimate.</li>
+   <li>Share the team's estimate (i.e., usually their estimate is lower than the team’s).</li>
+   <li>Now you can both figure out what the appropriate estimate is to complete the Skills Incubator program.</li>
+   <li>Use an in-house or external program to do the necessary training.</li>
+   <li>Assign a mentor.</li>
+   <li>The mentor's job is to check with the candidate about her progress, any questions she may have, any topic the mentor feels she needs help with.</li>
+  </ul>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Power Up</h1>
- <p>This program is for members who want to learn a new skill or a new stack, For example, an Android developer wants to learn iOS or a C++ developer realizes she needs to learn a functional language. The Power Up program leverages the experience a developer has gained to deliver the equivalent of one year experience in a few weeks. Shifting to a new paradigm will take longer (e.g., from object oriented to functional).</p>
- <p>A kickoff Power Up program covers the basics, but the rest would come in follow up workshops and production work.</p>
+ <p>This program is for members who want to learn a new skill or a new stack,</p>
+  <ul>
+   <li>For example, an Android developer wants to learn iOS or a C++ developer realizes she needs to learn a functional language.</li>
+   <li>The Power Up program leverages the experience a developer has gained to deliver the equivalent of one year experience in a few weeks. Shifting to a new paradigm will take longer (e.g., from object oriented to functional).</li>
+   <li>A kickoff Power Up program covers the basics, but the rest would come in follow up workshops and production work.</li>
+  </ul>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">People Development</h1>
  <p>TBD</p>
