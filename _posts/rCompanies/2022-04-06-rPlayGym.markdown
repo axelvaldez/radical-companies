@@ -141,7 +141,7 @@ image:    "pradera-background.svg"
    <td style="border-right:1px solid black; padding-right:1em; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Capital Investment</p>
    </td>
-   <td>
+   <td style="padding-left:1em; ">
     <ul>
      <li>Commision to Contingency recruiters,</li>
      <li>Or, recurring fees to Retained recruiters,</li>
@@ -155,7 +155,7 @@ image:    "pradera-background.svg"
    <td style="border-right:1px solid black; padding-right:1em; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Opportunity loss</p>
    </td>
-   <td>
+   <td style="padding-left:1em; ">
     <ul>
      <li>Not getting out to market when needed.</li>
      <li>Time wasted setting up and shepherding wasteful interviews.</li>
@@ -165,8 +165,9 @@ image:    "pradera-background.svg"
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; font-size:larger; ">Interview frustration</td>
-   <td>
+    <p style="text-align:right; font-weight:bold; font-size:larger; ">Interview frustration</p>
+   </td>
+   <td style="padding-left:1em; ">
     <ul>
      <li>For the candidate: anxiety, surprises, no feedback, pointless trick questions.</li>
      <li>For interviewers: time wasted, interruptions, no feedback.</li>
