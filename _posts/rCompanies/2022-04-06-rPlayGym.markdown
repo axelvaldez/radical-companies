@@ -234,7 +234,7 @@ image:    "pradera-background.svg"
   <li>It really never ends.</li>
  </ul>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-   <img src="/assets/img/recruiting-pipeline-rplaygym.svg" alt="The rPlayGym is a flow that starts at home and continues through Primary and Secondary School. It continues through University, Code Camps, and Self-Taught training. People flow into 'Industry' and grow at their own speeds. This is all possible by a graduated training program given by practitioners." title="Recruiting Pipeline - rPlayGym">
+   <img src="/assets/img/recruiting-pipeline-rplaygym.svg" alt="The rPlayGym is a flow that starts at home and continues through the whole life path. There is no hard wall between 'Academia' and 'Industry.' This is all supported by graduated educational and training programs guided by the 'students' and given by people who know about the subject." title="Recruiting Pipeline - rPlayGym">
   </p>
  <p>The activities are not only technical and may include many other topics, including mental health, self-care, and holding on to your chicken.</p>
 
