@@ -98,34 +98,34 @@ image:    "pradera-background.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Farm Programs</h1>
  <p>This is how Major League Baseball ranks a team’s farm program,<sup><a href="#bookmark=id.rgqi25bygpyy">3</a></sup></p>
- <table>
-  <tr>
+ <table style="font-size:smaller; ">
+  <tr style="vertical-align:text-top; ">
    <td>
-    <p style="text-align:right; font-weight: bold; ">Player Potential</p>
+    <p style="text-align:right; font-weight:bold; font-size:larger; ">Player Potential</p>
    </td>
    <td>
     <p>Potential trumps production a lot of the time, especially in the lower levels of the minors and with recent draft picks. Skill sets and tools are often a better indication of what kind of player someone will be.</p>
    </td>
   </tr>
-  <tr>
+  <tr style="vertical-align:text-top; ">
    <td>
-    <p style="text-align:right; font-weight: bold; ">Player Talent</p>
+    <p style="text-align:right; font-weight:bold; font-size:larger; ">Player Talent</p>
    </td>
    <td>
     <p>As for guys in the higher levels of the minors who are close to breaking through to the big leagues, production and talent are the determining factors. These players are viewed as well rounded.</p>
    </td>
   </tr>
-  <tr>
+  <tr style="vertical-align:text-top; ">
    <td>
-    <p style="text-align:right; font-weight: bold; ">Team Depth</p>
+    <p style="text-align:right; font-weight:bold; font-size:larger; ">eam Depth</p>
    </td>
    <td>
     <p>Having one or two elite prospects is great, but a deep farm system is the way to build a sustainable contender. Depth and talent were the biggest factors in ranking each team.</p>
    </td>
   </tr>
-  <tr>
+  <tr style="vertical-align:text-top; ">
    <td>
-    <p style="text-align:right; font-weight: bold; ">Team High-End Talent</p>
+    <p style="text-align:right; font-weight:bold; font-size:larger; ">Team High-End Talent</p>
    </td>
    <td>
     <p>That being said, there is a difference between a prospect who could make an impact at the big league level and a prospect who could be a star. High-end talent served as a tiebreaker of sorts when two teams were close in the rankings.</p>
