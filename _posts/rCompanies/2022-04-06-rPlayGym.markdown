@@ -19,13 +19,13 @@ image:    "pradera-background.svg"
  <table style="font-size:smaller; ">
   <tr style="vertical-align:text-top; ">
    <td>
-    <p style="text-align:right; font-weight:bold; column-width:1in; padding-right:1m; ">Impact</p>
+    <p style="text-align:right; font-weight:bold; font-size:larger; ">Impact</p>
    </td>
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; ">
-    <p style="text-align: right; ">What for?</p>
+    <p style="text-align: right; padding-right:1m; ">What for?</p>
    </td>
    <td>
     <ul>
@@ -35,13 +35,13 @@ image:    "pradera-background.svg"
   </tr>
   <tr style="vertical-align:text-top; ">
    <td>
-    <p style="text-align:right; font-weight:bold; column-width:1in; padding-right:1m; ">Purpose</p>
+    <p style="text-align:right; font-weight:bold; font-size:larger; ">Purpose</p>
    </td>
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; ">
-    <p style="text-align:right; ">Why?</p>
+    <p style="text-align:right; padding-right:1m; ">Why?</p>
    </td>
    <td>
     <ul>
@@ -52,13 +52,13 @@ image:    "pradera-background.svg"
   </tr>
   <tr style="vertical-align:text-top; ">
    <td>
-    <p style="text-align:right; font-weight:bold; column-width:1in; padding-right:1m; ">Mission</p>
+    <p style="text-align:right; font-weight:bold; font-size:larger; ">Mission</p>
    </td>
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; ">
-    <p style="text-align:right; ">What?</p>
+    <p style="text-align:right; padding-right:1m; ">What?</p>
    </td>
    <td>
     <ul>
@@ -68,7 +68,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; ">
-    <p style="text-align: right; ">How?</p>
+    <p style="text-align: right; padding-right:1m; ">How?</p>
    </td>
    <td>
     <ul>
@@ -78,7 +78,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; ">
-    <p style="text-align: right; ">When?</p>
+    <p style="text-align: right; padding-right:1m; ">When?</p>
    </td>
    <td>
     <ul>
