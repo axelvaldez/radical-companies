@@ -268,9 +268,9 @@ image:    "pradera-background.svg"
       <li>One interviewer acts as a distractor (<em>i.e.</em>$, to learn if the candidate is easily distracted or not, and whether she loses her train of thought easily or not).</li>
       <li>The Task interview includes three exercises,</li>
        <ul>
-        <li>Easy. Doable in 10-15 minutes. Meant to make the candidate feel good, confident.</li>
-        <li>Middling. Doable in 30-45 minutes.</li>
-        <li>Difficult. Doable in 1-1:30 hours. Instructions for the difficult exercise are incomplete to see what the candidate does about it.</li>
+        <li>Easy. Doable within a half hour. Meant to make the candidate feel good, confident.</li>
+        <li>Middling. Doable within one hour.</li>
+        <li>Difficult. Doable within two hours. Instructions for the difficult exercise are incomplete to see what the candidate does about it.</li>
        </ul>
       <li>Give the candidate feedback immediately, as much as you can.</li>
      </ul>
