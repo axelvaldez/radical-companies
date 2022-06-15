@@ -100,7 +100,7 @@ image:    "pradera-background.svg"
  <p>This is how Major League Baseball ranks a team’s farm program,<sup><a href="#bookmark=id.rgqi25bygpyy">3</a></sup></p>
  <table style="font-size:smaller; ">
   <tr style="vertical-align:text-top; ">
-   <td>
+   <td style="border-right:1px solid black; padding-right:1em; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Player Potential</p>
    </td>
    <td style="padding-right:1em; ">
@@ -108,7 +108,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td>
+   <td style="border-right:1px solid black; padding-right:1em; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Player Talent</p>
    </td>
    <td>
@@ -116,7 +116,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td>
+   <td style="border-right:1px solid black; padding-right:1em; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Team Depth</p>
    </td>
    <td>
