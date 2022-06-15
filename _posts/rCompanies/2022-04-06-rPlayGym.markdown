@@ -189,6 +189,8 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
+ </table>
+ <table>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Opportunity loss</p>
