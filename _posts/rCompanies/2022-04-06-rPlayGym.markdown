@@ -24,8 +24,8 @@ image:    "pradera-background.svg"
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; ">
-    <p style="text-align: right; padding-right:1em; ">What for?</p>
+   <td style="border-right:1px solid black; text-align: right; padding-right:1em; ">
+    <p>What for?</p>
    </td>
    <td>
     <ul>
@@ -40,8 +40,8 @@ image:    "pradera-background.svg"
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; ">
-    <p style="text-align:right; padding-right:1em; ">Why?</p>
+   <td style="border-right:1px solid black; text-align: right; padding-right:1em; ">
+    <p>Why?</p>
    </td>
    <td>
     <ul>
@@ -57,8 +57,8 @@ image:    "pradera-background.svg"
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; ">
-    <p style="text-align:right; padding-right:1m; ">What?</p>
+   <td style="border-right:1px solid black; text-align: right; padding-right:1em; ">
+    <p>What?</p>
    </td>
    <td>
     <ul>
@@ -67,8 +67,8 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; ">
-    <p style="text-align: right; padding-right:1em; ">How?</p>
+   <td style="border-right:1px solid black; text-align: right; padding-right:1em; ">
+    <p>How?</p>
    </td>
    <td>
     <ul>
@@ -77,8 +77,8 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; ">
-    <p style="text-align: right; padding-right:1em; ">When?</p>
+   <td style="border-right:1px solid black; text-align: right; padding-right:1em; ">
+    <p>When?</p>
    </td>
    <td>
     <ul>
@@ -103,7 +103,7 @@ image:    "pradera-background.svg"
    <td>
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Player Potential</p>
    </td>
-   <td>
+   <td style="padding-right:1em; ">
     <p>Potential trumps production a lot of the time, especially in the lower levels of the minors and with recent draft picks. Skill sets and tools are often a better indication of what kind of player someone will be.</p>
    </td>
   </tr>
@@ -117,7 +117,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr style="vertical-align:text-top; ">
    <td>
-    <p style="text-align:right; font-weight:bold; font-size:larger; ">eam Depth</p>
+    <p style="text-align:right; font-weight:bold; font-size:larger; ">Team Depth</p>
    </td>
    <td>
     <p>Having one or two elite prospects is great, but a deep farm system is the way to build a sustainable contender. Depth and talent were the biggest factors in ranking each team.</p>
