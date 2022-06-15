@@ -16,7 +16,7 @@ image:    "pradera-background.svg"
  <p>The rPlayGym approach is to help teams grow <em>by helping people</em> <em>grow</em>.<sup><a href="#bookmark=id.knjhecoy4rw1">1</a></sup> The strength of a team is in how people complement each other with their whole person, not just with their technical skills. Think of it as the moral equivalent of <em>Moneyball</em> <sup><a href="#bookmark=id.uypnbmz9b371">2</a></sup> for tech teams.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
- <table>
+ <table style="font-size:smaller; ">
   <tr style="vertical-align:text-top; ">
    <td>
     <p style="text-align:right; font-weight:bold; ">Impact</p>
