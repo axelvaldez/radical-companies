@@ -57,7 +57,7 @@ image:    "pradera-background.svg"
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td>
+   <td style="border-right:1px solid black; ">
     <p style="text-align:right; ">What?</p>
    </td>
    <td>
@@ -67,7 +67,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td>
+   <td style="border-right:1px solid black; ">
     <p style="text-align: right; ">How?</p>
    </td>
    <td>
@@ -77,7 +77,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td>
+   <td style="border-right:1px solid black; ">
     <p style="text-align: right; ">When?</p>
    </td>
    <td>
