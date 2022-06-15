@@ -138,8 +138,8 @@ image:    "pradera-background.svg"
  <p>The costs of traditional recruiting include,</p>
  <table style="font-size:smaller; ">
   <tr style="vertical-align:text-top; ">
-   <td>
-    <p style="text-align:right; font-weight:bold; font-size:larger; padding-right:1em; ">Capital Investment</p>
+   <td style="border-right:1px solid black; padding-right:1em; ">
+    <p style="text-align:right; font-weight:bold; font-size:larger; ">Capital Investment</p>
    </td>
    <td>
     <ul>
@@ -152,8 +152,8 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
   <tr style="vertical-align:text-top; ">
-   <td>
-    <p style="text-align:right; font-weight:bold; font-size:larger; padding-right:1em; ">Opportunity loss</p>
+   <td style="border-right:1px solid black; padding-right:1em; ">
+    <p style="text-align:right; font-weight:bold; font-size:larger; ">Opportunity loss</p>
    </td>
    <td>
     <ul>
@@ -164,8 +164,8 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td>
-    <p style="text-align:right; font-weight:bold; font-size:larger; padding-right:1em; ">Interview frustration</td>
+   <td style="border-right:1px solid black; padding-right:1em; ">
+    <p style="text-align:right; font-weight:bold; font-size:larger; ">Interview frustration</td>
    <td>
     <ul>
      <li>For the candidate: anxiety, surprises, no feedback, pointless trick questions.</li>
