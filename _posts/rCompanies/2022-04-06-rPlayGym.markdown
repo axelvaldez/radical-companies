@@ -190,7 +190,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; font-size:larger; ">Opportunity loss</p>
+    <p style="text-align:right; font-weight:bold; font-size:larger; column-width:1in; ">Opportunity loss</p>
    </td>
    <td>
     <ul>
