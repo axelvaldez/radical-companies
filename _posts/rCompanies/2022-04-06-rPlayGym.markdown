@@ -18,13 +18,13 @@ image:    "pradera-background.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
  <table style="font-size:smaller; ">
   <tr style="vertical-align:text-top; ">
-   <td>
+   <td style="column-width:1in; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Impact</p>
    </td>
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; text-align: right; padding-right:1em; ">
+   <td style="border-right:1px solid black; text-align:right; ">
     <p>What for?</p>
    </td>
    <td>
@@ -40,7 +40,7 @@ image:    "pradera-background.svg"
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; text-align: right; padding-right:1em; ">
+   <td style="border-right:1px solid black; text-align:right; ">
     <p>Why?</p>
    </td>
    <td>
