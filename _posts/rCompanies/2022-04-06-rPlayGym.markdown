@@ -18,14 +18,13 @@ image:    "pradera-background.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
  <table>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; column-width: 1in;" colspan="2">
-    <p style="text-align: right; font-weight: bold;">Impact</p>
+   <td>
+    <p style="text-align:right; font-weight:bold; ">Impact</p>
    </td>
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td>&nbsp;</td>
-   <td style="border-right:1px solid black; " colspan="2" width="1in">
+   <td style="border-right:1px solid black; ">
     <p style="text-align: right; ">What for?</p>
    </td>
    <td>
@@ -35,9 +34,8 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td>&nbsp;</td>
-   <td style="border-right:1px solid black; ">
-    <p style="text-align:right; font-weight: bold;">Purpose</p>
+   <td>
+    <p style="text-align:right; font-weight:bold; ">Purpose</p>
    </td>
    <td>&nbsp;</td>
   </tr>
@@ -53,9 +51,8 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td>&nbsp;</td>
-   <td style="border-right:1px solid black; ">
-    <p style="text-align:right; font-weight: bold;">Mission</p>
+   <td>
+    <p style="text-align:right; font-weight:bold; ">Mission</p>
    </td>
    <td>&nbsp;</td>
   </tr>
