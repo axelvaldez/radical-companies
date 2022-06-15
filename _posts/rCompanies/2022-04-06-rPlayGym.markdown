@@ -1,0 +1,354 @@
+---
+layout:   post
+title:    "rPlayGym"
+subtitle: "PEOPLE GROWTH, TEAM GROWTH"
+authors:  "Matt Perez"
+image:    "pradera-background.svg"
+---
+
+<div style="display: none;">
+ <p>The strength of a team is in how people complement each other with their whole person, not just with their technical skills. Think of it as the moral equivalent of <em>Moneyball</em> for tech teams.</p>
+</div>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Intro</h1>
+ <p>The way most recruiting happens today is inefficient and ineffective; it does not work as well as it should. Businesses waste a huge amount of time and effort looking for people who magically fit their needs or, worse, they look for unicorns. But the “perfect fit” is an expensive fantasy.
+ <p>When confronted with a “seller’s market,” desperation sets in and the whole thing turns into a search for “bodies.” A lot of people are hired who never match their teams and it gets very painful on all sides. This approach, too, is wasteful as well.
+ <p>The rPlayGym approach is to help teams grow by helping people grow.1 The strength of a team is in how people complement each other with their whole person, not just with their technical skills. Think of it as the moral equivalent of Moneyball 2 for tech teams.
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
+ <table>
+  <tr>
+   <td colspan="2">
+    <p style="text-align: right; font-weight: bold;">Impact</p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <p style="text-align: right">What for?</p>
+   </td>
+   <td>
+    <ul>
+     <li>People and companies can grow consistently.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2">
+    <p style="text-align: right; font-weight: bold;">Purpose</p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <p style="text-align: right">Why?</P>
+   </td>
+   <td>
+    <ul>
+     <li>People learn to steer their own lives and they don't end up as indentured workers.</li>
+     <li>Help companies grow consistently and predictably.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2">
+    <p style="text-align: right; font-weight: bold;">Mission</p>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2">
+    <p style="text-align: right; ">What?</p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <ul>
+     <li>Launch three UNICORN HATCHERIES in 18 months.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <p style="text-align: right; ">How?</p>
+   </td>
+   <td>
+    <ul>
+     <li>Companies co-own and co-operate rPlayGym in collaboration with other companies.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <p style="text-align: right; ">When?</p>
+   </td>
+   <td>
+    <ul>
+     <li>TBD</li>
+    </ul>
+   </td>
+  </tr>
+ </table>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Origin Story</h1>
+ <p>Tech businesses do a pretty bad job of hiring. Even when a few people recognize the shortcomings of the current system, they are locked into a system that punishes them for drawing outside the lines.
+ <p>By contrast, professional sports teams have a multi-level “farm” system. It starts with youth training programs and continues all the way to the major leagues. The rPlayGym is the equivalent of a farm circuit for tech businesses.
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Description</h1>
+ <p>Tech “unicorns,” “10x engineers,” or whatever you call them are hard to find and expensive to keep. You put caviar on golden hooks and still there is no catch, just nibbles. And if you catch one, a bigger boat comes along and snatches it away.
+ <p>Instead, go fish where the fish are abundant and help them grow. Nurturing them is less expensive, more predictable, and less frustrating. It is also more satisfying and it works at scale: a small business can do it as well as a giant one.
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Farm Programs</h1>
+ <p>This is how Major League Baseball ranks a team’s farm program,<sup>3</sub></p>
+ <table>
+  <tr>
+   <td>
+    <p style="text-align:right; font-weight: bold; ">Player Potential</p>
+   </td>
+   <td>
+    <p>Potential trumps production a lot of the time, especially in the lower levels of the minors and with recent draft picks. Skill sets and tools are often a better indication of what kind of player someone will be.</p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <p style="text-align:right; font-weight: bold; ">Player Talent</p>
+   </td>
+   <td>
+    <p>As for guys in the higher levels of the minors who are close to breaking through to the big leagues, production and talent are the determining factors. These players are viewed as well rounded.</p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <p style="text-align:right; font-weight: bold; ">Team Depth</p>
+   </td>
+   <td>
+    <p>Having one or two elite prospects is great, but a deep farm system is the way to build a sustainable contender. Depth and talent were the biggest factors in ranking each team.</p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <p style="text-align:right; font-weight: bold; ">Team High-End Talent</p>
+   </td>
+   <td>
+    <p>That being said, there is a difference between a prospect who could make an impact at the big league level and a prospect who could be a star. High-end talent served as a tiebreaker of sorts when two teams were close in the rankings.</p>
+   </td>
+  </tr>
+ </table>
+ <p>In a rPlayGym you can see each person’s potential, depth, and talent in action. By comparison, the typical interview only helps you see who’s good at interviewing and it says very little about how that person is going to help her team perform.</p>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Costs</h1>
+ <p>The costs of traditional recruiting include,</p>
+ <table>
+  <tr>
+   <td>Capital Investment</td>
+   <td>
+    <ul>
+     <li>Commision to Contingency recruiters,</li>
+     <li>Or, recurring fees to Retained recruiters,</li>
+     <li>Or, salaries and benefits for in-house recruiters,</li>
+     <li>Or, some combination of these.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Opportunity loss</td>
+   <td>
+    <ul>
+     <li>Not getting out to market when needed.</li>
+     <li>Time wasted setting up and shepherding wasteful interviews.</li>
+     <li>Time interviewing instead of creating products.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Interview frustration</td>
+   <td>
+    <ul>
+     <li>For the candidate: anxiety, surprises, no feedback, pointless trick questions.</li>
+     <li>For interviewers: time wasted, interruptions, no feedback.</li>
+    </ul>
+   </td>
+  </tr>
+ </table>
+ <p>The cost of the rPlayGym approach is lower, and its results are more effective than those of traditional recruiting.</p>
+ <table>
+  <tr>
+   <td>Capital Investment</td>
+   <td>
+    <ul>
+     <li>rPlayGym promotion, marketing.</li>
+     <li>Mentee salary and benefits.</li>
+     <li>Mentors’ time.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Opportunity loss</td>
+   <td>
+    <ul>
+     <li>Once you have a rPlayGym in place, it generates people who are well integrated with your teams continuously.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Interview frustration</td>
+   <td>
+    <ul>
+     <li>N/A</li>
+    </ul>
+   </td>
+  <tr>
+   <td>rPlayGym Benefits</td>
+   <td>
+    <ul>
+     <li>Mentee: Learns her craft, tech skills, how to set goals, and communication skills. They also learn your culture alongside experienced mentors. If there’s no fit, the mentee will be the first to figure it out.</li>
+     <li>Mentors: learn to listen, how to be an ally, leadership skills, build confidence in their own skills, and ultimately get a lot of joy from helping others grow.</li>
+    </ul>
+   </td>
+  </tr>
+ </table>
+ <p>The rPlayGym approach is more efficient and lots more effective over the long term. Also, it is more satisfying and enjoyable as a predictable source of growth for people and your company.</p>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
+ <p>This is a schematic depiction of the current recruiting pipeline,</p>
+ <p>
+  <img>
+ </p>
+ <p>The rPlayGym is a drastically different approach to growing a team. Although it still works with the traditional academia/industry scheme, it changes its relationship to it,</p>
+ <ul>
+  <li>It starts way before the traditional “interview.”</li>
+  <li>It spans from home to anywhere/everywhere (virtual).</li>
+  <li>Everybody learns from everybody.</li>
+  <li>It really never ends.</li>
+ </ul>
+ <p>The activities are not only technical and may include many other topics, including mental health, self-care, and holding on to your chicken.</p>
+
+
+<h1 style="font-size:50px; text-align:center; font-family:Courier New, monospace; ">APPENDICES</h1>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Recruiting</h1>
+ <ul>
+  <li>From the moment a candidate voices an interest in joining the team, think of her as already in your team.</li>
+  <li>You are not looking for ways to reject this candidate. Your job is to evaluate at what stage the candidate is in, figure out if you can help her grow, and then make a decision to hire or not.</li>
+  <li>Interviewers self-select.</li>
+  <li>Someone self-selects to act as lead, with the team’s consent.</li>
+  <li>Tech Screen,</li>
+   <ul>
+    <li>Talk with the candidate for 15 minutes or less to determine whether she is up to the interview process.</li>
+    <li>Either way, let the candidate know right away.</li>
+    <li>If the candidate passes the screen, fix dates for all interviews.</li>
+   </ul>
+   <li>Schedule all subsequent interviews.</li>
+   <li>Profile interview,</li>
+   <li>Check for cultural alignment (i.e., according to your Impact, Purpose, and Mission or whatever Alignment principles you use).</li>
+   <li>Check for level of knowledge about Computer Science basics.</li>
+   <li>Decide if a Task interview is appropriate. The candidate is part of this discussion.</li>
+   <li>Task interview,</li>
+    <ul>
+     <li>For developers, this is done as a Pair Programming with pre-defined exercises for the appropriate stack. For manual testers, the candidate is given a scenario and asked to put together a test plan.</li>
+     <li>Work and talk with the candidate.</li>
+     <li>Offer hints (“I saw a thread in StackOverflow abou that”).</li>
+     <li>Question/nudge as needed (“wouldn't it be easier, if you did…”).</li>
+     <li>One interviewer acts as a distractor (i.e., to learn if the candidate is easily distracted or not, and whether she loses her train of thought easily or not).</li>
+     <li>The Task interview includes three exercises,</li>
+      <ul>
+       <li>Easy. Doable in 10-15 minutes. Meant to make the candidate feel good, confident.</li>
+       <li>Middling. Doable in 30-45 minutes.</li>
+       <li>Difficult. Doable in 1-1:30 hours. Instructions for the difficult exercise are incomplete to see what the candidate does about it.</li>
+       <li>Give the candidate feedback immediately, as much as you can.</li></li>
+      </ul>
+   <li>Thumbs meeting</li>
+    <ul>
+     <li>Everybody who's talked to the candidate gets together.</li>
+     <li>On their own, they grade the candidate on 1-4 scale on a) tech skills and b) cultural alignment.</li>
+     <li>They disclose their ratings (e.g., Planning Poker) and discuss results.</li>
+     <li>If need be, update ratings.</li>
+     <li>Repeat until the decision to hire/not hire is made.</li>
+     <li>If the decision is to pass but offer Office Hours, whoever volunteers to do it takes the lead and talks to the candidate about the process, etc.</li>
+     <li>If the decision is to hire, but it includes the Skills Incubator, then a member of the team takes the lead to talk with the candidate about the process, etc.</li>
+     <li>If the decision is to hire, then you’re done.</li>
+    </ul>
+ <p>The interview process must be completely transparent. Interviewers must keep notes throughout the process and share them with the candidate at the end of it,</p>
+  <ol>
+   <li>Tell rejected candidates exactly why you decided against hiring.</li>
+   <li>Include very specific recommendations for how to close any gaps you found.</li>
+  </ol>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Office Hours</h1>
+ <p>Offer rejected candidates to join you for Office Hours. For example, you could commit to doing two sessions per week, one hour each.</p>
+ <p>During these sessions,</p>
+  <ul>
+   <li>Review the recommendations with her</li>
+   <li>Figure out a plan, including books and sites to read, bloggers to follow, Pair exercises, etc.</li>
+   <li>Encourage her to join StackOverflow, sign up for GitHub, join, or even start, an OSS project.</li>
+  </ul>
+  <p>When you think she's ready, ask her if she's ready to try again, and if so, tell your team.</p>
+  <p>If they agree to take her on again, they pick up where the process stopped. If she was disqualified after the Profile interview, then start by having another Profile interview. Ditto if the process was stopped at the Task interview. Of course, the team can decide to skip, say, the Profile and go straight to the Task.</p>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Incubator</h1>
+ <p>This Incubator is for people who is missing a key skill, or doesn’t have experienced with a particular technology,</p>
+ <ul>
+  <li>After the Thumbs, a member of the team tells the candidate about the Skills Incubator.</li>
+  <li>The team had already estimated how long it would take the candidate to complete the program, now ask the candidate for her own estimate.</li>
+  <li>Share the team's estimate (i.e., usually their estimate is lower than the team’s).</li>
+  <li>Now you can both figure out what the appropriate estimate is to complete the Skills Incubator program.</li>
+  <li>Use an in-house or external program to do the necessary training.</li>
+  <li>Assign a mentor.</li>
+  <li>The mentor's job is to check with the candidate about her progress, any questions she may have, any topic the mentor feels she needs help with.</li>
+ <ul> 
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Power Up</h1>
+ <p>This program is for members who want to learn a new skill or a new stack, For example, an Android developer wants to learn iOS or a C++ developer realizes she needs to learn a functional language. The Power Up program leverages the experience a developer has gained to deliver the equivalent of one year experience in a few weeks. Shifting to a new paradigm will take longer (e.g., from object oriented to functional).</p>
+ <p>A kickoff Power Up program covers the basics, but the rest would come in follow up workshops and production work.</p>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">People Development<h1>
+ <p>TBD</p>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Holding on to Your Chicken</h1>
+ <p>The “chicken” comes from an illustration that Kimberly Wiefling4 uses in her workshops where she holds a rubber chicken up over her head, let go of it, and let it fall to the floor. Then she asks, “what happened to the chicken?” The responses are usually all over the place, but every so often a small voice says, “… because you let it go of it?” And that’s the point: you let go of your power, your essence, to others. And those more powerful than you grab it as soon as you let go of it.</p>
+ <p>We learn this habit at home, when we are little. We let our caretakers guide our chickens as they teach us the basics of staying alive. Once we enter school, most of our teachers, unfortunately, take our chickens from us outright. “You must learn discipline,” they tell us, “and I’ll tell you how to behave.” Throughout school we learn that obedience comes first: if we don’t please the teacher, we don’t get the sticker, or, worse, we are sent to the Principal’s office. Finally, we reach college, but by then the habit is deeply ingrained. Undergraduates are like high-schoolers with a bit more freedom outside of school, but in school it is a game of pleasing the professor and getting good grades. Grad students are often referred to as “slave labor” for their supervisors. By the time we start to work, we are fully conditioned to hand our chickens to our superiors, “Where do I sit? What team am I in? What do you want me to do, boss?”We have to grow out of the habit of letting go of our chicken. We need to learn to hold on to it. In fact, we can make companies better all around by holding on to our chicken. We can collaborate more openly, experiment more, innovate more, come up with outside-the-box solutions more often. We can bring our full selves to work, take off our masks, and stop holding back. We can bring real value as we create with others.</p>
+ <p>Ideally, we would not learn the habit of giving up our chicken so easily in the first place, but at our workplaces we can certainly replace that terrible habit with the habit of holding on to our chicken.</p>
+ 
+
+Related
+RADICAL COMPANIES,
+English <https://radicals.world/fDm2eL>
+Castellano <https://radicals.world/3BFuoJ>
+For the Impatient: RADs, PRI, etc. <https://radicals.world/Q0RIWR]>
+Frequently asked questions (FAQ) <https://radicals.world/ZVRbBc>
+The missing chapters,
+RADICAL COIN <https://radicals.world/AzS0ao>
+RADICAL LAND <https://radicals.world/1dW1z1>
+RADICAL GOVERNMENT <https://radicals.world/elLrl7>
+rCompanies
+rPRADERA MEDIA
+PRADERA SHELF <>
+PRADERA READER <>
+RADICALS.LIVE! <>
+RADICAL MBA <>
+rHatchery <>
+The Hatchery Story
+The Hatchery Conscious Foundation
+rEnsemble <>
+rTranslate <>
+rCleanSpace <>
+rAtHomeCare <>
+KidsCare <>
+rCircuit <>
+rPlayGym <>
+Startups
+rBuddyNeighbor <>
+rNextBright <>
+rHintersoft <>
+rProjects
+REMARK! <>
+RADs! <>
+Attentive UI <>
+rFiction
+AND THEN THEY WANT TO BURN YOU
+EPISODE 01 – First of Earth <https://radicals.world/sPzTII>
+EPISODE 11 – The FIAT Enclaves <https://radicals.world/KW4xmO>
+RADICAL Ferengi <https://radicals.world/fHIfqD>
+
+Endnotes
+1.     n So-called “10x developers,” “super leads,” “genius developers,” etc.
+2.     n For more information, see Moneyball <https://radicals.world/oQmxC7>
+3.     n MLB Farm System Ranking Factors <https://radicals.world/ATiAcH> (alt., https://diigo.com/0jwkj3).
+4.     n Kimberly Wiefling’s profile, <https://radicals.world/zHL0lt>
