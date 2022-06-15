@@ -129,7 +129,7 @@ image:    "and-then-e11.png"
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <!--<span style="float:left; "><a></a></span>-->
- <span style="float:right; "><a href="https://radicalcompanies.com/2022-03-12-E12-different">> Next</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/12/E12-different">> Next</a></span>
 </div>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h1>

@@ -92,8 +92,8 @@ unlisted: true
  <p>&ldquo;Bellamy tradition&hellip; ? Vic, I wouldn&rsquo;t have rebuked you, but I would have suggested that you run an experiment. Instead it went from your head into full production. Universal domination, that&rsquo;s what it sounds like to me. In any case, I just wanted you to spend time with&hellip;&rdquo; She froze mid-sentence. Then she gave him a furious look, got up, and ran back to her quarters. But it was too late and Munjez was gone.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; "><a href="https://radicalcompanies.com/2022-03-01-E01-first-of-earth">Previous <</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2022-03-03-E03-give-him-back">> Next</a></span>
+ <span style="float:left; "><a href="https://radicalcompanies.com/2022/03/01/E01-first-of-earth">Previous <</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/03/E03-give-him-back">> Next</a></span>
 </div>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h1>

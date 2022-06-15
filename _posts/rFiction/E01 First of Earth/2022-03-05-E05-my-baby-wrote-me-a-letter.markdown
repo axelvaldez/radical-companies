@@ -58,8 +58,8 @@ one the support columns had been tampered with.  It took her most of the next mo
  <p>After a while he looked up at Sammie and slowly shook his head from side to side in an apparent refusal. But then, he sprung up and said, &ldquo;I&rsquo;ll go fold my socks. Meet you at the dock in 10.&rdquo; With that Sammie walked back to her cabin and got ready to go.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; "><a href="https://radicalcompanies.com/2022-03-04-E04-a-fear-fest">Previous <</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2022-03-06-E06-the-venusian-subterfuge">> Next</a></span>
+ <span style="float:left; "><a href="https://radicalcompanies.com/2022/03/04/E04-a-fear-fest">Previous <</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/06/E06-the-venusian-subterfuge">> Next</a></span>
 </div>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">FURTHER READING</h1>

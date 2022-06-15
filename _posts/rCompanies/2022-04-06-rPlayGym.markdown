@@ -191,7 +191,7 @@ image:    "pradera-background.svg"
   <tr>
   <tr style="vertical-align:text-top; ">
    <td>
-    <p style="text-align:right; font-weight:bold; font-size:larger; padding-right:1em; ">Opportunity loss</td>
+    <p style="text-align:right; font-weight:bold; font-size:larger; padding-right:1em; ">Opportunity loss</p>
    <td>
     <ul>
      <li>Once you have a rPlayGym in place, it generates people who are well integrated with your teams continuously.</li>
@@ -200,14 +200,16 @@ image:    "pradera-background.svg"
   </tr>
   <tr style="vertical-align:text-top; ">
    <td>
-    <p style="text-align:right; font-weight:bold; font-size:larger; padding-right:1em; ">Interview frustration</td>
+    <p style="text-align:right; font-weight:bold; font-size:larger; padding-right:1em; ">Interview frustration</p>
    <td>
     <ul>
      <li>N/A</li>
     </ul>
    </td>
-  <tr>
-   <td>rPlayGym Benefits</td>
+  <tr style="vertical-align:text-top; ">
+   <td>
+    <p style="text-align:right; font-weight:bold; font-size:larger; padding-right:1em; ">rPlayGym Benefits</p>
+   <td>
    <td>
     <ul>
      <li>Mentee: Learns her craft, tech skills, how to set goals, and communication skills. They also learn your culture alongside experienced mentors. If there’s no fit, the mentee will be the first to figure it out.</li>
