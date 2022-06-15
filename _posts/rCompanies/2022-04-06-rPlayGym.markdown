@@ -272,7 +272,7 @@ image:    "pradera-background.svg"
         <li>Middling. Doable in 30-45 minutes.</li>
         <li>Difficult. Doable in 1-1:30 hours. Instructions for the difficult exercise are incomplete to see what the candidate does about it.</li>
        </ul>
-      <li>Give the candidate feedback immediately, as much as you can.</li></li>
+      <li>Give the candidate feedback immediately, as much as you can.</li>
      </ul>
      <li>Thumbs meeting</li>
       <ul>
