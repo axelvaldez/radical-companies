@@ -25,7 +25,7 @@ image:    "pradera-background.svg"
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; text-align:right; padding-right:1en; ">What for?</td>
+   <td style="border-right:1px solid black; text-align:right; padding-right:1em; ">What for?</td>
    <td>
     <ul>
      <li>People and companies can grow consistently.</li>
@@ -40,7 +40,7 @@ image:    "pradera-background.svg"
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; text-align:right; padding-right:1en; ">Why?</td>
+   <td style="border-right:1px solid black; text-align:right; padding-right:1em; ">Why?</td>
    <td>
     <ul>
      <li>People learn to steer their own lives and they don't end up as indentured workers.</li>
@@ -56,16 +56,16 @@ image:    "pradera-background.svg"
    <td>&nbsp;</td>
   </tr>
   <!---->
-  <tr style="vertical-align:text-top; padding-right:1en; ">
-   <td style="border-right:1px solid black; text-align:right; padding-right:1en; ">What?</td>
+  <tr style="vertical-align:text-top; padding-right:1em; ">
+   <td style="border-right:1px solid black; text-align:right; padding-right:1em; ">What?</td>
    <td>
     <ul>
      <li>Launch three rPlayGyms in 18 months.</li>
     </ul>
    </td>
   </tr>
-  <tr style="vertical-align:text-top; padding-right:1en; ">
-   <td style="border-right:1px solid black; text-align:right; padding-right:1en; ">How?</td>
+  <tr style="vertical-align:text-top; padding-right:1em; ">
+   <td style="border-right:1px solid black; text-align:right; padding-right:1em; ">How?</td>
    <td>
     <ul>
      <li>Companies co-own rPlayGym and collaborate with other companies.</li>
@@ -74,7 +74,7 @@ image:    "pradera-background.svg"
   </tr>
   <!---->
   <tr style="vertical-align:text-top; padding-right:1ex; ">
-   <td style="border-right:1px solid black; text-align:right; padding-right:1en; ">When?</td>
+   <td style="border-right:1px solid black; text-align:right; padding-right:1em; ">When?</td>
    <td>
     <ul>
      <li>TBD</li>
