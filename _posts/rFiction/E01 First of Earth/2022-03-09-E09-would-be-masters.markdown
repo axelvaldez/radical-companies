@@ -4,11 +4,7 @@ title:    "Would-Be Masters"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E09"
 authors:  "Matt Perez"
 image:    "and-then-e09.png"
-<<<<<<< HEAD
 hidden:   true
-=======
-hidden: true
->>>>>>> 816066aa5bee26d7e33e1674f535f922feee68c0
 ---
 
 <div style="display: none;">

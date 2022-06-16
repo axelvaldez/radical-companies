@@ -4,11 +4,7 @@ title:    "The Venusian Subterfuge"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E06"
 authors:  "Adrian Perez"
 image:    "and-then-e06.png"
-<<<<<<< HEAD
 hidden:   true
-=======
-hidden: true
->>>>>>> 816066aa5bee26d7e33e1674f535f922feee68c0
 ---
 
 <div style="display: none;">
