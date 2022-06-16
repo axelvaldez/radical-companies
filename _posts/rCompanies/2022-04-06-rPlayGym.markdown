@@ -133,7 +133,7 @@ image:    "pradera-background.svg"
  <p>The costs of traditional recruiting include,</p>
  <table style="font-size:smaller; margin-bottom:40px; ">
   <tr style="vertical-align:text-top; ">
-   <td style="padding-right:1em; width:2in; ">
+   <td style="border-right:1px solid black; padding-right:1em; width:2in; ">
     <p style="text-align:right; font-weight:bold; ">Capital Investment</p>
    </td>
    <td>
@@ -146,7 +146,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="padding-right:1em; width:2in; ">
+   <td style="border-right:1px solid black; padding-right:1em; ">
     <p style="text-align:right; font-weight:bold; ">Opportunity loss</p>
    </td>
    <td>
@@ -158,7 +158,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="padding-right:1em; width:2in; ">
+   <td style="border-right:1px solid black; padding-right:1em; ">
     <p style="text-align:right; font-weight:bold; ">Interview frustration</p>
    </td>
    <td>
