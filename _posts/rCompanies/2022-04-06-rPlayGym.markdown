@@ -101,7 +101,7 @@ image:    "pradera-background.svg"
  <table style="font-size:smaller; ">
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; ">Player Potential</p>
+    <p style="text-align:right; font-weight:bold; column-width:100px; ">Player Potential</p>
    </td>
    <td style="padding-left:1em; ">
     <p>Potential trumps production a lot of the time, especially in the lower levels of the minors and with recent draft picks. Skill sets and tools are often a better indication of what kind of player someone will be.</p>
@@ -178,7 +178,7 @@ image:    "pradera-background.svg"
  <table style="font-size:smaller; ">
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; ">Capital Investment</p>
+    <p style="text-align:right; font-weight:bold; column-width:100px; ">Capital Investment</p>
    </td>
    <td>
     <ul>
