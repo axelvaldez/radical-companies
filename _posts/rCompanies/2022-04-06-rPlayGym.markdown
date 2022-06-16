@@ -19,7 +19,7 @@ image:    "pradera-background.svg"
  <table style="font-size:smaller; margint-bottom:40px; ">
   <!---->
   <tr style="vertical-align:text-top; ">
-   <td style="padding-right:1en; column-width:400px; ">
+   <td style="padding-right:1en; column-width:200px; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Impact</p>
    </td>
    <td>&nbsp;</td>
@@ -34,7 +34,7 @@ image:    "pradera-background.svg"
   </tr>
   <!---->
   <tr style="vertical-align:text-top; ">
-   <td style="padding-right:1en; column-width:400px; ">
+   <td style="padding-right:1en; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Purpose</p>
    </td>
    <td>&nbsp;</td>
@@ -50,7 +50,7 @@ image:    "pradera-background.svg"
   </tr>
   <!----> 
   <tr style="vertical-align:text-top; ">
-   <td style="padding-right:1en; column-width:400px; ">
+   <td style="padding-right:1en; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Mission</p>
    </td>
    <td>&nbsp;</td>
