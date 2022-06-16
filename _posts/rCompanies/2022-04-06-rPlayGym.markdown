@@ -92,7 +92,7 @@ image:    "pradera-background.svg"
  <p>Instead, go fish where the fish are abundant and help them grow. Nurturing them is less expensive, more predictable, and less frustrating. It is also more satisfying and it works at scale: a small business can do it as well as a giant one.
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Farm Programs</h1>
- <p>This is how Major League Baseball ranks a team’s farm program,<sup><a href="#bookmark=id.rgqi25bygpyy">3</a></sup></p>
+ <p>This is how the US Major League Baseball ranks a team’s farm program,<sup><a href="#bookmark=id.rgqi25bygpyy">3</a></sup></p>
  <table style="font-size:smaller; ">
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
