@@ -19,15 +19,13 @@ image:    "pradera-background.svg"
  <table style="font-size:smaller; ">
   <!---->
   <tr style="vertical-align:text-top; ">
-   <td style="padding-right:1em; ">
+   <td style="padding-right:1en; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; column-width:100px; ">Impact</p>
    </td>
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; text-align:right; ">
-    <p>What for?</p>
-   </td>
+   <td style="border-right:1px solid black; text-align:right; ">What for?</td>
    <td>
     <ul>
      <li>People and companies can grow consistently.</li>
@@ -36,7 +34,7 @@ image:    "pradera-background.svg"
   </tr>
   <!---->
   <tr style="vertical-align:text-top; ">
-   <td style="padding-right:1ex; ">
+   <td style="padding-right:1en; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Purpose</p>
    </td>
    <td>&nbsp;</td>
@@ -50,14 +48,15 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
-  <!---->
+  <!----> 
   <tr style="vertical-align:text-top; ">
-   <td style="padding-right:1ex; ">
+   <td style="padding-right:1en; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Mission</p>
    </td>
    <td>&nbsp;</td>
   </tr>
-  <tr style="vertical-align:text-top; padding-right:1ex; ">
+  <!---->
+  <tr style="vertical-align:text-top; padding-right:1en; ">
    <td style="border-right:1px solid black; text-align:right; ">What?</td>
    <td>
     <ul>
@@ -65,16 +64,17 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
-  <tr style="vertical-align:text-top; padding-right:1ex; ">
+  <tr style="vertical-align:text-top; padding-right:1en; ">
    <td style="border-right:1px solid black; text-align:right; ">How?</td>
    <td>
     <ul>
-     <li>Companies co-own and co-operate rPlayGym in collaboration with other companies.</li>
+     <li>Companies co-own rPlayGym and collaborate with other companies.</li>
     </ul>
    </td>
   </tr>
-  <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; text-align:right; padding-right:1ex; ">When?</td>
+  <!---->
+  <tr style="vertical-align:text-top; padding-right:1ex; ">
+   <td style="border-right:1px solid black; text-align:right; ">When?</td>
    <td>
     <ul>
      <li>TBD</li>
