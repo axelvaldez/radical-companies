@@ -34,7 +34,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; ">
+   <td style="border-right:1px solid black; padding-right:1ex; ">
     <p style="text-align:right; font-weight:bold; font-size:larger; ">Purpose</p>
    </td>
    <td>&nbsp;</td>
