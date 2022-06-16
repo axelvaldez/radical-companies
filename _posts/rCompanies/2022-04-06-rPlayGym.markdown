@@ -156,6 +156,7 @@ image:    "pradera-background.svg"
      <li>Or, some combination of these.</li>
     </ul>
    </td>
+  </tr>
   <tr>
    <td style="font-size:7px; ">&nbsp;</td>
   </tr>
@@ -170,6 +171,7 @@ image:    "pradera-background.svg"
      <li>Time interviewing instead of creating products.</li>
     </ul>
    </td>
+  </tr>
   <tr>
    <td style="font-size:7px; ">&nbsp;</td>
   </tr>
@@ -183,6 +185,7 @@ image:    "pradera-background.svg"
      <li>For interviewers: time wasted, interruptions, no feedback.</li>
     </ul>
    </td>
+  </tr>
   <tr>
    <td style="font-size:7px; ">&nbsp;</td>
   </tr>
