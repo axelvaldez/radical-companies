@@ -144,6 +144,7 @@ image:    "pradera-background.svg"
      <li>Or, some combination of these.</li>
     </ul>
    </td>
+   <td>&nbsp;</p>
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
@@ -156,6 +157,7 @@ image:    "pradera-background.svg"
      <li>Time interviewing instead of creating products.</li>
     </ul>
    </td>
+   <td>&nbsp;</p>
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
@@ -167,6 +169,7 @@ image:    "pradera-background.svg"
      <li>For interviewers: time wasted, interruptions, no feedback.</li>
     </ul>
    </td>
+   <td>&nbsp;</p>
   </tr>
  </table>
  <p>The cost of the rPlayGym approach is lower, and its results are more effective than those of traditional recruiting.</p>
