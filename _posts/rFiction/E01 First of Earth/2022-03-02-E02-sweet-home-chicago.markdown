@@ -4,7 +4,11 @@ title:    "Sweet Home Chicago"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E02"
 authors:  "Matt Perez & Adrian Perez"
 image:    "and-then-e02.png"
+<<<<<<< HEAD
 hidden:   true
+=======
+hidden: true
+>>>>>>> 816066aa5bee26d7e33e1674f535f922feee68c0
 
 ---
 
