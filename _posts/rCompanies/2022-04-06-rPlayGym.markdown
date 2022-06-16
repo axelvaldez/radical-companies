@@ -144,7 +144,7 @@ image:    "pradera-background.svg"
      <li>Or, some combination of these.</li>
     </ul>
    </td>
-   <td>&nbsp;</p>
+   <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
@@ -157,7 +157,7 @@ image:    "pradera-background.svg"
      <li>Time interviewing instead of creating products.</li>
     </ul>
    </td>
-   <td>&nbsp;</p>
+   <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
@@ -169,7 +169,7 @@ image:    "pradera-background.svg"
      <li>For interviewers: time wasted, interruptions, no feedback.</li>
     </ul>
    </td>
-   <td>&nbsp;</p>
+   <td>&nbsp;</td>
   </tr>
  </table>
  <p>The cost of the rPlayGym approach is lower, and its results are more effective than those of traditional recruiting.</p>
@@ -185,7 +185,7 @@ image:    "pradera-background.svg"
      <li>Mentors’ time.</li>
     </ul>
    </td>
-   <td>&nbsp;</p>
+   <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
@@ -196,7 +196,7 @@ image:    "pradera-background.svg"
      <li>Once you have a rPlayGym in place, it generates people who are well integrated with your teams continuously.</li>
     </ul>
    </td>
-   <td>&nbsp;</p>
+   <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
@@ -207,7 +207,7 @@ image:    "pradera-background.svg"
      <li>N/A</li>
     </ul>
    </td>
-   <td>&nbsp;</p>
+   <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
@@ -219,7 +219,7 @@ image:    "pradera-background.svg"
      <li>Mentors: learn to listen, how to be an ally, leadership skills, build confidence in their own skills, and ultimately get a lot of joy from helping others grow.</li>
     </ul>
    </td>
-   <td>&nbsp;</p>
+   <td>&nbsp;</td>
   </tr>
  </table>
  <p>The rPlayGym approach is more efficient and lots more effective over the long term. Also, it is more satisfying and enjoyable as a predictable source of growth for people and your company.</p>
