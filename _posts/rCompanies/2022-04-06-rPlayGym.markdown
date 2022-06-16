@@ -185,7 +185,7 @@ image:    "pradera-background.svg"
      <li>Mentors’ time.</li>
     </ul>
    </td>
-   <td>&nbsp;</td>
+   <td style="height:10px; ">&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
