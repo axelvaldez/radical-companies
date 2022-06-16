@@ -95,24 +95,24 @@ image:    "pradera-background.svg"
  <p>This is how the US Major League Baseball ranks a team’s farm program,<sup><a href="#bookmark=id.rgqi25bygpyy">3</a></sup></p>
  <table style="font-size:smaller; margin-bottom:40px; ">
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; column-width:2in; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; ">Player Potential</p>
+   <td style="padding-right:1em; column-width:2in; ">
+    <p style="text-align:left; font-weight:bold; font-size:larger; ">Player Potential</p>
    </td>
    <td style="padding-left:1em; ">
     <p>Potential trumps production a lot of the time, especially in the lower levels of the minors and with recent draft picks. Skill sets and tools are often a better indication of what kind of player someone will be.</p>
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; ">Player Talent</p>
+   <td style="padding-right:1em; column-width:2in; ">
+    <p style="text-align:left; font-weight:bold; font-size:larger; ">Player Talent</p>
    </td>
    <td style="padding-left:1em; ">
     <p>As for guys in the higher levels of the minors who are close to breaking through to the big leagues, production and talent are the determining factors. These players are viewed as well rounded.</p>
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; ">Team Depth</p>
+   <td style="padding-right:1em; column-width:2in; ">
+    <p style="text-align:left; font-weight:bold; font-size:larger; ">Team Depth</p>
    </td>
    <td style="padding-left:1em; ">
     <p>Having one or two elite prospects is great, but a deep farm system is the way to build a sustainable contender. Depth and talent were the biggest factors in ranking each team.</p>
@@ -133,8 +133,8 @@ image:    "pradera-background.svg"
  <p>The costs of traditional recruiting include,</p>
  <table style="font-size:smaller; margin-bottom:40px; ">
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; column-width:2in padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; ">Capital Investment</p>
+   <td style="padding-right:1em; column-width:2in; ">
+    <p style="text-align:left; font-weight:bold; font-size:larger; ">Capital Investment</p>
    </td>
    <td>
     <ul>
@@ -146,8 +146,8 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; ">Opportunity loss</p>
+   <td style="padding-right:1em; column-width:2in; ">
+    <p style="text-align:left; font-weight:bold; font-size:larger; ">Opportunity loss</p>
    </td>
    <td>
     <ul>
@@ -158,8 +158,8 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; ">Interview frustration</p>
+   <td style="padding-right:1em; column-width:2in; ">
+    <p style="text-align:left; font-weight:bold; font-size:larger; ">nterview frustration</p>
    </td>
    <td>
     <ul>
@@ -172,7 +172,7 @@ image:    "pradera-background.svg"
  <p>The cost of the rPlayGym approach is lower, and its results are more effective than those of traditional recruiting.</p>
  <table style="font-size:smaller; margin-bottom:40px; ">
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; column-width:2in; padding-right:1em; ">
+   <td style="border-right:1px solid black; padding-right:1em; column-width:2in; ">
     <p style="text-align:right; font-weight:bold; ">Capital Investment</p>
    </td>
    <td>
