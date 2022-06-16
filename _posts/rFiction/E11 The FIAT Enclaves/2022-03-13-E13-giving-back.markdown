@@ -4,7 +4,7 @@ title:    "Giving Back"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E13"
 authors:  "Matt Perez"
 image:    "and-then-e13.png"
-unlisted: true
+hidden: true
 ---
 
 <div style="display: none;">

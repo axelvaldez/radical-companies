@@ -4,7 +4,7 @@ title:    "Give Him Back"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E03"
 authors:  "Matt Perez & Adrian Perez"
 image:    "and-then-e03.png"
-unlisted: true
+hidden: true
 ---
 
 <div style="display: none;">

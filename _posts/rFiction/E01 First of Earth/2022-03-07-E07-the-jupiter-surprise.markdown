@@ -4,7 +4,7 @@ title:    "The Jupiter Surprise"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E07"
 authors:  "Matt Perez"
 image:    "and-then-e07.png"
-unlisted: true
+hidden: true
 ---
 
 <div style="display: none;">
