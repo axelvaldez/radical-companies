@@ -16,7 +16,7 @@ image:    "pradera-background.svg"
  <p>The rPlayGym approach is to <em>help teams grow by helping people grow</em>.<sup id="id01"><a href="#en01">1</a></sup> The strength of a team is in how people complement each other with their whole person, not just with their technical skills. Think of it as the moral equivalent of <em>Moneyball</em> <sup><a href="#bookmark=id.uypnbmz9b371">2</a></sup> for tech teams.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
- <table style="font-size:smaller; margin-bottom:40px; ">
+ <table style="font-size:smaller; margin-bottom:10px; ">
   <!---->
   <tr style="vertical-align:text-top; ">
    <td style="padding-right:1em; width:2in; ">
@@ -93,7 +93,7 @@ image:    "pradera-background.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Farm Programs</h1>
  <p>This is how the US Major League Baseball ranks a team’s farm program,<sup><a href="#bookmark=id.rgqi25bygpyy">3</a></sup></p>
- <table style="font-size:smaller; margin-bottom:40px; ">
+ <table style="font-size:smaller; margin-bottom:10px; ">
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; width:2in; ">
     <p style="text-align:right; font-weight:bold; ">Player Potential</p>
@@ -131,7 +131,7 @@ image:    "pradera-background.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Costs</h1>
  <p>The costs of traditional recruiting include,</p>
- <table style="font-size:smaller; margin-bottom:40px; ">
+ <table style="font-size:smaller; margin-bottom:10px; ">
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; width:2in; ">
     <p style="text-align:right; font-weight:bold; ">Capital Investment</p>
@@ -173,7 +173,7 @@ image:    "pradera-background.svg"
   </tr>
  </table>
  <p>The cost of the rPlayGym approach is lower, and its results are more effective than those of traditional recruiting.</p>
- <table style="font-size:smaller; margin-bottom:40px; ">
+ <table style="font-size:smaller; margin-bottom:10px; ">
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; width:2in; ">
     <p style="text-align:right; font-weight:bold; ">Capital Investment</p>
