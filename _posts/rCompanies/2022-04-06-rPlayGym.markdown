@@ -139,7 +139,7 @@ image:    "pradera-background.svg"
  <table style="font-size:smaller; vertical-align:text-top; ">
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; column-width:50px; ">>Capital Investment</p>
+    <p style="text-align:right; font-weight:bold; column-width:100px; ">Capital Investment</p>
    </td>
    <td>
     <ul>
