@@ -10,7 +10,7 @@ image:    "and-then-e11.png"
  <p>In a world that got away from the strictly FIAT system quickly, there are still communities that cling to it. Is it fear of "different?" Or it is force and ego?</p>
 </div>
 
-<pre class="prettyprint" style="font-size:30px; text-align:center; background-color:#FFFAF0; font-family:American Typewriter, serif">
+<pre style="font-size:30px; text-align:center; background-color:#FFFAF0; font-family:American Typewriter, serif; padding:1m; margin-bottom:10px; ">
  First they ignore you.
  Then they ridicule you.
  Then they want to burn you.
