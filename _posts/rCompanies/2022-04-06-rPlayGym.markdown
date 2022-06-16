@@ -250,7 +250,7 @@ image:    "pradera-background.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
  <p>This is a schematic depiction of the current recruiting pipeline,</p>
  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="/assets/img/recruiting-pipeline-default.svg" alt="The default recruiting pipeline is divided into academia and industry. Academia divides people by age and industry by years of experience. The recruiting process is a hard wall of interviews and judgements between Academia and Industry. It is a bad experience that leaves even the people who get through it with a bad taste in their mouths." title="Recruiting Pipeline – Default">
+  <img style="width:100%; " src="/assets/img/recruiting-pipeline-default.svg" alt="The default recruiting pipeline is divided into academia and industry. Academia divides people by age and industry by years of experience. The recruiting process is a hard wall of interviews and judgements between Academia and Industry. It is a bad experience that leaves even the people who get through it with a bad taste in their mouths." title="Recruiting Pipeline – Default">
  </p>
  <p>The rPlayGym is a drastically different approach to growing a team. Although it still works with the traditional academia/industry scheme, it changes its relationship to it,</p>
  <ul>
@@ -260,7 +260,7 @@ image:    "pradera-background.svg"
   <li>It really never ends.</li>
  </ul>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-   <img src="/assets/img/recruiting-pipeline-rplaygym.svg" alt="The rPlayGym is a flow that starts at home and continues through the whole life path. There is no hard wall between 'Academia' and 'Industry.' This is all supported by graduated educational and training programs guided by the 'students' and given by people who know about the subject." title="Recruiting Pipeline - rPlayGym">
+   <img style="width:100%; " src="/assets/img/recruiting-pipeline-rplaygym.svg" alt="The rPlayGym is a flow that starts at home and continues through the whole life path. There is no hard wall between 'Academia' and 'Industry.' This is all supported by graduated educational and training programs guided by the 'students' and given by people who know about the subject." title="Recruiting Pipeline - rPlayGym">
   </p>
  <p>The activities are not only technical and may include many other topics, including mental health, self-care, and holding on to your chicken.</p>
 
