@@ -19,7 +19,7 @@ image:    "pradera-background.svg"
  <table style="font-size:smaller; ">
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; font-size:larger; column-width:50px; ">Impact</p>
+    <p style="text-align:right; font-weight:bold; font-size:larger; column-width:100px; ">Impact</p>
    </td>
    <td>&nbsp;</td>
   </tr>
@@ -35,7 +35,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; font-size:larger; column-width:50px; ">Purpose</p>
+    <p style="text-align:right; font-weight:bold; font-size:larger; ">Purpose</p>
    </td>
    <td>&nbsp;</td>
   </tr>
@@ -49,21 +49,21 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; font-size:larger; column-width:50px; ">Mission</p>
+   <td style="border-right:1px solid black; padding-right:1ex; ">
+    <p style="text-align:right; font-weight:bold; font-size:larger; ">Mission</p>
    </td>
    <td>&nbsp;</td>
   </tr>
-  <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; text-align: right; padding-right:1em; ">What?</td>
+  <tr style="vertical-align:text-top; padding-right:1ex; ">
+   <td style="border-right:1px solid black; text-align:right; ">What?</td>
    <td>
     <ul>
      <li>Launch three rPlayGyms in 18 months.</li>
     </ul>
    </td>
   </tr>
-  <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; text-align: right; padding-right:1em; ">How?</td>
+  <tr style="vertical-align:text-top; padding-right:1ex; ">
+   <td style="border-right:1px solid black; text-align:right; ">How?</td>
    <td>
     <ul>
      <li>Companies co-own and co-operate rPlayGym in collaboration with other companies.</li>
@@ -71,7 +71,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; text-align: right; padding-right:1em; ">When?</td>
+   <td style="border-right:1px solid black; text-align:right; padding-right:1ex; ">When?</td>
    <td>
     <ul>
      <li>TBD</li>
