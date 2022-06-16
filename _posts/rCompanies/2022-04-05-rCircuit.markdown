@@ -16,7 +16,7 @@ image:    "pradera-background.svg"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Origin Story</h1>
- <p>This is inspired in part by Cesar Millan’s show The Dog Whisperer. Cesar has a dog “farm” in his oversized backyard where dogs simply behave like, well, dogs. Most of the time, a dog is “trouble” because of its owner.  These are not dog abusers, on the contrary they treat their dogs as babies, siblings, or roommates and expect them to behave accordingly. But dogs are dogs, not humans and in Cesar’s dog farm they learn to be dogs again by hanging out with dogs who are just dogs.</p>
+ <p>This is inspired in part by Cesar Millan’s show The Dog Whisperer. Cesar has a dog “farm” in his oversized backyard where dogs simply behave like&hellip; dogs. Most of the time, a dog is “trouble” because of its owner.  These are not dog abusers, on the contrary they treat their dogs as babies, siblings, or roommates and expect them to behave accordingly. But dogs are dogs, not humans and in Cesar’s dog farm they learn to be dogs again by hanging out with dogs who are just dogs.</p>
  <p>A rCircuit would serve a similar purpose, where people would learn to be people again. Not employees. Not resources. Not workers.  Not “senior” this or “junior” that. They learn to be vulnerable and seek help rather than get stuck.</p>
  <p>People spend time at RADICAL companies that are part of the rCircuit. These companies host people so they can experience what it is like to work in an environment that is not fear-driven. Where they can let go of their fear-driven habits and learn new, healthier habits.</p>
 
