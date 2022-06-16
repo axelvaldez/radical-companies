@@ -103,7 +103,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="padding-right:1em; width:2in; ">
+   <td style="padding-right:1em; ">
     <p style="text-align:left; font-weight:bold; ">Player Talent</p>
    </td>
    <td style="padding-left:1em; ">
@@ -111,7 +111,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="padding-right:1em; width:2in; ">
+   <td style="padding-right:1em; ">
     <p style="text-align:left; font-weight:bold; ">Team Depth</p>
    </td>
    <td style="padding-left:1em; ">
