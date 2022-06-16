@@ -136,8 +136,8 @@ image:    "pradera-background.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Costs</h1>
  <p>The costs of traditional recruiting include,</p>
- <table style="font-size:smaller; ">
-  <tr style="vertical-align:text-top; ">
+ <table style="font-size:smaller; vertical-align:text-top; ">
+  <tr>
    <td style="border-right:1px solid black; padding-right:1em; ">
     <p style="text-align:right; font-weight:bold; column-width:100px; ">Capital Investment</p>
    </td>
