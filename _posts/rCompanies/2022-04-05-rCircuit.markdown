@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "pradera-background.svg"
 ---
 
-<div style="display: none;">
+<div style="display: none; padding-bottom:10px; margin-bottom:20px; ">
  <p>Curious people can get the <span style="font-size:smaller; ">RADICAL</span> experience by staying with <span style="font-size:smaller; ">RADICAL</span> companies in the rCircuit.</p>
 </div>
 
