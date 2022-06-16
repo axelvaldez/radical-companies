@@ -84,11 +84,11 @@ image:    "pradera-background.svg"
  </table>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Origin Story</h1>
- <p>Tech businesses do a pretty bad job of hiring. Even when a few people recognize the shortcomings of the current system, they are locked into a system that punishes them for drawing outside the lines.
- <p>By contrast, professional sports teams have a multi-level “farm” system. It starts with youth training programs and continues all the way to the major leagues. The rPlayGym is the equivalent of a farm circuit for tech businesses.
+ <p>Tech businesses do a pretty bad job of hiring. Even when a few people recognize the shortcomings of the current system, they are locked into a system that punishes them for drawing outside the lines.</p>
+ <p>By contrast, professional sports teams have a multi-level “farm” system. It starts with youth training programs and continues all the way to the major leagues. The rPlayGym is the equivalent of a farm circuit for tech businesses.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Description</h1>
- <p>Tech “unicorns,” “10x engineers,” or whatever you call them are hard to find and expensive to keep. You put caviar on golden hooks and still there is no catch, just nibbles. And if you catch one, a bigger boat comes along and snatches it away.
+ <p>Tech “unicorns,” “10x engineers,” or whatever you call them are hard to find and expensive to keep. You put caviar on golden hooks and still there is no catch, just nibbles. And if you catch one, a bigger boat comes along and snatches it away.</p>
  <p>Instead, go fish where the fish are abundant and help them grow. Nurturing them is less expensive, more predictable, and less frustrating. It is also more satisfying and it works at scale: a small business can do it as well as a giant one.
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Farm Programs</h1>
