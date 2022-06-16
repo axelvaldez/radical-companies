@@ -104,6 +104,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>&nbsp;</td>
+  </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
     <p style="text-align:right; font-weight:bold; ">Player Talent</p>
@@ -114,6 +115,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>&nbsp;</td>
+  </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
     <p style="text-align:right; font-weight:bold; ">Team Depth</p>
@@ -124,6 +126,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>&nbsp;</td>
+  </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
     <p style="text-align:right; font-weight:bold; ">Team High-End Talent</p>
@@ -134,6 +137,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>&nbsp;</td>
+  </tr>
  </table>
  <p>In a rPlayGym you can see each person’s potential, depth, and talent in action. By comparison, the typical interview only helps you see who’s good at interviewing and it says very little about how that person is going to help her team perform.</p>
 
