@@ -6,11 +6,11 @@ authors:  "Matt Perez"
 image:    "pradera-background.svg"
 ---
 
-<div style="display: none; padding-bottom:10px; margin-bottom:20px; ">
+<div style="display: none; ">
  <p>Curious people can get the <span style="font-size:smaller; ">RADICAL</span> experience by staying with <span style="font-size:smaller; ">RADICAL</span> companies in the rCircuit.</p>
 </div>
 
-<div style="background-color:beige; font-size:larger; font-family:american typewriter, serif; padding:1em; ">
+<div style="background-color:beige; font-size:larger; font-family:american typewriter, serif; padding:1em; margin-bottom:20px; ">
  <p style="text-align:justify; ">&ldquo;The form of association, which if mankind continue to improve, must be expected in the end to predominate, is not that which can exist between a capitalist as chief, and work-people without a voice in the management, but the association of the labourers themselves on terms of equality, collectively owning the capital with which they carry on their operations&rdquo;</p>
  <p style="text-align:right; padding-right:1em; ">&mdash; John Stuart Mill</p>
 </div>
