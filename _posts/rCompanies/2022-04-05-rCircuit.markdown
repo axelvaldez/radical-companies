@@ -20,12 +20,6 @@ image:    "pradera-background.svg"
  <p>A rCircuit would serve a similar purpose, where people would learn to be people again. Not employees. Not resources. Not workers.  Not “senior” this or “junior” that. They learn to be vulnerable and seek help rather than get stuck.</p>
  <p>People spend time at RADICAL companies that are part of the rCircuit. These companies host people so they can experience what it is like to work in an environment that is not fear-driven. Where they can let go of their fear-driven habits and learn new, healthier habits.</p>
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p>
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
  <table>
   <tr>
