@@ -96,7 +96,7 @@ image:    "pradera-background.svg"
  <table style="font-size:smaller; margin-bottom:40px; ">
   <tr style="vertical-align:text-top; ">
    <td style="padding-right:1em; width:2in; ">
-    <p style="text-align:left; font-weight:bold; ">Player Potential</p>
+    <p style="text-align:right; font-weight:bold; ">Player Potential</p>
    </td>
    <td style="padding-left:1em; ">
     <p>Potential trumps production a lot of the time, especially in the lower levels of the minors and with recent draft picks. Skill sets and tools are often a better indication of what kind of player someone will be.</p>
@@ -104,7 +104,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="padding-right:1em; ">
-    <p style="text-align:left; font-weight:bold; ">Player Talent</p>
+    <p style="text-align:right; font-weight:bold; ">Player Talent</p>
    </td>
    <td style="padding-left:1em; ">
     <p>As for guys in the higher levels of the minors who are close to breaking through to the big leagues, production and talent are the determining factors. These players are viewed as well rounded.</p>
@@ -112,7 +112,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="padding-right:1em; ">
-    <p style="text-align:left; font-weight:bold; ">Team Depth</p>
+    <p style="text-align:right; font-weight:bold; ">Team Depth</p>
    </td>
    <td style="padding-left:1em; ">
     <p>Having one or two elite prospects is great, but a deep farm system is the way to build a sustainable contender. Depth and talent were the biggest factors in ranking each team.</p>
@@ -134,7 +134,7 @@ image:    "pradera-background.svg"
  <table style="font-size:smaller; margin-bottom:40px; ">
   <tr style="vertical-align:text-top; ">
    <td style="padding-right:1em; width:2in; ">
-    <p style="text-align:left; font-weight:bold; ">Capital Investment</p>
+    <p style="text-align:right; font-weight:bold; ">Capital Investment</p>
    </td>
    <td>
     <ul>
@@ -147,7 +147,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="padding-right:1em; width:2in; ">
-    <p style="text-align:left; font-weight:bold; ">Opportunity loss</p>
+    <p style="text-align:right; font-weight:bold; ">Opportunity loss</p>
    </td>
    <td>
     <ul>
@@ -159,7 +159,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="padding-right:1em; width:2in; ">
-    <p style="text-align:left; font-weight:bold; ">Interview frustration</p>
+    <p style="text-align:right; font-weight:bold; ">Interview frustration</p>
    </td>
    <td>
     <ul>
