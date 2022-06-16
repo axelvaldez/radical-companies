@@ -4,7 +4,7 @@ title:    "Earth Authority"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E08"
 authors:  "Matt Perez"
 image:    "and-then-e08.png"
-unlisted: true
+hidden:   true
 ---
 
 <div style="display: none;">

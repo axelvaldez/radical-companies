@@ -4,7 +4,7 @@ title:    "My Baby Wrote Me a Letter"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E05"
 authors:  "Matt Perez & Adrian Perez"
 image:    "and-then-e05.png"
-unlisted: true
+hidden:   true
 ---
 
 <div style="display: none;">
