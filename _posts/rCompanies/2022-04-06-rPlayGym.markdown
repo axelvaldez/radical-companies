@@ -18,8 +18,8 @@ image:    "pradera-background.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
  <table style="font-size:smaller; ">
   <tr style="vertical-align:text-top; ">
-   <td style="column-width:1in; ">
-    <p style="text-align:right; font-weight:bold; ">Impact</p>
+   <td style="border-right:1px solid black; padding-right:1em; ">
+    <p style="text-align:right; font-weight:bold; column-width:50px; ">Impact</p>
    </td>
    <td>&nbsp;</td>
   </tr>
@@ -34,15 +34,13 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td>
-    <p style="text-align:right; font-weight:bold; ">Purpose</p>
+   <td style="border-right:1px solid black; padding-right:1em; ">
+    <p style="text-align:right; font-weight:bold; column-width:50px; ">Purpose</p>
    </td>
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; text-align:right; ">
-    <p>Why?</p>
-   </td>
+   <td style="border-right:1px solid black; text-align:right; ">Why?</td>
    <td>
     <ul>
      <li>People learn to steer their own lives and they don't end up as indentured workers.</li>
@@ -51,15 +49,13 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td>
-    <p style="text-align:right; font-weight:bold; ">Mission</p>
+   <td style="border-right:1px solid black; padding-right:1em; ">
+    <p style="text-align:right; font-weight:bold; column-width:50px; ">Mission</p>
    </td>
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; text-align: right; padding-right:1em; ">
-    <p>What?</p>
-   </td>
+   <td style="border-right:1px solid black; text-align: right; padding-right:1em; ">What?</td>
    <td>
     <ul>
      <li>Launch three rPlayGyms in 18 months.</li>
@@ -67,9 +63,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; text-align: right; padding-right:1em; ">
-    <p>How?</p>
-   </td>
+   <td style="border-right:1px solid black; text-align: right; padding-right:1em; ">How?</td>
    <td>
     <ul>
      <li>Companies co-own and co-operate rPlayGym in collaboration with other companies.</li>
@@ -77,9 +71,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; text-align: right; padding-right:1em; ">
-    <p>When?</p>
-   </td>
+   <td style="border-right:1px solid black; text-align: right; padding-right:1em; ">When?</td>
    <td>
     <ul>
      <li>TBD</li>
