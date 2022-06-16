@@ -21,56 +21,71 @@ image:    "pradera-background.svg"
  <p>People spend time at RADICAL companies that are part of the rCircuit. These companies host people so they can experience what it is like to work in an environment that is not fear-driven. Where they can let go of their fear-driven habits and learn new, healthier habits.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
- <table>
-  <tr>
-   <td>
-    <p style="text-align: right">Impact</p>
-    <p style="text-align: right">What for?</p>
+ <table style="font-size:smaller; margin-bottom:10px; ">
+  <!---->
+  <tr style="vertical-align:text-top; ">
+   <td style="padding-right:1em; width:1.25in; ">
+    <p style="text-align:middle; font-weight:bold; font-size:larger; ">Impact</p>
    </td>
+   <td style="font-size:7px; ">&nbsp;</td>
+  </tr>
+  <tr style="vertical-align:text-top; ">
+   <td style="border-right:1px solid black; text-align:right; padding-right:1em; ">What for?</td>
    <td>
     <ul>
-     <li>
-     </li>
-     </ul>
-   </td>
-  </tr>
-  <tr>
-   <td></td>
-   <td></td>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align: right">Purpose</p>
-    <p style="text-align: right">Why?</p>
-   </td>
-   <td>
-    <ul>
-     <li></li>
+     <li>TBD</li>
     </ul>
    </td>
   </tr>
-  <tr>
-   <td></td>
-   <td></td>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align: right">Mission</p>
-    <p style="text-align: right">What,</p>
-    <p style="text-align: right">When,</p>
-    <p style="text-align: right">How?</p>
+  <!---->
+  <tr style="vertical-align:text-top; ">
+   <td style="padding-right:1em; ">
+    <p style="text-align:middle; font-weight:bold; font-size:larger; ">Purpose</p>
    </td>
+   <td style="font-size:7px; ">&nbsp;</td>
+  </tr>
+  <tr style="vertical-align:text-top; ">
+   <td style="border-right:1px solid black; text-align:right; padding-right:1em; ">Why?</td>
    <td>
     <ul>
-     <li></li>
+     <li>TBD</li>
     </ul>
    </td>
   </tr>
-  <tr>
-   <td></td>
-   <td></td>
+  <!----> 
+  <tr style="vertical-align:text-top; ">
+   <td style="padding-right:1em; ">
+    <p style="text-align:middle; font-weight:bold; font-size:larger; ">Mission</p>
+   </td>
+   <td style="font-size:7px; ">&nbsp;</td>
   </tr>
-</table>
+  <!---->
+  <tr style="vertical-align:text-top; padding-right:1em; ">
+   <td style="border-right:1px solid black; text-align:right; padding-right:1em; ">What?</td>
+   <td>
+    <ul>
+     <li>TBD</li>
+    </ul>
+   </td>
+  </tr>
+  <tr style="vertical-align:text-top; padding-right:1em; ">
+   <td style="border-right:1px solid black; text-align:right; padding-right:1em; ">How?</td>
+   <td>
+    <ul>
+     <li>TBD</li>
+    </ul>
+   </td>
+  </tr>
+  <!---->
+  <tr style="vertical-align:text-top; padding-right:1ex; ">
+   <td style="border-right:1px solid black; text-align:right; padding-right:1em; ">When?</td>
+   <td>
+    <ul>
+     <li>TBD</li>
+    </ul>
+   </td>
+  </tr>
+ </table>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">What's In It for …?</h1>
  <p>Besides ownership and participation in the generated wealth, this what different people will get,</p>
