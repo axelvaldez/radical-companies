@@ -76,65 +76,13 @@ image:    "pradera-background.svg"
  <p>Besides ownership and participation in the generated wealth, this what different people will get,</p>
  <table>
   <tr>
-   <td>
+   <td style="text-align:right; ">
     <p>Role</p>
    </td>
    <td>
     <ul>
      <li></li>
     </ul>
-   </td>
-  </tr>
-  <tr>
-   <td></td>
-   <td></td>
-  </tr>
-  <tr>
-   <td>
-    <p>Role</p>
-   </td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <p>Role</p>
-   </td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <p>Role</p>
-   </td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
    </td>
   </tr>
 </table>
