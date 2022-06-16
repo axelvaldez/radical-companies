@@ -20,7 +20,7 @@ hidden:   true
  <p>&ldquo;What&rsquo;s really created out of nothing is dollars.&rdquo; Petra looked like she had figured it all out and her head was blown. &ldquo;Dollars are minted by the bosses, at their convenience, out of nothing. Nothing! Except for the fact that you have to pay your taxes in dollars and that, somehow, makes them all good.&rdquo; Petra was not finished, &ldquo;Then when the house of cards comes down, as it does often enough, it is somehow our fault. We end up paying for it and the bosses keep on sucking our lifeblood.&rdquo; Bayta and Ignatius stared at Petra, hanging on her every word and wanting more.</p>
  <p>&ldquo;Boy, you are quick. I hadn&rsquo;t quite figured it that way, but, yes, you&rsquo;re right. On top of that, COINs are used all throughout the biosphere, except, of course, for The Bracia and their like. It means that there is no need for anybody, like your banks, to get in the middle and slow things down and add cost.&rdquo;</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Posits</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Posits</h1>
  <p>They were walking about an empty lot and they watched a handful of kids come out of a large house to their left. The kids noticed them and waved, but kept walking towards the nearby road. Bayta sped up a little and got close enough to them to call out. They kept talking but stopped to wait for Bayta and her companions.</p>
  <p>&ldquo;Hi. Are you visiting?&rdquo; One kid said, the tallest in the group.</p>
  <p>&ldquo;Yeah. Kind of. We are passing by. They are going on a long trip.&rdquo; Bayte pointed to Petra and Ignatius who were about 10 meters behind her. Speaking to the two of them, she said, &ldquo;Do you want to talk to these people?&rdquo;</p>
@@ -39,7 +39,7 @@ hidden:   true
  <p>&ldquo;We are from The Bracia&hellip; ,&rdquo; Petra started to say.</p>
  <p>But Becket interrupted with, &ldquo;Oh, OK.&rdquo; Then while smiling, he said, &ldquo;You are aliens after all.&rdquo;</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Perradero</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Perradero</h1>
  <p>&ldquo;We wanted to start a company and call it COCO. Coconut&hellip; CO Company, get it? In any case, Rod thought it would be more fun to not do anything and just mint COINs.&rdquo; &ldquo;He,&rdquo; she said a bit louder, &ldquo;was about to explain how we&rsquo;d do it.&rdquo; Kalisha had a smile on her face.</p>
  <p>&ldquo;All we have to do,&rdquo; Rodrigo explained enthusiastically, &ldquo;is falsify our COINs records so they appear to be low risk. That&rsquo;s all.&rdquo;</p>
  <p>&ldquo;Can&rsquo;t be done.&rdquo; It was the first time that Mike had spoken. &ldquo;Can&rsquo;t do. No.&rdquo;</p>
@@ -57,7 +57,7 @@ hidden:   true
  <p>&ldquo;And Under Surface!&rdquo; Everybody clearly enjoyed Rodrigo&rsquo;s way of not letting things get too serious. &ldquo;I don&rsquo;t know why but my dad always calls COINs &lsquo;perras&rdquo; and laughs, so we could call the company <em>Perradero</em>.&rdquo;</p>
  <p>&ldquo;Sounds like&hellip; we are <em>zoning</em>!&rdquo; yelled Becket.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Facing the Unknown</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Facing the Unknown</h1>
  <p>They were talking excitedly and moving faster now. They headed for a house and Kalisha opened the front door and they all filed in. They were followed by Bayta, Petra, and Ignatius. There were about 20 people inside, two of them about the Bayta&rsquo;s age and another, older, adult.</p>
  <p>Ignatius got close to Bayta and asked softly, &ldquo;Are those the masters?&rdquo;</p>
  <p>Before Bayta had time to say anything, Petra responded, more loudly, &ldquo;at least, they are the adults in the room.&rdquo;</p>
@@ -89,7 +89,7 @@ hidden:   true
  <p>&ldquo;Not sure how far they&rsquo;d want to go. But I am taking the opportunity to have them experience the way we live our lives. I knew it was very different in The Bracia, but if these guys are typical, it <em>is</em> very different.&rdquo;</p>
  <p>By the time Bayta came out of the kitchen, all the Perradero kids were bunched around Camdyn and she was talking a mile a minute, projecting graphs, and running simulations. Eden was dancing with the imagery that came out of Camdyn&rsquo;s mobile.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">RADs!</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">RADs!</h1>
  <p>&ldquo;Have you figured how you want to handle your RADs?&rdquo; Camdyn asked the Perradero kids as they were walking out.</p>
  <p>&ldquo;No,&rdquo; Kalisha said. &ldquo;We&rsquo;ll have to figure that out.&rdquo;</p>
  <p>&ldquo;What are RODs?&rdquo; Ignatius asked.</p>
@@ -127,7 +127,7 @@ hidden:   true
  <p>&ldquo;I didn&rsquo;t mean that. I meant&hellip; OK, can you just go work with somebody else? With people working on something else you found more interesting?&rdquo; Ignatius couldn&rsquo;t get the words out fast enough. &ldquo;Can you choose who you work with?&rdquo;</p>
  <p>&ldquo;We can. It&rsquo;s up to us. Nobody can&rsquo;t force me.&rdquo; Mike&rsquo;s words made it all crystal clear.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Retrospection</h2>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Retrospection</h1>
  <p>Ignatius was looking through the few paper books in the house. I always thought of it as decoration, but according to Ignatius&rsquo; face it must have been fascinating.</p>
  <p>When Petra came out of her room, her eyes were bloodshot. She came down plodding every step. Without saying a word she sat next to Ignatius. She looked more like a pile of wet towels than Petra.</p>
  <p>&ldquo;Do you want to talk?&rdquo;</p>
