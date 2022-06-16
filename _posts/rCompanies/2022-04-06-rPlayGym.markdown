@@ -185,7 +185,9 @@ image:    "pradera-background.svg"
      <li>Mentors’ time.</li>
     </ul>
    </td>
-   <td style="height:10px; ">&nbsp;</td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
@@ -196,6 +198,8 @@ image:    "pradera-background.svg"
      <li>Once you have a rPlayGym in place, it generates people who are well integrated with your teams continuously.</li>
     </ul>
    </td>
+  </tr>
+  <tr>
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
@@ -207,6 +211,8 @@ image:    "pradera-background.svg"
      <li>N/A</li>
     </ul>
    </td>
+  </tr>
+  <tr>
    <td>&nbsp;</td>
   </tr>
   <tr style="vertical-align:text-top; ">
@@ -219,6 +225,8 @@ image:    "pradera-background.svg"
      <li>Mentors: learn to listen, how to be an ally, leadership skills, build confidence in their own skills, and ultimately get a lot of joy from helping others grow.</li>
     </ul>
    </td>
+  </tr>
+  <tr>
    <td>&nbsp;</td>
   </tr>
  </table>
