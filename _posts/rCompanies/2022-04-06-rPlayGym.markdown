@@ -20,7 +20,7 @@ image:    "pradera-background.svg"
   <!---->
   <tr style="vertical-align:text-top; ">
    <td style="padding-right:1en; ">
-    <p style="text-align:right; font-weight:bold; font-size:larger; column-width:100px; ">Impact</p>
+    <p style="text-align:right; font-weight:bold; font-size:larger; column-width:400px; ">Impact</p>
    </td>
    <td>&nbsp;</td>
   </tr>
