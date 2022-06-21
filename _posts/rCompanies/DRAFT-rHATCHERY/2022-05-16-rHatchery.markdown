@@ -171,8 +171,8 @@ image:    "pradera-background.svg"
 <h1>How It Works</h1>
  <h2>Embrace FIAT</h2>
   <p>The FIAT world is our own creation and we start by embracing that.  When we engage with folks creating or running a business, even startups, we are engaging with FIAT minded people. In fact, most people around today are FIAT minded. That’s not a “fault” of theirs, that’s just the way it is.</p>
-  <p>When we engage with established companies that want to make the transition,<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> they are going to show up as FIAT companies.  Their top boss has an intuition about “a better way,” but she’ll hear everything you say through FIAT filters.</p>
-  <p>Don’t roll your eyes.  Don’t get exasperated.  Don’t smirk.  “Help people reach their full potential.  Catch them doing something right.”<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> People have spent years learning FIAT habits.  You have to help them walk away from those and get used to RADICAL habits.  Show them compassion, not pity, and respect for their commitment to the transformation.</p>
+  <p>When we engage with established companies that want to make the transition,<sup id="enref01"><a href="#en01">1</a></sup> they are going to show up as FIAT companies.  Their top boss has an intuition about “a better way,” but she’ll hear everything you say through FIAT filters.</p>
+  <p>Don’t roll your eyes.  Don’t get exasperated.  Don’t smirk.  “Help people reach their full potential.  Catch them doing something right.”<sup id="enref02"><a href="#en02">2</a></sup> People have spent years learning FIAT habits.  You have to help them walk away from those and get used to RADICAL habits.  Show them compassion, not pity, and respect for their commitment to the transformation.</p>
   <p>You are not going to win them all.  You just have to figure out when you can walk away and leave them to build their co-management and co-ownership skills without you.</p>
 
  <h2>Rinse and Repeat</h2>
@@ -196,7 +196,7 @@ image:    "pradera-background.svg"
     <li>We are great (and they’re not)</li>
     <li>Life is great</li>
    </ol>
-  <p>Ideally, the triad would include somebody who’s a “stage four” person.  As Logan would have it, “You’ll know these individuals by (1) their focus on “we,” (2) the number of triads in their networks, and (3) success that comes from groups.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
+  <p>Ideally, the triad would include somebody who’s a “stage four” person.  As Logan would have it, “You’ll know these individuals by (1) their focus on “we,” (2) the number of triads in their networks, and (3) success that comes from groups.”<sup id="enref03"><a href="#en03" rel="footnote">3</a></sup></p>
   <p>Triads are a co-training tool, where everybody ends up a RADICAL evangelist. Hatchers would be the first “stage four” cohort to kick off the triads, but then they would replace themselves with <em>RADICAL-IN-TRAINING</em> folks.</p>
 
  <h2>RADICAL Farm Systems</h2>
@@ -315,14 +315,20 @@ image:    "pradera-background.svg"
    <li>Steward Ownership (Armin Steuernagel).</li>
   </ul>
 
-<h2>rHatchery</h2>
- <ul>
-  <li><span style="text-decoration:underline;">Travis</span> Higgins</li>
-  <li>Possible contacts:  
-   <ul>
-    <li>Coop Layer in Ojai, California</li>
-    <li>Start.coop - Greg Bodsky, Founder</li>
-    <li>Startup Patterns - Sam McAfee</li>
-   </ul>
-  </li>  
-<!-- Footnotes themselves at the bottom. -->
+ <h2>rHatchery</h2>
+  <ul>
+   <li><span style="text-decoration:underline;">Travis</span> Higgins</li>
+   <li>Possible contacts:  
+    <ul>
+     <li>Coop Layer in Ojai, California</li>
+     <li>Start.coop - Greg Bodsky, Founder</li>
+     <li>Startup Patterns - Sam McAfee</li>
+    </ul>
+   </li>
+  </ul>
+
+<h1>ENDNOTES</h1>
+ <p id="en01">1. <a href="#enref01">n</a> Possibly, a good opportunity to get into an established company is when a new boss comes into the scene.  Particularly, when an inheriting child takes over a parent, such as when Ricard Semler took over after his father.</h6>
+ <p id="en02">2. <a href="#enref02">n</a> Kenneth Blanchard, Spencer Johnson.  <a href="https://www.goodreads.com/quotes/580671-secret-2-one-minute-praising-help-people-to-reach">The One Minute Manager</a>.  Berkley Trade, February 15, 1986.</h6>
+ <p id="en03">3. <a href="#enref03">n</a> Dave Logan, John King, Halee Fischer-Wright. <a href="https://a.co/1953Gkh">Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization</a>. 2008.</h6>
+
