@@ -36,8 +36,7 @@ image:    "pradera-background.svg"
   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What for?</td>
   <td>
    <ul>
-    <li>Many companies have turned away from <span style="font-size:smaller; ">FIAT</span> and continue to evolve along the <span style="font-size:smaller; ">RADICAL</span> path.</li>
-    <li>The <span style="font-size:smaller; ">RADICAL</span> paradigm is on its way to becoming the norm.</li>
+    <li>The <span style="font-size:smaller; ">RADICAL</span> paradigm is on its way to becoming the norm. Many companies have turned away from <span style="font-size:smaller; ">FIAT</span> and continue to evolve along the <span style="font-size:smaller; ">RADICAL</span> path.</li>
    </ul>
   </td>
  </tr>
@@ -48,7 +47,7 @@ image:    "pradera-background.svg"
   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Why?</td>
   <td>
    <ul>
-    <li></li>
+    <li>To help companies get started and stay on the RADICAL path.</li>
    </ul>
   </td>
  </tr>
@@ -74,7 +73,7 @@ image:    "pradera-background.svg"
   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">When?</td>
   <td>
    <ul>
-    <li>We don’t charge the first few, but we’ll insist on being co-owners of what results.</li>
+    <li>We either charge a hefty fee or we become co-owners of what the company that results.</li>
    </ul>
   </td>
  </tr>
