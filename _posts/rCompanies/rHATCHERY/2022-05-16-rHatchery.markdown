@@ -94,7 +94,7 @@ image:    "pradera-background.svg"
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
    <td>
-    <p style="text-align: right">Hatchers</p>
+    <p style="text-align: right; font-weight:bold; width:1in; ">Hatchers</p>
    </td>
    <td>
     <ul>
@@ -108,7 +108,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">Companies</p>
+    <p style="text-align: right; font-weight:bold; ">Companies</p>
    </td>
    <td>
     <ul>
@@ -123,7 +123,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">People</p>
+    <p style="text-align: right; font-weight:bold; ">People</p>
    </td>
    <td>
     <ul>
@@ -142,22 +142,22 @@ image:    "pradera-background.svg"
  <table>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
- <h2>Embrace FIAT</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">Embrace FIAT</h2>
   <p>The <span style="font-size:smaller; ">FIAT</span> world is our own creation and we start by embracing that.  When we engage with folks creating or running a business, even startups, we are engaging with <span style="font-size:smaller; ">FIAT</span> minded people. In fact, most people around today are <span style="font-size:smaller; ">FIAT</span> minded. That’s not a “fault” of theirs, that’s just the way it is.</p>
   <p>When we engage with established companies that want to make the transition,<sup id="enref01"><a href="#en01">1</a></sup> they are going to show up as <span style="font-size:smaller; ">FIAT</span> companies.  Their top boss has an intuition about “a better way,” but she’ll hear everything you say through <span style="font-size:smaller; ">FIAT</span> filters.</p>
   <p>Don’t roll your eyes.  Don’t get exasperated.  Don’t smirk.  “Help people reach their full potential.  Catch them doing something right.”<sup id="enref02"><a href="#en02">2</a></sup> People have spent years learning <span style="font-size:smaller; ">FIAT</span> habits.  You have to help them walk away from those and get used to <span style="font-size:smaller; ">RADICAL</span> habits.  Show them compassion, not pity, and respect for their commitment to the transformation.</p>
   <p>You are not going to win them all.  You just have to figure out when you can walk away and leave them to build their co-management and co-ownership skills without you.</p>
- <h2>Rinse and Repeat</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">Rinse and Repeat</h2>
   <p>This is about the various ways to get the basics out and repeat them over and over to let them sink in.  We learn by repetition, so repeat.</p>
   <p>TBD.</p>
- <h2>Workshops</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">Workshops</h2>
   <ol>
    <li>Describe scenario</li>
    <li>Team plays out a response</li>
    <li>Retrospective to identify <span style="font-size:smaller; ">FIAT</span> behavior (<em>e.g.</em>, competitive)</li>
    <li>Brainstorming for <span style="font-size:smaller; ">RADICAL</span> alternatives (<em>e.g.</em>, collaboration)
   </ol>
- <h2>Triads</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; ">Triads</h2>
   <p>David Logan, researcher and principal author of Tribal Leadership, suggested forming triads, a group of three people, to support each other.  So instead of the “1-on-1 with your boss,” you could instead do it with your peers. Logan meant triads as a mechanism to help people move up the <em>five tribal stages</em>,</p>
    <ol>
     <li>Life sucks</li>
@@ -166,17 +166,17 @@ image:    "pradera-background.svg"
     <li>We are great (and they’re not)</li>
     <li>Life is great</li>
    </ol>
-  <p>Ideally, the triad would include somebody who’s a “stage four” person.  As Logan would have it, “You’ll know these individuals by (1) their focus on “we,” (2) the number of triads in their networks, and (3) success that comes from groups.”<sup id="enref03"><a href="#en03" rel="footnote">3</a></sup></p>
-  <p>Triads are a co-training tool, where everybody ends up a <span style="font-size:smaller; ">RADICAL</span> evangelist. Hatchers would be the first “stage four” cohort to kick off the triads, but then they would replace themselves with <em><span style="font-size:smaller; ">RADICAL</span>-IN-TRAINING</em> folks.</p>
- <h2><span style="font-size:smaller; ">RADICAL</span> Farm Systems</h2>
-  <p>This technique is inspired by Cesar Millan, The Dog Whisperer, and his dog “farm.”.  His large backyard is full of dogs that simply behave like dogs.  Other dogs can stay in the farm for a while to learn to be dogs. Most of the time, a “trouble dog” is trouble only because of its owner.  These are not mean people, but they treat their dogs as babies, siblings, or roommates.  But dogs are dogs, not humans. Atd his farm, Cesar let the dogs get back to their roots.  When they “graduate” from the farm, these are, literally, <span style="font-size:smaller; ">RADICAL</span> dogs.</p>
-  <p><span style="font-size:smaller; ">RADICAL</span><em> </em>Farms would serve a similar purpose.  People from would-be <span style="font-size:smaller; ">RADICAL</span> companies would spend time at one of the many <span style="font-size:smaller; ">RADICAL</span> farms in the system.  These “farms” are <span style="font-size:smaller; ">RADICAL</span> companies that are prepared to host would-be <span style="font-size:smaller; ">RADICAL</span> so they can learn how to let go of fear driven habits.</p>
-  <p>If dogs can learn how to be dogs from other dogs, people can best learn how to be people from other people.</p>
- <h2>Emerging Sensitivities</h2>
-  <p>We are very sensitive about people who want to dominate us.  When people say, “I’ve always had trouble with authority,” I hear that as “I am very sensitive to anything and anybody trying to dominate me, and I always resist.”  That’s because we have grown up in a system fueled by domination.</p>
-  <p>We need to help people to let go of this and other fear-based habits and learn collaborative habits.</p>
- <h2>Co-Ownership Workshops</h2>
-  <p>Help people figure out how to get started experimenting with this thing.</p>
+   <p>Ideally, the triad would include somebody who’s a “stage four” person.  As Logan would have it, “You’ll know these individuals by (1) their focus on “we,” (2) the number of triads in their networks, and (3) success that comes from groups.”<sup id="enref03"><a href="#en03" rel="footnote">3</a></sup></p>
+   <p>Triads are a co-training tool, where everybody ends up a <span style="font-size:smaller; ">RADICAL</span> evangelist. Hatchers would be the first “stage four” cohort to kick off the triads, but then they would replace themselves with <em><span style="font-size:smaller; ">RADICAL</span>-IN-TRAINING</em> folks.</p>
+  <h2 style="font-size:30px; font-family:Courier New, monospace; " style="font-size:30px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL</span> Farm Systems</h2>
+   <p>This technique is inspired by Cesar Millan, The Dog Whisperer, and his dog “farm.”.  His large backyard is full of dogs that simply behave like dogs.  Other dogs can stay in the farm for a while to learn to be dogs. Most of the time, a “trouble dog” is trouble only because of its owner.  These are not mean people, but they treat their dogs as babies, siblings, or roommates.  But dogs are dogs, not humans. Atd his farm, Cesar let the dogs get back to their roots.  When they “graduate” from the farm, these are, literally, <span style="font-size:smaller; ">RADICAL</span> dogs.</p>
+   <p><span style="font-size:smaller; ">RADICAL</span><em> </em>Farms would serve a similar purpose.  People from would-be <span style="font-size:smaller; ">RADICAL</span> companies would spend time at one of the many <span style="font-size:smaller; ">RADICAL</span> farms in the system.  These “farms” are <span style="font-size:smaller; ">RADICAL</span> companies that are prepared to host would-be <span style="font-size:smaller; ">RADICAL</span> so they can learn how to let go of fear driven habits.</p>
+   <p>If dogs can learn how to be dogs from other dogs, people can best learn how to be people from other people.</p>
+  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Emerging Sensitivities</h2>
+   <p>We are very sensitive about people who want to dominate us.  When people say, “I’ve always had trouble with authority,” I hear that as “I am very sensitive to anything and anybody trying to dominate me, and I always resist.”  That’s because we have grown up in a system fueled by domination.</p>
+   <p>We need to help people to let go of this and other fear-based habits and learn collaborative habits.</p>
+  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Co-Ownership Workshops</h2>
+   <p>Help people figure out how to get started experimenting with this thing.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">rHatchery</h1>
  <h2>Who Belongs</h2>
