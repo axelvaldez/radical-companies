@@ -62,7 +62,11 @@ image:    "pradera-background.svg"
   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What?</td>
   <td>
    <ul>
-    <li></li>
+    <li>Start talking to people about what we are doing.  Present tense, no hesitation.</li>
+    <li>Figure out who can help us build a prospect channel.</li>
+    <li>Figure out the resonant messages (e.g., for very small businesses, for very large businesses, and for every business in between).</li>
+    <li>Create and refine our personal and company story.</li>
+    <li>Collect contact info, intros, etc., for the ⓡHATCHERY from everybody we talk to.</li>
    </ul>
   </td>
  </tr>
@@ -70,7 +74,7 @@ image:    "pradera-background.svg"
   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">When?</td>
   <td>
    <ul>
-    <li>Every week.</li>
+    <li>We don’t charge the first few, but we’ll insist on being co-owners of what results.</li>
    </ul>
   </td>
  </tr>
@@ -78,7 +82,8 @@ image:    "pradera-background.svg"
   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">How?</td>
   <td>
    <ul>
-    <li></li>
+    <li>Starting now.</li>
+    <li>For the next six months.</li>
    </ul>
   </td>
  </tr>
