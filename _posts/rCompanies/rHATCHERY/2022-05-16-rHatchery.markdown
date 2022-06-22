@@ -11,7 +11,7 @@ image:    "pradera-background.svg"
 </div>
 
 <div style="background-color:beige; font-size:x-large; font-family:american typewriter, serif; padding:1em; margin-bottom:30px; ">
- <p style="text-align:justify; margin:0; ">Compassion is the radicalism of our time</p>
+ <p style="text-align:center; margin:0; ">Compassion is the radicalism of our time</p>
  <p style="text-align:right; margin:0; font-size:smaller; ">&mdash; Dalai Lama XIV</p>
 </div>
 
