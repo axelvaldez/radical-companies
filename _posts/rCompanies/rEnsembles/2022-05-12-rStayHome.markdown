@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "rStayHomer"
+title:    "rStayHome"
 subtitle: "From Gig Subsistence to Co-Onwership"
 authors:  "Matt Perez"
 image:    "pradera-background.svg"
