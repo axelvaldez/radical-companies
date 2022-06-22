@@ -199,7 +199,7 @@ image:    "pradera-background.svg"
    <li>Craft a progression of stories 1) sprinkled with their individual stories, 2) that speak to their ideals, and 3) culminates with their aspirations.</li>
   </ul>
   <p style="text-align:center; width:90%; margin:auto; margin-bottom:20px; ">
-   <img src="/assets/img/radicalt-process-origin-stories.svg" alt="Three triangels with three colored bands called ASPIRATIONS, IDEALS, and WAR STORIES. The left-most triangle has a small ASPIRATIONS band, a large IDEALS band, and a middling WAR STORIES band. The middle triangle has a larger ASPIRATIONS band of the same height as the IDEALS bad, and a smaller WAR STORIES bad. The right-most triangle show a very tall ASPIRATIONS bad, a middling IDEALS band, and a pretty small WAR STORIES bad. This indicate how people's stories proceed over time." title="RADICAL Process:Origin Stories">
+   <img src="/assets/img/radicalt-process-origin-stories.svg" alt="Three triangles with three colored bands called ASPIRATIONS, IDEALS, and WAR STORIES. The left-most triangle has a small ASPIRATIONS band, a large IDEALS band, and a middling WAR STORIES band. The middle triangle has a larger ASPIRATIONS band of the same height as the IDEALS bad, and a smaller WAR STORIES bad. The right-most triangle show a very tall ASPIRATIONS bad, a middling IDEALS band, and a pretty small WAR STORIES bad. This indicate how people's stories proceed over time." title="RADICAL Process:Origin Stories">
   </p>
   <p>
    <img src="radiant-process-origin-stories.svg">
