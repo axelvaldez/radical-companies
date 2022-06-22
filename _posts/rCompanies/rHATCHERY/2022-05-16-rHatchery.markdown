@@ -16,7 +16,7 @@ image:    "pradera-background.svg"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Intro</h1>
- <p><span style="font-size:smaller; ">RADICAL</span> Hatcheries (rHatcheries) are in the business of helping companies transform from <span style="font-size:smaller; ">FIAT</span> to <span style="font-size:smaller; ">RADICAL</span> management, including</p>
+ <p>rHatcheries (<span style="font-size:smaller; ">RADICAL</span> Hatcheries) are in the business of helping companies transform from <span style="font-size:smaller; ">FIAT</span> to <span style="font-size:smaller; ">RADICAL</span> management, including</p>
   <ol>
    <li>Recognize their <span style="font-size:smaller; ">FIAT</span> habits, rules, and mindset.</li>
    <li>Figure out how to move steadily away from <span style="font-size:smaller; ">FIAT</span> habits, rules, and mindset and towards the <span style="font-size:smaller; ">RADICAL</span> path.</li>
