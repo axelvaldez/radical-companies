@@ -27,66 +27,66 @@ image:    "pradera-background.svg"
 
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
-<table>
-<tbody style="font-size:smaller; vertical-align:top; ">
- <tr>
-  <td colspan="2" style="font-weight:bold; text-align:center; ">Impact</td>
- </tr>
- <tr>
-  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What for?</td>
-  <td>
-   <ul>
-    <li>The <span style="font-size:smaller; ">RADICAL</span> paradigm is on its way to becoming the norm. Many companies have turned away from <span style="font-size:smaller; ">FIAT</span> and continue to evolve along the <span style="font-size:smaller; ">RADICAL</span> path.</li>
-   </ul>
-  </td>
- </tr>
- <tr>
-  <td colspan="2" style="font-weight:bold; text-align:center; ">Purpose</td>
- </tr>
- <tr>
-  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Why?</td>
-  <td>
-   <ul>
-    <li>To help companies get started and stay on the RADICAL path.</li>
-   </ul>
-  </td>
- </tr>
+ <table>
+ <tbody style="font-size:smaller; vertical-align:top; ">
+  <tr>
+   <td colspan="2" style="font-weight:bold; text-align:center; ">Impact</td>
+  </tr>
+  <tr>
+   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What for?</td>
+   <td>
+    <ul>
+     <li>The <span style="font-size:smaller; ">RADICAL</span> paradigm is on its way to becoming the norm. Many companies have turned away from <span style="font-size:smaller; ">FIAT</span> and continue to evolve along the <span style="font-size:smaller; ">RADICAL</span> path.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" style="font-weight:bold; text-align:center; ">Purpose</td>
+  </tr>
+  <tr>
+   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Why?</td>
+   <td>
+    <ul>
+     <li>To help companies get started and stay on the <span style="font-size:smaller; ">RADICAL</span> path.</li>
+    </ul>
+   </td>
+  </tr>
   <tr>
    <td colspan="2">&nbsp;</td>
   </tr>
- <tr>
-  <td colspan="2" style="font-weight:bold; text-align:center; ">Mission</td>
- </tr>
- <tr>
-  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What?</td>
-  <td>
-   <ul>
-    <li>Start talking to people about what we are doing.  Present tense, no hesitation.</li>
-    <li>Figure out who can help us build a prospect channel.</li>
-    <li>Figure out the resonant messages (e.g., for very small businesses, for very large businesses, and for every business in between).</li>
-    <li>Create and refine our personal and company story.</li>
-    <li>Collect contact info, intros, etc., for the ⓡHATCHERY from everybody we talk to.</li>
-   </ul>
-  </td>
- </tr>
- <tr>
-  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">When?</td>
-  <td>
-   <ul>
-    <li>We either charge a hefty fee or we become co-owners of what the company that results.</li>
-   </ul>
-  </td>
- </tr>
- <tr>
-  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">How?</td>
-  <td>
-   <ul>
-    <li>Starting now.</li>
-    <li>For the next six months.</li>
-   </ul>
-  </td>
- </tr>
-</tbody>
+  <tr>
+   <td colspan="2" style="font-weight:bold; text-align:center; ">Mission</td>
+  </tr>
+  <tr>
+   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What?</td>
+   <td>
+    <ul>
+     <li>Start talking to people about what we are doing.  Present tense, no hesitation.</li>
+     <li>Figure out who can help us build a prospect channel.</li>
+     <li>Figure out the resonant messages (e.g., for very small businesses, for very large businesses, and for every business in between).</li>
+     <li>Create and refine our personal and company story.</li>
+     <li>Collect contact info, intros, etc., for the ⓡHATCHERY from everybody we talk to.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">When?</td>
+   <td>
+    <ul>
+     <li>We either charge a hefty fee or we become co-owners of what the company that results.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">How?</td>
+   <td>
+    <ul>
+     <li>Starting now.</li>
+     <li>For the next six months.</li>
+    </ul>
+   </td>
+  </tr>
+ </tbody>
 </table>
 
 
@@ -141,8 +141,6 @@ image:    "pradera-background.svg"
   </tr>
  <table>
 
-
-
 <h1>What's in It for &hellip;?</h1>
  <p>Besides company co-ownership and participation in the wealth they help create, this is what different people will get,</p>
  <table>
@@ -152,7 +150,7 @@ image:    "pradera-background.svg"
    </td>
    <td>
     <ul>
-     <li>Promotion of their ideas, of themselves, of their content.  The satisfaction of creating a new, RADICAL world one company at a time.</li>
+     <li>Promotion of their ideas, of themselves, of their content.  The satisfaction of creating a new, <span style="font-size:smaller; ">RADICAL</span> world one company at a time.</li>
     </ul>
    </td>
   </tr>
@@ -167,7 +165,7 @@ image:    "pradera-background.svg"
    <td>
     <ul>
      <li>Learning from the ability to experiment with various media, different messages.</li>
-     <li>Spreading the RADICAL story, by example, as a RADICAL farm, as evangelists.</li>
+     <li>Spreading the ^ story, by example, as a <span style="font-size:smaller; ">RADICAL</span> farm, as evangelists.</li>
     </ul>
    </td>
   </tr>
@@ -182,9 +180,9 @@ image:    "pradera-background.svg"
    <td>
     <ul>
      <li>Learning to let go of fear.</li>
-     <li>Learning RADICAL habits.</li>
+     <li>Learning <span style="font-size:smaller; ">RADICAL</span> habits.</li>
      <li>Practicing these new habits at home and in their communities.</li>
-     <li>Learning from the RADICAL farms.</li>
+     <li>Learning from the <span style="font-size:smaller; ">RADICAL</span> farms.</li>
     </ul>
    </td>
   </tr>
@@ -347,7 +345,7 @@ image:    "pradera-background.svg"
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
  <ul>
-  <li>RADICAL COMPANIES,</li>
+  <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
   <ul>
     <li><a>EN</a>: <a></a></li>
     <li><a>ES</a>: <a></a></li>
