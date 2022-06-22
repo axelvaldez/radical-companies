@@ -1,0 +1,126 @@
+---
+layout:   post
+title:    "rKiCare"
+subtitle: "From Gig Subsistence to Co-Onwership"
+authors:  "Jose Leal, Matt Perez"
+image:    "pradera-background.svg"
+---
+
+<div style="display: none; ">
+ <p>The tranformation of an interpretation service to the <span style="font-size:smaller; ">RADICAL COMPANIES</span> foundation. This could be the &ldquo;templace&&rdquo; for other &ldquo;gig&rdquo; business.</p>
+</div>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
+ <table>
+ <tbody style="font-size:smaller; vertical-align:top; ">
+  <tr>
+   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Impact</td>
+  </tr>
+  <tr>
+   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What for?</td>
+   <td>
+    <ul>
+     <li></li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Purpose</td>
+  </tr>
+  <tr>
+   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Why?</td>
+   <td>
+    <ul>
+     <li></li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2">&nbsp;</td>
+  </tr>
+  <tr>
+   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Mission</td>
+  </tr>
+  <tr>
+   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What?</td>
+   <td>
+    <ul>
+     <li></li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">When?</td>
+   <td>
+    <ul>
+     <li></li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">How?</td>
+   <td>
+    <ul>
+     <li></li>
+    </ul>
+   </td>
+  </tr>
+ </tbody>
+</table>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Intro</h1>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Origin Story</h1>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">How It Works</h1>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">What's in It for &hellip;?</h1>
+
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
+ <ul>
+  <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
+  <ul>
+    <li><a>EN</a>: <a></a></li>
+    <li><a>ES</a>: <a></a></li>
+    <li>For the Impatient: RADs, PRI, etc.: <a></a></li>
+    <li>Frequently asked questions (FAQ): <a></a></li>
+  </ul>
+  <li>The Missing Chapters,</li>
+  <ul>
+    <li><a>RADICAL COIN</a></li>
+    <li><a>RADICAL LAND</a></li>
+    <li><a>RADICAL GOVERNMENT</a></li> 
+  </ul>
+  <li>rCompanies</li>
+  <ul>
+    <li>rPRADERA MEDIA</li>
+    <ul>
+      <li><a>PRADERA SHELF</a></li>
+      <li><a>PRADERA READER</a></li>
+      <li><a>RADICALS.LIVE!</a></li>
+      <li><a>RADICAL MBA</a></li>  
+    </ul>
+    <li><a>rHatchery</a></li>
+    <li><a>rCircuit</a></li>
+    <li><a>rPlayGym</a></li>
+    <li><a>rEnsemble</a></li>
+    <ul>
+      <li><a>rTranslate</a></li>
+      <li><a>rSparkle</a></li>
+      <li><a>rStayHome</a></li>
+      <li><a>KidsCare</a></li>
+    </ul>
+  </ul>
+  <li>Startups</li>
+  <ul>
+    <li><a>rBuddyNeighbor</a></li>
+    <li><a>rNextBright</a></li>
+    <li><a>rHintersoft</a></li> 
+  </ul>
+  <li>rProjects</li>
+  <ul>
+    <li><a>REMARK!</a></li>
+    <li><a>RADs!</a></li>
+    <li><a>Attentive UI</a></li>
+  </ul>
+ </ul>
