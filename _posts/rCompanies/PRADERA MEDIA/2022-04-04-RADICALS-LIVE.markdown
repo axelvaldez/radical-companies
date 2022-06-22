@@ -407,3 +407,52 @@ image:    "pradera-background.svg"
   <li id="en2"><a href="#bm2">n</a> BANNIO 4.7Ft Green Screen. Amazon, $29 &lt;<a href="https://radicals.world/DJXfXq">https://radicals.world/DJXfXq</a>></li>
   <li id="en3"><a href="#bm3">n</a> Video+Mic, Amazon, $70 &lt;<a href="https://radicals.world/zO6ndt">https://radicals.world/zO6ndt</a>>. Alternative microphone, Amazon, $29 &lt;<a href="https://radicals.world/zErPki">https://radicals.world/zErPki</a>></li>
 </ol>
+
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
+ <ul>
+  <li>RADICAL COMPANIES,</li>
+  <ul>
+    <li><a>EN</a>: <a></a></li>
+    <li><a>ES</a>: <a></a></li>
+    <li>For the Impatient: RADs, PRI, etc.: <a></a></li>
+    <li>Frequently asked questions (FAQ): <a></a></li>
+  </ul>
+  <li>The Missing Chapters,</li>
+  <ul>
+    <li><a>RADICAL COIN</a></li>
+    <li><a>RADICAL LAND</a></li>
+    <li><a>RADICAL GOVERNMENT</a></li> 
+  </ul>
+  <li>rCompanies</li>
+  <ul>
+    <li>rPRADERA MEDIA</li>
+    <ul>
+      <li><a>PRADERA SHELF</a></li>
+      <li><a>PRADERA READER</a></li>
+      <li><a>RADICALS.LIVE!</a></li>
+      <li><a>RADICAL MBA</a></li>  
+    </ul>
+    <li><a>rHatchery</a></li>
+    <li><a>rCircuit</a></li>
+    <li><a>rPlayGym</a></li>
+    <li><a>rEnsemble</a></li>
+    <ul>
+      <li><a>rTranslate</a></li>
+      <li><a>rSparkle</a></li>
+      <li><a>rStayHome</a></li>
+      <li><a>KidsCare</a></li>
+    </ul>
+  </ul>
+  <li>Startups</li>
+  <ul>
+    <li><a>rBuddyNeighbor</a></li>
+    <li><a>rNextBright</a></li>
+    <li><a>rHintersoft</a></li> 
+  </ul>
+  <li>rProjects</li>
+  <ul>
+    <li><a>REMARK!</a></li>
+    <li><a>RADs!</a></li>
+    <li><a>Attentive UI</a></li>
+  </ul>
+ </ul>
