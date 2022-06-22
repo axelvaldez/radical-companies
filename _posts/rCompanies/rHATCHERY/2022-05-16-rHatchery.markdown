@@ -91,7 +91,7 @@ image:    "pradera-background.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">What's in It for &hellip;?</h1>
  <p>Besides company co-ownership and participation in the wealth they help create, this is what different people will get,</p>
  <table>
- <tbody style="font-size:smaller; vertical-align:top; font-weight:bold; ">
+ <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
    <td>
     <p style="text-align: right">Hatchers</p>
