@@ -25,6 +25,66 @@ image:    "pradera-background.svg"
    <li>Help them not fall back on <span style="font-size:smaller; ">RADICAL</span> habits.</li>
   </ol>
 
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
+<table>
+<tbody style="font-size:smaller; vertical-align:top; ">
+ <tr>
+  <td colspan="2" style="font-weight:bold; text-align:center; ">Impact</td>
+ </tr>
+ <tr>
+  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What for?</td>
+  <td>
+   <ul>
+    <li>Many companies have turned away from <span style="font-size:smaller; ">FIAT</span> and continue to evolve along the <span style="font-size:smaller; ">RADICAL</span> path.</li>
+    <li>The <span style="font-size:smaller; ">RADICAL</span> paradigm is on its way to becoming the norm.</li>
+   </ul>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="font-weight:bold; text-align:center; ">Purpose</td>
+ </tr>
+ <tr>
+  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Why?</td>
+  <td>
+   <ul>
+    <li></li>
+   </ul>
+  </td>
+ </tr>
+  <tr>
+   <td colspan="2">&nbsp;</td>
+  </tr>
+ <tr>
+  <td colspan="2" style="font-weight:bold; text-align:center; ">Mission</td>
+ </tr>
+ <tr>
+  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What?</td>
+  <td>
+   <ul>
+    <li></li>
+   </ul>
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">When?</td>
+  <td>
+   <ul>
+    <li>Every week.</li>
+   </ul>
+  </td>
+ </tr>
+ <tr>
+  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">How?</td>
+  <td>
+   <ul>
+    <li></li>
+   </ul>
+  </td>
+ </tr>
+</tbody>
+</table>
+
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
  <table style="font-size:smaller; margin-bottom:10px; ">
   <tr style="vertical-align:text-top; ">
