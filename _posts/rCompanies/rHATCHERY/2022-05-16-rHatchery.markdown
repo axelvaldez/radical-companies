@@ -42,8 +42,6 @@ image:    "pradera-background.svg"
    <td>
     <p style="text-align: right">What for?</p>
    </td>
-   <td>
-   </td>
   </tr>
   <tr>
    <td></td>
@@ -53,6 +51,13 @@ image:    "pradera-background.svg"
    <td style="padding-right:1em; width:1.25in; ">
     <p style="text-align:middle; font-weight:bold; font-size:larger; ">Purpose<p>
    </td>
+   <td rowspan="2">
+    <ul>
+     <li>To help companies get started and stay on the <span style="font-size:smaller; ">RADICAL</span> path.</li> 
+    </ul>
+   </td>
+  </tr>
+  <tr>
    <td style="padding-right:1em; width:1.25in; ">
     <p style="text-align:middle; font-weight:bold; font-size:larger; ">Why?</p>
    </td>
@@ -61,10 +66,6 @@ image:    "pradera-background.svg"
    <td></td>
   </tr>
   <tr>
-    <ul>
-     <li>To help companies get started and stay on the <span style="font-size:smaller; ">RADICAL</span> path.</li> 
-    </ul>
-   </td>
   </tr>
   <tr>
    <td></td>
