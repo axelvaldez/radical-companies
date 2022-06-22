@@ -25,7 +25,6 @@ image:    "pradera-background.svg"
    <li>Help them not fall back on <span style="font-size:smaller; ">RADICAL</span> habits.</li>
   </ol>
 
-
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
