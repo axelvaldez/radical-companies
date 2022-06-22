@@ -25,7 +25,7 @@ image:    "pradera-background.svg"
    <li>Help them not fall back on RADICAL habits.</li>
   </ol>
 
-<h1>Alignment</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
  <table>
   <tr>
    <td>
@@ -41,11 +41,11 @@ image:    "pradera-background.svg"
      <li>Many companies have turned away from FIAT and continue to evolve along the RADICAL path.</li>
      <li>The RADICAL paradigm is on its way to becoming the norm.</li>
     </ul>
-   </td>
+   </td>x
   </tr>
   <tr>
    <td></td>
-   <td></td>
+   <td></td>y
   </tr>
   <tr>
    <td>
@@ -60,18 +60,18 @@ image:    "pradera-background.svg"
     <ul>
      <li>To help companies get started and stay on the RADICAL path.</li> 
     </ul>
-   </td>
+   </td>z
   </tr>
   <tr>
    <td></td>
-   <td></td>
+   <td></td>1
   </tr>
   <tr>
    <td>
     <p style="text-align: right">Mission</p>
    </td>
    <td>
-   </td>
+   </td>2
   </tr>
   <tr>
    <td>
@@ -85,7 +85,7 @@ image:    "pradera-background.svg"
      <li>Create and refine our personal and company story.</li>
      <li>Collect contact info, intros, etc., for the ⓡHATCHERY from everybody we talk to.</li>
     </ul>
-   </td>
+   </td>3
   </tr>
   <tr>
    <td>
@@ -95,10 +95,10 @@ image:    "pradera-background.svg"
     <ul>
      <li>We don’t charge the first few, but we’ll insist on being co-owners of what results.</li>
     </ul>
-   </td>
+   </td>a
   </tr>
   <tr>
-   <td><p style="text-align: right">How?</p>
+   <td><p style="text-align: right">How?</p>b
   </tr>
   <tr>
    <td>
@@ -106,11 +106,11 @@ image:    "pradera-background.svg"
      <li>Starting now.</li>
      <li>For the next six months.</li>
     </ul>
-   </td>
+   </td>c
   </tr>
   <tr>
    <td></td>
-   <td></td>
+   <td></td>d
   </tr>
  <table>
 
