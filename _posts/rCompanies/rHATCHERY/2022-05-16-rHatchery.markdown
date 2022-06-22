@@ -26,10 +26,10 @@ image:    "pradera-background.svg"
   </ol>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
- <table>
-  <tr>
-   <td>
-    <p style="text-align: right">Impact</p>
+ <table style="font-size:smaller; margin-bottom:10px; ">
+  <tr style="vertical-align:text-top; ">
+   <td style="padding-right:1em; width:1.25in; ">
+    <p style="text-align:middle; font-weight:bold; font-size:larger; ">Impact</p>
    </td>
    <td>
     <p style="text-align: right">What for?</p>
@@ -47,12 +47,12 @@ image:    "pradera-background.svg"
    <td></td>
    <td></td>
   </tr>
-  <tr>
-   <td>
-    <p style="text-align: right">Purpose<p>
+  <tr style="vertical-align:text-top; ">
+   <td style="padding-right:1em; width:1.25in; ">
+    <p style="text-align:middle; font-weight:bold; font-size:larger; ">Purpose<p>
    </td>
-   <td>
-    <p style="text-align: right">Why?</p>
+   <td style="padding-right:1em; width:1.25in; ">
+    <p style="text-align:middle; font-weight:bold; font-size:larger; ">Why?</p>
    </td>
    <td>
    </td>
@@ -66,16 +66,16 @@ image:    "pradera-background.svg"
    <td></td>
    <td></td>
   </tr>
-  <tr>
-   <td>
-    <p style="text-align: right">Mission</p>
+  <tr style="vertical-align:text-top; ">
+   <td style="padding-right:1em; width:1.25in; ">
+    <p style="text-align:middle; font-weight:bold; font-size:larger; ">Mission</p>
    </td>
    <td>
    </td>
   </tr>
-  <tr>
-   <td>
-    <p style="text-align: right">What?</p>
+  <tr style="vertical-align:text-top; ">
+   <td style="padding-right:1em; width:1.25in; ">
+    <p style="text-align:middle; font-weight:bold; font-size:larger; ">What?</p>
    </td>
    <td>
     <ul>
@@ -87,9 +87,9 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
-  <tr>
-   <td>
-    <p style="text-align: right">When?</p>
+  <tr style="vertical-align:text-top; ">
+   <td style="padding-right:1em; width:1.25in; ">
+    <p style="text-align:middle; font-weight:bold; font-size:larger; ">When?</p>
    </td>
    <td>
     <ul>
@@ -97,8 +97,9 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
-  <tr>
-   <td><p style="text-align: right">How?</td>b
+  <tr style="vertical-align:text-top; ">
+   <td style="padding-right:1em; width:1.25in; ">
+    <p style="text-align:middle; font-weight:bold; font-size:larger; ">How?</td>b
   </tr>
   <tr>
    <td>
