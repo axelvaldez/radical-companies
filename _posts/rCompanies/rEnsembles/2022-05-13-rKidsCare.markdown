@@ -7,7 +7,7 @@ image:    "pradera-background.svg"
 ---
 
 <div style="display: none; ">
- <p>The tranformation of an interpretation service to the <span style="font-size:smaller; ">RADICAL COMPANIES</span> foundation. This could be the &ldquo;templace&&rdquo; for other &ldquo;gig&rdquo; business.</p>
+ <p>Taking care of children while their parents are at their FIAT work</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
@@ -69,6 +69,7 @@ image:    "pradera-background.svg"
 </table>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Intro</h1>
+ <p>Taking care of children while their parents are at their FIAT work</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Origin Story</h1>
 
