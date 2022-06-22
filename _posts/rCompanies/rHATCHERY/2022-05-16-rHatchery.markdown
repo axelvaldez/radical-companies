@@ -24,8 +24,6 @@ image:    "pradera-background.svg"
    <li>Keep moving forward on the RADICAL path.</li>
    <li>Help them not fall back on RADICAL habits.</li>
   </ol>
- </p>
- <table style="font-size:smaller; margin-bottom:10px; ">
 
 <h1>Alignment</h1>
  <table>
