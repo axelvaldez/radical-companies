@@ -94,7 +94,7 @@ image:    "pradera-background.svg"
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
    <td>
-    <p style="text-align: right; font-weight:bold; width:1in; ">Hatchers</p>
+    <p style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Hatchers</p>
    </td>
    <td>
     <ul>
@@ -108,7 +108,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right; font-weight:bold; ">Companies</p>
+    <p style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Companies</p>
    </td>
    <td>
     <ul>
@@ -123,7 +123,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right; font-weight:bold; ">People</p>
+    <p style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">People</p>
    </td>
    <td>
     <ul>
