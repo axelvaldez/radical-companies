@@ -13,8 +13,8 @@ image:    "pradera-background.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
-  <tr colspan="2">
-   <td style="font-weight:bold; font-size:larger; text-align:center; border:2px solid green; ">Impact</td>
+  <tr>
+   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; border:2px solid green; ">Impact</td>
   </tr>
   <tr>
    <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What for?</td>
@@ -25,7 +25,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center;  border:2px solid green;">Purpose</td>
+   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right;  border:2px solid green;">Purpose</td>
   </tr>
   <tr>
    <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Why?</td>
@@ -39,7 +39,7 @@ image:    "pradera-background.svg"
    <td colspan="2">&nbsp;</td>
   </tr>
   <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Mission</td>
+   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Mission</td>
   </tr>
   <tr>
    <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What?</td>
