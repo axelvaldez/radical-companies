@@ -202,10 +202,9 @@ image:    "pradera-background.svg"
    <img src="/assets/img/radical-process-origin-stories.svg" alt="Three triangles with three colored bands called ASPIRATIONS, IDEALS, and WAR STORIES. The left-most triangle has a small ASPIRATIONS band, a large IDEALS band, and a middling WAR STORIES band. The middle triangle has a larger ASPIRATIONS band of the same height as the IDEALS bad, and a smaller WAR STORIES bad. The right-most triangle show a very tall ASPIRATIONS bad, a middling IDEALS band, and a pretty small WAR STORIES bad. This indicate how people's stories proceed over time." title="Origin Stories Progress">
   </p>
   <p>
-   <img src="radiant-process-origin-stories.svg">
-  <ul>
-   <li>Talk to them in small groups to 1) get the reactions to the story, and 2) start habituating them to work, and be vulnerable, in groups.</li>
-  </ul>
+   <ul>
+    <li>Talk to them in small groups to 1) get the reactions to the story, and 2) start habituating them to work, and be vulnerable, in groups.</li>
+   </ul>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Learning Opportunities</h2>
   <ul>
    <li>We could invite people to give talks.</li>
