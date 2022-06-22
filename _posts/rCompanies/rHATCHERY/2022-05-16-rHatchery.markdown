@@ -54,9 +54,8 @@ image:    "pradera-background.svg"
    <td style="padding-right:1em; width:1.25in; ">
     <p style="text-align:middle; font-weight:bold; font-size:larger; ">Why?</p>
    </td>
-   <td>
-   </td>
-   <td>
+   <td></td>
+   <td></td>
     <ul>
      <li>To help companies get started and stay on the RADICAL path.</li> 
     </ul>
