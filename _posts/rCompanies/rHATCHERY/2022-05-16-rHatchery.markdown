@@ -27,7 +27,7 @@ image:    "pradera-background.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
  <table>
- <tbody style="font-size:smaller; vertical-align:top; ">
+ <tbody style="font-size:smaller; vertical-align:top; font-weight:bold; ">
   <tr>
    <td colspan="2" style="font-weight:bold; text-align:center; ">Impact</td>
   </tr>
