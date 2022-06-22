@@ -141,6 +141,59 @@ image:    "pradera-background.svg"
   </tr>
  <table>
 
+
+
+<h1>What's in It for &hellip;?</h1>
+ <p>Besides company co-ownership and participation in the wealth they help create, this is what different people will get,</p>
+ <table>
+  <tr>
+   <td>
+    <p style="text-align: right">Hatchers</p>
+   </td>
+   <td>
+    <ul>
+     <li>Promotion of their ideas, of themselves, of their content.  The satisfaction of creating a new, RADICAL world one company at a time.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>
+    <p style="text-align: right">Companies</p>
+   </td>
+   <td>
+    <ul>
+     <li>Learning from the ability to experiment with various media, different messages.</li>
+     <li>Spreading the RADICAL story, by example, as a RADICAL farm, as evangelists.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td>
+    <p style="text-align: right">People</p>
+   </td>
+   <td>
+    <ul>
+     <li>Learning to let go of fear.</li>
+     <li>Learning RADICAL habits.</li>
+     <li>Practicing these new habits at home and in their communities.</li>
+     <li>Learning from the RADICAL farms.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td></td>
+   <td></td>
+  </tr>
+ </table>
+
 <h1>How It Works</h1>
  <h2>Embrace FIAT</h2>
   <p>The <span style="font-size:smaller; ">FIAT</span> world is our own creation and we start by embracing that.  When we engage with folks creating or running a business, even startups, we are engaging with <span style="font-size:smaller; ">FIAT</span> minded people. In fact, most people around today are <span style="font-size:smaller; ">FIAT</span> minded. That’s not a “fault” of theirs, that’s just the way it is.</p>
