@@ -69,12 +69,16 @@ image:    "pradera-background.svg"
 </table>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; nargin-top:30px; ">Intro</h1>
+a
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; nargin-top:30px; ">Origin Story</h1>
+b
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; nargin-top:30px; ">How It Works</h1>
+c
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; nargin-top:30px; ">What's in It for &hellip;?</h1>
+d
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
  <ul>
