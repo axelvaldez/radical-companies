@@ -10,7 +10,7 @@ image:    "pradera-background.svg"
  <p>The tranformation of an interpretation service to the <span style="font-size:smaller; ">RADICAL COMPANIES</span> foundation. This could be the &ldquo;templace&&rdquo; for other &ldquo;gig&rdquo; business.</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; nargin-top:1em; ">Alignment</h1>
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
@@ -68,13 +68,13 @@ image:    "pradera-background.svg"
  </tbody>
 </table>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Intro</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; nargin-top:1em; ">Intro</h1>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Origin Story</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; nargin-top:1em; ">Origin Story</h1>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; nargin-top:1em; ">How It Works</h1>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">What's in It for &hellip;?</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; nargin-top:1em; ">What's in It for &hellip;?</h1>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
  <ul>
