@@ -30,14 +30,11 @@ image:    "pradera-background.svg"
    </ul>
   </td>
  </tr>
-  <tr>
-   <td colspan="2">&nbsp;</td>
-  </tr>
  <tr>
   <td colspan="2" style="font-weight:bold; text-align:center; ">Purpose</td>
  </tr>
  <tr>
-  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black;  ">Why?</td>
+  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Why?</td>
   <td>
    <ul>
     <li>Spread the word about the RADICAL paradigm and make it familiar to people (<em>i.e.</em>, non-threatening).</li>
