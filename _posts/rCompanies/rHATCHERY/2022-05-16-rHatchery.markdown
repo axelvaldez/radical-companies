@@ -54,8 +54,11 @@ image:    "pradera-background.svg"
    <td style="padding-right:1em; width:1.25in; ">
     <p style="text-align:middle; font-weight:bold; font-size:larger; ">Why?</p>
    </td>
+  <tr>
    <td></td>
    <td></td>
+  </tr>
+  <tr>
     <ul>
      <li>To help companies get started and stay on the RADICAL path.</li> 
     </ul>
@@ -98,7 +101,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="padding-right:1em; width:1.25in; ">
-    <p style="text-align:middle; font-weight:bold; font-size:larger; ">How?</td>b
+    <p style="text-align:middle; font-weight:bold; font-size:larger; ">How?</p>
   </tr>
   <tr>
    <td>
