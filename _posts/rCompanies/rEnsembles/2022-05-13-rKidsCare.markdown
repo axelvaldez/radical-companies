@@ -69,7 +69,7 @@ image:    "pradera-background.svg"
 </table>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Intro</h1>
- <p>Taking care of children while their parents are at their FIAT work</p>
+ <p>Taking care of children with or without the parents' help, while their parents are at busy with something else (<em>e.g.</em> their FIAT work).</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Origin Story</h1>
 
