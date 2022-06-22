@@ -7,7 +7,7 @@ image:    "pradera-background.svg"
 ---
 
 <div style="display: none; ">
- <p>Curious people can get the <span style="font-size:smaller; "><span style="font-size:smaller; ">RADICAL</span></span> experience by staying with <span style="font-size:smaller; ">RADICAL</span> companies in the rCircuit.</p>
+ <p>Curious people can get the <span style="font-size:smaller; ">RADICAL</span> experience by staying with <span style="font-size:smaller; ">RADICAL</span> companies in the rCircuit.</p>
 </div>
 
 <div style="background-color:beige; font-size:x-large; font-family:american typewriter, serif; padding:1em; margin-bottom:30px; ">
@@ -19,7 +19,7 @@ image:    "pradera-background.svg"
  <p><span style="font-size:smaller; ">RADICAL</span> Hatcheries (rHatcheries) are in the business of helping companies transform from <span style="font-size:smaller; ">FIAT</span> to <span style="font-size:smaller; ">RADICAL</span> management, including</p>
   <ol>
    <li>Recognize their <span style="font-size:smaller; ">FIAT</span> habits, rules, and mindset.</li>
-   <li>Figure out how to move steadily away from <span style="font-size:smaller; ">FIAT</span> habits, rules, and mindset and towards the <span style="font-size:smaller; "><span style="font-size:smaller; ">RADICAL</span></span> path.</li>
+   <li>Figure out how to move steadily away from <span style="font-size:smaller; ">FIAT</span> habits, rules, and mindset and towards the <span style="font-size:smaller; ">RADICAL</span> path.</li>
    <li>Point out when they are heading into a force pit.</li>
    <li>Keep moving forward on the <span style="font-size:smaller; ">RADICAL</span> path.</li>
    <li>Help them not fall back on <span style="font-size:smaller; ">RADICAL</span> habits.</li>
@@ -51,6 +51,8 @@ image:    "pradera-background.svg"
    <td style="padding-right:1em; width:1.25in; ">
     <p style="text-align:middle; font-weight:bold; font-size:larger; ">Purpose<p>
    </td>
+  </tr>
+  <tr>
    <td rowspan="2">
     <ul>
      <li>To help companies get started and stay on the <span style="font-size:smaller; ">RADICAL</span> path.</li> 
