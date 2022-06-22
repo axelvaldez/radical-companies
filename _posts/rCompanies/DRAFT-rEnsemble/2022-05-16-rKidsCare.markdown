@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "rKiCare"
+title:    "rKidCare"
 subtitle: "From Gig Subsistence to Co-Onwership"
 authors:  "Jose Leal, Matt Perez"
 image:    "pradera-background.svg"
