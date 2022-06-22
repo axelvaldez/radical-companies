@@ -90,7 +90,7 @@ image:    "pradera-background.svg"
 </table>
 
 
-<h1>What's in It for &hellip;?</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">What's in It for &hellip;?</h1>
  <p>Besides company co-ownership and participation in the wealth they help create, this is what different people will get,</p>
  <table>
   <tr>
@@ -141,7 +141,7 @@ image:    "pradera-background.svg"
   </tr>
  <table>
 
-<h1>What's in It for &hellip;?</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">What's in It for &hellip;?</h1>
  <p>Besides company co-ownership and participation in the wealth they help create, this is what different people will get,</p>
  <table>
   <tr>
@@ -192,7 +192,7 @@ image:    "pradera-background.svg"
   </tr>
  </table>
 
-<h1>How It Works</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
  <h2>Embrace FIAT</h2>
   <p>The <span style="font-size:smaller; ">FIAT</span> world is our own creation and we start by embracing that.  When we engage with folks creating or running a business, even startups, we are engaging with <span style="font-size:smaller; ">FIAT</span> minded people. In fact, most people around today are <span style="font-size:smaller; ">FIAT</span> minded. That’s not a “fault” of theirs, that’s just the way it is.</p>
   <p>When we engage with established companies that want to make the transition,<sup id="enref01"><a href="#en01">1</a></sup> they are going to show up as <span style="font-size:smaller; ">FIAT</span> companies.  Their top boss has an intuition about “a better way,” but she’ll hear everything you say through <span style="font-size:smaller; ">FIAT</span> filters.</p>
@@ -229,7 +229,7 @@ image:    "pradera-background.svg"
  <h2>Co-Ownership Workshops</h2>
   <p>Help people figure out how to get started experimenting with this thing.</p>
 
-<h1>rHatchery</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">rHatchery</h1>
  <h2>Who Belongs</h2>
   <ul>
    <li>First and foremost, the rHatchery is a community.</li>
@@ -289,7 +289,7 @@ image:    "pradera-background.svg"
    <li>Facilitating client-specific rHatchery communities.</li>
   </ul>
 
-<h1>Prospect Channel</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Prospect Channel</h1>
  <h2>Contacted</h2>
   <ul>
    <li>Travis Higgins</li>
@@ -336,7 +336,7 @@ image:    "pradera-background.svg"
    </li>
   </ul>
 
-<h1>ENDNOTES</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">ENDNOTES</h1>
  <ol>
   <li id="en01"><a href="#bm01"><a href="#enref01">n</a> Possibly, a good opportunity to get into an established company is when a new boss comes into the scene.  Particularly, when an inheriting child takes over a parent, such as when Ricard Semler took over after his father.</li>
   <li id="en01"><a href="#bm01"><a href="#enref01">n</a> Kenneth Blanchard, Spencer Johnson.  <a href="https://www.goodreads.com/quotes/580671-secret-2-one-minute-praising-help-people-to-reach">The One Minute Manager</a>.  Berkley Trade, February 15, 1986.</li>
