@@ -68,7 +68,7 @@ image:    "pradera-background.svg"
  </tbody>
 </table>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Intro</h1
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Intro</h1>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Origin Story</h1>
 
