@@ -216,12 +216,6 @@ image:    "pradera-background.svg"
    <li>Jacqueline can talk about the chicken model.</li>
    <li>Kim can talk about Conscious Contracts.</li>
    <li>Train the bigger, more mature Hatchers, too,</li>
-   <ul>
-    <li>Kimberly can talk about what she does.</li>
-    <li>Alicia can talk about the Wealthing Club</li>
-    <li>Doug, Chuck, etc., can talk about their approach to co-management.</li>
-    <li>Lisa Gill can talk about her stuff or do a series of interviews of Hatchers</li> 
-   </ul>
   </ul>
   <p>Their pitch would have to adjust to incorporate the <span style="font-size:smaller; ">RADICAL</span> model.</p>
   <ul>
@@ -242,58 +236,11 @@ image:    "pradera-background.svg"
    <li>Facilitating client-specific rHatchery communities.</li>
   </ul>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Prospect Channel</h1>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Contacted</h2>
-  <ul>
-   <li>Travis Higgins</li>
-  </ul>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Contact Next</h2>
-  <ul>
-   <li>Doug Kirkpatrick (Matt)</li>
-   <li>Pedro Nascimento (Matt)</li>
-   <li>Chuck Blakeman</li>
-   <li>Lisa Gill</li>
-   <li>Ricardo Nunez (Coop space)</li>
-   <li>Pancho Mora</li>
-   <li>Olivier Gesbert</li>
-   <li>Alicia Castillo</li>
-   <li>Joost & Pim (Corporate Rebels)</li>
-   <li>https://icagroup.org/</li>
-   <li>Bruce Peter - Rochester, NY (400 followers/subscribers)</li>
-   <li><a href="https://neweconomy.net/solidarity-economy/#our-action-plan">https://neweconomy.net/solidarity-economy/#our-action-plan</a>
-    <ul>
-     <li>We should talk to them about <span style="font-size:smaller; ">RADICAL</span> COMPANIES and see they will over time add us to their &ldquo;like models&rdquo; list.</li>
-    </ul>
-   </li> 
-  </ul>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Contact Later</h2>
-  <ul>
-   <li>Elaine Favero</li>
-   <li>Tine Beiber</li>
-   <li>Enlivening Edge Magazine
-   <li>Next Stage <span style="font-size:smaller; ">RADICAL</span> (Andy)</li>
-   <li>J Kim Wright</li>
-   <li><span style="font-size:smaller; ">RADICAL</span> Newsletter (200+ subscribers)</li>
-   <li>New York Pizza folks</li>
-   <li>Steward Ownership (Armin Steuernagel).</li>
-  </ul>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">rHatchery</h2>
-  <ul>
-   <li><span style="text-decoration:underline;">Travis</span> Higgins</li>
-   <li>Possible contacts:  
-    <ul>
-     <li>Coop Layer in Ojai, California</li>
-     <li>Start.coop - Greg Bodsky, Founder</li>
-     <li>Startup Patterns - Sam McAfee</li>
-    </ul>
-   </li>
-  </ul>
-
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">ENDNOTES</h1>
  <ol>
-  <li id="en01"><a href="#bm01"><a href="#enref01">n</a> Possibly, a good opportunity to get into an established company is when a new boss comes into the scene.  Particularly, when an inheriting child takes over a parent, such as when Ricard Semler took over after his father.</li>
-  <li id="en01"><a href="#bm01"><a href="#enref01">n</a> Kenneth Blanchard, Spencer Johnson.  <a href="https://www.goodreads.com/quotes/580671-secret-2-one-minute-praising-help-people-to-reach">The One Minute Manager</a>.  Berkley Trade, February 15, 1986.</li>
-  <li id="en01"><a href="#bm01"><a href="#enref01">n</a> Dave Logan, John King, Halee Fischer-Wright. <a href="https://a.co/1953Gkh">Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization</a>. 2008.</li>
+  <li id="en01"><a href="#enref01">n</a> Possibly, a good opportunity to get into an established company is when a new boss comes into the scene.  Particularly, when an inheriting child takes over a parent, such as when Ricard Semler took over after his father.</li>
+  <li id="en01"><a href="#enref01">n</a> Kenneth Blanchard, Spencer Johnson.  <a href="https://www.goodreads.com/quotes/580671-secret-2-one-minute-praising-help-people-to-reach">The One Minute Manager</a>.  Berkley Trade, February 15, 1986.</li>
+  <li id="en01"><a href="#enref01">n</a> Dave Logan, John King, Halee Fischer-Wright. <a href="https://a.co/1953Gkh">Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization</a>. 2008.</li>
  </ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
