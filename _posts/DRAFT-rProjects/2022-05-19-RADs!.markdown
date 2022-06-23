@@ -101,7 +101,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
  </tbody>
-</table>
+ </table>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Other</h1>
  <ul>
