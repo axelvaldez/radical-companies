@@ -11,7 +11,7 @@ image:    "pradera-background.svg"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
- <p>A simple system to keep track of the distribution of RADs as we all recognize contributions that others have made to me, my team, or my company throughout time,</p>
+ <p>A simple system to keep track of the distribution of <span style="font-size:smaller; ">RAD</span>s as we all recognize contributions that others have made to me, my team, or my company throughout time,</p>
  <ul>
   <li>Swipe to the right for people who help or contribute to you.</li>
   <li>DSwipe to the left for people who made a negative impact on you.</li>
@@ -20,12 +20,12 @@ image:    "pradera-background.svg"
  <p>The UI is obviously inspired by Tinder.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Making It Viral</h1>
- <p>Adding a non-RADs! person to my list will automatically generate an email to that person to 1) let her know she’s been added to my list, and 2) invite her to download the app and start to give out RADs. In as much as this app (evolutionary) strengthens the group of original users, it will spread to other people (<em>i.e.</em>, RAD-receiving candidates) organically.</p>
- <p>Those who chose to not use the app—and therefore chose not to give RADs—will still receive them. This may continue forever, or it may be that over time they will get less and less (<em>i.e.</em>, “there’s no tit-for-tat!”). In any case, these folks are not to be punished in any way (<em>e.g.</em>, money would still flow through the RADs they do have).</p>
+ <p>Adding a non-<span style="font-size:smaller; ">RAD</span>s! person to my list will automatically generate an email to that person to 1) let her know she’s been added to my list, and 2) invite her to download the app and start to give out <span style="font-size:smaller; ">RAD</span>s. In as much as this app (evolutionary) strengthens the group of original users, it will spread to other people (<em>i.e.</em>, <span style="font-size:smaller; ">RAD</span>-receiving candidates) organically.</p>
+ <p>Those who chose to not use the app—and therefore chose not to give <span style="font-size:smaller; ">RAD</span>s—will still receive them. This may continue forever, or it may be that over time they will get less and less (<em>i.e.</em>, “there’s no tit-for-tat!”). In any case, these folks are not to be punished in any way (<em>e.g.</em>, money would still flow through the <span style="font-size:smaller; ">RAD</span>s they do have).</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Distribution Cycles</h1>
  <p>The system supports a periodic distribution cycle. Any user can specify it (<em>e.g.</em>, weekly, monthly, or every 45 day) as she wishes. People may get together and hold Distributions at different times. In other words, there is no “correct” or “corporate” cycle time that will apply to all. People can even switch from one cycle time to another as they wish.</p>
- <p>At the end of a RADICAL Distribution, after all RADs have been allocated, a Global RESET command is broadcast to all people associated with a specific cycle time. For example, all the “full moon” people get together outside, under a full moon, allocate their RADs, have their retrospectives, along with food and drink, and dance, and arguments, and whatever else they choose to do. At the end of it, a Reset is sent to all the “full moon” people and their lists and allocations are reset to the baseline. Unless they block it.</p>
+ <p>At the end of a <span style="font-size:smaller; ">RADICAL</span> Distribution, after all <span style="font-size:smaller; ">RAD</span>s have been allocated, a Global RESET command is broadcast to all people associated with a specific cycle time. For example, all the “full moon” people get together outside, under a full moon, allocate their <span style="font-size:smaller; ">RAD</span>s, have their retrospectives, along with food and drink, and dance, and arguments, and whatever else they choose to do. At the end of it, a Reset is sent to all the “full moon” people and their lists and allocations are reset to the baseline. Unless they block it.</p>
  <p>The app supports a manual RESET (<em>i.e.</em>, reset all my lists and allocation to factory setting, so to speak), a Global RESET block (<em>i.e.</em>, don’t accept Global RESET), and even a manual UN-RESET (<em>i.e.</em>, undo the latest RESET, whether Global or Manual).</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Also Supports</h1>
@@ -35,9 +35,9 @@ image:    "pradera-background.svg"
   <li>Drilling down for details by double tapping on a person.</li>
   <ul>
    <li>Profile: name, picture, etc.</li>
-   <li>Summaries: RADs received and given, total RADs, etc.</li>
+   <li>Summaries: <span style="font-size:smaller; ">RAD</span>s received and given, total <span style="font-size:smaller; ">RAD</span>s, etc.</li>
   </ul>
-  <li>Specify RADs/day. The default is one per day, but it could be 100 or any other number an individual user prefers.</li>
+  <li>Specify <span style="font-size:smaller; ">RAD</span>s/day. The default is one per day, but it could be 100 or any other number an individual user prefers.</li>
   <li>This list can be presented by time periods (<em>e.g.</em>, per month), “with most RIGHTs,” “with most LEFTs,” “Banners created,” “not mentioned for N days,” etc.</li>
  </ul>
 
@@ -62,7 +62,7 @@ image:    "pradera-background.svg"
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">Why?</td>
    <td>
     <ul>
-     <li>To support RAD Distributions.</li>
+     <li>To support <span style="font-size:smaller; ">RAD</span> Distributions.</li>
     </ul>
    </td>
   </tr>
@@ -78,7 +78,7 @@ image:    "pradera-background.svg"
     <ul>
      <li>Build a  system to,</li>
      <ul>
-      <li>Keep track of people and Banners who are candidates for getting RADs.</li>
+      <li>Keep track of people and Banners who are candidates for getting <span style="font-size:smaller; ">RAD</span>s.</li>
       <li>eep track of people you need to give feedback to.</li>
       <li>There is no hard criteria for this and could be any kind of contribution, whatever the user considers valuable. It could be the number of checkins, but it could also be a significant conversation.</li>
     </ul>
@@ -106,7 +106,7 @@ image:    "pradera-background.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Other</h1>
  <ul>
   <li><em>RADs!</em> and <em><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit?usp=sharing">Remark!</a></em> will eventually share a backend.</li>
-  <li>For more detail, see the <a href="https://docs.google.com/spreadsheets/d/1ckdZEl_SaNOSB6X-2_iSvvqXsAcDz-GnMtICpRByYdU/edit#gid=0">Limitless Clothing RAD Distribution</a>, a manual prototype of RADs.</li>
+  <li>For more detail, see the <a href="https://docs.google.com/spreadsheets/d/1ckdZEl_SaNOSB6X-2_iSvvqXsAcDz-GnMtICpRByYdU/edit#gid=0">Limitless Clothing <span style="font-size:smaller; ">RAD</span> Distribution</a>, a manual prototype of <em>RADs</em>.</li>
  </ul>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Tech Platforms</h1>
@@ -121,7 +121,7 @@ image:    "pradera-background.svg"
   <ul>
     <li><a>EN</a>: <a></a></li>
     <li><a>ES</a>: <a></a></li>
-    <li>For the Impatient: RADs, PRI, etc.: <a></a></li>
+    <li>For the Impatient: <span style="font-size:smaller; ">RAD</span>s, PRI, etc.: <a></a></li>
     <li>Frequently asked questions (FAQ): <a></a></li>
   </ul>
   <li>The Missing Chapters,</li>
