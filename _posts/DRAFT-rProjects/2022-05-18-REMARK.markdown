@@ -1,13 +1,13 @@
 ---
 layout:   post
-title:    "RADs!"
-subtitle: "From Gig Subsistence to Co-Onwership"
-authors:  "Jose Leal, Matt Perez"
+title:    "Remark!"
+subtitle: "Tangble Feedback (App)"
+authors:  "Matt Perez"
 image:    "pradera-background.svg"
 ---
 
 <div style="display: none; ">
- <p>A simple system to keep track of the <span style="font-size:smaller; ">RAD</span>s distributions.</p>
+ <p>For authors, bloggers, and podcasters REMARK! is primarily a source of specific, actionable feedback about their content. They get the highlighted passages, the number of positive and negative clicks, and comments associated with each. These may or may not get monetized.</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
