@@ -1,0 +1,161 @@
+---
+layout:   post
+title:    "RADs!"
+subtitle: "From Gig Subsistence to Co-Onwership"
+authors:  "Jose Leal, Matt Perez"
+image:    "pradera-background.svg"
+---
+
+<div style="display: none; ">
+ <p>A simple system to keep track of the RADs distributions.</p>
+</div>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
+ <p>A simple system to keep track of the distribution of RADs as we all recognize contributions that others have made to me, my team, or my company throughout time,</p>
+ <ul>
+  <li>Swipe to the right for people who help or contribute to you.</li>
+  <li>DSwipe to the left for people who made a negative impact on you.</li>
+  <li>Swipe up or down to scroll through the list of people.</li>
+ </ul>
+ <p>The UI is obviously inspired by Tinder.</p>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Making It Viral</h1>
+ <p>Adding a non-RADs! person to my list will automatically generate an email to that person to 1) let her know she’s been added to my list, and 2) invite her to download the app and start to give out RADs. In as much as this app (evolutionary) strengthens the group of original users, it will spread to other people (<em>i.e.</em>, RAD-receiving candidates) organically.</p>
+ <p>Those who chose to not use the app—and therefore chose not to give RADs—will still receive them. This may continue forever, or it may be that over time they will get less and less (<em>i.e.</em>, “there’s no tit-for-tat!”). In any case, these folks are not to be punished in any way (<em>e.g.</em>, money would still flow through the RADs they do have).</p>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Distribution Cycles</h1>
+ <p>The system supports a periodic distribution cycle. Any user can specify it (<em>e.g.</em>, weekly, monthly, or every 45 day) as she wishes. People may get together and hold Distributions at different times. In other words, there is no “correct” or “corporate” cycle time that will apply to all. People can even switch from one cycle time to another as they wish.</p>
+ <p>At the end of a RADICAL Distribution, after all RADs have been allocated, a Global RESET command is broadcast to all people associated with a specific cycle time. For example, all the “full moon” people get together outside, under a full moon, allocate their RADs, have their retrospectives, along with food and drink, and dance, and arguments, and whatever else they choose to do. At the end of it, a Reset is sent to all the “full moon” people and their lists and allocations are reset to the baseline. Unless they block it.</p>
+ <p>The app supports a manual RESET (<em>i.e.</em>, reset all my lists and allocation to factory setting, so to speak), a Global RESET block (<em>i.e.</em>, don’t accept Global RESET), and even a manual UN-RESET (<em>i.e.</em>, undo the latest RESET, whether Global or Manual).</p>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Also Supports</h1>
+ <ul>
+  <li>Adding people: name, picture, miscellaneous data. This can be done manually or through integration with other software.</li>
+  <li>Adding Banners. These can be private or broadcast through the system (backend).</li>
+  <li>Drilling down for details by double tapping on a person.</li>
+  <ul>
+   <li>Profile: name, picture, etc.</li>
+   <li>Summaries: RADs received and given, total RADs, etc.</li>
+  </ul>
+  <li>Specify RADs/day. The default is one per day, but it could be 100 or any other number an individual user prefers.</li>
+  <li>This list can be presented by time periods (<em>e.g.</em>, per month), “with most RIGHTs,” “with most LEFTs,” “Banners created,” “not mentioned for N days,” etc.</li>
+ </ul>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Alignment</h1>
+ <table>
+ <tbody style="font-size:smaller; vertical-align:top; ">
+  <tr>
+   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Impact</td>
+  </tr>
+  <tr>
+   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What for?</td>
+   <td>
+    <ul>
+     <li></li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Purpose</td>
+  </tr>
+  <tr>
+   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Why?</td>
+   <td>
+    <ul>
+     <li></li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2">&nbsp;</td>
+  </tr>
+  <tr>
+   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Mission</td>
+  </tr>
+  <tr>
+   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What?</td>
+   <td>
+    <ul>
+     <li></li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">When?</td>
+   <td>
+    <ul>
+     <li></li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">How?</td>
+   <td>
+    <ul>
+     <li></li>
+    </ul>
+   </td>
+  </tr>
+ </tbody>
+</table>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Other</h1>
+ <ul>
+  <li><em>RADs!</em> and <em><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit?usp=sharing">Remark!</a></em> will eventually share a backend.</li>
+  <li>For more detail, see the <a href="https://docs.google.com/spreadsheets/d/1ckdZEl_SaNOSB6X-2_iSvvqXsAcDz-GnMtICpRByYdU/edit#gid=0">Limitless Clothing RAD Distribution</a>, a manual prototype of RADs.</li>
+ </ul>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Tech Platforms</h1>
+ <ul>
+  <li>iOS, Android, Web.</li>
+  <li>React Native/Flutter, NodeJS</li>
+ </ul>
+
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
+ <ul>
+  <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
+  <ul>
+    <li><a>EN</a>: <a></a></li>
+    <li><a>ES</a>: <a></a></li>
+    <li>For the Impatient: RADs, PRI, etc.: <a></a></li>
+    <li>Frequently asked questions (FAQ): <a></a></li>
+  </ul>
+  <li>The Missing Chapters,</li>
+  <ul>
+    <li><a>RADICAL COIN</a></li>
+    <li><a>RADICAL LAND</a></li>
+    <li><a>RADICAL GOVERNMENT</a></li> 
+  </ul>
+  <li>rCompanies</li>
+  <ul>
+    <li>rPRADERA MEDIA</li>
+    <ul>
+      <li><a>PRADERA SHELF</a></li>
+      <li><a>PRADERA READER</a></li>
+      <li><a>RADICALS.LIVE!</a></li>
+      <li><a>RADICAL MBA</a></li>  
+    </ul>
+    <li><a>rHatchery</a></li>
+    <li><a>rCircuit</a></li>
+    <li><a>rPlayGym</a></li>
+    <li><a>rEnsemble</a></li>
+    <ul>
+      <li><a>rTranslate</a></li>
+      <li><a>rSparkle</a></li>
+      <li><a>rStayHome</a></li>
+      <li><a>KidsCare</a></li>
+    </ul>
+  </ul>
+  <li>Startups</li>
+  <ul>
+    <li><a>rBuddyNeighbor</a></li>
+    <li><a>rNextBright</a></li>
+    <li><a>rHintersoft</a></li> 
+  </ul>
+  <li>rProjects</li>
+  <ul>
+    <li><a>REMARK!</a></li>
+    <li><a>RADs!</a></li>
+    <li><a>Attentive UI</a></li>
+  </ul>
+ </ul>
