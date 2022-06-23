@@ -42,6 +42,7 @@ image:    "pradera-background.svg"
  </ul>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Alignment</h1>
+ a
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
@@ -102,6 +103,7 @@ image:    "pradera-background.svg"
   </tr>
  </tbody>
  </table>
+b
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Other</h1>
  <ul>
