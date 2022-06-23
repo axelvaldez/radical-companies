@@ -1,8 +1,8 @@
 ---
 layout:   post
 title:    "RADs!"
-subtitle: "From Gig Subsistence to Co-Onwership"
-authors:  "Jose Leal, Matt Perez"
+subtitle: "Keeping Track (App)"
+authors:  "Matt Perez"
 image:    "pradera-background.svg"
 ---
 
