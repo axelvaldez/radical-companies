@@ -48,10 +48,10 @@ image:    "pradera-background.svg"
    <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Impact</td>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What for?</td>
+   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What for?</td>
    <td>
     <ul>
-     <li></li>
+     <li>A tool for remembering and keeping affine groups connected</li>
     </ul>
    </td>
   </tr>
@@ -59,10 +59,10 @@ image:    "pradera-background.svg"
    <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Purpose</td>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Why?</td>
+   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">Why?</td>
    <td>
     <ul>
-     <li></li>
+     <li>To support RAD Distributions.</li>
     </ul>
    </td>
   </tr>
@@ -73,10 +73,14 @@ image:    "pradera-background.svg"
    <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Mission</td>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What?</td>
+   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What?</td>
    <td>
     <ul>
-     <li></li>
+     <li>Build a  system to,</li>
+     <ul>
+      <li>Keep track of people and Banners who are candidates for getting RADs.</li>
+      <li>eep track of people you need to give feedback to.</li>
+      <li>There is no hard criteria for this and could be any kind of contribution, whatever the user considers valuable. It could be the number of checkins, but it could also be a significant conversation.</li>
     </ul>
    </td>
   </tr>
