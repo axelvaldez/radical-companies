@@ -45,7 +45,7 @@ image:    "pradera-background.svg"
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Impact</td>
+   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; text-align:center; ">Impact</td>
   </tr>
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What for?</td>
@@ -56,7 +56,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Purpose</td>
+   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; text-align:center; ">Purpose</td>
   </tr>
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">Why?</td>
@@ -75,7 +75,7 @@ image:    "pradera-background.svg"
    <td colspan="2">&nbsp;</td>
   </tr>
   <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Mission</td>
+   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; text-align:center; ">Mission</td>
   </tr>
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What?</td>
