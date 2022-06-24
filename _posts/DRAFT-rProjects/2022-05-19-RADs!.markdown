@@ -76,18 +76,16 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What?</td>
-   <td>5
-    <ul>4
+   <td>
+    <ul>
      <li>Build a  system to,</li>3
      <ul>
       <li>Keep track of people and Banners who are candidates for getting <span style="font-size:smaller; ">RAD</span>s.</li>
       <li>Keep track of people you need to give feedback to.</li>
       <li>There is no hard criteria for this and could be any kind of contribution, whatever the user considers valuable. It could be the number of checkins, but it could also be a significant conversation.</li>
     </ul>
-    <!-- >
-   </td>1
+   </td>
   </tr>
-  -->
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">When?</td>
    <td>
@@ -96,11 +94,6 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
- </tbody>
- </table>
-
- <table>
- <tbody>
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">How?</td>
    <td>
