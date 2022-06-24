@@ -78,7 +78,7 @@ image:    "pradera-background.svg"
      <li>Build a  system to,</li>
      <ul>
       <li>Keep track of people and Banners who are candidates for getting <span style="font-size:smaller; ">RAD</span>s.</li>
-      <li>eep track of people you need to give feedback to.</li>
+      <li>Keep track of people you need to give feedback to.</li>
       <li>There is no hard criteria for this and could be any kind of contribution, whatever the user considers valuable. It could be the number of checkins, but it could also be a significant conversation.</li>
     </ul>
    </td>
