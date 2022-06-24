@@ -56,7 +56,8 @@ image:    "pradera-background.svg"
  </table>
 
 <table>
- <tbody style="font-size:smaller; vertical-align:top; ">  <tr>
+ <tbody style="font-size:smaller; vertical-align:top; ">
+  <tr>
    <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; text-align:center; ">Impact</td>
   </tr>
   <tr>
@@ -67,6 +68,11 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
+ </tbody>
+ </table>
+
+<table>
+ <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
    <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; text-align:center; ">Purpose</td>
   </tr>
@@ -77,9 +83,12 @@ image:    "pradera-background.svg"
      <li>To support <span style="font-size:smaller; ">RAD</span> Distributions.</li>
     </ul>
    </td>
-  <tr>
-   <td colspan="2">&nbsp;</td>
   </tr>
+ </tbody>
+ </table>
+
+<table>
+ <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
    <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; text-align:center; ">Mission</td>
   </tr>
