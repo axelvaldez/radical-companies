@@ -71,8 +71,10 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
+    <!-- >
  </tbody>
  </table>
+<-->
 
 <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
