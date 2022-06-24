@@ -63,7 +63,6 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
-
   <tr>
    <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Purpose</td>
   </tr>
@@ -78,7 +77,6 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Mission</td>
   </tr>
-
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What?</td>
    <td>
@@ -89,13 +87,7 @@ image:    "pradera-background.svg"
       <li>Keep track of people you need to give feedback to.</li>
       <li>There is no hard criteria for this and could be any kind of contribution, whatever the user considers valuable. It could be the number of checkins, but it could also be a significant conversation.</li>
     </ul>
-
-<!--
-   </td>
-  </tr>
--->
-
-  <tr>
+ <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">When?</td>
    <td>
     <ul>
@@ -103,7 +95,6 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
-
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">How?</td>
    <td>
@@ -112,11 +103,6 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
-
-<!--
- </tbody>
- </table>
--->
 
 <!--
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Other</h1>
