@@ -59,7 +59,7 @@ image:    "pradera-background.svg"
    <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; text-align:center; ">Purpose</td>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">Why?</td>
+   4<td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">Why?</td>
    <td>
     <ul>
      <li>To support <span style="font-size:smaller; ">RAD</span> Distributions.</li>
@@ -73,7 +73,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What?</td>
-   <td>
+  3<td>
     <ul>
      <li>Build a  system to,</li>
      <ul>
@@ -81,11 +81,11 @@ image:    "pradera-background.svg"
       <li>Keep track of people you need to give feedback to.</li>
       <li>There is no hard criteria for this and could be any kind of contribution, whatever the user considers valuable. It could be the number of checkins, but it could also be a significant conversation.</li>
     </ul>
-   </td>
+   1</td>
   </tr>
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">When?</td>
-   <td>
+   2<td>
     <ul>
      <li>&nbsp;</li>
     </ul>
