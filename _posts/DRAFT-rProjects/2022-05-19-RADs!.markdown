@@ -122,7 +122,7 @@ image:    "pradera-background.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Other</h1>
  <ul>
   <li><em>RADs!</em> and <em><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit?usp=sharing">Remark!</a></em> will eventually share a backend.</li>
-  <li>For more detail, see the <a href="https://docs.google.com/spreadsheets/d/1ckdZEl_SaNOSB6X-2_iSvvqXsAcDz-GnMtICpRByYdU/edit#gid=0">Limitless Clothing <span style="font-size:smaller; ">RAD</span> Distribution</a>, a manual prototype of<span style="font-size:smaller; ">RAD</span>s.</li>
+  <li>For more detail, see the <a href="https://docs.google.com/spreadsheets/d/1ckdZEl_SaNOSB6X-2_iSvvqXsAcDz-GnMtICpRByYdU/edit#gid=0">Limitless Clothing <span style="font-size:smaller; ">RAD</span> Distribution</a>, a manual prototype of <span style="font-size:smaller; ">RAD</span>s.</li>
  </ul>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Tech Platforms</h1>
