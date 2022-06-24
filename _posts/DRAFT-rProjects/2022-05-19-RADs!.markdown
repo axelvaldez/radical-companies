@@ -87,7 +87,6 @@ image:    "pradera-background.svg"
       <li>Keep track of people you need to give feedback to.</li>
       <li>There is no hard criteria for this and could be any kind of contribution, whatever the user considers valuable. It could be the number of checkins, but it could also be a significant conversation.</li>
     </ul>
-  </tr>
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">When?</td>
    <td>
@@ -105,23 +104,18 @@ image:    "pradera-background.svg"
    </td>
   </tr>
 
-<!--
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Other</h1>
  <ul>
   <li><em>RADs!</em> and <em><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit?usp=sharing">Remark!</a></em> will eventually share a backend.</li>
   <li>For more detail, see the <a href="https://docs.google.com/spreadsheets/d/1ckdZEl_SaNOSB6X-2_iSvvqXsAcDz-GnMtICpRByYdU/edit#gid=0">Limitless Clothing <span style="font-size:smaller; ">RAD</span> Distribution</a>, a manual prototype of <span style="font-size:smaller; ">RAD</span>s.</li>
  </ul>
--->
 
-<!--
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Tech Platforms</h1>
  <ul>
   <li>iOS, Android, Web.</li>
   <li>React Native/Flutter, NodeJS</li>
  </ul>
--->
 
-<!--
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
  <ul>
   <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
@@ -170,4 +164,3 @@ image:    "pradera-background.svg"
     <li><a>Attentive UI</a></li>
   </ul>
  </ul>
--->
