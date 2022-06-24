@@ -91,9 +91,6 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
-
-  <table>
-  <tbody>
    <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">How?</td>
    <td>
