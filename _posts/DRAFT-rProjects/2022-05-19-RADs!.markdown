@@ -65,12 +65,6 @@ image:    "pradera-background.svg"
      <li>To support <span style="font-size:smaller; ">RAD</span> Distributions.</li>
     </ul>
    </td>
-  </tr>
- </tbody>
- </table>
-
- <table>
- <tbody>
   <tr>
    <td colspan="2">&nbsp;</td>
   </tr>
@@ -89,6 +83,11 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
+ </tbody>
+ </table>
+
+ <table>
+ <tbody>
   <tr>
    <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">When?</td>
    <td>
