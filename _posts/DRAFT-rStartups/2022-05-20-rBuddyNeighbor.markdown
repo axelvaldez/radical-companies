@@ -12,12 +12,6 @@ image:    "pradera-background.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
  <p></p>
- 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Making It Viral</h1>
- <p></p>
- 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Distribution Cycles</h1>
- <p></p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Alignment</h1>
  <table>
