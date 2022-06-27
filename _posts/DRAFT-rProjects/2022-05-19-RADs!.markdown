@@ -34,7 +34,6 @@ image:    "pradera-background.svg"
  <p>The app supports a manual RESET (<em>i.e.</em>, reset all my lists and allocation to factory setting, so to speak), a Global RESET block (<em>i.e.</em>, don’t accept Global RESET), and even a manual UN-RESET (<em>i.e.</em>, undo the latest RESET, whether Global or Manual).</p>
 -->
 
-<!--
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Also Supports</h1>
  <ul>
   <li>Adding people: name, picture, miscellaneous data. This can be done manually or through integration with other software.</li>
@@ -47,7 +46,6 @@ image:    "pradera-background.svg"
   <li>Specify <span style="font-size:smaller; ">RAD</span>s/day. The default is one per day, but it could be 100 or any other number an individual user prefers.</li>
   <li>This list can be presented by time periods (<em>e.g.</em>, per month), “with most RIGHTs,” “with most LEFTs,” “Banners created,” “not mentioned for N days,” etc.</li>
  </ul>
--->
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Alignment</h1>
  <table>
