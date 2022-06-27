@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "PRADERA READER"
+title:    "PRADERA Reader"
 subtitle: "A PRADERA MEDIA Tool"
 authors:  "Matt Perez"
 image:    "PRADERA-background.svg"
