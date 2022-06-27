@@ -50,19 +50,25 @@ image:    "pradera-background.svg"
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What?</td>
    <td>
-    <p>TBD</p>
+    <ul>
+     <li>TBD</li>
+    </ul>
    </td>
   </tr>
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">When?</td>
    <td>
-    <p>TBD></p>
+    <ul>
+     <li>TBD</li>
+    </ul>
    </td>
   </tr>
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">How?</td>
    <td>
-    <p>TBD></p>
+    <ul>
+     <li>TBD</li>
+    </ul>
    </td>
   </tr>
  </tbody>
