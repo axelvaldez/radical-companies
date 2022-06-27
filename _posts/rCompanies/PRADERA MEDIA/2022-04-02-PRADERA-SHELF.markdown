@@ -24,10 +24,10 @@ image:    "PRADERA-background.svg"
    <li>Get a discount coupon to buy a paper copy of the book at the hosting store.</li>
    <li>See PRADERA READER.</li>
   </ul>
- <p>The SHELF is designed to be noticeable. A couple of elevated chairs could serve as a SHELF or maybe a single booth. This would be a space for quiet reading and also for readers to meet and talk (i.e., instant book clubs).</p>
+ <p>The SHELF is designed to be noticeable. A couple of elevated chairs could serve as a SHELF or maybe a single booth. This would be a space for quiet reading and also for readers to meet and talk (<em>i.e.</em>, instant book clubs).</p>
  <p>What’s disruptive about this is that,</p>
   <ul>
-   <li>The SHELF is different and becomes a conversation piece (i.e., love or hate it, it gets mentioned online).</li>
+   <li>The SHELF is different and becomes a conversation piece (<em>i.e.</em>, love or hate it, it gets mentioned online).</li>
    <li>The store gets increased foot traffic.</li>
    <li>More book copies are sold.</li>
    <li>PRADERA MEDIA gets all contact info (opt-in) collected at the SHELF.</li>
