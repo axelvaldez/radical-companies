@@ -34,7 +34,7 @@ image:    "PRADERA-background.svg"
   </ul>
  <p>Footprints could span from a single-user booth, to a platform with several chairs in it, or even a counter where people could sit and read.</p>
  <p style="text-align:center; width:90%; margin:auto; margin-bottom:20px; ">
-  <img src="/radicalcompanies.com/assets/img/pradera-reader.svp" alt="Three possible configurations for PRADERA READERs. One configuration is a comfortable padded chair within an enclosure. Another would be a cushioned love seath with a thin wall at one end of it. Yet another configuration would be a counter with high chairs." title="PRADERA Reader configurations.">
+  <img src="/assets/img/pradera-reader.svp" alt="Three possible configurations for PRADERA READERs. One configuration is a comfortable padded chair within an enclosure. Another would be a cushioned love seath with a thin wall at one end of it. Yet another configuration would be a counter with high chairs." title="PRADERA Reader configurations.">
  </p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
