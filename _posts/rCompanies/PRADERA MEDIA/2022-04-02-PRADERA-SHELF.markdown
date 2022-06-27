@@ -22,8 +22,8 @@ image:    "PRADERA-background.svg"
    <li>Upload reviews and other content, such as text, audio, or video (see PRADERA MAKE).</li>
    <li>Download the first few chapters of a book for free or the whole book at a discount.</li>
    <li>Get a discount coupon to buy a paper copy of the book at the hosting store.</li>
+   <li>See PRADERA READER.</li>
   </ul>
- <p>See PRADERA READER.</p>
  <p>The SHELF is designed to be noticeable. A couple of elevated chairs could serve as a SHELF or maybe a single booth. This would be a space for quiet reading and also for readers to meet and talk (i.e., instant book clubs).</p>
  <p>What’s disruptive about this is that,</p>
   <ul>
@@ -33,6 +33,9 @@ image:    "PRADERA-background.svg"
    <li>PRADERA MEDIA gets all contact info (opt-in) collected at the SHELF.</li>
   </ul>
  <p>Footprints could span from a single-user booth, to a platform with several chairs in it, or even a counter where people could sit and read.</p>
+ <p style="text-align:center; width:90%; margin:auto; margin-bottom:20px; ">
+  <img src="/assets/img/pradera-reader.svp" alt="Three different possible configurations for PRADERA READERs. One configuration is a comfortable padded chair within an enclosure. Another would be a cushioned love seath with a thin wall at one end of it. Yet another configuration would be a counter with high chairs." title="PRADERA Reader configurations.">
+ </p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
  <ul>
