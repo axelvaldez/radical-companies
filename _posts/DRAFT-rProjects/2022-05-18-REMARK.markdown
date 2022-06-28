@@ -82,8 +82,7 @@ image:    "pradera-background.svg"
    </td>
    <td>
     <ul>
-     <li>Release app's MVP to Apple/Android stores.</a>.
-     </li>
+     <li>Release app's MVP to Apple/Android stores.</a>.</li>
     </ul>
    </td>
   </tr>
@@ -92,7 +91,9 @@ image:    "pradera-background.svg"
     <p style="text-align:center; font-weight:bold; ">When?</p>
    </td>
    <td>
-    <p>In 2022.</p>
+    <ul>
+     <li>In 2022.</li>
+    </ul>
    </td>
   </tr>
   <tr>
@@ -100,7 +101,9 @@ image:    "pradera-background.svg"
     <p style="text-align:center; font-weight:bold; ">How?</p>
    </td>
    <td>
-    <p>TBD.</p>
+    <ul>
+     <li>TBD.</a>.</li>
+    </ul>
    </td>
   </tr>
  </tbody>
