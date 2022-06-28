@@ -102,7 +102,7 @@ image:    "pradera-background.svg"
    </td>
    <td>
     <ul>
-     <li>TBD.</a>.</li>
+     <li>TBD.</li>
     </ul>
    </td>
   </tr>
