@@ -81,7 +81,7 @@ image:    "pradera-background.svg"
  <p>The inspiration comes straight from our experience and success of the Nearsoft Academy project and from watching Beetroot work. People enter the program with little programming experience, not used to working in a team, and poor communication skills. They come out of it with better developed skills in all those areas.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">How It Works</h1>
- <p>Graduates can choose to join a legacy company, a self-managed company, or a RADICAL one (<em>e.g.</em>, a HINTERSOFT  instance).</p>
+ <p>Graduates can choose to join a legacy company, a self-managed company, or a RADICAL one (<em>e.g.</em>, a rHintersoft  instance).</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Mentoring</h1>
  <ul>
