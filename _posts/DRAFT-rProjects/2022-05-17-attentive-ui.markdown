@@ -56,9 +56,9 @@ image:    "pradera-background.svg"
     <p style="text-align:right; font-weight:bold; ">What</p>
    <td>
     <ul>
-     <li>Create an Attentie framework for apps to support morphing their UI dynamically.</li>
-     <li>Create an Attentive Machine Learning(AML)  engine to watch people's behavior when using a UI.</li>
-     <li>Use the AML results to  modify the UI via the Attentive framework.</li>
+     <li>Create an Attentive framework for apps to support morphing their UI dynamically.</li>
+     <li>Create an Attentive Machine Learning (AML) engine to watch people's behavior when using a UI.</li>
+     <li>Use the AML results to modify the UI via the Attentive framework.</li>
     </ul>
    </td>
   </tr>
