@@ -32,11 +32,11 @@ image:    "pradera-background.svg"
    <td colspan="2"></td>
   </tr>
   <tr>
-   <td colspan="2" style="text-align:center; font-weight:bold; border-right:1px solid black; ">Purpose</td>
+   <td colspan="2" style="text-align:center; font-weight:bold; ">Purpose</td>
   </tr>
   <tr>
    <td>
-    <p style="text-align:right; font-weight:bold; ">Why?</p>
+    <p style="text-align:right; font-weight:bold; border-right:1px solid black; ">Why?</p>
    </td>
    <td>
     <ul>
@@ -52,7 +52,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align:right; font-weight:bold; ">What</p>
+    <p style="text-align:right; font-weight:bold; border-right:1px solid black; ">What</p>
    <td>
     <ul>
      <li>Create an Attentive framework for apps to support morphing their UI dynamically.</li>
@@ -66,7 +66,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align:right; font-weight:bold; ">When</p>
+    <p style="text-align:right; font-weight:bold; border-right:1px solid black; ">When</p>
    </td>
    <td>
     <ul>
@@ -79,7 +79,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align:right; font-weight:bold; ">How</p>
+    <p style="text-align:right; font-weight:bold; border-right:1px solid black; ">How</p>
    </td>
    <td>
     <ul>
