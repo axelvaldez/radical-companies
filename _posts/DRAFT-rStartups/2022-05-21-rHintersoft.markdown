@@ -153,7 +153,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align:right; font-weight:bold; ">Predictable Recurring Income<br>(PRI)</p>
+    <p style="text-align:right; font-weight:bold; ">Predictable Recurring Income(PRI)</p>
    </td>
    <td>You decide how much wealth to extract from the company to take care of your recurring expenses (see <a href="#heading=h.y06dr3dikzaw">References</a>).
     <ul>
