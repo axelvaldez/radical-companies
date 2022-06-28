@@ -65,10 +65,6 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2"></td>
   </tr>
- </tbody>
- </table>
-
- <tbody>
  <table>
   <tr>
    <td>
@@ -83,6 +79,11 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2"></td>
   </tr>
+ </tbody>
+ </table>
+
+ <table>
+ <tbody>
   <tr>>
    <td>
     <p style="text-align:right; font-weight:bold; ">How</p>
