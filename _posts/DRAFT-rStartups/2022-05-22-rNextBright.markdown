@@ -90,10 +90,10 @@ image:    "pradera-background.svg"
   <li>Mentors get <a href="https://docs.google.com/document/u/1/d/17uegxy6GPeLsajIaM_6faQ0hdl56PqMXpJvLW37iJVg/edit">RADs</a>.</li>
  </ul>
  <h2 style="font-size:30px; ">Personal Branding</h2>
-  <table style="font-size:smaller; ">
+  <table style="font-size:smaller; vertical-align:top; ">
    <tr>
     <td style="width:6em;  ">
-     <p style="text-align:right; text-align:top; font-weight:bold; ">Program Outline</p>
+     <p style="text-align:right; font-weight:bold; ">Program Outline</p>
     </td>
     <td>
      <ul>
@@ -112,7 +112,7 @@ image:    "pradera-background.svg"
   <table style="font-size:smaller; ">
    <tr>
     <td style="width:6em;  ">
-     <p style="text-align:right; text-align:top; font-weight:bold; ">Program Outline</p>
+     <p style="text-align:right; font-weight:bold; ">Program Outline</p>
     </td>
     <td>
      <ul>
@@ -132,7 +132,7 @@ image:    "pradera-background.svg"
   <table style="font-size:smaller; ">
   <tr>
     <td style="width:6em;  ">
-    <p style="text-align:right; text-align:top; font-weight:bold; ">Program Outline</p>
+    <p style="text-align:right; font-weight:bold; ">Program Outline</p>
    </td>
    <td>
     <ul>
