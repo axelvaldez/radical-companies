@@ -93,7 +93,7 @@ image:    "pradera-background.svg"
   <table style="font-size:smaller; ">
    <tr>
     <td style="width:6em;  ">
-     <p style="text-align:right; text-align:top; ">Program Outline</p>
+     <p style="text-align:right; text-align:top; font-weight:bold; ">Program Outline</p>
     </td>
     <td>
      <ul>
@@ -112,7 +112,7 @@ image:    "pradera-background.svg"
   <table style="font-size:smaller; ">
    <tr>
     <td style="width:6em;  ">
-     <p style="text-align:right; text-align:top; ">Program Outline</p>
+     <p style="text-align:right; text-align:top; font-weight:bold; ">Program Outline</p>
     </td>
     <td>
      <ul>
@@ -132,7 +132,7 @@ image:    "pradera-background.svg"
   <table style="font-size:smaller; ">
   <tr>
     <td style="width:6em;  ">
-    <p style="text-align:right; text-align:top; ">Program Outline</p>
+    <p style="text-align:right; text-align:top; font-weight:bold; ">Program Outline</p>
    </td>
    <td>
     <ul>
