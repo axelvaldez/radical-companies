@@ -90,6 +90,8 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td colspan="2"></td>
+<!--
   </tr>
  </tbody>
  </table>
+-->
