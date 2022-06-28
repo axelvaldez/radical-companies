@@ -77,6 +77,11 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2"></td>
   </tr>
+ </tbody>
+ </table>
+
+ <tbody>
+ <table>
   <tr>
    <td>
     <p style="text-align:right; font-weight:bold; border-right:1px solid black; padding-right:1em; ">How</p>
