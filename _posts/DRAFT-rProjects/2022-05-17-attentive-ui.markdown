@@ -31,11 +31,6 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2"></td>
   </tr>
- </tbody>
- </table>
-
- <tbody>
- <table>
   <tr>
    <td colspan="2" style="text-align:center; font-weight:bold; ">Purpose</td>
   </tr>
