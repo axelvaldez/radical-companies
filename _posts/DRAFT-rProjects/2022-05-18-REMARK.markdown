@@ -70,11 +70,6 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
- </tbody>
- </table>
-
- <table>
- <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
    <td colspan="2"></td>
   </tr>
@@ -108,6 +103,11 @@ image:    "pradera-background.svg"
     <p>TBD.</p>
    </td>
   </tr>
+ </tbody>
+ </table>
+
+ <table>
+ <tbody style="font-size:smaller; vertical-align:top; ">
  </tbody>
  </table>
 
