@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "Remark!"
-subtitle: "Tangble Feedback (App)"
+subtitle: "Tangible Feedback (App)"
 authors:  "Matt Perez"
 image:    "pradera-background.svg"
 ---
