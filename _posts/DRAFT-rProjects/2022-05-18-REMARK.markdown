@@ -78,7 +78,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align:right; ">What?</p>
+    <p style="text-align:center; font-weight:bold; ">What?</p>
    </td>
    <td>
     <ul>
@@ -89,7 +89,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align:right; ">When?</p>
+    <p style="text-align:center; font-weight:bold; ">When?</p>
    </td>
    <td>
     <p>In 2022.</p>
@@ -97,7 +97,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align:right; ">How?</p>
+    <p style="text-align:center; font-weight:bold; ">How?</p>
    </td>
    <td>
     <p>TBD.</p>
