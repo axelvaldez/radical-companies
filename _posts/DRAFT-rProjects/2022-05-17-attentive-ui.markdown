@@ -48,11 +48,6 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2"></td>
   </tr>
- </tbody>
- </table>
-
- <tbody>
- <table>
   <tr>
    <td colspan="2" style="text-align:center; font-weight:bold; ">Mission</td>
   </tr>
@@ -70,6 +65,11 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2"></td>
   </tr>
+ </tbody>
+ </table>
+
+ <tbody>
+ <table>
   <tr>
    <td>
     <p style="text-align:right; font-weight:bold; ">When</p>
