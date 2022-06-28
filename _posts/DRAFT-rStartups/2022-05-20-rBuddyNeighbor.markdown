@@ -17,7 +17,7 @@ image:    "pradera-background.svg"
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; border:1px solid black; ">Impact</td>
+   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Impact</td>
   </tr>
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What for?</td>
