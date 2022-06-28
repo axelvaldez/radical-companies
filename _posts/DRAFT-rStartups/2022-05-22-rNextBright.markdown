@@ -152,7 +152,7 @@ image:    "pradera-background.svg"
  <p>Integrate employers into the program and create opportunities for them to participate as early as possible in the process. They are the beneficiaries of making this happen.</p>
  <ul>
   <li>Employers: employer developers mentoring the less experienced.</li>
-  <li>Traditional vs NextBright Sourcing – Hire graduates for a fee or hire them for $<code>Y</code>/hire (where $<code>Y</code> &lt; $<code>X</code>) by prepaying for <code>N</code> hires. Requires an in-depth Kickoff.</li>
+  <li>Traditional vs NextBright Sourcing – Hire graduates for a fee ($<code>X</code>) vs hire them for $<code>Y</code>/hire (where $<code>Y</code> &lt; $<code>X</code>) by prepaying for <code>N</code> hires. Requires an in-depth Kickoff.</li>
   <li>Either of above, but with discounts/credits for participating in the training (mentorship).</li>
  </ul>
 
