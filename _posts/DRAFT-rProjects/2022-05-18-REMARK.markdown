@@ -33,7 +33,7 @@ image:    "pradera-background.svg"
  </ul>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Credits</h1>
- <p>The original idea comes from Cynthia Typaldos.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
+ <p>The original idea comes from Cynthia Typaldos.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> (see <a href="https://www.linkedin.com/in/typaldos/">https://www.linkedin.com/in/typaldos/</a>).</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">x Alignment</h1>
  <table>
@@ -110,11 +110,6 @@ image:    "pradera-background.svg"
   <li>REMARK! and <a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#">RADs!</a> will probably share a backend.</li>
   <li>Later, provide a decentralized highlight and annotation service.</li>
  </ul>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">ENDNOTES</h1>
- <ol>
-  <li>For more about Cythia Typaldos, see <a href="https://www.linkedin.com/in/typaldos/">https://www.linkedin.com/in/typaldos/</a>.</li>
- </ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
  <ul>
