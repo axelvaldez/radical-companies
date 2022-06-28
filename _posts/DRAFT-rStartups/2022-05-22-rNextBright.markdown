@@ -92,7 +92,7 @@ image:    "pradera-background.svg"
  <h2 style="font-size:30px; font-family:Courier New, monospace;  ">Personal Branding</h2>
   <table style="font-size:smaller; text-align:top; ">
    <tr>
-    <td style=" ">
+    <td style="width:10em;  ">
      <p style="text-align:right; ">Program Outline</p>
     </td>
     <td>
@@ -111,7 +111,7 @@ image:    "pradera-background.svg"
  <h2 style="font-size:30px; font-family:Courier New, monospace;  ">Interview Shine</h2>
   <table style="font-size:smaller; text-align:top; ">
    <tr>
-    <td>
+    <td style="width:10em;  ">
      <p style="text-align:right; ">Program Outline</p>
     </td>
     <td>
@@ -131,7 +131,7 @@ image:    "pradera-background.svg"
  <h2 style="font-size:30px; font-family:Courier New, monospace;  ">English Bootcamp</h2>
   <table style="font-size:smaller; text-align:top; ">
   <tr>
-   <td>
+    <td style="width:10em;  ">
     <p style="text-align:right; ">Program Outline</p>
    </td>
    <td>
