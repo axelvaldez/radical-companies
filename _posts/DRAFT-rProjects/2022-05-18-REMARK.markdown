@@ -45,18 +45,14 @@ image:    "pradera-background.svg"
     <p style="text-align: right">What for?</p>
    </td>
    <td>
-   <ul>
-<li>Readers can give, and writers can get,  more specific feedback for their content.
-<li>Authors can monetize their content in a way that is intuitive for readers.
-</li>
-</ul>
+    <ul>
+     <li>Readers can give, and writers can get,  more specific feedback for their content.</li>
+     <li>Authors can monetize their content in a way that is intuitive for readers.</li>
+    </ul>
    </td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
+   <td colspan="2" ></td>
   </tr>
   <tr>
    <td colspan="2" >
@@ -64,36 +60,31 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td><p style="text-align: right">
-Why?</p>
+   <td>
+    <p style="text-align: right">Why?</p>
    </td>
    <td>
-<ul>
-<li>Introduce people to <span style="font-size:smaller; ">RAD</span> Distributions.
-<li>Provide tangible feedback for writers.
-<li>Generate a source of monetary support for writers..
-</li>
-</ul>
+    <ul>
+     <li>Introduce people to <span style="font-size:smaller; ">RAD</span> Distributions.</li>
+     <li>Provide tangible feedback for writers.</li>
+     <li>Generate a source of monetary support for writers.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2"></td>
+  </tr>
+  <tr>
+   <td colspan="2"><h3>Mission</h3>
    </td>
   </tr>
   <tr>
    <td>
+    <p style="text-align: right">What?</p>
    </td>
    <td>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" >
-<h3>Mission</h3>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-What?</p>
-   </td>
-   <td>
-<ul>
-<li>See 
+    <ul>
+     <li>See 
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Other</h1>
  <ul>
