@@ -11,7 +11,7 @@ image:    "pradera-background.svg"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
- <img src="/assets/img/remark-buttons-vertical.svg" style="height:10em; float:left; ">
+ <img src="/assets/img/remark-buttons-vertical.svg" style="height:10em; float:left; padding-right:5px; ">
  <p>The REMARK! buttons are a floating button combo that readers can use to give feedback to authors. Clicking on the <code>plus</code> button records a positive response to specific text that they highlight; the <code>minus</code> button indicates some form of dissatisfaction with a highlighted segment.</p>
  <p>Readers can leave comments for each fragment they click on. Other visitors to the site can choose to see all comments or not (<em>i.e.</em>, default is OFF).</p>
 
