@@ -7,27 +7,18 @@ image:    "pradera-background.svg"
 ---
 
 <div style="display: none; ">
- <p>For authors, bloggers, and podcasters REMARK! is primarily a source of specific, actionable feedback about their content. They get the highlighted passages, the number of positive and negative clicks, and comments associated with each. These may or may not get monetized.</p>
+ <p>UIs have gone from functional, to graphical, to gesture, to responsive. The Attentive UI is what comes next. As the user works with the US, it auto-morphs to make the UI fit the user’s behavior. This could be as simple as rearranging menus and making the most used items easier to reach in a given context. For example, with Photoshop, I may use the brush tool a lot in one case (painting), and I may not use it at all in others.</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
  <p>UIs have gone from functional, to graphical, to gesture, to responsive. The Attentive UI is what comes next. As the user works with the US, it auto-morphs to make the UI fit the user’s behavior. This could be as simple as rearranging menus and making the most used items easier to reach in a given context. For example, with Photoshop, I may use the brush tool a lot in one case (painting), and I may not use it at all in others.</p>
+ <table>
+ <tbody>
   <tr>
-   <td>
-    Impact
-   </td>
+   <td colspan="2">Impact</td>
   </tr>
   <tr>
-   <td>
-    What for?
-   </td>
-  </tr>
-  <tr>
-   <td></td>
-   <td></td>
-   </td>
-  </tr>
-  <tr>
+   <td>What for?</td>
    <td>
     <ul>
      <li>UIs adapt to each user and lower the cognitive load of using computers.</li>
@@ -36,19 +27,13 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+   <td colspan="2"></td>
   </tr>
   <tr>
-   <td>
-<h3>Purpose</h3>
- <table>
-  <tr>
-   <td>
-    Why?
-   </td>
+   <td colspan="2">Purpose</td>
   </tr>
   <tr>
+   <td>Why?</td>
    <td>
     <ul>
      <li>Let people do creative things by making the UI less obtrusive.</li>
@@ -56,20 +41,13 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+   <td colspan="2"></td>
   </tr>
   <tr>
-   <td>
-    Mission
-   </td>
+   <td colspan="2">Mission</td>
   </tr>
   <tr>
-   <td>
-    What,
-    When,
-    How?
-   </td>
+   <td>What</td>
    <td>
     <ul>
      <li>Create an Attentie framework for apps to support morphing their UI dynamically.</li>
@@ -79,7 +57,29 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+   <td colspan="2"></td>
   </tr>
+  <tr>
+   <td>When</td>
+   <td>
+    <ul>
+     <li>TBD.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2"></td>
+  </tr>
+  <tr>
+   <td>How</td>
+   <td>
+    <ul>
+     <li>TBD.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2"></td>
+  </tr>
+ </tbody>
  </table>
