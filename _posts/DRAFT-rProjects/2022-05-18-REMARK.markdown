@@ -35,7 +35,7 @@ image:    "pradera-background.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Credits</h1>
  <p>The original idea comes from Cynthia Typaldos.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Alignment</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">x Alignment</h1>
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
