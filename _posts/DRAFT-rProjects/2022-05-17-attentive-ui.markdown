@@ -19,7 +19,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align:right; font-weight:bold; width:8em; ">What for?</p>
+    <p style="text-align:right; font-weight:bold; border-right:1px solid black; width:8em; ">What for?</p>
    </td>
    <td>
     <ul>
@@ -32,7 +32,7 @@ image:    "pradera-background.svg"
    <td colspan="2"></td>
   </tr>
   <tr>
-   <td colspan="2" style="text-align:center; font-weight:bold; ">Purpose</td>
+   <td colspan="2" style="text-align:center; font-weight:bold; border-right:1px solid black; ">Purpose</td>
   </tr>
   <tr>
   <tr>
@@ -49,7 +49,7 @@ image:    "pradera-background.svg"
    <td colspan="2"></td>
   </tr>
   <tr>
-   <td colspan="2" style="text-align:center; font-weight:bold; ">Mission</td>
+   <td colspan="2" style="text-align:center; font-weight:bold; border-right:1px solid black; ">Mission</td>
   </tr>
   <tr>
    <td>
