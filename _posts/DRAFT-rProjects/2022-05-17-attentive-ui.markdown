@@ -41,7 +41,7 @@ image:    "pradera-background.svg"
    </td>
    <td>
     <ul>
-     <li>Let people do creative things by making the UI less obtrusive.</li>
+     <li>Let people do their thing by making the UI less obtrusive.</li>
     </ul>
    </td>
   </tr>
