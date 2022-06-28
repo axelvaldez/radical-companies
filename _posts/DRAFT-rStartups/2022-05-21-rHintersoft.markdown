@@ -87,7 +87,7 @@ image:    "pradera-background.svg"
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
    <td>
-    <p style="text-align: right">Joining a Client</p>
+    <p style="text-align:right; font-weight:bold; ">Joining a Client</p>
    </td>
    <td>
     <ul>
@@ -100,7 +100,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">Leaving a Client</p>
+    <p style="text-align:right; font-weight:bold; ">Leaving a Client</p>
    </td>
    <td>
     <ul>
@@ -114,7 +114,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">Predictability</p>
+    <p style="text-align:right; font-weight:bold; ">Predictability</p>
    </td>
    <td>
     <ul>
@@ -127,7 +127,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">Investments</p>
+    <p style="text-align:right; font-weight:bold; ">Investments</p>
    </td>
    <td>
     <ul>
@@ -140,7 +140,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">Mind the Business</p>
+    <p style="text-align:right; font-weight:bold; ">Mind the Business</p>
    </td>
    <td>
     <ul>
@@ -153,7 +153,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">Predictable Recurring Income<br>(PRI)</p>
+    <p style="text-align:right; font-weight:bold; ">Predictable Recurring Income<br>(PRI)</p>
    </td>
    <td>You decide how much wealth to extract from the company to take care of your recurring expenses (see <a href="#heading=h.y06dr3dikzaw">References</a>).
     <ul>
@@ -166,7 +166,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">Stay Healthy</p>
+    <p style="text-align:right; font-weight:bold; ">Stay Healthy</p>
    </td>
    <td>
     <ul>
@@ -179,7 +179,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">Experiment and Thrive</p>
+    <p style="text-align:right; font-weight:bold; ">Experiment and Thrive</p>
    </td>
    <td>
     <ul>
@@ -192,7 +192,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">Miscellaneous</p>
+    <p style="text-align:right; font-weight:bold; ">Miscellaneous</p>
    </td>
    <td>
     <ul>
