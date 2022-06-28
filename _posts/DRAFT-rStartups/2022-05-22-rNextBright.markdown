@@ -54,7 +54,7 @@ image:    "pradera-background.svg"
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">When?</td>
    <td>
     <ul>
-     <li>TDiscover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for rNextBright graduates.BD</li>
+     <li>Within 12 months.</li>
     </ul>
    </td>
   </tr>
@@ -62,7 +62,7 @@ image:    "pradera-background.svg"
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">How?</td>
    <td>
     <ul>
-     <li>Within 12 months.</li>
+     <li>TDiscover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for rNextBright graduates.BD</li>
     </ul>
    </td>
   </tr>
