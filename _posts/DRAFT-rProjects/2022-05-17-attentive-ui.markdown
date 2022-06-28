@@ -73,6 +73,7 @@ image:    "pradera-background.svg"
   <tr>
    <td>
     <p style="text-align:right; font-weight:bold; border-right:1px solid black; padding-right:1em; ">What</p>
+   </td>
    <td>
     <ul>
      <li>Create an Attentive framework for apps to support morphing their UI dynamically.</li>
