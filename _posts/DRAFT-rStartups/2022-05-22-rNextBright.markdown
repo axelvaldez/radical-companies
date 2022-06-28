@@ -90,7 +90,7 @@ image:    "pradera-background.svg"
   <li>Mentors get <a href="https://docs.google.com/document/u/1/d/17uegxy6GPeLsajIaM_6faQ0hdl56PqMXpJvLW37iJVg/edit">RADs</a>.</li>
  </ul>
  <h2 style="font-size:30px; font-family:Courier New, monospace;  ">Personal Branding</h2>
-  <table>
+  <table style="font-size:smaller; text-align:top; ">
    <tr>
     <td>
      <p style="text-align: right">Program Outline</p>
@@ -129,7 +129,7 @@ image:    "pradera-background.svg"
    </tr>
   </table>
  <h2 style="font-size:30px; font-family:Courier New, monospace;  ">English Bootcamp</h2>
-  <table>
+  <table style="font-size:smaller; text-align:top; ">
   <tr>
    <td>
     <p style="text-align: right">Program Outline</p>
