@@ -35,7 +35,6 @@ image:    "pradera-background.svg"
    <td colspan="2" style="text-align:center; font-weight:bold; border-right:1px solid black; ">Purpose</td>
   </tr>
   <tr>
-  <tr>
    <td>
     <p style="text-align:right; font-weight:bold; ">Why?</p>
    </td>
@@ -49,7 +48,7 @@ image:    "pradera-background.svg"
    <td colspan="2"></td>
   </tr>
   <tr>
-   <td colspan="2" style="text-align:center; font-weight:bold; border-right:1px solid black; ">Mission</td>
+   <td colspan="2" style="text-align:center; font-weight:bold; ">Mission</td>
   </tr>
   <tr>
    <td>
@@ -91,3 +90,5 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2"></td>
   </tr>
+ </tbody>
+ </table>
