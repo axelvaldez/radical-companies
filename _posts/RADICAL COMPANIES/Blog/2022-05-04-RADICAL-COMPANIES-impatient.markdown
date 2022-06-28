@@ -320,13 +320,13 @@ image:    "dynamic-distribution-1.svg"
   <li id="fn5"><a href="#fnref5"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>James Owen. <a href="https://www.goodreads.com/quotes/1279415-it-ain-t-bragging-if-you-ve-done-it-there-s-nothing-wrong">Drawing Out the Dragons: A Meditation on Art, Destiny, and the Power of Choice</a> (alt., <a href="https://diigo.com/0ofgkz">here</a>). 2014.</li>
  </ol>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">RELATED</h1>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
  <ul>
-  <li>RADICAL COMPANIES,</li>
+  <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
   <ul>
     <li><a>EN</a>: <a></a></li>
     <li><a>ES</a>: <a></a></li>
-    <li>For the Impatient: RADs, PRI, etc.: <a></a></li>
+    <li>For the Impatient: <span style="font-size:smaller; ">RAD</span>s, PRI, etc.: <a></a></li>
     <li>Frequently asked questions (FAQ): <a></a></li>
   </ul>
   <li>The Missing Chapters,</li>

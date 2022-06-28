@@ -89,7 +89,7 @@ image:    "pradera-background.svg"
   <li>Mentors Pair with their Mentees (<em>i.e.</em>, graduates, others)</li>
   <li>Mentors get <a href="https://docs.google.com/document/u/1/d/17uegxy6GPeLsajIaM_6faQ0hdl56PqMXpJvLW37iJVg/edit">RADs</a>.</li>
  </ul>
- <h2>Personal Branding</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace;  ">Personal Branding</h2>
   <table>
    <tr>
     <td>
@@ -108,7 +108,7 @@ image:    "pradera-background.svg"
    <td></td>
   </tr>
  </table>
- <h2>Interview Shine</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace;  ">Interview Shine</h2>
   <table>
    <tr>
     <td>
@@ -128,7 +128,7 @@ image:    "pradera-background.svg"
     <td></td>
    </tr>
   </table>
- <h2>English Bootcamp</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace;  ">English Bootcamp</h2>
   <table>
   <tr>
    <td>
@@ -174,9 +174,7 @@ image:    "pradera-background.svg"
  </ul>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Location</h1>
- <p>
-Virtual, with regular IRL socializing opportunities. The latter can be done in partnership with co-working spaces, at a client’s premise, etc.
-</p>
+ <p>Virtual, with regular IRL socializing opportunities. The latter can be done in partnership with co-working spaces, at a client’s premise, etc.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Revenue, Scholarships</h1>
  <p>Paying Clients,</p>
