@@ -72,9 +72,9 @@ image:    "pradera-background.svg"
  </tbody>
  <table>
 
-<p style="text-align:center; ">
- <img src="/assets/img/feudalism-is-back-square.svg">
-</p>
+ <pre style="font-family: courier new; text-align: center; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+  <img src="/assets/img/feudalism-is-back-square.svg" alt="A vignette of four frames. The young man tells the young woman, 'Basically, CEOs are treated like kings and queens.' He continues, 'And employees are nothing more than replaceable peasants working our land in exchange for protection.' She then asks, 'Protection?' To which answers, 'Healthcare.' She exclaims, 'Feudalism is back!' and says, 'You said it.'" title="Feudalism is back-square" style="width: 80%; ">
+ </pre>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Origin Story</h1>
  <p>Most companies are owned and operated like feudal estates: commands flow down and wealth flows up.</p>
@@ -206,6 +206,14 @@ image:    "pradera-background.svg"
    <td colspan="2"></td>
   </tr>
  </table>
+
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">Glossary</h1>
+ <h2 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Hinterfolks</h2>
+  <p>Includes Hintersoftians and Hintersoft's clients, ex-clients, affiliates, ex-Hintersoftians, etc.</p>
+ <h2 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Hintersoftians</h2>
+  <p>Hintersoft co-owners.</p>
+ <h2 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Product Developers</h2>
+  <p>Everybody in the team who contributes to making software products and tools. It includes UX/UI, Interaction Designers, Graphics Designers, Product Stewards, Manual Testers, Programers, and the cleaning crew. Altogether they are referred to as product developers.</p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
  <ul>
