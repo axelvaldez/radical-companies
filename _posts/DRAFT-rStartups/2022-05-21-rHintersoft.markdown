@@ -72,8 +72,8 @@ image:    "pradera-background.svg"
  </tbody>
  <table>
 
- <pre style="font-family: courier new; text-align: center; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="/assets/img/feudalism-is-back-square.svg" alt="A vignette of four frames. The young man tells the young woman, 'Basically, CEOs are treated like kings and queens.' He continues, 'And employees are nothing more than replaceable peasants working our land in exchange for protection.' She then asks, 'Protection?' To which answers, 'Healthcare.' She exclaims, 'Feudalism is back!' and says, 'You said it.'" title="Feudalism is back-square" style="width: 80%; ">
+ <pre style="font-family: courier new; text-align: center; margin: auto; margin-bottom: 20px 0 0 20px; width:80%; ">
+  <img src="/assets/img/feudalism-is-back-square.svg" alt="A vignette of four frames. The young man tells the young woman, 'Basically, CEOs are treated like kings and queens.' He continues, 'And employees are nothing more than replaceable peasants working our land in exchange for protection.' She then asks, 'Protection?' To which answers, 'Healthcare.' She exclaims, 'Feudalism is back!' and he closes with, 'You said it.'" title="Feudalism is back-square" style="width: 80%; ">
  </pre>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Origin Story</h1>
@@ -83,10 +83,11 @@ image:    "pradera-background.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">How It Works</h1>
  <p>Hintersoftians work in a healthy environment, physically and psychologically safe. This is just not a promise: as co-owners, Hintersoftians can make sure it works this way. When it gets off the rails, Hintersoftians, as co-owners, can put it back on track.</p>
- <table style="vertical-align:top; ">
+ <table>
+ <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
    <td>
-    <p style="text-align: right">Joining<br>a Client</p>
+    <p style="text-align: right">Joining a Client</p>
    </td>
    <td>
     <ul>
