@@ -94,22 +94,22 @@ image:    "pradera-background.svg"
    <tr>
     <td>
      <p style="text-align: right">Program Outline</p>
-   </td>
-   <td>
-    <ul>
-     <li>Personal Brand Story development</li>
-     <li>CV preparation</li>
-     <li>Professional breadcrumbs (<em>e.g.<sub> </sub></em>StackOverflow footprint, GitHub footprint).</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td></td>
-   <td></td>
-  </tr>
- </table>
+    </td>
+    <td>
+     <ul>
+      <li>Personal Brand Story development</li>
+      <li>CV preparation</li>
+      <li>Professional breadcrumbs (<em>e.g.<sub> </sub></em>StackOverflow footprint, GitHub footprint).</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+   </tr>
+  </table>
  <h2 style="font-size:30px; font-family:Courier New, monospace;  ">Interview Shine</h2>
-  <table>
+  <table style="font-size:smaller; text-align:top; ">
    <tr>
     <td>
      <p style="text-align: right">Program Outline</p>
