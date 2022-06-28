@@ -60,7 +60,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align:right; ">Why?</p>
+    <p style="text-align:right; font-weight:bold; ">Why?</p>
    </td>
    <td>
     <ul>
@@ -91,6 +91,7 @@ image:    "pradera-background.svg"
      </li>
     </ul>
    </td>
+  </tr>
   <tr>
    <td>
     <p style="text-align:right; ">When?</p>
