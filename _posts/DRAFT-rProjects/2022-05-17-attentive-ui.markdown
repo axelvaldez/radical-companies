@@ -65,7 +65,6 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2"></td>
   </tr>
- <table>
   <tr>
    <td>
     <p style="text-align:right; font-weight:bold; ">When</p>
@@ -83,8 +82,8 @@ image:    "pradera-background.svg"
  </table>
 
  <table>
- <tbody>
-  <tr>>
+ <tbody style="font-size:smaller; vertical-align:top; ">
+  <tr>
    <td>
     <p style="text-align:right; font-weight:bold; ">How</p>
    </td>
