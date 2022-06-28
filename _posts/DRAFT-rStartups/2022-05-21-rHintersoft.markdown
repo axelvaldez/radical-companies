@@ -72,7 +72,7 @@ image:    "pradera-background.svg"
  </tbody>
  <table>
 
- <pre style="font-family: courier new; text-align: center; margin: 20px 0; width:80%; ">
+ <pre style="font-family: courier new; text-align: center; margin: 20px 0; width:95%; ">
   <img src="/assets/img/feudalism-is-back-square.svg" alt="A vignette of four frames. The young man tells the young woman, 'Basically, CEOs are treated like kings and queens.' He continues, 'And employees are nothing more than replaceable peasants working our land in exchange for protection.' She then asks, 'Protection?' To which answers, 'Healthcare.' She exclaims, 'Feudalism is back!' and he closes with, 'You said it.'" title="Feudalism is back-square" style="width: 80%; ">
  </pre>
 
