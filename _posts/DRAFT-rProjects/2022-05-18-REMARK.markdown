@@ -39,7 +39,7 @@ image:    "pradera-background.svg"
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
-   <td colspan="2" >Impact</td>
+   <td colspan="2" style="text-align:center; font-weight:bold; ">Impact</td>
   </tr>
   <tr>
    <td>
@@ -53,10 +53,10 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2" ></td>
+   <td colspan="2"></td>
   </tr>
   <tr>
-   <td colspan="2" >Purpose</td>
+   <td colspan="2" style="text-align:center; font-weight:bold; ">Purpose</td>
   </tr>
   <tr>
    <td>
@@ -74,8 +74,7 @@ image:    "pradera-background.svg"
    <td colspan="2"></td>
   </tr>
   <tr>
-   <td colspan="2"><h3>Mission</h3>
-   </td>
+   <td colspan="2" style="text-align:center; font-weight:bold; ">Mission</td>
   </tr>
   <tr>
    <td>
