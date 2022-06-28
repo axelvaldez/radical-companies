@@ -85,7 +85,7 @@ image:    "pradera-background.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Mentoring</h1>
  <ul>
-  <li>Like StackOverflow, but <strong><em>live</em></strong></li>
+  <li>Like StackOverflow, but <em>live</em></li>
   <li>Mentors Pair with their Mentees (<em>i.e.</em>, graduates, others)</li>
   <li>Mentors get <a href="https://docs.google.com/document/u/1/d/17uegxy6GPeLsajIaM_6faQ0hdl56PqMXpJvLW37iJVg/edit">RADs</a>.</li>
  </ul>
