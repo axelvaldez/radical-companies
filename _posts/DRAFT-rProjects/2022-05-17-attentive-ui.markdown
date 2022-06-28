@@ -19,7 +19,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align:right; font-weight:bold; ">What for?</p>
+    <p style="text-align:right; font-weight:bold; width:8em; ">What for?</p>
    </td>
    <td>
     <ul>
