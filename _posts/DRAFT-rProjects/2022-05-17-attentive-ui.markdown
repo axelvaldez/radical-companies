@@ -53,7 +53,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align:right; font-weight:bold; ">What</td>
+    <p style="text-align:right; font-weight:bold; ">What</p>
    <td>
     <ul>
      <li>Create an Attentie framework for apps to support morphing their UI dynamically.</li>
