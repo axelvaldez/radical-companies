@@ -7,11 +7,11 @@ image:    "about-daos.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>"Certified" makes sense in the FIAT system, run by hierarchies and organized around domination through fear. But "certs" don't make sense in a RADICAL system, without hierachies, domination, or fear as "motivation."</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
- <p>P</p>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Started</h1>
+ <p>Today the issue of "certification" came up, as in "hey, it'd be nice to have a <span style="font-size:smaller; ">RADICAL</a> cert." Although "certified" makes sense in the <span style="font-size:smaller; ">FIAT</a> system, run by hierarchies and organized around domination through fear they incongrous with a system, like <span style="font-size:smaller; ">RADICAL</a>, without hierachies, domination, or fear passing as "motivation." Still I understand that drive for differentiation, "we are not <span style="font-size:smaller; ">FIAT</span>!"</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
  <p>P<p>
