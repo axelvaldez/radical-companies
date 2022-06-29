@@ -11,19 +11,40 @@ image:    "about-daos.svg"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Started</h1>
- <p>Today the issue of &ldquo;certification&rdquo; came up, as in &ldquo;hey, it'd be nice to have a <span style="font-size:smaller; ">RADICAL</a> cert.&rdquo; Although &ldquo;certified&rdquo; makes sense in the <span style="font-size:smaller; ">FIAT</a> system, run by hierarchies and organized around domination through fear they incongrous with a system, like <span style="font-size:smaller; ">RADICAL</a>, without hierachies, domination, or fear passing as &ldquo;motivation.&rdquo; But given that we live in a <span style="font-size:smaller; ">FIAT</span> world, and will do so for a while, the drive for differentiation is not unreasonable. &ldquo;We are <span style="font-size:smaller; ">RADICAL</span>!&rdquo;</p>
+ <p>Today the issue of &ldquo;certification&rdquo; came up, as in &ldquo;hey, it'd be nice to have a <span style="font-size:smaller; ">RADICAL</a> cert.&rdquo; Although &ldquo;certified&rdquo; makes sense in the <span style="font-size:smaller; ">FIAT</span> system, run by hierarchies and organized around domination through fear they incongrous with a system, like <span style="font-size:smaller; ">RADICAL</span>, without hierachies, domination, or fear passing as &ldquo;motivation.&rdquo; But given that we live in a <span style="font-size:smaller; ">FIAT</span> world, and will do so for a while, the drive for differentiation is not unreasonable. &ldquo;We are <span style="font-size:smaller; ">RADICAL</span>!&rdquo;</p>
  
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Not Congruent</h1>
  <p>&ldquo;Certs&rdquo; are incongruent with the <span style="font-size:smaller; ">RADICAL</span> model because they are issued by an arbitrary authority.</p>
  <p>For example, the <em>Great Place to Work&trade; Institure</em> (GPTW) is a &ldquo;culture&rdquo; authority because early on it was very good at getting brand name clients like Forbes. Their prodct is a survey that they send out to everybody in the client company and then they return to the company their score per category. The survey and its categories are not very scientif or methodological, but it is practical enough to be of value to businesses. The results are ranked the ranking itself is useless for anything but bragging in that it conveys a general sense that &ldquo;higher&rdquo; is &ldquo;better,&rdquo; somehow. Other companies have tried to compete with them with equally arbitrary surveys, but have not been very successful.</p>
  <p>As another example, <em>B Labs</em> has become an &ldquo;authority&rdquo; with its &ldquo;B Corp certificate.&rdquo;  According to Wikipedia, &ldquo;To be granted and to maintain certification, companies must receive a minimum score of 80 from an assessment of &lsquo;social and environmental performance,&lsquo; integrate B Corp commitments to stakeholders into company governing documents, and,&rsquo; very importantly, &lsquo;pay an annual fee based on annual sales. Companies must re-certify every three years to retain B Corporation status.&rdquo;. <em>B Labs</em> has worked very hard at establishiung themselves as an authority. In practice, the &ldquo;B Corp certificate&rdquo; is not much more than virtue signaling and including the some extra documents in a private governance documents of client businesses.</p>
- <p>GPTW and B Lab have become authorities and they issue a certificate.</p>
+ 
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Nonetheless</h1>
+ <p>In our <span style="font-size:smaller; ">FIAT</span> world, it makes sense to have <em>authorities</em> issue <em>certificates</em> at their discretion. By contrast, in a <span style="font-size:smaller; ">RADICAL</span> world, a company&rsquo;s co-owners, backed by fully transparent data, are the ultimate authority in declaring what kind of model they live and work in.</p>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">To Protect the Little People</h1>
+ <p>The usual excuse of &ldquo;we don't share the data to protect employees&rdquo; does not apply since there are no employees who can be fired for voicing their feelings or anything untoward. Co-owners don't need &ldquo;protection&rdquo; from learning. People outside the company can look at the detail, ask questions, comment on conclusions and all co-owners can learn.</p>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">What Is the Anternative?</h1>
+ <p>Surveys are fine for collecting data relatively quickly. They work when they are based on a given foundation and for a <span style="font-size:smaller; ">RADICAL</span> company it could be based on the <span style="font-size:smaller; ">RADICAL</span> foundation,</p>
+  <table>
+   <tr>
+    <td>Principles</td>
+    <td>Meaning & Belonging</td>
+   </tr>
+   <tr>
+    <td>Commitments</td>
+    <td>Decentralization & Transparency</td>
+   </tr>
+   <tr>
+    <td>People</td>
+    <td>Alignment and Experimentation</td>
+   </tr>
+  </table>
+ <p>p</p>
+ <p>p</p>
+ <p>p</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
- <p>P</p>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
- <p>P</p>
+ <p>p</p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
  <ul>
