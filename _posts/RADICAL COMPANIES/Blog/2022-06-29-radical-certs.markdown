@@ -23,25 +23,39 @@ image:    "about-daos.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">To Protect the Little People</h1>
  <p>The usual excuse of &ldquo;we don't share the data to protect employees&rdquo; does not apply since there are no employees who can be fired for voicing their feelings or anything untoward. Co-owners don't need &ldquo;protection&rdquo; from learning. People outside the company can look at the detail, ask questions, comment on conclusions and all co-owners can learn.</p>
+
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">What Is the Anternative?</h1>
- <p>Surveys are fine for collecting data relatively quickly. They work when they are based on a given foundation and for a <span style="font-size:smaller; ">RADICAL</span> company it could be based on the <span style="font-size:smaller; ">RADICAL</span> foundation,</p>
-  <table>
+ <p>Surveys are fine for collecting data relatively quickly. They work when they are based on a given foundation and for a <span style="font-size:smaller; ">RADICAL</span> company this would be,</p>
+  <table align="center">
    <tr>
-    <td>Principles</td>
-    <td>Meaning & Belonging</td>
+    <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
+    <td style="text-align:center; background-color:#EEEEEE; ">Meaning &<br>Belonging</td>
+    <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+    <td valign="top"><em>relationships</em></td>
    </tr>
    <tr>
-    <td>Commitments</td>
-    <td>Decentralization & Transparency</td>
+    <td style="height: 7px;"></td>
    </tr>
    <tr>
-    <td>People</td>
-    <td>Alignment and Experimentation</td>
+    <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
+    <td style="text-align:center; background-color:#EEEEEE;">Transparency &<br>Decentralization</td>
+    <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+    <td valign="top"><em>autonomy</em></td>
+   </tr>
+   <tr>
+    <td style="height: 7px;"></td>
+   </tr>
+   <tr>
+    <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
+    <td style="text-align:center; background-color:#EEEEEE; ">Alignment &<br>Experimentation</td>
+    <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+    <td valign="top"><em>collaboration</em></td>
+   </tr>
+   <tr>
+    <td style="height: 7px;"></td>
    </tr>
   </table>
- <p>p</p>
- <p>p</p>
- <p>p</p>
+<p>Questions based on that would give companies, and anybody who cares to look, a quick view of how they are doing, what needs to change/improve, etc.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
  <p>p</p>
