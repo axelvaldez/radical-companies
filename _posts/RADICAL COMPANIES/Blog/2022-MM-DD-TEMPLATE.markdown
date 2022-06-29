@@ -1,13 +1,13 @@
 ---
 layout:   post
-title:    "RADICAL Certs?"
-subtitle: "So tempting. So incongruous."
+title:    "TEMPLATE"
+subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "about-daos.svg"
 ---
 
 <div style="display:none;">
- <p>Given our FIAT mindset, this is hard to understand but there the only absolutes in a RADICAL world is that there are no absolutes in a RADICAL world.</p>
+ <p></p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
