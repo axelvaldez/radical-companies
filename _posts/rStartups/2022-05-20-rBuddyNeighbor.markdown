@@ -1,86 +1,72 @@
 ---
 layout:   post
-title:    "rClean"
-subtitle: "From Gig Subsistence to Co-Onwership"
-authors:  "Jose Leal, Matt Perez"
+title:    "rBuddyNeighbor"
+subtitle: "Connecting neighbors, building community."
+authors:  "Matt Perez"
 image:    "pradera-background.svg"
 ---
 
 <div style="display: none; ">
- <p>Helping people keep their homes and their businesses clean, decluttered, and presentable.</p>
+ <p>Building communities of people ready for action.</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
+ <p></p>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Alignment</h1>
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Impact</td>
+   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Impact</td>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What for?</td>
+   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What for?</td>
    <td>
     <ul>
-     <li></li>
+     <li>TBD</li>
     </ul>
    </td>
   </tr>
   <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Purpose</td>
+   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Purpose</td>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Why?</td>
+   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">Why?</td>
    <td>
     <ul>
-     <li></li>
+     <li>TBD</li>
     </ul>
    </td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</td>
+   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Mission</td>
   </tr>
   <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Mission</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What?</td>
+   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What?</td>
    <td>
     <ul>
-     <li></li>
+     <li>TBD</li>
     </ul>
    </td>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">When?</td>
+   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">When?</td>
    <td>
     <ul>
-     <li></li>
+     <li>TBD</li>
     </ul>
    </td>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">How?</td>
+   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">How?</td>
    <td>
     <ul>
-     <li></li>
+     <li>TBD</li>
     </ul>
    </td>
   </tr>
  </tbody>
-</table>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Intro</h1>
- <p>Help people with,</p>
- <ul>
-  <li>Cleaning living spaces (<em>e.g.</em>, homes, offices).</li>
-  <li>Declutter and free up space.</li>
-  <li>Interior design suggestions.</li>
- </ul>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Origin Story</h1>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">How It Works</h1>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">What's in It for &hellip;?</h1>
+ <table>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
  <ul>
