@@ -11,16 +11,16 @@ image:    "about-daos.svg"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
- <p></p>
+ <p>P</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
- <p><p>
+ <p>P<p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
- <p></p>
+ <p>P<p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
- <p></p>
+ <p>P<p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
  <ul>
