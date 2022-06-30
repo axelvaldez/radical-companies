@@ -11,7 +11,7 @@ image:    "about-daos.svg"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Started</h1>
- <p>Today the issue of &ldquo;certification&rdquo; came up, as in &ldquo;hey, it'd be nice to have a <span style="font-size:smaller; ">RADICAL</a> cert.&rdquo; Although &ldquo;certified&rdquo; makes sense in the <span style="font-size:smaller; ">FIAT</span> system, run by hierarchies and organized around domination through fear they incongrous with a system, like <span style="font-size:smaller; ">RADICAL</span>, without hierachies, domination, or fear passing as &ldquo;motivation.&rdquo; But given that we live in a <span style="font-size:smaller; ">FIAT</span> world, and will do so for a while, the drive for differentiation is not unreasonable. &ldquo;We are <span style="font-size:smaller; ">RADICAL</span>!&rdquo;</p>
+ <p>The issue of &ldquo;certification&rdquo; came up, &ldquo;it'd be nice to have a <span style="font-size:smaller; ">RADICAL</a> cert.&rdquo; Although &ldquo;certified&rdquo; makes sense in the <span style="font-size:smaller; ">FIAT</span> system, run by hierarchies and organized around domination through fear they incongrous with a system, like <span style="font-size:smaller; ">RADICAL</span>, without hierachies, domination, or fear passing as &ldquo;motivation.&rdquo; But given that we live in a <span style="font-size:smaller; ">FIAT</span> world, and will do so for a while, the drive for differentiation is not unreasonable. &ldquo;We are <span style="font-size:smaller; ">RADICAL</span>!&rdquo;</p>
  
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Not Congruent</h1>
  <p>&ldquo;Certs&rdquo; are incongruent with the <span style="font-size:smaller; ">RADICAL</span> model because they are issued by an arbitrary authority.</p>
@@ -25,7 +25,7 @@ image:    "about-daos.svg"
  <p>The usual excuse of &ldquo;we don't share the data to protect employees&rdquo; does not apply since there are no employees who can be fired for voicing their feelings or anything untoward. Co-owners don't need &ldquo;protection&rdquo; from learning. People outside the company can look at the detail, ask questions, comment on conclusions and all co-owners can learn.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">What Is the Anternative?</h1>
- <p>Surveys are fine for collecting data relatively quickly. They work when they are based on a given foundation and for a <span style="font-size:smaller; ">RADICAL</span> company this would be,</p>
+ <p>Surveys are fine for collecting data relatively quickly and they work when they are based on a given foundation. For a <span style="font-size:smaller; ">RADICAL</span> company this would be,</p>
   <table align="center">
    <tr>
     <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
@@ -55,10 +55,9 @@ image:    "about-daos.svg"
     <td style="height: 7px;"></td>
    </tr>
   </table>
-<p>Questions based on that would give companies, and anybody who cares to look, a quick view of how they are doing, what needs to change/improve, etc.</p>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
- <p>p</p>
+<p>Questions based on these priciples, commitments, amd practices would give companies, and anybody else who cares to look, a high level view of how they are doing, what needs to change/improve, etc.</p>
+<p>Instead of annual surveys, it may be more valueable to have a round-robin series of pipelined mini-surveys. And there may yet be other ways to show a company&rsquo;s progression from one end of the spectrum to the other (<em>e.g.</em>, more centralized to less centralized).</p>
+<p>A company can claim that they are <span style="font-size:smaller; ">RADICAL</span></p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
  <ul>
