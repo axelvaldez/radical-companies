@@ -57,7 +57,7 @@ image:    "about-daos.svg"
   </table>
 <p>Questions based on these priciples, commitments, amd practices would give companies, and anybody else who cares to look, a high level view of how they are doing, what needs to change/improve, etc.</p>
 <p>Instead of annual surveys, it may be more valueable to have a round-robin series of pipelined mini-surveys. And there may yet be other ways to show a company&rsquo;s progression from one end of the spectrum to the other (<em>e.g.</em>, more centralized to less centralized).</p>
-<p>A company can claim that they are <span style="font-size:smaller; ">RADICAL</span></p>
+<p>A company can claim that they are &ldquo;<span style="font-size:smaller; ">RADICAL</span>&rdquo;</p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
  <ul>
