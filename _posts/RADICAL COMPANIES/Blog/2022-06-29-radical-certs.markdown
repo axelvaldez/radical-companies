@@ -23,7 +23,7 @@ image:    "radical-certs.svg"
  <p>By contrast, in a <span style="font-size:smaller; ">RADICAL</span> world, a company&rsquo;s co-owners, backed by fully transparent data, are the ultimate authority in declaring what kind of model they live and work in.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">To Protect the Little People</h1>
- <p>The usual excuse of &ldquo;we don't share the data to protect employees&rdquo; does not apply since there are no employees who can be fired for voicing their feelings or anything untoward. In other words, co-owners don't need &ldquo;protection&rdquo; from learning. Anybody, including people outside the company, can look at the detail, ask questions, and comment on conclusions. This is an opportunity for co-owners learn as well as outsiders.</p>
+ <p>The usual excuse of &ldquo;we don't share the data to protect employees&rdquo; does not apply since there are no employees who can be fired for voicing their feelings or anything untoward. In other words, co-owners don't need &ldquo;protection&rdquo; from learning. Anybody, including people outside the company, can look at the detail, ask questions, and comment on conclusions. This is an opportunity for co-owners to learn as well as outsiders.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">What Is the Anternative?</h1>
  <p>Surveys are fine for collecting data relatively quickly and they work when they are based on a given foundation. For a <span style="font-size:smaller; ">RADICAL</span> company this would be,</p>
