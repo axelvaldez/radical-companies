@@ -262,15 +262,14 @@ image:    "pradera-background.svg"
   </p>
  <p>The activities are not only technical and may include many other topics, including mental health, self-care, and holding on to your chicken.</p>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">Endnotes<h1>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">ENDNOTES<h1>
  <h6 id="en01">1. 	<a href="#id01">n</a> So-called “10x developers,” “super leads,” “genius developers,” etc.</h6>
  <h6 id="en02">2. 	<a href="#id02">n</a> For more information, see Moneyball &lt;<a href="https://radicals.world/oQmxC7">https://radicals.world/oQmxC7</a>></h6>
  <h6 id="en03">3. 	<a href="#id03">n</a> MLB Farm System Ranking Factors &lt;<a href="https://radicals.world/ATiAcH">https://radicals.world/ATiAcH</a>> (alt., <a href="https://diigo.com/0jwkj3">https://diigo.com/0jwkj3</a>).</h6>
  <h6 id="en04">4. 	<a href="#id04">n</a> Kimberly Wiefling’s profile, &lt;<a href="https://radicals.world/zHL0lt">https://radicals.world/zHL0lt</a>></h6>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">APPENDICES</h1>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Recruiting</h1>
+<h2 style="font-size:30px; font-family:Courier New, monospace; ">Recruiting</h1>
  <ul>
   <li>From the moment a candidate voices an interest in joining the team, think of her as already in your team.</li>
   <li>You are not looking for ways to reject this candidate. Your job is to evaluate at what stage the candidate is in, figure out if you can help her grow, and then make a decision to hire or not.</li>
@@ -321,8 +320,7 @@ image:    "pradera-background.svg"
    <li>Tell rejected candidates exactly why you decided against hiring.</li>
    <li>Include very specific recommendations for how to close any gaps you found.</li>
   </ol>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Office Hours</h1>
+<h2 style="font-size:30px; font-family:Courier New, monospace; ">Office Hours</h1>
  <p>Offer rejected candidates the opprtunity to join you for Office Hours. For example, you could commit to doing two sessions per week, one hour each.</p>
  <p>During these sessions,</p>
   <ul>
@@ -332,8 +330,7 @@ image:    "pradera-background.svg"
   </ul>
  <p>When you think she's ready, ask her if she's ready to try again, and if so, tell your team.</p>
  <p>If they agree to take her on again, they pick up where the process stopped. If she was disqualified after the Profile interview, then start by having another Profile interview. Ditto if the process was stopped at the Task interview. Of course, the team can decide to skip, say, the Profile and go straight to the Task.</p>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Incubator</h1>
+<h2 style="font-size:30px; font-family:Courier New, monospace; ">Incubator</h1>
  <p>This Incubator is for people who is missing a key skill, or doesn’t have experienced with a particular technology,</p>
   <ul>
    <li>After the Thumbs, a member of the team tells the candidate about the Skills Incubator.</li>
@@ -344,19 +341,16 @@ image:    "pradera-background.svg"
    <li>Assign a mentor.</li>
    <li>The mentor's job is to check with the candidate about her progress, any questions she may have, any topic the mentor feels she needs help with.</li>
   </ul>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Power Up</h1>
+<h2 style="font-size:30px; font-family:Courier New, monospace; ">Power Up</h1>
  <p>This program is for members who want to learn a new skill or a new stack,</p>
   <ul>
    <li>For example, an Android developer wants to learn iOS or a C++ developer realizes she needs to learn a functional language.</li>
    <li>The Power Up program leverages the experience a developer has gained to deliver the equivalent of one year experience in a few weeks. Shifting to a new paradigm will take longer (<em>e.g.</em>, from object oriented to functional).</li>
    <li>A kickoff Power Up program covers the basics, but the rest would come in follow up workshops and production work.</li>
   </ul>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">People Development</h1>
+<h2 style="font-size:30px; font-family:Courier New, monospace; ">People Development</h1>
  <p>TBD</p>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Holding on to Your Chicken</h1>
+<h2 style="font-size:30px; font-family:Courier New, monospace; ">Holding on to Your Chicken</h1>
  <p>The “chicken” comes from an illustration that Kimberly Wiefling<sup id="id04"><a href="#en04">4</a></sup> uses in her workshops where she holds a rubber chicken up over her head, let go of it, and let it fall to the floor. Then she asks, “what happened to the chicken?” The responses are usually all over the place, but every so often a small voice says, “… because you let it go of it?” And that’s the point: you let go of your power, your essence, to others. And those more powerful than you grab it as soon as you let go of it.</p>
  <p>We learn this habit at home, when we are little. We let our caretakers guide our chickens as they teach us the basics of staying alive. Once we enter school, most of our teachers, unfortunately, take our chickens from us outright. “You must learn discipline,” they tell us, “and I’ll tell you how to behave.” Throughout school we learn that obedience comes first: if we don’t please the teacher, we don’t get the sticker, or, worse, we are sent to the Principal’s office. Finally, we reach college, but by then the habit is deeply ingrained. Undergraduates are like high-schoolers with a bit more freedom outside of school, but in school it is a game of pleasing the professor and getting good grades. Grad students are often referred to as “slave labor” for their supervisors. By the time we start to work, we are fully conditioned to hand our chickens to our superiors, “Where do I sit? What team am I in? What do you want me to do, boss?”We have to grow out of the habit of letting go of our chicken. We need to learn to hold on to it. In fact, we can make companies better all around by holding on to our chicken. We can collaborate more openly, experiment more, innovate more, come up with outside-the-box solutions more often. We can bring our full selves to work, take off our masks, and stop holding back. We can bring real value as we create with others.</p>
  <p>Ideally, we would not learn the habit of giving up our chicken so easily in the first place, but at our workplaces we can certainly replace that terrible habit with the habit of holding on to our chicken.</p>
