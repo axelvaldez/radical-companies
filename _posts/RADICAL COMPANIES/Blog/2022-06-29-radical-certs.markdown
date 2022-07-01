@@ -86,10 +86,10 @@ image:    "about-daos.svg"
        <li>RADICALS.LIVE!: <a href="https://radicalcompanies.com/2022/04/04/RADICALS-Live">&hellip;/RADICALS-Live</a></li>
        <li>RADICAL MBA: <a href="https://radicalcompanies.com/2022/04/03/RADICAL-MBA">&hellip;/RADICAL-MBA</a></li>
       </ul>
-      <!--
      <li>rHatchery: <a href="https://radicalcompanies.com/2022/05/16/rHatchery">&hellip;/rHatchery</a></li>
      <li>rCircuit: <a href="https://radicalcompanies.com/2022/04/05/rCircuit">&hellip;/rCircuit</a></li>
      <li>rPlayGym: <a href="https://radicalcompanies.com/2022/04/06/rPlayGym">&hellip;/rPlayGym</a></li>
+      <!--
      <li>rEnsembles,
       <ul>
        <li>rCORE: <a href="https://radicalcompanies.com/2022/05/15/rCORE">&hellip;/rCORE</a></li>
