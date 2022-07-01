@@ -3,7 +3,7 @@ layout:   post
 title:    "RADICAL Certs?"
 subtitle: "So tempting. So incongruous."
 authors:  "Matt Perez"
-image:    "about-daos.svg"
+image:    "radical-certs.svg"
 ---
 
 <div style="display:none;">
