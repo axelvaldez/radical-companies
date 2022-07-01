@@ -7,7 +7,7 @@ image:    "radical-certs.svg"
 ---
 
 <div style="display:none;">
- <p>"Certified" makes sense in the FIAT system, run by hierarchies and organized around domination through fear. But "certs" don't make sense in a RADICAL system, without hierachies, domination, or fear as "motivation."</p>
+ <p>"Certified" makes sense in the FIAT world we live in, run by hierarchies and organized around domination through fear. But "certs" are incongrous within a RADICAL system, without hierachies or domination."</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Started</h1>
