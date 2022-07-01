@@ -26,7 +26,7 @@ image:    "radical-certs.svg"
  <p>The usual excuse of &ldquo;we don't share the data to protect employees&rdquo; does not apply since there are no employees who can be fired for voicing their feelings or anything untoward. In other words, co-owners don't need &ldquo;protection&rdquo; from learning. Anybody, including people outside the company, can look at the detail, ask questions, and comment on conclusions. This is an opportunity for co-owners to learn as well as outsiders.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">What Is the Anternative?</h1>
- <p>Surveys are fine for collecting data relatively quickly and they work when they are based on a given foundation. For a <span style="font-size:smaller; ">RADICAL</span> company this would be,</p>
+ <p>Surveys are fine for collecting data relatively quickly, but they need to have a foundation. For a <span style="font-size:smaller; ">RADICAL</span> company this would be,</p>
   <table align="center">
    <tr>
     <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
@@ -57,6 +57,8 @@ image:    "radical-certs.svg"
    </tr>
   </table>
 <p>Questions based on these priciples, commitments, amd practices would give companies, and anybody else who cares to look, a high level view of how they are doing, what needs to change/improve, etc.</p>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">If It Works, Do It Often</h1>
 <p>Instead of annual surveys, it may be more valueable to have a round-robin series of pipelined mini-surveys. And there may yet be other ways to show a company&rsquo;s progression from one end of the spectrum to the other (<em>e.g.</em>, more centralized to less centralized).</p>
 <p>A company can say that, &ldquo;We are commited to become a <span style="font-size:smaller; ">RADICAL</span> company&hellip; and here's my data.&rdquo; The claim and the data are the authority, not an arbitrary third party. Co-owners who feel comfortable doing, can answer any questions that other people may have. This will be a learning opportunity for the co-owner, too.</p>
 
