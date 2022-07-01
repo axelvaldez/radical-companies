@@ -60,7 +60,7 @@ image:    "radical-certs.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">If It Works, Do It Often</h1>
 <p>Instead of annual surveys, it may be more valuable to have, for example, round-robin, pipelined mini-surveys. The point is to show a company&rsquo;s progression from one end of the spectrum (<em>e.g.</em>, more centralized) to the other (<em>e.g.</em> less centralized).</p>
-<p>A company can say that, &ldquo;We are commited to become a <span style="font-size:smaller; ">RADICAL</span> company&hellip; and here's my data.&rdquo; The claim and the data are the authority, not an arbitrary third party. Co-owners who feel comfortable doing, can answer any questions that other people may have. This will be a learning opportunity for the co-owner, too.</p>
+<p>A company can say that, &ldquo;We are commited to become a <span style="font-size:smaller; ">RADICAL</span> company&hellip; and here's my data.&rdquo; The claim <em>and</em> the data are the authority, not an arbitrary third party.
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
  <ul>
