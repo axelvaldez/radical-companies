@@ -238,7 +238,7 @@ image:    "pradera-background.svg"
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">ENDNOTES</h1>
  <ol>
   <li id="en01"><a href="#enref01">n</a> Possibly, a good opportunity to get into an established company is when a new boss comes into the scene.  Particularly, when an inheriting child takes over a parent, such as when Ricard Semler took over after his father.</li>
-  <li id="en01"><a href="#enref01">n</a> Kenneth Blanchard, Spencer Johnson.  <a href="https://www.goodreads.com/quotes/580671-secret-2-one-minute-praising-help-people-to-reach">The One Minute Manager</a>.  Berkley Trade, February 15, 1986.</li>
+  <li id="en01"><a href="#enref01">n</a> Kenneth Blanchard, Spencer Johnson. <a href="https://www.goodreads.com/quotes/580671-secret-2-one-minute-praising-help-people-to-reach">The One Minute Manager</a>. Berkley Trade, February 15, 1986.</li>
   <li id="en01"><a href="#enref01">n</a> Dave Logan, John King, Halee Fischer-Wright. <a href="https://a.co/1953Gkh">Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization</a>. 2008.</li>
  </ol>
 
