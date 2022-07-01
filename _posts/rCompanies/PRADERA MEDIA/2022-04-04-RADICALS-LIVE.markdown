@@ -80,7 +80,7 @@ image:    "pradera-background.svg"
 </table>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Format</h1>
- <p>The format is inspired by the HBO series <span style="font-size:smaller; ">ICONOCLAST</span>s which featured &ldquo;an hour of personal conversation and storytelling.&rdquo;<sup id="bm1"><a href="#en1">1</a></sup> There are no &ldquo;hosts&rdquo; or &ldquo;guests,&rdquo; it is simply people talking about their journeys, going against the grain of traditional beliefs and institutions, projecting what the world would be like if they were wildly successful in their efforts.</p>
+ <p>The format is inspired by the HBO series <span style="font-size:smaller; ">ICONOCLAST</span>s which featured &ldquo;an hour of personal conversation and storytelling.&rdquo;<sup id="bm01"><a href="#en01">1</a></sup> There are no &ldquo;hosts&rdquo; or &ldquo;guests,&rdquo; it is simply people talking about their journeys, going against the grain of traditional beliefs and institutions, projecting what the world would be like if they were wildly successful in their efforts.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Modality</h1>
  <table>
@@ -399,9 +399,7 @@ image:    "pradera-background.svg"
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
-  <li id="en1"><a href="#bm1">n</a> “Iconoclasts” would be the perfect name for this show, wouldn’t it? (Hey, <a href="https://www.youtube.com/watch?v=IdaHRoxNMZQ&feature=youtu.be&t=3">HBO/Grey Goose</a>, can we talk?) &lt;<a href="https://radicals.world/d8ykRz">https://radicals.world/d8ykRz</a>></li>
-  <li id="en2"><a href="#bm2">n</a> BANNIO 4.7Ft Green Screen. Amazon, $29 &lt;<a href="https://radicals.world/DJXfXq">https://radicals.world/DJXfXq</a>></li>
-  <li id="en3"><a href="#bm3">n</a> Video+Mic, Amazon, $70 &lt;<a href="https://radicals.world/zO6ndt">https://radicals.world/zO6ndt</a>>. Alternative microphone, Amazon, $29 &lt;<a href="https://radicals.world/zErPki">https://radicals.world/zErPki</a>></li>
+  <li id="en01"><a href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a> “Iconoclasts” would be the perfect name for this show, wouldn’t it? (Hey, <a href="https://www.youtube.com/watch?v=IdaHRoxNMZQ&feature=youtu.be&t=3">HBO/Grey Goose</a>, can we talk?) &lt;<a href="https://radicals.world/d8ykRz">https://radicals.world/d8ykRz</a>></li>
 </ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
