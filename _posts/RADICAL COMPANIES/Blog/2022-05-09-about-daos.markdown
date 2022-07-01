@@ -16,12 +16,12 @@ image:    "about-daos.svg"
  <p>Fortunately, all the creativity that has gone into creating the DAO technology could also be used to create alternatives to the <span style="font-size:smaller; ">FIAT</span> regime.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">DAOs Are Not Decentralized</h1>
- <p>DAOs are not decentralized<sup id="bm01"><a href="#en01">1</a></sup>: they are more or less centralized, depending on its governance model. But there's no incentive or commitment to decentralize. More LPs and less friction does not equal decentralization. Sure, LPs have the choice of not joining the DAO or, depending on the governance model, bailing out, but that’s not a solution to our big problem.<p>
- <p>We need to move away from the &ldquo;because I say so&rdquo;, <span style="font-size:smaller; ">FIAT</span> ways of doing things and to a truly decentralized and autonomous alternative to our current system based on force and fear.<p>
+ <p>DAOs<sup id="bm01"><a href="#en01">1</a></sup> are more or less centralized, depending on its governance model, but they are not decentralized. In fact, here's no technology to decentralize them. More LPs (Limited Partners to a Venture Capital fund) and less friction does not equal decentralization. Sure, LPs have the choice of not joining the DAO or, depending on the governance model, bailing out, but that’s not a solution to our big problem.<p>
+ <p>Our big problem is the &ldquo;because I say so&rdquo;, <span style="font-size:smaller; ">FIAT</span> ways of doing things. We need to move to a truly decentralized alternative to our current system based on force and fear.<p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">DAOs Are Not Autonomous</h1>
- <p>At least, not autonomous in the sense that &ldquo;it is run by code, not by people.&rdquo; In fact, they are governed and operated by committees of people. Even if those could be eliminated, &ldquo;code&rdquo; is created by one or more people.</p>
- <p>Autonomy is the domain of people. We need autonomous collaboration, and people collaborate via conversations. Today&rsquo;s DAOs are basically an <em>automated investment</em> platform. Instead, we need a conversation platform supported by all the cool Web3 technology.</p>
+ <p>DAOs are not autonomous just because &ldquo;they are run by code, not by people.&rdquo; In fact, they are governed by committees of people. Even if those could be eliminated, their <em>code</em> is created by people.</p>
+ <p>In any casem, autonomy is the domain of people. We need autonomous collaboration amont people, and people collaborate via conversations. Today&rsquo;s DAOs are basically an <em>automated investment</em> platform, but, instead, we need a conversation platform supported by all the cool Web3 technology and technology that does not yet exist.<sup id="bm02"><a href="#en02">2</a></sup></p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">What Do DAOs Have to Do with Fear?</h1>
  <p>I have been bringing up &ldquo;violence,&rdquo; &ldquo;force,&rdquo; and &ldquo;fear,&rdquo; without any explanation at all. I'd like to do that now. Fear is so prevalent in our present world that it mostly goes unnoticed. At least, it goes unnoticed by our cognitive system, by the neocortex; the rest of our body is affected by it and often not in a good, healthy way.</p>
@@ -32,8 +32,9 @@ image:    "about-daos.svg"
  <p>Force, and the fear it engenders, is what&rsquo;s holding us back, it hurts us, and will eventually kill more of us.</p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">ENDNOTES</h1>
- <ol>
+ <ol style="font-size:smaller; ">
   <li id="en01"><a href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a> David Rosenthal. <a href="https://blog.dshr.org/2022/02/ee380-talk.html">EE380 Talk</a>. Feb 9, 2022.</li>
+  <li id="en02"><a href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a> E. Glen Weyl, Puja Ohlhaver, Vitalik Buterin. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763">Decentralized Society: Finding Web3’s Soul</a>. 11 May 2022.</li>
  </ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
