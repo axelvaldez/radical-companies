@@ -16,13 +16,11 @@ image:    "PRADERA-background.svg"
 </div>
 
 <h1>Origin Story</h1>
- <p>The idea came up during a conversation with Jose Leal and Marcial Quintanar. One thing led to another and we ended up with rough plans for a <span style="font-size:smaller; ">RADICAL MBA</span>.<sup id="fnref1"><a href="#fn1">1</a></sup></p>
+ <p>The idea came up during a conversation with Jose Leal and Marcial Quintanar. One thing led to another and we ended up with rough plans for a <span style="font-size:smaller; ">RADICAL MBA</span>.<sup id="bm01"><a href="#en01">1&nbsp;</a></sup></p>
 
 <h1>ENDNOTES</h1>
- <ol>
-   <h6>
-    <li id="fn1"><a href="#fnref1">n</a> Not the perfect name, but MBA is more accessible. For now.</li>
-   </h6>
+ <ol style="font-size:smaller; ">
+  <li id="en01"><a href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a> Not the perfect name, but MBA is more accessible. For now.</li>
  </ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
