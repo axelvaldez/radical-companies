@@ -89,7 +89,7 @@ image:    "pradera-background.svg"
   <li>Mentors Pair with their Mentees (<em>i.e.</em>, graduates, others)</li>
   <li>Mentors get <a href="https://docs.google.com/document/u/1/d/17uegxy6GPeLsajIaM_6faQ0hdl56PqMXpJvLW37iJVg/edit">RADs</a>.</li>
  </ul>
- <h2 style="font-size:30px; ">Personal Branding</h2>
+ <h2 style="font-size:30px; font-family:Courier New, monospace;  ">Personal Branding</h2>
   <table style="font-size:smaller; vertical-align:top; ">
    <tr style="vertical-align:top; ">
     <td style="width:6em;  ">
