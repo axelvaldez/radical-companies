@@ -324,8 +324,8 @@ image:    "dynamic-distribution-1.svg"
  <ul>
   <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
    <ul>
-    <li><a>EN</a>: <a href="#">&hellip;</a></li>
-    <li><a>ES</a>: <a href="#">&hellip;</a></li>
+    <li><a>EN</a>: <a href="https://radicalcompanies.com">&hellip;</a></li>
+    <li><a>ES</a>: <a href="https://radicalcompanies.com">&hellip;</a></li>
    </ul>
   <li>Blog posts,</li>
    <ul>
