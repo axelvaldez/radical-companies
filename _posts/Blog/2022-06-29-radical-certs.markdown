@@ -7,11 +7,11 @@ image:    "radical-certs.svg"
 ---
 
 <div style="display:none;">
- <p>"Certificates" fit in a FIAT world we live in, run by hierarchies and organized around domination through fear. <em>A hihger authority certifies that you are qualified</em>. But "certs" don't make sense within a RADICAL system, without hierachies or domination."</p>
+ <p>"Certificates" fit in a FIAT world we live in, run by hierarchies and organized around domination through fear. But "certs" don't make sense within a RADICAL system, without hierachies or domination."</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Started</h1>
- <p>The issue of &ldquo;certification&rdquo; came up, &ldquo;it'd be nice to have a <span style="font-size:smaller; ">RADICAL</span> cert.&rdquo; Although &ldquo;certified&rdquo; makes sense in the <span style="font-size:smaller; ">FIAT</span> system, run by hierarchies and organized around domination through fear they incongrous with a system, like <span style="font-size:smaller; ">RADICAL</span>, without hierachies, domination, or fear passing as &ldquo;motivation.&rdquo; But given that we live in a <span style="font-size:smaller; ">FIAT</span> world, and will do so for a while, the drive for differentiation is not unreasonable. &ldquo;We are <span style="font-size:smaller; ">RADICAL</span>!&rdquo;</p>
+ <p>The issue of &ldquo;certification&rdquo;s came up as: &ldquo;it'd be nice to have a <span style="font-size:smaller; ">RADICAL</span> cert.&rdquo; The thing is that &ldquo;certified&rdquo; makes sense in the <span style="font-size:smaller; ">FIAT</span> system, run by hierarchies and organized around domination through fear:  <em>a mighty authority certifies that you are qualified</em>. &ldquo;Certs&rdquo; incongrous with a system, like <span style="font-size:smaller; ">RADICAL</span>, without hierachies, domination, or fear passing as &ldquo;motivation.&rdquo; But given that we live in a <span style="font-size:smaller; ">FIAT</span> world, and will do so for a while, the drive for differentiation is not unreasonable. &ldquo;We are <span style="font-size:smaller; ">RADICAL</span>!&rdquo;</p>
  
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Not Congruent</h1>
  <p>&ldquo;Certs&rdquo; are incongruent with the <span style="font-size:smaller; ">RADICAL</span> model because they are issued by an arbitrary authority.</p>
