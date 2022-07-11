@@ -27,7 +27,7 @@ image:    "radical-certs.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">To Protect the Little People</h1>
  <p>The result of these surveys are redacted, &ldquo;<em>for the privacy and safety of employees</em>.&rdquo; But that excuse does not apply in the <span style="font-size:smaller; ">RADICAL</span> model since there are no employees who can be fired for voicing their feelings or pointing out bugs in the system. <span style="font-size:smaller; ">RADICAL</span> co-owners don't need &ldquo;protection&rdquo; from hearing what others have to say and learning. And because the data is fully transparent, the same is true for the community outside the company: anybody can look at the detail, ask questions, comment on conclusions, and learn.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">What Is the Anternative?</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">What Is the Alternative?</h1>
  <p>Surveys are fine for collecting data relatively quickly, but they need to have a foundation. WorldBlu&rsquo;s survey is based on 10 Principles. For a <span style="font-size:smaller; ">RADICAL</span> company this would be,</p>
   <table align="center">
    <tr>
