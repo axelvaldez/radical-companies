@@ -58,11 +58,11 @@ image:    "radical-certs.svg"
     <td style="height: 7px;"></td>
    </tr>
   </table>
-<p>Questions based on these priciples, commitments, amd practices would give companies, and anybody else who cares to look, a high level view of how they are doing, what needs to change/improve, etc.</p>
+<p>Questions based on these priciples, commitments, amd practices would give companies, and anybody else who cares to look, a view of how the company is doing, what needs to change/improve, etc. The details will come in coversations, as always.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">If It Works, Do It Often</h1>
-<p>Instead of annual surveys, it may be more valuable to have, for example, round-robin, pipelined mini-surveys. The point is to show a company&rsquo;s progression from one end of the spectrum (<em>e.g.</em>, more centralized) to the other (<em>e.g.</em> less centralized).</p>
-<p>A company can say that, &ldquo;We are commited to become a <span style="font-size:smaller; ">RADICAL</span> company&hellip; and here's my data.&rdquo; The claim <em>and</em> the data are the authority, not an arbitrary third party.
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">If It Works, Do It All the Time</h1>
+<p>Instead of annual surveys, it may be more valuable to have, for example,pipelined mini-surveys. The point is to show a company&rsquo;s progression from one end of the spectrum (<em>e.g.</em>, more centralized) to the other (<em>e.g.</em> less centralized).</p>
+<p>A company can say that, &ldquo;We are on the <span style="font-size:smaller; ">RADICAL</span> path&hellip; and here's my data, see for yourself.&rdquo; Only the <em>people</em> who embody the company, not an arbitrary third party, can attest.
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
  <ul>
