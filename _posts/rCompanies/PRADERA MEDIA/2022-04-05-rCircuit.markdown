@@ -110,8 +110,8 @@ image:    "pradera-background.svg"
  <ul>
   <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
    <ul>
-    <li><a>EN</a>: <a href="#">&hellip;</a></li>
-    <li><a>ES</a>: <a href="#">&hellip;</a></li>
+    <li><a>EN</a>: <a href="https://radicalcompanies.com">&hellip;</a></li>
+    <li><a>ES</a>: <a href="https://radicalcompanies.com">&hellip;</a></li>
    </ul>
   <li>Blog posts,</li>
    <ul>
@@ -133,16 +133,16 @@ image:    "pradera-background.svg"
        <li>RADICALS.LIVE!: <a href="https://radicalcompanies.com/2022/04/04/RADICALS-Live">&hellip;/RADICALS-Live</a></li>
        <li>RADICAL MBA: <a href="https://radicalcompanies.com/2022/04/03/RADICAL-MBA">&hellip;/RADICAL-MBA</a></li>
       </ul>
-      <li>rHatchery: <a href="https://radicalcompanies.com/2022/05/16/rHatchery">&hellip;/rHatchery</a></li>
-      <li>rCircuit: <a href="https://radicalcompanies.com/2022/04/05/rCircuit">&hellip;/rCircuit</a></li>
-      <li>rPlayGym: <a href="https://radicalcompanies.com/2022/04/06/rPlayGym">&hellip;/rPlayGym</a></li>
-      <li>rEnsembles,
-       <ul>
-        <li>rCORE: <a href="https://radicalcompanies.com/2022/05/15/rCORE">&hellip;/rCORE</a></li>
-        <li>rClean: <a href="https://radicalcompanies.com/2022/05/14/rClean">&hellip;/rClean</a></li>
-        <li>rStayHome: <a href="https://radicalcompanies.com/2022/05/12/rStayHome">&hellip;/rStayHome</a></li>
-        <li>rKidsCare: <a href="https://radicalcompanies.com/2022/05/13/rKidsKare">&hellip;/rKidsKare</a></li>
-       </ul>
+     <li>rHatchery: <a href="https://radicalcompanies.com/2022/05/16/rHatchery">&hellip;/rHatchery</a></li>
+     <li>rCircuit: <a href="https://radicalcompanies.com/2022/04/05/rCircuit">&hellip;/rCircuit</a></li>
+     <li>rPlayGym: <a href="https://radicalcompanies.com/2022/04/06/rPlayGym">&hellip;/rPlayGym</a></li>
+     <li>rEnsembles,</li>
+      <ul>
+       <li>rCORE: <a href="https://radicalcompanies.com/2022/05/15/rCORE">&hellip;/rCORE</a></li>
+       <li>rClean: <a href="https://radicalcompanies.com/2022/05/14/rClean">&hellip;/rClean</a></li>
+       <li>rStayHome: <a href="https://radicalcompanies.com/2022/05/12/rStayHome">&hellip;/rStayHome</a></li>
+       <li>rKidsCare: <a href="https://radicalcompanies.com/2022/05/13/rKidsKare">&hellip;/rKidsKare</a></li>
+      </ul>
     </ul>
   <li>rStartups,</li>
    <ul>
