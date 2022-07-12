@@ -31,7 +31,7 @@ image:    "about-daos.svg"
  <p>You might be thinking, &ldquo;But that's the way it is. You have to learn to restrain yourself and be polite about what you say and how you say. Otherwise, we will end up like animals, hurting each other.&rdquo; That reasoning is fear, too. Think of it this way: as a species, we are pretty successful. Do you think we got here by behaving like animals towards each other? In fact, social animals, like us, collaborate, not compete, and that's what&rsquo;s made them successful as a species. Perhaps we should behave more like the social animals we are.</p>
  <p>Force, and the fear it engenders, is what&rsquo;s holding us back, it hurts us, and will eventually kill more of us.</p>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">ENDNOTES</h1>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="en01"><a href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a> David Rosenthal. <a href="https://blog.dshr.org/2022/02/ee380-talk.html">EE380 Talk</a>. Feb 9, 2022.</li>
   <li id="en02"><a href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a> E. Glen Weyl, Puja Ohlhaver, Vitalik Buterin. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763">Decentralized Society: Finding Web3’s Soul</a>. 11 May 2022.</li>
