@@ -123,7 +123,7 @@ image:    "en-alignment.svg"
   <p>As I see it, the <span style="font-size: smaller; ">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
   <p>The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of nterdependence towards a higher level of collaboration.</p>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">ENDNOTES</h1>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="fn01"><a href="#enf01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a> Matt Perez, Adrian Perez, Jose Leal. RADICAL COMPANIES: Without Bosses or Employees. Pradera Media, 2021.</li>
   <li id="fn02"><a href="#en02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a> Reforming Reckless Government Spending. The Heritage Foundation (of course) <<a href="https://diigo.com/0nct6w">https://diigo.com/0nct6w</a>></li>
