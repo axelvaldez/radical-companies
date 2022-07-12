@@ -79,7 +79,7 @@ image:    "dynamic-distribution-1.svg"
  </ul>
  <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to <em>everybody</em> in the team.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; "><spen style="FONT-SIZE: SMALLER; ">RADICAL</spen> Distribution</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; "><spen style="font-size:smaller; ">RADICAL</spen> Distribution</h1>
  <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Inspiration: The Rosedale Distribution</h2>
   <p>Rosedale Distribution<sup id="fnref5"><a href="#fn4" rel="footnote">5</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,</p>
@@ -215,7 +215,7 @@ image:    "dynamic-distribution-1.svg"
    <p>Maybe I gave you <span style="font-size:smaller; ">RAD</span>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
    <p>In short, <span style="font-size:smaller; ">RAD</span>s account for the uncountable, they measure what had previously been immeasurable.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; "><span style="font-size: smaller; ">RADICAL</span> Wealth Extraction</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL</span> Wealth Extraction</h1>
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <span style="font-size:smaller; ">RAD</SPAN>s. For example,</p>
  <ul>
   <li>Six of us generate $16,000 in dividends.</li>
@@ -311,7 +311,7 @@ image:    "dynamic-distribution-1.svg"
     the YIELD axis. The RADICAL box shows a hashed square area which highlights the fact that the RADICAL approach provides much more YIELD than the BANKS or VC approaches.    The graph on the right has RISKS on the horizontal axis and BENEFICIARIES on the vertical axis. As in the previous graph, BANKS defines a small horizontal parallelogram. VC defines a horizontal parallelogram, with it's dot appears seven tenth of the way into the RISKS axis and one fourth of the way up the YIELD axis. As in the previous graph, RADICAL defines a large vertical parallelogram. The RADICAL box shows a hashed area which highlights the fact that the RADICAL approach BENEFITS many more people than the BANKS or VC approaches. " title="Comparing Banks, VCs, and RADICAL.">
    </p>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">ENDNOTES</h1>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin:50px 0 20px 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="fn1"><a href="#fnref1"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a> Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>). May 4, 2020.</li>
   <li id="fn2"><a href="#fnref2"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>This is also a gesture popularized in <a href="https://en.wikipedia.org/wiki/The_Hunger_Games">The Hunger Games</a> movies to express unity with people striving to survive. Since 2014 it has also become a symbol of <a href="https://radicals.world/pG9bAM">pro-democracy in Thailand</a> (alt., <a href="https://diigo.com/0iu409">here</a>). Very apropos.</li>
@@ -320,7 +320,7 @@ image:    "dynamic-distribution-1.svg"
   <li id="fn5"><a href="#fnref5"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>James Owen. <a href="https://www.goodreads.com/quotes/1279415-it-ain-t-bragging-if-you-ve-done-it-there-s-nothing-wrong">Drawing Out the Dragons: A Meditation on Art, Destiny, and the Power of Choice</a> (alt., <a href="https://diigo.com/0ofgkz">here</a>). 2014.</li>
  </ol>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin:60px 0 20px 0; ">RELATED</h1>
  <ul>
   <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
    <ul>
