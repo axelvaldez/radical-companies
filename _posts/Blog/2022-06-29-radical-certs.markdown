@@ -65,7 +65,7 @@ image:    "radical-certs.svg"
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
-  <li id="fn01"><a href="#fnref1"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a>Dan & Jessica. <a href="https://www.recycledandrenewed.com/what-does-certified-b-corporation-mean/" target="blank">What Does Certified B Corporation Mean?</a> (alt., <a href="https://diigo.com/0pa15t">here</a>). Mar 9, 2020.</li>
+  <li id="fn01"><a href="#fnref1"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a>Dan & Jessica. <a href="https://www.recycledandrenewed.com/what-does-certified-b-corporation-mean/" target="blank">What Does Certified B Corporation Mean?</a> (alt., <a href="https://diigo.com/0pa15t" target="blank">here</a>). Mar 9, 2020.</li>
  </ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
