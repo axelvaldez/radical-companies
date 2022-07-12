@@ -11,8 +11,8 @@ image:    "en-alignment.svg"
 </div>
 
 <div>
- <pre class="prettyprint" style="font-size:25px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; ">If the land-value tax were adopted as the sole means of raising [USA] government revenue, it would have funded [in 2009] less than half of the federal budget, and none of the budgets of all 50 states and thousands of cities, towns, and counties.<sup id="fnref1"><a href="#fn1" rel="endnotes">1</a></sup></pre>
- <pre class="prettyprint" style="font-size:25px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; ">"&hellip; taxes are not the solution …"<sup id="fnref2"><a href="#fn2" rel="endnotes">2</a></sup></pre>
+ <pre class="prettyprint" style="font-size:25px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; ">If the land-value tax were adopted as the sole means of raising [USA] government revenue, it would have funded [in 2009] less than half of the federal budget, and none of the budgets of all 50 states and thousands of cities, towns, and counties.<sup id="en01"><a href="#fn01" rel="endnotes">1</a></sup></pre>
+ <pre class="prettyprint" style="font-size:25px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; ">"&hellip; taxes are not the solution …"<sup id="en02"><a href="#fn02" rel="endnotes">2</a></sup></pre>
 </div>
 
 <h1 style="font-size:0px; font-family:Courier New, monospace; ">Introduction</h1>
@@ -125,8 +125,8 @@ image:    "en-alignment.svg"
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
-  <li id="fn1"><a href="#enf1"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a> Matt Perez, Adrian Perez, Jose Leal. RADICAL COMPANIES: Without Bosses or Employees. Pradera Media, 2021.</li>
-  <li id="fn2"><a href="#fnref2"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a> Reforming Reckless Government Spending. The Heritage Foundation (of course) <<a href="https://diigo.com/0nct6w">https://diigo.com/0nct6w</a>></li>
+  <li id="fn01"><a href="#enf01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a> Matt Perez, Adrian Perez, Jose Leal. RADICAL COMPANIES: Without Bosses or Employees. Pradera Media, 2021.</li>
+  <li id="fn02"><a href="#en02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a> Reforming Reckless Government Spending. The Heritage Foundation (of course) <<a href="https://diigo.com/0nct6w">https://diigo.com/0nct6w</a>></li>
  </ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
