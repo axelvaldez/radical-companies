@@ -1,0 +1,78 @@
+---
+layout:   post
+title:    "Traffic Lights vs Roundabouts"
+subtitle: "A Metaphor for FIAT vs RADICAL"
+authors:  "Matt Perez"
+image:    "about-daos.svg"
+---
+
+<div style="display:none;">
+ <p>Traffic Lights and Roundabouts make a good metaphor for the FIAT and RADICAL models.</p>
+</div>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; "></h1>
+ <p>Traffic Lights and Roundabouts make a good metaphor for the FIAT and RADICAL models.</p>
+ <p>Both are meant to avoid collisions and other accidents. Traffic Lights do it by imposing a fixed structure while with centralized rules, while Roundabouts let the drivers manage how they actually work.</p>
+ <p>Traffic Lights are a definite form of control from a centralized traffic authority. Lights are programmed according to the whims of that local authority, or even to the programmer’s whim. For example, one of the lights near my house gave preference to the north lane. I can’t say for certain, but my hypothesis was the programmer lived just south of it and arranged it so that the north lane got preferential treatment.</p>
+ <p>For a long time the rule was that both lanes of one street will flow and then the east and west lanes, back and forth. A while back some intersections changed to a round-robin order and others to different models. The local community had no say in the changes. It came from somewhere in the bureaucracy and to change it you have to either have “pull” or navigate (read: fight) the bureaucracy. Finally, Traffic Lights are very expensive to install and to maintain. And they lean to homely, at best.</p>
+ <p style="text-align:center; ">
+  <img src="/assets/img/traffic-lights.svg" alt="Traffic lights in the US, Europe, and Mexico: all pretty ugly." width="70%">
+ </p>
+ <p>Roundabouts could be homely, too, but mostly they are not. They usually match their surroundings, are very artistic, and can even be flamboyant. They don’t cost as much to “install” and maintenance, if any, is minimal. Most importantly, <em>the drivers manage their operation</em> according to what’s happening: sometimes they go in and other times they wait for other cars or pedestrians. There’s no bureaucracy to fight and the only “influence” that counts is that of the people at the intersection.</p>
+ <p style="text-align:center; ">
+  <img src="/assets/img/traffic-lights.svg" alt="Roundabouts in matching their surroundings, artistics, and flamboyant. All very interesting and good looking." width="70%">
+ </p>
+ <p>The point, of course, is not the money saving for the local government or the time savings for drivers. The important thing is that <em>in Roundabouts people in that place and moment don’t need an “authority” to tell them how to proceed</em>.</p>
+ <p>Roundabouts represent decentralized decision-making, as in the c0-management model, and Traffic Lights centralized, corruptible, decision-making, as in the FIAT system we live in.</p>
+ 
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
+ <ul>
+  <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
+   <ul>
+    <li><a>EN</a>: <a href="https://radicalcompanies.com">&hellip;</a></li>
+    <li><a>ES</a>: <a href="https://radicalcompanies.com">&hellip;</a></li>
+   </ul>
+  <li>Blog posts,</li>
+   <ul>
+    <li>For the Impatient: <a href="https://radicalcompanies.com/2022/05/04/RADICAL-COMPANIES-impatient">&hellip;/RADICAL-COMPANIES-impatient</a></li>
+    <li>Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/05/RADICAL-COMPANIES-faq">&hellip;/RADICAL-COMPANIES-faq</a></li>
+   </ul>
+   <li>The Missing Chapters,</li>
+    <ul>
+     <li>RADICAL COIN: <a href="https://radicalcompanies.com/2022/05/07/RADICAL-coins">&hellip;/RADICAL-coins</a></li>
+     <li>RADICAL Land: <a href="https://radicalcompanies.com/2022/05/08/RADICAL-land">&hellip;/RADICAL-land</a></li>
+     <li>RADICAL Government: <a href="https://radicalcompanies.com/2022/05/06/RADICAL-government">&hellip;/RADICAL-government</a></li>
+    </ul>
+   <li>rCompanies</li>
+    <ul>
+     <li>rPRADERA MEDIA,</li>
+      <ul>
+       <li>PRADERA Shelf: <a href="https://radicalcompanies.com/2022/04/02/PRADERA-Shelf">&hellip;/PRADERA-Shelf</a></li>
+       <li>PRADERA Reader: <a href="https://radicalcompanies.com/2022/04/01/PRADERA-Reader">&hellip;/PRADERA-Reader</a></li>
+       <li>RADICALS.LIVE!: <a href="https://radicalcompanies.com/2022/04/04/RADICALS-Live">&hellip;/RADICALS-Live</a></li>
+       <li>RADICAL MBA: <a href="https://radicalcompanies.com/2022/04/03/RADICAL-MBA">&hellip;/RADICAL-MBA</a></li>
+      </ul>
+     <li>rHatchery: <a href="https://radicalcompanies.com/2022/05/16/rHatchery">&hellip;/rHatchery</a></li>
+     <li>rCircuit: <a href="https://radicalcompanies.com/2022/04/05/rCircuit">&hellip;/rCircuit</a></li>
+     <li>rPlayGym: <a href="https://radicalcompanies.com/2022/04/06/rPlayGym">&hellip;/rPlayGym</a></li>
+     <li>rEnsembles,</li>
+      <ul>
+       <li>rCORE: <a href="https://radicalcompanies.com/2022/05/15/rCORE">&hellip;/rCORE</a></li>
+       <li>rClean: <a href="https://radicalcompanies.com/2022/05/14/rClean">&hellip;/rClean</a></li>
+       <li>rStayHome: <a href="https://radicalcompanies.com/2022/05/12/rStayHome">&hellip;/rStayHome</a></li>
+       <li>rKidsCare: <a href="https://radicalcompanies.com/2022/05/13/rKidsKare">&hellip;/rKidsKare</a></li>
+      </ul>
+    </ul>
+  <li>rStartups,</li>
+   <ul>
+    <li>rBuddyNeighbor: <a href="https://radicalcompanies.com/2022/05/20/rBuddyNeighbor">&hellip;/rBuddyNeighbor</a></li>
+    <li>rNextBright: <a href="https://radicalcompanies.com/2022/05/22/rNextBright">&hellip;/rNextBright</a></li>
+    <li>rHintersoft: <a href="https://radicalcompanies.com/2022/05/21/rHintersoft">&hellip;/rHintersoft</a></li> 
+   </ul>
+  <li>rProjects,</li>
+   <ul>
+    <li>REMARK!: <a href="https://radicalcompanies.com/2022/05/18/REMARK">&hellip;/REMARK</a></li>
+    <li>RADs!: <a href="https://radicalcompanies.com/2022/05/19/RADs!">&hellip;/RADs!</a></li>
+    <li>Attentive UI: <a href="https://radicalcompanies.com/2022/05/17/attentive-ui.html">&hellip;attentive-ui.html</a></li>
+   </ul>
+ </ul>
