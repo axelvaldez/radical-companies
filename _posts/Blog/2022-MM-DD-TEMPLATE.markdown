@@ -13,14 +13,9 @@ image:    "about-daos.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
  <p>P</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
- <p>P<p>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
- <p>P<p>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
- <p>P<p>
+ <p style="text-align:center; ">
+  <img src="/assets/img/en-alignment.svg" alt="The Scout salute as a mnemonic for IMPACT, PURPOSE, and MISSION. The middle finger represents IMPACT or what are we doing this for? The index finger represents PURPOSE or why are we doing this? and the annular finger represents MISSION or the What, When, and How we are doing this." width="70%">
+ </p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
  <ul>
