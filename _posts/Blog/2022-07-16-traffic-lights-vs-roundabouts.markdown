@@ -7,7 +7,7 @@ image:    "roundabouts-icon.svg"
 ---
 
 <div style="display:none;">
- <p>Traffic Lights and Roundabouts make a good metaphor for the FIAT vs RADICAL models.</p>
+ <p>Traffic Lights and Roundabouts make a good metaphor for the difference between FIAT vs RADICAL models.</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; "></h1>
