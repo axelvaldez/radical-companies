@@ -18,13 +18,16 @@ image:    "giving-rads-icon.svg"
  <ol>
   <li>Everyone gets one RAD per day. This way everybody gets an equal piece of the company <em>to give</em>.</li>
   <li>Actually, you don’t give RADs away as much as what you’re doing is recognizing your peers' contributions. And every time you do, they get a ping letting them know.</li>
-  <li>The actual number of RADs is calculated by the app as,</li>
+  <li>The actual number of RADs is calculated by the app as,
+   <p style="text-align:center; ">
+    <img src="/assets/img/pings-to-rads-equation.svg" alt="A simple equation, of 'Total RADS' divided by 'Total PINGs' and the result multiplied by 'Recognition PINGs.' This calculates the number of RADs that each person will get relative to the number of PINGs you gave him for their contributions." width="70%">
+   </p>
+  </li>
   <li>For example, if at the end of the month you have 30 RADs and you’ve pressed the green button 15 times equally for two people, then they each get 15 RADs. If, on the other hand, you’ve pressed the green button 15 times equally for two people, they still get 15 RADs.</li>
   <li>After trying out various methods, this seems to be the easiest since you don’t have to worry about how many RADs you have—instead you can focus on your peers’ contributions and press the green button as often as you feel is right for each.</li>
  </ol>
  <p>Keep in mind that the number of RADs given are transparent to everyone. So, if you are worried about somebody cheating (<em>e.g.</em>, giving RADs while on vacation), somebody will see it and bring it up in conversation.</p>
  <p>Finally, the coffee cup icon is what you press if you want to talk with somebody (<em>e.g.</em>, because they pissed you off or because you notice some untoward behavior that you want to bring up). In that case, you can write yourself a <em>private</em> note about what prompted you to do so.</p>
-
  <p style="text-align:center; ">
   <img src="/assets/img/giving-rads.svg" alt="Two screenshots from the RADs! mobile app. The screenshots show the two tabs the app has: the left tab, labeled co-owners, shows the people who are included in my team. The right tab shows people that have been invited to the use the app. I can give RADs to people in either list." width="70%">
  </p>
