@@ -10,7 +10,7 @@ image:    "about-daos.svg"
  <p>The latest and easiest way we've found to recognize others&rsquo; contributions with RADs.</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; "></h1>
  <p>In the book RADICAL COMPANIES<sup id="bn01"><a href="#en01">1</a></sup> we mentioned various ways of deploying RADs, but we were generally vague because we had no experience with them. We now have a mobile app to help us with the RAD distribution.<sup id="enO2"><a href="#fn2" rel="footnote">2</a></sup> and we have build some experience since then and we can at least go through one specific example of how we thing of giving <span style="font-size:smallers; ">RAD</span> now.</p>
  
  <img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
@@ -25,14 +25,13 @@ image:    "about-daos.svg"
  <p>Finally, the coffee cup icon is what you press if you want to talk with somebody (<em>e.g.</em>, because they pissed you off or because you notice some untoward behavior that you want to bring up). In that case, you can write yourself a <em>private</em> note about what prompted you to do so.</p>
 
  <p style="text-align:center; ">
-  <img src="/assets/img/givin-rads.svg" alt="" width="70%">
+  <img src="/assets/img/2022/07/17/givin-rads.svg" alt="" width="70%">
  </p>
 
-<h1>ENDNOTES</h1>
-<hr>
- <ol>
-  <li id="en01"><a href="#bn01">x</a> <a href="https://radicalcompanies.com">https://radicalcompanies.com</a></li>
-  <li id="en02"><a href="#bn02">x</a> Our thanks to the team at Xipe Technologies, in Mexico, who created it.</li>
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
+ <ol style="font-size:smaller; ">
+  <li id="en01"><a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a> <a href="https://radicalcompanies.com">https://radicalcompanies.com</a></li>
+  <li id="en02"><a href="#bn02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a> Our thanks to the team at Xipe Technologies, in Mexico, who created it.</li>
  </ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
