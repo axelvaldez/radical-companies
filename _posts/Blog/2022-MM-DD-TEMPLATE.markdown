@@ -35,9 +35,9 @@ image:    "about-daos.svg"
    </ul>
    <li>The Missing Chapters,</li>
     <ul>
-     <li>RADICAL COIN: <a href="https://radicalcompanies.com/2022/05/07/RADICAL-coins">&hellip;/RADICAL-coins</a></li>
-     <li>RADICAL Land: <a href="https://radicalcompanies.com/2022/05/08/RADICAL-land">&hellip;/RADICAL-land</a></li>
-     <li>RADICAL Government: <a href="https://radicalcompanies.com/2022/05/06/RADICAL-government">&hellip;/RADICAL-government</a></li>
+     <li>RADICAL COIN: <a href="https://radicalcompanies.com/2022/05/07/rcoins">&hellip;/rcoins</a></li>
+     <li>RADICAL Land: <a href="https://radicalcompanies.com/2022/05/08/rland">&hellip;/rland</a></li>
+     <li>RADICAL Government: <a href="https://radicalcompanies.com/2022/05/06/rgovernment">&hellip;/rgovernment</a></li>
     </ul>
    <li>rCompanies</li>
     <ul>
