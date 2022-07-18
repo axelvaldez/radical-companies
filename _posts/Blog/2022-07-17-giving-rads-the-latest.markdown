@@ -27,7 +27,7 @@ image:    "about-daos.svg"
  <p>Finally, the coffee cup icon is what you press if you want to talk with somebody (<em>e.g.</em>, because they pissed you off or because you notice some untoward behavior that you want to bring up). In that case, you can write yourself a <em>private</em> note about what prompted you to do so.</p>
 
  <p style="text-align:center; ">
-  <img src="/assets/img/en-alignment.svg" alt="" width="70%">
+  <img src="/assets/img/givin-rads.svg" alt="" width="70%">
  </p>
 
 <h1>ENDNOTES</h1>
