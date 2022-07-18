@@ -20,7 +20,7 @@ image:    "giving-rads-icon.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
  <ol>
   <li>Everyone gets one RAD per day. This way everybody gets an equal piece of the company <em>to give</em>.</li>
-  <li>Actually, you don’t give RADs away as much as what you’re doing is recognizing your peers' contributions. And every time you do, they get a ping letting them know.</li>
+  <li>Actually, what you are really doing is to recognizing your peers' contributions. And every time you do, they get a ping letting them know. Eventually, this pings get converted to <span style="font-size:smaller; ">RAD</span>s.</li>
   <li>The actual number of RADs is calculated by the app as,
    <p style="text-align:center; ">
     <img src="/assets/img/pings-to-rads-equation.svg" alt="A simple equation, of 'Total RADS' divided by 'Total PINGs' and the result multiplied by 'Recognition PINGs.' This calculates the number of RADs that each person will get relative to the number of PINGs you gave him for their contributions."  style="margin:0 auto; " width="70%">
