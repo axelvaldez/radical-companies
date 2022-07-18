@@ -11,10 +11,8 @@ image:    "about-daos.svg"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
- <p>In the book RADICAL COMPANIES<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> we mentioned various ways of deploying RADs, but we were generally vague because we had no experience with them. Now we do and we can at least go through one specific example.</p>
- <ol>
-  <li>We now have a mobile app to help us with the RAD distribution.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup></li>
- </ol>
+ <p>In the book RADICAL COMPANIES<sup id="bn01"><a href="#en01">1</a></sup> we mentioned various ways of deploying RADs, but we were generally vague because we had no experience with them. We now have a mobile app to help us with the RAD distribution.<sup id="enO2"><a href="#fn2" rel="footnote">2</a></sup> and we have build some experience since then and we can at least go through one specific example of how we thing of giving <span style="font-size:smallers; ">RAD</span> now.</p>
+ 
  <img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
  <ol>
   <li>Everyone gets one RAD per day. This way everybody gets an equal piece of the company <em>to give</em>.</li>
@@ -33,8 +31,8 @@ image:    "about-daos.svg"
 <h1>ENDNOTES</h1>
 <hr>
  <ol>
-  <li id="en01"><a href="#bookmark=id.tncjw0cgynpd">x</a> <a href="https://radicalcompanies.com">https://radicalcompanies.com</a></li>
-  <li id="en02"><a href="#bookmark=id.tncjw0cgynpd">x</a> Our thanks to the team at Xipe Technologies, in Mexico, who created it.</li>
+  <li id="en01"><a href="#bn01">x</a> <a href="https://radicalcompanies.com">https://radicalcompanies.com</a></li>
+  <li id="en02"><a href="#bn02">x</a> Our thanks to the team at Xipe Technologies, in Mexico, who created it.</li>
  </ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
