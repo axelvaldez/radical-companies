@@ -17,7 +17,7 @@ image:    "about-daos.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">The Smaller Pill</h1>
  <p>Rather than attempting to change the ownership structure of the whole business, this is much smaller pill to take because it is about the distribution method of a specific fund. In this case, we are talking about an investment fund, but it can also apply to the tradional annual "bonus" or any type of financial distribution.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">An Investment</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Repaying an Investment</h1>
  <p>We are used to taking a cash infusion in exchange for a piece of the business. Angel investments are usually done in exchange for a future take and in these cases, the control of the business stays in the hands of the founders, more or less. Then a VC comes along, invests in the business. The Angels take their capital gains and can feel good that they helped launch a business. The VC, however, takes shares in the businesses in order to exert a measure of financial control. Oftentimes, several VCs come together to make an investment and end up with majority financial control of the business. In theory, they don&rsquo;t have a say in day-to-day operations, but in practice if there&rsquo;s something they don&rsquo;t like they can fire the CEO and get a new one that agrees with them. The end results is that finances ends up being the only priority and everyhthing else falls by the side. The product, the technology, and, in particular, people become a lower priority which is to say, no priority at all. That&rsquo;s the way the <span style="font-size:smaller; ">FIAT</span> world work and something we are so used to that we don&rsquo;t even notice. That&rsquo;s the way it works!</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">The Smaller Pill</h1>
@@ -27,11 +27,13 @@ image:    "about-daos.svg"
  <ul>
   <li>Everybody becomes aware of the <span style="font-size:smaller; ">RAD</span>s learns to use them.</li>
   <li>Everybody gets a taste for a decentralized, transparent system.</li>
-  <li>Everybody learn to use them.</li>
-  <li>Everybody learn to use them.</li>
-  <li>Everybody learn to use them.</li>
+  <li>The investment becomes everybody's responsibility. They have a financil stage in the outcome.</li>
+  <li>If problems crop up along the way, they'll have to figure out how to explain what happened and how they are going to get around it.</li>
+  <li>They may try a <em>heroic</em> approach. It will fail and they will learn to take a different approach.</li>
+  <li>They may come up with other application areas, perhaps even outside of work.</li>
  </ul>
- <p></p>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">The Annual Bonus</h1>
  <p></p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; "></h1>
