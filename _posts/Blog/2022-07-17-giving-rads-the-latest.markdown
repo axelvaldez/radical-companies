@@ -26,7 +26,7 @@ image:    "about-daos.svg"
  <p>Finally, the coffee cup icon is what you press if you want to talk with somebody (<em>e.g.</em>, because they pissed you off or because you notice some untoward behavior that you want to bring up). In that case, you can write yourself a <em>private</em> note about what prompted you to do so.</p>
 
  <p style="text-align:center; ">
-  <img src="/assets/img/giving-rads.svg" alt="Two screen shots from the RADs! app. It has two tabs: the left tab showns the co-owners and the right tab other people that have been invited to the use the app." width="70%">
+  <img src="/assets/img/giving-rads.svg" alt="Two screenshots from the RADs! mobile app. The screenshots show the two tabs the app has: the left tab, labeled co-owners, shows the people who are included in my team. The right tab shows people that have been invited to the use the app. I can give RADs to people in either list." width="70%">
  </p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
