@@ -13,11 +13,11 @@ image:    "giving-rads-icon.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; "></h1>
  <p>In the book RADICAL COMPANIES<sup id="bn01"><a href="#en01">1</a></sup> we mentioned various ways of deploying RADs, but we were generally vague because we had no experience with them.</p>
  <p>We now have a mobile app to help us with the RAD distribution.<sup id="bn02"><a href="#en02" rel="footnote">2</a></sup> and we have build some experience since then and we can at least go through one specific example of how we thing of giving <span style="font-size:smaller; ">RAD</span> now.</p>
+ <p style="text-align:center; ">
+  <img src="/assets/img/giving-rads.svg" alt="Two screenshots from the RADs! Distribution mobile app. The screenshots show the two tabs the app has: the left tab, labeled co-owners, shows the people who are included in my team. The right tab shows people that have been invited to the use the app. I can give RADs to people in either list." width="70%">
+ </p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
- <p style="text-align:center; ">
-  <img src="/assets/img/giving-rads.svg" alt="Two screenshots from the RADs! mobile app. The screenshots show the two tabs the app has: the left tab, labeled co-owners, shows the people who are included in my team. The right tab shows people that have been invited to the use the app. I can give RADs to people in either list." width="70%">
- </p>
  <ol>
   <li>Everyone gets one RAD per day. This way everybody gets an equal piece of the company <em>to give</em>.</li>
   <li>Actually, you don’t give RADs away as much as what you’re doing is recognizing your peers' contributions. And every time you do, they get a ping letting them know.</li>
