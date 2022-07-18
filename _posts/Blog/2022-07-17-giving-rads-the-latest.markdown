@@ -12,6 +12,11 @@ image:    "giving-rads-icon.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; "></h1>
  <p>In the book RADICAL COMPANIES<sup id="bn01"><a href="#en01">1</a></sup> we mentioned various ways of deploying RADs, but we were generally vague because we had no experience with them. We now have a mobile app to help us with the RAD distribution.<sup id="bn02"><a href="#en02" rel="footnote">2</a></sup> and we have build some experience since then and we can at least go through one specific example of how we thing of giving <span style="font-size:smaller; ">RAD</span> now.</p>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
+ <p style="text-align:center; ">
+  <img src="/assets/img/giving-rads.svg" alt="Two screenshots from the RADs! mobile app. The screenshots show the two tabs the app has: the left tab, labeled co-owners, shows the people who are included in my team. The right tab shows people that have been invited to the use the app. I can give RADs to people in either list." width="70%">
+ </p>
  <ol>
   <li>Everyone gets one RAD per day. This way everybody gets an equal piece of the company <em>to give</em>.</li>
   <li>Actually, you don’t give RADs away as much as what you’re doing is recognizing your peers' contributions. And every time you do, they get a ping letting them know.</li>
@@ -23,11 +28,8 @@ image:    "giving-rads-icon.svg"
   <li>For example, if at the end of the month you have 30 RADs and you’ve pressed the green button 15 times equally for two people, then they each get 15 RADs. If, on the other hand, you’ve pressed the green button 15 times equally for two people, they still get 15 RADs.</li>
   <li>After trying out various methods, this seems to be the easiest since you don’t have to worry about how many RADs you have—instead you can focus on your peers’ contributions and press the green button as often as you feel is right for each.</li>
  </ol>
- <p>Keep in mind that the number of RADs given are transparent to everyone. So, if you are worried about somebody cheating (<em>e.g.</em>, giving RADs while on vacation), somebody will see it and bring it up in conversation.</p>
- <p>Finally, the coffee cup icon is what you press if you want to talk with somebody (<em>e.g.</em>, because they pissed you off or because you notice some untoward behavior that you want to bring up). In that case, you can write yourself a <em>private</em> note about what prompted you to do so.</p>
- <p style="text-align:center; ">
-  <img src="/assets/img/giving-rads.svg" alt="Two screenshots from the RADs! mobile app. The screenshots show the two tabs the app has: the left tab, labeled co-owners, shows the people who are included in my team. The right tab shows people that have been invited to the use the app. I can give RADs to people in either list." width="70%">
- </p>
+ <p>Keep in mind that the number of RADs given are transparent to everyone. So, if you are worried about somebody cheating (<em>e.g.</em>, giving RADs while taking time off), somebody else will see it and bring it up in conversation. Or not.</p>
+ <p>Finally, the coffee cup button is what you press if you want to talk with somebody (<em>e.g.</em>, to give feedback). In that case, you can write yourself a <em>private</em> note about what prompted you to do so.</p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
