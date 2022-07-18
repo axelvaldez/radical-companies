@@ -3,7 +3,7 @@ layout:   post
 title:    "The Co-Ownership Model in Small Bites"
 subtitle: ""
 authors:  "Matt Perez, Tullio Siragusa"
-image:    "about-daos.svg"
+image:    "co-ownership-in-smalle-bites-icon.svg"
 ---
 
 <div style="display:none;">
