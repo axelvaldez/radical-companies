@@ -3,11 +3,11 @@ layout:   post
 title:    "Traffic Lights vs Roundabouts"
 subtitle: "A Metaphor for FIAT vs RADICAL"
 authors:  "Matt Perez"
-image:    "about-daos.svg"
+image:    "roundabouts-icon.svg"
 ---
 
 <div style="display:none;">
- <p>Traffic Lights and Roundabouts make a good metaphor for the FIAT and RADICAL models.</p>
+ <p>Traffic Lights and Roundabouts make a good metaphor for the FIAT vs RADICAL models.</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; "></h1>
