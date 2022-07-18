@@ -7,7 +7,7 @@ image:    "about-daos.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>The latest and easiest way we've found to recognize others&rsquo; contributions with RADs.</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
