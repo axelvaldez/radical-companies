@@ -19,19 +19,27 @@ image:    "about-daos.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">An Investment</h1>
  <p>We are used to taking a cash infusion in exchange for a piece of the business. Angel investments are usually done in exchange for a future take and in these cases, the control of the business stays in the hands of the founders, more or less. Then a VC comes along, invests in the business. The Angels take their capital gains and can feel good that they helped launch a business. The VC, however, takes shares in the businesses in order to exert a measure of financial control. Oftentimes, several VCs come together to make an investment and end up with majority financial control of the business. In theory, they don&rsquo;t have a say in day-to-day operations, but in practice if there&rsquo;s something they don&rsquo;t like they can fire the CEO and get a new one that agrees with them. The end results is that finances ends up being the only priority and everyhthing else falls by the side. The product, the technology, and, in particular, people become a lower priority which is to say, no priority at all. That&rsquo;s the way the <span style="font-size:smaller; ">FIAT</span> world work and something we are so used to that we don&rsquo;t even notice. That&rsquo;s the way it works!</p>
- <p>Even though that is the way the world is today, that is not the way. In fact, if it continues to operate this way, we will go deeper into a dystopia that we won't be able to come out of for a long time, if at all. The <span style="font-size:smaller; ">RADICAL</span> model is an alternative</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">The Smaller Pill</h1>
+ <p>Even though that is the way the world is today, that is not the way. In fact, if it continues to operate this way, we will go deeper into a dystopia that we won't be able to come out of for a long time, if at all. The <span style="font-size:smaller; ">RADICAL</span> model is an alternative to a non-dystopian future. The <span style="font-size:smaller; ">RADICAL COMPANIES</span> book proposes a model where companies are owned by everybody who contributes to it, not just a few bosses. The problem with this is that it scares the bosses, but it also scares <em>the employees</em>. Start ups and small companies in general are attracted by this, but any bigger businesses can even fanthom it.</p>
+ <p>Instead, we can aim the co-ownership model at smaller targets. Like, the annual &ldquo;bonus&rdquo; fund, or, in this case, an investment repayment fund. This will give everybody involved a taste of what it could be and, more importantly, it shows them how it works. Who knows, they may even come up with other areas where it could be used, even outside the company.</p>
+ <p>For example, an investors gives the company $200K to be repaid with 10% interest in two years. Normally, the modest interest belongs to the investor. But let's say that instead the company matches the 10% interest with an additional 10% to end up with a $40K fund. The money in the fund would then be distributed to everybody involved in repaying the investment, including all the employees, maybe some of their bosses, and even the investor. The $40K can be distributed using<spane style="font-size:smaller; ">RAD</span>s<a id="bn01" href="#en01">.<sup>1</sup></a></p>
+ <ul>
+  <li>Everybody becomes aware of the <span style="font-size:smaller; ">RAD</span>s learns to use them.</li>
+  <li>Everybody gets a taste for a decentralized, transparent system.</li>
+  <li>Everybody learn to use them.</li>
+  <li>Everybody learn to use them.</li>
+  <li>Everybody learn to use them.</li>
+ </ul>
+ <p></p>
  <p></p>
 
- <p>Footnote here<sup id="bn01"><a href="#en01">1</a></sup></p>
- <p style="text-align:center; ">
-  <img src="/assets/img/en-alignment.svg" alt="" width="70%">
- </p>
+<h1 style="font-size:40px; font-family:Courier New, monospace; "></h1>
+ <p></p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
-  <li id="en01"><a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a> xxx</li>
+  <li id="en01"><a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a> See <a href="https://radicalcompanies.com/2022/07/17/giving-rads-the-latest.html" target="blank">Giving RADs: An Example</a></li>
  </ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
