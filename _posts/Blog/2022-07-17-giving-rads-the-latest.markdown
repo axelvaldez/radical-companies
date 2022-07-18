@@ -14,6 +14,7 @@ image:    "about-daos.svg"
  <p>In the book RADICAL COMPANIES<sup id="bn01"><a href="#en01">1</a></sup> we mentioned various ways of deploying RADs, but we were generally vague because we had no experience with them. We now have a mobile app to help us with the RAD distribution.<sup id="enO2"><a href="#fn2" rel="footnote">2</a></sup> and we have build some experience since then and we can at least go through one specific example of how we thing of giving <span style="font-size:smallers; ">RAD</span> now.</p>
  
  <img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
+ 
  <ol>
   <li>Everyone gets one RAD per day. This way everybody gets an equal piece of the company <em>to give</em>.</li>
   <li>Actually, you don’t give RADs away as much as what you’re doing is recognizing your peers' contributions. And every time you do, they get a ping letting them know.</li>
@@ -25,7 +26,7 @@ image:    "about-daos.svg"
  <p>Finally, the coffee cup icon is what you press if you want to talk with somebody (<em>e.g.</em>, because they pissed you off or because you notice some untoward behavior that you want to bring up). In that case, you can write yourself a <em>private</em> note about what prompted you to do so.</p>
 
  <p style="text-align:center; ">
-  <img src="/assets/img/2022/07/17/givin-rads.svg" alt="" width="70%">
+  <img src="/assets/img/2022/07/17/givin-rads.svg" alt="Two screen shots from the RADs! app. It has two tabs: the left tab showns the co-owners and the right tab other people that have been invited to the use the app." width="70%">
  </p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
