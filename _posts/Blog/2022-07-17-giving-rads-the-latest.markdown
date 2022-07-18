@@ -2,7 +2,7 @@
 layout:   post
 title:    "Giving RADs"
 subtitle: "The Latest"
-authors:  "Matt Perez, Jose Leal"
+authors:  "Matt Perez, Jose Lxeal"
 image:    "giving-rads-icon.svg"
 ---
 
