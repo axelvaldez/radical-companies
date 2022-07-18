@@ -19,7 +19,7 @@ image:    "about-daos.svg"
   <li>Everyone gets one RAD per day. This way everybody gets an equal piece of the company <em>to give</em>.</li>
   <li>Actually, you don’t give RADs away as much as what you’re doing is recognizing your peers' contributions. And every time you do, they get a ping letting them know.</li>
   <li>The actual number of RADs is calculated by the app as,</li>
-  <li>For example, if at the end of the month you have 30 RADs and you’ve pressed the green button 15 times equally for two people, then they each get 15 RADs. If, on the other hand, you’ve pressed the green button 15 times equally for two people, they still get 15 RADs.<li>
+  <li>For example, if at the end of the month you have 30 RADs and you’ve pressed the green button 15 times equally for two people, then they each get 15 RADs. If, on the other hand, you’ve pressed the green button 15 times equally for two people, they still get 15 RADs.</li>
   <li>After trying out various methods, this seems to be the easiest since you don’t have to worry about how many RADs you have—instead you can focus on your peers’ contributions and press the green button as often as you feel is right for each.</li>
  </ol>
  <p>Keep in mind that the number of RADs given are transparent to everyone. So, if you are worried about somebody cheating (<em>e.g.</em>, giving RADs while on vacation), somebody will see it and bring it up in conversation.</p>
