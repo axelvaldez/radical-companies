@@ -20,7 +20,7 @@ image:    "about-daos.svg"
  </p>
  <p>Roundabouts could be homely, too, but mostly they are not. They usually match their surroundings, are very artistic, and can even be flamboyant. They don’t cost as much to “install” and maintenance, if any, is minimal. Most importantly, <em>the drivers manage their operation</em> according to what’s happening: sometimes they go in and other times they wait for other cars or pedestrians. There’s no bureaucracy to fight and the only “influence” that counts is that of the people at the intersection.</p>
  <p style="text-align:center; ">
-  <img src="/assets/img/traffic-lights.svg" alt="Roundabouts in matching their surroundings, artistics, and flamboyant. All very interesting and good looking." width="70%">
+  <img src="/assets/img/roundabouts.svg" alt="Roundabouts in matching their surroundings, artistics, and flamboyant. All very interesting and good looking." width="70%">
  </p>
  <p>The point, of course, is not the money saving for the local government or the time savings for drivers. The important thing is that <em>in Roundabouts people in that place and moment don’t need an “authority” to tell them how to proceed</em>.</p>
  <p>Roundabouts represent decentralized decision-making, as in the c0-management model, and Traffic Lights centralized, corruptible, decision-making, as in the FIAT system we live in.</p>
