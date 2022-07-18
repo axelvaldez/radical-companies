@@ -20,7 +20,7 @@ image:    "giving-rads-icon.svg"
   <li>Actually, you don’t give RADs away as much as what you’re doing is recognizing your peers' contributions. And every time you do, they get a ping letting them know.</li>
   <li>The actual number of RADs is calculated by the app as,
    <p style="text-align:center; ">
-    <img src="/assets/img/pings-to-rads-equation.svg" alt="A simple equation, of 'Total RADS' divided by 'Total PINGs' and the result multiplied by 'Recognition PINGs.' This calculates the number of RADs that each person will get relative to the number of PINGs you gave him for their contributions." width="70%">
+    <img src="/assets/img/pings-to-rads-equation.svg" alt="A simple equation, of 'Total RADS' divided by 'Total PINGs' and the result multiplied by 'Recognition PINGs.' This calculates the number of RADs that each person will get relative to the number of PINGs you gave him for their contributions."  style="margin:0 auto; " width="70%">
    </p>
   </li>
   <li>For example, if at the end of the month you have 30 RADs and you’ve pressed the green button 15 times equally for two people, then they each get 15 RADs. If, on the other hand, you’ve pressed the green button 15 times equally for two people, they still get 15 RADs.</li>
