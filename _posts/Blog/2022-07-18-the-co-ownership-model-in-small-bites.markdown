@@ -2,7 +2,7 @@
 layout:   post
 title:    "The Co-Ownership Model in Small Bites"
 subtitle: ""
-authors:  "Matt Perez, Tullio Siragusa"
+authors:  "Matt Perez"
 image:    "co-ownership-in-smalle-bites-icon.svg"
 ---
 
