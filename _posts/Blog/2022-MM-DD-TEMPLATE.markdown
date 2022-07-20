@@ -11,10 +11,9 @@ image:    "about-daos.svg"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
- <p>Footnote here<sup id="bn01"><a href="#en01">1</a></sup></p>
- <p style="text-align:center; ">
-  <img src="/assets/img/en-alignment.svg" alt="" width="70%">
- </p>
+ <p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
+
+<img style="margin:0 auto; " src="/assets/img/en-alignment.svg" alt="" width="70%">
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
