@@ -26,7 +26,7 @@ image:    "giving-rads-icon.svg"
    </p>
   </li>
   <li>For example, if you have a monthly cycle, at the end of the month you have 30 RADs and you’ve pressed the green button 15 times equally for two people, then they each get 15 RADs. If, on the other hand, you’ve pressed the green button 30 times equally for two people, they still get 15 RADs.</li>
-  <li>After trying out various methods, this seems to be the easiest since you don’t have to worry about how many RADs you have—instead you can focus on your peers’ contributions and press the green button as often as you feel is right for each.</li>
+  <li>After trying out various methods, this seems to be the easiest since you don’t have to worry about how many RADs you have—instead you can focus on your peers’ contributions and press the green button as often as you feel is right for each contribution.</li>
  </ol>
  <p>Keep in mind that the number of RADs given are transparent to everyone. So, if you are worried about somebody cheating (<em>e.g.</em>, giving RADs while taking time off), somebody else will see it and bring it up in conversation. Or not.</p>
  <p>Finally, the coffee cup button is what you press if you want to talk with somebody (<em>e.g.</em>, to give feedback). In that case, you can write yourself a <em>private</em> note about what prompted you to do so.</p>
