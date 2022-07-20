@@ -12,7 +12,7 @@ image:    "co-ownership-in-small-bites-icon.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace;  margin-top:50px; ">The Big Pill</h1>
  <div>
-  <p>Co-ownership is a big pill to swallow all in one gulp. It scares people and I&rsquo;ve been acussed of being utopian (<em>i.e.</em>, &ldquo;Not the  stuff that can work in the real world&rdquo;) or a communist (<em>i.e.</em>, &ldquo;Sounds like pinko stuff to me&rdquo;).</p>
+  <p>Co-ownership is a big pill to swallow all in one gulp. It scares people and I&rsquo;ve been acussed of being utopian (<em>i.e.</em>, &ldquo;Not the  stuff that can work in the real world&rdquo;) or a communist (<em>i.e.</em>, &ldquo;Sounds like red pinko stuff to me&rdquo;).</p>
   <p>Here is a much smaller bite that people may be more willing to experiment with. It is less threatening and signals &ldquo;progressive*&rdquo; (<em>i.e.</em>, and who doesn;t want to appear progressive these days?).</p>
  </div>
  <img style="margin:0; float:right; font-family:Courier New, monospace; font-size:smaller; " src="/assets/img/co-ownership-big-bite-small-bite" alt="The heading reads Co-Ownership. Below it there are two circles with bit marks in their upper-left. The circle on the left is big and it's label 'All of It;' the  circle on the right is smaller ans it is labelled 'Smaller Bites.'" width="30%">
