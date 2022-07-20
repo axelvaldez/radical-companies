@@ -11,11 +11,12 @@ image:    "co-ownership-in-small-bites-icon.svg"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace;  margin-top:50px; ">The Big Pill</h1>
- <img style="margin-left:10px; float:right; font-family:Courier New, monospace; font-size:smaller; width:30%; " src="/assets/img/co-ownership-in-small-bites.svg" alt="The heading reads Co-Ownership. Below it there are two circles with bit marks in their upper-left. The circle on the left is big and it's label 'All of It;' the  circle on the right is smaller ans it is labelled 'Smaller Bites.'">
+ <img style="margin-left:10px; float:right; font-family:Courier New, monospace; font-size:smaller; width:30%; " src="/assets/img/co-ownership-the-big-bite.svg" alt="The heading reads Co-Ownership. Below it there is one circle labeled 'All of It' with bite marks in their upper-left.">
  <p>Co-ownership is a big pill to swallow all in one gulp. It scares people and they react by accussing it of being utopian or a communist scheme  (<em>i.e.</em>, &ldquo;I see, but it won't work in the real world&rdquo;).</p>
  <p>Here is a much smaller bite that people may be more willing to experiment with. It is less threatening and signals &ldquo;progressive*&rdquo;.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:50px; ">The Smaller Bite</h1>
+ <img style="margin-left:10px; float:right; font-family:Courier New, monospace; font-size:smaller; width:30%; " src="/assets/img/co-ownership-the-small-bite.svg" alt="The heading reads Co-Ownership. Below it there is one circle labeled 'Smaller Bite' with bite marks over most of it.">
  <p>Rather than attempting to change the ownership structure of the whole business, this is much smaller pill to take because it is about the distribution method of a specific fund. In this case, we are talking about an investment fund, but it can also apply to the tradional annual "bonus" or any type of financial distribution.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace;  margin-top:50px;">Repayment Fund</h1>
@@ -35,7 +36,7 @@ image:    "co-ownership-in-small-bites-icon.svg"
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
-  <li id="en01"><a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a>It is not a gift, rather this but a very small part of the earning that everybody helped to create.</li>
+  <li id="en01"><a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a>It is not a gift. What we've called bonus is but a very small part of the earning that <em>everybody helped to create</em>.</li>
   <li id="en02"><a href="#bn02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a><a href="https://radicalcompanies.com/2022/07/17/giving-rads-the-latest.html" target="blank">&hellip;/giving-rads-the-latest.html</a></li>
  </ol>
 
