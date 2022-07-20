@@ -25,9 +25,9 @@ image:    "giving-rads-icon.svg"
     <img src="/assets/img/pings-to-rads-equation.svg" alt="A simple equation, of 'Total RADS' divided by 'Total PINGs' and the result multiplied by 'Recognition PINGs.' This calculates the number of RADs that each person will get relative to the number of PINGs you gave him for their contributions."  style="margin:0 auto; " width="70%">
    </p>
   </li>
-  <li>For example, if you have a monthly cycle, at the end of the month you have 30 RADs and you&rsquo;ve pressed the green button 15 times equally for two people, then they each get 15 RADs. If, on the other hand, you&rsquo;ve pressed the green button 30 times equally for two people, they still get 15 RADs.</li>
-  <li>After trying out various methods, this seems to be the easiest since you don&rsquo;t have to worry about how many RADs you have—instead you can focus on your peers&rsquo; contributions and press the green button as often as you feel is right for each contribution.</li>
-  <li>Once you are done with the green button, a note box will come up so you can let people know the reason you are giving them <span style="font-size:smaller; ">RAD</span>s</li>
+  <li>For example, if you have a monthly cycle, at the end of the month you may have 30 RADs and you&rsquo;ve pressed the green recognition button 15 times equally for two people, then they each get 15 RADs. If, on the other hand, you&rsquo;ve pressed the green recognition  button 30 times equally for two people, they still get 15 RADs.</li>
+  <li>After trying out various methods, this seems to be the easiest since you don&rsquo;t have to worry about how many RADs you have—instead you can focus on your peers&rsquo; contributions and press the green recognition  button as often as you feel is right for each contribution.</li>
+  <li>Once you are done with the green recognition  button, a note box will come up so you can let people know the reason you are giving them <span style="font-size:smaller; ">RAD</span>s</li>
  </ol>
  <p>Keep in mind that the number of RADs given are transparent to everyone. So, if you are worried about somebody cheating (<em>e.g.</em>, giving RADs while taking time off), somebody else will see it and bring it up in conversation. Or not.</p>
  <p>Finally, the coffee cup button is what you press if you want to talk with somebody (<em>e.g.</em>, to give feedback). In that case, you can write yourself a <em>private</em> note about what prompted you to do so.</p>
