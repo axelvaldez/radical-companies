@@ -13,9 +13,9 @@ image:    "co-ownership-in-small-bites-icon.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace;  margin-top:50px; ">The Big Pill</h1>
  <p>Co-ownership is a big pill to swallow all in one gulp. It scares people and they react by accussing it of being utopian or a communist scheme  (<em>i.e.</em>, &ldquo;I see, but it won't work in the real world&rdquo;).</p>
  <img style="margin-left:10px; float:right; font-family:Courier New, monospace; font-size:smaller; width:40%; " src="/assets/img/co-ownership-in-small-bites.svg" alt="The heading reads Co-Ownership. Below it there are two circles with bit marks in their upper-left. The circle on the left is big and it's label 'All of It;' the  circle on the right is smaller ans it is labelled 'Smaller Bites.'">
- <p>Here is a much smaller bite that people may be more willing to experiment with. It is less threatening and signals &ldquo;progressive*&rdquo; (<em>i.e.</em>, and who doesn;t want to appear progressive these days?).</p>
+ <p>Here is a much smaller bite that people may be more willing to experiment with. It is less threatening and signals &ldquo;progressive*&rdquo;.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:50px; ">The Smaller Pill</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:50px; ">The Smaller Bite</h1>
  <p>Rather than attempting to change the ownership structure of the whole business, this is much smaller pill to take because it is about the distribution method of a specific fund. In this case, we are talking about an investment fund, but it can also apply to the tradional annual "bonus" or any type of financial distribution.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace;  margin-top:50px;">Repayment Fund</h1>
