@@ -3,7 +3,7 @@ layout:   post
 title:    "The Co-Ownership Model in Small Bites"
 subtitle: ""
 authors:  "Matt Perez"
-image:    "co-ownership-in-smalle-bites-icon.svg"
+image:    "co-ownership-in-small-bites-icon.svg"
 ---
 
 <div style="display:none;">
