@@ -19,14 +19,13 @@ image:    "giving-rads-icon.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
  <ol>
-  <li>Everyone gets one RAD per day. This way everybody gets an equal piece of the company <em>to give</em>.</li>
-  <li>Actually, what you are really doing is to recognizing your peers' contributions. And every time you do, they get a ping letting them know. Eventually, this pings get converted to <span style="font-size:smaller; ">RAD</span>s.</li>
-  <li>The actual number of RADs is calculated by the app as,
+  <li>Everyone gets one RAD per day and way everybody gets an equal piece <em>to give</em>. Actually, what you are really doing is recognizing your peers&rsquo; contributions. Every time you do, they get a notification letting them know. Eventually, these get converted to <span style="font-size:smaller; ">RAD</span>s.</li>
+  <li>The actual number of RADs is limited to the number of days in your cycle,
    <p style="text-align:center; ">
     <img src="/assets/img/pings-to-rads-equation.svg" alt="A simple equation, of 'Total RADS' divided by 'Total PINGs' and the result multiplied by 'Recognition PINGs.' This calculates the number of RADs that each person will get relative to the number of PINGs you gave him for their contributions."  style="margin:0 auto; " width="70%">
    </p>
   </li>
-  <li>For example, if at the end of the month you have 30 RADs and you’ve pressed the green button 15 times equally for two people, then they each get 15 RADs. If, on the other hand, you’ve pressed the green button 15 times equally for two people, they still get 15 RADs.</li>
+  <li>For example, if you have a monthly cycle, at the end of the month you have 30 RADs and you’ve pressed the green button 15 times equally for two people, then they each get 15 RADs. If, on the other hand, you’ve pressed the green button 30 times equally for two people, they still get 15 RADs.</li>
   <li>After trying out various methods, this seems to be the easiest since you don’t have to worry about how many RADs you have—instead you can focus on your peers’ contributions and press the green button as often as you feel is right for each.</li>
  </ol>
  <p>Keep in mind that the number of RADs given are transparent to everyone. So, if you are worried about somebody cheating (<em>e.g.</em>, giving RADs while taking time off), somebody else will see it and bring it up in conversation. Or not.</p>
