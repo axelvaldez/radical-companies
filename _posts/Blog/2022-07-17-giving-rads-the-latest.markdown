@@ -33,7 +33,7 @@ image:    "giving-rads-icon.svg"
  <p>Finally, the coffee cup button is what you press if you want to talk with somebody (<em>e.g.</em>, to give feedback). In that case, you can write yourself a <em>private</em> note about what prompted you to do so.</p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
- <ol style="font-size:smaller; text-indent:10px; ">
+ <ol style="font-size:smaller; ">
   <li id="en01"><a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a> <a href="https://radicalcompanies.com" target="blank">https://radicalcompanies.com</a></li>
   <li id="en02"><a href="#bn02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a> Our thanks to the team at <a href="https://xipegroup.com" target="blank">Xipe Group</a>, who created it. In my opinion, they are on their path to becoming a RADICAL COMPANY.</li>
  </ol>
