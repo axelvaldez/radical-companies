@@ -37,7 +37,8 @@ image:    "giving-rads-icon.svg"
   <li>Press the coffee button to let a peer&rsquo;s know that you want to talk.</li>
   <li>You press it once per topic.</li>
   <li>After you press it, a note box will come up for you to write a <em>private</em> reminder of the particular topic.</li>
-  <li>Once you save the note, a notification shows up on their device letting them know that you'd like to talk at such day/time, "does that work?"</li>
+  <li>Once you save the note, a notification shows up on their device letting them know that you'd like to talk.</li>
+  <li>You can write what you want, but it is a good practice to propose a day and time.</li>
  </ol>
  
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
