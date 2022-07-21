@@ -19,16 +19,17 @@ image:    "giving-rads-icon.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
  <ol>
-  <li>Everyone gets one RAD per day; this way everybody gets an equal piece <em>to give</em>. Actually, what you are really doing is recognizing your peers&rsquo; contributions. Every time you do, they get a notification letting them know. Eventually, these get converted to <span style="font-size:smaller; ">RAD</span>s.</li>
-  <li>The actual number of RADs is limited to the number of days in your cycle,
+  <li>Everyone gets one RAD per day <em>to give</em>. This represents an equal piece of the value they've created. Actually, what you are really doing with this app is recognizing your peers&rsquo; contributions.</li>
+  <li>For example, if you have a monthly cycle, at the end of the month you may have 30 RADs and you&rsquo;ve pressed the green recognition button 15 times equally for two people, then they each get 15 RADs. If, on the other hand, you&rsquo;ve pressed the green recognition  button 30 times equally for two people, they still get 15 RADs. After trying out various methods, this seems to be the easiest since you don&rsquo;t have to worry about how many RADs you have—instead you can focus on your peers&rsquo; contributions and press the green recognition  button as often as you feel is right for each contribution.</li>
+  <li>You can press the green bottom more than once.</li>
+  <li>Once you ease off on the green button, a note box will come up so you can let people know the reason you are giving them <span style="font-size:smaller; ">RAD</span>s</li>
+  <li>Once you submit (or dismiss) the note, a notification shows up on their device, along with the note.</li>
+  <li>The actual number of RADs is limited to the number of days in your cycle. This is calculated as,
    <p style="text-align:center; ">
     <img src="/assets/img/pings-to-rads-equation.svg" alt="A simple equation, of 'Total RADS' divided by 'Total PINGs' and the result multiplied by 'Recognition PINGs.' This calculates the number of RADs that each person will get relative to the number of PINGs you gave him for their contributions."  style="margin:0 auto; " width="70%">
    </p>
   </li>
-  <li>For example, if you have a monthly cycle, at the end of the month you may have 30 RADs and you&rsquo;ve pressed the green recognition button 15 times equally for two people, then they each get 15 RADs. If, on the other hand, you&rsquo;ve pressed the green recognition  button 30 times equally for two people, they still get 15 RADs.</li>
-  <li>After trying out various methods, this seems to be the easiest since you don&rsquo;t have to worry about how many RADs you have—instead you can focus on your peers&rsquo; contributions and press the green recognition  button as often as you feel is right for each contribution.</li>
-  <li>Once you are done with the green recognition  button, a note box will come up so you can let people know the reason you are giving them <span style="font-size:smaller; ">RAD</span>s</li>
- </ol>
+  </ol>
  <p>Keep in mind that the number of RADs given are transparent to everyone. So, if you are worried about somebody cheating (<em>e.g.</em>, giving RADs while taking time off), somebody else will see it and bring it up in conversation. Or not.</p>
  <p>Finally, the coffee cup button is what you press if you want to talk with somebody (<em>e.g.</em>, to give feedback). In that case, you can write yourself a <em>private</em> note about what prompted you to do so.</p>
 
