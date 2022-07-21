@@ -16,7 +16,7 @@ image:    "co-ownership-in-small-bites-icon.svg"
  <p>Here is a much smaller bite that people may be more willing to experiment with. It is less threatening and signals &ldquo;progressive*&rdquo;.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:50px; ">The Smaller Bite</h1>
- <img style="margin-left:10px; float:right; font-family:Courier New, monospace; font-size:smaller; width:20%; " src="/assets/img/co-ownership-the-smaller-bite.svg" alt="The heading reads Co-Ownership. Below it there is one circle labeled 'Smaller Bite' with bite marks over most of it.">
+ <img style="margin-left:10px; float:right; font-family:Courier New, monospace; font-size:smaller; width:30%; " src="/assets/img/co-ownership-the-smaller-bite.svg" alt="The heading reads Co-Ownership. Below it there is one circle labeled 'Smaller Bite' with bite marks over most of it.">
  <p>Rather than attempting to change the ownership structure of the whole business, this is much smaller pill to take because it is about the distribution method of a specific fund. In this case, we are talking about an investment fund, but it can also apply to the tradional annual "bonus" or any type of financial distribution.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace;  margin-top:50px;">Repayment Fund</h1>
