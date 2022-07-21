@@ -28,9 +28,15 @@ image:    "giving-rads-icon.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How <span style="font-size:smaller; ">RAD</span>s Are Calculated</h1>
  <p>What you are really doing with this app is recognizing your peers&rsquo; contributions. At the end of the cycle, the app calculates the number of <span style="font-size:smaller; ">RAD</span>s.</p>
  <ul>
-  <li>Keep in mind that the number of RADs given are transparent to everyone. So, if you are worried about somebody cheating (<em>e.g.</em>, giving RADs while taking time off), somebody else will see it and bring it up in conversation. Or not.</li>
+  <li>The calculation is based on your cycle, which could be monthly, or weekly, or quarterly, or whatever.</li>
+  <li>
+   <p style="text-align:center; ">
+    <img src="/assets/img/pings-to-rads-equation.svg" alt="" width="70%">
+   </p>
+  </li>
+  <li></li>
  </ul>
-
+ 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How the Coffee Button Works</h1>
  <ol>
   <li>Press the coffee button to let a peer&rsquo;s know that you want to talk.</li>
