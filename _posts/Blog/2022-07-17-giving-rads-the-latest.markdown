@@ -17,24 +17,28 @@ image:    "giving-rads-icon.svg"
   <img src="/assets/img/giving-rads-220720.svg" alt="Two screenshots from the RADs! Distribution mobile app. The screenshots show the two tabs the app has: the left tab, labeled co-owners, shows the people who are included in my team. The right tab shows people that have been invited to the use the app. I can give RADs to people in either list." width="70%">
  </p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">How the Green Button Works</h1>
  <ol>
-  <li>You press the green button to recognize a peer's contribution</li>
-  <li>You can press the green bottom as many times as you want to reflect how you feel about their contribution.</li>
+  <li>You press the green button to recognize a peer&rsquo;s contribution.</li>
+  <li>You can press the green button as many times as you want to reflect how you feel about their contribution.</li>
   <li>Once you ease off on the green button, a note box will come up so you can let your peer know why you are giving them <span style="font-size:smaller; ">RAD</span>s</li>
-  <li>Once you submit (or dismiss) the note, a notification shows up on their device, along with the note.</li>
-  <li>The actual number of RADs is limited to the number of days in your cycle. This is calculated as,
-   <p style="text-align:center; ">
-    <img src="/assets/img/pings-to-rads-equation.svg" alt="A simple equation, of 'Total RADS' divided by 'Total PINGs' and the result multiplied by 'Recognition PINGs.' This calculates the number of RADs that each person will get relative to the number of PINGs you gave him for their contributions."  style="margin:0 auto; " width="70%">
-   </p>
-  </li>
-  </ol>
+  <li>When you submit, or dismiss, the note, a notification shows up on their device letting them know that they've been recognized, along with the note, if any, with the details.</li>
+ </ol>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">How <span style="font-size:smaller; ">RAD</span>s Are Calculated</h1>
+ <p>What you are really doing with this app is recognizing your peers&rsquo; contributions. At the end of the cycle, the app calculates the number of <span style="font-size:smaller; ">RAD</span>s.</p>
+ <ul>
+  <li>Keep in mind that the number of RADs given are transparent to everyone. So, if you are worried about somebody cheating (<em>e.g.</em>, giving RADs while taking time off), somebody else will see it and bring it up in conversation. Or not.</li>
+ </ul>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">How the Coffee Button Works</h1>
+ <ol>
+  <li>Press the coffee button to let a peer&rsquo;s know that you want to talk.</li>
+  <li>You press it once per topic.</li>
+  <li>After you press it, a <em>private</em> note box will come up for you to write down the particular topic.</li>
+  <li>Once you save the note, a notification shows up on their device letting them know that you'd like to talk at such day/time, "does that work?"</li>
+ </ol>
  
- Actually, what you are really doing with this app is recognizing your peers&rsquo; contributions.</li>
-
- <p>Keep in mind that the number of RADs given are transparent to everyone. So, if you are worried about somebody cheating (<em>e.g.</em>, giving RADs while taking time off), somebody else will see it and bring it up in conversation. Or not.</p>
- <p>Finally, the coffee cup button is what you press if you want to talk with somebody (<em>e.g.</em>, to give feedback). In that case, you can write yourself a <em>private</em> note about what prompted you to do so.</p>
-
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="en01"><a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a> <a href="https://radicalcompanies.com" target="blank">https://radicalcompanies.com</a></li>
