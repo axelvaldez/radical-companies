@@ -16,6 +16,7 @@ image:    "giving-rads-icon.svg"
  <p style="text-align:center; ">
   <img src="/assets/img/giving-rads-220720.svg" alt="Two screenshots from the RADs! Distribution mobile app. The screenshots show the two tabs the app has: the left tab, labeled co-owners, shows the people who are included in my team. The right tab shows people that have been invited to the use the app. I can give RADs to people in either list." width="70%">
  </p>
+ <p>Note that a long push of the left and right arrows brings up a list of communities you are a member of so you can jump directly to it.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How the Green Button Works</h1>
  <ol>
