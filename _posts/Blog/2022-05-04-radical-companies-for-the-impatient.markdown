@@ -313,11 +313,11 @@ image:    "dynamic-distribution-1.svg"
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin:50px 0 20px 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
-  <li id="fn1">Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>). May 4, 2020. <a href="#fnref1"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-  <li id="fn2">This is also a gesture popularized in <a href="https://en.wikipedia.org/wiki/The_Hunger_Games">The Hunger Games</a> movies to express unity with people striving to survive. Since 2014 it has also become a symbol of <a href="https://radicals.world/pG9bAM">pro-democracy in Thailand</a> (alt., <a href="https://diigo.com/0iu409">here</a>). Very apropos. <a href="#fnref2"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a></li>
-  <li id="fn3">Dave Logan. How to Develop Your Noble Obsession (alt., <a href="">here</a>). Aug 5, 2013. <a href="#fnref3"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a></li>
-  <li id="fn4"><a href="https://en.wikipedia.org/wiki/Philip_Rosedale">Philip Rosedale</a> introduced the tool in 2005 when Linden Labs had about 50 employees. <a href="#fnref4"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a></li>
-  <li id="fn5">James Owen. <a href="https://www.goodreads.com/quotes/1279415-it-ain-t-bragging-if-you-ve-done-it-there-s-nothing-wrong">Drawing Out the Dragons: A Meditation on Art, Destiny, and the Power of Choice</a> (alt., <a href="https://diigo.com/0ofgkz">here</a>). 2014. <a href="#fnref5"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a></li>
+  <li id="fn1">Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>). May 4, 2020. <a href="#fnref1"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
+  <li id="fn2">This is also a gesture popularized in <a href="https://en.wikipedia.org/wiki/The_Hunger_Games">The Hunger Games</a> movies to express unity with people striving to survive. Since 2014 it has also become a symbol of <a href="https://radicals.world/pG9bAM">pro-democracy in Thailand</a> (alt., <a href="https://diigo.com/0iu409">here</a>). Very apropos. <a href="#fnref2"><img src="/assets/img/arrow-up-icon.png"  style="width:20px; "></a></li>
+  <li id="fn3">Dave Logan. How to Develop Your Noble Obsession (alt., <a href="">here</a>). Aug 5, 2013. <a href="#fnref3"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
+  <li id="fn4"><a href="https://en.wikipedia.org/wiki/Philip_Rosedale">Philip Rosedale</a> introduced the tool in 2005 when Linden Labs had about 50 employees. <a href="#fnref4"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
+  <li id="fn5">James Owen. <a href="https://www.goodreads.com/quotes/1279415-it-ain-t-bragging-if-you-ve-done-it-there-s-nothing-wrong">Drawing Out the Dragons: A Meditation on Art, Destiny, and the Power of Choice</a> (alt., <a href="https://diigo.com/0ofgkz">here</a>). 2014. <a href="#fnref5"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
  </ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
