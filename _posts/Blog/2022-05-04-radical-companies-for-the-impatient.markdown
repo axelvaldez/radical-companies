@@ -1,8 +1,8 @@
 ---
 layout:   post
-title:    "For the Impatient: The RADICAL COMPANIES Model"
+title:    "RADICAL COMPANIES for the Impatient"
 subtitle: ""
-authors:  "Matt PEREZ | Adrian PEREZ | Jose LEAL"
+authors:  "Matt Perez, Adrian Perez, Jose Perez"
 image:    "dynamic-distribution-1.svg"
 ---
 
