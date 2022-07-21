@@ -36,7 +36,7 @@ image:    "co-ownership-in-small-bites-icon.svg"
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
-  <li id="en01"><a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a>It is not a gift. What we've called a <em>bonus</em> really are earned is but a very small part of the earnings that <em>everybody helped to create</em>.</li>
+  <li id="en01"><a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a>It is not a gift. What we've called a <em>bonus</em> really is a form of wealth extract that should be called <em>earned</em> dividends.</li>
   <li id="en02"><a href="#bn02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a><a href="https://radicalcompanies.com/2022/07/17/giving-rads-the-latest.html" target="blank">&hellip;/giving-rads-the-latest.html</a></li>
  </ol>
 
