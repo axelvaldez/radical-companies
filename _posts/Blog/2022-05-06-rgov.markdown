@@ -23,7 +23,7 @@ image:    "en-alignment.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Very Different</h1>
  <p>National governments are the ultimate centralized power. Dictatorships are the most centralized, and democratic governments the least, but they all centralize power. They have a monopoly on force: national governments run the military and state governments and cities run police forces.</p>
  <p>In the <span style="font-size: smaller; ">RADICAL</span> model, governments would not be able to collect taxes since the moral equivalent of land taxes go directly into local community funds and only a trickle of it goes to more centralized centers of power.</p>
- <p>In any case, in the <span style="font-size: smaller; ">RADICAL</span> model society’s governance would be decentralized and not like today’s national governments. <span style="font-size: smaller; ">RADICAL</span> societal governance will be based on scarcity and competition as it is in the FIAT system.</p>
+ <p>In any case, in the <span style="font-size: smaller; ">RADICAL</span> model society’s governance would be decentralized and not like today’s national governments. <span style="font-size: smaller; ">RADICAL</span> societal governance will be based on scarcity and competition as it is in the <span style="font-size: smaller; ">FIAT</span> system.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">City Government</h1>
  <p>A local government must be granted power by the State. This is probably a leftover from the days of Royalty, where the rules had to issue a charter (and charged for doing so).</p>
@@ -61,7 +61,7 @@ image:    "en-alignment.svg"
    <p>Disputes could mostly be handled by the communities itself, with the help of people who specialize in this kind of situation.</p>
   <h2 style="font-size:30px; font-family:Courier New, monospace; ">Police, Fire, Paramedic</h2>
    <p>The first thing to note about the police is that it is <em>a force</em>, carrying lethal weapons. They <em>fight</em> criminals, people who don’t abide by the rules and would harm the rest of us, well behaved citizens. We want them to do a lot besides that: caretakers and givers, arbiters, the calmest person in the room and the most aggressive person in the room. In the face of all these conflicting roles, they often default to the threat of violence and violence itself. I doubt that there’d be a need for specialized police—people would do most of it—but even if there is, it would be very different than it is today.</p>
-   <p>Fire abatement has been around for a long time. At the beginning putting out fires was a paid FIAT business, “you have to pay before we put out the fire.” Eventually it became a public service. I imagine that fire abatement, paramedics, and disaster help would all come as a service paid for Banners.</p>
+   <p>Fire abatement has been around for a long time. At the beginning putting out fires was a paid <span style="font-size: smaller; ">FIAT</span> business, “you have to pay before we put out the fire.” Eventually it became a public service. I imagine that fire abatement, paramedics, and disaster help would all come as a service paid for Banners.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">County Government</h1>
  <p>These take care of school districts independent of cities. They also handle many city-like functions for unincorporated areas.</p>
@@ -84,7 +84,7 @@ image:    "en-alignment.svg"
  <p>A <span style="font-size: smaller; ">RADICAL</span> world, too, is centered around accomplishments and real innovation, but it prioritizes what’s important to people first, ahead of everything else, including money. We’ll still be individuals, with our own needs, rights, and idiosyncrasies. We are not going to become a number. The <span style="font-size: smaller; ">RADICAL</span> model is centered on trust, the type that comes from community and collaboration.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">The Three Branches</h1>
- <p>Throughout the stuff above, there is a general disregard for the separation of powers so central to democratic governments today. That system was designed as a Mexican standoff, a confrontation which does not allow any party to achieve victory. Evern brand of government monitors and regulates the other branches.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> That was the FIAT solution to not having a King or Queen.</p>
+ <p>Throughout the stuff above, there is a general disregard for the separation of powers so central to democratic governments today. That system was designed as a Mexican standoff, a confrontation which does not allow any party to achieve victory. Evern brand of government monitors and regulates the other branches.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> That was the <span style="font-size: smaller; ">FIAT</span> solution to not having a King or Queen.</p>
  <p>In a <span style="font-size: smaller; ">RADICAL</span> world, there would not be such a separation, although there might be in particular cases.</p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">The <span style="font-size: smaller; ">RADICAL</span> Model</h2>
   <p>We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands, via a hierarchy, that tell people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it. In this document, we assume a <span style="font-size: smaller; ">RADICAL</span> world that is, at the same time, alike and different from our world today.</p>
@@ -94,30 +94,34 @@ image:    "en-alignment.svg"
    <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
   </p>
   <p>They do this starting from a simple foundation of interdependence,</p>
-  <table style="margin: auto; margin-bottom: 40px; ">
-   <tbody>
-    <tr>
-     <td style="text-align: right; padding-right: 6px; "><em>principles</em></td>
-     <td style="font-size: larger; ">{</td>
-     <td style="text-align: center; "><strong>Meaning & Belonging</strong></td>
-     <td style="font-size: larger; ">}</td>
-     <td style="text-align: left; padding-left: 6px; "><em>relationships</em></td>
-    </tr>
-    <tr>
-     <td style="text-align: right; padding-right: 6px; "><em>commitments</em></td>
-     <td style="font-size: larger; ">{</td>
-     <td style="text-align: center; "><strong>Transparency & Decentralization</strong></td>
-     <td style="font-size: larger; ">}</td>
-     <td style="text-align: left; padding-left: 6px; "><em>autonomy</em></td>
-    </tr>
-    <tr>
-     <td style="text-align: right; padding-right: 6px; "><em>practices</em></td>
-     <td style="font-size: larger; ">{</td>
-     <td style="text-align: center; "><strong>Alignment & Experimentation</strong></td>
-     <td style="font-size: larger; ">}</td>
-     <td style="text-align: left; padding-left: 6px; "><em>collaboration</em></td>
-    </tr>
-   </tbody>
+  <table align="center">
+   <tr>
+    <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
+    <td style="text-align:center; background-color:#EEEEEE; ">Meaning &<br>Belonging</td>
+    <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+    <td valign="top"><em>relationships</em></td>
+   </tr>
+   <tr>
+    <td style="background-color: white; height: 7px;"></td>
+   </tr>
+   <tr>
+    <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
+    <td style="text-align:center; background-color:#EEEEEE;">Transparency &<br>Decentralization</td>
+    <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+    <td valign="top"><em>autonomy</em></td>
+   </tr>
+   <tr>
+    <td style="background-color: white; height: 7px;"></td>
+   </tr>
+   <tr>
+    <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
+    <td style="text-align:center; background-color:#EEEEEE; ">Alignment &<br>Experimentation</td>
+    <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+    <td valign="top"><em>collaboration</em></td>
+   </tr>
+   <tr>
+    <td colspan="4">&nbsp;</td>
+   </tr>
   </table>
   <h2 style="font-size:30px; font-family:Courier New, monospace; ">Evolution, Interrupted</h2>
   <p>As I see it, the <span style="font-size: smaller; ">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
