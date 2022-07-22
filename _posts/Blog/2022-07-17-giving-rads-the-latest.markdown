@@ -28,7 +28,7 @@ image:    "giving-rads-icon.svg"
  <p>What you are really doing with this app is recognizing your peers&rsquo; contributions. You can press the green recognition button as much as you want, and the app takes care of calculating the actual number of <span style="font-size:smaller; ">RAD</span>s that your peer will get.</p>
  <p>The calculation is based on your cycle, which could be monthly, or weekly, or quarterly, or whatever. In any case, the calculation is very simple,</p>
  <p style="text-align:center; ">
-  <img src="/assets/img/pings-to-rads-equation.svg" alt="" width="70%">
+  <img src="/assets/img/pings-to-rads-equation.svg" alt="" width="60%">
  </p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How the Coffee Button Works</h1>
