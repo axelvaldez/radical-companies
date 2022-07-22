@@ -24,13 +24,13 @@ image:    "roundabouts-icon.svg"
  </p>
  <p>The point, of course, is not the money saving for the local government or the time savings for drivers. The important thing is that in Roundabouts <em>people don’t need an “authority” to tell them how to proceed</em>, they can figure out how to deal with what they see in the place, at the moment.</p>
  <p>Roundabouts represent decentralized decision-making, as in the c0-management model, and Traffic Lights centralized, corruptible, decision-making, as in the FIAT system we live in.</p>
- 
+
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
  <ul>
   <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
    <ul>
-    <li><a>EN</a>: <a href="https://radicalcompanies.com" target="blank">&hellip;</a></li>
-    <li><a>ES</a>: <a href="https://radicalcompanies.com" target="blank">&hellip;</a></li>
+    <li><a>EN</a>: <a href="https://radicalcompanies.com" target="blank">&hellip;/radicalcompanies.com [EN]</a></li>
+    <li><a>ES</a>: <a href="https://radicalcompanies.com" target="blank">&hellip;/radicalcompanies.com [ES]</a></li>
    </ul>
   <li>Blog posts,</li>
    <ul>
