@@ -12,7 +12,7 @@ image:    "giving-rads-icon.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; "></h1>
  <p>In the book RADICAL COMPANIES<sup id="bn01"><a href="#en01">1&nbsp;</a></sup> we mentioned various ways of deploying RADs, but we were generally vague because we had no experience with them.</p>
- <p>We now have a mobile app to help us with the RAD distribution<sup id="bn01"><a href="#en02">2&nbsp;</a></sup>. We have build some experience with it and we can at least go through one specific example of how we think of giving <span style="font-size:smaller; ">RAD</span>s now.</p>
+ <p>We now have a mobile app to help us with the RAD distribution<sup id="bn02"><a href="#en02">2&nbsp;</a></sup>. We have build some experience with it and we can at least go through one specific example of how we think of giving <span style="font-size:smaller; ">RAD</span>s now.</p>
  <img style="margin-left:40px; " src="/assets/img/giving-rads-220720.svg" alt="Two screenshots from the RADs! Distribution mobile app. The screenshots show the two tabs the app has: the left tab, labeled co-owners, shows the people who are included in my team. The right tab shows people that have been invited to the use the app. I can give RADs to people in either list." width="70%">
  <p>Note that a long push of the left and right arrows brings up a list of communities you are a member of so you can jump directly to it.</p>
 
