@@ -37,14 +37,14 @@ image:    "giving-rads-icon.svg"
   <li>You press it once per topic.</li>
   <li>After you press it, a note box will come up for you to write a <em>private</em> reminder of the particular topic.</li>
   <li>Once you save the note, a notification shows up on their device letting them know that you'd like to talk.</li>
-  <li>You can write what you want, but it is a good practice to propose a day and time.</li>
+  <li>You can write what you want, but it is a good practice to propose, or ask for, a day and time.</li>
   <li>You can press it more than once with the same private note (or none), but the person at the other end will receive one notification. On the other hand, writing a different note will fire another notification.<a id="bn03" href="#en03"><sup>3&nbsp;</sup></a></li>
  </ol>
  
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="en01"><a href="https://radicalcompanies.com" target="blank">https://radicalcompanies.com</a> <a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
-  <li id="en02">Our thanks to the team at <a href="https://xipegroup.com" target="blank">Xipe Group</a>, who created it. In my opinion, they are on their path to becoming a RADICAL COMPANY. <a href="#bn02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
+  <li id="en02">Our thanks to the team at <a href="https://xipegroup.com" target="blank">Xipe Group</a>, who created it. A RADICAL COMPANY in the making. <a href="#bn02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
   <li id="en03">A simple verbatim compare for now. <a href="#bn03"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
  </ol>
 
