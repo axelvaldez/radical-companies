@@ -34,7 +34,7 @@ image:    "giving-rads-icon.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How the Coffee Button Works</h1>
  <ol>
   <li>Press the coffee button to let a peer&rsquo;s know that you want to talk.</li>
-  <li>You press it once per topic.</li>
+  <li>You press it once per topic. You can press it more than once with the same private note (or none), but the person at the other end will receive one notification.</li>
   <li>After you press it, a note box will come up for you to write a <em>private</em> reminder of the particular topic.</li>
   <li>Once you save the note, a notification shows up on their device letting them know that you'd like to talk.</li>
   <li>You can write what you want, but it is a good practice to propose a day and time.</li>
