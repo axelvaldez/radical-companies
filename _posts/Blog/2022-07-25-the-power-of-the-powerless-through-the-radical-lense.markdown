@@ -3,7 +3,7 @@ layout:   post
 title:    "The Power of the Powerless: Through the RADICAL Lense"
 subtitle: "Through the RADICAL Lense"
 authors:  "Matt Perez"
-image:    "about-daos.svg"
+image:    "the-power-of-the-powerless-icon.svg"
 ---
 
 <div style="display:none;">
