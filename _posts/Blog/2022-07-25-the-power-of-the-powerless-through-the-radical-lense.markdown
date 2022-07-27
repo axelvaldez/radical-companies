@@ -11,7 +11,7 @@ image:    "the-power-of-the-powerless-icon.svg"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
- <p>The other foundation of this religion is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="bn01"><a href="#en01">1&nbsp;</a></sup></p>
+ <p>The other foundation is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="bn01"><a href="#en01">1&nbsp;</a></sup></p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol>
