@@ -15,42 +15,20 @@ image:    "the-power-of-the-powerless-icon.svg"
 
 <h1>The Power</h1>
  <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
- <p>In the essay, the most powerful point he makes is that what keeps together these communists dictatorships is the tacit participation of the very people that they oppress.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> FIAT businesses are dictatorships and they are interested only in extracting  as much wealth as they can.</p>
- <p>He also made the following observations,</p>
+ <p>In the essay, the most powerful point he makes is that what keeps together these communists dictatorships is the tacit participation of the very people that they oppress.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> FIAT businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate.</p>
+ <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called "the means of production," that is everything that can generate wealth. He also pointed out that the Soviet-style dictatorships and democracies are differed forms of the consumer-industrial society,</p>
 
 <table>
   <tr>
-   <td>
-<h3><p style="text-align: right">
-Huge<br>Power<br>Block</p>
-</h3>
-
-
-   </td>
-   <td>
-    The “system is not limited in a local, geographical sense.” Rather, he says, “it holds sway over a huge power block.”<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup>
-   </td>
+   <th><p style="text-align: right">Huge<br>Power<br>Block</p></th>
+   <td>The “system is not limited in a local, geographical sense.” Rather, he says, “it holds sway over a huge power block.”<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></td>
   </tr>
   <tr>
-   <td>
-<h3><p style="text-align: right">
-Historical Roots</p>
-</h3>
-
-
-   </td>
-   <td>
-    The system does not lack historical roots in that it took form on the back of “the proletarian social movements of the nineteenth century.”<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup>
-   </td>
+   <th><p style="text-align: right">Historical Roots</p></td>
+   <td>The system does not lack historical roots in that it took form on the back of “the proletarian social movements of the nineteenth century.”<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup></td>
   </tr>
   <tr>
-   <td>
-<h3><p style="text-align: right">
-Securalized Religion</p>
-</h3>
-
-
-   </td>
+   <td><p style="text-align: right">Securalized Religion</p></td>
    <td>
     “… it commands… [a]… precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that… is almost a secularized religion.”<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup>
    </td>
