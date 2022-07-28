@@ -255,3 +255,7 @@ td._spacer {
   column-span: all;
   font-size:x-small;
 }
+._radical {
+  font-size:smaller;
+  font-style:italic;
+}
