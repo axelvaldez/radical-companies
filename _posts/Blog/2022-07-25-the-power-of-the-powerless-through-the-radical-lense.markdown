@@ -7,7 +7,7 @@ image:    "the-power-of-the-powerless-icon.svg"
 ---
 
 <div style="display:none;">
- <p>Dictatorships are held together by the very people that it oppresses. They spring from historical roots and ideology-as-securalized-religion and modern, successful dictatorships form a  huge power block. Looked at it this way, businesses are dictatorship and <em>The Power of Powerless</em> analysis applies to them as well.</p>
+ <p>Dictatorships are held together by the very people that they oppress. They spring from historical roots and ideology-as-securalized-religion and modern, successful dictatorships form a  huge power block. Looked at it this way, businesses are dictatorship and <em>The Power of Powerless</em> analysis applies to them as well.</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">&nbsp;</h1>
