@@ -21,23 +21,33 @@ image:    "the-power-of-the-powerless-icon.svg"
 <table>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; width:1in;">Huge<br>Power<br>Block</th>
-  <td style="text-align:left;  padding-left:1em; ">The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, Havel writes, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="en04"><a href="#en04">4&nbsp;</a></sup></td>
+  <td style="text-align:left;  padding-left:1em; ">
+   <p>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, Havel writes, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="en04"><a href="#en04">4&nbsp;</a></sup></p>
+  </td>
  </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; width:1in;">Historical<br>Roots</th>
-  <td style="text-align:left;  padding-left:1em; ">The system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="en05"><a href="#en05">5&nbsp;</a></sup></td>
+  <td style="text-align:left;  padding-left:1em; ">
+   <p>he system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="en05"><a href="#en05">5&nbsp;</a></sup></p>
+  </td>
  </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; width:1in;">Securalized<br>Religion</th>
-  <td style="text-align:left;  padding-left:1em; ">&ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="en06"><a href="#en06">6&nbsp;</a></sup></td>
+  <td style="text-align:left;  padding-left:1em; ">
+   <p>&ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="en06"><a href="#en06">6&nbsp;</a></sup></p>
+  </td>
   </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; width:1in;">State<br>Ownership</th>
-  <td style="text-align:left;  padding-left:1em; ">&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="en07"><a href="#en07">7&nbsp;</a></sup></td>
+  <td style="text-align:left;  padding-left:1em; ">
+   <p>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="en07"><a href="#en07">7&nbsp;</a></sup></p>
+  </td>
   </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; width:1in;">Dictatorships<br>& Democracies</th>
-  <td style="text-align:left;  padding-left:1em; ">This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en08"><a href="#en08">8&nbsp;</a></sup></td>
+  <td style="text-align:left;  padding-left:1em; ">
+   <p>This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en08"><a href="#en08">8&nbsp;</a></sup></p>
+  </td>
  </tr>
  <tr>
    <td colspan="2" style="font-size:xx-small; ">&nbsp;</td>
