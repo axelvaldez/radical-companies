@@ -56,7 +56,7 @@ image:    "the-power-of-the-powerless-icon.svg"
 </table>
 
 <h1>Businesses as Dictatorships</h1>
-<p>As I read the essay, I got more and more excited as I realized how well the <span style="font-size:smaller; ">RADICAL</span> model aligned to each of these points,</p>
+<p>As I read the essay, I got more and more excited as I realized how well the <span class="_radical">RADICAL</span> model aligned to each of these points,</p>
 <table>
  <tr>
   <th>Huge<br>Power<br>Block</th>
@@ -164,7 +164,7 @@ image:    "the-power-of-the-powerless-icon.svg"
 
 <h1 class="_section">RELATED</h1>
  <ul>
-  <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
+  <li>RADICAL COMPANIES,</li>
    <ul>
     <li><a>EN</a>: <a href="https://radicalcompanies.com" target="blank">&hellip;/radicalcompanies.com [EN]</a></li>
     <li><a>ES</a>: <a href="https://radicalcompanies.com" target="blank">&hellip;/radicalcompanies.com [ES]</a></li>
