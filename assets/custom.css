@@ -230,6 +230,9 @@ h1._section {
   margin:100px 0 20px 0;
   color:gray;
 }
+div.row h1 {
+  font-size:larger;
+}
 li {
   font-size:smaller;
 }
