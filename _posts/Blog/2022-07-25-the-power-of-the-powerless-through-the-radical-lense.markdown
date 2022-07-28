@@ -103,7 +103,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <li id="en01">Andy Kopsa.
    <em>Czechoslovakia&rsquo;s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</em>. November 16, 2019.
    <<a href="https://time.com/5730106/velvet-revolution-history/">https://time.com/5730106/velvet-revolution-history/</a>>
-   <a.uparrow href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+   <a class="uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en02">
    Labels like <em>Left</em> or <em>Right</em> don&rsquo;t matter, dictatorships are the same, and they know it. For example, Cuba&rsquo;s Castro and Argentina&rsquo;s Perón had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo;
