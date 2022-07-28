@@ -19,74 +19,61 @@ image:    "the-power-of-the-powerless-icon.svg"
  <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called &ldquo;the means of production,&rdquo; that is everything that can generate wealth. He also pointed out that the Soviet-style dictatorships and democracies are differed forms of the consumer-industrial society,</p>
 
 <table>
-  <tr style="vertical-align:text-top; ">
-   <th>Huge<br>Power<br>Block</p></th>
-   <td>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, Havel writes, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="en04"><a href="#en04">4&nbsp;</a></sup></td>
+ <tr style="vertical-align:text-top; font-size:smaller; ">
+  <th style="text-align:right; margin-right:10px; width:1in;">Huge<br>Power<br>Block</p></th>
+  <td style="text-align:left;  margin-left:10px; ">The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, Havel writes, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="en04"><a href="#en04">4&nbsp;</a></sup></td>
+ </tr>
+ <tr style="vertical-align:text-top; font-size:smaller; ">
+  <th style="text-align:right; margin-right:10px; width:1in;">Historical<br>Roots</p></th>
+  <td style="text-align:left;  margin-left:10px; ">The system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="en05"><a href="#en05">5&nbsp;</a></sup></td>
+ </tr>
+ <tr style="vertical-align:text-top; font-size:smaller; ">
+  <th style="text-align:right; margin-right:10px; width:1in;">Securalized<br>Religion</p></th>
+  <td style="text-align:left;  margin-left:10px; ">&ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="en06"><a href="#en06">6&nbsp;</a></sup></td>
   </tr>
-</table>
-
-<table>
-  <tr style="vertical-align:text-top; ">
-   <th><p style="text-align:right; font-size:smaller;margin-right:1em">Historical<br>Roots</p></th>
-   <td>The system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="en05"><a href="#en05">5&nbsp;</a></sup></td>
-  </tr>
-</table>
-<table>
-  <tr>
-   <th><p style="text-align:right; font-size:smaller; ">Securalized<br>Religion</p></th>
-   <td>&ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="en06"><a href="#en06">6&nbsp;</a></sup></td>
-  </tr>
-</table>
-<table>
-  <tr>
-   <th><p style="text-align:right; font-size:smaller; ">State<br>Ownership</p></th>
+ <tr style="vertical-align:text-top; font-size:smaller; ">
+  <th style="text-align:right; margin-right:10px; width:1in;">State<br>Ownership</p></th>
    <td>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="en07"><a href="#en07">7&nbsp;</a></sup></td>
   </tr>
-</table>
-<table>
-  <tr>
-   <th><p style="text-align:right; font-size:smaller; ">Dictatorships<br>& Democracies</p></td>
-   <td>This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en08"><a href="#en08">8&nbsp;</a></sup></td>
-  </tr>
-</table>
-<table>
-  <tr>
+ <tr style="vertical-align:text-top; font-size:smaller; ">
+  <th style="text-align:right; margin-right:10px; width:1in;">Dictatorships<br>& Democracies</p></td>
+  <td style="text-align:left;  margin-left:10px; ">This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en08"><a href="#en08">8&nbsp;</a></sup></td>
+ </tr>
+ <tr>
    <td colspan="2" style="font-size:xx-small; "></td>
   </tr>
 </table>
 <p>As I read the essay, I got more and more excited as it dawned on my how the RADICAL model aligned to each of these points,</p>
 <table style="vertical-align:top; ">
-  <tr>
-   <th><p style="text-align:right; font-size:smaller; ">Huge<br>Power<br>Block</p></th>
-   <td>
-    Within each nation, businesses &ldquo;hold sway over&rdquo; all levels of governments, particularly about the way they get and spend their money. Around the world, multinationals &ldquo;hold sway over&rdquo; over many countries at once, &ldquo;a huge power block.&rdquo;
-   </td>
-  </tr>
-  <tr>
-   <th><p style="text-align:right; font-size:smaller; ">Historical<br>Roots</p></th>
-   <td>
+ <tr style="vertical-align:text-top; font-size:smaller; ">
+  <th style="text-align:right; margin-right:10px; width:1in;">Huge<br>Power<br>Block</p></th>
+  <td style="text-align:left;  margin-left:10px; ">Within each nation, businesses &ldquo;hold sway over&rdquo; all levels of governments, particularly about the way they get and spend their money. Around the world, multinationals &ldquo;hold sway over&rdquo; over many countries at once, &ldquo;a huge power block.&rdquo;</td>
+ </tr>
+ <tr style="vertical-align:text-top; font-size:smaller; ">
+  <th style="text-align:right; margin-right:10px; width:1in;">Historical<br>Roots</p></th>
+  <td>
     <p>Although there is not a <em>Left</em> and <em>Right</em> ideology when it comes to businesses, there is a cultural ideology that supports them. Among others, Roy S Jacques writes that &ldquo;<em>Beginning in the Western Europe of the fourteenth to sixteenth century one find a growth of a mode of consciousness&hellip; [that] has a ‘mechanical’ orientation to it, emphasizing instrumentality, emotionlessness, accumulation, skepticism, individual consciousness, standardization, and objectification. It is also from this mode of consciousness that the particular form of production and exchange currently dominant worldwide has emerged.</em>&rdquo;</p>
     <p>He continues to say that between the 17th and 19th century, &ldquo;<em>Liberty no longer meant the freedom to perfect an enclosed city protected from the world. It was redirected as the freedom to conquer and order that outer world. Progress no longer meant movement toward a finite goal, but infinite expansion into a limitless universe</em>.&rdquo; Conquering and infinite expansion is the ideology that sustains businesses to this day.</p>
-   </td>
-  </tr>
-  <tr>
-   <th><p style="text-align:right; font-size:smaller; ">Securalized<br>Religion</p></th>
-   <td>
-    <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. &ldquo;Ownership&rdquo; is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under &ldquo;business/economics,&rdquo; including and self-management, are simply tweaks of this religion, while &ldquo;ownership&rdquo; remains invisible.</p>
-    <p>The other foundation of this religion is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="en09"><a href="#en09">9&nbsp;</a></sup>
-   </td>
-  </tr>
-  <tr>
-   <th><p style="ttext-align:right; font-size:smaller; ">State<br>Ownership</p></th>
-   <td>Admittedly, State ownership is a worst case, but ownership by a few bosses is pretty bad, too.</td>
-  </tr>
-  <tr>
-   <th><p style="text-align:right; font-size:smaller; ">Dictatorships<br>& Democracies</p></th>
-   <td>Both dictatorships and democracies are different shapes &ldquo;&hellip; of the consumer and industrial society with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en10"><a href="#en10">10&nbsp;</a></sup> In And businesses are an integral part of this machine.</td>
-  </tr>
-  <tr>
-   <td colspan="2" style="font-size:xx-small; "></td>
-  </tr>
+  </td>
+ </tr>
+ <tr>
+  <th><p style="text-align:right; font-size:smaller; ">Securalized<br>Religion</p></th>
+  <td>
+   <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. &ldquo;Ownership&rdquo; is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under &ldquo;business/economics,&rdquo; including and self-management, are simply tweaks of this religion, while &ldquo;ownership&rdquo; remains invisible.</p>
+   <p>The other foundation of this religion is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="en09"><a href="#en09">9&nbsp;</a></sup>
+  </td>
+ </tr>
+ <tr>
+  <th><p style="ttext-align:right; font-size:smaller; ">State<br>Ownership</p></th>
+  <td>Admittedly, State ownership is a worst case, but ownership by a few bosses is pretty bad, too</td>
+ </tr>
+ <tr>
+  <th><p style="text-align:right; font-size:smaller; ">Dictatorships<br>& Democracies</p></th>
+  <td>Both dictatorships and democracies are different shapes &ldquo;&hellip; of the consumer and industrial society with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en10"><a href="#en10">10&nbsp;</a></sup> In And businesses are an integral part of this machine.</td>
+ </tr>
+ <tr>
+  <td colspan="2" style="font-size:xx-small; "></td>
+ </tr>
 </table>
 <p>Businesses fit every one of theses observations.</p>
 
