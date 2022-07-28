@@ -108,7 +108,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </li>
   <li id="en02">
    Labels like <em>Left</em> or <em>Right</em> don&rsquo;t matter, dictatorships are the same, and they know it. For example, Cuba&rsquo;s Castro and Argentina&rsquo;s Perón had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo;
-   <a class="-uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
   <li id="en03">
    Vaclav Havel.
