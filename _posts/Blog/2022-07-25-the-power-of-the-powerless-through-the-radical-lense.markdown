@@ -54,22 +54,21 @@ image:    "the-power-of-the-powerless-icon.svg"
    </td>
   </tr>
   <tr>
-   <th><p style="text-align: right">
-Historical Roots</p></th>
+   <th><p style="text-align: right">Historical<br>Roots</p></th>
    <td>
     <p>Although there is not a <em>Left</em> and <em>Right</em> ideology when it comes to businesses, there is a cultural ideology that supports them. Among others, Roy S Jacques writes that &ldquo;<em>Beginning in the Western Europe of the fourteenth to sixteenth century one find a growth of a mode of consciousness&hellip; [that] has a ‘mechanical’ orientation to it, emphasizing instrumentality, emotionlessness, accumulation, skepticism, individual consciousness, standardization, and objectification. It is also from this mode of consciousness that the particular form of production and exchange currently dominant worldwide has emerged.</em>&rdquo;</p>
     <p>He continues to say that between the 17th and 19th century, &ldquo;<em>Liberty no longer meant the freedom to perfect an enclosed city protected from the world. It was redirected as the freedom to conquer and order that outer world. Progress no longer meant movement toward a finite goal, but infinite expansion into a limitless universe</em>.&rdquo; Conquering and infinite expansion is the ideology that sustains businesses to this day.</p>
    </td>
   </tr>
   <tr>
-   <th><p style="text-align: right">Securalized Religion</p></th>
+   <th><p style="text-align: right">Securalized<br>Religion</p></th>
    <td>
     <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. &ldquo;Ownership&rdquo; is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under &ldquo;business/economics,&rdquo; including and self-management, are simply tweaks of this religion, while &ldquo;ownership&rdquo; remains invisible.</p>
     <p>The other foundation of this religion is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="en09"><a href="#en09">9&nbsp;</a></sup>
    </td>
   </tr>
   <tr>
-   <th><p style="text-align: right">State Ownership</p></th>
+   <th><p style="text-align: right">State<br>Ownership</p></th>
    <td>Admittedly, State ownership is a worst case, but ownership by a few bosses is pretty bad, too.</td>
   </tr>
   <tr>
@@ -90,61 +89,58 @@ Historical Roots</p></th>
    <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg"></a>>
    <a href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
-  <li id="en01">Andy Kopsa.
+  <li id="en02">Andy Kopsa.
    <em>Czechoslovakia’s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</em>. November 16, 2019.
    <<a href="https://time.com/5730106/velvet-revolution-history/"><https://time.com/5730106/velvet-revolution-history/></a>>
    <a href="#bm02" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
-  <li id="en02">
+  <li id="en03">
    Labels like <em>Left</em> or <em>Right</em> don’t matter, dictatorships are the same, and they know it. For example, Cuba’sCastro and Argentina’s Perón had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo;</a>
    <a href="#bm03" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
-  <li id="en03">
+  </li>
+  <li id="en04">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/drH4npY"><https://a.co/8WPhu0s></a>>
    <a href="#bm04" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
-  <li id="en04">
+  <li id="en05">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/0lq6pO8"><https://a.co/0lq6pO8></a>>
    <a href="#bm05" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
-  <li id="en05">
+  <li id="en06">
   Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/eaqbk"><https://a.co/eaqbk></a>>
    <a href="#bm06" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
-  <li id="en06">
+  <li id="en07">
    Vaclav Havel.
    </em>The Power of the Powerless</em>
    <<a href="https://a.co/6sKvSlv">https://a.co/6sKvSlv</a>>
    <a href="#bm07" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
-  <li id="en07">
+  <li id="en08">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/enNA5rq">https://a.co/enNA5rq</a>>
    <a href="#bm08" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
-  <li id="en08">
+  <li id="en09">
    David Graeber. 2014.
    <em>Debt: 5,00 Year History</em>
    <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg</a>>
    <a href="#bm09" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
-  <li id="en09">
+  <li id="en10">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/bPEY1mO"><https://a.co/bPEY1mO></a>>.
    <a href="#bm10" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
  </ol>
-
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
- 
-</ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
  <ul>
