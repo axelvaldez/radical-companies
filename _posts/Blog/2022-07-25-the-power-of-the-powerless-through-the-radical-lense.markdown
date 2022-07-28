@@ -13,11 +13,10 @@ image:    "the-power-of-the-powerless-icon.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">&nbsp;</h1>
  <p>Dictatorships are held together by historical roots, ideology-as-securalized-religion, and the very people that it dominates. The other foundation of dictatorship is money. David Graeber, author of <em>Debt: The First 5,000 Years</em>, makes a very convincing case that it is all based on debt, formalized and quantified debt (<em>i.e.</em> money).<sup id="bm01"><a href="#en01">1&nbsp;</a></sup> Looked at it through this lense, businesses are dictatorship and <em>The Power of Powerless</em> analysis applies to them as well.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">The Power</h1>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Power</h1>
  <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<sup id="en02"><a href="#en02">2&nbsp;</a></sup></p>
  <p>In the essay, the most powerful point he makes is that what keeps together these communists dictatorships is the tacit participation of the very people that they oppress.<sup id="bm03"><a href="#en03">3&nbsp;</a></sup> <span style="font-size:smaller; ">FIAT</span> businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate.</p>
  <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called &ldquo;the means of production,&rdquo; that is everything that can generate wealth. He also pointed out that Soviet-style dictatorships and Western democracies were different forms of the consumer-industrial society,</p>
-
 <table>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; ">Huge<br>Power<br>Block</th>
@@ -97,7 +96,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <td colspan="2" style="font-size:xx-small; "></td>
  </tr>
 </table>
-<p>Businesses fit <em>every one</em> of theses observations.</p>
+<p>Businesses fit <em>every one</em> of theses observations. Over time, and not due to a conspiracy or any such, they&rsquo;ve come to make up a huge block. We simply have to see them for what they are today and stop &ldquo;going along&rdquo;. We need to experiement with other models of working together that benefit everyone according to their contributions. The <em>RADICAL COMPANIES</em> book offers a viable alternative.</p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol>
