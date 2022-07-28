@@ -250,3 +250,7 @@ td {
   text-align:left;
   padding-left:1em;
 }
+td.spacer {
+  column-span: all;
+  font-size:xx-small;
+}
