@@ -231,6 +231,7 @@ h1._section {
 }
 h1._section * {
   font-size:smaller;
+  font-family: 'Courier New', Courier, monospace;
 }
 h2 {
   font-size:30px;
