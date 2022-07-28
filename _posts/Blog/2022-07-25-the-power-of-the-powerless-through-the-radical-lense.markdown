@@ -77,7 +77,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <th style="text-align:right; padding-right:1em; ">Securalized<br>Religion</th>
   <td style="text-align:left;  padding-left:1em; ">
    <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. &ldquo;Ownership&rdquo; is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under &ldquo;business/economics,&rdquo; including and self-management, are simply tweaks of this religion, while &ldquo;ownership&rdquo; remains invisible.</p>
-   <p>The other foundation of this religion is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="bm09"><a href="#en09">9&nbsp;</a></sup></p>
+   <p>The other foundation of this religion is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="bm08"><a href="#en08">8&nbsp;</a></sup></p>
   </td>
  </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
@@ -89,14 +89,14 @@ image:    "the-power-of-the-powerless-icon.svg"
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; width:1.5in;">Dictatorships<br>& Democracies</th>
   <td style="text-align:left;  padding-left:1em; ">
-   <p>Both dictatorships and democracies are different shapes &ldquo;&hellip; of the consumer and industrial society with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="bm10"><a href="#en10">10</a></sup> In And businesses are an integral part of this machine.</p>
+   <p>Both dictatorships and democracies are different shapes &ldquo;&hellip; of the consumer and industrial society with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="bm09"><a href="#en09">9</a></sup> In And businesses are an integral part of this machine.</p>
   </td>
  </tr>
  <tr>
   <td colspan="2" style="font-size:xx-small; "></td>
  </tr>
 </table>
-<p>Businesses fit <em>every one</em> of theses observations. Over time, and not due to a conspiracy or any such, they&rsquo;ve come to make up a huge block. We simply have to see them for what they are today and stop &ldquo;going along&rdquo;. We need to experiement with other models of working together that benefit everyone according to their contributions. The <em>RADICAL COMPANIES</em><sup id="bm11"><a href="#en11">11</a></sup> book offers a viable alternative.</p>
+<p>Businesses fit <em>every one</em> of theses observations. Over time, and not due to a conspiracy or any such, they&rsquo;ve come to make up a huge block. We simply have to see them for what they are today and stop &ldquo;going along&rdquo;. We need to experiement with other models of working together that benefit everyone according to their contributions. The <em>RADICAL COMPANIES</em><sup id="bm10"><a href="#en10">10</a></sup> book offers a viable alternative.</p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol>
