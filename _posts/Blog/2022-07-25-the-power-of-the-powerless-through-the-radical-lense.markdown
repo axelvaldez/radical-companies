@@ -40,7 +40,7 @@ image:    "the-power-of-the-powerless-icon.svg"
    <td>This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en08"><a href="#en08">8&nbsp;</a></sup></td>
   </tr>
   <tr>
-   <td colspan="2" style="font-size:5px; "></td>
+   <td colspan="2" style="font-size:xx-small; "></td>
   </tr>
 </table>
 <p>As I read the essay, I got more and more excited as it dawned on my how the RADICAL model aligned to each of these points,</p>
