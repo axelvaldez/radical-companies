@@ -166,8 +166,8 @@ image:    "the-power-of-the-powerless-icon.svg"
  <ul>
   <li>RADICAL COMPANIES,</li>
    <ul>
-    <li><a>EN</a>: <a href="https://radicalcompanies.com" target="blank">&hellip;/radicalcompanies.com [EN]</a></li>
-    <li><a>ES</a>: <a href="https://radicalcompanies.com" target="blank">&hellip;/radicalcompanies.com [ES]</a></li>
+    <li><a>EN</a>: <a href="https://radicalcompanies.com">&hellip;/radicalcompanies.com [EN]</a></li>
+    <li><a>ES</a>: <a href="https://radicalcompanies.com">&hellip;/radicalcompanies.com [ES]</a></li>
    </ul>
   <li>Blog posts,</li>
    <ul>
