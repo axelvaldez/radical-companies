@@ -238,6 +238,9 @@ h2 {
   font-size:30px;
 }
 a._uparrow {
+  color:blueviolet;
+}
+a._uparrow img {
   height:20px;
   height:10px;
 }
