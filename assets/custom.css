@@ -230,7 +230,7 @@ h1._section {
   margin:100px 0 20px 0;
   color:gray;
 }
-h1._section * {
+li {
   font-size:smaller;
 }
 h2 {
