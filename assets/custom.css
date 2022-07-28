@@ -257,6 +257,7 @@ td._spacer {
 }}
 [span~=FIAT], [span~=RADICAL] {
   font-size:smaller;
+  color:red;
 }
 [a~='https:']::after {
     content:target='_blank';
