@@ -43,9 +43,7 @@ image:    "the-power-of-the-powerless-icon.svg"
    <td colspan="2" style="font-size:xx-small; ">&nbsp;</td>
   </tr>
 </table>
-
 <p>As I read the essay, I got more and more excited as it dawned on my how the <span style="font-size:smaller; ">RADICAL</span> model aligned to each of these points,</p>
-
 <table style="vertical-align:top; ">
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; width:1in;">Huge<br>Power<br>Block</th>
@@ -90,7 +88,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <li id="en01">
    David Graeber. 2014.
    <em>Debt: 5,00 Year History</em>
-   <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg"></a>>
+   <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg"</a>>
    <a href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en02">Andy Kopsa.
