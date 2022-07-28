@@ -23,22 +23,32 @@ image:    "the-power-of-the-powerless-icon.svg"
    <th><p style="text-align:right; font-size:smaller; ">Huge<br>Power<br>Block</p></th>
    <td>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, he says, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="en04"><a href="#en04">4&nbsp;</a></sup></td>
   </tr>
+</table>
+<table>
   <tr>
    <th><p style="text-align:right; font-size:smaller; ">Historical<br>Roots</p></td>
    <td>The system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="en05"><a href="#en05">5&nbsp;</a></sup></td>
   </tr>
+</table>
+<table>
   <tr>
    <th><p style="text-align:right; font-size:smaller; ">Securalized<br>Religion</p></th>
    <td>&ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="en06"><a href="#en06">6&nbsp;</a></sup></td>
   </tr>
+</table>
+<table>
   <tr>
    <th><p style="text-align:right; font-size:smaller; ">State<br>Ownership</p></th>
    <td>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="en07"><a href="#en07">7&nbsp;</a></sup></td>
   </tr>
+</table>
+<table>
   <tr>
    <th><p style="text-align:right; font-size:smaller; ">Dictatorships<br>& Democracies</p></td>
    <td>This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en08"><a href="#en08">8&nbsp;</a></sup></td>
   </tr>
+</table>
+<table>
   <tr>
    <td colspan="2" style="font-size:xx-small; "></td>
   </tr>
