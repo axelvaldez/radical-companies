@@ -40,7 +40,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <td style="text-align:left;  padding-left:1em; ">This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en08"><a href="#en08">8&nbsp;</a></sup></td>
  </tr>
  <tr>
-   <td colspan="2" style="font-size:xx-small; "></td>
+   <td colspan="2" style="font-size:xx-small; ">&nbsp;</td>
   </tr>
 </table>
 
