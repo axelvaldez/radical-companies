@@ -74,7 +74,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </td>
  </tr>
  <tr>
-  <th>Securalized<br>Religion</th>
+  <th>Ideology as<br>Securalized<br>Religion</th>
   <td>
    <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. &ldquo;Ownership&rdquo; is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under &ldquo;business/economics,&rdquo; including and self-management, are simply tweaks of this religion, while &ldquo;ownership&rdquo; remains invisible.</p>
    <p>The other foundation of this religion is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="bm08"><a href="#en08">8&nbsp;</a></sup></p>
