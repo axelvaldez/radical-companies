@@ -55,7 +55,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </tr>
 </table>
 
-<h1><em>The Power</em> and the <span style="font-size:smaller: ">RADICAL</span> Model</h1>
+<h1>Businesses</h1>
 <p>As I read the essay, I got more and more excited as I realized how well the <span style="font-size:smaller; ">RADICAL</span> model aligned to each of these points,</p>
 <table>
  <tr>
