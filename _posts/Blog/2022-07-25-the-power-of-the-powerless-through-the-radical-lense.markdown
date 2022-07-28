@@ -105,7 +105,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </li>
   <li id="en02">Andy Kopsa.
    <em>Czechoslovakia’s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</em>. November 16, 2019.
-   <<a href="https://time.com/5730106/velvet-revolution-history/"><https://time.com/5730106/velvet-revolution-history/></a>>
+   <<a href="https://time.com/5730106/velvet-revolution-history/">https://time.com/5730106/velvet-revolution-history/</a>>
    <a href="#bm02" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en03">
@@ -115,19 +115,19 @@ image:    "the-power-of-the-powerless-icon.svg"
   <li id="en04">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
-   <<a href="https://a.co/drH4npY"><https://a.co/8WPhu0s></a>>
+   <<a href="https://a.co/drH4npY">https://a.co/8WPhu0s</a>>
    <a href="#bm04" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en05">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
-   <<a href="https://a.co/0lq6pO8"><https://a.co/0lq6pO8></a>>
+   <<a href="https://a.co/0lq6pO8">https://a.co/0lq6pO8</a>>
    <a href="#bm05" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en06">
   Vaclav Havel.
    <em>The Power of the Powerless</em>
-   <<a href="https://a.co/eaqbk"><https://a.co/eaqbk></a>>
+   <<a href="https://a.co/eaqbk">https://a.co/eaqbk</a>>
    <a href="#bm06" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en07">
@@ -151,7 +151,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <li id="en10">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
-   <<a href="https://a.co/bPEY1mO"><https://a.co/bPEY1mO></a>>.
+   <<a href="https://a.co/bPEY1mO">https://a.co/bPEY1mO</a>>.
    <a href="#bm10" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
  </ol>
