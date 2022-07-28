@@ -230,7 +230,7 @@ h1._section {
   margin:100px 0 20px 0;
   color:gray;
 }
-._section > * {
+li {
   font-size:smaller;
 }
 h2 {
@@ -241,6 +241,7 @@ a._uparrow img {
 }
 tr {
   vertical-align:text-top;
+  font-size:smaller;
 }
 th {
   text-align:right;
