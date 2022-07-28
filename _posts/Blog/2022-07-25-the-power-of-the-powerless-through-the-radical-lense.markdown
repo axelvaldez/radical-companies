@@ -14,7 +14,6 @@ image:    "the-power-of-the-powerless-icon.svg"
  <p>Dictatorships are held together by historical roots, ideology-as-securalized-religion, and the very people they dominate. Looked at it through this lense, businesses are dictatorship and <em>The Power of Powerless</em> analysis applies to them as well.</p>
 
 <h1>Power</h1>
-4
  <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<sup id="bm01"><a href="#en01">1&nbsp;</a></sup></p>
  <p>In the essay, the most powerful point he makes is that what keeps together these communists dictatorships is the tacit participation of the very people that they oppress.<sup id="bm02"><a href="#en02">2&nbsp;</a></sup> <span style="font-size:smaller; ">FIAT</span> businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate.</p>
  <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called &ldquo;the means of production,&rdquo; that is everything that can generate wealth. He also pointed out that Soviet-style dictatorships and Western democracies were different forms of the consumer-industrial society,</p>
@@ -56,7 +55,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </tr>
 </table>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; "><em>The Power</em> and the RADICAL Model</h1>
+<h1><em>The Power</em> and the RADICAL Model</h1>
 <p>As I read the essay, I got more and more excited as I realized how well the <span style="font-size:smaller; ">RADICAL</span> model aligned to each of these points,</p>
 <table style="vertical-align:top; ">
  <tr style="vertical-align:text-top; font-size:smaller; ">
@@ -99,7 +98,7 @@ image:    "the-power-of-the-powerless-icon.svg"
 </table>
 <p>Businesses fit <em>every one</em> of theses observations. Over time, and not due to a conspiracy or any such, they&rsquo;ve come to make up a huge block. We simply have to see them for what they are today and stop &ldquo;going along&rdquo;. We need to experiement with other models of working together that benefit everyone according to their contributions. The <em>RADICAL COMPANIES</em><sup id="bm10"><a href="#en10">10</a></sup> book offers a viable alternative.</p>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
+<h1 class="section">ENDNOTES</h1>
  <ol>
   <li id="en01">Andy Kopsa.
    <em>Czechoslovakia&rsquo;s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</em>. November 16, 2019.
