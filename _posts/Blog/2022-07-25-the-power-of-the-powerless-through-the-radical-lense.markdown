@@ -51,7 +51,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </td>
  </tr>
  <tr>
-  <td class="spacer">&nbsp;</td>
+  <td class="_spacer">&nbsp;</td>
   </tr>
 </table>
 
@@ -93,51 +93,51 @@ image:    "the-power-of-the-powerless-icon.svg"
   </td>
  </tr>
  <tr>
-  <td class="spacer">&nbsp;</td>
+  <td class="_spacer">&nbsp;</td>
  </tr>
 </table>
 <p>Businesses fit <em>every one</em> of theses observations. Over time, and not due to a conspiracy or any such, they&rsquo;ve come to make up a huge block. We simply have to see them for what they are today and stop &ldquo;going along.&rdquo; We need to experiement with other models of working together that benefit everyone according to their contributions. The <em>RADICAL COMPANIES</em><sup id="bm10"><a href="#en10">10</a></sup> book offers a viable alternative.</p>
 
-<h1 class="section">ENDNOTES</h1>
+<h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">Andy Kopsa.
    <em>Czechoslovakia&rsquo;s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</em>. November 16, 2019.
    <<a href="https://time.com/5730106/velvet-revolution-history/">https://time.com/5730106/velvet-revolution-history/</a>>
-   <a class="uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+   <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en02">
    Labels like <em>Left</em> or <em>Right</em> don&rsquo;t matter, dictatorships are the same, and they know it. For example, Cuba&rsquo;s Castro and Argentina&rsquo;s Perón had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo;
-   <a class="uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+   <a class="-uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en03">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/drH4npY">https://a.co/8WPhu0s</a>>
-   <a class="uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+   <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en04">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/0lq6pO8">https://a.co/0lq6pO8</a>>
-   <a class="uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+   <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en05">
   Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/eaqbk">https://a.co/eaqbk</a>>
-   <a class="uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+   <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en06">
    Vaclav Havel.
    </em>The Power of the Powerless</em>
    <<a href="https://a.co/6sKvSlv">https://a.co/6sKvSlv</a>>
-   <a class="uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+   <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en07">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/enNA5rq">https://a.co/enNA5rq</a>>
-   <a class="uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+   <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en08">
    David Graeber. 2014.
@@ -149,17 +149,17 @@ image:    "the-power-of-the-powerless-icon.svg"
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/bPEY1mO">https://a.co/bPEY1mO</a>>.
-   <a class="uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+   <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
   <li id="en10">
    Matt Perez, Adrian Perez, Jose Leal.
    <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
    <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>.
-   <a class="uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+   <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
  </ol>
 
-<h1 class="section">RELATED</h1>
+<h1 class="_section">RELATED</h1>
  <ul>
   <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
    <ul>
