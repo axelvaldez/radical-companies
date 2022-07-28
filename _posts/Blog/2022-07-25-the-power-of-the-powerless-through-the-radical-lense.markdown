@@ -55,7 +55,7 @@ image:    "the-power-of-the-powerless-icon.svg"
    <td colspan="2" style="font-size:xx-small; ">&nbsp;</td>
   </tr>
 </table>
-<p>As I read the essay, I got more and more excited as it dawned on my how the <span style="font-size:smaller; ">RADICAL</span> model aligned to each of these points,</p>
+<p>As I read the essay, I got more and more excited as I realized how the <span style="font-size:smaller; ">RADICAL</span> model aligned to each of these points,</p>
 <table style="vertical-align:top; ">
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; width:1in;">Huge<br>Power<br>Block</th>
