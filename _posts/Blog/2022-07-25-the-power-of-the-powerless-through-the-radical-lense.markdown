@@ -19,17 +19,12 @@ image:    "the-power-of-the-powerless-icon.svg"
  <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called &ldquo;the means of production,&rdquo; that is everything that can generate wealth. He also pointed out that the Soviet-style dictatorships and democracies are differed forms of the consumer-industrial society,</p>
 
 <table>
-<body style="vertical-align:text-top; ">
-<columns>
- <col style="text-align:right; font-size:smaller; margin-right:1em; ">
- <col style="text-align:left;  font-size:smaller; margin-left:1em; ">
-</columns>
-  <tr>
-   <th><p style="text-align:right; font-size:smaller; ">Huge<br>Power<br>Block</p></th>
-   <td>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, he says, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="en04"><a href="#en04">4&nbsp;</a></sup></td>
+  <tr style="vertical-align:text-top; ">
+   <th>Huge<br>Power<br>Block</p></th>
+   <td>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, Havel writes, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="en04"><a href="#en04">4&nbsp;</a></sup></td>
   </tr>
-</body>
 </table>
+
 <table>
   <tr style="vertical-align:text-top; ">
    <th><p style="text-align:right; font-size:smaller; ">Historical<br>Roots</p></th>
