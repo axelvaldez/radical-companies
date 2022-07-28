@@ -24,7 +24,6 @@ image:    "the-power-of-the-powerless-icon.svg"
   <td style="text-align:left;  padding-left:1em; ">
    <p>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, Havel writes, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="en04"><a href="#en04">4&nbsp;</a></sup></p>
    <br>
-   <br>
   </td>
  </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
@@ -43,6 +42,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <th style="text-align:right; padding-right:1em; width:1in;">State<br>Ownership</th>
   <td style="text-align:left;  padding-left:1em; ">
    <p>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="en07"><a href="#en07">7&nbsp;</a></sup></p>
+   <br>
   </td>
   </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
