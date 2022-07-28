@@ -7,7 +7,7 @@ image:    "the-power-of-the-powerless-icon.svg"
 ---
 
 <div style="display:none;">
- <p>Dictatorships are held together by historical roots, ideology-as-securalized-religion, and the very people that it opress. The other foundation of dictatorship is money,based on debt as quantified by money. Looked at it this way, businesses are dictatorship and The Power of Powerless analysis applies to them as well.</p>
+ <p>Dictatorships are held together by historical roots, ideology-as-securalized-religion, and the very people that it oppresses. The other foundation of dictatorship is money,based on debt as quantified by money. Looked at it this way, businesses are dictatorship and The Power of Powerless analysis applies to them as well.</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
