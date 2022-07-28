@@ -11,35 +11,35 @@ image:    "the-power-of-the-powerless-icon.svg"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">&nbsp;</h1>
- <p>Dictatorships are held together by historical roots, ideology-as-securalized-religion, and the very people that it dominates. The other foundation of dictatorship is money. David Graeber, author of <em>Debt: The First 5,000 Years</em>, makes a very convincing case that it is all based on debt, formalized and quantified debt (<em>i.e.</em> money).<sup id="bn01"><a href="#en01">1&nbsp;</a></sup> Looked at it through this lense, businesses are dictatorship and The Power of Powerless analysis applies to them as well.</p>
+ <p>Dictatorships are held together by historical roots, ideology-as-securalized-religion, and the very people that it dominates. The other foundation of dictatorship is money. David Graeber, author of <em>Debt: The First 5,000 Years</em>, makes a very convincing case that it is all based on debt, formalized and quantified debt (<em>i.e.</em> money).<sup id="bm01"><a href="#en01">1&nbsp;</a></sup> Looked at it through this lense, businesses are dictatorship and The Power of Powerless analysis applies to them as well.</p>
 
 <h1>The Power</h1>
- <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
- <p>In the essay, the most powerful point he makes is that what keeps together these communists dictatorships is the tacit participation of the very people that they oppress.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> FIAT businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate.</p>
+ <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<sup id="en02"><a href="#en02">2&nbsp;</a></sup></p>
+ <p>In the essay, the most powerful point he makes is that what keeps together these communists dictatorships is the tacit participation of the very people that they oppress.<sup id="bm03"><a href="#en03">2&nbsp;</a></sup> <span style="font-size:smaller; ">FIAT</a> businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate.</p>
  <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called &ldquo;the means of production,&rdquo; that is everything that can generate wealth. He also pointed out that the Soviet-style dictatorships and democracies are differed forms of the consumer-industrial society,</p>
 
 <table>
   <tr>
    <th><p style="text-align: right">Huge<br>Power<br>Block</p></th>
-   <td>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, he says, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></td>
+   <td>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, he says, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="en04"><a href="#en04">4&nbsp;</a></sup></td>
   </tr>
   <tr>
    <th><p style="text-align: right">Historical Roots</p></td>
-   <td>The system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup></td>
+   <td>The system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="en05"><a href="#en05">5&nbsp;</a></sup></td>
   </tr>
   <tr>
    <td><p style="text-align: right">Securalized Religion</p></td>
    <td>
-    &ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup>
+    &ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="en06"><a href="#en06">6&nbsp;</a></sup>
    </td>
   </tr>
   <tr>
    <th><p style="text-align: right">State Ownership</p></th>
-   <td>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup></td>
+   <td>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="en07"><a href="#en07">7&nbsp;</a></sup></td>
   </tr>
   <tr>
    <th><p style="text-align: right">Dictatorships<br>& Democracies</p></td>
-   <td>This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="fnref7"><a href="#fn7" rel="footnote">7</a></sup></td>
+   <td>This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en08"><a href="#en08">8&nbsp;</a></sup></td>
   </tr>
   <tr>
    <td colspan="2" style="font-size:5px; "></td>
@@ -65,7 +65,7 @@ Historical Roots</p></th>
    <th><p style="text-align: right">Securalized Religion</p></th>
    <td>
     <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. &ldquo;Ownership&rdquo; is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under &ldquo;business/economics,&rdquo; including and self-management, are simply tweaks of this religion, while &ldquo;ownership&rdquo; remains invisible.</p>
-    <p>The other foundation of this religion is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup>
+    <p>The other foundation of this religion is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="en09"><a href="#en09">9&nbsp;</a></sup>
    </td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@ Historical Roots</p></th>
   </tr>
   <tr>
    <th><p style="text-align: right">Dictatorships<br>& Democracies</p></th>
-   <td>Both dictatorships and democracies are different shapes &ldquo;&hellip; of the consumer and industrial society with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="fnref9"><a href="#fn9" rel="footnote">9</a></sup> In And businesses are an integral part of this machine.</td>
+   <td>Both dictatorships and democracies are different shapes &ldquo;&hellip; of the consumer and industrial society with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en09"><a href="#en09">9</a></sup> In And businesses are an integral part of this machine.</td>
   </tr>
   <tr>
    <td colspan="2" style="font-size:5px; "></td>
@@ -84,58 +84,51 @@ Historical Roots</p></th>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol>
-  <li id="fn1">Andy Kopsa.
+  <li id="en01">Andy Kopsa.
    <em>Czechoslovakia’s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</em>. November 16, 2019.
    <<a href="https://time.com/5730106/velvet-revolution-history/"><https://time.com/5730106/velvet-revolution-history/></a>>
    <a href="#bm01" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
-  <li id="fn2">
+  <li id="en02">
    Labels like <em>Left</em> or <em>Right</em> don’t matter, dictatorships are the same, and they know it. For example, Cuba’sCastro and Argentina’s Perón had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo;</a>
    <a href="#bm02" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
-
-  <li id="fn3">
+  <li id="en03">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/drH4npY"><https://a.co/8WPhu0s></a>>
    <a href="#bm03" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
-
-  <li id="fn4">
+  <li id="en04">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/0lq6pO8"><https://a.co/0lq6pO8></a>>
    <a href="#bm04" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
-
-  <li id="fn5">
+  <li id="en05">
   Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/eaqbk"><https://a.co/eaqbk></a>>
    <a href="#bm05" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
-
-  <li id="fn6">
+  <li id="en06">
    Vaclav Havel.
    </em>The Power of the Powerless</em>
    <<a href="https://a.co/6sKvSlv">https://a.co/6sKvSlv</a>>
    <a href="#bm06" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
-
-  <li id="fn7">
+  <li id="en07">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/enNA5rq">https://a.co/enNA5rq</a>>
    <a href="#bm07" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
-
-  <li id="fn8">
+  <li id="en08">
    David Graeber. 2014.
    <em>Debt: 5,00 Year History</em>
    <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg</a>>
    <a href="#bm08" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
-
-  <li id="fn9">
+  <li id="en09">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/bPEY1mO"><https://a.co/bPEY1mO></a>>.
