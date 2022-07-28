@@ -225,7 +225,7 @@ h1 {
 }
 h1._section {
   font-size:50px;
-  font-family:Courier New, monospace;
+  font-family:'Courier New', Courier, monospace;
   text-align:center;
   margin: 50px 0 20px 0;
 }
