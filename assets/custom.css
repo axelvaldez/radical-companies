@@ -226,7 +226,8 @@ h1 {
 h1._section {
   font-size:50px;
   font-family:'Courier New', Courier, monospace;
-  text-align:right;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  text-align:center;
   margin: 50px 0 20px 0;
 }
 ._section li {
