@@ -11,43 +11,43 @@ image:    "the-power-of-the-powerless-icon.svg"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">&nbsp;</h1>
- <p>Dictatorships are held together by historical roots, ideology-as-securalized-religion, and the very people they dominate. The other foundation of dictatorship is money. David Graeber, author of <em>Debt: The First 5,000 Years</em>, makes a very convincing case that it is all based on debt, formalized and quantified debt (<em>i.e.</em> money).<sup id="bm01"><a href="#en01">1&nbsp;</a></sup> Looked at it through this lense, businesses are dictatorship and <em>The Power of Powerless</em> analysis applies to them as well.</p>
+ <p>Dictatorships are held together by historical roots, ideology-as-securalized-religion, and the very people they dominate. Looked at it through this lense, businesses are dictatorship and <em>The Power of Powerless</em> analysis applies to them as well.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Power</h1>
- <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<sup id="en02"><a href="#en02">2&nbsp;</a></sup></p>
- <p>In the essay, the most powerful point he makes is that what keeps together these communists dictatorships is the tacit participation of the very people that they oppress.<sup id="bm03"><a href="#en03">3&nbsp;</a></sup> <span style="font-size:smaller; ">FIAT</span> businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate.</p>
+ <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<sup id="en01"><a href="#en01">1&nbsp;</a></sup></p>
+ <p>In the essay, the most powerful point he makes is that what keeps together these communists dictatorships is the tacit participation of the very people that they oppress.<sup id="bm02"><a href="#en02">2&nbsp;</a></sup> <span style="font-size:smaller; ">FIAT</span> businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate.</p>
  <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called &ldquo;the means of production,&rdquo; that is everything that can generate wealth. He also pointed out that Soviet-style dictatorships and Western democracies were different forms of the consumer-industrial society,</p>
 <table>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; ">Huge<br>Power<br>Block</th>
   <td style="text-align:left;  padding-left:1em; ">
-   <p>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, Havel writes, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="en04"><a href="#en04">4&nbsp;</a></sup></p>
+   <p>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, Havel writes, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="en03"><a href="#en03">3&nbsp;</a></sup></p>
    <br>
   </td>
  </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; ">Historical<br>Roots</th>
   <td style="text-align:left;  padding-left:1em; ">
-   <p>he system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="en05"><a href="#en05">5&nbsp;</a></sup></p>
+   <p>he system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="en04"><a href="#en04">4&nbsp;</a></sup></p>
   </td>
  </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; ">Securalized<br>Religion</th>
   <td style="text-align:left;  padding-left:1em; ">
-   <p>&ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="en06"><a href="#en06">6&nbsp;</a></sup></p>
+   <p>&ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="en05"><a href="#en05">5&nbsp;</a></sup></p>
   </td>
   </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; ">State<br>Ownership</th>
   <td style="text-align:left;  padding-left:1em; ">
-   <p>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="en07"><a href="#en07">7&nbsp;</a></sup></p>
+   <p>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="en06"><a href="#en06">6&nbsp;</a></sup></p>
    <br>
   </td>
   </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; width:1.5in; ">Dictatorships<br>& Democracies</th>
   <td style="text-align:left;  padding-left:1em; ">
-   <p>This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en08"><a href="#en08">8&nbsp;</a></sup></p>
+   <p>This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en07"><a href="#en07">7&nbsp;</a></sup></p>
   </td>
  </tr>
  <tr>
@@ -100,68 +100,62 @@ image:    "the-power-of-the-powerless-icon.svg"
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol>
-  <li id="en01">
-   David Graeber. 2014.
-   <em>Debt: 5,00 Year History</em>
-   <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg"</a>>
-   <a href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
-  </li>
-  <li id="en02">Andy Kopsa.
+  <li id="en01">Andy Kopsa.
    <em>Czechoslovakia&rsquo;s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</em>. November 16, 2019.
    <<a href="https://time.com/5730106/velvet-revolution-history/">https://time.com/5730106/velvet-revolution-history/</a>>
+   <a href="#bm01" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+  </li>
+  <li id="en02">
+   Labels like <em>Left</em> or <em>Right</em> don&rsquo;t matter, dictatorships are the same, and they know it. For example, Cuba&rsquo;s Castro and Argentina&rsquo;s Perón had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo;
    <a href="#bm02" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en03">
-   Labels like <em>Left</em> or <em>Right</em> don&rsquo;t matter, dictatorships are the same, and they know it. For example, Cuba&rsquo;s Castro and Argentina&rsquo;s Perón had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo;
+   Vaclav Havel.
+   <em>The Power of the Powerless</em>
+   <<a href="https://a.co/drH4npY">https://a.co/8WPhu0s</a>>
    <a href="#bm03" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en04">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
-   <<a href="https://a.co/drH4npY">https://a.co/8WPhu0s</a>>
+   <<a href="https://a.co/0lq6pO8">https://a.co/0lq6pO8</a>>
    <a href="#bm04" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en05">
-   Vaclav Havel.
-   <em>The Power of the Powerless</em>
-   <<a href="https://a.co/0lq6pO8">https://a.co/0lq6pO8</a>>
-   <a href="#bm05" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
-  </li>
-  <li id="en06">
   Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/eaqbk">https://a.co/eaqbk</a>>
+   <a href="#bm05" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+  </li>
+  <li id="en06">
+   Vaclav Havel.
+   </em>The Power of the Powerless</em>
+   <<a href="https://a.co/6sKvSlv">https://a.co/6sKvSlv</a>>
    <a href="#bm06" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en07">
    Vaclav Havel.
-   </em>The Power of the Powerless</em>
-   <<a href="https://a.co/6sKvSlv">https://a.co/6sKvSlv</a>>
+   <em>The Power of the Powerless</em>
+   <<a href="https://a.co/enNA5rq">https://a.co/enNA5rq</a>>
    <a href="#bm07" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en08">
-   Vaclav Havel.
-   <em>The Power of the Powerless</em>
-   <<a href="https://a.co/enNA5rq">https://a.co/enNA5rq</a>>
-   <a href="#bm08" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
-  </li>
-  <li id="en09">
    David Graeber. 2014.
    <em>Debt: 5,00 Year History</em>
    <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg</a>>
-   <a href="#bm09" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+   <a href="#bm08" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
-  <li id="en10">
+  <li id="en09">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/bPEY1mO">https://a.co/bPEY1mO</a>>.
-   <a href="#bm10" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+   <a href="#bm09" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
-  <li id="en11">
+  <li id="en10">
    Matt Perez, Adrian Perez, Jose Leal.
    <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
    <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>.
-   <a href="#bm11" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+   <a href="#bm10" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
  </ol>
 
