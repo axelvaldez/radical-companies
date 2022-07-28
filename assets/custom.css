@@ -223,16 +223,19 @@ footer{
 h1 {
   font-size:40px;
 }
-h1.section {
+h1._section {
   font-size:50px;
   font-family:Courier New, monospace;
   text-align:center;
   margin: 50px 0 20px 0;
 }
+h1._section * {
+  font-size:smaller;
+}
 h2 {
   font-size:30px;
 }
-a.uparrow {
+a._uparrow {
   height:20px;
 }
 table {
@@ -250,10 +253,7 @@ td {
   text-align:left;
   padding-left:1em;
 }
-td.spacer {
+td._spacer {
   column-span: all;
   font-size:xx-small;
-}
-h1.section * {
-  font-size:smaller;
 }
