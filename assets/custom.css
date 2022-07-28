@@ -241,6 +241,7 @@ a._uparrow img {
 }
 tr {
   vertical-align:text-top;
+  font-size:smaller;
 }
 th {
   text-align:right;
@@ -249,7 +250,6 @@ th {
 td {
   text-align:left;
   padding-left:1em;
-  font-size:smaller;
 }
 td._spacer {
   column-span: all;
