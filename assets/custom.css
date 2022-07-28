@@ -255,7 +255,7 @@ td._spacer {
   column-span: all;
   font-size:x-small;
 }}
-[span~=FIAT], [span~=RADICAL] {
+[span~=RADICAL] {
   font-size:smaller;
   color:red;
 }
