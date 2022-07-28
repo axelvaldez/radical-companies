@@ -27,7 +27,7 @@ image:    "the-power-of-the-powerless-icon.svg"
 </body>
 </table>
 <table>
-  <tr>
+  <tr style="vertical-align:text-top; ">
    <th><p style="text-align:right; font-size:smaller; ">Historical<br>Roots</p></th>
    <td>The system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="en05"><a href="#en05">5&nbsp;</a></sup></td>
   </tr>
