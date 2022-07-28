@@ -254,3 +254,6 @@ td.spacer {
   column-span: all;
   font-size:xx-small;
 }
+h1.section * {
+  font-size:smaller;
+}
