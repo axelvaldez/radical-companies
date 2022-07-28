@@ -89,14 +89,14 @@ image:    "the-power-of-the-powerless-icon.svg"
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; width:1.5in;">Dictatorships<br>& Democracies</th>
   <td style="text-align:left;  padding-left:1em; ">
-   <p>Both dictatorships and democracies are different shapes &ldquo;&hellip; of the consumer and industrial society with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en10"><a href="#en10">10&nbsp;</a></sup> In And businesses are an integral part of this machine.</p>
+   <p>Both dictatorships and democracies are different shapes &ldquo;&hellip; of the consumer and industrial society with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en10"><a href="#en10">10</a></sup> In And businesses are an integral part of this machine.</p>
   </td>
  </tr>
  <tr>
   <td colspan="2" style="font-size:xx-small; "></td>
  </tr>
 </table>
-<p>Businesses fit <em>every one</em> of theses observations. Over time, and not due to a conspiracy or any such, they&rsquo;ve come to make up a huge block. We simply have to see them for what they are today and stop &ldquo;going along&rdquo;. We need to experiement with other models of working together that benefit everyone according to their contributions. The <em>RADICAL COMPANIES</em> book offers a viable alternative.</p>
+<p>Businesses fit <em>every one</em> of theses observations. Over time, and not due to a conspiracy or any such, they&rsquo;ve come to make up a huge block. We simply have to see them for what they are today and stop &ldquo;going along&rdquo;. We need to experiement with other models of working together that benefit everyone according to their contributions. The <em>RADICAL COMPANIES</em><sup id="en11"><a href="#en11">11</a></sup> book offers a viable alternative.</p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol>
@@ -156,6 +156,12 @@ image:    "the-power-of-the-powerless-icon.svg"
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/bPEY1mO">https://a.co/bPEY1mO</a>>.
    <a href="#bm10" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+  </li>
+  <li id="en11">
+   Matt Perez, Adrian Perez, Jose Leal.
+   <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
+   <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>.
+   <a href="#bm11" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
  </ol>
 
