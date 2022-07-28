@@ -237,12 +237,9 @@ h1._section * {
 h2 {
   font-size:30px;
 }
-a._uparrow {
-  color:blueviolet;
-}
 a._uparrow img {
-  width:20px;
-  width:10px !important;
+  max-width:10px !important;
+  max-height:10px !important;
 }
 table {
   vertical-align:top;
