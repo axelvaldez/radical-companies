@@ -7,11 +7,11 @@ image:    "the-power-of-the-powerless-icon.svg"
 ---
 
 <div style="display:none;">
- <p>Dictatorships are held together by historical roots, ideology-as-securalized-religion, and the very people that it oppresses. The other foundation of dictatorship is money,based on debt as quantified by money. Looked at it this way, businesses are dictatorship and The Power of Powerless analysis applies to them as well.</p>
+ <p>Dictatorships are held together by historical roots, ideology-as-securalized-religion, and the very people that it oppresses. The other foundation of dictatorship is money,based on debt as quantified by money. Looked at it this way, businesses are dictatorship and <em>The Power of Powerless</em> analysis applies to them as well.</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; "></h1>
- <p>Dictatorships are held together by historical roots, ideology-as-securalized-religion, and the very people that it dominates. The other foundation of dictatorship is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, debt quantified as money.<sup id="bn01"><a href="#en01">1&nbsp;</a></sup> Looked at it through this lense, businesses are dictatorship and The Power of Powerless analysis applies to them as well.</p>
+ <p>Dictatorships are held together by historical roots, ideology-as-securalized-religion, and the very people that it dominates. The other foundation of dictatorship is money. David Graeber, author of <em>Debt: The First 5,000 Years</em>, makes a very convincing case that it is all based on debt and, particularly, debt quantified as money.<sup id="bn01"><a href="#en01">1&nbsp;</a></sup> Looked at it through this lense, businesses are dictatorship and The Power of Powerless analysis applies to them as well.</p>
 
 <h1>The Power</h1>
  <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
