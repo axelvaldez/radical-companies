@@ -63,13 +63,15 @@ image:    "the-power-of-the-powerless-icon.svg"
   <th style="text-align:right; padding-right:1em; ">Huge<br>Power<br>Block</th>
   <td style="text-align:left;  padding-left:1em; ">
    <p>Within each nation, businesses &ldquo;hold sway over&rdquo; all levels of governments, particularly about the way they get and spend their money. Around the world, multinationals &ldquo;hold sway over&rdquo; over many countries at once, &ldquo;a huge power block.&rdquo;</p>
+   <p>In other words, businesses, no matter their size, are part of a <em>huge power block</em>.</p>
   </td>
  </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; ">Historical<br>Roots</th>
   <td style="text-align:left;  padding-left:1em; ">
-    <p>Although there is not a <em>Left</em> and <em>Right</em> ideology when it comes to businesses, there is a cultural ideology that supports them. Among others, Roy S Jacques writes that &ldquo;<em>Beginning in the Western Europe of the fourteenth to sixteenth century one find a growth of a mode of consciousness&hellip; [that] has a ‘mechanical’ orientation to it, emphasizing instrumentality, emotionlessness, accumulation, skepticism, individual consciousness, standardization, and objectification. It is also from this mode of consciousness that the particular form of production and exchange currently dominant worldwide has emerged.</em>&rdquo;</p>
+    <p>Although there is not a <em>Left</em> and <em>Right</em> ideology when it comes to businesses, there is a cultural ideology that supports them. Among others, Roy S Jacques writes that &ldquo;<em>Beginning in the Western Europe of the fourteenth to sixteenth century one find a growth of a mode of consciousness&hellip; [that] has a &lsquo;mechanical&rsquo; orientation to it, emphasizing instrumentality, emotionlessness, accumulation, skepticism, individual consciousness, standardization, and objectification. It is also from this mode of consciousness that the particular form of production and exchange currently dominant worldwide has emerged.</em>&rdquo;</p>
     <p>He continues to say that between the 17th and 19th century, &ldquo;<em>Liberty no longer meant the freedom to perfect an enclosed city protected from the world. It was redirected as the freedom to conquer and order that outer world. Progress no longer meant movement toward a finite goal, but infinite expansion into a limitless universe</em>.&rdquo; Conquering and infinite expansion is the ideology that sustains businesses to this day.</p>
+   <p>In other words, businesses have a <em>historiccal root</em>, one that is embedded in today&rsquo;s culture.</p>
   </td>
  </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
@@ -106,12 +108,12 @@ image:    "the-power-of-the-powerless-icon.svg"
    <a href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en02">Andy Kopsa.
-   <em>Czechoslovakia’s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</em>. November 16, 2019.
+   <em>Czechoslovakia&rsquo;s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</em>. November 16, 2019.
    <<a href="https://time.com/5730106/velvet-revolution-history/">https://time.com/5730106/velvet-revolution-history/</a>>
    <a href="#bm02" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en03">
-   Labels like <em>Left</em> or <em>Right</em> don’t matter, dictatorships are the same, and they know it. For example, Cuba’sCastro and Argentina’s Perón had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo;
+   Labels like <em>Left</em> or <em>Right</em> don&rsquo;t matter, dictatorships are the same, and they know it. For example, Cuba&rsquo;s Castro and Argentina&rsquo;s Perón had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo;
    <a href="#bm03" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en04">
