@@ -233,7 +233,7 @@ h1._section {
   color:gray;
 }
 div > h1 {
-  font-size:larger !important;
+  font-size:larger;
   font-size:70px;
 }
 h2 {
