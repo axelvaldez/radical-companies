@@ -57,25 +57,25 @@ image:    "the-power-of-the-powerless-icon.svg"
 
 <h1><em>The Power</em> and the RADICAL Model</h1>
 <p>As I read the essay, I got more and more excited as I realized how well the <span style="font-size:smaller; ">RADICAL</span> model aligned to each of these points,</p>
-<table style="vertical-align:top; ">
- <tr style="vertical-align:text-top; font-size:smaller; ">
-  <th style="text-align:right; padding-right:1em; ">Huge<br>Power<br>Block</th>
-  <td style="text-align:left;  padding-left:1em; ">
+<table>
+ <tr>
+  <th>Huge<br>Power<br>Block</th>
+  <td>
    <p>Within each nation, businesses &ldquo;hold sway over&rdquo; all levels of governments, particularly about the way they get and spend their money. Around the world, multinationals &ldquo;hold sway over&rdquo; over many countries at once, &ldquo;a huge power block.&rdquo;</p>
    <p>In other words, businesses, no matter their size, are part of a <em>huge power block</em>.</p>
   </td>
  </tr>
- <tr style="vertical-align:text-top; font-size:smaller; ">
-  <th style="text-align:right; padding-right:1em; ">Historical<br>Roots</th>
-  <td style="text-align:left;  padding-left:1em; ">
+ <tr>
+  <th>Historical<br>Roots</th>
+  <td>
     <p>Although there is not a <em>Left</em> and <em>Right</em> ideology when it comes to businesses, there is a cultural ideology that supports them. Among others, Roy S Jacques writes that &ldquo;<em>Beginning in the Western Europe of the fourteenth to sixteenth century one find a growth of a mode of consciousness&hellip; [that] has a &lsquo;mechanical&rsquo; orientation to it, emphasizing instrumentality, emotionlessness, accumulation, skepticism, individual consciousness, standardization, and objectification. It is also from this mode of consciousness that the particular form of production and exchange currently dominant worldwide has emerged.</em>&rdquo;</p>
     <p>He continues to say that between the 17th and 19th century, &ldquo;<em>Liberty no longer meant the freedom to perfect an enclosed city protected from the world. It was redirected as the freedom to conquer and order that outer world. Progress no longer meant movement toward a finite goal, but infinite expansion into a limitless universe</em>.&rdquo; Conquering and infinite expansion is the ideology that sustains businesses to this day.</p>
    <p>In other words, businesses have a <em>historiccal root</em>, one that is embedded in today&rsquo;s culture.</p>
   </td>
  </tr>
- <tr style="vertical-align:text-top; font-size:smaller; ">
-  <th style="text-align:right; padding-right:1em; ">Securalized<br>Religion</th>
-  <td style="text-align:left;  padding-left:1em; ">
+ <tr>
+  <th>Securalized<br>Religion</th>
+  <td>
    <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. &ldquo;Ownership&rdquo; is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under &ldquo;business/economics,&rdquo; including and self-management, are simply tweaks of this religion, while &ldquo;ownership&rdquo; remains invisible.</p>
    <p>The other foundation of this religion is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="bm08"><a href="#en08">8&nbsp;</a></sup></p>
   </td>
@@ -107,55 +107,55 @@ image:    "the-power-of-the-powerless-icon.svg"
   </li>
   <li id="en02">
    Labels like <em>Left</em> or <em>Right</em> don&rsquo;t matter, dictatorships are the same, and they know it. For example, Cuba&rsquo;s Castro and Argentina&rsquo;s Perón had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo;
-   <a href="#bm02" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+   <a class="uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en03">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/drH4npY">https://a.co/8WPhu0s</a>>
-   <a href="#bm03" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+   <a class="uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en04">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/0lq6pO8">https://a.co/0lq6pO8</a>>
-   <a href="#bm04" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+   <a class="uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en05">
   Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/eaqbk">https://a.co/eaqbk</a>>
-   <a href="#bm05" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+   <a class="uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en06">
    Vaclav Havel.
    </em>The Power of the Powerless</em>
    <<a href="https://a.co/6sKvSlv">https://a.co/6sKvSlv</a>>
-   <a href="#bm06" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+   <a class="uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en07">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/enNA5rq">https://a.co/enNA5rq</a>>
-   <a href="#bm07" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+   <a class="uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en08">
    David Graeber. 2014.
    <em>Debt: 5,00 Year History</em>
    <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg</a>>
-   <a href="#bm08" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+   <a class="uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
   <li id="en09">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/bPEY1mO">https://a.co/bPEY1mO</a>>.
-   <a href="#bm09" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+   <a class="uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
   <li id="en10">
    Matt Perez, Adrian Perez, Jose Leal.
    <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
    <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>.
-   <a href="#bm10" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+   <a class="uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
  </ol>
 
