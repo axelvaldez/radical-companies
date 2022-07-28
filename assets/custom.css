@@ -220,37 +220,37 @@ footer{
 }
 
 /* Matt's */
-.container h1 {
+h1 {
   font-size:40px;
 }
-.container h1.section {
+h1.section {
   font-size:50px;
   font-family:Courier New, monospace;
   text-align:center;
   margin: 50px 0 20px 0;
 }
-.container h2 {
+h2 {
   font-size:30px;
 }
-.container a.uparrow {
+a.uparrow {
   height:20px;
 }
-.container table {
+table {
   vertical-align:top;
 }
-.container tr {
+tr {
   vertical-align:text-top;
   font-size:smaller;
 }
-.container th {
+th {
   text-align:right;
   padding-right:1em;
 }
-.container td {
+td {
   text-align:left;
   padding-left:1em;
 }
-.container td.spacer {
+td.spacer {
   column-span: all;
   font-size:xx-small;
 }
