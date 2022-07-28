@@ -55,6 +55,8 @@ image:    "the-power-of-the-powerless-icon.svg"
    <td colspan="2" style="font-size:xx-small; ">&nbsp;</td>
   </tr>
 </table>
+
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">Havel's and the RADICAL Model</h1>
 <p>As I read the essay, I got more and more excited as I realized how well the <span style="font-size:smaller; ">RADICAL</span> model aligned to each of these points,</p>
 <table style="vertical-align:top; ">
  <tr style="vertical-align:text-top; font-size:smaller; ">
