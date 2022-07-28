@@ -95,7 +95,7 @@ image:    "the-power-of-the-powerless-icon.svg"
    <a href="#bm02" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en03">
-   Labels like <em>Left</em> or <em>Right</em> don’t matter, dictatorships are the same, and they know it. For example, Cuba’sCastro and Argentina’s Perón had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo;</a>
+   Labels like <em>Left</em> or <em>Right</em> don’t matter, dictatorships are the same, and they know it. For example, Cuba’sCastro and Argentina’s Perón had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo;
    <a href="#bm03" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
   <li id="en04">
