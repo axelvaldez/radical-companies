@@ -98,7 +98,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <td class="_spacer">&nbsp;</td>
  </tr>
 </table>
-<p>Businesses fit <em>every one</em> of theses observations. Over time, and not due to a conspiracy or any such, they&rsquo;ve come to make up a huge block. We simply have to see them for what they are today and stop &ldquo;going along.&rdquo; We need to experiement with other models of working together that benefit everyone according to their contributions. The <em>RADICAL COMPANIES</em><sup id="bm10"><a href="#en10">10</a></sup> book offers a viable alternative.</p>
+<p>Businesses fit <em>every one</em> of theses observations. Over time, and not due to a conspiracy or any such, they&rsquo;ve come to make up a huge block. We simply have to see them for what they are today and stop &ldquo;going along.&rdquo; We need to experiement with other models of working together that benefit everyone according to their contributions. The <span class="_radical">RADICAL COMPANIES</span><sup id="bm10"><a href="#en10">10</a></sup> book offers a viable alternative.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
