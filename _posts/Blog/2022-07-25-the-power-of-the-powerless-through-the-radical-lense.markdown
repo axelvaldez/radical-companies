@@ -89,7 +89,7 @@ image:    "the-power-of-the-powerless-icon.svg"
  <tr>
   <th style="width:1.5in; ">Dictatorships<br>& Democracies</th>
   <td>
-   <p>Admittedly, democracies are better for people than dictatorship, but they both are different shapes &ldquo;&hellip; of the consumer and industrial society.&rdquo;<sup id="bm09"><a href="#en09">9</a></sup> If we can agree that super-centralized ownership doesn't work mearly as well as more decentralized ownership (<em>i.e.</em> <!-- <span style="font-size:smaller;">FIAT</span> businesses) -->FIAT, then it makes most sense to move towards <em>even more</em> decentralized ownership (<em>i.e.</em> co-owned companies)</p>
+   <p>Admittedly, democracies are better for people than dictatorship, but they both are different shapes &ldquo;&hellip; of the consumer and industrial society.&rdquo;<sup id="bm09"><a href="#en09">9</a></sup> If we can agree that super-centralized ownership doesn't work mearly as well as more decentralized ownership (<em>i.e.</em> <span style="font-size:smaller;">FIAT</span> businesses), then it makes most sense to move towards an <em>even more</em> decentralized ownership (<em>i.e.</em> co-owned companies)</p>
   </td>
  </tr>
  <tr>
