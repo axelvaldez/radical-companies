@@ -254,8 +254,10 @@ td {
 td._spacer {
   column-span: all;
   font-size:x-small;
-}
-._radical {
+}}
+[span~=FIAT], [span~=RADICAL] {
   font-size:smaller;
-  font-style:italic;
+}
+[a~=https:]::after {
+    content:target='_blank';
 }
