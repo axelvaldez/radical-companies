@@ -14,40 +14,40 @@ image:    "the-power-of-the-powerless-icon.svg"
  <p>Dictatorships are held together by historical roots, ideology-as-securalized-religion, and the very people they dominate. Looked at it through this lense, businesses are dictatorship and <em>The Power of Powerless</em> analysis applies to them as well.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Power</h1>
- <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<sup id="en01"><a href="#en01">1&nbsp;</a></sup></p>
+ <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<sup id="bm01"><a href="#en01">1&nbsp;</a></sup></p>
  <p>In the essay, the most powerful point he makes is that what keeps together these communists dictatorships is the tacit participation of the very people that they oppress.<sup id="bm02"><a href="#en02">2&nbsp;</a></sup> <span style="font-size:smaller; ">FIAT</span> businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate.</p>
  <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called &ldquo;the means of production,&rdquo; that is everything that can generate wealth. He also pointed out that Soviet-style dictatorships and Western democracies were different forms of the consumer-industrial society,</p>
 <table>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; ">Huge<br>Power<br>Block</th>
   <td style="text-align:left;  padding-left:1em; ">
-   <p>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, Havel writes, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="en03"><a href="#en03">3&nbsp;</a></sup></p>
+   <p>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, Havel writes, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="bm03"><a href="#en03">3&nbsp;</a></sup></p>
    <br>
   </td>
  </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; ">Historical<br>Roots</th>
   <td style="text-align:left;  padding-left:1em; ">
-   <p>he system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="en04"><a href="#en04">4&nbsp;</a></sup></p>
+   <p>he system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="bm04"><a href="#en04">4&nbsp;</a></sup></p>
   </td>
  </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; ">Securalized<br>Religion</th>
   <td style="text-align:left;  padding-left:1em; ">
-   <p>&ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="en05"><a href="#en05">5&nbsp;</a></sup></p>
+   <p>&ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="bm05"><a href="#en05">5&nbsp;</a></sup></p>
   </td>
   </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; ">State<br>Ownership</th>
   <td style="text-align:left;  padding-left:1em; ">
-   <p>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="en06"><a href="#en06">6&nbsp;</a></sup></p>
+   <p>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="bm06"><a href="#en06">6&nbsp;</a></sup></p>
    <br>
   </td>
   </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; width:1.5in; ">Dictatorships<br>& Democracies</th>
   <td style="text-align:left;  padding-left:1em; ">
-   <p>This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en07"><a href="#en07">7&nbsp;</a></sup></p>
+   <p>This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="bm07"><a href="#en07">7&nbsp;</a></sup></p>
   </td>
  </tr>
  <tr>
@@ -77,7 +77,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <th style="text-align:right; padding-right:1em; ">Securalized<br>Religion</th>
   <td style="text-align:left;  padding-left:1em; ">
    <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. &ldquo;Ownership&rdquo; is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under &ldquo;business/economics,&rdquo; including and self-management, are simply tweaks of this religion, while &ldquo;ownership&rdquo; remains invisible.</p>
-   <p>The other foundation of this religion is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="en09"><a href="#en09">9&nbsp;</a></sup></p>
+   <p>The other foundation of this religion is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="bm09"><a href="#en09">9&nbsp;</a></sup></p>
   </td>
  </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
@@ -89,14 +89,14 @@ image:    "the-power-of-the-powerless-icon.svg"
  <tr style="vertical-align:text-top; font-size:smaller; ">
   <th style="text-align:right; padding-right:1em; width:1.5in;">Dictatorships<br>& Democracies</th>
   <td style="text-align:left;  padding-left:1em; ">
-   <p>Both dictatorships and democracies are different shapes &ldquo;&hellip; of the consumer and industrial society with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en10"><a href="#en10">10</a></sup> In And businesses are an integral part of this machine.</p>
+   <p>Both dictatorships and democracies are different shapes &ldquo;&hellip; of the consumer and industrial society with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="bm10"><a href="#en10">10</a></sup> In And businesses are an integral part of this machine.</p>
   </td>
  </tr>
  <tr>
   <td colspan="2" style="font-size:xx-small; "></td>
  </tr>
 </table>
-<p>Businesses fit <em>every one</em> of theses observations. Over time, and not due to a conspiracy or any such, they&rsquo;ve come to make up a huge block. We simply have to see them for what they are today and stop &ldquo;going along&rdquo;. We need to experiement with other models of working together that benefit everyone according to their contributions. The <em>RADICAL COMPANIES</em><sup id="en11"><a href="#en11">11</a></sup> book offers a viable alternative.</p>
+<p>Businesses fit <em>every one</em> of theses observations. Over time, and not due to a conspiracy or any such, they&rsquo;ve come to make up a huge block. We simply have to see them for what they are today and stop &ldquo;going along&rdquo;. We need to experiement with other models of working together that benefit everyone according to their contributions. The <em>RADICAL COMPANIES</em><sup id="bm11"><a href="#en11">11</a></sup> book offers a viable alternative.</p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol>
