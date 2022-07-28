@@ -129,7 +129,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </li>
   <li id="en06">
    Vaclav Havel.
-   </em>The Power of the Powerless</em>
+   <em>The Power of the Powerless</em>
    <<a href="https://a.co/6sKvSlv">https://a.co/6sKvSlv</a>>
    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
   </li>
