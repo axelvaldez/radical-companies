@@ -228,6 +228,7 @@ h1._section {
   font-family:'Courier New', Courier, monospace;
   text-align:center;
   margin: 100px 0 20px 0;
+  color: #ED8849;
 }
 h1 ._section * {
   font-size:smaller;
