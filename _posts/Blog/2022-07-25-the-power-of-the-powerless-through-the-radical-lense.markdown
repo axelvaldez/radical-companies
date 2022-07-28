@@ -46,7 +46,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </tr>
 </table>
 <p>As I read the essay, I got more and more excited as it dawned on my how the RADICAL model aligned to each of these points,</p>
-<table>
+<table style="vertical-align:top; ">
   <tr>
    <th><p style="text-align:right; font-size:smaller; ">Huge<br>Power<br>Block</p></th>
    <td>
