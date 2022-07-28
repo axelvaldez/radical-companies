@@ -48,33 +48,33 @@ image:    "the-power-of-the-powerless-icon.svg"
 
 <table style="vertical-align:top; ">
  <tr style="vertical-align:text-top; font-size:smaller; ">
-  <th style="text-align:right; margin-right:1em; width:1in;">Huge<br>Power<br>Block</p></th>
+  <th style="text-align:right; margin-right:1em; width:1in;">Huge<br>Power<br>Block</th>
   <td style="text-align:left;  margin-left:1em; ">
    <p>Within each nation, businesses &ldquo;hold sway over&rdquo; all levels of governments, particularly about the way they get and spend their money. Around the world, multinationals &ldquo;hold sway over&rdquo; over many countries at once, &ldquo;a huge power block.&rdquo;</p>
   </td>
  </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
-  <th style="text-align:right; margin-right:1em; width:1in;">Historical<br>Roots</p></th>
+  <th style="text-align:right; margin-right:1em; width:1in;">Historical<br>Roots</th>
   <td style="text-align:left;  margin-left:1em; ">
     <p>Although there is not a <em>Left</em> and <em>Right</em> ideology when it comes to businesses, there is a cultural ideology that supports them. Among others, Roy S Jacques writes that &ldquo;<em>Beginning in the Western Europe of the fourteenth to sixteenth century one find a growth of a mode of consciousness&hellip; [that] has a ‘mechanical’ orientation to it, emphasizing instrumentality, emotionlessness, accumulation, skepticism, individual consciousness, standardization, and objectification. It is also from this mode of consciousness that the particular form of production and exchange currently dominant worldwide has emerged.</em>&rdquo;</p>
     <p>He continues to say that between the 17th and 19th century, &ldquo;<em>Liberty no longer meant the freedom to perfect an enclosed city protected from the world. It was redirected as the freedom to conquer and order that outer world. Progress no longer meant movement toward a finite goal, but infinite expansion into a limitless universe</em>.&rdquo; Conquering and infinite expansion is the ideology that sustains businesses to this day.</p>
   </td>
  </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
-  <th style="text-align:right; margin-right:1em; width:1in;">Securalized<br>Religion</p></th>
+  <th style="text-align:right; margin-right:1em; width:1in;">Securalized<br>Religion</th>
   <td style="text-align:left;  margin-left:1em; ">
    <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. &ldquo;Ownership&rdquo; is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under &ldquo;business/economics,&rdquo; including and self-management, are simply tweaks of this religion, while &ldquo;ownership&rdquo; remains invisible.</p>
    <p>The other foundation of this religion is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="en09"><a href="#en09">9&nbsp;</a></sup></p>
   </td>
  </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
-  <th style="text-align:right; margin-right:1em; width:1in;">State<br>Ownership</p></th>
+  <th style="text-align:right; margin-right:1em; width:1in;">State<br>Ownership</th>
   <td style="text-align:left;  margin-left:1em; ">
    <p>Admittedly, State ownership is a worst case, but ownership by a few bosses is pretty bad, too</p>
   </td>
  </tr>
  <tr style="vertical-align:text-top; font-size:smaller; ">
-  <th style="text-align:right; margin-right:1em; width:1in;">Dictatorships<br>& Democracies</p></th>
+  <th style="text-align:right; margin-right:1em; width:1in;">Dictatorships<br>& Democracies</th>
   <td style="text-align:left;  margin-left:1em; ">
    <p>Both dictatorships and democracies are different shapes &ldquo;&hellip; of the consumer and industrial society with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en10"><a href="#en10">10&nbsp;</a></sup> In And businesses are an integral part of this machine.</p>
   </td>
