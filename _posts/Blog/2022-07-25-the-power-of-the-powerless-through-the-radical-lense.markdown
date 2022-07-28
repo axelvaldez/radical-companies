@@ -74,10 +74,10 @@ image:    "the-power-of-the-powerless-icon.svg"
    <td>Both dictatorships and democracies are different shapes &ldquo;&hellip; of the consumer and industrial society with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="en09"><a href="#en09">9</a></sup> In And businesses are an integral part of this machine.</td>
   </tr>
   <tr>
-   <td colspan="2" style="font-size:5px; "></td>
+   <td colspan="2" style="font-size:xx-small; "></td>
   </tr>
 </table>
-<p>Businesses fit of all the observations that Havel pointed out.</p>
+<p>Businesses fit every one of theses observations.</p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol>
