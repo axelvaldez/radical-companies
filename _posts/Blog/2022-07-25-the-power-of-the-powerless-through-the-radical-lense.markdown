@@ -144,7 +144,7 @@ image:    "the-power-of-the-powerless-icon.svg"
    David Graeber. 2014.
    <em>Debt: 5,00 Year History</em>
    <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg</a>>
-   <a class="uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+   <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
   <li id="en09">
    Vaclav Havel.
