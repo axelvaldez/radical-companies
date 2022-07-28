@@ -80,20 +80,20 @@ image:    "the-power-of-the-powerless-icon.svg"
    <p>The other foundation of this religion is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="bm08"><a href="#en08">8&nbsp;</a></sup></p>
   </td>
  </tr>
- <tr style="vertical-align:text-top; font-size:smaller; ">
-  <th style="text-align:right; padding-right:1em; ">State<br>Ownership</th>
-  <td style="text-align:left;  padding-left:1em; ">
+ <tr>
+  <th>State<br>Ownership</th>
+  <td>
    <p>Admittedly, State ownership is a worst case, but ownership by a few bosses is pretty bad, too</p>
   </td>
  </tr>
- <tr style="vertical-align:text-top; font-size:smaller; ">
-  <th style="text-align:right; padding-right:1em; width:1.5in;">Dictatorships<br>& Democracies</th>
-  <td style="text-align:left;  padding-left:1em; ">
+ <tr>
+  <th>Dictatorships<br>& Democracies</th>
+  <td>
    <p>Both dictatorships and democracies are different shapes &ldquo;&hellip; of the consumer and industrial society with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="bm09"><a href="#en09">9</a></sup> In And businesses are an integral part of this machine.</p>
   </td>
  </tr>
  <tr>
-  <td colspan="2" style="font-size:xx-small; "></td>
+  <td colspan="2" style="font-size:xx-small; ">&nbsp;</td>
  </tr>
 </table>
 <p>Businesses fit <em>every one</em> of theses observations. Over time, and not due to a conspiracy or any such, they&rsquo;ve come to make up a huge block. We simply have to see them for what they are today and stop &ldquo;going along&rdquo;. We need to experiement with other models of working together that benefit everyone according to their contributions. The <em>RADICAL COMPANIES</em><sup id="bm10"><a href="#en10">10</a></sup> book offers a viable alternative.</p>
