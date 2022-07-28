@@ -241,8 +241,8 @@ a._uparrow {
   color:blueviolet;
 }
 a._uparrow img {
-  height:20px;
-  height:10px;
+  width:20px;
+  width:10px;
 }
 table {
   vertical-align:top;
