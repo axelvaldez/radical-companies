@@ -18,7 +18,7 @@ image:    "the-power-of-the-powerless-icon.svg"
  <p>In the essay, the most powerful point he makes is that what keeps together these communists dictatorships is the tacit participation of the very people that they oppress.<sup id="bm03"><a href="#en03">2&nbsp;</a></sup> <span style="font-size:smaller; ">FIAT</a> businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate.</p>
  <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called &ldquo;the means of production,&rdquo; that is everything that can generate wealth. He also pointed out that the Soviet-style dictatorships and democracies are differed forms of the consumer-industrial society,</p>
 
-<table>
+<table style="vertical-align:top; ">
   <tr>
    <th><p style="text-align:right; font-size:smaller; ">Huge<br>Power<br>Block</p></th>
    <td>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, he says, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="en04"><a href="#en04">4&nbsp;</a></sup></td>
