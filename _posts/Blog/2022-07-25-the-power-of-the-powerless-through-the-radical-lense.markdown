@@ -159,7 +159,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </li>
  </ol>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
+<h1 class="section">RELATED</h1>
  <ul>
   <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
    <ul>
