@@ -238,8 +238,7 @@ h2 {
   font-size:30px;
 }
 a._uparrow img {
-  max-width:10px !important;
-  max-height:10px !important;
+  max-height:20px !important;
 }
 table {
   vertical-align:top;
