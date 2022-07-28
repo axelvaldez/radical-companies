@@ -16,171 +16,135 @@ image:    "the-power-of-the-powerless-icon.svg"
 <h1>The Power</h1>
  <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
  <p>In the essay, the most powerful point he makes is that what keeps together these communists dictatorships is the tacit participation of the very people that they oppress.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> FIAT businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate.</p>
- <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called "the means of production," that is everything that can generate wealth. He also pointed out that the Soviet-style dictatorships and democracies are differed forms of the consumer-industrial society,</p>
+ <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called &ldquo;the means of production,&rdquo; that is everything that can generate wealth. He also pointed out that the Soviet-style dictatorships and democracies are differed forms of the consumer-industrial society,</p>
 
 <table>
   <tr>
    <th><p style="text-align: right">Huge<br>Power<br>Block</p></th>
-   <td>The “system is not limited in a local, geographical sense.” Rather, he says, “it holds sway over a huge power block.”<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></td>
+   <td>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, he says, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></td>
   </tr>
   <tr>
    <th><p style="text-align: right">Historical Roots</p></td>
-   <td>The system does not lack historical roots in that it took form on the back of “the proletarian social movements of the nineteenth century.”<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup></td>
+   <td>The system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup></td>
   </tr>
   <tr>
    <td><p style="text-align: right">Securalized Religion</p></td>
    <td>
-    “… it commands… [a]… precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that… is almost a secularized religion.”<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup>
+    &ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup>
    </td>
   </tr>
   <tr>
-   <td>
-<h3><p style="text-align: right">
-State Ownership</p>
-</h3>
-
-
-   </td>
-   <td>
-    “… state ownership and central direction of all the means of production.”<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup>
-   </td>
+   <th><p style="text-align: right">State Ownership</p></th>
+   <td>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup></td>
   </tr>
   <tr>
-   <td>
-<h3><p style="text-align: right">
-Dictatorships<br>& Democracies</p>
-</h3>
-
-
-   </td>
-   <td>
-    This type of dictatorship is “… another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.”<sup id="fnref7"><a href="#fn7" rel="footnote">7</a></sup>
-   </td>
+   <th><p style="text-align: right">Dictatorships<br>& Democracies</p></td>
+   <td>This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="fnref7"><a href="#fn7" rel="footnote">7</a></sup></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
+   <td colspan="2" style="font-size:5px; "></td>
   </tr>
 </table>
-
-
- <p>As I read the essay, I got more and more excited as it dawned on my how the RADICAL model aligned to each of these points,</p>
-
+<p>As I read the essay, I got more and more excited as it dawned on my how the RADICAL model aligned to each of these points,</p>
 <table>
   <tr>
+   <th><p style="text-align: right">Huge<br>Power<br>Block</p></th>
    <td>
-<h3><p style="text-align: right">
-Huge<br>Power<br>Block</p>
-</h3>
-
-
-   </td>
-   <td>
-    Within each nation, businesses “hold sway over” all levels of governments, particularly about the way they get and spend their money. Around the world, multinationals “hold sway over” over many countries at once, “a huge power block.”
+    Within each nation, businesses &ldquo;hold sway over&rdquo; all levels of governments, particularly about the way they get and spend their money. Around the world, multinationals &ldquo;hold sway over&rdquo; over many countries at once, &ldquo;a huge power block.&rdquo;
    </td>
   </tr>
   <tr>
+   <th><p style="text-align: right">
+Historical Roots</p></th>
    <td>
-<h3><p style="text-align: right">
-Historical Roots</p>
-</h3>
-
-
-   </td>
-   <td>
-    <p>Although there is not a <em>Left</em> and <em>Right</em> ideology when it comes to businesses, there is a cultural ideology that supports them. Among others, Roy S Jacques writes that “<em>Beginning in the Western Europe of the fourteenth to sixteenth century one find a growth of a mode of consciousness… [that] has a ‘mechanical’ orientation to it, emphasizing instrumentality, emotionlessness, accumulation, skepticism, individual consciousness, standardization, and objectification. It is also from this mode of consciousness that the particular form of production and exchange currently dominant worldwide has emerged.</em>”</p>
-    <p>He continues to say that between the 17th and 19th century, “<em>Liberty no longer meant the freedom to perfect an enclosed city protected from the world. It was redirected as the freedom to conquer and order that outer world. Progress no longer meant movement toward a finite goal, but infinite expansion into a limitless universe</em>.” Conquering and infinite expansion is the ideology that sustains businesses to this day.</p>
+    <p>Although there is not a <em>Left</em> and <em>Right</em> ideology when it comes to businesses, there is a cultural ideology that supports them. Among others, Roy S Jacques writes that &ldquo;<em>Beginning in the Western Europe of the fourteenth to sixteenth century one find a growth of a mode of consciousness&hellip; [that] has a ‘mechanical’ orientation to it, emphasizing instrumentality, emotionlessness, accumulation, skepticism, individual consciousness, standardization, and objectification. It is also from this mode of consciousness that the particular form of production and exchange currently dominant worldwide has emerged.</em>&rdquo;</p>
+    <p>He continues to say that between the 17th and 19th century, &ldquo;<em>Liberty no longer meant the freedom to perfect an enclosed city protected from the world. It was redirected as the freedom to conquer and order that outer world. Progress no longer meant movement toward a finite goal, but infinite expansion into a limitless universe</em>.&rdquo; Conquering and infinite expansion is the ideology that sustains businesses to this day.</p>
    </td>
   </tr>
   <tr>
+   <th><p style="text-align: right">Securalized Religion</p></th>
    <td>
-<h3><p style="text-align: right">
-Securalized Religion</p>
-</h3>
-
-
-   </td>
-   <td>
-    <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. “Ownership” is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under “business/economics,” including and self-management, are simply tweaks of this religion, while “ownership” remains invisible.</p>
+    <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. &ldquo;Ownership&rdquo; is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under &ldquo;business/economics,&rdquo; including and self-management, are simply tweaks of this religion, while &ldquo;ownership&rdquo; remains invisible.</p>
     <p>The other foundation of this religion is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup>
    </td>
   </tr>
   <tr>
-   <td>
-<h3><p style="text-align: right">
-State Ownership</p>
-</h3>
-
-
-   </td>
-   <td>
-    Admittedly, State ownership is a worst case, but ownership by a few bosses is pretty bad, too.
-   </td>
+   <th><p style="text-align: right">State Ownership</p></th>
+   <td>Admittedly, State ownership is a worst case, but ownership by a few bosses is pretty bad, too.</td>
   </tr>
   <tr>
-   <td>
-<h3><p style="text-align: right">
-Dictatorships<br>& Democracies</p>
-</h3>
-
-
-   </td>
-   <td>
-    Both dictatorships and democracies are different shapes “… of the consumer and industrial society with all its concomitant social, intellectual, and psychological consequences.”<sup id="fnref9"><a href="#fn9" rel="footnote">9</a></sup> In And businesses are an integral part of this machine.
-   </td>
+   <th><p style="text-align: right">Dictatorships<br>& Democracies</p></th>
+   <td>Both dictatorships and democracies are different shapes &ldquo;&hellip; of the consumer and industrial society with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="fnref9"><a href="#fn9" rel="footnote">9</a></sup> In And businesses are an integral part of this machine.</td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
+   <td colspan="2" style="font-size:5px; "></td>
   </tr>
 </table>
+<p>Businesses fit of all the observations that Havel pointed out.</p>
 
-
- <p>Businesses fit of all the observations that Havel pointed out.</p>
-
-<!-- Footnotes themselves at the bottom. -->
-
-<h2>Notes</h2>
-<div class="footnotes">
-<hr>
-<ol><li id="fn1">
-<h6>    	<a href="#bookmark=id.weq1cf16garh">n</a> By Andy Kopsa. <a href="https://time.com/5730106/velvet-revolution-history/">Czechoslovakia’s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</a>. November 16, 2019. <https://time.com/5730106/velvet-revolution-history/></h6>
-
-&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a><li id="fn2">
-<h6>    <sup>	<a href="#bookmark=id.13pbxpv2t0wr">n</a> Label</sup>s like <em>Left</em> or <em>Right</em> don’t matter, d<sup>ictatorships </sup>are the same, and they know it. For example, Cuba’sCastro and Argentina’s Perón had a close relationship and supported each other, even though the former claimed to be “Left” and the latter “Right.”</h6>
-
-&nbsp;<a href="#fnref2" rev="footnote">&#8617;</a><li id="fn3">
-<h6>    	<a href="#bookmark=id.ef746c2lhqkp">n</a> Vaclav Havel.  <a href="https://a.co/drH4npY">The Power of the Powerless</a> <https://a.co/8WPhu0s></h6>
-
-&nbsp;<a href="#fnref3" rev="footnote">&#8617;</a><li id="fn4">
-<h6>    	<a href="#bookmark=kix.9dik3385pycq">n</a> Vaclav Havel.  <a href="https://a.co/0lq6pO8">The Power of the Powerless</a> <https://a.co/0lq6pO8></h6>
-
-&nbsp;<a href="#fnref4" rev="footnote">&#8617;</a><li id="fn5">
-<h6>    	<a href="#bookmark=kix.o0406f71oqb1">n</a> Vaclav Havel.  <a href="https://a.co/eaqbk">The Power of the Powerless</a> <https://a.co/eaqbk></h6>
-
-&nbsp;<a href="#fnref5" rev="footnote">&#8617;</a><li id="fn6">
-<h6>    	<a href="#bookmark=kix.rhpt8jzf8niq">n</a> Vaclav Havel.  <a href="https://a.co/6sKvSlv">The Power of the Powerless</a> <https://a.co/6sKvSlv></h6>
-
-&nbsp;<a href="#fnref6" rev="footnote">&#8617;</a><li id="fn7">
-<h6>    	<a href="#bookmark=kix.m0vhrsulu25w">n</a> Vaclav Havel.  <a href="https://a.co/enNA5rq">The Power of the Powerless</a> <https://a.co/enNA5rq></h6>
-
-&nbsp;<a href="#fnref7" rev="footnote">&#8617;</a><li id="fn8">
-<h6>     	<a href="#bookmark=id.b7tz0rv229z9">n</a> David Graeber. 2014. <em><a href="https://radicals.world/MUUUcg">Debt: 5,00 Year History</a></em> <https://radicals.world/MUUUcg></h6>
-
-&nbsp;<a href="#fnref8" rev="footnote">&#8617;</a><li id="fn9">
-<h6>    <sup>	<a href="#bookmark=id.jclxr05i74ft">n</a> Vaclav Havel. <a href="https://a.co/bPEY1mO">The Power of the Powerless</a>. <https://a.co/bPEY1mO></sup></h6>
-
-&nbsp;<a href="#fnref9" rev="footnote">&#8617;</a>
-
-</ol></div>
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol>
-  <li id="en01">David Graeber. 2014. <em><a href="https://radicals.world/MUUUcg">Debt: 5,00 Year History</a></em> <<a href="https://radicals.world/MUUUcg">>
-  <a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a></li>
+  <li id="fn1">Andy Kopsa.
+   <em>Czechoslovakia’s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</em>. November 16, 2019.
+   <<a href="https://time.com/5730106/velvet-revolution-history/"><https://time.com/5730106/velvet-revolution-history/></a>>
+   <a href="#bm01" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+  </li>
+  <li id="fn2">
+   Labels like <em>Left</em> or <em>Right</em> don’t matter, dictatorships are the same, and they know it. For example, Cuba’sCastro and Argentina’s Perón had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo;</a>
+   <a href="#bm02" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+
+  <li id="fn3">
+   Vaclav Havel.
+   <em>The Power of the Powerless</em>
+   <<a href="https://a.co/drH4npY"><https://a.co/8WPhu0s></a>>
+   <a href="#bm03" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+  </li>
+
+  <li id="fn4">
+   Vaclav Havel.
+   <em>The Power of the Powerless</em>
+   <<a href="https://a.co/0lq6pO8"><https://a.co/0lq6pO8></a>>
+   <a href="#bm04" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+  </li>
+
+  <li id="fn5">
+  Vaclav Havel.
+   <em>The Power of the Powerless</em>
+   <<a href="https://a.co/eaqbk"><https://a.co/eaqbk></a>>
+   <a href="#bm05" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+  </li>
+
+  <li id="fn6">
+   Vaclav Havel.
+   </em>The Power of the Powerless</em>
+   <<a href="https://a.co/6sKvSlv">https://a.co/6sKvSlv</a>>
+   <a href="#bm06" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+  </li>
+
+  <li id="fn7">
+   Vaclav Havel.
+   <em>The Power of the Powerless</em>
+   <<a href="https://a.co/enNA5rq">https://a.co/enNA5rq</a>>
+   <a href="#bm07" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a>
+  </li>
+
+  <li id="fn8">
+   David Graeber. 2014.
+   <em>Debt: 5,00 Year History</em>
+   <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg</a>>
+   <a href="#bm08" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+  </li>
+
+  <li id="fn9">
+   Vaclav Havel.
+   <em>The Power of the Powerless</em>
+   <<a href="https://a.co/bPEY1mO"><https://a.co/bPEY1mO></a>>.
+   <a href="#bm09" style="height:20px; "><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+  </li>
+ </ol>
+
+<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
+ <li id="en01">David Graeber. 2014. <em><a href="https://radicals.world/MUUUcg">Debt: 5,00 Year History</a></em> <<a href="https://radicals.world/MUUUcg">>  <a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px;"></a></li>
 </ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
