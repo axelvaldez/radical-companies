@@ -76,20 +76,22 @@ image:    "the-power-of-the-powerless-icon.svg"
  <tr>
   <th>Ideology as<br>Securalized<br>Religion</th>
   <td>
-   <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. &ldquo;Ownership&rdquo; is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under &ldquo;business/economics,&rdquo; including and self-management, are simply tweaks of this religion, while &ldquo;ownership&rdquo; remains invisible.</p>
-   <p>The other foundation of this religion is money. David Graeber, author of Debt: The First 5,000 Years, makes a very convincing case that it is all based on debt and, particularly, the quantification of debt into fungible money.<sup id="bm08"><a href="#en08">8&nbsp;</a></sup></p>
+   <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. &ldquo;Ownership&rdquo; is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under &ldquo;business/economics,&rdquo; including books on self-management, are simply tweaks of this religion, but they are blind to the issue of &ldquo;ownership&rdquo;.</p>
+   <p>In other words, the business ideaology, then, is the unquestioned acceptance of ownership as is.</p>
   </td>
  </tr>
  <tr>
   <th>State<br>Ownership</th>
   <td>
    <p>Admittedly, State ownership is a worst case, but ownership by a few bosses is pretty bad, too</p>
+   <p>In other words, ownership as is the invisible culprit and we need to see it for what it is and all its implications.</p>
   </td>
  </tr>
  <tr>
   <th style="width:1.5in; ">Dictatorships<br>& Democracies</th>
   <td>
-   <p>Admittedly, democracies are better for people than dictatorship, but they both are different shapes &ldquo;&hellip; of the consumer and industrial society.&rdquo;<sup id="bm09"><a href="#en09">9</a></sup> If we can agree that super-centralized ownership doesn't work mearly as well as more decentralized ownership (<em>i.e.</em> <span style="font-size:smaller;">FIAT</span> businesses), then it makes most sense to move towards an <em>even more</em> decentralized ownership (<em>i.e.</em> co-owned companies)</p>
+   <p>Admittedly, democracies are better for people than dictatorships. Still, they both are different shapes &ldquo;&hellip; of the consumer and industrial society.&rdquo;<sup id="bm09"><a href="#en09">9</a></sup></p>
+   <p>In other words, if we can agree that extremely centralized ownership (<em>i.e.</em> Soviet-style dictatorships) doesn't work as well as more decentralized ownership, then we must move towards an <em>even more</em> decentralized ownership model (<em>i.e.</em> co-owned companies)</p>
   </td>
  </tr>
  <tr>
