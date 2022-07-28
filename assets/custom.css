@@ -242,7 +242,7 @@ a._uparrow {
 }
 a._uparrow img {
   width:20px;
-  width:10px;
+  width:10px !important;
 }
 table {
   vertical-align:top;
