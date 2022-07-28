@@ -233,11 +233,11 @@ h1._section {
 div h1 {
   font-size:larger;
 }
-li {
-  font-size:smaller;
-}
 h2 {
   font-size:30px;
+}
+li {
+  font-size:smaller;
 }
 a._uparrow img {
   height:20px;
