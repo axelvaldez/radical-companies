@@ -23,6 +23,7 @@ image:    "the-power-of-the-powerless-icon.svg"
 <columns>
  <col style="text-align:right; font-size:smaller; margin-right:1em; ">
  <col style="text-align:left;  font-size:smaller; margin-left:1em; ">
+</columns>
   <tr>
    <th><p style="text-align:right; font-size:smaller; ">Huge<br>Power<br>Block</p></th>
    <td>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, he says, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="en04"><a href="#en04">4&nbsp;</a></sup></td>
