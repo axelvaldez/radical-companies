@@ -18,35 +18,35 @@ image:    "the-power-of-the-powerless-icon.svg"
  <p>In the essay, the most powerful point he makes is that what keeps together these communists dictatorships is the tacit participation of the very people that they oppress.<sup id="bm02"><a href="#en02">2&nbsp;</a></sup> <span style="font-size:smaller; ">FIAT</span> businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate.</p>
  <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called &ldquo;the means of production,&rdquo; that is everything that can generate wealth. He also pointed out that Soviet-style dictatorships and Western democracies were different forms of the consumer-industrial society,</p>
 <table>
- <tr style="vertical-align:text-top; font-size:smaller; ">
-  <th style="text-align:right; padding-right:1em; ">Huge<br>Power<br>Block</th>
-  <td style="text-align:left;  padding-left:1em; ">
+ <tr>
+  <th>Huge<br>Power<br>Block</th>
+  <td>
    <p>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, Havel writes, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="bm03"><a href="#en03">3&nbsp;</a></sup></p>
    <br>
   </td>
  </tr>
- <tr style="vertical-align:text-top; font-size:smaller; ">
-  <th style="text-align:right; padding-right:1em; ">Historical<br>Roots</th>
-  <td style="text-align:left;  padding-left:1em; ">
+ <tr>
+  <th>Historical<br>Roots</th>
+  <td>
    <p>he system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="bm04"><a href="#en04">4&nbsp;</a></sup></p>
   </td>
  </tr>
- <tr style="vertical-align:text-top; font-size:smaller; ">
-  <th style="text-align:right; padding-right:1em; ">Securalized<br>Religion</th>
-  <td style="text-align:left;  padding-left:1em; ">
+ <tr>
+  <th>Securalized<br>Religion</th>
+  <td>
    <p>&ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="bm05"><a href="#en05">5&nbsp;</a></sup></p>
   </td>
   </tr>
- <tr style="vertical-align:text-top; font-size:smaller; ">
-  <th style="text-align:right; padding-right:1em; ">State<br>Ownership</th>
-  <td style="text-align:left;  padding-left:1em; ">
+ <tr>
+  <th>State<br>Ownership</th>
+  <td>
    <p>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="bm06"><a href="#en06">6&nbsp;</a></sup></p>
    <br>
   </td>
   </tr>
- <tr style="vertical-align:text-top; font-size:smaller; ">
-  <th style="text-align:right; padding-right:1em; width:1.5in; ">Dictatorships<br>& Democracies</th>
-  <td style="text-align:left;  padding-left:1em; ">
+ <tr>
+  <th style="width:1.5in; ">Dictatorships<br>& Democracies</th>
+  <td>
    <p>This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="bm07"><a href="#en07">7&nbsp;</a></sup></p>
   </td>
  </tr>
@@ -87,7 +87,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </td>
  </tr>
  <tr>
-  <th>Dictatorships<br>& Democracies</th>
+  <th style="width:1.5in; ">Dictatorships<br>& Democracies</th>
   <td>
    <p>Both dictatorships and democracies are different shapes &ldquo;&hellip; of the consumer and industrial society with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="bm09"><a href="#en09">9</a></sup> In And businesses are an integral part of this machine.</p>
   </td>
