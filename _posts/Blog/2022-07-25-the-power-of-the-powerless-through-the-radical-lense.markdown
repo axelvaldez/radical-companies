@@ -32,7 +32,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </td>
  </tr>
  <tr>
-  <th>Securalized<br>Religion</th>
+  <th>Ideology as<br>Securalized<br>Religion</th>
   <td>
    <p>&ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="bm05"><a href="#en05">5&nbsp;</a></sup></p>
   </td>
