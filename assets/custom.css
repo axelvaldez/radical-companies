@@ -255,9 +255,9 @@ td._spacer {
   column-span: all;
   font-size:x-small;
 }}
-[span~=FIAT], [span~=RADICAL] {
+[span~='FIAT'], [span~=RADICAL] {
   font-size:smaller;
 }
-[a~=https:]::after {
+[a~='https:']::after {
     content:target='_blank';
 }
