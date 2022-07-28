@@ -221,7 +221,9 @@ footer{
 
 /* Matt's */
 h1 {
+/*
   font-size:40px;
+*/
 }
 h1._section {
   font-size:50px;
@@ -230,7 +232,7 @@ h1._section {
   margin:100px 0 20px 0;
   color:gray;
 }
-div.(col-lg-8, text-center, text-lg-start) h1 {
+div.col-lg-8 > h1 {
   font-size:larger;
 }
 h2 {
