@@ -93,7 +93,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <td colspan="2" style="font-size:xx-small; "></td>
  </tr>
 </table>
-<p>Businesses fit every one of theses observations.</p>
+<p>Businesses fit <em>every one</em> of theses observations.</p>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
  <ol>
