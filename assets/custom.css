@@ -88,11 +88,15 @@ nav a:hover svg{
 
 body{
   font-family: "Lora", sans-serif;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+  font-size:40px;
+  font-family:Courier New, monospace;
 }
 
 h1, h2, h3, h4, h5, h6{
-  font-family: "Roboto", serif;
+    font-family: "Roboto", serif;
 }
 
 h1{
