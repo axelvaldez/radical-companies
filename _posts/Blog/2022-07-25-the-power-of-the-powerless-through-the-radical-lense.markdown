@@ -115,7 +115,7 @@ image:    "the-power-of-the-powerless-icon.svg"
  <tr>
   <th>Ideology as<br>Securalized<br>Religion</th>
   <td>
-   <p>.</p>
+   <p></p>
   </td>
  </tr>
  <tr>
@@ -127,7 +127,8 @@ image:    "the-power-of-the-powerless-icon.svg"
  <tr>
   <th style="width:1.5in; ">Dictatorships<br>& Democracies</th>
   <td>
-   <p></p>
+   <p>Human commerce fuels dictatorships and democracies. In dictatorship case the wealth that it creates goes to the State and then trickels down to the people in the form of infrastructure (<em>e.g.</em>, roads and bridges) and institutions (<em>e.g.</em>, public schools, the police).</p>
+   <p>Not surprinsingly, this infrastructure and these institutions also benefit businesses and the military, big time. Roads and bridges make it easier for people to go to work at businesses and the same roads and bridges make it easier to move the tanks when we need the muscle.</p>
   </td>
  </tr>
  <tr>
