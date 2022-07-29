@@ -199,7 +199,7 @@ image:    "the-power-of-the-powerless-icon.svg"
    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
   <li id="en12">
-   Chinese-style dictatorship seem to be a mix of decentralized owernship of business and centralized political power, but that is just a mirage. As Xi Jiaoping has shown, the so-called-private companies can be brought to kneel at any time, &ldquo;if you want to keep your money and your life, follow our orders.&rdquo;
+   In China, the <em>People&rsquo;s Republic</em> dictatorship seems to be a mix of decentralized owernship of business and centralized political power, but that is just a mirage for those of us outside of China. As Xi Jinping has shown, the so-called-private companies can be brought to kneel by the polical power, and their military, at any time, &ldquo;follow our orders, or else.&rdquo; 
    <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
  </ol>
