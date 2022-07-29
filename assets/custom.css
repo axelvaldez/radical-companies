@@ -254,7 +254,7 @@ td {
 td._spacer {
   column-span: all;
   font-size:x-small;
-}}
+}
 [span~=RADICAL] {
   font-size:smaller;
   color:red;
