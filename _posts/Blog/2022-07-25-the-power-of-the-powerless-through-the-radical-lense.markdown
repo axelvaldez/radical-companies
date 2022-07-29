@@ -98,7 +98,42 @@ image:    "the-power-of-the-powerless-icon.svg"
   <td class="_spacer">&nbsp;</td>
  </tr>
 </table>
-<p>Businesses fit <em>every one</em> of theses observations. Over time, and not due to a conspiracy or any such, they&rsquo;ve come to make up a huge block. We simply have to see them for what they are today and stop &ldquo;going along.&rdquo; We need to experiement with other models of working together that benefit everyone according to their contributions. The <span>RADICAL COMPANIES</span><sup id="bm10"><a href="#en10">10</a></sup> book offers a viable alternative.</p>
+<p>Businesses fit <em>every one</em> of theses observations. First, we have to stop &ldquo;going along&rdquo; with a system that&rsquo;s holding us back.</p>
+<table>
+ <tr>
+  <th>Huge<br>Power<br>Block</th>
+  <td>
+   <p>Over time, and not due to a conspiracy or any such, businesses have come to make up a huge international block. We have to get over ourselves and wind down our support for them.We need to experiment with other models. The <span>RADICAL COMPANIES</span><sup id="bm10"><a href="#en10">10</a></sup> book offers a viable alternative.</p>
+  </td>
+ </tr>
+ <tr>
+  <th>Historical<br>Roots</th>
+  <td>
+    <p>Little by little, that&rsquo;s how history is made and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat.</p>
+  </td>
+ </tr>
+ <tr>
+  <th>Ideology as<br>Securalized<br>Religion</th>
+  <td>
+   <p>.</p>
+  </td>
+ </tr>
+ <tr>
+  <th>State<br>Ownership</th>
+  <td>
+   <p></p>
+  </td>
+ </tr>
+ <tr>
+  <th style="width:1.5in; ">Dictatorships<br>& Democracies</th>
+  <td>
+   <p></p>
+  </td>
+ </tr>
+ <tr>
+  <td class="_spacer">&nbsp;</td>
+ </tr>
+</table>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
