@@ -19,7 +19,7 @@ image:    "the-power-of-the-powerless-icon.svg"
  <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called &ldquo;the means of production,&rdquo; that is everything that can generate wealth. He also pointed out that Soviet-style dictatorships and Western democracies were different forms of the consumer-industrial society,</p>
 <table>
  <tr>
-  <th>Huge<br>Power<br>Block</th>
+  <th></p>Huge<br>Power<br>Block</p></th>
   <td>
    <p>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, Havel writes, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="bm03"><a href="#en03">3&nbsp;</a></sup></p>
    <br>
@@ -45,7 +45,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </td>
   </tr>
  <tr>
-  <th style="width:1.5in; ">Dictatorships<br>& Democracies</th>
+  <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
   <td>
    <p>This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="bm07"><a href="#en07">7&nbsp;</a></sup></p>
   </td>
@@ -88,7 +88,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </td>
  </tr>
  <tr>
-  <th style="width:1.5in; ">Dictatorships<br>& Democracies</th>
+  <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
   <td>
    <p>Admittedly, democracies are better for people than dictatorships. Still, they both are different shapes &ldquo;&hellip; of the consumer and industrial society.&rdquo;<sup id="bm09"><a href="#en09">9</a></sup></p>
    <p>In other words, if we can agree that extremely centralized ownership (<em>i.e.</em> Soviet-style dictatorships) doesn't work as well as more decentralized ownership, then we must move towards an <em>even more</em> decentralized ownership model (<em>i.e.</em> co-owned companies)</p>
@@ -125,7 +125,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </td>
  </tr>
  <tr>
-  <th style="width:1.5in; ">Dictatorships<br>& Democracies</th>
+  <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
   <td>
    <p>Human commerce fuels dictatorships and democracies. In dictatorship case the wealth that it creates goes to the State and then trickels down to the people in the form of infrastructure (<em>e.g.</em>, roads and bridges) and institutions (<em>e.g.</em>, public schools, the police).</p>
    <p>Not surprinsingly, this infrastructure and these institutions also benefit businesses and the military, big time. Roads and bridges make it easier for people to go to work at businesses and the same roads and bridges make it easier to move the tanks when we need the muscle.</p>
