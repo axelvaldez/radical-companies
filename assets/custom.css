@@ -240,7 +240,7 @@ a._uparrow img {
   height:20px;
 }
 tr {
-  vertical-align:text-top;
+  vertical-align:top;
   font-size:smaller;
 }
 th {
