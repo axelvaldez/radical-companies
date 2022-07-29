@@ -105,9 +105,7 @@ image:    "the-power-of-the-powerless-icon.svg"
  </tr>
  <tr>
   <th><p>Historical<br>Roots</p></th>
-  <td>
-    <p>Little by little, that&rsquo;s how history is made and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat.</p>
-  </td>
+  <td><p>History is made little by little and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat. According to David Graeber, author of sum <a href="https://radicals.world/MUUUcg"><em>Debt: the First 5,000 Years</em></a>,<a id="bm11" href="#en11"><sup>11</sup></a> the fuel for this has been quantified debt which gave birth to anonymous, fungible monney, which made possible to extract wealth of the other people&rsquo;s efforts.</p></td>
  </tr>
  <tr>
   <th><p>Ideology as<br>Securalized<br>Religion</p></th>
@@ -125,7 +123,8 @@ image:    "the-power-of-the-powerless-icon.svg"
   <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
   <td>
    <p>Human commerce fuels dictatorships and democracies. In dictatorship case the wealth that it creates goes to the State and then trickels down to the people in the form of infrastructure (<em>e.g.</em>, roads and bridges) and institutions (<em>e.g.</em>, public schools, the police).</p>
-   <p>Not surprinsingly, this infrastructure and these institutions also benefit businesses and the military, big time. Roads and bridges make it easier for people to go to work at businesses and the same roads and bridges make it easier to move the tanks when we need the muscle.</p>
+   <p>Not surprinsingly, this infrastructure and these institutions benefit  businesses and the military <em>primarily</em>. Roads and bridges make it possible for people to get to work at businesses and the same roads and bridges make it easier to move the tanks where we need the muscle.</p>
+   <p>Most of us tend to interpret this as, &rdquo;<em>thank goodness, because if it weren't for businesses and the military would not have nice things like bridges, roads, and schools.</em>&rdquo; That is our mental model, but this mindset is literally killing us. Centralization is not good for humanity and centralized power stands in our way of thriving For one, centralizaion is hostile to innovation, and creativity, and commerce. What innovation happens, for example, in pharmaceuticals is accidental. The proof is all around it: decentralized ownership (<em>i.e.</em> democracies) is better than uber centralized ownership (<em>i.e.</em>, the State in Soviet-style dictatorship)<a id="bm12" href="#en12"><sup>12</sup></a>.</p>
   </td>
  </tr>
  <tr>
@@ -192,6 +191,16 @@ image:    "the-power-of-the-powerless-icon.svg"
    <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
    <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>.
    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
+  </li>
+  <li id="en11">
+   David Graeber. 2014.
+   <em>Debt: The First 5000 Years</em>.
+   <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg</a>>.
+   <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
+  </li>
+  <li id="en12">
+   Chinese-style dictatorship seem to be a mix of decentralized owernship of business and centralized political power, but that is just a mirage. As Xi Jiaoping has shown, the so-called-private companies can be brought to kneel at any time, &ldquo;if you want to keep your money and your life, follow our orders.&rdquo;
+   <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
  </ol>
 
