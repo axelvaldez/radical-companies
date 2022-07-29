@@ -19,20 +19,19 @@ image:    "the-power-of-the-powerless-icon.svg"
  <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called &ldquo;the means of production,&rdquo; that is everything that can generate wealth. He also pointed out that Soviet-style dictatorships and Western democracies were different forms of the consumer-industrial society,</p>
 <table>
  <tr>
-  <th></p>Huge<br>Power<br>Block</p></th>
+  <th><p>Huge<br>Power<br>Block</p></th>
   <td>
    <p>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, Havel writes, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="bm03"><a href="#en03">3&nbsp;</a></sup></p>
-   <br>
   </td>
  </tr>
  <tr>
-  <th>Historical<br>Roots</th>
+  <th><p>Historical<br>Roots</p></th>
   <td>
    <p>he system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="bm04"><a href="#en04">4&nbsp;</a></sup></p>
   </td>
  </tr>
  <tr>
-  <th>Ideology as<br>Securalized<br>Religion</th>
+  <th><p>Ideology as<br>Securalized<br>Religion</p></th>
   <td>
    <p>&ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="bm05"><a href="#en05">5&nbsp;</a></sup></p>
   </td>
@@ -41,8 +40,6 @@ image:    "the-power-of-the-powerless-icon.svg"
   <th>State<br>Ownership</th>
   <td>
    <p>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="bm06"><a href="#en06">6&nbsp;</a></sup></p>
-   <br>
-  </td>
   </tr>
  <tr>
   <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
@@ -59,7 +56,7 @@ image:    "the-power-of-the-powerless-icon.svg"
 <p>As I read the essay, I got more and more excited as I realized how well the <span>RADICAL</span> model aligned to each of these points,</p>
 <table>
  <tr>
-  <th>Huge<br>Power<br>Block</th>
+  <th><p>Huge<br>Power<br>Block</p></th>
   <td>
    <p>Within each nation, businesses &ldquo;hold sway over&rdquo; all levels of governments, particularly about the way they get and spend their money. Around the world, multinationals &ldquo;hold sway over&rdquo; over many countries at once, &ldquo;a huge power block.&rdquo;</p>
    <p>In other words, businesses, no matter their size, are part of a <em>huge power block</em>.</p>
@@ -74,14 +71,14 @@ image:    "the-power-of-the-powerless-icon.svg"
   </td>
  </tr>
  <tr>
-  <th>Ideology as<br>Securalized<br>Religion</th>
+  <th><p>Ideology as<br>Securalized<br>Religion</p></th>
   <td>
    <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. &ldquo;Ownership&rdquo; is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under &ldquo;business/economics,&rdquo; including books on self-management, are simply tweaks of this religion, but they are blind to the issue of &ldquo;ownership&rdquo;.</p>
    <p>In other words, the business ideaology, then, is the unquestioned acceptance of ownership as is.</p>
   </td>
  </tr>
  <tr>
-  <th>State<br>Ownership</th>
+  <th><p>State<br>Ownership</p></th>
   <td>
    <p>Admittedly, State ownership is a worst case, but ownership by a few bosses is pretty bad, too</p>
    <p>In other words, ownership as is the invisible culprit and we need to see it for what it is and all its implications.</p>
@@ -101,25 +98,25 @@ image:    "the-power-of-the-powerless-icon.svg"
 <p>Businesses fit <em>every one</em> of theses observations. First, we have to stop &ldquo;going along&rdquo; with a system that&rsquo;s holding us back.</p>
 <table>
  <tr>
-  <th>Huge<br>Power<br>Block</th>
+  <th><p>Huge<br>Power<br>Block</p></th>
   <td>
    <p>Over time, and not due to a conspiracy or any such, businesses have come to make up a huge international block. We have to get over ourselves and wind down our support for them.We need to experiment with other models. The <span>RADICAL COMPANIES</span><sup id="bm10"><a href="#en10">10</a></sup> book offers a viable alternative.</p>
   </td>
  </tr>
  <tr>
-  <th>Historical<br>Roots</th>
+  <th><p>Historical<br>Roots</p></th>
   <td>
     <p>Little by little, that&rsquo;s how history is made and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat.</p>
   </td>
  </tr>
  <tr>
-  <th>Ideology as<br>Securalized<br>Religion</th>
+  <th><p>Ideology as<br>Securalized<br>Religion</p></th>
   <td>
    <p></p>
   </td>
  </tr>
  <tr>
-  <th>State<br>Ownership</th>
+  <th><p>State<br>Ownership</p></th>
   <td>
    <p></p>
   </td>
