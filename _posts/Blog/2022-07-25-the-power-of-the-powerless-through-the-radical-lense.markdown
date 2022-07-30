@@ -110,9 +110,7 @@ image:    "the-power-of-the-powerless-icon.svg"
  <tr>
   <th><p>Ideology as<br>Securalized<br>Religion</p></th>
   <td>
-   <p>In the Soviet-style dictatorships, their ideology was based on Marx prescriptions. &ldquo;<em>Workers of the world, unite!</em>&rdquo; Western democracy&rsquo;s ideology ends up being, &ldquo;<em>Work hard and you too can become wealthy</em>.&rdquo; In Chinese-style dictatorships, their &ldquo;ideology&rdquo; seems to be something like, &ldquo;<em>Work hard, become wealthy, and we'll leave you alone until you threaten our political power or we'll dissappear you. If you are wealthy, get back to work.</em>&rdquo;
-   
-   &ldquo;<em>Workers of the world, unite!</em>&rdquo; Western democracy&rsquo;s ideology ends up being, &ldquo;<em>Work hard and you too can become wealthy</em>.&rdquo;</p>
+   <p>In the Soviet-style dictatorships, their ideology was based, in theory, onMarx prescriptions, poor as they were. &ldquo;<em>Workers of the world, unite!</em>&rdquo; Western democracyies&rsquo; ideology ends up being something like, &ldquo;<em>Work hard and you too can become wealthy. Otherwise, good luck!</em>.&rdquo;<a id="bm12" href="#en12"><sup>12</sup></a>
   </td>
  </tr>
  <tr>
@@ -126,10 +124,10 @@ image:    "the-power-of-the-powerless-icon.svg"
   <td>
    <p>People&rsquo;s effort and commerce fuels dictatorships <em>and</em> democracies alike. This is not to say that they are alike: by far, democracy is preferable that dictatorships (<em>i.e.</em>, I've live under both systems). But the fact still remains that they are both fueled by people&rsquo;s effort and commerce.</p>
    <p>Through the efforts and commerce, people create wealth. In dictatorships, a lot of it goes to the State; in democracies, much of it goes to businesses and then the State. Most people keep enough to make a living, through many not even than, and a bit more trickles down from the State in the form of infrastructure (<em>e.g.</em>, roads and bridges) and institutions (<em>e.g.</em>, public schools); for all intents and purposes, no public goods emanate from businesses (<em>i.e.</em>, not even from B Corps). In other words, this wealth creates some public goods, but the overwheling portian of it ends up in private hands.</p>
-   <p>In the case of dictatorships, the top lives very well. In democracies, much of this wealth ends up in the hands of a few business owners who also live very well. In dictatorships and democracies, the rest is passed to the State where a lot of it ends up in the <em>industrial-military complex</em>.<a id="bm12" href="#en12"><sup>12</sup></a></p>
+   <p>In the case of dictatorships, the top lives very well. In democracies, much of this wealth ends up in the hands of a few business owners who also live very well. In dictatorships and democracies, the rest is passed to the State where a lot of it ends up in the <em>industrial-military complex</em>.<a id="bm13" href="#en13"><sup>13</sup></a></p>
    <p>Even the public goods benefit businesses and the government&rsquo;s interests <em>primarily</em>. Roads and bridges make it possible for people to get to work to create wealth for others; the same roads and bridges make it easier to move military muscle.</p>
    <p>Most of us tend to interpret this as, &rdquo;<em>thank goodness, because if it weren't for the State/businesses/military would not have nice things like bridges, roads, and schools.</em>&rdquo; Sadly, this mindset stops from doing anything about it while it literally burns our life boat. It is going to be difficult to understand, to really get, but centralization is not good for us. Centralized ownership is hostile to innovation, and creativity, and even hostile to commerce. What innovation there is, (<em>e,g,</em>, pharmaceuticals) is accidental and it overwhelmingly ends up as private goods.</p>
-   <p>If you believe, like I do, that decentralized ownership (<em>i.e.</em> democracy) is better than centralized State control (dictatorships)<a id="bm13" href="#en13"><sup>13</sup></a>, then it follows that you annd I should insist on <em>moving towards decentralization</em>. But, that requires a change in mindset that goes against everything we &ldquo;know,&rdquo; right?</p>
+   <p>If you believe, like I do, that decentralized ownership (<em>i.e.</em> democracy) is better than centralized State control (dictatorships)<a id="bm14" href="#en14"><sup>14</sup></a>, then it follows that you annd I should insist on <em>moving towards decentralization</em>. But, that requires a change in mindset that goes against everything we &ldquo;know,&rdquo; right?</p>
   </td>
  </tr>
  <tr>
@@ -203,14 +201,19 @@ image:    "the-power-of-the-powerless-icon.svg"
    <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg</a>>.
    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
+  <li>
   <li id="en12">
-   Then President Eisenhower warned us about it in 1960 Farewell Address.
+  As a side note, Chinese-style dictatorships&rsquo;s &ldquo;ideology&rdquo; seems to be something like, &ldquo;<em>Work hard, become wealthy, and we'll leave you alone until you threaten our political power (and then we'll dissappear you). If you are <em>not</em> wealthy, get back to creating wealth for us (<em>i.e.</em>, work).</em>&rdquo;
    <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
   <li id="en13">
+   Then President Eisenhower warned us about it in his 1960 Farewell Address.
+   <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a>
+  </li>
+  <li id="en14">
    In China, the <em>People&rsquo;s Republic</em> dictatorship seems to be a mix of decentralized owernship of business and centralized political power, but that is just a mirage for those of us outside of China. As Xi Jinping has shown, the so-called-private companies can be brought to kneel by the polical power, and their military, at any time, &ldquo;follow our orders, or else.&rdquo;
    <<a href="https://radicals.world/f3Nboy">https://radicals.world/f3Nboy</a>>.
-   <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a>
+   <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
  </ol>
 
