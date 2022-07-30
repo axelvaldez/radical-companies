@@ -105,7 +105,7 @@ image:    "the-power-of-the-powerless-icon.svg"
  </tr>
  <tr>
   <th><p>Historical<br>Roots</p></th>
-  <td><p>History is made little by little and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat. According to David Graeber, author of sum <a href="https://radicals.world/MUUUcg"><em>Debt: the First 5,000 Years</em></a>,<a id="bm11" href="#en11"><sup>11</sup></a> the fuel for this has been quantified debt which gave birth to anonymous, fungible monney, which made possible to extract wealth of the other people&rsquo;s efforts.</p></td>
+  <td><p>History is made little by little and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat. According to David Graeber, author of sum <em>Debt: the First 5,000 Years</em>,<a id="bm11" href="#en11"><sup>11</sup></a> the fuel for this has been quantified debt which gave birth to anonymous, fungible monney, which made possible to extract wealth of the other people&rsquo;s efforts.</p></td>
  </tr>
  <tr>
   <th><p>Ideology as<br>Securalized<br>Religion</p></th>
