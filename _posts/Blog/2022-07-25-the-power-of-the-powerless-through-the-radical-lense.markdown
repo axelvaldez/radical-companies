@@ -110,7 +110,9 @@ image:    "the-power-of-the-powerless-icon.svg"
  <tr>
   <th><p>Ideology as<br>Securalized<br>Religion</p></th>
   <td>
-   <p>In the old Soviet-style dictatorships, their ideology was based on Marx prescriptions. &ldquo;<em>Workers of the world, unite!</em>&rdquo; Western democracy&rsquo;s ideology ends up being, &ldquo;<em>Work hard and you too can become wealthy</em>.&rdquo;</p>
+   <p>In the Soviet-style dictatorships, their ideology was based on Marx prescriptions. &ldquo;<em>Workers of the world, unite!</em>&rdquo; Western democracy&rsquo;s ideology ends up being, &ldquo;<em>Work hard and you too can become wealthy</em>.&rdquo; In Chinese-style dictatorships, their &ldquo;ideology&rdquo; seems to be something like, &ldquo;<em>Work hard, become wealthy, and we'll leave you alone until you threaten our political power or we'll dissappear you. If you are wealthy, get back to work.</em>&rdquo;
+   
+   &ldquo;<em>Workers of the world, unite!</em>&rdquo; Western democracy&rsquo;s ideology ends up being, &ldquo;<em>Work hard and you too can become wealthy</em>.&rdquo;</p>
   </td>
  </tr>
  <tr>
