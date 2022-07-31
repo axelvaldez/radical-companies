@@ -15,42 +15,43 @@ image:    "the-power-of-the-powerless-icon.svg"
 
 <h1>The Power of Dictatorships</h1>
  <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<sup id="bm01"><a href="#en01">1&nbsp;</a></sup></p>
- <p>In the essay, the most powerful point he makes is that what keeps together dictatorships is the acceptance of the very people that they oppress.<sup id="bm02"><a href="#en02">2&nbsp;</a></sup> <span>FIAT</span> businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate.</p>
+ <p>In the essay, the most powerful point he makes is that what keeps together dictatorships is the acceptance of the very people that they oppress.<sup id="bm02"><a href="#en02">2&nbsp;</a></sup> <span style="font-size:smaller; ">FIAT</span> businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate.</p>
  <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called &ldquo;the means of production,&rdquo; that is everything that can generate wealth. He also pointed out that Soviet-style dictatorships and Western democracies were different forms of the consumer-industrial society,</p>
-<table>
- <tr>
-  <th><p>Huge<br>Power<br>Block</p></th>
-  <td>
-   <p>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, Havel writes, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="bm03"><a href="#en03">3&nbsp;</a></sup></p>
-  </td>
- </tr>
- <tr>
-  <th><p>Historical<br>Roots</p></th>
-  <td>
-   <p>he system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="bm04"><a href="#en04">4&nbsp;</a></sup></p>
-  </td>
- </tr>
- <tr>
-  <th><p>Ideology as<br>Securalized<br>Religion</p></th>
-  <td>
-   <p>&ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="bm05"><a href="#en05">5&nbsp;</a></sup></p>
-  </td>
+ <table>
+  <tr>
+   <th><p>Huge<br>Power<br>Block</p></th>
+   <td>
+    <p>The &ldquo;system is not limited in a local, geographical sense.&rdquo; Rather, Havel writes, &ldquo;it holds sway over a huge power block.&rdquo;<sup id="bm03"><a href="#en03">3&nbsp;</a></sup></p>
+   </td>
   </tr>
- <tr>
-  <th><p>State<br>Ownership</p></th>
-  <td>
-   <p>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="bm06"><a href="#en06">6&nbsp;</a></sup></p>
+  <tr>
+   <th><p>Historical<br>Roots</p></th>
+   <td>
+    <p>he system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="bm04"><a href="#en04">4&nbsp;</a></sup></p>
+   </td>
   </tr>
- <tr>
-  <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
-  <td>
-   <p>This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="bm07"><a href="#en07">7&nbsp;</a></sup></p>
-  </td>
- </tr>
- <tr>
-  <td class="_spacer">&nbsp;</td>
- </tr>
-</table>
+  <tr>
+   <th><p>Ideology as<br>Securalized<br>Religion</p></th>
+   <td>
+    <p>&ldquo;&hellip; it commands&hellip; [a]&hellip; precise, logically structured, generally comprehensible and, in essence, extremely flexible ideology that&hellip; is almost a secularized religion.&rdquo;<sup id="bm05"><a href="#en05">5&nbsp;</a></sup></p>
+   </td>
+  </tr>
+  <tr>
+   <th><p>State<br>Ownership</p></th>
+   <td>
+    <p>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="bm06"><a href="#en06">6&nbsp;</a></sup></p>
+   </td>
+  </tr>
+  <tr>
+   <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
+   <td>
+    <p>This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="bm07"><a href="#en07">7&nbsp;</a></sup></p>
+   </td>
+  </tr>
+  <tr>
+   <td class="_spacer">&nbsp;</td>
+  </tr>
+ </table>
 
 <h1>Businesses as Dictatorships</h1>
  <p>As I read the essay, I got more and more excited as I realized how well the <span>RADICAL</span> model aligned to each of these points,</p>
@@ -67,34 +68,34 @@ image:    "the-power-of-the-powerless-icon.svg"
    <td>
      <p>Although there is not a <em>Left</em> and <em>Right</em> ideology when it comes to businesses, there is a cultural ideology that supports them. Among others, Roy S Jacques writes that &ldquo;<em>Beginning in the Western Europe of the fourteenth to sixteenth century one find a growth of a mode of consciousness&hellip; [that] has a &lsquo;mechanical&rsquo; orientation to it, emphasizing instrumentality, emotionlessness, accumulation, skepticism, individual consciousness, standardization, and objectification. It is also from this mode of consciousness that the particular form of production and exchange currently dominant worldwide has emerged.</em>&rdquo;</p>
     <p>He continues to say that between the 17th and 19th century, &ldquo;<em>Liberty no longer meant the freedom to perfect an enclosed city protected from the world. It was redirected as the freedom to conquer and order that outer world. Progress no longer meant movement toward a finite goal, but infinite expansion into a limitless universe</em>.&rdquo; Conquering and infinite expansion is the ideology that sustains businesses to this day.</p>
-   <p>In other words, businesses have a <em>historiccal root</em>, one that is embedded in today&rsquo;s culture.</p>
-  </td>
- </tr>
- <tr>
-  <th><p>Ideology as<br>Securalized<br>Religion</p></th>
-  <td>
-   <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. &ldquo;Ownership&rdquo; is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under &ldquo;business/economics,&rdquo; including books on self-management, are simply tweaks of this religion, but they are blind to the issue of &ldquo;ownership&rdquo;.</p>
-   <p>In other words, the business ideaology, then, is the unquestioned acceptance of ownership as is.</p>
-  </td>
- </tr>
- <tr>
-  <th><p>State<br>Ownership</p></th>
-  <td>
-   <p>Admittedly, State ownership is a worst case, but ownership by a few bosses is pretty bad, too</p>
-   <p>In other words, ownership as is the invisible culprit and we need to see it for what it is and all its implications.</p>
-  </td>
- </tr>
- <tr>
-  <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
-  <td>
-   <p>Admittedly, democracies are better for people than dictatorships. Still, they both are different shapes &ldquo;&hellip; of the consumer and industrial society.&rdquo;<sup id="bm09"><a href="#en09">9</a></sup></p>
-   <p>In other words, if we can agree that extremely centralized ownership (<em>i.e.</em> Soviet-style dictatorships) doesn't work as well as more decentralized ownership, then we must move towards an <em>even more</em> decentralized ownership model (<em>i.e.</em> co-owned companies)</p>
-  </td>
- </tr>
- <tr>
-  <td class="_spacer">&nbsp;</td>
- </tr>
-</table>
+    <p>In other words, businesses have a <em>historiccal root</em>, one that is embedded in today&rsquo;s culture.</p>
+   </td>
+  </tr>
+  <tr>
+   <th><p>Ideology as<br>Securalized<br>Religion</p></th>
+   <td>
+    <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. &ldquo;Ownership&rdquo; is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under &ldquo;business/economics,&rdquo; including books on self-management, are simply tweaks of this religion, but they are blind to the issue of &ldquo;ownership&rdquo;.</p>
+    <p>In other words, the business ideaology, then, is the unquestioned acceptance of ownership as is.</p>
+   </td>
+  </tr>
+  <tr>
+   <th><p>State<br>Ownership</p></th>
+   <td>
+    <p>Admittedly, State ownership is a worst case, but ownership by a few bosses is pretty bad, too</p>
+    <p>In other words, ownership as is the invisible culprit and we need to see it for what it is and all its implications.</p>
+   </td>
+  </tr>
+  <tr>
+   <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
+   <td>
+    <p>Admittedly, democracies are better for people than dictatorships. Still, they both are different shapes &ldquo;&hellip; of the consumer and industrial society.&rdquo;<sup id="bm09"><a href="#en09">9</a></sup></p>
+    <p>In other words, if we can agree that extremely centralized ownership (<em>i.e.</em> Soviet-style dictatorships) doesn't work as well as more decentralized ownership, then we must move towards an <em>even more</em> decentralized ownership model (<em>i.e.</em> co-owned companies)</p>
+   </td>
+  </tr>
+  <tr>
+   <td class="_spacer">&nbsp;</td>
+  </tr>
+ </table>
 <p>Businesses fit <em>every one</em> of theses observations. First, we have to stop &ldquo;going along&rdquo; with a system that&rsquo;s holding us back.</p>
 <table>
  <tr>
