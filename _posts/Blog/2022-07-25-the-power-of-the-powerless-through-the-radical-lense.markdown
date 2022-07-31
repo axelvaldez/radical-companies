@@ -198,7 +198,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </li>
   <li id="en11">
   <p class="_list-item">As a side note, Chinese-style dictatorships&rsquo;s &ldquo;ideology&rdquo; seems to be something like, &ldquo;<em>Work hard, become wealthy, and we'll leave you alone until you threaten our political power (and then we'll dissappear you). If you are <em>not</em> wealthy, get back to creating wealth for us (<em>i.e.</em>, work).</em>&rdquo;
-   <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
+   <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en12">
    <p class="_list-item">The same industrial-military complex that then President Eisenhower warned us about in his 1960 Farewell Address. The plan was to wind dow our military muscle after Wold War II, but the war hardware producers got the military hooked on war toys. But it wasn't just industry and the military.</p>
@@ -206,8 +206,8 @@ image:    "the-power-of-the-powerless-icon.svg"
    <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en13">
-   <p class="_list-item">In China, the <em>People&rsquo;s Republic</em> dictatorship seems to be a mix of decentralized owernship of business and centralized political power, but that is just a mirage maintained for those of us outside the PRC. As Xi Jinping, the latest Party boss has shown, the so-called-private companies can be brought to kneel by the polical power and their violence machine. &ldquo;Follow our orders, or else.&rdquo;</p>
-   <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a>
+   <p class="_list-item">In China, the <em>People&rsquo;s Republic</em> dictatorship seems to be a mix of decentralized owernship of business and centralized political power, but that is just a mirage maintained for those of us outside the PRC. As Xi Jinping, the latest Party boss has shown, the so-called-private companies can be brought to kneel by the polical power and their violence machine. &ldquo;Follow our orders, or else.&rdquo;
+   <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
  </ol>
 
