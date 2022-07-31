@@ -256,5 +256,7 @@ td._spacer {
   font-size:x-small;
 }
 ._list-item {
-  margin-bottom:2px;
+  margin-bottom: 0.5em;
+  text-align: justify;
+  font-size: smaller;
 }
