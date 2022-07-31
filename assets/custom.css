@@ -258,7 +258,7 @@ td._spacer {
 p._list-item {
   padding-bottom:3px;
 }
-a p._list-item {
+p._list-item a {
   padding-bottom:1px;
   color:red;
 }
