@@ -137,7 +137,6 @@ image:    "the-power-of-the-powerless-icon.svg"
 </table>
 
 <h1 class="_section">ENDNOTES</h1>
-1
  <ol>
   <li id="en01">
    <p class="_list-item">Andy Kopsa.
@@ -198,7 +197,7 @@ image:    "the-power-of-the-powerless-icon.svg"
    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en11">
-  <p class="_list-item">As a side note, Chinese-style dictatorships&rsquo;s &ldquo;ideology&rdquo; seems to be something like, &ldquo;<em>Work hard, become wealthy, and we'll leave you alone until you threaten our political power (and then we'll dissappear you). If you are <em>not</em> wealthy, get back to creating wealth for us (<em>i.e.</em>, work).</em>&rdquo;
+  <p class="_list-item">As a side note, Chinese-style dictatorships&rsquo;s &ldquo;ideology&rdquo; seems to be something like, &ldquo;<em>Work hard, become wealthy, and we'll leave you alone unless you threaten our political control (and then we'll dissappear you). If you are <em>not</em> wealthy, get back to creating wealth for us (<em>i.e.</em>, work).</em>&rdquo;
    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en12">
