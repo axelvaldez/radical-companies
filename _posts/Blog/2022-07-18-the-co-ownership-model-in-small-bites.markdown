@@ -11,13 +11,13 @@ image:    "co-ownership-in-small-bites-icon.svg"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace;  margin-top:50px; ">The Big Pill</h1>
- <img style="margin-left:10px; float:right; font-family:Courier New, monospace; font-size:smaller; width:30%; " src="/assets/img/co-ownership-the-big-bite.svg" alt="The heading reads Co-Ownership. Below it there is one circle labeled 'All of It' with bite marks in their upper-left.">
+ <img style="margin-left:10px; float:right; font-family:Courier New, monospace; font-size:smaller; width:30%; " src="/assets/img/co-ownership-the-big-bite.svg" alt="The heading reads Co-Ownership. Below it there is one circle labeled 'All of It' with bite marks in their upper-left. The bite takes out only a small portion of the circle.">
  <p>Co-ownership is a big pill to swallow all in one gulp. It scares people and they react by accussing it of being utopian (<em>i.e.</em>, &ldquo;It won't work in the real world&rdquo;) or a political scheme (i.e., &ldquo;The communists tried it, it didn&rsquo;t work&rdquo;).</p>
  <p>Here a couple of smaller bites that people may be less fearful to experiment with. It is less threatening and signals &ldquo;progressive.&rdquo;</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:50px; ">Smaller Bites</h1>
- <img style="margin-left:10px; float:right; font-family:Courier New, monospace; font-size:smaller; width:30%; " src="/assets/img/co-ownership-the-smaller-bite.svg" alt="The heading reads Co-Ownership. Below it there is one circle labeled 'Smaller Bite' with bite marks over most of it.">
- <p>Rather than attempting to change the ownership structure of the whole business, this is much smaller pill to take because it is about the distribution method of a specific fund. In this case, we are talking about an repayment fund and a bonus fund, but it can as well apply to any type of financial distribution.</p>
+ <img style="margin-left:10px; float:right; font-family:Courier New, monospace; font-size:smaller; width:30%; " src="/assets/img/co-ownership-the-smaller-bite.svg" alt="The heading reads Co-Ownership. Below it there are three circles with bite marks over most of it.">
+ <p>Rather than attempting to change the ownership structure of the whole business, we are talking about a repayment fund and a bonus fund.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace;  margin-top:50px;">Repayment Fund</h1>
  <p>We are used to taking a cash infusion from Angels or VCs. Angel investors get a note that promises them a future take. Then VCs show up, make a big investment, the Angels get their money back <em>and</em> their promised take, and the VC gets a piece of the business. More often than not, a &ldquo;lead VC&rdquo; brings other VCs along and together they end up with <em>majority control</em> of the business.</p>
