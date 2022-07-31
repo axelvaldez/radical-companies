@@ -260,4 +260,5 @@ p._list-item {
 }
 a > p._list-item {
   padding-bottom:1px;
+  color:red;
 }
