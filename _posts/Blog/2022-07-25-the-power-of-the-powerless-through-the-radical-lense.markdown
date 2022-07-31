@@ -176,7 +176,7 @@ image:    "the-power-of-the-powerless-icon.svg"
    <p class="_list-item">Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/enNA5rq">https://a.co/enNA5rq</a>>
-   <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
+   <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en08">
    <p class="_list-item">Vaclav Havel.
