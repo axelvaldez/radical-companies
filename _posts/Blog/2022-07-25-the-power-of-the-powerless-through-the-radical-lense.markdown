@@ -206,7 +206,8 @@ image:    "the-power-of-the-powerless-icon.svg"
   </li>
   <li id="en13">
    <p class="_list-item" style="padding-bottom:1px; ">The same industrial-military complex that then President Eisenhower warned us about in his 1960 Farewell Address. The plan was to wind dow our military muscle after Wold War II, but the war hardware producers got the military hooked on war toys. But it wasn't just industry and the military.</p>
-   <p class="_list-item">The military got congress hooked on pork programs that got them re-elected, and the pork programs created jobs that generated wealth for the war hardware producers. A neat circle.
+   <p class="_list-item">The military got Congress hooked on pork programs that got them re-elected, and these pork programs created jobs that generated wealth for the war hardware producers. A neat circle.
+   <<a href="https://radicals.world/f3Nboy">https://radicals.world/f3Nboy</a>>
    <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en14">
