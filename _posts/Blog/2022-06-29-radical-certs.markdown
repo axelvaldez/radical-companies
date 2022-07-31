@@ -60,7 +60,7 @@ image:    "radical-certs.svg"
 <p>Questions based on these priciples, commitments, amd practices would give companies, and anybody else who cares to look, a view of how the company is doing, what needs to change/improve, etc. The details will come in coversations, as always.</p>
 
 <h1>If It Works&hellip;</h1>
-<p>Instead of annual surveys, it may be more valuable to have pipelined mini-surveys, for example. The point is to show a company&rsquo;s progression towards one end of the spectrum (<em>e.g.</em>, more centralized) or the other (<em>e.g.</em> less centralized). A company can then say, &ldquo;We are on the <span style="font-size:smaller; ">RADICAL</span> path&hellip; and here's my data. See for yourself!&rdquo; Only the <em>people</em> who embody the company, not an arbitrary third party, can attest to what path they're on</p>
+<p>Instead of annual surveys, it may be more valuable to have pipelined mini-surveys, for example. The point is to show a company&rsquo;s progression towards one end of the spectrum (<em>e.g.</em>, more centralized) or the other (<em>e.g.</em> less centralized). A company can then say, &ldquo;We are on the <span style="font-size:smaller; ">RADICAL</span> path&hellip; and here's my data. See for yourself!&rdquo; Only the <em>people</em> who embody the company, not an arbitrary third party, can attest to what path they're on.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
