@@ -37,7 +37,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </td>
   </tr>
  <tr>
-  <th>State<br>Ownership</th>
+  <th><p>State<br>Ownership</p></th>
   <td>
    <p>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="bm06"><a href="#en06">6&nbsp;</a></sup></p>
   </tr>
@@ -49,23 +49,23 @@ image:    "the-power-of-the-powerless-icon.svg"
  </tr>
  <tr>
   <td class="_spacer">&nbsp;</td>
-  </tr>
+ </tr>
 </table>
 
 <h1>Businesses as Dictatorships</h1>
-<p>As I read the essay, I got more and more excited as I realized how well the <span>RADICAL</span> model aligned to each of these points,</p>
-<table>
- <tr>
-  <th><p>Huge<br>Power<br>Block</p></th>
-  <td>
-   <p>Within each nation, businesses &ldquo;hold sway over&rdquo; all levels of governments, particularly about the way they get and spend their money. Around the world, multinationals &ldquo;hold sway over&rdquo; over many countries at once, &ldquo;a huge power block.&rdquo;</p>
-   <p>In other words, businesses, no matter their size, are part of a <em>huge power block</em>.</p>
-  </td>
- </tr>
- <tr>
-  <th>Historical<br>Roots</th>
-  <td>
-    <p>Although there is not a <em>Left</em> and <em>Right</em> ideology when it comes to businesses, there is a cultural ideology that supports them. Among others, Roy S Jacques writes that &ldquo;<em>Beginning in the Western Europe of the fourteenth to sixteenth century one find a growth of a mode of consciousness&hellip; [that] has a &lsquo;mechanical&rsquo; orientation to it, emphasizing instrumentality, emotionlessness, accumulation, skepticism, individual consciousness, standardization, and objectification. It is also from this mode of consciousness that the particular form of production and exchange currently dominant worldwide has emerged.</em>&rdquo;</p>
+ <p>As I read the essay, I got more and more excited as I realized how well the <span>RADICAL</span> model aligned to each of these points,</p>
+ <table>
+  <tr>
+   <th><p>Huge<br>Power<br>Block</p></th>
+   <td>
+    <p>Within each nation, businesses &ldquo;hold sway over&rdquo; all levels of governments,  particularly about the way they get and spend their money. Around the world, multinationals &ldquo;hold sway over&rdquo; over many countries at once, &ldquo;a huge power block.&rdquo;</p>
+    <p>In other words, businesses, no matter their size, are part of a <em>huge power block</em>.</p>
+   </td>
+  </tr>
+  <tr>
+   <th>Historical<br>Roots</th>
+   <td>
+     <p>Although there is not a <em>Left</em> and <em>Right</em> ideology when it comes to businesses, there is a cultural ideology that supports them. Among others, Roy S Jacques writes that &ldquo;<em>Beginning in the Western Europe of the fourteenth to sixteenth century one find a growth of a mode of consciousness&hellip; [that] has a &lsquo;mechanical&rsquo; orientation to it, emphasizing instrumentality, emotionlessness, accumulation, skepticism, individual consciousness, standardization, and objectification. It is also from this mode of consciousness that the particular form of production and exchange currently dominant worldwide has emerged.</em>&rdquo;</p>
     <p>He continues to say that between the 17th and 19th century, &ldquo;<em>Liberty no longer meant the freedom to perfect an enclosed city protected from the world. It was redirected as the freedom to conquer and order that outer world. Progress no longer meant movement toward a finite goal, but infinite expansion into a limitless universe</em>.&rdquo; Conquering and infinite expansion is the ideology that sustains businesses to this day.</p>
    <p>In other words, businesses have a <em>historiccal root</em>, one that is embedded in today&rsquo;s culture.</p>
   </td>
@@ -196,22 +196,16 @@ image:    "the-power-of-the-powerless-icon.svg"
    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
   <li id="en11">
-   David Graeber. 2014.
-   <em>Debt: The First 5000 Years</em>.
-   <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg</a>>.
+  As a side note, Chinese-style dictatorships&rsquo;s &ldquo;ideology&rdquo; seems to be something like, &ldquo;<em>Work hard, become wealthy, and we'll leave you alone until you threaten our political power (and then we'll dissappear you). If you are <em>not</em> wealthy, get back to creating wealth for us (<em>i.e.</em>, work).</em>&rdquo;
    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
   <li id="en12">
-  As a side note, Chinese-style dictatorships&rsquo;s &ldquo;ideology&rdquo; seems to be something like, &ldquo;<em>Work hard, become wealthy, and we'll leave you alone until you threaten our political power (and then we'll dissappear you). If you are <em>not</em> wealthy, get back to creating wealth for us (<em>i.e.</em>, work).</em>&rdquo;
+   Then President Eisenhower warned us about it in his 1960 Farewell Address.
    <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
   <li id="en13">
-   Then President Eisenhower warned us about it in his 1960 Farewell Address.
-   <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a>
-  </li>
-  <li id="en14">
    In China, the <em>People&rsquo;s Republic</em> dictatorship seems to be a mix of decentralized owernship of business and centralized political power, but that is just a mirage maintained for those of us outside the PRC. As Xi Jinping, the latest Party boss has shown, the so-called-private companies can be brought to kneel by the polical power and their violence machine. &ldquo;Follow our orders, or else.&rdquo;
-   <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a>
+   <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
  </ol>
 
