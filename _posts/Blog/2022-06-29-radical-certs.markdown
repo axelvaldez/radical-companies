@@ -63,7 +63,7 @@ image:    "radical-certs.svg"
 <p>Instead of annual surveys, it may be more valuable to have pipelined mini-surveys, for example. The point is to show a company&rsquo;s progression towards one end of the spectrum (<em>e.g.</em>, more centralized) or the other (<em>e.g.</em> less centralized). A company can then say, &ldquo;We are on the <span style="font-size:smaller; ">RADICAL</span> path&hellip; and here's my data. See for yourself!&rdquo; Only the <em>people</em> who embody the company, not an arbitrary third party, can attest to what path they're on</p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol style="font-size:smaller; ">
+ <ol>
   <li id="fn01">Dan & Jessica. <a href="https://www.recycledandrenewed.com/what-does-certified-b-corporation-mean/" target="blank">What Does Certified B Corporation Mean?</a> (alt., <a href="https://diigo.com/0pa15t" target="blank">here</a>). Mar 9, 2020. <a href="#en01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; margin-right:1em; "></a></li>
  </ol>
 
