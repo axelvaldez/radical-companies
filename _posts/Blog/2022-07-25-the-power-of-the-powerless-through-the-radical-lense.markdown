@@ -125,10 +125,10 @@ image:    "the-power-of-the-powerless-icon.svg"
   <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
   <td>
    <p>People&rsquo;s effort and commerce fuels dictatorships <em>and</em> democracies alike. This is not to say that they are alike: by far, democracy is preferable to dictatorship (<em>i.e.</em>, I've lives under both systems). But the fact still remains that they are both fueled by people&rsquo;s effort and commerce.</p>
-   <p>Through their efforts and commerce, people create wealth. In dictatorships, a lot of it goes to the State; in democracies, much of it goes to businesses and then the State. People keep enough to make a living, through many not even than, and some public goods trickle down from the State (<em>e.g.</em>, roads, bridges, public schools); no public goods emanate from businesses (<em>i.e.</em>, no, not even from B Corps). In other words, this wealth creates some public goods, but the overwheling portian of it ends up in private hands. But even these public goods benefit <em>primarily</em> the interests of businesses and the State. Roads and bridges make it possible for people to get to work to create wealth for businesses and the same roads and bridges make it easier to move the tanks where we need the muscle. They so happen to be the same roads and bridges that people use to go to the beach on the weekedns.</p>
-   <p>I should also point out that in both dictatorships and democracies a lot of this wealth ends up in the so-called <em>industrial-military complex</em>.<a id="bm12" href="#en12"><sup>12</sup></a></p>
+   <p>Through their efforts and commerce, people create wealth. In dictatorships, a lot of it goes to the State; in democracies, much of it goes to businesses and then the State. People keep enough to make a living, through many not even than, and some public goods trickle down from the State (<em>e.g.</em>, roads, bridges, public schools).<a is="bm12" href="#en12"><sup>12</sup></a> In other words, this wealth creates some public goods, but the overwheling portian of it ends up in private hands. But even these public goods benefit <em>primarily</em> the interests of businesses and the State. Roads and bridges make it possible for people to get to work to create wealth for businesses and the same roads and bridges make it easier to move the tanks where we need the muscle. They so happen to be the same roads and bridges that people use to go to the beach on the weekedns.</p>
+   <p>I should also point out that in both dictatorships and democracies a lot of this wealth ends up in the so-called <em>industrial-military complex</em>.<a id="bm13" href="#en13"><sup>13</sup></a></p>
    <p>Most of us learn to see this centralization of power as positive, &rdquo;<em>thank goodness, because if it weren't for the State/businesses/military would not have nice things like bridges, roads, and schools.</em>&rdquo; Sadly, even though this system is literally burning our life boat, this mindset stops us from doing anything about. We need to decentralize decision-making. Centralization is not good for us. It is hostile to innovation and even hostile to commerce. What innovation there is, (<em>e,g,</em>, in medicine) is accidental and it overwhelmingly ends up as private goods.</p>
-   <p>If you believe, like I do, that decentralized ownership and decision-making (<em>i.e.</em> democracy) is better than centralized State control (dictatorships)<a id="bm13" href="#en13"><sup>1</sup></a>, then it follows that you and I should insist on <em>moving towards decentralization</em>. Unfortunately, this will require a change in mindset that goes against everything we &ldquo;know,&rdquo;</p>
+   <p>If you believe, like I do, that decentralized ownership and decision-making (<em>i.e.</em> democracy) is better than centralized State control (dictatorships)<a id="bm14" href="#en14"><sup>14</sup></a>, then it follows that you and I should insist on <em>moving towards decentralization</em>. Unfortunately, this will require a change in mindset that goes against everything we &ldquo;know,&rdquo;</p>
   </td>
  </tr>
  <tr>
@@ -201,13 +201,17 @@ image:    "the-power-of-the-powerless-icon.svg"
    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en12">
-   <p class="_list-item" style="padding-bottom:1px; ">The same industrial-military complex that then President Eisenhower warned us about in his 1960 Farewell Address. The plan was to wind dow our military muscle after Wold War II, but the war hardware producers got the military hooked on war toys. But it wasn't just industry and the military.</p>
-   <p class="_list-item">The military got congress hooked on pork programs that got them re-elected, and the pork programs created jobs that generated wealth for the war hardware producers. A neat circle.
+   <p class="_list-item">And no public goods emanate from businesses (<em>i.e.</em>, no, not even from B Corps).
    <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en13">
-   <p class="_list-item">In the <em>People&rsquo;s Republic of China</em> (PRC) flavor of dictatorship, there a mix of decentralized owernship of business and centralized political power that co-habitate peacefully, but that is just a mirage created and maintained for those of us outside the PRC. As Xi Jinping, the latest Party boss, has shown, the so-called-private companies can be brought to kneel by the dictatorships power and their muscle. &ldquo;Follow our orders, or else.&rdquo;
+   <p class="_list-item" style="padding-bottom:1px; ">The same industrial-military complex that then President Eisenhower warned us about in his 1960 Farewell Address. The plan was to wind dow our military muscle after Wold War II, but the war hardware producers got the military hooked on war toys. But it wasn't just industry and the military.</p>
+   <p class="_list-item">The military got congress hooked on pork programs that got them re-elected, and the pork programs created jobs that generated wealth for the war hardware producers. A neat circle.
    <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a></p>
+  </li>
+  <li id="en14">
+   <p class="_list-item">In the <em>People&rsquo;s Republic of China</em> (PRC) flavor of dictatorship, there a mix of decentralized owernship of business and centralized political power that co-habitate peacefully, but that is just a mirage created and maintained for those of us outside the PRC. As Xi Jinping, the latest Party boss, has shown, the so-called-private companies can be brought to kneel by the dictatorships power and their muscle. &ldquo;Follow our orders, or else.&rdquo;
+   <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
  </ol>
 
