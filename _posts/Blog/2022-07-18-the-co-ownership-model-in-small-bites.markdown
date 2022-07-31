@@ -11,11 +11,11 @@ image:    "co-ownership-in-small-bites-icon.svg"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace;  margin-top:50px; ">Smaller Bites</h1>
- <img style="margin-left:10px; float:right; width:40%; "
+ <img style="margin-left:10px; float:right; width:30%; "
   src="/assets/img/co-ownership-the-big-bite.svg"
   alt="The heading reads Co-Ownership. Below it there is one circle labeled 'All of It' with bite marks in their upper-left. The bite takes out only a small portion of the circle.">
  <p>Co-ownership is a big pill to swallow all in one gulp. It scares people and they react by accussing it of being utopian (<em>i.e.</em>, &ldquo;It won't work in the real world&rdquo;) or a political scheme (<em>i.e.</em>, &ldquo;The communists tried it, it didn&rsquo;t work&rdquo;).</p>
- <img style="margin-left:10px; float:right; width:50%; "
+ <img style="margin-left:10px; float:right; width:30%; "
   src="/assets/img/co-ownership-the-smaller-bite.svg"
   alt="The heading reads Co-Ownership. Below it there are three circles with bite marks over most of it.">
  <p>Here a couple of smaller bites that people may be less fearful to experiment with. It is less threatening and signals &ldquo;progressive.&rdquo; Rather than attempting to change the ownership structure of the whole business, we are talking about starting with a co-owned repayment fund and a co-owned bonus fund.</p>
