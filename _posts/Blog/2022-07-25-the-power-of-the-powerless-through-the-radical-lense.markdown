@@ -201,7 +201,7 @@ image:    "the-power-of-the-powerless-icon.svg"
    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
   <li id="en12">
-   Then President Eisenhower warned us about it in his 1960 Farewell Address.
+   The same industrial-military complex that then President Eisenhower warned us about it in his 1960 Farewell Address. The plan was to wind dow our military muscle after Wold War II, but the war hardware producers got the military hooked on war toys, the military got congress hooked on pork programs that got them re-elected, and the pork programs created jobs that generated wealth for the war hardware producers. A neat circle.
    <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
   <li id="en13">
