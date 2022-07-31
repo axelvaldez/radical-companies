@@ -255,10 +255,3 @@ td._spacer {
   column-span: all;
   font-size:x-small;
 }
-[span~=RADICAL] {
-  font-size:smaller;
-  color:red;
-}
-[a~='https:']::after {
-    content:target='_blank';
-}
