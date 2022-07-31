@@ -137,6 +137,7 @@ image:    "the-power-of-the-powerless-icon.svg"
 </table>
 
 <h1 class="_section">ENDNOTES</h1>
+1
  <ol>
   <li id="en01">
    <p class="_list-item">Andy Kopsa.
