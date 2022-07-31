@@ -111,7 +111,8 @@ image:    "the-power-of-the-powerless-icon.svg"
  <tr>
   <th><p>Ideology as<br>Securalized<br>Religion</p></th>
   <td>
-   <p>In the Soviet-style dictatorships, their ideology was based, in theory, on Marx prescriptions, poor as they were. &ldquo;<em>Workers of the world, unite!</em>&rdquo; Western democracies&rsquo; ideology ends up being something like, &ldquo;<em>Work hard and you too can become wealthy. Good luck!</em>.&rdquo;<a id="bm11" href="#en11"><sup>11</sup></a></p>
+   <p>In Soviet-style dictatorships, their ideology was based, on Marx prescriptions, poor as they were. &ldquo;<em>Workers of the world, unite!</em>&rdquo;</p>
+   <p>Western democracies&rsquo; ideology ends up being something like, &ldquo;<em>Work hard and you, too, can become wealthy. Good luck!</em>.&rdquo;<a id="bm11" href="#en11"><sup>11</sup></a></p>
   </td>
  </tr>
  <tr>
