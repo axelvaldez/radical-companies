@@ -106,18 +106,19 @@ image:    "the-power-of-the-powerless-icon.svg"
  </tr>
  <tr>
   <th><p>Historical<br>Roots</p></th>
-  <td><p>History is made little by little and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat. According to David Graeber, author of <em>Debt: the First 5,000 Years</em>,<a id="bm10" href="#en10"><sup>10</sup></a> the fuel for this has been quantified debt which gave birth to anonymous, fungible monney, which made possible to extract wealth of the other people&rsquo;s efforts.</p></td>
+  <td><p>History is made little by little and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat. According to David Graeber, author of <em>Debt: the First 5,000 Years</em>,<a id="bm10" href="#en10"><sup>10</sup></a> the fuel for this has been debt. Debt that has been quantified and gave birth to anonymous, fungible money, which it turn made it possible to extract wealth from other people&rsquo;s efforts.</p></td>
  </tr>
  <tr>
   <th><p>Ideology as<br>Securalized<br>Religion</p></th>
   <td>
-   <p>In the Soviet-style dictatorships, their ideology was based, in theory, onMarx prescriptions, poor as they were. &ldquo;<em>Workers of the world, unite!</em>&rdquo; Western democracyies&rsquo; ideology ends up being something like, &ldquo;<em>Work hard and you too can become wealthy. Otherwise, good luck!</em>.&rdquo;<a id="bm11" href="#en11"><sup>11</sup></a></p>
+   <p>In the Soviet-style dictatorships, their ideology was based, in theory, on Marx prescriptions, poor as they were. &ldquo;<em>Workers of the world, unite!</em>&rdquo; Western democracies&rsquo; ideology ends up being something like, &ldquo;<em>Work hard and you too can become wealthy. Good luck!</em>.&rdquo;<a id="bm11" href="#en11"><sup>11</sup></a></p>
   </td>
  </tr>
  <tr>
   <th><p>State<br>Ownership</p></th>
   <td>
-   <p>New wealth creates some public goods, but much of it ends up as private goods. In the case of dictatorships, the bosses at the top live very well. In democracies, some of this wealth ends up in the hands of a few business owners who also live very well while the rest is passed to the State where a lot of it ends up &ldquo;wasted&rdquo; or &ldquo;misspent&rdquo; or in the military (<em>i.e.</em>, graft for the <em>industrial-military complex</em> that then President Eisenhower warned us about). Even the public goods that come out of this benefit  businesses and the government&rsquo;s interests <em>primarily</em>. Roads and bridges make it possible for people to get to work to create wealth; the same roads and bridges make it easier to move the tanks where we need the muscle.</p>
+   <p>New wealth creates some public goods, but much of it ends up as private goods. In the case of dictatorships, the party bosses live very well. In democracies, some of this wealth ends up in the hands of a few business owners who also live very well, too. The rest of this wealth is passed to the State from which some public goods comes out.</p>
+   <p>But even these public goods benefit businesses and the government&rsquo;s interests <em>primarily</em>. Roads and bridges make it possible for people to get to work to create wealth for businesses and the same roads and bridges make it easier to move the tanks where we need the muscle.</p>
   </td>
  </tr>
  <tr>
