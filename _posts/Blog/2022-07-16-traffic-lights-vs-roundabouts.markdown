@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "Traffic Lights vs Roundabouts"
-subtitle: "A Metaphor for FIAT vs RADICAL"
+subtitle: "A FIAT vs RADICAL Metaphor"
 authors:  "Matt Perez"
 image:    "roundabouts-icon.svg"
 ---
