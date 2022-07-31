@@ -46,7 +46,7 @@ image:    "giving-rads-icon.svg"
  </ol>
  
 <h1 class="_section">ENDNOTES</h1>
- <ol style="font-size:smaller; ">
+ <ol>
   <li id="en01"><a href="https://radicalcompanies.com" target="blank">https://radicalcompanies.com</a> <a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
   <li id="en02">Our thanks to the team at <a href="https://xipegroup.com" target="blank">Xipe Group</a>, who created it. A RADICAL COMPANY in the making. <a href="#bn02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
   <li id="en03">A simple verbatim compare for now. <a href="#bn03"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
