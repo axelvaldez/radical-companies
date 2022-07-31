@@ -230,6 +230,9 @@ h1._section {
   margin:100px 0 20px 0;
   color:gray;
 }
+h1.lead {
+  font-size:70px;
+}
 h2 {
   font-size:40px;
 }
