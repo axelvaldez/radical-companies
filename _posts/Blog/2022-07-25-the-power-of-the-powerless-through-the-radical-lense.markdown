@@ -15,7 +15,7 @@ image:    "the-power-of-the-powerless-icon.svg"
 
 <h1>The Power of Dictatorships</h1>
  <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<sup id="bm01"><a href="#en01">1&nbsp;</a></sup></p>
- <p>In the essay, the most powerful point he makes is that what keeps together dictatorships is the acceptance of the very people that they oppress.<sup id="bm02"><a href="#en02">2&nbsp;</a></sup> <span class="_paradigms">FIAT</span> businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate.</p>
+ <p>In the essay, the most powerful point he makes is that what keeps together dictatorships is the acceptance of the very people that they oppress.<sup id="bm02"><a href="#en02">2&nbsp;</a></sup> <span class="_paradigm">FIAT</span> businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate.</p>
  <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called &ldquo;the means of production,&rdquo; that is everything that can generate wealth. He also pointed out that Soviet-style dictatorships and Western democracies were different forms of the consumer-industrial society,</p>
  <table>
   <tr>
@@ -54,7 +54,7 @@ image:    "the-power-of-the-powerless-icon.svg"
  </table>
 
 <h1>Businesses Are Dictatorships</h1>
- <p>As I read the essay, I got more and more excited as I realized how well the <span class="_paradigms">RADICAL</span> model aligned to each of these points,</p>
+ <p>As I read the essay, I got more and more excited as I realized how well the <span class="_paradigm">RADICAL</span> model aligned to each of these points,</p>
  <table>
   <tr>
    <th><p>Huge<br>Power<br>Block</p></th>
@@ -101,7 +101,7 @@ image:    "the-power-of-the-powerless-icon.svg"
  <tr>
   <th><p>Huge<br>Power<br>Block</p></th>
   <td>
-   <p>Over time, businesses have come to make up a huge international block (i.e., and, no, not due to a conspiracy or any such). We need to experiment with models based on communities of people instead. The RADICAL COMPANIES<sup id="bm09"><a href="#en09">9&nbsp;</a></sup> book offers a viable alternative.</p>
+   <p>Over time, businesses have come to make up a huge international block (i.e., and, no, not due to a conspiracy or any such). We need to experiment with models based on communities of people instead. The RADICAL COMPANIES book offers a viable alternative.<a id="bm09" href="#en09"><sup>9&nbsp;</sup></a></p>
   </td>
  </tr>
  <tr>
