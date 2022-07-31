@@ -25,10 +25,14 @@ image:    "giving-rads-icon.svg"
  </ol>
 
 <h1>How <span style="font-size:smaller; ">RAD</span>s Are Calculated</h1>
- <p>What you are really doing with this app is <a href="https://www.youtube.com/watch?v=5aH2Ppjpcho" target="blank">recognizing your peers&rsquo; contributions (<em>i.e.</em> meaning principle)</a>. You can press the green recognition button as much as you want, and the app takes care of calculating the actual number of <span style="font-size:smaller; ">RAD</span>s that your peer will get.</p>
+ <p>What you are really doing with this app is <a href="https://www.youtube.com/watch?v=5aH2Ppjpcho" target="blank">recognizing your peers&rsquo; contributions (<em>i.e.</em> Meaning)</a>. You can press the green recognition button as much as you want, and the app takes care of calculating the actual number of <span style="font-size:smaller; ">RAD</span>s that your peer will get.</p>
  <p>The calculation is based on your cycle, which could be monthly, or weekly, or quarterly, or whatever. In any case, the calculation is very simple,</p>
  <p style="text-align:center; ">
-  <img src="/assets/img/pings-to-rads-equation.svg" alt="" width="50%">
+  <img
+   src="/assets/img/pings-to-rads-equation.svg"
+   width="50%"
+   alt="The picture depicts an a simple equation. The first term is the number of recognitions per person divided by the total number of recognitions I've given. This is multiplied by the number of days in the cycle. The result is the number of RADs I am giving to each of my peers."
+  >
  </p>
 
 <h1>How the Coffee Button Works</h1>
