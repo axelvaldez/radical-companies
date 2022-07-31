@@ -101,7 +101,7 @@ image:    "the-power-of-the-powerless-icon.svg"
  <tr>
   <th><p>Huge<br>Power<br>Block</p></th>
   <td>
-   <p>Over time, and not due to a conspiracy or any such, businesses have come to make up a huge international block. We have to get over ourselves and wind down our support for them.We need to experiment with other models. The <span>RADICAL COMPANIES</span><sup id="bm09"><a href="#en09">9&nbsp;</a></sup> book offers a viable alternative.</p>
+   <p>Over time, and not due to a conspiracy or any such, businesses have come to make up a huge international block. We have to get over ourselves and wind down our support for them. We need to experiment with other models. The <span>RADICAL COMPANIES</span><sup id="bm09"><a href="#en09">9&nbsp;</a></sup> book offers a viable alternative.</p>
   </td>
  </tr>
  <tr>
