@@ -101,7 +101,7 @@ image:    "the-power-of-the-powerless-icon.svg"
  <tr>
   <th><p>Huge<br>Power<br>Block</p></th>
   <td>
-   <p>Over time, businesses have come to make up a huge international block. It hapened organicaly and not due to a conspiracy or any such. We need to experiment with models based on communities of people instead. The <span>RADICAL COMPANIES</span><sup id="bm09"><a href="#en09">9&nbsp;</a></sup> book offers a viable alternative.</p>
+   <p>Over time, businesses have come to make up a huge international block; this hapened organicaly and not due to a conspiracy or any such. We need to experiment with models based on communities of people instead. The <span>RADICAL COMPANIES</span><sup id="bm09"><a href="#en09">9&nbsp;</a></sup> book offers a viable alternative.</p>
   </td>
  </tr>
  <tr>
@@ -141,7 +141,7 @@ image:    "the-power-of-the-powerless-icon.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">Andy Kopsa.
-   <em>Czechoslovakia&rsquo;s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</em>. November 16, 2019.
+   <em>Czechoslovakia&rsquo;s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</em>. November 2019.
    <<a href="https://time.com/5730106/velvet-revolution-history/">https://time.com/5730106/velvet-revolution-history/</a>>
    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
