@@ -101,7 +101,7 @@ image:    "the-power-of-the-powerless-icon.svg"
  <tr>
   <th><p>Huge<br>Power<br>Block</p></th>
   <td>
-   <p>Over time, businesses have come to make up a huge international block; this hapened organicaly and not due to a conspiracy or any such. We need to experiment with models based on communities of people instead. The <span>RADICAL COMPANIES</span><sup id="bm09"><a href="#en09">9&nbsp;</a></sup> book offers a viable alternative.</p>
+   <p>Over time, businesses have come to make up a huge international block (i.e., and, no, not due to a conspiracy or any such). We need to experiment with models based on communities of people instead. The <span>RADICAL COMPANIES</span><sup id="bm09"><a href="#en09">9&nbsp;</a></sup> book offers a viable alternative.</p>
   </td>
  </tr>
  <tr>
