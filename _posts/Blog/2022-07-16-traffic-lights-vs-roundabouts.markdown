@@ -15,10 +15,7 @@ image:    "roundabouts-icon.svg"
  <p>Both are meant to avoid collisions and other accidents. Traffic Lights do it by imposing a fixed structure while with centralized rules, while Roundabouts let the drivers manage how they actually work.</p>
  <p>Traffic Lights are a definite form of control from a centralized traffic authority. Lights are programmed according to the whims of that local authority, or even to the programmer’s whim. For example, one of the lights near my house gave preference to the north lane. I can’t say for certain, but my hypothesis was the programmer lived just south of it and arranged it so that the north lane got preferential treatment.</p>
  <p>For a long time the rule was that both lanes of a street will flow and then the both lanes of the other street flowed. At some point the rules changed to a round-robin order and others to different models. The local community had no say in the changes. It came from somewhere in the bureaucracy and to change it you have to either have “pull” or navigate (read: fight) the bureaucracy. Finally, Traffic Lights are very expensive to install and to maintain. And they lean to homely, at best.</p>
- <img style="text-align:center; width:70%; "
-  src="/assets/img/traffic-lights.svg"
-  alt="Traffic lights hanging from power cables in the US, Europe, and Mexico: all pretty ugly."
- >
+ <img style="text-align:center; width:70%; " src="/assets/img/traffic-lights.svg" alt="Traffic lights hanging from power cables in the US, Europe, and Mexico: all pretty ugly.">
  <p>Roundabouts could be homely, too, but for the most part, they are not. They usually match their surroundings, can be very artistic, and even be flamboyant. They don’t cost as much to &ldquo;install&rdquo; and maintenance, if any, is minimal. Most importantly, <em>the drivers manage their operation</em> according to what’s happening: sometimes they go in and other times they wait for other cars or pedestrians. There&rsquo;s no bureaucracy to fight and the only &ldquo;influence&rdquo; that counts is that of the people at the intersection.</p>
  <img style="text-align:center; width:70%; "
   src="/assets/img/roundabouts.svg"
