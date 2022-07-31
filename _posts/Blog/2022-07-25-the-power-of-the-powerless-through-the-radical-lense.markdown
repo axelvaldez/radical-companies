@@ -210,7 +210,7 @@ image:    "the-power-of-the-powerless-icon.svg"
    <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en14">
-   <p class="_list-item">In the <em>People&rsquo;s Republic of China</em> (PRC) flavor of dictatorship, there a mix of decentralized owernship of business and centralized political power that co-habitate peacefully, but that is just a mirage created and maintained for those of us outside the PRC. As Xi Jinping, the latest Party boss, has shown, the so-called-private companies can be brought to kneel by the dictatorships power and their muscle. &ldquo;Follow our orders, or else.&rdquo;
+   <p class="_list-item">In the <em>People&rsquo;s Republic of China</em> (PRC) dictatorships, private businesses and centralized political power co-habitate peacefully. At least that's the mirage created and maintained for those of us outside the PRC. As Xi Jinping, the latest Party boss, has shown, the so-called-private companies can be brought to kneel by the dictatorships muscle. &ldquo;Follow our orders, or else.&rdquo;
    <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
  </ol>
