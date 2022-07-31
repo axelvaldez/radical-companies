@@ -96,7 +96,7 @@ image:    "the-power-of-the-powerless-icon.svg"
    <td class="_spacer">&nbsp;</td>
   </tr>
  </table>
-<p>Businesses fit <em>every one</em> of theses observations. First, we have to stop &ldquo;going along&rdquo; with a system that&rsquo;s holding us back.</p>
+<p>Businesses fit <em>every one</em> of theses observations,</p>
 <table>
  <tr>
   <th><p>Huge<br>Power<br>Block</p></th>
