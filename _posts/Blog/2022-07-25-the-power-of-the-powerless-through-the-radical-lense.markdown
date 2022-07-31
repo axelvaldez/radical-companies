@@ -211,7 +211,6 @@ image:    "the-power-of-the-powerless-icon.svg"
   </li>
   <li id="en14">
    In China, the <em>People&rsquo;s Republic</em> dictatorship seems to be a mix of decentralized owernship of business and centralized political power, but that is just a mirage maintained for those of us outside the PRC. As Xi Jinping, the latest Party boss has shown, the so-called-private companies can be brought to kneel by the polical power and their violence machine. &ldquo;Follow our orders, or else.&rdquo;
-   <<a href="https://radicals.world/f3Nboy">https://radicals.world/f3Nboy</a>>.
    <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
  </ol>
