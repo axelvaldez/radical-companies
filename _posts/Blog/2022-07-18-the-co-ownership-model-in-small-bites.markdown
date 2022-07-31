@@ -19,7 +19,7 @@ image:    "co-ownership-in-small-bites-icon.svg"
  <img style="margin-left:10px; float:right; width:30%; "
   src="/assets/img/co-ownership-the-smaller-bite.svg"
   alt="The heading reads Co-Ownership. Below it there are three circles with bite marks over most of it.">
- <p>Rather than attempting to change the ownership structure of the whole business, we are talking about starting with a repayment fund and a bonus fund.</p>
+ <p>Rather than attempting to change the ownership structure of the whole business, we are talking about starting with a co-owned repayment fund and a co-owned bonus fund.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace;  margin-top:50px;">Repayment Fund</h1>
  <p>We have gotten used to taking cash infusions from Angels and VCs. Angel investors get a note that promises them a future take. Then VCs show up and makes a big investment. The Angels get their money back <em>and</em> their promised take, and the VC gets a piece of the business. More often than not, a &ldquo;lead VC&rdquo; brings other VCs along and together they end up with <em>majority control</em> of the business.</p>
