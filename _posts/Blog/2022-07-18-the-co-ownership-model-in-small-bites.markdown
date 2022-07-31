@@ -10,7 +10,7 @@ image:    "co-ownership-in-small-bites-icon.svg"
  <p>Co-ownership is too big pill to swallow in one gulp, so we need to make smaller pills.</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace;  margin-top:50px; ">Smaller Bites</h1>
+<h1>Smaller Bites</h1>
  <img style="margin-left:10px; float:right; width:30%; "
   src="/assets/img/co-ownership-the-big-bite.svg"
   alt="The heading reads Co-Ownership. Below it there is one circle labeled 'All of It' with bite marks in their upper-left. The bite takes out only a small portion of the circle.">
@@ -22,7 +22,7 @@ image:    "co-ownership-in-small-bites-icon.svg"
  <p>This post is about a couple of smaller bites that, we hope, people may find be less threatening and signal &ldquo;progressiveness.&rdquo; Rather than attempting to change the ownership structure of the whole business, we are talking about starting with a co-owned repayment fund and a co-owned bonus fund.</p>
  <br style="clear:both; ">
 
-<h1 style="font-size:40px; font-family:Courier New, monospace;  margin-top:50px;">Repayment Fund</h1>
+<h1>Repayment Fund</h1>
  <p>We have gotten used to taking cash infusions from Angels and VCs. Angel investors get a note that promises them a future take. Then VCs show up and makes a big investment. The Angels get their money back <em>and</em> their promised take, and the VC gets a piece of the business. More often than not, a lead VC brings other VCs along and together they end up with <em>majority control</em> of the business.</p>
  <p>In theory, investors don&rsquo;t have a say in day-to-day operations, but in practice if there&rsquo;s something they don&rsquo;t like, they can fire the CEO and get a new one to change what they don&rsquo;t like. The end result is that money making ends up being the only priority while everything else falls by the proverbial wayside. The product, the technology, and, worst of all, the people become replaceable pieces of the money-making machine.</p>
  <p>That&rsquo;s the way the <span class="_paradigm">FIAT</span> world works and something we are so used to that we don&rsquo;t even notice. Unfortunately, if it continues to operate this way, we will go deeper into a dystopia that we may, or may not, be able to come out of.</p>
@@ -30,20 +30,20 @@ image:    "co-ownership-in-small-bites-icon.svg"
  <p>Instead, we can try the co-ownership model in smaller bites. Like, an investment repayment fund or an annual bonus fund. Decentralizing these distributions gives everybody involved a taste of how they works. They may even see how it could be applied elsewhere, even outside the company.</p>
  <p>For example, an investor gives the company $200K to be repaid with 10% interest in two years. Normally, the interest belongs to the investor. But let&rsquo;s say that instead the company matches the 10% interest with an additional 10% to end up with a $40K fund. The money in the fund would then be distributed to everybody, including the investor, involved in repaying the investment using <span class="_paradigm">RAD</span>s.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace;  margin-top:50px;">The Annual Bonus</h1>
+<h1>The Annual Bonus</h1>
  <p>The so-called <em>bonus</em><a id="bn01" href="#en01"><sup>1&nbsp;</sup></a> is similar in that it is a fund that is going to be distributed, usually every quarter or at the end of the year.</p>
  <p>The usual distribution is based on a whim or a formula. Most often it is done by the boss&rsquo; whim, &ldquo;this guy is very good and we have to make sure to keep him.&rdquo; Other businesses, trying to be more progressive, establish a formula. This is usually based on years of experience, schooling level, tenure, and other so-called objective measures. I say so-called because in the end they are not at all objective even if they are <em>measurable, given our biases</em>. For example, &ldquo;schooling level&rdquo; has a lot to do with the opportunity somebody had to attend a university; &ldquo;years of experience&rdquo; really means tenure at other, similar companies in similar delimited jobs, but it doesn&rsquo;t account for other flavors of experience in other areas. If anything, what I&rsquo;ve called &ldquo;the boss&rsquo; whim&rdquo; is closer to recognizing <em>the value of contributions</em> and that is what <span class="_paradigm">RAD</span>s do.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace;  margin-top:50px;">RAD Distributions</h1>
+<h1>RAD Distributions</h1>
  <p><span class="_paradigm">RAD Distributions</span><a id="bn02" href="#en02"><sup>2&nbsp;</sup></a> are all about recognizing contributions and <em>assigning them a value</em>. That is what the boss is doing, although nobody else knows if the recognition had to do with a contribution to the bottom line, to the operations, or to his ego. <span class="_paradigm">RAD Distributions</span><a href="#en02"><sup>2&nbsp;</sup></a> do a similar thing, but lets everybody participate, not just the bosses. They also assign a tangible value to each contribution that can later be translated to a percentage of, say, revenue, or a bonus fund, or an investment repayment fund. <span class="_paradigm">RAD Distributions</span> are a tool for decentralizing the recognition of contributions. No central boss or formula needed for these distributions.</p>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
+<h1 class="_section">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="en01">It is not a gift. What is normally called a <em>bonus</em> really is <em>earned dividends</em>, a form of wealth extraction from the value everybody helped create <a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
   <li id="en02"><a href="https://radicalcompanies.com/2022/07/17/giving-rads-the-latest.html" target="blank">&hellip;/giving-rads-the-latest.html</a> <a href="#bn02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
  </ol>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
+<h1 class="_section">RELATED</h1>
  <ul>
   <li><span class="_paradigm">RADICAL</span> COMPANIES,</li>
    <ul>
