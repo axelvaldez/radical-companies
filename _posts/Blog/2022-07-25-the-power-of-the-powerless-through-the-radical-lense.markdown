@@ -201,7 +201,6 @@ image:    "the-power-of-the-powerless-icon.svg"
    <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg</a>>.
    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
-  <li>
   <li id="en12">
   As a side note, Chinese-style dictatorships&rsquo;s &ldquo;ideology&rdquo; seems to be something like, &ldquo;<em>Work hard, become wealthy, and we'll leave you alone until you threaten our political power (and then we'll dissappear you). If you are <em>not</em> wealthy, get back to creating wealth for us (<em>i.e.</em>, work).</em>&rdquo;
    <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
@@ -211,7 +210,7 @@ image:    "the-power-of-the-powerless-icon.svg"
    <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
   <li id="en14">
-   In China, the <em>People&rsquo;s Republic</em> dictatorship seems to be a mix of decentralized owernship of business and centralized political power, but that is just a mirage for those of us outside of China. As Xi Jinping has shown, the so-called-private companies can be brought to kneel by the polical power, and their military, at any time, &ldquo;follow our orders, or else.&rdquo;
+   In China, the <em>People&rsquo;s Republic</em> dictatorship seems to be a mix of decentralized owernship of business and centralized political power, but that is just a mirage maintained for those of us outside the PRC. As Xi Jinping, the latest Party boss has shown, the so-called-private companies can be brought to kneel by the polical power and their violence machine. &ldquo;Follow our orders, or else.&rdquo;
    <<a href="https://radicals.world/f3Nboy">https://radicals.world/f3Nboy</a>>.
    <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
