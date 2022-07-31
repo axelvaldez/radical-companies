@@ -19,19 +19,19 @@ image:    "roundabouts-icon.svg"
   style="text-align:center; "
   src="/assets/img/traffic-lights.svg"
   width="70%"
-  alt="Traffic lights towers in the US, Europe, and Mexico: all pretty ugly."
+  alt="Traffic lights hanging from power cables in the US, Europe, and Mexico: all pretty ugly."
  >
- <p>Roundabouts could be homely, too, but mostly they are not. They usually match their surroundings, are very artistic, and can even be flamboyant. They don’t cost as much to “install” and maintenance, if any, is minimal. Most importantly, <em>the drivers manage their operation</em> according to what’s happening: sometimes they go in and other times they wait for other cars or pedestrians. There’s no bureaucracy to fight and the only “influence” that counts is that of the people at the intersection.</p>
+ <p>Roundabouts could be homely, too, but for the most part, they are not. They usually match their surroundings, can be very artistic, and even be flamboyant. They don’t cost as much to &ldquo;install&rdquo; and maintenance, if any, is minimal. Most importantly, <em>the drivers manage their operation</em> according to what’s happening: sometimes they go in and other times they wait for other cars or pedestrians. There&rsquo;s no bureaucracy to fight and the only &ldquo;influence&rdquo; that counts is that of the people at the intersection.</p>
   <img
    style="text-align:center; "
    src="/assets/img/roundabouts.svg"
    width="70%"
    alt="Roundabouts in matching their surroundings, artistics, and flamboyant. All very interesting and good looking."
   >
- <p>The point, of course, is not the money saving for the local government or the time savings for drivers. The important thing is that in Roundabouts <em>people don’t need an “authority” to tell them how to proceed</em>, they can figure out how to deal with what they see in the place, at the moment.</p>
- <p>Roundabouts represent decentralized decision-making, as in the c0-management model, and Traffic Lights centralized, corruptible, decision-making, as in the FIAT system we live in.</p>
+ <p>The point, of course, is not the money saving for the local government or the time savings for drivers. The important thing is that in Roundabouts <em>people don&rsquo;t need an &ldquo;authority&rdquo; to tell them how to proceed</em>, they can figure out how to deal with what they see in the place, at the moment.</p>
+ <p>Roundabouts represent decentralized decision-making and traffic lights represent centralized, corruptible, decision-making, as in the <span class="_paradigm">FIAT</span> system we live in.</p>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
+<h1 class="_section">RELATED</h1>
  <ul>
   <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
    <ul>
