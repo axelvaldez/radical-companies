@@ -22,7 +22,7 @@ image:    "roundabouts-icon.svg"
   style="display:block; margin:0 auto; width:90%; "
   src="/assets/img/roundabouts.svg"
   alt="Roundabouts in matching their surroundings, artistics, and flamboyant. All very interesting and good looking.">
- <p>The point, of course, is not the money saving for the local government or the time savings for drivers. The important thing is that in Roundabouts <em>people don&rsquo;t need an &ldquo;authority&rdquo; to tell them how to proceed</em>, they can figure out how to deal with what they see in the place, at the moment.</p>
+ <p>The point, of course, is not the money saving for the local government or the time savings for drivers. The important thing is that in Roundabouts <em>people don&rsquo;t need an &ldquo;authority&rdquo; to tell them how to proceed</em>, as adults they can figure out how to deal with what they see in the place, at the moment.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
