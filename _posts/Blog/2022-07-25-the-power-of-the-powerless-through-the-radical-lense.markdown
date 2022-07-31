@@ -149,13 +149,13 @@ image:    "the-power-of-the-powerless-icon.svg"
    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en03">
-   Vaclav Havel.
+   <p class="_list-item">Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/drH4npY">https://a.co/8WPhu0s</a>>
    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en04">
-   Vaclav Havel.
+   <p class="_list-item">Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/0lq6pO8">https://a.co/0lq6pO8</a>>
    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a></p>
