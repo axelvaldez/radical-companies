@@ -7,7 +7,7 @@ image:    "the-power-of-the-powerless-icon.svg"
 ---
 
 <div style="display:none;">
- <p>Dictatorships are held together by historical roots, ideology, and the very people they dominate. Looked at it through this lense, businesses are dictatorship and <em>The Power of Powerless</em> analysis applies to them as well.</p>
+ <p>Dictatorships are held together by historical roots, ideology, and the very people they dominate. Looked at it through this lense, businesses are dictatorship and Havel&rsquo;s analysis applies to them as well.</p>
 </div>
 
 <h1>&nbsp;</h1>
