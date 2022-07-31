@@ -17,8 +17,7 @@ image:    "roundabouts-icon.svg"
  <p>Roundabouts could be plain, though they uually match their surroundings. Oftentimes, they can be very artistic and even be flamboyant. They don’t cost as much to &ldquo;install&rdquo; and maintenance, if any, is minimal. Most importantly, <em>the drivers manage their operation</em> according to what’s happening: sometimes they go in and other times they wait for other vehicles or pedestrians. There&rsquo;s no bureaucracy to fight and the only &ldquo;influence&rdquo; that counts is that of the people at the intersection.</p>
  <img style="text-align:center; width:70%; "
   src="/assets/img/roundabouts.svg"
-  alt="Roundabouts in matching their surroundings, artistics, and flamboyant. All very interesting and good looking."
- >
+  alt="Roundabouts in matching their surroundings, artistics, and flamboyant. All very interesting and good looking.">
  <p>The point, of course, is not the money saving for the local government or the time savings for drivers. The important thing is that in Roundabouts <em>people don&rsquo;t need an &ldquo;authority&rdquo; to tell them how to proceed</em>, they can figure out how to deal with what they see in the place, at the moment.</p>
  <p>Roundabouts represent decentralized decision-making and traffic lights represent centralized, corruptible, decision-making, as in the <span class="_paradigm">FIAT</span> system we live in.</p>
 
