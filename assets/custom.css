@@ -255,6 +255,6 @@ td._spacer {
   column-span:all;
   font-size:x-small;
 }
-p._list-item {
+._list-item {
   padding-bottom:1px;
 }
