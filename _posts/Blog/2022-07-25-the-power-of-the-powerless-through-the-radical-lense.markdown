@@ -88,7 +88,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <tr>
    <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
    <td>
-    <p>Admittedly, democracies are better for people than dictatorships. Still, they both are different shapes &ldquo;&hellip; of the consumer and industrial society.&rdquo;<sup id="bm09"><a href="#en09">9</a></sup></p>
+    <p>Admittedly, democracies are better for people than dictatorships. Still, they both are different shapes &ldquo;&hellip; of the consumer and industrial society.&rdquo;<sup id="bm08"><a href="#en08">8</a></sup></p>
     <p>In other words, if we can agree that extremely centralized ownership (<em>i.e.</em> Soviet-style dictatorships) doesn't work as well as more decentralized ownership, then we must move towards an <em>even more</em> decentralized ownership model (<em>i.e.</em> co-owned companies)</p>
    </td>
   </tr>
@@ -101,17 +101,17 @@ image:    "the-power-of-the-powerless-icon.svg"
  <tr>
   <th><p>Huge<br>Power<br>Block</p></th>
   <td>
-   <p>Over time, and not due to a conspiracy or any such, businesses have come to make up a huge international block. We have to get over ourselves and wind down our support for them.We need to experiment with other models. The <span>RADICAL COMPANIES</span><sup id="bm10"><a href="#en10">10</a></sup> book offers a viable alternative.</p>
+   <p>Over time, and not due to a conspiracy or any such, businesses have come to make up a huge international block. We have to get over ourselves and wind down our support for them.We need to experiment with other models. The <span>RADICAL COMPANIES</span><sup id="bm09"><a href="#en09">9&nbsp;</a></sup> book offers a viable alternative.</p>
   </td>
  </tr>
  <tr>
   <th><p>Historical<br>Roots</p></th>
-  <td><p>History is made little by little and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat. According to David Graeber, author of sum <em>Debt: the First 5,000 Years</em>,<a id="bm11" href="#en11"><sup>11</sup></a> the fuel for this has been quantified debt which gave birth to anonymous, fungible monney, which made possible to extract wealth of the other people&rsquo;s efforts.</p></td>
+  <td><p>History is made little by little and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat. According to David Graeber, author of <em>Debt: the First 5,000 Years</em>,<a id="bm10" href="#en10"><sup>10</sup></a> the fuel for this has been quantified debt which gave birth to anonymous, fungible monney, which made possible to extract wealth of the other people&rsquo;s efforts.</p></td>
  </tr>
  <tr>
   <th><p>Ideology as<br>Securalized<br>Religion</p></th>
   <td>
-   <p>In the Soviet-style dictatorships, their ideology was based, in theory, onMarx prescriptions, poor as they were. &ldquo;<em>Workers of the world, unite!</em>&rdquo; Western democracyies&rsquo; ideology ends up being something like, &ldquo;<em>Work hard and you too can become wealthy. Otherwise, good luck!</em>.&rdquo;<a id="bm12" href="#en12"><sup>12</sup></a></p>
+   <p>In the Soviet-style dictatorships, their ideology was based, in theory, onMarx prescriptions, poor as they were. &ldquo;<em>Workers of the world, unite!</em>&rdquo; Western democracyies&rsquo; ideology ends up being something like, &ldquo;<em>Work hard and you too can become wealthy. Otherwise, good luck!</em>.&rdquo;<a id="bm11" href="#en11"><sup>11</sup></a></p>
   </td>
  </tr>
  <tr>
@@ -125,10 +125,10 @@ image:    "the-power-of-the-powerless-icon.svg"
   <td>
    <p>People&rsquo;s effort and commerce fuels dictatorships <em>and</em> democracies alike. This is not to say that they are alike: by far, democracy is preferable that dictatorships (<em>i.e.</em>, I've live under both systems). But the fact still remains that they are both fueled by people&rsquo;s effort and commerce.</p>
    <p>Through the efforts and commerce, people create wealth. In dictatorships, a lot of it goes to the State; in democracies, much of it goes to businesses and then the State. Most people keep enough to make a living, through many not even than, and a bit more trickles down from the State in the form of infrastructure (<em>e.g.</em>, roads and bridges) and institutions (<em>e.g.</em>, public schools); for all intents and purposes, no public goods emanate from businesses (<em>i.e.</em>, not even from B Corps). In other words, this wealth creates some public goods, but the overwheling portian of it ends up in private hands.</p>
-   <p>In the case of dictatorships, the top lives very well. In democracies, much of this wealth ends up in the hands of a few business owners who also live very well. In dictatorships and democracies, the rest is passed to the State where a lot of it ends up in the <em>industrial-military complex</em>.<a id="bm13" href="#en13"><sup>13</sup></a></p>
+   <p>In the case of dictatorships, the top lives very well. In democracies, much of this wealth ends up in the hands of a few business owners who also live very well. In dictatorships and democracies, the rest is passed to the State where a lot of it ends up in the <em>industrial-military complex</em>.<a id="bm12" href="#en12"><sup>12</sup></a></p>
    <p>Even the public goods benefit businesses and the government&rsquo;s interests <em>primarily</em>. Roads and bridges make it possible for people to get to work to create wealth for others; the same roads and bridges make it easier to move military muscle.</p>
    <p>Most of us tend to interpret this as, &rdquo;<em>thank goodness, because if it weren't for the State/businesses/military would not have nice things like bridges, roads, and schools.</em>&rdquo; Sadly, this mindset stops from doing anything about it while it literally burns our life boat. It is going to be difficult to understand, to really get, but centralization is not good for us. Centralized ownership is hostile to innovation, and creativity, and even hostile to commerce. What innovation there is, (<em>e,g,</em>, pharmaceuticals) is accidental and it overwhelmingly ends up as private goods.</p>
-   <p>If you believe, like I do, that decentralized ownership (<em>i.e.</em> democracy) is better than centralized State control (dictatorships)<a id="bm14" href="#en14"><sup>14</sup></a>, then it follows that you annd I should insist on <em>moving towards decentralization</em>. But, that requires a change in mindset that goes against everything we &ldquo;know,&rdquo; right?</p>
+   <p>If you believe, like I do, that decentralized ownership (<em>i.e.</em> democracy) is better than centralized State control (dictatorships)<a id="bm13" href="#en13"><sup>1</sup></a>, then it follows that you annd I should insist on <em>moving towards decentralization</em>. But, that requires a change in mindset that goes against everything we &ldquo;know,&rdquo; right?</p>
   </td>
  </tr>
  <tr>
@@ -179,21 +179,21 @@ image:    "the-power-of-the-powerless-icon.svg"
    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
   <li id="en08">
-   David Graeber. 2014.
-   <em>Debt: 5,00 Year History</em>
-   <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg</a>>
-   <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
-  </li>
-  <li id="en09">
    Vaclav Havel.
    <em>The Power of the Powerless</em>
    <<a href="https://a.co/bPEY1mO">https://a.co/bPEY1mO</a>>.
-   <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
+   <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
-  <li id="en10">
+  <li id="en09">
    Matt Perez, Adrian Perez, Jose Leal.
    <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
    <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>.
+   <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
+  </li>
+  <li id="en10">
+   David Graeber. 2014.
+   <em>Debt: 5,00 Year History</em>
+   <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg</a>>
    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
   <li id="en11">
