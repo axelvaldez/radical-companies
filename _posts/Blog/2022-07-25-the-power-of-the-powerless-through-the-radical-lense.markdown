@@ -11,7 +11,7 @@ image:    "the-power-of-the-powerless-icon.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Dictatorships are held together by historical roots, ideology, and the very people they dominate. Looked at it through this lense, businesses are dictatorship and <em>The Power of Powerless</em> analysis applies to them as well.</p>
+ <p>Dictatorships are held together by historical roots, ideology, and the very people they dominate. This is what Vaclav Havel concluded in the <em>The Power of Powerless</em>. Through this lense, <em>businesses are dictatorship</em>.</p>
 
 <h1>The Power of Dictatorships</h1>
  <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<sup id="bm01"><a href="#en01">1&nbsp;</a></sup></p>
