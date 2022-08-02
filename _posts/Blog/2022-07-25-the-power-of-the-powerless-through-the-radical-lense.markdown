@@ -14,9 +14,8 @@ image:    "the-power-of-the-powerless-icon.svg"
  <p>According to Václav Havel, dictatorships are held together by historical roots, ideology, and the very people they dominate. That is what he concluded in the <em>The Power of Powerless</em>. Looked at it through this lense, <em>businesses are dictatorship</em>.</p>
 
 <h1>The Power of Dictatorships</h1>
- <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<sup id="bm01"><a href="#en01">1&nbsp;</a></sup></p>
- <p>In the essay, the most powerful point he makes is that what keeps together dictatorships is the acceptance of the very people that they oppress.<sup id="bm02"><a href="#en02">2&nbsp;</a></sup> <span class="_paradigm">FIAT</span> businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate.</p>
- <p>He also observed that sovie-style dictatorship are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called &ldquo;the means of production,&rdquo; that is everything that can generate wealth. He also pointed out that Soviet-style dictatorships and Western democracies were different forms of the consumer-industrial society,</p>
+ <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.
+ <p>In the essay, his most striking observation is that what keeps together dictatorships is the acceptance of the very people that they oppress<sup id="bm02"><a href="#en02">2&nbsp;</a></sup>. <!-- Traditional <span class="_paradigm">FIAT</span> businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate. --> He also observed that sovie-style dictatorships<sup id="bm01"><a href="#en01">1&nbsp;</a></sup></p> are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of what Marx called &ldquo;the means of production,&rdquo; that is everything that can generate wealth. He also pointed out that Soviet-style dictatorships and Western democracies were different forms of the consumer-industrial society,</p>
  <table>
   <tr>
    <th><p>Huge<br>Power<br>Block</p></th>
@@ -145,7 +144,8 @@ image:    "the-power-of-the-powerless-icon.svg"
    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en02">
-   <p class="_list-item">Labels like <em>Left</em> or <em>Right</em> don&rsquo;t matter, dictatorships are the same, and they know it. For example, Cuba&rsquo;s Castro and Argentina&rsquo;s Perón had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo;
+   <p class="_list-item">Actually, the <em>Left</em> or <em>Right</em> labels don&rsquo;t matter, all dictatorships are the same. For example, Cuba&rsquo;s Castro (Left?) and Argentina&rsquo;s Per&oacute;n had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo;
+   See the Dictator&rsquo;s Handbook by Bruce Bueno de Mesquita <<a href="https://radicals.world/xO7ufx">https://radicals.world/xO7ufx</a>>
    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en03">
