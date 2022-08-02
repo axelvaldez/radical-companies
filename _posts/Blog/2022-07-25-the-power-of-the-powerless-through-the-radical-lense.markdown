@@ -210,7 +210,7 @@ image:    "the-power-of-the-powerless-icon.svg"
    <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en14">
-   <p class="_list-item">The story goes that in the <em>People&rsquo;s Republic of China</em> (PRC) dictatorship, private businesses and centralized political power co-habitate peacefully. You can have it all. At least that's the mirage created and maintained for people outside the PRC. As the latest Party boss, Xi Jinping has shown, the so-called-private companies can be brought to kneel by the dictatorships at any time. What really is going on is that they allow the very rich and the upper middle class to live well, but &ldquo;follow our orders, or else.&rdquo;
+   <p class="_list-item">The story goes that in the <em>People&rsquo;s Republic of China</em> (PRC) dictatorship, private businesses and centralized political power co-habitate peacefully. You can have it all. At least that's the mirage created and maintained for people outside the PRC. As the latest Party boss, Xi Jinping has shown, the so-called-private companies can be brought to kneel by the dictatorships at any time. What really is going on is that the regime allows the very rich and the upper middle class to live well, but &ldquo;follow our orders, or else.&rdquo;
    <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
  </ol>
