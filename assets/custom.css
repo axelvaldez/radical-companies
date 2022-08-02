@@ -269,6 +269,6 @@ td._spacer {
 ._paradigm {
   font-size:smaller;
 }
-a[href^='http'] {
-  target-name:_blank;
+a[href^="http"] {
+  color:red:
 }
