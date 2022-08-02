@@ -192,7 +192,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </li>
   <li id="en10">
    <p class="_list-item">David Graeber. 2014.
-   <strong>Debt: 5,00 Year History</strong>
+   <span style="font-weight:strong; font-style:italic; ">Debt: 5,00 Year History</span>
    <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg</a>>
    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
