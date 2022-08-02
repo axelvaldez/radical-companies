@@ -269,6 +269,6 @@ td._spacer {
 ._paradigm {
   font-size:smaller;
 }
-a:not([href$='#'])::after {
+a[href$='http']::after {
   content: ' target="_blank; "'
 }
