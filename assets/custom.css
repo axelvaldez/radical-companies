@@ -269,3 +269,6 @@ td._spacer {
 ._paradigm {
   font-size:smaller;
 }
+a:not([href$='#'])::after {
+  content: ' target="_blank; "'
+}
