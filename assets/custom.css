@@ -269,6 +269,10 @@ td._spacer {
 ._paradigm {
   font-size:smaller;
 }
+._book_title {
+  font-weight:bold;
+  font-style:italic;
+}
 a:not(href^="\#") {
   color:green;
 }
