@@ -215,7 +215,7 @@ image:    "the-power-of-the-powerless-icon.svg"
     David Graeber.
     <span class="_book_title">Debt: 5,00 Year History.</span>
     2014.
-    <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg</a>>
+    <<a href="https://radicals.world/MUUUcg" target="_blank">https://radicals.world/MUUUcg</a>>
     <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
