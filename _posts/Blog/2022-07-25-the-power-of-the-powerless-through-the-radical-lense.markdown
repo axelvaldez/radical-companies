@@ -163,7 +163,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <li id="en05">
    <p class="_list-item">Vaclav Havel.
    <span class="_book_title">The Power of the Powerless</span>
-   <<a href="https://a.co/eaqbk" target="_blank">https://a.co/eaqbk</a>>
+   <<a href="https://a.co/5iYNWtF" target="_blank">https://a.co/5iYNWtF</a>>
    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en06">
