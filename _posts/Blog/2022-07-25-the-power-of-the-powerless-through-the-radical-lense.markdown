@@ -140,48 +140,48 @@ image:    "the-power-of-the-powerless-icon.svg"
   <li id="en01">
    <p class="_list-item">Andy Kopsa.
    <span class="_book_title">Czechoslovakia&rsquo;s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</span>. November 2019.
-   <<a class="_goto" href="https://time.com/5730106/velvet-revolution-history/" target="_blank">https://time.com/5730106/velvet-revolution-history/</a>>
+   <<a href="https://time.com/5730106/velvet-revolution-history/" target="_blank">https://time.com/5730106/velvet-revolution-history/</a>>
    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en02">
    <p class="_list-item">Actually, the <em>Left</em> or <em>Right</em> labels don&rsquo;t matter, all dictatorships are the same. For example, Cuba&rsquo;s Castro (Left?) and Argentina&rsquo;s Per&oacute;n had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo;
-   See the Dictator&rsquo;s Handbook by Bruce Bueno de Mesquita <<a href="https://radicals.world/xO7ufx">https://radicals.world/xO7ufx</a>>
+   See the Dictator&rsquo;s Handbook by Bruce Bueno de Mesquita <<a href="https://radicals.world/xO7ufx" target="_blank">https://radicals.world/xO7ufx</a>>
    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en03">
    <p class="_list-item">Vaclav Havel.
    <span class="_book_title">The Power of the Powerless</span>
-   <<a href="https://a.co/drH4npY">https://a.co/8WPhu0s</a>>
+   <<a href="https://a.co/drH4npY" target="_blank">https://a.co/8WPhu0s</a>>
    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en04">
    <p class="_list-item">Vaclav Havel.
    <span class="_book_title">The Power of the Powerless</span>
-   <<a href="https://a.co/0lq6pO8">https://a.co/0lq6pO8</a>>
+   <<a href="https://a.co/0lq6pO8" target="_blank">https://a.co/0lq6pO8</a>>
    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en05">
    <p class="_list-item">Vaclav Havel.
    <span class="_book_title">The Power of the Powerless</span>
-   <<a href="https://a.co/eaqbk">https://a.co/eaqbk</a>>
+   <<a href="https://a.co/eaqbk" target="_blank">https://a.co/eaqbk</a>>
    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en06">
    <p class="_list-item">Vaclav Havel.
    <span class="_book_title">The Power of the Powerless</span>
-   <<a href="https://a.co/6sKvSlv">https://a.co/6sKvSlv</a>>
+   <<a href="https://a.co/6sKvSlv" target="_blank">https://a.co/6sKvSlv</a>>
    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en07">
    <p class="_list-item">Vaclav Havel.
    <span class="_book_title">The Power of the Powerless</span>
-   <<a href="https://a.co/enNA5rq">https://a.co/enNA5rq</a>>
+   <<a href="https://a.co/enNA5rq" target="_blank">https://a.co/enNA5rq</a>>
    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en08">
    <p class="_list-item">Vaclav Havel.
    <span class="_book_title">The Power of the Powerless</span>
-   <<a href="https://a.co/bPEY1mO">https://a.co/bPEY1mO</a>>.
+   <<a href="https://a.co/bPEY1mO" target="_blank">https://a.co/bPEY1mO</a>>.
    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en09">
@@ -206,7 +206,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   </li>
   <li id="en13">
    <p class="_list-item" style="padding-bottom:1px; ">The same industrial-military complex that then President Eisenhower warned us about in his 1960 Farewell Address. The plan was to wind dow our military muscle after Wold War II, but the war hardware producers managed to put the kibash on that. They got the military hooked on war toys. The military in turn got Congress hooked on pork programs that got them re-elected (<em>i.e.</em>, and this is what blocked President Eisenhower). And these pork programs created jobs that generated wealth that the war hardware producers need to kept the engine running.
-   <<a href="https://radicals.world/f3Nboy">https://radicals.world/f3Nboy</a>>
+   <<a href="https://radicals.world/f3Nboy" target="_blank">https://radicals.world/f3Nboy</a>>
    <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en14">
