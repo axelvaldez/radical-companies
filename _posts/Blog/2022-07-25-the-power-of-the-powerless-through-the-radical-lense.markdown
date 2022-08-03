@@ -139,7 +139,7 @@ image:    "the-power-of-the-powerless-icon.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">Andy Kopsa.
-   <em>Czechoslovakia&rsquo;s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</em>. November 2019.
+   <span class="_book_title">Czechoslovakia&rsquo;s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</span>. November 2019.
    <<a href="https://time.com/5730106/velvet-revolution-history/">https://time.com/5730106/velvet-revolution-history/</a>>
    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
@@ -150,49 +150,49 @@ image:    "the-power-of-the-powerless-icon.svg"
   </li>
   <li id="en03">
    <p class="_list-item">Vaclav Havel.
-   <em>The Power of the Powerless</em>
+   <span class="_book_title">The Power of the Powerless</span>
    <<a href="https://a.co/drH4npY">https://a.co/8WPhu0s</a>>
    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en04">
    <p class="_list-item">Vaclav Havel.
-   <em>The Power of the Powerless</em>
+   <span class="_book_title">The Power of the Powerless</span>
    <<a href="https://a.co/0lq6pO8">https://a.co/0lq6pO8</a>>
    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en05">
    <p class="_list-item">Vaclav Havel.
-   <em>The Power of the Powerless</em>
+   <span class="_book_title">The Power of the Powerless</span>
    <<a href="https://a.co/eaqbk">https://a.co/eaqbk</a>>
    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en06">
    <p class="_list-item">Vaclav Havel.
-   <em>The Power of the Powerless</em>
+   <span class="_book_title">The Power of the Powerless</span>
    <<a href="https://a.co/6sKvSlv">https://a.co/6sKvSlv</a>>
    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en07">
    <p class="_list-item">Vaclav Havel.
-   <em>The Power of the Powerless</em>
+   <span class="_book_title">The Power of the Powerless</span>
    <<a href="https://a.co/enNA5rq">https://a.co/enNA5rq</a>>
    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en08">
    <p class="_list-item">Vaclav Havel.
-   <em>The Power of the Powerless</em>
+   <span class="_book_title">The Power of the Powerless</span>
    <<a href="https://a.co/bPEY1mO">https://a.co/bPEY1mO</a>>.
    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en09">
    <p class="_list-item">Matt Perez, Adrian Perez, Jose Leal.
-   <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
+   <span class="_book_title">RADICAL COMPANIES: Without Bosses or Employees</span>.
    <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>.
    <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en10">
-   <p class="_list-item">David Graeber. 2014.
-   <span class="_book_title" style="font-weight:strong; font-style:italic; ">Debt: 5,00 Year History</span>
+   <p class="_list-item">David Graeber.
+   <span class="_book_title">Debt: 5,00 Year History.</span> 2014.
    <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg</a>>
    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
