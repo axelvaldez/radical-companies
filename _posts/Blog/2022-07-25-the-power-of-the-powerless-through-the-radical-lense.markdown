@@ -38,13 +38,13 @@ image:    "the-power-of-the-powerless-icon.svg"
   <tr>
    <th><p>State<br>Ownership</p></th>
    <td>
-    <p>&ldquo;&hellip; state ownership and central direction of all the means of production.&rdquo;<sup id="bm06"><a href="#en06">6&nbsp;</a></sup></p>
+    <p>The dictatorship has &ldquo;ownership and central direction of all the means of production.&rdquo;<sup id="bm06"><a href="#en06">6&nbsp;</a></sup></p>
    </td>
   </tr>
   <tr>
    <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
    <td>
-    <p>This type of dictatorship is &ldquo;&hellip; another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="bm07"><a href="#en07">7&nbsp;</a></sup></p>
+    <p>This type of dictatorship is &ldquo;another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<sup id="bm07"><a href="#en07">7&nbsp;</a></sup></p>
    </td>
   </tr>
   <tr>
