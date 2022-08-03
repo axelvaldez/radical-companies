@@ -201,7 +201,7 @@ image:    "the-power-of-the-powerless-icon.svg"
    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en12">
-   <p class="_list-item">And no public goods emanate from businesses (<em>i.e.</em>, no, not even from B Corps).
+   <p class="_list-item">And no public goods emanate from businesses (<em>i.e.</em>, not even from B Corps).
    <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en13">
