@@ -187,7 +187,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <li id="en09">
    <p class="_list-item">Matt Perez, Adrian Perez, Jose Leal.
    <span class="_book_title">RADICAL COMPANIES: Without Bosses or Employees</span>.
-   <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>.
+   <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>. 2020.
    <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en10">
