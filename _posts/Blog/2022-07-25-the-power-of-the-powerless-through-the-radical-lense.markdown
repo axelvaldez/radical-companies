@@ -15,7 +15,7 @@ image:    "the-power-of-the-powerless-icon.svg"
 
 <h1>The Power of Dictatorships</h1>
  <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.
- <p>In the essay, his most striking observation is that what keeps together dictatorships is the acceptance of the very people that they oppress<sup id="bm02"><a href="#en02">2&nbsp;</a></sup>. <!-- Traditional <span class="_paradigm">FIAT</span> businesses are dictatorships interested only in extracting as much wealth as they can from the people they domninate. --> He also observed that sovie-style dictatorships<sup id="bm01"><a href="#en01">1&nbsp;</a></sup> are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of &ldquo;the means of production,&rdquo; that is, everything that can generate wealth, including people. Havel also pointed out that Soviet-style dictatorships and Western democracies were different forms of the consumer-industrial society,</p>
+ <p>In the essay, his most striking observation is that what keeps together dictatorships is the acceptance of the very people that they oppress<sup id="bm02"><a href="#en02">2&nbsp;</a></sup>. He also observed that sovie-style dictatorships<sup id="bm01"><a href="#en01">1&nbsp;</a></sup> are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of &ldquo;the means of production,&rdquo; that is, everything that can generate wealth, including people. In summary,</p>
  <table>
   <tr>
    <th><p>Huge<br>Power<br>Block</p></th>
@@ -26,7 +26,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <tr>
    <th><p>Historical<br>Roots</p></th>
    <td>
-    <p>he system does not lack historical roots in that it took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="bm04"><a href="#en04">4&nbsp;</a></sup></p>
+    <p>The system does not lack historical roots. It took form on the back of &ldquo;the proletarian social movements of the nineteenth century.&rdquo;<sup id="bm04"><a href="#en04">4&nbsp;</a></sup></p>
    </td>
   </tr>
   <tr>
@@ -140,7 +140,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <li id="en01">
    <p class="_list-item">Andy Kopsa.
    <span class="_book_title">Czechoslovakia&rsquo;s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</span>. November 2019.
-   <<a href="https://time.com/5730106/velvet-revolution-history/">https://time.com/5730106/velvet-revolution-history/</a>>
+   <<a href="https://time.com/5730106/velvet-revolution-history/" target="_blank">https://time.com/5730106/velvet-revolution-history/</a>>
    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en02">
