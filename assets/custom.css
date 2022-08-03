@@ -273,6 +273,6 @@ td._spacer {
   font-weight:bold;
   font-style:italic;
 }
-a:not(href^="\#") {
+a :not(href^="\#") {
   color:green;
 }
