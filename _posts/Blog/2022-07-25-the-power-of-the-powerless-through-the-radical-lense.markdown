@@ -98,44 +98,45 @@ image:    "the-power-of-the-powerless-icon.svg"
 <p>Businesses fit <em>every one</em> of theses observations,</p>
 
 <h1>Businesses Are Dictatorships</h1>
-<table>
- <tr>
-  <th><p>Huge<br>Power<br>Block</p></th>
-  <td>
-   <p>Over time, businesses have come to make up a huge international block (i.e., and, no, not due to a conspiracy or any such). We need to experiment with models based on communities of people instead. The RADICAL COMPANIES book offers a viable alternative.<a id="bm09" href="#en09"><sup>9&nbsp;</sup></a></p>
-  </td>
- </tr>
- <tr>
-  <th><p>Historical<br>Roots</p></th>
-  <td><p>History is made little by little and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat, little by little. According to David Graeber, author of <em>Debt: the First 5,000 Years</em>,<a id="bm10" href="#en10"><sup>10</sup></a> the fuel for this has been debt which gave birth to anonymous, fungible money, which made it easy to extract wealth from people&rsquo;s efforts.</p></td>
- </tr>
- <tr>
-  <th><p>Ideology as<br>Securalized<br>Religion</p></th>
-  <td>
-   <p>In Soviet-style dictatorships, their ideology was based, on Marx prescriptions, poor as they were. &ldquo;<em>Workers of the world, unite!</em>&rdquo;</p>
-   <p>Western democracies&rsquo; ideology ends up being something like, &ldquo;<em>Work hard and you, too, can become wealthy. Good luck!</em>.&rdquo;<a id="bm11" href="#en11"><sup>11</sup></a></p>
-  </td>
- </tr>
- <tr>
-  <th><p>State<br>Ownership</p></th>
-  <td>
-   <p>New wealth creates some public goods, but much of it ends up as private goods. In the case of dictatorships, the party bosses live very well (<em>i.e.</em>, off their private goods) and get to command the allocation of the rest. In democracies, much of this wealth ends up in the hands of a few business owners who also live very well, but the rest of this wealth is passed to the State from which public goods comes out.</p>
-  </td>
- </tr>
- <tr>
-  <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
-  <td>
-   <p>People&rsquo;s effort and commerce fuels dictatorships <em>and</em> democracies alike. This is not to say that they are alike: by far, democracy is preferable to dictatorship (<em>i.e.</em>, I've lives under both systems). But the fact still remains that they are both fueled by people&rsquo;s effort and commerce.</p>
-   <p>Through their efforts and commerce, people create wealth. In dictatorships, a lot of it goes to the State; in democracies, much of it goes to businesses and then the State. People keep enough to make a living, through many not even than, and some public goods trickle down from the State (<em>e.g.</em>, roads, bridges, public schools).<a id="bm12" href="#en12"><sup>12</sup></a> In other words, this wealth creates some public goods, but the overwheling portian of it ends up in private hands. But even these public goods benefit <em>primarily</em> the interests of businesses and the State. Roads and bridges make it possible for people to get to work to create wealth for businesses and the same roads and bridges make it easier to move the tanks where the State needs the muscle. It so happens to be the same roads and bridges that people use to go to the beach on weekends.</p>
+ <p>Businesses fit surprisingly well in Havel&rsquo;s framework and this means that democracies are based on dictatorships called businesses. We have an intuitive feeling that "my government is not a business" and we go back and forth on it and struggle to keep a balance. The RADICAL model would convert the dictatorships called busisseness into companies that operate more like democracies. People who learn to own a company as co-owners would know how to co-own their governamce.</p>
+ <table>
+  <tr>
+   <th><p>Huge<br>Power<br>Block</p></th>
+   <td>
+    <p>Over time, businesses have come to make up a huge international block (i.e., and, no, not due to a conspiracy or any such). We need to experiment with models based on communities of people instead. The RADICAL COMPANIES book offers a viable alternative.<a id="bm09" href="#en09"><sup>9&nbsp;</sup></a></p>
+   </td>
+  </tr>
+  <tr>
+   <th><p>Historical<br>Roots</p></th>
+   <td><p>History is made little by little and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat, little by little. According to David Graeber, author of <em>Debt: the First 5,000 Years</em>,<a id="bm10" href="#en10"><sup>10</sup></a> the fuel for this has been debt which gave birth to anonymous, fungible money, which made it easy to extract wealth from people&rsquo;s efforts.</p></td>
+  </tr>
+  <tr>
+   <th><p>Ideology as<br>Securalized<br>Religion</p></th>
+   <td>
+    <p>In Soviet-style dictatorships, their ideology was based, on Marx prescriptions, poor as they were. &ldquo;<em>Workers of the world, unite!</em>&rdquo;</p>
+    <p>Western democracies&rsquo; ideology ends up being something like, &ldquo;<em>Work hard and you, too, can become wealthy. Good luck!</em>.&rdquo;<a id="bm11" href="#en11"><sup>11</sup></a></p>
+   </td>
+  </tr>
+  <tr>
+   <th><p>State<br>Ownership</p></th>
+   <td>
+    <p>New wealth creates some public goods, but much of it ends up as private goods. In the case of dictatorships, the party bosses live very well (<em>i.e.</em>, off their private goods) and get to command the allocation of the rest. In democracies, much of this wealth ends up in the hands of a few business owners who also live very well, but the rest of this wealth is passed to the State from which public goods comes out.</p>
+   </td>
+  </tr>
+  <tr>
+   <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
+   <td>
+    <p>People&rsquo;s effort and commerce fuels dictatorships <em>and</em> democracies alike. This is not to say that they are alike: by far, democracy is preferable to dictatorship (<em>i.e.</em>, I've lives under both systems). But the fact still remains that they are both fueled by people&rsquo;s effort and commerce.</p>
+    <p>Through their efforts and commerce, people create wealth. In dictatorships, a lot of it goes to the State; in democracies, much of it goes to businesses and then the State. People keep enough to make a living, through many not even than, and some public goods trickle down from the State (<em>e.g.</em>, roads, bridges, public schools).<a id="bm12" href="#en12"><sup>12</sup></a> In other words, this wealth creates some public goods, but the overwheling portian of it ends up in private hands. But even these public goods benefit <em>primarily</em> the interests of businesses and the State. Roads and bridges make it possible for people to get to work to create wealth for businesses and the same roads and bridges make it easier to move the tanks where the State needs the muscle. It so happens to be the same roads and bridges that people use to go to the beach on weekends.</p>
    <p>I should also point out that in both dictatorships and democracies a lot of this wealth ends up in the so-called <em>industrial-military complex</em>.<a id="bm13" href="#en13"><sup>13</sup></a></p>
-   <p>Most of us learn to see this centralization of power as positive, &rdquo;<em>thank goodness, because if it weren't for the State/businesses/military would not have nice things like bridges, roads, and schools.</em>&rdquo; Sadly, even though this system is literally burning our life boat, this mindset stops us from doing anything about. We need to decentralize decision-making. Centralization is not good for us. It is hostile to innovation and even hostile to commerce. What innovation there is, (<em>e,g,</em>, in medicine) is accidental and it overwhelmingly ends up as private goods.</p>
-  </td>
- </tr>
- <tr>
-  <td class="_spacer">&nbsp;</td>
- </tr>
-</table>
-<p>If you believe, as I do, that decentralized ownership and decision-making (<em>i.e.</em> democracy) is better than centralized State control (dictatorships), <a id="bm14" href="#en14"><sup>14</sup></a> then it follows that we should insist on <em>moving towards decentralization</em>. Unfortunately, this will require a change in mindset that goes against everything we &ldquo;know,&rdquo;</p>
+    <p>Most of us learn to see this centralization of power as positive, &rdquo;<em>thank goodness, because if it weren't for the State/businesses/military would not have nice things like bridges, roads, and schools.</em>&rdquo; Sadly, even though this system is literally burning our life boat, this mindset stops us from doing anything about. We need to decentralize decision-making. Centralization is not good for us. It is hostile to innovation and even hostile to commerce. What innovation there is, (<em>e,g,</em>, in medicine) is accidental and it overwhelmingly ends up as private goods.</p>
+   </td>
+  </tr>
+  <tr>
+   <td class="_spacer">&nbsp;</td>
+  </tr>
+ </table>
+ <p>If you believe, as I do, that decentralized ownership and decision-making (<em>i.e.</em> democracy) is better than centralized State control (dictatorships), <a id="bm14" href="#en14"><sup>14</sup></a> then it follows that we should insist on <em>moving towards decentralization</em>. Unfortunately, this will require a change in mindset that goes against everything we &ldquo;know,&rdquo;</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
