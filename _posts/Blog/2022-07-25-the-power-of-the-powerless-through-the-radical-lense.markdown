@@ -133,7 +133,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <td class="_spacer">&nbsp;</td>
  </tr>
 </table>
-<p>If you believe, as I do, that decentralized ownership and decision-making (<em>i.e.</em> democracy) is better than centralized State control (dictatorships)<a id="bm14" href="#en14"><sup>14</sup></a>, then it follows that we should insist on <em>moving towards decentralization</em>. Unfortunately, this will require a change in mindset that goes against everything we &ldquo;know,&rdquo;</p>
+<p>If you believe, as I do, that decentralized ownership and decision-making (<em>i.e.</em> democracy) is better than centralized State control (dictatorships), <a id="bm14" href="#en14"><sup>14</sup></a> then it follows that we should insist on <em>moving towards decentralization</em>. Unfortunately, this will require a change in mindset that goes against everything we &ldquo;know,&rdquo;</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
