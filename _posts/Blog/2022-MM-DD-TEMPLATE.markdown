@@ -10,10 +10,10 @@ image:    "about-daos.svg"
  <p></p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">H1</h1>
+<h1>H1</h1>
  <p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
 
-<img style="margin:0 auto; " src="/assets/img/en-alignment.svg" alt="" width="70%">
+<img style="margin:0 auto; " src="/assets/img/en-alignment.svg" width="70%" alt="">
 
 <h1 class="_section">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
