@@ -98,7 +98,7 @@ image:    "the-power-of-the-powerless-icon.svg"
 <p>Businesses fit <em>every one</em> of theses observations,</p>
 
 <h1>Businesses Are Dictatorships</h1>
- <p>Businesses fit surprisingly well in Havel&rsquo;s framework. This means that <em>democracies are based on dictatorships</em> called businesses. We have an intuitive feeling that "my government is not a business" and we go back and forth on it and struggle to keep a balance. The RADICAL model would convert the dictatorships called busisseness into companies that operate more like democracies. People who learn to own a company as co-owners would know how to co-own their governamce.</p>
+ <p>Businesses fit surprisingly well in Havel&rsquo;s framework. This means that <em>democracies are based on dictatorships</em> called businesses. Intuitive we know that &ldquo;government is not a business&rdquo;, but we go back and forth on it and we struggle to keep a balance. The RADICAL model would aims at converting <em>dictatorships called busisseness</em> into <em>companies that operate more like democracies</em>. A big side-effect of doing this is that as people will be intimately engaged in their governance. As they learn to be co-owners of a company, the learn to co-own their governamce as well.</p>
  <table>
   <tr>
    <th><p>Huge<br>Power<br>Block</p></th>
