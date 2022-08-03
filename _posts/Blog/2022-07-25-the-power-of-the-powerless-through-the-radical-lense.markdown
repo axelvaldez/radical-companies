@@ -140,7 +140,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <li id="en01">
    <p class="_list-item">Andy Kopsa.
    <span class="_book_title">Czechoslovakia&rsquo;s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</span>. November 2019.
-   <<a href="https://time.com/5730106/velvet-revolution-history/" target="_blank">https://time.com/5730106/velvet-revolution-history/</a>>
+   <<a class="_goto" href="https://time.com/5730106/velvet-revolution-history/" target="_blank">https://time.com/5730106/velvet-revolution-history/</a>>
    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a></p>
   </li>
   <li id="en02">
