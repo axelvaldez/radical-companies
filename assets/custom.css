@@ -269,6 +269,6 @@ td._spacer {
 ._paradigm {
   font-size:smaller;
 }
-a:not(href^='#') {
+a:not(href^="http") {
   color:green;
 }
