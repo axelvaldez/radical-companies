@@ -15,10 +15,10 @@ image:    "about-daos.svg"
 
 <img style="margin:0 auto; " src="/assets/img/en-alignment.svg" alt="" width="70%">
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50px 0 20px 0; ">ENDNOTES</h1>
+<h1 class="_section">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="en01">
-   <p class="_list-item">
+   <p class="_list-item" style="width:1.5in; ">
     AUTHOR(S)
     TITLE
     PUBLICATION YEAR
@@ -27,7 +27,7 @@ image:    "about-daos.svg"
    </p>
  </ol>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
+<h1 class="_section">RELATED</h1>
  <ul>
   <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
    <ul>
