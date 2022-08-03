@@ -98,23 +98,23 @@ image:    "the-power-of-the-powerless-icon.svg"
 <p>Businesses fit <em>every one</em> of theses observations,</p>
 
 <h1>Businesses Are Dictatorships</h1>
- <p>Businesses fit surprisingly well in Havel&rsquo;s framework. This means that <em>democracies are based on dictatorships</em> called businesses. Intuitive we know that &ldquo;government is not a business&rdquo;, but we go back and forth on it and we struggle to keep a balance. The RADICAL model would aims at converting <em>dictatorships called busisseness</em> into <em>companies that operate more like democracies</em>. A big side-effect of doing this is that as people will be intimately engaged in their governance. As they learn to be co-owners of a company, the learn to co-own their governamce as well.</p>
+ <p>Businesses fit surprisingly well in Havel&rsquo;s framework. This means that <em>democracies are based on dictatorships</em> called businesses. Intuitive we know that &ldquo;government is not a business&rdquo;, but we go back and forth on it and we struggle to keep a balance. The <span class="_paradigm">RADICAL</span> model is a tool to convert dictatorships called <em>busisseness</em> into <em>companies</em><a id="bm09" href="#en09"><sup>9&nbsp;</sup></a></p> that operate more like democracies. A big side-effect of doing this is that as people will be intimately engaged in their governance. As they learn to be co-owners of a company, the learn to co-own their governamce as well.</p>
  <table>
   <tr>
    <th><p>Huge<br>Power<br>Block</p></th>
    <td>
-    <p>Over time, businesses have come to make up a huge international block (i.e., and, no, not due to a conspiracy or any such). We need to experiment with models based on communities of people instead. The RADICAL COMPANIES book offers a viable alternative.<a id="bm09" href="#en09"><sup>9&nbsp;</sup></a></p>
+    <p>Over time, businesses have come to make up a huge international block (i.e., and, no, not due to a conspiracy or any such). We need to experiment with models based on communities of people instead. The RADICAL COMPANIES book offers a viable alternative.<a id="bm10" href="#en10"><sup>10</sup></a></p>
    </td>
   </tr>
   <tr>
    <th><p>Historical<br>Roots</p></th>
-   <td><p>History is made little by little and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat, little by little. According to David Graeber, author of <em>Debt: the First 5,000 Years</em>,<a id="bm10" href="#en10"><sup>10</sup></a> the fuel for this has been debt which gave birth to anonymous, fungible money, which made it easy to extract wealth from people&rsquo;s efforts.</p></td>
+   <td><p>History is made little by little and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat, little by little. According to David Graeber, author of <em>Debt: the First 5,000 Years</em>,<a id="bm11" href="#en11"><sup>11</sup></a> the fuel for this has been debt which gave birth to anonymous, fungible money, which made it easy to extract wealth from people&rsquo;s efforts.</p></td>
   </tr>
   <tr>
    <th><p>Ideology as<br>Securalized<br>Religion</p></th>
    <td>
     <p>In Soviet-style dictatorships, their ideology was based, on Marx prescriptions, poor as they were. &ldquo;<em>Workers of the world, unite!</em>&rdquo;</p>
-    <p>Western democracies&rsquo; ideology ends up being something like, &ldquo;<em>Work hard and you, too, can become wealthy. Good luck!</em>.&rdquo;<a id="bm11" href="#en11"><sup>11</sup></a></p>
+    <p>Western democracies&rsquo; ideology ends up being something like, &ldquo;<em>Work hard and you, too, can become wealthy. Good luck!</em>.&rdquo;<a id="bm12" href="#en12"><sup>12</sup></a></p>
    </td>
   </tr>
   <tr>
@@ -127,8 +127,8 @@ image:    "the-power-of-the-powerless-icon.svg"
    <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
    <td>
     <p>People&rsquo;s effort and commerce fuels dictatorships <em>and</em> democracies alike. This is not to say that they are alike: by far, democracy is preferable to dictatorship (<em>i.e.</em>, I've lives under both systems). But the fact still remains that they are both fueled by people&rsquo;s effort and commerce.</p>
-    <p>Through their efforts and commerce, people create wealth. In dictatorships, a lot of it goes to the State; in democracies, much of it goes to businesses and then the State. People keep enough to make a living, through many not even than, and some public goods trickle down from the State (<em>e.g.</em>, roads, bridges, public schools).<a id="bm12" href="#en12"><sup>12</sup></a> In other words, this wealth creates some public goods, but the overwheling portian of it ends up in private hands. But even these public goods benefit <em>primarily</em> the interests of businesses and the State. Roads and bridges make it possible for people to get to work to create wealth for businesses and the same roads and bridges make it easier to move the tanks where the State needs the muscle. It so happens to be the same roads and bridges that people use to go to the beach on weekends.</p>
-   <p>I should also point out that in both dictatorships and democracies a lot of this wealth ends up in the so-called <em>industrial-military complex</em>.<a id="bm13" href="#en13"><sup>13</sup></a></p>
+    <p>Through their efforts and commerce, people create wealth. In dictatorships, a lot of it goes to the State; in democracies, much of it goes to businesses and then the State. People keep enough to make a living, through many not even than, and some public goods trickle down from the State (<em>e.g.</em>, roads, bridges, public schools).<a id="bm13" href="#en13"><sup>13</sup></a> In other words, this wealth creates some public goods, but the overwheling portian of it ends up in private hands. But even these public goods benefit <em>primarily</em> the interests of businesses and the State. Roads and bridges make it possible for people to get to work to create wealth for businesses and the same roads and bridges make it easier to move the tanks where the State needs the muscle. It so happens to be the same roads and bridges that people use to go to the beach on weekends.</p>
+   <p>I should also point out that in both dictatorships and democracies a lot of this wealth ends up in the so-called <em>industrial-military complex</em>.<a id="bm14" href="#en14"><sup>14</sup></a></p>
     <p>Most of us learn to see this centralization of power as positive, &rdquo;<em>thank goodness, because if it weren't for the State/businesses/military would not have nice things like bridges, roads, and schools.</em>&rdquo; Sadly, even though this system is literally burning our life boat, this mindset stops us from doing anything about. We need to decentralize decision-making. Centralization is not good for us. It is hostile to innovation and even hostile to commerce. What innovation there is, (<em>e,g,</em>, in medicine) is accidental and it overwhelmingly ends up as private goods.</p>
    </td>
   </tr>
@@ -136,7 +136,7 @@ image:    "the-power-of-the-powerless-icon.svg"
    <td class="_spacer">&nbsp;</td>
   </tr>
  </table>
- <p>If you believe, as I do, that decentralized ownership and decision-making (<em>i.e.</em> democracy) is better than centralized State control (dictatorships), <a id="bm14" href="#en14"><sup>14</sup></a> then it follows that we should insist on <em>moving towards decentralization</em>. Unfortunately, this will require a change in mindset that goes against everything we &ldquo;know,&rdquo;</p>
+ <p>If you believe, as I do, that decentralized ownership and decision-making (<em>i.e.</em> democracy) is better than centralized State control (dictatorships), <a id="bm15" href="#en15"><sup>15</sup></a> then it follows that we should insist on <em>moving towards decentralization</em>. Unfortunately, this will require a change in mindset that goes against everything we &ldquo;know,&rdquo;</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
@@ -206,45 +206,51 @@ image:    "the-power-of-the-powerless-icon.svg"
   </li>
   <li id="en09">
    <p class="_list-item">
-    Matt Perez, Adrian Perez, Jose Leal.
-    <span class="_book_title">RADICAL COMPANIES: Without Bosses or Employees</span>.
-    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
-    2020.
+    <em>Company</em> comes from Latin as <em>com-</em> and <em>pan</em>, meaning bread. It refers to a group of people who break bread together.
     <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en10">
    <p class="_list-item">
-    David Graeber.
-    <span class="_book_title">Debt: 5,00 Year History.</span>
-    2014.
-    <<a href="https://radicals.world/MUUUcg" target="_blank">https://radicals.world/MUUUcg</a>>
+    Matt Perez, Adrian Perez, Jose Leal.
+    <span class="_book_title">RADICAL COMPANIES: Without Bosses or Employees</span>.
+    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
+    2020.
     <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en11">
    <p class="_list-item">
-    Chinese-style dictatorships&rsquo;s &ldquo;ideology&rdquo; seems to be something like, &ldquo;<em>Work hard, become wealthy, and we'll leave you alone unless you threaten our political control (and then we'll dissappear you). If you are <em>not</em> wealthy, be obedient and  get back work (<em>i.e.</em>, to create wealth for us).</em>&rdquo;
+    David Graeber.
+    <span class="_book_title">Debt: 5,00 Year History.</span>
+    2014.
+    <<a href="https://radicals.world/MUUUcg" target="_blank">https://radicals.world/MUUUcg</a>>
     <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en12">
    <p class="_list-item">
-    And no public goods emanate from businesses (<em>i.e.</em>, not even from B Corps).
+    Chinese-style dictatorships&rsquo;s &ldquo;ideology&rdquo; seems to be something like, &ldquo;<em>Work hard, become wealthy, and we'll leave you alone unless you threaten our political control (and then we'll dissappear you). If you are <em>not</em> wealthy, be obedient and  get back work (<em>i.e.</em>, to create wealth for us).</em>&rdquo;
     <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en13">
-   <p class="_list-item" style="padding-bottom:1px; ">
-    The same industrial-military complex that then President Eisenhower warned us about in his 1960 Farewell Address. The plan was to wind dow our military muscle after Wold War II, but the war hardware producers managed to put the kibash on that. They got the military hooked on war toys. The military in turn got Congress hooked on pork programs that got them re-elected (<em>i.e.</em>, and this is what blocked President Eisenhower). And these pork programs created jobs that generated wealth that the war hardware producers needed to kept the engine running.
-    <<a href="https://radicals.world/f3Nboy" target="_blank">https://radicals.world/f3Nboy</a>>
+   <p class="_list-item">
+    And no public goods emanate from businesses (<em>i.e.</em>, not even from B Corps).
     <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en14">
+   <p class="_list-item" style="padding-bottom:1px; ">
+    The same industrial-military complex that then President Eisenhower warned us about in his 1960 Farewell Address. The plan was to wind dow our military muscle after Wold War II, but the war hardware producers managed to put the kibash on that. They got the military hooked on war toys. The military in turn got Congress hooked on pork programs that got them re-elected (<em>i.e.</em>, and this is what blocked President Eisenhower). And these pork programs created jobs that generated wealth that the war hardware producers needed to kept the engine running.
+    <<a href="https://radicals.world/f3Nboy" target="_blank">https://radicals.world/f3Nboy</a>>
+    <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en15">
    <p class="_list-item">
     The story goes that in the <em>People&rsquo;s Republic of China</em> (PRC) dictatorship, private businesses and centralized political power co-habitate peacefully. You can have it all. At least that's the mirage created and maintained for people outside the PRC. As the latest Party boss, Xi Jinping has shown, the so-called-private companies can be brought to kneel by the dictatorships at any time. What really is going on is that the regime allows a handful of people (<em>i.e.</em>, the very rich and the upper middle class) to live well so long as they &ldquo;follow our orders, or else.&rdquo;
-    <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm15"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
