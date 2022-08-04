@@ -269,3 +269,8 @@ td._spacer {
 ._paradigm {
   font-size:smaller;
 }
+._uderDev {
+  font-weight:bold;
+  font-family:roboto, sans-serif;
+  font-size:x-small;
+}
