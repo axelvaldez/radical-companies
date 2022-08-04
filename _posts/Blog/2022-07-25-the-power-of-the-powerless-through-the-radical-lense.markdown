@@ -102,20 +102,24 @@ image:    "the-power-of-the-powerless-icon.svg"
  
  <table>
   <tr>
-   <th><p>Huge<br>Power<br>Block</p></th>
+   <th>
+    <p>Huge<br>Power<br>Block</p>
+   </th>
    <td>
     <p>Over time, businesses have come to make up a huge international block (<em>i.e.</em>, and, no, not due to a conspiracy or any such). We need to experiment with models based on people and their communities instead. The <span class="_paradigm">RADICAL COMPANIES<span> book offers a viable model.<!--<a id="bm10" href="#en10"><sup>10</sup></a>--></p>
-   </td>
-  </tr>
-  <tr>
-   <th><p>Historical<br>Roots</p></th>
-   <td>
-    <p>History is made little by little and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat, little by little. According to David Graeber, author of <em>Debt: the First 5,000 Years</em>,<a id="bm11" href="#en11"><sup>11</sup></a> the fuel for this has been debt. Quatified debt gave birth to money which in turn made it easy to extract and accumulate wealth.</p>
    </td>
   </tr>
  </table>
 
  <!--
+  <tr>
+   <th>
+    <p>Historical<br>Roots</p>
+   </th>
+   <td>
+    <p>History is made little by little and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat, little by little. According to David Graeber, author of <em>Debt: the First 5,000 Years</em>,<a id="bm11" href="#en11"><sup>11</sup></a> the fuel for this has been debt. Quatified debt gave birth to money which in turn made it easy to extract and accumulate wealth.</p>
+   </td>
+  </tr>
   <tr>
    <th><p>Ideology as<br>Securalized<br>Religion</p></th>
    <td>
