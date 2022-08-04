@@ -310,7 +310,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <li>rProjects,</li>
    <ul>
     <li>REMARK!: <a href="https://radicalcompanies.com/2022/05/18/REMARK" target="_blank">&hellip;/REMARK</a></li>
-    <li">RADs!: <a href="https://radicalcompanies.com/2022/05/19/RADs!" target="_blank">&hellip;/RADs!</a> <span style="font-weight:bold; ">[Under development]</span></li>
+    <li>RADs!: <a href="https://radicalcompanies.com/2022/05/19/RADs!" target="_blank">&hellip;/RADs!</a> <span style="font-weight:bold; ">[Under development]</span></li>
     <li>Attentive UI: <a href="https://radicalcompanies.com/2022/05/17/attentive-ui.html" target="_blank">&hellip;attentive-ui.html</a></li>
    </ul>
  </ul>
