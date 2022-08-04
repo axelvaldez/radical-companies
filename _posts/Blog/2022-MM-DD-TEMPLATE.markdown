@@ -54,12 +54,12 @@ image:    "about-daos.svg"
        <li>RADICALS.LIVE!: <a href="https://radicalcompanies.com/2022/04/04/RADICALS-Live" target="_blank">&hellip;/RADICALS-Live</a></li>
        <li>RADICAL MBA: <a href="https://radicalcompanies.com/2022/04/03/RADICAL-MBA" target="_blank">&hellip;/RADICAL-MBA</a></li>
       </ul>
-     <li>rHatchery: <a href="https://radicalcompanies.com/2022/05/16/rHatchery" target="_blank">&hellip;/rHatchery</a></li>
+     <li>rHatchery: <a href="https://radicalcompanies.com/2022/05/16/rHatchery" target="_blank">&hellip;/rHatchery</a> <span style="font-weight:bold; ">[Under development]</span></li>
      <li>rCircuit: <a href="https://radicalcompanies.com/2022/04/05/rCircuit" target="_blank">&hellip;/rCircuit</a></li>
      <li>rPlayGym: <a href="https://radicalcompanies.com/2022/04/06/rPlayGym" target="_blank">&hellip;/rPlayGym</a></li>
      <li>rEnsembles,</li>
       <ul>
-       <li>rCORE: <a href="https://radicalcompanies.com/2022/05/15/rCORE" target="_blank">&hellip;/rCORE</a></li>
+       <li>rCORE: <a href="https://radicalcompanies.com/2022/05/15/rCORE" target="_blank">&hellip;/rCORE</a> <span style="font-weight:bold; ">[Under development]</span></li>
        <li>rClean: <a href="https://radicalcompanies.com/2022/05/14/rClean" target="_blank">&hellip;/rClean</a></li>
        <li>rStayHome: <a href="https://radicalcompanies.com/2022/05/12/rStayHome" target="_blank">&hellip;/rStayHome</a></li>
        <li>rKidsCare: <a href="https://radicalcompanies.com/2022/05/13/rKidsKare" target="_blank">&hellip;/rKidsKare</a></li>
