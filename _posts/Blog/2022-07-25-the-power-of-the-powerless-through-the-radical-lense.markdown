@@ -113,7 +113,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <tr>
    <th><p>Ideology as<br>Securalized<br>Religion</p></th>
    <td>
-    <p>The ideology of Soviet-style dictatorships was based on Marx&rsquo; half-baked prescription.</p>
+    <p>The ideology of Soviet-style dictatorships was based on Marx&rsquo; prescription, half-baked as they were.</p>
     <p>Western democracies&rsquo; ideology ends up being something like, &ldquo;<em>Work hard and you, too, can become wealthy. Good luck!</em>.&rdquo;<a id="bm12" href="#en12"><sup>12</sup></a></p>
    </td>
   </tr>
