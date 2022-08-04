@@ -99,14 +99,16 @@ image:    "the-power-of-the-powerless-icon.svg"
 
 <h1>Businesses Are Dictatorships</h1>
  <p>Businesses fit depressingly well in Havel&rsquo;s framework. And this leads to the inescapable conclusion that <em>democracies (governments) are based on dictatorships</em> (businesses) called businesses. Even though we intuitively know that &ldquo;a government is not a business&rdquo;, we go back and forth on it. The <span class="_paradigm">RADICAL</span> model is a tool to convert the dictatorships called <em>businesses</em> into <em>companies</em> that operate more like democracies, with decentralized decision-making and ownership.<a id="bm09" href="#en09"><sup>9&nbsp;</sup></a> A side-effect of this is that people will be equipped to be more engaged in their governance. As they learn to be company co-owners, people will learn to co-own their governamce as well.</p>
- <!--
-  <table>
+ <table>
   <tr>
    <th><p>Huge<br>Power<br>Block</p></th>
    <td>
     <p>Over time, businesses have come to make up a huge international block (<em>i.e.</em>, and, no, not due to a conspiracy or any such). We need to experiment with models based on people and their communities instead. The <span class="_paradigm">RADICAL COMPANIES<span> book offers a viable model.<a id="bm10" href="#en10"><sup>10</sup></a></p>
    </td>
   </tr>
+ </table>
+
+ <!--
   <tr>
    <th><p>Historical<br>Roots</p></th>
    <td><p>History is made little by little and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat, little by little. According to David Graeber, author of <em>Debt: the First 5,000 Years</em>,<a id="bm11" href="#en11"><sup>11</sup></a> the fuel for this has been debt which gave birth to anonymous, fungible money, which in turn made it easy to extract and accumulate wealth.</p></td>
