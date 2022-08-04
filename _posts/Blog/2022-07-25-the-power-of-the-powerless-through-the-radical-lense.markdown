@@ -103,7 +103,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <tr>
    <th><p>Huge<br>Power<br>Block</p></th>
    <td>
-    <p>Over time, businesses have come to make up a huge international block (i.e., and, no, not due to a conspiracy or any such). We need to experiment with models based on communities of people instead. The RADICAL COMPANIES book offers a viable alternative.<a id="bm10" href="#en10"><sup>10</sup></a></p>
+    <p>Over time, businesses have come to make up a huge international block (<em>i.e.</em>, and, no, not due to a conspiracy or any such). We need to experiment with models based on communities of people instead. The RADICAL COMPANIES book offers a viable alternative.<a id="bm10" href="#en10"><sup>10</sup></a></p>
    </td>
   </tr>
   <tr>
@@ -136,7 +136,9 @@ image:    "the-power-of-the-powerless-icon.svg"
    <td class="_spacer">&nbsp;</td>
   </tr>
  </table>
- <p>If you believe, as I do, that decentralized ownership and decision-making (<em>i.e.</em> democracy) is better than centralized State control (dictatorships), <a id="bm15" href="#en15"><sup>15</sup></a> then it follows that we should insist on <em>moving towards decentralization</em>. Unfortunately, this will require a change in mindset that goes against everything we &ldquo;know,&rdquo;</p>
+
+<h1>Towards Decemtralization and Transparency</h1>
+ <p>If you believe, as I do, that decentralized ownership and decision-making (<em>i.e.</em>, democracy) is better than centralized State control (<em>i.e.</em>, dictatorships), <a id="bm15" href="#en15"><sup>15</sup></a> then it follows that we should insist on <em>moving towards decentralization</em>. Unfortunately, this will require a change in mindset that goes against everything we &ldquo;know,&rdquo;</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
