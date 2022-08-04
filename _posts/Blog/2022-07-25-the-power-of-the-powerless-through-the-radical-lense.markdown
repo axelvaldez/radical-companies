@@ -144,7 +144,7 @@ image:    "the-power-of-the-powerless-icon.svg"
  </table>
 
 <h1>Towards Decentralization and Transparency</h1>
- <p>If you believe, as I do, that decentralized ownership and decision-making (<em>i.e.</em>, democracy) is better than centralized State control (<em>i.e.</em>, dictatorship),<a id="bm15" href="#en15"><sup>15</sup></a> then it follows that we should insist on <em>moving towards decentralization</em> because our lives depend on it. Unfortunately, this will require a change in mindset that goes against everything we &ldquo;know,&rdquo;</p>
+ <p>If you believe, as I do, that decentralized ownership and decision-making (<em>i.e.</em>, democracy) is better than centralized State control (<em>i.e.</em>, dictatorship),<a id="bm15" href="#en15"><sup>15</sup></a> then it follows that we should insist on moving <em>towards decentralization</em>. Our lives depend on it. Unfortunately, this will require a change in mindset that goes against everything we &ldquo;know,&rdquo;</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
