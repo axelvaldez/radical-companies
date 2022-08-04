@@ -123,6 +123,7 @@ image:    "the-power-of-the-powerless-icon.svg"
     <p>New wealth creates some public goods, but much of it ends up as private goods. In the case of dictatorships, the party bosses live very well (<em>i.e.</em>, off their private goods) and get to command the allocation of the rest. In democracies, much of this wealth ends up in the hands of a few business owners who also live very well, but the rest of this wealth is passed to the State from which public goods comes out.</p>
    </td>
   </tr>
+  <!--
   <tr>
    <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
    <td>
@@ -132,6 +133,7 @@ image:    "the-power-of-the-powerless-icon.svg"
     <p>Most of us learn to see this centralization of power as a positive thing, &rdquo;<em>thank goodness, because if it weren't for the State/businesses/military would not have nice things like bridges, roads, and schools.</em>&rdquo; Sadly, even though this system is literally unsustainable, this mindset stops us from doing anything about it. We need to decentralize decision-making. Centralization is not good for us. It is hostile to innovation and even hostile to commerce. What innovation there is, (<em>e,g,</em>, in medicine) is accidental and it overwhelmingly ends up as private goods.</p>
    </td>
   </tr>
+  -->
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
