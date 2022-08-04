@@ -99,7 +99,8 @@ image:    "the-power-of-the-powerless-icon.svg"
 
 <h1>Businesses Are Dictatorships</h1>
  <p>Businesses fit depresseingly well in Havel&rsquo;s framework. And this leads to the inescapable conclusion that <em>democracies (governments) are based on dictatorships</em> (businesses) called businesses. Even though we intuitively know that &ldquo;a government is not a business&rdquo;, we go back and forth on it. The <span class="_paradigm">RADICAL</span> model is a tool to convert the dictatorships called <em>businesses</em> into <em>companies</em> that operate more like democracies, with decentralized decision-making and ownership.<a id="bm09" href="#en09"><sup>9&nbsp;</sup></a> A side-effect of this is that people will be equipped to be more engaged in their governance. As they learn to be company co-owners, people will learn to co-own their governamce as well.</p>
- <table>
+ <!--
+  <table>
   <tr>
    <th><p>Huge<br>Power<br>Block</p></th>
    <td>
@@ -123,7 +124,6 @@ image:    "the-power-of-the-powerless-icon.svg"
     <p>New wealth creates some public goods, but much of it ends up as private goods. In the case of dictatorships, the party bosses live very well (<em>i.e.</em>, off their private goods) and get to command the allocation of the rest. In democracies, much of this wealth ends up in the hands of a few business owners who also live very well, but the rest of this wealth is passed to the State from which public goods comes out.</p>
    </td>
   </tr>
-  <!--
   <tr>
    <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
    <td>
@@ -133,11 +133,11 @@ image:    "the-power-of-the-powerless-icon.svg"
     <p>Most of us learn to see this centralization of power as a positive thing, &rdquo;<em>thank goodness, because if it weren't for the State/businesses/military would not have nice things like bridges, roads, and schools.</em>&rdquo; Sadly, even though this system is literally unsustainable, this mindset stops us from doing anything about it. We need to decentralize decision-making. Centralization is not good for us. It is hostile to innovation and even hostile to commerce. What innovation there is, (<em>e,g,</em>, in medicine) is accidental and it overwhelmingly ends up as private goods.</p>
    </td>
   </tr>
-  -->
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
  </table>
+  -->
 
 <h1>Towards Decentralization and Transparency</h1>
  <p>If you believe, as I do, that decentralized ownership and decision-making (<em>i.e.</em>, democracy) is better than centralized State control (<em>i.e.</em>, dictatorship),<a id="bm15" href="#en15"><sup>15</sup></a> then it follows that we should insist on <em>moving towards decentralization</em> because our lives depend on it. Unfortunately, this will require a change in mindset that goes against everything we &ldquo;know,&rdquo;</p>
