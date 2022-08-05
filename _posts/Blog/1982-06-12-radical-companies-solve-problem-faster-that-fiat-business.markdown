@@ -11,29 +11,29 @@ image:    "about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>In a traditional <span class="_paradigm">FIAT</span> business, there is an imposed chain of command. If you are attempting to solve a problem that is out of your purview, you have to consult your boss. If your boss can’t make a unilateral decision, he must pass it up the chain of command even if it is something that you can solve with a few resources. This is particularly true if it impacts people or resources controlled by another boss.</p>
+ <p>In a traditional <span class="_paradigm">FIAT</span> business, there is an imposed chain of command. If you are attempting to solve a problem that is out of your purview, you have to consult your boss. If your boss can&rsquo;t make a unilateral decision, he must pass it up the chain of command even if it is something that you can solve with a few resources. This is particularly true if it impacts people or resources controlled by another boss.</p>
  <p>We experience a lot of this in the form of email chains,</p>
  <ul>
-  <li>You send an email asking for permission to get some resources to solve a particular thing. Let’s say you are purchasing a tool.</li>
-  <li>It turns out the tool cost is just above his authorization limit. So he asks his boss.</li>
+  <li>You send an email to your boss asking for permission to get some resources to, let&rsquo;s say, purchase a tool.</li>
+  <li>It turns out the tool cost is just above your boss&rsquo; authorization limit. So he asks his boss.</li>
   <li>His boss says he needs to consult another boss.</li>
-  <li>Questions may arise, which then have to come down the chain, to you.</li>
-  <li>Your answer goes back up the chain.</li>
+  <li>Questions may arise, which then have to come <em>down the chain</em>, to you.</li>
+  <li>Your answer goes back <em>up the chain</em>.</li>
   <li>Afterwards, the decision to proceed is made. Or not.</li>
  </ul>
  <p>These traversals cost time and information.</p>
 
 <h1>Time Loss</h1>
- <p>Time is obvious, for example that email gets fired off, but then sits in an inbox for three days before being read. Those types of things add up, and mean that a problem that is initially just a minor difficulty, can escalate into an emergency while you are waiting.</p>
- <p>Time delay is felt very directly, and it can create apathy, as people get beaten down by how long things take. After a while, you end up throwing problems over the proverbial cubicle wall, and now it is in someone else’s “court” and you’ve covered your ass.</p>
+ <p>Time is obvious. For example, an email gets fired off, but then sits in somebody&rsquo; inbox for three days before being read. Those types of things add up and mean that a problem that is initially just a minor difficulty, can escalate into an emergency while you are waiting.</p>
+ <p>Time delay is felt very directly, and it can create apathy as people get beaten down to accept how long things take. After a while, you end up throwing problems over the proverbial cubicle wall, into someone else&rsquo;s &ldquo;court&rdquo; and you&rsquo;ve covered your ass.</p>
 
 <h1>Information Loss</h1>
  <p>Information is a more subtle problem in these communication chains. It comes in the form of fractional losses that add up as the message goes through the hierarchical chain.</p>
- <p>Let’s say that when you send your message, 95% of it is understood. This means that 5% of the information is misunderstood or lost. In many cases, the message either sits in somebody’s inbox or, especially when people are overloaded, they might just read a few lines of the email before forwarding it (to cover their ass).</p>
+ <p>Let&rsquo;s say that when you send your message, 95% of it is understood. This means that 5% of the information is misunderstood or lost. In many cases, the message either sits in somebody&rsquo;s inbox or, especially when people are overloaded, they might just read a few lines of the email before forwarding it (to cover their ass).</p>
  <p>It's a loss that is experienced every time a message goes up and down the chain. If the message traverses three times, you can experience anywhere from 5% to 15%. It can be even worse if a critical part of the information gets lost or “softened” as it moves up and down the chain. Without it, people may not even understand the message. So, a a “clarification” meeting is called. This means that <span class="_paradigm">FIAT</span> organizations attempt to combat information loss with more time loss.</p>
 
 <h1>Dealing with Loss</h1>
- <p>For each of these problems there are a host of patches people have devised to combat them: stand-up meetings, Agile, managing by walking around, and open-door management. The list is almost endless and all of them are fundamental to <span class="_paradigm">FIAT</span> hierarchies. It is a 19th century way of running a business. But we don’t have to accept these mind-numbing “solutions” anymore.</p>
+ <p>For each of these problems there are a host of patches people have devised to combat them: stand-up meetings, Agile, managing by walking around, and open-door management. The list is almost endless and all of them are fundamental to <span class="_paradigm">FIAT</span> hierarchies. It is a 19th century way of running a business. But we don&rsquo;t have to accept these mind-numbing “solutions” anymore.</p>
  <p>Now if I just said, “throw out this old way of doing stuff,” it would imply a painful loss that has to be mourned. Alternatively, we can reframe them as learning experiences that catapulted us into a better life.</p>
 
 <h1>The RADICAL Model</h1>
@@ -45,12 +45,12 @@ image:    "about-daos.svg"
   <li>Someone else sees the BANNER, reads the description of the tool, and how much you need. They decide to give you some of their resources to help you buy it.</li>
   <li>When the BANNER is fully funded, you order it.</li>
  </ul>
- <p>There is still information loss, but it’s minimal. Any questions that arise can be resolved in conversation with you and you may even add it to the BANNER’s FAQ. The unavoidable communication loss  that happens in FIAT organizations, and that many of us have experienced, is entirely bypassed. In the <span class="_paradigm">RADICAL</span> model, information is refined without wasteful formal meetings. Your peers, your colleagues, who are also close to the problem are able to share their own resources with you. The <span class="_paradigm">RADICAL</span> model is fundamentally faster because it decentralizes decision-making and resources.</p>
+ <p>There is still information loss, but it&rsquo;s minimal. Any questions that arise can be resolved in conversation with you and you may even add it to the BANNER&rsquo;s FAQ. The unavoidable communication loss  that happens in FIAT organizations, and that many of us have experienced, is entirely bypassed. In the <span class="_paradigm">RADICAL</span> model, information is refined without wasteful formal meetings. Your peers, your colleagues, who are also close to the problem are able to share their own resources with you. The <span class="_paradigm">RADICAL</span> model is fundamentally faster because it decentralizes decision-making and resources.</p>
 
 <h1>Shorter and Efficient</h1>
- <p>If my description of problem solving in a <span class="_paradigm">RADICAL</span> company seems shorter to you, it is because it is actually shorter: you post a BANNER, have a few conversations, and your peers support you. Even if they don’t fully fund your BANNER, you learn (<em>e.g.</em>, alternative ways of addressing the problem).</p>
+ <p>If my description of problem solving in a <span class="_paradigm">RADICAL</span> company seems shorter to you, it is because it is actually shorter: you post a BANNER, have a few conversations, and your peers support you. Even if they don&rsquo;t fully fund your BANNER, you learn (<em>e.g.</em>, alternative ways of addressing the problem).</p>
  <p>Interminable meetings are avoided. People who are not close to the problem will likely not participate at all (unless they are curious). There is no “covering your ass” actions needed. Instantaneous and lossless communication will forever be elusive, but <span class="_paradigm">RADICAL</span> supports a shorter and more efficient form of communication.</p>
- <p>Power is decentralized as well. There’s no one “above” or “below” you, but power comes as a function of decentralized decision-making and resources.</p>
+ <p>Power is decentralized as well. There&rsquo;s no one “above” or “below” you, but power comes as a function of decentralized decision-making and resources.</p>
  <p>People in <span class="_paradigm">RADICAL</span> organizations are more effective.</p>
 
 <h1 class="_section">RELATED</h1>
