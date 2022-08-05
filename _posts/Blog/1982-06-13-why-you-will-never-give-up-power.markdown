@@ -16,7 +16,7 @@ image:    "about-daos.svg"
  <p>You don&rsquo;t even need to actually be successful. Heck, you can fail multiple times and that adds to you bona fides.</p>
  <p>Oh, the dopamine surge when you&rsquo;re on the phone with a VC, rattle off all the &ldquo;right&rdquo; answers and they look back at you with a barely hidden smile of understanding and legitimization. And beyond feeling good, think of all that CEO confers to you,</p>
  <ul>
-  <li>Dominance</li></li>
+  <li>Dominance</li>
   <li>Ascription</li>
   <li>Stock</li>
   <li>Money</li>
