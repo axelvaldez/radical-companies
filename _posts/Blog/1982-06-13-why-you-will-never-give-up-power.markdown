@@ -14,7 +14,7 @@ image:    "about-daos.svg"
  <p>Power just feels too good. You want to keep your grip on power and you can&rsquo;t afford to upset the status quo. Even when you are convinced that it&rsquo;s guiding down the wrong path. This will continue until you are willing to give up power to get better results. I observed this while helping at a friend&rsquo;s business that needed my mechanical engineering services. In the cramped quarters, I heard him say on the phone, &ldquo;Yes, I am the CEO&rdquo;&mdash;he said with modest, but resounding pride.</p>
  <p>And it makes sense. I grew up in the Bay Area and was expected, and wanted, to be an engineer (flex) founder (flex) who dropped out of Stanford (flex) to found a Venture backed (flex) business that will IPO (BIGGEST FLEX). If you dropped out of a PhD program, all the better. Any one of these titles puts you in the winner category, the movers and shakers, the people who are locally admired. A football star would be a nobody in this neighborhood.</p>
  <p>You don&rsquo;t even need to actually be successful. Heck, you can fail multiple times and that adds to you bona fides.</p>
- <p>Oh, the dopamine surge when you&rsquo;re on the phone with a VC, rattle off all the &ldquo;right&rdquo; answers and they look back at you with a barely hidden smile of understanding and legitimization. And beyond feeling good, think of all that CEO confers to you,</p>
+ <p>Oh, the dopamine surge when you&rsquo;re on the phone with a VC, rattle off all the &ldquo;right&rdquo; answers, and they look back at you with a barely hidden smile of understanding and a feeling of legitimization washes over you. And beyond feeling good, think of all that CEO confers to you,</p>
  <ul>
   <li>Dominance</li>
   <li>Ascription</li>
