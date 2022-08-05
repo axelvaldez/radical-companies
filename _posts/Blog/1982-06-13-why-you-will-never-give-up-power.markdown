@@ -22,7 +22,7 @@ image:    "about-daos.svg"
  Any one of these titles puts you in the winner category, a mover and shaker, the people who are locally admired. A football star? Meh!.</p>
  <p>You don&rsquo;t even need to actually be successful. Heck, you can fail multiple times and that adds to you bona fides. And that&rsquo;s what makes the exalted CEO.</p>
 
- <h1>&ldquo;Yes, I am the CEO&ldquo;</h1>
+<h1>&ldquo;Yes, I am the CEO&ldquo;</h1>
  <p>Imagine the dopamine surge when you&rsquo;re on the phone with a VC, rattle off all the &ldquo;right&rdquo; answers, they look back at you with a barely hidden smile of understanding, and a pleasurable feeling of legitimization washes over you.</p>
  <p>And, beyond feeling good, think of all that CEO confers to you,</p>
  <ul>
