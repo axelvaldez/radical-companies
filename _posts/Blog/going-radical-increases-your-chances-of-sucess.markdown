@@ -1,18 +1,17 @@
 ---
 layout:   post
-title:    "TEMPLATE"
+title:    "Going RADICAL Increases Your Chances of Success"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez"
+authors:  "Adrian Perez"
 image:    "about-daos.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>Everyone who starts a business wants to increase its chances of success and the RADICAL model is the ultimate way to do that. Founders hope that they have some edge, like a better team or a firm grasp of the market, and it isn’t just about ensuring a return for investors, but about satisfying founders’ sense of meaning. By having an edge, we can convince ourselves to plow dollars and time into an endeavor, but even with an edge, most businesses fail at a rate of 70% over a course of ten years. THink about this: the overwhelming majority of entrepreneurs spend up to ten years on something that does not have a successful conclusion. What about an “edge” that guarantees success? Would you adopt it? The RADICAL model is the edge we think can make it a lot more likely to satisfy that sense of, &ldquo;I did it!&rdquo;</p>
 </div>
 
 <h1>&nbsp;</h1>
-
-<p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
+ <p>Everyone who starts a business wants to increase its chances of success and the RADICAL model is the ultimate way to do that. Founders hope that they have some edge, like a better team or a firm grasp of the market, and it isn’t just about ensuring a return for investors, but about satisfying founders’ sense of meaning. By having an edge, we can convince ourselves to plow dollars and time into an endeavor, but even with an edge, most businesses fail at a rate of 70% over a course of ten years. THink about this: the overwhelming majority of entrepreneurs spend up to ten years on something that does not have a successful conclusion. What about an “edge” that guarantees success? Would you adopt it? The RADICAL model is the edge we think can make it a lot more likely to satisfy that sense of, &ldquo;I did it!&rdquo;</p>
 
 <img style="margin:0 auto; " src="/assets/img/en-alignment.svg" width="70%" alt="">
 
