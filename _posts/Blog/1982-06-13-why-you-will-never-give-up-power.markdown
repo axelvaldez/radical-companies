@@ -19,7 +19,7 @@ image:    "about-daos.svg"
  out of a PhD program (<span style="font-size:large; ">flex</span>),
  to found a Venture backed business (<span style="font-size:larger; ">flex</span>) that
  would IPO shortly (<span style="font-size:x-large; ">flex</span>).
- Any one of these titles puts you in the winner category, a mover and shaker, the people who are locally admired. A football star? Meh!.</p>
+ Any one of these titles puts you in the winner category, a mover and shaker, the people who are locally admired. A football star? Meh!</p>
  <p>You don&rsquo;t even need to actually be successful. Heck, you can fail multiple times and that adds to you bona fides. And that&rsquo;s what makes the exalted CEO.</p>
 
 <h1>&ldquo;Yes, I am the CEO&ldquo;</h1>
