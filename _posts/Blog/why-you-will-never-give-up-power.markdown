@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Why You Will Never Decentralize Power"
+title:    "Why You Will Never Give Up Power"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "about-daos.svg"
