@@ -3,7 +3,7 @@ layout:   post
 title:    "Going RADICAL Increases Your Chances of Success"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "about-daos.svg"
+image:    "radical-success-icon.svg"
 ---
 
 <div style="display:none;">
