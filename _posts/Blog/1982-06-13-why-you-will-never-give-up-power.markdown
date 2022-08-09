@@ -3,7 +3,7 @@ layout:   post
 title:    "Why You Will Never Give Up Power"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "about-daos.svg"
+image:    "radical-power-icon.svg"
 ---
 
 <div style="display:none;">
