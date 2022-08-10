@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "TEMPLATE"
+title:    "RADs Validated!"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "about-daos.svg"
