@@ -30,7 +30,7 @@ image:    "about-daos.svg"
 
 <h1 class="_section">RELATED</h1>
  <ul>
-  <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
+  <li>RADICAL COMPANIES,</li>
    <ul>
     <li><a>EN</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/radicalcompanies.com [EN]</a></li>
     <li><a>ES</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/radicalcompanies.com [ES]</a></li>
