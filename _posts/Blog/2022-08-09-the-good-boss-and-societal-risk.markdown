@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The 'Good' Boss and Societal Risk"
+title:    "The Good Boss and Societal Risk"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "about-daos.svg"
