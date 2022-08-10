@@ -74,68 +74,68 @@ image:    "giving-rads-icon.svg"
  <p>He concludes that &ldquo;those working in high-trust companies enjoyed their jobs 60% more, were 70% more aligned with their companies’ purpose, and felt 66% closer to their colleagues. &hellip; Compared with employees at low-trust organizations, the high-trust folks had 11% more empathy for their workmates, depersonalized them 41% less often, and experienced 40% less burnout from their work. They felt a greater sense of accomplishment, as well—41% more.&rdquo;</p>
 
 <h1>RADs Promote Trust</h1>
- <p><span class="_paradigm">RAD</span>s</p> supports all of these behaviors.</p>
+ <p><span class="_paradigm">RAD</span>s support all of these behaviors.</p>
  <table>
   <tr>
-   <td class="_list-item" style="width:1.5in; ">
+   <th style="width:1.5in; ">
     <p>Recognize excellence</p>
-   </td>
+   </th>
    <td class="_list-item">
     <p></p>
    </td>
   </tr>
   <tr>
-   <td>
+   <th>
     <p>Induce &ldquo;challenge stress&rdquo;</p>
-   </td>
+   </th>
    <td class="_list-item">
     <p></p>
    </td>
   </tr>
   <tr>
-   <td>
+   <th>
     <p>Share information broadly</p>
-   </td>
+   </th>
    <td class="_list-item">
     <p></p>
    </td>
   </tr>
   <tr>
-   <td>
+   <th>
     <p>Give people discretion in how they do their work</p>
-   </td>
+   </th>
    <td class="_list-item">
     <p></p>
    </td>
   </tr>
   <tr>
-   <td>
+   <th>
     <p>Enable job crafting</p>
-   </td>
+   </th>
    <td class="_list-item">
     <p></p>
    </td>
   </tr>
   <tr>
-   <td>
+   <th>
     <p>Share information broadly</p>
-   </td>
+   </th>
    <td class="_list-item">
     <p></p>
    </td>
   </tr>
   <tr>
-   <td>
+   <th>
     <p>Intentionally build relationships</p>
-   </td>
+   </th>
    <td class="_list-item">
     <p></p>
    </td>
   </tr>
   <tr>
-   <td>
+   <th>
     <p>Facilitate whole-person growth</p>
-   </td>
+   </th>
    <td class="_list-item">
     <p></p>
    </td>
