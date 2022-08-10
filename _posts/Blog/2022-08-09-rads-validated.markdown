@@ -97,7 +97,7 @@ image:    "giving-rads-icon.svg"
     <p>Give people discretion in how they do their work</p>
    </th>
    <td class="_list-item">
-    <p>The <span class="_paradigm">RADICAL</span> model brings in co-management which is based on decentralization and leading with trust.</p>
+    <p>The <span class="_paradigm">RADICAL</span> model brings in co-management which is based on decentralized decision-making and leading with trust.</p>
    </td>
   </tr>
   <tr>
