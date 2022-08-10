@@ -11,7 +11,7 @@ image:    "giving-rads-icon.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>In a Harvard Business Revue article, <span style="font-style:italic; "><em>The Neuroscience of Trust</em></span>, the author, Paul Zak, says that &ldquo;it’s clear that creating an employee-centric culture can be good for business&rdquo;<a id="bm01" href="#en01"><sup>1</sup></a>. Employee-centric cultures, in turn, are based on trust. He then goes on to identify eight behaviors that promote trust,
+ <p>In a Harvard Business Revue article, <span style="font-style:italic; "><em>The Neuroscience of Trust</em></span>, the author, Paul Zak, says that &ldquo;it’s clear that creating an employee-centric culture can be good for business.&rdquo;<a id="bm01" href="#en01"><sup>1</sup></a> Employee-centric cultures, in turn, are based on trust. He then goes on to identify eight behaviors that promote trust,
  <table>
   <tr>
    <th class="_list-item" style="width:1.5in; ">
