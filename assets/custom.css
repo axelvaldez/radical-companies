@@ -276,6 +276,9 @@ td._spacer {
 }
 ._quotation {
   font-style:italic;
+  margin-left:.5in;
+  margin-right:.5in;
+  text-align:justify;
 }
 .quotation::before {
   content:open-quote;
