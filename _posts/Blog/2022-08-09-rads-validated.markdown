@@ -14,10 +14,10 @@ image:    "giving-rads-icon.svg"
  <p>In a Harvard Business Revue article, <span style="font-style:italic; "><em>The Neuroscience of Trust</em></span>, the author, Paul Zak, says that &ldquo;it’s clear that creating an employee-centric culture can be good for business.&rdquo;<a id="bm01" href="#en01"><sup>1</sup></a> Employee-centric cultures, in turn, are based on trust and these are the eight behaviors that promote it,
  <table>
   <tr>
-   <th class="_list-item" style="width:1.5in; ">
+   <th style="width:1.5in; ">
     <p>Recognize excellence</p>
    </th>
-   <td>
+   <td class="_list-item">
     <p>&ldquo;The neuroscience shows that recognition has the largest effect on trust when it occurs immediately after a goal has been met, when it comes from peers, and when it’s tangible, unexpected, personal, and public.&rdquo;</p>
    </td>
   </tr>
@@ -25,7 +25,7 @@ image:    "giving-rads-icon.svg"
    <th>
     <p>Induce &ldquo;challenge stress&rdquo;</p>
    </th>
-   <td>
+   <td class="_list-item">
     <p>&ldquo;When team members need to work together to reach a goal, brain activity coordinates their behaviors efficiently.&rdquo;</p>
    </td>
   </tr>
@@ -33,7 +33,7 @@ image:    "giving-rads-icon.svg"
    <th>
     <p>Give people discretion in how they do their work</p>
    </th>
-   <td>
+   <td class="_list-item">
     <p>&ldquo;&hellip; allow them, whenever possible, to manage people and execute projects in their own way. Being trusted to figure things out is a big motivator.</p>
     <p>&ldquo;Autonomy also promotes innovation&hellip;&rdquo;</p>
    </td>
@@ -42,7 +42,7 @@ image:    "giving-rads-icon.svg"
    <th>
     <p>Enable job crafting</p>
    </th>
-   <td>
+   <td class="_list-item">
     <p>&ldquo;When companies trust employees to choose which projects they’ll work on, people focus their energies on what they care about most.&rdquo;</p>
    </td>
   </tr>
@@ -50,7 +50,7 @@ image:    "giving-rads-icon.svg"
    <th>
     <p>Share information broadly</p>
    </th>
-   <td>
+   <td class="_list-item">
     <p>&ldquo;Organizations that share their &lsquo;flight plans&lsquo; with employees reduce uncertainty about where they are headed and why.&rdquo;</p>
    </td>
   </tr>
@@ -58,7 +58,7 @@ image:    "giving-rads-icon.svg"
    <th>
     <p>Intentionally build relationships</p>
    </th>
-   <td>
+   <td class="_list-item">
     <p>&ldquo;&hellip; at work we often get the message that we should focus on completing tasks, not on making friends. Neuroscience experiments by my lab show that when people intentionally build social ties at work, their performance improves.&rdquo;</p>
    </td>
   </tr>
@@ -66,7 +66,7 @@ image:    "giving-rads-icon.svg"
    <th>
     <p>Facilitate whole-person growth</p>
    </th>
-   <td>
+   <td class="_list-item">
     <p>&ldquo;High-trust workplaces help people develop personally as well as professionally. &hellip; acquiring new work skills isn’t enough&hellip; the backward-looking annual performance review is no longer necessary.&rdquo;</p>
    </td>
   </tr>
@@ -80,7 +80,7 @@ image:    "giving-rads-icon.svg"
    <td class="_list-item" style="width:1.5in; ">
     <p>Recognize excellence</p>
    </td>
-   <td>
+   <td class="_list-item">
     <p></p>
    </td>
   </tr>
@@ -88,7 +88,7 @@ image:    "giving-rads-icon.svg"
    <td>
     <p>Induce &ldquo;challenge stress&rdquo;</p>
    </td>
-   <td>
+   <td class="_list-item">
     <p></p>
    </td>
   </tr>
@@ -96,7 +96,7 @@ image:    "giving-rads-icon.svg"
    <td>
     <p>Share information broadly</p>
    </td>
-   <td>
+   <td class="_list-item">
     <p></p>
    </td>
   </tr>
@@ -104,7 +104,7 @@ image:    "giving-rads-icon.svg"
    <td>
     <p>Give people discretion in how they do their work</p>
    </td>
-   <td>
+   <td class="_list-item">
     <p></p>
    </td>
   </tr>
@@ -112,7 +112,7 @@ image:    "giving-rads-icon.svg"
    <td>
     <p>Enable job crafting</p>
    </td>
-   <td>
+   <td class="_list-item">
     <p></p>
    </td>
   </tr>
@@ -120,7 +120,7 @@ image:    "giving-rads-icon.svg"
    <td>
     <p>Share information broadly</p>
    </td>
-   <td>
+   <td class="_list-item">
     <p></p>
    </td>
   </tr>
@@ -128,7 +128,7 @@ image:    "giving-rads-icon.svg"
    <td>
     <p>Intentionally build relationships</p>
    </td>
-   <td>
+   <td class="_list-item">
     <p></p>
    </td>
   </tr>
@@ -136,7 +136,7 @@ image:    "giving-rads-icon.svg"
    <td>
     <p>Facilitate whole-person growth</p>
    </td>
-   <td>
+   <td class="_list-item">
     <p></p>
    </td>
   </tr>
