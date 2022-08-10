@@ -11,26 +11,148 @@ image:    "about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p><span style="font-style:italic; "><em>The Neuroscience of Trust</em></span>  puts forth that trust is essential for  describes eight behaviors that promote trust and trust
-    Paul J. Zak 
+ <p>A Harvard Business Revue, <span style="font-style:italic; "><em>The Neuroscience of Trust</em></span>, the author, Paul Zak, says that &ldquo;it’s clear that creating an employee-centric culture can be good for business&rdquo;<a id="bm01" href="#en01"><sup>1</sup></a>. Employee-centric cultures, in turn, are based on trust. He then goes on to identify eight behaviors that promote trust,
+ <table>
+  <tr>
+   <th class="_list-item" style="width:1.5in; ">
+    <p>Recognize excellence</p>
+   </th>
+   <td>
+    <p>&ldquo;The neuroscience shows that recognition has the largest effect on trust when it occurs immediately after a goal has been met, when it comes from peers, and when it’s tangible, unexpected, personal, and public.&rdquo;</p>
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p>Induce &ldquo;challenge stress&rdquo;</p>
+   </th>
+   <td>
+    <p>&ldquo;When team members need to work together to reach a goal, brain activity coordinates their behaviors efficiently.&rdquo;</p>
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p>Give people discretion in how they do their work</p>
+   </th>
+   <td>
+    <p>&ldquo;&hellip; allow them, whenever possible, to manage people and execute projects in their own way. Being trusted to figure things out is a big motivator.</p>
+    <p>&ldquo;Autonomy also promotes innovation&hellip;&rdquo;</p>
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p>Enable job crafting</p>
+   </th>
+   <td>
+    <p>&ldquo;When companies trust employees to choose which projects they’ll work on, people focus their energies on what they care about most.&rdquo;</p>
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p>Share information broadly</p>
+   </th>
+   <td>
+    <p>&ldquo;Organizations that share their &lsquo;flight plans&lsquo; with employees reduce uncertainty about where they are headed and why.&rdquo;</p>
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p>Intentionally build relationships</p>
+   </th>
+   <td>
+    <p>&ldquo;&hellip; at work we often get the message that we should focus on completing tasks, not on making friends. Neuroscience experiments by my lab show that when people intentionally build social ties at work, their performance improves.&rdquo;</p>
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p>Facilitate whole-person growth</p>
+   </th>
+   <td>
+    <p>&ldquo;High-trust workplaces help people develop personally as well as professionally. &hellip; acquiring new work skills isn’t enough&hellip; the backward-looking annual performance review is no longer necessary.&rdquo;</p>
+   </td>
+  </tr>
+ </table>
+ <p>He concludes that &ldquo;those working in high-trust companies enjoyed their jobs 60% more, were 70% more aligned with their companies’ purpose, and felt 66% closer to their colleagues. &hellip Compared with employees at low-trust organizations, the high-trust folks had 11% more empathy for their workmates, depersonalized them 41% less often, and experienced 40% less burnout from their work. They felt a greater sense of accomplishment, as well—41% more.&rdquo;</p>
 
-From the Magazine (January–February 2017)
-
-<p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
-
-<img style="margin:0 auto; " src="/assets/img/en-alignment.svg" width="70%" alt="">
+<h1>RADs Promote Trust</h1>
+ <p><span class="_paradigm">RAD</span>s</p> supports all of these behaviors.</p>
+ <table>
+  <tr>
+   <td class="_list-item" style="width:1.5in; ">
+    <p>Recognize excellence</p>
+   </td>
+   <td>
+    <p></p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <p>Induce &ldquo;challenge stress&rdquo;</p>
+   </td>
+   <td>
+    <p></p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <p>Share information broadly</p>
+   </td>
+   <td>
+    <p></p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <p>Give people discretion in how they do their work</p>
+   </td>
+   <td>
+    <p></p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <p>Enable job crafting</p>
+   </td>
+   <td>
+    <p></p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <p>Share information broadly</p>
+   </td>
+   <td>
+    <p></p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <p>Intentionally build relationships</p>
+   </td>
+   <td>
+    <p></p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <p>Facilitate whole-person growth</p>
+   </td>
+   <td>
+    <p></p>
+   </td>
+  </tr>
+ </table>
 
 <h1 class="_section">ENDNOTES</h1>
-https://hbr.org/2017/01/the-neuroscience-of-trust
  <ol style="font-size:smaller; ">
   <li id="en01">
    <p class="_list-item" style="width:1.5in; ">
-    AUTHOR(S)
-    TITLE
-    PUBLICATION YEAR
-    <<a href="https://…" target="_blank">https://…</a>>
+    Paul Zak.
+    <em>The Neuroscience of Trust</em>
+    HBR, Jan-Feb 2017.
+    <<a href="https://hbr.org/2017/01/the-neuroscience-of-trust" target="_blank"><em>&hellipthe-neuroscience-of-trust</em></a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
+  </li>
  </ol>
 
 <h1 class="_section">RELATED</h1>
