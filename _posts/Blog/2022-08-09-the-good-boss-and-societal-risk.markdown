@@ -7,7 +7,7 @@ image:    "about-daos.svg"
 ---
 
 <div style="display:none;">
- <p>A good boss is someone who protects you from the hierarchy, or empowers you with (some) decision-making, or gets anything you want, or just leaves you alone. That may be good, but it is fragile.</p>
+ <p>A good boss is someone who protects you from the hierarchy, or empowers you with decision-making, or gets anything you want, or just leaves you alone. That may be good, but it is fragile.</p>
 </div>
 
 <h1>&nbsp;</h1>
