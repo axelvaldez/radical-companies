@@ -7,16 +7,21 @@ image:    "about-daos.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>Ten years of research say that RADs are right.</p>
 </div>
 
 <h1>&nbsp;</h1>
+ <p><span style="font-style:italic; "><em>The Neuroscience of Trust</em></span>  puts forth that trust is essential for  describes eight behaviors that promote trust and trust
+    Paul J. Zak 
+
+From the Magazine (January–February 2017)
 
 <p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
 
 <img style="margin:0 auto; " src="/assets/img/en-alignment.svg" width="70%" alt="">
 
 <h1 class="_section">ENDNOTES</h1>
+https://hbr.org/2017/01/the-neuroscience-of-trust
  <ol style="font-size:smaller; ">
   <li id="en01">
    <p class="_list-item" style="width:1.5in; ">
