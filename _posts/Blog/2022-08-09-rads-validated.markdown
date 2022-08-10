@@ -95,6 +95,7 @@ image:    "giving-rads-icon.svg"
    </td>
   </tr>
  </table>
+
  <table>
   <tr>
   <tr>
@@ -106,6 +107,7 @@ image:    "giving-rads-icon.svg"
    </td>
   </tr>
  </table>
+
  <table>
   <tr>
    <th>
@@ -115,8 +117,6 @@ image:    "giving-rads-icon.svg"
     <p>The <span class="_paradigm">RADICAL</span> model is founded on the principle decentralized decision-making. &ldquo;&hellip; people focus their energies on what they care about most.&rdquo;</p>
    </td>
   </tr>
- </table>
- <table>
   <tr>
    <th>
     <p>Share information broadly</p>
@@ -125,8 +125,6 @@ image:    "giving-rads-icon.svg"
     <p>The <span class="_paradigm">RADICAL</span> model is founded on the principle transparency.</p>
    </td>
   </tr>
- </table>
- <table>
   <tr>
    <th>
     <p>Intentionally build relationships</p>
@@ -135,8 +133,6 @@ image:    "giving-rads-icon.svg"
     <p>In the <span class="_paradigm">RADICAL</span> model the company is a community of co-owners. Relationship comes natural.</p>
    </td>
   </tr>
- </table>
- <table>
   <tr>
    <th>
     <p>Facilitate whole-person growth</p>
