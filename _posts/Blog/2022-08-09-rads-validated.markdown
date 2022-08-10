@@ -78,7 +78,7 @@ image:    "giving-rads-valid-icon.svg"
  <table align="center">
   <tr>
    <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; background-color:#EEEEEE; ">Meaning & br>Belonging</td>
+   <td style="text-align:center; background-color:#EEEEEE; ">Meaning & <br>Belonging</td>
    <td valign="middle" style="font-size:xx-large; "> ⬈</td>
    <td valign="top"><em>relationships</em></td>
   </tr>
