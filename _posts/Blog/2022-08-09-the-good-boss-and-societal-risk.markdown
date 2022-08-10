@@ -1,65 +1,31 @@
 ---
 layout:   post
-title:    "TEMPLATE"
+title:    "The 'Good' Boss and Societal Risk"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "about-daos.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>A good boss is someone who “protects” you from the hierarchy, or empowers you with (some) decision-making, or gets anything you want, or just leaves you alone. That is good, but it is fragile and temporary, at best.</p>
 </div>
 
 <h1>&nbsp;</h1>
+ <p>A good boss is someone who “protects” you from the hierarchy, or empowers you with (some) decision-making, or gets anything you want, or just leaves you alone. That is good, but it is fragile and temporary, at best.</p>
+ <p>This struck home to me as I was listening to a book about Bell Labs. The researchers at Bell Labs were allowed a huge degree of autonomy and they could choose what they wanted to work on. It did not have to have an immediately obvious practical use. It was basic research, discovering fundamental things about how chemistry and physics worked.</p>
+ 
+<h1>Claude Shannon</h1>
+ <p>The poster child for this was Claude Shannon who was given even wider latitude than usual given his professors recommendations to Ma Bell. They had  an intuition that he would do great things if left to his own devices. So the Llab went out of its way  to let him pick his work.</p>
+ <p>Eventually, he would write a text on Information Theory that would define the “bit” and other concepts about how information could be measured and thought about. It was groundbreaking and ripples of his achievement are still being strongly felt to this day.</p>
+ <p>Later, Shannon would work on automated chess machines and other electronic inventions. The works was important, too,to some degree, but he never again produced anything like Information Theory.</p>
+ <p>Imagine now for a moment that he had been directed to tackle the automated chess games and other electronic machines <em>before</em> he had written about Information Theory. Or he might have been encouraged to stay the course with his inventions. Or perhaps he would have been encouraged to leave and take up an academic position.</p>
+ <p>Bell Labs was hands off and a good place for researchers, so long as researchers picked things that had some plausible impact on the Bell Phone <em>business</em>. Even Shockley with his semiconductor research was trying to make an amplifier to <em>replace vacuum tubes</em>.</p>
 
-<p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
+<h1>Lucky Us</h1>
+ <p>Listening to the book made me suddenly aware of how extremely lucky Bell Labs and the rest of society had gotten when he decided to tackle Information Theory <em>first</em>. And therein lies the flaw of management as a temporary, and fragile, guarantor of autonomy. It was not systemic. If Bell Labs had been committed to decentralization and transparency, andto creating meaning and belonging, then Shannon would have been guaranteed autonomy on a <em>systemic level</em>. He could have tackled subjects in whatever order he pleased, whether it be Information Theory first or last or in the middle. It would not be up to the largesse of his <em>good boss</em> and the <em>hierarchy</em> he was beholden to.</p>
 
-<img style="margin:0 auto; " src="/assets/img/en-alignment.svg" width="70%" alt="">
-
- <table align="center">
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>relationships</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>autonomy</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>collaboration</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
- </table>
- <p style="margin-top:20px; "><span class="_paradigm">RAD</span>s support all of these behaviors,</p>
- <table>
-
-
-<h1 class="_section">ENDNOTES</h1>
- <ol style="font-size:smaller; ">
-  <li id="en01">
-   <p class="_list-item" style="width:1.5in; ">
-    AUTHOR(S)<br>
-    <em>TITLE.</em><br>
-    PUBLICATION YEAR.<br>
-    <<a href="https://…" target="_blank">https://…</a>>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
- </ol>
+ <h1>Radically Healthier</h1>
+ <p>The <span class="_paradigm">RADICAL</span> model ensures the gains of invention, discovery, and innovation for society. Invention under a <span class="_paradigm">FIAT</span> framework is very high risk. It goes against the norm and it leaves us in a situation where a manager plays roulette with his future within the hierarchy. He might get lucky or there may be some thrill around the risk, but does he really want to live at the edge chance? Do we want society&rsquo;s achievements to be won that way? The <span class="_paradigm">RADICAL</span> model provides a healthier path toward discovery and achievement, one without threat of professional failure constantly hanging overhead.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
