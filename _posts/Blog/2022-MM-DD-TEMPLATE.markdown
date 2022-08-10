@@ -16,13 +16,46 @@ image:    "about-daos.svg"
 
 <img style="margin:0 auto; " src="/assets/img/en-alignment.svg" width="70%" alt="">
 
+ <table align="center">
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
+   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
+   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
+   <td valign="top"><em>relationships</em></td>
+  </tr>
+  <tr>
+   <td style="height: 7px;"></td>
+  </tr>
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
+   <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
+   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
+   <td valign="top"><em>autonomy</em></td>
+  </tr>
+  <tr>
+   <td style="height: 7px;"></td>
+  </tr>
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
+   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
+   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
+   <td valign="top"><em>collaboration</em></td>
+  </tr>
+  <tr>
+   <td style="height: 7px;"></td>
+  </tr>
+ </table>
+ <p style="margin-top:20px; "><span class="_paradigm">RAD</span>s support all of these behaviors,</p>
+ <table>
+
+
 <h1 class="_section">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="en01">
    <p class="_list-item" style="width:1.5in; ">
-    AUTHOR(S)
-    TITLE
-    PUBLICATION YEAR
+    AUTHOR(S)<br>
+    <em>TITLE.</em><br>
+    PUBLICATION YEAR.<br>
     <<a href="https://…" target="_blank">https://…</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
