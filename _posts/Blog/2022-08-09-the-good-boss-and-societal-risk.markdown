@@ -29,7 +29,7 @@ image:    "about-daos.svg"
 
  <h1>Radically Healthier</h1>
  <p>The <span class="_paradigm">RADICAL</span> model ensures the gains of invention, discovery, and innovation for society. Invention under a <span class="_paradigm">FIAT</span> framework is very high risk. It goes against the norm and it leaves us in a situation where a manager plays roulette with his future within the hierarchy. He might get lucky or there may be some thrill around the risk, but does he really want to live at the edge chance? Do we want society&rsquo;s achievements to be won that way?</p>
- <p>The <span class="_paradigm">RADICAL</span> model provides a healthier path toward discovery and achievement, one without the threat of <a href="https://radicalcompanies.com/2022/08/09/civil-war-deadlines-and-their-obsolescence.html">professional death</a> constantly hanging overhead.</p>
+ <p>The <span class="_paradigm">RADICAL</span> model provides a healthier path toward discovery and achievement, one without the threat of <a href="https://radicalcompanies.com/2022/07/17/giving-rads.html">professional death</a> constantly hanging overhead.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
