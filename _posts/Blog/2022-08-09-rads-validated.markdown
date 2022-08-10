@@ -80,7 +80,7 @@ image:    "giving-rads-valid-icon.svg"
    <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
    <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
    <td valign="middle" style="font-size:xx-large; ">⬈</td>
-   <td valign="top"><em>relationships</em></td>
+   <td valign="top"><em>relationships</em>x</td>
   </tr>
   <tr>
    <td style="height: 7px;"></td>
