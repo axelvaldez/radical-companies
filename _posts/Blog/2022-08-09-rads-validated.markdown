@@ -84,6 +84,8 @@ image:    "giving-rads-icon.svg"
     <p>&ldquo;&hellip; excellence&rdquo; is way too vague. <span calls="_paradigm">RAD</span>s are used to recognize contributions.  It comes immediately after somebody sees an action as a contribution. It comes from peer co-oweners. They are tangible in that 1) they are countable and 2) they eventually convert to money. They are often unexpected, personal, and public.</p>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>
     <p>Induce &ldquo;challenge stress&rdquo;</p>
@@ -92,6 +94,8 @@ image:    "giving-rads-icon.svg"
     <p>Not only <span calls="_paradigm">RAD</span>s, but the whole RADICAL model is based on collaboration, not competition. As such co-owners &ldquo;work together to reach a goal [and] brain activity coordinates their behaviors efficiently.&rdquo; <span calls="_paradigm">RAD</span>s make this collaboration even easier.</p>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
   <tr>
    <th>
@@ -101,6 +105,8 @@ image:    "giving-rads-icon.svg"
     <p>The <span class="_paradigm">RADICAL</span> model brings in co-management which is based on decentralization and leading with trust.</p>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>
     <p>Enable job crafting</p>
@@ -109,6 +115,8 @@ image:    "giving-rads-icon.svg"
     <p>The <span class="_paradigm">RADICAL</span> model is founded on the principle decentralized decision-making. &ldquo;&hellip; people focus their energies on what they care about most.&rdquo;</p>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>
     <p>Share information broadly</p>
@@ -117,6 +125,8 @@ image:    "giving-rads-icon.svg"
     <p>The <span class="_paradigm">RADICAL</span> model is founded on the principle transparency.</p>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>
     <p>Intentionally build relationships</p>
@@ -125,6 +135,8 @@ image:    "giving-rads-icon.svg"
     <p>In the <span class="_paradigm">RADICAL</span> model the company is a community of co-owners. Relationship comes natural.</p>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>
     <p>Facilitate whole-person growth</p>
