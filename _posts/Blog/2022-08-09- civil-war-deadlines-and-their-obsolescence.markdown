@@ -21,18 +21,6 @@ image:    "about-daos.svg"
  <p>Deadlines are used to create fear and urgency in prisoners. And so it has come down to employees. And the main reason for its use in that context is a lack of ownership. In a FIAT context, ownership is concentrated at the top. It is both material ownership in the form of stock, and the sense that those at the top are the true formers of the company and employees are merely the implements of the top down vision. As you traverse down the hierarchy it becomes more and more justified to use deadlines  and cause people to fear for their jobs. I cannot think of one instance where it is the CEO who is punished for not making a deadline. If CEOs regularly resigned for not making company deadlines, I would be more liable to believe all of the justifications that exist for deadlines in a FIAT environment.</p>
  <p>In a RADICAL context, people are equal peers in their company. They experience equal access to power, meaning, and belonging. Because of this, urgency does not come from the inducement of fear by managers. There may be self imposed deadlines, but they are hardly necessary. Deadlines are mainly used for coordination. And for giving people a ballpark estimation of when a project might be done. Deadlines can exist in their most benign context. And the ability to say no when you are asked for a deadline is far more actualized. For example, if it is something new that is being done it can be incredibly hard to estimate when a thing is done. If a peer in the company asks you for a deadline for that project, you can explain that it is folly to give a deadline. Giving one would be just to temporarily comfort your peer. And then it would dissatisfy them later if you missed it. They are asking for a thing that typically bosses ask for, bu they are not your boss. You have an equal share in the company and RADs come to you based on your interaction with the rest of the people in the company. In a RADICAL company you do not have to give them a deadline. In a RADICAL company, hard work and intelligent solutions translate directly into rewards, not adhering  to the conventions of the FIAT work environment.</p>
 
-<h1 class="_section">ENDNOTES</h1>
- <ol style="font-size:smaller; ">
-  <li id="en01">
-   <p class="_list-item" style="width:1.5in; ">
-    AUTHOR(S)<br>
-    <em>TITLE.</em><br>
-    PUBLICATION YEAR.<br>
-    <<a href="https://…" target="_blank">https://…</a>>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
- </ol>
-
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
