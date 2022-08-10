@@ -81,7 +81,7 @@ image:    "giving-rads-icon.svg"
     <p>Recognize excellence</p>
    </th>
    <td class="_list-item">
-    <p>&ldquo;&hellip; recognize excellence&rdquo; is too vague. <span calls="_paradigm">RAD</span>s are used to recognize contributions.</p>
+    <p>&ldquo;&hellip; excellence&rdquo; is way too vague. <span calls="_paradigm">RAD</span>s are used to recognize contributions.  It comes immediately after somebody sees an action as a contribution. It comes from peer co-oweners. They are tangible in that 1) they are countable and 2) they eventually convert to money. They are often unexpected, personal, and public.</p>
    </td>
   </tr>
   <tr>
@@ -89,23 +89,16 @@ image:    "giving-rads-icon.svg"
     <p>Induce &ldquo;challenge stress&rdquo;</p>
    </th>
    <td class="_list-item">
-    <p><span calls="_paradigm">RAD</span>s are</p>
+    <p>Not only <span calls="_paradigm">RAD</span>s, but the whole RADICAL model is based on collaboration, not competition. As such co-owners &ldquo;work together to reach a goal [and] brain activity coordinates their behaviors efficiently.&rdquo; <span calls="_paradigm">RAD</span>s make this collaboration even easier.</p>
    </td>
   </tr>
   <tr>
-   <th>
-    <p>Share information broadly</p>
-   </th>
-   <td class="_list-item">
-    <p><span calls="_paradigm">RAD</span>s are</p>
-   </td>
-  </tr>
   <tr>
    <th>
     <p>Give people discretion in how they do their work</p>
    </th>
    <td class="_list-item">
-    <p><span calls="_paradigm">RAD</span>s are</p>
+    <p>The <span class="_paradigm">RADICAL</span> model brings in co-management which is based on decentralization and leading with trust.</p>
    </td>
   </tr>
   <tr>
@@ -113,7 +106,7 @@ image:    "giving-rads-icon.svg"
     <p>Enable job crafting</p>
    </th>
    <td class="_list-item">
-    <p><span calls="_paradigm">RAD</span>s are</p>
+    <p>The <span class="_paradigm">RADICAL</span> model is founded on the principle decentralized decision-making. &ldquo;&hellip; people focus their energies on what they care about most.&rdquo;</p>
    </td>
   </tr>
   <tr>
@@ -121,7 +114,7 @@ image:    "giving-rads-icon.svg"
     <p>Share information broadly</p>
    </th>
    <td class="_list-item">
-    <p><span calls="_paradigm">RAD</span>s are</p>
+    <p>The <span class="_paradigm">RADICAL</span> model is founded on the principle transparency.</p>
    </td>
   </tr>
   <tr>
@@ -129,7 +122,7 @@ image:    "giving-rads-icon.svg"
     <p>Intentionally build relationships</p>
    </th>
    <td class="_list-item">
-    <p><span calls="_paradigm">RAD</span>s are</p>
+    <p>In the <span class="_paradigm">RADICAL</span> model the company is a community of co-owners. Relationship comes natural.</p>
    </td>
   </tr>
   <tr>
@@ -137,7 +130,7 @@ image:    "giving-rads-icon.svg"
     <p>Facilitate whole-person growth</p>
    </th>
    <td class="_list-item">
-    <p><span calls="_paradigm">RAD</span>s are</p>
+    <p>Co-ownership is an adventure. Being the sole owner of a business makes you grow to deal with all the surprises that come at you. They same is true for a community of co-owners, except the learning is more dense because the same way you are learning, so are they. Not only will you learn from circumstances, co-owners learn from each other.</p>
    </td>
   </tr>
  </table>
