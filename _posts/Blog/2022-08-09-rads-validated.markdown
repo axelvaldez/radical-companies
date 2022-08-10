@@ -137,7 +137,7 @@ image:    "giving-rads-icon.svg"
     <p>Facilitate whole-person growth</p>
    </th>
    <td class="_list-item">
-    <p>Co-ownership is an adventure. Being the sole owner of a business makes you grow to deal with all the surprises that come at you. They same is true for a community of co-owners, except the learning is more dense because the same way you are learning, so are they. Not only will you learn from circumstances, co-owners learn from each other.</p>
+    <p>Being the sole owner of a business makes you grow to deal with all the surprises that come at you. They same is true for a community of co-owners, except the learning is more dense because the same way you are learning, so are they. Not only will you learn from circumstances, co-owners learn from each other.</p>
    </td>
   </tr>
  </table>
