@@ -23,8 +23,6 @@ image:    "about-daos.svg"
  <h1>A Better Bell Labs</h1>
  <p>Bell Labs was hands off and a good place for researchers, so long as researchers picked things that had some plausible impact on the Bell Phone <em>business</em>. Even Shockley with his semiconductor research was trying to make an amplifier to <em>replace vacuum tubes</em>.</p>
  <p>What would be better than one Bell Labs would be a community of them. I see some value is focusing research, certainly for companies. But there would be more value <em>to society</em> if there were a <em>community of labs</em> and people could follow their curiosity from one to the other. <a href="https://radicalcompanies.com/2022/07/17/giving-rads.html"><span class="_paradigm">RAD</span>s</a> make sure that whatever contributions a researcher made in one lab would not be lost and would carry out to the next.</p>
- <p></p>
- <p></p>
 
 <h1>Lucky Us</h1>
  <p>Listening to the book made me suddenly aware of how extremely lucky Bell Labs and the rest of society had gotten when he decided to tackle Information Theory <em>first</em>. And therein lies the flaw of management as a temporary, and fragile, guarantor of autonomy. It was not systemic. If Bell Labs had been committed to decentralization and transparency, andto creating meaning and belonging, then Shannon would have been guaranteed autonomy on a <em>systemic level</em>. He could have tackled subjects in whatever order he pleased, whether it be Information Theory first or last or in the middle. It would not be up to the largesse of his <em>good boss</em> and the <em>hierarchy</em> he was beholden to.</p>
