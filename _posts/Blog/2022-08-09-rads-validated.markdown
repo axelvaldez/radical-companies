@@ -81,7 +81,7 @@ image:    "giving-rads-icon.svg"
     <p>Recognize excellence</p>
    </th>
    <td class="_list-item">
-    <p></p>
+    <p>&ldquo;&hellip; recognize excellence&rdquo; is too vague. <span calls="_paradigm">RAD</span>s are used to recognize contributions.</p>
    </td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@ image:    "giving-rads-icon.svg"
     <p>Induce &ldquo;challenge stress&rdquo;</p>
    </th>
    <td class="_list-item">
-    <p></p>
+    <p><span calls="_paradigm">RAD</span>s are</p>
    </td>
   </tr>
   <tr>
@@ -97,7 +97,7 @@ image:    "giving-rads-icon.svg"
     <p>Share information broadly</p>
    </th>
    <td class="_list-item">
-    <p></p>
+    <p><span calls="_paradigm">RAD</span>s are</p>
    </td>
   </tr>
   <tr>
@@ -105,7 +105,7 @@ image:    "giving-rads-icon.svg"
     <p>Give people discretion in how they do their work</p>
    </th>
    <td class="_list-item">
-    <p></p>
+    <p><span calls="_paradigm">RAD</span>s are</p>
    </td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@ image:    "giving-rads-icon.svg"
     <p>Enable job crafting</p>
    </th>
    <td class="_list-item">
-    <p></p>
+    <p><span calls="_paradigm">RAD</span>s are</p>
    </td>
   </tr>
   <tr>
@@ -121,7 +121,7 @@ image:    "giving-rads-icon.svg"
     <p>Share information broadly</p>
    </th>
    <td class="_list-item">
-    <p></p>
+    <p><span calls="_paradigm">RAD</span>s are</p>
    </td>
   </tr>
   <tr>
@@ -129,7 +129,7 @@ image:    "giving-rads-icon.svg"
     <p>Intentionally build relationships</p>
    </th>
    <td class="_list-item">
-    <p></p>
+    <p><span calls="_paradigm">RAD</span>s are</p>
    </td>
   </tr>
   <tr>
@@ -137,7 +137,7 @@ image:    "giving-rads-icon.svg"
     <p>Facilitate whole-person growth</p>
    </th>
    <td class="_list-item">
-    <p></p>
+    <p><span calls="_paradigm">RAD</span>s are</p>
    </td>
   </tr>
  </table>
