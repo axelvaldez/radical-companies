@@ -274,3 +274,12 @@ td._spacer {
   font-family:sans-serif;
   font-size:small;
 }
+._quotation {
+  font-style:italic;
+}
+.quotation::before {
+  content:open-quote;
+}
+.quotation::after {
+  content:close-quote;
+}
