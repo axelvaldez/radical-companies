@@ -3,7 +3,7 @@ layout:   post
 title:    "RADs Validated!"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "about-daos.svg"
+image:    "giving-rads-icon.svg"
 ---
 
 <div style="display:none;">
