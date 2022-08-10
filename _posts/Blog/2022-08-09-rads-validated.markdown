@@ -94,9 +94,6 @@ image:    "giving-rads-icon.svg"
     <p>Not only <span calls="_paradigm">RAD</span>s, but the whole RADICAL model is based on collaboration, not competition. As such co-owners &ldquo;work together to reach a goal [and] brain activity coordinates their behaviors efficiently.&rdquo; <span calls="_paradigm">RAD</span>s make this collaboration even easier.</p>
    </td>
   </tr>
- </table>
-
- <table>
   <tr>
    <th>
     <p>Give people discretion in how they do their work</p>
@@ -105,9 +102,6 @@ image:    "giving-rads-icon.svg"
     <p>The <span class="_paradigm">RADICAL</span> model brings in co-management which is based on decentralization and leading with trust.</p>
    </td>
   </tr>
- </table>
-
- <table>
   <tr>
    <th>
     <p>Enable job crafting</p>
