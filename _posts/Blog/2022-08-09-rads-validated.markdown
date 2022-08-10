@@ -74,7 +74,37 @@ image:    "giving-rads-valid-icon.svg"
  <p>He concludes that &ldquo;<em>those working in high-trust companies enjoyed their jobs 60% more, were 70% more aligned with their companies’ purpose, and felt 66% closer to their colleagues. &hellip; Compared with employees at low-trust organizations, the high-trust folks had 11% more empathy for their workmates, depersonalized them 41% less often, and experienced 40% less burnout from their work. They felt a greater sense of accomplishment, as well—41% more.</em>&rdquo;</p>
 
 <h1>RADs Promote Trust</h1>
- <p><span class="_paradigm">RAD</span>s support all of these behaviors which are integral to the <span class="_paradigm">RADICAL</span> model,</p>
+ <p>These behaviors are integral to the <span class="_paradigm">RADICAL</span> model,</p>
+ <table align="center">
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
+   <td style="text-align:center; background-color:#EEEEEE; ">Meaning & br>Belonging</td>
+   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+   <td valign="top"><em>relationships</em></td>
+  </tr>
+  <tr>
+   <td style="height: 7px;"></td>
+  </tr>
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
+   <td style="text-align:center; background-color:#EEEEEE;">Transparency &<br>Decentralization</td>
+   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+   <td valign="top"><em>autonomy</em></td>
+  </tr>
+  <tr>
+   <td style="height: 7px;"></td>
+  </tr>
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
+   <td style="text-align:center; background-color:#EEEEEE; ">Alignment &<br>Experimentation</td>
+   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
+   <td valign="top"><em>collaboration</em></td>
+  </tr>
+  <tr>
+   <td style="height: 7px;"></td>
+  </tr>
+ </table>
+ <p><span class="_paradigm">RAD</span>s support all of these behaviors,</p>
  <table>
   <tr>
    <th style="width:1.5in; ">
