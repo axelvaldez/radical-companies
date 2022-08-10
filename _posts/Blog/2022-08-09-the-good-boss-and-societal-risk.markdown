@@ -20,7 +20,7 @@ image:    "about-daos.svg"
  <p>Later, Shannon would work on automated chess machines and other electronic inventions. The works was important, too,to some degree, but he never again produced anything like Information Theory.</p>
  <p>Imagine now for a moment that he had been directed to tackle the automated chess games and other electronic machines <em>before</em> he had written about Information Theory. Or he might have been encouraged to stay the course with his inventions. Or perhaps he would have been encouraged to leave and take up an academic position.</p>
  
- <h1>A Better Bell Labs</h1>
+ <h1>Better than Bell Labs</h1>
  <p>Bell Labs was hands off and a good place for researchers, so long as researchers picked things that had some plausible impact on the Bell Phone <em>business</em>. Even Shockley with his semiconductor research was trying to make an amplifier to <em>replace vacuum tubes</em>.</p>
  <p>What would be better than one Bell Labs would be a community of them. I see some value is focusing research, certainly for companies. But there would be more value <em>to society</em> if there were a <em>community of labs</em> and people could follow their curiosity from one to the other. <a href="https://radicalcompanies.com/2022/07/17/giving-rads.html"><span class="_paradigm">RAD</span>s</a> make sure that whatever contributions a researcher made in one lab would not be lost and would carry out to the next.</p>
 
