@@ -11,17 +11,17 @@ image:    "about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Companies committed to a RADICAL model are embodied by happier and more effective people. They communicate and solve problems faster. People have  more meaningful lives. It’s far superior, and sustainable, to FIAT businesses run by a FIAT hierarchy. But, you may be asking yourself, how are we going to finance them stepping away from the familiar FIAT common stock corporation?</p>
- <p>One possible answer is  RADICAL Investments.</p>
+ <p>Companies committed to a <span class="_paradigm">RADICAL</span> model are embodied by happier and more effective people. They communicate and solve problems faster. People have  more meaningful lives. It’s far superior, and sustainable, to FIAT businesses run by a FIAT hierarchy. But, you may be asking yourself, how are we going to finance them stepping away from the familiar FIAT common stock corporation?</p>
+ <p>One possible answer is <span class="_paradigm">RADICAL</span> Investments.</p>
 
 <h1>RADICAL Investments</h1>
- <p>A RADICAL Investment is a commitment to pay back the principal funds plus a capital gain. For example, a $100,000 investment will get “repaid”  as $200,000 over three years. It is still an investment, not a loan, in that the investor could lose his capital.</p>
+ <p>A <span class="_paradigm">RADICAL</span> Investment is a commitment to pay back the principal funds plus a capital gain. For example, a $100,000 investment will get “repaid”  as $200,000 over three years. It is still an investment, not a loan, in that the investor could lose his capital.</p>
 
 <h1>A Platform</h1>
  <p>Individual  founders could go to individual investors and negotiate a deal. It would be more interesting to create a platform where they all meet. There might even be a bidding component to it.</p>
  <p>A founder will put up their company’s description, its hypotheses, and any progress they have already made, as well as the amount they would like to raise and the repayment scheme. Investors can browse these descriptions and pick the companies they may  like to support. A conversation will likely ensue and then the investor can offer to fund all or some of it under the terms.</p>
- <p>On the flip side, a RADICAL investor can put up a description of the type of companies they are looking to invest in, how much they are willing to invest, and the terms they are looking for. The point being that a platform like this would founders and investors find each other.</p>
- <p>This type of platform is not new and they have not done very well in the past. And in the FIAT model, it makes sense. In a RADICAL environment, with its commitment to transparency it may be different because a certain amount of trust is built from the start. Investors could talk to anybody in the  founding team, not just a self-chosen individual. They could ask any questions they want without signing a proverbial NDA. They could see what they consider important by looking at how they’ve given RADs and what they recognize as contributions.</p>
+ <p>On the flip side, a <span class="_paradigm">RADICAL</span> investor can put up a description of the type of companies they are looking to invest in, how much they are willing to invest, and the terms they are looking for. The point being that a platform like this would founders and investors find each other.</p>
+ <p>This type of platform is not new and they have not done very well in the past. And in the FIAT model, it makes sense. In a <span class="_paradigm">RADICAL</span> environment, with its commitment to transparency it may be different because a certain amount of trust is built from the start. Investors could talk to anybody in the  founding team, not just a self-chosen individual. They could ask any questions they want without signing a proverbial NDA. They could see what they consider important by looking at how they’ve given RADs and what they recognize as contributions.</p>
 
 <h1>But, Is It Sustainable?</h1>
  <table>
@@ -34,7 +34,7 @@ image:    "about-daos.svg"
     <p>Percent of Profit</p>
    </th>
    <td class="_list-item">
-    <p>&ldquo;We make money, when you make money.&rdquo; The platform makes money when the Founders start paying the investors from. Here the company is more directly aligned with investors and founders, but it still does not align well with the RADICAL model where people and communities come first.</p>
+    <p>&ldquo;We make money, when you make money.&rdquo; The platform makes money when the Founders start paying the investors from. Here the company is more directly aligned with investors and founders, but it still does not align well with the <span class="_paradigm">RADICAL</span> model where people and communities come first.</p>
    </td>
   </tr>
   <tr>
@@ -49,66 +49,9 @@ image:    "about-daos.svg"
   </tr>
 </table>
 
-
 <h1>Contribution or Exploitation</h1>
-
-
-<p>
-I remember having an interaction with Zappos customer support and by the end of it, I was totally delighted with the interaction. I would have definitely given them RADs at that point. Platforms like Facebook, which are more interested in exploiting me than to help me, would hardly see any RADs. A RAD Distribution system based on creating value, not in making money for the sake of making money, companies would lean to Zappos-like behavior rather than Facebook-like behavior.
-</p>
-<p>
-Financing based on recognized contributions will create multi-dimensional wealth for all participants.
-</p>
-
-
-<p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
-
-<img style="margin:0 auto; " src="/assets/img/en-alignment.svg" width="70%" alt="">
-
- <table align="center">
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>relationships</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>autonomy</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>collaboration</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
- </table>
- <p style="margin-top:20px; "><span class="_paradigm">RAD</span>s support all of these behaviors,</p>
- <table>
-
-
-<h1 class="_section">ENDNOTES</h1>
- <ol style="font-size:smaller; ">
-  <li id="en01">
-   <p class="_list-item" style="width:1.5in; ">
-    AUTHOR(S)<br>
-    <em>TITLE.</em><br>
-    PUBLICATION YEAR.<br>
-    <<a href="https://…" target="_blank">https://…</a>>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
- </ol>
+ <p>I remember having an interaction with Zappos customer support and by the end of it, I was totally delighted with the interaction. I would have definitely given them RADs at that point. Platforms like Facebook, which are more interested in exploiting me than to help me, would hardly see any RADs. A RAD Distribution system based on creating value, not in making money for the sake of making money, companies would lean to Zappos-like behavior rather than Facebook-like behavior.</p>
+ <p>Financing based on recognized contributions will create multi-dimensional wealth for all participants.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
