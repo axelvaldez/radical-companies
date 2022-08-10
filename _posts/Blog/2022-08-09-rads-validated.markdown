@@ -98,7 +98,6 @@ image:    "giving-rads-icon.svg"
 
  <table>
   <tr>
-  <tr>
    <th>
     <p>Give people discretion in how they do their work</p>
    </th>
