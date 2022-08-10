@@ -84,8 +84,6 @@ image:    "giving-rads-icon.svg"
     <p>&ldquo;&hellip; excellence&rdquo; is way too vague. <span calls="_paradigm">RAD</span>s are used to recognize contributions.  It comes immediately after somebody sees an action as a contribution. It comes from peer co-oweners. They are tangible in that 1) they are countable and 2) they eventually convert to money. They are often unexpected, personal, and public.</p>
    </td>
   </tr>
- </table>
- <table>
   <tr>
    <th>
     <p>Induce &ldquo;challenge stress&rdquo;</p>
