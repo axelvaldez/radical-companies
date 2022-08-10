@@ -87,7 +87,7 @@ image:    "giving-rads-valid-icon.svg"
   </tr>
   <tr>
    <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; background-color:#EEEEEE;">Transparency<br>&Decentralization</td>
+   <td style="text-align:center; background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
    <td valign="middle" style="font-size:xx-large; "> ⬈</td>
    <td valign="top"><em>autonomy</em></td>
   </tr>
