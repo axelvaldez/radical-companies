@@ -31,7 +31,7 @@ image:    "about-daos.svg"
  <p>You are able to decline one deadline and negotiate an alternative one. For example, when it is something new, it is nearly impossible to make an accurate estimate and that comes out in a coversation with other co-owners. Your peer may be asking for a thing that typically bosses ask for because that is what they know. But they are not your boss. You both are co-owners, as represented by <span class="_paradigm">RAD</span>s. Intelligent solutions translate directly into rewards, not adhering to the conventions of the <span class="_paradigm">FIAT</span> work environment.</p>
 
 <h1>Fear Is All You Know</h1>
- <p>As you move down the <span class="_paradigm">FIAT</span> hierarchy, it becomes more and more justified to use deadlines that cause people to fear for their jobs, their reputation, their livelihoods. In a <span class="_paradigm">FIAT</span> business, as tangible ownership and engagement dissappears, fear is all that's left to move <em>those at the bottom</em>.</p>
+ <p>As you move down the <span class="_paradigm">FIAT</span> hierarchy, it becomes more and more justified to use deadlines that cause people to fear for their jobs, their reputation, their livelihoods. In a <span class="_paradigm">FIAT</span> business, as ownership and engagement dissappears, fear is all that's left to move <em>those at the bottom</em>.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
