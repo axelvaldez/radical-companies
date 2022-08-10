@@ -149,7 +149,7 @@ image:    "giving-rads-icon.svg"
     Paul Zak.
     <em>The Neuroscience of Trust</em>
     HBR, Jan-Feb 2017.
-    <<a href="https://hbr.org/2017/01/the-neuroscience-of-trust" target="_blank"><em>&hellipthe-neuroscience-of-trust</em></a>>
+    <<a href="https://hbr.org/2017/01/the-neuroscience-of-trust" target="_blank"><em>&hellip;the-neuroscience-of-trust</em></a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
