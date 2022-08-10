@@ -145,7 +145,7 @@ image:    "giving-rads-icon.svg"
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01" class="_list-item">
-   <p style="width:1.5in; ">
+   <p>
     Paul Zak.
     <em>The Neuroscience of Trust</em>
     HBR, Jan-Feb 2017.
