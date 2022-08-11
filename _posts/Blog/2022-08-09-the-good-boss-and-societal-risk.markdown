@@ -14,12 +14,13 @@ image:    "about-daos.svg"
  <table style="background-color:#EEE; width: 90%; margin: 0 auto; ">
   <tr>
    <td style="border:1px solid black; text-align:center; ">
-    <p style="font-famility:roboto; font-weight:bold; ">I love my manager so much 🥹 🫶🏻</p>
+    <p style="font-size:25px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; padding:1em; ">I love my manager so much 🥹 🫶🏻</p>
     <p>~Twitter</p>
    </td>
   </tr>
  </table>
 
+</div>
 <h1>&nbsp;</h1>
  <p>A good boss is someone who protects you from the hierarchy, or empowers you with (some) decision-making, or gets anything you want, or just leaves you alone. That is good, but it is fragile and temporary, at best.</p>
  <p>This struck home to me as I was listening to a book about Bell Labs. The researchers at Bell Labs were allowed a huge degree of autonomy and they could choose what they wanted to work on. It did not have to have an immediately obvious practical use. It was basic research, discovering fundamental things about how chemistry and physics worked.</p>
