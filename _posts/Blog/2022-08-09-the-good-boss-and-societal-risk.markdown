@@ -15,7 +15,7 @@ image:    "about-daos.svg"
   <tr>
    <td>
     <p style="text-align:center; ">I love my manager so much 🥹 🫶🏻</p>
-    <p style="text-align:right; ">~Twitter</p>
+    <p style="text-align:right; font-size:smaller; ">~Twitter</p>
    </td>
   </tr>
  </table>
