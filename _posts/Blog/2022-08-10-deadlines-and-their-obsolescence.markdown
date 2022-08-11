@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Civil War Deadlines and Their Obsolescence in a RADICAL Context"
+title:    "Deadlines and Their Obsolescence in a RADICAL Context"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "deadline.svg"
