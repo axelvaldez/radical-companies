@@ -11,7 +11,7 @@ image:    "about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <table style="background-color:#EEE; ">
+ <table style="background-color:#EEE; width: 90%; margin: 0 auto; ">
   <tr>
    <td style="border:1px solid black; ">
     <p style="font-famility:roboto; font-weight:bold; ">I love my manager so much 🥹 🫶🏻</p>
