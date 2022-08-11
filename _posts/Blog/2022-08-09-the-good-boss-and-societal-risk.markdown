@@ -19,8 +19,8 @@ image:    "about-daos.svg"
               background-color:beige;
               font-family:American Typewriter,serif;
               padding:1em; "">
-  <tr>
-   <td style="text-align:center; ">
+  <tr style="text-align:center; ">
+   <td>
     <p>I love my manager so much 🥹 🫶🏻</p>
     <p>~Twitter</p>
    </td>
