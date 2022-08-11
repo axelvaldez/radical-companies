@@ -36,7 +36,7 @@ image:    "about-daos.svg"
 
 <h1>Lucky Us</h1>
  <p>I wasn't expecting it, but listening to the book made me aware of how extremely lucky Bell Labs and the rest of society had gotten when Shannon decided to tackle Information Theory <em>first</em>. And therein lies the flaw of management as a temporary, and fragile, guarantor of autonomy. It was not systemic.</p>
- <p>If Bell Labs had been committed to decentralization and transparency, andto creating meaning and belonging, then Shannon would have been guaranteed autonomy on a <em>systemic level</em>. He could have tackled subjects in whatever order he pleased, whether it be Information Theory first or last or in the middle. It would not be up to the largesse of his <em>good boss</em> and the <em>hierarchy</em> he was beholden to.</p>
+ <p>If Bell Labs had been committed to decentralization and transparency and to creating meaning and belonging, then Shannon would have had the autonomy he needed <em>systemic level</em>. He could have tackled subjects in whatever order he pleased, whether it'd be Information Theory first or last or in the middle. It would not be up to the largesse of his <em>good boss</em> and the <em>hierarchy</em> he was beholden to.</p>
 
  <h1>Radically Healthier</h1>
  <p>The <span class="_paradigm">RADICAL</span> model ensures the gains of invention, discovery, and innovation for society. Invention under a <span class="_paradigm">FIAT</span> framework is very high risk. It goes against the norm and it leaves us in a situation where a manager plays roulette with his future within the hierarchy. He might get lucky or there may be some thrill around the risk, but does he really want to live at the edge chance? Do we want society&rsquo;s achievements to be won that way?</p>
