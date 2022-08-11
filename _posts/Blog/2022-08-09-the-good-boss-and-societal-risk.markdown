@@ -3,7 +3,7 @@ layout:   post
 title:    "The Good Boss and Societal Risk"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "about-daos.svg"
+image:    "good-boss.svg"
 ---
 
 <div style="display:none;">
