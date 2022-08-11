@@ -11,10 +11,17 @@ image:    "about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <table style="background-color:#EEE; width: 90%; margin: 0 auto; ">
+ <table style="width: 90%;
+              margin:z0 auto;
+              font-size:25px;
+              text-align:center;
+              border:1px solid CadetBlue;
+              background-color:beige;
+              font-family:American Typewriter,serif;
+              padding:1em; "">
   <tr>
-   <td style="border:1px solid black; text-align:center; ">
-    <p style="font-size:25px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; padding:1em; ">I love my manager so much 🥹 🫶🏻</p>
+   <td style="text-align:center; ">
+    <p>I love my manager so much 🥹 🫶🏻</p>
     <p>~Twitter</p>
    </td>
   </tr>
