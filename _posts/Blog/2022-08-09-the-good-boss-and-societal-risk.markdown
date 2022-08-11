@@ -22,7 +22,7 @@ image:    "about-daos.svg"
 
 </div>
 <h1>&nbsp;</h1>
- <p>A good boss is someone who protects you from the hierarchy, or empowers you with (some) decision-making, or gets anything you want, or just leaves you alone. That is good, but it is fragile and temporary, at best.</p>
+ <p>A good boss protects you from the hierarchy, empowers you with (some) decision-making, or gets anything you want, or just leaves you alone. That is good, but it is also fragile and temporary.</p>
  <p>This struck home to me as I was listening to a book about Bell Labs. The researchers at Bell Labs were allowed a huge degree of autonomy and they could choose what they wanted to work on. It did not have to have an immediately obvious practical use. It was basic research, discovering fundamental things about how chemistry and physics worked.</p>
  
 <h1>Claude Shannon</h1>
