@@ -33,8 +33,8 @@ image:    "radical-fast-icon.svg"
  <p>It's a loss that is experienced every time a message goes up and down the chain. If the message traverses three times, you can experience anywhere from 5% to 15%. It can be even worse if a critical part of the information gets lost or &ldquo;softened&rdquo; as it moves up and down the chain. Without it, people may not even understand the message. So, a a &ldquo;clarification&rdquo; meeting is called. This means that <span class="_paradigm">FIAT</span> organizations attempt to combat information loss with more time loss.</p>
 
 <h1>Dealing with Loss</h1>
- <p>For each of these problems there are a host of patches people have devised to combat them: stand-up meetings, Agile, managing by walking around, and open-door management. The list is almost endless and all of them are fundamental to <span class="_paradigm">FIAT</span> hierarchies. It is a 19th century way of running a business. But we don&rsquo;t have to accept these mind-numbing &ldquo;solutions&rdquo; anymore.</p>
- <p>Now if I just said, &ldquo;throw out this old way of doing stuff,&rdquo; it would imply a painful loss that has to be mourned. Alternatively, we can reframe them as learning experiences that catapulted us into a better life.</p>
+ <p>For each of these problems there are a host of patches people have devised to combat them: stand-up meetings, Agile, managing by walking around, and open-door management. The list is almost endless and is endemic to <span class="_paradigm">FIAT</span> hierarchies and its 19th century way of running a business. But we don&rsquo;t have to accept these mind-numbing &ldquo;solutions&rdquo; anymore.</p>
+ <p>Now if I just said, &ldquo;throw out this old way of doing stuff,&rdquo; it would imply a painful loss that has to be mourned. Alternatively, we can reframe them as learning experiences that can catapult us into a better life.</p>
 
 <h1>The RADICAL Model</h1>
  <p>In the <span class="_paradigm">RADICAL</span> model, communications would look something like this,</p>
