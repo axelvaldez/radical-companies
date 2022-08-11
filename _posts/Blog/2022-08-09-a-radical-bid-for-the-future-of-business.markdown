@@ -15,7 +15,7 @@ image:    "about-daos.svg"
  <p>One possible answer is <span class="_paradigm">RADICAL</span> Investments.</p>
 
 <h1>RADICAL Investments</h1>
- <p>A <span class="_paradigm">RADICAL</span> Investment is a commitment to pay back the principal funds plus a capital gain. For example, a $100,000 investment will get &ldquo;repaid&rdquo; as $200,000 over three years. It is still an investment, not a loan, in that the investor could lose his capital.</p>
+ <p>A <span class="_paradigm">RADICAL</span> Investment is a commitment to pay back the principal funds plus a capital gain. It is still an investment, not a loan, in that the investor could lose his capital. For example, if all goes well, a $100,000 investment may get &ldquo;repaid&rdquo; as $200,000 over three years.</p>
 
 <h1>A Platform</h1>
  <p>Normally, individual founders go to individual investors to make a pitch and, hopefullh, negotiate a deal. It would be more interesting to create a platform where they all meet. There might even be a bidding component to it.</p>
