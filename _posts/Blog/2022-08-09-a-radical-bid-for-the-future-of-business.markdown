@@ -3,7 +3,7 @@ layout:   post
 title:    "A RADICAL Bid for the Future of Business"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "about-daos.svg"
+image:    "radical-bid.svg"
 ---
 
 <div style="display:none;">
