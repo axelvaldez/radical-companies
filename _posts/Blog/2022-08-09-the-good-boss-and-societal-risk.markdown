@@ -12,10 +12,10 @@ image:    "about-daos.svg"
 
 <h1>&nbsp;</h1>
  <table style="width: 90%; margin:z0 auto; font-size:25px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter,serif; padding:1em; ">
-  <tr style="text-align:center; ">
+  <tr>
    <td>
-    <p>I love my manager so much 🥹 🫶🏻</p>
-    <p>~Twitter</p>
+    <p style="text-align:center; ">I love my manager so much 🥹 🫶🏻</p>
+    <p style="text-align:right; ">~Twitter</p>
    </td>
   </tr>
  </table>
