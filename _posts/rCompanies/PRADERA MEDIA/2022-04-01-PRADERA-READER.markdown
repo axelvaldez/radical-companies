@@ -14,7 +14,7 @@ image:    "PRADERA-background.svg"
  <p>A reader app that works with ebooks and platforms (<em>e.g.</em>, Kindle).</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Features</h1>
- <p>While on or near a PADERA SHELF, the READER app can be used to,</p>
+ <p>While on or near a PRADERA SHELF, the READER app can be used to,</p>
  <ul>
   <li>Download, listen to, or watch content.</li>
   <li>Upload reviews and other content (i.e., as text, audio, or video).</li>
