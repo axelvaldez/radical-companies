@@ -11,14 +11,7 @@ image:    "about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <table style="width: 90%;
-              margin:z0 auto;
-              font-size:25px;
-              text-align:center;
-              border:1px solid CadetBlue;
-              background-color:beige;
-              font-family:American Typewriter,serif;
-              padding:1em; "">
+ <table style="width: 90%; margin:z0 auto; font-size:25px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter,serif; padding:1em; ">
   <tr style="text-align:center; ">
    <td>
     <p>I love my manager so much 🥹 🫶🏻</p>
