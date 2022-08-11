@@ -3,7 +3,7 @@ layout:   post
 title:    "Civil War Deadlines and Their Obsolescence in a RADICAL Context"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "about-daos.svg"
+image:    "deadline.svg"
 ---
 
 <div style="display:none;">
