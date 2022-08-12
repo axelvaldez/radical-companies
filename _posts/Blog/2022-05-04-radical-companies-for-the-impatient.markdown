@@ -157,9 +157,9 @@ image:    "dynamic-distribution-1.svg"
     </tr>
    </table>
    <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn5">6&nbsp;</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
-   <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Include <span class="_paradigm">BANNERS</span></h3>
-   <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people and <span class="_paradigm">BANNERS</span> do that.</p>
-   <p><span class="_paradigm">BANNERS</span> can stand for teams, special accomplishments, communities, new products, etc.</p>
+   <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Include <span class="_paradigm">BANNER</span>s</h3>
+   <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people and <span class="_paradigm">BANNER</span>s do that.</p>
+   <p><span class="_paradigm">BANNER</span>s can stand for teams, special accomplishments, communities, new products, etc.</p>
    <p style="width: 80%; margin: 0 auto; ">
     <img src="/assets/img/en-banner.svg" alt="Two post-its as examples of banners. The one of the left reads, 'Community: Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
    </p>
@@ -169,7 +169,7 @@ image:    "dynamic-distribution-1.svg"
       <th style=" text-align: right; padding-right: 1em; ">
        <p>Teams</p>
       </th>
-      <td><p>Teams can be represented by a Banner. “re: Recognize our IT support team for how they handled the storm.” </p>
+      <td><p>Teams can be represented by a <span class="_paradigm">BANNER</span>s. “re: Recognize our IT support team for how they handled the storm.” </p>
       </td>
      </tr>
      <tr style="vertical-align: top; ">
@@ -183,21 +183,21 @@ image:    "dynamic-distribution-1.svg"
      <tr style="vertical-align: top; ">
       <th style=" text-align: right; padding-right: 1em; "><p>Community</p></th>
       <td>
-       <p>For example, a “No Noise” banner could fund a sound barrier around a noisy factory. A “River Walk” banner could fund a clean up and beautification of a stream that runs nearby. One could even fund a local vet hospital to help it recover from a fire.</p>
+       <p>For example, a “No Noise” <span class="_paradigm">BANNER</span> could fund a sound barrier around a noisy factory. A “River Walk” <span class="_paradigm">BANNER</span> could fund a clean up and beautification of a stream that runs nearby. One could even fund a local vet hospital to help it recover from a fire.</p>
       </td>
      </tr>
      <tr style="vertical-align: top; ">
       <th style=" text-align: right; padding-right: 1em; "><p>Experimental Projects</p></th>
       <td>
        <p>At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects and  things like Google News came out of it. That was a generous gift from the <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> owners, but the same owners later took it away.</p>
-       <p>For a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company the equivalent thing would be to put up a “20%” Banner and co-owners could allocate RADs to it as they see fit. Or more specifically, a “Google News” Banner could fund that specific project.</p>
+       <p>For a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company the equivalent thing would be to put up a “20%” <span class="_paradigm">BANNERS</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a “Google News” <span class="_paradigm">BANNER</span>s could fund that specific project.</p>
       </td>
      </tr>
      <tr style="vertical-align: top; ">
       <th style=" text-align: right; padding-right: 1em; "><p>Investments</p></th>
       <td>
        <p>In <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has more to do with ego, like a pharaoh’s pyramid.</p>
-       <p>In a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, anybody can put up a “New building” Banner for co-owners to contribute to the funding of it or not.</p>
+       <p>In a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, anybody can put up a “New building” <span class="_paradigm">BANNER</span>s for co-owners to contribute to the funding of it or not.</p>
       </td>
      </tr>
     </tbody>
