@@ -12,7 +12,7 @@ image:    "dynamic-distribution-1.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">The <span style="font-size:smaller; ">RADICAL</span> Model</h1>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Businesses-as-Dictatorships Hurt Us</h2>
-  <p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination: our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.</p>
+  <p>Our collapsing climate, the gaping wealth gap, discrimation against people of color, the exploitation of women. These and but a few of the inescapable side-effects of the system we live in, a system based on domination. A system that &ldquo;divides, demonizes, and causes us to suspend our intincts toward better.&rdquo;<a id="bm01" href="#en01"><sup>1&nbsp;</sup></a> But it has also brought us abundance. We don not want to throw the baby out with the bathwater. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.</p>
   <p>Nature follows a simple path to create big beautiful things out of unpretentious, small ones. From a tiny seed to a mighty oak tree. We don’t think that a long list of principles or color scales or a 17 page constitution are necessary to make a fundamental change. Eventually, these can become dogma, a form of force, and get in the way.</p>
   <p> With that in mind, we came up with what we think are the most basic foundations to support our coming together to share work and wealth.</p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Easy-to-Remember Foundation for a <span style="font-size:smaller; ">RADICAL</span> Company</h2>
@@ -58,17 +58,17 @@ image:    "dynamic-distribution-1.svg"
   </ul>
   <p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed and by the people involved.</p>
   <div id="fnref1"> </div>
-   <p>Unlike in a FIAT business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time. “An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
+   <p>Unlike in a FIAT business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time. “An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1">2&nbsp;</a></sup></p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Alignment Must Be Explicit and Transparent</h2>
   <p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, we first need to be explicit about the company’s IMPACT  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump tje, in different ways. No matter, they have to be explicit and completely open and accessible to everyone.</p>
-  <p>The three-finger Scout Salute<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> is a good mnemonic for it,</p>
+  <p>The three-finger Scout Salute<sup id="fnref2"><a href="#fn2">3&nbsp;</a></sup> is a good mnemonic for it,</p>
   <pre style="font-family: courier new; text-align: center; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment" style="width: 80%; ">
   </pre>
   <ul>
    <li>
     <p>Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.</p>
-    <p>Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, “… a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.”<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
+    <p>Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, “… a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.”<sup id="fnref3"><a href="#fn3">4&nbsp;</a></sup></p>
    </li>
    <li>
     <p>Purpose is the reason why we, as a company, are focused on this particular Impact. It doesn't have to be world shaking and it doesn't have to strum your heart’s strings. An effective Purpose must clearly express <em>why</em> it is important for others to join us in this adventure.</p>
@@ -82,7 +82,7 @@ image:    "dynamic-distribution-1.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; "><spen style="font-size:smaller; ">RADICAL</spen> Distribution</h1>
  <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Inspiration: The Rosedale Distribution</h2>
-  <p>Rosedale Distribution<sup id="fnref5"><a href="#fn4" rel="footnote">5</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,</p>
+  <p>Rosedale Distribution<sup id="fnref5"><a href="#fn4">5&nbsp;</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,</p>
   <ul>
    <li>As the company grows, a small amount of cash and shares are put out for distribution every month.</li>
    <li>Every member gets, say, $1,000, an equal portion of the wealth the company generated.</li>
@@ -156,7 +156,7 @@ image:    "dynamic-distribution-1.svg"
      <td colspan="4">&nbsp;</td>
     </tr>
    </table>
-   <p>As people share and grant each other <span style="font-size:smaller; ">RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn5" rel="footnote">6</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
+   <p>As people share and grant each other <span style="font-size:smaller; ">RAD</span>s, they learn the value of what they’ve built together at a visceral level. People will be encouraged to learn to communicate better (“It ain't bragging if you've done it”<sup id="fnref6"><a href="#fn5">6&nbsp;</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they've learned from them, and how it can be valuable to others.</p>
    <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Include Banners</h3>
    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people.</p>
    <p>Distribution Banners can stand for teams, special accomplishments, communities, new products, etc.</p>
@@ -313,6 +313,13 @@ image:    "dynamic-distribution-1.svg"
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin:50px 0 20px 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
+  <li id="en01">
+   Seth Godin.
+   <em>Naysayers (and the grifters)</em>
+   May 4, 2020.
+   <<a href="https://radicals.world/hOC6jE">https://radicals.world/hOC6jE</a>>
+   <a href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+  </li>
   <li id="fn1">Seth Godin. <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>). May 4, 2020. <a href="#fnref1"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
   <li id="fn2">This is also a gesture popularized in <a href="https://en.wikipedia.org/wiki/The_Hunger_Games">The Hunger Games</a> movies to express unity with people striving to survive. Since 2014 it has also become a symbol of <a href="https://radicals.world/pG9bAM">pro-democracy in Thailand</a> (alt., <a href="https://diigo.com/0iu409">here</a>). Very apropos. <a href="#fnref2"><img src="/assets/img/arrow-up-icon.png"  style="width:20px; "></a></li>
   <li id="fn3">Dave Logan. How to Develop Your Noble Obsession (alt., <a href="">here</a>). Aug 5, 2013. <a href="#fnref3"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
