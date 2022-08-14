@@ -49,7 +49,7 @@ image:    "dynamic-distribution-1.svg"
   </table>
   <p>Other practices can be layered on top of these, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company these are essential, otherwise it is just a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business with ain’t-we-nice sprinkled on top.</p>
   <ul>
-   <li>Will this reduce the autonomy of people to find meaning? (<em>e.g.</em>, "This is has be done by&hellip;&nbsp;")</li>
+   <li>Will this reduce the ability of people to find meaning? (<em>e.g.</em>, "This is has be done by&hellip;&nbsp;")</li>
    <li>Are we taking people's autonomy to determine who they work with? (<em>e.g.</em>, pre-assigned "teams")</li>
    <li>Will this make it more or less centralized? (<em>e.g.</em>, having an entitled subcommittee)</li>
    <li>Will this decision make us more or less transparent? (<em>e.g.</em>, predetermining budgets)</li>
