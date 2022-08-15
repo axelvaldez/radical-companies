@@ -48,14 +48,16 @@ image:    "dynamic-distribution-1.svg"
    </tr>
   </table>
   <p>Other practices can be layered on top of these, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company this foundation is essential, otherwise it is just a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business with ain&rsquo;t-we-nice sprinkled on top.</p>
-  <!--<ul>
+  <div style="display:none; ">
+  <ul>
    <li>Will this reduce the ability of people to find meaning? (<em>e.g.</em>, &ldquo;This is has be done by&hellip;&nbsp;&rdquo;)</li>
    <li>Are we taking people&rsquo;s autonomy to determine who they work with? (<em>e.g.</em>, &ldquo;This is your team&hellip;&rdquo;)</li>
    <li>Will this make it more or less centralized? (<em>e.g.</em>, having an entitled subcommittee)</li>
    <li>Will this decision make us more or less transparent? (<em>e.g.</em>, predetermining budgets)</li>
    <li>Does this go against our agreed upon alignment? (<em>e.g.</em>, &ldquo;We have to do this for a little while&hellip;&nbsp;&rdquo;)</li>
    <li>Are we allowing for experimentation? (<em>e.g.</em>, &ldquo;This has to meet these requirement <em>and</em> it has to be done this way&hellip;&nbsp;&rdquo;)</li>
-  </ul>-->
+  </ul>
+  </div>
   <p>Hierarchies don&rsquo;t just go away, but, unlike in a FIAT business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what&rsquo;s needed, by the people involved, and a particular time. &ldquo;An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. &hellip; The org chart is insufficient.&rdquo;<sup id="en02"><a href="#en02">2&nbsp;</a></sup></p>
  <h2>Alignment Must Be Explicit and Transparent</h2>
   <p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, we first need to be explicit about the company&rsquo;s IMPACT  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump tje, in different ways. No matter, they have to be explicit and completely open and accessible to everyone.</p>
