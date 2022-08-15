@@ -220,21 +220,11 @@ footer{
 }
 
 /* Matt's */
+h1, h2 {
+  font-family:'Courier New', Courier, monospace;
+}
 h1 {
   font-size:40px;
-}
-h1._section {
-  font-size:50px;
-  font-family:'Courier New', Courier, monospace;
-  text-align:center;
-  margin:100px 0 20px 0;
-  color:gray;
-}
-.text-lg-start h1 {
-  font-size:60px;
-}
-.text-lg-start p {
-  font-size:30px;
 }
 h2 {
   font-size:30px;
@@ -244,6 +234,18 @@ li {
 }
 a._uparrow img {
   height:15px;
+}
+h1._section {
+  font-size:50px;
+  text-align:center;
+  margin:100px 0 20px 0;
+  color:gray;
+}
+.text-lg-start h1 {
+  font-size:60px;
+}
+.text-lg-start p {
+  font-size:30px;
 }
 tr {
   vertical-align:top;
