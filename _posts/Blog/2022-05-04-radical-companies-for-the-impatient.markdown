@@ -48,6 +48,7 @@ image:    "dynamic-distribution-1.svg"
    </tr>
   </table>
   <p>Other practices can be layered on top of these, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company this foundation is essential, otherwise it is just a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business with ain’t-we-nice sprinkled on top.</p>
+  <!--
   <ul>
    <li>Will this reduce the ability of people to find meaning? (<em>e.g.</em>, &ldquo;This is has be done by&hellip;&nbsp;&rdquo;)</li>
    <li>Are we taking people's autonomy to determine who they work with? (<em>e.g.</em>, &ldquo;This is your team&hellip;&rdquo;)</li>
@@ -56,6 +57,7 @@ image:    "dynamic-distribution-1.svg"
    <li>Does this go against our agreed upon alignment? (<em>e.g.</em>, &ldquo;We have to do this for a little while&hellip;&nbsp;&rdquo;)</li>
    <li>Are we allowing for experimentation? (<em>e.g.</em>, &ldquo;This has to meet these requirement <em>and</em> it has to be done this way&hellip;&nbsp;&rdquo;)</li>
   </ul>
+  -->
   <p>Unlike in a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business, a hierarchy is not imposed in a co-managed company. The hierarchies that do emerge are dynamic, fluid, and shaped by what's needed and by the people involved.</p>
   <div id="fnref1"> </div>
    <p>Unlike in a FIAT business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what's needed, by the people involved, and a particular time. “An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. … The org chart is insufficient.”<sup id="fnref1"><a href="#fn1">2&nbsp;</a></sup></p>
