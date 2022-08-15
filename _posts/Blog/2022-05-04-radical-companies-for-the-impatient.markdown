@@ -47,7 +47,7 @@ image:    "dynamic-distribution-1.svg"
     <td colspan="4">&nbsp;</td>
    </tr>
   </table>
-  <p>Other practices can be layered on top of these, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company these are essential, otherwise it is just a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business with ain’t-we-nice sprinkled on top.</p>
+  <p>Other practices can be layered on top of these, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company this foundation is essential, otherwise it is just a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business with ain’t-we-nice sprinkled on top.</p>
   <ul>
    <li>Will this reduce the ability of people to find meaning? (<em>e.g.</em>, &ldquo;This is has be done by&hellip;&nbsp;&rdquo;)</li>
    <li>Are we taking people's autonomy to determine who they work with? (<em>e.g.</em>, &ldquo;This is your team&hellip;&rdquo;)</li>
