@@ -82,7 +82,7 @@ image:    "dynamic-distribution-1.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; "><spen style="font-size:smaller; ">RADICAL</spen> Distribution</h1>
  <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
  <h2>Inspiration: The Rosedale Distribution</h2>
-  <p>Rosedale Distribution<sup id="bm05"><a href="#en05">5&nbsp;</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,</p>
+  <p>Rosedale Distribution<sup id="bm05"><a href="#en05">5&nbsp;</a></sup> is our name for a practice that we first heard from entrepreneur Philip Rosedale,</p>
   <ul>
    <li>As the company grows, a small amount of cash and shares are put out for distribution every month.</li>
    <li>Every member gets, say, $1,000, an equal portion of the wealth the company generated.</li>
@@ -111,7 +111,7 @@ image:    "dynamic-distribution-1.svg"
    </li>
    <li>Alternatively, co-owners might get one <span style="font-size:smaller; ">RAD</SPAN>s per day. They could then allocate fractions of this one <span style="font-size:smaller; ">RAD</SPAN>. One tenth to Adrian, 0.01 to Jose, and 0.001 to me.
    </li>
-   <li>We may have Distribution events once a month, where everybody participates. Alternatively, you may do your allocations daily and I may do them once a month. Or maybe you start daily and then skip a few days before you allocate again.
+   <li>We may have Distribution events once a month, where everybody participates. Alternatively, you may do your allocations daily and somebody else may do them once a month. Or maybe you start daily and then skip a few days before you allocate again.
    </li>
    <li>Your unallocated <span style="font-size:smaller; ">RAD</SPAN>s may disappear every day or they may accumulate for a month or a year.
    </li>
@@ -241,7 +241,7 @@ image:    "dynamic-distribution-1.svg"
     <li>If what I&rsquo;ve earned matches my PRI, then I take that much home.</li>
     <li>If I earned <em>less than my PRI</em>, I still take home <em>the amount of money I expected</em>, because the <em>PRI Account</em> makes up the difference, but I now owe the difference to the <em>PRI Account</em>.</li>
    </ul>
-   <p>You&rsquo;ll have to experiment with how these debts are settled. At its loosest, I could pay that debt &ldquo;later&rdquo; (<em>e.g.</em>, out of my future Earned Dividends). At its most rigid, I&rsquo;d have to pay the <em>PRI Account</em> debt, plus interest, within 60 days. Our suggestion, as always, is to go for a policy that matches peoples' needs and situation. If a problem crops up, then tweak the policy as appropiate. In any case, don&rsquo;t yield to imagined fears.</p>
+   <p>You&rsquo;ll have to experiment with how these debts are settled. At its loosest, I could pay that debt &ldquo;later&rdquo; (<em>e.g.</em>, out of my future Earned Dividends). At its most rigid, I&rsquo;d have to pay the <em>PRI Account</em> debt, plus interest, within, say, 60 days. Our suggestion, as always, is to go for a policy that matches peoples' needs and situation. If a problem crops up, then tweak the policy as appropiate. In any case, don&rsquo;t yield to imagined fears.</p>
    <p>In the example below, Salim, Daliah, Alicia, and Anita earned enough dividends to cover their full <em>Predictable  Recurring Income</em> (PRI); Kim and Julio earned less than their PRI, so money flows out of the <em>PRI Account</em> to make up the difference, but they now owe this much to the <em>PRI Account</em>.</p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
     <img src="/assets/img/en-predictable-recurring-income-pri-t0.svg" alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs.
