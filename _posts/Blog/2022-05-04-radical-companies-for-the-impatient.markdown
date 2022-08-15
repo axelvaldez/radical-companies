@@ -317,33 +317,33 @@ image:    "dynamic-distribution-1.svg"
    Seth Godin.
    <em>Naysayers (and the grifters)</em>
    May 4, 2020.
-   <<a href="https://radicals.world/hOC6jE">https://radicals.world/hOC6jE</a>>
+   <a href="https://radicals.world/hOC6jE">https://radicals.world/hOC6jE</a>
    <a href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
   <li id="en02">
    Seth Godin.
    <a href="https://radicals.world/WlO6ji">What kind of org?</a> (alt., <a href="https://diigo.com/0ofg1r">here</a>).
    May 4, 2020.
-   <<a href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>>
+   <a href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
   <li id="en03">
    This is also a gesture popularized in <a href="https://en.wikipedia.org/wiki/The_Hunger_Games">The Hunger Games</a> movies to express unity with people striving to survive. Since 2014 it has also become a symbol of <a href="https://radicals.world/pG9bAM">pro-democracy in Thailand</a> (alt., <a href="https://diigo.com/0iu409">here</a>). Very apropos.
-   <<a href="#bm02"><img src="/assets/img/arrow-up-icon.png"  style="width:20px; "></a>>
+   <a href="#bm02"><img src="/assets/img/arrow-up-icon.png"  style="width:20px; "></a>
   </li>
   <li id="en04">
    Dave Logan. How to Develop Your Noble Obsession (alt., <a href="">here</a>).
    Aug 5, 2013.
-   <<a href="#bm03"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>>
+   <a href="#bm03"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
   <li id="en05">
    <a href="https://en.wikipedia.org/wiki/Philip_Rosedale">Philip Rosedale</a> introduced the tool in 2005 when Linden Labs had about 50 employees.
-   <<a href="#bm04"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>>
+   <a href="#bm04"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
   <li id="en06">
    James Owen.
    <a href="https://www.goodreads.com/quotes/1279415-it-ain-t-bragging-if-you-ve-done-it-there-s-nothing-wrong">Drawing Out the Dragons: A Meditation on Art, Destiny, and the Power of Choice</a> (alt., <a href="https://diigo.com/0ofgkz">here</a>).
    2014.
-   <<a href="#bm05"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>>
+   <a href="#bm05"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
  </ol>
 
