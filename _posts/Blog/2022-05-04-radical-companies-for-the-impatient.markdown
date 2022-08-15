@@ -85,7 +85,7 @@ image:    "dynamic-distribution-1.svg"
   <p>Co-owners then get to distribute RADs according to their individual judgment. Each decides what is an <em>equitable</em> number of <span style="font-size:smaller; ">RAD</SPAN>s to give to other co-owners as recognition for their contributions. The value of the whole emerges from the judgment of the many.</p> 
   <p>A few important observations,</p>
   <ul>
-   <li>RADs are not a currency.</li>
+   <li><span style="font-size:smaller; ">RAD</SPAN>s are not a currency.</li>
    <li><span style="font-size:smaller; ">RAD</SPAN>s are issued even before there is revenue because contributions happen regardless of revenue.</li>
    <li>The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every Distribution Retrospective new criteria are fleshed out and harvested as an optional guideline.</li>
    <li><span style="font-size:smaller; ">RAD</SPAN>s represent <em>dynamic</em> ownership. One month you may give me all your <span style="font-size:smaller; ">RAD</SPAN>s, but the next month you may not give me any.</li>
