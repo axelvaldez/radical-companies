@@ -71,7 +71,7 @@ image:    "dynamic-distribution-1.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; "><spen style="font-size:smaller; ">RADICAL</spen> Distribution</h1>
  <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
- <h2>Inspiration: The Rosedale Distribution</h2>
+ <h2>The Rosedale Distribution</h2>
   <p>Rosedale Distribution<sup id="bm05"><a href="#en05">5&nbsp;</a></sup> is our name for a practice that we first heard from entrepreneur Philip Rosedale,</p>
   <ul>
    <li>As the company grows, a small amount of cash and shares are put out for distribution every month.</li>
@@ -79,18 +79,18 @@ image:    "dynamic-distribution-1.svg"
    <li>They give it to anybody they feel has contributed the most during the month. Each person knows best who has meaningfully contributed.</li>
    <li>Each person decides how much to give to whom based on whatever criteria &ldquo;feels right&rdquo; to them.</li>
   </ul>
- <h2>The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL DISTRIBUTION</SPAN> Difference</h2>
-  <p>Instead of cash or stocks, <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distribution uses a dimensionless unit we call a <span class="_paradigm">RAD</SPAN>. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, <span class="_paradigm">RAD</SPAN>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>.</p>
+ <h2>The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL DISTRIBUTION</SPAN></h2>
+  <p>Instead of cash or stocks, <span class="_paradigm">RADICAL DISTRIBUTION</SPAN> uses a dimensionless unit we call a <span class="_paradigm">RAD</SPAN>. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, <span class="_paradigm">RAD</SPAN>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>.</p>
   <p>RADs represent any kind of contribution, not just financial. In fact, as an accounting tool, <span class="_paradigm">RAD</SPAN>s account for the unaccountable.</p>
   <p>Co-owners then get to distribute RADs according to their individual judgment. Each decides what is an <em>equitable</em> number of <span class="_paradigm">RAD</SPAN>s to give to other co-owners as recognition for their contributions. The value of the whole emerges from the judgment of the many.</p> 
   <p>A few important observations,</p>
   <ul>
    <li><span class="_paradigm">RAD</SPAN>s are not a currency.</li>
    <li><span class="_paradigm">RAD</SPAN>s are issued even before there is revenue because contributions happen regardless of revenue.</li>
-   <li>The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every Distribution Retrospective new criteria are fleshed out and harvested as an optional guideline.</li>
+   <li>The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every <span class="_paradigm">DISTRIBUTION RESTROSPECTIVE</span> new criteria are fleshed out and harvested as an optional guideline.</li>
    <li><span class="_paradigm">RAD</SPAN>s represent <em>dynamic</em> ownership. One month you may give me all your <span class="_paradigm">RAD</SPAN>s, but the next month you may not give me any.</li>
-   <li>The absolute number of <span class="_paradigm">RAD</SPAN>s allocated to me either stays the same or goes up at every distribution. If I had 100 <span class="_paradigm">RAD</SPAN>s last cycle and I get 50 this cycle, my total number of <span class="_paradigm">RAD</SPAN>s goes to 150. If I don&rsquo;t get any this cycle, my total number of <span class="_paradigm">RAD</SPAN>s stays at 100.</li>
-   <li>On the other hand, my percentage of the total could go up, stay the same, or go down at every Distribution. For example, if I get 100 <span class="_paradigm">RAD</SPAN>s from a total of 1,000, then I have 10% of the total. If I get 50 <span class="_paradigm">RAD</SPAN>s this cycle, I have 150 <span class="_paradigm">RAD</SPAN>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</SPAN>s, my percentage stays at 10%. In the worst case, if I don&rsquo;t get any new <span class="_paradigm">RAD</SPAN>s, my percentage goes down to 8%.</li>
+   <li>The absolute number of <span class="_paradigm">RAD</SPAN>s allocated to me either stays the same or goes up at every <span class="_paradigm">DISTRIBUTION</span>. For example, if I had 100 <span class="_paradigm">RAD</SPAN>s last cycle and I get 50 this cycle, my total number of <span class="_paradigm">RAD</SPAN>s goes to 150. If I don&rsquo;t get any this cycle, my total number of <span class="_paradigm">RAD</SPAN>s stays at 100.</li>
+   <li>On the other hand, my percentage of the total could go up, stay the same, or go down at every <span class="_paradigm">DISTRIBUTION</span>. For example, if I get 100 <span class="_paradigm">RAD</SPAN>s from a total of 1,000, then I have 10% of the total. If I get 50 <span class="_paradigm">RAD</SPAN>s this cycle, I have 150 <span class="_paradigm">RAD</SPAN>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</SPAN>s, my percentage stays at 10%. In the worst case, if I don&rsquo;t get any new <span class="_paradigm">RAD</SPAN>s, my percentage goes down to 8%.</li>
    <li>To calculate your percentage ownership, divide the number of <span class="_paradigm">RAD</SPAN>s you have been given by the total number of <span class="_paradigm">RAD</SPAN>s.</li>
    <li>When money, or time, or whatever else is disbursed later, it is done as a function of the number of <span class="_paradigm">RAD</SPAN>s each person owns. For example, if you have accumulated 200 <span class="_paradigm">RAD</SPAN>s and I have 100, then you&rsquo;ll get twice as much as me of whatever is being factored through the <span class="_paradigm">RAD</SPAN>s.</li>
   </ul>
@@ -105,7 +105,7 @@ image:    "dynamic-distribution-1.svg"
    <li>Your unallocated <span class="_paradigm">RAD</SPAN>s may disappear every day or they may accumulate for a month or a year.
    </li>
   </ul>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Are Scalable</h3>
+  <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONs Are Scalable</h3>
    <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,</p>
    <table style="width: 80%; margin: 0 auto; ">
     <tr>
@@ -191,12 +191,12 @@ image:    "dynamic-distribution-1.svg"
      </tr>
     </tbody>
   </table>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTIONS</span> Include Retrospectives</h3>
+  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include <span class="_paradigm">RETROSPECTIVE</span>s</h3>
    <p>At a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTIONS</span> Include Feedback</h3>
-   <p>Anybody who wants to can call for a feedback session after a Distribution. In particular, people who didn&rsquo;t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it&rsquo;s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTIONS</span> Are Transparent</h3>
-   <p>We don&rsquo;t think that <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Distributions will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of <span class="_paradigm">RAD</SPAN>s allocated, but that is fear speaking, limiting our options. We don&rsquo;t think that anything less than full disclosure will work.</p>
+  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include Feedback</h3>
+   <p>Anybody who wants to can call for a feedback session after a <span class="_paradigm">DISTRIBUTION</span>. In particular, people who didn&rsquo;t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it&rsquo;s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
+  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Are Transparent</h3>
+   <p>We don&rsquo;t think that <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL DISTRIBUTION</SPAN>s will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of <span class="_paradigm">RAD</SPAN>s allocated, but that is fear speaking, limiting our options. We don&rsquo;t think that anything less than full disclosure will work.</p>
    <p>Of course, you&rsquo;ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RAD</span>s Account for the Unaccountable</h3>
    <p><span class="_paradigm">RAD</SPAN>s represent many things other than simple financial value. They are not beans, but they can be counted.</p>
