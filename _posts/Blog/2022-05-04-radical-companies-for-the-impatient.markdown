@@ -56,17 +56,17 @@ image:    "dynamic-distribution-1.svg"
    <li>Does this go against our agreed upon alignment? (<em>e.g.</em>, &ldquo;We have to do this for a little while&hellip;&nbsp;&rdquo;)</li>
    <li>Are we allowing for experimentation? (<em>e.g.</em>, &ldquo;This has to meet these requirement <em>and</em> it has to be done this way&hellip;&nbsp;&rdquo;)</li>
   </ul>-->
-  <p>Hierarchies don&rsquo;t just go away, but, unlike in a FIAT business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what&rsquo;s needed, by the people involved, and a particular time. &ldquo;An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. &hellip; The org chart is insufficient.&rdquo;<sup id="bm01"><a href="#fn1">2&nbsp;</a></sup></p>
+  <p>Hierarchies don&rsquo;t just go away, but, unlike in a FIAT business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what&rsquo;s needed, by the people involved, and a particular time. &ldquo;An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. &hellip; The org chart is insufficient.&rdquo;<sup id="en02"><a href="#en02">2&nbsp;</a></sup></p>
  <h2>Alignment Must Be Explicit and Transparent</h2>
   <p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, we first need to be explicit about the company&rsquo;s IMPACT  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump tje, in different ways. No matter, they have to be explicit and completely open and accessible to everyone.</p>
-  <p>The three-finger Scout Salute<sup id="bm02"><a href="#fn2">3&nbsp;</a></sup> is a good mnemonic for it,</p>
+  <p>The three-finger Scout Salute<sup id="bm03"><a href="#en03">3&nbsp;</a></sup> is a good mnemonic for it,</p>
   <pre style="font-family: courier new; text-align: center; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment" style="width: 80%; ">
   </pre>
   <ul>
    <li>
     <p>Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.</p>
-    <p>Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, &ldquo;… a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.&rdquo;<sup id="bm03"><a href="#fn3">4&nbsp;</a></sup></p>
+    <p>Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, &ldquo;… a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.&rdquo;<sup id="bm04"><a href="#fn3">4&nbsp;</a></sup></p>
    </li>
    <li>
     <p>Purpose is the reason why we, as a company, are focused on this particular Impact. It doesn&rsquo;t have to be world shaking and it doesn&rsquo;t have to strum your heart&rsquo;s strings. An effective Purpose must clearly express <em>why</em> it is important for others to join us in this adventure.</p>
@@ -80,7 +80,7 @@ image:    "dynamic-distribution-1.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; "><spen style="font-size:smaller; ">RADICAL</spen> Distribution</h1>
  <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
  <h2>Inspiration: The Rosedale Distribution</h2>
-  <p>Rosedale Distribution<sup id="bm05"><a href="#fn4">5&nbsp;</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,</p>
+  <p>Rosedale Distribution<sup id="bm05"><a href="#en04">5&nbsp;</a></sup> is our name for a practice that I first heard from entrepreneur Philip Rosedale,</p>
   <ul>
    <li>As the company grows, a small amount of cash and shares are put out for distribution every month.</li>
    <li>Every member gets, say, $1,000, an equal portion of the wealth the company generated.</li>
@@ -154,7 +154,7 @@ image:    "dynamic-distribution-1.svg"
      <td colspan="4">&nbsp;</td>
     </tr>
    </table>
-   <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;ve built together at a visceral level. People will be encouraged to learn to communicate better (&ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it&rdquo;<sup id="bm06"><a href="#fn5">6&nbsp;</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they&rsquo;ve learned from them, and how it can be valuable to others.</p>
+   <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;ve built together at a visceral level. People will be encouraged to learn to communicate better (&ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it&rdquo;<sup id="bm06"><a href="#en06">6&nbsp;</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they&rsquo;ve learned from them, and how it can be valuable to others.</p>
    <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Include <span class="_paradigm">BANNER</span>s</h3>
    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people and <span class="_paradigm">BANNER</span>s do that.</p>
    <p><span class="_paradigm">BANNER</span>s can stand for teams, special accomplishments, communities, new products, etc.</p>
