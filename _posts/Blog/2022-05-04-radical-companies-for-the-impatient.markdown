@@ -87,23 +87,21 @@ image:    "dynamic-distribution-1.svg"
   <ul>
    <li><span class="_paradigm">RAD</SPAN>s are not a currency.</li>
    <li><span class="_paradigm">RAD</SPAN>s are issued even before there is revenue because contributions happen regardless of revenue.</li>
-   <li>The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every <span class="_paradigm">DISTRIBUTION RESTROSPECTIVE</span> new criteria are fleshed out and harvested as an optional guideline.</li>
+   <li>The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every <span class="_paradigm">DISTRIBUTION RESTROSPECTIVE</span> new criteria are fleshed out and harvested to use as guidelines.</li>
    <li><span class="_paradigm">RAD</SPAN>s represent <em>dynamic</em> ownership. One month you may give me all your <span class="_paradigm">RAD</SPAN>s, but the next month you may not give me any.</li>
    <li>To calculate your percentage ownership, divide the number of <span class="_paradigm">RAD</SPAN>s you have been given by the total number of <span class="_paradigm">RAD</SPAN>s.</li>
    <li>The absolute number of <span class="_paradigm">RAD</SPAN>s allocated to me either stays the same or goes up at every <span class="_paradigm">DISTRIBUTION</span>, but it never goes down. For example, if I had 100 <span class="_paradigm">RAD</SPAN>s last cycle and I get 50 this cycle, my total number of <span class="_paradigm">RAD</SPAN>s goes to 150. If I don&rsquo;t get any this cycle, my total number of <span class="_paradigm">RAD</SPAN>s stays at 100.</li>
    <li>On the other hand, my <em>percentage</em> of the total could go up, stay the same, or go down at every <span class="_paradigm">DISTRIBUTION</span>. For example, if I get 100 <span class="_paradigm">RAD</SPAN>s from a total of 1,000, then I have 10% of the total. If I get 50 <span class="_paradigm">RAD</SPAN>s this cycle, I have 150 <span class="_paradigm">RAD</SPAN>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</SPAN>s, my percentage stays at 10%. In the worst case, if I don&rsquo;t get any new <span class="_paradigm">RAD</SPAN>s, my percentage goes down to 8%.</li>
    <li>When money, or time, or whatever else is disbursed later, it is done as a function of the number of <span class="_paradigm">RAD</SPAN>s each person owns. For example, if you have accumulated 200 <span class="_paradigm">RAD</SPAN>s and I have 100, then you&rsquo;ll get twice as much as me of whatever is being factored through the <span class="_paradigm">RAD</SPAN>s.</li>
   </ul>
-  <p>There probably are many ways of doing this,</p>
+  <p>There allocations go like this,</p>
   <ul>
-   <li>Every cycle each member gets to distribute a number of <span class="_paradigm">RAD</SPAN>s as they see fit. For example, if you get 100 <span class="_paradigm">RAD</SPAN>s this month, you may give fifty to Adrian, 30 to Jose, and 20 to me.
+   <li>Co-owners get to recognize contributions by pressing a button in the RADs! app. They can press this &ldquo;recognition&rdquo; button as many times as they <em>feel</em> like.</li>
+   <li>Co-owners get one <span class="_paradigm">RAD</SPAN> per day.</li>
+   <li>At the end of the cycle, the number of recognitions you have given are divided by the total number of recognitions given by everybody during the cycle. By multiplying this percentage by the total number of RADs accumulated during the cycle, we get the number of RADs each persson gets.</li>
+   <li>Each member gets to recognize contributions as they see fit. For example, you may end up giving 50% of your <span class="_paradigm">RAD</SPAN>s to Adrian, 33% to Jose, and 1.7% to me. This would allocate, roughtly, 15 <span class="_paradigm">RAD</SPAN>s to Adrian, 10 to Jose, and 5 to me.
    </li>
-   <li>Alternatively, co-owners might get one <span class="_paradigm">RAD</SPAN>s per day. They could then allocate fractions of this one <span class="_paradigm">RAD</SPAN>. One tenth to Adrian, 0.01 to Jose, and 0.001 to me.
-   </li>
-   <li>We may have <span class="_paradigm">DISTRIBUTION</span> events once a month, where everybody participates. Alternatively, you may do your <span class="_paradigm">DISTRIBUTION</span> weekly.</li>
-   <li>Maybe you start daily and then skip a few days before you allocate again.
-   </li>
-   <li>Your unallocated <span class="_paradigm">RAD</SPAN>s may disappear every day or they may accumulate for a month or a year.
+   <li>You may have <span class="_paradigm">DISTRIBUTION</span> events once a month, where everybody participates, give feedback, and participate in <span class="_paradigm">RETROSPECTIVES</span>.</li>
    </li>
   </ul>
   <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONs Are Scalable</h3>
