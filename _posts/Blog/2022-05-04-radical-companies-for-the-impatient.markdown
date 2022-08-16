@@ -150,8 +150,8 @@ image:    "dynamic-distribution-1.svg"
     <img src="/assets/img/en-banner.svg" alt="Two post-its as examples of banners. The one of the left reads, 'Community: Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
    </p>
    <table>
-    <tbody style="font-size:smaller; ">
-     <tr style="vertical-align: top; ">
+    <tbody style="font-size:smaller; vertical-align: top; ">
+     <tr>
       <th style=" text-align: right; padding-right: 1em; ">
        <p>Teams</p>
       </th>
