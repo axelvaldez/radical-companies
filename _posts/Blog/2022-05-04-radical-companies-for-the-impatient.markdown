@@ -135,9 +135,9 @@ image:    "dynamic-distribution-1.svg"
     </tr>
     <tr>
      <td style="font-size:small; text-align:center; ">2 people&rsquo;s point of view:<br>31 of 56 people.</td>
-     <td style="font-size:smaller; text-align:center; ">4 people&rsquo;s point of view:<br>40 of 56 people.</td>
-     <td style="font-size:x-small; text-align:center; ">4 people&rsquo;s point of view:<br>55 of 56 people.</td>
-     <td style="font-size:x-small; text-align:center; ">5 people&rsquo;s point of view:<br>56 of 56 people.</td>
+     <td style="font-size:small; text-align:center; ">4 people&rsquo;s point of view:<br>40 of 56 people.</td>
+     <td style="font-size:small; text-align:center; ">4 people&rsquo;s point of view:<br>55 of 56 people.</td>
+     <td style="font-size:small; text-align:center; ">5 people&rsquo;s point of view:<br>56 of 56 people.</td>
     </tr>
     <tr>
      <td colspan="4">&nbsp;</td>
