@@ -152,14 +152,14 @@ image:    "dynamic-distribution-1.svg"
    <table>
     <tbody style="font-size:smaller; vertical-align: top; ">
      <tr>
-      <th style=" text-align: right; padding-right: 1em; ">
+      <th>
        <p>Teams</p>
       </th>
       <td><p>Teams can be represented by a <span class="_paradigm">BANNER</span>s. &ldquo;re: Recognize our IT support team for how they handled the storm.&rdquo; </p>
       </td>
      </tr>
      <tr style="vertical-align: top; ">
-      <th style=" text-align: right; padding-right: 1em; ">
+      <th>
        <p>Special Accomplishment</p>
       </th>
       <td>
@@ -167,20 +167,22 @@ image:    "dynamic-distribution-1.svg"
       </td>
      </tr>
      <tr style="vertical-align: top; ">
-      <th style=" text-align: right; padding-right: 1em; "><p>Community</p></th>
+      <th><p>Community</p></th>
       <td>
        <p>For example, a &ldquo;No Noise&rdquo; <span class="_paradigm">BANNER</span> could fund a sound barrier around a noisy factory. A &ldquo;River Walk&rdquo; <span class="_paradigm">BANNER</span> could fund a clean up and beautification of a stream that runs nearby. One could even fund a local vet hospital to help it recover from a fire.</p>
       </td>
      </tr>
      <tr style="vertical-align: top; ">
-      <th style=" text-align: right; padding-right: 1em; "><p>Experimental Projects</p></th>
+      <th>
+       <p>Experimental Projects</p></th>
       <td>
        <p>At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects and  things like Google News came out of it. That was a generous gift from the <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> owners, but the same owners later took it away.</p>
        <p>For a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">BANNERS</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">BANNER</span>s could fund that specific project.</p>
       </td>
      </tr>
-     <tr style="vertical-align: top; ">
-      <th style=" text-align: right; padding-right: 1em; "><p>Investments</p></th>
+     <tr>
+      <th>
+       <p>Investments</p></th>
       <td>
        <p>In <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has more to do with ego, like a pharaoh&rsquo;s pyramid.</p>
        <p>In a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">BANNER</span>s for co-owners to contribute to the funding of it or not.</p>
