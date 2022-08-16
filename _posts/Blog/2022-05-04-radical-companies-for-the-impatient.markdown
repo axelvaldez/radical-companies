@@ -189,14 +189,14 @@ image:    "dynamic-distribution-1.svg"
      </tr>
     </tbody>
   </table>
-  <h2 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include <span class="_paradigm">RETROSPECTIVE</span>s</h2>
+  <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include <span class="_paradigm">RETROSPECTIVE</span>s</h2>
    <p>At a <span class="_paradigm">RADICAL RETROSPECTIVE</span>, members discuss the criteria they used to allocate <span class="_paradigm">RAD</span>s. Participation in these <span class="_paradigm">RETROSPECTIVE</span>s is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
-  <h2 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include Feedback</h2>
+  <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include Feedback</h2>
    <p>Anybody who wants to can call for a feedback session after a <span class="_paradigm">DISTRIBUTION</span>. In particular, people who didn&rsquo;t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it&rsquo;s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
-  <h2 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Are Transparent</h2>
+  <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Are Transparent</h2>
    <p>We don&rsquo;t think that <span class="_paradigm">RADICAL DISTRIBUTION</span>s will work without complete transparency. The temptation will be there to block the identity of the allocator or the recipient, or to block the number of <span class="_paradigm">RAD</span>s allocated. Don&rsquo;t yield to it, it is fear speaking. We don&rsquo;t think that anything less than full disclosure will work.</p>
    <p>Of course, you&rsquo;ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
-  <h2 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RAD</span>s Account for the Unaccountable</h2>
+  <h2><span class="_paradigm">RAD</span>s Account for the Unaccountable</h2>
    <p><span class="_paradigm">RAD</span>s represent many things other than simple financial value. They are not beans, but they can be counted.</p>
    <p>The <span class="_paradigm">RAD</span>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you&rsquo;ll probably get fewer <span class="_paradigm">RAD</span>s from us; if you are helping us thrive, you&rsquo;ll likely get more. If you do something that goes against our Impact, &ldquo;but, hey, it makes money,&rdquo; you&rsquo;ll get less <span class="_paradigm">RAD</span>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you&rsquo;ll get more <span class="_paradigm">RAD</span>s.</p>
    <p>Maybe I gave you <span class="_paradigm">RAD</span>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
