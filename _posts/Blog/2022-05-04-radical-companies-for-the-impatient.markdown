@@ -104,7 +104,7 @@ image:    "dynamic-distribution-1.svg"
    <li>You may have <span class="_paradigm">DISTRIBUTION</span> events once a month, where everybody celebrates and give feedback.</li>
   </ul>
   <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONs Are Scalable</h3>
-   <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,</p>
+   <p>People are the best judges of <em>what</em> a contribution is,</p>
    <table style="width: 80%; margin: 0 auto; ">
     <tr>
      <td colspan="4"><img src="/assets/img/dynamic-distribution-1.svg" alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person." title="1 person's point of view: 17 of 56 people."></td>
@@ -134,16 +134,16 @@ image:    "dynamic-distribution-1.svg"
      </td>
     </tr>
     <tr>
-     <td style="font-size: x-small; text-align: center; ">2 people&rsquo;s point of view:<br>31 of 56 people.</td>
-     <td style="font-size: x-small; text-align: center; ">4 people&rsquo;s point of view:<br>40 of 56 people.</td>
-     <td style="font-size: x-small; text-align: center; ">4 people&rsquo;s point of view:<br>55 of 56 people.</td>
-     <td style="font-size: x-small; text-align: center; ">5 people&rsquo;s point of view:<br>56 of 56 people.</td>
+     <td style="font-size:small; text-align:center; ">2 people&rsquo;s point of view:<br>31 of 56 people.</td>
+     <td style="font-size:smaller; text-align:center; ">4 people&rsquo;s point of view:<br>40 of 56 people.</td>
+     <td style="font-size:x-small; text-align:center; ">4 people&rsquo;s point of view:<br>55 of 56 people.</td>
+     <td style="font-size:x-small; text-align:center; ">5 people&rsquo;s point of view:<br>56 of 56 people.</td>
     </tr>
     <tr>
      <td colspan="4">&nbsp;</td>
     </tr>
    </table>
-   <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;ve built together at a visceral level. People will be encouraged to learn to communicate better (&ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it&rdquo;<sup id="bm06"><a href="#en06">6&nbsp;</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they&rsquo;ve learned from them, and how it can be valuable to others.</p>
+   <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better (&ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it&rdquo;<sup id="bm06"><a href="#en06">6&nbsp;</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they&rsquo;ve learned from them, and how it can be valuable to others.</p>
    <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Include <span class="_paradigm">BANNER</span>s</h3>
    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people and <span class="_paradigm">BANNER</span>s do that.</p>
    <p><span class="_paradigm">BANNER</span>s can stand for teams, special accomplishments, communities, new products, etc.</p>
