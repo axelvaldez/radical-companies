@@ -138,7 +138,7 @@ image:    "dynamic-distribution-1.svg"
     </tr>
    </table>
    <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better (&ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it&rdquo;<sup id="bm06"><a href="#en06">6&nbsp;</a></sup>). They will learn from their peers to value their own accomplishments. They will also learn to talk about their failures, what they&rsquo;ve learned from them, and how this learning can be valuable to others.</p>
-   <h2 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Include <span class="_paradigm">BANNER</span>s</h2>
+  <h2><span class="_paradigm">RADICAL DISTRIBUTIONS</span> Include <span class="_paradigm">BANNER</span>s</h2>
    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people. But what about team accomplishments, causes, communities, or new projects? Even though they are not people, they, too, be supported with <span class="_paradigm">BANNER</span>s</p>
    <p style="width: 80%; margin: 0 auto 20px auto; ">
     <img src="/assets/img/en-banner.svg" alt="Two post-its as examples of banners. The one of the left reads, 'Community: Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
