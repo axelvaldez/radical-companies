@@ -143,7 +143,7 @@ image:    "dynamic-distribution-1.svg"
      <td colspan="4">&nbsp;</td>
     </tr>
    </table>
-   <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better (&ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it&rdquo;<sup id="bm06"><a href="#en06">6&nbsp;</a></sup>). They will learn from their peers to value their accomplishments. They will learn to talk about their failures, what they&rsquo;ve learned from them, and how it can be valuable to others.</p>
+   <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better (&ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it&rdquo;<sup id="bm06"><a href="#en06">6&nbsp;</a></sup>). They will learn from their peers to value their accomplishments. They will also learn to talk about their failures, what they&rsquo;ve learned from them, and how it, the failure and what came out of it, can be valuable to others.</p>
    <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Include <span class="_paradigm">BANNER</span>s</h3>
    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people and <span class="_paradigm">BANNER</span>s do that.</p>
    <p><span class="_paradigm">BANNER</span>s can stand for teams, special accomplishments, communities, new products, etc.</p>
