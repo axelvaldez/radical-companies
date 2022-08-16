@@ -103,7 +103,7 @@ image:    "dynamic-distribution-1.svg"
    </li>
    <li>You may have <span class="_paradigm">DISTRIBUTION</span> events once a month, where everybody celebrates and give feedback.</li>
   </ul>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONs Are Scalable</h3>
+  <h2 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONs Are Scalable</h2>
    <p>People are the best judges of <em>what</em> a contribution is and <em>who</em> is making it and it doesn't take that many peole to cover the whole team. If somebody doesn't get <span class="_paradigm">RAD</SPAN>s at all, it's probably because he is totally disconnected or none of his work looks like contributions to however many people make up the company.</p>
    <table style="width: 80%; margin: 0 auto; ">
     <tr>
@@ -144,7 +144,7 @@ image:    "dynamic-distribution-1.svg"
     </tr>
    </table>
    <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better (&ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it&rdquo;<sup id="bm06"><a href="#en06">6&nbsp;</a></sup>). They will learn from their peers to value their own accomplishments. They will also learn to talk about their failures, what they&rsquo;ve learned from them, and how this learning can be valuable to others.</p>
-   <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Include <span class="_paradigm">BANNER</span>s</h3>
+   <h2 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONS Include <span class="_paradigm">BANNER</span>s</h2>
    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people. But what about team accomplishments, causes, communities, or new projects? Even though they are not people, they, too, be supported with <span class="_paradigm">BANNER</span>s</p>
    <p style="width: 80%; margin: 0 auto 20px auto; ">
     <img src="/assets/img/en-banner.svg" alt="Two post-its as examples of banners. The one of the left reads, 'Community: Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
@@ -194,14 +194,14 @@ image:    "dynamic-distribution-1.svg"
      </tr>
     </tbody>
   </table>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include <span class="_paradigm">RETROSPECTIVE</span>s</h3>
+  <h2 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include <span class="_paradigm">RETROSPECTIVE</span>s</h2>
    <p>At a <span class="_paradigm">RADICAL RETROSPECTIVE</span>, members discuss the criteria they used to allocate <span class="_paradigm">RAD</span>s. Participation in these <span class="_paradigm">RETROSPECTIVE</span>s is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include Feedback</h3>
+  <h2 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include Feedback</h2>
    <p>Anybody who wants to can call for a feedback session after a <span class="_paradigm">DISTRIBUTION</span>. In particular, people who didn&rsquo;t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it&rsquo;s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Are Transparent</h3>
+  <h2 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Are Transparent</h2>
    <p>We don&rsquo;t think that <span class="_paradigm">RADICAL DISTRIBUTION</span>s will work without complete transparency. The temptation will be there to block the identity of the allocator or the recipient, or to block the number of <span class="_paradigm">RAD</SPAN>s allocated. Don&rsquo;t yield to it, it is fear speaking. We don&rsquo;t think that anything less than full disclosure will work.</p>
    <p>Of course, you&rsquo;ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
-  <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RAD</span>s Account for the Unaccountable</h3>
+  <h2 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RAD</span>s Account for the Unaccountable</h2>
    <p><span class="_paradigm">RAD</SPAN>s represent many things other than simple financial value. They are not beans, but they can be counted.</p>
    <p>The <span class="_paradigm">RAD</span>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you&rsquo;ll probably get fewer <span class="_paradigm">RAD</SPAN>s from us; if you are helping us thrive, you&rsquo;ll likely get more. If you do something that goes against our Impact, &ldquo;but, hey, it makes money,&rdquo; you&rsquo;ll get less <span class="_paradigm">RAD</span>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you&rsquo;ll get more <span class="_paradigm">RAD</span>s.</p>
    <p>Maybe I gave you <span class="_paradigm">RAD</span>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
