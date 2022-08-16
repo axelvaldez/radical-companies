@@ -104,7 +104,7 @@ image:    "dynamic-distribution-1.svg"
    <li>You may have <span class="_paradigm">DISTRIBUTION</span> events once a month, where everybody celebrates and give feedback.</li>
   </ul>
   <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONs Are Scalable</h3>
-   <p>People are the best judges of <em>what</em> a contribution is,</p>
+   <p>People are the best judges of <em>what</em> a contribution is and <em>who</em> is making it and it doesn't take that many peole to cover the whole team. If somebody doesn't get <span class="_paradigm">RAD</SPAN>s at all, it's probably because he is totally disconnected or none of his work looks like contributions to however many people make up the company.</p>
    <table style="width: 80%; margin: 0 auto; ">
     <tr>
      <td colspan="4"><img src="/assets/img/dynamic-distribution-1.svg" alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person." title="1 person's point of view: 17 of 56 people."></td>
