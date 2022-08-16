@@ -17,7 +17,7 @@ image:    "dynamic-distribution-1.svg"
   <p> With that in mind, we came up with what we think are the most basic foundations to support our coming together to share work and wealth.</p>
  <h2>Foundation for a <span class="_paradigm">RADICAL</span> Company</h2>
   <p>In the RADICAL world, a company is what we call a group of people who come together to build something bigger than themselves. In fact, the word "company" comes from the Latin prefix <em>con-</em>, meaning &lsquo;together&rsquo;, and <em>pan</em>, meaning &lsquo;bread&rsquo;: people who break bread together.</p>
-  <p>Every company is different because the people who embody it are different, and every company must find its own way. What fundamentally makes a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company different from a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business is that it starts from a simple foundation of interdependence,</p>
+  <p>Every company is different because the people who embody it are different, and every company must find its own way. What fundamentally makes a <span class="_paradigm">RADICAL</span> company different from a <span class="_paradigm">FIAT</span> business is that it starts from a simple foundation of interdependence,</p>
   <table align="center">
    <tr>
     <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
@@ -47,10 +47,10 @@ image:    "dynamic-distribution-1.svg"
     <td colspan="4">&nbsp;</td>
    </tr>
   </table>
-  <p>Other practices can be layered on top of these, but for a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company this foundation is essential, otherwise it is just a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> business with ain&rsquo;t-we-nice sprinkled on top.</p>
+  <p>Other practices can be layered on top of these, but for a <span class="_paradigm">RADICAL</span> company this foundation is essential, otherwise it is just a <span class="_paradigm">FIAT</span> business with ain&rsquo;t-we-nice sprinkled on top.</p>
   <p>Hierarchies don&rsquo;t just go away, but, unlike in a FIAT business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what&rsquo;s needed, at a particular time, by the people involved. &ldquo;An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. &hellip; The org chart is insufficient.&rdquo;<sup id="bm02"><a href="#en02">2&nbsp;</a></sup></p>
  <h2>Alignment Must Be Explicit and Transparent</h2>
-  <p>In order to create a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, you first need to be explicit about the company&rsquo;s IMPACT  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump them in different ways, but, no matter, they have to be explicit and completely open and accessible to everyone.</p>
+  <p>In order to create a <span class="_paradigm">RADICAL</span> company, you first need to be explicit about the company&rsquo;s IMPACT  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump them in different ways, but, no matter, they have to be explicit and completely open and accessible to everyone.</p>
   <p>The three-finger Scout Salute<sup id="bm03"><a href="#en03">3&nbsp;</a></sup> is a good mnemonic for it,</p>
   <pre style="font-family: courier new; text-align: center; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment" style="width: 80%; ">
@@ -79,7 +79,7 @@ image:    "dynamic-distribution-1.svg"
    <li>They give it to anybody they feel has contributed the most during the month. Each person knows best who has meaningfully contributed.</li>
    <li>Each person decides how much to give to whom based on whatever criteria &ldquo;feels right&rdquo; to them.</li>
   </ul>
- <h2>The <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL DISTRIBUTION</SPAN></h2>
+ <h2>The <span class="_paradigm">RADICAL DISTRIBUTION</span></h2>
   <p>Instead of cash or stocks, <span class="_paradigm">RADICAL DISTRIBUTION</SPAN> uses a dimensionless unit we call a <span class="_paradigm">RAD</SPAN>. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, <span class="_paradigm">RAD</SPAN>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>.</p>
   <p>RADs represent any kind of contribution, not just financial. In fact, as an accounting tool, <span class="_paradigm">RAD</SPAN>s account for the unaccountable.</p>
   <p>Co-owners then get to distribute RADs according to their individual judgment. Each decides what is an <em>equitable</em> number of <span class="_paradigm">RAD</SPAN>s to give to other co-owners as recognition for their contributions. The value of the whole emerges from the judgment of the many.</p> 
@@ -177,26 +177,26 @@ image:    "dynamic-distribution-1.svg"
       <th>
        <p>Experimental Projects</p></th>
       <td>
-       <p>At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects and  things like Google News came out of it. That was a generous gift from the <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> owners, but the same owners later took it away.</p>
-       <p>For a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">BANNERS</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">BANNER</span>s could fund that specific project.</p>
+       <p>At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects and  things like Google News came out of it. That was a generous gift from the <span class="_paradigm">FIAT</span> owners, but the same owners later took it away.</p>
+       <p style="padding-bottom:0; margin-bottom:0; ">For a <span class="_paradigm">RADICAL</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">BANNERS</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">BANNER</span>s could fund that specific project.</p>
       </td>
      </tr>
      <tr>
       <th>
        <p>Investments</p></th>
       <td>
-       <p>In <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has more to do with ego, like a pharaoh&rsquo;s pyramid.</p>
-       <p>In a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">BANNER</span>s for co-owners to contribute to the funding of it or not.</p>
+       <p style="padding-bottom:0; margin-bottom:0; ">In <span class="_paradigm">FIAT</span> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has more to do with ego, like a pharaoh&rsquo;s pyramid.</p>
+       <p>In a <span class="_paradigm">RADICAL</SPAN> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">BANNER</span>s for co-owners to contribute to the funding of it or not.</p>
       </td>
      </tr>
     </tbody>
   </table>
   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include <span class="_paradigm">RETROSPECTIVE</span>s</h3>
-   <p>At a <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
+   <p>At a <span class="_paradigm">RADICAL</span> Retrospective, members discuss the criteria they used to allocate RADs. Participation in these Retrospectives is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include Feedback</h3>
    <p>Anybody who wants to can call for a feedback session after a <span class="_paradigm">DISTRIBUTION</span>. In particular, people who didn&rsquo;t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it&rsquo;s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Are Transparent</h3>
-   <p>We don&rsquo;t think that <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL DISTRIBUTION</SPAN>s will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of <span class="_paradigm">RAD</SPAN>s allocated, but that is fear speaking, limiting our options. We don&rsquo;t think that anything less than full disclosure will work.</p>
+   <p>We don&rsquo;t think that <span class="_paradigm">RADICAL DISTRIBUTION</span>s will work without complete transparency. In theory, the allocator and recipient could block their identity or the number of <span class="_paradigm">RAD</SPAN>s allocated, but that is fear speaking, limiting our options. We don&rsquo;t think that anything less than full disclosure will work.</p>
    <p>Of course, you&rsquo;ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RAD</span>s Account for the Unaccountable</h3>
    <p><span class="_paradigm">RAD</SPAN>s represent many things other than simple financial value. They are not beans, but they can be counted.</p>
@@ -214,7 +214,7 @@ image:    "dynamic-distribution-1.svg"
  </ul>
  <p>That earned amount is split between Dividends and a <em>Predictable  Recurring Income</em> (PRI) component.</p>
  <h2>Making Recurring Takehome Pay Predictable</h2>
-   <p>When you really think about it, &ldquo;salary&rdquo; is a <SPAN STYLE="FONT-SIZE: SMALLER; ">FIAT</SPAN> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <SPAN STYLE="FONT-SIZE: SMALLER; ">RADICAL</SPAN> context.</p>
+   <p>When you really think about it, &ldquo;salary&rdquo; is a <span class="_paradigm">FIAT</span> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <span class="_paradigm">RADICAL</span> context.</p>
    <p>The PRI is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),</p>
    <ul>
     <li>Each member determines their <em>Predictable  Recurring Income</em> (PRI). This is what they need to take home every month.</li>
