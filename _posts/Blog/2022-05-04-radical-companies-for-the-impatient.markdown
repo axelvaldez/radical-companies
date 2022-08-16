@@ -195,7 +195,7 @@ image:    "dynamic-distribution-1.svg"
     </tbody>
   </table>
   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include <span class="_paradigm">RETROSPECTIVE</span>s</h3>
-   <p>At a <span class="_paradigm">RADICAL RETROSPECTIVE</span>, members discuss the criteria they used to allocate <span class="_paradigm">RAD</span>s. Participation in these Retrospectives is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
+   <p>At a <span class="_paradigm">RADICAL RETROSPECTIVE</span>, members discuss the criteria they used to allocate <span class="_paradigm">RAD</span>s. Participation in these <span class="_paradigm">RETROSPECTIVE</span>s is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include Feedback</h3>
    <p>Anybody who wants to can call for a feedback session after a <span class="_paradigm">DISTRIBUTION</span>. In particular, people who didn&rsquo;t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it&rsquo;s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
   <h3 style="font-size:20px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL DISTRIBUTION</span>s Are Transparent</h3>
