@@ -101,8 +101,7 @@ image:    "dynamic-distribution-1.svg"
    <li>At the end of the cycle, the number of recognitions you have given are divided by the total number of recognitions given by everybody during the cycle. By multiplying this percentage by the total number of RADs accumulated during the cycle, we get the number of RADs each persson gets.</li>
    <li>Each member gets to recognize contributions as they see fit. For example, you may end up giving 50% of your <span class="_paradigm">RAD</SPAN>s to Adrian, 33% to Jose, and 1.7% to me. This would allocate, roughtly, 15 <span class="_paradigm">RAD</SPAN>s to Adrian, 10 to Jose, and 5 to me.
    </li>
-   <li>You may have <span class="_paradigm">DISTRIBUTION</span> events once a month, where everybody participates, give feedback, and participate in <span class="_paradigm">RETROSPECTIVES</span>.</li>
-   </li>
+   <li>You may have <span class="_paradigm">DISTRIBUTION</span> events once a month, where everybody celebrates and give feedback.</li>
   </ul>
   <h3 style="font-size:20px; font-family:Courier New, monospace; ">RADICAL DISTRIBUTIONs Are Scalable</h3>
    <p>People are the best judges of <em>who</em> should be recognized and <em>what</em> should be recognized as a contribution,</p>
