@@ -166,13 +166,14 @@ image:    "dynamic-distribution-1.svg"
        <p>&ldquo;Margot deserves to be recognized for stewarding the creation of our training platform.&rdquo;</p>
       </td>
      </tr>
-     <tr style="vertical-align: top; ">
-      <th><p>Community</p></th>
+     <tr>
+      <th>
+       <p>Community</p></th>
       <td>
        <p>For example, a &ldquo;No Noise&rdquo; <span class="_paradigm">BANNER</span> could fund a sound barrier around a noisy factory. A &ldquo;River Walk&rdquo; <span class="_paradigm">BANNER</span> could fund a clean up and beautification of a stream that runs nearby. One could even fund a local vet hospital to help it recover from a fire.</p>
       </td>
      </tr>
-     <tr style="vertical-align: top; ">
+     <tr>
       <th>
        <p>Experimental Projects</p></th>
       <td>
