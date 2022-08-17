@@ -70,7 +70,7 @@ image:    "dynamic-distribution-1.svg"
  </ul>
  <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to <em>everybody</em> in the team.</p>
 
-<h1><span style="font-size:smaller; ">RADICAL</span> Distribution</h1>
+<h1>Recognizing Contributions</h1>
  <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
  <h2>The Rosedale Distribution</h2>
   <p>Rosedale Distribution<sup id="bm05"><a href="#en05">5&nbsp;</a></sup> is our name for a practice that we first heard from entrepreneur Philip Rosedale,</p>
