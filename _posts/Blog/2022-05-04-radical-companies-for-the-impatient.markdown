@@ -224,7 +224,7 @@ image:    "dynamic-distribution-1.svg"
        <p>Investments</p>
       </th>
       <td>
-       <p style="margin-bottom:3px; ">In <span class="_paradigm">FIAT</span> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has more to do with ego, like a pharaoh&rsquo;s pyramid.</p>
+       <p style="margin-bottom:3px; ">In <span class="_paradigm">FIAT</span> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has to do with ego, like a pharaoh&rsquo;s pyramid.</p>
        <p style="margin-bottom:6px; ">In a <span class="_paradigm">RADICAL</span> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">BANNER</span>s for co-owners to contribute to the funding of it or not.</p>
       </td>
      </tr>
