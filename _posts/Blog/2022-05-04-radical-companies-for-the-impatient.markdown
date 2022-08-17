@@ -280,10 +280,15 @@ image:    "dynamic-distribution-1.svg"
      <p style="margin: 0 auto 6px auto; ">Each co-owner is responsible for her <em>PRI Account</em> and has to pay back what they got out of it. Most likely, this will be paid back out of Earned Dividends once revenue goes above breakeven, but this is something you&rsquo;d have to experiment with.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">In the worst case, if the company goes belly up, then if the <em>PRI Account</em> was funded with investment money, there&rsquo;s no &ldquo;debt&rdquo; to be paid back. If it was funded with a loan, then people with unpaid balances have to make good on that loan.</p>
+     <p style="margin: 0 auto 6px auto; ">In the worst case, if the company goes belly up,
+      <ul>
+       <li>If PRI was funded with investment money, there&rsquo;s no &ldquo;debt&rdquo; to be paid back.</li>
+       <li>If it was funded with a loan, then people with unpaid balances have to make good on it.</li>
+      </ul>
+     </p>
     </li>
    </ul>
-   <p>The PRI functions a lot like a salary,  </p>
+   <p>The PRI functions a lot like a salary,</p>
    <ul>
     <li>
      <p style="margin: 0 auto 6px auto; ">If I earned <em>more</em> than my PRI, then I can take home my PRI <em>and my Earned Dividends</em>.</p>
