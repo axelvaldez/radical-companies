@@ -59,7 +59,7 @@ image:    "dynamic-distribution-1.svg"
     <p style="margin: 0 auto 6px auto; ">Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.</p>
    </li>
    <li>
-    <p style="margin: 0 auto 6px auto; ">Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, &ldquo;&hellip; a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.&rdquo;<sup id="bm04"><a href="#en04">4&nbsp;</sup></a></p>
+    <p style="margin: 0 auto 6px auto; ">Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, &ldquo;&hellip; a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.&rdquo;<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></p>
    </li>
    <li>
     <p style="margin: 0 auto 6px auto; ">Purpose is the reason why we, as a company, are focused on this particular Impact. It doesn&rsquo;t have to be world shaking and it doesn&rsquo;t have to strum your heart&rsquo;s strings. An effective Purpose must clearly express <em>why</em> it is important for others to join us in this adventure.</p>
