@@ -73,7 +73,7 @@ image:    "dynamic-distribution-1.svg"
 <h1>Recognizing Contributions</h1>
  <p>The Distribution mechanism we describe below recognizes contributions, makes ownership decentralized and dynamic, supports egalitarian and equitable wealth sharing, and it scales to organizations of any size.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
  <h2>The Rosedale Distribution</h2>
-  <p>Rosedale Distribution<a href="#en06"><sup id="bm06">6&nbsp;</sup></a> is our name for a practice that we first heard from entrepreneur Philip Rosedale,</p>
+  <p style="margin-bottom:10px; ">Rosedale Distribution<a href="#en06"><sup id="bm06">6&nbsp;</sup></a> is our name for a practice that we first heard from entrepreneur Philip Rosedale,</p>
   <ul>
    <li>
     <p style="margin: 0 auto 6px auto; ">As the company grows, a small amount of cash and shares are put out for distribution every month.</p>
