@@ -216,7 +216,7 @@ image:    "dynamic-distribution-1.svg"
       </th>
       <td>
        <p style="margin-bottom:3px; ">At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects (<em>e.g.</em>Google News came out of it). That was a generous gift from the <span class="_paradigm">FIAT</span> owners, but the same owners later took it away.</p>
-       <p style="margin-bottom:6px; ">For a <span class="_paradigm">RADICAL</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">BANNERS</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">BANNER</span>s could fund that specific project.</p>
+       <p style="margin-bottom:6px; ">For a <span class="_paradigm">RADICAL</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">BANNER</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">BANNER</span>s could fund that specific project.</p>
       </td>
      </tr>
      <tr>
