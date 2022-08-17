@@ -241,7 +241,7 @@ image:    "dynamic-distribution-1.svg"
    <p><span class="_paradigm">RAD</span>s represent many things other than simple financial value. They are not beans, but they can be counted.</p>
    <p>The <span class="_paradigm">RAD</span>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you&rsquo;ll probably get fewer <span class="_paradigm">RAD</span>s from us; if you are helping us thrive, you&rsquo;ll likely get more. If you do something that goes against our Impact, &ldquo;but, hey, it makes money,&rdquo; you&rsquo;ll get less <span class="_paradigm">RAD</span>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you&rsquo;ll get more <span class="_paradigm">RAD</span>s.</p>
    <p>Maybe I gave you <span class="_paradigm">RAD</span>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
-   <p>In short, <span class="_paradigm">RAD</span>s account for the uncountable, they measure what had previously been immeasurable.</p>
+   <p>In short, <span class="_paradigm">RAD</span>s account for the uncountable. They measure what had previously been immeasurable.</p>
 
 <h1><span class="_paradigm">RADICAL</span> Wealth Extraction</h1>
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <span class="_paradigm">RAD</span>s. For example,</p>
