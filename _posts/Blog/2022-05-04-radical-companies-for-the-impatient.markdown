@@ -15,7 +15,7 @@ image:    "dynamic-distribution-1.svg"
   <p>Our collapsing climate, the gaping wealth gap, discrimation, and exploitation are but a few of the inescapable side-effects of the system we live in. A system that &ldquo;divides, demonizes, and causes us to suspend our intincts toward better.&rdquo;<a id="bm01" href="#en01"><sup>1&nbsp;</sup></a> But it has also brought us abundance and we don not want to throw the baby out with the bathwater. What is clear is that we need a generative way of relating to one another, a different paradigm. As we see it, businesses are the place to start, transformed into companies they are the incubators for what comes next.</p>
   <p>Nature follows a simple path to create big beautiful things out of small, unpretentious ones. From a tiny seed to a mighty oak tree. We don&rsquo;t think that a long list of principles or color scales or a 17 page constitution are necessary, or even helpful, to make a fundamental change. Eventually, these can become dogma, a form of force, and sabotage our progress. With that in mind, we came up with what we think is the most basic foundation to support our coming together to share work and wealth.</p>
  <h2>Foundation for a <span class="_paradigm">RADICAL</span> Company</h2>
-  <p>In the RADICAL world, a company is what we call a group of people who come together to build something bigger than themselves. In fact, the word "company" comes from the Latin prefix <em>con-</em>, meaning &lsquo;together&rsquo;, and <em>pan</em>, meaning &lsquo;bread&rsquo;: people who break bread together.</p>
+  <p>In <span class="_paradigm">RADICAL</span> speak, a company is what we call a group of people who come together to build something bigger than themselves. In fact, the word &ldquo;company&rdquo; comes from the Latin prefix <em>con-</em>, meaning &lsquo;together&rsquo;, and <em>pan</em>, meaning &lsquo;bread&rsquo;: people who break bread together.</p>
   <p>Every company is different because the people who embody it are different, and every company must find its own way. What fundamentally makes a <span class="_paradigm">RADICAL</span> company different from a <span class="_paradigm">FIAT</span> business is that it starts from a simple foundation of interdependence,</p>
   <table align="center">
    <tr>
@@ -388,7 +388,7 @@ image:    "dynamic-distribution-1.svg"
   </li>
   <li id="en03">
    This is also a gesture popularized in <a href="https://en.wikipedia.org/wiki/The_Hunger_Games" target="_blank">The Hunger Games</a> movies to express unity with people striving to survive. Since 2014 it has also become a symbol of <a href="https://radicals.world/pG9bAM" target="_blank">pro-democracy in Thailand</a> (alt., <a href="https://diigo.com/0iu409" target="_blank">here</a>). Very apropos.
-   <a href="#bm03"><img src="/assets/img/arrow-up-icon.png"  style="width:20px; "></a>
+   <a href="#bm03"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a>
   </li>
   <li id="en04">
    Dave Logan. How to Develop Your Noble Obsession (alt., <a href="">here</a>).
