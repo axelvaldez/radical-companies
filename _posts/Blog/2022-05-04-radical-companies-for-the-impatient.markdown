@@ -200,7 +200,7 @@ image:    "dynamic-distribution-1.svg"
        <p>Special Accomplishment</p>
       </th>
       <td>
-       <p style="margin-bottom:6px; ">&ldquo;Margot deserves to be recognized for stewarding the creation of our training platform.&rdquo; This may be in addition to other contributions that Margot has made. Maybe her role in &ldquo;stewarding the creation of our training platform&rdquo; was not as visible except to a few people, but her teammates feel she deserves a wider recognition.</p>
+       <p style="margin-bottom:6px; ">&ldquo;Margot deserves to be recognized for stewarding the creation of our training platform.&rdquo; This may be in addition to other contributions that Margot has made. Maybe her role in &ldquo;stewarding the creation of our training platform&rdquo; was not as visible, but her teammates feel she deserves a wider recognition.</p>
       </td>
      </tr>
      <tr>
