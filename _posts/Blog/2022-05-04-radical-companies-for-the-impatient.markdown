@@ -76,7 +76,7 @@ image:    "dynamic-distribution-1.svg"
   <p style="margin-bottom:10px; ">Rosedale Distribution<a href="#en06"><sup id="bm06">6&nbsp;</sup></a> is our name for a practice that we first heard from entrepreneur Philip Rosedale,</p>
   <ul>
    <li>
-    <p style="margin: 0 auto 6px auto; ">As the company grows, a small amount of cash and shares are put out for distribution every month.</p>
+    <p style="margin: 0 auto 6px auto; ">As the company grows, cash and shares are put out for distribution every month.</p>
    </li>
    <li>
     <p style="margin: 0 auto 6px auto; ">Every member gets an equal portion of the wealth the company generated. But they don&rsquo;t get to keep these goodies for themselves: they have to distribute them to other members.</p>
