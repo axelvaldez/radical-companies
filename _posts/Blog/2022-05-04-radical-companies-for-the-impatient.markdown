@@ -10,7 +10,7 @@ image:    "dynamic-distribution-1.svg"
  <p>A short walkthrough the <span style="font-size: smaller; ">RADICAL</span> Model</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">The <span class="_paradigm">RADICAL</span> Model</h1>
+<h1 style="margin-bottom:15px; ">The <span class="_paradigm">RADICAL</span> Model</h1>
  <h2>Businesses-as-Dictatorships Hurt Us</h2>
   <p>Our collapsing climate, the gaping wealth gap, discrimation, exploitation, etc. These are but a few of the inescapable side-effects of the system we live in, a system based on domination. A system that &ldquo;divides, demonizes, and causes us to suspend our intincts toward better.&rdquo;<a id="bm01" href="#en01"><sup>1&nbsp;</sup></a> But it has also brought us abundance and we don not want to throw the baby out with the bathwater. We need a generative way of relating to one another, a different paradigm. As we see it, companies are the place to start, they are the appropriate incubators for what comes next.</p>
   <p>Nature follows a simple path to create big beautiful things out of small, unpretentious ones. From a tiny seed to a mighty oak tree. We don&rsquo;t think that a long list of principles or color scales or a 17 page constitution are necessary, or even helpful, to make a fundamental change. Eventually, these can become dogma, a form of force, and get in the way.</p>
@@ -71,7 +71,7 @@ image:    "dynamic-distribution-1.svg"
  </ul>
  <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to <em>everybody</em> in the team.</p>
 
-<h1><spen style="font-size:smaller; ">RADICAL</spen> Distribution</h1>
+<h1><span style="font-size:smaller; ">RADICAL</span> Distribution</h1>
  <p>The Distribution mechanism we describe below makes ownership decentralized and dynamic. It supports egalitarian and equitable wealth sharing based on contribution. And it is scalable.</p>
  <h2>The Rosedale Distribution</h2>
   <p>Rosedale Distribution<sup id="bm05"><a href="#en05">5&nbsp;</a></sup> is our name for a practice that we first heard from entrepreneur Philip Rosedale,</p>
@@ -244,7 +244,7 @@ image:    "dynamic-distribution-1.svg"
    <p>Maybe I gave you <span class="_paradigm">RAD</span>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
    <p>In short, <span class="_paradigm">RAD</span>s account for the uncountable, they measure what had previously been immeasurable.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; "><span class="_paradigm">RADICAL</span> Wealth Extraction</h1>
+<h1><span class="_paradigm">RADICAL</span> Wealth Extraction</h1>
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <span class="_paradigm">RAD</span>s. For example,</p>
  <ul>
   <li>
