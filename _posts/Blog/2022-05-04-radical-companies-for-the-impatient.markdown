@@ -265,7 +265,7 @@ image:    "dynamic-distribution-1.svg"
    <p>The PRI is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),</p>
    <ul>
     <li>
-     <p style="margin: 0 auto 6px auto; ">Each member determines their <em>Predictable  Recurring Income</em> (PRI). This is what they need to take home every month.</p>
+     <p style="margin: 0 auto 6px auto; ">Each member determines their <em>Predictable  Recurring Income</em> (PRI). This is what they feel they need to take home every month.</p>
     </li>
     <li>
      <p style="margin: 0 auto 6px auto; ">Along with expenses, loan repayment, and other fixed expenses, the sum of all PRIs determines what for simplicity we&rsquo;ll call the company&rsquo;s breakeven point.</p>
