@@ -207,7 +207,7 @@ image:    "dynamic-distribution-1.svg"
       <th>
        <p>Community</p></th>
       <td>
-       <p style="margin-bottom:6px; ">For example, a &ldquo;No Noise&rdquo; <span class="_paradigm">BANNER</span> could fund a sound barrier around a noisy factory. A &ldquo;River Walk&rdquo; <span class="_paradigm">BANNER</span> could fund a clean up and beautification of a stream that runs nearby. One could even fund a local vet hospital to help it recover from a fire.</p>
+       <p style="margin-bottom:6px; ">For example, a &ldquo;No Noise&rdquo; <span class="_paradigm">BANNER</span> could fund a sound barrier around a noisy factory. A &ldquo;River Walk&rdquo; <span class="_paradigm">BANNER</span> could fund a clean up and beautification of a stream that runs nearby. A <span class="_paradigm">BANNER</span> could even fund a local vet hospital to help it recover from a fire.</p>
       </td>
      </tr>
      <tr>
