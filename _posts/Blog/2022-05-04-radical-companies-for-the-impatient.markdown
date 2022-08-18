@@ -274,7 +274,7 @@ image:    "dynamic-distribution-1.svg"
      <p style="margin: 0 auto 6px auto; ">Every month, the company pays its bills and all <span class="_paradigm">PRI</span>s and what&rsquo;s left is distributed as Earned Dividends according to each person&rsquo;s <span class="_paradigm">RAD</span>  allocations. This is the happy path.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">As a company, we can get a loan or  an investment for the <em>PRI Fund</em>. When revenue doesn&rsquo;t cover the breakeven point, money flows out of the <em><span class="_paradigm">PRI</span> Account</em> to cover a member&rsquo;s full <span class="_paradigm">PRI</span>. This makes it possible for each co-owners to take home a predictable amount.</p>
+     <p style="margin: 0 auto 6px auto; ">As a company, we can get a loan or  an investment for the <em><span class="_paradigm">PRI</span> Fund</em>. When revenue doesn&rsquo;t cover the breakeven point, money flows out of the <em><span class="_paradigm">PRI</span> Account</em> to cover a member&rsquo;s full <span class="_paradigm">PRI</span>. This makes it possible for each co-owners to take home a predictable amount.</p>
     </li>
     <li>
      <p style="margin: 0 auto 6px auto; ">Each co-owner is responsible for her <em><span class="_paradigm">PRI</span> Account</em> and has to pay back what they got out of it. Most likely, this will be paid back out of Earned Dividends once revenue goes above breakeven, but this is something you&rsquo;d have to experiment with.</p>
