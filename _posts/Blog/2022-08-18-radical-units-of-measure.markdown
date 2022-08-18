@@ -3,7 +3,7 @@ layout:   post
 title:    "RADICAL Units of Measure"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "about-daos.svg"
+image:    "radical-units-of-measure.svg"
 ---
 
 <div style="display:none;">
