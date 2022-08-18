@@ -368,7 +368,7 @@ image:    "dynamic-distribution-1.svg"
     The graph shows the PRI ACCOUNT as box full of read liquid.
     Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL DISTRIBUTIONS">
    </p>
-   <p>Notice that even though dividends are up, Julio continues to draw from the <em>PRI Account</em> because his <span class="_paradigm">PRI</span> is pretty high and his <span class="_paradigm">RAD</span>s count is pretty low. He may want to change his <span class="_paradigm">PRI</span> or get feedback on why his <span class="_paradigm">RAD</span>s are so low.</p>
+   <p>Notice that even though dividends are up, Julio continues to draw from the <em><span class="_paradigm">PRI</span> Account</em> because his <span class="_paradigm">PRI</span> is pretty high and his <span class="_paradigm">RAD</span>s count is pretty low. He may want to change his <span class="_paradigm">PRI</span> or get feedback on why his <span class="_paradigm">RAD</span>s are so low.</p>
  <h2>Comparing the <span class="_paradigm">RADICAL</span> Investment Model with that of Banks and VCs</h2>
    <p><span class="_paradigm">RADICAL</span> investments will, at worst, have the same financial yield as today&rsquo;s VC system, but with 1) a lot more beneficiaries (<em>i.e.</em>, all the co-owners), and 2) less risk (<em>i.e.</em>, because a lot more people will be committed to making it work).</p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
