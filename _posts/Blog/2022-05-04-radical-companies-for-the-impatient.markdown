@@ -313,7 +313,7 @@ image:    "dynamic-distribution-1.svg"
     The graph shows a box labeled PRI ACCOUNT which is mostly filled with red liquid (an RADICAL investment). Below it are vertical boxes representing the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA takes the  largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL DISTRIBUTIONS">
    </p>
    <p>We had a lot of back and forth over the <em><span class="_paradigm">PRI</span> Account</em> being a <em>personal</em> debt. Why not have it be a shared debt? This may work for small groups, but the problem is that it doesn&rsquo;t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don&rsquo;t know that well. They would want to know things like &ldquo;Why is Julio&rsquo;s <span class="_paradigm">PRI</span> so high?&rdquo; On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn&rsquo;t feel good about going into so much debt and brings down his <span class="_paradigm">PRI</span> after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister&rsquo;s school and is willing to bear the debt for a while longer.</p>
-   <p>If you are thinking that this process takes a lot of time, you&rsquo;re right. But it is cheaper and healthier than  leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).</p>
+   <p>If you are thinking that this process takes a lot of time, you&rsquo;re right. But it is cheaper and healthier than leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).</p>
  <h2>Dividends Are Not a Gift, You Earned Them</h2>
   <p>Below there are three sample scenarios for how Earned Dividends are calculated,</p>
    <ul>
@@ -321,13 +321,13 @@ image:    "dynamic-distribution-1.svg"
      <p style="margin: 0 auto 6px auto; ">Below breakeven: When we as a company don&rsquo;t generate enough Dividends to cover everybody&rsquo;s PRIs in full and the difference has to come out of the <em><span class="_paradigm">PRI</span> Account</em>s.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">At breakeven: When we make enough to at least pay everybody&rsquo;s PRI.</p>
+     <p style="margin: 0 auto 6px auto; ">At breakeven: When we make enough to at least pay everybody&rsquo;s <span class="_paradigm">PRI</span>.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">Above breakeven: When we as a company can pay everybody&rsquo;s PRI <em>and</em> disburse Earned Dividends.</p>
+     <p style="margin: 0 auto 6px auto; ">Above breakeven: When we as a company can pay everybody&rsquo;s <span class="_paradigm">PRI</span> <em>and</em> disburse Earned Dividends.</p>
     </li>
    </ul>
-  <p>This first scenario is what normally happens at the start of a company: it doesn&rsquo;t generate enough revenue to cover everybody&rsquo;s PRI. In this case, we would need a cash infusion to the <em>PRI Account</em> so we can use it to meet the amount of PRI each person has set.</p>
+  <p>This first scenario is what normally happens at the start of a company: it doesn&rsquo;t generate enough revenue to cover everybody&rsquo;s <span class="_paradigm">PRI</span>. In this case, we would need a cash infusion to the <em><span class="_paradigm">PRI</span> Account</em> so we can use it to meet the amount of <span class="_paradigm">PRI</span> each person has set.</p>
   <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/en-predictable-recurring-income-pri-t1.svg" alt="A table and a graph. The DIVIDENS for the month is $16000, which is $10000 below the breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
    The total DIVIDENDS add up to $6000, which is below the $10000 breakeven.
