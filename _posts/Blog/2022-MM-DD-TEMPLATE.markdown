@@ -48,7 +48,6 @@ image:    "about-daos.svg"
  <p style="margin-top:20px; "><span class="_paradigm">RAD</span>s support all of these behaviors,</p>
  <table>
 
-
 <h1 class="_section">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="en01">
