@@ -268,10 +268,10 @@ image:    "dynamic-distribution-1.svg"
      <p style="margin: 0 auto 6px auto; ">Each member determines their <span class="_paradigm">PRI</span>. This is what they feel they need to take home every month.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">Along with expenses, loan repayment, and other fixed expenses, the sum of all PRIs determines what for simplicity we&rsquo;ll call the company&rsquo;s breakeven point.</p>
+     <p style="margin: 0 auto 6px auto; ">Along with expenses, loan repayment, and other fixed expenses, the sum of all <span class="_paradigm">PRI</span>s determines what for simplicity we&rsquo;ll call the company&rsquo;s breakeven point.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">Every month, the company pays its bills and all PRIs and what&rsquo;s left is distributed as Earned Dividends according to each person&rsquo;s <span class="_paradigm">RAD</span>  allocations. This is the happy path.</p>
+     <p style="margin: 0 auto 6px auto; ">Every month, the company pays its bills and all <span class="_paradigm">PRI</span>s and what&rsquo;s left is distributed as Earned Dividends according to each person&rsquo;s <span class="_paradigm">RAD</span>  allocations. This is the happy path.</p>
     </li>
     <li>
      <p style="margin: 0 auto 6px auto; ">As a company, we can get a loan or  an investment for the <em>PRI Fund</em>. When revenue doesn&rsquo;t cover the breakeven point, money flows out of the <em><span class="_paradigm">PRI</span> Account</em> to cover a member&rsquo;s full <span class="_paradigm">PRI</span>. This makes it possible for each co-owners to take home a predictable amount.</p>
@@ -312,13 +312,13 @@ image:    "dynamic-distribution-1.svg"
     The sixth column is labeled ANITA who has 300 RADs and takes $1000 in PRI.
     The graph shows a box labeled PRI ACCOUNT which is mostly filled with red liquid (an RADICAL investment). Below it are vertical boxes representing the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA takes the  largest PRI with $5000 and ANITA the smallest with $1000" title="RADICAL DISTRIBUTIONS">
    </p>
-   <p>We had a lot of back and forth over the <em><span class="_paradigm">PRI</span> Account</em> being a <em>personal</em> debt. Why not have it be a shared debt? This may work for small groups, but the problem is that it doesn&rsquo;t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don&rsquo;t know that well. They would want to know things like &ldquo;Why is Julio&rsquo;s <span class="_paradigm">PRI</span> so high?&rdquo; On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn&rsquo;t feel good about going into so much debt and brings down his <span class="_paradigm">PRI</span> after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister&rsquo;s school and is willing to bear the debt for a while longer.</p>
+   <p>We had a lot of back and forth over the <em><span class="_paradigm">PRI</span> Account</em> being a <em>personal</em> debt. Why not have it be a shared debt? This may work for small groups, but it doesn&rsquo;t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don&rsquo;t know that well. They would want to know things like &ldquo;Why is Julio&rsquo;s <span class="_paradigm">PRI</span> so high?&rdquo; On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn&rsquo;t feel good about going into so much debt and brings down his <span class="_paradigm">PRI</span> after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister&rsquo;s school and is willing to bear the debt for a while longer.</p>
    <p>If you are thinking that this process takes a lot of time, you&rsquo;re right. But it is cheaper and healthier than leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).</p>
  <h2>Dividends Are Not a Gift, You Earned Them</h2>
   <p>Below there are three sample scenarios for how Earned Dividends are calculated,</p>
    <ul>
     <li>
-     <p style="margin: 0 auto 6px auto; ">Below breakeven: When we as a company don&rsquo;t generate enough Dividends to cover everybody&rsquo;s PRIs in full and the difference has to come out of the <em><span class="_paradigm">PRI</span> Account</em>s.</p>
+     <p style="margin: 0 auto 6px auto; ">Below breakeven: When we as a company don&rsquo;t generate enough Dividends to cover everybody&rsquo;s <span class="_paradigm">PRI</span>s in full and the difference has to come out of the <em><span class="_paradigm">PRI</span> Account</em>s.</p>
     </li>
     <li>
      <p style="margin: 0 auto 6px auto; ">At breakeven: When we make enough to at least pay everybody&rsquo;s <span class="_paradigm">PRI</span>.</p>
@@ -341,7 +341,7 @@ image:    "dynamic-distribution-1.svg"
    Below are graphics representation of each PRIs with a mix of red and beige. taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA is takes the largest PRI with $5000 and ANITA the smallest with $1000.
    The graph shows the PRI ACCOUNT as a horizontal box full of read liquid. Below are vertical boxes that represent each person's PRI.They all have a mix of beige and red to indicate that they all had to complement their PRI with withdrawals from the PRI ACCOUNT." title="RADICAL DISTRIBUTIONS">
   </p>
-  <p>In the breakeven case we finally get to pay ourselves fully from the revenue that we&rsquo;ve generated. Even in this case, some people may need to draw from the <em>Predictable  Recurring Income</em> (PRI) Account, maybe because their PRI are high, or their RADs are low, or both.
+  <p>In the breakeven case we finally get to pay ourselves fully from the revenue that we&rsquo;ve generated. Even in this case, some people may need to draw from the <span class="_paradigm">PRI</span> Account, maybe because their <span class="_paradigm">PRI</span> are high, or their <span class="_paradigm">RAD</span>s are low, or both.
   </p>
   <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/en-predictable-recurring-income-pri-t2.svg" alt="A table and a graph. The DIVIDENS are $6000, which is below the $10000 breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, Earned, PRI ACCOUNT, and EARNED  Dividens.
@@ -355,7 +355,7 @@ image:    "dynamic-distribution-1.svg"
    The graph shows the PRI ACCOUNT as box full of read liquid.
    Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL DISTRIBUTIONS">
   </p>
-  <p>At some point, after we&rsquo;ve been steadily growing our revenue, no money is coming out of our <em>Predictable  Recurring Income</em> (PRI). This is when we start disbursing Earned Dividends in addition to covering everybody&rsquo;s PRI.</p>
+  <p>At some point, after we&rsquo;ve been steadily growing our revenue, no money is coming out of our <em>Predictable  Recurring Income</em> (PRI). This is when we start disbursing Earned Dividends in addition to covering everybody&rsquo;s <span class="_paradigm">PRI</span>.</p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
     <img src="/assets/img/en-predictable-recurring-income-pri-t3.svg" alt="A table and a graph. The DIVIDENS for the month is $25000, which is $9000 above the breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, EARNED, PRI ACCOUNT, and EARNED DIVIDENDS.
     The total DIVIDENDS add up to $16000, which is right at breakeven.
@@ -368,7 +368,7 @@ image:    "dynamic-distribution-1.svg"
     The graph shows the PRI ACCOUNT as box full of read liquid.
     Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL DISTRIBUTIONS">
    </p>
-   <p>Notice that even though dividends are up, Julio continues to draw from the <em>PRI Account</em> because his PRI is pretty high and his <span class="_paradigm">RAD</span>s count is pretty low. He may want to change his PRI or get feedback on why his <span class="_paradigm">RAD</span>s are so low.</p>
+   <p>Notice that even though dividends are up, Julio continues to draw from the <em>PRI Account</em> because his <span class="_paradigm">PRI</span> is pretty high and his <span class="_paradigm">RAD</span>s count is pretty low. He may want to change his <span class="_paradigm">PRI</span> or get feedback on why his <span class="_paradigm">RAD</span>s are so low.</p>
  <h2>Comparing the <span class="_paradigm">RADICAL</span> Investment Model with that of Banks and VCs</h2>
    <p><span class="_paradigm">RADICAL</span> investments will, at worst, have the same financial yield as today&rsquo;s VC system, but with 1) a lot more beneficiaries (<em>i.e.</em>, all the co-owners), and 2) less risk (<em>i.e.</em>, because a lot more people will be committed to making it work).</p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
