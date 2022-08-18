@@ -268,7 +268,7 @@ image:    "dynamic-distribution-1.svg"
      <p style="margin: 0 auto 6px auto; ">Each member determines their <span class="_paradigm">PRI</span>. This is what they feel they need to take home every month.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">Along with expenses, loan repayment, and other fixed expenses, the sum of all <span class="_paradigm">PRI</span>s determines what for simplicity we&rsquo;ll call the company&rsquo;s breakeven point.</p>
+     <p style="margin: 0 auto 6px auto; ">Along with expenses, loan repayment, and other fixed expenses, the sum of everybody&rsquo;s <span class="_paradigm">PRI</span> determines what for simplicity we&rsquo;ll call the company&rsquo;s breakeven point.</p>
     </li>
     <li>
      <p style="margin: 0 auto 6px auto; ">Every month, the company pays its bills and all <span class="_paradigm">PRI</span>s and what&rsquo;s left is distributed as Earned Dividends according to each person&rsquo;s <span class="_paradigm">RAD</span>  allocations. This is the happy path.</p>
