@@ -2,7 +2,7 @@
 layout:   post
 title:    "RADICAL Units of Measure"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez"
+authors:  "Matt Perez, Jose Leal"
 image:    "radical-units-of-measure.svg"
 ---
 
@@ -11,6 +11,7 @@ image:    "radical-units-of-measure.svg"
 </div>
 
 <h1>&nbsp;</h1>
+ <p>In <em><span class="_paradigm">RADICAL COMPANIES</span>: Without Bosses or Employees</em> we came up with <span class="_paradigm">RAD</span>s as a unit of measure. It turns out that we need a unit of distribution and a unit of recognition. <span class="_paradigm">RAD</span> is the unit of distribution and as such it accounts for the unaccountable. The unit of recognition could remain nameless and hide behing the <em>RADs! App</em> algoritm, but to be transparent, we should come up with a name for it, so let's call it <span class="_paradigm">REC</span>.
 
 <p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
 
