@@ -10,8 +10,11 @@ image:    "radical-units-of-measure.svg"
  <p></p>
 </div>
 
-<h1>&nbsp;</h1>
- <p>In <em><span class="_paradigm">RADICAL COMPANIES</span>: Without Bosses or Employees</em> we came up with <span class="_paradigm">RAD</span>s as a unit of measure. It turns out that we need a unit of distribution and a unit of recognition. <span class="_paradigm">RAD</span> is the unit of distribution and as such it accounts for the unaccountable. The unit of recognition could remain nameless and hide behing the <em>RADs! App</em> algoritm, but to be transparent, we should come up with a name for it, so let's call it <span class="_paradigm">REC</span>.
+<h1>RADICAL Units of Measure</h1>
+ <p>In our book, <em><span class="_paradigm">RADICAL COMPANIES</span></em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> we came up with <span class="_paradigm">RAD</span>s as a unit of measure. It turns out that what we really need is a unit of distribution and a unit of recognition. <span class="_paradigm">RAD</span> is the unit of distribution and as such it accounts for the unaccountable. The unit of recognition could remain nameless and hide behing the <em>RADs! App</em><a href="bm02"><sup id="#en02">1&nbsp;</sup></a> algoritm, but to be transparent, we should come up with a name for it, so let's call it <span class="_paradigm">REC</span>.
+
+<h1>RAD and REC</h1>
+ <p></p>
 
 <p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
 
@@ -53,12 +56,19 @@ image:    "radical-units-of-measure.svg"
  <ol style="font-size:smaller; ">
   <li id="en01">
    <p class="_list-item" style="width:1.5in; ">
-    AUTHOR(S)<br>
-    <em>TITLE.</em><br>
-    PUBLICATION YEAR.<br>
-    <<a href="https://…" target="_blank">https://…</a>>
+    Matt Perez, Adrian Perez, Jose Leal.
+    <em><span class="_paradigm">RADICAL COMPANIES</span>: Without Bosses or Employees</em>
+    2021.
+    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item" style="width:1.5in; ">
+    Coming soon to iOS and Android app stores.
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
  </ol>
 
 <h1 class="_section">RELATED</h1>
