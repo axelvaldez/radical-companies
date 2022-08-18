@@ -52,12 +52,13 @@ image:    "about-daos.svg"
  <ol style="font-size:smaller; ">
   <li id="en01">
    <p class="_list-item" style="width:1.5in; ">
-    AUTHOR(S)<br>
-    <em>TITLE.</em><br>
-    PUBLICATION YEAR.<br>
+    AUTHOR(S).
+    <em>TITLE.</em>
+    PUBLICATION YEAR.
     <<a href="https://…" target="_blank">https://…</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
+  </li>
  </ol>
 
 <h1 class="_section">RELATED</h1>
