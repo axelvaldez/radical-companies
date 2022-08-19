@@ -61,7 +61,7 @@ image:    "radical-units-of-measure.svg"
 <h1 class="_section">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="en01">
-   <p class="_list-item" style="width:1.5in; ">
+   <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
     <em><span class="_paradigm">RADICAL COMPANIES</span>: Without Bosses or Employees</em>
     2021.
@@ -70,13 +70,13 @@ image:    "radical-units-of-measure.svg"
    </p>
   </li>
   <li id="en02">
-   <p class="_list-item" style="width:1.5in; ">
+   <p class="_list-item">
     Coming soon to iOS and Android app stores.
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
-   <p class="_list-item" style="width:1.5in; ">
+   <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
     <em><span class="_paradigm">RADICAL COMPANIES</span>: Without Bosses or Employees</em>
     2021.
