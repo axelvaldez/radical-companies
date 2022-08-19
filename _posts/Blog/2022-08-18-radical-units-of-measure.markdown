@@ -7,7 +7,7 @@ image:    "radical-units-of-measure.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>We need RECs in additons to RADs.x</p>
 </div>
 
 <h1>RADICAL Units of Measure</h1>
@@ -21,70 +21,7 @@ image:    "radical-units-of-measure.svg"
  <p>The <em>RADs! app</em> lets a co-owner press a recognition button as many times as she feels like it (<em>i.e.</em>, really, there's no limit). This captures the <em>intensity of the feeling</em> that the contribution brought up in the giving co-owner. Let&rsquo;s call her Deb.</p>
  <p>At the end of the cycle, the <span class="_paradigm">REC</span>s that Deb gave other co-owners are converted to <span class="_paradigm">RAD</span>s. First, the number of <span class="_paradigm">REC</span>s Deb gave other co-owners during the cycle is divided by the total of <span class="_paradigm">REC</span>s she gave. Each resulting percentages is then multiplied by the totaal number of <span class="_paradigm">RAD</span>s Deb had to give during the cycle (<em>e.g.</em>, 30 on a monthly cycke). This results in the number of <span class="_paradigm">RAD</span>s other co-owners gets from Deb.</p>
  
-
-<p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
-
 <img style="margin:0 auto; " src="/assets/img/en-alignment.svg" width="70%" alt="">
-
- <table align="center">
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>relationships</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>autonomy</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>collaboration</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
- </table>
- <p style="margin-top:20px; "><span class="_paradigm">RAD</span>s support all of these behaviors,</p>
- <table>
-
-<h1 class="_section">ENDNOTES</h1>
- <ol style="font-size:smaller; ">
-  <li id="en01">
-   <p class="_list-item">
-    Matt Perez, Adrian Perez, Jose Leal.
-    <em><span class="_paradigm">RADICAL COMPANIES</span>: Without Bosses or Employees</em>
-    2021.
-    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en02">
-   <p class="_list-item">
-    Coming soon to iOS and Android app stores.
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en03">
-   <p class="_list-item">
-    Matt Perez, Adrian Perez, Jose Leal.
-    <em><span class="_paradigm">RADICAL COMPANIES</span>: Without Bosses or Employees</em>
-    2021.
-    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ol>
 
 <h1 class="_section">RELATED</h1>
  <ul>
