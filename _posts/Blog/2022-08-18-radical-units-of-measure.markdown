@@ -2,7 +2,7 @@
 layout:   post
 title:    "RADICAL Units of Measure"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez, Jose Leal"
+authors:  "Jose Leal, Matt Perez, Adrian Perez"
 image:    "radical-units-of-measure.svg"
 ---
 
@@ -17,7 +17,8 @@ image:    "radical-units-of-measure.svg"
  <p><span class="_paradigm">RAD</span>s are a unit of distribution. The <span class="_paradigm">RAD</span>s you are given by your peer co-owners turn into a percentage turn into a percentage of the total <span class="_paradigm">RAD</span>s given to date. Then anything that has to be distributed, say Earned Dividends<a href="#en03"><sup id="bm03">3&nbsp;</sup></a>, are multiplied by that percentage in order to figure our how much of the Earned Dividends you get. But as we tried to use them in the <em><span class="_paradigm">RAD</span>s! app</em> it got too cumbersome. That is because what we want to make frictionless is to capture <em>the recognition of contributions</em>. In fact, we want to make it intuitive to capture the <em>feeling</em> that the contribution brought up in a co-owner.</p>
  
 <h1><span class="_paradigm">REC</span> as a Unit of Recognition</h1>
- <p>Given the need, <span class="_paradigm">REC</span>s were born. The <em>RADs! app</em> lets a co-owner press a recognition button as many times as she feels like it. Really, there's no limit. That, we hope, should capture the intensity of the feeling that the contribution brought up in a co-owner. At the end of the cycle, <span class="_paradigm">REC</span>s, too, end up as percentages of the total <span class="_paradigm">REC</span>s given throughout the cycle. This percentage is multiplied by the number of <span class="_paradigm">RAD</span>s a co-owner received (<em>i.e.</em>, the same as every other co-owner receives in the cycle). We are using one <span class="_paradigm">RAD</span> per day, so at the end of a 30-day cycle, the co-owner has accumulated 30 <span class="_paradigm">RAD</span>s. These are dividec by the number of <span class="_paradigm">REC</span>s a co-owner gave throughout the cycle to figure out how many <span class="_paradigm">RAD</span>s other co-owners get from us.</p>
+ <p>Given the need for a unit of recognition, <span class="_paradigm">REC</span>s were born. However, they work completely in the background.</p>
+ <p>The <em>RADs! app</em> lets a co-owner press a recognition button as many times as she feels like it (<em>i.e.</em> eeally, there's no limit) to capture the <em>intensity</em> of the feeling that the contribution brought up in a co-owner. At the end of the cycle, <span class="_paradigm">REC</span>s are converted to <span class="_paradigm">RAD</span>s. To do this, the number of <span class="_paradigm">REC</span>s a co-owner gave during the cycle are divided by the total number of <span class="_paradigm">REC</span>s she gave. This percentage is then multiplied by the number of <span class="_paradigm">RAD</span>s a co-owner received (<em>i.e.</em>, the same as every other co-owner receives in the cycle). We are using one <span class="_paradigm">RAD</span> per day, so at the end of a 30-day cycle, the co-owner has accumulated 30 <span class="_paradigm">RAD</span>s. These are dividec by the number of <span class="_paradigm">REC</span>s a co-owner gave throughout the cycle to figure out how many <span class="_paradigm">RAD</span>s other co-owners get from us.</p>
  
 
 <p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
