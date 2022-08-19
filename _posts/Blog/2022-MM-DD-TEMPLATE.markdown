@@ -14,11 +14,12 @@ image:    "about-daos.svg"
 
 <p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
 
-<img
- style="text-align:center; "
- src="/assets/img/recs-to-rads-equation.svg"
- width="70%"
- alt="">
+<div style="text-align:center; ">
+ <img
+  src="/assets/img/recs-to-rads-equation.svg"
+  width="70%"
+  alt="">
+</div>
 
  <table align="center">
   <tr>
