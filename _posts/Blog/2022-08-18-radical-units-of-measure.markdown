@@ -21,12 +21,12 @@ image:    "radical-units-of-measure.svg"
  <p>The <em>RADs! app</em> lets a co-owner press a recognition button as many times as she feels like it (<em>i.e.</em>, really, there's no limit). This captures the <em>intensity of the feeling</em> that the contribution brought up in the giving co-owner. Let&rsquo;s call her Deb.</p>
  <p>At the end of the cycle, the <span class="_paradigm">REC</span>s that Deb gave other co-owners are converted to <span class="_paradigm">RAD</span>s. First, the number of <span class="_paradigm">REC</span>s Deb gave each co-owner during the cycle is divided by the total of <span class="_paradigm">REC</span>s she gave. Each resulting percentages is then multiplied by the total number of days in the cycle. This results in the number of <span class="_paradigm">RAD</span>s other co-owners get from Deb.</p>
  
-<p style="margin:0 auto; ">caca
+<div style="margin:0 auto; ">caca
  <img
   src="/assets/img/recs-to-rads-equation.svg"
   width="70%"
   alt="This is a formula. The first term is the number of RECs per co-owner divided by the total number of RECs given during the cycle. This is then multiplied by the number of days in the cycle. The result is the number of RADs each co-owner gets.">
-</p>
+</div>
 
 <h1 class="_section">RELATED</h1>
  <ul>
