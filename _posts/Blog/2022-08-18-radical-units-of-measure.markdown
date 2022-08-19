@@ -19,9 +19,13 @@ image:    "radical-units-of-measure.svg"
 <h1><span class="_paradigm">REC</span> as a Unit of Recognition</h1>
  <p>Given the need for a unit of recognition, <span class="_paradigm">REC</span>s were born. However, they work completely in the background.</p>
  <p>The <em>RADs! app</em> lets a co-owner press a recognition button as many times as she feels like it (<em>i.e.</em>, really, there's no limit). This captures the <em>intensity of the feeling</em> that the contribution brought up in the giving co-owner. Let&rsquo;s call her Deb.</p>
- <p>At the end of the cycle, the <span class="_paradigm">REC</span>s that Deb gave other co-owners are converted to <span class="_paradigm">RAD</span>s. First, the number of <span class="_paradigm">REC</span>s Deb gave other co-owners during the cycle is divided by the total of <span class="_paradigm">REC</span>s she gave. Each resulting percentages is then multiplied by the totaal number of <span class="_paradigm">RAD</span>s Deb had to give during the cycle (<em>e.g.</em>, 30 on a monthly cycke). This results in the number of <span class="_paradigm">RAD</span>s other co-owners get from Deb.</p>
+ <p>At the end of the cycle, the <span class="_paradigm">REC</span>s that Deb gave other co-owners are converted to <span class="_paradigm">RAD</span>s. First, the number of <span class="_paradigm">REC</span>s Deb gave other co-owners during the cycle is divided by the total of <span class="_paradigm">REC</span>s she gave. Each resulting percentages is then multiplied by the totaal number of days in the cycle. This results in the number of <span class="_paradigm">RAD</span>s other co-owners get from Deb.</p>
  
-<img style="margin:0 auto; " src="/assets/img/en-alignment.svg" width="70%" alt="">
+<img
+ style="margin:0 auto; "
+ src="/assets/img/recs-to-rads-equation.svg"
+ width="70%"
+ alt="This is a formula. The first term is the number of RECs per co-owner divided by the total number of RECs given during the cycle. This is then multiplied by the number of days in the cycle. The result is the number of RADs each co-owner gets.">
 
 <h1 class="_section">RELATED</h1>
  <ul>
