@@ -7,7 +7,7 @@ image:    "fiat-hierarchy.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>I used to think that people pick from three different categories when they are trying to pick a job: money, title, or empire. Depending on the person, they may order them differently. I thought of them as distinct, but, I realize now, they are all about elevating your position in a hierarchy.</p>
 </div>
 
 <h1>&nbsp;</h1>
