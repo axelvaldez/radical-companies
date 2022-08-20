@@ -7,7 +7,7 @@ image:    "radical-units-of-measure.svg"
 ---
 
 <div style="display:none;">
- <p>We need RECs in additons to RADs.x</p>
+ <p>We need RECs in additons to RADs.</p>
 </div>
 
 <h1>RADICAL Units of Measure</h1>
