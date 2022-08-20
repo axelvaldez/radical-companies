@@ -33,7 +33,7 @@ image:    "fiat-hierarchy.svg"
 <h1>FIAT HIERARCHY</h1>
  <p>Money, title, and empire are not independent variables. They are all aspects of the FIAT hierarchy.</p>
  <p>Very few people say “I want to be high up in a hierarchy.” It is a little too abstract and somewhat crass.</p>
- <p>I know my parents definitely eschewed title and favored <em>empire</em> as I was growing up. That was a value system that passed to me and only recently has it become obvious that we are ultimately talking about position in the FIAT hierarchy.</p>
+ <p>I know my parents definitely eschewed <em>title</em> and favored <em>empire</em> as I was growing up. That was a value system that passed on to me and only recently has it become obvious that we are ultimately talking about position in the FIAT hierarchy.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
