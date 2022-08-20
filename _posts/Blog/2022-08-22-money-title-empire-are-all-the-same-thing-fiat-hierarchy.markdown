@@ -3,7 +3,7 @@ layout:   post
 title:    "Money, Title, and Empire Are All the Same Thing: FIAT Hierarchy"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "about-daos.svg"
+image:    "fiat-hierarchy.svg"
 ---
 
 <div style="display:none;">
