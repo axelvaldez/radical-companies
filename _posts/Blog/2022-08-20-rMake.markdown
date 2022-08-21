@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "TEMPLATE"
+title:    "rMake"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "about-daos.svg"
