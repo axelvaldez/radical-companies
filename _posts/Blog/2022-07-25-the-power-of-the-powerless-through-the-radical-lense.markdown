@@ -14,8 +14,8 @@ image:    "the-power-of-the-powerless-icon.svg"
  <p>According to Václav Havel, dictatorships are held together by historical roots, ideology, and the very people they dominate. That is what he concluded in the <em>The Power of Powerless</em>. Looked at it through this lense, <em>businesses are dictatorship</em>.</p>
 
 <h1>The Power of Dictatorships</h1>
- <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.
- <p>In the essay, his most striking observation is that what keeps together dictatorships is the acceptance of the very people that they oppress<sup id="bm01"><a href="#en01">&nbsp;</a></sup>. He also observed that sovie-style dictatorships<sup id="bm02"><a href="#en02">2&nbsp;</a></sup> are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of &ldquo;the means of production,&rdquo; that is, everything that can generate wealth, including people. In summary,</p>
+ <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<sup id="bm01"><a href="#en01">1&nbsp;</a></sup> 
+ <p>In the essay, his most striking observation is that what keeps together dictatorships is the acceptance of the very people that they oppress<sup id="bm02"><a href="#en02">2&nbsp;</a></sup>. He also observed that sovie-style dictatorshipsare based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of &ldquo;the means of production,&rdquo; that is, everything that can generate wealth, including people. In summary,</p>
  <table>
   <tr>
    <th><p>Huge<br>Power<br>Block</p></th>
@@ -150,17 +150,18 @@ image:    "the-power-of-the-powerless-icon.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    According to Havel, the <em>Left</em> or <em>Right</em> labels don&rsquo;t matter, and I concurr, all dictatorships are the same. For example, Cuba&rsquo;s Castro (Left?) and Argentina&rsquo;s Per&oacute;n had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo; See the <span class="_book_title">Dictator&rsquo;s Handbook</span> by Bruce Bueno de Mesquita
-    <<a href="https://radicals.world/xO7ufx" target="_blank">https://radicals.world/xO7ufx</a>>
+    Andy Kopsa.
+    <span class="_book_title">Czechoslovakia&rsquo;s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</span>.
+    November 2019.
+    <<a href="https://time.com/5730106/velvet-revolution-history/" target="_blank">https://time.com/5730106/velvet-revolution-history/</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p class="_list-item">
-    Andy Kopsa.
-    <span class="_book_title">Czechoslovakia&rsquo;s Velvet Revolution Started 30 Years Ago—But It Was Decades in the Making</span>.
-    November 2019.
-    <<a href="https://time.com/5730106/velvet-revolution-history/" target="_blank">https://time.com/5730106/velvet-revolution-history/</a>>
+    According to Havel, the <em>Left</em> or <em>Right</em> labels don&rsquo;t matter all dictatorships are the same. The same observation was made by Etienne de la Boetie in 1577 in <em>The Politics of Obedience. The Discourse of Volutary Servitude<em>.</p>
+    <p>I quite agree. For example, Cuba&rsquo;s Castro (Left?) and Argentina&rsquo;s Per&oacute;n had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo; See the <span class="_book_title">Dictator&rsquo;s Handbook</span> by Bruce Bueno de Mesquita.
+    <<a href="https://radicals.world/xO7ufx" target="_blank">https://radicals.world/xO7ufx</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
