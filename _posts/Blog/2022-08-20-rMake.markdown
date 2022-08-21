@@ -3,7 +3,7 @@ layout:   post
 title:    "rMake"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "about-daos.svg"
+image:    "rMake-icon.svg"
 ---
 
 <div style="display:none;">
