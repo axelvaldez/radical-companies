@@ -55,7 +55,7 @@ image:    "radical-fast-icon.svg"
 
 <h1 class="_section">RELATED</h1>
  <ul>
-  <li><span style="font-size:smaller; ">RADICAL</span> COMPANIES,</li>
+  <li>RADICAL COMPANIES,</li>
    <ul>
     <li><a>EN</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/radicalcompanies.com [EN]</a></li>
     <li><a>ES</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/radicalcompanies.com [ES]</a></li>
@@ -65,20 +65,20 @@ image:    "radical-fast-icon.svg"
     <li>For the Impatient: <a href="https://radicalcompanies.com/2022/05/04/RADICAL-COMPANIES-impatient" target="_blank">&hellip;/RADICAL-COMPANIES-impatient</a></li>
     <li>Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/05/RADICAL-COMPANIES-faq" target="_blank">&hellip;/RADICAL-COMPANIES-faq</a></li>
    </ul>
-   <li>The Missing Chapters,</li>
+   <li>Missing Chapters,</li>
     <ul>
-     <li>RADICAL COIN: <a href="https://radicalcompanies.com/2022/05/07/rcoins" target="_blank">&hellip;/rcoins</a></li>
-     <li>RADICAL Land: <a href="https://radicalcompanies.com/2022/05/08/rland" target="_blank">&hellip;/rland</a></li>
-     <li>RADICAL Government: <a href="https://radicalcompanies.com/2022/05/06/rgovernment" target="_blank">&hellip;/rgovernment</a></li>
+     <li>rCoin: <a href="https://radicalcompanies.com/2022/05/07/rcoins.html" target="_blank">&hellip;/rcoin</a></li>
+     <li>rLand: <a href="https://radicalcompanies.com/2022/05/08/rland.html" target="_blank">&hellip;/rland</a></li>
+     <li>rGov: <a href="https://radicalcompanies.com/2022/05/06/rgov.html" target="_blank">&hellip;/rgov</a></li>
     </ul>
    <li>rCompanies</li>
     <ul>
-     <li>rPRADERA MEDIA,</li>
+     <li>rMEDIA,</li>
       <ul>
-       <li>PRADERA Shelf: <a href="https://radicalcompanies.com/2022/04/02/PRADERA-Shelf" target="_blank">&hellip;/PRADERA-Shelf</a></li>
-       <li>PRADERA Reader: <a href="https://radicalcompanies.com/2022/04/01/PRADERA-Reader" target="_blank">&hellip;/PRADERA-Reader</a></li>
-       <li>RADICALS.LIVE!: <a href="https://radicalcompanies.com/2022/04/04/RADICALS-Live" target="_blank">&hellip;/RADICALS-Live</a></li>
-       <li>RADICAL MBA: <a href="https://radicalcompanies.com/2022/04/03/RADICAL-MBA" target="_blank">&hellip;/RADICAL-MBA</a></li>
+       <li>PRADERA Shelf: <a href="https://radicalcompanies.com/2022/04/02/rShelf" target="_blank">&hellip;/rShelf</a></li>
+       <li>PRADERA Reader: <a href="https://radicalcompanies.com/2022/04/01/rReader" target="_blank">&hellip;/rReader</a></li>
+       <li>RADICALS.LIVE!: <a href="https://radicalcompanies.com/2022/04/04/rLive" target="_blank">&hellip;/rLive</a></li>
+       <li>RADICAL MBA: <a href="https://radicalcompanies.com/2022/04/03/rMBA" target="_blank">&hellip;/rMBA</a></li>
       </ul>
      <li>rHatchery: <a href="https://radicalcompanies.com/2022/05/16/rHatchery" target="_blank">&hellip;/rHatchery</a> <span style="font-weight:bold; ">[Under development]</span></li>
      <li>rCircuit: <a href="https://radicalcompanies.com/2022/04/05/rCircuit" target="_blank">&hellip;/rCircuit</a></li>
@@ -88,7 +88,7 @@ image:    "radical-fast-icon.svg"
        <li>rCORE: <a href="https://radicalcompanies.com/2022/05/15/rCORE" target="_blank">&hellip;/rCORE</a> <span style="font-weight:bold; ">[Under development]</span></li>
        <li>rClean: <a href="https://radicalcompanies.com/2022/05/14/rClean" target="_blank">&hellip;/rClean</a></li>
        <li>rStayHome: <a href="https://radicalcompanies.com/2022/05/12/rStayHome" target="_blank">&hellip;/rStayHome</a></li>
-       <li>rKidsCare: <a href="https://radicalcompanies.com/2022/05/13/rKidsKare" target="_blank">&hellip;/rKidsKare</a></li>
+       <li>rKare: <a href="https://radicalcompanies.com/2022/05/13/rKare" target="_blank">&hellip;/rKare</a></li>
       </ul>
     </ul>
   <li>rStartups,</li>
@@ -99,8 +99,8 @@ image:    "radical-fast-icon.svg"
    </ul>
   <li>rProjects,</li>
    <ul>
-    <li>REMARK!: <a href="https://radicalcompanies.com/2022/05/18/REMARK" target="_blank">&hellip;/REMARK</a></li>
-    <li>RADs!: <a href="https://radicalcompanies.com/2022/05/19/RADs!" target="_blank">&hellip;/RADs!</a> <span style="font-weight:bold; ">[Under development]</span></li>
+    <li>REMARK!: <a href="https://radicalcompanies.com/2022/05/18/REMARK" target="_blank">&hellip;/REMARK (API)</a></li>
+    <li>RADs!: <a href="https://radicalcompanies.com/2022/05/19/RADs!" target="_blank">&hellip;/RADs! (App)</a> <span style="font-weight:bold; ">[Under development]</span></li>
     <li>Attentive UI: <a href="https://radicalcompanies.com/2022/05/17/attentive-ui.html" target="_blank">&hellip;attentive-ui.html</a></li>
    </ul>
  </ul>

@@ -78,15 +78,15 @@ image:    "about-daos.svg"
     <li>For the Impatient: <a href="https://radicalcompanies.com/2022/05/04/RADICAL-COMPANIES-impatient" target="_blank">&hellip;/RADICAL-COMPANIES-impatient</a></li>
     <li>Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/05/RADICAL-COMPANIES-faq" target="_blank">&hellip;/RADICAL-COMPANIES-faq</a></li>
    </ul>
-   <li>The Missing Chapters,</li>
+   <li>Missing Chapters,</li>
     <ul>
-     <li>rCOIN: <a href="https://radicalcompanies.com/2022/05/07/rcoins.html" target="_blank">&hellip;/rcoin</a></li>
+     <li>rCoin: <a href="https://radicalcompanies.com/2022/05/07/rcoins.html" target="_blank">&hellip;/rcoin</a></li>
      <li>rLand: <a href="https://radicalcompanies.com/2022/05/08/rland.html" target="_blank">&hellip;/rland</a></li>
      <li>rGov: <a href="https://radicalcompanies.com/2022/05/06/rgov.html" target="_blank">&hellip;/rgov</a></li>
     </ul>
    <li>rCompanies</li>
     <ul>
-     <li>rMedia,</li>
+     <li>rMEDIA,</li>
       <ul>
        <li>PRADERA Shelf: <a href="https://radicalcompanies.com/2022/04/02/rShelf" target="_blank">&hellip;/rShelf</a></li>
        <li>PRADERA Reader: <a href="https://radicalcompanies.com/2022/04/01/rReader" target="_blank">&hellip;/rReader</a></li>
@@ -112,8 +112,8 @@ image:    "about-daos.svg"
    </ul>
   <li>rProjects,</li>
    <ul>
-    <li>REMARK!: <a href="https://radicalcompanies.com/2022/05/18/REMARK" target="_blank">&hellip;/REMARK</a></li>
-    <li>RADs!: <a href="https://radicalcompanies.com/2022/05/19/RADs!" target="_blank">&hellip;/RADs!</a> <span style="font-weight:bold; ">[Under development]</span></li>
+    <li>REMARK!: <a href="https://radicalcompanies.com/2022/05/18/REMARK" target="_blank">&hellip;/REMARK (API)</a></li>
+    <li>RADs!: <a href="https://radicalcompanies.com/2022/05/19/RADs!" target="_blank">&hellip;/RADs! (App)</a> <span style="font-weight:bold; ">[Under development]</span></li>
     <li>Attentive UI: <a href="https://radicalcompanies.com/2022/05/17/attentive-ui.html" target="_blank">&hellip;attentive-ui.html</a></li>
    </ul>
  </ul>
