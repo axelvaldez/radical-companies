@@ -17,7 +17,7 @@ image:    "rMake-icon.svg"
 
 <h1>Why rMake</h1>
  <p>Writing a book is mostly a one-person writing exercise and that’s a problem. Using today’s tools, if the book has more than one author, they may have discussions, critiques, suggestions, etc., but, after all is said and done, the actual writing is done by one of them.</p>
- <p>Another problem is assigning authorship and ownership. A handful of people get listed as co-authors and they also get co-ownership of the work. Others who have contributed significantly to the book may not end up as “advisors” or “my good friend” but not considered a co-author. Still others may get mentioned in the acknowledgements section or in footnotes. Unfortunately, none of this really comes close to creating a book as a team, similarly to the way we make software.</p>
+ <p>Another problem is assigning authorship and ownership. A handful of people get listed as co-authors and they also get co-ownership of the work. Others who have contributed significantly to the book may not end up as &ldquo;advisors&rdquo; or &ldquo;my good friend&rdquo; but not considered a co-author. Still others may get mentioned in the acknowledgements section or in footnotes. Unfortunately, none of this really comes close to creating a book as a team, similarly to the way we make software.</p>
  <p>The intent of rMake is to make it possible for many people to contribute to a book and get authorship and ownership consistently. What would have been a laborious process for books written with a quill pen or a typewriter, it is a piece of cake using basic modern technology.</p>
 
 <h1>But You Already Can&hellip;</h1>
@@ -229,13 +229,13 @@ image:    "rMake-icon.svg"
  <p>They could, alternatively, create a Copied flow, where every fragment is a static copy of the original fragment. Changes in the original fragments would not be reflected in the new flow.</p>
  <p>Either way, authorship stays with each fragment, whether Linked or Copied. Content is owned by those who author it.</p>
  <p>These flows are first-class objects. They are addressable, persistent, and each can be publishable separately. For example, I could post a URL to one flow (<em>e.g.</em>, 1, 2, 3, 4) and you could publish another flow (<em>e.g.</em>, 1, 2, modified 3, 4). Readers can choose to read one flow or another. Or they can jump from one to another, regardless of the flow they started from.</p>
- <p>Of note, this could cause weird situations. For example, I create a flow about responsible gun ownership. Somebody else may fork it and use the statistics chapter to support reckless gun ownership. In this case, I could end up getting paid from sales of the “irresponsible” book. At first, I found the thought more than a little distressing, but as Doug Kirkpatrick points out,</p>
- <h4>“That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</h4>
- <h4>“If a statistics book chapter is OPEN, therefore, it is subject to being applied by individuals to arguments with which we may disagree.</h4>
- <h4>“I also think that books aren’t just about the writers, they’re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren’t always the lovely, objective things we assume them to be (see <a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=FKW6Y0VTHKGY7C3EM3YD">How to Lie with Statistics</a>).”</h4>
+ <p>Of note, this could cause weird situations. For example, I create a flow about responsible gun ownership. Somebody else may fork it and use the statistics chapter to support reckless gun ownership. In this case, I could end up getting paid from sales of the &ldquo;irresponsible&rdquo; book. At first, I found the thought more than a little distressing, but as Doug Kirkpatrick points out,</p>
+ <h4>&ldquo;That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</h4>
+ <h4>&ldquo;If a statistics book chapter is OPEN, therefore, it is subject to being applied by individuals to arguments with which we may disagree.</h4>
+ <h4>&ldquo;I also think that books aren’t just about the writers, they’re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren’t always the lovely, objective things we assume them to be (see <a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=FKW6Y0VTHKGY7C3EM3YD">How to Lie with Statistics</a>).&rdquo;</h4>
 
 <h1>Publishing</h1>
- <p>The mythical “book deal” includes an advance that a publisher pays an author when the book is just an outline. For well-known authors and brand names (<em>e.g.</em>, ex-President Obama), that is still the case. The rest of us get, at best, a percent of sales minus all expenses, including returns,</p>
+ <p>The mythical &ldquo;book deal&rdquo; includes an advance that a publisher pays an author when the book is just an outline. For well-known authors and brand names (<em>e.g.</em>, ex-President Obama), that is still the case. The rest of us get, at best, a percent of sales minus all expenses, including returns,</p>
  <p>In the rMake model, a Publisher could,</p>
  <ul>
   <li>Negotiates a deal around a particular flow.</li>
@@ -296,7 +296,7 @@ image:    "rMake-icon.svg"
    <li>Share content,
     <p>Where the URL points to the highlighted text.</p>
     <ul>
-     <li>See and follow alternative content. For example, a button labeled “Alt Content” would jump to the alternative if there’s only one or show a pull down list if there's more than one. Or the button could open a side panel to show a short description of each version.</li>
+     <li>See and follow alternative content. For example, a button labeled &ldquo;Alt Content&rdquo; would jump to the alternative if there’s only one or show a pull down list if there's more than one. Or the button could open a side panel to show a short description of each version.</li>
     </ul>
    </ul>
 <h2>Writer</h2>
@@ -338,7 +338,7 @@ image:    "rMake-icon.svg"
  <p>When that happens, the new flows will carry a copy of all comments and edits with it. If one author decides to remove some or all comments or reject the edits, then they still exist in the original flows.</p>
 
 <h1>Twitter/LinkedIn/etc</h1>
- <p>A la Medium: text can be pre-selected as “ready to post.” Clicking on that text brings up a Twitter or LinkedIn post window with the text itself and a URL to the quoted text.</p>
+ <p>A la Medium: text can be pre-selected as &ldquo;ready to post.&rdquo; Clicking on that text brings up a Twitter or LinkedIn post window with the text itself and a URL to the quoted text.</p>
  <p>Also, text can be selected and sent to these and other Social platforms, including a URL that points back to the text (<em>i.e.</em>, a la Diigo).</p>
 
 <h1>References</h1>
@@ -369,7 +369,7 @@ image:    "rMake-icon.svg"
 
 <h1>Bookmarks</h1>
  <ul>
-  <li>It should be possible to add labels to a bookmark (e.g., “Start here”).</li>
+  <li>It should be possible to add labels to a bookmark (e.g., &ldquo;Start here&rdquo;).</li>
   <li>Highlighted text yields a bookmark that includes the start and end of the highlighted text. Title, subtitles, and headers always yield a bookmark.</li>
   <li>Clicking on an embedded link would show you where it points to, a la Google Docs or where it is referenced from.</li>
  </ul>
