@@ -139,79 +139,49 @@ This made me think of how Aztecs used to keep track of histories.<br>
  <table>
   <tr>
    <td>
-<p style="text-align: right">
-PROs</p>
-
-
-
+    <p style="text-align: right">PROs</p>
    </td>
    <td>
-<ul>
-
-<li>It has a good WYSIWYG interface. Very intuitive, plenty of undos, etc.</li>
-<li>It supports a very impressive version of collaboration, where different people can work on a document together in real time.</li>
-<li>Authors can see each other’s words appearing in the document as they work in parallel, as peers. They can also see each other’s gestures (via the cursor).</li>
-<li>It keeps a doc’s complete history. You can even name particular versions of a doc to easily recognize them.</li>
-</ul>
+    <ul>
+     <li>It has a good WYSIWYG interface. Very intuitive, plenty of undos, etc.</li>
+     <li>It supports a very impressive version of collaboration, where different people can work on a document together in real time.</li>
+     <li>Authors can see each other’s words appearing in the document as they work in parallel, as peers. They can also see each other’s gestures (via the cursor).</li>
+     <li>It keeps a doc’s complete history. You can even name particular versions of a doc to easily recognize them.</li>
+    </ul>
    </td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
+   <td></td>
+   <td></td>
   </tr>
   <tr>
    <td>
-<p style="text-align: right">
-CONs</p>
-
-
-
+    <p style="text-align: right">CONs</p>
    </td>
    <td>
-<ul>
-
-<li>The code is proprietary. It supports a version of JavaScript that you can use to make extensions, but you’re SOL if you want to make a major mod to it.</li>
-<li>Only one version is rendered at one time. If you want to work off the version from three days ago, you have to choose it for rendering. But this deprecates the current version. If three people modified the version you’re interested in, you can render only one; the others are History.</li>
-</ul>
+    <ul>
+     <li>The code is proprietary. It supports a version of JavaScript that you can use to make extensions, but you’re SOL if you want to make a major mod to it.</li>
+     <li>Only one version is rendered at one time. If you want to work off the version from three days ago, you have to choose it for rendering. But this deprecates the current version. If three people modified the version you’re interested in, you can render only one; the others are History.</li>
+    </ul>
    </td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
+   <td></td>
+   <td></td>
   </tr>
 </table>
 
-
 <h1>rMake</h1>
-
-
-<p>
-In the end, we opted to create a new app we call MAKE<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> and make it as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries (<em>e.g.</em>, diff) that we can use in the making of rMake.
-</p>
-<p>
-For the backend, after trying to make our own, we are planning to use <a href="https://github.com/uprtcl">_Prtcl</a>, an OSS project, based on blockchain, that’s very much aligned with our goals.
-</p>
-<h2>No Trunk</h2>
-
-
-<p>
-In rMake <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.
-</p>
- <p>These flows are fully rendered and at any point in time, a reader would be able to see any. Perhaps one flow is recommended by readers more than the others, but all flows will still be around for readers to explore.</p>
-<h2>Authorship & Ownership</h2>
-
-
-<p>
-A fragment could be a phrase, sentence, paragraph, and even a word. Every fragment carries authorship <em>and</em> ownership.
-</p>
-<ul>
-
-<li>Authorship and ownership can be unknown, marked as TBD. Authorship is usually known, but ownership can be more problematic to discover.</li>
-<li>If ownership is marked as TBD, then anybody, say, PubCo, can <em>claim</em> ownership of a fragment and, assuming that they can prove it, PubCo would then be <em>assigned</em> as owner of the fragment.
+ <p>In the end, we opted to create a new app we call MAKE<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> and make it as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries (<em>e.g.</em>, diff) that we can use in the making of rMake.</p>
+ <p>For the backend, after trying to make our own, we are planning to use <a href="https://github.com/uprtcl">_Prtcl</a>, an OSS project, based on blockchain, that’s very much aligned with our goals.</p>
+ <h2>No Trunk</h2>
+  <p>In rMake <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
+  <p>These flows are fully rendered and at any point in time, a reader would be able to see any. Perhaps one flow is recommended by readers more than the others, but all flows will still be around for readers to explore.</p>
+ <h2>Authorship & Ownership</h2>
+  <p>A fragment could be a phrase, sentence, paragraph, and even a word. Every fragment carries authorship <em>and</em> ownership.</p>
+  <ul>
+   <li>Authorship and ownership can be unknown, marked as TBD. Authorship is usually known, but ownership can be more problematic to discover.</li>
+   <li>If ownership is marked as TBD, then anybody, say, PubCo, can <em>claim</em> ownership of a fragment and, assuming that they can prove it, PubCo would then be <em>assigned</em> as owner of the fragment.</li>
 
 <li>Authorship means that co-authors are responsible for its content.</li>
 <li>Ownership includes the power to decide on fragment merges.</li>
