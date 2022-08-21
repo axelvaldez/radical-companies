@@ -10,47 +10,6 @@ image:    "rMake-icon.svg"
  <p>Writing a book is mostly a one-person writing exercise. That’s a problem. Today&rsquo;s tools have discussions, critiques, suggestions, etc., but the actual writing is done by one person.</p>
 </div>
 
-<p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
-
-<div style="text-align:center; ">
- <img
-  src="/assets/img/recs-to-rads-equation.svg"
-  width="70%"
-  alt="">
-</div>
-
- <table align="center">
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>relationships</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>autonomy</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>collaboration</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
- </table>
- <p style="margin-top:20px; "><span class="_paradigm">RAD</span>s support all of these behaviors,</p>
- <table>
-
 <pre class="prettyprint" style="font-size:25px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; ">
  A book would no longer be a book, but (parallel) variations on a theme. A spectrum of perspectives, built like software is done these days. This made me think of how Aztecs used to keep track of histories.<br>
 &mdash;Marysol Ortega, PhD
@@ -509,3 +468,42 @@ Hat off to <a href="https://en.wikipedia.org/wiki/Project_Xanadu">Project Xanadu
    </ul>
  </ul>
 
+
+<p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
+
+<div style="text-align:center; ">
+ <img
+  src="/assets/img/recs-to-rads-equation.svg"
+  width="70%"
+  alt="">
+</div>
+
+ <table align="center">
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
+   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
+   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
+   <td valign="top"><em>relationships</em></td>
+  </tr>
+  <tr>
+   <td style="height: 7px;"></td>
+  </tr>
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
+   <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
+   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
+   <td valign="top"><em>autonomy</em></td>
+  </tr>
+  <tr>
+   <td style="height: 7px;"></td>
+  </tr>
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
+   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
+   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
+   <td valign="top"><em>collaboration</em></td>
+  </tr>
+  <tr>
+   <td style="height: 7px;"></td>
+  </tr>
+ </table>
