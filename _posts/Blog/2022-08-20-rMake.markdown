@@ -53,6 +53,615 @@ image:    "about-daos.svg"
  <p style="margin-top:20px; "><span class="_paradigm">RAD</span>s support all of these behaviors,</p>
  <table>
 
+<pre class="prettyprint">A book would no longer be a book, but (parallel) variations on a theme. A spectrum of perspectives, built like software is done these days.
+This made me think of how Aztecs used to keep track of histories.<br>
+&mdash;Marysol Ortega, PhD</pre>
+
+<h1>Why rMake</h1>
+ <p>Writing a book is mostly a one-person writing exercise and that’s a problem. Using today’s tools, if the book has more than one author, they may have discussions, critiques, suggestions, etc., but, after all is said and done, the actual writing is done by one of them.</p>
+ <p>Another problem is assigning authorship and ownership. A handful of people get listed as co-authors and they also get co-ownership of the work. Others who have contributed significantly to the book may not end up as “advisors” or “my good friend” but not considered a co-author. Still others may get mentioned in the acknowledgements section or in footnotes. Unfortunately, none of this really comes close to creating a book as a team, similarly to the way we make software.</p>
+ <p>The intent of rMake is to make it possible for many people to contribute to a book and get authorship and ownership consistently. What would have been a laborious process for books written with a quill pen or a typewriter, it is a piece of cake using basic modern technology.</p>
+
+<h1>But You Already Can&hellip;</h1>
+ <p>My first thought was that any of the various <a href="https://git-scm.com/">Git</a> platforms, or <a href="https://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a>, or even Google Docs could be it.</p>
+ <h2>Git</h2>
+  <table>
+   <tr>
+    <td>PROs</td>
+    <td>
+     <ul>
+      <li>Git is a very popular software <a href="https://en.wikipedia.org/wiki/Source_Code_Control_System">source control system</a>. In particular, it allows software developers to work as peers, in parallel.
+      <li>The published code lives in the project <strong>trunk</strong>. Any developer can read that code at any time.
+      <li>Several developers can work on features or new versions of the code in parallel, in separate branches. Each is persistent and fully rendered.</li>
+      <li>Whenever I want to merge the code in my flow into the trunk, I create a pull request for the trunk’s admin. We’d have a discussion about my branch in the pull request and if everything lines up, the code in my branch is merged into the trunk.</li>
+      <li>If anybody wants to, they can fork the code and create their own version of the software.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>
+     <p style="text-align: right">CONs</p>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <ul>
+      <li>Git and its many derivatives are not what you’d call user friendly for non-developers.</li>
+      <li>The <strong>trunk</strong> is the boss and it is the only one that counts (<em>i.e.</em>, gets compiled into production). Branches are ephemeral, second class objects.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+   </tr>
+  </table>
+<h2>MediaWiki</h2>
+ <table>
+  <tr>
+   <td>
+    <p style="text-align: right">PROs</p>
+   </td>
+   <td>
+    <ul>
+     <li>This is the wiki engine used by Wikipedia and it is friendly enough for writers. At least those who are used to Wiki Markup.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></li>
+     <li>It keeps a history of the document where you can see all the edits ever made to a page as well as the discussions between the page editor and other contributors.</li>
+     <li>Various writers can work asynchronously (not quite in parallel).</li>
+     <li>It is Open Source.</li>
+     <li>It has pretty good <a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker">documentation for developers</a>.</li>
+    </ul>
+   </td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+   </tr>
+  <tr>
+   <td>
+    <p style="text-align: right">CONs</p>
+   </td>
+    <ul>
+     <li>It only renders the latest version of the document. All changes are kept in the History tab, but the only version rendered in the latest one, with all the accepted changes.</li>
+     <li>There’s no way to see previous versions, except by reading the History and applying heavy use of your imagination.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td></td>
+   <td></td>
+  </tr>
+ </table>
+<h2>Google Docs</h2>
+ <table>
+  <tr>
+   <td>
+<p style="text-align: right">
+PROs</p>
+
+
+
+   </td>
+   <td>
+<ul>
+
+<li>It has a good WYSIWYG interface. Very intuitive, plenty of undos, etc.</li>
+<li>It supports a very impressive version of collaboration, where different people can work on a document together in real time.</li>
+<li>Authors can see each other’s words appearing in the document as they work in parallel, as peers. They can also see each other’s gestures (via the cursor).</li>
+<li>It keeps a doc’s complete history. You can even name particular versions of a doc to easily recognize them.</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<p style="text-align: right">
+CONs</p>
+
+
+
+   </td>
+   <td>
+<ul>
+
+<li>The code is proprietary. It supports a version of JavaScript that you can use to make extensions, but you’re SOL if you want to make a major mod to it.</li>
+<li>Only one version is rendered at one time. If you want to work off the version from three days ago, you have to choose it for rendering. But this deprecates the current version. If three people modified the version you’re interested in, you can render only one; the others are History.</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+<h1>rMake</h1>
+
+
+<p>
+In the end, we opted to create a new app we call MAKE<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> and make it as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries (<em>e.g.</em>, diff) that we can use in the making of rMake.
+</p>
+<p>
+For the backend, after trying to make our own, we are planning to use <a href="https://github.com/uprtcl">_Prtcl</a>, an OSS project, based on blockchain, that’s very much aligned with our goals.
+</p>
+<h2>No Trunk</h2>
+
+
+<p>
+In rMake <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.
+</p>
+ <p>These flows are fully rendered and at any point in time, a reader would be able to see any. Perhaps one flow is recommended by readers more than the others, but all flows will still be around for readers to explore.</p>
+<h2>Authorship & Ownership</h2>
+
+
+<p>
+A fragment could be a phrase, sentence, paragraph, and even a word. Every fragment carries authorship <em>and</em> ownership.
+</p>
+<ul>
+
+<li>Authorship and ownership can be unknown, marked as TBD. Authorship is usually known, but ownership can be more problematic to discover.</li>
+<li>If ownership is marked as TBD, then anybody, say, PubCo, can <em>claim</em> ownership of a fragment and, assuming that they can prove it, PubCo would then be <em>assigned</em> as owner of the fragment.
+
+<li>Authorship means that co-authors are responsible for its content.</li>
+<li>Ownership includes the power to decide on fragment merges.</li>
+<li>Ownership does not imply exclusivity and anybody can copy any fragment in a flow at will. As noted, the fragment ownership goes along with it.<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup>
+
+<li>Others can create their own flows with fragments authored by somebody else, say, me. The resulting content would indicate me as a co-author and the person doing the modification as another co-author.</li>
+<li>Using the 
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "RAD Distribution"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+<a href="#heading=h.i3nsnn5r7amn">RAD Distribution</a> model, revenue from, for example, consumer purchases or licenses, could be distributed to co-owners as a function of their ownership of the complete work.
+
+<li>RADs account for level of contribution. The original author of the fragment could assign RADs to other co-authors or the whole thing could be automated based on, say, the number of words added.
+<h2>No Permission Needed</h2>
+
+
+<p>
+Any co-author can copy a flow without explicit permission; in fact, anybody can do that. On the other hand, an author can easily find out every copy of her content ever made (<em>i.e.</em>, even if it is a copy of a copy).
+</p>
+ <p>A co-author could make any and all of her flows unreadable to others. Otherwise, if you can read it, you can copy it.</p>
+<h2>Pull Requests and Merges</h2>
+
+
+ <p>A co-author will need the agreement of a flow owner if she wants to have her work merged with his. How that happens depends on a discussion among the people involved.</p>
+<h2>Use Cases</h2>
+
+
+
+<table>
+  <tr>
+   <td>
+<p style="text-align: right">1+1 = 2</p>
+
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>When the content overlaps, one of us may create a pull request for one or more fragments.</li>
+<li>We discuss the differences, agree on how to align them, and our work gets merged.</li>
+<li>We end up as co-owners of any fragments that were modified by both of us.</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<p style="text-align: right">
+2+1 = 3</p>
+
+
+
+   </td>
+   <td>
+<ul>
+
+<li>Another writer joins us and starts to work off the backlog in a separate flow.</li>
+<li>She issues a pull request to merge her fragments into our flow.</li>
+<li>After some discussion, the fragments are merged into one.</li>
+<li>From that point on the flow is owned by all three of us.</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<p style="text-align: right">
+2+1 ≠ 1+2</p>
+
+
+
+   </td>
+   <td>
+<ul>
+
+<li>After working on my own flow for a while, I created a pull request for a flow owned by two co-authors.</li>
+<li>He wants to reject it but she wants to accept it.</li>
+<li>She stops contributing to the original flow, forks the content as a new flow, and starts contributing to it.</li>
+<li>The new flow includes the original content co-owned by the extant co-authors, my content, and new content that she and I create.</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<p style="text-align: right">
+1+1 = 1</p>
+
+
+
+   </td>
+   <td>
+<ul>
+
+<li>For whatever reason, I slow down or stop working on the project.</li>
+<li>My co-authors keep going strong and create a lot of content for it.</li>
+<li>Other co-authors join.</li>
+<li>That is fine. I continue to own the content I authored or co-own the content that I co-authored.</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+<h1>Flows</h1>
+
+
+ <p>Flows tie together a number of flows to make for a coherent reading. Flows are first-class objects and persistent and publishable. For example, assume a book project starts with the collaboration with one author and ends with many contributions.,</p>
+<p>
+
+        
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
+          …          
+
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
+
+</p>
+ <p>Imagine these flows in between,</p>
+<p>
+
+
+<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
+
+</p>
+ <p>For example, maybe @author3 stopped contributing after modifying chapter 3. Other co-authors, however, continue to move the content forward and their changes make @author3’s contribution obsolete. Or various co-authors make a few updates to my 4.0 fragment and then I make one last modification.</p>
+<p>
+There will be the case where one or more co-authors go off in a different direction from the perspective of the other co-authors. In that case, the divergent co-author(s) would start a new flow with the content of the source flow and then add new content to it (<em>i.e.</em>, This is conceptually similar to a fork of an OSS software project). They can create a Linked flow, where the untouched fragments are merely links to the original (<em>i.e.</em>, Linked flows will reflect any and all changes in these fragments),
+</p>
+<p>
+
+
+<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
+
+</p>
+ <p>They could, alternatively, create a Copied flow, where every fragment is a static copy of the original fragment. Changes in the original fragments would not be reflected in the new flow.</p>
+ <p>Either way, authorship stays with each fragment, whether Linked or Copied. Content is owned by those who author it.</p>
+<p>
+These flows are first-class objects. They are addressable, persistent, and each can be publishable separately. For example, I could post a URL to one flow (<em>e.g.</em>, 1, 2, 3, 4) and you could publish another flow (<em>e.g.</em>, 1, 2, modified 3, 4). Readers can choose to read one flow or another. Or they can jump from one to another, regardless of the flow they started from.
+</p>
+ <p>Of note, this could cause weird situations. For example, I create a flow about responsible gun ownership. Somebody else may fork it and use the statistics chapter to support reckless gun ownership. In this case, I could end up getting paid from sales of the “irresponsible” book. At first, I found the thought more than a little distressing, but as Doug Kirkpatrick points out,</p>
+<h4>“That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</h4>
+
+
+<h4>“If a statistics book chapter is OPEN, therefore, it is subject to being applied by individuals to arguments with which we may disagree.</h4>
+
+
+<h4>“I also think that books aren’t just about the writers, they’re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren’t always the lovely, objective things we assume them to be (see <a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=FKW6Y0VTHKGY7C3EM3YD">How to Lie with Statistics</a>).”</h4>
+
+
+<h1>Publishing</h1>
+
+
+<p>
+The mythical “book deal” includes an advance that a publisher pays an author when the book is just an outline. For well-known authors and brand names (<em>e.g.</em>, ex-President Obama), that is still the case. The rest of us get, at best, a percent of sales minus all expenses, including returns,
+</p>
+ <p>In the rMake model, a Publisher could,</p>
+<ul>
+
+<li>Negotiates a deal around a particular flow.</li>
+<li>Make a deal around all existing flows.</li>
+<li>They could even pay for preventing new flows for a period of time.</li>
+</ul>
+ <p>This is ripe for experimentation.</p>
+<p>
+See <a href="https://docs.google.com/document/d/1mUlZB37Bb_cOMSqmZDqvlVGTnpoBcKNrfOdf8QcbCKM/edit#">PRADERA MEDIA</a> for more info.
+</p>
+<h1>Use Modalities</h1>
+
+
+<h1>Contributions</h1>
+
+
+ <p>Contributions come in three flavors: suggestions, rewrites, and additions.</p>
+
+<table>
+  <tr>
+   <td>
+<p style="text-align: right">
+Suggestions</p>
+
+
+
+   </td>
+   <td>Typos, word replacements, very short rewrites.
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<p style="text-align: right">
+Rewrites</p>
+
+
+
+   </td>
+   <td>A significant amount of content is rewritten or re-laid-out dramatically differently.
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<p style="text-align: right">
+Additions</p>
+
+
+
+   </td>
+   <td>New content is added.
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+<p>
+The different types of contributions must stand out and be visually distincts. Manipulating them must be intuitive (<em>e.g.</em>, as implemented in Google Docs, suggestions can render a document unreadable with many strokes and modification, and comments can overlap suggestions and make them unreachable). It must be straightforward to convert a suggestion to a comment and vice versa.
+</p>
+ <p>Suggestions, rewrites, and additions carry authorship. When accepting any one of these, its authorship comes along with it.</p>
+<h1>Roles</h1>
+
+
+<h2>Reader</h2>
+
+
+ <p>Needs to,</p>
+<ul>
+
+<li>See the content.</li>
+<li>Optionally see a table of contents (collapsible).</li>
+<li>Leave a comment associated with highlighted text.</li>
+<li>Optionally see comments that others have left (collapsible).</li>
+<li>Leave edit suggestions.</li>
+<li>Share content,
+<p>
+
+    
+
+<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
+
+</p>
+ <p>
+    Where the URL points to the highlighted text.</p>
+<ul>
+
+<li>See and follow alternative content. For example, a button labeled “Alt Content” would jump to the alternative if there’s only one or show a pull down list if there's more than one. Or the button could open a side panel to show a short description of each version.</li>
+</ul></li>
+</ul>
+<h2>Writer</h2>
+
+
+ <p>Needs to,</p>
+<ul>
+
+<li>Start in editing mode. It renders the same as reading mode, but it allows editing.</li>
+<li>Leave comments and edits assigned to a user (may be herself).</li>
+</ul>
+<h2>Co-Writers</h2>
+
+
+ <p>Same as a single writer, but in addition they need to,</p>
+<ul>
+
+<li>Fork the whole book as a separate flow.</li>
+<li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or <a href="https://www.google.com/search?q=excursus&oq=excursus">excursus</a>.
+
+<li>Create a <a href="https://en.wikipedia.org/wiki/Fork_and_pull_model">Pull Request</a> to 
+<ol>
+ 
+<li>Hold the discussion about a merge.
+ </li>
+<li>Record the final decision (merge, not merge).</li> 
+</ol>
+
+<li>Different versions of the content could invoke separate Pull Requests, 
+<ol>
+ 
+<li>Yesterday’s Pull was rejected because the authors agreed that more work was needed.
+ </li>
+<li>Today's Pull request is accepted for merge after a short discussion that deems the new work as acceptable.</li> 
+</ol></li> 
+</ul>
+<h2>Editor</h2>
+
+
+<ul>
+
+<li>Same as any co-writer.</li>
+<li>All changes go into a separate flow.</li>
+<li>Authors are free to accept some or all of the suggestions.</li>
+</ul>
+<h1>Other Potential Features</h1>
+
+
+<h1>Comments and Suggestions</h1>
+
+
+ <p>(Inspired by Google Docs.)</p>
+ <p>Comments and suggested edits enrich a document, particularly when it generates a dialog among co-authors. The end result of a discussion may be that co-authors go off to create their own flows. And that’s good.</p>
+ <p>When that happens, the new flows will carry a copy of all comments and edits with it. If one author decides to remove some or all comments or reject the edits, then they still exist in the original flows.</p>
+<h1>Twitter/LinkedIn/etc</h1>
+
+
+ <p>A la Medium: text can be pre-selected as “ready to post.” Clicking on that text brings up a Twitter or LinkedIn post window with the text itself and a URL to the quoted text.</p>
+<p>
+Also, text can be selected and sent to these and other Social platforms, including a URL that points back to the text (<em>i.e.</em>, a la Diigo).
+</p>
+<p>
+
+
+<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="https://docs.google.com/drawings/d/12345/export/png" width="80%" alt="drawing">
+
+</p>
+<h1>References</h1>
+
+
+ <p>A rMake reference can include text, URLs, or both, a la Kindle.</p>
+<p>
+URLs can point to internal targets (<em>e.g.</em>, titles, headers).
+</p>
+<h1>Paper</h1>
+
+
+ <p>The rMake platform can prepare a flow for traditional paper publication. In particular, the platform will make it easy to convert references and URLs to footnotes or endnotes.</p>
+<h1>Advanced Readers</h1>
+
+
+ <p>Support for Advance Readers, by creating a copy of the text whenever the Advanced Reader makes a comment or a change.</p>
+<h1>Search</h1>
+
+
+ <p>In addition to searching text, support searching Comments, Suggestions, Images, Footnotes and Endnotes.</p>
+<h1>Citations</h1>
+
+
+<ul>
+
+<li>Support footnotes and endnotes.</li>
+<li>Support endnotes at the end of a section (e.g., chapter), and endnotes at the end of the book. Any and all of them may appear in a book.</li>
+</ul>
+<h1>Image Source, Title</h1>
+
+
+<ul>
+
+<li>Support adding sources to an image, optionally with embedded URLs to its source.</li>
+<li>Support adding titles to an image.</li>
+<li>Support positioning these sources and titles as per the authors specs (<em>e.g.</em>, top, bottom).</li>
+</ul>
+<h1>Bookmarks</h1>
+
+
+<ul>
+
+<li>It should be possible to add labels to a bookmark (e.g., “Start here”).</li>
+<li>Highlighted text yields a bookmark that includes the start and end of the highlighted text. Title, subtitles, and headers always yield a bookmark.</li>
+<li>Clicking on an embedded link would show you where it points to, a la Google Docs or where it is referenced from.</li>
+</ul>
+<h1>Templating</h1>
+
+
+<ul>
+
+<li>Authors can create a TEMPLATE.</li>
+<li>A URL to a section in the TEMPLATE actually redirects to a child of the TEMPLATE or, in its absence, to the TEMPLATE itself.</li>
+<li>Changes in the TEMPLATE affect all its children unless a child has explicitly blocked that action.</li>
+</ul>
+
+<h1>Views</h1>
+ <ul>
+  <li>A View defines how a user, whether reader or writer, sees the content. Some people like to start paragraphs with an indent, but others don’t. Some like more or less whitespace after sentences (<em>e.g.</em>, double space, single space). Some like paragraphs adjusted, some like them ragged.</li>
+  <li>Views are first class objects and can be combined with any other first class object. For example, a View can be selected by a reader which incorporates her preferences.</li>
+  <li>Conceptually, there could be a View for the whole Flow, but another View for a particular module.</li>
+<li>Parameters would include indentation, margins (all or individually as right, left, top, bottom), font family, font size, space after end-of-sentence punctuation (<em>e.g.</em>, n-width, m-width, other size), etc. (I imagine this as a CSS parameter file).
+
+<!-- Footnotes themselves at the bottom. -->
+
+<h2>Notes</h2>
+<div class="footnotes">
+<hr>
+<ol><li id="fn1">
+
+<h6>    	For more information, see Markup <<a href="https://radicals.world/59k36j">https://radicals.world/59k36j</a>> (aka, Markdown <<a href="https://radicals.world/Dbg4hm">https://radicals.world/Dbg4hm</a>>). </h6>
+
+&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a><li id="fn2">
+<h6>     An homage to Unix make.</h6>
+
+&nbsp;<a href="#fnref2" rev="footnote">&#8617;</a><li id="fn3">
+
+<h6>    	Hat off to <a href="https://en.wikipedia.org/wiki/Project_Xanadu">Project Xanadu</a>.</h6>
+
+&nbsp;<a href="#fnref3" rev="footnote">&#8617;</a>
+
+</ol></div>
+
 <h1 class="_section">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="en01">
