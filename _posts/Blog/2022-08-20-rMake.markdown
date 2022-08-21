@@ -90,7 +90,7 @@ image:    "rMake-icon.svg"
    </td>
   </tr>
   <tr>
-    <td rowspan="2" style="font-sze:6px; "></td>
+   <td rowspan="2" style="font-sze:6px; "></td>
   </tr>
  </table>
 <h2>Google Docs</h2>
@@ -125,7 +125,7 @@ image:    "rMake-icon.svg"
   <tr>
     <td rowspan="2" style="font-sze:6px; "></td>
   </tr>
-</table>
+ </table>
 
 <h1>rMake</h1>
  <p>In the end, we opted to create a new app we call MAKE<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> and make it as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries (<em>e.g.</em>, diff) that we can use in the making of rMake.</p>
@@ -163,8 +163,7 @@ image:    "rMake-icon.svg"
      </td>
     </tr>
     <tr>
-     <td></td>
-     <td></td>
+    <td rowspan="2" style="font-sze:6px; "></td>
     </tr>
     <tr>
      <th>
@@ -180,8 +179,7 @@ image:    "rMake-icon.svg"
      </td>
     </tr>
     <tr>
-     <td></td>
-     <td></td>
+    <td rowspan="2" style="font-sze:6px; "></td>
     </tr>
     <tr>
      <th>
@@ -197,8 +195,7 @@ image:    "rMake-icon.svg"
      </td>
     </tr>
     <tr>
-     <td></td>
-     <td></td>
+    <td rowspan="2" style="font-sze:6px; "></td>
     </tr>
     <tr>
      <th>
@@ -214,8 +211,7 @@ image:    "rMake-icon.svg"
      </td>
     </tr>
     <tr>
-     <td></td>
-     <td></td>
+    <td rowspan="2" style="font-sze:6px; "></td>
     </tr>
    </table>
 
@@ -255,8 +251,7 @@ image:    "rMake-icon.svg"
    <td>Typos, word replacements, very short rewrites.</td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+    <td rowspan="2" style="font-sze:6px; "></td>
   </tr>
   <tr>
    <th>
@@ -265,8 +260,7 @@ image:    "rMake-icon.svg"
    <td>A significant amount of content is rewritten or re-laid-out dramatically differently.</td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+    <td rowspan="2" style="font-sze:6px; "></td>
   </tr>
   <tr>
    <th>
@@ -275,8 +269,7 @@ image:    "rMake-icon.svg"
    <td>New content is added.</td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+   <td rowspan="2" style="font-sze:6px; "></td>
   </tr>
  </table>
  <p>The different types of contributions must stand out and be visually distincts. Manipulating them must be intuitive (<em>e.g.</em>, as implemented in Google Docs, suggestions can render a document unreadable with many strokes and modification, and comments can overlap suggestions and make them unreachable). It must be straightforward to convert a suggestion to a comment and vice versa.</p>
@@ -296,37 +289,38 @@ image:    "rMake-icon.svg"
     <ul>
      <li>See and follow alternative content. For example, a button labeled &ldquo;Alt Content&rdquo; would jump to the alternative if there’s only one or show a pull down list if there's more than one. Or the button could open a side panel to show a short description of each version.</li>
     </ul>
-   </ul>
-<h2>Writer</h2>
- <p>Needs to,</p>
- <ul>
-  <li>Start in editing mode. It renders the same as reading mode, but it allows editing.</li>
-  <li>Leave comments and edits assigned to a user (may be herself).</li>
- </ul>
-<h2>Co-Writers</h2>
- <p>Same as a single writer, but in addition they need to,</p>
- <ul>
-  <li>Fork the whole book as a separate flow.</li>
-  <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or <a href="https://www.google.com/search?q=excursus&oq=excursus">excursus</a>.
-  <li>Create a <a href="https://en.wikipedia.org/wiki/Fork_and_pull_model">Pull Request</a> to 
-   <ol>
-    <li>Hold the discussion about a merge.</li>
-    <li>Record the final decision (merge, not merge).</li> 
-   </ol>
-  </li>
-  <li>Different versions of the content could invoke separate Pull Requests,
-   <ol>
-    <li>Yesterday’s Pull was rejected because the authors agreed that more work was needed.</li>
-    <li>Today's Pull request is accepted for merge after a short discussion that deems the new work as acceptable.</li> 
-   </ol>
-  </li> 
- </ul>
-<h2>Editor</h2>
- <ul>
-  <li>Same as any co-writer.</li>
-  <li>All changes go into a separate flow.</li>
-  <li>Authors are free to accept some or all of the suggestions.</li>
- </ul>
+   </li>
+  </ul>
+ <h2>Writer</h2>
+  <p>Needs to,</p>
+  <ul>
+   <li>Start in editing mode. It renders the same as reading mode, but it allows editing.</li>
+   <li>Leave comments and edits assigned to a user (may be herself).</li>
+  </ul>
+ <h2>Co-Writers</h2>
+  <p>Same as a single writer, but in addition they need to,</p>
+  <ul>
+   <li>Fork the whole book as a separate flow.</li>
+   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or <a href="https://www.google.com/search?q=excursus&oq=excursus">excursus</a>.
+   <li>Create a <a href="https://en.wikipedia.org/wiki/Fork_and_pull_model">Pull Request</a> to 
+    <ol>
+     <li>Hold the discussion about a merge.</li>
+     <li>Record the final decision (merge, not merge).</li> 
+    </ol>
+   </li>
+   <li>Different versions of the content could invoke separate Pull Requests,
+    <ol>
+     <li>Yesterday’s Pull was rejected because the authors agreed that more work was needed.</li>
+     <li>Today's Pull request is accepted for merge after a short discussion that deems the new work as acceptable.</li> 
+    </ol>
+   </li> 
+  </ul>
+ <h2>Editor</h2>
+  <ul>
+   <li>Same as any co-writer.</li>
+   <li>All changes go into a separate flow.</li>
+   <li>Authors are free to accept some or all of the suggestions.</li>
+  </ul>
 
 <h1>Other Potential Features</h1>
 
