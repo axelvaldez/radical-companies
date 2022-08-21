@@ -36,6 +36,8 @@ image:    "rMake-icon.svg"
      </ul>
     </td>
    </tr>
+  </table>
+  <table>
    <tr>
     <td></td>
     <td></td>
