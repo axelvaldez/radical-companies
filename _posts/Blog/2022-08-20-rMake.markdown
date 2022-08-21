@@ -25,7 +25,9 @@ image:    "rMake-icon.svg"
  <h2>Git</h2>
   <table>
    <tr>
-    <td>PROs</td>
+    <th>
+     <p style="text-align: right">PROs</td>
+    </th>
     <td>
      <ul>
       <li>Git is a very popular software <a href="https://en.wikipedia.org/wiki/Source_Code_Control_System">source control system</a>. In particular, it allows software developers to work as peers, in parallel.</li>
@@ -39,13 +41,12 @@ image:    "rMake-icon.svg"
   </table>
   <table>
    <tr>
-    <td></td>
-    <td></td>
+    <td rowspan="2" style="font-sze:6px; "></td>
    </tr>
    <tr>
-    <td>
+    <th>
      <p style="text-align: right">CONs</p>
-    </td>
+    </th>
    </tr>
    <tr>
     <td>
@@ -56,16 +57,15 @@ image:    "rMake-icon.svg"
     </td>
    </tr>
    <tr>
-    <td></td>
-    <td></td>
+    <td rowspan="2" style="font-sze:6px; "></td>
    </tr>
   </table>
 <h2>MediaWiki</h2>
  <table>
   <tr>
-   <td>
+   <th>
     <p style="text-align: right">PROs</p>
-   </td>
+   </th>
    <td>
     <ul>
      <li>This is the wiki engine used by Wikipedia and it is friendly enough for writers. At least those who are used to Wiki Markup.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></li>
@@ -77,13 +77,12 @@ image:    "rMake-icon.svg"
    </td>
   </tr>
    <tr>
-    <td></td>
-    <td></td>
+    <td rowspan="2" style="font-sze:6px; "></td>
    </tr>
   <tr>
-   <td>
+   <th>
     <p style="text-align: right">CONs</p>
-   </td>
+   </th>
     <ul>
      <li>It only renders the latest version of the document. All changes are kept in the History tab, but the only version rendered in the latest one, with all the accepted changes.</li>
      <li>There’s no way to see previous versions, except by reading the History and applying heavy use of your imagination.</li>
@@ -91,16 +90,15 @@ image:    "rMake-icon.svg"
    </td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+    <td rowspan="2" style="font-sze:6px; "></td>
   </tr>
  </table>
 <h2>Google Docs</h2>
  <table>
   <tr>
-   <td>
+   <th>
     <p style="text-align: right">PROs</p>
-   </td>
+   </th>
    <td>
     <ul>
      <li>It has a good WYSIWYG interface. Very intuitive, plenty of undos, etc.</li>
@@ -111,13 +109,12 @@ image:    "rMake-icon.svg"
    </td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+    <td rowspan="2" style="font-sze:6px; "></td>
   </tr>
   <tr>
-   <td>
+   <th>
     <p style="text-align: right">CONs</p>
-   </td>
+   </th>
    <td>
     <ul>
      <li>The code is proprietary. It supports a version of JavaScript that you can use to make extensions, but you’re SOL if you want to make a major mod to it.</li>
@@ -126,8 +123,7 @@ image:    "rMake-icon.svg"
    </td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+    <td rowspan="2" style="font-sze:6px; "></td>
   </tr>
 </table>
 
@@ -171,9 +167,9 @@ image:    "rMake-icon.svg"
      <td></td>
     </tr>
     <tr>
-     <td>
+     <th>
       <p style="text-align: right">2+1 = 3</p>
-     </td>
+     </th>
      <td>
       <ul>
        <li>Another writer joins us and starts to work off the backlog in a separate flow.</li>
@@ -188,9 +184,9 @@ image:    "rMake-icon.svg"
      <td></td>
     </tr>
     <tr>
-     <td>
+     <th>
       <p style="text-align: right">2+1 ≠ 1+2</p>
-     </td>
+     </th>
      <td>
       <ul>
        <li>After working on my own flow for a while, I created a pull request for a flow owned by two co-authors.</li>
@@ -205,9 +201,9 @@ image:    "rMake-icon.svg"
      <td></td>
     </tr>
     <tr>
-     <td>
+     <th>
       <p style="text-align: right">1+1 = 1</p>
-     </td>
+     </th>
      <td>
       <ul>
        <li>For whatever reason, I slow down or stop working on the project.</li>
@@ -253,9 +249,9 @@ image:    "rMake-icon.svg"
  <p>Contributions come in three flavors: suggestions, rewrites, and additions.</p>
  <table>
   <tr>
-   <td>
+   <th>
     <p style="text-align: right">Suggestions</p>
-   </td>
+   </th>
    <td>Typos, word replacements, very short rewrites.</td>
   </tr>
   <tr>
@@ -263,9 +259,9 @@ image:    "rMake-icon.svg"
    <td></td>
   </tr>
   <tr>
-   <td>
+   <th>
     <p style="text-align: right">Rewrites</p>
-   </td>
+   </th>
    <td>A significant amount of content is rewritten or re-laid-out dramatically differently.</td>
   </tr>
   <tr>
@@ -273,9 +269,9 @@ image:    "rMake-icon.svg"
    <td></td>
   </tr>
   <tr>
-   <td>
+   <th>
     <p style="text-align: right">Additions</p>
-   </td>
+   </th>
    <td>New content is added.</td>
   </tr>
   <tr>
