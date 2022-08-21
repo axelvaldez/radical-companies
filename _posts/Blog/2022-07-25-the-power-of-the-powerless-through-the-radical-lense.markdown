@@ -160,7 +160,7 @@ image:    "the-power-of-the-powerless-icon.svg"
   <li id="en02">
    <p class="_list-item">
     According to Havel, the <em>Left</em> or <em>Right</em> labels don&rsquo;t matter all dictatorships are the same. The same observation was made by Etienne de la Boetie in 1577 in <em>The Politics of Obedience. The Discourse of Volutary Servitude<em>.</p>
-    <p>I quite agree. For example, Cuba&rsquo;s Castro (Left?) and Argentina&rsquo;s Per&oacute;n had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo; See the <span class="_book_title">Dictator&rsquo;s Handbook</span> by Bruce Bueno de Mesquita.
+    <p>I quite agree. For example, Cuba&rsquo;s Castro (Left?) and Argentina&rsquo;s Per&oacute;n had a close relationship and supported each other, even though the former claimed to be &ldquo;Left&rdquo; and the latter &ldquo;Right.&rdquo; See the <span class="_book_title">Dictator&rsquo;s Handbook</span> by Bruce Bueno de Mesquita.</p>
     <<a href="https://radicals.world/xO7ufx" target="_blank">https://radicals.world/xO7ufx</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
