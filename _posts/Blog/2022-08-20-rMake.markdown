@@ -7,7 +7,7 @@ image:    "about-daos.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>Writing a book is mostly a one-person writing exercise and that’s a problem. Using today’s tools, if the book has more than one author, they may have discussions, critiques, suggestions, etc., but, after all is said and done, the actual writing is done by one of them.</p>
 </div>
 
 <h1>&nbsp;</h1>
