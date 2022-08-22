@@ -282,14 +282,13 @@ td._spacer {
 
   font-style:italic;
   font-size:smaller;
-  font-size:18px;
   font-family:American Typewriter, serif;
   
   background-color:beige;
   white-space:normal;
 
   border:1px solid CadetBlue;
-  padding:1em 1em 0 2em;
+  padding:1em 1em 0 1em;
   margin-bottom:1em; 
 }
 ._quotation::before {
