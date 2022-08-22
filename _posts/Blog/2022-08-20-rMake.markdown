@@ -214,7 +214,7 @@ image:    "rMake-icon.svg"
   <div class="_quotation" style="font-size:18px; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; margin-bottom:1em; ">
    <p>That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</p>
    <p>If a statistics book chapter is OPEN, therefore, it is subject to being applied by individuals to arguments with which we may disagree.</p>
-   <p>I also think that books aren’t just about the writers, they’re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren’t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics<em><a href="#en09"><sup id="bm09">9&nbsp;</sup></a>).</p>
+   <p>I also think that books aren’t just about the writers, they’re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren’t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics</em><a href="#en09"><sup id="bm09">9&nbsp;</sup></a>).</p>
   </div>
 
 <h1>Publishing</h1>
