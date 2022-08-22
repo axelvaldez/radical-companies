@@ -201,10 +201,13 @@ image:    "rMake-icon.svg"
 
 <h1>Flows</h1>
  <p>Flows tie together a number of flows to make for a coherent reading. Flows are first-class objects and persistent and publishable. For example, assume a book project starts with the collaboration with one author and ends with many contributions.,</p>
+  <img>
  <p>Imagine these flows in between,</p>
+  <img>
  <p>For example, maybe @author3 stopped contributing after modifying chapter 3. Other co-authors, however, continue to move the content forward and their changes make @author3’s contribution obsolete. Or various co-authors make a few updates to my 4.0 fragment and then I make one last modification.</p>
  <p>There will be the case where one or more co-authors go off in a different direction from the perspective of the other co-authors. In that case, the divergent co-author(s) would start a new flow with the content of the source flow and then add new content to it (<em>i.e.</em>, This is conceptually similar to a fork of an OSS software project). They can create a Linked flow, where the untouched fragments are merely links to the original (<em>i.e.</em>, Linked flows will reflect any and all changes in these fragments),</p>
  <p>They could, alternatively, create a Copied flow, where every fragment is a static copy of the original fragment. Changes in the original fragments would not be reflected in the new flow.</p>
+  <img>
  <p>Either way, authorship stays with each fragment, whether Linked or Copied. Content is owned by those who author it.</p>
  <p>These flows are first-class objects. They are addressable, persistent, and each can be publishable separately. For example, I could post a URL to one flow (<em>e.g.</em>, 1, 2, 3, 4) and you could publish another flow (<em>e.g.</em>, 1, 2, modified 3, 4). Readers can choose to read one flow or another. Or they can jump from one to another, regardless of the flow they started from.</p>
  <p>Of note, this could cause weird situations. For example, I create a flow about responsible gun ownership. Somebody else may fork it and use the statistics chapter to support reckless gun ownership. In this case, I could end up getting paid from sales of the &ldquo;irresponsible&rdquo; book. At first, I found the thought more than a little distressing, but as Doug Kirkpatrick points out,</p>
@@ -225,7 +228,7 @@ image:    "rMake-icon.svg"
  <p>This is ripe for experimentation.</p>
  <p>See <a href="https://docs.google.com/document/d/1mUlZB37Bb_cOMSqmZDqvlVGTnpoBcKNrfOdf8QcbCKM/edit#">PRADERA MEDIA</a><a href="#en10"><sup id="bm10">10&nbsp;</sup></a> for more info.</p>
 
-<h1>Use Modalities</h1>
+<h1 class="_section">Use Modalities</h1>
 
 <h1>Contributions</h1>
  <p>Contributions come in three flavors: suggestions, rewrites, and additions.</p>
@@ -280,14 +283,16 @@ image:    "rMake-icon.svg"
   <p style="margin-bottom:0; ">Same as a single writer, but in addition they need to,</p>
   <ul>
    <li>Fork the whole book as a separate flow.</li>
-   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or <a href="https://www.google.com/search?q=excursus&oq=excursus">excursus</a>.<a href="#en11"><sup id="bm11">11&nbsp;</sup></a>
-   <li>Create a <a href="https://en.wikipedia.org/wiki/Fork_and_pull_model">Pull Request</a><a href="#en12"><sup id="bm12">12&nbsp;</sup></a> to 
+   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or <a href="https://www.google.com/search?q=excursus&oq=excursus">excursus</a>.<a href="#en11"><sup id="bm11">11&nbsp;</sup></a></li>
+   <li>
+    <p style="margin-bottom:0; ">Create a <a href="https://en.wikipedia.org/wiki/Fork_and_pull_model">Pull Request</a><a href="#en12"><sup id="bm12">12&nbsp;</sup></a> to,</p>
     <ol>
      <li>Hold the discussion about a merge.</li>
      <li>Record the final decision (to merge to not merge).</li> 
     </ol>
    </li>
-   <li>Different versions of the content could invoke separate Pull Requests,
+   <li>
+    <p style="margin-bottom:0; ">Different versions of the content could invoke separate Pull Requests,</p>
     <ol>
      <li>Yesterday’s Pull was rejected because the authors agreed that more work was needed.</li>
      <li>Today's Pull request is accepted for merge after a short discussion that deems the new work as acceptable.</li> 
@@ -301,7 +306,7 @@ image:    "rMake-icon.svg"
    <li>Authors are free to accept some or all of the suggestions.</li>
   </ul>
 
-<h1>Other Potential Features</h1>
+<h1 class="_section">Other Potential Features</h1>
 
 <h1>Comments and Suggestions</h1>
  <p>(Inspired by Google Docs.)</p>
@@ -311,6 +316,7 @@ image:    "rMake-icon.svg"
 <h1>Twitter/LinkedIn/etc</h1>
  <p>A la Medium: text can be pre-selected as &ldquo;ready to post.&rdquo; Clicking on that text brings up a Twitter or LinkedIn post window with the text itself and a URL to the quoted text.</p>
  <p>Also, text can be selected and sent to these and other Social platforms, including a URL that points back to the text (<em>i.e.</em>, a la Diigo).</p>
+ <img>
 
 <h1>References</h1>
  <p>A rMake reference can include text, URLs, or both, a la Kindle.</p>
