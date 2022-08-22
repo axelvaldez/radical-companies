@@ -289,7 +289,7 @@ td._spacer {
   background-color:beige;
   font-family:American Typewriter, serif;
   white-space:normal;
-  padding:1em 1em 0 1em;
+  padding:1em 1em 0 2em;
   margin-bottom:1em; 
 }
 ._quotation::before, ._quotation::after {
