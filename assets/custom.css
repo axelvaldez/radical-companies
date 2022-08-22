@@ -294,6 +294,6 @@ td._spacer {
 }
 ._quotation::after {
   font-size:40pt;
-  text-align:right;
   content:close-quote;
+  text-align:right;
 }
