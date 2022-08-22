@@ -169,7 +169,7 @@ image:    "rMake-icon.svg"
     <td colspan="2" class="_spacer"></td>
     </tr>
     <tr>
-     <th>2+1 ≠ 1+2</th>
+     <th>2+1 &ne; 1+2</th>
      <td>
       <ul>
        <li>After working on my own flow for a while, I created a pull request for a flow owned by two co-authors.</li>
