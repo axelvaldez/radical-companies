@@ -213,6 +213,7 @@ image:    "rMake-icon.svg"
  <p>For example, maybe @author3 stopped contributing after modifying chapter 3. Other co-authors, however, continue to move the content forward and their changes make @author3’s contribution obsolete. Or various co-authors make a few updates to my 4.0 fragment and then I make one last modification.</p>
  <p>There will be the case where one or more co-authors go off in a different direction from the perspective of the other co-authors. In that case, the divergent co-author(s) would start a new flow with the content of the source flow and then add new content to it (<em>i.e.</em>, This is conceptually similar to a fork of an OSS software project). They can create a Linked flow, where the untouched fragments are merely links to the original (<em>i.e.</em>, Linked flows will reflect any and all changes in these fragments),</p>
  <p>They could, alternatively, create a Copied flow, where every fragment is a static copy of the original fragment. Changes in the original fragments would not be reflected in the new flow.</p>
+ <div style="text-align:center; ">
   <img
    src="/assets/img/rmrmake-flow-all.svg"
    width="70%"
@@ -240,7 +241,7 @@ image:    "rMake-icon.svg"
 
 <h1 class="_section">Use Modalities</h1>
 
-<h1>Contributions</h1>
+<h1 class="_section">Contributions</h1>
  <p>Contributions come in three flavors: suggestions, rewrites, and additions.</p>
  <table>
   <tr>
@@ -278,8 +279,12 @@ image:    "rMake-icon.svg"
    <li>Optionally see comments that others have left (collapsible).</li>
    <li>Leave edit suggestions.</li>
    <li>Share content,
-  <img
-   src="rmedia-citation-copy-paste.svg">
+    <div style="text-align:center; ">
+     <img
+      src="/assets/img/rmedia-citation-copy-paste.svg"
+      width="70%"
+      alt="">
+    </div>
     <p>Where the URL points to the highlighted text.</p>
    </li>
    <li>See and follow alternative content. For example, a button labeled &ldquo;Alt Content&rdquo; would jump to the alternative if there’s only one or show a pull down list if there's more than one. Or the button could open a side panel to show a short description of each version.</li>
