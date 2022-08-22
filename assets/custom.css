@@ -294,6 +294,7 @@ td._spacer {
 }
 ._quotation::before, ._quotation::after {
   font-size:xx-large;
+  font-size:40pt;
 }
 ._quotation::before {
   content:open-quote;
