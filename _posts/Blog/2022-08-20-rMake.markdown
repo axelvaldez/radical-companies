@@ -30,7 +30,7 @@ image:    "rMake-icon.svg"
     </th>
     <td>
      <ul>
-      <li>Git is a very popular software <a href="https://en.wikipedia.org/wiki/Source_Code_Control_System">source control system</a>. In particular, it allows software developers to work as peers, in parallel.</li>
+      <li>Git is a very popular software <a href="https://en.wikipedia.org/wiki/Source_Code_Control_System" target="_blank">source control system</a>. In particular, it allows software developers to work as peers, in parallel.</li>
       <li>The published code lives in the project <strong>trunk</strong>. Any developer can read that code at any time.</li>
       <li>Several developers can work on features or new versions of the code in parallel, in separate branches. Each is persistent and fully rendered.</li>
       <li>Whenever I want to merge the code in my flow into the trunk, I create a pull request for the trunk’s admin. We’d have a discussion about my branch in the pull request and if everything lines up, the code in my branch is merged into the trunk.</li>
