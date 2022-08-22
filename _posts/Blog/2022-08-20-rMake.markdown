@@ -71,18 +71,19 @@ image:    "rMake-icon.svg"
    <tr>
     <td colspan="2" class="_spacer"></td>
    </tr>
-  <tr>
-   <th>CONs</th>
-    <ul>
-     <li>It only renders the latest version of the document. All changes are kept in the History tab, but the only version rendered in the latest one, with all the accepted changes.</li>
-     <li>There’s no way to see previous versions, except by reading the History and applying heavy use of your imagination.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" class="_spacer"></td>
-  </tr>
- </table>
+   <tr>
+    <th>CONs</th>
+    <td>
+     <ul>
+      <li>It only renders the latest version of the document. All changes are kept in the History tab, but the only version rendered in the latest one, with all the accepted changes.</li>
+      <li>There’s no way to see previous versions, except by reading the History and applying heavy use of your imagination.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" class="_spacer"></td>
+   </tr>
+  </table>
 <h2>Google Docs</h2>
  <table>
   <tr>
