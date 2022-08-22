@@ -336,9 +336,12 @@ image:    "rMake-icon.svg"
 <h1>Social Media</h1>
  <p>A la Medium, text can be pre-selected as &ldquo;ready to post.&rdquo; Clicking on that text brings up a, for example, Twitter or LinkedIn post window with the text itself and a URL to the quoted text.</p>
  <p>Also, text can be selected and sent to other Social platforms, including a URL that points back to the text (<em>i.e.</em>, a la Diigo).</p>
+ <div style="text-align:center; ">
   <img
-   src="rmedia-diff.svg">
-
+   src="/assets/img/rmedia-diff.svg"
+   width="70%"
+   alt="">
+ </div>
 <h1>References</h1>
  <p>A rMake reference can include text, URLs, or both, a la Kindle.</p>
  <p>URLs can point to internal targets (<em>e.g.</em>, titles, headers).</p>
