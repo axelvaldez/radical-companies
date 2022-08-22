@@ -72,8 +72,8 @@ image:    "rMake-icon.svg"
      </ul>
     </td>
    </tr>
-  <table>
   </table>
+  <table>
    <tr>
     <td colspan="2" style="font-size:8px; "></td>
    </tr>
