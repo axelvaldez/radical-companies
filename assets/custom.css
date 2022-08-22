@@ -293,9 +293,7 @@ td._spacer {
   margin: 0 auto 30px auto;
 }
 ._quotation::after {
-  font-size:xx-large;
   font-size:40pt;
-
   text-align:right;
   content:close-quote;
 }
