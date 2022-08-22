@@ -288,7 +288,7 @@ td._spacer {
   white-space:normal;
 
   border:1px solid CadetBlue;
-  padding:1em 1em 0 1em;
+  padding:0 1em 0 1em;
   margin: 0 2m 1em 2m; 
 }
 ._quotation::before {
