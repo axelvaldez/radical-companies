@@ -265,20 +265,19 @@ image:    "rMake-icon.svg"
    <li>Optionally see comments that others have left (collapsible).</li>
    <li>Leave edit suggestions.</li>
    <li>Share content,
+    <img>
     <p>Where the URL points to the highlighted text.</p>
-    <ul>
-     <li>See and follow alternative content. For example, a button labeled &ldquo;Alt Content&rdquo; would jump to the alternative if there’s only one or show a pull down list if there's more than one. Or the button could open a side panel to show a short description of each version.</li>
-    </ul>
    </li>
+   <li>See and follow alternative content. For example, a button labeled &ldquo;Alt Content&rdquo; would jump to the alternative if there’s only one or show a pull down list if there's more than one. Or the button could open a side panel to show a short description of each version.</li>
   </ul>
  <h2>Writer</h2>
-  <p>Needs to,</p>
+  <p style="margin-bottom:0; ">Needs to,</p>
   <ul>
    <li>Start in editing mode. It renders the same as reading mode, but it allows editing.</li>
    <li>Leave comments and edits assigned to a user (may be herself).</li>
   </ul>
  <h2>Co-Writers</h2>
-  <p>Same as a single writer, but in addition they need to,</p>
+  <p style="margin-bottom:0; ">Same as a single writer, but in addition they need to,</p>
   <ul>
    <li>Fork the whole book as a separate flow.</li>
    <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or <a href="https://www.google.com/search?q=excursus&oq=excursus">excursus</a>.<a href="#en11"><sup id="bm11">11&nbsp;</sup></a>
