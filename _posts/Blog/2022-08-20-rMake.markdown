@@ -10,7 +10,7 @@ image:    "rMake-icon.svg"
  <p>Writing a book is mostly a one-person writing exercise. That’s a problem. Today&rsquo;s tools have discussions, critiques, suggestions, etc., but the actual writing is done by one person.</p>
 </div>
 
-<div style="font-size:25px; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; ">
+<div style="font-size:25px; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; margin-bottom:20px; ">
  <p>A book is no longer be a book, but parallel variations on a theme. A spectrum of perspectives, built like software is done these days. This made me think of how Aztecs used to keep track of histories.</p>
  <p style="text-align:right; padding-right:1em; margin-top:15px; ">&mdash;Marysol Ortega, PhD</p>
 </div>
