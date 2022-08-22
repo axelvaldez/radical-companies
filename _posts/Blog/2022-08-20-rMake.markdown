@@ -392,18 +392,6 @@ image:    "rMake-icon.svg"
 
 <!-- Footnotes themselves at the bottom. -->
 
-<h1>ENDNOTES</h1>
- <ol>
-  <li id="fn1">
-   For more information, see Markup <<a href="https://radicals.world/59k36j">https://radicals.world/59k36j</a>> (aka, Markdown <<a href="https://radicals.world/Dbg4hm">https://radicals.world/Dbg4hm</a>>).
-   &nbsp;<a href="#fnref1" rev="footnote">&#8617;</a><li id="fn2">
-An homage to Unix make.
-&nbsp;<a href="#fnref2" rev="footnote">&#8617;</a><li id="fn3">
-
-Hat off to <a href="https://en.wikipedia.org/wiki/Project_Xanadu">Project Xanadu</a>.
-&nbsp;<a href="#fnref3" rev="footnote">&#8617;</a>
- </ol>
-
 <h1 class="_section">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="en01">
