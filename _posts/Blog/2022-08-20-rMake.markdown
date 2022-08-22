@@ -26,7 +26,7 @@ image:    "rMake-icon.svg"
   <table>
    <tr>
     <th>
-     <p style="text-align: right">PROs</p>
+     <p style="text-align:right; ">PROs</p>
     </th>
     <td>
      <ul>
@@ -39,11 +39,11 @@ image:    "rMake-icon.svg"
     </td>
    </tr>
    <tr>
-    <td rowspan="2" style="font-sze:6px; "></td>
+    <td rowspan="2" style="font-size:6px; "></td>
    </tr>
    <tr>
     <th>
-     <p style="text-align: right">CONs</p>
+     <p style="text-align:right; ">CONs</p>
     </th>
     <td>
      <ul>
@@ -53,14 +53,14 @@ image:    "rMake-icon.svg"
     </td>
    </tr>
    <tr>
-    <td rowspan="2" style="font-sze:6px; "></td>
+    <td rowspan="2" style="font-size:6px; "></td>
    </tr>
   </table>
 <h2>MediaWiki</h2>
  <table>
   <tr>
    <th>
-    <p style="text-align: right">PROs</p>
+    <p style="text-align:right; ">PROs</p>
    </th>
    <td>
     <ul>
@@ -73,11 +73,11 @@ image:    "rMake-icon.svg"
    </td>
   </tr>
    <tr>
-    <td rowspan="2" style="font-sze:6px; "></td>
+    <td rowspan="2" style="font-size:6px; "></td>
    </tr>
   <tr>
    <th>
-    <p style="text-align: right">CONs</p>
+    <p style="text-align:right; ">CONs</p>
    </th>
     <ul>
      <li>It only renders the latest version of the document. All changes are kept in the History tab, but the only version rendered in the latest one, with all the accepted changes.</li>
@@ -86,14 +86,14 @@ image:    "rMake-icon.svg"
    </td>
   </tr>
   <tr>
-   <td rowspan="2" style="font-sze:6px; "></td>
+   <td rowspan="2" style="font-size:6px; "></td>
   </tr>
  </table>
 <h2>Google Docs</h2>
  <table>
   <tr>
    <th>
-    <p style="text-align: right">PROs</p>
+    <p style="text-align:right; ">PROs</p>
    </th>
    <td>
     <ul>
@@ -105,11 +105,11 @@ image:    "rMake-icon.svg"
    </td>
   </tr>
   <tr>
-    <td rowspan="2" style="font-sze:6px; "></td>
+    <td rowspan="2" style="font-size:6px; "></td>
   </tr>
   <tr>
    <th>
-    <p style="text-align: right">CONs</p>
+    <p style="text-align:right; ">CONs</p>
    </th>
    <td>
     <ul>
@@ -119,7 +119,7 @@ image:    "rMake-icon.svg"
    </td>
   </tr>
   <tr>
-    <td rowspan="2" style="font-sze:6px; "></td>
+    <td rowspan="2" style="font-size:6px; "></td>
   </tr>
  </table>
 
@@ -150,7 +150,7 @@ image:    "rMake-icon.svg"
    <table>
     <tr>
      <td>
-      <p style="text-align: right">1+1 = 2</p>
+      <p style="text-align:right; ">1+1 = 2</p>
       <ul>
        <li>When the content overlaps, one of us may create a pull request for one or more fragments.</li>
        <li>We discuss the differences, agree on how to align them, and our work gets merged.</li>
@@ -159,11 +159,11 @@ image:    "rMake-icon.svg"
      </td>
     </tr>
     <tr>
-    <td rowspan="2" style="font-sze:6px; "></td>
+    <td rowspan="2" style="font-size:6px; "></td>
     </tr>
     <tr>
      <th>
-      <p style="text-align: right">2+1 = 3</p>
+      <p style="text-align:right; ">2+1 = 3</p>
      </th>
      <td>
       <ul>
@@ -175,11 +175,11 @@ image:    "rMake-icon.svg"
      </td>
     </tr>
     <tr>
-    <td rowspan="2" style="font-sze:6px; "></td>
+    <td rowspan="2" style="font-size:6px; "></td>
     </tr>
     <tr>
      <th>
-      <p style="text-align: right">2+1 ≠ 1+2</p>
+      <p style="text-align:right; ">2+1 ≠ 1+2</p>
      </th>
      <td>
       <ul>
@@ -191,11 +191,11 @@ image:    "rMake-icon.svg"
      </td>
     </tr>
     <tr>
-    <td rowspan="2" style="font-sze:6px; "></td>
+    <td rowspan="2" style="font-size:6px; "></td>
     </tr>
     <tr>
      <th>
-      <p style="text-align: right">1+1 = 1</p>
+      <p style="text-align:right; ">1+1 = 1</p>
      </th>
      <td>
       <ul>
@@ -207,7 +207,7 @@ image:    "rMake-icon.svg"
      </td>
     </tr>
     <tr>
-    <td rowspan="2" style="font-sze:6px; "></td>
+    <td rowspan="2" style="font-size:6px; "></td>
     </tr>
    </table>
 
@@ -242,30 +242,30 @@ image:    "rMake-icon.svg"
  <table>
   <tr>
    <th>
-    <p style="text-align: right">Suggestions</p>
+    <p style="text-align:right; ">Suggestions</p>
    </th>
    <td>Typos, word replacements, very short rewrites.</td>
   </tr>
   <tr>
-    <td rowspan="2" style="font-sze:6px; "></td>
+    <td rowspan="2" style="font-size:6px; "></td>
   </tr>
   <tr>
    <th>
-    <p style="text-align: right">Rewrites</p>
+    <p style="text-align:right; ">Rewrites</p>
    </th>
    <td>A significant amount of content is rewritten or re-laid-out dramatically differently.</td>
   </tr>
   <tr>
-    <td rowspan="2" style="font-sze:6px; "></td>
+    <td rowspan="2" style="font-size:6px; "></td>
   </tr>
   <tr>
    <th>
-    <p style="text-align: right">Additions</p>
+    <p style="text-align:right; ">Additions</p>
    </th>
    <td>New content is added.</td>
   </tr>
   <tr>
-   <td rowspan="2" style="font-sze:6px; "></td>
+   <td rowspan="2" style="font-size:6px; "></td>
   </tr>
  </table>
  <p>The different types of contributions must stand out and be visually distincts. Manipulating them must be intuitive (<em>e.g.</em>, as implemented in Google Docs, suggestions can render a document unreadable with many strokes and modification, and comments can overlap suggestions and make them unreachable). It must be straightforward to convert a suggestion to a comment and vice versa.</p>
