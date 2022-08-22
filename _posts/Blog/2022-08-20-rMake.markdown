@@ -215,12 +215,13 @@ image:    "rMake-icon.svg"
 
 <h1>Publishing</h1>
  <p>The mythical &ldquo;book deal&rdquo; includes an advance that a publisher pays an author when the book is just an outline. For well-known authors and brand names (<em>e.g.</em>, ex-President Obama), that is still the case. The rest of us get, at best, a percent of sales minus all expenses, including returns,</p>
- <p>In the rMake model, a Publisher could,</p>
- <ul>
-  <li>Negotiates a deal around a particular flow.</li>
-  <li>Make a deal around all existing flows.</li>
-  <li>They could even pay for preventing new flows for a period of time.</li>
- </ul>
+ <p>In the rMake model, a Publisher could,
+  <ul>
+   <li>Negotiates a deal around a particular flow.</li>
+   <li>Make a deal around all existing flows.</li>
+   <li>They could even pay for preventing new flows for a period of time.</li>
+  </ul>
+ </p>
  <p>This is ripe for experimentation.</p>
  <p>See <a href="https://docs.google.com/document/d/1mUlZB37Bb_cOMSqmZDqvlVGTnpoBcKNrfOdf8QcbCKM/edit#">PRADERA MEDIA</a><a href="en10"><sup id="bm10">10&nbsp;</sup></a> for more info.</p>
 
