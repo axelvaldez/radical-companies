@@ -21,7 +21,7 @@ image:    "rMake-icon.svg"
  <p>The intent of rMake is to make it possible for many people to contribute to a book and get authorship and ownership consistently. What would have been a laborious process for books written with a quill pen or a typewriter, it is a piece of cake using basic modern technology.</p>
 
 <h1>But You Already Can&hellip;</h1>
- <p>My first thought was that any of the various <a href="https://git-scm.com/">Git</a> platforms, or <a href="https://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a>, or even Google Docs could be it.</p>
+ <p>My first thought was that any of the various <a href="https://git-scm.com/">Git</a> platforms, <a href="https://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a>, or even Google Docs could be it.</p>
  <h2>Git</h2>
   <table>
    <tr>
