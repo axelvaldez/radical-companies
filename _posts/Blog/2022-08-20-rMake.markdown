@@ -317,9 +317,9 @@ image:    "rMake-icon.svg"
  <p>Comments and suggested edits enrich a document, particularly when it generates a dialog among co-authors. The end result of a discussion may be that co-authors go off to create their own flows. And that’s good.</p>
  <p>When that happens, the new flows will carry a copy of all comments and edits with it. If one author decides to remove some or all comments or reject the edits, then they still exist in the original flows.</p>
 
-<h1>Twitter/LinkedIn/etc</h1>
- <p>A la Medium: text can be pre-selected as &ldquo;ready to post.&rdquo; Clicking on that text brings up a Twitter or LinkedIn post window with the text itself and a URL to the quoted text.</p>
- <p>Also, text can be selected and sent to these and other Social platforms, including a URL that points back to the text (<em>i.e.</em>, a la Diigo).</p>
+<h1>Social Media</h1>
+ <p>A la Medium, text can be pre-selected as &ldquo;ready to post.&rdquo; Clicking on that text brings up a, for example, Twitter or LinkedIn post window with the text itself and a URL to the quoted text.</p>
+ <p>Also, text can be selected and sent to other Social platforms, including a URL that points back to the text (<em>i.e.</em>, a la Diigo).</p>
   <img
    src="rmedia-diff.svg">
 
