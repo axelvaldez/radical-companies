@@ -292,6 +292,9 @@ td._spacer {
   padding:1em 1em 0 1em;
   margin-bottom:1em; 
 }
+._quotation::before, ._quotation::after {
+  font-size:xx-large;
+}
 ._quotation::before {
   content:open-quote;
 }
