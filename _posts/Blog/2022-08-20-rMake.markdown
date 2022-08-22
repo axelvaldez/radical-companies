@@ -38,8 +38,6 @@ image:    "rMake-icon.svg"
      </ul>
     </td>
    </tr>
-  </table>
-  <table>
    <tr>
     <td rowspan="2" style="font-sze:6px; "></td>
    </tr>
