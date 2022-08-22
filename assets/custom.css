@@ -278,17 +278,17 @@ td._spacer {
   font-size:small;
 }
 ._quotation {
-  font-style:italic;
-  margin-left:.5in;
-  margin-right:.5in;
   text-align:justify;
-  font-size:smaller;
 
+  font-style:italic;
+  font-size:smaller;
   font-size:18px;
-  border:1px solid CadetBlue;
-  background-color:beige;
   font-family:American Typewriter, serif;
+  
+  background-color:beige;
   white-space:normal;
+
+  border:1px solid CadetBlue;
   padding:1em 1em 0 2em;
   margin-bottom:1em; 
 }
