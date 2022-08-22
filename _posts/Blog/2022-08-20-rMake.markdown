@@ -47,8 +47,6 @@ image:    "rMake-icon.svg"
     <th>
      <p style="text-align: right">CONs</p>
     </th>
-   </tr>
-   <tr>
     <td>
      <ul>
       <li>Git and its many derivatives are not what you’d call user friendly for non-developers.</li>
