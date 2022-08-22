@@ -201,7 +201,8 @@ image:    "rMake-icon.svg"
 
 <h1>Flows</h1>
  <p>Flows tie together a number of flows to make for a coherent reading. Flows are first-class objects and persistent and publishable. For example, assume a book project starts with the collaboration with one author and ends with many contributions.,</p>
-  <img>
+  <img
+   src="rmake-flow-1.svg">
  <p>Imagine these flows in between,</p>
   <img>
  <p>For example, maybe @author3 stopped contributing after modifying chapter 3. Other co-authors, however, continue to move the content forward and their changes make @author3’s contribution obsolete. Or various co-authors make a few updates to my 4.0 fragment and then I make one last modification.</p>
