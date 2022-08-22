@@ -115,7 +115,7 @@ image:    "rMake-icon.svg"
  </table>
 
 <h1>Then, rMake!</h1>
- <p>In the end, we opted to create a new app we call rMake<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> and make it as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries (<em>e.g.</em>, diff) that we can use in the making of rMake.</p>
+ <p>In the end, we opted to create a new app we call rMake<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries (<em>e.g.</em>, diff) that we can use in the making of rMake.</p>
  <p>For the backend, after trying to make our own, we are planning to use <a href="https://github.com/uprtcl">_Prtcl</a>, an OSS project, based on blockchain, that’s very much aligned with our goals.</p>
  <h2>No Trunk</h2>
   <p>In rMake <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
