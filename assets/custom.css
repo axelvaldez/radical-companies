@@ -295,5 +295,5 @@ td._spacer {
   font-size:xx-large;
   font-size:40pt;
 
-  content:open-quote;
+  content:open-quote open-quote;
 }
