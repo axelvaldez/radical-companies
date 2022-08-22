@@ -204,11 +204,13 @@ image:    "rMake-icon.svg"
   <img
    src="rmake-flow-1.svg">
  <p>Imagine these flows in between,</p>
-  <img>
+  <img
+   src="rmake-flow-2.svg">
  <p>For example, maybe @author3 stopped contributing after modifying chapter 3. Other co-authors, however, continue to move the content forward and their changes make @author3’s contribution obsolete. Or various co-authors make a few updates to my 4.0 fragment and then I make one last modification.</p>
  <p>There will be the case where one or more co-authors go off in a different direction from the perspective of the other co-authors. In that case, the divergent co-author(s) would start a new flow with the content of the source flow and then add new content to it (<em>i.e.</em>, This is conceptually similar to a fork of an OSS software project). They can create a Linked flow, where the untouched fragments are merely links to the original (<em>i.e.</em>, Linked flows will reflect any and all changes in these fragments),</p>
  <p>They could, alternatively, create a Copied flow, where every fragment is a static copy of the original fragment. Changes in the original fragments would not be reflected in the new flow.</p>
-  <img>
+  <img
+   src="rmake-flow-all.svg">
  <p>Either way, authorship stays with each fragment, whether Linked or Copied. Content is owned by those who author it.</p>
  <p>These flows are first-class objects. They are addressable, persistent, and each can be publishable separately. For example, I could post a URL to one flow (<em>e.g.</em>, 1, 2, 3, 4) and you could publish another flow (<em>e.g.</em>, 1, 2, modified 3, 4). Readers can choose to read one flow or another. Or they can jump from one to another, regardless of the flow they started from.</p>
  <p>Of note, this could cause weird situations. For example, I create a flow about responsible gun ownership. Somebody else may fork it and use the statistics chapter to support reckless gun ownership. In this case, I could end up getting paid from sales of the &ldquo;irresponsible&rdquo; book. At first, I found the thought a bit distressing, but as Doug Kirkpatrick points out,</p>
@@ -269,7 +271,8 @@ image:    "rMake-icon.svg"
    <li>Optionally see comments that others have left (collapsible).</li>
    <li>Leave edit suggestions.</li>
    <li>Share content,
-    <img>
+  <img
+   src="rmedia-citation-copy-paste.svg">
     <p>Where the URL points to the highlighted text.</p>
    </li>
    <li>See and follow alternative content. For example, a button labeled &ldquo;Alt Content&rdquo; would jump to the alternative if there’s only one or show a pull down list if there's more than one. Or the button could open a side panel to show a short description of each version.</li>
@@ -317,7 +320,8 @@ image:    "rMake-icon.svg"
 <h1>Twitter/LinkedIn/etc</h1>
  <p>A la Medium: text can be pre-selected as &ldquo;ready to post.&rdquo; Clicking on that text brings up a Twitter or LinkedIn post window with the text itself and a URL to the quoted text.</p>
  <p>Also, text can be selected and sent to these and other Social platforms, including a URL that points back to the text (<em>i.e.</em>, a la Diigo).</p>
- <img>
+  <img
+   src="rmedia-diff.svg">
 
 <h1>References</h1>
  <p>A rMake reference can include text, URLs, or both, a la Kindle.</p>
