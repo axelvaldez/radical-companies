@@ -343,7 +343,7 @@ image:    "rMake-icon.svg"
    alt="">
  </div>
 <h1>References</h1>
- <p>A rMake reference can include text, URLs, or both, a la Kindle.</p>
+ <p>An rMake reference can include text, URLs, or both, a la Kindle.</p>
  <p>URLs can point to internal targets (<em>e.g.</em>, titles, headers).</p>
 
 <h1>Paper</h1>
