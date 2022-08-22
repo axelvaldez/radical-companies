@@ -254,6 +254,7 @@ tr {
 th {
   text-align:right;
   padding-right:1em;
+  width:1.5in;
 }
 td {
   text-align:left;
