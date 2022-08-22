@@ -204,7 +204,7 @@ image:    "rMake-icon.svg"
  <div style="text-align:center; ">
   <img
    src="/assets/img/rmake-flow-2.svg"
-   width="20%"
+   height="1.5in"
    alt="">
  </div>
  <p>Imagine these flows in between,</p>
