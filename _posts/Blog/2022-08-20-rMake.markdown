@@ -62,7 +62,7 @@ image:    "rMake-icon.svg"
       <li>It keeps a history of the document where you can see all the edits ever made to a page as well as the discussions between the page editor and other contributors.</li>
       <li>Various writers can work asynchronously (not quite in parallel).</li>
       <li>It is Open Source.</li>
-      <li>It has pretty good <a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker">documentation for developers</a>.</li>
+      <li>It has pretty good <a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">documentation for developers</a>.</li>
      </ul>
     </td>
    </tr>
