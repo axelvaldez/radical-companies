@@ -114,7 +114,7 @@ image:    "rMake-icon.svg"
   </tr>
  </table>
 
-<h1>Then, rMake!</h1>
+<h1>Then Came rMake!</h1>
  <p>In the end, we opted to create a new app we call rMake<a href="en06"><sup id="bm06">6&nbsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries (<em>e.g.</em>, diff) that we can use in the making of rMake.<a href="en07"><sup id="bm07">7&nbsp;</sup></a></p>
  <div style="font-family:Courier; ">
  For the backend, we were planning to use _Prtcl, an OSS project, based on blockchain, which very much aligned with our goals.
