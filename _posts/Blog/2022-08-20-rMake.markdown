@@ -214,7 +214,7 @@ image:    "rMake-icon.svg"
   <div class="_quotation" style="font-size:18px; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; ">
    <p>That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</p>
    <p>If a statistics book chapter is OPEN, therefore, it is subject to being applied by individuals to arguments with which we may disagree.</p>
-   <p>I also think that books aren’t just about the writers, they’re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren’t always the lovely, objective things we assume them to be (see <a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=FKW6Y0VTHKGY7C3EM3YD">How to Lie with Statistics</a><a href="#en09"><sup id="bm09">9&nbsp;</sup></a>).</p>
+   <p>I also think that books aren’t just about the writers, they’re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren’t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics<em><a href="#en09"><sup id="bm09">9&nbsp;</sup></a>).</p>
   </div>
 
 <h1>Publishing</h1>
@@ -449,17 +449,17 @@ Hat off to <a href="https://en.wikipedia.org/wiki/Project_Xanadu">Project Xanadu
    <p class="_list-item" style="width:1.5in; ">
     AUTHOR(S).
     <em>TITLE.</em>
-    PUBLICATION YEAR.
+    199
     <<a href="https://…" target="_blank">https://…</a>>
     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en09">
    <p class="_list-item" style="width:1.5in; ">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
+    Darrell Huff and Irving Gels.
+    <em>How to Lie with Statics-Darrel-Huff</em>
+    1993.
+    <<a href="https://radicals.world/1VWoUn">&hellip;https://radicals.world/1VWoUn</a>>
     <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
