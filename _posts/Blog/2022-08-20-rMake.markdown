@@ -21,14 +21,14 @@ image:    "rMake-icon.svg"
  <p>The intent of rMake is to make it possible for many people to contribute to a book and get authorship and ownership consistently. What would have been a laborious process for books written with a quill pen or a typewriter, it is a piece of cake using basic modern technology.</p>
 
 <h1>But You Already Can&hellip;</h1>
- <p>My first thought was that any of the various <a href="https://git-scm.com/">Git</a> platforms, <a href="https://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a>, or even Google Docs could be it.</p>
+ <p>My first thought was that any of the various <a href="https://git-scm.com/">Git</a><a href="en01"><sup id="bm01">1&nbsp;</sup></a> platforms, <a href="https://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a>,<a href="en02"><sup id="bm02">2&nbsp;</sup></a> or even Google Docs could be it.</p>
  <h2>Git</h2>
   <table>
    <tr>
     <th>PROs</th>
     <td>
      <ul>
-      <li>Git is a very popular software <a href="https://en.wikipedia.org/wiki/Source_Code_Control_System" target="_blank">source control system</a>. In particular, it allows software developers to work as peers, in parallel.</li>
+      <li>Git is a very popular software <a href="https://en.wikipedia.org/wiki/Source_Code_Control_System" target="_blank">source control system</a>.<a href="en02"><sup id="bm03">2&nbsp;</sup></a> In particular, it allows software developers to work as peers, in parallel.</li>
       <li>The published code lives in the project <strong>trunk</strong>. Any developer can read that code at any time.</li>
       <li>Several developers can work on features or new versions of the code in parallel, in separate branches. Each is persistent and fully rendered.</li>
       <li>Whenever I want to merge the code in my flow into the trunk, I create a pull request for the trunk’s admin. We’d have a discussion about my branch in the pull request and if everything lines up, the code in my branch is merged into the trunk.</li>
@@ -58,11 +58,11 @@ image:    "rMake-icon.svg"
     <th>PROs</th>
     <td>
      <ul>
-      <li>This is the wiki engine used by Wikipedia and it is friendly enough for writers. At least those who are used to Wiki Markup.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></li>
+      <li>This is the wiki engine used by Wikipedia and it is friendly enough for writers. At least those who are used to Wiki Markup.<a href="en04"><sup id="bm05">4&nbsp;</sup></a></li>
       <li>It keeps a history of the document where you can see all the edits ever made to a page as well as the discussions between the page editor and other contributors.</li>
       <li>Various writers can work asynchronously (not quite in parallel).</li>
       <li>It is Open Source.</li>
-      <li>It has pretty good <a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">documentation for developers</a>.</li>
+      <li>It has pretty good <a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">documentation for developers</a>.<a href="en05"><sup id="bm05">5&nbsp;</sup></a></li>
      </ul>
     </td>
    </tr>
@@ -115,8 +115,11 @@ image:    "rMake-icon.svg"
  </table>
 
 <h1>Then, rMake!</h1>
- <p>In the end, we opted to create a new app we call rMake<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries (<em>e.g.</em>, diff) that we can use in the making of rMake.</p>
- <p>For the backend, after trying to make our own, we are planning to use <a href="https://github.com/uprtcl">_Prtcl</a>, an OSS project, based on blockchain, that’s very much aligned with our goals.</p>
+ <p>In the end, we opted to create a new app we call rMake<a href="en06"><sup id="bm06">6&nbsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries (<em>e.g.</em>, diff) that we can use in the making of rMake.<a href="en07"><sup id="bm07">7&nbsp;</sup></a></p>
+ <div style="font-family:Courier; ">
+ For the backend, we were planning to use <a href="https://github.com/uprtcl">_Prtcl</a>, an OSS project, based on blockchain, which very much aligned with our goals.
+ <<a href="https://github.com/uprtcl">&helli;/_prtcl</a>>
+ </div>
  <h2>No Trunk</h2>
   <p>In rMake <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
   <p>These flows are fully rendered and at any point in time, a reader would be able to see any. Perhaps one flow is recommended by readers more than the others, but all flows will still be around for readers to explore.</p>
