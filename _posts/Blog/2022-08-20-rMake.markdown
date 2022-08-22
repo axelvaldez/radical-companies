@@ -53,7 +53,7 @@ image:    "rMake-icon.svg"
     </td>
    </tr>
    <tr>
-    <td rowspan="2" style="font-size:6px; ">caca</td>
+    <td rowspan="2" style="font-size:8px; ">caca</td>
    </tr>
   </table>
  <h2>MediaWiki</h2>
@@ -73,7 +73,7 @@ image:    "rMake-icon.svg"
     </td>
    </tr>
    <tr>
-    <td rowspan="2" style="font-size:6px; "></td>
+    <td rowspan="2" style="font-size:8px; ">caca</td>
    </tr>
   <tr>
    <th>
