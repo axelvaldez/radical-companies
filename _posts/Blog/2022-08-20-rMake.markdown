@@ -26,7 +26,7 @@ image:    "rMake-icon.svg"
   <table>
    <tr>
     <th>
-     <p style="text-align: right">PROs</td>
+     <p style="text-align: right">PROs</p>
     </th>
     <td>
      <ul>
