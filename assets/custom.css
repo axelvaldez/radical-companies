@@ -283,6 +283,14 @@ td._spacer {
   margin-right:.5in;
   text-align:justify;
   font-size:smaller;
+
+  font-size:18px;
+  border:1px solid CadetBlue;
+  background-color:beige;
+  font-family:American Typewriter, serif;
+  white-space:normal;
+  padding:1em 1em 0 1em;
+  margin-bottom:1em; 
 }
 .quotation::before {
   content:open-quote;
