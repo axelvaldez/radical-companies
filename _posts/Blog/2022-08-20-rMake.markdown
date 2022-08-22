@@ -201,8 +201,12 @@ image:    "rMake-icon.svg"
 
 <h1>Flows</h1>
  <p>Flows tie together a number of flows to make for a coherent reading. Flows are first-class objects and persistent and publishable. For example, assume a book project starts with the collaboration with one author and ends with many contributions.,</p>
+ <div style="text-align:center; ">
   <img
-   src="rmake-flow-1.svg">
+   src="/assets/img/rmake-flow-1.svg"
+   width="70%"
+   alt="">
+ </div>
  <p>Imagine these flows in between,</p>
   <img
    src="rmake-flow-2.svg">
@@ -210,7 +214,10 @@ image:    "rMake-icon.svg"
  <p>There will be the case where one or more co-authors go off in a different direction from the perspective of the other co-authors. In that case, the divergent co-author(s) would start a new flow with the content of the source flow and then add new content to it (<em>i.e.</em>, This is conceptually similar to a fork of an OSS software project). They can create a Linked flow, where the untouched fragments are merely links to the original (<em>i.e.</em>, Linked flows will reflect any and all changes in these fragments),</p>
  <p>They could, alternatively, create a Copied flow, where every fragment is a static copy of the original fragment. Changes in the original fragments would not be reflected in the new flow.</p>
   <img
-   src="rmake-flow-all.svg">
+   src="/assets/img/rmrmake-flow-all.svg"
+   width="70%"
+   alt="">
+ </div>
  <p>Either way, authorship stays with each fragment, whether Linked or Copied. Content is owned by those who author it.</p>
  <p>These flows are first-class objects. They are addressable, persistent, and each can be publishable separately. For example, I could post a URL to one flow (<em>e.g.</em>, 1, 2, 3, 4) and you could publish another flow (<em>e.g.</em>, 1, 2, modified 3, 4). Readers can choose to read one flow or another. Or they can jump from one to another, regardless of the flow they started from.</p>
  <p>Of note, this could cause weird situations. For example, I create a flow about responsible gun ownership. Somebody else may fork it and use the statistics chapter to support reckless gun ownership. In this case, I could end up getting paid from sales of the &ldquo;irresponsible&rdquo; book. At first, I found the thought a bit distressing, but as Doug Kirkpatrick points out,</p>
