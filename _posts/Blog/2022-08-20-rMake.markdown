@@ -385,6 +385,105 @@ Hat off to <a href="https://en.wikipedia.org/wiki/Project_Xanadu">Project Xanadu
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+  <li id="en02">
+   <p class="_list-item" style="width:1.5in; ">
+    AUTHOR(S).
+    <em>TITLE.</em>
+    PUBLICATION YEAR.
+    <<a href="https://…" target="_blank">https://…</a>>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item" style="width:1.5in; ">
+    AUTHOR(S).
+    <em>TITLE.</em>
+    PUBLICATION YEAR.
+    <<a href="https://…" target="_blank">https://…</a>>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item" style="width:1.5in; ">
+    AUTHOR(S).
+    <em>TITLE.</em>
+    PUBLICATION YEAR.
+    <<a href="https://…" target="_blank">https://…</a>>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en05">
+   <p class="_list-item" style="width:1.5in; ">
+    AUTHOR(S).
+    <em>TITLE.</em>
+    PUBLICATION YEAR.
+    <<a href="https://…" target="_blank">https://…</a>>
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en06">
+   <p class="_list-item" style="width:1.5in; ">
+    AUTHOR(S).
+    <em>TITLE.</em>
+    PUBLICATION YEAR.
+    <<a href="https://…" target="_blank">https://…</a>>
+    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en07">
+   <p class="_list-item" style="width:1.5in; ">
+    AUTHOR(S).
+    <em>TITLE.</em>
+    PUBLICATION YEAR.
+    <<a href="https://…" target="_blank">https://…</a>>
+    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en08">
+   <p class="_list-item" style="width:1.5in; ">
+    AUTHOR(S).
+    <em>TITLE.</em>
+    PUBLICATION YEAR.
+    <<a href="https://…" target="_blank">https://…</a>>
+    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en09">
+   <p class="_list-item" style="width:1.5in; ">
+    AUTHOR(S).
+    <em>TITLE.</em>
+    PUBLICATION YEAR.
+    <<a href="https://…" target="_blank">https://…</a>>
+    <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en10">
+   <p class="_list-item" style="width:1.5in; ">
+    AUTHOR(S).
+    <em>TITLE.</em>
+    PUBLICATION YEAR.
+    <<a href="https://…" target="_blank">https://…</a>>
+    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en11">
+   <p class="_list-item" style="width:1.5in; ">
+    AUTHOR(S).
+    <em>TITLE.</em>
+    PUBLICATION YEAR.
+    <<a href="https://…" target="_blank">https://…</a>>
+    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en12">
+   <p class="_list-item" style="width:1.5in; ">
+    AUTHOR(S).
+    <em>TITLE.</em>
+    PUBLICATION YEAR.
+    <<a href="https://…" target="_blank">https://…</a>>
+    <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
  </ol>
 
 <h1 class="_section">RELATED</h1>
