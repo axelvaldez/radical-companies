@@ -56,22 +56,22 @@ image:    "rMake-icon.svg"
     <td rowspan="2" style="font-size:6px; ">caca</td>
    </tr>
   </table>
-<h2>MediaWiki</h2>
- <table>
-  <tr>
-   <th>
-    <p style="text-align:right; ">PROs</p>
-   </th>
-   <td>
-    <ul>
-     <li>This is the wiki engine used by Wikipedia and it is friendly enough for writers. At least those who are used to Wiki Markup.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></li>
-     <li>It keeps a history of the document where you can see all the edits ever made to a page as well as the discussions between the page editor and other contributors.</li>
-     <li>Various writers can work asynchronously (not quite in parallel).</li>
-     <li>It is Open Source.</li>
-     <li>It has pretty good <a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker">documentation for developers</a>.</li>
-    </ul>
-   </td>
-  </tr>
+ <h2>MediaWiki</h2>
+  <table>
+   <tr>
+    <th>
+     <p style="text-align:right; ">PROs</p>
+    </th>
+    <td>
+     <ul>
+      <li>This is the wiki engine used by Wikipedia and it is friendly enough for writers. At least those who are used to Wiki Markup.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></li>
+      <li>It keeps a history of the document where you can see all the edits ever made to a page as well as the discussions between the page editor and other contributors.</li>
+      <li>Various writers can work asynchronously (not quite in parallel).</li>
+      <li>It is Open Source.</li>
+      <li>It has pretty good <a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker">documentation for developers</a>.</li>
+     </ul>
+    </td>
+   </tr>
    <tr>
     <td rowspan="2" style="font-size:6px; "></td>
    </tr>
