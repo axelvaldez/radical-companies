@@ -39,7 +39,7 @@ image:    "rMake-icon.svg"
     </td>
    </tr>
    <tr>
-    <td rowspan="2" style="font-size:6px; ">caca</td>
+    <td rowspan="2" style="font-size:8px; ">caca</td>
    </tr>
    <tr>
     <th>
