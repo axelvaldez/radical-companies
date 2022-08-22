@@ -117,8 +117,8 @@ image:    "rMake-icon.svg"
 <h1>Then, rMake!</h1>
  <p>In the end, we opted to create a new app we call rMake<a href="en06"><sup id="bm06">6&nbsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries (<em>e.g.</em>, diff) that we can use in the making of rMake.<a href="en07"><sup id="bm07">7&nbsp;</sup></a></p>
  <div style="font-family:Courier; ">
- For the backend, we were planning to use <a href="https://github.com/uprtcl">_Prtcl</a>, an OSS project, based on blockchain, which very much aligned with our goals.
- <<a href="https://github.com/uprtcl">&helli;/_prtcl</a>>
+ For the backend, we were planning to use _Prtcl, an OSS project, based on blockchain, which very much aligned with our goals.
+ <<a href="https://github.com/uprtcl">&hellip;/_prtcl</a>>
  </div>
  <h2>No Trunk</h2>
   <p>In rMake <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
@@ -130,7 +130,7 @@ image:    "rMake-icon.svg"
    <li>If ownership is marked as TBD, then anybody, say, PubCo, can <em>claim</em> ownership of a fragment and, assuming that they can prove it, PubCo would then be <em>assigned</em> as owner of the fragment.</li>
    <li>Authorship means that co-authors are responsible for its content.</li>
    <li>Ownership includes the power to decide on fragment merges.</li>
-   <li>Ownership does not imply exclusivity and anybody can copy any fragment in a flow at will. As noted, the fragment ownership goes along with it.<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></li>
+   <li>Ownership does not imply exclusivity and anybody can copy any fragment in a flow at will. As noted, the fragment ownership goes along with it.<a href="en08"><sup id="bm08">8&nbsp;</sup></a></li>
    <li>Others can create their own flows with fragments authored by somebody else, say, me. The resulting content would indicate me as a co-author and the person doing the modification as another co-author.</li>
    <li>Using the</li>
     <a href="#heading=h.i3nsnn5r7amn">RAD Distribution</a> model, revenue from, for example, consumer purchases or licenses, could be distributed to co-owners as a function of their ownership of the complete work.
@@ -143,8 +143,8 @@ image:    "rMake-icon.svg"
   <h2>Use Cases</h2>
    <table>
     <tr>
+     <th>1+1 = 2</th>
      <td>
-      <p style="text-align:right; ">1+1 = 2</p>
       <ul>
        <li>When the content overlaps, one of us may create a pull request for one or more fragments.</li>
        <li>We discuss the differences, agree on how to align them, and our work gets merged.</li>
@@ -210,7 +210,7 @@ image:    "rMake-icon.svg"
  <p>Of note, this could cause weird situations. For example, I create a flow about responsible gun ownership. Somebody else may fork it and use the statistics chapter to support reckless gun ownership. In this case, I could end up getting paid from sales of the &ldquo;irresponsible&rdquo; book. At first, I found the thought more than a little distressing, but as Doug Kirkpatrick points out,</p>
  <h4>&ldquo;That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</h4>
  <h4>&ldquo;If a statistics book chapter is OPEN, therefore, it is subject to being applied by individuals to arguments with which we may disagree.</h4>
- <h4>&ldquo;I also think that books aren’t just about the writers, they’re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren’t always the lovely, objective things we assume them to be (see <a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=FKW6Y0VTHKGY7C3EM3YD">How to Lie with Statistics</a>).&rdquo;</h4>
+ <h4>&ldquo;I also think that books aren’t just about the writers, they’re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren’t always the lovely, objective things we assume them to be (see <a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=FKW6Y0VTHKGY7C3EM3YD">How to Lie with Statistics</a><a href="en09"><sup id="bm09">9&nbsp;</sup></a>).&rdquo;</h4>
 
 <h1>Publishing</h1>
  <p>The mythical &ldquo;book deal&rdquo; includes an advance that a publisher pays an author when the book is just an outline. For well-known authors and brand names (<em>e.g.</em>, ex-President Obama), that is still the case. The rest of us get, at best, a percent of sales minus all expenses, including returns,</p>
@@ -221,7 +221,7 @@ image:    "rMake-icon.svg"
   <li>They could even pay for preventing new flows for a period of time.</li>
  </ul>
  <p>This is ripe for experimentation.</p>
- <p>See <a href="https://docs.google.com/document/d/1mUlZB37Bb_cOMSqmZDqvlVGTnpoBcKNrfOdf8QcbCKM/edit#">PRADERA MEDIA</a> for more info.</p>
+ <p>See <a href="https://docs.google.com/document/d/1mUlZB37Bb_cOMSqmZDqvlVGTnpoBcKNrfOdf8QcbCKM/edit#">PRADERA MEDIA</a><a href="en10"><sup id="bm10">10&nbsp;</sup></a> for more info.</p>
 
 <h1>Use Modalities</h1>
 
@@ -279,11 +279,11 @@ image:    "rMake-icon.svg"
   <p>Same as a single writer, but in addition they need to,</p>
   <ul>
    <li>Fork the whole book as a separate flow.</li>
-   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or <a href="https://www.google.com/search?q=excursus&oq=excursus">excursus</a>.
-   <li>Create a <a href="https://en.wikipedia.org/wiki/Fork_and_pull_model">Pull Request</a> to 
+   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or <a href="https://www.google.com/search?q=excursus&oq=excursus">excursus</a>.<a href="en11"><sup id="bm11">11&nbsp;</sup></a>
+   <li>Create a <a href="https://en.wikipedia.org/wiki/Fork_and_pull_model">Pull Request</a><a href="en12"><sup id="bm12">12&nbsp;</sup></a> to 
     <ol>
      <li>Hold the discussion about a merge.</li>
-     <li>Record the final decision (merge, not merge).</li> 
+     <li>Record the final decision (to merge to not merge).</li> 
     </ol>
    </li>
    <li>Different versions of the content could invoke separate Pull Requests,
