@@ -95,7 +95,7 @@ image:    "pradera-background.svg"
  <p>Besides ownership and participation in the generated wealth, this is what people will get,</p>
  <table>
   <tr>
-   <td>Authors</td>
+   <th>Authors</th>
    <td>
     <ul>
      <li>Promotion and exposure of their ideas, of themselves, of their content.</li>
@@ -110,9 +110,7 @@ image:    "pradera-background.svg"
  <table>
  </table>
   <tr>
-   <td>
-    <p style="text-align: right">Content Editors, Layout Designers, Developers, Graphics Designers, Media Team, Producers</p>
-   </td>
+   <th>Content Editors, Layout Designers, Developers, Graphics Designers, Media Team, Producers</th>
    <td>
     <ul>
      <li>Doing what they love, without paying the <span class="_paradigm">FIAT</span> price.<li>
@@ -125,9 +123,7 @@ image:    "pradera-background.svg"
    <td colspan="2" class="_spacer"></td>
   </tr>
   <tr>
-   <td>
-    <p style="text-align: right">Translators, Verifiers</p>
-   </td>
+   <th>Translators, Verifiers</th>
    <td>
     <ul>
      <li>Learn what is perceived as a contribution.</li>
