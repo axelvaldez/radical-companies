@@ -182,9 +182,6 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
- </table>
- caca2
- <table>
   <tr>
    <th>Small Bookshops</th>
    <td>
@@ -201,9 +198,6 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
- </table>
- caca
- <table>
   <tr>
    <th>Big Book Chains</th>
    <td>
