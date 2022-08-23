@@ -126,7 +126,7 @@ image:    "rmake-icon.svg"
    <li>If ownership is marked as TBD, then anybody, say, PubCo, can <em>claim</em> ownership of a fragment and, assuming that they can prove it, PubCo would then be <em>assigned</em> as owner of the fragment.</li>
    <li>Authorship means that co-authors are responsible for its content.</li>
    <li>Ownership includes the power to decide on fragment merges.</li>
-   <li>Ownership does not imply exclusivity and anybody can copy any fragment in a flow at will. As noted, the fragment ownership goes along with it.
+   <li>Ownership does not imply exclusivity and anybody can copy any fragment in a flow at will. As noted, the fragment ownership goes along with it.</li>
    <li>Others can create their own flows with fragments authored by somebody else, say, me. The resulting content would indicate me as a co-author and the person doing the modification as another co-author.</li>
    <li>Using the <span class="_paradigm">RAD Distribution</span> model, revenue from, for example, consumer purchases or licenses, could be distributed to co-owners as a function of their ownership of the complete work.</li>
    <li>RADs account for level of contribution. The original author of the fragment could assign RADs to other co-authors or the whole thing could be automated based on, say, the number of words added.</li>
