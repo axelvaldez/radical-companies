@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "rMAKE"
-subtitle: "TEMPLATE"
+subtitle: "Making Books Like We Make Software"
 authors:  "Matt Perez"
 image:    "rmake-icon.svg"
 ---
