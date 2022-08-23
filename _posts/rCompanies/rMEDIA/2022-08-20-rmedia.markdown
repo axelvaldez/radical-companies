@@ -37,11 +37,11 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
- </table>
- <table>
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
+ </table>
+ <table>
   <tr>
    <td colspan="2" >Purpose</td>
   </tr>
