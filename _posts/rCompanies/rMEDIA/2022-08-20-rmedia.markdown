@@ -90,8 +90,6 @@ image:    "pradera-background.svg"
    <td colspan="2" class="_spacer"></td>
   </tr>
  </table>
- <table>
- </table>
 
 <h1>What's in It for &hellip;?</h1>
  <p>Besides ownership and participation in the generated wealth, this is what people will get,</p>
@@ -109,6 +107,8 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
+ <table>
+ </table>
   <tr>
    <td>
     <p style="text-align: right">Content Editors, Layout Designers, Developers, Graphics Designers, Media Team, Producers</p>
