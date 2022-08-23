@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "RADICAL MBA"
-subtitle: "Practice co-managing a co-owned company"
+title:    "rMBA"
+subtitle: "Learn Co-ownership and Co-management"
 authors:  "Matt Perez"
 image:    "PRADERA-background.svg"
 ---
