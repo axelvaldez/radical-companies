@@ -105,7 +105,6 @@ image:    "pradera-background.svg"
    </td>
   </tr>
  </table>
- caca1
  <table>
   <tr>
    <td colspan="2" class="_spacer"></td>
@@ -136,7 +135,7 @@ image:    "pradera-background.svg"
    <td colspan="2" class="_spacer"></td>
   </tr>
  </table>
- caca2
+ caca1
  <table>
   <tr>
    <td>
@@ -158,7 +157,7 @@ image:    "pradera-background.svg"
     <p style="text-align: right">Sales</p>
    </td>
  </table>
- caca
+ caca2
  <table>
    <td>
     <ul>
