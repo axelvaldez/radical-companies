@@ -241,9 +241,6 @@ image:    "pradera-background.svg"
    <tr>
     <td colspan="2" class="_spacer"></td>
    </tr>
- </table>
- caca
- <table>
    <tr>
     <th>Co-Editing</th>
     <td>
