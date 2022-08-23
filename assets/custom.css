@@ -262,15 +262,6 @@ td {
 }
 td._spacer {
   column-span:all;
-  font-size:x-small;
-}
-._spacer {
-  font-size:xx-small;
-  width:fit-content;
-}
-._spacer::after {
-  color:white;
-  content:"x";
 }
 ._list-item {
   margin-bottom:0.5em;
