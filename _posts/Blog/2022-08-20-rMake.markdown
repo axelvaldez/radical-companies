@@ -190,7 +190,7 @@ image:    "rMake-icon.svg"
       <li>For whatever reason, I slow down or stop working on the project.</li>
       <li>My co-authors keep going strong and create a lot of content for it.</li>
       <li>Other co-authors join.</li>
-      <li>That is fine. I continue to own the content I authored or co-own the content that I co-authored.</li>
+      <li>That is fine. I continue to own the content I authored and co-own any content that I co-authored.</li>
      </ul>
     </td>
    </tr>
