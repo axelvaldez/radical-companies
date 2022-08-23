@@ -23,7 +23,7 @@ image:    "pradera-background.svg"
 <h1>Alignment</h1>
  <table>
   <tr>
-   <td colspan="2" >Impact</td>
+   <th colspan="2" >Impact</th>
   </tr>
   <tr>
    <td>
