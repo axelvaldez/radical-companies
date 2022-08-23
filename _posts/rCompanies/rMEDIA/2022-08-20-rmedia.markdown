@@ -43,9 +43,7 @@ image:    "pradera-background.svg"
    <th colspan="2" style="text-align:center; ">Purpose</td>
   </tr>
   <tr>
-   <td>
-    <p style="text-align:center; ">Why?</p>
-   </td>
+   <th>Why?</th>
    <td>
     <ul>
      <li>We want the world to recognize the <span class="_paradigm">FIAT</span> conditions they live in.</li>
@@ -58,12 +56,10 @@ image:    "pradera-background.svg"
    <td colspan="2" class="_spacer"></td>
   </tr>
   <tr>
-   <td colspan="2">Mission</td>
+   <th colspan="2" style="text-align:center; ">Mission</td>
   </tr>
   <tr>
-   <td>
-    <p style="text-align:center; ">What?</p>
-   </td>
+   <th>What?</th>
    <td>
     <ul>
      <li>Become self-sustainable.</li>
