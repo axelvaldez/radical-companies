@@ -269,7 +269,7 @@ td._spacer {
   width:fit-content;
 }
 ._spacer::after {
-  content:" ";
+  color:white;
   content:"x";
 }
 ._list-item {
