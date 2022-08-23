@@ -7,11 +7,11 @@ image:    "pradera-background.svg"
 ---
 
 <div style="display: none;">
- <p></p>
+ <p>MoTown Records came to be because African American artists needed something fundamentally different than what the existing record labels offered. The existing labels were not capable of providing any of that.</p>
 </div>
 
 <h1>Intro</h1>
- <p>MoTown Records<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> came to be because Black American artists needed something fundamentally different than what the existing record labels offered.  MoTown promoted their music, their concept of music, their categories, and even their approach to it, more sensual and religious at the same time.  The existing labels were not capable of providing any of that, even with the best of intentions.</p>
+ <p>MoTown Records<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> came to be because African American artists needed something fundamentally different than what the existing record labels offered.  MoTown promoted their music, their concept of music, their categories, and even their approach to it, more sensual and religious at the same time.  The existing labels were not capable of providing any of that, even with the best of intentions.</p>
  <p>As MoTown was to Black artists and their music, <span class="_paradigm">rMEDIA</span> is to <span class="_paradigm">RADICAL</span> authors and themes.</p>
 
 <h1>Origin Story</h1>
