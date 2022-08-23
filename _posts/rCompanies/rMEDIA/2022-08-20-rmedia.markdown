@@ -104,12 +104,12 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
-  <tr>
-   <td colspan="2" class="_spacer"></td>
-  </tr>
  </table>
  caca
  <table>
+  <tr>
+   <td colspan="2" class="_spacer"></td>
+  </tr>
   <tr>
    <th>Content Editors, Layout Designers, Developers, Graphics Designers, Media Team, Producers</th>
    <td>
