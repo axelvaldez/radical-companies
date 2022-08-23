@@ -31,9 +31,8 @@ image:    "pradera-background.svg"
    </td>
    <td>
     <ul>
-     <li>Create a source of information about the <span class="_paradigm">RADICAL</span>.
-     <li>rMedia becomes the MoTown  of <span class="_paradigm">RADICAL</span> content.
-     </li>
+     <li>Create a source of information about the <span class="_paradigm">RADICAL</span>.</li>
+     <li>rMedia becomes the MoTown  of <span class="_paradigm">RADICAL</span> content.</li>
     </ul>
    </td>
   </tr>
