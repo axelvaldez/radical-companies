@@ -240,7 +240,7 @@ image:    "pradera-background.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2" class="_spacer"></td>
+    <td colspan="2" class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Co-Editing</th>
@@ -251,7 +251,7 @@ image:    "pradera-background.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2" class="_spacer"></td>
+    <td colspan="2" class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Copy Editing</th>
@@ -262,7 +262,7 @@ image:    "pradera-background.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2" class="_spacer"></td>
+    <td colspan="2" class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Book Cover Design</th>
@@ -273,7 +273,7 @@ image:    "pradera-background.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2" class="_spacer"></td>
+    <td colspan="2" class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Book Layout</th>
@@ -284,7 +284,7 @@ image:    "pradera-background.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2" class="_spacer"></td>
+    <td colspan="2" class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Text Formatting</th>
@@ -295,7 +295,7 @@ image:    "pradera-background.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2" class="_spacer"></td>
+    <td colspan="2" class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>ISBNs</th>
@@ -306,7 +306,7 @@ image:    "pradera-background.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2" class="_spacer"></td>
+    <td colspan="2" class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Translations</th>
@@ -317,7 +317,7 @@ image:    "pradera-background.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2" class="_spacer"></td>
+    <td colspan="2" class="_spacer">&nbsp;</td>
    </tr>
   </table>
   <p>At one end, authors could use the help of <span class="_paradigm">rMEDIA</span>; at the other they could do it themselves using the <span class="_paradigm">rMEDIA</span> infrastructure. Most likely they would choose a combination of these. For example, translations work better when the author works in tandem with the translator because the author can, in real time, clarify tricky phrasing, explain idiomatic phrases, or the why of a difficult paragraph.</p>
@@ -333,7 +333,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2" class="_spacer"></td>
+   <td colspan="2" class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th><span class="_paradigm">RADICAL</span> funding</th>
@@ -344,7 +344,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2" class="_spacer"></td>
+   <td colspan="2" class="_spacer">&nbsp;</td>
   </tr>
  </table>
 <h2>Promoting</h2>
@@ -360,7 +360,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2" class="_spacer"></td>
+   <td colspan="2" class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Video</th>
@@ -373,7 +373,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2" class="_spacer"></td>
+   <td colspan="2" class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Social Media</th>
@@ -385,7 +385,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2" class="_spacer"></td>
+   <td colspan="2" class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Advertising</th>
@@ -396,7 +396,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2" class="_spacer"></td>
+   <td colspan="2" class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Fame to Fortune</th>
@@ -409,7 +409,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2" class="_spacer"></td>
+   <td colspan="2" class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th><span class="_paradigm">rLIVE</span></th>
@@ -420,7 +420,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2" class="_spacer"></td>
+   <td colspan="2" class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>In-store Promos</th>
@@ -431,7 +431,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2" class="_spacer"></td>
+   <td colspan="2" class="_spacer">&nbsp;</td>
   </tr>
  </table>
  <h2>Sales</h2>
@@ -449,7 +449,7 @@ image:    "pradera-background.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2" class="_spacer"></td>
+    <td colspan="2" class="_spacer">&nbsp;</td>
    </tr>
   </table>
 
