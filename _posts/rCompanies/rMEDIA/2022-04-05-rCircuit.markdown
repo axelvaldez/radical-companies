@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "rCircuit"
-subtitle: "RADICAL GROWTH!"
+subtitle: "Growth in the RADICAL Model!"
 authors:  "Matt Perez"
 image:    "pradera-background.svg"
 ---
