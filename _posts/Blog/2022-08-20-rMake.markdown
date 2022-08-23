@@ -219,7 +219,7 @@ image:    "rMake-icon.svg"
  <p>They could, alternatively, create a Copied flow, where every fragment is a static copy of the original fragment. Changes in the original fragments would not be reflected in the new flow.</p>
  <div style="text-align:center; ">
   <img
-   src="/assets/img/rmake-flow-all.svg"
+   src="/assets/img/rmake-new-flow.svg"
    width="70%"
    alt="">
  </div>
