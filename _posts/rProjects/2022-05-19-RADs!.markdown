@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "RADs!"
-subtitle: "Keeping Track (App)"
+title:    "RADs! (app)"
+subtitle: "Making It Easy to Give and Recieve RADs"
 authors:  "Matt Perez"
 image:    "pradera-background.svg"
 ---
