@@ -162,7 +162,7 @@ image:    "pradera-background.svg"
    <td colspan="2" class="_spacer"></td>
   </tr>
   <tr>
-   <th>Printers</td>
+   <th>Printers</th>
    <td>
     <ul>
      <li>Learning to take the friction out of printing books.</li>
