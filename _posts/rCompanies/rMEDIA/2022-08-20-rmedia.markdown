@@ -399,9 +399,9 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <th>Fame to Fortune</th>
-   <td>Place authors as,
+   <td>
     <ul>
-     <li>Keynotes, featured speakers.</li>
+     <li>Place authors as keynotes, featured speakers.</li>
      <li>Podcast guests.</li>
      <li>The voice of courses and workshops.</li>
     </ul>
