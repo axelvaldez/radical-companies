@@ -62,7 +62,7 @@ image:    "rMake-icon.svg"
       <li>It keeps a history of the document where you can see all the edits ever made to a page as well as the discussions between the page editor and other contributors.</li>
       <li>Various writers can work asynchronously (not quite in parallel).</li>
       <li>It is Open Source.</li>
-      <li>It has pretty good <a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">documentation for developers</a>.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></li>
+      <li>It has pretty good documentation for developers.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></li>
      </ul>
     </td>
    </tr>
@@ -115,11 +115,7 @@ image:    "rMake-icon.svg"
  </table>
 
 <h1>Then Came rMake!</h1>
- <p>In the end, we opted to create a new app we call rMake<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries (<em>e.g.</em>, diff) that we can use in the making of rMake.<a href="#en06"><sup id="bm06">6&nbsp;</sup></a></p>
- <div style="font-family:Courier; ">
- For the backend, we were planning to use _Prtcl, an OSS project, based on blockchain, which very much aligned with our goals.
- <<a href="https://github.com/uprtcl">&hellip;/_prtcl</a>>
- </div>
+ <p>In the end, we opted to create a new app we call rMake as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries that we can use in the making of rMake (<em>e.g.</em>, diff).<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
  <h2>No Trunk</h2>
   <p>In rMake <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
   <p>These flows are fully rendered and at any point in time, a reader would be able to see any. Perhaps one flow is recommended by readers more than the others, but all flows will still be around for readers to explore.</p>
@@ -130,7 +126,7 @@ image:    "rMake-icon.svg"
    <li>If ownership is marked as TBD, then anybody, say, PubCo, can <em>claim</em> ownership of a fragment and, assuming that they can prove it, PubCo would then be <em>assigned</em> as owner of the fragment.</li>
    <li>Authorship means that co-authors are responsible for its content.</li>
    <li>Ownership includes the power to decide on fragment merges.</li>
-   <li>Ownership does not imply exclusivity and anybody can copy any fragment in a flow at will. As noted, the fragment ownership goes along with it.<a href="#en07"><sup id="bm07">7&nbsp;</sup></a></li>
+   <li>Ownership does not imply exclusivity and anybody can copy any fragment in a flow at will. As noted, the fragment ownership goes along with it.
    <li>Others can create their own flows with fragments authored by somebody else, say, me. The resulting content would indicate me as a co-author and the person doing the modification as another co-author.</li>
    <li>Using the <span class="_paradigm">RAD Distribution</span> model, revenue from, for example, consumer purchases or licenses, could be distributed to co-owners as a function of their ownership of the complete work.</li>
    <li>RADs account for level of contribution. The original author of the fragment could assign RADs to other co-authors or the whole thing could be automated based on, say, the number of words added.</li>
@@ -229,7 +225,7 @@ image:    "rMake-icon.svg"
   <div class="_quotation">
    <p>That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</p>
    <p>If a statistics book chapter is OPEN, therefore, it is subject to being applied by individuals to arguments with which we may disagree.</p>
-   <p>I also think that books aren’t just about the writers, they’re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren’t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics</em><a href="#en08"><sup id="bm08">8&nbsp;</sup></a>).</p>
+   <p>I also think that books aren’t just about the writers, they’re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren’t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics</em><a href="#en06"><sup id="bm06">6&nbsp;</sup></a>).</p>
   </div>
 
 <h1>Publishing</h1>
@@ -303,9 +299,9 @@ image:    "rMake-icon.svg"
   <p style="margin-bottom:0; ">Same as a single writer, but in addition they need to,</p>
   <ul>
    <li>Fork the whole book as a separate flow.</li>
-   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or <a href="https://www.google.com/search?q=excursus&oq=excursus">excursus</a>.<a href="#en10"><sup id="bm10">10&nbsp;</sup></a></li>
+   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or excursus.<a href="#en07"><sup id="bm07">7&nbsp;</sup></a></li>
    <li>
-    <p style="margin-bottom:0; ">Create a <a href="https://en.wikipedia.org/wiki/Fork_and_pull_model">Pull Request</a><a href="#en11"><sup id="bm11">11&nbsp;</sup></a> to,</p>
+    <p style="margin-bottom:0; ">Create a Pull Request<a href="#en11"><sup id="bm11">11&nbsp;</sup></a> to,</p>
     <ol>
      <li>Hold the discussion about a merge.</li>
      <li>Record the final decision (to merge to not merge).</li> 
@@ -403,57 +399,50 @@ image:    "rMake-icon.svg"
    </p>
   </li>
   <li id="en02">
-   <p class="_list-item" >
+   <p class="_list-item">
     <em>MediaWiki</em>.
     <<a href="https://www.mediawiki.org/wiki/MediaWiki">https://www.mediawiki.org/wiki/MediaWiki</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
-   <p class="_list-item" >
+   <p class="_list-item">
     <em>Source Control System</em>.
     <<a href="https://en.wikipedia.org/wiki/Source_Code_Control_System" target="_blank">https://en.wikipedia.org/wiki/Source_Code_Control_System</a>>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en04">
-   <p class="_list-item" >
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
+   <p class="_list-item">
+    <em>documentation for developers</em>.
+    <<a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">https://mediawiki.org/$hellip/How_to_become_a_MediaWiki_hacker</a>>
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en05">
-   <p class="_list-item" >
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
+ </div>
+   <p class="_list-item">
+    For the backend, we were planning to use _Prtcl, an OSS projec. Unfortunately, _prtcl is no more. It was based on blockchain and very much aligned with our goals.
+    <<a href="https://github.com/uprtcl">https://github.com/uprtcl</a>>
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en06">
-   <p class="_list-item" >
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
+   <p class="_list-item">
+    Definition of &ldquo;excursus&rdquo;.
+    <<a href="https://www.google.com/search?q=excursus&oq=excursus">excursus</a>>
     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en07">
-   <p class="_list-item" >
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
+   <p class="_list-item">
+    Definition of &ldquo;Pull Request&rdquo;.
+    <<a href="https://en.wikipedia.org/wiki/Fork_and_pull_model">Pull Request</a>>
     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en08">
-   <p class="_list-item" >
+   <p class="_list-item">
     AUTHOR(S).
     <em>TITLE.</em>
     199
@@ -462,7 +451,7 @@ image:    "rMake-icon.svg"
    </p>
   </li>
   <li id="en09">
-   <p class="_list-item" >
+   <p class="_list-item">
     Darrell Huff and Irving Gels.
     <em>How to Lie with Statics-Darrel-Huff</em>
     1993.
@@ -471,21 +460,12 @@ image:    "rMake-icon.svg"
    </p>
   </li>
   <li id="en10">
-   <p class="_list-item" >
+   <p class="_list-item">
     Matt Perez.
     <em>rMEDIA</em>.
     2021.
     <<a href="#">&hellip;/rMEDIA</a>>
     <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en11">
-   <p class="_list-item" >
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
-    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
