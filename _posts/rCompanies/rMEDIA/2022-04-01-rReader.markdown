@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "PRADERA Reader"
-subtitle: "A PRADERA MEDIA Tool"
+title:    "rReader"
+subtitle: "An rMEDIA Reader"
 authors:  "Matt Perez"
 image:    "PRADERA-background.svg"
 ---
