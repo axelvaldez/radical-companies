@@ -20,7 +20,7 @@ image:    "pradera-background.svg"
  <p>As publisher Joshua Volpara says it, “The important thing, to me, is not that publishers own the ISBN but that authors have granted [them] the right to economic exploitation over the work without limits of time, markets and even formats (<em>e.g.</em>, ebooks) or by-products (<em>e.g.</em>, movie screen-plays). Many times these limits are too loose and the deal becomes unfair.”</p>
  <p>And, worse, the book’s message doesn’t spread widely.</p>
 
-</h1>Alignment</h1>
+<h1>Alignment</h1>
  <table>
   <tr>
    <td colspan="2" >Impact</td>
