@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "rMedia"
+title:    "rMEDIA"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "pradera-background.svg"
@@ -12,7 +12,7 @@ image:    "pradera-background.svg"
 
 <h1>Intro</h1>
  <p>MoTown Records<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> came to be because Black American artists needed something fundamentally different than what the existing record labels offered.  MoTown promoted their music, their concept of music, their categories, and even their approach to it, more sensual and religious at the same time.  The existing labels were not capable of providing any of that, even with the best of intentions.</p>
- <p>As MoTown was to Black artists and their music, <span class="_paradigm">rMedia</span> is to <span class="_paradigm">RADICAL</span> authors and themes.</p>
+ <p>As MoTown was to Black artists and their music, <span class="_paradigm">rMEDIA</span> is to <span class="_paradigm">RADICAL</span> authors and themes.</p>
 <h1>Origin Story</h1>
  <p>The way it works now, publishers license your content and take on all the risk in exchange for selling your content under their ISBN.  You own the content, they own <em>only</em> the ISBN. The publisher also owns the brand which they have built over many years and this imprimatur shines a light on your content. At least, that’s the historical narrative, but today it has evolved into something different.</p>
  <p>Long story short, most authors make very little or no money from the sales of the book.  According to author Chuck Blakeman, “commissions are absurdly low, 8-11% generally. They can be delayed up to 30 months, after printing, distribution, and 12 months in bookstores.  Essentially, you become the bank for the publishers.” The publisher may or may not invest in any promotion.  In many cases, the publisher uses the content as a trial balloon, to see if it has traction.  If it does, they invest in promoting it, make a lot of money, and you may get some minor fame out of it and some speaking and consulting gigs.  If your content doesn’t show traction, then… that’s that.</p>
@@ -30,7 +30,7 @@ image:    "pradera-background.svg"
    <td>
     <ul>
      <li>Create a source of information about the <span class="_paradigm">RADICAL</span>.</li>
-     <li>rMedia becomes the MoTown  of <span class="_paradigm">RADICAL</span> content.</li>
+     <li>rMEDIA becomes the MoTown  of <span class="_paradigm">RADICAL</span> content.</li>
     </ul>
    </td>
   </tr>
@@ -99,7 +99,7 @@ image:    "pradera-background.svg"
    <td>
     <ul>
      <li>Promotion and exposure of their ideas, of themselves, of their content.</li>
-     <li>Being a <span class="_paradigm">rMedia</span> author (<em>i.e.</em>, progressive, future positive).</li>
+     <li>Being an <span class="_paradigm">rMEDIA</span> author (<em>i.e.</em>, progressive, future positive).</li>
      <li>Thought leader of a recognized trope.</li>
     </ul>
    </td>
@@ -233,7 +233,7 @@ image:    "pradera-background.svg"
    <td>
     <ul>
      <li>Be associated with a  unique, easily identifiable brand that belongs to all who contribute.</li>
-     <li>They’ll have to win <span class="_paradigm">rMedia</span>&rsquo;s endorsement the <span class="_paradigm">FIAT</span> way. Unless they flip to the <span class="_paradigm">RADICAL</span> paradigm.</li>
+     <li>They’ll have to win <span class="_paradigm">rMEDIA</span>&rsquo;s endorsement the <span class="_paradigm">FIAT</span> way. Unless they flip to the <span class="_paradigm">RADICAL</span> paradigm.</li>
     </ul>
    </td>
   </tr>
@@ -242,12 +242,12 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right"><span class="_paradigm">rMedia</span></p>
+    <p style="text-align: right"><span class="_paradigm">rMEDIA</span></p>
    </td>
    <td>
     <ul>
      <li>A much needed service centered on people to spread healing ideas, create content, and distribute it all far, wide. and fast.</li>
-     <li><span class="_paradigm">rMedia</span> becomes a unique, easily recognized brand.</li>
+     <li><span class="_paradigm">rMEDIA</span> becomes a unique, easily recognized brand.</li>
     </ul>
    </td>
   </tr>
@@ -370,7 +370,7 @@ image:    "pradera-background.svg"
     <td colspan="2" class="_spacer"></td>
    </tr>
   </table>
-  <p>At one end, authors could use the help of <span class="_paradigm">rMedia</span>; at the other they could do it themselves using the <span class="_paradigm">rMedia</span> infrastructure. Most likely they would choose a combination of these. For example, translations work better when the author works in tandem with the translator because the author can, in real time, clarify tricky phrasing, explain idiomatic phrases, or the why of a difficult paragraph.</p>
+  <p>At one end, authors could use the help of <span class="_paradigm">rMEDIA</span>; at the other they could do it themselves using the <span class="_paradigm">rMEDIA</span> infrastructure. Most likely they would choose a combination of these. For example, translations work better when the author works in tandem with the translator because the author can, in real time, clarify tricky phrasing, explain idiomatic phrases, or the why of a difficult paragraph.</p>
  <h2>Funding</h2>
   <table>
    <tr>
