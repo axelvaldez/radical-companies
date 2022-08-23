@@ -37,8 +37,6 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
- </table>
- <table>
   <tr>
    <th colspan="2" style="text-align:center; ">Purpose</td>
   </tr>
