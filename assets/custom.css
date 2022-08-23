@@ -263,6 +263,9 @@ td {
 td._spacer {
   column-span:all;
 }
+td.p {
+  margin-bottom:0;
+}
 ._spacer {
   font-size:xx-small;
 }
