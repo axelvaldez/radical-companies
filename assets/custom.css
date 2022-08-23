@@ -7,7 +7,6 @@ html{
   --color-acc-2: #ED8849;
   --color-text: #011616;
   --color-light: #fff;
-  --blank: &nbsp;
   font-size: 20px;
 }
 
@@ -270,7 +269,7 @@ td._spacer {
   width:fit-content;
 }
 ._spacer::after {
-  content:--blank;
+  content:" ";
 }
 ._list-item {
   margin-bottom:0.5em;
