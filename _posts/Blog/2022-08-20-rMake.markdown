@@ -420,7 +420,6 @@ image:    "rMake-icon.svg"
    </p>
   </li>
   <li id="en05">
- </div>
    <p class="_list-item">
     For the backend, we were planning to use _Prtcl, an OSS projec. Unfortunately, _prtcl is no more. It was based on blockchain and very much aligned with our goals.
     <<a href="https://github.com/uprtcl">https://github.com/uprtcl</a>>
