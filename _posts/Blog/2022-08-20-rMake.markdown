@@ -241,7 +241,7 @@ image:    "rMake-icon.svg"
 
 <h1 class="_section">Use Modalities</h1>
 
-<h1 class="_section">Contributions</h1>
+<h1>Contributions</h1>
  <p>Contributions come in three flavors: suggestions, rewrites, and additions.</p>
  <table>
   <tr>
