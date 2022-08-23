@@ -104,9 +104,6 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
- </table>
- cacaca
- <table>
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
