@@ -266,7 +266,7 @@ td._spacer {
   font-size:x-small;
 }
 ._spacer {
-  font-size:x-small;
+  font-size:xx-small;
   width:fit-content;
 }
 ._spacer::after {
