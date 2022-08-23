@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "rPlayGym"
-subtitle: "PEOPLE GROWTH, TEAM GROWTH"
+subtitle: "People Growth, Team Growth"
 authors:  "Matt Perez"
 image:    "pradera-background.svg"
 ---
