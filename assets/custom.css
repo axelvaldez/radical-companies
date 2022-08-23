@@ -270,7 +270,7 @@ td._spacer {
 }
 ._spacer::after {
   content:" ";
-  content:"CACA";
+  content:&nbsp;
 }
 ._list-item {
   margin-bottom:0.5em;
