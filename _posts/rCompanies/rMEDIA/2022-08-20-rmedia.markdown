@@ -12,10 +12,10 @@ image:    "pradera-background.svg"
 
 <h1>Intro</h1>
  <p>MoTown Records<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> came to be because Black American artists needed something fundamentally different than what the existing record labels offered.  MoTown promoted their music, their concept of music, their categories, and even their approach to it, more sensual and religious at the same time.  The existing labels were not capable of providing any of that, even with the best of intentions.</p>
- <p>As MoTown was to Black artists and their music, rMedia is to RADICAL authors and themes.</p>
+ <p>As MoTown was to Black artists and their music, <span class="_paradigm">rMedia</span> is to <span class="_paradigm">RADICAL</span> authors and themes.</p>
 <h1>Origin Story</h1>
- <p>The way it works now, publishers license your content and take on all the risk in exchange for selling your content under their ISBN.  You own the content, they own <em>only</em> the ISBN.  The publisher also owns the brand which they have built over many years and this imprimatur shines a light on your content. At least, that’s the historical narrative, but today it has evolved into something different.</p>
- <p>Long story short, most authors make very little or no money from the sales of the book.  According to author Chuck Blakeman, “commissions are absurdly low, 8-11% generally.  They can be delayed up to 30 months, after printing, distribution, and 12 months in bookstores.  Essentially, you become the bank for the publishers.” The publisher may or may not invest in any promotion.  In many cases, the publisher uses the content as a trial balloon, to see if it has traction.  If it does, they invest in promoting it, make a lot of money, and you may get some minor fame out of it and some speaking and consulting gigs.  If your content doesn’t show traction, then… that’s that.</p>
+ <p>The way it works now, publishers license your content and take on all the risk in exchange for selling your content under their ISBN.  You own the content, they own <em>only</em> the ISBN. The publisher also owns the brand which they have built over many years and this imprimatur shines a light on your content. At least, that’s the historical narrative, but today it has evolved into something different.</p>
+ <p>Long story short, most authors make very little or no money from the sales of the book.  According to author Chuck Blakeman, “commissions are absurdly low, 8-11% generally. They can be delayed up to 30 months, after printing, distribution, and 12 months in bookstores.  Essentially, you become the bank for the publishers.” The publisher may or may not invest in any promotion.  In many cases, the publisher uses the content as a trial balloon, to see if it has traction.  If it does, they invest in promoting it, make a lot of money, and you may get some minor fame out of it and some speaking and consulting gigs.  If your content doesn’t show traction, then… that’s that.</p>
  <p>No matter, your book’s ISBN still belongs to them.  You “own” the content, but the publisher is the only one who can sell it.   According to Blakeman, “they own the ability to distribute [your content] for at least five years and you have no say in the use of it.”</p>
  <p>As publisher Joshua Volpara says it, “The important thing, to me, is not that publishers own the ISBN but that authors have granted [them] the right to economic exploitation over the work without limits of time, markets and even formats (<em>e.g.</em>, ebooks) or by-products (<em>e.g.</em>, movie screen-plays). Many times these limits are too loose and the deal becomes unfair.”</p>
  <p>And, worse, the book’s message doesn’t spread widely.</p>
@@ -31,8 +31,8 @@ image:    "pradera-background.svg"
    </td>
    <td>
     <ul>
-     <li>Create a source of information about the RADICAL.
-     <li> rMedia becomes the MoTown  of RADICAL content.
+     <li>Create a source of information about the <span class="_paradigm">RADICAL</span>.
+     <li>rMedia becomes the MoTown  of <span class="_paradigm">RADICAL</span> content.
      </li>
     </ul>
    </td>
@@ -49,9 +49,9 @@ image:    "pradera-background.svg"
    </td>
    <td>
     <ul>
-     <li>We want the world to recognize the FIAT conditions they live in.</li>
-     <li>Give people a choice to move away from FIAT and towards a RADICAL world.</li>
-     <li>To spread RADICAL-like ideas sooner, faster, and without debilitating compromises.</li>
+     <li>We want the world to recognize the <span class="_paradigm">FIAT</span> conditions they live in.</li>
+     <li>Give people a choice to move away from <span class="_paradigm">FIAT</span> and towards a <span class="_paradigm">RADICAL</span> world.</li>
+     <li>To spread <span class="_paradigm">RADICAL</span>-like ideas sooner, faster, and without debilitating compromises.</li>
     </ul>
    </td>
   </tr>
@@ -68,7 +68,7 @@ image:    "pradera-background.svg"
    <td>
     <ul>
      <li>Become self-sustainable.</li>
-     <li>Organized as a RADICAL company.  Everybody who contributes (<em>e.g.</em>, authors, distributors, printers) participates in its ownership and the wealth it generates.</li>
+     <li>Organized as a <span class="_paradigm">RADICAL</span> company.  Everybody who contributes (<em>e.g.</em>, authors, distributors, printers) participates in its ownership and the wealth it generates.</li>
     </ul>
    </td>
   </tr>
@@ -110,7 +110,7 @@ image:    "pradera-background.svg"
    <td>
     <ul>
      <li>Promotion and exposure of their ideas, of themselves, of their content.</li>
-     <li>Being a rMedia author (<em>i.e.</em>, progressive, future positive).</li>
+     <li>Being a <span class="_paradigm">rMedia</span> author (<em>i.e.</em>, progressive, future positive).</li>
      <li>Thought leader of a recognized trope.</li>
     </ul>
    </td>
@@ -124,7 +124,7 @@ image:    "pradera-background.svg"
    </td>
    <td>
     <ul>
-     <li>Doing what they love, without paying the FIAT price.<li>
+     <li>Doing what they love, without paying the <span class="_paradigm">FIAT</span> price.<li>
      <li>Doing it with a team of co-owners, responsible to each other.<li>
      <li>Able to experiment with the support of the team.</li>
     </ul>
@@ -138,13 +138,10 @@ image:    "pradera-background.svg"
     <p style="text-align: right">Translators, Verifiers</p>
    </td>
    <td>
-<ul>
-
-<li>Learn what is perceived as a contribution.
-
-<li>Champion your own notion of what represents a contribution from a translator or a verifier.
-</li>
-</ul>
+    <ul>
+     <li>Learn what is perceived as a contribution.</li>
+     <li>Champion your own notion of what represents a contribution from a translator or a verifier.</li>
+    </ul>
    </td>
   </tr>
   <tr>
@@ -155,15 +152,11 @@ image:    "pradera-background.svg"
     <p style="text-align: right">Marketing</p>
    </td>
    <td>
-<ul>
-
-<li>Learning from the ability to experiment with various media, different messages.
-
-<li>Spreading the RADICAL story, their story.
-
-<li>Experimenting with different ways of getting the message out.
-</li>
-</ul>
+    <ul> 
+     <li>Learning from the ability to experiment with various media, different messages.</li>
+     <li>Spreading the <span class="_paradigm">RADICAL</span> story, their story.</li>
+     <li>Experimenting with different ways of getting the message out.</li>
+    </ul>
    </td>
   </tr>
   <tr>
@@ -174,15 +167,11 @@ image:    "pradera-background.svg"
     <p style="text-align: right">Sales</p>
    </td>
    <td>
-<ul>
-
-<li>Learning from listening to different types of buyers.
-
-<li>Learning what it takes to turn them into evangelists, not just book sellers.
-
-<li>Spreading the RADICAL story, their story..
-</li>
-</ul>
+    <ul>
+     <li>Learning from listening to different types of buyers.</li>
+     <li>Learning what it takes to turn them into evangelists, not just book sellers.</li>
+     <li>Spreading the <span class="_paradigm">RADICAL</span> story, their story.</li>
+    </ul>
    </td>
   </tr>
   <tr>
@@ -193,13 +182,10 @@ image:    "pradera-background.svg"
     <p style="text-align: right">Printers</p>
    </td>
    <td>
-<ul>
-
-<li>Learning to take the friction out of printing books.
-
-<li>They’ll hear, “we’ll help you compete with Amazon.”
-</li>
-</ul>
+    <ul>
+     <li>Learning to take the friction out of printing books.</li>
+     <li>They’ll hear, “we’ll help you compete with Amazon.”</li>
+    </ul>
    </td>
   </tr>
   <tr>
@@ -210,13 +196,10 @@ image:    "pradera-background.svg"
     <p style="text-align: right">Distributors</p>
    </td>
    <td>
-<ul>
-
-<li>Learning to take the friction out of book distribution.
-
-<li>They’ll hear, “we’ll help you compete with Amazon.”
-</li>
-</ul>
+    <ul>
+     <li>Learning to take the friction out of book distribution.</li>
+     <li>They’ll hear, “we’ll help you compete with Amazon.”</li>
+    </ul>
    </td>
   </tr>
   <tr>
@@ -245,13 +228,10 @@ image:    "pradera-background.svg"
     <p style="text-align: right">Big Book Chains</p>
    </td>
    <td>
-<ul>
-
-<li>Be associated with a  unique, easily identifiable brand that belongs to all who contribute.
-
-<li>They’ll have to win rMedia‘s endorsement the FIAT way. Unless they flip to the RADICAL paradigm.
-</li>
-</ul>
+    <ul>
+     <li>Be associated with a  unique, easily identifiable brand that belongs to all who contribute.</li>
+     <li>They’ll have to win <span class="_paradigm">rMedia</span>&rsquo;s endorsement the <span class="_paradigm">FIAT</span> way. Unless they flip to the <span class="_paradigm">RADICAL</span> paradigm.</li>
+    </ul>
    </td>
   </tr>
   <tr>
@@ -259,182 +239,143 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-<strong><code>rMedia</code></strong></p>
-</h3>
-
-
+    <p style="text-align: right"><span class="_paradigm">rMedia</span></p>
    </td>
    <td>
-<ul>
-
-<li>A much needed service centered on people to spread healing ideas, create content, and distribute it all far, wide. and fast.
-
-<li>rMedia becomes a unique, easily recognized brand.
-</li>
-</ul>
+    <ul>
+     <li>A much needed service centered on people to spread healing ideas, create content, and distribute it all far, wide. and fast.</li>
+     <li><span class="_paradigm">rMedia</span> becomes a unique, easily recognized brand.</li>
+    </ul>
    </td>
   </tr>
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
 </table>
-
-
 
 </h1>From Cradle to Sales</h1>
-<h2>Book Preparation</h2>
-
-
-
-<table>
-  <tr>
-   <td>
-    <p style="text-align: right">Onboarding</p>
-   </td>
-   <td>
-<ul>
-
-<li>Teach new authors about the process. Point out that it will take lots of reviewing over and over.
-
-<li>Profile the authors to co-figure out how much of the work below they are willing/capable to do.
-
-<li>Training in the use of new tools (<em>e.g.</em>, InDesign, Jutoh, PRADERA MAKE).
-
-<li>Mentoring (<em>i.e.</em>, tools to find  an experienced author).
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" class="_spacer"></td>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align: right">Co-Editing</p>
-   </td>
-   <td>
-<ul>
-
-<li>With an experienced editor from anywhere in the world.
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" class="_spacer"></td>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align: right">Copy Editing</p>
-   </td>
-   <td>
-<ul>
-
-<li>With copy editors from anywhere in the world.
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" class="_spacer"></td>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align: right">Book Cover Co-Design</p>
-   </td>
-   <td>
-<ul>
-
-<li>With designers from anywhere in the world.
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" class="_spacer"></td>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align: right">Book Layout</p>
-   </td>
-   <td>
-<ul>
-
-<li>With layout book designers  from anywhere in the world.
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" class="_spacer"></td>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align: right">Text Formatting</p>
-   </td>
-   <td>
-<ul>
-
-<li>With skilled people from anywhere in the world.
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" class="_spacer"></td>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align: right">ISBNs</p>
-   </td>
-   <td>
-<ul>
-
-<li>Acquisition and assignment of ISBN numbers.
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" class="_spacer"></td>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align: right">Translations</p>
-   </td>
-   <td>
-<ul>
-
-<li>With translators from anywhere in the world.
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" class="_spacer"></td>
-  </tr>
-</table>
-
-
- <p>At one end, authors could outsource this work to PRADERIANs; at the other they could do it themselves using the [r]PRADERAmedia infrastructure. Most likely they would choose a combination of these. For example, translations work better when the author works in tandem with the translator because the author can, in real time, clarify tricky phrasing, explain idiomatic phrases, or the why of a difficult paragraph.</p>
-<h2>Funding</h2>
-
-
-
-<table>
-  <tr>
-   <td>
-    <p style="text-align: right">Crowdfunding</p>
-   </td>
-   <td>
-<ul>
-
-<li>Provides the equivalent of an “advance” for co-authors who need the support upfront.
-
-<li>Used to test the effectiveness of different types of promotions, descriptions, tags, etc.
-</li>
-</ul>
+ <h2>Book Preparation</h2>
+  <table>
+   <tr>
+    <td>
+     <p style="text-align: right">Onboarding</p>
+    </td>
+    <td>
+     <ul>
+      <li>Teach new authors about the process. Point out that it will take lots of reviewing over and over.</li>
+      <li>Profile the authors to co-figure out how much of the work below they are willing/capable to do.</li>
+      <li>Training in the use of new tools (<em>e.g.</em>, InDesign, Jutoh, rMake).</li>
+      <li>Mentoring (<em>i.e.</em>, tools to find  an experienced author).</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" class="_spacer"></td>
+   </tr>
+   <tr>
+    <td>
+     <p style="text-align: right">Co-Editing</p>
+    </td>
+    <td>
+     <ul>
+      <li>With an experienced editor from anywhere in the world.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" class="_spacer"></td>
+   </tr>
+   <tr>
+    <td>
+     <p style="text-align: right">Copy Editing</p>
+    </td>
+    <td>
+     <ul>
+      <li>With copy editors from anywhere in the world.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" class="_spacer"></td>
+   </tr>
+   <tr>
+    <td>
+     <p style="text-align: right">Book Cover Co-Design</p>
+    </td>
+    <td>
+     <ul>
+      <li>With designers from anywhere in the world.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" class="_spacer"></td>
+   </tr>
+   <tr>
+    <td>
+     <p style="text-align: right">Book Layout</p>
+    </td>
+    <td>
+     <ul>
+      <li>With layout book designers  from anywhere in the world.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" class="_spacer"></td>
+   </tr>
+   <tr>
+    <td>
+     <p style="text-align: right">Text Formatting</p>
+    </td>
+    <td>
+     <ul>
+      <li>With skilled people from anywhere in the world.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" class="_spacer"></td>
+   </tr>
+   <tr>
+    <td>
+     <p style="text-align: right">ISBNs</p>
+    </td>
+    <td>
+     <ul>
+      <li>Acquisition and assignment of ISBN numbers.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" class="_spacer"></td>
+   </tr>
+   <tr>
+    <td>
+     <p style="text-align: right">Translations</p>
+    </td>
+    <td>
+     <ul>
+      <li>With translators from anywhere in the world.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" class="_spacer"></td>
+   </tr>
+  </table>
+  <p>At one end, authors could use the help of <span class="_paradigm">rMedia</span>; at the other they could do it themselves using the <span class="_paradigm">rMedia</span> infrastructure. Most likely they would choose a combination of these. For example, translations work better when the author works in tandem with the translator because the author can, in real time, clarify tricky phrasing, explain idiomatic phrases, or the why of a difficult paragraph.</p>
+ <h2>Funding</h2>
+  <table>
+   <tr>
+    <td>
+     <p style="text-align: right">Crowdfunding</p>
+    </td>
+    <td>
+     <ul>
+      <li>Provides the equivalent of an “advance” for co-authors who need the support upfront.</li>
+      <li>Used to test the effectiveness of different types of promotions, descriptions, tags, etc.</li>
+     </ul>
    </td>
   </tr>
   <tr>
@@ -442,7 +383,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">RADICAL funding</p>
+    <p style="text-align: right"><span class="_paradigm">RADICAL</span> funding</p>
    </td>
    <td>
 <ul>
@@ -538,15 +479,11 @@ image:    "pradera-background.svg"
     <p style="text-align: right">Fame to Fortune</p>
    </td>
    <td>Place authors as,
-<ul>
-
-<li>Keynotes, featured speakers.
-
-<li>Podcast guests.
-
-<li>The voice of courses and workshops.
-</li>
-</ul>
+    <ul>
+     <li>Keynotes, featured speakers.</li>
+     <li>Podcast guests.</li>
+     <li>The voice of courses and workshops.</li>
+    </ul>
    </td>
   </tr>
   <tr>
@@ -554,14 +491,12 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-    <p style="text-align: right">RADICALS.LIVE</p>
+    <p style="text-align: right"><span class="_paradigm">rLIVE</span></p>
    </td>
    <td>
-<ul>
-
-<li>See <a href="https://docs.google.com/document/d/1NElxng620-FtPtk2s-2xizTcL_89LdqnpkZepsnf5RA/edit#heading=h.gqizizpnpgzu">RADICALS.LIVE</a>.
-</li>
-</ul>
+    <ul>
+     <li>See <a href="https://docs.google.com/document/d/1NElxng620-FtPtk2s-2xizTcL_89LdqnpkZepsnf5RA/edit#heading=h.gqizizpnpgzu"><span class="_paradigm">rLIVE</span></a>.</li>
+    </ul>
    </td>
   </tr>
   <tr>
@@ -572,26 +507,16 @@ image:    "pradera-background.svg"
     <p style="text-align: right">In-store Promos</p>
    </td>
    <td>
-<ul>
-
-<li>See 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "The PRADERA SHELF"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.8yqs9zy5std9">The PRADERA SHELF</a>.
-</li>
-</ul>
+    <ul>
+     <li>See <a href="#heading=h.8yqs9zy5std9">rSHELF</a>.</li>
+    </ul>
    </td>
   </tr>
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
-</table>
-
-
-<h2>Sales</h2>
-
-
+ </table>
+ <h2>Sales</h2>
   <tr>
    <td>
     <p style="text-align: right">Feet on the street</p>
