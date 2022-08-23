@@ -415,7 +415,7 @@ image:    "pradera-background.svg"
    <th><span class="_paradigm">rLIVE</span></th>
    <td>
     <ul>
-     <li>See <a href="https://docs.google.com/document/d/1NElxng620-FtPtk2s-2xizTcL_89LdqnpkZepsnf5RA/edit#heading=h.gqizizpnpgzu"><span class="_paradigm">rLIVE</span></a>.</li>
+     <li>See <span class="_paradigm">rLIVE</span><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>.</li>
     </ul>
    </td>
   </tr>
@@ -454,14 +454,28 @@ image:    "pradera-background.svg"
   </table>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol style="font-size:smaller; ">
+ <ol>
   <li id="en01">
    <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
+    <em>Motown Records</em>.
+    <<a href="https://www.motownrecords.com/">https://www.motownrecords.com/</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    Mary Parker Follet
+    <em>Creative Experience</em>.
+    <<a href="https://a.co/7rTNcYl">https://a.co/7rTNcYl</a>>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    Mary Parker Follet
+    <em>Creative Experience</em>.
+    <<a href=""><span class="_paradigm">rLIVE</span></a>>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
