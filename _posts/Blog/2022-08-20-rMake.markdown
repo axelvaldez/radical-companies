@@ -207,7 +207,7 @@ image:    "rMake-icon.svg"
    width="70%"
    alt="The image shows two flows. Each flow is made up of four segments. Segments 1, 3, and 4 are by author1 and segment two is by author2. To the right of the orignal flow is another one. This one starts with with a segment by author1; segments two is co-authored by author1 and author2; segment three is coauthored by author2 and author 5; segment 4 is coauthored by author1, author2, and author4. Presunably, authors 3 and 4 made a contribution and later retracted it.">
  </div>
- <p>Imagine these flows in between,</p>
+ <p>For example, these could be the flows in between,</p>
  <div style="text-align:center; ">
   <img
    src="/assets/img/rmake-flows.svg"
