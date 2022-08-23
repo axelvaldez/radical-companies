@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "RADICALS.LIVE"
+title:    "rLIVE"
 subtitle: "Iconoclasts in conversations!"
 authors:  "Matt Perez"
 image:    "pradera-background.svg"
