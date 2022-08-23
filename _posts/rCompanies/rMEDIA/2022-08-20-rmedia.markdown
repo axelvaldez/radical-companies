@@ -455,37 +455,15 @@ image:    "pradera-background.svg"
 <!-- Footnotes themselves at the bottom. -->
 
 <h2>Notes</h2>
-<div class="footnotes">
-<hr>
-<ol><li id="fn1">
-<h6>    
-    	<a href="https://www.motownrecords.com/">Motown Records</a> site.</h6>
-
-&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a><li id="fn2">
-
-<h6>    	Mary Parker Follett.  <a href="https://a.co/7rTNcYl">Creative Experience</a>.</h4>
-
-&nbsp;<a href="#fnref2" rev="footnote">&#8617;</a>
-
-</ol></div></p>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
- <p></p>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Origin Story</h1>
- <p></p>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Description</h1>
- <p></p>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Farm Programs</h1>
- <p></p>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Costs</h1>
- <p></p>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
- <p></p>
+ <div>
+  <ol>
+   <li id="fn1">
+  	<a href="https://www.motownrecords.com/">Motown Records</a> site.
+    &nbsp;<a href="#fnref1" rev="footnote">&#8617;</a><li id="fn2">
+    Mary Parker Follett.  <a href="https://a.co/7rTNcYl">Creative Experience</a>.
+    &nbsp;<a href="#fnref2" rev="footnote">&#8617;</a>
+  </ol>
+ </div>
 
 <h1 class="_section">APPENDICES</h1>
 <h1>Recruiting</h1>
