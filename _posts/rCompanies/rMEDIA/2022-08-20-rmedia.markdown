@@ -320,7 +320,7 @@ image:    "pradera-background.svg"
     <td colspan="2" class="_spacer">&nbsp;</td>
    </tr>
   </table>
-  <p>At one end, authors could use the help of <span class="_paradigm">rMEDIA</span>; at the other they could do it themselves using the <span class="_paradigm">rMEDIA</span> infrastructure. Most likely they would choose a combination of these. For example, translations work better when the author works in tandem with the translator because the author can, in real time, clarify tricky phrasing, explain idiomatic phrases, or the why of a difficult paragraph.</p>
+  <p>At one end, authors could use the help of <span class="_paradigm">rMEDIA</span>; at the other they could do it themselves using the <span class="_paradigm">rMEDIA</span> infrastructure. My guess is that they would choose a combination of these. For example, translations work better when the author works in tandem with the translator because the author can, in real time, clarify tricky phrasing, explain idiomatic phrases, or the why of a difficult paragraph.</p>
  <h2>Funding</h2>
   <table>
    <tr>
