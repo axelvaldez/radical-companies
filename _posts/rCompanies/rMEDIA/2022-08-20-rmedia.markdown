@@ -434,21 +434,23 @@ image:    "pradera-background.svg"
   </tr>
  </table>
  <h2>Sales</h2>
-  <tr>
-   <th>Feet on the street</th>
-   <td>
-    <ul>
-     <li>Sales to independent book sellers.</li>
-     <li>Sales to large booksellers.</li>
-     <li>Sales to airport booksellers.</li>
-     <li>Bulk sales to corporations.</li>
-     <li>Bulk sales to workshops and other venues.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" class="_spacer"></td>
-  </tr>
+  <table>
+   <tr>
+    <th>Feet on the street</th>
+    <td>
+     <ul>
+      <li>Sales to independent book sellers.</li>
+      <li>Sales to large booksellers.</li>
+      <li>Sales to airport booksellers.</li>
+      <li>Bulk sales to corporations.</li>
+      <li>Bulk sales to workshops and other venues.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" class="_spacer"></td>
+   </tr>
+  </table>
 
 <!-- Footnotes themselves at the bottom. -->
 
