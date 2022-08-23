@@ -65,8 +65,6 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
- </table>
- <table>
   <tr>
    <th>When?</th>
    <td>
@@ -91,6 +89,8 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
+ </table>
+ <table>
  </table>
 
 <h1>What's in It for &hellip;?</h1>
