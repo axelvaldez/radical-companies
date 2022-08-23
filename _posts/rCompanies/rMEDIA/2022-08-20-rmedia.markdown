@@ -133,7 +133,7 @@ image:    "pradera-background.svg"
    <td colspan="2" class="_spacer"></td>
   </tr>
   <tr>
-   <th>Marketing</td>
+   <th>Marketing</th>
    <td>
     <ul> 
      <li>Learning from the ability to experiment with various media, different messages.</li>
