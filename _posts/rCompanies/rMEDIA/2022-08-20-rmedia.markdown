@@ -487,8 +487,8 @@ image:    "pradera-background.svg"
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
  <p></p>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">APPENDICES</h1>
-<h2 style="font-size:30px; font-family:Courier New, monospace; ">Recruiting</h1>
+<h1 class="_section">APPENDICES</h1>
+<h1>Recruiting</h1>
  <ul>
   <li>From the moment a candidate voices an interest in joining the team, think of her as already in your team.</li>
   <li>You are not looking for ways to reject this candidate. Your job is to evaluate at what stage the candidate is in, figure out if you can help her grow, and then make a decision to hire or not.</li>
@@ -507,33 +507,33 @@ image:    "pradera-background.svg"
      <li>Check for level of knowledge about Computer Science basics.</li>
      <li>Decide if a Task interview is appropriate. The candidate is part of this discussion.</li>
     </ul>
-    <li>Task interview,</li>
-     <ul>
-      <li>For developers, this is done as a Pair Programming with pre-defined exercises for the appropriate stack. For manual testers, the candidate is given a scenario and asked to put together a test plan.</li>
-      <li>Work and talk with the candidate.</li>
-      <li>Offer hints (“I saw a thread in StackOverflow abou that”).</li>
-      <li>Question/nudge as needed (“wouldn't it be easier, if you did…”).</li>
-      <li>One interviewer acts as a distractor (<em>i.e.</em>$, to learn if the candidate is easily distracted or not, and whether she loses her train of thought easily or not).</li>
-      <li>The Task interview includes three exercises,</li>
-       <ul>
-        <li>Easy. Doable within a half hour. Meant to make the candidate feel good, confident.</li>
-        <li>Middling. Doable within one hour.</li>
-        <li>Difficult. Doable within two hours. Instructions for the difficult exercise are incomplete to see what the candidate does about it.</li>
-       </ul>
-      <li>Give the candidate feedback immediately, as much as you can.</li>
-     </ul>
+   <li>Task interview,</li>
+    <ul>
+     <li>For developers, this is done as a Pair Programming with pre-defined exercises for the appropriate stack. For manual testers, the candidate is given a scenario and asked to put together a test plan.</li>
+     <li>Work and talk with the candidate.</li>
+     <li>Offer hints (“I saw a thread in StackOverflow abou that”).</li>
+     <li>Question/nudge as needed (“wouldn't it be easier, if you did…”).</li>
+     <li>One interviewer acts as a distractor (<em>i.e.</em>$, to learn if the candidate is easily distracted or not, and whether she loses her train of thought easily or not).</li>
+     <li>The Task interview includes three exercises,</li>
+     <li>Easy. Doable within a half hour. Meant to make the candidate feel good, confident.</li>
+     <li>Middling. Doable within one hour.</li>
+     <li>Difficult. Doable within two hours. Instructions for the difficult exercise are incomplete to see what the candidate does about it.</li>
+     <li>Give the candidate feedback immediately, as much as you can.</li>
      <li>Thumbs meeting</li>
-      <ul>
-       <li>Everybody who's talked to the candidate gets together.</li>
-       <li>On their own, they grade the candidate on 1-4 scale on a) tech skills and b) cultural alignment.</li>
-       <li>They disclose their ratings (<em>e.g.</em>, Planning Poker) and discuss results.</li>
-       <li>If need be, update ratings.</li>
-       <li>Repeat until the decision to hire/not hire is made.</li>
-       <li>If the decision is to pass but offer Office Hours, whoever volunteers to do it takes the lead and talks to the candidate about the process, etc.</li>
-       <li>If the decision is to hire, but it includes the Skills Incubator, then a member of the team takes the lead to talk with the candidate about the process, etc.</li>
-       <li>If the decision is to hire, then you’re done.</li>
-      </ul>
+     <ul> 
+      <li>Everybody who's talked to the candidate gets together.</li>
+      <li>Each person involved grades the candidate on 1-4 scale on a) tech skills and b) cultural alignment.</li>
+      <li>They disclose their ratings (<em>e.g.</em>, Planning Poker) and discuss results.</li>
+      <li>If need be, update ratings.</li>
+      <li>Repeat until the decision to hire/not hire is made.</li>
+      <li>If the decision is to pass but offer Office Hours, whoever volunteers to do it takes the lead and talks to the candidate about the process, etc.</li>
+      <li>If the decision is to hire, but it includes the Skills Incubator, then a member of the team takes the lead to talk with the candidate about the process, etc.</li>
+      <li>If the decision is to hire, then you’re done.</li>
      </ul>
+    </ul>
+   </ul>
+  </ul>
+ </ul>
  <p>The interview process must be completely transparent. Interviewers must keep notes throughout the process and share them with the candidate at the end of it,</p>
   <ol>
    <li>Tell rejected candidates exactly why you decided against hiring.</li>
