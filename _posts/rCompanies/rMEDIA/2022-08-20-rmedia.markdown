@@ -114,8 +114,8 @@ image:    "pradera-background.svg"
    <th>Content Editors, Layout Designers, Developers, Graphics Designers, Media Team, Producers</th>
    <td>
     <ul>
-     <li>Doing what they love, without paying the <span class="_paradigm">FIAT</span> price.<li>
-     <li>Doing it with a team of co-owners, responsible to each other.<li>
+     <li>Doing what they love, without paying the <span class="_paradigm">FIAT</span> price.</li>
+     <li>Doing it with a team of co-owners, responsible to each other.</li>
      <li>Able to experiment with the support of the team.</li>
     </ul>
    </td>
