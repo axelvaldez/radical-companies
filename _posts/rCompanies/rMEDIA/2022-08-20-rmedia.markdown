@@ -23,12 +23,10 @@ image:    "pradera-background.svg"
 <h1>Alignment</h1>
  <table>
   <tr>
-   <th colspan="2" >Impact</th>
+   <th colspan="2" style="text-align:center; ">Impact</th>
   </tr>
   <tr>
-   <td>
-    <p style="text-align:center; ">What for?</p>
-   </td>
+   <th>What for?</th>
    <td>
     <ul>
      <li>Create a source of information about the <span class="_paradigm">RADICAL</span>.</li>
@@ -42,7 +40,7 @@ image:    "pradera-background.svg"
  </table>
  <table>
   <tr>
-   <td colspan="2" >Purpose</td>
+   <th colspan="2" style="text-align:center; ">Purpose</td>
   </tr>
   <tr>
    <td>
