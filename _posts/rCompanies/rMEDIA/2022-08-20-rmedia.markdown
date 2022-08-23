@@ -135,11 +135,7 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Translators, Verifiers</p>
-</h3>
-
-
+    <p style="text-align: right">Translators, Verifiers</p>
    </td>
    <td>
 <ul>
@@ -156,11 +152,7 @@ Translators, Verifiers</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Marketing</p>
-</h3>
-
-
+    <p style="text-align: right">Marketing</p>
    </td>
    <td>
 <ul>
@@ -179,11 +171,7 @@ Marketing</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Sales</p>
-</h3>
-
-
+    <p style="text-align: right">Sales</p>
    </td>
    <td>
 <ul>
@@ -202,11 +190,7 @@ Sales</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Printers</p>
-</h3>
-
-
+    <p style="text-align: right">Printers</p>
    </td>
    <td>
 <ul>
@@ -223,11 +207,7 @@ Printers</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Distributors</p>
-</h3>
-
-
+    <p style="text-align: right">Distributors</p>
    </td>
    <td>
 <ul>
@@ -244,11 +224,7 @@ Distributors</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Small Bookshops</p>
-</h3>
-
-
+    <p style="text-align: right">Small Bookshops</p>
    </td>
    <td>
 <ul>
@@ -267,11 +243,7 @@ Small Bookshops</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Big Book Chains</p>
-</h3>
-
-
+    <p style="text-align: right">Big Book Chains</p>
    </td>
    <td>
 <ul>
@@ -319,11 +291,7 @@ Big Book Chains</p>
 <table>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Onboarding</p>
-</h3>
-
-
+    <p style="text-align: right">Onboarding</p>
    </td>
    <td>
 <ul>
@@ -344,11 +312,7 @@ Onboarding</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Co-Editing</p>
-</h3>
-
-
+    <p style="text-align: right">Co-Editing</p>
    </td>
    <td>
 <ul>
@@ -363,11 +327,7 @@ Co-Editing</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Copy Editing</p>
-</h3>
-
-
+    <p style="text-align: right">Copy Editing</p>
    </td>
    <td>
 <ul>
@@ -382,11 +342,7 @@ Copy Editing</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Book Cover Co-Design</p>
-</h3>
-
-
+    <p style="text-align: right">Book Cover Co-Design</p>
    </td>
    <td>
 <ul>
@@ -401,11 +357,7 @@ Book Cover Co-Design</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Book Layout</p>
-</h3>
-
-
+    <p style="text-align: right">Book Layout</p>
    </td>
    <td>
 <ul>
@@ -420,11 +372,7 @@ Book Layout</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Text Formatting</p>
-</h3>
-
-
+    <p style="text-align: right">Text Formatting</p>
    </td>
    <td>
 <ul>
@@ -439,11 +387,7 @@ Text Formatting</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-ISBNs</p>
-</h3>
-
-
+    <p style="text-align: right">ISBNs</p>
    </td>
    <td>
 <ul>
@@ -458,11 +402,7 @@ ISBNs</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Translations</p>
-</h3>
-
-
+    <p style="text-align: right">Translations</p>
    </td>
    <td>
 <ul>
@@ -486,11 +426,7 @@ Translations</p>
 <table>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Crowdfunding</p>
-</h3>
-
-
+    <p style="text-align: right">Crowdfunding</p>
    </td>
    <td>
 <ul>
@@ -507,11 +443,7 @@ Crowdfunding</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-RADICAL funding</p>
-</h3>
-
-
+    <p style="text-align: right">RADICAL funding</p>
    </td>
    <td>
 <ul>
@@ -534,11 +466,7 @@ RADICAL funding</p>
 <table>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Content Extraction</p>
-</h3>
-
-
+    <p style="text-align: right">Content Extraction</p>
    </td>
    <td>
 <ul>
@@ -557,11 +485,7 @@ Content Extraction</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Video</p>
-</h3>
-
-
+    <p style="text-align: right">Video</p>
    </td>
    <td>
 <ul>
@@ -580,11 +504,7 @@ Video</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Social Media</p>
-</h3>
-
-
+    <p style="text-align: right">Social Media</p>
    </td>
    <td>
 <ul>
@@ -601,11 +521,7 @@ Social Media</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Advertising</p>
-</h3>
-
-
+    <p style="text-align: right">Advertising</p>
    </td>
    <td>
 <ul>
@@ -620,11 +536,7 @@ Advertising</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-Fame to Fortune</p>
-</h3>
-
-
+    <p style="text-align: right">Fame to Fortune</p>
    </td>
    <td>Place authors as,
 <ul>
@@ -643,11 +555,7 @@ Fame to Fortune</p>
   </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-RADICALS.LIVE</p>
-</h3>
-
-
+    <p style="text-align: right">RADICALS.LIVE</p>
    </td>
    <td>
 <ul>
@@ -659,13 +567,10 @@ RADICALS.LIVE</p>
   </tr>
   <tr>
    <td colspan="2" class="_spacer"></td>
+  </tr>
   <tr>
    <td>
-<h3><p style="text-align: right">
-In-store Promos</p>
-</h3>
-
-
+    <p style="text-align: right">In-store Promos</p>
    </td>
    <td>
 <ul>
@@ -690,11 +595,7 @@ In-store Promos</p>
 
   <tr>
    <td>
-<h3><p style="text-align: right">
-Feet on the street</p>
-</h3>
-
-
+    <p style="text-align: right">Feet on the street</p>
    </td>
    <td>
 <ul>
