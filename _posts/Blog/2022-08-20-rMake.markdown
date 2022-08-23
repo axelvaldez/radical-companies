@@ -421,7 +421,7 @@ image:    "rMake-icon.svg"
   </li>
   <li id="en05">
    <p class="_list-item">
-    For the backend, we were planning to use _Prtcl, an OSS projec. Unfortunately, _prtcl is no more. It was based on blockchain and very much aligned with our goals.
+    For the backend, we were planning to use _Prtcl, an OSS projec, but, unfortunately, it was shut down. It was based on IPFS and very much aligned with our goals.
     <<a href="https://github.com/uprtcl">https://github.com/uprtcl</a>>
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
