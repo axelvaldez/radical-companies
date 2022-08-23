@@ -268,10 +268,6 @@ td._spacer {
   font-size:xx-small;
   width:fit-content;
 }
-._spacer::after {
-  font-size:xx-small;
-  content:" ";
-}
 ._list-item {
   margin-bottom:0.5em;
   text-align:justify;
