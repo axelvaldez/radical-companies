@@ -91,7 +91,7 @@ image:    "pradera-background.svg"
   </tr>
  </table>
 
-<h1>What's in It for &hellip;?</h1>
+<h1>What's in It for&hellip; ?</h1>
  <p>Besides ownership and participation in the generated wealth, this is what people will get,</p>
  <table>
   <tr>
