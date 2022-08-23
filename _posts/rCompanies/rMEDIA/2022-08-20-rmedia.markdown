@@ -119,7 +119,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td class="_spacer">KAKA</td>
+   <td class="_spacer"></td>
   </tr>
   <tr>
    <th>Translators, Verifiers</th>
