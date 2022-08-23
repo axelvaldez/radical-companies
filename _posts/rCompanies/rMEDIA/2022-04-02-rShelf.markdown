@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "PRADERA Shelf"
-subtitle: "A PRADERA MEDIA Prop"
+title:    "rShelf"
+subtitle: "A PRADERA MEDIA Promotional Prop"
 authors:  "Matt Perez"
 image:    "PRADERA-background.svg"
 ---
