@@ -509,9 +509,6 @@ image:    "pradera-background.svg"
       <li>If the decision is to hire, then you’re done.</li>
      </ul>
     </ul>
-   </ul>
-  </ul>
- </ul>
  <p>The interview process must be completely transparent. Interviewers must keep notes throughout the process and share them with the candidate at the end of it,</p>
   <ol>
    <li>Tell rejected candidates exactly why you decided against hiring.</li>
