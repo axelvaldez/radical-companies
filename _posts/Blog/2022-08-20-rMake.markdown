@@ -440,15 +440,6 @@ image:    "rMake-icon.svg"
     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en08">
-   <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    199
-    <<a href="https://…" target="_blank">https://…</a>>
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
  </ol>
 
 <h1 class="_section">RELATED</h1>
