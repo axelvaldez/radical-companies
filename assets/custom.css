@@ -247,7 +247,10 @@ h1._section {
 .text-lg-start p {
   font-size:30px;
 }
-tr {
+
+table.tr {
+  margin-bottom:0;
+}tr {
   vertical-align:top;
   font-size:smaller;
 }
@@ -255,9 +258,6 @@ th {
   text-align:right;
   padding-right:1em;
   width:1.5in;
-}
-table.tr {
-  margin-bottom:0;
 }
 td {
   text-align:left;
