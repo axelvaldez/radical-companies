@@ -240,7 +240,7 @@ image:    "pradera-background.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2" class="_spacer">&nbsp;</td>
+    <td class="_spacer"></td>
    </tr>
    <tr>
     <th>Co-Editing</th>
