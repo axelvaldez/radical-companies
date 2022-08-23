@@ -264,7 +264,7 @@ td._spacer {
   column-span:all;
 }
 td.ul {
-  margin-bottom:0;
+  margin-bottom:0 !important; 
 }
 ._spacer {
   font-size:xx-small;
