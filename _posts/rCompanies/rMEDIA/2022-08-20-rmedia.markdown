@@ -135,6 +135,9 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
+ </table>
+ caca
+ <table>
   <tr>
    <td>
     <p style="text-align: right">Marketing</p>
@@ -154,6 +157,9 @@ image:    "pradera-background.svg"
    <td>
     <p style="text-align: right">Sales</p>
    </td>
+ </table>
+ caca
+ <table>
    <td>
     <ul>
      <li>Learning from listening to different types of buyers.</li>
@@ -165,6 +171,9 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
+ </table>
+ caca
+ <table>
   <tr>
    <td>
     <p style="text-align: right">Printers</p>
@@ -193,6 +202,9 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
+ </table>
+ caca
+ <table>
   <tr>
    <td>
     <p style="text-align: right">Small Bookshops</p>
@@ -211,6 +223,9 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
+ </table>
+ caca
+ <table>
   <tr>
    <td>
     <p style="text-align: right">Big Book Chains</p>
@@ -260,6 +275,9 @@ image:    "pradera-background.svg"
    <tr>
     <td colspan="2" class="_spacer"></td>
    </tr>
+ </table>
+ caca
+ <table>
    <tr>
     <td>
      <p style="text-align: right">Co-Editing</p>
