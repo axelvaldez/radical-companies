@@ -107,8 +107,9 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
- <table>
  </table>
+ caca
+ <table>
   <tr>
    <th>Content Editors, Layout Designers, Developers, Graphics Designers, Media Team, Producers</th>
    <td>
