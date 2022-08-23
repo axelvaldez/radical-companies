@@ -147,9 +147,6 @@ image:    "pradera-background.svg"
   </tr>
   <tr>
    <th>Sales</th>
- </table>
- caca2
- <table>
    <td>
     <ul>
      <li>Learning from listening to different types of buyers.</li>
@@ -161,13 +158,8 @@ image:    "pradera-background.svg"
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
- </table>
- caca
- <table>
   <tr>
-   <td>
-    <p style="text-align: right">Printers</p>
-   </td>
+   <th>Printers</td>
    <td>
     <ul>
      <li>Learning to take the friction out of printing books.</li>
@@ -179,9 +171,7 @@ image:    "pradera-background.svg"
    <td colspan="2" class="_spacer"></td>
   </tr>
   <tr>
-   <td>
-    <p style="text-align: right">Distributors</p>
-   </td>
+   <th>Distributors</th>
    <td>
     <ul>
      <li>Learning to take the friction out of book distribution.</li>
@@ -196,9 +186,7 @@ image:    "pradera-background.svg"
  caca
  <table>
   <tr>
-   <td>
-    <p style="text-align: right">Small Bookshops</p>
-   </td>
+   <th>Small Bookshops</th>
    <td>
     <ul>
      <li>Learning to become impassionate evangelists, not just book sellers.</li>
@@ -217,9 +205,7 @@ image:    "pradera-background.svg"
  caca
  <table>
   <tr>
-   <td>
-    <p style="text-align: right">Big Book Chains</p>
-   </td>
+   <th>Big Book Chains</th>
    <td>
     <ul>
      <li>Be associated with a  unique, easily identifiable brand that belongs to all who contribute.</li>
@@ -231,9 +217,7 @@ image:    "pradera-background.svg"
    <td colspan="2" class="_spacer"></td>
   </tr>
   <tr>
-   <td>
-    <p style="text-align: right"><span class="_paradigm">rMEDIA</span></p>
-   </td>
+   <th><span class="_paradigm">rMEDIA</span></th>
    <td>
     <ul>
      <li>A much needed service centered on people to spread healing ideas, create content, and distribute it all far, wide. and fast.</li>
@@ -250,9 +234,7 @@ image:    "pradera-background.svg"
  <h2>Book Preparation</h2>
   <table>
    <tr>
-    <td>
-     <p style="text-align: right">Onboarding</p>
-    </td>
+    <th>Onboarding</th>
     <td>
      <ul>
       <li>Teach new authors about the process. Point out that it will take lots of reviewing over and over.</li>
@@ -269,9 +251,7 @@ image:    "pradera-background.svg"
  caca
  <table>
    <tr>
-    <td>
-     <p style="text-align: right">Co-Editing</p>
-    </td>
+    <th>Co-Editing</th>
     <td>
      <ul>
       <li>With an experienced editor from anywhere in the world.</li>
@@ -282,9 +262,7 @@ image:    "pradera-background.svg"
     <td colspan="2" class="_spacer"></td>
    </tr>
    <tr>
-    <td>
-     <p style="text-align: right">Copy Editing</p>
-    </td>
+    <th>Copy Editing</th>
     <td>
      <ul>
       <li>With copy editors from anywhere in the world.</li>
@@ -295,9 +273,7 @@ image:    "pradera-background.svg"
     <td colspan="2" class="_spacer"></td>
    </tr>
    <tr>
-    <td>
-     <p style="text-align: right">Book Cover Co-Design</p>
-    </td>
+    <th>Book Cover Co-Design</th>
     <td>
      <ul>
       <li>With designers from anywhere in the world.</li>
@@ -308,9 +284,7 @@ image:    "pradera-background.svg"
     <td colspan="2" class="_spacer"></td>
    </tr>
    <tr>
-    <td>
-     <p style="text-align: right">Book Layout</p>
-    </td>
+    <th>Book Layout</th>
     <td>
      <ul>
       <li>With layout book designers  from anywhere in the world.</li>
@@ -321,9 +295,7 @@ image:    "pradera-background.svg"
     <td colspan="2" class="_spacer"></td>
    </tr>
    <tr>
-    <td>
-     <p style="text-align: right">Text Formatting</p>
-    </td>
+    <th>Text Formatting</th>
     <td>
      <ul>
       <li>With skilled people from anywhere in the world.</li>
@@ -334,9 +306,7 @@ image:    "pradera-background.svg"
     <td colspan="2" class="_spacer"></td>
    </tr>
    <tr>
-    <td>
-     <p style="text-align: right">ISBNs</p>
-    </td>
+    <th>ISBNs</th>
     <td>
      <ul>
       <li>Acquisition and assignment of ISBN numbers.</li>
@@ -347,9 +317,7 @@ image:    "pradera-background.svg"
     <td colspan="2" class="_spacer"></td>
    </tr>
    <tr>
-    <td>
-     <p style="text-align: right">Translations</p>
-    </td>
+    <th>Translations</th>
     <td>
      <ul>
       <li>With translators from anywhere in the world.</li>
@@ -364,9 +332,7 @@ image:    "pradera-background.svg"
  <h2>Funding</h2>
   <table>
    <tr>
-    <td>
-     <p style="text-align: right">Crowdfunding</p>
-    </td>
+    <th>Crowdfunding</th>
     <td>
      <ul>
       <li>Provides the equivalent of an “advance” for co-authors who need the support upfront.</li>
@@ -378,9 +344,7 @@ image:    "pradera-background.svg"
    <td colspan="2" class="_spacer"></td>
   </tr>
   <tr>
-   <td>
-    <p style="text-align: right"><span class="_paradigm">RADICAL</span> funding</p>
-   </td>
+   <th><span class="_paradigm">RADICAL</span> funding</th>
    <td>
     <ul>
      <li>An advance-as-investment up front for an agreed upon return.</li>
@@ -394,9 +358,7 @@ image:    "pradera-background.svg"
 <h2>Promoting</h2>
  <table>
   <tr>
-   <td>
-    <p style="text-align: right">Content Extraction</p>
-   </td>
+   <th>Content Extraction</th>
    <td>
     <ul>
      <li>Creating extracts of the book for promotional content.</li>
@@ -409,9 +371,7 @@ image:    "pradera-background.svg"
    <td colspan="2" class="_spacer"></td>
   </tr>
   <tr>
-   <td>
-    <p style="text-align: right">Video</p>
-   </td>
+   <th>Video</th>
    <td>
     <ul>
      <li>Short videos (<em>e.g.</em>115-second videos).</li>
@@ -424,9 +384,7 @@ image:    "pradera-background.svg"
    <td colspan="2" class="_spacer"></td>
   </tr>
   <tr>
-   <td>
-    <p style="text-align: right">Social Media</p>
-   </td>
+   <th>Social Media</th>
    <td>
     <ul>
      <li>Run campaigns on Twitter, LinkedIn, etc.</li>
@@ -438,9 +396,7 @@ image:    "pradera-background.svg"
    <td colspan="2" class="_spacer"></td>
   </tr>
   <tr>
-   <td>
-    <p style="text-align: right">Advertising</p>
-   </td>
+   <th>Advertising</th>
    <td>
     <ul>
      <li>For example, KDP ads.</li>
@@ -451,9 +407,7 @@ image:    "pradera-background.svg"
    <td colspan="2" class="_spacer"></td>
   </tr>
   <tr>
-   <td>
-    <p style="text-align: right">Fame to Fortune</p>
-   </td>
+   <th>Fame to Fortune</th>
    <td>Place authors as,
     <ul>
      <li>Keynotes, featured speakers.</li>
@@ -466,9 +420,7 @@ image:    "pradera-background.svg"
    <td colspan="2" class="_spacer"></td>
   </tr>
   <tr>
-   <td>
-    <p style="text-align: right"><span class="_paradigm">rLIVE</span></p>
-   </td>
+   <th><span class="_paradigm">rLIVE</span></th>
    <td>
     <ul>
      <li>See <a href="https://docs.google.com/document/d/1NElxng620-FtPtk2s-2xizTcL_89LdqnpkZepsnf5RA/edit#heading=h.gqizizpnpgzu"><span class="_paradigm">rLIVE</span></a>.</li>
@@ -479,9 +431,7 @@ image:    "pradera-background.svg"
    <td colspan="2" class="_spacer"></td>
   </tr>
   <tr>
-   <td>
-    <p style="text-align: right">In-store Promos</p>
-   </td>
+   <th>In-store Promos</th>
    <td>
     <ul>
      <li>See <a href="#heading=h.8yqs9zy5std9">rSHELF</a>.</li>
@@ -494,9 +444,7 @@ image:    "pradera-background.svg"
  </table>
  <h2>Sales</h2>
   <tr>
-   <td>
-    <p style="text-align: right">Feet on the street</p>
-   </td>
+   <th>Feet on the street</th>
    <td>
     <ul>
      <li>Sales to independent book sellers.</li>
