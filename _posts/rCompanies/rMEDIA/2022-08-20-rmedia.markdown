@@ -264,7 +264,7 @@ image:    "pradera-background.svg"
     <td colspan="2" class="_spacer"></td>
    </tr>
    <tr>
-    <th>Book Cover Co-Design</th>
+    <th>Book Cover Design</th>
     <td>
      <ul>
       <li>With designers from anywhere in the world.</li>
