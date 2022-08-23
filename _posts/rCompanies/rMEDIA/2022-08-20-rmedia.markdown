@@ -426,7 +426,7 @@ image:    "pradera-background.svg"
    <th>In-store Promos</th>
    <td>
     <ul>
-     <li>See <a href="#heading=h.8yqs9zy5std9">rSHELF</a>.</li>
+     <li>See <span class="_paradigm">rSHELF</span><a href="#en04"><sup id="bm04">4&nbsp;</sup></a>.</li>
     </ul>
    </td>
   </tr>
@@ -458,7 +458,7 @@ image:    "pradera-background.svg"
   <li id="en01">
    <p class="_list-item">
     <em>Motown Records</em>.
-    <<a href="https://www.motownrecords.com/">https://www.motownrecords.com/</a>>
+    <<a href="https://www.motownrecords.com/" target="_blank">https://www.motownrecords.com/</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -466,16 +466,27 @@ image:    "pradera-background.svg"
    <p class="_list-item">
     Mary Parker Follet
     <em>Creative Experience</em>.
-    <<a href="https://a.co/7rTNcYl">https://a.co/7rTNcYl</a>>
+    <<a href="https://a.co/7rTNcYl" target="_blank">https://a.co/7rTNcYl</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en02">
+  <li id="en03">
    <p class="_list-item">
-    Mary Parker Follet
-    <em>Creative Experience</em>.
-    <<a href=""><span class="_paradigm">rLIVE</span></a>>
+    Matt Perez
+    <em>rLIVE</em>.
+    2021.
+    <<a href=""><span class="_paradigm" target="_blank">rLIVE</span></a>>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item">
+    Matt Perez.
+    <em>rSHELF</em>.
+    2021
+    <<a href="">rSHELF</a>>
+    <<a href="https://radicalcompanies.com/2022/04/02/rShelf.html" target="_blank">https://radicalcompanies.com/2022/04/02/rShelf.html</a>>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
