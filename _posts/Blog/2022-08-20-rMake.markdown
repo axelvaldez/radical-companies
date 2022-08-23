@@ -237,7 +237,7 @@ image:    "rMake-icon.svg"
    <li>They could even pay for preventing new flows for a period of time.</li>
   </ul>
  <p>This is ripe for experimentation.</p>
- <p>See <a href="#">rMEDIA</a><a href="#en09"><sup id="bm09">9&nbsp;</sup></a> for more info.</p>
+ <p>See <a href="#">rMEDIA</a><a href="#en07"><sup id="bm07">7&nbsp;</sup></a> for more info.</p>
 
 <h1 class="_section">Use Modalities</h1>
 
@@ -299,9 +299,9 @@ image:    "rMake-icon.svg"
   <p style="margin-bottom:0; ">Same as a single writer, but in addition they need to,</p>
   <ul>
    <li>Fork the whole book as a separate flow.</li>
-   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or excursus.<a href="#en07"><sup id="bm07">7&nbsp;</sup></a></li>
+   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or excursus.<a href="#en08"><sup id="bm08">8&nbsp;</sup></a></li>
    <li>
-    <p style="margin-bottom:0; ">Create a Pull Request<a href="#en11"><sup id="bm11">11&nbsp;</sup></a> to,</p>
+    <p style="margin-bottom:0; ">Create a Pull Request<a href="#en09"><sup id="bm09">9&nbsp;</sup></a> to,</p>
     <ol>
      <li>Hold the discussion about a merge.</li>
      <li>Record the final decision (to merge to not merge).</li> 
@@ -448,24 +448,6 @@ image:    "rMake-icon.svg"
     199
     <<a href="https://…" target="_blank">https://…</a>>
     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en09">
-   <p class="_list-item">
-    Darrell Huff and Irving Gels.
-    <em>How to Lie with Statics-Darrel-Huff</em>
-    1993.
-    <<a href="https://radicals.world/1VWoUn">&hellip;https://radicals.world/1VWoUn</a>>
-    <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en10">
-   <p class="_list-item">
-    Matt Perez.
-    <em>rMEDIA</em>.
-    2021.
-    <<a href="#">&hellip;/rMEDIA</a>>
-    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
