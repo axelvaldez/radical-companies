@@ -271,7 +271,6 @@ td._spacer {
 }
 ._spacer::after {
   content:--blank;
-  content:"CACA";
 }
 ._list-item {
   margin-bottom:0.5em;
