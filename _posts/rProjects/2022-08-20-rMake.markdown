@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "rMake"
+title:    "rMAKE"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "rMake-icon.svg"
+image:    "rmake-icon.svg"
 ---
 
 <div style="display:none;">
@@ -15,10 +15,10 @@ image:    "rMake-icon.svg"
  <p style="text-align:right; padding-right:1em; margin-top:15px; ">&mdash;Marysol Ortega, PhD</p>
 </div>
 
-<h1>Why rMake</h1>
+<h1>Why <span style="font-size:smaller; ">rMAKE</span></h1>
  <p>Writing a book is mostly a one-person writing exercise and that’s a problem. Using today’s tools, if the book has more than one author, they may have discussions, critiques, suggestions, etc., but, after all is said and done, the actual writing is done by one of them.</p>
  <p>Another problem is assigning authorship and ownership. A handful of people get listed as co-authors and they also get co-ownership of the work. Others who have contributed significantly to the book may not end up as &ldquo;advisors&rdquo; or &ldquo;my good friend&rdquo; but not considered a co-author. Still others may get mentioned in the acknowledgements section or in footnotes. Unfortunately, none of this really comes close to creating a book as a team, similarly to the way we make software.</p>
- <p>The intent of rMake is to make it possible for many people to contribute to a book and get authorship and ownership consistently. What would have been a laborious process for books written with a quill pen or a typewriter, it is a piece of cake using basic modern technology.</p>
+ <p>The intent of <span style="font-size:smaller; ">rMAKE</span> is to make it possible for many people to contribute to a book and get authorship and ownership consistently. What would have been a laborious process for books written with a quill pen or a typewriter, it is a piece of cake using basic modern technology.</p>
 
 <h1>But You Already Can&hellip;</h1>
  <p>My first thought was that any of the various Git<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> platforms, MediaWiki,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> or even Google Docs could be it.</p>
@@ -114,10 +114,10 @@ image:    "rMake-icon.svg"
   </tr>
  </table>
 
-<h1>Then Came rMake!</h1>
- <p>In the end, we opted to create a new app we call rMake as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries that we can use in the making of rMake (<em>e.g.</em>, diff).<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
+<h1>Then Came <span style="font-size:smaller; ">rMAKE</span>!</h1>
+ <p>In the end, we opted to create a new app we call <span style="font-size:smaller; ">rMAKE</span> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries that we can use in the making of <span style="font-size:smaller; ">rMAKE</span> (<em>e.g.</em>, diff).<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
  <h2>No Trunk</h2>
-  <p>In rMake <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
+  <p>In <span style="font-size:smaller; ">rMAKE</span> <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
   <p>These flows are fully rendered and at any point in time, a reader would be able to see any. Perhaps one flow is recommended by readers more than the others, but all flows will still be around for readers to explore.</p>
  <h2>Authorship & Ownership</h2>
   <p>A fragment could be a phrase, sentence, paragraph, and even a word. Every fragment carries authorship <em>and</em> ownership.</p>
@@ -230,7 +230,7 @@ image:    "rMake-icon.svg"
 
 <h1>Publishing</h1>
  <p>The mythical &ldquo;book deal&rdquo; includes an advance that a publisher pays an author when the book is just an outline. For well-known authors and brand names (<em>e.g.</em>, ex-President Obama), that is still the case. The rest of us get, at best, a percent of sales minus all expenses, including returns,</p>
- <p style="margin-bottom:0; ">In the rMake model, a Publisher could,</p>
+ <p style="margin-bottom:0; ">In the <span style="font-size:smaller; ">rMAKE</span> model, a Publisher could,</p>
   <ul>
    <li>Negotiates a deal around a particular flow.</li>
    <li>Make a deal around all existing flows.</li>
@@ -339,11 +339,11 @@ image:    "rMake-icon.svg"
    alt="">
  </div>
 <h1>References</h1>
- <p>An rMake reference can include text, URLs, or both, a la Kindle.</p>
+ <p>An <span style="font-size:smaller; ">rMAKE</span> reference can include text, URLs, or both, a la Kindle.</p>
  <p>URLs can point to internal targets (<em>e.g.</em>, titles, headers).</p>
 
 <h1>Paper</h1>
- <p>The rMake platform can prepare a flow for traditional paper publication. In particular, the platform will make it easy to convert references and URLs to footnotes or endnotes.</p>
+ <p>The <span style="font-size:smaller; ">rMAKE</span> platform can prepare a flow for traditional paper publication. In particular, the platform will make it easy to convert references and URLs to footnotes or endnotes.</p>
 
 <h1>Advanced Readers</h1>
  <p>Support for Advance Readers, by creating a copy of the text whenever the Advanced Reader makes a comment or a change.</p>
