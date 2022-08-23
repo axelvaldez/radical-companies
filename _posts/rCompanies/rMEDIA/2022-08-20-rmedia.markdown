@@ -76,9 +76,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td>
-    <p style="text-align:center; ">How?</p>
-   </td>
+   <th>How?</th>
    <td>
     <ul>
      <li>Create a Marketing and Sales flow.</li>
