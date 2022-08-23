@@ -386,8 +386,6 @@ image:    "rMake-icon.svg"
   <li>Parameters would include indentation, margins (all or individually as right, left, top, bottom), font family, font size, space after end-of-sentence punctuation (<em>e.g.</em>, n-width, m-width, other size), etc. (I imagine this as a CSS parameter file).</li>
  </ul>
 
-<!-- Footnotes themselves at the bottom. -->
-
 <h1 class="_section">ENDNOTES</h1>
  <h2>Git</h2>
  <ol>
