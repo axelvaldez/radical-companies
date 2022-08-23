@@ -386,38 +386,27 @@ image:    "pradera-background.svg"
     <p style="text-align: right"><span class="_paradigm">RADICAL</span> funding</p>
    </td>
    <td>
-<ul>
-
-<li>An advance-as-investment up front for an agreed upon return.
-</li>
-</ul>
+    <ul>
+     <li>An advance-as-investment up front for an agreed upon return.</li>
+    </ul>
    </td>
   </tr>
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
-</table>
-
-
+ </table>
 <h2>Promoting</h2>
-
-
-
-<table>
+ <table>
   <tr>
    <td>
     <p style="text-align: right">Content Extraction</p>
    </td>
    <td>
-<ul>
-
-<li>Creating extracts of the book for promotional content.
-
-<li>Serialize (<em>e.g.</em>, Twitter, blogs).
-
-<li>115-second videos.
-</li>
-</ul>
+    <ul>
+     <li>Creating extracts of the book for promotional content.</li>
+     <li>Serialize (<em>e.g.</em>, Twitter, blogs).</li>
+     <li>115-second videos.</li>
+    </ul>
    </td>
   </tr>
   <tr>
@@ -428,15 +417,11 @@ image:    "pradera-background.svg"
     <p style="text-align: right">Video</p>
    </td>
    <td>
-<ul>
-
-<li>Short videos (<em>e.g.</em>115-second videos).
-
-<li>Publish serial form of content/extracts.
-
-<li>Run campaigns on Twitter, LinkedIn, etc.
-</li>
-</ul>
+    <ul>
+     <li>Short videos (<em>e.g.</em>115-second videos).</li>
+     <li>Publish serial form of content/extracts.</li>
+     <li>Run campaigns on Twitter, LinkedIn, etc.</li>
+    </ul>
    </td>
   </tr>
   <tr>
@@ -447,13 +432,10 @@ image:    "pradera-background.svg"
     <p style="text-align: right">Social Media</p>
    </td>
    <td>
-<ul>
-
-<li>Run campaigns on Twitter, LinkedIn, etc.
-
-<li>Publish serial form of content/extracts.
-</li>
-</ul>
+    <ul>
+     <li>Run campaigns on Twitter, LinkedIn, etc.</li>
+     <li>Publish serial form of content/extracts.</li>
+    </ul>
    </td>
   </tr>
   <tr>
@@ -464,11 +446,9 @@ image:    "pradera-background.svg"
     <p style="text-align: right">Advertising</p>
    </td>
    <td>
-<ul>
-
-<li>For example, KDP ads.
-</li>
-</ul>
+    <ul>
+     <li>For example, KDP ads.</li>
+    </ul>
    </td>
   </tr>
   <tr>
@@ -522,19 +502,13 @@ image:    "pradera-background.svg"
     <p style="text-align: right">Feet on the street</p>
    </td>
    <td>
-<ul>
-
-<li>Sales to independent book sellers.
-
-<li>Sales to large booksellers.
-
-<li>Sales to airport booksellers.
-
-<li>Bulk sales to corporations.
-
-<li>Bulk sales to workshops and other venues.
-</li>
-</ul>
+    <ul>
+     <li>Sales to independent book sellers.</li>
+     <li>Sales to large booksellers.</li>
+     <li>Sales to airport booksellers.</li>
+     <li>Bulk sales to corporations.</li>
+     <li>Bulk sales to workshops and other venues.</li>
+    </ul>
    </td>
   </tr>
   <tr>
