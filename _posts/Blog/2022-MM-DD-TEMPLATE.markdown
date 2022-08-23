@@ -70,8 +70,8 @@ image:    "about-daos.svg"
  <ul>
   <li>RADICAL COMPANIES,</li>
    <ul>
-    <li><a>EN</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/radicalcompanies.com [EN]</a></li>
-    <li><a>ES</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/radicalcompanies.com [ES]</a></li>
+    <li><a>English</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/radicalcompanies.com</a></li>
+    <li><a>Spanish</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/radicalcompanies.com</a></li>
    </ul>
   <li>Blog posts,</li>
    <ul>
