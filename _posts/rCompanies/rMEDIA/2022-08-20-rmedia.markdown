@@ -66,9 +66,7 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td>
-    <p style="text-align:center; ">When?</p>
-   </td>
+   <th>When?</th>
    <td>
     <ul>
      <li>Within 12 months.</li>
