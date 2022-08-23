@@ -394,14 +394,14 @@ image:    "rMake-icon.svg"
   <li id="en01">
    <p class="_list-item">
     <em>Git</em>.
-    <<a href="https://git-scm.com/">https://git-scm.com/</a>>
+    <<a href="https://git-scm.com/" target="_blank">https://git-scm.com/</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p class="_list-item">
     <em>MediaWiki</em>.
-    <<a href="https://www.mediawiki.org/wiki/MediaWiki">https://www.mediawiki.org/wiki/MediaWiki</a>>
+    <<a href="https://www.mediawiki.org/wiki/MediaWiki" target="_blank">https://www.mediawiki.org/wiki/MediaWiki</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -422,21 +422,21 @@ image:    "rMake-icon.svg"
   <li id="en05">
    <p class="_list-item">
     For the backend, we were planning to use _Prtcl, an OSS projec, but, unfortunately, it was shut down. It was based on IPFS and very much aligned with our goals.
-    <<a href="https://github.com/uprtcl">https://github.com/uprtcl</a>>
+    <<a href="https://github.com/uprtcl" target="_blank">https://github.com/uprtcl</a>>
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en06">
    <p class="_list-item">
     Definition of &ldquo;excursus&rdquo;.
-    <<a href="https://www.google.com/search?q=excursus&oq=excursus">excursus</a>>
+    <<a href="https://www.google.com/search?q=excursus&oq=excursus" target="_blank">excursus</a>>
     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en07">
    <p class="_list-item">
     Definition of &ldquo;Pull Request&rdquo;.
-    <<a href="https://en.wikipedia.org/wiki/Fork_and_pull_model">Pull Request</a>>
+    <<a href="https://en.wikipedia.org/wiki/Fork_and_pull_model" target="_blank">Pull Request</a>>
     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
