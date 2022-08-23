@@ -254,6 +254,7 @@ tr {
 th {
   text-align:right;
   padding-right:1em;
+  margin-bottom:0;
   width:1.5in;
 }
 td {
@@ -262,9 +263,6 @@ td {
 }
 td._spacer {
   column-span:all;
-}
-td.ul {
-  margin-bottom:0 !important; 
 }
 ._spacer {
   font-size:xx-small;
