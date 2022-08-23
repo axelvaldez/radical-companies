@@ -7,6 +7,7 @@ html{
   --color-acc-2: #ED8849;
   --color-text: #011616;
   --color-light: #fff;
+  --blank: &nbsp;
   font-size: 20px;
 }
 
@@ -263,6 +264,14 @@ td {
 td._spacer {
   column-span:all;
   font-size:x-small;
+}
+._spacer {
+  font-size:x-small;
+  width:fit-content;
+}
+._spacer::after {
+  content:--blank;
+  content:"CACA";
 }
 ._list-item {
   margin-bottom:0.5em;
