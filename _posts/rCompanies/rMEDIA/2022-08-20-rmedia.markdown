@@ -155,9 +155,6 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
- </table>
- caca1
- <table>
   <tr>
    <td colspan="2" class="_spacer"></td>
   </tr>
