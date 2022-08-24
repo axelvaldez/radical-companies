@@ -255,6 +255,7 @@ h1._section {
 }
 ol.tr {
   text-align:left;
+  color: red;
 }
 th {
   text-align:right;
