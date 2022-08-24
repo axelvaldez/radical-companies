@@ -254,7 +254,7 @@ h1._section {
   font-size:smaller;
 }
 ol.li.p {
-  text-align:left;
+  text-align:left !important;
   color: red;
 }
 th {
