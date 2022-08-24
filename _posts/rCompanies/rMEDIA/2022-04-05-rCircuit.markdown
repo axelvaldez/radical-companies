@@ -3,7 +3,7 @@ layout:   post
 title:    "rCircuit"
 subtitle: "Growth in the RADICAL Model!"
 authors:  "Matt Perez"
-image:    "pradera-background.svg"
+image:    "rMEDIA.svg"
 ---
 
 <div style="display: none; ">
