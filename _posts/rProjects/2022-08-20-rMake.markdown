@@ -388,95 +388,96 @@ image:    "rmake-icon.svg"
  </ul>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol style="text-align:left; ">
-  <li id="en01">
-   <p class="_list-item">
-    AEON.
-    <em>How Aztecs Told History</em>.
-    <<a href="https://radicals.world/pWo2WK" target="_blank">https://radicals.world/pWo2WK</a>>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en02">
-   <p class="_list-item">
-    <em>Git</em>.
-    <<a href="https://git-scm.com/" target="_blank">https://git-scm.com/</a>>
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en03">
-   <p class="_list-item">
-    <em>MediaWiki</em>.
-    <<a href="https://www.mediawiki.org/wiki/MediaWiki" target="_blank">https://www.mediawiki.org/wiki/MediaWiki</a>>
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en04">
-   <p class="_list-item">
-    <em>Source Control System</em>.
-    <<a href="https://en.wikipedia.org/wiki/Source_Code_Control_System" target="_blank">https://en.wikipedia.org/wiki/Source_Code_Control_System</a>>
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en05">
-   <p class="_list-item">
-    For more information, see <em>Markup</em> <<a href="https://radicals.world/59k36j" target="_blank">https://radicals.world/59k36j</a>> (aka, Markdown <<a href="https://radicals.world/Dbg4hm" target="_blank">https://radicals.world/Dbg4hm</a>>).
-    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en06">
-   <p class="_list-item">
-    An homage to <em>Unix make</em>.
-    <a class="_uparrow" href="#6"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en07">
-   <p class="_list-item">
-    Hat off to <em>Project Xanadu</em>.
-    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en08">
-   <p class="_list-item">
-    <em>How to Lie with Statistics</em>.
-    <<a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=FKW6Y0VTHKGY7C3EM3YD" target="_blank">https://www.amazon.com/How-Lie-Statistics&hellip;</a>>
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <!--
-   id="en09" is below, in the RELATED section
-  -->
-  <li id="en10">
-   <p class="_list-item">
-    Definition of &ldquo;excursus&rdquo;.
-    <<a href="https://www.google.com/search?q=excursus&oq=excursus" target="_blank">excursus</a>>
-    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en11">
-   <p class="_list-item">
-    Definition of &ldquo;Pull Request&rdquo;.
-    <<a href="https://en.wikipedia.org/wiki/Fork_and_pull_model" target="_blank">Pull Request</a>>
-    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
+ <div style="text-align:left; ">
+  <ol>
+   <li id="en01">
+    <p class="_list-item">
+     AEON.
+     <em>How Aztecs Told History</em>.
+     <<a href="https://radicals.world/pWo2WK" target="_blank">https://radicals.world/pWo2WK</a>>
+     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en02">
+    <p class="_list-item">
+     <em>Git</em>.
+     <<a href="https://git-scm.com/" target="_blank">https://git-scm.com/</a>>
+     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en03">
+    <p class="_list-item">
+     <em>MediaWiki</em>.
+     <<a href="https://www.mediawiki.org/wiki/MediaWiki" target="_blank">https://www.mediawiki.org/wiki/MediaWiki</a>>
+     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en04">
+    <p class="_list-item">
+     <em>Source Control System</em>.
+     <<a href="https://en.wikipedia.org/wiki/Source_Code_Control_System" target="_blank">https://en.wikipedia.org/wiki/Source_Code_Control_System</a>>
+     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en05">
+    <p class="_list-item">
+     For more information, see <em>Markup</em> <<a href="https://radicals.world/59k36j" target="_blank">https://radicals.world/59k36j</a>> (aka, Markdown <<a h ref="https://radicals.world/Dbg4hm" target="_blank">https://radicals.world/Dbg4hm</a>>).
+     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en06">
+    <p class="_list-item">
+     An homage to <em>Unix make</em>.
+     <a class="_uparrow" href="#6"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en07">
+    <p class="_list-item">
+     Hat off to <em>Project Xanadu</em>.
+     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en08">
+    <p class="_list-item">
+     <em>How to Lie with Statistics</em>.
+     <<a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=FKW6Y0VTHKGY7C3EM3YD"  target="_blank">https://www.amazon.com/How-Lie-Statistics&hellip;</a>>
+     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <!--
+    id="en09" is below, in the RELATED section
+   -->
+   <li id="en10">
+    <p class="_list-item">
+     Definition of &ldquo;excursus&rdquo;.
+     <<a href="https://www.google.com/search?q=excursus&oq=excursus" target="_blank">excursus</a>>
+     <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en11">
+    <p class="_list-item">
+     Definition of &ldquo;Pull Request&rdquo;.
+     <<a href="https://en.wikipedia.org/wiki/Fork_and_pull_model" target="_blank">Pull Request</a>>
+     <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
 
-  </li>
-  <li id="en06">
-   <p class="_list-item" style="text-align:left; ">
-    <em>Wikimedia</em> documentation for developers.
-    <<a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">https://mediawiki.org/$hellip/How_to_become_a_MediaWiki_hacker</a>>
-    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en06">
-   <p class="_list-item">
-    For the backend, we were planning to use _Prtcl, an OSS projec, but, unfortunately, it was shut down. It was based on IPFS and very much aligned with our goals.
+   <li id="en06">
+    <p class="_list-item" style="text-align:left; ">
+     <em>Wikimedia</em> documentation for developers.
+     <<a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">https://mediawiki.org/$hellip/How_to_become_a_MediaWiki_hacker</a>>
+     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en06">
+    <p class="_list-item">
+     For the backend, we were planning to use _Prtcl, an OSS projec, but, unfortunately, it was shut down. It was based on IPFS and very much aligned with our goals.
     <<a href="https://github.com/uprtcl" target="_blank">https://github.com/uprtcl</a>>
-    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ol>
+     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+  </ol>
+ </div>
 
 <h1 class="_section">RELATED</h1>
  <ul>
