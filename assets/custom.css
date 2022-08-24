@@ -248,11 +248,13 @@ h1._section {
   font-size:30px;
 }
 
-table.tr {
+.tr {
   margin-bottom:0;
-}tr {
   vertical-align:top;
   font-size:smaller;
+}
+ol.tr {
+  text-align:left;
 }
 th {
   text-align:right;
