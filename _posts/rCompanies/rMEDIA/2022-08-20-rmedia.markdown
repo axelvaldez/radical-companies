@@ -291,18 +291,12 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td class="_spacer">&nbsp;</td>
-  </tr>
-  <tr>
    <th><span class="_paradigm">RADICAL</span> funding</th>
    <td>
     <ul>
      <li>An advance-as-investment up front for an agreed upon return.</li>
     </ul>
    </td>
-  </tr>
-  <tr>
-   <td class="_spacer">&nbsp;</td>
   </tr>
  </table>
 <h2>Promoting</h2>
@@ -318,9 +312,6 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td class="_spacer">&nbsp;</td>
-  </tr>
-  <tr>
    <th>Video</th>
    <td>
     <ul>
@@ -329,9 +320,6 @@ image:    "pradera-background.svg"
      <li>Run campaigns on Twitter, LinkedIn, etc.</li>
     </ul>
    </td>
-  </tr>
-  <tr>
-   <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Social Media</th>
@@ -343,18 +331,12 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td class="_spacer">&nbsp;</td>
-  </tr>
-  <tr>
    <th>Advertising</th>
    <td>
     <ul>
      <li>For example, KDP ads.</li>
     </ul>
    </td>
-  </tr>
-  <tr>
-   <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Fame to Fortune</th>
@@ -367,9 +349,6 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td class="_spacer">&nbsp;</td>
-  </tr>
-  <tr>
    <th><span class="_paradigm">rLIVE</span></th>
    <td>
     <ul>
@@ -378,18 +357,12 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td class="_spacer">&nbsp;</td>
-  </tr>
-  <tr>
    <th>In-store Promos</th>
    <td>
     <ul>
      <li>See <span class="_paradigm">rSHELF</span><a href="#en04"><sup id="bm04">4&nbsp;</sup></a>.</li>
     </ul>
    </td>
-  </tr>
-  <tr>
-   <td class="_spacer">&nbsp;</td>
   </tr>
  </table>
  <h2>Sales</h2>
