@@ -421,7 +421,7 @@ image:    "rmake-icon.svg"
    </li>
    <li id="en05">
     <p class="_list-item">
-     For more information, see <em>Markup</em> <<a href="https://radicals.world/59k36j" target="_blank">https://radicals.world/59k36j</a>> (aka, Markdown <<a h ref="https://radicals.world/Dbg4hm" target="_blank">https://radicals.world/Dbg4hm</a>>).
+     For more information, see <em>Markup</em> <<a href="https://radicals.world/59k36j" target="_blank">https://radicals.world/59k36j</a>> (aka, Markdown <<a href="https://radicals.world/Dbg4hm" target="_blank">https://radicals.world/Dbg4hm</a>>).
      <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
