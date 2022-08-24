@@ -36,9 +36,6 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
    <th colspan="2" style="text-align:center; ">Purpose</th>
   </tr>
   <tr>
@@ -50,9 +47,6 @@ image:    "pradera-background.svg"
      <li>To spread <span class="_paradigm">RADICAL</span>-like ideas sooner, faster, and without debilitating compromises.</li>
     </ul>
    </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
   </tr>
   <tr>
    <th colspan="2" style="text-align:center; ">Mission</th>
@@ -86,9 +80,6 @@ image:    "pradera-background.svg"
      <li>Virtual debates, panels, interviews.</li>
     </ul>
    </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
   </tr>
  </table>
 
@@ -208,9 +199,6 @@ image:    "pradera-background.svg"
       <li>Mentoring (<em>i.e.</em>, tools to find  an experienced author).</li>
      </ul>
     </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
    </tr>
    <tr>
     <th>Co-Editing</th>
