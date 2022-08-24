@@ -115,11 +115,6 @@ image:    "pradera-background.svg"
     </ul>
    </td>
   </tr>
-  <!--
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  -->
   <tr>
    <th>Translators, Verifiers</th>
    <td>
@@ -128,9 +123,6 @@ image:    "pradera-background.svg"
      <li>Champion your own notion of what represents a contribution from a translator or a verifier.</li>
     </ul>
    </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
   </tr>
   <tr>
    <th>Marketing</th>
@@ -143,9 +135,6 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
    <th>Sales</th>
    <td>
     <ul>
@@ -154,9 +143,6 @@ image:    "pradera-background.svg"
      <li>Spreading the <span class="_paradigm">RADICAL</span> story, their story.</li>
     </ul>
    </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
   </tr>
   <tr>
    <th>Printers</th>
@@ -168,9 +154,6 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
    <th>Distributors</th>
    <td>
     <ul>
@@ -178,9 +161,6 @@ image:    "pradera-background.svg"
      <li>They’ll hear, “we’ll help you compete with Amazon.”</li>
     </ul>
    </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
   </tr>
   <tr>
    <th>Small Bookshops</th>
@@ -196,9 +176,6 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
    <th>Big Book Chains</th>
    <td>
     <ul>
@@ -208,9 +185,6 @@ image:    "pradera-background.svg"
    </td>
   </tr>
   <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
    <th><span class="_paradigm">rMEDIA</span></th>
    <td>
     <ul>
@@ -218,9 +192,6 @@ image:    "pradera-background.svg"
      <li><span class="_paradigm">rMEDIA</span> becomes a unique, easily recognized brand.</li>
     </ul>
    </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
   </tr>
 </table>
 
