@@ -115,8 +115,8 @@ image:    "rmake-icon.svg"
   </tr>
  </table>
 
-<h1>Then Came <span style="font-size:smaller; ">rMAKE</span>!</h1>
- <p>In the end, we opted to create a new app we call <span style="font-size:smaller; ">rMAKE</span><a href="#en07"><sup id="bm07">7&nbsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries that we can use in the making of <span style="font-size:smaller; ">rMAKE</span> (<em>e.g.</em>, diff).</p>
+<h1><span style="font-size:smaller; ">rMAKE</span> Is Born</h1>
+ <p>In the end, we opted to create a new app we call <span style="font-size:smaller; ">rMAKE</span><a href="#en07"><sup id="bm07">7&nbsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI and many OSS components and libraries that we can use in the making of <span style="font-size:smaller; ">rMAKE</span> (<em>e.g.</em>, diff).</p>
  <h2>No Trunk</h2>
   <p>In <span style="font-size:smaller; ">rMAKE</span> <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
   <p>These flows are fully rendered and at any point in time, a reader would be able to see any. Perhaps one flow is recommended by readers more than the others, but all flows will still be around for readers to explore.</p>
