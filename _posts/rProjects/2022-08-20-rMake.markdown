@@ -457,7 +457,7 @@ image:    "rmake-icon.svg"
    <li id="en11">
     <p class="_list-item">
      Definition of &ldquo;Pull Request&rdquo;.
-     <<a href="https://en.wikipedia.org/wiki/Fork_and_pull_model" target="_blank">Pull Request</a>>
+     <<a href="https://en.wikipedia.org/wiki/Fork_and_pull_model" target="_blank">https://en.wikipedia.org/wiki/Fork_and_pull_model</a>>
      <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
