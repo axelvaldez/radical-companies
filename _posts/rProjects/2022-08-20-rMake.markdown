@@ -13,7 +13,7 @@ image:    "rmake-icon.svg"
 <div style="font-size:25px; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; margin-bottom:20px; ">
  <p>A book is no longer be a book, but parallel variations on a theme. A spectrum of perspectives, built like software is done these days.</p>
  <p>This made me think of how Aztecs used to keep track of histories.</p>
- <p style="text-align:right; padding-right:1em; margin-top:15px; ">&mdash;Marysol Ortega, PhD</p><a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
+ <p style="text-align:right; padding-right:1em; margin-top:15px; ">&mdash;Marysol Ortega, PhD<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
 </div>
 
 <h1>Why <span style="font-size:smaller; ">rMAKE</span></h1>
