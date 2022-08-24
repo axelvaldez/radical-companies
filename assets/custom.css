@@ -253,7 +253,7 @@ h1._section {
   vertical-align:top;
   font-size:smaller;
 }
-ol.tr {
+ol.li.p {
   text-align:left;
   color: red;
 }
