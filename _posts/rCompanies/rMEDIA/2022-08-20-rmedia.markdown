@@ -7,7 +7,7 @@ image:    "rmedia-icon.svg"
 ---
 
 <div style="display: none;">
- <p>MoTown Records came to be because African American artists needed something fundamentally different than what the existing record labels offered. The existing labels were not capable of providing any of that.</p>
+ <p>MoTown Records came to be because African American artists needed fundamentally different support than what the existing record labels offered.</p>
 </div>
 
 <h1>Intro</h1>
