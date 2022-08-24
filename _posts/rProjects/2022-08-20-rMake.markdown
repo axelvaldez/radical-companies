@@ -417,7 +417,19 @@ image:    "rmake-icon.svg"
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-
+  <li id="en05">
+   <p class="_list-item">
+    An homage to <em>Unix make</em>.
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en06">
+   <p class="_list-item">
+    Hat off to <em>Project Xanadu</em>.
+    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=FKW6Y0VTHKGY7C3EM3YD
   <li id="en04">
    <p class="_list-item">
     <em>Source Control System</em>.
@@ -431,12 +443,6 @@ image:    "rmake-icon.svg"
     <em>Wikimedia</em> documentation for developers.
     <<a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">https://mediawiki.org/$hellip/How_to_become_a_MediaWiki_hacker</a>>
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en06">
-   <p class="_list-item">
-    An homage to <em>Unix make</em>.
-    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
 
