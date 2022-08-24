@@ -11,7 +11,7 @@ image:    "pradera-background.svg"
 </div>
 
 <h1>Intro</h1>
- <p>MoTown Records<sup id="en01"><a href="#bm01">1</a></sup> came to be because African American artists needed something fundamentally different than what the existing record labels offered.  MoTown promoted their music, their concept of music, their categories, and even their approach to it, more sensual and religious at the same time.  The existing labels were not capable of providing any of that, even with the best of intentions.</p>
+ <p>MoTown Records<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> came to be because African American artists needed something fundamentally different than what the existing record labels offered.  MoTown promoted their music, their concept of music, their categories, and even their approach to it, more sensual and religious at the same time.  The existing labels were not capable of providing any of that, even with the best of intentions.</p>
  <p>As MoTown was to Black artists and their music, <span class="_paradigm">rMEDIA</span> is to <span class="_paradigm">RADICAL</span> authors and themes.</p>
 
 <h1>Origin Story</h1>
@@ -160,7 +160,7 @@ image:    "pradera-background.svg"
      <li>Learning to become impassionate evangelists, not just book sellers.</li>
      <li>Make more money from the content.
       <div class="_quotation" style="padding-bottom:2em; margin-bottom:0; ">
-       &hellip; formerly the local stores in a small town competed sharply with one another. Now, … they are beginning to join in an effort to secure the trade of the outlying farming districts and of the summer residents who tend to buy from the city by mail order. They do this by saving capital through common store-houses, through dividing specialties and thus increasing stock without increasing expenditure, by improving local service through cooperative deliveries, etc.<sup id="en2"><a href="#bm02">2</a></sup>
+       &hellip; formerly the local stores in a small town competed sharply with one another. Now, … they are beginning to join in an effort to secure the trade of the outlying farming districts and of the summer residents who tend to buy from the city by mail order. They do this by saving capital through common store-houses, through dividing specialties and thus increasing stock without increasing expenditure, by improving local service through cooperative deliveries, etc.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>
       </div>
      </li>
     </ul>
