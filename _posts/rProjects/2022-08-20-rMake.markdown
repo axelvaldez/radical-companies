@@ -29,7 +29,7 @@ image:    "rmake-icon.svg"
     <th>PROs</th>
     <td>
      <ul>
-      <li>Git is a very popular software source control system. It allows software developers to work as peers, in parallel.</li>
+      <li>Git is a very popular software source control<a href="#en04"><sump id="bm04">4&nbsp;</sup></a> system. It allows software developers to work as peers, in parallel.</li>
       <li>The published code lives in the project <strong>trunk</strong>. Any developer can read that code at any time.</li>
       <li>Several developers can work on features or new versions of the code in parallel, in separate branches. Each is persistent and fully rendered.</li>
       <li>Whenever I want to merge the code in my flow into the trunk, I create a pull request for the trunk’s admin. We’d have a discussion about my branch in the pull request and if everything lines up, the code in my branch is merged into the trunk.</li>
@@ -59,11 +59,11 @@ image:    "rmake-icon.svg"
     <th>PROs</th>
     <td>
      <ul>
-      <li>This is the wiki engine used by Wikipedia and it is friendly enough for writers. At least those who are used to Wiki Markup.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></li>
+      <li>This is the wiki engine used by Wikipedia and it is friendly enough for writers. At least those who are used to Wiki Markup.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></li>
       <li>It keeps a history of the document where you can see all the edits ever made to a page as well as the discussions between the page editor and other contributors.</li>
       <li>Various writers can work asynchronously (not quite in parallel).</li>
       <li>It is Open Source.</li>
-      <li>It has pretty good documentation for developers.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></li>
+      <li>It has pretty good documentation for developers.<a href="#en06"><sup id="bm06">6&nbsp;</sup></a></li>
      </ul>
     </td>
    </tr>
@@ -116,7 +116,7 @@ image:    "rmake-icon.svg"
  </table>
 
 <h1>Then Came <span style="font-size:smaller; ">rMAKE</span>!</h1>
- <p>In the end, we opted to create a new app we call <span style="font-size:smaller; ">rMAKE</span><a href="#en06"><sup id="bm06">6&nbsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries that we can use in the making of <span style="font-size:smaller; ">rMAKE</span> (<em>e.g.</em>, diff).</p>
+ <p>In the end, we opted to create a new app we call <span style="font-size:smaller; ">rMAKE</span><a href="#en07"><sup id="bm07">7&nbsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries that we can use in the making of <span style="font-size:smaller; ">rMAKE</span> (<em>e.g.</em>, diff).</p>
  <h2>No Trunk</h2>
   <p>In <span style="font-size:smaller; ">rMAKE</span> <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
   <p>These flows are fully rendered and at any point in time, a reader would be able to see any. Perhaps one flow is recommended by readers more than the others, but all flows will still be around for readers to explore.</p>
@@ -226,7 +226,7 @@ image:    "rmake-icon.svg"
  <div class="_quotation">
   <p>That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</p>
   <p>If a statistics book chapter is OPEN, therefore, it is subject to being applied by individuals to arguments with which we may disagree.</p>
-  <p>I also think that books aren’t just about the writers, they’re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren’t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics</em><a href="#en07"><sup id="bm07">7&nbsp;</sup></a>).</p>
+  <p>I also think that books aren’t just about the writers, they’re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren’t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics</em><a href="#en08"><sup id="bm08">8&nbsp;</sup></a>).</p>
  </div>
 
 <h1>Publishing</h1>
@@ -238,7 +238,7 @@ image:    "rmake-icon.svg"
    <li>They could even pay for preventing new flows for a period of time.</li>
   </ul>
  <p>This is ripe for experimentation.</p>
- <p>See <a href="#">rMEDIA</a><a href="#en08"><sup id="bm08">8&nbsp;</sup></a> for more info.</p>
+ <p>See <a href="#">rMEDIA</a><a href="#en09"><sup id="bm09">9&nbsp;</sup></a> for more info.</p>
 
 <h1 class="_section">Use Modalities</h1>
 
@@ -300,9 +300,9 @@ image:    "rmake-icon.svg"
   <p style="margin-bottom:0; ">Same as a single writer, but in addition they need to,</p>
   <ul>
    <li>Fork the whole book as a separate flow.</li>
-   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or excursus.<a href="#en09"><sup id="bm09">9&nbsp;</sup></a></li>
+   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or excursus.<a href="#en10"><sup id="bm10">10&nbsp;</sup></a></li>
    <li>
-    <p style="margin-bottom:0; ">Create a Pull Request<a href="#en10"><sup id="bm10">10&nbsp;</sup></a> to,</p>
+    <p style="margin-bottom:0; ">Create a Pull Request<a href="#en11"><sup id="bm11">11&nbsp;</sup></a> to,</p>
     <ol>
      <li>Hold the discussion about a merge.</li>
      <li>Record the final decision (to merge to not merge).</li> 
@@ -413,72 +413,67 @@ image:    "rmake-icon.svg"
   </li>
   <li id="en04">
    <p class="_list-item">
-    For more information, see <em>Markup</em> <<a href="https://radicals.world/59k36j" target="_blank">https://radicals.world/59k36j</a>> (aka, Markdown <<a href="https://radicals.world/Dbg4hm" target="_blank">https://radicals.world/Dbg4hm</a>>).
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en05">
-   <p class="_list-item">
-    An homage to <em>Unix make</em>.
-    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en06">
-   <p class="_list-item">
-    Hat off to <em>Project Xanadu</em>.
-    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en07">
-   <p class="_list-item">
-    <em>How to Lie with Statistics</em>.
-    <<a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=FKW6Y0VTHKGY7C3EM3YD" target="_blank">https://www.amazon.com/How-Lie-Statistics&hellip;</a>>
-    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-
-  <li id="en04">
-   <p class="_list-item">
     <em>Source Control System</em>.
     <<a href="https://en.wikipedia.org/wiki/Source_Code_Control_System" target="_blank">https://en.wikipedia.org/wiki/Source_Code_Control_System</a>>
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  </li>
   <li id="en05">
-   <p class="_list-item" style="text-align:left; ">
-    <em>Wikimedia</em> documentation for developers.
-    <<a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">https://mediawiki.org/$hellip/How_to_become_a_MediaWiki_hacker</a>>
+   <p class="_list-item">
+    For more information, see <em>Markup</em> <<a href="https://radicals.world/59k36j" target="_blank">https://radicals.world/59k36j</a>> (aka, Markdown <<a href="https://radicals.world/Dbg4hm" target="_blank">https://radicals.world/Dbg4hm</a>>).
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-
   <li id="en06">
    <p class="_list-item">
-    For the backend, we were planning to use _Prtcl, an OSS projec, but, unfortunately, it was shut down. It was based on IPFS and very much aligned with our goals.
-    <<a href="https://github.com/uprtcl" target="_blank">https://github.com/uprtcl</a>>
-    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+    An homage to <em>Unix make</em>.
+    <a class="_uparrow" href="#6"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en07">
    <p class="_list-item">
-    Definition of &ldquo;excursus&rdquo;.
-    <<a href="https://www.google.com/search?q=excursus&oq=excursus" target="_blank">excursus</a>>
+    Hat off to <em>Project Xanadu</em>.
     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en08">
    <p class="_list-item">
-    Definition of <em>Pull Request</em>.
-    <<a href="https://en.wikipedia.org/wiki/Fork_and_pull_model" target="_blank">Pull Request</a>>
+    <em>How to Lie with Statistics</em>.
+    <<a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=FKW6Y0VTHKGY7C3EM3YD" target="_blank">https://www.amazon.com/How-Lie-Statistics&hellip;</a>>
     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+  <!--
+   id="en09" is below, in the RELATED section
+  -->
   <li id="en10">
+   <p class="_list-item">
+    Definition of &ldquo;excursus&rdquo;.
+    <<a href="https://www.google.com/search?q=excursus&oq=excursus" target="_blank">excursus</a>>
+    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en11">
    <p class="_list-item">
     Definition of &ldquo;Pull Request&rdquo;.
     <<a href="https://en.wikipedia.org/wiki/Fork_and_pull_model" target="_blank">Pull Request</a>>
-    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+
+  </li>
+  <li id="en06">
+   <p class="_list-item" style="text-align:left; ">
+    <em>Wikimedia</em> documentation for developers.
+    <<a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">https://mediawiki.org/$hellip/How_to_become_a_MediaWiki_hacker</a>>
+    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en06">
+   <p class="_list-item">
+    For the backend, we were planning to use _Prtcl, an OSS projec, but, unfortunately, it was shut down. It was based on IPFS and very much aligned with our goals.
+    <<a href="https://github.com/uprtcl" target="_blank">https://github.com/uprtcl</a>>
+    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
@@ -503,7 +498,7 @@ image:    "rmake-icon.svg"
     </ul>
    <li>rCompanies</li>
     <ul>
-     <li>rMEDIA,</li>
+     <li id="en09">rMEDIA,</li>
       <ul>
        <li>PRADERA Shelf: <a href="https://radicalcompanies.com/2022/04/02/rShelf" target="_blank">&hellip;/rShelf</a></li>
        <li>PRADERA Reader: <a href="https://radicalcompanies.com/2022/04/01/rReader" target="_blank">&hellip;/rReader</a></li>
