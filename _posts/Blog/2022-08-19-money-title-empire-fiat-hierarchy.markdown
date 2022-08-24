@@ -7,7 +7,7 @@ image:    "fiat-hierarchy.svg"
 ---
 
 <div style="display:none;">
- <p>I used to think that people pick from three categories when they are going for a job: money, title, or empire. But they are all about your level in a FIAT hierarchy.</p>
+ <p>I used to think that people pick from three categories when they are going for a job: money, title, or empire. But it is all about your level in a FIAT hierarchy.</p>
 </div>
 
 <h1>&nbsp;</h1>
