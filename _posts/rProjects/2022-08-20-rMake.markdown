@@ -426,7 +426,7 @@ image:    "rmake-icon.svg"
   <li id="en06">
    <p class="_list-item">
     Hat off to <em>Project Xanadu</em>.
-    <<a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>>
+    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en07">
