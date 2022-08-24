@@ -116,7 +116,7 @@ image:    "rmake-icon.svg"
  </table>
 
 <h1>Then Came <span style="font-size:smaller; ">rMAKE</span>!</h1>
- <p>In the end, we opted to create a new app we call <span style="font-size:smaller; ">rMAKE</span> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries that we can use in the making of <span style="font-size:smaller; ">rMAKE</span> (<em>e.g.</em>, diff).<a href="#en06"><sup id="bm06">6&nbsp;</sup></a></p>
+ <p>In the end, we opted to create a new app we call <span style="font-size:smaller; ">rMAKE</span><a href="#en06"><sup id="bm06">6&nbsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries that we can use in the making of <span style="font-size:smaller; ">rMAKE</span> (<em>e.g.</em>, diff).</p>
  <h2>No Trunk</h2>
   <p>In <span style="font-size:smaller; ">rMAKE</span> <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
   <p>These flows are fully rendered and at any point in time, a reader would be able to see any. Perhaps one flow is recommended by readers more than the others, but all flows will still be around for readers to explore.</p>
@@ -413,10 +413,18 @@ image:    "rmake-icon.svg"
   </li>
   <li id="en04">
    <p class="_list-item">
+    For more information, see <em>Markup</em> <<a href="https://radicals.world/59k36j" target="_blank">https://radicals.world/59k36j</a>> (aka, Markdown <<a href="https://radicals.world/Dbg4hm" target="_blank">https://radicals.world/Dbg4hm</a>>).
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+
+  <li id="en04">
+   <p class="_list-item">
     <em>Source Control System</em>.
     <<a href="https://en.wikipedia.org/wiki/Source_Code_Control_System" target="_blank">https://en.wikipedia.org/wiki/Source_Code_Control_System</a>>
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
+  </li>
   </li>
   <li id="en05">
    <p class="_list-item" style="text-align:left; ">
@@ -425,6 +433,13 @@ image:    "rmake-icon.svg"
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+  <li id="en06">
+   <p class="_list-item">
+    An homage to <em>Unix make</em>.
+    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+
   <li id="en06">
    <p class="_list-item">
     For the backend, we were planning to use _Prtcl, an OSS projec, but, unfortunately, it was shut down. It was based on IPFS and very much aligned with our goals.
@@ -444,13 +459,6 @@ image:    "rmake-icon.svg"
     Definition of &ldquo;Pull Request&rdquo;.
     <<a href="https://en.wikipedia.org/wiki/Fork_and_pull_model" target="_blank">Pull Request</a>>
     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en09">
-   <p class="_list-item">
-    Definition of &ldquo;Pull Request&rdquo;.
-    <<a href="https://en.wikipedia.org/wiki/Fork_and_pull_model" target="_blank">Pull Request</a>>
-    <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en10">
