@@ -3,7 +3,7 @@ layout:   post
 title:    "rHatchery"
 subtitle: "Metamorphosis"
 authors:  "Matt Perez"
-image:    "pradera-background.svg"
+image:    "rMEDIA.svg"
 ---
 
 <div style="display: none; ">

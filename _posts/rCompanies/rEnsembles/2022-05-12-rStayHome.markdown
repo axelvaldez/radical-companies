@@ -3,7 +3,7 @@ layout:   post
 title:    "rStayHome"
 subtitle: "From Gig Subsistence to Co-Onwership"
 authors:  "Matt Perez"
-image:    "pradera-background.svg"
+image:    "rMEDIA.svg"
 ---
 
 <div style="display: none; ">

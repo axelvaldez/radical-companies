@@ -3,7 +3,7 @@ layout:   post
 title:    "rKare"
 subtitle: "From Gig Subsistence to Co-Onwership"
 authors:  "Jose Leal, Matt Perez"
-image:    "pradera-background.svg"
+image:    "rMEDIA.svg"
 ---
 
 <div style="display: none; ">
