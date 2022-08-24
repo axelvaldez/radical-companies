@@ -11,8 +11,9 @@ image:    "rmake-icon.svg"
 </div>
 
 <div style="font-size:25px; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; margin-bottom:20px; ">
- <p>A book is no longer be a book, but parallel variations on a theme. A spectrum of perspectives, built like software is done these days. This made me think of how Aztecs used to keep track of histories.</p>
- <p style="text-align:right; padding-right:1em; margin-top:15px; ">&mdash;Marysol Ortega, PhD</p>
+ <p>A book is no longer be a book, but parallel variations on a theme. A spectrum of perspectives, built like software is done these days.</p>
+ <p>This made me think of how Aztecs used to keep track of histories.</p>
+ <p style="text-align:right; padding-right:1em; margin-top:15px; ">&mdash;Marysol Ortega, PhD</p><a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
 </div>
 
 <h1>Why <span style="font-size:smaller; ">rMAKE</span></h1>
@@ -21,7 +22,7 @@ image:    "rmake-icon.svg"
  <p>The intent of <span style="font-size:smaller; ">rMAKE</span> is to make it possible for many people to contribute to a book and get authorship and ownership consistently. What would have been a laborious process for books written with a quill pen or a typewriter, it is a piece of cake using basic modern technology.</p>
 
 <h1>But You Already Can&hellip;</h1>
- <p>My first thought was that any of the various Git<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> platforms, MediaWiki,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> or even Google Docs could be it.</p>
+ <p>My first thought was that any of the various Git<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> platforms, MediaWiki,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> or even Google Docs could be it.</p>
  <h2>Git</h2>
   <table>
    <tr>
@@ -58,11 +59,11 @@ image:    "rmake-icon.svg"
     <th>PROs</th>
     <td>
      <ul>
-      <li>This is the wiki engine used by Wikipedia and it is friendly enough for writers. At least those who are used to Wiki Markup.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></li>
+      <li>This is the wiki engine used by Wikipedia and it is friendly enough for writers. At least those who are used to Wiki Markup.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></li>
       <li>It keeps a history of the document where you can see all the edits ever made to a page as well as the discussions between the page editor and other contributors.</li>
       <li>Various writers can work asynchronously (not quite in parallel).</li>
       <li>It is Open Source.</li>
-      <li>It has pretty good documentation for developers.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></li>
+      <li>It has pretty good documentation for developers.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></li>
      </ul>
     </td>
    </tr>
@@ -115,7 +116,7 @@ image:    "rmake-icon.svg"
  </table>
 
 <h1>Then Came <span style="font-size:smaller; ">rMAKE</span>!</h1>
- <p>In the end, we opted to create a new app we call <span style="font-size:smaller; ">rMAKE</span> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries that we can use in the making of <span style="font-size:smaller; ">rMAKE</span> (<em>e.g.</em>, diff).<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
+ <p>In the end, we opted to create a new app we call <span style="font-size:smaller; ">rMAKE</span> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI. Also, there are many OSS components and libraries that we can use in the making of <span style="font-size:smaller; ">rMAKE</span> (<em>e.g.</em>, diff).<a href="#en06"><sup id="bm06">6&nbsp;</sup></a></p>
  <h2>No Trunk</h2>
   <p>In <span style="font-size:smaller; ">rMAKE</span> <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
   <p>These flows are fully rendered and at any point in time, a reader would be able to see any. Perhaps one flow is recommended by readers more than the others, but all flows will still be around for readers to explore.</p>
@@ -225,7 +226,7 @@ image:    "rmake-icon.svg"
   <div class="_quotation">
    <p>That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</p>
    <p>If a statistics book chapter is OPEN, therefore, it is subject to being applied by individuals to arguments with which we may disagree.</p>
-   <p>I also think that books aren’t just about the writers, they’re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren’t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics</em><a href="#en06"><sup id="bm06">6&nbsp;</sup></a>).</p>
+   <p>I also think that books aren’t just about the writers, they’re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren’t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics</em><a href="#en07"><sup id="bm07">7&nbsp;</sup></a>).</p>
   </div>
 
 <h1>Publishing</h1>
@@ -237,7 +238,7 @@ image:    "rmake-icon.svg"
    <li>They could even pay for preventing new flows for a period of time.</li>
   </ul>
  <p>This is ripe for experimentation.</p>
- <p>See <a href="#">rMEDIA</a><a href="#en07"><sup id="bm07">7&nbsp;</sup></a> for more info.</p>
+ <p>See <a href="#">rMEDIA</a><a href="#en08"><sup id="bm08">8&nbsp;</sup></a> for more info.</p>
 
 <h1 class="_section">Use Modalities</h1>
 
@@ -299,9 +300,9 @@ image:    "rmake-icon.svg"
   <p style="margin-bottom:0; ">Same as a single writer, but in addition they need to,</p>
   <ul>
    <li>Fork the whole book as a separate flow.</li>
-   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or excursus.<a href="#en08"><sup id="bm08">8&nbsp;</sup></a></li>
+   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or excursus.<a href="#en09"><sup id="bm09">9&nbsp;</sup></a></li>
    <li>
-    <p style="margin-bottom:0; ">Create a Pull Request<a href="#en09"><sup id="bm09">9&nbsp;</sup></a> to,</p>
+    <p style="margin-bottom:0; ">Create a Pull Request<a href="#en10"><sup id="bm10">10&nbsp;</sup></a> to,</p>
     <ol>
      <li>Hold the discussion about a merge.</li>
      <li>Record the final decision (to merge to not merge).</li> 
@@ -387,55 +388,76 @@ image:    "rmake-icon.svg"
  </ul>
 
 <h1 class="_section">ENDNOTES</h1>
- <h2>Git</h2>
  <ol>
   <li id="en01">
    <p class="_list-item">
-    <em>Git</em>.
-    <<a href="https://git-scm.com/" target="_blank">https://git-scm.com/</a>>
+    AEON.
+    <em>How Aztecs Told History</em>.
+    <<a href="https://radicals.world/pWo2WK" target="_blank">https://radicals.world/pWo2WK</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p class="_list-item">
-    <em>MediaWiki</em>.
-    <<a href="https://www.mediawiki.org/wiki/MediaWiki" target="_blank">https://www.mediawiki.org/wiki/MediaWiki</a>>
+    <em>Git</em>.
+    <<a href="https://git-scm.com/" target="_blank">https://git-scm.com/</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
    <p class="_list-item">
-    <em>Source Control System</em>.
-    <<a href="https://en.wikipedia.org/wiki/Source_Code_Control_System" target="_blank">https://en.wikipedia.org/wiki/Source_Code_Control_System</a>>
+    <em>MediaWiki</em>.
+    <<a href="https://www.mediawiki.org/wiki/MediaWiki" target="_blank">https://www.mediawiki.org/wiki/MediaWiki</a>>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en04">
-   <p class="_list-item" style="text-align:left; ">
-    <em>Wikimedia</em> documentation for developers.
-    <<a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">https://mediawiki.org/$hellip/How_to_become_a_MediaWiki_hacker</a>>
+   <p class="_list-item">
+    <em>Source Control System</em>.
+    <<a href="https://en.wikipedia.org/wiki/Source_Code_Control_System" target="_blank">https://en.wikipedia.org/wiki/Source_Code_Control_System</a>>
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en05">
-   <p class="_list-item">
-    For the backend, we were planning to use _Prtcl, an OSS projec, but, unfortunately, it was shut down. It was based on IPFS and very much aligned with our goals.
-    <<a href="https://github.com/uprtcl" target="_blank">https://github.com/uprtcl</a>>
+   <p class="_list-item" style="text-align:left; ">
+    <em>Wikimedia</em> documentation for developers.
+    <<a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">https://mediawiki.org/$hellip/How_to_become_a_MediaWiki_hacker</a>>
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en06">
    <p class="_list-item">
-    Definition of &ldquo;excursus&rdquo;.
-    <<a href="https://www.google.com/search?q=excursus&oq=excursus" target="_blank">excursus</a>>
+    For the backend, we were planning to use _Prtcl, an OSS projec, but, unfortunately, it was shut down. It was based on IPFS and very much aligned with our goals.
+    <<a href="https://github.com/uprtcl" target="_blank">https://github.com/uprtcl</a>>
     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en07">
    <p class="_list-item">
+    Definition of &ldquo;excursus&rdquo;.
+    <<a href="https://www.google.com/search?q=excursus&oq=excursus" target="_blank">excursus</a>>
+    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en08">
+   <p class="_list-item">
     Definition of &ldquo;Pull Request&rdquo;.
     <<a href="https://en.wikipedia.org/wiki/Fork_and_pull_model" target="_blank">Pull Request</a>>
-    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en09">
+   <p class="_list-item">
+    Definition of &ldquo;Pull Request&rdquo;.
+    <<a href="https://en.wikipedia.org/wiki/Fork_and_pull_model" target="_blank">Pull Request</a>>
+    <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en10">
+   <p class="_list-item">
+    Definition of &ldquo;Pull Request&rdquo;.
+    <<a href="https://en.wikipedia.org/wiki/Fork_and_pull_model" target="_blank">Pull Request</a>>
+    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
