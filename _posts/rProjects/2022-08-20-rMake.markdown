@@ -426,10 +426,16 @@ image:    "rmake-icon.svg"
   <li id="en06">
    <p class="_list-item">
     Hat off to <em>Project Xanadu</em>.
-    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+    <<a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>>
+  </li>
+  <li id="en07">
+   <p class="_list-item">
+    <em>How to Lie with Statistics</em>.
+    <<a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=FKW6Y0VTHKGY7C3EM3YD" target="_blank">https://www.amazon.com/How-Lie-Statistics&hellip;</a>>
+    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=FKW6Y0VTHKGY7C3EM3YD
+
   <li id="en04">
    <p class="_list-item">
     <em>Source Control System</em>.
