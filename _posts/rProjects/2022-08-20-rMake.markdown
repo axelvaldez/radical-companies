@@ -426,7 +426,7 @@ image:    "rmake-icon.svg"
     </p>
    </li>
    <li id="en06">
-    <p class="_list-item" style="text-align:left; ">
+    <p class="_list-item">
      <em>Wikimedia</em> documentation for developers.
      <<a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">https://mediawiki.org/$hellip/How_to_become_a_MediaWiki_hacker</a>>
      <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
