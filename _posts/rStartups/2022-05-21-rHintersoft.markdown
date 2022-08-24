@@ -3,7 +3,7 @@ layout:   post
 title:    "rHintersoft"
 subtitle: "World-wide, federated software craft shops."
 authors:  "Matt Perez"
-image:    "pradera-background.svg"
+image:    "rmedia-icon.svg"
 ---
 
 <div style="display: none; ">

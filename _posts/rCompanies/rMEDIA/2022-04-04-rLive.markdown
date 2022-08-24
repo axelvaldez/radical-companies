@@ -3,7 +3,7 @@ layout:   post
 title:    "rLIVE"
 subtitle: "Iconoclasts in conversations!"
 authors:  "Matt Perez"
-image:    "rMEDIA.svg"
+image:    "rmedia-icon.svg"
 ---
 
 <div style="display: none;">

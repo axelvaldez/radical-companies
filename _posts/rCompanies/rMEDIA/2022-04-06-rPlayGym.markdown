@@ -3,7 +3,7 @@ layout:   post
 title:    "rPlayGym"
 subtitle: "People Growth, Team Growth"
 authors:  "Matt Perez"
-image:    "rMEDIA.svg"
+image:    "rmedia-icon.svg"
 ---
 
 <div style="display: none;">

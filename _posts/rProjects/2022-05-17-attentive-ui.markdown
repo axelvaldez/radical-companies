@@ -3,7 +3,7 @@ layout:   post
 title:    "Attentive UI"
 subtitle: "Auto-Morphing UI"
 authors:  "Matt Perez"
-image:    "pradera-background.svg"
+image:    "rmedia-icon.svg"
 ---
 
 <div style="display: none; ">
