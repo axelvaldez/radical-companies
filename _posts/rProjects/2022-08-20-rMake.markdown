@@ -465,23 +465,6 @@ image:    "rmake-icon.svg"
      <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
-   <!--
-    Not sure about these two
-   <li id="en12">
-    <p class="_list-item">
-     <em>Wikimedia</em> documentation for developers.
-     <<a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">https://mediawiki.org/$hellip/How_to_become_a_MediaWiki_hacker</a>>
-     <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
-    </p>
-   </li>
-   <li id="en13">
-    <p class="_list-item">
-     For the backend, we were planning to use _Prtcl, an OSS projec, but, unfortunately, it was shut down. It was based on IPFS and very much aligned with our goals.
-    <<a href="https://github.com/uprtcl" target="_blank">https://github.com/uprtcl</a>>
-     <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a>
-    </p>
-   </li>
-   -->
   </ol>
  </div>
 
