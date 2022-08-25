@@ -1,0 +1,475 @@
+---
+layout:   post
+title:    "rMEDIA"
+subtitle: "Publishing and Promotion in the RADICAL Model"
+authors:  "Matt Perez"
+image:    "rmedia-icon.svg"
+---
+
+<div style="display: none;">
+ <p>MoTown Records came to be because African American artists needed fundamentally different support than what the existing record labels offered.</p>
+</div>
+
+<h1>Intro</h1>
+ <p>MoTown Records<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> came to be because African American artists needed something fundamentally different than what the existing record labels offered.  MoTown promoted their music, their concept of music, their categories, and even their approach to it, more sensual and religious at the same time.  The existing labels were not capable of providing any of that, even with the best of intentions.</p>
+ <p>As MoTown was to Black artists and their music, <span class="_paradigm">rMEDIA</span> is to <span class="_paradigm">RADICAL</span> authors and themes.</p>
+
+<h1>Origin Story</h1>
+ <p>The way it works now, publishers license your content and take on all the risk in exchange for selling your content under their ISBN.  You own the content, they own <em>only</em> the ISBN. The publisher also owns the brand which they have built over many years and this imprimatur shines a light on your content. At least, that’s the historical narrative, but today it has evolved into something different.</p>
+ <p>Long story short, most authors make very little or no money from the sales of the book.  According to author Chuck Blakeman, “commissions are absurdly low, 8-11% generally. They can be delayed up to 30 months, after printing, distribution, and 12 months in bookstores.  Essentially, you become the bank for the publishers.” The publisher may or may not invest in any promotion.  In many cases, the publisher uses the content as a trial balloon, to see if it has traction.  If it does, they invest in promoting it, make a lot of money, and you may get some minor fame out of it and some speaking and consulting gigs.  If your content doesn’t show traction, then… that’s that.</p>
+ <p>No matter, your book’s ISBN still belongs to them.  You “own” the content, but the publisher is the only one who can sell it.   According to Blakeman, “they own the ability to distribute [your content] for at least five years and you have no say in the use of it.”</p>
+ <p>As publisher Joshua Volpara says it, “The important thing, to me, is not that publishers own the ISBN but that authors have granted [them] the right to economic exploitation over the work without limits of time, markets and even formats (<em>e.g.</em>, ebooks) or by-products (<em>e.g.</em>, movie screen-plays). Many times these limits are too loose and the deal becomes unfair.”</p>
+ <p>And, worse, the book’s message doesn’t spread widely.</p>
+
+<h1>Alignment</h1>
+ <table>
+  <tr>
+   <th colspan="2" style="text-align:center; ">Impact</th>
+  </tr>
+  <tr>
+   <th>What for?</th>
+   <td>
+    <ul>
+     <li>Create a source of information about the <span class="_paradigm">RADICAL</span>.</li>
+     <li>rMEDIA becomes the MoTown  of <span class="_paradigm">RADICAL</span> content.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th colspan="2" style="text-align:center; ">Purpose</th>
+  </tr>
+  <tr>
+   <th>Why?</th>
+   <td>
+    <ul>
+     <li>We want the world to recognize the <span class="_paradigm">FIAT</span> conditions they live in.</li>
+     <li>Give people a choice to move away from <span class="_paradigm">FIAT</span> and towards a <span class="_paradigm">RADICAL</span> world.</li>
+     <li>To spread <span class="_paradigm">RADICAL</span>-like ideas sooner, faster, and without debilitating compromises.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th colspan="2" style="text-align:center; ">Mission</th>
+  </tr>
+  <tr>
+   <th>What?</th>
+   <td>
+    <ul>
+     <li>Become self-sustainable.</li>
+     <li>Organized as a <span class="_paradigm">RADICAL</span> company.  Everybody who contributes (<em>e.g.</em>, authors, distributors, printers) participates in its ownership and the wealth it generates.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>When?</th>
+   <td>
+    <ul>
+     <li>Within 12 months.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>How?</th>
+   <td>
+    <ul>
+     <li>Create a Marketing and Sales flow.</li>
+     <li>Leverage authors in the Marketing and Sales of the content.</li>
+     <li>Establish a distinct and instantly recognizable brand.</li>
+     <li>Experiment with different media for promotion and distribution.</li>
+     <li>Virtual book clubs with authors, critics.</li>
+     <li>Virtual debates, panels, interviews.</li>
+    </ul>
+   </td>
+  </tr>
+ </table>
+
+<h1>What's in It for&hellip; ?</h1>
+ <p>Besides ownership and participation in the generated wealth, this is what people will get,</p>
+ <table>
+  <tr>
+   <th>Authors</th>
+   <td>
+    <ul>
+     <li>Promotion and exposure of their ideas, of themselves, of their content.</li>
+     <li>Being an <span class="_paradigm">rMEDIA</span> author (<em>i.e.</em>, progressive, future positive).</li>
+     <li>Thought leader of a recognized trope.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>Content Editors, Layout Designers, Developers, Graphics Designers, Media Team, Producers</th>
+   <td>
+    <ul>
+     <li>Doing what they love, without paying the <span class="_paradigm">FIAT</span> price.</li>
+     <li>Doing it with a team of co-owners, responsible to each other.</li>
+     <li>Able to experiment with the support of the team.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>Translators, Verifiers</th>
+   <td>
+    <ul>
+     <li>Learn what is perceived as a contribution.</li>
+     <li>Champion your own notion of what represents a contribution from a translator or a verifier.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>Marketing</th>
+   <td>
+    <ul> 
+     <li>Learning from the ability to experiment with various media, different messages.</li>
+     <li>Spreading the <span class="_paradigm">RADICAL</span> story, their story.</li>
+     <li>Experimenting with different ways of getting the message out.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>Sales</th>
+   <td>
+    <ul>
+     <li>Learning from listening to different types of buyers.</li>
+     <li>Learning what it takes to turn them into evangelists, not just book sellers.</li>
+     <li>Spreading the <span class="_paradigm">RADICAL</span> story, their story.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>Printers</th>
+   <td>
+    <ul>
+     <li>Learning to take the friction out of printing books.</li>
+     <li>They’ll hear, “we’ll help you compete with Amazon.”</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>Distributors</th>
+   <td>
+    <ul>
+     <li>Learning to take the friction out of book distribution.</li>
+     <li>They’ll hear, “we’ll help you compete with Amazon.”</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>Small Bookshops</th>
+   <td>
+    <ul>
+     <li>Learning to become impassionate evangelists, not just book sellers.</li>
+     <li>Make more money from the content.
+      <div class="_quotation" style="padding-bottom:2em; margin-bottom:0; ">
+       &hellip; formerly the local stores in a small town competed sharply with one another. Now, … they are beginning to join in an effort to secure the trade of the outlying farming districts and of the summer residents who tend to buy from the city by mail order. They do this by saving capital through common store-houses, through dividing specialties and thus increasing stock without increasing expenditure, by improving local service through cooperative deliveries, etc.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>
+      </div>
+     </li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>Big Book Chains</th>
+   <td>
+    <ul>
+     <li>Be associated with a  unique, easily identifiable brand that belongs to all who contribute.</li>
+     <li>They’ll have to win <span class="_paradigm">rMEDIA</span>&rsquo;s endorsement the <span class="_paradigm">FIAT</span> way. Unless they flip to the <span class="_paradigm">RADICAL</span> paradigm.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th><span class="_paradigm">rMEDIA</span></th>
+   <td>
+    <ul>
+     <li>A much needed service centered on people to spread healing ideas, create content, and distribute it all far, wide. and fast.</li>
+     <li><span class="_paradigm">rMEDIA</span> becomes a unique, easily recognized brand.</li>
+    </ul>
+   </td>
+  </tr>
+</table>
+
+<h1>From Cradle to Sales</h1>
+ <h2>Book Preparation</h2>
+  <table>
+   <tr>
+    <th>Onboarding</th>
+    <td>
+     <ul>
+      <li>Teach new authors about the process. Point out that it will take lots of reviewing over and over.</li>
+      <li>Profile the authors to co-figure out how much of the work below they are willing/capable to do.</li>
+      <li>Training in the use of new tools (<em>e.g.</em>, InDesign, Jutoh, rMake).</li>
+      <li>Mentoring (<em>i.e.</em>, tools to find  an experienced author).</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Co-Editing</th>
+    <td>
+     <ul>
+      <li>With an experienced editor from anywhere in the world.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer">&nbsp;</td>
+   </tr>
+   <tr>
+    <th>Copy Editing</th>
+    <td>
+     <ul>
+      <li>With copy editors from anywhere in the world.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer">&nbsp;</td>
+   </tr>
+   <tr>
+    <th>Book Cover Design</th>
+    <td>
+     <ul>
+      <li>With designers from anywhere in the world.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer">&nbsp;</td>
+   </tr>
+   <tr>
+    <th>Book Layout</th>
+    <td>
+     <ul>
+      <li>With layout book designers  from anywhere in the world.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer">&nbsp;</td>
+   </tr>
+   <tr>
+    <th>Text Formatting</th>
+    <td>
+     <ul>
+      <li>With skilled people from anywhere in the world.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer">&nbsp;</td>
+   </tr>
+   <tr>
+    <th>ISBNs</th>
+    <td>
+     <ul>
+      <li>Acquisition and assignment of ISBN numbers.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer">&nbsp;</td>
+   </tr>
+   <tr>
+    <th>Translations</th>
+    <td>
+     <ul>
+      <li>With translators from anywhere in the world.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer">&nbsp;</td>
+   </tr>
+  </table>
+  <p>At one end, authors could use the help of <span class="_paradigm">rMEDIA</span>; at the other they could do it themselves using the <span class="_paradigm">rMEDIA</span> infrastructure. My guess is that they would choose a combination of these. For example, translations work better when the author works in tandem with the translator because the author can, in real time, clarify tricky phrasing, explain idiomatic phrases, or the why of a difficult paragraph.</p>
+ <h2>Funding</h2>
+  <table>
+   <tr>
+    <th>Crowdfunding</th>
+    <td>
+     <ul>
+      <li>Provides the equivalent of an “advance” for co-authors who need the support upfront.</li>
+      <li>Used to test the effectiveness of different types of promotions, descriptions, tags, etc.</li>
+     </ul>
+   </td>
+  </tr>
+  <tr>
+   <th><span class="_paradigm">RADICAL</span> funding</th>
+   <td>
+    <ul>
+     <li>An advance-as-investment up front for an agreed upon return.</li>
+    </ul>
+   </td>
+  </tr>
+ </table>
+<h2>Promoting</h2>
+ <table>
+  <tr>
+   <th>Content Extraction</th>
+   <td>
+    <ul>
+     <li>Creating extracts of the book for promotional content.</li>
+     <li>Serialize (<em>e.g.</em>, Twitter, blogs).</li>
+     <li>115-second videos.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>Video</th>
+   <td>
+    <ul>
+     <li>Short videos (<em>e.g.</em>115-second videos).</li>
+     <li>Publish serial form of content/extracts.</li>
+     <li>Run campaigns on Twitter, LinkedIn, etc.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>Social Media</th>
+   <td>
+    <ul>
+     <li>Run campaigns on Twitter, LinkedIn, etc.</li>
+     <li>Publish serial form of content/extracts.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>Advertising</th>
+   <td>
+    <ul>
+     <li>For example, KDP ads.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>Fame to Fortune</th>
+   <td>
+    <ul>
+     <li>Place authors as keynotes, featured speakers.</li>
+     <li>Podcast guests.</li>
+     <li>The voice of courses and workshops.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th><span class="_paradigm">rLIVE</span></th>
+   <td>
+    <ul>
+     <li>See <span class="_paradigm">rLIVE</span><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>In-store Promos</th>
+   <td>
+    <ul>
+     <li>See <span class="_paradigm">rSHELF</span><a href="#en04"><sup id="bm04">4&nbsp;</sup></a>.</li>
+    </ul>
+   </td>
+  </tr>
+ </table>
+ <h2>Sales</h2>
+  <table>
+   <tr>
+    <th>Feet on the street</th>
+    <td>
+     <ul>
+      <li>Sales to independent book sellers.</li>
+      <li>Sales to large booksellers.</li>
+      <li>Sales to airport booksellers.</li>
+      <li>Bulk sales to corporations.</li>
+      <li>Bulk sales to workshops and other venues.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer">&nbsp;</td>
+   </tr>
+  </table>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ol>
+  <li id="en01">
+   <p class="_list-item">
+    <em>Motown Records</em>.
+    <<a href="https://www.motownrecords.com/" target="_blank">https://www.motownrecords.com/</a>>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    Mary Parker Follet
+    <em>Creative Experience</em>.
+    <<a href="https://a.co/7rTNcYl" target="_blank">https://a.co/7rTNcYl</a>>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    Matt Perez
+    <em>rLIVE</em>.
+    2021.
+    <<a href="https://radicalcompanies.com/2022/08/20/rmedia.html" target="_blank">https://radicalcompanies.com/2022/08/20/rmedia.html</a>>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item">
+    Matt Perez.
+    <em>rSHELF</em>.
+    2021
+    <<a href="">rSHELF</a>>
+    <<a href="https://radicalcompanies.com/2022/04/02/rShelf.html" target="_blank">https://radicalcompanies.com/2022/04/02/rShelf.html</a>>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ol>
+
+<h1 class="_section">RELATED</h1>
+ <ul>
+  <li>RADICAL COMPANIES,</li>
+   <ul>
+    <li><a>EN</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/radicalcompanies.com [EN]</a></li>
+    <li><a>ES</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/radicalcompanies.com [ES]</a></li>
+   </ul>
+  <li>Blog posts,</li>
+   <ul>
+    <li>For the Impatient: <a href="https://radicalcompanies.com/2022/05/04/RADICAL-COMPANIES-impatient" target="_blank">&hellip;/RADICAL-COMPANIES-impatient</a></li>
+    <li>Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/05/RADICAL-COMPANIES-faq" target="_blank">&hellip;/RADICAL-COMPANIES-faq</a></li>
+   </ul>
+   <li>Missing Chapters,</li>
+    <ul>
+     <li>rCoin: <a href="https://radicalcompanies.com/2022/05/07/rcoins.html" target="_blank">&hellip;/rcoin</a></li>
+     <li>rLand: <a href="https://radicalcompanies.com/2022/05/08/rland.html" target="_blank">&hellip;/rland</a></li>
+     <li>rGov: <a href="https://radicalcompanies.com/2022/05/06/rgov.html" target="_blank">&hellip;/rgov</a></li>
+    </ul>
+   <li>rCompanies</li>
+    <ul>
+     <li>rMEDIA,</li>
+      <ul>
+       <li>PRADERA Shelf: <a href="https://radicalcompanies.com/2022/04/02/rShelf" target="_blank">&hellip;/rShelf</a></li>
+       <li>PRADERA Reader: <a href="https://radicalcompanies.com/2022/04/01/rReader" target="_blank">&hellip;/rReader</a></li>
+       <li>RADICALS.LIVE!: <a href="https://radicalcompanies.com/2022/04/04/rLive" target="_blank">&hellip;/rLive</a></li>
+       <li>RADICAL MBA: <a href="https://radicalcompanies.com/2022/04/03/rMBA" target="_blank">&hellip;/rMBA</a></li>
+      </ul>
+     <li>rHatchery: <a href="https://radicalcompanies.com/2022/05/16/rHatchery" target="_blank">&hellip;/rHatchery</a> <span style="font-weight:bold; ">[Under development]</span></li>
+     <li>rCircuit: <a href="https://radicalcompanies.com/2022/04/05/rCircuit" target="_blank">&hellip;/rCircuit</a></li>
+     <li>rPlayGym: <a href="https://radicalcompanies.com/2022/04/06/rPlayGym" target="_blank">&hellip;/rPlayGym</a></li>
+     <li>rEnsembles,</li>
+      <ul>
+       <li>rCORE: <a href="https://radicalcompanies.com/2022/05/15/rCORE" target="_blank">&hellip;/rCORE</a> <span style="font-weight:bold; ">[Under development]</span></li>
+       <li>rClean: <a href="https://radicalcompanies.com/2022/05/14/rClean" target="_blank">&hellip;/rClean</a></li>
+       <li>rStayHome: <a href="https://radicalcompanies.com/2022/05/12/rStayHome" target="_blank">&hellip;/rStayHome</a></li>
+       <li>rKare: <a href="https://radicalcompanies.com/2022/05/13/rKare" target="_blank">&hellip;/rKare</a></li>
+      </ul>
+    </ul>
+  <li>rStartups,</li>
+   <ul>
+    <li>rBuddyNeighbor: <a href="https://radicalcompanies.com/2022/05/20/rBuddyNeighbor" target="_blank">&hellip;/rBuddyNeighbor</a></li>
+    <li>rNextBright: <a href="https://radicalcompanies.com/2022/05/22/rNextBright" target="_blank">&hellip;/rNextBright</a></li>
+    <li>rHintersoft: <a href="https://radicalcompanies.com/2022/05/21/rHintersoft" target="_blank">&hellip;/rHintersoft</a></li> 
+   </ul>
+  <li>rProjects,</li>
+   <ul>
+    <li>REMARK!: <a href="https://radicalcompanies.com/2022/05/18/REMARK" target="_blank">&hellip;/REMARK (API)</a></li>
+    <li>RADs!: <a href="https://radicalcompanies.com/2022/05/19/RADs!" target="_blank">&hellip;/RADs! (App)</a> <span style="font-weight:bold; ">[Under development]</span></li>
+    <li>Attentive UI: <a href="https://radicalcompanies.com/2022/05/17/attentive-ui.html" target="_blank">&hellip;attentive-ui.html</a></li>
+   </ul>
+ </ul>
