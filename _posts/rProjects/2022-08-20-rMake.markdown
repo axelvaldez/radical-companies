@@ -454,7 +454,7 @@ image:    "rmake-icon.svg"
    <!--
     id="en10" is below, in the RELATED section
    -->
-   <li id="en11" style="counter-increment:muffin;">
+   <li id="en11" style="counter-increment:muffin 42;">
     <p class="_list-item">
      Definition of &ldquo;excursus&rdquo;.
      <<a href="https://www.google.com/search?q=excursus&oq=excursus" target="_blank">https://www.google.com/search?q=excursus&oq=excursus</a>>
@@ -470,7 +470,7 @@ image:    "rmake-icon.svg"
    </li>
 
    <li id="en06">
-    <p class="_list-item" style="text-align:left; ">
+    <p class="_list-item">
      <em>Wikimedia</em> documentation for developers.
      <<a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">https://mediawiki.org/$hellip/How_to_become_a_MediaWiki_hacker</a>>
      <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
