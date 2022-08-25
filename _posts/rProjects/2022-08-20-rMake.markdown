@@ -238,7 +238,7 @@ image:    "rmake-icon.svg"
    <li>They could even pay for preventing new flows for a period of time.</li>
   </ul>
  <p>This is ripe for experimentation.</p>
- <p>See <a href="#">rMEDIA</a><a href="#en09"><sup id="bm09">9&nbsp;</sup></a> for more info.</p>
+ <p>See rMEDIA<a href="#en09"><sup id="bm09">9&nbsp;</sup></a> for more info.</p>
 
 <h1 class="_section">Use Modalities</h1>
 
