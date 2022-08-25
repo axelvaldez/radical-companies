@@ -454,7 +454,7 @@ image:    "rmake-icon.svg"
    <!--
     id="en10" is below, in the RELATED section
    -->
-   <li id="en11" style="counter-increment:muffin 42;">
+   <li id="en11" style="counter-increment:muffin 1;">
     <p class="_list-item">
      Definition of &ldquo;excursus&rdquo;.
      <<a href="https://www.google.com/search?q=excursus&oq=excursus" target="_blank">https://www.google.com/search?q=excursus&oq=excursus</a>>
