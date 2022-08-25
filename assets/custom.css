@@ -299,13 +299,3 @@ td._spacer {
   width:80%;
   margin:0 auto 30px auto;
 }
-ol li {
-  counter-increment:muffin;
-}
-ol li:before {
-  content:counter(muffin) ". ";
-}
-ol {
-  list-style:none;
-  counter-reset:muffin;
-}
