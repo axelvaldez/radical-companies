@@ -37,11 +37,6 @@ image:    "rmake-icon.svg"
      </ul>
     </td>
    </tr>
-   <!--
-   <tr>
-    <td colspan="2" class="_spacer"></td>
-   </tr>
-   -->
    <tr>
     <th>CONs</th>
     <td>
@@ -50,9 +45,6 @@ image:    "rmake-icon.svg"
       <li>The <strong>trunk</strong> is the boss and it is the only one that counts (<em>i.e.</em>, gets compiled into production). Branches are ephemeral, second class objects.</li>
      </ul>
     </td>
-   </tr>
-   <tr>
-    <td colspan="2" class="_spacer"></td>
    </tr>
   </table>
  <h2>MediaWiki</h2>
@@ -72,9 +64,6 @@ image:    "rmake-icon.svg"
   </table>
   <table>
    <tr>
-    <td colspan="2" class="_spacer"></td>
-   </tr>
-   <tr>
     <th>CONs</th>
     <td>
      <ul>
@@ -82,9 +71,6 @@ image:    "rmake-icon.svg"
       <li>There’s no way to see previous versions, except by reading the History and applying heavy use of your imagination.</li>
      </ul>
     </td>
-   </tr>
-   <tr>
-    <td colspan="2" class="_spacer"></td>
    </tr>
   </table>
 <h2>Google Docs</h2>
@@ -152,9 +138,6 @@ image:    "rmake-icon.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2" class="_spacer"></td>
-   </tr>
-   <tr>
     <th>2+1 = 3</th>
     <td>
      <ul>
@@ -164,9 +147,6 @@ image:    "rmake-icon.svg"
       <li>From that point on the flow is owned by all three of us.</li>
      </ul>
     </td>
-   </tr>
-   <tr>
-   <td colspan="2" class="_spacer"></td>
    </tr>
    <tr>
     <th>2+1 &ne; 1+2</th>
@@ -180,9 +160,6 @@ image:    "rmake-icon.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2" class="_spacer"></td>
-   </tr>
-   <tr>
     <th>1+1 = 1</th>
     <td>
      <ul>
@@ -192,9 +169,6 @@ image:    "rmake-icon.svg"
       <li>That is fine. I continue to own the content I authored and co-own any content that I co-authored.</li>
      </ul>
     </td>
-   </tr>
-   <tr>
-   <td colspan="2" class="_spacer"></td>
    </tr>
   </table>
 
