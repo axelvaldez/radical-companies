@@ -255,6 +255,7 @@ h1._section {
 }
 th {
   text-align:right;
+  vertical-align:top;
   padding-right:1em;
   width:1.5in;
 }
