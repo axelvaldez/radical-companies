@@ -438,17 +438,19 @@ image:    "rmake-icon.svg"
      <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
+   <!--
    <li id="en08">
     <p class="_list-item">
      Hat off to <em>Project Xanadu</em>.
      <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
-   <li id="en09">
+   -->
+   <li id="en08">
     <p class="_list-item">
      <em>How to Lie with Statistics</em>.
      <<a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=FKW6Y0VTHKGY7C3EM3YD"  target="_blank">https://www.amazon.com/How-Lie-Statistics&hellip;</a>>
-     <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
+     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
    <!--
