@@ -510,12 +510,12 @@ image:    "rmake-icon.svg"
     </ul>
    <li>rCompanies</li>
     <ul>
-     <li id="en10">rMEDIA, <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a></li>
+     <li rMEDIA,
       <ul>
-       <li>PRADERA Shelf: <a href="https://radicalcompanies.com/2022/04/02/rShelf" target="_blank">&hellip;/rShelf</a></li>
-       <li>PRADERA Reader: <a href="https://radicalcompanies.com/2022/04/01/rReader" target="_blank">&hellip;/rReader</a></li>
+       <li>rShelf: <a href="https://radicalcompanies.com/2022/04/02/rShelf" target="_blank">&hellip;/rShelf</a></li>
+       <li>rReader: <a href="https://radicalcompanies.com/2022/04/01/rReader" target="_blank">&hellip;/rReader</a></li>
        <li>RADICALS.LIVE!: <a href="https://radicalcompanies.com/2022/04/04/rLive" target="_blank">&hellip;/rLive</a></li>
-       <li>RADICAL MBA: <a href="https://radicalcompanies.com/2022/04/03/rMBA" target="_blank">&hellip;/rMBA</a></li>
+       <li>rMBA: <a href="https://radicalcompanies.com/2022/04/03/rMBA" target="_blank">&hellip;/rMBA</a></li>
       </ul>
      <li>rHatchery: <a href="https://radicalcompanies.com/2022/05/16/rHatchery" target="_blank">&hellip;/rHatchery</a> <span style="font-weight:bold; ">[Under development]</span></li>
      <li>rCircuit: <a href="https://radicalcompanies.com/2022/04/05/rCircuit" target="_blank">&hellip;/rCircuit</a></li>
