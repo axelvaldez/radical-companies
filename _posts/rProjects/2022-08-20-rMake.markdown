@@ -300,9 +300,9 @@ image:    "rmake-icon.svg"
   <p style="margin-bottom:0; ">Same as a single writer, but in addition they need to,</p>
   <ul>
    <li>Fork the whole book as a separate flow.</li>
-   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or excursus.<a href="#en11"><sup id="bm11">11&nbsp;</sup></a></li>
+   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or excursus.<a href="#en10"><sup id="bm10">10&nbsp;</sup></a></li>
    <li>
-    <p style="margin-bottom:0; ">Create a Pull Request<a href="#en12"><sup id="bm12">12&nbsp;</sup></a> to,</p>
+    <p style="margin-bottom:0; ">Create a Pull Request<a href="#en11"><sup id="bm11">11&nbsp;</sup></a> to,</p>
     <ol>
      <li>Hold the discussion about a merge.</li>
      <li>Record the final decision (to merge to not merge).</li> 
