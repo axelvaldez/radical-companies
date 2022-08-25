@@ -37,9 +37,11 @@ image:    "rmake-icon.svg"
      </ul>
     </td>
    </tr>
+   <!--
    <tr>
     <td colspan="2" class="_spacer"></td>
    </tr>
+   -->
    <tr>
     <th>CONs</th>
     <td>
