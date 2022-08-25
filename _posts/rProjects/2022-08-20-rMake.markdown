@@ -467,7 +467,6 @@ image:    "rmake-icon.svg"
    </li>
    <!--
     Not sure about these two
-   -->
    <li id="en12">
     <p class="_list-item">
      <em>Wikimedia</em> documentation for developers.
@@ -482,6 +481,7 @@ image:    "rmake-icon.svg"
      <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
+   -->
   </ol>
  </div>
 
