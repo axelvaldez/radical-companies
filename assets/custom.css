@@ -253,10 +253,6 @@ h1._section {
   vertical-align:top;
   font-size:smaller;
 }
-ol.li.p {
-  text-align:left !important;
-  color: red;
-}
 th {
   text-align:right;
   padding-right:1em;
@@ -264,6 +260,7 @@ th {
 }
 td {
   text-align:left;
+  vertical-align:top;
   padding-left:1em;
 }
 td._spacer {
