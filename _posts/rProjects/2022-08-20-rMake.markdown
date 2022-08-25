@@ -434,7 +434,7 @@ image:    "rmake-icon.svg"
    </li>
    <li id="en07">
     <p class="_list-item">
-     An homage to <em>Unix make</em>.
+     An homage to <em>Unix <span style="font-weight:bold;">make</span></em>.
      <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
