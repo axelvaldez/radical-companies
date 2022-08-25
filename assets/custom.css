@@ -297,15 +297,15 @@ td._spacer {
   border:1px solid CadetBlue;
   padding:2em 2em 0 2em;
   width:80%;
-  margin: 0 auto 30px auto;
+  margin:0 auto 30px auto;
 }
 ol li {
   counter-increment:muffin;
 }
 ol li:before {
-  content: counter(muffin) ". ";
+  content:counter(muffin) ". ";
 }
 ol {
-  list-style: none;
-  counter-reset: muffin;
+  list-style:none;
+  counter-reset:muffin;
 }
