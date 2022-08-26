@@ -19,7 +19,7 @@ image:    "co-ownership-in-small-bites-icon.svg"
  <img style="margin-left:10px; float:right; width:30%; "
   src="/assets/img/co-ownership-the-smaller-bite.svg"
   alt="The heading reads Co-Ownership. Below it there are three circles with bite marks over most of it.">
- <p>This post is about a couple of smaller bites that, we hope, people may find be less threatening and signal &ldquo;progressiveness.&rdquo; Rather than attempting to change the ownership structure of the whole business, we are talking about starting with a co-owned repayment fund and a co-owned bonus fund.</p>
+ <p>This post is about a few smaller bites that, we hope, people may find be less threatening and signal &ldquo;progressiveness.&rdquo; Rather than attempting to change the ownership structure of the whole business, we are talking about starting with a co-owned repayment fund and a co-owned bonus fund.</p>
  <br style="clear:both; ">
  <p>We have gotten used to taking cash infusions from Angels and VCs. Angel investors get a note that promises them a future take. Then VCs show up and makes a big investment. The Angels get their money back <em>and</em> their promised take, and the VC gets a piece of the business. More often than not, a lead VC brings other VCs along and together they end up with <em>majority control</em> of the business.</p>
  <p>In theory, investors don&rsquo;t have a say in day-to-day operations, but in practice if there&rsquo;s something they don&rsquo;t like, they can fire the CEO and get a new one to change what they don&rsquo;t like. The end result is that money making ends up being the only priority while everything else falls by the proverbial wayside. The product, the technology, and, worst of all, the people become replaceable pieces of the money-making machine.</p>
@@ -39,6 +39,12 @@ image:    "co-ownership-in-small-bites-icon.svg"
 <h1><span class="_paradigm">RAD DISTRIBUTION</span>s</h1>
  <p><span class="_paradigm">RAD DISTRIBUTION</span>s<a id="bn02" href="#en02"><sup>2&nbsp;</sup></a> are all about recognizing contributions <em>and assigning them a value</em>. That is what the boss is doing in the privacy of his mind&mdash;nobody else knows if he is recognizing a contribution to the business&rsquo; bottom line, to the operations, or to his ego.</p>
  <p><span class="_paradigm">RAD DISTRIBUTION</span>s  do a similar thing, but lets everybody do it, not just the boss. They also assign a <em>tangible</em> value to each contribution that can later be translated to a percentage of, say, revenue, or a &ldquo;bonus&rdquo; fund, or an investment repayment fund. <span class="_paradigm">RAD</span> Distributions are a tool for decentralizing the recognition of contributions. No central boss or formula needed for these distributions.</p>
+
+<h1>Building Communities: Adjacent Software Projects</h1>
+ <p></p>
+
+<h1>Building Communities: Research</h1>
+ <p></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
