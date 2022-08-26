@@ -42,7 +42,7 @@ image:    "co-ownership-in-small-bites-icon.svg"
 
 <h1>Building Communities: Adjacent Software Projects</h1>
  <p>A young friend of mine is working a very different approach to programming that would make it easier to build sophisticated programs. It is not he typical architecture of tying together prebuild modules. He already has seeded other projects that have been embraced by developers, so this is bound to make a similar impact. The problem is that this kind of work is pretty lonely and there&rsquo;s never a community. There is, however, other work going on that's adjacent to it. That is where <span class="_paradigm">RAD</span>s can make a difference because <em><span class="_paradigm">RAD</span>s can help create a community</em>.</p>
- <p>My friend could seed a community with people who understands and believe and what he is doing, and people who are working on technology that may turn out to be relevant to his work. He would do that by inviting these people to his <span class="_paradigm">RAD</span> community. That is, a community </p>
+ <p>My friend could seed a community with people who understands and believe and what he is doing, and people who are working on technology that may turn out to be relevant to his work. He would do that by inviting these people to his <span class="_paradigm">RAD</span> community of people who could help each other with feedback, critique, code, financial support, and whatever comes up. In particular to a software project</p>
  <p></p>
 
 <h1>Building Communities: Research</h1>
