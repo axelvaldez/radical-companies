@@ -60,8 +60,8 @@ image:    "co-ownership-in-small-bites-icon.svg"
   </li>
   <li id="en02">
    <p>
-    <em>Givine RADs</em>
-    <<a href="https://radicalcompanies.com/2022/07/17/giving-rads-the-latest.html" target="blank">&hellip;/giving-rads-the-latest</a>>
+    <em>Giving RADs</em>
+    <<a href="https://radicalcompanies.com/2022/08/12/giving-rads.html" target="blank">&hellip;/giving-rads</a>>
     <a href="#bn02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
    </p>
   </li>
