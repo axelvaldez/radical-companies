@@ -43,7 +43,7 @@ image:    "co-ownership-in-small-bites-icon.svg"
 <h1 class="_section">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="en01">
-   <p>It is not a gift. What is normally called a <em>bonus</em> really is <em>earned dividends</em>, a form of wealth extraction from the value everybody helped create
+   <p>It is not a gift. What is normally called a <em>bonus</em> really is <em>earned dividends</em>, a form of wealth extraction from the value everybody, including you, helped create
    <a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></p>
   </li>
   <li id="en02">
