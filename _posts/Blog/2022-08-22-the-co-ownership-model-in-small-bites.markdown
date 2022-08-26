@@ -43,7 +43,9 @@ image:    "co-ownership-in-small-bites-icon.svg"
 <h1>Building Communities: Adjacent Software Projects</h1>
  <p>A young friend of mine is working a very different approach to programming that would make it easier to build sophisticated programs. It is not he typical architecture of tying together prebuild modules. He already has seeded other projects that have been embraced by developers, so this is bound to make a similar impact. The problem is that this kind of work is pretty lonely and there&rsquo;s never a community. There is, however, other work going on that's adjacent to it. That is where <span class="_paradigm">RAD</span>s can make a difference because <em><span class="_paradigm">RAD</span>s can help create a community</em>.</p>
  <p>My friend could seed a community with people who understands and believe and what he is doing, and people who are working on technology that may turn out to be relevant to his work. He would do that by inviting these people to his <span class="_paradigm">RAD</span> community of people who could help each other with feedback, critique, code, financial support, and whatever comes up.</p>
+ <h2>Community as Pipeline</h2>
  <p>In particular to a software project, the community could end up trasforming prototypes into products. In the software space, at the 30,000-foot level, there are people who like ideas and writing about it; others like transforming ideas into prototypes; and still others who like to transform prototypes into products. But transforming protypes into products is where it gets messy because you have to form a copmpany to raise capital, then you get a Board, and your prototype-into-product intentions fall by the way side and you end up with a prototype-to-paying customers business. A lot of prople find that&hellip; not &ldquo;right.&rdquo; Nobody minds the money that comes along with all that, mind you. But they may not be comfortable with the <span class="_paradigm">FiAt</span> mindset and behavior that it requires.</p>
+ <h2>Splitting the Treasure</h2>
  <p>With <span class="_paradigm">RAD</span>s, you bypass the whole business/money/hierarchy stuff. My friend can from a community and the community deliver products. As revenue starts to come in, it can be distributed to the people who contributed to making it happen based on how many <span class="_paradigm">RAD</span>s each has been giving by their peers in the community.</p>
 
 <h1>Building Communities: Research</h1>
@@ -57,8 +59,11 @@ image:    "co-ownership-in-small-bites-icon.svg"
    <a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></p>
   </li>
   <li id="en02">
-   <p><a href="https://radicalcompanies.com/2022/07/17/giving-rads-the-latest.html" target="blank">Givingn RADs</a>
-   <a href="#bn02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></p>
+   <p>
+    <em>Givine RADs</em>
+    <<a href="https://radicalcompanies.com/2022/07/17/giving-rads-the-latest.html" target="blank">&hellip;/giving-rads-the-latest</a>>
+    <a href="#bn02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+   </p>
   </li>
  </ol>
 
