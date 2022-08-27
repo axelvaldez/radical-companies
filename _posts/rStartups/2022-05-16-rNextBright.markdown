@@ -3,7 +3,7 @@ layout:   post
 title:    "rNextBright"
 subtitle: "WE GROW, YOU GROW, I GROW."
 authors:  "Matt Perez"
-image:    "rmedia-icon.svg"
+image:    "rnextbright-icon.svg"
 ---
 
 <div style="display: none; ">
