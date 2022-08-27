@@ -47,9 +47,9 @@ image:    "co-ownership-in-small-bites-icon.svg"
   <p>My friend could seed a community with people who understands and believe in what he is doing, and also with people who are working on technology that may turn out to be relevant to his work (<em>i.e.</em>, not immediately adjacent, but close enough). He could invite these people to his <span class="_paradigm">RAD</span> community and they could help each other with feedback, critique, code, financial support, and whatever else comes up. This software community could end up trasforming prototypes into products.</p>
   <p>In the software space, there are,
    <ul>
-    <li>People who like ideas and writing about it,<li>
-    <li>Others like transforming ideas into prototypes, and<li>
-    <li>Still others like to transform prototypes into products<li>
+    <li>People who like ideas and writing about it,</li>
+    <li>Others like transforming ideas into prototypes, and</li>
+    <li>Still others like to transform prototypes into products</li>
    </ul>
   </p>
   <p>Transforming protypes into products is where it gets messy. At this point you have to form a copmpany to raise capital, then you get a Board of investors-as-owners, and your prototype-into-product intentions fall by the way side and you end up with a prototype-to-paying customers business. A lot of prople find that&hellip; not &ldquo;right.&rdquo; Nobody minds the money that comes along with all that, but they may not be comfortable with the <span class="_paradigm">FIAT</span> mindset and behavior that it requires.</p>
