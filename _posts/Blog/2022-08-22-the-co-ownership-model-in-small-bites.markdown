@@ -64,7 +64,7 @@ image:    "co-ownership-in-small-bites-icon.svg"
   <li id="en02">
    <p>
     <em>Giving RADs</em>.
-    <<a href="https://radicalcompanies.com/2022/08/12/giving-rads.html" target="blank">&hellip;/giving-rads</a>>
+    <<a href="https://radicalcompanies.com/2022/08/12/giving-rads.html" target="blank">https://radicalcompanies.com/2022/08/12/giving-rads.html</a>>
     <a href="#bn02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
    </p>
   </li>
@@ -81,6 +81,15 @@ image:    "co-ownership-in-small-bites-icon.svg"
    <p>
     <em>Blair Fix&rsquo; Patreon page</em>.
     <<a href="https://www.patreon.com/blairfix" target="blank">https://www.patreon.com/blairfix</a>>.
+    <a href="#bn04"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p>
+    Matt M Perez.
+    <em>rMake</em>.
+    2021.
+    <<a href="https://radicalcompanies.com/2022/05/20/rmake.html" target="blank">https://radicalcompanies.com/2022/05/20/rmake.html</a>>.
     <a href="#bn04"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
    </p>
   </li>
