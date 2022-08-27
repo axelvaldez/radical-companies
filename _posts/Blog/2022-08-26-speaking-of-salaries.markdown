@@ -11,6 +11,8 @@ image:    "about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
+Needs-based Salaries
+Remove a Perennial Problem: Salary Management
 
 <p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
 
