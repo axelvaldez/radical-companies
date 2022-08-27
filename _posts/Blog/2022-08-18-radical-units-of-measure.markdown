@@ -11,17 +11,22 @@ image:    "radical-units-of-measure.svg"
 </div>
 
 <h1>RADICAL Units of Measure</h1>
- <p>In our book, <em><span class="_paradigm">RADICAL COMPANIES</span></em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> we came up with <span class="_paradigm">RAD</span>s as a unit of measure. It turns out that what we really need is a unit of distribution and a unit of recognition. <span class="_paradigm">RAD</span> is the unit of distribution and as such it accounts for the unaccountable. The unit of recognition could remain nameless and hide behing the <em>RADs! App</em><a href="bm02"><sup id="#en02">2&nbsp;</sup></a> algoritm, but to be transparent, we should come up with a name for it, so let's call it <span class="_paradigm">REC</span>.
+ <p>In our book, <em><span class="_paradigm">RADICAL COMPANIES</span></em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> we came up with <span class="_paradigm">RAD</span>s as a unit of measure. It turns out that what we really need is a unit of <em>recognition</em> and a unit of <em>distribution</em>. <span class="_paradigm">RAD</span> is the distribution unit, and it accounts for the unaccountable. It measure the value of contributions as recognized by your peers. It is not at all conneced to hours or title or any such thing. The unit of recognition could remain nameless and hide behind the <span class="_paradigm">RADs</span> App<a href="bm02"><sup id="#en02">2&nbsp;</sup></a> algorithm, but to be transparent, we need a name for it and we are calling it REC for now.</p>
 
 <h1><span class="_paradigm">RAD</span> as a Unit of Distribution</h1>
- <p><span class="_paradigm">RAD</span>s are a unit of distribution. The <span class="_paradigm">RAD</span>s you are given by your peer co-owners turn into a percentage turn into a percentage of the total <span class="_paradigm">RAD</span>s given to date. Then anything that has to be distributed, say Earned Dividends<a href="#en03"><sup id="bm03">3&nbsp;</sup></a>, are multiplied by that percentage in order to figure our how much of the Earned Dividends you get. But as we tried to use them in the <em><span class="_paradigm">RAD</span>s! app</em> it got too cumbersome. That is because what we want to make frictionless is to capture <em>the recognition of contributions</em>. In fact, we want to make it intuitive to capture the <em>feeling</em> that the contribution brought up in a co-owner.</p>
+ <p><span class="_paradigm">RAD</span>s are a unit of distribution. The <span class="_paradigm">RAD</span>s  your peer co-owners give you accumulate as percentage of the total <span class="_paradigm">RAD</span>s you have given to date. Then anything that has to be distributed, say Earned Dividends<a href="#en03"><sup id="bm03">3&nbsp;</sup></a>, are multiplied by that percentage to calculate the amount you get.</p>
+ <p>As we tried to use <em><span class="_paradigm">RAD</span>s in the <em>RADs! app</em>, it got too clumsy and cumbersome. You ended up adding and subtracting, cognitive stuff. We wanted to capture the <em>feeling</em> that the contribution brought up in a co-owner and it became obvious that we needed something other than <span class="_paradigm">RAD</span>s</p>
  
 <h1><span class="_paradigm">REC</span> as a Unit of Recognition</h1>
- <p>Given the need for a unit of recognition, <span class="_paradigm">REC</span>s were born. However, they work completely in the background.</p>
+ <p>We needed a unit of recognition and <span class="_paradigm">REC</span>s were born. However, they work completely in the background.</p>
  <p>The <em>RADs! app</em> lets a co-owner press a recognition button as many times as she feels like it (<em>i.e.</em>, really, there's no limit). This captures the <em>intensity of the feeling</em> that the contribution brought up in the giving co-owner. Let&rsquo;s call her Deb.</p>
- <p>At the end of the cycle, the <span class="_paradigm">REC</span>s that Deb gave other co-owners are converted to <span class="_paradigm">RAD</span>s. First, the number of <span class="_paradigm">REC</span>s Deb gave each co-owner during the cycle is divided by the total of <span class="_paradigm">REC</span>s she gave. Each resulting percentages is then multiplied by the total number of days in the cycle. This results in the number of <span class="_paradigm">RAD</span>s other co-owners get from Deb.</p>
- 
-<div style="text-align:center; ">
+ <p>At the end of the cycle, the <span class="_paradigm">REC</span>s that Deb gave other co-owners convert to <span class="_paradigm">RAD</span>s,
+  <ul>
+   <li>First, the number of <span class="_paradigm">REC</span>s Deb gave each co-owner during the cycle is divided by the total of <span class="_paradigm">REC</span>s she gave.</li>
+   <li>Each resulting percentage is then multiplied by the total number of days in the cycle. This results in the number of <span class="_paradigm">RAD</span>s other co-owners get from Deb.</li>
+  </ul>
+ </p>
+ <div style="text-align:center; ">
  <img
   src="/assets/img/recs-to-rads-equation.svg"
   width="70%"
