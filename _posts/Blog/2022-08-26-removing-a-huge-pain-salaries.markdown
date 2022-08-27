@@ -14,8 +14,6 @@ image:    "about-daos.svg"
 Needs-based Salaries
 Remove a Perennial Problem: Salary Management
 
-<p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
-
 <div style="text-align:center; ">
  <img
   src="/assets/img/recs-to-rads-equation.svg"
