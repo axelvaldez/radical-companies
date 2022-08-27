@@ -94,7 +94,7 @@ image:    "co-ownership-in-small-bites-icon.svg"
     <em>rMake</em>.
     2021.
     <<a href="https://radicalcompanies.com/2022/05/20/rmake.html" target="blank">https://radicalcompanies.com/2022/05/20/rmake.html</a>>.
-    <a href="#bn04"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+    <a href="#bm05"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
    </p>
   </li>
  </ol>
