@@ -63,13 +63,13 @@ image:    "co-ownership-in-small-bites-icon.svg"
   <li id="en01">
    <p>A &ldquo;bonus&rdquo; is not a gift. What is normally called &ldquo;bonuses&rdquo; really are <em>earned dividends</em>, &ldquo;&hellip; paid to shareholders from surplus profits.&rdquo;. This is a form of wealth extraction of the value everybody, including you, helped create.
    <<a href="https://www.etymonline.com/word/bonus">https://www.etymonline.com/word/bonus</a>>
-   <a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></p>
+   <a href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></p>
   </li>
   <li id="en02">
    <p>
     <em>Giving RADs</em>.
     <<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>>
-    <a href="#bn02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+    <a href="#bm02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
    </p>
   </li>
   <li id="en03">
@@ -78,14 +78,14 @@ image:    "co-ownership-in-small-bites-icon.svg"
     <em>Growing Through Sabotage: Energizing Hierarchical Power</em>.
     <<a href="https://capitalaspower.com/2020/09/growing-through-sabotage/" target="blank">https://capitalaspower.com/2020/09/growing-through-sabotage/</a>
     (alt. <a href="https://diigo.com/0prmqb">here</a>)>
-    <a href="#bn03"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+    <a href="#bm03"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
    </p>
   </li>
   <li id="en04">
    <p>
     <em>Blair Fix&rsquo; Patreon page</em>.
     <<a href="https://www.patreon.com/blairfix" target="blank">https://www.patreon.com/blairfix</a>>.
-    <a href="#bn04"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+    <a href="#bm4"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
    </p>
   </li>
   <li id="en04">
