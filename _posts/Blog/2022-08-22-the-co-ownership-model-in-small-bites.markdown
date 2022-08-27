@@ -47,8 +47,8 @@ image:    "co-ownership-in-small-bites-icon.svg"
   <p>My friend could seed a community with people who understands and believe in what he is doing, and also with people who are working on technology that may turn out to be relevant to his work (<em>i.e.</em>, not immediately adjacent, but close enough). He could invite these people to his <span class="_paradigm">RAD</span> community and they could help each other with feedback, critique, code, financial support, and whatever else comes up. This software community could end up trasforming prototypes into products.</p>
   <p>In the software space, there are,
    <ul>
-    <li>People who like ideas and writing about it,
-    <li>Others like transforming ideas into prototypes, and
+    <li>People who like ideas and writing about it,<li>
+    <li>Others like transforming ideas into prototypes, and<li>
     <li>Still others like to transform prototypes into products<li>
    </ul>
   </p>
