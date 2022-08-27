@@ -15,7 +15,8 @@ image:    "removing-a-huge-pain-salaries.svg"
  <p>The alternative is to let people set their own salaries.</p>
 
 <h1>Salary Self-Management</h1>
- <p>Responsible adults know what they need, And everybody you hire is a responsible adult. So why not involve them in the prodess of assigning salaries.</p>
+ <p>Responsible adults know what they need, And everybody you hire is a responsible adult. So why not involve them in the prodess of assigning salaries?</p>
+ <p></p>
 
 <div style="text-align:center; ">
  <img
