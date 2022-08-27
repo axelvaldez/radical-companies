@@ -12,9 +12,10 @@ image:    "about-daos.svg"
 
 <h1>&nbsp;</h1>
  <p>Salaries are a pain for salaried people <span style="font-weight:bold; ">and</span> for the bosses who have to face them. Not only are they a pain, but the system is way too centralized, in the hands of bosses who have no idea what anybody really needs and have only a fuzzy, biased idea as to anybody&rsquo;s contribution. There is no way for bosses to be <em>fair</em> or for the employees to feel they are being treated fairly.</p>
+ <p>The alternative is to let people set their own salaries.</p>
 
-Needs-based Salaries
-Remove a Perennial Problem: Salary Management
+<h1>Salary Self-Management</h1>
+ <p>Responsible adults know what they need, And everybody you hire is a responsible adult. So why not involve them in the prodess of assigning salaries.</p>
 
 <div style="text-align:center; ">
  <img
