@@ -7,7 +7,7 @@ image:    "removing-a-huge-pain-salaries.svg"
 ---
 
 <div style="display:none;">
- <p>Salaries are a pain for salaried employees <span style="font-weight:bold; ">and</span> for the bosses who have to face them.</p>
+ <p>Salaries are a pain for salaried employees <span style="font-weight:bold; ">and</span> for the bosses who have to assign them.</p>
 </div>
 
 <h1>&nbsp;</h1>
