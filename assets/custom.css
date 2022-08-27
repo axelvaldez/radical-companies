@@ -271,7 +271,7 @@ td._spacer {
   font-size:xx-small;
 }
 ._list-item {
-  margin-bottom:0.5em;
+  margin-bottom:0;
   font-size:smaller;
 }
 ._paradigm {
