@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Salaries Are a Huge Pain"
+title:    "Removing a Huge Pain: Salaries"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "about-daos.svg"
