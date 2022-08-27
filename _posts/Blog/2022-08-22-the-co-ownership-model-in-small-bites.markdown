@@ -85,7 +85,7 @@ image:    "co-ownership-in-small-bites-icon.svg"
    <p>
     <em>Blair Fix&rsquo; Patreon page</em>.
     <<a href="https://www.patreon.com/blairfix" target="blank">https://www.patreon.com/blairfix</a>>.
-    <a href="#bm4"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+    <a href="#bm04"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
    </p>
   </li>
   <li id="en04">
