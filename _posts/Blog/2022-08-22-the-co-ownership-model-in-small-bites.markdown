@@ -31,13 +31,13 @@ image:    "co-ownership-in-small-bites-icon.svg"
  <p>For example, an investor gives the company $200K to be repaid with 10% interest in two years. Normally, the interest belongs to the investor. But let&rsquo;s say that instead the company matches the 10% interest with an additional 10% to end up with a $40K fund. The money in the fund would then be distributed to everybody, including the investor, involved in repaying the investment using <span class="_paradigm">RAD</span>s.</p>
 
 <h1>The Annual Bonus</h1>
- <p>The so-called <em>bonus</em><a id="bn01" href="#en01"><sup>1&nbsp;</sup></a> is similar. The usual distribution is based on a whim or a formula.</p>
+ <p>The so-called <em>bonus</em><a id="bm01" href="#en01"><sup>1&nbsp;</sup></a> is similar. The usual distribution is based on a whim or a formula.</p>
  <p>Often, it is done by the boss. &ldquo;This guy is very good and we have to make sure to keep him.&rdquo;</p>
  <p>Other businesses, trying to be more progressive, establish a formula. This is usually based on years of experience, schooling level, tenure, and other so-called objective measures. I say so-called because in the end they are not always <em>objective</em> even if they are <em>measurable</em>. For example, a certain level schooling may not be necessary, but become part of the requirement because whoever wrote the requirement had a Masters degree from a brand university. &ldquo;Years of experience&rdquo; really means tenure at other, similar companies in similar jobs, but it doesn&rsquo;t account for other flavors of experience in other areas.</p>
  <p>If anything, what I&rsquo;ve called &ldquo;the boss&rsquo; whim&rdquo; is closer to recognizing <em>the value of contributions</em> and that is what <span class="_paradigm">RAD</span>s do.</p>
 
 <h1><span class="_paradigm">RAD</span>s</h1>
- <p><span class="_paradigm">RAD</span>s<a id="bn02" href="#en02"><sup>2&nbsp;</sup></a> are all about recognizing contributions <em>and assigning them a value</em>. What the boss is doing when he assigns bonuses does it but in the privacy of his mind&mdash;nobody else knows if he is recognizing a financial contribution to the business&rsquo; bottom line or to his ego.</p>
+ <p><span class="_paradigm">RAD</span>s<a id="bm02" href="#en02"><sup>2&nbsp;</sup></a> are all about recognizing contributions <em>and assigning them a value</em>. What the boss is doing when he assigns bonuses does it but in the privacy of his mind&mdash;nobody else knows if he is recognizing a financial contribution to the business&rsquo; bottom line or to his ego.</p>
  <p><span class="_paradigm">RAD</span>s are a tool for decentralizing the recognition of contributions. It is similar to what they boss does in his head, but, instead, lets everybody do it. These distributions is fully transparent, too, including the reason why each contribution is being recognized. Finally, <span class="_paradigm">RAD</span>s make contributions <em>tangible</em>. Instead of vague attaboy, <span class="_paradigm">RAD</span>s can be translated to a percentage of, say, profits (<em>i.e.</em>, earned dividends).</p>
 
 <h1>Building Communities</h1>
