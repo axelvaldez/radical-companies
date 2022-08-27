@@ -61,7 +61,7 @@ image:    "co-ownership-in-small-bites-icon.svg"
 <h1 class="_section">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="en01">
-   <p>A &ldquo;bonus&rdquo; is not a gift. What is normally called &ldquo;bonuses&rdquo; really are <em>earned dividends</em>, &ldquo;&hellip; paid to shareholders from surplus profits.&rdquo;. This is a form of wealth extraction from the value everybody, including you, helped create.
+   <p>A &ldquo;bonus&rdquo; is not a gift. What is normally called &ldquo;bonuses&rdquo; really are <em>earned dividends</em>, &ldquo;&hellip; paid to shareholders from surplus profits.&rdquo;. This is a form of wealth extraction of the value everybody, including you, helped create.
    <<a href="https://www.etymonline.com/word/bonus">https://www.etymonline.com/word/bonus</a>>
    <a href="#bn01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></p>
   </li>
