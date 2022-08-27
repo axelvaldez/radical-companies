@@ -7,7 +7,7 @@ image:    "about-daos.svg"
 ---
 
 <div style="display:none;">
- <p>Salaries are a pain for salaied people and for the bosses who have to face them.</p>
+ <p>Salaries are a pain for salaried people <span style="font-weight:bold; ">and</span> for the bosses who have to face them.</p>
 </div>
 
 <h1>&nbsp;</h1>
