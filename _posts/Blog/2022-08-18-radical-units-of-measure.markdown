@@ -23,7 +23,8 @@ image:    "radical-units-of-measure.svg"
  <p>At the end of the cycle, the recognitions that Deb gave other co-owners convert to <span class="_paradigm">RAD</span>s,
   <ul>
    <li>The number of recognitions Deb gave each co-owner is divided by the total she gave during the period.</li>
-   <li>Then, each resulting percentage is multiplied by the total number of days in the cycle. This results in the number of <span class="_paradigm">RAD</span>s other co-owners get from Deb.</li>
+   <li>Each resulting percentage is then multiplied by the total number of days in the cycle.</li>
+   <li>This results in the number of <span class="_paradigm">RAD</span>s other co-owners get from Deb.</li>
   </ul>
  </p>
  <div style="text-align:center; ">
