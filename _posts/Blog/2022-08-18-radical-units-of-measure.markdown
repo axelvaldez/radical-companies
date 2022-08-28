@@ -10,15 +10,16 @@ image:    "radical-units-of-measure.svg"
  <p>We need RECs in additons to RADs.</p>
 </div>
 
-<h1>RADICAL Units of Measure</h1>
- <p>In our book, <em><span class="_paradigm">RADICAL COMPANIES</span></em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> we came up with <span class="_paradigm">RAD</span>s as a unit of measure. It turns out that what we really need is a unit of <em>recognition</em> and a unit of <em>distribution</em>. <span class="_paradigm">RAD</span> is the distribution unit, and it accounts for the unaccountable. It measure the value of contributions as recognized by your peers. It is not at all conneced to hours or title or any such thing. The unit of recognition could remain nameless and hide behind the <span class="_paradigm">RADs</span> App<a href="bm02"><sup id="#en02">2&nbsp;</sup></a> algorithm, but to be transparent, we need a name for it and we are calling it REC for now.</p>
+<h1>Units of Measure</h1>
+ <p>In our book, <em><span class="_paradigm">RADICAL COMPANIES</span></em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> we came up with <span class="_paradigm">RAD</span>s as a unit of <em>distribution</em>. It turns out that what we also need is a unit of <em>recognition</em>.</p>
 
 <h1>A Unit of Distribution</h1>
- <p><span class="_paradigm">RAD</span>s are a unit of distribution. The <span class="_paradigm">RAD</span>s  your peer co-owners give you accumulate as percentage of the total <span class="_paradigm">RAD</span>s you have given to date. Then anything that has to be distributed, say Earned Dividends<a href="#en03"><sup id="bm03">3&nbsp;</sup></a>, are multiplied by that percentage to calculate the amount you get.</p>
- <p>As we tried to use <span class="_paradigm">RAD</span>s in the <em>RADs! app</em>, it got too clumsy and cumbersome. You ended up adding and subtracting, the kind of cognitive stuff that we didn&rsquo;t want. We wanted to capture the <em>feeling</em> that the contribution brought up in a co-owner and it became obvious that we needed something other than <span class="_paradigm">RAD</span>s</p>
+ <p><span class="_paradigm">RAD</span>s account for the unaccountable as they quantify contributions as recognized by co-owners. <span class="_paradigm">RAD</span>s are not at all conneced to hours or title or any such.</p>
+ <p>At distribution time the percentage of <span class="_paradigm">RAD</span>s you have factors the amount of, say, Earned Dividends<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> you get.</p>
+ <p>As we tried to use <span class="_paradigm">RAD</span>s in the <em>RADs! app</em>, it got too clumsy and cumbersome. Users would end up adding and subtracting: exactly what we didn&rsquo;t want. We wanted to capture the <em>intensity of feeling</em> that the contribution brought up in a co-owner.</p>
  
 <h1>A Unit of Recognition</h1>
- <p>To make the process, and the app, easier to use, we needed a unit of recognition, even if they work completely in the background.</p>
+ <p>To make the process, and the app, easier to use, we needed a unit of recognition, even if they worked completely in the background.</p>
  <p>The <em>RADs! app</em> now lets a co-owner press a recognition button as many times as she feels like it (<em>i.e.</em>, really, there's no limit). This captures the <em>intensity of the feeling</em> that the contribution brought up in the giving co-owner. Let&rsquo;s call her Deb.</p>
  <p style="margin-bottom:0; ">At the end of the cycle, the recognitions that Deb gave other co-owners convert to <span class="_paradigm">RAD</span>s,
   <ul>
@@ -37,14 +38,17 @@ image:    "radical-units-of-measure.svg"
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
-   <ul>
-    <li><a>EN</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/radicalcompanies.com [EN]</a></li>
-    <li><a>ES</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/radicalcompanies.com [ES]</a></li>
+   <ul id="en01">
+    <li><a>EN</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/radicalcompanies.com [EN]</a>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a></li>
+    <li><a>ES</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/radicalcompanies.com [ES]</a>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a></li>
    </ul>
   <li>Blog posts,</li>
    <ul>
     <li>For the Impatient: <a href="https://radicalcompanies.com/2022/05/04/RADICAL-COMPANIES-impatient" target="_blank">&hellip;/RADICAL-COMPANIES-impatient</a></li>
-    <li>Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/05/RADICAL-COMPANIES-faq" target="_blank">&hellip;/RADICAL-COMPANIES-faq</a></li>
+    <li id="en02">Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/05/RADICAL-COMPANIES-faq" target="_blank">&hellip;/RADICAL-COMPANIES-faq</a>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a></li>
    </ul>
    <li>Missing Chapters,</li>
     <ul>
