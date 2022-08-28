@@ -22,7 +22,7 @@ image:    "radical-units-of-measure.svg"
  <p>The <em>RADs! app</em> now lets a co-owner press a recognition button as many times as she feels like it (<em>i.e.</em>, really, there's no limit). This captures the <em>intensity of the feeling</em> that the contribution brought up in the giving co-owner. Let&rsquo;s call her Deb.</p>
  <p>At the end of the cycle, the recognitions that Deb gave other co-owners convert to <span class="_paradigm">RAD</span>s,
   <ul>
-   <li>Deb rewards each contribution she recgnizes as such by pressing the recognition button according to her feeling about each contribution.</li>
+   <li>Deb rewards each contribution she recgnizes as such by pressing the recognition button according to how she feels about them.</li>
    <li>The number of recognitions Deb gave each co-owner is divided by the total of she gave during the period.</li>
    <li>Then, each resulting percentage is multiplied by the total number of days in the cycle. This results in the number of <span class="_paradigm">RAD</span>s other co-owners get from Deb.</li>
   </ul>
