@@ -17,8 +17,8 @@ image:    "radical-units-of-measure.svg"
  <p><span class="_paradigm">RAD</span>s are a unit of distribution. The <span class="_paradigm">RAD</span>s  your peer co-owners give you accumulate as percentage of the total <span class="_paradigm">RAD</span>s you have given to date. Then anything that has to be distributed, say Earned Dividends<a href="#en03"><sup id="bm03">3&nbsp;</sup></a>, are multiplied by that percentage to calculate the amount you get.</p>
  <p>As we tried to use <span class="_paradigm">RAD</span>s in the <em>RADs! app</em>, it got too clumsy and cumbersome. You ended up adding and subtracting, the kind of cognitive stuff that we didn&rsquo;t want. We wanted to capture the <em>feeling</em> that the contribution brought up in a co-owner and it became obvious that we needed something other than <span class="_paradigm">RAD</span>s</p>
  
-<h1><span class="_paradigm">REC</span> as a Unit of Recognition</h1>
- <p>We needed a unit of recognition, however, they work completely in the background.</p>
+<h1>A Unit of Recognition</h1>
+ <p>We needed a unit of recognition, but they work completely in the background. For all intents and purposes, one co-owner recognizes other co-owners contribution and what comes out is <span class="_paradigm">RAD</span>s.</p>
  <p>The <em>RADs! app</em> now lets a co-owner press a recognition button as many times as she feels like it (<em>i.e.</em>, really, there's no limit). This captures the <em>intensity of the feeling</em> that the contribution brought up in the giving co-owner. Let&rsquo;s call her Deb.</p>
  <p>At the end of the cycle, the recognitions that Deb gave other co-owners convert to <span class="_paradigm">RAD</span>s,
   <ul>
