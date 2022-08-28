@@ -31,7 +31,7 @@ image:    "radical-units-of-measure.svg"
   <img
    src="/assets/img/recognitions-to-rads-equation.svg"
    width="70%"
-   alt="This is a formula. The first term is the number of recognitions per co-owner divided by the total number of RECs given during the cycle. This is then multiplied by the number of days in the cycle. The result is the number of RADs each co-owner gets.">
+   alt="This is a formula. Its input is 'feelings about contributions.' In the middle, the number of recognitions per co-owner divided by the total number of recognitions given during the cycle. This is then multiplied by the number of days in the cycle. The result is the number of RADs each co-owner gets.">
  </div>
 
 <h1 class="_section">RELATED</h1>
