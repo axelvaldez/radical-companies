@@ -28,7 +28,7 @@ image:    "existential-threat-icon.svg"
   <li>There is no top-down &ldquo;rule&rdquo; that everyone has to write a certain amount of lines of code.</li>
   <li>If you were spending time in meetings and worrying over firing and hiring people, the responsibility is shared with everyone and gradual hiring and gradual firing make it painless.</li>
   <li>Finally, the rewards are direct. You get <span class="_paradigm">RAD</span>s from your coworkers when you help them, be it with code or a difficult personal issue.</li>
-  <li><span class="_paradigm">RAD</span>s transform into your share of earned dividends (<em>i.e.</em>, profits) and ownership.</li>
+  <li><span class="_paradigm">RAD</span>s transform into your share of earned dividends (<em>aka.</em>, profits) and ownership.</li>
  </ul>
  <p>You are part of a more decentralized and transparent organization. This translates to your being able to do more of the work you actually enjoy doing because you are not restrained by superiors and competing managers, and you are buoyed up by your co-workers. There are still conflicts and difficulties; success is not guaranteed. But you are part of a more responsive organization that now has the tools to do meaningful work.</p>
  <p>Who am I when I am not a manager? A co-onwer. A more powerful person. A force-multiplier. A person connected to the people around me.</p>
