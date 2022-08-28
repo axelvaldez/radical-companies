@@ -16,6 +16,7 @@ image:    "existential-threat-icon.svg"
  <p>Why wasn’t he writing enough code? Because he was helping the other engineers achieve more by instructing them in things that would make total system performance even better. He was boosting each of his fellow engineers and getting them to output better quality code and a system that performed better. Helping people was part of his job description, but he was pretty surprised to find out that <em>belting out more lines of code</em> was most important.</p>
 <h1>Climbing the Hierarchy</h1>
  <p>So if you are a senior software engineer and you want to get paid more, it’s better to get away from the programmer metrics and become a manager. You are going to go to a lot more meetings instead and you are going to be spending your time defending your team from the rest of the organization. As a senior engineer, you were helping your team do better and become better. You were operating as a role model. But now, as a manager, you have been essentially neutralized.</p>
+
 <h1>Going RADICAL</h1>
  <p>Now imagine, your company goes <span class="_paradigm">RADICAL</span> and you are no longer a manager. If you had embraced this as part of your identity, it’s going to be difficult to let go. How do I make more money? What do I tell my friends? I am just one of the grunts!</p>
  <p>Instead, you are now a co-owner and co-manager of <em>your</em> <span class="_paradigm">RADICAL</span> company,</p>
@@ -32,58 +33,6 @@ image:    "existential-threat-icon.svg"
  <p>You are part of a more decentralized and transparent organization. This translates to your being able to do more of the work you actually enjoy doing because you are not restrained by superiors and competing managers, and you are buoyed up by your co-workers. There are still conflicts and difficulties; success is not guaranteed. But you are part of a more responsive organization that now has the tools to do meaningful work.</p>
  <p>Who am I when I am not a manager?</p>
  <p>A more powerful person. A force-multiplier. A person connected to the people around me.</p>
- 
-<div style="text-align:center; ">
- <img
-  src="/assets/img/recs-to-rads-equation.svg"
-  width="70%"
-  alt="">
-</div>
-
- <table align="center">
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>relationships</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>autonomy</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>collaboration</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
- </table>
- <p style="margin-top:20px; "><span class="_paradigm">RAD</span>s support all of these behaviors,</p>
- <table>
-
-<h1 class="_section">ENDNOTES</h1>
- <ol style="font-size:smaller; ">
-  <li id="en01">
-   <p class="_list-item" style="width:1.5in; ">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ol>
 
 <h1 class="_section">RELATED</h1>
  <ul>
