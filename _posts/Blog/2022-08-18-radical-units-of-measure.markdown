@@ -20,7 +20,7 @@ image:    "radical-units-of-measure.svg"
 <h1>A Unit of Recognition</h1>
  <p>We needed a unit of recognition, but they work completely in the background. For all intents and purposes, one co-owner recognizes other co-owners contribution and what comes out is <span class="_paradigm">RAD</span>s.</p>
  <p>The <em>RADs! app</em> now lets a co-owner press a recognition button as many times as she feels like it (<em>i.e.</em>, really, there's no limit). This captures the <em>intensity of the feeling</em> that the contribution brought up in the giving co-owner. Let&rsquo;s call her Deb.</p>
- <p>At the end of the cycle, the recognitions that Deb gave other co-owners convert to <span class="_paradigm">RAD</span>s,
+ <p style="margin-bottom:0; ">At the end of the cycle, the recognitions that Deb gave other co-owners convert to <span class="_paradigm">RAD</span>s,
   <ul>
    <li>The number of recognitions Deb gave each co-owner is divided by the total she gave during the period.</li>
    <li>Each resulting percentage is then multiplied by the total number of days in the cycle.</li>
