@@ -31,7 +31,7 @@ image:    "existential-threat-icon.svg"
   <li><span class="_paradigm">RAD</span>s transform into your share of earned dividends (<em>aka.</em>, profits) and ownership.</li>
  </ul>
  <p>You are part of a more decentralized and transparent organization. This translates to your being able to do more of the work you actually enjoy doing because you are not restrained by superiors and competing managers, and you are buoyed up by your co-workers. There are still conflicts and difficulties; success is not guaranteed. But you are part of a more responsive organization that now has the tools to do meaningful work.</p>
- <p>Who am I when I am not a manager? A co-onwer. A more powerful person. A force-multiplier. A person connected to the people around me.</p>
+ <p>Who am I when I am not a manager? A co-onwer. A force-multiplier. A person connected to the people around me.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
