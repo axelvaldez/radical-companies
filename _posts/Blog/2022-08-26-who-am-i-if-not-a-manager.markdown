@@ -3,7 +3,7 @@ layout:   post
 title:    "Who Am I If Not a Manager?"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "about-daos.svg"
+image:    "giving-rads-220720.svg"
 ---
 
 <div style="display:none;">
