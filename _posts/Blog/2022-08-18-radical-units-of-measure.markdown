@@ -29,7 +29,7 @@ image:    "radical-units-of-measure.svg"
  </p>
  <div style="text-align:center; ">
   <img
-   src="/assets/img/recs-to-rads-equation.svg"
+   src="/assets/img/recognitions-to-rads-equation.svg"
    width="70%"
    alt="This is a formula. The first term is the number of RECs per co-owner divided by the total number of RECs given during the cycle. This is then multiplied by the number of days in the cycle. The result is the number of RADs each co-owner gets.">
  </div>
