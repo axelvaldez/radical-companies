@@ -20,13 +20,13 @@ image:    "removing-a-huge-pain-salaries.svg"
  
  <h1>So, Let&rsquo;s Give Everybody Stock!</h1>
   <p>Giving everybody stock is not the answer.</p>
-  <p>I&rsquo;ve worked in high tech my whole adult life. The early employees got stock, presumably in exchange for the risk they took. Then, at some point, new people got less and less stock, and finally none. And, it stands to reason: the &ldquo;employee pool&rdquo; was a fixed size and after a while it dries out. In any case, regardless of the stock class they get (<em>e.g.</em>, founder, common), employees don&rsquo;t get anything other than <em>stock-as-afinancial promise</em>; only <em>officers and owners</em> (<em>i.e.</em>, capital investors) have any 1) control of the business itself and 2) can extract wealth from it (<em>e.g.</em>, a sale, loans against stock, sales of their stock).</p>
+  <p>I&rsquo;ve worked in high tech my whole adult life. The early employees get stock, presumably in exchange for the risk they take. Then, at some point, new people get less and less stock, and finally none. And, it stands to reason: the &ldquo;employee pool&rdquo; is a fixed size and after a while it dries out. In any case, regardless of the stock class they get (<em>e.g.</em>, founder, common), employees don&rsquo;t get anything other than <em>stock-as-afinancial promise</em>. Only <em>officers and owners</em> (<em>i.e.</em>, capital investors) have any 1) control of the business itself and 2) get to extract real wealth from it (<em>e.g.</em>, a sale, loans against stock, sales of their stock). For example, patents belogn to the business and its worth is lost to the employee(s) who came up with it.</p>
   <p>Also,</p>
    <ul>
     <li>Stocks are <em style="font-weight:bold; ">given</em> by the boss. They count towards <em>the compensation package</em> (<em>i.e.</em>, the labor market rate).</li>
-    <li>Stocks are given as fixed mumber of shares. Over time they are diluted, as more stock is issued and the given stock becomes a smaller percentage of the total.</li>
-    <li></li>
-    <li></li>
+    <li>Stocks are given as a <em>fixed mumber</em> of shares. Over time they are diluted as 1) more stock is issued and 2) the given stock becomes a smaller percentage of the total.</li>
+    <li>Employees have no control over the stock price. Bosses do and they usually decide on the side of what is good for them, not employees.</li>
+    <li>Equality is a crock. Usually, employee level determines the amount of stock each gets. For example, a Jr Engineer gets a fraction of what a Sr Engineer gets. All Jr Engineers get the same amount of stock and all Sr Engineers get the same amount of stock. Regardless of contributions to the business. The number of shares you get is determined solely by your level in the hierarchy (<em>i.e.</em>, and, yes, the more aggressive people eak out a bit more, though not as much as they think).</li>
     <li>
    </ul>
 
