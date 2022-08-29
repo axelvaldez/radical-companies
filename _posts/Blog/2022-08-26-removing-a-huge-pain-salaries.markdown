@@ -26,7 +26,8 @@ image:    "removing-a-huge-pain-salaries.svg"
     <li>Stocks are <em style="font-weight:bold; ">given</em> by the boss. They count towards <em>the compensation package</em> (<em>i.e.</em>, the labor market rate).</li>
     <li>Stocks are given as a <em>fixed mumber</em> of shares. Over time they are diluted as 1) more stock is issued and 2) the given stock becomes a smaller percentage of the total.</li>
     <li>Employees have no control over the stock price. Bosses do and they usually decide on the side of what is good for them, not employees.</li>
-    <li>Equality is a crock. Usually, employee level determines the amount of stock each gets. For example, a Jr Engineer gets a fraction of what a Sr Engineer gets. All Jr Engineers get the same amount of stock and all Sr Engineers get the same amount of stock. Regardless of contributions to the business. The number of shares you get is determined solely by your level in the hierarchy (<em>i.e.</em>, and, yes, the more aggressive people eak out a bit more, though not as much as they think).</li>
+    <li>Equality is a crock. Employee level determines the amount of stock each gets (<em>e.g.</em>, a Jr Engineer gets a fraction of what a Sr Engineer gets). All Jr Engineers get the same amount of stock and all Sr Engineers get the same amount of stock. This is true, regardless of their individual contributions. After a number of years, a Sr Engineer who contributes a lot has the same amount of stock as another Sr Engineer who barely does his job). The number of shares each gets is determined solely by their level in the hierarchy (<em>i.e.</em>, and, yes, the more aggressive people eak out a bit more shares, but this is based on their aggressiveness, not their contributions).</li>
+    <li></li>
     <li>
    </ul>
 
