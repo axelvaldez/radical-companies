@@ -16,7 +16,7 @@ image:    "removing-a-huge-pain-salaries.svg"
 
 <h1>Salaries Are Labor Debt</h1>
  <p>Responsible adults know what they need, and everybody person you hire is a responsible adult. They are quite capable of figuring out how much they need to take home regularly; or put another way, they are quite capable of deciding how much to extract from the wealth that everybody helped create. This is what &ldquo;salaries&rdquo; should be: predictable and regular wealth extraction.</p>
- <p>Salaries are <em>not at all</em> wealth extraction today.</p>
+ <p style="margin-bottom:0; ">Salaries, on the other hand, are <em>not at all</em> wealth extraction today.</p>
  <p>The owners get to extract wealth from the business, the result of everybody&rsquo;s effort. Salaries are debt,
   <ul>
    <li>People do the work.</li>
