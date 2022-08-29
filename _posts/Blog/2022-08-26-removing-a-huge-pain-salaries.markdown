@@ -15,8 +15,11 @@ image:    "removing-a-huge-pain-salaries.svg"
  <p>The alternative is to let people set their own salaries.</p>
 
 <h1>Salaries Are a Gift</h1>
- <p>Responsible adults know what they need, and, I hope, everybody you hire is a responsible adult. So why not involve them in the process of figuring out how much theyh want to take home every month?</p>
- <p></p>
+ <p>Responsible adults know what they need, and, I hope, everybody you hire is a responsible adult. So why not involve them in the process of figuring out how much theyh want to take home regulatly, say, every two weeks or every month? And, it really is a process of deciding how much to take from the wealth that everybody helped create. Because that is what &ldquo;salaries&rdquo; should be: wealth extraction.</p>
+ <p>Salaries are not wealth extraction today. The both extracts wealth from everybody&rsquo;s effort, but salaries are more like debt for work done. People do the work, first, and then the boss pays them the going rate, as set by the labor market. Even the six figure <em>salaries</em> that software developers can demand today, is just that: a labor market debt. If the business is sold tomrrow, the bosses/owners get to extract wealth from the sale, not the laborers. And, yes, in many cases, as it is for developers, laborers can expect to extract some of that wealth because they got business stocks. But that is the exception, not the rule.</p>
+ 
+ <h1>So, Let&rsquo;s Give Everybody Stock!</h1>
+  <p>I&rsquo;ve worked in high tech my whole adult life. The early employees got stock, presumably in exchange for the risk they took. Then, at some point, new people would get less and less stock, and finally none. And, it stands to reason: the employee pool was a fixed size and after a while it dries out. But note that regardless of stock class they get (<em>e.g.</em>, founder, common), employees don&rsquo;t get anything other than a financial promise with their stock; only <em>officers, pretending to be employees,</em> get any control of the business itself.
 
 <div style="text-align:center; ">
  <img
