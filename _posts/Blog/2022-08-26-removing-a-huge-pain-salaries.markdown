@@ -21,9 +21,9 @@ image:    "removing-a-huge-pain-salaries.svg"
   <ul>
    <li>People do the work.</li>
    <li>This shows in the books as debt.</li>
-   <li>The boss pays it at the going rate set by the labor market</li>
+   <li>The boss pays it at the going rate set by the labor market.</li>
    <li>The debt is erased.</li>
-   <li>Eventually this goes to increase the <em>owners&rsquo;</em> equity.</li>.
+   <li>Eventually this goes to increase the <em>owners&rsquo;</em> equity.</li>
   </ul>
   <p>Even the six-figure <em>salaries</em> that software developers can demand today<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>, is just that: a labor debt. If the business is sold tomrrow, the bosses and owners get to extract wealth from the sale, not the laborers. Of course, in some cases, as it is for many developers, laborers can expect to extract some of that wealth because they get business stocks. But, again, that is the exception, not the rule.</p>
  
