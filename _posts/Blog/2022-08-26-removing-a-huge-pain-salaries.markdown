@@ -14,8 +14,8 @@ image:    "removing-a-huge-pain-salaries.svg"
  <p>Salaries are a pain for salaried people <span style="font-weight:bold; ">and</span> for the bosses who have to face them. Not only are they a pain, but the system is way too centralized, in the hands of bosses who have no idea what anybody really needs and have only a fuzzy, biased idea as to anybody&rsquo;s contribution. There is no way for bosses to be <em>fair</em> or for the employees to feel they are being treated fairly.</p>
  <p>The alternative is to let people set their own salaries.</p>
 
-<h1>Salary Self-Management</h1>
- <p>Responsible adults know what they need, And everybody you hire is a responsible adult. So why not involve them in the prodess of assigning salaries?</p>
+<h1>Salaries Are a Gift</h1>
+ <p>Responsible adults know what they need, and, I hope, everybody you hire is a responsible adult. So why not involve them in the process of figuring out how much theyh want to take home every month?</p>
  <p></p>
 
 <div style="text-align:center; ">
