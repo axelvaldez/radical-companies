@@ -27,9 +27,10 @@ image:    "removing-a-huge-pain-salaries.svg"
     <li>Stocks are given as a <em>fixed mumber</em> of shares. Over time they are diluted as 1) more stock is issued and 2) the given stock becomes a smaller percentage of the total.</li>
     <li>Employees have no control over the stock price. Bosses do and they usually decide on the side of what is good for them, not employees.</li>
     <li>Employee level determines the amount of stock every member at the same level gets (<em>e.g.</em>, a Jr Engineer gets a fraction of what a Sr Engineer gets). All Jr Engineers get the same amount of stock and all Sr Engineers get the same amount of stock. This is true, regardless of their individual contributions. After a number of years, a Sr Engineer who contributes a lot has the same amount of stock as another Sr Engineer who barely does his job). The number of shares each gets is determined solely by their level in the hierarchy (<em>i.e.</em>, and, yes, the more aggressive people eak out a bit more shares, but this is based on their aggressiveness, not their contributions).</li>
-    <li></li>
+    <li>Cooperatives, Unions, B Corps, and the like, are variations of <span>FIAT</span> businesses and, as such, they use the same type of stock as any other businesse.</li>
    </ul>
   </p>
+  <p>This is worth repeating: the number of shares of stocks given is not based on contributions. It is totally arbitrary. It's better than a poke in the eye, but it's nowhere near fair to employees <em>or to the business</em> because it is not based on contributions.<a href="#en01"><sup id="bm01"></sup></a></p>
 
 <div style="text-align:center; ">
  <img
@@ -71,13 +72,10 @@ image:    "removing-a-huge-pain-salaries.svg"
  <table>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol style="font-size:smaller; ">
+ <ol>
   <li id="en01">
    <p class="_list-item" style="width:1.5in; ">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
+    And, no, don&rsquo;t worry, I am not building up a case for <em>piece work</em>.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
