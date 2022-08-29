@@ -20,7 +20,15 @@ image:    "removing-a-huge-pain-salaries.svg"
  
  <h1>So, Let&rsquo;s Give Everybody Stock!</h1>
   <p>Giving everybody stock is not the answer.</p>
-  <p>I&rsquo;ve worked in high tech my whole adult life. The early employees got stock, presumably in exchange for the risk they took. Then, at some point, new people got less and less stock, and finally none. And, it stands to reason: the &ldquo;employee pool&rdquo; was a fixed size and after a while it dries out. In any case, regardless of the stock class they get (<em>e.g.</em>, founder, common), employees don&rsquo;t get anything other than <em>stock-as-afinancial promise</em>; only <em>officers and owners</em> (<em>i.e.</em>, capital investors) have any 1) control of the business itself and 2) can extract wealth from it (<em>e.g.</em>, a sale, loans against stock, sales of their stock).
+  <p>I&rsquo;ve worked in high tech my whole adult life. The early employees got stock, presumably in exchange for the risk they took. Then, at some point, new people got less and less stock, and finally none. And, it stands to reason: the &ldquo;employee pool&rdquo; was a fixed size and after a while it dries out. In any case, regardless of the stock class they get (<em>e.g.</em>, founder, common), employees don&rsquo;t get anything other than <em>stock-as-afinancial promise</em>; only <em>officers and owners</em> (<em>i.e.</em>, capital investors) have any 1) control of the business itself and 2) can extract wealth from it (<em>e.g.</em>, a sale, loans against stock, sales of their stock).</p>
+  <p>Also,</p>
+   <ul>
+    <li>Stocks are <em style="font-weight:bold; ">given</em> by the boss. They count towards <em>the compensation package</em> (<em>i.e.</em>, the labor market rate).</li>
+    <li>Stocks are given as fixed mumber of shares. Over time they are diluted, as more stock is issued and the given stock becomes a smaller percentage of the total.</li>
+    <li></li>
+    <li></li>
+    <li>
+   </ul>
 
 <div style="text-align:center; ">
  <img
