@@ -59,7 +59,7 @@ image:    "removing-a-huge-pain-salaries.svg"
    <p></p>
    <p></p>
 
-  <h1>Predictable, Recurring Income (PRI)</h1>
+  <h1>Predictable Recurring Income (PRI)</h1>
    <p></p>
    <p></p>
    <p></p>
