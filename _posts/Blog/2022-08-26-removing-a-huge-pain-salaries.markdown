@@ -14,23 +14,24 @@ image:    "removing-a-huge-pain-salaries.svg"
  <p>Salaries are a pain for salaried people <span style="font-weight:bold; ">and</span> for the bosses who have to face them. Not only are they a pain, but the system is way too centralized, in the hands of bosses who have no idea what anybody really needs and have only a fuzzy, biased idea as to anybody&rsquo;s contribution. There is no way for bosses to be <em>fair</em> or for the employees to feel they are being treated fairly.</p>
  <p>The alternative is to let people set their own salaries.</p>
 
-<h1>Salaries Are Labor Debt</h1>
- <p>Responsible adults know what they need, and everybody person you hire is a responsible adult. They are quite capable of figuring out how much they need to take home regularly; or put another way, they are quite capable of deciding how much to extract from the wealth that everybody helped create. This is what &ldquo;salaries&rdquo; should be: predictable and regular wealth extraction.</p>
- <p style="margin-bottom:0; ">Salaries, on the other hand, are <em>not at all</em> wealth extraction today.</p>
- <p>The owners get to extract wealth from the business, the result of everybody&rsquo;s effort. Salaries are debt,
+<h1>Salaries Are  Debt</h1>
+ <p>Responsible adults know what they need, and everybody person you hire is a responsible adult. They are quite capable of figuring out how much they need to take home regularly; or put another way, they are quite capable of deciding how much to extract from the wealth that everybody helped create. This is what &ldquo;salaries&rdquo; should be: predictable and regular wealth extraction. But they are a form of wealth extraction, but a market-driven price, same as pees.</p>
+ <p>The owners, on the other hand,m get to extract wealth from everybody&rsquo;s work,
   <ul>
    <li>People do the work.</li>
    <li>This shows in the books as debt.</li>
-   <li>The boss pays it at the going rate set by the labor market.</li>
+   <li>The boss pays it.</li>
    <li>The debt is erased.</li>
-   <li>Eventually this goes to increase the <em>owners&rsquo;</em> equity. That is because &ldquo;labor&rdquo; creates present <em style="font-weight:bold; ">and</em> future value, so the today&rsquo;s labor ends up as owners&rsquo; equity.</li>
+   <li>Eventually this goes to increase the <em>owners&rsquo;</em> equity. &ldquo;Labor&rdquo; creates present <em style="font-weight:bold; ">and</em> future value.</li>
   </ul>
-  <p>Even the six-figure <em>salaries</em> that software developers can demand today<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>, are a labor debt. If the business is sold tomrrow, the bosses and owners get to extract wealth from the sale, not the laborers. Of course, in some cases, as it is for some software developers, laborers get to extract a little bit of that wealth because they get business stocks. But that is the exception, not the rule.</p>
+  </p>
+ <p>Even the six-figure <em>salaries</em> that software developers can demand today<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>, are just cost to the business.</p>
  
- <h1>So, Let&rsquo;s Give Everybody Stock!</h1>
+ <h1>Give Everybody Stock!</h1>
   <p>Giving everybody stock is not the answer.</p>
-  <p>I&rsquo;ve worked in high tech my whole adult life. The early employees get stock, presumably in exchange for the risk they take. Then, at some point, new people get less and less stock, and finally none. And, it stands to reason: the &ldquo;employee pool&rdquo; is a fixed size and after a while it dries out. In any case, regardless of the stock class they get (<em>e.g.</em>, founder, common), employees don&rsquo;t get anything other than <em>stock-as-afinancial promise</em>. Only <em>officers and owners</em> (<em>i.e.</em>, capital investors) have any 1) control of the business itself and 2) get to extract real wealth from it (<em>e.g.</em>, a sale, loans against stock, sales of their stock). For example, patents belong to the business and its worth is lost to the employee(s) who came up with it.</p>
-  <p>Also,
+  <p>I&rsquo;ve worked in high tech my whole adult life and I&rsquo;ve seen this movie many times: early employees get stock; later new people get less and less stock; finally the business stops giving out stocks. The &ldquo;employee pool&rdquo; is a fixed size and after a while it dries out.</p>
+  <p>In any case, regardless of the stock class they get (<em>e.g.</em>, founder, common), employees don&rsquo;t get anything other than <em>stock-as-afinancial promise</em>. Only <em>the Officers and the Board</em> (<em>i.e.</em>, capital investors) have any 1) control of the business itself and 2) get to extract real wealth from it (<em>e.g.</em>, a sale, loans against stock, sales of their stock). For example, patents belong to the business, gets converted to owners equity; the employee(s) who came up with it doesn&rsquo;t get any value out of it.</p>
+  <p>Other facts about stocks,
    <ul>
     <li>Stocks are <em style="font-weight:bold; ">given</em> by the boss.</li>
     <li>Stocks are given as a <em>fixed mumber</em> of shares. Over time these can be diluted.</li>
@@ -40,7 +41,7 @@ image:    "removing-a-huge-pain-salaries.svg"
     <li>Cooperatives, Unions, B Corps, etc., are <span class="_paradigm">FIAT</span> businesses, too. and they see and use stocks the same way.</li>
    </ul>
   </p>
-  <p>The key problem is that the number of shares of stocks given is <em>not based on contributions</em>, it is totally arbitrary. It's better than a poke in the eye, but it's nowhere near fair to employees <em>or to the business</em> because it is not based on contributions.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+  <p></p>
 
 <div style="text-align:center; ">
  <img
