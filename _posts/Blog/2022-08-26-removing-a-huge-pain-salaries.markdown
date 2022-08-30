@@ -83,7 +83,7 @@ image:    "removing-a-huge-pain-salaries.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    Circa August 2022.
+    August 2022.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
