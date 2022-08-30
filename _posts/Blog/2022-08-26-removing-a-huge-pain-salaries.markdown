@@ -54,8 +54,7 @@ image:    "removing-a-huge-pain-salaries.svg"
    <p>Everybody does a little bit of the recognizing and automagically money gets allocated according to that. If there&rsquo;s any complaint, anybody or any group of people can ask what happened. Note that managers don't have to get involved.</p>
 
 <h1>Automagically? BS?</h1>
-   <p>This may bring up many questions: what if they do it wrong? what if they don&rsquo;t recognize the right accomplishments? For these and similar questions, please look at our Frequently Asked Questions (FAQ) doc:<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>.
-   </p>
+   <p>This may bring up many questions: what if they do it wrong? what if they don&rsquo;t recognize the right accomplishments? For these and similar questions, please look at our Frequently Asked Questions (FAQ) doc:<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>.</p>
    <p></p>
    <p></p>
 
