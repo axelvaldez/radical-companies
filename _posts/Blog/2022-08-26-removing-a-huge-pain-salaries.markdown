@@ -40,7 +40,7 @@ image:    "removing-a-huge-pain-salaries.svg"
     <li>Cooperatives, Unions, B Corps, and the like, are variations of <span>FIAT</span> businesses and, as such, they use the same type of stock as any other businesse.</li>
    </ul>
   </p>
-  <p>One more time: the number of shares of stocks given is not based on contributions. It is totally arbitrary. It's better than a poke in the eye, but it's nowhere near fair to employees <em>or to the business</em> because it is not based on contributions.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
+  <p>The key problem is that the number of shares of stocks given is <em>not based on contributions</em>, it is totally arbitrary. It's better than a poke in the eye, but it's nowhere near fair to employees <em>or to the business</em> because it is not based on contributions.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
 
 <div style="text-align:center; ">
  <img
