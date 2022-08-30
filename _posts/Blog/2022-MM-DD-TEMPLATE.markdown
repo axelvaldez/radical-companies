@@ -52,7 +52,7 @@ image:    "about-daos.svg"
  </table>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol style="font-size:smaller; ">
+ <ol>
   <li id="en01">
    <p class="_list-item">
     AUTHOR(S).
