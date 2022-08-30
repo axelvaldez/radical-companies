@@ -78,8 +78,6 @@ image:    "removing-a-huge-pain-salaries.svg"
    <td style="height: 7px;"></td>
   </tr>
  </table>
- <p style="margin-top:20px; "><span class="_paradigm">RAD</span>s support all of these behaviors,</p>
- <table>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
