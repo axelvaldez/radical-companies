@@ -26,7 +26,7 @@ image:    "removing-a-huge-pain-salaries.svg"
    <li>Eventually this goes to increase the <em>owners&rsquo;</em> equity. That is because &ldquo;labor&rdquo; creates present <em style="font-weight:bold; ">and</em> future value, so the today&rsquo;s labor ends up as owners&rsquo; equity.</li>
   </ul>
   <p>Even the six-figure <em>salaries</em> that software developers can demand today<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>, is just that: a labor debt. If the business is sold tomrrow, the bosses and owners get to extract wealth from the sale, not the laborers. Of course, in some cases, as it is for many developers, laborers can expect to extract some of that wealth because they get business stocks. But, again, that is the exception, not the rule.</p>
-  <p>Even the six-figure <em>salaries</em> that software developers can demand today<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>, is just that: a labor debt. If the business is sold tomrrow, the bosses and owners get to extract wealth from the sale, not the laborers. Of course, in some cases, as it is for many developers, laborers can expect to extract some of that wealth because they get business stocks. But, again, that is the exception, not the rule.</p>
+  <p>Even the six-figure <em>salaries</em> that software developers can demand today<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>, is just that: a labor debt. If the business is sold tomrrow, the bosses and owners get to extract wealth from the sale, not the laborers. Of course, in some cases, as it is for many developers, laborers can expect to extract some of that wealth because they get business stocks. But, again, that is the exception, not the rule.</p>
  
  <h1>So, Let&rsquo;s Give Everybody Stock!</h1>
   <p>Giving everybody stock is not the answer.</p>
@@ -40,7 +40,7 @@ image:    "removing-a-huge-pain-salaries.svg"
     <li>Cooperatives, Unions, B Corps, and the like, are variations of <span>FIAT</span> businesses and, as such, they use the same type of stock as any other businesse.</li>
    </ul>
   </p>
-  <p>One more time: the number of shares of stocks given is not based on contributions. It is totally arbitrary. It's better than a poke in the eye, but it's nowhere near fair to employees <em>or to the business</em> because it is not based on contributions.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+  <p>One more time: the number of shares of stocks given is not based on contributions. It is totally arbitrary. It's better than a poke in the eye, but it's nowhere near fair to employees <em>or to the business</em> because it is not based on contributions.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
 
 <div style="text-align:center; ">
  <img
