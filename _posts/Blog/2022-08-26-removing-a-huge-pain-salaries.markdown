@@ -110,11 +110,11 @@ image:    "removing-a-huge-pain-salaries.svg"
  </table>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol start="2">
-  <li id="en02">
+ <ol>
+  <li id="en01">
    <p class="_list-item">
     August 2022.
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
@@ -129,9 +129,9 @@ image:    "removing-a-huge-pain-salaries.svg"
   <li>Blog posts,</li>
    <ul>
     <li>For the Impatient: <a href="https://radicalcompanies.com/2022/05/04/RADICAL-COMPANIES-impatient" target="_blank">&hellip;/RADICAL-COMPANIES-impatient</a></li>
-    <li id="en01">
+    <li id="en02">
      Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/05/RADICAL-COMPANIES-faq" target="_blank">&hellip;/RADICAL-COMPANIES-faq</a>
-     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
     </li>
    </ul>
    <li>Missing Chapters,</li>
