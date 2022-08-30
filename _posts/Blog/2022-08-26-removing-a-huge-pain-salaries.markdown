@@ -25,7 +25,7 @@ image:    "removing-a-huge-pain-salaries.svg"
    <li>The debt is erased.</li>
    <li>Eventually this goes to increase the <em>owners&rsquo;</em> equity. That is because &ldquo;labor&rdquo; creates present <em style="font-weight:bold; ">and</em> future value, so the today&rsquo;s labor ends up as owners&rsquo; equity.</li>
   </ul>
-  <p>Even the six-figure <em>salaries</em> that software developers can demand today<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>, is just that: a labor debt. If the business is sold tomrrow, the bosses and owners get to extract wealth from the sale, not the laborers. Of course, in some cases, as it is for many developers, laborers can expect to extract some of that wealth because they get business stocks. But, again, that is the exception, not the rule.</p>
+  <p>Even the six-figure <em>salaries</em> that software developers can demand today<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>, are a labor debt. If the business is sold tomrrow, the bosses and owners get to extract wealth from the sale, not the laborers. Of course, in some cases, as it is for some software developers, laborers can expect to extract some of that wealth because they get business stocks. But, again, that is the exception, not the rule.</p>
   <p>Even the six-figure <em>salaries</em> that software developers can demand today<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>, is just that: a labor debt. If the business is sold tomrrow, the bosses and owners get to extract wealth from the sale, not the laborers. Of course, in some cases, as it is for many developers, laborers can expect to extract some of that wealth because they get business stocks. But, again, that is the exception, not the rule.</p>
  
  <h1>So, Let&rsquo;s Give Everybody Stock!</h1>
@@ -93,6 +93,12 @@ image:    "removing-a-huge-pain-salaries.svg"
    <p class="_list-item" style="width:1.5in; ">
     And, no, don&rsquo;t worry, I am not building up a case for <em>piece work</em>.
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item" style="width:1.5in; ">
+    And, no, don&rsquo;t worry, I am not building up a case for <em>piece work</em>.
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
