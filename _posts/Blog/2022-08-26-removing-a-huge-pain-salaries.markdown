@@ -54,7 +54,8 @@ image:    "removing-a-huge-pain-salaries.svg"
    <p>Everybody does a little bit of the recognizing and automagically money gets allocated according to that. If there&rsquo;s any complaint, anybody or any group of people can ask what happened. Note that managers don't have to get involved.</p>
 
 <h1>Automagically? BS?</h1>
-   <p>This may bring up many questions: what if they do it wrong? what if they don&rsquo;t recognize the right accomplishments?</p>
+   <p>This may bring up many questions: what if they do it wrong? what if they don&rsquo;t recognize the right accomplishments? For these and similar questions, please look at our Frequently Asked Questions (FAQ) doc:<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>.
+   </p>
    <p></p>
    <p></p>
 
@@ -112,16 +113,10 @@ image:    "removing-a-huge-pain-salaries.svg"
  </table>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
-  <li id="en01">
-   <p class="_list-item">
-    August 2022.
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
+ <ol start="2">
   <li id="en02">
    <p class="_list-item">
-    And, no, don&rsquo;t worry, I am not building up a case for <em>piece work</em>.
+    August 2022.
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -137,7 +132,10 @@ image:    "removing-a-huge-pain-salaries.svg"
   <li>Blog posts,</li>
    <ul>
     <li>For the Impatient: <a href="https://radicalcompanies.com/2022/05/04/RADICAL-COMPANIES-impatient" target="_blank">&hellip;/RADICAL-COMPANIES-impatient</a></li>
-    <li>Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/05/RADICAL-COMPANIES-faq" target="_blank">&hellip;/RADICAL-COMPANIES-faq</a></li>
+    <li id="en01">
+     Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/05/RADICAL-COMPANIES-faq" target="_blank">&hellip;/RADICAL-COMPANIES-faq</a>
+     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+    </li>
    </ul>
    <li>Missing Chapters,</li>
     <ul>
