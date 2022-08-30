@@ -83,13 +83,13 @@ image:    "removing-a-huge-pain-salaries.svg"
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
-   <p class="_list-item" style="width:1.5in; ">
+   <p class="_list-item">
     Circa August 2022.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
-   <p class="_list-item" style="width:1.5in; ">
+   <p class="_list-item">
     And, no, don&rsquo;t worry, I am not building up a case for <em>piece work</em>.
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
