@@ -25,7 +25,7 @@ image:    "removing-a-huge-pain-salaries.svg"
    <li>Eventually this goes to increase the <em>owners&rsquo;</em> equity. &ldquo;Labor&rdquo; creates present <em style="font-weight:bold; ">and</em> future value.</li>
   </ul>
   </p>
- <p>Even the six-figure <em>salaries</em> that software developers can demand today<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>, are just cost to the business.</p>
+ <p>Even the six-figure <em>salaries</em> that software developers can demand today,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> are just cost to the business.</p>
  
  <h1>Give Everybody Stock?</h1>
   <p>Giving everybody stock is not the answer.</p>
