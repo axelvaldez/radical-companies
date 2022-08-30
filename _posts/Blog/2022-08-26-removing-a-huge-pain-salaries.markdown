@@ -37,7 +37,7 @@ image:    "removing-a-huge-pain-salaries.svg"
     <li>Employees have no control over the stock price. Bosses do and they usually decide on the side of what is good for them, not employees.</li>
     <li>Employee level determines the amount of stock every member at the same level gets. All Jr Engineers get the same amount of stock and all Sr Engineers get more stock. This is true regardless of their individual contributions. A Sr Engineer who contributes a lot has the same amount of stock as another Sr Engineer who barely does his job.</li>
     <li>The number of shares each gets is determined solely by their level in the hierarchy. There are exceptions and more aggressive people eak out more shares, but this is based on their aggressiveness, not their contributions.</li>
-    <li>Cooperatives, Unions, B Corps, etc., are <span class="_paradigm">FIAT</span> businesses, too. and they see stocks the same as any other businesse.</li>
+    <li>Cooperatives, Unions, B Corps, etc., are <span class="_paradigm">FIAT</span> businesses, too. and they see and use stocks the same as any other businesse.</li>
    </ul>
   </p>
   <p>The key problem is that the number of shares of stocks given is <em>not based on contributions</em>, it is totally arbitrary. It's better than a poke in the eye, but it's nowhere near fair to employees <em>or to the business</em> because it is not based on contributions.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
