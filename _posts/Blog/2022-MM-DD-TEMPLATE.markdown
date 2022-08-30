@@ -56,7 +56,7 @@ image:    "about-daos.svg"
 <h1 class="_section">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="en01">
-   <p class="_list-item" style="width:1.5in; ">
+   <p class="_list-item">
     AUTHOR(S).
     <em>TITLE.</em>
     PUBLICATION YEAR.
