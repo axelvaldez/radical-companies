@@ -41,7 +41,31 @@ image:    "removing-a-huge-pain-salaries.svg"
     <li>Cooperatives, Unions, B Corps, etc., are <span class="_paradigm">FIAT</span> businesses, too. and they see and use stocks the same way.</li>
    </ul>
   </p>
-  <p></p>
+  <p>Stocks are a 400 instrument and not a fixed to the salary problem.</p>
+
+  <h1>Decentralize Salaries</h1>
+   <p></p>
+   <p></p>
+   <p></p>
+   <p></p>
+   <p></p>
+   <p></p>
+
+  <h1>Elimninate Salaries</h1>
+   <p></p>
+   <p></p>
+   <p></p>
+   <p></p>
+   <p></p>
+   <p></p>
+
+  <h1>Predictable, Recurring Income (PRI)</h1>
+   <p></p>
+   <p></p>
+   <p></p>
+   <p></p>
+   <p></p>
+   <p></p>
 
 <div style="text-align:center; ">
  <img
