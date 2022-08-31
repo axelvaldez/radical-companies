@@ -44,8 +44,7 @@ image:    "removing-a-huge-pain-salaries.svg"
   <p>Stocks are a 400 instrument and not a fixed to the salary problem.</p>
 
   <h1>Decentralize Salaries</h1>
-   <p>If the big pain for managers is deciding salaries and raises, then let somebody else do it. In fact, let <em>everybody</em> do it.</p>
-   <p>Here is a system that would accomplish that,
+   <p style="margin-bottom:0; ">If the big pain for managers is deciding salaries and raises, then let somebody else do it. In fact, let <em>everybody</em> do it,</p>
     <ul>
      <li>Let every person recognize other people&rsquo;s contribution.</li>
      <li>Salaries and raises are then based on these recognitions. If this man got 10% of the recognitions and this woman got 20%, then the woman gets twice as much as the guy.</li>
