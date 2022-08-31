@@ -31,7 +31,7 @@ image:    "removing-a-huge-pain-salaries.svg"
   <p>Giving everybody stock is not the answer.</p>
   <p>I&rsquo;ve worked in high tech my whole adult life and I&rsquo;ve seen this movie many times: early employees get stock; later new people get less and less stock; finally the business stops giving out stocks. The &ldquo;employee pool&rdquo; is a fixed size and after a while it dries out.</p>
   <p>In any case, regardless of the stock class they get (<em>e.g.</em>, founder, common), employees don&rsquo;t get anything other than <em>stock-as-afinancial promise</em>. Only <em>the Officers and the Board</em> (<em>i.e.</em>, capital investors) have any 1) control of the business itself and 2) get to extract real wealth from it (<em>e.g.</em>, a sale, loans against stock, sales of their stock). For example, patents belong to the business, gets converted to owners equity; the employee(s) who came up with it doesn&rsquo;t get any value out of it.</p>
-  <p>Other facts about stocks,
+  <p class="mb0">Other facts about stocks,
    <ul>
     <li>Stocks are <em style="font-weight:bold; ">given</em> by the boss.</li>
     <li>Stocks are given as a <em>fixed mumber</em> of shares. Over time these can be diluted.</li>
