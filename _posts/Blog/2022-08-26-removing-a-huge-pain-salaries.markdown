@@ -63,49 +63,15 @@ image:    "removing-a-huge-pain-salaries.svg"
     alt="$10,000 per week, times, 26 weeks for six months, results in $260,000 that we have to get for a worst-case PRI fund.">
   </div>
   </p>
-  <p>If people are bringing in less that $10,000 per week, the difference comes out of the <span class="_paradigm">PRI</span> fund. People who contribute a lot will probably with more that their share of the $10,000. For the people who don't contribute enough will take the difference out of the <span class="_paradigm">PRI</span> fund. Whatever goes out of the fund to pay them a predictable regular income every week, they owe. Later as they start to bring in more than their share, the excess goes to pay what they owe until it&rdquo;s all paid out.</p>
-  <p>People get paid, regularly, what they've asked for, just like a salary. A manager gets a lot of time to work on value producing things.</p>
-
-<h1>Predictable Recurring Income (PRI)</h1>
-  <p></p>
-  <p></p>
-
-<div style="text-align:center; ">
- <img
-  src="/assets/img/recs-to-rads-equation.svg"
-  width="70%"
-  alt="">
-</div>
-
- <table align="center">
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>relationships</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>autonomy</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>collaboration</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
- </table>
+  <p>Anybody who is bringing in less that $10,000 per week, the difference comes out of the <span class="_paradigm">PRI</span> fund. People who contribute a lot will probably with get more than their share of the $10,000. For the people who don't contribute enough will take the difference out of the <span class="_paradigm">PRI</span> fund. Whatever goes out of the fund to pay these folks a predictable regular income every week, they owe. Later as they start to bring in more than their share, the excess goes to pay what they owe until it&rdquo;s all paid out.</p>
+  <p>The end result is that,
+   <ul>
+    <li>People get paid regularly, just like a salary.</li>
+    <li>Since the amount is what they asked for, <em>the employee pain is gone</em>.</li>
+    <li>Managers get a lot of time to work on value producing things.</li>
+    <li>Since they don't have to deal with any aspect of this, <em>the manager pain is gone</em>.</li>
+   </ul>
+  </p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
