@@ -51,8 +51,7 @@ image:    "removing-a-huge-pain-salaries.svg"
      <li>Salaries and raises are then based on these recognitions. If this man got 10% of the recognitions and this woman got 20%, then the woman gets twice as much as the guy.</li>
     </ul>
    </p>
-   <p>Everybody does a little bit of the recognizing, which they enjoy, and automagically money gets allocated according to that. If there are any complaints or questions, anybody can ask anybody else. The only work that managers have to do is to train people in <em>not coming to him</em> with those complaints and questions but to go ask their team.</p>
-   <p>But, what if they do it wrong? what if they don&rsquo;t recognize the right accomplishments? For this type of question, take a look at our Frequently Asked Questions (FAQ) doc.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+   <p>Everybody does a little bit of the recognizing, which they enjoy, and money gets allocated according to that. If there are any complaints or questions, anybody can ask anybody else. The only work that managers have to do is to train people to <em>not come to him</em> with those complaints and questions but to go ask their teammates.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
 
   <h1>Elimninate Salaries</h1>
    <p>People have to pay their bills on a regular basis. They have to know how much they are going to take home every time and not have it go up and down. People need a predictable and regular income (PRI).</p>
@@ -122,6 +121,13 @@ image:    "removing-a-huge-pain-salaries.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+  <li id="en02">
+   <p class="_list-item">
+    For more info, take a look at our Frequently Asked Questions (FAQ) doc.
+    <<a href="https://radicalcompanies.com/2022/05/04/radical-companies-faq.html" target="_blank">https://radicalcompanies.com/2022/05/04/radical-companies-faq.html</a>>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
  </ol>
 
 <h1 class="_section">RELATED</h1>
@@ -133,11 +139,8 @@ image:    "removing-a-huge-pain-salaries.svg"
    </ul>
   <li>Blog posts,</li>
    <ul>
-    <li>For the Impatient: <a href="https://radicalcompanies.com/2022/05/04/RADICAL-COMPANIES-impatient" target="_blank">&hellip;/RADICAL-COMPANIES-impatient</a></li>
-    <li id="en02">
-     Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/05/RADICAL-COMPANIES-faq" target="_blank">&hellip;/RADICAL-COMPANIES-faq</a>
-     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-    </li>
+    <li>For the Impatient: <a href="https://radicalcompanies.com/2022/05/04/radical-companies-impatient" target="_blank">&hellip;/RADICAL-COMPANIES-impatient</a></li>
+    <li>Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/05/radical-companies-faq" target="_blank">&hellip;/RADICAL-COMPANIES-faq</a></li>
    </ul>
    <li>Missing Chapters,</li>
     <ul>
