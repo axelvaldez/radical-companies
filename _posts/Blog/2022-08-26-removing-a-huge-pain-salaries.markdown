@@ -52,12 +52,10 @@ image:    "removing-a-huge-pain-salaries.svg"
    </p>
    <p>Everybody does a little bit of the recognizing and automagically money gets allocated according to that. If there&rsquo;s any complaint, anybody or any group of people can ask what happened. Note that managers don't have to get involved.</p>
    <p>This may bring up many questions: what if they do it wrong? what if they don&rsquo;t recognize the right accomplishments? For these and similar questions, please look at our Frequently Asked Questions (FAQ) doc.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
-   <p></p>
-   <p></p>
 
   <h1>Elimninate Salaries</h1>
-   <p></p>
-   <p></p>
+   <p>People have to pay their bills on a regular basis. They have to know how much they are going to take home every time and not have it go up and down. People need a predictable and regular income (PRI).</p>
+   <p>Now that we know what contributios people are making, we now need to know what they need on regular bais. The difference has to come out of somewhere, there is no magic or hidden trunk full of treasure. So we'll go to a proverbial bank and borrow a few months&rsquo; worth of PRI. For example, if 10 people said they $10,000 per week, then for a six month PRI fund, we need to borrow 26 weeks times $10,000 or $$260,000 for the PRI fund.</p>
    <p></p>
    <p></p>
    <p></p>
