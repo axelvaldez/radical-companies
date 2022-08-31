@@ -58,7 +58,7 @@ image:    "removing-a-huge-pain-salaries.svg"
    <p>Now that we know what contributios people are making, we now need to know what they need on regular bais. The difference has to come out of somewhere, there is no magic or hidden trunk full of treasure. So we'll go to a proverbial bank and borrow a few months&rsquo; worth of PRI. For example, if 10 people said they $10,000 per week, then for a six month PRI fund, we need to borrow 26 weeks times $10,000 or $$260,000 for the PRI fund.</p>
     <div style="text-align:center; ">
      <img
-     src="/assets/img/recs-to-rads-equation.svg"
+     src="/assets/img/pri-fund-260000.svg"
      width="70%"
      alt="">
     </div>
