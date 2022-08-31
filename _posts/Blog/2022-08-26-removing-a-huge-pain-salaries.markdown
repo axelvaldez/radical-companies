@@ -50,8 +50,8 @@ image:    "removing-a-huge-pain-salaries.svg"
      <li>Salaries and raises are then based on these recognitions. If this man got 10% of the recognitions and this woman got 20%, then the woman gets twice as much as the guy.</li>
     </ul>
    </p>
-   <p>Everybody does a little bit of the recognizing and automagically money gets allocated according to that. If there&rsquo;s any complaint, anybody or any group of people can ask what happened. Note that managers don't have to get involved.</p>
-   <p>This may bring up many questions: what if they do it wrong? what if they don&rsquo;t recognize the right accomplishments? For these and similar questions, please look at our Frequently Asked Questions (FAQ) doc.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+   <p>Everybody does a little bit of the recognizing, which they enjoy, and automagically money gets allocated according to that. If there are any complaints or questions, anybody can ask anybody else. The only work that managers have to do is to train people in <em>not coming to him</em> with those complaints and questions but to go ask their team.</p>
+   <p>But, what if they do it wrong? what if they don&rsquo;t recognize the right accomplishments? For this type of question, take a look at our Frequently Asked Questions (FAQ) doc.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
 
   <h1>Elimninate Salaries</h1>
    <p>People have to pay their bills on a regular basis. They have to know how much they are going to take home every time and not have it go up and down. People need a predictable and regular income (PRI).</p>
