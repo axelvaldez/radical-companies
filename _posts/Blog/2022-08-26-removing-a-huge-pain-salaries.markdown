@@ -56,7 +56,7 @@ image:    "removing-a-huge-pain-salaries.svg"
 
   <h1>Elimninate Salaries</h1>
    <p>People have to pay their bills on a regular basis. They have to know how much they are going to take home every time and not have it go up and down. People need a predictable and regular income (PRI).</p>
-   <p>Now that we know what contributios people are making, we now need to know what they need on regular bais. The difference has to come out of somewhere, there is no magic or hidden trunk full of treasure. So we'll go to a proverbial bank and borrow a few months&rsquo; worth of PRI. For example, if 10 people said they $10,000 per week, then for a six month PRI fund, we need to borrow 26 weeks times $10,000 or $260,000 for the PRI fund.
+   <p>Now that we know what contributios people are making, we now need to know what they need to take home on regular bais. The difference has to come out of somewhere (<em>i.e.</em>, there is no magic or a trunk full of treasure). So we'll go to a proverbial bank and borrow a few months&rsquo; worth of PRI. For example, if 10 people said they $10,000 per week, then for a six month PRI fund, we need to borrow 26 weeks times $10,000 or $260,000 for the PRI fund,
     <div style="text-align:center; ">
      <img
       src="/assets/img/pri-fund-260000.svg"
