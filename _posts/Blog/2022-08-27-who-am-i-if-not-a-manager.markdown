@@ -19,7 +19,7 @@ image:    "existential-threat-icon.svg"
 
 <h1>Going RADICAL</h1>
  <p>Now imagine, your company goes <span class="_paradigm">RADICAL</span> and you are no longer a manager. If you had embraced this as part of your identity, it’s going to be difficult to let go. How do I make more money? What do I tell my friends? I am just one of the grunts!</p>
- <p>Instead, you are now a co-owner and co-manager of <em>your</em> <span class="_paradigm">RADICAL</span> company,</p>
+ <p class="_mb0">Instead, you are now a co-owner and co-manager of <em>your</em> <span class="_paradigm">RADICAL</span> company,</p>
  <ul>
   <li>You don’t have to waste time defending your team from the rest of the hierarchy, because there is no <span class="_paradigm">FIAT</span> hierarchy.</li>
   <li>You don’t go to meetings unless you have something of value to contribute.</li>
