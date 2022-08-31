@@ -64,7 +64,7 @@ image:    "removing-a-huge-pain-salaries.svg"
   </div>
   </p>
   <p>Anybody who is bringing in less that $10,000 per week, the difference comes out of the <span class="_paradigm">PRI</span> fund. People who contribute a lot will probably with get more than their share of the $10,000. For the people who don't contribute enough will take the difference out of the <span class="_paradigm">PRI</span> fund. Whatever goes out of the fund to pay these folks a predictable regular income every week, they owe. Later as they start to bring in more than their share, the excess goes to pay what they owe until it&rdquo;s all paid out.</p>
-  <p>The end result is that,
+  <p class="_mb0">The end result is that,
    <ul>
     <li>People get paid regularly, just like a salary.</li>
     <li>Since the amount is what they asked for, <em>the employee pain is gone</em>.</li>
