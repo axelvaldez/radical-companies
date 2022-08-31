@@ -60,7 +60,7 @@ image:    "removing-a-huge-pain-salaries.svg"
      <img
      src="/assets/img/pri-fund-260000.svg"
      width="70%"
-     alt="">
+     alt="$10,000 per week, times, 26 weeks for six months, results in $260,000 that we have to get for a worst-case PRI fund.">
     </div>
    <p></p>
    <p></p>
