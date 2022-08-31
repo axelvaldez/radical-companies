@@ -55,7 +55,7 @@ image:    "removing-a-huge-pain-salaries.svg"
 
 <h1>Elimninate Salaries</h1>
  <p>You can&rsquo;t eliminate salaries. People have to pay their bills on a regular basis and they have to know how much they are going to take home so they can plan. People need a predictable and regular income (PR<span class="_paradigm">PRI</span>I). But, how to do this?</p>
- <p>Well, we already know what people are bringing in: we know their contributios and based on that we can calculate what their piece of this revenue is. We now need to know what they need to take home on regular basis. So we ask them (more <a>below</a>). If there is a difference, has to come out of somewhere. Given that there is no magic or a trunk full of treasure, we need a fund to be ready. We can budget for that, or we can borrow a few months&rsquo; worth of <span class="_paradigm">PRI</span>. For example, if 10 people need $10,000 per week, we need $260,000 in the <span class="_paradigm">PRI</span> fund,
+ <p>Well, we already know what people are bringing in: we know their contributios and based on that we can calculate what their piece of this revenue is. We now need to know what they need to take home on regular basis. So we ask them (more <a>below</a>). If there is a difference, has to come out of somewhere. Given that there is no magic or a trunk full of treasure, we need a fund to be ready. We can budget for that, or we can borrow a few months&rsquo; worth of <span class="_paradigm">PRI</span>. For example, if 10 people need $10,000 per week, we need $260,000 in the <span class="_paradigm">PRI</span> fund, just in case,
   <div style="text-align:center; ">
    <img
     src="/assets/img/pri-fund-260000.svg"
