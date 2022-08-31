@@ -7,7 +7,7 @@ image:    "existential-threat-icon.svg"
 ---
 
 <div style="display:none;">
- <p>&ldquo;<span class="_paradigm">RADICAL</span>&rdquo; is often perceived as an existential threat to managers. Ironically, managers can be the happiest abandoning their titles and becoming co-partners with their fellow employees.</p>
+ <p>&ldquo;<span class="_paradigm">RADICAL</span>&rdquo; is often perceived as an existential threat to managers. Ironically, managers can be the happiest abandoning their titles and becoming co-owners with their fellow employees.</p>
 </div>
 
 <h1>&nbsp;</h1>
