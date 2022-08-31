@@ -16,7 +16,7 @@ image:    "removing-a-huge-pain-salaries.svg"
 
 <h1>Salaries Are  Debt</h1>
  <p>Responsible adults know what they need, and everybody person you hire is a responsible adult. They are quite capable of figuring out how much they need to take home regularly; or put another way, they are quite capable of deciding how much to extract from the wealth that everybody helped create. This is what &ldquo;salaries&rdquo; should be: predictable and regular wealth extraction. But they are a form of wealth extraction, but a market-driven price, same as pees.</p>
- <p>The owners, on the other hand,m get to extract wealth from everybody&rsquo;s work,
+ <p class="_mb0">The owners, on the other hand,m get to extract wealth from everybody&rsquo;s work,
   <ul>
    <li>People do the work.</li>
    <li>This shows in the books as debt.</li>
@@ -44,7 +44,7 @@ image:    "removing-a-huge-pain-salaries.svg"
   <p>Stocks are a 400 instrument and not a fixed to the salary problem.</p>
 
   <h1>Decentralize Salaries</h1>
-   <p style="margin-bottom:0; ">If the big pain for managers is deciding salaries and raises, then let somebody else do it. In fact, let <em>everybody</em> do it,
+   <p class="_mb0">If the big pain for managers is deciding salaries and raises, then let somebody else do it. In fact, let <em>everybody</em> do it,
     <ul>
      <li>Let every person recognize other people&rsquo;s contribution.</li>
      <li>Salaries and raises are then based on these recognitions. If this man got 10% of the recognitions and this woman got 20%, then the woman gets twice as much as the guy.</li>
