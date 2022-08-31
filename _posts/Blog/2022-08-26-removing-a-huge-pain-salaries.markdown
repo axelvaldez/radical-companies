@@ -33,12 +33,13 @@ image:    "removing-a-huge-pain-salaries.svg"
   <p>In any case, regardless of the stock class they get (<em>e.g.</em>, founder, common), employees don&rsquo;t get anything other than <em>stock-as-afinancial promise</em>. Only <em>the Officers and the Board</em> (<em>i.e.</em>, capital investors) have any 1) control of the business itself and 2) get to extract real wealth from it (<em>e.g.</em>, a sale, loans against stock, sales of their stock). For example, patents belong to the business, gets converted to owners equity; the employee(s) who came up with it doesn&rsquo;t get any value out of it.</p>
   <p class="_mb0">Other facts about stocks,
    <ul>
-    <li>Stocks are <em style="font-weight:bold; ">given</em> by the boss.</li>
-    <li>Stocks are given as a <em>fixed mumber</em> of shares. Over time these can be diluted.</li>
-    <li>Employees have no control over the stock price. Bosses do and they usually decide on the side of what is good for them, not employees.</li>
-    <li>Employee level determines the amount of stock every member at the same level gets. All Jr Engineers get the same amount of stock and all Sr Engineers get more stock. This is true regardless of their individual contributions. A Sr Engineer who contributes a lot has the same amount of stock as another Sr Engineer who barely does his job.</li>
-    <li>The number of shares each gets is determined solely by their level in the hierarchy. There are exceptions and more aggressive people eak out more shares, but this is based on their aggressiveness, not their contributions.</li>
-    <li>Cooperatives, Unions, B Corps, etc., are <span class="_paradigm">FIAT</span> businesses, too. and they see and use stocks the same way.</li>
+    <li>Stocks are given.</li>
+    <li>The amount of shares given is a <em>fixed mumber</em>.</li>
+    <li>Over time these can be diluted (<em>e.g.</em>, 1% today but 0.1% tomrrow).</li>
+    <li>Employees have no control over the stock price. Bosses do and they usually decide on the side of what is good for them, not employees (or even investors).</li>
+    <li>This &ldquo;gift&rdquo; is either arbitraty or the employee level determines the amount. All Jr Engineers get the same amount of stock and all Sr Engineers get more stock. This is true regardless of their individual contributions. A Sr Engineer who contributes a lot has the same amount of stock as another Sr Engineer who barely does his job.</li>
+    <li>There are exceptions and more aggressive people eak out more shares, but this is based on their aggressiveness, not their contributions.</li>
+    <li>Cooperatives, Unions, B Corps, etc., are <span class="_paradigm">FIAT</span> organizations, too, and they see and use stocks the same way.</li>
    </ul>
   </p>
   <p>Stocks are a 400 instrument and not a fixed to the salary problem.</p>
