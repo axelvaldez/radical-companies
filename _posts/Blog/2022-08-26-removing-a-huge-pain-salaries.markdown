@@ -35,7 +35,7 @@ image:    "removing-a-huge-pain-salaries.svg"
    <ul>
     <li>Stocks are given.</li>
     <li>The amount of shares given is a <em>fixed mumber</em>.</li>
-    <li>Over time these can be diluted (<em>e.g.</em>, 1% today but 0.1% tomrrow).</li>
+    <li>Over time these can be diluted (<em>e.g.</em>, 1% today but 0.1% tomorrow).</li>
     <li>Employees have no control over the stock price. Bosses do and they usually decide on the side of what is good for them, not employees (or even investors).</li>
     <li>This &ldquo;gift&rdquo; is either arbitraty or the employee level determines the amount. All Jr Engineers get the same amount of stock and all Sr Engineers get more stock. This is true regardless of their individual contributions. A Sr Engineer who contributes a lot has the same amount of stock as another Sr Engineer who barely does his job.</li>
     <li>There are exceptions and more aggressive people eak out more shares, but this is based on their aggressiveness, not their contributions.</li>
