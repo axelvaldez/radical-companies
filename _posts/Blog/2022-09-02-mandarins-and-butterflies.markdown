@@ -72,8 +72,8 @@ image:    "about-daos.svg"
    </ul>
   <li>rProjects,</li>
    <ul>
-    <li>REMARK!: <a href="https://radicalcompanies.com/2022/05/18/REMARK" target="_blank">https://radicalcompanies.com/2022/05/18/REMARK (API)</a></li>
-    <li>RADs!: <a href="https://radicalcompanies.com/2022/05/19/RADs!" target="_blank">https://radicalcompanies.com/2022/05/19/RADs! (App)</a></li>
-    <li>Attentive UI: <a href="https://radicalcompanies.com/2022/05/17/attentive-ui.html" target="_blank">https://radicalcompanies.com/2022/05/17/attentive-ui.html</a></li>
+    <li>REMARK!: <a href="https://radicalcompanies.com/2022/05/21/remark" target="_blank">https://radicalcompanies.com/2022/05/21/remark (API)</a></li>
+    <li>RADs!: <a href="https://radicalcompanies.com/2022/05/22/rads!" target="_blank">https://radicalcompanies.com/2022/05/22/rads! (App)</a></li>
+    <li>Attentive UI: <a href="https://radicalcompanies.com/2022/05/23/attentive-ui" target="_blank">https://radicalcompanies.com/2022/05/23/attentive-ui</a></li>
    </ul>
  </ul>
