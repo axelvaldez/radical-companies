@@ -7,7 +7,7 @@ image:    "mandarin-and-butterfly-icon.svg"
 ---
 
 <div style="display:none;">
- <p>FIAT colonizes your mind in the most insidous ways. Sometimes, it simply doesn&rsquo;t let you enjoy a mandarin. But you can make your own way, and you can fly.</p>
+ <p>FIAT colonizes colonize your mind in the most insidous ways. Sometimes, it simply doesn&rsquo;t let you enjoy a mandarin. But you can make your own way, and you can fly.</p>
 </div>
 
 <h1></h1>
@@ -16,7 +16,7 @@ image:    "mandarin-and-butterfly-icon.svg"
 
 <div class="_quotation" style="width:90%; ">
  <p>I just came to a realization and I am writing you to flush it out in my own head.</p>
- <p>I&rsquo;ve realized that until a few days ago, I&rsquo;ve spent my whole life hurting myself emotionally. To give you an example, I&rsquo;ve always been the type of person that if I tried a new food and I didn&rsquo;t like it, I would still finish it. I would think, &ldquo;you spent money on this, you have to make that money worth something.&rdquo;. Finishing it would make it feel bad, but I felt I didn&rsquo;t have an option but to finish it even though I wasn&rsquo;t enjoying it. Recently, a friend told me told me that if I didn&rsquo;t like it, I didn&rsquo;t <em>have to</em> finish it. And I should not feel bad about it either: I tried something new to find out if I enjoyed it or not and if I don&rsquo;t like it, then I won&rsquo;t order it next time.</p>
+ <p>I&rsquo;ve realized that until a few days ago, I&rsquo;ve spent my whole life hurting myself emotionally. To give you an example, I&rsquo;ve always been the type of person that if I tried a new food and I didn&rsquo;t like it, I would still finish it. I would think, &ldquo;you spent money on this, you have to make that money worth something.&rdquo;. Finishing it would make it feel bad, but I felt I didn&rsquo;t have an option but to finish it even though I wasn&rsquo;t enjoying it. Recently, a friend told me that if I didn&rsquo;t like it, I didn&rsquo;t <em>have to</em> finish it. And I should not feel bad about it either: I tried something new to find out if I enjoyed it or not and if I don&rsquo;t like it, then I won&rsquo;t order it next time.</p>
  <p>Her words made me realize that I had normalized worrying about money most of all and putting money at the top of all my priorities. For big decision, that wasn&rsquo;t always the case, but for smaller, day-to-day decisions money was the overriding consideration.</p>
  <p>I have been here for a year and I have bought mandarins only once. Once! And only because they when went on sale, otherwise I would not have bought them. But back home I bought mandarins almost every day because it is my favority fruit. Here the litte voice in my head told me that I could not have the pleasure because mandarins are too expensive and I couldn&rsquo;t afford them.</p>
  <p>These &ldquo;little&rdquo; decisions have been hurting me. They have made me feel bad and lead to the conclusiong that I don&rsquo;t deserve the things I like. Money has taken over and I have not been able to live my life according to what I really want for myself. I am having a toxic relationships with myslef, making myself feel bad for a while and then trying to make up for it, to compensate excessively: that has been the cycle of my life. When I accomplish something it feels that I am not worth it of it. The accomplishment itself seems unreal; maybe that was not an accomplishment after all. Or maybe it is not minde and I should not feel good or happy because something bad can come to take it away.</p>
