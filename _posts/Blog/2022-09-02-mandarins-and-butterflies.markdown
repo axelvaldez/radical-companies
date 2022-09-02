@@ -40,7 +40,7 @@ image:    "about-daos.svg"
    </ul>
    <li>Missing Chapters,</li>
     <ul>
-     <li>rCoin: <a href="https://radicalcompanies.com/2022/05/07/rcoins.html" target="_blank">https://radicalcompanies.com/2022/05/07/rcoins.html</a></li>
+     <li>rCoin: <a href="https://radicalcompanies.com/2022/05/07/rcoin.html" target="_blank">https://radicalcompanies.com/2022/05/07/rcoin.html</a></li>
      <li>rLand: <a href="https://radicalcompanies.com/2022/05/06/rland.html" target="_blank">https://radicalcompanies.com/2022/05/06/rland.html</a></li>
      <li>rGov: <a href="https://radicalcompanies.com/2022/05/05/rgov.html" target="_blank">https://radicalcompanies.com/2022/05/05/rgov.html</a></li>
     </ul>
