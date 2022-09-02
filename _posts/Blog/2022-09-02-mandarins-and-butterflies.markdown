@@ -14,7 +14,7 @@ image:    "about-daos.svg"
  <p>I have just been gifted this beautful story. It details how little by little you end up making your own life smaller and restricted. How you internalize the <span class="_paradigm">FIAT</span> mindset and end up with a life interrupted, never letting yourself grow and mature.</p>
  <p>But you can find the strength, inside yourself, to fly.</p>
 
-<div class="_quotation">
+<div class="_quotation" style="width:90%; ">
  <p>I just came to a realization and I am writing you to flush it out in my own head.</p>
  <p>I&rsquo;ve realized that until a few days ago, I&rsquo;ve spent my whole life hurting myself emotionally. To give you an example, I&rsquo;ve always been the type of person that if I tried a new food and I didn&rsquo;t like it, I would still finish it. I would think, &ldquo;you spent money on this, you have to make that money worth something.&rdquo;. Finishing it would make it feel bad, but I felt I didn&rsquo;t have an option but to finish it even though I wasn&rsquo;t enjoying it. Recently, a friend told me told me that if I didn't like it, I didn't <em>have to</em> finish it. And I should not feel bad about it either: I tired something new to find out if I enjoy it or not and if I don't like it, then I won't order it next time.</p>
  <p>Her words made me realize that she was right, but I had normalized worrying about money most of all and putting money at the root of all my decisions. For big decision, that wasn't necessarily the case, but in the smaller, day-to-day decisions money was the overriding consideration.</p>
