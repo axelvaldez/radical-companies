@@ -36,7 +36,7 @@ image:    "about-daos.svg"
   <li>Blog posts,</li>
    <ul>
     <li>For the Impatient: <a href="https://radicalcompanies.com/2022/05/04/radical-companies-impatient" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient</a></li>
-    <li>Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/05/radical-companies-faq" target="_blank">https://radicalcompanies.com/2022/05/05/radical-companies-faq</a></li>
+    <li>Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/05/radical-companies-faq" target="_blank">https://radicalcompanies.com/2022/05/04/radical-companies-faq</a></li>
    </ul>
    <li>Missing Chapters,</li>
     <ul>
