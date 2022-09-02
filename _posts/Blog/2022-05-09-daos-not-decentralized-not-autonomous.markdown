@@ -31,7 +31,7 @@ image:    "about-daos.svg"
  <p>You might be thinking, &ldquo;But that's the way it is. You have to learn to restrain yourself and be polite about what you say and how you say. Otherwise, we will end up like animals, hurting each other.&rdquo; That reasoning is fear, too. Think of it this way: as a species, we are pretty successful. Do you think we got here by behaving like animals towards each other? In fact, social animals, like us, collaborate, not compete, and that's what&rsquo;s made them successful as a species. Perhaps we should behave more like the social animals we are.</p>
  <p>Force, and the fear it engenders, is what&rsquo;s holding us back, it hurts us, and will eventually kill more of us.</p>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">ENDNOTES</h1>
+<h1 class="_section">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="en1">David Rosenthal. <a href="https://blog.dshr.org/2022/02/ee380-talk.html">EE380 Talk</a>. Feb 9, 2022. <a href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
   <li id="en2">E. Glen Weyl, Puja Ohlhaver, Vitalik Buterin. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763">Decentralized Society: Finding Web3’s Soul</a>. 11 May 2022. <a href="#bm02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
@@ -41,50 +41,50 @@ image:    "about-daos.svg"
  <ul>
   <li>RADICAL COMPANIES,</li>
    <ul>
-    <li><a>EN</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/radicalcompanies.com [EN]</a></li>
-    <li><a>ES</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/radicalcompanies.com [ES]</a></li>
+    <li><a>English</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/https://radicalcompanies.com</a></li>
+    <li><a>Spanish</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/https://radicalcompanies.com</a></li>
    </ul>
   <li>Blog posts,</li>
    <ul>
-    <li>For the Impatient: <a href="https://radicalcompanies.com/2022/05/04/RADICAL-COMPANIES-impatient" target="_blank">&hellip;/RADICAL-COMPANIES-impatient</a></li>
-    <li>Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/05/RADICAL-COMPANIES-faq" target="_blank">&hellip;/RADICAL-COMPANIES-faq</a></li>
+    <li>For the Impatient: <a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient</a></li>
+    <li>Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/04/radical-companies-faq" target="_blank">https://radicalcompanies.com/2022/05/04/radical-companies-faq</a></li>
    </ul>
    <li>Missing Chapters,</li>
     <ul>
-     <li>rCoin: <a href="https://radicalcompanies.com/2022/05/07/rcoins.html" target="_blank">&hellip;/rcoin</a></li>
-     <li>rLand: <a href="https://radicalcompanies.com/2022/05/08/rland.html" target="_blank">&hellip;/rland</a></li>
-     <li>rGov: <a href="https://radicalcompanies.com/2022/05/06/rgov.html" target="_blank">&hellip;/rgov</a></li>
+     <li>rCoin: <a href="https://radicalcompanies.com/2022/05/07/rcoin.html" target="_blank">https://radicalcompanies.com/2022/05/07/rcoin.html</a></li>
+     <li>rLand: <a href="https://radicalcompanies.com/2022/05/06/rland.html" target="_blank">https://radicalcompanies.com/2022/05/06/rland.html</a></li>
+     <li>rGov: <a href="https://radicalcompanies.com/2022/05/05/rgov.html" target="_blank">https://radicalcompanies.com/2022/05/05/rgov.html</a></li>
     </ul>
    <li>rCompanies</li>
     <ul>
      <li>rMEDIA,</li>
       <ul>
-       <li>PRADERA Shelf: <a href="https://radicalcompanies.com/2022/04/02/rShelf" target="_blank">&hellip;/rShelf</a></li>
-       <li>PRADERA Reader: <a href="https://radicalcompanies.com/2022/04/01/rReader" target="_blank">&hellip;/rReader</a></li>
-       <li>RADICALS.LIVE!: <a href="https://radicalcompanies.com/2022/04/04/rLive" target="_blank">&hellip;/rLive</a></li>
-       <li>RADICAL MBA: <a href="https://radicalcompanies.com/2022/04/03/rMBA" target="_blank">&hellip;/rMBA</a></li>
+       <li>PRADERA Shelf: <a href="https://radicalcompanies.com/2022/04/02/rShelf" target="_blank">https://radicalcompanies.com/2022/04/02/rShelf</a></li>
+       <li>PRADERA Reader: <a href="https://radicalcompanies.com/2022/04/01/rReader" target="_blank">https://radicalcompanies.com/2022/04/01/rReader</a></li>
+       <li>RADICALS.LIVE!: <a href="https://radicalcompanies.com/2022/04/04/rLive" target="_blank">https://radicalcompanies.com/2022/04/04/rLive</a></li>
+       <li>RADICAL MBA: <a href="https://radicalcompanies.com/2022/04/03/rMBA" target="_blank">https://radicalcompanies.com/2022/04/03/rMBA</a></li>
       </ul>
-     <li>rHatchery: <a href="https://radicalcompanies.com/2022/05/16/rHatchery" target="_blank">&hellip;/rHatchery</a> <span style="font-weight:bold; ">[Under development]</span></li>
-     <li>rCircuit: <a href="https://radicalcompanies.com/2022/04/05/rCircuit" target="_blank">&hellip;/rCircuit</a></li>
-     <li>rPlayGym: <a href="https://radicalcompanies.com/2022/04/06/rPlayGym" target="_blank">&hellip;/rPlayGym</a></li>
+     <li>rHatchery: <a href="https://radicalcompanies.com/2022/05/16/rHatchery" target="_blank">https://radicalcompanies.com/2022/05/16/rHatchery</a></li>
+     <li>rCircuit: <a href="https://radicalcompanies.com/2022/04/05/rCircuit" target="_blank">https://radicalcompanies.com/2022/04/05/rCircuit</a></li>
+     <li>rPlayGym: <a href="https://radicalcompanies.com/2022/04/06/rPlayGym" target="_blank">https://radicalcompanies.com/2022/04/06/rPlayGym</a></li>
      <li>rEnsembles,</li>
       <ul>
-       <li>rCORE: <a href="https://radicalcompanies.com/2022/05/15/rCORE" target="_blank">&hellip;/rCORE</a> <span style="font-weight:bold; ">[Under development]</span></li>
-       <li>rClean: <a href="https://radicalcompanies.com/2022/05/14/rClean" target="_blank">&hellip;/rClean</a></li>
-       <li>rStayHome: <a href="https://radicalcompanies.com/2022/05/12/rStayHome" target="_blank">&hellip;/rStayHome</a></li>
-       <li>rKare: <a href="https://radicalcompanies.com/2022/05/13/rKare" target="_blank">&hellip;/rKare</a></li>
+       <li>rCORE: <a href="https://radicalcompanies.com/2022/05/15/rCORE" target="_blank">https://radicalcompanies.com/2022/05/15/rCORE</a></li>
+       <li>rClean: <a href="https://radicalcompanies.com/2022/05/14/rClean" target="_blank">https://radicalcompanies.com/2022/05/14/rClean</a></li>
+       <li>rStayHome: <a href="https://radicalcompanies.com/2022/05/12/rStayHome" target="_blank">https://radicalcompanies.com/2022/05/12/rStayHome</a></li>
+       <li>rKare: <a href="https://radicalcompanies.com/2022/05/13/rKare" target="_blank">https://radicalcompanies.com/2022/05/13/rKare</a></li>
       </ul>
     </ul>
   <li>rStartups,</li>
    <ul>
-    <li>rBuddyNeighbor: <a href="https://radicalcompanies.com/2022/05/20/rBuddyNeighbor" target="_blank">&hellip;/rBuddyNeighbor</a></li>
-    <li>rNextBright: <a href="https://radicalcompanies.com/2022/05/22/rNextBright" target="_blank">&hellip;/rNextBright</a></li>
-    <li>rHintersoft: <a href="https://radicalcompanies.com/2022/05/21/rHintersoft" target="_blank">&hellip;/rHintersoft</a></li> 
+    <li>rBuddyNeighbor: <a href="https://radicalcompanies.com/2022/05/17/rBuddyNeighbor" target="_blank">https://radicalcompanies.com/2022/05/17/rBuddyNeighbor</a></li>
+    <li>rNextBright: <a href="https://radicalcompanies.com/2022/05/19/rNextBright" target="_blank">https://radicalcompanies.com/2022/05/19/rNextBright</a></li>
+    <li>rHintersoft: <a href="https://radicalcompanies.com/2022/05/18/rHintersoft" target="_blank">https://radicalcompanies.com/2022/05/18/rHintersoft</a></li> 
    </ul>
   <li>rProjects,</li>
    <ul>
-    <li>REMARK!: <a href="https://radicalcompanies.com/2022/05/18/REMARK" target="_blank">&hellip;/REMARK (API)</a></li>
-    <li>RADs!: <a href="https://radicalcompanies.com/2022/05/19/RADs!" target="_blank">&hellip;/RADs! (App)</a> <span style="font-weight:bold; ">[Under development]</span></li>
-    <li>Attentive UI: <a href="https://radicalcompanies.com/2022/05/17/attentive-ui.html" target="_blank">&hellip;attentive-ui.html</a></li>
+    <li>REMARK!: <a href="https://radicalcompanies.com/2022/05/21/remark" target="_blank">https://radicalcompanies.com/2022/05/21/remark (API)</a></li>
+    <li>RADs!: <a href="https://radicalcompanies.com/2022/05/22/rads!" target="_blank">https://radicalcompanies.com/2022/05/22/rads! (App)</a></li>
+    <li>Attentive UI: <a href="https://radicalcompanies.com/2022/05/23/attentive-ui" target="_blank">https://radicalcompanies.com/2022/05/23/attentive-ui</a></li>
    </ul>
  </ul>
