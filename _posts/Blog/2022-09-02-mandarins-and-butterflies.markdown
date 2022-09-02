@@ -7,7 +7,7 @@ image:    "mandarin-and-butterfly-icon.svg"
 ---
 
 <div style="display:none;">
- <p>FIAT colonizes you in the most insidous ways. Sometimes, it doesn&rsquo;t let you eat a mandarin. It kills your buttefly by a thousand cuts.</p>
+ <p>FIAT colonizes your mind in the most insidous ways. Sometimes, it simply doesn&rsquo;t let you enjoy a mandarin. But you can make your own way, and you can fly.</p>
 </div>
 
 <h1></h1>
