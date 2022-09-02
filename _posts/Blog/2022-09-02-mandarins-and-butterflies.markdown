@@ -66,9 +66,9 @@ image:    "about-daos.svg"
     </ul>
   <li>rStartups,</li>
    <ul>
-    <li>rBuddyNeighbor: <a href="https://radicalcompanies.com/2022/05/20/rBuddyNeighbor" target="_blank">https://radicalcompanies.com/2022/05/20/rBuddyNeighbor</a></li>
-    <li>rNextBright: <a href="https://radicalcompanies.com/2022/05/22/rNextBright" target="_blank">https://radicalcompanies.com/2022/05/22/rNextBright</a></li>
-    <li>rHintersoft: <a href="https://radicalcompanies.com/2022/05/21/rHintersoft" target="_blank">https://radicalcompanies.com/2022/05/21/rHintersoft</a></li> 
+    <li>rBuddyNeighbor: <a href="https://radicalcompanies.com/2022/05/17/rBuddyNeighbor" target="_blank">https://radicalcompanies.com/2022/05/17/rBuddyNeighbor</a></li>
+    <li>rNextBright: <a href="https://radicalcompanies.com/2022/05/19/rNextBright" target="_blank">https://radicalcompanies.com/2022/05/19/rNextBright</a></li>
+    <li>rHintersoft: <a href="https://radicalcompanies.com/2022/05/18/rHintersoft" target="_blank">https://radicalcompanies.com/2022/05/18/rHintersoft</a></li> 
    </ul>
   <li>rProjects,</li>
    <ul>
