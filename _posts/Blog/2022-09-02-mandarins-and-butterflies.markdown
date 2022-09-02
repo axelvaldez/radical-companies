@@ -2,7 +2,7 @@
 layout:   post
 title:    "Madarins and Butterflies"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez"
+authors:  "Matt Perez, Chabeli Atahuaman"
 image:    "about-daos.svg"
 ---
 
