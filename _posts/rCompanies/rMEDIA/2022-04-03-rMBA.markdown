@@ -21,8 +21,9 @@ image:    "rmedia-icon.svg"
 <h1>ENDNOTES</h1>
  <ol style="font-size:smaller; ">
   <li id="en01">
-  Not the perfect name, but MBA is more accessible. For now.
-  <a href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a></li>
+   Not the perfect name, but MBA is more accessible. For now.
+   <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+  </li>
  </ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
