@@ -7,7 +7,7 @@ image:    "mandarins-and-butterfly-icon.svg"
 ---
 
 <div style="display:none;">
- <p>FIAT colonizes colonize your mind in the most insidous ways. Sometimes, it simply doesn&rsquo;t let you enjoy a mandarin. But you can make your own way, and you can fly.</p>
+ <p>The FIAT way colonizes your mind in the most insidous ways. Sometimes, it simply doesn&rsquo;t let you enjoy a mandarin. But you can make your own way, and you can fly.</p>
 </div>
 
 <h1></h1>
