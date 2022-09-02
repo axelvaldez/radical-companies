@@ -399,7 +399,10 @@ image:    "rmedia-icon.svg"
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 50 0 20 0; ">ENDNOTES</h1>
  <ol style="font-size:smaller; ">
-  <li id="en01"><a href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a> “Iconoclasts” would be the perfect name for this show, wouldn’t it? (Hey, <a href="https://www.youtube.com/watch?v=IdaHRoxNMZQ&feature=youtu.be&t=3">HBO/Grey Goose</a>, can we talk?) &lt;<a href="https://radicals.world/d8ykRz">https://radicals.world/d8ykRz</a>></li>
+  <li id="en01">
+   “Iconoclasts” would be the perfect name for this show, wouldn’t it? (Hey, <a href="https://www.youtube.com/watch?v=IdaHRoxNMZQ&feature=youtu.be&t=3">HBO/Grey Goose</a>, can we talk?) &lt;<a href="https://radicals.world/d8ykRz">https://radicals.world/d8ykRz</a>>
+   <a href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </li>
 </ol>
 
 <h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60px 0 20px 0; ">RELATED</h1>
