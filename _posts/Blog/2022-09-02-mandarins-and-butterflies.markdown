@@ -7,7 +7,7 @@ image:    "about-daos.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>FIAT colonizes you in the most insidous ways. Sometimes, it doesn't let you eat a mandarin. It kills your buttefly by a thousand cuts.</p>
 </div>
 
 <h1></h1>
