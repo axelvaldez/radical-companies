@@ -11,7 +11,8 @@ image:    "about-daos.svg"
 </div>
 
 <h1></h1>
- <p>I have just been gifted this beautful story. It details how little by little you end up making your own life smaller and restricted. How you internalize the <span class="_paradigm">FIAT</span> mindset and end up with a life interrupted, never letting yourself grow and mature. But you don&rsquo;t have to let belittle you and you can fly.</p>
+ <p>I have just been gifted this beautful story. It details how little by little you end up making your own life smaller and restricted. How you internalize the <span class="_paradigm">FIAT</span> mindset and end up with a life interrupted, never letting yourself grow and mature.</p>
+ <p>But you don&rsquo;t have to let belittle you and you can fly.</p>
 
 <div class="_quotation">
  <p>I just came to a realization and I am writing you to flush it out in my own head.</p>
