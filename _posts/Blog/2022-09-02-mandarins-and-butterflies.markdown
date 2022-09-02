@@ -23,7 +23,7 @@ image:    "about-daos.svg"
  <p>Coming to this has made me stronger. I am more sure of myself and the little voice in my head can&rsquo;t derail me because I now understand that money is a means, not an end.</p>
  <p>I went to the supermarket two days ago and guess what: I bought mandarins, even though they weren't on sale!</p>
  <p>I am making small changes, one step at a time, and I feel I am on my way to live my own life. It is a bit ironic that it was that easy to do, although so difficult to realize how toxic conventional [<span class="_paradigm">FIAT</span>] organizations are. Most ironic of all, I could not see how they affected me.</p>
- <p>My &ldquo;larva&rdquo;is on its way to become a butterfuly :)</p>
+ <p>My &ldquo;larva&rdquo; is on its way to become a butterfuly :)</p>
 </div>
 
 <h1 class="_section">RELATED</h1>
