@@ -111,27 +111,28 @@ hidden:   true
       <li> rReader: <a href="https://radicalcompanies.com/2022/04/01/rReader" target="_blank">https://radicalcompanies.com/2022/04/01/rReader</a></li>
       <li>  rShelf: <a href="https://radicalcompanies.com/2022/04/02/rShelf" target="_blank">https://radicalcompanies.com/2022/04/02/rShelf</a></li>
       <li>    rMBA: <a href="https://radicalcompanies.com/2022/04/03/rMBA" target="_blank">https://radicalcompanies.com/2022/04/03/rMBA</a></li>
-      <li>  rLIVE!: <a href="https://radicalcompanies.com/2022/04/04/rLive" target="_blank">https://radicalcompanies.com/2022/04/04/rLive</a></li>\
+      <li>  rLIVE!: <a href="https://radicalcompanies.com/2022/04/04/rLive" target="_blank">https://radicalcompanies.com/2022/04/04/rLive</a></li>
       <li>rCircuit: <a href="https://radicalcompanies.com/2022/04/05/rCircuit" target="_blank">https://radicalcompanies.com/2022/04/05/rCircuit</a></li>
       <li>rPlayGym: <a href="https://radicalcompanies.com/2022/04/06/rPlayGym" target="_blank">https://radicalcompanies.com/2022/04/06/rPlayGym</a></li>
       <li>  rMedia: <a href="https://radical-companies-repo/2022/04/06/rplaygym" target="_blank">https://radical-companies-repo/2022/04/06/rplaygym</a></li>
     </ul>
-   <li>rFiction,</li>
-    <ul>
-     <li>  First of Earth (11 episodes): <a href="https://radical-companies-repo/2022/03/01/E01-first-of-earth" target="_blank">https://radical-companies-repo/2022/03/01/E01-first-of-earth</a></li>
-     <li>The FIAT Enclaves (3 episodes): <a href="https://2022/03/11/E11/the-fiat-enclaves" target="_blank">https://2022/03/11/E11/the-fiat-enclaves</a></li>
-    </ul>
-   <li>rProjects,</li>
-    <ul>
-     <li>      rMake!: <a href="https://radicalcompanies.com/2022/05/20/rmake" target="_blank">https://radicalcompanies.com/2022/05/20/rmake</a></li>
-     <li>    rRemark!: <a href="https://radicalcompanies.com/2022/05/21/remark" target="_blank">https://radicalcompanies.com/2022/05/21/remark (API)</a></li>
-     <li>       RADs!: <a href="https://radicalcompanies.com/2022/05/22/rads!" target="_blank">https://radicalcompanies.com/2022/05/22/rads! (App)</a></li>
-     <li>Attentive UI: <a href="https://radicalcompanies.com/2022/05/23/attentive-ui" target="_blank">https://radicalcompanies.com/2022/05/23/attentive-ui</a></li>
-    </ul>
-   <li>rStartups,</li>
-    <ul>
-     <li>rBuddyNeighbor: <a href="https://radicalcompanies.com/2022/05/17/rBuddyNeighbor" target="_blank">https://radicalcompanies.com/2022/05/17/rBuddyNeighbor</a></li>
-     <li>   rHintersoft: <a href="https://radicalcompanies.com/2022/05/18/rHintersoft" target="_blank">https://radicalcompanies.com/2022/05/18/rHintersoft</a></li> 
-     <li>   rNextBright: <a href="https://radicalcompanies.com/2022/05/19/rNextBright" target="_blank">https://radicalcompanies.com/2022/05/19/rNextBright</a></li>
-    </ul>
-  </ul>
+   </ul>
+  <li>rFiction,</li>
+   <ul>
+    <li>  First of Earth (11 episodes): <a href="https://radical-companies-repo/2022/03/01/E01-first-of-earth" target="_blank">https://radical-companies-repo/2022/03/01/E01-first-of-earth</a></li>
+    <li>The FIAT Enclaves (3 episodes): <a href="https://2022/03/11/E11/the-fiat-enclaves" target="_blank">https://2022/03/11/E11/the-fiat-enclaves</a></li>
+   </ul>
+  <li>rProjects,</li>
+   <ul>
+    <li>      rMake!: <a href="https://radicalcompanies.com/2022/05/20/rmake" target="_blank">https://radicalcompanies.com/2022/05/20/rmake</a></li>
+    <li>    rRemark!: <a href="https://radicalcompanies.com/2022/05/21/remark" target="_blank">https://radicalcompanies.com/2022/05/21/remark (API)</a></li>
+    <li>       RADs!: <a href="https://radicalcompanies.com/2022/05/22/rads!" target="_blank">https://radicalcompanies.com/2022/05/22/rads! (App)</a></li>
+    <li>Attentive UI: <a href="https://radicalcompanies.com/2022/05/23/attentive-ui" target="_blank">https://radicalcompanies.com/2022/05/23/attentive-ui</a></li>
+   </ul>
+  <li>rStartups,</li>
+   <ul>
+    <li>rBuddyNeighbor: <a href="https://radicalcompanies.com/2022/05/17/rBuddyNeighbor" target="_blank">https://radicalcompanies.com/2022/05/17/rBuddyNeighbor</a></li>
+    <li>   rHintersoft: <a href="https://radicalcompanies.com/2022/05/18/rHintersoft" target="_blank">https://radicalcompanies.com/2022/05/18/rHintersoft</a></li> 
+    <li>   rNextBright: <a href="https://radicalcompanies.com/2022/05/19/rNextBright" target="_blank">https://radicalcompanies.com/2022/05/19/rNextBright</a></li>
+   </ul>
+ </ul>
