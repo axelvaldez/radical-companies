@@ -60,7 +60,7 @@ image:    "mandarins-and-butterfly-icon.svg"
       <li> rReader: <a href="https://radicalcompanies.com/2022/04/01/rReader" target="_blank">https://radicalcompanies.com/2022/04/01/rReader</a></li>
       <li>  rShelf: <a href="https://radicalcompanies.com/2022/04/02/rShelf" target="_blank">https://radicalcompanies.com/2022/04/02/rShelf</a></li>
       <li>    rMBA: <a href="https://radicalcompanies.com/2022/04/03/rMBA" target="_blank">https://radicalcompanies.com/2022/04/03/rMBA</a></li>
-      <li>  rLIVE!: <a href="https://radicalcompanies.com/2022/04/04/rLive" target="_blank">https://radicalcompanies.com/2022/04/04/rLive</a></li>\
+      <li>  rLIVE!: <a href="https://radicalcompanies.com/2022/04/04/rLive" target="_blank">https://radicalcompanies.com/2022/04/04/rLive</a></li>
       <li>rCircuit: <a href="https://radicalcompanies.com/2022/04/05/rCircuit" target="_blank">https://radicalcompanies.com/2022/04/05/rCircuit</a></li>
       <li>rPlayGym: <a href="https://radicalcompanies.com/2022/04/06/rPlayGym" target="_blank">https://radicalcompanies.com/2022/04/06/rPlayGym</a></li>
       <li>  rMedia: <a href="https://radical-companies-repo/2022/04/06/rplaygym" target="_blank">https://radical-companies-repo/2022/04/06/rplaygym</a></li>
