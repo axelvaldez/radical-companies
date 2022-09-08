@@ -72,12 +72,10 @@ image:    "about-daos.svg"
     <li><a>Spanish</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/https://radicalcompanies.com</a></li>
    </ul>
   <li>Blog posts,</li>
-   <ul>
-    <li>For the Impatient: <a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient</a></li>
-    <li>Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/04/radical-companies-faq" target="_blank">https://radicalcompanies.com/2022/05/04/radical-companies-faq</a></li>
-   </ul>
    <li>Missing Chapters,</li>
     <ul>
+     <li>For the Impatient: <a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient</a></li>
+     <li>Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/04/radical-companies-faq" target="_blank">https://radicalcompanies.com/2022/05/04/radical-companies-faq</a></li>
      <li>rCoin: <a href="https://radicalcompanies.com/2022/05/07/rcoin.html" target="_blank">https://radicalcompanies.com/2022/05/07/rcoin.html</a></li>
      <li>rLand: <a href="https://radicalcompanies.com/2022/05/06/rland.html" target="_blank">https://radicalcompanies.com/2022/05/06/rland.html</a></li>
      <li>rGov: <a href="https://radicalcompanies.com/2022/05/05/rgov.html" target="_blank">https://radicalcompanies.com/2022/05/05/rgov.html</a></li>
@@ -102,16 +100,20 @@ image:    "about-daos.svg"
        <li>rKare: <a href="https://radicalcompanies.com/2022/05/13/rKare" target="_blank">https://radicalcompanies.com/2022/05/13/rKare</a></li>
       </ul>
     </ul>
-  <li>rStartups,</li>
+  <li>rFiction,</li>
    <ul>
-    <li>rBuddyNeighbor: <a href="https://radicalcompanies.com/2022/05/17/rBuddyNeighbor" target="_blank">https://radicalcompanies.com/2022/05/17/rBuddyNeighbor</a></li>
-    <li>rNextBright: <a href="https://radicalcompanies.com/2022/05/19/rNextBright" target="_blank">https://radicalcompanies.com/2022/05/19/rNextBright</a></li>
-    <li>rHintersoft: <a href="https://radicalcompanies.com/2022/05/18/rHintersoft" target="_blank">https://radicalcompanies.com/2022/05/18/rHintersoft</a></li> 
-   </ul>
+    <li>First of Earth (11 episodes)<a href="" target="_blank"></a></li>
+    <li>The FIAT Enclaves (3 episodes)<a href="" target="_blank"></a></li>
   <li>rProjects,</li>
    <ul>
     <li>REMARK!: <a href="https://radicalcompanies.com/2022/05/21/remark" target="_blank">https://radicalcompanies.com/2022/05/21/remark (API)</a></li>
     <li>RADs!: <a href="https://radicalcompanies.com/2022/05/22/rads!" target="_blank">https://radicalcompanies.com/2022/05/22/rads! (App)</a></li>
     <li>Attentive UI: <a href="https://radicalcompanies.com/2022/05/23/attentive-ui" target="_blank">https://radicalcompanies.com/2022/05/23/attentive-ui</a></li>
+   </ul>
+  <li>rStartups,</li>
+   <ul>
+    <li>rBuddyNeighbor: <a href="https://radicalcompanies.com/2022/05/17/rBuddyNeighbor" target="_blank">https://radicalcompanies.com/2022/05/17/rBuddyNeighbor</a></li>
+    <li>rNextBright: <a href="https://radicalcompanies.com/2022/05/19/rNextBright" target="_blank">https://radicalcompanies.com/2022/05/19/rNextBright</a></li>
+    <li>rHintersoft: <a href="https://radicalcompanies.com/2022/05/18/rHintersoft" target="_blank">https://radicalcompanies.com/2022/05/18/rHintersoft</a></li> 
    </ul>
  </ul>
