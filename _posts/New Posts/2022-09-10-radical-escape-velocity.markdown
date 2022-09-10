@@ -111,25 +111,25 @@ image:    "radical-escape-velocity.svg"
    <tr>
     <th>
      <p style="text-align: right">co-management</p>
-   </th>
-   <td>
-    <p>Self-management makes sense as it applies to individuals who can take care of themselves. But in the case of a business, there is no “self” which can manage itself.</p>
-    <p>People who embody the company, <em>manage it collaboratively</em>.</p>
-   </td>
-  </tr>
-  <tr>
-   <th>
-    <p style="text-align: right">co-ownership</p>
-   </th>
-   <td>
-    <p>People who embody a company are co-owners of it and can earn a <em>dynamic</em> piece of the value they have created together.</p>
-    <p>Note that co-ownership, as we define it, doesn’t depend on a <em>static</em> number of <em>shares</em>, whose financial value comes from trading them and not from the value that people may or may not create.</p>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2"+">&nbsp;</td>
-  </tr>
- </table>
+    </th>
+    <td>
+     <p>Self-management makes sense as it applies to individuals who can take care of themselves. But in the case of a business, there is no “self” which can manage itself.</p>
+     <p>People who embody the company, <em>manage it collaboratively</em>.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>
+     <p style="text-align: right">co-ownership</p>
+    </th>
+    <td>
+     <p>People who embody a company are co-owners of it and can earn a <em>dynamic</em> piece of the value they have created together.</p>
+     <p>Note that co-ownership, as we define it, doesn’t depend on a <em>static</em> number of <em>shares</em>, whose financial value comes from trading them and not from the value that people may or may not create.</p>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2">&nbsp;</td>
+   </tr>
+  </table>
 
 <h1>RADICAL Tools</h1>
  <h2>RADs! App</h2>
