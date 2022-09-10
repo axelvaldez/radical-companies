@@ -15,7 +15,7 @@ image:    "radical-escape-velocity.svg"
   <img
    src="/assets/img/escape-velocity.svg"
    width="70%"
-   alt="">
+   alt="RADICAL Escape Velocity">
  </div>
  <p>We are not the first to come up with the model the book   described in the book<em>RADICAL COMPANIES</em>.<sup id="bm01"><a href="#en01">1&nbsp;</a></sup> You find instances of communities and businesses everywhere in the world and at different times in history. However, the model has never taken off; it has never reached escape velocity.</p>
 
