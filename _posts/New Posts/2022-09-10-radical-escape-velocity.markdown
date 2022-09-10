@@ -13,7 +13,7 @@ image:    "radical-escape-velocity.svg"
 <h1>Intro</h1>
  <div style="float;right; ">
   <img
-   src="/assets/img/escape-velocity.svg"
+   src="/assets/img/escradical-esacpe-velocity.svg"
    width="70%"
    alt="RADICAL Escape Velocity">
  </div>
