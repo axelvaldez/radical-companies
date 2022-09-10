@@ -48,31 +48,31 @@ image:    "radical-escape-velocity.svg"
   <tr>
    <th>
     <p style="text-align: right">RADICAL Foundation</p>
-  </th>
-  <td>
-   The foundation is made up of <em>principles</em>, <em>commitments</em>, and <em>practices</em>.
-  </td>
- </tr>
- <tr>
-  <td>
-   <p style="text-align: right">RADICAL Language</p>
-  </th>
-  <td>
-   The model is based on <em>co-management</em> and <em>co-ownership</em>.
-  </td>
- </tr>
- <tr>
-  <th>
-   <p style="text-align: right">RADICAL Tools</p>
-  </th>
-  <td>
-   <ul>
-    <li>The RADs! mobile app supports RADs DISTRIBUTIONs, the key tool of co-ownership.</li>
-    <li>The <em>Trust Agreement</em>  helps people come together and build trust from the start.</li>
-   </ul>
-  </td>
- </tr>
-</table>
+   </th>
+   <td>
+    The foundation is made up of <em>principles</em>, <em>commitments</em>, and <em>practices</em>.
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p style="text-align: right">RADICAL Language</p>
+   </th>
+   <td>
+    The model is based on <em>co-management</em> and <em>co-ownership</em>.
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p style="text-align: right">RADICAL Tools</p>
+   </th>
+   <td>
+    <ul>
+     <li>The RADs! mobile app supports RADs DISTRIBUTIONs, the key tool of co-ownership.</li>
+     <li>The <em>Trust Agreement</em>  helps people come together and build trust from the start.</li>
+    </ul>
+   </td>
+  </tr>
+ </table>
 
 <h1>RADICAL FOUNDATION</h1>
  <table align="center">
