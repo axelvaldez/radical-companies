@@ -10,8 +10,6 @@ image:    "radical-escape-velocity.svg"
  <p></p>
 </div>
 
-<p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
-
 <div style="text-align:center; ">
  <img
   src="/assets/img/radical-escape-velocity.svg"
@@ -19,21 +17,8 @@ image:    "radical-escape-velocity.svg"
   alt="">
 </div>
 
-<h1 class="_section">ENDNOTES</h1>
- <ol>
-  <li id="en01">
-   <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ol>
-
 <h1>Intro</h1>
- <p>We are not the first to come up with the model the book   described in the book<em>RADICAL COMPANIES</em>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> You find instances of communities and businesses everywhere in the world and at different times in history. However, the model has never taken off; it has never reached escape velocity.</p>
+ <p>We are not the first to come up with the model the book   described in the book<em>RADICAL COMPANIES</em>.<sup id="bm01"><a href="#en01">1&nbsp;</a></sup> You find instances of communities and businesses everywhere in the world and at different times in history. However, the model has never taken off; it has never reached escape velocity.</p>
 
 <h1>Precursors</h1>
  <p>RADICAL-like groups have been around for a while: one comes up, others copy him, and they pick up some momentum, <em>but never enough</em>. The reasons range from the visionary leader passing away, dogma setting in, or the group being taken over by barbarians.</p>
@@ -43,9 +28,9 @@ image:    "radical-escape-velocity.svg"
  <p>Then, how  that leads some people to act like barbariansdid this system get started? And, why has it been so robust, so long-lasting?</p>
 
 <h1>Money Did It</h1>
- <p>In <em>Debt: The First 5,000 Years</em><sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> author David Graeber proposes that the development of coinage sparked the system we live in today. Author Paul Mason agrees,</p>
+ <p>In <em>Debt: The First 5,000 Years</em><sup id="bm02"><a href="#en02">2&nbsp;</a></sup> author David Graeber proposes that the development of coinage sparked the system we live in today. Author Paul Mason agrees,</p>
 <div class="_quotation">
- <p>Graeber says what emerged after 800 BCE was a ‘military-coinage-slave complex’, which forms the common basis for very different&hellip; city states across China, India, and ancient Greece.<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
+ <p>Graeber says what emerged after 800 BCE was a ‘military-coinage-slave complex’, which forms the common basis for very different&hellip; city states across China, India, and ancient Greece.<sup id="bm03"><a href="#en03">3&nbsp;</a></sup></p>
  <p>All of them, “China, India, and ancient Greece,” are remarkably long-lasting States.</p>
 
 <h1>From Social Debt to Taxes</h1>
@@ -164,14 +149,14 @@ image:    "radical-escape-velocity.svg"
   </ul>
  <h2>Trust Agreement</h2>
   <p><em>Trust Agreements</em> help people come together  and build trust from the start.</p>
-  <p>Inspired by J Kim Wright’s <em>Conscious Contracts<sup>®</sup></em> framework,<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup> a <em>Trust Agreement</em> is a simple set of topics that would-be co-owners discuss. Then, when they agree to come together as a community (see <a href="#appendix">Appendix</a>), they create a <em>Trust Agreement</em> from their discussion notes.</p>
+  <p>Inspired by J Kim Wright’s <em>Conscious Contracts<sup>®</sup></em> framework,<sup id="bm04"><a href="#en04">4&nbsp;</a></sup> a <em>Trust Agreement</em> is a simple set of topics that would-be co-owners discuss. Then, when they agree to come together as a community (see <a href="#appendix">Appendix</a>), they create a <em>Trust Agreement</em> from their discussion notes.</p>
   <p>There are still lots of things to work out (<em>e.g.</em>, how to scale it), but so far we’ve gotten good feedback, including this: “some organizations never build up trust among people, even after years of operation.”</p>
 
 <h1>Reaching Escape Velocity</h1>
  <p>Simple Foundation, Language, and Tools, I believe, is what we need for the RADICAL model to reach escape velocity.</p>
  <p>Many experiments will shape what this RADICAL thing will turn into. The people making it happen will develop the skills to collaborate with others, create value for their communities, and will enjoy direct, tangible benefits from this. Just as key, people will recognize each other, and collaborate on their journey towards a healthy future.</p>
 
-<h1 id="_appendix">APPENDIX</h1>
+<h1  class="_section"id="_appendix">APPENDIX</h1>
 
 <h1>About Communities</h1>
  <p>A community could be,</p>
@@ -189,25 +174,25 @@ image:    "radical-escape-velocity.svg"
    <em>RADICAL COMPANIES: Without Boss or Employees.</em>
    2021.
    <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>
-   <a href="#fnref1" rev="footnote">&#8617;</a>
+   <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
   <li id="en02">
   	David Graeber.
    <em>Debt: The First 5,000 Years.</em>
    <<a href="https://radicals.world/MUUUcg">https://radicals.world/MUUUcg</a>>
-   <a href="#fnref2" rev="footnote">&#8617;</a>
+   <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
-  <li id="eno3">
+  <li id="en03">
    Paul Mason.
    <em>Clear Bright Future: A Radical Defence of the Human Being</em>
    <<a href="https://a.co/5uoB2P8">https://a.co/5uoB2P8</a>>
-   <a href="#fnref3" rev="footnote">&#8617;</a>
+   <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
-  <li id="fn4">
+  <li id="en04">
    J Kim Wright.
    <em>Conscious Controls<sup>&reg;</sup></em>.
    <<a href="https://radicals.world/U2nQNc">https://radicals.world/U2nQNc</a>>
-   <a href="#fnref4" rev="footnote">&#8617;</a>
+   <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
  </ol>
 </div>
