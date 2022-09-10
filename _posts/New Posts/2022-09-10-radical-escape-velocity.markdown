@@ -3,7 +3,7 @@ layout:   post
 title:    "RADICAL Escape Velocity"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
-image:    "radical-escape-velocity.svg"
+image:    "radical-escape-velocity-icon.svg"
 ---
 
 <div style="display:none;">
