@@ -189,7 +189,6 @@ image:    "radical-escape-velocity.svg"
    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
  </ol>
-</div>
 
 <h1 class="_section">RELATED</h1>
  <ul>
