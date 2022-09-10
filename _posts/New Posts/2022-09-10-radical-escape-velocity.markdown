@@ -7,14 +7,7 @@ image:    "radical-escape-velocity.svg"
 ---
 
 <div style="display:none;">
- <p></p>
-</div>
-
-<div style="text-align:center; ">
- <img
-  src="/assets/img/radical-escape-velocity.svg"
-  width="70%"
-  alt="">
+ You find instances of communities and businesses everywhere in the world and at different times in history. However, the model has never taken off; it has never reached escape velocity.
 </div>
 
 <h1>Intro</h1>
@@ -32,6 +25,7 @@ image:    "radical-escape-velocity.svg"
 <div class="_quotation">
  <p>Graeber says what emerged after 800 BCE was a ‘military-coinage-slave complex’, which forms the common basis for very different&hellip; city states across China, India, and ancient Greece.<sup id="bm03"><a href="#en03">3&nbsp;</a></sup></p>
  <p>All of them, “China, India, and ancient Greece,” are remarkably long-lasting States.</p>
+</div>
 
 <h1>From Social Debt to Taxes</h1>
  <p>Before the arrival of coinage, debt was a social thing, based on reciprocity. Then coins arrived, quantified debt, which gave rise to taxes, and, finally, the State was born.</p>
