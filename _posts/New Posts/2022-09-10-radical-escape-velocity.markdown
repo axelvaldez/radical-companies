@@ -32,7 +32,7 @@ image:    "radical-escape-velocity-icon.svg"
 <h1>From Social Debt to Taxes</h1>
  <p>Before the arrival of coinage, debt was a social thing, based on reciprocity. Then coins arrived, quantified debt, which gave rise to taxes, and, finally, the State was born.</p>
  <p>This happened, first by force and then by habit. A few barbarians in a group declared that they were <em>owed</em> everybody&rsquo;s surplus value, or else. Over time, <em>barbarians</em> transformed into <em>defenders</em> and people <em>just paid</em> their debt to them as taxes.</p>
- <p>Tax, then, is a form of debt that can be paid with State coins.</p>
+ <p>Tax, then, is a form of debt that can be paid with State coinage.</p>
 
 <h1>Ideology</h1>
  <p>Ideology makes this tax-paying habit, paying this imaginary debt, easier to live with. &ldquo;The defenders keep me alive,&rdquo; ideology says, &ldquo;they are good and necessary.&rdquo; Eventually, this gets codified as, &ldquo;our King keeps us alive.&rdquo;</p>
