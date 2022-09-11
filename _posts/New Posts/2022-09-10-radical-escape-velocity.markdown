@@ -76,7 +76,7 @@ image:    "radical-escape-velocity-icon.svg"
   </tr>
  </table>
 
-<h1><span class="_paradigm">RADICAL</span> FOUNDATION</h1>
+<h1>RADICAL FOUNDATION</h1>
  <table align="center">
   <tr>
    <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
@@ -107,7 +107,7 @@ image:    "radical-escape-velocity-icon.svg"
   </tr>
  </table>
 
-<h1><span class="_paradigm">RADICAL</span> Language</h1>
+<h1>RADICAL Language</h1>
   <p>In the model we use two terms: co-management and co-ownership. These are not new, but they take up new meanings in the <span class="_paradigm">RADICAL</span> model.</p>
   <table>
    <tr>
@@ -133,7 +133,7 @@ image:    "radical-escape-velocity-icon.svg"
    </tr>
   </table>
 
-<h1><span class="_paradigm">RADICAL</span> Tools</h1>
+<h1>RADICAL Tools</h1>
  <h2>RADs! App</h2>
   <p>We are about (ca. Sep 2020) to launch a mobile app called RADs! that supports RAD DISTRIBUTIONs.</p>
   <ul>
