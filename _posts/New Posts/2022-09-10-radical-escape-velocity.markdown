@@ -24,10 +24,10 @@ image:    "radical-escape-velocity-icon.svg"
 
 <h1>Money Did It</h1>
  <p>In <em>Debt: The First 5,000 Years</em><sup id="bm02"><a href="#en02">2&nbsp;</a></sup> author David Graeber proposes that the development of coinage sparked the system we live in today. Author Paul Mason agrees,</p>
-<div class="_quotation">
- <p>Graeber says what emerged after 800 BCE was a ‘military-coinage-slave complex&rsquo;, which forms the common basis for very different&hellip; city states across China, India, and ancient Greece.<sup id="bm03"><a href="#en03">3&nbsp;</a></sup></p>
+ <div class="_quotation">
+  <p>Graeber says what emerged after 800 BCE was a ‘military-coinage-slave complex&rsquo;, which forms the common basis for very different&hellip; city states across China, India, and ancient Greece.<sup id="bm03"><a href="#en03">3&nbsp;</a></sup></p>
+ </div>
  <p>All of them, &ldquo;China, India, and ancient Greece,&rdquo; are remarkably long-lasting States.</p>
-</div>
 
 <h1>From Social Debt to Taxes</h1>
  <p>Before the arrival of coinage, debt was a social thing, based on reciprocity. Then coins arrived, quantified debt, which gave rise to taxes, and, finally, the State was born.</p>
