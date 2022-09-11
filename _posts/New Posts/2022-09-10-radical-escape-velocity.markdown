@@ -76,8 +76,8 @@ image:    "radical-escape-velocity-icon.svg"
   </tr>
  </table>
 
-<h1>RADICAL FOUNDATION</h1>
- <p>&nbsp;</p>
+<h1>RADICAL Foundation</h1>
+ <p>The Foundation is simple and easy to remember,</p>
  <table align="center">
   <tr>
    <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
