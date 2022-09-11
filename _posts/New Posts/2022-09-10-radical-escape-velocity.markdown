@@ -152,7 +152,7 @@ image:    "radical-escape-velocity-icon.svg"
  <p>Simple Foundation, Language, and Tools, I believe, is what we need for the <span class="_paradigm">RADICAL</span> model to reach escape velocity.</p>
  <p>Many experiments will shape what this <span class="_paradigm">RADICAL</span> thing will turn into. The people making it happen will develop the skills to collaborate with others, create value for their communities, and will enjoy direct, tangible benefits from this. Just as key, people will recognize each other, and collaborate on their journey towards a healthy future.</p>
 
-<h1 class="_section" id="_appendix">APPENDIX</h1>
+<h1 class="_section" id="appendix">APPENDIX</h1>
 
 <h1>About Communities</h1>
  <p>A community could be,</p>
