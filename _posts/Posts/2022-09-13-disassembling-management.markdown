@@ -2,8 +2,8 @@
 layout:   post
 title:    "TEMPLATE"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez"
-image:    "about-daos.svg"
+authors:  "Matt Perez, Adrian Perez"
+image:    "disassembling-icon.svg"
 ---
 
 <div style="display:none;">
