@@ -3,7 +3,7 @@ layout:   post
 title:    "The Many Benefits of Being the Boss"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
-image:    "about-daos.svg"
+image:    "top-boss-top-dog.svg"
 ---
 
 <div style="display:none;">
