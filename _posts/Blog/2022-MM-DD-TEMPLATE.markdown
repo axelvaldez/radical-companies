@@ -47,7 +47,7 @@ image:    "about-daos.svg"
    <td valign="top"><em>collaboration</em></td>
   </tr>
   <tr>
-   <td style="height: 7px;"></td>
+   <td class="_spacer_">&nbsp;</td>
   </tr>
  </table>
 
