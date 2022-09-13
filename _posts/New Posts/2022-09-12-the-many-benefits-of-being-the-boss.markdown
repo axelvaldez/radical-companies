@@ -1,0 +1,109 @@
+---
+layout:   post
+title:    "The Many Benefits of Being the Boss"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez, Adrian Perez"
+image:    "about-daos.svg"
+---
+
+<div style="display:none;">
+ <p>When you are broke-but-with-a-great-idea, the main benefit is developing that idea, thinking of its many potentials and telling people about it. You have the freedom to rift on it at the speed of thinking.</p>
+</div>
+
+<h1>FREEDOM!</h1>
+ <p>When you are broke-but-with-a-great-idea, the main benefit is developing that idea, thinking of its many potentials and telling people about it. You have the freedom to rift on it at the speed of thinking.</p>
+ <p>As your idea meets the reality of implementation, the main benefit is the satisfaction of solving the problems that keep coming at you and your team. Lots of bonding, too, with your team, including your early investors and early-adopter customer. You can see how your new world is coming together.</p>
+ <p>You are “the CEO,”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> the leader, the boss of an incredible team, with a great, disruptive idea, and an MVP that is so awesome that “it will be really easy to make it into a full fledged, world-class product.”</p>
+ <p>Finally, you get the capital infusion that you needed to expand. You have a Board now to help you turn this new world you've created into a money-making machine. Screw Zuckerberg, this is going to be bigger and do good in the world.</p>
+
+<h1>My Friend, the Author</h1>
+ <p>All along, your friend has been telling you about a different way of running the business. It kind of makes sense, but you can't take that kind of risk now. It sounds a bit too idealistic. Maybe later.</p>
+ <p>You even bought her book and started listening to it, but “I'd better get going  to the Board meeting… .”</p>
+ <p>Now that you have the capital and an awesome product is on its way, you take the weekend off. Really. You sit down with your friend and tell  her that “I read your book, but I don't think it's something that we can do now. My Board would  not react well to it, and, honestly, it won't reflect well on me, either, to bring it up at this point. But once the business is more established, we can revisit it.”</p>
+
+<h1>The Rubber Hits the Yellow Brick Road</h1>
+ <p>After all, you're a new CEO and have to build your reputation and you can't afford to be seen as less a winner. And, at this point, it's all about making it big for those investors who took a chance on you and you crazy idea. And, yes, your awesome team, too.</p>
+ <p>But now is all about growing beyond out initial market. The Board thinks we can do much, much better and turn what we have into a huge franchise. “Really, you should start to look into the possibly of an IPO—at.worst, it will make the business more attractive for a big acquisition.”</p>
+ <p>There is so much more to do, but now they want me to hire “people with credentials and the chops to make it happen,” whatever that means. You've talked to a couple of cendidates and found out that they want more shares and a bigger salary than anybody  in your team. And the Board keeps sending their “awesome friends.”</p>
+
+<h1>And the Gloves Come Off</h1>
+ <p>The Board meetings are getting to be a royal pain. They keep bringing up stuff that had to come from their “friends.” it is kind of true, but it's all twisted. And they bring this crap just as the meeting is ending and therenis no time to straighten things out before they “have to run” to their next meeting.</p>
+ <p>On top of that, your team is not reacting well to the new executive team. They don't like all the “reporting” meetings that turn into “do as I say” meetings.</p>
+ <p>Actually, you feel awful. But, “there's all that money to be made.”</p>
+
+<h1>For Personal Reasons</h1>
+ <p>One of your oldest Board member pulls you aside and tells you to not even attend the next Board meeting. “You are out and the COO is going to be our interim CEO–but, don't worry, you'll keep your shares.”</p>
+ <p>You are out “for personal reasons.” You are conflicted and feeling worse than awful and you can't face your team.</p>
+ <p>You get news that the business is going to be acquired “but a low price.” So low,in fact, that “the Board made a unanimous decision to dilute  non-active employees and common shareholders to 25% of their holdings.” Not such a big pay off after all for you or your team.</p>
+ <p>You start to come out of your depression and go out in the lake for a last boat ride. Amazing how calmimg the water is.</p>
+ <p>Your phone rings, and you pick up a call from your Board friend. You chat for a bit and tell him what you have gone through, “Well, at least, now you have credentials and, in fact, I'd like to introduce you to a business I just invested in. Youl'll be an awesome COO for them.”</p>
+ <p>As you sit thee, in the middle of the lake, your phone rings again and you pick up a call from your author friend. Among other things, she tells you about his new book, “this one is about our experience implementing all those ideas we spoke about. It truly is more awesome that we had speculated. It is amazing the things we have done with little capitalization just by decentralizing all decision-making and recognizing people’s contributions. I am so happy. You should come.and stay with us…”</p>
+ <p>She had taken home more than you got from the acquisition. In fact, the whole team of co-owners had taken home about three times the revenue his company was bringing in. And they had paid back the capital they had borrowed plus a substantial gain. I made her repeat twice that the investor hadn't gotten any shares in the company. Come to think of it, it didn't sound like the company had issued shares at all. And it sounded like they were just getting started.</p>
+ <p>As you paddle towards the shore you know that you're going to pass on the COO offer and this time you are really going to read her book.</p>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ol>
+  <li id="fn1">
+   <p>URL to Adrian’s post.</p>
+  </li>
+ </ol>
+
+<h1 class="_section">RELATED</h1>
+ <ul>
+  <li>RADICAL COMPANIES,</li>
+   <ul>
+    <li><a>English</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/https://radicalcompanies.com</a></li>
+    <li><a>Spanish</a>: <a href="https://radicalcompanies.com" target="_blank">&hellip;/https://radicalcompanies.com</a></li>
+   </ul>
+  <li>Blog</li>
+   <ul>
+    <li>Missing Chapters,</li>
+     <ul>
+      <li>For the Impatient: <a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient</a></li>
+      <li>Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/04/radical-companies-faq" target="_blank">https://radicalcompanies.com/2022/05/04/radical-companies-faq</a></li>
+      <li>rCoin: <a href="https://radicalcompanies.com/2022/05/07/rcoin.html" target="_blank">https://radicalcompanies.com/2022/05/07/rcoin.html</a></li>
+      <li>rLand: <a href="https://radicalcompanies.com/2022/05/06/rland.html" target="_blank">https://radicalcompanies.com/2022/05/06/rland.html</a></li>
+      <li>rGov: <a href="https://radicalcompanies.com/2022/05/05/rgov.html" target="_blank">https://radicalcompanies.com/2022/05/05/rgov.html</a></li>
+     </ul>
+    <li>New Posts <a href="https://radicalcompanies.com/2022/05/08/the-weakness-of-progressive-organizations" target="_blank">https://radicalcompanies.com/2022/05/08/the-weakness-of-progressive-organizations</a></li>
+   </ul>
+  <li>rCompanies</li>
+   <ul>
+    <li>rEnsembles,</li>
+     <ul>
+      <li> rStayHome: <a href="https://radicalcompanies.com/2022/05/12/rStayHome" target="_blank">https://radicalcompanies.com/2022/05/12/rStayHome</a></li>
+      <li>     rKare: <a href="https://radicalcompanies.com/2022/05/13/rKare" target="_blank">https://radicalcompanies.com/2022/05/13/rKare</a></li>
+      <li>    rClean: <a href="https://radicalcompanies.com/2022/05/14/rClean" target="_blank">https://radicalcompanies.com/2022/05/14/rClean</a></li>
+      <li>     rCORE: <a href="https://radicalcompanies.com/2022/05/15/rCORE" target="_blank">https://radicalcompanies.com/2022/05/15/rCORE</a></li>
+      <li>rHatchery: <a href="https://radicalcompanies.com/2022/05/16/rHatchery" target="_blank">https://radicalcompanies.com/2022/05/16/rHatchery</a></li>
+     </ul>
+    <li>rMEDIA,</li>
+     <ul>
+      <li> rReader: <a href="https://radicalcompanies.com/2022/04/01/rReader" target="_blank">https://radicalcompanies.com/2022/04/01/rReader</a></li>
+      <li>  rShelf: <a href="https://radicalcompanies.com/2022/04/02/rShelf" target="_blank">https://radicalcompanies.com/2022/04/02/rShelf</a></li>
+      <li>    rMBA: <a href="https://radicalcompanies.com/2022/04/03/rMBA" target="_blank">https://radicalcompanies.com/2022/04/03/rMBA</a></li>
+      <li>  rLIVE!: <a href="https://radicalcompanies.com/2022/04/04/rLive" target="_blank">https://radicalcompanies.com/2022/04/04/rLive</a></li>
+      <li>rCircuit: <a href="https://radicalcompanies.com/2022/04/05/rCircuit" target="_blank">https://radicalcompanies.com/2022/04/05/rCircuit</a></li>
+      <li>rPlayGym: <a href="https://radicalcompanies.com/2022/04/06/rPlayGym" target="_blank">https://radicalcompanies.com/2022/04/06/rPlayGym</a></li>
+      <li>  rMedia: <a href="https://radical-companies-repo/2022/04/06/rplaygym" target="_blank">https://radical-companies-repo/2022/04/06/rplaygym</a></li>
+    </ul>
+   </ul>
+  <li>rFiction,</li>
+   <ul>
+    <li>  First of Earth (11 episodes): <a href="https://radical-companies-repo/2022/03/01/E01-first-of-earth" target="_blank">https://radical-companies-repo/2022/03/01/E01-first-of-earth</a></li>
+    <li>The FIAT Enclaves (3 episodes): <a href="https://2022/03/11/E11/the-fiat-enclaves" target="_blank">https://2022/03/11/E11/the-fiat-enclaves</a></li>
+   </ul>
+  <li>rProjects,</li>
+   <ul>
+    <li>      rMake!: <a href="https://radicalcompanies.com/2022/05/20/rmake" target="_blank">https://radicalcompanies.com/2022/05/20/rmake</a></li>
+    <li>    rRemark!: <a href="https://radicalcompanies.com/2022/05/21/remark" target="_blank">https://radicalcompanies.com/2022/05/21/remark (API)</a></li>
+    <li>       RADs!: <a href="https://radicalcompanies.com/2022/05/22/rads!" target="_blank">https://radicalcompanies.com/2022/05/22/rads! (App)</a></li>
+    <li>Attentive UI: <a href="https://radicalcompanies.com/2022/05/23/attentive-ui" target="_blank">https://radicalcompanies.com/2022/05/23/attentive-ui</a></li>
+   </ul>
+  <li>rStartups,</li>
+   <ul>
+    <li>rBuddyNeighbor: <a href="https://radicalcompanies.com/2022/05/17/rBuddyNeighbor" target="_blank">https://radicalcompanies.com/2022/05/17/rBuddyNeighbor</a></li>
+    <li>   rHintersoft: <a href="https://radicalcompanies.com/2022/05/18/rHintersoft" target="_blank">https://radicalcompanies.com/2022/05/18/rHintersoft</a></li> 
+    <li>   rNextBright: <a href="https://radicalcompanies.com/2022/05/19/rNextBright" target="_blank">https://radicalcompanies.com/2022/05/19/rNextBright</a></li>
+   </ul>
+ </ul>
