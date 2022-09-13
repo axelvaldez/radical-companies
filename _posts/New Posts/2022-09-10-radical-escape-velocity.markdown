@@ -104,7 +104,7 @@ image:    "radical-escape-velocity-icon.svg"
    <td valign="top"><em>collaboration</em></td>
   </tr>
   <tr>
-   <td class="_spacer_"></td>
+   <td class="_spacer_">&nbsp;</td>
   </tr>
  </table>
 
