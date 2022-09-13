@@ -2,7 +2,7 @@
 layout:   post
 title:    "Disassembling Investments"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez"
+authors:  "Matt Perez, Adrian Perez"
 image:    "disassembling-icon.svg"
 ---
 
