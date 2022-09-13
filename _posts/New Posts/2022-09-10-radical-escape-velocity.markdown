@@ -150,7 +150,7 @@ image:    "radical-escape-velocity-icon.svg"
   <p>There are still lots of things to work out (<em>e.g.</em>, how to scale it), but so far we&rsquo;ve gotten good feedback, including this: &ldquo;some organizations never build up trust among people, even after years of operation.&rdquo;</p>
 
 <h1>Reaching Escape Velocity</h1>
- <p>Simple Foundation, Language, and Tools, I believe, is what we need for the <span class="_paradigm">RADICAL</span> model to reach escape velocity.</p>
+ <p>Simple Foundation, Language, and Tools, I believe, is what we need for the <span class="_paradigm">RADICAL</span> model to build momentum and reach escape velocity.</p>
  <p>Many experiments will shape what this <span class="_paradigm">RADICAL</span> thing will turn into. The people making it happen will develop the skills to collaborate with others, create value for their communities, and will enjoy direct, tangible benefits from this. Just as key, people will recognize each other, and collaborate on their journey towards a healthy future.</p>
 
 <h1 class="_section">APPENDIX</h1>
