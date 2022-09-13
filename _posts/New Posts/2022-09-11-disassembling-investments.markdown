@@ -3,7 +3,7 @@ layout:   post
 title:    "Disassembling Investments"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "about-daos.svg"
+image:    "disassembling-icon.svg"
 ---
 
 <div style="display:none;">
