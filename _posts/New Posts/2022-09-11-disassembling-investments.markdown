@@ -7,7 +7,7 @@ image:    "about-daos.svg"
 ---
 
 <div style="display:none;">
- <p>This, too, shall pass, but for now, you need <em>capital</em>. How else are you going to get your business started? How are you going to hire the people who are going to build your software?</p>
+ <p>You need <em>capital</em>. How else are you going to get your business started? How are you going to hire the people who are going to build your software?</p>
 </div>
 
 <h1>&nbsp;</h1>
