@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "TEMPLATE"
+title:    "Disassembling Management"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
 image:    "disassembling-icon.svg"
