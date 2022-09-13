@@ -141,7 +141,7 @@ image:    "radical-escape-velocity-icon.svg"
    <li>Co-owners use the RADs! app to <em>recognize contributions</em>.</li>
    <li>Anybody can start a company or any other type of community by simply inviting  people to the RADs! app.</li>
    <li>From the recognized contributions, it calculates the number of RADs given and received by each co-owner.</li>
-   <li>The amount of RADs each person has earned determines their share of ownership (<em>i.e.</em>, the value created by all co-owners).
+   <li>The amount of RADs each person has earned determines their share of ownership (<em>i.e.</em>, the value created by all co-owners).</li>
    <li>The whole thing is transparent. Everybody can see who is given RADs to whom, how many RADs each co-owner has, etc. Among other benefits, this lets anybody raise a red flag when they see a problem.</li>
   </ul>
  <h2>Trust Agreement</h2>
