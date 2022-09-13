@@ -7,12 +7,12 @@ image:    "disassembling-icon.svg"
 ---
 
 <div style="display:none;">
- <p>You need <em>capital</em>. How else are you going to get your business started? How are you going to hire the people who are going to build your software?</p>
+ <p>You need <em>capital</em>. How else are you going to get your business starte and hire the people who are going to build your software?</p>
 </div>
 
 <h1>&nbsp;</h1>
  <p>This, too, shall pass, but for now, you need <em>capital</em>.</p>
- <p>How else are you going to get your business started? How are you going to hire the people who are going to build your software?</p>
+ <p>How else are you going to get your business started? How else are you going to hire the people who are going to build your software?</p>
  <p>At least, you don't have to pay for big offices at this point of the COVID-19 pandemic, but you still need a budget for socializing spaces—that is very important to the health of the business, right?</p>
  <p>So, yes, you need capital. But what does that even mean? You know little to nothing about. You need to learn more about it and what it entails.</p>
 
