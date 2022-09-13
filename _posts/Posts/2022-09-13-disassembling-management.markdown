@@ -32,7 +32,7 @@ image:    "disassembling-icon.svg"
    </ul>
   <li>Blog</li>
    <ul>
-    <li>New Posts <a href="https://radicalcompanies.com/2022/05/08/the-weakness-of-progressive-organizations" target="_blank">https://radicalcompanies.com/2022/05/08/the-weakness-of-progressive-organizations</a></li>
+    <li>Posts <a href="https://radicalcompanies.com/blog/" target="_blank">https://radicalcompanies.com/blog/</a></li>
    </ul>
    <li>Missing Chapters,</li>
     <ul>
