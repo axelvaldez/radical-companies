@@ -162,8 +162,8 @@ image:    "radical-escape-velocity-icon.svg"
   <li>A group of people working together, with no legal structure (<em>e.g.</em>, a RADs! app community).</li>
   <li>Temporary or permanent.</li>
  </ul>
- <p>One more thing: a community&rsquo;s boundary is porous, made up and changed by the people who embody the community as they come in and out of it easily.</p>
- <a class="_uparrow" href="#_aboutCommunity"><img src="/assets/img/arrow-up-icon.png"></a>
+ <p>One more thing: a community&rsquo;s boundary is porous, made up and changed by the people who embody the community as they come in and out of it easily.
+ <a class="_uparrow" href="#_aboutCommunity"><img src="/assets/img/arrow-up-icon.png"></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
