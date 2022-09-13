@@ -47,6 +47,12 @@ image:    "disassembling-icon.svg"
      <li>     rCORE: <a href="https://radicalcompanies.com/2022/05/15/rCORE" target="_blank">https://radicalcompanies.com/2022/05/15/rCORE</a></li>
      <li>rHatchery: <a href="https://radicalcompanies.com/2022/05/16/rHatchery" target="_blank">https://radicalcompanies.com/2022/05/16/rHatchery</a></li>
     </ul>
+   <li>rStartups,</li>
+    <ul>
+     <li>rBuddyNeighbor: <a href="https://radicalcompanies.com/2022/05/17/rBuddyNeighbor" target="_blank">https://radicalcompanies.com/2022/05/17/rBuddyNeighbor</a></li>
+     <li>   rHintersoft: <a href="https://radicalcompanies.com/2022/05/18/rHintersoft" target="_blank">https://radicalcompanies.com/2022/05/18/rHintersoft</a></li> 
+     <li>   rNextBright: <a href="https://radicalcompanies.com/2022/05/19/rNextBright" target="_blank">https://radicalcompanies.com/2022/05/19/rNextBright</a></li>
+    </ul>
    <li>rMEDIA,</li>
     <ul>
      <li> rReader: <a href="https://radicalcompanies.com/2022/04/01/rReader" target="_blank">https://radicalcompanies.com/2022/04/01/rReader</a></li>
@@ -57,11 +63,6 @@ image:    "disassembling-icon.svg"
      <li>rPlayGym: <a href="https://radicalcompanies.com/2022/04/06/rPlayGym" target="_blank">https://radicalcompanies.com/2022/04/06/rPlayGym</a></li>
      <li>  rMedia: <a href="https://radical-companies-repo/2022/04/06/rplaygym" target="_blank">https://radical-companies-repo/2022/04/06/rplaygym</a></li>
     </ul>
-   <li>rFiction,</li>
-    <ul>
-     <li>  First of Earth (11 episodes): <a href="https://radical-companies-repo/2022/03/01/E01-first-of-earth" target="_blank">https://radical-companies-repo/2022/03/01/E01-first-of-earth</a></li>
-     <li>The FIAT Enclaves (3 episodes): <a href="https://2022/03/11/E11/the-fiat-enclaves" target="_blank">https://2022/03/11/E11/the-fiat-enclaves</a></li>
-    </ul>
    <li>rProjects,</li>
     <ul>
      <li>      rMake!: <a href="https://radicalcompanies.com/2022/05/20/rmake" target="_blank">https://radicalcompanies.com/2022/05/20/rmake</a></li>
@@ -69,9 +70,8 @@ image:    "disassembling-icon.svg"
      <li>       RADs!: <a href="https://radicalcompanies.com/2022/05/22/rads!" target="_blank">https://radicalcompanies.com/2022/05/22/rads! (App)</a></li>
      <li>Attentive UI: <a href="https://radicalcompanies.com/2022/05/23/attentive-ui" target="_blank">https://radicalcompanies.com/2022/05/23/attentive-ui</a></li>
     </ul>
-   <li>rStartups,</li>
+   <li>rFiction,</li>
     <ul>
-     <li>rBuddyNeighbor: <a href="https://radicalcompanies.com/2022/05/17/rBuddyNeighbor" target="_blank">https://radicalcompanies.com/2022/05/17/rBuddyNeighbor</a></li>
-     <li>   rHintersoft: <a href="https://radicalcompanies.com/2022/05/18/rHintersoft" target="_blank">https://radicalcompanies.com/2022/05/18/rHintersoft</a></li> 
-     <li>   rNextBright: <a href="https://radicalcompanies.com/2022/05/19/rNextBright" target="_blank">https://radicalcompanies.com/2022/05/19/rNextBright</a></li>
+     <li>  First of Earth (11 episodes): <a href="https://radical-companies-repo/2022/03/01/E01-first-of-earth" target="_blank">https://radical-companies-repo/2022/03/01/E01-first-of-earth</a></li>
+     <li>The FIAT Enclaves (3 episodes): <a href="https://2022/03/11/E11/the-fiat-enclaves" target="_blank">https://2022/03/11/E11/the-fiat-enclaves</a></li>
     </ul>
