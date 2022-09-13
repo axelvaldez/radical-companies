@@ -3,7 +3,7 @@ layout:   post
 title:    "rHintersoft"
 subtitle: "World-wide, federated software craft shops."
 authors:  "Matt Perez"
-image:    "rnextbright-icon.svg"
+image:    "feudalism-is-back-square.svg"
 ---
 
 <div style="display: none; ">
