@@ -10,9 +10,9 @@ image:    "disassembling-icon.svg"
  <p></p>
 </div>
 
-<h1>&nbsp;</h1>
+<h1>The Real Boss</h1>
+ <p>You have to distinguish between the CEO and every other manager. The CEO is either a founder (<em>e.g.</em>, Dave Packard, Steve Jobs) or a career CEO. 
 <ul>
- <li>Assembling the Executive Nucleus</li>
  <li>Fundraising</li>
  <li>Hiring</li>
  <li>Firing</li>
@@ -22,6 +22,8 @@ image:    "disassembling-icon.svg"
  <li>Setting Tactics</li>
  <li>Experiment</li>
 </ul>
+
+<h1>The Lesser Bosse</h1>
 
 <h1 class="_section">RELATED</h1>
  <ul>
