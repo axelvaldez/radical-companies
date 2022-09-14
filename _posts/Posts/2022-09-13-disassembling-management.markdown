@@ -23,7 +23,7 @@ image:    "disassembling-icon.svg"
  <li>Experiment</li>
 </ul>
 
-<h1>The Lesser Bosse</h1>
+<h1>The Lesser Bosses</h1>
 
 <h1 class="_section">RELATED</h1>
  <ul>
