@@ -58,6 +58,7 @@ image:    "disassembling-icon.svg"
   <p>In a co-managed company, everything about the company is transparent. So you can figure out how what you do ties to your company's sustainability (<em>i.e.</em>, financials, strategy, tactics, etc.).</p>
 
 <h1>In a Co-Managed Company</h1>
+ <p></p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
