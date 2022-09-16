@@ -57,6 +57,8 @@ image:    "disassembling-icon.svg"
   <p>Unfortunately, you usually have no idea how what you do connects to the profit-making goals, or the tactics, or the strategy. Your job is whatever your boss says it is, and everything else is a black box to you.</p>
   <p>In a co-managed company, everything about the company is transparent. So you can figure out how what you do ties to your company's sustainability (<em>i.e.</em>, financials, strategy, tactics, etc.).</p>
 
+<h1>In a Co-Managed Company</h1>
+
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
