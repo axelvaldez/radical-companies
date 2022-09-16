@@ -12,7 +12,7 @@ image:    "disassembling-icon.svg"
 
 
 <h1>The Hierarchy</h1>
- <h2>The Big Boss</h2>\
+ <h2>The Big Boss</h2>
   <p>You have to distinguish between the CEO and every other manager. The top dog is any of,</p>
   <ul>
    <li>A founder (<em>e.g.</em>, Steve Jobs, Jeff Bezos)</li>
