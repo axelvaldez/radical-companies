@@ -301,3 +301,7 @@ td._spacer {
 ._mb0 {
   margin-bottom:0;
 }
+._center {
+  display:grid;
+  place-items:center;
+}
