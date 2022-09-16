@@ -11,31 +11,30 @@ image:    "disassembling-icon.svg"
 </div>
 
 
+<h1>The Hierarchy</h1>
+ <h2>The Big Boss</h2>\
+  <p>You have to distinguish between the CEO and every other manager. The top dog is any of,</p>
+  <ul>
+   <li>A founder (<em>e.g.</em>, Steve Jobs, Jeff Bezos)</li>
+   <li>A career lesser boss (<em>e.g.</em>, Tim Cook, Andy Jassy)</li>
+   <li>A monied, take-over type (<em>e.g.</em>, Elon Musk).</li>
+  </ul>
+  <p>The CEO sits at the top of the FIAT hierarchy, the boss of the lesser bosses.</p>
+ <h2>The Lesser Bosses</h2>
+  <p>No matter the size of the business, the lesser bosses compete with each other, more or less furiously. There are exceptions to this, but this is the norm; the exceptions are few and far between.</p>
+
 <h1>The Big Boss</h1>
- <p>You have to distinguish between the CEO and every other manager. The top dog is any of,</p>
- <ul>
-  <li>A founder (<em>e.g.</em>, Steve Jobs, Jeff Bezos)</li>
-  <li>A career lesser boss (<em>e.g.</em>, Tim Cook, Andy Jassy)</li>
-  <li>A monied, take-over type (<em>e.g.</em>, Elon Musk).</li>
- </ul>
- <p>The CEO is always the boss of the lesser bosses, the top dog.</p>
-
-<h>The Lesser Bosses</h1>
- <p>No matter the size, the lesser bosses compete with each other, more or less furiously. There are exceptions to this and I don&rsquo;t want to paint with too broad a brush. But this is the norm, and the exceptions are few and far between.</p>
-
-<h1>Big Boss</h1>
- <h2>Rasing Money</h2>
-  <p></p>
+ <h2>Rasing Capital</h2>
+  <p>TBD</p>
  <h2>Hiring</h2>
   <p>Putting together the Executive team is way up there in the Big Boss&rsquo; job description; it goes right under <em>make money for the board and the stockholder.</em></p>
   <p>If you are within striking distance of an IPO or some other &ldquo;liquidity event,&rdquo; you hire a bunch of people with bona fide credentials from well known companies. You name them CxOs because a big part of your IPO story is having &ldquo;a strong team.&rdquo;</p>
   <p>If you are far from IPO, or past it, you want to hire an &ldquo;effective&rdquo; team, no matter how they go about it, even if they go about it ruthlessly. And when it comes to finances they will get you what you need one way or the other.</p>
   <p>In a smaller company, the Big Boss&rsquo; main job is to raise money and set strategy. So, he hires an executive team who can take care of everything else. These folks are mostly competent and even nice (but they are their way of being neither).</p>
+ <h2>Strategy</h2>
+  <p>Whether they think of it or they take it from someone else, the Big Boss sets the strategy.</p>
 
-<h1>Big Boss: Strategy</h1>
- <p>Whether they think of it or they take it from someone else, the Big Boss sets the strategy.</p>
-
-<h1>Lesser Boss</h1>
+<h1>The Lesser Bosses</h1>
  <h2>Hiring & Firing</h2>
   <p>Except for their direct staff, the lesser bosses get involved in hiring just in case their boss asks. They really add no value to the process. In fact, they slow it down. After &ldquo;looking for a time that will work for the boss,&rdquo; they do a very short &ldquo;interview&rdquo; and render a decision to hire or not. This is after several interviews by the team of people who know the subject matter and are going to work with the candidate. Many go with the team's decision, but others don&rsquo;t, because &ldquo;I didn&rsquo;t like his attitude&rdquo; or his shirt or his hair style.</p>
   <p>In a co-managed company, the people who are going to team up with the candidate make the final decision to hire or not. They may even do away with the interview altogether because the candidate is not just a vessel for his cognitive skills, the rest of her comes along with it.</p>
