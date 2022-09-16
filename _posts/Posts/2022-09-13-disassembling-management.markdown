@@ -7,23 +7,55 @@ image:    "disassembling-icon.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>You have to distinguish between the CEO, to top boss, and the lesser bosses.</p>
 </div>
 
-<h1>The Real Boss</h1>
- <p>You have to distinguish between the CEO and every other manager. The CEO is either a founder (<em>e.g.</em>, Dave Packard, Steve Jobs) or a career CEO. 
-<ul>
- <li>Fundraising</li>
- <li>Hiring</li>
- <li>Firing</li>
- <li>Mediating Conflict</li>
- <li>Defending You From Other Bosses</li>
- <li>Setting Strategy</li>
- <li>Setting Tactics</li>
- <li>Experiment</li>
-</ul>
+
+<h1>The Top Boss</h1>
+ <p>You have to distinguish between the CEO and every other manager. The top dog is any of,</p>
+ <ul>
+  <li>A founder (<em>e.g.</em>, Steve Jobs, Jeff Bezos)</li>
+  <li>A career lesser boss (<em>e.g.</em>, Tim Cook, Andy Jassy)</li>
+  <li>A monied, take-over type (<em>e.g.</em>, Elon Musk).</li>
+ </ul>
+ <p>The CEO is always the boss of the lesser bosses, the top dog.</p>
 
 <h1>The Lesser Bosses</h1>
+ <p>No matter the size, the lesser bosses compete with each other, more or less furiously. There are exceptions to this and I don’t want to paint with too broad a brush. But this is the norm, and the exceptions are few and far between.</p>
+
+<h1>Big Boss: Hiring</h1>
+ <h2>Hiring the Executive Team</h2>
+  <p>Putting together his direct reports is way up there in the Big Boss’ job description; it goes right under <em>make money for the board and the stockholder.</em></p>
+  <p>If you are within striking distance of an IPO or some other “liquidity event,” you hire a bunch of people with bona fide credentials from well known companies. You name them CxOs because a big part of your IPO story is having “a strong team.”</p>
+  <p>If you are far from IPO, or past it, you want to hire an “effective” team, no matter how they go about it, even if they go about it ruthlessly. And when it comes to finances they will get you what you need one way or the other.</p>
+  <p>In a smaller company, the Big Boss’ main job is to raise money and set strategy. So, he hires an executive team who can take care of everything else. These folks are mostly competent and even nice (but they are their way of being neither).</p>
+
+<h1>Big Boss: Strategy</h1>
+ <p>Whether they think of it or they take it from someone else, the Big Boss sets the strategy.</p>
+
+<h1>Lesser Boss: Hiring & Firing</h1>
+ <p>Except for their direct staff, the lesser bosses get involved in hiring just in case their boss asks. They really add no value to the process. In fact, they slow it down. After “looking for a time that will work for the boss,” they do a very short “interview” and render a decision to hire or not. This is after several interviews by the team of people who know the subject matter and are going to work with the candidate. Many go with the team's decision, but others don’t, because “I didn’t like his attitude” or his shirt or his hair style.</p>
+ <p>In a co-managed company, the people who are going to team up with the candidate make the final decision to hire or not. They may even do away with the interview altogether because the candidate is not just a vessel for his cognitive skills, the rest of her comes along with it.</p>
+ <p>Firing is usually left to the boss. Many of them dislike doing it, so they ignore it or postpone doing it until things come to a head. In a co-managed company, the team can eject a person and tell him the reasons why directly. No boss needed.</p>
+
+<h1>Mediating Conflict</h1>
+ <p>The lesser bosses play referee often. If there’s a conflict between people, he gets in the middle of it and does his best to arrive at a clean break. This general does not resolve the issue, not really, but everybody can go to their own corners to work.</p>
+ <p>In a co-managed company, either people resolve the issue themselves or they involve a third person and the three of them resolve the issue. By the end of it every one learns new skills for how to resolve this type of issue and, more importantly, new language to keep it from becoming a problem.</p>
+
+<h1>Defending You From Other Bosses</h1>
+ <p>Each department in a business is kind of like a feudal dominion, a castle if you will: it is siloed, has a moat around it, and you work in exchange for protection (plus a paycheck).</p>
+ <p>The would-be attackers are the other bosses, and sometimes the people, in the other castles… er… departments. The knight in white armor defending you is your boss.</p>
+ <p>I’ll leave it to you, dear reader, to imagine the many ways that this becomes an obstacle to collaboration and the (negative) impact it has on the business.</p>
+
+<h1>Setting Tactics</h1>
+ <p>Technically, the Lesser Bosses set the tactics to implement the Top Boss strategy. In reality, the thing that counts the most is the financial goals. The grander strategy may or may not align with the profit-making goals and, when in doubt, meet the profit goals and the rest is forgiven.</p>
+ <p>You are the proverbial cog and your job is to,</p>
+ <ol>
+  <li>Implement the profit-making goals</li>
+  <li>Maybe implement the tactics that your boss set.</li>
+ </ol>
+ <p>Unfortunately, you usually have no idea how what you do connects to the profit-making goals, or the tactics, or the strategy. Your job is whatever your boss says it is, and everything else is a black box to you.</p>
+ <p>In a co-managed company, everything about the company is transparent. So you can figure out how what you do ties to your company's sustainability (<em>i.e.</em>, financials, strategy, tactics, etc.).</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
