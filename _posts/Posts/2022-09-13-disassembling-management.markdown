@@ -61,7 +61,7 @@ image:    "disassembling-icon.svg"
   <p>The Lesser Bosses are, in theory, responsible for many, many other things. But, as often as not, these go undone or are done sporadically because the lesser bosses spend their time doing one thing or another for their bosses.</p>
 
 <h1>Decentralizing the Bosses</h1>
- <p>The <span class="_paradigm">FIAT</span> hierarchy is hostile to doing business. It makes innovation nearly impossible. A tremendous amount of money and effort is wasted on &ldquo;control theater,&rdquo; proping up the illusion of control. Companies can be immediately more efficient by removing the <span class="_paradigm">FIAT</span> hierarchy and letting people co-manage.
+ <p>The <span class="_paradigm">FIAT</span> hierarchy is hostile to doing business. It makes innovation nearly impossible. A tremendous amount of money and effort is wasted on &ldquo;control theater,&rdquo; to prop up the illusion of control. Companies can be immediately more efficient by removing the <span class="_paradigm">FIAT</span> hierarchy and letting people co-manage.
  <table class="_center">
   <tr>
    <th>Hiring & Firing</th>
@@ -72,7 +72,7 @@ image:    "disassembling-icon.svg"
   </tr>
   <tr>
    <th>Mediating Conflict</th>
-   <td>Can be done by triads. Also, training on the effect of language, which is a reflections of ideology and habits.</td>
+   <td>Can be done by triads. Also, training on the effect of language, which is a reflection of ideology and habits.</td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
@@ -93,14 +93,14 @@ image:    "disassembling-icon.svg"
   </tr>
   <tr>
    <th>One-on-ones</th>
-   <td>Better done by the team or somebody who is good at it and likes it doing it.</td>
+   <td>Better done by the team or somebody who is good at it and likes doing it.</td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Career development</th>
-   <td>Better done by the team or somebody who is good at it and likes it doing it.</td>
+   <td>Better done by the team or somebody who is good at it and likes doing it.</td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
@@ -114,7 +114,7 @@ image:    "disassembling-icon.svg"
   </tr>
   <tr>
    <th>Team health</th>
-   <td>caca</td>
+   <td></td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
