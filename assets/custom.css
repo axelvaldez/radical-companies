@@ -249,7 +249,7 @@ h1._section {
 }
 
 .table {
-  width:80%;
+  width:50%;
 }
 .tr {
   margin-bottom:0;
@@ -262,6 +262,7 @@ th {
   padding-right:1em;
   width:1.5in;
   font-size:smaller;
+  border-
 }
 td {
   text-align:left;
