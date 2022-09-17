@@ -68,6 +68,7 @@ image:    "disassembling-icon.svg"
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
+  </tr>
   <tr>
    <th>Mediating Conflict</th>
    <td>caca</td>
