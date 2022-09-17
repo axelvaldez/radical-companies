@@ -75,8 +75,7 @@ image:    "disassembling-icon.svg"
    <td>Can be done by the teams. In fact, they are already done by the team.</td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</th>
-  </tr>
+   <td class="_spacer">&nbsp;</td>
   <tr>
    <th>Mediating Conflict</th>
    <td></td>
