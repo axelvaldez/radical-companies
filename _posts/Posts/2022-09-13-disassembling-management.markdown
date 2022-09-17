@@ -81,6 +81,8 @@ image:    "disassembling-icon.svg"
    <th>Mediating Conflict</th>
    <td></td>
   </tr>
+ </table>
+ <table>
   <tr>
    <td colspan="2">&nbsp;</th>
   </tr>
