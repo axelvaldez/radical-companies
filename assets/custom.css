@@ -258,11 +258,13 @@ th {
   vertical-align:top;
   padding-right:1em;
   width:1.5in;
+  font-size:smaller;
 }
 td {
   text-align:left;
   vertical-align:top;
   padding-left:1em;
+  font-size:smaller;
 }
 td._spacer {
   column-span:all;
