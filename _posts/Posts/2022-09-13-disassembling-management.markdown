@@ -127,7 +127,6 @@ image:    "disassembling-icon.svg"
   </tr>
  </table>
 
-
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
