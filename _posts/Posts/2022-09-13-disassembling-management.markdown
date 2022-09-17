@@ -86,31 +86,28 @@ image:    "disassembling-icon.svg"
   </tr>
   <tr>
    <th>Task assignments</th>
-   <td>Tasks </td>
-  </tr>
-  <tr>
-   <td class="_spacer">&nbsp;</td>
+   <td>Without bosses and with transparency, people can figure this out on their. They would also take into consideration what they like and would be more meaningful to them.</td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>One-on-ones</th>
-   <td>caca</td>
+   <td>Better done by the team or somebody who is good at it and likes it doing it.</td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Career development</th>
-   <td>caca</td>
+   <td>Better done by the team or somebody who is good at it and likes it doing it.</td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Training</th>
-   <td>caca</td>
+   <td>People can train each other, mentor, give talks, etc. This is very effective because 1) people like sharing their skills, 2) people learn better from others who are a little more advanced on a subject, 3) people learn better from people they socialize with.</td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
