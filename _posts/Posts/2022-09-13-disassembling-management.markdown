@@ -81,7 +81,7 @@ image:    "disassembling-icon.svg"
    <td>caca</td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</td>
+   <td class="_spacer">&nbsp;</td>
   </tr>
  </table>
 
@@ -91,49 +91,49 @@ image:    "disassembling-icon.svg"
    <td></td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</td>
+   <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Implementing Tactics</th>
    <td></td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</td>
+   <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>One-on-ones</th>
    <td></td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</td>
+   <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Career development</th>
    <td></td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</td>
+   <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Training</th>
    <td></td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</td>
+   <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Team health</th>
    <td></td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</td>
+   <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Task assignments</th>
    <td></td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</td>
+   <td class="_spacer">&nbsp;</td>
   </tr>
  </table>
 
