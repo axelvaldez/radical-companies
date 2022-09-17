@@ -68,7 +68,7 @@ image:    "disassembling-icon.svg"
   </ul>
   <p>For the most part these go undone or are done sporadically because the lesser bosses spend their time doing one thing or another for their bosses.</p>
 
-<hi>Decentralizng the Bosses</hi>
+<h1>Decentralizng the Bosses</h1>
  <table class="_center">
   <tr>
    <th>Hiring & Firing</th>
