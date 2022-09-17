@@ -47,8 +47,9 @@ image:    "disassembling-icon.svg"
   <p>Each department in a business is kind of like a feudal dominion, a castle if you will: it is siloed, has a moat around it, and you work in exchange for protection (plus a paycheck).</p>
   <p>The would-be attackers are the other bosses, and sometimes the people, in the other castles&hellip; er&hellip; departments. The knight in white armor defending you is your boss.</p>
   <p>I&rsquo;ll leave it to you, dear reader, to imagine the many ways that this becomes an obstacle to collaboration and the (negative) impact it has on the business.</p>
- <h2>Setting Tactics</h2>
-  <p>Technically, the Lesser Bosses set the tactics to implement the Top Boss strategy. In reality, the thing that counts the most is the financial goals. The grander strategy may or may not align with the profit-making goals and, when in doubt, meet the profit goals and the rest is forgiven.</p>
+ <h2>Implementing Tactics</h2>
+  <p>Technically, the Lesser Bosses set the tactics to implement the Top Boss strategy.</p>
+  <p>In reality, the thing that counts the most is the financial goals. The grander strategy may or may not align with the profit-making goals and, when in doubt, meet the profit goals and the rest is forgiven.</p>
   <p>You are the proverbial cog and your job is to,</p>
   <ol>
    <li>Implement the profit-making goals</li>
@@ -57,7 +58,7 @@ image:    "disassembling-icon.svg"
   <p>Unfortunately, you usually have no idea how what you do connects to the profit-making goals, or the tactics, or the strategy. Your job is whatever your boss says it is, and everything else is a black box to you.</p>
   <p>In a co-managed company, everything about the company is transparent. So you can figure out how what you do ties to your company's sustainability (<em>i.e.</em>, financials, strategy, tactics, etc.).</p>
 
-<h1>In a Co-Managed Company</h1>
+<h1>In a Co-Managed Company…</h1>
  <p></p>
 
 <h1 class="_section">RELATED</h1>
