@@ -106,7 +106,6 @@ image:    "disassembling-icon.svg"
    <th>Task assignments</th>
    <td></td>
   </tr>
-  <tr>
  </table>
 
 
