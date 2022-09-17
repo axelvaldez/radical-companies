@@ -57,7 +57,7 @@ image:    "disassembling-icon.svg"
   </ol>
   <p>Unfortunately, you usually have no idea how what you do connects to the profit-making goals, or the tactics, or the strategy. Your job is whatever your boss says it is, and everything else is a black box to you.</p>
   <p>In a co-managed company, everything about the company is transparent. So you can figure out how what you do ties to your company's sustainability (<em>i.e.</em>, financials, strategy, tactics, etc.).</p>
- <h2>Other Things&hellip;</h21>
+ <h2>Other Things&hellip;</h2>
   <p>The Lesser Bosses may be responsible for many, many other things. In no particular order,</p>
   <ul>
    <li>One-on-ones</li>
