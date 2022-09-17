@@ -19,7 +19,7 @@ image:    "disassembling-icon.svg"
    <li>A career lesser boss (<em>e.g.</em>, Tim Cook, Andy Jassy)</li>
    <li>A monied, take-over type (<em>e.g.</em>, Elon Musk).</li>
   </ul>
-  <p>The CEO sits at the top of the FIAT hierarchy, the boss of the lesser bosses.</p>
+  <p>The CEO sits at the top of the <span class="_paradigm">FIAT</span> hierarchy, the boss of the lesser bosses.</p>
  <h2>The Lesser Bosses</h2>
   <p>No matter the size of the business, the lesser bosses compete with each other, more or less furiously. There are exceptions to this, but this is the norm; the exceptions are few and far between.</p>
 
@@ -61,7 +61,7 @@ image:    "disassembling-icon.svg"
   <p>The Lesser Bosses are, in theory, responsible for many, many other things. But, as often as not, these go undone or are done sporadically because the lesser bosses spend their time doing one thing or another for their bosses.</p>
 
 <h1>Decentralizing the Bosses</h1>
- <p>The FIAT hierarchy is hostile to doing business. It makes innovation nearly impossible. A tremendous amount of money and effort is wasted on &ldquo;control theater,&rdquo; proping up the illusion of control. Companies can be immediately more efficient by removing the FIAT higherarchy and letting people co-manage.
+ <p>The <span class="_paradigm">FIAT</span> hierarchy is hostile to doing business. It makes innovation nearly impossible. A tremendous amount of money and effort is wasted on &ldquo;control theater,&rdquo; proping up the illusion of control. Companies can be immediately more efficient by removing the <span class="_paradigm">FIAT</span> hierarchy and letting people co-manage.
  <table class="_center">
   <tr>
    <th>Hiring & Firing</th>
