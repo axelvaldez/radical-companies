@@ -248,6 +248,9 @@ h1._section {
   font-size:30px;
 }
 
+.table {
+  width:80%;
+}
 .tr {
   margin-bottom:0;
   vertical-align:top;
