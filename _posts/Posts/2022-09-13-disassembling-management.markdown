@@ -80,60 +80,60 @@ image:    "disassembling-icon.svg"
    <th>Mediating Conflict</th>
    <td></td>
   </tr>
+  <tr>
+   <td colspan="2">&nbsp;</td>
+  </tr>
  </table>
 
  <table>
-  <tr>
-   <td colspan="2">&nbsp;</th>
-  </tr>
   <tr>
    <th>Defending You From Other Bosses</th>
    <td></td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</th>
+   <td colspan="2">&nbsp;</td>
   </tr>
   <tr>
    <th>Implementing Tactics</th>
    <td></td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</th>
+   <td colspan="2">&nbsp;</td>
   </tr>
   <tr>
    <th>One-on-ones</th>
    <td></td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</th>
+   <td colspan="2">&nbsp;</td>
   </tr>
   <tr>
    <th>Career development</th>
    <td></td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</th>
+   <td colspan="2">&nbsp;</td>
   </tr>
   <tr>
    <th>Training</th>
    <td></td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</th>
+   <td colspan="2">&nbsp;</td>
   </tr>
   <tr>
    <th>Team health</th>
    <td></td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</th>
+   <td colspan="2">&nbsp;</td>
   </tr>
   <tr>
    <th>Task assignments</th>
    <td></td>
   </tr>
   <tr>
-   <td colspan="2">&nbsp;</th>
+   <td colspan="2">&nbsp;</td>
   </tr>
  </table>
 
