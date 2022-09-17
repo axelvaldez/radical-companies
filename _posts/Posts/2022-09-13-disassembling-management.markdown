@@ -75,36 +75,63 @@ image:    "disassembling-icon.svg"
    <td>Can be done by the teams. In fact, they are already done by the team.</td>
   </tr>
   <tr>
+  <tr>
+   <td colspan="2">&nbsp;</th>
+  </tr>
    <th>Mediating Conflict</th>
    <td></td>
+  </tr>
+  <tr>
+   <td colspan="2">&nbsp;</th>
   </tr>
   <tr>
    <th>Defending You From Other Bosses</th>
    <td></td>
   </tr>
   <tr>
+   <td colspan="2">&nbsp;</th>
+  </tr>
+  <tr>
    <th>Implementing Tactics</th>
    <td></td>
+  </tr>
+  <tr>
+   <td colspan="2">&nbsp;</th>
   </tr>
   <tr>
    <th>One-on-ones</th>
    <td></td>
   </tr>
   <tr>
+   <td colspan="2">&nbsp;</th>
+  </tr>
+  <tr>
    <th>Career development</th>
    <td></td>
+  </tr>
+  <tr>
+   <td colspan="2">&nbsp;</th>
   </tr>
   <tr>
    <th>Training</th>
    <td></td>
   </tr>
   <tr>
+   <td colspan="2">&nbsp;</th>
+  </tr>
+  <tr>
    <th>Team health</th>
    <td></td>
   </tr>
   <tr>
+   <td colspan="2">&nbsp;</th>
+  </tr>
+  <tr>
    <th>Task assignments</th>
    <td></td>
+  </tr>
+  <tr>
+   <td colspan="2">&nbsp;</th>
   </tr>
  </table>
 
