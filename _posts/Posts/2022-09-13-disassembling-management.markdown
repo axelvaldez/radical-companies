@@ -61,31 +61,35 @@ image:    "disassembling-icon.svg"
   <p>The Lesser Bosses are, in theory, responsible for many, many other things. But, as often as not, these go undone or are done sporadically because the lesser bosses spend their time doing one thing or another for their bosses.</p>
 
 <h1>Decentralizing the Bosses</h1>
+ <p>The FIAT hierarchy is hostile to doing business. It makes innovation nearly impossible. A tremendous amount of money and effort is wasted on &ldquo;control theater,&rdquo; proping up the illusion of control. Companies can be immediately more efficient by removing the FIAT higherarchy and letting people co-manage.
  <table class="_center">
   <tr>
    <th>Hiring & Firing</th>
-   <td>Can be done by the teams. In fact, they are already done by the team.</td>
+   <td>They are <em>already</em> done by the team.</td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Mediating Conflict</th>
-   <td>caca</td>
+   <td>Can be done by triads. Also, training on the effect of language, which is a reflections of ideology and habits.</td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Defending You From Other Bosses</th>
-   <td>caca</td>
+   <td>Without a hierarchy, there are no bosses to be defended from.</td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
-   <th>Implementing Tactics</th>
-   <td>caca</td>
+   <th>Task assignments</th>
+   <td>Tasks </td>
+  </tr>
+  <tr>
+   <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
@@ -113,13 +117,6 @@ image:    "disassembling-icon.svg"
   </tr>
   <tr>
    <th>Team health</th>
-   <td>caca</td>
-  </tr>
-  <tr>
-   <td class="_spacer">&nbsp;</td>
-  </tr>
-  <tr>
-   <th>Task assignments</th>
    <td>caca</td>
   </tr>
   <tr>
