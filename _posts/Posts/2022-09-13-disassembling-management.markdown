@@ -60,7 +60,7 @@ image:    "disassembling-icon.svg"
  <h2>Other Things&hellip;</h2>
   <p>The Lesser Bosses are, in theory, responsible for many, many other things. But, as often as not, these go undone or are done sporadically because the lesser bosses spend their time doing one thing or another for their bosses.</p>
 
-<h1>Decentralizng the Bosses</h1>
+<h1>Decentralizing the Bosses</h1>
  <table class="_center">
   <tr>
    <th>Hiring & Firing</th>
