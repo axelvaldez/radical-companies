@@ -158,7 +158,7 @@ image:    "disassembling-icon.svg"
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
-   <p class="_list-item" style="display:none; ">
+   <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
     <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
     2021.
@@ -179,7 +179,7 @@ image:    "disassembling-icon.svg"
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en03" style="display:none; ">
+  <li id="en03">
    <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
     <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
