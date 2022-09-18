@@ -66,13 +66,13 @@ image:    "disassembling-icon.svg"
  <p>The <span class="_paradigm">FIAT</span> hierarchy is hostile to doing business. It makes innovation nearly impossible. A tremendous amount of money and effort is wasted on the hierachy and &ldquo;control theater,&rdquo;. Companies can become immediately more efficient by letting go of the illusion of control and letting people co-manage themselves.
  <table class="_center">
   <tr>
-   <th>Hiring & Firing</th>
+   <th>Hiring</th>
    <td>
     <p>Except in the most bureaucratic businesses, hiring <em>already</em> is done by the hiring team.</p>
    </td>
   </tr>
   <tr>
-   <th>Hiring & Firing</th>
+   <th>Firing</th>
    <td>
     <p>Firing can be done by the team as well. Learning to give feedback doesn't come natural, even to bosses. Today, we practice a language of competition and dominance and we need to learn a language of love, empathy, and support. And not just for &ldquo;firing&rdquo;, but in general.</p>
     <p>For a whole socienty, this is going to be a long process. But each company can do it more quickly by the process of aculturation. Among other things, this helps build trust more quickly.</p>
