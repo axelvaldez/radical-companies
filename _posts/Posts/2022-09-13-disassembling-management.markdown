@@ -76,6 +76,9 @@ image:    "disassembling-icon.svg"
    </td>
   </tr>
   <tr>
+   <td class="_spacer">&nbsp;</td>
+  </tr>
+  <tr>
    <th>Firing</th>
    <td>
     <p>Firing can be done by the team as well. Learning to give feedback doesn&rsquo;t come natural, even to bosses. Today, we practice a language of competition and dominance and we need to learn a language of love, empathy, and support. And not just for &ldquo;firing&rdquo;, but in general.</p>
