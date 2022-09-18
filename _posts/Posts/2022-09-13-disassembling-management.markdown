@@ -25,7 +25,13 @@ image:    "disassembling-icon.svg"
 
 <h1>The Big Boss</h1>
  <h2>Rasing Capital</h2>
-  <p>TBD</p>
+  <p>Raising capital is the job of the Big Boss, but oftentimes a Board member or two get it done. &ldquo;We&rsquo;ll <em>help</em> you with that.&rdquo;</p>
+  <p>This always happens at the start of the business. Later it may happen when</p>
+   <ul>
+    <li>The Board pushes for <em>growth</em> and new investors are sought to provide the cash. If this is a <em>down round</em>, Board memebers agree to be diluted (<em>i.e.</em>, to have their shares do down in value) given that without the extra cash they may be financially screwed.</li>
+    <li>A Board member wants to partially cashout. He sells some of his shares to another investor and he, not the business, gets the cash</li>
+    <li>If a Board member wants to fully cash out, the euphemism is that he is &ldquo;leaving his Board seat to pursue other projects.&rdquo;. The business may or may not get any cash out of these types of transactions.</li>
+   </ul>
  <h2>Hiring</h2>
   <p>Putting together the Executive team is way up there in the Big Boss&rsquo; job description; it goes right under <em>make money for the board and the stockholder.</em></p>
   <p>If you are within striking distance of an IPO or some other &ldquo;liquidity event,&rdquo; you hire a bunch of people with bona fide credentials from well known companies. You name them CxOs because a big part of your IPO story is having &ldquo;a strong team.&rdquo;</p>
