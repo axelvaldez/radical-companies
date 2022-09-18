@@ -68,7 +68,7 @@ image:    "disassembling-icon.svg"
   <tr>
    <th>Hiring</th>
    <td>
-    <p>Except in the most bureaucratic businesses, hiring <em>already</em> is done by the hiring team.</p>
+    <p>Except in the most bureaucratic businesses, hiring <em>already</em> is done by the hiring team; the Lesser Boss involvement is mostly a ritual and adds no value to this process.</p>
    </td>
   </tr>
   <tr>
