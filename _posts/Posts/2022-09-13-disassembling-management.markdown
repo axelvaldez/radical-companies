@@ -54,14 +54,10 @@ image:    "disassembling-icon.svg"
  <h2>Defending You from Other Bosses</h2>
   <p>Each department in a business is like a feudal dominion, with a castle in the middle surrounded by fields under its protection. It has a moat around it and you work the fields in exchange for protection (plus a paycheck in moderm times). The would-be attackers are the other bosses, and sometimes the people, in the other castles&hellip; er&hellip; departments. The knight in white armor &ldquo;defending&rdquo; you is your boss. As you can imagine, this becomes an obstacle to collaboration and it has major, negative impact on the business.</p>
  <h2>Implementing Tactics</h2>
-  <p>Technically, the Lesser Bosses set the tactics to implement the Top Boss strategy.</p>
-  <p>In reality, the thing that counts the most is the financial goals. The grander strategy may or may not align with the profit-making goals and, when in doubt, meet the profit goals and the rest is forgiven.</p>
-  <p>You are the proverbial cog and your job is to,</p>
-  <ol>
-   <li>Implement the profit-making goals</li>
-   <li>Maybe implement the tactics that your boss set.</li>
-  </ol>
-  <p>Unfortunately, you usually have no idea how what you do connects to the profit-making goals, or the tactics, or the strategy. Your job is whatever your boss says it is, and everything else is a black box to you.</p>
+  <p>Technically, the Lesser Bosses set the tactics to implement the Big Boss strategy.</p>
+  <p>In reality, the thing that counts the most is the financial goals. The grander strategy may or may not align with the profit-making goals, but when in doubt, make sure to meet the profit goals.</p>
+  <p>You are the proverbial cog and your job is to implement the profit-making goals.</p>
+  <p>Unfortunately, you usually have no idea and no way to find out how what you do connects to the profit-making goals, or the tactics, or the strategy. So, you fall back on doing whatever your boss says to do. Everything else is a black box to you (and oftentimes to the Lesser Bosses, too).</p>
   <p>In a co-managed company, everything about the company is transparent. So you can figure out how what you do ties to your company&rsquo;s sustainability (<em>i.e.</em>, financials, strategy, tactics, etc.).</p>
  <h2>Other Things&hellip;</h2>
   <p>The Lesser Bosses are, in theory, responsible for many, many other things. Unfortunately, these things go undone or are done sporadically because the Lesser Bosses spend their time doing one thing or another for their bosses.</p>
