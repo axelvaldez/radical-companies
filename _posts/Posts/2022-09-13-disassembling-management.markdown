@@ -38,9 +38,9 @@ image:    "disassembling-icon.svg"
   <p>If you are far from IPO, or past it, you want to hire an &ldquo;effective&rdquo; team, no matter how they go about it, even if they go about it ruthlessly. And when it comes to finances they will get you what you need one way or the other.</p>
   <p>In a smaller company, the Big Boss&rsquo; main job is to raise money and set strategy. So, he hires an executive team who can take care of everything else. These folks are mostly competent and even nice (but they are their way of being neither).</p>
  <h2>Firing</h2>
-  <p>It may be distasteful and a mark against the Big Boss. &ldquo;He made a mistake, he should have never hired such a duffus.&rdquo; Or it may be something to be proud of. &ldquo;He didn&rsquo;t hesitate! This guy can really execute.&rdquo; Either way, it is usually not a big deal as the Lesser Boss is given a generous severance in exchange for a signed promise not to sue the business.</p>
+  <p>It may be distasteful. It may be a mark against the Big Boss, &ldquo;He made a mistake, he should have never hired such a duffus.&rdquo; Or it may be something to be proud of, &ldquo;He didn&rsquo;t hesitate! This guy can really execute.&rdquo; In any case, it is usually not a big deal as the Lesser Boss is given a generous severance in exchange for a signed promise not to sue the business.</p>
  <h2>Strategy</h2>
-  <p>Whether they think of it or they take it from someone else, the Big Boss sets the strategy. When it is all said and done, the strategy is how the company is going to make a bigger profit. &ldquo;The way we are going to grow&hellip;&rdquo;</p>
+  <p>Whether they think of it or they &ldquo;borrow&rdquo; it from someone else, the Big Boss sets the strategy, which is how the company is going to grow the business and make a bigger profit.</p>
 
 <h1>The Lesser Bosses</h1>
  <h2>Hiring</h2>
