@@ -44,7 +44,7 @@ image:    "disassembling-icon.svg"
   <p>In a co-managed company, either people resolve the issue themselves or they involve a third person and the three of them resolve the issue. By the end of it every one learns new skills for how to resolve this type of issue and, more importantly, new language to keep it from becoming a problem.</p>
  <h2>Defending You From Other Bosses</h2>
   <p>Each department in a business is kind of like a feudal dominion, a castle if you will: it is siloed, has a moat around it, and you work in exchange for protection (plus a paycheck).</p>
-  <p>The would-be attackers are the other bosses, and sometimes the people, in the other castles&hellip; er&hellip; departments. The knight in white armor defending you is your boss.</p>
+  <p>The would-be attackers are the other bosses, and sometimes the people, in the other castles&hellip; er&hellip; departments. The knight in white armor &ldquo;defending&rdquo; you is your boss.</p>
   <p>I&rsquo;ll leave it to you, dear reader, to imagine the many ways that this becomes an obstacle to collaboration and the (negative) impact it has on the business.</p>
  <h2>Implementing Tactics</h2>
   <p>Technically, the Lesser Bosses set the tactics to implement the Top Boss strategy.</p>
