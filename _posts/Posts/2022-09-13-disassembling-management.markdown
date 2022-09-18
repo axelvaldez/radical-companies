@@ -66,7 +66,7 @@ image:    "disassembling-icon.svg"
  <h2>Other Things&hellip;</h2>
   <p>The Lesser Bosses are, in theory, responsible for many, many other things. But, as often as not, these go undone or are done sporadically because the Lesser Bosses spend their time doing one thing or another for their bosses.</p>
 
-<h1>Decentralizing the Bosses</h1>
+<h1>Decentralizing the Boss</h1>
  <p>The <span class="_paradigm">FIAT</span> hierarchy is hostile to doing business. It makes innovation nearly impossible. A tremendous amount of money and effort is wasted on the hierachy and &ldquo;control theater,&rdquo;. Companies can become immediately more efficient by letting go of the illusion of control and letting people co-manage themselves.
  <table class="_center">
   <tr>
