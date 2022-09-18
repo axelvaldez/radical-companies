@@ -106,7 +106,7 @@ image:    "disassembling-icon.svg"
   </tr>
   <tr>
    <th>Training</th>
-   <td>People can train each other, mentor, give talks, etc. This is very effective because 1) people like sharing their skills, 2) people learn better from others who are a little more advanced on a subject, 3) people learn better from people they socialize with.</td>
+   <td>People can train each other, mentor, give talks, etc. This is very effective because 1) people like sharing their skills, 2) they learn better from others who are a little more advanced (adjacent) on a subject, and 3) they learn better from people they socialize with.</td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
