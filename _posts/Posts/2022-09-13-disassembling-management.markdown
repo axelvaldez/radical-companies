@@ -21,7 +21,7 @@ image:    "disassembling-icon.svg"
   </ul>
   <p>The Big Boss sits at the top of the <span class="_paradigm">FIAT</span> hierarchy, the boss of the Lesser Bosses.</p>
  <h2>The Lesser Bosses</h2>
-  <p>No matter the size of the business, the Lesser Bosses compete with each other, more or less furiously. There are exceptions to this, but this is the norm; the exceptions are few and far between.</p>
+  <p>No matter the size of the business, the Lesser Bosses compete with each other more or less furiously. There are exceptions to this, but this is the norm; the exceptions are few and far between.</p>
 
 <h1>The Big Boss</h1>
  <h2>Rasing Capital</h2>
