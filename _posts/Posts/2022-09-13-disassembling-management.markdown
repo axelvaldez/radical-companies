@@ -32,13 +32,13 @@ image:    "disassembling-icon.svg"
   <p>If you are far from IPO, or past it, you want to hire an &ldquo;effective&rdquo; team, no matter how they go about it, even if they go about it ruthlessly. And when it comes to finances they will get you what you need one way or the other.</p>
   <p>In a smaller company, the Big Boss&rsquo; main job is to raise money and set strategy. So, he hires an executive team who can take care of everything else. These folks are mostly competent and even nice (but they are their way of being neither).</p>
  <h2>Firing</h2>
-  <p>It may be distasteful and a mark against the Big Boss. &ldquo;He made a mistake, he should have never hired such a duffus.&rdquo; Or it may be something to be proud of. &ldquo;He did it! This guy can really execute&rdquo;. Either way, it is usually not a big deal as the Lesser Boss is given a generous severance in exchange for a signed promise not to sue the business.</p>
+  <p>It may be distasteful and a mark against the Big Boss. &ldquo;He made a mistake, he should have never hired such a duffus.&rdquo; Or it may be something to be proud of. &ldquo;He didn&rsquo;t hesitate! This guy can really execute.&rdquo; Either way, it is usually not a big deal as the Lesser Boss is given a generous severance in exchange for a signed promise not to sue the business.</p>
  <h2>Strategy</h2>
   <p>Whether they think of it or they take it from someone else, the Big Boss sets the strategy. When it is all said and done, the strategy is how the company is going to make a bigger profit. &ldquo;The way we are going to grow&hellip;&rdquo;</p>
 
 <h1>The Lesser Bosses</h1>
  <h2>Hiring</h2>
-  <p>Except for their direct staff, the Lesser Bosses get involved in hiring just in case their boss asks. They really add no value to the process. In fact, they slow it down. After &ldquo;looking for a time that will work for the boss,&rdquo; they do a very short &ldquo;interview&rdquo; and render a decision to hire or not. This is after several interviews by the team of people who know the subject matter and are going to work with the candidate. Many go with the team's decision, but others don&rsquo;t, because &ldquo;I didn&rsquo;t like his attitude&rdquo;, or his gender, or his hair style.</p>
+  <p>Except for their direct staff, the Lesser Bosses get involved in hiring just in case their boss asks. They really add no value to the process. In fact, they slow it down. After &ldquo;looking for a time that will work for the boss,&rdquo; they do a very short &ldquo;interview&rdquo; and render a decision to hire or not. This is after several interviews by the team of people who know the subject matter and are going to work with the candidate. Many go with the team&rsquo;s decision, but others don&rsquo;t, because &ldquo;I didn&rsquo;t like his attitude&rdquo;, or his gender, or his hair style.</p>
   <p>In a co-managed company, the people who are going to team up with the candidate make the final decision to hire or not. They may even do away with the interview altogether because the candidate is not just a vessel for his cognitive skills, the rest of her comes along with it.</p>
  <h2>Firing</h2>
   <p>Firing is usually left to the Lesser Boss. Many of them dislike doing it, so they ignore it or postpone doing it until things come to a head. In a co-managed company, the team can eject a person and tell him the reasons why directly. No boss needed.</p>
@@ -58,7 +58,7 @@ image:    "disassembling-icon.svg"
    <li>Maybe implement the tactics that your boss set.</li>
   </ol>
   <p>Unfortunately, you usually have no idea how what you do connects to the profit-making goals, or the tactics, or the strategy. Your job is whatever your boss says it is, and everything else is a black box to you.</p>
-  <p>In a co-managed company, everything about the company is transparent. So you can figure out how what you do ties to your company's sustainability (<em>i.e.</em>, financials, strategy, tactics, etc.).</p>
+  <p>In a co-managed company, everything about the company is transparent. So you can figure out how what you do ties to your company&rsquo;s sustainability (<em>i.e.</em>, financials, strategy, tactics, etc.).</p>
  <h2>Other Things&hellip;</h2>
   <p>The Lesser Bosses are, in theory, responsible for many, many other things. But, as often as not, these go undone or are done sporadically because the Lesser Bosses spend their time doing one thing or another for their bosses.</p>
 
@@ -74,7 +74,7 @@ image:    "disassembling-icon.svg"
   <tr>
    <th>Firing</th>
    <td>
-    <p>Firing can be done by the team as well. Learning to give feedback doesn't come natural, even to bosses. Today, we practice a language of competition and dominance and we need to learn a language of love, empathy, and support. And not just for &ldquo;firing&rdquo;, but in general.</p>
+    <p>Firing can be done by the team as well. Learning to give feedback doesn&rsquo;t come natural, even to bosses. Today, we practice a language of competition and dominance and we need to learn a language of love, empathy, and support. And not just for &ldquo;firing&rdquo;, but in general.</p>
     <p>For a whole socienty, this is going to be a long process. But each company can do it more quickly by the process of aculturation. Among other things, this helps build trust more quickly.</p>
    </td>
   </tr>
@@ -94,7 +94,7 @@ image:    "disassembling-icon.svg"
   <tr>
    <th>Defending You From Other Bosses</th>
    <td>Without a hierarchy, there are no bosses competing for power, on the attach, or to be defended from. That particular source of stress is no more.</p>
-    <p>Besides, without a hierarchy you don't need to be &ldquo;defended&rdquo;. We all need to learn to take in what others say as feedback, something to learn from. Feedback is about us and about them. And, yes, this is different and will feel strange at first, but it is our chance to evolve.</p>
+    <p>Besides, without a hierarchy you don&rsquo;t need to be &ldquo;defended&rdquo;. We all need to learn to take in what others say as feedback, something to learn from. Feedback is about us and about them. And, yes, this is different and will feel strange at first, but it is our chance to evolve.</p>
    </td>
   </tr>
   <tr>
@@ -140,7 +140,7 @@ image:    "disassembling-icon.svg"
   <tr>
    <th>Team health</th>
    <td>
-    <p>One thing that we don't do either at all or very well is get a measure of team health.</p>
+    <p>One thing that we don&rsquo;t do either at all or very well is get a measure of team health.</p>
    </td>
   </tr>
   <tr>
