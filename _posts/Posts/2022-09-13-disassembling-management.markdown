@@ -41,7 +41,7 @@ image:    "disassembling-icon.svg"
   <p>Except for their direct staff, the Lesser Bosses get involved in hiring just in case their boss asks. They really add no value to the process. In fact, they slow it down. After &ldquo;looking for a time that will work for the boss,&rdquo; they do a very short &ldquo;interview&rdquo; and render a decision to hire or not. This is after several interviews by the team of people who know the subject matter and are going to work with the candidate. Many go with the team&rsquo;s decision, but others don&rsquo;t, because &ldquo;I didn&rsquo;t like her&hellip; &rdquo; &ldquo;&hellip;  attitude,&rdquo; &ldquo;&hellip; way of playing with her drealocks&rdquo;, &ldquo;&hellip; posture.&rdquo;</p>
   <p>In a co-managed company, the people who are going to team up with the candidate make the final decision to hire or not. They may even do away with the interview altogether because the candidate is not just a vessel of cognitive skills, the rest of her comes along with it.</p>
  <h2>Firing</h2>
-  <p>Firing is usually left to the Lesser Boss. Many of them dislike doing it, so they ignore it or postpone doing it until things come to a head. In a co-managed company, the team can eject a person and tell him the reasons why directly.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> No boss needed.</p>
+  <p>Firing is usually left to the Lesser Boss. Many of them dislike doing it, so they ignore it or postpone doing it until things come to a head. In a co-managed company, the team can eject a person and tell him the reasons why directly.<a onclick="en01.display = block; " href="#en01"><sup id="bm01">1&nbsp;</sup></a> No boss needed.</p>
  <h2>Mediating Conflict</h2>
   <p>The Lesser Bosses are often called to play referee. If there&rsquo;s a conflict between people, he gets in the middle of it and does his best to arrive at a clean break. This general does not resolve the issue, not really, but everybody can go to their own corners to work.</p>
   <p>In a co-managed company, either people resolve the issue themselves by bringing it and talking through it, or they involve a third person and the three of them resolve it. Either way, every one learns new skills for how to resolve this type of issue and, more importantly, new language to keep it from becoming a problem.</p>
@@ -161,7 +161,7 @@ image:    "disassembling-icon.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en02" style="display:none; ">
+  <li id="en02">
    <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
     <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
