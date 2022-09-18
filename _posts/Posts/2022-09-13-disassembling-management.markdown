@@ -156,13 +156,13 @@ image:    "disassembling-icon.svg"
     <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
     Alternatively, <em>RADICAL COMPANIES: For the Impatient.</em>
     <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
-    <div id="a" styles="display:none; ">
+    <div id="a" style="display:none; ">
      <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
-    <div id="b" styles="display:none; ">
+    <div id="b" style="display:none; ">
      <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
-    <div id="c" styles="display:none; ">
+    <div id="c" style="display:none; ">
      <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
    </p>
