@@ -10,7 +10,6 @@ image:    "disassembling-icon.svg"
  <p>You have to distinguish between the CEO, to top boss, and the lesser bosses.</p>
 </div>
 
-
 <h1>The Hierarchy</h1>
  <h2>The Big Boss</h2>
   <p>You have to distinguish between the CEO and every other manager. The top dog is any of,</p>
