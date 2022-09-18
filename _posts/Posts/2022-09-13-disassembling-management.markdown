@@ -140,7 +140,7 @@ image:    "disassembling-icon.svg"
   <tr>
    <th>Team health</th>
    <td>
-    <p>One thing that we don&rsquo;t do consistenly or very well is get a measure of team&rdquo; health. Teams can do this for themselves, but if they need to they can involve someone external to the team in a triad (<em>i.e.</em>, triads are not made up of only three individuals, it can involve groups of people, too).</p>
+    <p>One thing that Lesser Bosses don&rsquo;t at all, or consistenly, or well is get a measure of team&rdquo; health. Teams can do this for themselves, but if they need to they can involve someone external to the team in a triad (<em>i.e.</em>, triads are not made up of only three individuals, it can involve groups of people, too).</p>
    </td>
   </tr>
   <tr>
