@@ -103,7 +103,6 @@ image:    "disassembling-icon.svg"
    <td>
     <p>Without bosses, and with transparency, people can get together and figure things to do out on their own. As an added bonus, they can take into consideration what is more meaningful to them.</p>
     <p>People working together already have an Expressed Alignment<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> to use as a guide.</p>
-    <p>
    </td>
   </tr>
   <tr>
