@@ -79,14 +79,14 @@ image:    "disassembling-icon.svg"
   </tr>
   <tr>
    <th>Defending You From Other Bosses</th>
-   <td>Without a hierarchy, there are no bosses to be defended from.</td>
+   <td>Without a hierarchy, there are no bosses competing for power, on the attach, or to be defended from. That particular source of stress is no more.</td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Task assignments</th>
-   <td>Without bosses and with transparency, people can figure this out on their. They would also take into consideration what they like and would be more meaningful to them.</td>
+   <td>Without bosses and with transparency, people can get together and figure things to do out on their own. They would also take into consideration what they like and would be more meaningful to them. They have an expressed Alignment<a id="#en01"><sup id="bm91">1&nbsp;</sup></a> to use as a guide.</td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
@@ -120,6 +120,21 @@ image:    "disassembling-icon.svg"
    <td class="_spacer">&nbsp;</td>
   </tr>
  </table>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ol>
+  <li id="en01">
+   <p class="_list-item">
+    Matt Perez, Adrian Perez, Jose Leal.
+    <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
+    2021.
+    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
+    Alternatively, <em>RADICAL COMPANIES: For the Impatient.</em>
+    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ol>
 
 <h1 class="_section">RELATED</h1>
  <ul>
