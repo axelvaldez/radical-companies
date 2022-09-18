@@ -7,20 +7,21 @@ image:    "disassembling-icon.svg"
 ---
 
 <div style="display:none;">
- <p>You have to distinguish between the CEO, to top boss, and the lesser bosses.</p>
+  <p>You have to distinguish between the CEO and every other manager, or as well call them the Big Boss and Lesser Bosses.</p>
 </div>
 
 <h1>The Hierarchy</h1>
  <h2>The Big Boss</h2>
-  <p>You have to distinguish between the CEO and every other manager. The top dog is any of,</p>
+  <p>You have to distinguish between the CEO and every other manager, or as well call them the Big Boss and Lesser Bosses.</p>
+  <p>The Big Boss could be any of,</p>
   <ul>
    <li>A founder (<em>e.g.</em>, Steve Jobs, Jeff Bezos)</li>
-   <li>A career lesser boss (<em>e.g.</em>, Tim Cook, Andy Jassy)</li>
-   <li>A monied, take-over type (<em>e.g.</em>, Elon Musk).</li>
+   <li>A career Lesser Boss (<em>e.g.</em>, Tim Cook, Andy Jassy) who is elevated to Big Boss.</li>
+   <li>A monied type who elevates himself to Big Boss (<em>e.g.</em>, Elon Musk).</li>
   </ul>
-  <p>The CEO sits at the top of the <span class="_paradigm">FIAT</span> hierarchy, the boss of the lesser bosses.</p>
+  <p>The Big Boss sits at the top of the <span class="_paradigm">FIAT</span> hierarchy, the boss of the Lesser Bosses.</p>
  <h2>The Lesser Bosses</h2>
-  <p>No matter the size of the business, the lesser bosses compete with each other, more or less furiously. There are exceptions to this, but this is the norm; the exceptions are few and far between.</p>
+  <p>No matter the size of the business, the Lesser Bosses compete with each other, more or less furiously. There are exceptions to this, but this is the norm; the exceptions are few and far between.</p>
 
 <h1>The Big Boss</h1>
  <h2>Rasing Capital</h2>
@@ -35,12 +36,12 @@ image:    "disassembling-icon.svg"
 
 <h1>The Lesser Bosses</h1>
  <h2>Hiring</h2>
-  <p>Except for their direct staff, the lesser bosses get involved in hiring just in case their boss asks. They really add no value to the process. In fact, they slow it down. After &ldquo;looking for a time that will work for the boss,&rdquo; they do a very short &ldquo;interview&rdquo; and render a decision to hire or not. This is after several interviews by the team of people who know the subject matter and are going to work with the candidate. Many go with the team's decision, but others don&rsquo;t, because &ldquo;I didn&rsquo;t like his attitude&rdquo;, or his gender, or his hair style.</p>
+  <p>Except for their direct staff, the Lesser Bosses get involved in hiring just in case their boss asks. They really add no value to the process. In fact, they slow it down. After &ldquo;looking for a time that will work for the boss,&rdquo; they do a very short &ldquo;interview&rdquo; and render a decision to hire or not. This is after several interviews by the team of people who know the subject matter and are going to work with the candidate. Many go with the team's decision, but others don&rsquo;t, because &ldquo;I didn&rsquo;t like his attitude&rdquo;, or his gender, or his hair style.</p>
   <p>In a co-managed company, the people who are going to team up with the candidate make the final decision to hire or not. They may even do away with the interview altogether because the candidate is not just a vessel for his cognitive skills, the rest of her comes along with it.</p>
  <h2>Firing</h2>
   <p>Firing is usually left to the boss. Many of them dislike doing it, so they ignore it or postpone doing it until things come to a head. In a co-managed company, the team can eject a person and tell him the reasons why directly. No boss needed.</p>
  <h2>Mediating Conflict</h2>
-  <p>The lesser bosses play referee often. If there&rsquo;s a conflict between people, he gets in the middle of it and does his best to arrive at a clean break. This general does not resolve the issue, not really, but everybody can go to their own corners to work.</p>
+  <p>The Lesser Bosses play referee often. If there&rsquo;s a conflict between people, he gets in the middle of it and does his best to arrive at a clean break. This general does not resolve the issue, not really, but everybody can go to their own corners to work.</p>
   <p>In a co-managed company, either people resolve the issue themselves or they involve a third person and the three of them resolve the issue. By the end of it every one learns new skills for how to resolve this type of issue and, more importantly, new language to keep it from becoming a problem.</p>
  <h2>Defending You From Other Bosses</h2>
   <p>Each department in a business is kind of like a feudal dominion, a castle if you will: it is siloed, has a moat around it, and you work in exchange for protection (plus a paycheck).</p>
@@ -57,16 +58,22 @@ image:    "disassembling-icon.svg"
   <p>Unfortunately, you usually have no idea how what you do connects to the profit-making goals, or the tactics, or the strategy. Your job is whatever your boss says it is, and everything else is a black box to you.</p>
   <p>In a co-managed company, everything about the company is transparent. So you can figure out how what you do ties to your company's sustainability (<em>i.e.</em>, financials, strategy, tactics, etc.).</p>
  <h2>Other Things&hellip;</h2>
-  <p>The Lesser Bosses are, in theory, responsible for many, many other things. But, as often as not, these go undone or are done sporadically because the lesser bosses spend their time doing one thing or another for their bosses.</p>
+  <p>The Lesser Bosses are, in theory, responsible for many, many other things. But, as often as not, these go undone or are done sporadically because the Lesser Bosses spend their time doing one thing or another for their bosses.</p>
 
 <h1>Decentralizing the Bosses</h1>
- <p>The <span class="_paradigm">FIAT</span> hierarchy is hostile to doing business. It makes innovation nearly impossible. A tremendous amount of money and effort is wasted on &ldquo;control theater,&rdquo; to prop up the illusion of control. Companies can be immediately more efficient by letting people co-manage themselves.
+ <p>The <span class="_paradigm">FIAT</span> hierarchy is hostile to doing business. It makes innovation nearly impossible. A tremendous amount of money and effort is wasted on the hierachy and &ldquo;control theater,&rdquo;. Companies can become immediately more efficient by letting go of the illusion of control and letting people co-manage themselves.
  <table class="_center">
   <tr>
    <th>Hiring & Firing</th>
    <td>
-    <p>Hiring is <em>already</em> done by the team.</p>
-    <p>Firing can be done by them as well. People can learn to give feedback, but it doesn't come natural&mdash;even to bosses. We practice a language of competition and dominance and we need to learn a language of love, empathy, and support. And not just for &ldquo;firing&rdquo;, but in general. For a whole socienty, this is going to be a long process. But each company can do it relatively quickly.</p>
+    <p>Except in the most bureaucratic businesses, hiring <em>already</em> is done by the hiring team.</p>
+   </td>
+  </tr>
+  <tr>
+   <th>Hiring & Firing</th>
+   <td>
+    <p>Firing can be done by the team as well. Learning to give feedback doesn't come natural, even to bosses. Today, we practice a language of competition and dominance and we need to learn a language of love, empathy, and support. And not just for &ldquo;firing&rdquo;, but in general.</p>
+    <p>For a whole socienty, this is going to be a long process. But each company can do it more quickly by the process of aculturation. Among other things, this helps build trust more quickly.</p>
    </td>
   </tr>
   <tr>
@@ -75,7 +82,8 @@ image:    "disassembling-icon.svg"
   <tr>
    <th>Mediating Conflict</th>
    <td>
-    <p>Can be done by triads. Also, training on the effect of language (see above), which is a reflection of ideology and habits.</p>
+    <p>Conflict mediation can be handled by triads.</p>
+    <p>Training on the effect of language (see above), which is a reflection of ideology and habits.</p>
    </td>
   </tr>
   <tr>
@@ -83,9 +91,8 @@ image:    "disassembling-icon.svg"
   </tr>
   <tr>
    <th>Defending You From Other Bosses</th>
-   <td>Without a hierarchy, there are no bosses competing for power, on the attach, or to be defended from. That particular source of stress is no more.</td>
-   <td>
-    <p>Besides, without a hierarchy you don't need to be &ldquo;defended&rdquo; because nobody is attacking you. We all need to learn to take in everything that others say to us as feedback, something to learn from. About us, and, most importantly, about them. And, yes, this is different and will feel different at first, but it is our chance to evolve.</p>
+   <td>Without a hierarchy, there are no bosses competing for power, on the attach, or to be defended from. That particular source of stress is no more.</p>
+    <p>Besides, without a hierarchy you don't need to be &ldquo;defended&rdquo;. We all need to learn to take in what others say as feedback, something to learn from. Feedback is about us and about them. And, yes, this is different and will feel strange at first, but it is our chance to evolve.</p>
    </td>
   </tr>
   <tr>
@@ -94,7 +101,8 @@ image:    "disassembling-icon.svg"
   <tr>
    <th>Task assignments</th>
    <td>
-    <p>Without bosses and with transparency, people can get together and figure things to do out on their own. As an added bonus, they can take into consideration what is more meaningful to them. They have an Expressed Alignment<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> to use as a guide.</p>
+    <p>Without bosses, and with transparency, people can get together and figure things to do out on their own. As an added bonus, they can take into consideration what is more meaningful to them.</p>
+    <p>People working together already have an Expressed Alignment<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> to use as a guide.</p>
     <p>
    </td>
   </tr>
