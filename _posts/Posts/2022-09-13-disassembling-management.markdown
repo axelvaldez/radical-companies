@@ -150,7 +150,7 @@ image:    "disassembling-icon.svg"
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
-  <li id="en01" style="display:none; ">
+  <li id="en01">
    <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
     <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
