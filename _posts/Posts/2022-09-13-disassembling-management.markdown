@@ -85,7 +85,7 @@ image:    "disassembling-icon.svg"
   </tr>
   <tr>
    <th>Task assignments</th>
-   <td>Without bosses and with transparency, people can get together and figure things to do out on their own. They would also take into consideration what they like and would be more meaningful to them. They have an expressed Alignment<a id="#en01"><sup id="bm01">1&nbsp;</sup></a> to use as a guide.</td>
+   <td>Without bosses and with transparency, people can get together and figure things to do out on their own. They would also take into consideration what they like and would be more meaningful to them. They have an Expressed Alignment<a id="#en01"><sup id="bm01">1&nbsp;</sup></a> to use as a guide.</td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
