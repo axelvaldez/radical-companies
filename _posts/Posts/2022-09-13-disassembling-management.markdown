@@ -60,18 +60,23 @@ image:    "disassembling-icon.svg"
   <p>The Lesser Bosses are, in theory, responsible for many, many other things. But, as often as not, these go undone or are done sporadically because the lesser bosses spend their time doing one thing or another for their bosses.</p>
 
 <h1>Decentralizing the Bosses</h1>
- <p>The <span class="_paradigm">FIAT</span> hierarchy is hostile to doing business. It makes innovation nearly impossible. A tremendous amount of money and effort is wasted on &ldquo;control theater,&rdquo; to prop up the illusion of control. Companies can be immediately more efficient by removing the <span class="_paradigm">FIAT</span> hierarchy and letting people co-manage.
+ <p>The <span class="_paradigm">FIAT</span> hierarchy is hostile to doing business. It makes innovation nearly impossible. A tremendous amount of money and effort is wasted on &ldquo;control theater,&rdquo; to prop up the illusion of control. Companies can be immediately more efficient by letting people co-manage themselves.
  <table class="_center">
   <tr>
    <th>Hiring & Firing</th>
-   <td>They are <em>already</em> done by the team.</td>
+   <td>
+    <p>Hiring is <em>already</em> done by the team.</p>
+    <p>Firing can be done by them as well. People can learn to give feedback, but it doesn't come natural&mdash;even to bosses. We practice a language of competition and dominance and we need to learn a language of love, empathy, and support. And not just for &ldquo;firing&rdquo;, but in general. For a whole socienty, this is going to be a long process. But each company can do it relatively quickly.</p>
+   </td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Mediating Conflict</th>
-   <td>Can be done by triads. Also, training on the effect of language, which is a reflection of ideology and habits.</td>
+   <td>
+    <p>Can be done by triads. Also, training on the effect of language (see above), which is a reflection of ideology and habits.</p>
+   </td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
@@ -79,41 +84,55 @@ image:    "disassembling-icon.svg"
   <tr>
    <th>Defending You From Other Bosses</th>
    <td>Without a hierarchy, there are no bosses competing for power, on the attach, or to be defended from. That particular source of stress is no more.</td>
+   <td>
+    <p>Besides, without a hierarchy you don't need to be &ldquo;defended&rdquo; because nobody is attacking you. We all need to learn to take in everything that others say to us as feedback, something to learn from. About us, and, most importantly, about them. And, yes, this is different and will feel different at first, but it is our chance to evolve.</p>
+   </td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Task assignments</th>
-   <td>Without bosses and with transparency, people can get together and figure things to do out on their own. They would also take into consideration what they like and would be more meaningful to them. They have an Expressed Alignment<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> to use as a guide.</td>
+   <td>
+    <p>Without bosses and with transparency, people can get together and figure things to do out on their own. As an added bonus, they can take into consideration what is more meaningful to them. They have an Expressed Alignment<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> to use as a guide.</p>
+    <p>
+   </td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>One-on-ones</th>
-   <td>Better done by the team or somebody who is good at it and likes doing it.</td>
+   <td>
+    <p>Part of this ritual today is to get a sense though our boss of how the hierarchy perceives you.</p>
+    <p>Better done by somebody who is good at it and likes doing it.</p></td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Career development</th>
-   <td>Better done by the team or somebody who is good at it and likes doing it.</td>
+   <td>
+    <p>Better done by the team or somebody who is good at it and likes doing it.</p>
+   </td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Training</th>
-   <td>People can train each other, mentor, give talks, etc. This is very effective because 1) people like sharing their skills, 2) they learn better from others who are a little more advanced (adjacent) on a subject, and 3) they learn better from people they socialize with.</td>
+   <td>
+    <p>People can train each other, mentor, give talks, etc. This is very effective because 1) people like sharing their skills, 2) they learn better from others who are a little more advanced (adjacent) on a particular subject, and 3) they learn better from people they socialize with.</p>
+   </td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
   <tr>
    <th>Team health</th>
-   <td></td>
+   <td>
+    <p>One thing that we don't do either at all or very well is get a measure of team health.</p>
+   </td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
@@ -130,7 +149,15 @@ image:    "disassembling-icon.svg"
     <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
     Alternatively, <em>RADICAL COMPANIES: For the Impatient.</em>
     <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div id="a" styles="display:none; ">
+     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div>
+    <div id="b" styles="display:none; ">
+     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div>
+    <div id="c" styles="display:none; ">
+     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div>
    </p>
   </li>
  </ol>
