@@ -39,7 +39,7 @@ image:    "disassembling-icon.svg"
 <h1>The Lesser Bosses</h1>
  <h2>Hiring</h2>
   <p>Except for their direct staff, the Lesser Bosses get involved in hiring just in case their boss asks. They really add no value to the process. In fact, they slow it down. After &ldquo;looking for a time that will work for the boss,&rdquo; they do a very short &ldquo;interview&rdquo; and render a decision to hire or not. This is after several interviews by the team of people who know the subject matter and are going to work with the candidate. Many go with the team&rsquo;s decision, but others don&rsquo;t, because &ldquo;I didn&rsquo;t like his&hellip; &rdquo; &ldquo;&hellip;  attitude,&rdquo; &ldquo;&hellip; gender&rdquo;, &ldquo;&hellip; the way she sat.&rdquo;</p>
-  <p>In a co-managed company, the people who are going to team up with the candidate make the final decision to hire or not. They may even do away with the interview altogether because the candidate is not just a vessel for his cognitive skills, the rest of her comes along with it.</p>
+  <p>In a co-managed company, the people who are going to team up with the candidate make the final decision to hire or not. They may even do away with the interview altogether because the candidate is not just a vessel of cognitive skills, the rest of her comes along with it.</p>
  <h2>Firing</h2>
   <p>Firing is usually left to the Lesser Boss. Many of them dislike doing it, so they ignore it or postpone doing it until things come to a head. In a co-managed company, the team can eject a person and tell him the reasons why directly. No boss needed.</p>
  <h2>Mediating Conflict</h2>
