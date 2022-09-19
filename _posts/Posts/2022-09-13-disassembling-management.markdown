@@ -63,7 +63,7 @@ image:    "disassembling-icon.svg"
   <p>The Lesser Bosses are, in theory, responsible for many, many other things. Unfortunately, these things go undone or are done sporadically because the Lesser Bosses spend their time doing one thing or another for their bosses.</p>
 
 <h1>Disassembling the Boss</h1>
- <p>Other than creating an illusion of control, the <span class="_paradigm">FIAT</span> hierarchy is hostile business. It makes innovation nearly impossible and a tremendous amount of money and effort is wasted on the hierachy and &ldquo;control theater.&rdquo; Companies could become immediately more efficient by letting go of the illusion of control and letting people co-manage themselves. This and co-ownership is they are all headed to: the next stage of evolution is for business to become co-owned and co-managed companies.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
+ <p>Other than creating an illusion of control, the <span class="_paradigm">FIAT</span> hierarchy is hostile business. It makes innovation nearly impossible and a tremendous amount of money and effort is wasted on the hierachy and &ldquo;control theater.&rdquo; Non-<span calls="_paradigm">FIAT</span> Companies are immediately more efficient by letting go of the illusion of control and letting people co-manage themselves. This and co-ownership is they are all headed to: the next stage of evolution is for business to become co-owned and co-managed companies.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
  <table class="_center">
   <tr>
    <th>Hiring</th>
