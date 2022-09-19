@@ -10,18 +10,15 @@ image:    "disassembling-icon.svg"
   <p>Ownership is really simple: the owner keeps all the surplus value.</p>
 </div>
 
-<h1>Intro</h1>
- <h2>Ownership</h2>
-  <p>You have to distinguish between the CEO and every other manager, or as well call them the Big Boss and Lesser Bosses.</p>
-  <p>The Big Boss could be any of,</p>
-  <ul>
-   <li>A founder (<em>e.g.</em>, Steve Jobs, Jeff Bezos)</li>
-   <li>A career Lesser Boss (<em>e.g.</em>, Tim Cook, Andy Jassy) who is elevated to Big Boss.</li>
-   <li>A monied type who elevates himself to Big Boss (<em>e.g.</em>, Elon Musk).</li>
-  </ul>
-  <p>The Big Boss sits at the top of the <span class="_paradigm">FIAT</span> hierarchy, the boss of the Lesser Bosses.</p>
- <h2>The Lesser Bosses</h2>
-  <p>No matter the size of the business, the Lesser Bosses compete with each other more or less furiously. There are exceptions to this, but this is the norm; the exceptions are few and far between.</p>
+<h1>Ownership</h1>
+ <p>You have to distinguish between the CEO and every other manager, or as well call them the Big Boss and Lesser Bosses.</p>
+ <p>The Big Boss could be any of,</p>
+ <ul>
+  <li>A founder (<em>e.g.</em>, Steve Jobs, Jeff Bezos)</li>
+  <li>A career Lesser Boss (<em>e.g.</em>, Tim Cook, Andy Jassy) who is elevated to Big Boss.</li>
+  <li>A monied type who elevates himself to Big Boss (<em>e.g.</em>, Elon Musk).</li>
+ </ul>
+ <p>The Big Boss sits at the top of the <span class="_paradigm">FIAT</span> hierarchy, the boss of the Lesser Bosses.</p>
 
 <h1>The Big Boss</h1>
  <h2>Rasing Capital</h2>
