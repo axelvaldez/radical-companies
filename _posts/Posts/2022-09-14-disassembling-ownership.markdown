@@ -11,7 +11,8 @@ image:    "disassembling-icon.svg"
 </div>
 
 <h1>Ownership</h1>
- <p>You have to distinguish between the CEO and every other manager, or as well call them the Big Boss and Lesser Bosses.</p>
+ <p>There are various types of ownership. One type of ownership applies to your and your family (<em>e.g.</em>, houses, cars, and coffee cups). Then there is business ownership</p>
+
  <p>The Big Boss could be any of,</p>
  <ul>
   <li>A founder (<em>e.g.</em>, Steve Jobs, Jeff Bezos)</li>
