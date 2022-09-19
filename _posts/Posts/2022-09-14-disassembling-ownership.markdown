@@ -18,9 +18,15 @@ image:    "disassembling-icon.svg"
 <h1>An Alternative</h1>
  <p>An alternative to the pervasive <span class="_paradigm">FIAT</span> business model is what we call <span class="_paradigm">RADICAL</span> companies<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>.</p>
  <p>Notice that we differentiate &ldquo;businesses&rdquo; from &ldquo;companies.&rdquo; <em>Business</em>, in the sense of manufacturing and trading, is what owners do to create profits for themselves. <em>Company</em> comes from the Latin prefix <em>con-</em> and the word <em>pan</em>, bread. Company then refers to people who break bread together. So, we talk about <span class="_paradigm">FIAT</span> <em>businesses</em> and <span class="_paradigm">RADICAL</span> <em>companies</em> as two distinct species of the same genus. Like donkeys and zebras.</p>
- <p>Like <span class="_paradigm">FIAT</span> businesses, <span class="_paradigm">RADICAL</span> companies are private and they are owned by what we call co-owners. Instead of it belonging to one or a few people, <span class="_paradigm">RADICAL</span> companies are co-owned by the people who embody it.
 
- The major similarity is Notice that we differentiate &ldquo;businesses&rdquo; from &ldquo;companies.&rdquo; <em>Business</em>, in the sense of manufacturing and trading, is what owners do to create profits for themselves. <em>Company</em> comes from the Latin prefix <em>con-</em> and the word <em>pan</em>, bread. Company then refers to people who break bread together. So, we talk about <span class="_paradigm">FIAT</span> <em>businesses</em> and <span class="_paradigm">RADICAL</span> <em>companies</em> as two distinct species of the same genus. Like donkeys and zebras.</p>
+<h1>How It Is Different</h1>
+ <ul>
+  <li>Like <span class="_paradigm">FIAT</span> businesses, <span class="_paradigm">RADICAL</span> companies are private and they are owned by what we call co-owners. Instead of it belonging to one or a few people, <span class="_paradigm">RADICAL</span> companies are co-owned by everybody who embodies it.</li>
+  <li>Instead of a static number of shares or percentage of the business, ownership of a <span class="_paradigm">RADICAL</span> is dynamic. In fact, the ownership percentage of ownership is based on your contributions, as recognized by other co-owners.</li>
+  <li>Instead of one or a handful of people, you and the other co-owners own the surplus value (<em>i.e.</em>, the profits) that you all create.</li>
+ <ul> 
+
+ <p>The major similarity is Notice that we differentiate &ldquo;businesses&rdquo; from &ldquo;companies.&rdquo; <em>Business</em>, in the sense of manufacturing and trading, is what owners do to create profits for themselves. <em>Company</em> comes from the Latin prefix <em>con-</em> and the word <em>pan</em>, bread. Company then refers to people who break bread together. So, we talk about <span class="_paradigm">FIAT</span> <em>businesses</em> and <span class="_paradigm">RADICAL</span> <em>companies</em> as two distinct species of the same genus. Like donkeys and zebras.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
