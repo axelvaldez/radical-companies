@@ -95,9 +95,6 @@ image:    "disassembling-icon.svg"
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
- </table>
- xxx
- <table>
   <tr>
    <th>Defending You From Other Bosses</th>
    <td>
@@ -118,9 +115,6 @@ image:    "disassembling-icon.svg"
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
- </table>
- xxx
- <table>
   <tr>
    <th>One-on-ones</th>
    <td>
@@ -139,9 +133,6 @@ image:    "disassembling-icon.svg"
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
- </table>
- xxx
- <table>
   <tr>
    <th>Training</th>
    <td>
@@ -157,8 +148,11 @@ image:    "disassembling-icon.svg"
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
+ </table>
+ xxx
+ <table>
   <tr>
-   <th>Team health</th>
+   <th>Team Health</th>
    <td>
     <p>One thing that Lesser Bosses don&rsquo;t do at all, consistenly, or well is get a measure of team&rdquo; health. Teams can do this for themselves, but if they need to, they can form a triad with someone external to the team (<em>i.e.</em>, triads are not limited to individuals, it can involve groups of people, too).</p>
    </td>
