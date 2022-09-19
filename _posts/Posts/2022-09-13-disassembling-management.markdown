@@ -96,7 +96,8 @@ image:    "disassembling-icon.svg"
   </tr>
   <tr>
    <th>Defending You From Other Bosses</th>
-   <td>Without a hierarchy, there are no bosses competing for power, on the attach, or to be defended from. That particular source of stress is no more.</p>
+   <td>
+    <p>Without a hierarchy, there are no bosses competing for power, on the attach, or to be defended from. That particular source of stress is no more.</p>
     <p>Besides, without a hierarchy you don&rsquo;t need to be &ldquo;defended&rdquo;. We all need to learn to take in what others say as feedback, something to learn from. Feedback is about us and about them. And, yes, this is different and will feel strange at first, but it is our chance to evolve.</p>
    </td>
   </tr>
