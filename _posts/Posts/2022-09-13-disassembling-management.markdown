@@ -45,9 +45,9 @@ image:    "disassembling-icon.svg"
 <h1>The Lesser Bosses</h1>
  <h2>Hiring</h2>
   <p>Except for their direct staff, the Lesser Bosses get involved in hiring just in case their boss asks. They really add no value to the process. In fact, they slow it down. After wasting a lot of time and effort accomodating the boss, and the delays that introduces, he does a very short &ldquo;interview&rdquo; and renders a final decision to hire or not. This happens after extensive interviewing by the team, people who know the subject matter well and are going to work with the candidate. Many Lesser Bosses go with the team&rsquo;s decision, but others don&rsquo;t, because &ldquo;I didn&rsquo;t like her&hellip; attitude&hellip; tatoos&hellip; questions.&rdquo;</p>
-  <p>In a co-managed company,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> the people who are going to team up with the candidate make the final decision to hire or not. They may even do away with the interview altogether because the candidate is not just a vessel of cognitive skills, the rest of her comes along with it, and her contributions come from her whole person.</p>
+  <p>In a co-managed company,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> the people who are going to team up with the candidate make the final decision to hire or not. They may even do away with the interview altogether because the candidate is not just a vessel of cognitive skills, the rest of her comes along with it, and her contributions come from her whole person.</p>
  <h2>Firing</h2>
-  <p>Firing is usually left to the Lesser Boss. Many of them dislike doing it, so they ignore it or postpone doing it until things come to a head. In a co-managed company, the team can eject a person and tell him the reasons why directly.<a onclick="display = block; " href="#en01"><sup id="bm01">1&nbsp;</sup></a> No boss needed.</p>
+  <p>Firing is usually left to the Lesser Boss. Many of them dislike doing it, so they ignore it or postpone doing it until things come to a head. In a co-managed company, the team can eject a person and tell him the reasons why directly.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> No boss needed.</p>
  <h2>Mediating Conflict</h2>
   <p>The Lesser Bosses are often called to play referee. If there&rsquo;s a conflict between people, he gets in the middle of it and does his best to arrive at a clean break. This general does not resolve the issue, not really, but everybody can go to their own corners to work.</p>
   <p>In a co-managed company, either people resolve the issue themselves by bringing it up and talking through it, or they involve a third person (<em>i.e.</em>, a tried) and the three of them resolve it. Additionally, they all learn new skills for how to resolve this type of issue and, more importantly, new language to keep it from becoming a problem.</p>
@@ -63,7 +63,7 @@ image:    "disassembling-icon.svg"
   <p>The Lesser Bosses are, in theory, responsible for many, many other things. Unfortunately, these things go undone or are done sporadically because the Lesser Bosses spend their time doing one thing or another for their bosses.</p>
 
 <h1>Decentralizing the Boss</h1>
- <p>The <span class="_paradigm">FIAT</span> hierarchy is hostile to doing business. It makes innovation nearly impossible. A tremendous amount of money and effort is wasted on the hierachy and &ldquo;control theater,&rdquo;. Companies can become immediately more efficient by letting go of the illusion of control and letting people co-manage themselves.
+ <p>Other than creating an illusion of control, the <span class="_paradigm">FIAT</span> hierarchy is hostile business. It makes innovation nearly impossible. A tremendous amount of money and effort is wasted on the hierachy and &ldquo;control theater,&rdquo;. Companies could become immediately more efficient by letting go of the illusion of control and letting people co-manage themselves. This and co-ownership is they are all headed to: the next stage of evolution is for business to become co-owned and co-managed companies.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
  <table class="_center">
   <tr>
    <th>Hiring</th>
@@ -107,7 +107,7 @@ image:    "disassembling-icon.svg"
    <th>Task assignments</th>
    <td>
     <p>Without bosses, and with transparency, people can get together and figure things to do out on their own. As an added bonus, they can take into consideration what is more meaningful to them.</p>
-    <p>People working together already have an Expressed Alignment<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> to use as a guide.</p>
+    <p>People working together already have an Expressed Alignment<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> to use as a guide.</p>
    </td>
   </tr>
   <tr>
@@ -184,6 +184,17 @@ image:    "disassembling-icon.svg"
     Alternatively, you may want to read the shorter <em>RADICAL COMPANIES: For the Impatient.</em>
     <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item">
+    Matt Perez, Adrian Perez, Jose Leal.
+    <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
+    2021.
+    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
+    Alternatively, you may want to read the shorter <em>RADICAL COMPANIES: For the Impatient.</em>
+    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
