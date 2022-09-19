@@ -16,7 +16,7 @@ image:    "disassembling-icon.svg"
  <p><span class="_paradigm">FIAT</span> businesses are hierarchical. They can be generous and progressive, like Patagonia, but, no matter, their overarching goal is to make profits for its owners.</p>
 
 <h1>An Alternative Ownership Model</h1>
- <p>An alternative to the pervasive <span class="_paradigm">FIAT</span> business model is what we call <span class="_paradigm">RADICAL</span> companies<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>. &ldquo;Business&rdquo; is what owners do to grow their profits. Company comes from Latin, <em>con-</em> and <em>pan</em>, the word for bread: people who break bread together. So, we talk about <span class="_paradigm">FIAT</span> <em>businesses</em> and <span class="_paradigm">RADICAL</span> <em>companies</em>.
+ <p>An alternative to the pervasive <span class="_paradigm">FIAT</span> business model is what we call <span class="_paradigm">RADICAL</span> companies<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>. Notice that we differentiate &ldquo;businesses&rdquo; from &ldquo;companies.&rdquo; Bbusiness is what owners do to create profits for themselves. Company comes from Latin, <em>con-</em> and <em>pan</em>, the word for bread: people who break bread together. So, we talk about <span class="_paradigm">FIAT</span> <em>businesses</em> and <span class="_paradigm">RADICAL</span> <em>companies</em>.
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
