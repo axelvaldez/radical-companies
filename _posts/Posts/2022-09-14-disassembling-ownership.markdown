@@ -45,7 +45,7 @@ image:    "disassembling-icon.svg"
    <p class="_list-item">
     Matt Perez, Adrian Perez.
     <em>Disassembling Management.</em>
-    2022.
+    RADICAL COMPANIES blog. Sep 2022.
     <<a href="https://radicalcompanies.com/2022/09/13/disassembling-management.html" target="_blank">https://radicalcompanies.com/2022/09/13/disassembling-management.html</a>>.
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
