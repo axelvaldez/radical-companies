@@ -136,7 +136,7 @@ image:    "disassembling-icon.svg"
   <tr>
    <th>Training</th>
    <td>
-    <p>People can train each other, mentor, give talks, etc. This is very effective because 1) people like sharing their skills, 2) they learn better from others who are a little more advanced (adjacent) on a particular subject, and 3) they learn better from people they socialize with.</p>
+    <p>People can train each other, mentor, give talks, etc.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> This is very effective because 1) people like sharing their skills, 2) they learn better from others who are a little more advanced (adjacent) on a particular subject, and 3) they learn better from people they socialize with.</p>
    </td>
   </tr>
   <tr>
@@ -197,6 +197,17 @@ image:    "disassembling-icon.svg"
     Alternatively, you may want to read the shorter <em>RADICAL COMPANIES: For the Impatient.</em>
     <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en05">
+   <p class="_list-item">
+    Matt Perez, Adrian Perez, Jose Leal.
+    <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
+    2021.
+    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
+    Alternatively, you may want to read the shorter <em>RADICAL COMPANIES: For the Impatient.</em>
+    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
