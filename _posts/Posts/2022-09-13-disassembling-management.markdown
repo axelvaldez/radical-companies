@@ -118,8 +118,8 @@ image:    "disassembling-icon.svg"
   <tr>
    <th>One-on-ones</th>
    <td>
-    <p>Part of this ritual today is to get a sense though our boss of how the hierarchy perceives you.</p>
-    <p>Better done by somebody who is good at it and likes doing it.</p></td>
+    <p>Today, part of this ritual is to get a sense, through our boss, of how the hierarchy perceives you, what are your chances for promotion or a raise.</p>
+    <p>In a co-managed company, anybody in your team can give you feedback on your way of relating to others or your work. You chances of &ldquo;getting a raise&rdquo; is not up one person, your boss, but by your contributionsl.</p></td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
@@ -127,7 +127,7 @@ image:    "disassembling-icon.svg"
   <tr>
    <th>Career development</th>
    <td>
-    <p>Better done by the team or somebody who is good at it and likes doing it.</p>
+    <p>See Training, below, for improving your mastery of particular subjects.</p>
    </td>
   </tr>
   <tr>
@@ -136,7 +136,13 @@ image:    "disassembling-icon.svg"
   <tr>
    <th>Training</th>
    <td>
-    <p>People can train each other, mentor, give talks, etc.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> This is very effective because 1) people like sharing their skills, 2) they learn better from others who are a little more advanced (adjacent) on a particular subject, and 3) they learn better from people they socialize with.</p>
+    <p>People can train each other, mentor, give talks, etc.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> In our experience, this is very effective because people,</p>
+     <ul>
+      <li>Like sharing their skills,</li>
+      <li>Learn better from others who are a little more advanced (adjacent) on a particular subject,</li>
+      <li>Learn more effectively from people they socialize with.</li>
+      <li>
+     </ul> 
    </td>
   </tr>
   <tr>
