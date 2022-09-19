@@ -26,7 +26,7 @@ image:    "disassembling-icon.svg"
    <li>Instead of a static number of shares, ownership of a <span class="_paradigm">RADICAL</span> company is dynamic. It changes based on contributions recognized by other co-owners.</li>
    <li>Instead of one or a handful of people, you and the other co-owners <em>own</em> the surplus value (<em>i.e.</em>, the profits) that you all create.</li>
   </ul>
-  <p>For more on management, see <em>Disassembling Managemet</em><a href="#en02"><sup id="bm02">2&nbsp;</sup></a>.</p>
+  <p>For more, see <em>Disassembling Managemet</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
