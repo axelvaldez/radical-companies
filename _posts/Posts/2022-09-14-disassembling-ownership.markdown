@@ -27,7 +27,7 @@ image:    "disassembling-icon.svg"
   </ul>
  <h2>Different</h2>
   <ul>
-   <li>Instead of a static number of shares or percentage of the business, ownership of a <span class="_paradigm">RADICAL</span> company is dynamic. As in, it changes from, say, month to month, based on contributions, as recognized by other co-owners.</li>
+   <li>Instead of a static number of shares as in <span class="_paradigm">FIAT</span> businesses, ownership of a <span class="_paradigm">RADICAL</span> company is dynamic. As in, it changes from, say, month to month, based on contributions, as recognized by other co-owners.</li>
    <li>Instead of one or a handful of people, you and the other co-owners own the surplus value (<em>i.e.</em>, the profits) that what you all create.</li>
   </ul>
 
