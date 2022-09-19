@@ -118,6 +118,9 @@ image:    "disassembling-icon.svg"
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
+ </table>
+ xxx
+ <table>
   <tr>
    <th>One-on-ones</th>
    <td>
@@ -136,6 +139,9 @@ image:    "disassembling-icon.svg"
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
+ </table>
+ xxx
+ <table>
   <tr>
    <th>Training</th>
    <td>
