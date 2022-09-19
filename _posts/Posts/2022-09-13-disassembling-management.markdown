@@ -141,16 +141,12 @@ image:    "disassembling-icon.svg"
       <li>Like sharing their skills,</li>
       <li>Learn better from others who are a little more advanced (adjacent) on a particular subject,</li>
       <li>Learn more effectively from people they socialize with.</li>
-      <li>
      </ul> 
    </td>
   </tr>
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
- </table>
- xxx
- <table>
   <tr>
    <th>Team Health</th>
    <td>
