@@ -26,6 +26,7 @@ image:    "disassembling-icon.svg"
    <li>Instead of a static number of shares, ownership of a <span class="_paradigm">RADICAL</span> company is dynamic. It changes based on contributions recognized by other co-owners.</li>
    <li>Instead of one or a handful of people, you and the other co-owners <em>own</em> the surplus value (<em>i.e.</em>, the profits) of what you all create.</li>
   </ul>
+  For more on management, see <em>Disassembling Managemet</em><a href="#en02"><sup id="bm02">2&nbsp;</sup></a>.</a>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
@@ -38,6 +39,15 @@ image:    "disassembling-icon.svg"
     Alternatively, you may want to read the shorter <em>RADICAL COMPANIES: For the Impatient.</em>
     <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    Matt Perez, Adrian Perez.
+    <em>Disassembling Management.</em>
+    2022.
+    <<a href="https://radicalcompanies.com/2022/09/13/disassembling-management.html" target="_blank">https://radicalcompanies.com/2022/09/13/disassembling-management.html</a>>.
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
