@@ -23,7 +23,7 @@ image:    "disassembling-icon.svg"
   <ul>
    <li>Like <span class="_paradigm">FIAT</span> businesses, <span class="_paradigm">RADICAL</span> companies are private. They are not owned by a goverment-in-the-name-of-the-people and they are not cooperatives.</li>
    <li><span class="_paradigm">RADICAL</span> companies are owned by what we call co-owners. Instead of it belonging to one or a few people, they are co-owned by everybody who embodies it.</li>
-   <li>Instead of a static number of shares, ownership of a <span class="_paradigm">RADICAL</span> company is dynamic. As in, it changes from, say, month to month, based on contributions, as recognized by other co-owners.</li>
+   <li>Instead of a static number of shares, ownership of a <span class="_paradigm">RADICAL</span> company is dynamic. It changes from, say, month to month, based on contributions, as recognized by other co-owners.</li>
    <li>Instead of one or a handful of people, you and the other co-owners own the surplus value (<em>i.e.</em>, the profits) that what you all create.</li>
   </ul>
 
