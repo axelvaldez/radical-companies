@@ -20,12 +20,12 @@ image:    "disassembling-icon.svg"
  <p>Notice that we differentiate &ldquo;businesses&rdquo; from &ldquo;companies.&rdquo; <em>Business</em>, in the sense of manufacturing and trading, is what owners do to create profits for themselves. <em>Company</em> comes from the Latin prefix <em>con-</em> and the word <em>pan</em>, bread. Company then refers to people who break bread together. So, we talk about <span class="_paradigm">FIAT</span> <em>businesses</em> and <span class="_paradigm">RADICAL</span> <em>companies</em> as two distinct species of the same genus. Like donkeys and zebras.</p>
 
 <h1>How They Are the Same and Different</h1>
- <h2>The Same</h2>
+ <h2>How They Are the Same</h2>
   <ul>
    <li>Like <span class="_paradigm">FIAT</span> businesses, <span class="_paradigm">RADICAL</span> companies are private and they are owned by what we call co-owners. Instead of it belonging to one or a few people, <span class="_paradigm">RADICAL</span> companies are co-owned by everybody who embodies it.</li>
    <li><span class="_paradigm">RADICAL</span> companies are private. They are not own by a goverment-in-the-name-of-the-people and they are not cooperatives.</li>
   </ul>
- <h2>Different</h2>
+ <h2>How They Different</h2>
   <ul>
    <li>Instead of a static number of shares as in <span class="_paradigm">FIAT</span> businesses, ownership of a <span class="_paradigm">RADICAL</span> company is dynamic. As in, it changes from, say, month to month, based on contributions, as recognized by other co-owners.</li>
    <li>Instead of one or a handful of people, you and the other co-owners own the surplus value (<em>i.e.</em>, the profits) that what you all create.</li>
