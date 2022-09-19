@@ -23,7 +23,7 @@ image:    "disassembling-icon.svg"
  <h2>The Same</h2>
   <ul>
    <li>Like <span class="_paradigm">FIAT</span> businesses, <span class="_paradigm">RADICAL</span> companies are private and they are owned by what we call co-owners. Instead of it belonging to one or a few people, <span class="_paradigm">RADICAL</span> companies are co-owned by everybody who embodies it.</li>
-   <li><span class="_paradigm">RADICAL</span> companies are private. They are own by a goverment and they are not cooperatives.</li>
+   <li><span class="_paradigm">RADICAL</span> companies are private. They are not own by a goverment-in-the-name-of-the-people and they are not cooperatives.</li>
   <ul>
  <h2>Different</h2>
   <ul>
