@@ -15,8 +15,8 @@ image:    "disassembling-icon.svg"
  <p>Business ownership has to do with active assets. One or a few people own the profits that come out of the business. Whether it is a sole proprietorship, a partnership, or any type of corporation (<em>i.e.</em>, including Cooperatives and B Corps), their profits belong to its owners. They&rsquo;re the only option we have today: you either own a business and its profits or you are working for paycheck. We call <em>all of these</em> <span class="_paradigm">FIAT</span> businesses, because everything is done by the absolute say so, the fiat, of the owner(s).</p>
  <p><span class="_paradigm">FIAT</span> businesses are hierarchical. They can be generous and progressive, like Patagonia, but, no matter, their overarching goal is to make profits for the owners.</p>
 
-<h1>Alternative Ownership Model</h1>
- <p>An alternative to the pervasive <span class="_paradigm">FIAT</span> businesses is what we call <span class="_paradigm">RADICAL COMPANIES</span><a href="#en01"><sup id="bm01">1&nbsp;</sup></a>. &ldquo;Business&rdquo; is what owners do to grow their profits. Company comes from Latin, <em>con-</em> and <em>pan</em>, the word for bread. This means that a company refers to people who break bread together. So, we talke about <span class="_paradigm">FIAT</span> businesses and <span class="_paradigm">RADICAL COMPANIES</span>.
+<h1>An Alternative Ownership Model</h1>
+ <p>An alternative to the pervasive <span class="_paradigm">FIAT</span> business is what we call <span class="_paradigm">RADICAL COMPANIES</span><a href="#en01"><sup id="bm01">1&nbsp;</sup></a>. &ldquo;Business&rdquo; is what owners do to grow their profits. Company comes from Latin, <em>con-</em> and <em>pan</em>, the word for bread. A company, then, refers to people who break bread together. So, we talke about <span class="_paradigm">FIAT</span> businesses and <span class="_paradigm">RADICAL COMPANIES</span>.
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
