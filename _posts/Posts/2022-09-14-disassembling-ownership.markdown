@@ -16,8 +16,8 @@ image:    "disassembling-icon.svg"
  <p><span class="_paradigm">FIAT</span> businesses are hierarchical. They can be generous and progressive, like Patagonia, but, no matter, their overarching goal is to make profits for its owners.</p>
 
 <h1>An Alternative Ownership Model</h1>
- <p>An alternative to the pervasive <span class="_paradigm">FIAT</span> business model is what we call <span class="_paradigm">RADICAL</span> companies<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>. Notice that we differentiate &ldquo;businesses&rdquo; from &ldquo;companies.&rdquo;</p>
- <p>Business, in the sense of manufacturing and trading, is what owners do to create profits for themselves. Company comes from the Latin terms <em>con-</em> and <em>pan</em>, the word for bread: people who break bread together. So, we talk about <span class="_paradigm">FIAT</span> <em>businesses</em> and <span class="_paradigm">RADICAL</span> <em>companies</em> as two distinct species, like a donkey and a zebra.</p>
+ <p>An alternative to the pervasive <span class="_paradigm">FIAT</span> business model is what we call <span class="_paradigm">RADICAL</span> companies<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>.</p>
+ <p>Notice that we differentiate &ldquo;businesses&rdquo; from &ldquo;companies.&rdquo; <em>Business</em>, in the sense of manufacturing and trading, is what owners do to create profits for themselves. <em>Company</em> comes from the Latin prefix <em>con-</em> and the word <em>pan</em>, bread. Company then refers to people who break bread together. So, we talk about <span class="_paradigm">FIAT</span> <em>businesses</em> and <span class="_paradigm">RADICAL</span> <em>companies</em> as two distinct species, of the same genus. Like donkeys and zebras.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
