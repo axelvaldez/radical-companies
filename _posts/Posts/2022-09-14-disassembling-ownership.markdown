@@ -10,14 +10,17 @@ image:    "disassembling-icon.svg"
   <p>Business ownership is really simple: owners keep all the surplus value.</p>
 </div>
 
-<h1>Ownership</h1>
+<h1>Disassembling Ownership</h1>
  <p>There are various types of ownership. One type of ownership is personal and another type is business ownership.  Personal ownership has to do with deprecating assets: houses, cars, and coffee cups.
  <p>Business ownership has to do with active assets. One or a few people own the profits that come out of the business. Whether it is a sole proprietorship, a partnership, or any type of corporation (<em>i.e.</em>, including Cooperatives and B Corps), their profits belong to its owners. They&rsquo;re the only option we have today: you either own a business and its profits or you are working for paycheck. We call <em>all of these</em> <span class="_paradigm">FIAT</span> businesses, because everything is done by the absolute say so, the fiat, of the owner(s).</p>
  <p><span class="_paradigm">FIAT</span> businesses are hierarchical. They can be generous and progressive, like Patagonia, but, no matter, their overarching goal is to make profits for its owners.</p>
 
-<h1>An Alternative Ownership Model</h1>
+<h1>An Alternative</h1>
  <p>An alternative to the pervasive <span class="_paradigm">FIAT</span> business model is what we call <span class="_paradigm">RADICAL</span> companies<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>.</p>
- <p>Notice that we differentiate &ldquo;businesses&rdquo; from &ldquo;companies.&rdquo; <em>Business</em>, in the sense of manufacturing and trading, is what owners do to create profits for themselves. <em>Company</em> comes from the Latin prefix <em>con-</em> and the word <em>pan</em>, bread. Company then refers to people who break bread together. So, we talk about <span class="_paradigm">FIAT</span> <em>businesses</em> and <span class="_paradigm">RADICAL</span> <em>companies</em> as two distinct species, of the same genus. Like donkeys and zebras.</p>
+ <p>Notice that we differentiate &ldquo;businesses&rdquo; from &ldquo;companies.&rdquo; <em>Business</em>, in the sense of manufacturing and trading, is what owners do to create profits for themselves. <em>Company</em> comes from the Latin prefix <em>con-</em> and the word <em>pan</em>, bread. Company then refers to people who break bread together. So, we talk about <span class="_paradigm">FIAT</span> <em>businesses</em> and <span class="_paradigm">RADICAL</span> <em>companies</em> as two distinct species of the same genus. Like donkeys and zebras.</p>
+ <p>Like <span class="_paradigm">FIAT</span> businesses, <span class="_paradigm">RADICAL</span> companies are private and they are owned by what we call co-owners. Instead of it belonging to one or a few people, <span class="_paradigm">RADICAL</span> companies are co-owned by the people who embody it.
+
+ The major similarity is Notice that we differentiate &ldquo;businesses&rdquo; from &ldquo;companies.&rdquo; <em>Business</em>, in the sense of manufacturing and trading, is what owners do to create profits for themselves. <em>Company</em> comes from the Latin prefix <em>con-</em> and the word <em>pan</em>, bread. Company then refers to people who break bread together. So, we talk about <span class="_paradigm">FIAT</span> <em>businesses</em> and <span class="_paradigm">RADICAL</span> <em>companies</em> as two distinct species of the same genus. Like donkeys and zebras.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
