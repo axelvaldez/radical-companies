@@ -11,7 +11,8 @@ image:    "disassembling-icon.svg"
 </div>
 
 <h1>Ownership</h1>
- <p>There are various types of ownership. One type of ownership applies to your and your family (<em>e.g.</em>, houses, cars, and coffee cups). On the other hand, there is business ownership but they all amount to oligarchich ownership: one or a few people own its profits, and you don&rsquo;t. Whether it is a sole proprietorship, a partnership, or any type of corporations (<em>i.e.</em>, including Cooperatives and B Corps) their profits belong to its oligarchic owners. In essence, they are dictatorships (<em>i.e.</em>, without the power to do violence). We call all of these <span class="_paradigm">FIAT</span> businesses. In fact, they&rsquo;re the only option we have today: you either own a business and its profits or you are working for paycheck.</p>
+ <p>There are various types of ownership. One type of ownership is personal and another type is business ownership.  Personal ownership has to do with deprecating assets: houses, cars, and coffee cups.
+ <p>Business ownership has to do with active assets. One or a few people own the profits that come out of the business. Whether it is a sole proprietorship, a partnership, or any type of corporation (<em>i.e.</em>, including Cooperatives and B Corps), their profits belong to its owners. They&rsquo;re the only option we have today: you either own a business and its profits or you are working for paycheck. We call <em>all of these</em> <span class="_paradigm">FIAT</span> businesses, because everything is done by the absolute say so of the owner(s). </p>
 
  <p>The Big Boss could be any of,</p>
  <ul>
