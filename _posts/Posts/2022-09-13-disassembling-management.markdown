@@ -75,6 +75,8 @@ image:    "disassembling-icon.svg"
   <tr>
    <td class="_spacer">&nbsp;</td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>Firing</th>
    <td>
