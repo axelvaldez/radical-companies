@@ -96,6 +96,7 @@ image:    "disassembling-icon.svg"
    <td class="_spacer">&nbsp;</td>
   </tr>
  </table>
+ xxx
  <table>
   <tr>
    <th>Defending You From Other Bosses</th>
