@@ -7,7 +7,7 @@ image:    "disentangling-icon.svg"
 ---
 
 <div style="display:none;">
- <p>You need <em>capital</em>. How else are you going to get your business starte and hire the people who are going to build your software?</p>
+ <p>You need <em>capital</em>. How else are you going to get your business started and hire people to build your software?</p>
 </div>
 
 <h1>&nbsp;</h1>
