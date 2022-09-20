@@ -11,7 +11,7 @@ image:    "disentangling-icon.svg"
 </div>
 
 <h1>Businesses & Companies</h1>
- <p>There are various types of ownership. One type of ownership is personal and another type is business ownership.  Personal ownership has to do with deprecating assets: houses, cars, and coffee cups.
+ <p>There are various types of ownership. One type of ownership is personal and another type is business ownership.  Personal ownership has to do with depreciating assets: houses, cars, and coffee cups.
  <p>Business ownership has to do with active assets. One or a few people own the profits that come out of the business. Whether it is a sole proprietorship, a partnership, or any type of corporation (<em>i.e.</em>, including Cooperatives and B Corps), their profits belong to its owners. They&rsquo;re the only option we have today: you either own a business and its profits or you are working for paycheck. We call <em>all of these</em> <span class="_paradigm">FIAT</span> businesses, because everything is done by the absolute say so, the fiat, of the owner(s).</p>
  <p><span class="_paradigm">FIAT</span> businesses are hierarchical. They can be generous and progressive, like Patagonia, but, no matter, their overarching goal is to make profits for its owners.</p>
 
