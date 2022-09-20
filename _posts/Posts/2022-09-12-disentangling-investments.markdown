@@ -40,11 +40,11 @@ image:    "disentangling-icon.svg"
  <p>The risk is that the developer fails to finish the asset and you lose the money you invested. The Return on that Investment (ROI) is usually a percent of the profits. Kind of like a forever annuity.</p>
 
 <h1><span class="_paradigm">RADICAL</span> Investments</h1>
- <p>These are a combination of Angel investments and real estate investment. They return the principle investment plus,
+ <p>These are a combination of Angel investments and real estate investment. They return the principle investment plus,</p>
   <ul>
    <li>a percentage or multiple of it</li>
    <li>a single-digit percent of profit (<em>i.e.</em>, an annuity).</li>
-  </p>
+   </ul>
  <p>In either case, a RADICAL investment never includes any type of &ldquo;control&rdquo; or &ldquo;Board seat.&rdquo;</p>
 
 <h1>An Experiment</h1>
