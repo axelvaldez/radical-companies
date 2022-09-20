@@ -28,7 +28,7 @@ image:    "disentangling-icon.svg"
  <img
   src="/assets/img/ins-and-outs-angels.svg"
   width="70%"
-  alt="">
+  alt="A circle with one arrow going in, labeled 'High hopes and enthusiasm' and one arrow going out, labeled 'Promisory note.'">
 </div>
 
  <table>
@@ -61,7 +61,7 @@ image:    "disentangling-icon.svg"
  <img
   src="/assets/img/ins-and-outs-vcs.svg"
   width="70%"
-  alt="A circle with three arrows going in, representing inputs. From top to bottom, they are 'Market Fit' service or product, Promises,  ">
+  alt="A circle with three arrows going in, representing inputs. From top to bottom, 1) 'Market Fit' service or product, 2) High hopes and enthusiasm, and 3) Early clients. The outputs are, from top to bottom, 1) Seed or A-round high risk cash, 2) A pool of (non-voting) shares for early employees, 3) term sheet, and 4) Board of Directors seat for each investor.">
 </div>
 
  <table>
