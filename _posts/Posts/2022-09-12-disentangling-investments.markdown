@@ -32,6 +32,8 @@ image:    "disentangling-icon.svg"
    <td>
     <p>Promises</p>
    </td>
+  </tr>
+  <tr>
    <th>
     <p style="text-align: right">Output</p>
    </th>
@@ -86,7 +88,7 @@ image:    "disentangling-icon.svg"
 <h1>An Experiment</h1>
  <p>You can experiment with a small investment or even money that you are putting up out of your own pocket. This will serve to get everybody comfortoble with how it works. Keep in mind that every co-owner will be part of honoring the terms of the investment.</p>
  <p>The first thing to keep present is that this is an investment and if things go belly up with the company,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> that money is gone. When things to well, the investment money and profits are paid according to the terms. Let&rsquo;s say the agreement is to pay back twice the principle, say, $100,000 within 48 months. In that case you need to accumulate $200K in the next 48 months.</p>
- </p>Since this is a company obligation, it needs to be treated like an expense, taken out of revenue before </p>
+ </p>There are at least two ways to treat investments: as an company obligation or as an obligation of the present co-owners. For this example, we'll treat it as a company obligation that will affect present <em>and</em> future co-owners. Since this is a company obligation, it needs to be treated like any debt and not be included in the earned dividends<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>. </p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
