@@ -76,12 +76,18 @@ image:    "disentangling-icon.svg"
  <p>The risk is that the developer fails to finish the asset and you lose the money you invested. The Return on that Investment (ROI) is usually a percent of the profits. Kind of like a forever annuity.</p>
 
 <h1><span class="_paradigm">RADICAL</span> Investments</h1>
- <p>These could be more like a combination of Angel plus real estate investment: money in exchange for exchange for a promissory note. The promise could be to return your investment plus a multiple of it or for a smaller percent of profit.</p>
- <p>No matter the details, a RADICAL investment will never include any type of “control” or “Board seat.”</p>
+ <p>These are a combination of Angel investments and real estate investment. They return the principle investment plus,
+  <ul>
+   <li>a percentage or multiple of it</li>
+   <li>a single-digit percent of profit (<em>i.e.</em>, an annuity).</li>
+  </p>
+ <p>In either case, a RADICAL investment never includes any type of &ldquo;control&rdquo; or &ldquo;Board seat.&rdquo;</p>
 
 <h1>An Experiment</h1>
- <p>?</p>
- 
+ <p>You can experiment with a small investment or even money that you are putting up out of your own pocket. This will serve to get everybody comfortoble with how it works. Keep in mind that every co-owner will be part of honoring the terms of the investment.</p>
+ <p>The first thing to keep present is that this is an investment and if things go belly up with the company,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> that money is gone. When things to well, the investment money and profits are paid according to the terms. Let&rsquo;s say the agreement is to pay back twice the principle, say, $100,000 within 48 months. In that case you need to accumulate $200K in the next 48 months.</p>
+ </p>Since this is a company obligation, it needs to be treated like an expense, taken out of revenue before </p>
+
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
