@@ -16,7 +16,7 @@ image:    "disentangling-icon.svg"
  <p><span class="_paradigm">FIAT</span> businesses are hierarchical. They can be generous and progressive, like Patagonia, but, no matter, their overarching goal is to make profits for its owners.</p>
 
 <h1>An Alternative</h1>
- <p>An alternative to the pervasive FIAT business model is what we call RADICAL companies.<sup id="bm01"><a href="#en01">1&nbsp;</a></sup></p>
+ <p>An alternative to the pervasive FIAT business model is what we call RADICAL companies<sup id="bm01"><a href="#en01">1&nbsp;</a></sup>.</p>
  <p>Notice that we differentiate “businesses” from “companies.” Business, in the sense of manufacturing and trading, is what owners do to create profits for themselves. Company comes from the Latin prefix con- and the word pan, bread. Company then refers to people who break bread together. So, we talk about FIAT businesses and RADICAL companies as two distinct species of the same genus. Like donkeys and zebras.</p>
 
 <h1>Disentangling Ownership</h1>
@@ -24,7 +24,7 @@ image:    "disentangling-icon.svg"
  <p>RADICAL companies are owned by what we call co-owners. Instead of it belonging to one or a few people, they are co-owned by everybody who embodies it.</p>
  <p>Instead of a static number of shares, ownership of a RADICAL company is dynamic. It changes based on contributions recognized by other co-owners.</p>
  <p>Instead of one or a handful of people, you and the other co-owners own the surplus value (i.e., the profits) that you all create.</p>
- <p>For more, see Disentangling Management.<sup id="bm02"><a href="#en02">2&nbsp;</a></sup></p>
+ <p>For more, see Disentangling Management<sup id="bm02"><a href="#en02">2&nbsp;</a></sup>.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
