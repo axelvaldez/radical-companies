@@ -61,7 +61,7 @@ image:    "disentangling-icon.svg"
  <img
   src="/assets/img/ins-and-outs-vcs.svg"
   width="70%"
-  alt="">
+  alt="A circle with three arrows going in, representing inputs. From top to bottom, they are 'Market Fit' service or product, Promises,  ">
 </div>
 
  <table>
