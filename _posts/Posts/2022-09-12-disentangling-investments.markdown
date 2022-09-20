@@ -23,10 +23,10 @@ image:    "disentangling-icon.svg"
 <h1>Disentangling Investments</h1>
  <p>Angels trade the money for a “promissory note.” They do promise to either return you capital plus a percentage of it or issue you shares, once the VCs step up to the table.</p>
  <p>Notice that there are no shares and no Board at this point. Some Angels also act like advisors, but that is very different from a Board empowered by capital.</p>
- <img class="_center"
-  src="/assets/img/ins-and-outs-angels.svg"
-  width="70%"
-  alt="A circle with one arrow going in, labeled 'High hopes and enthusiasm' and one arrow going out, labeled 'Promisory note.'">
+  <img class="_center"
+   src="/assets/img/ins-and-outs-angels.svg"
+   width="70%"
+   alt="A circle with one arrow going in, labeled 'High hopes and enthusiasm' and one arrow going out, labeled 'Promisory note.'">
  <p>VCs are different,</p>
   <img class="_center"
    src="/assets/img/ins-and-outs-vcs.svg"
