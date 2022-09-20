@@ -17,7 +17,7 @@ image:    "disentangling-icon.svg"
  <p>So, yes, you need capital. But what does that even mean? You know little to nothing about. You need to learn more about it and what it entails.</p>
 
 <h1>The Money Folks</h1>
- <p>You went to a bank but it turned out that they loan money against assets that are worth as much as the loan. They are pretty safe and you get the capital in one big lump. Unfortunately, you don't have any safe assets to offer. If you were an established business you'd have a revenue stream to offer, but you don't have that, either. So, scratch banks.</p>
+ <p>You went to a bank but it turned out that they loan money against assets that are worth as much as the loan. They are play it safe, but you get the capital in one big lump. Unfortunately, you don't have any safe assets to offer. If you were an established business you'd have a revenue stream to offer, but you don't have that, either. So, scratch banks.</p>
  <p>Next on the list is Angels. Essentially, wealthy people who have been through a similar experience and feel some sympathy for you. They can put up some of the money you need and, if convince enough of them, you can get your new business going you.</p>
  <p>Right below them are the VCs, so you talk to a few of them to see if you can skip the Angels altogether. They are very nice, but essentially they tell you that you need “market fit” before  we can make an investment. “We are responsible, y’know, to our Limited Partners. So, you'd better off going the Angel route for now.”</p>
 
