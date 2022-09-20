@@ -12,9 +12,8 @@ image:    "disentangling-icon.svg"
 
 <h1>&nbsp;</h1>
  <p>This, too, shall pass, but for now, you need <em>capital</em>.</p>
- <p>How else are you going to get your business started? How else are you going to hire the people who are going to build your software?</p>
- <p>At least, you don't have to pay for big offices at this point of the COVID-19 pandemic, but you still need a budget for socializing spaces—that is very important to the health of the business, right?</p>
- <p>So, yes, you need capital. But what does that even mean? You know little to nothing about. You need to learn more about it and what it entails.</p>
+ <p>How else are you going to get your business started? How else are you going to hire the people who are going to build your software? At least, you don't have to pay for office space now, but you still need a budget for socializing spaces (<em>i.e.</em>, because socializing is very important to the team health)</p>
+ <p>So, yes, you need capital. But what does that even mean? You need to learn more about it and what it entails.</p>
 
 <h1>The Money Folks</h1>
  <p>You went to a bank but it turned out that they loan money against assets that are worth as much as the loan. They are play it safe, but you get the capital in one big lump. Unfortunately, you don't have any safe assets to offer. If you were an established business you'd have a revenue stream to offer, but you don't have that, either. So, scratch banks.</p>
