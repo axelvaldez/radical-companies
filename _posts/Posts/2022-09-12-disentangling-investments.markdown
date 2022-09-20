@@ -55,7 +55,7 @@ image:    "disentangling-icon.svg"
    </th>
    <td>
     <p>Market Fit Service or Product</p>
-    <p>Voting shares in said Service or Product</p>
+    <p>Board Seat</p>
     <p>Promises</p>
    </td>
   </tr>
