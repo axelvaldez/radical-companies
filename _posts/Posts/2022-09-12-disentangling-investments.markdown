@@ -34,6 +34,9 @@ image:    "disentangling-icon.svg"
    </td>
   </tr>
   <tr>
+   <td class="_spacer"></td>
+  </tr>
+  <tr>
    <th>
     <p style="text-align: right">Output</p>
    </th>
@@ -56,6 +59,9 @@ image:    "disentangling-icon.svg"
     <p>Voting shares in said Service or Product</p>
     <p>Promises</p>
    </td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
   </tr>
   <tr>
    <th>
