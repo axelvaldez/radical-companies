@@ -67,7 +67,7 @@ image:    "disentangling-icon.svg"
     <p style="text-align: right">Output</p>
    </th>
    <td>
-    <p>Seed or A-round cash at high risk</p>
+    <p><em>Seed</em> or <em>A-round</em> cash at high risk</p>
     <p>A pool of (non-voting) shares in the business, usually around 20%</p>
     <p>Board of Directors seat for each investor</p>
    </td>
