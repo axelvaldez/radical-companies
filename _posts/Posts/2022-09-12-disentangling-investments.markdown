@@ -29,7 +29,6 @@ image:    "disentangling-icon.svg"
     <p style="text-align: right">Input</p>
    </th>
    <td>
-   <td>
     <p>Promises</p>
    </td>
   </tr>
