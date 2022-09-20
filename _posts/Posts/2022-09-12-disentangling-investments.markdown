@@ -3,7 +3,7 @@ layout:   post
 title:    "Disentangling Investments"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
-image:    "disassembling-icon.svg"
+image:    "disentangling-icon.svg"
 ---
 
 <div style="display:none;">

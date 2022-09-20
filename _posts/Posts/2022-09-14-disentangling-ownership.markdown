@@ -3,7 +3,7 @@ layout:   post
 title:    "Disentangling Ownership"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
-image:    "disassembling-icon.svg"
+image:    "disentangling-icon.svg"
 ---
 
 <div style="display:none;">
@@ -26,7 +26,7 @@ image:    "disassembling-icon.svg"
    <li>Instead of a static number of shares, ownership of a <span class="_paradigm">RADICAL</span> company is dynamic. It changes based on contributions recognized by other co-owners.</li>
    <li>Instead of one or a handful of people, you and the other co-owners <em>own</em> the surplus value (<em>i.e.</em>, the profits) that you all create.</li>
   </ul>
-  <p>For more, see <em>Disassembling Managemet</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+  <p>For more, see <em>Disentangling Managemet</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
@@ -44,9 +44,9 @@ image:    "disassembling-icon.svg"
   <li id="en02">
    <p class="_list-item">
     Matt Perez, Adrian Perez.
-    <em>Disassembling Management.</em>
+    <em>Disentabling Management.</em>
     RADICAL COMPANIES blog. Sep 2022.
-    <<a href="https://radicalcompanies.com/2022/09/13/disassembling-management.html" target="_blank">https://radicalcompanies.com/2022/09/13/disassembling-management.html</a>>.
+    <<a href="https://radicalcompanies.com/2022/09/13/disentangling-management.html" target="_blank">https://radicalcompanies.com/2022/09/13/disentangling-management.html</a>>.
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
