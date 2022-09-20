@@ -23,75 +23,16 @@ image:    "disentangling-icon.svg"
 <h1>Disentangling Investments</h1>
  <p>Angels trade the money for a “promissory note.” They do promise to either return you capital plus a percentage of it or issue you shares, once the VCs step up to the table.</p>
  <p>Notice that there are no shares and no Board at this point. Some Angels also act like advisors, but that is very different from a Board empowered by capital.</p>
-
-<div class="_center">
- <img
+ <img class="_center"
   src="/assets/img/ins-and-outs-angels.svg"
   width="70%"
   alt="A circle with one arrow going in, labeled 'High hopes and enthusiasm' and one arrow going out, labeled 'Promisory note.'">
-</div>
-
- <table>
-  <tr>
-   <th>
-    <p style="text-align: right">Input</p>
-   </th>
-   <td>
-    <p>Promises</p>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>
-    <p style="text-align: right">Output</p>
-   </th>
-   <td>
-    <p>Little cash at very high risk</p>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
- </table>
  <p>VCs are different,</p>
-
-<div class="_center">
- <img
-  src="/assets/img/ins-and-outs-vcs.svg"
-  width="70%"
-  alt="A circle with three arrows going in, representing inputs. From top to bottom, 1) 'Market Fit' service or product, 2) High hopes and enthusiasm, and 3) Early clients. The outputs are, from top to bottom, 1) Seed or A-round high risk cash, 2) A pool of (non-voting) shares for early employees, 3) term sheet, and 4) Board of Directors seat for each investor.">
-</div>
-
- <table>
-  <tr>
-   <th>
-    <p style="text-align: right">Input</p>
-   </th>
-   <td>
-    <p>Market Fit Service or Product</p>
-    <p>Board Seat</p>
-    <p>Promises</p>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>
-    <p style="text-align: right">Output</p>
-   </th>
-   <td>
-    <p><em>Seed</em> or <em>A-round</em> cash at high risk</p>
-    <p>A pool of (non-voting) shares in the business, usually around 20%</p>
-    <p>Board of Directors seat for each investor</p>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
- </table>
+  <img class="_center"
+   src="/assets/img/ins-and-outs-vcs.svg"
+   width="70%"
+   alt="A circle with three arrows going in, representing inputs. From top to bottom, 1) 'Market Fit' service or product, 2) High hopes and enthusiasm, and 3) Early clients. The outputs are, from top to bottom, 1) Seed or A-round high risk cash, 2) A pool of (non-voting) shares for early employees, 3) term sheet, and 4) Board of Directors seat for each investor.">
+ </div>
  <p>The main difference is that the VCs now have control of your business. Complete control, legal fantasies aside.</p>
  <p>Lots of people would beg to differ and they will bring up this and that reason for why that is not <em>quite</em> the case. But it's a fantasy, a myth for sleeping better at night, subtleties required by the law of the land but which make no difference if the Board wants to fire your ass.</p>
  <p>This is, at least, how it works in the technology business. Other business areas work differently.</p>
