@@ -32,7 +32,6 @@ image:    "disentangling-icon.svg"
    src="/assets/img/ins-and-outs-vcs.svg"
    width="70%"
    alt="A circle with three arrows going in, representing inputs. From top to bottom, 1) 'Market Fit' service or product, 2) High hopes and enthusiasm, and 3) Early clients. The outputs are, from top to bottom, 1) Seed or A-round high risk cash, 2) A pool of (non-voting) shares for early employees, 3) term sheet, and 4) Board of Directors seat for each investor.">
- </div>
  <p>The big difference is that those Board of Diector seats give the VCs control of your business; well, at least control of <em>you</em>. Complete control, legal fantasies aside.</p>
  <p>Lots of people would beg to differ and they will bring up this and that reason for why that is not <em>quite</em> the case. But it's a fantasy, a myth for sleeping better at night, subtleties required by the law of the land but which make no difference if the Board wants to fire your ass.</p>
  <p>This is, at least, how it works in the technology business. Other business areas work differently.</p>
