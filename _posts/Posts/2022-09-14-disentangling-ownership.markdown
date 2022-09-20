@@ -11,22 +11,20 @@ image:    "disentangling-icon.svg"
 </div>
 
 <h1>Businesses & Companies</h1>
- <p>There are various types of ownership. One type of ownership is personal and another type is business ownership.  Personal ownership has to do with depreciating assets: houses, cars, and coffee cups.
+ <p>There are various types of ownership. One type of ownership is personal and another type is business ownership. Personal ownership has to do with depreciating assets: houses, cars, and coffee cups.</p>
  <p>Business ownership has to do with active assets. One or a few people own the profits that come out of the business. Whether it is a sole proprietorship, a partnership, or any type of corporation (<em>i.e.</em>, including Cooperatives and B Corps), their profits belong to its owners. They&rsquo;re the only option we have today: you either own a business and its profits or you are working for paycheck. We call <em>all of these</em> <span class="_paradigm">FIAT</span> businesses, because everything is done by the absolute say so, the fiat, of the owner(s).</p>
  <p><span class="_paradigm">FIAT</span> businesses are hierarchical. They can be generous and progressive, like Patagonia, but, no matter, their overarching goal is to make profits for its owners.</p>
 
 <h1>An Alternative</h1>
- <p>An alternative to the pervasive <span class="_paradigm">FIAT</span> business model is what we call <span class="_paradigm">RADICAL</span> companies<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>.</p>
- <p>Notice that we differentiate &ldquo;businesses&rdquo; from &ldquo;companies.&rdquo; <em>Business</em>, in the sense of manufacturing and trading, is what owners do to create profits for themselves. <em>Company</em> comes from the Latin prefix <em>con-</em> and the word <em>pan</em>, bread. Company then refers to people who break bread together. So, we talk about <span class="_paradigm">FIAT</span> <em>businesses</em> and <span class="_paradigm">RADICAL</span> <em>companies</em> as two distinct species of the same genus. Like donkeys and zebras.</p>
+ <p>An alternative to the pervasive FIAT business model is what we call RADICAL companies.<sup id="bm01"><a href="#en01">1&nbsp;</a></sup></p>
+ <p>Notice that we differentiate “businesses” from “companies.” Business, in the sense of manufacturing and trading, is what owners do to create profits for themselves. Company comes from the Latin prefix con- and the word pan, bread. Company then refers to people who break bread together. So, we talk about FIAT businesses and RADICAL companies as two distinct species of the same genus. Like donkeys and zebras.</p>
 
 <h1>Disentangling Ownership</h1>
-  <ul>
-   <li>Like <span class="_paradigm">FIAT</span> businesses, <span class="_paradigm">RADICAL</span> companies are private. They are not owned by a goverment-in-the-name-of-the-people and they are not cooperatives.</li>
-   <li><span class="_paradigm">RADICAL</span> companies are owned by what we call co-owners. Instead of it belonging to one or a few people, they are co-owned by everybody who embodies it.</li>
-   <li>Instead of a static number of shares, ownership of a <span class="_paradigm">RADICAL</span> company is dynamic. It changes based on contributions recognized by other co-owners.</li>
-   <li>Instead of one or a handful of people, you and the other co-owners <em>own</em> the surplus value (<em>i.e.</em>, the profits) that you all create.</li>
-  </ul>
-  <p>For more, see <em>Disentangling Managemet</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+ <p>Like FIAT businesses, RADICAL companies are private. They are not owned by a benevolent-government-in-the-name-of-the-people and they are not cooperatives.</p>
+ <p>RADICAL companies are owned by what we call co-owners. Instead of it belonging to one or a few people, they are co-owned by everybody who embodies it.</p>
+ <p>Instead of a static number of shares, ownership of a RADICAL company is dynamic. It changes based on contributions recognized by other co-owners.</p>
+ <p>Instead of one or a handful of people, you and the other co-owners own the surplus value (i.e., the profits) that you all create.</p>
+ <p>For more, see Disentangling Management.<sup id="bm02"><a href="#en02">2&nbsp;</a></sup></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
