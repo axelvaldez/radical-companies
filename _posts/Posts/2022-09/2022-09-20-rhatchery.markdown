@@ -7,14 +7,14 @@ image:    "rHatchery-icon.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>I think we know what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into <span class="_paradigm">RADICAL</span> companies. We want to engage with businesses that want to get away from the <span class="_paradigm">FIAT</span> path and become healthy companies.<p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>I think we know what the rHatchery is. In any case, I am pretty sure of this: We want to help <span class="_paradigm">FIAT</span> businesses transform into <span class="_paradigm">RADICAL</span> companies. We wanted to engage with businesses that wanted to get away from the traditional <span class="_paradigm">FIAT</span> path and switch to a healthier way of operating.<p>
- <p>We came up with many different ways of doing it, but all fell short one way or the other. The rHatchery had to eat its own dog food.</p>
+ <p>I think we know what the rHatchery is. In any case, I am pretty sure of this: We want to help <span class="_paradigm">FIAT</span> businesses transform into <span class="_paradigm">RADICAL</span> companies. We want to engage with businesses that want to get away from the <span class="_paradigm">FIAT</span> path and become healthy companies.<p>
 
-<h1>&nbsp;</h1>
+<h1>How We Got Here</h1>
+ <p>We came up with many different ways of doing it, but all fell short one way or the other. First, We came to conclusion that the rHatchery had to eat its own dog food.</p>
  <p></p>
  <p></p>
  <p></p>
