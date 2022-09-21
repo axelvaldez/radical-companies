@@ -15,7 +15,7 @@ image:    "galileo-experimenting-icon.svg"
  </p>Where I am unclear about is their approach to co-owneship. In particular, their &ldquo;profit sharing&rdquo; plans, so I am going to share an opportunity for them: move from K2K&rsquo; model of 70% for <span class="_paradigm">FIAT</span> owners and 30% for co-owner/employees split of the profits (<em>i.e</em>, really, earned dividend) to a 0/100 scheme.</p>
  <div class="_center">
   <img
-   src="/assets/img/co-ownership-spectrum.svg"
+   src="/assets/img/krisos-potential.svg"
    width="70%"
    alt="A horizontal like label 'co-ownership spectrum' show FIAT at the extreme left, RADICAL at the extrem right, and K2K in between.">
  </div>
