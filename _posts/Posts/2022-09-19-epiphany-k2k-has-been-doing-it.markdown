@@ -110,3 +110,6 @@ image:    "galileo-experimenting-icon.svg"
      <li>  First of Earth (11 episodes): <a href="https://radical-companies-repo/2022/03/01/E01-first-of-earth" target="_blank">https://radical-companies-repo/2022/03/01/E01-first-of-earth</a></li>
      <li>The FIAT Enclaves (3 episodes): <a href="https://2022/03/11/E11/the-fiat-enclaves" target="_blank">https://2022/03/11/E11/the-fiat-enclaves</a></li>
     </ul>
+
+<h1 class="_section">CREDITS</h1>
+ <p>The icon image <em>Galileo's Falling Bodies Experiment</em>, is by <a jref="https://www.hireanartist.net/style.asp?cartoonist=603">Gary Brown</a>.</p>
