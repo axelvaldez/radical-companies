@@ -20,34 +20,6 @@ image:    "galileo-experimenting-icon.svg"
    alt="A horizontal like label 'co-ownership spectrum' show FIAT at the extreme left, RADICAL at the extrem right, and K2K in between.">
  </div>
  <p>In fact, this one of the experiments we thought of, but as it turns out, K2K has been doing this for quite a while. It would be ideal now to get data, or at least testimonials, from the <span class="_paradigm">FIAT</span> owners as to how it has been for them. Particularly, I'd like to know if their dividends have gone up or down or sideways.</p>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>relationships</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>autonomy</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>collaboration</em></td>
-  </tr>
-  <tr>
-   <td class="_spacer_">&nbsp;</td>
-  </tr>
- </table>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
