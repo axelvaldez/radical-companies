@@ -3,7 +3,7 @@ layout:   post
 title:    "K2K Has Been Doing It"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "about-daos.svg"
+image:    "galileo-experimenting-icon.svg"
 ---
 
 <div style="display:none;">
