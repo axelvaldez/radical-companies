@@ -44,23 +44,15 @@ image:    "galileo-experimenting-icon.svg"
   </li>
   <li id="en03">
    <p class="_list-item">
-    Matt Perez, Adrian Perez, Jose Leal.
-    <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
-    2021.
+    rHatchery
     <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
-    Alternatively, you may want to read the shorter <em>RADICAL COMPANIES: For the Impatient.</em>
-    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en04">
    <p class="_list-item">
-    Matt Perez, Adrian Perez, Jose Leal.
-    <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
-    2021.
-    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
-    Alternatively, you may want to read the shorter <em>RADICAL COMPANIES: For the Impatient.</em>
-    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
+    Krisos
+    <<a href="https://krisos.eu/" target="_blank">https://krisos.eu/</a>>.
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
