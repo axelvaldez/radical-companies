@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Epiphany: Krisos’ Future!"
+title:    "Epiphany: The Future of Krisos!"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "galileo-experimenting-icon.svg"
