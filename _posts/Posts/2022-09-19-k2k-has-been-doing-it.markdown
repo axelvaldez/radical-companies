@@ -20,7 +20,7 @@ image:    "galileo-experimenting-icon.svg"
    alt="A horizontal like label 'co-ownership spectrum' show FIAT at the extreme left, RADICAL at the extrem right, and K2K in between.">
  </div>
  <p>It would be ideal now to get data, or at least testimonials, from the <span class="_paradigm">FIAT</span> owners as to how it has been for them. Particularly, I'd like to know if their dividends have gone up or down or sideways.</p>
- <p>Of course, the next step would be to move them from 70% to 60% to&hellip; to 0%! And that's where rHatchery<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> and Krisos<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>  come in (and, of course, K2K).xxx</p>
+ <p>Of course, the next step would be to move them from 70% to 60% to&hellip; to 0%! And that's where rHatchery<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> and Krisos<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>  come in (and, of course, K2K).</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
