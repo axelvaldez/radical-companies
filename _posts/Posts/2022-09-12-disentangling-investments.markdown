@@ -77,14 +77,6 @@ image:    "disentangling-icon.svg"
   </li>
  </ol>
 
-<div style="display:grid; ">
- <div>A</div>
- <div>B</div>
- <div>C</div>
- <div>D</div>
- <div>E</div>
-</div>
-
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
