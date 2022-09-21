@@ -7,7 +7,7 @@ image:    "galileo-experimenting-icon.svg"
 ---
 
 <div style="display:none;">
- <p>We’ve been thinking hard about ways to ease into the co-ownership model. Then, just this morning I realized that K2K, in Bilbao, Spain, has already been running this experiment for quite a while.</p>
+ <p>Krisos is in the business of transforming <span class="_paradigm">FIAT</span> business into co-managed, co-owned companies. Whereas K2K works with current <span class="_paradigm">FIAT</span> owners, Krisos buys them out.</p>
 </div>
 
 <h1>&nbsp;</h1>
