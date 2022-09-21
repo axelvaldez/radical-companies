@@ -11,16 +11,45 @@ image:    "galileo-experimenting-icon.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>We&rsquo;ve been thinking hard about ways to ease into the co-ownership model and we've been trying differeht things out. Then, just this morning I realized that K2K Emocionando, in Bilbao, Spain,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> has already been running this experiment for quite a while. K2K is in the business of helping <span class="_paradigm">FIAT</span><a href="#en02"><sup id="bm02">2&nbsp;</sup></a> business transform into co-managed companies. At least, that is how they talk about it and how I thought of them. But their model also includes a split of the profits between the <span class="_paradigm">FIAT</span> owners and the co-owners (<em>i.e.</em>, the people formerly known as employees).</p>
- <p>In our book, <span class="_paradigm">RADICAL COMPANIES</span> we assumed no split at all. Today the business is owned 100% by the <span class="_paradigm">FIAT</span> owners, (magical) transaction happens, and tomorrow the company is owned 100% by its co-owners. K2K on the other hand starts and ends, at least at the 30,000 foot level, with a 70-30 split. I had not realized until this morning that these two approaches were points on the same spectrum,</p>
+ <p>Krisos, created by ex-K2K consultants, is in the business of transforming <span class="_paradigm">FIAT</span> business into co-managed, co-owned companies (<em>i.e.</em>, close to the <span class="_paradigm">RADICAL</span> model). The big difference is that whereas K2K works with current <span class="_paradigm">FIAT</span> owners, Krisos buys them out. THeir hypothesis is that without the <span class="_paradigm">FIAT</span> owners, they can be more effective in the transformation to co-management.</p>
+ </p>Where I am unclear about is their approach to co-owneship. In particular, their &ldquo;profit sharing&rdquo; plans, so I am going to share an opportunity for them: move from K2K&rsquo; model of 70% for <span class="_paradigm">FIAT</span> owners and 30% for co-owner/employees split of the profits (<em>i.e</em>, really, earned dividend) to a 0/100 scheme.</p>
  <div class="_center">
   <img
    src="/assets/img/co-ownership-spectrum.svg"
    width="70%"
    alt="A horizontal like label 'co-ownership spectrum' show FIAT at the extreme left, RADICAL at the extrem right, and K2K in between.">
  </div>
- <p>It would be ideal now to get data, or at least testimonials, from the <span class="_paradigm">FIAT</span> owners as to how it has been for them. Particularly, I'd like to know if their dividends have gone up or down or sideways.</p>
- <p>Of course, the next step would be to move them from 70% to 60% to&hellip; to 0%! And that's where rHatchery<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> and Krisos<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> (and, of course, K2K) have <a href="">an opportunity</a>.</p>
+ </p>They can do this at different speeds, but it would put them in a different class altogether.</p>
+ </p>And 0/100 is what we need more of. Our own hypothesis is that it will lead to companies that go beyond the co-management model and systematically promote a solid <span class="_paradigm">RADICAL FOUNDATION</span>,</p>
+ <table align="center">
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
+   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
+   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
+   <td valign="top"><em>relationships</em></td>
+  </tr>
+  <tr>
+   <td style="height: 7px;"></td>
+  </tr>
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
+   <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
+   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
+   <td valign="top"><em>autonomy</em></td>
+  </tr>
+  <tr>
+   <td style="height: 7px;"></td>
+  </tr>
+  <tr>
+   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
+   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
+   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
+   <td valign="top"><em>collaboration</em></td>
+  </tr>
+  <tr>
+   <td class="_spacer_">&nbsp;</td>
+  </tr>
+ </table>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
