@@ -1,18 +1,17 @@
 ---
 layout:   post
-title:    "Confession: K2K Has Been Doing It"
+title:    "K2K Has Been Doing It"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "about-daos.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>We've been thinking hard about ways to ease into the co-ownership model and we've been trying differeht things out. Then, just this morning I realized that K2K, in Bilbao, Spain,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> has already been running this experiment for quite a while.</p>
 </div>
 
 <h1>&nbsp;</h1>
-
-<p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
+ <p>We've been thinking hard about ways to ease into the co-ownership model and we've been trying differeht things out. Then, just this morning I realized that K2K Emocionando, in Bilbao, Spain,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> has already been running this experiment for quite a while. K2K is in the business of helping <span class="_paradigm">FIAT</span><a href="#en02"><sup id="bm02">2&nbsp;</sup></a> business transform into co-managed companies. At least, that is how they talk about it and how I thought of them. But their model also includes a split of the profits between the <span class="_paradigm">FIAT</span> owners and the co-owners.</p>
 
   <div class="_center">
    <img
@@ -55,11 +54,20 @@ image:    "about-daos.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
+    K2K Emocionando.
+    <<a href="https://radicals.world/KozIZu" target="_blank">https://radicals.world/KozIZu</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    Matt Perez, Adrian Perez, Jose Leal.
+    <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
+    2021.
+    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
+    Alternatively, you may want to read the shorter <em>RADICAL COMPANIES: For the Impatient.</em>
+    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
