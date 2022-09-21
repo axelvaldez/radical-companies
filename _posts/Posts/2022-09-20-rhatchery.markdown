@@ -3,7 +3,7 @@ layout:   post
 title:    "rHatchery"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "about-daos.svg"
+image:    "rHatchery-icon.svg"
 ---
 
 <div style="display:none;">
