@@ -3,7 +3,7 @@ layout:   post
 title:    "Epiphany: Krisos Potential!"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "galileo-experimenting-icon.svg"
+image:    "unleashing-your-potential.svg"
 ---
 
 <div style="display:none;">
