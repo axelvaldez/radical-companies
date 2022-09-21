@@ -20,7 +20,7 @@ image:    "galileo-experimenting-icon.svg"
    alt="A horizontal like label 'co-ownership spectrum' show FIAT at the extreme left, RADICAL at the extrem right, and K2K in between.">
  </div>
  <p>It would be ideal now to get data, or at least testimonials, from the <span class="_paradigm">FIAT</span> owners as to how it has been for them. Particularly, I'd like to know if their dividends have gone up or down or sideways.</p>
- <p>Of course, the next step would be to move them from 70% to 60% to&hellip; to 0%!</p>
+ <p>Of course, the next step would be to move them from 70% to 60% to&hellip; to 0%! And that's where rHatchery</span><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>  and Krisos</span><a href="#en04"><sup id="bm04">4&nbsp;</sup></a>  come in (and, of course, K2K).</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
@@ -40,6 +40,28 @@ image:    "galileo-experimenting-icon.svg"
     Alternatively, you may want to read the shorter <em>RADICAL COMPANIES: For the Impatient.</em>
     <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    Matt Perez, Adrian Perez, Jose Leal.
+    <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
+    2021.
+    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
+    Alternatively, you may want to read the shorter <em>RADICAL COMPANIES: For the Impatient.</em>
+    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item">
+    Matt Perez, Adrian Perez, Jose Leal.
+    <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
+    2021.
+    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
+    Alternatively, you may want to read the shorter <em>RADICAL COMPANIES: For the Impatient.</em>
+    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
