@@ -12,16 +12,8 @@ image:    "galileo-experimenting-icon.svg"
 
 <h1>&nbsp;</h1>
  <p>We've been thinking hard about ways to ease into the co-ownership model and we've been trying differeht things out. Then, just this morning I realized that K2K Emocionando, in Bilbao, Spain,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> has already been running this experiment for quite a while. K2K is in the business of helping <span class="_paradigm">FIAT</span><a href="#en02"><sup id="bm02">2&nbsp;</sup></a> business transform into co-managed companies. At least, that is how they talk about it and how I thought of them. But their model also includes a split of the profits between the <span class="_paradigm">FIAT</span> owners and the co-owners (<em>i.e.</em>, the people formerly known as employees).</p>
- <p>In our book, <span class="_paradigm">RADICAL COMPANIES</span> we assumed no split whatsoever. Today the business is owned 100% by the <span class="_paradigm">FIAT</span> owners, and tomorrow the company is owned 100% by its co-owners. K2K on the other hand starts and ends with a 70-30 split (<em>i.e.</em>, at the 30,000 foot level). I had not realized until this morning that these two approaches were points on the same spectrum: <span class="_paradigm">FIAT</span> is at the zero end, <span class="_paradigm">RADICAL</span> is at the 100 end and K2K&rsquo;s in in between.</p>
-
-  <div class="_center">
-   <img
-    src="/assets/img/recs-to-rads-equation.svg"
-    width="70%"
-    alt="">
-  </div>
-
- <table align="center">
+ <p>In our book, <span class="_paradigm">RADICAL COMPANIES</span> we assumed no split at all. Today the business is owned 100% by the <span class="_paradigm">FIAT</span> owners, (magical) transaction happens, and tomorrow the company is owned 100% by its co-owners. K2K on the other hand starts and ends, at least at the 30,000 foot level, with a 70-30 split. I had not realized until this morning that these two approaches were points on the same spectrum: <span class="_paradigm">FIAT</span> is at the zero end, <span class="_paradigm">RADICAL</span> is at the 100 end, and K2K&rsquo;s in in between.<p>
+ <p>In fact, this one of the experiments we thought of, but as it turns out, K2K has been doing this for quite a while. It would be ideal now to get data, or at least testimonials, from the <span class="_paradigm">FIAT</span> owners as to how it has been for them. Particularly, I'd like to know if their dividends have gone up or down or sideways.</p>
   <tr>
    <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
    <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
