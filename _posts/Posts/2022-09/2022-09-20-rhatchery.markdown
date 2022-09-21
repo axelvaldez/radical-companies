@@ -6,12 +6,12 @@ authors:  "Matt Perez, Jose Leal"
 image:    "rHatchery-icon.svg"
 ---
 
-<div style="display:none;">
+<div style="display:none; ">
  <p>I think we know what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into <span class="_paradigm">RADICAL</span> companies; businesses that want to get away from the <span class="_paradigm">FIAT</span> path and become healthy companies.<p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>I think we are getting a better idea of what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into <span class="_paradigm">RADICAL</span> companies. We want to engage with businesses that want to get away from the <span class="_paradigm">FIAT</span> path and become healthy companies.<p>
+ <p>I think we are getting a better idea of what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into <span class="_paradigm">RADICAL</span> companies. We want to engage with businesses that want to get away from the <span class="_paradigm">FIAT</span> path and become healthy companies.</p>
  <p>We came up with many different ways of doing it until we figured out that, first, the rHatchery had to eat its own dog food.</p>
 
 <h1>Trust Agreements</h1>
