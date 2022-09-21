@@ -20,7 +20,7 @@ image:    "unleashing-your-potential.svg"
    alt="A horizontal like label 'co-ownership spectrum' show FIAT at the extreme left, RADICAL at the extrem right, and K2K in between.">
  </div>
  <p>They can do this at different speeds, but it would put them in a different class altogether.</p>
- <p>And 0/100 is what we need more of. Our own hypothesis is that it will lead to companies that go beyond the co-management model and systematically promote a solid <span class="_paradigm">RADICAL FOUNDATION</span>,</p>
+ <p>And 100/0 is what we need more of. Our own hypothesis is that it will lead to companies that go beyond the co-management model and systematically promote a solid <span class="_paradigm">RADICAL FOUNDATION</span>,</p>
  <table align="center">
   <tr>
    <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
