@@ -19,7 +19,7 @@ image:    "galileo-experimenting-icon.svg"
    width="70%"
    alt="A horizontal like label 'co-ownership spectrum' show FIAT at the extreme left, RADICAL at the extrem right, and K2K in between.">
  </div>
- <p>In fact, this one of the experiments we thought of, but as it turns out, K2K has been doing this for quite a while. It would be ideal now to get data, or at least testimonials, from the <span class="_paradigm">FIAT</span> owners as to how it has been for them. Particularly, I'd like to know if their dividends have gone up or down or sideways.</p>
+ <p>It would be ideal now to get data, or at least testimonials, from the <span class="_paradigm">FIAT</span> owners as to how it has been for them. Particularly, I'd like to know if their dividends have gone up or down or sideways.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
