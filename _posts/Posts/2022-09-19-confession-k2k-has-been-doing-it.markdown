@@ -7,7 +7,7 @@ image:    "galileo-experimenting-icon.svg"
 ---
 
 <div style="display:none;">
- <p>We've been thinking hard about ways to ease into the co-ownership model and we've been trying differeht things out. Then, just this morning I realized that K2K, in Bilbao, Spain,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> has already been running this experiment for quite a while.</p>
+ <p>We've been thinking hard about ways to ease into the co-ownership model. Then, just this morning I realized that K2K, in Bilbao, Spain, has already been running this experiment for quite a while.</p>
 </div>
 
 <h1>&nbsp;</h1>
