@@ -272,7 +272,7 @@ td {
 }
 td._spacer {
   column-span:all;
-  font-size:7px;
+  font-size:10px;
 }
 ._spacer {
   font-size:xx-small;
