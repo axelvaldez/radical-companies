@@ -275,7 +275,7 @@ td._spacer {
   font-size:7px;
 }
 td._spacer:after {
-  content:" ";
+  content:" x";
 }
 ._spacer {
   font-size:xx-small;
