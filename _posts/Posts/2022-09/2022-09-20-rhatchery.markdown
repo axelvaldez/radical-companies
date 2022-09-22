@@ -11,12 +11,12 @@ image:    "rHatchery-icon.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>I think we are getting a better idea of what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into <span class="_paradigm">RADICAL</span> companies. We want to engage with businesses that want to get away from the <span class="_paradigm">FIAT</span> path and become healthy companies.</p>
+ <p>I think we are getting a better idea of what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses</em>.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> transform into <span class="_paradigm">RADICAL</span> companies. We want to engage with businesses that want to get away from the <span class="_paradigm">FIAT</span> path and become healthy companies.</p>
  <p>We came up with many different ways of doing this and a few tools.</p>
 
 <h1>Agreements</h1>
  <h2>Trust Agreements</h2>
-  <p>Jose came up with a tool we call a <em>Trust Agreement</em>.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> Each would-be co-owner answers these questions for herself and the others takes note. Then, they come up with a narrative that touches on all these topics.</p>
+  <p>Jose came up with a tool we call a <em>Trust Agreement</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Each would-be co-owner answers these questions for herself and the others takes note. Then, they come up with a narrative that touches on all these topics.</p>
   <table>
    <tbody>
     <tr>
@@ -174,9 +174,16 @@ image:    "rHatchery-icon.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
+    Matt Perez, Adrian Perez, Jose Leall
+    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient" target="_blank">>https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient</a>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
     The Trust Agreement tool was inspired by J Kim Wright&rsquo;s <em>Concious Contracts&copy;</em>.
     <<a href="https://radicals.world/U2nQNc" target="_blank">https://radicals.world/U2nQNc</a>>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
