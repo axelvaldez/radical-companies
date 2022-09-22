@@ -12,101 +12,101 @@ image:    "rHatchery-icon.svg"
 
 <h1>&nbsp;</h1>
  <p>I think we are getting a better idea of what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into <span class="_paradigm">RADICAL</span> companies. We want to engage with businesses that want to get away from the <span class="_paradigm">FIAT</span> path and become healthy companies.</p>
- <p>We came up with many different ways of doing it until we figured out that, first, the rHatchery had to eat its own dog food.</p>
+ <p>We came up with many different ways of doing this and a few tools.</p>
 
-<h1>Trust Agreements</h1>
- <p>Jose came up with a tool we call a <em>Trust Agreement</em>.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> Each would-be co-owner answers these questions for herself and the others takes note. Then, they come up with a narrative that touches on all these topics.</p>
- <table>
-  <tbody>
-   <tr>
-    <th>Mindset</th>
-    <td>
-     <ul>
-      <li>Why do we do what we do?</li>
-      <li>How are you showing up?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>Personal Context</th>
-    <td>
-     <ul>
-      <li>Who are you?</li>
-      <li>Why do you need the others?</li>
-      <li>What do you feel we need to agree on?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>Transparency & Vulnerability</th>
-    <td>
-     <ul>
-      <li>Being</li>
-      <li>Meaning</li>
-      <li>Impacting</li>
-      <li>Belonging</li>
-      <li>Becoming</li>
-     </ul>
-    </td>   
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>Collaborating</th>
-    <td>
-     <ul>
-      <li>How will you address change?</li>
-      <li>How will we address disagreements?</li>
-      <li>How will we communicate with one another?</li>
-      <li>What do we do if communication is not enough?</li>
-      <li>Who will we ask for help from?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>Commitments</th>
-    <td>
-     <ul>
-      <li>What commitments do we need to make?</li>
-      <li>How are our commitments practical?</li>
-      <li>What are the financial aspects of this agreement?</li>
-      <li>Do we need to meet any legal conditions?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>Rendering</th>
-    <td>
-     <ul>
-      <li>Do we all agree to the language of the agreement?</li>
-      <li>Is it as simple and direct as it can be?</li>
-      <li>Are we all able and willing to comply with the terms?</li>
-      <li>Can we make it a living part of our collaboration?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-  </tbody>
- </table>
- <p>It surprised us how well this worked to bring out the concerns of the people involved: people laid all kinds of things about themselves that made them volnerable because they felt phychologically safe. So far, we've done it with early adopters, so we don't have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
- 
-<h1>Foundational Agreements</h1>
-  <p>The <em>Trust Framework</em> works for people, but not for communities. For them, the <span class="_paradigm">RADICAL FOUNDATIONS</span> may be more appropriate for a <em>Foundational Agreement</em>,</p>
+<h1>Agreements</h1>
+ <h2>Trust Agreements</h2>
+  <p>Jose came up with a tool we call a <em>Trust Agreement</em>.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> Each would-be co-owner answers these questions for herself and the others takes note. Then, they come up with a narrative that touches on all these topics.</p>
+  <table>
+   <tbody>
+    <tr>
+     <th>Mindset</th>
+     <td>
+      <ul>
+       <li>Why do we do what we do?</li>
+       <li>How are you showing up?</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer"></td>
+    </tr>
+    <tr>
+     <th>Personal Context</th>
+     <td>
+      <ul>
+       <li>Who are you?</li>
+       <li>Why do you need the others?</li>
+       <li>What do you feel we need to agree on?</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer"></td>
+    </tr>
+    <tr>
+     <th>Transparency & Vulnerability</th>
+     <td>
+      <ul>
+       <li>Being</li>
+       <li>Meaning</li>
+       <li>Impacting</li>
+       <li>Belonging</li>
+       <li>Becoming</li>
+      </ul>
+     </td>   
+    </tr>
+    <tr>
+     <td class="_spacer"></td>
+    </tr>
+    <tr>
+     <th>Collaborating</th>
+     <td>
+      <ul>
+       <li>How will you address change?</li>
+       <li>How will we address disagreements?</li>
+       <li>How will we communicate with one another?</li>
+       <li>What do we do if communication is not enough?</li>
+       <li>Who will we ask for help from?</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer"></td>
+    </tr>
+    <tr>
+     <th>Commitments</th>
+     <td>
+      <ul>
+       <li>What commitments do we need to make?</li>
+       <li>How are our commitments practical?</li>
+       <li>What are the financial aspects of this agreement?</li>
+       <li>Do we need to meet any legal conditions?</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer"></td>
+    </tr>
+    <tr>
+     <th>Rendering</th>
+     <td>
+      <ul>
+       <li>Do we all agree to the language of the agreement?</li>
+       <li>Is it as simple and direct as it can be?</li>
+       <li>Are we all able and willing to comply with the terms?</li>
+       <li>Can we make it a living part of our collaboration?</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer"></td>
+    </tr>
+   </tbody>
+  </table>
+  <p>It surprised us how well this worked to bring out the concerns of the people involved: people laid all kinds of things about themselves that made them volnerable because they felt phychologically safe. So far, we've done it with early adopters, so we don't have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
+ <h2>Foundation Agreements</h2>
+  <p>The <em>Trust Framework</em> works for people, but not for communities. For them, the <span class="_paradigm">RADICAL FOUNDATIONS</span> may be more appropriate for a <em>Foundation Agreement</em>,</p>
   <table>
    <tbody>
     <tr>
@@ -149,6 +149,17 @@ image:    "rHatchery-icon.svg"
     </tr>
    </tbody>
   </table>
+
+<h1>RADs!</h1>
+ <p>We are about to launch a mobile app called RADs! to help implement a RAD Distribution system.</p>
+ <p>What a RAD DISTRIBUTION is</p>
+ <p>What the app does</p>
+
+<h1>rHatchery Communities</h1>
+ <h2>rCORE</h2>
+  <p></p>
+ <h2></h2>
+  <p></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
