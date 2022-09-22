@@ -185,7 +185,7 @@ image:    "rHatchery-icon.svg"
      <td class="_spacer"></td>
     </tr>
     <tr>
-     <th>rJourney</th> 
+     <th><span class="_r">rJourney</span></th> 
      <td></td>
     </tr>
     <tr>
