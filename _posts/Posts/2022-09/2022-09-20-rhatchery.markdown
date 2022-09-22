@@ -47,13 +47,11 @@ image:    "rHatchery-icon.svg"
     <th>Transparency & Vulnerability</th>
     <td>
      <ul>
-      <li>What are your key needs?</li>
       <li>Being</li>
       <li>Meaning</li>
       <li>Impacting</li>
       <li>Belonging</li>
       <li>Becoming</li>
-      <li>Collaborating</li>
      </ul>
     </td>   
    </tr>
