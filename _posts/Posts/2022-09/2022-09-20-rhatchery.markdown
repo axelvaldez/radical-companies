@@ -18,7 +18,7 @@ image:    "rHatchery-icon.svg"
  <h2>Trust Agreements</h2>
   <p>Jose came up with a tool we call a <em>Trust Agreement</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Each would-be co-owner answers these questions for herself and the others takes note. Then, they come up with a narrative that touches on all these topics.</p>
   <table>
-   <tbody>
+   <tbody style="boder:1px solid black; ">
     <tr>
      <th>Mindset</th>
      <td>
