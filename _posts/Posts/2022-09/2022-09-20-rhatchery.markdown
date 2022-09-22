@@ -152,11 +152,11 @@ image:    "rHatchery-icon.svg"
 
 <h1>RADs!</h1>
  <p>With the help of Xipe Technology, of Hermosillo, Mexico, we are about to launch a mobile app called <em>RADs!</em> for RAD Distributions.</p>
- <p>What a RAD DISTRIBUTION is</p>
- <p>What the app does</p>
+ <p>What are RAD DISTRIBUTIONs?</p>
+ <p>What the app does?</p>
 
 <h1>rCommunities</h1>
- <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce them to an rCommunity which is a group of people with compantile <em>Trust Agreements</em> and interested in similar things.</p>
+ <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce them to an <span class="_r">rCommunity</span> which is a group of people with compantile <em>Trust Agreements</em> and interested in similar things.</p>
  <p>There already are a few rCommunities,</p>
  <div class="_center">
   <table style="border:1px solid black; padding:5px; width:70%; ">
@@ -165,7 +165,7 @@ image:    "rHatchery-icon.svg"
      <td class="_spacer"></td>
     </tr>
     <tr>
-     <th>rCORE</th> 
+     <th><span class="_r">rCORE</span></th> 
      <td></td>
     </tr>
     <tr>
