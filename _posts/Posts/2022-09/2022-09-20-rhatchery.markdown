@@ -156,9 +156,10 @@ image:    "rHatchery-icon.svg"
  <p>What the app does</p>
 
 <h1>rHatchery Communities</h1>
+ <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help eiach other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce him to an rHatchery Community.</p>
  <h2>rCORE</h2>
   <p></p>
- <h2></h2>
+ <h2>#100lives</h2>
   <p></p>
 
 <h1 class="_section">ENDNOTES</h1>
