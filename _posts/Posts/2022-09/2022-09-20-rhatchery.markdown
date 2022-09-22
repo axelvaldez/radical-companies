@@ -12,8 +12,6 @@ image:    "rHatchery-icon.svg"
 
 <h1>&nbsp;</h1>
  <p>I think we are getting a better idea of what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into <span class="_paradigm">RADICAL</span> companies. We want to engage with businesses that want to get away from the <span class="_paradigm">FIAT</span> path and become healthy companies.</p>
-
-<!--
  <p>We came up with many different ways of doing it until we figured out that, first, the rHatchery had to eat its own dog food.</p>
 
 <h1>Trust Agreements</h1>
@@ -84,5 +82,3 @@ image:    "rHatchery-icon.svg"
      <li>  First of Earth (11 episodes): <a href="https://radical-companies-repo/2022/03/01/E01-first-of-earth" target="_blank">https://radical-companies-repo/2022/03/01/E01-first-of-earth</a></li>
      <li>The FIAT Enclaves (3 episodes): <a href="https://2022/03/11/E11/the-fiat-enclaves" target="_blank">https://2022/03/11/E11/the-fiat-enclaves</a></li>
     </ul>
-
--->
