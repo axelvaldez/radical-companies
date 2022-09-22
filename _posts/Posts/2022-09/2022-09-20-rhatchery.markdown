@@ -110,7 +110,7 @@ image:    "rHatchery-icon.svg"
   <table>
    <tbody>
     <tr>
-     <th style="3in; ">Relationships: Meaning & Belonging</th>
+     <th style="3in; "><em>Relationships</em>: Meaning & Belonging</th>
      <td>
       <ul>
        <li>How do we not stand in the way of making our work together meaningful?</li>
@@ -122,7 +122,7 @@ image:    "rHatchery-icon.svg"
      <td class="_spacer"></td>
     </tr>
     <tr>
-     <th>Commitments: Decentralization & Transparency</th>
+     <th><em>Commitments</em>: Decentralization & Transparency</th>
      <td>
       <ul>
        <li>Is this the most decentralized way we can do this? Are we making things more or less centralized? If we end up with a few centralized areas, are they open to decentralizition later?</li>
@@ -134,7 +134,7 @@ image:    "rHatchery-icon.svg"
      <td class="_spacer"></td>
     </tr>
     <tr>
-     <th>Practices: Alignment & Experimentatiom</th>
+     <th><em>Practices</em>: Alignment & Experimentatiom</th>
      <td>
       <ul>
        <li>What is the impact that we want to have on the world?</li>
