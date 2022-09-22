@@ -103,7 +103,39 @@ image:    "rHatchery-icon.svg"
    </tr>
   </tbody>
  </table>
- <p>It surprise </p>
+ <p>It surprised us how well this worked to bring out the concerns of the people involved: people laid all kinds of things about themselves that made them volnerable because they felt phychologically safe. So far, we've done it with early adopters, so we don't have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
+ 
+ <h1>RADICAL FOUNDATION</h1>
+  <p>This framwork overlaps with the RADICAL FOUNDATIONS and we may gravitate towards that over time,</p>
+  <table align="center">
+   <tr>
+    <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
+    <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
+    <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
+    <td valign="top"><em>relationships</em></td>
+   </tr>
+   <tr>
+    <td style="height: 7px;"></td>
+   </tr>
+   <tr>
+    <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
+    <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
+    <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
+    <td valign="top"><em>autonomy</em></td>
+   </tr>
+   <tr>
+    <td style="height: 7px;"></td>
+   </tr>
+   <tr>
+    <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
+    <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
+    <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
+    <td valign="top"><em>collaboration</em></td>
+   </tr>
+   <tr>
+    <td class="_spacer_">&nbsp;</td>
+   </tr>
+  </table>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
