@@ -106,7 +106,7 @@ image:    "rHatchery-icon.svg"
  <p>It surprised us how well this worked to bring out the concerns of the people involved: people laid all kinds of things about themselves that made them volnerable because they felt phychologically safe. So far, we've done it with early adopters, so we don't have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
  
  <h1>RADICAL FOUNDATION</h1>
-  <p>This framwork works for people, but not communities. For them, the RADICAL FOUNDATIONS may be more appropriate,</p>
+  <p>The Trust Framwork works for people, but not communities. For them, the RADICAL FOUNDATIONS may be more appropriate,</p>
   <table>
    <tbody>
     <tr>
