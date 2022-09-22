@@ -27,11 +27,6 @@ image:    "rHatchery-icon.svg"
      </ul>
     </td>
    </tr>
-  </tbody>
- </table>
- xxx
- <table>
-  <tbody>
    <tr>
     <th>Personal Context</th>
     <td>
@@ -42,6 +37,11 @@ image:    "rHatchery-icon.svg"
      </ul>
     </td>
    </tr>
+  </tbody>
+ </table>
+ xxx
+ <table>
+  <tbody>
    <tr>
     <th>Transparency & Vulnerability</th>
     <td>
