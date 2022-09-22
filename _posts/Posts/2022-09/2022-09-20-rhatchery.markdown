@@ -28,7 +28,7 @@ image:    "rHatchery-icon.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer">&nbsp;</td>
+    <td class="_spacer"></td>
    </tr>
    <tr>
     <th>Personal Context</th>
