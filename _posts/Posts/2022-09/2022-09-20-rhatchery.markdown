@@ -58,11 +58,6 @@ image:    "rHatchery-icon.svg"
    <tr>
     <td class="_spacer"></td>
    </tr>
-  </tbody>
- </table>
- xxx
- <table>
-  <tbody>
    <tr>
     <th>Collaborating</th>
     <td>
