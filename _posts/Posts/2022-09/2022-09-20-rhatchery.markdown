@@ -71,6 +71,9 @@ image:    "rHatchery-icon.svg"
     </td>
    </tr>
    <tr>
+    <td class="_spacer"></td>
+   </tr>
+   <tr>
     <th>Commitments</th>
     <td>
      <ul>
