@@ -105,19 +105,16 @@ image:    "rHatchery-icon.svg"
  </table>
  <p>It surprised us how well this worked to bring out the concerns of the people involved: people laid all kinds of things about themselves that made them volnerable because they felt phychologically safe. So far, we've done it with early adopters, so we don't have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
  
- <h1>RADICAL FOUNDATION</h1>
-  <p>The Trust Framwork works for people, but not for communities. For them, the <span class="_paradigm">RADICAL FOUNDATIONS</span> may be more appropriate,</p>
+ <h1>Foundational Agreement</h1>
+  <p>The Trust Framwork works for people, but not for communities. For them, the <span class="_paradigm">RADICAL FOUNDATIONS</span> may be more appropriate for a Foundational Agreement,</p>
   <table>
    <tbody>
     <tr>
-     <th style="3in; ">Relationships: Meaning & Belonging (Principles)</th>
+     <th style="3in; ">Relationships: Meaning & Belonging</th>
      <td>
       <ul>
-       <li>Why do we do what we do?</li>
-       <li>How are you showing up?</li>
-       <li>Who are you?</li>
-       <li>Why do you need the others?</li>
-       <li>What do you feel we need to agree on?</li>
+       <li>How do we not stand in the way of making our work together meaningful?</li>
+       <li>What do people have to do if they don&rsquo;t want to be part of this team anymore?</li>
       </ul>
      </td>
     </tr>
@@ -125,18 +122,11 @@ image:    "rHatchery-icon.svg"
      <td class="_spacer"></td>
     </tr>
     <tr>
-     <th>Autonomy: Decentralization & Transparency (Commitments)</th>
+     <th>Commitments: Decentralization & Transparency</th>
      <td>
       <ul>
-       <li>How will you address change?</li>
-       <li>How will we address disagreements?</li>
-       <li>How will we communicate with one another?</li>
-       <li>What do we do if communication is not enough?</li>
-       <li>Who will we ask for help from?</li>
-       <li>What commitments do we need to make?</li>
-       <li>How are our commitments practical?</li>
-       <li>What are the financial aspects of this agreement?</li>
-       <li>Do we need to meet any legal conditions?</li>
+       <li>Is this the most decentralized way we can do this? Are we making things more or less centralized? If we end up with a few centralized areas, are they open to decentralizition later?</li>
+       <li>What are we not disclosing? Why are we hesitat to disclose? Is it cultural fear that is holding us back? If this information is important to keep secret, who would know about it? Will everybody know who the chosen people are?</li>
       </ul>
      </td>
     </tr>
@@ -144,13 +134,13 @@ image:    "rHatchery-icon.svg"
      <td class="_spacer"></td>
     </tr>
     <tr>
-     <th>Collaboration: Alignment & Experimentatiom (Practices)</th>
+     <th>Practices: Alignment & Experimentatiom</th>
      <td>
       <ul>
-       <li>Do we all agree to the language of the agreement?</li>
-       <li>Is it as simple and direct as it can be?</li>
-       <li>Are we all able and willing to comply with the terms?</li>
-       <li>Can we make it a living part of our collaboration?</li>
+       <li>What is the impact that we want to have on the world?</li>
+       <li>Why are we doing this? What is the Purpose of our coming together?</li>
+       <li>What are the first few missions we have to embark on?</li>
+       <li>Are there (relatively cheap) experiments that we can do before we go whole hog on these missions?</li>
       </ul>
      </td>
     </tr>
