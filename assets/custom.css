@@ -272,10 +272,10 @@ td {
 }
 td._spacer {
   column-span:all;
-  font-size:7px;
+  font-size:10px;
 }
 td._spacer:after {
-  content:" x";
+  content:" ";
 }
 ._spacer {
   font-size:xx-small;
