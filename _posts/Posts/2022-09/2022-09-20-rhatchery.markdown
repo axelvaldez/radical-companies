@@ -110,7 +110,7 @@ image:    "rHatchery-icon.svg"
   <table>
    <tbody>
     <tr>
-     <th>Relationships: Meaning & Belonging (Principles)</th>
+     <th style="3in; ">Relationships: Meaning & Belonging (Principles)</th>
      <td>
       <ul>
        <li>Why do we do what we do?</li>
