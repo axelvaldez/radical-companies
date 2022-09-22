@@ -315,3 +315,6 @@ td._spacer:after {
   display:grid;
   place-items:center;
 }
+._r {
+  font-family:'Courier New', Courier, monospace;
+}
