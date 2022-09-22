@@ -118,8 +118,8 @@ image:    "rHatchery-icon.svg"
  <h2>Foundation Agreements</h2>
   <p>The <em>Trust Framework</em> works for people, but not for communities. For them, the <span class="_paradigm">RADICAL FOUNDATIONS</span> may be more appropriate for a <em>Foundation Agreement</em>,</p>
   <div class="_center">
-   <table style="border:1px solid black; padding:5px; width:70%; ">
-    <tbody>
+   <table style="width:70%; ">
+    <tbody style="border:1px solid black;">
      <tr>
       <td class="_spacer"></td>
      </tr>
@@ -178,72 +178,72 @@ image:    "rHatchery-icon.svg"
 <h1>rCommunities</h1>
  <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce them to an <span class="_r">rCommunity</span> which is a group of people with compantile <em>Trust Agreements</em> and interested in similar things.</p>
  <p>There already are a few rCommunities,</p>
- <div class="_center">
-  <table style="border:1px solid black; padding-right:5px; width:80%; ">
-   <tbody>
-    <tr>
-     <td class="_spacer"></td>
-    </tr>
-    <tr>
-     <th><span class="_r">rCORE</span></th> 
-     <td>
-      <p><em>CORE</em> was an interpretation service (<em>i.e.</em>, translations for the rest of us) focused on injuries covered by the US <em>Worker&rsquo;s Comp</em> insurance.</p>
-      <p>The business was founded by Carlos Suarez, a Venezuelan native, through Alicia Castillo-Holley Jose and I connected with Carlos and he voiced his wish to make the company more &ldquo;democratic&rdquo;. He read our book <em>RADICAL COMPANIES</em> and, after a few more conversations, it was clear that he was ready for the <span class="_paradigm">RADICAL</span> model.</p>
-      <p>Besides the opportunity to help CORE&rsquo;s transformation is that inpretations &rdquo;agencies&ldquo; are gig shops: interpreters get paid for the interpretations they do. Not unlike <em>DoorDash</em> or <em>Uber Eats</em>. The gig workers deliver the value and get paid a delivery fee, the &rdquo;agencies&ldquo; keeps eveything else, including brand value (<em>i.e.</em>, that&rsquo;s why I didn&rsquo;t have to explain what <em>DoorDash</em> or <em>Uber Eats</em> are). This was exciting because if the transformation of <em>CORE</em> into <em>rCORE</em> went well, we would have a template for other gig businesses to transform to <span class="_paradigm">RADICAL</span> companies.</p>
-     </td>
-    </tr>
-    <tr>
-     <td class="_spacer"></td>
-    </tr>
-    <tr>
-     <th>#100lives</th>
-     <td>
-      <ul>
-       <li>Sales folks</li>
-       <li>Programmers</li>
-       <li>Artists</li>
-      </ul>
-     </td>
-    </tr>
-    <tr>
-     <td class="_spacer"></td>
-    </tr>
-    <tr>
-     <th><span class="_r">rJourney</span></th> 
-     <td></td>
-    </tr>
-    <tr>
-     <td class="_spacer"></td>
-    </tr>
-    <tr>
-     <th>Posits</th> 
-     <td></td>
-    </tr>
-    <tr>
-     <td class="_spacer"></td>
-    </tr>
-    <tr>
-     <th>Small Bites</th> 
-     <td></td>
-    </tr>
-    <tr>
-     <td class="_spacer"></td>
-    </tr>
-    <tr>
-     <th>70/30</th> 
-     <td></td>
-    </tr>
+  <div class="_center">
+   <table style="width:70%; ">
+    <tbody style="border:1px solid black;">
      <tr>
       <td class="_spacer"></td>
      </tr>
-    </tbody>
-    <tfoot>
+     <tr>
+      <th><span class="_r">rCORE</span></th> 
+      <td>
+       <p><em>CORE</em> was an interpretation service (<em>i.e.</em>, translations for the rest of us) focused on injuries covered by the US <em>Worker&rsquo;s Comp</em> insurance.</p>
+       <p>The business was founded by Carlos Suarez, a Venezuelan native, through Alicia Castillo-Holley Jose and I connected with Carlos and he voiced his wish to make the company more &ldquo;democratic&rdquo;. He read our book <em>RADICAL COMPANIES</em> and, after a few more conversations, it was clear that he was ready for the <span class="_paradigm">RADICAL</span> model.</p>
+       <p>Besides the opportunity to help CORE&rsquo;s transformation is that inpretations &rdquo;agencies&ldquo; are gig shops: interpreters get paid for the interpretations they do. Not unlike <em>DoorDash</em> or <em>Uber Eats</em>. The gig workers deliver the value and get paid a delivery fee, the &rdquo;agencies&ldquo; keeps eveything else, including brand value (<em>i.e.</em>, that&rsquo;s why I didn&rsquo;t have to explain what <em>DoorDash</em> or <em>Uber Eats</em> are). This was exciting because if the transformation of <em>CORE</em> into <em>rCORE</em> went well, we would have a template for other gig businesses to transform to <span class="_paradigm">RADICAL</span> companies.</p>
+      </td>
+     </tr>
      <tr>
       <td class="_spacer"></td>
      </tr>
-    </tfoot>
-  </table>
- <div>
+     <tr>
+      <th>#100lives</th>
+      <td>
+       <ul>
+        <li>Sales folks</li>
+        <li>Programmers</li>
+        <li>Artists</li>
+       </ul>
+      </td>
+     </tr>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
+     <tr>
+      <th><span class="_r">rJourney</span></th> 
+      <td></td>
+     </tr>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
+     <tr>
+      <th>Posits</th> 
+      <td></td>
+     </tr>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
+     <tr>
+      <th>Small Bites</th> 
+      <td></td>
+     </tr>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
+     <tr>
+      <th>70/30</th> 
+      <td></td>
+     </tr>
+      <tr>
+       <td class="_spacer"></td>
+      </tr>
+     </tbody>
+     <tfoot>
+      <tr>
+       <td class="_spacer"></td>
+      </tr>
+     </tfoot>
+    </table>
+   <div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
