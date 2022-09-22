@@ -18,8 +18,8 @@ image:    "rHatchery-icon.svg"
  <h2>Trust Agreements</h2>
   <p>Jose came up with a tool we call a <em>Trust Agreement</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Each would-be co-owner answers these questions for herself and the others takes note. Then, they come up with a narrative that touches on all these topics.</p>
   <div class="_center">
-   <table style="border:1px solid black; padding:5px; width:70%; ">
-    <tbody>
+   <table style="width:70%; ">
+    <tbody style="border:1px solid black;">
      <tr>
       <td class="_spacer"></td>
      </tr>
@@ -103,10 +103,12 @@ image:    "rHatchery-icon.svg"
        </ul>
       </td>
      </tr>
+    </tbody>
+    <tfoot>
      <tr>
       <td class="_spacer"></td>
      </tr>
-    </tbody>
+    </tfoot>
    </table>
   </div>
   <p>It surprised us how well this worked to bring out the concerns of the people involved: people laid all kinds of things about themselves that made them volnerable because they felt phychologically safe. So far, we&rsquo;ve done it with early adopters, so we don&rsquo;t have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
