@@ -27,6 +27,11 @@ image:    "rHatchery-icon.svg"
      </ul>
     </td>
    </tr>
+  </tbody>
+ </table>
+ xxx
+ <table>
+  <tbody>
    <tr>
     <th>Personal Context</th>
     <td>
@@ -84,7 +89,8 @@ image:    "rHatchery-icon.svg"
      </ul>
     </td>
    </tr>
-  </table>
+  </tbody>
+ </table>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
