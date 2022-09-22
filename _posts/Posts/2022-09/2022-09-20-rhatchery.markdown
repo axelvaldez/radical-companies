@@ -106,90 +106,59 @@ image:    "rHatchery-icon.svg"
  <p>It surprised us how well this worked to bring out the concerns of the people involved: people laid all kinds of things about themselves that made them volnerable because they felt phychologically safe. So far, we've done it with early adopters, so we don't have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
  
  <h1>RADICAL FOUNDATION</h1>
-  <p>This framwork overlaps with the RADICAL FOUNDATIONS and we may gravitate towards that over time,</p>
-  <table align="center">
-   <tr>
-    <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-    <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
-    <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-    <td valign="top"><em>relationships</em></td>
-   </tr>
-   <tr>
-    <td style="height: 7px;"></td>
-   </tr>
-   <tr>
-    <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-    <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
-    <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-    <td valign="top"><em>autonomy</em></td>
-   </tr>
-   <tr>
-    <td style="height: 7px;"></td>
-   </tr>
-   <tr>
-    <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-    <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
-    <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-    <td valign="top"><em>collaboration</em></td>
-   </tr>
-   <tr>
-    <td class="_spacer_">&nbsp;</td>
-   </tr>
+  <p>This framwork works for people, but not communities. For them, the RADICAL FOUNDATIONS may be more appropriate,</p>
+  <table>
+   <tbody>
+    <tr>
+     <th>Relationships: Meaning & Belonging (Principles)</th>
+     <td>
+      <ul>
+       <li>Why do we do what we do?</li>
+       <li>How are you showing up?</li>
+       <li>Who are you?</li>
+       <li>Why do you need the others?</li>
+       <li>What do you feel we need to agree on?</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer"></td>
+    </tr>
+    <tr>
+     <th>Autonomy: Decentralization & Transparency (Commitments)</th>
+     <td>
+      <ul>
+       <li>How will you address change?</li>
+       <li>How will we address disagreements?</li>
+       <li>How will we communicate with one another?</li>
+       <li>What do we do if communication is not enough?</li>
+       <li>Who will we ask for help from?</li>
+       <li>What commitments do we need to make?</li>
+       <li>How are our commitments practical?</li>
+       <li>What are the financial aspects of this agreement?</li>
+       <li>Do we need to meet any legal conditions?</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer"></td>
+    </tr>
+    <tr>
+     <th>Collaboration: Alignment & Experimentatiom (Practices)</th>
+     <td>
+      <ul>
+       <li>Do we all agree to the language of the agreement?</li>
+       <li>Is it as simple and direct as it can be?</li>
+       <li>Are we all able and willing to comply with the terms?</li>
+       <li>Can we make it a living part of our collaboration?</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer"></td>
+    </tr>
+   </tbody>
   </table>
-
-
- <table>
-  <tbody>
-   <tr>
-    <th>Meaning & Belonging</th>
-    <td>
-     <ul>
-      <li>Why do we do what we do?</li>
-      <li>How are you showing up?</li>
-      <li>Who are you?</li>
-      <li>Why do you need the others?</li>
-      <li>What do you feel we need to agree on?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>Decentralization & Transparency</th>
-    <td>
-     <ul>
-      <li>How will you address change?</li>
-      <li>How will we address disagreements?</li>
-      <li>How will we communicate with one another?</li>
-      <li>What do we do if communication is not enough?</li>
-      <li>Who will we ask for help from?</li>
-      <li>What commitments do we need to make?</li>
-      <li>How are our commitments practical?</li>
-      <li>What are the financial aspects of this agreement?</li>
-      <li>Do we need to meet any legal conditions?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>Alignment & Experimentatiom</th>
-    <td>
-     <ul>
-      <li>Do we all agree to the language of the agreement?</li>
-      <li>Is it as simple and direct as it can be?</li>
-      <li>Are we all able and willing to comply with the terms?</li>
-      <li>Can we make it a living part of our collaboration?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-  </tbody>
- </table>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
