@@ -169,7 +169,7 @@ image:    "rHatchery-icon.svg"
  <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce them to an <span class="_r">rCommunity</span> which is a group of people with compantile <em>Trust Agreements</em> and interested in similar things.</p>
  <p>There already are a few rCommunities,</p>
  <div class="_center">
-  <table style="border:1px solid black; padding:5px; width:70%; ">
+  <table style="border:1px solid black; padding:5px; width:80%; ">
    <tbody>
     <tr>
      <td class="_spacer"></td>
