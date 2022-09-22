@@ -103,12 +103,13 @@ image:    "rHatchery-icon.svg"
    </tr>
   </tbody>
  </table>
+ <p>It surprise </p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
    <p class="_list-item">
-    This tool was heavily inspired by J Kim Wright&rsquo;s <em>Concious Contracts&copy;</em>.
+    The Trust Agreement tool was inspired by J Kim Wright&rsquo;s <em>Concious Contracts&copy;</em>.
     <<a href="https://radicals.world/U2nQNc" target="_blank">https://radicals.world/U2nQNc</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
