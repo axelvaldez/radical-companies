@@ -17,138 +17,141 @@ image:    "rHatchery-icon.svg"
 <h1>Agreements</h1>
  <h2>Trust Agreements</h2>
   <p>Jose came up with a tool we call a <em>Trust Agreement</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Each would-be co-owner answers these questions for herself and the others takes note. Then, they come up with a narrative that touches on all these topics.</p>
-  <table class="_center" style="border:1px solid black; padding:5px; width:70%; ">
-   <tbody>
-    <tr>
-     <th>Mindset</th>
-     <td>
-      <ul>
-       <li>Why do we do what we do?</li>
-       <li>How are you showing up?</li>
-      </ul>
-     </td>
-    </tr>
-    <tr>
-     <td class="_spacer"></td>
-    </tr>
-    <tr>
-     <th>Personal Context</th>
-     <td>
-      <ul>
-       <li>Who are you?</li>
-       <li>Why do you need the others?</li>
-       <li>What do you feel we need to agree on?</li>
-      </ul>
-     </td>
-    </tr>
-    <tr>
-     <td class="_spacer"></td>
-    </tr>
-    <tr>
-     <th>Transparency & Vulnerability</th>
-     <td>
-      <ul>
-       <li>Being</li>
-       <li>Meaning</li>
-       <li>Impacting</li>
-       <li>Belonging</li>
-       <li>Becoming</li>
-      </ul>
-     </td>   
-    </tr>
-    <tr>
-     <td class="_spacer"></td>
-    </tr>
-    <tr>
-     <th>Collaborating</th>
-     <td>
-      <ul>
-       <li>How will you address change?</li>
-       <li>How will we address disagreements?</li>
-       <li>How will we communicate with one another?</li>
-       <li>What do we do if communication is not enough?</li>
-       <li>Who will we ask for help from?</li>
-      </ul>
-     </td>
-    </tr>
-    <tr>
-     <td class="_spacer"></td>
-    </tr>
-    <tr>
-     <th>Commitments</th>
-     <td>
-      <ul>
-       <li>What commitments do we need to make?</li>
-       <li>How are our commitments practical?</li>
-       <li>What are the financial aspects of this agreement?</li>
-       <li>Do we need to meet any legal conditions?</li>
-      </ul>
-     </td>
-    </tr>
-    <tr>
-     <td class="_spacer"></td>
-    </tr>
-    <tr>
-     <th>Rendering</th>
-     <td>
-      <ul>
-       <li>Do we all agree to the language of the agreement?</li>
-       <li>Is it as simple and direct as it can be?</li>
-       <li>Are we all able and willing to comply with the terms?</li>
-       <li>Can we make it a living part of our collaboration?</li>
-      </ul>
-     </td>
-    </tr>
-    <tr>
-     <td class="_spacer"></td>
-    </tr>
-   </tbody>
-  </table>
+  <div class="_center">
+   <table style="border:1px solid black; padding:5px; width:70%; ">
+    <tbody>
+     <tr>
+      <th>Mindset</th>
+      <td>
+       <ul>
+        <li>Why do we do what we do?</li>
+        <li>How are you showing up?</li>
+       </ul>
+      </td>
+     </tr>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
+     <tr>
+      <th>Personal Context</th>
+      <td>
+       <ul>
+        <li>Who are you?</li>
+        <li>Why do you need the others?</li>
+        <li>What do you feel we need to agree on?</li>
+       </ul>
+      </td>
+     </tr>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
+     <tr>
+      <th>Transparency & Vulnerability</th>
+      <td>
+       <ul>
+        <li>Being</li>
+        <li>Meaning</li>
+        <li>Impacting</li>
+        <li>Belonging</li>
+        <li>Becoming</li>
+       </ul>
+      </td>   
+     </tr>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
+     <tr>
+      <th>Collaborating</th>
+      <td>
+       <ul>
+        <li>How will you address change?</li>
+        <li>How will we address disagreements?</li>
+        <li>How will we communicate with one another?</li>
+        <li>What do we do if communication is not enough?</li>
+        <li>Who will we ask for help from?</li>
+       </ul>
+      </td>
+     </tr>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
+     <tr>
+      <th>Commitments</th>
+      <td>
+       <ul>
+        <li>What commitments do we need to make?</li>
+        <li>How are our commitments practical?</li>
+        <li>What are the financial aspects of this agreement?</li>
+        <li>Do we need to meet any legal conditions?</li>
+       </ul>
+      </td>
+     </tr>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
+     <tr>
+      <th>Rendering</th>
+      <td>
+       <ul>
+        <li>Do we all agree to the language of the agreement?</li>
+        <li>Is it as simple and direct as it can be?</li>
+        <li>Are we all able and willing to comply with the terms?</li>
+        <li>Can we make it a living part of our collaboration?</li>
+       </ul>
+      </td>
+     </tr>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
+    </tbody>
+   </table>
   <p>It surprised us how well this worked to bring out the concerns of the people involved: people laid all kinds of things about themselves that made them volnerable because they felt phychologically safe. So far, we've done it with early adopters, so we don't have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
  <h2>Foundation Agreements</h2>
   <p>The <em>Trust Framework</em> works for people, but not for communities. For them, the <span class="_paradigm">RADICAL FOUNDATIONS</span> may be more appropriate for a <em>Foundation Agreement</em>,</p>
-  <table class="_center" style="border:1px solid black; padding:5px; width:70%; ">
-   <tbody>
-    <tr>
-     <th style="3in; "><em style="text-align:left; ">Relationships</em>: Meaning & Belonging</th>
-     <td>
-      <ul>
-       <li>How do we not stand in the way of making our work together meaningful?</li>
-       <li>What do people have to do if they don&rsquo;t want to be part of this team anymore?</li>
-      </ul>
-     </td>
-    </tr>
-    <tr>
-     <td class="_spacer"></td>
-    </tr>
-    <tr>
-     <th><em style="text-align:left; ">Commitments</em>: Decentralization & Transparency</th>
-     <td>
-      <ul>
-       <li>Is this the most decentralized way we can do this? Are we making things more or less centralized? If we end up with a few centralized areas, are they open to decentralizition later?</li>
-       <li>What are we not disclosing? Why are we hesitat to disclose? Is it cultural fear that is holding us back? If this information is important to keep secret, who would know about it? Will everybody know who the chosen people are?</li>
-      </ul>
-     </td>
-    </tr>
-    <tr>
-     <td class="_spacer"></td>
-    </tr>
-    <tr>
-     <th><em style="text-align:left; ">Practices</em>: Alignment & Experimentatiom</th>
-     <td>
-      <ul>
-       <li>What is the impact that we want to have on the world?</li>
-       <li>Why are we doing this? What is the Purpose of our coming together?</li>
-       <li>What are the first few missions we have to embark on?</li>
-       <li>Are there (relatively cheap) experiments that we can do before we go whole hog on these missions?</li>
-      </ul>
-     </td>
-    </tr>
-    <tr>
-     <td class="_spacer"></td>
-    </tr>
-   </tbody>
-  </table>
+  <div class="_center">
+   <table style="border:1px solid black; padding:5px; width:70%; ">
+    <tbody>
+     <tr>
+      <th style="3in; "><em style="text-align:left; ">Relationships</em>: Meaning & Belonging</th>
+      <td>
+       <ul>
+        <li>How do we not stand in the way of making our work together meaningful?</li>
+        <li>What do people have to do if they don&rsquo;t want to be part of this team anymore?</li>
+       </ul>
+      </td>
+     </tr>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
+     <tr>
+      <th><em style="text-align:left; ">Commitments</em>: Decentralization & Transparency</th>
+      <td>
+       <ul>
+        <li>Is this the most decentralized way we can do this? Are we making things more or less centralized? If we end up with a few centralized areas,  are they open to decentralizition later?</li>
+        <li>What are we not disclosing? Why are we hesitat to disclose? Is it cultural fear that is holding us back? If this information is important to keep secret, who would know about it? Will everybody know who the chosen people are?</li>
+       </ul>
+      </td>
+     </tr>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
+     <tr>
+      <th><em style="text-align:left; ">Practices</em>: Alignment & Experimentatiom</th>
+      <td>
+       <ul>
+        <li>What is the impact that we want to have on the world?</li>
+        <li>Why are we doing this? What is the Purpose of our coming together?</li>
+        <li>What are the first few missions we have to embark on?</li>
+        <li>Are there (relatively cheap) experiments that we can do before we go whole hog on these missions?</li>
+       </ul>
+      </td>
+     </tr>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
 
 <h1>RADs!</h1>
  <p>In collaboration with Xipe Technology, a Mexican company, we are about to launch a mobile app called <em>RADs!</em>.</p>
