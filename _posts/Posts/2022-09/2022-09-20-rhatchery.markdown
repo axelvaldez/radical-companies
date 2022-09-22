@@ -151,7 +151,7 @@ image:    "rHatchery-icon.svg"
   </table>
 
 <h1>RADs!</h1>
- <p>We are about to launch a mobile app called RADs! to help implement a RAD Distribution system.</p>
+ <p>With the help of Xipe Technology, of Hermosillo, Mexico, we are about to launch a mobile app called <em>RADs!</em> for RAD Distributions.</p>
  <p>What a RAD DISTRIBUTION is</p>
  <p>What the app does</p>
 
