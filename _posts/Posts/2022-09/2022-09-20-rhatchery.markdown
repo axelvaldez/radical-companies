@@ -21,6 +21,9 @@ image:    "rHatchery-icon.svg"
    <table style="border:1px solid black; padding:5px; width:70%; ">
     <tbody>
      <tr>
+      <td class="_spacer"></td>
+     </tr>
+     <tr>
       <th>Mindset</th>
       <td>
        <ul>
@@ -112,6 +115,9 @@ image:    "rHatchery-icon.svg"
   <div class="_center">
    <table style="border:1px solid black; padding:5px; width:70%; ">
     <tbody>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
      <tr>
       <th style="3in; "><em style="text-align:left; ">Relationships</em>: Meaning & Belonging</th>
       <td>
