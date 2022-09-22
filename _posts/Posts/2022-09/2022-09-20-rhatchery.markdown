@@ -15,7 +15,7 @@ image:    "rHatchery-icon.svg"
  <p>We came up with many different ways of doing it until we figured out that, first, the rHatchery had to eat its own dog food.</p>
 
 <h1>Trust Agreements</h1>
- <p>Jose came up with a new tool we call a Trust Agreement. This tool took its inspiration from J Kim Wright&rsquo;s Concious Contracts&copy;.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
+ <p>Jose came up with a tool we call a Trust Agreement.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> Each would-be co-owner answers these questions for herself and the others takes note. Then, they do it for their community. Finally, they come up with a narrative that touches on all these topics.</p>
  <table>
   <tbody>
    <tr>
@@ -105,8 +105,7 @@ image:    "rHatchery-icon.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    J Kim Wright.
-    <em>Concious Contracts.</em>
+    This tool was heavily inspired by J Kim Wright&rsquo;s <em>Concious Contracts&copy;</em>.
     <<a href="https://radicals.world/U2nQNc" target="_blank">https://radicals.world/U2nQNc</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
