@@ -105,7 +105,7 @@ image:    "rHatchery-icon.svg"
  </table>
  <p>It surprised us how well this worked to bring out the concerns of the people involved: people laid all kinds of things about themselves that made them volnerable because they felt phychologically safe. So far, we've done it with early adopters, so we don't have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
  
- <h1>Foundational Agreements</h1>
+<h1>Foundational Agreements</h1>
   <p>The <em>Trust Framework</em> works for people, but not for communities. For them, the <span class="_paradigm">RADICAL FOUNDATIONS</span> may be more appropriate for a <em>Foundational Agreement</em>,</p>
   <table>
    <tbody>
