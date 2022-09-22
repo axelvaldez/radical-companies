@@ -37,11 +37,6 @@ image:    "rHatchery-icon.svg"
      </ul>
     </td>
    </tr>
-  </tbody>
- </table>
- xxx
- <table>
-  <tbody>
    <tr>
     <th>Transparency & Vulnerability</th>
     <td>
@@ -56,6 +51,11 @@ image:    "rHatchery-icon.svg"
      </ul>
     </td>   
    </tr>
+  </tbody>
+ </table>
+ xxx
+ <table>
+  <tbody>
    <tr>
     <th>Collaborating</th>
     <td>
