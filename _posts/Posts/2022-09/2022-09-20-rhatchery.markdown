@@ -160,7 +160,15 @@ image:    "rHatchery-icon.svg"
  <h2>rCORE</h2>
   <p></p>
  <h2>#100lives</h2>
+  <ul>
+   <li>Sales folks</li>
+   <li>Programmers</li>
+   <li>Artists</li>
+  </ul>
   <p></p>
+
+<h1>rHatchery Journey</h1>
+ <p>Really, consulting.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
