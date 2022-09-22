@@ -28,6 +28,9 @@ image:    "rHatchery-icon.svg"
     </td>
    </tr>
    <tr>
+    <td class="_spacer"></td>
+   </tr>
+   <tr>
     <th>Personal Context</th>
     <td>
      <ul>
@@ -36,6 +39,9 @@ image:    "rHatchery-icon.svg"
       <li>What do you feel we need to agree on?</li>
      </ul>
     </td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
    </tr>
    <tr>
     <th>Transparency & Vulnerability</th>
@@ -50,6 +56,9 @@ image:    "rHatchery-icon.svg"
       <li>Collaborating</li>
      </ul>
     </td>   
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
    </tr>
   </tbody>
  </table>
@@ -78,6 +87,10 @@ image:    "rHatchery-icon.svg"
       <li>Do we need to meet any legal conditions?</li>
      </ul>
     </td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
    <tr>
     <th>Rendering</th>
     <td>
@@ -88,6 +101,9 @@ image:    "rHatchery-icon.svg"
       <li>Can we make it a living part of our collaboration?</li>
      </ul>
     </td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
    </tr>
   </tbody>
  </table>
