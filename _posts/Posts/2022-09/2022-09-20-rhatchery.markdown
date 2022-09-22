@@ -15,7 +15,7 @@ image:    "rHatchery-icon.svg"
  <p>We came up with many different ways of doing it until we figured out that, first, the rHatchery had to eat its own dog food.</p>
 
 <h1>Trust Agreements</h1>
- <p>Jose came up with a new tool we call a Trust Agreement. These were inspired by J Kim Wright&rsquo;s <a href="#en01"><sup id="bm01">Concious Contracts&copy;</span</a></p>
+ <p>Jose came up with a new tool we call a Trust Agreement. These were inspired by J Kim Wright&rsquo;s <a href="#en01">Concious Contracts&copy;<sup id="bm01">1&nbsp;</span></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
