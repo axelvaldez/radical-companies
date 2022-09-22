@@ -17,7 +17,7 @@ image:    "rHatchery-icon.svg"
 <h1>Agreements</h1>
  <h2>Trust Agreements</h2>
   <p>Jose came up with a tool we call a <em>Trust Agreement</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Each would-be co-owner answers these questions for herself and the others takes note. Then, they come up with a narrative that touches on all these topics.</p>
-  <table class="_center" style="border:1px solid black; padding:5px; ">
+  <table class="_center" style="border:1px solid black; padding:5px; width:70%; ">
    <tbody>
     <tr>
      <th>Mindset</th>
@@ -107,7 +107,7 @@ image:    "rHatchery-icon.svg"
   <p>It surprised us how well this worked to bring out the concerns of the people involved: people laid all kinds of things about themselves that made them volnerable because they felt phychologically safe. So far, we've done it with early adopters, so we don't have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
  <h2>Foundation Agreements</h2>
   <p>The <em>Trust Framework</em> works for people, but not for communities. For them, the <span class="_paradigm">RADICAL FOUNDATIONS</span> may be more appropriate for a <em>Foundation Agreement</em>,</p>
-  <table class="_center" style="border:1px solid black; padding:5px; ">
+  <table class="_center" style="border:1px solid black; padding:5px; width:70%; ">
    <tbody>
     <tr>
      <th style="3in; "><em style="text-align:left; ">Relationships</em>: Meaning & Belonging</th>
@@ -158,7 +158,7 @@ image:    "rHatchery-icon.svg"
 <h1>rCommunities</h1>
  <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce them to an rCommunity which is a group of people with compantile <em>Trust Agreements</em> and interested in similar things.</p>
  <p>There already are a few rCommunities,</p>
-  <table class="_center" style="border:1px solid black; padding:5px; ">
+  <table class="_center" style="border:1px solid black; padding:5px; width:70%; ">
    <tbody>
     <tr>
      <th>rCORE</th> 
