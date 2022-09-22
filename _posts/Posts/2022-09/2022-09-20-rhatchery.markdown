@@ -109,7 +109,7 @@ image:    "rHatchery-icon.svg"
     </tbody>
    </table>
   </div>
-  <p>It surprised us how well this worked to bring out the concerns of the people involved: people laid all kinds of things about themselves that made them volnerable because they felt phychologically safe. So far, we've done it with early adopters, so we don't have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
+  <p>It surprised us how well this worked to bring out the concerns of the people involved: people laid all kinds of things about themselves that made them volnerable because they felt phychologically safe. So far, we&rsquo;ve done it with early adopters, so we don&rsquo;t have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
  <h2>Foundation Agreements</h2>
   <p>The <em>Trust Framework</em> works for people, but not for communities. For them, the <span class="_paradigm">RADICAL FOUNDATIONS</span> may be more appropriate for a <em>Foundation Agreement</em>,</p>
   <div class="_center">
@@ -179,7 +179,7 @@ image:    "rHatchery-icon.svg"
      <td>
       <p><em>CORE</em> was an interpretation service (<em>i.e.</em>, translations for the rest of us) focused on injuries covered by the US <em>Worker&rsquo;s Comp</em> insurance.</p>
       <p>The business was founded by Carlos Suarez, a Venezuelan native, through Alicia Castillo-Holley Jose and I connected with Carlos and he voiced his wish to make the company more &ldquo;democratic&rdquo;. He read our book <em>RADICAL COMPANIES</em> and, after a few more conversations, it was clear that he was ready for the <span class="_paradigm">RADICAL</span> model.</p>
-      <p>The other thing that attracted us is that inpretations &rdquo;agencies&ldquo; are gig shops: interpreters get paid for the interpretations they do. Not unlike <em>DoorDash</em> or <em>Uber Eats</em>. The gig workers deliver the value and get paid a delivery fee, the &rdquo;agencies&ldquo; keeps eveything else, including brand value (<em>i.e.</em>, that&rsquo;s why I didn&rsquo;t have to explain what <em>DoorDash</em> or <em>Uber Eats</em> are). This was exciting because if the transformation of <em>CORE</em> into <em>rCORE</em> went well, we would have a template for other gig businesses to transform to <span class="_paradigm">RADICAL</span> companies.</p>
+      <p>Besides the opportunity to help CORE&rsquo;s transformation is that inpretations &rdquo;agencies&ldquo; are gig shops: interpreters get paid for the interpretations they do. Not unlike <em>DoorDash</em> or <em>Uber Eats</em>. The gig workers deliver the value and get paid a delivery fee, the &rdquo;agencies&ldquo; keeps eveything else, including brand value (<em>i.e.</em>, that&rsquo;s why I didn&rsquo;t have to explain what <em>DoorDash</em> or <em>Uber Eats</em> are). This was exciting because if the transformation of <em>CORE</em> into <em>rCORE</em> went well, we would have a template for other gig businesses to transform to <span class="_paradigm">RADICAL</span> companies.</p>
      </td>
     </tr>
     <tr>
