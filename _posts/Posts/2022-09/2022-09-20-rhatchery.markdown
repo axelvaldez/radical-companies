@@ -15,7 +15,7 @@ image:    "rHatchery-icon.svg"
  <p>We came up with many different ways of doing it until we figured out that, first, the rHatchery had to eat its own dog food.</p>
 
 <h1>Trust Agreements</h1>
- <p>Jose came up with a tool we call a Trust Agreement.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> Each would-be co-owner answers these questions for herself and the others takes note. Then, they come up with a narrative that touches on all these topics.</p>
+ <p>Jose came up with a tool we call a <em>Trust Agreement</em>.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> Each would-be co-owner answers these questions for herself and the others takes note. Then, they come up with a narrative that touches on all these topics.</p>
  <table>
   <tbody>
    <tr>
