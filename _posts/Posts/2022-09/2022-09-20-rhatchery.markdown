@@ -21,10 +21,9 @@ image:    "rHatchery-icon.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
+    J Kim Wright.
+    <em>Concious Contracts.</em>
+    <<a href="https://radicals.world/U2nQNc" target="_blank">https://radicals.world/U2nQNc</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
