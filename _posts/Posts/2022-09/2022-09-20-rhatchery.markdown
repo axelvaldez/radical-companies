@@ -175,7 +175,7 @@ image:    "rHatchery-icon.svg"
     <td class="_spacer"></td>
    </tr>
    <tr>
-    <th>Practices & Alignment</th>
+    <th>Alignment & Experimentatiom</th>
     <td>
      <ul>
       <li>Do we all agree to the language of the agreement?</li>
