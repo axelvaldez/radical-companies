@@ -103,6 +103,9 @@ image:    "rHatchery-icon.svg"
        </ul>
       </td>
      </tr>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
     </tbody>
     <tfoot>
      <tr>
