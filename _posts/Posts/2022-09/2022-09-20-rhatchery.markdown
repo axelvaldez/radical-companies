@@ -162,6 +162,9 @@ image:    "rHatchery-icon.svg"
   <table style="border:1px solid black; padding:5px; width:70%; ">
    <tbody>
     <tr>
+     <td class="_spacer"></td>
+    </tr>
+    <tr>
      <th>rCORE</th> 
      <td></td>
     </tr>
