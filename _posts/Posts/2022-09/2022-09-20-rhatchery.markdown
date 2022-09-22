@@ -181,17 +181,37 @@ image:    "rHatchery-icon.svg"
     <tr>
      <td class="_spacer"></td>
     </tr>
+    <tr>
+     <th>rJourney</th> 
+     <td></td>
+    </tr>
+    <tr>
+     <td class="_spacer"></td>
+    </tr>
+    <tr>
+     <th>Posits</th> 
+     <td></td>
+    </tr>
+    <tr>
+     <td class="_spacer"></td>
+    </tr>
+    <tr>
+     <th>Small Bites</th> 
+     <td></td>
+    </tr>
+    <tr>
+     <td class="_spacer"></td>
+    </tr>
+    <tr>
+     <th>70/30</th> 
+     <td></td>
+    </tr>
+    <tr>
+     <td class="_spacer"></td>
+    </tr>
    </tbody>
   </table>
  <div>
-
-<h1>rJourney</h1>
-
-<h1>Posits</h1>
-
-<h1>Small Bites</h1>
-
-<h1>70/30</h1>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
