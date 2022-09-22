@@ -103,6 +103,9 @@ image:    "rHatchery-icon.svg"
        </ul>
       </td>
      </tr>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
     </tbody>
     <tfoot>
      <tr>
@@ -154,6 +157,9 @@ image:    "rHatchery-icon.svg"
         <li>Are there (relatively cheap) experiments that we can do before we go whole hog on these missions?</li>
        </ul>
       </td>
+     </tr>
+     <tr>
+      <td class="_spacer"></td>
      </tr>
     </tbody>
     <tfoot>
@@ -227,6 +233,9 @@ image:    "rHatchery-icon.svg"
      <th>70/30</th> 
      <td></td>
     </tr>
+     <tr>
+      <td class="_spacer"></td>
+     </tr>
     </tbody>
     <tfoot>
      <tr>
