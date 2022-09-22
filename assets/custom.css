@@ -269,6 +269,7 @@ td {
   vertical-align:top;
   padding-left:1em;
   font-size:smaller;
+  padding-right:10px;
 }
 td._spacer {
   column-span:all;
