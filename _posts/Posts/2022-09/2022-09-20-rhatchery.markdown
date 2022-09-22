@@ -18,7 +18,7 @@ image:    "rHatchery-icon.svg"
  <h2>Trust Agreements</h2>
   <p>Jose came up with a tool we call a <em>Trust Agreement</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Each would-be co-owner answers these questions for herself and the others takes note. Then, they come up with a narrative that touches on all these topics.</p>
   <table>
-   <tbody style="boder:1px solid black; ">
+   <tbody class="_center" style="border:1px solid black; ">
     <tr>
      <th>Mindset</th>
      <td>
@@ -108,7 +108,7 @@ image:    "rHatchery-icon.svg"
  <h2>Foundation Agreements</h2>
   <p>The <em>Trust Framework</em> works for people, but not for communities. For them, the <span class="_paradigm">RADICAL FOUNDATIONS</span> may be more appropriate for a <em>Foundation Agreement</em>,</p>
   <table>
-   <tbody>
+   <tbody class="_center">
     <tr>
      <th style="3in; "><em style="text-align:left; ">Relationships</em>: Meaning & Belonging</th>
      <td>
@@ -156,20 +156,39 @@ image:    "rHatchery-icon.svg"
  <p>What the app does</p>
 
 <h1>rCommunities</h1>
- <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce him to an rHatchery Community.</p>
- <h2>rCORE</h2>
-  <p></p>
- <h2>#100lives</h2>
-  <ul>
-   <li>Sales folks</li>
-   <li>Programmers</li>
-   <li>Artists</li>
-  </ul>
-  <p></p>
+ <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce them to an rCommunity which is a group of people with compantile <em>Trust Agreements</em> and interested in similar things.</p>
+ <p>There already are a few rCommunities,</p>
+  <table>
+   <tbody class="_center">
+    <tr>
+     <th>rCORE</th> 
+     <td></td>
+    </tr>
+    <tr>
+     <td class="_spacer"></td>
+    </tr>
+    <tr>
+     <th>#100lives</th>
+     <td>
+      <ul>
+       <li>Sales folks</li>
+       <li>Programmers</li>
+       <li>Artists</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer"></td>
+    </tr>
+   </tbody>
+  </table>
 
 <h1>rJourney</h1>
- <p>Posits</p>
+
+<h1>Posits</h1>
+
 <h1>Small Bites</h1>
+
 <h1>70/30</h1>
 
 <h1 class="_section">ENDNOTES</h1>
