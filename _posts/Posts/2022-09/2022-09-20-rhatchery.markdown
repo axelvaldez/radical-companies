@@ -137,6 +137,60 @@ image:    "rHatchery-icon.svg"
    </tr>
   </table>
 
+
+ <table>
+  <tbody>
+   <tr>
+    <th>Meaning & Belonging</th>
+    <td>
+     <ul>
+      <li>Why do we do what we do?</li>
+      <li>How are you showing up?</li>
+      <li>Who are you?</li>
+      <li>Why do you need the others?</li>
+      <li>What do you feel we need to agree on?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
+   <tr>
+    <th>Decentralization & Transparency</th>
+    <td>
+     <ul>
+      <li>How will you address change?</li>
+      <li>How will we address disagreements?</li>
+      <li>How will we communicate with one another?</li>
+      <li>What do we do if communication is not enough?</li>
+      <li>Who will we ask for help from?</li>
+      <li>What commitments do we need to make?</li>
+      <li>How are our commitments practical?</li>
+      <li>What are the financial aspects of this agreement?</li>
+      <li>Do we need to meet any legal conditions?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
+   <tr>
+    <th>Practices & Alignment</th>
+    <td>
+     <ul>
+      <li>Do we all agree to the language of the agreement?</li>
+      <li>Is it as simple and direct as it can be?</li>
+      <li>Are we all able and willing to comply with the terms?</li>
+      <li>Can we make it a living part of our collaboration?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
+  </tbody>
+ </table>
+
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
