@@ -177,7 +177,8 @@ image:    "rHatchery-icon.svg"
     <tr>
      <th><span class="_r">rCORE</span></th> 
      <td>
-      <p><em>CORE</em> was an interpretation service (<em>i.e.</em>, translations for the rest of us) focused on injuries covered by the US <em>Worker&rsquo;s Comp</em> insurance. The business was founded by Carlos Suarez, a Venezuelan native. Jose and I connected with Carlos and he voiced his wish to make the company more &ldquo;democratic&rdquo;. He read our book <em>RADICAL COMPANIES</em> and, after a few more conversations, it was clear that he was ready for the <span class="_paradigm">RADICAL</span> model.</p>
+      <p><em>CORE</em> was an interpretation service (<em>i.e.</em>, translations for the rest of us) focused on injuries covered by the US <em>Worker&rsquo;s Comp</em> insurance.</p>
+      <p>The business was founded by Carlos Suarez, a Venezuelan native, through Alicia Castillo-Holley Jose and I connected with Carlos and he voiced his wish to make the company more &ldquo;democratic&rdquo;. He read our book <em>RADICAL COMPANIES</em> and, after a few more conversations, it was clear that he was ready for the <span class="_paradigm">RADICAL</span> model.</p>
       <p>The other thing that attracted us is that inpretations &rdquo;agencies&ldquo; are gig shops: interpreters get paid for the interpretations they do. Not unlike <em>DoorDash</em> or <em>Uber Eats</em>. The gig workers deliver the value and get paid a delivery fee, the &rdquo;agencies&ldquo; keeps eveything else, including brand value (<em>i.e.</em>, that&rsquo;s why I didn&rsquo;t have to explain what <em>DoorDash</em> or <em>Uber Eats</em> are). This was exciting because if the transformation of <em>CORE</em> into <em>rCORE</em> went well, we would have a template for other gig businesses to transform to <span class="_paradigm">RADICAL</span> companies.</p>
      </td>
     </tr>
