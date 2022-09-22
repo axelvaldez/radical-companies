@@ -16,15 +16,6 @@ image:    "rHatchery-icon.svg"
 
 <h1>Trust Agreements</h1>
  <p>Jose came up with a new tool we call a Trust Agreement. These were inspired by J Kim Wright&rsquo;s <a href="#en01"><sup id="bm01">Concious Contracts&copy;</span</a></p>
- <p></p>
- <p></p>
- <p></p>
-
-<h1>&nbsp;</h1>
- <p></p>
- <p></p>
- <p></p>
- <p></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
