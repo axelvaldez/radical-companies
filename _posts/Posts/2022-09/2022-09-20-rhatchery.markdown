@@ -188,10 +188,10 @@ image:    "rHatchery-icon.svg"
    <p>We are just starting with this, but Dr Mike already found out that we can get a six-month program accredited.</p>
    <p>We are also thinking of also lining up companies that would be willing to take these folks as paid interns. We have a program at Encora Mexico<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> where we take recent graduates and put them through a six month program, with the last two months working with a client and it has worked fantastically well. Graduates from this program, called Apprentice, have grown to be superstars.</p>
    <p>With <em>#100lives</em> we hope to enable people to benefit from the Silicon Valley economy, as Sales folks and Developers. Once we get this smoothed out, we will go after other talents (<em>e.g.</em>, Artists). BTW, the name is inspired by #100devs, <span class="_quotespan">A FREE LIVE Coding Bootcamp</span>, this  program was founded by Leon Noel<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> to <span class="_quotespan">help POC unlock high growth careers as software engineers.</span> The progam is working fantastically well.</p>
-  <h2>rJourney</h2>
-  <h2>Posits</h2>
   <h2>Small Bites</h2>
   <h2>70/30</h2>
+  <h2>rJourney</h2>
+  <h2>Posits</h2>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
