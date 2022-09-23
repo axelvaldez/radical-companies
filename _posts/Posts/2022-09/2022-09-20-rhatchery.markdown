@@ -176,7 +176,7 @@ image:    "rHatchery-icon.svg"
  <p>What the app does?</p>
 
 <h1>rCommunities</h1>
- <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce them to an <span class="_quotespan">rCommunity</span> which is a group of people with compatible <em>Trust Agreements</em> and interested in similar things.</p>
+ <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce them to an <em>rCommunity</em> which is a group of people with compatible <em>Trust Agreements</em> and interested in similar things.</p>
  <p>There already are a few rCommunities.</p>
   <h2>rCORE</h2>
    <p><em>CORE Communications</em> is an interpretation service focused on injuries covered by the US <em>Worker&rsquo;s Comp</em> insurance.</p>
