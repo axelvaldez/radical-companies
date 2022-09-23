@@ -18,7 +18,7 @@ image:    "rHatchery-icon.svg"
  <h2>Trust Agreements</h2>
   <p>Jose came up with a tool we call a <em>Trust Agreement</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Each would-be co-owner answers these questions for herself and the others takes note. Then, they come up with a narrative that touches on all these topics.</p>
   <div class="_center">
-   <table style="width:80%; ">
+   <table style="width:90%; ">
     <tbody style="border:1px solid black;">
      <tr>
       <td class="_spacer"></td>
@@ -118,7 +118,7 @@ image:    "rHatchery-icon.svg"
  <h2>Foundation Agreements</h2>
   <p>The <em>Trust Framework</em> works for people, but not for communities. For them, the <span class="_paradigm">RADICAL FOUNDATIONS</span> may be more appropriate for a <em>Foundation Agreement</em>,</p>
   <div class="_center">
-   <table style="width:80%; ">
+   <table style="width:90%; ">
     <tbody style="border:1px solid black;">
      <tr>
       <td class="_spacer"></td>
@@ -179,7 +179,7 @@ image:    "rHatchery-icon.svg"
  <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce them to an <span class="_r">rCommunity</span> which is a group of people with compantile <em>Trust Agreements</em> and interested in similar things.</p>
  <p>There already are a few rCommunities,</p>
   <div class="_center">
-   <table style="width:80%; ">
+   <table style="width:90%; ">
     <tbody style="border:1px solid black;">
      <tr>
       <td class="_spacer"></td>
