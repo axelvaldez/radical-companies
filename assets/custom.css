@@ -257,7 +257,7 @@ h1._section {
   font-size:smaller;
 }
 .tr p {
-  font-size: smaller;
+  font-size:x-small;
 }
 th {
   text-align:right;
@@ -271,6 +271,7 @@ td {
   text-align:left;
   vertical-align:top;
   padding-left:1em;
+  padding-right: 1em;
   font-size:smaller;
   padding-right:10px;
 }
