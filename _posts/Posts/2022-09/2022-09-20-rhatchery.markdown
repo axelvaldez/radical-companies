@@ -177,88 +177,40 @@ image:    "rHatchery-icon.svg"
 
 <h1>rCommunities</h1>
  <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce them to an <span class="_r">rCommunity</span> which is a group of people with compantile <em>Trust Agreements</em> and interested in similar things.</p>
- <p>There already are a few rCommunities,</p>
-  <div class="_center">
-   <table style="width:90%; ">
-    <tbody style="border:1px solid black;">
-     <tr>
-      <td class="_spacer"></td>
-     </tr>
-     <tr>
-      <th><span class="_r">rCORE</span></th> 
-      <td>
-       <p><em>CORE Communications</em> is an interpretation service focused on injuries covered by the US <em>Worker&rsquo;s Comp</em> insurance.</p>
-       <p>The business was founded by Carlos Suarez, a Venezuelan native, through Alicia Castillo-Holley Jose and I connected with Carlos and he voiced his wish to make the company more &ldquo;democratic&rdquo;. He read our book <em>RADICAL COMPANIES</em> and, after a few more conversations, it was clear that he was ready for the <span class="_paradigm">RADICAL</span> model.</p>
-       <p>CORE&rsquo;s transformation was exciting, but even more so is that inpretations &rdquo;agencies&ldquo; are gig shops: interpreters get paid for the interpretations they do. Not unlike <em>DoorDash</em> or <em>Uber Eats</em>. The gig workers deliver the value and get paid a small for each delivery&mdash;the &rdquo;agencies&ldquo; keep the profits and the brand value which brings up their share value, etc. This was exciting because given that <em>CORE</em>&rsquo;s transformation into <em><span style="font-weight:bold; ">r</span>CORE</em> goes well, we will have a template for other gig businesses to transform to <span class="_paradigm">RADICAL</span> companies.</p>
-      </td>
-     </tr>
-     <tr>
-      <td class="_spacer"></td>
-     </tr>
-     <tr>
-      <th>#100lives</th>
-      <td>
-       <p>About a month ago Jose Contreras, a dear friend, talked to me about what he and Dr Mike Ybarra wanted to do. It was crazy talke, but I always listen to it because it oftentimes turns out not to be so crazy after all. He wanted to help people on probation get started on carreers in the technology space, in particular in the area of sales. He wanted to help them shit for the vicioius circle that got him in jail, to virtuous circle that could keep them out of jail.</p>
-       <p>He personally went through the experience of going to jail and later turning his life around. He kept working and going to school, all the way to an MBA. He wanted to create something that would help people get to the financial wealth in this Valley. &ldquo;I&rsquo;ve had my &lsquo;aha!&rsquo; moment when I realized that I can change my life, and I want that other people to have that chance, too.&rdquo;</p>
-       <p>We are just starting with this, but Dr Mike already found out that we can get a six-month program accredited.</p>
-       <p>We are also thinking of also lining up companies that would be willing to take these folks as paid interns. We have a program at Encora Mexico<a href="#en03"><sup id="en03">3&nbsp;</sup></a> where we take recent graduates and put them through a six month program, with the last two months working with a client and that has been gold. Graduates from this program, called Apprentice, have grown to be superstars.</p>
-       <p>BTW, the name is inspired by #100devs, &ldquo;A FREE LIVE Coding Bootcamp&rdquo;, the fantastic program founded by @leonnoel<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> to &ldquo;help POC unlock high growth careers as software engineers.&rdquo;</p>
-        <table>
-         <tbody>
-          <tr>
-           <td style="font-size:larger; ">
-            <h2>#100lives</h2>
-             <p>Will help people participate in the Silicon Valley economy as,</p>
-             <ul>
-              <li>Sales folks</li>
-              <li>Programmers</li>
-              <li>Artists</li>
-            </ul>
-           </td>
-          </tr>
-         </tbody>
-        </table>
-      </td>
-     </tr>
-     <tr>
-      <td class="_spacer"></td>
-     </tr>
-     <tr>
-      <th><span class="_r">rJourney</span></th> 
-      <td></td>
-     </tr>
-     <tr>
-      <td class="_spacer"></td>
-     </tr>
-     <tr>
-      <th>Posits</th> 
-      <td></td>
-     </tr>
-     <tr>
-      <td class="_spacer"></td>
-     </tr>
-     <tr>
-      <th>Small Bites</th> 
-      <td></td>
-     </tr>
-     <tr>
-      <td class="_spacer"></td>
-     </tr>
-     <tr>
-      <th>70/30</th> 
-      <td></td>
-     </tr>
+ <p>There already are a few rCommunities.</p>
+  <h2>rCORE</h2>
+   <p><em>CORE Communications</em> is an interpretation service focused on injuries covered by the US <em>Worker&rsquo;s Comp</em> insurance.</p>
+   <p>The business was founded by Carlos Suarez, a Venezuelan native, through Alicia Castillo-Holley Jose and I connected with Carlos and he voiced his wish to make the company more &ldquo;democratic&rdquo;. He read our book <em>RADICAL COMPANIES</em> and, after a few more conversations, it was clear that he was ready for the <span class="_paradigm">RADICAL</span> model.</p>
+   <p>CORE&rsquo;s transformation was exciting, but even more so is that inpretations &rdquo;agencies&ldquo; are gig shops: interpreters get paid for the interpretations they do. Not unlike <em>DoorDash</em> or <em>Uber Eats</em>. The gig workers deliver the value and get paid a small for each delivery&mdash;the &rdquo;agencies&ldquo; keep the profits and the brand value which brings up their share value, etc. This was exciting because given that <em>CORE</em>&rsquo;s transformation into <em><span style="font-weight:bold; ">r</span>CORE</em> goes well, we will have a template for other gig businesses to transform to <span class="_paradigm">RADICAL</span> companies.</p>
+  <h2>#100lives</h2>
+   <p>About a month ago Jose Contreras, a dear friend, talked to me about what he and Dr Mike Ybarra wanted to do. It was crazy talke, but I always listen to it because it oftentimes turns out not to be so crazy after all. He wanted to help people on probation get started on carreers in the technology space, in particular in the area of sales. He wanted to help them shit for the vicioius circle that got him in jail, to virtuous circle that could keep them out of jail.</p>
+   <p>He personally went through the experience of going to jail and later turning his life around. He kept working and going to school, all the way to an MBA. He wanted to create something that would help people get to the financial wealth in this Valley. &ldquo;I&rsquo;ve had my &lsquo;aha!&rsquo; moment when I realized that I can change my life, and I want that other people to have that chance, too.&rdquo;</p>
+   <p>We are just starting with this, but Dr Mike already found out that we can get a six-month program accredited.</p>
+   <p>We are also thinking of also lining up companies that would be willing to take these folks as paid interns. We have a program at Encora Mexico<a href="#en03"><sup id="en03">3&nbsp;</sup></a> where we take recent graduates and put them through a six month program, with the last two months working with a client and that has been gold. Graduates from this program, called Apprentice, have grown to be superstars.</p>
+   <p>BTW, the name is inspired by #100devs, &ldquo;A FREE LIVE Coding Bootcamp&rdquo;, the fantastic program founded by @leonnoel<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> to &ldquo;help POC unlock high growth careers as software engineers.&rdquo;</p>
+    <table>
+     <tbody>
       <tr>
-       <td class="_spacer"></td>
-      </tr>
-     </tbody>
-     <tfoot>
-      <tr>
-       <td class="_spacer"></td>
-      </tr>
-     </tfoot>
-    </table>
-   <div>
+       <td style="font-size:larger; ">
+        <h2>#100lives</h2>
+         <p>Will help people participate in the Silicon Valley economy as,</p>
+          <ul>
+           <li>Sales folks</li>
+           <li>Programmers</li>
+           <li>Artists</li>
+          </ul>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+   <h2>rJourney</h2>
+    <p></p>
+   <h2>Posits</h2> 
+    <p></p>
+   <h2>Small Bites</h2>
+    <p></p>
+   <h2>70/30</h2>
+    <p></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
