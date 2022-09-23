@@ -228,17 +228,17 @@ h1 {
 h2 {
   font-size:30px;
 }
-h1 ~ h2 ~ p, h1 ~ p {
+h1~p, h1~h2 {
   margin-left:1m;
 }
-h2~p {
-  margin-left: 2m;
+h2~* {
+  margin-left:2m;
 }
-h1~p::before, h1~h2~p::before {
-  content: "> ";
+h1~p::before, h1~h2::before {
+  content: " > ";
 }
-h2~p::before {
-  content:"> ";
+ h2 ~ *::before {
+  content:" >> ";
 }
 li {
   font-size:smaller;
