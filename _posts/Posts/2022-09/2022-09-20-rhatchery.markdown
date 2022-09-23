@@ -198,7 +198,10 @@ image:    "rHatchery-icon.svg"
      <tr>
       <th>#100lives</th>
       <td>
-       <p>About a month ago Jose Contreras, a dear friend, talked to me about what he and Dr Mike Ybarra wanted to do. I always listen to Jose&rsquo;s crazy talk because it often turns out not so crazy after all. He wanted to help people on probation get started on carreers in the technology space, in particular in the aread of sales. He personally went through the experience of going to jail and turning his life around, all the way to an MBA. He wanted to create something that would help people get to the financial wealth in this Valley. &ldquo;I&rsquo;ve had my &lsquo;aha!&rsquo; moment and I realized that can change my life&hellip; now what?&rdquo;</p>
+       <p>About a month ago Jose Contreras, a dear friend, talked to me about what he and Dr Mike Ybarra wanted to do. It was crazy talke, but I always listen to it because it oftentimes turns out not to be so crazy after all. He wanted to help people on probation get started on carreers in the technology space, in particular in the area of sales. He wanted to help them shit for the vicioius circle that got him in jail, to virtuous circle that could keep them out of jail.</p>
+       <p>He personally went through the experience of going to jail and later turning his life around. He kept working and going to school, all the way to an MBA. He wanted to create something that would help people get to the financial wealth in this Valley. &ldquo;I&rsquo;ve had my &lsquo;aha!&rsquo; moment when I realized that I can change my life, and I want that other people to have that chance, too.&rdquo;</p>
+       <p>We are just starting with this, but Dr Mike already found out that we can get a six-month program accredited.</p>
+       <p>We are also thinking of also lining up companies that would be willing to take these folks as paid interns. We have a program at Encora Mexico<a href="#en01"><sup id="en04">4&nbsp;</sup></a> where we take recent graduates and put them through a six month program, with the last two months working with a client and that has been gold. Graduates from this program, called Apprentice, have grown to be superstars.</p>
        <p>BTW, the name is inspired by #100devs, &ldquo;A FREE LIVE Coding Bootcamp&rdquo;, the fantastic program founded by @leonnoel<sup id="bm03">3&nbsp;</sup></a> to &ldquo;help POC unlock high growth careers as software engineers.&rdquo;</p>
        <ul>
         <li>Sales folks</li>
@@ -268,6 +271,13 @@ image:    "rHatchery-icon.svg"
     @leonnoel
     <<a href="https://twitter.com/leonnoel">https://twitter.com/leonnoel</a>>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item">
+    Encorac, Inc.
+    <<a href="https://encora.com">https://encora.com</a>>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
