@@ -10,6 +10,12 @@ image:    "rHatchery-icon.svg"
  <p>I think we know what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into <span class="_paradigm">RADICAL</span> companies; businesses that want to get away from the <span class="_paradigm">FIAT</span> path and become healthy companies.</p>
 </div>
 
+
+<h1>test h1</h1>
+ <p>test h1~p</p>
+ <h2>test h2</h2>
+  <p>test h2~p</p>
+
 <h1>&nbsp;</h1>
  <p>I think we are getting a better idea of what the rHatchery is: We want to help <em><span class="_paradigm">FIAT</span> businesses</em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> transform into <em><span class="_paradigm">RADICAL</span> companies</em>. We want to engage with businesses that want to get away from the <span class="_paradigm">FIAT</span> ways and want to get on the path of becoming healthy companies.</p>
  <p>We came up with many different ways of doing this and a few tools.</p>
@@ -170,15 +176,10 @@ image:    "rHatchery-icon.svg"
    </table>
   </div>
 
-<h1>RADs!</h1>
+<h1>RADs! Apps</h1>
  <p>In collaboration with Xipe Technology, a Mexican company, we are about to launch a mobile app called <em>RADs!</em>.</p>
  <p>What are RAD DISTRIBUTIONs?</p>
  <p>What the app does?</p>
-
-<h1>test h1</h1>
- <p>test h1~p</p>
- <h2>test h2</h2>
-  <p>test h2~p</p>
 
 <h1>rCommunities</h1>
  <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce them to an <em>rCommunity</em> which is a group of people with compatible <em>Trust Agreements</em> and interested in similar things.</p>
