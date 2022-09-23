@@ -324,8 +324,9 @@ td._spacer:after {
   font-family:'Courier New', Courier, monospace;
 }
 ._quotespan::before {
-  content:"&ldquo;<em>";
+  content:"“";
+  font-style:italic;
 }
 ._quotespan::after {
-  content: "</em>&rdquo;";
+  content: "”";
 }
