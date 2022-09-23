@@ -237,7 +237,7 @@ h2~p {
 h1~p::before, h1~h2~p::before {
   content: "> ";
 }
-h2~p::before {m;
+h2~p::before {
   content:"> ";
 }
 li {
