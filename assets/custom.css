@@ -231,6 +231,9 @@ h2 {
 h1~p, h1~h2, h2~p {
   margin-left:1em;
 }
+h1+p {
+  margin-left: 1em;
+}
 li {
   font-size:smaller;
 }
