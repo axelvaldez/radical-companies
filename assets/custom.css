@@ -229,17 +229,43 @@ h2 {
   font-size:30px;
 }
 
-h1~h2 {
+h1+h2 {
   margin-left:1em;
-  color:orange;
+  color:darkseagreen;
+}
+h1>h2 {
+  margin-left: 1em;
+  color:darkgreen;
+}
+h1~h2 {
+  margin-left: 1em;
+  color:green;
+}
+
+h2+p {
+  margin-left: 2em;
+  color:red;
+}
+h2>p {
+  margin-left: 2em;
+  color:rebeccapurple;
 }
 h2~p {
   margin-left: 2em;
-  color: red;
+  color:royalblue;
 }
-h1+p, h1>p {
+
+h1+p {
   margin-left:1em;
   color:blue;
+}
+h1>p {
+  margin-left:1em;
+  color:cyan;
+}
+h1~p {
+  margin-left: 1em;
+  color:royalblue;
 }
 
 li {
