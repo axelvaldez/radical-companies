@@ -199,7 +199,7 @@ image:    "rHatchery-icon.svg"
       <th>#100lives</th>
       <td>
        <p>About a month ago Jose Contreras, a dear friend, talked to me about what he and Dr Mike Ybarra wanted to do. I always listen to Jose&rsquo;s crazy talk because it often turns out not so crazy after all. He wanted to help people on probation get started on carreers in the technology space, in particular in the aread of sales. He personally went through the experience of going to jail and turning his life around, all the way to an MBA. He wanted to create something that would help people get to the financial wealth in this Valley. "I&rsquo;ve had my &lsquo;aha!&rsquo; moment and I realized that can change my life&hellip; now what?&rdquo;</p>
-       <p>BTW, the name is inspired by #100devs, &ldquo;A FREE LIVE Coding Bootcamp&rdquo;, the fantastic program founded by <a href="https://twitter.com/leonnoel">@leonnoel</a><a href="#en03"><sup id="bm03">3&nbsp;</sup></a> that helps &ldquo;POC unlock high growth careers as software engineers.&rdquo;</p>
+       <p>BTW, the name is inspired by #100devs, &ldquo;A FREE LIVE Coding Bootcamp&rdquo;, the fantastic program founded by @leonnoel<sup id="bm03">3&nbsp;</sup></a> that helps &ldquo;POC unlock high growth careers as software engineers.&rdquo;</p>
        <ul>
         <li>Sales folks</li>
         <li>Programmers</li>
