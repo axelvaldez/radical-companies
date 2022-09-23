@@ -228,12 +228,8 @@ h1 {
 h2 {
   font-size:30px;
 }
-h1~p, h1~h2 {
-  margin-left:2em;
-}
-
-h2~p {
-  margin-left:4em;
+h1~p, h1~h2, h2~p {
+  margin-left:1em;
 }
 li {
   font-size:smaller;
