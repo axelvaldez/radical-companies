@@ -228,7 +228,7 @@ h1 {
 h2 {
   font-size:30px;
 }
-h1~p, h1~h2, h2~p {
+h1~h2, h1~p, h2~p {
   margin-left:1em;
 }
 li {
