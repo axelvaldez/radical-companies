@@ -258,6 +258,7 @@ h1._section {
 }
 .tr p {
   font-size:x-small;
+  color:red;
 }
 th {
   text-align:right;
