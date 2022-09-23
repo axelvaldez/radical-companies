@@ -232,8 +232,11 @@ h2 {
 h1 ~ h2, h1 ~ p {
   margin-left:1m;
 }
-h2 ~ p {
-  margin-left:2m;
+h2~p {
+  margin-left: 2m;
+}
+h2~p::before {
+  content:"> ";
 }
 li {
   font-size:smaller;
