@@ -175,9 +175,9 @@ image:    "rHatchery-icon.svg"
  <p>What are RAD DISTRIBUTIONs?</p>
  <p>What the app does?</p>
 
-<h1>test 2 h1</h1>
- <h2>test 2 h2</h2>
-  <p>test 2 p</p>
+<h1>test h1</h1>
+ <h2>test h2</h2>
+  <p>test p</p>
 
 <h1>rCommunities</h1>
  <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce them to an <em>rCommunity</em> which is a group of people with compatible <em>Trust Agreements</em> and interested in similar things.</p>
