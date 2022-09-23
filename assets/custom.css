@@ -235,7 +235,10 @@ h1 ~ h2, h1 ~ p {
 h2~p {
   margin-left: 2m;
 }
-h2~p::before {
+h1~p::before, h1~h2~p::before {
+  content: "> ";
+}
+h2~p::before {m;
   content:"> ";
 }
 li {
