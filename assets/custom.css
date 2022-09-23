@@ -248,15 +248,15 @@ h1._section {
   font-size:30px;
 }
 
-.table {
+table {
   width:50%;
 }
-.tr {
+tr {
   margin-bottom:0;
   vertical-align:top;
   font-size:smaller;
 }
-.tr p {
+tr p {
   font-size:x-small;
   color:red;
 }
