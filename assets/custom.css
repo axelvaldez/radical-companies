@@ -229,7 +229,7 @@ h2 {
   font-size:30px;
 }
 
-h1~h2 {
+h1>h2 {
   margin-left:1em;
   color:orange;
 }
