@@ -232,7 +232,7 @@ h2 {
 h1 ~ h2, h1 ~ p {
   margin-left:1m;
 }
-h1 ~ h2 ~ p {
+h2 ~ p {
   margin-left:2m;
 }
 li {
