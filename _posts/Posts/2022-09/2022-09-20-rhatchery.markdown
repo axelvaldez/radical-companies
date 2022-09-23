@@ -22,7 +22,7 @@ image:    "rHatchery-icon.svg"
 
 <h1>Agreements</h1>
  <h2>Trust Agreements</h2>
-  <p>Jose came up with a tool we call a <em>Trust Agreement</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Each would-be co-owner answers these questions for herself and the others takes note. Then, they come up with a narrative that touches on all these topics.</p>
+  <p>Jose came up with a tool we call a <em>Trust Agreement</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Each would-be co-owner answers these questions for herself while everybody takes note. Then, they come up with a narrative that touches on all these topics.</p>
   <div class="_center">
    <table style="width:80%; ">
     <tbody style="border:1px solid black;">
