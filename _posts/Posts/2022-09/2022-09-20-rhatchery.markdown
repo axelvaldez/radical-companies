@@ -193,10 +193,10 @@ image:    "rHatchery-icon.svg"
       <tr>
        <td style="font-size:larger; ">
         <h2>#100lives</h2>
-         <p>Will help people participate in the Silicon Valley economy as,</p>
+         <p>Empowers people participate in the Silicon Valley economy, as,</p>
           <ul>
            <li>Sales folks</li>
-           <li>Programmers</li>
+           <li>Developers</li>
            <li>Artists</li>
           </ul>
          </td>
