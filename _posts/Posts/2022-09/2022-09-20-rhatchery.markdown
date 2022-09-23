@@ -189,7 +189,7 @@ image:    "rHatchery-icon.svg"
       <td>
        <p><em>CORE Communications</em> is an interpretation service focused on injuries covered by the US <em>Worker&rsquo;s Comp</em> insurance.</p>
        <p>The business was founded by Carlos Suarez, a Venezuelan native, through Alicia Castillo-Holley Jose and I connected with Carlos and he voiced his wish to make the company more &ldquo;democratic&rdquo;. He read our book <em>RADICAL COMPANIES</em> and, after a few more conversations, it was clear that he was ready for the <span class="_paradigm">RADICAL</span> model.</p>
-       <p>CORE&rsquo;s transformation was exciting, but even more so is that inpretations &rdquo;agencies&ldquo; are gig shops: interpreters get paid for the interpretations they do. Not unlike <em>DoorDash</em> or <em>Uber Eats</em>. The gig workers deliver the value and get paid a delivery fee, the &rdquo;agencies&ldquo; keeps eveything else, including brand value (<em>i.e.</em>, that&rsquo;s why I didn&rsquo;t have to explain what <em>DoorDash</em> or <em>Uber Eats</em> are). This was exciting because if the transformation of <em>CORE</em> into <em>rCORE</em> went well, we will have a template for other gig businesses to transform to <span class="_paradigm">RADICAL</span> companies.</p>
+       <p>CORE&rsquo;s transformation was exciting, but even more so is that inpretations &rdquo;agencies&ldquo; are gig shops: interpreters get paid for the interpretations they do. Not unlike <em>DoorDash</em> or <em>Uber Eats</em>. The gig workers deliver the value and get paid a small for each delivery&mdash;the &rdquo;agencies&ldquo; keep the profits and the brand value which brings up their share value, etc. This was exciting because given that <em>CORE</em>&rsquo;s transformation into <em><span style="font-weight:bold; ">r</span>CORE</em> goes well, we will have a template for other gig businesses to transform to <span class="_paradigm">RADICAL</span> companies.</p>
       </td>
      </tr>
      <tr>
@@ -198,6 +198,7 @@ image:    "rHatchery-icon.svg"
      <tr>
       <th>#100lives</th>
       <td>
+       <p>BTW, the name is inspired by #100devs, &ldquo;A FREE LIVE Coding Bootcamp&rdquo; that <a href="https://twitter.com/leonnoel">@leonnoel</a><a href="#en03"><sup id="bm03">3&nbsp;</sup></a> founded to &ldquo;help POC unlock high growth careers as software engineers.&rdquo;</p>
        <ul>
         <li>Sales folks</li>
         <li>Programmers</li>
@@ -259,6 +260,13 @@ image:    "rHatchery-icon.svg"
     The Trust Agreement tool was inspired by J Kim Wright&rsquo;s <em>Concious Contracts&copy;</em>.
     <<a href="https://radicals.world/U2nQNc" target="_blank">https://radicals.world/U2nQNc</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    @leonnoel
+    <<a href="https://twitter.com/leonnoel">https://twitter.com/leonnoel</a>>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
