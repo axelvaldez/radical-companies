@@ -190,13 +190,13 @@ image:    "rHatchery-icon.svg"
    <p>BTW, the name is inspired by #100devs, &ldquo;A FREE LIVE Coding Bootcamp&rdquo;, the fantastic program founded by @leonnoel<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> to &ldquo;help POC unlock high growth careers as software engineers.&rdquo;</p>
    <p>#100lives enables people participate in the Silicon Valley economy, as Sales folks and Developers. Once we get this smooth out, we can go after other talents (<em>e.g.</em>, Artists).</p>
    <h2>rJourney</h2>
-    <p></p>
+    xxx
    <h2>Posits</h2> 
-    <p></p>
+    <p>xxx</p>
    <h2>Small Bites</h2>
-    <p></p>
+    <p>xxx</p>
    <h2>70/30</h2>
-    <p></p>
+    <p>xxx</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
