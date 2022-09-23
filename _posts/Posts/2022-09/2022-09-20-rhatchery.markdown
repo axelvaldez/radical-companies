@@ -206,7 +206,7 @@ image:    "rHatchery-icon.svg"
         <table>
          <tbody>
           <tr>
-           <td>
+           <td style="font-size:larger; ">
             <h2>#100lives</h2>
              <p>Will help people participate in the Silicon Valley economy as,</p>
              <ul>
