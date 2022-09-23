@@ -188,7 +188,7 @@ image:    "rHatchery-icon.svg"
    <p>We are just starting with this, but Dr Mike already found out that we can get a six-month program accredited.</p>
    <p>We are also thinking of also lining up companies that would be willing to take these folks as paid interns. We have a program at Encora Mexico<a href="#en03"><sup id="en03">3&nbsp;</sup></a> where we take recent graduates and put them through a six month program, with the last two months working with a client and that has been gold. Graduates from this program, called Apprentice, have grown to be superstars.</p>
    <p>BTW, the name is inspired by #100devs, &ldquo;A FREE LIVE Coding Bootcamp&rdquo;, the fantastic program founded by @leonnoel<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> to &ldquo;help POC unlock high growth careers as software engineers.&rdquo;</p>
-   <p>#100lives enables people participate in the Silicon Valley economy, as,</p>
+   <p>#100lives enables people participate in the Silicon Valley economy, as,</p>xxx
     <ul>
      <li>Sales folks</li>
      <li>Developers</li>
