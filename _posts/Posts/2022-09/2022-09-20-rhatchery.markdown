@@ -18,7 +18,7 @@ image:    "rHatchery-icon.svg"
  <h2>Trust Agreements</h2>
   <p>Jose came up with a tool we call a <em>Trust Agreement</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Each would-be co-owner answers these questions for herself and the others takes note. Then, they come up with a narrative that touches on all these topics.</p>
   <div class="_center">
-   <table style="width:90%; ">
+   <table style="width:70%; ">
     <tbody style="border:1px solid black;">
      <tr>
       <td class="_spacer"></td>
@@ -118,7 +118,7 @@ image:    "rHatchery-icon.svg"
  <h2>Foundation Agreements</h2>
   <p>The <em>Trust Framework</em> works for people, but not for communities. For them, the <span class="_paradigm">RADICAL FOUNDATIONS</span> may be more appropriate for a <em>Foundation Agreement</em>,</p>
   <div class="_center">
-   <table style="width:90%; ">
+   <table style="width:80%; ">
     <tbody style="border:1px solid black;">
      <tr>
       <td class="_spacer"></td>
