@@ -231,13 +231,13 @@ h2 {
 h1~p, h1~h2 {
   margin-left:1m;
 }
-h2~* {
+h2~p {
   margin-left:2m;
 }
 h1~p::before, h1~h2::before {
   content: " > ";
 }
- h2 ~ *::before {
+ h2~p::before {
   content:" >> ";
 }
 li {
