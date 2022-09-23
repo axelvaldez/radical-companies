@@ -237,7 +237,7 @@ h2~p {
   margin-left: 2em;
   color: red;
 }
-h1+p, h1~p {
+h1+p, h1>p {
   margin-left:1em;
   color:blue;
 }
