@@ -176,7 +176,7 @@ image:    "rHatchery-icon.svg"
  <p>What the app does?</p>
 
 <h1>test h1</h1>
- <p>test h1~p</h1>
+ <p>test h1~p</p>
  <h2>test h2</h2>
   <p>test h2~p</p>
 
