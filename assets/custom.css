@@ -229,6 +229,12 @@ h1 {
 h2 {
   font-size:30px;
 }
+h1 h2 {
+  padding-left:1m;
+}
+h1 h2 p {
+  padding-left:2m;
+}
 li {
   font-size:smaller;
 }
