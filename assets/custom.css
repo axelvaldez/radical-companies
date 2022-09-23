@@ -256,6 +256,9 @@ h1._section {
   vertical-align:top;
   font-size:smaller;
 }
+.tr p {
+  font-size: smaller;
+}
 th {
   text-align:right;
   vertical-align:top;
