@@ -16,10 +16,6 @@ image:    "rHatchery-icon.svg"
  <h2>test h1~h2</h2>
   <p>test h2~p</p>
   <p>test h2~p</p>
- <h2>test h1~h2</h2>
-  <p>test h2~p</p>
-  <p>test h2~p</p>
-  <p>test h2~p</p>
 <h1>test h1</h1>
   <p>test h1~p</p>
 5
