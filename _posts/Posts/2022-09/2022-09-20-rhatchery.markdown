@@ -170,7 +170,7 @@ image:    "rHatchery-icon.svg"
    </table>
   </div>
 
-<p>Other tools include <a href="https://radicalcompanies.com/2022/09/21/rads-app">the RADs! app</a> and <a href="https://radicalcompanies.com/2022/09/22/rcommunities">rCommunities</a>.</p>
+<p>Other tools include <a href="https://radicalcompanies.com/2022/09/21/rads-app" target="_blank">the RADs! app</a> and <a href="https://radicalcompanies.com/2022/09/22/rcommunities" target="_blank">rCommunities</a>.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
