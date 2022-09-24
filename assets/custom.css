@@ -250,10 +250,6 @@ h2>p {
   margin-left: 2em;
   color:rebeccapurple;
 }
-h2~p {
-  margin-left: 2em;
-  color:vio;
-}
 
 h1~p {
   margin-left: 1em;
