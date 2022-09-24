@@ -230,15 +230,15 @@ h2 {
 }
 
 h1~h2 {
-  margin-left: 1em;
+  margin-left:1em;
   color:royalblue;
 }
 h2~div~p {
-  margin-left: 2em;
+  margin-left:2em;
   color:red;
 }
 h1~p {
-  margin-left: 1em;
+  margin-left:2em;
   color:greenyellow;
 }
 
