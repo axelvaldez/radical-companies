@@ -22,44 +22,6 @@ image:    "rHatchery-icon.svg"
 <h1>But Wait: There Is More!</h1>
  <p>The other community so far is <a href="2022/09/22/rcommunity-100lives" target="_blank">#100lives</a>.</p>
 
-<h1 class="_section">ENDNOTES</h1>
- <ol>
-  <li id="en01">
-   <p class="_list-item">
-    Matt Perez, Adrian Perez, Jose Leall
-    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient" target="_blank">>https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient</a>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en02">
-   <p class="_list-item">
-    The Trust Agreement tool was inspired by J Kim Wright&rsquo;s <em>Concious Contracts&copy;</em>.
-    <<a href="https://radicals.world/U2nQNc" target="_blank">https://radicals.world/U2nQNc</a>>
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en03">
-   <p class="_list-item">
-    Encorac, Inc.
-    <<a href="https://encora.com">https://encora.com</a>>
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en04">
-   <p class="_list-item">
-    Leon Noel pointed us to LastMile <<a href="https://thelastmile.org/" target="_blank">https://thelastmile.org/</a>> and Underdog Devs <<a href="https://www.underdogdevs.org/" target="_blank">https://www.underdogdevs.org/</a>>. His own website, Resilient Coders is worth a visit or two <<a href="https://resilientcoders.org/" target="_blank">https://resilientcoders.org/</a>>
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en05">
-   <p class="_list-item">
-    @leonnoel
-    <<a href="https://twitter.com/leonnoel">https://twitter.com/leonnoel</a>>
-    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ol>
-
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
