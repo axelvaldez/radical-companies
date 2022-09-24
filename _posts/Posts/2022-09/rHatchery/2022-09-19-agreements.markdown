@@ -115,7 +115,7 @@ image:    "rHatchery-icon.svg"
  </div>
  <p>We were surprised by how well this worked to bring out the concerns of the people involved. People felt safe enough to let out all kinds of things about themselves that made them vulnerable. So far, we&rsquo;ve done it with early adopters, so we don&rsquo;t have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
 
-<h1>Foundation Agreements</h1>
+<h1>Foundation Agreements [DRAFT]</h1>
  <p>The <em>Trust Framework</em> works for people, but not for communities. For them, the <span class="_paradigm">RADICAL FOUNDATIONS</span> may be more appropriate for a <em>Foundation Agreement</em>,</p>
   <div class="_center">
    <table style="width:80%; ">
