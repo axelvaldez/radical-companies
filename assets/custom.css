@@ -219,6 +219,12 @@ footer{
 }
 
 /* Matt's */
+.text-lg-start h1 {
+  font-size:60px;
+}
+.text-lg-start p {
+  font-size:30px;
+}
 h1, h2 {
   font-family:'Courier New', Courier, monospace;
 }
@@ -228,27 +234,23 @@ h1 {
 h2 {
   font-size:30px;
 }
-li {
-  font-size:smaller;
-}
-a._uparrow img {
-  height:15px;
-}
 h1._section {
   font-size:50px;
   text-align:center;
   margin:100px 0 20px 0;
   color:gray;
 }
-.text-lg-start h1 {
-  font-size:60px;
+div > h1 > p {
+  margin-left:1em;
 }
-.text-lg-start p {
-  font-size:30px;
+a._uparrow img {
+  height:15px;
 }
-
 table {
   width:50%;
+}
+li {
+  font-size: smaller;
 }
 tr {
   margin-bottom:0;
