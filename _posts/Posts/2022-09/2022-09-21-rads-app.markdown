@@ -16,7 +16,7 @@ image:    "rHatchery-icon.svg"
  <p>What the app does?</p>
 
 <h1>&nbsp;</h1>
- <p>There is one more tool that we are using: <a href="https://radicalcompanies.com/2022/09/22/rcommunities">rCommunities</a>.</p>
+ <p>There is one more tool that we are using: <a href="https://radicalcompanies.com/2022/09/22/rcommunities" target="_blank">rCommunities</a>.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
