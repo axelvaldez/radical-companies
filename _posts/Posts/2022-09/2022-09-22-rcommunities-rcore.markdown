@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "rCommunities"
+title:    "rCommunity: rCORE"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal"
 image:    "rHatchery-icon.svg"
@@ -12,22 +12,29 @@ image:    "rHatchery-icon.svg"
 
 <h1>rCommunities</h1>
  <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce them to an <em>rCommunity</em> which is a group of people with compatible <em>Trust Agreements</em> and interested in similar things.</p>
- <p>There already are a few rCommunities.</p>
- <h2>rCORE</h2>
-  <p><em>CORE Communications</em> is an interpretation service focused on injuries covered by the US <em>Worker&rsquo;s Comp</em> insurance.</p>
-  <p>The business was founded by Carlos Suarez who we met him through Alicia Castillo-Holley, an investor and very good friend. Carlos read our book <em>RADICAL COMPANIES</em> and, after a few more conversations, it was clear that he was ready for the <span class="_paradigm">RADICAL</span> model.</p>
-  <p>CORE&rsquo;s transformation was exciting, but even more so is that inpretations <span class="_quotespan">agencies</span> are gig shops: interpreters get paid for the interpretations they do. Not unlike <em>DoorDash</em> or <em>Uber Eats</em>. Gig workers deliver the value and get paid a small for each delivery while the <span class="_quotespan">agencies</span> keep the profits and brand value (<em>e.g.</em>, which brings up their share value). This was exciting because given that <em>CORE</em>&rsquo;s transformation into <em><span style="font-weight:bold; ">r</span>CORE</em> goes well, we will have a template for other gig businesses to transform to <span class="_paradigm">RADICAL</span> companies.</p>
- <h2>#100lives</h2>
-  <p>About a month ago Jose Contreras, a dear friend, talked to me about what he and Dr Mike Ybarra wanted to do. It was crazy talke, but I always listen to it because it oftentimes turns out not to be so crazy after all. He wanted to help people on probation get started on carreers in the technology space, in particular in the area of sales. He wanted to help them shit for the vicioius circle that got him in jail, to virtuous circle that could keep them out of jail.</p>
-  <p>He personally went through the experience of going to jail and later turning his life around. I hired him as the first sales person at Nearsoft. Throughout it all, he kept going to school, all the way to an MBA. Now he wanted to create something that would help people get to the financial wealth in this Valley. <span class="_quotespan">I&rsquo;ve had my &lsquo;aha!&rsquo; moment when I realized that I can change my life, and I want that other people to have that chance, too.</span></p>
-  <p>We are just starting with this, but Dr Mike already found out that we can get a six-month program accredited.</p>
-  <p>We are also thinking of also lining up companies that would be willing to take these folks as paid interns. We have a program at Encora Mexico<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> where we take recent graduates and put them through a six month program, with the last two months working with a client and it has worked fantastically well. Graduates from this program, called Apprentice, have grown to be superstars.</p>
-  <p>With <em>#100lives</em> we hope to enable people to benefit from the Silicon Valley economy<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>, as Sales folks and Developers. Once we get this smoothed out, we will go after other talents (<em>e.g.</em>, Artists).</p>
-  <p>BTW, the name is inspired by #100devs, <span class="_quotespan">A FREE LIVE Coding Bootcamp</span>, this program was founded by Leon Noel<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> to <span class="_quotespan">help POC unlock high growth careers as software engineers.</span> The program is working fantastically well.</p>
- <h2>Small Bites</h2>
- <h2>70/30</h2>
- <h2>rJourney</h2>
- <h2>Posits</h2>
+ <p>There already are a few rCommunities, the first of which is <em>rCORE</em>.</p>
+
+<h1>rCORE</h1>
+ <p><em>CORE Communications</em> is an interpretation service focused on injuries covered by the US <em>Worker&rsquo;s Comp</em> insurance.</p>
+ <p>The business was founded by Carlos Suarez who we met him through Alicia Castillo-Holley, an investor and very good friend. Carlos read our book <em>RADICAL COMPANIES</em> and, after a few more conversations, it was clear that he was ready for the <span class="_paradigm">RADICAL</span> model.</p>
+ <p>CORE&rsquo;s transformation was exciting, but even more so is that inpretations <span class="_quotespan">agencies</span> are gig shops: interpreters get paid for the interpretations they do. Not unlike <em>DoorDash</em> or <em>Uber Eats</em>. Gig workers deliver the value and get paid a small for each delivery while the <span class="_quotespan">agencies</span> keep the profits and brand value (<em>e.g.</em>, which brings up their share value). This was exciting because given that <em>CORE</em>&rsquo;s transformation into <em><span style="font-weight:bold; ">r</span>CORE</em> goes well, we will have a template for other gig businesses to transform to <span class="_paradigm">RADICAL</span> companies.</p>
+
+<p>The other community so far is <a href="" target="100lives" target="_blank">#100lives</a>.</p>
+
+<h1>#100lives</h1>
+ <p>About a month ago Jose Contreras, a dear friend, talked to me about what he and Dr Mike Ybarra wanted to do. It was crazy talke, but I always listen to it because it oftentimes turns out not to be so crazy after all. He wanted to help people on probation get started on carreers in the technology space, in particular in the area of sales. He wanted to help them shit for the vicioius circle that got him in jail, to virtuous circle that could keep them out of jail.</p>
+ <p>He personally went through the experience of going to jail and later turning his life around. I hired him as the first sales person at Nearsoft. Throughout it all, he kept going to school, all the way to an MBA. Now he wanted to create something that would help people get to the financial wealth in this Valley. <span class="_quotespan">I&rsquo;ve had my &lsquo;aha!&rsquo; moment when I realized that I can change my life, and I want that other people to have that chance, too.</span></p>
+ <p>We are just starting with this, but Dr Mike already found out that we can get a six-month program accredited.</p>
+ <p>We are also thinking of also lining up companies that would be willing to take these folks as paid interns. We have a program at Encora Mexico<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> where we take recent graduates and put them through a six month program, with the last two months working with a client and it has worked fantastically well. Graduates from this program, called Apprentice, have grown to be superstars.</p>
+ <p>With <em>#100lives</em> we hope to enable people to benefit from the Silicon Valley economy<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>, as Sales folks and Developers. Once we get this smoothed out, we will go after other talents (<em>e.g.</em>, Artists).</p>
+ <p>BTW, the name is inspired by #100devs, <span class="_quotespan">A FREE LIVE Coding Bootcamp</span>, this program was founded by Leon Noel<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> to <span class="_quotespan">help POC unlock high growth careers as software engineers.</span> The program is working fantastically well.</p>
+
+<!--
+ <h1>Small Bites</h1>
+ <h1>70/30</h1>
+ <h1>rJourney</h1>
+ <h1>Posits</h1>
+-->
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
