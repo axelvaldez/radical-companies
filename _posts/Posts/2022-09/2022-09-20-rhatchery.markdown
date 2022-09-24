@@ -10,11 +10,9 @@ image:    "rHatchery-icon.svg"
  <p>I think we know what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into <span class="_paradigm">RADICAL</span> companies; businesses that want to get away from the <span class="_paradigm">FIAT</span> path and become healthy companies.</p>
 </div>
 
-<div>
 <h1>&nbsp;</h1>
  <p>I think we are getting a better idea of what the rHatchery is: We want to help <em><span class="_paradigm">FIAT</span> businesses</em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> transform into <em><span class="_paradigm">RADICAL</span> companies</em>. We want to engage with businesses that want to get away from the <span class="_paradigm">FIAT</span> ways and want to get on the path of becoming healthy companies.</p>
  <p>We came up with many different ways of doing this and a few tools.</p>
-</div>
 
 <h1>Agreements</h1>
  <h2>Trust Agreements</h2>
