@@ -19,7 +19,8 @@ image:    "rHatchery-icon.svg"
  <p>The business was founded by Carlos Suarez who we met him through Alicia Castillo-Holley, an investor and very good friend. Carlos read our book <em>RADICAL COMPANIES</em> and, after a few more conversations, it was clear that he was ready for the <span class="_paradigm">RADICAL</span> model.</p>
  <p>CORE&rsquo;s transformation was exciting, but even more so is that inpretations <span class="_quotespan">agencies</span> are gig shops: interpreters get paid for the interpretations they do. Not unlike <em>DoorDash</em> or <em>Uber Eats</em>. Gig workers deliver the value and get paid a small for each delivery while the <span class="_quotespan">agencies</span> keep the profits and brand value (<em>e.g.</em>, which brings up their share value). This was exciting because given that <em>CORE</em>&rsquo;s transformation into <em><span style="font-weight:bold; ">r</span>CORE</em> goes well, we will have a template for other gig businesses to transform to <span class="_paradigm">RADICAL</span> companies.</p>
 
-<p>The other community so far is <a href="" target="100lives" target="_blank">#100lives</a>.</p>
+<h1>But Wait: There Is More!</h1>
+ <p>The other community so far is <a href="" target="100lives" target="_blank">#100lives</a>.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
