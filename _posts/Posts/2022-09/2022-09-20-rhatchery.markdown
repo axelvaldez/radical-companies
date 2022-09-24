@@ -116,7 +116,7 @@ image:    "rHatchery-icon.svg"
     </tfoot>
    </table>
   </div>
-  <p>It surprised us how well this worked to bring out the concerns of the people involved: people laid all kinds of things about themselves that made them volnerable because they felt phychologically safe. So far, we&rsquo;ve done it with early adopters, so we don&rsquo;t have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
+  <p>It surprised us how well this worked to bring out the concerns of the people involved: people laid all kinds of things about themselves that made them vulnerable because they felt phychologically safe. So far, we&rsquo;ve done it with early adopters, so we don&rsquo;t have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
  <h2>Foundation Agreements</h2>
   <p>The <em>Trust Framework</em> works for people, but not for communities. For them, the <span class="_paradigm">RADICAL FOUNDATIONS</span> may be more appropriate for a <em>Foundation Agreement</em>,</p>
   <div class="_center">
