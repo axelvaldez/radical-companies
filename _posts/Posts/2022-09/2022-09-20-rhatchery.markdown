@@ -188,26 +188,6 @@ image:    "rHatchery-icon.svg"
    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
   </p>
  </li>
- <li id="en03">
-  <p class="_list-item">
-    Encorac, Inc.
-   <<a href="https://encora.com">https://encora.com</a>>
-   <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-  </p>
- </li>
- <li id="en04">
-  <p class="_list-item">
-    Leon Noel pointed us to LastMile <<a href="https://thelastmile.org/" target="_blank">https://thelastmile.org/</a>> and Underdog Devs <<a href="https://www.underdogdevs.org/" target="_blank">https://www.underdogdevs.org/</a>>. His own website, Resilient Coders is worth a visit or two <<a href="https://resilientcoders.org/" target="_blank">https://resilientcoders.org/</a>>
-   <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
-  </p>
- </li>
- <li id="en05">
-  <p class="_list-item">
-    @leonnoel
-   <<a href="https://twitter.com/leonnoel">https://twitter.com/leonnoel</a>>
-   <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
-  </p>
- </li>
  </ol>
 
 <h1 class="_section">RELATED</h1>
