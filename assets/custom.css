@@ -229,9 +229,9 @@ h2 {
   font-size:30px;
 }
 
-h1+h2 {
-  margin-left:1em;
-  color:darkseagreen;
+h1+h2, h1~p {
+  margin-left: 1em;
+  color: royalblue;
 }
 
 h2~p {
@@ -239,10 +239,6 @@ h2~p {
   color:red;
 }
 
-h1~p {
-  margin-left: 1em;
-  color:royalblue;
-}
 
 li {
   font-size:smaller;
