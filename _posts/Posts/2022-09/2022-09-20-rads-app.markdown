@@ -27,6 +27,7 @@ image:    "rHatchery-icon.svg"
     <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient" target="_blank">>https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient</a>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
+  </li>
  </ol>
 
 <h1 class="_section">RELATED</h1>
