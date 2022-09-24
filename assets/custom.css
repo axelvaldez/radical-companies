@@ -229,13 +229,17 @@ h2 {
   font-size:30px;
 }
 
+h1~h2 {
+  margin-left: 1em;
+  color:royalblue;
+}
 h2~p {
   margin-left: 2em;
   color:red;
 }
-h1~h2, h1~p {
+h1~p {
   margin-left: 1em;
-  color: royalblue;
+  color:greenyellow;
 }
 
 li {
