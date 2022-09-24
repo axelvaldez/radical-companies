@@ -233,14 +233,6 @@ h1+h2 {
   margin-left:1em;
   color:darkseagreen;
 }
-h1>h2 {
-  margin-left: 1em;
-  color:darkgreen;
-}
-h1~h2 {
-  margin-left: 1em;
-  color:green;
-}
 
 h2~p {
   margin-left: 2em;
