@@ -252,13 +252,9 @@ h2>p {
 }
 h2~p {
   margin-left: 2em;
-  color:violet;
+  color:vio;
 }
 
-h1+p {
-  margin-left:1em;
-  color:blue;
-}
 h1>p {
   margin-left:1em;
   color:cyan;
