@@ -11,13 +11,20 @@ image:    "rHatchery-icon.svg"
 </div>
 
 <h1>test h1</h1>
- <p>test h1+p</p>
- <h2>test h1~h2</h2>
-  <p>test h2~p</p>
-  <p>test h2~p</p>
+ <div>
+  <p>test h1+p</p>
+  <h2>test h1~h2</h2>
+   <div> 
+    <p>test h2~p</p>
+    <p>test h2~p</p>
+   </div>
+ </div>
+
 <h1>test h1</h1>
+ <div>
   <p>test h1~p</p>
-9
+ </div>
+10
 
 <h1>&nbsp;</h1>
  <div>
