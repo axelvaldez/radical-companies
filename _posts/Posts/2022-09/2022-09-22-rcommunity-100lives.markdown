@@ -10,8 +10,7 @@ image:    "rHatchery-icon.svg"
  <p>I think we know what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into <span class="_paradigm">RADICAL</span> companies; businesses that want to get away from the <span class="_paradigm">FIAT</span> path and become healthy companies.</p>
 </div>
 
-<h1>rCommunities</h1>
- <p>The other rCommunities is #100lives.</p>
+<p>The other rCommunities is #100lives.</p>
 
 <h1>#100lives</h1>
  <p>About a month ago Jose Contreras, a dear friend, talked to me about what he and Dr Mike Ybarra wanted to do. It was crazy talke, but I always listen to it because it oftentimes turns out not to be so crazy after all. He wanted to help people on probation get started on carreers in the technology space, in particular in the area of sales. He wanted to help them shit for the vicioius circle that got him in jail, to virtuous circle that could keep them out of jail.</p>
