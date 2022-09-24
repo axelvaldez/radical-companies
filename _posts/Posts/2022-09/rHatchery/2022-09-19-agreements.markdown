@@ -116,7 +116,7 @@ image:    "rHatchery-icon.svg"
  <p>We were surprised by how well this worked to bring out the concerns of the people involved. People felt safe enough to let out all kinds of things about themselves that made them vulnerable. So far, we&rsquo;ve done it with early adopters, so we don&rsquo;t have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
 
 <h1>Foundation Agreements [DRAFT]</h1>
- <p>The <em>Trust Framework</em> works for people, but not for communities. So this is a DRAFT <em>Foundation Agreement</em>,</p>
+ <p>The <em>Trust Framework</em> works for people, but not for communities. Here is a DRAFT <em>Foundation Agreement</em>,</p>
   <div class="_center">
    <table style="width:80%; ">
     <tbody style="border:1px solid black;">
