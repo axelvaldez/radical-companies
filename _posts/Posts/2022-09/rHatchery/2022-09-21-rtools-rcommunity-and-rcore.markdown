@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The RADs! Mobile App"
+title:    "rCommunities and rCORE"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal"
 image:    "rHatchery-icon.svg"
@@ -10,32 +10,17 @@ image:    "rHatchery-icon.svg"
  <p>I think we know what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into <span class="_paradigm">RADICAL</span> companies; businesses that want to get away from the <span class="_paradigm">FIAT</span> path and become healthy companies.</p>
 </div>
 
-<h1>RADs! Apps</h1>
- <p>Another tools that we are depolying is the RADs! app. In collaboration with Xipe Technology,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> we are about to launch a mobile app called <em>RADs!</em>.</p>
- <p>We talked about <span class="_paradigm">RAD</span>s in our book.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
- <p>This app makes the Distribution process painless. It allows co-owners to recognize contributions and give <span class="_paradigm">RAD</span>s by pressing a button. They can presse this button as many times as they feel like it and the app figures out the amount of <span class="_paradigm">RAD</span>s to give.</p>
- <p>It also makes very easy to create and join as many communities as the co-owner wants.</p>
+<h1>rCommunities</h1>
+ <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce them to an <em>rCommunity</em> which is a group of people with compatible <em>Trust Agreements</em> and interested in similar things.</p>
+ <p>There already are a few rCommunities, the first of which is <em>rCORE</em>.</p>
 
-<h1>&nbsp;</h1>
- <p>There is one more tool that we are using so far: <a href="https://radicalcompanies.com/2022/09/21/rcommunity-and-rcore" target="_blank">rCommunities</a>.</p>
+<h1>rCORE</h1>
+ <p><em>CORE Communications</em> is an interpretation service focused on injuries covered by the US <em>Worker&rsquo;s Comp</em> insurance.</p>
+ <p>The business was founded by Carlos Suarez who we met him through Alicia Castillo-Holley, an investor and very good friend. Carlos read our book <em>RADICAL COMPANIES</em> and, after a few more conversations, it was clear that he was ready for the <span class="_paradigm">RADICAL</span> model.</p>
+ <p>CORE&rsquo;s transformation was exciting, but even more so is that inpretations <span class="_quotespan">agencies</span> are gig shops: interpreters get paid for the interpretations they do. Not unlike <em>DoorDash</em> or <em>Uber Eats</em>. Gig workers deliver the value and get paid a small for each delivery while the <span class="_quotespan">agencies</span> keep the profits and brand value (<em>e.g.</em>, which brings up their share value). This was exciting because given that <em>CORE</em>&rsquo;s transformation into <em><span style="font-weight:bold; ">r</span>CORE</em> goes well, we will have a template for other gig businesses to transform to <span class="_paradigm">RADICAL</span> companies.</p>
 
-<h1 class="_section">ENDNOTES</h1>
- <ol>
-  <li id="en01">
-   <p class="_list-item">
-    Xipe Technology
-    <<a href="https://xipetechnology.com" target="_blank">https://xipetechnology.com</a>>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en02">
-   <p class="_list-item">
-    Matt Perez, Adrian Perez, Jose Leall
-    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient</a>>
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ol>
+<h1>But Wait: There Is More!</h1>
+ <p>The other community so far is <a href="https://radicalcompanies.com/2022/09/22/rtools-rcommunity-100lives" target="_blank">#100lives</a>.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>

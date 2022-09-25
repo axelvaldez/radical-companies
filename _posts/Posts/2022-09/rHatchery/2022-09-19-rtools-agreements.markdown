@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Transformation Agreements"
+title:    "rTools: Transformation Agreements"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal"
 image:    "rHatchery-icon.svg"
@@ -171,7 +171,7 @@ image:    "rHatchery-icon.svg"
   </div>
 
 <h1>More Tools</h1>
- <p>Other tools include <a href="https://radicalcompanies.com/2022/09/20/rads-app" target="_blank">the RADs! app</a> and <a href="https://radicalcompanies.com/2022/09/21/rcommunities" target="_blank">rCommunities</a>.</p>
+ <p>Other tools include <a href="https://radicalcompanies.com/2022/09/20/rtools-rads-app" target="_blank">the RADs! app</a> and <a href="https://radicalcompanies.com/2022/09/21/rtools-rcommuniy-and-core" target="_blank">rCommunities</a>.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
