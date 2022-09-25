@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "rCommunity: #100lives"
+title:    "rTools: rCommunity: #100lives"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "rHatchery-icon-SE.svg"
