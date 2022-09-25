@@ -7,7 +7,7 @@ image:    "rHatchery-icon-SE.svg"
 ---
 
 <div style="display:none; ">
- <p>I think we know what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into healthy companies. And we are developing tools: 100lives rCommunity.</p>
+ <p>I think we know what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into healthy companies. And we are developing tools: rCommunities and 100lives.</p>
 </div>
 
 <h1>&nbsp;</h1>
