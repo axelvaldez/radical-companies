@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "rCommunities and rCORE"
+title:    "rTools: rCommunity: rCORE"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal"
 image:    "rHatchery-icon-SW.svg"
