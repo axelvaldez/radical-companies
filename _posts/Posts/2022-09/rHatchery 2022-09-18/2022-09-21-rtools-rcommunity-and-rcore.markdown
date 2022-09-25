@@ -3,7 +3,7 @@ layout:   post
 title:    "rCommunities and rCORE"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal"
-image:    "rHatchery-icon.svg"
+image:    "rHatchery-icon-SW.svg"
 ---
 
 <div style="display:none; ">

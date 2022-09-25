@@ -3,7 +3,7 @@ layout:   post
 title:    "rTools: Transformation Agreements"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal"
-image:    "rHatchery-icon.svg"
+image:    "rHatchery-icon-NW.svg"
 ---
 
 <div style="display:none; ">

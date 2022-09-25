@@ -3,7 +3,7 @@ layout:   post
 title:    "The RADs! Mobile App"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal"
-image:    "rHatchery-icon.svg"
+image:    "rHatchery-icon-NE.svg"
 ---
 
 <div style="display:none; ">

@@ -3,7 +3,7 @@ layout:   post
 title:    "rCommunity: #100lives"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "rHatchery-icon.svg"
+image:    "rHatchery-icon-SE.svg"
 ---
 
 <div style="display:none; ">
