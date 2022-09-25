@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The RADs!" + <img src="/assets/img/phone-icon.png" height="100px"> + "Mobile App"
+title:    "The RADs! Mobile App"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal"
 image:    "rHatchery-icon-NE.svg"
