@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The RADs! Mobile App"
+title:    "rTools: The RADs! Mobile App"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal"
 image:    "rHatchery-icon-NE.svg"
