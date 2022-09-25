@@ -3,7 +3,7 @@ layout:   post
 title:    "rTools: rCommunity: rCORE"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal"
-image:    "rHatchery-icon-SW.svg"
+image:    "rHatchery-icon-SE.svg"
 ---
 
 <div style="display:none; ">
