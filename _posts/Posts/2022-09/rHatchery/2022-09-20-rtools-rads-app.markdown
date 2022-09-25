@@ -7,7 +7,7 @@ image:    "rHatchery-icon.svg"
 ---
 
 <div style="display:none; ">
- <p>I think we know what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into <span class="_paradigm">RADICAL</span> companies; businesses that want to get away from the <span class="_paradigm">FIAT</span> path and become healthy companies.</p>
+ <p>I think we know what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into healthy companies. And we are developing tools: the RADs! mobile app.</p>
 </div>
 
 <h1>RADs! Apps</h1>
