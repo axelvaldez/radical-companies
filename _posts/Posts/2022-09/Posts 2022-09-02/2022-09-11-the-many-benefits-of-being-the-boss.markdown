@@ -22,7 +22,7 @@ image:    "top-boss-top-dog.svg"
  <p>Now that you have the capital and an awesome product is on its way, you take the weekend off. Really. You sit down with your friend and tell  her that “I read your book, but I don't think it's something that we can do now. My Board would  not react well to it, and, honestly, it won't reflect well on me, either, to bring it up at this point. But once the business is more established, we can revisit it.”</p>
 
 <h1>The Rubber Hits the Yellow Brick Road</h1>
- <p>After all, you're a new CEO and have to build your reputation and you can't afford to be seen as less a winner. And, at this point, it's all about making it big for those investors who took a chance on you and you crazy idea. And, yes, your awesome team, too.</p>
+ <p>After all, you're a new CEO and have to build your reputation and you can't afford to be seen as anything less a winner. And, at this point, it's all about making it big for those investors who took a chance on you and you crazy idea. And, yes, your awesome team, too.</p>
  <p>But now is all about growing beyond out initial market. The Board thinks we can do much, much better and turn what we have into a huge franchise. “Really, you should start to look into the possibly of an IPO—at.worst, it will make the business more attractive for a big acquisition.”</p>
  <p>There is so much more to do, but now they want me to hire “people with credentials and the chops to make it happen,” whatever that means. You've talked to a couple of cendidates and found out that they want more shares and a bigger salary than anybody  in your team. And the Board keeps sending their “awesome friends.”</p>
 
