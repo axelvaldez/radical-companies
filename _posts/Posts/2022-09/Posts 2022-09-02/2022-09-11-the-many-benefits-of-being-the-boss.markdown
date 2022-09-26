@@ -17,7 +17,7 @@ image:    "top-boss-top-dog.svg"
  <p>Finally, you get the capital infusion that you needed to expand. You have a Board now to help you turn this new world you've created into a money-making machine. Screw Zuckerberg, this is going to be bigger and do good in the world.</p>
 
 <h1>My Friend, the Author</h1>
- <p>All along, your friend has been telling you about a different way of running the business. It kind of makes sense, but you can't take that kind of risk now. It sounds a bit too idealistic. Maybe later.</p>
+ <p>All along, your friend has been telling you about a different way of running the business. It kind of makes sense, but you can't take that kind of idealistic risk now. Maybe later.</p>
  <p>You even bought her book and started listening to it, but “I'd better get going  to the Board meeting… .”</p>
  <p>Now that you have the capital and an awesome product is on its way, you take the weekend off. Really. You sit down with your friend and tell  her that “I read your book, but I don't think it's something that we can do now. My Board would  not react well to it, and, honestly, it won't reflect well on me, either, to bring it up at this point. But once the business is more established, we can revisit it.”</p>
 
