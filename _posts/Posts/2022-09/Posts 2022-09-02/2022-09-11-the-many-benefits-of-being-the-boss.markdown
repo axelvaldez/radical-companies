@@ -32,7 +32,7 @@ image:    "top-boss-top-dog.svg"
  <p>Actually, you feel awful, but, &ldquo;jeez, the money will make up for it.&rdquo;</p>
 
 <h1>For Personal Reasons</h1>
- <p>One of your oldest Board member pulls you aside and tells you to not even attend the next Board meeting. &ldquo;You are out and the COO is going to be our interim CEO–but, don&rsquo;t worry, you&rsquo;ll keep your shares.&rdquo;</p>
+ <p>One of your oldest Board member pulls you aside and tells you to not attend the next Board meeting. &ldquo;You are out and the COO is going to be our interim CEO–but, don&rsquo;t worry, you&rsquo;ll keep your shares.&rdquo;</p>
  <p>You are out &ldquo;for personal reasons.&rdquo; You are conflicted and feeling worse than awful and you can&rsquo;t face your team.</p>
  <p>You get news that the business is going to be acquired &ldquo;but a low price.&rdquo; So low,in fact, that &ldquo;the Board made a unanimous decision to dilute  non-active employees and common shareholders to 25% of their holdings.&rdquo; Not such a big pay off after all for you or your team.</p>
  <p>You start to come out of your depression and go out in the lake for a last boat ride. Amazing how calmimg the water is.</p>
