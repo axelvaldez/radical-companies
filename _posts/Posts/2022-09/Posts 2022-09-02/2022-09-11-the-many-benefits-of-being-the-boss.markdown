@@ -13,7 +13,7 @@ image:    "top-boss-top-dog.svg"
 <h1>FREEDOM!</h1>
  <p>When you are broke-but-with-a-great-idea, the big kick comes from developing that idea, thinking of its many potentials, and telling people about it. You have the freedom to rift on it at the speed of thinking.</p>
  <p>As your idea meets the reality of implementation, the main benefit is the satisfaction of solving the problems that keep coming at you and your team. Lots of bonding, too, with your team, including your early investors and early-adopter customer. You can see how your new world is coming together.</p>
- <p>You are “the CEO,”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> the leader, the boss of an incredible team, with a great, disruptive idea, and an MVP that is so awesome that “it will be really easy to make it into a full fledged, world-class product.”</p>
+ <p>You are &ldquo;the CEO,”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> the leader, the boss of an incredible team, with a great, disruptive idea, and an MVP that is so awesome that &ldquo;it will be really easy to make it into a full fledged, world-class product.”</p>
  <p>Finally, you get the capital infusion that you needed to expand. You have a Board now to help you turn this new world you've created into a money-making machine. Screw Zuckerberg, this is going to be bigger and do good in the world.</p>
 
 <h1>My Friend, the Author</h1>
@@ -27,7 +27,7 @@ image:    "top-boss-top-dog.svg"
  <p>There is so much more to do, but now they want me to hire “people with credentials and the chops to make it happen,” whatever that means. You've talked to a couple of cendidates and found out that they want more shares and a bigger salary than anybody  in your team. And the Board keeps sending their “awesome friends.”</p>
 
 <h1>The Gloves Come Off</h1>
- <p>The Board meetings are getting to be a royal pain. They keep bringing up stuff that had to come from their “friends.” it is kind of true, but it's all twisted. And they bring this crap just as the meeting is ending and therenis no time to straighten things out before they “have to run” to their next meeting.</p>
+ <p>The Board meetings are getting to be a royal pain. The Board members have turned hostile and they keep bringing up stuff that had to come from the people you hired. It all has a wiff of truth in it, but it's all twisted. And they bring this crap just as the meeting is ending and thenthere is no time to straighten things out before they “have to run” to their next meeting.</p>
  <p>On top of that, your team is not reacting well to the new executive team. They don't like all the “reporting” meetings that turn into “do as I say” meetings.</p>
  <p>Actually, you feel awful, but, “jeez, the money will make up for it.”</p>
 
