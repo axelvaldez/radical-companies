@@ -16,7 +16,7 @@ image:    "top-boss-top-dog.svg"
  <p>You are &ldquo;the CEO,&rdquo;<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> the leader, the boss of an incredible team, with a great, disruptive idea, and an MVP that is so awesome that &ldquo;it will be really easy to make it into a full fledged, world-class product.&rdquo;</p>
  <p>Finally, you get the capital infusion that you needed to expand. You have a Board now to help you turn this new world you&rsquo;ve created into a money-making machine. Screw Zuckerberg, this is going to be bigger and do good in the world.</p>
 
-<h1>My Friend, the Author</h1>
+<h1>Your Friend, the Author</h1>
  <p>All along, your friend has been telling you about a different way of running the business. It kind of makes sense, but you can&rsquo;t take that kind of idealistic risk now. Maybe later.</p>
  <p>You even bought her book and started listening to it, but &ldquo;I&rsquo;d better get going  to the Board meeting&hellip; .&rdquo;</p>
  <p>Now that you have the capital and an awesome product is on its way, you take the weekend off. Really. You sit down with your friend and tell  her that &ldquo;I read your book, but I don&rsquo;t think it&rsquo;s something that we can do now. My Board would  not react well to it, and, honestly, it won&rsquo;t reflect well on me, either, to bring it up at this point. But once the business is more established, we can revisit it.&rdquo;</p>
