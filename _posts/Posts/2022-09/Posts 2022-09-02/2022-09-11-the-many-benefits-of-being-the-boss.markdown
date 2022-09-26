@@ -43,8 +43,14 @@ image:    "top-boss-top-dog.svg"
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
-  <li id="fn1">
-   <p>URL to Adrian’s post.</p>
+  <li id="en01">
+   <p class="_list-item">
+    Adrian Perez.
+    <em>Who Am I If Not a Manager?</em>.
+    Aug 2002.
+    <<a href="https://radicalcompanies.com/2022/08/27/who-am-i-if-not-a-manager.html" target="_blank">https://radicalcompanies.com/2022/08/27/who-am-i-if-not-a-manager.html</a>>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
   </li>
  </ol>
 
