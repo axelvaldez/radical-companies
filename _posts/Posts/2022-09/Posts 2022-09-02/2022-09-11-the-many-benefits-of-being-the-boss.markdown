@@ -21,7 +21,7 @@ image:    "top-boss-top-dog.svg"
  <p>You even bought her book and started listening to it, but &ldquo;I&rsquo;d better get going  to the Board meeting&hellip; .&rdquo;</p>
  <p>Now that you have the capital and an awesome product is on its way, you take the weekend off. Really. You sit down with your friend and tell  her that &ldquo;I read your book, but I don&rsquo;t think it&rsquo;s something that we can do now. My Board would  not react well to it, and, honestly, it won&rsquo;t reflect well on me, either, to bring it up at this point. But once the business is more established, we can revisit it.&rdquo;</p>
 
-<h1>The Rubber Hits the Yellow Brick Road</h1>
+<h1>The Rubber Hits the (Yellow Brick) Road</h1>
  <p>After all, you&rsquo;re a new CEO and have to build your reputation and you can&rsquo;t afford to be seen as anything less a winner. And, at this point, it&rsquo;s all about making it big for those investors who took a chance on you and you crazy idea. And, yes, your awesome team, too.</p>
  <p>But now is all about growing beyond out initial market. The Board thinks we can do much, much better and turn what we have into a huge franchise. &ldquo;Really, you should start to look into the possibly of an IPO—at.worst, it will make the business more attractive for a big acquisition.&rdquo;</p>
  <p>There is so much more to do, but now they want me to hire &ldquo;people with credentials and the chops to make it happen,&rdquo; whatever that means. You&rsquo;ve talked to a couple of cendidates and found out that they want more shares and a bigger salary than anybody  in your team. And the Board keeps sending their &ldquo;awesome friends.&rdquo;</p>
