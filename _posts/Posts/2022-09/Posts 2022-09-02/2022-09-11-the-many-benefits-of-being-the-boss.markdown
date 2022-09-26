@@ -26,7 +26,7 @@ image:    "top-boss-top-dog.svg"
  <p>But now is all about growing beyond out initial market. The Board thinks we can do much, much better and turn what we have into a huge franchise. “Really, you should start to look into the possibly of an IPO—at.worst, it will make the business more attractive for a big acquisition.”</p>
  <p>There is so much more to do, but now they want me to hire “people with credentials and the chops to make it happen,” whatever that means. You've talked to a couple of cendidates and found out that they want more shares and a bigger salary than anybody  in your team. And the Board keeps sending their “awesome friends.”</p>
 
-<h1>And the Gloves Come Off</h1>
+<h1>The Gloves Come Off</h1>
  <p>The Board meetings are getting to be a royal pain. They keep bringing up stuff that had to come from their “friends.” it is kind of true, but it's all twisted. And they bring this crap just as the meeting is ending and therenis no time to straighten things out before they “have to run” to their next meeting.</p>
  <p>On top of that, your team is not reacting well to the new executive team. They don't like all the “reporting” meetings that turn into “do as I say” meetings.</p>
  <p>Actually, you feel awful. But, “there's all that money to be made.”</p>
