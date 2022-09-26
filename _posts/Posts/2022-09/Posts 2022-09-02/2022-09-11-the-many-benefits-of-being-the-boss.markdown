@@ -29,7 +29,7 @@ image:    "top-boss-top-dog.svg"
 <h1>The Gloves Come Off</h1>
  <p>The Board meetings are getting to be a royal pain. They keep bringing up stuff that had to come from their “friends.” it is kind of true, but it's all twisted. And they bring this crap just as the meeting is ending and therenis no time to straighten things out before they “have to run” to their next meeting.</p>
  <p>On top of that, your team is not reacting well to the new executive team. They don't like all the “reporting” meetings that turn into “do as I say” meetings.</p>
- <p>Actually, you feel awful, but, “jeez, all that money will make up for it.”</p>
+ <p>Actually, you feel awful, but, “jeez, the money will make up for it.”</p>
 
 <h1>For Personal Reasons</h1>
  <p>One of your oldest Board member pulls you aside and tells you to not even attend the next Board meeting. “You are out and the COO is going to be our interim CEO–but, don't worry, you'll keep your shares.”</p>
