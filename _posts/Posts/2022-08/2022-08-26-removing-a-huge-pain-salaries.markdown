@@ -3,7 +3,7 @@ layout:   post
 title:    "Removing a Huge Pain: Salaries"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "removing-a-huge-pain-salaries.svg"
+image:    "removing-a-huge-pain-salaries-icon.svg"
 ---
 
 <div style="display:none;">
