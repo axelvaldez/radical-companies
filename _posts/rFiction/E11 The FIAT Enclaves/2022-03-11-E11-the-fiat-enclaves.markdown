@@ -3,7 +3,7 @@ layout:   post
 title:    "The FIAT Enclaves"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E11"
 authors:  "Matt Perez"
-image:    "icon-e11-and-then.png"
+image:    "icon-e11-and-then.svg"
 ---
 
 <div style="display: none;">
