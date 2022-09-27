@@ -12,6 +12,7 @@ hidden:   true
  <p>Sammie brings their child, Munjez, to Vic, but she is in for a surprise.</p>
 </div>
 
+<h1>&nbsp;</h1>
  <p>The Chicago <a href="https://docs.google.com/document/d/1YX06ztGUPYMd3KurSjSNJ5lHh0dvJjyRkBxZXEh4dOU/edit#heading=h.a6wcmzph7o24">polyport</a> was busy, as in, really busy. In its heyday the old O&rsquo;Hare Airport was the busiest in this part of the world, but nothing compared with all the traffic around the polyport. But for all the traffic above, inside the place was&hellip; placid. There were a few people walking around or drinking coffee and whatever else was popular down here. And none of them were waiting for me.</p>
  <p>Sammie hung about a bit and was about to taste one of these coffee things when she felt the alert. She listened to the message, looked down, and saw her sherpa which she followed to her hosts. Evidently, they were being super careful with Sammie&rsquo;s identity and had sent the sherpa instead of just leaving a message. The overall culture was slowly unlearning its FIAT ways and at least a few people would still be addicted to violence.</p>
  <p>It seems that the people in this part of the world were still worried about viral transmission because they offered none of the hugging and kissing that she had experienced in the Beijing Pod.</p>
@@ -26,30 +27,30 @@ hidden:   true
  <p>By the time Sammie woke up we had already switched to the space transponders. The Galanet was abuzz with &ldquo;First of Earth&rdquo; this and &ldquo;First of Earth&rdquo; that. Sammie figured that a whole new Mod series about this would come out soon.</p>
  <p>Unfortunately, because of this mess, Sammie didn&rsquo;t get as much time as she wanted to visit the town of Lebanon, in the St Louis Pod. That&rsquo;s where the paternal side of her family had settled when they left what was the country of Lebanon in the early 1900s.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Sammie&rsquo;s Child</h1>
+<h1>Sammie&rsquo;s Child</h1>
  <p>At the age of 19, Sammie had a child and she named him Munjez, an homage to her great-great-grandfather&rsquo;s birthplace. Thankfully, other children had already been born in the Edge settlements and Munjez was not &ldquo;the First of&rdquo; anything.</p>
  <p>Sammie and Kiki had agreed on having Vic be Munjez&rsquo; dad so he could be in his life, too. Vic didn&rsquo;t turn out to be a very attentive father, or very present. Except for the rare occasions when Vic parachuted in, the two women were raising Munjez pretty much on their own,</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Victor Boswell</h1>
+<h1>Victor Boswell</h1>
  <p>Vic was a pretty happy guy. Pretty much of-the-moment and with no life-long aspirations. He had truly enjoyed his ten years in space, off Surface. The oYard had been somewhat constraining, but he nevertheless appreciated the close community it supported. The ability to tumble in 3D space was the greatest experience. He might have been born a creature of gravity, but space was his home, it was his destiny.</p>
  <p>He was not ready for Sammie&rsquo;s question when she asked. They were close and had had sex before, but this was different. Having a baby with her was another thing altogether. He asked her why she didn&rsquo;t just not draw from the sperm bank? Every habitat had one and each represented humanity in all its shapes and colors! But her response made sense, &ldquo;Yes, but I know you and I&rsquo;d like my child to know his father.&rdquo;</p>
  <p>Sammie&rsquo;s request had changed him. The fact that he was going to be a father had changed him. He began to see the world differently. Out of the blue, he wanted to do something his son could point to and say, &ldquo;my dad did that!&rdquo;</p>
  <p>He insisted that he was going to be part of the kid&rsquo;s life, but she knew he wouldn&rsquo;t be. He got frustrated dealing with people slower than him, and children, by definition, are slower. But Vic was sure that when he grew up, he&rsquo;d appreciate what &ldquo;his dad&rdquo; was going to create.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">The Boss</h1>
+<h1>The Boss</h1>
  <p>&ldquo;Funny, the language they use,&rdquo; Sammie said, &ldquo;It&rsquo;s all so self-important and it must be meant to make people feel bad for always falling short of their idealized new man. They published some kind of a rant and at the end justified the whole thing with &lsquo;this is simply for your damn good&rsquo;. Who&rsquo;d come up with something like that?&rdquo;</p>
  <p>&ldquo;Yes, not very convincing,&rdquo; Kiki chuckled. Then she added, &ldquo;It&rsquo;s something that good ole&rsquo; Vic would say.&rdquo; Sammie stopped what she was doing and she asked, &ldquo;Did you just say Boswell? Vic Boswell?&rdquo; Kiki snickers, &ldquo;Umhum&hellip; I am sure you have deep memories of him.&rdquo; When she noticed the silence, she turned to Sammie and something was definitely not right with her. &ldquo;Are you OK? Why did you ask?&rdquo;</p>
  <p>&ldquo;Kiki, I think Vic is the Boss!&rdquo;</p>
  <p>After a moment of hesitation, Kiki broke out laughing. &ldquo;Oh, for crying out loud, Samantha Bellamy, that&rsquo;d be way, way too obvious. BOSS-well, really? No way!&rdquo;</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">The Mountain Comes to Muhammad</h1>
+<h1>The Mountain Comes to Muhammad</h1>
  <p>&ldquo;OK, so if Vic won&rsquo;t come to be with Munjez, then Munjez is going to visit him. Before things get any stranger over there, I want Munjez to spend some time with his dad. That was the whole point of having Vic father him.&rdquo;</p>
  <p>Kiki was not all happy about Sammie&rsquo;s decision, but she was right. &ldquo;Can&rsquo;t you reach out to him again and ask him to come. He promised.&rdquo;</p>
  <p>&ldquo;I&rsquo;ve done that a bunch of times, Kiki, and he won&rsquo;t respond. Lately, he doesn&rsquo;t even show up in the Mods or anything. I don&rsquo;t want to have to tell Munjez that his father died or some other awful lie.&rdquo;</p>
  <p>&ldquo;Sammie, he&rsquo;s just a baby. There&rsquo;s plenty of time before you have to tell him anything.&rdquo;</p>
  <p>&ldquo;I know, but it&rsquo;s more than that. If we want him to really <em>know</em> his dad, then they have to start interacting now. It&rsquo;s like learning a language, it starts from day one, otherwise your brain removes any connection that is not reinforced by the environment you grow up in. No dad, and your brain removes what could have been dad processes. I think it&rsquo;s worth the trip to give Munjez, and Vic, a chance.&rdquo;</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">You Won&rsquo;t Like It</h1>
+<h1>You Won&rsquo;t Like It</h1>
  <p>In space, she was not a celebrity, but she was well known. In any case, she had spent a lot of time here while they were finishing the Minor habitat and she had worked and lived with a lot of these people. As she went to her quarters it was all, &ldquo;Wow, long time&rdquo; and &ldquo;Hey the little one is not so little anymore,&rdquo; or &ldquo;Hey, you look just like your Mod.&rdquo; Vic, of course, was nowhere to be found. She was almost done setting up the room for Munjez when he finally showed up.</p>
  <p>&ldquo;Sorry, I&rsquo;ve been very busy. I have not spent much time in the Mods but I wasn&rsquo;t avoiding you. Sorry.&rdquo;</p>
  <p>Sammie almost launched into a lecture but before the words came out of her mouth, she realized it would be a waste of time.</p>
@@ -68,7 +69,7 @@ hidden:   true
  <p>&ldquo;I&rsquo;ll spend time with him. Actually, seeing him in real life did make an impact on me. You did the right thing coming here with Munjez. More than you know.&rdquo;</p>
  <p>Vic seemed more relaxed after saying that. He offered to sit down with Sammie and explain what&rsquo;s going on. &ldquo;You won&rsquo;t like it, but you&rsquo;ll grok it better once you know what led to all this.&rdquo;</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Catching Up, Catching On</h1>
+<h1>Catching Up, Catching On</h1>
  <p>They found each other in the multihall. Vic was already there and he was chatting with a short stocky guy. Sammie kind of remembered him, but could not place him. Sammie sat down and the stocky fellow left after giving her a weird glance and a weirder smirk.</p>
  <p>After they were alone, Sammie got right into it.</p>
  <p>&ldquo;Given all the secrecy, you&rsquo;ve obviously already ejected transparency out the airlock. And the fact that they call you the Boss pretty much tells me that decentralization is out, too. So much for Commitments, then.&rdquo;</p>
