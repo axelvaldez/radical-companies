@@ -3,7 +3,7 @@ layout:   post
 title:    "Different"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E12"
 authors:  "Matt Perez"
-image:    "and-then-e12.png"
+image:    "icon-and-then-e12.png"
 hidden:   true
 ---
 
