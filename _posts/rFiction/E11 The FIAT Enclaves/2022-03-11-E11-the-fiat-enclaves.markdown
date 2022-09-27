@@ -17,12 +17,12 @@ image:    "icon-e11-and-then.svg"
  And then they build monuments to you.
 </pre>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Still Crazy&hellip;</h1>
+<h1>Still Crazy&hellip;</h1>
  <p>Not long after Ping&rsquo;s death, the world moved quickly from under the FIAT choke. Some national governments resurfaced, but that didn&rsquo;t last long. Communities had come into being and this time they took on different shapes as needed, like musical ensembles that changed as new players came in and out.</p>
  <p>A few communities had stuck to FIAT ways, but most were slowly evolving. People could see what was going on with their neighbors and broke away from communities that didn&rsquo;t evolve fast enough for them. Then, starting early in 2065, one FIAT region started to make it hard to break away and by the end of the year it had declared borders and completely closed them. In many ways, they were reminiscent of the old North Korean and Cuban dictatorships.</p>
  <p>The few of us who had lived through these regimes in the late and early 21<sup>th</sup> century were mildly concerned at first. By the time these regions had declared borders more people had become worried and were now paying attention. People became very alarmed when the region called The Bracia completely closed its borders. The off Earth Surface (FES) people who had lived under the Earth Authority&rsquo;s rule were more than alarmed and began to prepare for the worst.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Petra and Ignatius</h1>
+<h1>Petra and Ignatius</h1>
  <p>Just before dawn, one of The Bracia fighting units came over the hill, dropped their weapons, and raised what passed as an old fashioned white flag. They came down with their hands up for some reason. It turned out that they were deserting and giving themselves up as prisoners. We took care of them as best we could and explained that they were welcome to stay as members of our community, just not as prisoners. I spent a few hours explaining how our Ensemble operated and then left them to rest.</p>
  <p>By next morning, they were ready to go back, resigned to fight for the only home they knew. All of them understood that The Bracia aggression was unnecessary, but nevertheless, most wanted to go back. By the end of the day  all but two had left.</p>
  <p>&ldquo;The others went back. We didn&rsquo;t. Obviously,&rdquo; said the young woman. &ldquo;They&rsquo;ll report us as dead. We want to get as far away as we can from The Bracia.&rdquo; I looked at them and was about to speak when the young man said, softly, &ldquo;Yes, both of us. Together.&rdquo;</p>
@@ -34,7 +34,7 @@ image:    "icon-e11-and-then.svg"
  <p>&ldquo;I am not praying,&rdquo; said Ignatious, &ldquo;it was just something I said. Don&rsquo;t let your amygdala rule you.&rdquo;</p>
  <p>I heard Petra chuckled. Then I quickly turned around and took a brief glance, enough to see them walking behind me in an awkward hug.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Over the Hill</h1>
+<h1>Over the Hill</h1>
  <p>About three days later one of the people who had returned was found down from the hoodoos on the crest of a nearby hill. It seemed that he had spent the whole night there. It looked like he had been beaten and had bite marks in his legs and hips. He was almost nakes and we looked more dead than alive.</p>
  <p>He stayed under an induced coma for almost three days. When he came out of it, the first words out of his mouth were, &ldquo;your brother&rsquo;s dead.&rdquo; The woman nurse was taken aback, but she quickly realized that he was delirious and had confused her for somebody else. It didn&rsquo;t take long for the word to get back to Petra that her brother was dead.</p>
  <p>&ldquo;Evidently, he took his own life when they found out that you and Ignacious were not dead after all. They found out when a few of the others confessed.&rdquo;</p>
@@ -45,7 +45,7 @@ image:    "icon-e11-and-then.svg"
  <p>&ldquo;Yes, we have them, but only a few and all at the service of the Far, the Prime, and his closests people.&rdquo; Preta said and then she looked at Ignatius.</p>
  <p>&ldquo;The rumors were right, I guess,&rdquo; he said. Looking at me, he explained, &ldquo;the official line was that those transports navigated with El&rsquo;s guidance and only worked for the Far and his Bosses because of their exalted DNA. But rumor had it that it was technology developed outside The Bracia.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">From Hurricane to Talking</h1>
+<h1>From Hurricane to Talking</h1>
  <p>We headed for another community, southeast of us. Ignatius slept for the first part of the trip, but Petra stayed up and watched our surroundings, intensely, as we moved. The cruiser kept at a reasonable speed so Petra could see all she wanted to see.</p>
  <p>Finally, they approached a village and stopped in front of a multi-story house.</p>
  <p>&ldquo;We are going to stay here for now. This is Zion&rsquo;s Tiny Getaway, in&hellip;&rdquo;</p>
@@ -62,7 +62,7 @@ image:    "icon-e11-and-then.svg"
  <p>&ldquo;You mean, like, &lsquo;who&rsquo;s Zion&rsquo;?&rdquo; Ignatius had a wicker smile on as he said it.</p>
  <p>&ldquo;Right. RIGHT!&rdquo;</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Gear and Transparency</h1>
+<h1>Gear and Transparency</h1>
  <p>&ldquo;Now that we are all up here, do you want to go over your gear?&rdquo;</p>
  <p>&ldquo;I looked,&rdquo; Ignatius said. &ldquo;It&rsquo;s mostly clothes in there&rdquo;</p>
  <p>&ldquo;Yes, but&hellip; let&rsquo;s go over it, OK? Most of it is the usual higiene stuff, but I want to tell you about the clothes, like the overall I am wearing.&rdquo; In the half gloom of the landing, I turned it on. &ldquo;Do you see it glow?&rdquo;</p>
@@ -79,7 +79,7 @@ image:    "icon-e11-and-then.svg"
  <p>&ldquo;Actually, <em>we</em> didn&rsquo;t have it until after the Bracia hostilities started. In fact, nobody had exactly what you have right now, but we had enough pieces of it. Some of it came from the Off Surface folks and some from groups that were into extreme sports. Many people jumped in to put them all together quickly enough right after the Bracia violence started. Violence is one thing that revolts all of us.&rdquo; I continued, &ldquo;that is one of the big advantages of having transparent and unobstructed access to all kinds of technology and fundamental discoveries from anywhere in the biosphere. We can learn and take action fast because we are not slowed down by all the secrecy that FIAT thinking leads you to.&rdquo;</p>
  <p>&ldquo;Are you hungry? We can get something to eat by ourselves or we can go to an open kitchen. Your choice.&rdquo;</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Open Kitchen</h1>
+<h1>Open Kitchen</h1>
  <p>&ldquo;What is an open kitchen?&rdquo; Petra looked&hellip; strange&hellip; between exploding and imploding.</p>
  <p>&ldquo;Well different people open their kitchen to anybody who wants to join. Sometimes you have to cook, but in most cases not. But, the assumption is that you are going to wash stuff.&rdquo;</p>
  <p>Ignatius reached out for Petra&rsquo;s hand and said, &ldquo;open kitchen, here we come. Do we have to wear the glowie clothes?&rdquo;</p>
@@ -106,7 +106,7 @@ image:    "icon-e11-and-then.svg"
  <p>As we got to the house, Petra asked, &ldquo;What do you for writing or recording around here?&rdquo;</p>
  <p>&ldquo;Look in your bags and you&rsquo;ll figure it out. Good night.&rdquo;</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Whose Is It?</h1>
+<h1>Whose Is It?</h1>
  <p>As they were eating breakfast the next day, Petra asked about who owned the house they were staying in.</p>
  <p>&ldquo;I imagine that many of the people who live here?&rdquo;</p>
  <p>&ldquo;But how?&rdquo; she asked.</p>
