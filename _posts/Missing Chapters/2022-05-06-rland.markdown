@@ -3,7 +3,7 @@ layout:   post
 title:    "rLand: local communities thriving"
 subtitle: "A Salute to Henry George"
 authors:  "Matt Perez"
-image:    "en-vacant-lot-henry-george-wo-border.svg"
+image:    "icon-everybody-works-but-the-vacant-lot.svg"
 ---
 
 <div style="display: none;">
