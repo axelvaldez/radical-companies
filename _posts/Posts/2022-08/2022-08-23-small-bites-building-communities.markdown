@@ -3,7 +3,7 @@ layout:   post
 title:    "Small Bites: Building Community"
 subtitle: "Updated on 8/26/2022"
 authors:  "Matt Perez"
-image:    "small-bites-building-community-icon.svg"
+image:    "icon-small-bites-building-community.svg"
 ---
 
 <div style="display:none;">
