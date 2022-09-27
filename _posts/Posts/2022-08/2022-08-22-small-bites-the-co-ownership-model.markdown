@@ -3,7 +3,7 @@ layout:   post
 title:    "Small Bites: The Co-Ownership Model"
 subtitle: "Updated on 8/26/2022"
 authors:  "Matt Perez"
-image:    "co-ownership-in-small-bites-icon.svg"
+image:    "small-bites-co-ownership-icon.svg"
 ---
 
 <div style="display:none;">
