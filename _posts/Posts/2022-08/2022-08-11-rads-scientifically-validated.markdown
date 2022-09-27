@@ -3,7 +3,7 @@ layout:   post
 title:    "RADs: Scientifically Validated!"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "giving-rads-valid-icon.svg"
+image:    "icon-giving-rads-valid.svg"
 ---
 
 <div style="display:none;">
