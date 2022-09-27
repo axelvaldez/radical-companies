@@ -1,13 +1,13 @@
 ---
 layout:   post
-title:    "rClean"
+title:    "rStayHome"
 subtitle: "From Gig Subsistence to Co-Onwership"
-authors:  "Jose Leal, Matt Perez"
-image:    "rmedia-icon.svg"
+authors:  "Matt Perez"
+image:    "icon-rmedia.svg"
 ---
 
 <div style="display: none; ">
- <p>Helping people keep their homes and their businesses clean, decluttered, and presentable.</p>
+ <p>Taking care of people at their home</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
@@ -69,12 +69,7 @@ image:    "rmedia-icon.svg"
 </table>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Intro</h1>
- <p>Help people with,</p>
- <ul>
-  <li>Cleaning living spaces (<em>e.g.</em>, homes, offices).</li>
-  <li>Declutter and free up space.</li>
-  <li>Interior design suggestions.</li>
- </ul>
+ <p>Taking care of people at their home.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Origin Story</h1>
 

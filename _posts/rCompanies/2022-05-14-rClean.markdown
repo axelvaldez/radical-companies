@@ -1,13 +1,13 @@
 ---
 layout:   post
-title:    "rCORE"
+title:    "rClean"
 subtitle: "From Gig Subsistence to Co-Onwership"
-authors:  "Carlos Suarez, Jose Leal, Matt Perez"
-image:    "rmedia-icon.svg"
+authors:  "Jose Leal, Matt Perez"
+image:    "icon-rmedia.svg"
 ---
 
 <div style="display: none; ">
- <p>Transforming an interpretation service to the <span style="font-size:smaller; ">RADICAL COMPANIES</span> foundation. This could be the &ldquo;templace&&rdquo; for other &ldquo;gig&rdquo; business.</p>
+ <p>Helping people keep their homes and their businesses clean, decluttered, and presentable.</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
@@ -69,7 +69,12 @@ image:    "rmedia-icon.svg"
 </table>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Intro</h1>
- <p>Transforming an interpretation service to the <span style="font-size:smaller; ">RADICAL COMPANIES</span> foundation. This could be the &ldquo;templace&&rdquo; for other &ldquo;gig&rdquo; business.</p>
+ <p>Help people with,</p>
+ <ul>
+  <li>Cleaning living spaces (<em>e.g.</em>, homes, offices).</li>
+  <li>Declutter and free up space.</li>
+  <li>Interior design suggestions.</li>
+ </ul>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Origin Story</h1>
 
