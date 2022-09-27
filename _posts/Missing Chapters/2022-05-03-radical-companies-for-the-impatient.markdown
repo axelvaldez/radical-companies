@@ -3,14 +3,14 @@ layout:   post
 title:    "RADICAL COMPANIES for the Impatient"
 subtitle: ""
 authors:  "Matt Perez, Adrian Perez, Jose Leal"
-image:    "dynamic-distribution-1.svg"
+image:    "icon-dynamic-distribution-1.svg"
 ---
 
 <div style="display:none;">
  <p>A short walkthrough the <span style="font-size: smaller; ">RADICAL</span> Model</p>
 </div>
 
-<h1 style="margin-bottom:15px; ">The <span class="_paradigm">RADICAL</span> Model</h1>
+<h1>The <span class="_paradigm">RADICAL</span> Model</h1>
  <h2>Businesses-as-Dictatorships Hurt Us</h2>
   <p>Our collapsing climate, the gaping wealth gap, discrimation, and exploitation are but a few of the inescapable side-effects of the system we live in. A system that &ldquo;divides, demonizes, and causes us to suspend our intincts toward better.&rdquo;<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> But it has also brought us abundance and we don not want to throw the baby out with the bathwater. What is clear is that we need a generative way of relating to one another, a different paradigm. As we see it, businesses are the place to start, transformed into companies they are the incubators for what comes next.</p>
   <p>Nature follows a simple path to create big beautiful things out of small, unpretentious ones. From a tiny seed to a mighty oak tree. We don&rsquo;t think that a long list of principles or color scales or a 17-page constitution are necessary, or even helpful, to make a fundamental change. Eventually, these can become dogma, a form of force, and sabotage our progress. With that in mind, we came up with what we think is the simplest, most basic foundation to support our coming together to share work and wealth.</p>
