@@ -10,7 +10,7 @@ image:    "icon-rmedia.svg"
  <p>Helping people keep their homes and their businesses clean, decluttered, and presentable.</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
+<h1>Alignment</h1>
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
@@ -68,7 +68,7 @@ image:    "icon-rmedia.svg"
  </tbody>
 </table>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Intro</h1>
+<h1>Intro</h1>
  <p>Help people with,</p>
  <ul>
   <li>Cleaning living spaces (<em>e.g.</em>, homes, offices).</li>
@@ -76,11 +76,11 @@ image:    "icon-rmedia.svg"
   <li>Interior design suggestions.</li>
  </ul>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Origin Story</h1>
+<h1>Origin Story</h1>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">How It Works</h1>
+<h1>How It Works</h1>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">What's in It for &hellip;?</h1>
+<h1>What's in It for &hellip;?</h1>
 
 <h1 class="_section">RELATED</h1>
  <ul>

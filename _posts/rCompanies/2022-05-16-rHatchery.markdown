@@ -15,7 +15,7 @@ image:    "icon-rmedia.svg"
  <p style="text-align:right; margin:0; font-size:smaller; ">&mdash; Dalai Lama XIV</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Intro</h1>
+<h1>Intro</h1>
  <p>rHatcheries (<span style="font-size:smaller; ">RADICAL</span> Hatcheries) are in the business of helping companies transform from <span style="font-size:smaller; ">FIAT</span> to <span style="font-size:smaller; ">RADICAL</span> management, including</p>
   <ol>
    <li>Recognize their <span style="font-size:smaller; ">FIAT</span> habits, rules, and mindset.</li>
@@ -25,7 +25,7 @@ image:    "icon-rmedia.svg"
    <li>Help them not fall back on <span style="font-size:smaller; ">RADICAL</span> habits.</li>
   </ol>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
+<h1>Alignment</h1>
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
@@ -88,7 +88,7 @@ image:    "icon-rmedia.svg"
  </tbody>
 </table>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">What's in It for &hellip;?</h1>
+<h1>What's in It for &hellip;?</h1>
  <p>Besides company co-ownership and participation in the wealth they help create, this is what different people will get,</p>
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
@@ -141,7 +141,7 @@ image:    "icon-rmedia.svg"
  <tbody>
  <table>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
+<h1>How It Works</h1>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Embrace FIAT</h2>
   <p>The <span style="font-size:smaller; ">FIAT</span> world is our own creation and we start by embracing that.  When we engage with folks creating or running a business, even startups, we are engaging with <span style="font-size:smaller; ">FIAT</span> minded people. In fact, most people around today are <span style="font-size:smaller; ">FIAT</span> minded. That’s not a &ldquo;fault&rdquo; of theirs, that’s just the way it is.</p>
   <p>When we engage with established companies that want to make the transition,<sup id="bm01"><a href="#en01">1</a></sup> they are going to show up as <span style="font-size:smaller; ">FIAT</span> companies.  Their top boss has an intuition about &ldquo;a better way,&rdquo; but she’ll hear everything you say through <span style="font-size:smaller; ">FIAT</span> filters.</p>
@@ -178,7 +178,7 @@ image:    "icon-rmedia.svg"
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Co-Ownership Workshops</h2>
   <p>Help people figure out how to get started experimenting with this thing.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">rHatchery</h1>
+<h1>rHatchery</h1>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Who Belongs</h2>
   <ul>
    <li>The rHatchery is a community.</li>
