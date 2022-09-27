@@ -62,7 +62,7 @@ image:    "co-ownership-in-small-bites-icon.svg"
     Matt Perez.
     <em>Building Community</em>.
     August 2022.
-    <<a href="https://radicalcompanies.com/2022/08/22/the-co-ownership-model-in-small-bites.html#bm03" target="blank">https://radicalcompanies.com/2022/08/22/the-co-ownership-model-in-small-bites.html#bm03</a>>
+    <<a href="https://radicalcompanies.com/2022/08/22/small-bites-the-co-ownership-model" target="blank">https://radicalcompanies.com/2022/08/22/small-bites-the-co-ownership-model</a>>
     <a href="#bm03"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
    </p>
   </li>
