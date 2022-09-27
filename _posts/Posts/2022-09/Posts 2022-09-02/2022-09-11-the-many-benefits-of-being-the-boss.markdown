@@ -41,7 +41,7 @@ image:    "top-boss-top-dog.svg"
  <p>Your phone rings, and you pick up a call from your Board friend. You chat for a bit and tell him what you have gone through, &ldquo;Well, at least, now you have credentials and, in fact, I&rsquo;d like to introduce you to a business I just invested in. Youl&rsquo;ll be an awesome COO for them.&rdquo;</p>
  <p>As you sit there, in the middle of the lake, your phone rings again and you pick up a call from your author friend. Among other things, she tells you about his new book, &ldquo;this one is about our experience implementing all those ideas we spoke about. It truly is more awesome that we had speculated. It is amazing the things we have done with little capitalization just by decentralizing all decision-making and recognizing people’s contributions. I am so happy and fulfilled&mdash;the whole team is! You should come.and stay with us&hellip; &rdquo;</p>
  <p>She had taken home more than you got from the acquisition. In fact, the whole team of co-owners had taken home about three times the revenue his company was bringing in. And they had paid back the capital they had borrowed plus a substantial gain. You made her repeat twice that the investor hadn&rsquo;t gotten any shares in the company. Come to think of it, it didn&rsquo;t sound like the company had issued shares at all. And it sounded like they were just getting started.</p>
- <p>As you paddle towards the shore you just know that you&rsquo;re going to pass on the COO-as-plan-B-CEO offer. It will give you time to really read her book.</p>
+ <p>As you paddle towards the shore you just know that you&rsquo;re going to pass on the plan-B-CEO offer. It will give you time to really read her book.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
