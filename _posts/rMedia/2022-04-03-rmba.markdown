@@ -3,7 +3,7 @@ layout:   post
 title:    "rMBA"
 subtitle: "Learn Co-ownership and Co-management"
 authors:  "Matt Perez"
-image:    "rmedia-icon.svg"
+image:    "icon-rmedia.svg"
 ---
 
 <div style="display: none;">
