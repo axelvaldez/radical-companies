@@ -3,7 +3,7 @@ layout:   post
 title:    "Disentangling Management"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
-image:    "disentangling-icon.svg"
+image:    "icon-disentangling.svg"
 ---
 
 <div style="display:none;">
