@@ -3,13 +3,14 @@ layout:   post
 title:    "First of Earth"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E01"
 authors:  "Matt Perez & Adrian Perez"
-image:    "icon-e01-and-then.png"
+image:    "icon-e01-and-then.svg"
 ---
 
 <div style="display: none;">
  <p>BREAKING: First child be born in space. Every country around the world claims her as a native.</p>
 </div>
 
+<h1>&nbsp;</h1>
  <p><strong><code>SAT 16 NOV 2030.</code></strong> It came sooner than expected, though not as a complete surprise. It was a great offer for the company we had founded and contributed to for eleven years. This was proof that creating a place where every contributor is treated as an adult and everyone of them is a co-owner of what they&rsquo;ve created together leads to a wildly successful business as well.</p>
  <p><strong><code>THU 6 NOV 2036</code></strong>. Time to get in line to get a ticket to outer space. But for our granddaughter, not for us. Of course, we don't have a granddaughter, yet, but she's on her way. And the timing of her birth is just right for her to be born in outer space.</p>
  <p><strong><code>THU 26 FEB 2037.</code></strong> Finally! It looks like all the ducks are lined up so that our daughter-in-law can have her baby in space safely. If somebody had told me what it was going to take, we might not have gotten into this, so thank goodness for naïveté. Of course, we were all naïve: nobody knew how to pull this off. After all, it is a first.</p>
@@ -24,7 +25,7 @@ image:    "icon-e01-and-then.png"
  <p><strong><code>MON 6 JUL 2043.</code></strong> Who would have thought it would get this far? The First of Earth movement has taken hold in even the most war-torn countries. It looks like they are going to pull it off. Decentralized governance, impact aligned, and &hellip; who&rsquo;d have thought it possible?</p>
  <p>Happy little Sammie, look what you've brought about. You will forever be the first, but you won't be the only Citizen of Earth for long.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">It&rsquo;s a Go!</h1>
+<h1>It&rsquo;s a Go!</h1>
  <p>Samantha looked at Earth, towards a layer of clouds over Kerala and her mother. She had been there as a child to get her &ldquo;gravity legs,&rdquo; but for some reason her parents cut the trip short. The trip was supposed to be one of those where first generation immigrants lug their kids &ldquo;back to the old country.&rdquo; In her case, it was more about her leg muscles and balance intuition. But what was supposed to be a year, turned into a little over a week. Hardly enough to get acclimated to the all encompassing gravity.</p>
  <p>She had vague memories of loud arguments between her parents. After that, she went back home with her dad while her mom stayed on Earth&rsquo;s Surface.</p>
  <p>It was also the last time Sammie saw her mother in person. From that point all their interaction happened in a Mod. And as much as her neuromorphics could share smells and a host of other physical sensations, it never quite was the same as in real life. A bit of machine learning ironed out the delay between Surface and the Orbiting Shipyard, or oYard as it was called, but occasionally glitches showed. She didn&rsquo;t remember her mom not glitching.</p>
@@ -46,7 +47,7 @@ image:    "icon-e01-and-then.png"
  <p>At this point, the pilot would have drifted off and started unloading cargo with the rest of the incoming crew, but as he started to push away, he turned, and looked at Sammie, &ldquo;You&rsquo;re really the first person born in space?&rdquo;</p>
  <p>&ldquo;That&rsquo;s what they tell me,&rdquo; she said. So that&rsquo;s what the look had been about. Perhaps he thought she would be taller.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Slowly but Surely</h1>
+<h1>Slowly but Surely</h1>
  <p>Sammie looked around the ship as she entered. An anachronistic wood veneer cabin encompassed ten seats with crash webbing, which were bisected by an aisle that led back to the cargo bay. At the front were the high bandwidth interface pilot seats. It had a warmth to it that she did not expect.</p>
  <p>The Ascender stood ready and it even felt to Sammie like it was patiently waiting for her. After years of seeing these go back and forth, she was finally going to be a passenger. She drifted in and was about to sit in a passenger seat when the pilot tapped her on the shoulder.</p>
  <p>He smiled, &ldquo;You are more than welcome to sit in the passenger seat, but you can be my copilot for the mission. I&rsquo;ll show you how to drive.&rdquo;</p>
@@ -73,14 +74,14 @@ image:    "icon-e01-and-then.png"
  <p>&ldquo;Yes. No. I mean, you are not,&rdquo; she approved.</p>
  <p>&ldquo;It&rsquo;s good to finally meet you, Samantha. I wish I had lived longer, but we did overlap just when you were a baby.&rdquo;</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">First Visit</h1>
+<h1">First Visit</h1>
  <p>It felt different on Earth. The Anchortron did a pretty good job of simulating Earth gravity, but it didn&rsquo;t feel quite the same down here, not sure why. Maybe it was because there was no relief from the pull of real gravity: it was everywhere, including the open spaces.</p>
  <p>And, yes, the open spaces: They. Felt. Different. They looked like those in the Mods but they were not quite the same. Sammie was pretty sure that things like the wind, or the absence of it, was a big part of it. In space &ldquo;wind&rdquo; was a terrifying and life threatening problem; it meant that air was escaping. On the Surface, air didn&rsquo;t escape, it just moved about, placidly. It was something to be enjoyed, nothing to be afraid of.</p>
  <p>Mods could do a great job with visuals and sounds, but it had none of the other effects, like the warmth of the direct Sun, and the sudden coolness of a passing cloud, or the slightest breeze.</p>
  <p>The thing is that when you grow up with Mods as she had, that is your reality. But down here was different, foreign and more real at the same time. Earth felt eerily alien and dangerous-but-not-dangerous in a hard-to-describe sort of way.</p>
  <p>Simulating environmental features didn&rsquo;t sound like an impossible thing to do. I wonder if somebody had put up a Banner to fund looking into combining the Archotron and Neuromorphics to integrate a full blown simulation that felt more real.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Mom, I&rsquo;m Home</h1>
+<h1>Mom, I&rsquo;m Home</h1>
  <p>Sammie got to her mom&rsquo;s home last night, headed straight to bed, and crashed. Everybody said it would be a piece of cake because &ldquo;you are so young&hellip; ,&rdquo; but it wasn&rsquo;t. She may be 13, but this down trip was not like any kind of cake she ever enjoyed.</p>
  <p>Her mom lived in one of those health clusters, just outside Trivandrum, that the Kerala Pod was well known for. The Dutch had gotten all the fame for a similar system in the early part of the century, but Malayali had established their use long before the Dutch reinvented that particular wheel.</p>
  <p>Her place looked deceiveling normal, but obviously something was wrong with her, otherwise she would not be at this place. Something else must be going on with her. In any case, she didn&rsquo;t say anything about it and Sammie didn&rsquo;t ask.</p>
@@ -96,10 +97,10 @@ image:    "icon-e01-and-then.png"
  <p>Not soon after that the invitation from the Chinese Pod came and it didn&rsquo;t take Sammie long to decide to accept it. A few days later she packed her things without saying much and as she was about to walk out her mom was very quiet. Sammie felt sad to leave but she wanted to get out of there even more. It sure felt like she should say something&hellip; so she reached out and hugged her mom.</p>
  <p>In that awkward, last minute hug Sammie felt an exoskeleton under her mom&rsquo;s clothes. She recognized it because they were not that different from the one they all used in the oYard when they had to move something massive. Now the whole thing made sense: besides aiding her movement, the exo was keeping her mom alive and coherent. So this wasn&rsquo;t quite a health cluster, more like a hospice.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Floating Away</h1>
+<h1">Floating Away</h1>
  <p>Sammie&rsquo;s trip to the Beijing Pod took a bit over forty-eight hours in an inflatable ship. It was surprisingly comfortable and very efficient. And floating in the vast body of water had the same dangerous, exhilarating  edge of the other open spaces. Little by little the immensity of Earth was starting to dawn on me. The oYard was big and roomy, but this&hellip; this <em>planet</em> was in a different class altogether. The people who still called it Spaceship Earth had no idea how stupid that sounded to somebody who was born and raised in a real spaceship.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">The Middle Kingdom</h1>
+<h1>The Middle Kingdom</h1>
  <p>What was then the People&rsquo;s Republic of China was the first to break down into Pods. The People&rsquo;s Republic dictatorship had squeezed the FIAT system for all it had and the hierarchy there got more and more rigid as the economy grew. The generation that grew up with abundance could not understand why their system was getting to look more and more like a rice empire. Xi Jinping&rsquo;s centralization of power went against everything that they expected from a confident country with a solid economy. They wanted to be world players, not voiceless drones. Hello: it is the 21<sup>th</sup> century.</p>
  <p>The more the dictatorship tried to suppress their defiance, the more they looked for alternatives. And as they found them, those alternatives started to capture the imagination of the <em>niubi</em> (牛逼). The RADICAL model was most compelling to them: it was simple, it was effective, and easy to get started in a hurry and without fuzz.</p>
  <p>In 2032 the whole thing came tumbling down, swiftly and with surprising little bloodshed. There was none of the &ldquo;chaos and mayhem&rdquo; that most pundits predicted. The people quickly organized into co-managed and co-owned collaboratives. The massive decentralization made the wealth spread quickly and smoothly. And that was just the beginning—they are still moving the transformation forward.</p>

@@ -3,7 +3,7 @@ layout:   post
 title:    "Would-Be Masters"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E09"
 authors:  "Matt Perez"
-image:    "icon-e09-and-then.png"
+image:    "icon-e09-and-then.svg"
 hidden:   true
 ---
 
