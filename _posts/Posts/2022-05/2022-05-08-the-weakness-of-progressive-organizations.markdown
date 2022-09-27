@@ -3,7 +3,7 @@ layout:   post
 title:    "The Weakness of “Progressive” Organizations"
 subtitle: "Co-Ownership Is a Must"
 authors:  "Matt Perez"
-image:    "icon-10-progressive-org-structures.png"
+image:    "icon-10-progressive-org-structures.svg"
 ---
 
 <div style="display:none;">
