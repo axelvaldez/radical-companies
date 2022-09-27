@@ -3,7 +3,7 @@ layout:   post
 title:    "rMAKE"
 subtitle: "Making Books Like We Make Software"
 authors:  "Matt Perez"
-image:    "rmake-icon.svg"
+image:    "icon-rmedia.svg"
 ---
 
 <div style="display:none;">
