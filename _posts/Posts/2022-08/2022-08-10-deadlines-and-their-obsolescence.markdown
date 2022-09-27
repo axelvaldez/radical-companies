@@ -3,7 +3,7 @@ layout:   post
 title:    "Deadlines and Their Obsolescence in a RADICAL Context"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "deadline.svg"
+image:    "icon-deadlines.svg"
 ---
 
 <div style="display:none;">
