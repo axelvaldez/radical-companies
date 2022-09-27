@@ -35,6 +35,8 @@ image:    "top-boss-top-dog.svg"
  <p>One of your oldest Board member pulls you aside and tells you to not attend the next Board meeting. &ldquo;You are out and the COO is going to be our interim CEO–but, don&rsquo;t worry, you&rsquo;ll keep your shares.&rdquo;</p>
  <p>You are out &ldquo;for personal reasons.&rdquo; You are conflicted and feeling worse than awful and you can&rsquo;t face your team.</p>
  <p>You get news that the business is going to be acquired &ldquo;but a low price.&rdquo; So low,in fact, that &ldquo;the Board made a unanimous decision to dilute  non-active employees and common shareholders to 25% of their holdings.&rdquo; Not such a big pay off after all for you or your team.</p>
+ 
+<h1>Read the Book</h1>
  <p>You start to come out of your depression and go out in the lake for a last boat ride. Amazing how calmimg the water is.</p>
  <p>Your phone rings, and you pick up a call from your Board friend. You chat for a bit and tell him what you have gone through, &ldquo;Well, at least, now you have credentials and, in fact, I&rsquo;d like to introduce you to a business I just invested in. Youl&rsquo;ll be an awesome COO for them.&rdquo;</p>
  <p>As you sit thee, in the middle of the lake, your phone rings again and you pick up a call from your author friend. Among other things, she tells you about his new book, &ldquo;this one is about our experience implementing all those ideas we spoke about. It truly is more awesome that we had speculated. It is amazing the things we have done with little capitalization just by decentralizing all decision-making and recognizing people’s contributions. I am so happy. You should come.and stay with us&hellip; &rdquo;</p>
