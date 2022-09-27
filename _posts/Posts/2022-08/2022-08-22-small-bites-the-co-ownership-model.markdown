@@ -66,7 +66,6 @@ image:    "co-ownership-in-small-bites-icon.svg"
     <a href="#bm03"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
    </p>
   </li>
-  </li>
  </ol>
 
 <h1 class="_section">RELATED</h1>
