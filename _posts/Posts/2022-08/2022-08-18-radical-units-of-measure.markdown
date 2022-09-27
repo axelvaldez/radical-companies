@@ -3,7 +3,7 @@ layout:   post
 title:    "RADICAL Units of Measure"
 subtitle: "TEMPLATE"
 authors:  "Jose Leal, Adrian Perez, Matt Perez"
-image:    "radical-units-of-measure.svg"
+image:    "icon-radical-units-of-measure.svg"
 ---
 
 <div style="display:none;">
