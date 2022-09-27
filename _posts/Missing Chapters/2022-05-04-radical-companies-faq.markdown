@@ -3,21 +3,21 @@ layout:   post
 title:    "RADICAL COMPANIES Frequently Asked Questions (FAQ)"
 subtitle: ""
 authors:  "Matt PEREZ | Adrian PEREZ | Jose LEAL"
-image:    "questions.png"
+image:    "icon-questions.png"
 ---
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Intro</h1>
+<h1>Intro</h1>
  <p>These questions come from readers of the <a href="https://docs.google.com/document/d/10NJA6kzzzHZiS-CQBB6HpWdJ1gFqmYK5kNQYG_JR7X0/edit#heading=h.87ak6hy0sbuh">RADICAL COMPANIES</a> book and its accompanying booklet, <a href="https://docs.google.com/document/d/17uegxy6GPeLsajIaM_6faQ0hdl56PqMXpJvLW37iJVg/edit#">For the Impatient</a>.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Co-Ownership</h1>
+<h1 class="_section">Co-Ownership</h1>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Does a company need to be co-owned to be RADICAL?</h2>
+<h2>Does a company need to be co-owned to be RADICAL?</h2>
  <p>Yes, it has to be co-owned <em>and</em> co-managed.</p>
  <p>The owner is the ultimate boss and self-management is at the mercy of a benevolent owner. On the other hand, when everybody in the company is a co-owner of it then co-management can happen unobstructed.</p>
  <p>In FIAT companies the Board is the owner. In theory, it has to keep its hands out of operations, but it can replace the CEO, the ultimate operations boss, at its whim, by fiat. If the CEO was the benevolent type that allowed self-management to happen, then self-management goes out the door with him.</p>
  <p>By the same token, co-management is required for “ownership” not to become corrupted. For example, when John Spedan Lewis created the John Lewis Partnership in 1929 he left in place a FIAT hierarchy. He wrote a very extensive constitution to prevent managers from taking over the control of the company. Nevertheless, in time they eventually did and remains is participation but not real ownership. Other companies have tried a similar approach ceding financial  ownership to workers but leaving a FIAT hierarchy in place and invariably the managers always take control of it. These companies are very generous compared to their competitors, and people vote on a bunch of things, but what’s left of worker ownership is cosmetic at best.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Are RADs the same as shares of stock?</h2>
+<h2>Are RADs the same as shares of stock?</h2>
  <p>They are different things. They both represent “ownership,” but very differently,</p>
  <ul>
   <li>Stocks are static. Each share of stock represents a fixed percentage of the business <em>forever</em>.</li>
@@ -25,7 +25,7 @@ image:    "questions.png"
 </ul>
  <p>Stock doesn’t matter to RADICAL companies. If your company has been incorporated to have stock, make sure to put them in a safe place.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">What does it mean that RADs are “dynamic?”</h2>
+<h2>What does it mean that RADs are “dynamic?”</h2>
  <p>It means that the total amount of generated RADs (denominator) grows regularly and the total number of RADs allocated to a co-owner (numerator) changes regularly.</p>
  <p>For example,</p>
  <ul>
@@ -35,26 +35,26 @@ image:    "questions.png"
   <li>This time you get 142 additional RADs for a total of 592 (16%) and I end up with a total of 630 (17%).</li>
 </ul>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Who’s looking out for the business?</h2>
+<h2>Who’s looking out for the business?</h2>
  <p>The allocation of RADs is not based on traditional key performance indicators, or targets, or any of the things that are usually measured and checked by the bosses. So, the question is who is looking out for the company? And the answer is the co-owners, the people who embody it.
  </p>
  <p>The metrics that are important to the business continue to be important to the company and co-owners will want to look at these metrics, question the results, etc. For example, if I didn’t come through on something I promised to do that was critical to these indicators, then we’ll have to figure out why it didn’t happen and what could we have done differently to make it happen. These conversations may get heated, and voices will be raised. RADICAL Distributions are not a replacement for these difficult decisions and hard conversations.
  </p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Stock shares don’t count? really?</h2>
+<h2>Stock shares don’t count? really?</h2>
  <p>Stock counts when a company is sold, either to another business or to the public market. It is unlikely that a RADICAL company will be sold, but if it is, the total amount of money paid for the company would be distributed according to the distribution of the RADs.</p>
  <p>A RADICAL investment is ruled by a specific contract that stipulates how and how much the investment is to be paid back. This agreement is what rules the investment. If, out of habit, the investors demand “stocks!” then you can create a separate company and they can hold stock in that company, but with the condition that the stock goes back when the investment is paid according to the terms agreed upon. The parallel company could hold a percentage ownership in the RADICAL company.</p>
  <p>As alway, experiment to figure out what works for you.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Does a department head or an executive give out RADs from a budget?</h2>
+<h2>Does a department head or an executive give out RADs from a budget?</h2>
  <p>RADs are not related to hierarchical titles, functional titles, or roles. All co-owners create the company and the wealth generated by it and this is represented by RADs. All co-owners get RADs from other co-owners on a regular basis. The most “senior” person gets the same number of RADs as the more “junior” person or a newbie. People who contribute more generally get more RADs.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">How does RADICAL really work?</h2>
+<h2>How does RADICAL really work?</h2>
  <p>It may be frustrating but we can’t tell you what exactly will work for you.</p>
  <p>We are trying out a system where each co-owner gets on RAD every day. When something significant happens, you can flag a person or a banner right on the spot. Later, during a Distribution event, you can then allocate a fraction of your daily RAD. Alternatively, you can flag people to not give RADs to and during a Distribution event you can assign them zero RADs or leave the amount empty. Zero allocations should motivate co-owners to ask for feedback.</p>
  <p>Right now, we are prototyping it on a spreadsheet that we all have access to, but this will likely move to a simple app.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Why would I want my business to become a RADICAL Company?</h2>
+<h2>Why would I want my business to become a RADICAL Company?</h2>
  <p>You organize as a RADICAL company because,</p>
  <ul>
    <li>You want the company to grow.</li>
@@ -70,11 +70,11 @@ image:    "questions.png"
  <p>If you are a lesser boss, you can get “your” team going in the general direction of going RADs.  It will be easier to move towards co-management (because you are a boss), but more difficult to move fully into co-ownership, but you can take some limited steps in that general direction.</p>
  <p>If you are not an owner or a boss, we don’t know how you could proceed, other than to leave and either start your own company or join one that’s aligned with where you want to go.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Can we take advantage of ESOPs?</h2>
+<h2>Can we take advantage of ESOPs?</h2>
  <p>One thing you can do with stock is to have it be owned by an Employee Stock Ownership Plan (ESOP) trust. According to US legislation, ESOPs don’t pay taxes on revenue. We expect to have a more detailed answer later, but for now, if you want to know more about this, consult a lawyer.</p>
  <p>Originally, we were excited by ESOPs and thought that they were it! Unfortunately, they are not. They are positioned as a retirement plan (<em>i.e.</em>, they fall under the US ERISA legislation). They require a lot of bureaucracy to maintain them and that’s usually outsourced to specialized accountants and lawyers, so they are expensive to maintain. The only benefit is financial and that comes at a higher risk of having all your eggs in one basket, so to speak (<em>i.e.</em>, the ESOP is completely dependent on the performance of one company).</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">How does RADICAL Distribution works in companies that need funding, investment, or merge and acquisition capital?</h2>
+<h2>How does RADICAL Distribution works in companies that need funding, investment, or merge and acquisition capital?</h2>
  <p>Part 3 of the book is mostly speculation, but what is clear is that financial transactions should not be mixed in with governance.</p>
  <p>A RADICAL investment is much like an investment from a VC: the company gets a cash infusion to create new products or expand into new markets. The significant difference is that a RADICAL investment is a purely financial transaction and includes no other rights.</p>
  <p>The investment terms will include a timeframe and amount for repayment. This could be something like, “we will pay back three times the amount in three years hence,” or “we will pay back four times the principal amount in two years starting three years from now,” or even “we will pay back three times the amount if we reach X level of revenue, five times if we get to Y level of revenue, and ten times if our revenue grows beyond Z”).</p>
@@ -89,14 +89,14 @@ image:    "questions.png"
 </ul>
  <p>This is to say that a RADICAL investment is less risky than the traditional risk capital investment because everyone in the company, and not just a select few, is committed to its success and fully supportive of it.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">So, do I have to say no to investors?</h2>
+<h2>So, do I have to say no to investors?</h2>
  <p>VC investors won’t understand any of this. They’ll think it is nuts and walk away from this before  you get a chance to say no.</p>
  <p>However, if you need a capital infusion, then find an investor that agrees to 1) give the money, 2) in exchange for a promise to pay back a multiple of the original investment. For example, you may get a $500K cash infusion in exchange for a promissory note to pay back $1.5M in three years.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">What happens if the company gets acquired?</h2>
+<h2>What happens if the company gets acquired?</h2>
  <p>We don’t envision RADICAL companies being sold, but if that’s the way it turns out, then, as in any such transaction, you trade the company’s stock for the purchase amount. With that you pay off whatever debt you’ve accumulated and distribute the rest according to the RADs allocations. For example, if you end up with 10% of all the RADs, then you get 10% of the Distribution amount.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">How often do I have to do distributions?</h2>
+<h2>How often do I have to do distributions?</h2>
  <p>Something like this could work,</p>
  <ul>
    <li>Each person gets one RAD every day.</li>
@@ -105,47 +105,47 @@ image:    "questions.png"
 </ul>
  <p>One possible way to do this is by creating a Tinder-like mobile app, where you can easily flag people with a gesture. With a right-swipe you could add people to the “good” list and with a left swipe you could add people to the “naughty” list. At another time, the app would let you allocate a percentage of your RADs to each person; it may even suggest a distribution based on the number of “good” and “naughty” swipes you gave each person. You could also add a note along with the allocation.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Is the RADICAL model really “fair?” Won’t so much “equality” come at the price of individualism? Doesn’t it risk becoming a demotivator?</h2>
+<h2>Is the RADICAL model really “fair?” Won’t so much “equality” come at the price of individualism? Doesn’t it risk becoming a demotivator?</h2>
  <p>Fairness and equality are not the goal at all. Fairness and equality are the children of the monolithic FIAT mindset.</p>
  <p>Recognizing personal effort is better done by the people who are close to that effort. One line of code makes everything great for the whole team. Another line of code, makes a mess of things. But even though I know a few things about software, I CAN'T TELL the difference. However, people in the team readily recognize which is a plus and which is not.</p>
  <p>If I think it was great, but I get no RADs, then I call for feedback. If the feedback is not resonating with me, then I leave. The problem today is that people's livelihoods are deeply tied to employment. In the US, your health insurance is tied to your job and if your wife is 7 months pregnant, then you have to bite your lip and stick around for two more months and maybe longer. In other words, the current system is the problem, not the Distribution.</p>
  <p>My hope is that over time changing how companies are governed and owned will spill out and change the system we live in and make things healthier. And all kinds of shenanigans will happen along the way, for sure.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Do you know of other models for handling salaries?</h2>
+<h2>Do you know of other models for handling salaries?</h2>
  <p>There are a couple of companies in Argentina and a few in Europe that are experimenting with salaries. Ricardo Semler experimented with self-assigned salaries at SEMCO, in the late 1970s.</p>
  <p> In the cases we know of, they are still considered wages. We are so used to the work-for-money system that we don’t question it. We don’t even  realize that it is more like, “I create wealth for you, and you give me a fixed amount of money that’s unrelated to the wealth generated.”</p>
  <p>Things like a capped ratio of highest to lowest wage (<em>e.g.</em>, cooperatives) didn’t resonate with us. It is an arbitrary compression of wealth extraction, divorced from contributions.</p>
  <p>In the book, instead of “wages” or “compensation,” we looked at it from the point of view of wealth extraction and things started to fall in place for us. For the people who embody a company, the PRI model described in the book is clearly tied to the contributions everyone makes and the wealth created by it. For an investor, it makes it completely transparent how much goes into financially taking care of people versus other expenses and investments.</p>
  <p>We don’t know what the ultimate form of this will be, but we feel strongly that wealth extraction has to be tied to financial performance and contributions.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">So, stock owners don't have any form of control? Look at what’s happening in the oil & gas industry. We need responsible stockowners to force companies to change!</h2>
+<h2>So, stock owners don't have any form of control? Look at what’s happening in the oil & gas industry. We need responsible stockowners to force companies to change!</h2>
  <p>The existing financial system is broken, yes. What’s happening with many businesses, not in oil and gas, is a reflection of that. We don’t know how to tweak the current system so it lets us live a bit longer, but more bureaucratic controls are not going to fix it.</p>
  <p>In a decentralized world, co-owners will deal with problems <em>before</em> they become a problem. They become a problem today because a handful of people can decide to ignore “externalities” for the sake of financial gain.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Aren’t the liquidy suggestions super complex? What about tax-wise? Do we want the people to deal with that?</h2>
+<h2>Aren’t the liquidy suggestions super complex? What about tax-wise? Do we want the people to deal with that?</h2>
  <p>We never said anything about taxes, law, or anything else we don’t know much about. These are suggestions, thought experiments to point to  how things could possibly work.</p>
  <p>Maybe it is not so much a case that these ideas are impractical, as it is that they are different and unfamiliar.</p>
 
-<h1 style="text-align: center; ">Co-Management</h1>
+<h1 class="_section">Co-Management</h1>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">What about titles?</h2>
+<h2>What about titles?</h2>
  <p>In a co-managed company there is no FIAT hierarchy and, therefore, there are no hierarchical titles. Even if you use them when you work with FIAT businesses, these titles don’t mean anything inside a co-managed company.</p>
  <p>There are still roles that people perform, functions that have to be done, and specific skill sets that people have. But there are no entitled bosses “in charge” of silos. People work together in teams (fluid) but there are no departments (static).</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">How would this work with our Purpose?</h2>
+<h2>How would this work with our Purpose?</h2>
  <p>Purpose is a component of an explicit alignment. It should be considered when allocating RADs.</p>
  <p>On the other hand, each individual gets to decide how to distribute his RADs and nobody else has the right to question their decisions (although social pressure is hard to ignore and harder to resist).</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">How would this work with our Circle framework?</h2>
+<h2>How would this work with our Circle framework?</h2>
  <p>“Circles” come in two flavors, non-hierarchical and hierarchical.</p>
  <p>Non-hierarchical groups of people come together and dissolve as needed. Whether or not they are called “circles,” their scope is limited to the task at hand.</p>
  <p>Hierarchical “circles,” on the other hand, are just another form of FIAT hierarchy and as such they are inimical to co-management and co-ownership.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Does a company need to be co-managed to RADICAL?</h2>
+<h2>Does a company need to be co-managed to RADICAL?</h2>
  <p>A FIAT hierarchy warps an organization in its favor, so we don’t see how the two would coexist for long. When John Lewis created the John Lewis Partnership he put in place a FIAT hierarchy and a very extensive constitution to prevent managers from taking over the control of the company, but eventually they did. Other Europeans companies have tried a similar approach and invariably the managers took it over. They are still financially very generous companies compared to their competitors but what’s left of worker control is cosmetic.</p>
  <p>So, yes, to be RADICAL a company has to be co-managed.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Why would I want my business to become a RADICAL Company?</h2>
+<h2>Why would I want my business to become a RADICAL Company?</h2>
  <p>You organize as a RADICAL company because,</p>
  <ul>
   <li>You want a better quality of life for yourself and those around you.</li>
@@ -161,20 +161,20 @@ image:    "questions.png"
  <p>If you are a lesser boss, you can get “your” team going in the general direction of going RADICAL.  It will be easier to move towards co-management (because you are a boss), but more difficult to move fully into co-ownership, but you can take some limited steps in that general direction.</p>
  <p>If you are not an owner or a boss, we don’t know how you could proceed, other than to leave and either start your own company or join one that’s aligned with where you want to go.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">What do I have to give up?</h2>
+<h2>What do I have to give up?</h2>
  <p>The illusion of control, the fantasy that life is about winning and losing, the competitive silos, the stress, the obsession with “getting rich,” and the drive to dominate (or be dominated).</p>
  <p>What you get instead is a company that creates more wealth that more people benefit from, a better quality of life for all involved, it’s more innovative and less risky, more resilient and scalable, a learning, collaborative culture.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">If the benevolent owners are fairly young, self-management is not so at risk, right?</h2>
+<h2>If the benevolent owners are fairly young, self-management is not so at risk, right?</h2>
  <p>The owners could decide to sell the company or they can simply change their mind overnight. Unfortunately, we’ve had an example of the latter recently (<em>ca.</em>, 2021), witness Basecamp.</p>
  <p>Basecamp is a software company and was touted as a self-management poster child. Its owners, Jason Fried and David Heinemeier Hansson, believe strongly in the capability of people to self-manage – Fried even wrote books about it. Then one day Jason and David got off on the wrong side of their respective beds, so to speak, and brushed aside everything that the Basecamp <em>employees</em> had built over many years as a self-managed team. As a result Basecamp lost more than a third of its staff overnight.</p>
  <p>BTW, this overnight change of heart was, at least, more open (<em>i.e.</em>, Fried posted the letter publicly). When benevolent owners backtrack little by little, it most often goes unnoticed.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Core Design Principle “nested enterprises,” is questionable. Wouldn’t bad behavior of one group always be sanctioned within a bigger ecosystem?</h2>
+<h2>Core Design Principle “nested enterprises,” is questionable. Wouldn’t bad behavior of one group always be sanctioned within a bigger ecosystem?</h2>
  <p>This stuff about “sanctioning bad behavior” only makes sense if the whole ecosystem is corrupt. This is very likely the case in a FIAT business. But in a RADICAL company even if a few co-owners drink too much Kool-Aid, the others will raise the red flag.</p>
  <p>In any case, this is not about “sanctioning.” It is about applying the same Core Design Principle to any interactions with other groups within the same organization managing a Common Pool Resource,</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Boundaries of users and resource are clear</h2>
+<h2>Boundaries of users and resource are clear</h2>
  <ul>
   <li>Congruence between benefits and costs</li>
   <li>Users had procedures for making own rules</li>
@@ -184,7 +184,7 @@ image:    "questions.png"
 </ul>
  <p>For more information, see the <a href="https://docs.google.com/document/d/10NJA6kzzzHZiS-CQBB6HpWdJ1gFqmYK5kNQYG_JR7X0/edit?pli=1#heading=h.ud821w7zvp4x">Ostrom’s Core Design Principles</a> book appendix.</p>
 
-<h1 style="text-align: center; ">General</h1>
+<h1 class="_section">General</h1>
 <br>
 
 <h2 style="font-size:30px; font-family:Courier New, monospace;  ">If “businesses are broken,“ how can it be that they are more successful than ever?</h2>
