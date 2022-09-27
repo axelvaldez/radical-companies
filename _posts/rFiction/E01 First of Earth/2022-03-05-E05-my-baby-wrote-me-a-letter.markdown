@@ -3,7 +3,7 @@ layout:   post
 title:    "My Baby Wrote Me a Letter"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E05"
 authors:  "Matt Perez & Adrian Perez"
-image:    "icon-and-then-e05.png"
+image:    "icon-e05-and-then.png"
 hidden:   true
 ---
 

@@ -3,7 +3,7 @@ layout:   post
 title:    "The Venusian Subterfuge"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E06"
 authors:  "Adrian Perez"
-image:    "icon-and-then-e06.png"
+image:    "icon-e06-and-then.png"
 hidden:   true
 ---
 

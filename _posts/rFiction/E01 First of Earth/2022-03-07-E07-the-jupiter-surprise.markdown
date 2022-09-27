@@ -3,7 +3,7 @@ layout:   post
 title:    "The Jupiter Surprise"
 subtitle: "AND THEN THEY WANT TO BURN YOU — E07"
 authors:  "Matt Perez"
-image:    "icon-and-then-e07.png"
+image:    "icon-e07-and-then.png"
 hidden:   true
 ---
 
