@@ -11,7 +11,8 @@ image:    "icon-rhatchery-se.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>The other rCommunity so far is #100lives.</p>
+ <p style="
+  animation:animated-text 4s steps(16) 1s 1 normal both, animated-cursor 500ms steps(16)">The other rCommunity so far is #100lives.</p>
 
 <h1>#100lives</h1>
  <p>About a month ago Jose Contreras, a dear friend, told me about what he and Dr Mike Ybarra wanted to do. It was crazy talk, but I always listen because Jose oftentimes turns out not to be so crazy after all. He wanted to help people on probation<a href="#en01" target="_blank"><sup id="bm01">1&nbsp;</sup></a> get started on carreers in the technology space, in particular in the area of sales. He wanted to help them shift to a virtuous circle that could keep them out of jail.</p>
