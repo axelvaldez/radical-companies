@@ -334,5 +334,6 @@ td._spacer:after {
   content: "”";
 }
 .anim {
-  animation: animated-text 4s steps(16) 1s 1 normal both, animated-cursor 500ms steps(16);
+  animation: animated-text 4s steps(16) 1s 1 normal both,
+  animated-cursor 500ms steps(16) infinite normal;
 }
