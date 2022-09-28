@@ -242,6 +242,7 @@ h1._section {
 }
 p {
   margin-left:1em;
+  animation:animated-text 4s steps(16) 1s 1 normal both, animated-cursor 500ms steps(16)
 }
 a._uparrow img {
   height:15px;
