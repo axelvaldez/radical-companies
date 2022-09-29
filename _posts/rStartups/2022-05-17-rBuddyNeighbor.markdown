@@ -3,7 +3,7 @@ layout:   post
 title:    "rBuddyNeighbor"
 subtitle: "Connecting neighbors, building community."
 authors:  "Matt Perez"
-image:    "rbuddyneighbor-icon.svg"
+image:    "icon-rbuddyneighbor.svg"
 ---
 
 <div style="display: none; ">
