@@ -334,7 +334,7 @@ td._spacer:after {
   content: "”";
 }
 ._typewriter {
-  overflow:hidden;
+  overflow:scroll;
   border-right:0.15em solid orange;
   white-space:nowrap;
   margin:0 auto;
@@ -342,7 +342,7 @@ td._spacer:after {
   animation:
     typing 3.5s steps(40, end),
     blink-caret .75s step-end infinite;
-  }
+}
 @keyframes typing {
   from {
     width: 0
@@ -351,7 +351,6 @@ td._spacer:after {
     width: 100%
   }
 }
-
 @keyframes blink-caret {
   from,
   to {
