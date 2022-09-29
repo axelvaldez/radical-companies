@@ -334,7 +334,7 @@ td._spacer:after {
   content: "”";
 }
 ._typewriter {
-  overflow:scroll;
+  overflow:hidden;
   border-right:0.15em solid orange;
   margin:0 auto;
   letter-spacing:0.15em;
