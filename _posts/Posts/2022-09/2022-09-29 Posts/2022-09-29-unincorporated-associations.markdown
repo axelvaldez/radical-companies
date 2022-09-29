@@ -3,7 +3,7 @@ layout:   post
 title:    "Unincorporated Associations"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Jose Leal, Matt Perez"
-image:    "unleashing-your-potential.svg"
+image:    "icon-unincorporated-association.svg"
 ---
 
 <div style="display:none;">
