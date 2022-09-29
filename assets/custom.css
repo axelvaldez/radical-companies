@@ -336,7 +336,6 @@ td._spacer:after {
 ._typewriter {
   overflow:scroll;
   border-right:0.15em solid orange;
-  white-space:nowrap;
   margin:0 auto;
   letter-spacing:0.15em;
   animation:
