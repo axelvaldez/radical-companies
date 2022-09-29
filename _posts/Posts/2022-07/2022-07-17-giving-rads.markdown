@@ -35,7 +35,7 @@ image:    "icon-giving-rads.svg"
   >
  </p>
 
-<h1>How the Coffee Button Works</h1>
+<h1>How the &ldquo;Coffee&rdquo; Button Works</h1>
  <ol>
   <li>Press the coffee button to let a peer&rsquo;s know that you want to talk.</li>
   <li>You press it once per topic.</li>
