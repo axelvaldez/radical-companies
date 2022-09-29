@@ -7,7 +7,7 @@ image:    "icon-unincorporated-association.svg"
 ---
 
 <div style="display:none;">
- <p><em>Unincorporated Associations</em> (UA) are a legal entity in California. <span class="_paradigm">FIAT</span> businesses could use these as they transform into <span class="_paradigm">RADICAL</span> companies. during a transition period.</p>
+ <p><em>Unincorporated Associations</em> (UA) are legal entities in California. <span class="_paradigm">FIAT</span> businesses could use these as they transform into <span class="_paradigm">RADICAL</span> companies. during a transition period.</p>
 </div>
 
 <h1>&nbsp;</h1>
