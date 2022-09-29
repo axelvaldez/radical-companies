@@ -7,7 +7,7 @@ image:    "icon-rbuddyneighbor.svg"
 ---
 
 <div style="display: none; ">
- <p>Building communities of people ready for action.</p>
+ <p>Politics is local, it starts at the grassroots. BuddyNeighbor build communities of neighbors ready for action.</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
