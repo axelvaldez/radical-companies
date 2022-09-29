@@ -10,7 +10,7 @@ image:    "icon-rmedia.svg"
  <p>Curious people can get the <span style="font-size:smaller; ">RADICAL</span> experience by staying with <span style="font-size:smaller; ">RADICAL</span> companies in the rCircuit.</p>
 </div>
 
-<div style="background-color:beige; font-size:x-large; font-family:american typewriter, serif; padding:1em; margin-bottom:30px; ">
+<div style="background-color:beige; font-size:x-large; font-family:american typewriter, serif; padding:1em; margin-bottom:30px; " class="_typewriter">
  <p style="text-align:center; margin:0; ">Compassion is the <span style="font-size:smaller; ">RADICAL</span>ism of our time</p>
  <p style="text-align:right; margin:0; font-size:smaller; ">&mdash; Dalai Lama XIV</p>
 </div>
