@@ -16,7 +16,7 @@ image:    "icon-rhatchery-ne.svg"
  <p>This app makes the Distribution process painless. It allows co-owners to recognize contributions and give <span class="_paradigm">RAD</span>s by pressing a button. They can presse this button as many times as they feel like it and the app figures out the amount of <span class="_paradigm">RAD</span>s to give.</p>
  <p>It also makes very easy to create and join as many communities as the co-owner wants.</p>
 
-<h1>&nbsp;</h1>
+<h1>rCommunities</h1>
  <p>There is one more tool that we are using so far: <a href="https://radicalcompanies.com/2022/09/21/rtools-rcommunity-and-rcore" target="_blank">rCommunities</a>.</p>
 
 <h1 class="_section">ENDNOTES</h1>
