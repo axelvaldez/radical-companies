@@ -15,8 +15,8 @@ image:    "icon-how-to-talk-about-radical.svg"
  <p>The thing is that &ldquo;principles&rdquo; and &ldquo;structure&rdquo; are <span class="_paradigm">FIAT</span> concerns. The questions assume them as Centralized forces. &ldquo;Somebody has to hold this together.&rdquo; We must have a boss, or things will fall apart.</p>
  <p>Nevertheless, you can address these types of questions by talking about the tools you have,</p>
  <ol style="margin-left:20px; ">
-  <li>The RADs!<a href="#en01"><sup id="bm02">2&nbsp;</sup></a> mobile app</li>
-  <li>The Agreements<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></li>
+  <li>The RADs!<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> mobile app</li>
+  <li>The Agreements<a href="#en02"><sup id="bm03">2&nbsp;</sup></a></li>
   <li>The <span class="_paradigm">RADICAL</span> Foundation template</li>
  </ol>
  <p>You can read about the first two in previous posts. This post is about the <span class="_paradigm">RADICAL</span> Foundation template.</p>
@@ -106,20 +106,14 @@ image:    "icon-how-to-talk-about-radical.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    Note that this is a <span class="_paradigm">FIAT</span> concern. It assumes &ldquo;principles&rdquo; and &ldquo;structure&rdquo; as Centralized forces. &ldquo;Somebody has to hold this together.&rdquo; There must be an immutable boss, forever. Else, it will fall apart.
+    <<a href="https://radicalcompanies.com/2022/09/20/rtools-rads-app.html">https://radicalcompanies.com/2022/09/20/rtools-rads-app.html</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p class="_list-item">
-    <<a href="https://radicalcompanies.com/2022/09/20/rtools-rads-app.html">https://radicalcompanies.com/2022/09/20/rtools-rads-app.html</a>>
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en03">
-   <p class="_list-item">
     <<a href="https://radicalcompanies.com/2022/09/19/rtools-agreements.html">https://radicalcompanies.com/2022/09/19/rtools-agreements.html</a>>
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
