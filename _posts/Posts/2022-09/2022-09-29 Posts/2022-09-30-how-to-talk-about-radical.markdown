@@ -3,7 +3,7 @@ layout:   post
 title:    "How to Talk about RADICAL"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez, Jose Leal"
-image:    "icon-unincorporated-association.svg"
+image:    "icon-how-to-talk-about-radical.svg"
 ---
 
 <div style="display:none;">
