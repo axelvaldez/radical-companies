@@ -3,7 +3,7 @@ layout:   post
 title:    "How to Talk about RADICAL: Tools: Foundations"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-how-to-talk-about-radical.svg"
+image:    "icon-how-to-talk-about-radical-foundations.svg"
 ---
 
 <div style="display:none;">
