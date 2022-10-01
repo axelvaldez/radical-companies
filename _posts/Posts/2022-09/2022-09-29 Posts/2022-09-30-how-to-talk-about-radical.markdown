@@ -11,11 +11,11 @@ image:    "icon-how-to-talk-about-radical.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>It keeps coming up: how can I talk about <span class="_paradigm">RADICAL</span> to people who don’t know anything about it. What are its Principles, its structure?<sup id="bm01"><a href="#fn1" rel="footnote">1</a></sup></p>
- <p>I don’t know about “principles,” but you have tools that you can talk about,</p>
+ <p>It keeps coming up: how can I talk about <span class="_paradigm">RADICAL</span> to people who don’t know anything about it. What are its Principles, its structure?<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
+ <p>I don’t know about &ldquo;principles,&rdquo; but you have tools that you can talk about,</p>
  <ol>
-  <li>The RADs!<sup id="bm02"><a href="#fn2" rel="footnote">2</a></sup> mobile app</li>
-  <li>The Agreements<sup id="bm03"><a href="#fn3" rel="footnote">3</a></sup></li>
+  <li>The RADs!<a href="#en01"><sup id="bm02">2&nbsp;</sup></a> mobile app</li>
+  <li>The Agreements<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></li>
   <li>Its Foundation template</li>
  <p>You can read about the first two in previous posts. So, let’s talk about the Foundation template.</p>
 
@@ -46,13 +46,12 @@ image:    "icon-how-to-talk-about-radical.svg"
    <td class="_spacer"></td>
   </tr>
  </table>
-
  <p>From the bottom up,</p>
  <table>
   <tr>
    <th>Experimentation</th>
    <td>
-    <p>Means never having to say you’re sorry. But you must tell what you’ve learned from the experiment. If you don’t, nobody, including you, can learn from it. Even saying, “I don’t know why it went wrong” means we learned something from it.</p>
+    <p>Means never having to say you’re sorry. But you must tell what you’ve learned from the experiment. If you don’t, nobody, including you, can learn from it. Even saying, &ldquo;I don’t know why it went wrong&rdquo; means we learned something from it.</p>
     <p>BTW, whether you do this out loud or written or what have you, it’s something that you all need to agree on from the outset.</p>
    </td>
   </tr>
@@ -101,26 +100,27 @@ image:    "icon-how-to-talk-about-radical.svg"
   </tr>
  </table>
 
-
-
-<!-- Footnotes themselves at the bottom. -->
-
-<h2>Notes</h2>
-<div class="footnotes">
-<hr>
-<ol><li id="fn1">
-<h6>    	Note that this is a <span class="_paradigm">FIAT</span> concern. It assumes “principles” and “structure” as Centralized forces. “Somebody has to hold this together.” There must be an immutable boss, forever. Else, it will fall apart. </h6>
-
-&nbsp;<a href="#bm01" rev="footnote">&#8617;</a><li id="fn2">
-
-<h6>    	<a href="https://radicalcompanies.com/2022/09/20/rtools-rads-app.html">https://radicalcompanies.com/2022/09/20/rtools-rads-app.html</a></h6>
-
-&nbsp;<a href="#bm02" rev="footnote">&#8617;</a><li id="fn3">
-<h6>    	<a href="https://radicalcompanies.com/2022/09/19/rtools-agreements.html">https://radicalcompanies.com/2022/09/19/rtools-agreements.html</a></h6>
-
-&nbsp;<a href="#bm03" rev="footnote">&#8617;</a>
-
-</ol></div>
+<h1 class="_section">ENDNOTES</h1>
+ <ol>
+  <li id="en01">
+   <p class="_list-item">
+    U<p>Note that this is a <span class="_paradigm">FIAT</span> concern. It assumes &ldquo;principles&rdquo; and &ldquo;structure&rdquo; as Centralized forces. &ldquo;Somebody has to hold this together.&rdquo; There must be an immutable boss, forever. Else, it will fall apart.</p>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    <<a href="https://radicalcompanies.com/2022/09/20/rtools-rads-app.html">https://radicalcompanies.com/2022/09/20/rtools-rads-app.html</a>>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    <<a href="https://radicalcompanies.com/2022/09/19/rtools-agreements.html">https://radicalcompanies.com/2022/09/19/rtools-agreements.html</a>>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ol>
 
 <h1 class="_section">RELATED</h1>
  <ul>
