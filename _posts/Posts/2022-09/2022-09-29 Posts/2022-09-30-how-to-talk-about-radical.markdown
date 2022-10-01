@@ -105,7 +105,7 @@ image:    "icon-how-to-talk-about-radical.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    U<p>Note that this is a <span class="_paradigm">FIAT</span> concern. It assumes &ldquo;principles&rdquo; and &ldquo;structure&rdquo; as Centralized forces. &ldquo;Somebody has to hold this together.&rdquo; There must be an immutable boss, forever. Else, it will fall apart.</p>
+    Note that this is a <span class="_paradigm">FIAT</span> concern. It assumes &ldquo;principles&rdquo; and &ldquo;structure&rdquo; as Centralized forces. &ldquo;Somebody has to hold this together.&rdquo; There must be an immutable boss, forever. Else, it will fall apart.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
