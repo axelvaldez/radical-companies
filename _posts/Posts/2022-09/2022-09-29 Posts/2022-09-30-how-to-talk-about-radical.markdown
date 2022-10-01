@@ -48,7 +48,7 @@ image:    "icon-how-to-talk-about-radical.svg"
   </tr>
  </table>
  <p>From the bottom up,</p>
- <table align="center">
+ <table align="center" style="width:80%; ">
   <tr>
    <th>Experimentation</th>
    <td>
