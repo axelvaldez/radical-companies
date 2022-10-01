@@ -13,7 +13,7 @@ image:    "icon-how-to-talk-about-radical.svg"
 <h1>&nbsp;</h1>
  <p>It keeps coming up: how can I talk about <span class="_paradigm">RADICAL</span> to people who don’t know anything about it. What are its Principles, its structure?<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
  <p>I don’t know about &ldquo;principles,&rdquo; but you have tools that you can talk about,</p>
- <ol>
+ <ol style="margin-left:20px; ">
   <li>The RADs!<a href="#en01"><sup id="bm02">2&nbsp;</sup></a> mobile app</li>
   <li>The Agreements<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></li>
   <li>Its Foundation template</li>
