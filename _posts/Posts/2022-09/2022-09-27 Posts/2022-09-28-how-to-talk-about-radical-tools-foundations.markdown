@@ -11,14 +11,15 @@ image:    "icon-how-to-talk-about-radical.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>It keeps coming up: how can I talk about <span class="_paradigm">RADICAL</span> to people who don’t know anything about it. What are its Principles? What is its structure?<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
- <p>I don’t know about &ldquo;principles,&rdquo; but you have tools that you can talk about,</p>
+ <p>It keeps coming up: how can I talk about <span class="_paradigm">RADICAL</span> to people who don’t know anything about it. What are its Principles? What is its structure?</p>
+ <p>The thing is that &ldquo;principles&rdquo; and &ldquo;structure&rdquo; are <span class="_paradigm">FIAT</span> concerns. The questions assume them as Centralized forces. &ldquo;Somebody has to hold this together.&rdquo; We must have a boss, or things will fall apart.</p>
+ <p>Nevertheless, you can address these types of questions by talking about the tools you have,</p>
  <ol style="margin-left:20px; ">
   <li>The RADs!<a href="#en01"><sup id="bm02">2&nbsp;</sup></a> mobile app</li>
   <li>The Agreements<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></li>
-  <li>Its Foundation template</li>
+  <li>The <span class="_paradigm">RADICAL</span> Foundation template</li>
  </ol>
- <p>You can read about the first two in previous posts. So, let’s talk about the Foundation template.</p>
+ <p>You can read about the first two in previous posts. This post is about the <span class="_paradigm">RADICAL</span> Foundation template.</p>
 
 <h1><span class="_paradigm">RADICAL</span> Foundation Template</h1>
  <p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination. Our collapsing climate, the expanding wealth gap, discrimation against people of color, the exploitation of women. Instead, we need a generative way of relating to one another, a different paradigm. As we see it, businesses are the place to start. Businesses-as-dictatorship are the root of the problem, so they must be the incubators for what comes next.</p>
