@@ -18,6 +18,7 @@ image:    "icon-how-to-talk-about-radical.svg"
   <li>The Agreements<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></li>
   <li>Its Foundation template</li>
  <p>You can read about the first two in previous posts. So, let’s talk about the Foundation template.</p>
+</ol>
 
 <h1><span class="_paradigm">RADICAL</span> Foundation Template</h1>
  <p>Our deepest problems are the inescapable side-effects of the system we live in, a system based on domination. Our collapsing climate, the expanding wealth gap, discrimation against people of color, the exploitation of women. Instead, we need a generative way of relating to one another, a different paradigm. As we see it, businesses are the place to start. Businesses-as-dictatorship are the root of the problem, so they must be the incubators for what comes next.</p>
