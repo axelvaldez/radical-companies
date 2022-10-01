@@ -30,6 +30,7 @@ image:    "icon-how-to-talk-about-radical.svg"
     For more info, see <em>The Dictator's Handbook</em>
     <<a href="https://en.wikipedia.org/wiki/The_Dictator%27s_Handbook">https://en.wikipedia.org/wiki/The_Dictator%27s_Handbook</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
   </li>
  </ol>
 
