@@ -27,21 +27,21 @@ image:    "icon-how-to-talk-about-radical.svg"
  <table align="center">
   <tr>
    <th valign="middle" style="text-align:right; font-weight:bold; ">Principles</th>
-   <td style="text-align:center; padding-left:0; background-color:#EEEEEE; ">Meaning & Belonging</td>
+   <td style="text-align:center; padding-left:2em; background-color:#EEEEEE; ">Meaning & Belonging</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr>
    <th valign="middle" style="text-align:right; font-weight:bold; ">Commitments</th>
-   <td style="text-align:center; padding-left:0; background-color:#EEEEEE; ">Transparency &Decentralization</td>
+   <td style="text-align:center; padding-left:2em; background-color:#EEEEEE; ">Transparency &Decentralization</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr>
    <th valign="middle" style="text-align:right; font-weight:bold; ">Practices</th>
-   <td style="text-align:center; padding-left:0; background-color:#EEEEEE; ">Alignment & Experimentation</td>
+   <td style="text-align:center; padding-left:2em; background-color:#EEEEEE; ">Alignment & Experimentation</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
