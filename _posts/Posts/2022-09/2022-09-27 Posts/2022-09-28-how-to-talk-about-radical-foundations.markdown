@@ -2,7 +2,7 @@
 layout:   post
 title:    "How to Talk about RADICAL: Foundations"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez, Adrian Perez, Jose Leal"
+authors:  "Matt Perez"
 image:    "icon-how-to-talk-about-radical.svg"
 ---
 
