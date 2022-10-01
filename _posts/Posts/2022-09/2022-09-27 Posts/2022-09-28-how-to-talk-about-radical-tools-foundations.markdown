@@ -7,11 +7,11 @@ image:    "icon-how-to-talk-about-radical.svg"
 ---
 
 <div style="display:none;">
- <p>It keeps coming up: how can I talk about <span class="_paradigm">RADICAL</span> to people who don’t know anything about it. What are its Principles, its structure?</p>
+ <p>It keeps coming up: how can I talk about <span class="_paradigm">RADICAL</span> to people who don’t know anything about it. What are its Principles? What is its structure?</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>It keeps coming up: how can I talk about <span class="_paradigm">RADICAL</span> to people who don’t know anything about it. What are its Principles, its structure?<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
+ <p>It keeps coming up: how can I talk about <span class="_paradigm">RADICAL</span> to people who don’t know anything about it. What are its Principles? What is its structure?<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
  <p>I don’t know about &ldquo;principles,&rdquo; but you have tools that you can talk about,</p>
  <ol style="margin-left:20px; ">
   <li>The RADs!<a href="#en01"><sup id="bm02">2&nbsp;</sup></a> mobile app</li>
