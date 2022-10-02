@@ -59,6 +59,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    </td>
   </tr>
   <tr>
+   <th></th>
    <th>Alignment</th>
    <td>
     <p>This is not about everybody doing the goose step the exact same number of inches high. This is a practice 1) to discuss what we want to do together and then 2) making it explicit for all to see.</p>
@@ -94,6 +95,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    </td>
   </tr>
   <tr>
+   <th></th>
    <th>Meaning</th>
    <td>
     <p>Can I find meaning in what we are doing together? Do I trust these people to help me find meaning in the work?</p>
