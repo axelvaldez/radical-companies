@@ -50,9 +50,10 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  </table>
  <p>From the bottom up,</p>
  <table align="center" style="width:80%; ">
-
   <tr>
    <td rowspan="2" id="_rotate" style="font-weight:bold; background-color:red; text-align:center; ">PRACTICES</td>
+  </tr>
+  <tr>
    <th>Experimentation</th>
    <td>
     <p>Means never having to say you’re sorry. But you must tell what you’ve learned from the experiment. If you don’t, nobody, including you, can learn from it. Even saying, &ldquo;I don’t know why it went wrong&rdquo; means we learned something from it.</p>
@@ -66,13 +67,13 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
     <p>This is a good mnemonic for all the elements of a complete alignment. You don’t need all the pieces to get going, but you need to address these questions at some point.</p>
    </td>
   </tr>
-
   <tr>
    <td class="_spacer"></td>
   </tr>
-
   <tr style=" background-color:#EEEEEE; ">
    <td rowspan="2" id="_rotate" style="font-weight:bold; background-color:red; text-align:center; ">COMMITTMENTS</td>
+  </tr>
+  <tr>
    <th>Decentralization</th>
    <td>
     <p>This is not absolute: you can move towards Decentralization or away from it. Just be transparent to yourself and others about what you are doing.</p>
@@ -85,13 +86,13 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
     <p>Note that transparency goes both way: form the group to the individual and from the individual to the group (<em>aka</em>, vulnerability)</p>
    </td>
   </tr>
-
   <tr>
    <td class="_spacer"></td>
   </tr>
-
   <tr>
    <td rowspan="2" id="_rotate" style="font-weight:bold; background-color:red; text-align:center; ">PRICIPLES</td>
+  </tr>
+  <tr>
    <th>Belonging</th>
    <td>
      <p>This is about people. Do you want to work with this group? Does it feel right to be part of this project? Do I agree with their expressed alignment?</p>
@@ -103,11 +104,9 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
     <p>Can I find meaning in what we are doing together? Do I trust these people to help me find meaning in the work?</p>
    </td>
   </tr>
-
   <tr>
    <td class="_spacer"></td>
   </tr>
-
  </table>
 
 <h1 class="_section">ENDNOTES</h1>
