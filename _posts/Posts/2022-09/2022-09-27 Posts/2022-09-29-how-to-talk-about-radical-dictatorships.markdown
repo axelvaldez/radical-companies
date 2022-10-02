@@ -7,11 +7,11 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
 ---
 
 <div style="display:none;">
- <p>Dictatorships are bad for the economy. For example, look at Cuba, North Korea, and Russia. Or look closer, at Mexico.</p>
+ <p>Dictatorships are bad for the economy. For example, look at Cuba, North Korea, and Russia. Or look closer, at the history of Mexico in the last 70 years.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Dictatorships are bad for the economy. For example, look at Cuba, North Korea, and Russia. Or look closer, at Mexico.</p>
+ <p>Dictatorships are bad for the economy. For example, look at Cuba, North Korea, and Russia. Or look closer, at the history of Mexico in the last 70 years.</p>
  <p>From 19xx to 19yy Mexico was ruled by a one-party oligarchy and its economy went from X to Y. Then came Vicente Fox, who, for all his faults, broke the PRI<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> oligarchy from power. From</p>
  <p>Generally speaking, dictatorships are kleptocracies that finance private goods for a handful of people and the least public goods for the masses.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
  <p>Without sufficient public goods, the country’s financial accounts take a dive.</p>
