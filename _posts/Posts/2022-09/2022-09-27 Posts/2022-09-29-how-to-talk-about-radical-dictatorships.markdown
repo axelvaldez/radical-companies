@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "How to Talk about RADICAL: Dictatoships"
+title:    "How to Talk about RADICAL: Dictatorships"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-how-to-talk-about-radical-dictatorships.svg"
