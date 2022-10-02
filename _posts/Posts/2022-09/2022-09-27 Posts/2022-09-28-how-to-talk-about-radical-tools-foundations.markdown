@@ -73,7 +73,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
   <tr style=" background-color:#EEEEEE; ">
    <td colspan="2" style="font-weight:bold; text-align:center; ">COMMITTMENTS</td>
   </tr>
-  <tr>
+  <tr style=" background-color:#EEEEEE; ">
    <th>Decentralization</th>
    <td>
     <p>This is not absolute: you can move towards Decentralization or away from it. Just be transparent to yourself and others about what you are doing.</p>
