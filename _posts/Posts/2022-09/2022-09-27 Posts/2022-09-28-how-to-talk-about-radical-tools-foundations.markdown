@@ -51,7 +51,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  <p>From the bottom up,</p>
  <table align="center" style="width:80%; ">
   <tr>
-   <td rowspan="2" id="_rotate" style="font-weight:bold; background-color:red; ">PRACTICES</td>
+   <td rowspan="2" id="_rotate" style="font-weight:bold; background-color:red; text-align:center; ">PRACTICES</td>
    <th>Experimentation</th>
    <td>
     <p>Means never having to say you’re sorry. But you must tell what you’ve learned from the experiment. If you don’t, nobody, including you, can learn from it. Even saying, &ldquo;I don’t know why it went wrong&rdquo; means we learned something from it.</p>
@@ -69,7 +69,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
   </tr>
   </tr>
   <tr style=" background-color:#EEEEEE; ">
-   <td rowspan="2" id="_rotate" style="font-weight:bold; background-color:red; ">COMMITTMENTS</td>
+   <td rowspan="2" id="_rotate" style="font-weight:bold; background-color:red; text-align:center; ">COMMITTMENTS</td>
    <th>Decentralization</th>
    <td>
     <p>This is not absolute: you can move towards Decentralization or away from it. Just be transparent to yourself and others about what you are doing.</p>
@@ -86,7 +86,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <td rowspan="2" id="_rotate" style="font-weight:bold; background-color:red; ">PRICIPLES</td>
+   <td rowspan="2" id="_rotate" style="font-weight:bold; background-color:red; text-align:center; ">PRICIPLES</td>
    <th>Belonging</th>
    <td>
      <p>This is about people. Do you want to work with this group? Does it feel right to be part of this project? Do I agree with their expressed alignment?</p>
