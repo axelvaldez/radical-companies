@@ -68,7 +68,13 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    </td>
   </tr>
   <tr>
-   <img >
+   <div class="_center">
+    <img
+     src="/assets/img/en-alignment.svg"
+     width="70%"
+     alt="Three middle fingers as mnemonic for: IMPACT, which is the answer to 'what for,' PURPOSE, which is the answer to 'why,' and MISSION, which is the answer to 'what,' 'how,' and 'when.'"
+    >
+   </div>
   </tr>
   <tr>
    <td class="_spacer"></td>
