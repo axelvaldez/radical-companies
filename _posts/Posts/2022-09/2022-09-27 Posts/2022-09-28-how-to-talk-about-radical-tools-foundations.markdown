@@ -63,6 +63,9 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
     <p>This is not about everybody doing the goose step the exact same number of inches high. This is a practice 1) to discuss what we want to do together and then 2) making it explicit for all to see.</p>
     <p>This is a good mnemonic for all the elements of a complete alignment. You don’t need all the pieces to get going, but you need to address these questions at some point.</p>
    </td>
+  <tr>
+   <td class="_spacer"></td>
+  </tr>
   </tr>
   <tr style=" background-color:#EEEEEE; ">
    <th>Decentralization</th>
@@ -76,6 +79,9 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
     <p>This is not absolute, either: you can move towards Transparency or away from it.</p>
     <p>Note that transparency goes both way: form the group to the individual and from the individual to the group (<em>aka</em>, vulnerability)</p>
    </td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
   </tr>
   <tr>
    <th>Belonging</th>
