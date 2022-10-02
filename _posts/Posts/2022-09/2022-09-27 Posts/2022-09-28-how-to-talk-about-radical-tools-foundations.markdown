@@ -12,7 +12,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
 
 <h1>&nbsp;</h1>
  <p>The question comes up often enough: how can I talk about <span class="_paradigm">RADICAL</span> to people who don&rsquo;t know anything about it? What are its Principles? Does <span class="_paradigm">RADICAL</span> have a structure?</p>
- <p>&ldquo;Principles&rdquo; and &ldquo;structure&rdquo; are a reflection of <span class="_paradigm">FIAT</span> concerns. The questions really are about centralized forces. &ldquo;We must have a boss to hold this together.&rdquo;</p>
+ <p>&ldquo;Principles&rdquo; and &ldquo;structure&rdquo; are a reflection of <span class="_paradigm">FIAT</span> concerns. The questions really are about centralized forces. &ldquo;Right, but who&rsquo;s the boss? We must have a boss to hold this together.&rdquo;</p>
  <p>Nevertheless, you can address these types of questions by talking about the <span class="_paradigm">RADICAL</span> tools you do have,</p>
  <ol style="margin-left:20px; ">
   <li>The RADs!<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> mobile app</li>
