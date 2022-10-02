@@ -7,7 +7,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
 ---
 
 <div style="display:none;">
- <p>It keeps coming up: how can I talk about <span class="_paradigm">RADICAL</span> to people who don’t know anything about it. What are its Principles? What is its structure?</p>
+ <p>&ldquo;How can I talk about <span class="_paradigm">RADICAL</span> to people who don’t know anything about it.&ldquo; What are its Principles? What is <span class="_paradigm">RADICAL</span>&rsquo;s structure?</p>
 </div>
 
 <h1>&nbsp;</h1>
