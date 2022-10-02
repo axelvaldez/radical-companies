@@ -64,7 +64,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
     <p>This is a good mnemonic for all the elements of a complete alignment. You don’t need all the pieces to get going, but you need to address these questions at some point.</p>
    </td>
   </tr>
-  <tr>
+  <tr style=" background-color:#EEEEEE; ">
    <th>
     <p>Decentralization</p>
    </th>
@@ -72,7 +72,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
     <p>This is not absolute: you can move towards Decentralization or away from it. Just be transparent to yourself and others about what you are doing.</p>
    </td>
   </tr>
-  <tr>
+  <tr style=" background-color:#EEEEEE; ">
    <th>
     <p>Transparency</p>
    </th>
