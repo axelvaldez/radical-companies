@@ -16,7 +16,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  <p>Nevertheless, you can address these types of questions by talking about the <span class="_paradigm">RADICAL</span> tools you do have,</p>
  <ol style="margin-left:20px; ">
   <li>The RADs!<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> mobile app</li>
-  <li>The Agreements<a href="#en02"><sup id="bm03">2&nbsp;</sup></a></li>
+  <li>The Agreements<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></li>
   <li>The <span class="_paradigm">RADICAL</span> Foundation template</li>
  </ol>
  <p>You can read about the first two in previous posts. This post is about the <span class="_paradigm">RADICAL</span> Foundation template.</p>
