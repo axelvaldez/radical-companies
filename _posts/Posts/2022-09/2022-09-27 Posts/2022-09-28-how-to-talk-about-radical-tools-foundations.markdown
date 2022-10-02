@@ -90,7 +90,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <td colspan="2" style="font-weight:bold; text-align:center; ">PRICIPLES</td>
+   <td colspan="2" style="font-weight:bold; text-align:center; ">PRINCIPLES</td>
   </tr>
   <tr>
    <th>Belonging</th>
