@@ -3,7 +3,7 @@ layout:   post
 title:    "How to Talk about RADICAL: Dictatoships"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-how-to-talk-about-radical-dictatorship.svg"
+image:    "icon-how-to-talk-about-radical-dictatorships.svg"
 ---
 
 <div style="display:none;">
