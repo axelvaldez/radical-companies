@@ -35,7 +35,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
   </tr>
   <tr>
    <th valign="middle" style="text-align:right; font-weight:bold; ">Commitments</th>
-   <td style="text-align:center; background-color:#EEEEEE; ">Transparency  Decentralization</td>
+   <td style="text-align:center; background-color:#EEEEEE; ">Transparency & Decentralization</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
