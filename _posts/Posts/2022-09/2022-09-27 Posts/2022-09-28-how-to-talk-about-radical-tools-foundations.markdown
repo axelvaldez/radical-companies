@@ -51,7 +51,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  <p>From the bottom up,</p>
  <table align="center" style="width:80%; ">
   <tr>
-   <th rowpan="2" style="text-align:center; font-weight:bold; border:1px solid black; ">PRINCIPLES</th>
+   <th rowspan="2" style="text-align:center; font-weight:bold; border:1px solid black; ">PRINCIPLES</th>
    <th>Experimentation</th>
    <td>
     <p>Means never having to say you’re sorry. But you must tell what you’ve learned from the experiment. If you don’t, nobody, including you, can learn from it. Even saying, &ldquo;I don’t know why it went wrong&rdquo; means we learned something from it.</p>
@@ -59,7 +59,6 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    </td>
   </tr>
   <tr>
-   <th></th>
    <th>Alignment</th>
    <td>
     <p>This is not about everybody doing the goose step the exact same number of inches high. This is a practice 1) to discuss what we want to do together and then 2) making it explicit for all to see.</p>
@@ -70,14 +69,13 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
   </tr>
   </tr>
   <tr style=" background-color:#EEEEEE; ">
-   <th rowpan="2" style="text-align:center; font-weight:bold; border:1px solid black; ">COMMITTMENTS</th>
+   <th rowspan="2" style="text-align:center; font-weight:bold; border:1px solid black; ">COMMITTMENTS</th>
    <th>Decentralization</th>
    <td>
     <p>This is not absolute: you can move towards Decentralization or away from it. Just be transparent to yourself and others about what you are doing.</p>
    </td>
   </tr>
   <tr style=" background-color:#EEEEEE; ">
-   <th></th>
    <th>Transparency</th>
    <td>
     <p>This is not absolute, either: you can move towards Transparency or away from it.</p>
@@ -88,14 +86,13 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <th rowpan="2" style="text-align:center; font-weight:bold; border:1px solid black; ">PRACTICES</th>
+   <th rowspan="2" style="text-align:center; font-weight:bold; border:1px solid black; ">PRACTICES</th>
    <th>Belonging</th>
    <td>
      <p>This is about people. Do you want to work with this group? Does it feel right to be part of this project? Do I agree with their expressed alignment?</p>
    </td>
   </tr>
   <tr>
-   <th></th>
    <th>Meaning</th>
    <td>
     <p>Can I find meaning in what we are doing together? Do I trust these people to help me find meaning in the work?</p>
