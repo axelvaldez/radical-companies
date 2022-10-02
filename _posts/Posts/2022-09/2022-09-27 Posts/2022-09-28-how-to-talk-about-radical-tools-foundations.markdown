@@ -51,7 +51,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  <p>From the bottom up,</p>
  <table align="center" style="width:80%; ">
   <tr>
-   <th valign="middle" rowspan="2" style="text-align:center; font-weight:bold; " id="_rotate">PRINCIPLES</th>
+   <th valign="middle" rowspan="2" style="text-align:center; font-weight:bold; border:1px solid black; " id="_rotate">PRINCIPLES</th>
    <th>Experimentation</th>
    <td>
     <p>Means never having to say you’re sorry. But you must tell what you’ve learned from the experiment. If you don’t, nobody, including you, can learn from it. Even saying, &ldquo;I don’t know why it went wrong&rdquo; means we learned something from it.</p>
