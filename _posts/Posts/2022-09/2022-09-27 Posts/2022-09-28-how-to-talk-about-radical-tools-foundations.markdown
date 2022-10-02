@@ -51,7 +51,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  <p>From the bottom up,</p>
  <table align="center" style="width:80%; ">
   <tr>
-   <td rowspan="2" id="_rotate" style="font-weight:bold; background-color:red; text-align:center; ">PRACTICES</td>
+   <td style="font-weight:bold; background-color:red; text-align:center; ">PRACTICES</td>
   </tr>
   <tr>
    <th>Experimentation</th>
@@ -71,7 +71,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <td class="_spacer"></td>
   </tr>
   <tr style=" background-color:#EEEEEE; ">
-   <td rowspan="2" id="_rotate" style="font-weight:bold; background-color:red; text-align:center; ">COMMITTMENTS</td>
+   <td style="font-weight:bold; background-color:red; text-align:center; ">COMMITTMENTS</td>
   </tr>
   <tr>
    <th>Decentralization</th>
@@ -90,7 +90,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <td rowspan="2" id="_rotate" style="font-weight:bold; background-color:red; text-align:center; ">PRICIPLES</td>
+   <td style="font-weight:bold; background-color:red; text-align:center; ">PRICIPLES</td>
   </tr>
   <tr>
    <th>Belonging</th>
