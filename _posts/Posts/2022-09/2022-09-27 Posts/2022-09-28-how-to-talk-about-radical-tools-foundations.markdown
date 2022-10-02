@@ -69,7 +69,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
   </tr>
   </tr>
   <tr style=" background-color:#EEEEEE; ">
-   <th valign="middle" colpan="2" style="text-align:center; font-weight:bold; " id="_rotate">COMMITTMENTS</th>
+   <th valign="middle" colpan="2" style="text-align:center; font-weight:bold; border:1px solid black; " id="_rotate">COMMITTMENTS</th>
    <th>Decentralization</th>
    <td>
     <p>This is not absolute: you can move towards Decentralization or away from it. Just be transparent to yourself and others about what you are doing.</p>
@@ -86,7 +86,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <th valign="middle" rowspan="2" style="text-align:center; font-weight:bold; " id="_rotate">PRACTICES</th>
+   <th valign="middle" colpan="2" style="text-align:center; font-weight:bold; border:1px solid black; " id="_rotate">PRACTICES</th>
    <th>Belonging</th>
    <td>
      <p>This is about people. Do you want to work with this group? Does it feel right to be part of this project? Do I agree with their expressed alignment?</p>
