@@ -28,21 +28,21 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  <table align="center">
   <tr>
    <th valign="middle" style="text-align:right; font-weight:bold; ">Principles</th>
-   <td style="text-align:center; background-color:#EEEEEE; width:2in; ">Meaning & Belonging</td>
+   <td style="text-align:center; background-color:#EEEEEE; width:3in; ">Meaning & Belonging</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr>
    <th valign="middle" style="text-align:right; font-weight:bold; ">Commitments</th>
-   <td style="text-align:center; background-color:#EEEEEE; width:2in; ">Transparency & Decentralization</td>
+   <td style="text-align:center; background-color:#EEEEEE; width:3in; ">Transparency & Decentralization</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr>
    <th valign="middle" style="text-align:right; font-weight:bold; ">Practices</th>
-   <td style="text-align:center; background-color:#EEEEEE; width:2in; ">Alignment & Experimentation</td>
+   <td style="text-align:center; background-color:#EEEEEE; width:3in; ">Alignment & Experimentation</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
