@@ -59,7 +59,6 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
     <p>BTW, whether you do this out loud or written or what have you, it’s something that you all need to agree on from the outset.</p>
    </td>
   </tr>
-
   <tr>
    <th>Alignment</th>
    <td>
@@ -79,7 +78,6 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
     <p>This is not absolute: you can move towards Decentralization or away from it. Just be transparent to yourself and others about what you are doing.</p>
    </td>
   </tr>
-
   <tr style=" background-color:#EEEEEE; ">
    <th>Transparency</th>
    <td>
@@ -99,7 +97,6 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
      <p>This is about people. Do you want to work with this group? Does it feel right to be part of this project? Do I agree with their expressed alignment?</p>
    </td>
   </tr>
-
   <tr>
    <th>Meaning</th>
    <td>
