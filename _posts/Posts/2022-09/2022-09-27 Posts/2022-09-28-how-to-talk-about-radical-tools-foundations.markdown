@@ -51,7 +51,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  <p>From the bottom up,</p>
  <table align="center" style="width:80%; ">
   <tr>
-   <th valign="middle" rowspan="2" style="text-align:center; font-weight:bold; border:1px solid black; " id="_rotate">PRINCIPLES</th>
+   <th valign="middle" colpan="2" style="text-align:center; font-weight:bold; border:1px solid black; " id="_rotate">PRINCIPLES</th>
    <th>Experimentation</th>
    <td>
     <p>Means never having to say you’re sorry. But you must tell what you’ve learned from the experiment. If you don’t, nobody, including you, can learn from it. Even saying, &ldquo;I don’t know why it went wrong&rdquo; means we learned something from it.</p>
@@ -69,7 +69,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
   </tr>
   </tr>
   <tr style=" background-color:#EEEEEE; ">
-   <th valign="middle" rowspan="2" style="text-align:center; font-weight:bold; " id="_rotate">COMMITTMENTS</th>
+   <th valign="middle" colpan="2" style="text-align:center; font-weight:bold; " id="_rotate">COMMITTMENTS</th>
    <th>Decentralization</th>
    <td>
     <p>This is not absolute: you can move towards Decentralization or away from it. Just be transparent to yourself and others about what you are doing.</p>
