@@ -68,6 +68,9 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    </td>
   </tr>
   <tr>
+   <img >
+  </tr>
+  <tr>
    <td class="_spacer"></td>
   </tr>
   <tr style=" background-color:#EEEEEE; ">
