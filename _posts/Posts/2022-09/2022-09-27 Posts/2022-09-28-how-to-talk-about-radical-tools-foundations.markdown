@@ -64,7 +64,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <th>Alignment</th>
    <td>
     <p>This is not about everybody doing the goose step the exact same number of inches high. This is a practice 1) to discuss what we want to do together and then 2) making it explicit for all to see.</p>
-    <p>This is a good mnemonic for all the elements of a complete alignment. You don’t need all the pieces to get going, but you need to address these questions at some point.</p>
+    <p>This is a good mnemonic for all the elements of a complete alignment.</p>
    </td>
   </tr>
   <tr>
@@ -76,6 +76,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
       width="70%"
       alt="Three middle fingers as mnemonic for: IMPACT, which is the answer to 'what for,' PURPOSE, which is the answer to 'why,' and MISSION, which is the answer to 'what,' 'how,' and 'when.'">
     </div>
+    <p>You don’t need all the pieces to get going, but you need to address these questions at some point.</p>
    </td>
   </tr>
   <tr>
