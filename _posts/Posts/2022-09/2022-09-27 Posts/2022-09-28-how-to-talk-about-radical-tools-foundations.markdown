@@ -76,6 +76,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    </td>
   </tr>
   <tr style=" background-color:#EEEEEE; ">
+   <th></th>
    <th>Transparency</th>
    <td>
     <p>This is not absolute, either: you can move towards Transparency or away from it.</p>
