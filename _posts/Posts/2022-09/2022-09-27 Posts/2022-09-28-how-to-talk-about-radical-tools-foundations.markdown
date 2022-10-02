@@ -113,13 +113,13 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    <<a href="https://radicalcompanies.com/2022/09/20/rtools-rads-app.html">https://radicalcompanies.com/2022/09/20/rtools-rads-app.html</a>>
+    <<a href="https://radicalcompanies.com/2022/09/20/rtools-rads-app.html" target="_blank">https://radicalcompanies.com/2022/09/20/rtools-rads-app.html</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p class="_list-item">
-    <<a href="https://radicalcompanies.com/2022/09/19/rtools-agreements.html">https://radicalcompanies.com/2022/09/19/rtools-agreements.html</a>>
+    <<a href="https://radicalcompanies.com/2022/09/19/rtools-agreements.html" target="_blank">https://radicalcompanies.com/2022/09/19/rtools-agreements.html</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
