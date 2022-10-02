@@ -67,7 +67,6 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
   <tr>
    <td class="_spacer"></td>
   </tr>
-  </tr>
   <tr style=" background-color:#EEEEEE; ">
    <td rowspan="2" id="_rotate" style="font-weight:bold; background-color:red; text-align:center; ">COMMITTMENTS</td>
    <th>Decentralization</th>
