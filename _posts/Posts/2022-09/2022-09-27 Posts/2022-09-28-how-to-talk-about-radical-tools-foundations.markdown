@@ -34,14 +34,14 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <th valign="middle" style="text-align:right; font-weight:bold; width:2in; ">Commitments</th>
+   <th valign="middle" style="text-align:right; font-weight:bold; ">Commitments</th>
    <td style="text-align:center; background-color:#EEEEEE; width:3in; ">Transparency & Decentralization</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <th valign="middle" style="text-align:right; font-weight:bold; width:2in; ">Practices</th>
+   <th valign="middle" style="text-align:right; font-weight:bold; ">Practices</th>
    <td style="text-align:center; background-color:#EEEEEE; width:3in; ">Alignment & Experimentation</td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <td colspan="2" style="font-weight:bold; text-align:center; ">PRACTICES</td>
   </tr>
   <tr>
-   <th style="width:2in">Experimentation</th>
+   <th style="width:2in; ">Experimentation</th>
    <td>
     <p>Means never having to say you’re sorry. But you must tell what you’ve learned from the experiment. If you don’t, nobody, including you, can learn from it. Even saying, &ldquo;I don’t know why it went wrong&rdquo; means we learned something from it.</p>
     <p>BTW, whether you do this out loud or written or what have you, it’s something that you all need to agree on from the outset.</p>
