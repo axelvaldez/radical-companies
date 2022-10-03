@@ -25,23 +25,23 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  <p>Our deepest problems are the inescapable side-effects of the system we live in: our collapsing climate, the expanding wealth, and wellbeing, gap, discrimation against people of color, the exploitation of women. Instead, we need a generative way of relating to one another, a different paradigm. As we see it, businesses are the place to start. Businesses-as-dictatorship are the root of the problem, so they must be the incubators for what comes next.</p>
  <p>In the <span class="_paradigm">RADICAL</span> model, a <em>company</em> is simply a group of people who come together to build something bigger than themselves. The word "company" comes from the Latin prefix con-, meaning together, and pan, meaning bread. A company then is a group of people who work and socialize together.</p>
  <p>Every company is different because the people who embody it are different. What fundamentally makes a <span class="_paradigm">RADICAL</span> company different from a <span class="_paradigm">FIAT</span> business is that it starts from this simple Foundation.</p>
- <table align="center">
+ <table>
   <tr>
-   <th valign="middle" style="text-align:right; font-weight:bold; ">Principles</th>
+   <th valign="middle" style="text-align:right; font-weight:bold; width:2in; ">Principles</th>
    <td style="text-align:center; background-color:#EEEEEE; width:3in; ">Meaning & Belonging</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <th valign="middle" style="text-align:right; font-weight:bold; ">Commitments</th>
+   <th valign="middle" style="text-align:right; font-weight:bold; width:2in; ">Commitments</th>
    <td style="text-align:center; background-color:#EEEEEE; width:3in; ">Transparency & Decentralization</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <th valign="middle" style="text-align:right; font-weight:bold; ">Practices</th>
+   <th valign="middle" style="text-align:right; font-weight:bold; width:2in; ">Practices</th>
    <td style="text-align:center; background-color:#EEEEEE; width:3in; ">Alignment & Experimentation</td>
   </tr>
   <tr>
@@ -49,12 +49,12 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
   </tr>
  </table>
  <p>From the bottom up,</p>
- <table align="center" style="width:80%; ">
+ <table style="width:80%; ">
   <tr>
    <td colspan="2" style="font-weight:bold; text-align:center; ">PRACTICES</td>
   </tr>
   <tr>
-   <th>Experimentation</th>
+   <th style="width:2in">Experimentation</th>
    <td>
     <p>Means never having to say you’re sorry. But you must tell what you’ve learned from the experiment. If you don’t, nobody, including you, can learn from it. Even saying, &ldquo;I don’t know why it went wrong&rdquo; means we learned something from it.</p>
     <p>BTW, whether you do this out loud or written or what have you, it’s something that you all need to agree on from the outset.</p>
