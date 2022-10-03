@@ -27,7 +27,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  <p>Every company is different because the people who embody it are different. What fundamentally makes a <span class="_paradigm">RADICAL</span> company different from a <span class="_paradigm">FIAT</span> business is that it starts from this simple Foundation.</p>
  <table>
   <tr>
-   <th valign="middle" style="text-align:right; font-weight:bold; width:3in; ">PRINCIPLES</th>
+   <th valign="middle" style="text-align:right; font-weight:bold; ">PRINCIPLES</th>
    <td style="text-align:center; background-color:#EEEEEE; width:3in; ">Meaning & Belonging</td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <td colspan="2" style="font-weight:bold; text-align:center; ">PRACTICES</td>
   </tr>
   <tr>
-   <th style="width:3in; ">Experimentation</th>
+   <th>Experimentation</th>
    <td>
     <p>Means never having to say you’re sorry. But you must tell what you’ve learned from the experiment. If you don’t, nobody, including you, can learn from it. Even saying, &ldquo;I don’t know why it went wrong&rdquo; means we learned something from it.</p>
     <p>BTW, whether you do this out loud or written or what have you, it’s something that you all need to agree on from the outset.</p>
