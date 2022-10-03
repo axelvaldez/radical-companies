@@ -27,21 +27,21 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  <p>Every company is different because the people who embody it are different. What fundamentally makes a <span class="_paradigm">RADICAL</span> company different from a <span class="_paradigm">FIAT</span> business is that it starts from this simple Foundation.</p>
  <table>
   <tr>
-   <th valign="middle" style="text-align:right; font-weight:bold; width:2in; ">Principles</th>
+   <th valign="middle" style="text-align:right; font-weight:bold; width:2in; ">PRINCIPLES</th>
    <td style="text-align:center; background-color:#EEEEEE; width:3in; ">Meaning & Belonging</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <th valign="middle" style="text-align:right; font-weight:bold; ">Commitments</th>
+   <th valign="middle" style="text-align:right; font-weight:bold; ">COMMITMENTS</th>
    <td style="text-align:center; background-color:#EEEEEE; width:3in; ">Transparency & Decentralization</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <th valign="middle" style="text-align:right; font-weight:bold; ">Practices</th>
+   <th valign="middle" style="text-align:right; font-weight:bold; ">PRACTICES</th>
    <td style="text-align:center; background-color:#EEEEEE; width:3in; ">Alignment & Experimentation</td>
   </tr>
   <tr>
