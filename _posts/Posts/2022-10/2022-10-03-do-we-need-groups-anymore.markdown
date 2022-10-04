@@ -30,13 +30,13 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <p>I could do the same with my Patreon revenue or any of the other revenue streams that may come up later.</p>
 
 <h1>Always Fuzzy</h1>
- <p>Suppose that someone says, “You look so confident and attractive,” in my YouTube video. Should I give them “YouTube Community” RADs?</p>
+ <p>Suppose that someone says, “You look so confident and attractive,” in my YouTube video. Should I give them “YouTube Community” <span class="_paradigm">RAD</span>s?</p>
  <p>That night, riding high on the compliment, my partner and I make beautiful love and we make that night all the sweeter. Or feeling inspired by the compliment, I come up with an invention, patent it, and I become a billionaire. Shouldn&rsquo;t the complimenter get to share in my windfall, not just the YouTube RADs?</p>
- <p>We don&rsquo;t know the answer. It is not at all clear. We don&rsquo;t claim that we can cleanse ourselves from FIAT and become RADICAL cherubs overnight. We simply want to get moving away from FIAT. We&rsquo;ll figure out the finer details along the way. But beware that the FIAT  hierarchy resides inside of us, we have been colonized by it, and it will take us all a long time to shake off those habits.</p>
+ <p>We don&rsquo;t know the answer. It is not at all clear. We don&rsquo;t claim that we can cleanse ourselves from FIA<span class="_paradigm">FIAT</span>T and become <span class="_paradigm">RADICAL</span> cherubs overnight. We simply want to get moving away from <span class="_paradigm">FIAT</span>. We&rsquo;ll figure out the finer details along the way. But beware that the <span class="_paradigm">FIAT</span>  hierarchy resides inside of us, we have been colonized by it, and it will take us all a long time to shake off those habits.</p>
 
-<h1>PUMPS</h1>
+<h1>Convivium Pumps</h1>
  <p>A group of people gets together and they make pumps. One guy makes the impeller. One woman makes the housings. And a nonbinary person sells the pumps.</p>
- <p>A FIAT company buys the pumps, and they want to pay someone. So the makers of the pump create a BANNER,</p>
+ <p>A <span class="_paradigm">FIAT</span> company buys the pumps, and they want to pay someone. So the makers of the pump create a <span class="_paradigm">BANNER</span>,</p>
  <div class="_center">
   <img
    src="/assets/img/pump-convivium.svg"
@@ -44,8 +44,8 @@ image:    "icon-do-we-need-groups-anymore.svg"
    alt="">
  </div>
  <p>The FIAT company can pay the Convivium for the pump. They are happy. The co-owners included in the <em>Pump Convivium</em> BANNER distribute the funds according to the RADs each person has.</p>
- <p>Alternatively, they may decide to split the Convivium revenue equally. Or maybe to fix it to a 50%/30%/20% split. These could work, too, but they smell too much like the FIAT way of doing things. It is static rather than dynamic and rejects the flexibility of RADs to determine co-ownership. That should tell you to take a second look.</p>
- <p>Beware that if you are moving towards <em>static</em>, you probably are moving towards FIAT.</p>
+ <p>Alternatively, they may decide to split the Convivium revenue equally. Or maybe to fix it to a 50%/30%/20% split. These could work, too, but they smell too much like the <span class="_paradigm">FIAT</span> way of doing things. It is static rather than dynamic and rejects the flexibility of RADs to determine co-ownership. That should tell you to take a second look.</p>
+ <p>Beware that if you are moving towards <em>static</em>, you probably are moving towards <span class="_paradigm">FIAT</span>.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
