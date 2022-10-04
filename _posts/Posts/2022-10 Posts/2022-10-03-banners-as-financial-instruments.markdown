@@ -18,7 +18,7 @@ image:    "about-daos.svg"
   <div class="_center">
    <img
     src="/assets/img/banner-buy-a-build-5M.svg"
-    width="70%"
+    width="50%"
     alt="">
   </div>
  <p>Some, not all, co-owners support it by contributing some of their RADs to it and in 26 months the fund reaches $5M. This is what happened,</p>
