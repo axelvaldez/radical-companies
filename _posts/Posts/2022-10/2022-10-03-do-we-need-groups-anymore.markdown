@@ -44,8 +44,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
    alt="">
  </div>
  <p>The <span class="_paradigm">FIAT</span> company can pay the Convivium for the pump. They are happy. The co-owners included in the <em>Pump Convivium</em> <span class="_paradigm">BANNER</span> distribute the funds according to the RADs each person has.</p>
- <p>Alternatively, they may decide to split the Convivium revenue equally. Or maybe to fix it to a 50%/30%/20% split. These could work, too, but they smell too much like the <span class="_paradigm">FIAT</span> way of doing things. It is static rather than dynamic and rejects the flexibility of RADs to determine co-ownership. That should tell you to take a second look.</p>
- <p>Beware that if you are moving towards <em>static</em>, you probably are moving towards <span class="_paradigm">FIAT</span>.</p>
+ <p>Alternatively, they may decide to split the Convivium revenue equally. Or maybe to fix it to a 50%/30%/20% split. These could work, too, but they smell too much like the <span class="_paradigm">FIAT</span> way of doing things. It is static rather than dynamic and rejects the flexibility of RADs to determine co-ownership. That should tell you to take a second look because you are probably are moving towards <span class="_paradigm">FIAT</span>.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
