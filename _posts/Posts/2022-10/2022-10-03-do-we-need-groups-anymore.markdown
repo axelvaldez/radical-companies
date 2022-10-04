@@ -16,7 +16,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <p>For example, I have a YouTube channel. I generate revenues for myself from two sources,</p>
  <ul>
   <li>First, the Ad revenue from YouTube.</li>
-  <li>Second, the Patreon revenue.<li>
+  <li>Second, the Patreon revenue.</li>
  </ul>
  <p>Now, I start a Discord chat that centers around my inventing activities. Everyone who is a Patreon sponsor gets to be in the chat. Some of them provide value in the form of feedback about my videos and inspire me. I want to reward them. So I invite them to my RAD community and give them RADs. Everyone who has RADs shares my revenue. Maybe not all of it, but, say, half of it.</p>
  <p>Let&rsquo;s say I make $5K and I distribute $2.5K of  it through the RADs according to the allocations (<em>i.e.</em>, which everyone can see). The actual money can be distributed through Venmo, CashApp, or Zelle.</p>
