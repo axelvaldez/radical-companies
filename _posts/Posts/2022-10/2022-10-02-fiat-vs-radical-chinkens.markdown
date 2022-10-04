@@ -20,8 +20,8 @@ image:    "icon-super-chicken-coop.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    For more info, see <em>Super-chicken model</em>. Wikipedia.
-    < <a href=”https://en.wikipedia.org/wiki/Super-chicken_model”>https://en.wikipedia.org/wiki/Super-chicken_model</a> >
+    For more info, see <em>Super-chicken model</em>. Wikipedia. xx
+    <a href=”https://en.wikipedia.org/wiki/Super-chicken_model”>https://en.wikipedia.org/wiki/Super-chicken_model</a>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
