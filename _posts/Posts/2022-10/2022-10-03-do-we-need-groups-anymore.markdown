@@ -11,16 +11,16 @@ image:    "icon-about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>I am starting to wonder whether we need groups at all anymore. What if RAD income just came from personal rather than corporate income? I am also really tempted to start calling groups of <span class="_paradigm">RADICAL</span> people Conviviums, a word that I got from one of the CasP papers.</p>
- <p>So I’m going to try and flesh out this idea of payment. Let’s say, I think of RADs as being able to reward the giants on whose shoulders I have stood and the people I am in community with. And solely that. So I don’t pay that group with a corporate income, but a personal income.</p>
+ <p>I am starting to wonder whether we need groups at all anymore. What if <span class="_paradigm">RAD</span> income just came from personal rather than corporate income? I am also really tempted to start calling groups of <span class="_paradigm">RADICAL</span> people Conviviums, a word that I got from one of the CasP papers.</p>
+ <p>So I&rsquo;m going to try and flesh out this idea of payment. Let&rsquo;s say, I think of RADs as being able to reward the giants on whose shoulders I have stood and the people I am in community with. And solely that. So I don&rsquo;t pay that group with a corporate income, but a personal income.</p>
  <p>For example, I have a YouTube channel. I generate revenues for myself from two sources,</p>
  <ul>
   <li>First, the Ad revenue from YouTube.</li>
   <li>Second, the Patreon revenue.<li>
  </ul>
  <p>Now, I start a Discord chat that centers around my inventing activities. Everyone who is a Patreon sponsor gets to be in the chat. Some of them provide value in the form of feedback about my videos and inspire me. I want to reward them. So I invite them to my RAD community and give them RADs. Everyone who has RADs shares my revenue. Maybe not all of it, but, say, half of it.</p>
- <p>Let’s say I make $5K and I distribute $2.5K of  it through the RADs according to the allocations (<em>i.e.</em>, which everyone can see). The actual money can be distributed through Venmo, CashApp, or Zelle.</p>
- <p>Perhaps I only want to share the YouTube revenue and not the Patreon revenue. In this case, I’ll create a <span class="_paradigm">BANNER</span> for the <em>YouTube</em> revenue,</p>
+ <p>Let&rsquo;s say I make $5K and I distribute $2.5K of  it through the RADs according to the allocations (<em>i.e.</em>, which everyone can see). The actual money can be distributed through Venmo, CashApp, or Zelle.</p>
+ <p>Perhaps I only want to share the YouTube revenue and not the Patreon revenue. In this case, I&rsquo;ll create a <span class="_paradigm">BANNER</span> for the <em>YouTube</em> revenue,</p>
  <div class="_center">
   <img
    src="/assets/img/banners-adrians-example.svg"
@@ -31,8 +31,8 @@ image:    "icon-about-daos.svg"
 
 <h1>Always Fuzzy</h1>
  <p>Suppose that someone says, “You look so confident and attractive,” in my YouTube video. Should I give them “YouTube Community” RADs?</p>
- <p>That night, riding high on the compliment, my partner and I make beautiful love and we make that night all the sweeter. Or feeling inspired by the compliment, I come up with an invention, patent it, and I become a billionaire. Shouldn’t the complimenter get to share in my windfall, not just the YouTube RADs?</p>
- <p>We don’t know the answer. It is not at all clear. We don’t claim that we can cleanse ourselves from FIAT and become RADICAL cherubs overnight. We simply want to get moving away from FIAT. We’ll figure out the finer details along the way. But beware that the FIAT  hierarchy resides inside of us, we have been colonized by it, and it will take us all a long time to shake off those habits.</p>
+ <p>That night, riding high on the compliment, my partner and I make beautiful love and we make that night all the sweeter. Or feeling inspired by the compliment, I come up with an invention, patent it, and I become a billionaire. Shouldn&rsquo;t the complimenter get to share in my windfall, not just the YouTube RADs?</p>
+ <p>We don&rsquo;t know the answer. It is not at all clear. We don&rsquo;t claim that we can cleanse ourselves from FIAT and become RADICAL cherubs overnight. We simply want to get moving away from FIAT. We&rsquo;ll figure out the finer details along the way. But beware that the FIAT  hierarchy resides inside of us, we have been colonized by it, and it will take us all a long time to shake off those habits.</p>
 
 <h1>PUMPS</h1>
  <p>A group of people gets together and they make pumps. One guy makes the impeller. One woman makes the housings. And a nonbinary person sells the pumps.</p>
