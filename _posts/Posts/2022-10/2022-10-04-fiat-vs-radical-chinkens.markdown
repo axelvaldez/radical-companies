@@ -3,7 +3,7 @@ layout:   post
 title:    "FIAT vs RADICAL Chickens"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
-image:    "about-daos.svg"
+image:    "icon-about-daos.svg"
 ---
 
 <div style="display:none;">
