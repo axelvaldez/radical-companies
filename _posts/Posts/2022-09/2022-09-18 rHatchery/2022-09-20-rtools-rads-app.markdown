@@ -3,7 +3,7 @@ layout:   post
 title:    "rTools: The RADs! Mobile App"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal"
-image:    "icon-rhatchery-ne.svg"
+image:    "icon-rhatchery-rads-app.svg"
 ---
 
 <div style="display:none; ">
