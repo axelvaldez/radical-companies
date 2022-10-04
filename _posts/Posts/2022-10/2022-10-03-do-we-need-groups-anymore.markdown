@@ -24,7 +24,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <div class="_center">
   <img
    src="/assets/img/banners-adrians-example.svg"
-   width="70%"
+   width="50%"
    alt="">
  </div>
  <p>I could do the same with my Patreon revenue or any of the other revenue streams that may come up later.</p>
@@ -40,7 +40,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <div class="_center">
   <img
    src="/assets/img/pump-convivium.svg"
-   width="70%"
+   width="50%"
    alt="">
  </div>
  <p>The FIAT company can pay the Convivium for the pump. They are happy. The co-owners included in the <em>Pump Convivium</em> BANNER distribute the funds according to the RADs each person has.</p>
