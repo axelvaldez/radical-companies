@@ -7,11 +7,11 @@ image:    "icon-super-chicken-coop.svg"
 ---
 
 <div style="display:none;">
- <p>The lonely hero is a myth. Achievements are the result of communities working together. The people I touch and those who touch me.</p>
+ <p>The lonely hero is a myth. Achievements are the result of people working together in communities. The people I touch and those who touch me.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The lonely hero is a myth. Achievements are the result of communities working together. The people I touch and those who touch me.</p>
+ <p>The lonely hero is a myth. Achievements are the result of people working together in communities. The people I touch and those who touch me.</p>
  <p>As Purdue biologist William Muir discovered, it takes the whole chicken coop to impact productivity. As an experiment, Dr Muier first bred only super-chickens and found that, &ldquo;&hellip; only three survived as the group pecked each other to death.&ldquo;<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> They were the highest egg-laying producers only because they killed every other chicken. Coop productivity went down.</p>
  <p>Then he bred the most prodigious egg-laying <em>chicken coop</em>, and egg productivity increased for the whole coop without fatalities.</p>
  <p>Super-chickens-coops are the real things.</p>
