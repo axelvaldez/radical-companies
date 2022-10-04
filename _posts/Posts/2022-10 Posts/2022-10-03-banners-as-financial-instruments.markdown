@@ -3,7 +3,7 @@ layout:   post
 title:    "BANNERs as Financial Instruments"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-banner-as-financial-instrument.svg"
 ---
 
 <div style="display:none;">
