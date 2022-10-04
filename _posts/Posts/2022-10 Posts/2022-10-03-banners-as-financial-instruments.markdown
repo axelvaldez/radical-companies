@@ -21,7 +21,7 @@ image:    "about-daos.svg"
     width="50%"
     alt="">
   </div>
- <p>Some, not all, co-owners support it by contributing some of their RADs to it and in 26 months the fund reaches $5M. This is what happened,</p>
+ <p>Some, not all, co-owners support it by contributing some of their <span class="_paradigm">RAD</span>s to it and in 26 months the fund reaches $5M. This is what happened,</p>
  <ul>
   <li>The committed existing co-owners figured how many <span class="_paradigm">RAD</span>s they needed to contribute every month.</li>
   <li>They didn&rsquo;t account for new co-owners joining the <span class="_paradigm">BANNER</span>.</li>
