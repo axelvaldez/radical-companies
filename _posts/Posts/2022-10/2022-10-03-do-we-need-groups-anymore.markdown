@@ -12,7 +12,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
 
 <h1>&nbsp;</h1>
  <p>I am starting to wonder whether we need groups at all anymore. What if <span class="_paradigm">RAD</span> income just came from personal rather than corporate income? I am also really tempted to start calling groups of <span class="_paradigm">RADICAL</span> people Conviviums, a word that I got from one of the CasP papers.</p>
- <p>So I&rsquo;m going to try and flesh out this idea of payment. Let&rsquo;s say, I think of RADs as being able to reward the giants on whose shoulders I have stood and the people I am in community with. And solely that. So I don&rsquo;t pay that group with a corporate income, but a personal income.</p>
+ <p>So I&rsquo;m going to try and flesh out this idea of payment. Let&rsquo;s say, I think of <span class="_paradigm">RAD</span>s as being able to reward the giants on whose shoulders I have stood and the people I am in community with. And solely that. So I don&rsquo;t pay that group with a corporate income, but a personal income.</p>
  <p>For example, I have a YouTube channel. I generate revenues for myself from two sources,</p>
  <ul>
   <li>First, the Ad revenue from YouTube.</li>
