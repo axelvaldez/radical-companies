@@ -18,8 +18,8 @@ image:    "icon-do-we-need-groups-anymore.svg"
   <li>First, the Ad revenue from YouTube.</li>
   <li>Second, the Patreon revenue.</li>
  </ul>
- <p>Now, I start a Discord chat that centers around my inventing activities. Everyone who is a Patreon sponsor gets to be in the chat. Some of them provide value in the form of feedback about my videos and inspire me. I want to reward them. So I invite them to my RAD community and give them RADs. Everyone who has RADs shares my revenue. Maybe not all of it, but, say, half of it.</p>
- <p>Let&rsquo;s say I make $5K and I distribute $2.5K of  it through the RADs according to the allocations (<em>i.e.</em>, which everyone can see). The actual money can be distributed through Venmo, CashApp, or Zelle.</p>
+ <p>Now, I start a Discord chat that centers around my inventing activities. Everyone who is a Patreon sponsor gets to be in the chat. Some of them provide value in the form of feedback about my videos and inspire me. I want to reward them. So I invite them to my <span class="_paradigm">RAD</span> community and give them <span class="_paradigm">RAD</span>s. Everyone who has <span class="_paradigm">RAD</span>s shares my revenue. Maybe not all of it, but, say, half of it.</p>
+ <p>Let&rsquo;s say I make $5K and I distribute $2.5K of  it through the <span class="_paradigm">RAD</span>s according to the allocations (<em>i.e.</em>, which everyone can see). The actual money can be distributed through Venmo, CashApp, or Zelle.</p>
  <p>Perhaps I only want to share the YouTube revenue and not the Patreon revenue. In this case, I&rsquo;ll create a <span class="_paradigm">BANNER</span> for the <em>YouTube</em> revenue,</p>
  <div class="_center">
   <img
