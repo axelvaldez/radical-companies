@@ -3,7 +3,7 @@ layout:   post
 title:    "Do We Need Groups Anymore?"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-do-we-need-groups-anymore.svg"
 ---
 
 <div style="display:none;">
