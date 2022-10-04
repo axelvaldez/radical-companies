@@ -3,7 +3,7 @@ layout:   post
 title:    "RADICAL COMPANIES Frequently Asked Questions (FAQ)"
 subtitle: ""
 authors:  "Matt PEREZ | Adrian PEREZ | Jose LEAL"
-image:    "icon-questions.png"
+image:    "icon-faq.png"
 ---
 
 <h1>Intro</h1>
