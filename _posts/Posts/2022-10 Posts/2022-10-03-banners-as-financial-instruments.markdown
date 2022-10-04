@@ -28,7 +28,7 @@ image:    "about-daos.svg"
   <li>They also didn&rsquo;t (dare to) account for the revenue growth that happened.</li>
   <li>The fund reached its financial goal almost a year sooner than anticipated.</li>
  </ul>
- <p>This allows any co-owner to invest their future value growth. Others won&rsquo;t and some can&rsquo;t. New co-owners may join the BANNER right away, others will wait a while, and still others will sit it out. They can use BANNERs to fund new companies.</p>
+ <p>This allows any co-owner to invest their future value growth. Others won&rsquo;t and some can&rsquo;t. New co-owners may join the BANNER right away, others will wait a while, and still others will sit it out. They can use BANNERs to fund new companies or any other investment.</p>
  <p>In the end, ownership of the building is calculated as the percentage of contribution into the <span class="_paradigm">BANNER</span>. And it doesn&rsquo;t have to be <span class="_paradigm">RAD</span>s only, it is up to whatever contributing co-owners decide. If allowed, a wealthier co-owner may decide to contribute her accumulated capital into the <span class="_paradigm">BANNER</span> to increase her ownership of the building, or company, or whate have you.</p>
 
 <h1 class="_section">RELATED</h1>
