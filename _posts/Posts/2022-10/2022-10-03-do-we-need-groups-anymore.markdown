@@ -31,7 +31,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
 
 <h1>Always Fuzzy</h1>
  <p>Suppose that someone says, “You look so confident and attractive,” in my YouTube video. Should I give them “YouTube Community” <span class="_paradigm">RAD</span>s?</p>
- <p>That night, riding high on the compliment, my partner and I make beautiful love and we make that night all the sweeter. Or feeling inspired by the compliment, I come up with an invention, patent it, and I become a billionaire. Shouldn&rsquo;t the complimenter get to share in my windfall, not just the YouTube RADs?</p>
+ <p>That night, riding high on the compliment, my partner and I make beautiful love and we make that night all the sweeter. Or feeling inspired by the compliment, I come up with an invention, patent it, and I become a billionaire. Shouldn&rsquo;t the complimenter get to share in my windfall, not just the YouTube <span class="_paradigm">RAD</span>s?</p>
  <p>We don&rsquo;t know the answer. It is not at all clear. We don&rsquo;t claim that we can cleanse ourselves from FIA<span class="_paradigm">FIAT</span>T and become <span class="_paradigm">RADICAL</span> cherubs overnight. We simply want to get moving away from <span class="_paradigm">FIAT</span>. We&rsquo;ll figure out the finer details along the way. But beware that the <span class="_paradigm">FIAT</span>  hierarchy resides inside of us, we have been colonized by it, and it will take us all a long time to shake off those habits.</p>
 
 <h1>Convivium Pumps</h1>
