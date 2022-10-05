@@ -12,35 +12,51 @@ image:    "icon-do-we-need-groups-anymore.svg"
 
 <h1>&nbsp;</h1>
  <p>I am starting to wonder whether we need groups at all anymore. What if <span class="_paradigm">RAD</span> income just came from personal rather than corporate income? I am also really tempted to start calling groups of <span class="_paradigm">RADICAL</span> people Conviviums, a word that I got from one of the CasP papers.</p>
- <p>So I&rsquo;m going to try and flesh out this idea of payment. Let&rsquo;s say, I think of <span class="_paradigm">RAD</span>s as being able to reward the giants on whose shoulders I have stood and the people I am in community with. And solely that.</p>
+ <p>So I&rsquo;m going to try and flesh out this idea of payment. I think of <span class="_paradigm">RAD</span>s as being able to reward the giants on whose shoulders I have stood and the people I am in community with. And solely that.</p>
 
-<h1>YouTube, Patreon, and Discord</h1>
- <p>For example, I have a YouTube channel where I published DIY videos related to my 3D Printing projects. I also have a Patreon account. And I start a Discord chat that centers around my inventing activities&mdash;everyone my Patreon sponsors gets to be in the chat.</p>
+<h1>YouTube Ads and Patreon Sponsorships</h1>
+ <p>For example, I have a YouTube channel where I published videos of my 3D Printing projects. I also have a Patreon account. And I start a Discord chat that centers around my inventing activities. All my Patreon sponsors get invited to the chat.</p>
  <p>Altogether, I generate revenue from,</p>
  <ul>
   <li>YouTube Ads</li>
   <li>Patreon sponsorhips</li>
  </ul>
- <p>I invite everyone who provides YouTube feedback to a <span class="_paradigm">RAD</span> community. Also, I invite to that community Patreon sponsors that provide value in the form of feedback about my videos. That inspires me as well and I want to reward them. So I invite them to my <span class="_paradigm">RAD</span> community, recognize their contributions, and they get <span class="_paradigm">RAD</span>s. Everyone with <span class="_paradigm">RAD</span>s shares my dividents from the YouTube revenue. Maybe not all of it, but, say, half of it.</p>
+ <p>I invite everyone who provides YouTube feedback to a <span class="_paradigm">RAD</span> community and I also invite Patreon sponsors who provide valuable feedback about my videos. Their contributions inspire me and I want to reward them. Everyone in the <span class="_paradigm">RAD</span> community are recognized, by me and everyone else, for their contributions. As a result, they get <span class="_paradigm">RAD</span>s. And everyone with <span class="_paradigm">RAD</span>s shares the dividents from the YouTube revenue.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
 
- <p>Let&rsquo;s say I make $5K and I distribute $2.5K of it through the <span class="_paradigm">RAD</span>s according to the allocations (<em>i.e.</em>, which everyone can see). The actual money can be distributed through Venmo, CashApp, or Zelle.</p>
- <p>Perhaps I only want to share the YouTube dividends and not the Patreon dividends. In this case, I&rsquo;ll create a <span class="_paradigm">BANNER</span> for the <em>YouTube</em> revenue,</p>
- <div class="_center">
-  <img
-   src="/assets/img/banners-adrians-example.svg"
-   width="50%"
-   alt="">
- </div>
- <p>I could do the same with my Patreon revenue or any of the other revenue streams that may come up later.</p>
+ <p>Let&rsquo;s say I make $5K in dividends and I distribute $2.5K of it through the <span class="_paradigm">RAD</span> Community according to the allocations (<em>i.e.</em>, which everyone can see). The actual money can be distributed through Venmo, CashApp, or Zelle.</p>
+ <p>Note that I am sharing my YouTube dividends. bit not the Patreon dividends. I could do the same any of the other revenue streams that may come up later.</p>
 
-<h1>Always Fuzzy</h1>
- <p>Suppose that someone says, &ldquo;You look so confident and attractive,&rdquo; in response to one of my YouTube videos. Should I give them &ldquo;YouTube Community&rdquo; <span class="_paradigm">RAD</span>s?</p>
- <p>That night, riding high on the compliment, my partner and I make beautiful love and we make that night all the sweeter. Or feeling inspired by the compliment, I come up with an invention, patent it, and I become a billionaire. Shouldn&rsquo;t the complimenter get to share in my windfall, not just the YouTube <span class="_paradigm">RAD</span>s?</p>
- <p>We don&rsquo;t know the answer. It is not at all clear. We don&rsquo;t claim that we can cleanse ourselves from the <span class="_paradigm">FIAT</span> midselt and become <span class="_paradigm">RADICAL</span> cherubs overnight. We simply want to start to move away from <span class="_paradigm">FIAT</span> while we figure out the finer details along the way. But beware that the <span class="_paradigm">FIAT</span> mindset is inside of us, we have been colonized by it, and it will take us all a long time to shake off those habits.</p>
+<h1>Confidential and Attrative</h1>
+ <p>Suppose that someone says, &ldquo;You look so confident and attractive,&rdquo; in response to one of my YouTube videos. That night, riding high on the compliment, my partner and I make beautiful love and we make that night all the sweeter. Or feeling inspired by the compliment, I come up with an invention, patent it, and I become a billionaire. Shouldn&rsquo;t the complimenter get to share in my windfall, not just the YouTube <span class="_paradigm">RAD</span>s?</p>
+ <p>There is no one answer, it is not at all clear. We don&rsquo;t claim that we can cleanse ourselves from the <span class="_paradigm">FIAT</span> midselt and become <span class="_paradigm">RADICAL</span> cherubs overnight. But the question helps us to start to move away from the <span class="_paradigm">FIAT</span> mindset. while we figure out the finer details along the way. But beware that we have been colonized by the <span class="_paradigm">FIAT</span> mindset and it will take us all a long time to shake off those habits.</p>
+ <p>It seems that in this case,
+  <ul>
+   <li>I share some of my revenue with the group because they are actively contributing to what I do in YouTube</li>
+   <li>On the other hand, I am not sharing my Patreon income because it feels that that comes as a result of my invidual efforts (<em>i.e.</em>, to be revisted later).
 
-<h1>Convivium Pumps</h1>
+<h1>Convivium<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Pumps</h1>
  <p>A group of people gets together and they make pumps. One guy makes the impeller. One woman makes the housings. And a nonbinary person sells the pumps.</p>
- <p>A <span class="_paradigm">FIAT</span> company is happy with the pumps and buys the pumps. Finally, the dividens from the revenue are distributed according to the <span class="_paradigm">RAD</span>s each co-owner has.</p>
+ <p>A <span class="_paradigm">FIAT</span> company is happy with the pumps and pays for them. Finally, the dividens from the revenue are distributed according to the <span class="_paradigm">RAD</span>s each co-owner has.</p>
+ <p>In this case, the revenue happens because of the work we all do. I could not build pumps at the same rate (and quality) by myself</p>
+
+ <h1 class="_section">ENDNOTES</h1>
+ <ol>
+  <li id="en01">
+   <p class="_list-item">
+    Maybe not all of it, but, say, half of it.
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    BTW, &ldquo;convivium&rdquo; does not appear in a web search, but &ldquo;convivial&rdquo; does. The latter comes from Latin <em>con-</em>, together, and <em>vivial</em>, to live. It was originally associate with &ldquo;feast&rdquo;, but since the 18c it has meant for &ldquo;sociable.&rdquo;.
+    <<q href="https://www.etymonline.com/word/convivial" target="_blank">https://www.etymonline.com/word/convivial</a>>
+    It is very close to <em>company</em>, which also comes from Latin, from <em>con-</em>, together, and <em>panis</em>, bread, or &ldquo;person or persons with whom one volutarily associates.&rdquo;.
+    <<a href="https://www.etymonline.com/search?q=company" target="_blank">https://www.etymonline.com/search?q=company</a>>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ol>
 
 <h1 class="_section">RELATED</h1>
  <ul>
