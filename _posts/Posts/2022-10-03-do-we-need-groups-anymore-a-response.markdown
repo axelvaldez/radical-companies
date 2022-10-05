@@ -12,14 +12,13 @@ image:    "icon-do-we-need-groups-anymore.svg"
 
 <h1>&nbsp;</h1>
  <p>This is a different take on the question, <em>Do We Need Groups Anymore?</em>. <span class="_paradigm">RAD</span> income is the result of a community effort.</p>
- <p>BTW, &ldquo;convivium&rdquo; does not appear is a web search, but &ldquo;convivial&rdquo; does. The latter comes from Latin <em>con-</em>, together, and <em>vivial</em>, to live. It was originally associate with &ldquo;feast&rdquo;, but since the 18c it has meant for &ldquo;sociable.&rdquo;. In other words, it is very close to <em>company</em>.</p>
  <p>So I&rsquo;m going to try and flesh out this idea of payment. Let&rsquo;s say, I think of <span class="_paradigm">RAD</span>s as being able to reward the giants on whose shoulders I have stood and the people I am in community with. And solely that. So I don&rsquo;t pay that group with a corporate income, but a personal income.</p>
  <p>For example, I have a YouTube channel. I generate revenues for myself from two sources,</p>
  <ul>
   <li>First, the Ad revenue from YouTube.</li>
   <li>Second, the Patreon revenue.</li>
  </ul>
- <p>Now, I start a Discord chat that centers around my inventing activities. Everyone who is a Patreon sponsor gets to be in the chat. Some of them provide value in the form of feedback about my videos and inspire me. I want to reward them. So I invite them to my <span class="_paradigm">RAD</span> community and give them <span class="_paradigm">RAD</span>s. Everyone who has <span class="_paradigm">RAD</span>s shares my revenue. Maybe not all of it, but, say, half of it.</p>
+ <p>Now, I start a Discord chat that centers around my inventing activities. Everyone who is a Patreon sponsor gets to be in the chat. Some of them provide value in the form of feedback about my videos and that inspires me. I want to reward them. So I invite them to my <span class="_paradigm">RAD</span> community and give them <span class="_paradigm">RAD</span>s. Everyone who has <span class="_paradigm">RAD</span>s shares my revenue. Maybe not all of it, but, say, half of it.</p>
  <p>Let&rsquo;s say I make $5K and I distribute $2.5K of  it through the <span class="_paradigm">RAD</span>s according to the allocations (<em>i.e.</em>, which everyone can see). The actual money can be distributed through Venmo, CashApp, or Zelle.</p>
  <p>Perhaps I only want to share the YouTube revenue and not the Patreon revenue. In this case, I&rsquo;ll create a <span class="_paradigm">BANNER</span> for the <em>YouTube</em> revenue,</p>
  <div class="_center">
@@ -46,6 +45,8 @@ image:    "icon-do-we-need-groups-anymore.svg"
  </div>
  <p>The <span class="_paradigm">FIAT</span> company can pay the Convivium for the pump. They are happy. The co-owners included in the <em>Pump Convivium</em> <span class="_paradigm">BANNER</span> distribute the funds according to the RADs each person has.</p>
  <p>Alternatively, they may decide to split the Convivium revenue equally. Or maybe to fix it to a 50%/30%/20% split. These could work, too, but they smell too much like the <span class="_paradigm">FIAT</span> way of doing things. It is static rather than dynamic and rejects the flexibility of RADs to determine co-ownership. That should tell you to take a second look because you are probably are moving towards <span class="_paradigm">FIAT</span>.</p>
+
+ <p>BTW, &ldquo;convivium&rdquo; does not appear is a web search, but &ldquo;convivial&rdquo; does. The latter comes from Latin <em>con-</em>, together, and <em>vivial</em>, to live. It was originally associate with &ldquo;feast&rdquo;, but since the 18c it has meant for &ldquo;sociable.&rdquo;. In other words, it is very close to <em>company</em>, which also comes from Latin, from <em>con-</em>, together, and <em>panis</em>, bread, or &ldquo;person or persons with whom one volutarily associates.&rdquo;. I personally prefer <em>company</em> because 1) it is associated with work, and 2) it fits the context of doing together what cannot be done in isolation.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
