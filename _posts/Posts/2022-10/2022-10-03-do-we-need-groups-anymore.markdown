@@ -39,6 +39,9 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <p>A <span class="_paradigm">FIAT</span> company is happy with the pumps and pays for them. Finally, the dividens from the revenue are distributed according to the <span class="_paradigm">RAD</span>s each co-owner has.</p>
  <p>In this case, the revenue happens because of the work we all do. I could not build pumps at the same rate (and quality) by myself</p>
 
+<h1>In Conclusion&hellip;</h1>
+ <p>It seems that even things that at first look like the work of an individual</p>
+
  <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
