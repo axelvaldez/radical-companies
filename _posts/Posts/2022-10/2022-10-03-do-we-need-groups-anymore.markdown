@@ -40,7 +40,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <p>In this case, the revenue happens because of the work we all do. I could not build pumps at the same rate (and quality) by myself</p>
 
 <h1>In Conclusion&hellip;</h1>
- <p>It seems that even things that at first look like the work of an individual</p>
+ <p>It seems that even things that at first look like the work of an individual are the work of a community.</p>
 
  <h1 class="_section">ENDNOTES</h1>
  <ol>
