@@ -22,7 +22,6 @@ image:    "icon-do-we-need-groups-anymore.svg"
   <li>Patreon sponsorhips</li>
  </ul>
  <p>I invite everyone who provides YouTube feedback to a <span class="_paradigm">RAD</span> community and I also invite Patreon sponsors who provide valuable feedback about my videos. Their contributions inspire me and I want to reward them. Everyone in the <span class="_paradigm">RAD</span> community are recognized, by me and everyone else, for their contributions. As a result, they get <span class="_paradigm">RAD</span>s. And everyone with <span class="_paradigm">RAD</span>s shares the dividents from the YouTube revenue.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
-
  <p>Let&rsquo;s say I make $5K in dividends and I distribute $2.5K of it through the <span class="_paradigm">RAD</span> Community according to the allocations (<em>i.e.</em>, which everyone can see). The actual money can be distributed through Venmo, CashApp, or Zelle.</p>
  <p>Note that I am sharing my YouTube dividends. bit not the Patreon dividends. I could do the same any of the other revenue streams that may come up later.</p>
 
