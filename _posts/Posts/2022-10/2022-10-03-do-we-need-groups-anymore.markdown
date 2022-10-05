@@ -12,15 +12,19 @@ image:    "icon-do-we-need-groups-anymore.svg"
 
 <h1>&nbsp;</h1>
  <p>I am starting to wonder whether we need groups at all anymore. What if <span class="_paradigm">RAD</span> income just came from personal rather than corporate income? I am also really tempted to start calling groups of <span class="_paradigm">RADICAL</span> people Conviviums, a word that I got from one of the CasP papers.</p>
- <p>So I&rsquo;m going to try and flesh out this idea of payment. Let&rsquo;s say, I think of <span class="_paradigm">RAD</span>s as being able to reward the giants on whose shoulders I have stood and the people I am in community with. And solely that. So I don&rsquo;t pay that group with a corporate income, but a personal income.</p>
- <p>For example, I have a YouTube channel. I generate revenues for myself from two sources,</p>
+ <p>So I&rsquo;m going to try and flesh out this idea of payment. Let&rsquo;s say, I think of <span class="_paradigm">RAD</span>s as being able to reward the giants on whose shoulders I have stood and the people I am in community with. And solely that.</p>
+
+<h1>YouTube, Patreon, and Discord</h1>
+ <p>For example, I have a YouTube channel where I published DIY videos related to my 3D Printing projects. I also have a Patreon account. And I start a Discord chat that centers around my inventing activities&mdash;everyone my Patreon sponsors gets to be in the chat.</p>
+ <p>Altogether, I generate revenue from,</p>
  <ul>
-  <li>First, the Ad revenue from YouTube.</li>
-  <li>Second, the Patreon revenue.</li>
+  <li>YouTube Ads</li>
+  <li>Patreon sponsorhips</li>
  </ul>
- <p>Now, I start a Discord chat that centers around my inventing activities. Everyone who is a Patreon sponsor gets to be in the chat. Some of them provide value in the form of feedback about my videos and inspire me. I want to reward them. So I invite them to my <span class="_paradigm">RAD</span> community and give them <span class="_paradigm">RAD</span>s. Everyone who has <span class="_paradigm">RAD</span>s shares my revenue. Maybe not all of it, but, say, half of it.</p>
- <p>Let&rsquo;s say I make $5K and I distribute $2.5K of  it through the <span class="_paradigm">RAD</span>s according to the allocations (<em>i.e.</em>, which everyone can see). The actual money can be distributed through Venmo, CashApp, or Zelle.</p>
- <p>Perhaps I only want to share the YouTube revenue and not the Patreon revenue. In this case, I&rsquo;ll create a <span class="_paradigm">BANNER</span> for the <em>YouTube</em> revenue,</p>
+ <p>I invite everyone who provides YouTube feedback to a <span class="_paradigm">RAD</span> community. Also, I invite to that community Patreon sponsors that provide value in the form of feedback about my videos. That inspires me as well and I want to reward them. So I invite them to my <span class="_paradigm">RAD</span> community, recognize their contributions, and they get <span class="_paradigm">RAD</span>s. Everyone with <span class="_paradigm">RAD</span>s shares my dividents from the YouTube revenue. Maybe not all of it, but, say, half of it.</p>
+
+ <p>Let&rsquo;s say I make $5K and I distribute $2.5K of it through the <span class="_paradigm">RAD</span>s according to the allocations (<em>i.e.</em>, which everyone can see). The actual money can be distributed through Venmo, CashApp, or Zelle.</p>
+ <p>Perhaps I only want to share the YouTube dividends and not the Patreon dividends. In this case, I&rsquo;ll create a <span class="_paradigm">BANNER</span> for the <em>YouTube</em> revenue,</p>
  <div class="_center">
   <img
    src="/assets/img/banners-adrians-example.svg"
@@ -30,21 +34,13 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <p>I could do the same with my Patreon revenue or any of the other revenue streams that may come up later.</p>
 
 <h1>Always Fuzzy</h1>
- <p>Suppose that someone says, “You look so confident and attractive,” in my YouTube video. Should I give them “YouTube Community” <span class="_paradigm">RAD</span>s?</p>
+ <p>Suppose that someone says, &ldquo;You look so confident and attractive,&rdquo; in response to one of my YouTube videos. Should I give them &ldquo;YouTube Community&rdquo; <span class="_paradigm">RAD</span>s?</p>
  <p>That night, riding high on the compliment, my partner and I make beautiful love and we make that night all the sweeter. Or feeling inspired by the compliment, I come up with an invention, patent it, and I become a billionaire. Shouldn&rsquo;t the complimenter get to share in my windfall, not just the YouTube <span class="_paradigm">RAD</span>s?</p>
- <p>We don&rsquo;t know the answer. It is not at all clear. We don&rsquo;t claim that we can cleanse ourselves from FIA<span class="_paradigm">FIAT</span>T and become <span class="_paradigm">RADICAL</span> cherubs overnight. We simply want to get moving away from <span class="_paradigm">FIAT</span>. We&rsquo;ll figure out the finer details along the way. But beware that the <span class="_paradigm">FIAT</span>  hierarchy resides inside of us, we have been colonized by it, and it will take us all a long time to shake off those habits.</p>
+ <p>We don&rsquo;t know the answer. It is not at all clear. We don&rsquo;t claim that we can cleanse ourselves from the <span class="_paradigm">FIAT</span> midselt and become <span class="_paradigm">RADICAL</span> cherubs overnight. We simply want to start to move away from <span class="_paradigm">FIAT</span> while we figure out the finer details along the way. But beware that the <span class="_paradigm">FIAT</span> mindset is inside of us, we have been colonized by it, and it will take us all a long time to shake off those habits.</p>
 
 <h1>Convivium Pumps</h1>
  <p>A group of people gets together and they make pumps. One guy makes the impeller. One woman makes the housings. And a nonbinary person sells the pumps.</p>
- <p>A <span class="_paradigm">FIAT</span> company buys the pumps, and they want to pay someone. So the makers of the pump create a <span class="_paradigm">BANNER</span>,</p>
- <div class="_center">
-  <img
-   src="/assets/img/pump-convivium.svg"
-   width="50%"
-   alt="">
- </div>
- <p>The <span class="_paradigm">FIAT</span> company can pay the Convivium for the pump. They are happy. The co-owners included in the <em>Pump Convivium</em> <span class="_paradigm">BANNER</span> distribute the funds according to the RADs each person has.</p>
- <p>Alternatively, they may decide to split the Convivium revenue equally. Or maybe to fix it to a 50%/30%/20% split. These could work, too, but they smell too much like the <span class="_paradigm">FIAT</span> way of doing things. It is static rather than dynamic and rejects the flexibility of RADs to determine co-ownership. That should tell you to take a second look because you are probably are moving towards <span class="_paradigm">FIAT</span>.</p>
+ <p>A <span class="_paradigm">FIAT</span> company is happy with the pumps and buys the pumps. Finally, the dividens from the revenue are distributed according to the <span class="_paradigm">RAD</span>s each co-owner has.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
