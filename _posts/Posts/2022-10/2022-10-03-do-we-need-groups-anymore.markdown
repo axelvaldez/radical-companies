@@ -33,6 +33,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
   <ul>
    <li>I share some of my revenue with the group because they are actively contributing to what I do in YouTube</li>
    <li>On the other hand, I am not sharing my Patreon income because it feels that that comes as a result of my invidual efforts (<em>i.e.</em>, to be revisted later).
+  </ul>
 
 <h1>Convivium<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Pumps</h1>
  <p>A group of people gets together and they make pumps. One guy makes the impeller. One woman makes the housings. And a nonbinary person sells the pumps.</p>
