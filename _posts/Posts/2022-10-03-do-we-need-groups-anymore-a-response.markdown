@@ -1,17 +1,18 @@
 ---
 layout:   post
-title:    "Do We Need Groups Anymore?"
+title:    "Do We Need Groups Anymore: A Response"
 subtitle: "TEMPLATE"
-authors:  "Adrian Perez"
+authors:  "Matt Perez"
 image:    "icon-do-we-need-groups-anymore.svg"
 ---
 
 <div style="display:none;">
- <p>I am starting to wonder whether we need groups at all anymore. What if <span class="_paradigm">RAD</span> income just came from personal rather than corporate income?</p>
+ <p>This is a different take on the question, <em>Do We Need Groups Anymore?</em>. <span class="_paradigm">RAD</span> income is the result of a community effort.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>I am starting to wonder whether we need groups at all anymore. What if <span class="_paradigm">RAD</span> income just came from personal rather than corporate income? I am also really tempted to start calling groups of <span class="_paradigm">RADICAL</span> people Conviviums, a word that I got from one of the CasP papers.</p>
+ <p>This is a different take on the question, <em>Do We Need Groups Anymore?</em>. <span class="_paradigm">RAD</span> income is the result of a community effort.</p>
+ <p>BTW, &ldquo;convivium&rdquo; does not appear is a web search, but &ldquo;convivial&rdquo; does. The latter comes from Latin <em>con-</em>, together, and <em>vivial</em>, to live. It was originally associate with &ldquo;feast&rdquo;, but since the 18c it has meant for &ldquo;sociable.&rdquo;. In other words, it is very close to <em>company</em>.</p>
  <p>So I&rsquo;m going to try and flesh out this idea of payment. Let&rsquo;s say, I think of <span class="_paradigm">RAD</span>s as being able to reward the giants on whose shoulders I have stood and the people I am in community with. And solely that. So I don&rsquo;t pay that group with a corporate income, but a personal income.</p>
  <p>For example, I have a YouTube channel. I generate revenues for myself from two sources,</p>
  <ul>
