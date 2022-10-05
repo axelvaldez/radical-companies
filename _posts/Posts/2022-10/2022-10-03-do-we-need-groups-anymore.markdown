@@ -40,7 +40,8 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <p>In this case, the revenue happens because of the work we all do. I could not build pumps at the same rate (and quality) by myself</p>
 
 <h1>In Conclusion&hellip;</h1>
- <p>It seems that even things that at first look like the work of an individual are nevertheless the work of a community and we need &ldquo;groups.&rdquo;</p>
+ <p>It seems that even individual results are based on the work of communities.</p>
+ <p>We. Need. Groups.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
