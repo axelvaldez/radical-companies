@@ -3,7 +3,7 @@ layout:   post
 title:    "Should I Gift my RADs? Can I?"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-gifting-rads.svg"
 ---
 
 <div style="display:none;">
