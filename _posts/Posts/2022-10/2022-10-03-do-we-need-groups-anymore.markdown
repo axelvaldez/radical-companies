@@ -75,8 +75,8 @@ image:    "icon-do-we-need-groups-anymore.svg"
       It seems to come from Latin <em>con-</em>, together, and <em>vivial</em>, to live.
      </li>
      <li>
-      Etymoline describes is as originally associate with &ldquo;feast&rdquo;, but since the 18c it has meant &ldquo;sociable.&rdquo;.
-      <<q href="https://www.etymonline.com/word/convivial" target="_blank">https://www.etymonline.com/word/convivial</a>>
+      Etymoline describes is as originally associate with &ldquo;feast&rdquo;, but since the 18c it has meant &ldquo;sociable.&rdquo;
+      <<a href="https://www.etymonline.com/word/convivial" target="_blank">https://www.etymonline.com/word/convivial</a>>
      </li>
     </ol>
    </p>
