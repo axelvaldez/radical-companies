@@ -40,10 +40,10 @@ image:    "icon-do-we-need-groups-anymore.svg"
 <h1>Convivium Pumps</h1>
  <p>A group of people gets together as a <em>convivium</em><a href="#en03"><sup id="bm03">3&nbsp;</sup></a> to make pumps. I make the impeller. One woman makes the housings. And a nonbinary person sells the pumps. A <span class="_paradigm">FIAT</span> company is happy with the pumps and pays for them.</p>
  <p>In this case, the revenue happens because of the work we all do. None of us could build pumps at the same rate and quality by ourselves.</p>
- <p>The dividends are distributed according to the <span class="_paradigm">RAD</span>s co-owners gave each other through the pump building process. This is based on our contributions as recognized by each other.</p>
+ <p>The dividends are distributed according to the <span class="_paradigm">RAD</span>s co-owners gave each other through the pump building process. This is based on our recognized contributions.</p>
 
 <h1>In Conclusion&hellip;</h1>
- <p>We need groups. My wins happened because of the complementary work of my co-owners.</p>
+ <p>We need groups. </p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
