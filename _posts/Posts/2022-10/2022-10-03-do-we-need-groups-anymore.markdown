@@ -47,7 +47,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    Ulf Martin
+    Ulf Martin.
     <em>The Autocatalytic Sprawl of Pseudorational Mastery</em>.
     May 2019.
     <<a href="https://capitalaspower.com/" target="_blank">https://capitalaspower.com/</a>>
