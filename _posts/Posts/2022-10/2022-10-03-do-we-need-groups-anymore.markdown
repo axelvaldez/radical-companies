@@ -62,7 +62,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
   </li>
   <li id="en03">
    <p class="_list-item">
-    <ul>
+    <ol>
      <li>
       Wiktionary defines convivium as &ldquo;A symposium.&rdquo; and &ldquo;A geographically isolated population of a species that shows differentiation from other populations of the same species.&rdquo;
       <<a href="https://en.wiktionary.org/wiki/convivium" target="_blank">https://en.wiktionary.org/wiki/convivium</a>>
@@ -78,12 +78,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
       Etymoline describes is as originally associate with &ldquo;feast&rdquo;, but since the 18c it has meant &ldquo;sociable.&rdquo;.
       <<q href="https://www.etymonline.com/word/convivial" target="_blank">https://www.etymonline.com/word/convivial</a>>
      </li>
-     <li>
-      This is very close to <em>company</em>, which also comes from Latin, from <em>con-</em>, together, and <em>panis</em>, bread, or &ldquo;person or persons with whom one volutarily associates.&rdquo;.
-      <<a href="https://www.etymonline.com/search?q=company" target="_blank">https://www.etymonline.com/search?q=company</a>>
-      <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-     </li>
-    </ul>
+    </ol>
    </p>
   </li>
  </ol>
