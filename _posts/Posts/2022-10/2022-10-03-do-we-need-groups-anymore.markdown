@@ -34,8 +34,8 @@ image:    "icon-do-we-need-groups-anymore.svg"
    <li>On the other hand, I am not sharing my Patreon income because it feels that that comes as a result of my invidual efforts (<em>i.e.</em>, hmm&hellip; ).</li>
   </ul>
 
-<h1>Convivium<a href="#en03"><sup id="bm03">3</sup></a> Pumps</h1>
- <p>A group of people gets together as <em>convivium</em><a href="#en03"><sup id="bm03">3</sup></a> to make pumps. One guy makes the impeller. One woman makes the housings. And a nonbinary person sells the pumps.</p>
+<h1>Convivium Pumps</h1>
+ <p>A group of people gets together as <em>convivium</em><a href="#en03"><sup id="bm03">3&nbsp;</sup></a> to make pumps. One guy makes the impeller. One woman makes the housings. And a nonbinary person sells the pumps.</p>
  <p>A <span class="_paradigm">FIAT</span> company is happy with the pumps and pays for them. Finally, the dividens from the revenue are distributed according to the <span class="_paradigm">RAD</span>s each co-owner has.</p>
  <p>In this case, the revenue happens because of the work we all do. I could not build pumps at the same rate (and quality) by myself.</p>
 
