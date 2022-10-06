@@ -7,7 +7,7 @@ image:    "icon-gifting-rads.svg"
 ---
 
 <div style="display:none;">
- <p>The <span class="_paradigm">RAD</span>s were given to me in recognition of <em>my</em> contributions. Gifting my <span class="_paradigm">RAD</span>s to someone else doesnt seem right. But then again, they were given to me without any strings attached (<em>e.g.</em>, I could trade them for booze if I wanted to).</p>
+ <p>The <span class="_paradigm">RAD</span>s were given to me in recognition of <em>my</em> contributions. Gifting my <span class="_paradigm">RAD</span>s to someone else doesnt feel right. But then again, they were given to me without any strings attached (<em>e.g.</em>, I could trade them for booze if I wanted to).</p>
 </div>
 
 <h1>&nbsp;</h1>
