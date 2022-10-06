@@ -11,7 +11,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>I am starting to wonder whether we need groups at all anymore. What if <span class="_paradigm">RAD</span> income just came from personal rather than corporate income? I am also really tempted to start calling groups of <span class="_paradigm">RADICAL</span> people Conviviums, a word that I got from one of the CasP papers.</p>
+ <p>I am starting to wonder whether we need groups at all anymore. What if <span class="_paradigm">RAD</span> income just came from personal rather than corporate income? I am also really tempted to start calling groups of <span class="_paradigm">RADICAL</span> people Conviviums, a word that I got from one of the <em>Capital as Power</em> papers.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
  <p>So I&rsquo;m going to try and flesh out this idea of payment. I think of <span class="_paradigm">RAD</span>s as being able to reward the giants on whose shoulders I have stood and the people I am in community with. And solely that.</p>
 
 <h1>YouTube Ads and Patreon Sponsorships</h1>
@@ -21,7 +21,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
   <li>YouTube Ads</li>
   <li>Patreon sponsorhips</li>
  </ul>
- <p>I invite everyone who provides YouTube feedback to a <span class="_paradigm">RAD</span> community and I also invite Patreon sponsors who provide valuable feedback about my videos. Their contributions inspire me and I want to reward them. Everyone in the <span class="_paradigm">RAD</span> community are recognized, by me and everyone else, for their contributions. As a result, they get <span class="_paradigm">RAD</span>s. And everyone with <span class="_paradigm">RAD</span>s shares the dividents from the YouTube revenue.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
+ <p>I invite everyone who provides YouTube feedback to a <span class="_paradigm">RAD</span> community and I also invite Patreon sponsors who provide valuable feedback about my videos. Their contributions inspire me and I want to reward them. Everyone in the <span class="_paradigm">RAD</span> community are recognized, by me and everyone else, for their contributions. As a result, they get <span class="_paradigm">RAD</span>s. And everyone with <span class="_paradigm">RAD</span>s shares the dividents from the YouTube revenue.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
  <p>Let&rsquo;s say I make $5K in dividends and I distribute $2.5K of it through the <span class="_paradigm">RAD</span> Community according to the allocations (<em>i.e.</em>, which everyone can see). The actual money can be distributed through Venmo, CashApp, or Zelle.</p>
  <p>Note that I am sharing my YouTube dividends. bit not the Patreon dividends. I could do the same any of the other revenue streams that may come up later.</p>
 
@@ -34,7 +34,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
    <li>On the other hand, I am not sharing my Patreon income because it feels that that comes as a result of my invidual efforts (<em>i.e.</em>, to be revisted later).</li>
   </ul>
 
-<h1>Convivium<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Pumps</h1>
+<h1>Convivium<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> Pumps</h1>
  <p>A group of people gets together and they make pumps. One guy makes the impeller. One woman makes the housings. And a nonbinary person sells the pumps.</p>
  <p>A <span class="_paradigm">FIAT</span> company is happy with the pumps and pays for them. Finally, the dividens from the revenue are distributed according to the <span class="_paradigm">RAD</span>s each co-owner has.</p>
  <p>In this case, the revenue happens because of the work we all do. I could not build pumps at the same rate (and quality) by myself</p>
@@ -47,11 +47,20 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    Maybe not all of it, but, say, half of it.
+    Ulf Martin
+    <em>The Autocatalytic Sprawl of Pseudorational Mastery</em>.
+    May 2019.
+    <<a href="https://capitalaspower.com/" target="_blank">https://capitalaspower.com/</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
+   <p class="_list-item">
+    Maybe not all of it, but, say, half of it.
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
    <p class="_list-item">
     Wiktionary defines convivium as &ldquo;A symposium.&rdquo; and &ldquo;A geographically isolated population of a species that shows differentiation from other populations of the same species.&rdquo;
     <<a href="https://en.wiktionary.org/wiki/convivium" target="_blank">https://en.wiktionary.org/wiki/convivium</a>>
@@ -62,7 +71,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
     <<q href="https://www.etymonline.com/word/convivial" target="_blank">https://www.etymonline.com/word/convivial</a>>
     This is very close to <em>company</em>, which also comes from Latin, from <em>con-</em>, together, and <em>panis</em>, bread, or &ldquo;person or persons with whom one volutarily associates.&rdquo;.
     <<a href="https://www.etymonline.com/search?q=company" target="_blank">https://www.etymonline.com/search?q=company</a>>
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
