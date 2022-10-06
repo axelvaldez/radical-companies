@@ -31,7 +31,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <p>It seems that in this case,
   <ul>
    <li>I share some of my revenue with the group because they are actively contributing to what I do in YouTube</li>
-   <li>On the other hand, I am not sharing my Patreon income because it feels that that comes as a result of my invidual efforts (<em>i.e.</em>, hmm&hellip; ).</li>
+   <li>On the other hand, I am not sharing my Patreon income because it feels that that comes as a result of my invidual effort.</li>
   </ul>
 
 <h1>Convivium Pumps</h1>
@@ -40,7 +40,8 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <p>In this case, the revenue happens because of the work we all do. I could not build pumps at the same rate (and quality) by myself.</p>
 
 <h1>In Conclusion&hellip;</h1>
- <p>It seems that even individual results are based on the work of communities. It seems, them, that we need groups, after all.</p>
+ <p>It seems that even individual results are based on the work of communities. For example, in the case of muy Patreon sponsorships I know that what I am doing is thanks to 1) the people who built YouTube and 2) youtubers who normalized publishing videos for a living. But they already got compensated enough for their contributions to bring to this point. It could be that people who view my videos should benefit, too, I can use <span class="_paradigm">RAD</span>s to do so.</p>
+ <p>In any case, it seems that we need groups, after all.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
