@@ -14,7 +14,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <p>I am starting to wonder whether we need groups at all anymore. What if <span class="_paradigm">RAD</span> income just came from personal rather than corporate income? I am also really tempted to start calling groups of <span class="_paradigm">RADICAL</span> people Conviviums, a word that I got from one of the <em>Capital as Power</em> papers.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
  <p>So I&rsquo;m going to try and flesh out this idea of payment. I think of <span class="_paradigm">RAD</span>s as being able to reward the giants on whose shoulders I have stood and the people I am in community with. And solely that.</p>
 
-<h1>YouTube Ads and Patreon Sponsorships</h1>
+<h1>Ads and Sponsorships</h1>
  <p>For example, I have a YouTube channel where I published videos of my 3D Printing projects. I also have a Patreon account. And I start a Discord chat that centers around my inventing activities. All my Patreon sponsors get invited to the chat.</p>
  <p>Altogether, I generate revenue from,</p>
  <ul>
