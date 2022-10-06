@@ -41,7 +41,8 @@ image:    "icon-do-we-need-groups-anymore.svg"
 
 <h1>In Conclusion&hellip;</h1>
  <p>It seems that even individual results are based on the work of communities.</p>
- <p>For example, in the case of muy Patreon sponsorships I know that what I am doing is thanks to 1) the people who build, maintain, and promote YouTube, and 2) youtubers who normalized publishing videos for a living. But they already got compensated for their contributions to bring it to this point: I don't feel an obligation to compensate them further. However, maybe the people who view and comment on my videos should benefit, too, in that they are part of making my sponsorships happen. I could create a <span class="_paradigm">RAD</span> community to make them part of this thing, according to their contributions.</p>
+ <p>For example, in the case of muy Patreon sponsorships I know that what I am doing is thanks to 1) the people who build, maintain, and promote YouTube, and 2) youtubers who normalized publishing videos for a living. But they already got compensated for their contributions to bring it to this point: I don't feel an obligation to compensate them further.</p>
+ <p>However, maybe the people who view and comment on my videos should benefit from the Patreon dividends, too, in that they are part of making my sponsorships happen. I could create a separate <span class="_paradigm">RAD</span> community to share that revenue according to their contributions.</p>
  <p>In any case, it seems that we need groups, after all.</p>
 
 <h1 class="_section">ENDNOTES</h1>
