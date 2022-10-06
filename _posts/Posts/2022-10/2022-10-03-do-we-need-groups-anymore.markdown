@@ -31,7 +31,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <p>It seems that in this case,
   <ul>
    <li>I share some of my revenue with the group because they are actively contributing to what I do in YouTube</li>
-   <li>On the other hand, I am not sharing my Patreon income because it feels that that comes as a result of my invidual efforts (<em>i.e.</em>, to be revisted later).</li>
+   <li>On the other hand, I am not sharing my Patreon income because it feels that that comes as a result of my invidual efforts (<em>i.e.</em>, hmm&hellip; ).</li>
   </ul>
 
 <h1>Convivium<a href="#en03"><sup id="bm03">3</sup></a> Pumps</h1>
