@@ -43,7 +43,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <p>In this case, the revenue happens because of the work we all do. I could not build pumps at the same rate (and quality) by myself.</p>
 
 <h1>In Conclusion&hellip;</h1>
- <p>We need groups after all because &ldquo;individual&rdquo; wins rest on community work.</p>
+ <p>We need groups after all because &ldquo;individual&rdquo; wins happen because of the work of many other people, not just me.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
