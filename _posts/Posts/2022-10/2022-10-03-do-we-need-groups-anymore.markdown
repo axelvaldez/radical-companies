@@ -40,7 +40,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <p>In this case, the revenue happens because of the work we all do. I could not build pumps at the same rate (and quality) by myself.</p>
 
 <h1>In Conclusion&hellip;</h1>
- <p>It seems that even individual results are based on the work of communities. For example, in the case of muy Patreon sponsorships I know that what I am doing is thanks to 1) the people who built YouTube and 2) youtubers who normalized publishing videos for a living. But they already got compensated enough for their contributions to bring it to this point. It could be that people who view my videos should benefit, too, I can use <span class="_paradigm">RAD</span>s to do so.</p>
+ <p>It seems that even individual results are based on the work of communities. For example, in the case of muy Patreon sponsorships I know that what I am doing is thanks to 1) the people who built YouTube and 2) youtubers who normalized publishing videos for a living. But they already got compensated enough for their contributions to bring it to this point. However, it could be that people who view my videos should benefit, too, and we can use <span class="_paradigm">RAD</span>s to do so.</p>
  <p>In any case, it seems that we need groups, after all.</p>
 
 <h1 class="_section">ENDNOTES</h1>
