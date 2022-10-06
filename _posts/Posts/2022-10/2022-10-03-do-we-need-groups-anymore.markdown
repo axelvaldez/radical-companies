@@ -23,7 +23,10 @@ image:    "icon-do-we-need-groups-anymore.svg"
  </ul>
  <p>I invite everyone who provides YouTube feedback to a <span class="_paradigm">RAD</span> community and I also invite Patreon sponsors who provide valuable feedback about my videos. Their contributions inspire me and I want to reward them. Everyone in the <span class="_paradigm">RAD</span> community are recognized, by me and everyone else, for their contributions. As a result, they get <span class="_paradigm">RAD</span>s. And everyone with <span class="_paradigm">RAD</span>s shares the dividents from the YouTube revenue.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
  <p>Let&rsquo;s say I make $5K in dividends and I distribute $2.5K of it through the <span class="_paradigm">RAD</span> Community according to the allocations (<em>i.e.</em>, which everyone can see). The actual money can be distributed through Venmo, CashApp, or Zelle.</p>
- <p>Note that I am sharing my YouTube dividends. bit not the Patreon dividends. I could do the same any of the other revenue streams that may come up later.</p>
+ 
+<h1>Patreon Sponsorships</h1> 
+ <p>In the case of muy Patreon sponsorships, I know that what I am doing is thanks to 1) the people who build, maintain, and promote YouTube, 2) youtubers who normalized publishing videos for a living, and 3) many others that made YouTube what it is today. Howeverm, they already got compensated for their contributions to bring it to this point and I don't feel an obligation to compensate them further (<em>i.e.</em>, YouTube already takes a big chunk of the Ad revenue).</p>
+ <p>However, maybe the sponsors who comment on my videos should benefit from the overall Patreon dividends, too. I could create a separate <span class="_paradigm">RAD</span> community to share that revenue according to their contributions. Or I could lump the Ad revenue and the sponsorships and add the sponsors to the <span class="_paradigm">RAD</span> community. That sounds like interesting experiements.</p>
 
 <h1>Confidential and Attrative</h1>
  <p>Suppose that someone says, &ldquo;You look so confident and attractive,&rdquo; in response to one of my YouTube videos. That night, riding high on the compliment, my partner and I make beautiful love and we make that night all the sweeter. Feeling inspired by the compliment and the love making, I come up with an invention, patent it, and I become a billionaire. Shouldn&rsquo;t the complimenter get to share in my windfall? She would if I had recognized her contribution and had given her <span class="_paradigm">RAD</span>s in an <em>Invention <span class="_paradigm">RAD</span> community</em></p>
@@ -40,10 +43,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
  <p>In this case, the revenue happens because of the work we all do. I could not build pumps at the same rate (and quality) by myself.</p>
 
 <h1>In Conclusion&hellip;</h1>
- <p>It seems that even individual results are based on the work of communities.</p>
- <p>For example, in the case of muy Patreon sponsorships I know that what I am doing is thanks to 1) the people who build, maintain, and promote YouTube, and 2) youtubers who normalized publishing videos for a living. But they already got compensated for their contributions to bring it to this point: I don't feel an obligation to compensate them further.</p>
- <p>However, maybe the people who view and comment on my videos should benefit from the Patreon dividends, too, in that they are part of making my sponsorships happen. I could create a separate <span class="_paradigm">RAD</span> community to share that revenue according to their contributions.</p>
- <p>In any case, it seems that we need groups, after all.</p>
+ <p>We need groups after all because &ldquo;individual&rdquo; wins rest on community work.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
