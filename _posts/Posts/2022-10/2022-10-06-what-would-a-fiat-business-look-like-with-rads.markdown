@@ -36,7 +36,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
 
 <h1>Equitable Distribution</h1>
  <p>&ldquo;Equitable&rdquo; sounds good, but there isn&rsquo;t a generally agreed formula for it. People have tried all kinds, but none really work for long and are often tweaked. Eventually, they become unintelligible to most people, and mistrusted.</p>
- <p>We have not discoverd a formula for it, either. What <span class="_paradigm">RADICAL</span> supports, and what a <span class="_paradigm">RAD<span>s do, is that it lets employees determine what a <em>valuable contribution</em> is.</p>
+ <p>We have not discovered a formula for it, either. What <span class="_paradigm">RADICAL</span> supports, and what a <span class="_paradigm">RAD<span>s do, is that it lets employees determine what a <em>valuable contribution</em> is.</p>
  <p>As an experiements, we could do the following,</p>
   <ul>
    <li>Lockheed Martin employees would co-own the employee bonus pool.</li>
