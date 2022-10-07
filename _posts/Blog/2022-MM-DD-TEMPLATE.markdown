@@ -16,7 +16,7 @@ image:    "icon-about-daos.svg"
 
   <div class="_center">
    <img
-    src="/assets/img/recs-to-rads-equation.svg"
+    src="/assets/img/pings-to-rads-equation.svg"
     width="70%"
     alt="">
   </div>
