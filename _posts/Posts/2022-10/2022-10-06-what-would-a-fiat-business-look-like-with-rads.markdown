@@ -31,8 +31,8 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  <p>In a <span class="_paradigm">RADICAL</span> company everybody is the equivalent of the CEO in terms of being able to make decisions in behalf of the company (Decentralization) and access to information (Transparency). They all particpate in creating value and they benefit from the value they create.<a class="_paradigm"><sup>4&nbsp;</sup></a></p>
 
 <h1>Doing It Differently</h1>
- <p>Imagine this: what if the executives income was distributed amongst all the employees of Lockheed Martin? What if we take the bonuses for the employees and also distribute them equitably to everybody?</p>
- <p>That&rsquo;s $80M in executive rewards, divided by 115,000 employees. That&rsquo;s a little bit over $700 for each employee. Not that much, it is less than the average bonus of $3000 per employee, and it is based on contributions to the business. In other words, equal distribution does not work all that well.</p>
+ <p>Imagine this: what if the executives income was distributed amongst all the employees of Lockheed Martin? What if we take the bonuses for the employees and also distribute them <em>equitably</em> to everybody?</p>
+ <p>We could give everybody the same abount but that doesn&rsquo;t work for long. We could add things like years of schooling and service, but that is pretty arbitrary and biased. In any case, it has little to do with contributions.</p>
 
 <h1>Equitable Distribution</h1>
  <p>&ldquo;Equitable&rdquo; sounds good, but there isn&rsquo;t a generally agreed formula for it. People have tried all kinds, but none really work for long and are often tweaked. Eventually, they become unintelligible to most people, and mistrusted.</p>
