@@ -15,7 +15,6 @@ image:    "icon-what-a-fiat-business-would-look-like-with-rads.svg"
 <p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
 
   <div class="_center">
-  
    <img
     src="/assets/img/recs-to-rads-equation.svg"
     width="70%"
@@ -43,6 +42,119 @@ image:    "icon-what-a-fiat-business-would-look-like-with-rads.svg"
   </tr>
   <tr>
    <td class="_spacer_">&nbsp;</td>
+  </tr>
+ </table>
+
+<h1>What Would a FIAT Businesses Look Like with RADs</h1>
+ <p>Imagine that every FIAT business were to switch to a RADs-based pay system, but they insisted on doing it very slowly. Their thinking might be that this would give people who can not accept the RADICAL model time to find a FIAT job elsewhere. This means that for the first couple of years the pay levels would remain the same. We would have to artificially give everybody enough RADs to end up with the same pay, given their revenue. What would this RAD Distribution look like?</p>
+ <p>For example, Lockheed’s CEO gets paid $16M. How many RADs would he have to have, given their revenue and profit?</p></p>
+ <p>To answer that question Adrian had to find the Executive team compensation. Here is his trail,</p>
+  <ol>
+   <li>You’ll find executive compensation is usually not packaged with the Annual Reports.</li>
+   <li>Instead I found the Proxy Statement for the company by searching for “<a href="https://www.google.com/search?client=firefox-b-1-d&q=Lockheed+Martin+Proxy+Statement+Executive+Compensation">Company Name Proxy Statement Executive Compensation</a>.”</li>
+   <li>Then I searched for a table that shows all the executives and their total compensation (see Appendix).</li>
+  </ol> 
+ <p>All told, the executives received over $80M in 2020. At the other end, according to <a href="https://www.payscale.com/">payscale.com</a>, the average employee compensation was $85,000 plus a $3,000 annual bonus.</p>
+ <p>For the denominator, I also had to find out the number of people who work at Lockheed Martin. According to Wikipedia, they have 115,000 employees, of which 60,000 are engineers and scientists. I found nothing for contractors, which seems suspicious to say the least. Google, for example, employs 121,000 temps and contractors, while only employing 102,000 full-time employees. In any case, I was left to wonder what Lockheed Martin’s real headcount is.</p>
+
+<h1>But They Earned It!</h1>
+ <p>I have friends who say with an entirely straight face that the executive salaries are entirely justified because they do that much more than the average employee. In the case of Lockheed Martin, if we look at the ratio between the CEO and the average employee. He earns over 265 times as much. So here is an engineer working on a satellite or missile, but the CEO is supposedly contributing 265 times more. Maybe he is sending emails 265 times as fast. But of course it’s not about quantity and speed. It’s about quality. So the CEO must have ideas, for example, that are 265 times as valuable as that satellite engineer.</p>
+ <p>I would argue that the ability to make deals that create or destroy sources of revenue, is not a factor of savvy, but a function of the power to make decisions on that scale. Take anyone in the company and give them the same power and they will make decisions that create or destroy sources of revenue at that scale as well.</p>
+
+<h1>Doing It Differently</h1>
+ <p>What if the executives income was distributed amongst all the employees of Lockheed Martin? And what if we take the bonuses for the employees and also distribute them equitably to everybody?</p>
+ <p>That’s $80M in executive rewards, divided by 115,000 employees. That’s about $700 for each employee. Not that much. It does not even outrank the average bonus of $3000 per employee.</p>
+ <p>Equal distribution does not work all that well. Let’s try equitable distribution.</p>
+
+<h1>Equitable Distribution</h1>
+ <p>Whereas a lot of people would go for “equitable.” It turns out that there isn’t a formula for it. People have tried categorizing all kind of contributions, but none really do the trick.</p>
+ <p>Even though there is not a formula for it, there is a way to do it by letting all co-workers determine what a valuable contribution is.</p>
+ <p>To get the ball started,</p>
+  <ul>
+   <li>Lockheed Martin employees would co-own the bonus pool.</li>
+   <li>Each co-owner would recognize the contributions of the other co-owner.</li>
+   <li>Individual employees would recognize the contributions of the handful of people each knows. Everybody would be recognized this way. Or not.</li>
+   <li>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>.</li>
+   <li>This ratio is multiplied by RADs in the “bonus” pool (<em>e.g.</em>, one RAD per dollar or 115,000 RADs) to get the number of dollars each co-owner gets.</li>
+  </ul>
+ <p>Each employee gets to assign a “bonus” to the other people they know based on <em>whatever they feel</em> is the other co-owner’s contribution. Managers won’t have to spend time agonizing over bonus assignments.</p>
+ 
+<h1 class="_section">APPENDIX</h1>
+
+<h1>Compensation</h1>
+ <p>For the year 2020, this is what I found,</p>
+ <table>
+  <tr>
+   <th>James D. Taiclet</th>
+  </tr>
+  <tr>
+   <td>
+    <ul>
+     <li>Chairman, President and Chief Executive Officer</li>
+     <li>$915,385 Salary</li>
+     <li>$18,611,850 Stock Awards</li>
+     <li>$2,896,200 Non-Equity Incentive Plan Compensation</li>
+     <li>$936,934 All Other Compensation</li>
+     <li>$23,360,369 Total</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>Marillyn A. Hewson</th>
+  </tr>
+  <tr>
+   <td>
+    <ul>
+     <li>Strategic Advisor to the CEO; Former Chairman, President and Chief Executive Officer</li>
+     <li> $1,877,519 Salary</li> 
+     <li>$12,818,340 Stock Awards</li> 
+     <li>$10,639,900 Non-Equity Incentive Plan Compensation</li> 
+     <li>$719,066 All Other Compensation</li> 
+     <li>$26,054,825 Total</li>
+    </ul>
+   </td>
+  </tr>
+ <ul>
+  <li>Kenneth R. Possenriede</li>
+  <li>Chief Financial Officer</li> 
+  <li>$1,000,769 Salary</li> 
+  <li>$3,973,848 Stock Awards</li> 
+  <li>$2,337,700 Non-Equity Incentive Plan Compensation</li> 
+  <li>$170,581 All Other Compensation </li> 
+  <li>$7,482,898 Total</li>
+ </ul>
+ <ul>
+  <li>Frank A. St. John</li>
+  <li>Chief Operating Officer</li> 
+  <li>$981,202 Salary</li> 
+  <li>$3,984,777 Stock Awards</li> 
+  <li>$3,177,700 Non-Equity Incentive Plan Compensation</li> 
+  <li>$406,495 All Other Compensation </li> 
+  <li>$8,550,174 Total</li>
+ </ul>
+ <tr>
+ <th>Richard F. Ambrose </th>
+  <li>Executive Vice President, Space</li> 
+  <li>$947,212 Salary</li> 
+  <li>$3,418,465 Stock Awards</li> 
+  <li>$3,177,700 Non-Equity Incentive Plan Compensation</li> 
+  <li>$181,380 All Other Compensation </li> 
+  <li>$7,724,757 Total</li>
+ </ul>
+  <tr>
+   <th>Michele A. Evans </th>
+  </tr>
+  <tr>
+   <td>
+    <ul>
+     <li>Executive Vice President, Aeronautics</li> 
+     <li>$947,212 Salary</li> 
+     <li>$3,845,716 Stock Awards</li> 
+     <li>$2,497,700 Non-Equity Incentive Plan Compensation</li> 
+     <li>$218,638 All Other Compensation 
+     <li>$7,509,266 Total</li>
+    </ul>
+   </td>
   </tr>
  </table>
 
