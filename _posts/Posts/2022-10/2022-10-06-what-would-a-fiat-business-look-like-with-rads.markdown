@@ -31,7 +31,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  <p>In a <span class="_paradigm">RADICAL</span> company everybody is the equivalent of the CEO in terms of being able to make decisions in behalf of the company (Decentralization) and access to information (Transparency). They all particpate in creating value and they benefit from the value they create.<a class="_paradigm"><sup>4&nbsp;</sup></a></p>
 
 <h1>Doing It Differently</h1>
- <p>Imagine this: what if the executives income was distributed amongst all the employees of Lockheed Martin? What if we take the bonuses for the employees and also distribute them <em>equitably</em> to everybody?</p>
+ <p>Imagine this: What if we take the bonuses for the employees and distribute them <em>equitably</em> to everybody? What if we also take the executive bonuse and distribute it equitably as well?</p>
  <p>We could give everybody the same abount but that doesn&rsquo;t work for long. We could add things like years of schooling and service, but that is pretty arbitrary and biased. In any case, it has little to do with contributions.</p>
 
 <h1>Equitable Distribution</h1>
@@ -53,6 +53,9 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
    </div>
   </p>
   <p>Each employee/co-owner gets to recognize the people they work with. They do this based on <em>whatever they feel</em> is their contribution. Managers would not have to waste time agonizing over this. Next, managers can participate as co-owners of the fund (<em>i.e.</em>, which would now include their bonus pool as well). Over time, more and more bosses, and their bonus pools, would be include in this until, finally, the top executives, and their bonuses, would be included.</p>
+
+<h1>We Are Not Done, Yet</h1>
+ <p>This would still leave us with the pay gap between executives and employees (<em>e.g.</em>, the CEO makes &ldquo;265&rdquo; times what an average employee draws). For that we would have to do something about the imposed <span class="_paradigm">FIAT</span> hierarchy that we assume as a given for businesses.</p>
  
 <h1 class="_section">APPENDICES</h1>
 
