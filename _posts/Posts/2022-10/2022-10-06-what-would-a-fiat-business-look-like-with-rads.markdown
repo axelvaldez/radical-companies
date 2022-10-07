@@ -28,34 +28,36 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  <p>In the case of Lockheed Martin, if we look at the ratio between the CEO and the average employee. He earns over 265 times as much. So here is an engineer working on a satellite or missile, but the CEO is supposedly contributing 265 times more. Maybe he is sending emails 265 times as fast. But of course it&rsquo;s not about quantity and speed. It&rsquo;s about quality and value to the business. So, does that mean that the CEO has ideas that are 265 times as valuable as that satellite engineer&rsquo;s?</p>
  <p>I would admit that the ability to make deals that create or destroy sources of revenue, is valuable. But it is not a factor of savvy, as much as it is a function of <em>the power</em> to make decisions on that scale. Take anyone in the company and give them the same <em>power and access to information</em>, and they will able to make decisions that create or destroy sources of revenue as well.</p>
  <p>Many would say that <em>homo economicus</em> is not going to be motivated to make money for the shareholders unless they get something out it, too. So we would have to pay them all what we pay the top Boss and his crew of Lesser Bosses. And that&rsquo;s and that is one of the foundations of the <span class="_paradigm">FIAT</span> system.</p>
+ <p>In a <span class="_paradigm">RADICAL</span> company everybody is the equivalent of the CEO in terms of being able to make decisions in behalf of the company (Decentralization) and access to information (Transparency). They all particpate in creating value and they benefit from the value they create.<a class="_paradigm"><sup>4&nbsp;</sup></a></p>
 
 <h1>Doing It Differently</h1>
- <p>What if the executives income was distributed amongst all the employees of Lockheed Martin? And what if we take the bonuses for the employees and also distribute them equitably to everybody?</p>
+ <p>Imagine this: what if the executives income was distributed amongst all the employees of Lockheed Martin? What if we take the bonuses for the employees and also distribute them equitably to everybody?</p>
  <p>That&rsquo;s $80M in executive rewards, divided by 115,000 employees. That&rsquo;s about $700 for each employee. Not that much. It does not even outrank the average bonus of $3000 per employee.</p>
  <p>Equal distribution does not work all that well. Let&rsquo;s try equitable distribution.</p>
 
 <h1>Equitable Distribution</h1>
- <p>Whereas a lot of people would go for &ldquo;equitable.&rdquo; It turns out that there isn&rsquo;t a formula for it. People have tried categorizing all kind of contributions, but none really do the trick.</p>
- <p>Even though there is not a formula for it, there is a way to do it by letting all co-workers determine what a valuable contribution is.</p>
- <p>To get the ball started,</p>
+ <p>Whereas a lot of people would go for &ldquo;equitable,&rdquo; it turns out that there isn&rsquo;t a genrally agreed formula for it. People have tried all kinds, but none really do the trick for long.</p>
+ <p>We have not discoverd a formula for it, either. What RADICAL supports and what a RADs do is that it lets all co-workers determine what a valuable contribution is.</p>
+ <p>To get the ball started, we could do the following,</p>
   <ul>
    <li>Lockheed Martin employees would co-own the bonus pool.</li>
-   <li>Each co-owner would recognize the contributions of the other co-owner.</li>
-   <li>Individual employees would recognize the contributions of the handful of people each knows. Everybody would be recognized this way. Or not.</li>
-   <li>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>.</li>
-   <li>This ratio is multiplied by RADs in the “bonus” pool (<em>e.g.</em>, one <span class="_paradigm">RAD</span> per dollar or 115,000 RADs) to get the number of dollars each co-owner gets.</li>
+   <li>Each co-owner would recognize the contributions of other co-owners.</li>
+   <li>Each employees would recognize the contributions of the handful of people each knows.</li>
+   <li>Everybody would be recognized this way.</li>
+   <li>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>. This ratio is multiplied by RADs in the “bonus” pool (<em>e.g.</em>, one <span class="_paradigm">RAD</span> per dollar or 115,000 RADs) to get the number of dollars each co-owner gets.
+   <div class="_center">
+    <img
+     src="/assets/img/pings-to-rads-equation.svg"
+     width="70%"
+     alt="">
+   </div>
+   </li>
   </ul>
- <div class="_center">
-  <img
-   src="/assets/img/pings-to-rads-equation.svg"
-   width="70%"
-   alt="">
- </div>
  <p>Each employee gets to assign a “bonus” to the other people they know based on <em>whatever they feel</em> is the other co-owner&rsquo;s contribution. Managers won&rsquo;t have to spend time agonizing over bonus assignments.</p>
  
 <h1 class="_section">APPENDICES</h1>
 
-<h1 class="_section">Compensation</h1>
+<h1 class="_section">Lockheed-Marting Boss Compensation</h1>
  <p>For the year 2020, this is what I found,</p>
  <table>
   <tr>
@@ -141,22 +143,32 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
   <li id="en01">
    <p class="_list-item">
     Lockheed Marting Proxy Statement Executive Compensation.
-    <<a href="https://www.google.com/search?client=firefox-b-1-d&q=Lockheed+Martin+Proxy+Statement+Executive+Compensation">https://radicals.world/V4Hf8o</a>>
+    <<a href="https://www.google.com/search?client=firefox-b-1-d&q=Lockheed+Martin+Proxy+Statement+Executive+Compensation" target="_blank">https://radicals.world/V4Hf8o</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p class="_list-item">
     payscale.com.
-    <<a href="https://www.payscale.com/">https://www.payscale.com/</a>>
+    <<a href="https://www.payscale.com/" target="_blank">https://www.payscale.com/</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
    <p class="_list-item">
     The number of people who work at Lockheed Martin.
-    <<a href="https://en.wikipedia.org/wiki/Lockheed_Martin">https://en.wikipedia.org/wiki/Lockheed_Martin</a>>
+    <<a href="https://en.wikipedia.org/wiki/Lockheed_Martin" target="_blank">https://en.wikipedia.org/wiki/Lockheed_Martin</a>>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item">
+    Matt Perez, Adrian Perez, Jose Leal.
+    RADICAL COMPANIES for the Impatient.
+    <<a href=""></a>>
+    2001.
+    <a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
