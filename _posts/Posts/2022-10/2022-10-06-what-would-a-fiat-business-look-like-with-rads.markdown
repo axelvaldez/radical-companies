@@ -10,13 +10,6 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  <p>Imagine that every <span class="_paradigm">FIAT</span> business were to switch to a <span class="_paradigm">RAD</span>s-based pay system. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
 </div>
 
-  <div class="_center">
-   <img
-    src="/assets/img/pings-to-rads-equation.svg"
-    width="70%"
-    alt="">
-  </div>
-
 <h1>&nbsp;</h1>
  <p>Imagine that every <span class="_paradigm">FIAT</span> business were to switch to a <span class="_paradigm">RAD</span>s-based pay system. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
  <p>Imagine that every <span class="_paradigm">FIAT</span> business were to switch to a <span class="_paradigm">RAD</span>s-based pay system, but they insisted on doing it very slowly. Their thinking might be that this would give people who can not accept the <span class="_paradigm">RADICAL</span> model time to find a <span class="_paradigm">FIAT</span> job elsewhere. This means that for the first couple of years the pay levels would remain the same. We would have to artificially give everybody enough <span class="_paradigm">RAD</span>s to end up with the same pay, given their revenue. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
