@@ -16,7 +16,7 @@ image:    "icon-what-a-fiat-business-would-look-like-with-rads.svg"
 
   <div class="_center">
    <img
-    src="/assets/img/recs-to-rads-equation.svg"
+    src="/assets/img/pings-to-rads-equation.svg"
     width="70%"
     alt="">
   </div>
