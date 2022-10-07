@@ -51,8 +51,8 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  </div>
  <p>Each employee gets to assign a “bonus” to the other people they know based on <em>whatever they feel</em> is the other co-owner’s contribution. Managers won’t have to spend time agonizing over bonus assignments.</p>
  
-<h1 class="_section">APPENDIX</h1>
-<h1>Compensation</h1>
+<h1 class="_section">APPENDICES</h1>
+<h1 class="_section">Compensation</h1>
  <p>For the year 2020, this is what I found,</p>
  <table>
   <tr>
@@ -70,6 +70,8 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
     </ul>
    </td>
   </tr>
+ <table>
+ </table>
   <tr>
    <th>Marillyn A. Hewson</th>
   </tr>
