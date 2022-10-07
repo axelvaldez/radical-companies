@@ -70,8 +70,8 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
     </ul>
    </td>
   </tr>
- <table>
  </table>
+ <table>
   <tr>
    <th>Marillyn A. Hewson</th>
   </tr>
