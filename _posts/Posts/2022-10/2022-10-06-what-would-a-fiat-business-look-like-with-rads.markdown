@@ -10,40 +10,12 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  <p>Imagine that every <span class="_paradigm">FIAT</span> business were to switch to a <span class="_paradigm">RAD</span>s-based pay system. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
 </div>
 
-<h1>&nbsp;</h1>
-
-<p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
-
   <div class="_center">
    <img
     src="/assets/img/pings-to-rads-equation.svg"
     width="70%"
     alt="">
   </div>
-
- <table align="center">
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
-  </tr>
-  <tr>
-   <td class="_spacer_">&nbsp;</td>
-  </tr>
- </table>
 
 <h1>&nbsp;</h1>
  <p>Imagine that every <span class="_paradigm">FIAT</span> business were to switch to a <span class="_paradigm">RAD</span>s-based pay system. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
@@ -78,6 +50,12 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
    <li>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>.</li>
    <li>This ratio is multiplied by RADs in the “bonus” pool (<em>e.g.</em>, one <span class="_paradigm">RAD</span> per dollar or 115,000 RADs) to get the number of dollars each co-owner gets.</li>
   </ul>
+ <div class="_center">
+  <img
+   src="/assets/img/pings-to-rads-equation.svg"
+   width="70%"
+   alt="">
+ </div>
  <p>Each employee gets to assign a “bonus” to the other people they know based on <em>whatever they feel</em> is the other co-owner’s contribution. Managers won’t have to spend time agonizing over bonus assignments.</p>
  
 <h1 class="_section">APPENDIX</h1>
