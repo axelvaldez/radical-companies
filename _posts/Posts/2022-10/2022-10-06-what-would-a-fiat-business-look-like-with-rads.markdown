@@ -7,7 +7,7 @@ image:    "icon-what-a-fiat-business-would-look-like-with-rads.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>Imagine that every <span class="_paradigm">FIAT</span> business were to switch to a <span class="_paradigm">RAD</span>s-based pay system, but they insisted on doing it very slowly. Their thinking might be that this would give people who can not accept the <span class="_paradigm">RADICAL</span> model time to find a <span class="_paradigm">FIAT</span> job elsewhere. This means that for the first couple of years the pay levels would remain the same. We would have to artificially give everybody enough RADs to end up with the same pay, given their revenue. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
 </div>
 
 <h1>&nbsp;</h1>
@@ -45,8 +45,8 @@ image:    "icon-what-a-fiat-business-would-look-like-with-rads.svg"
   </tr>
  </table>
 
-<h1>What Would a FIAT Businesses Look Like with RADs</h1>
- <p>Imagine that every FIAT business were to switch to a RADs-based pay system, but they insisted on doing it very slowly. Their thinking might be that this would give people who can not accept the RADICAL model time to find a FIAT job elsewhere. This means that for the first couple of years the pay levels would remain the same. We would have to artificially give everybody enough RADs to end up with the same pay, given their revenue. What would this RAD Distribution look like?</p>
+<h1>&nbsp;</h1>
+ <p>Imagine that every <span class="_paradigm">FIAT</span> business were to switch to a <span class="_paradigm">RAD</span>s-based pay system, but they insisted on doing it very slowly. Their thinking might be that this would give people who can not accept the <span class="_paradigm">RADICAL</span> model time to find a <span class="_paradigm">FIAT</span> job elsewhere. This means that for the first couple of years the pay levels would remain the same. We would have to artificially give everybody enough <span class="_paradigm">RAD</span>s to end up with the same pay, given their revenue. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
  <p>For example, Lockheed’s CEO gets paid $16M. How many RADs would he have to have, given their revenue and profit?</p></p>
  <p>To answer that question Adrian had to find the Executive team compensation. Here is his trail,</p>
   <ol>
@@ -75,7 +75,7 @@ image:    "icon-what-a-fiat-business-would-look-like-with-rads.svg"
    <li>Each co-owner would recognize the contributions of the other co-owner.</li>
    <li>Individual employees would recognize the contributions of the handful of people each knows. Everybody would be recognized this way. Or not.</li>
    <li>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>.</li>
-   <li>This ratio is multiplied by RADs in the “bonus” pool (<em>e.g.</em>, one RAD per dollar or 115,000 RADs) to get the number of dollars each co-owner gets.</li>
+   <li>This ratio is multiplied by RADs in the “bonus” pool (<em>e.g.</em>, one <span class="_paradigm">RAD</span> per dollar or 115,000 RADs) to get the number of dollars each co-owner gets.</li>
   </ul>
  <p>Each employee gets to assign a “bonus” to the other people they know based on <em>whatever they feel</em> is the other co-owner’s contribution. Managers won’t have to spend time agonizing over bonus assignments.</p>
  
