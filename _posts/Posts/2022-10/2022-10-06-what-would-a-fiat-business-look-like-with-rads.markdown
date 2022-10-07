@@ -46,6 +46,7 @@ image:    "icon-what-a-fiat-business-would-look-like-with-rads.svg"
  </table>
 
 <h1>&nbsp;</h1>
+ <p>Imagine that every <span class="_paradigm">FIAT</span> business were to switch to a <span class="_paradigm">RAD</span>s-based pay system. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
  <p>Imagine that every <span class="_paradigm">FIAT</span> business were to switch to a <span class="_paradigm">RAD</span>s-based pay system, but they insisted on doing it very slowly. Their thinking might be that this would give people who can not accept the <span class="_paradigm">RADICAL</span> model time to find a <span class="_paradigm">FIAT</span> job elsewhere. This means that for the first couple of years the pay levels would remain the same. We would have to artificially give everybody enough <span class="_paradigm">RAD</span>s to end up with the same pay, given their revenue. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
  <p>For example, Lockheed’s CEO gets paid $16M. How many RADs would he have to have, given their revenue and profit?</p></p>
  <p>To answer that question Adrian had to find the Executive team compensation. Here is his trail,</p>
