@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "What Would a FIAT Business Look Like with RADs"
+title:    "What Would a FIAT Business Look Like with RADs?"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
 image:    "icon-what-a-fiat-business-would-look-like-with-rads.svg"
