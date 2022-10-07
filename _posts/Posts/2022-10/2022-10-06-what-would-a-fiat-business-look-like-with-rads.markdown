@@ -35,24 +35,24 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  <p>That&rsquo;s $80M in executive rewards, divided by 115,000 employees. That&rsquo;s a little bit over $700 for each employee. Not that much, it is less than the average bonus of $3000 per employee, and it is based on contributions to the business. In other words, equal distribution does not work all that well.</p>
 
 <h1>Equitable Distribution</h1>
- <p>Whereas a lot of people would go for &ldquo;equitable,&rdquo; it turns out that there isn&rsquo;t a genrally agreed formula for it. People have tried all kinds, but none really do the trick for long.</p>
- <p>We have not discoverd a formula for it, either. What RADICAL supports and what a RADs do is that it lets all co-workers determine what a valuable contribution is.</p>
- <p>To get the ball started, we could do the following,</p>
+ <p>&ldquo;Equitable&rdquo; sounds good, but there isn&rsquo;t a generally agreed formula for it. People have tried all kinds, but none really work for long and are often tweaked. Eventually, they become unintelligible to most people, and mistrusted.</p>
+ <p>We have not discoverd a formula for it, either. What <span class="_paradigm">RADICAL</span> supports, and what a <span class="_paradigm">RAD<span>s do, is that it lets employees determine what a <em>valuable contribution</em> is.</p>
+ <p>As an experiements, we could do the following,</p>
   <ul>
-   <li>Lockheed Martin employees would co-own the bonus pool.</li>
+   <li>Lockheed Martin employees would co-own the employee bonus pool.</li>
    <li>Each co-owner would recognize the contributions of other co-owners.</li>
    <li>Each employees would recognize the contributions of the handful of people each knows.</li>
    <li>Everybody would be recognized this way.</li>
-   <li>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>. This ratio is multiplied by RADs in the “bonus” pool (<em>e.g.</em>, one <span class="_paradigm">RAD</span> per dollar or 115,000 RADs) to get the number of dollars each co-owner gets.
+  </ul>
+  <p>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>. This ratio is multiplied by RADs in the “bonus” pool (<em>e.g.</em>, one <span class="_paradigm">RAD</span> per dollar or 115,000 RADs) to get the number of dollars each co-owner gets.
    <div class="_center">
     <img
      src="/assets/img/pings-to-rads-equation.svg"
      width="70%"
      alt="">
    </div>
-   </li>
-  </ul>
- <p>Each employee/co-onwer gets to assign a &ldquo;bonus&rdquo; to the other people they know based on <em>whatever they feel</em> is their contribution. Note that managers can participate as co-owners of the fund because they are employee&rsquo;s, too (<em>i.e.</em>, and they wouldn&rsquo;t have to spend time agonizing over bonus assignments). Over time, more and more bosses would be include in this and finally&hellip; the Executive bonus would be thrown in, with <em>everybody</em> participating.</p>
+  </p>
+  <p>Each employee/co-owner gets to recognize the people they work with. They do this based on <em>whatever they feel</em> is their contribution. Managers would not have to waste time agonizing over this. Next, managers can participate as co-owners of the fund (<em>i.e.</em>, which would now include their bonus pool as well). Over time, more and more bosses, and their bonus pools, would be include in this until, finally, the top executives, and their bonuses, would be included.</p>
  
 <h1 class="_section">APPENDICES</h1>
 
