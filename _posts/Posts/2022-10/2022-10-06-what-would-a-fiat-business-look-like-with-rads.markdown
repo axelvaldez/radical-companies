@@ -58,8 +58,6 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  <table>
   <tr>
    <th>James D. Taiclet</th>
-  </tr>
-  <tr>
    <td>
     <ul>
      <li>Chairman, President and Chief Executive Officer</li>
@@ -71,12 +69,8 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
     </ul>
    </td>
   </tr>
- </table>
- <table>
   <tr>
    <th>Marillyn A. Hewson</th>
-  </tr>
-  <tr>
    <td>
     <ul>
      <li>Strategic Advisor to the CEO; Former Chairman, President and Chief Executive Officer</li>
@@ -90,8 +84,6 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
   </tr>
   <tr>
    <th>Kenneth R. Possenriede</th>
-  </tr>
-  <tr>
    <td>
     <ul>
      <li>Chief Financial Officer</li> 
@@ -105,8 +97,6 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
   </tr>
   <tr>
    <th>Frank A. St. John</th>
-  </tr>
-  <tr>
    <td>
     <ul>
      <li>Chief Operating Officer</li>
@@ -120,8 +110,6 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
   </tr>
   <tr>
    <th>Richard F. Ambrose</th>
-  </tr>
-  <tr>
    <td>
     <ul>
      <li>Executive Vice President, Space</li>
@@ -133,8 +121,6 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
     </ul>
   <tr>
    <th>Michele A. Evans</th>
-  </tr>
-  <tr>
    <td>
     <ul>
      <li>Executive Vice President, Aeronautics</li> 
