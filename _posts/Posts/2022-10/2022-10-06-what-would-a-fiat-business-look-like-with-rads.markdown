@@ -17,11 +17,11 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  <p>To answer that question Adrian had to find the Executive team compensation. Here is his trail,</p>
   <ol>
    <li>You&rsquo;ll find executive compensation is usually not packaged with the Annual Reports.</li>
-   <li>Instead I found the Proxy Statement for the company by searching for &ldquo;<a href="https://www.google.com/search?client=firefox-b-1-d&q=Lockheed+Martin+Proxy+Statement+Executive+Compensation">Company Name Proxy Statement Executive Compensation</a>.&rdquo;</li>
+   <li>Instead I found the Proxy Statement for the company by searching for &ldquo;<a href="https://www.google.com/search?client=firefox-b-1-d&q=Lockheed+Martin+Proxy+Statement+Executive+Compensation">Company Name Proxy Statement Executive Compensation</a>.&rdquo;<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></li>
    <li>Then I searched for a table that shows all the executives and their total compensation (see Appendix).</li>
   </ol> 
- <p>All told, the executives received over $80M in 2020. At the other end, according to <a href="https://www.payscale.com/">payscale.com</a>, the average employee compensation was $85,000 plus a $3,000 annual bonus.</p>
- <p>For the denominator, I also had to find out the number of people who work at Lockheed Martin. According to Wikipedia, they have 115,000 employees, of which 60,000 are engineers and scientists. I found nothing for contractors, which seems suspicious to say the least. Google, for example, employs 121,000 temps and contractors, while only employing 102,000 full-time employees. In any case, I was left to wonder what Lockheed Martin&rsquo;s real headcount is.</p>
+ <p>All told, the executives received over $80M in 2020. At the other end, according to <a href="https://www.payscale.com/">payscale.com</a>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> the average employee compensation was $85,000 plus a $3,000 annual bonus.</p>
+ <p>For the denominator, I also had to find out the number of people who work at Lockheed Martin. According to Wikipedia, <a href="https://en.wikipedia.org/wiki/Lockheed_Martin">they have 115,000 employees, of which 60,000 are engineers and scientists.</a><a href="#en03"><sup id="bm03">3&nbsp;</sup></a> I found nothing for contractors, which seems suspicious to say the least. Google, for example, employs 121,000 temps and contractors, while only employing 102,000 full-time employees. In any case, I was left to wonder what Lockheed Martin&rsquo;s real headcount is.</p>
 
 <h1>They Deserve It!</h1>
  <p>I have friends who say with an entirely straight face that the executive salaries are entirely justified because they do that much more than the average employee. In the case of Lockheed Martin, if we look at the ratio between the CEO and the average employee. He earns over 265 times as much. So here is an engineer working on a satellite or missile, but the CEO is supposedly contributing 265 times more. Maybe he is sending emails 265 times as fast. But of course it&rsquo;s not about quantity and speed. It&rsquo;s about quality. So the CEO must have ideas, for example, that are 265 times as valuable as that satellite engineer.</p>
@@ -138,11 +138,23 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
+    Lockheed Marting Proxy Statement Executive Compensation.
+    <<a href="https://www.google.com/search?client=firefox-b-1-d&q=Lockheed+Martin+Proxy+Statement+Executive+Compensation">https://radicals.world/V4Hf8o</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    payscale.com.
+    <<a href="https://www.payscale.com/">https://www.payscale.com/</a>>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    The number of people who work at Lockheed Martin.
+    <<a href="https://en.wikipedia.org/wiki/Lockheed_Martin">https://en.wikipedia.org/wiki/Lockheed_Martin</a>>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
