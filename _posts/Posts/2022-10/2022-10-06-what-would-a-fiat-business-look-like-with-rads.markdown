@@ -13,27 +13,27 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
 <h1>&nbsp;</h1>
  <p>Imagine that every <span class="_paradigm">FIAT</span> business were to switch to a <span class="_paradigm">RAD</span>s-based pay system. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
  <p>Imagine that every <span class="_paradigm">FIAT</span> business were to switch to a <span class="_paradigm">RAD</span>s-based pay system, but they insisted on doing it very slowly. Their thinking might be that this would give people who can not accept the <span class="_paradigm">RADICAL</span> model time to find a <span class="_paradigm">FIAT</span> job elsewhere. This means that for the first couple of years the pay levels would remain the same. We would have to artificially give everybody enough <span class="_paradigm">RAD</span>s to end up with the same pay, given their revenue. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
- <p>For example, Lockheed’s CEO gets paid $16M. How many RADs would he have to have, given their revenue and profit?</p>
+ <p>For example, Lockheed&rsquo;s CEO gets paid $16M. How many RADs would he have to have, given their revenue and profit?</p>
  <p>To answer that question Adrian had to find the Executive team compensation. Here is his trail,</p>
   <ol>
-   <li>You’ll find executive compensation is usually not packaged with the Annual Reports.</li>
-   <li>Instead I found the Proxy Statement for the company by searching for “<a href="https://www.google.com/search?client=firefox-b-1-d&q=Lockheed+Martin+Proxy+Statement+Executive+Compensation">Company Name Proxy Statement Executive Compensation</a>.”</li>
+   <li>You&rsquo;ll find executive compensation is usually not packaged with the Annual Reports.</li>
+   <li>Instead I found the Proxy Statement for the company by searching for &ldquo;<a href="https://www.google.com/search?client=firefox-b-1-d&q=Lockheed+Martin+Proxy+Statement+Executive+Compensation">Company Name Proxy Statement Executive Compensation</a>.&rdquo;</li>
    <li>Then I searched for a table that shows all the executives and their total compensation (see Appendix).</li>
   </ol> 
  <p>All told, the executives received over $80M in 2020. At the other end, according to <a href="https://www.payscale.com/">payscale.com</a>, the average employee compensation was $85,000 plus a $3,000 annual bonus.</p>
- <p>For the denominator, I also had to find out the number of people who work at Lockheed Martin. According to Wikipedia, they have 115,000 employees, of which 60,000 are engineers and scientists. I found nothing for contractors, which seems suspicious to say the least. Google, for example, employs 121,000 temps and contractors, while only employing 102,000 full-time employees. In any case, I was left to wonder what Lockheed Martin’s real headcount is.</p>
+ <p>For the denominator, I also had to find out the number of people who work at Lockheed Martin. According to Wikipedia, they have 115,000 employees, of which 60,000 are engineers and scientists. I found nothing for contractors, which seems suspicious to say the least. Google, for example, employs 121,000 temps and contractors, while only employing 102,000 full-time employees. In any case, I was left to wonder what Lockheed Martin&rsquo;s real headcount is.</p>
 
-<h1>But They Earned It!</h1>
- <p>I have friends who say with an entirely straight face that the executive salaries are entirely justified because they do that much more than the average employee. In the case of Lockheed Martin, if we look at the ratio between the CEO and the average employee. He earns over 265 times as much. So here is an engineer working on a satellite or missile, but the CEO is supposedly contributing 265 times more. Maybe he is sending emails 265 times as fast. But of course it’s not about quantity and speed. It’s about quality. So the CEO must have ideas, for example, that are 265 times as valuable as that satellite engineer.</p>
+<h1>They Deserve It!</h1>
+ <p>I have friends who say with an entirely straight face that the executive salaries are entirely justified because they do that much more than the average employee. In the case of Lockheed Martin, if we look at the ratio between the CEO and the average employee. He earns over 265 times as much. So here is an engineer working on a satellite or missile, but the CEO is supposedly contributing 265 times more. Maybe he is sending emails 265 times as fast. But of course it&rsquo;s not about quantity and speed. It&rsquo;s about quality. So the CEO must have ideas, for example, that are 265 times as valuable as that satellite engineer.</p>
  <p>I would argue that the ability to make deals that create or destroy sources of revenue, is not a factor of savvy, but a function of the power to make decisions on that scale. Take anyone in the company and give them the same power and they will make decisions that create or destroy sources of revenue at that scale as well.</p>
 
 <h1>Doing It Differently</h1>
  <p>What if the executives income was distributed amongst all the employees of Lockheed Martin? And what if we take the bonuses for the employees and also distribute them equitably to everybody?</p>
- <p>That’s $80M in executive rewards, divided by 115,000 employees. That’s about $700 for each employee. Not that much. It does not even outrank the average bonus of $3000 per employee.</p>
- <p>Equal distribution does not work all that well. Let’s try equitable distribution.</p>
+ <p>That&rsquo;s $80M in executive rewards, divided by 115,000 employees. That&rsquo;s about $700 for each employee. Not that much. It does not even outrank the average bonus of $3000 per employee.</p>
+ <p>Equal distribution does not work all that well. Let&rsquo;s try equitable distribution.</p>
 
 <h1>Equitable Distribution</h1>
- <p>Whereas a lot of people would go for “equitable.” It turns out that there isn’t a formula for it. People have tried categorizing all kind of contributions, but none really do the trick.</p>
+ <p>Whereas a lot of people would go for &ldquo;equitable.&rdquo; It turns out that there isn&rsquo;t a formula for it. People have tried categorizing all kind of contributions, but none really do the trick.</p>
  <p>Even though there is not a formula for it, there is a way to do it by letting all co-workers determine what a valuable contribution is.</p>
  <p>To get the ball started,</p>
   <ul>
@@ -49,7 +49,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
    width="70%"
    alt="">
  </div>
- <p>Each employee gets to assign a “bonus” to the other people they know based on <em>whatever they feel</em> is the other co-owner’s contribution. Managers won’t have to spend time agonizing over bonus assignments.</p>
+ <p>Each employee gets to assign a “bonus” to the other people they know based on <em>whatever they feel</em> is the other co-owner&rsquo;s contribution. Managers won&rsquo;t have to spend time agonizing over bonus assignments.</p>
  
 <h1 class="_section">APPENDICES</h1>
 
