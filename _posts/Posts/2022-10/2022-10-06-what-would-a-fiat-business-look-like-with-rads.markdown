@@ -80,7 +80,6 @@ image:    "icon-what-a-fiat-business-would-look-like-with-rads.svg"
  <p>Each employee gets to assign a “bonus” to the other people they know based on <em>whatever they feel</em> is the other co-owner’s contribution. Managers won’t have to spend time agonizing over bonus assignments.</p>
  
 <h1 class="_section">APPENDIX</h1>
-
 <h1>Compensation</h1>
  <p>For the year 2020, this is what I found,</p>
  <table>
@@ -114,35 +113,51 @@ image:    "icon-what-a-fiat-business-would-look-like-with-rads.svg"
     </ul>
    </td>
   </tr>
- <ul>
-  <li>Kenneth R. Possenriede</li>
-  <li>Chief Financial Officer</li> 
-  <li>$1,000,769 Salary</li> 
-  <li>$3,973,848 Stock Awards</li> 
-  <li>$2,337,700 Non-Equity Incentive Plan Compensation</li> 
-  <li>$170,581 All Other Compensation </li> 
-  <li>$7,482,898 Total</li>
- </ul>
- <ul>
-  <li>Frank A. St. John</li>
-  <li>Chief Operating Officer</li> 
-  <li>$981,202 Salary</li> 
-  <li>$3,984,777 Stock Awards</li> 
-  <li>$3,177,700 Non-Equity Incentive Plan Compensation</li> 
-  <li>$406,495 All Other Compensation </li> 
-  <li>$8,550,174 Total</li>
- </ul>
- <tr>
- <th>Richard F. Ambrose </th>
-  <li>Executive Vice President, Space</li> 
-  <li>$947,212 Salary</li> 
-  <li>$3,418,465 Stock Awards</li> 
-  <li>$3,177,700 Non-Equity Incentive Plan Compensation</li> 
-  <li>$181,380 All Other Compensation </li> 
-  <li>$7,724,757 Total</li>
- </ul>
   <tr>
-   <th>Michele A. Evans </th>
+   <th>Kenneth R. Possenriede</th>
+  </tr>
+  <tr>
+   <td>
+    <ul>
+     <li>Chief Financial Officer</li> 
+     <li>$1,000,769 Salary</li> 
+     <li>$3,973,848 Stock Awards</li> 
+     <li>$2,337,700 Non-Equity Incentive Plan Compensation</li> 
+     <li>$170,581 All Other Compensation</li>
+     <li>$7,482,898 Total</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>Frank A. St. John</th>
+  </tr>
+  <tr>
+   <td>
+    <ul>
+     <li>Chief Operating Officer</li>
+     <li>$981,202 Salary</li> 
+     <li>$3,984,777 Stock Awards</li> 
+     <li>$3,177,700 Non-Equity Incentive Plan Compensation</li> 
+     <li>$406,495 All Other Compensation </li> 
+     <li>$8,550,174 Total</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>Richard F. Ambrose</th>
+  </tr>
+  <tr>
+   <td>
+    <ul>
+     <li>Executive Vice President, Space</li>
+     <li>$947,212 Salary</li> 
+     <li>$3,418,465 Stock Awards</li> 
+     <li>$3,177,700 Non-Equity Incentive Plan Compensation</li> 
+     <li>$181,380 All Other Compensation </li> 
+     <li>$7,724,757 Total</li>
+    </ul>
+  <tr>
+   <th>Michele A. Evans</th>
   </tr>
   <tr>
    <td>
