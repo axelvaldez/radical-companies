@@ -32,8 +32,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
 
 <h1>Doing It Differently</h1>
  <p>Imagine this: what if the executives income was distributed amongst all the employees of Lockheed Martin? What if we take the bonuses for the employees and also distribute them equitably to everybody?</p>
- <p>That&rsquo;s $80M in executive rewards, divided by 115,000 employees. That&rsquo;s about $700 for each employee. Not that much. It does not even outrank the average bonus of $3000 per employee.</p>
- <p>Equal distribution does not work all that well. Let&rsquo;s try equitable distribution.</p>
+ <p>That&rsquo;s $80M in executive rewards, divided by 115,000 employees. That&rsquo;s a little bit over $700 for each employee. Not that much, it is less than the average bonus of $3000 per employee, and it is based on contributions to the business. In other words, equal distribution does not work all that well.</p>
 
 <h1>Equitable Distribution</h1>
  <p>Whereas a lot of people would go for &ldquo;equitable,&rdquo; it turns out that there isn&rsquo;t a genrally agreed formula for it. People have tried all kinds, but none really do the trick for long.</p>
@@ -53,7 +52,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
    </div>
    </li>
   </ul>
- <p>Each employee gets to assign a “bonus” to the other people they know based on <em>whatever they feel</em> is the other co-owner&rsquo;s contribution. Managers won&rsquo;t have to spend time agonizing over bonus assignments.</p>
+ <p>Each employee/co-onwer gets to assign a &ldquo;bonus&rdquo; to the other people they know based on <em>whatever they feel</em> is their contribution. Note that managers can participate as co-owners of the fund because they are employee&rsquo;s, too (<em>i.e.</em>, and they wouldn&rsquo;t have to spend time agonizing over bonus assignments). Over time, more and more bosses would be include in this and finally&hellip; the Executive bonus would be thrown in, with <em>everybody</em> participating.</p>
  
 <h1 class="_section">APPENDICES</h1>
 
