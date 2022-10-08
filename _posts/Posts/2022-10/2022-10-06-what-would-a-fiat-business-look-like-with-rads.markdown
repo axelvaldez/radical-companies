@@ -63,26 +63,26 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  <p>For the year 2020, this is what I found,</p>
  <table style="width:8in; ">
   <tr>
-   <th style="width:1.75in">James D. Taiclet</th>
+   <th style="width:1.75in; font-size:larger; ">James D. Taiclet</th>
    <td style="width:2.25in">
     <ul>
-     <li>Chairman, President and Chief Executive Officer</li>
+     <li style="font-size:larger; ">Chairman, President and Chief Executive Officer</li>
      <li>$915,385 Salary</li>
      <li>$18,611,850 Stock Awards</li>
      <li>$2,896,200 Non-Equity Incentive Plan Compensation</li>
      <li>$936,934 All Other Compensation</li>
-     <li>$23,360,369 Total</li>
+     <li style="font-weight:bold; ">$23,360,369 Total</li>
     </ul>
    </td>
-   <th style="width:2.75in">Marillyn A. Hewson</th>
+   <th style="width:2.75in; font-size:larger; ">Marillyn A. Hewson</th>
    <td style="width:2.25in">
     <ul>
-     <li>Strategic Advisor to the CEO; Former Chairman, President and Chief Executive Officer</li>
+     <li style="font-size:larger; ">Strategic Advisor to the CEO; Former Chairman, President and Chief Executive Officer</li>
      <li> $1,877,519 Salary</li> 
      <li>$12,818,340 Stock Awards</li> 
      <li>$10,639,900 Non-Equity Incentive Plan Compensation</li> 
      <li>$719,066 All Other Compensation</li> 
-     <li>$26,054,825 Total</li>
+     <li style="font-weight:bold; ">$26,054,825 Total</li>
     </ul>
    </td>
   </tr>
@@ -90,26 +90,26 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <th>Kenneth R. Possenriede</th>
+   <th style="font-size:larger; ">Kenneth R. Possenriede</th>
    <td>
     <ul>
-     <li>Chief Financial Officer</li> 
+     <li style="font-size:larger; ">Chief Financial Officer</li> 
      <li>$1,000,769 Salary</li> 
      <li>$3,973,848 Stock Awards</li> 
      <li>$2,337,700 Non-Equity Incentive Plan Compensation</li> 
      <li>$170,581 All Other Compensation</li>
-     <li>$7,482,898 Total</li>
+     <li style="font-weight:bold; ">$7,482,898 Total</li>
     </ul>
    </td>
-   <th>Frank A. St. John</th>
+   <th style="font-size:larger; ">Frank A. St. John</th>
    <td>
     <ul>
-     <li>Chief Operating Officer</li>
+     <li style="font-size:larger; ">Chief Operating Officer</li>
      <li>$981,202 Salary</li> 
      <li>$3,984,777 Stock Awards</li> 
      <li>$3,177,700 Non-Equity Incentive Plan Compensation</li> 
      <li>$406,495 All Other Compensation </li> 
-     <li>$8,550,174 Total</li>
+     <li style="font-weight:bold; ">$8,550,174 Total</li>
     </ul>
    </td>
   </tr>
@@ -117,26 +117,26 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <th>Richard F. Ambrose</th>
+   <th style="font-size:larger; ">Richard F. Ambrose</th>
    <td>
     <ul>
-     <li>Executive Vice President, Space</li>
+     <li style="font-size:larger; ">Executive Vice President, Space</li>
      <li>$947,212 Salary</li> 
      <li>$3,418,465 Stock Awards</li> 
      <li>$3,177,700 Non-Equity Incentive Plan Compensation</li> 
      <li>$181,380 All Other Compensation </li> 
-     <li>$7,724,757 Total</li>
+     <li style="font-weight:bold; ">$7,724,757 Total</li>
     </ul>
    </td>
-   <th>Michele A. Evans</th>
+   <th style="font-size:larger; ">Michele A. Evans</th>
    <td>
     <ul>
-     <li>Executive Vice President, Aeronautics</li> 
+     <li style="font-size:larger; ">Executive Vice President, Aeronautics</li> 
      <li>$947,212 Salary</li> 
      <li>$3,845,716 Stock Awards</li> 
      <li>$2,497,700 Non-Equity Incentive Plan Compensation</li> 
      <li>$218,638 All Other Compensation</li>
-     <li>$7,509,266 Total</li>
+     <li style="font-weight:bold; ">$7,509,266 Total</li>
     </ul>
    </td>
   </tr>
