@@ -116,8 +116,6 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
       <li style="font-weight:bold; ">$7,724,757 Total</li>
      </ul>
     </td>
-   </tr>
-   <tr>
     <th style="background-color:lightgray; ">Michele A. Evans<br>EVP, Aeronautics</th>
     <td style="background-color:lightgray; ">
      <ul>
