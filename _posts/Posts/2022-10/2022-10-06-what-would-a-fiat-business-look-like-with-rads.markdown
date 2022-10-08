@@ -58,92 +58,91 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
  <p>This would still leave us with the pay gap between executives and employees (<em>e.g.</em>, the CEO makes 265 times what an average employee draws). For that we would have to do something about the imposed, <span class="_paradigm">FIAT</span> hierarchy that we assume as a given for businesses.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
  
 <h1 class="_section">APPENDICES</h1>
-
-<h1 class="_section">Wealth Extraction by Lockheed-Martin Bosses</h1>
- <p>For the year 2020, this is what I found,</p>
- <table style="width:8in; ">
-  <tr>
-   <th style="width:1.75in; ">James D. Taiclet</th>
-   <td style="width:2.25in">
-    <ul>
-     <li style="font-size:larger; ">Chairman/President/CEO</li>
-     <li>$915,385 Salary</li>
-     <li>$18,611,850 Stock Awards</li>
-     <li>$2,896,200 Non-Equity Incentive Plan Compensation</li>
-     <li>$936,934 All Other Compensation</li>
-     <li style="font-weight:bold; ">$23,360,369 Total</li>
-    </ul>
-   </td>
-   <th style="width:2.75in; ">Marillyn A. Hewson</th>
-   <td style="width:2.25in">
-    <ul>
-     <li style="font-size:larger; ">Strategic Advisor to CEO; Former Chairman/President/CEO</li>
-     <li> $1,877,519 Salary</li> 
-     <li>$12,818,340 Stock Awards</li> 
-     <li>$10,639,900 Non-Equity Incentive Plan Compensation</li> 
-     <li>$719,066 All Other Compensation</li> 
-     <li style="font-weight:bold; ">$26,054,825 Total</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>Kenneth R. Possenriede</th>
-   <td>
-    <ul>
-     <li style="font-size:larger; ">CFO</li> 
-     <li>$1,000,769 Salary</li> 
-     <li>$3,973,848 Stock Awards</li> 
-     <li>$2,337,700 Non-Equity Incentive Plan Compensation</li> 
-     <li>$170,581 All Other Compensation</li>
-     <li style="font-weight:bold; ">$7,482,898 Total</li>
-    </ul>
-   </td>
-   <th>Frank A. St. John</th>
-   <td>
-    <ul>
-     <li style="font-size:larger; ">COO</li>
-     <li>$981,202 Salary</li> 
-     <li>$3,984,777 Stock Awards</li> 
-     <li>$3,177,700 Non-Equity Incentive Plan Compensation</li> 
-     <li>$406,495 All Other Compensation </li> 
-     <li style="font-weight:bold; ">$8,550,174 Total</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>Richard F. Ambrose</th>
-   <td>
-    <ul>
-     <li style="font-size:larger; ">EVP, Space</li>
-     <li>$947,212 Salary</li> 
-     <li>$3,418,465 Stock Awards</li> 
-     <li>$3,177,700 Non-Equity Incentive Plan Compensation</li> 
-     <li>$181,380 All Other Compensation </li> 
-     <li style="font-weight:bold; ">$7,724,757 Total</li>
-    </ul>
-   </td>
-   <th>Michele A. Evans</th>
-   <td>
-    <ul>
-     <li style="font-size:larger; ">EVP, Aeronautics</li> 
-     <li>$947,212 Salary</li> 
-     <li>$3,845,716 Stock Awards</li> 
-     <li>$2,497,700 Non-Equity Incentive Plan Compensation</li> 
-     <li>$218,638 All Other Compensation</li>
-     <li style="font-weight:bold; ">$7,509,266 Total</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
- </table>
+ <h1>Wealth Extraction by Lockheed-Martin Bosses</h1>
+  <p>For the year 2020, this is what I found,</p>
+  <table style="width:8in; ">
+   <tr>
+    <th style="width:1.75in; ">James D. Taiclet</th>
+    <td style="width:2.25in">
+     <ul>
+      <li style="font-size:larger; ">Chairman/President/CEO</li>
+      <li>$915,385 Salary</li>
+      <li>$18,611,850 Stock Awards</li>
+      <li>$2,896,200 Non-Equity Incentive Plan Compensation</li>
+      <li>$936,934 All Other Compensation</li>
+      <li style="font-weight:bold; ">$23,360,369 Total</li>
+     </ul>
+    </td>
+    <th style="width:2.75in; ">Marillyn A. Hewson</th>
+    <td style="width:2.25in">
+     <ul>
+      <li style="font-size:larger; ">Strategic Advisor to CEO; Former Chairman/President/CEO</li>
+      <li> $1,877,519 Salary</li> 
+      <li>$12,818,340 Stock Awards</li> 
+      <li>$10,639,900 Non-Equity Incentive Plan Compensation</li> 
+      <li>$719,066 All Other Compensation</li> 
+      <li style="font-weight:bold; ">$26,054,825 Total</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
+   <tr>
+    <th>Kenneth R. Possenriede</th>
+    <td>
+     <ul>
+      <li style="font-size:larger; ">CFO</li> 
+      <li>$1,000,769 Salary</li> 
+      <li>$3,973,848 Stock Awards</li> 
+      <li>$2,337,700 Non-Equity Incentive Plan Compensation</li> 
+      <li>$170,581 All Other Compensation</li>
+      <li style="font-weight:bold; ">$7,482,898 Total</li>
+     </ul>
+    </td>
+    <th>Frank A. St. John</th>
+    <td>
+     <ul>
+      <li style="font-size:larger; ">COO</li>
+      <li>$981,202 Salary</li> 
+      <li>$3,984,777 Stock Awards</li> 
+      <li>$3,177,700 Non-Equity Incentive Plan Compensation</li> 
+      <li>$406,495 All Other Compensation </li> 
+      <li style="font-weight:bold; ">$8,550,174 Total</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
+   <tr>
+    <th>Richard F. Ambrose</th>
+    <td>
+     <ul>
+      <li style="font-size:larger; ">EVP, Space</li>
+      <li>$947,212 Salary</li> 
+      <li>$3,418,465 Stock Awards</li> 
+      <li>$3,177,700 Non-Equity Incentive Plan Compensation</li> 
+      <li>$181,380 All Other Compensation </li> 
+      <li style="font-weight:bold; ">$7,724,757 Total</li>
+     </ul>
+    </td>
+    <th>Michele A. Evans</th>
+    <td>
+     <ul>
+      <li style="font-size:larger; ">EVP, Aeronautics</li> 
+      <li>$947,212 Salary</li> 
+      <li>$3,845,716 Stock Awards</li> 
+      <li>$2,497,700 Non-Equity Incentive Plan Compensation</li> 
+      <li>$218,638 All Other Compensation</li>
+      <li style="font-weight:bold; ">$7,509,266 Total</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
+  </table>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
