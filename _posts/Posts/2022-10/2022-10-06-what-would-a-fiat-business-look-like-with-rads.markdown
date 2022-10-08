@@ -85,9 +85,6 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
     </td>
    </tr>
    <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
     <th style="background-color:lightgray; ">Kenneth R. Possenriede<br>CFO</th>
     <td style="background-color:lightgray; ">
      <ul>
@@ -110,8 +107,6 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
     </td>
    </tr>
    <tr>
-    <td class="_spacer"></td>
-   </tr>
    <tr>
     <th style="background-color:gainsboro; ">Richard F. Ambrose<br>EVP, Space</th>
     <td style="background-color:gainsboro; ">
