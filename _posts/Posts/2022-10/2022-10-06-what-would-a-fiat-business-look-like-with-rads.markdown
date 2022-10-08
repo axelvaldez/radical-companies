@@ -62,10 +62,9 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
   <p>For the year 2020, this is what I found,</p>
   <table style="width:8in; ">
    <tr>
-    <th style="background-color:gainsboro; width:1.75in; ">James D. Taiclet</th>
+    <th style="background-color:gainsboro; width:1.75in; ">James D. Taiclet<br>Chairman/President/CEO</th>
     <td style="background-color:gainsboro; width:2.25in; ">
      <ul>
-      <li style="font-size:larger; ">Chairman/President/CEO</li>
       <li>$915,385 Salary</li>
       <li>$18,611,850 Stock Awards</li>
       <li>$2,896,200 Non-Equity Incentive Plan Compensation</li>
@@ -73,11 +72,11 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
       <li style="font-weight:bold; ">$23,360,369 Total</li>
      </ul>
     </td>
-    <th style="width:2.75in; background-color:lightgray; ">Marillyn A. Hewson</th>
+    <th style="width:2.75in; background-color:lightgray; ">Marillyn A. Hewson<br>Strategic Advisor to CEO; Former Chairman/President/CEO</th>
     <td style="width:2.25in; background-color:lightgray; ">
      <ul>
-      <li style="font-size:larger; ">Strategic Advisor to CEO; Former Chairman/President/CEO</li>
-      <li> $1,877,519 Salary</li> 
+      <li style="font-size:larger; "></li>
+      <li>$1,877,519 Salary</li> 
       <li>$12,818,340 Stock Awards</li> 
       <li>$10,639,900 Non-Equity Incentive Plan Compensation</li> 
       <li>$719,066 All Other Compensation</li> 
@@ -89,10 +88,9 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
     <td class="_spacer"></td>
    </tr>
    <tr>
-    <th style="background-color:lightgray; ">Kenneth R. Possenriede</th>
+    <th style="background-color:lightgray; ">Kenneth R. Possenriede<br>CFO</th>
     <td style="background-color:lightgray; ">
      <ul>
-      <li style="font-size:larger; ">CFO</li> 
       <li>$1,000,769 Salary</li> 
       <li>$3,973,848 Stock Awards</li> 
       <li>$2,337,700 Non-Equity Incentive Plan Compensation</li> 
@@ -100,10 +98,9 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
       <li style="font-weight:bold; ">$7,482,898 Total</li>
      </ul>
     </td>
-    <th style="background-color:gainsboro; ">Frank A. St. John</th>
+    <th style="background-color:gainsboro; ">Frank A. St. John<br>COO</th>
     <td style="background-color:gainsboro; ">
      <ul>
-      <li style="font-size:larger; ">COO</li>
       <li>$981,202 Salary</li> 
       <li>$3,984,777 Stock Awards</li> 
       <li>$3,177,700 Non-Equity Incentive Plan Compensation</li> 
@@ -116,10 +113,9 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
     <td class="_spacer"></td>
    </tr>
    <tr>
-    <th style="background-color:gainsboro; ">Richard F. Ambrose</th>
+    <th style="background-color:gainsboro; ">Richard F. Ambrose<br>EVP, Space</th>
     <td style="background-color:gainsboro; ">
      <ul>
-      <li style="font-size:larger; ">EVP, Space</li>
       <li>$947,212 Salary</li> 
       <li>$3,418,465 Stock Awards</li> 
       <li>$3,177,700 Non-Equity Incentive Plan Compensation</li> 
@@ -127,10 +123,9 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
       <li style="font-weight:bold; ">$7,724,757 Total</li>
      </ul>
     </td>
-    <th style="background-color:lightgray; ">Michele A. Evans</th>
+    <th style="background-color:lightgray; ">Michele A. Evans<br>EVP, Aeronautics</th>
     <td style="background-color:lightgray; ">
      <ul>
-      <li style="font-size:larger; ">EVP, Aeronautics</li> 
       <li>$947,212 Salary</li> 
       <li>$3,845,716 Stock Awards</li> 
       <li>$2,497,700 Non-Equity Incentive Plan Compensation</li> 
