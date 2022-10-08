@@ -1,13 +1,13 @@
 ---
 layout:   post
-title:    "How Lockheed Martin Could Ease into Using RADs"
+title:    "Small Bites: How Lockheed Martin Could Ease into Using RADs"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
 image:    "icon-how-lockheed-martin-could-ease-into-using-rads.svg"
 ---
 
 <div style="display:none;">
- <p>Imagine that every <span class="_paradigm">FIAT</span> business were to switch to a <span class="_paradigm">RAD</span>s-based pay system. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
+ <p>Imagine that every <span class="_paradigm">FIAT</span> business, like Lockheed Martin, were to switch to a <span class="_paradigm">RAD</span>s-based pay system. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
 </div>
 
 <h1>&nbsp;</h1>
