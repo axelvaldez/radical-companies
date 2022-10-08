@@ -75,7 +75,6 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
     <th style="width:2.75in; background-color:lightgray; ">Marillyn A. Hewson<br>Strategic Advisor to CEO; Former Chairman/President/CEO</th>
     <td style="width:2.25in; background-color:lightgray; ">
      <ul>
-      <li style="font-size:larger; "></li>
       <li>$1,877,519 Salary</li> 
       <li>$12,818,340 Stock Awards</li> 
       <li>$10,639,900 Non-Equity Incentive Plan Compensation</li> 
