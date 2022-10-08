@@ -17,11 +17,11 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  <p>To answer that question Adrian had to find the Executive team compensation. Here is his trail,</p>
   <ol>
    <li>You&rsquo;ll find executive compensation is usually not packaged with the Annual Reports.</li>
-   <li>Instead I found the Proxy Statement for the company by searching for &ldquo;<a href="https://www.google.com/search?client=firefox-b-1-d&q=Lockheed+Martin+Proxy+Statement+Executive+Compensation">Company Name Proxy Statement Executive Compensation</a>.&rdquo;<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></li>
+   <li>Instead I found the Proxy Statement for the company by searching for &ldquo;Company Name Proxy Statement Executive Compensation</a>.&rdquo;<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></li>
    <li>Then I searched for a table that shows all the executives and their total compensation (see Appendix).</li>
   </ol> 
- <p>All told, the executives received over $80M in 2020. At the other end, according to <a href="https://www.payscale.com/">payscale.com</a>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> the average employee compensation was $85,000 plus a $3,000 annual bonus.</p>
- <p>For the denominator, I also had to find out the number of people who work at Lockheed Martin. According to Wikipedia, <a href="https://en.wikipedia.org/wiki/Lockheed_Martin">they have 115,000 employees, of which 60,000 are engineers and scientists.</a><a href="#en03"><sup id="bm03">3&nbsp;</sup></a> I found nothing for contractors, which seems suspicious to say the least. Google, for example, employs 121,000 temps and contractors, while only employing 102,000 full-time employees. In any case, I was left to wonder what Lockheed Martin&rsquo;s real headcount is.</p>
+ <p>All told, the executives received over $80M in 2020. At the other end, according to <em>payscale.com</em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> the average employee compensation was $85,000 plus a $3,000 annual bonus.</p>
+ <p>For the denominator, I also had to find out the number of people who work at Lockheed Martin. According to Wikipedia, <em>they have 115,000 employees, of which 60,000 are engineers and scientists</em>.</a><a href="#en03"><sup id="bm03">3&nbsp;</sup></a> I found nothing for contractors, which seems suspicious to say the least. Google, for example, employs 121,000 temps and contractors, while only employing 102,000 full-time employees. In any case, I was left to wonder what Lockheed Martin&rsquo;s real headcount is.</p>
 
 <h1>But&hellip; They <em>Deserve</em> It!</h1>
  <p>I have friends who say with an entirely straight face that the executive salaries are entirely justified because they do that much more than the average employee.</p>
@@ -55,7 +55,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
   <p>Each employee/co-owner gets to recognize the people they work with. They do this based on <em>whatever they feel</em> is their contribution. Managers would not have to waste time agonizing over this. Next, managers can participate as co-owners of the fund (<em>i.e.</em>, which would now include their bonus pool as well). Over time, more and more bosses, and their bonus pools, would be include in this until, finally, the top executives, and their bonuses, would be included.</p>
 
 <h1>Not Done, Yet</h1>
- <p>This would still leave us with the pay gap between executives and employees (<em>e.g.</em>, the CEO makes &ldquo;265&rdquo; times what an average employee draws). For that we would have to do something about the imposed <span class="_paradigm">FIAT</span> hierarchy that we assume as a given for businesses.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></p>
+ <p>This would still leave us with the pay gap between executives and employees (<em>e.g.</em>, the CEO makes &ldquo;265&rdquo; times what an average employee draws). For that we would have to do something about the imposed, <span class="_paradigm">FIAT</span> hierarchy that we assume as a given for businesses.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></p>
  
 <h1 class="_section">APPENDICES</h1>
 
