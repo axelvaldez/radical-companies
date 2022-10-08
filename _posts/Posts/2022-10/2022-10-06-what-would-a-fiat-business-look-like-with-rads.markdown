@@ -62,8 +62,8 @@ image:    "icon-how-lockheed-martin-could-ease-into-using-rads.svg"
   <p>For the year 2020, this is what I found,</p>
   <table style="width:8in; ">
    <tr>
-    <th style="background-color:gainsboro; width:1.75in; ">James D. Taiclet<br>Chairman/President/CEO</th>
-    <td style="background-color:gainsboro; width:2.25in; ">
+    <th style="background-color:antiquewhite; width:1.75in; ">James D. Taiclet<br>Chairman/President/CEO</th>
+    <td style="background-color:antiquewhite; width:2.25in; ">
      <ul>
       <li>$915,385 Salary</li>
       <li>$18,611,850 Stock Awards</li>
@@ -94,8 +94,8 @@ image:    "icon-how-lockheed-martin-could-ease-into-using-rads.svg"
       <li style="font-weight:bold; ">$7,482,898 Total</li>
      </ul>
     </td>
-    <th style="background-color:gainsboro; ">Frank A. St. John<br>COO</th>
-    <td style="background-color:gainsboro; ">
+    <th style="background-color:antiquewhite; ">Frank A. St. John<br>COO</th>
+    <td style="background-color:antiquewhite; ">
      <ul>
       <li>$981,202 Salary</li> 
       <li>$3,984,777 Stock Awards</li> 
@@ -106,8 +106,8 @@ image:    "icon-how-lockheed-martin-could-ease-into-using-rads.svg"
     </td>
    </tr>
    <tr>
-    <th style="background-color:gainsboro; ">Richard F. Ambrose<br>EVP, Space</th>
-    <td style="background-color:gainsboro; ">
+    <th style="background-color:antiquewhite; ">Richard F. Ambrose<br>EVP, Space</th>
+    <td style="background-color:antiquewhite; ">
      <ul>
       <li>$947,212 Salary</li> 
       <li>$3,418,465 Stock Awards</li> 
