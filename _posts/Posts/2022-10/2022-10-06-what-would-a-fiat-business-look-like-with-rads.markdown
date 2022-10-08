@@ -47,7 +47,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
   <p>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>. This ratio is multiplied by RADs in the “bonus” pool (<em>e.g.</em>, one <span class="_paradigm">RAD</span> per dollar or 115,000 RADs) to get the number of dollars each co-owner gets.
    <div class="_center">
     <img
-     src="/assets/img/pings-to-rads-equation.svg"
+     src="/assets/img/rads-to-dollars-at-lockheedmartin.svg"
      width="70%"
      alt="">
    </div>
