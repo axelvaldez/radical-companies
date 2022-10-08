@@ -44,7 +44,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
    <li>Each employees would recognize the contributions of the handful of people each knows.</li>
    <li>Everybody would be recognized this way.</li>
   </ul>
-  <p>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>. This ratio is multiplied by RADs in the “bonus” pool (<em>e.g.</em>, one <span class="_paradigm">RAD</span> per dollar or 115,000 RADs) to get the number of dollars each co-owner gets.
+  <p>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>. This ratio is multiplied by RADs in the &ldquo;bonus&rdquo; pool to get the number of dollars each co-owner gets<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>.
    <div class="_center">
     <img
      src="/assets/img/rads-to-bonusdollars-at-lockheedmartin.svg"
@@ -55,7 +55,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
   <p>Each employee/co-owner gets to recognize the people they work with. They do this based on <em>whatever they feel</em> is their contribution. Managers would not have to waste time agonizing over this. Next, managers can participate as co-owners of the fund (<em>i.e.</em>, which would now include their bonus pool as well). Over time, more and more bosses, and their bonus pools, would be include in this until, finally, the top executives, and their bonuses, would be included.</p>
 
 <h1>Not Done, Yet</h1>
- <p>This would still leave us with the pay gap between executives and employees (<em>e.g.</em>, the CEO makes 265 times what an average employee draws). For that we would have to do something about the imposed, <span class="_paradigm">FIAT</span> hierarchy that we assume as a given for businesses.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></p>
+ <p>This would still leave us with the pay gap between executives and employees (<em>e.g.</em>, the CEO makes 265 times what an average employee draws). For that we would have to do something about the imposed, <span class="_paradigm">FIAT</span> hierarchy that we assume as a given for businesses.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
  
 <h1 class="_section">APPENDICES</h1>
 
@@ -170,11 +170,19 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
   </li>
   <li id="en04">
    <p class="_list-item">
+    The word <em>bonus</em> is in quotes because by itself it indicates that this is a reward given by the benevolent bosses for doing good work. In reality, this (plus the Executive Bonus, plus any other dividends distributed) is the wealth created by the work the employees did. For more details, see
+    </em>RADICAL COMPANIES: Without Bosses or Employee.</em>
+    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en05">
+   <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
     </em>RADICAL COMPANIES for the Impatient.</em>
     2001.
     <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
