@@ -63,7 +63,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  <p>For the year 2020, this is what I found,</p>
  <table style="width:8in; ">
   <tr>
-   <th style="width:1.75in; font-size:larger; ">James D. Taiclet</th>
+   <th style="width:1.75in; ">James D. Taiclet</th>
    <td style="width:2.25in">
     <ul>
      <li style="font-size:larger; ">Chairman, President, and CEO</li>
@@ -74,7 +74,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
      <li style="font-weight:bold; ">$23,360,369 Total</li>
     </ul>
    </td>
-   <th style="width:2.75in; font-size:larger; ">Marillyn A. Hewson</th>
+   <th style="width:2.75in; ">Marillyn A. Hewson</th>
    <td style="width:2.25in">
     <ul>
      <li style="font-size:larger; ">Strategic Advisor to CEO; Former Chairman, President, and CEO</li>
@@ -90,7 +90,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <th style="font-size:larger; ">Kenneth R. Possenriede</th>
+   <th>Kenneth R. Possenriede</th>
    <td>
     <ul>
      <li style="font-size:larger; ">CFO</li> 
@@ -101,7 +101,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
      <li style="font-weight:bold; ">$7,482,898 Total</li>
     </ul>
    </td>
-   <th style="font-size:larger; ">Frank A. St. John</th>
+   <th>Frank A. St. John</th>
    <td>
     <ul>
      <li style="font-size:larger; ">COO</li>
@@ -117,7 +117,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <th style="font-size:larger; ">Richard F. Ambrose</th>
+   <th>Richard F. Ambrose</th>
    <td>
     <ul>
      <li style="font-size:larger; ">EVP, Space</li>
@@ -128,7 +128,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
      <li style="font-weight:bold; ">$7,724,757 Total</li>
     </ul>
    </td>
-   <th style="font-size:larger; ">Michele A. Evans</th>
+   <th>Michele A. Evans</th>
    <td>
     <ul>
      <li style="font-size:larger; ">EVP, Aeronautics</li> 
