@@ -17,11 +17,11 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  <p>To answer that question Adrian had to find the Executive team compensation. Here is his trail,</p>
   <ol>
    <li>You&rsquo;ll find executive compensation is usually not packaged with the Annual Reports.</li>
-   <li>Instead I found the Proxy Statement for the company by searching for &ldquo;Company Name Proxy Statement Executive Compensation</a>.&rdquo;<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></li>
+   <li>Instead I found the Proxy Statement for the company by searching for &ldquo;Company Name Proxy Statement Executive Compensation.&rdquo;<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></li>
    <li>Then I searched for a table that shows all the executives and their total compensation (see Appendix).</li>
   </ol> 
  <p>All told, the executives received over $80M in 2020. At the other end, according to <em>payscale.com</em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> the average employee compensation was $85,000 plus a $3,000 annual bonus.</p>
- <p>For the denominator, I also had to find out the number of people who work at Lockheed Martin. According to Wikipedia, <em>they have 115,000 employees, of which 60,000 are engineers and scientists</em>.</a><a href="#en03"><sup id="bm03">3&nbsp;</sup></a> I found nothing for contractors, which seems suspicious to say the least. Google, for example, employs 121,000 temps and contractors, while only employing 102,000 full-time employees. In any case, I was left to wonder what Lockheed Martin&rsquo;s real headcount is.</p>
+ <p>For the denominator, I also had to find out the number of people who work at Lockheed Martin. According to Wikipedia, <em>they have 115,000 employees, of which 60,000 are engineers and scientists</em>.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> I found nothing for contractors, which seems suspicious to say the least. Google, for example, employs 121,000 temps and contractors, while only employing 102,000 full-time employees. In any case, I was left to wonder what Lockheed Martin&rsquo;s real headcount is.</p>
 
 <h1>But&hellip; <em>They Deserve It!</em></h1>
  <p>I have friends who say with an entirely straight face that the executive salaries are entirely justified because they do that much more than the average employee.</p>
