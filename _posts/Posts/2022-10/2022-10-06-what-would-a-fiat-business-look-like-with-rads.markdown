@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "What Would a FIAT Business Look Like with RADs?"
+title:    "How Lockheed Martin Could Ease into the RADICAL model"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
-image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
+image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-would-a-fiat-business-look-like-with-rads.svg"
 ---
 
 <div style="display:none;">
