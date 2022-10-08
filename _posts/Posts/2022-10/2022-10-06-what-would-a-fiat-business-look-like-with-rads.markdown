@@ -125,6 +125,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
      <li>$181,380 All Other Compensation </li> 
      <li>$7,724,757 Total</li>
     </ul>
+  </tr>
   <tr>
    <th>Michele A. Evans</th>
    <td>
