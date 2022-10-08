@@ -76,6 +76,9 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
    </td>
   </tr>
   <tr>
+   <td class="_spacer"></td>
+  </tr>
+  <tr>
    <th>Marillyn A. Hewson</th>
    <td>
     <ul>
@@ -87,6 +90,9 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
      <li>$26,054,825 Total</li>
     </ul>
    </td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
   </tr>
   <tr>
    <th>Kenneth R. Possenriede</th>
@@ -102,6 +108,9 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
    </td>
   </tr>
   <tr>
+   <td class="_spacer"></td>
+  </tr>
+  <tr>
    <th>Frank A. St. John</th>
    <td>
     <ul>
@@ -113,6 +122,9 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
      <li>$8,550,174 Total</li>
     </ul>
    </td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
   </tr>
   <tr>
    <th>Richard F. Ambrose</th>
@@ -128,6 +140,9 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
    </td>
   </tr>
   <tr>
+   <td class="_spacer"></td>
+  </tr>
+  <tr>
    <th>Michele A. Evans</th>
    <td>
     <ul>
@@ -139,6 +154,9 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
      <li>$7,509,266 Total</li>
     </ul>
    </td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
   </tr>
  </table>
 
