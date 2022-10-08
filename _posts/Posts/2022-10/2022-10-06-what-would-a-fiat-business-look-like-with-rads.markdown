@@ -62,10 +62,10 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
 <h1 class="_section">What Lockheed-Martin Bosses Extract from the Business</h1>
  <p>For the year 2020, this is what I found,</p>
 
- <table style="width:9in; ">
+ <table style="width:8in; ">
   <tr>
-   <th style="width:2.0in">James D. Taiclet</th>
-   <td style="width:2.5in">
+   <th style="width:1.75in">James D. Taiclet</th>
+   <td style="width:2.25in">
     <ul>
      <li>Chairman, President and Chief Executive Officer</li>
      <li>$915,385 Salary</li>
@@ -75,8 +75,8 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
      <li>$23,360,369 Total</li>
     </ul>
    </td>
-   <th style="width:2.0in">Marillyn A. Hewson</th>
-   <td style="width:2.5in">
+   <th style="width:2.75in">Marillyn A. Hewson</th>
+   <td style="width:2.25in">
     <ul>
      <li>Strategic Advisor to the CEO; Former Chairman, President and Chief Executive Officer</li>
      <li> $1,877,519 Salary</li> 
