@@ -73,7 +73,7 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
       <li style="font-weight:bold; ">$23,360,369 Total</li>
      </ul>
     </td>
-    <th style="width:2.75in; border-left=1px solid black; ">Marillyn A. Hewson</th>
+    <th style="width:2.75in; border-left:1px solid black; ">Marillyn A. Hewson</th>
     <td style="width:2.25in">
      <ul>
       <li style="font-size:larger; ">Strategic Advisor to CEO; Former Chairman/President/CEO</li>
