@@ -133,13 +133,13 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
      <li>$947,212 Salary</li> 
      <li>$3,845,716 Stock Awards</li> 
      <li>$2,497,700 Non-Equity Incentive Plan Compensation</li> 
-     <li>$218,638 All Other Compensation 
+     <li>$218,638 All Other Compensation</li>
      <li>$7,509,266 Total</li>
     </ul>
    </td>
   </tr>
  </table>
-xxx
+
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
