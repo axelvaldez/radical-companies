@@ -166,10 +166,9 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
   <li id="en04">
    <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
-    RADICAL COMPANIES for the Impatient.
-    <<a href=""></a>>
+    </em>RADICAL COMPANIES for the Impatient.</em>
     2001.
-    <a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>
+    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
