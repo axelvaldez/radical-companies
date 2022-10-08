@@ -65,7 +65,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  <table>
   <tr>
    <th style="width:4in">James D. Taiclet</th>
-   <td style="width:6in">
+   <td style="width:4.5in">
     <ul>
      <li>Chairman, President and Chief Executive Officer</li>
      <li>$915,385 Salary</li>
