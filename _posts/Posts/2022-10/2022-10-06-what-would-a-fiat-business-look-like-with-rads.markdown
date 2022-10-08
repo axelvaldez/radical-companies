@@ -64,8 +64,8 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
 
  <table>
   <tr>
-   <th style="width:4in">James D. Taiclet</th>
-   <td style="width:4.5in">
+   <th style="width:1.5in">James D. Taiclet</th>
+   <td style="width:2in">
     <ul>
      <li>Chairman, President and Chief Executive Officer</li>
      <li>$915,385 Salary</li>
@@ -75,8 +75,8 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
      <li>$23,360,369 Total</li>
     </ul>
    </td>
-   <th>Marillyn A. Hewson</th>
-   <td>
+   <th style="width:1.5in">Marillyn A. Hewson</th>
+   <td style="width:2in">
     <ul>
      <li>Strategic Advisor to the CEO; Former Chairman, President and Chief Executive Officer</li>
      <li> $1,877,519 Salary</li> 
