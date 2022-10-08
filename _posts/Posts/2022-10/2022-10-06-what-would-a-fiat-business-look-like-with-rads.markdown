@@ -63,8 +63,8 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  <p>For the year 2020, this is what I found,</p>
  <table>
   <tr>
-   <th>James D. Taiclet</th>
-   <td>
+   <th style="width:1.5in">James D. Taiclet</th>
+   <td style="width:3.0in">
     <ul>
      <li>Chairman, President and Chief Executive Officer</li>
      <li>$915,385 Salary</li>
