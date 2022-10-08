@@ -106,7 +106,6 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
     </td>
    </tr>
    <tr>
-   <tr>
     <th style="background-color:gainsboro; ">Richard F. Ambrose<br>EVP, Space</th>
     <td style="background-color:gainsboro; ">
      <ul>
@@ -117,6 +116,8 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
       <li style="font-weight:bold; ">$7,724,757 Total</li>
      </ul>
     </td>
+   </tr>
+   <tr>
     <th style="background-color:lightgray; ">Michele A. Evans<br>EVP, Aeronautics</th>
     <td style="background-color:lightgray; ">
      <ul>
