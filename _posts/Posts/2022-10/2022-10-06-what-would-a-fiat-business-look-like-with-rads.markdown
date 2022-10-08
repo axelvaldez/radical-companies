@@ -61,6 +61,93 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
 
 <h1 class="_section">What Lockheed-Martin Bosses Extract from the Business</h1>
  <p>For the year 2020, this is what I found,</p>
+
+ <table>
+  <tr>
+   <th style="width:2in">James D. Taiclet</th>
+   <td style="width:3in">
+    <ul>
+     <li>Chairman, President and Chief Executive Officer</li>
+     <li>$915,385 Salary</li>
+     <li>$18,611,850 Stock Awards</li>
+     <li>$2,896,200 Non-Equity Incentive Plan Compensation</li>
+     <li>$936,934 All Other Compensation</li>
+     <li>$23,360,369 Total</li>
+    </ul>
+   </td>
+   <th>Marillyn A. Hewson</th>
+   <td>
+    <ul>
+     <li>Strategic Advisor to the CEO; Former Chairman, President and Chief Executive Officer</li>
+     <li> $1,877,519 Salary</li> 
+     <li>$12,818,340 Stock Awards</li> 
+     <li>$10,639,900 Non-Equity Incentive Plan Compensation</li> 
+     <li>$719,066 All Other Compensation</li> 
+     <li>$26,054,825 Total</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
+  </tr>
+  <tr>
+   <th>Kenneth R. Possenriede</th>
+   <td>
+    <ul>
+     <li>Chief Financial Officer</li> 
+     <li>$1,000,769 Salary</li> 
+     <li>$3,973,848 Stock Awards</li> 
+     <li>$2,337,700 Non-Equity Incentive Plan Compensation</li> 
+     <li>$170,581 All Other Compensation</li>
+     <li>$7,482,898 Total</li>
+    </ul>
+   </td>
+   <th>Frank A. St. John</th>
+   <td>
+    <ul>
+     <li>Chief Operating Officer</li>
+     <li>$981,202 Salary</li> 
+     <li>$3,984,777 Stock Awards</li> 
+     <li>$3,177,700 Non-Equity Incentive Plan Compensation</li> 
+     <li>$406,495 All Other Compensation </li> 
+     <li>$8,550,174 Total</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
+  </tr>
+  <tr>
+   <th>Richard F. Ambrose</th>
+   <td>
+    <ul>
+     <li>Executive Vice President, Space</li>
+     <li>$947,212 Salary</li> 
+     <li>$3,418,465 Stock Awards</li> 
+     <li>$3,177,700 Non-Equity Incentive Plan Compensation</li> 
+     <li>$181,380 All Other Compensation </li> 
+     <li>$7,724,757 Total</li>
+    </ul>
+   </td>
+   <th>Michele A. Evans</th>
+   <td>
+    <ul>
+     <li>Executive Vice President, Aeronautics</li> 
+     <li>$947,212 Salary</li> 
+     <li>$3,845,716 Stock Awards</li> 
+     <li>$2,497,700 Non-Equity Incentive Plan Compensation</li> 
+     <li>$218,638 All Other Compensation</li>
+     <li>$7,509,266 Total</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
+  </tr>
+ </table>
+
+
+
  <table>
   <tr>
    <th style="width:2in">James D. Taiclet</th>
