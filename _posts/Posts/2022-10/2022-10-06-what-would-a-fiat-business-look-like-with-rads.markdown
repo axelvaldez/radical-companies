@@ -62,8 +62,8 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
   <p>For the year 2020, this is what I found,</p>
   <table style="width:8in; ">
    <tr>
-    <th style="width:1.75in; ">James D. Taiclet</th>
-    <td style="width:2.25in">
+    <th style="background-color:gainsboro; width:1.75in; ">James D. Taiclet</th>
+    <td style="background-color:gainsboro; width:2.25in; ">
      <ul>
       <li style="font-size:larger; ">Chairman/President/CEO</li>
       <li>$915,385 Salary</li>
@@ -100,8 +100,8 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
       <li style="font-weight:bold; ">$7,482,898 Total</li>
      </ul>
     </td>
-    <th>Frank A. St. John</th>
-    <td>
+    <th style="background-color:gainsboro; ">Frank A. St. John</th>
+    <td style="background-color:gainsboro; ">
      <ul>
       <li style="font-size:larger; ">COO</li>
       <li>$981,202 Salary</li> 
@@ -116,8 +116,8 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
     <td class="_spacer"></td>
    </tr>
    <tr>
-    <th>Richard F. Ambrose</th>
-    <td>
+    <th style="background-color:gainsboro; ">Richard F. Ambrose</th>
+    <td style="background-color:gainsboro; ">
      <ul>
       <li style="font-size:larger; ">EVP, Space</li>
       <li>$947,212 Salary</li> 
