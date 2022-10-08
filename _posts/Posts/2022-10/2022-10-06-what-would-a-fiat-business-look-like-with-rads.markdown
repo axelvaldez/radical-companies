@@ -44,7 +44,7 @@ image:    "icon-how-lockheed-martin-could-ease-into-using-rads.svg"
    <li>Each employees would recognize the contributions of the handful of people each knows.</li>
    <li>Everybody would be recognized this way.</li>
   </ul>
-  <p>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>. This ratio is multiplied by <span class="_paradigm">RAD</span>s in the &ldquo;bonus&rdquo; pool to get the number of dollars each co-owner gets.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
+  <p>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>. This ratio is multiplied by <span class="_paradigm">RAD</span>s/dollars in the &ldquo;bonus&rdquo; pool to calculate the number of dollars each co-owner gets.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
    <div class="_center">
     <img
      src="/assets/img/rads-to-bonusdollars-at-lockheedmartin.svg"
