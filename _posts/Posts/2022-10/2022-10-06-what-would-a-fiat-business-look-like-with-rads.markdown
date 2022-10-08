@@ -64,7 +64,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
 
  <table>
   <tr>
-   <th style="width:1.5in">James D. Taiclet</th>
+   <th style="width2in">James D. Taiclet</th>
    <td style="width:2in">
     <ul>
      <li>Chairman, President and Chief Executive Officer</li>
@@ -75,7 +75,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
      <li>$23,360,369 Total</li>
     </ul>
    </td>
-   <th style="width:1.5in">Marillyn A. Hewson</th>
+   <th style="width:2in">Marillyn A. Hewson</th>
    <td style="width:2in">
     <ul>
      <li>Strategic Advisor to the CEO; Former Chairman, President and Chief Executive Officer</li>
