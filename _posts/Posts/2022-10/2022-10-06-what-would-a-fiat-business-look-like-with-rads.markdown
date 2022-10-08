@@ -55,7 +55,7 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
   <p>Each employee/co-owner gets to recognize the people they work with. They do this based on <em>whatever they feel</em> is their contribution. Managers would not have to waste time agonizing over this. Next, managers can participate as co-owners of the fund (<em>i.e.</em>, which would now include their bonus pool as well). Over time, more and more bosses, and their bonus pools, would be include in this until, finally, the top executives, and their bonuses, would be included.</p>
 
 <h1>But–Wait–There Is More!</h1>
- <p>This still leaves us with the pay gap between executives and employees (<em>e.g.</em>, the CEO makes 265 times what an average employee draws). For that we would have to do something about the imposed, <span class="_paradigm">FIAT</span> hierarchy that we assume as a given for businesses. Once that&rsquo;s done, Lockheed Martin would be ready to align salaries with the Distribution of <span class="_paradigm">RAD</span>s.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
+ <p>This still leaves us with the pay gap between executives and employees (<em>e.g.</em>, the CEO makes 265 times what an average employee draws). For that we would have to do something about the imposed, <span class="_paradigm">FIAT</span> hierarchy (<em>i.e.</em>, it is not a given for businesses as we assume). Once that&rsquo;s done, Lockheed Martin would be ready to align salaries with the Distribution of <span class="_paradigm">RAD</span>s.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
  
 <h1 class="_section">APPENDICES</h1>
  <h1>Wealth Extraction by Lockheed-Martin Bosses</h1>
