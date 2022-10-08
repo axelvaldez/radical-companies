@@ -72,8 +72,8 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
       <li style="font-weight:bold; ">$23,360,369 Total</li>
      </ul>
     </td>
-    <th style="width:2.75in; background-color:ghostwhite; ">Marillyn A. Hewson<br>Strategic Advisor to CEO; Former Chairman/President/CEO</th>
-    <td style="width:2.25in; background-color:ghostwhite; ">
+    <th style="width:2.75in; background-color:floralwhite; ">Marillyn A. Hewson<br>Strategic Advisor to CEO; Former Chairman/President/CEO</th>
+    <td style="width:2.25in; background-color:floralwhite; ">
      <ul>
       <li>$1,877,519 Salary</li> 
       <li>$12,818,340 Stock Awards</li> 
@@ -84,8 +84,8 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
     </td>
    </tr>
    <tr>
-    <th style="background-color:ghostwhite; ">Kenneth R. Possenriede<br>CFO</th>
-    <td style="background-color:ghostwhite; ">
+    <th style="background-color:floralwhite; ">Kenneth R. Possenriede<br>CFO</th>
+    <td style="background-color:floralwhite; ">
      <ul>
       <li>$1,000,769 Salary</li> 
       <li>$3,973,848 Stock Awards</li> 
@@ -116,8 +116,8 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
       <li style="font-weight:bold; ">$7,724,757 Total</li>
      </ul>
     </td>
-    <th style="background-color:ghostwhite; ">Michele A. Evans<br>EVP, Aeronautics</th>
-    <td style="background-color:ghostwhite; ">
+    <th style="background-color:floralwhite; ">Michele A. Evans<br>EVP, Aeronautics</th>
+    <td style="background-color:floralwhite; ">
      <ul>
       <li>$947,212 Salary</li> 
       <li>$3,845,716 Stock Awards</li> 
