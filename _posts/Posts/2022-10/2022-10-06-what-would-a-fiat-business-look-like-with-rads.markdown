@@ -160,7 +160,7 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
   <li id="en04">
    <p class="_list-item">
     The word <em>bonus</em> is in quotes because by itself it indicates that this is a reward given by the benevolent bosses for doing good work. In reality, this (plus the Executive Bonus, plus any other dividends distributed) is the wealth created by the work the employees did. For more details, see
-    </em>RADICAL COMPANIES: Without Bosses or Employee.</em>
+    <em>RADICAL COMPANIES: Without Bosses or Employee.</em>
     <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
@@ -168,7 +168,7 @@ image:    "icon-how-lockheed-martin-could-ease-into-the-radical-model.svg what-w
   <li id="en05">
    <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
-    </em>RADICAL COMPANIES for the Impatient.</em>
+    <em>RADICAL COMPANIES for the Impatient.</em>
     2001.
     <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
