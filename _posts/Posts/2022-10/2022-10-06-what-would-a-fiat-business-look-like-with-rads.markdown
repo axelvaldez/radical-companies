@@ -63,8 +63,8 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  <p>For the year 2020, this is what I found,</p>
  <table>
   <tr>
-   <th style="width:1.5in">James D. Taiclet</th>
-   <td style="width:3.0in">
+   <th style="width:2in">James D. Taiclet</th>
+   <td style="width:3in">
     <ul>
      <li>Chairman, President and Chief Executive Officer</li>
      <li>$915,385 Salary</li>
@@ -75,8 +75,6 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
     </ul>
    </td>
   </tr>
- </table>
- <table>
   <tr>
    <th>Marillyn A. Hewson</th>
    <td>
@@ -90,8 +88,6 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
     </ul>
    </td>
   </tr>
- </table>
- <table>
   <tr>
    <th>Kenneth R. Possenriede</th>
    <td>
@@ -105,8 +101,6 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
     </ul>
    </td>
   </tr>
- </table>
- <table>
   <tr>
    <th>Frank A. St. John</th>
    <td>
@@ -120,8 +114,6 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
     </ul>
    </td>
   </tr>
- </table>
- <table>
   <tr>
    <th>Richard F. Ambrose</th>
    <td>
@@ -133,9 +125,8 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
      <li>$181,380 All Other Compensation </li> 
      <li>$7,724,757 Total</li>
     </ul>
+   </td>
   </tr>
- </table>
- <table>
   <tr>
    <th>Michele A. Evans</th>
    <td>
