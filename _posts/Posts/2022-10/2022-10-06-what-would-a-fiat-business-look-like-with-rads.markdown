@@ -66,7 +66,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
    <th style="width:1.75in; ">James D. Taiclet</th>
    <td style="width:2.25in">
     <ul>
-     <li style="font-size:larger; ">Chairman, President, and CEO</li>
+     <li style="font-size:larger; ">Chairman/President/CEO</li>
      <li>$915,385 Salary</li>
      <li>$18,611,850 Stock Awards</li>
      <li>$2,896,200 Non-Equity Incentive Plan Compensation</li>
@@ -77,7 +77,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
    <th style="width:2.75in; ">Marillyn A. Hewson</th>
    <td style="width:2.25in">
     <ul>
-     <li style="font-size:larger; ">Strategic Advisor to CEO; Former Chairman, President, and CEO</li>
+     <li style="font-size:larger; ">Strategic Advisor to CEO; Former Chairman/President/CEO</li>
      <li> $1,877,519 Salary</li> 
      <li>$12,818,340 Stock Awards</li> 
      <li>$10,639,900 Non-Equity Incentive Plan Compensation</li> 
