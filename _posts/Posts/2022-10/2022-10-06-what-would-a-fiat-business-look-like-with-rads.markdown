@@ -54,8 +54,8 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
   </p>
   <p>Each employee/co-owner gets to recognize the people they work with. They do this based on <em>whatever they feel</em> is their contribution. Managers would not have to waste time agonizing over this. Next, managers can participate as co-owners of the fund (<em>i.e.</em>, which would now include their bonus pool as well). Over time, more and more bosses, and their bonus pools, would be include in this until, finally, the top executives, and their bonuses, would be included.</p>
 
-<h1>We Are Not Done, Yet</h1>
- <p>This would still leave us with the pay gap between executives and employees (<em>e.g.</em>, the CEO makes &ldquo;265&rdquo; times what an average employee draws). For that we would have to do something about the imposed <span class="_paradigm">FIAT</span> hierarchy that we assume as a given for businesses.</p>
+<h1>Not Done, Yet</h1>
+ <p>This would still leave us with the pay gap between executives and employees (<em>e.g.</em>, the CEO makes &ldquo;265&rdquo; times what an average employee draws). For that we would have to do something about the imposed <span class="_paradigm">FIAT</span> hierarchy that we assume as a given for businesses.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></p>
  
 <h1 class="_section">APPENDICES</h1>
 
