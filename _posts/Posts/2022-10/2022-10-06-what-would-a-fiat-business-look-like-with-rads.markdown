@@ -59,7 +59,7 @@ image:    "icon-what-would-a-fiat-business-look-like-with-rads.svg"
  
 <h1 class="_section">APPENDICES</h1>
 
-<h1 class="_section">What Lockheed-Martin Bosses Extract from the Business</h1>
+<h1 class="_section">Wealth Extraction by Lockheed-Martin Bosses</h1>
  <p>For the year 2020, this is what I found,</p>
  <table style="width:8in; ">
   <tr>
