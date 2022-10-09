@@ -150,15 +150,15 @@ image:    "icon-how-lockheed-martin-could-ease-into-using-rads.svg"
   </li>
   <li id="en03">
    <p class="_list-item">
-    <em>OnContracting</em>.
-    <<a href="https://diigo.com/0q9atx" target="_blank">https://diigo.com/0q9atx</a>>
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>    
-  <li id="en04">
-   <p class="_list-item">
     The number of people who work at Lockheed Martin.
     <<a href="https://en.wikipedia.org/wiki/Lockheed_Martin" target="_blank">https://en.wikipedia.org/wiki/Lockheed_Martin</a>>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item">
+    <em>OnContracting</em>.
+    <<a href="https://diigo.com/0q9atx" target="_blank">https://diigo.com/0q9atx</a>>
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
