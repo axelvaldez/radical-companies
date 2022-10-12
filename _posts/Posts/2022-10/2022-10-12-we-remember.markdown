@@ -10,7 +10,7 @@ image:    "icon-about-daos.svg"
  <p>We remember what makes feel. We dont&rsquo;t forget what was so hurtful or what was lovingly said.</p>
 </div>
 
- <div class="_quotation" style="margin-bottom:0; ">
+ <div class="_citation" style="margin-bottom:0; ">
   People will forget what you said, people will forget what you did, but people will never forget how you made them feel
   <p class="_signature">Maya Angelou<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
  </div>
