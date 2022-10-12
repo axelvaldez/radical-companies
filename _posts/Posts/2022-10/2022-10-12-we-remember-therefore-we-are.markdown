@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "We Remember"
+title:    "We Remember, Therefore We Are"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-about-daos.svg"
