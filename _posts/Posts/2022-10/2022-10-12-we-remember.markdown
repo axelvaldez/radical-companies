@@ -20,7 +20,7 @@ image:    "icon-about-daos.svg"
  <p>This is what came up after reading <em>Consciousness as a Memory System</em>. It describes the authors&rsquo; theory of &ldquo;conciousness as memory,&rdquo; how we think and how we perceive the world around us.</p>
  <div class="_citation">
   Consciousness is directed toward an object; it is about something (ie, intentionality). We experience consciousness as unified, as one experience, rather than as separate experiences of sights, sounds, smells, thoughts, feelings, and so on (<em>ie</em>, unity). We have the capacity to be conscious of some things and not others (ie, selectivity). Objects of consciousness are there transiently; the contents of consciousness tend to change (<em>ie</em>, transience).
-  <p class="_signature"> Andrew Budson, Kenneth Richman, Elizabeth Kensinger. <em>Consciousness as a Memory System</em>.</p>
+  <p class="_signature"> Andrew Budson, Kenneth Richman, Elizabeth Kensinger.<br><em>Consciousness as a Memory System</em>.</p>
  </div>
  <p>I think I was thinking about <em>what</em> we remember, how we choose to spend that energy, and what we never commit to memory.</p>
 <h1 class="_section">ENDNOTES</h1>
