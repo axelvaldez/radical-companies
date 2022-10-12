@@ -7,7 +7,7 @@ image:    "icon-about-daos.svg"
 ---
 
 <div style="display:none;">
- <p>e remember what makes feel. We dont&rsquo;t forget what was so hurtful or what was lovingly said.</p>
+ <p>We remember what makes feel. We dont&rsquo;t forget what was so hurtful or what was lovingly said.</p>
 </div>
 
 <h1>&nbsp;</h1>
