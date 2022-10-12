@@ -299,7 +299,7 @@ td._spacer:after {
   font-family:sans-serif;
   font-size:small;
 }
-._quotation {
+._quotation, ._citation {
   text-align:justify;
 
   font-style:italic;
@@ -314,11 +314,14 @@ td._spacer:after {
   width:80%;
   margin:0 auto 30px auto;
 }
-._quotation ._signature {
+._citation {
+  padding-bottom:20px;
+}
+._citation ._signature {
   font-style:italic;
   font-size:smaller;
 }
-._quotation ._signature::before {
+._citation ._signature::before {
   content:"—"
 }
 ._mb0 {
