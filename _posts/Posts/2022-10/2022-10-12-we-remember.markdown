@@ -14,7 +14,7 @@ image:    "icon-about-daos.svg"
  <p>We remember what makes feel, what is  meaningful, the horrific and the joyful.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
  <p>We forget words or actions, but we dont&rsquo;t forget what was so hurtful or what was lovingly said.</p>
  <div class="_quotation_">
-  <p>People will forget what you said, people will forget what you did, but people will never forget how you made them feel</p>
+  People will forget what you said, people will forget what you did, but people will never forget how you made them feel
   <p class="_signature">Maya Angelou</p><a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
  </div>
 
