@@ -10,11 +10,16 @@ image:    "icon-about-daos.svg"
  <p>We remember what makes feel. We dont&rsquo;t forget what was so hurtful or what was lovingly said.</p>
 </div>
 
-<h1>&nbsp;</h1>
- <p>We remember what makes feel, what is  meaningful, the horrific and the joyful.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> We dont&rsquo;t remember words or actions, but we dont&rsquo;t forget what was so hurtful or what was lovingly said.</p>
  <div class="_quotation">
   People will forget what you said, people will forget what you did, but people will never forget how you made them feel
   <p class="_signature">Maya Angelou<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+ </div>
+
+<h1>&nbsp;</h1>
+ <p>We remember what makes feel, what is  meaningful, the horrific and the joyful.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> We dont&rsquo;t remember words or actions, but we dont&rsquo;t forget what was so hurtful or what was lovingly said.</p>
+ <p>This is what came up after read <em>Consciousness as a Memory System</em>, a theory on how we think and how we perceive the world around us.</p>
+ <div class="_quotation">
+  Consciousness is directed toward an object; it is about something (ie, intentionality). We experience consciousness as unified, as one experience, rather than as separate experiences of sights, sounds, smells, thoughts, feelings, and so on (<em>ie</em>, unity). We have the capacity to be conscious of some things and not others (ie, selectivity). Objects of consciousness are there transiently; the contents of consciousness tend to change (<em>ie</em>, transience).
  </div>
 
 <h1 class="_section">ENDNOTES</h1>
