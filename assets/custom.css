@@ -314,6 +314,13 @@ td._spacer:after {
   width:80%;
   margin:0 auto 30px auto;
 }
+._quotation ._signature {
+  font-style:italic;
+  font-size:smaller;
+}
+._quotation ._signature::before {
+  content:"—"
+}
 ._mb0 {
   margin-bottom:0;
 }
@@ -332,8 +339,4 @@ td._spacer:after {
 }
 ._quotespan::after {
   content: "”";
-}
-#_rotate {
-  -webkit-transform:rotate(-90deg);
-  transform:rotate:90deg;
 }
