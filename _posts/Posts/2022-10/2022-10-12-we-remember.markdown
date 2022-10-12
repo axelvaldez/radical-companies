@@ -21,7 +21,7 @@ image:    "icon-about-daos.svg"
  <div class="_quotation">
   Consciousness is directed toward an object; it is about something (ie, intentionality). We experience consciousness as unified, as one experience, rather than as separate experiences of sights, sounds, smells, thoughts, feelings, and so on (<em>ie</em>, unity). We have the capacity to be conscious of some things and not others (ie, selectivity). Objects of consciousness are there transiently; the contents of consciousness tend to change (<em>ie</em>, transience).
  </div>
-
+ <p>I think I was thinking about <em>what</em> we remember, how we choose to spend that energy, and what we never commit to memory.</p>
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
