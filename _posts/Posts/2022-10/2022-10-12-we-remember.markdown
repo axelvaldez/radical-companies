@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "icon-about-daos.svg"
 ---
 
-<div style="display:none;">
+<div style="display:none; ">
  <p>We remember what makes feel. We dont&rsquo;t forget what was so hurtful or what was lovingly said.</p>
 </div>
 
