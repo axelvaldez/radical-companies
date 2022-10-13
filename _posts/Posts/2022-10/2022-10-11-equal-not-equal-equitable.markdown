@@ -31,7 +31,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
 <h1>They Are Not the Same</h1>
  <p>The point is that they are <em>not</em> the same. &ldquo;Equal&rdquo; assumes that a level-playing field is enough (<em>i.e.</em>, everybody starts from a leveled ground). &ldquo;Equitable&rdquo; is about equitable outcomes (<em>i.e.</em>, all the heads are above the fence).</p>
  <p>Let&rsquo;s say that the distribution is done by a boss or a committee. In the early days, with a small team, the boss or committee knows everybody and knows their work and they assign money, or stock, or whatever equitably. As the team grows, the boss or committee knows less and less of the new people and are getting foggy on what they do. At that point, the distribution starts to get out of whack.</p>
- <p>The old people notice and feel nostalgic. The next wave of people also notice and feel it&rsquo;s somewhat unfair, but &ldquo;the old guys deserve it.&rdquo; The newest people notice, too, they feel unappreciated, and go on strike.</p>
+ <p>The old people notice and feel nostalgic. The next wave of people also notice and feel it&rsquo;s somewhat unfair, but &ldquo;the old guys deserve it.&rdquo; The newest people notice, too, they feel unappreciated, and go on strike or quiet quit or otherwise become alieniated and detached.</p>
 
 <h1><span class="_paradigm">FIAT</span> Doesn&rsquo;t Scale</h1>
  <p>This system doesn&rsquo;t scale mostly because it relies on one or a handful of benevolent people and leaves the barriers in place (<em>e.g.</em>, the <span class="_paradigm">FIAT</span> hierarchy). The <span class="_paradigm">RADICAL</span> model is different.</p>
