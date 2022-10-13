@@ -95,15 +95,13 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
-   <p>
+   <p class="_list-item">
     <<a href="https://www.vocabulary.com/dictionary/equal">https://www.vocabulary.com/dictionary/equal</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en02">
-   <p>
+   <p class="_list-item">
     Craig Froehle.
     <em>The Evolution of an Accidental Meme</em>.
     2016.
@@ -111,26 +109,20 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en03">
-   <p>
+   <p class="_list-item">
     <<a href="https://www.vocabulary.com/dictionary/equitable">https://www.vocabulary.com/dictionary/equitable</a>>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en04">
-   <p>
+   <p class="_list-item">
     A <span class="_paradigm">RAD</span> is a dimensionless unit.
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en05">
-   <p>
+   <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
     <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
     2021.
@@ -141,10 +133,8 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en06">
-   <p>
+   <p class="_list-item">
     David Weliver.
     <em>The Wealth-building Power Of Business Ownership.</em>
     <<a href="https://radicals.world/vqy48P" target="_blank">https://radicals.world/vqy48P</a>>
