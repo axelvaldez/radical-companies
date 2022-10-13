@@ -3,7 +3,7 @@ layout:   post
 title:    "Equal &ne; Equitable"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "/assets/img/icon-equal-vs-equitable.svg"
 ---
 
 <div style="display:none;">
@@ -12,9 +12,21 @@ image:    "icon-about-daos.svg"
 
 <h1>Equal</h1>
  <p>&ldquo;Things that are the same size or have the same traits are said to be equal. When it comes to people, being equal means everyone has the same rights and opportunities — and responsibilities.&rdquo;<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
+ <div class="_center">
+  <img
+   src="/assets/img/equal-vs-equitable-01.svg"
+   width="70%"
+   alt="">
+ </div>
 
 <h1>Equitable</h1>
  <p>&ldquo;Equitable distribution means everyone gets their fair share of something. If you work on a group project… you want an equitable share of the credit.&rdquo;<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
+ <div class="_center">
+  <img
+   src="/assets/img/equal-vs-equitable-02.svg"
+   width="70%"
+   alt="">
+ </div>
 
 <h1>They Are Not the Same</h1>
  <p>The point is that they are <em>not</em> the same. &ldquo;Equal&rdquo; assumes that a level-playing field is enough (<em>i.e.</em>, everybody starts from a leveled ground). &ldquo;Equitable&rdquo; is about equitable outcomes (<em>i.e.</em>, all the heads are above the fence). Seems to work for a while, but over time, it stops working.</p>
@@ -27,6 +39,12 @@ image:    "icon-about-daos.svg"
 <h1>RADICAL Removes Barriers</h1>
  <p>The RADICAL model is equitable, but even more so it is about removing the biggest barrier of all: the FIAT hierarchy. </p>
  <p>The FIAT hierarchy, among other things, it gets in the way of innovation, productivity, and quality. It even gets in the way of wellbeing. The only thing it doesn&rsquo;t get in the way of, is making a few people wealthy. So, it is gone.</p>
+ <div class="_center">
+  <img
+   src="/assets/img/equal-vs-equitable-03.svg"
+   width="70%"
+   alt="">
+ </div>
 
 <h1>Everybody a Co-Owner</h1>
  <p>The RADICAL way is to have <em>everybody</em> recognize contributions <em>as they happen</em>. The rewards are dynamic,</p>
@@ -50,10 +68,16 @@ image:    "icon-about-daos.svg"
  <table>
   <tr>
    <td>
+    <div class="_center">
+     <img
+      src="/assets/img/equal-vs-equitable-04.svg"
+      width="70%"
+      alt="">
+    </div>
    </td>
   </tr>
   <tr>
-   <td>
+   <td style="font-size:smaller; ">
     The least expected person made the most contributions
    </td>
   </tr>
@@ -62,7 +86,19 @@ image:    "icon-about-daos.svg"
   </tr>
  </table>
  <p>Or this,</p>
+ <div class="_center">
+  <img
+   src="/assets/img/equal-vs-equitable-05.svg"
+   width="70%"
+   alt="">
+ </div>
  <p>Or this,</p>
+ <div class="_center">
+  <img
+   src="/assets/img/equal-vs-equitable-06.svg"
+   width="70%"
+   alt="">
+ </div>
  <p>And next cycle the Distribution will likely change again as the contributions change, new people join, and old people learn.<a href="#en05"><sup id="bm05">5</sup></a></p>
  <p>Note that contributions are not at all limited in the way they are today. Today they are about contributing to the wealth of the business owners,</p>
  <div>
@@ -93,40 +129,7 @@ image:    "icon-about-daos.svg"
 
 &nbsp;<a href="#fnref6" rev="footnote">&#8617;</a>
 
-</ol></div>
-
-<p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
-
-  <div class="_center">
-   <img
-    src="/assets/img/pings-to-rads-equation.svg"
-    width="70%"
-    alt="">
-  </div>
-
- <table align="center">
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
-  </tr>
-  <tr>
-   <td class="_spacer_">&nbsp;</td>
-  </tr>
- </table>
+ </ol>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
