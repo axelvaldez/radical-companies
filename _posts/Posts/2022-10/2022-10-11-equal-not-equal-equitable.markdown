@@ -63,6 +63,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
  <p>Each member, then, is a co-owner who gets to distribute the ownership of the company and its dividends to other co-owners. And they do it all the time, as they see those contributions happen.</p>
  <p>They can do this via the RAD<sup>s</sup>! mobile app.</p>
 
+<!-- 
 <h1>Giving RADs</h1>
  <p>Different people will get different amounts of RADs.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> Every co-owner gets one RAD per day and then she gets to assign it as she wishes. She gets to recognize the contributions of other co-owners. So, we may end up with this,</p>
   <div class="_center">
@@ -91,6 +92,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
   &ldquo;Owning a business is the fastest reliable way to wealth.&hellip; That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.&rdquo;<a href="#bm06"><sup id="en06">6&nbsp;</sup></a>
  </div>
  <p>In the RADICAL model, these recognized contributions add to the wellbeing of any and all co-owners.</p>
+-->
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
