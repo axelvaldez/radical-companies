@@ -3,7 +3,7 @@ layout:   post
 title:    "Equal &ne; Equitable"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "/assets/img/icon-equal-vs-equitable.svg"
+image:    "icon-equal-vs-equitable.svg"
 ---
 
 <div style="display:none;">
