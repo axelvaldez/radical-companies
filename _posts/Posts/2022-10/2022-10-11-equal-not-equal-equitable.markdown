@@ -25,8 +25,8 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
   <img
    src="/assets/img/equal-vs-equitable-02.svg"
    style="width:70%; margin-bottom:10px; "
-   alt="">
- </div><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
+   alt=""><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
+ </div>
 
 <h1>They Are Not the Same</h1>
  <p>The point is that they are <em>not</em> the same. &ldquo;Equal&rdquo; assumes that a level-playing field is enough (<em>i.e.</em>, everybody starts from a leveled ground). &ldquo;Equitable&rdquo; is about equitable outcomes (<em>i.e.</em>, all the heads are above the fence). Seems to work for a while, but over time, it stops working.</p>
