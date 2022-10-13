@@ -12,7 +12,7 @@ image:    "icon-about-daos.svg"
 
  <div class="_citation" style="margin-bottom:0; ">
   People will forget what you said, people will forget what you did, but people will never forget how you made them feel
-  <p class="_signature">Maya Angelou<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+  <p class="_signature">Maya Angelou<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
  </div>
 
 <h1>&nbsp;</h1>
@@ -23,20 +23,21 @@ image:    "icon-about-daos.svg"
   <p class="_signature"> Andrew Budson, Kenneth Richman, Elizabeth Kensinger.<br><em>Consciousness as a Memory System</em>.</p>
  </div>
  <p>I went to sleep thinking about <em>what</em> we remember vs what we never commit to memory. What urges us to spend the energy of building a memory? What made that a good evolutionary choice? I believe that feelings is the guide, the hidden hand.</p>
+
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
    <p class="_list-item">
-    Andrew Budson, Kenneth Richman, Elizabeth Kensinger.
-    <em>Consciousness as a Memory System</em>.
-    <<a href="https://radicals.world/AY2xGX" target="_blank">https://radicals.world/AY2xGX</a>> (alt, <<a href="https://www.diigo.com/user/matt_perez/b/646173375" target="_blank">>https://www.diigo.com/user/matt_perez/b/646173375</a>)
+    Goodreads.
+    <a href="https://radicals.world/9TVEpn" target="_blank">https://radicals.world/9TVEpn</a>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p class="_list-item">
-    Goodreads.
-    <a href="https://radicals.world/9TVEpn" target="_blank">https://radicals.world/9TVEpn</a>
+    Andrew Budson, Kenneth Richman, Elizabeth Kensinger.
+    <em>Consciousness as a Memory System</em>.
+    <<a href="https://radicals.world/AY2xGX" target="_blank">https://radicals.world/AY2xGX</a>> (alt, <<a href="https://www.diigo.com/user/matt_perez/b/646173375" target="_blank">>https://www.diigo.com/user/matt_perez/b/646173375</a>)
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
