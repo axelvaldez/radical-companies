@@ -15,7 +15,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
  <div class="_center">
   <img
    src="/assets/img/equal-vs-equitable-01.svg"
-   width="70%"
+   style="width:70%; margin-bottom:10px; "
    alt="">
  </div>
 
@@ -24,7 +24,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
  <div class="_center">
   <img
    src="/assets/img/equal-vs-equitable-02.svg"
-   width="70%"
+   style="width:70%; margin-bottom:10px; "
    alt="">
  </div>
 
@@ -42,7 +42,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
  <div class="_center">
   <img
    src="/assets/img/equal-vs-equitable-03.svg"
-   width="70%"
+   style="width:70%; margin-bottom:10px; "
    alt="">
  </div>
 
@@ -68,21 +68,21 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
   <div class="_center">
    <img
     src="/assets/img/equal-vs-equitable-04.svg"
-    width="70%"
+   style="width:70%; margin-bottom:10px; "
     alt="">
   </div>
  <p>Or this,</p>
  <div class="_center">
   <img
    src="/assets/img/equal-vs-equitable-05.svg"
-   width="70%"
+   style="width:70%; margin-bottom:10px; "
    alt="">
  </div>
  <p>Or this,</p>
  <div class="_center">
   <img
    src="/assets/img/equal-vs-equitable-06.svg"
-   width="70%"
+   style="width:70%; margin-bottom:10px; "
    alt="">
  </div>
  <p>And next cycle the Distribution will likely change again as the contributions change, new people join, and old people learn.<a href="#en05"><sup id="bm05">5</sup></a></p>
