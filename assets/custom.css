@@ -319,6 +319,7 @@ td._spacer:after {
 }
 ._citation ._signature {
   padding-top:10px;
+  text-indent:-2emn;
   font-style:italic;
   font-size:smaller;
 }
