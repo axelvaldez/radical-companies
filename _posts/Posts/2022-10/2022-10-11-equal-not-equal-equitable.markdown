@@ -88,7 +88,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
  <p>And next cycle the Distribution will likely change again as things change.<a href="#en05"><sup  id="bm05">5&nbsp;</sup></a></p>
  <p>Note that contributions are not at all limited in the way they are today. Today they are about contributing to the wealth of the business owners,</p>
  <div class="_citation">
-  &ldquo;Owning a business is the fastest reliable way to wealth.&hellip; That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.&rdquo;<a href="#en06"><sup id="bm06">6&nbsp;</sup></a>
+  <p>&ldquo;Owning a business is the fastest reliable way to wealth.&hellip; That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.&rdquo;<a href="#en06"><sup id="bm06">6&nbsp;</sup></a></p>
  </div>
  <p>In the <span class="_paradigm">RADICAL</span> model, these recognized contributions add to the wellbeing of any and all co-owners.</p>
 
