@@ -22,7 +22,7 @@ image:    "icon-about-daos.svg"
   Consciousness is directed toward an object; it is about something (ie, intentionality). We experience consciousness as unified, as one experience, rather than as separate experiences of sights, sounds, smells, thoughts, feelings, and so on (<em>ie</em>, unity). We have the capacity to be conscious of some things and not others (<em>ie</em>, selectivity). Objects of consciousness are there transiently; the contents of consciousness tend to change (<em>ie</em>, transience).
   <p class="_signature"> Andrew Budson, Kenneth Richman, Elizabeth Kensinger.<br><em>Consciousness as a Memory System</em>.</p>
  </div>
- <p>I went to sleep thinking about <em>what</em> we remember vs what we never commit to memory. What urges us to spend the energy of building a memory? What made that a good evolutionary choice? I believe that feelings is the guide, the hidden hand.</p>
+ <p>After reading <em>Conciousness&hellip; </em>, I went to sleep thinking about <em>what</em> we remember vs what we never commit to memory. What urges us to spend the energy of building a memory? What made that a good evolutionary choice? I believe that feelings is the guide, the hidden hand.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
