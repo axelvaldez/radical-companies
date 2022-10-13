@@ -17,7 +17,7 @@ image:    "icon-about-daos.svg"
 
 <h1>&nbsp;</h1>
  <p>We remember what makes feel, what is  meaningful, the horrific and the joyful.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> We dont&rsquo;t remember words or actions, but we dont&rsquo;t forget what was so hurtful or what was lovingly said.</p>
- <p>This is what came up after reading <em>Consciousness as a Memory System</em>. It describes the authors&rsquo; theory of &ldquo;conciousness as memory,&rdquo; how we think and how we perceive the world around us.</p>
+ <p>This is what came up after reading <em>Consciousness as a Memory System</em>. It describes the authors&rsquo; theory of &ldquo;conciousness as memory,&rdquo;</p>
  <div class="_citation">
   Consciousness is directed toward an object; it is about something (ie, intentionality). We experience consciousness as unified, as one experience, rather than as separate experiences of sights, sounds, smells, thoughts, feelings, and so on (<em>ie</em>, unity). We have the capacity to be conscious of some things and not others (<em>ie</em>, selectivity). Objects of consciousness are there transiently; the contents of consciousness tend to change (<em>ie</em>, transience).
   <p class="_signature"> Andrew Budson, Kenneth Richman, Elizabeth Kensinger.<br><em>Consciousness as a Memory System</em>.</p>
