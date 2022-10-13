@@ -7,7 +7,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
 ---
 
 <div style="display:none;">
- <p>&ldquo;Equal&rdquo; assumes that a level-playing field is enough (<em>i.e.</em>, everybody starts from a leveled ground). &ldquo;Equitable&rdquo; is about outcomes (<em>i.e.</em>, all the heads are above the fence). &ldquo;Equal&rdquo; seems to work for a while, but over time, it stops working.</p>
+ <p>&ldquo;Equal&rdquo; assumes that a level-playing field is enough. &ldquo;Equitable&rdquo; is about outcomes: all the heads are above the fence. &ldquo;Equal&rdquo; seems to work for a while, but over time, it stops working.</p>
 </div>
 
 <h1>Equal</h1>
