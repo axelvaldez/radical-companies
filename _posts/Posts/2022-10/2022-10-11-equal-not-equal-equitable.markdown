@@ -64,7 +64,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
  <p>They can do this via the <span class="_paradigm">RAD</span><sup>s</sup>! mobile app.</p>
 
 <h1>Giving <span class="_paradigm">RAD</span>s</h1>
- <p>Different people will get different amounts of RADs.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> Every co-owner gets one <span class="_paradigm">RAD</span> per day and then she gets to assign it as she wishes. She gets to recognize the contributions of other co-owners. So, we may end up with this,</p>
+ <p>Different people will get different amounts of <span class="_paradigm">RAD</span>s.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> Every co-owner gets one <span class="_paradigm">RAD</span> per day and then she gets to assign it as she wishes. She gets to recognize the contributions of other co-owners. So, we may end up with this,</p>
   <div class="_center">
    <img
     src="/assets/img/equal-vs-equitable-04.svg"
@@ -85,7 +85,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
    style="width:70%; margin-bottom:10px; "
    alt="">
  </div>
- <p>And next cycle the Distribution will likely change again as the contributions change, new people join, and old people learn.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
+ <p>And next cycle the Distribution will likely change again as the contributions change, new people join, and old people learn.<a href="#en05"><sup  id="bm05">5&nbsp;</sup></a></p>
  <p>Note that contributions are not at all limited in the way they are today. Today they are about contributing to the wealth of the business owners,</p>
  <div class="_citation">
   &ldquo;Owning a business is the fastest reliable way to wealth.&hellip; That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.&rdquo;<a href="#en06"><sup id="bm06">6&nbsp;</sup></a>
