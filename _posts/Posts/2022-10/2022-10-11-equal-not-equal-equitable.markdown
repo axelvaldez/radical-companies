@@ -26,7 +26,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
    src="/assets/img/equal-vs-equitable-02.svg"
    style="width:70%; margin-bottom:10px; "
    alt="">
- </div>
+ </div><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
 
 <h1>They Are Not the Same</h1>
  <p>The point is that they are <em>not</em> the same. &ldquo;Equal&rdquo; assumes that a level-playing field is enough (<em>i.e.</em>, everybody starts from a leveled ground). &ldquo;Equitable&rdquo; is about equitable outcomes (<em>i.e.</em>, all the heads are above the fence). Seems to work for a while, but over time, it stops working.</p>
@@ -64,7 +64,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
  <p>They can do this via the RAD<sup>s</sup>! mobile app.</p>
 
 <h1>Giving RADs</h1>
- <p>Different people will get different amounts of RADs.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> Every co-owner gets one RAD per day and then she gets to assign it as she wishes. She gets to recognize the contributions of other co-owners. So, we may end up with this,</p>
+ <p>Different people will get different amounts of RADs.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> Every co-owner gets one RAD per day and then she gets to assign it as she wishes. She gets to recognize the contributions of other co-owners. So, we may end up with this,</p>
   <div class="_center">
    <img
     src="/assets/img/equal-vs-equitable-04.svg"
@@ -85,10 +85,10 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
    style="width:70%; margin-bottom:10px; "
    alt="">
  </div>
- <p>And next cycle the Distribution will likely change again as the contributions change, new people join, and old people learn.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></p>
+ <p>And next cycle the Distribution will likely change again as the contributions change, new people join, and old people learn.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
  <p>Note that contributions are not at all limited in the way they are today. Today they are about contributing to the wealth of the business owners,</p>
  <div class="_citation">
-  &ldquo;Owning a business is the fastest reliable way to wealth.&hellip; That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.&rdquo;<a href="#bm05"><sup id="en05">5&nbsp;</sup></a>
+  &ldquo;Owning a business is the fastest reliable way to wealth.&hellip; That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.&rdquo;<a href="#bm06"><sup id="en06">6&nbsp;</sup></a>
  </div>
  <p>In the RADICAL model, these recognized contributions add to the wellbeing of any and all co-owners.</p>
 
@@ -100,27 +100,31 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+
   <li id="en02">
    <p>
-   Craig Froehle.
-   <em>The Evolution of an Accidental Meme</em>.
-   2016.
-   <<a href="https://radicals.world/bNJktE">https://radicals.world/bNJktE</a>>
+    Craig Froehle.
+    <em>The Evolution of an Accidental Meme</em>.
+    2016.
+    <<a href="https://radicals.world/bNJktE">https://radicals.world/bNJktE</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+
   <li id="en03">
    <p>
-   <<a href="https://www.vocabulary.com/dictionary/equitable">https://www.vocabulary.com/dictionary/equitable</a>>
+    <<a href="https://www.vocabulary.com/dictionary/equitable">https://www.vocabulary.com/dictionary/equitable</a>>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+
   <li id="en04">
    <p>
-   A RAD is a dimensionless unit.
+    A RAD is a dimensionless unit.
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+
   <li id="en05">
    <p>
    Matt Perez, Adrian Perez, Jose Leal.
@@ -133,6 +137,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+
   <li id="en06">
    <p>
     David Weliver.
