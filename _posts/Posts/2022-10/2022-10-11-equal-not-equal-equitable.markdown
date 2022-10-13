@@ -33,12 +33,12 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
  <p>Let&rsquo;s say that the distribution is done by a boss or a committee. In the early days, with a small team, the boss or committee knows everybody and knows their work and they assign money, or stock, or whatever equitably. As the team grows, the boss or committee knows less and less of the new people and are getting foggy on what they do. At that point, the distribution gets out of whack.</p>
  <p>The old people notice and feel nostalgic. The next wave of people also notice and feel it&rsquo;s somewhat unfair, but &ldquo;the old guys deserve it.&rdquo; The newest people notice, too, they feel unappreciated, and go on strike.</p>
 
-<h1>FIAT Doesn&rsquo;t Scale</h1>
- <p>This system doesn&rsquo;t scale mostly because it relies on one or a handful of benevolent people and leaves the barriers in place (<em>e.g.</em>, the FIAT hierarchy). The RADICAL model is different.</p>
+<h1><span class="_paradigm">FIAT</span> Doesn&rsquo;t Scale</h1>
+ <p>This system doesn&rsquo;t scale mostly because it relies on one or a handful of benevolent people and leaves the barriers in place (<em>e.g.</em>, the <span class="_paradigm">FIAT</span> hierarchy). The <span class="_paradigm">RADICAL</span> model is different.</p>
 
-<h1>RADICAL Removes Barriers</h1>
- <p>The RADICAL model is equitable, but even more so it is about removing the biggest barrier of all: the FIAT hierarchy. </p>
- <p>The FIAT hierarchy, among other things, it gets in the way of innovation, productivity, and quality. It even gets in the way of wellbeing. The only thing it doesn&rsquo;t get in the way of, is making a few people wealthy. So, it is gone.</p>
+<h1><span class="_paradigm">RADICAL</span> Removes Barriers</h1>
+ <p>The <span class="_paradigm">RADICAL</span> model is equitable, but even more so it is about removing the biggest barrier of all: the <span class="_paradigm">FIAT</span> hierarchy. </p>
+ <p>The <span class="_paradigm">FIAT</span> hierarchy, among other things, it gets in the way of innovation, productivity, and quality. It even gets in the way of wellbeing. The only thing it doesn&rsquo;t get in the way of, is making a few people wealthy. So, it is gone.</p>
  <div class="_center">
   <img
    src="/assets/img/equal-vs-equitable-03.svg"
@@ -47,7 +47,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
  </div>
 
 <h1>Everybody a Co-Owner</h1>
- <p>The RADICAL way is to have <em>everybody</em> recognize contributions <em>as they happen</em>. The rewards are dynamic,</p>
+ <p>The <span class="_paradigm">RADICAL</span> way is to have <em>everybody</em> recognize contributions <em>as they happen</em>. The rewards are dynamic,</p>
  <ul>
   <li>New people join a team.</li>
   <li>They know everybody in the team and what each does.</li>
@@ -61,10 +61,10 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
   <li>Each co-owner doesn&rsquo;t need to be angelical or even benevolent. She just needs to know enough about the people she is recognizing. She may not know his name, but she knows that he talked to somebody who was down in the dump and by the end of it their mood had visibly improved. And, yes, this is biased by her mood, whether or not she likes the other co-owner, etc. But other co-owners are biased as well and overall they strike a much better balance than the boss or a committee.</li>
  </ul>
  <p>Each member, then, is a co-owner who gets to distribute the ownership of the company and its dividends to other co-owners. And they do it all the time, as they see those contributions happen.</p>
- <p>They can do this via the RAD<sup>s</sup>! mobile app.</p>
+ <p>They can do this via the <span class="_paradigm">RAD</span><sup>s</sup>! mobile app.</p>
 
-<h1>Giving RADs</h1>
- <p>Different people will get different amounts of RADs.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> Every co-owner gets one RAD per day and then she gets to assign it as she wishes. She gets to recognize the contributions of other co-owners. So, we may end up with this,</p>
+<h1>Giving <span class="_paradigm">RAD</span>s</h1>
+ <p>Different people will get different amounts of RADs.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> Every co-owner gets one <span class="_paradigm">RAD</span> per day and then she gets to assign it as she wishes. She gets to recognize the contributions of other co-owners. So, we may end up with this,</p>
   <div class="_center">
    <img
     src="/assets/img/equal-vs-equitable-04.svg"
@@ -90,7 +90,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
  <div class="_citation">
   &ldquo;Owning a business is the fastest reliable way to wealth.&hellip; That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.&rdquo;<a href="#bm06"><sup id="en06">6&nbsp;</sup></a>
  </div>
- <p>In the RADICAL model, these recognized contributions add to the wellbeing of any and all co-owners.</p>
+ <p>In the <span class="_paradigm">RADICAL</span> model, these recognized contributions add to the wellbeing of any and all co-owners.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
@@ -100,7 +100,8 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-
+ </ol>
+ <ol>
   <li id="en02">
    <p>
     Craig Froehle.
@@ -110,34 +111,38 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-
+ </ol>
+ <ol>
   <li id="en03">
    <p>
     <<a href="https://www.vocabulary.com/dictionary/equitable">https://www.vocabulary.com/dictionary/equitable</a>>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-
+ </ol>
+ <ol>
   <li id="en04">
    <p>
-    A RAD is a dimensionless unit.
+    A <span class="_paradigm">RAD</span> is a dimensionless unit.
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-
+ </ol>
+ <ol>
   <li id="en05">
    <p>
-   Matt Perez, Adrian Perez, Jose Leal.
-   <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
-   2021.
-   <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>.
-   Or, if you are in a hurry, see
-   <em>RADICAL COMPANIES for the Impatient</em>
-   <<a href="https://radicals.world/jSEGub">https://radicals.world/jSEGub</a>>
+    Matt Perez, Adrian Perez, Jose Leal.
+    <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
+    2021.
+    <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>.
+    Or, if you are in a hurry, see
+    <em>RADICAL COMPANIES for the Impatient</em>
+    <<a href="https://radicals.world/jSEGub">https://radicals.world/jSEGub</a>>
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-
+ </ol>
+ <ol>
   <li id="en06">
    <p>
     David Weliver.
