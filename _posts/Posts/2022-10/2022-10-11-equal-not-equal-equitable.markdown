@@ -33,7 +33,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
  <p>Let&rsquo;s say that the distribution is done by a boss or a committee. In the early days, with a small team, the boss or committee knows everybody and knows their work and they assign money, or stock, or whatever equitably. As the team grows, the boss or committee knows less and less of the new people and are getting foggy on what they do. At that point, the distribution starts to get out of whack.</p>
  <p>The old people notice and feel nostalgic. The next wave of people also notice and feel it&rsquo;s somewhat unfair, but &ldquo;hey, the old guys deserve it.&rdquo; The newest people also notice, feel unappreciated, and quiet quit.</p>
 
-<h1><span class="_paradigm">FIAT</span> Doesn&rsquo;t Scale</h1>
+<h1><span class="_paradigm">FIAT</span> Does Not Scale</h1>
  <p>This system doesn&rsquo;t scale mostly because it relies on one or a handful of benevolent people and leaves the barriers in place (<em>e.g.</em>, the <span class="_paradigm">FIAT</span> hierarchy). The <span class="_paradigm">RADICAL</span> model is different.</p>
 
 <h1><span class="_paradigm">RADICAL</span> Removes Barriers</h1>
