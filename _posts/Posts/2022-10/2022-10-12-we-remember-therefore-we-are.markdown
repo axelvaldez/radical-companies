@@ -3,7 +3,7 @@ layout:   post
 title:    "We Remember, Therefore We Are"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-we-remember-therefore-we-are.svg"
 ---
 
 <div style="display:none; ">
