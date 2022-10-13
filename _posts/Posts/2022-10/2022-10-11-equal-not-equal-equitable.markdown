@@ -10,7 +10,90 @@ image:    "icon-about-daos.svg"
  <p></p>
 </div>
 
-<h1>&nbsp;</h1>
+<h1>Equal</h1>
+ <p>&ldquo;Things that are the same size or have the same traits are said to be equal. When it comes to people, being equal means everyone has the same rights and opportunities — and responsibilities.&rdquo;<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
+
+<h1>Equitable</h1>
+ <p>&ldquo;Equitable distribution means everyone gets their fair share of something. If you work on a group project… you want an equitable share of the credit.&rdquo;<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
+
+<h1>They Are Not the Same</h1>
+ <p>The point is that they are <em>not</em> the same. &ldquo;Equal&rdquo; assumes that a level-playing field is enough (<em>i.e.</em>, everybody starts from a leveled ground). &ldquo;Equitable&rdquo; is about equitable outcomes (<em>i.e.</em>, all the heads are above the fence). Seems to work for a while, but over time, it stops working.</p>
+ <p>Let&rsquo;s say that the distribution is done by a boss or a committee. In the early days, with a small team, the boss or committee knows everybody and knows their work and they assign money, or stock, or whatever equitably. As the team grows, the boss or committee knows less and less of the new people and are getting foggy on what they do. At that point, the distribution gets out of whack.</p>
+ <p>The old people notice and feel nostalgic. The next wave of people also notice and feel it&rsquo;s somewhat unfair, but &ldquo;the old guys deserve it.&rdquo; The newest people notice, too, they feel unappreciated, and go on strike.</p>
+
+<h1>FIAT Doesn&rsquo;t Scale</h1>
+ <p>This system doesn&rsquo;t scale mostly because it relies on one or a handful of benevolent people and leaves the barriers in place (<em>e.g.</em>, the FIAT hierarchy). The RADICAL model is different.</p>
+
+<h1>RADICAL Removes Barriers</h1>
+ <p>The RADICAL model is equitable, but even more so it is about removing the biggest barrier of all: the FIAT hierarchy. </p>
+ <p>The FIAT hierarchy, among other things, it gets in the way of innovation, productivity, and quality. It even gets in the way of wellbeing. The only thing it doesn&rsquo;t get in the way of, is making a few people wealthy. So, it is gone.</p>
+
+<h1>Everybody a Co-Owner</h1>
+ <p>The RADICAL way is to have <em>everybody</em> recognize contributions <em>as they happen</em>. The rewards are dynamic,</p>
+ <ul>
+  <li>New people join a team.</li>
+  <li>They know everybody in the team and what each does.</li>
+  <li>The team gets to know the new folks and what they do.</li>
+  <li>Everybody gets to recognize contributions as they happen. One may even recognize as contributions things that the other person didn&rsquo;t realize were valuable to the work.</li>
+ </ul>
+ <p>This way contribution recognition,</p>
+ <ul>
+  <li>Goes all the time, not a quarter or a year later when memories get fuzzy.</li>
+  <li>Are done by everybody, not just a small group.</li>
+  <li>Each co-owner doesn&rsquo;t need to be angelical or even benevolent. She just needs to know enough about the people she is recognizing. She may not know his name, but she knows that he talked to somebody who was down in the dump and by the end of it their mood had visibly improved. And, yes, this is biased by her mood, whether or not she likes the other co-owner, etc. But other co-owners are biased as well and overall they strike a much better balance than the boss or a committee.</li>
+ </ul>
+ <p>Each member, then, is a co-owner who gets to distribute the ownership of the company and its dividends to other co-owners. And they do it all the time, as they see those contributions happen.</p>
+ <p>They can do this via the RAD<sup>s</sup>! mobile app.</p>
+
+<h1>Giving RADs</h1>
+ <p>Different people will get different amounts of RADs.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup> Every co-owner gets one RAD per day and then she gets to assign it as she wishes. She gets to recognize the contributions of other co-owners. So, we may end up with this,</p>
+ <table>
+  <tr>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    The least expected person made the most contributions
+   </td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
+  </tr>
+ </table>
+ <p>Or this,</p>
+ <p>Or this,</p>
+ <p>And next cycle the Distribution will likely change again as the contributions change, new people join, and old people learn.<a href="#en05"><sup id="bm05">5</sup></a></p>
+ <p>Note that contributions are not at all limited in the way they are today. Today they are about contributing to the wealth of the business owners,</p>
+ <div>
+  &ldquo;Owning a business is the fastest reliable way to wealth.… That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.&rdquo;<sup id="en06"><a href="#bm06">6&nbsp;</sup></a>
+ </div>
+ <p>In the RADICAL model, these recognized contributions add to the wellbeing of any and all co-owners.</p>
+
+<h2>Notes</h2>
+<div class="footnotes">
+<hr>
+<ol><li id="fn1">
+<h6>    	<a href="https://www.vocabulary.com/dictionary/equal">https://www.vocabulary.com/dictionary/equal</a></h6>
+
+&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a><li id="fn2">
+<h6>     	Craig Froehle. <em>The Evolution of an Accidental Meme</em>. 2016. <<a href="https://radicals.world/bNJktE">https://radicals.world/bNJktE</a>></h6>
+
+&nbsp;<a href="#fnref2" rev="footnote">&#8617;</a><li id="fn3">
+<h6>    	<a href="https://www.vocabulary.com/dictionary/equitable">https://www.vocabulary.com/dictionary/equitable</a></h6>
+
+&nbsp;<a href="#fnref3" rev="footnote">&#8617;</a><li id="fn4">
+<h6>     	A RAD is a dimensionless unit.</h6>
+
+&nbsp;<a href="#fnref4" rev="footnote">&#8617;</a><li id="fn5">
+<h6>     	Matt Perez, Adrian Perez, Jose Leal. <em>RADICAL COMPANIES: Without Bosses or Employees</em>. 2021. <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>. Or, if you are in a hurry, see <em>RADICAL COMPANIES for the Impatient</em> <<a href="https://radicals.world/jSEGub">https://radicals.world/jSEGub</a>>.</h6>
+
+&nbsp;<a href="#fnref5" rev="footnote">&#8617;</a><li id="fn6">
+<h6>     	David Weliver. <em>The Wealth-building Power Of Business Ownership.</em> <https://radicals.world/vqy48P</h4>
+
+&nbsp;<a href="#fnref6" rev="footnote">&#8617;</a>
+
+</ol></div>
 
 <p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
 
