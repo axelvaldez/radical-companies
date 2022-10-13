@@ -7,7 +7,7 @@ image:    "icon-we-remember-therefore-we-are.svg"
 ---
 
 <div style="display:none; ">
- <p>We remember what makes feel. We dont&rsquo;t forget what was so hurtful or what was lovingly said.</p>
+ <p>We remember what makes us feel and we dont&rsquo;t forget what was so hurtful or so loving.</p>
 </div>
 
 <div class="_citation" style="margin-bottom:0; ">
