@@ -87,45 +87,58 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
  </div>
  <p>And next cycle the Distribution will likely change again as the contributions change, new people join, and old people learn.<a href="#en05"><sup id="bm05">5</sup></a></p>
  <p>Note that contributions are not at all limited in the way they are today. Today they are about contributing to the wealth of the business owners,</p>
- <div>
+ <div class=_citation>
   &ldquo;Owning a business is the fastest reliable way to wealth.… That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.&rdquo;<sup id="en06"><a href="#bm06">6&nbsp;</sup></a>
  </div>
  <p>In the RADICAL model, these recognized contributions add to the wellbeing of any and all co-owners.</p>
 
-<h2>Notes</h2>
-<div class="footnotes">
-<hr>
-<ol><li id="fn1">
-<h6>    	<a href="https://www.vocabulary.com/dictionary/equal">https://www.vocabulary.com/dictionary/equal</a></h6>
-
-&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a><li id="fn2">
-<h6>     	Craig Froehle. <em>The Evolution of an Accidental Meme</em>. 2016. <<a href="https://radicals.world/bNJktE">https://radicals.world/bNJktE</a>></h6>
-
-&nbsp;<a href="#fnref2" rev="footnote">&#8617;</a><li id="fn3">
-<h6>    	<a href="https://www.vocabulary.com/dictionary/equitable">https://www.vocabulary.com/dictionary/equitable</a></h6>
-
-&nbsp;<a href="#fnref3" rev="footnote">&#8617;</a><li id="fn4">
-<h6>     	A RAD is a dimensionless unit.</h6>
-
-&nbsp;<a href="#fnref4" rev="footnote">&#8617;</a><li id="fn5">
-<h6>     	Matt Perez, Adrian Perez, Jose Leal. <em>RADICAL COMPANIES: Without Bosses or Employees</em>. 2021. <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>. Or, if you are in a hurry, see <em>RADICAL COMPANIES for the Impatient</em> <<a href="https://radicals.world/jSEGub">https://radicals.world/jSEGub</a>>.</h6>
-
-&nbsp;<a href="#fnref5" rev="footnote">&#8617;</a><li id="fn6">
-<h6>     	David Weliver. <em>The Wealth-building Power Of Business Ownership.</em> <https://radicals.world/vqy48P</h4>
-
-&nbsp;<a href="#fnref6" rev="footnote">&#8617;</a>
-
- </ol>
-
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
-   <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
+   <p>
+    <<a href="https://www.vocabulary.com/dictionary/equal">https://www.vocabulary.com/dictionary/equal</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p>
+   Craig Froehle.
+   <em>The Evolution of an Accidental Meme</em>.
+   2016.
+   <<a href="https://radicals.world/bNJktE">https://radicals.world/bNJktE</a>>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p>
+   <<a href="https://www.vocabulary.com/dictionary/equitable">https://www.vocabulary.com/dictionary/equitable</a>>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p>
+   A RAD is a dimensionless unit.
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en05">
+   <p>
+   Matt Perez, Adrian Perez, Jose Leal.
+   <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
+   2021.
+   <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>.
+   Or, if you are in a hurry, see
+   <em>RADICAL COMPANIES for the Impatient</em>
+   <<a href="https://radicals.world/jSEGub">https://radicals.world/jSEGub</a>>
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en06">
+   <p>
+    David Weliver.
+    <em>The Wealth-building Power Of Business Ownership.</em>
+    <<a href="https://radicals.world/vqy48P" target="_blank">https://radicals.world/vqy48P</a>>
+    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
