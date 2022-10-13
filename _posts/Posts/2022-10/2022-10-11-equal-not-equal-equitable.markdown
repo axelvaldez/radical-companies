@@ -65,7 +65,7 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
 
 <h1>Giving RADs</h1>
  <p>Different people will get different amounts of RADs.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup> Every co-owner gets one RAD per day and then she gets to assign it as she wishes. She gets to recognize the contributions of other co-owners. So, we may end up with this,</p>
- <table>
+ <table style="width:100%; ">
   <tr>
    <td>
     <div class="_center">
