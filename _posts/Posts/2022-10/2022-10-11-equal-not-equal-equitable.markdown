@@ -29,8 +29,8 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
  </div>
 
 <h1>They Are Not the Same</h1>
- <p>The point is that they are <em>not</em> the same. &ldquo;Equal&rdquo; assumes that a level-playing field is enough (<em>i.e.</em>, everybody starts from a leveled ground). &ldquo;Equitable&rdquo; is about equitable outcomes (<em>i.e.</em>, all the heads are above the fence). Seems to work for a while, but over time, it stops working.</p>
- <p>Let&rsquo;s say that the distribution is done by a boss or a committee. In the early days, with a small team, the boss or committee knows everybody and knows their work and they assign money, or stock, or whatever equitably. As the team grows, the boss or committee knows less and less of the new people and are getting foggy on what they do. At that point, the distribution gets out of whack.</p>
+ <p>The point is that they are <em>not</em> the same. &ldquo;Equal&rdquo; assumes that a level-playing field is enough (<em>i.e.</em>, everybody starts from a leveled ground). &ldquo;Equitable&rdquo; is about equitable outcomes (<em>i.e.</em>, all the heads are above the fence).</p>
+ <p>Let&rsquo;s say that the distribution is done by a boss or a committee. In the early days, with a small team, the boss or committee knows everybody and knows their work and they assign money, or stock, or whatever equitably. As the team grows, the boss or committee knows less and less of the new people and are getting foggy on what they do. At that point, the distribution starts to get out of whack.</p>
  <p>The old people notice and feel nostalgic. The next wave of people also notice and feel it&rsquo;s somewhat unfair, but &ldquo;the old guys deserve it.&rdquo; The newest people notice, too, they feel unappreciated, and go on strike.</p>
 
 <h1><span class="_paradigm">FIAT</span> Doesn&rsquo;t Scale</h1>
