@@ -20,12 +20,12 @@ image:    "/assets/img/icon-equal-vs-equitable.svg"
  </div>
 
 <h1>Equitable</h1>
- <p>&ldquo;Equitable distribution means everyone gets their fair share of something. If you work on a group project… you want an equitable share of the credit.&rdquo;<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+ <p>&ldquo;Equitable distribution means everyone gets their fair share of something. If you work on a group project&hellip; you want an equitable share of the credit.&rdquo;<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
  <div class="_center">
   <img
    src="/assets/img/equal-vs-equitable-02.svg"
    style="width:70%; margin-bottom:10px; "
-   alt="">
+   alt=""><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
  </div>
 
 <h1>They Are Not the Same</h1>
