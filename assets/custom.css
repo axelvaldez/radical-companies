@@ -310,7 +310,7 @@ td._spacer:after {
   white-space:normal;
 
   border:1px solid CadetBlue;
-  padding:2em 2em 0 2em;
+  padding:10px 10px 0 10px;
   width:80%;
   margin:0 auto 30px auto;
 }
