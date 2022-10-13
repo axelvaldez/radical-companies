@@ -11,7 +11,7 @@ image:    "icon-we-remember-therefore-we-are.svg"
 </div>
 
 <div class="_citation" style="margin-bottom:0; ">
- <p>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</p>
+ People will forget what you said, people will forget what you did, but people will never forget how you made them feel.
  <p class="_signature">Maya Angelou<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
 </div>
 
