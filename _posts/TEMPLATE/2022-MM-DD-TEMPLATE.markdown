@@ -12,14 +12,14 @@ image:    "icon-about-daos.svg"
 
 <h1>&nbsp;</h1>
 
-<p>Footnote here<a id="bn01" href="#en01"><sup>1&nbsp;</sup></a></p>
+<p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
 
-  <div class="_center">
-   <img
-    src="/assets/img/pings-to-rads-equation.svg"
-    width="70%"
-    alt="">
-  </div>
+<div class="_center">
+ <img
+  src="/assets/img/pings-to-rads-equation.svg"
+  width="70%"
+  alt="">
+ </div>
 
  <table align="center">
   <tr>
