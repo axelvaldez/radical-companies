@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "No Bonus or Salaries."
+title:    "No Bonuses or Salaries"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-about-daos.svg"
