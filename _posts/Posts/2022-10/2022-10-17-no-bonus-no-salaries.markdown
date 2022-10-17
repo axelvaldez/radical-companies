@@ -11,7 +11,12 @@ image:    "icon-about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Salaries, even bonuses,  are the minimal remuneration paid to people to bring enough value to a business to extrac a profit.</p>
+ <p>Salaries, even bonuses,  are,</p>
+ <ul
+  <li>the minimal remuneration paid to people</li>
+  <li>to bring enough value to a business</li>
+  <li>to extrac a profit</li>
+ </ul>
  <p>Roman soldiers of yore were paid with <em>sal</em>, “salt,” and that is where the word “salary” originated from.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
 
 <h1>Dividends Go to the Boss</h1>
