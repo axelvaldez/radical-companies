@@ -12,7 +12,7 @@ image:    "icon-about-daos.svg"
 
 <h1>&nbsp;</h1>
  <p>Salaries, even bonuses,  are,</p>
- <ul
+ <ul>
   <li>the minimal remuneration paid to people</li>
   <li>to bring enough value to a business</li>
   <li>to extrac a profit</li>
