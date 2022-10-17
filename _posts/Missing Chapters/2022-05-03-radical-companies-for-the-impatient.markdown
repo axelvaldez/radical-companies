@@ -20,21 +20,21 @@ image:    "icon-dynamic-distribution-1.svg"
   <table align="center">
    <tr>
     <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-    <td style="text-align:center; background-color:#EEEEEE; ">Meaning &<br>Belonging</td>
+    <td style="text-align:center; background-color:#EEEEEE; ">Meaning & Belonging</td>
    </tr>
    <tr>
     <td style="background-color: white; height: 7px;"></td>
    </tr>
    <tr>
     <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-    <td style="text-align:center; background-color:#EEEEEE;">Transparency &<br>Decentralization</td>
+    <td style="text-align:center; background-color:#EEEEEE;">Transparency & Decentralization</td>
    </tr>
    <tr>
     <td style="background-color: white; height: 7px;"></td>
    </tr>
    <tr>
     <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-    <td style="text-align:center; background-color:#EEEEEE; ">Alignment &<br>Experimentation</td>
+    <td style="text-align:center; background-color:#EEEEEE; ">Alignment & Experimentation</td>
    </tr>
    <tr>
     <td colspan="4">&nbsp;</td>
