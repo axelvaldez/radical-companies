@@ -143,7 +143,7 @@ image:    "icon-dynamic-distribution-1.svg"
    <p>People are the best judges of <em>what</em> a contribution is and <em>who</em> is making it and it doesn't take that many peole to cover the whole team. If somebody doesn't get any <span class="_paradigm">RAD</span>s at all, it's probably because he is totally disconnected or none of his work looks like contributions to however many people make up the company.</p>
    <table style="width: 80%; margin: 0 auto; ">
     <tr>
-     <td colspan="4"><img src="/assets/img/dynamic-distribution-1.svg" alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person." title="1 person's point of view: 17 of 56 people."></td>
+     <td colspan="4"><img src="/assets/img/icon-dynamic-distribution-1.svg" alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person." title="1 person's point of view: 17 of 56 people."></td>
     </tr>
     <tr>
      <td colspan="4" style="font-size: larger; text-align: center; ">1 person&rsquo;s point of view: 17 of 56 people.</td>
@@ -151,21 +151,21 @@ image:    "icon-dynamic-distribution-1.svg"
     <tr>
      <td>
       <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-       <img src="/assets/img/dynamic-distribution-2.svg" alt="A small circle inside which there are 56 monochrome faces, 31 of which are in color to indicate they've been given RADs by two people." title="2 people's point of view: 31 of 56 people.">
+       <img src="/assets/img/icon-dynamic-distribution-2.svg" alt="A small circle inside which there are 56 monochrome faces, 31 of which are in color to indicate they've been given RADs by two people." title="2 people's point of view: 31 of 56 people.">
       </p>
      </td>
      <td>
       <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-       <img src="/assets/img/dynamic-distribution-3.svg" alt="A small circle inside which there are 56 monochrome faces, 40 of which are in color to indicate they've been given RADs by three people." title="3 people's point of view: 40 of 56 people."></p>
+       <img src="/assets/img/icon-dynamic-distribution-3.svg" alt="A small circle inside which there are 56 monochrome faces, 40 of which are in color to indicate they've been given RADs by three people." title="3 people's point of view: 40 of 56 people."></p>
      </td>
      <td>
       <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-       <img src="/assets/img/dynamic-distribution-4.svg" alt="A small circle inside which there are 56 monochrome faces, 55 of which are in color to indicate they've been given RADs by four people." title="4 people's point of view: 55 of 56 people.">
+       <img src="/assets/img/icon-dynamic-distribution-4.svg" alt="A small circle inside which there are 56 monochrome faces, 55 of which are in color to indicate they've been given RADs by four people." title="4 people's point of view: 55 of 56 people.">
       </p>
      </td>
      <td>
       <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-       <img src="/assets/img/dynamic-distribution-5.svg" alt="A small circle inside which there are 56 faces, all of which are in color to indicate they've been given RADs by five people." title="5 people's point of view: 56 of 56 people.">
+       <img src="/assets/img/icon-dynamic-distribution-5.svg" alt="A small circle inside which there are 56 faces, all of which are in color to indicate they've been given RADs by five people." title="5 people's point of view: 56 of 56 people.">
       </p>
      </td>
     </tr>
