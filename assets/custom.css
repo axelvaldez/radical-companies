@@ -334,6 +334,14 @@ td._spacer:after {
   display:grid;
   place-items:center;
 }
+.table {
+  display:grid;
+  place-items:center;
+  width:70%;
+}
+.table tr {
+  vertical-align:top;
+}
 ._r {
   font-family:'Courier New', Courier, monospace;
 }
