@@ -62,9 +62,9 @@ image:    "icon-no-bonuses-or-salaries.svg"
   <li>The &ldquo;normal&rdquo; split is 100% to capital investors and a small &ldquo;bonus&rdquo; to everybody else. This is not what we are thinking of.</li>
   <li>In Spain, the NER companies on average give 70% to owners and 30% to everybody else. It could be 50-50 or 30-70.</li>
   <li>Rather than pay capital gain &ldquo;forever,&rdquo; the inclusion of capital investors should have a limit. It could be time (&ldquo;We will pay dividends for X years), or capped (&ldquo;We will pay up to X dollars in capital gains), or a combination of both. Possibly, you can also arrange it as a changing split: 70-30, 60-40, 50-50, &hellip; .</li>
-  <li>Eventually, the capital investors no longer participate in the RAD pool. At least, not as investors. They can get RADs for making other contributions, and would participate in the RAD pool, like everyone else.</li>
+  <li>Eventually, the capital investors no longer participate in the <span class="_paradigm">RAD</span> pool. At least, not as investors. They can get RADs for making other contributions, and would participate in the <span class="_paradigm">RAD</span> pool, like everyone else.</li>
  </ul>
- <p>As your organization matures and gets comfortable with the RAD Distribution, the next step is to reconsider salaries.</p>
+ <p>As your organization matures and gets comfortable with the working of <span class="_paradigm">RAD</span>s, the next step is to reconsider salaries.</p>
 
 <h1>No Salaries</h1>
  <p>A &ldquo;salary&rdquo; is a predictable wage in exchange for doing as the boss says. You can replace it with a <em>Predictable Recurring Income</em> (PRI) that each person takes home.</p>
@@ -73,7 +73,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
   <li>Every person determines what they need to take home every month and that becomes their PRI.</li>
   <li>Along with expenses and debt repayment, the sum of all PRIs determines what, for simplicity, we will call the company&rsquo;s breakeven point.</li>
   <li>Every month, the company pays its bills and all PRIs. What&rsquo;s left is distributed as <em>Earned Dividends</em>.</li>
-  <li>The amount of Earned Dividends is determined according to the latest RAD Distribution (and the split with capital investors, in any).</li>
+  <li>The amount of Earned Dividends is determined according to the latest <span class="_paradigm">RAD</span> Distribution (and the split with capital investors, in any).</li>
   <li>When revenue doesn&rsquo;t go above the breakeven point, a PRI fund provides predictability. We will explain the source of this fund below—it&rsquo;s not magic.</li>
  </ul>
  <p>The PRI functions like a salary,</p>
