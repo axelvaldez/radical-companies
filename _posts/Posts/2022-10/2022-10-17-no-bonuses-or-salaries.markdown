@@ -44,9 +44,9 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <p>Of course, the distribution of bonuses is never equal, because people don&rsquo;t contribute equally. It is up to the boss to determine what the correct distribution should be. The problem is that the boss has only his own perspective to make that decision. Even when the lesser bosses influence the distribution, they will most likely not know all the contributions made. In any case, the bonus distribution decision is made by a handful of people. And it is often perceived as unfair.</p>
  <p>I used to think that it was because &ldquo;I didn&rsquo;t get enough.&rdquo; Instead, it is mostly because,</p>
  <ul>
-  <li>People don&rsquo;t know how this distribution came about, and</li>
-  <li>At one end, many people perceived it as <em>unfair to their peers</em>. &ldquo;With all the work she&rsquo;s done, why didn&rsquo;t she get a bigger bonus?&rdquo;</li>
-  <li>At the other end, other people perceive it as generous which disrupts the sense of belonging.</li>
+  <li>People don&rsquo;t know how this distribution came about</li>
+  <li>At one end, many people perceived it as <em>unfair to their peers</em>. &ldquo;With all the work that she&rsquo;s done&hellip;&rdquo;</li>
+  <li>At the other end, other people perceive it as generous which disrupts the sense of belonging</li>
  </ul>
  <p>Again, this is so because as fair and even handed as the bosses might be, they are not perfect and they don&rsquo;t see all the contributions that are happening all around them.</p>
  <p></p>
