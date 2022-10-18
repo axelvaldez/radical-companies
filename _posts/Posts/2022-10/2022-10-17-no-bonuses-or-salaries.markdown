@@ -30,7 +30,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <p>See what happened here: I wrote &ldquo;hires people&rdquo; and you didn&rsquo;t even blink. It&rsquo;s the normal thing.</p>
 
 <h1>Ask Yourself</h1>
- <p>Here is the traditional (<em>i.e.</em><span class="_paradigm">FIAT</span><a href="#en02"><sup id="bm02">2&nbsp;</sup></a>) view,</p>
+ <p>Here is the traditional, <span class="_paradigm">FIAT</span><a href="#en02"><sup id="bm02">2&nbsp;</sup></a> view,</p>
  <ul>
   <li>Capital creates jobs.</li>
   <li>People work at those jobs.</li>
