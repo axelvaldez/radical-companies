@@ -49,8 +49,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
   <li>It is perceived as <em>unfair to their peers</em>. “With all the work she’s done, why didn’t she get a bigger bonus?”</li>
  </ul>
  <p>Again, this is so because as fair and even handed as the bosses might be, they are not perfect and they don’t see all the contributions that are happening all around them.</p>
-
-<h1>Without Bonus and Salaries</h1>
+ <p></p>
  <p>The simpler alternative is not to pay a bonus. And, as your organization matures, there’s not even a need to pay salaries.</p>
 
 <h1>No Bonus</h1>
