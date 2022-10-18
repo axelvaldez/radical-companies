@@ -41,8 +41,8 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <p>The question you have to ask yourself is: why don&rsquo;t the workers get any of these dividends? The response might be, &ldquo;Well, smart businesses are generous and they earmark some of these dividends as bonuses for the workers.&rdquo;</p>
 
 <h1>Bonuses</h1>
- <p>Of course, the distribution of bonuses is never equal, because people don&rsquo;t contribute equally. It is up to the boss to determine what the correct distribution should be. The problem is that the boss has only his own perspective to make that decision. Even when the lesser bosses influence the distribution, they will most likely not know all the contributions made. In any case, the bonus distribution decision is made by a handful of people. And it is often perceived as unfair.</p>
- <p>I used to think that it was because &ldquo;I didn&rsquo;t get enough.&rdquo; Instead, it is mostly because,</p>
+ <p>Of course, the distribution of bonuses is never equal, because people don&rsquo;t contribute equally. It is up to the boss to determine what the correct distribution should be. The problem is that the boss has only his own perspective to make that decision. Even when the lesser bosses influence the distribution, they will most likely not know all the contributions made. In any case, the bonus distribution decision is made by a handful of people.</p>
+ <p>Bonuses are always problematic. I used to think that it was because &ldquo;I didn&rsquo;t get enough.&rdquo; Instead, it is mostly because,</p>
  <ul>
   <li>People don&rsquo;t know how this distribution came about</li>
   <li>At one end, many people perceived it as <em>unfair to their peers</em>. &ldquo;With all the work that she&rsquo;s done&hellip;&rdquo;</li>
