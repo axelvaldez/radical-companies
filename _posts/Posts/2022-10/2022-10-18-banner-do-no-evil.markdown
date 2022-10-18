@@ -10,7 +10,7 @@ image:    "icon-about-daos.svg"
  <p></p>
 </div>
 
- <p>BANNERs could siphon money back to the giving co-owner. I give RADs to a BANNER which then gives the money back to me.</p>
+ <p><span class="_paradigm">BANNER</span>s could siphon money back to the giving co-owner. I give <span class="_paradigm">RAD</span>s to a <span class="_paradigm">BANNER</span> which then gives the money back to me.</p>
  <p>In order to fix this, we could do assume one of the following,</p>
  <table>
   <tr style="vertical-align:top; ">
@@ -22,16 +22,16 @@ image:    "icon-about-daos.svg"
   </tr>
   <tr>
    <td style="text-align:right; vertical-align:top; ">Certified Legit</td>
-   <td>This sounds like, again, a FIAT approach. Who would do the filtering? By what power?</td>
+   <td>This sounds like, again, a <span class="_paradigm">FIAT</span> approach. Who would do the filtering? By what power?</td>
   </tr>
   <tr>
    <td style="text-align:right; vertical-align:top; ">It happened, but all’s well</td>
-   <td>We could set up a BANNER to support kids with cancer. Then a co-owner’s kid ends up with cancer and benefits from the fund collected through the BANNER. In this case, there’s no foul play, just unfortunate circumstances.</td>
+   <td>We could set up a <span class="_paradigm">BANNER</span> to support kids with cancer. Then a co-owner’s kid ends up with cancer and benefits from the fund collected through the <span class="_paradigm">BANNER</span>. In this case, there’s no foul play, just unfortunate circumstances.</td>
   </tr>
   <tr>
-   <td style="text-align:right; vertical-align:top; ">Disclose all  BANNER beneficiaries</td>
+   <td style="text-align:right; vertical-align:top; ">Disclose all  <span class="_paradigm">BANNER</span> beneficiaries</td>
    <td>
-    Let everybody see who’s going to benefit from a BANNER, including non-community beneficiaries. In the case of, say, a BANNER to buy a building, disclose who is supporting the BANNER.
+    Let everybody see who’s going to benefit from a <span class="_paradigm">BANNER</span>, including non-community beneficiaries. In the case of, say, a <span class="_paradigm">BANNER</span> to buy a building, disclose who is supporting the <span class="_paradigm">BANNER</span>.
     <br>
     This feels like the most effective solution. Also, it could be part of the Trust Agreement, to remind people not to be dicks.
    </td>
