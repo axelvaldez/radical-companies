@@ -15,7 +15,7 @@ image:    "icon-about-daos.svg"
  <table style="width:70%; " class="_center">
   <tr style="vertical-align:top; ">
    <td style="text-align:right; ">We should stop it</td>
-   <td colspan="2">Unfortunately, these smell of FIAT violence; a mild case, but violence nevertheless.</td>
+   <td colspan="2">Unfortunately, these smell of FIAT violence; a mild case, but violence nonetheless.</td>
   </tr>
   <tr>
    <td style="text-align:right; ">Don’t allow anybody but community members</td>
