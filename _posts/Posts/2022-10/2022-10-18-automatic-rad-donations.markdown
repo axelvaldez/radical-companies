@@ -11,7 +11,7 @@ image:    "icon-about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>What if, for example, I want to invest <em>more</em> money than I get <em>earned dividends</em> in one cycle? Or, if I want to commit N% of my class="_paradigm">RAD</span>s income to a project?</p>
+ <p>What if, for example, I want to invest <em>more</em> money than I get <em>earned dividends</em> in one cycle? Or, if I want to commit <em>N percent</em>  of my class="_paradigm">RAD</span>s income to a project?</p>
  <p>In these cases, I can express that I want to invest <em>N</em> or <em>N percent</em> of my <span class="_paradigm">RAD</span> income to a co-owner for, say, the next three cycles. Or I could express that I want to invest some of it in a <span class="_paradigm">BANNER</span> for as long as it is up.</p>
  <p>This way I can invest in another co-owner, project, or cause automatically.</p>
 
