@@ -87,7 +87,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <ul>
   <li>Salim earned <em>enough</em> and his dividends covered his full PRI (beige).</li>
   <li>Daliah, Alicia, and Anita earned <em>more than</em> their PRI and took it all home (beige and green).</li>
-  <li>Kim and Julio earned <em>less than</em> their PRI, but nevertheless they took their PRI home (being)—money flowed out (red) of the PRI fund to make up the difference. But, they now owe this much to the PRI fund.</li>
+  <li>Kim and Julio earned <em>less than</em> their PRI, but nevertheless they took their PRI home (beige)&mdash;money flowed out (red) of the PRI fund to make up the difference. But, they now owe this much to the PRI fund.</li>
  </ul>
  <div class="_center">
   <img
