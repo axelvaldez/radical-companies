@@ -30,7 +30,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <p>See what happened here: I wrote &ldquo;hires people&rdquo; and you didn&rsquo;t even blink. It&rsquo;s the normal thing.</p>
 
 <h1>Ask Yourself</h1>
- <p>Here is the traditional (<em>i.e.</em><span class="_paradigm">FIAT</span>) view.</p>
+ <p>Here is the traditional (<em>i.e.</em><span class="_paradigm">FIAT</span><a href="#en02"><sup id="bm02">2&nbsp;</sup></a>) view.</p>
  <ul>
   <li>Capital creates jobs.</li>
   <li>People work at those jobs.</li>
@@ -100,7 +100,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <p>As a personal debt, on the other hand, everyone can figure out what works for them and decide accordingly. Maybe Julio starts high but then he brings his PRI down once he realizes that he had jacked it up out of unexamined fears. Or maybe he keeps it high because he is paying for his sister&rsquo;s school and is willing to bear the debt for a while longer. No matter, he knows and he is responsible for his choices.</p>
  <p>There are many other set ups that you can experiment with.</p>
  <p></p>
- <p>For more details, see <em>RADICAL COMPANIES for the Impatient</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> or, if y0u have the time, <em>RADICAL COMPANIES: Without Bosses or Employees</em>.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
+ <p>For more details, see <em>RADICAL COMPANIES for the Impatient</em>.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> or, if y0u have the time, <em>RADICAL COMPANIES: Without Bosses or Employees</em>.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
   <ol>
@@ -112,10 +112,8 @@ image:    "icon-no-bonuses-or-salaries.svg"
   </li>
   <li id="en02">
    <p class="_list-item">
-    Matt Perez, Adrian Perez, Jose Leal.
-    <em>RADICAL COMPANIES for the Impatient</em>.
-    2021.
-    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>
+    <span class="_paradigm">FIAT</span> means &ldquo;a decree, command, order.&rdquo; See,
+    <<a href="https://www.etymonline.com/search?q=fiat">https://www.etymonline.com/search?q=fiat</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -124,8 +122,17 @@ image:    "icon-no-bonuses-or-salaries.svg"
     Matt Perez, Adrian Perez, Jose Leal.
     <em>RADICAL COMPANIES for the Impatient</em>.
     2021.
-    <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>
+    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item">
+    Matt Perez, Adrian Perez, Jose Leal.
+    <em>RADICAL COMPANIES for the Impatient</em>.
+    2021.
+    <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
