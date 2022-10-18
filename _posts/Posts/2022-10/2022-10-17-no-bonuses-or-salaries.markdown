@@ -89,7 +89,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
   <li>Daliah, Alicia, and Anita earned <em>more than</em> their PRI and took it all home (beige and green).</li>
   <li>Kim and Julio earned <em>less than</em> their PRI, but nevertheless they took their PRI home (beige)&mdash;money flowed out (red) of the PRI fund to make up the difference. But, they now owe this much to the PRI fund.</li>
  </ul>
- <div class="_img">
+ <div class="_image">
   <img
    src="/assets/img/en-predictable-recurring-income-pri-t2a.svg"
    width="70%"
