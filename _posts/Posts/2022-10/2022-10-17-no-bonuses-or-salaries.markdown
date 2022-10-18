@@ -68,10 +68,10 @@ image:    "icon-no-bonuses-or-salaries.svg"
 
 <h1>No Salaries</h1>
  <p>A &ldquo;salary&rdquo; is a predictable wage in exchange for doing as the boss says. You can replace it with a <em>Predictable Recurring Income</em> (PRI) that each person takes home.</p>
- <p>It would work like this,</p>
+ <p>It works like this,</p>
  <ul>
-  <li>Every person determines what they need to take home every month and that becomes their <em>Predictable Recurring Income</em> (PRI).</li>
-  <li>Along with expenses, loan repayment, and other fixed expenses, the sum of all PRIs determines what, for simplicity, we will call the company&rsquo;s breakeven point.</li>
+  <li>Every person determines what they need to take home every month and that becomes their PRI.</li>
+  <li>Along with expenses and debt repayment, the sum of all PRIs determines what, for simplicity, we will call the company&rsquo;s breakeven point.</li>
   <li>Every month, the company pays its bills and all PRIs. What&rsquo;s left is distributed as <em>Earned Dividends</em>.</li>
   <li>The amount of Earned Dividends is determined according to the latest RAD Distribution (and the split with capital investors, in any).</li>
   <li>When revenue doesn&rsquo;t go above the breakeven point, a PRI fund provides predictability. We will explain the source of this fund below—it&rsquo;s not magic.</li>
