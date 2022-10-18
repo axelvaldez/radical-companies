@@ -31,8 +31,9 @@ image:    "icon-about-daos.svg"
   <tr>
    <td style="text-align:right; vertical-align:top; ">Disclose all  BANNER beneficiaries</td>
    <td>
-    <p>Let everybody see who’s going to benefit from a BANNER, including non-community beneficiaries. In the case of, say, a BANNER to buy a building, disclose who is supporting the BANNER.</p>
-    <p>This feels like the most effective solution. Also, it could be part of the Trust Agreement, to remind people not to be dicks.</p>
+    Let everybody see who’s going to benefit from a BANNER, including non-community beneficiaries. In the case of, say, a BANNER to buy a building, disclose who is supporting the BANNER.
+    <br>
+    This feels like the most effective solution. Also, it could be part of the Trust Agreement, to remind people not to be dicks.
    </td>
   </tr>
   <tr>
