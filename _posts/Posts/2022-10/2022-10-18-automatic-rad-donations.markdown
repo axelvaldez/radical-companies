@@ -3,7 +3,7 @@ layout:   post
 title:    "Automatic Investments"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-automatic-investments.svg"
 ---
 
 <div style="display:none;">
