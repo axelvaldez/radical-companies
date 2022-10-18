@@ -11,7 +11,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Salaries and bonuses an expense that,</p>
+ <p>Salaries and bonuses are an expense that,</p>
  <ul>
   <li>Is paid to people,</li>
   <li>To create enough value,</li>
