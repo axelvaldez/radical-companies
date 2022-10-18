@@ -45,7 +45,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <p>I used to think that it was because &ldquo;I didn&rsquo;t get enough.&rdquo; Instead, it is mostly because,</p>
  <ul>
   <li>People don&rsquo;t know how this distribution came about, and</li>
-  <li>It is perceived as <em>unfair to their peers</em>. &ldquo;With all the work she&rsquo;s done, why didn&rsquo;t she get a bigger bonus?&rdquo;</li>
+  <li>At one end, many people perceived it as <em>unfair to their peers</em>. &ldquo;With all the work she&rsquo;s done, why didn&rsquo;t she get a bigger bonus?&rdquo;</li>
   <li>At the other end, other people perceive it as generous which disrupts the sense of belonging.</li>
  </ul>
  <p>Again, this is so because as fair and even handed as the bosses might be, they are not perfect and they don&rsquo;t see all the contributions that are happening all around them.</p>
