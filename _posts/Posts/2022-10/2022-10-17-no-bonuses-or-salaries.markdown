@@ -99,7 +99,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <p>In a larger than very small group, sharing a debt would make everybody responsible for the debt accumulated by people they don’t know and they probably don’t trust. They would either be quietly bothered by it, or want to know things like, “<em>Who is this Julio person and why is his PRI so high?</em>”</p>
  <p>As a personal debt, on the other hand, everyone can figure out what works for them and decide accordingly. Maybe Julio starts high but then he brings his PRI down once he realizes that he had jacked it up out of unexamined fears. Or maybe he keeps it high because he is paying for his sister’s school and is willing to bear the debt for a while longer. No matter, he knows and he is responsible for his choices.</p>
  <p>There are many other set ups that you can experiment with.</p>
- <br>
+ <p></p>
  <p>For more details, see <em>RADICAL COMPANIES for the Impatient</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> or, if y0u have the time, <em>RADICAL COMPANIES: Without Bosses or Employees</em>.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
