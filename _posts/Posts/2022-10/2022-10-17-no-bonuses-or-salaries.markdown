@@ -7,7 +7,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
 ---
 
 <div style="display:none;">
- <p>Salaries, even bonuses,  are the minimal remuneration paid to people to bring enough value to a business to extrac a profit. Better for everybody to get rid of salies and bonuses.</p>
+ <p>If bonuses and salaries are an expense paid to people to create enough value to generate a profit, then why not get rid of salaries and bonuses?</p>
 </div>
 
 <h1>&nbsp;</h1>
