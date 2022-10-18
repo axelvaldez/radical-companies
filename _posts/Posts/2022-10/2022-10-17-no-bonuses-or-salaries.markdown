@@ -13,7 +13,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
 <h1>&nbsp;</h1>
  <p>Salaries and bonuses are,</p>
  <ul>
-  <li>The minimal remuneration, an expense that has to be paid to people,</li>
+  <li>An expense that has to be paid to people,</li>
   <li>To create enough value,</li>
   <li>To generate a profit.</li>
  </ul>
