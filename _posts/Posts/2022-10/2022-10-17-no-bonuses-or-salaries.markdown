@@ -23,7 +23,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <p>Capital is money that makes money (<em>i.e.</em>, dividends). To start a business, the boss either has capital or convinces people with capital to give him some. Then a business is born.</p>
  <p>Obviously, this is all a high-level sketch of what happens, but it serves to illustrate the point that,</p>
  <ol>
-  <li>Capital investors own the company and</li>
+  <li>Because of their capital, investors own the business,</li>
   <li>The boss is the boss thanks to capital.</li>
  </ol>
  <p>With this capital, the boss now buys machinery, hires people, and (in the pre-COVID-19 era) rents a building to house said machinery and people.</p>
