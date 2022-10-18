@@ -1,17 +1,19 @@
 ---
 layout:   post
-title:    "Automatic RAD Donations"
+title:    "Automatic Investments"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-about-daos.svg"
 ---
 
 <div style="display:none;">
- <p>What if you want to give more than one cycle&rsquo;s worth of <span class="_paradigm">RAD</span>s?</p>
+ <p>What if you want to invest more than one cycle&rsquo;s worth?</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>What if, for example, I want to give somebody <em>more</em> <span class="_paradigm">RAD</span>s than I get in one cycle? Or what if I want to commit 10% of my <span class="_paradigm">RAD</span>s to a project? In these cases, I can express that I want to give N or N percent of my <span class="_paradigm">RAD</span>s to a <span class="_paradigm">BANNER</span> for, say, the next three cycles. Or I could express that I want tto donate for as long as the <span class="_paradigm">BANNER</span> is up. This way I can donate my <span class="_paradigm">RAD</span>s to another co-owner, project, or cause automatically.</p>
+ <p>What if, for example, I want to invest <em>more</em> money than I get <em>earned dividends</em> in one cycle? Or, if I want to commit N% of my class="_paradigm">RAD</span>s income to a project?</p>
+ <p>In these cases, I can express that I want to invest <em>N</em> or <em>N percent</em> of my <span class="_paradigm">RAD</span> income to a co-owner for, say, the next three cycles. Or I could express that I want to invest some of it in a <span class="_paradigm">BANNER</span> for as long as it is up.</p>
+ <p>This way I can invest in another co-owner, project, or cause automatically.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
