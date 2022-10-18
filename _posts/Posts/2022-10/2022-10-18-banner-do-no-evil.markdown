@@ -13,12 +13,12 @@ image:    "icon-about-daos.svg"
  <p>BANNERs could siphon money back to the giving co-owner. I give RADs to a BANNER which then gives the money back to me.</p>
  <p>In order to fix this, we could do assume one of the following,</p>
  <table style="width:100%; " class="_center">
-  <tr>
-   <td style="text-align:right; vertical-align:top; ">We should stop it</td>
+  <tr style="vertical-align:top; ">
+   <td style="text-align:right; ">We should stop it</td>
    <td colspan="2">Unfortunately, these smell of FIAT violence; a mild case, but violence nevertheless.</td>
   </tr>
   <tr>
-   <td style="text-align:right; vertical-align:top; ">Don’t allow anybody but community members</td>
+   <td style="text-align:right; ">Don’t allow anybody but community members</td>
   </tr>
   <tr>
    <td style="text-align:right; vertical-align:top; ">Certified Legit</td>
