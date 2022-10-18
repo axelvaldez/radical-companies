@@ -91,12 +91,12 @@ image:    "icon-no-bonuses-or-salaries.svg"
  </ul>
  <div class="_center">
   <img
-   src="/assets/img/en-predictable-recurring-income-pri-t2.svg"
+   src="/assets/img/en-predictable-recurring-income-pri-t2a.svg"
    width="70%"
    alt="A table with six columns labeled Salim, Daliah, Alicia, Kim, Julio, Anita. Below it there is a historgram with rows labeled Earned Dividens, PRI Account, and PRIs. The PRI Account is one vertical box full of wavy red representing money from a cash infusion. In Salim's column shows no dividens and a 4-unit vertical PR box. Under Daliah's, Alicia's, and Anita's columns there is a 3-unit, 10-unit, and 2-unit vertical PRI boxes, respectively, and a 4-unit, 1-unit and 3 unit vertical dividend boxes. In the Kim's and Julio's columns there are a 4.5-unit and 8-unit vertical PRI boxex with a mix of being and red to indicate that moneh flowed out of the PRI account to fill what was missing from Kim's and Julio's PRI.">
  </div>
  <p>We had a lot of back and forth over whether or not the debt to the PRI fund was personal or not. I personally think this scales only as a personal debt and not as a shared debt.</p>
- <p>In other than very small group, sharing a debt would make everybody responsible for the debt accumulated by people they don&rsquo;t know and they probably don&rsquo;t trust. People would either be quietly bothered by it, or want to know things like, &ldquo;<em>Who is this Julio person and why is his PRI so high?</em>&rdquo; Think of what it would be like with hundreds or even thousands of people.</p>
+ <p>In other than a very small group, sharing a debt would make everybody responsible for the debt accumulated by people they don&rsquo;t know and they probably don&rsquo;t trust. People would either be quietly bothered by it, or want to know things like, &ldquo;<em>Who is this Julio person and why is his PRI so high?</em>&rdquo; Think of what it would be like with hundreds or even thousands of people.</p>
  <p>As a personal debt, on the other hand, everyone can figure out what works for them and decide accordingly. Maybe Julio starts high but then he brings his PRI down once he realizes that he had jacked it up out of unexamined fears. Or maybe he keeps it high because he is paying for his sister&rsquo;s school and is willing to bear the debt for a while longer. No matter, he knows and he is responsible for his choices.</p>
  <p>There are many other set ups that you can experiment with.</p>
  <p></p>
