@@ -30,7 +30,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <p>See what happened here: I wrote &ldquo;hires people&rdquo; and you didn&rsquo;t even blink. It&rsquo;s the normal thing.</p>
 
 <h1>Ask Yourself</h1>
- <p>Here is the traditional (<em>i.e.</em><span class="_paradigm">FIAT</span><a href="#en02"><sup id="bm02">2&nbsp;</sup></a>) view.</p>
+ <p>Here is the traditional (<em>i.e.</em><span class="_paradigm">FIAT</span><a href="#en02"><sup id="bm02">2&nbsp;</sup></a>) view,</p>
  <ul>
   <li>Capital creates jobs.</li>
   <li>People work at those jobs.</li>
@@ -38,7 +38,6 @@ image:    "icon-no-bonuses-or-salaries.svg"
   <li>This value comes in the form of dividends for owners.</li>
   <li>The people who work there and created the value that commanded those dividends, they get a salary (<em>i.e.</em>, an expense for the business).</li>
  </ul>
- <p>So, what&rsquo;s the problem?</p>
  <p>The question you have to ask yourself is why don&rsquo;t the workers get any of these dividends? The response might be, &ldquo;Well, smart businesses are generous and they earmark some of these dividends as bonuses for the workers.&rdquo;</p>
 
 <h1>Bonuses</h1>
