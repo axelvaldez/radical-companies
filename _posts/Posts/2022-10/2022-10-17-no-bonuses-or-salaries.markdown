@@ -27,7 +27,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
   <li>The boss is the boss thanks to capital.</li>
  </ol>
  <p>With this capital, the boss now buys machinery, hires people, and (in the pre-COVID-19 era) rents a building to house said machinery and people.</p>
- <p>See what happened here: I wrote &ldquo;hires people&rdquo; and you didn&rsquo;t even blink. It&rsquo;s the normal thing: capital creates jobs that the boss hires people into. Period.</p>
+ <p>See what happened here: I wrote &ldquo;hires people&rdquo; and you didn&rsquo;t even blink. It&rsquo;s the normal thing.</p>
 
 <h1>Ask Yourself</h1>
  <p>Here is the typical view,</p>
