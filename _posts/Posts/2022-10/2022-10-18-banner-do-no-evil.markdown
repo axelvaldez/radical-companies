@@ -11,10 +11,10 @@ image:    "icon-about-daos.svg"
 </div>
 
  <p><span class="_paradigm">BANNER</span>s could siphon money back to the giving co-owner. I give <span class="_paradigm">RAD</span>s to a <span class="_paradigm">BANNER</span> which then gives the money back to me.</p>
- <p>In order to fix this, we could do assume one of the following,</p>
+ <p>In order to fix this, we could do one of the following,</p>
  <table>
   <tr style="vertical-align:top; ">
-   <td style="text-align:right; ">We should stop it</td>
+   <td style="text-align:right; ">Stop it</td>
    <td colspan="2">Unfortunately, these smell of FIAT violence; a mild case, but violence nonetheless.</td>
   </tr>
   <tr>
