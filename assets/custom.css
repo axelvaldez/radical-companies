@@ -346,3 +346,9 @@ td._spacer:after {
 ._quotespan::after {
   content: "”";
 }
+._image {
+  display:grid;
+  place-items:center;
+  font-family:'Courier New', Courier, monospace;
+  font-size:smaller;
+}
