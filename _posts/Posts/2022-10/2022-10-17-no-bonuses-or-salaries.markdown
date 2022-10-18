@@ -46,7 +46,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <ul>
   <li>People don&rsquo;t know how this distribution came about</li>
   <li>At one end, many people perceived it as <em>unfair to their peers</em>. &ldquo;With all the work that she&rsquo;s done&hellip;&rdquo;</li>
-  <li>At the other end, other people perceive it as generous. Unfortunately, which disrupts the feeling of belonging</li>
+  <li>At the other end, other people perceive it as generous. Unfortunately, this disrupts the feeling of belonging</li>
  </ul>
  <p>Again, this is so because as fair and even handed as the bosses might be, they are not perfect and they don&rsquo;t see all the contributions that are happening all around them.</p>
  <p></p>
