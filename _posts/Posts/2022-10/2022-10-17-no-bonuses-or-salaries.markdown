@@ -67,7 +67,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <p>As your organization matures and gets comfortable with the RAD Distribution, the next step is to reconsider salaries.</p>
 
 <h1>No Salaries</h1>
- <p>A &ldquo;salary&rdquo; is a predictable wage in exchange for doing as the boss says. You can replace it with a <em>Predictable Recurring Income</em> (PRI), what each person takes home.</p>
+ <p>A &ldquo;salary&rdquo; is a predictable wage in exchange for doing as the boss says. You can replace it with a <em>Predictable Recurring Income</em> (PRI) that each person takes home.</p>
  <p>It would work like this,</p>
  <ul>
   <li>Every person determines what they need to take home every month and that becomes their <em>Predictable Recurring Income</em> (PRI).</li>
