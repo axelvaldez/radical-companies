@@ -20,7 +20,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <p>Roman soldiers of yore were paid with <em>sal</em>, &ldquo;salt,&rdquo; and that is where the word &ldquo;salary&rdquo; originated from.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
 
 <h1>Dividends Go Up to Owners</h1>
- <p>Capital is money that makes money (<em>i.e.</em>, dividends). The new money is popularly called profits. Profits are reserved for the owners.</p>
+ <p>Capital is money that makes money. The new money is popularly called profits. Profits are reserved for the owners.</p>
  <p>To start a business, the boss either has capital or convinces people with capital to give him some. Then a business is born. Obviously, this is all a high-level sketch of what happens, but it serves to illustrate the point that,</p>
  <ol>
   <li>Because of their capital, investors own the business,</li>
