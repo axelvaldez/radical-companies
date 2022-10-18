@@ -36,7 +36,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
   <li>People work at those jobs.</li>
   <li>Their work makes the business valuable.</li>
   <li>This value comes in the form of dividends for owners.</li>
-  <li>The people who work there and created the value that commanded those dividends, they get a salary (<em>i.e.</em>, an expense for the business).</li>
+  <li>The people who work there and created the value that commanded those dividends, they get a salary.</li>
  </ul>
  <p>The question you have to ask yourself is: why don&rsquo;t the workers get any of these dividends? The response might be, &ldquo;Well, smart businesses are generous and they earmark some of these dividends as bonuses for the workers.&rdquo;</p>
 
