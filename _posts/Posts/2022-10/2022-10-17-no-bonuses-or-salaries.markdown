@@ -11,11 +11,11 @@ image:    "icon-no-bonuses-or-salaries.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Salaries, even bonuses,  are,</p>
+ <p>Salaries and bonuses are,</p>
  <ul>
-  <li>the minimal remuneration paid to people</li>
-  <li>to bring enough value to a business</li>
-  <li>to extrac a profit</li>
+  <li>The minimal remuneration, an expense that has to be paid to people,</li>
+  <li>To create enough value,</li>
+  <li>To generate a profit.</li>
  </ul>
  <p>Roman soldiers of yore were paid with <em>sal</em>, &ldquo;salt,&rdquo; and that is where the word &ldquo;salary&rdquo; originated from.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
 
