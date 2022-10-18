@@ -17,7 +17,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
   <li>to bring enough value to a business</li>
   <li>to extrac a profit</li>
  </ul>
- <p>Roman soldiers of yore were paid with <em>sal</em>, “salt,” and that is where the word “salary” originated from.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
+ <p>Roman soldiers of yore were paid with <em>sal</em>, &ldquo;salt,&rdquo; and that is where the word &ldquo;salary&rdquo; originated from.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
 
 <h1>Dividends Go to the Boss</h1>
  <p>Capital is money that makes money (<em>i.e.</em>, dividends). To start a business, the boss either has capital or convinces people with capital to give him some. Then a business is born.</p>
@@ -27,7 +27,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
   <li>The boss is the boss thanks to capital.</li>
  </ol>
  <p>With this capital, the boss now buys machinery, hires people, and (in the pre-COVID-19 era) rents a building to house said machinery and people.</p>
- <p>See what happened here: I wrote “hires people” and you didn’t even blink. It’s the normal thing: capital creates jobs that the boss hires people into. Period.</p>
+ <p>See what happened here: I wrote &ldquo;hires people&rdquo; and you didn&rsquo;t even blink. It&rsquo;s the normal thing: capital creates jobs that the boss hires people into. Period.</p>
 
 <h1>Ask Yourself</h1>
  <p>Here is the typical view,</p>
@@ -38,47 +38,47 @@ image:    "icon-no-bonuses-or-salaries.svg"
   <li>This value comes in the form of dividends for owners.</li>
   <li>The people who work there and created the value that commanded those dividends, they get a salary (<em>i.e.</em>, an expense for the business).</li>
  </ul>
- <p>So, what’s the problem?</p>
- <p>The question you have to ask yourself is why don’t the workers get any of these dividends? The response might be, “Well, smart businesses are generous and they earmark some of these dividends as bonuses for the workers.”</p>
+ <p>So, what&rsquo;s the problem?</p>
+ <p>The question you have to ask yourself is why don&rsquo;t the workers get any of these dividends? The response might be, &ldquo;Well, smart businesses are generous and they earmark some of these dividends as bonuses for the workers.&rdquo;</p>
 
 <h1>Bonuses</h1>
- <p>Of course, the distribution of bonuses is never equal, because people don’t contribute equally. It is up to the boss to determine what the correct distribution should be. The problem is that the boss has only his own perspective to make that decision. Even when the lesser bosses influence the distribution, they will most likely not know all the contributions made. In any case, the bonus distribution decision is made by a handful of people. And it is often perceived as unfair.</p>
- <p>I used to think that it was because “I didn’t get enough.” Instead, it is mostly because,</p>
+ <p>Of course, the distribution of bonuses is never equal, because people don&rsquo;t contribute equally. It is up to the boss to determine what the correct distribution should be. The problem is that the boss has only his own perspective to make that decision. Even when the lesser bosses influence the distribution, they will most likely not know all the contributions made. In any case, the bonus distribution decision is made by a handful of people. And it is often perceived as unfair.</p>
+ <p>I used to think that it was because &ldquo;I didn&rsquo;t get enough.&rdquo; Instead, it is mostly because,</p>
  <ul>
-  <li>People don’t know how this distribution came about, and</li>
-  <li>It is perceived as <em>unfair to their peers</em>. “With all the work she’s done, why didn’t she get a bigger bonus?”</li>
+  <li>People don&rsquo;t know how this distribution came about, and</li>
+  <li>It is perceived as <em>unfair to their peers</em>. &ldquo;With all the work she&rsquo;s done, why didn&rsquo;t she get a bigger bonus?&rdquo;</li>
  </ul>
- <p>Again, this is so because as fair and even handed as the bosses might be, they are not perfect and they don’t see all the contributions that are happening all around them.</p>
+ <p>Again, this is so because as fair and even handed as the bosses might be, they are not perfect and they don&rsquo;t see all the contributions that are happening all around them.</p>
  <p></p>
- <p>The simpler alternative is not to pay a bonus. And, as your organization matures, there’s not even a need to pay salaries.</p>
+ <p>The simpler alternative is not to pay a bonus. And, as your organization matures, there&rsquo;s not even a need to pay salaries.</p>
 
 <h1>No Bonus</h1>
- <p>Instead of giving a “bonus,” set up a system that recognizes contributions, and rather than a handful of bosses, have everybody recognize contributions <em>as they happen</em>.</p>
- <p>At “bonus” time, the number of recognitions, which we call RADs, determines what percentage of the bonus fund each person receives.</p>
+ <p>Instead of giving a &ldquo;bonus,&rdquo; set up a system that recognizes contributions, and rather than a handful of bosses, have everybody recognize contributions <em>as they happen</em>.</p>
+ <p>At &ldquo;bonus&rdquo; time, the number of recognitions, which we call RADs, determines what percentage of the bonus fund each person receives.</p>
  <p>It is key that you make the distribution completely transparent and easily available to everybody. This way, anybody can raise questions, ask for clarification, and detect cheating.</p>
 
 <h1>What about Capital Investors?</h1>
  <ul>
-  <li>The “normal” split is 100% to capital investors and a small “bonus” to everybody else. This is not what we are thinking of.</li>
+  <li>The &ldquo;normal&rdquo; split is 100% to capital investors and a small &ldquo;bonus&rdquo; to everybody else. This is not what we are thinking of.</li>
   <li>In Spain, the NER companies on average give 70% to owners and 30% to everybody else. It could be 50-50 or 30-70.</li>
-  <li>Rather than pay capital gain “forever,” the inclusion of capital investors should have a limit. It could be time (“We will pay dividends for X years), or capped (“We will pay up to X dollars in capital gains), or a combination of both. Possibly, you can also arrange it as a changing split: 70-30, 60-40, 50-50, … .</li>
+  <li>Rather than pay capital gain &ldquo;forever,&rdquo; the inclusion of capital investors should have a limit. It could be time (&ldquo;We will pay dividends for X years), or capped (&ldquo;We will pay up to X dollars in capital gains), or a combination of both. Possibly, you can also arrange it as a changing split: 70-30, 60-40, 50-50, &hellip; .</li>
   <li>Eventually, the capital investors no longer participate in the RAD pool. At least, not as investors. They can get RADs for making other contributions, and would participate in the RAD pool, like everyone else.</li>
  </ul>
  <p>As your organization matures and gets comfortable with the RAD Distribution, the next step is to reconsider salaries.</p>
 
 <h1>No Salaries</h1>
- <p>A “salary” is a predictable wage in exchange for doing as the boss says. You can replace it with a <em>Predictable Recurring Income</em> (PRI), what each person takes home.</p>
+ <p>A &ldquo;salary&rdquo; is a predictable wage in exchange for doing as the boss says. You can replace it with a <em>Predictable Recurring Income</em> (PRI), what each person takes home.</p>
  <p>It would work like this,</p>
  <ul>
   <li>Every person determines what they need to take home every month and that becomes their <em>Predictable Recurring Income</em> (PRI).</li>
-  <li>Along with expenses, loan repayment, and other fixed expenses, the sum of all PRIs determines what, for simplicity, we will call the company’s breakeven point.</li>
-  <li>Every month, the company pays its bills and all PRIs. What’s left is distributed as <em>Earned Dividends</em>.</li>
+  <li>Along with expenses, loan repayment, and other fixed expenses, the sum of all PRIs determines what, for simplicity, we will call the company&rsquo;s breakeven point.</li>
+  <li>Every month, the company pays its bills and all PRIs. What&rsquo;s left is distributed as <em>Earned Dividends</em>.</li>
   <li>The amount of Earned Dividends is determined according to the latest RAD Distribution (and the split with capital investors, in any).</li>
-  <li>When revenue doesn’t go above the breakeven point, a PRI fund provides predictability. We will explain the source of this fund below—it’s not magic.</li>
+  <li>When revenue doesn&rsquo;t go above the breakeven point, a PRI fund provides predictability. We will explain the source of this fund below—it&rsquo;s not magic.</li>
  </ul>
  <p>The PRI functions like a salary,</p>
  <ul>
-  <li>If what you’ve earned <em>matches</em> your PRI, then you take that much home.</li>
+  <li>If what you&rsquo;ve earned <em>matches</em> your PRI, then you take that much home.</li>
   <li>If you earned <em>more than</em> your PRI, then you take home your PRI <em>and</em> the rest of your Earned Dividends.</li>
   <li>If you earned <em>less than</em> your PRI, you still take home <em>the amount of money you expected</em>, because the PRI fund makes up the difference. But, you now owe this much to the PRI fund.</li>
  </ul>
@@ -96,8 +96,8 @@ image:    "icon-no-bonuses-or-salaries.svg"
    alt="A table with six columns labeled Salim, Daliah, Alicia, Kim, Julio, Anita. Below it there is a historgram with rows labeled Earned Dividens, PRI Account, and PRIs. The PRI Account is one vertical box full of wavy red representing money from a cash infusion. In Salim's column shows no dividens and a 4-unit vertical PR box. Under Daliah's, Alicia's, and Anita's columns there is a 3-unit, 10-unit, and 2-unit vertical PRI boxes, respectively, and a 4-unit, 1-unit and 3 unit vertical dividend boxes. In the Kim's and Julio's columns there are a 4.5-unit and 8-unit vertical PRI boxex with a mix of being and red to indicate that moneh flowed out of the PRI account to fill what was missing from Kim's and Julio's PRI.">
  </div>
  <p>We had a lot of back and forth over whether or not the debt to the PRI fund was personal or not. I think this scales only as a personal debt and not as a shared debt.</p>
- <p>In a larger than very small group, sharing a debt would make everybody responsible for the debt accumulated by people they don’t know and they probably don’t trust. They would either be quietly bothered by it, or want to know things like, “<em>Who is this Julio person and why is his PRI so high?</em>”</p>
- <p>As a personal debt, on the other hand, everyone can figure out what works for them and decide accordingly. Maybe Julio starts high but then he brings his PRI down once he realizes that he had jacked it up out of unexamined fears. Or maybe he keeps it high because he is paying for his sister’s school and is willing to bear the debt for a while longer. No matter, he knows and he is responsible for his choices.</p>
+ <p>In a larger than very small group, sharing a debt would make everybody responsible for the debt accumulated by people they don&rsquo;t know and they probably don&rsquo;t trust. They would either be quietly bothered by it, or want to know things like, &ldquo;<em>Who is this Julio person and why is his PRI so high?</em>&rdquo;</p>
+ <p>As a personal debt, on the other hand, everyone can figure out what works for them and decide accordingly. Maybe Julio starts high but then he brings his PRI down once he realizes that he had jacked it up out of unexamined fears. Or maybe he keeps it high because he is paying for his sister&rsquo;s school and is willing to bear the debt for a while longer. No matter, he knows and he is responsible for his choices.</p>
  <p>There are many other set ups that you can experiment with.</p>
  <p></p>
  <p>For more details, see <em>RADICAL COMPANIES for the Impatient</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> or, if y0u have the time, <em>RADICAL COMPANIES: Without Bosses or Employees</em>.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
