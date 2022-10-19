@@ -15,7 +15,7 @@ image:    "icon-banners-do-no-evil.svg"
  <div class="_center">
   <table>
    <tr>
-    <th>Stop It by Making a Rule<br><em style="font-weight:normal; ">and</em><br>Don&rsquo;t Allow Anybody but Community Legit Members</th>
+    <th>Stop It by Making Rules/th>
     <td>
      Unfortunately, these smell of FIAT violence&mdash;a mild case, to be sure, but violence nonetheless.
      <br>
