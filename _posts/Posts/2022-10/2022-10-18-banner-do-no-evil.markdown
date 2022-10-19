@@ -26,6 +26,7 @@ image:    "icon-banners-do-no-evil.svg"
     <td class="_spacer"></td>
    </tr>x
   </table>
+  x1
   <table>
    <tr>
     <th>It happened,<br>but all&rsquo;s well</th>
@@ -35,6 +36,7 @@ image:    "icon-banners-do-no-evil.svg"
     <td class="_spacer"></td>
    </tr>y
   </table>
+  y1
   <table>
    <tr>
     <th>Disclose all <span class="_paradigm">BANNER</span> beneficiaries</th>
@@ -52,6 +54,7 @@ image:    "icon-banners-do-no-evil.svg"
     <td class="_spacer"></td>
    </tr>z
   </table>
+  z1
  </div>
 
 <h1 class="_section">RELATED</h1>
