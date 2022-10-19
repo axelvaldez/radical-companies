@@ -11,44 +11,14 @@ image:    "icon-banners-do-no-evil.svg"
 </div>
 
  <p><span class="_paradigm">BANNER</span>s could siphon money back to the giving co-owner: I give to a <span class="_paradigm">BANNER</span> which then gives the money back to me.</p>
- <p>In order to fix this, we could do one of the following,</p>
+ <p>Some may look suspicious, but they are malevolent. For example, we could set up a <span class="_paradigm">BANNER</span> to support kids with cancer (<em>i.e.</em>, a <span class="_paradigm">FIAT</span> example, to be sure). Later a co-owner&rsquo;s kid ends up with cancer and indirectly benefits from the fund collected through the <span class="_paradigm">BANNER</span>. In this case, there&rsquo;s no foul play, just unfortunate circumstances.</p>
+ <p>To stop siphoning <span class="_paradigm">BANNER</span>s, we could try to stop it by making more or less onerous rules. Unfortunately, this has a particular <span class="_paradigm">FIAT</span> smell to it since &ldquo;rules&rdquo; are a form of violence. &ldquo;You are not following the rules&rdquo;. It could also be a form of power-grab: who would decide as to who is or is not following the rules?</p>
+ <p>THe <span class="_paradigm">RADICAL</span> solution seems to be to disclose all <span class="_paradigm">BANNER</span> beneficiaries and let the co-owners deal with maladpted <span class="_paradigm">BANNER</span>s. This also feels like the most effective solution.</p>
  <div class="_center">
-  <table>
-   <tr>
-    <th>Stop It by Making Rules</th>
-    <td>
-     Unfortunately, these smell of FIAT violence&mdash;a mild case, to be sure, but violence nonetheless.
-     <br>
-     Besides, who would do the vetting as to who is <em>legit</em>? By what power and granted by whom?
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>It happened,<br>but all&rsquo;s well</th>
-    <td>We could set up a <span class="_paradigm">BANNER</span> to support kids with cancer (<em>i.e.</em>, a <span class="_paradigm">FIAT</span> example, to be sure). Later a co-owner&rsquo;s kid ends up with cancer and indirectly benefits from the fund collected through the <span class="_paradigm">BANNER</span>. In this case, there&rsquo;s no foul play, just unfortunate circumstances.</td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>Disclose all <span class="_paradigm">BANNER</span> beneficiaries</th>
-    <td>
-     Let everybody see who&rsquo;s going to benefit from a <span class="_paradigm">BANNER</span>, including non-community beneficiaries. This feels like the most effective solution.
-     <div class="_center">
-      <img
-       src="/assets/img/icon-banners-do-no-evil.svg"
-       width="70%"
-       alt="">
-     </div>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-  </table>
- </div>
+  <img
+   src="/assets/img/icon-banners-do-no-evil.svg"
+   width="50%"
+   alt="">
 
 <h1 class="_section">RELATED</h1>
  <ul>
