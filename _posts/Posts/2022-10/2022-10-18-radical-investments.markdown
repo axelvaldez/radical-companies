@@ -32,7 +32,12 @@ image:    "icon-radical-investments.svg"
  <p>A <span class="_paradigm">RADICAL</span> investment does not trigger an ownership transfer, either. <span class="_paradigm">RADICAL</span> investors do not seek control of the companies they invest in, nor are they looking for a &ldquo;forever&rdquo; return.</p>
  <p>Like the Angel investment, a <span class="_paradigm">RADICAL</span> Investments exchanges capital for a promissory note. Like a real estate investment, the return may come as an annuity.</p>
  <p>A big difference to other forms of investment, is that a <span class="_paradigm">RADICAL</span> investor can also participate in the <span class="_paradigm">RAD</span> distribution by making contributions, like industry and business advice and early customers introductions. These contributions would be recognized as such, translate into <span class="_paradigm">RAD</span>s, and they would, in turn, translate into <em>earned dividends</em>.</p>
- <p>Investors can work for all their portfolio companies, helping them improve their chances of success and getting paid for doing so.</p>
+ <p>Investors can,</p>
+  <ul>
+   <li>Work with their portfolio companiesm, </li>
+   <li>Help them improve their chances of success, and</li>
+   <li>Do al this while getting paid for doing so.</li>
+  </ul>
 
 <h1 class="_section">RELATED</h1>
  <ul>
