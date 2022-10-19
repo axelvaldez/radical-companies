@@ -12,7 +12,7 @@ image:    "icon-radical-investments.svg"
 
 <h1>&nbsp;</h1>
  <p><span class="_paradigm">RADICAL</span> investments are more like an Angel investment or a real estate investment. Actually, it could be both. For sure, they are not at all like Venture Capital investments.</p>
- <p>Here is a sketch of now these compare&hellip;</p>
+ <p>Here is a sketch of them&hellip;</p>
  
 <h1>Angel Investments</h1>
  <p>An Angel investment does not trigger an ownership transfer.</p>
