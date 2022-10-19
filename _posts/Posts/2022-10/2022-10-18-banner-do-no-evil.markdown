@@ -14,7 +14,7 @@ image:    "icon-about-daos.svg"
  <p>In order to fix this, we could do one of the following,</p>
  <table>
   <tr>
-   <th>Stop It by Making a Rule and Don’t Allow Anybody but Community Legit Members</th>
+   <th>Stop It by Making a Rule and Don&rsquo;t Allow Anybody but Community Legit Members</th>
    <td>
     Unfortunately, these smell of FIAT violence&mdash;a mild case, but violence nonetheless.
     <br>
@@ -25,8 +25,8 @@ image:    "icon-about-daos.svg"
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <th>It happened,<br>but all’s well</th>
-   <td>We could set up a <span class="_paradigm">BANNER</span> to support kids with cancer. Then a co-owner’s kid ends up with cancer and benefits from the fund collected through the <span class="_paradigm">BANNER</span>. In this case, there’s no foul play, just unfortunate circumstances.</td>
+   <th>It happened,<br>but all&rsquo;s well</th>
+   <td>We could set up a <span class="_paradigm">BANNER</span> to support kids with cancer. Later a co-owner&rsquo;s kid ends up with cancer and benefits from the fund collected through the <span class="_paradigm">BANNER</span>. In this case, there&rsquo;s no foul play, just unfortunate circumstances.</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
@@ -34,7 +34,7 @@ image:    "icon-about-daos.svg"
   <tr>
    <th>Disclose all <span class="_paradigm">BANNER</span> beneficiaries</th>
    <td>
-    Let everybody see who’s going to benefit from a <span class="_paradigm">BANNER</span>, including non-community beneficiaries. In the case of, say, a <span class="_paradigm">BANNER</span> to buy a building, disclose who is supporting the <span class="_paradigm">BANNER</span>.
+    Let everybody see who&rsquo;s going to benefit from a <span class="_paradigm">BANNER</span>, including non-community beneficiaries. In the case of, say, a <span class="_paradigm">BANNER</span> to buy a building, disclose who is supporting the <span class="_paradigm">BANNER</span>.
     <br>
     This feels like the most effective solution. Also, it could be part of the Trust Agreement, to remind people not to be dicks.
    </td>
