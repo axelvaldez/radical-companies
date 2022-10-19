@@ -16,7 +16,7 @@ image:    "icon-radical-investments.svg"
  
 <h1>Venture Capital Investments</h1>
  <p>A Venture Capital (VC) investment triggers an ownership transfer. The business now has to issue shares of stock so they can give a percentage of them to the VC investore: they want a piece of the business in exchange for their capital. VC investors also expect a seat on the Board.</p>
- <p>In my experience, they contribute almost nothing to the success of the business other than their capital. Their advice is hard to come by and what you get is very often misguided. In fairness, they don't have the bandwidth to give you more than casual attention.</p>
+ <p>In my experience, they contribute almost nothing to the success of the business other than their capital. Their advice is hard to come by and, in fairness, they don't have the bandwidth to give you more than casual attention.</p>
  
 <h1>Angel Investments</h1>
  <p>An Angel investment does not trigger an ownership transfer.</p>
