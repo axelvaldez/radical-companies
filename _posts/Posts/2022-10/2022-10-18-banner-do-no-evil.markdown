@@ -48,7 +48,6 @@ image:    "icon-banners-do-no-evil.svg"
     <td class="_spacer"></td>
    </tr>
   </table>
-  z1
  </div>
 
 <h1 class="_section">RELATED</h1>
