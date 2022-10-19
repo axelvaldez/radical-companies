@@ -19,7 +19,7 @@ image:    "icon-banners-do-no-evil.svg"
  <p>Unfortunately, rule making is not a solution, at least not a <span class="_paradigm">RADICAL</span> solution. &ldquo;Rules&rdquo; are,
  <ul>
   <li>A form of (mild) violence, &ldquo;We will have to penalize you because YOU ARE NOT FOLLOWING THE RULES&rdquo;.</li>
-  <li>A form of &ldquo;power over&rdquo; people. This also includes violence, &ldquo;According to the rules, you are not fit to [some arbitrary thing]&rdquo;.</li>
+  <li>A form of &ldquo;power over&rdquo; people. This also includes violence, &ldquo;According to the rules, you are not fit to be a beneficiary of this <span class="_paradigm">BANNER</span>&rdquo;.</li>
  </ul>
 
 <h1>The <span class="_paradigm">RADICAL</span> Solutions</h1>
