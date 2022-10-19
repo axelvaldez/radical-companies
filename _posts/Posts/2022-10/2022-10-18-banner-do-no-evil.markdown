@@ -11,7 +11,7 @@ image:    "icon-banners-do-no-evil.svg"
 </div>
 
  <p><span class="_paradigm">BANNER</span>s could siphon money back to the giving co-owner. I give <span class="_paradigm">RAD</span>s to a <span class="_paradigm">BANNER</span> which then gives the money back to me.</p>
- <p>In order to fix this, we could do one of the following,</p>
+ <p>IIIn order to fix this, we could do one of the following,</p>
  <div class="_center">
   <table>
    <tr>
@@ -27,7 +27,7 @@ image:    "icon-banners-do-no-evil.svg"
    </tr>
    <tr>
     <th>It happened,<br>but all&rsquo;s well</th>
-    <td>WWWe could set up a <span class="_paradigm">BANNER</span> to support kids with cancer (<em>i.e.</em>, a <span class="_paradigm">FIAT</span> example, to be sure). Later a co-owner&rsquo;s kid ends up with cancer and indirectly benefits from the fund collected through the <span class="_paradigm">BANNER</span>. In this case, there&rsquo;s no foul play, just unfortunate circumstances.</td>
+    <td>We could set up a <span class="_paradigm">BANNER</span> to support kids with cancer (<em>i.e.</em>, a <span class="_paradigm">FIAT</span> example, to be sure). Later a co-owner&rsquo;s kid ends up with cancer and indirectly benefits from the fund collected through the <span class="_paradigm">BANNER</span>. In this case, there&rsquo;s no foul play, just unfortunate circumstances.</td>
    </tr>
    <tr>
     <td class="_spacer"></td>
