@@ -11,7 +11,7 @@ image:    "icon-banners-do-no-evil.svg"
 </div>
 
  <p><span class="_paradigm">BANNER</span>s could siphon money back to the giving co-owner: I give to a <span class="_paradigm">BANNER</span> which then gives the money back to me.</p>
- <p>IIIn order to fix this, we could do one of the following,</p>
+ <p>In order to fix this, we could do one of the following,</p>
  <div class="_center">
   <table>
    <tr>
