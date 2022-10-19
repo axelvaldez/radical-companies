@@ -7,7 +7,7 @@ image:    "icon-banners-do-no-evil.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p><span class="_paradigm">BANNER</span>s could siphon money back to the giving co-owner: I give to a <span class="_paradigm">BANNER</span> which then gives the money back to me.</p>
 </div>
 
  <p><span class="_paradigm">BANNER</span>s could siphon money back to the giving co-owner: I give to a <span class="_paradigm">BANNER</span> which then gives the money back to me.</p>
