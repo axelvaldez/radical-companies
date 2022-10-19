@@ -14,11 +14,7 @@ image:    "icon-about-daos.svg"
  <p>In order to fix this, we could do one of the following,</p>
  <table>
   <tr>
-   <th>
-    Stop It by Making a Rule
-    <br>
-    Don’t Allow Anybody but Community Legit Members
-   </th>
+   <th>Stop It by Making a Rule and Don’t Allow Anybody but Community Legit Members</th>
    <td>
     Unfortunately, these smell of FIAT violence&mdash;a mild case, but violence nonetheless.
     <br>
