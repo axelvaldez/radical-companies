@@ -35,9 +35,9 @@ image:    "icon-banners-do-no-evil.svg"
    <tr>
     <th>Disclose all <span class="_paradigm">BANNER</span> beneficiaries</th>
     <td>
-     Let everybody see who&rsquo;s going to benefit from a <span class="_paradigm">BANNER</span>, including non-community beneficiaries. In the case of, say, a <span class="_paradigm">BANNER</span> to buy a building, disclose who is supporting the <span class="_paradigm">BANNER</span>.
+     Let everybody see who&rsquo;s going to benefit from a <span class="_paradigm">BANNER</span>, including non-community beneficiaries.
      <br>
-     This feels like the most effective solution. Also, it could be part of the Trust Agreement, to remind people not to be dicks.
+     This feels like the most effective solution.
      <div class="_center">
       <img
        src="/assets/img/icon-banners-do-no-evil.svg"
