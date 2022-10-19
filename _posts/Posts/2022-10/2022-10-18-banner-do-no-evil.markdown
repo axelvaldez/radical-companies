@@ -16,7 +16,11 @@ image:    "icon-banners-do-no-evil.svg"
  <p>In the case of a truly siphoning <span class="_paradigm">BANNER</span>s, we could try to stop it by making rules. But, then we&rsquo;d have to police for compliance. we might even make more onerous rules, etc.</p>
 
 <h1>Not Rule Making</h1>
- <p>Unfortunately, rule making has a particular <span class="_paradigm">FIAT</span> smell to it. After all, &ldquo;rules&rdquo; are a form of (mild) violence. &ldquo;We will have to castigate you because YOU ARE NOT FOLLOWING THE RULES&rdquo;. Also, rules are a form of &ldquo;power over&rdquo; people</p>
+ <p>Unfortunately, rule making is not a solution, at least not a <span class="_paradigm">RADICAL</span> solution. &ldquo;Rules&rdquo; are,
+ <ul>
+  <li>A form of (mild) violence, &ldquo;We will have to penalize you because YOU ARE NOT FOLLOWING THE RULES&rdquo;.</li>
+  <li>A form of &ldquo;power over&rdquo; people. This also includes violence, &ldquo;According to the rules, you are not fit to [some arbitrary thing]&rdquo;.</li>
+ </ul>
 
 <h1>The <span class="_paradigm">RADICAL</span> Solutions</h1>
  <p>The <span class="_paradigm">RADICAL</span> solution seems to be to disclose all <span class="_paradigm">BANNER</span> beneficiaries and let the co-owners deal with maladapted <span class="_paradigm">BANNER</span>s. This also feels like the most effective solution.</p>
