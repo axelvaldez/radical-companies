@@ -14,6 +14,10 @@ image:    "icon-radical-investments.svg"
  <p><span class="_paradigm">RADICAL</span> investments are more like an Angel investment or a real estate investment. Actually, it could be both. For sure, they are not at all like Venture Capital investments.</p>
  <p>Here is a sketch of each&hellip;</p>
  
+<h1>Venture Capital Investments</h1>
+ <p>A Venture Capital (VC) investment not triggers an ownership transfer. In other words, they get a piece of the business in exchange for their capital. VC investors also expect a seat on the Board. In my experience, they contribute almost nothing to the success of the business other than their capital.</p>
+ <p>Their advice is hard to come by and what you get is very often misguided. In fairness, they don't have the bandwidth to give you more than casual attention.</p>
+ 
 <h1>Angel Investments</h1>
  <p>An Angel investment does not trigger an ownership transfer.</p>
  <p>Angel investors exchange their capital in for a promisory note. The note usuall spells out the maximum return that Angels could expect. There are no stocks and they do not get a seat on the Board.</p>
