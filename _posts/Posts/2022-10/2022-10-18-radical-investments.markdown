@@ -36,7 +36,7 @@ image:    "icon-radical-investments.svg"
   <ul>
    <li>Work with their portfolio companies,</li>
    <li>Help them improve their chances of success, and</li>
-   <li>Do al this while getting paid for doing so.</li>
+   <li>Do all this while getting paid for doing so.</li>
   </ul>
 
 <h1 class="_section">RELATED</h1>
