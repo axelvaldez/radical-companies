@@ -257,6 +257,7 @@ tr {
   vertical-align:top;
   font-size:smaller;
 }
+}
 tr p {
   font-size:smaller;
 }
@@ -335,12 +336,7 @@ td._spacer:after {
   place-items:center;
 }
 table {
-  display:grid;
-  place-items:center;
   width:80%;
-}
-table tr {
-  vertical-align:top;
 }
 ._r {
   font-family:'Courier New', Courier, monospace;
