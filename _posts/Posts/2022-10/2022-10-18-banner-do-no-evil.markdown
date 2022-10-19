@@ -15,7 +15,11 @@ image:    "icon-about-daos.svg"
  <table>
   <tr>
    <th>Stop it</th>
-   <td colspan="3">Unfortunately, these smell of FIAT violence; a mild case, but violence nonetheless. <td>This sounds like, again, a <span class="_paradigm">FIAT</span> approach. Who would do the filtering? By what power?</td></td>
+   <td colspan="3">
+    Unfortunately, these smell of FIAT violence&mdash;a mild case, but violence nonetheless.
+    <br>
+    Besides, who would do the vetting? By what power?
+   </td>
   </tr>
   <tr>
    <th>Don’t allow anybody but community members</th>
