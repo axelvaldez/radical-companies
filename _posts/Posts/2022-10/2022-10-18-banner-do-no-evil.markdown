@@ -13,23 +13,23 @@ image:    "icon-about-daos.svg"
  <p><span class="_paradigm">BANNER</span>s could siphon money back to the giving co-owner. I give <span class="_paradigm">RAD</span>s to a <span class="_paradigm">BANNER</span> which then gives the money back to me.</p>
  <p>In order to fix this, we could do one of the following,</p>
  <table>
-  <tr style="vertical-align:top; ">
-   <td style="text-align:right; ">Stop it</td>
+  <tr>
+   <th>Stop it</th>
    <td colspan="2">Unfortunately, these smell of FIAT violence; a mild case, but violence nonetheless.</td>
   </tr>
   <tr>
-   <td style="text-align:right; ">Don’t allow anybody but community members</td>
+   <th>Don’t allow anybody but community members</th>
   </tr>
   <tr>
-   <td style="text-align:right; vertical-align:top; ">Certified Legit</td>
+   <th>Certified Legit</th>>
    <td>This sounds like, again, a <span class="_paradigm">FIAT</span> approach. Who would do the filtering? By what power?</td>
   </tr>
   <tr>
-   <td style="text-align:right; vertical-align:top; ">It happened, but all’s well</td>
+   <th>It happened, but all’s well</th>>
    <td>We could set up a <span class="_paradigm">BANNER</span> to support kids with cancer. Then a co-owner’s kid ends up with cancer and benefits from the fund collected through the <span class="_paradigm">BANNER</span>. In this case, there’s no foul play, just unfortunate circumstances.</td>
   </tr>
   <tr>
-   <td style="text-align:right; vertical-align:top; ">Disclose all  <span class="_paradigm">BANNER</span> beneficiaries</td>
+   <th>Disclose all  <span class="_paradigm">BANNER</span> beneficiaries</th>>
    <td>
     Let everybody see who’s going to benefit from a <span class="_paradigm">BANNER</span>, including non-community beneficiaries. In the case of, say, a <span class="_paradigm">BANNER</span> to buy a building, disclose who is supporting the <span class="_paradigm">BANNER</span>.
     <br>
