@@ -21,7 +21,7 @@ image:    "icon-about-daos.svg"
    <th>Don’t allow anybody but community members</th>
   </tr>
   <tr>
-   <th>Allow Certified Legit members only</th>>
+   <th>Allow Certified Legit members only</th>
    <td>This sounds like, again, a <span class="_paradigm">FIAT</span> approach. Who would do the filtering? By what power?</td>
   </tr>
   <tr>
