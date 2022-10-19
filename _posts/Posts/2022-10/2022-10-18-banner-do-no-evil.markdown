@@ -15,7 +15,7 @@ image:    "icon-about-daos.svg"
  <div class="_center">
   <table>
    <tr>
-    <th>Stop It by Making a Rule and Don&rsquo;t Allow Anybody but Community Legit Members</th>
+    <th>Stop It by Making a Rule<br>and<br>Don&rsquo;t Allow Anybody but Community Legit Members</th>
     <td>
      Unfortunately, these smell of FIAT violence&mdash;a mild case, but violence nonetheless.
      <br>
