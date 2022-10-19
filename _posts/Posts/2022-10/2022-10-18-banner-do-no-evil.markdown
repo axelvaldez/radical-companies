@@ -35,9 +35,7 @@ image:    "icon-banners-do-no-evil.svg"
    <tr>
     <th>Disclose all <span class="_paradigm">BANNER</span> beneficiaries</th>
     <td>
-     Let everybody see who&rsquo;s going to benefit from a <span class="_paradigm">BANNER</span>, including non-community beneficiaries.
-     <br>
-     This feels like the most effective solution.
+     Let everybody see who&rsquo;s going to benefit from a <span class="_paradigm">BANNER</span>, including non-community beneficiaries. This feels like the most effective solution.
      <div class="_center">
       <img
        src="/assets/img/icon-banners-do-no-evil.svg"
