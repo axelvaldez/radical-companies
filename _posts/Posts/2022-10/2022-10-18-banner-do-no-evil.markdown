@@ -24,7 +24,7 @@ image:    "icon-banners-do-no-evil.svg"
    </tr>
    <tr>
     <td class="_spacer"></td>
-   </tr>
+   </tr>x
   </table>
   <table>
    <tr>
@@ -33,7 +33,9 @@ image:    "icon-banners-do-no-evil.svg"
    </tr>
    <tr>
     <td class="_spacer"></td>
-   </tr>
+   </tr>y
+  </table>
+  <table>
    <tr>
     <th>Disclose all <span class="_paradigm">BANNER</span> beneficiaries</th>
     <td>
@@ -48,7 +50,7 @@ image:    "icon-banners-do-no-evil.svg"
    </tr>
    <tr>
     <td class="_spacer"></td>
-   </tr>
+   </tr>z
   </table>
  </div>
 
