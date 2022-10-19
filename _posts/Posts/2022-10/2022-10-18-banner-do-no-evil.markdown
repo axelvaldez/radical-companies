@@ -15,11 +15,9 @@ image:    "icon-about-daos.svg"
  <table>
   <tr>
    <th>
-    Stop it
+    Stop It
     <br>
-    Don’t allow anybody but community members
-    <br>
-    Allow Certified Members Only
+    Don’t Allow Anybody but Community Legit Members
    </th>
    <td>
     Unfortunately, these smell of FIAT violence&mdash;a mild case, but violence nonetheless.
