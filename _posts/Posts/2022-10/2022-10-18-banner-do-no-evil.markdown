@@ -48,7 +48,7 @@ image:    "icon-banners-do-no-evil.svg"
  <div class="_center">
   <img
    src="/assets/img/icon-banners-do-no-evil.svg"
-   width="70%"
+   width="50%"
    alt="">
  </div>
 
