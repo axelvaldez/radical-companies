@@ -15,7 +15,7 @@ image:    "icon-about-daos.svg"
  <table>
   <tr>
    <th>
-    Stop It
+    Stop It by Making a Rule
     <br>
     Don’t Allow Anybody but Community Legit Members
    </th>
