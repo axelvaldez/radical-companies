@@ -21,15 +21,15 @@ image:    "icon-about-daos.svg"
    <th>Don’t allow anybody but community members</th>
   </tr>
   <tr>
-   <th>Certified Legit</th>>
+   <th>Allow Certified Legit members only</th>>
    <td>This sounds like, again, a <span class="_paradigm">FIAT</span> approach. Who would do the filtering? By what power?</td>
   </tr>
   <tr>
-   <th>It happened, but all’s well</th>>
+   <th>It happened, but all’s well</th>
    <td>We could set up a <span class="_paradigm">BANNER</span> to support kids with cancer. Then a co-owner’s kid ends up with cancer and benefits from the fund collected through the <span class="_paradigm">BANNER</span>. In this case, there’s no foul play, just unfortunate circumstances.</td>
   </tr>
   <tr>
-   <th>Disclose all  <span class="_paradigm">BANNER</span> beneficiaries</th>>
+   <th>Disclose all  <span class="_paradigm">BANNER</span> beneficiaries</th>
    <td>
     Let everybody see who’s going to benefit from a <span class="_paradigm">BANNER</span>, including non-community beneficiaries. In the case of, say, a <span class="_paradigm">BANNER</span> to buy a building, disclose who is supporting the <span class="_paradigm">BANNER</span>.
     <br>
