@@ -34,7 +34,7 @@ image:    "icon-about-daos.svg"
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <th>Disclose all  <span class="_paradigm">BANNER</span> beneficiaries</th>
+   <th>Disclose all <span class="_paradigm">BANNER</span> beneficiaries</th>
    <td>
     Let everybody see who’s going to benefit from a <span class="_paradigm">BANNER</span>, including non-community beneficiaries. In the case of, say, a <span class="_paradigm">BANNER</span> to buy a building, disclose who is supporting the <span class="_paradigm">BANNER</span>.
     <br>
