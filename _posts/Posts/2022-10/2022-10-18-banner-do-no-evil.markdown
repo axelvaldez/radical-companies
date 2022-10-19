@@ -17,9 +17,9 @@ image:    "icon-banners-do-no-evil.svg"
    <tr>
     <th>Stop It by Making a Rule<br><em style="font-weight:normal; ">and</em><br>Don&rsquo;t Allow Anybody but Community Legit Members</th>
     <td>
-     Unfortunately, these smell of FIAT violence&mdash;a mild case, but violence nonetheless.
+     Unfortunately, these smell of FIAT violence&mdash;a mild case, to be sure, but violence nonetheless.
      <br>
-     Besides, who would do the vetting? By what power?
+     Besides, who would do the vetting as to who is <em>legit</em>? By what power and granted by whom?
     </td>
    </tr>
    <tr>
