@@ -334,12 +334,12 @@ td._spacer:after {
   display:grid;
   place-items:center;
 }
-.table {
+table {
   display:grid;
   place-items:center;
   width:70%;
 }
-.table tr {
+table tr {
   vertical-align:top;
 }
 ._r {
