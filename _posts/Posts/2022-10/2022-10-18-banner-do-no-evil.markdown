@@ -45,6 +45,12 @@ image:    "icon-banners-do-no-evil.svg"
    </tr>
   </table>
  </div>
+ <div class="_center">
+  <img
+   src="/assets/img/icon-banners-do-no-evil.svg"
+   width="70%"
+   alt="">
+ </div>
 
 <h1 class="_section">RELATED</h1>
  <ul>
