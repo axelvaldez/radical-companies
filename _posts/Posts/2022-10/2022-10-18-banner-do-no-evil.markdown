@@ -25,7 +25,7 @@ image:    "icon-about-daos.svg"
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <th>It happened, but all’s well</th>
+   <th>It happened,<br>but all’s well</th>
    <td>We could set up a <span class="_paradigm">BANNER</span> to support kids with cancer. Then a co-owner’s kid ends up with cancer and benefits from the fund collected through the <span class="_paradigm">BANNER</span>. In this case, there’s no foul play, just unfortunate circumstances.</td>
   </tr>
   <tr>
