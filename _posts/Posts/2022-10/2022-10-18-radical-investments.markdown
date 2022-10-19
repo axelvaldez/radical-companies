@@ -34,7 +34,7 @@ image:    "icon-radical-investments.svg"
  <p>A big difference to other forms of investment, is that a <span class="_paradigm">RADICAL</span> investor can also participate in the <span class="_paradigm">RAD</span> distribution by making contributions, like industry and business advice and early customers introductions. These contributions would be recognized as such, translate into <span class="_paradigm">RAD</span>s, and they would, in turn, translate into <em>earned dividends</em>.</p>
  <p>Investors can,</p>
   <ul>
-   <li>Work with their portfolio companiesm, </li>
+   <li>Work with their portfolio companies,</li>
    <li>Help them improve their chances of success, and</li>
    <li>Do al this while getting paid for doing so.</li>
   </ul>
