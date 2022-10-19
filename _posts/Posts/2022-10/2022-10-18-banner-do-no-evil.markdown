@@ -27,7 +27,7 @@ image:    "icon-banners-do-no-evil.svg"
    </tr>
    <tr>
     <th>It happened,<br>but all&rsquo;s well</th>
-    <td>We could set up a <span class="_paradigm">BANNER</span> to support kids with cancer (<em>i.e.</em>, a <span class="_paradigm">FIAT</span> example, to be sure). Later a co-owner&rsquo;s kid ends up with cancer and indirectly benefits from the fund collected through the <span class="_paradigm">BANNER</span>. In this case, there&rsquo;s no foul play, just unfortunate circumstances.</td>
+    <td>WWWe could set up a <span class="_paradigm">BANNER</span> to support kids with cancer (<em>i.e.</em>, a <span class="_paradigm">FIAT</span> example, to be sure). Later a co-owner&rsquo;s kid ends up with cancer and indirectly benefits from the fund collected through the <span class="_paradigm">BANNER</span>. In this case, there&rsquo;s no foul play, just unfortunate circumstances.</td>
    </tr>
    <tr>
     <td class="_spacer"></td>
