@@ -3,7 +3,7 @@ layout:   post
 title:    "BANNERs: Do No Evil"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-banners-do-no-evil.svg"
 ---
 
 <div style="display:none;">
