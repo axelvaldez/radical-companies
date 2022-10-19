@@ -17,7 +17,7 @@ image:    "icon-radical-investments.svg"
 <h1>Angel Investments</h1>
  <p>An Angel investment does not trigger an ownership transfer.</p>
  <p>Angel investors exchange their capital in for a promisory note. The note usuall spells out the maximum return that Angels could expect. There are no stocks and they do not get a seat on the Board.</p>
- <p>Besides their capital, their advice is also very valuable as they can help with raising capital, give business and industry advice, etc.</p>
+ <p>Besides their capital, their advice is also very valuable as they can help with raising capital, give business and industry advice, etc. Sometime you get to your investor, but oftentimes they are off to the next investment. When they offer a contribution, they are doing it 1) out of kindness and 2) to improve the chances of success of their invesment.</p>
 
 <h1>Real Estate Investments</h1>
  <p>A real estate investment does not trigger an ownership transfer, either.</p>
