@@ -3,7 +3,7 @@ layout:   post
 title:    "RADICAL Investments"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-radical-investments.svg"
 ---
 
 <div style="display:none;">
