@@ -7,7 +7,7 @@ image:    "icon-radical-investments.svg"
 ---
 
 <div style="display:none;">
- <p><span class="_paradigm">RADICAL</span> investments are more like an Angel investment or a real estate investment. Actually, it could be both.</p>
+ <p><span class="_paradigm">RADICAL</span> investments are more like an Angel investment or a real estate investment. For sure, they are not at all like Venture Capital investments.</p>
 </div>
 
 <h1>&nbsp;</h1>
