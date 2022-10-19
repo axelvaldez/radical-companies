@@ -337,7 +337,7 @@ td._spacer:after {
 table {
   display:grid;
   place-items:center;
-  width:70%;
+  width:80%;
 }
 table tr {
   vertical-align:top;
