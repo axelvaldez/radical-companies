@@ -38,18 +38,18 @@ image:    "icon-banners-do-no-evil.svg"
      Let everybody see who&rsquo;s going to benefit from a <span class="_paradigm">BANNER</span>, including non-community beneficiaries. In the case of, say, a <span class="_paradigm">BANNER</span> to buy a building, disclose who is supporting the <span class="_paradigm">BANNER</span>.
      <br>
      This feels like the most effective solution. Also, it could be part of the Trust Agreement, to remind people not to be dicks.
+     <div class="_center">
+      <img
+       src="/assets/img/icon-banners-do-no-evil.svg"
+       width="50%"
+       alt="">
+     </div>
     </td>
    </tr>
    <tr>
     <td class="_spacer"></td>
    </tr>
   </table>
- </div>
- <div class="_center">
-  <img
-   src="/assets/img/icon-banners-do-no-evil.svg"
-   width="50%"
-   alt="">
  </div>
 
 <h1 class="_section">RELATED</h1>
