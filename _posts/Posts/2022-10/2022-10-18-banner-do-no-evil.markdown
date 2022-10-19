@@ -15,7 +15,7 @@ image:    "icon-banners-do-no-evil.svg"
  <div class="_center">
   <table>
    <tr>
-    <th>Stop It by Making Rules/th>
+    <th>Stop It by Making Rules</th>
     <td>
      Unfortunately, these smell of FIAT violence&mdash;a mild case, to be sure, but violence nonetheless.
      <br>
@@ -24,20 +24,14 @@ image:    "icon-banners-do-no-evil.svg"
    </tr>
    <tr>
     <td class="_spacer"></td>
-   </tr>x
-  </table>
-  x1
-  <table>
+   </tr>
    <tr>
     <th>It happened,<br>but all&rsquo;s well</th>
     <td>We could set up a <span class="_paradigm">BANNER</span> to support kids with cancer (<em>i.e.</em>, a <span class="_paradigm">FIAT</span> example, to be sure). Later a co-owner&rsquo;s kid ends up with cancer and indirectly benefits from the fund collected through the <span class="_paradigm">BANNER</span>. In this case, there&rsquo;s no foul play, just unfortunate circumstances.</td>
    </tr>
    <tr>
     <td class="_spacer"></td>
-   </tr>y
-  </table>
-  y1
-  <table>
+   </tr>
    <tr>
     <th>Disclose all <span class="_paradigm">BANNER</span> beneficiaries</th>
     <td>
@@ -52,7 +46,7 @@ image:    "icon-banners-do-no-evil.svg"
    </tr>
    <tr>
     <td class="_spacer"></td>
-   </tr>z
+   </tr>
   </table>
   z1
  </div>
