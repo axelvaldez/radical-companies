@@ -18,7 +18,7 @@ image:    "icon-cheating-rads.svg"
 <h1>Love</h1>
  <p>&ldquo;Hey, how come you have been giving each other 100% of your RADs?&rdquo;</p>
  <p>&ldquo;Don&rsquo;t you know what&rsquo;s happening outside your team? Aren&rsquo;t you curious?&rdquo;</p>
- <p>&ldquo;It is good for you to take time to observe all the life that&rsquo;s going on around you.&rdquo;</p>
+ <p>&ldquo;It is good to take time to observe all the life that&rsquo;s going on around you.&rdquo;</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
