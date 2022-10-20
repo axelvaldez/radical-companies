@@ -7,7 +7,7 @@ image:    "icon-automatic-investments.svg"
 ---
 
 <div style="display:none;">
- <p>What if you want to invest more than one cycle&rsquo;s worth?</p>
+ <p>What if you want to invest more than one cycle&rsquo;s worth, automatically?</p>
 </div>
 
 <h1>&nbsp;</h1>
