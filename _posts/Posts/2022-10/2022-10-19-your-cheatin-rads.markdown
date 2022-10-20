@@ -10,7 +10,7 @@ image:    "icon-cheating-rads.svg"
  <p>What happens when two or more people give each other all their RADs?</p>
 </div>
 
-<h1>Transparency Happens</h1>
+<h1>To Mend a Broken Heart</h1>
  <p>What happens when two or more people give each other all their RADs?</p>
  <p>Transparency happens.</p>
  <p>When they see it, it is up to co-owners to bring up this suspicious behavior, and things like it. with the people involved. I can&rsquo;t think of any, but there might be a good reason after all.</p>
