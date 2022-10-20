@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Cheating RADs"
+title:    "UYour Cheating RADs"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
 image:    "icon-cheating-rads.svg"
