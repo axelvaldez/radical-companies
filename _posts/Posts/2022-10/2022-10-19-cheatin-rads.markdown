@@ -3,7 +3,7 @@ layout:   post
 title:    "Cheating RADs"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-cheating-rads.svg"
 ---
 
 <div style="display:none;">
