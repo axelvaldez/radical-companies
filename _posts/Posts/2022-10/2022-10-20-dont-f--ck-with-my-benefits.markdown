@@ -7,10 +7,11 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
 ---
 
 <div style="display:none;">
- <p><span class="_paradigm">RAD</span>s are OK, but what about my benefits (e.g., vacations, parental time off, sick days)? I am going to put that at risk?</p>
+ <p><span class="_paradigm">RAD</span>s are OK, but what about my benefits (e.g., vacations, parental time off, sick days)? I don&rsquo;t want to put that at risk!</p>
 </div>
 
 <h1><span class="_paradigm">FIAT</span> Benefits</h1>
+ <p>&ldquo;<span class="_paradigm">RAD</span>s sount like it&rsquo;s going to let businesses bypass their responsibilities and put my benefits at risk&rdquo;.</p>
  <p>Vacations, parental time off, and sick days are some of the <span class="_paradigm">FIAT</span> benefits that people throw up as an objection to the <span class="_paradigm">RADICAL</span> model. The <span class="_paradigm">RAD</span>s system is sold as all goodness, but there has to be a downside to them, right?</p>
  <table>
   <tr>
