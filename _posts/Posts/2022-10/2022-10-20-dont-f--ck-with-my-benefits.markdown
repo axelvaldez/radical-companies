@@ -58,6 +58,12 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
    <th>Compensatory Time</th>
   </tr>
   <tr>
+   <th style="border-bottom:1px dotted black; ">Sick Days</th>
+  </tr>
+  <tr>
+   <th>etc.</th>
+  </tr>
+  <tr>
    <td class="_spacer"></td>
   </tr>
  </table>
