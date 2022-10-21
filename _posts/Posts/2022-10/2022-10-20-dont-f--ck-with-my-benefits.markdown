@@ -7,8 +7,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
 ---
 
 <div style="display:none;">
- <p><span class="_paradigm">RAD</span>s are OK, but what about my benefits (e.g., vacations, parental time off, sick days)? I am going to put that at risk?</pre>
-</p>
+ <p><span class="_paradigm">RAD</span>s are OK, but what about my benefits (e.g., vacations, parental time off, sick days)? I am going to put that at risk?</p>
 </div>
 
 <h1><span class="_paradigm">FIAT</span> Benefits</h1>
