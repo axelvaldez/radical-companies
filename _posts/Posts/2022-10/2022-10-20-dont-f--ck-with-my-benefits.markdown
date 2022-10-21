@@ -55,7 +55,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
    <th style="border-bottom:1px dotted black; ">Sick Days</th>
   </tr>
   <tr>
-   <th>Compensatory Time</th>
+   <th style="border-bottom:1px dotted black; ">Compensatory Time</th>
   </tr>
   <tr>
    <th style="border-bottom:1px dotted black; ">Sick Days</th>
