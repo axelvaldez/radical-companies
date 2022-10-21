@@ -16,11 +16,12 @@ image:    "icon-about-daos.svg"
  <p>The RADs system is sold as all goodness, but there has to be a downside to them.</p>
  <table>
   <tr>
-   <td colspan="2" >RADICAL Goodness</th>
+   <th colspan="2" >RADICAL Goodness</th>
   </tr>
   <tr>
    <th>Bonus</th>
-   <td>Replaced by <em>earned dividends</em>, which are calculated based on the number of RADs. They, in turn, are calculated based on the number of recognized contributions your peers have given you.</th>
+   <td>
+    Replaced by <em>earned dividends</em>, which are calculated based on the number of RADs. They, in turn, are calculated based on the number of recognized contributions your peers have given you.</th>
     <br>
     Keep in mind that the RADs you have  with previous companies are still generating income.
    </td>
