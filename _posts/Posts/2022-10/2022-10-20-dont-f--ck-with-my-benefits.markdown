@@ -7,13 +7,12 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
 ---
 
 <div style="display:none;">
- <p>RADs are OK, but what about my benefits (e.g., vacations, parental time off, sick days)? I am going to put that at risk?</pre>
+ <p><span class="_paradigm">RAD</span>s are OK, but what about my benefits (e.g., vacations, parental time off, sick days)? I am going to put that at risk?</pre>
 </p>
 </div>
 
 <h1><span class="_paradigm">FIAT</span> Benefits</h1>
- <p>Vacations, parental time off, and sick days are some of the <span class="_paradigm">FIAT</span> benefits that people throw up as an objection to the <span class="_paradigm">RADICAL</span> model.</p>
- <p>The RADs system is sold as all goodness, but there has to be a downside to them.</p>
+ <p>Vacations, parental time off, and sick days are some of the <span class="_paradigm">FIAT</span> benefits that people throw up as an objection to the <span class="_paradigm">RADICAL</span> model. The <span class="_paradigm">RAD</span>s system is sold as all goodness, but there has to be a downside to them.</p>
  <table>
   <tr>
    <th colspan="2" style="font-size:larger; text-align:center; border-right:none; "><span class="_paradigm">RADICAL</span> Goodness</th>
@@ -21,9 +20,9 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
   <tr>
    <th>Bonus</th>
    <td>
-    Replaced by <em>earned dividends</em>, which are calculated based on the number of RADs. They, in turn, are calculated based on the number of recognized contributions your peers have given you.
+    Replaced by <em>earned dividends</em>, which are calculated based on the number of <span class="_paradigm">RAD</span>s. They, in turn, are calculated based on the number of recognized contributions your peers have given you.
     <br>
-    Keep in mind that the RADs you have  with previous companies are still generating income.
+    Keep in mind that the <span class="_paradigm">RAD</span>s you have  with previous companies are still generating income.
    </td>
   </tr>
   <tr>
@@ -43,7 +42,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
    <td rowspan="4" >
     You determine how much long you want to be inactive (<em>i.e.</em>, how much time off you want to take). Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay” for any time you take that’s not generating income.
     <br>
-    Keep in mind that the RADs you have  with previous companies are still generating income.
+    Keep in mind that the <span class="_paradigm">RAD</span>s you have  with previous companies are still generating income.
    </td>
   </tr>
   <tr>
@@ -82,12 +81,12 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
    width="70%"
    alt="">
  </div>
- <p>Very likely, you will figure out that this &ldquo;benefit” thing is born of a nostalgic fear from living for so long in a <span class="_paradigm">FIAT</span> environment. You decide to not &ldquo;put away” anything because your RADs can take care of all of it and then some.</p>
+ <p>Very likely, you will figure out that this &ldquo;benefit” thing is born of a nostalgic fear from living for so long in a <span class="_paradigm">FIAT</span> environment. You decide to not &ldquo;put away” anything because your <span class="_paradigm">RAD</span>s can take care of all of it and then some.</p>
 
 <h1>Retirement</h1>
  <p>&ldquo;Retirement&rdquo; is yet another <span class="_paradigm">FIAT</span> benefit that is handled very differently in the <span class="_paradigm">RADICAL</span> model.</p>
  <ul>
-  <li>For example, your RADs may be your &ldquo;retirement&rdquo; fund.</li>
+  <li>For example, your <span class="_paradigm">RAD</span>s may be your &ldquo;retirement&rdquo; fund.</li>
   <li>Alternatively, a company that you are part of may decide to reserve a percentage of its <em>earned dividends</em> to pay <em>inactive</em> co-owners.</li>
   <li>Another company may treat it as an <em>expense</em> and take it off the top before calculating its <em>earned dividends</em>.</li>
   <li>Yet another may decide that once your income falls to a certain level, they’ll make up the difference out of income (<em>i.e.</em>, similar to a PRI fund).</li>
