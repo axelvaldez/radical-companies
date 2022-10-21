@@ -43,7 +43,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
   <tr>
    <th style="border-bottom:1px dotted black; ">Vacation</th>
    <td rowspan="4" >
-    You determine how much long you want to be inactive (<em>i.e.</em>, how much time off you want to take). Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay” for any time you take that&rsquo;s not generating income.
+    You determine how much long you want to be inactive (<em>i.e.</em>, how much time off you want to take). Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay&rdquo; for any time you take that&rsquo;s not generating income.
     <br>
     Keep in mind that the <span class="_paradigm">RAD</span>s you have  with previous companies are still generating income.
    </td>
@@ -63,7 +63,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
  </table>
  
 <h1><span class="_paradigm">BANNER</span>s</h1>
- <p>You can also create <span class="_paradigm">BANNER</span>s for these eventualities. These can be individual <span class="_paradigm">BANNER</span>s, company-wide, or anywhere in between. For example, some of your peers may agree to reserve 10% of their income for &ldquo;benefits,” </p>
+ <p>You can also create <span class="_paradigm">BANNER</span>s for these eventualities. These can be individual <span class="_paradigm">BANNER</span>s, company-wide, or anywhere in between. For example, some of your peers may agree to reserve 10% of their income for &ldquo;benefits,&rdquo; </p>
  <div class="_center">
   <img
    src="/assets/img/icon-dont-f--ck-with-my-benefits-01.svg"
@@ -84,9 +84,9 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
    width="50%"
    alt="A yellow post-it note with the word BENEFITS at the top, a hand-drawn line, followed by '@all.'">
  </div>
- <p>After a while, you will figure out that this &ldquo;benefit” thing is born of a nostalgic fear from living for so long in a <span class="_paradigm">FIAT</span> environment. You decide to not &ldquo;put away” anything because your <span class="_paradigm">RAD</span>s can take care of all of it and then some.</p>
+ <p>After a while, you will figure out that this &ldquo;benefit&rdquo; thing is born of a nostalgic fear from living for so long in a <span class="_paradigm">FIAT</span> environment. You decide to not &ldquo;put away&rdquo; anything because your <span class="_paradigm">RAD</span>s can take care of all of it and then some.</p>
 
-<h1>Retirement</h1>
+<h1>Retirement</h1>xxxxx
  <p>&ldquo;Retirement&rdquo; is yet another <span class="_paradigm">FIAT</span> &ldquo;benefit&rdquo; that is handled very differently in the <span class="_paradigm">RADICAL</span> model.</p>
  <ul>
   <li>For example, your <span class="_paradigm">RAD</span>s may be your &ldquo;retirement&rdquo; fund. This would work if the revenues of all the companies you have co-owned are generally going up compared to the number of co-owners.</li>
@@ -96,10 +96,10 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
  </ul>
 
 <h1>Why the Quotation Marks?</h1>
- <p>I have put quotation marks around the word “benefit” because they are not benefits. At least, they are not a benefit to you as much as they are a benefit to businesses. Over years, centuries, we have been tweaking the pay system to accommodate people&rsquo;s needs. The “signal” to do so usually comes as some form of violence: strikes, revolution, or war.</p>
+ <p>I have put quotation marks around the word &ldquo;benefit&rdquo; because they are not benefits. At least, they are not a benefit to you as much as they are a benefit to businesses. Over years, centuries, we have been tweaking the pay system to accommodate people&rsquo;s needs. The &ldquo;signal&rdquo; to do so usually comes as some form of violence: strikes, revolution, or war.</p>
  <p>Eventually, governments impose taxes and benefits to calm things down. This imposition is a form of violence, but businesses go along with it because they know it is better than the more violent alternative.</p>
- <p>We have ended up with a hodgepodge of “benefits” worldwide. Primarily because of lack of trust, of the business owners and the workers, the money for these benefits goes up to governments. Then a bureaucracy develops to “manage” this money “on behalf of” the workers.</p>
- <p>The <span class="_paradigm">RADICAL</span> model assumes that people know their needs better than any government, as benevolent as it may be. It follows, then, that people are the best “managers” of what they need to live. In the <span class="_paradigm">RADICAL</span> model money in the form of <em>earned dividends</em> go directly to each of us. And, yes, we all have to learn a lot. For example, sometimes it is better to deal with things by oneself and sometimes it is better to team up with others. We&rsquo;ll have to learn that.</p>
+ <p>As a result, we have ended up with a hodgepodge of &ldquo;benefits&rdquo; worldwide. Primarily because of lack of trust, of the business owners and the workers, the money for these benefits goes up to governments. Then a bureaucracy develops to &ldquo;manage&rdquo; this money &ldquo;on behalf of&rdquo; the workers.</p>
+ <p>The <span class="_paradigm">RADICAL</span> model assumes that people know their needs better than any government, as benevolent as it may be. It follows, then, that people are the best &ldquo;managers&rdquo; of what they need to live. In the <span class="_paradigm">RADICAL</span> model money in the form of <em>earned dividends</em> go directly to each of us. And, yes, we all have to learn a lot. For example, sometimes it is better to deal with things by oneself and sometimes it is better to team up with others. We&rsquo;ll have to learn that.</p>
  <p>Let&rsquo;s just say that <span class="_paradigm">RADICAL</span> applies to learning, too.</p>
 
 <h1 class="_section">RELATED</h1>
