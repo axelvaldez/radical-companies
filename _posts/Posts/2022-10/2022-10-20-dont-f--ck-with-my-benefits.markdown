@@ -43,7 +43,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
   <tr>
    <th style="border-bottom:1px dotted black; ">Vacation</th>
    <td rowspan="4" >
-    You determine how much long you want to be inactive (<em>i.e.</em>, how much time off you want to take). Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay” for any time you take that’s not generating income.
+    You determine how much long you want to be inactive (<em>i.e.</em>, how much time off you want to take). Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay” for any time you take that&rsquo;s not generating income.
     <br>
     Keep in mind that the <span class="_paradigm">RAD</span>s you have  with previous companies are still generating income.
    </td>
@@ -92,8 +92,15 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
   <li>For example, your <span class="_paradigm">RAD</span>s may be your &ldquo;retirement&rdquo; fund. This would work if the revenues of all the companies you have co-owned are generally going up compared to the number of co-owners.</li>
   <li>Alternatively, a company that you are part of may decide to reserve a percentage of its <em>earned dividends</em> to pay <em>inactive</em> co-owners.</li>
   <li>Another company may treat it as an <em>expense</em> and take it off the top before calculating its <em>earned dividends</em>.</li>
-  <li>Yet another may decide that once your income falls to a certain level, they’ll make up the difference out of income (<em>i.e.</em>, similar to a PRI fund).</li>
+  <li>Yet another may decide that once your income falls to a certain level, they&rsquo;ll make up the difference out of income (<em>i.e.</em>, similar to a PRI fund).</li>
  </ul>
+
+<h1>Why the Quotation Marks?</h1>
+ <p>I have put quotation marks around the word “benefit” because they are not benefits. At least, they are not a benefit for you as much as they are a benefit to businesses. Over years, centuries, we have been tweaking payroll systems to accommodate people&rsquo;s needs. The “signal” to do so usually comes as some form of violence: strikes, revolution, or war.</p>
+ <p>Eventually, the government imposes a tax on businesses to calm things down. Imposed taxes are another form of violence, but businesses go along with it because they know it is better than the alternative.</p>
+ <p>We have ended up with a hodgepodge of “benefits” worldwide. Primarily because of lack of trust, of the business owners and the workers, the money for these benefits goes up to governments. Then a bureaucracy develops to “manage” this money “on behalf of” the workers.</p>
+ <p>The RADICAL model assumes that people know their needs better than any government, as benevolent as it may be. It follows, then, that people are the best “managers” of what they need to live. In the RADICAL model money in the form of <em>earned dividends</em> go directly to each of us. And, yes, we all have to learn a lot. For example, sometimes it is better to deal with things by oneself and sometimes it is better to team up with others. We&rsquo;ll have to learn that.</p>
+ <p>Let&rsquo;s just say that RADICAL applies to schools and learning, too.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
