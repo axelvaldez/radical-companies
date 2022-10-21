@@ -89,7 +89,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
 <h1>Retirement</h1>
  <p>&ldquo;Retirement&rdquo; is yet another <span class="_paradigm">FIAT</span> benefit that is handled very differently in the <span class="_paradigm">RADICAL</span> model.</p>
  <ul>
-  <li>For example, your <span class="_paradigm">RAD</span>s may be your &ldquo;retirement&rdquo; fund.</li>
+  <li>For example, your <span class="_paradigm">RAD</span>s may be your &ldquo;retirement&rdquo; fund. This is true if the revenues of all the companies you have co-owned are generally going up ahead of the number of co-owners.</li>
   <li>Alternatively, a company that you are part of may decide to reserve a percentage of its <em>earned dividends</em> to pay <em>inactive</em> co-owners.</li>
   <li>Another company may treat it as an <em>expense</em> and take it off the top before calculating its <em>earned dividends</em>.</li>
   <li>Yet another may decide that once your income falls to a certain level, they’ll make up the difference out of income (<em>i.e.</em>, similar to a PRI fund).</li>
