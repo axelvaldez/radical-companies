@@ -3,7 +3,7 @@ layout:   post
 title:    "Don’t F**k with My Benefits"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-dont-f--k-with-my-benefits.svg"
 ---
 
 <div style="display:none;">
