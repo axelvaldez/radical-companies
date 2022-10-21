@@ -105,11 +105,24 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
  </ul>
 
 <h1>Why the Quotation Marks?</h1>
- <p>I have consistently put quotation marks around the word &ldquo;benefit&rdquo; because they are <em>not</em> benefits. At least, they are not a benefit to you as much as they are a benefit to businesses. Over years, centuries, we have been tweaking the pay system to accommodate people&rsquo;s needs. As Chuck Blakeman remind us, it starts at zero pay during slavery to higher pay now, but still with a lot of proverty. The &ldquo;signal&rdquo; to pay more usually comes as some form of violence: strikes, revolution, or war.</p>
+ <p>I have consistently put quotation marks around the word &ldquo;benefit&rdquo; because they are <em>not</em> benefits. At least, they are not a benefit to you as much as they are a benefit to businesses. Over years, centuries, we have been tweaking the pay system to accommodate people&rsquo;s needs. As Chuck Blakeman remind us,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> it starts at zero pay during slavery to higher pay now, but still with a lot of proverty. The &ldquo;signal&rdquo; to pay more usually comes as some form of violence: strikes, revolution, or war.</p>
  <p>Eventually, governments impose taxes and benefits to calm things down. This imposition is a form of violence, but businesses go along with it because they know it is better for them than the more violent alternative.</p>
  <p>As a result, we have ended up with a hodgepodge of &ldquo;benefits&rdquo; worldwide. Primarily because of lack of trust, of the business owners and the workers, the money for these benefits goes up to governments. Then a bureaucracy develops to &ldquo;manage&rdquo; this money &ldquo;on behalf of&rdquo; the workers.</p>
  <p>The <span class="_paradigm">RADICAL</span> model assumes that people know their needs better than any government, as benevolent as it may be. It follows, then, that people are the best &ldquo;managers&rdquo; of what they need to live. In the <span class="_paradigm">RADICAL</span> model money in the form of <em>earned dividends</em> go directly to each of us. And, yes, we all have to learn a lot. For example, sometimes it is better to deal with things by oneself and sometimes it is better to team up with others. We&rsquo;ll have to learn that.</p>
  <p>Let&rsquo;s just say that <span class="_paradigm">RADICAL</span> applies to learning, too.</p>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ol>
+  <li id="en01">
+   <p class="_list-item">
+    Chuck Blakeman.
+    <em>Rehumanizing The Workplace By Giving Everybody Their Brain Back.</em>
+    2020.
+    <<a href="https://radicals.world/NlQpLW" target="_blank">https://radicals.world/NlQpLW</a>>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ol>
 
 <h1 class="_section">RELATED</h1>
  <ul>
