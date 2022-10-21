@@ -19,7 +19,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
  <p>Actually, things will not be that different. Our lives will keep improving, but without the exploitation of other people. For me to be &ldquo;rich&rdquo; you don't have to be &ldquo;poor.&rdquo; For my live to be better, we don't have to break Earth. For us to feel better, we don't have to make other feel miserable.</p>
   <div class="_citation">
    Perhaps our job is to create the conditions for things to get better, not to predict that they won’t.
-   <span id="_signature">&mdash;Seth Goding<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></span>
+   <span id="_signature">Seth Goding<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></span>
   </div>
 
 <h1>The <span class="_paradigm">RADICAL</span> Threat</h1>
