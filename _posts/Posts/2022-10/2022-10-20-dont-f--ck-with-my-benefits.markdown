@@ -41,7 +41,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
   <tr>
    <th style="border-bottom:1px dotted black; ">Vacation</th>
    <td rowspan="4" >
-    You determine how much time off you want to take. Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay” for any time you take that’s not generating income.
+    You determine how much long you want to be inactive (<em>i.e.</em>, how much time off you want to take). Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay” for any time you take that’s not generating income.
     <br>
     Keep in mind that the RADs you have  with previous companies are still generating income.
    </td>
