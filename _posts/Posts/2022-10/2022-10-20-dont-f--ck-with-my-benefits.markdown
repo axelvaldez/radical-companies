@@ -14,13 +14,15 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
  <p>&ldquo;<span class="_paradigm">RAD</span>s sount like it&rsquo;s going to let businesses bypass their responsibilities and put my benefits at risk&rdquo;.</p>
  <p>Vacations, parental time off, and sick days are some of the <span class="_paradigm">FIAT</span> benefits that people throw up as an objection to the <span class="_paradigm">RADICAL</span> model. The <span class="_paradigm">RAD</span>s system is sold as all goodness, but there has to be a downside to them, right?</p>
  
- <h1>The RADICAL Difference</h1>
-  <p>The RADICAL model is not about tweaing the system we live in. It is very different. It seem threatening. &ldquo;The current system is all I know. It has been built over hundreds of years and it has made out lives better, right? Why change it so drastically? What is dramatically wrong with it that you want to pull it apart?&rdquo;</p>
-  <p>Actually, things will not be that different. Our lives will keep improving, but without the exploitation of other people. For me to be &ldquo;rich&rdquo; you don't have to be &ldquo;poor.&rdquo; For my live to be better, we don't have to break Earth. For us to feel better, we don't have to make other feel miserable.</p>
-   <div class="_citation">
-    Perhaps our job is to create the conditions for things to get better, not to predict that they won’t.
-    <span id"_signature">&mdash;Seth Goding<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></span>
-   </div>
+<h1>The <span class="_paradigm">RADICAL</span> Difference</h1>
+ <p>The <span class="_paradigm">RADICAL</span> model is not about tweaing the system we live in. It is very different. It seem threatening. &ldquo;The current system is all I know. It has been built over hundreds of years and it has made out lives better, right? Why change it so drastically? What is dramatically wrong with it that you want to pull it apart?&rdquo;</p>
+ <p>Actually, things will not be that different. Our lives will keep improving, but without the exploitation of other people. For me to be &ldquo;rich&rdquo; you don't have to be &ldquo;poor.&rdquo; For my live to be better, we don't have to break Earth. For us to feel better, we don't have to make other feel miserable.</p>
+  <div class="_citation">
+   Perhaps our job is to create the conditions for things to get better, not to predict that they won’t.
+   <span id"_signature">&mdash;Seth Goding<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></span>
+  </div>
+
+<h1>The <span class="_paradigm">RADICAL</span> Threat</h1>
  <table>
   <tr>
    <th colspan="2" style="font-size:larger; text-align:center; border-right:none; "><span class="_paradigm">RADICAL</span> Goodness</th>
