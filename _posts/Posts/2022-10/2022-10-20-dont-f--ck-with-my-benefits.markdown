@@ -39,7 +39,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
    <th colspan="2" style="font-size:larger; text-align:center; border-right:none; "><span class="_paradigm">RADICAL</span> Difference</th>
   </tr>
   <tr>
-   <th>Vacation</th>
+   <th style="border-bottom:1px dotted black; ">Vacation</th>
    <td rowspan="4" >
     You determine how much time off you want to take. Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay” for any time you take that’s not generating income.
     <br>
@@ -47,10 +47,10 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
    </td>
   </tr>
   <tr>
-   <th>Parental Time Off</th>
+   <th style="border-bottom:1px dotted black; ">Parental Time Off</th>
   </tr>
   <tr>
-   <th>Sick Days</th>
+   <th style="border-bottom:1px dotted black; ">Sick Days</th>
   </tr>
   <tr>
    <th>Compensatory Time</th>
