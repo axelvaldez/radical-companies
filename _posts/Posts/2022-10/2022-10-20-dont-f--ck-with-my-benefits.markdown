@@ -100,7 +100,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
  <p>Eventually, the government imposes a tax on businesses to calm things down. Imposed taxes are another form of violence, but businesses go along with it because they know it is better than the alternative.</p>
  <p>We have ended up with a hodgepodge of “benefits” worldwide. Primarily because of lack of trust, of the business owners and the workers, the money for these benefits goes up to governments. Then a bureaucracy develops to “manage” this money “on behalf of” the workers.</p>
  <p>The <span class="_paradigm">RADICAL</span> model assumes that people know their needs better than any government, as benevolent as it may be. It follows, then, that people are the best “managers” of what they need to live. In the <span class="_paradigm">RADICAL</span> model money in the form of <em>earned dividends</em> go directly to each of us. And, yes, we all have to learn a lot. For example, sometimes it is better to deal with things by oneself and sometimes it is better to team up with others. We&rsquo;ll have to learn that.</p>
- <p>Let&rsquo;s just say that <span class="_paradigm">RADICAL</span> applies to schools and learning, too.</p>
+ <p>Let&rsquo;s just say that <span class="_paradigm">RADICAL</span> applies to learning, too.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
