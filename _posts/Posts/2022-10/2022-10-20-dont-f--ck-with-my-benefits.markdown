@@ -84,7 +84,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
    width="50%"
    alt="A yellow post-it note with the word BENEFITS at the top, a hand-drawn line, followed by '@all.'">
  </div>
- <p>Very likely, you will figure out that this &ldquo;benefit” thing is born of a nostalgic fear from living for so long in a <span class="_paradigm">FIAT</span> environment. You decide to not &ldquo;put away” anything because your <span class="_paradigm">RAD</span>s can take care of all of it and then some.</p>
+ <p>After a while, you will figure out that this &ldquo;benefit” thing is born of a nostalgic fear from living for so long in a <span class="_paradigm">FIAT</span> environment. You decide to not &ldquo;put away” anything because your <span class="_paradigm">RAD</span>s can take care of all of it and then some.</p>
 
 <h1>Retirement</h1>
  <p>&ldquo;Retirement&rdquo; is yet another <span class="_paradigm">FIAT</span> benefit that is handled very differently in the <span class="_paradigm">RADICAL</span> model.</p>
