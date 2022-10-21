@@ -67,22 +67,22 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
  <div class="_center">
   <img
    src="/assets/img/icon-dont-f--ck-with-my-benefits-01.svg"
-   width="70%"
-   alt="">
+   width="50%"
+   alt="A yellow post-it note with the word BENEFITS at the top, a hand-drawn line, and a list of beneficiaris, five in total.">
  </div>
  <p>But you want to put away 20%,</p>
  <div class="_center">
   <img
    src="/assets/img/icon-dont-f--ck-with-my-benefits-02.svg"
-   width="70%"
-   alt="">
+   width="50%"
+   alt="A yellow post-it note with the word BENEFITS at the top, a hand-drawn line, followed by '@you.'">
  </div>
  <p>Later, the whole company learns from your experiments and everybody, including you, decide to put away 15%,</p>
  <div class="_center">
   <img
    src="/assets/img/icon-dont-f--ck-with-my-benefits-03.svg"
-   width="70%"
-   alt="">
+   width="50%"
+   alt="A yellow post-it note with the word BENEFITS at the top, a hand-drawn line, followed by '@all.'">
  </div>
  <p>Very likely, you will figure out that this &ldquo;benefit” thing is born of a nostalgic fear from living for so long in a <span class="_paradigm">FIAT</span> environment. You decide to not &ldquo;put away” anything because your <span class="_paradigm">RAD</span>s can take care of all of it and then some.</p>
 
