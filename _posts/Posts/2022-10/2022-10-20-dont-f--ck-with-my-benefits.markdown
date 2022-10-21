@@ -12,7 +12,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
 </div>
 
 <h1><span class="_paradigm">FIAT</span> Benefits</h1>
- <p>Vacations, parental time off, and sick days are some of the <span class="_paradigm">FIAT</span> benefits that people throw up as an objection to the <span class="_paradigm">RADICAL</span> model. The <span class="_paradigm">RAD</span>s system is sold as all goodness, but there has to be a downside to them. Right? (Right?)</p>
+ <p>Vacations, parental time off, and sick days are some of the <span class="_paradigm">FIAT</span> benefits that people throw up as an objection to the <span class="_paradigm">RADICAL</span> model. The <span class="_paradigm">RAD</span>s system is sold as all goodness, but there has to be a downside to them, right?</p>
  <table>
   <tr>
    <th colspan="2" style="font-size:larger; text-align:center; border-right:none; "><span class="_paradigm">RADICAL</span> Goodness</th>
