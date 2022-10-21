@@ -64,7 +64,6 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
    <th style="border-bottom:1px dotted black; ">Sick Days</th>
   </tr>
   <tr>
-  <tr>
    <th style="border-bottom:1px dotted black; ">Sabbaticals</th>
   </tr>
   <tr>
@@ -99,7 +98,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
  </div>
  <p>After a while, you will figure out that this &ldquo;benefit&rdquo; thing is born of a nostalgic fear from living for so long in a <span class="_paradigm">FIAT</span> environment. You decide to not &ldquo;put away&rdquo; anything because your <span class="_paradigm">RAD</span>s can take care of all of it and then some.</p>
 
-<h1>Retirement</h1>xxxxx
+<h1>Retirement</h1>
  <p>&ldquo;Retirement&rdquo; is yet another <span class="_paradigm">FIAT</span> &ldquo;benefit&rdquo; that is handled very differently in the <span class="_paradigm">RADICAL</span> model.</p>
  <ul>
   <li>For example, your <span class="_paradigm">RAD</span>s may be your &ldquo;retirement&rdquo; fund. This would work if the revenues of all the companies you have co-owned are generally going up compared to the number of co-owners.</li>
