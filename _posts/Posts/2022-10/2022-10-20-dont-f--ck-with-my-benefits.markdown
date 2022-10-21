@@ -16,7 +16,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
  <p>The RADs system is sold as all goodness, but there has to be a downside to them.</p>
  <table>
   <tr>
-   <th colspan="2" style="font-size:larger; text-align:center; "><span class="_paradigm">RADICAL</span> Goodness</th>
+   <th colspan="2" style="font-size:larger; text-align:center; border-right:none; "><span class="_paradigm">RADICAL</span> Goodness</th>
   </tr>
   <tr>
    <th>Bonus</th>
@@ -36,7 +36,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
 </table>
 <table>
   <tr>
-   <th colspan="2" style="font-size:larger; text-align:center; "><span class="_paradigm">RADICAL</span> Difference</th>
+   <th colspan="2" style="font-size:larger; text-align:center; border-right:none; "><span class="_paradigm">RADICAL</span> Difference</th>
   </tr>
   <tr>
    <th>Vacation</th>
