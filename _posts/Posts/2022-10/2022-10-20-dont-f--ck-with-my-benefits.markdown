@@ -21,7 +21,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
   <tr>
    <th>Bonus</th>
    <td>
-    Replaced by <em>earned dividends</em>, which are calculated based on the number of RADs. They, in turn, are calculated based on the number of recognized contributions your peers have given you.</th>
+    Replaced by <em>earned dividends</em>, which are calculated based on the number of RADs. They, in turn, are calculated based on the number of recognized contributions your peers have given you.
     <br>
     Keep in mind that the RADs you have  with previous companies are still generating income.
    </td>
