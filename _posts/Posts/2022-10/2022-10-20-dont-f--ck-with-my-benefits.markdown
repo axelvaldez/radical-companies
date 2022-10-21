@@ -19,7 +19,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
  <span id="_signature">Seth Goding<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></span>
 </div>
  
-<h1>The <span class="_paradigm">RADICAL</span> Threat</h1>
+<h1><span class="_paradigm">RADICAL</span> Threat</h1>
  <p>The <span class="_paradigm">RADICAL</span> model is not about tweaing the <span class="_paradigm">FIAT</span> system we live in. It is very, very different. And it seems like a threat. &ldquo;The current system is all I know. It has been built over hundreds of years and it has made out lives better, right? Why change it so drastically? What is dramatically wrong with it that you want to pull it apart?&rdquo;</p>
  <p>Actually, the end result will not be that different. People will continue to be people. Our lives will keep improving, but without the exploitation of other people. For me to be &ldquo;rich&rdquo; you don't have to be &ldquo;poor.&rdquo; For my live to be better, we don't have to break Earth. For us to feel better, we don't have to make other feel miserable.</p>
  <table>
