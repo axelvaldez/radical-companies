@@ -27,7 +27,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
    </td>
   </tr>
   <tr>
-   <th>Salaryf</th>
+   <th>Salary</th>
    <td>As your company matures and people are more experienced with RAD distributions, salaries can be replaced with a <em>predictable recurring income</em> (PRI) system.</td>
   </tr>
   <tr>
