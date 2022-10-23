@@ -325,7 +325,7 @@ td._spacer:after {
   text-indent:-1em;
   font-style:italic;
   font-size:smaller;
-  margin-top:1em;
+  margin-top:0.5em;
   margin-left:10%;
 }
 ._citation #_signature::before {
