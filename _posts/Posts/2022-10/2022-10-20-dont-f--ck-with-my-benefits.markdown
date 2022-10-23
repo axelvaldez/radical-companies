@@ -109,7 +109,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
  <ul>
   <li>For example, your <span class="_paradigm">RAD</span>s may be your &ldquo;retirement&rdquo; fund. This would work if the revenues of all the companies you have co-owned are generally going up ahead of the number of co-owners.</li>
   <li>Alternatively, a company that you are part of may decide to reserve a percentage of its <em>earned dividends</em> to pay <em>inactive</em> co-owners.</li>
-  <li>Another company may treat it as an <em>expense</em> and take it off theteh revenue (<em>i.e.</dm>, before calculating its <em>earned dividends</em>).</li>
+  <li>Another company may treat it as an <em>expense</em> and take it off theteh revenue (<em>i.e.</em>, before calculating its <em>earned dividends</em>).</li>
   <li>Yet another may decide that once your income falls below a certain level, they&rsquo;ll make up the difference (<em>i.e.</em>, similar to a PRI fund, but out of cashflow).</li>
  </ul>
 
