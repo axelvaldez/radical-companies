@@ -12,7 +12,7 @@ image:    "icon-dont-f--k-with-my-benefits.svg"
 
 <h1><span class="_paradigm">FIAT</span> Benefits</h1>
  <p>&ldquo;<span class="_paradigm">RAD</span>s sount like it&rsquo;s going to let businesses bypass their responsibilities and put my benefits at risk&rdquo;.</p>
- <p>Vacations, parental time off, and sick days are some of the <span class="_paradigm">FIAT</span> benefits that people throw up as an objection to the <span class="_paradigm">RADICAL</span> model. The <span class="_paradigm">RAD</span>s system is sold as all goodness, but there has to be a downside to them, right?</p>
+ <p>Vacations, parental time off, and sick days are <span class="_paradigm">FIAT</span> benefits that people throw up as an objection to the <span class="_paradigm">RADICAL</span> model. The <span class="_paradigm">RAD</span>s system is sold as all goodness, but there has to be a downside to them, right?</p>
  
 <div class="_citation">
  Perhaps our job is to create the conditions for things to get better, not to predict that they won’t.
