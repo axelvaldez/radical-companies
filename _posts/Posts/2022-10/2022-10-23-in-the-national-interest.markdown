@@ -3,7 +3,7 @@ layout:   post
 title:    "TEMPLATE"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-the-national-interest.svg"
 ---
 
 <div style="display:none;">
