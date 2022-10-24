@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "TEMPLATE"
+title:    "In the National Interest"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-the-national-interest.svg"
