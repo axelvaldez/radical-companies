@@ -7,43 +7,119 @@ image:    "icon-the-national-interest.svg"
 ---
 
 <div style="display:none;">
- <p>I am finding national governments an oddity, an anachronism. The more I think about them, the more I think they are not part of a solution any more.</p>
+ <p>I am finding national governments an oddity, an anachronism. The more I think about them, the more I believe they are not part of a solution any more.</p>
 </div>
 
-<h1>&nbsp;</h1>
-
-<p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
-
-<div class="_center">
- <img
-  src="/assets/img/pings-to-rads-equation.svg"
-  width="70%"
-  alt="">
+<h1>National Governments</h1>
+ <div class="_citation">
+  &ldquo;&hellip; it has been said that democracy is the worst form of Government except for all those other forms that have been tried&hellip; &rdquo;
+  <span id="_signature">Winston Churchill, 1947<a href="en01"><sup id="bm01">1&nbsp;</sup></a></span>
  </div>
+ <p>But why governments? Why are they necessary? Churchill, again, defined democracy as “insurance,”</p>
+ <div class="_citation">
+  &ldquo;&hellip; If I had to sum up the immediate future of democratic politics in a single word I should say “insurance.” That is the future—insurance against dangers from abroad, insurance against dangers scarcely less grave and much more near and constant which threaten us here at home… ”&hellip; &rdquo;
+  <span id="_signature">Winston Churchill, 1947<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>
+</p>
+ <p>And people had reason to believe that, given the history of raids and wars. This “insurance” is brought to you by even a bigger hierarchy. But this time it is a representative hierarchy, elected by all. And so we have national governments, engendered by big kingdoms, engendered by lesser kingdoms, which were engendered by tribal chiefdoms. That is true for all national governments, from shameless dictatorships to benevolent democracies. They are all huge hierarchies in charge of the national borders.</p>
+<h1>Nations</h1>
 
- <table align="center">
+
+ <p>I think at this point it would come in handy to talk about nations. These are primarily groups of people who speak the same language. More accurately, these are groups of people who have been forced to speak the same language and fake/live the same culture. Spain is a good example of what I mean, but it applies to all of Europe and, indeed, to every modern country.</p>
+ <p>First the Germanic tribes arrived and cleansed the people living in the peninsula. The disparate tribes speak their own languages. Then the Romans of yore showed up and took over the Iberian peninsula. The Romans had gone through their amalgamation earlier: they spoke Latin and it became the official language of the land.</p>
+ <p>Later the Roman empire fell apart and wars ensued. In the end, the Castilian chiefdom won and forced everybody else, in what’s today Spain, to speak Castilian. The Basque and the Catalonians still speak their corresponding language, but they speak Castilian as well. In fact, all of Europe went through similar amalgamation and tribes became nations.</p>
+ <p>To be clear, this “amalgamation” was not peaceful by any means. It involved all-out wars and ethnic cleansing. The “common” language came about mostly by force.</p>
+ <p><em>This</em> is how nations were made. By brute force.</p>
+ <p>However, it all happened a long time ago. By now we are happy to believe that Nations have always been this way, a perfect result of evolution.</p>
+
+<h1>Lingua Franca</h1>
+ <p>You can fake culture, but not language. Let’s go with a common language, then, as the main requirement for becoming a nation. In that case, much of the world is becoming an American English-speaking nation.</p>
+ <p>This time the amalgamation is brought about not by force, but by commerce. Maybe it is turning out to be a good thing after all. Today,</p>
+ <ul>
+  <li>A lot of people can communicate with one another.</li>
+  <li>A lot of people can see they share common problems.</li>
+  <li>A lot of people can learn from one another.</li>
+  <li>A lot of people can collaborate.</li>
+  <li>A lot of people can solve problems bigger than themselves by working together with a lot of other people around the world.</li>
+ </ul>
+ <p>What this means is as much as I may wish for a different history, we are now at a point where we should be coming up with different solutions. We can create a better history going forward, without violence, but with collaboration.</p>
+ <p>The FIAT system that we’ve inherited has not been viable and will get worse going forward. In a search for an alternative, we need to recognize,</p>
+ <ul>
+  <li>FIAT hierarchies.</li>
+  <li>How much we accept them.</li>
+  <li>How invisible they are.</li>
+ </ul>
+
+<h1>The FIAT Hierarchy</h1>
+ <p>Every kind of organization today is based on a FIAT hierarchy: churches, businesses, non-for-profits, NGOs, and governments.</p>
+ <table>
   <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
+   <th>Churches</th>
+   <td>All churches have one or many gods at the top of their FIAT hierarchy. And, of course, there is one or a small group of humans who can interpret the deities. That’s the boss of the FIAT hierarchy.</td>
   </tr>
   <tr>
-   <td style="height: 7px;"></td>
+   <th>Businesses</th>
+   <td>Businesses have a CEO who is the boss of the FIAT hierarchy below.</td>
   </tr>
   <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
+   <th>Unions</th>
+   <td>Unions are a reflection of businesses, with a boss at the top of the FIAT hierarchy.</td>
   </tr>
   <tr>
-   <td style="height: 7px;"></td>
+   <th>Non-for-Profits and NGOs</th>
+   <td>They are also ruled by one or more bosses. Their edicts flow down the FIAT hierarchy below.</td>
   </tr>
   <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
-  </tr>
-  <tr>
-   <td class="_spacer_">&nbsp;</td>
+   <td calsss="_spacer"></td>
   </tr>
  </table>
+
+<h1>Governments</h1>
+ <p>Governments are the biggest and most powerful FIAT hierarchy of all. And they have a monopoly on violence.</p>
+ <p>Churchill was right in saying that democracies are better than other forms of government, but they are not good enough to solve the problems we face. In fact, they’ve created many of the problems we face today, at the start of the 21<sup>st</sup> century.</p>
+ <p>In fact, national governments have de facto created this “foreign danger,”</p>
+ <ul>
+  <li>Countries are an enclosure and enclosures create borders.</li>
+  <li>Anything and anybody outside these borders are, therefore, foreign.</li>
+  <li>Anything “forein” can easily become, or be made, into “foreign danger.”</li>
+ </ul>
+ <p>The idea that national governments are an anachronism has been recognized for a long time.</p>
+ <p>I first ran into it in the book <em>La Cuarta Vertebra</em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> an early 1960s book. Before that, in 1910, King Camp Gillette proposed a World Corporation.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> There are many others that have come up on a regular basis, but they all have the same weakness: their proposed fix is to build a taller FIAT hierarchy. I believe that the opposite is called for: governance without a FIAT hierarchy at all.</p>
+
+<h1>Collaboration</h1>
+ <p>As I said above, “<em>A lot of people can solve problems bigger than themselves by working together with a lot of other people around the world</em>.” It may take a long time, but this is what is bound to replace FIAT governments: people collaborating to solve problems, develop new technologies, and improve our wellbeing.</p>
+ <p>Europe is an example of what happens when 1) borders come down and 2) one currency, the Euro, replaces disparate national currencies.</p>
+
+<h1>Borders</h1>
+ <p>Borders are a major weakness in the way the anthropocentric world runs today. At the other extreme, a world government, a world without borders, would be the most fragile of things,</p>
+ <ul>
+  <li>A very, very tall FIAT hierarchy,</li>
+  <li>With a monopoly on violence≤</li>
+  <li>Control of which would be coveted by many.</li>
+ </ul>
+ <p>A world with no FIAT  hierarchy is our most attractive alternative.</p>
+
+<h1>Currency</h1>
+ <p>A big part of the problems we face have also to do with money. In fact, FIAT hierarchies and money go hand in hand.</p>
+ <p>The European Union als has a single currency, the Euro, which has replaced the disparate national currencies and the difficulties that go along with it. For world-wide commerce, it would be beneficial, too, to have one currency. Unlike the Euro, this governance of this currency would be decentralized.<a href="en05"><sup id="bm05">5&nbsp;</sup></a></p>
+
+<!-- Footnotes themselves at the bottom. -->
+
+<h2>Notes</h2>
+<div class="footnotes">
+<hr>
+<ol><li id="fn1">
+<h6>    	RIchard Langworth. Churchill’s “Democracy is the Worst Form of Government… .” <<a href="https://radicals.world/1a6vDr">https://radicals.world/1a6vDr</a>> (alt.  <a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>)</h5>
+&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a><li id="fn2">
+<h6>    	RIchard Langworth. Churchill’s “Democracy is the Worst Form of Government… .” <<a href="https://radicals.world/1a6vDr">https://radicals.world/1a6vDr</a>>  (alt., <a href="https://diigo.com/0qf2of">https://diigo.com/0qf2of</a>)</h5>
+&nbsp;<a href="#fnref2" rev="footnote">&#8617;</a><li id="fn3">
+<h6>    	Martii Lami. <em>La cuarta vertebra: estafador a pesar suyo.</em>.</h6>
+&nbsp;<a href="#fnref3" rev="footnote">&#8617;</a><li id="fn4">
+<h6>    	King Camp Gillette. <em>World Corporation</em>. 1910. <<a href="https://radicals.world/wmJFfR">https://radicals.world/wmJFfR</a>></h6>
+&nbsp;<a href="#fnref4" rev="footnote">&#8617;</a><li id="fn5">
+<h6>    	Matt Perez, Adrian Perez, Jose Leal. <em>rCOIN</em>. <<a href="https://radicalcompanies.com/2022/05/07/rcoin.html">https://radicalcompanies.com/2022/05/07/rcoin.html</a>></h6>
+&nbsp;<a href="#fnref5" rev="footnote">&#8617;</a>
+ </ol>
+</div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
