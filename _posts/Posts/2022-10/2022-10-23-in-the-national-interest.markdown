@@ -27,15 +27,15 @@ image:    "icon-in-the-national-interest.svg"
  <p>So, yes, democracy is better for our wellbeing that other forms of governance. However, like all forms of moderm governments, democracy brings along with it a <span class="_paradign">FIAT</span> hierarchy. And, yes, in a democracy the bosses of said hierarchy are elected by the governed. Neverthelss, a hierarchy is imposed.</p>
 
 <h1>National Governments</h1>
- <p>National governments were engendered by big kingdoms, which were engendered by lesser kingdoms, which were engendered by tribal chiefdoms. This is true for all national governments, from shameless dictatorships to benevolent democracies. All national governments are huge hierarchies in charge of the national borders and a monopoloy on force.</p>
+ <p>National governments were engendered by big kingdoms, which were engendered by lesser kingdoms, which were engendered by tribal chiefdoms. This is true for all national governments, from shameless dictatorships to benevolent democracies. Also true for all national governments they are huge <span class="_paradigm">FIAT</span> hierarchies in charge of the national borders and a monopoloy on force.</p>
 
 <h1>Nations</h1>
- <p>I think at this point it would come in handy to talk about nations. These are primarily groups of people who speak the same language. More accurately, these are groups of people who have been forced to speak the same language and fake/live the same culture. Spain is a good example of what I mean, but it applies to all of Europe and, indeed, to every modern country.</p>
- <p>First the Germanic tribes arrived and cleansed the people living in the peninsula. The disparate tribes speak their own languages. Then the Romans of yore showed up and took over the Iberian peninsula. The Romans had gone through their amalgamation earlier: they spoke Latin and it became the official language of the land.</p>
+ <p>I think at this point it would come in handy to talk about &ldquo;nations.&rdquo; These are primarily groups of people who speak the same language. More accurately, these are groups of people who have been forced to speak the same language and live/fake the same culture. Spain is a good example of what I mean, but it applies to all of Europe and a good chunkc of the modern world.</p>
+ <p>First the Germanic tribes, Gotsh, Visigoths, Celts, arrived and somehow cleansed the people who were already living in the peninsula. The disparate tribes spoke their own versions of the language. Then the Romans of yore showed up and took over the Iberian peninsula. The Romans had gone through their amalgamation earlier and they spoke Latin and forced everybody to speak it as well.</p>
  <p>Later the Roman empire fell apart and wars ensued. In the end, the Castilian chiefdom won and forced everybody else, in what’s today Spain, to speak Castilian. The Basque and the Catalonians still speak their corresponding language, but they speak Castilian as well. In fact, all of Europe went through similar amalgamation and tribes became nations.</p>
- <p>To be clear, this “amalgamation” was not peaceful by any means. It involved all-out wars and ethnic cleansing. The “common” language came about mostly by force.</p>
+ <p>To be clear, this &ldquo;amalgamation&rdquo; was not peaceful by any means. It involved all-out wars and ethnic cleansing.</p>
  <p><em>This</em> is how nations were made. By brute force.</p>
- <p>However, it all happened a long time ago. By now we are happy to believe that Nations have always been this way, a perfect result of evolution.</p>
+ <p>However, it all happened a long time ago and by now we are happy to believe that &ldquo;nations&rdquo; have always been this way. Kind of like a perfect result of evolution.</p>
 
 <h1>Lingua Franca</h1>
  <p>You can fake culture, but not language. Let’s go with a common language, then, as the main requirement for becoming a nation. In that case, much of the world is becoming an American English-speaking nation.</p>
