@@ -23,8 +23,8 @@ image:    "icon-in-the-national-interest.svg"
   &ldquo;&hellip; That is the future—insurance against dangers from abroad, insurance against dangers scarcely less grave and much more near and constant which threaten us here at home… ”&hellip; &rdquo;
   <span id="_signature">Winston Churchill, 1947<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></span>
  </div>
- <p>And people had reason to believe that, given the history of raids and wars.</p>
- <p>The problem, as I see it, is that democracy, like other form of governance, imposes a big hierarchy. A representative hierarchy, for sure, but an imposed, nevertheless. The reason it work is that the bosses in this hierarchy are elected by the governed.</p>
+ <p>And people had reason to believe that, given the history of raids and wars from the &ldquo;dangers from abroad.&rdquo;</p>
+ <p>Keep in mind that democracy, like other forms of governance, imposes a big hierarchy. The bosses of said hierarchy are elected by the governed, but the hierarchy is imposed, nevertheless.</p>
 
 <h1>National Governments</h1>
  <p>National governments were engendered by big kingdoms, and they were engendered by lesser kingdoms, which were engendered by tribal chiefdoms. That is true for all national governments, from shameless dictatorships to benevolent democracies. They are all huge hierarchies in charge of the national borders and a monopoloy on force..</p>
