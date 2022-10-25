@@ -20,7 +20,7 @@ image:    "icon-in-the-national-interest.svg"
  <h1>Democracy</h1>
  <p>In the same speech, Churchill defined democracy as “insurance,”</p>
  <div class="_citation">
-  &ldquo;&hellip; That is the future—insurance against dangers from abroad, insurance against dangers scarcely less grave and much more near and constant which threaten us here at home… ”&hellip; &rdquo;
+  &ldquo;&hellip; future—insurance against dangers from abroad, insurance against dangers scarcely less grave and much more near and constant which threaten us here at home&hellip; &rdquo;
   <span id="_signature">Winston Churchill, 1947<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></span>
  </div>
  <p>And people had reason to believe that, given the history of raids and wars from the &ldquo;dangers from abroad.&rdquo;</p>
