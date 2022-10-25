@@ -10,12 +10,12 @@ image:    "icon-in-the-national-interest.svg"
  <p>I am finding national governments an oddity, anachronistic, a thing from our past. The more I think about them, the more I believe that national governments are not part of a solution any more.</p>
 </div>
 
-<h1>National Governments</h1>
+<h1>&nbsp;</h1>
  <div class="_citation">
   &ldquo;&hellip; it has been said that democracy is the worst form of Government except for all those other forms that have been tried&hellip; &rdquo;
   <span id="_signature">Winston Churchill, 1947<a href="en01"><sup id="bm01">1&nbsp;</sup></a></span>
  </div>
- <p>Churchill assume that a government would be in command when he said this. But why governments? Why are they necessary?</p>
+ <p>When he said this, Churchill assumed that a government would be in place. Why are governments necessary?</p>
  
  <h1>Democracy</h1>
  <p>In the same speech, Churchill defined democracy as “insurance,”</p>
@@ -23,7 +23,11 @@ image:    "icon-in-the-national-interest.svg"
   &ldquo;&hellip; That is the future—insurance against dangers from abroad, insurance against dangers scarcely less grave and much more near and constant which threaten us here at home… ”&hellip; &rdquo;
   <span id="_signature">Winston Churchill, 1947<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></span>
  </div>
- <p>And people had reason to believe that, given the history of raids and wars. This “insurance” is brought to you by even a bigger hierarchy. But this time it is a representative hierarchy, elected by all. And so we have national governments, engendered by big kingdoms, engendered by lesser kingdoms, which were engendered by tribal chiefdoms. That is true for all national governments, from shameless dictatorships to benevolent democracies. They are all huge hierarchies in charge of the national borders.</p>
+ <p>And people had reason to believe that, given the history of raids and wars.</p>
+ <p>The problem, as I see it, is that democracy, like other form of governance, imposes a big hierarchy. A representative hierarchy, for sure, but an imposed, nevertheless. The reason it work is that the bosses in this hierarchy are elected by the governed.</p>
+
+<h1>National Governments</h1>
+ <p>National governments were engendered by big kingdoms, and they were engendered by lesser kingdoms, which were engendered by tribal chiefdoms. That is true for all national governments, from shameless dictatorships to benevolent democracies. They are all huge hierarchies in charge of the national borders and a monopoloy on force..</p>
 
 <h1>Nations</h1>
  <p>I think at this point it would come in handy to talk about nations. These are primarily groups of people who speak the same language. More accurately, these are groups of people who have been forced to speak the same language and fake/live the same culture. Spain is a good example of what I mean, but it applies to all of Europe and, indeed, to every modern country.</p>
