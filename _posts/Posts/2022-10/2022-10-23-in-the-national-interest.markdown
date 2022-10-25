@@ -11,7 +11,7 @@ image:    "icon-in-the-national-interest.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <div class="_citation">
+ <div class="_citation" style="font-size:larger; ">
   &ldquo;&hellip; it has been said that democracy is the worst form of Government except for all those other forms that have been tried&hellip; &rdquo;
   <span id="_signature">Winston Churchill, 1947<a href="en01"><sup id="bm01">1&nbsp;</sup></a></span>
  </div>
