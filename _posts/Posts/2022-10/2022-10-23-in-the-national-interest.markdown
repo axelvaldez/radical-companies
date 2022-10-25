@@ -11,13 +11,13 @@ image:    "icon-in-the-national-interest.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <div class="_citation" style="font-size:larger; ">
+ <div class="_citation">
   &ldquo;&hellip; it has been said that democracy is the worst form of Government except for all those other forms that have been tried&hellip; &rdquo;
   <span id="_signature">Winston Churchill, 1947<a href="en01"><sup id="bm01">1&nbsp;</sup></a></span>
  </div>
  <p>When he said this, Churchill assumed that a government would be in place. It&rsquo;s a fair assumption, but why?</p>
  
- <h1>Democracy</h1>
+<h1>Democracy</h1>
  <p>In the same speech, Churchill defined democracy as “insurance,”</p>
  <div class="_citation">
   &ldquo;&hellip; future—insurance against dangers from abroad&hellip; &rdquo;

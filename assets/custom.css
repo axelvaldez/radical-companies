@@ -324,7 +324,7 @@ td._spacer:after {
   margin-left:40px;
   text-indent:-1em;
   font-style:italic;
-  font-size:smaller;
+  font-size:larger;
   margin-top:0.5em;
   margin-left:10%;
 }
