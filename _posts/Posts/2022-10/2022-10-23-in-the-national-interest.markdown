@@ -18,12 +18,11 @@ image:    "icon-the-national-interest.svg"
  <p>But why governments? Why are they necessary? Churchill, again, defined democracy as “insurance,”</p>
  <div class="_citation">
   &ldquo;&hellip; If I had to sum up the immediate future of democratic politics in a single word I should say “insurance.” That is the future—insurance against dangers from abroad, insurance against dangers scarcely less grave and much more near and constant which threaten us here at home… ”&hellip; &rdquo;
-  <span id="_signature">Winston Churchill, 1947<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>
-</p>
+  <span id="_signature">Winston Churchill, 1947<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></span>
+ </div>
  <p>And people had reason to believe that, given the history of raids and wars. This “insurance” is brought to you by even a bigger hierarchy. But this time it is a representative hierarchy, elected by all. And so we have national governments, engendered by big kingdoms, engendered by lesser kingdoms, which were engendered by tribal chiefdoms. That is true for all national governments, from shameless dictatorships to benevolent democracies. They are all huge hierarchies in charge of the national borders.</p>
+
 <h1>Nations</h1>
-
-
  <p>I think at this point it would come in handy to talk about nations. These are primarily groups of people who speak the same language. More accurately, these are groups of people who have been forced to speak the same language and fake/live the same culture. Spain is a good example of what I mean, but it applies to all of Europe and, indeed, to every modern country.</p>
  <p>First the Germanic tribes arrived and cleansed the people living in the peninsula. The disparate tribes speak their own languages. Then the Romans of yore showed up and took over the Iberian peninsula. The Romans had gone through their amalgamation earlier: they spoke Latin and it became the official language of the land.</p>
  <p>Later the Roman empire fell apart and wars ensued. In the end, the Castilian chiefdom won and forced everybody else, in what’s today Spain, to speak Castilian. The Basque and the Catalonians still speak their corresponding language, but they speak Castilian as well. In fact, all of Europe went through similar amalgamation and tribes became nations.</p>
@@ -102,34 +101,46 @@ image:    "icon-the-national-interest.svg"
  <p>A big part of the problems we face have also to do with money. In fact, FIAT hierarchies and money go hand in hand.</p>
  <p>The European Union als has a single currency, the Euro, which has replaced the disparate national currencies and the difficulties that go along with it. For world-wide commerce, it would be beneficial, too, to have one currency. Unlike the Euro, this governance of this currency would be decentralized.<a href="en05"><sup id="bm05">5&nbsp;</sup></a></p>
 
-<!-- Footnotes themselves at the bottom. -->
-
-<h2>Notes</h2>
-<div class="footnotes">
-<hr>
-<ol><li id="fn1">
-<h6>    	RIchard Langworth. Churchill’s “Democracy is the Worst Form of Government… .” <<a href="https://radicals.world/1a6vDr">https://radicals.world/1a6vDr</a>> (alt.  <a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>)</h5>
-&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a><li id="fn2">
-<h6>    	RIchard Langworth. Churchill’s “Democracy is the Worst Form of Government… .” <<a href="https://radicals.world/1a6vDr">https://radicals.world/1a6vDr</a>>  (alt., <a href="https://diigo.com/0qf2of">https://diigo.com/0qf2of</a>)</h5>
-&nbsp;<a href="#fnref2" rev="footnote">&#8617;</a><li id="fn3">
-<h6>    	Martii Lami. <em>La cuarta vertebra: estafador a pesar suyo.</em>.</h6>
-&nbsp;<a href="#fnref3" rev="footnote">&#8617;</a><li id="fn4">
-<h6>    	King Camp Gillette. <em>World Corporation</em>. 1910. <<a href="https://radicals.world/wmJFfR">https://radicals.world/wmJFfR</a>></h6>
-&nbsp;<a href="#fnref4" rev="footnote">&#8617;</a><li id="fn5">
-<h6>    	Matt Perez, Adrian Perez, Jose Leal. <em>rCOIN</em>. <<a href="https://radicalcompanies.com/2022/05/07/rcoin.html">https://radicalcompanies.com/2022/05/07/rcoin.html</a>></h6>
-&nbsp;<a href="#fnref5" rev="footnote">&#8617;</a>
- </ol>
-</div>
-
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
    <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
+    Richard Langworth.
+    <em>Churchill’s “Democracy is the Worst Form of Government&hellip; .”</em>
+    <<a href="https://radicals.world/1a6vDr">https://radicals.world/1a6vDr</a>> (alt.  <a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>)
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    Richard Langworth.
+    <em>Churchill’s “Democracy is the Worst Form of Government&hellip; .”</em>
+    <<a href="https://diigo.com/0qf2of">https://diigo.com/0qf2of</a>> (alt.  <a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>)
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    Martii Lami.
+    <em>La cuarta vertebra: estafador a pesar suyo.</em>.
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item">
+    King Camp Gillette.
+    <em>World Corporation</em>.
+    1910.
+    <<a href="https://radicals.world/wmJFfR">https://radicals.world/wmJFfR</a>>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en05">
+   <p class="_list-item">
+    Matt Perez, Adrian Perez, Jose Leal.
+    <em>rCOIN</em>.
+    <<a href="https://radicalcompanies.com/2022/05/07/rcoin.html">https://radicalcompanies.com/2022/05/07/rcoin.html</a>>
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
