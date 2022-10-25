@@ -21,15 +21,18 @@ image:    "icon-google-goes-radical.svg"
 <h1><span class="_paradigm">FIAT</span> Google Shortcomings</h1>
  <p>Take a look at <span class="_paradigm">FIAT</span> Google,<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
  <table>
-  <tr>
-   <td>Year</td>
-   <td>Employee Count</td>
-   <td>
+  <tr style="text-align:center; ">
+   <th>Year</th>
+   <th>Employee Count</th>
+   <th>
     Net Income
     <br>
     (Mil $)
-   </td>
-   <td>Profit per Employee ($)</td>
+   </th>
+   <th>
+    Profit per
+    <br>
+    Employee ($)</td>
   </tr>
   <tr>
    <td>2004</td>
@@ -111,19 +114,19 @@ image:    "icon-google-goes-radical.svg"
  <p><span class="_paradigm">FIAT</span> Google couldn’t help their headcount addiction,  a must have of <span class="_paradigm">FIAT</span> hierarchies. But, more than likely, the <span class="_paradigm">RADICAL</span> Google co-owners would have grown their rank as needed.</p>
  <p>Here is what ten years of Google’s performance might have looked like,</p>
  <table>
-  <tr>
-   <td>Year</td>
-   <td>Employee Count</td>
-   <td>
+  <tr style="text-align:center; ">
+   <th>Year</th>
+   <th>Employee Count</th>
+   <th>
     Net Income
     <br>
     (Mil $)
-   </td>
-   <td>
+   </th>
+   <th>
     <span class="_paradigm">RAD</span> fund
     <br>
     ($)
-   </td>
+   </th>
   </tr>
   <tr>
    <td>2004</td>
