@@ -20,7 +20,7 @@ image:    "icon-in-the-national-interest.svg"
  <h1>Democracy</h1>
  <p>In the same speech, Churchill defined democracy as “insurance,”</p>
  <div class="_citation">
-  &ldquo;&hellip; If I had to sum up the immediate future of democratic politics in a single word I should say “insurance.” That is the future—insurance against dangers from abroad, insurance against dangers scarcely less grave and much more near and constant which threaten us here at home… ”&hellip; &rdquo;
+  &ldquo;&hellip; That is the future—insurance against dangers from abroad, insurance against dangers scarcely less grave and much more near and constant which threaten us here at home… ”&hellip; &rdquo;
   <span id="_signature">Winston Churchill, 1947<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></span>
  </div>
  <p>And people had reason to believe that, given the history of raids and wars. This “insurance” is brought to you by even a bigger hierarchy. But this time it is a representative hierarchy, elected by all. And so we have national governments, engendered by big kingdoms, engendered by lesser kingdoms, which were engendered by tribal chiefdoms. That is true for all national governments, from shameless dictatorships to benevolent democracies. They are all huge hierarchies in charge of the national borders.</p>
