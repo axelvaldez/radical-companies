@@ -23,8 +23,8 @@ image:    "icon-in-the-national-interest.svg"
   &ldquo;&hellip; future—insurance against dangers from abroad&hellip; &rdquo;
   <span id="_signature">Winston Churchill, 1947<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></span>
  </div>
- <p>And people had reason to believe that, given the history of raids and wars from the &ldquo;dangers from abroad.&rdquo;</p>
- <p>Like other forms of governance, a democracy imposes a hierarchy. The bosses of said hierarchy are elected by the governed, but the hierarchy is, nevertheless, imposed.</p>
+ <p>People had reason to believe this given the history of raids, wars and other &ldquo;dangers from abroad.&rdquo;</p>
+ <p>So, yes, democracy is better for our wellbeing that other forms of governance. The remaining problem is that, like all forms of moderm governments, democracy brings along with it a <span class="_paradign">FIAT</span> hierarchy. And, yes, in a democracy the bosses of said hierarchy are elected by the governed. Neverthelss, a hierarchy is imposed.</p>
 
 <h1>National Governments</h1>
  <p>National governments were engendered by big kingdoms, These were engendered by lesser kingdoms, which were engendered by tribal chiefdoms. This is true for all national governments, from shameless dictatorships to benevolent democracies. All national governments are huge hierarchies in charge of the national borders and a monopoloy on force.</p>
