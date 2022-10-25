@@ -7,7 +7,7 @@ image:    "icon-the-national-interest.svg"
 ---
 
 <div style="display:none;">
- <p>I am finding national governments an oddity, an anachronism. The more I think about them, the more I believe they are not part of a solution any more.</p>
+ <p>I am finding national governments an oddity, anachronistic, a thing from our past. The more I think about them, the more I believe that national governments are not part of a solution any more.</p>
 </div>
 
 <h1>National Governments</h1>
