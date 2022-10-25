@@ -19,7 +19,7 @@ image:    "icon-google-goes-radical.svg"
  <p>We know what <span class="_paradigm">FIAT</span> Google has done: they went public and started all kinds of projects to increase headcount and add heft to the management pyramid. They followed the <span class="_paradigm">FIAT</span> logic and the hierarchy accumulated employees under a boss, The bosses became bigger bosses and got paid more, <em>ad infinitum</em>.</p>
 
 <h1><span class="_paradigm">FIAT</span> Google Shortcomings</h1>
- <p>Take a look at <span class="_paradigm">FIAT</span> Google,<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
+ <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
  <table>
   <tr style="text-align:center; ">
    <th>Year</th>
@@ -198,20 +198,6 @@ image:    "icon-google-goes-radical.svg"
  <p>A <span class="_paradigm">RADICAL</span> Google co-owner could have earned a total of over $18M over that time. As people who co-owned the company, the 2004 Googlers might have chosen to grow the company differently.</p>
  <p>Because it decentralizes power in the company that would normally have been assigned to bosses, <span class="_paradigm">RADICAL</span> Google’s growth might have been guided by their Capital Efficiency and it would have grown meteorically. This would also increase profit per co-owner because there’d be no empires (<em>i.e.</em>, <span class="_paradigm">FIAT</span> hierarchy) to grow.</p>
 
-<!-- Footnotes themselves at the bottom. -->
-
-<h2>Notes</h2>
-<div class="footnotes">
-<hr>
-<ol><li id="fn1">
-<h6>    	See <em>Number of employees at Alphabet</em>, <<a href="https://statstic.com/number-of-employees-at-alphabet">https://statstic.com/number-of-employees-at-alphabet</a>> and <em>Google’s Net Income</em>, <<a href="https://www.statista.com/statistics/266472/googles-net-income/">https://www.statista.com/statistics/266472/googles-net-income/</a>></h6>
-
-&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a>
-
-</ol></div>
-
-<p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
-
 <div class="_center">
  <img
   src="/assets/img/pings-to-rads-equation.svg"
@@ -219,38 +205,14 @@ image:    "icon-google-goes-radical.svg"
   alt="">
  </div>
 
- <table align="center">
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
-  </tr>
-  <tr>
-   <td class="_spacer_">&nbsp;</td>
-  </tr>
- </table>
-
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
    <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
+    See <em>Number of employees at Alphabet</em>,
+    <<a href="https://statstic.com/number-of-employees-at-alphabet">https://statstic.com/number-of-employees-at-alphabet</a>>,
+    and <em>Google’s Net Income</em>,
+    <<a href="https://www.statista.com/statistics/266472/googles-net-income/">https://www.statista.com/statistics/266472/googles-net-income/</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
