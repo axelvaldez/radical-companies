@@ -3,7 +3,7 @@ layout:   post
 title:    "Google Goes RADICAL"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-google-goes-radical.svg"
 ---
 
 <div style="display:none;">
