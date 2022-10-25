@@ -56,24 +56,24 @@ image:    "icon-in-the-national-interest.svg"
   <li>How invisible they are.</li>
  </ul>
 
-<h1>The FIAT Hierarchy</h1>
- <p>Every kind of organization today is based on a FIAT hierarchy: churches, businesses, non-for-profits, NGOs, and governments.</p>
+<h1>The <span class="_paradigm">FIAT</span> Hierarchy</h1>
+ <p>Every kind of organization today is based on a <span class="_paradigm">FIAT</span> hierarchy: churches, businesses, non-for-profits, NGOs, and governments.</p>
  <table>
   <tr>
    <th>Churches</th>
-   <td>All churches have one or many gods at the top of their FIAT hierarchy. And, of course, there is one or a small group of humans who can interpret the deities. That’s the boss of the FIAT hierarchy.</td>
+   <td>All churches have one or many gods at the top of their <span class="_paradigm">FIAT</span> hierarchy. And, of course, there is one or a small group of humans who can interpret the deities. That’s the boss of the <span class="_paradigm">FIAT</span> hierarchy.</td>
   </tr>
   <tr>
    <th>Businesses</th>
-   <td>Businesses have a CEO who is the boss of the FIAT hierarchy below.</td>
+   <td>Businesses have a CEO who is the boss of the <span class="_paradigm">FIAT</span> hierarchy below.</td>
   </tr>
   <tr>
    <th>Unions</th>
-   <td>Unions are a reflection of businesses, with a boss at the top of the FIAT hierarchy.</td>
+   <td>Unions are a reflection of businesses, with a boss at the top of the <span class="_paradigm">FIAT</span> hierarchy.</td>
   </tr>
   <tr>
    <th>Non-for-Profits and NGOs</th>
-   <td>They are also ruled by one or more bosses. Their edicts flow down the FIAT hierarchy below.</td>
+   <td>They are also ruled by one or more bosses. Their edicts flow down the <span class="_paradigm">FIAT</span> hierarchy below.</td>
   </tr>
   <tr>
    <td calsss="_spacer"></td>
@@ -81,7 +81,7 @@ image:    "icon-in-the-national-interest.svg"
  </table>
 
 <h1>Governments</h1>
- <p>Governments are the biggest and most powerful FIAT hierarchy of all. And they have a monopoly on violence.</p>
+ <p>Governments are the biggest and most powerful <span class="_paradigm">FIAT</span> hierarchy of all. And they have a monopoly on violence.</p>
  <p>Churchill was right in saying that democracies are better than other forms of government, but they are not good enough to solve the problems we face. In fact, they’ve created many of the problems we face today, at the start of the 21<sup>st</sup> century.</p>
  <p>In fact, national governments have de facto created this “foreign danger,”</p>
  <ul>
@@ -90,23 +90,23 @@ image:    "icon-in-the-national-interest.svg"
   <li>Anything “forein” can easily become, or be made, into “foreign danger.”</li>
  </ul>
  <p>The idea that national governments are an anachronism has been recognized for a long time.</p>
- <p>I first ran into it in the book <em>La Cuarta Vertebra</em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> an early 1960s book. Before that, in 1910, King Camp Gillette proposed a World Corporation.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> There are many others that have come up on a regular basis, but they all have the same weakness: their proposed fix is to build a taller FIAT hierarchy. I believe that the opposite is called for: governance without a FIAT hierarchy at all.</p>
+ <p>I first ran into it in the book <em>La Cuarta Vertebra</em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> an early 1960s book. Before that, in 1910, King Camp Gillette proposed a World Corporation.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> There are many others that have come up on a regular basis, but they all have the same weakness: their proposed fix is to build a taller <span class="_paradigm">FIAT</span> hierarchy. I believe that the opposite is called for: governance without a <span class="_paradigm">FIAT</span> hierarchy at all.</p>
 
 <h1>Collaboration</h1>
- <p>As I said above, “<em>A lot of people can solve problems bigger than themselves by working together with a lot of other people around the world</em>.” It may take a long time, but this is what is bound to replace FIAT governments: people collaborating to solve problems, develop new technologies, and improve our wellbeing.</p>
+ <p>As I said above, “<em>A lot of people can solve problems bigger than themselves by working together with a lot of other people around the world</em>.” It may take a long time, but this is what is bound to replace <span class="_paradigm">FIAT</span> governments: people collaborating to solve problems, develop new technologies, and improve our wellbeing.</p>
  <p>Europe is an example of what happens when 1) borders come down and 2) one currency, the Euro, replaces disparate national currencies.</p>
 
 <h1>Borders</h1>
  <p>Borders are a major weakness in the way the anthropocentric world runs today. At the other extreme, a world government, a world without borders, would be the most fragile of things,</p>
  <ul>
-  <li>A very, very tall FIAT hierarchy,</li>
+  <li>A very, very tall <span class="_paradigm">FIAT</span> hierarchy,</li>
   <li>With a monopoly on violence≤</li>
   <li>Control of which would be coveted by many.</li>
  </ul>
- <p>A world with no FIAT  hierarchy is our most attractive alternative.</p>
+ <p>A world with no <span class="_paradigm">FIAT</span>  hierarchy is our most attractive alternative.</p>
 
 <h1>Currency</h1>
- <p>A big part of the problems we face have also to do with money. In fact, FIAT hierarchies and money go hand in hand.</p>
+ <p>A big part of the problems we face have also to do with money. In fact, <span class="_paradigm">FIAT</span> hierarchies and money go hand in hand.</p>
  <p>The European Union als has a single currency, the Euro, which has replaced the disparate national currencies and the difficulties that go along with it. For world-wide commerce, it would be beneficial, too, to have one currency. Unlike the Euro, this governance of this currency would be decentralized.<a href="en05"><sup id="bm05">5&nbsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
