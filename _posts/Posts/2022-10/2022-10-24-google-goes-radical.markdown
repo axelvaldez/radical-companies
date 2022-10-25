@@ -110,8 +110,7 @@ image:    "icon-google-goes-radical.svg"
  <p>As a decentralized and transparent company, <span class="_paradigm">RADICAL</span> Google would have likely foregone the ballooning headcount that started around 2007.</p>
  <p><span class="_paradigm">FIAT</span> Google couldn’t help their headcount addiction,  a must have of <span class="_paradigm">FIAT</span> hierarchies. But, more than likely, the <span class="_paradigm">RADICAL</span> Google co-owners would have grown their rank as needed.</p>
  <p>Here is what ten years of Google’s performance might have looked like,</p>
-
-<table>
+ <table>
   <tr>
    <td>Year</td>
    <td>Employee Count</td>
