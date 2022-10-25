@@ -21,18 +21,19 @@ image:    "icon-google-goes-radical.svg"
 <h1><span class="_paradigm">FIAT</span> Google Shortcomings</h1>
  <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
  <table>
-  <tr style="text-align:center; ">
-   <th>Year</th>
-   <th>Employee Count</th>
+  <tr>
+   <th style="text-align:center; ">Year</th>
+   <th style="text-align:center; ">Employee Count</th>
    <th>
     Net Income
     <br>
     (Mil $)
    </th>
-   <th>
+   <th style="text-align:center; ">
     Profit per
     <br>
-    Employee ($)</td>
+    Employee ($)
+   </th>
   </tr>
   <tr>
    <td>2004</td>
@@ -115,14 +116,14 @@ image:    "icon-google-goes-radical.svg"
  <p>Here is what ten years of Google’s performance might have looked like,</p>
  <table>
   <tr style="text-align:center; ">
-   <th>Year</th>
-   <th>Employee Count</th>
-   <th>
+   <th style="text-align:center; ">Year</th>
+   <th style="text-align:center; ">Employee Count</th>
+   <th style="text-align:center; ">
     Net Income
     <br>
     (Mil $)
    </th>
-   <th>
+   <th style="text-align:center; ">
     <span class="_paradigm">RAD</span> fund
     <br>
     ($)
