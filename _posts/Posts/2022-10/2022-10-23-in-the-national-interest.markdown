@@ -15,7 +15,10 @@ image:    "icon-in-the-national-interest.svg"
   &ldquo;&hellip; it has been said that democracy is the worst form of Government except for all those other forms that have been tried&hellip; &rdquo;
   <span id="_signature">Winston Churchill, 1947<a href="en01"><sup id="bm01">1&nbsp;</sup></a></span>
  </div>
- <p>But why governments? Why are they necessary? Churchill, again, defined democracy as “insurance,”</p>
+ <p>Churchill assume that a government would be in command when he said this. But why governments? Why are they necessary?</p>
+ 
+ <h1>Democracy</h1>
+ <p>In the same speech, Churchill defined democracy as “insurance,”</p>
  <div class="_citation">
   &ldquo;&hellip; If I had to sum up the immediate future of democratic politics in a single word I should say “insurance.” That is the future—insurance against dangers from abroad, insurance against dangers scarcely less grave and much more near and constant which threaten us here at home… ”&hellip; &rdquo;
   <span id="_signature">Winston Churchill, 1947<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></span>
