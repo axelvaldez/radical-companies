@@ -24,10 +24,10 @@ image:    "icon-in-the-national-interest.svg"
   <span id="_signature">Winston Churchill, 1947<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></span>
  </div>
  <p>And people had reason to believe that, given the history of raids and wars from the &ldquo;dangers from abroad.&rdquo;</p>
- <p>In a democracy, keep in mind that democracy, like other forms of governance, imposes a big hierarchy. The bosses of said hierarchy are elected by the governed, but the hierarchy is imposed, nevertheless.</p>
+ <p>Like other forms of governance, a democracy imposes a hierarchy. The bosses of said hierarchy are elected by the governed, but the hierarchy is, nevertheless, imposed.</p>
 
 <h1>National Governments</h1>
- <p>National governments were engendered by big kingdoms, and they were engendered by lesser kingdoms, which were engendered by tribal chiefdoms. That is true for all national governments, from shameless dictatorships to benevolent democracies. They are all huge hierarchies in charge of the national borders and a monopoloy on force..</p>
+ <p>National governments were engendered by big kingdoms, These were engendered by lesser kingdoms, which were engendered by tribal chiefdoms. This is true for all national governments, from shameless dictatorships to benevolent democracies. All national governments are huge hierarchies in charge of the national borders and a monopoloy on force.</p>
 
 <h1>Nations</h1>
  <p>I think at this point it would come in handy to talk about nations. These are primarily groups of people who speak the same language. More accurately, these are groups of people who have been forced to speak the same language and fake/live the same culture. Spain is a good example of what I mean, but it applies to all of Europe and, indeed, to every modern country.</p>
