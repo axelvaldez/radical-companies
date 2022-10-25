@@ -3,7 +3,7 @@ layout:   post
 title:    "In the National Interest"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-the-national-interest.svg"
+image:    "icon-in-the-national-interest.svg"
 ---
 
 <div style="display:none;">
