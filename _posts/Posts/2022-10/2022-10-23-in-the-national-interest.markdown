@@ -38,8 +38,9 @@ image:    "icon-in-the-national-interest.svg"
  <p>However, it all happened a long time ago and by now we are happy to believe that &ldquo;nations&rdquo; have always been this way. Kind of like a perfect result of evolution.</p>
 
 <h1>Lingua Franca</h1>
- <p>You can fake culture, but not language. Let’s go with a common language, then, as the main requirement for becoming a nation. In that case, much of the world is becoming an American English-speaking nation.</p>
- <p>This time the amalgamation is brought about not by force, but by commerce. Maybe it is turning out to be a good thing after all. Today,</p>
+ <p>You can fake culture, but not language. Let&rsquo;s assume a common language as the main requirement for a nation.</p>
+ <p>In that case, much of the world is becoming an American English-speaking nation. This time the amalgamation is brought about not by force, but by commerce. So, maybe it is turning out to be a good thing after all.</p>
+ <p>Today,</p>
  <ul>
   <li>A lot of people can communicate with one another.</li>
   <li>A lot of people can see they share common problems.</li>
@@ -47,10 +48,10 @@ image:    "icon-in-the-national-interest.svg"
   <li>A lot of people can collaborate.</li>
   <li>A lot of people can solve problems bigger than themselves by working together with a lot of other people around the world.</li>
  </ul>
- <p>What this means is as much as I may wish for a different history, we are now at a point where we should be coming up with different solutions. We can create a better history going forward, without violence, but with collaboration.</p>
- <p>The FIAT system that we’ve inherited has not been viable and will get worse going forward. In a search for an alternative, we need to recognize,</p>
+ <p>What this means is, that as much as I may wish for a different history, we are now at a point where we should be coming up with different solutions not one anchored in the past. We can create a better history going forward, without violence, but with collaboration.</p>
+ <p>The <span class="_paradigm">FIAT</span> system that we’ve inherited has not been viable for a while already and will get worse going forward. In a search for an alternative, we need to be able to recognize,</p>
  <ul>
-  <li>FIAT hierarchies.</li>
+  <li><span class="_paradigm">FIAT</span> hierarchies.</li>
   <li>How much we accept them.</li>
   <li>How invisible they are.</li>
  </ul>
