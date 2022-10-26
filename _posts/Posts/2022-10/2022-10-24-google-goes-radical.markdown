@@ -21,7 +21,6 @@ image:    "icon-google-goes-radical.svg"
 <h1><span class="_paradigm">FIAT</span> Google Shortcomings</h1>
  <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
  <table>
-  <thead>
    <colgroup>
     <col style="text-align:center; width:20px; " span="4" />
    </colgroup>
@@ -43,14 +42,10 @@ image:    "icon-google-goes-radical.svg"
      Employee ($)
     </th>
    </tr>
-  </thead>
-
   <tbody>
-
    <colgroup>
     <col style="text-align:center; " span="4" />
    </colgroup>
-
    <tr>
     <td>2004</td>
     <td>3,021</td>
