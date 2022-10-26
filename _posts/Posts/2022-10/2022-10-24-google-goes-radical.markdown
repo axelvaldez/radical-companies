@@ -129,7 +129,7 @@ image:    "icon-google-goes-radical.svg"
     ($)
    </th>
   </tr>
-  <tr>
+  <tr style="text-align:right: xx>
    <td>2004</td>
    <td>3000</td>
    <td>399.1</td>
