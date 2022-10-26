@@ -24,6 +24,9 @@ image:    "icon-google-goes-radical.svg"
   <colgroup>
    <col style="text-align:right; width:1in; " span="4">
   </colgroup>
+  <rowgroup>
+   <row style="text-align:center; " span="1">
+  </rowgroup>
   <tr>
    <th>Year</th>
    <th>
