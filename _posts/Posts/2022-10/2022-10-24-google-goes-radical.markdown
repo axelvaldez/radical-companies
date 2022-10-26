@@ -21,27 +21,24 @@ image:    "icon-google-goes-radical.svg"
 <h1><span class="_paradigm">FIAT</span> Google Shortcomings</h1>
  <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
  <table>
-  <colgroup>
-  <col colspan="4" style="text-align:center; width:20px; " />
   <tr>
-   <th>Year</th>
-   <th>
+   <td style="text-align:center; font-weight:bold; ">Year</td>
+   <td style="text-align:center; font-weight:bold; ">
     Employee
     <br>
     Count
-   </th>
-   <th>
+   </td>
+   <td style="text-align:center; font-weight:bold; ">
     Net Income
     <br>
     (Mil $)
-   </th>
-   <th>
+   </td>
+   <td style="text-align:center; font-weight:bold; ">
     Profit per
     <br>
     Employee ($)
-   </th>
+   </td>
   </tr>
-  <col colspan="4" style="text-align:right; " />
   <tr>
    <td>2004</td>
    <td>3,021</td>
