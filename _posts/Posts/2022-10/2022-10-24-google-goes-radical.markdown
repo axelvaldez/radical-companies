@@ -23,7 +23,7 @@ image:    "icon-google-goes-radical.svg"
  <table>
   <thead>
    <colgroup>
-    <col style="text-align:center; width:20px; " span="4">
+    <col style="text-align:center; width:20px; " span="4" />
    </colgroup>
    <tr>
     <th>Year</th>
@@ -44,10 +44,13 @@ image:    "icon-google-goes-radical.svg"
     </th>
    </tr>
   </thead>
+
   <tbody>
+
    <colgroup>
-    <col style="text-align:center; " span="4">
+    <col style="text-align:center; " span="4" />
    </colgroup>
+
    <tr>
     <td>2004</td>
     <td>3,021</td>
