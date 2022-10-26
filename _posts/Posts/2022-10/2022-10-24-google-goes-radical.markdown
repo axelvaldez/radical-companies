@@ -23,7 +23,11 @@ image:    "icon-google-goes-radical.svg"
  <table>
   <tr>
    <th style="text-align:center; width:1in; ">Year</th>
-   <th style="text-align:center; width:1in; ">Employee Count</th>
+   <th style="text-align:center; width:1in; ">
+    Employee
+    <br>
+    Count
+   </th>
    <th style="text-align:center; width:1in; ">
     Net Income
     <br>
