@@ -21,19 +21,19 @@ image:    "icon-google-goes-radical.svg"
 <h1><span class="_paradigm">FIAT</span> Google Shortcomings</h1>
  <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
  <table align="center" style="width:40%;">
-  <tr style="background-color:LightGray; vertical-align:bottom; ">
-   <td style="text-align:center; font-weight:bold; ">Year</td>
-   <td style="text-align:center; font-weight:bold; border-left:1px dotted black; ">
+  <tr style="background-color:LightGray; ">
+   <td style="text-align:center; font-weight:bold; vertical-align:bottom; ">Year</td>
+   <td style="text-align:center; font-weight:bold; vertical-align:bottom; ">
     Employee
     <br>
     Count
    </td>
-   <td style="text-align:center; font-weight:bold; border-left:1px dotted black; ">
+   <td style="text-align:center; font-weight:bold; vertical-align:bottom; ">
     Net Income
     <br>
     (Mil $)
    </td>
-   <td style="text-align:center; font-weight:bold; border-left:1px dotted black; ">
+   <td style="text-align:center; font-weight:bold; vertical-align:bottom; ">
     Profit per
     <br>
     Employee ($)
@@ -128,15 +128,15 @@ image:    "icon-google-goes-radical.svg"
  <p><span class="_paradigm">FIAT</span> Google couldn&rsquo;t help their headcount addiction,  a must have of <span class="_paradigm">FIAT</span> hierarchies. But, more than likely, the <span class="_paradigm">RADICAL</span> Google co-owners would have grown their rank as needed.</p>
  <p>Here is what ten years of Google&rsquo;s performance might have looked like,</p>
  <table align="center" style="width:40%; ">
-  <tr style="background-color:LightGray; vertical-align:bottom; ">
-   <td style="text-align:center; font-weight:bold; ">Year</td>
-   <td style="text-align:center; font-weight:bold; border-left:1px dotted black; ">Employee Count</td>
-   <td style="text-align:center; font-weight:bold; border-left:1px dotted black; ">
+  <tr style="background-color:LightGray; ">
+   <td style="text-align:center; font-weight:bold; vertical-align:bottom; ">Year</td>
+   <td style="text-align:center; font-weight:bold; vertical-align:bottom; ">Employee Count</td>
+   <td style="text-align:center; font-weight:bold; vertical-align:bottom; ">
     Net Income
     <br>
     (Mil $)
    </td>
-   <td style="text-align:center; font-weight:bold; border-left:1px dotted black; ">
+   <td style="text-align:center; font-weight:bold; vertical-align:bottom; ">
     <span class="_paradigm">RAD</span> fund
     <br>
     ($)
