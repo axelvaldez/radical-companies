@@ -47,80 +47,60 @@ image:    "icon-google-goes-radical.svg"
    <td style="text-align:right; border-left:1px dotted black; ">399.1<td>
    <td style="text-align:right; border-left:1px dotted black; ">132,109</td>
   </tr>
-</table>
-<table align="center" style="width:40%; ">
   <tr>
    <td style="text-align:right; ">2005</td>
    <td style="text-align:right; border-left:1px dotted black; ">5,680</td>
    <td style="text-align:right; border-left:1px dotted black; ">1465.4</td>
    <td style="text-align:right; border-left:1px dotted black; ">257,993</td>
   </tr>
-</table>
-<table align="center" style="width:40%; ">
   <tr>
    <td style="text-align:right; ">2006</td>
    <td style="text-align:right; border-left:1px dotted black; ">10,674</td>
    <td style="text-align:right; border-left:1px dotted black; ">3077.5</td>
    <td style="text-align:right; border-left:1px dotted black; ">288,317</td>
   </tr>
-</table>
-<table align="center" style="width:40%; ">
   <tr>
    <td style="text-align:right; ">2007</td>
    <td style="text-align:right; border-left:1px dotted black; ">16,805</td>
    <td style="text-align:right; border-left:1px dotted black; ">4203.7</td>
    <td style="text-align:right; border-left:1px dotted black; ">250,146</td>
   </tr>
-</table>
-<table align="center" style="width:40%; ">
   <tr>
    <td style="text-align:right; ">2008</td>
    <td style="text-align:right; border-left:1px dotted black; ">20,222</td>
    <td style="text-align:right; border-left:1px dotted black; ">4226.9</td>
    <td style="text-align:right; border-left:1px dotted black; ">209,025</td>
   </tr>
-</table>
-<table align="center" style="width:40%; ">
   <tr>
    <td style="text-align:right; ">2009</td>
    <td style="text-align:right; border-left:1px dotted black; ">19,835</td>
    <td style="text-align:right; border-left:1px dotted black; ">6520.4</td>
    <td style="text-align:right; border-left:1px dotted black; ">328,732</td>
   </tr>
-</table>
-<table align="center" style="width:40%; ">
   <tr>
    <td style="text-align:right; ">2010</td>
    <td style="text-align:right; border-left:1px dotted black; ">24,400</td>
    <td style="text-align:right; border-left:1px dotted black; ">8505.0</td>
    <td style="text-align:right; border-left:1px dotted black; ">348,566</td>
   </tr>
-</table>
-<table align="center" style="width:40%; ">
   <tr>
    <td style="text-align:right; ">2011</td>
    <td style="text-align:right; border-left:1px dotted black; ">32,467</td>
    <td style="text-align:right; border-left:1px dotted black; ">9737.0</td>
    <td style="text-align:right; border-left:1px dotted black; ">299,905</td>
   </tr>
-</table>
-<table align="center" style="width:40%; ">
   <tr>
    <td style="text-align:right; ">2012</td>
    <td style="text-align:right; border-left:1px dotted black; ">53,861</td>
    <td style="text-align:right; border-left:1px dotted black; ">10737.0</td>
    <td style="text-align:right; border-left:1px dotted black; ">199,346</td>
   </tr>
-</table>
-<table align="center" style="width:40%; ">
   <tr>
    <td style="text-align:right; ">2013</td>
    <td style="text-align:right; border-left:1px dotted black; ">47,756</td>
    <td style="text-align:right; border-left:1px dotted black; ">12733.0</td>
    <td style="text-align:right; border-left:1px dotted black; ">266,626</td>
   </tr>
-</table>
-<table align="center" style="width:40%; ">
   <tr>
    <td style="text-align:right; ">2014</td>
    <td style="text-align:right; border-left:1px dotted black; ">53,600</td>
