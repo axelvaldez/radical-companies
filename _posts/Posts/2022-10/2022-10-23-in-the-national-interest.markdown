@@ -7,10 +7,13 @@ image:    "icon-in-the-national-interest.svg"
 ---
 
 <div style="display:none;">
- <p>I am finding national governments an oddity, anachronistic, a thing from our past. The more I think about them, the more I believe that national governments are not part of a solution any more.</p>
+ <p>National goverments really are very, very tall <span class="_paradign">FIAT</span> hierarchies with a monopoloy on force. We need governance, but not centralized governments. This is true for the whole spectrum, from democracies to dictatoships.</p>
 </div>
 
 <h1>&nbsp;</h1>
+ <p>National goverments really are very, very tall <span class="_paradign">FIAT</span> hierarchies with a monopoloy on force. We need governance, but not centralized governments. This is true for the whole spectrum, from democracies to dictatoships.</p>
+
+<h1>Churchill</h1>
  <div class="_citation">
   &ldquo;&hellip; it has been said that democracy is the worst form of Government except for all those other forms that have been tried&hellip; &rdquo;
   <span id="_signature">Winston Churchill, 1947<a href="en01"><sup id="bm01">1&nbsp;</sup></a></span>
