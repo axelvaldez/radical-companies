@@ -39,6 +39,8 @@ image:    "icon-google-goes-radical.svg"
     Employee ($)
    </td>
   </tr>
+</table>
+<table align="center" style="width:40%; ">
   <tr>
    <td style="text-align:right; ">2004</td>
    <td style="text-align:right; border-left:1px dotted black; ">3,021</td>
