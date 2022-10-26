@@ -7,11 +7,11 @@ image:    "icon-google-goes-radical.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>Imagine that Google had been a <span class="_paradigm">RADICAL</span> company all along!</p>
 </div>
 
 <h1>AdSense Gusher</h1>
- <p>Paul Bucheit started Gmail at Google in 2001. Later he started AdSense to generate income for Gmail. Before he left in 2006, Buchit coined the “do no evil” moniker.</p>
+ <p>Paul Bucheit started Gmail at Google in 2001. Later he started AdSense to generate income for Gmail. Before he left in 2006, Buchit coined the &ldquo;do no evil&rdquo; tag.</p>
  <p>AdSense grew into a gushing well of riches as Google made it into the dominant player in the Ad market. And, in 2004, Google went public.</p>
  <p>What if at that point Google had been a <span class="_paradigm">RADICAL</span> company, with no hierarchy, no bosses, and no employees? What would Google do with only collaborators dedicated to decentralization, transparency, meaning, and belonging? What would they  do with their prosperous future?</p>
 
@@ -103,7 +103,7 @@ image:    "icon-google-goes-radical.svg"
   </tr>
  </table>
  <p>We will use net income as equivalent to dividends, earned by the people doing the work, but consumed by capital investors. Bonuses would have been treated as an expense and are not included in Net Income.</p>
- <p>The situation is even worse when you look at their Capital Efficiency. If you have worked at a <span class="_paradigm">FIAT</span> software company, it is blatantly obvious that the people create the value and capital efficiency can be viewed as profit per employee. Looking at it this way,  <span class="_paradigm">FIAT</span> Google’s capital efficiency peaked in 2006 and essentially plateaus after that.</p>
+ <p>The situation is even worse when you look at their Capital Efficiency. If you have worked at a <span class="_paradigm">FIAT</span> software company, it is blatantly obvious that the people create the value and capital efficiency can be viewed as profit per employee. Looking at it this way,  <span class="_paradigm">FIAT</span> Google&rsquo;s capital efficiency peaked in 2006 and essentially plateaus after that.</p>
 
 <h1><span class="_paradigm">RADICAL</span> Google</h1>
  <p>A <span class="_paradigm">RADICAL</span> Google would have acted differently. The motivation is to bring co-owners into the group only as needed. Otherwise, given a flat revenue, more headcount means less money for each co-owner.</p>
@@ -111,9 +111,9 @@ image:    "icon-google-goes-radical.svg"
  <p>In 2005, Google co-owners would share $1.465 billion in <em>earned dividends</em>. Imagine every Googler getting around half a million dollars.</p>
 
 <h1><span class="_paradigm">RADICAL</span> Google Advantages</h1>
- <p>As a decentralized and transparent company, <span class="_paradigm">RADICAL</span> Google would have likely foregone the ballooning headcount that started around 2007.</p>
- <p><span class="_paradigm">FIAT</span> Google couldn’t help their headcount addiction,  a must have of <span class="_paradigm">FIAT</span> hierarchies. But, more than likely, the <span class="_paradigm">RADICAL</span> Google co-owners would have grown their rank as needed.</p>
- <p>Here is what ten years of Google’s performance might have looked like,</p>
+ <p>As a decentralized and transparent company, rGoogle would have likely not have the ballooning headcount that started around 2007.</p>
+ <p><span class="_paradigm">FIAT</span> Google couldn&rsquo;t help their headcount addiction,  a must have of <span class="_paradigm">FIAT</span> hierarchies. But, more than likely, the <span class="_paradigm">RADICAL</span> Google co-owners would have grown their rank as needed.</p>
+ <p>Here is what ten years of Google&rsquo;s performance might have looked like,</p>
  <table>
   <tr style="text-align:center !important; ">
    <th style="text-align:center !important; ">Year</th>
@@ -197,7 +197,7 @@ image:    "icon-google-goes-radical.svg"
   </tr>
  </table>
  <p>A <span class="_paradigm">RADICAL</span> Google co-owner could have earned a total of over $18M over that time. As people who co-owned the company, the 2004 Googlers might have chosen to grow the company differently.</p>
- <p>Because it decentralizes power in the company that would normally have been assigned to bosses, <span class="_paradigm">RADICAL</span> Google’s growth might have been guided by their Capital Efficiency and it would have grown meteorically. This would also increase profit per co-owner because there’d be no empires (<em>i.e.</em>, <span class="_paradigm">FIAT</span> hierarchy) to grow.</p>
+ <p>Because it decentralizes power in the company that would normally have been assigned to bosses, <span class="_paradigm">RADICAL</span> Google&rsquo;s growth might have been guided by their Capital Efficiency and it would have grown meteorically. This would also increase profit per co-owner because there&rsquo;d be no empires (<em>i.e.</em>, <span class="_paradigm">FIAT</span> hierarchy) to grow.</p>
 
 <div class="_center">
  <img
@@ -212,7 +212,7 @@ image:    "icon-google-goes-radical.svg"
    <p class="_list-item">
     See <em>Number of employees at Alphabet</em>,
     <<a href="https://statstic.com/number-of-employees-at-alphabet">https://statstic.com/number-of-employees-at-alphabet</a>>,
-    and <em>Google’s Net Income</em>,
+    and <em>Google&rsquo;s Net Income</em>,
     <<a href="https://www.statista.com/statistics/266472/googles-net-income/">https://www.statista.com/statistics/266472/googles-net-income/</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
