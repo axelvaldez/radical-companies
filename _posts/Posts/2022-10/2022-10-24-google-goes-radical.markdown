@@ -21,29 +21,30 @@ image:    "icon-google-goes-radical.svg"
 <h1><span class="_paradigm">FIAT</span> Google Shortcomings</h1>
  <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
  <table>
+  <col span="4" style="text-align:right; width:0.25in; " />
   <tr>
-   <th style="text-align:center; column-width:0.5in; ">Year</th>
-   <th style="text-align:center; width:0.5in; ">
+   <th>Year</th>
+   <th>
     Employee
     <br>
     Count
    </th>
-   <th style="text-align:center; width:0.5in; ">
+   <th>
     Net Income
     <br>
     (Mil $)
    </th>
-   <th style="text-align:center; width:0.5in; ">
+   <th>
     Profit per
     <br>
     Employee ($)
    </th>
   </tr>
   <tr>
-   <td style="text-align:right; width:0.5in; ">2004</td>
-   <td style="text-align:right; width:0.5in; ">3,021</td>
-   <td style="text-align:right; width:0.5in; ">399.1</td>
-   <td style="text-align:right; width:0.5in; ">132,109</td>
+   <td>2004</td>
+   <td>3,021</td>
+   <td]>399.1</td>
+   <td >132,109</td>
   </tr>
   <tr>
    <td>2005</td>
@@ -51,55 +52,55 @@ image:    "icon-google-goes-radical.svg"
    <td>1465.4</td>
    <td>257,993</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2006</td>
    <td>10,674</td>
    <td>3077.5</td>
    <td>288,317</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2007</td>
    <td>16,805</td>
    <td>4203.7</td>
    <td>250,146</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2008</td>
    <td>20,222</td>
    <td>4226.9</td>
    <td>209,025</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2009</td>
    <td>19,835</td>
    <td>6520.4</td>
    <td>328,732</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2010</td>
    <td>24,400</td>
    <td>8505.0</td>
    <td>348,566</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2011</td>
    <td>32,467</td>
    <td>9737.0</td>
    <td>299,905</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2012</td>
    <td>53,861</td>
    <td>10737.0</td>
    <td>199,346</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2013</td>
    <td>47,756</td>
    <td>12733.0</td>
    <td>266,626</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2014</td>
    <td>53,600</td>
    <td>14136.0</td>
