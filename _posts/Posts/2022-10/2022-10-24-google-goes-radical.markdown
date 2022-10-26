@@ -20,7 +20,7 @@ image:    "icon-google-goes-radical.svg"
 
 <h1><span class="_paradigm">FIAT</span> Google Shortcomings</h1>
  <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
- <table align="center">
+ <table align="center" style="width:40%; ">
   <tr>
    <td style="text-align:center; font-weight:bold; ">Year</td>
    <td style="text-align:center; font-weight:bold; border-left:1px dotted black; ">
