@@ -22,28 +22,28 @@ image:    "icon-google-goes-radical.svg"
  <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
  <table>
   <tr>
-   <th style="text-align:center; width:1in; ">Year</th>
-   <th style="text-align:center; width:1in; ">
+   <th style="text-align:center; width:0.5in; ">Year</th>
+   <th style="text-align:center; width:0.5in; ">
     Employee
     <br>
     Count
    </th>
-   <th style="text-align:center; width:1in; ">
+   <th style="text-align:center; width:0.5in; ">
     Net Income
     <br>
     (Mil $)
    </th>
-   <th style="text-align:center; width:1in; ">
+   <th style="text-align:center; width:0.5in; ">
     Profit per
     <br>
     Employee ($)
    </th>
   </tr>
-  <tr style="text-align:right; width:1in; ">
-   <td>2004</td>
-   <td>3,021</td>
-   <td>399.1</td>
-   <td>132,109</td>
+  <tr>
+   <td style="text-align:right; width:0.5in; ">2004</td>
+   <td style="text-align:right; width:0.5in; ">3,021</td>
+   <td style="text-align:right; width:0.5in; ">399.1</td>
+   <td style="text-align:right; width:0.5in; ">132,109</td>
   </tr>
   <tr>
    <td>2005</td>
