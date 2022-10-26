@@ -113,7 +113,7 @@ image:    "icon-google-goes-radical.svg"
     <td>263,731</td>
    </tr>
    <tr>
-    <td class="spacer">caca</td>
+    <td class="spacer"></td>
    </tr>
   </tbody>
  </table>
