@@ -21,101 +21,99 @@ image:    "icon-google-goes-radical.svg"
 <h1><span class="_paradigm">FIAT</span> Google Shortcomings</h1>
  <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
  <table>
-   <colgroup>
-    <col style="text-align:center; width:20px; " colspan="4" />
-   </colgroup>
-   <tr>
-    <th>Year</th>
-    <th>
-     Employee
-     <br>
-     Count
-    </th>
-    <th>
-     Net Income
-     <br>
-     (Mil $)
-    </th>
-    <th>
-     Profit per
-     <br>
-     Employee ($)
-    </th>
-   </tr>
-  <tbody>
-   <colgroup>
-    <col style="text-align:right; " colspan="4" />
-   </colgroup>
-   <tr>
-    <td>2004</td>
-    <td>3,021</td>
-    <td>399.1</td>
-    <td>132,109</td>
-   </tr>
-   <tr>
-    <td>2005</td>
-    <td>5,680</td>
-    <td>1465.4</td>
-    <td>257,993</td>
-   </tr>
-   <tr>
-    <td>2006</td>
-    <td>10,674</td>
-    <td>3077.5</td>
-    <td>288,317</td>
-   </tr>
-   <tr>
-    <td>2007</td>
-    <td>16,805</td>
-    <td>4203.7</td>
-    <td>250,146</td>
-   </tr>
-   <tr>
-    <td>2008</td>
-    <td>20,222</td>
-    <td>4226.9</td>
-    <td>209,025</td>
-   </tr>
-   <tr>
-    <td>2009</td>
-    <td>19,835</td>
-    <td>6520.4</td>
-    <td>328,732</td>
-   </tr>
-   <tr>
-    <td>2010</td>
-    <td>24,400</td>
-    <td>8505.0</td>
-    <td>348,566</td>
-   </tr>
-   <tr>
-    <td>2011</td>
-    <td>32,467</td>
-    <td>9737.0</td>
-    <td>299,905</td>
-   </tr>
-   <tr>
-    <td>2012</td>
-    <td>53,861</td>
-    <td>10737.0</td>
-    <td>199,346</td>
-   </tr>
-   <tr>
-    <td>2013</td>
-    <td>47,756</td>
-    <td>12733.0</td>
-    <td>266,626</td>
-   </tr>
-   <tr>
-    <td>2014</td>
-    <td>53,600</td>
-    <td>14136.0</td>
-    <td>263,731</td>
-   </tr>
-   <tr>
-    <td class="spacer"></td>
-   </tr>
-  </tbody>
+  <colgroup>
+   <col style="text-align:center; width:20px; " colspan="4" />
+  </colgroup>
+  <tr>
+   <th>Year</th>
+   <th>
+    Employee
+    <br>
+    Count
+   </th>
+   <th>
+    Net Income
+    <br>
+    (Mil $)
+   </th>
+   <th>
+    Profit per
+    <br>
+    Employee ($)
+   </th>
+  </tr>
+  <colgroup>
+   <col style="text-align:right; " colspan="4" />
+  </colgroup>
+  <tr>
+   <td>2004</td>
+   <td>3,021</td>
+   <td>399.1</td>
+   <td>132,109</td>
+  </tr>
+  <tr>
+   <td>2005</td>
+   <td>5,680</td>
+   <td>1465.4</td>
+   <td>257,993</td>
+  </tr>
+  <tr>
+   <td>2006</td>
+   <td>10,674</td>
+   <td>3077.5</td>
+   <td>288,317</td>
+  </tr>
+  <tr>
+   <td>2007</td>
+   <td>16,805</td>
+   <td>4203.7</td>
+   <td>250,146</td>
+  </tr>
+  <tr>
+   <td>2008</td>
+   <td>20,222</td>
+   <td>4226.9</td>
+   <td>209,025</td>
+  </tr>
+  <tr>
+   <td>2009</td>
+   <td>19,835</td>
+   <td>6520.4</td>
+   <td>328,732</td>
+  </tr>
+  <tr>
+   <td>2010</td>
+   <td>24,400</td>
+   <td>8505.0</td>
+   <td>348,566</td>
+  </tr>
+  <tr>
+   <td>2011</td>
+   <td>32,467</td>
+   <td>9737.0</td>
+   <td>299,905</td>
+  </tr>
+  <tr>
+   <td>2012</td>
+   <td>53,861</td>
+   <td>10737.0</td>
+   <td>199,346</td>
+  </tr>
+  <tr>
+   <td>2013</td>
+   <td>47,756</td>
+   <td>12733.0</td>
+   <td>266,626</td>
+  </tr>
+  <tr>
+   <td>2014</td>
+   <td>53,600</td>
+   <td>14136.0</td>
+   <td>263,731</td>
+  </tr>
+  <tr>
+   <td class="spacer"></td>
+  </tr>
  </table>
  <p>We will use net income as equivalent to dividends, earned by the people doing the work, but consumed by capital investors. Bonuses would have been treated as an expense and are not included in Net Income.</p>
  <p>The situation is even worse when you look at their Capital Efficiency. If you have worked at a <span class="_paradigm">FIAT</span> software company, it is blatantly obvious that the people create the value and capital efficiency can be viewed as profit per employee. Looking at it this way,  <span class="_paradigm">FIAT</span> Google&rsquo;s capital efficiency peaked in 2006 and essentially plateaus after that.</p>
