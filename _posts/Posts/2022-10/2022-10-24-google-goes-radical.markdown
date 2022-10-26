@@ -22,8 +22,7 @@ image:    "icon-google-goes-radical.svg"
  <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
  <table>
   <colgroup>
-   <col colspan="4" style="text-align:center; width:20px; " />
-  </colgroup>
+  <col colspan="4" style="text-align:center; width:20px; " />
   <tr>
    <th>Year</th>
    <th>
@@ -42,9 +41,7 @@ image:    "icon-google-goes-radical.svg"
     Employee ($)
    </th>
   </tr>
-  <colgroup>
-   <col colspan="4" style="text-align:right; " />
-  </colgroup>
+  <col colspan="4" style="text-align:right; " />
   <tr>
    <td>2004</td>
    <td>3,021</td>
@@ -115,6 +112,12 @@ image:    "icon-google-goes-radical.svg"
    <td class="spacer"></td>
   </tr>
  </table>
+ <div class="_center">
+  <img
+   src="/assets/img/google-goes-radical-01.svg"
+   width="70%"
+   alt="">
+ </div>
  <p>We will use net income as equivalent to dividends, earned by the people doing the work, but consumed by capital investors. Bonuses would have been treated as an expense and are not included in Net Income.</p>
  <p>The situation is even worse when you look at their Capital Efficiency. If you have worked at a <span class="_paradigm">FIAT</span> software company, it is blatantly obvious that the people create the value and capital efficiency can be viewed as profit per employee. Looking at it this way,  <span class="_paradigm">FIAT</span> Google&rsquo;s capital efficiency peaked in 2006 and essentially plateaus after that.</p>
 
@@ -207,16 +210,18 @@ image:    "icon-google-goes-radical.svg"
    <td>14136</td>
    <td>3,534,000</td>
   </tr>
+  <tr>
+   <td class="spacer"></td>
+  </tr>
  </table>
+ <div class="_center">
+  <img
+   src="/assets/img/google-goes-radical-02.svg"
+   width="70%"
+   alt="">
+ </div>
  <p>A <span class="_paradigm">RADICAL</span> Google co-owner could have earned a total of over $18M over that time. As people who co-owned the company, the 2004 Googlers might have chosen to grow the company differently.</p>
  <p>Because it decentralizes power in the company that would normally have been assigned to bosses, <span class="_paradigm">RADICAL</span> Google&rsquo;s growth might have been guided by their Capital Efficiency and it would have grown meteorically. This would also increase profit per co-owner because there&rsquo;d be no empires (<em>i.e.</em>, <span class="_paradigm">FIAT</span> hierarchy) to grow.</p>
-
-<div class="_center">
- <img
-  src="/assets/img/pings-to-rads-equation.svg"
-  width="70%"
-  alt="">
- </div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
