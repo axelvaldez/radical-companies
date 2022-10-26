@@ -23,19 +23,19 @@ image:    "icon-google-goes-radical.svg"
  <table align="center">
   <tr>
    <td style="text-align:center; font-weight:bold; ">Year</td>
-   <td style="text-align:center; font-weight:bold; border-left:1px dottted black; border-right:1px dottted black; ">
+   <td style="text-align:center; font-weight:bold; border-left:1px solid black; ">
     Employee
     <br>
     Count
    </td>
-   <td style="text-align:center; font-weight:bold; border-left:1px dottted black; border-right:1px dottted black; ">
+   <td style="text-align:center; font-weight:bold; border-left:1px solid black; ">
     Net Income
     <br>
     (Mil $)
    </td>
-   <td style="text-align:center; font-weight:bold; ">
+   <td style="text-align:center; font-weight:bold; border-left:1px solidxxx black; ">
     Profit per
-    <br
+    <br>
     Employee ($)
    </td>
   </tr>
