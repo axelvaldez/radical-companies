@@ -40,70 +40,70 @@ image:    "icon-google-goes-radical.svg"
    </td>
   </tr>
   <tr>
-   <td>2004</td>
+   <td style="text-align:right; ">2004</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">3,021</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">399.1</td>
-   <td>132,109</td>
+   <td style="text-align:right; ">132,109</td>
   </tr>
   <tr>
-   <td>2005</td>
+   <td style="text-align:right; ">2005</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">5,680</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">1465.4</td>
-   <td>257,993</td>
+   <td style="text-align:right; ">257,993</td>
   </tr>
   <tr>
-   <td>2006</td>
+   <td style="text-align:right; ">2006</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">10,674</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">3077.5</td>
-   <td>288,317</td>
+   <td style="text-align:right; ">288,317</td>
   </tr>
   <tr>
-   <td>2007</td>
+   <td style="text-align:right; ">2007</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">16,805</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">4203.7</td>
-   <td>250,146</td>
+   <td style="text-align:right; ">250,146</td>
   </tr>
   <tr>
-   <td>2008</td>
+   <td style="text-align:right; ">2008</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">20,222</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">4226.9</td>
-   <td>209,025</td>
+   <td style="text-align:right; ">209,025</td>
   </tr>
   <tr>
-   <td>2009</td>
+   <td style="text-align:right; ">2009</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">19,835</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">6520.4</td>
-   <td>328,732</td>
+   <td style="text-align:right; ">328,732</td>
   </tr>
   <tr>
-   <td>2010</td>
+   <td style="text-align:right; ">2010</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">24,400</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">8505.0</td>
-   <td>348,566</td>
+   <td style="text-align:right; ">348,566</td>
   </tr>
   <tr>
-   <td>2011</td>
+   <td style="text-align:right; ">2011</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">32,467</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">9737.0</td>
-   <td>299,905</td>
+   <td style="text-align:right; ">299,905</td>
   </tr>
   <tr>
-   <td>2012</td>
+   <td style="text-align:right; ">2012</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">53,861</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">10737.0</td>
-   <td>199,346</td>
+   <td style="text-align:right; ">199,346</td>
   </tr>
   <tr>
-   <td>2013</td>
+   <td style="text-align:right; ">2013</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">47,756</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">12733.0</td>
-   <td>266,626</td>
+   <td style="text-align:right; ">266,626</td>
   </tr>
   <tr>
-   <td>2014</td>
-   <td>53,600</td>
-   <td>14136.0</td>
-   <td>263,731</td>
+   <td style="text-align:right; ">2014</td>
+   <td style="border-left:1px dottted black; border-right:1px dottted black; ">53,600</td>
+   <td style="border-left:1px dottted black; border-right:1px dottted black; ">14136.0</td>
+   <td style="text-align:right; ">263,731</td>
   </tr>
   <tr>
    <td class="spacer"></td>
@@ -127,7 +127,7 @@ image:    "icon-google-goes-radical.svg"
  <p>As a decentralized and transparent company, rGoogle would have likely not have the ballooning headcount that started around 2007.</p>
  <p><span class="_paradigm">FIAT</span> Google couldn&rsquo;t help their headcount addiction,  a must have of <span class="_paradigm">FIAT</span> hierarchies. But, more than likely, the <span class="_paradigm">RADICAL</span> Google co-owners would have grown their rank as needed.</p>
  <p>Here is what ten years of Google&rsquo;s performance might have looked like,</p>
- <table>
+ <table align="center">
   <tr>
    <td style="text-align:center; font-weight:bold; ">Year</td>
    <td style="text-align:center; font-weight:bold; border-left:1px dottted black; border-right:1px dottted black; ">Employee Count</td>
@@ -143,69 +143,70 @@ image:    "icon-google-goes-radical.svg"
    </td>
   </tr>
   <tr>
-   <td>2004</td>
+   <td style="text-align:right; ">2004</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">3000</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">399.1</td>
-   <td>133,033</td>
+   <td style="text-align:right; ">133,033</td>
   </tr>
   <tr>
-   <td>2005</td>
+   <td style="text-align:right; ">2005</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">3100</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">1465.4</td>
-   <td>472,710</td>
+   <td style="text-align:right; ">472,710</td>
   </tr>
   <tr>
-   <td>3200</td>
+   <td style="text-align:right; ">2006</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">3077.5</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">961,719</td>
+   <td style="text-align:right; ">3200</td>
   </tr>
   <tr>
-   <td>2007</td>
+   <td style="text-align:right; ">2007</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">3300</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">4203.7</td>
-   <td>1,273,848</td>
+   <td style="text-align:right; ">1,273,848</td>
   </tr>
   <tr>
-   <td>2008</td>
+   <td style="text-align:right; ">2008</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">3400</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">4226.9</td>
-   <td>1,243,206</td>
+   <td style="text-align:right; ">1,243,206</td>
   </tr>
   <tr>
-   <td>2009</td>
+   <td style="text-align:right; ">2009</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">3500</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">6520.4</td>
-   <td>1,862,971</td>
+   <td style="text-align:right; ">1,862,971</td>
   </tr>
   <tr>
-   <td>2010</td>
+   <td style="text-align:right; ">2010</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">3600</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">8505</td>
-   <td>2,362,500</td>
+   <td style="text-align:right; ">2,362,500</td>
   </tr>
   <tr>
-   <td>2011</td>
+   <td style="text-align:right; ">2011</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">3700</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">9737</td>
-   <td>2,631,622</td>
+   <td style="text-align:right; ">2,631,622</td>
   </tr>
   <tr>
-   <td>2012</td>
+   <td style="text-align:right; ">2012</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">3800</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">10737</td>
-   <td>2,825,526</td>
+   <td style="text-align:right; ">2,825,526</td>
   </tr>
   <tr>
-   <td>2013</td>
+   <td style="text-align:right; ">2013</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">3900</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">12733</td>
-   <td>3,264,872</td>
+   <td style="text-align:right; ">3,264,872</td>
   </tr>
   <tr>
-   <td>2014</td>
+   <td style="text-align:right; ">2014</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">4000</td>
    <td style="border-left:1px dottted black; border-right:1px dottted black; ">14136</td>
-   <td>3,534,000</td>
+   <td style="text-align:right; ">3,534,000</td>
   </tr>
   <tr>
    <td class="spacer"></td>
