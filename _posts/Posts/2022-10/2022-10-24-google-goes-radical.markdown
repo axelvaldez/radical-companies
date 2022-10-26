@@ -21,7 +21,9 @@ image:    "icon-google-goes-radical.svg"
 <h1><span class="_paradigm">FIAT</span> Google Shortcomings</h1>
  <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
  <table>
-  <col style="text-align:right; width:1in; " />
+  <colgroup>
+   <col style="text-align:right; width:1in; ">
+  </colgroup>
   <tr>
    <th>Year</th>
    <th>
