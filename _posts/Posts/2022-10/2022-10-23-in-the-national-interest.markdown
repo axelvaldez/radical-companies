@@ -122,7 +122,7 @@ image:    "icon-in-the-national-interest.svg"
     Ariel Procaccia.
     <em>Citizens’ Assemblies Are Upgrading Democracy: Fair Algorithms Are Part of the Program</em>.
     Scientific American. Nov 2022.
-    <<a href="https://radicals.world/1a6vDr">https://radicals.world/1a6vDr</a>> (alt.  <a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>)
+    <<a href="https://radicals.world/GsJaao">https://radicals.world/GsJaao</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
