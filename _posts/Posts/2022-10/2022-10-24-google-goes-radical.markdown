@@ -107,7 +107,7 @@ image:    "icon-google-goes-radical.svg"
    <td>263,731</td>
   </tr>
   <tr>
-   <td class="spacer"></td>
+   <td class="spacer">caca</td>
   </tr>
  </table>
  <p>We will use net income as equivalent to dividends, earned by the people doing the work, but consumed by capital investors. Bonuses would have been treated as an expense and are not included in Net Income.</p>
