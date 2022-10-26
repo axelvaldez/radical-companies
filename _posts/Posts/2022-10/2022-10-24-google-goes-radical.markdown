@@ -22,7 +22,7 @@ image:    "icon-google-goes-radical.svg"
  <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
  <table>
   <colgroup>
-   <col style="text-align:right; width:1in; ">
+   <col style="text-align:right; width:1in; " span="4">
   </colgroup>
   <tr>
    <th>Year</th>
