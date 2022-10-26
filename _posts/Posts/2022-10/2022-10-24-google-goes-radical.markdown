@@ -33,7 +33,7 @@ image:    "icon-google-goes-radical.svg"
     <br>
     (Mil $)
    </td>
-   <td style="text-align:center; font-weight:bold; border-left:1px solidxxx black; ">
+   <td style="text-align:center; font-weight:bold; border-left:1px solid black; ">
     Profit per
     <br>
     Employee ($)
