@@ -132,18 +132,18 @@ image:    "icon-google-goes-radical.svg"
  <p>Here is what ten years of Google&rsquo;s performance might have looked like,</p>
  <table>
   <tr>
-   <th style="text-align:center !important; ">Year</th>
-   <th style="text-align:center !important; ">Employee Count</th>
-   <th style="text-align:center !important; ">
+   <td style="text-align:center; font-weight:bold; ">Year</td>
+   <td style="text-align:center; font-weight:bold; ">Employee Count</td>
+   <td style="text-align:center; font-weight:bold; ">
     Net Income
     <br>
     (Mil $)
-   </th>
-   <th style="text-align:center !important; ">
+   </td>
+   <td style="text-align:center; font-weight:bold; ">
     <span class="_paradigm">RAD</span> fund
     <br>
     ($)
-   </th>
+   </td>
   </tr>
   <tr>
    <td>2004</td>
