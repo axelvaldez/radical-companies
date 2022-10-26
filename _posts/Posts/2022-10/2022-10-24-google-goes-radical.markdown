@@ -22,7 +22,7 @@ image:    "icon-google-goes-radical.svg"
  <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
  <table>
   <colgroup>
-   <col style="text-align:center; width:20px; " colspan="4" />
+   <col colspan="4" style="text-align:center; width:20px; " />
   </colgroup>
   <tr>
    <th>Year</th>
@@ -43,7 +43,7 @@ image:    "icon-google-goes-radical.svg"
    </th>
   </tr>
   <colgroup>
-   <col style="text-align:right; " colspan="4" />
+   <col colspan="4" style="text-align:right; " />
   </colgroup>
   <tr>
    <td>2004</td>
@@ -128,7 +128,7 @@ image:    "icon-google-goes-radical.svg"
  <p><span class="_paradigm">FIAT</span> Google couldn&rsquo;t help their headcount addiction,  a must have of <span class="_paradigm">FIAT</span> hierarchies. But, more than likely, the <span class="_paradigm">RADICAL</span> Google co-owners would have grown their rank as needed.</p>
  <p>Here is what ten years of Google&rsquo;s performance might have looked like,</p>
  <table>
-  <tr style="text-align:center !important; ">
+  <tr>
    <th style="text-align:center !important; ">Year</th>
    <th style="text-align:center !important; ">Employee Count</th>
    <th style="text-align:center !important; ">
@@ -136,73 +136,72 @@ image:    "icon-google-goes-radical.svg"
     <br>
     (Mil $)
    </th>
-   <th style="text-align:center; ">
+   <th style="text-align:center !important; ">
     <span class="_paradigm">RAD</span> fund
     <br>
     ($)
    </th>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2004</td>
    <td>3000</td>
    <td>399.1</td>
    <td>133,033</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2005</td>
    <td>3100</td>
    <td>1465.4</td>
    <td>472,710</td>
   </tr>
-  <tr style="text-align:right; ">
-   <td>2006</td>
+  <tr>
    <td>3200</td>
    <td>3077.5</td>
    <td>961,719</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2007</td>
    <td>3300</td>
    <td>4203.7</td>
    <td>1,273,848</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2008</td>
    <td>3400</td>
    <td>4226.9</td>
    <td>1,243,206</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2009</td>
    <td>3500</td>
    <td>6520.4</td>
    <td>1,862,971</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2010</td>
    <td>3600</td>
    <td>8505</td>
    <td>2,362,500</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2011</td>
    <td>3700</td>
    <td>9737</td>
    <td>2,631,622</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2012</td>
    <td>3800</td>
    <td>10737</td>
    <td>2,825,526</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2013</td>
    <td>3900</td>
    <td>12733</td>
    <td>3,264,872</td>
   </tr>
-  <tr style="text-align:right; ">
+  <tr>
    <td>2014</td>
    <td>4000</td>
    <td>14136</td>
