@@ -115,10 +115,10 @@ image:    "icon-google-goes-radical.svg"
  <p><span class="_paradigm">FIAT</span> Google couldn’t help their headcount addiction,  a must have of <span class="_paradigm">FIAT</span> hierarchies. But, more than likely, the <span class="_paradigm">RADICAL</span> Google co-owners would have grown their rank as needed.</p>
  <p>Here is what ten years of Google’s performance might have looked like,</p>
  <table>
-  <tr style="text-align:center; ">
-   <th style="text-align:center; ">Year</th>
-   <th style="text-align:center; ">Employee Count</th>
-   <th style="text-align:center; ">
+  <tr style="text-align:center !important; ">
+   <th style="text-align:center !important; ">Year</th>
+   <th style="text-align:center !important; ">Employee Count</th>
+   <th style="text-align:center !important; ">
     Net Income
     <br>
     (Mil $)
