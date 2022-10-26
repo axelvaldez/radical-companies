@@ -22,9 +22,9 @@ image:    "icon-google-goes-radical.svg"
  <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
  <table>
   <tr>
-   <th style="text-align:center; ">Year</th>
+   <th style="text-align:center; width:1in; ">Year</th>
    <th style="text-align:center; ">Employee Count</th>
-   <th>
+   <th style="text-align:center; ">
     Net Income
     <br>
     (Mil $)
@@ -35,7 +35,7 @@ image:    "icon-google-goes-radical.svg"
     Employee ($)
    </th>
   </tr>
-  <tr>
+  <tr style="text-align:right; ">
    <td>2004</td>
    <td>3,021</td>
    <td>399.1</td>
