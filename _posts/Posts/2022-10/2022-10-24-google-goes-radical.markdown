@@ -106,6 +106,9 @@ image:    "icon-google-goes-radical.svg"
    <td>14136.0</td>
    <td>263,731</td>
   </tr>
+  <tr>
+   <td class="spacer"></td>
+  </tr>
  </table>
  <p>We will use net income as equivalent to dividends, earned by the people doing the work, but consumed by capital investors. Bonuses would have been treated as an expense and are not included in Net Income.</p>
  <p>The situation is even worse when you look at their Capital Efficiency. If you have worked at a <span class="_paradigm">FIAT</span> software company, it is blatantly obvious that the people create the value and capital efficiency can be viewed as profit per employee. Looking at it this way,  <span class="_paradigm">FIAT</span> Google&rsquo;s capital efficiency peaked in 2006 and essentially plateaus after that.</p>
