@@ -340,7 +340,6 @@ td._spacer:after {
 }
 table {
   width:70%;
-  align-self:center;
 }
 ._r {
   font-family:'Courier New', Courier, monospace;
