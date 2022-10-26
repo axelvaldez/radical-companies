@@ -12,11 +12,14 @@ image:    "icon-in-the-national-interest.svg"
 
 <h1>&nbsp;</h1>
  <p>National goverments really are very, very tall <span class="_paradign">FIAT</span> hierarchies with a monopoloy on force. We need governance, but not centralized governments. This is true for the whole spectrum, from democracies to dictatoships.</p>
+ <div class="_citation">
+  &ldquo;&hellip; who would be trustworthy and persuasive enough&hellip; ?&rdquo; The answer was a bunch of ordinary people.&rdquo;<a href="en01"><sup id="bm01">1&nbsp;</sup></a>
+ </div>
 
 <h1>Churchill</h1>
  <div class="_citation">
   &ldquo;&hellip; it has been said that democracy is the worst form of Government except for all those other forms that have been tried&hellip; &rdquo;
-  <span id="_signature">Winston Churchill, 1947<a href="en01"><sup id="bm01">1&nbsp;</sup></a></span>
+  <span id="_signature">Winston Churchill, 1947<a href="en02"><sup id="bm02">2&nbsp;</sup></a></span>
  </div>
  <p>When he said this, Churchill assumed that a government would be in place. And it was a fair assumption, but why?</p>
  
@@ -24,7 +27,7 @@ image:    "icon-in-the-national-interest.svg"
  <p>In the same speech, Churchill defined democracy as “insurance,”</p>
  <div class="_citation">
   &ldquo;&hellip; insurance against dangers from abroad&hellip; &rdquo;
-  <span id="_signature">Winston Churchill, 1947<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></span>
+  <span id="_signature">Winston Churchill, 1947<a href="#en02"><sup id="bm03">3&nbsp;</sup></a></span>
  </div>
  <p>People, including Churchill, had reason to believe this given the history of raids, wars and other &ldquo;dangers from abroad.&rdquo;</p>
  <p>So, yes, democracy is better for our wellbeing that other forms of governance. However, like all forms of moderm governments, democracy brings along with it a <span class="_paradign">FIAT</span> hierarchy. And, yes, in a democracy the bosses of said hierarchy are elected by the governed. Neverthelss, a hierarchy is imposed.</p>
@@ -93,7 +96,7 @@ image:    "icon-in-the-national-interest.svg"
   <li>Anything “forein” can easily become, or be made, into “foreign danger.”</li>
  </ul>
  <p>The idea that national governments are an anachronism has been recognized for a long time.</p>
- <p>I first ran into it in the book <em>La Cuarta Vertebra</em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> an early 1960s book. Before that, in 1910, King Camp Gillette proposed a World Corporation.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> There are many others that have come up on a regular basis, but they all have the same weakness: their proposed fix is to build a taller <span class="_paradigm">FIAT</span> hierarchy. I believe that the opposite is called for: governance without a <span class="_paradigm">FIAT</span> hierarchy at all.</p>
+ <p>I first ran into it in the book <em>La Cuarta Vertebra</em>,<a href="#en03"><sup id="bm04">4&nbsp;</sup></a> an early 1960s book. Before that, in 1910, King Camp Gillette proposed a World Corporation.<a href="#en04"><sup id="bm05">5&nbsp;</sup></a> There are many others that have come up on a regular basis, but they all have the same weakness: their proposed fix is to build a taller <span class="_paradigm">FIAT</span> hierarchy. I believe that the opposite is called for: governance without a <span class="_paradigm">FIAT</span> hierarchy at all.</p>
 
 <h1>Collaboration</h1>
  <p>As I said above, “<em>A lot of people can solve problems bigger than themselves by working together with a lot of other people around the world</em>.” It may take a long time, but this is what is bound to replace <span class="_paradigm">FIAT</span> governments: people collaborating to solve problems, develop new technologies, and improve our wellbeing.</p>
@@ -110,14 +113,15 @@ image:    "icon-in-the-national-interest.svg"
 
 <h1>Currency</h1>
  <p>A big part of the problems we face have also to do with money. In fact, <span class="_paradigm">FIAT</span> hierarchies and money go hand in hand.</p>
- <p>The European Union als has a single currency, the Euro, which has replaced the disparate national currencies and the difficulties that go along with it. For world-wide commerce, it would be beneficial, too, to have one currency. Unlike the Euro, this governance of this currency would be decentralized.<a href="en05"><sup id="bm05">5&nbsp;</sup></a></p>
+ <p>The European Union als has a single currency, the Euro, which has replaced the disparate national currencies and the difficulties that go along with it. For world-wide commerce, it would be beneficial, too, to have one currency. Unlike the Euro, this governance of this currency would be decentralized.<a href="en05"><sup id="bm06">6&nbsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
    <p class="_list-item">
-    Richard Langworth.
-    <em>Churchill’s “Democracy is the Worst Form of Government&hellip; .”</em>
+    Ariel Procaccia.
+    <em>Citizens’ Assemblies Are Upgrading Democracy: Fair Algorithms Are Part of the Program</em>.
+    Scientific American. Nov 2022.
     <<a href="https://radicals.world/1a6vDr">https://radicals.world/1a6vDr</a>> (alt.  <a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>)
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
@@ -126,32 +130,40 @@ image:    "icon-in-the-national-interest.svg"
    <p class="_list-item">
     Richard Langworth.
     <em>Churchill’s “Democracy is the Worst Form of Government&hellip; .”</em>
-    <<a href="https://diigo.com/0qf2of">https://diigo.com/0qf2of</a>> (alt.  <a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>)
+    <<a href="https://radicals.world/1a6vDr">https://radicals.world/1a6vDr</a>> (alt.  <a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>)
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
    <p class="_list-item">
-    Martii Lami.
-    <em>La cuarta vertebra: estafador a pesar suyo.</em>.
+    Richard Langworth.
+    <em>Churchill’s “Democracy is the Worst Form of Government&hellip; .”</em>
+    <<a href="https://diigo.com/0qf2of">https://diigo.com/0qf2of</a>> (alt.  <a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>)
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en04">
    <p class="_list-item">
-    King Camp Gillette.
-    <em>World Corporation</em>.
-    1910.
-    <<a href="https://radicals.world/wmJFfR">https://radicals.world/wmJFfR</a>>
+    Martii Lami.
+    <em>La cuarta vertebra: estafador a pesar suyo.</em>.
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en05">
    <p class="_list-item">
+    King Camp Gillette.
+    <em>World Corporation</em>.
+    1910.
+    <<a href="https://radicals.world/wmJFfR">https://radicals.world/wmJFfR</a>>
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en06">
+   <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
     <em>rCOIN</em>.
     <<a href="https://radicalcompanies.com/2022/05/07/rcoin.html">https://radicalcompanies.com/2022/05/07/rcoin.html</a>>
-    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
