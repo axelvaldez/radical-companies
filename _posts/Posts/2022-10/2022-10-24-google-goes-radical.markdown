@@ -43,8 +43,8 @@ image:    "icon-google-goes-radical.svg"
   <tr>
    <td>2004</td>
    <td>3,021</td>
-   <td]>399.1</td>
-   <td >132,109</td>
+   <td>399.1</td>
+   <td>132,109</td>
   </tr>
   <tr>
    <td>2005</td>
