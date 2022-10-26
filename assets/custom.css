@@ -339,7 +339,8 @@ td._spacer:after {
   place-items:center;
 }
 table {
-  width:80%;
+  width:70%;
+  align-self:center;
 }
 ._r {
   font-family:'Courier New', Courier, monospace;
