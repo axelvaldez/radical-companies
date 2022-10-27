@@ -216,7 +216,7 @@ image:    "icon-google-goes-radical.svg"
    <td style="text-align:right; border-left:1px dotted black; ">3,534,000</td>
   </tr>
   <tr>
-   <td class="spacer" style="border-top:1px dotted black; ">&nbsp;</td>
+   <td span="4" class="spacer" style="border-top:1px solid black; ">&nbsp;</td>
   </tr>
  </table>
  <div class="_center">
