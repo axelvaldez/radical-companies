@@ -21,22 +21,23 @@ image:    "icon-google-goes-radical.svg"
 <h1><span class="_paradigm">FIAT</span> Google Shortcomings</h1>
  <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
  <table align="center" style="width:40%;">
-  <tr style="background-color:LightGray; ">
-   <td style="text-align:center; border-left:1px solid black; font-weight:bold; vertical-align:middle; ">Year</td>
-   <td style="text-align:center; border-left:1px solid black; font-weight:bold; vertical-align:middle; ">
+   <td style="text-align:center; font-weight:bold; vertical-align:middle; ">
+    Year
+   </td>
+   <td style="text-align:center; font-weight:bold; vertical-align:middle; border-left:1px solid black; ">
     Employee
     <br>
     Count
    </td>
-   <td style="text-align:center; border-left:1px solid black; font-weight:bold; vertical-align:middle; ">
+   <td style="text-align:center; font-weight:bold; vertical-align:middle; border-left:1px solid black; ">
     Net Income
     <br>
     (Mil $)
    </td>
-   <td style="text-align:center; border-left:1px solid black; font-weight:bold; vertical-align:middle; ">
-    Profit per
+   <td style="text-align:center; font-weight:bold; vertical-align:middle; border-left:1px solid black; ">
+    <span class="_paradigm">RAD</span> fund
     <br>
-    Employee ($)
+    ($)
    </td>
   </tr>
   <tr>
@@ -129,14 +130,14 @@ image:    "icon-google-goes-radical.svg"
  <p>Here is what ten years of Google&rsquo;s performance might have looked like,</p>
  <table align="center" style="width:40%; ">
   <tr style="background-color:LightGray; ">
-   <td style="text-align:center; border-left:1px solid black; font-weight:bold; vertical-align:middle; ">Year</td>
-   <td style="text-align:center; border-left:1px solid black; font-weight:bold; vertical-align:middle; ">Employee Count</td>
-   <td style="text-align:center; font-weight:bold; vertical-align:middle; ">
+   <td style="text-align:center; font-weight:bold; vertical-align:middle; ">Year</td>
+   <td style="text-align:center; font-weight:bold; vertical-align:middle; border-left:1px solid black;  ">Employee Count</td>
+   <td style="text-align:center; font-weight:bold; vertical-align:middle; border-left:1px solid black; ">
     Net Income
     <br>
     (Mil $)
    </td>
-   <td style="text-align:center; font-weight:bold; vertical-align:middle; ">
+   <td style="text-align:center; font-weight:bold; vertical-align:middle; border-left:1px solid black; ">
     <span class="_paradigm">RAD</span> fund
     <br>
     ($)
@@ -209,7 +210,7 @@ image:    "icon-google-goes-radical.svg"
    <td style="text-align:right; border-left:1px dotted black; ">3,534,000</td>
   </tr>
   <tr>
-   <td class="spacer"></td>
+   <td class="spacer" style="border-top:1px dotted black; "></td>
   </tr>
  </table>
  <div class="_center">
