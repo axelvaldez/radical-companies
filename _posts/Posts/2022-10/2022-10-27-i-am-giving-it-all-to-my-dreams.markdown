@@ -7,7 +7,7 @@ image:    "icon-i-am-giving-it-all-to-my-dreams.svg"
 ---
 
 <div style="display:none;">
- <p>There are certain industries where people are very willing to take a massive hit to their capacity for independent action in exchange for working on their dreams. The NewSpace and Video Game industries are two that pop to mind.</p>
+ <p>There are certain industries where people are very willing to take a massive hit to their capacity for independent action in exchange for working on their dreams.</p>
 </div>
 
 <h1>&nbsp;</h1>
