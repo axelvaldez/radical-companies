@@ -108,7 +108,7 @@ image:    "icon-google-goes-radical.svg"
    <td style="text-align:right; border-left:1px dotted black; ">263,731</td>
   </tr>
   <tr>
-   <td class="spacer"></td>
+   <td class="spacer">caca</td>
   </tr>
  </table>
  <div class="_center">
