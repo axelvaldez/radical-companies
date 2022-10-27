@@ -7,7 +7,7 @@ image:    "icon-in-the-national-interest.svg"
 ---
 
 <div style="display:none;">
- <p>National goverments really are very, very tall <span class="_paradign">FIAT</span> hierarchies with a monopoloy on force. We need governance, but not centralized governments. This is true for the whole spectrum, from democracies to dictatoships.</p>
+ <p>National goverments really are very, very tall <span class="_paradign">FIAT</span> hierarchies with a monopoloy on force. We need governance, but not centralized governments. This is true for democracies and dictatoships.</p>
 </div>
 
 <h1>&nbsp;</h1>
