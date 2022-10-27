@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "I’m a Slave to My Dreams"
+title:    "I’m Giving It All to My Dreams"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-i-am-giving-it-all-to-my-dreams.svg"
 ---
 
 <div style="display:none;">
