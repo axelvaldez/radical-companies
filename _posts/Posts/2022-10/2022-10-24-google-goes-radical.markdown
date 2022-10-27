@@ -101,7 +101,7 @@ image:    "icon-google-goes-radical.svg"
    <td style="text-align:right; border-left:1px dotted black; ">12733.0</td>
    <td style="text-align:right; border-left:1px dotted black; ">266,626</td>
   </tr>
-  <tr style="border-bottom:1px solid black;>
+  <tr style="border-bottom:1px solid black; ">
    <td style="text-align:right; ">2014</td>
    <td style="text-align:right; border-left:1px dotted black; ">53,600</td>
    <td style="text-align:right; border-left:1px dotted black; ">14136.0</td>
@@ -209,7 +209,7 @@ image:    "icon-google-goes-radical.svg"
    <td style="text-align:right; border-left:1px dotted black; ">12733</td>
    <td style="text-align:right; border-left:1px dotted black; ">3,264,872</td>
   </tr>
-  <tr style="border-bottom:1px solid black;>
+  <tr style="border-bottom:1px solid black; ">
    <td style="text-align:right; ">2014</td>
    <td style="text-align:right; border-left:1px dotted black; ">4000</td>
    <td style="text-align:right; border-left:1px dotted black; ">14136</td>
