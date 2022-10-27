@@ -213,7 +213,7 @@ image:    "icon-google-goes-radical.svg"
    <td style="text-align:right; ">2014</td>
    <td style="text-align:right; border-left:1px dotted black; ">4000</td>
    <td style="text-align:right; border-left:1px dotted black; ">14136</td>
-   <td style="text-align:right; border-left:1px dotted black; border-bottom:1px solid black; ">3,534,000</td>
+   <td style="text-align:right; border-left:1px dotted black; ">3,534,000</td>
   </tr>
   <tr>
    <td class="spacer">&nbsp;</td>
