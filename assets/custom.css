@@ -338,7 +338,7 @@ td._spacer:after {
 table {
   width:70%;
 }
-table ._center {
+table ._center, div ._center {
   display:grid;
   place-items:center;
   margin-bottom:20px;
