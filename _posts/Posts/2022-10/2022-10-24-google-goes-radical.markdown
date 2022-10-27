@@ -7,7 +7,7 @@ image:    "icon-google-goes-radical.svg"
 ---
 
 <div style="display:none;">
- <p>Imagine Google as a <span class="_paradigm">RADICAL</span> company!</p>
+ <p>Google goes <span class="_paradigm">RADICAL</span> in 2004. Imagine that!</p>
 </div>
 
 <h1>AdSense Gusher</h1>
