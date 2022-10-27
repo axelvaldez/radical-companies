@@ -335,12 +335,13 @@ td._spacer:after {
 ._mb0 {
   margin-bottom:0;
 }
-._center {
-  display:grid;
-  place-items:center;
-}
 table {
   width:70%;
+}
+table ._center {
+  display:grid;
+  place-items:center;
+  margin-bottom:20px;
 }
 ._r {
   font-family:'Courier New', Courier, monospace;
