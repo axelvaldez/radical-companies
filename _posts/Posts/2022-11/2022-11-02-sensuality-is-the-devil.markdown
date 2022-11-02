@@ -7,11 +7,11 @@ image:    "icon-the-serpent-is-sensuality.svg"
 ---
 
 <div style="display:none;">
- <p>The serpent that tempted Eve to convince Adam to bite the apple. That snake, represents sensuality and everything that is bad for you. That sneak goes counter to the preservation of life.</p>
+ <p>The serpent that tempted Eve to convince Adam to bite the apple. That snake, represents sensuality and everything that is bad for you. That sneak is the part of life. That snake goes counter to the preservation of life.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The serpent that tempted Eve to convince Adam to bite the apple. That snake, represents sensuality and everything that is bad for you. That sensuality-as-snake goes counter to the preservation of life.</p>
+ <p>The serpent that tempted Eve to convince Adam to bite the apple. That snake, represents sensuality and everything that is bad for you. Sensuality-as-snake is the part of life that went counter to the preservation of life.</p>
 
 <h1>Bad for the survival of society</h1>
  <p>But why was sensuality depicted as the opposite of the preservation of life? My guess is that sensuality lead to the exhaustion of the young people who did the bulk of the work to feed the whole, a small society, a tribe. It also lead to the deaths of women and oftentimes to the pain of losing a child. When things didn't go that way, it resulted to more mouths to feed.</li>
