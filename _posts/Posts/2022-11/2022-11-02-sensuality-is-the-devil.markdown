@@ -7,7 +7,7 @@ image:    "icon-about-daos.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>The snake that tempted Eve to convince Adam to bite the apple. That snake, represents sensuality: the devil. Everything that is bad for you, sinner. The sneak leads counter to the preservation of life.</p>
 </div>
 
 <h1>&nbsp;</h1>
