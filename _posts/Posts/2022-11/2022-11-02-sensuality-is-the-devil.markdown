@@ -7,7 +7,7 @@ image:    "icon-the-serpent-is-sensuality.svg"
 ---
 
 <div style="display:none;">
- <p>The serpent that tempted Eve to convince Adam to bite the apple. That snake, represents sensuality and everything that is bad for you. That sneak is the part of life. That snake goes counter to the preservation of life.</p>
+ <p>The serpent that tempted Eve to convince Adam to bite the apple. That snake, represents sensuality and life. That sneak is the part of life that goes counter to the preservation of life.</p>
 </div>
 
 <h1>&nbsp;</h1>
