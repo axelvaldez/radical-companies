@@ -2,7 +2,7 @@
 layout:   post
 title:    "The Serpent is Sensuality"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez"
+authors:  "Matt Perez, Ana Perez"
 image:    "icon-the-serpent-is-sensuality.svg"
 ---
 
@@ -11,10 +11,10 @@ image:    "icon-the-serpent-is-sensuality.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>The serpent that tempted Eve to convince Adam to bite the apple. That snake, represents sensuality and life. That effort to eliminate that snake eventuall went counter to the preservation of life.</p>
+ <p>The serpent that tempted Eve to convince Adam to bite the apple. That snake represents sensuality and life. That effort to eliminate sensualith eventuall went counter to the preservation of life.</p>
 
 <h1>Bad for the survival of society</h1>
- <p>But why, oh why, was sensuality depicted as bad for the preservation of life? My guess is as the early societies saw that sensuality lead to the exhaustion of the young people who did the bulk of the work to feed the tribe. It also lead to the deaths of women and oftentimes the child. When things went well, it resulted to more mouths to feed.</li>
+ <p>But why, oh why, was sensuality depicted as bad for the preservation of life? My guess is that early societies saw that sensuality led to the exhaustion of the young people who did the bulk of the work to feed the tribe. It also leads to the deaths of women and oftentimes the child. And, when things went well, it resulted in to more mouths to feed.</li>
  <p>Sensuality had a lot of negatives,</p>
   <ul>
    <li>Work loss.</li>
