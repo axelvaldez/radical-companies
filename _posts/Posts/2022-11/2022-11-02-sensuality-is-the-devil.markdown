@@ -43,55 +43,11 @@ image:    "icon-the-serpent-is-sensuality.svg"
  <p>I really don&rsquo;t kbow when the religious beliefs and practices turned against us. What we do know is that, on the plus side, we are still here and on the minus side, the anthroposphere will collapse and our societies will go with it.</p>
 
 <h1>Democracy, Dictatorship, and Everying in Between</h1>
- <p>Religion gave way to <em>politics</em> and its purpose to keep itself alive. Of course, because it helped preserve some peoples&rsquo; lifes. The old religion-based systems went into the background and politics thrived. Who shall live and who may die became more&hellip; fluid.</p>
+ <p>Religion gave way to <em>politics</em> and the purpose of keeping itself alive. And, yes, it helped preserve some peoples&rsquo; lifes. But that a while back. As the old religion-based systems went off center stage, politics thrived. Who shall live and who may die became more&hellip; fluid. but it is to this day a system that works for some, ht all.</p>
 
  <p>Just Say No to Diefication</p>
- <p>The &ldquo;next step&rdquo; is not the deification of science and technolgy. Science and technology, yes, but their diefication, no.</p>
- <p>People can take from here.</p>
-
-<div class="_center">
- <img
-  src="/assets/img/pings-to-rads-equation.svg"
-  width="70%"
-  alt="">
- </div>
-
-<table align="center">
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
- </tr>
- <tr>
-  <td style="height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
- </tr>
- <tr>
-  <td style="height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
- </tr>
- <tr>
-  <td class="_spacer_">&nbsp;</td>
- </tr>
-</table>
-
-<h1 class="_section">ENDNOTES</h1>
- <ol>
-  <li id="en01">
-   <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ol>
+ <p>The &ldquo;solution&rdquo; is not the deification of science and technolgy. Science and technology, yes, but their diefication, no.</p>
+ <p>We have enough world-wide technology that people can take it from here. We &ldquo;simply&rdquo; need relationships based on sensuality to take their rightful place.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
