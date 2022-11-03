@@ -39,12 +39,12 @@ image:    "icon-the-serpent-is-sensuality.svg"
   </ul>
 
 <h1>Everythig Else May Die</h1>
- <p>I really don&rsquo;t know when the religious beliefs and practices turned against us. What we do know is that we are still here (good). We also know that the anthroposphere will collapse and our societies will go with it (not so good).</p>
+ <p>I really don&rsquo;t know when religious beliefs and practices turned against us. What we do know is that we are still here (good). We also know that the anthroposphere will collapse and our societies will go with it (not so good).</p>
 
 <h1>Democracy, Dictatorship, and Everying in Between</h1>
  <p>Religion gave way to <em>politics</em>. As the old religion-based systems went off center stage, politics thrived. Who shall live and who may die became more&hellip; fluid.</p>
 
-<h1>Deification: Just Say No!</h1>
+<h1>No Deification</h1>
  <p>The &ldquo;solution&rdquo; is not the deification of science and technolgy. Science and technology, yes, but their deification, no.</p>
 
 <h1>People</h1>
