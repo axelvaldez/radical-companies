@@ -16,7 +16,7 @@ image:    "icon-the-serpent-is-sensuality.svg"
 <h1>Bad for the survival of society</h1>
  <p>But why, oh why, was sensuality depicted as bad for the preservation of life? My guess is that early societies saw that sensuality led to the exhaustion of the young people who did the bulk of the work to feed the tribe. It also leads to the deaths of women and oftentimes the child. And, when things went well, it resulted in more mouths to feed. In summary, from their point of view, sensuality had a lot of negatives,</p>
   <ul>
-   <li>Work loss.</li>
+   <li>Work capacity loss.</li>
    <li>Potential loss of young people.</li>
    <li>The pain of loss.</li>
    <li>More mouths to feed.</li>
