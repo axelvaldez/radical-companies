@@ -14,15 +14,14 @@ image:    "icon-the-serpent-is-sensuality.svg"
  <p>The serpent that tempted Eve to convince Adam to bite the apple. That snake represents sensuality and life. That effort to eliminate sensualith eventuall went counter to the preservation of life.</p>
 
 <h1>Bad for the survival of society</h1>
- <p>But why, oh why, was sensuality depicted as bad for the preservation of life? My guess is that early societies saw that sensuality led to the exhaustion of the young people who did the bulk of the work to feed the tribe. It also leads to the deaths of women and oftentimes the child. And, when things went well, it resulted in to more mouths to feed.</li>
- <p>Sensuality had a lot of negatives,</p>
+ <p>But why, oh why, was sensuality depicted as bad for the preservation of life? My guess is that early societies saw that sensuality led to the exhaustion of the young people who did the bulk of the work to feed the tribe. It also leads to the deaths of women and oftentimes the child. And, when things went well, it resulted in more mouths to feed. In summary, from their point of view, sensuality had a lot of negatives,</p>
   <ul>
    <li>Work loss.</li>
    <li>Potential loss of young people.</li>
    <li>The pain of loss.</li>
    <li>More mouths to feed.</li>
   </ul>
- <p>Sensuality was not good for those early society. Sensuality is satan! Several thousand years later, conditions have changed, perhaps &ldquo;thanks&rdquo; to the demonization of sensuality. Today, the threat to life is no longer sensuality. The threat to live is the lack of sensuality and everything that contributed to lack of relationships. The threat to live today is that we are destructing our life support system.</p>
+ <p>This was not good for those early societies. Sensuality is satan! Several thousand years later, conditions have changed, perhaps &ldquo;thanks&rdquo; to the demonization of sensuality. Today, the threat to life is no longer sensuality. The threat to live is the lack of sensuality and everything that contributed to lack of relationships. The threat to live today is that we are destructing our life support system.</p>
 
 <h1>Renouncing the Snake</h1>
  <p>Because we don&rsquo;t know any different, assume that renouncing the sensuality-as-snake preserved like and improved life a long time ago. However, the scaffolding turned against the very impact we wanted to accomplish. We erected to preserve life, but the scaffolding developed a purpose of its own: to preserve its life.</p>
