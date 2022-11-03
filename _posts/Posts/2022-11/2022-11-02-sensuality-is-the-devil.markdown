@@ -7,35 +7,35 @@ image:    "icon-the-serpent-is-sensuality.svg"
 ---
 
 <div style="display:none;">
- <p>The serpent that tempted Eve to convince Adam to bite the apple. That snake, represents sensuality and life. That sneak is the part of life that goes counter to the preservation of life.</p>
+ <p>The serpent that tempted Eve to convince Adam to bite the apple. That snake, represents sensuality and life. That effort to eliminate that snake eventuall went counter to the preservation of life.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The serpent that tempted Eve to convince Adam to bite the apple. That snake, represents sensuality and everything that is bad for you. Sensuality-as-snake is the part of life that went counter to the preservation of life.</p>
+ <p>The serpent that tempted Eve to convince Adam to bite the apple. That snake, represents sensuality and life. That effort to eliminate that snake eventuall went counter to the preservation of life.</p>
 
 <h1>Bad for the survival of society</h1>
- <p>But why was sensuality depicted as the opposite of the preservation of life? My guess is that sensuality lead to the exhaustion of the young people who did the bulk of the work to feed the whole, a small society, a tribe. It also lead to the deaths of women and oftentimes to the pain of losing a child. When things didn't go that way, it resulted to more mouths to feed.</li>
- <p>In other words,</p>
+ <p>But why, oh why, was sensuality depicted as bad for the preservation of life? My guess is as the early societies saw that sensuality lead to the exhaustion of the young people who did the bulk of the work to feed the tribe. It also lead to the deaths of women and oftentimes the child. When things went well, it resulted to more mouths to feed.</li>
+ <p>Sensuality had a lot of negatives,</p>
   <ul>
    <li>Work loss.</li>
-   <li>Potential loss of young people, to illness and to pain.</li>
+   <li>Potential loss of young people.</li>
+   <li>The pain of loss.</li>
    <li>More mouths to feed.</li>
   </ul>
- <p>Sensuality is the devil! Or so it was at the start of history. Several thousand years later, conditions have changed, &ldquo;thanks&rdquo; to the demonization of sensuality. The threat to life is no longer sensuality. The threat to live is that we are destructing our life support system.</p>
+ <p>Sensuality was not good for those early society. Sensuality is satan! Several thousand years later, conditions have changed, perhaps &ldquo;thanks&rdquo; to the demonization of sensuality. Today, the threat to life is no longer sensuality. The threat to live is the lack of sensuality and everything that contributed to lack of relationships. The threat to live today is that we are destructing our life support system.</p>
 
 <h1>Renouncing the Snake</h1>
- <p>Because we don&rsquo;t know, and can&rsquo;t, any different, assume that renouncing the sensuality snake preserved like and improved life. However, the scaffolding we erected to make sure that the snake didn&rsquo;t threaten our lives, it, the scaffolding, turned against the very impact we wanted to accomplish. It developed a purpose of its own: to preserve the life of the scaffolding.</p>
+ <p>Because we don&rsquo;t know any different, assume that renouncing the sensuality-as-snake preserved like and improved life a long time ago. However, the scaffolding turned against the very impact we wanted to accomplish. We erected to preserve life, but the scaffolding developed a purpose of its own: to preserve its life.</p>
 
 <h1>The Shaman is the Boss</h1>
- <p>The <em>why</em>, the purpose, of the scaffolding started as &ldquo;preserving human life&rdquo;. Of course, the whole thing was implemented by people and they did it by coming up with amazing stories that held the attention of their people and kept them alive.</p>
- <p>These stories worked, kept us alive, and they came alive. And their purpose, their <em>why</em>, came alive, too: we have to keep alive that which has kept us alive.</p>
+ <p>The whole thing was implemented by people who came up with amazing stories that held the attention of their people and kept them and their tribe alive: they worked! And they came live and imposed their owne their purpose, their own <em>why</em>: preserve its life. Of couse, to preserve human live. At least, most lives. The Shaman&rsquo;s life for sure, others&rsquo; were secondary.</p>
 
 <h1>Religion</h1> 
- <p>There have been many religions, many of these fantastic stories that have kept us people alive. They have sustained us, helped us bear the pain of other&rsquo;s death, limit the destructive powers of sensuality. Religions have kept us people alive.</p>
- <p>As Quinn Ross has often said, we may be ignorant, but we are now stupid. But are creatures of habits, and we have gone too far with the habit of keeping alive what has worked and the cost of people&rsquo;s lives. And we have done so be deciding who shall live and who may die. Men shall live, woman may die. Feudal lords and their families shall live, vassals may die. Royalty shall live, common people may die. Powerful people shall live, everybody else may die.</p>
+ <p>There have been many religions with many of these fantastic stories that have kept us people alive. They have sustained us, helped us bear the pain of illness and deaths, and contain the destructive powers of sensuality-as-satan. Religions have kept us alive.</p>
+ <p>We may be ignorant, but we are now stupid. But are creatures of habits, and we have gone too far with the habit of keeping alive. We have done so be deciding who shall live and who may die. Men shall live, woman may die. Feudal lords and their families shall live, vassals may die. Royalty shall live, common people may die. Powerful people shall live, everybody else may die.</p>
 
 <h1>Everythig Else May Die</h1>
- <p>I really don&rsquo;t kbow when the adoration of relics, the preservation of religious beliefs and practices turned, against us. We are still here, some say, and that is enough to know that we must continue the course. But it is going to kill us people and our societies, I say, by killing everything else.</p>
+ <p>I really don&rsquo;t kbow when the adoration of relics and the preservation of religious beliefs and practices, turned, against us. On the plus side, we are still here. On the minus side, it is going to kill us people and our societies.</p>
 
 <h1>Our New Savior is Born: Democracy, Dictatorship, and Everying in Between</h1>
  <p>Religion gave way to <em>politics</em> and its purpose to keep itself alive. Of course, because it helped preserve some peoples&rsquo; lifes. The old religion-based systems went into the background and politics thrived. Who shall live and who may die became more&hellip; fluid.</p>
