@@ -48,7 +48,7 @@ image:    "icon-the-serpent-is-sensuality.svg"
  <p>The &ldquo;solution&rdquo; is not the deification of science and technology. Science and technology, yes, but their deification, no, no, no.</p>
 
 <h1>People</h1>
- <p>Today, people can take it from here with their science and technology in hand.</p>
+ <p>Today, people can take it from here (with their science and technology in hand).</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
