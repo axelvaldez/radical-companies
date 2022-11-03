@@ -31,13 +31,18 @@ image:    "icon-the-serpent-is-sensuality.svg"
  <p>The whole thing was implemented by people who came up with amazing stories that held the attention of their people and kept them and their tribe alive: they worked! And they came live and imposed their owne their purpose, their own <em>why</em>: preserve its life. Of couse, to preserve human live. At least, most lives. The Shaman&rsquo;s life for sure, others&rsquo; were secondary.</p>
 
 <h1>Religion</h1> 
- <p>There have been many religions with many of these fantastic stories that have kept us people alive. They have sustained us, helped us bear the pain of illness and deaths, and contain the destructive powers of sensuality-as-satan. Religions have kept us alive.</p>
- <p>We may be ignorant, but we are now stupid. But are creatures of habits, and we have gone too far with the habit of keeping alive. We have done so be deciding who shall live and who may die. Men shall live, woman may die. Feudal lords and their families shall live, vassals may die. Royalty shall live, common people may die. Powerful people shall live, everybody else may die.</p>
+ <p>There have been many religions with many of these fantastic stories that have kept us people alive. They have sustained us, helped us bear the pain of illness and deaths, and contain the destructive powers of sensuality-as-satan. As much as anything else, religions have kept us alive. It has done so by deciding who shall live and who may die,</p>
+  <ul>
+   <li>Men shall live, woman may die.</li>
+   <li>Feudal lords and their families shall live, vassals may die.</li>
+   <li>Royalty shall live, common people may die.</li>
+   <li>Powerful people shall live, everybody else may die.</li>
+  </ul>
 
 <h1>Everythig Else May Die</h1>
- <p>I really don&rsquo;t kbow when the adoration of relics and the preservation of religious beliefs and practices, turned, against us. On the plus side, we are still here. On the minus side, it is going to kill us people and our societies.</p>
+ <p>I really don&rsquo;t kbow when the religious beliefs and practices turned against us. What we do know is that, on the plus side, we are still here and on the minus side, the anthroposphere will collapse and our societies will go with it.</p>
 
-<h1>Our New Savior is Born: Democracy, Dictatorship, and Everying in Between</h1>
+<h1>Democracy, Dictatorship, and Everying in Between</h1>
  <p>Religion gave way to <em>politics</em> and its purpose to keep itself alive. Of course, because it helped preserve some peoples&rsquo; lifes. The old religion-based systems went into the background and politics thrived. Who shall live and who may die became more&hellip; fluid.</p>
 
  <p>Just Say No to Diefication</p>
