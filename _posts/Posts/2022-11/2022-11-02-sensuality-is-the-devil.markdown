@@ -2,7 +2,7 @@
 layout:   post
 title:    "The Serpent is Sensuality"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez, Ana Perez"
+authors:  "Matt Perez, Anita Perez"
 image:    "icon-the-serpent-is-sensuality.svg"
 ---
 
@@ -27,12 +27,12 @@ image:    "icon-the-serpent-is-sensuality.svg"
  <p>Given that we don&rsquo;t know any different, let&rsquo;s assume that renouncing the sensuality-as-snake preserved and improved life. However, the scaffolding turned against the very impact we wanted to accomplish: we erected it to preserve human life, but the scaffolding just wanted to preserve its life.</p>
 
 <h1>The Shaman is the Boss</h1>
- <p>The whole thing was implemented by people who came up with amazing stories that held people&rsquo;s attention and kept their tribe alive! Thye worked, they came alive, and they imposed their own purpose: to preserve its life.</p>
+ <p>The whole thing was implemented by people who came up with amazing stories that held people&rsquo;s attention and kept their tribe alive! They worked, they came alive, and they imposed their own purpose: to preserve its life.</p>
 
 <h1>Religion</h1> 
  <p>There have been many religions with many of these fantastic stories. They have kept us alive. They have sustained us, helped us bear the pain of illness and deaths, and contain the destructive powers of sensuality-as-satan. And they have done so by deciding who shall live and who may die,</p>
   <ul>
-   <li>Men shall live, woman may die.</li>
+   <li>Men shall live, women may die.</li>
    <li>Feudal lords and their families shall live, vassals may die.</li>
    <li>Royalty shall live, common people may die.</li>
    <li>Powerful people shall live, everybody else may die.</li>
