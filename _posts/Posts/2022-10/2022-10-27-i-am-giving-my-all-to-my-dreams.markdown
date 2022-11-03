@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "I Am Giving It All to My Dreams"
+title:    "I Am Giving My All to My Dreams"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "icon-i-am-giving-it-all-to-my-dreams.svg"
