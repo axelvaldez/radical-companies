@@ -45,7 +45,7 @@ image:    "icon-the-serpent-is-sensuality.svg"
 <h1>Democracy, Dictatorship, and Everying in Between</h1>
  <p>Religion gave way to <em>politics</em> and the purpose of keeping itself alive. And, yes, it helped preserve some peoples&rsquo; lifes. But that a while back. As the old religion-based systems went off center stage, politics thrived. Who shall live and who may die became more&hellip; fluid, a system that works for some, not all.</p>
 
- <p>Just Say No to Diefication</p>
+<h1>>Diefication: Just Say No!</h1>
  <p>The &ldquo;solution&rdquo; is not the deification of science and technolgy. Science and technology, yes, but their diefication, no.</p>
  <p>We have enough world-wide technology that people can take it from here. We &ldquo;simply&rdquo; need relationships based on sensuality to take their rightful place.</p>
 
