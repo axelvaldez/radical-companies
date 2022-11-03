@@ -45,7 +45,7 @@ image:    "icon-the-serpent-is-sensuality.svg"
  <p>Religion gave way to <em>politics</em>. As the old religion-based systems went off center stage, politics thrived. Who shall live and who may die became more&hellip; fluid.</p>
 
 <h1>No Deification</h1>
- <p>The &ldquo;solution&rdquo; is not the deification of science and technology. Science and technology, yes, but their deification, no.</p>
+ <p>The &ldquo;solution&rdquo; is not the deification of science and technology. Science and technology, yes, but their deification, no, no, no.</p>
 
 <h1>People</h1>
  <p>Today, people can take it from here.</p>
