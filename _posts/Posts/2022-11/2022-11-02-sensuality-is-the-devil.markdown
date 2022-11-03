@@ -38,7 +38,7 @@ image:    "icon-the-serpent-is-sensuality.svg"
    <li>Powerful people shall live, everybody else may die.</li>
   </ul>
 
-<h1>Everythig Else May Die</h1>
+<h1>Everything Else May Die</h1>
  <p>I really don&rsquo;t know when religious beliefs and practices turned against us. What we do know is that we are still here (good). We also know that the anthroposphere will collapse and our societies will go with it (not so good).</p>
 
 <h1>Democracy, Dictatorship, and Everying in Between</h1>
