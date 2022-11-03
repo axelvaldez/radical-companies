@@ -47,7 +47,7 @@ image:    "icon-the-serpent-is-sensuality.svg"
 
 <h1>Deification: Just Say No!</h1>
  <p>The &ldquo;solution&rdquo; is not the deification of science and technolgy. Science and technology, yes, but their deification, no.</p>
- <p>We have enough world-wide technology that people can take it from here.</p>
+ <p>We have enough world-wide connectivity that people can take it from here.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
