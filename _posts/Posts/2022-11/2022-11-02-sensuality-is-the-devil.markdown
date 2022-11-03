@@ -21,16 +21,16 @@ image:    "icon-the-serpent-is-sensuality.svg"
    <li>The pain of loss.</li>
    <li>More mouths to feed.</li>
   </ul>
- <p>This was not good for those early societies. Sensuality is satan! Several thousand years later, conditions have changed, perhaps &ldquo;thanks&rdquo; to the demonization of sensuality. Today, the threat to life is no longer sensuality. The threat to live is the lack of sensuality and everything that contributed to lack of relationships. The threat to live today is that we are destructing our life support system.</p>
+ <p>This was not good for those early societies. Sensuality was Satan! Several thousand years later, conditions have changed and the threat to life is the <em>lack of</em> sensuality and warm relationships.</p>
 
 <h1>Renouncing the Snake</h1>
- <p>Because we don&rsquo;t know any different, assume that renouncing the sensuality-as-snake preserved like and improved life a long time ago. However, the scaffolding turned against the very impact we wanted to accomplish. We erected to preserve life, but the scaffolding developed a purpose of its own: to preserve its life.</p>
+ <p>Given that we don&rsquo;t know any different, let&rsquo;s assume that renouncing the sensuality-as-snake preserved and improved life. However, the scaffolding turned against the very impact we wanted to accomplish: we erected it to preserve human life, but the scaffolding just wanted to preserve its life.</p>
 
 <h1>The Shaman is the Boss</h1>
- <p>The whole thing was implemented by people who came up with amazing stories that held the attention of their people and kept them and their tribe alive: they worked! And they came live and imposed their owne their purpose, their own <em>why</em>: preserve its life. Of couse, to preserve human live. At least, most lives. The Shaman&rsquo;s life for sure, others&rsquo; were secondary.</p>
+ <p>The whole thing was implemented by people who came up with amazing stories that held people&rsquo;s attention and kept their tribe alive! Thye worked, they came alive, and they imposed their own purpose: to preserve its life.</p>
 
 <h1>Religion</h1> 
- <p>There have been many religions with many of these fantastic stories that have kept us people alive. They have sustained us, helped us bear the pain of illness and deaths, and contain the destructive powers of sensuality-as-satan. As much as anything else, religions have kept us alive. It has done so by deciding who shall live and who may die,</p>
+ <p>There have been many religions with many of these fantastic stories. They have kept us alive. They have sustained us, helped us bear the pain of illness and deaths, and contain the destructive powers of sensuality-as-satan. And they have done so by deciding who shall live and who may die,</p>
   <ul>
    <li>Men shall live, woman may die.</li>
    <li>Feudal lords and their families shall live, vassals may die.</li>
@@ -39,10 +39,10 @@ image:    "icon-the-serpent-is-sensuality.svg"
   </ul>
 
 <h1>Everythig Else May Die</h1>
- <p>I really don&rsquo;t know when the religious beliefs and practices turned against us. What we do know is that we are still here (good) and on the minus side, the anthroposphere will collapse and our societies will go with it (not so good).</p>
+ <p>I really don&rsquo;t know when the religious beliefs and practices turned against us. What we do know is that we are still here (good). We also know that the anthroposphere will collapse and our societies will go with it (not so good).</p>
 
 <h1>Democracy, Dictatorship, and Everying in Between</h1>
- <p>Religion gave way to <em>politics</em> and the purpose of keeping itself alive. And, yes, it helped preserve some peoples&rsquo; lifes. But that a while back. As the old religion-based systems went off center stage, politics thrived. Who shall live and who may die became more&hellip; fluid, a system that works for some, not all.</p>
+ <p>Religion gave way to <em>politics</em>. And, as the old religion-based systems went off center stage, politics thrived. Who shall live and who may die became more&hellip; fluid.</p>
 
 <h1>Deification: Just Say No!</h1>
  <p>The &ldquo;solution&rdquo; is not the deification of science and technolgy. Science and technology, yes, but their deification, no.</p>
