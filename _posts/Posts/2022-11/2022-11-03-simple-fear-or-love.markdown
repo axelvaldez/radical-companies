@@ -46,8 +46,10 @@ image:    "icon-simple-fear-or-love.svg"
    <td>Love, on the other hand, uplifts you and those around you.</td>
   </tr>
  </table>
+ <!--
  <p>Fear is very strong. It is a life-preserving feeling. Love is also very strong, too, but fear is stronger. Under the right circumstances, and speaking from experience, the sound of bullets can make you forget your loved ones and run for cover.</p>
  <p>Fear hurts and love doesn’t. Well, love hurts, too, but not in a bad way. More importantly, fear hurts not only you, but those around you as well. Love, on the other hand, uplifts you and those around you.</p>
+ -->
 
 <h1>Guided by Love</h1>
  <p>I prefer to be guided by love. And, please, note that I didn’t say stupid love or turning the other cheek, or anything like it. Being guided by love and leading with trust is good for my wellbeing.</p>
