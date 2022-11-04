@@ -11,46 +11,29 @@ image:    "icon-simple-fear-or-love.svg"
 </div>
 
 <h1>&nbsp;</h1>
+ <p>Life is simple: Risk life or preserve it. Go left or go right. Fear or love.</p>
 
-<div class="_center">
- <img
-  src="/assets/img/simple-fear-or-love.svg"
-  width="70%"
-  alt="">
+<h1>Risk Life or Preserve It</h1>
+ <p>Unicellular bacteria have this wired into them. “It tastes like nourishment, turn right. It tastes bad, turn left and run!” It is still what rules all of life: risk or preserve life.</p>
+
+<h1>Baffled by Fear or Guided by Love</h1>
+ <p>By the time we people show up in the tree of life, there are all shades of fear and a whole range of love: raw sex to brotherly; impersonal to interpersonal; agape to xenia.<a href="#en01"><sup id="bm01">1</sup></a></p>
+ <div class="_center">
+  <img
+   src="/assets/img/simple-fear-or-love.svg"
+   width="70%"
+   alt="Types of love represented by a circle with a triangle in the middle of it. The triangle ">
  </div>
-
-<table align="center">
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
- </tr>
- <tr>
-  <td style="height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
- </tr>
- <tr>
-  <td style="height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
- </tr>
- <tr>
-  <td class="_spacer_">&nbsp;</td>
- </tr>
-</table>
+ <p>Fear is very strong. It is a life-preserving feeling. Love is also very strong, too, but fear is stronger. Under the right circumstances, and speaking from experience, the sound of bullets can make you forget your loved ones and run for cover.</p>
+ <p>Fear hurts and love doesn’t. Well, love hurts, too, but not in a bad way. More importantly, fear hurts not only you, but those around you as well. Love, on the other hand, uplifts you and those around you.</p>
+ <p>I prefer to be guided by love. And, please, note that I didn’t say stupid love or turning the other cheek, or anything like it. Being guided by love and leading with trust is good for my wellbeing.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
    <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
+    Love.
+    <<a href="https://en.wikipedia.org/wiki/Love">https://en.wikipedia.org/wiki/Lov</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
