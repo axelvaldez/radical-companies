@@ -7,11 +7,11 @@ image:    "icon-simple-fear-or-love.svg"
 ---
 
 <div style="display:none;">
- <p>Life is simple: Risk life or preserve it. Go left or go right. Fear or love.</p>
+ <p>It is simple: Risk life or preserve it. Go left or go right. Fear or love.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Life is simple: Risk life or preserve it. Go left or go right. Fear or love.</p>
+ <p>It is very simple: Risk life or preserve it. Go left or go right. Fear or love.</p>
 
 <h1>Risk Life or Preserve It</h1>
  <p>Unicellular bacteria have this wired into them. “It tastes like nourishment, turn right. It tastes bad, turn left and run!” It is still what rules all of life: risk or preserve life.</p>
