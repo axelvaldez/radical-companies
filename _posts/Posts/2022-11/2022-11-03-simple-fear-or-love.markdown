@@ -32,8 +32,14 @@ image:    "icon-simple-fear-or-love.svg"
    <td>Love is also very strong, too, but fear is stronger.</td>
   </tr>
   <tr>
+   <td class="_spacer"></td>
+  </tr>
+  <tr>
    <td>Fear hurts,</td>
    <td>Love doesn’t. Well, love hurts, too, but not in a bad way.</td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
   </tr>
   <tr>
    <td>Fear hurts not only you, but those around you as well.</td>
