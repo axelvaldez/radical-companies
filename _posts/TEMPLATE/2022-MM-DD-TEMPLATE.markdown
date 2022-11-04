@@ -14,6 +14,7 @@ image:    "icon-about-daos.svg"
 
 <p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
 
+<!-- table -->
 <div class="_center">
  <img
   src="/assets/img/pings-to-rads-equation.svg"
@@ -21,6 +22,7 @@ image:    "icon-about-daos.svg"
   alt="">
  </div>
 
+<!-- foundation -->
 <table align="center">
  <tr>
   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>

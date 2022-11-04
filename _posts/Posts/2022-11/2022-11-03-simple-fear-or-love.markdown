@@ -21,6 +21,7 @@ image:    "icon-simple-fear-or-love.svg"
   alt="">
  </div>
 
+
 <table align="center">
  <tr>
   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
