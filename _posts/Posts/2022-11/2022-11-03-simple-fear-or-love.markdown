@@ -51,7 +51,8 @@ image:    "icon-simple-fear-or-love.svg"
  </table>
 
 <h1>Guided by Love</h1>
- <p>I prefer to be guided by love. And, please, note that I didn’t say stupid love or turning the other cheek, or anything like it. Being guided by love and leading with trust is good for my wellbeing.</p>
+ <p>I prefer to be guided by love. The kind that leads with trust, and tries to touch the worldview that could support the words said. And, yes, if somebody attacks me, I'll defend my life.</p>
+ <p>Being guided by love and leading with trust is good for my wellbeing.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
