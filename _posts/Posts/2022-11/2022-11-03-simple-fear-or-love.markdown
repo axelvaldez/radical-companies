@@ -45,6 +45,9 @@ image:    "icon-simple-fear-or-love.svg"
    <td style="text-align:right; border-right:1px black solid; ">Fear hurts not only you, but those around you as well.</td>
    <td>Love, on the other hand, uplifts you and those around you.</td>
   </tr>
+  <tr>
+   <td class="_spacer"></td>
+  </tr>
  </table>
 
 <h1>Guided by Love</h1>
