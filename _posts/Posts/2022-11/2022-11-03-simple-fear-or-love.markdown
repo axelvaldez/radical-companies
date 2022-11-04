@@ -22,7 +22,7 @@ image:    "icon-simple-fear-or-love.svg"
   <img
    src="/assets/img/simple-fear-or-love.svg"
    width="70%"
-   alt="Types of love represented by a circle with a triangle in the middle of it. The triangle's sides are labeled ">
+   alt="Types of love represented by a circle with a triangle in the middle of it. The triangle's sides are labeled mania, pragma, and agape. The outside of the circle, starting from 12 o'clock and moving clockwise, has the words LUDUS, STORGIC LUDUS, STORGE, STORGIC EROS, EROS, LUDIC EROS, and LUDUS.">
  </div>
  <p>Fear is very strong. It is a life-preserving feeling. Love is also very strong, too, but fear is stronger. Under the right circumstances, and speaking from experience, the sound of bullets can make you forget your loved ones and run for cover.</p>
  <p>Fear hurts and love doesn’t. Well, love hurts, too, but not in a bad way. More importantly, fear hurts not only you, but those around you as well. Love, on the other hand, uplifts you and those around you.</p>
