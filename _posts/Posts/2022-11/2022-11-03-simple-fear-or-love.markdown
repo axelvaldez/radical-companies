@@ -7,7 +7,7 @@ image:    "icon-simple-fear-or-love.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>Life is simple: Risk life or preserve it. Go left or go right. Fear or love.</p>
 </div>
 
 <h1>&nbsp;</h1>
