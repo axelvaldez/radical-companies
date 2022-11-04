@@ -17,7 +17,7 @@ image:    "icon-simple-fear-or-love.svg"
  <p>Unicellular bacteria have this wired into them. “It tastes like nourishment, turn right. It tastes bad, turn left and run!”</p>
  <p>Risk or preserve life: the rule of all live creatures.</p>
 
-<h1>Baffled by Fear or Guided by Love</h1>
+<h1>Baffled by Fear</h1>
  <p>We people show up in the tree of life with all shades of fear and a whole range of love: erotic, brotherly, impersonal, interpersonal, agape, xenia.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
  <div class="_center">
   <img
@@ -28,6 +28,8 @@ image:    "icon-simple-fear-or-love.svg"
  </div>
  <p>Fear is very strong. It is a life-preserving feeling. Love is also very strong, too, but fear is stronger. Under the right circumstances, and speaking from experience, the sound of bullets can make you forget your loved ones and run for cover.</p>
  <p>Fear hurts and love doesn’t. Well, love hurts, too, but not in a bad way. More importantly, fear hurts not only you, but those around you as well. Love, on the other hand, uplifts you and those around you.</p>
+
+<h1>Guided by Love</h1>
  <p>I prefer to be guided by love. And, please, note that I didn’t say stupid love or turning the other cheek, or anything like it. Being guided by love and leading with trust is good for my wellbeing.</p>
 
 <h1 class="_section">ENDNOTES</h1>
