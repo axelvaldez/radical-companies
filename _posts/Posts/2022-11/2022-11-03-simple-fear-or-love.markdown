@@ -14,7 +14,8 @@ image:    "icon-simple-fear-or-love.svg"
  <p>It is very simple: Risk life or preserve it. Go left or go right. Fear or love.</p>
 
 <h1>Risk Life or Preserve It</h1>
- <p>Unicellular bacteria have this wired into them. “It tastes like nourishment, turn right. It tastes bad, turn left and run!” It still rules all of life: risk or preserve it.</p>
+ <p>Unicellular bacteria have this wired into them. “It tastes like nourishment, turn right. It tastes bad, turn left and run!”</p>
+ <p>Risk or preserve life: it is still the rule of living world.</p>
 
 <h1>Baffled by Fear or Guided by Love</h1>
  <p>By the time we people show up in the tree of life, there are all shades of fear and a whole range of love: raw sex to brotherly; impersonal to interpersonal; agape to xenia.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
