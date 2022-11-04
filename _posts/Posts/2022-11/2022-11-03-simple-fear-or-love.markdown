@@ -28,7 +28,7 @@ image:    "icon-simple-fear-or-love.svg"
  </div>
  <table align="center">
   <tr>
-   <td style="text-align:right; border-right:1px black solid; width:50%; ">Fear is very strong. It is a life-preserving feeling. Under the right circumstances, and speaking from experience, the sound of bullets can make you forget your loved ones and run for cover.</td>
+   <td style="text-align:right; border-right:1px black solid; width:50%; ">Fear is very strong life-preserving feeling. Under the right circumstances, and speaking from experience, the sound of bullets can make you forget your loved ones and run for cover.</td>
    <td>Love is also very strong, too, but fear is stronger.</td>
   </tr>
   <tr>
