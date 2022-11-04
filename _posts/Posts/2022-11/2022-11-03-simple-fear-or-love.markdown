@@ -12,15 +12,12 @@ image:    "icon-simple-fear-or-love.svg"
 
 <h1>&nbsp;</h1>
 
-<p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
-
 <div class="_center">
  <img
-  src="/assets/img/pings-to-rads-equation.svg"
+  src="/assets/img/simple-fear-or-love.svg"
   width="70%"
   alt="">
  </div>
-
 
 <table align="center">
  <tr>
