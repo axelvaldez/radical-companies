@@ -10,6 +10,11 @@ image:    "icon-rmedia.svg"
  <p>A simple system to keep track of the RADs distributions.</p>
 </div>
 
+<div>
+ <p>Recognition is a form of reflection, not introspection.</p>
+ <p id="_signature">Chad Kautzer. Radical Philosophy, p 36.</p>
+</div>
+
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
  <p>A simple system to keep track of the distribution of <span style="font-size:smaller; ">RAD</span>s as we all recognize contributions that others have made to me, my team, or my company throughout time,</p>
  <ul>
