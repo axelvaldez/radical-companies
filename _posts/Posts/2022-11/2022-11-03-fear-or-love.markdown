@@ -51,7 +51,7 @@ image:    "icon-simple-fear-or-love.svg"
  </table>
 
 <h1>Guided by Love</h1>
- <p>I prefer to be guided by love. The kind that leads with trust, and tries to touch the worldview that could support the words said. And, yes, if somebody attacks me, I'll defend my life.</p>
+ <p>I prefer to be guided by love. The kind that leads with trust. The kind that tries to understand the feelings behind the words said.<a href="#en02"><sup id="bm02">2&b&nbsp;</a></p>
  <p>Being guided by love is good for my wellbeing and those around me (like you).</p>
 
 <h1 class="_section">ENDNOTES</h1>
@@ -61,6 +61,12 @@ image:    "icon-simple-fear-or-love.svg"
     Love.
     <<a href="https://en.wikipedia.org/wiki/Love" target="_blank">https://en.wikipedia.org/wiki/Lov</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    But, yes, if somebody attacks me, I'll defend <em>my</em> life.
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
