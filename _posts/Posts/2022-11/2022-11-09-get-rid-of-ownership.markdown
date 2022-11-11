@@ -55,7 +55,7 @@ image:    "icon-get-rid-of-ownership.svg"
   <li>My percentage ownership goes up and down dynamically. For example,</li>
   <div class="_center">
   <img
-   src="/assets/img/pings-to-rads-equation.svg"
+   src="/assets/img/recognitions-to-rads-equation.svg"
    width="70%"
    alt="">
   </div>
