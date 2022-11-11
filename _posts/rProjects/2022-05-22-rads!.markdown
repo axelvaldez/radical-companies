@@ -12,7 +12,7 @@ image:    "icon-rmedia.svg"
 
 <div class="_citation">
  <p>Recognition is a form of reflection, not introspection.</p>
- <p id="_signature">Chad Kautzer.<br>Radical Philosophy, p 36.</p>
+ <p id="_signature">&nbsp;Chad Kautzer.<br>Radical Philosophy, p 36.</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
