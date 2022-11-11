@@ -32,7 +32,7 @@ image:    "icon-get-rid-of-ownership.svg"
  <p>The alternative to fixed ownership, based on force, is dynamic ownership, based on contributions.</p>
  <p>Our <em>RADs!</em> application makes it possible to quantify contributions.</p>
 
-<h1><span class="_paradigm">RAD</span>s!</h1>
+<h1><span class="_paradigm">RAD</span>s!</h1>xxx
  <ul>
   <li>Everybody gets the <em>RADs!</em> app.</li>
   <li>We all use the app to recognize contributions as we see them.</li>
@@ -53,9 +53,12 @@ image:    "icon-get-rid-of-ownership.svg"
  <ul>
   <li><span class="_paradigm">RAD</span>s represent dynamic ownership. One month I may get a lot of <span class="_paradigm">RAD</span>s, but next month I may not get any.</li>
   <li>My percentage ownership goes up and down dynamically. For example,</li>
-  
- </ul>
- <ul>
+  <div class="_center">
+  <img
+   src="/assets/img/pings-to-rads-equation.svg"
+   width="70%"
+   alt="">
+  </div>
   <li>If you have 200 <span class="_paradigm">RAD</span>s and I have 100, then you’ll get twice (revenue, assets, etc.) as me.</li>
  </ul>
 
