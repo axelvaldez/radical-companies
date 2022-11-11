@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Simple: Fear or Love"
+title:    "Fear or Love"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-simple-fear-or-love.svg"
