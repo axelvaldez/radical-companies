@@ -331,7 +331,7 @@ td._spacer:after {
   margin-left:10%;
 }
 ._citation #_signature::before {
-  content:"—"
+  content:&mdash;
 }
 ._mb0 {
   margin-bottom:0;
