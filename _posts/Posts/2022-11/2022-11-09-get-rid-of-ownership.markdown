@@ -7,7 +7,7 @@ image:    "icon-about-daos.svg"
 ---
 
 <div style="display:none;">
- <p>&ldquo;Just get rid of ownership and everything will be fine.&rdquo; It&rsquo;s a fantasy. Ownership is actually a good thing, although we have taken it to an extreme in our <span class="_paradigm">FIAT</span> world.</p>
+ <p>&ldquo;Just get rid of ownership and everything will be fine.&rdquo; It&rsquo;s a recurring and dangerous fantasy. Ownership is actually a good thing, although we have taken it to an extreme in our <span class="_paradigm">FIAT</span> world.</p>
 </div>
 
 <div class="_citation">
