@@ -22,7 +22,7 @@ image:    "icon-get-rid-of-ownership.svg"
  <p>Worse, corporate ownership is fixed, forever.</p>
 
 <h1>Personal Ownership is Good</h1>
- <p>On the other hand, personal ownership<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> is a good thing: this is my house, not yours; this is your toothbrush, not mine.</p>
+ <p>On the other hand, personal ownership<a href="#bm01"><sup id="en01">1&nbsp;</sup></a> is a good thing: this is my house, not yours; this is your toothbrush, not mine.</p>
  <p>We (mostly) don’t have to fight over it.</p>
 
 <h1>Fixed Ownership is Bad</h1>
