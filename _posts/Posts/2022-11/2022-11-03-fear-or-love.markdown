@@ -17,7 +17,7 @@ image:    "icon-simple-fear-or-love.svg"
  <p>Unicellular bacteria have this wired into them. &ldquo;Hmm&hellip; nourishment, go after it! Hmm&hellip; poison, run away from it!&rdquo;</p>
  <p>Risk or preserve life: the rule of all live creatures.</p>
 
-<h1>Baffled by Fear</h1>
+<h1>Frozen by Fear or Guided by Love?</h1>
  <p>We people show up in the tree of life with all shades of fear and a whole range of love: erotic, brotherly, impersonal, interpersonal, agape.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
  <div class="_center">
   <img
@@ -49,8 +49,6 @@ image:    "icon-simple-fear-or-love.svg"
    <td class="_spacer"></td>
   </tr>
  </table>
-
-<h1>Guided by Love</h1>
  <p>I prefer to be guided by love. The kind that leads with trust. The kind that tries to understand the feelings behind the words said.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
  <p>Being guided by love is good for my wellbeing, yours, and others around me.</p>
 
