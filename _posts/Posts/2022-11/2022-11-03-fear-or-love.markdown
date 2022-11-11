@@ -22,7 +22,7 @@ image:    "icon-simple-fear-or-love.svg"
  <div class="_center">
   <img
    src="/assets/img/simple-fear-or-love.svg"
-   width="70%"
+   width="50%"
    alt="Types of love represented by a circle with a triangle in the middle of it. The triangle's sides are labeled mania, pragma, and agape. The outside of the circle, starting from 12 o'clock and moving clockwise, has the words LUDUS, STORGIC LUDUS, STORGE, STORGIC EROS, EROS, LUDIC EROS, and LUDUS."
   >
  </div>
