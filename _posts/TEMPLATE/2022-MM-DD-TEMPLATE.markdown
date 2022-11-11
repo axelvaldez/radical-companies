@@ -14,7 +14,7 @@ image:    "icon-about-daos.svg"
 
 <p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
 
-<!-- table -->
+<!-- image -->
 <div class="_center">
  <img
   src="/assets/img/pings-to-rads-equation.svg"
