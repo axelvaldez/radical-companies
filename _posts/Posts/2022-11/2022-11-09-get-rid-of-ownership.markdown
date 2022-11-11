@@ -49,14 +49,14 @@ image:    "icon-get-rid-of-ownership.svg"
   <li>The number of <span class="_paradigm">RAD</span>s a person has determines the amount of ownership she has.</li>
   <li>The number of <span class="_paradigm">RAD</span>s determines, for example, the number of dividends, ownership of assets, or ownership of the brand that each person gets.</li>
  </ul>
- <p>Also,</p>
+ Also,
  <ul>
   <li><span class="_paradigm">RAD</span>s are a dimensionless unit of measure (<em>e.g.</em>, not a currency).</li>
   <li>The recognition criteria is completely up to each person. This is what makes a decentralized distribution possible.</li>
   <li>Every person gets the same number of <span class="_paradigm">RAD</span>s (<em>i.e.</em>, one per day).</li>
   <li>Recognitions are translated to <span class="_paradigm">RAD</span>s.</li>
  </ul>
- <p>And, also,</p>
+ And, also,
  <ul>
   <li><span class="_paradigm">RAD</span>s represent dynamic ownership. One month I may get a lot of <span class="_paradigm">RAD</span>s, but next month I may not get any.</li>
   <li>My percentage ownership goes up and down dynamically. For example,</li>
