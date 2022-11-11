@@ -7,7 +7,7 @@ image:    "icon-rmedia.svg"
 ---
 
 <div style="display: none; ">
- <p>A simple system to keep track of the RADs distributions.</p>
+ <p>A simple system recognize contributions that others have made to me, my team, or my company throughout time,</p>
 </div>
 
 <div class="_citation_">
@@ -16,7 +16,7 @@ image:    "icon-rmedia.svg"
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
- <p>A simple system to keep track of the distribution of <span style="font-size:smaller; ">RAD</span>s as we all recognize contributions that others have made to me, my team, or my company throughout time,</p>
+ <p>A simple system recognize contributions that others have made to me, my team, or my company throughout time,</p>
  <ul>
   <li>Swipe to the right for people who help or contribute to you.</li>
   <li>DSwipe to the left for people who made a negative impact on you.</li>
