@@ -53,6 +53,7 @@ image:    "icon-get-rid-of-ownership.svg"
  <ul>
   <li><span class="_paradigm">RAD</span>s represent dynamic ownership. One month I may get a lot of <span class="_paradigm">RAD</span>s, but next month I may not get any.</li>
   <li>My percentage ownership goes up and down dynamically. For example,</li>
+  
  </ul>
  <ul>
   <li>If you have 200 <span class="_paradigm">RAD</span>s and I have 100, then you’ll get twice (revenue, assets, etc.) as me.</li>
