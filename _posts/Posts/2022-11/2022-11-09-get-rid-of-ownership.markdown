@@ -7,7 +7,7 @@ image:    "icon-about-daos.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>&ldquo;Just get rid of ownership and everything will be fine.&rdquo; It&rsquo;s a fantasy. Ownership is actually a good thing, although we have taken it to an extreme in our <span class="_paradigm">FIAT</span> world.</p>
 </div>
 
 <div class="_citation">
@@ -15,10 +15,10 @@ image:    "icon-about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>This fantasy goes on, and on, but it always ends up in the same system of servitude, extraction, and exploitation. Ownership is actually a good thing, although we have taken it to an extreme in our FIAT world.</p>
+ <p>This fantasy goes on, and on, but it always ends up in the same system of servitude, extraction, and exploitation. Ownership is actually a good thing, although we have taken it to an extreme in our <span class="_paradigm">FIAT</span> world.</p>
 
 <h1>Corporate Ownership is Bad</h1>
- <p>In our FIAT world corporate ownership has been weaponized: music is exploited for financial gain; even your ideas belong to the company you happen to work for.</p>
+ <p>In our <span class="_paradigm">FIAT</span> world corporate ownership has been weaponized: music is exploited for financial gain; even your ideas belong to the company you happen to work for.</p>
  <p>Worse, corporate ownership is fixed, forever.</p>
 
 <h1>Personal Ownership is Good</h1>
@@ -48,15 +48,15 @@ image:    "icon-about-daos.svg"
   <li>The recognition criteria is completely up to each person. This is what makes a decentralized distribution possible.</li>
   <li>Every person gets the same number of <span class="_paradigm">RAD</span>s (<em>i.e.</em>, one per day).</li>
   <li>Recognitions are translated to <span class="_paradigm">RAD</span>s.</li>
-</ul>
+ </ul>
  <p>And, also,</p>
-<ul>
- <li><span class="_paradigm">RAD</span>s represent dynamic ownership. One month I may get a lot of <span class="_paradigm">RAD</span>s, but next month I may not get any.</li>
- <li>My percentage ownership goes up and down dynamically. For example,</li>
-</ul>
-<ul>
- <li>If you have 200 <span class="_paradigm">RAD</span>s and I have 100, then you’ll get twice (revenue, assets, etc.) as me.</li>
-</ul>
+ <ul>
+  <li><span class="_paradigm">RAD</span>s represent dynamic ownership. One month I may get a lot of <span class="_paradigm">RAD</span>s, but next month I may not get any.</li>
+  <li>My percentage ownership goes up and down dynamically. For example,</li>
+ </ul>
+ <ul>
+  <li>If you have 200 <span class="_paradigm">RAD</span>s and I have 100, then you’ll get twice (revenue, assets, etc.) as me.</li>
+ </ul>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
