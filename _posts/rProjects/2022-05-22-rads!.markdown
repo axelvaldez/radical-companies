@@ -10,7 +10,7 @@ image:    "icon-rmedia.svg"
  <p>A simple system recognize contributions that others have made to me, my team, or my company throughout time,</p>
 </div>
 
-<div class="_citation_">
+<div class="_citation">
  <p>Recognition is a form of reflection, not introspection.</p>
  <p id="_signature">Chad Kautzer. Radical Philosophy, p 36.</p>
 </div>
