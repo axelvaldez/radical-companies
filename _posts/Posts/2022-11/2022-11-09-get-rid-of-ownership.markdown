@@ -36,7 +36,14 @@ image:    "icon-get-rid-of-ownership.svg"
  <ul>
   <li>Everybody gets the <em>RADs!</em> app.</li>
   <li>We all use the app to recognize contributions as we see them.</li>
-  <li>Based on these <em>contributions</em>, the <em>RADs!</em> app calculates <em>how many</em> <span class="_paradigm">RAD</span>s each person gets.</li>
+  <li>Based on these <em>contributions</em>, the <em>RADs!</em> app calculates <em>how many</em> <span class="_paradigm">RAD</span>s each person gets.
+  <div class="_center">
+   <img
+    src="/assets/img/recognitions-to-rads-equation.svg"
+    width="70%"
+    alt="">
+  </div>
+  </li>
  </ul>
  <ul>
   <li>The number of <span class="_paradigm">RAD</span>s a person has determines the amount of ownership she has.</li>
@@ -54,10 +61,10 @@ image:    "icon-get-rid-of-ownership.svg"
   <li><span class="_paradigm">RAD</span>s represent dynamic ownership. One month I may get a lot of <span class="_paradigm">RAD</span>s, but next month I may not get any.</li>
   <li>My percentage ownership goes up and down dynamically. For example,</li>
   <div class="_center">
-  <img
-   src="/assets/img/recognitions-to-rads-equation.svg"
-   width="70%"
-   alt="">
+   <img
+    src="/assets/img/rads-fluctuations.svg"
+    width="70%"
+    alt="">
   </div>
   <li>If you have 200 <span class="_paradigm">RAD</span>s and I have 100, then you’ll get twice (revenue, assets, etc.) as me.</li>
  </ul>
