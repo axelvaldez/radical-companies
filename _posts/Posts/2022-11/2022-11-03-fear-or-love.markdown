@@ -51,7 +51,7 @@ image:    "icon-simple-fear-or-love.svg"
  </table>
 
 <h1>Guided by Love</h1>
- <p>I prefer to be guided by love. The kind that leads with trust. The kind that tries to understand the feelings behind the words said.<a href="#en02"><sup id="bm02">2&b&nbsp;</sup></a></p>
+ <p>I prefer to be guided by love. The kind that leads with trust. The kind that tries to understand the feelings behind the words said.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
  <p>Being guided by love is good for my wellbeing and those around me (like you).</p>
 
 <h1 class="_section">ENDNOTES</h1>
