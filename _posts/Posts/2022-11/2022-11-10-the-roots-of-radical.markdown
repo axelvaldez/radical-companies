@@ -14,7 +14,7 @@ image:    "icon-about-daos.svg"
  <p>We can’t drive to the future in a gas-powered car. We need a fundamentally different vehicle.</p>
 
 <h1>The FIAT World</h1>
- <p>The world is ruled by fiat—“because I say so.” The FIAT world we live in has worked in the sense that it has made things better for many of us. And it can never be just.</p>
+ <p>The world is ruled by fiat—“because I say so.” The FIAT world we live in has worked in the sense that it has made things better for many of us, but it can never be just.</p>
  <p>Think of it this way: trying to fix the FIAT model is like trying to get a gas car to consume less gas. You can tweak it, add heated seats, power mirrors, make it more gas efficient, or even make a gas-electric hybrid, but it will <em>always</em> be a gas car. No amount of tweaking will make it radically different. No gas, no work. </p>
  <p>The RADICAL model is like the all-electric car. It still looks like a car but it has a completely new infrastructure and it is fundamentally different. No gas, no problem.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
  <p>FIAT anchors us to the past and the RADICAL model will take us to the future.</p>
