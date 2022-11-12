@@ -31,10 +31,11 @@ image:    "icon-about-daos.svg"
   <li>Primitive capitalism maximizes enclosures and exploitation. What used to be for the use of nearby people is now private, for the exclusive use of the brute that forced all others to leave.</li>
   <li>This engenders class struggle and, oftentimes, bloody revolution. All the fighting is for naught and the system remains the same.</li>
   <li>Servitude, enclosure, and exploitation remain.</li>
-  <li>At one extreme we have the Russian and Chinese style dictatorships where the leader becomes the new owner of everything after purging out his former collaborators. Ownership becomes very, very centralized.</li>
-  <li>At the other extreme we have democracies where leaders are elected. Ownership becomes more fluid, but it stays centralized.</li>
+  <li>At one extreme we have the dictatorships where the leader becomes the new owner of everything after purging out his former collaborators and ownership becomes very, very centralized.</li>
+  <li>At the other extreme we have democracies where leaders are elected and ownership becomes more decentralized centralized, but it stays centralized in a few hands.</li>
   <li>Servitude, enclosure, and exploitation continue unabated.</li>
-  <li>Modern capitalism loosens up and moves humankind forward, but it remains unjust and exploitative by design. It also increases its ability to destroy people&rsquo;s life support system, even for the very people leading this destruction.</li>
+  <li>Modern capitalism loosens up and moves humankind forward, but it remains unjust and exploitative by design.</li>
+  <li>Modern capitalism also increases its ability to destroy people&rsquo;s life support system, even for the very people leading this destruction.</li>
  </ul>
  <p>This may be strange, but it is actually rational, given our <span class="_paradigm">FIAT</span> culture. We need a different culture if we want our anthropocene to survive.</p>
 
