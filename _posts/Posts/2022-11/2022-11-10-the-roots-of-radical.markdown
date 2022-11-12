@@ -40,7 +40,6 @@ image:    "icon-about-daos.svg"
 
 <h1>Co-Ownership</h1>
  <p>The RADICAL model is an alternative to FIAT. It is not a dogma, or a recipe, or a given set of practices or incantations. It describes a foundation that helps keep you aware of where your choices lead. You must then decide what to do.</p>
-
  <table>
   <tr>
    <td rowspan="3">FOUNDATION</td>
