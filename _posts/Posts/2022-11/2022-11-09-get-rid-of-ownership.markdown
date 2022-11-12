@@ -69,7 +69,7 @@ image:    "icon-get-rid-of-ownership.svg"
      width="50%"
      alt="">
    </div>
-   <li>If you have 200 <span class="_paradigm">RAD</span>s and I have 100, then you’ll get twice (revenue, assets, etc.) as me.</li>
+   <li>If you have 200 <span class="_paradigm">RAD</span>s and I have 100, then you’ll get twice (the revenue, assets, etc.) as me.</li>
   </ul>
 
 <h1 class="_section">ENDNOTES</h1>
