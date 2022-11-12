@@ -89,7 +89,7 @@ image:    "icon-about-daos.svg"
   <li id="en03">
    <p class="_list-item">
     <em>Cheating <span class="_paradigm">RAD</span>s</em>
-    <>
+    <https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
