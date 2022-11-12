@@ -11,7 +11,8 @@ image:    "icon-get-rid-of-ownership.svg"
 </div>
 
 <div class="_citation">
- Just get rid of ownership and everything will be fine.
+ <p>Just get rid of ownership and everything will be fine.</p>
+ <p id="_signature">A lot of well-intentioded people</p>
 </div>
 
 <h1>&nbsp;</h1>
