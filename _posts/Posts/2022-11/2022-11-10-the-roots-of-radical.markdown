@@ -7,11 +7,11 @@ image:    "icon-about-daos.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>We can’t drive to the future in a gas-powered car. We need a fundamentally different vehicle.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The world we have created is unjust and will never be otherwise. We can’t drive to the future in a gas-powered car. We need a fundamentally different vehicle.</p>
+ <p>We can’t drive to the future in a gas-powered car. We need a fundamentally different vehicle.</p>
 
 <h1>The FIAT World</h1>
  <p>The world is ruled by fiat—“because I say so.” The FIAT world we live in has worked in the sense that it has made things better for many of us. And it can never be just.</p>
