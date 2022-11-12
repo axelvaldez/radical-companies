@@ -13,7 +13,7 @@ image:    "icon-cheating-rads.svg"
 <h1>To Mend a Broken Heart</h1>
  <p>What happens when two or more people give each other all their RADs?</p>
  <p>Transparency happens.</p>
- <p>When they see it, it is up to co-owners to bring up this suspicious behavior, and things like it. with the people involved. I can&rsquo;t think of any, but there might be a good reason after all.</p>
+ <p>When they see it, it is up to co-owners to bring up this and any other suspicious behavior <em>with the people involved</em>. It will take new skills to bring this up in a curious, non-accusatory way, but it is a skill worth learning. After all, there might be a good reason for this suspicious-looking event.</p>
 
 <h1>Love</h1>
  <p>&ldquo;Hey, how come you have been giving each other 100% of your RADs?&rdquo;</p>
