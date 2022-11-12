@@ -82,21 +82,21 @@ image:    "icon-about-daos.svg"
   <li id="en02">
    <p class="_list-item">
     <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
-    <https://radicalcompanies.com/2022/10/24/google-goes-radical.html>
+    <<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
    <p class="_list-item">
     <em>Cheating <span class="_paradigm">RAD</span>s</em>
-    <https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html>
+    <<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en04">
    <p class="_list-item">
     <em>No Bonuses or Salaries</em>
-    <https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html>
+    <<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>>
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
