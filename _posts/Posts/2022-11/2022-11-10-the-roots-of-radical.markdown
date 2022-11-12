@@ -65,7 +65,7 @@ image:    "icon-about-daos.svg"
   <li>Will it make us more or less decentralized?</li>
   <li>Will it make it easier or harder to experiment?</li>
  </ul>
- <p>A fundamentally different infrastructure. Easy to remember and simple to live by.</p>
+ <p>A fundamentally different infrastructure. Simple, though not easy, to live by.</p>
 
 <h1>RADs!</h1>
  <p>Besides a foundation, we need tools to build the future that will nourish us and our life support system. In the same minimalist fashion, we came up with the <em>RADs!</em> application.</p>
