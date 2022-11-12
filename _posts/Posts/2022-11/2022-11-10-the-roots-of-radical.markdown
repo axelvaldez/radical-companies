@@ -42,7 +42,7 @@ image:    "icon-about-daos.svg"
  <p>The <span class="_paradigm">RADICAL</span> model is an alternative to <span class="_paradigm">FIAT</span>. It is not a dogma, or a recipe, or a given set of practices or incantations. It describes a foundation that helps keep you aware of where your choices lead. You must then decide what to do.</p>
  <table>
   <tr>
-   <td rowspan="3" style="width:1em; ">FOUNDATION</td>
+   <td rowspan="3" style="width:1em; font-size:7pt; ">F O U N D A T I O N</td>
    <th>Principles</th>
    <td>Meaning, Belonging</td>
   </tr>
