@@ -1,85 +1,81 @@
 ---
 layout:   post
-title:    "Get Rid of Ownership"
+title:    "The Roots of RADICAL"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-get-rid-of-ownership.svg"
+image:    "icon-about-daos.svg"
 ---
 
 <div style="display:none;">
- <p>&ldquo;Just get rid of ownership and everything will be fine.&rdquo; It&rsquo;s a recurring and dangerous fantasy. Ownership is actually a good thing, although we have taken it to an extreme.</p>
-</div>
-
-<div class="_citation">
- <p>Just get rid of ownership and everything will be fine.</p>
- <p id="_signature">A lot of well-intentioded people</p>
+ <p></p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Different version of this belief is eternal. &ldquo;&hellip; the simpler life&rdquo; &ldquo;&hellip; home grown food&rdquo; &ldquo;&hellip; the values of the indiginous people of the world.&rdquo; However, the various attempt at this ideal have not changed anything and we need a path to a sustainable future for our anthropocene. We need to break lose from our current system of extraction and exploitation.</p>
- <p>Ownership, although we have taken it to an extreme in our <span class="_paradigm">FIAT</span> world, is actually one of the tools that will move us forward. We simply need to decentralize it and make it available, really available, to everyone on the planet.</p>
+ <p>The world we have created is unjust and will never be otherwise. We can’t drive to the future in a gas-powered car. We need a fundamentally different vehicle.</p>
 
-<h1>Corporate Ownership is Bad</h1>
- <p>In our <span class="_paradigm">FIAT</span> world, what we call <em>corporate ownership</em> has been weaponized. For example, music is exploited for financial gain by squeezing every possible penny out of it; even your ideas belong to the company you happen to work for.</p>
- <p>To top it off, corporate ownership is fixed, forever.</p>
+<h1>The FIAT World</h1>
+ <p>The world is ruled by fiat—“because I say so.” The FIAT world we live in has worked in the sense that it has made things better for many of us. And it can never be just.</p>
+ <p>Think of it this way: trying to fix the FIAT model is like trying to get a gas car to consume less gas. You can tweak it, add heated seats, power mirrors, make it more gas efficient, or even make a gas-electric hybrid, but it will <em>always</em> be a gas car. No amount of tweaking will make it radically different. No gas, no work. </p>
+ <p>The RADICAL model is like the all-electric car. It still looks like a car but it has a completely new infrastructure and it is fundamentally different. No gas, no problem.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
+ <p>FIAT anchors us to the past and the RADICAL model will take us to the future.</p>
 
-<h1>Personal Ownership is Good</h1>
- <p>On the other hand, personal ownership<a href="#bm01"><sup id="en01">1&nbsp;</sup></a> is a good thing: this is my house, not yours; this is your toothbrush, not mine.</p>
- <p>We (mostly) don’t have to fight over it.</p>
-
-<h1>Fixed Ownership is Bad</h1>
- <p>The worst part of corporate ownership is that it is forever fixed, never changig. If you get 30% of a company, that 30% is yours forever. Your relatives can inherit it, for generations, just like Prince Charles became King of Britain after mommy Queen died, who became Queen after her dad died, who&hellip; you get the point.</p>
-
-<h1>Dynamic Ownership Is Good</h1>
- <p>The alternative to fixed ownership, based on force, is dynamic ownership, based on contributions.</p>
- <p>Our <em>RADs!</em> application makes it possible to quantify contributions.</p>
-
-<h1><span class="_paradigm">RAD</span>s!</h1>
+<h1>Based on Extraction</h1>
+ <p>The FIAT world is based on extraction,</p>
  <ul>
-  <li>Everybody gets the <em>RADs!</em> app.</li>
-  <li>We all use the app to recognize contributions as we see them.</li>
-  <li>Based on these <em>contributions</em>, the <em>RADs!</em> app calculates <em>how many</em> <span class="_paradigm">RAD</span>s each person gets.
-  <div class="_center">
-   <img
-    src="/assets/img/recognitions-to-rads-equation.svg"
-    width="70%"
-    alt="">
-  </div>
-  </li>
+  <li>My wellbeing is extracted from everybody else's wellbeing (servitude).</li>
+  <li>My wellbeing is determined by my (financial) wealth and my wealth is extracted from everybody else’s wealth (enclosure).</li>
+  <li>My wealth is grown from everybody else's labor (exploitation).</li>
  </ul>
+ <p>The injustice, and horror, that this mindset engenders is actually pretty predictable,</p>
  <ul>
-  <li>The number of <span class="_paradigm">RAD</span>s a person has determines the amount of ownership she has.</li>
-  <li>The number of <span class="_paradigm">RAD</span>s one has determines the amount of tangibles (<em>i.e.</em>, dividends, assets, brand, etc.) each person gets.</li>
+  <li>Primitive capitalism maximizes enclosures and exploitation. What used to be for the use of nearby people is now private, for the exclusive use of the brute that forced all others to leave.</li>
+  <li>This engenders class struggle and, oftentimes, bloody revolution. All the fighting is for naught and the system remains the same.</li>
+  <li>Servitude, enclosure, and exploitation remain.</li>
+  <li>At one extreme we have the Russian and Chinese style dictatorships where the leader becomes the new owner of everything after purging out his former collaborators. Ownership becomes very, very centralized.</li>
+  <li>At the other extreme we have democracies where leaders are elected. Ownership becomes more fluid, but it stays centralized.</li>
+  <li>Servitude, enclosure, and exploitation continue unabated.</li>
+  <li>Modern capitalism loosens up and moves humankind forward, but it remains unjust and exploitative by design. It also increases its ability to destroy people's life support system, even for the very people leading this destruction.</li>
  </ul>
- <p>Also,</p>
-  <ul>
-   <li><span class="_paradigm">RAD</span>s are a dimensionless unit of measure (<em>e.g.</em>, not a currency).</li>
-   <li>The recognition criteria is completely up to each person. This is what makes a decentralized distribution possible.</li>
-   <li>Every person gets the same number of <span class="_paradigm">RAD</span>s (<em>i.e.</em>, one per day).</li>
-   <li>Recognitions are translated to <span class="_paradigm">RAD</span>s.</li>
-   <li><span class="_paradigm">RAD</span>s are translated to tangibles.</li>
-  </ul>
- <p>And, also,</p>
-  <ul>
-   <li><span class="_paradigm">RAD</span>s represent dynamic ownership. One month I may get a lot of <span class="_paradigm">RAD</span>s, but next month I may not get any.</li>
-   <li>My percentage ownership goes up and down dynamically. For example,</li>
-   <div class="_center" style="margin-top:1em; ">
-    <img
-     src="/assets/img/rads-fluctuations.svg"
-     width="50%"
-     alt="">
-   </div>
-   <li>If you have 200 <span class="_paradigm">RAD</span>s and I have 100, then you’ll get twice (the revenue, assets, etc.) as me.</li>
->>>>>>> d6b8c7f9b4bf0968e8a25cfe0ca04ea62dae2e78
-  </ul>
+ <p>This may be strange, but it is actually rational, given our FIAT culture. We need a different culture if we want our anthropocene to survive.</p>
+
+<h1>Co-Ownership</h1>
+ <p>The RADICAL model is an alternative to FIAT. It is not a dogma, or a recipe, or a given set of practices or incantations. It describes a foundation that helps keep you aware of where your choices lead. You must then decide what to do.</p>
+
+ <table>
+  <tr>
+   <td rowspan="3">FOUNDATION</td>
+   <th>Principles</th>
+   <td>Meaning, Belonging</td>
+  </tr>
+  <tr>
+   <th>Commitments</th>
+   <td>Decentralization, Transparency</td>
+  </tr>
+  <tr>
+   <th>Practices</th>
+   <td>Explicit Alignment, Experimentation</td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
+  </tr>
+ </table>
+ <p>You can think of them as ranges,</p>
+ <ul>
+  <li>Will this decision make it more feasible for people to find meaning through what they do or not?</li>
+  <li>Will it make us more or less decentralized?</li>
+  <li>Will it make us more transparent or less?</li>
+ </ul>
+ <p>A fundamentally different infrastructure. Easy to remember and simple to live by.</p>
+
+<h1>RADs!</h1>
+ <p>Besides a foundation, we need tools to build the future that will nourish us and our life support system. In the same minimalist fashion, we came up with the <em>RADs!</em> application.</p>
+ <p>For more, see <em>Google Goes RADs</em>, <em>Cheating RADs</em>, and <em>No Bonuses or Salaries</em>.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
    <p class="_list-item">
-    Personal Property
-    <<a href="https://en.wikipedia.org/wiki/Personal_property">https://en.wikipedia.org/wiki/Personal_property</a>>.
-    Wikipedia.
+    I know I am being simplistic here, but it is a good, memorable analogy.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
