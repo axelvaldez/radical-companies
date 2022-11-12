@@ -68,7 +68,7 @@ image:    "icon-about-daos.svg"
 
 <h1>RADs!</h1>
  <p>Besides a foundation, we need tools to build the future that will nourish us and our life support system. In the same minimalist fashion, we came up with the <em>RADs!</em> application.</p>
- <p>For more, see <em>Google Goes RADs</em>, <em>Cheating RADs</em>, and <em>No Bonuses or Salaries</em>.</p>
+ <p>For more, see <em>Google Goes RAD</em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> <em>Cheating RADs</em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> and <em>No Bonuses or Salaries</em>.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
@@ -76,6 +76,27 @@ image:    "icon-about-daos.svg"
    <p class="_list-item">
     I know I am being simplistic here, but it is basically right and it is memorable.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    <em>Google Goes RAD</em>.
+    <>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    <em>Cheating RADs</em>
+    <>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item">
+    <em>No Bonuses or Salaries</em>
+    <>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
