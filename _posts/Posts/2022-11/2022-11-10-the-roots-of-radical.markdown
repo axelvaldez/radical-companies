@@ -69,7 +69,7 @@ image:    "icon-about-daos.svg"
 
 <h1>RADs!</h1>
  <p>Besides a foundation, we need tools to build the future that will nourish us and our life support system. In the same minimalist fashion, we came up with the <em>RADs!</em> application.</p>
- <p>For more, see <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> <em>Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a>, <em>No Bonuses or Salaries</em>,<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>, and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
+ <p>For more, see <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a>, <em>No Bonuses or Salaries</em>,<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>, and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
@@ -88,7 +88,7 @@ image:    "icon-about-daos.svg"
   </li>
   <li id="en03">
    <p class="_list-item">
-    <em>Cheating <span class="_paradigm">RAD</span>s</em>
+    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
     <<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
