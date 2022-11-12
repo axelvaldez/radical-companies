@@ -28,7 +28,7 @@ image:    "icon-get-rid-of-ownership.svg"
  <p>We (mostly) don’t have to fight over it.</p>
 
 <h1>Fixed Ownership is Bad</h1>
- <p>The worst part of what I am calling corporate ownership is that it is fixed, forever. If you get 30% of the company, that 30% is yours forever. Your relatives can inherit it, for generations, just like Prince Charles became King of Britain after mommy Queen died.</p>
+ <p>The worst part of corporate ownership is that it is forever fixed, never changig. If you get 30% of a company, that 30% is yours forever. Your relatives can inherit it, for generations, just like Prince Charles became King of Britain after mommy Queen died, who became Queen after her dad died, who&hellip; you get the point.</p>
 
 <h1>Dynamic Ownership Is Good</h1>
  <p>The alternative to fixed ownership, based on force, is dynamic ownership, based on contributions.</p>
