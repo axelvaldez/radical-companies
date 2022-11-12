@@ -14,7 +14,7 @@ image:    "icon-about-daos.svg"
  <p>We can’t drive to the future in a gas-powered car. We need a fundamentally different vehicle.</p>
 
 <h1>The <span class="_paradigm">FIAT</span> World</h1>
- <p>The world is ruled by fiat—“because I say so.” The <span class="_paradigm">FIAT</span> world we live in has worked in the sense that it has made things better for many of us, but it can never be just.</p>
+ <p>The world is ruled by fiat—&ldquo;because I say so.&rdquo; The <span class="_paradigm">FIAT</span> world we live in has worked in the sense that it has made things better for many of us, but it can never be just.</p>
  <p>Think of it this way: trying to fix the <span class="_paradigm">FIAT</span> model is like trying to get a gas car to consume less gas. You can tweak it, add heated seats, power mirrors, make it more gas efficient, or even make a gas-electric hybrid, but it will <em>always</em> be a gas car. No amount of tweaking will make it anything else. No gas, no work. </p>
  <p>The <span class="_paradigm">RADICAL</span> model is like the all-electric car. It still looks like a car but it has a completely new infrastructure and it is fundamentally different. No gas, no problem.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
  <p><span class="_paradigm">FIAT</span> anchors us to the past and the <span class="_paradigm">RADICAL</span> model will take us to the future.</p>
@@ -22,9 +22,9 @@ image:    "icon-about-daos.svg"
 <h1>Based on Extraction</h1>
  <p>The <span class="_paradigm">FIAT</span> world is based on extraction,</p>
  <ul>
-  <li>My wellbeing is extracted from everybody else's wellbeing (servitude).</li>
+  <li>My wellbeing is extracted from everybody else&rsquo;s wellbeing (servitude).</li>
   <li>My wellbeing is determined by my (financial) wealth and my wealth is extracted from everybody else’s wealth (enclosure).</li>
-  <li>My wealth is grown from everybody else's labor (exploitation).</li>
+  <li>My wealth is grown from everybody else&rsquo;s labor (exploitation).</li>
  </ul>
  <p>The injustice, and horror, that this mindset engenders is actually pretty predictable,</p>
  <ul>
@@ -34,7 +34,7 @@ image:    "icon-about-daos.svg"
   <li>At one extreme we have the Russian and Chinese style dictatorships where the leader becomes the new owner of everything after purging out his former collaborators. Ownership becomes very, very centralized.</li>
   <li>At the other extreme we have democracies where leaders are elected. Ownership becomes more fluid, but it stays centralized.</li>
   <li>Servitude, enclosure, and exploitation continue unabated.</li>
-  <li>Modern capitalism loosens up and moves humankind forward, but it remains unjust and exploitative by design. It also increases its ability to destroy people's life support system, even for the very people leading this destruction.</li>
+  <li>Modern capitalism loosens up and moves humankind forward, but it remains unjust and exploitative by design. It also increases its ability to destroy people&rsquo;s life support system, even for the very people leading this destruction.</li>
  </ul>
  <p>This may be strange, but it is actually rational, given our <span class="_paradigm">FIAT</span> culture. We need a different culture if we want our anthropocene to survive.</p>
 
