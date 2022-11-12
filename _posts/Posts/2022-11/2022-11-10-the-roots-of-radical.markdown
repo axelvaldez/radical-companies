@@ -63,7 +63,7 @@ image:    "icon-about-daos.svg"
  <ul>
   <li>Will this decision make it more feasible for people to find meaning through what they do or not?</li>
   <li>Will it make us more or less decentralized?</li>
-  <li>Will it make us more transparent or less?</li>
+  <li>Will it make it easier or harder to experiment?</li>
  </ul>
  <p>A fundamentally different infrastructure. Easy to remember and simple to live by.</p>
 
