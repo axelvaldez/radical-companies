@@ -49,7 +49,7 @@ image:    "icon-get-rid-of-ownership.svg"
  </ul>
  <ul>
   <li>The number of <span class="_paradigm">RAD</span>s a person has determines the amount of ownership she has.</li>
-  <li>The number of <span class="_paradigm">RAD</span>s one has determines the amount of tangibles one gets (<em>i.e.</em>, dividends, assets, brand, etc.) that each person gets.</li>
+  <li>The number of <span class="_paradigm">RAD</span>s one has determines the amount of tangibles (<em>i.e.</em>, dividends, assets, brand, etc.) each person gets.</li>
  </ul>
  <p>Also,</p>
   <ul>
