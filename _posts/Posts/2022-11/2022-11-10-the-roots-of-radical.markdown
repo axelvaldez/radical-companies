@@ -74,7 +74,7 @@ image:    "icon-about-daos.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    I know I am being simplistic here, but it is a good, memorable analogy.
+    I know I am being simplistic here, but it is basically right and it is memorable.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
