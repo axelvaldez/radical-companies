@@ -3,7 +3,7 @@ layout:   post
 title:    "The Roots of RADICAL"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-the-roots-of-radical.svg"
 ---
 
 <div style="display:none;">
