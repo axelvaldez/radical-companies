@@ -16,11 +16,12 @@ image:    "icon-get-rid-of-ownership.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>This fantasy goes on, and on, but it always ends up in the same system of servitude, extraction, and exploitation. Ownership is actually a good thing, although we have taken it to an extreme in our <span class="_paradigm">FIAT</span> world.</p>
+ <p>Different version of this&hellip; illusion is eternal. &ldquo;The simpler life&hellip; &rdquo; &ldquo;Eat only home grow food&hellip; &rdquo; &ldquo;The indiginous people values&hellip; &rdquo;. Unfortunately, it doesn't change things and we need a path to a sustainable future for our anthropocene. We need to break lose from the system of extraction and exploitation.</p>
+ <p>Although we have taken it to an extreme in our <span class="_paradigm">FIAT</span> world, ownership is actually one of the tools that will move us forward. We simply need to decentralize it and make it available, really available, to everyone on the planet.</p>
 
 <h1>Corporate Ownership is Bad</h1>
- <p>In our <span class="_paradigm">FIAT</span> world corporate ownership has been weaponized: music is exploited for financial gain; even your ideas belong to the company you happen to work for.</p>
- <p>Worse, corporate ownership is fixed, forever.</p>
+ <p>In our <span class="_paradigm">FIAT</span> world, what we call <em>corporate ownership</em> has been weaponized. For example, music is exploited for financial gain by squeezing every possible penny out of it; even your ideas belong to the company you happen to work for.</p>
+ <p>To top it off, corporate ownership is fixed, forever.</p>
 
 <h1>Personal Ownership is Good</h1>
  <p>On the other hand, personal ownership<a href="#bm01"><sup id="en01">1&nbsp;</sup></a> is a good thing: this is my house, not yours; this is your toothbrush, not mine.</p>
