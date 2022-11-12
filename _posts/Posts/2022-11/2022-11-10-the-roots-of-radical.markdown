@@ -28,13 +28,12 @@ image:    "icon-about-daos.svg"
  </ul>
  <p>The injustice, and horror, that this mindset engenders is actually pretty predictable,</p>
  <ul>
-  <li>Primitive capitalism maximizes enclosures and exploitation. What used to be for the use of nearby people is now private, for the exclusive use of the brute that forced all others to leave.</li>
+  <li>Primitive capitalism maximizes enclosures and exploitation. What used to be for the use of nearby people is now private, for the exclusive use of the brute who forced all others to leave. His wealth grows as he sells the harvest back to the people who used to own it and now work for a salary.</li>
   <li>This engenders class struggle and, oftentimes, bloody revolution. All the fighting is for naught and the system remains the same.</li>
-  <li>Servitude, enclosure, and exploitation remain.</li>
   <li>At one extreme we have the dictatorships where the leader becomes the new owner of everything after purging out his former collaborators and ownership becomes very, very centralized.</li>
   <li>At the other extreme we have democracies where leaders are elected and ownership becomes more decentralized centralized, but it stays centralized in a few hands.</li>
   <li>Servitude, enclosure, and exploitation continue unabated.</li>
-  <li>Modern capitalism loosens up and moves humankind forward, but it remains unjust and exploitative by design.</li>
+  <li>Modern capitalism loosens up and moves humankind forward, but it remains unjust and exploitative by design. &ldquo;There is prosperity but no peace.&rdquo;<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></li>
   <li>Modern capitalism also increases its ability to destroy people&rsquo;s life support system, even for the very people leading this destruction.</li>
  </ul>
  <p>This may be strange, but it is actually rational, given our <span class="_paradigm">FIAT</span> culture. We need a different culture if we want our anthropocene to survive.</p>
@@ -69,7 +68,7 @@ image:    "icon-about-daos.svg"
 
 <h1>RADs!</h1>
  <p>Besides a foundation, we need tools to build the future that will nourish us and our life support system. In the same minimalist fashion, we came up with the <em>RADs!</em> application.</p>
- <p>For more, see <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a>, <em>No Bonuses or Salaries</em>,<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>, and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
+ <p>For more, see <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>, <em>No Bonuses or Salaries</em>,<a href="#en05"><sup id="bm05">5&nbsp;</sup></a>, and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en06"><sup id="bm06">6&nbsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
@@ -81,30 +80,38 @@ image:    "icon-about-daos.svg"
   </li>
   <li id="en02">
    <p class="_list-item">
-    <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
-    <<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>>
+    Satyajit Hange
+    <em>LinkedIn Post</em>.
+    <<a href="https://radicals.world/4Ymqh8" target="_blank">https://radicals.world/4Ymqh8</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
    <p class="_list-item">
-    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
-    <<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>>
+    <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
+    <<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en04">
    <p class="_list-item">
-    <em>No Bonuses or Salaries</em>
-    <<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>>
+    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
+    <<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>>
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en05">
    <p class="_list-item">
     <em>No Bonuses or Salaries</em>
-    <<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>>
+    <<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>>
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en06">
+   <p class="_list-item">
+    <em>No Bonuses or Salaries</em>
+    <<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>>
+    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
