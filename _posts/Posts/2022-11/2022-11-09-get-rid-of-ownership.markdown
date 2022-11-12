@@ -16,7 +16,7 @@ image:    "icon-get-rid-of-ownership.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Different version of this belief is eternal. &ldquo;&hellip; the simpler life&hellip; &rdquo; &ldquo;&hellip; home grown food&hellip; &rdquo; &ldquo;&hellip; the values of the indiginous people of the world&hellip; &rdquo;. Unfortunately, it doesn't change things and we need a path to a sustainable future for our anthropocene. We need to break lose from our current system of extraction and exploitation.</p>
+ <p>Different version of this belief is eternal. &ldquo;&hellip; the simpler life&hellip; &rdquo; &ldquo;&hellip; home grown food&hellip; &rdquo; &ldquo;&hellip; the values of the indiginous people of the world&hellip; .&rdquo; Unfortunately, it doesn't change things and we need a path to a sustainable future for our anthropocene. We need to break lose from our current system of extraction and exploitation.</p>
  <p>Ownership, although we have taken it to an extreme in our <span class="_paradigm">FIAT</span> world, is actually one of the tools that will move us forward. We simply need to decentralize it and make it available, really available, to everyone on the planet.</p>
 
 <h1>Corporate Ownership is Bad</h1>
