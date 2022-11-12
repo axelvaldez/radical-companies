@@ -63,7 +63,7 @@ image:    "icon-get-rid-of-ownership.svg"
   <ul>
    <li><span class="_paradigm">RAD</span>s represent dynamic ownership. One month I may get a lot of <span class="_paradigm">RAD</span>s, but next month I may not get any.</li>
    <li>My percentage ownership goes up and down dynamically. For example,</li>
-   <div class="_center">
+   <div class="_center" style="margin-top:1em; ">
     <img
      src="/assets/img/rads-fluctuations.svg"
      width="50%"
