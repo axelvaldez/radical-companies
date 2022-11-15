@@ -38,7 +38,13 @@ image:    "icon-the-serpent-is-sensuality.svg"
  <p>In spite of it all, we are still here (good). However, we are destroying the human-friendly ecosystem that has nourished us and as it goes, our culture will collapse and all our progress will go with it (not so good).</p>
 
 <h1>People</h1>
- <p>Today, people can take it from here (with their tools, science and technology, in hand.</p>
+ <p>Today, people can take it from here. Complete people, with their sensuality and warm relationships. Adult people with their tools, science and technology, in hand. These people can take it from here.</p>
+ <p>We still need stories to inspire us. Stories to live full lives. Not stories to scare into nothingness, but stories to take us forward, along with our sensuality and all our other feelings that are part of our full lives.</p>
+ <p>We don&rsquo;t need to surrender our essence to a would-be boss. We will following somebody now and somebody else later and we will create leadership as we see fit and our needs change. This sounds like a lot of work, and it is.</p>
+ <p>We will need new skills—a lot—particularly communication skills. We will also need to deal with our fears. And trust, we need to learn to lead with trust.</p>
+ <p>On the other hand, we are well connected now with all corners of the world. This means that our ability to make or join communities is higher than ever.</p>
+ <p>Today, people won&rsquo;t need to submit their independence to a shaman&rsquo;s arbitraty say so. We can join with others anywhere in the world. We can take from here.</p>
+ <p>For more </p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
