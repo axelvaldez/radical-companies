@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "TEMPLATE"
+title:    "The (Revised) RADICAL Foundation"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-about-daos.svg"
@@ -11,41 +11,138 @@ image:    "icon-about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
+ <p>I have been thinking about the RADICAL foundation. In the RADICAL COMPANIES book we described it as,</p>
+ <table>
+  <tr>
+   <th>
+    <p>Principles</p>
+   </th>
+   <td>
+    <p>Meaning & Belonging</p>
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p>Commitments</p>
+   </th>
+   <td>
+    <p>Decentralization & Transparency</p>
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p>Practices</p>
+   </th>
+   <td>
+    <p>Explicit Alignment & Experimentation</p>
+   </td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
+  </tr>
+ </table>
+ <p>I have a minimalist bent and would have preferred to have three rather than six things to remember to live by. I can remember three things, but for six I have to make it a sing-song—even then, I forget.</p>
 
-<p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
+<h1>Meaning & Belonging</h1>
+ <p>I am not sure about these and whether one of them is implied by the other.</p>
+ <p>Belonging is key because Meaning is something we get primarily from “the others” in my community.</p>
+ <p>If I make a spear to fish, it becomes significant to myself next time I am hungry and I eat the fish that I caught with my spear. But when I see <em>somebody else</em> make a spear like mine to fish, that is when my expression becomes a contribution!</p>
+ <p>The individual, too, is <em>central</em> to the RADICAL model. In fact, an individual can belong to many communities at the same time and each will react to my individual’s expression differently, from “uh?” to “CONTRIBUTION!”</p>
+ <p>I now think that more basic that Meaning and Belonging is People. People as individuals and People in communities.</p>
 
-<!-- image -->
-<div class="_center">
- <img
-  src="/assets/img/pings-to-rads-equation.svg"
-  width="70%"
-  alt="">
- </div>
+<h1>Decentralization & Transparency</h1>
+ <p>I now believe that Transparency is redundant. At the completely decentralized end, there will be nobody in charge of keeping secrets and everything will be 100% transparent. On the way there people may consider keeping some things secret, but that person would be a boss (<em>i.e.</em>, even if “elected”).</p>
+ <p>With partial decentralization, the question would be, “Who is going to be the boss of a non-decentralized area? Who is going to be in charge of the area’s secrets!” Until you have a complete transition, somebody is going to be the boss of the area’s secrets. This “boss” could be a small committee that would last for six months or whatever, but so long as there are secrets, there is a boss.</p>
 
-<!-- foundation -->
-<table align="center">
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
- </tr>
- <tr>
-  <td style="height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
- </tr>
- <tr>
-  <td style="height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
- </tr>
- <tr>
-  <td class="_spacer_">&nbsp;</td>
- </tr>
-</table>
+<h1>Explicit Alignment & Experimentation</h1>
+ <p>I was never very happy with this combination. I now think that Experimentation is enough as a general practice; Explicit Alignment is just a tool.</p>
+
+<h1>RADICAL Tools (so Far)</h1>
+ <table>
+  <tr>
+   <th>
+    <p>RADs</p>
+   </th>
+   <td>
+    <p>This is the most general tool in that it can be used by any one community or an ensemble of communities</p>
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p>Explicit Agreement</p>
+   </th>
+   <td>
+    <p>This applies to a company</p>
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p>Trust Agreements</p>
+   </th>
+   <td>
+    <p>These apply to <em>individuals</em> as they enter a <em>community</em></p>
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p>Future Tools</p>
+   </th>
+   <td>
+    <p>Specialized and community-specific tools</p>
+   </td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
+  </tr>
+ </table>
+
+<h1>Revised RADICAL Foundation</h1>
+ <table>
+  <tr>
+   <th>
+    <p>Principle</p>
+   </th>
+   <td>
+    <p>People</p>
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p>Commitment</p>
+   </th>
+   <td>
+    <p>Decentralization</p>
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p>Practice</p>
+   </th>
+   <td>
+    <p>Experimentation</p>
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p>Tools</p>
+   </th>
+   <td>
+    <ul>
+     <li>RAD Distribution</li>
+     <li>Explicit Alignment</li>
+     <li>Trust Agreements</li>
+    </ul>
+   </td>
+  </tr>
+   <td>
+    <ul>
+     <li>Future Tools</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
+  </tr>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
