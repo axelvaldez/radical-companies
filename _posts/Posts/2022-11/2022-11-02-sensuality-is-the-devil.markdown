@@ -11,44 +11,34 @@ image:    "icon-the-serpent-is-sensuality.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>The serpent that tempted Eve to convince Adam to bite the apple, that snake, represents sensuality, a fundamental part of ourselves. But the effort to eliminate sensuality goes counter to a full life and the preservation of our lives.</p>
+ <p>The serpent that tempted Eve to convince Adam to bite the apple, <em>that snake</em>, represents sensuality, a fundamental part of ourselves. But the effort to restrict and deny sensuality goes counter to the preservation of our lives.</p>
 
 <h1>Bad for the survival of society</h1>
- <p>But why, oh why, was sensuality depicted as bad for the preservation of life? My guess is that early societies saw that sensuality led to the exhaustion of the young people who did the bulk of the work to feed the tribe. It also leads to the deaths of women and oftentimes the child. And, when things went well, it resulted in more mouths to feed. In summary, from their point of view, sensuality had a lot of negatives,</p>
+ <p>But why, oh why, was sensuality depicted as bad? My guess is that early societies saw that sensuality led to the exhaustion of the young people who did the bulk of the work to feed the tribe. It also lead to the deaths of young women and the pain of loss of a child. Even when things went well, sensuality resulted in more mouths to feed. From that point of view, sensuality had a lot of negatives,</p>
   <ul>
    <li>Work capacity loss.</li>
    <li>Potential loss of young people.</li>
    <li>The pain of loss.</li>
    <li>More mouths to feed.</li>
   </ul>
- <p>This was not good for those early societies. Sensuality was Satan! Several thousand years later, conditions have changed and the threat to life is the <em>lack of</em> sensuality and warm relationships.</p>
+ <p>This was not good for those early societies. However, conditions have changed and the threat to life is the <em>lack of</em> sensual, warm relationships. Denying aspects of ourselves has become so routine and expected that we are actually scared of living a full life and have adapted to livig limited lives.</p>
 
 <h1>Renouncing the Snake</h1>
- <p>Given that we don&rsquo;t know any different, let&rsquo;s assume that renouncing the sensuality-as-snake preserved and improved life. However, the scaffolding turned against the very impact we wanted to accomplish: we erected it to preserve human life, but the scaffolding just wanted to preserve its life.</p>
+ <p>Given that we don&rsquo;t know any better, let&rsquo;s assume that renouncing the sensuality-as-snake preserved and improved life. However, that cruff that build around it turned against us: we wanted to preserve human life, but the cruff just wanted to preserve <em>its</em> existence.</p>
 
 <h1>The Shaman is the Boss</h1>
- <p>The whole thing was implemented by people who came up with amazing stories that held people&rsquo;s attention and kept their tribe alive! They worked, they came alive, and they imposed their own purpose: to preserve its life.</p>
-
-<h1>Religion</h1> 
- <p>There have been many religions with many of these fantastic stories. They have kept us alive. They have sustained us, helped us bear the pain of illness and deaths, and contain the destructive powers of sensuality-as-satan. And they have done so by deciding who shall live and who may die,</p>
+ <p>The whole thing was implemented by the shaman, who came up with amazing stories that held people&rsquo;s attention. The stories worked and kept their tribe alive! Thank goodness for the shaman, power to the shaman. And, so, the storytellers became the boss. He declared himself the only one who could interpret the signs of the monotheistic god, the ultimate boss. Eventually, organized religion became weaponized, with the power to decide who lives and who dies,</p>
   <ul>
    <li>Men shall live, women may die.</li>
-   <li>Feudal lords and their families shall live, vassals may die.</li>
+   <li>Feudal lords shall live, vassals may die.</li>
    <li>Royalty shall live, common people may die.</li>
    <li>Powerful people shall live, everybody else may die.</li>
   </ul>
-
-<h1>Everything Else May Die</h1>
- <p>I really don&rsquo;t know when religious beliefs and practices turned against us. What we do know is that we are still here (good). We also know that the anthroposphere will collapse and our societies will go with it (not so good).</p>
-
-<h1>Democracy, Dictatorship, and Everying in Between</h1>
- <p>Religion gave way to <em>politics</em>. As the old religion-based systems went off center stage, politics thrived. Who shall live and who may die became more&hellip; fluid.</p>
-
-<h1>No Deification</h1>
- <p>The &ldquo;solution&rdquo; is not the deification of science and technology. Science and technology, yes, but their deification, no, no, no.</p>
+ <p>Organized religions forgot about the preservation of human life and became dedicated to preserving its existence.</p>
+ <p>In spite of it all, we are still here (good). However, we are destroying the human-friendly ecosystem that has nourished us and as it goes, our culture will collapse and all our progress will go with it (not so good).</p>
 
 <h1>People</h1>
- <p>Today, people can take it from here (with their science and technology in hand).</p>
+ <p>Today, people can take it from here (with their tools, science and technology, in hand.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
