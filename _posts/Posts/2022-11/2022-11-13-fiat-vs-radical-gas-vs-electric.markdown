@@ -14,23 +14,23 @@ image:    "icon-fiat-vs-radical-gas-vs-electric.svg"
  <p>The world we have created is unjust and will never be otherwise. We can’t drive to the future in a gas-powered car. We need a fundamentally different vehicle that won’t take us over the edge.</p>
 
 <h1>The <span claa="_paradigm">FIAT</span> World</h1>
- <p>The world is ruled by fiat (<em>i.e.</em>, “because I say so”). The <span claa="_paradigm">FIAT</span> world we live in has worked in the sense that it has made things better for many of us, but it can never be just.</p>
+ <p>The world is ruled by fiat (<em>i.e.</em>, &ldquo;because I say so&rdquo;). The <span claa="_paradigm">FIAT</span> world we live in has worked in the sense that it has made things better for many of us, but it can never be just.</p>
  <p>Trying to <em>fix</em> the <span claa="_paradigm">FIAT</span> model is like trying to get a gas car to consume no gas. You can make the car more efficient, or even make it a gas-electric hybrid, but it will <em>always</em> be a gasoline fueled car. No gas, no work. The RADICAL model is more like the all-electric car. It still looks like a car, but it is fundamentally different. No gas, no problem.</p>
  <p>The <span claa="_paradigm">FIAT</span> path will take us over the edge. The RADICAL one will take us to a more sustainable future.<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
 
 <h1>Based on Extraction</h1>
  <p>The <span claa="_paradigm">FIAT</span> world is based on extraction,</p>
  <ul>
-  <li>My wellbeing is extracted from everybody else's wellbeing (servitude).</li>
+  <li>My wellbeing is extracted from everybody else&rsquo;s wellbeing (servitude).</li>
   <li>My wellbeing is determined by my (financial) wealth and my wealth is extracted from everybody else’s wealth (enclosure).</li>
-  <li>My wealth is grown from everybody else's labor (exploitation).</li>
+  <li>My wealth is grown from everybody else&rsquo;s labor (exploitation).</li>
 </ul>
  <p>The injustice, and oftentimes horror, that this system engenders is actually pretty predictable,</p>
 <ul>
-  <li>It feeds on enclosures. What used to be for the use of regular people is now for the exclusive use of the brute who moved all others out by force. In modern times, the “force” can be gentle and pass unnoticed, but it is force nevertheless (<em>e.g.</em>, Meta/Facebook).</li>
+  <li>It feeds on enclosures. What used to be for the use of regular people is now for the exclusive use of the brute who moved all others out by force. In modern times, the &ldquo;force&rdquo; can be gentle and pass unnoticed, but it is force nevertheless (<em>e.g.</em>, Meta/Facebook).</li>
   <li>This divides people into what has come to be known as classes.</li>
   <li>Classes struggle and sometimes it ends up in bloody revolutions. All of these sacrifices end up ushering a new set of bosses.</li>
-  <li>At one end, it results in an absolute “leader” who aims to stay forever. At the other end, it ends up with elected “leaders.”</li>
+  <li>At one end, it results in an absolute &ldquo;leader&rdquo; who aims to stay forever. At the other end, it ends up with elected &ldquo;leaders.&rdquo;</li>
   <li>In both cases, big money calls the shots and the hierarchy remains.</li>
   <li>Ownership goes from more centralized to less, but it never gets completely decentralized.</li>
   <li>Servitude, enclosure, and exploitation continue unabated.</li>
@@ -40,7 +40,7 @@ image:    "icon-fiat-vs-radical-gas-vs-electric.svg"
  <p>This may be disagreeable, but it is actually rational, given our <span claa="_paradigm">FIAT</span> culture. We need a different system, like RADICAL, if we want to survive.</p>
 
 <h1>Centralization</h1>
- <p>The “bad guy” is not the capital system and not this or that form of government.</p>
+ <p>The &ldquo;bad guy&rdquo; is not the capital system and not this or that form of government.</p>
  <p>The bad guy <em>is</em> centralized ownership.</p>
 
 <h1>RADICAL Co-Ownership</h1>
