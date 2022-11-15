@@ -49,16 +49,16 @@ image:    "icon-about-daos.svg"
  </table>
  <p>I have a minimalist bent and would have preferred to have three rather than six things to remember. Any more than three things, I forget.</p>
 
-<h1>Meaning & Belonging</h1>
+<h1>People</h1>
  <p>I am not sure about these and whether one of them is implied by the other. Belonging is key because Meaning is something we get primarily from “the others” in my community. If I make a spear to fish, it becomes significant to myself next time I am hungry and I eat the fish that I caught with my spear. But when I see <em>somebody else</em> make a spear like mine to fish, that is when my expression becomes a contribution!</p>
  <p>The individual, too, is <em>central</em> to the <span claa="_paradigm">RADICAL</span> model. In fact, an individual can belong to many communities at the same time and each will react to my individual’s expression differently, from “uh?” to “CONTRIBUTION!”</p>
  <p>I now think that more basic than Meaning and Belonging is People. People as individuals and People in communities.</p>
 
-<h1>Decentralization & Transparency</h1>
+<h1>Decentralization</h1>
  <p>I now believe that Transparency is redundant. At the completely decentralized end, there will be nobody in charge of keeping secrets and everything will be 100% transparent. On the way there people may consider keeping some things secret, but that person would be a boss (<em>i.e.</em>, even if “elected”).</p>
  <p>With partial decentralization, the question would be, “Who is going to be the boss of a non-decentralized area? Who is going to be in charge of the area’s secrets!” Until you have a complete transition, somebody is going to be the boss of the area’s secrets. This “boss” could be a small committee that would last for six months or whatever, but so long as there are secrets, there is a boss.</p>
 
-<h1>Explicit Alignment & Experimentation</h1>
+<h1>Experimentation</h1>
  <p>I was never very happy with this combination. I now think that Experimentation is enough as a general practice; Explicit Alignment is just a tool.</p>
 
 <h1><span claa="_paradigm">RADICAL</span> Tools (so Far)</h1>
