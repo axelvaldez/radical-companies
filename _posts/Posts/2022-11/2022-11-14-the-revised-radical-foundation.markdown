@@ -7,8 +7,7 @@ image:    "icon-the-revised-radical-foundation.svg"
 ---
 
 <div style="display:none;">
- <p>I have been thinking about the RADICAL foundation. I would have preferred to have three rather than six things to remember.</p>
-
+ <p>I have been thinking about the RADICAL foundation. I would have preferred to have three rather than six things to remember.</p>xxx
 </div>
 
 <h1>&nbsp;</h1>
