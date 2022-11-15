@@ -11,7 +11,7 @@ image:    "icon-about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>I have been thinking about the RADICAL foundation. In the RADICAL COMPANIES book we described it as,</p>
+ <p>I have been thinking about the RADICAL foundation. In the <span class="_paradigm">RADICAL COMPANIES</span> book we described it as,</p>
  <table>
   <tr>
    <th>
@@ -53,7 +53,7 @@ image:    "icon-about-daos.svg"
  <p>I am not sure about these and whether one of them is implied by the other.</p>
  <p>Belonging is key because Meaning is something we get primarily from “the others” in my community.</p>
  <p>If I make a spear to fish, it becomes significant to myself next time I am hungry and I eat the fish that I caught with my spear. But when I see <em>somebody else</em> make a spear like mine to fish, that is when my expression becomes a contribution!</p>
- <p>The individual, too, is <em>central</em> to the RADICAL model. In fact, an individual can belong to many communities at the same time and each will react to my individual’s expression differently, from “uh?” to “CONTRIBUTION!”</p>
+ <p>The individual, too, is <em>central</em> to the <span claa="_paradigm">RADICAL</span> model. In fact, an individual can belong to many communities at the same time and each will react to my individual’s expression differently, from “uh?” to “CONTRIBUTION!”</p>
  <p>I now think that more basic that Meaning and Belonging is People. People as individuals and People in communities.</p>
 
 <h1>Decentralization & Transparency</h1>
@@ -63,11 +63,11 @@ image:    "icon-about-daos.svg"
 <h1>Explicit Alignment & Experimentation</h1>
  <p>I was never very happy with this combination. I now think that Experimentation is enough as a general practice; Explicit Alignment is just a tool.</p>
 
-<h1>RADICAL Tools (so Far)</h1>
+<h1><span claa="_paradigm">RADICAL</span> Tools (so Far)</h1>
  <table>
   <tr>
    <th>
-    <p>RADs</p>
+    <p><span claa="_paradigm">RAD</span>s</p>
    </th>
    <td>
     <p>This is the most general tool in that it can be used by any one community or an ensemble of communities</p>
@@ -102,7 +102,7 @@ image:    "icon-about-daos.svg"
   </tr>
  </table>
 
-<h1>Revised RADICAL Foundation</h1>
+<h1>Revised <span claa="_paradigm">RADICAL</span> Foundation</h1>
  <table>
   <tr>
    <th>
@@ -134,7 +134,7 @@ image:    "icon-about-daos.svg"
    </th>
    <td>
     <ul>
-     <li>RAD Distribution</li>
+     <li><span claa="_paradigm">RAD</span> Distribution</li>
      <li>Explicit Alignment</li>
      <li>Trust Agreements</li>
     </ul>
