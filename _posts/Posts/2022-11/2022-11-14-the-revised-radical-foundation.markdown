@@ -126,8 +126,6 @@ image:    "icon-about-daos.svg"
     <p>Experimentation</p>
    </td>
   </tr>
- </table>
- <table>
   <tr>
    <th>
     <p>Tools</p>
