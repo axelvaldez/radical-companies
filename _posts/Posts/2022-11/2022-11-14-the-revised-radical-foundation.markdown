@@ -7,7 +7,7 @@ image:    "icon-the-revised-radical-foundation.svg"
 ---
 
 <div style="display:none;">
- <p>I have been thinking about the RADICAL foundation and I think that it can be made tighter. Any more that three things, I forget.</p>
+ <p>I have been thinking about the RADICAL foundation and I think that it can be made tighter. Any more that three things, I forget (and many other people, too).</p>
 </div>
 
 <h1>&nbsp;</h1>
@@ -47,16 +47,16 @@ image:    "icon-the-revised-radical-foundation.svg"
    <td class="_spacer"></td>
   </tr>
  </table>
- <p>I have a minimalist bent and would have preferred to have three rather than six things to remember. Any more than three things, I forget.</p>
+ <p>I have a minimalist bent and would have preferred to have three rather than six things to remember. Any more than three things, I forget. And, from my own experience, many other people, too. I once asked serveral people, individually, if they remembered our values (we had five) and none of them could come up with more than three. Then I asked in small groups and we they up with with five, and sometime six, values. My point is that in order to live those values, you have to remember them and you won&rsquo;t, if they are more than three.</p>
 
 <h1>People</h1>
- <p>I am not sure about these and whether one of them is implied by the other. Belonging is key because Meaning is something we get primarily from “the others” in my community. If I make a spear to fish, it becomes significant to myself next time I am hungry and I eat the fish that I caught with my spear. But when I see <em>somebody else</em> make a spear like mine to fish, that is when my expression becomes a contribution!</p>
- <p>The individual, too, is <em>central</em> to the <span claa="_paradigm">RADICAL</span> model. In fact, an individual can belong to many communities at the same time and each will react to my individual’s expression differently, from “uh?” to “CONTRIBUTION!”</p>
+ <p>I am not sure about these and whether one of them is implied by the other. Belonging is key because Meaning is something we get primarily from &ldquo;the others&rdquo; in my community. If I make a spear to fish, it becomes significant to myself next time I am hungry and I eat the fish that I caught with my spear. But when I see <em>somebody else</em> make a spear like mine to fish, that is when my expression becomes a contribution!</p>
+ <p>The individual, too, is <em>central</em> to the <span claa="_paradigm">RADICAL</span> model. In fact, an individual can belong to many communities at the same time and each will react to my individual’s expression differently, from &ldquo;uh?&rdquo; to &ldquo;CONTRIBUTION!&rdquo;</p>
  <p>I now think that more basic than Meaning and Belonging is People. People as individuals and People in communities.</p>
 
 <h1>Decentralization</h1>
  <p>I now believe that Transparency is redundant. At the completely decentralized end, there will be nobody in charge of keeping secrets and everything will be 100% transparent. On the way there people may consider keeping some things secret, but that person would be a boss of those secrets.</p>
- <p>With partial decentralization, the question would be, “Who is going to be the boss of a non-decentralized area? Who is going to be in charge of the area’s secrets!” Until you have a complete transition, somebody is going to be the boss of the area’s secrets. This “boss” could be a small committee that would last for six months or whatever, but so long as there are secrets, there is a boss.</p>
+ <p>With partial decentralization, the question would be, &ldquo;Who is going to be the boss of a non-decentralized area? Who is going to be in charge of the area’s secrets!&rdquo; Until you have a complete transition, somebody is going to be the boss of the area’s secrets. This &ldquo;boss&rdquo; could be a small committee that would last for six months or whatever, but so long as there are secrets, there is a boss.</p>
 
 <h1>Experimentation</h1>
  <p>I was never very happy with this combination. I now think that Experimentation is enough as a general practice; Explicit Alignment is just a tool.</p>
