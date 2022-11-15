@@ -7,14 +7,14 @@ image:    "icon-the-roots-of-radical.svg"
 ---
 
 <div style="display:none;">
- <p>The world we have created is unjust and will never be otherwise. We can’t drive to the future in a gas-powered car. We need a fundamentally different vehicle that won’t take us over the edge.</p>
+ <p>We can’t drive to the future in a gas-powered car; it will take us over the edge. We need a fundamentally different vehicle.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The world we have created is unjust and will never be otherwise. We can’t drive to the future in a gas-powered car. We need a fundamentally different vehicle that won’t take us over the edge.</p>
+ <p>We can’t drive to the future in a gas-powered car; it will take us over the edge. We need a fundamentally different vehicle.</p>
 
 <h1>The <span claa="_paradigm">FIAT</span> World</h1>
- <p>The world is ruled by fiat (<em>i.e.</em>, &ldquo;because I say so&rdquo;). The <span claa="_paradigm">FIAT</span> world we live in has worked in the sense that it has made things better for many of us, but it can never be just.</p>
+ <p>The world is ruled by fiat (<em>i.e.</em>, &ldquo;because I say so&rdquo; with an implied &ldquo;or else&rdquo;). The <span claa="_paradigm">FIAT</span> world we live in has worked in the sense that it has made things better for many of us, but it can never be just.</p>
  <p>Trying to <em>fix</em> the <span claa="_paradigm">FIAT</span> model is like trying to get a gas car to consume no gas. You can make the car more efficient, or even make it a gas-electric hybrid, but it will <em>always</em> be a gasoline fueled car. No gas, no work. The <span class="_paradigm">RADICAL</span> model is more like the all-electric car. It still looks like a car, but it is fundamentally different. No gas, no problem.</p>
  <p>The <span claa="_paradigm">FIAT</span> path will take us over the edge. The <span class="_paradigm">RADICAL</span> one will take us to a more sustainable future.<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
 
