@@ -7,11 +7,11 @@ image:    "icon-the-revised-radical-foundation.svg"
 ---
 
 <div style="display:none;">
- <p>I have been thinking about the RADICAL foundation and I think that it can be made tighter. Any more that three things, I forget (and many other people, too).</p>
+ <p>I have been thinking about the <span class="_paradigm">RADICAL</span> foundation and I think that it can be made tighter. Any more that three things, I forget (and many other people, too).</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>I have been thinking about the RADICAL foundation. In the <span class="_paradigm">RADICAL COMPANIES</span> book we described it as,</p>
+ <p>I have been thinking about the <span class="_paradigm">RADICAL</span> foundation. In the <span class="_paradigm">RADICAL COMPANIES</span> book we described it as,</p>
   <table align="center">
    <tr>
     <th>principles&nbsp;&nbsp;</th>
