@@ -41,7 +41,7 @@ image:    "icon-about-daos.svg"
    <td class="_spacer"></td>
   </tr>
  </table>
- <p>I have a minimalist bent and would have preferred to have three rather than six things to remember to live by. I can remember three things, but for six I have to make it a sing-song—even then, I forget.</p>
+ <p>I have a minimalist bent and would have preferred to have three rather than six things to remember. Any more than three things, I forget.</p>
 
 <h1>Meaning & Belonging</h1>
  <p>I am not sure about these and whether one of them is implied by the other.</p>
