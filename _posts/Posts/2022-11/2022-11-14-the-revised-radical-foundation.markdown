@@ -12,41 +12,29 @@ image:    "icon-the-revised-radical-foundation.svg"
 
 <h1>&nbsp;</h1>
  <p>I have been thinking about the RADICAL foundation. In the <span class="_paradigm">RADICAL COMPANIES</span> book we described it as,</p>
- <table>
-  <tr>
-   <th>
-    <p>Principles</p>
-   </th>
-   <td>
-    <p>Meaning & Belonging</p>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>
-    <p>Commitments</p>
-   </th>
-   <td>
-    <p>Decentralization & Transparency</p>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>
-    <p>Practices</p>
-   </th>
-   <td>
-    <p>Explicit Alignment & Experimentation</p>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
- </table>
+  <table align="center">
+   <tr>
+    <th>principles&nbsp;&nbsp;</th>
+    <td style="background-color:#EEEEEE; ">Meaning & Belonging</td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td></td>
+   </tr>
+   <tr>
+    <th>commitments&nbsp;&nbsp;</th>
+    <td>Transparency & Decentralization</td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td></td>
+   </tr>
+   <tr>
+    <th>practices&nbsp;&nbsp;</tj>
+    <td style="background-color:#EEEEEE; ">Alignment & Experimentation</td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
+  </table>
  <p>I have a minimalist bent and would have preferred to have three rather than six things to remember. Any more than three things, I forget. And, from my own experience, many other people, too. I once asked serveral people, individually, if they remembered our values (we had five) and none of them could come up with more than three. Then I asked in small groups and we they up with with five, and sometime six, values. My point is that in order to live those values, you have to remember them and you won&rsquo;t, if they are more than three.</p>
 
 <h1>People</h1>
