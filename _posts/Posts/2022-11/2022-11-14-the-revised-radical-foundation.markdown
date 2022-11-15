@@ -140,6 +140,7 @@ image:    "icon-about-daos.svg"
     </ul>
    </td>
   </tr>
+  <tr>
    <th>
     <p></p>
    </th>
@@ -152,6 +153,7 @@ image:    "icon-about-daos.svg"
   <tr>
    <td class="_spacer"></td>
   </tr>
+ </table>
 
 <h1 class="_section">RELATED</h1>
  <ul>
