@@ -110,8 +110,6 @@ image:    "icon-about-daos.svg"
     <p>People</p>
    </td>
   </tr>
- </table>
- <table>
   <tr>
    <th>
     <p>Commitment</p>
@@ -120,8 +118,6 @@ image:    "icon-about-daos.svg"
     <p>Decentralization</p>
    </td>
   </tr>
- </table>
- <table>
   <tr>
    <th>
     <p>Practice</p>
@@ -144,6 +140,9 @@ image:    "icon-about-daos.svg"
     </ul>
    </td>
   </tr>
+   <th>
+    <p></p>
+   </th>
    <td>
     <ul>
      <li>Future Tools</li>
