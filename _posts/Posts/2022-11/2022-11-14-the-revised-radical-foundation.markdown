@@ -154,19 +154,6 @@ image:    "icon-about-daos.svg"
    <td class="_spacer"></td>
   </tr>
 
-<h1 class="_section">ENDNOTES</h1>
- <ol>
-  <li id="en01">
-   <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ol>
-
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
