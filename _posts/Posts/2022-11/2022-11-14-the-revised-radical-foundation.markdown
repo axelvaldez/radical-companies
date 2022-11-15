@@ -18,14 +18,14 @@ image:    "icon-the-revised-radical-foundation.svg"
     <td style="background-color:#EEEEEE; ">Meaning & Belonging</td>
    </tr>
    <tr>
-    <td class="_spacer"></td></td>
+    <td class="_spacer"></td>
    </tr>
    <tr>
     <th>commitments&nbsp;&nbsp;</th>
     <td>Transparency & Decentralization</td>
    </tr>
    <tr>
-    <td class="_spacer"></td></td>
+    <td class="_spacer"></td>
    </tr>
    <tr>
     <th>practices&nbsp;&nbsp;</tj>
