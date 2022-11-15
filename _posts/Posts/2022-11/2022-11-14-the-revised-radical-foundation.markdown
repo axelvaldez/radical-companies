@@ -55,7 +55,7 @@ image:    "icon-about-daos.svg"
  <p>I now think that more basic than Meaning and Belonging is People. People as individuals and People in communities.</p>
 
 <h1>Decentralization</h1>
- <p>I now believe that Transparency is redundant. At the completely decentralized end, there will be nobody in charge of keeping secrets and everything will be 100% transparent. On the way there people may consider keeping some things secret, but that person would be a boss (<em>i.e.</em>, even if “elected”).</p>
+ <p>I now believe that Transparency is redundant. At the completely decentralized end, there will be nobody in charge of keeping secrets and everything will be 100% transparent. On the way there people may consider keeping some things secret, but that person would be a boss of those secrets.</p>
  <p>With partial decentralization, the question would be, “Who is going to be the boss of a non-decentralized area? Who is going to be in charge of the area’s secrets!” Until you have a complete transition, somebody is going to be the boss of the area’s secrets. This “boss” could be a small committee that would last for six months or whatever, but so long as there are secrets, there is a boss.</p>
 
 <h1>Experimentation</h1>
