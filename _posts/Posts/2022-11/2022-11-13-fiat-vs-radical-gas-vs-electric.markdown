@@ -47,7 +47,9 @@ image:    "icon-the-roots-of-radical.svg"
  <p>The most important thing for our long-term survival is to decentralize ownership. And not for a few lucky people, but for everyone. I am not talking about tweaking a gas car, but creating an all-electric car.</p>
  <p>Maybe this was not possible earlier, but it is certainly possible now to distribute ownership without having somebody, like a boss, deciding how much to give and to whom.</p>
  <p>Today we can have everybody recognize contributions and determine ownership.</p>
- <p>For more, see
+
+<h1>For More</h1>
+ <p>See
                                 <em>Get Rid of Ownership</em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>
   <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>

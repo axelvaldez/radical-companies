@@ -44,7 +44,55 @@ image:    "icon-the-serpent-is-sensuality.svg"
  <p>We will need new skills—a lot—particularly communication skills. We will also need to deal with our fears. And trust, we need to learn to lead with trust.</p>
  <p>On the other hand, we are well connected now with all corners of the world. This means that our ability to make or join communities is higher than ever.</p>
  <p>Today, people won&rsquo;t need to submit their independence to a shaman&rsquo;s arbitraty say so. We can join with others anywhere in the world. We can take from here.</p>
- <p>For more </p>
+
+<h1>For More</h1>
+ <p>See
+                                <em>Get Rid of Ownership</em>,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
+  <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>
+   <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
+                              <em>No Bonuses or Salaries</em>,<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> and
+          <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a>
+ </p>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ol>
+ <ol>
+  <li id="en01">
+   <p class="_list-item">
+    <em>Get Rid of Ownership</em>.
+    <<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
+    <<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
+    <<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item">
+    <em>No Bonuses or Salaries</em>
+    <<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en05">
+   <p class="_list-item">
+    <em>No Bonuses or Salaries</em>
+    <<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>>
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ol>
 
 <h1 class="_section">RELATED</h1>
  <ul>
