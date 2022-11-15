@@ -22,12 +22,18 @@ image:    "icon-about-daos.svg"
    </td>
   </tr>
   <tr>
+   <td class="_spacer"></td>
+  </tr>
+  <tr>
    <th>
     <p>Commitments</p>
    </th>
    <td>
     <p>Decentralization & Transparency</p>
    </td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
   </tr>
   <tr>
    <th>
