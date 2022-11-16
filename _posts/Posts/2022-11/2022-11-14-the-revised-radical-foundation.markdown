@@ -60,8 +60,8 @@ image:    "icon-the-revised-radical-foundation.svg"
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <th>Explicit Agreement</th>
-   <td>This applies to a company</td>
+   <th>Explicit Alignment</th>
+   <td>This applies to a group of people working on a common project (<em>i.e.</em>, a company)</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
