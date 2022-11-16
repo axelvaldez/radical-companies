@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The <span style='font-size:smaller; font-family:cursive; '>(REVISED)</span> RADICAL Foundation"
+title:    "The <span style='font-size:smaller; font-family:cursive; '>(revised)</span> RADICAL Foundation"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-the-revised-radical-foundation.svg"
