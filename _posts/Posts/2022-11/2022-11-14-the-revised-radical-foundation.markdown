@@ -51,7 +51,7 @@ image:    "icon-the-revised-radical-foundation.svg"
  <p>I was never very happy with the combination of Explicit Alignment and Experimentation under Practices. I now think that Experimentation is <em>the</em> <span class="_paradigm">RADICAL</span> practice; Explicit Alignment is a tool&mdash;One that is key and absolutely necessary, but it&rsquo;s just a tool.</p>
 
 <h1><span claa="_paradigm">RADICAL</span> Tools (so Far)</h1>
- <table align="central">
+ <table align="center">
   <tr style="background-color:#EEEEEE; ">
    <th><span class="_paradigm">RAD</span>s</th>
    <td>This is the most general tool in that it can be used by any one community or an ensemble of communities</td>
@@ -83,7 +83,7 @@ image:    "icon-the-revised-radical-foundation.svg"
  </table>
 
 <h1>Revised <span claa="_paradigm">RADICAL</span> Foundation</h1>
- <table align="central">
+ <table align="center">
    <tr style="background-color:#EEEEEE; ">
    <th>Principle</th>
    <td>People</td>
