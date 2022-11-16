@@ -35,7 +35,7 @@ image:    "icon-the-revised-radical-foundation.svg"
     <td class="_spacer"></td>
    </tr>
   </table>
- <p>I have a minimalist bent and would have preferred to have three rather than six things to remember. Any more than three things, I forget. And, from my own experience, many other people, too. For example, on several ocassion I asked individuals if they remembered the company&rsquo;s values (<em>i.e.</em>, we had five), but none of them could come up with more than three. Then I asked in small groups and they came up with five, and sometime six, values. In order to live those values, you have to remember them and you won&rsquo;t if they are more than three.</p>
+ <p>But I have a minimalist bent and would have preferred to have three rather than six things to remember. Any more than three things, I forget. And, from my own experience, many other people, too. For example, on several ocassion I asked individuals if they remembered the company&rsquo;s values (<em>i.e.</em>, we had five), but none of them could come up with more than three. Then I asked in small groups and they came up with five, and sometime six, values. In order to live those values, you have to remember them and you won&rsquo;t if they are more than three.</p>
 
 <h1>People</h1>
  <p>I am not sure about which of Meaning and Belonging is implied by the other. Belonging is key because Meaning is something we get primarily from &ldquo;the others&rdquo; in my community. If I make a spear to fish, it becomes significant to myself next time I am hungry and I eat the fish that I caught with my spear. But when I see <em>somebody else</em> make a spear like mine to fish, that is when my expression becomes a contribution!</p>
