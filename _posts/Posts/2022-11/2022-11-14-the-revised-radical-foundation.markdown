@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The (Revised) RADICAL Foundation"
+title:    "The <span>(Revised)</span> RADICAL Foundation"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-the-revised-radical-foundation.svg"
