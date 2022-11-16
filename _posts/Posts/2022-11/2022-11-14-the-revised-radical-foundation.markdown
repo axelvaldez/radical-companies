@@ -45,7 +45,7 @@ image:    "icon-the-revised-radical-foundation.svg"
 
 <h1>Decentralization</h1>
  <p>Decentralization and Transparency <em>are</em> redundant. At the completely decentralized end, there will be nobody in charge of keeping secrets and everything will be 100% transparent. On the way there people may consider keeping some things secret, but that person would be a boss of those secrets.</p>
- <p>With partial decentralization, the questiwould be, &ldquo;Who is going to be the boss? Who is going to be in charge of the area&rsquo;s secrets?&rdquo; Until you have a complete transition, somebody is going to be the boss. Even if this is &ldquo;boss&rdquo; is a small committee with a term limit, so long as there are secrets, there is a boss.</p>
+ <p>With partial decentralization, the question would be, &ldquo;Who is going to be the boss? Who is going to be in charge of the area&rsquo;s secrets?&rdquo; Until you have a complete transition, somebody is going to be the boss. Even if this is &ldquo;boss&rdquo; is a small committee with a term limit, so long as there are secrets, there is a boss.</p>
 
 <h1>Experimentation</h1>
  <p>I was never very happy with the combination of Explicit Alignment and Experimentation under Practices. I now think that Experimentation is <em>the</em> <span class="_paradigm">RADICAL</span> practice; Explicit Alignment is a tool&mdash;One that is key and absolutely necessary, but it&rsquo;s just a tool.</p>
