@@ -44,7 +44,7 @@ image:    "icon-the-revised-radical-foundation.svg"
  <p>I now think that more basic than Meaning and Belonging is People. People as individuals and People in communities.</p>
 
 <h1>Decentralization</h1>
- <p>I now believe that Transparency and Decentralization are redundant. At the completely decentralized end, there will be nobody in charge of keeping secrets and everything will be 100% transparent. On the way there people may consider keeping some things secret, but that person would be a boss of those secrets.</p>
+ <p>Decentralization and Transparency <em>are</em> redundant. At the completely decentralized end, there will be nobody in charge of keeping secrets and everything will be 100% transparent. On the way there people may consider keeping some things secret, but that person would be a boss of those secrets.</p>
  <p>With partial decentralization, the questiwould be, &ldquo;Who is going to be the boss? Who is going to be in charge of the area&rsquo;s secrets?&rdquo; Until you have a complete transition, somebody is going to be the boss. Even if this is &ldquo;boss&rdquo; is a small committee with a term limit, so long as there are secrets, there is a boss.</p>
 
 <h1>Experimentation</h1>
