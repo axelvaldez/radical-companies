@@ -35,7 +35,7 @@ image:    "icon-the-revised-radical-foundation.svg"
    <td class="_spacer"></td>
   </tr>
  </table>
- <p>But I have a minimalist bent and would have preferred to have three rather than six things to remember. Any more than three things, I forget. And other people, too. For example, on several ocassion I asked individuals if they remembered the company&rsquo;s values (<em>i.e.</em>, we had five), but none of them could come up with more than two or three. Then I asked small groups and they came up with five, and sometime six, values. The thing is that in order to live any values, you have to remember them and you won&rsquo;t if they are more than three.</p>
+ <p>But I have a minimalist bent and would have preferred to have three rather than six things to remember. Any more than three things, I forget. And other people, too. For example, on several ocassion I asked individuals if they remembered the company&rsquo;s values (<em>i.e.</em>, we had five), but none of them could come up with more than two or three. Then I asked small groups and they came up with five values, but sometime six. The thing is that in order to live any values, you have to remember them and you won&rsquo;t if they are more than three.</p>
 
 <h1>People</h1>
  <p>I am not sure about how to separate Meaning and Belonging.</p>
