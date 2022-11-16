@@ -57,12 +57,21 @@ image:    "icon-the-revised-radical-foundation.svg"
    <td>This is the most general tool in that it can be used by any one community or an ensemble of communities</td>
   </tr>
   <tr>
+   <td class="_spacer"></td>
+  </tr>
+  <tr>
    <th>Explicit Agreement</th>
    <td>This applies to a company</td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
   </tr>
   <tr style="background-color:#EEEEEE; ">
    <th>Trust Agreements</th>
    <td>These apply to <em>individuals</em> as they enter a <em>community</em></td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
   </tr>
   <tr>
    <th>Future Tools</th>
