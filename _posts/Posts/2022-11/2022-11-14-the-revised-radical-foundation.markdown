@@ -75,7 +75,7 @@ image:    "icon-the-revised-radical-foundation.svg"
   </tr>
   <tr>
    <th>Future Tools</th>
-   <td>Specialized and community-specific tools</td>
+   <td>For example, specialized and community-specific tools</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
