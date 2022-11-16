@@ -82,7 +82,7 @@ image:    "icon-the-revised-radical-foundation.svg"
   </tr>
  </table>
 
-<h1>Revised <span claa="_paradigm">RADICAL</span> Foundation</h1>
+<h1>The Revised <span claa="_paradigm">RADICAL</span> Foundation</h1>
  <table align="center">
    <tr style="background-color:#EEEEEE; ">
    <th>Principle</th>
