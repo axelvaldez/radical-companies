@@ -102,6 +102,9 @@ image:    "icon-the-revised-radical-foundation.svg"
    <th>Practice</th>
    <td>Experimentation</td>
   </tr>
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
   <tr>
    <th>Tools</th>
    <td>
