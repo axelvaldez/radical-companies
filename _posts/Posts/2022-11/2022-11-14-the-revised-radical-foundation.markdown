@@ -12,29 +12,29 @@ image:    "icon-the-revised-radical-foundation.svg"
 
 <h1>&nbsp;</h1>
  <p>I have been thinking about the <span class="_paradigm">RADICAL</span> foundation. In the <span class="_paradigm">RADICAL COMPANIES</span> book we described it as,</p>
-  <table align="center">
-   <tr style="background-color:#EEEEEE; ">
-    <th>principles&nbsp;&nbsp;</th>
-    <td>Meaning & Belonging</td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>commitments&nbsp;&nbsp;</th>
-    <td>Transparency & Decentralization</td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr style="background-color:#EEEEEE; ">
-    <th>practices&nbsp;&nbsp;</th>
-    <td>Alignment & Experimentation</td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-  </table>
+ <table align="center">
+  <tr style="background-color:#EEEEEE; ">
+   <th>principles&nbsp;&nbsp;</th>
+   <td>Meaning & Belonging</td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
+  </tr>
+  <tr>
+   <th>commitments&nbsp;&nbsp;</th>
+   <td>Transparency & Decentralization</td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
+  </tr>
+  <tr style="background-color:#EEEEEE; ">
+   <th>practices&nbsp;&nbsp;</th>
+   <td>Alignment & Experimentation</td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
+  </tr>
+ </table>
  <p>But I have a minimalist bent and would have preferred to have three rather than six things to remember. Any more than three things, I forget. And, from my own experience, many other people, too. For example, on several ocassion I asked individuals if they remembered the company&rsquo;s values (<em>i.e.</em>, we had five), but none of them could come up with more than two or three. Then I asked in small groups and they came up with five, and sometime six, values. The thing is that in order to live those values, you have to remember them and you won&rsquo;t if they are more than three.</p>
 
 <h1>People</h1>
@@ -52,37 +52,21 @@ image:    "icon-the-revised-radical-foundation.svg"
 
 <h1><span claa="_paradigm">RADICAL</span> Tools (so Far)</h1>
  <table>
-  <tr>
-   <th>
-    <p><span claa="_paradigm">RAD</span>s</p>
-   </th>
-   <td>
-    <p>This is the most general tool in that it can be used by any one community or an ensemble of communities</p>
-   </td>
+  <tr style="background-color:#EEEEEE; ">
+   <th><span class="_paradigm">RAD</span>s</th>
+   <td>This is the most general tool in that it can be used by any one community or an ensemble of communities</td>
   </tr>
   <tr>
-   <th>
-    <p>Explicit Agreement</p>
-   </th>
-   <td>
-    <p>This applies to a company</p>
-   </td>
+   <th>Explicit Agreement</th>
+   <td>This applies to a company</td>
+  </tr>
+  <tr style="background-color:#EEEEEE; ">
+   <th>Trust Agreements</th>
+   <td>These apply to <em>individuals</em> as they enter a <em>community</em></td>
   </tr>
   <tr>
-   <th>
-    <p>Trust Agreements</p>
-   </th>
-   <td>
-    <p>These apply to <em>individuals</em> as they enter a <em>community</em></p>
-   </td>
-  </tr>
-  <tr>
-   <th>
-    <p>Future Tools</p>
-   </th>
-   <td>
-    <p>Specialized and community-specific tools</p>
-   </td>
+   <th>Future Tools</th>
+   <td>Specialized and community-specific tools</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
