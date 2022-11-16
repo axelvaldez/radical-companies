@@ -28,7 +28,7 @@ image:    "icon-the-revised-radical-foundation.svg"
     <td class="_spacer"></td>
    </tr>
    <tr>
-    <th>practices&nbsp;&nbsp;</tj>
+    <th>practices&nbsp;&nbsp;</th>
     <td style="background-color:#EEEEEE; ">Alignment & Experimentation</td>
    </tr>
    <tr>
