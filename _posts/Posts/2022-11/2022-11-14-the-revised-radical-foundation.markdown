@@ -76,39 +76,25 @@ image:    "icon-the-revised-radical-foundation.svg"
 <h1>Revised <span claa="_paradigm">RADICAL</span> Foundation</h1>
  <table>
    <tr style="background-color:#EEEEEE; ">
-   <th>
-    <p>Principle</p>
-   </th>
-   <td>
-    <p>People</p>
-   </td>
+   <th>Principle</th>
+   <td>People</td>
   </tr>
    <tr>
     <td class="_spacer"></td>
    </tr>
   <tr>
-   <th>
-    <p>Commitment</p>
-   </th>
-   <td>
-    <p>Decentralization</p>
-   </td>
+   <th>Commitment</th>
+   <td>Decentralization</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr style="background-color:#EEEEEE; ">
-   <th>
-    <p>Practice</p>
-   </th>
-   <td>
-    <p>Experimentation</p>
-   </td>
+   <th>Practice</th>
+   <td>Experimentation</td>
   </tr>
   <tr>
-   <th>
-    <p>Tools</p>
-   </th>
+   <th>Tools</th>
    <td>
     <ul>
      <li><span claa="_paradigm">RAD</span> Distribution</li>
@@ -118,9 +104,7 @@ image:    "icon-the-revised-radical-foundation.svg"
    </td>
   </tr>
   <tr>
-   <th>
-    <p></p>
-   </th>
+   <th></th>
    <td>
     <ul>
      <li>Future Tools</li>
