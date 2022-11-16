@@ -13,9 +13,9 @@ image:    "icon-the-revised-radical-foundation.svg"
 <h1>&nbsp;</h1>
  <p>I have been thinking about the <span class="_paradigm">RADICAL</span> foundation. In the <span class="_paradigm">RADICAL COMPANIES</span> book we described it as,</p>
   <table align="center">
-   <tr>
+   <tr style="background-color:#EEEEEE; ">
     <th>principles&nbsp;&nbsp;</th>
-    <td style="background-color:#EEEEEE; ">Meaning & Belonging</td>
+    <td>Meaning & Belonging</td>
    </tr>
    <tr>
     <td class="_spacer"></td>
@@ -27,9 +27,9 @@ image:    "icon-the-revised-radical-foundation.svg"
    <tr>
     <td class="_spacer"></td>
    </tr>
-   <tr>
+   <tr style="background-color:#EEEEEE; ">
     <th>practices&nbsp;&nbsp;</th>
-    <td style="background-color:#EEEEEE; ">Alignment & Experimentation</td>
+    <td>Alignment & Experimentation</td>
    </tr>
    <tr>
     <td class="_spacer"></td>
@@ -90,7 +90,7 @@ image:    "icon-the-revised-radical-foundation.svg"
 
 <h1>Revised <span claa="_paradigm">RADICAL</span> Foundation</h1>
  <table>
-  <tr>
+   <tr style="background-color:#EEEEEE; ">
    <th>
     <p>Principle</p>
    </th>
@@ -98,6 +98,9 @@ image:    "icon-the-revised-radical-foundation.svg"
     <p>People</p>
    </td>
   </tr>
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
   <tr>
    <th>
     <p>Commitment</p>
@@ -107,6 +110,9 @@ image:    "icon-the-revised-radical-foundation.svg"
    </td>
   </tr>
   <tr>
+   <td class="_spacer"></td>
+  </tr>
+  <tr style="background-color:#EEEEEE; ">
    <th>
     <p>Practice</p>
    </th>
