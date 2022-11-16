@@ -40,12 +40,12 @@ image:    "icon-the-revised-radical-foundation.svg"
 <h1>People</h1>
  <p>I am not sure about how to separate Meaning and Belonging.</p>
  <p>Belonging is key because Meaning is something we get primarily from &ldquo;the others&rdquo; in my community. If I make a spear to fish, it becomes significant to myself next time I am hungry and I eat the fish that I caught with my spear. But when I see <em>somebody else</em> make a spear like mine to fish, that is when my expression becomes a contribution!</p>
- <p>But the individual person is <em>central</em> to the <span claa="_paradigm">RADICAL</span> model. In fact, an individual can belong to many communities at the same time and each will react to my individual&rsquo;s expression differently, from &ldquo;uh?&rdquo; to &ldquo;CONTRIBUTION!&rdquo;</p>
+ <p>But the individual person is <em>central</em> to the <span claa="_paradigm">RADICAL</span> model. In fact, an individual can belong to many communities at the same time and each will react to my individual&rsquo;s expression in its own, inimitable way, from &ldquo;uh?&rdquo; to &ldquo;CONTRIBUTION!&rdquo;</p>
  <p>I now think that more basic than Meaning and Belonging is People. People as individuals and People in communities.</p>
 
 <h1>Decentralization</h1>
  <p>I now believe that Transparency and Decentralization are redundant. At the completely decentralized end, there will be nobody in charge of keeping secrets and everything will be 100% transparent. On the way there people may consider keeping some things secret, but that person would be a boss of those secrets.</p>
- <p>With partial decentralization, the question would be, &ldquo;Who is going to be the boss? Who is going to be in charge of the area&rsquo;s secrets?&rdquo; Until you have a complete transition, somebody is going to be the boss. Even if this is &ldquo;boss&rdquo; is a small committee with a term limit, so long as there are secrets, there is a boss.</p>
+ <p>With partial decentralization, the questiwould be, &ldquo;Who is going to be the boss? Who is going to be in charge of the area&rsquo;s secrets?&rdquo; Until you have a complete transition, somebody is going to be the boss. Even if this is &ldquo;boss&rdquo; is a small committee with a term limit, so long as there are secrets, there is a boss.</p>
 
 <h1>Experimentation</h1>
  <p>I was never very happy with the combination of Explicit Alignment and Experimentation under Practices. I now think that Experimentation is <em>the</em> <span class="_paradigm">RADICAL</span> practice; Explicit Alignment is a tool&mdash;One that is key and absolutely necessary, but it&rsquo;s just a tool.</p>
