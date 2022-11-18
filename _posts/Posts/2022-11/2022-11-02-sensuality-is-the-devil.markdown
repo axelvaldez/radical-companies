@@ -29,7 +29,7 @@ image:    "icon-the-serpent-is-sensuality.svg"
 <h1>The Shaman is the Boss</h1>
  <p>The whole thing was implemented by the shaman, who came up with amazing stories that held people&rsquo;s attention. The stories worked and kept their tribe alive!</p>
  <p>Thank goodness for the shamans. Power to the shamans.</p>
- <p>And, so, the storytellers became the boss hierarchy. They declared themselves the special ones, the only ones who could interpret the gods. But the gods must had a boss, the ultimate boss and the shaman were the only ones who could understand their signs.</p>
+ <p>And, so, the storytellers became the boss hierarchy. They declared themselves the special ones, the only ones who could interpret the gods. But the gods must had a boss, the ultimate boss and the shamans were the only ones who could understand their signs. And the shamans became all powerful.</p>
 
 <h1>The Power of Life and Death</h1>
  <p>Eventually, organized religion became weaponized, with the power to decide who lives and who dies,</p>
