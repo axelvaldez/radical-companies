@@ -70,11 +70,9 @@ image:    "icon-the-revised-radical-foundation.svg"
   <tr>
    <td class="_spacer"></td>
   </tr>
- </table>
- <table>
   <tr>
    <th>Explicit Alignment</th>
-   <td>This applies to a group of people working on a common project (<em>i.e.</em>, a company),</td>
+   <td>This applies to a group of people working on a common project (<em>i.e.</em>, a company),
     <div class="_center">
      <img
       src="/assets/img/en-alignment.svg"
@@ -86,8 +84,6 @@ image:    "icon-the-revised-radical-foundation.svg"
   <tr>
    <td class="_spacer"></td>
   </tr>
- </table>
- <table>
   <tr style="background-color:#EEEEEE; ">
    <th>Trust Agreements</th>
    <td>Inspired by J Kim Right&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>.</td>
@@ -95,8 +91,6 @@ image:    "icon-the-revised-radical-foundation.svg"
   <tr>
    <td class="_spacer"></td>
   </tr>
- </table>
- <table>
   <tr>
    <th>Future Tools</th>
    <td>There are going to be more tools in the future. For example, specialized and community-specific tools</td>
