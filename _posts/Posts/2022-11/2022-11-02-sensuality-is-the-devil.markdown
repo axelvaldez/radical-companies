@@ -41,10 +41,9 @@ image:    "icon-the-serpent-is-sensuality.svg"
  <p>Today, people can take it from here. Complete people, with their sensuality and warm relationships. Adult people with their tools, science and technology, in hand. These people can take it from here.</p>
  <p>We still need stories to inspire us. Stories to live full lives. Not stories to scare into nothingness, but stories to take us forward, along with our sensuality and all our other feelings that are part of our full lives.</p>
  <p>We don&rsquo;t need to surrender our essence to a so-called leader. Leadership is fluid and we <em>create</em> leadership by following somebody now and somebody else later as we see fit and our needs change. We don&rsquo;t need to submit to a would-be boss; we can keep our whole selves, our essence, thank you.</p>
- <p>If this sounds like a lot of work, and will be a lot of work.</p>
- <p>We will need new skills&mdash;a lot them, particularly communication skills. We will also need to let our fears out and let our trusted others help us with them. And trust, we need to learn to lead with trust.</p>
+ <p>If this sounds like a lot of work, and will be a lot of work. We will need new skills&mdash;a lot them, particularly communication skills. We will also need to let our fears out and let our trusted others help us with them. And we need to learn to lead with trust.</p>
  <p>On the other hand, we are well connected now with all corners of the world. This means that our ability to make or join communities is higher than ever.</p>
- <p>Today, people won&rsquo;t need to submit their independence to a shaman&rsquo;s arbitraty say so. We can join with others anywhere in the world. We can take from here.</p>
+ <p>We don&rsquo;t need to submit our essence to an arbitraty say so. We can join with others anywhere in the world. And we can take from here.</p>
 
 <h1>For More</h1>
  <p>See
