@@ -12,7 +12,7 @@ image:    "icon-the-revised-radical-foundation.svg"
 
 <h1>&nbsp;</h1>
  <p>I have been thinking about the <span class="_paradigm">RADICAL</span> foundation and I think that it is more complicated than it has to be; it can be made tighter and stronger.</p>
- <p>In the book <spane class="_paradigm">RADICAL COMPANIES</span>, we described the foundation like this,</p>
+ <p>In the book <span class="_paradigm">RADICAL COMPANIES</span>, we described the foundation like this,</p>
  <table align="center">
   <tr style="background-color:#EEEEEE; ">
    <th>principles&nbsp;&nbsp;</th>
