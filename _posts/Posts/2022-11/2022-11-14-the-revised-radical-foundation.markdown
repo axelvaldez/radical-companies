@@ -36,7 +36,7 @@ image:    "icon-the-revised-radical-foundation.svg"
    <td class="_spacer"></td>
   </tr>
  </table>
- <p>But I would have preferred to have three rather than six things to remember. Any more than three things, I forget. And other people, too. For example, on several ocassions I asked individuals if they remembered the company&rsquo;s values (<em>i.e.</em>, we had five), but none of them could come up with more than two or three. Then I asked small groups and they came up with five values and sometimes six. The thing is that in order to use values to guide your life, you have to remember them and you won&rsquo;t if they are more than three.</p>
+ <p>I would have preferred to have three rather than six things to remember. Any more than three things, I forget. And other people, too. For example, on several ocassions I asked individuals if they remembered the company&rsquo;s values (<em>i.e.</em>, we had five), but none of them could come up with more than two or three. Then I asked small groups and they came up with five values and sometimes six. The thing is that in order to use values to guide your life, you have to remember them and you won&rsquo;t if they are more than three.</p>
  <p>This post is about a revised <span class="_paradigm">RADICAL</span> foundation with one principle, one commitment, and one practice.</p>
 
 <h1>People</h1>
