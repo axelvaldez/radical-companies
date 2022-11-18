@@ -26,7 +26,7 @@ image:    "icon-the-serpent-is-sensuality.svg"
 <h1>Renouncing the Snake</h1>
  <p>Given that we don&rsquo;t know any better, let&rsquo;s assume that renouncing the sensuality-as-snake preserved and improved life. However, that cruff that build around it turned against us: we wanted to preserve human life, but the cruff just wanted to preserve <em>its</em> existence.</p>
 
-<h1>The Shaman is the Boss</h1>xxx
+<h1>The Shaman is the Boss</h1>
  <p>The whole thing was implemented by shamans, who came up with amazing stories that held people&rsquo;s attention. The spellbound stories worked and kept their tribe alive!</p>
  <p>Thank goodness for the shamans. Power to the shamans.</p>
  <p>And, so, the storytellers declared themselves the special ones, the only ones who could interpret the gods. But even the gods had a boss, the all-powerful boss, and the boss shaman was the only ones who could understand the signs of boss god. And with that, the top shamans became all powerful.</p>
