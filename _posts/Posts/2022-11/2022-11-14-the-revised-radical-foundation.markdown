@@ -72,7 +72,7 @@ image:    "icon-the-revised-radical-foundation.svg"
   </tr>
   <tr>
    <th>Explicit Alignment</th>
-   <td>This applies to a group of people working on a common project (<em>i.e.</em>, a company),
+   <td>This applies to a group of people working on a common project (<em>i.e.</em>, a company). However you express them, these are the key components,
     <div class="_center">
      <img
       src="/assets/img/en-alignment.svg"
