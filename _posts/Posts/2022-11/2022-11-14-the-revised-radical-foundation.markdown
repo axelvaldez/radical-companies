@@ -60,16 +60,18 @@ image:    "icon-the-revised-radical-foundation.svg"
   <tr style="background-color:#EEEEEE; ">
    <th><span class="_paradigm">RAD</span>s</th>
    <td>This is the most general tool in that it can be used by any one community or an ensemble of communities. For more, see,
-                                  <em>Get Rid of Ownership</em>,<a href="#en01"><sup id="bm02">2&nbsp;</sup></a>,
-    <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en02"><sup id="bm03">3&nbsp;</sup></a>,
-     <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en03"><sup id="bm04">4&nbsp;</sup></a>,
-                                <em>No Bonuses or Salaries</em>,<a href="#en04"><sup id="bm05">5&nbsp;</sup></a>
-        and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en05"><sup id="bm06">6&nbsp;</sup></a>
+                                  <em>Get Rid of Ownership</em>,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>,
+    <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>,
+     <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a>,
+                                <em>No Bonuses or Salaries</em>,<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
+        and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a>
    </td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>Explicit Alignment</th>
    <td>This applies to a group of people working on a common project (<em>i.e.</em>, a company),</td>
@@ -84,6 +86,8 @@ image:    "icon-the-revised-radical-foundation.svg"
   <tr>
    <td class="_spacer"></td>
   </tr>
+ </table>
+ <table>
   <tr style="background-color:#EEEEEE; ">
    <th>Trust Agreements</th>
    <td>Inspired by J Kim Right&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>.</td>
@@ -91,6 +95,8 @@ image:    "icon-the-revised-radical-foundation.svg"
   <tr>
    <td class="_spacer"></td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>Future Tools</th>
    <td>There are going to be more tools in the future. For example, specialized and community-specific tools</td>
@@ -106,29 +112,14 @@ image:    "icon-the-revised-radical-foundation.svg"
    <th>Principle</th>
    <td>People</td>
   </tr>
-  <!--
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-  -->
   <tr>
    <th>Commitment</th>
    <td>Decentralization</td>
   </tr>
-  <!--
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-  -->
   <tr style="background-color:#EEEEEE; ">
    <th>Practice</th>
    <td>Experimentation</td>
   </tr>
-  <!--
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-  -->
   <tr>
    <th>Tools</th>
    <td>
