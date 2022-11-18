@@ -7,11 +7,12 @@ image:    "icon-the-revised-radical-foundation.svg"
 ---
 
 <div style="display:none;">
- <p>I have been thinking about the <span class="_paradigm">RADICAL</span> foundation and I think that it can be made tighter. Any more than three things, I forget (and many other people, too).</p>
+ <p>I have been thinking about the <span class="_paradigm">RADICAL</span> foundation and I think that it is more complicated than it has to be; it can be made tighter and stronger.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>I have been thinking about the <span class="_paradigm">RADICAL</span> foundation. In the <span class="_paradigm">RADICAL COMPANIES</span> book we described it as,</p>
+ <p>I have been thinking about the <span class="_paradigm">RADICAL</span> foundation and I think that it is more complicated than it has to be; it can be made tighter and stronger.</p>
+ <p>In the book <spane class="_paradigm">RADICAL COMPANIES</span>, we described the foundation like this,</p>
  <table align="center">
   <tr style="background-color:#EEEEEE; ">
    <th>principles&nbsp;&nbsp;</th>
@@ -35,47 +36,62 @@ image:    "icon-the-revised-radical-foundation.svg"
    <td class="_spacer"></td>
   </tr>
  </table>
- <p>But I have a minimalist bent and would have preferred to have three rather than six things to remember. Any more than three things, I forget. And other people, too. For example, on several ocassion I asked individuals if they remembered the company&rsquo;s values (<em>i.e.</em>, we had five), but none of them could come up with more than two or three. Then I asked small groups and they came up with five values, but sometime six. The thing is that in order to live any values, you have to remember them and you won&rsquo;t if they are more than three.</p>
+ <p>But I would have preferred to have three rather than six things to remember. Any more than three things, I forget. And other people, too. For example, on several ocassions I asked individuals if they remembered the company&rsquo;s values (<em>i.e.</em>, we had five), but none of them could come up with more than two or three. Then I asked small groups and they came up with five values and sometimes six. The thing is that in order to use values to guide your life, you have to remember them and you won&rsquo;t if they are more than three.</p>
+ <p>This post is about a revised <span class="_paradigm">RADICAL</span> foundation with one principle, one commitment, and one practice.</p>
 
 <h1>People</h1>
- <p>I am not sure about how to separate Meaning and Belonging.</p>
- <p>Belonging is key because Meaning is something we get primarily from &ldquo;the others&rdquo; in my community. If I make a spear to fish, it becomes significant to myself next time I am hungry and I eat the fish that I caught with my spear. But when I see <em>somebody else</em> make a spear like mine to fish, that is when my expression becomes a contribution!</p>
- <p>But the individual person is <em>central</em> to the <span claa="_paradigm">RADICAL</span> model. In fact, an individual can belong to many communities at the same time and each will react to my individual&rsquo;s expression in its own, inimitable way, from &ldquo;uh?&rdquo; to &ldquo;CONTRIBUTION!&rdquo;</p>
- <p>I now think that more basic than Meaning and Belonging is People. People as individuals and People in communities.</p>
+ <p>Meaning and Belonging cannot be separated. Belonging is key to Meaning to the individual, but it is something we get primarily from &ldquo;the others&rdquo; in my community. If I make a spear to fish, it becomes significant to myself next time I am hungry and I eat the fish that I caught with my spear. But when I see <em>somebody else</em> make a spear like mine to fish, that is when my expression becomes a contribution!</p>
+ <p>More basic than Meaning and Belonging is <em>People</em>. People as individuals and People in communities.</p>
 
 <h1>Decentralization</h1>
- <p>Decentralization and Transparency <em>are</em> redundant. At the completely decentralized end, there will be nobody in charge of keeping secrets and everything will be 100% transparent. On the way there people may consider keeping some things secret, but that person would be a boss of those secrets.</p>
- <p>With partial decentralization, the question would be, &ldquo;Who is going to be the boss? Who is going to be in charge of the area&rsquo;s secrets?&rdquo; Until you have a complete transition, somebody is going to be the boss. Even if this is &ldquo;boss&rdquo; is a small committee with a term limit, so long as there are secrets, there is a boss.</p>
+ <p>Decentralization and Transparency <em>are</em> redundant.</p>
+ <p>At the completely decentralized end, there is nobody in charge of keeping secrets and everything will be 100% transparent. Completely decentralized means completely transparant.</p>
+ <p>On the way to full decentralization you may consider keeping some things secret. The person charged with keeping them would be a boss of those secrets. The question, then, would be, &ldquo;Who is going to be the boss? Who is going to be in charge of the area&rsquo;s secrets?&rdquo; No matter if this is a very nice person, or even if this is &ldquo;boss&rdquo; is a small, trusted committee with a term limit, so long as there are secrets, there is a boss.</p>
+ <p>To wit, decentralization is enough for a foundation because it implies transparency.</p>
 
 <h1>Experimentation</h1>
- <p>I was never very happy with the combination of Explicit Alignment and Experimentation under Practices. I now think that Experimentation is <em>the</em> <span class="_paradigm">RADICAL</span> practice; Explicit Alignment is a tool&mdash;One that is key and absolutely necessary, but it&rsquo;s just a tool.</p>
+ <p>I was never very happy with the combination of Explicit Alignment and Experimentation under Practices. I have now realized that Explicit Alignment is a tool&mdash;,one that is key and absolutely necessary, but it&rsquo;s just a tool. Experimentation, on the other hand, applies to every <span class="_paradigm">RADICAL</span> practice.</p>
 
-<h1><span claa="_paradigm">RADICAL</span> Tools (so Far)</h1>
+<h1><span claa="_paradigm">RADICAL</span> Tools</h1>
+ <p>Speaking of tools, these are the ones we have come up with so far,</p>
  <table align="center">
   <tr style="background-color:#EEEEEE; ">
    <th><span class="_paradigm">RAD</span>s</th>
-   <td>This is the most general tool in that it can be used by any one community or an ensemble of communities</td>
+   <td>This is the most general tool in that it can be used by any one community or an ensemble of communities. For more, see</p>
+                                  <em>Get Rid of Ownership</em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>,
+    <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a>,
+     <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>,
+                                <em>No Bonuses or Salaries</em>,<a href="#en05"><sup id="bm05">5&nbsp;</sup></a>
+        and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en06"><sup id="bm06">6&nbsp;</sup></a>
+   </td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr>
    <th>Explicit Alignment</th>
-   <td>This applies to a group of people working on a common project (<em>i.e.</em>, a company)</td>
+   <td>This applies to a group of people working on a common project (<em>i.e.</em>, a company),</td>
+    <div class="_center">
+     <img
+      src="/assets/img/en-alignment.svg"
+      width="70%"
+      alt="">
+    </div>
+   </td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr style="background-color:#EEEEEE; ">
    <th>Trust Agreements</th>
-   <td>These apply to <em>individuals</em> as they enter a <em>community</em></td>
+   <td>Inspired by J Kim Right&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>.</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr>
    <th>Future Tools</th>
-   <td>For example, specialized and community-specific tools</td>
+   <td>There are going to be more tools in the future. For example, specialized and community-specific tools</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
@@ -127,6 +143,46 @@ image:    "icon-the-revised-radical-foundation.svg"
    <td class="_spacer"></td>
   </tr>
  </table>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ol>
+ <ol>
+  <li id="en01">
+   <p class="_list-item">
+    <em>Get Rid of Ownership</em>.
+    <<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
+    <<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
+    <<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item">
+    <em>No Bonuses or Salaries</em>
+    <<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en05">
+   <p class="_list-item">
+    <em>No Bonuses or Salaries</em>
+    <<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>>
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ol>
 
 <h1 class="_section">RELATED</h1>
  <ul>
