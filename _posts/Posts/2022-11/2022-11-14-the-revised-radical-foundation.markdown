@@ -52,7 +52,7 @@ image:    "icon-the-revised-radical-foundation.svg"
  <p>Therefore, decentralization is enough for a foundation because it implies transparency.</p>
 
 <h1>Experimentation</h1>
- <p>I was never very happy with the combination of Explicit Alignment and Experimentation under Practices. I have now realized that Explicit Alignment is a tool &ndash; one that is key and absolutely necessary, but it&rsquo;s just a tool. Experimentation, on the other hand, applies to every <span class="_paradigm">RADICAL</span> practice.</p>
+ <p>I was never very happy with the combination of Explicit Alignment and Experimentation under Practices. I have now realized that Explicit Alignment is a tool &ndash; one that is key and absolutely necessary, but it&rsquo;s just a tool. Experimentation, on the other hand, applies to every practice.</p>
 
 <h1>Tools</h1>
  <p>Speaking of tools, this is what we&rsquo;ve come up, so far,</p>
