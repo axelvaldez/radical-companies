@@ -22,7 +22,33 @@ image:    "icon-about-daos.svg"
   alt="">
  </div>
 
-<!-- foundation -->
+<!-- new foundation -->
+<table align="center">
+ <tr>
+  <th>principles</th>
+  <td style="padding-left:1em; width:1.75in; background-color:#EEEEEE; ">People</td>
+ </tr>
+ <tr>
+ <tr>
+  <td class="_spacer"></td>
+ </tr>
+ <tr>
+  <th>commitments</th>
+  <td style="padding-left:1em; width:1.75in;background-color:#EEEEEE; ">Decentralization</td>
+ </tr>
+ <tr>
+  <td class="_spacer"></td>
+ </tr>
+ <tr>
+  <th>practices</th>
+  <td style="padding-left:1em; width:1.75in; background-color:#EEEEEE; ">Experimentation</td>
+ </tr>
+ <tr>
+  <td class="_spacer_"></td>
+ </tr>
+</table>
+ 
+<!-- old foundation
 <table align="center">
  <tr>
   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
@@ -46,6 +72,7 @@ image:    "icon-about-daos.svg"
   <td class="_spacer_">&nbsp;</td>
  </tr>
 </table>
+ -->
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
