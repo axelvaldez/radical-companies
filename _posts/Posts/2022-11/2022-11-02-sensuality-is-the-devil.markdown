@@ -21,7 +21,7 @@ image:    "icon-the-serpent-is-sensuality.svg"
    <li>The pain of loss.</li>
    <li>More mouths to feed.</li>
   </ul>
- <p>This was not good for those early societies. However, conditions have changed and the threat to life is the <em>lack of</em> sensual, warm relationships. Denying aspects of ourselves has become so routine and expected that we are actually scared of living a full life and have adapted to livig limited lives.</p>
+ <p>This was not good for those early societies. However, conditions have changed and the threat to life is the <em>lack of</em> sensual, warm relationships. Denying aspects of ourselves has become so routine and expected that we are actually scared of living a full life and have adapted to living limited lives.</p>
 
 <h1>Renouncing the Snake</h1>
  <p>Given that we don&rsquo;t know any better, let&rsquo;s assume that renouncing the sensuality-as-snake preserved and improved life. However, that cruff that build around it turned against us: we wanted to preserve human life, but the cruff just wanted to preserve <em>its</em> existence.</p>
@@ -40,8 +40,9 @@ image:    "icon-the-serpent-is-sensuality.svg"
 <h1>People</h1>
  <p>Today, people can take it from here. Complete people, with their sensuality and warm relationships. Adult people with their tools, science and technology, in hand. These people can take it from here.</p>
  <p>We still need stories to inspire us. Stories to live full lives. Not stories to scare into nothingness, but stories to take us forward, along with our sensuality and all our other feelings that are part of our full lives.</p>
- <p>We don&rsquo;t need to surrender our essence to a would-be boss. We will following somebody now and somebody else later and we will create leadership as we see fit and our needs change. This sounds like a lot of work, and it is.</p>
- <p>We will need new skills—a lot—particularly communication skills. We will also need to deal with our fears. And trust, we need to learn to lead with trust.</p>
+ <p>We don&rsquo;t need to surrender our essence to a so-called leader. Leadership is fluid and we <em>create</em> leadership by following somebody now and somebody else later as we see fit and our needs change. We don&rsquo;t need to submit to a would-be boss; we can keep our whole selves, our essence, thank you.</p>
+ <p>If this sounds like a lot of work, and will be a lot of work.</p>
+ <p>We will need new skills&mdash;a lot them, particularly communication skills. We will also need to let our fears out and let our trusted others help us. And trust, we need to learn to lead with trust.</p>
  <p>On the other hand, we are well connected now with all corners of the world. This means that our ability to make or join communities is higher than ever.</p>
  <p>Today, people won&rsquo;t need to submit their independence to a shaman&rsquo;s arbitraty say so. We can join with others anywhere in the world. We can take from here.</p>
 
