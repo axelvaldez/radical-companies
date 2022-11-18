@@ -92,7 +92,7 @@ image:    "icon-the-serpent-is-sensuality.svg"
   </li>
   <li id="en05">
    <p class="_list-item">
-    <em>Giving RADs</em></em>
+    <em>Giving RADs</em>
     <<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>>
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
