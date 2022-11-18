@@ -117,19 +117,11 @@ image:    "icon-the-revised-radical-foundation.svg"
   <tr>
    <th>Tools</th>
    <td>
-    <ul>
-     <li><span claa="_paradigm">RAD</span> Distribution</li>
-     <li>Explicit Alignment</li>
-     <li>Trust Agreements</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>
-    <ul>
-     <li>Future Tools</li>
-    </ul>
+    <span class="_paradigm">RAD</span> Distribution<br>
+    Explicit Alignment<br>
+    Trust Agreements<br>
+    <p class="_spacer"></p>
+    Future Tools
    </td>
   </tr>
   <tr>
