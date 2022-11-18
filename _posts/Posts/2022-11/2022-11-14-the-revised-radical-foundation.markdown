@@ -49,7 +49,7 @@ image:    "icon-the-revised-radical-foundation.svg"
  <p>Decentralization and Transparency <em>are</em> redundant.</p>
  <p>At the completely decentralized end, there is nobody in charge of keeping secrets and everything will be 100% transparent. Completely decentralized means completely transparent.</p>
  <p>On the way to full decentralization you may consider keeping some things secret. The person charged with keeping them would be a boss of those secrets. The question, then, would be, &ldquo;Who is going to be the boss? Who is going to be in charge of the area&rsquo;s secrets?&rdquo; No matter if this is a very nice person, or even if this is &ldquo;boss&rdquo; is a small, trusted committee with a term limit, so long as there are secrets, there is a boss.</p>
- <p>To wit, decentralization is enough for a foundation because it implies transparency.</p>
+ <p>Therefore, decentralization is enough for a foundation because it implies transparency.</p>
 
 <h1>Experimentation</h1>
  <p>I was never very happy with the combination of Explicit Alignment and Experimentation under Practices. I have now realized that Explicit Alignment is a tool&mdash;,one that is key and absolutely necessary, but it&rsquo;s just a tool. Experimentation, on the other hand, applies to every <span class="_paradigm">RADICAL</span> practice.</p>
