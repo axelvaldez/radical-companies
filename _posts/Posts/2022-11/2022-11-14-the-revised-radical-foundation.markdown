@@ -120,7 +120,6 @@ image:    "icon-the-revised-radical-foundation.svg"
     <span class="_paradigm">RAD</span> Distribution<br>
     Explicit Alignment<br>
     Trust Agreements<br>
-    <br>
     Future Tools&hellip;
    </td>
   </tr>
