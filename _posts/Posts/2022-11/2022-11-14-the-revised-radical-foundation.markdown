@@ -37,7 +37,7 @@ image:    "icon-the-revised-radical-foundation.svg"
   </tr>
  </table>
  <p>I would have preferred to have three rather than six things to remember. Any more than three things, I forget. And other people, too. For example, on several ocassions I asked individuals if they remembered the company&rsquo;s values (<em>i.e.</em>, we had five), but none of them could come up with more than two or three. Then I asked small groups and they came up four, five, and six values—they weren't sure. The thing is that in order to use values or anything else to guide your life, you have to remember them and you won&rsquo;t if they are more than three.</p>
- <p>At pivotal points, having a foundation will help you get oriented along the path you have chosen: Will this decision sopport us as people? Will it help us develop, and grow? Will it make us more centralized or more decentralized? Are we being too rigid or are we still learning from experimentation?</p>
+ <p>At pivotal points, having a foundation will help you get oriented along the path you have chosen: Will this action help us to develop and grow as people? Will this decision make us more centralized or more decentralized? Are we being too rigid or are we still learning from experimentation?</p>
  <p></p>
  <p>The remainder of this post is about a revised <span class="_paradigm">RADICAL</span> foundation with one principle, one commitment, and one practice.</p>
 
