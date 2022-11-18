@@ -31,7 +31,7 @@ image:    "icon-the-serpent-is-sensuality.svg"
  <p>Thank goodness for the shamans. Power to the shamans.</p>
  <p>And, so, the storytellers became the boss hierarchy. They declared themselves the special ones, the only ones who could interpret the gods. But the gods must have a boss, the ultimate boss. And the shaman were the only ones who could understand them.</p>
 
- <h1>The Power of Life and Death</h1>
+<h1>The Power of Life and Death</h1>
  <p>Eventually, organized religion became weaponized, with the power to decide who lives and who dies,</p>
   <ul>
    <li>Men shall live, women may die.</li>
