@@ -7,11 +7,11 @@ image:    "icon-the-roots-of-radical.svg"
 ---
 
 <div style="display:none;">
- <p>We can’t get to the future in a gas-powered car; we will go over the edge first. We need a fundamentally different vehicle.</p>
+ <p>We can’t get to the future in a gas-powered car; it will take us over the edge first. We need a fundamentally different vehicle.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>We can’t get to the future in a gas-powered car; we will go over the edge first. We need a fundamentally different vehicle.</p>
+ <p>We can’t get to the future in a gas-powered car; it will take us over the edge first. We need a fundamentally different vehicle.</p>
 
 <h1>The <span claa="_paradigm">FIAT</span> World</h1>
  <p>The world is ruled by fiat (<em>i.e.</em>, &ldquo;because I say so&rdquo; with an implied &ldquo;or else&rdquo;). The <span claa="_paradigm">FIAT</span> world we live in has worked in the sense that it has made things better for many of us, but it can never be just.</p>
