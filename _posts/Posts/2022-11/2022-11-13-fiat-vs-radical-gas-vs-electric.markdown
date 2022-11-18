@@ -96,7 +96,7 @@ image:    "icon-the-roots-of-radical.svg"
   </li>
   <li id="en06">
    <p class="_list-item">
-    <em>Giving RADs</em></em>
+    <em>Giving RADs</em>
     <<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>>
     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
