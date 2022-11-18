@@ -27,15 +27,20 @@ image:    "icon-the-serpent-is-sensuality.svg"
  <p>Given that we don&rsquo;t know any better, let&rsquo;s assume that renouncing the sensuality-as-snake preserved and improved life. However, that cruff that build around it turned against us: we wanted to preserve human life, but the cruff just wanted to preserve <em>its</em> existence.</p>
 
 <h1>The Shaman is the Boss</h1>
- <p>The whole thing was implemented by the shaman, who came up with amazing stories that held people&rsquo;s attention. The stories worked and kept their tribe alive! Thank goodness for the shaman, power to the shaman. And, so, the storytellers became the boss. He declared himself the only one who could interpret the signs of the monotheistic god, the ultimate boss. Eventually, organized religion became weaponized, with the power to decide who lives and who dies,</p>
+ <p>The whole thing was implemented by the shaman, who came up with amazing stories that held people&rsquo;s attention. The stories worked and kept their tribe alive!</p>
+ <p>Thank goodness for the shamans. Power to the shamans.</p>
+ <p>And, so, the storytellers became the boss hierarchy. They declared themselves the special ones, the only ones who could interpret the gods. But the gods must have a boss, the ultimate boss. And the shaman were the only ones who could understand them.</p>
+
+ <h1>The Power of Life and Death</h1>
+ <p>Eventually, organized religion became weaponized, with the power to decide who lives and who dies,</p>
   <ul>
    <li>Men shall live, women may die.</li>
    <li>Feudal lords shall live, vassals may die.</li>
    <li>Royalty shall live, common people may die.</li>
    <li>Powerful people shall live, everybody else may die.</li>
   </ul>
- <p>Organized religions forgot about the preservation of human life and became dedicated to preserving its existence.</p>
- <p>In spite of it all, we are still here (good). However, we are destroying the human-friendly ecosystem that has nourished us and as it goes, our culture will collapse and all our progress will go with it (not so good).</p>
+ <p>Organized religions became dedicated to preserving their existence.</p>
+ <p>In spite of it all, we are still here (GOOD). However, we are destroying the human-friendly ecosystem that has nourished us and as it goes, our culture will collapse and all our progress will go with it (NOT SO GOOD).</p>
 
 <h1>People</h1>
  <p>Today, people can take it from here. Complete people, with their sensuality and warm relationships. Adult people with their tools, science and technology, in hand. These people can take it from here.</p>
