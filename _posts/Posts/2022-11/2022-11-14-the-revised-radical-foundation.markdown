@@ -106,23 +106,29 @@ image:    "icon-the-revised-radical-foundation.svg"
    <th>Principle</th>
    <td>People</td>
   </tr>
+  <!--
    <tr>
     <td class="_spacer"></td>
    </tr>
+  -->
   <tr>
    <th>Commitment</th>
    <td>Decentralization</td>
   </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
+  <!--
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
+  -->
   <tr style="background-color:#EEEEEE; ">
    <th>Practice</th>
    <td>Experimentation</td>
   </tr>
+  <!--
    <tr>
     <td class="_spacer"></td>
    </tr>
+  -->
   <tr>
    <th>Tools</th>
    <td>
