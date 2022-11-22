@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "icon-DAOs: Not Decentralized, Not Autonomous"
+title:    "DAOs: Not Decentralized, Not Autonomous"
 subtitle: ""
 authors:  "Matt Perez"
 image:    "icon-about-daos.svg"
