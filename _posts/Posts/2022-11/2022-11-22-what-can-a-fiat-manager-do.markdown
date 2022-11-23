@@ -20,31 +20,7 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
  <p>But building a <span class="_paradigm">RADICAL</span> company from scratch is a hack. Most people work in <span class="_paradigm">FIAT</span> businesses. So, what can <em>they</em> do? Can they adopt some of the <span class="_paradigm">RADICAL</span> practices? Can they get away with it?</p>
 
 <h1><span class="_paradigm">RADICAL</span> in Small Bites</h1>
- <p>First let’s remember what <span class="_paradigm">RADICAL</span> is rooted on,</p>
-  <table align="center">
-   <tr>
-    <th>principles</th>
-    <td style="padding-left:1em; width:1.75in; background-color:#EEEEEE; ">People</td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>commitments</th>
-    <td style="padding-left:1em; width:1.75in;background-color:#EEEEEE; ">Decentralization</td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>practices</th>
-    <td style="padding-left:1em; width:1.75in; background-color:#EEEEEE; ">Experimentation</td>
-   </tr>
-   <tr>
-    <td class="_spacer_"></td>
-   </tr>
-  </table>
- <p>If you are a manager in a <span class="_paradigm">FIAT</span> environment, then implementing some <span class="_paradigm">RADICAL</span> practices can be fairly easy because what you say goes. You later tell your boss and HR what you want; you can even tell them that it is just a clever <span class="_paradigm">FIAT</span> trick.</p>
+ <p>If you are a manager in a <span class="_paradigm">FIAT</span> environment, then implementing some <span class="_paradigm">RADICAL</span> practices can be fairly easy because what you say, goes. You later tell your boss and HR what you want; you can even tell them that it is just a clever <span class="_paradigm">FIAT</span> trick.</p>
 
 <h1>Bonuses</h1>
  <p>As a <span class="_paradigm">FIAT</span> boss, you’ve seen the reviews, you’ve used HR’s point scale to rank employees. You have gone through the process many times and you know it doesn’t work. You also know that is not satisfying.</p>
