@@ -26,21 +26,21 @@ image:    "icon-about-daos.svg"
  <table align="center">
   <tr>
    <th>principles</th>
-   <td style="padding-left:1em; width:1.75in; background-color:#EEEEEE; ">People</td>
+   <td style="padding-right:1em; width:1.75in; background-color:#EEEEEE; ">People</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr>
    <th>commitments</th>
-   <td style="padding-left:1em; width:1.75in;background-color:#EEEEEE; ">Decentralization</td>
+   <td style="padding-right:1em; width:1.75in;background-color:#EEEEEE; ">Decentralization</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr>
    <th>practices</th>
-   <td style="padding-left:1em; width:1.75in; background-color:#EEEEEE; ">Experimentation</td>
+   <td style="padding-right:1em; width:1.75in; background-color:#EEEEEE; ">Experimentation</td>
   </tr>
   <tr>
    <td class="_spacer_"></td>

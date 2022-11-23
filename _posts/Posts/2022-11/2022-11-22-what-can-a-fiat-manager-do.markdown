@@ -11,6 +11,30 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
 </div>
 
 <h1>&nbsp;</h1>
+ <table align="center">
+  <tr>
+   <th>principles</th>
+   <td style="padding-right:1em; width:1.75in; background-color:#EEEEEE; ">People</td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
+  </tr>
+  <tr>
+   <th>commitments</th>
+   <td style="padding-right:1em; width:1.75in;background-color:#EEEEEE; ">Decentralization</td>
+  </tr>
+  <tr>
+   <td class="_spacer"></td>
+  </tr>
+  <tr>
+   <th>practices</th>
+   <td style="padding-right:1em; width:1.75in; background-color:#EEEEEE; ">Experimentation</td>
+  </tr>
+  <tr>
+   <td class="_spacer_"></td>
+  </tr>
+ </table>
+
  <p>We talk a lot about starting <span class="_paradigm">RADICAL</span> companies. This is the easy way out for us, the authors, because we find starting companies to be straightforward,</p>
   <ul>
    <li>Matt quickly adapted to the startup culture in Silicon Valley</li>
