@@ -28,7 +28,7 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
  <p>Employees know that you decision is based on who you like as much as anything else, and they compete with each other to bias your affections. That sort of politicking is poisonous to collaboration.</p>
  <p>Instead, you share the RADs! application with your team. They can reward each other for what they see as a contribution. Then you don’t have to sweat it and you base your bonus allocation on the <span class="_paradigm">RAD</span> distribution. Is this subversive? Yes! But, is it good? Hell, yeah. But just imagine how you and your team will feel by the end of this process.</p>
 
-<h1>Virtual <span class="_paradigm">RADICAL</span></h1>xxx
+<h1>Virtual <span class="_paradigm">RADICAL</span></h1>
  <p>In software, there is the concept of a virtual machine, where you can emulate one computer inside another computer system. For example, you could run the Linux operating system inside MS Windows, or vice versa. The software handles it.</p>
  <p>Similarly, you run <span class="_paradigm">RADICAL</span> inside a <span class="_paradigm">FIAT</span> organization.</p>
  <p>Deploying <span class="_paradigm">RADICAL</span> wherever it can be run, will lead to more adoption. Mistakes will be made. You’ll have to discuss what seems to you like the same topic over and over. Somebody will run to HR to find out their take on this <span class="_paradigm">RAD</span> thing and it may tank it before it gets a chance to work. You may even get fired over it.</p>
