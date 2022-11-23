@@ -11,29 +11,6 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <table align="center">
-  <tr>
-   <th>principles</th>
-   <td class="_foundation">People</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>commitments</th>
-   <td class="_foundation">Decentralization</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>practices</th>
-   <td class="_foundation">Experimentation</td>
-  </tr>
-  <tr>
-   <td class="_spacer_"></td>
-  </tr>
- </table>
  <p>We talk a lot about starting <span class="_paradigm">RADICAL</span> companies. This is the easy way out for us, the book&rsquo;s authors,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> because we find starting companies to be straightforward,</p>
   <ul>
    <li>Matt quickly adapted to the startup culture in Silicon Valley</li>
@@ -51,11 +28,11 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
  <p>Employees know that you decision is based on who you like as much as anything else, and they compete with each other to bias your affections. That sort of politicking is poisonous to collaboration.</p>
  <p>Instead, you share the RADs! application with your team. They can reward each other for what they see as a contribution. Then you don’t have to sweat it and you base your bonus allocation on the <span class="_paradigm">RAD</span> distribution. Is this subversive? Yes! But, is it good? Hell, yeah. But just imagine how you and your team will feel by the end of this process.</p>
 
-<h1>Virtual <span class="_paradigm">RADICAL</span></h1>
+<h1>Virtual <span class="_paradigm">RADICAL</span></h1>xxx
  <p>In software, there is the concept of a virtual machine, where you can emulate one computer inside another computer system. For example, you could run the Linux operating system inside MS Windows, or vice versa. The software handles it.</p>
  <p>Similarly, you run <span class="_paradigm">RADICAL</span> inside a <span class="_paradigm">FIAT</span> organization.</p>
  <p>Deploying <span class="_paradigm">RADICAL</span> wherever it can be run, will lead to more adoption. Mistakes will be made. You’ll have to discuss what seems to you like the same topic over and over. Somebody will run to HR to find out their take on this <span class="_paradigm">RAD</span> thing and it may tank it before it gets a chance to work. You may even get fired over it.</p>
- <p>On the other hand, the arbitrary nature of management actually works in your favor. “I’m in charge of this team, so I can do whatever I want.” You could “clear” with your boss and tell him that you are going to try to offload some of your work onto your employees (suckers). </p>
+ <p>On the other hand, the arbitrary nature of management actually works in your favor. “I’m in charge of this team, so I can do whatever I want.” You could &ldquo;clear it&rdquo; with your boss and tell him that you are going to try to offload some of your work onto your employees (suckers). </p>
  <p>Whatever you do, try this and help the adoption of the <span class="_paradigm">RADICAL</span> model. It will be good for you and the world.</p>
 
 <h1 class="_section">ENDNOTES</h1>
