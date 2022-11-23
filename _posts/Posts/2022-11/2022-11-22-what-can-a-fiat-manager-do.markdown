@@ -7,7 +7,7 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
 ---
 
 <div style="display:none;">
- <p>Since a <span class="_paradigm">FIAT</span> manager can do anything she wants with his team, she can experiment with <span class="_paradigm">RADICAL</span> practices and say they are just a &ldquo;clever&rdquo; <span class="_paradigm">FIAT</span> technique.</p>
+ <p>Since a <span class="_paradigm">FIAT</span> manager can do anything she wants with her team, she can experiment with <span class="_paradigm">RADICAL</span> practices. She can always say they are just a &ldquo;clever&rdquo; <span class="_paradigm">FIAT</span> technique to lessen her load.</p>
 </div>
 
 <h1>&nbsp;</h1>
