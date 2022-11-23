@@ -33,7 +33,7 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
  <p>In software, there is the concept of a virtual machine, where you can emulate one computer inside another computer system. For example, you could run the Linux operating system inside MS Windows, or vice versa. The software handles it.</p>
  <p>Similarly, you run <span class="_paradigm">RADICAL</span> inside a <span class="_paradigm">FIAT</span> organization.</p>
  <p>Deploying <span class="_paradigm">RADICAL</span> wherever it can be run, will lead to more adoption. Mistakes will be made. Don't assume that everybody will get it right away: you’ll have to discuss what seems to you like the same topic over and over. Somebody will run to HR and tank it before it gets a chance to be put into action. You may even get fired over it.</p>
- <p>On the other hand, the arbitrary nature of management actually works in your favor. “I’m in charge of this team, so I can do whatever I want.” You could &ldquo;clear it&rdquo; with your boss and tell him that you are going to try to offload some of your work onto your employees (suckers). </p>
+ <p>On the other hand, the arbitrary nature of management actually works in your favor. “I’m in charge of this team, so I can do whatever I want.” You could &ldquo;clear it&rdquo; with your boss and tell him that you are going to try to offload some of your work onto your employees. </p>
  <p>Whatever you do, try this and help the adoption of the <span class="_paradigm">RADICAL</span> model. It will be good for you and the world.</p>
 
 <h1 class="_section">ENDNOTES</h1>
