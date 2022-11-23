@@ -35,7 +35,7 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
   </tr>
  </table>
 
- <p>We talk a lot about starting <span class="_paradigm">RADICAL</span> companies. This is the easy way out for us, the authors, because we find starting companies to be straightforward,</p>
+ <p>We talk a lot about starting <span class="_paradigm">RADICAL</span> companies. This is the easy way out for us, the book&rsquo;s authors,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> because we find starting companies to be straightforward,</p>
   <ul>
    <li>Matt quickly adapted to the startup culture in Silicon Valley</li>
    <li>Adrian grew up in it</li>
@@ -58,6 +58,19 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
  <p>Deploying <span class="_paradigm">RADICAL</span> wherever it can be run, will lead to more adoption. Mistakes will be made. You’ll have to discuss what seems to you like the same topic over and over. Somebody will run to HR to find out their take on this <span class="_paradigm">RAD</span> thing and it may tank it before it gets a chance to work. You may even get fired over it.</p>
  <p>On the other hand, the arbitrary nature of management actually works in your favor. “I’m in charge of this team, so I can do whatever I want.” You could “clear” with your boss and tell him that you are going to try to offload some of your work onto your employees (suckers). </p>
  <p>Whatever you do, try this and help the adoption of the <span class="_paradigm">RADICAL</span> model. It will be good for you and the world.</p>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ol>
+  <li id="en01">
+   <p class="_list-item">
+    Matt Perez, Adrian Perez, Jose Leal.
+    <em>RADICAL COMPANIES: Without Bosses or Employess</em>
+    2021.
+    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ol>
 
 <h1 class="_section">RELATED</h1>
  <ul>
