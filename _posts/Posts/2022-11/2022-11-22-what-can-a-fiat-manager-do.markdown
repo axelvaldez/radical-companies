@@ -45,7 +45,6 @@ image:    "icon-about-daos.svg"
     <td class="_spacer_"></td>
    </tr>
   </table>
-
  <p>If you are a manager in a <span class="_paradigm">FIAT</span> environment, then implementing some <span class="_paradigm">RADICAL</span> practices can be fairly easy because what you say goes. You later tell your boss and HR what you want; you can even tell them that it is just a clever <span class="_paradigm">FIAT</span> trick.</p>
 
 <h1>Bonuses</h1>
