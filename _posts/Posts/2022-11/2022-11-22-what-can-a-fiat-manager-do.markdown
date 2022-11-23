@@ -27,7 +27,6 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
     <td style="padding-left:1em; width:1.75in; background-color:#EEEEEE; ">People</td>
    </tr>
    <tr>
-   <tr>
     <td class="_spacer"></td>
    </tr>
    <tr>
