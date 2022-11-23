@@ -3,7 +3,7 @@ layout:   post
 title:    "What Can a FIAT Manager Do?"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-what-can-a-fiat-manager-do.svg"
 ---
 
 <div style="display:none;">
