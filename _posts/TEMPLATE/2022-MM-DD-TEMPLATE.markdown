@@ -26,14 +26,14 @@ image:    "icon-about-daos.svg"
  <table align="center">
   <tr>
    <th>principles</th>
-   <td class="_foundation">People</td>
+   <td class="_foundation">Meaning & Belonging</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr>
    <th>commitments</th>
-   <td class="_foundation">Decentralization</td>
+   <td class="_foundation">Decentralization & Transparency</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
