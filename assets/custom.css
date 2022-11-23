@@ -362,3 +362,8 @@ table ._center, div ._center {
   font-family:'Courier New', Courier, monospace;
   font-size:smaller;
 }
+._foundation {
+  padding-right:1em;
+  width:1in;
+  background-color:#EEEEEE;
+}

@@ -14,21 +14,21 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
  <table align="center">
   <tr>
    <th>principles</th>
-   <td class="_foundation">style="padding-right:1em; text-width:1in; background-color:#EEEEEE; ">People</td>
+   <td class="_foundation">People</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr>
    <th>commitments</th>
-   <td style="padding-right:1em; text-width:1in;background-color:#EEEEEE; ">Decentralization</td>
+   <td class="_foundation">Decentralization</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
   <tr>
    <th>practices</th>
-   <td style="padding-right:1em; text-width:1in; background-color:#EEEEEE; ">Experimentation</td>
+   <td class="_foundation">Experimentation</td>
   </tr>
   <tr>
    <td class="_spacer_"></td>
