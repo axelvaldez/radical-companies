@@ -27,7 +27,7 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
  <p>You know that you cannot constantly assess your employees the same way they can track each other. The latest technique from HR is not going to really measure contributions.</p>
  <p>Employees know that you decision is based on who you like as much as anything else, and they compete with each other to bias your affections. That sort of politicking is poisonous to collaboration.</p>
  <p>Instead, you share the RADs! application with your team. They can reward each other for what they see as a contribution. Then you don’t have to sweat it and you base your bonus allocation on the <span class="_paradigm">RAD</span> distribution. Is this subversive? Yes! But, is it good? Hell, yeah.</p>
- <p>And just imagine how your team will feel having the ability to determine the bonus distribution themselve. And how will you feel knowing that the distribution is based on actual contributions to the company-as-common effort (and not guessing at it)?</p>
+ <p>And just imagine how your team will feel having the ability to determine the bonus distribution themselves. And how will you feel knowing that the distribution is based on actual contributions to the company-as-common effort (and not guessing at it)?</p>
 
 <h1>Virtual <span class="_paradigm">RADICAL</span></h1>
  <p>In software, there is the concept of a virtual machine, where you can emulate one computer inside another computer system. For example, you could run the Linux operating system inside MS Windows, or vice versa. The software handles it.</p>
