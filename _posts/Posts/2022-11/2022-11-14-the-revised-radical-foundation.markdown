@@ -7,11 +7,11 @@ image:    "icon-the-revised-radical-foundation.svg"
 ---
 
 <div style="display:none;">
- <p>I have been thinking about the <span class="_paradigm">RADICAL</span> foundation and I think that it is more complicated than it has to be; it can be made tighter and stronger.</p>
+ <p>I have been thinking about the <span class="_paradigm">RADICAL</span> foundation and I think that it can be made a bit simpler, tighter, and stronger.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>I have been thinking about the <span class="_paradigm">RADICAL</span> foundation and I think that it is more complicated than it has to be; it can be made tighter and stronger.</p>
+ <p>I have been thinking about the <span class="_paradigm">RADICAL</span> foundation and I think that it can be made a bit simpler, tighter, and stronger.</p>
  <p>In the book <span class="_paradigm">RADICAL COMPANIES</span>, we described the foundation like this,</p>
  <table align="center">
   <tr style="background-color:#EEEEEE; ">
@@ -36,16 +36,14 @@ image:    "icon-the-revised-radical-foundation.svg"
    <td class="_spacer"></td>
   </tr>
  </table>
- <p>I would have preferred to have three rather than six things to remember. Any more than three things, I forget. And other people, too. For example, on several ocassions I asked individuals if they remembered the company&rsquo;s values (<em>i.e.</em>, we had five), but none of them could come up with more than two or three. Then I asked small groups and they came up four, five, and six values—they weren't sure. The thing is that in order to use values or anything else to guide your life, you have to remember them and you won&rsquo;t if they are more than three.</p>
- <p>At pivotal points, having a foundation will help you get oriented along the path you have chosen: Will this action help us to develop and grow as people? Will this decision make us more centralized or more decentralized? Are we being too rigid or are we still learning from experimentation?</p>
+ <p>At pivotal points, having a foundation helps you get oriented along the path you have chosen: Will this action help us to develop and grow as people? Will this decision make us more centralized or more decentralized? Are we being too rigid or are we still learning from experimentation?</p>
  <p></p>
- <p>The remainder of this post is about a revised <span class="_paradigm">RADICAL</span> foundation with one principle, one commitment, and one practice.</p>
+ <p>The remainder of this post is about a slightly revised <span class="_paradigm">RADICAL</span> foundation.</p>
 
-<h1>People</h1>
- <p>Meaning and Belonging cannot be separated. Belonging is key to Meaning to the individual, but it is something we get primarily from &ldquo;the others&rdquo; in my community. If I make a spear to fish, it becomes significant to myself next time I am hungry and I eat the fish that I caught with my spear. But when I see <em>somebody else</em> make a spear like mine to fish, that is when my expression becomes a contribution!</p>
- <p>More basic than Meaning and Belonging is <em>People</em>. People as individuals and People in communities.</p>
+<h1>Meaning and Belonging</h1>
+ <p>Meaning and Belonging cannot be separated. Belonging is key to Meaning to the individual, but it is something we get primarily from &ldquo;the others&rdquo; in the community I Belong to. If I make a spear to fish, it becomes significant to myself next time I am hungry and I eat the fish that I caught with my spear. But when I see <em>somebody else</em> make a spear like mine to fish, that is when my expression becomes a contribution!</p>
 
-<h1>Decentralization</h1>
+<h1>Decentralization & Transparency</h1>
  <p>Decentralization and Transparency <em>are</em> redundant.</p>
  <p>At the completely decentralized end, there is nobody in charge of keeping secrets and everything will be 100% transparent. Completely decentralized means completely transparent.</p>
  <p>On the way to full decentralization you may consider keeping some things secret. The person charged with keeping them would be a boss of those secrets. The question, then, would be, &ldquo;Who is going to be the boss? Who is going to be in charge of the area&rsquo;s secrets?&rdquo; No matter if this is a very nice person, or even if this is &ldquo;boss&rdquo; is a small, trusted committee with a term limit, so long as there are secrets, there is a boss.</p>
