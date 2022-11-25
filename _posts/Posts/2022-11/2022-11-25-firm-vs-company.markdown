@@ -3,7 +3,7 @@ layout:   post
 title:    "BUSINESS vs FIRM vs COMPANY"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-business-vs-firm-vs-company.svg"
 ---
 
 <div style="display:none;">
