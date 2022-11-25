@@ -1,18 +1,19 @@
 ---
 layout:   post
-title:    "FIRM vs COMPANY"
+title:    "FIRM vs BUSINESS vs COMPANY"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-about-daos.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>The question came up again: Why not call it <span class="_paradigm">FIRM</span>? or <span class="_paradigm">BUSINESS</span>? Why the insistance on <span class="_paradigm">COMPANY</span></p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>I was asked today
-<p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
+ <p>The question came up again: Why not call it <span class="_paradigm">FIRM</span>? or <span class="_paradigm">BUSINESS</span>? Why the insistance on <span class="_paradigm">COMPANY</span></p>
+
+<h1>Simple</h1>
 
 <!-- image -->
 <div class="_center">
