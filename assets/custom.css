@@ -362,9 +362,14 @@ table ._center, div ._center {
   font-family:'Courier New', Courier, monospace;
   font-size:smaller;
 }
-._foundation td {
+table ._foundation {
   padding-left:1em;
+  align-self:center;
 }
-._foundation td:nth-child(2n+1)  {
+table ._foundation td {
+  padding-left:1em;
+  align-self:center;
+}
+table ._foundation td:nth-child(2n+1)  {
   background-color:#EEEEEE;
 }
