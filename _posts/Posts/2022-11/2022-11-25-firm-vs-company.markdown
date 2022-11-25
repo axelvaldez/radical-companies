@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "TEMPLATE"
+title:    "FIRM vs COMPANY"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-about-daos.svg"
@@ -11,7 +11,7 @@ image:    "icon-about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
-
+ <p>I was asked today
 <p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
 
 <!-- image -->
