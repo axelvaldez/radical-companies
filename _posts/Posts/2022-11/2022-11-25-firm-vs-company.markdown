@@ -50,7 +50,7 @@ image:    "icon-about-daos.svg"
  </div>
 
 <!-- new foundation -->
- <table  class="_foundation" align="center">
+ <table  class="_foundation">
   <tr>
    <th>principles</th>
    <td>Meaning & Belonging</td>

@@ -246,22 +246,30 @@ p {
 a._uparrow img {
   height:15px;
 }
-table {
-  width:50%;
-}
 li {
   font-size: smaller;
 }
-tr {
+table {
+  width:70%;
+  margin-bottom:20px;
+  align-self:center;
+}
+table._foundation td {
+  padding-left:1em;
+}
+table._foundation td:nth-child(2n+1)  {
+  background-color:#EEEEEE;
+}
+table tr {
   margin-bottom:0;
   vertical-align:top;
   font-size:smaller;
 }
 }
-tr p {
+table tr p {
   font-size:smaller;
 }
-th {
+table th {
   text-align:right;
   vertical-align:top;
   padding-right:1em;
@@ -269,7 +277,7 @@ th {
   font-size:smaller;
   border-right:1px solid black;
 }
-td {
+table td {
   text-align:left;
   vertical-align:top;
   padding-left:1em;
@@ -277,11 +285,11 @@ td {
   font-size:smaller;
   padding-right:10px;
 }
-td._spacer {
+table td._spacer {
   column-span:all;
   font-size:7px;
 }
-td._spacer:after {
+table td._spacer:after {
   content:"-";
   color:white;
 }
@@ -316,6 +324,15 @@ td._spacer:after {
   width:80%;
   margin:0 auto 30px auto;
 }
+._quotespan {
+  font-style: italic;
+}
+._quotespan::before {
+  content:"“";
+}
+._quotespan::after {
+  content: "”";
+}
 ._citation {
   padding-bottom:0px;
   font-size:larger;
@@ -333,43 +350,15 @@ td._spacer:after {
 ._citation #_signature::before {
   content:"— ";
 }
-._mb0 {
-  margin-bottom:0;
-}
-table {
-  width:70%;
-}
-table ._center, div ._center {
-  display:grid;
-  place-items:center;
-  margin-bottom:20px;
-}
-._r {
-  font-family:'Courier New', Courier, monospace;
-}
-._quotespan {
-  font-style: italic;
-}
-._quotespan::before {
-  content:"“";
-}
-._quotespan::after {
-  content: "”";
-}
 ._image {
   display:grid;
   place-items:center;
   font-family:'Courier New', Courier, monospace;
   font-size:smaller;
 }
-table ._foundation {
-  padding-left:1em;
-  align-self:center;
+._mb0 {
+  margin-bottom:0;
 }
-table ._foundation td {
-  padding-left:1em;
-  align-self:center;
-}
-table ._foundation td:nth-child(2n+1)  {
-  background-color:#EEEEEE;
+._r {
+  font-family:'Courier New', Courier, monospace;
 }
