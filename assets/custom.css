@@ -281,7 +281,7 @@ table tr {
   vertical-align:top;
   font-size:smaller;
 }
-table._foundation tr:nth-child(2n+1)  {
+table._foundation tr:nth-child(4n+1)  {
   background-color:#EEEEEE;
 }
 
