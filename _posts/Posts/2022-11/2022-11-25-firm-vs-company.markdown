@@ -17,7 +17,7 @@ image:    "icon-business-vs-firm-vs-company.svg"
  <p>A &ldquo;business&rdquo; is about business and its sole purpose is to make money.</p>
  <p>&ldquo;Firm&rdquo; is also about making money. It might have meant to be reminiscent of a <em>firm</em> handshake, as in &ldquo;you have my word,&rdquo; but it also implies rigidness.</p>
  <p>A company is about people. It is about coming together to accomplish something, usually bigger that any one person can. The word comes from Latin, <em>co-</em> (together) and <em>pan</em> (bread): people who break bread together.</p>
- <p>We could have made up a word, but we didn&rsquo;t sound alien. Given its lovely etymology, <em>company</em> is it.</p>
+ <p>We could have made up a word, but we didn&rsquo;t want to sound alien. Given that it is familiarm, and its lovely etymology, <em>company</em> is it.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
