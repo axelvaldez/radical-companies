@@ -347,11 +347,11 @@ table ._center, div ._center {
 ._r {
   font-family:'Courier New', Courier, monospace;
 }
-._quotespan::before {
-  content:"“";
-}
 ._quotespan {
   font-style: italic;
+}
+._quotespan::before {
+  content:"“";
 }
 ._quotespan::after {
   content: "”";
@@ -363,7 +363,8 @@ table ._center, div ._center {
   font-size:smaller;
 }
 ._foundation td {
-  padding-right:1em;
-  text-width:1in;
+  padding-left:1em;
+}
+._foundation td:nth-child(2n+1)  {
   background-color:#EEEEEE;
 }
