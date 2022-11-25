@@ -14,8 +14,8 @@ image:    "icon-business-vs-firm-vs-company.svg"
  <p>The question came up again: Why not call a business a <span class="_paradigm">BUSINESS</span>? or <span class="_paradigm">FIRM</span>? Why the insistance on <span class="_paradigm">COMPANY</span>?</p>
 
 <h1>Simple</h1>
- <p>A &ldquo;business&rdquo; is about business and its sole purpose is to make money.</p>
- <p>&ldquo;Firm&rdquo; is also about making money. It might have meant to be reminiscent of a <em>firm</em> handshake, as in &ldquo;you have my word,&rdquo; but it also implies rigidness.</p>
+ <p>A &ldquo;business&rdquo; is about business and its sole purpose is to make money, for one or a few owners. We want to make money for everybody involved, but don&rsquo;t want &ldquo;money making&rdquo; as the defining reason for coming together.</p>
+ <p>&ldquo;Firm&rdquo; is also about making money. It might have meant to be reminiscent of a <em>firm</em> handshake, as in &ldquo;you have my word,&rdquo; but it also implies rigidness. We wanted to indicate <em>fluid</em>.</p>
  <p>A company is about people. It is about coming together to accomplish something, usually bigger that any one person can. The word comes from Latin, <em>co-</em> (together) and <em>pan</em> (bread): people who break bread together.</p>
  <p>We could have made up a word, but we didn&rsquo;t want to sound alien. Given that it is familiar, and its lovely etymology, <em>company</em> is it.</p>
 
