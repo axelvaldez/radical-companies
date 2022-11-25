@@ -19,30 +19,6 @@ image:    "icon-business-vs-firm-vs-company.svg"
  <p>A company is about people. It is about coming together to accomplish something, usually bigger that any one person can. The word comes from Latin, <em>co-</em> (together) and <em>pan</em> (bread): people who break bread together.</p>
  <p>We could have made up a word, but that would sound alien. We wanted something familias and, with its lovely etymology, <em>company</em> is it.</p>
 
- <table  class="_foundation">
-  <tr>
-   <th>principles</th>
-   <td>Meaning & Belonging</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>commitments</th>
-   <td>Decentralization & Transparency</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>practices</th>
-   <td>Experimentation</td>
-  </tr>
-  <tr>
-   <td class="_spacer_"></td>
-  </tr>
- </table>
-
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
