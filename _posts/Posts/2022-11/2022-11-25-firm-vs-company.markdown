@@ -7,11 +7,11 @@ image:    "icon-business-vs-firm-vs-company.svg"
 ---
 
 <div style="display:none;">
- <p>The question came up again: Why not call a business a <span class="_paradigm">BUSINESS</span>? or <span class="_paradigm">FIRM</span>? Why the insistance on <span class="_paradigm">COMPANY</span></p>
+ <p>The question came up again: Why not call a business a <span class="_paradigm">BUSINESS</span>? or <span class="_paradigm">FIRM</span>? Why the insistance on <span class="_paradigm">COMPANY</span>?</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The question came up again: Why not call a business a <span class="_paradigm">BUSINESS</span>? or <span class="_paradigm">FIRM</span>? Why the insistance on <span class="_paradigm">COMPANY</span></p>
+ <p>The question came up again: Why not call a business a <span class="_paradigm">BUSINESS</span>? or <span class="_paradigm">FIRM</span>? Why the insistance on <span class="_paradigm">COMPANY</span>?</p>
 
 <h1>Simple</h1>
  <p>A &ldquo;business&rdquo; is about business and its sole purpose is to make money. &ldquo;Firm&rdquo; is also about making money, but it also implies rigidness.</p>
