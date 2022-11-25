@@ -254,21 +254,6 @@ table {
   margin-bottom:20px;
   align-self:center;
 }
-table._foundation td {
-  padding-left:1em;
-}
-table._foundation td:nth-child(2n+1)  {
-  background-color:#EEEEEE;
-}
-table tr {
-  margin-bottom:0;
-  vertical-align:top;
-  font-size:smaller;
-}
-}
-table tr p {
-  font-size:smaller;
-}
 table th {
   text-align:right;
   vertical-align:top;
@@ -282,8 +267,6 @@ table td {
   vertical-align:top;
   padding-left:1em;
   padding-right: 1em;
-  font-size:smaller;
-  padding-right:10px;
 }
 table td._spacer {
   column-span:all;
@@ -293,6 +276,15 @@ table td._spacer:after {
   content:"-";
   color:white;
 }
+table tr {
+  margin-bottom:0;
+  vertical-align:top;
+  font-size:smaller;
+}
+table._foundation tr:nth-child(even)  {
+  background-color:#EEEEEE;
+}
+
 ._spacer {
   font-size:xx-small;
   column-span:all;
