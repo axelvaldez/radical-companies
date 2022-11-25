@@ -1,56 +1,22 @@
 ---
 layout:   post
-title:    "FIRM vs BUSINESS vs COMPANY"
+title:    "BUSINESS vs FIRM vs COMPANY"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-about-daos.svg"
 ---
 
 <div style="display:none;">
- <p>The question came up again: Why not call it <span class="_paradigm">FIRM</span>? or <span class="_paradigm">BUSINESS</span>? Why the insistance on <span class="_paradigm">COMPANY</span></p>
+ <p>The question came up again: Why not call a business a <span class="_paradigm">BUSINESS</span>? or <span class="_paradigm">FIRM</span>? Why the insistance on <span class="_paradigm">COMPANY</span></p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The question came up again: Why not call it <span class="_paradigm">FIRM</span>? or <span class="_paradigm">BUSINESS</span>? Why the insistance on <span class="_paradigm">COMPANY</span></p>
+ <p>The question came up again: Why not call a business a <span class="_paradigm">BUSINESS</span>? or <span class="_paradigm">FIRM</span>? Why the insistance on <span class="_paradigm">COMPANY</span></p>
 
 <h1>Simple</h1>
+ <p>A &ldquo;business&rdquo; is about business and its sole purpose is to make money. &ldquo;Firm&rdquo; is also about making money, but it also implies rigidness.</p>
+ <p>A company is about people. It is about coming together to accomplish something, usually bigger that any one person can. The word comes from Latin, <em>co-</em> (together) and <em>pan</em> (bread): people who break bread together.</p>
 
-<!-- image -->
-<div class="_center">
- <img
-  src="/assets/img/pings-to-rads-equation.svg"
-  width="70%"
-  alt="">
- </div>
-
-<!-- new foundation -->
- <table class="_foundation" align="center">
-  <tr>
-   <th>principles</th>---
-layout:   post
-title:    "TEMPLATE"
-subtitle: "TEMPLATE"
-authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
----
-
-<div style="display:none;">
- <p></p>
-</div>
-
-<h1>&nbsp;</h1>
-
-<p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
-
-<!-- image -->
-<div class="_center">
- <img
-  src="/assets/img/pings-to-rads-equation.svg"
-  width="70%"
-  alt="">
- </div>
-
-<!-- new foundation -->
  <table  class="_foundation">
   <tr>
    <th>principles</th>
@@ -74,45 +40,6 @@ image:    "icon-about-daos.svg"
    <td class="_spacer_"></td>
   </tr>
  </table>
- 
-<!-- old foundation
-<table align="center">
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
- </tr>
- <tr>
-  <td style="height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
- </tr>
- <tr>
-  <td style="height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
- </tr>
- <tr>
-  <td class="_spacer_">&nbsp;</td>
- </tr>
-</table>
- -->
-
-<h1 class="_section">ENDNOTES</h1>
- <ol>
-  <li id="en01">
-   <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ol>
 
 <h1 class="_section">RELATED</h1>
  <ul>
@@ -186,46 +113,6 @@ Meaning & Belonging</td>
    <td class="_spacer_"></td>
   </tr>
  </table>
- 
-<!-- old foundation
-<table align="center">
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
- </tr>
- <tr>
-  <td style="height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
- </tr>
- <tr>
-  <td style="height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
- </tr>
- <tr>
-  <td class="_spacer_">&nbsp;</td>
- </tr>
-</table>
- -->
-
-<h1 class="_section">ENDNOTES</h1>
- <ol>
-  <li id="en01">
-   <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ol>
-
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
