@@ -14,7 +14,7 @@ hidden:   true
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Onwards</h1>
  <p>They decided to continue on their journey and experience other communities. Saying goodbye to the people they had met took a while but eventually they got on their way.</p>
  <p>This time, Ignatius was fully awake.</p>
- <p>Ten kilometers later, the cruiser needed to recharge and it stopped at a station near where the border between Utan and Arizona used to be. They decided to eat at the restaurant next door. In front, there was a renovated old sign that said SUBWAY.</p>
+ <p>Ten kilometers later, the cruiser needed to recharge and it stopped at a station near where the border between where the border between the old State of Utan and the old State of Arizona used to be. They decided to eat at the restaurant nearby. In front, there was a renovated old sign that said SUBWAY.</p>
  <p>&ldquo;Was there a subway here?&rdquo; Ignatius asked.</p>
  <p>&ldquo;No, that&rsquo;s the name of a FIAT business that no longer exists. They sold sandwiches and other junk food.&rdquo;</p>
  <p>&ldquo;What is &lsquo;junk&rsquo; food?&rdquo; Petra asked.</p>
