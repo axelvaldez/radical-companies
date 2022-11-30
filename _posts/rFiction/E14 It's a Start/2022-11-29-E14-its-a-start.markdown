@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "It's a Start"
+title:    "It&rsquo;s a Start"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-e13-and-then.png"
@@ -10,8 +10,18 @@ image:    "icon-e13-and-then.png"
  <p>How did it all start?&mdash;Ignatious repeated&mdash;Let me tell you what we witnessed and what it felt like.&hellip;</p>
 </div>
 
-<h1>A Witness. A Tale.</h1>
- <p>Ignatius, lived in a FIAT community.  Petra lived in seeral RADICAL ones.</p>
+<h1>A Tale of Two Systems</h1>
+ <p>Ignatius, had lived in a <span class="_paradigm">FIAT</span> community called the Bracia.  Kal lived in several <span class="_paradigm">RADICAL</span> ones. They both witnessed the transformation that the world went through. So, when somebody said that it didn&rsquo;t seem possible, that it smelled of Science Fiction, they just looked at each other.</p>
+ <p>&ldquo;We lived through it,&rdquo; Kal said. &ldquo;He grew up in the <span class="_paradigm">FIAT</span> side, and I grew up in <span class="_paradigm">RADICAL</span> communities.&rdquo;</p>
+ <p>Ignatius was 83 and Kal 72, so they weren&rsquo;t that old. &ldquo;Bullshit!&rdquo;</p>
+ <p>&ldquo;Fine. Now tell me how you <em>really</em> feel,&rdquo; said Ignatius with a half smile on his face.</p>
+ <p>&ldquo;He reminds of you, Iggy&rdquo;&mdash;Kal was all smiles as she said it.</p>
+ <p>The kid seem to be a pre-teenager. He had no idea what was going on, but he was pugnacious. &ldquo;Bullshit! We have lived this way from before you were born.&rdquo;</p>
+ <p>Usually Kal was the calm one, but she was getting visibly angry. Ignatius pur his hand on her shoulder she gave him that look. She was radiating heat. &ldquo;Well, I asked how he really felt, right?&rdquo; said Ignatious, &ldquo;It looks like he just gave us his answer.&rdquo; He then looked at the kid and asked, &ldquo;Would you tell us your name?&rdquo;</p>
+ <p>&ldquo;Ariel.&rdquo;</p>
+ <p>&ldquo;Would like to hear what we have to tell? Do you have time?&rdquo;</p>
+ <p>&ldquo;Things were not always this way. Most communities were more like mine, although not as extreme as the one I grew up in. In fact, most people thought that the transformation would not happen at all. But it did happen. And it happned faster than anybody thought. It turned out that most people knew that the <span class="_paradigm">FIAT</span> system was <em>not working</em> for them and once they experience the difference they could not go back. I don&rsquo;t know if you&rsquo;d believe me, the I would have hit you for the response you gave us.&rdquo;</p>
+
 
 <h1 class="_section">RELATED</h1>
  <ul>
