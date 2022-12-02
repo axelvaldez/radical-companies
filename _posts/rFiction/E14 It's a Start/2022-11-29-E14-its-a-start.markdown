@@ -79,7 +79,7 @@ image:    "icon-e13-and-then.svg"
   <ul>
    <li>They attracted desperate people to work as soldiers</li>
    <li>They made up a religion</li>
-   <li>They kept people on highly addictive drugs (the opioid crisis)</li>
+   <li>They kept people on highly addictive drugs (<em>i.e.</em>, the opioid crisis)</li>
    <li>Everybody who joined was convinced that the Bracia was the only way to "Make America Great Again."</li>
   </ul>
 </ol>
