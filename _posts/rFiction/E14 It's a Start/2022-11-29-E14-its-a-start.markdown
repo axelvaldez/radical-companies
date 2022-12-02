@@ -13,51 +13,64 @@ image:    "icon-e13-and-then.png"
 <h1>A Tale of Two Systems</h1>
  <p>Ignatius, had lived in a <span class="_paradigm">FIAT</span> community called the Bracia.  Kal lived in several <span class="_paradigm">RADICAL</span> ones. They both witnessed the transformation that the world went through. So, when somebody said that it didn&rsquo;t seem possible, that it smelled of Science Fiction, they just looked at each other.</p>
  <p>&ldquo;We lived through it,&rdquo; Kal said. &ldquo;He grew up in the <span class="_paradigm">FIAT</span> side, and I grew up in <span class="_paradigm">RADICAL</span> communities.&rdquo;</p>
- <p>Ignatius was 83 and Kal 72, so they weren&rsquo;t that old. &ldquo;Bullshit!&rdquo;</p>
- <p>&ldquo;Fine. Now tell me how you <em>really</em> feel,&rdquo; said Ignatius with a half smile on his face.</p>
+ <p>Ignatius was 83 and Kal 72, so to the kid, they weren&rsquo;t that old. So the kid just said, &ldquo;Bullshit!&rdquo;</p>
  <p>&ldquo;He reminds of you, Iggy&rdquo;&mdash;Kal was all smiles as she said it.</p>
  <p>The kid, who seem to be a pre-teenager, had no idea what was going on, but he doubled down: &ldquo;Bullshit and more bulshit! Things have been this way since before you were born.&rdquo;</p>
- <p>Usually Kal was the calm one, but she was getting visibly angry. Ignatius pur his hand on her shoulder she gave him that look. She was radiating heat. &ldquo;Well, I asked how he really felt, right?&rdquo; said Ignatious, &ldquo;It looks like he just gave us his answer.&rdquo; He then looked at the kid and asked, &ldquo;Would you tell us your name?&rdquo;</p>
+ <p>Usually Kal was the calm one, but she was getting visibly angry. Ignatius put his hand on her shoulder and he said, &ldquo;Well, now we know how he <em>really</em> feels, right?&rdquo; said Ignatious. He then looked at the kid and asked, &ldquo;Would you tell us your name?&rdquo;</p>
  <p>The kid just stared at him, befuddled.</p>
- <p>&ldquo;Would like to hear what we have to tell? Do you have time?&rdquo;</p>
- <p>&ldquo;Things were not always this way. Most communities were more like the one I grew up in, although not as extreme. In fact, most people thought that the transformation would not happen at all. But it did happen, and it happened faster than anybody thought. It turned out that most people knew at some level that the <span class="_paradigm">FIAT</span> system was <em>not working</em> for them and once they experience the difference they could not go back. Their experience at RADICAL companies was unlike anything they had experienced before. But not everbody had the chance and they clung to their fears and defended the very system that was not working for them or for the Earth.&rsquo;
- <p>&lsquo;I don&rsquo;t know if you&rsquo;re to believe me, the in the old days I would have hit you for the response you gave us. You showed us disrepect and we would have been in our right to castigate you for it, even hit you.&rdquo;</p>
+
+<h1>Shall We Dance?</h1>
+ <p>&ldquo;Would like to hear what we have to tell?&rdquo; Iggy insisted waited a bit and then continued. &ldquo;Things were not always this way. In fact, most people thought that the transformation would not happen at all. But it did happen, and it happened faster than anybody thought. It turned out that most people knew at some level that the <span class="_paradigm">FIAT</span> system was <em>not working</em> for them and once they experience the difference they could not go back. Their experience at RADICAL companies was unlike anything they had experienced before. But not everbody had the chance and they clung to their fears and defended the very system that was not working for them or for the Earth.&rdquo;</p>
+ <p>&ldquo;I don&rsquo;t know if you&rsquo;re going to believe me, but not that long ago, I would have hit you for the response you gave us. You showed us disrepect and we would have been in our right to castigate you for it, even hit you.&rdquo;</p>
  <p>&lsquo;But you didn&rsquo;t <em>earn</em> my respect. You took me for granted and started spewing whhat sounded a lot like BS to me.&rdquo;</p>
  <p>&ldquo;And you are correct! We made a lot of assumptions add didn&rsquo;t bother to involve you. We lectured, and you got angry, as well you should, and you made a lot of assumptions and shouted &lsquo;<em>bullshit!</em>&rsquo;&mdash;a short lecture, so to speak. It sounds like we all made the same mistake. What do you think?&rdquo;</p>
  <p>As Ignatius was talking to Ariel, Kal stared at him, dumbfounded. Normally <em>she</em> was calm and Ignatius pugnacious. Coming from him, this behavior took her completely, and pleasantly, surprised.</p>
  <p>Evidently, the kid was surprised, too. &ldquo;Ariel. My name is Ariel.&rdquo; And with that he sat down on the same spot he had been standing. He kept his eyes on Iggy as he sat down on the floor in front of Ariel.</p>
+ <p>I am tell you my story. What I lived through. What I know about.</p>
+ <p>&ldquo;She looks like she wants to me,&rdquo; Ariel said as he was looking at Kal.</p>
+ <p>&ldquo;I don&rsquo;t think she will,&rdquo; said Ignatius, &ldquo;And, since you are interested, her name is Kal and her story is much better than mine. Should we start?&rdquo;</p>
+ <p>&ldquo;Go ahead.&rdquo;</p>
 
- <h1>Born of <span class="_paradigm">FIAT</span></h1>
-  <p>I am tell you my story. What I lived through. What I know about.</p>
-  <p>&ldquo;She looks like she wants to me,&rdquo; Ariel said as he was looking at Kal.</p>
-  <p>&ldquo;I don&rsquo;t think she will,&rdquo; said Ignatius, &ldquo;And, since you are interested, her name is Kal and her story is much better than mine. Should we start?&rdquo;</p>
-  <p>&ldquo;Go ahead.&rdquo;</p>
-  <p>
-  <p>&ldquo;I was born as <span class="_paradigm">FIAT</span> way of life was starting to lose its grip on people. At least, that is what they told me when I got to this side. What I do know is that were very poor. &hellip; Iggy seem to hae a realization and asked, &ldquo;Do you know what poor is?&rdquo;</p>
-  <p>&ldquo;Having so few RADs that you still depend on your family to survice.&rdquo; Ariel must have thought it was a dumb question: everybody knew what <em>poor</em> was.</p>
-  <p>&ldquo;That is not what I am talking about. For one, do you know of any poor families?&rdquo;</p>
-  <p>&ldquo;Of course, there are no poor families.&ldquo; Said Ariel, clearly annoyed. &rdquo;You must think I am really ignorant!&rdquo;</p>
-  <p>&ldquo;Well, my family was poor. Very poor. They didn&rsquo;t have enough to eat, so  they encumbered me and my siblings to the military&hellip &rdquo;</p>
-  <p>&ldquo;Wait! What does that even mean?&rdquo;</p>
-  <p>&ldquo;&hellip; which meant that I had to go to military school and when I turned 16 I would become active in the military.&rdquo;</p> 
-  <p>Arial remained quiet for quite for a bit, eyes glazed over. Then he asked, &ldquo;You were in the military?&rdquo;</p>
-  <p>&ldquo;We were basically leased out to the military in exchange for subsistance for my family. Amanzingly, my parents were also devout defenders of the system. In fact, my whole family, including me, were devount defenders of it! We believe that our being <em>poor</em> was out fault and the Bracia was helping us survive.&rdquo; Kal had heard pieces of Iggy&rsquo; over time, but she felt this time she was going to hear the whole thing, from beginning to end. &ldquo;The real story is how the Bracia got us there. For some reason, we attracted the worst of the people who depended on the <span class="_paradigm">FIAT</span> status quo. First we got people from what used to be the United States of America.&rdquo;</p>
-  <p> Ariel moved a little when a boy and a girl approached and ended up sitting next to him. He snorted, maybe as a signal to his friends, when Iggy mentioned the USA. &ldquo;That was the cause of all problems&rdquo;</p>
-  <p>&ldquo;No, it wasn't&rdquo;, Iggy responded. &ldquo;It was <em>the <span class="_paradigm">FIAT</span> system,</em> you understand? If anything, it was the USA that ended up leading the rest of the world to where we are now. Its system of government was the closest we had to a more collaborative, people-centered system. Unfortunately, it was moving it was moving way too slowly and we would have depleted the part of the Earth that supported life on our way there.&rdquo;</p>
-  <p>The new boy made a soft sound and then he said, &ldquo;You saying that we would have killed the Earth, we would have survived, right?&rdquo;</p>
-  <p>&ldquo;Well&hellip; yes and no. People would have survived, but all our cultural advances would have perished with a depleted Earth. What I heard many people say&mdash;and keep ih mind that I heard it from <em>devout <span class="_paradigm">FIAT</span> people</em>&mdash;is that the USA would have gotten there, but &lsquo;there was no need to rush things&rsquo; or &lsquo;people needed time to adapt.&rsquo; What they ignored is that the abuse and depletion of resources was accelerating and we didn't have time for them <em>to accept the changes needed</em> at their leisure.&rdquo;</p>
-  <p>This time it was the girl who asked, &ldquo;And they just accepted it, just like that?&rdquo;</p>
-  <p>Not quite. The feeling of superiority, and the fear of losing it, is more potent than a drug. But there was nothing stopping peole from doing whatever they wanted within their compane, so people started to transform them. Many created companies that were based on co-management and co-ownership from the start and others transformed exisiting businees when they saw how much wealth these other companies created. They gave up their feeling of superiority but they got back time that they could spend on themselves and their families. And nobody missed it as unhealthy competition move into the background. Collaboration had more leverage once people were working on they wanted to work and with whom they wanted to work.&rdquo;</p>
-  <p>The girl again, &ldquo;Are you saying that you were forced to work with people you didn&lsquo;t&hellip; what if you didn't trust them? And, my name is Karla, with a K.&rdquo;</p>
-  <p>&ldquo;And mine is Kayla, but everybody calles me Kal,&rdquo; said Kal smiling. Then she pointed at Ignatius and said, &ldquo;And this is Ignatius. We call him Iggy.&rdquo;</p>
-  <p>&ldquo;OK, then, my name is Bob. Well, it is Robert, but I respond to Bob or Bobby, but everybody calles me Kal,&rdquo; said Kal smiling. Then she pointed at Ignatius and said, &ldquo;And this is Ignatius. We call him Iggy.&rdquo;</p>
-  <p>The boy got up from the floor, bobbed a curtsy, and said, &ldquo;To join in the salutations, my name is Bob. Well, it is Roberto, but I respond to Bob or Bobby.&rdquo;</p>
-  <p>&ldquo;xxx&rdquo;</p>
-  <p>&ldquo;xxx&rdquo;</p>
-  <p>&ldquo;xxx&rdquo;</p>
-  <p>&ldquo;xxx&rdquo;</p>
-  <p>&ldquo;xxx&rdquo;</p>
+<h1>An Old Man&rsquo;s Tale</h1>
+ <p>Most communities were more like the one I grew up in, although not as extreme. &ldquo;I was born as <span class="_paradigm">FIAT</span> way of life was starting to lose its grip on people. At least, that is what they told me when I got to this side. What I do know is that were very poor. &hellip; Iggy seem to hae a realization and asked, &ldquo;Do you know what poor is?&rdquo;</p>
+ <p>&ldquo;Having so few RADs that you still depend on your family to survice.&rdquo; Ariel must have thought it was a dumb question: everybody knew what <em>poor</em> was.</p>
+<h1>The Old Man&rsquo;s Tale</h1>
+ <p>&ldquo;That is not what I am talking about. For one, do you know of any poor families?&rdquo;</p>
+ <p>&ldquo;Of course, there are no poor families.&ldquo; Said Ariel, clearly annoyed. &rdquo;You must think I am really ignorant!&rdquo;</p>
+ <p>&ldquo;Well, my family was poor. Very poor. They didn&rsquo;t have enough to eat, so  they encumbered me and my siblings to the military&hellip &rdquo;</p>
+ <p>&ldquo;Wait! What does that even mean?&rdquo;</p>
+ <p>&ldquo;&hellip; which meant that I had to go to military school and when I turned 16 I would become active in the military.&rdquo;</p>
+ <p>Arial remained quiet for quite for a bit, eyes glazed over. Then he asked, &ldquo;You were in the military?&rdquo;</p>
 
+<h1>Leased to the Military</h1>
+ <p>&ldquo;We were basically leased out to the military in exchange for subsistance for my family. Amanzingly, my parents were also devout defenders of the system. In fact, my whole family, including me, were devount defenders of it! We believe that our being <em>poor</em> was out fault and the Bracia was helping us survive.&rdquo; Kal had heard pieces of Iggy&rsquo; over time, but she felt this time she was going to hear the whole thing, from beginning to end. &ldquo;The real story is how the Bracia got us there. For some reason, we attracted the worst of the people who depended on the <span class="_paradigm">FIAT</span> status quo. First we got people from what used to be the United States of America.&rdquo;</p>
+ <p> Ariel moved a little when a boy and a girl approached and ended up sitting next to him. He snorted, maybe as a signal to his friends, when Iggy mentioned the USA. &ldquo;That was the cause of all problems&rdquo;</p>
+
+<h1>A Hypothesis</h1>
+ <p>&ldquo;No, it wasn't,&rdquo; Iggy responded.  &ldquo;Wait, you were told this? And you just took it at face value?&rdquo;</p>
+ <p>&ldquo;Well, not really,&rdquo; said the kid, &ldquo;but it felt like a sound hypothesis&rdquo;</p>
+ <p>&ldquo;OK, but it is not. But you were ready for that answer, right?&rdquo; now Iggy was smiling. &ldquo;It was <em>the <span class="_paradigm">FIAT</span> system,</em> you understand? If anything, it was the USA that ended up leading the rest of the world to where we are now. Its system of government was the closest we had to a more collaborative, people-centered system. Unfortunately, it was moving it was moving way too slowly and we would have depleted the part of the Earth that supported life on our way there.&rdquo;</p>
+ <p>The new boy made a soft sound and then he said, &ldquo;You saying that we would have killed the Earth, we would have survived, right?&rdquo;</p>
+ <p>&ldquo;Well&hellip; yes and no. People would have survived, but all our cultural advances would have perished with a depleted Earth. What I heard many people say&mdash;and keep ih mind that I heard it from <em>devout <span class="_paradigm">FIAT</span> people</em>&mdash;is that the USA would have gotten there, but &lsquo;there was no need to rush things&rsquo; or &lsquo;people needed time to adapt.&rsquo; What they ignored is that the abuse and depletion of resources was accelerating and we didn't have time for them <em>to accept the changes needed</em> at their leisure.&rdquo;</p>
+ <p>This time it was the girl who asked, &ldquo;And they just accepted it, just like that?&rdquo;</p>
+
+<h1>The Feeling of Superiority</h1>
+ <p>&ldquo;Not quite,&rdquo; Iggy said. The feeling of superiority, and the fear of losing it, is more potent than a drug. But there was nothing stopping peole from doing whatever they wanted within their compane, so people started to transform them. Many created companies that were based on co-management and co-ownership from the start and others transformed exisiting businees when they saw how much wealth these other companies created. They gave up their feeling of superiority but they got back time that they could spend on themselves and their families. And nobody missed it as unhealthy competition move into the background. Collaboration had more leverage once people were working on they wanted to work and with whom they wanted to work.&rdquo;</p>
+ <p>The girl again, &ldquo;Are you saying that you were forced to work with people you didn&lsquo;t&hellip; what if you didn't trust them? And, my name is Karla, with a K.&rdquo;</p>
+ <p>&ldquo;And mine is Kalisha, but everybody calles me Kal,&rdquo; said Kal, smiling. Then she pointed at Ignatius and said, &ldquo;And this, this is Ignatius or Iggy.&rdquo;</p>
+<h1>The Old Man&rsquo;s Tale 5</h1>
+ <p>The boy got up from the floor, bobbed a curtsy, and said, &ldquo;To join in the salutations, my name is Bob. Well, it is Roberto, but I respond to Bob, or Beto, or Bobby, or anything that sounds like it.&rdquo; With that, he plopped down on the floor again.</p>
+ <p>Kal looked up and then said, &ldquo;It starting to sunset and it&rsquo;s going to get much cooler quickly. We are going to walk to the house, would you like to come with us.&rdquo;</p>
+ <p>Ariel took a quick look at his friends and said, &ldquo;If you promised not to eat us and Iggy is going to keep talking, you've got a deal.&rdquo;</p>
+ <p>&ldquo;She won&rsquo;t eat you,&ldquo; Iggy said. &rdquo;But I might.&rdquo;</p>
+
+<h1>The Old Man&rsquo;s Tale 4</h1>
+ <p>&ldquo;xxx&rdquo;</p>
+ <p>&ldquo;xxx&rdquo;</p>
+ <p>&ldquo;xxx&rdquo;</p>
+ <p>&ldquo;xxx&rdquo;</p>
+ <p>&ldquo;xxx&rdquo;</p>
+ <p>&ldquo;xxx&rdquo;</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
