@@ -65,7 +65,25 @@ image:    "icon-e13-and-then.svg"
  <p>Ariel took a quick look at his friends and said, &ldquo;If you promise not to eat us and Iggy can keep keep talking, you've got a deal.&rdquo;</p>
 
 <h1>xxx</h1>
-how to create 
+<ol>
+ <li>how to create a RADICAL company: rCORE as example.</li>
+ <li>how to transform a small FIAT company to RADICAL: Xipe as example.</li>
+ <li>how to large FIAT company to RADICAL: Qualia as example.</li>
+ <li>Leftover violence: drug lords, but,
+  <ul>
+   <li>nobody was desperate enough to work as soldiers</li>
+   <li>less people hooked on highly addictive drugs</li>
+   <li>Drugs were no longer ilegal</li>
+  </ul>
+ </li>
+ <li>Why did the Bracia survive for so long?
+  <ul>
+   <li>They attracted desperate people to work as soldiers</li>
+   <li>They made up a religion</li>
+   <li>They kept people on highly addictive drugs (the opioid crisis)</li>
+   <li>Everybody who joined was convinced that the Bracia was the only way to "Make America Great Again."</li>
+  </ul>
+</ol>
  <p>&ldquo;xxx&rdquo;</p>
  <p>&ldquo;xxx&rdquo;</p>
  <p>&ldquo;xxx&rdquo;</p>
