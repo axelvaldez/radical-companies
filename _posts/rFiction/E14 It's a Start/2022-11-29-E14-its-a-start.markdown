@@ -33,7 +33,7 @@ image:    "icon-e13-and-then.png"
  <p>&ldquo;Go ahead.&rdquo;</p>
 
 <h1>An Old Man&rsquo;s Tale</h1>
- <p>Most communities were more like the one I grew up in, although not as extreme. &ldquo;I was born as <span class="_paradigm">FIAT</span> way of life was starting to lose its grip on people. At least, that is what they told me when I got to this side. What I do know is that were very poor. &hellip; Iggy seem to hae a realization and asked, &ldquo;Do you know what poor is?&rdquo;</p>
+ <p>&ldquo;Most communities were more like the one I grew up in, although not as extreme. I was born as <span class="_paradigm">FIAT</span> way of life was starting to lose its grip on people. At least, that is what they told me when I got to this side. What I do know is that we were very poor.&hellip; ,&rdquo; Iggy seem to have a realization and asked, &ldquo;Do you know what poor is?&rdquo;</p>
  <p>&ldquo;Having so few RADs that you still depend on your family to survice.&rdquo; Ariel must have thought it was a dumb question: everybody knew what <em>poor</em> was.</p>
  <p>&ldquo;That is not what I am talking about. For one, do you know of any poor families?&rdquo;</p>
  <p>&ldquo;Of course, there are no poor families.&ldquo; Said Ariel, clearly annoyed. &rdquo;You must think I am really ignorant!&rdquo;</p>
