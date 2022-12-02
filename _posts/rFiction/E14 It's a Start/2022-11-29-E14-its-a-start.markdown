@@ -69,14 +69,13 @@ image:    "icon-e13-and-then.svg"
  <li>how to create a RADICAL company: rCORE as example.</li>
  <li>how to transform a small FIAT company to RADICAL: Xipe as example.</li>
  <li>how to large FIAT company to RADICAL: Qualia as example.</li>
- <li>Leftover violence: drug lords, but,
+ <li>Leftover violence: drug lords, but,</li>
   <ul>
    <li>nobody was desperate enough to work as soldiers</li>
    <li>less people hooked on highly addictive drugs</li>
    <li>Drugs were no longer ilegal</li>
   </ul>
- </li>
- <li>Why did the Bracia survive for so long?
+ <li>Why did the Bracia survive for so long?</li>
   <ul>
    <li>They attracted desperate people to work as soldiers</li>
    <li>They made up a religion</li>
