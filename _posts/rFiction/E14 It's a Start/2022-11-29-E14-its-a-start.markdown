@@ -48,41 +48,56 @@ image:    "icon-e14-and-then.svg"
  <p>Ariel looked around and moved a little when a boy and a girl approached and ended up sitting next to him. He snorted in response to Iggy mentioning the &ldquo;USA&rdquo;, maybe as a signal to his friends. &ldquo;The USA was the cause of all problems&rdquo;</p>
 
 <h1>A Hypothesis</h1>
- <p>&ldquo;No, it wasn't,&rdquo; Iggy responded. &ldquo;Wait, you were told this? And you just took it at face value? Surprising because you are pretty good at asking questions.&rdquo;</p>
+ <p>&ldquo;No, it wasn&rsquo;t,&rdquo; Iggy responded. &ldquo;Wait, you were told this? And you just took it at face value? Surprising because you are pretty good at asking questions.&rdquo;</p>
  <p>&ldquo;Well, no, not really,&rdquo; said the kid, &ldquo;but it felt like a sound hypothesis&rdquo;</p>
  <p>&ldquo;Ah, OK. But it is not,&rdquo; Iggy looked relieved. &ldquo;But you were ready for that answer, right?&rdquo; now Iggy was smiling.</p>
  <p>&ldquo;It was <em>the <span class="_paradigm">FIAT</span> system.</em> Iggy said. &ldquo;The system of super-centralized ownership, the system of bosses and wages, the system of competition and dominance. The system, do you understand?&rdquo; Iggy had to stop to calm down. &ldquo;If anything, it was the USA that ended up showing the world the way out. It had such a big influence and the <span class="paradigm">RADICAL</span> model spread throughout the world. The USA system of government allowed for changes, but the reason it was moving slowly is that the politicians were waiting for the whole country, all at once, to vote for it. Just imagine: they were trying to get more than half-billion people to move in one direction. Unfortunately, on our way there we would have depleted the Earth of the very resources we needed to live.&rdquo;</p>
  <p>The new boy made a soft sound and then he said, &ldquo;You sayin&lsquo; that we&rsquo;d&rsquo;ve run out of resources to support the majority of people, but some would have survived, right?&rdquo;</p>
- <p>&ldquo;Well&hellip; yes and no. It depends on what you mean by &lsquo;survive.&rsquo; Some people would survive, but all our cultural advances would go down the drain along with a depleted Earth.&rdquo; Iggy had to take a deep breath. &ldquo;What I heard many people say&mdash;and keep ih mind that I heard it from <em>devout <span class="_paradigm">FIAT</span> people</em>&mdash;is that the USA would have gotten there, but &lsquo;there was no need to rush things&rsquo; or &lsquo;people needed time to adapt.&rsquo; They were still thinking of centralized governments and nation state. What they ignored is that the abuse and depletion of resources was accelerating and we didn't have time for them <em>to accept the changes needed</em> at their leisure.&rdquo;</p>
+ <p>&ldquo;Well&hellip; yes and no. It depends on what you mean by &lsquo;survive.&rsquo; Some people would survive, but all our cultural advances would go down the drain along with a depleted Earth.&rdquo; Iggy had to take a deep breath. &ldquo;What I heard many people say&mdash;and keep ih mind that I heard it from <em>devout <span class="_paradigm">FIAT</span> people</em>&mdash;is that the USA would have gotten there, but &lsquo;there was no need to rush things&rsquo; or &lsquo;people needed time to adapt.&rsquo; They were still thinking of centralized governments and nation state. What they ignored is that the abuse and depletion of resources was accelerating and we didn&rsquo;t have time for them <em>to accept the changes needed</em> at their leisure.&rdquo;</p>
  <p>This time it was the girl who asked, &ldquo;And so, these <span class="_paradigm">FIAT</span> people, they just accepted it? Just like that?&rdquo;</p>
  <p>&ldquo;No, not quite,&rdquo; Iggy said. &ldquo; Not everybody came up with their own solutions at once, some took longer than others. The feeling of superiority, and the fear of losing it, is more potent than a drug. Lot of them joined the Bracia, where I come from, and few other places like it. The other folks, the ones who understood that a change was needed, there was nothing stopping them from doing whatever they wanted within their companies, so people started to transform them. Many created companies that were based on co-management and co-ownership from the start. Others went along with the transformation of their existing businesses when they saw how much wealth these companies created. They had to give up their feeling of superiority, but they got back time that they could spend on themselves and with their families. And nobody missed the unhealthy competition&mdash;it took a lot of stress out of the system. People were better at collaborating once they were working on what they wanted to work on and with whom they wanted to work.&rdquo;</p>
 
 <h1>Salutations</h1>
- <p>The girl again, &ldquo;Are you saying that you were forced to work with people you didn&lsquo;t know them?&hellip; what if you didn't trust them? And, my name is Karla, with a K.&rdquo;</p>
- <p>Kal smiled and said, &ldquo;And mine is Kalisha, also with a K, but everybody calls me Kal. And this, &hellip;&rdquo; she said as she pointed to Ignatius, &ldquo;&hellip; this is Ignatius, or Iggy, as we call him.&rdquo;</p>
+ <p>The girl again, &ldquo;Are you saying that you were forced to work with people you didn&lsquo;t know them?&hellip; what if you didn&rsquo;t trust them? And, my name is Karla, with a K. You can call me Kay.&rdquo;</p>
+ <p>Kal smiled and said, &ldquo;And mine is Kalisha, also with a K, and everybody calls me Kal. And this, &hellip;&rdquo; she said pointing to Ignatius, &ldquo;&hellip; is Ignatius, or Iggy, as we call him.&rdquo;</p>
  <p>The boy got up from the floor, bobbed a curtsy, and said, &ldquo;I&rsquo;ll join in the salutations and announce that my name is Bob. Well, Roberto, but I respond to Bob, or Beto, or Bobby, or anything that sounds like it.&rdquo; With that, he bobbed another curtsy and plopped down on the floor.</p>
  <p>Before Iggy could get started again, Kal looked up and then said, &ldquo;The sun is starting to set and it&rsquo;s going to get much cooler quickly. We are going to that house, would you like to come with us.&rdquo;</p>
  <p>Ariel took a quick look at his friends and said, &ldquo;If you promise not to throw us in a cauldron and eat us and Iggy can keep keep talking, we will follow you.&rdquo;</p>
 
-<h1>xxx</h1>
-<ol>
- <li>how to create a RADICAL company: rCORE as example.</li>
- <li>how to transform a small FIAT company to RADICAL: Xipe as example.</li>
- <li>how to large FIAT company to RADICAL: Qualia as example.</li>
- <li>Leftover violence: drug lords, but,</li>
+<h1>Transformations</h1>
+ <p>They got to the house and after some hesitation, Bob offered to cook for everybody. Iggy walked him towards the kitchen and they proceeded to pull out pots and pans and generally made a lot of noise.</p>
+ <p>When the noise quieted down, Kay asked, &ldquo;Iggy should we wait for you or are you going to continue while cooking?&rdquo;</p>
+ <p>&ldquo;Not sure. What do you want to know?&rdquo; Iggy said as he and Bob continued with their cooking.</p>
+ <p>&ldquo;Well&hellip; How did the transformation get started?&rdquo;</p>
+ <p>&ldquo;Perfect timing, because I can not speak to that first hard, but Kal can!&rdquo;</p>
+ <p>All eyes turned to Kal, and even Bob stood by the kitchen door. &ldquo;OK, I am game.&rdquo; Kal said that and got quiet, looking down.</p>
+ <p>&ldquo;First of all, I was a little kid. A precocious little kid, but still you have to take everything I say with grain of salt.&rdquo;</p>
+ <p>&ldquo;Don&rsquo;t worry,&rdquo; Ariel said, &ldquo;We are taking everything you and Iggy say with a grain of salt, as you said.&rdquo;</p>
+ <p>&ldquo;Good.&rdquo; Kal really looked relieved and after taking a breath, she said, &ldquo;It depends. I&rsquo;ll go in the order I remembered, more or less. The first thing is that there were lots of startups that got started with co-ownership and made a big deal of it. A. BIG. DEAL. They were so proud! They knew they were pioneering the movement away from <span class="_paradigm">FIAT</span> and they were very loud about it.&rdquo;</p>
+ <p>&ldquo;The first one I remembered was a little business doing translations, or interpretations, as they called it. Not sure what it was really called, but my Great Grandfather always referred to it as rCORE. The founder had to leave Venezuela after the President became a dictator and pushed him and a bunch of people like him out. In any case, he was a ploglot, so when he landed in the USA, he set up this translation business. When he understood the <span class="_paradigm">RADICAL</span> model he was very enthusiastic and jumped righ on it. It took a while, but eventually they went from a bunch of independents scraping for anything that looked like revenue, to a group of co-owners. The <em>company</em> exploded. Other interpreters started using the model and the tools that cCORE had developed. Then, they started to collaborate with each other. Lots of tools were developed, and they could support just about anything that their clients needed. In about four years, they eclipsed most of the <span class="_paradigm">FIAT</span> business in that space, including some big ones.&rdquo; Kal&rsquo;s eyes glazed over and she got teary eyed. &ldquo;My great-grandpa was so nice. But he dod get to see how the <span class="_paradigm">FIAT</span> system got pushed further and further in the background. Fortunatly, he did not get to see the Bracia at its strongest. They were so violent.&rdquo;</p>
+ <p>&ldquo;Tell us about the violence&hellip; ,&rdquo; Ariel almost whispered it.</p>
+ <p>Kal look his way, but she was somewhere deep inside herself. Then she focused and she said, &ldquo;OK, but I&rsquo;ll tell you about another kind of violence.</p>
+ <p>&ldquo;My parent and I were visiting friends who had this house on a sleepy beach town. They promised us that other than jumping in the water and playing in the sand, it was going to be very boring. It was boring and fun. But things changed quickly. About the third night of our being with them, the house next door was getting ready for a party. Soon the adults closed the door because between the loud music and the wild laughter they couldn&rsquo;t hear theselves talk. One their boys was looking out the window and urgently signaled us to come over. As we pushed our faces on the glass, I saw an electric pick up&mdash;there weren&rsquo;t that many back then&mdash;right under our balcony. And there was another one, on the other side of the house next door.&rdquo;</p>
+ <p>&ldquo;Then the boy said, &lsquo;did you see the rifles?&rsquo; So, I looked again and I saw them, except they were not rifles, the were automatic weapons! I pointed that out and we got very excited. Our parents noticed and they started to come over. Then I did my best to look bored and walked away from the balcony window. My friends got the hint and they all walked away to various places in the house. And that was it, nothing happened that night. But my point being that even as <span class="_paradigm">FIAT</span> was receding and <span class="_paradigm">RADICAL</span> was advancing, some people couldn&rsquo;t let go if that type of violence. Eventually there weren&rsquo;t enough deperate people to become &lsquo;soldiers&rsquo;. They could live better by joining with their friends and doing something meaningful together and earning ownership of something valuable to the world.&rdquo;</p>
+ 
+ <ol>
+  <li>how to create a <span class="_paradigm">RADICAL</span> company: rCORE as example.</li>
+  <li>how to transform a small <span class="_paradigm">FIAT</span> company to RADICAL: Xipe as example.</li>
+  <li>how to large <span class="_paradigm">FIAT</span> company to <span class="_paradigm">RADICAL</span>: Qualia as example; also, Heidi&rsquo;s school ("even schools").</li>
+  <li>Leftover violence: drug lords, but,</li>
   <ul>
    <li>nobody was desperate enough to work as soldiers</li>
    <li>less people hooked on highly addictive drugs</li>
    <li>Drugs were no longer ilegal</li>
   </ul>
- <li>Why did the Bracia survive for so long?</li>
+  <li>Why did the Bracia survive for so long?</li>
   <ul>
    <li>They attracted desperate people to work as soldiers</li>
    <li>They made up a religion</li>
    <li>They kept people on highly addictive drugs (<em>i.e.</em>, the opioid crisis)</li>
    <li>Everybody who joined was convinced that the Bracia was the only way to "Make America Great Again."</li>
   </ul>
-</ol>
+ </ol>
  <p>&ldquo;xxx&rdquo;</p>
  <p>&ldquo;xxx&rdquo;</p>
  <p>&ldquo;xxx&rdquo;</p>
