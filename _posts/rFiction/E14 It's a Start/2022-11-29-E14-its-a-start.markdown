@@ -85,7 +85,8 @@ image:    "icon-e14-and-then.svg"
 <h1>rXipe</h1>
  <p>&ldquo;Well, there was rCORE which Iggy talked about a bit. At about the same time, there was xXipe, a software company in Mexico,&rdquo; said Kal. &ldquo;Xipe was some kind of Aztec diety. It was associated with fertility and this other Xipe helped other <span class="_paradigm">RADICAL</span> software companies get started.&rdquo; It started a few years before I knew of them, but they grew very quickly. They created all kinds of tools for the <span class="_paradigm">RADICAL</span> ecosystem. And they, too, like rCORE collaborated with other new companies. It was incredible how fast they grew and they helped others.</p>
  <p>&ldquo;They made the original application for <span class="_paradigm">RAD</span>s distribution, right?&rdquo; Ariel, yelled from the kitchen.</p>
- <p>&ldquo;Yep. That.&rdquo; Kal continue, &lsquo;And many more. But their contribution was more along the lines of how well they worked with their clients. It wasn&rsquo;t just &lsquo;practices&rsquo; or anything like. It was genuine. They helped transformed many of their clients, too.&rdquo;</p>
+ <p>&ldquo;Yep. That.&rdquo; Kal continue, &ldquo;And many more. But their contribution was more along the lines of how well they worked with their clients. It wasn&rsquo;t just &lsquo;practices&rsquo; or anything like. It was genuine. They helped transformed many of their clients, too.&rdquo;</p>
+
 <h1></h1>
  <ol>
   <li>how to create a <span class="_paradigm">RADICAL</span> company: rCORE as example.</li>
