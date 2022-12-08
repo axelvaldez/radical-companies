@@ -19,7 +19,7 @@ image:    "icon-sf-its-a-start.svg"
  <p>The kid just stared at him, befuddled.</p>
 
 <h1>Shall We Dance?</h1>
- <p>Iggy insisted, &ldquo;Would like to hear what we have to tell?&rdquo;</p>
+ <p>Iggy insisted, &ldquo;Would you like to hear what we have to tell?&rdquo;</p>
  <p>He waited a bit and then continued, &ldquo;Things were not always this way. In fact, most people thought that the transformation would not happen at all. But it did happen, and it happened faster than anybody thought. It turned out that most people knew at some level that the <span class="_paradigm">FIAT</span> system was <em>not working for them</em>, they just didn&rsquo;t know that it wasn&rsquo;t working for so many people. Once they experience the difference at work, they could not go back. Their experience at <span class="_paradigm">RADICAL</span> companies was unlike anything they had experienced before. But not everbody had the chance to experience it first hand, so they clung to their fears and defended the very system that was not working for them or for the planet.&rdquo;</p>
  <p>&ldquo;By the way, in those days, before the transformation happened, I would have hit you for the response you gave us. You showed us disrepect and we would have been in our right to castigate you for it, even hit you.&rdquo;</p>
  <p>&lsquo;But you didn&rsquo;t <em>earn</em> my respect. You took me for granted and started spewing what sounded a lot like BS to me.&rdquo;</p>
