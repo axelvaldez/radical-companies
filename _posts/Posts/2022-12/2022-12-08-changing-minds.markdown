@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Changing Minds"
+title:    "Changing Minds (UNDER CONSTRUCTION)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-about-daos.svg"
