@@ -12,7 +12,7 @@ image:    "icon-sf-its-a-start.svg"
 
 <h1>A Tale of Two Systems</h1>
  <p>Ignatius, had lived in a <span class="_paradigm">FIAT</span> community called the Bracia.  Kal lived in several <span class="_paradigm">RADICAL</span> ones throughout the world. They both witnessed the transformation that the world went through but from very different points of view, different beliefs. So, when the kid said, &ldquo;Nah. It smells like Science Fiction to me,&rdquo; they just looked at each other.</p>
- <p>&ldquo;We lived through it,&rdquo; Kal said. &ldquo;He grew up in the <span class="_paradigm">FIAT</span> side, and I grew up in <span class="_paradigm">RADICAL</span> communities.&rdquo; Keep in mind that Ignatius was 83 and Kal 72, so to the kid, they weren&rsquo;t that old. So the kid just said, &ldquo;Bullshit!&rdquo;</p>
+ <p>&ldquo;We lived through it,&rdquo; Kal said. &ldquo;He grew up in the <span class="_paradigm">FIAT</span> side, and I grew up in <span class="_paradigm">RADICAL</span> communities.&rdquo; Keep in mind that Ignatius was 83 and Kal 72, so to the kid, they weren&rsquo;t that old. So hexxx just said, &ldquo;Bullshit!&rdquo;</p>
  <p>&ldquo;He reminds me of you, Iggy, such facility with words&rdquo;&mdash;Kal was all smiles as she said it.</p>
  <p>The kid, who seem to be around 12 years old, had no idea what was going on, but he doubled down: &ldquo;Bullshit and more bulshit! Things have been this way since before you were born.&rdquo;</p>
  <p>Usually Kal was the calm one, but she was getting visibly angry. Ignatius put his hand on her shoulder and he said, &ldquo;Well, now we know how he <em>really</em> feels, right?&rdquo; said Ignatious. He then looked at the kid and asked, &ldquo;Would you tell us your name?&rdquo;</p>
