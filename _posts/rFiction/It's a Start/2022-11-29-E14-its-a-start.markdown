@@ -3,7 +3,7 @@ layout:   post
 title:    "It&rsquo;s a Start"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-its-a-start.svg"
+image:    "icon-sf-its-a-start.svg"
 ---
 
 <div style="display: none;">
