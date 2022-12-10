@@ -3,7 +3,7 @@ layout:   post
 title:    "Changing Minds (UNDER CONSTRUCTION)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-changing-minds.svg"
 ---
 
 <div style="display:none;">
