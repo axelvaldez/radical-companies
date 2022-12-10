@@ -80,7 +80,7 @@ image:    "icon-about-daos.svg"
     AUTHOR(S).
     <em>TITLE.</em>
     PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
+    &lt;<a href="https://…" target="_blank">https://…</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
