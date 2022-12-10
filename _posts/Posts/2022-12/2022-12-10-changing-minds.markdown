@@ -18,65 +18,6 @@ Joost Minear.
 Dec 2022.
 <<a href="https://corporate-rebels.com/work-context-changes-mindset/" target="_blank">https://corporate-rebels.com/work-context-changes-mindset/</a>>
 
-<!-- image -->
-<div class="_center">
- <img
-  src="/assets/img/pings-to-rads-equation.svg"
-  width="70%"
-  alt="">
- </div>
-
-<!-- new foundation -->
- <table align="center">
-  <tr>
-   <th>principles</th>
-   <td class="_foundation">Meaning & Belonging</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>commitments</th>
-   <td class="_foundation">Decentralization & Transparency</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>practices</th>
-   <td class="_foundation">Experimentation</td>
-  </tr>
-  <tr>
-   <td class="_spacer_"></td>
-  </tr>
- </table>
- 
-<!-- old foundation
-<table align="center">
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
- </tr>
- <tr>
-  <td style="height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
- </tr>
- <tr>
-  <td style="height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
- </tr>
- <tr>
-  <td class="_spacer_">&nbsp;</td>
- </tr>
-</table>
- -->
-
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
