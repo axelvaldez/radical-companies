@@ -140,7 +140,7 @@ image:    "icon-sf-its-a-start.svg"
  <p>He hesitated, but then he continued. &ldquo;My brother went back with them and was tortured to death. I had my friend Petra, and sticking with her saved my life.&rdquo;</p>
  <p>&ldquo;And I had just left Mexico with my parents,&rdquo; Kal said. &ldquo;I met Iggy not that long after he escaped the Bracia. He left for a while. Then he came back, about 10 years later, and we have been traveling together ever since.&rdquo;</p>
  <p>Kal had an ear to ear smile on her face. And so did Iggy.</p>
- <p>Bob got up, made a bow, and said, &ldquo;I don&rsquo;t know about these other short people, but I will give you <span class="_paradigm">RAD</span>s for your kindness.</p>
+ <p>Bob got up, made a bow, and said, &ldquo;I don&rsquo;t know about these other short people, but I will bestow <span class="_paradigm">RAD</span>s aplenty for your kindness and selfishness.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
