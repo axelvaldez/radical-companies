@@ -11,14 +11,20 @@ image:    "icon-changing-minds.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>In <em>Change the Mindset of Employees with These Three Simple Steps</em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
- <ul>
-  <li>Understand what employees do</li>
-  <li>Understand why employees do what they do</li>
-  <li>Change the working context</li>
- </ul>
- <p>xxx</p>
- <p>xxx</p>
+ <p>In <em>Change the Mindset of Employees with These Three Simple Steps,</em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> Joost Minear, or Coporate Rebels, gets it right and says that people behave the working context allows for.</p>
+ <p>He cites several examples of what he means by structures: organizational structure, the way meetings are run, the way decisions are made, how conflicts are handled, and how tasks, roles, and responsibilities are distributed. The thing is not to read these as just practices, but as things that hold back employees.</p>
+ <p>In fact, these are the very things that keep employees as employess: people trading their ability to do work for a wage. Joost is right in that the context has to change to make them more than employee. You want them to act as co-owners. So, let's be more specific.</p>
+
+<h1>Decentralization</h1>
+ <p>You can address all the examples above with one change: <em>decentralize1</em>,</p>
+  <ul>
+   <li>Organizational Structure. I read this as &ldquo;the <span class="_paradigm">FIAT</span> hierarchy&rdquo;, and it has to go. So long as you are the boss, this will modulate how people behave when you&rsquo;re aroud. You, and the rest of your management, control their salaries, their status (<em>i.e.</em>, their &ldquo;advacement&rdquo; opportunity), and how tasks, roles, and responsibilities are distributed. This is always &ldquo;first and foremost&rdquo; in their minds and they act accordingly.</li>
+   <li>Running Meetings. This is a practice. Indeed if you and your managers call the meetings and then do all the talking, people will behave accordingly.</li>
+   <li>Decisions Makings, Conflicts Handling, Tasks, Roles, Responsibilities. If you and your managers made all the pivotal decision, handle all conflicts and their resolutions,and have the final word on assignements and promotions, people will behave accordingly.</li>
+  </ul>
+ <p>And by &ldquo;accordingly&rdquo; I mean that they  will behave as employess, putting in a given amount of acceptable work in exchange for income. They won&rdquo;t act as co-owners for the simple reason that they are <span style="font-weight:bold; ">not</span>.</p>
+ <p>The first to do is let go of the <span class="_paradigm">FIAT</span> hierarchy. With the hierarchy gone, some people will behave differently. And others will learn from them.</p>
+ <p>Note that decentralization requires full transparency. Everybody needs to know what&rsquo;s going on, in detail, </p>
  <p>xxx</p>
  <p>xxx</p>
 
