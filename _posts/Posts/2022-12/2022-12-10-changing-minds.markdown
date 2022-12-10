@@ -11,6 +11,16 @@ image:    "icon-changing-minds.svg"
 </div>
 
 <h1>&nbsp;</h1>
+ <p>In <em>Change the Mindset of Employees with These Three Simple Steps</em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
+ <ul>
+  <li>Understand what employees do</li>
+  <li>Understand why employees do what they do</li>
+  <li>Change the working context</li>
+ </ul>
+ <p>xxx</p>
+ <p>xxx</p>
+ <p>xxx</p>
+ <p>xxx</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
