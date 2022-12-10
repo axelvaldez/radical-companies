@@ -12,12 +12,6 @@ image:    "icon-changing-minds.svg"
 
 <h1>&nbsp;</h1>
 
-<p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
-Joost Minear.
-<em>Change the Mindset of Employees with These Three Simple Steps</em>.
-Dec 2022.
-&lt;<a href="https://corporate-rebels.com/work-context-changes-mindset/" target="_blank">https://corporate-rebels.com/work-context-changes-mindset/</a>&gt;
-
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
