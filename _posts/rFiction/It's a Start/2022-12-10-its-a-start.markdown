@@ -142,6 +142,13 @@ image:    "icon-sf-its-a-start.svg"
  <p>Kal had an ear to ear smile on her face. And so did Iggy.</p>
  <p>Bob got up, made a bow, and said, &ldquo;I don&rsquo;t know about these other short people, but I will bestow <span class="_paradigm">RAD</span>s aplenty for your kindness and selfishness.</p>
 
+<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+  <span style="float:left; "><a href="https://radicalcompanies.com/2022/03/13/E13-giving-back">Previous <</a></span>
+ <!--
+ <span style="float:right; "><a href="https://radicalcompanies.com/">                              > Next</a></span>
+ -->
+</div>
+
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
