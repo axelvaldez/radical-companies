@@ -22,10 +22,10 @@ Dec 2022.
  <ol>
   <li id="en01">
    <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    <<a href="https://…" target="_blank">https://…</a>>
+    Joost Minear.
+    <em>Change the Mindset of Employees with These Three Simple Steps</em>.
+    Dec 2022.
+    &lt;<a href="https://corporate-rebels.com/work-context-changes-mindset/" target="_blank">https://corporate-rebels.com/work-context-changes-mindset/</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
