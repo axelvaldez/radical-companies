@@ -16,7 +16,7 @@ image:    "icon-changing-minds.svg"
 Joost Minear.
 <em>Change the Mindset of Employees with These Three Simple Steps</em>.
 Dec 2022.
-< <a href="https://corporate-rebels.com/work-context-changes-mindset/" target="_blank">https://corporate-rebels.com/work-context-changes-mindset/</a> >
+<<a href="https://corporate-rebels.com/work-context-changes-mindset/" target="_blank">https://corporate-rebels.com/work-context-changes-mindset/</a>>
 
 <!-- image -->
 <div class="_center">
