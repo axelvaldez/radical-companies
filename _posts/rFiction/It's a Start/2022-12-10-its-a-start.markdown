@@ -7,7 +7,7 @@ image:    "icon-sf-its-a-start.svg"
 ---
 
 <div style="display: none;">
- <p>How did it all start?&mdash;Ignatious repeated&mdash;Let me tell you what we witnessed and what it felt like&hellip;</p>
+ <p>How did it all start? Well let me tell you what we witnessed and what it felt like&hellip;</p>
 </div>
 
 <h1>A Tale of Two Systems</h1>
