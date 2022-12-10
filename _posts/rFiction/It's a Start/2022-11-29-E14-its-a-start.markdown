@@ -138,7 +138,7 @@ image:    "icon-sf-its-a-start.svg"
  <p>His eyes looked unfocused and he suddenly looked tired and sad. &ldquo;On the one hand exploited by the Bracia and, on the other, tireless defenders of the Bracia. I don&rsquo;t remember anymore, but I was a defender, too. That is, until I met Petra.&rdquo;</p>
  <p>Iggy looked at Ariel and said, &ldquo;You remind me a lot of her. She was a pain, too, but she wanted out. Badly. She managed to convince our whole squad to make a break for it. We did escape, and that is why I am here. Unfortunately, most of the group decided to go back. They were going crazy not having anybody to tell them what to do. We expected bloodthirsty monsters, and instead we got kindness from everybody. It was disconcerting.&rdquo;</p>
  <p>He hesitated, but then he continued. &ldquo;My brother went back with them and was tortured to death. I had my friend Petra, and sticking with her saved my life.&rdquo;</p>
- <p>&ldquo;And I had just left Mexico with my parents,&rdquo; Kal said. &ldquo;I met Iggy not that long after he escaped the Bracia. He left for a while. but when he came back, about 10 years later, we have been traveling together ever since.&rdquo;</p>
+ <p>&ldquo;And I had just left Mexico with my parents,&rdquo; Kal said. &ldquo;I met Iggy not that long after he escaped the Bracia. He left for a while. but then he came back, about 10 years later, and we have been traveling together ever since.&rdquo;</p>
  <p>Kal had an ear to ear smile on her face. And so did Iggy.</p>
 
 <h1 class="_section">RELATED</h1>
