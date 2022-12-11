@@ -17,7 +17,7 @@ image:    "icon-ownership-is.svg"
    <li>The best ever human invention (<em>i.e.</em>, Neoliberals rejoice)</li>
    <li>The foundation of the <span class="_paradigm">RADICAL</span> model (<em>i.e.</em>, everybody is puzzled)</li>
   </ul>
- <p>It really is, at least, all of those things at once.</p>
+ <p>ownership really is all of those things at once.</p>
 
 <h1>Possession</h1>
  <p>Before legal ownership, there was possession. And there still is. Human babies cry, and fight, to keep their possessions. They story goes that when farming came along, possession had to be formalized into ownership. Just as believable is that once some people figure out how to use law-making as a tool to formalize their possessions, they defined ownership as legit. &ldquo;This land is mine! Period. Mext paragraph.&rdquo; This process of legitimizing enclosures is still with us, although these days is more about copyrigts, patents, and black-box servers.</p>
