@@ -11,37 +11,38 @@ image:    "icon-changing-minds.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>In <em>Change the Mindset of Employees with These Three Simple Steps,</em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> Joost Minear, or Coporate Rebels, gets it right and says that people behave the working context allows for.</p>
- <p>He cites several examples of what he means by structures: organizational structure, the way meetings are run, the way decisions are made, how conflicts are handled, and how tasks, roles, and responsibilities are distributed. The thing is not to read these as just practices, but as things that hold back employees.</p>
- <p>In fact, these are the very things that keep employees as employess: people trading their ability to do work for a wage. Joost is right in that the context has to change to make them more than employee. You want them to act as co-owners. So, let's be more specific.</p>
+ <p>In <em>Change the Mindset of Employees with These Three Simple Steps,</em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> Joost Minear, the Coporate Rebels co-founder, gets it right and says that people behavior is constrained by what the working context empowers them to do.</p>
+ <p>He cites several examples of what he means by structures: organizational structure, the way meetings are run, the way decisions are made, how conflicts are handled, and how tasks, roles, and responsibilities are distributed. The thing is not to read these as just practices, but as things that hold back employees in a fundamental way.</p>
+ <p>These are, in fact, the very things that keep employees as employess. Joost is right in that the context has to change to unleashing them to be more than mere employees.</p>
 
 <h1>Decentralization</h1>
- <p>You can address all the examples above with one change: <em>decentralize1</em>,</p>
+ <p>You can address all the examples above with one change: <em>decentralize</em>,</p>
   <ul>
-   <li>Organizational Structure. I read this as &ldquo;the <span class="_paradigm">FIAT</span> hierarchy&rdquo;, and it has to go. So long as you are the boss, this will modulate how people behave when you&rsquo;re aroud. You, and the rest of your management, control their salaries, their status (<em>i.e.</em>, their &ldquo;advacement&rdquo; opportunity), and how tasks, roles, and responsibilities are distributed. This is always &ldquo;first and foremost&rdquo; in their minds and they act accordingly.</li>
-   <li>Running Meetings. This is a practice. Indeed if you and your managers call the meetings and then do all the talking, people will behave accordingly.</li>
-   <li>Decision Making, Conflict Handling, abd the Disbribution of Tasks, Roles, Responsibilities. If you and your managers made all the pivotal decision, handle all conflicts and their resolutions,and have the final word on assignements and promotions, people will behave accordingly.</li>
+   <li>Organizational Structure. I read this as &ldquo;the <span class="_paradigm">FIAT</span> hierarchy has to go.&rdquo; So long as you are the boss, this will modulate how people behave when you&rsquo;re around. They know that you and your managers control their salaries, their status (<em>i.e.</em>, promotions), and how tasks, roles, and responsibilities are distributed. This is &ldquo;first and foremost&rdquo; in their minds, always, and they act accordingly.</li>
+   <li>Running Meetings, Decision Making, Conflict Handling, abd the Disbribution of Tasks, Roles, Responsibilities. If you and your managers call meetings and do most of the talking, make all the pivotal decisions, handle all conflicts and their resolutions,and have the final word on assignements and promotions, people will behave accordingly.</li>
   </ul>
  <p>And by &ldquo;accordingly&rdquo; I mean that they will behave as employees, putting in a given amount of acceptable work in exchange for income. Employees won&rsquo;t act as co-owners for the simple reason that they are <span style="font-weight:bold; ">not</span>.</p>
 
 <h1>What to Do?</h1>
- <p>The first to do is let go of the <span class="_paradigm">FIAT</span> hierarchy. With it gone, some people will behave differently. And others will learn from them. This means getting rid of titles, rank and &ldquo;need to know&.rdquo; It also means,</p>
+ <p>The first to do is let go of the <span class="_paradigm">FIAT</span> hierarchy. Some people can behave differently, and others can learn from them. This means.
   <ul>
-   <li>Decentralized decision-making which requires full transparency. Everybody needs to know what&rsquo;s going on, in detail, so they can make well-informated decisions.</li>
-   <li>Conflict Handling. People need to up their skills on handling conflicts themselves. And if that fails, the can reach to another co-owner to help them resolve the conflict.</li>
-   <li>Disbribution of Tasks, Roles, Responsibilities. Groups of co-owners know who can do what best.</li>
+   <li>Getting rid of titles, rank, and &ldquo;need to know&rdquo; secrecy.</li>
+   <li>Decentralized decision-making. Note that this requires full transparency. Everybody needs to know what&rsquo;s going on, in detail, so they can make well-informated decisions.</li>
+   <li>Conflict Handling. People need to up their skills on handling conflicts themselves. If that fails, they can reach to another co-owner to facilitate.</li>
+   <li>Disbribution of Tasks, Roles, Responsibilities. Co-owners know who can do what best and &ldquo;goodies&rdquo; should reflect that.</li>
   </ul>
 <h1>Co-Ownership</h1>
- <p>Having people <em>be</em> co-owners, they will act as co-owners.</p>
+ <p>Having people <em>be</em> co-owners means that they will act as co-owners. And others will act as co-owner.</p>
  <p>The <em>hard problem</em> has been how to distribute ownership. Stocks are a very old solution and that makes them problematic,</p>
   <ul>
    <li>Stocks and forever.</li>
    <li>Stock distributions are extremely centralized.</li>
   </ul>
- <p>The 21<sup>st</sup> century solution has to be dynamic and decentralized. And that is what a <span class="_paradig">RAD</span>s Disbrituion is and what the <span class="_paradigm">RAD</span>s! application makes possible: a 21<sup>st</sup> century tool that is decentralized and dynamic,
+ <p>The solution has to be dynamic and decentralized. And that is what a <span class="_paradig">RAD</span>s Disbrituion is and what the <span class="_paradigm">RAD</span>s! application makes possible: a 21<sup>st</sup> century tool that makes the process painless, decentralized, and dynamic,
   <ul>
-   <li><b>Decentralization</b>: Everybody gets to distribute <span class="_paradigm">RAD</span>s!</li>
-   <li><b>Dynamic</b>: The distribution changes monthly and it reflect the contribution made and recognized by their peers.</li>
+   <li><b>Painless</b>: The mobile application handles all the mechanics so users can focus on their feelings.</li>
+   <li><b>Decentralized</b>: Everybody gets to distribute <span class="_paradigm">RAD</span>s!</li>
+   <li><b>Dynamic</b>: The distribution changes on a regular basis (<em>e.g.</em>, monthly) and it reflects the contributions made and recognized by other co-owners.</li>
   </ul>
 
 <h1 class="_section">ENDNOTES</h1>
