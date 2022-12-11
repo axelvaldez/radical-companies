@@ -13,9 +13,9 @@ image:    "icon-ownership-is.svg"
 <h1>&nbsp;</h1>
  <p>Ownership is,</p>
   <ul>
-   <li>The result of enclosures brought about by violent robbery (<em>i.e.</em>, Marxists rejoice)</li>
-   <li>The best ever human invention (<em>i.e.</em>, Neoliberals rejoice)</li>
-   <li>The foundation of the <span class="_paradigm">RADICAL</span> model (<em>i.e.</em>, everybody is puzzled)</li>
+   <li>The result of enclosures brought about by violent robbery (<em>i.e.</em>, Marxists rejoice).</li>
+   <li>The best ever human invention (<em>i.e.</em>, Neoliberals rejoice).</li>
+   <li>The foundation of the <span class="_paradigm">RADICAL</span> model (<em>i.e.</em>, everybody is puzzled).</li>
   </ul>
  <p>ownership really is all of those things at once.</p>
 
