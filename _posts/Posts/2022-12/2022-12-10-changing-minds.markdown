@@ -61,6 +61,7 @@ image:    "icon-changing-minds.svg"
   <li id="en02">
    <p class="_list-item">
     Joost Minear, Corporate Rebels co-founder
+    &lt;<a href="https://corporate-rebels.com/rebel/joost/" target="_blank">https://corporate-rebels.com/rebel/joost/</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
