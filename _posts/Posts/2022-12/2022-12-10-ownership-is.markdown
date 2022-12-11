@@ -11,7 +11,7 @@ image:    "icon-ownership-is.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Ownership is</p>
+ <p>Ownership is,</p>
   <ul>
    <li>The result of enclosures brought about by violent robbery (<em>i.e.</em>, Marxists rejoice)</li>
    <li>The best ever human invention (<em>i.e.</em>, Neoliberals rejoice)</li>
