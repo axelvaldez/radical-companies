@@ -44,7 +44,7 @@ image:    "icon-changing-minds.svg"
   <ul>
    <li><b>Painless</b>: The mobile application handles all the mechanics so users can focus on recognizing whatever they feel is a contributions</li>
    <li><b>Decentralized</b>: Every co-owner gets to distribute <span class="_paradigm">RAD</span>s to other co-owners.</li>
-   <li><b>Dynamic</b>: The <span class="_paradigm">RAD</span> distribution changes constantly (<em>e.g.</em>, monthly) to reflect the contributions made by co-owners.</li>
+   <li><b>Dynamic</b>: The <span class="_paradigm">RAD</span> distribution changes regularly (<em>e.g.</em>, monthly) to reflect the contributions made by co-owners.</li>
   </ul>
 
 <h1 class="_section">ENDNOTES</h1>
