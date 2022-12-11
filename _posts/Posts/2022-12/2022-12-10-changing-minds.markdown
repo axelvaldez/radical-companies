@@ -24,12 +24,12 @@ image:    "icon-changing-minds.svg"
  <p>And by &ldquo;accordingly&rdquo; I mean that they will behave as employees, putting in a given amount of acceptable work in exchange for income. Employees won&rsquo;t act as co-owners for the simple reason that they are <span style="font-weight:bold; ">not</span>.</p>
 
 <h1>What to Do?</h1>
- <p>The first to do is let go of the <span class="_paradigm">FIAT</span> hierarchy. Some people can behave differently, and others can learn from them. This means.
+ <p>The first to do is let go of the <span class="_paradigm">FIAT</span> hierarchy. Some people can behave differently, and others can learn from them. This means to,
   <ul>
-   <li>Getting rid of titles, rank, and &ldquo;need to know&rdquo; secrecy.</li>
+   <li>Get rid of titles, rank, and &ldquo;need to know&rdquo; secrecy.</li>
    <li>Decentralize decision-making. Note that this requires full transparency: everybody needs to know what&rsquo;s going on, in detail, so they can make good, well-informated decisions.</li>
-   <li>Conflict Handling. People need to up their skills on handling conflicts themselves. If that fails, they can reach to another co-owner to facilitate.</li>
-   <li>Distribution of Tasks, Roles, Responsibilities. Co-owners know who can do what best and &ldquo;goodies&rdquo; should reflect that.</li>
+   <li>Decentralize conflict handling. People need to up their skills on handling conflicts themselves. If that fails, they can reach to another co-owner to facilitate.</li>
+   <li>Decentralize  distribution of Tasks, Roles, Responsibilities. Co-owners know who can do what best and all distributions should reflect that.</li>
   </ul>
 
 <h1>Co-Ownership</h1>
