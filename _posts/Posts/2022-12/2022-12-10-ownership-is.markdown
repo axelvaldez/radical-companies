@@ -14,7 +14,7 @@ image:    "icon-ownership-is.svg"
  <p>Ownership is</p>
   <ul>
    <li>The result of enclosures brought about by violent robbery (<em>i.e.</em>, the Marxists rejoice)</li>
-   <li>The best human inventions (<em>i.e.</em>, the Neoliberals rejoice)</li>
+   <li>The best ever human invention (<em>i.e.</em>, the Neoliberals rejoice)</li>
    <li>The foundation of the <span class="_paradigm">RADICAL</span> model (<em>i.e.</em>, most people are puzzled)</li>
   </ul>
  <p>It really is, at least, all of those things at once.</p>
@@ -26,6 +26,9 @@ image:    "icon-ownership-is.svg"
  <p>Anything a toddler comes in contact with is &ldquo;MINE!&rdquo; At least, for a few minutes. It probably has to do with the fact that, according to our brains anything becomes extensions of our bodies, part of our bodies, easily and swiftly. And anything that is part of our body cannot be let go. Whatever the story, possession is a very real and very personal thing and we should not pretend otherwise. Nor should we pretend that &ldquo;a new proletariat&rdquo; would be less attached to possessing things.</p>
  <p>What about the farming-led-to-ownership story? Well, let&rsquo;s just say that that story is being contested. And I don&rsquo;t find it very convincing. We weren&rsquo;t there and one guess is as good as another.</p>
  <p>These days, it makes more sense to me that the whole possession-to-ownership thing had more to do with coinage, another human invention.</p>
+
+<h1>Going Forward</h1>
+ <p>The thing is that I am not very interested in fixing what happened in the past. I am more interested in what we do going forward. And going forward we have to make things better for everybody, not a just a subset of humanity. And I believe that what&rsquo;s good for the goose&hellip;. If ownership is good for the few, let&rsquo;s do it for everybdody. Let&rsquo;s set up a mechanism to spreads ownership to everybody. Not in a sudden, violent way, but in a steady-eddy, sustainable kind of way. And that&rsquo;s what the <span class="_paradigm">RAD Distribution</span> is about.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
