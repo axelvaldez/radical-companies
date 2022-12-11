@@ -42,7 +42,7 @@ image:    "icon-changing-minds.svg"
   </ul>
  <p>The solution has to be dynamic and decentralized. And that is what a <span class="_paradigm">RAD</span> Distribution is and what the <span class="_paradigm">RAD</span>s! application makes possible,</p>
   <ul>
-   <li><b>Painless</b>: The mobile application handles all the mechanics so users can focus on recognizing whatever they see as a contributions</li>
+   <li><b>Painless</b>: The mobile application handles all the mechanics so users can focus on recognizing whatever they feel is a contributions</li>
    <li><b>Decentralized</b>: Everybody gets to distribute <span class="_paradigm">RAD</span>s!</li>
    <li><b>Dynamic</b>: The distribution changes on a regular basis (<em>e.g.</em>, monthly) and it reflects the contributions made and recognized by other co-owners.</li>
   </ul>
