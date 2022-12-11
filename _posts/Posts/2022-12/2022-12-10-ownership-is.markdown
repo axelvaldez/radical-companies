@@ -43,6 +43,13 @@ image:    "icon-ownership-is.svg"
 
 <h1><span class="_paradigm">RAD<span> Distribution</h1>
  <p>And that is what the <span class="_paradigm">RAD</span> Distribution is about: A tool for revolutionaries, without the explosives.</p>
+ <p>For more, see
+                                <em>Get Rid of Ownership</em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>
+  <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
+   <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
+                              <em>No Bonuses or Salaries</em>,<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> and
+          <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en06"><sup id="bm06">6&nbsp;</sup></a>
+ </p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
