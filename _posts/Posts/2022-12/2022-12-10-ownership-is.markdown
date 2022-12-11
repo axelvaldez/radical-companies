@@ -35,10 +35,11 @@ image:    "icon-ownership-is.svg"
    <li>And, of course, anything that is part of our body cannot be let go just like that.</li>
   </ul>
  <p>It all goes to say that possession is a very real, intrinsic thing and we should not pretend otherwise. We tried believing that &ldquo;from the glorious revolution a new man would rise&rdquo; who&rsquo;d be not attached to possessions, but that&rsquo;s not the way it went. At all.</p>
- <p>What about the farming-led-to-ownership story? Well, let&rsquo;s just say that that it is just a story. And I don&rsquo;t find it very convincing. In any case, none us were there and one guess is as good as another. These days, it makes more sense to me that the whole possession-to-ownership thing had more to do with coinage,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> another human invention.</p>
+ <p>What about the farming-led-to-ownership story? Well, let&rsquo;s just say that that it is just a story, and not very convincing. In any case, none us were there and we are all guessing. These days, it makes more sense to me that the whole possession-to-ownership thing had more to do with the invention of coinage,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> another grand human invention.</p>
 
 <h1>Going Forward</h1>
- <p>The thing is that I am not very interested in fixing what happened in the past. I am more interested in what we do going forward. And going forward we have to make things better for everybody, not a just a subset of humanity. And I believe that what&rsquo;s good for the goose&hellip;. If ownership is good for the few, let&rsquo;s do it for everybdody. Let&rsquo;s set up a mechanism to spreads ownership to everybody. Not in a sudden, violent way, but in a steady-eddy, sustainable kind of way. And that&rsquo;s what the <span class="_paradigm">RAD Distribution</span> is about.</p>
+ <p>The thing what happened in the past cannot be fixes. I am more interested in what we do <em>going forward</em>.</p>
+ <p>We have to make things better for everybody, not a just a subset of humanity. If ownership is a good thing, then let&rsquo;s extend it to everybody. Not in a sudden, violent way&mdash;we tried that and it falied. Let&rsquo;s do it in a steady-eddy, sustainable kind of way. And that is what the <span class="_paradigm">RAD Distribution</span> is about.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
