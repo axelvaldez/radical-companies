@@ -11,7 +11,7 @@ image:    "icon-changing-minds.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>In <em>Change the Mindset of Employees with These Three Simple Steps,</em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> Joost Minear, the Coporate Rebels co-founder, gets it right and says that people behavior is constrained by what the working context empowers them to do.</p>
+ <p>In <em>Change the Mindset of Employees with These Three Simple Steps,</em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> the author</em><a href="#en02"><sup id="bm02">2&nbsp;</sup></a> gets it right and says that people behavior is constrained by what the working context empowers them to do.</p>
  <p>He cites several examples of what he means by structures: organizational structure, the way meetings are run, the way decisions are made, how conflicts are handled, and how tasks, roles, and responsibilities are distributed. The thing is not to read these as just practices, but as things that hold back employees in a fundamental way.</p>
  <p>These are, in fact, the very things that keep employees as employess. Joost is right in that the context has to change to unleashing them to be more than mere employees.</p>
 
@@ -54,6 +54,12 @@ image:    "icon-changing-minds.svg"
     Dec 2022.
     &lt;<a href="https://corporate-rebels.com/work-context-changes-mindset/" target="_blank">https://corporate-rebels.com/work-context-changes-mindset/</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    Joost Minear, Corporate Rebels co-founder
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
