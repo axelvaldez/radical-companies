@@ -29,7 +29,7 @@ image:    "icon-changing-minds.svg"
    <li>Getting rid of titles, rank, and &ldquo;need to know&rdquo; secrecy.</li>
    <li>Decentralize decision-making. Note that this requires full transparency: everybody needs to know what&rsquo;s going on, in detail, so they can make good, well-informated decisions.</li>
    <li>Conflict Handling. People need to up their skills on handling conflicts themselves. If that fails, they can reach to another co-owner to facilitate.</li>
-   <li>Disbribution of Tasks, Roles, Responsibilities. Co-owners know who can do what best and &ldquo;goodies&rdquo; should reflect that.</li>
+   <li>Distribution of Tasks, Roles, Responsibilities. Co-owners know who can do what best and &ldquo;goodies&rdquo; should reflect that.</li>
   </ul>
 <h1>Co-Ownership</h1>
  <p>Having people <em>be</em> co-owners means that they will act as co-owners.</p>
@@ -38,7 +38,7 @@ image:    "icon-changing-minds.svg"
    <li>Stocks and forever.</li>
    <li>Stock distributions are extremely centralized.</li>
   </ul>
- <p>The solution has to be dynamic and decentralized. And that is what a <span class="_paradig">RAD</span>s Disbrituion is and what the <span class="_paradigm">RAD</span>s! application makes possible: a 21<sup>st</sup> century tool that makes the process painless, decentralized, and dynamic,
+ <p>The solution has to be dynamic and decentralized. And that is what a <span class="_paradig">RAD</span>s Distribution is and what the <span class="_paradigm">RAD</span>s! application makes possible: a 21<sup>st</sup> century tool that makes the process painless, decentralized, and dynamic,
   <ul>
    <li><b>Painless</b>: The mobile application handles all the mechanics so users can focus on their feelings.</li>
    <li><b>Decentralized</b>: Everybody gets to distribute <span class="_paradigm">RAD</span>s!</li>
