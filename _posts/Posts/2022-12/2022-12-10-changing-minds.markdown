@@ -19,7 +19,7 @@ image:    "icon-changing-minds.svg"
  <p>You can address all the examples above with one change: <em>decentralize</em>,</p>
   <ul>
    <li>Organizational Structure. I read this as &ldquo;the <span class="_paradigm">FIAT</span> hierarchy has to go.&rdquo; So long as you are the boss, this will modulate how people behave when you&rsquo;re around. They know that you and your managers control their salaries, their status (<em>i.e.</em>, promotions), and how tasks, roles, and responsibilities are distributed. This is &ldquo;first and foremost&rdquo; in their minds, always, and they act accordingly.</li>
-   <li>Running Meetings, Decision Making, Conflict Handling, abd the Distribution of Tasks, Roles, Responsibilities. If you and your managers call meetings and do most of the talking, make all the pivotal decisions, handle all conflicts and their resolutions,and have the final word on assignements and promotions, people will behave accordingly.</li>
+   <li>Running Meetings, Decision Making, Conflict Handling, abd the Distribution of Tasks, Roles, Responsibilities. If you and your managers call meetings and do most of the talking, make all the pivotal decisions, handle all conflicts, and have the final word on assignements and promotions, people will behave accordingly.</li>
   </ul>
  <p>And by &ldquo;accordingly&rdquo; I mean that they will behave as employees, putting in a given amount of acceptable work in exchange for income. Employees won&rsquo;t act as co-owners for the simple reason that they are <span style="font-weight:bold; ">not</span>.</p>
 
