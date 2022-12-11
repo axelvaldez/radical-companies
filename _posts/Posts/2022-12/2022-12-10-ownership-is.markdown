@@ -34,7 +34,7 @@ image:    "icon-ownership-is.svg"
    <li>Anything and everything we come in contact with, and doesn&rsquo;t harm us, can, according to our brains, extend our bodies. It all happens easily and swiftly (<em>i.e.</em>, unconciously).</li>
    <li>And, of course, anything that is part of our body cannot be let go just like that.</li>
   </ul>
- <p>No matter, possession is a very real and very personal thing and we should not pretend otherwise. We tried believing that &ldquo;from the glorious revolution a new man would rise&rdquo; who&rsquo;d be less attached to possessions, but that&rsquo;s not the way it went. At all.</p>
+ <p>It all goes to say that possession is a very real, intrinsic thing and we should not pretend otherwise. We tried believing that &ldquo;from the glorious revolution a new man would rise&rdquo; who&rsquo;d be not attached to possessions, but that&rsquo;s not the way it went. At all.</p>
  <p>What about the farming-led-to-ownership story? Well, let&rsquo;s just say that that it is just a story. And I don&rsquo;t find it very convincing. In any case, none us were there and one guess is as good as another. These days, it makes more sense to me that the whole possession-to-ownership thing had more to do with coinage,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> another human invention.</p>
 
 <h1>Going Forward</h1>
