@@ -26,7 +26,7 @@ image:    "icon-ownership-is.svg"
    <li>The story goes that &ldquo;when farming came along,&rdquo; possession had to, just had to, be formalized into ownership.</li>
    <li>Just as believable is that once some people figured out how to use laws as a tool, they defined ownership as legit. &ldquo;This land is mine! See? It says it right here in the law book (which I just wrote).&rdquo;</li>
   </ul>
- <p>This process of legitimizing enclosures (legal robbery>=?) is still with us, although these days is more about <em>forever copyrigts</em>, <em>never-ending patents</em>, <em>private servers</em>, and <em>data</em>.</p>
+ <p>This process of legitimizing enclosures is still going on, although these days is more about <em>forever copyrigts</em>, <em>never-ending patents</em>, <em>private servers</em>, and <em>data</em>.</p>
 
 <h1>MINE! MINE!</h1>
  <p>Anything a toddler comes in contact with is &ldquo;MINE!&rdquo; At least, for a little while. It probably has to do with the fact that,
