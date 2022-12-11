@@ -40,7 +40,7 @@ image:    "icon-changing-minds.svg"
    <li>Stocks are forever.</li>
    <li>Their distribution is very centralized.</li>
   </ul>
- <p>The solution has to be dynamic and decentralized. And that is what a <span class="_paradig">RAD</span>s Distribution is and what the <span class="_paradigm">RAD</span>s! application makes possible: a 21<sup>st</sup> century tool that makes the process painless, decentralized, and dynamic,
+ <p>The solution has to be dynamic and decentralized. And that is what a <span class="_paradigm">RAD</span>s Distribution is and what the <span class="_paradigm">RAD</span>s! application makes possible: a 21<sup>st</sup> century tool that makes the process painless, decentralized, and dynamic,
   <ul>
    <li><b>Painless</b>: The mobile application handles all the mechanics so users can focus on their feelings.</li>
    <li><b>Decentralized</b>: Everybody gets to distribute <span class="_paradigm">RAD</span>s!</li>
