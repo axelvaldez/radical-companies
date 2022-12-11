@@ -26,7 +26,7 @@ image:    "icon-ownership-is.svg"
    <li>The story goes that &ldquo;when farming came along,&rdquo; possession had to, just had to, be formalized into ownership.</li>
    <li>Just as believable is that once some people figured out how to use laws as a tool, they defined ownership as legit. &ldquo;This land is mine! See? It says it right here in the law book (which I just wrote).&rdquo;</li>
   </ul>
- <p>This process of legitimizing enclosures is still with us, although these days is more about copyrigts, patents, servers, and data.</p>
+ <p>This process of legitimizing enclosures is still with us, although these days is more about forever copyrigts, never-ending patents, dark servers, and data.</p>
 
 <h1>MINE! MINE!</h1>
  <p>Anything a toddler comes in contact with is &ldquo;MINE!&rdquo; At least, for a few minutes. It probably has to do with the fact that, according to our brains anything becomes extensions of our bodies, part of our bodies, easily and swiftly. And anything that is part of our body cannot be let go. Whatever the story, possession is a very real and very personal thing and we should not pretend otherwise. Nor should we pretend that &ldquo;a new proletariat&rdquo; would be less attached to possessing things.</p>
