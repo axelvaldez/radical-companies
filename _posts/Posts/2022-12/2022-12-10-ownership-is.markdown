@@ -20,9 +20,15 @@ image:    "icon-ownership-is.svg"
  <p>ownership really is all of those things at once.</p>
 
 <h1>Possession</h1>
- <p>Before legal ownership, there was possession. And there still is. Human babies cry, and fight, to keep their possessions. They story goes that when farming came along, possession had to be formalized into ownership. Just as believable is that once some people figure out how to use law-making as a tool to formalize their possessions, they defined ownership as legit. &ldquo;This land is mine! Period. Mext paragraph.&rdquo; This process of legitimizing enclosures is still with us, although these days is more about copyrigts, patents, and black-box servers.</p>
+ <p>Before legal ownership, there was possession.</p>
+  <ul>
+   <li>Human babies cry and fight to keep their possessions.<li>
+   <li>The story goes that &ldquo;when farming came along,&rdquo; possession had to, just had to, be formalized into ownership.</li>
+   <li>Just as believable is that once some people figured out how to use laws as a tool to formalize their possessions, they defined ownership as legit. &ldquo;This land is mine! Period. Mext paragraph.&rdquo;</li>
+  </ul>
+ <p>This process of legitimizing enclosures is still with us, although these days is more about copyrigts, patents, servers, and data.</p>
 
-<h1>MINE!</h1>
+<h1>MINE! MINE!</h1>
  <p>Anything a toddler comes in contact with is &ldquo;MINE!&rdquo; At least, for a few minutes. It probably has to do with the fact that, according to our brains anything becomes extensions of our bodies, part of our bodies, easily and swiftly. And anything that is part of our body cannot be let go. Whatever the story, possession is a very real and very personal thing and we should not pretend otherwise. Nor should we pretend that &ldquo;a new proletariat&rdquo; would be less attached to possessing things.</p>
  <p>What about the farming-led-to-ownership story? Well, let&rsquo;s just say that that story is being contested. And I don&rsquo;t find it very convincing. We weren&rsquo;t there and one guess is as good as another.</p>
  <p>These days, it makes more sense to me that the whole possession-to-ownership thing had more to do with coinage, another human invention.</p>
