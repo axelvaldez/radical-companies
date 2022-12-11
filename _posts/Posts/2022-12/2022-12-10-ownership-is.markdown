@@ -29,7 +29,7 @@ image:    "icon-ownership-is.svg"
  <p>This process of legitimizing enclosures is still with us, although these days is more about forever copyrigts, never-ending patents, dark servers, and data.</p>
 
 <h1>MINE! MINE!</h1>
- <p>Anything a toddler comes in contact with is &ldquo;MINE!&rdquo; At least, for a few minutes. It probably has to do with the fact that, according to our brains anything becomes extensions of our bodies, part of our bodies, easily and swiftly. And anything that is part of our body cannot be let go. Whatever the story, possession is a very real and very personal thing and we should not pretend otherwise. We experiemented with believing that &ldquo;the new man would be less attached to possessing things,&rdquo; but it didn&rsquo;t work.</p>
+ <p>Anything a toddler comes in contact with is &ldquo;MINE!&rdquo; At least, for a few minutes. It probably has to do with the fact that, according to our brains anything becomes extensions of our bodies, part of our bodies, easily and swiftly. And anything that is part of our body cannot be let go. Whatever the story, possession is a very real and very personal thing and we should not pretend otherwise. We tried believing that &ldquo;from the glorious revolution a new man would rise who&rsquo;d be less attached to possessing things,&rdquo; but it didn&rsquo;t work. At all.</p>
  <p>What about the farming-led-to-ownership story? Well, let&rsquo;s just say that that story is being contested. And I don&rsquo;t find it very convincing. We weren&rsquo;t there and one guess is as good as another.</p>
  <p>These days, it makes more sense to me that the whole possession-to-ownership thing had more to do with coinage, another human invention.</p>
 
