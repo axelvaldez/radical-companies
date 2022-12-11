@@ -34,12 +34,15 @@ image:    "icon-ownership-is.svg"
    <li>Anything and everything we come in contact with, and doesn&rsquo;t harm us, can, according to our brains, extend our bodies. It all happens easily and swiftly (<em>i.e.</em>, unconciously).</li>
    <li>And, of course, anything that is part of our body cannot be let go just like that.</li>
   </ul>
- <p>It all goes to say that possession is a very real, intrinsic thing and we should not pretend otherwise. We tried believing that &ldquo;from the glorious revolution a new man would rise&rdquo; who&rsquo;d be not attached to possessions, but that&rsquo;s not the way it went. At all.</p>
+ <p>It all goes to say that possession is a very real, intrinsic thing and we should not pretend otherwise. We tried believing that &ldquo;from the glorious revolution a new man would rise&rdquo; who would not be attached to possessions, but that&rsquo;s not the way it went. Not at all.</p>
  <p>What about the farming-led-to-ownership story? Well, let&rsquo;s just say that that it is just a story, and not very convincing. In any case, none us were there and we are all guessing. These days, it makes more sense to me that the whole possession-to-ownership thing had more to do with the invention of coinage,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> another grand human invention.</p>
 
 <h1>Going Forward</h1>
  <p>The thing what happened in the past cannot be fixes. I am more interested in what we do <em>going forward</em>.</p>
- <p>We have to make things better for everybody, not a just a subset of humanity. If ownership is a good thing, then let&rsquo;s extend it to everybody. Not in a sudden, violent way&mdash;we tried that and it falied. Let&rsquo;s do it in a steady-eddy, sustainable kind of way. And that is what the <span class="_paradigm">RAD Distribution</span> is about.</p>
+ <p>We have to make things better for everybody, not a just a subset of humanity. If ownership is a good thing, then let&rsquo;s extend it and make it work for everybody. We can do it in a steady-eddy, gradual way, without violence.</p>
+
+<h1><span class="_paradigm">RAD<span> Distribution</h1>
+ <p>And that is what the <span class="_paradigm">RAD</span> Distribution is about: A tool for revolutionaries, without the explosives.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
