@@ -34,10 +34,11 @@ image:    "icon-changing-minds.svg"
 
 <h1>Co-Ownership</h1>
  <p>Having people <em>be</em> co-owners means that they will act as co-owners.</p>
- <p>The <em>hard problem</em> has been how to distribute ownership. Stocks are a very old solution and that makes them problematic,</p>
+ <p>The <em>hard problem</em> has been how to distribute ownership.</p>
+ <p>Stocks are a very old solution and they carry lots of baggage,</p>
   <ul>
-   <li>Stocks and forever.</li>
-   <li>Stock distributions are extremely centralized.</li>
+   <li>Stocks are forever.</li>
+   <li>Their distribution is very centralized.</li>
   </ul>
  <p>The solution has to be dynamic and decentralized. And that is what a <span class="_paradig">RAD</span>s Distribution is and what the <span class="_paradigm">RAD</span>s! application makes possible: a 21<sup>st</sup> century tool that makes the process painless, decentralized, and dynamic,
   <ul>
