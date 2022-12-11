@@ -32,7 +32,7 @@ image:    "icon-changing-minds.svg"
    <li>Disbribution of Tasks, Roles, Responsibilities. Co-owners know who can do what best and &ldquo;goodies&rdquo; should reflect that.</li>
   </ul>
 <h1>Co-Ownership</h1>
- <p>Having people <em>be</em> co-owners means that they will act as co-owners. And others will act as co-owner.</p>
+ <p>Having people <em>be</em> co-owners means that they will act as co-owners.</p>
  <p>The <em>hard problem</em> has been how to distribute ownership. Stocks are a very old solution and that makes them problematic,</p>
   <ul>
    <li>Stocks and forever.</li>
