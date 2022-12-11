@@ -37,7 +37,7 @@ image:    "icon-changing-minds.svg"
  <p>The <em>hard problem</em> has been how to distribute ownership.</p>
  <p>Stocks are a very old solution and they carry lots of baggage,</p>
   <ul>
-   <li>Stocks are forever.</li>
+   <li>Stocks are static: once assigned, it is forever.</li>
    <li>Their distribution is very centralized.</li>
   </ul>
  <p>The solution has to be dynamic and decentralized. And that is what a <span class="_paradigm">RAD</span> Distribution is and what the <span class="_paradigm">RAD</span>s! application makes possible: a 21<sup>st</sup> century tool that makes the process painless, decentralized, and dynamic,
