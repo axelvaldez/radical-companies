@@ -31,7 +31,7 @@ image:    "icon-ownership-is.svg"
 <h1>MINE! MINE!</h1>
  <p>Anything a toddler comes in contact with is &ldquo;MINE!&rdquo; At least, for a little while. It probably has to do with the fact that,
   <ul>
-   <li>According to our brains anything and everything we come in contact with, and doesn&rsquo;t harm us, can extend our bodies. It all happens easily and swiftly (<em>i.e.</em>, unconciously).</li>
+   <li>Anything and everything we come in contact with, and doesn&rsquo;t harm us, can, according to our brains, extend our bodies. It all happens easily and swiftly (<em>i.e.</em>, unconciously).</li>
    <li>And, of course, anything that is part of our body cannot be let go just like that.</li>
   </ul>
  <p>No matter, possession is a very real and very personal thing and we should not pretend otherwise. We tried believing that &ldquo;from the glorious revolution a new man would rise&rdquo; who&rsquo;d be less attached to possessions, but that&rsquo;s not the way it went. At all.</p>
