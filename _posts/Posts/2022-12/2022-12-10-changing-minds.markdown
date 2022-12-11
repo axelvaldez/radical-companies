@@ -27,7 +27,7 @@ image:    "icon-changing-minds.svg"
  <p>The first to do is let go of the <span class="_paradigm">FIAT</span> hierarchy. Some people can behave differently, and others can learn from them. This means.
   <ul>
    <li>Getting rid of titles, rank, and &ldquo;need to know&rdquo; secrecy.</li>
-   <li>Decentralized decision-making. Note that this requires full transparency. Everybody needs to know what&rsquo;s going on, in detail, so they can make well-informated decisions.</li>
+   <li>Decentralize decision-making. Note that this requires full transparency: everybody needs to know what&rsquo;s going on, in detail, so they can make good, well-informated decisions.</li>
    <li>Conflict Handling. People need to up their skills on handling conflicts themselves. If that fails, they can reach to another co-owner to facilitate.</li>
    <li>Disbribution of Tasks, Roles, Responsibilities. Co-owners know who can do what best and &ldquo;goodies&rdquo; should reflect that.</li>
   </ul>
