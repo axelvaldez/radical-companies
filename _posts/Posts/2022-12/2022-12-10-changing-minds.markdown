@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Changing Minds (UNDER CONSTRUCTION)"
+title:    "Changing Minds"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-changing-minds.svg"
