@@ -22,7 +22,7 @@ image:    "icon-ownership-is.svg"
 <h1>Possession</h1>
  <p>Before legal ownership, there was possession.</p>
   <ul>
-   <li>Human babies cry and fight to keep their possessions.<li>
+   <li>Human babies cry and fight to keep their possessions.</li>
    <li>The story goes that &ldquo;when farming came along,&rdquo; possession had to, just had to, be formalized into ownership.</li>
    <li>Just as believable is that once some people figured out how to use laws as a tool to formalize their possessions, they defined ownership as legit. &ldquo;This land is mine! See? It says it right there in the law books which I wrote.&rdquo;</li>
   </ul>
