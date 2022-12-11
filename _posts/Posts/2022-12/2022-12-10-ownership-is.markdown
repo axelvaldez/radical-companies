@@ -26,12 +26,16 @@ image:    "icon-ownership-is.svg"
    <li>The story goes that &ldquo;when farming came along,&rdquo; possession had to, just had to, be formalized into ownership.</li>
    <li>Just as believable is that once some people figured out how to use laws as a tool, they defined ownership as legit. &ldquo;This land is mine! See? It says it right here in the law book (which I just wrote).&rdquo;</li>
   </ul>
- <p>This process of legitimizing enclosures is still with us, although these days is more about forever copyrigts, never-ending patents, dark servers, and data.</p>
+ <p>This process of legitimizing enclosures is still with us, although these days is more about <em>forever copyrigts</em>, <em>never-ending patents</em>, <em>private servers</em>, and <em>data</em>.</p>
 
 <h1>MINE! MINE!</h1>
- <p>Anything a toddler comes in contact with is &ldquo;MINE!&rdquo; At least, for a few minutes. It probably has to do with the fact that, according to our brains anything becomes extensions of our bodies, part of our bodies, easily and swiftly. And anything that is part of our body cannot be let go. Whatever the story, possession is a very real and very personal thing and we should not pretend otherwise. We tried believing that &ldquo;from the glorious revolution a new man would rise who&rsquo;d be less attached to possessing things,&rdquo; but it didn&rsquo;t work. At all.</p>
- <p>What about the farming-led-to-ownership story? Well, let&rsquo;s just say that that story is being contested. And I don&rsquo;t find it very convincing. We weren&rsquo;t there and one guess is as good as another.</p>
- <p>These days, it makes more sense to me that the whole possession-to-ownership thing had more to do with coinage, another human invention.</p>
+ <p>Anything a toddler comes in contact with is &ldquo;MINE!&rdquo; At least, for a little while. It probably has to do with the fact that,
+  <ul>
+   <li>According to our brains anything and everything we come in contact with becomes part of our bodies. It all happens easily (unconciously) and swiftly.</li>
+   <li>Anything that is part of our body cannot be let go.</li>
+  </ul>
+ <p>No matter, possession is a very real and very personal thing and we should not pretend otherwise. We tried believing that &ldquo;from the glorious revolution a new man would rise&rdquo; who&rsquo;d be less attached to possessions, but that&rsquo;s not the way it went. At all.</p>
+ <p>What about the farming-led-to-ownership story? Well, let&rsquo;s just say that that it is just a story. And I don&rsquo;t find it very convincing. In any case, none us were there and one guess is as good as another. These days, it makes more sense to me that the whole possession-to-ownership thing had more to do with coinage,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> another human invention.</p>
 
 <h1>Going Forward</h1>
  <p>The thing is that I am not very interested in fixing what happened in the past. I am more interested in what we do going forward. And going forward we have to make things better for everybody, not a just a subset of humanity. And I believe that what&rsquo;s good for the goose&hellip;. If ownership is good for the few, let&rsquo;s do it for everybdody. Let&rsquo;s set up a mechanism to spreads ownership to everybody. Not in a sudden, violent way, but in a steady-eddy, sustainable kind of way. And that&rsquo;s what the <span class="_paradigm">RAD Distribution</span> is about.</p>
@@ -40,10 +44,10 @@ image:    "icon-ownership-is.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    &lt;<a href="https://…" target="_blank">https://…</a>&gt;
+    David Graeber.
+    <em>Debt: The First 5,000 Years Paperback</em>.
+    November 27, 2012.
+    &lt;<a href="https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years" target="_blank">https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
