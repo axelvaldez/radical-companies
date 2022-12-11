@@ -7,7 +7,7 @@ image:    "icon-changing-minds.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>Help other change their minds and it will influence their purpose and the impact they want to make in the world.</p>
 </div>
 
 <h1>&nbsp;</h1>
