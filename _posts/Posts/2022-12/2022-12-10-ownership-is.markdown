@@ -3,24 +3,29 @@ layout:   post
 title:    "Onwership is&hellip;"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-ownership-is.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>Ownership is enclosures-as-robbery, a human invention, the foundation of the <span class="_paradigm">RADICAL</span> model.</p>
 </div>
 
 <h1>&nbsp;</h1>
+ <p>Ownership is</p>
+  <ul>
+   <li>The result of enclosures brought about by violent robbery (<em>i.e.</em>, the Marxists rejoice)</li>
+   <li>The best human inventions (<em>i.e.</em>, the Neoliberals rejoice)</li>
+   <li>The foundation of the <span class="_paradigm">RADICAL</span> model (<em>i.e.</em>, most people are puzzled)</li>
+  </ul>
+ <p>It really is, at least, all of those things at once.</p>
 
-<p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
+<h1>Possession</h1>
+ <p>Before legal ownership, there was possession. And there still is. Human babies cry, and fight, to keep their possessions. They story goes that when farming came along, possession had to be formalized into ownership. Just as believable is that once some people figure out how to use law-making as a tool to formalize their possessions, they defined ownership as legit. &ldquo;This land is mine! Period. Mext paragraph.&rdquo; This process of legitimizing enclosures is still with us, although these days is more about copyrigts, patents, and black-box servers.</p>
 
-<!-- image -->
-<div class="_center">
- <img
-  src="/assets/img/pings-to-rads-equation.svg"
-  width="70%"
-  alt="">
- </div>
+<h1>MINE!</h1>
+ <p>Anything a toddler comes in contact with is &ldquo;MINE!&rdquo; At least, for a few minutes. It probably has to do with the fact that, according to our brains anything becomes extensions of our bodies, part of our bodies, easily and swiftly. And anything that is part of our body cannot be let go. Whatever the story, possession is a very real and very personal thing and we should not pretend otherwise. Nor should we pretend that &ldquo;a new proletariat&rdquo; would be less attached to possessing things.</p>
+ <p>What about the farming-led-to-ownership story? Well, let&rsquo;s just say that that story is being contested. And I don&rsquo;t find it very convincing. We weren&rsquo;t there and one guess is as good as another.</p>
+ <p>These days, it makes more sense to me that the whole possession-to-ownership thing had more to do with coinage, another human invention.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
