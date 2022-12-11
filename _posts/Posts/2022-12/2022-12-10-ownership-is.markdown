@@ -15,7 +15,7 @@ image:    "icon-ownership-is.svg"
   <ul>
    <li>The result of enclosures brought about by violent robbery (<em>i.e.</em>, Marxists rejoice)</li>
    <li>The best ever human invention (<em>i.e.</em>, Neoliberals rejoice)</li>
-   <li>The foundation of the <span class="_paradigm">RADICAL</span> model (<em>i.e.</em>, everuybody is puzzled)</li>
+   <li>The foundation of the <span class="_paradigm">RADICAL</span> model (<em>i.e.</em>, everybody is puzzled)</li>
   </ul>
  <p>It really is, at least, all of those things at once.</p>
 
