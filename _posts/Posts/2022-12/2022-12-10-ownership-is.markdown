@@ -41,7 +41,7 @@ image:    "icon-ownership-is.svg"
  <p>The thing what happened in the past cannot be fixes. I am more interested in what we do <em>going forward</em>.</p>
  <p>We have to make things better for everybody, not a just a subset of humanity. If ownership is a good thing, then let&rsquo;s extend it and make it work for everybody. We can do it in a steady-eddy, gradual way, without violence.</p>
 
-<h1><span class="_paradigm">RAD<span> Distribution</h1>
+<h1><span class="_paradigm">RAD</span> Distribution</h1>
  <p>And that is what the <span class="_paradigm">RAD</span> Distribution is about: A tool for revolutionaries, without the explosives.</p>
  <p>For more, see
                                 <em>Get Rid of Ownership</em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>
