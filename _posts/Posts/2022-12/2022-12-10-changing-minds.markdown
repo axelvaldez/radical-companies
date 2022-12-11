@@ -31,6 +31,7 @@ image:    "icon-changing-minds.svg"
    <li>Conflict Handling. People need to up their skills on handling conflicts themselves. If that fails, they can reach to another co-owner to facilitate.</li>
    <li>Distribution of Tasks, Roles, Responsibilities. Co-owners know who can do what best and &ldquo;goodies&rdquo; should reflect that.</li>
   </ul>
+
 <h1>Co-Ownership</h1>
  <p>Having people <em>be</em> co-owners means that they will act as co-owners.</p>
  <p>The <em>hard problem</em> has been how to distribute ownership. Stocks are a very old solution and that makes them problematic,</p>
