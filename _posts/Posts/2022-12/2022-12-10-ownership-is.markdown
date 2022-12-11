@@ -31,8 +31,8 @@ image:    "icon-ownership-is.svg"
 <h1>MINE! MINE!</h1>
  <p>Anything a toddler comes in contact with is &ldquo;MINE!&rdquo; At least, for a little while. It probably has to do with the fact that,
   <ul>
-   <li>According to our brains anything and everything we come in contact with becomes part of our bodies. It all happens easily (unconciously) and swiftly.</li>
-   <li>Anything that is part of our body cannot be let go.</li>
+   <li>According to our brains anything and everything we come in contact with, and doesn&rsquo;t harm us, can extend our bodies. It all happens easily and swiftly (<em>i.e.</em>, unconciously).</li>
+   <li>And, of course, anything that is part of our body cannot be let go just like that.</li>
   </ul>
  <p>No matter, possession is a very real and very personal thing and we should not pretend otherwise. We tried believing that &ldquo;from the glorious revolution a new man would rise&rdquo; who&rsquo;d be less attached to possessions, but that&rsquo;s not the way it went. At all.</p>
  <p>What about the farming-led-to-ownership story? Well, let&rsquo;s just say that that it is just a story. And I don&rsquo;t find it very convincing. In any case, none us were there and one guess is as good as another. These days, it makes more sense to me that the whole possession-to-ownership thing had more to do with coinage,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> another human invention.</p>
