@@ -56,11 +56,10 @@ image:    "icon-ownership-is.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    Karen Hopkin reports.
-    <em>Mind & Brain 60-Second Science: Tools Are Body Parts to Brain</em>.
-    June 23, 2009.
-    &ldquo;Researchers claim that the brain interprets a tool, such as a hammer, as a temporary extension of your physical body.&rdquo;
-    &lt;<a href="https://radicals.world/yt9kr6" target="_blank">https://radicals.world/yt9kr6</a>&gt;
+    Nidhi Kumari.
+    <em>Ownership As A Social Concept</em>.
+    April 6, 2015.
+    &lt;<a href="https://radicals.world/9l2zmn" target="_blank">https://radicals.world/9l2zmn</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
