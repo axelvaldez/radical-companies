@@ -68,7 +68,7 @@ image:    "icon-ownership-is.svg"
     Karen Hopkin reports.
     <em>Mind & Brain 60-Second Science: Tools Are Body Parts to Brain</em>.
     June 23, 2009.
-    <span class="_quotation">&ldquo;Researchers claim that the brain interprets a tool, such as a hammer, as a temporary extension of your physical body.&rdquo;</span>
+    <div class="_quotation">&ldquo;Researchers claim that the brain interprets a tool, such as a hammer, as a temporary extension of your physical body.&rdquo;</div>
     &lt;<a href="https://radicals.world/yt9kr6" target="_blank">https://radicals.world/yt9kr6</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
