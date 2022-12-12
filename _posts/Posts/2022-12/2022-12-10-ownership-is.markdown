@@ -20,7 +20,7 @@ image:    "icon-ownership-is.svg"
  <p>ownership really is all of those things at once.</p>
 
 <h1>Possession</h1>
- <p>Before legal ownership, there was possession.</p>
+ <p>&ldquo;Ownership followed &hellip; possession&rdquo;,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
   <ul>
    <li>Human babies cry and fight to keep their possessions.</li>
    <li>The story goes that &ldquo;when farming came along,&rdquo; possession had to, just had to, be formalized into ownership.</li>
@@ -31,11 +31,11 @@ image:    "icon-ownership-is.svg"
 <h1>MINE! MINE!</h1>
  <p>Anything a toddler comes in contact with is &ldquo;MINE!&rdquo; At least, for a little while. It probably has to do with the fact that,
   <ul>
-   <li>Anything and everything we come in contact with, and doesn&rsquo;t harm us, can, according to our brains, extend our bodies. It all happens easily and swiftly (<em>i.e.</em>, unconciously).</li>
+   <li>Anything and everything we come in contact with, and doesn&rsquo;t harm us, can, according to our brains,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> extend our bodies. It all happens easily and swiftly (<em>i.e.</em>, unconciously).</li>
    <li>And, of course, anything that is part of our body cannot be let go just like that.</li>
   </ul>
  <p>It all goes to say that possession is a very real, intrinsic thing and we should not pretend otherwise. We tried believing that &ldquo;from the glorious revolution a new man would rise&rdquo; who would not be attached to possessions, but that&rsquo;s not the way it went. Not at all.</p>
- <p>What about the farming-led-to-ownership story? Well, let&rsquo;s just say that that it is just a story, and not very convincing. In any case, none us were there and we are all guessing. These days, it makes more sense to me that the whole possession-to-ownership thing had more to do with the invention of coinage,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> another grand human invention.</p>
+ <p>What about the farming-led-to-ownership story? Well, let&rsquo;s just say that that it is just a story, and not very convincing. In any case, none us were there and we are all guessing. These days, it makes more sense to me that the whole possession-to-ownership thing had more to do with the invention of coinage,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> another grand human invention.</p>
 
 <h1>Going Forward</h1>
  <p>The thing what happened in the past cannot be fixes. I am more interested in what we do <em>going forward</em>.</p>
@@ -44,22 +44,43 @@ image:    "icon-ownership-is.svg"
 
 <h1>For More,</h1>
  <p>See,</p>
-                                <em>Get Rid of Ownership</em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>
-  <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
-   <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
-                              <em>No Bonuses or Salaries</em>,<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> and
-          <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en06"><sup id="bm06">6&nbsp;</sup></a>
- </p>
+  <ul>
+   <li>                                <em>Get Rid of Ownership</em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></li>
+   <li>  <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></li>
+   <li>   <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></li>
+   <li>                              <em>No Bonuses or Salaries</em>,<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> and</li>
+   <li>          <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en06"><sup id="bm06">6&nbsp;</sup></a></li>
+  </ul>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
    <p class="_list-item">
+    Karen Hopkin reports.
+    <em>Mind & Brain 60-Second Science: Tools Are Body Parts to Brain</em>.
+    June 23, 2009.
+    &ldquo;Researchers claim that the brain interprets a tool, such as a hammer, as a temporary extension of your physical body.&rdquo;
+    &lt;<a href="https://radicals.world/yt9kr6" target="_blank">https://radicals.world/yt9kr6</a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    Karen Hopkin reports.
+    <em>Mind & Brain 60-Second Science: Tools Are Body Parts to Brain</em>.
+    June 23, 2009.
+    &ldquo;Researchers claim that the brain interprets a tool, such as a hammer, as a temporary extension of your physical body.&rdquo;
+    &lt;<a href="https://radicals.world/yt9kr6" target="_blank">https://radicals.world/yt9kr6</a>&gt;
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
     David Graeber.
     <em>Debt: The First 5,000 Years Paperback</em>.
     November 27, 2012.
     &lt;<a href="https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years" target="_blank">https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years</a>&gt;
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
