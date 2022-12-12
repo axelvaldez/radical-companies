@@ -7,7 +7,7 @@ image:    "icon-ownership-is.svg"
 ---
 
 <div style="display:none;">
- <p>Ownership is enclosures-as-robbery, a human invention, the foundation of the <span class="_paradigm">RADICAL</span> model.</p>
+ <p>Ownership is enclosures-as-robbery, a human invention, and the foundation of the <span class="_paradigm">RADICAL</span> model.</p>
 </div>
 
 <h1>&nbsp;</h1>
