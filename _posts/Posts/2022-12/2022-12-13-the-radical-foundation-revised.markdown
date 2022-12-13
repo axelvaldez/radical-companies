@@ -59,7 +59,7 @@ image:    "icon-the-radical-foundation-revised.svg"
  <p>Toos are not technically a part of the <span class="_paradigm">RADICAL</span> foundation itself. You can be on the <span class="_paradigm">RADICAL</span> path and use diffferent too. No matter, these are the tools we&rsquo;ve come up with, so far,</p>
  <table align="center">
   <tr style="background-color:#EEEEEE; ">
-   <th>Explicit Alignment</th>
+   <th>Explicit<br>Alignment</th>
    <td>This applies to a group of people working on a common project (<em>i.e.</em>, what we call a company). However you choose to express them, these are the key components that you must consider,
     <div class="_center">
      <img
@@ -80,11 +80,11 @@ image:    "icon-the-radical-foundation-revised.svg"
    </td>
   </tr>
   <tr style="background-color:#EEEEEE; ">
-   <th>Trust Agreements</th>
+   <th>Trust<br>Agreements</th>
    <td>Inspired by J Kim Right&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building in a safe pace (psycholgically abd physically).</td>
   </tr>
   <tr>
-   <th>Future Tools</th>
+   <th>Future<br>Tools</th>
    <td>There are going to be more tools in the future. For example, specialized and community-specific tools</td>
   </tr>
   <tr>
