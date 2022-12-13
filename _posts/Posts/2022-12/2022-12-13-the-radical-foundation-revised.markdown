@@ -56,7 +56,7 @@ image:    "icon-the-radical-foundation-revised.svg"
  <p>Experimentation, on the other hand, applies to every <span class="_paradigm">RADICAL</span> practice. The result may or may not meet our hypothesis (<em>i.e.</em>, our expectations), but even when it does not, it serves to teach us a lesson.</p>
 
 <h1>Tools</h1>
- <p>Toos are not technically a part of the foundation itself. You can be on the <span class="_paradigm">RADICAL</span> path and use diffferent too. No matter, these are the tools we&rsquo;ve come up with, so far,</p>
+ <p>Toos are not technically a part of the <span class="_paradigm">RADICAL</span> foundation itself. You can be on the <span class="_paradigm">RADICAL</span> path and use diffferent too. No matter, these are the tools we&rsquo;ve come up with, so far,</p>
  <table align="center">
   <tr style="background-color:#EEEEEE; ">
    <th>Explicit Alignment</th>
