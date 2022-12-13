@@ -60,7 +60,7 @@ image:    "icon-the-radical-foundation-revised.svg"
  <table align="center">
   <tr style="background-color:#EEEEEE; ">
    <th>Explicit Alignment</th>
-   <td>This applies to a group of people working on a common project (<em>i.e.</em>, what we call a company). However you express them, these are the key components,
+   <td>This applies to a group of people working on a common project (<em>i.e.</em>, what we call a company). However you choose to express them, these are the key components,
     <div class="_center">
      <img
       src="/assets/img/en-alignment.svg"
