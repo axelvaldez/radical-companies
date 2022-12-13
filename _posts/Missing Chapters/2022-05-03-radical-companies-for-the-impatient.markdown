@@ -19,7 +19,7 @@ image:    "icon-dynamic-distribution-1.svg"
   <p>Every company is different because the people who embody it are different, and this means that every company must find its own way. What fundamentally makes a <span class="_paradigm">RADICAL</span> company different from a <span class="_paradigm">FIAT</span> business is that it has a foundation,</p>
   <table align="center">
    <tr>
-    <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
+    <td valign="middle" style="text-align:right; font-weight:bold; ">people&nbsp;&nbsp;</td>
     <td style="text-align:center; background-color:#EEEEEE; ">Meaning & Belonging</td>
    </tr>
    <tr>
@@ -34,7 +34,7 @@ image:    "icon-dynamic-distribution-1.svg"
    </tr>
    <tr>
     <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-    <td style="text-align:center; background-color:#EEEEEE; ">Alignment & Experimentation</td>
+    <td style="text-align:center; background-color:#EEEEEE; ">Explicit Alignment & Experimentation</td>
    </tr>
    <tr>
     <td colspan="4">&nbsp;</td>
