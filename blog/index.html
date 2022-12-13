@@ -16,9 +16,9 @@ pagination:
                             <img src="/assets/img/{{ post.image }}" class="img-fluid" alt="">
                         </div>
                         <div class="col-10 col-lg-8">
-                            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                            <h2><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></h2>
                             <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 200 }}</p>
-                            <a href="{{ post.url }}">Read more&hellip;</a>
+                            <a href="{{ post.url }}" target="_blank">Read more&hellip;</a>
                         </div>
                     </div>
                 {% endfor %}
