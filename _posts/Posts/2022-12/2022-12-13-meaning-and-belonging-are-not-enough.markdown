@@ -44,7 +44,7 @@ image:    "icon-meaning-and-belonging-are-not-enough.svg"
  <p>The <span class="_paradigm">RADICAL</span> foundation is three-legged people, commitments, and practics. Paternalistic businesses are very good at the <em>people</em> piece. On the other hand, it is very centralized on the owners. Transparency takes a hit, too, for the sake of protecting their people, &ldquo;Why bother my people with all the details, all they need to know&hellip; ,&rdquo; what I say think they need to know. Like I said, they are very paternalisctic.</p>
  <p>In a paternalistic businesses there is no need for experiementation. You simply have to do what the owner says. And don&rsquo;t deviate from what he said to do or how he said to do it, or you will get a scolding. &ldquo;We are here to work, not play games.&rdquo;</p>
  
-<h1><p>The <span class="_paradigm">RADICAL</span> Path</h1>
+<h1>The <span class="_paradigm">RADICAL</span> Path</h1>
  <p>The <span class="_paradigm">RADICAL</span> foundation is three-legged for a reason and to get <em>and</em> stay on the <span class="_paradigm">RADICAL</span> path, you need to work on <em>all three</em> legs of the foundation.</p>
 
 <h1 class="_section">RELATED</h1>
