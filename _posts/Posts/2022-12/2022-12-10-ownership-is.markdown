@@ -17,7 +17,131 @@ image:    "icon-ownership-is.svg"
    <li>The best ever human invention (<em>i.e.</em>, Neoliberals rejoice).</li>
    <li>The foundation of the <span class="_paradigm">RADICAL</span> model (<em>i.e.</em>, everybody is puzzled).</li>
   </ul>
- <p>ownership really is all of those things at once.</p>
+ <p>Ownership really is all of those things at once.</p>
+ <br>
+ <br>
+ <br>
+ <p class="_quotespan">I have, therefore I am. And the more I have, the more I am.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
+ <p>In a conversation today we were wondering about “ownership.” Since then, we’ve been researching it messier than not.</p>
+
+<h1>Capitalism</h1>
+ <p>According to the book <em>The Economy</em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> capitalism consists of three institutions. From oldest to most recent, they are,</p>
+ <ul>
+  <li>private property</li>
+  <li>markets</li>
+  <li>capitalization</li>
+ </ul>
+ <p>Private property, (<em>i.e.</em>, ownership), then, is the oldest of the three.</p>
+
+<h1>Ownership</h1>
+ <p><span class="_quotespan">Ownership is the state or fact of legal possession and control over property&hellip;</span><a href="#en03"><sup id="bm03">3&nbsp;</sup></a><p>
+ <p>And it is not just a personal thing,</p>
+ <p><span class="_quotespan">Ownership refers to the legal right of an individual, group, corporation or government to the possession of a thing.</span><a href="#en04"><sup id="bm04">4&nbsp;</sup></a></p>
+ <p><span class="_quotespan">Possession means physical control over a property.</span><a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
+ <p><span class="_quotespan">“Property is a system of rights that gives people legal control of valuable things, and also refers to the valuable things themselves.</span><a href="#en06"><sup id="bm06">6&nbsp;</sup></a></p>
+ <p>So &ldquo;ownership&rdquo; is &ldquo;possession,&rdquo; a physical thing, over &ldquo;property,&rdquo; a legal thing.</p>
+
+<h1>Fun Facts</h1>
+ <p>From the Science of Ownership, they list these among <em>Fun Facts about Ownership</em>,<a href="#en07"><sup id="bm07">7&nbsp;</sup></a></p>
+ <ul>
+  <li>Control is a key central concept and inseparable when discussing the concept of ownership.</li>
+  <li>Ownership may be experienced individually or collectively</li>
+  <li>Awareness of ownership rights already emerges in children as young as 2 or 3 years.</li>
+ </ul>
+ <p>This last one is nonsense: our brains come wired for attachment, a form of  possession, but that has little to do with ownership.</p>
+
+<h1>Social Skills</h1>
+ <p class="_quotespan">As children get older, they gain social skills and learn to negotiate the conflicts on their own.<a href="#fn8"><sup id="bm08">8&nbsp</a></sup></p>
+ <p>The same goes for adults: as we get further and further away from the FIAT regime, we will need to “gain social skills” to be a co-owner working with other co-owners.</p>
+
+<h1>Equity Ownership</h1>
+ <p class="_quotespan">We do not consider equitable ownership as true ownership because it is only <em>the benefit</em> of the property that the buyer will use and enjoy.<a href="#en09"><sup id="bm09">9;</sup></a></p>
+
+<h1>Utility</h1>
+ <p>The difference between psychological experience and utility (<em>i.e.</em>, hard value) is not linear: 10 is the same experience to someone who has 10 thousand, as 100 is to someone with 100 thousand.</p>
+ <p class="_quotespan">People&rsquo;s choices are based not on dollar values, but on the psychological values of outcomes, their utilities.<a href="#en10"><sup id="bm10">10</sup></a></p>
+
+<!-- Footnotes themselves at the bottom. -->
+<h1>Notes</h1>
+ <ol>
+  <li id="en01">
+   <p>
+    Eckhart Tolle.
+    <em>A New Earth: Awakening to Your Life’s Purpose</em>.
+    2005.
+    &lt;<a href="https://en.wikiquote.org/wiki/A_New_Earth">https://en.wikiquote.org/wiki/A_New_Earth</a>&gt;
+    <a href="#fnref1">&#8617;</a>
+   </p>
+  </li>
+  <li id="en02">
+   <p>
+   	The CORE Team. The Economy.
+    <a href="#fnref2">&#8617;</a>
+   </p>
+  </li>
+    <li id="en03">
+    Wikipedia. Ownership.
+    &lt;<a href="https://diigo.com/0qu8gz">https://diigo.com/0qu8gz</a>&gt;
+    <a href="#fnref3">&#8617;</a>
+   </p>
+  </li>
+  <li id="en04">
+   <p>
+    Toppr.
+    <em>Kinds of Ownership</em>.
+    &lt;<a href="https://diigo.com/0qu8lk">https://diigo.com/0qu8lk</a>&gt;
+    <a href="#fnref4">&#8617;</a>
+   </p>
+  </li>
+  <li id="en05">
+   <p>
+    Toppr.
+    <em>Kinds of Ownership</em>.
+    &lt;<a href="https://diigo.com/0qu8mu">https://diigo.com/0qu8mu</a>&gt;
+    <a href="#fnref5">&#8617;</a>
+   </p>
+  </li>
+  <li id="en06">
+   <p>
+    Wikipedia.
+    <em>Property</em>.
+    &lt;<a href="https://diigo.com/0qu8h9">https://diigo.com/0qu8h9</a>&gt;
+    <a href="#fnref6">&#8617;</a>
+   </p>
+  </li>
+  <li id="en07">
+   <p>
+    The Science of Ownership.
+    <em>Fun Facts about Ownership</em>.
+    &lt;<a href="https://thescienceofownership.org/resources/fun-facts/">https://thescienceofownership.org/resources/fun-facts/</a>&gt;
+    <a href="#fnref7">&#8617;</a>
+   </p>
+  <li id="en08">
+   <p>
+    Dr Cathleen McGreal.
+    <em>Parenting: how to teach your kids about ownership</em>.
+    October 2004.
+    &lt;<a href="https://diigo.com/0qu8c4">https://diigo.com/0qu8c4</a>&gt;
+    <a href="#fnref8">&#8617;</a>
+   </p>
+  </li>
+  <li id="en09">
+   <p>
+    Toppr.
+    <em>Kinds of Ownership</em>.
+    &lt;<a href="https://diigo.com/0qu8ma">https://diigo.com/0qu8ma</a>&gt;
+    <a href="#fnref9">&#8617;</a>
+   </p>
+  </li>
+  <li id="en10">
+   <p>
+    Daniel Kahneman.
+    <em>Thinking, Fast and Slow</em>
+    <https://a.com/4MOx6ei>
+    <a href="#fnref10">&#8617;</a>
+   </p>
+  </li>
+ </ol>
 
 <h1>Possession</h1>
  <p>&ldquo;Ownership followed &hellip; possession&rdquo;,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
@@ -38,7 +162,7 @@ image:    "icon-ownership-is.svg"
  <p>What about the farming-led-to-ownership story? Well, let&rsquo;s just say that that it is just a story, and not very convincing. In any case, none us were there and we are all guessing. These days, it makes more sense to me that the whole possession-to-ownership thing had more to do with the invention of coinage,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> another grand human invention.</p>
 
 <h1>Going Forward</h1>
- <p>The thing what happened in the past cannot be fixes. I am more interested in what we do <em>going forward</em>.</p>
+ <p>What happened in the past cannot be fixed. What counts is what we do <em>going forward</em>.</p>
  <p>We have to make things better for everybody, not a just a subset of humanity. If ownership is a good thing, then let&rsquo;s extend it and make it work for everybody. We can do it in a steady-eddy, gradual way, without violence.</p>
  <p>And <em>that</em> is what <span class="_paradigm">RAD</span> Distributions are about: A tool for revolutionaries, without the explosives. See,</p>
   <ul>
