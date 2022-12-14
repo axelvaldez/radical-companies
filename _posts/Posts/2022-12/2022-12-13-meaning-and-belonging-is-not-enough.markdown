@@ -11,6 +11,7 @@ image:    "icon-about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
+ <p>Here is the <span class="_paradigm">RADICAL</span> foundation,</p>
  <table align="center">
   <tr>
    <th>people</th>
@@ -34,7 +35,7 @@ image:    "icon-about-daos.svg"
    <td class="_spacer_"></td>
   </tr>
  </table>
- <p>And the question was, "Do you have to do everything at once? Why can&rsquo;t you start with Meaning and Belonging? And the answer is that you don&rsquo;t have to do anythingk but you don&rsquo;t have the foundation unless you</p>
+ <p>And the comment was, "Do you have to do everything at once? Why can&rsquo;t you start with Meaning and Belonging? And the answer is that you don&rsquo;t have to do anythingk but you don&rsquo;t have the foundation unless you</p>
 
 <h1>TIme to Run</h1>
  <p>&ldquo;We are a family!&rdquo; You should hear that as, &ldquo;Time to get out of here!&rdquo;</o>
