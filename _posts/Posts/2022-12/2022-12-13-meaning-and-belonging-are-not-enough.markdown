@@ -3,7 +3,7 @@ layout:   post
 title:    "Meaning & Belonging Are Not Enough"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-meaning-and-belonging-are-not-enough.svg"
 ---
 
 <div style="display:none;">
