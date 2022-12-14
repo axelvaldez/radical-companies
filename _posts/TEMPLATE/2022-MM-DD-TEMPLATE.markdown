@@ -16,8 +16,13 @@ image:    "icon-about-daos.svg"
  <p>xxx</p>
  <p>xxx</p>
 
-<p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
-
+<!-- image -->
+<h1></h1>
+ <p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
+ <span class="_paradigm">RADICAL</span>
+ <span class="_paradigm">FIAT</span>
+ <span class="_paradigm">RAD</span>s
+ 
 <!-- image -->
 <div class="_center">
  <img
@@ -28,21 +33,15 @@ image:    "icon-about-daos.svg"
 
 <!-- new foundation -->
  <table align="center">
-  <tr>
+  <tr style="background-color:#EEEEEE; ">
    <th>people</th>
    <td class="_foundation">Meaning & Belonging</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
   </tr>
   <tr>
    <th>commitments</th>
    <td class="_foundation">Decentralization & Transparency</td>
   </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
+  <tr style="background-color:#EEEEEE; ">
    <th>practices</th>
    <td class="_foundation">Experimentation</td>
   </tr>
