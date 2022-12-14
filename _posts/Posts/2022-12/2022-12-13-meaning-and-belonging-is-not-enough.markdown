@@ -1,16 +1,20 @@
 ---
 layout:   post
-title:    "TEMPLATE"
+title:    "Meaning & Belonging Is Not Enough"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-about-daos.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>Meaning & Belonging, without Decentralization, Transparency, and Experimentation, is what paternalistic businesses are.</p>
 </div>
 
 <h1>&nbsp;</h1>
+ <p>xxx</p>
+ <p>xxx</p>
+ <p>xxx</p>
+ <p>xxx</p>
 
 <p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
 
