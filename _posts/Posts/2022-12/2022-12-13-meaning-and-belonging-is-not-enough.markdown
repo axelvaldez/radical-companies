@@ -11,23 +11,6 @@ image:    "icon-about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
-
- <p>The <span class="_paradigm">RADICAL</span> </p>
- <p>xxx</p>
- <p>xxx</p>
- <p>xxx</p>
-
-<p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
-
-<!-- image -->
-<div class="_center">
- <img
-  src="/assets/img/pings-to-rads-equation.svg"
-  width="70%"
-  alt="">
- </div>
-
-<!-- new foundation -->
  <table align="center">
   <tr>
    <th>people</th>
@@ -51,81 +34,17 @@ image:    "icon-about-daos.svg"
    <td class="_spacer_"></td>
   </tr>
  </table>
+ <p>And the question was, "Do you have to do everything at once? Why can&rsquo;t you start with Meaning and Belonging? And the answer is that you don&rsquo;t have to do anythingk but you don&rsquo;t have the foundation unless you</p>
 
-<h1>For More,&hellip;</h1>
-  <ul>
-   <li>                                <em>Get Rid of Ownership</em>,<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></li>
-   <li>  <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></li>
-   <li>   <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en06"><sup id="bm06">6&nbsp;</sup></a></li>
-   <li>                              <em>No Bonuses or Salaries</em>,<a href="#en07"><sup id="bm07">7&nbsp;</sup></a></li>
-   <li>          <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en08"><sup id="bm08">8&nbsp;</sup></a></li>
-  </ul>
+<h1>TIme to Run</h1>
+ <p>&ldquo;We are a family!&rdquo; You should hear that as, &ldquo;Time to get out of here!&rdquo;</o>
+ <p>Meaning & Belonging, without Decentralization, Transparency, and Experimentation, is what paternalistic businesses are all about. You feel comfortable, with friends. They send you flowers when you are sick. A hot soup when you get a cold. But in the end, you are working for a <span class="_paradigm">FIAT</span> business whose sole purpose is to add to the owner&rsquo;*s wealth. And if it means havgin to fire you, they will regret doing so, but they will.</p>
+ <p>The <span class="_paradigm">RADICAL</span> foundation is three-legged people, commitments, and practics. Paternalistic businesses are very good at &lsquo;people&rsquo;, the people piece. On the other hand, it is very centralized on the owners. And for the sake of protecting their people, transparancy takes a hit, &ldquo;Why bother my people with all the details, all they need to know&hellip; &rdquo;. Like I said, they are very paternalisctic.</p>
+ <p>Paternalistic businesses are good at doing what the owner says. Don&rsquo;t deviate for what he said to do or how he said to do it. If you do, you'd get a scolding. In a paternalistic company there is no time for experiementation. They are great with people, but not experimentation, &ldquo;We are here to work, not play games.&rdquo;</p>
+ If you g very good at &lsquo;people&rsquo;, the people piece. On the other hand, it is very centralized on the owners. And for the sake of protecting their people, transparancy takes a hit, &ldquo;Why bother my people with all the details, all they need to know&hellip; &rdquo;. Like I said, they are very paternalisctic.</p>
 
-<h1 class="_section">ENDNOTES</h1>
- <ol>
-  <li id="en02">
-   <p class="_list-item">
-    AUTHOR(S) a.
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    &lt;<a href="https://…" target="_blank">https://…</a>&gt;
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en02">
-   <p class="_list-item">
-    AUTHOR(S) b.
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    &lt;<a href="https://…" target="_blank">https://…</a>&gt;
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en03">
-   <p class="_list-item">
-    AUTHOR(S) c.
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    &lt;<a href="https://…" target="_blank">https://…</a>&gt;
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en04">
-   <p class="_list-item">
-    <em>Get Rid of Ownership</em>.
-    <<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>>
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en05">
-   <p class="_list-item">
-    <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
-    <<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>>
-    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en06">
-   <p class="_list-item">
-    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
-    <<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>>
-    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en07">
-   <p class="_list-item">
-    <em>No Bonuses or Salaries</em>
-    <<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>>
-    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en08">
-   <p class="_list-item">
-    <em>Giving RADs</em>
-    <<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>>
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ol>
+<h1><p>The <span class="_paradigm">RADICAL</span> Path</h1>
+ <p>The <span class="_paradigm">RADICAL</span> foundation is three-legged: people, commitments, and practics. A company on the <span class="_paradigm">RADICAL</span> path, endearvors to make advances on <em>all three</em> of them.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
