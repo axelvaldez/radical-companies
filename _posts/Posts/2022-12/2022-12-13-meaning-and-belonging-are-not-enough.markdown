@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Meaning & Belonging Is Not Enough"
+title:    "Meaning & Belonging Are Not Enough"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-about-daos.svg"
