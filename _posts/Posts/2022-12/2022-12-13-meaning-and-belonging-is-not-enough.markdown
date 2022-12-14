@@ -11,6 +11,7 @@ image:    "icon-about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
+
  <p>The <span class="_paradigm">RADICAL</span> </p>
  <p>xxx</p>
  <p>xxx</p>
