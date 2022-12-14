@@ -37,7 +37,7 @@ image:    "icon-about-daos.svg"
  </table>
  <p>And the comment was, "Do you have to do everything at once? Why can&rsquo;t you start with Meaning and Belonging? And the answer is that you don&rsquo;t have to do anythingk but you don&rsquo;t have the foundation unless you</p>
 
-<h1>TIme to Run</h1>
+<h1>Time to Run</h1>
  <p>&ldquo;We are a family!&rdquo; You should hear that as, &ldquo;Time to get out of here!&rdquo;</p>
  <p>Meaning & Belonging, without Decentralization, Transparency, and Experimentation, is what paternalistic businesses are all about. You feel comfortable, with friends. They send you flowers when you are sick. A hot soup when you get a cold. But in the end, you are working for a <span class="_paradigm">FIAT</span> business whose sole purpose is to add to the owner&rsquo;*s wealth. And if it means havgin to fire you, they will regret doing so, but they will.</p>
  <p>The <span class="_paradigm">RADICAL</span> foundation is three-legged people, commitments, and practics. Paternalistic businesses are very good at &lsquo;people&rsquo;, the people piece. On the other hand, it is very centralized on the owners. And for the sake of protecting their people, transparancy takes a hit, &ldquo;Why bother my people with all the details, all they need to know&hellip; &rdquo;. Like I said, they are very paternalisctic.</p>
