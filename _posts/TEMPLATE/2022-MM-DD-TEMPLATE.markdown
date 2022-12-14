@@ -25,7 +25,7 @@ image:    "icon-about-daos.svg"
 <!-- new foundation -->
  <table align="center">
   <tr>
-   <th>principles</th>
+   <th>people</th>
    <td class="_foundation">Meaning & Belonging</td>
   </tr>
   <tr>
