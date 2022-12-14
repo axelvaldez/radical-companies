@@ -67,8 +67,6 @@ image:    "icon-about-daos.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en02">
    <p class="_list-item">
     AUTHOR(S) b.
@@ -78,8 +76,6 @@ image:    "icon-about-daos.svg"
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en03">
    <p class="_list-item">
     AUTHOR(S) c.
@@ -89,8 +85,6 @@ image:    "icon-about-daos.svg"
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en04">
    <p class="_list-item">
     <em>Get Rid of Ownership</em>.
