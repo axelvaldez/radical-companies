@@ -35,7 +35,8 @@ image:    "icon-meaning-and-belonging-are-not-enough.svg"
    <td class="_spacer_"></td>
   </tr>
  </table>
- <p>And the comment was, "Do you have to do everything at once? Why can&rsquo;t you start with Meaning and Belonging? And the answer is that you don&rsquo;t have to do anythingk but you don&rsquo;t have the foundation unless you</p>
+ <p>And the comment was, "Do you have to do everything at once? Why can&rsquo;t you start with Meaning and Belonging?&rdquo;</p>
+ <p>The answer is that you don&rsquo;t have to do anythingk but you don&rsquo;t want to. You do have to work on all three legs of the foundation to be on the <span class="_paradigm">RADICAL</span> path.</p>
 
 <h1>Time to Run</h1>
  <p>&ldquo;We are a family!&rdquo; You should hear that as, &ldquo;Time to get out of here!&rdquo;</p>
