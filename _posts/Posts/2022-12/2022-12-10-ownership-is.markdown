@@ -21,7 +21,7 @@ image:    "icon-ownership-is.svg"
  <br>
  <br>
  <br>
- <p class="_quotespan">I have, therefore I am. And the more I have, the more I am.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
+ <p><span class="_quotespan">I have, therefore I am. And the more I have, the more I am.<span><a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
  <p>In a conversation today we were wondering about “ownership.” Since then, we’ve been researching it messier than not.</p>
 
 <h1>Capitalism</h1>
