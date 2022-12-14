@@ -11,6 +11,10 @@ image:    "icon-about-daos.svg"
 </div>
 
 <h1>&nbsp;</h1>
+ <p>xxx</p>
+ <p>xxx</p>
+ <p>xxx</p>
+ <p>xxx</p>
 
 <p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
 
