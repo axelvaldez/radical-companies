@@ -64,44 +64,11 @@ image:    "icon-ownership-is.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en02">
-   <p class="_list-item">
-    Karen Hopkin reports.
-    <em>Mind & Brain 60-Second Science: Tools Are Body Parts to Brain</em>.
-    June 23, 2009.
-    <span class="_quotespan">Researchers claim that the brain interprets a tool, such as a hammer, as a temporary extension of your physical body.</span>
-    &lt;<a href="https://radicals.world/yt9kr6" target="_blank">https://radicals.world/yt9kr6</a>&gt;
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en03">
-   <p class="_list-item">
-    David Graeber.
-    <em>Debt: The First 5,000 Years Paperback</em>.
-    November 27, 2012.
-    &lt;<a href="https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years" target="_blank">https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years</a>&gt;
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
   <li id="en04">
    <p class="_list-item">
     <em>Get Rid of Ownership</em>.
     <<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>>
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en05">
-   <p class="_list-item">
-    <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
-    <<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>>
-    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en06">
-   <p class="_list-item">
-    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
-    <<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>>
-    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en07">
