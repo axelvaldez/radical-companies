@@ -31,13 +31,12 @@ image:    "icon-ownership-is.svg"
  <div class="_citation">
   Ownership followed &hellip; possession.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
  </div>
- <p>The process of legitimizing lang-grabs is still going on, although these days is more than just about land,</p>
+ <p>The process of legitimizing lang-grabs is still going on, although these days is more than just about land. Today is more about things like,</p>
   <ul>
-   <li><em>forever</em> copyrights,</li>
-   <li><em>never-ending</em> patents,</li>
-   <li><em>data</em>!</li>
+   <li>Forever <em>copyrights</em>,</li>
+   <li>Never-ending <em>patents</em>,</li>
+   <li><em>Digital Data</em> about you! (<em>i.e.</em>, Businesses like Facebook and Google use that information to their heart&rsquo;s content without asking you)</li>
   </ul>
- <p>A note about the last bullet point: digital data about you does not belong to you. Businesses like Facebook and Google use that information to their heart&rsquo;s content without asking you. It is different in other parts of the world, but not in the USA.</p>
 
 <h1 id="_minemine">MINE! MINE!</h1>
  <p>Anything a toddler comes in contact with is &ldquo;MINE! MINE!&rdquo;. It probably has to do with the fact that,
