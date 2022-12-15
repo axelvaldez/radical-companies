@@ -89,18 +89,18 @@ image:    "icon-ownership-is.svg"
     Toppr.
     <em>Kinds of Ownership</em>.
     &lt;<a href="https://diigo.com/0qu8ma">https://diigo.com/0qu8ma</a>&gt;
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en08x">
+  <li id="en05">05
    <p class="_list-item">
     Daniel Kahneman.
     <em>Thinking, Fast and Slow</em>
-    <https://a.com/4MOx6ei>
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+    &lt;<https://a.com/4MOx6ei>&gt;
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en08">
+  <li id="en08">08
    <p class="_list-item">
     Nidhi Kumari.
     <em>Ownership As A Social Concept</em>.
@@ -109,24 +109,24 @@ image:    "icon-ownership-is.svg"
     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en09">
+  <li id="en09">09
    <p class="_list-item">
     <em>Get Rid of Ownership</em>.
-    <<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>>
+    &lt;<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>&gt;
     <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en10">
+  <li id="en10">10
    <p class="_list-item">
     <em>No Bonuses or Salaries</em>
-    <<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>>
+    &lt;<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>&gt;
     <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en11">
+  <li id="en11">11
    <p class="_list-item">
     <em>Giving RADs</em>
-    <<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>>
+    &lt;<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>>
     <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
