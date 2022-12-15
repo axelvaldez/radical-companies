@@ -96,19 +96,19 @@ image:    "icon-ownership-is.svg"
     <em>A New Earth: Awakening to Your Life’s Purpose</em>.
     2005.
     &lt;<a href="https://en.wikiquote.org/wiki/A_New_Earth">https://en.wikiquote.org/wiki/A_New_Earth</a>&gt;
-    <a href="#fnref1">&#8617;</a>
+    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p>
    	The CORE Team. The Economy.
-    <a href="#fnref2">&#8617;</a>
+    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
     <li id="en03">
     Wikipedia. Ownership.
     &lt;<a href="https://diigo.com/0qu8gz">https://diigo.com/0qu8gz</a>&gt;
-    <a href="#fnref3">&#8617;</a>
+    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en04">
@@ -116,7 +116,7 @@ image:    "icon-ownership-is.svg"
     Toppr.
     <em>Kinds of Ownership</em>.
     &lt;<a href="https://diigo.com/0qu8lk">https://diigo.com/0qu8lk</a>&gt;
-    <a href="#fnref4">&#8617;</a>
+    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en05">
@@ -124,7 +124,7 @@ image:    "icon-ownership-is.svg"
     Toppr.
     <em>Kinds of Ownership</em>.
     &lt;<a href="https://diigo.com/0qu8mu">https://diigo.com/0qu8mu</a>&gt;
-    <a href="#fnref5">&#8617;</a>
+    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en06">
@@ -132,7 +132,7 @@ image:    "icon-ownership-is.svg"
     Wikipedia.
     <em>Property</em>.
     &lt;<a href="https://diigo.com/0qu8h9">https://diigo.com/0qu8h9</a>&gt;
-    <a href="#fnref6">&#8617;</a>
+    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en07">
@@ -140,7 +140,7 @@ image:    "icon-ownership-is.svg"
     The Science of Ownership.
     <em>Fun Facts about Ownership</em>.
     &lt;<a href="https://thescienceofownership.org/resources/fun-facts/">https://thescienceofownership.org/resources/fun-facts/</a>&gt;
-    <a href="#fnref7">&#8617;</a>
+    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   <li id="en08">
    <p>
@@ -148,7 +148,7 @@ image:    "icon-ownership-is.svg"
     <em>Parenting: how to teach your kids about ownership</em>.
     October 2004.
     &lt;<a href="https://diigo.com/0qu8c4">https://diigo.com/0qu8c4</a>&gt;
-    <a href="#fnref8">&#8617;</a>
+    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en09">
@@ -156,7 +156,7 @@ image:    "icon-ownership-is.svg"
     Toppr.
     <em>Kinds of Ownership</em>.
     &lt;<a href="https://diigo.com/0qu8ma">https://diigo.com/0qu8ma</a>&gt;
-    <a href="#fnref9">&#8617;</a>
+    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en10">
@@ -164,7 +164,7 @@ image:    "icon-ownership-is.svg"
     Daniel Kahneman.
     <em>Thinking, Fast and Slow</em>
     <https://a.com/4MOx6ei>
-    <a href="#fnref10">&#8617;</a>
+    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
