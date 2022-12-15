@@ -139,8 +139,6 @@ image:    "icon-ownership-is.svg"
     <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en11">
    <p class="_list-item">
     <em>Giving RADs</em>
