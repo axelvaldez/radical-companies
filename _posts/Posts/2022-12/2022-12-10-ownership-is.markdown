@@ -24,7 +24,7 @@ image:    "icon-ownership-is.svg"
   </ul>
 
 <h1>Attachment</h1>
- <p>A magazine lists this among other <em>Fun Facts about Ownership</em>: <span class="_quotespan">Awareness of ownership rights already emerges in children as young as 2 or 3 years.</span><a href="#en02"><sup id="bm02">2&nbsp;</sup></a> But that is careless nonsense. Our brains come wired for <em>attachment</em>, but not ownership (see, <a href="_minemine">MINE! MINE!</a>, below.</p>
+ <p>A magazine lists this among other <em>Fun Facts about Ownership</em>: <span class="_quotespan">Awareness of ownership rights already emerges in children as young as 2 or 3 years.</span><a href="#en02"><sup id="bm02">2&nbsp;</sup></a> But that is careless nonsense. Our brains come wired for <em>attachment</em>, but not ownership (see, <a href="#_minemine">MINE! MINE!</a>, below.</p>
  <p>As children, we learn ownership from those around us, <span class="_quotespan">As children get older, they gain social skills and learn to negotiate the conflicts on their own.</span><a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
  
 <h1>Possession</h1>
@@ -34,7 +34,7 @@ image:    "icon-ownership-is.svg"
  <p>The process of legitimizing enclosures is still going on, although these days is more than just about land. For example, <em>forever</em> copyrights, <em>never-ending</em> patents, and your <em>data</em> does not belong to you.</p>
 
 <h1 id="_minemine">MINE! MINE!</h1>
- <p>Anything a toddler comes in contact with is &ldquo;MINE!&rdquo; At least, for a little while. It probably has to do with the fact that,
+ <p>Anything a toddler comes in contact with is &ldquo;MINE! MINE!&rdquo;. It probably has to do with the fact that,
   <ul>
    <li>Anything and everything we come in contact with, and doesn&rsquo;t harm us, can, according to our brains,<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> extend our bodies and it appropriates it easily and swiftly (<em>i.e.</em>, unconciously).</li>
    <li>And, of course, anything that is part of our body cannot be let go just like that.</li>
@@ -59,26 +59,15 @@ image:    "icon-ownership-is.svg"
 <!-- Footnotes themselves at the bottom. -->
 <h1>Notes</h1>
  <ol>
-  <li id="en04">
+  <li id="en01">
    <p>
     Eckhart Tolle.
     <em>A New Earth: Awakening to Your Life’s Purpose</em>.
     2005.
     &lt;<a href="https://en.wikiquote.org/wiki/A_New_Earth">https://en.wikiquote.org/wiki/A_New_Earth</a>&gt;
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en02">
-   <p>
-   	The CORE Team. The Economy.
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-    <li id="en03">
-    Wikipedia. Ownership.
-    &lt;<a href="https://diigo.com/0qu8gz">https://diigo.com/0qu8gz</a>&gt;
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
   <li id="en02">
    <p>
     The Science of Ownership.
