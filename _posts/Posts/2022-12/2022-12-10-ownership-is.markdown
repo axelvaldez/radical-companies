@@ -31,7 +31,7 @@ image:    "icon-ownership-is.svg"
  <div class="_citation">
   Ownership followed &hellip; possession.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
  </div>
- <p>The process of legitimizing enclosures is still going on, although these days is more than just about land. For example, <em>forever copyrigts</em>, <em>never-ending patents</em>, and your <em>data</em> does not belong to you.</p>
+ <p>The process of legitimizing enclosures is still going on, although these days is more than just about land. For example, <em>forever</em> copyrights, <em>never-ending</em> patents, and your <em>data</em> does not belong to you.</p>
 
 <h1 id="_minemine">MINE! MINE!</h1>
  <p>Anything a toddler comes in contact with is &ldquo;MINE!&rdquo; At least, for a little while. It probably has to do with the fact that,
