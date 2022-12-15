@@ -60,7 +60,7 @@ image:    "icon-ownership-is.svg"
 <h1>Notes</h1>
  <ol>
   <li id="en01">
-   <p>
+   <p class="_list-item">
     Eckhart Tolle.
     <em>A New Earth: Awakening to Your Life’s Purpose</em>.
     2005.
@@ -69,14 +69,14 @@ image:    "icon-ownership-is.svg"
    </p>
   </li>
   <li id="en02">
-   <p>
+   <p class="_list-item">
     The Science of Ownership.
     <em>Fun Facts about Ownership</em>.
     &lt;<a href="https://thescienceofownership.org/resources/fun-facts/">https://thescienceofownership.org/resources/fun-facts/</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   <li id="en03">
-   <p>
+   <p class="_list-item">
     Dr Cathleen McGreal.
     <em>Parenting: how to teach your kids about ownership</em>.
     October 2004.
@@ -85,7 +85,7 @@ image:    "icon-ownership-is.svg"
    </p>
   </li>
   <li id="en04">
-   <p>
+   <p class="_list-item">
     Toppr.
     <em>Kinds of Ownership</em>.
     &lt;<a href="https://diigo.com/0qu8ma">https://diigo.com/0qu8ma</a>&gt;
@@ -93,7 +93,7 @@ image:    "icon-ownership-is.svg"
    </p>
   </li>
   <li id="en08x">
-   <p>
+   <p class="_list-item">
     Daniel Kahneman.
     <em>Thinking, Fast and Slow</em>
     <https://a.com/4MOx6ei>
