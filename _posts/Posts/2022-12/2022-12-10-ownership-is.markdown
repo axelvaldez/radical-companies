@@ -75,6 +75,7 @@ image:    "icon-ownership-is.svg"
     &lt;<a href="https://thescienceofownership.org/resources/fun-facts/">https://thescienceofownership.org/resources/fun-facts/</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
+  </li>
   <li id="en03">
    <p class="_list-item">
     Dr Cathleen McGreal.
@@ -116,8 +117,6 @@ image:    "icon-ownership-is.svg"
     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en08">
    <p class="_list-item">
     <em>Google Goes RADICAL</em>.
