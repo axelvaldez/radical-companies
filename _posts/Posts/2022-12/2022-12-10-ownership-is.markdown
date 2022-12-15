@@ -10,7 +10,6 @@ image:    "icon-ownership-is.svg"
  <p>Ownership is enclosures-as-robbery, a human invention, and the foundation of the <span class="_paradigm">RADICAL</span> model.</p>
 </div>
 
-
 <div class="_citation" style="text-align:center; ">
  I have, therefore I am. And the more I have, the more I am.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
 </div>
