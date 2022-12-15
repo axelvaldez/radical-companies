@@ -16,12 +16,6 @@ image:    "icon-ownership-is.svg"
 </div><a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
 
 <h1>Ownership</h1>
- <div class="_citation">
-  Ownership is the state or fact of legal possession and control over property&hellip;
- </div><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
- <div class="_citation">
-  Ownership refers to the legal right of an individual, group, corporation or government to the possession of a thing.
- </div><a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
  <p>As I see it, ownership is,</p>
   <ul>
    <li>The result of enclosures brought about by violent robbery (<em>i.e.</em>, Marxists rejoice).</li>
@@ -29,36 +23,23 @@ image:    "icon-ownership-is.svg"
    <li>The foundation of the <span class="_paradigm">RADICAL</span> model (<em>i.e.</em>, everybody is puzzled).</li>
   </ul>
  <p>Ownership really is all of those things at once.</p>
+ <div class="_citation">
+  Ownership refers to the legal right of an individual, group, corporation or government to the possession of a thing.
+ </div><a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
  <p>Science of Ownership lists these among other <em>Fun Facts about Ownership</em>,<a href="#en07"><sup id="bm07">7&nbsp;</sup></a></p>
  <ul>
   <li>Control is a key central concept and inseparable when discussing the concept of ownership (<em>i.e.</em>, but see Equity Onwership, below).</li>
   <li>Ownership may be experienced individually or collectively</li>
   <li>Awareness of ownership rights already emerges in children as young as 2 or 3 years.</li>
  </ul>
- <p>This last one is nonsense: our brains come wired for attachment, a form of  possession, but that has little to do with ownership.</p>
- <div class="_quotespan">
-  As children get older, they gain social skills and learn to negotiate the conflicts on their own.<a href="#fn8"><sup id="bm08">8&nbsp</a></sup>
- </div>
- <p>The same goes for adults: as we get further and further away from the <span class="_paradigm">FIAT</span> regime, we will need to “gain social skills” to be a co-owner working with other co-owners.</p>
-
-
-<h1>Capitalism</h1>
- <p>According to the book <em>The Economy</em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> private property (<em>i.e.</em>, ownership) is the oldest institution that makes up capitalism.</p>
-
-<h1>Equity Ownership</h1>
- <div class="_quotespan">
-  We do not consider equitable ownership as true ownership because it is only <em>the benefit</em> of the property that the buyer will use and enjoy.<a href="#en09"><sup id="bm09">9;</sup></a>
- </div>
- <p>In other words, ownership implies control <em>and</em> financial gains.
-
-
+ <p>This last one is ignorant nonsense or malicious: our brains come wired for attachment, a form of  possession, but that has little to do with ownership. Children learn ownership from society: <span class="_quotespan">As children get older, they gain social skills and learn to negotiate the conflicts on their own.<a href="#fn8"><sup id="bm08">8&nbsp</a></sup></span></p>
+ 
 <h1>Possession</h1>
- <p>&ldquo;Ownership followed &hellip; possession&rdquo;,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
-  <ul>
-   <li>Human babies cry and fight to keep their possessions.</li>
-   <li>The story goes that &ldquo;when farming came along,&rdquo; possession had to, just had to, be formalized into ownership.</li>
-   <li>Just as believable is that once some people figured out how to use laws as a tool, they defined ownership as legit. &ldquo;This land is mine! See? It says it right here in the law book (which I just wrote).&rdquo;</li>
-  </ul>
+ <p><span class="_quotespan">&ldquo;Ownership <em>followed</em> &hellip; possession&rdquo;</span><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> (emphasis mine),</p>
+ <ul>
+  <li>The story goes that &ldquo;when farming came along,&rdquo; possession had to, just had to, be formalized into ownership.</li>
+  <li>Just as believable is that once some people figured out how to use laws as a tool, they defined ownership as legit. &ldquo;This land is mine! See? It says it right here in the law book (which I just wrote).&rdquo;</li>
+ </ul>
  <p>This process of legitimizing enclosures is still going on, although these days is more about <em>forever copyrigts</em>, <em>never-ending patents</em>, and <em>data</em>.</p>
  <div class="_citation">
   Possession means physical control over a property.</span><a href="#en05"><sup id="bm05">5&nbsp;</sup></a>
