@@ -31,7 +31,7 @@ image:    "icon-ownership-is.svg"
  <div class="_citation">
   Ownership followed &hellip; possession.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
  </div>
- <p>The process of legitimizing lang-grabs is still going on, although these days is more than just about land. For example,
+ <p>The process of legitimizing lang-grabs is still going on, although these days is more than just about land. For example,</p>
   <ul>
    <li><em>forever</em> copyrights,</li>
    <li><em>never-ending</em> patents,</li>
