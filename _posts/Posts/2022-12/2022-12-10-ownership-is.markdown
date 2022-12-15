@@ -123,13 +123,17 @@ image:    "icon-ownership-is.svg"
     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+ </ol>
+ <ol>
   <li id="en09">
    <p class="_list-item">
     <em>Your Cheating RADs</em>.
     &lt;<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>&gt;
     <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
-  </li> 
+  </li>
+ </ol>
+ <ol>
   <li id="en10">
    <p class="_list-item">
     <em>No Bonuses or Salaries</em>
@@ -137,6 +141,8 @@ image:    "icon-ownership-is.svg"
     <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+ </ol>
+ <ol>
   <li id="en11">
    <p class="_list-item">
     <em>Giving RADs</em>
