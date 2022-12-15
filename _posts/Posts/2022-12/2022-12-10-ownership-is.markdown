@@ -22,7 +22,6 @@ image:    "icon-ownership-is.svg"
    <li>The best ever human invention (<em>i.e.</em>, Neoliberals rejoice).</li>
    <li>The foundation of the <span class="_paradigm">RADICAL</span> model (<em>i.e.</em>, everybody is puzzled).</li>
   </ul>
- <p>Ownership really is all of those things at once.</p>
 
 <h1>Attachment</h1>
  <p>A magazine lists this among other <em>Fun Facts about Ownership</em>: <span class="_quotespan">Awareness of ownership rights already emerges in children as young as 2 or 3 years.</span><a href="#en02"><sup id="bm02">2&nbsp;</sup></a> But that is not the way it works: our brains come wired for <em>attachment</em>, but not ownership. Children learn ownership from society: <span class="_quotespan">As children get older, they gain social skills and learn to negotiate the conflicts on their own.</span><a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
