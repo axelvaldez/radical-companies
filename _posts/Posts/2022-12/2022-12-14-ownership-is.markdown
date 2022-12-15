@@ -37,7 +37,7 @@ image:    "icon-ownership-is.svg"
    <li><em>never-ending</em> patents,</li>
    <li><em>data</em>!</li>
   </ul>
- <p>About that last point: data about you does not belong to you, but to businesses like Facebook and Google. It does in other parts of the world, but not in the USA.</li>
+ <p>A note about the last bullet point: digital data about you does not belong to you. For lack of clarity, businesses like Facebook and Google use your data to their heart&rsquo;s content without asking you. It is different in other parts of the world, but not in the USA.</p>
 
 <h1 id="_minemine">MINE! MINE!</h1>
  <p>Anything a toddler comes in contact with is &ldquo;MINE! MINE!&rdquo;. It probably has to do with the fact that,
