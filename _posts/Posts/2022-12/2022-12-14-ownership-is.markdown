@@ -35,7 +35,7 @@ image:    "icon-ownership-is.svg"
   <ul>
    <li>Forever <em>copyrights</em>,</li>
    <li>Never-ending <em>patents</em>,</li>
-   <li><em>Digital Data</em> about you! (<em>i.e.</em>, Businesses like Facebook and Google use that information to their heart&rsquo;s content without asking you)</li>
+   <li><em>Digital data</em> about you! (<em>i.e.</em>, Businesses like Facebook and Google use that information to their heart&rsquo;s content without asking you)</li>
   </ul>
 
 <h1 id="_minemine">MINE! MINE!</h1>
