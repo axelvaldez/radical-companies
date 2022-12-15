@@ -39,7 +39,7 @@ image:    "icon-ownership-is.svg"
   </ul>
 
 <h1 id="_minemine">MINE! MINE!</h1>
- <p>Anything a toddler comes in contact with is &ldquo;MINE! MINE!&rdquo;. It probably has to do with the fact that,
+ <p>Anything a toddler comes in contact with is &ldquo;MINE! MINE!&rdquo;. It likely has to do with the fact that,
   <ul>
    <li>Anything and everything we come in contact with, and doesn&rsquo;t harm us, can, according to our brains,<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> extend our bodies and it appropriates it easily and swiftly (<em>i.e.</em>, unconciously).</li>
    <li>And, of course, anything that is part of our body cannot be let go just like that.</li>
