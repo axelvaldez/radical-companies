@@ -72,7 +72,7 @@ image:    "icon-ownership-is.svg"
    <p class="_list-item">
     The Science of Ownership.
     <em>Fun Facts about Ownership</em>.
-    &lt;<a href="https://thescienceofownership.org/resources/fun-facts/ target="_blank">https://thescienceofownership.org/resources/fun-facts/</a>&gt;
+    &lt;<a href="https://thescienceofownership.org/resources/fun-facts/" target="_blank">https://thescienceofownership.org/resources/fun-facts/</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
