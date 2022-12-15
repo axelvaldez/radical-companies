@@ -38,12 +38,6 @@ image:    "icon-ownership-is.svg"
  </div>
  <p>The same goes for adults: as we get further and further away from the <span class="_paradigm">FIAT</span> regime, we will need to “gain social skills” to be a co-owner working with other co-owners.</p>
 
-<h1>Possession</h1>
- <divclass="_citation">
-  Possession means physical control over a property.</span><a href="#en05"><sup id="bm05">5&nbsp;</sup></a>
-  Property is a system of rights that gives people legal control of valuable things, and also refers to the valuable things themselves.</span><a href="#en06"><sup id="bm06">6&nbsp;</sup></a>
- </div>
- <p>So &ldquo;ownership&rdquo; is &ldquo;possession,&rdquo; legal control over &ldquo;property.&rdquo;</p>
 
 <h1>Capitalism</h1>
  <p>According to the book <em>The Economy</em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> private property (<em>i.e.</em>, ownership) is the oldest institution that makes up capitalism.</p>
@@ -63,6 +57,10 @@ image:    "icon-ownership-is.svg"
    <li>Just as believable is that once some people figured out how to use laws as a tool, they defined ownership as legit. &ldquo;This land is mine! See? It says it right here in the law book (which I just wrote).&rdquo;</li>
   </ul>
  <p>This process of legitimizing enclosures is still going on, although these days is more about <em>forever copyrigts</em>, <em>never-ending patents</em>, and <em>data</em>.</p>
+ <div class="_citation">
+  Possession means physical control over a property.</span><a href="#en05"><sup id="bm05">5&nbsp;</sup></a>
+  Property is a system of rights that gives people legal control of valuable things, and also refers to the valuable things themselves.</span><a href="#en06"><sup id="bm06">6&nbsp;</sup></a>
+ </div>
 
 <h1>MINE! MINE!</h1>
  <p>Anything a toddler comes in contact with is &ldquo;MINE!&rdquo; At least, for a little while. It probably has to do with the fact that,
