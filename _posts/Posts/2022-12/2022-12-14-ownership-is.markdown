@@ -60,9 +60,6 @@ image:    "icon-ownership-is.svg"
   </ul>
 
 <h1 class="_section">ENDNOTES</h1>
-
-<!-- Footnotes themselves at the bottom. -->
-<h1>Notes</h1>
  <ol>
   <li id="en01">
    <p class="_list-item">
