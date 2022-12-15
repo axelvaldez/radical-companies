@@ -50,7 +50,7 @@ image:    "icon-ownership-is.svg"
 <h1>Going Forward</h1>
  <p>What happened in the past cannot be fixed. What counts is what we do <em>going forward</em> (<em>i.e.</em>, and preferably, what we do to make sure that long-term errors of the past don&rsquo;t persist).</p>
  <p>We have to make things better for everybody, not a just a subset of humanity. If ownership is a good thing, then let&rsquo;s extend it and make it work for everybody. We can do it in a steady-eddy, gradual way, without violence.</p>
- <p>And <em>that</em> is what <span class="_paradigm">RAD</span> Distributions are about: A tool for revolutionaries, without the explosives. See,</p>
+ <p>And <em>that</em> is what <span class="_paradigm">RAD</span> Distributions are about: A tool for revolutionaries (without explosives). See,</p>
   <ul>
    <li>                                <em>Get Rid of Ownership</em>,<a href="#en08"><sup id="bm08">8&nbsp;</sup></a></li>
    <li>  <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en09"><sup id="bm09">9&nbsp;</sup></a></li>
