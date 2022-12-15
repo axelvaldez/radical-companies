@@ -116,6 +116,8 @@ image:    "icon-ownership-is.svg"
     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+ </ol>
+ <ol>
   <li id="en08">
    <p class="_list-item">
     <em>Google Goes RADICAL</em>.
@@ -123,8 +125,6 @@ image:    "icon-ownership-is.svg"
     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en09">
    <p class="_list-item">
     <em>Your Cheating RADs</em>.
