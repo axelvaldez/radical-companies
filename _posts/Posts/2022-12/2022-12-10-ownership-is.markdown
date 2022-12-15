@@ -111,32 +111,20 @@ image:    "icon-ownership-is.svg"
   </li>
   <li id="en07">
    <p class="_list-item">
+    <em>Get Rid of Ownership</em>.
+    &lt;<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>&gt;
     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en08">
    <p class="_list-item">
+    <em>Google Goes RADICAL</em>.
+    &lt;<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>&gt;
     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en09">
    <p class="_list-item">
-    <em>Get Rid of Ownership</em>.
-    &lt;<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>&gt;
-    <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en09">
-   <p class="_list-item">
-    Adrian Perez.
-    <em>Google Goes RADICAL</em>.
-    &lt;<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>&gt;
-    <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en09">
-   <p class="_list-item">
-    Adrian Perez.
     <em>Your Cheating RADs</em>.
     &lt;<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>&gt;
     <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
