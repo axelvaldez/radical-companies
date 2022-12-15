@@ -100,6 +100,16 @@ image:    "icon-ownership-is.svg"
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+  <li id="en06">06
+   <p class="_list-item">
+    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en05">07
+   <p class="_list-item">
+    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
   <li id="en08">08
    <p class="_list-item">
     Nidhi Kumari.
