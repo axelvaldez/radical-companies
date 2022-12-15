@@ -86,36 +86,36 @@ image:    "icon-ownership-is.svg"
   </li>
   <li id="en04">
    <p class="_list-item">
-    Toppr.
-    <em>Kinds of Ownership</em>.
-    &lt;<a href="https://diigo.com/0qu8ma">https://diigo.com/0qu8ma</a>&gt;
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en05">05
-   <p class="_list-item">
-    Daniel Kahneman.
-    <em>Thinking, Fast and Slow</em>
-    &lt;<https://a.com/4MOx6ei>&gt;
-    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en06">06
-   <p class="_list-item">
-    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en05">07
-   <p class="_list-item">
-    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en08">08
-   <p class="_list-item">
     Nidhi Kumari.
     <em>Ownership As A Social Concept</em>.
     April 6, 2015.
     &lt;<a href="https://radicals.world/9l2zmn" target="_blank">https://radicals.world/9l2zmn</a>&gt;
+    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en05">
+   <p class="_list-item">
+    Toppr.
+    <em>Kinds of Ownership</em>.
+    &lt;<a href="https://diigo.com/0qu8ma">https://diigo.com/0qu8ma</a>&gt;
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en06">
+   <p class="_list-item">
+    Daniel Kahneman.
+    <em>Thinking, Fast and Slow</em>
+    &lt;<https://a.com/4MOx6ei>&gt;
+    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en07">
+   <p class="_list-item">
+    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en08">
+   <p class="_list-item">
     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
