@@ -22,7 +22,7 @@ image:    "icon-ownership-is.svg"
  <div class="_citation">
   Ownership refers to the legal right of an individual, group, corporation or government to the possession of a thing.
  </div><a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
- <p>As I define it, owenership is,</p>
+ <p>As I see it, ownership is,</p>
   <ul>
    <li>The result of enclosures brought about by violent robbery (<em>i.e.</em>, Marxists rejoice).</li>
    <li>The best ever human invention (<em>i.e.</em>, Neoliberals rejoice).</li>
