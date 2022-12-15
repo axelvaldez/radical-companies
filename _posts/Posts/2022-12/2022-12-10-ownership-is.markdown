@@ -26,7 +26,7 @@ image:    "icon-ownership-is.svg"
  <div class="_citation">
   Ownership refers to the legal right of an individual, group, corporation or government to the possession of a thing.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
  </div>
- <p>Science of Ownership lists these among other <em>Fun Facts about Ownership</em>: <span class="_quotespan">Awareness of ownership rights already emerges in children as young as 2 or 3 years.</span><a href="#en07"><sup id="bm07">7&nbsp;</sup></a> But that is not the way it works: our brains come wired for <em>attachment</em>, a form of  possession, but that has little to do with ownership. Children learn ownership from society: <span class="_quotespan">As children get older, they gain social skills and learn to negotiate the conflicts on their own.<a href="#fn8"><sup id="bm08">8&nbsp</a></sup></span></p>
+ <p>A magazine lists this among other <em>Fun Facts about Ownership</em>: <span class="_quotespan">Awareness of ownership rights already emerges in children as young as 2 or 3 years.</span><a href="#en07"><sup id="bm07">7&nbsp;</sup></a> But that is not the way it works: our brains come wired for <em>attachment</em>, a form of  possession, but that has little to do with ownership. Children learn ownership from society: <span class="_quotespan">As children get older, they gain social skills and learn to negotiate the conflicts on their own.<a href="#fn8"><sup id="bm08">8&nbsp;</a></sup></span></p>
  
 <h1>Possession</h1>
  <p><span class="_quotespan">&ldquo;Ownership <em>followed</em> &hellip; possession&rdquo;</span><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> (emphasis mine),</p>
