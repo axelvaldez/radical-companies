@@ -90,7 +90,7 @@ image:    "icon-ownership-is.svg"
     <em>Ownership As A Social Concept</em>.
     April 6, 2015.
     &lt;<a href="https://radicals.world/9l2zmn" target="_blank">https://radicals.world/9l2zmn</a>&gt;
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en05">
