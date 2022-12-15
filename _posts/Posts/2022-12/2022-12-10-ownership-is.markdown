@@ -10,15 +10,18 @@ image:    "icon-ownership-is.svg"
  <p>Ownership is enclosures-as-robbery, a human invention, and the foundation of the <span class="_paradigm">RADICAL</span> model.</p>
 </div>
 
-<div class="_citation" style="width:50%; ">
- I have, therefore I am. And the more I have, the more I am.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
-</div>
+<div class="_citation">
+ I have, therefore I am.<br>
+ And the more I have, the more I am.
+</div><a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
 
 <h1>Ownership</h1>
  <div class="_citation">
-  Ownership is the state or fact of legal possession and control over property&hellip;</span><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
-  Ownership refers to the legal right of an individual, group, corporation or government to the possession of a thing.</span><a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
- </div>
+  Ownership is the state or fact of legal possession and control over property&hellip;
+ </div><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
+ <div class="_citation">
+  Ownership refers to the legal right of an individual, group, corporation or government to the possession of a thing.
+ </div><a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
  <p>As I define it, owenership is,</p>
   <ul>
    <li>The result of enclosures brought about by violent robbery (<em>i.e.</em>, Marxists rejoice).</li>
