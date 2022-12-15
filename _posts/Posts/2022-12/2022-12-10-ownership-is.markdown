@@ -105,8 +105,9 @@ image:    "icon-ownership-is.svg"
   <li id="en06">
    <p class="_list-item">
     Daniel Kahneman.
-    <em>Thinking, Fast and Slow</em>
-    &lt;<a href="https://a.com/4MOx6ei" target="_blank">https://a.com/4MOx6ei</a>&gt;
+    <em>Thinking, Fast and Slow</em>.
+    Wikipedia.
+    &lt;<a href="https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow" target="_blank">https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow</a>&gt;
     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
