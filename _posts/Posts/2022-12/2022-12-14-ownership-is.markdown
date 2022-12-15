@@ -31,7 +31,13 @@ image:    "icon-ownership-is.svg"
  <div class="_citation">
   Ownership followed &hellip; possession.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
  </div>
- <p>The process of legitimizing enclosures is still going on, although these days is more than just about land. For example, <em>forever</em> copyrights, <em>never-ending</em> patents, and your <em>data</em> does not belong to you.</p>
+ <p>The process of legitimizing lang-grabs is still going on, although these days is more than just about land. For example,
+  <ul>
+   <li><em>forever</em> copyrights,</li>
+   <li><em>never-ending</em> patents,</li>
+   <li><em>data</em>!</li>
+  </ul>
+ <p>About that last point: data about you does not belong to you, but to businesses like Facebook and Google. It does in other parts of the world, but not in the USA.</li>
 
 <h1 id="_minemine">MINE! MINE!</h1>
  <p>Anything a toddler comes in contact with is &ldquo;MINE! MINE!&rdquo;. It probably has to do with the fact that,
