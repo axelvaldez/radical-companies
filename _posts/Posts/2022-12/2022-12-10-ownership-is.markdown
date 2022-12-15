@@ -25,11 +25,11 @@ image:    "icon-ownership-is.svg"
  <p>Ownership really is all of those things at once.</p>
 
 <h1>Attachment</h1>
- <p>A magazine lists this among other <em>Fun Facts about Ownership</em>: <span class="_quotespan">Awareness of ownership rights already emerges in children as young as 2 or 3 years.</span><a href="#en07"><sup id="bm07">7&nbsp;</sup></a> But that is not the way it works: our brains come wired for <em>attachment</em>, but not ownership. Children learn ownership from society: <span class="_quotespan">As children get older, they gain social skills and learn to negotiate the conflicts on their own.</span><a href="#en08"><sup id="bm08">8&nbsp;</sup></a></p>
+ <p>A magazine lists this among other <em>Fun Facts about Ownership</em>: <span class="_quotespan">Awareness of ownership rights already emerges in children as young as 2 or 3 years.</span><a href="#en02"><sup id="bm02">2&nbsp;</sup></a> But that is not the way it works: our brains come wired for <em>attachment</em>, but not ownership. Children learn ownership from society: <span class="_quotespan">As children get older, they gain social skills and learn to negotiate the conflicts on their own.</span><a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
  
 <h1>Possession</h1>
- <div class="_quotespan">
-  Ownership <em>followed</em> &hellip; possession</span><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> (emphasis mine).
+ <div class="_citation">
+  Ownership <em>followed</em> &hellip; possession</span><a href="#en04"><sup id="bm04">4&nbsp;</sup></a> (emphasis mine).
  </div>
  <p>The process of legitimizing enclosures is still going on, although these days is more than just about land. For example, <em>forever copyrigts</em>, <em>never-ending patents</em>, and <em>data</em>.</p>
 
@@ -91,65 +91,40 @@ image:    "icon-ownership-is.svg"
 <!-- Footnotes themselves at the bottom. -->
 <h1>Notes</h1>
  <ol>
-  <li id="en01">
+  <li id="en04">
    <p>
     Eckhart Tolle.
     <em>A New Earth: Awakening to Your Life’s Purpose</em>.
     2005.
     &lt;<a href="https://en.wikiquote.org/wiki/A_New_Earth">https://en.wikiquote.org/wiki/A_New_Earth</a>&gt;
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p>
    	The CORE Team. The Economy.
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
     <li id="en03">
     Wikipedia. Ownership.
     &lt;<a href="https://diigo.com/0qu8gz">https://diigo.com/0qu8gz</a>&gt;
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
-  </li>
-  <li id="en04">
-   <p>
-    Toppr.
-    <em>Kinds of Ownership</em>.
-    &lt;<a href="https://diigo.com/0qu8lk">https://diigo.com/0qu8lk</a>&gt;
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en05">
-   <p>
-    Toppr.
-    <em>Kinds of Ownership</em>.
-    &lt;<a href="https://diigo.com/0qu8mu">https://diigo.com/0qu8mu</a>&gt;
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en06">
-   <p>
-    Wikipedia.
-    <em>Property</em>.
-    &lt;<a href="https://diigo.com/0qu8h9">https://diigo.com/0qu8h9</a>&gt;
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en07">
+  <li id="en02">
    <p>
     The Science of Ownership.
     <em>Fun Facts about Ownership</em>.
     &lt;<a href="https://thescienceofownership.org/resources/fun-facts/">https://thescienceofownership.org/resources/fun-facts/</a>&gt;
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
-  <li id="en08">
+  <li id="en03">
    <p>
     Dr Cathleen McGreal.
     <em>Parenting: how to teach your kids about ownership</em>.
     October 2004.
     &lt;<a href="https://diigo.com/0qu8c4">https://diigo.com/0qu8c4</a>&gt;
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en09">
