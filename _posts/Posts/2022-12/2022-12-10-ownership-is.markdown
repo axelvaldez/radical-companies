@@ -21,8 +21,8 @@ image:    "icon-ownership-is.svg"
  <br>
  <br>
  <br>
- <div class="_quotation">
-  I have, therefore I am. And the more I have, the more I am.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
+ <div class="_citation">
+  I have, therefore I am. And the more I have, the more I am.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
  </div>
  <p>In a conversation today we were wondering about “ownership.” Since then, we’ve been researching it messier than not.</p>
 
