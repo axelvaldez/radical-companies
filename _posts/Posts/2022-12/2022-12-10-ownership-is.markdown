@@ -132,8 +132,6 @@ image:    "icon-ownership-is.svg"
     <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en10">
    <p class="_list-item">
     <em>No Bonuses or Salaries</em>
