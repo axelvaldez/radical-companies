@@ -12,8 +12,8 @@ image:    "icon-ownership-is.svg"
 
 <div class="_citation">
  I have, therefore I am.<br>
- And the more I have, the more I am.
-</div><a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
+ And the more I have, the more I am.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
+</div>
 
 <h1>Ownership</h1>
  <p>As I see it, ownership is,</p>
@@ -24,8 +24,8 @@ image:    "icon-ownership-is.svg"
   </ul>
  <p>Ownership really is all of those things at once.</p>
  <div class="_citation">
-  Ownership refers to the legal right of an individual, group, corporation or government to the possession of a thing.
- </div><a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
+  Ownership refers to the legal right of an individual, group, corporation or government to the possession of a thing.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
+ </div>
  <p>Science of Ownership lists these among other <em>Fun Facts about Ownership</em>,<a href="#en07"><sup id="bm07">7&nbsp;</sup></a></p>
  <ul>
   <li>Control is a key central concept and inseparable when discussing the concept of ownership (<em>i.e.</em>, but see Equity Onwership, below).</li>
