@@ -29,7 +29,7 @@ image:    "icon-ownership-is.svg"
  
 <h1>Possession</h1>
  <div class="_quotespan">
-  &ldquo;Ownership <em>followed</em> &hellip; possession&rdquo;</span><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> (emphasis mine).
+  Ownership <em>followed</em> &hellip; possession</span><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> (emphasis mine).
  </div>
  <p>The process of legitimizing enclosures is still going on, although these days is more than just about land. For example, <em>forever copyrigts</em>, <em>never-ending patents</em>, and <em>data</em>.</p>
 
