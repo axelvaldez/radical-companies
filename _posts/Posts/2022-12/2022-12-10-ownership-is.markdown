@@ -64,7 +64,7 @@ image:    "icon-ownership-is.svg"
     Eckhart Tolle.
     <em>A New Earth: Awakening to Your Life’s Purpose</em>.
     2005.
-    &lt;<a href="https://en.wikiquote.org/wiki/A_New_Earth">https://en.wikiquote.org/wiki/A_New_Earth</a>&gt;
+    &lt;<a href="https://en.wikiquote.org/wiki/A_New_Earth" target="_blank">https://en.wikiquote.org/wiki/A_New_Earth</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -72,7 +72,7 @@ image:    "icon-ownership-is.svg"
    <p class="_list-item">
     The Science of Ownership.
     <em>Fun Facts about Ownership</em>.
-    &lt;<a href="https://thescienceofownership.org/resources/fun-facts/">https://thescienceofownership.org/resources/fun-facts/</a>&gt;
+    &lt;<a href="https://thescienceofownership.org/resources/fun-facts/ target="_blank">https://thescienceofownership.org/resources/fun-facts/</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -81,7 +81,7 @@ image:    "icon-ownership-is.svg"
     Dr Cathleen McGreal.
     <em>Parenting: how to teach your kids about ownership</em>.
     October 2004.
-    &lt;<a href="https://diigo.com/0qu8c4">https://diigo.com/0qu8c4</a>&gt;
+    &lt;<a href="https://diigo.com/0qu8c4" target="_blank">https://diigo.com/0qu8c4</a>&gt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
