@@ -98,7 +98,7 @@ image:    "icon-ownership-is.svg"
    <p class="_list-item">
     <em>Kinds of Ownership</em>.
     Toppr.
-    &lt;<a href="https://diigo.com/0qu8ma">https://diigo.com/0qu8ma</a>&gt;
+    &lt;<a href="https://diigo.com/0qu8ma" target="_blank">https://diigo.com/0qu8ma</a>&gt;
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
