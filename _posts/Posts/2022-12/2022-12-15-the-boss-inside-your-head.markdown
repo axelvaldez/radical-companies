@@ -3,7 +3,7 @@ layout:   post
 title:    "The Boss Inside Your Head"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "icon-let-them-eat-title.svg"
+image:    "icon-the-boss-inside-your-head.svg"
 ---
 
 <div style="display:none;">
