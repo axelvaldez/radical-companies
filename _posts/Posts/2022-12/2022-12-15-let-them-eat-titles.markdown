@@ -33,7 +33,7 @@ image:    "icon-let-them-eat-title.svg"
  </ul>
  <p>At the end you are a person with many titles representing the many conceptions that your peers have of you.</p>
  <p>This could happen once a year, or every six months. You might find that people identify you differently over time.</p>
- <p>If you really wanted that &ldquo;Senior&rdquo; part added to your title, then you would have to earn it with your whole community, and not just by kissing up to the boss.</p>
+ <p>If you really wanted that &ldquo;Senior&rdquo; part added to your title, then you would have to earn it with your community, and not just by kissing up to the boss.</p>
  <p>There probably are other ways, but the result will be a much richer and dynamic conception of identity. And it would offer an ability to interface with the <span class="_paradigm">FIAT</span> world.</p>
 
 <h1 class="_section">RELATED</h1>
