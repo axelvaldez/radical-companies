@@ -7,11 +7,11 @@ image:    "icon-the-boss-inside-your-head.svg"
 ---
 
 <div style="display:none;">
- <p>We talk a lot about getting rid of managers inside a company, but what about the one inside your head? The one yelling in our head.</p>
+ <p>We talk a lot about getting rid of bosses inside a company, but what about the one inside your head, yelling and limiting your capacity for creativee action?</p>
 </div>
 
 <h1></h1>
- <p>We talk a lot about getting rid of managers inside a company, but what about the one inside your head? This is probably the most pernicious manager of all, the &ldquo;boss&rdquo; voice. The one yelling in our head, telling us to do it this or that, because that’s what the &ldquo;boss&rdquo; wants.</p>
+ <p>We talk a lot about getting rid of bosses inside a company, but what about the one inside your head? This is probably the most pernicious manager of all, the &ldquo;boss&rdquo; voice. The one yelling in our head; telling us to do it this or that; the one limiting your capacity for creativee action.</p>
  <p>This &ldquo;boss&rdquo; is to some extent our parents and teachers, people who needed us to do things &ldquo;for your own good.&rdquo; But we are adults now. Why is the &ldquo;boss&rdquo; voice still around? And, is it actually operating &ldquo;for your own good?&rdquo;</p>
  <p>Does our &ldquo;boss&rdquo; voice make us healthier and happier? Does it even make us wealthier? I’m willing to bet that, ironically, it causes the opposite. For many of us, that voice is out of control. Not seeing the results it wants, it ups the volume and we become resentful and stressed, rather than getting positive outcomes.</p>
 
