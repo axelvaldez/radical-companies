@@ -127,7 +127,7 @@ image:    "icon-the-radical-foundation-revised.svg"
   <tr style="background-color:#EEEEEE; ">
    <th>Future</th>
    <td>
-    [Fill in the blanks]&hellip;
+    [Your space&hellip;]
    </td>
   </tr>
   <tr>
