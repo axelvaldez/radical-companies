@@ -106,6 +106,8 @@ image:    "icon-the-radical-foundation-revised.svg"
    <th>Practice</th>
    <td>Experimentation</td>
   </tr>
+ </table>
+ <table align="center">
   <tr>
    <th>Tools</th>
    <td>
