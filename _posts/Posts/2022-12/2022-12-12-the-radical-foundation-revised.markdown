@@ -59,7 +59,7 @@ image:    "icon-the-radical-foundation-revised.svg"
  <p>Toos are not technically a part of the <span class="_paradigm">RADICAL</span> foundation itself; you can be on the <span class="_paradigm">RADICAL</span> path and use diffferent tools. No matter, this is what we&rsquo;ve come up with, so far,</p>
  <table align="center">
   <tr style="background-color:#EEEEEE; ">
-   <th><span class="_paradigm">RAD</span>s</th>
+   <th><em><span class="_paradigm">RAD</span>s!</em></th>
    <td>This is the most general tool in that it can be used by any one community or an ensemble of communities. For more, see,
                                   <em>Get Rid of Ownership</em>,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>,
     <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>,
@@ -94,46 +94,46 @@ image:    "icon-the-radical-foundation-revised.svg"
 
 <h1>The Revised <span claa="_paradigm">RADICAL</span> Foundation</h1>
  <h2>Foundation</h2>
- <table align="center">
+  <table align="center">
+    <tr style="background-color:#EEEEEE; ">
+    <th>People</th>
+    <td>Meaning & Belonging</td>
+   </tr>
+   <tr>
+    <th>Commitment</th>
+    <td>Decentralization & Transparency</td>
+   </tr>
    <tr style="background-color:#EEEEEE; ">
-   <th>People</th>
-   <td>Meaning & Belonging</td>
-  </tr>
-  <tr>
-   <th>Commitment</th>
-   <td>Decentralization & Transparency</td>
-  </tr>
-  <tr style="background-color:#EEEEEE; ">
-   <th>Practice</th>
-   <td>Experimentation</td>
-  </tr>
- </table>
+    <th>Practice</th>
+    <td>Experimentation</td>
+   </tr>
+  </table>
  <h2>Toos</h2>
-  Keep in mind that most of these tools will likely be different for you,
- <table align="center">
-  <tr style="background-color:#EEEEEE; ">
-   <th><span class="_paradigm">RAD</span>s!</th>
-   <td>
-    <span class="_paradigm">RAD</span> Distribution<br>
-   </td>
-  </tr>
-  <tr>
-   <th>Agreements</th>
-   <td>
-    Explicit Alignment<br>
-    Trust Agreements
-   </td>
-  </tr>
-  <tr style="background-color:#EEEEEE; ">
-   <th>Future</th>
-   <td>
-    [Your space&hellip;]
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
- </table>
+  <p>Keep in mind that most of these tools will likely be different for you,</p>
+  <table align="center">
+   <tr style="background-color:#EEEEEE; ">
+    <th><span class="_paradigm">RAD</span>s!</th>
+    <td>
+     <span class="_paradigm">RAD</span> Distribution<br>
+    </td>
+   </tr>
+   <tr>
+    <th>Agreements</th>
+    <td>
+     Explicit Alignment<br>
+     Trust Agreements
+    </td>
+   </tr>
+   <tr style="background-color:#EEEEEE; ">
+    <th>Future</th>
+    <td>
+     [Your space&hellip;]
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
+  </table>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
