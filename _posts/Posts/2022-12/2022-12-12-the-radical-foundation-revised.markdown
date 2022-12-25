@@ -93,6 +93,7 @@ image:    "icon-the-radical-foundation-revised.svg"
  </table>
 
 <h1>The Revised <span claa="_paradigm">RADICAL</span> Foundation</h1>
+ <h2>Foundation</h2>
  <table align="center">
    <tr style="background-color:#EEEEEE; ">
    <th>People</th>
@@ -107,14 +108,26 @@ image:    "icon-the-radical-foundation-revised.svg"
    <td>Experimentation</td>
   </tr>
  </table>
+ <h2>Toos</h2>
+  Keep in mind that most of these tools will likely be different for you,
  <table align="center">
-  <tr>
-   <th>Tools</th>
+  <tr style="background-color:#EEEEEE; ">
+   <th><span class="_paradigm">RAD</span>s!</th>
    <td>
     <span class="_paradigm">RAD</span> Distribution<br>
+   </td>
+  </tr>
+  <tr>
+   <th>Agreements</th>
+   <td>
     Explicit Alignment<br>
-    Trust Agreements<br>
-    Future Tools&hellip;
+    Trust Agreements
+   </td>
+  </tr>
+  <tr style="background-color:#EEEEEE; ">
+   <th>Future</th>
+   <td>
+    [Fill in the blanks]&hellip;
    </td>
   </tr>
   <tr>
