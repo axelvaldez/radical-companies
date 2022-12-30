@@ -10,7 +10,7 @@ image:    "icon-what-about-leftover-violence.svg"
  <p>What might it look like as we transition away from the <span class="_paradigm">FIAT</span> way of doing things? Will violence keep us from moving through to <span class="_paradigm">RADICAL</span>?</p>
 </div>
 
-<h1>&nbsp;</h1>
+<h1>Intro</h1>
  <p>What might it look like as we transition away from the <span class="_paradigm">FIAT</span> way of doing things? We have learned that &ldquo;my success&rdquo; requires that I&rsquo;d be willing to wield violence against you, the others. For the <span class="_paradigm">FIAT</span> system to work, some form of violence is required, from the mildest that comes through as a love song, to the most brutal shooting, as just happened in Colorado Springs.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
 
 <h1>Violence</h1>
