@@ -10,6 +10,7 @@ image:    "icon-let-them-eat-title.svg"
  <p>The transition to <span class="_paradigm">RADICAL</span> from <span class="_paradigm">FIAT</span> will not happen in a day. It’s going to take time.</p>
 </div>
 
+<h1>&nbsp;</h1>
  <p>The transition to <span class="_paradigm">RADICAL</span> from <span class="_paradigm">FIAT</span> will not happen in a day. It’s going to take time.</p>
  <p>In the meantime, people need to be able to tell what their title is. Some people have the confidence to just choose their own title, but others do not. So how do you assign titles in a <span class="_paradigm">RADICAL</span> environment, if you choose to go that route?</p>
 
