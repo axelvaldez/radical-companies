@@ -7,18 +7,17 @@ image:    "icon-let-them-eat-title.svg"
 ---
 
 <div style="display:none;">
- <p>The transition to <span class="_paradigm">RADICAL</span> from <span class="_paradigm">FIAT</span> will not happen in a day. It’s going to take time.</p>
+ <p>The transition from <span class="_paradigm">FIAT</span> to <span class="_paradigm">RADICAL</span> will not happen in a day. It’s going to take time.</p>
 </div>
 
-<h1>&nbsp;</h1>
- <p>The transition to <span class="_paradigm">RADICAL</span> from <span class="_paradigm">FIAT</span> will not happen in a day. It’s going to take time.</p>
- <p>In the meantime, people need to be able to tell what their title is. Some people have the confidence to just choose their own title, but others do not. So how do you assign titles in a <span class="_paradigm">RADICAL</span> environment, if you choose to go that route?</p>
+<h1>Titles?</h1>
+ <p>The transition from <span class="_paradigm">FIAT</span> to <span class="_paradigm">RADICAL</span> will not happen in a day. It’s going to take time. In the meantime, some people will need to be able to tell what their title is. Some people have the confidence to just choose their own title, but others do not. So how do you assign titles in a <span class="_paradigm">RADICAL</span> company?</p>
 
 <h1>Gore & Associates</h1>
- <p>Some companies, like Gore Associates, the makers of <em>Gore Tex</em> fabrics, just use Associate for everyone. Your coworkers are the people you literally associate with and it makes sense that Associate is a universal title in that environment. When a person at Gore needed to speak to someone outside the organization, they would just write a title down on a business card, so that a person from the <span class="_paradigm">FIAT</span> world could easily talk to them.</p>
+ <p>Some companies, like Gore Associates, the makers of <em>Gore Tex</em> fabrics, just use <em>Associate</em> for everyone. Your coworkers are the people you literally <em>associate</em> with and it makes sense that Associate is a universal &ldquo;title&rdquo; in that environment. When a person at Gore needed to speak to someone outside the organization, they would have a title to write down on a business card and make people from <span class="_paradigm">FIAT</span> bussinesses more comfortable.</p>
 
 <h1>Nearsoft</h1>
- <p>I am reminded of a developer at Nearsoft who really wanted somebody to give him a title. Nearsoft didn’t have a <span class="_paradigm">FIAT</span> hierarchy, so they left it to everyone to give themselves their own title. But this person was looking around the organization hoping to get a title passed down to them. My father told him to just pick his own title, but this guy insisted that he needed to be <em>given</em> one.</p>
+ <p>I am reminded of a developer at Nearsoft who really wanted somebody, an authority, to give him a title. Nearsoft didn’t have a <span class="_paradigm">FIAT</span> hierarchy, so it would have been easy enough to give himself a title. But this person insisted that a title be <em>given</em> to him.</p>
 
 <h1>A Social Need</h1>
  <p>Sure we can be the stewards of our identity, but we can not ignore that identity is also provided by our community. If someone is a baker, people know them as such. That part I have no beef with. It’s when people create rigid hierarchies that ignore the individual, reduce them to a number on an expense sheet.</p>
