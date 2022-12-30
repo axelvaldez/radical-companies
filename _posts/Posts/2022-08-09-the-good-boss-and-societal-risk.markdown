@@ -7,7 +7,7 @@ image:    "icon-the-good-boss.svg"
 ---
 
 <div style="display:none;">
- <p>A good boss is someone who protects you from the hierarchy, or empowers you with decision-making, or gets anything you want, or just leaves you alone. That may be good, but it is fragile.</p>
+ <p>A good boss is someone who protects you from the hierarchy, or empowers you with decision-making, or gets you anything you want, or just leaves you alone. That is not bad, but it is fragile and temporary.</p>
 </div>
 
 <h1>&nbsp;</h1>
@@ -15,13 +15,13 @@ image:    "icon-the-good-boss.svg"
   <tr style="width:90%; ">
    <td>
     <p style="text-align:center; font-size:larger; ">I love my manager so much 🥹 🫶🏻</p>
-    <p style="text-align:right; font-size:smaller; width:70%; ">~Twitter</p>
+    <p style="text-align:right; font-size:smaller; width:70%; ">~Twitter (pre-Musk)</p>
    </td>
   </tr>
  </table>
  
 <h1>&nbsp;</h1>
- <p>A good boss protects you from the hierarchy, empowers you with some decision-making, or gets anything you want, or just leaves you alone. That may be not bad, but it is always fragile and temporary.</p>
+ <p>A good boss protects you from the hierarchy, empowers you with some decision-making, or gets you anything you want, or just leaves you alone. That may be not bad, but it is always fragile and temporary.</p>
  <p>This struck home to me as I was listening to a book about Bell Labs. The researchers at Bell Labs were allowed a huge degree of autonomy and they could choose what they wanted to work on. It did not have to have an immediately obvious practical use. It was basic research, discovering fundamental things about how chemistry and physics worked.</p>
  
 <h1>Claude Shannon</h1>
