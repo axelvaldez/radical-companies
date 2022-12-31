@@ -11,16 +11,16 @@ image:    "icon-equal-vs-equitable.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <table style="border:4px solid black; ">
+ <table style="border:4px solid black; width:100%; ">
   <tr>
-   <td>
+   <td style="width:50%; ">
     <div class="_center">
      <img
       src="/assets/img/equal-vs-equitable-01.svg"
       alt="">
     </div>
    </td>
-   <td>
+   <td style="width:50%; ">
     <div class="_center">
      <img
       src="/assets/img/equal-vs-equitable-02.svg"
@@ -28,9 +28,9 @@ image:    "icon-equal-vs-equitable.svg"
     </div>
    </td>
   </tr>
-  <tr style="backgroung-color:beige; ">
-   <td class="_center">Equal</td>
-   <td class="_center">Equitable</td>
+  <tr>
+   <td style="text=align:center; width:50%; ">Equal</td>
+   <td style="text=align:center; width:50%; ">Equitable</td>
   </tr>
  </table>
 
