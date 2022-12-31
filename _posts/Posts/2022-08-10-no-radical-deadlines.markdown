@@ -1,17 +1,17 @@
 ---
 layout:   post
-title:    "Deadlines and Their Obsolescence in a RADICAL Context"
+title:    "No RADICAL Deadlines"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "icon-deadlines.svg"
 ---
 
 <div style="display:none;">
- <p>The origin of the word deadline dates back to the US Civil War, when a line would be drawn around prisoners and if they crossed it in any way, they were shot. We are still prisoners getting &ldquo;shot&rdquo; for going over arbitrary deadlines.</p>
+ <p>The origin of the word deadline dates back to the US Civil War, when a line would be drawn around prisoners and if they crossed it in any way, they were shot. We are still prisoners getting &ldquo;shot&rdquo; for going past arbitrary deadlines.</p>
 </div>
 
-<h1>&nbsp;</h1>
- <p>The origin of the word deadline dates back to the US Civil War, when a line would be drawn around prisoners and if they crossed it in any way, they were shot. Nowadays we use deadlines to talk about self-imposed, and boss-imposed, temporal boundaries. Looking at things through a <span class="_paradigm">RADICAL</span> lens reveals that in many ways, the use of the word deadline has not actually changed that much since the Civil War.</p>
+<h1>Intro</h1>
+ <p>The origin of the word deadline dates back to the US Civil War, when a line would be drawn around prisoners and if they crossed it in any way, they were shot. Looking at things through a <span class="_paradigm">RADICAL</span> lens reveals that in many ways, the use of the word deadline has not actually changed that much since the Civil War. We are still prisoners getting &ldquo;shot&rdquo; for going past arbitrary deadlines.</p>
  <p>If we violate a self-imposed deadline, we feelt guilt because we were supposed to finish our work before the deadline. We learn this from our parents and, later, in school, when we are given tasks that are supposed to be complete by a certain time. If we do not complete them, we can be grounded, physically hit, having our grades marked down, or even having time taken away from us with detention. If your boss assigns a deadline, we may not feel as guilty. This type of deadline can be written off as arbitrary and unrealistic. Take, for example, the (in)famous deadlines that Elon Musk imposes on his companies and his predictions about self-driving Teslas by 2023 and human presence on Mars in 2033. So there is the arbitrary <em>deadline</em> and somebody is going to get  &ldquo;shot&rdquo; for going over it.</p>
 
  <h1>Urgency</h1>
