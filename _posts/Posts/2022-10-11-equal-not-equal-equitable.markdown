@@ -30,7 +30,7 @@ image:    "icon-equal-vs-equitable.svg"
     </div>
    </td>
   </tr>
-  <tr>
+  <tr style="backgroung-color:beige; ">
    <td class="_center">Equal</th>
    <td class="_center">Equitable</th>
   </tr>
