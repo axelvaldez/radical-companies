@@ -347,6 +347,10 @@ table._foundation tr:nth-child(4n+1)  {
   font-family:'Courier New', Courier, monospace;
   font-size:smaller;
 }
+._center {
+  text-align:center;
+  align-items:center;
+}
 ._mb0 {
   margin-bottom:0;
 }
