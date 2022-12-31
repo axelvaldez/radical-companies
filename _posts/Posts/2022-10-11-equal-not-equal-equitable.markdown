@@ -24,13 +24,13 @@ image:    "icon-equal-vs-equitable.svg"
     <div class="_center">
      <img
       src="/assets/img/equal-vs-equitable-02.svg"
-      alt=""><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
+      alt=""><a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
     </div>
    </td>
   </tr>
   <tr>
-   <td style="text=align:center; width:50%; ">Equal</td>
-   <td style="text=align:center; width:50%; ">Equitable</td>
+   <td style="text-align:center; width:50%; ">EQUAL</td>
+   <td style="text-align:center; width:50%; ">EQUITABLE</td>
   </tr>
  </table>
 
@@ -71,7 +71,7 @@ image:    "icon-equal-vs-equitable.svg"
  <p>They can do this via the <span class="_paradigm">RAD</span><sup>s</sup>! mobile app.</p>
 
 <h1>Giving <span class="_paradigm">RAD</span>s</h1>
- <p>Different people will get different amounts of <span class="_paradigm">RAD</span>s.<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> Every co-owner gets one <span class="_paradigm">RAD</span> per day and then she gets to assign it as she wishes. She gets to recognize the contributions of other co-owners. So, we may end up with this,</p>
+ <p>Different people will get different amounts of <span class="_paradigm">RAD</span>s.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Every co-owner gets one <span class="_paradigm">RAD</span> per day and then she gets to assign it as she wishes. She gets to recognize the contributions of other co-owners. So, we may end up with this,</p>
   <div class="_center">
    <img
     src="/assets/img/equal-vs-equitable-04.svg"
@@ -95,22 +95,16 @@ image:    "icon-equal-vs-equitable.svg"
    style="width:70%; margin-bottom:10px; "
    alt="">
  </div>
- <p>The Distribution will most likely change again in future cycles as things change.<a href="#en05"><sup  id="bm05">5&nbsp;</sup></a></p>
+ <p>The Distribution will most likely change again in future cycles as things change.<a href="#en03"><sup  id="bm03">3&nbsp;</sup></a></p>
  <p>Note that contributions are not at all limited in the way they are today. Today they are about contributing to the wealth of the business owners,</p>
  <div class="_citation">
-  <p>&ldquo;Owning a business is the fastest reliable way to wealth.&hellip; That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.&rdquo;<a href="#en06"><sup id="bm06">6&nbsp;</sup></a></p>
+  <p>&ldquo;Owning a business is the fastest reliable way to wealth.&hellip; That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.&rdquo;<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></p>
  </div>
  <p>In the <span class="_paradigm">RADICAL</span> model, these recognized contributions add to the wellbeing of any and all co-owners.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
-   <p class="_list-item">
-    <<a href="https://www.vocabulary.com/dictionary/equal">https://www.vocabulary.com/dictionary/equal</a>>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en02">
    <p class="_list-item">
     Craig Froehle.
     <em>The Evolution of an Accidental Meme</em>.
@@ -119,19 +113,13 @@ image:    "icon-equal-vs-equitable.svg"
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en03">
-   <p class="_list-item">
-    <<a href="https://www.vocabulary.com/dictionary/equitable">https://www.vocabulary.com/dictionary/equitable</a>>
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en04">
+  <li id="en02">
    <p class="_list-item">
     A <span class="_paradigm">RAD</span> is a dimensionless unit.
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en05">
+  <li id="en03">
    <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
     <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
@@ -140,15 +128,15 @@ image:    "icon-equal-vs-equitable.svg"
     Or, if you are in a hurry, see
     <em>RADICAL COMPANIES for the Impatient</em>
     <<a href="https://radicals.world/jSEGub">https://radicals.world/jSEGub</a>>
-    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en06">
+  <li id="en04">
    <p class="_list-item">
     David Weliver.
     <em>The Wealth-building Power Of Business Ownership.</em>
     <<a href="https://radicals.world/vqy48P" target="_blank">https://radicals.world/vqy48P</a>>
-    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
