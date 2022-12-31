@@ -11,12 +11,23 @@ image:    "icon-equal-vs-equitable.svg"
 </div>
 
 <h1>Equal</h1>
- <div class="_center">
-  <img
-   src="/assets/img/equal-vs-equitable-01.svg"
-   style="width:70%; margin-bottom:10px; "
-   alt="">
- </div>
+ <table>
+  <tr>
+   <td>
+    <div class="_center">
+     <img
+      src="/assets/img/equal-vs-equitable-01.svg"
+      style="width:70%; margin-bottom:10px; "
+      alt="">
+    </div>
+   </td>
+  </tr>
+  <tr>
+   <th>
+    <p>Equal</p>
+   </th>
+  </tr>
+ </table?>
 
 <h1>Equitable</h1>
  <div class="_center">
