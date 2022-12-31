@@ -20,23 +20,17 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
    </td>
   </tr>
  </table>
- <p>Dictatorships have to become kleptocracies to fund corruption (<em>aka</em>, private goods) at the expense of as many public goods as possible.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> For example, look at Cuba, North Korea, and Russia. They have enough of an economy to fund the violence and corruption necessary to maintain the dictatoship in power, but not enough to do maintenance of its infrastructure.</p>
+ <p>Dictatorships have to become kleptocracies to fund corruption (<em>aka</em>, private goods) at the expense of as many public goods as possible.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> For example, look at Cuba, North Korea, and Russia. They have enough of an economy to fund the violence and corruption necessary to maintain the dictatoship in power, but not enough to do maintenance of its infrastructure.</p>
  <p>Curiosly, the <span class="_paradigm">RADICAL</span> model shall be incubated <em>inside</em> the <span class="_paradigm">FIAT</span> system. Eventuall this will transform the <span class="_paradigm">FIAT</span> system itself into a <span class="_paradigm">RADICAL</span> system.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
    <p class="_list-item">
-    For more info, see <em>Partido Revolucionario Institucional</em>
-    <<a href="https://es.wikipedia.org/wiki/Partido_Revolucionario_Institucional">https://es.wikipedia.org/wiki/Partido_Revolucionario_Institucional</a>>
+    Bruce Bueno de Mesquita, Alastair Smith.
+    <em>The Dictator&rsquo;s Handbook: Why Bad Behavior is Almost Always Good Politics.</em>
+    &lt;<a href="https://en.wikipedia.org/wiki/The_Dictator%27s_Handbook" target="_blank">https://en.wikipedia.org/wiki/The_Dictator%27s_Handbook</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en02">
-   <p class="_list-item">
-    For more info, see <em>The Dictator's Handbook</em>
-    <<a href="https://en.wikipedia.org/wiki/The_Dictator%27s_Handbook">https://en.wikipedia.org/wiki/The_Dictator%27s_Handbook</a>>
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
