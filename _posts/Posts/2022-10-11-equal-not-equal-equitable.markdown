@@ -38,7 +38,7 @@ image:    "icon-equal-vs-equitable.svg"
     <p class="_center">Equitable</p>
    </th>
   </tr>
- </table?>
+ </table>
 
 <h1>They Are Not the Same</h1>
  <p>The point is that they are <em>not</em> the same. &ldquo;Equal&rdquo; assumes that a level-playing field is enough (<em>i.e.</em>, everybody starts from a leveled ground). &ldquo;Equitable&rdquo; is about equitable outcomes (<em>i.e.</em>, all the heads are above the fence).</p>
