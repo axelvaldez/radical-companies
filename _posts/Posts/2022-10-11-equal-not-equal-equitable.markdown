@@ -21,9 +21,6 @@ image:    "icon-equal-vs-equitable.svg"
       alt="">
     </div>
    </td>
-   <th>
-    <p>Equal</p>
-   </th>
    <td>
     <div class="_center">
      <img
@@ -32,13 +29,13 @@ image:    "icon-equal-vs-equitable.svg"
       alt=""><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
     </div>
    </td>
-   <th>
-    <p>Equitable</p>
-   </th>
   </tr>
   <tr>
    <th>
     <p>Equal</p>
+   </th>
+   <th>
+    <p>Equitable</p>
    </th>
   </tr>
  </table?>
@@ -58,6 +55,7 @@ image:    "icon-equal-vs-equitable.svg"
   <tr>
    <th>
     <p>Equal</p>
+    <p>Equitable</p>
    </th>
   </tr>
  </table>
