@@ -11,7 +11,7 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <table style="width:50%; " align="center">
+ <table>
   <tr>
    <td class="_quotation" style="text-align:center; ">
     <p>Dictatorships are bad for the economy.</p>
@@ -21,7 +21,7 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
   </tr>
  </table>
  <p>Dictatorships have to become kleptocracies to fund corruption (<em>aka</em>, private goods) at the expense of as many public goods as possible.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> For example, look at Cuba, North Korea, and Russia. They have enough of an economy to fund the violence and corruption necessary to maintain the dictatoship in power, but not enough to do maintenance of its infrastructure.</p>
- <p>Curiosly, the <span class="_paradigm">RADICAL</span> model shall be incubated <em>inside</em> the <span class="_paradigm">FIAT</span> system. Eventuall this will transform the <span class="_paradigm">FIAT</span> system itself into a <span class="_paradigm">RADICAL</span> system.</p>
+ <p>Curiosly, <span class="_paradigm">RADICAL</span> companies and organizations will be incubated <em>inside</em> the <span class="_paradigm">FIAT</span> system. In time this will transform the <span class="_paradigm">FIAT</span> system itself.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
