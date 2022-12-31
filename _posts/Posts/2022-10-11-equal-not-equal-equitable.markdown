@@ -31,8 +31,8 @@ image:    "icon-equal-vs-equitable.svg"
    </td>
   </tr>
   <tr style="backgroung-color:beige; ">
-   <td class="_center">Equal</th>
-   <td class="_center">Equitable</th>
+   <td class="_center">Equal</td>
+   <td class="_center">Equitable</td>
   </tr>
  </table>
 
