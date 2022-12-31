@@ -63,7 +63,7 @@ image:    "icon-equal-vs-equitable.svg"
  </ul>
  <p>This way contribution recognition,</p>
  <ul>
-  <li>Goes all the time, not a quarter or a year later when memories get fuzzy.</li>
+  <li>Goes on all the time, not a quarter or a year later when memories get fuzzy.</li>
   <li>Are done by everybody, not just a small group.</li>
   <li>Each co-owner doesn&rsquo;t need to be angelical or even benevolent. She just needs to know enough about the people she is recognizing. She may not know his name, but she knows that he talked to somebody who was down in the dump and by the end of it their mood had visibly improved. And, yes, this is biased by her mood, whether or not she likes the other co-owner, etc. But other co-owners are biased as well and overall they strike a much better balance than the boss or a committee.</li>
  </ul>
