@@ -13,7 +13,7 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
 <h1>&nbsp;</h1>
  <table style="width:50%; " align="center">
   <tr>
-   <td class="_quotation">
+   <td class="_quotation" style="text-align:center; ">
     <p>Dictatorships are bad for the economy.</p>
     <p>&amp; <span class="_paradigm">FIAT</span> business are dictatorships.</p>
     <p>&hellip; <span class="_paradigm">FIAT</span> businesses are bad for the economy.</p>
