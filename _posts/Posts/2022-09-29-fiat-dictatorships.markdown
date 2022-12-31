@@ -12,8 +12,8 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
 
 <h1>&nbsp;</h1>
  <p>Dictatorships are bad for the economy.</p>
- <p style="padding-left:5px; "><span class="_paradigm">FIAT</span> business are dictatorships.</p>
- <p style="padding-left:10px; ">It seems to follow, then, that <span class="_paradigm">FIAT</span> businesses are bad for the economy.</p>
+ <p style="padding-left:10px; "><span class="_paradigm">FIAT</span> business are dictatorships.</p>
+ <p style="padding-left:20px; ">It seems to follow, then, that <span class="_paradigm">FIAT</span> businesses are bad for the economy.</p>
  <p>Dictatorships have to become kleptocracies to fund corruption (<em>aka</em>, private goods) at the expense of public goods possible.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> For example, look at Cuba, North Korea, and Russia. They have enough of an economy to fund the violence and corruption necessary to maintain the dictatoship in power.</p>
  <p>Curiosly, the <span class="_paradigm">RADICAL</span> model will be incubated <em>inside</em> the <span class="_paradigm">FIAT</span> system. Eventuall this will transform <span class="_paradigm">FIAT</span> businesses into <span class="_paradigm">RADICAL</span> companies.</p>
 
