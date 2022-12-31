@@ -20,7 +20,7 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
    </td>
   </tr>
  </table>
- <p>Dictatorships have to become kleptocracies to fund corruption (<em>aka</em>, private goods) at the expense of as many public goods as possible.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> For example, look at Cuba, North Korea, and Russia. They have enough of an economy to fund the violence and corruption necessary to maintain the dictatoship in power, but not enough to do maintenance of its infrastructure.</p>
+ <p>Dictatorships have to become kleptocracies to fund private goods (<em>aka</em>, corruption) at the expense of as many public goods as possible.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> For example, look at Cuba, North Korea, and Russia. They have enough of an economy to fund the violence and corruption necessary to maintain the dictatoship in power, but not enough to do maintenance of its infrastructure.</p>
  <p>Curiosly, <span class="_paradigm">RADICAL</span> companies and organizations will be incubated <em>inside</em> the <span class="_paradigm">FIAT</span> system. In time this will transform the <span class="_paradigm">FIAT</span> system itself.</p>
 
 <h1 class="_section">ENDNOTES</h1>
