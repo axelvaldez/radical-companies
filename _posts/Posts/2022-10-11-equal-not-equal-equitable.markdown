@@ -24,10 +24,10 @@ image:    "icon-equal-vs-equitable.svg"
     <div class="_center">
      <img
       src="/assets/img/equal-vs-equitable-02.svg"
-      alt=""><a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
+      alt="">
     </div>
    </td>
-  </tr>
+  </tr><a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
   <tr>
    <td style="text-align:center; width:50%; ">EQUAL</td>
    <td style="text-align:center; width:50%; ">EQUITABLE</td>
