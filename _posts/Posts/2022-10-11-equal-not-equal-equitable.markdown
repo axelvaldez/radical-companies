@@ -109,7 +109,7 @@ image:    "icon-equal-vs-equitable.svg"
     Craig Froehle.
     <em>The Evolution of an Accidental Meme</em>.
     2016.
-    <<a href="https://radicals.world/bNJktE">https://radicals.world/bNJktE</a>>
+    <<a href="https://radicals.world/bNJktE" target="_blank">https://radicals.world/bNJktE</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -124,10 +124,10 @@ image:    "icon-equal-vs-equitable.svg"
     Matt Perez, Adrian Perez, Jose Leal.
     <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
     2021.
-    <<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>>.
+    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
     Or, if you are in a hurry, see
     <em>RADICAL COMPANIES for the Impatient</em>
-    <<a href="https://radicals.world/jSEGub">https://radicals.world/jSEGub</a>>
+    <<a href="https://radicals.world/jSEGub" target="_blank">https://radicals.world/jSEGub</a>>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
