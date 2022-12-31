@@ -10,7 +10,7 @@ image:    "icon-equal-vs-equitable.svg"
  <p>&ldquo;Equal&rdquo; assumes that a level-playing field is enough.  It seems to work for a while, but over time, it stops working. &ldquo;Equitable&rdquo; is about outcomes and it scales.</p>
 </div>
 
-<h1>Equal</h1>
+<h1>&nbsp;</h1>
  <table>
   <tr>
    <td>
@@ -32,33 +32,13 @@ image:    "icon-equal-vs-equitable.svg"
   </tr>
   <tr>
    <th>
-    <p>Equal</p>
+    <p class="_center">Equal</p>
    </th>
    <th>
-    <p>Equitable</p>
+    <p class="_center">Equitable</p>
    </th>
   </tr>
  </table?>
-
-<h1>Equitable</h1>
- <table>
-  <tr>
-   <td>
-    <div class="_center">
-     <img
-      src="/assets/img/equal-vs-equitable-02.svg"
-      style="width:70%; margin-bottom:10px; "
-      alt=""><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
-    </div>
-   </td>
-  </tr>
-  <tr>
-   <th>
-    <p>Equal</p>
-    <p>Equitable</p>
-   </th>
-  </tr>
- </table>
 
 <h1>They Are Not the Same</h1>
  <p>The point is that they are <em>not</em> the same. &ldquo;Equal&rdquo; assumes that a level-playing field is enough (<em>i.e.</em>, everybody starts from a leveled ground). &ldquo;Equitable&rdquo; is about equitable outcomes (<em>i.e.</em>, all the heads are above the fence).</p>
