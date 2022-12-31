@@ -11,7 +11,7 @@ image:    "icon-equal-vs-equitable.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <table style="border:4px solid black; width:100%; ">
+ <table style="width:100%; ">
   <tr>
    <td style="width:50%; ">
     <div class="_center">
