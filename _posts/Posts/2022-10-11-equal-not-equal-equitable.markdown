@@ -48,6 +48,7 @@ image:    "icon-equal-vs-equitable.svg"
  <div class="_center">
   <img
    src="/assets/img/equal-vs-equitable-03.svg"
+   class="_center"
    style="width:70%; margin-bottom:10px; "
    alt="">
  </div>
@@ -74,13 +75,15 @@ image:    "icon-equal-vs-equitable.svg"
   <div class="_center">
    <img
     src="/assets/img/equal-vs-equitable-04.svg"
-   style="width:70%; margin-bottom:10px; "
+    class="_center"
+    style="width:70%; margin-bottom:10px; "
     alt="">
   </div>
  <p>Or this,</p>
  <div class="_center">
   <img
    src="/assets/img/equal-vs-equitable-05.svg"
+   class="_center"
    style="width:70%; margin-bottom:10px; "
    alt="">
  </div>
@@ -88,6 +91,7 @@ image:    "icon-equal-vs-equitable.svg"
  <div class="_center">
   <img
    src="/assets/img/equal-vs-equitable-06.svg"
+   class="_center"
    style="width:70%; margin-bottom:10px; "
    alt="">
  </div>
