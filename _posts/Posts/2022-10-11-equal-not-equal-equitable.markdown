@@ -26,8 +26,8 @@ image:    "icon-equal-vs-equitable.svg"
       src="/assets/img/equal-vs-equitable-02.svg"
       alt="">
     </div>
-   </td>
-  </tr><a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
+   </td><a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
+  </tr>
   <tr>
    <td style="text-align:center; width:50%; ">EQUAL</td>
    <td style="text-align:center; width:50%; ">EQUITABLE</td>
