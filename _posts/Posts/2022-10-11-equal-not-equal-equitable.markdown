@@ -21,6 +21,20 @@ image:    "icon-equal-vs-equitable.svg"
       alt="">
     </div>
    </td>
+   <th>
+    <p>Equal</p>
+   </th>
+   <td>
+    <div class="_center">
+     <img
+      src="/assets/img/equal-vs-equitable-02.svg"
+      style="width:70%; margin-bottom:10px; "
+      alt=""><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
+    </div>
+   </td>
+   <th>
+    <p>Equitable</p>
+   </th>
   </tr>
   <tr>
    <th>
