@@ -11,7 +11,6 @@ image:    "icon-equal-vs-equitable.svg"
 </div>
 
 <h1>Equal</h1>
- <p>&ldquo;Things that are the same size or have the same traits are said to be equal. When it comes to people, being equal means everyone has the same rights and opportunities — and responsibilities.&rdquo;<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
  <div class="_center">
   <img
    src="/assets/img/equal-vs-equitable-01.svg"
@@ -20,7 +19,6 @@ image:    "icon-equal-vs-equitable.svg"
  </div>
 
 <h1>Equitable</h1>
- <p>&ldquo;Equitable distribution means everyone gets their fair share of something. If you work on a group project&hellip; you want an equitable share of the credit.&rdquo;<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
  <div class="_center">
   <img
    src="/assets/img/equal-vs-equitable-02.svg"
