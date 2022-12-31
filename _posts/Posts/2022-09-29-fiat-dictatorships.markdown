@@ -11,7 +11,7 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <table>
+ <table align="center">
   <tr>
    <td class="_quotation" style="text-align:center; ">
     <p>Dictatorships are bad for the economy.</p>
