@@ -15,8 +15,10 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
   <tr style="padding-left:10em; ">
    <td class="_citation">
     <div style="padding-left:1em; "><span class="_paradigm">FIAT</span> businesses are dictatorships.</div>
+    <div style="text-align:center; ">&amp;</div>
     <div style="padding-left:1em; ">Dictatorships are bad for the economy.</div>
-    <div>&there4; <span class="_paradigm">FIAT</span> businesses are bad for the economy.</div>
+    <div style="text-align:center; ">&there4;/div>
+    <div><span class="_paradigm">FIAT</span> businesses are bad for the economy.</div>
    </td>
   </tr>
  </table>
