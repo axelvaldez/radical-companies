@@ -16,7 +16,7 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
    <td class="_citation">
     <p>Dictatorships are bad for the economy.</p>
     <p>&amp;</p>
-    <p><span class="_paradigm">FIAT</span> business are dictatorships.</p>
+    <p><span class="_paradigm">FIAT</span> businesses are dictatorships.</p>
     <p>&there4; <span class="_paradigm">FIAT</span> businesses are bad for the economy.</p>
    </td>
   </tr>
