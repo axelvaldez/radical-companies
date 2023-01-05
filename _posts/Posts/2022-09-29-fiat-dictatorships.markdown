@@ -24,7 +24,7 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
  <p>Dictatorships are repugnant, but are they <em>illegal</em>? There is no  international law to declare them illegal, so everything they do is&hellip; undefined.</p>
  <p>At the business level, national laws make businesses legal. Given that businesses are <span class="_paradigm">FIAT</span> dictatorships, with all the power centralized in the hands of the owners, having owners collect all the profits is legal. But, I claim, not even the best way to grow wealth.</p>
  <p>The brilliance of the stock market is the realization that it takes a community to grow. In this case, it was a community of well-to-do people with capital to help businesses grow.<p>
- <p class="_citation">1790: The Philadelphia Stock Exchange is formed, helping spur the development of the U.S.’s financial sectors and the country’s expansion west.</p><a href="#en02"><sup id="bm02">2&nbsp;</sup></a>
+ <p class="_citation">1790: The Philadelphia Stock Exchange is formed, helping spur the development of the U.S.’s financial sectors and the country’s expansion west.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
  <p>Unlike the US Constitution, the stock market has been pretty much stuck, in spite of weak attempts to broaden its base. For one, the ruthless competition and predatory practices that it developed over the years has prevented from doing so.</p>
  <p>Of note, <span class="_paradigm">RADICAL</span> companies and organizations will be incubated <em>inside</em> the <span class="_paradigm">FIAT</span> system. In time this will transform the <span class="_paradigm">FIAT</span> system itself.</p>
 
