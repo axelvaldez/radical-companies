@@ -34,7 +34,7 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
  <p>The brilliance of the stock market is the realization that it takes a community to grow.<p>
  <p class="_quotation">1790: The Philadelphia Stock Exchange is formed, helping spur the development of the U.S.’s financial sectors and the country’s expansion west.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
  <p>In this case, it was a community of people with capital, but it did help businesses grow,<p>
- <p>The &rdquo;all men are created equal&ldquo; US Constitution was written signed by slavers, but it has progressed since then. The stock market, howeverm has been pretty much stuck. It has made weak attempts to broaden its base, but that hasn&rsquo;t worked. Over time, ruthless competition and predatory practices have developed and has limited its healthy growth.</p>
+ <p>The &ldquo;all men are created equal&rdquo; US Constitution was written signed by slavers, but it has progressed since then. The stock market, howeverm has been pretty much stuck. It has made weak attempts to broaden its base, but that hasn&rsquo;t worked. Over time, ruthless competition and predatory practices have developed and has limited its healthy growth.</p>
 
 <h1>Oh, the Irony</h1>
  <p>It is noteworthy that <span class="_paradigm">RADICAL</span> companies will be incubated <em>inside</em> the <span class="_paradigm">FIAT</span> system. In time this will transform the <span class="_paradigm">FIAT</span> system itself.</p>
