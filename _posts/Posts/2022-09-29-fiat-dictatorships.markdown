@@ -23,7 +23,7 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
   </tr>
  </table>
 
-<h1>Kleptocarcies</h1>
+<h1>Kleptocracies</h1>
  <p>Dictatorships <em>have to</em> become kleptocracies to fund private goods (<em>aka</em>, corruption) at the expense of public goods.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> Take, for example, Russia, North Korea, or Cuba: they have enough of an economy to fund the force necessary to maintain their dictatoships in power, but not enough to maintain their infrastructure.</p>
 
 <h1>Are Dictatorships Illegal</h1>
