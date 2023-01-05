@@ -12,11 +12,11 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
 
 <h1>&nbsp;</h1>
  <table align="center">
-  <tr>
+  <tr style="padding-left:10em; ">
    <td class="_citation">
-    <p style="left-indent:1m; ">Dictatorships are bad for the economy.</p>
+    <p style="padding-left:1em; ">Dictatorships are bad for the economy.</p>
     <p>&amp;</p>
-    <p style="left-indent:1m; "><span class="_paradigm">FIAT</span> businesses are dictatorships.</p>
+    <p style="padding-left:1em; "><span class="_paradigm">FIAT</span> businesses are dictatorships.</p>
     <p>&there4; <span class="_paradigm">FIAT</span> businesses are bad for the economy.</p>
    </td>
   </tr>
