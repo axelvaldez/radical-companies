@@ -21,11 +21,8 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
   </tr>
  </table>
  <p>Dictatorships <em>have to</em> become kleptocracies to fund private goods (<em>aka</em>, corruption) at the expense of public goods.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> Take, for example, Russia, North Korea, and Cuba: they have enough of an economy to fund the violence necessary to maintain tbeir dictatoships in power, but not enough to do maintenance of their infrastructure.</p>
- <p>Dictatorships are repugnant, but are they <em>illegal</em>? Power is tighly centralized in the hand of a relative few,
-  <ul>
-   <li>Kim Jong-un &ldquo;has been Supreme Leader of North Korea&hellip; and the leader of the Workers' Party of Korea (WPK)&rdquo;.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></li>
-   <li>Vladimir Putin&lsquo;s &ldquo;rule has been characterised by endemic corruption&rdquo;</li><a href="#en03"><sup id="bm03">3&nbsp;</sup></a></li>
- <p>At the business level there are no keptocracies, because national laws make what businesses do legal. But traditional businesses, or what we call <span class="_paradigm">FIAT</span> businesses</p>, are dictatorships.
+ <p>Dictatorships are repugnant, but are they <em>illegal</em>? There is no effective international law, so everything they do is&hellip; undefined.
+ <p>At the business level, national laws make what businesses do legal. But traditional businesses are <span class="_paradigm">FIAT</span> dictatorships, with all the power centralized in the hands of the owners.</p>
  <p>Of note, <span class="_paradigm">RADICAL</span> companies and organizations will be incubated <em>inside</em> the <span class="_paradigm">FIAT</span> system. In time this will transform the <span class="_paradigm">FIAT</span> system itself.</p>
 
 <h1 class="_section">ENDNOTES</h1>
@@ -36,20 +33,6 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
     <em>The Dictator&rsquo;s Handbook: Why Bad Behavior is Almost Always Good Politics.</em>
     &lt;<a href="https://en.wikipedia.org/wiki/The_Dictator%27s_Handbook" target="_blank">https://en.wikipedia.org/wiki/The_Dictator%27s_Handbook</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en02">
-   <p class="_list-item">
-    <em>Kim Jong-un</em>.
-    &lt;<a href="https://en.wikipedia.org/wiki/Kim_Jong-un" target="_blank">https://en.wikipedia.org/wiki/Kim_Jong-un</a>&gt;
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en03">
-   <p class="_list-item">
-    <em>Vladimir Putin</em>.
-    &lt;<a href="https://en.wikipedia.org/wiki/Vladimir_Putin" target="_blank">https://en.wikipedia.org/wiki/Vladimir_Putin</a>&gt;
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
