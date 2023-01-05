@@ -14,11 +14,11 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
  <table align="center">
   <tr style="padding-left:10em; ">
    <td class="_citation">
-    <div style="padding-left:10zxem; "><span class="_paradigm">FIAT</span> businesses are dictatorships.</div>
-    <div style="text-align:center; ">&amp;</div>
-    <div style="padding-left:10em; ">Dictatorships are bad for the economy.</div>
-    <div style="text-align:center; ">&there4;</div>
-    <div style="padding-left:10em; "><span class="_paradigm">FIAT</span> businesses are bad for the economy.</div>
+    <div style="padding-left:5em; "><span class="_paradigm">FIAT</span> businesses are dictatorships.</div>
+    <div style="padding-left:10em; ">&amp;</div>
+    <div style="padding-left:5em; ">Dictatorships are bad for the economy.</div>
+    <div style="padding-left:10em; ">&there4;</div>
+    <div style="padding-left:5em; "><span class="_paradigm">FIAT</span> businesses are bad for the economy.</div>
    </td>
   </tr>
  </table>
