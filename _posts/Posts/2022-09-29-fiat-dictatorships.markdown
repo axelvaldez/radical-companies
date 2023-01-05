@@ -34,7 +34,7 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
  <p>In this case, it was a community of people with capital, but it did help businesses grow,<p>
  <p>The &rdquo;all men are created equal&ldquo; US Constitution was written signed by slavers, but it has progressed since then. The stock market, howeverm has been pretty much stuck. It has made weak attempts to broaden its base, but that hasn&rsquo;t worked. Over time, ruthless competition and predatory practices have developed and has limited its healthy growth.</p>
 
-<h1>Ironic</h1>
+<h1>Irony</h1>
  <p>It is noteworthy that <span class="_paradigm">RADICAL</span> companies will be incubated <em>inside</em> the <span class="_paradigm">FIAT</span> system. In time this will transform the <span class="_paradigm">FIAT</span> system itself.</p>
  <p>Go figure.</p>
 
