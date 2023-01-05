@@ -20,7 +20,7 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
    </td>
   </tr>
  </table>
- <p>Dictatorships <em>have to</em> become kleptocracies to fund private goods (<em>aka</em>, corruption) at the expense of public goods.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> Take, for example, Russia, North Korea, or Cuba: they have enough of an economy to fund the force necessary to maintain tbeir dictatoships in power, but not enough to do maintenance of their infrastructure.</p>
+ <p>Dictatorships <em>have to</em> become kleptocracies to fund private goods (<em>aka</em>, corruption) at the expense of public goods.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> Take, for example, Russia, North Korea, or Cuba: they have enough of an economy to fund the force necessary to maintain their dictatoships in power, but not enough to do maintenance of their infrastructure.</p>
  <p>Dictatorships are repugnant, but are they <em>illegal</em>? There is no  international law to declare them illegal, so everything they do is&hellip; undefined.</p>
  <p>At the business level, national laws make businesses legal. Given that businesses are <span class="_paradigm">FIAT</span> dictatorships, with all the power centralized in the hands of the owners, having owners collect all the profits is legal. But, I claim, not even the best way to grow wealth.</p>
  <p>The brilliance of the stock market is the realization that it takes a community to grow. In this case, it was a community of well-to-do people with capital to help businesses grow, but a community nevertheless,<p>
