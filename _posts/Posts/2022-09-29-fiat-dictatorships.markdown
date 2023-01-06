@@ -38,7 +38,7 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
 
 <h1>Oh, the Irony</h1>
  <p>It is noteworthy that <span class="_paradigm">RADICAL</span> companies will be incubated <em>inside</em> the <span class="_paradigm">FIAT</span> system. In time this will transform the <span class="_paradigm">FIAT</span> system itself.</p>
- <p><span class="_paradigm">RADICAL</span> companies may be better for business that <span class="_paradigm">FIAT</span> businesses. Go figure.</p>
+ <p><span class="_paradigm">RADICAL</span> companies are better for business than <span class="_paradigm">FIAT</span> businesses. Ironic, no?</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
