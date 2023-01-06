@@ -50,18 +50,18 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  </table>
  <table style="margin-left:0.5in; width:80%; ">
   <tr>
-   <td colspan="2" style="font-weight:bold; text-align:center; ">PRINCIPLES</td>
+   <td colspan="2" style="font-weight:bold; text-align:center; background-color:#EEEEEE; ">PRINCIPLES</td>
   </tr>
   <tr>
    <td class="_spacer"></td>
   </tr>
-  <tr>
+  <tr style="background-color:#EEEEEE; ">
    <th>Meaning</th>
    <td>
     <p>Can I find meaning in what we are doing together? Do I trust these people to help me find meaning in the work?</p>
    </td>
   </tr>
-  <tr>
+  <tr style="background-color:#EEEEEE; ">
    <th>Belonging</th>
    <td>
      <p>This is about people. Do you want to work with this group? Does it feel right to be part of this project? Do I agree with their expressed alignment?</p>
@@ -70,16 +70,16 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
   <tr>
    <td class="_spacer"></td>
   </tr>
-  <tr style=" background-color:#EEEEEE; ">
+  <tr>
    <td colspan="2" style="font-weight:bold; text-align:center; ">COMMITTMENTS</td>
   </tr>
-  <tr style=" background-color:#EEEEEE; ">
+  <tr>
    <th>Decentralization</th>
    <td>
     <p>This is not absolute: you can move towards Decentralization or away from it. Just be transparent to yourself and others about what you are doing.</p>
    </td>
   </tr>
-  <tr style=" background-color:#EEEEEE; ">
+  <tr>
    <th>Transparency</th>
    <td>
     <p>This is not absolute, either: you can move towards Transparency or away from it.</p>
@@ -90,9 +90,9 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <td class="_spacer"></td>
   </tr>
   <tr>
-   <td colspan="2" style="font-weight:bold; text-align:center; ">PRINCIPLES</td>
+   <td colspan="2" style="font-weight:bold; text-align:center; background-color:#EEEEEE; ">PRACTICES</td>
   </tr>
-  <tr>
+  <tr style="background-color:#EEEEEE; ">
    <th>Experimentation</th>
    <td>
     <p>Means never having to say you’re sorry. But you must tell what you’ve learned from the experiment. If you don’t, nobody, including you, can learn from it. Even saying, &ldquo;I don’t know why it went wrong&rdquo; means we learned something from it.</p>
