@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "rEnchilada"
+title:    "rEnchilada, the Whole"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-renchilada.svg"
+image:    "the-whole-enchilada.svg"
 ---
 
 <div style="display:none; ">
