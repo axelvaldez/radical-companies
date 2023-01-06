@@ -7,7 +7,7 @@ image:    "icon-how-to-talk-about-radical-dictatorships.svg"
 ---
 
 <div style="display:none;">
- <p>Dictatorships are bad for the economy. For example, look at Cuba, North Korea, and Russia.</p>
+ <p>Dictatorships are bad for businesses and generally bad for the world&rsquo;s economy. Just look at Russia, North Korea, or Cuba.</p>
 </div>
 
 <h1>&nbsp;</h1>
