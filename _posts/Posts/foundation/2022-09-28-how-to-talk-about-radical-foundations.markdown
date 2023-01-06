@@ -73,16 +73,16 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <td colspan="2" style="font-weight:bold; text-align:center; ">COMMITTMENTS</td>
   </tr>
   <tr>
-   <th>Decentralization</th>
-   <td>
-    <p>This is not absolute: you can move towards Decentralization or away from it. Just be transparent to yourself and others about what you are doing.</p>
-   </td>
-  </tr>
-  <tr>
    <th>Transparency</th>
    <td>
     <p>This is not absolute, either: you can move towards Transparency or away from it.</p>
     <p>Note that transparency goes both way: form the group to the individual and from the individual to the group (<em>aka</em>, vulnerability)</p>
+   </td>
+  </tr>
+  <tr>
+   <th>Decentralization</th>
+   <td>
+    <p>This is not absolute: you can move towards Decentralization or away from it. Just be transparent to yourself and others about what you are doing.</p>
    </td>
   </tr>
   <tr>
