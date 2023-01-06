@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "rTools: rCommunity: #100lives"
+title:    "rEnchilada"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-rhatchery-100lives.svg"
+image:    "icon-renchilada.svg"
 ---
 
 <div style="display:none; ">
