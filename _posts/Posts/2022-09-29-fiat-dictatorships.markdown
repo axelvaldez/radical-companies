@@ -3,7 +3,7 @@ layout:   post
 title:    "FIAT Dictatorships"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-how-to-talk-about-radical-dictatorships.svg"
+image:    "icon-fiat-dictatorships.svg"
 ---
 
 <div style="display:none;">
