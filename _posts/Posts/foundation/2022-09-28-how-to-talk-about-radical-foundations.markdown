@@ -48,7 +48,6 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <td class="_spacer"></td>
   </tr>
  </table>
- <p>From the bottom up,</p>
  <table style="margin-left:0.5in; width:80%; ">
   <tr>
    <td colspan="2" style="font-weight:bold; text-align:center; ">PRINCIPLES</td>
