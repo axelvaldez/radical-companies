@@ -48,6 +48,15 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <td class="_spacer"></td>
   </tr>
  </table>
+
+<h1>Details</h1>
+ <div class="_center">
+  <img
+   src="/assets/img/en-alignment.svg"
+   width="70%"
+   alt="Three middle fingers as mnemonic for: IMPACT, which is the answer to 'what for,' PURPOSE, which is the answer to 'why,' and MISSION, which is the answer to 'what,' 'how,' and 'when.'">
+ </div>
+ <p>You don’t need all the pieces to get going, but you need to address these questions at some point.</p>
  <table style="margin-left:0.5in; width:80%; ">
   <tr>
    <td colspan="2" style="font-weight:bold; text-align:center; background-color:#EEEEEE; ">PRINCIPLES</td>
@@ -97,18 +106,6 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <td>
     <p>Means never having to say you’re sorry. But you must tell what you’ve learned from the experiment. If you don’t, nobody, including you, can learn from it. Even saying, &ldquo;I don’t know why it went wrong&rdquo; means we learned something from it.</p>
     <p>BTW, whether you do this out loud or written or what have you, it’s something that you all need to agree on from the outset.</p>
-   </td>
-  </tr>
-  <tr>
-   <th>&nbsp;</th>
-   <td>
-    <div class="_center">
-     <img
-      src="/assets/img/en-alignment.svg"
-      width="70%"
-      alt="Three middle fingers as mnemonic for: IMPACT, which is the answer to 'what for,' PURPOSE, which is the answer to 'why,' and MISSION, which is the answer to 'what,' 'how,' and 'when.'">
-    </div>
-    <p>You don’t need all the pieces to get going, but you need to address these questions at some point.</p>
    </td>
   </tr>
  </table>
