@@ -61,9 +61,6 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
   <tr>
    <td colspan="2" style="font-weight:bold; text-align:center; background-color:#EEEEEE; ">PRINCIPLES</td>
   </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
   <tr style="background-color:#EEEEEE; ">
    <th>Meaning</th>
    <td>
