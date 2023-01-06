@@ -48,13 +48,6 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <td class="_spacer"></td>
   </tr>
  </table>
- <div class="_center">
-  <img
-   src="/assets/img/en-alignment.svg"
-   width="70%"
-   alt="Three middle fingers as mnemonic for: IMPACT, which is the answer to 'what for,' PURPOSE, which is the answer to 'why,' and MISSION, which is the answer to 'what,' 'how,' and 'when.'">
- </div>
- <p>You don’t need all the pieces to get going, but you need to address these questions at some point.</p>
 
 <h1>Description</h1>
  <table style="margin-left:0.5in; width:80%; ">
