@@ -3,7 +3,7 @@ layout:   post
 title:    "Epiphany: Krisos Potential!"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "unleashing-your-potential.svg"
+image:    "icon-krisos.svg"
 ---
 
 <div style="display:none;">
