@@ -13,7 +13,7 @@ image:    "icon-meaning-and-belonging-are-not-enough.svg"
 <h1>&nbsp;</h1>
  <p>Here is the <span class="_paradigm">RADICAL</span> foundation,</p>
  <table align="center">
-  <tr>
+  <tr style="background-color:#EEEEEE; ">
    <th>people</th>
    <td class="_foundation">Meaning & Belonging</td>
   </tr>
@@ -27,7 +27,7 @@ image:    "icon-meaning-and-belonging-are-not-enough.svg"
   <tr>
    <td class="_spacer"></td>
   </tr>
-  <tr>
+  <tr style="background-color:#EEEEEE; ">
    <th>practices</th>
    <td class="_foundation">Experimentation</td>
   </tr>
