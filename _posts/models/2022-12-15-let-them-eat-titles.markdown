@@ -7,7 +7,7 @@ image:    "icon-let-them-eat-title.svg"
 ---
 
 <div style="display:none;">
- <p>The transition from <span class="_paradigm">FIAT</span> to <span class="_paradigm">RADICAL</span> will not happen in a day. It’s going to take time.</p>
+ <p>The transition from <span class="_paradigm">FIAT</span> to <span class="_paradigm">RADICAL</span> will not happen in a day. The transition from <span class="_paradigm">FIAT</span> to <span class="_paradigm">RADICAL</span> will take time.</p>
 </div>
 
 <h1>Titles?</h1>
