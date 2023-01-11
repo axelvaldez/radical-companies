@@ -40,7 +40,7 @@ image:    "icon-what-will-kill-us-first.svg"
    width="70%"
    alt="">
  </div>
- <p>In sheer number, there is more research, but it trends towards improvement and not discovery. This is really bad because we can recognize and celebrate improvements (&ldquo;Wow, that’s going to make us live longer!&rdquo;), but we don’t recognize discoveries until it hits us in the face (&ldquo;WAT? We can generate energy like the Sun does?&rdquo;).</p>
+ <p>In sheer numbers, there is more research, but it trends towards improvement and not discovery. This is really bad because we can recognize and celebrate improvements (&ldquo;Wow, that’s going to make us live longer!&rdquo;), but we don’t recognize discoveries until it hits us in the face (&ldquo;WAT? We can generate energy like the Sun does?&rdquo;).</p>
  <p>Politically, our priorities will trend towards improvements.</p>
  <p>The worst part is that it will create a world-wide monoculture.</p>
 
