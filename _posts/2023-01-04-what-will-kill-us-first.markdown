@@ -93,54 +93,6 @@ practices</p>
  <table>
   <tr>
    <td>
-<h3><p style="text-align: right">
-RADs!</p>
-</h3>
-   </td>
-   <td>This is the most general tool in that it can be used by any one community or an ensemble of communities.
- <p>For more, see, <em>Get Rid of Ownership</em>,<sup><a href="https://radicalcompanies.com/2022/12/12/the-radical-foundation-revised.html#en01">1</a></sup> <em>Google Goes RADICAL</em>,<sup><a href="https://radicalcompanies.com/2022/12/12/the-radical-foundation-revised.html#en02">2</a></sup> <em>Your Cheating RADs</em>,<sup><a href="https://radicalcompanies.com/2022/12/12/the-radical-foundation-revised.html#en03">3 </a></sup> <em>No Bonuses or Salaries</em>,<sup><a href="https://radicalcompanies.com/2022/12/12/the-radical-foundation-revised.html#en04">4 </a></sup> and <em>Giving RADs</em>.<sup><a href="https://radicalcompanies.com/2022/12/12/the-radical-foundation-revised.html#en05">5 </a></sup>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h3><p style="text-align: right">
-<strong>Explicit</strong></p>
-</h3>
-
-
-<h3><p style="text-align: right">
-<strong>Alignment</strong></p>
-</h3>
-
-
-   </td>
-   <td>This applies to a group of people working on a common project (<em>i.e.</em>, what we call a company). However you choose to name them, these are the key components that you must consider,
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" >
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h3><p style="text-align: right">
-<strong>Trust</strong></p>
-</h3>
-
-
-<h3><p style="text-align: right">
-<strong>Agreements</strong></p>
-</h3>
-
-
-   </td>
-   <td>Inspired by J Kim Wright’s Conscious Contracts®, these apply to individuals as they create or enter a community. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building at a safe pace (psychologically and physically).
    </td>
   </tr>
 </table>
@@ -154,16 +106,6 @@ RADs!</p>
  </ul>
  <p>The community will be the holder of these and other skills.</p>
 
-<h2>Notes</h2>
-<div class="footnotes">
-<hr>
-<ol><li id="fn1">
-<h6>     	Maria Popova. <em>Why Not to Put a Raincoat on Your Dog: A Cognitive Scientist Explains the Canine Umwelt</em>.<<a href="https://radicals.world/UDydII">https://radicals.world/UDydII</a>>  (alt., https://diigo.com/0rbm2l)</h6>
-
-&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a>
-
-</ol></div>
-
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
@@ -171,15 +113,16 @@ RADs!</p>
     For more,
     see <em>Anthropocene</em>.
     Wikipedia.
-    <https://en.wikipedia.org/wiki/Anthropocene>
+    &lt;<a href="https://en.wikipedia.org/wiki/Anthropocene" target="_blank">https://en.wikipedia.org/wiki/Anthropocene</a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p class="_list-item">
     Maria Popova.
     <em>Why Not to Put a Raincoat on Your Dog: A Cognitive Scientist Explains the Canine Umwelt</em>.
-    <<a href="https://radicals.world/UDydII">https://radicals.world/UDydII</a>>  (alt., https://diigo.com/0rbm2l)
-   </p>
+    &lt;<a href="https://radicals.world/UDydII" target="_blank">https://radicals.world/UDydII</a> (alt., <a href="hhttps://diigo.com/0rbm2l" target="_blank">https://diigo.com/0rbm2l</a>)&gt;
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
   <li id="en03">
    <p class="_list-item">
@@ -187,8 +130,8 @@ RADs!</p>
     <em>&lsquo;Disruptive&rsquo; science has declined &ndash; and no one knows why</em>.
     Nature.
     4 Jan 2023.
-    <https://radicals.world/naj52h>
-    &nbsp;<a href="#fnref2" rev="footnote">&#8617;</a>
+    &lt;<a href="https://radicals.world/naj52" target="_blank">https://radicals.world/naj52</a>&gt;
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
