@@ -174,7 +174,7 @@ image:    "icon-what-will-kill-us-first.svg"
    <p class="_list-item">
     <em>No Bonuses or Salaries</em>
     <<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>>
-    <az class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en07">
