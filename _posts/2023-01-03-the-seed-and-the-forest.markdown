@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The Seed that Spawned a Forest"
+title:    "The Seed and the Forest"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-the-seed-and-the-forest.svg"
