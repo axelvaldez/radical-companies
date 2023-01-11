@@ -123,6 +123,7 @@ practices</p>
     <em>Why Not to Put a Raincoat on Your Dog: A Cognitive Scientist Explains the Canine Umwelt</em>.
     &lt;<a href="https://radicals.world/UDydII" target="_blank">https://radicals.world/UDydII</a> (alt., <a href="hhttps://diigo.com/0rbm2l" target="_blank">https://diigo.com/0rbm2l</a>)&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
   </li>
   <li id="en03">
    <p class="_list-item">
