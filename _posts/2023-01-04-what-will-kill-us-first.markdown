@@ -29,8 +29,10 @@ image:    "icon-what-will-kill-us-first.svg"
 
 <h1>Decline of Science</h1>
  <p>Take, for example, the decline of disruptive science,</p>
- <p class="_quotation">The number of science and technology research papers published has skyrocketed over the past few decades &ndash; but the &lsquo;disruptiveness&rsquo; of those papers has dropped. &hellip;</p>
- <p class="_quotation">Data from millions of manuscripts show that, compared with the mid-twentieth century, research done in the 2000s was much more likely to incrementally push science forward than to veer off in a new direction and render previous work obsolete. Analysis of patents from 1976 to 2010 showed the same trend.<a href="#en01"><sup id="bm01">2</sup></a></p>
+ <div class="_quotation">
+  <p>The number of science and technology research papers published has skyrocketed over the past few decades &ndash; but the &lsquo;disruptiveness&rsquo; of those papers has dropped. &hellip;</p>
+  <p>Data from millions of manuscripts show that, compared with the mid-twentieth century, research done in the 2000s was much more likely to incrementally push science forward than to veer off in a new direction and render previous work obsolete. Analysis of patents from 1976 to 2010 showed the same trend.<a href="#en01"><sup id="bm01">2</sup></a></p>
+ </div>
  <p>This is happening across diverse fields. For example, social science, technology, physical sciences, life sciences, and biomedicine.</p>
 
 <h1 class="_section">ENDNOTES</h1>
