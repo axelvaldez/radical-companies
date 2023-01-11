@@ -141,20 +141,12 @@ image:    "icon-what-will-kill-us-first.svg"
   </li>
   <li id="en02">
    <p class="_list-item">
-    Maria Popova.
-    <em>Why Not to Put a Raincoat on Your Dog: A Cognitive Scientist Explains the Canine Umwelt</em>.
-    &lt;<a href="https://radicals.world/UDydII" target="_blank">https://radicals.world/UDydII</a> (alt., <a href="hhttps://diigo.com/0rbm2l" target="_blank">https://diigo.com/0rbm2l</a>)&gt;
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en03">
-   <p class="_list-item">
     Max Kozlov.
     <em>&lsquo;Disruptive&rsquo; science has declined &ndash; and no one knows why</em>.
     Nature.
     4 Jan 2023.
     &lt;<a href="https://radicals.world/naj52" target="_blank">https://radicals.world/naj52</a>&gt;
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
