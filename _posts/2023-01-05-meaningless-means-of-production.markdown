@@ -15,7 +15,7 @@ image:    "icon-meaningless-means-of-production.svg"
  <p>What we are missing today is <em>dignity</em>. Attaboys are not <em>recognition</em>.</p>
  <p>In the <span class="_paradigm">RADICAL</span> model,</p>
  <ul>
-  <li>your peers recognize your contributions. They can do this fairly and efficiently because they are working side by side with you.</li>
+  <li>Your peers recognize your contributions. They can do this fairly and efficiently because they are working side by side with you.</li>
   <li>Your contributions have to be made tangible (<em>e.g.</em>, <span class="_paradigm">RAD</span>s determine your percentage of whatever is up for distribution: money, ownership, etc.).</li>
  </ul>
 
