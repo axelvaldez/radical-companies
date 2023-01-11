@@ -34,6 +34,135 @@ image:    "icon-what-will-kill-us-first.svg"
   <p>Data from millions of manuscripts show that, compared with the mid-twentieth century, research done in the 2000s was much more likely to incrementally push science forward than to veer off in a new direction and render previous work obsolete. Analysis of patents from 1976 to 2010 showed the same trend.<a href="#en01"><sup id="bm01">2</sup></a></p>
  </div>
  <p>This is happening across diverse fields. For example, social science, technology, physical sciences, life sciences, and biomedicine.</p>
+ <div class="_center">
+  <img
+   src="/assets/img/disruptive-science-dwindles.svg"
+   width="70%"
+   alt="">
+ </div>
+ <p>In sheer number, there is more research, but it trends towards improvement and not discovery. This is really bad because we can recognize and celebrate improvements (&ldquo;Wow, that’s going to make us live longer!&rdquo;), but we don’t recognize discoveries until it hits us in the face (&ldquo;WAT? We can generate energy like the Sun does?&rdquo;).</p>
+ <p>Politically, our priorities will trend towards improvements.</p>
+ <p>The worst part is that it will create a world-wide monoculture.</p>
+
+<h1>Monoculture</h1>
+ <p>Monocultures are fragile. A virus that kills one member of the species, can kill <em>every</em> member of the species.</p>
+ <p>Nature fends this off somewhat via genetic and habitat variations. This will allow a handful of individuals to survive, though some cultural knowledge will vanish as individuals die.</p>
+ <p>Non-human species don’t accumulate as much cultural knowledge, but humans accumulate a lot of it. We will lose much, if not most, of it.</p>
+ <p>We will most likely get a chance to restart, but with a decimated community. The whole thing will be very fragile as we restart from near-scratch.</p>
+
+<h1>The Anthropocene</h1>
+ <p>This will happen to humanity, and the Anthropocene will end, if we don’t do something about the direction we are going. Our gasoline car is heading towards world-wide homogeneity and climate change.</p>
+
+<h1>RADICAL Mindset</h1>
+ <p>One way to protect us against this is the RADICAL mindset. If we manage to spread it widely, then we will have a chance to not end up in the same place we are today, with competition rampant, and domination as the only humanity-wide <em>umwelt</em>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
+ <p>The RADICAL model consists of the RADICAL foundation, its tools, and new skills.</p>
+
+<h1>The RADICAL Foundation</h1>
+ <table>
+  <tr>
+   <td>
+<h3><p style="text-align: right">
+people</p>
+</h3>
+   </td>
+   <td>Meaning & Belonging
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3><p style="text-align: right">
+commitments</p>
+</h3>
+   </td>
+   <td>Decentralization & Transparency
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3><p style="text-align: right">
+practices</p>
+</h3>
+   </td>
+   <td>Experimentation
+   </td>
+  </tr>
+</table>
+
+<h1>The Tools</h1>
+ <p>These are the tools that we have come with so far,</p>
+ <table>
+  <tr>
+   <td>
+<h3><p style="text-align: right">
+RADs!</p>
+</h3>
+   </td>
+   <td>This is the most general tool in that it can be used by any one community or an ensemble of communities.
+ <p>For more, see, <em>Get Rid of Ownership</em>,<sup><a href="https://radicalcompanies.com/2022/12/12/the-radical-foundation-revised.html#en01">1</a></sup> <em>Google Goes RADICAL</em>,<sup><a href="https://radicalcompanies.com/2022/12/12/the-radical-foundation-revised.html#en02">2</a></sup> <em>Your Cheating RADs</em>,<sup><a href="https://radicalcompanies.com/2022/12/12/the-radical-foundation-revised.html#en03">3 </a></sup> <em>No Bonuses or Salaries</em>,<sup><a href="https://radicalcompanies.com/2022/12/12/the-radical-foundation-revised.html#en04">4 </a></sup> and <em>Giving RADs</em>.<sup><a href="https://radicalcompanies.com/2022/12/12/the-radical-foundation-revised.html#en05">5 </a></sup>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3><p style="text-align: right">
+<strong>Explicit</strong></p>
+</h3>
+
+
+<h3><p style="text-align: right">
+<strong>Alignment</strong></p>
+</h3>
+
+
+   </td>
+   <td>This applies to a group of people working on a common project (<em>i.e.</em>, what we call a company). However you choose to name them, these are the key components that you must consider,
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
+
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3><p style="text-align: right">
+<strong>Trust</strong></p>
+</h3>
+
+
+<h3><p style="text-align: right">
+<strong>Agreements</strong></p>
+</h3>
+
+
+   </td>
+   <td>Inspired by J Kim Wright’s Conscious Contracts®, these apply to individuals as they create or enter a community. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building at a safe pace (psychologically and physically).
+   </td>
+  </tr>
+</table>
+
+<h1>The Skills</h1>
+ <p>They include the capacity,</p>
+ <ul>
+  <li>To be inquisitive over being accusative</li>
+  <li>To be playful over being rigid</li>
+  <li>To consider behavior from love rather than harm</li>
+ </ul>
+ <p>The community will be the holder of these and other skills.</p>
+
+<h2>Notes</h2>
+<div class="footnotes">
+<hr>
+<ol><li id="fn1">
+<h6>     	Maria Popova. <em>Why Not to Put a Raincoat on Your Dog: A Cognitive Scientist Explains the Canine Umwelt</em>.<<a href="https://radicals.world/UDydII">https://radicals.world/UDydII</a>>  (alt., https://diigo.com/0rbm2l)</h6>
+
+&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a>
+
+</ol></div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
@@ -45,11 +174,23 @@ image:    "icon-what-will-kill-us-first.svg"
     <https://en.wikipedia.org/wiki/Anthropocene></h6>
    </p>
   </li>
+  <li id="en02">
+   <p class="_list-item">
+    Maria Popova.
+    <em>Why Not to Put a Raincoat on Your Dog: A Cognitive Scientist Explains the Canine Umwelt</em>.
+    <<a href="https://radicals.world/UDydII">https://radicals.world/UDydII</a>>  (alt., https://diigo.com/0rbm2l)
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    Max Kozlov.
+    <em>&lsquo;Disruptive&rsquo; science has declined &ndash; and no one knows why</em>.
+    Nature.
+    4 Jan 2023.
+    <https://radicals.world/naj52h>
+    &nbsp;<a href="#fnref2" rev="footnote">&#8617;</a>
+   </p>
+  </li>
  </ol>
-
- Max Kozlov. <em>‘Disruptive’ science has declined — and no one knows why</em>. Nature, 4 Jan 2023. <https://radicals.world/naj52h></h4>
-
-&nbsp;<a href="#fnref2" rev="footnote">&#8617;</a>
 
 <h1 class="_section">RELATED</h1>
  <ul>

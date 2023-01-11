@@ -31,7 +31,6 @@ image:    "icon-about-daos.svg"
   alt="">
  </div>
 
-<!-- new foundation -->
  <table align="center">
   <tr style="background-color:#EEEEEE; ">
    <th>people</th>
@@ -49,32 +48,6 @@ image:    "icon-about-daos.svg"
    <td class="_spacer_"></td>
   </tr>
  </table>
- 
-<!-- old foundation
-<table align="center">
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
- </tr>
- <tr>
-  <td style="height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
- </tr>
- <tr>
-  <td style="height: 7px;"></td>
- </tr>
- <tr>
-  <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-  <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
- </tr>
- <tr>
-  <td class="_spacer_">&nbsp;</td>
- </tr>
-</table>
- -->
 
 <h1>For More References, See,</h1>
   <ul>
