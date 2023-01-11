@@ -37,7 +37,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <div class="_center">
   <img
    src="/assets/img/disruptive-science-dwindles.svg"
-   width="70%"
+   width="100%"
    alt="">
  </div>
  <p>In sheer numbers, there is more research, but it trends towards improvement and not discovery. This is really bad because we can recognize and celebrate improvements (&ldquo;Wow, that’s going to make us live longer!&rdquo;), but we don’t recognize discoveries until it hits us in the face (&ldquo;WAT? We can generate energy like the Sun does?&rdquo;).</p>
