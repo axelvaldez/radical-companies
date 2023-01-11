@@ -3,7 +3,7 @@ layout:   post
 title:    "What Will Kill Us First?"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-what-will-kill-us-first.svg"
 ---
 
 <div style="display:none;">
