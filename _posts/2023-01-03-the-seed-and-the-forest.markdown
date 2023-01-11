@@ -3,7 +3,7 @@ layout:   post
 title:    "The Seed that Spawned a Forest"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-the-seed-and-the-forest.svg"
 ---
 
 <div style="display:none;">
