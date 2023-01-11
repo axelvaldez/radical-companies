@@ -171,7 +171,7 @@ RADs!</p>
     For more,
     see <em>Anthropocene</em>.
     Wikipedia.
-    <https://en.wikipedia.org/wiki/Anthropocene></h6>
+    <https://en.wikipedia.org/wiki/Anthropocene>
    </p>
   </li>
   <li id="en02">
@@ -179,6 +179,7 @@ RADs!</p>
     Maria Popova.
     <em>Why Not to Put a Raincoat on Your Dog: A Cognitive Scientist Explains the Canine Umwelt</em>.
     <<a href="https://radicals.world/UDydII">https://radicals.world/UDydII</a>>  (alt., https://diigo.com/0rbm2l)
+   </p>
   </li>
   <li id="en03">
    <p class="_list-item">
