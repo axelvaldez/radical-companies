@@ -16,7 +16,7 @@ image:    "icon-meaningless-means-of-production.svg"
  <p>In the <span class="_paradigm">RADICAL</span> model,</p>
  <ul>
   <li>your peers recognize your contributions. They can do this fairly and efficiently because they are working side by side with you.</li>
-  <li>Your contributions have to be made tangible (<em>e.g.</em>, <span class="_paradigm">RAD</span>s determine your percentage of whatever is up for distribution: money, ownership, etc.).</lixxx>
+  <li>Your contributions have to be made tangible (<em>e.g.</em>, <span class="_paradigm">RAD</span>s determine your percentage of whatever is up for distribution: money, ownership, etc.).</li>
  </ul>
 
 <h1>The <em>RADs!</em> App</h1>
