@@ -7,11 +7,11 @@ image:    "icon-what-will-kill-us-first.svg"
 ---
 
 <div style="display:none;">
- <p>Which will destroy the Anthropocene<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> first? climate change or homogeneity?</p>
+ <p>Which will destroy the Anthropocene<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> first, climate change or homogeneity?</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Which will destroy the Anthropocene<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> first? climate change or homogeneity?</p>
+ <p>Which will destroy the Anthropocene<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> first, climate change or homogeneity?</p>
 
 <h1>Climate Change</h1>
  <p>Climate change is by now an obvious one,</p>
@@ -20,12 +20,12 @@ image:    "icon-what-will-kill-us-first.svg"
   <li>Changes to weather patterns change agricultural growth patterns and wild species habitats (<em>i.e.</em>, even more so and faster than we have).</li>
   <li>Changes to agriculture and wild species habitats are a threat to our life support system.</li>
   <li>We cannot react to that many changes. As our life support system declines, our population will decline.</li>
-  <li>Given our FIAT mindset, competition will increase and our cultural accomplishments will be forgotten.</li>
+  <li>Given our <span class="_paradigm">FIAT</span> mindset, competition will increase and our cultural accomplishments will be forgotten.</li>
  </ul>
 
 <h1>Homogeneity</h1>
  <p>As every nation moves towards being run like every other nation, experimentation goes down and approaches a bland state. This state becomes inevitable, all powerful, forever.</p>
- <p>Today we can still compare the US to Europe, for example, when it comes to well-being. As every nation moves towards being run like every other nation, distinctions will be minimal and easily brushed off.</p>
+ <p>Today we can still compare, for example, the US to Europe when it comes to well-being. As every nation moves towards being run like every other nation, distinctions will be minimal and easily brushed off.</p>
 
 <h1>Decline of Science</h1>
  <p>Take, for example, the decline of disruptive science,</p>
