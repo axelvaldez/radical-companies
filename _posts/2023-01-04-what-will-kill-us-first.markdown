@@ -7,11 +7,11 @@ image:    "icon-what-will-kill-us-first.svg"
 ---
 
 <div style="display:none;">
- <p>Which will destroy the Anthropocene<a href="#en01"><sup id="bm011">1&nbsp;</sup></a> first, climate change or homogeneity?</p>
+ <p>Which will destroy the Anthropocene first, climate change or homogeneity?</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Which will destroy the Anthropocene<a href="#fn1" rel="footnote"><sup id="bm02">2&nbsp;</sup></a> first, climate change or homogeneity?</p>
+ <p>Which will destroy the Anthropocene<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> first, climate change or homogeneity?</p>
 
 <h1>Climate Change</h1>
  <p>Climate change is by now an obvious one,</p>
@@ -31,7 +31,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>Take, for example, the decline of disruptive science,</p>
  <div class="_quotation">
   <p>The number of science and technology research papers published has skyrocketed over the past few decades &ndash; but the &lsquo;disruptiveness&rsquo; of those papers has dropped. &hellip;</p>
-  <p>Data from millions of manuscripts show that, compared with the mid-twentieth century, research done in the 2000s was much more likely to incrementally push science forward than to veer off in a new direction and render previous work obsolete. Analysis of patents from 1976 to 2010 showed the same trend.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
+  <p>Data from millions of manuscripts show that, compared with the mid-twentieth century, research done in the 2000s was much more likely to incrementally push science forward than to veer off in a new direction and render previous work obsolete. Analysis of patents from 1976 to 2010 showed the same trend.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
  </div>
  <p>This is happening across diverse fields. For example, social science, technology, physical sciences, life sciences, and biomedicine.</p>
  <div class="_center">
