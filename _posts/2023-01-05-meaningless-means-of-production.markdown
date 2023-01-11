@@ -11,8 +11,9 @@ image:    "icon-meaningless-means-of-production.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>For a long time, the bad guys were the owners of <em>the means of production</em>, but that is not the problem. Certainly not today. Yes, there were bad guys and they did a lot of harm, but beneath it all this bad stuff, there was a system that rewarded competition and dominance. It is still going, though with a nicer face, and we still live in it today. It has been nameless, but we now call it the <span class="_paradigm">FIAT</span> way, "Do it my way, or else! Please."</p>
- <p>What we are missing today is <em>dignity</em>. Attaboys are not <em>recognition</em>.</p>
+ <p>For a long time, the bad guys were the owners of <em>the means of production</em>, but that is not the problem. Certainly not today. Yes, there were bad guys and they did a lot of obvious harm, but beneath it all this bad stuff, there was a system that rewarded their competition and dominance behavior. It is still going, though with a nicer face, and we still live in it today.</p>
+ <p>In fact, it has been nameless, but we now call it the <span class="_paradigm">FIAT</span> way, &ldquo;Do it my way, or else! Please.&rdquo; The <span class="_paradigm">FIAT</span> system is as the root of a system that's driving us over the edge. It is not capitalism, it is the dominance of might, where everything is done by fiat. Static hierarchies are <span class="_paradigm">FIAT</span>; given titles are <span class="_paradigm">FIAT</span>; salaries are <span class="_paradigm">FIAT</span>, 9 to 5 is <span class="_paradigm">FIAT</span>. Capitalism actually creates community, albeit a very restricted one.</p>
+ <p>What went out with the bathwater is <em>dignity</em>. We confuse status for  dignitiy and attaboys for <em>recognition</em>.</p>
  <p>In the <span class="_paradigm">RADICAL</span> model,</p>
  <ul>
   <li>Your peers recognize your contributions. They can do this fairly and efficiently because they are working side by side with you.</li>
