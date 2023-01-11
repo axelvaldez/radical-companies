@@ -3,7 +3,7 @@ layout:   post
 title:    "Meaningless Means of Production"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-meaningless-means-of-production.svg"
 ---
 
 <div style="display:none;">
