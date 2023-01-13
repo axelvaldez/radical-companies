@@ -7,7 +7,7 @@ image:    "icon-about-daos.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>By now, capital is good. We can fix that.</p>
 </div>
 
 <h1>An Outline</h1>
