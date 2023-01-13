@@ -10,7 +10,7 @@ image:    "icon-about-daos.svg"
  <p></p>
 </div>
 
-<h1>&nbsp;</h1>
+<h1>An Outline</h1>
  <ul>
   <li>In the beginning, there were <em>enclosures</em>.</li>
   <li>Enclosures begat capital.</li>
@@ -21,16 +21,20 @@ image:    "icon-about-daos.svg"
   <li>Profts beget capital.</li>
   <li>Capital begets the <span class="_paradigm">FIAT</span> <em>system</em>.</li>
   <li>The owner later builds a factory on <em>his</em> land and you work in it as his employee.</li>
-  <li>The wage is higher and you are happier. You can afford shows for your boys; girls don&rsquo;t need shoes.</li>
-  <li>You are now part of a big, human machine and you collaborate with others, minding only your work and tossing over the partition to the other fellow.</li>
+  <li>The wage is higher and you are happier.</li>
+  <li>You can afford shoes for your boys; girls don&rsquo;t need shoes.</li>
+  <li>You are now part of a big, human machine</li>
+  <li>You collaborate with others, minding only your work and tossing it to the other fellow.</li>
   <li>You are a good employee and you are docile and obedient.</li>
-  <li>You are a good employee and you see work only as survival.</li>
+  <li>You are a good employee and you see work only as a source of survival.</li>
   <li>You are a good employee and you never learned that it was once possible to find  dignity at work.</li>
-  <li>Unions enter the scene and make demands on behalf of the little people, the employee (<em>i.e.</em>, you).</li>
-  <li>Wages go up, thanks to Unions.</li>
-  <li>But unions are centralized and ruled by FIAT, just like the businesses they are part of.</li>
-  <li>Then unions “go away.”</li>
-  <li>Wages keep going up in wealthy countries. In poor countries wages are even lower than they used to be wealthy countries.</li>
+  <li>Unions enter the scene</li>
+  <li>They make demands on behalf of the little people, the employee (<em>i.e.</em>, you).</li>
+  <li>Wages and working condition go up, thanks to Unions.</li>
+  <li>But unions are centralized and ruled by FIAT, just like the businesses that spawned them.</li>
+  <li>Unions walk quitly into the sunset.</li>
+  <li>Wages keep going up in wealthy countries.</li>
+  <li>In poor countries wages are even lower than they used to be wealthy countries.</li>
   <li>Wages become salaries for very good, educated employees.</li>
   <li>Very good employees take work home.</li>
   <li>Vacation time goes up, but very good employees don&rsquo;t take advantage of it. And proud of it.</li>
