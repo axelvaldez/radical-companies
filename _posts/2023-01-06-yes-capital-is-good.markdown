@@ -44,6 +44,7 @@ image:    "icon-about-daos.svg"
   <li>Women get paid less than men. Of course. Somebody has to pay for those wages increases.</li>
   <li>Most everybody is, or has been, an employee, and they all looked just the same.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></li>
  <li>Five billion people have Internet connectivity.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></li>
+ <li>A lot of them are getting the feeling that this <span class="_paradigm">FIAT</span> system is not doing them any good</li>
  <li>The <span class="_paradigm">RADICAL</span> model enters from stage left…</li>
 </ul>
 
