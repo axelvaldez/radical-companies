@@ -38,7 +38,7 @@ image:    "icon-about-daos.svg"
   <li>Wages become salaries for very good, educated employees.</li>
   <li>Very good employees take work home.</li>
   <li>Vacation time goes up, but very good employees don&rsquo;t take advantage of it (and proud of it).</li>
-  <li>Businesses decide to have a purpose.</li>
+  <li>It becomes trendy for businesses to have a purpose.</li>
   <li>Nevertheless, they are still owned by the people who brought in the capital (<em>i.e.</em>, that came from enclosures).</li>
   <li>Women join the workforce.</li>
   <li>Women get paid less than men. Of course. Somebody has to pay for those wages increases.</li>
