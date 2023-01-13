@@ -14,7 +14,7 @@ image:    "icon-about-daos.svg"
  <ul>
   <li>In the beginning, there were <em>enclosures</em>.</li>
   <li>Enclosures begat capital.</li>
-  <li>Enclosures takes away your means of survival.</li>
+  <li>Enclosures decrease your means of survival (and increase the owners&rsquo;s).</li>
   <li>The new owner of the land, nice as he is, <em>lets you</em> work <em>his</em> land in exchange for a <em>wage</em>, first paid in goods and then in coins.</li>
   <li>Enclosures keep the profit as capital.</li>
   <li>Capital begets the FIAT system.</li>
