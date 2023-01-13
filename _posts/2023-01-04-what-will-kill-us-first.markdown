@@ -131,7 +131,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <ul>
   <li>To be inquisitive over being accusative</li>
   <li>To be playful over being rigid</li>
-  <li>To consider behavior from love rather than harm</li>
+  <li>To consider behavior from love rather than from harm</li>
  </ul>
  <p>The community will be the holder of these and other skills.</p>
 
