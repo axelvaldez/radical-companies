@@ -3,7 +3,7 @@ layout:   post
 title:    "Yes, Capital Is Good"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-yes-capital-is-good.svg"
 ---
 
 <div style="display:none;">
