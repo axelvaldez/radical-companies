@@ -32,7 +32,7 @@ image:    "icon-about-daos.svg"
   <li>They make demands on behalf of the little people, the employee (<em>i.e.</em>, you).</li>
   <li>Wages and working condition go up, thanks to Unions.</li>
   <li>Unions are centralized and ruled by FIAT, just like the businesses that spawned them.</li>
-  <li>Unions walk quitly into the sunset.</li>
+  <li>Unions walk quietly into the sunset.</li>
   <li>Wages keep going up in wealthy countries.</li>
   <li>In poor countries wages are even lower than they used to be wealthy countries.</li>
   <li>Wages become salaries for very good, educated employees.</li>
