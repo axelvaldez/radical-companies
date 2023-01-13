@@ -49,7 +49,7 @@ image:    "icon-what-will-kill-us-first.svg"
   <p>&ldquo;Crop growers worldwide face enormous challenges. Plants are becoming less resistant to pests and diseases. Crops are more likely to be damaged or fail because of droughts, heatwaves, floods, salinization and rising sea levels. Soils are degraded; rivers and watersheds are polluted; and the diversity and abundance of crop pollinators are in steep decline.&rdquo;</p>
  </div>
  <p>&nbsp;</p>
- <p>Politically, our priorities are trending towards tweaking and avoiding risk. Worst, this trend is bringing about a world-wide monoculture in every aspect of our lives, in politics,<a href="#en05"><sup id="bm04">4&nbsp;</sup></a> science, food, etc.</p>
+ <p>Politically, our priorities are trending towards tweaking and avoiding risk. Worst, this trend is bringing about a world-wide monoculture in every aspect of our lives, in politics,<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> science, food, etc.</p>
 
 <h1>Monoculture</h1>
  <p>Monocultures are fragile. A virus that kills one member of the species, can kill <em>every</em> member of the species.</p>
