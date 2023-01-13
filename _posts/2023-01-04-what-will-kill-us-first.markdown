@@ -171,12 +171,10 @@ image:    "icon-what-will-kill-us-first.svg"
     CK Khoury, et al.
     <em>New Phytol</em>.
     233, 84–118 (2022).
-    &lt;<a href="https://doi.org/10.1111%2Fnph.17711" target="_blank">https://doi.org/10.1111%2Fnph.17711&gt;
+    &lt;<a href="https://doi.org/10.1111%2Fnph.17711" target="_blank">https://doi.org/10.1111%2Fnph.17711</a>&gt;
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en05">
    <p class="_list-item">
     <em>Get Rid of Ownership</em>.
@@ -184,8 +182,6 @@ image:    "icon-what-will-kill-us-first.svg"
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en06">
    <p class="_list-item">
     <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
@@ -193,8 +189,6 @@ image:    "icon-what-will-kill-us-first.svg"
     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en07">
    <p class="_list-item">
     <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
@@ -202,8 +196,6 @@ image:    "icon-what-will-kill-us-first.svg"
     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en08">
    <p class="_list-item">
     <em>No Bonuses or Salaries</em>
@@ -211,8 +203,6 @@ image:    "icon-what-will-kill-us-first.svg"
     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
- <ol>
   <li id="en09">
    <p class="_list-item">
     <em>Giving RADs</em>
