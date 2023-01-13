@@ -133,7 +133,7 @@ image:    "icon-what-will-kill-us-first.svg"
   <li>To be playful over being rigid</li>
   <li>To consider behavior from love rather than from harm</li>
  </ul>
- <p>The community will be the holder of these and other skills.</p>
+ <p>The community will rembember these and other skills.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
