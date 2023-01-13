@@ -146,6 +146,8 @@ image:    "icon-what-will-kill-us-first.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+ </ol>
+ <ol>
   <li id="en02">
    <p class="_list-item">
     Max Kozlov.
@@ -156,6 +158,8 @@ image:    "icon-what-will-kill-us-first.svg"
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+ </ol>
+ <ol>
   <li id="en03">
    <p class="_list-item">
     Alexandre Antonelli.
@@ -166,6 +170,8 @@ image:    "icon-what-will-kill-us-first.svg"
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+ </ol>
+ <ol>
   <li id="en04">
    <p class="_list-item">
     CK Khoury, et al.
@@ -175,6 +181,8 @@ image:    "icon-what-will-kill-us-first.svg"
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+ </ol>
+ <ol>
   <li id="en05">
    <p class="_list-item">
     <em>Get Rid of Ownership</em>.
@@ -182,6 +190,8 @@ image:    "icon-what-will-kill-us-first.svg"
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+ </ol>
+ <ol>
   <li id="en06">
    <p class="_list-item">
     <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
@@ -189,6 +199,8 @@ image:    "icon-what-will-kill-us-first.svg"
     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+ </ol>
+ <ol>
   <li id="en07">
    <p class="_list-item">
     <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
@@ -196,6 +208,8 @@ image:    "icon-what-will-kill-us-first.svg"
     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+ </ol>
+ <ol>
   <li id="en08">
    <p class="_list-item">
     <em>No Bonuses or Salaries</em>
@@ -203,6 +217,8 @@ image:    "icon-what-will-kill-us-first.svg"
     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+ </ol>
+ <ol>
   <li id="en09">
    <p class="_list-item">
     <em>Giving RADs</em>
