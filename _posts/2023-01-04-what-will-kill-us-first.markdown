@@ -162,7 +162,7 @@ image:    "icon-what-will-kill-us-first.svg"
     <em>New Phytol</em>.
     Nature 613, 239-242.
     2023.
-    &lt;https://doi.org/10.1111%2Fnph.17733&gt;
+    &lt;<a href="https://doi.org/10.1111%2Fnph.17733" target="_blank">https://doi.org/10.1111%2Fnph.17733&gt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -171,7 +171,7 @@ image:    "icon-what-will-kill-us-first.svg"
     CK Khoury, et al.
     <em>New Phytol</em>.
     233, 84–118 (2022).
-    &lt;https://doi.org/10.1111%2Fnph.17733&gt;
+    &lt;<a href="https://doi.org/10.1111%2Fnph.17711" target="_blank">https://doi.org/10.1111%2Fnph.17711&gt;
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
