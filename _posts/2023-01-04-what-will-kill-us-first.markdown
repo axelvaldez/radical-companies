@@ -162,7 +162,7 @@ image:    "icon-what-will-kill-us-first.svg"
     <em>New Phytol</em>.
     Nature 613, 239-242.
     2023.
-    &lt;<a href="https://doi.org/10.1111%2Fnph.17733" target="_blank">https://doi.org/10.1111%2Fnph.17733&gt;
+    &lt;<a href="https://www.nature.com/articles/d41586-023-00021-4?utm_source=Nature+Briefing&utm_campaign=8b9cc51957-briefing-dy-20230111&utm_medium=email&utm_term=0_c9dfd39373-8b9cc51957-46617670" target="_blank">https://www.nature.com/articles/d41586-023-00021-4?utm_source=Nature+Briefing&utm_campaign=8b9cc51957-briefing-dy-20230111&utm_medium=email&utm_term=0_c9dfd39373-8b9cc51957-46617670&gt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
