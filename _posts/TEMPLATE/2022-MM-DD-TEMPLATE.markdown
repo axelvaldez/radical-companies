@@ -60,7 +60,7 @@ image:    "icon-about-daos.svg"
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
-  <li id="en02">
+  <li id="en01">
    <p class="_list-item">
     AUTHOR(S) a.
     <em>TITLE.</em>
