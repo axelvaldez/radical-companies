@@ -39,10 +39,10 @@ image:    "icon-about-daos.svg"
   <li>Very good employees take work home.</li>
   <li>Vacation time goes up, but very good employees don&rsquo;t take advantage of it (and proud of it).</li>
   <li>It becomes trendy for businesses to have a purpose.</li>
-  <li>Nevertheless, they are still owned by the people who brought in the capital (<em>i.e.</em>, that came from enclosures).</li>
+  <li>Nevertheless, they are still owned by the people with the capital (<em>i.e.</em>, which, as you may remember, came from enclosures).</li>
   <li>Women join the workforce.</li>
   <li>Women get paid less than men. Of course. Somebody has to pay for those wages increases.</li>
-  <li>Most everybody is, or has been, an employee now, docile and obedient. And they all looked just the same.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></li>
+  <li>Most everybody is, or has been, an employee, and they all looked just the same.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></li>
  <li>Five billion people have Internet connectivity.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></li>
  <li>The <span class="_paradigm">RADICAL</span> model enters from stage left…</li>
 </ul>
