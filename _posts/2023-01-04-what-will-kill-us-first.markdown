@@ -24,8 +24,8 @@ image:    "icon-what-will-kill-us-first.svg"
  </ul>
 
 <h1>Homogeneity</h1>
- <p>As every nation moves towards being run like every other nation, experimentation goes down and approaches a bland state. This state becomes inevitable, all powerful, forever.</p>
- <p>Today we can still compare, for example, the US to Europe when it comes to well-being. As every nation moves towards being run like every other nation, distinctions will be minimal and easily brushed off.</p>
+ <p>As every nation moves towards being run like every other nation, experimentation goes down and approaches a bland state. This state becomes inevitable, all powerful, forever. Today we can still compare, for example, the US to Europe when it comes to well-being. As every nation moves towards being run like every other nation, distinctions will be minimal and easily brushed off.</p>
+ <p>It's already happening. Here are two exmamples from science and food supply.</p>
 
 <h1>Decline of Science</h1>
  <p>Take, for example, the decline of disruptive science,</p>
@@ -41,8 +41,15 @@ image:    "icon-what-will-kill-us-first.svg"
    alt="">
  </div>
  <p>In sheer numbers, there is more research, but it trends towards improvement and not discovery. This is really bad because we can recognize and celebrate improvements (&ldquo;Wow, that’s going to make us live longer!&rdquo;), but we don’t recognize discoveries until it hits us in the face (&ldquo;WAT? We can generate energy like the Sun does?&rdquo;).</p>
- <p>Politically, our priorities will trend towards improvements.</p>
- <p>The worst part is that it will create a world-wide monoculture.</p>
+
+<h1>Fragile Food</h1>
+ <p>Another example comes from our food supply that it is getting more and more fagile as we consume fewer and fewer food varieties.</p>
+ <div class="_quotation">
+  <p>&ldquo;The ways in which plants are used by societies around the world have narrowed drastically over the past 500 years.&rdquo;</p>
+  <p>&ldquo;Crop growers worldwide face enormous challenges. Plants are becoming less resistant to pests and diseases. Crops are more likely to be damaged or fail because of droughts, heatwaves, floods, salinization and rising sea levels. Soils are degraded; rivers and watersheds are polluted; and the diversity and abundance of crop pollinators are in steep decline.&rdquo;</p>
+ </div>
+ <p>&nbsp;</p>
+ <p>Politically, our priorities will trend towards improvements. And, worst, this trend is trending towards a world-wide monoculture.</p>
 
 <h1>Monoculture</h1>
  <p>Monocultures are fragile. A virus that kills one member of the species, can kill <em>every</em> member of the species.</p>
@@ -149,39 +156,47 @@ image:    "icon-what-will-kill-us-first.svg"
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en03">
    <p class="_list-item">
-    <em>Get Rid of Ownership</em>.
-    <<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>>
+    CK Khoury, et al.
+    <em>New Phytol</em>.
+    233, 84–118 (2022).
+    &lt;https://doi.org/10.1111%2Fnph.17733&gt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en04">
    <p class="_list-item">
-    <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
-    <<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>>
+    <em>Get Rid of Ownership</em>.
+    &lt;<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>&gt;
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en05">
    <p class="_list-item">
-    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
-    <<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>>
+    <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
+    &lt;<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>&gt;
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en06">
    <p class="_list-item">
-    <em>No Bonuses or Salaries</em>
-    <<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>>
+    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
+    &lt;<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>&gt;
     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en07">
    <p class="_list-item">
-    <em>Giving RADs</em>
-    <<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>>
+    <em>No Bonuses or Salaries</em>
+    &lt;<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>&gt;
     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en08">
+   <p class="_list-item">
+    <em>Giving RADs</em>
+    &lt;<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>&gt;
+    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
