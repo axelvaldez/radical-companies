@@ -49,7 +49,7 @@ image:    "icon-what-will-kill-us-first.svg"
   <p>&ldquo;Crop growers worldwide face enormous challenges. Plants are becoming less resistant to pests and diseases. Crops are more likely to be damaged or fail because of droughts, heatwaves, floods, salinization and rising sea levels. Soils are degraded; rivers and watersheds are polluted; and the diversity and abundance of crop pollinators are in steep decline.&rdquo;</p>
  </div>
  <p>&nbsp;</p>
- <p>Politically, our priorities are trending towards tweaking and avoiding risk. Worst, this is trending towards a world-wide monoculture.</p>
+ <p>Politically, our priorities are trending towards tweaking and avoiding risk. Worst, this trend is bringing about a world-wide monoculture in every aspect of our lives, in politics,<a href="#en05"><sup id="bm04">4&nbsp;</sup></a> science, food, etc.</p>
 
 <h1>Monoculture</h1>
  <p>Monocultures are fragile. A virus that kills one member of the species, can kill <em>every</em> member of the species.</p>
@@ -95,11 +95,11 @@ image:    "icon-what-will-kill-us-first.svg"
   <tr style="background-color:#EEEEEE; ">
    <th><em><span class="_paradigm">RAD</span>s!</em></th>
    <td>This is the most general tool in that it can be used by any one community or an ensemble of communities. For more, see,
-                                  <em>Get Rid of Ownership</em>,<a href="#en05"><sup id="bm05">5&nbsp;</sup></a>,
-    <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en06"><sup id="bm06">6&nbsp;</sup></a>,
-     <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en07"><sup id="bm07">7&nbsp;</sup></a>,
-                                <em>No Bonuses or Salaries</em>,<a href="#en08"><sup id="bm08">8&nbsp;</sup></a>
-        and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en09"><sup id="bm09">9&nbsp;</sup></a>
+                                  <em>Get Rid of Ownership</em>,<a href="#en06"><sup id="bm06">5&nbsp;</sup></a>,
+    <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en07"><sup id="bm07">6&nbsp;</sup></a>,
+     <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en08"><sup id="bm08">7&nbsp;</sup></a>,
+                                <em>No Bonuses or Salaries</em>,<a href="#en09"><sup id="bm09">8&nbsp;</sup></a>
+        and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en10"><sup id="bm10">9&nbsp;</sup></a>
    </td>
   </tr>
   <tr>
@@ -176,37 +176,42 @@ image:    "icon-what-will-kill-us-first.svg"
   </li>
   <li id="en05">
    <p class="_list-item">
-    <em>Get Rid of Ownership</em>.
-    &lt;<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>&gt;
+    Finance is not a science, it is included in politics.
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
-  </li>
   <li id="en06">
    <p class="_list-item">
-    <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
-    &lt;<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>&gt;
+    <em>Get Rid of Ownership</em>.
+    &lt;<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>&gt;
     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en07">
    <p class="_list-item">
-    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
-    &lt;<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>&gt;
+    <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
+    &lt;<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>&gt;
     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en08">
    <p class="_list-item">
-    <em>No Bonuses or Salaries</em>
-    &lt;<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>&gt;
+    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
+    &lt;<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>&gt;
     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en09">
    <p class="_list-item">
+    <em>No Bonuses or Salaries</em>
+    &lt;<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>&gt;
+    <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en10">
+   <p class="_list-item">
     <em>Giving RADs</em>
     &lt;<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>&gt;
-    <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
