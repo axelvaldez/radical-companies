@@ -95,11 +95,11 @@ image:    "icon-what-will-kill-us-first.svg"
   <tr style="background-color:#EEEEEE; ">
    <th><em><span class="_paradigm">RAD</span>s!</em></th>
    <td>This is the most general tool in that it can be used by any one community or an ensemble of communities. For more, see,
-                                  <em>Get Rid of Ownership</em>,<a href="#en03"><sup id="bm03">1&nbsp;</sup></a>,
-    <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en04"><sup id="bm04">2&nbsp;</sup></a>,
-     <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en05"><sup id="bm05">3&nbsp;</sup></a>,
-                                <em>No Bonuses or Salaries</em>,<a href="#en06"><sup id="bm06">4&nbsp;</sup></a>
-        and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en07"><sup id="bm07">5&nbsp;</sup></a>
+                                  <em>Get Rid of Ownership</em>,<a href="#en05"><sup id="bm05">5&nbsp;</sup></a>,
+    <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en06"><sup id="bm06">6&nbsp;</sup></a>,
+     <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en07"><sup id="bm07">7&nbsp;</sup></a>,
+                                <em>No Bonuses or Salaries</em>,<a href="#en08"><sup id="bm08">8&nbsp;</sup></a>
+        and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en09"><sup id="bm09">9&nbsp;</sup></a>
    </td>
   </tr>
   <tr>
@@ -162,7 +162,7 @@ image:    "icon-what-will-kill-us-first.svg"
     <em>New Phytol</em>.
     Nature 613, 239-242.
     2023.
-    &lt;<a href="https://www.nature.com/articles/d41586-023-00021-4?utm_source=Nature+Briefing&utm_campaign=8b9cc51957-briefing-dy-20230111&utm_medium=email&utm_term=0_c9dfd39373-8b9cc51957-46617670" target="_blank">https://www.nature.com/articles/d41586-023-00021-4?utm_source=Nature+Briefing&utm_campaign=8b9cc51957-briefing-dy-20230111&utm_medium=email&utm_term=0_c9dfd39373-8b9cc51957-46617670&gt;
+    &lt;<a href="https://radicals.world/Se6ora" target="_blank">https://radicals.world/Se6ora&gt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
