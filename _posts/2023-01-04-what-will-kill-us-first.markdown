@@ -176,7 +176,7 @@ image:    "icon-what-will-kill-us-first.svg"
   </li>
   <li id="en05">
    <p class="_list-item">
-    Finance is not a science, it is included in politics.
+    Finance is not a science, it does not predict anything. It is included in politics.
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
