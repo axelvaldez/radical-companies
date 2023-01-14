@@ -24,8 +24,8 @@ image:    "icon-what-will-kill-us-first.svg"
  </ul>
 
 <h1>Homogeneity</h1>
- <p>As every nation moves towards being run like every other nation, experimentation goes down and approaches a bland state. This state becomes inevitable, all powerful, forever. Today we can still compare, for example, the US to Europe when it comes to well-being. As every nation moves towards being run like every other nation, distinctions will be minimal and easily brushed off.</p>
- <p>It's already happening. Here are two exmamples from science and food supply.</p>
+ <p>As every nation moves towards being run like every other nation, experimentation goes down and nations approach an inevitable, all powerful, forever state. Today we can still compare, for example, the US to Europe when it comes to, say, healthcare. But as homogeneity sets in, distinctions will be minimal and easily brushed off.</p>
+ <p>It is not &ldquo;coming&rdquo;, it is already happening. Here are two exmamples from science and food supply.</p>
 
 <h1>Decline of Science</h1>
  <p>Take, for example, the decline of disruptive science,</p>
