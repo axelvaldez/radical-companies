@@ -7,7 +7,8 @@ image:    "icon-yes-capital-is-good.svg"
 ---
 
 <div style="display:none;">
- Capital is good (and goodness). We have to fix that (and we can).
+ <div>Capital is good (and goodness).</div>
+ <div>We have to fix that (and we can).</div>
 </div>
 
 <h1>An Outline</h1>
