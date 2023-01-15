@@ -26,7 +26,7 @@ image:    "icon-we-are-blind-to-it.svg"
  </ul>
 
 <h1>Co-Management</h1>
- <p>To start to move away from <span class="_paradigm">FIAT</span>, consider co-management,</p>
+ <p>To start to move away from <span class="_paradigm">FIAT</span>, consider co-management (scary),</p>
  <ul>
   <li>No bosses or employees</li>
   <li>Decentralized management</li>
@@ -37,6 +37,7 @@ image:    "icon-we-are-blind-to-it.svg"
  </ul>
 
 <h1>Co-Ownership</h1>
+ <p>Then consider co-ownership (scarier),</p>
  <ul>
   <li>Ownership is a human invention and a good one at that.</li>
   <li>The problem is <em>centralized</em> ownership.</li>
