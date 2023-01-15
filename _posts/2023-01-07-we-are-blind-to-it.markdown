@@ -7,7 +7,7 @@ image:    "icon-we-are-blind-to-it.svg"
 ---
 
 <div style="display:none;">
- <p>Today the problem is not colonialism of distant lands. The problem is the self-colonialism of our minds by the <span class="_paradigm">FIAT</span> system. And we are blind to it.</p>
+ <p>Today the problem is not the colonialism of distant lands. The BIG problem is the self-colonialism of our minds by the <span class="_paradigm">FIAT</span> system. And we are blind to it.</p>
 </div>
 
 <h1>Colonialism</h1>
