@@ -45,7 +45,7 @@ image:    "icon-we-are-blind-to-it.svg"
   <li>Co-ownership is decentralized.</li>
   <li>Co-ownership recognizes contributions</li>
   <li>Co-ownership accounts for contributions (as <span class="_paradigm">RAD</span>s)</li>
-  <li>Co-ownership makes contributions tangible (by factoring benefits through them).</li>
+  <li>Co-ownership makes contributions tangible (by factoring benefits through <span class="_paradigm">RAD</span>s).</li>
   <li>Everybody is a co-owner</li>
  </ul>
 
