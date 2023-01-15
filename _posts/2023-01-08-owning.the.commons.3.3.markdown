@@ -26,7 +26,7 @@ image:    "icon-owning-the-commons.svg"
   <li>In any case, everybody was very happy with the results.</li>
   <li>We took our percentage of coins and bought some of the goodies that came from those other townships (<em>e.g.</em>, they were cheaper and better crafted than online), like Etsyton.</li>
   <li>A few of the towns tried out RADs and they liked them and adopted them. In particular, they like how they were growing with help from other townships, like our 1024 families.</li>
-  <li>The coins didn’t go away because we wanted to trade with even farther away townships, in particular a huge one called Smelly Onions.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> In spite of its name, the food they made there (<em>e.g.</em>, Pizza, hot dogs, and white castle hamburgers) was unique and out of this world.
+  <li>The coins didn’t go away because we wanted to trade with even farther away townships, in particular a huge one called Smelly Onions.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> In spite of its name, the food they made there (<em>e.g.</em>, Pizza, hot dogs, and white castle hamburgers) was unique and out of this world.</li>
   <li>As a matter of fact, once the coins were moved online, they fit right in with RADs and even decentralized banking.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></li>
  </ul>
 
