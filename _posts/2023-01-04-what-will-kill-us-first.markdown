@@ -54,7 +54,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>Politically, our priorities are trending towards tweaking and avoiding risk. Worst, this trend is bringing about a world-wide monoculture in every aspect of our lives, in politics,<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> science, food, etc.</p>
 
 <h1>Monoculture</h1>
- <p>Monocultures are fragile. A virus that kills one member of the species, can kill <em>every</em> member of the species.</p>
+ <p>Monocultures are fragile. A virus that harm one member of the species, can harm <em>every</em> member of the species.</p>
  <p>Nature fends this off somewhat via genetic and habitat variations. This will allow a handful of individuals to survive, though some cultural knowledge will vanish as individuals die.</p>
  <p>Non-human species don’t accumulate as much cultural knowledge, but humans accumulate a lot of it. We will lose much, if not most, of it.</p>
  <p>We will most likely get a chance to restart, but with a decimated community. The whole thing will be very fragile as we restart from near-scratch.</p>
