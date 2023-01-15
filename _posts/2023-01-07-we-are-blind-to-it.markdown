@@ -31,7 +31,7 @@ image:    "icon-we-are-blind-to-it.svg"
   <li>No bosses or employees</li>
   <li>Decentralized management</li>
   <li>Everybody is a co-manager</li>
-  <li><span class="_paradigm">RAD</span>s and <span class="_paradigm">RAD</span>s! app</li>
+  <li><span class="_paradigm">RAD</span>s and <em>RADs!</em> app</li>
   <li>Explicit alignment</li>
   <li>Other <span class="_paradigm">RADICAL</span> Tools</li>
  </ul>
