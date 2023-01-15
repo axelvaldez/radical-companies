@@ -27,5 +27,5 @@ image:    "icon-resistance-to-radical.svg"
 <h1>Better Off Non-Owners-to-Owner</h1>
  <p>People who are on the verge of becoming better off and people who just made it into that class are more likely to reject anything that sounds like system change.</p>
 
-<h1><span class="_paradigm">RADICAL<span> <em>Is</em> Change</h1>
+<h1><span class="_paradigm">RADICAL</span> <em>Is</em> Change</h1>
  <p>The <span class="_paradigm">RADICAL<span> paradigm changes non-owners to co-<em>owners</em>. Resistance to it is understandable.</p>
