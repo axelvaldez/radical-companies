@@ -15,11 +15,9 @@ image:    "icon-resistance-to-radical.svg"
   <img
    src="/assets/img/resistance-to-radical.svg"
    width="100%"
-   alt="caca">
+   alt="">
  </div>
  <p>Resistance to co-ownership will come from everywhere. A safe bet is that some, maybe many, owners will say that it is a communist plot. But it will come from non-onwers, too.</p>
-
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
 
 <h1>Poor-to-Better Off Non-Owners</h1>
  <p>People who are on the verge of leaving poverty behind them and people who just made it into the lower middle class are more likely to reject anything that sounds like system change.</p>
