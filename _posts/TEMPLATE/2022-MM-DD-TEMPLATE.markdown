@@ -16,7 +16,7 @@ image:    "icon-about-daos.svg"
  <p>xxx</p>
  <p>xxx</p>
 
-<!-- image -->
+<!-- footnote -->
 <h1></h1>
  <p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
  <span class="_paradigm">RADICAL</span>
