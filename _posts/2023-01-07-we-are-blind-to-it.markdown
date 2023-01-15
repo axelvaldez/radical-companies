@@ -34,6 +34,7 @@ image:    "icon-we-are-blind-to-it.svg"
   <li><span class="_paradigm">RAD</span>s and <em>RADs!</em> app</li>
   <li>Explicit alignment</li>
   <li>Other <span class="_paradigm">RADICAL</span> Tools</li>
+  <li>Everybody is a co-manager</li>
  </ul>
 
 <h1>Co-Ownership</h1>
