@@ -6,11 +6,11 @@ authors:  "Matt Perez"
 image:    "icon-owning-the-commons.svg"
 ---
 <div style="display:none;">
-  <p>This may be the case of having a hammer and seeing everything as a nail, but I believe that the <em><span class="_paradigm">RAD</span>s!</em> app can be used as a tool for assigning dynamic ownership of the commons.</p>
+  <p>This may be a case of having a hammer and seeing everything as a nail, but I believe that the <em><span class="_paradigm">RAD</span>s!</em> app can be used as a tool for assigning dynamic ownership of the commons.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>This may be the case of having a hammer and seeing everything as a nail, but I believe that the <em><span class="_paradigm">RAD</span>s!</em> app can be used as a tool for assigning dynamic ownership of the commons.</p>
+ <p>This may be a case of having a hammer and seeing everything as a nail, but I believe that the <em><span class="_paradigm">RAD</span>s!</em> app can be used as a tool for assigning dynamic ownership of the commons.</p>
 
 <h1>What a Find!</h1>
  <ul>
