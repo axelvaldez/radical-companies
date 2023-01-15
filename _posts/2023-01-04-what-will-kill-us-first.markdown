@@ -29,7 +29,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>As every nation moves towards being run like every other nation, experimentation goes down and nations approach an inevitable, all powerful, forever state. Today we can still compare, for example, the US to Europe when it comes to, say, healthcare. But as homogeneity sets in, distinctions will be minimal and easily brushed off.</p>
 
 <h1>Decline of Science</h1>
- <p>Take, for example, the decline of disruptive science,</p>
+ <p>For another example, take the decline of disruptive science,</p>
  <div class="_quotation">
   <p>The number of science and technology research papers published has skyrocketed over the past few decades &ndash; but the &lsquo;disruptiveness&rsquo; of those papers has dropped. &hellip;</p>
   <p>Data from millions of manuscripts show that, compared with the mid-twentieth century, research done in the 2000s was much more likely to incrementally push science forward than to veer off in a new direction and render previous work obsolete. Analysis of patents from 1976 to 2010 showed the same trend.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
@@ -44,7 +44,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>In sheer numbers, there is more research, but it trends towards improvement and not discovery. This is really bad because we can recognize and celebrate improvements (&ldquo;Wow, that’s going to make us live longer!&rdquo;), but we don’t recognize discoveries until it hits us in the face (&ldquo;WAT? We can generate energy like the Sun does?&rdquo;).</p>
 
 <h1>Fragile Food</h1>
- <p>Another example comes from our food supply that it is getting more and more fagile as we consume fewer and fewer food varieties.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
+ <p>Another example comes from our food supply: food productiopn is getting more and more fagile as we consume fewer and fewer food varieties.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
  <div class="_quotation">
   <p>&ldquo;The ways in which plants are used by societies around the world have narrowed drastically over the past 500 years.&rdquo;<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></p>
   <p>&ldquo;Crop growers worldwide face enormous challenges. Plants are becoming less resistant to pests and diseases. Crops are more likely to be damaged or fail because of droughts, heatwaves, floods, salinization and rising sea levels. Soils are degraded; rivers and watersheds are polluted; and the diversity and abundance of crop pollinators are in steep decline.&rdquo;</p>
