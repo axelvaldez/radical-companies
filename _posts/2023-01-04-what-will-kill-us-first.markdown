@@ -60,7 +60,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>We will most likely get a chance to restart, but with a decimated community. The whole thing will be very fragile as we restart from near-scratch.</p>
 
 <h1>The Anthropocene</h1>
- <p>This will happen to humanity, and the Anthropocene will end, if we don’t do something about the direction we are going. Our gasoline car is heading towards world-wide homogeneity and climate change.</p>
+ <p>This will happen to humanity, and the Anthropocene will end, if we don’t do something about the direction we are going. Our fossil fuel car is heading towards world-wide homogeneity and climate change.</p>
 
 <h1>RADICAL Mindset</h1>
  <p>One way to protect us against this is the RADICAL mindset. If we manage to spread it widely, then we will have a chance to not end up in the same place we are today, with competition rampant, and domination as the only humanity-wide <em>umwelt</em>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
