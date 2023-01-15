@@ -113,7 +113,7 @@ image:    "icon-what-will-kill-us-first.svg"
    <td colspan="2">
     <div class="_center">
      <img
-      src="/assets/img/en-alignment.svg"
+      src="/assets/img/explicit-alignment-en.svg"
       width="70%"
       alt="">
     </div>
