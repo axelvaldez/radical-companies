@@ -17,7 +17,7 @@ image:    "icon-resistance-to-radical.svg"
    width="100%"
    alt="caca">
  </div>
- <p>Resistance to co-ownership will come from everywhere. A safe bet is that the sole owners will say that it is a communist plot. But it will come from non-onwers, too.</p>
+ <p>Resistance to co-ownership will come from everywhere. A safe bet is that some, maybe many, owners will say that it is a communist plot. But it will come from non-onwers, too.</p>
 
 <img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
 
