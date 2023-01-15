@@ -20,7 +20,8 @@ image:    "icon-we-are-blind-to-it.svg"
 <h1><span class="_paradigm">FIAT</span> Hierarchy</h1>
  <ul>
   <li>We assume that the <span class="_paradigm">FIAT</span> hierarchy is forever and cannot be changed.</li>
-  <li>We feel the problems, but can’t see the <span class="_paradigm">FIAT</span> system as the source of it all. We haven’t had a name for it.</li>
+  <li>We feel the problems, but can’t see the <span class="_paradigm">FIAT</span> system as the source of it all.</li>
+  <li>We haven&lsquo;t even had a name for it.</li>
   <li>We are blind to it.</li>
  </ul>
 
