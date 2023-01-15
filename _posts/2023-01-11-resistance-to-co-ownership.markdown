@@ -14,8 +14,8 @@ image:    "icon-resistance-to-radical.svg"
  <div class="_center">
   <img
    src="/assets/img/resistance-to-radical.svg"
-   width="70%"
-   alt="">
+   width="100%"
+   alt="caca">
  </div>
  <p>Resistance to co-ownership will come from everywhere. A safe bet is that the sole owners will say that it is a communist plot. But it will come from non-onwers, too.</p>
 
