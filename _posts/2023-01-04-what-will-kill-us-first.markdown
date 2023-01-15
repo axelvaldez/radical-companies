@@ -14,7 +14,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>Which will destroy the Anthropocene<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> first, climate change or homogeneity?</p>
 
 <h1>Climate Change</h1>
- <p>Climate change is by now an obvious one,</p>
+ <p>First, take climate change,</p>
  <ul> 
   <li>Changes to temperature patterns change weather patterns.</li>
   <li>Changes to weather patterns change agricultural growth patterns and wild species habitats (<em>i.e.</em>, even more so and faster than we have).</li>
@@ -24,6 +24,7 @@ image:    "icon-what-will-kill-us-first.svg"
  </ul>
 
 <h1>Homogeneity</h1>
+ <p>The other thing happening now is the trend towards homogeneity in many fields.</p>
  <p>As every nation moves towards being run like every other nation, experimentation goes down and nations approach an inevitable, all powerful, forever state. Today we can still compare, for example, the US to Europe when it comes to, say, healthcare. But as homogeneity sets in, distinctions will be minimal and easily brushed off.</p>
  <p>This move towards homogeneity is not &ldquo;coming&rdquo;, it is already happening and here are a couple of examples.</p>
 
