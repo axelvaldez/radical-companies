@@ -97,10 +97,10 @@ image:    "icon-what-will-kill-us-first.svg"
   <tr style="background-color:#EEEEEE; ">
    <th><em><span class="_paradigm">RAD</span>s!</em></th>
    <td>This is the most general tool in that it can be used by any one community or an ensemble of communities. For more, see,
-                                  <em>Get Rid of Ownership</em>,<a href="#en06"><sup id="bm06">6&nbsp;</sup></a>,
-    <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en07"><sup id="bm07">7&nbsp;</sup></a>,
-     <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en08"><sup id="bm08">8&nbsp;</sup></a>,
-                                <em>No Bonuses or Salaries</em>,<a href="#en09"><sup id="bm09">9&nbsp;</sup></a>
+                                  <em>Get Rid of Ownership</em>,<a href="#en06"> <sup id="bm06">6&nbsp;</sup></a>
+    <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en07"> <sup id="bm07">7&nbsp;</sup></a>
+     <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en08"> <sup id="bm08">8&nbsp;</sup></a>
+                                <em>No Bonuses or Salaries</em>,<a href="#en09"> <sup id="bm09">9&nbsp;</sup></a>
         and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en10"><sup id="bm10">10&nbsp;</sup></a>
    </td>
   </tr>
