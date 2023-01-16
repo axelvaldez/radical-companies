@@ -15,7 +15,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
  <p class="_citation">“What about people who don’t seem to care? They just want to be told what to do?”</o>
  <p>This may be because that’s what has worked for them,</p>
  <p class="_citation">“Do what the boss says and you can’t be blamed. He may yell at you, but if heads roll, it won’t be mine.”</p>
- <p>This maintains the status quo. And the great majority of people don’t expect any more than the status quo. So, you must find a way to help learn the alternatives.</p>
+ <p>It maintains the status quo. And the great majority of people don’t expect any more than the status quo. So, you must find a way to help learn the alternatives.</p>
 
 <h1>Preaching, Shaming, and Pressure</h1>
  <table>
