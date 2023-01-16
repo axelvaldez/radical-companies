@@ -29,6 +29,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
     <p>So, you learn to do it all the time hoping that one day it will let you get in the real race.</p>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>
     <p style="first-line:-1.5em; ">&mdash; A guy hit me (sob).</p>
@@ -41,6 +43,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </ul>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>Be absolutely sure</th>
    <td>
@@ -50,6 +54,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </ul>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>Rebut</th>
    <td>
@@ -59,6 +65,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </ul>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>Debate</th>
    <td>
@@ -69,6 +77,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </ul>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <td class="_filler"></td>
   </tr>
