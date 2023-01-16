@@ -3,7 +3,7 @@ layout:   post
 title:    "What About People Who Don&rsquo;t Care?"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-what-about-people-who-dont-care.svg"
 ---
 
 <div style="display:none;">
