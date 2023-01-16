@@ -252,7 +252,6 @@ li {
 table {
   width:70%;
   margin-bottom:20px;
-  align-self:center;
 }
 table th {
   text-align:right;
@@ -265,7 +264,7 @@ table td {
   text-align:left;
   vertical-align:top;
   padding-left:1em;
-  padding-right: 1em;
+  padding-right:1em;
 }
 table td._spacer {
   column-span:all;

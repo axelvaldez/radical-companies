@@ -18,7 +18,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
  <p>It maintains the status quo. And the great majority of people don’t expect any more than the status quo. So, you must find a way to help learn the alternatives.</p>
 
 <h1>Preaching, Shaming, and Pressure</h1>
- <table style="width:90%; align:center; ">
+ <table class="_center" style="width:90%; ">
   <tr style="background-color:#EEEEEE; ">
    <td style="width:60%; ">“This will be really good for you!”</td>
    <td style="width:40%; border-left:1px dashed black; ">Preaching is not going to help.</td>
@@ -38,7 +38,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
 
 <h1>Respond from Love</h1>
  <p>Respond, not <em>react</em>, to statements like this from love, not blame. For this to work you’ll have to show your commitment to their success in the <span class="_paradigm">RADICAL</span> environment.</p>
- <table style="width:90%; align:center; ">
+ <table class="_center" style="width:90%; ">
   <tr style="background-color:#EEEEEE; ">
    <td style="text-align: right">Ask</td>
    <td style="border-left:1px dashed black; ">
