@@ -18,18 +18,18 @@ image:    "icon-what-about-people-who-dont-care.svg"
  <p>It maintains the status quo. And the great majority of people don’t expect any more than the status quo. So, you must find a way to help learn the alternatives.</p>
 
 <h1>Preaching, Shaming, and Pressure</h1>
- <table>
+ <table style="width:100%; ">
   <tr>
-   <td style="width:70%">“This will be really good for you!”</td>
-   <td style="width:30%">Preaching is not going to help.</td>
+   <td style="width:70%; ">“This will be really good for you!”</td>
+   <td style="width:30%; border-left:1px dashed black; color:#EEEEEE; ">Preaching is not going to help.</td>
   </tr>
   <tr>
-   <td style="width:70%">&ldquo;What kind of stupid question is that?&rdquo;</td>
-   <td style="width:30%">Shaming and force are not going to help.</td>
+   <td style="width:70%; ">&ldquo;What kind of stupid question is that?&rdquo;</td>
+   <td style="width:30%; border-left:1px dashed black; ">Shaming and force are not going to help.</td>
   </tr>
   <tr>
-   <td style="width:70%">&ldquo;Just try it for a while and you’ll see how good it is.&rdquo;</td>
-   <td style="width:30%">Pressure is not going to help.</td>
+   <td style="width:70%; ">&ldquo;Just try it for a while and you’ll see how good it is.&rdquo;</td>
+   <td style="width:30%; border-left:1px dashed black; color:#EEEEEE; ">Pressure is not going to help.</td>
   </tr>
   <tr>
    <td class="_filler"></td>
@@ -38,7 +38,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
 
 <h1>Respond from Love</h1>
  <p>Respond, not <em>react</em>, to statements like this from love, not blame. For this to work you’ll have to show your commitment to their success in the <span class="_paradigm">RADICAL</span> environment.</p>
- <table>
+ <table style="width:100%; ">
   <tr>
    <td style="text-align: right">Ask</td>
    <td>
