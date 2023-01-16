@@ -26,7 +26,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
    <th>Name dropping & quoting authorities</th>
    <td>
     <p>Name dropping is a tool of competition.</p>
-    <p>In the FIAT world, you have to build up your credibility before people listen to you, and quoting “experts,” “authorities,” and other well known people builds your credibility.<p>
+    <p>In the FIAT world, you have to build up your credibility before people listen to you, and quoting “experts,” “authorities,” and other well known people builds your credibility.</p>
     <p>So, you learn to do it all the time hoping that one day it will let you get in the real race.</p>
    </td>
   </tr>
