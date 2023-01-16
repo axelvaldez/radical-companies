@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "Lazy. Greedy. Cowardly"
-subtitle: "TEMPLATE".
+subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-lazy-greedy-cowardly.svg"
 ---
