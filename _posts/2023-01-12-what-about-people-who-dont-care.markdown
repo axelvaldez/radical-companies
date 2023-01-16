@@ -37,7 +37,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
  </table>
 
 <h1>Respond from Love</h1>
- <p>Respond, not <em>react</em>, to statements like this from love, not blame. For this to work you’ll have to show your commitment to their success in the new environment that is going to come together.</p>
+ <p>Respond, not <em>react</em>, to statements like this from love, not blame. For this to work you’ll have to show your commitment to their success in the <span class="_paradigm">RADICAL</span> environment.</p>
  <table>
   <tr>
    <td style="text-align: right">Ask</td>
