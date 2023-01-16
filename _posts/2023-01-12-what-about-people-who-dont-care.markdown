@@ -37,14 +37,14 @@ image:    "icon-what-about-people-who-dont-care.svg"
  </table>
 
 <h1>Respond from Love</h1>
- <p>Respond, not <em>react</em>, to statements like this from love, not blame.</p>
+ <p>Respond, not <em>react</em>, to statements like this from love, not blame. For this to work you’ll have to show your commitment to their success in the new environment that is going to come together.</p>
  <table>
   <tr>
    <td style="text-align: right">Ask</td>
    <td>
     <ul>
-     <li>What else do they need to know?</li>
-     <li>How does it feel?</li>
+     <li>What else do you need to know?</li>
+     <li>How does it feel to you?</li>
     </ul>
    </td>
   </tr>
@@ -60,7 +60,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
   </tr>
   <tr>
    <td style="text-align: right">Keep asking</td>
-   <td>For this to work you’ll have to show your commitment to their success in the new environment that is going to come together.
+   <td>
     <ul>
      <li>What can I do?</li> 
     </ul>
