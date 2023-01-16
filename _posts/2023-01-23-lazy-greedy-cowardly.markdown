@@ -10,16 +10,12 @@ image:    "icon-lazy-greedy-cowardly.svg"
  <p>Lazy. Greedy. Cowardly. These are violent words. The words of shaming and gloating.</p>
 </div>
 
-<li>
-</li>
-</ol>
-<p>Matt Perez
-</p>
+<h1></h1>
  <p>Lazy. Greedy. Cowardly. These are violent words. The words of shaming and gloating.</p>
  <p class="_quotation">“You lost because you are lazy.”</p>
  <p class="_quotation">“Greedy bastard, aren’t you getting enough?”</p>
  <p class="_quotation">“You didn’t win because you didn’t dare to, coward.”</p>
- 
+
 <h1>It Won’t Work</h1>
  <p>Even when <em>we say</em> we want to collaborate, we are most likely competing, aiming to dominate. That’s all we’ve learned and all we see in the world around us. And, so, that’s what we do even when we intend to do otherwise.</p>
  <table>
