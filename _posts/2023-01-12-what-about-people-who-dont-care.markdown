@@ -20,16 +20,16 @@ image:    "icon-what-about-people-who-dont-care.svg"
 <h1>Preaching, Shaming, and Pressure</h1>
  <table>
   <tr>
-   <td style="width:60%">“This will be really good for you!”</td>
-   <td style="width:40%">Preaching is not going to help.</td>
+   <td style="width:70%">“This will be really good for you!”</td>
+   <td style="width:30%">Preaching is not going to help.</td>
   </tr>
   <tr>
-   <td style="width:60%">&ldquo;What kind of stupid question is that?&rdquo;</td>
-   <td style="width:40%">Shaming and force are not going to help.</td>
+   <td style="width:70%">&ldquo;What kind of stupid question is that?&rdquo;</td>
+   <td style="width:30%">Shaming and force are not going to help.</td>
   </tr>
   <tr>
-   <td style="width:60%">&ldquo;Just try it for a while and you’ll see how good it is.&rdquo;</td>
-   <td style="width:40%">Pressure is not going to help.</td>
+   <td style="width:70%">&ldquo;Just try it for a while and you’ll see how good it is.&rdquo;</td>
+   <td style="width:30%">Pressure is not going to help.</td>
   </tr>
   <tr>
    <td class="_filler"></td>
@@ -37,11 +37,11 @@ image:    "icon-what-about-people-who-dont-care.svg"
  </table>
 
 <h1>Respond from Love</h1>
+ <p>Respond, not <em>react</em>, to statements like this from love, not blame.</p>
  <table>
   <tr>
    <td style="text-align: right">Ask</td>
    <td>
-    <p>Respond, not <em>react</em>, to statements like this from love, not blame.</p>
     <ul>
      <li>What else do they need to know?</li>
      <li>How does it feel?</li>
@@ -60,7 +60,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
   </tr>
   <tr>
    <td style="text-align: right">Keep asking</td>
-   <td>For this to work you’ll have to show your commitment to their success in the new environment that is going to come together.</td>
+   <td>For this to work you’ll have to show your commitment to their success in the new environment that is going to come together.
     <ul>
      <li>What can I do?</li> 
     </ul>
