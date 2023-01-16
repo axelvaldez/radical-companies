@@ -12,7 +12,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
 
 <h1></h1>
  <p>Lazy. Greedy. Cowardly. These are violent words. The words of shaming and gloating.</p>
- <p class="_quotation">“You lost because you are lazy.”</p>
+ <p class="_citation">“You lost because you are lazy.”</p>
  <p class="_quotation">“Greedy bastard, aren’t you getting enough?”</p>
  <p class="_quotation">“You didn’t win because you didn’t dare to, coward.”</p>
 
