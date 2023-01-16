@@ -3,7 +3,7 @@ layout:   post
 title:    "Lazy, Greedy, Cowardly"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-lazy-greedy-cowardly.svg"
 ---
 
 <div style="display:none;">
