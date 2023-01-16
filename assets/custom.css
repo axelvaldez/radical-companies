@@ -349,6 +349,8 @@ table._foundation tr:nth-child(4n+1)  {
 ._center {
   text-align:center;
   align-items:center;
+  display:grid;
+  place-items:center;
 }
 ._mb0 {
   margin-bottom:0;
