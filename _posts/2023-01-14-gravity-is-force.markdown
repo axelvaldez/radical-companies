@@ -11,70 +11,59 @@ image:    "icon-lazy-greedy-cowardly.svg"
 
 <h1>Gravity</h1>
  <ul>
-<li>Gravy is a force.
-<li>Gravity is good.
- <p>But force is bad.</p>
- <ul>
-<li>Gravity forces things (like us) to be aligned with the center of massive objects (like the Earth).
-<li>Without gravity there’d be no life.
-</li>
- </ul>
-</li>
+  <li>Gravy is a force.</li>
+  <li>Gravity is good. But force is bad.</li>
+  <li>Gravity forces things (like us) to be aligned with the center of massive objects (like the Earth).
+  <li>Without gravity there’d be no life.</li>
  </ul>
 
 <h1>Once Again</h1>
  <ul>
-<li>A big person forces a small person against the ground.
-<li>The big guy is doing a bad thing.
-<li>But gravity is forcing both the big and small guy to the ground, the only difference is one is on his own legs, the other is not.
-</li>
+  <li>A big person forces a small person against the ground.</li>
+  <li>The big guy is doing a bad thing.</li>
+  <li>But gravity is forcing both the big and small guy to the ground, the only difference is one is on his own legs, the other is not.</li>
  </ul>
 
 <h1>Maybe…</h1>
  <ul>
-<li>A tiger kills and lunches on a bamby-lie deer.
-<li>That is bad for the deer, but good for the tiger.
-<li>So, maybe some force is bad and some.
-</li>
+  <li>A tiger kills and lunches on a bamby-lie deer.</li>
+  <li>That is bad for the deer, but good for the tiger.</li>
+  <li>So, maybe some force is bad and some.</li>
  </ul>
 
 <h1>So, People</h1>
  <p>Maybe force is bad when <em>people</em> apply it to other <em>people</em>.</p>
-<table>
+ <table>
   <tr>
-   <td>It is OK to force cattle into the slaughterhouse. 
-   </td>
-   <td>But, it is not OK to force people into the slaughterhouse.
-<p>
-That would be a <em>crime</em>.
+   <td>It is OK to force cattle into the slaughterhouse.</td>
+   <td>
+    <p>But, it is not OK to force people into the slaughterhouse.
+    <p>That would be a <em>crime</em>.</p>
    </td>
   </tr>
   <tr>
-   <td>Bestiality is OK.
-   </td>
-   <td>But it is not OK to force your sex on other people.
-<p>
-That would be a <em>crime</em>.
-   </td>
-  </tr>
-  <tr>
-   <td>It is OK for people to believe whatever they want.
-   </td>
-   <td>But it is not OK to force people to act as if they believe (what you believe).
-<p>
-That would be a <em>crime</em>.
+   <td>Bestiality is OK.</td>
+   <td>
+    <p>But it is not OK to force your sex on other people.</p>
+    <p>That would be a <em>crime</em>.</p>
    </td>
   </tr>
   <tr>
-   <td>It is OK for people to lust, eat unhealthily, want everything, lay around doing nothing, rage, envy, or show pride (<em>i.e.</em>, the seven deadly sins).
+   <td>It is OK for people to believe whatever they want.</td>
+   <td>
+    <p>But it is not OK to force people to act as if they believe (what you believe).</p>
+    <p>That would be a <em>crime</em>.</p>
    </td>
+  </tr>
+  <tr>
+   <td>It is OK for people to lust, eat unhealthily, want everything, lay around doing nothing, rage, envy, or show pride (<em>i.e.</em>, the seven deadly sins).</td>
    <td>
     <p>But it is not OK to force other people to do any of these things.</p>
     <p>That would be a <em>crime</em>.</p>
    </td>
   </tr>
   <tr>
-   <th>It is OK to force oxen to pull the plow.<th>
+   <td>It is OK to force oxen to pull the plow.<td>
    <td>
     <p>But it is not OK to force people to pull the plow.</p>
     <p>That is called slavery and it is a <em>crime</em>.</p>
