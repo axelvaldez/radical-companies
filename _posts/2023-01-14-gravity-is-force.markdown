@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "icon-gravity-is-force.svg"
 ---
 <div style="display:none;">
- <p></p>
+ <p>Gravy is a force. Gravity is good, but force is bad.</p>
 </div>
 
 <h1>Gravity</h1>
