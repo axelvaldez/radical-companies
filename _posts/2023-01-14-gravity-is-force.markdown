@@ -42,11 +42,6 @@ image:    "icon-gravity-is-force.svg"
      <p>That would be a <em>crime</em>.</p>
     </td>
    </tr>
-  </table>
- </div>
-
- <div class="_center">
-  <table style="width:90%; ">
    <tr>
     <td>It is OK for people to believe whatever they want.</td>
     <td>
@@ -54,11 +49,6 @@ image:    "icon-gravity-is-force.svg"
      <p>That would be a <em>crime</em>.</p>
     </td>
    </tr>
-  </table>
- </div>
- 
- <div class="_center">
-  <table style="width:90%; ">
    <tr>
     <td>It is OK for people to lust, eat unhealthily, want everything, lay around doing nothing, rage, envy, or show pride (<em>i.e.</em>, the seven deadly sins).</td>
     <td>
@@ -66,11 +56,6 @@ image:    "icon-gravity-is-force.svg"
      <p>That would be a <em>crime</em>.</p>
     </td>
    </tr>
-  </table>
- </div>
- 
- <div class="_center">
-  <table style="width:90%; ">
    <tr>
     <td>It is OK to force oxen to pull the plow.</td>
     <td>
@@ -78,11 +63,6 @@ image:    "icon-gravity-is-force.svg"
      <p>That is would be slavery, and it is a <em>crime</em>.</p>
     </td>
    </tr>
-  </table>
- </div>
-
- <div class="_center">
-  <table style="width:90%; ">
    <tr>
     <td class="_filler"></td>
    </tr>
