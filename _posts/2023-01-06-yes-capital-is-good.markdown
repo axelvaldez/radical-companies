@@ -11,7 +11,7 @@ image:    "icon-yes-capital-is-good.svg"
  <div>We have to fix that (and we can).</div>
 </div>
 
-<h1>An Outline</h1>
+<h1>&nbsp;</h1>
  <ul>
   <li>In the beginning, there were <em>enclosures</em>.</li>
   <li>Enclosures begat capital.</li>
