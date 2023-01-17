@@ -94,7 +94,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
  </ul>
  <p>Competition also means&hellip;</p>
  <ul>
-  <li>Polarizing people. &ldquo;Humanity needs a strong leader.&rdquo; This mindset means that the boss is above the people who work for him.</li>
+  <li>Dividng people. The &ldquo;strong leader&rdquo; mindset makes the boss special, above the people who work for him.</li>
   <li>Other lines of division,
    <ul>
     <li>Owners and employees.</li>
