@@ -20,8 +20,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
 
 <h1>It Won’t Work</h1>
  <p>Even when <em>we say</em> we want to collaborate, we are most likely competing, aiming to dominate. That’s all we’ve learned and all we see in the world around us. And, so, that’s what we do even when we intend to do otherwise.</p>
- <div class="_center;">
-  <table style="width:80%; ">
+ <div class="_center">
+  <table style="width:90%; ">
    <tr style="background-color:#EEEEEE; ">
     <th style="border-right:1px dashed black; width:35%; ">Name dropping &quoting authorities</th>
     <td style="width:60%; ">
@@ -104,7 +104,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
 
 <h1>Competition Means&hellip;</h1>
  <ul>
-  <li>Dividing people. &ldquo;Humanity needs a strong leader.&rdquo; This way of thinking makes the boss different, above the rest.</li>
+  <li>Dividing people. &ldquo;Humanity needs a strong leader.&rdquo; This way of thinking makes the boss different, above the people who work for him.</li>
   <li>Other divisions,
    <ul>
     <li>Owners and employees.</li>
