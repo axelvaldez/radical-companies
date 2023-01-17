@@ -39,7 +39,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
      </p>
     </th>
     <td>
-     <ul>
+     <ul style="text-align:left; ">
       <li>We are taught to be aggressive.</li>
       <li>We see people get ahead in the scarcity line by being aggressive.</li>
      </ul>
