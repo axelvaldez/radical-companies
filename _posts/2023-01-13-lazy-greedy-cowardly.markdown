@@ -123,7 +123,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
  </ul>
  <p>Collaboration also means&hellip;,</p>
  <ul>
-  <li>Disagreeing when you think it is called for. Then working on alignment, which takes work.</li>
+  <li>Disagreeing when you think it is called for. Then working on alignment, which sometimes takes lotd og effort.</li>
   <li>The capacity to create something together.</li>
   <li>To have my attractor dominate. It becomes meaningful when everybody agrees with me. It becomes practical when everybody works on it. It may take violence to make all agree.</li>
   <li>Multiple views.</li>
