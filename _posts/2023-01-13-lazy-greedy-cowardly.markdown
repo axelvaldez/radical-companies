@@ -12,9 +12,9 @@ image:    "icon-lazy-greedy-cowardly.svg"
 
 <h1></h1>
  <div class="_citation">
-  <p>“You lost because you are lazy.”</p>
-  <p>“Greedy bastard, aren’t you getting enough?”</p>
-  <p>“You didn’t win because you didn’t dare to, coward.”</p>
+  <p>&ldquo;You lost because you are lazy.&rdquo;</p>
+  <p>&ldquo;Greedy bastard, aren’t you getting enough?&rdquo;</p>
+  <p>&ldquo;You didn’t win because you didn’t dare to, coward.&rdquo;</p>
  </div>
  <p>Lazy. Greedy. Cowardly. These are violent words, the words of gloating and  shaming. The words of competition. Typical behavior, even when we are being nice.</p>
 
@@ -29,7 +29,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
      quoting authorities</th>
     <td style="width:60%; ">
      <p>Name dropping is a tool of competition.</p>
-     <p>In the FIAT world, you have to build up your credibility before people listen to you, and quoting “experts,” “authorities,” and other well known people builds your credibility.</p>
+     <p>In the FIAT world, you have to build up your credibility before people listen to you, and quoting &ldquo;experts,” “authorities,&rdquo; and other well known people builds your credibility.</p>
      <p>So, you learn to do it all the time hoping that one day it will let you get in the real race.</p>
     </td>
    </tr>
@@ -87,9 +87,9 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <li>Raising your voice to shut others down.</li>
   <li>Interrupting to establish dominance.</li>
   <li>Talking (and talking) for a long time.</li>
-  <li>Adding “please” at the end of direct orders.</li>
+  <li>Adding &ldquo;please&rdquo; at the end of direct orders.</li>
   <li>Repeating yourself, over and over.</li>
-  <li>Even saying “sorry, but that’s what I feel” after a show of aggression is an act of competition. Even if you <em>are</em> sorry, the damage is done.</li>
+  <li>Even saying &ldquo;sorry, but that’s what I feel&rdquo; after a show of aggression is an act of competition. Even if you <em>are</em> sorry, the damage is done.</li>
  </ul>
 
 <h1>Collaborate Out of Love</h1>
