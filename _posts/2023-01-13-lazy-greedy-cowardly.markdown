@@ -83,6 +83,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
  </div>
 
 <h1>Let’s Compete</h1>
+ <p>We have learned this throughout our lives, just by watching the (financially) successful adults around us.
  <ul>
   <li>Raising your voice to shut others down.</li>
   <li>Interrupting to establish dominance.</li>
@@ -91,24 +92,9 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <li>Repeating yourself, over and over.</li>
   <li>Even saying &ldquo;sorry, but that’s what I feel&rdquo; after a show of aggression is an act of competition. Even if you <em>are</em> sorry, the damage is done.</li>
  </ul>
-
-<h1>Collaborate Out of Love</h1>
+ <p>Competition Means&hellip;</p>
  <ul>
-  <li>Listen.</li>
-  <li>Paraphrase.</li>
-  <li>Celebrate.</li>
-  <li>Add to others ideas.</li>
-  <li>If you don’t like something or disagree, <em>say so</em>. Don’t punch holes in others’ ideas.</li>
- </ul>  
-
-<h1>Competition, Collaboration</h1>
- <p>Collaboration doesn’t mean agreeing to everything. Collaboration means the capacity to create something together.</p>
- <p>Competition means to have my attractor dominate. It becomes meaningful when everybody agrees with me. It becomes practical when everybody works on it. Even if it takes some form of violence.</p>
- <p>Collaboration is multiple views moving towards an attractor, making it meaningful. Going to the root of the radical attractor. Collaboration means creating the conditions for this attractor to become meaningful to others. No violence is ever involved.</p>
-
-<h1>Competition Means&hellip;</h1>
- <ul>
-  <li>Dividing people. &ldquo;Humanity needs a strong leader.&rdquo; This way of thinking makes the boss different, above the people who work for him.</li>
+  <li>Polarizing people. &ldquo;Humanity needs a strong leader.&rdquo; This mindset means that the boss is above the people who work for him.</li>
   <li>Other lines of division,
    <ul>
     <li>Owners and employees.</li>
@@ -125,14 +111,31 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <li>Only coins count as motivators.</li>
  </ul>
 
-<h1>Collaboration Means&hellip;</h1>
-  <ul>
-   <li>What we are doing is meaningful to all involved.</li>
-   <li>I work with people who are always ready to help me find meaning and dignity.</li>
-   <li>There is no boss. We align, and we work and we create. It’s all decentralized but cogent.</li>
-   <li>Everything is fully transparent. No exceptions.</li>
-   <li>We consider all we do an experiment. It either works as expected, or we learn.</li>
-  </ul>
+<h1>Collaborate Out of Love</h1>
+ <ul>
+  <li>Listen.</li>
+  <li>Paraphrase.</li>
+  <li>Celebrate.</li>
+  <li>Add to others ideas.</li>
+  <li>Jump in to help is asked to.</li>
+  <li>If you don’t like something or disagree, <em>say so</em>.
+  <li>Don’t punch holes in others&rsquo ideas to &ldquo;win.&rdquo;</li>
+ </ul>
+ <p>Collaboration Means&hellip;</p>
+ <ul>
+  <li>Disagreeing when you think it is called for. Then working on alignment, which takes work.</li>
+  <li>The capacity to create something together.</li>
+  <li>To have my attractor dominate. It becomes meaningful when everybody agrees with me. It becomes practical when everybody works on it. It may take violence to make all agree.</li>
+  <li>Multiple views.</li>
+  <li>Moving towards a common attractor, making it meaningful.</li>
+  <li>Creating the conditions for this RADICAL attractor to become meaningful to others.</li>
+  <li>No violence is ever allowed to be involved.</li>
+  <li>What we are doing is meaningful to all involved.</li>
+  <li>I work with people who are always ready to help me find meaning and dignity.</li>
+  <li>There is no boss. We align, and we work and we create. It’s all decentralized but cogent.</li>
+  <li>Everything is fully transparent. No exceptions.</li>
+  <li>We consider all we do an experiment. It either works as expected, or we learn.</li>
+ </ul>
 
 <h1 class="_section">RELATED</h1>
  <ul>
