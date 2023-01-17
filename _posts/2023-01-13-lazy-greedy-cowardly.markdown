@@ -80,6 +80,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
     <td class="_filler"></td>
    </tr>
   </table>
+ </div>
 
 <h1>Let’s Compete</h1>
  <ul>
