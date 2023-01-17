@@ -38,7 +38,7 @@ image:    "icon-gravity-is-force.svg"
    <tr>
     <td>It is OK to force cattle into the slaughterhouse.</td>
     <td>
-     <p>But, it is not OK to force people into the slaughterhouse.
+     <p>But, it is not OK to force people into the slaughterhouse.</p>
      <p>That would be a <em>crime</em>.</p>
     </td>
    </tr>
