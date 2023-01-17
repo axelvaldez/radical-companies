@@ -92,7 +92,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <li>Repeating yourself, over and over.</li>
   <li>Even saying &ldquo;sorry, but that’s what I feel&rdquo; after a show of aggression is an act of competition. Even if you <em>are</em> sorry, the damage is done.</li>
  </ul>
- <p>Competition Means&hellip;</p>
+ <p>Competition also means&hellip;</p>
  <ul>
   <li>Polarizing people. &ldquo;Humanity needs a strong leader.&rdquo; This mindset means that the boss is above the people who work for him.</li>
   <li>Other lines of division,
@@ -121,7 +121,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <li>If you don’t like something or disagree, <em>say so</em>.
   <li>Don’t punch holes in others&rsquo ideas to &ldquo;win.&rdquo;</li>
  </ul>
- <p>Collaboration Means&hellip;</p>
+ <p>Collaboration also means&hellip;</p>
  <ul>
   <li>Disagreeing when you think it is called for. Then working on alignment, which takes work.</li>
   <li>The capacity to create something together.</li>
