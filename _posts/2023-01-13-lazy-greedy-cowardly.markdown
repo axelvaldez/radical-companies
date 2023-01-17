@@ -22,8 +22,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
  <p>Even when <em>we say</em> we want to collaborate, we are most likely competing, aiming to dominate. That’s all we’ve learned and all we see in the world around us. And, so, that’s what we do even when we intend to do otherwise.</p>
  
  <table>
-  <tr>
-   <th>Name dropping & quoting authorities</th>
+  <tr style="#EEEEEE; ">
+   <th style="border-right:1px dashed black">Name dropping & quoting authorities</th>
    <td>
     <p>Name dropping is a tool of competition.</p>
     <p>In the FIAT world, you have to build up your credibility before people listen to you, and quoting “experts,” “authorities,” and other well known people builds your credibility.</p>
@@ -31,7 +31,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
    </td>
   </tr>
   <tr>
-   <th>
+   <th style="border-right:1px dashed black">
     <p style="first-line:-1.5em; ">&mdash; A guy hit me (sob).</p>
     <p style="first-line:-1.5em; ">&mdash; You should have hit him back, harder!</p>
    </th>
@@ -42,8 +42,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </ul>
    </td>
   </tr>
-  <tr>
-   <th>Be absolutely sure</th>
+  <tr style="#EEEEEE; ">
+   <th style="border-right:1px dashed black">Be absolutely sure</th>
    <td>
     <ul>
      <li>You know this. For sure. Absolutely. So, say it loud and clear.</li>
@@ -52,7 +52,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
    </td>
   </tr>
   <tr>
-   <th>Rebut</th>
+   <th style="border-right:1px dashed black">Rebut</th>
    <td>
     <ul>
      <li>Agree but rebut with your own ideas.</li>
@@ -60,8 +60,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </ul>
    </td>
   </tr>
-  <tr>
-   <th>Debate</th>
+  <tr style="#EEEEEE; ">
+   <th style="border-right:1px dashed black">Debate</th>
    <td>
     <ul>
      <li>We learn to debate, but not to do the opposite.</li>
