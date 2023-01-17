@@ -16,7 +16,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <p>&ldquo;Greedy bastard, aren’t you getting enough?&rdquo;</p>
   <p>&ldquo;You didn’t win because you didn’t dare to, coward.&rdquo;</p>
  </div>
- <p>Lazy. Greedy. Cowardly. These are violent words, the words of gloating and  shaming. The words of competition. Typical behavior, even when we are being nice.</p>
+ <p>Lazy. Greedy. Cowardly. These are violent words, the words of gloating and  shaming. The words of competition. Typical behavior, even when we are being nice.<a href="#en01><sup id="bm01">1&nbsp;</sup></a></p>
 
 <h1>It Won’t Work</h1>
  <p>Even when <em>we say</em> we want to collaborate, we are most likely competing, aiming to dominate. That’s all we’ve learned and all we see in the world around us. And, so, that’s what we do even when we intend to do otherwise.</p>
@@ -136,6 +136,20 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <li>Everything is fully transparent. No exceptions.</li>
   <li>We consider all we do an experiment. It either works as expected, or we learn.</li>
  </ul>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ol>
+  <li id="en01">
+   <p class="_list-item">
+    They are also energy conservation words. See,
+    Elisabeth A. Murray, Steven P. Wise, et al.
+    <em>The Evolutionary Road to Human Memory.</em>
+    2021.
+    &lt;<a href="https://a.co/0wD4UYx" target="_blank">https://a.co/0wD4UYx</a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ol>
 
 <h1 class="_section">RELATED</h1>
  <ul>
