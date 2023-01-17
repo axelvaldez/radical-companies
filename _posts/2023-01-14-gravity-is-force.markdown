@@ -13,7 +13,7 @@ image:    "icon-gravity-is-force.svg"
  <ul>
   <li>Gravy is a force.</li>
   <li>Gravity is good. But force is bad.</li>
-  <li>Gravity forces things (like us) to be aligned with the center of massive objects (like the Earth).
+  <li>Gravity forces things (like us) to be aligned with the center of massive objects (like the Earth).</li>
   <li>Without gravity there’d be no life.</li>
  </ul>
 
