@@ -111,10 +111,13 @@ image:    "icon-lazy-greedy-cowardly.svg"
  <p>Competition means taking hope and dignity out. These things lie outside the work I need. People have to make a living, so only coins count.</p>
 
 <h1>Collaboration</h1>
- <p>Collaboration means that what we are doing is meaningful to all involved.</p>
- <p>Collaboration means that I work with people who are eager to help me find meaning and dignity.</p>
- <p>Collaboration means there is no boss. We align, and we work and we create. It’s all decentralized but cogent.</p>
- <p>Collaboration means that everything is fully transparent. No exceptions.</p>
+ <p>Collaboration means that,</p>
+  <ul>
+   <li>What we are doing is meaningful to all involved.</li>
+   <li>I work with people who are always ready to help me find meaning and dignity.</li>
+   <li>There is no boss. We align, and we work and we create. It’s all decentralized but cogent.</li>
+   <li>Everything is fully transparent. No exceptions.</li>
+  </ul>
  <p>And collaboration means that we consider all we do an experiment and we either meet it or we learn.</p>
 
 <h1 class="_section">RELATED</h1>
