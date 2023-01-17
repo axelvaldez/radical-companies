@@ -20,8 +20,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
 
 <h1>It Won’t Work</h1>
  <p>Even when <em>we say</em> we want to collaborate, we are most likely competing, aiming to dominate. That’s all we’ve learned and all we see in the world around us. And, so, that’s what we do even when we intend to do otherwise.</p>
- <div class="_center;" style="width:80%; ">
-  <table>
+ <div class="_center;">
+  <table style="width:80%; ">
    <tr style="background-color:#EEEEEE; ">
     <th style="border-right:1px dashed black; width:35%; ">Name dropping &quoting authorities</th>
     <td style="width:60%; ">
@@ -102,8 +102,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
  <p>Competition means to have my attractor dominate. It becomes meaningful when everybody agrees with me. It becomes practical when everybody works on it. Even if it takes some form of violence.</p>
  <p>Collaboration is multiple views moving towards an attractor, making it meaningful. Going to the root of the radical attractor. Collaboration means creating the conditions for this attractor to become meaningful to others. No violence is ever involved.</p>
 
-<h1>Competition</h1>
- <p>Competition means,</p>
+<h1>Competition Means&hellip;</h1>
  <ul>
   <li>Dividing people. &ldquo;Humanity needs a strong leader.&rdquo; This way of thinking makes the boss different, above the rest.</li>
   <li>Other divisions,
@@ -121,8 +120,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <li>Only coins count as motivators.</li>
  </ul>
 
-<h1>Collaboration</h1>
- <p>Collaboration means that,</p>
+<h1>Collaboration Means&hellip;</h1>
   <ul>
    <li>What we are doing is meaningful to all involved.</li>
    <li>I work with people who are always ready to help me find meaning and dignity.</li>
