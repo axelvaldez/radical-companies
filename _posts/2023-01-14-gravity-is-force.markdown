@@ -35,29 +35,29 @@ image:    "icon-gravity-is-force.svg"
  <p>Maybe force is bad when <em>people</em> apply it to other <em>people</em>.</p>
  <div class="_center">
   <table style="width:90%; ">
-   <tr>
-    <td>It is OK to force cattle into the slaughterhouse.</td>
+   <tr style="background-color:#EEEEEE; ">
+    <td style="border-right:1px dashed black; ">It is OK to force cattle into the slaughterhouse.</td>
     <td>
      <p>But, it is not OK to force people into the slaughterhouse.</p>
      <p>That would be a <em>crime</em>.</p>
     </td>
    </tr>
    <tr>
-    <td>It is OK for people to believe whatever they want.</td>
+    <td style="border-right:1px dashed black; ">It is OK for people to believe whatever they want.</td>
     <td>
      <p>But it is not OK to force people to act as if they believe (what you believe).</p>
      <p>That would be a <em>crime</em>.</p>
     </td>
    </tr>
-   <tr>
-    <td>It is OK for people to lust, eat unhealthily, want everything, lay around doing nothing, rage, envy, or show pride (<em>i.e.</em>, the seven deadly sins).</td>
+   <tr style="background-color:#EEEEEE; ">
+    <td style="border-right:1px dashed black; ">It is OK for people to lust, eat unhealthily, want everything, lay around doing nothing, rage, envy, or show pride (<em>i.e.</em>, the seven deadly sins).</td>
     <td>
      <p>But it is not OK to force other people to do any of these things.</p>
      <p>That would be a <em>crime</em>.</p>
     </td>
    </tr>
    <tr>
-    <td>It is OK to force oxen to pull the plow.</td>
+    <td style="border-right:1px dashed black; ">It is OK to force oxen to pull the plow.</td>
     <td>
      <p>But it is not OK to force people to pull the plow.</p>
      <p>That is would be slavery, and it is a <em>crime</em>.</p>
