@@ -106,7 +106,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
    </ul>
   </li>
   <li>Polarized people are easier to lead by the nose. People help each other to not submit. They are a pain to control.</li>
-  <li>Taking hopefulness and dignity out out of work that others have to do, because they are not owners.</li>
+  <li>Taking hopefulness and dignity out out of work that others have to do for me, because they are not owners.</li>
   <li>Hopefulness and dignity things lie outside the work I need them to do.</li>
   <li>Only coins count as motivators.</li>
  </ul>
