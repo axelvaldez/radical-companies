@@ -42,13 +42,11 @@ image:    "icon-gravity-is-force.svg"
      <p>That would be a <em>crime</em>.</p>
     </td>
    </tr>
-   <tr>
-    <td>Bestiality is OK.</td>
-    <td>
-     <p>But it is not OK to force your sex on other people.</p>
-     <p>That would be a <em>crime</em>.</p>
-    </td>
-   </tr>
+  </table>
+ </div>
+
+ <div class="_center">
+  <table style="width:90%; ">
    <tr>
     <td>It is OK for people to believe whatever they want.</td>
     <td>
@@ -56,6 +54,11 @@ image:    "icon-gravity-is-force.svg"
      <p>That would be a <em>crime</em>.</p>
     </td>
    </tr>
+  </table>
+ </div>
+ 
+ <div class="_center">
+  <table style="width:90%; ">
    <tr>
     <td>It is OK for people to lust, eat unhealthily, want everything, lay around doing nothing, rage, envy, or show pride (<em>i.e.</em>, the seven deadly sins).</td>
     <td>
@@ -63,19 +66,29 @@ image:    "icon-gravity-is-force.svg"
      <p>That would be a <em>crime</em>.</p>
     </td>
    </tr>
+  </table>
+ </div>
+ 
+ <div class="_center">
+  <table style="width:90%; ">
    <tr>
     <td>It is OK to force oxen to pull the plow.</td>
     <td>
      <p>But it is not OK to force people to pull the plow.</p>
-     <p>That is called slavery and it is a <em>crime</em>.</p>
+     <p>That is would be slavery, and it is a <em>crime</em>.</p>
     </td>
    </tr>
+  </table>
+ </div>
+
+ <div class="_center">
+  <table style="width:90%; ">
    <tr>
     <td class="_filler"></td>
    </tr>
   </table>
  </div>
- <p>The FIAT system forces non-owners to labor for sustenance, but that, interestingly, is the very opposite of a <em>crime</em>. It is even celebrated by most religions.</p>
+ <p>The FIAT system forces non-owners to labor for sustenance. Interestingly, this is the very opposite of a <em>crime</em> in <span class="_paradigm">FIAT</span> land. It is even celebrated by most religions.</p>
 
 <h1 class="_section">RELATED</h1>
   <ul>
