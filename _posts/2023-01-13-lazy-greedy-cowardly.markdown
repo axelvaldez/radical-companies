@@ -20,9 +20,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
 
 <h1>It Won’t Work</h1>
  <p>Even when <em>we say</em> we want to collaborate, we are most likely competing, aiming to dominate. That’s all we’ve learned and all we see in the world around us. And, so, that’s what we do even when we intend to do otherwise.</p>
- 
  <table>
-  <tr style="#EEEEEE; ">
+  <tr style="background-color:#EEEEEE; ">
    <th style="border-right:1px dashed black">Name dropping & quoting authorities</th>
    <td>
     <p>Name dropping is a tool of competition.</p>
@@ -42,7 +41,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </ul>
    </td>
   </tr>
-  <tr style="#EEEEEE; ">
+  <tr style="background-color:#EEEEEE; ">
    <th style="border-right:1px dashed black">Be absolutely sure</th>
    <td>
     <ul>
@@ -60,7 +59,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </ul>
    </td>
   </tr>
-  <tr style="#EEEEEE; ">
+  <tr style="background-color:#EEEEEE; ">
    <th style="border-right:1px dashed black">Debate</th>
    <td>
     <ul>
