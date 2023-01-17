@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Gravity Is a Force"
+title:    "Gravity Is Force"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-lazy-greedy-cowardly.svg"
+image:    "icon-gravity-is-force.svg.svg"
 ---
 <div style="display:none;">
  <p></p>
