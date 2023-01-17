@@ -128,8 +128,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
    <li>I work with people who are always ready to help me find meaning and dignity.</li>
    <li>There is no boss. We align, and we work and we create. It’s all decentralized but cogent.</li>
    <li>Everything is fully transparent. No exceptions.</li>
+   <li>We consider all we do an experiment. It either works as expected, or we learn.</li>
   </ul>
- <p>And collaboration means that we consider all we do an experiment and we either meet it or we learn.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
