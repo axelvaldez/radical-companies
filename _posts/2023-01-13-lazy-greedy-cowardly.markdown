@@ -7,7 +7,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
 ---
 
 <div style="display:none;">
- <p>Lazy. Greedy. Cowardly. These are violent words, the words of shaming and gloating.</p>
+ <p>Lazy. Greedy. Cowardly. These are violent words, the words of gloating and  shaming.</p>
 </div>
 
 <h1></h1>
