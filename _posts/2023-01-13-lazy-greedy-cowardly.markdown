@@ -20,59 +20,63 @@ image:    "icon-lazy-greedy-cowardly.svg"
 
 <h1>It Won’t Work</h1>
  <p>Even when <em>we say</em> we want to collaborate, we are most likely competing, aiming to dominate. That’s all we’ve learned and all we see in the world around us. And, so, that’s what we do even when we intend to do otherwise.</p>
- <table>
-  <tr style="background-color:#EEEEEE; ">
-   <th style="border-right:1px dashed black">Name dropping & quoting authorities</th>
-   <td>
-    <p>Name dropping is a tool of competition.</p>
-    <p>In the FIAT world, you have to build up your credibility before people listen to you, and quoting “experts,” “authorities,” and other well known people builds your credibility.</p>
-    <p>So, you learn to do it all the time hoping that one day it will let you get in the real race.</p>
-   </td>
-  </tr>
-  <tr>
-   <th style="border-right:1px dashed black">
-    <p style="first-line:-1.5em; ">&mdash; A guy hit me (sob).</p>
-    <p style="first-line:-1.5em; ">&mdash; You should have hit him back, harder!</p>
-   </th>
-   <td>
-    <ul>
-     <li>We are taught to be aggressive.</li>
-     <li>We see people get ahead in the scarcity line by being aggressive.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr style="background-color:#EEEEEE; ">
-   <th style="border-right:1px dashed black">Be absolutely sure</th>
-   <td>
-    <ul>
-     <li>You know this. For sure. Absolutely. So, say it loud and clear.</li>
-     <li>If anybody shows incredulity, repeat yourself, this time louder and with aggressive moves.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th style="border-right:1px dashed black">Rebut</th>
-   <td>
-    <ul>
-     <li>Agree but rebut with your own ideas.</li>
-     <li>Even if you incorporate what another says, state it as your own.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr style="background-color:#EEEEEE; ">
-   <th style="border-right:1px dashed black">Debate</th>
-   <td>
-    <ul>
-     <li>We learn to debate, but not to do the opposite.</li>
-     <li>We can even win debate medals.</li>
-     <li>Our laws are based on proving the other party wrong (even if she’s right).</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td class="_filler"></td>
-  </tr>
- </table>
+ <div style="_center;" style="width:80%; ">
+  <table>
+   <tr style="background-color:#EEEEEE; ">
+    <th style="border-right:1px dashed black; width:35%; ">Name dropping &quoting authorities</th>
+    <td style="width:60%; ">
+     <p>Name dropping is a tool of competition.</p>
+     <p>In the FIAT world, you have to build up your credibility before people listen to you, and quoting “experts,” “authorities,” and other well known people builds your credibility.</p>
+     <p>So, you learn to do it all the time hoping that one day it will let you get in the real race.</p>
+    </td>
+   </tr>
+   <tr>
+    <th style="border-right:1px dashed black">
+     <p style="first-line:-1.5em; ">
+      [kid]&mdash; A guy hit me (sob).
+      <br>
+      [adult] &mdash; You should have hit him back, harder!
+     </p>
+    </th>
+    <td>
+     <ul>
+      <li>We are taught to be aggressive.</li>
+      <li>We see people get ahead in the scarcity line by being aggressive.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr style="background-color:#EEEEEE; ">
+    <th style="border-right:1px dashed black">Be absolutely sure</th>
+    <td>
+     <ul>
+      <li>You know this. For sure. Absolutely. So, say it loud and clear.</li>
+      <li>If anybody shows incredulity, repeat yourself, this time louder and with aggressive moves.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th style="border-right:1px dashed black">Rebut</th>
+    <td>
+     <ul>
+      <li>Agree but rebut with your own ideas.</li>
+      <li>Even if you incorporate what another says, state it as your own.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr style="background-color:#EEEEEE; ">
+    <th style="border-right:1px dashed black">Debate</th>
+    <td>
+     <ul>
+      <li>We learn to debate, but not to do the opposite.</li>
+      <li>We can even win debate medals.</li>
+      <li>Our laws are based on proving the other party wrong (even if she’s right).</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_filler"></td>
+   </tr>
+  </table>
 
 <h1>Let’s Compete</h1>
  <ul>
@@ -99,16 +103,23 @@ image:    "icon-lazy-greedy-cowardly.svg"
  <p>Collaboration is multiple views moving towards an attractor, making it meaningful. Going to the root of the radical attractor. Collaboration means creating the conditions for this attractor to become meaningful to others. No violence is ever involved.</p>
 
 <h1>Competition</h1>
- <p>Competition means making clear what divides people. Humanity needs a strong leader, that makes me different. What else makes people different?</p>
-  <ul>
-   <li>Owners and employees.</li>
-   <li>Middle class and poor.</li>
-   <li>House owners, house renters, apartment dwellers.</li>
-   <li>Men and women.</li>
-   <li>Juveniles, Adults, Old.</li>
-   <li>Organized religions.</li>
-  </ul>
- <p>Competition means taking hope and dignity out. These things lie outside the work I need. People have to make a living, so only coins count.</p>
+ <p>Competition means,</p>
+ <ul>
+  <li>Dividing people. &ldquo;Humanity needs a strong leader.&rdquo; This way of thinking makes the boss different, above the rest.</li>
+  <li>Other divisions,
+   <ul>
+    <li>Owners and employees.</li>
+    <li>Middle class and poor.</li>
+    <li>House owners, house renters, apartment dwellers.</li>
+    <li>Men and women.</li>
+    <li>Juveniles, Adults, Old.</li>
+    <li>Organized religions.</li>
+   </ul>
+  </li>
+  <li>Taking hopefulness and dignity out out of work that the non-owners have to do, because they are not owners.</li>
+  <li>Hopefulness and dignity things lie outside the work I need them to do.</li>
+  <li>Only coins count as motivators.</li>
+ </ul>
 
 <h1>Collaboration</h1>
  <p>Collaboration means that,</p>
