@@ -109,7 +109,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
 <h1>Competition Means&hellip;</h1>
  <ul>
   <li>Dividing people. &ldquo;Humanity needs a strong leader.&rdquo; This way of thinking makes the boss different, above the people who work for him.</li>
-  <li>Other divisions,
+  <li>Other lines of division,
    <ul>
     <li>Owners and employees.</li>
     <li>Middle class and poor.</li>
@@ -119,7 +119,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
     <li>Organized religions.</li>
    </ul>
   </li>
-  <li>Taking hopefulness and dignity out out of work that the non-owners have to do, because they are not owners.</li>
+  <li>Polarized people are easier to lead by the nose. People help each other to not submit. They are a pain to control.</li>
+  <li>Taking hopefulness and dignity out out of work that others have to do, because they are not owners.</li>
   <li>Hopefulness and dignity things lie outside the work I need them to do.</li>
   <li>Only coins count as motivators.</li>
  </ul>
