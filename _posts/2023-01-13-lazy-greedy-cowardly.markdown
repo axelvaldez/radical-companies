@@ -23,7 +23,10 @@ image:    "icon-lazy-greedy-cowardly.svg"
  <div class="_center">
   <table style="width:90%; ">
    <tr style="background-color:#EEEEEE; ">
-    <th style="border-right:1px dashed black; width:35%; ">Name dropping &quoting authorities</th>
+    <th style="border-right:1px dashed black; width:35%; ">
+     Name dropping &
+     <br>
+     quoting authorities</th>
     <td style="width:60%; ">
      <p>Name dropping is a tool of competition.</p>
      <p>In the FIAT world, you have to build up your credibility before people listen to you, and quoting “experts,” “authorities,” and other well known people builds your credibility.</p>
