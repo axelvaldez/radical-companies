@@ -48,7 +48,7 @@ image:    "icon-gravity-is-force.svg"
  <div class="_center">
   <table style="width:90%; ">
    <tr>
-    <td>It is OK for people to believe whatever they want.</td>
+    <td>It is OK for people to believe whatever they want.</p>
     <td>
      <p>But it is not OK to force people to act as if they believe (what you believe).</p>
      <p>That would be a <em>crime</em>.</p>
