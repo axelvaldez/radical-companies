@@ -113,15 +113,15 @@ image:    "icon-lazy-greedy-cowardly.svg"
 
 <h1>Collaborate Out of Love</h1>
  <ul>
-  <li>Listen.</li>
-  <li>Paraphrase.</li>
-  <li>Celebrate.</li>
-  <li>Add to others ideas.</li>
-  <li>Jump in to help is asked to.</li>
-  <li>If you don’t like something or disagree, <em>say so</em>.
+  <li>Listening.</li>
+  <li>Paraphrasing.</li>
+  <li>Celebrating.</li>
+  <li>Adding to others ideas.</li>
+  <li>Jumping in to help is asked to.</li>
+  <li>Disagreesing if you don’t like something.</li>
   <li>Don’t punch holes in others&rsquo ideas to &ldquo;win.&rdquo;</li>
  </ul>
- <p>Collaboration also means&hellip;</p>
+ <p>Collaboration also means&hellip;,</p>
  <ul>
   <li>Disagreeing when you think it is called for. Then working on alignment, which takes work.</li>
   <li>The capacity to create something together.</li>
