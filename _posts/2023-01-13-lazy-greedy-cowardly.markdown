@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Lazy. Greedy. Cowardly"
+title:    "Lazy. Greedy. Cowardly."
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-lazy-greedy-cowardly.svg"
