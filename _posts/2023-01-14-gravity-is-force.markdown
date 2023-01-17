@@ -3,7 +3,7 @@ layout:   post
 title:    "Gravity Is Force"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-gravity-is-force.svg.svg"
+image:    "icon-gravity-is-force.svg"
 ---
 <div style="display:none;">
  <p></p>
