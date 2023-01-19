@@ -17,23 +17,25 @@ image:    "icon-the-radical-model-is-not-deterministic.svg"
 
 <h1>Foundation</h1>
  <p>The <span class="_paradigm">RADICAL</span> model revolves about its Foundation,</p>
- <table>
-  <tr style="background-color:#EEEEEE; ">
-   <th style="text-align: right">Principles</th>
-   <td>Meaning & Belonging</td>
-  </tr>
-  <tr>
-   <th style="text-align: right">Commitments</th>
-   <td>Decentralization & Transparency</td>
-  </tr>
-  <tr style="background-color:#EEEEEE; ">
-   <th style="text-align: right">Practices</th>
-   <td>Experimentation</td>
-  </tr>
-  <tr>
-   <td class="_filler; "></td>
-  </tr>
- </table>
+  <div class="_center">
+   <table>
+    <tr style="background-color:#EEEEEE; ">
+     <th style="text-align: right">Principles</th>
+     <td>Meaning & Belonging</td>
+    </tr>
+    <tr>
+     <th style="text-align: right">Commitments</th>
+     <td>Decentralization & Transparency</td>
+    </tr>
+    <tr style="background-color:#EEEEEE; ">
+     <th style="text-align: right">Practices</th>
+     <td>Experimentation</td>
+    </tr>
+    <tr>
+     <td class="_filler; "></td>
+    </tr>
+   </table>
+  </div>
  <p>How that is implemented will depend on its community. Will anybody say anything when they are making a decision away from decentralization? Will they notice that a certain decision is taking them away from transparency?</p>
 
 <h1>It’s a Baby!</h1>
