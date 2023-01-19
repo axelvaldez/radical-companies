@@ -7,7 +7,7 @@ image:    "icon-the-radical-model-is-not-deterministic.svg"
 ---
 
 <div style="display:none;">
- <p>The <span class="_paradigm">RADICAL</span> model specifies a Foundation and as such is more like a seed than a tree. You can definitely tell that it is an avocado tree and not a mango tree, but from that point on, it is non-deterministic.</p>
+ <p>The <span class="_paradigm">RADICAL</span> model specifies a Foundation and as such is more like a seed than a tree. You can tell what kind of tree it is, but that is it.</p>
 </div>
 
 <h1>&nbsp;</h1>
