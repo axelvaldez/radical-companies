@@ -24,11 +24,11 @@ image:    "icon-the-radical-model-is-not-deterministic.svg"
    <td>Meaning & Belonging</td>
   </tr>
   <tr>
-   <th style="text-align:right; "> style="text-align: right">Commitments</th>
+   <th style="text-align:right; ">Commitments</th>
    <td>Decentralization & Transparency</td>
   </tr>
   <tr style="background-color=#EEEEEE; ">
-   <th style="text-align:right; "> style="text-align: right">Practices</th>
+   <th style="text-align:right; ">Practices</th>
    <td>Experimentation</td>
   </tr>
   <tr>
