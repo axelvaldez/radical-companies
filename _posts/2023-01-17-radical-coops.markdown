@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "<span class="_paradigm">RADICAL</span> Co-ops?"
+title:    "<span class='_paradigm'>RADICAL</span> Co-ops?"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-<span class="_paradigm">radical</span>-coops.svg"
+image:    "icon-radical-coops.svg"
 ---
 
 <div style="display:none;">
