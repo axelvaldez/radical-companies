@@ -16,8 +16,7 @@ image:    "icon-the-radical-model-is-not-deterministic.svg"
  <p>We hope to be surprised by what people come up with.</p>
 <h1>Foundation</h1>
  <p>The RADICAL model revolves about its Foundation,</p>
-
-<table>
+ <table>
   <tr>
    <th style="text-align: right">Principles</th>
    <td>Meaning & Belonging</td>
