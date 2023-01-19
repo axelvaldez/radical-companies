@@ -68,7 +68,7 @@ image:    "icon-gravity-is-force.svg"
    </tr>
   </table>
  </div>
- <p>Like stavery, the <span class="_paradigm">FIAT</span> system forces non-owners to labor for sustenance and safety. Interestingly, this is the very opposite of a <em>crime</em> in <span class="_paradigm">FIAT</span> land.</p>
+ <p>Like stavery, the <span class="_paradigm">FIAT</span> system forces non-owners to labor for sustenance and safety. Interestingly, this is the very opposite of a <em>crime</em>, and it i in celebrated <span class="_paradigm">FIAT</span> land.</p>
 
 <h1 class="_section">RELATED</h1>
   <ul>
