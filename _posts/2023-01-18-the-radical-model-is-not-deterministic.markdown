@@ -18,7 +18,7 @@ image:    "icon-the-radical-model-is-not-deterministic.svg"
 <h1>Foundation</h1>
  <p>The <span class="_paradigm">RADICAL</span> model revolves about its Foundation,</p>
  <table>
-  <tr>
+  <tr style="background-color:#EEEEEE; ">
    <th style="text-align: right">Principles</th>
    <td>Meaning & Belonging</td>
   </tr>
@@ -26,7 +26,7 @@ image:    "icon-the-radical-model-is-not-deterministic.svg"
    <th style="text-align: right">Commitments</th>
    <td>Decentralization & Transparency</td>
   </tr>
-  <tr>
+  <tr style="background-color:#EEEEEE; ">
    <th style="text-align: right">Practices</th>
    <td>Experimentation</td>
   </tr>
