@@ -1,21 +1,25 @@
 
 ---
 layout:   post
-title:    "We Headed for the Edge"
+title:    "We Headed for the Cliff"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-we-headed-for-the-cliff.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>We headed for the cliff, and it was very comfortable ride. Then we went over the cliff. The ride down was uncomfortable, but we survived.</p>
 </div>
 
-<h1>&nbsp;</h1>
- <p>xxx</p>
- <p>xxx</p>
- <p>xxx</p>
- <p>xxx</p>
+<h1>And Then&hellip; What?</h1>
+ <p>&ldquo;We headed for the cliff, and it was very comfortable ride. Then we went over the cliff.</p>
+ <p>&ldquo;Luckily, when we hit the bottom the tank we were out of gas, so no explosion. The ride down was uncomfortable, but we survived. Unfortunately, the anthropocene didn&rsquo;t and we had to start from scratch.</p>
+ <p>&ldquo;Well, not quite. We knew what we knew, and we could start there. So, that what we did.&rdquo;</p>
+ <p>With that Zep got up and said, &ldquo;I don&rsquo;t know about you, but I am going to sleep.&rdquo;</p>
+ <p>&ldquo;We know what&ldquo;s next!&rdquo; the kids yelled.</p>
+ <p>&ldquo;Good. Someobody else can finishes it.&rdquo;</p>
+ <p>Some of the kids got and eventually most headed to sleep. Three of them stayed and finished the story. It wasn&rsquo;t  history, but close enough.</p>
+ <p>&ldquo;xxx&rdquo;</p>
  
  <h1 class="_section">RELATED</h1>
  <ul>
