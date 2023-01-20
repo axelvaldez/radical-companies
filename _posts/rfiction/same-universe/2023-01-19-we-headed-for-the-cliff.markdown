@@ -13,12 +13,15 @@ image:    "icon-we-headed-for-the-cliff.svg"
 <h1>And Then&hellip; What?</h1>
  <p>&ldquo;We headed for the cliff, and it was very comfortable ride. Then we went over the cliff.</p>
  <p>&ldquo;Luckily, when we hit the bottom, we were out of gas, so no explosion. Going down was uncomfortable, but we survived. Unfortunately, the anthropocene didn&rsquo;t and we had to start from scratch.</p>
- <p>&ldquo;Well, not quite. We knew what we knew, and we could start there. So, that what we did.&rdquo;</p>
+ <p>&ldquo;Well, not quite. We knew what we knew, and we could start there.&rdquo; As he said that, Zep was pointing to his head. &ldquo;So, that what we did.&rdquo;</p>
  <p>With that Zep got up and said, &ldquo;I don&rsquo;t know about you, but I am going to sleep.&rdquo;</p>
  <p>&ldquo;We know what&ldquo;s next!&rdquo; the kids yelled.</p>
- <p>&ldquo;Good. Someobody else can finishes it.&rdquo;</p>
- <p>Some of the kids got and eventually most headed to sleep. Three of them stayed and finished the story. It wasn&rsquo;t  history, but close enough.</p>
- <p>&ldquo;xxx&rdquo;</p>
+ <p>Without looking back, Zep responded, &ldquo;Good. Someobody else can finish it then.&rdquo;</p>
+ <p>Some of the kids got and eventually most headed to sleep. Three of them stayed and finished the story. I say story but it wasn&rsquo;t  history. However, Zep lived through it and that was close enough.</p>
+ 
+<h1>The Facts</h1>
+ <p>We talked about climate change. And we talked. And nothing significant was done. We kept waiting, and waited, for the powerful people to do what they were supposed to, but it all came to naught. But we had lots of options that could have soften the blow, </p>
+ <p></p>
  
  <h1 class="_section">RELATED</h1>
  <ul>
