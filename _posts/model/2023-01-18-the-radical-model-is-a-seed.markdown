@@ -7,11 +7,11 @@ image:    "icon-the-radical-model-is-not-deterministic.svg"
 ---
 
 <div style="display:none;">
- <p>The <span class="_paradigm">RADICAL</span> model specifies a Foundation and as such is more like a seed than a tree. You can tell what kind of tree it is, but that is it.</p>
+ <p>The <span class="_paradigm">RADICAL</span> model specifies a Foundation and as such is more like a seed than a tree. You can tell what kind of tree it is, but not exactly how it is going to develop.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The <span class="_paradigm">RADICAL</span> model specifies a Foundation and as such is more like a seed than a tree. You can definitely tell that it is an avocado tree and not a mango tree, but from that point on, it is non-deterministic.</p>
+ <p>The <span class="_paradigm">RADICAL</span> model specifies a Foundation and as such is more like a seed than a tree. You can definitely tell that it is an avocado tree and not a mango tree, but ut not exactly how it is going to develop.</p>
  <p>It doesn’t specify the number of branches or if they should be arranged in a circle or the quality of the fruit that it will grow.</p>
  <p>We hope to be surprised by what people come up with.</p>
 
