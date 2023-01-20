@@ -1,4 +1,3 @@
-
 ---
 layout:   post
 title:    "We Headed for the Cliff"
