@@ -7,7 +7,7 @@ image:    "icon-terrible-tweaks-twiddling-thumbs.svg"
 ---
 
 <div style="display:none;">
- <p>n article I just read illustrates why free lunches and similar frills are terrible tweaks to the the current business paradigm.</p>
+ <p>Free lunches and massages are ineffective, terrible. They make the current business paradigm more palatable for a little bit while it continues unabated.</p>
 </div>
 
 <h1>&nbsp;</h1>
