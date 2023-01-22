@@ -13,7 +13,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
 <h1>And Then&hellip; What?</h1>
  <p>&ldquo;We headed for the cliff, and it was very comfortable ride. Then we went over the cliff.</p>
  <p>&ldquo;Luckily, when we hit the bottom, we were out of gas, so no explosion. Going down was bumpy, but we survived. Unfortunately, the anthropocene didn&rsquo;t quite make it in one piece and we had to start from scratch.</p>
- <p>&ldquo;Well, not quite. We knew what we knew, and we could start <em>there</em>.&rdquo; As he said that, Zep pointed to his head. &ldquo;So, that what we did. If we didn&rsquo;t lose our head, we use it.&rdquo;</p>
+ <p>&ldquo;Well, not quite. We knew what we knew, and we could start <em>there</em>.&rdquo; As he said that, Zep pointed to his head. &ldquo;So, that is what we did. If we didn&rsquo;t lose our head, we use it.&rdquo;</p>
  <p>With that Zep got up and said, &ldquo;I don&rsquo;t know about you, but I am going to sleep.&rdquo;</p>
  <p>&ldquo;We know what&ldquo;s next!&rdquo; the kids yelled.</p>
  <p>Without looking back, Zep responded, &ldquo;Good. Someobody else can finish it then.&rdquo;</p>
