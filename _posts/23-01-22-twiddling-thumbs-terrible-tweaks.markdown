@@ -3,7 +3,7 @@ layout:   post
 title:    "Twiddling Thumbs, Terrible Tweaks"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-terrible-tweaks.svg"
+image:    "icon-twiddling-thumbs-terrible-tweaks.svg"
 ---
 
 <div style="display:none;">
