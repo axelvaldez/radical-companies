@@ -26,7 +26,7 @@ image:    "icon-terrible-tweaks-twiddling-thumbs.svg"
     Jan. 21, 2023.
     <em>How Apple Has So Far Avoided Layoffs: Lean Hiring, No Free Lunches</em>.
     Jan 21, 2023.
-    &lt;<a href="https://radicals.world/cGamiH" target="_blank">https://radicals.world/cGamiH/a>&gt;
+    &lt;<a href="https://radicals.world/cGamiH" target="_blank">https://radicals.world/cGamiH</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
