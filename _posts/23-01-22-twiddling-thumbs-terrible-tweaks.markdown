@@ -16,7 +16,7 @@ image:    "icon-terrible-tweaks-twiddling-thumbs.svg"
    <p>How Apple Has So Far Avoided Layoffs: Lean Hiring, No Free Lunches</p>
    <p class="_signature">https://radicals.world/cGamiH</p>
   </div>
- <p>The article really is a shill post on how Apple&rsquo;s &ldquo;has shown itself to be resilient.&rdquo; But it does illustrate that free lunches and other frills are the equivalent of twiddling your thumbs. The <span class="_paradigm">FIAT</span> system continues unabated.</p>
+ <p>The article really is a shill post on how Apple&rsquo;s &ldquo;core business&rdquo; and it &ldquo;has shown itself to be resilient.&rdquo; But it does illustrate that free lunches and other frills are the equivalent of twiddling your thumbs. The <span class="_paradigm">FIAT</span> system continues unabated.</p>
  <p>xxx</p>
  <p>xxx</p>
 
