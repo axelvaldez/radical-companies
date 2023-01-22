@@ -19,6 +19,3 @@ image:    "icon-terrible-tweaks-twiddling-thumbs.svg"
  <p>The article really is a shill post on how Apple&rsquo;s &ldquo;core business&rdquo; and it &ldquo;has shown itself to be resilient.&rdquo; But it does illustrate that free lunches and other frills are the equivalent of twiddling your thumbs. The <span class="_paradigm">FIAT</span> system continues unabated.</p>
  <p>xxx</p>
  <p>xxx</p>
-
-
-terrible-tweaks.
