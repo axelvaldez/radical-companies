@@ -43,9 +43,9 @@ image:    "icon-we-headed-for-the-cliff.svg"
 
 <h1>Foundation</h1>
  <p>I finally figured out that meaning and belonging were about people. As a young womam told me, &ldquo;What makes people people is that their actions are meaningful to all of use. The community has to work for all involved, or else they&rsquo;d leave.&rdquo;</p>
- <p>The rest of them became obvious.</p>
- <p>Decentralization and transparence where their highest commitments. Anybody challenge any decision. &ldquo;Will that make us more or less decentralzed?&rdquo; Some communities had retreated to more and more centralization, more opaqueness. But many more were getting more decentralized and more transparent as they grew. And how they grew! </p>
- <p>Above all, they only had one gractice: experiementationk, which fit the post-cliff world perfectly.</p>
+ <p>The rest of them became a lot more clear.</p>
+ <p>Decentralization and transparence where their highest commitments. With these in hand, anybody could challenge any decision. &ldquo;Will that make us more or less decentralzed?&rdquo; Some had retreated to more and more centralization, more opaqueness. But many more were getting more and more decentralized and transparent as they grew. And how they grew! As transparency grew, playfulness became more prevalent, and innovation blossomed.</p>
+ <p>The hardest to understand was what the foundation include as practice. And then it hit me. Experiementation, fit the post-cliff world perfectly. Experiementation is what we naturally do. We confused people and machines and lost, but we were not going to make that mistake again.</p>
 
 <h1>End or Beginning?</h1>
  <p></p>
