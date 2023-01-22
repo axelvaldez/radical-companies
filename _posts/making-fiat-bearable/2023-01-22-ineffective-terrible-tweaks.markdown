@@ -12,7 +12,11 @@ image:    "icon-terrible-tweaks-twiddling-thumbs.svg"
 
 <h1>&nbsp;</h1>
  <p>Free lunches and massages are ineffective, terrible tweaks trying to make the FIAT system more palatable.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
- <p>The article really is a shill post on how Apple&rsquo;s &ldquo;core business&rdquo; because it &ldquo;has shown itself to be resilient.&rdquo; But it does illustrate that free lunches and other frills are business hostile. They are the equivalent of twiddling your thumbs and the <span class="_paradigm">FIAT</span> system continues unabated. Competition and dominance; Winners and losers; Smart and dumb. All thanks to an ivisible system that puts financial success above all else.</p>
+ <p>The article really is a shill post on how Apple&rsquo;s &ldquo;core business&rdquo; because it &ldquo;has shown itself to be resilient.&rdquo; But it does illustrate that free lunches and other frills are business hostile. They are the equivalent of twiddling your thumbs and the <span class="_paradigm">FIAT</span> system continues unabated.</p>
+ <p>Competition and dominance.</p>
+ <p>Winners and losers.</p>
+ <p>Lazy, greedy, and cowardly.</p>
+ <p>Thanks to the <span class="_paradigm">FIAT</span> system. The invisible system that puts financial success above all else.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
