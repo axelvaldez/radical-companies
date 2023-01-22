@@ -25,6 +25,7 @@ image:    "icon-how-to-be-less-harsh-on-yourself-and-others.svg"
  <p>Maria closes with this powerful statement,</p>
   <div class="_citation">
    <p>The fence is the community of support, &hellip; the kindred spirits with whom we surround ourselves when we are still vulnerable &hellip; a lovely reminder of that mycelial connection that binds us to each other, just like the mycorrhizal network undergirds the forest with its web of communication and nutrition.</p>
+  </div>
  </p>
 
 <h1 class="_section">ENDNOTES</h1>
