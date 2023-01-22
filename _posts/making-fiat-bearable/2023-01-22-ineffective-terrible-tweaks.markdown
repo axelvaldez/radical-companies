@@ -11,12 +11,26 @@ image:    "icon-terrible-tweaks-twiddling-thumbs.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>An article I just read illustrates why free lunches and similar frills are terrible tweaks to the the current business paradigm,</p>
+ <p>Free lunches and massages are ineffective, terrible tweaks trying to make the FIAT system more palatable.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
+ <p>The article really is a shill post on how Apple&rsquo;s &ldquo;core business&rdquo; because it &ldquo;has shown itself to be resilient.&rdquo; But it does illustrate that free lunches and other frills are business hostile. They are the equivalent of twiddling your thumbs and the <span class="_paradigm">FIAT</span> system continues unabated. Competition and dominance; Winners and losers; Smart and dumb. All thanks to an ivisible system that puts financial success above all else.</p>
   <div class="_quotation">
    <p>How Apple Has So Far Avoided Layoffs: Lean Hiring, No Free Lunches</p>
    <p class="_signature">https://radicals.world/cGamiH</p>
   </div>
- <p>The article really is a shill post on how Apple&rsquo;s &ldquo;core business&rdquo; because it &ldquo;has shown itself to be resilient.&rdquo; But it does illustrate that free lunches and other frills are business hostile. They are the equivalent of twiddling your thumbs and the <span class="_paradigm">FIAT</span> system continues unabated. Competition and dominance; Winners and losers; Smart and dumb. All thanks to an ivisible system that puts financial success above all else.</p>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ol>
+  <li id="en01">
+   <p class="_list-item">
+    Aaron Tilley.
+    Jan. 21, 2023.
+    <em>How Apple Has So Far Avoided Layoffs: Lean Hiring, No Free Lunches</em>
+    Jan 21, 2023.
+    &lt;<a href="https://radicals.world/cGamiH" target="_blank">https://radicals.world/cGamiH/a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ol>
 
 <h1 class="_section">RELATED</h1>
  <ul>
