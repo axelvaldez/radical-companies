@@ -7,7 +7,7 @@ image:    "icon-how-to-be-less-harsh-on-yourself-and-others.svg"
 ---
 
 <div style="display:none;">
- <p>Human competition is pervasive. It is natural but not our nature.</p>
+ <p>Human competition is natural but not our nature.</p>
 </div>
 
 <h1>&nbsp;</h1>
