@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Terrible Tweaks. Twiddling Thumbs."
+title:    "Ineffective, Terrible Tweaks"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-terrible-tweaks-twiddling-thumbs.svg"
