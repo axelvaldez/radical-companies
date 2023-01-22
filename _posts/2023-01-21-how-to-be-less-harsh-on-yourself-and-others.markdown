@@ -16,7 +16,7 @@ image:    "icon-how-to-be-less-harsh-on-yourself-and-others.svg"
  <p>xxx</p>
  <p>As quoted in Maria Popova&rsquo;s post,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> Ram Dass drew on the human-tree analogy,</p>
   <div class="_citation">
-   <p>When you go out into the woods and you look at trees, you see all these different trees. And some of them are bent, and some of them are straight, and some of them are evergreens, and some of them are whatever. And you look at the tree and you allow it. You see why it is the way it is. &hellip; You just allow it. You appreciate the tree.</p>
+   <p>When you go out into the woods and you look at trees, you see all these different trees. &hellip; You just allow it. You appreciate the tree.</p>
    <p>The minute you get near humans, you lose all that. And you are constantly saying, “You’re too this, or I’m too this.” That judging mind comes in.</p>
   </div>
  <p>In other words, competition sets in, because that is what we have learned.</p>
