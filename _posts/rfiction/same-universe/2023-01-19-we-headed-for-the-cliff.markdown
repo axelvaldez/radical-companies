@@ -17,12 +17,37 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>With that Zep got up and said, &ldquo;I don&rsquo;t know about you, but I am going to sleep.&rdquo;</p>
  <p>&ldquo;We know what&ldquo;s next!&rdquo; the kids yelled.</p>
  <p>Without looking back, Zep responded, &ldquo;Good. Someobody else can finish it then.&rdquo;</p>
- <p>Some of the kids got and eventually most headed to sleep. Three of them stayed and finished the story. I say story but it wasn&rsquo;t  history. However, Zep lived through it and that was close enough.</p>
+ <p>Some of the kids got up and bantered some more, but eventually most headed to sleep. Three of them stayed and finished the story. I say story because it wasn&rsquo;t recorded history. Zep lived through it all, but told different stories based on the same facts. He insisted that that was more reflective on the way people remember facts and that selecting them and threading them into a story. The facts were enchilada, the stories the sauces.</p>
  
 <h1>The Facts</h1>
- <p>We talked about climate change. And we talked. And nothing significant was done. We kept waiting, and waited, for the powerful people to do what they were supposed to, but it all came to naught. But we had lots of options that could have soften the blow, </p>
- <p></p>
- 
+ <p>We talked about climate change, nut nothing significant was done. We kept waiting, and waited, for the powerful people to do what they were supposed to, but it all came to naught. We had lots of options that could have soften the blow, but all were locked by national politics.</p>
+ <p>Businesses took advantage of it and their profits went up. Rather than lower fossil fuel extraction, it went higher. Of course, climate change went up and headed for the climate disaster zone. But profits went up, so nobody complained. National governments will clean up later.</p>
+ <p>Instead of cleaning up, national governments kept up the soap opera, people became more polarized. Small nations didn&rsquo;t have the wherewithall to do much and rich countries were too focus on keeping up the profits for owners and didn&rsquo;t do what they could have with their wealth and power.</p>
+
+ <h1>We Went Over</h1>
+ <p>We headed for the cliff and we kept smiling and ccelerating until we went over. And then the dystopian movie started.</p>
+ <p>Something was not quite the same, however. There were expected violent gangs, and the not unexpected FIAT communities ruled by a boss and his acolytes. But there were also a lot of small communities that co-managed themselve and shared everything they owned. Although not so surprising, come to think of, because there was not much they owned and there were so small that they could easily co-manage.</p>
+ <p>By what was really surprising is that these communities had an expressed foundation. And it was word-for-word the same throughout,</p>
+ <div class="_center">
+  <table style="width:90%; ">
+   <tr style="background-color:#EEEEEE; ">
+    <th style="text-align:right; ">people</th>
+    <td class="_foundation">Meaning & Belonging</td>
+   </tr>
+   <tr>
+    <th style="text-align:right; ">commitments</th>
+    <td class="_foundation">Decentralization & Transparency</td>
+   </tr>
+   <tr style="background-color:#EEEEEE; ">
+    <th style="text-align:right; ">practices</th>
+    <td class="_foundation">Experimentation</td>
+   </tr>
+   <tr>
+    <td class="_spacer_"></td>
+   </tr>
+  </table>
+ </div>
+  
  <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>

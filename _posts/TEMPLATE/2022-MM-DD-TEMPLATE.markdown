@@ -18,36 +18,42 @@ image:    "icon-about-daos.svg"
 
 <!-- footnote -->
 <h1></h1>
- <p>Footnote here<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
+ <p>xxx<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
+
+<!-- RADICAL | FIAT | RAD -->
+<h1></h1>
  <span class="_paradigm">RADICAL</span>
  <span class="_paradigm">FIAT</span>
  <span class="_paradigm">RAD</span>s
  
 <!-- image -->
-<div class="_center">
- <img
-  src="/assets/img/pings-to-rads-equation.svg"
-  width="70%"
-  alt="">
+ <div class="_center">
+  <img
+   src="/assets/img/pings-to-rads-equation.svg"
+   width="70%"
+   alt="">
  </div>
 
- <table align="center">
-  <tr style="background-color:#EEEEEE; ">
-   <th>people</th>
-   <td class="_foundation">Meaning & Belonging</td>
-  </tr>
-  <tr>
-   <th>commitments</th>
-   <td class="_foundation">Decentralization & Transparency</td>
-  </tr>
-  <tr style="background-color:#EEEEEE; ">
-   <th>practices</th>
-   <td class="_foundation">Experimentation</td>
-  </tr>
-  <tr>
-   <td class="_spacer_"></td>
-  </tr>
- </table>
+<!-- foundation -->
+ <div class="_center">
+  <table style="width:90%; ">
+   <tr style="background-color:#EEEEEE; ">
+    <th style="text-align:right; ">people</th>
+    <td class="_foundation">Meaning & Belonging</td>
+   </tr>
+   <tr>
+    <th style="text-align:right; ">commitments</th>
+    <td class="_foundation">Decentralization & Transparency</td>
+   </tr>
+   <tr style="background-color:#EEEEEE; ">
+    <th style="text-align:right; ">practices</th>
+    <td class="_foundation">Experimentation</td>
+   </tr>
+   <tr>
+    <td class="_spacer_"></td>
+   </tr>
+  </table>
+ </div>
 
 <h1>For More References, See,</h1>
   <ul>
