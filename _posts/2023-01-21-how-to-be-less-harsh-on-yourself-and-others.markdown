@@ -19,7 +19,7 @@ image:    "icon-how-to-be-less-harsh-on-yourself-and-others.svg"
  <p>In other words, when surrounded by people, competition sets in. That is what we have learned. Nothing to see here, move along.</p>
  <p>Tragically, we miss out on what competion hides,</p>
   <div class="_citation">
-   <p> When a tree is very small we protect it by surrounding it with a fence so that animals do not step on it. Later when the tree is bigger it no longer needs the fence. <em>Then it can give shelter to many</em>. (emphasis added)</p>
+   <p>When a tree is very small we protect it by surrounding it with a fence so that animals do not step on it. Later when the tree is bigger it no longer needs the fence. <em>Then it can give shelter to many</em>. (emphasis added)</p>
   </div>
  <p>We need to learn to &ldquo;just allow it&rdquo; and collaborate.</p>
  <p>Maria closes with this powerful statement,</p>
