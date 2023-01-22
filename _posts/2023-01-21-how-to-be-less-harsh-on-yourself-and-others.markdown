@@ -11,9 +11,6 @@ image:    "icon-how-to-be-less-harsh-on-yourself-and-others.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>xxx</p>
- <p>xxx</p>
- <p>xxx</p>
  <p>As quoted in Maria Popova&rsquo;s post,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> Ram Dass drew on the human-tree analogy,</p>
   <div class="_citation">
    <p>When you go out into the woods and you look at trees, you see all these different trees. &hellip; You just allow it. You appreciate the tree.</p>
