@@ -11,7 +11,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
 </div>
 
 <h1></h1>
- <p>&ldquo;We headed for the cliff, and it was very comfortable ride. Then we went over the cliff.</p>
+ <p>&ldquo;We headed for the cliff, and it was a very comfortable ride. Then we went over the cliff.</p>
  <p>&ldquo;Luckily, when we hit the bottom, we were out of gas, so no explosion. Going down was bumpy, but we survived. Unfortunately, the anthropocene didn&rsquo;t quite make it in one piece and we had to start from scratch.</p>
  <p>&ldquo;Well, not quite. We knew what we knew, and we could start <em>there</em>.&rdquo; As he said that, Zep pointed to his head. &ldquo;So, that is what we did. If we didn&rsquo;t lose our heads, we used them.&rdquo;</p>
  <p>&ldquo;I don&rsquo;t know about you,&rdquo; Zep said as he got up, &rlquo;but <em>I</em> am going to sleep.&rdquo;
