@@ -3,7 +3,7 @@ layout:   post
 title:    "How to Be Less Harsh with Yourself and Others"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-love-thyself.svg"
 ---
 
 <div style="display:none;">

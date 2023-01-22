@@ -3,7 +3,7 @@ layout:   post
 title:    "Terrible Tweaks"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-terrible-tweaks.svg"
 ---
 
 <div style="display:none;">
