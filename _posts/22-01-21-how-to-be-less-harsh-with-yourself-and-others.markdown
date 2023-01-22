@@ -1,4 +1,3 @@
-
 ---
 layout:   post
 title:    "How to Be Less Harsh with Yourself and Others"
