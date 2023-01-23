@@ -58,13 +58,17 @@ image:    "icon-we-headed-for-the-cliff.svg"
 <h1>Experimentation</h1>
  <p>The hardest to understand was <em>experimentation</em>. Nevertheless, it finally hit me. To me experimentation was what the mad scientists in white coats did in pre-cliff days. Once I let go of that bias, I realized that, really, everything we do, and have always done, is experiementation.</p>
  <p>People experiment. And it fits the post-cliff world perfectly.</p>
- <p>In pre-cliff times we had confused people and machines. We treated people like machines. We measured things like productivity and performance. Professionalism was a judgement, but we made it sound otherwise and we used as <em>a fireable officense</em>. &ldquo;You are not acting professional and you are not a fit for this organization.&rdquo; Translation: &ldquo;You are disrupting our machine and possibly impacting our profits&rdquo;
- 
- We did it and we went over the clif, but we were not going to make that mistake again.</p>
- <p>These communities were rebuilding their world around people. Not their labor. Not pleasure for some and rape for others. Not around obedience and acquiesence. Aroung people and everthing they bring along.</p>
+ <p>In pre-cliff times we had confused people and machines. We treated people like machines. We measured things like productivity and performance. Professionalism was a judgement, but we made it sound otherwise and we used as <em>a fireable officense</em>. &ldquo;You are not acting professional and you are not a fit for this organization.&rdquo; Translation: &ldquo;You are disrupting our machine and possibly impacting our profits&rdquo;</p>
+ <p>We did it and we went over the clif, but it looked like we had a chance to not make <em>that</em> mistake again. These communities were rebuilding their world around people. Not their labor. Not pleasure for some and rape for others. Not around obedience and acquiesence. Aroung people and everthing they bring along.</p>
+
+<h1>One More Time&hellip;</h1>
+ <p>&ldquo;Are we all here?&rdquo; asked Zep. And he answered, &ldquo;Of course we are all here &hellip; .&rdquo;</p>
+ <p>&ldquo;&hellip; who are hear!&rdquo; responded his audience.</p>
+ <p>&ldquo;OK, this bears repeating: we know what we know, and are confident of it, because of the people we hang out with.&rdquo; He looked at them and waited for responses, then Zep went on. &ldquo;We know what we know because of our community. Stupid is what other people believe.&rdquo; Zep looked at them again while he let the statement float. &ldquo;Stupid is what other people believe, but we are the other people. Stupid is what other people believe, but we are them, so treat us kindly. Don&rsquo;t assume, ask. And ask not from proving yourself right, ask from love.&rdquo;</p>
 
 <h1 class="_title">10 Years Later</h1>
- <p>Actually, we had more than the knowledge in our heads. We had many of the artifacts, expecially language. We just lacked energy, or rather, energy distribution. We had some stored in batteries and there were still solar panels and wind towers. We had enough to let us restart from a little above scratch.</p>
+ <p>Actually, we had more than the knowledge in our heads. We had many of the pre-cliff artifacts, expecially language.</p>
+ <p>We just lacked energy, or rather, energy distribution. We had some stored in batteries and there were still solar panels and wind towers. We had enough to let us restart from a little above scratch.</p>
  <p>Without energy distribution, we were forced to stop tossing carbon into our atmosphere and our planet got a break.</p>
  <p></p>
  <p></p>
