@@ -69,8 +69,9 @@ image:    "icon-we-headed-for-the-cliff.svg"
 
 <h1 class="_title">10 Years Later</h1>
  <p>Actually, we had more than the knowledge in our heads. We had many of the pre-cliff artifacts, expecially language.</p>
- <p>We just lacked energy, or rather, energy distribution. We had some stored in batteries and there were still solar panels and wind towers. We had enough to let us restart from a little above scratch.</p>
- <p>Without energy distribution, we were forced to stop tossing carbon into our atmosphere and our planet got a break.</p>
+ <p>We just lacked industrial energy production and distribution. We had some energy stored in batteries and there were still solar panels and wind towers.</p>
+ <p>&ldquo;We have enough to let us restart from a little above scratch.&rdquo;</p>
+ <p>The good news is that the Earth got a break and we stopped tossing carbon into our atmosphere. Our life support system got a break.</p>
  <p></p>
  <p></p>
 
