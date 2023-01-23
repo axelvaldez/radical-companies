@@ -360,7 +360,7 @@ table._foundation tr:nth-child(4n+1)  {
 }
 ._title {
   margin-top:1em;
-  font-size:5rem;
-  font-family:Roboto;
+  font-family:Courier New, monospace;
   text-align:center;
+  font-size:5rem;
 }
