@@ -56,7 +56,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>As transparency grew, playfulness became more prevalent, and innovation blossomed.</p>
 
 <h1>Experimentation</h1>
- <p>The hardest to understand was <em>experimentation</em>. It was difficult, but it finally hit me.</p>
+ <p>The hardest to understand was <em>experimentation</em>. Nevertheless, it finally hit me.</p>
  <p>To me experimentation was people in in white coats did in pre-cliff days. But, really, everything we do, everything we&rsquo;ve always done, is experiementation. And it fit the post-cliff world perfectly.</p>
  <p>In pre-cliff times we had confused people and machines and treated groups of people like machines. We did it and we went over the clif, but we were not going to make that mistake again.</p>
  <p>These communities were rebuilding their world around people. Not their labor. Not pleasure for some and rape for others. Not around obedience and acquiesence. Aroung people and everthing they bring along.</p>
