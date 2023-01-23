@@ -20,7 +20,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>The group hung around a bit and bantered some more, but eventually most headed to sleep. Three of them stayed and finished their version of the story.</p>
 
 <h1>Stories</h1>
- <p>I say <em>story</em> because it wasn&rsquo;t <em>recorded</em> history. Even though Zep had live lived through, he told different stories about it. But alwasy based on the same facts. He insisted on doing this way and showing all who listened that they must think for themselves and figure out which stories were true and which were not. The facts were the enchilada, the nutritional suff. The stories were the sauce. After listening to one of Zap&rsquo;s many stories, you had to figure out which was nourishing and which empty-calories.</p>
+ <p>I say <em>story</em> because it wasn&rsquo;t <em>recorded</em> history. Even though Zep had lived through it all, he told different stories about it. But alwasy based on the same facts. He insisted on doing this way and showing all who listened that they must think for themselves and figure out which stories were true and which were not. The facts were the enchilada, the nutritional suff. The stories were the sauce. After listening to one of Zap&rsquo;s many stories, you had to figure out which was nourishing and which empty-calories.</p>
  
 <h1>The Facts</h1>
  <p>We took apart our life support system. That is <em>the</em> fact.</p>
