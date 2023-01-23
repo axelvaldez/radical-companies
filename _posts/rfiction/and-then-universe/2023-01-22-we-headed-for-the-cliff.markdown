@@ -42,13 +42,14 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>They turned out to be the small, furtive mammals among mighty dinosaurs.</p>
  <p>If the mighty FIAT kings had looked closer, they would have noticed What was really surprising about these communities: they had defined foundations. Sometimes written, but always easy to remember because <em>they only had fives words in it</em>.</p>
 
-<h1>Foundation</h1>
  <div class="_center">
   <img
    src="/assets/img/radical-foundation-worldcloud.png"
    width="70%"
    alt="">
  </div>
+ 
+<h1>Foundation</h1>
  <p>I took a while, but I finally figured out that meaning and belonging were about people. I had to let go of my framework, they one I had grown up in, and then it all made sense. A young womam explained it simply and powerfully, &ldquo;What makes each of us whole is that our actions are meaningful to all of us. Sometime it isn&rsquo;t, so we say something. All of us, together, have to work for each of us. If not, you up and leave.&rdquo;</p>
  <p>After that, the rest of them became a lot more clear.</p>
  <p>Decentralization and transparency where the highest commitments of these communities. With these in hand, anybody could challenge any decision. &ldquo;Will that make us more or less decentralzed?&rdquo; Some groups had retreated to the <span class="_paradigm">FIAT</span> way, to more and more centralization of power and need-to-know. But many more were getting more and more decentralized and transparent as they grew. And how they grew!</p>
