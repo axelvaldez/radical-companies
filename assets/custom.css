@@ -359,7 +359,7 @@ table._foundation tr:nth-child(4n+1)  {
   font-family:'Courier New', Courier, monospace;
 }
 ._title {
-  font-size:xx-large;
+  font-size:5rem;
   font-family:Roboto;
   text-align:center;
 }
