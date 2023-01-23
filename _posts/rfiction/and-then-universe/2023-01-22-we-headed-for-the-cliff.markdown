@@ -45,10 +45,11 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>I finally figured out that meaning and belonging were about people. As a young womam told me, &ldquo;What makes people people is that their actions are meaningful to all of use. The community has to work for all involved, or else they&rsquo;d leave.&rdquo;</p>
  <p>The rest of them became a lot more clear.</p>
  <p>Decentralization and transparence where their highest commitments. With these in hand, anybody could challenge any decision. &ldquo;Will that make us more or less decentralzed?&rdquo; Some had retreated to more and more centralization, more opaqueness. But many more were getting more and more decentralized and transparent as they grew. And how they grew! As transparency grew, playfulness became more prevalent, and innovation blossomed.</p>
- <p>The hardest to understand was what the foundation include as practice. And then it hit me. Experiementation, fit the post-cliff world perfectly. Experiementation is what we naturally do. We confused people and machines and lost, but we were not going to make that mistake again.</p>
+ <p>The hardest to understand was what the foundation calls &ldquo;practice.&rdquo; It was difficult, but it finally hit me. Experiementation, fit the post-cliff world perfectly. Experimentation is what we have always done.</p>
+ <p>We confused people and machines. We thought that we could treat a bunch of people like a machine. We did it, we went over the clif, but we were not going to do that again.</p>
 
-<h1>End or Beginning?</h1>
- <p></p>
+<h1>End of Act I</h1>
+ <p>Actually, we had more than the knowledge in our heads. We had many of the artifacts, we had language. We just lacked energy. Well, almost not energy: we had a little of it stored in batteries and there were still solar panels and wind towers. We had enough to let us restart from a little above scratch.</p>
  <p></p>
  <p></p>
  <p></p>
