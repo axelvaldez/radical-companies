@@ -46,7 +46,6 @@ image:    "icon-we-headed-for-the-cliff.svg"
    width="70%"
    alt="">
  </div>
- </ul>
  <p>I finally figured out that meaning and belonging were about people and then it all made sense. As a young womam told me, &ldquo;What makes each of us is that our actions are meaningful to all of us. Sometime it isn&rsquo;t, so we say something. The community has to work for all us, or else they&rsquo;d up and leave.&rdquo;</p>
  <p>After that, the rest of them became a lot more clear.</p>
  <p>Decentralization and transparency where the highest commitments of these communities. With these in hand, anybody could challenge any decision. &ldquo;Will that make us more or less decentralzed?&rdquo; Some groups had retreated to the <span class="_paradigm">FIAT</span> way, to more and more centralization of power and need-to-know. But many more were getting more and more decentralized and transparent as they grew. And how they grew!</p>
