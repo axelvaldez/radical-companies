@@ -48,9 +48,9 @@ image:    "icon-we-headed-for-the-cliff.svg"
    width="70%"
    alt="">
  </div>
- 
+
 <h1>Foundation</h1>
- <p>I took a while, but I finally figured out that meaning and belonging were about people. I had to let go of my framework, they one I had grown up in, and then it all made sense. A young womam explained it simply and powerfully, &ldquo;What makes each of us whole is that our actions are meaningful to all of us. Sometime it isn&rsquo;t, so we say something. All of us, together, have to work for each of us. If not, you up and leave.&rdquo;</p>
+ <p>It took me a while, but I finally figured out that meaning and belonging were about people. I had to let go of my framework, they one I had grown up in, and then it all made sense. A young womam explained it simply and powerfully, &ldquo;What makes each of us whole is that our actions are meaningful to all of us. Sometime it isn&rsquo;t, so we say something. All of us, together, have to work for each of us. If not, you up and leave.&rdquo;</p>
  <p>After that, the rest of them became a lot more clear.</p>
  <p>Decentralization and transparency where the highest commitments of these communities. With these in hand, anybody could challenge any decision. &ldquo;Will that make us more or less decentralzed?&rdquo; Some groups had retreated to the <span class="_paradigm">FIAT</span> way, to more and more centralization of power and need-to-know. But many more were getting more and more decentralized and transparent as they grew. And how they grew!</p>
  <p>As transparency grew, playfulness became more prevalent, and innovation blossomed.</p>
