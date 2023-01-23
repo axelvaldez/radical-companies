@@ -23,26 +23,28 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>I say <em>story</em> because it wasn&rsquo;t <em>recorded</em> history. Even though Zep had live lived through, he told different stories about it. But alwasy based on the same facts. He insisted on doing this way and showing all who listened that they must think for themselves and figure out which stories were true and which were not. The facts were the enchilada, the nutritional suff. The stories were the sauce. After listening to one of Zap&rsquo;s many stories, you had to figure out which was nourishing and which empty-calories.</p>
  
 <h1>The Facts</h1>
- <p>The facts were that we took apart our life support system.</p>
- <p>We made grand speeches and talked at length about climate crisis. Carboncredits and regulations were all gamed and nothing significant was done. We demanded and waited for powerful people to do what they were supposed to, but it all came to naught. We had lots of options that could have softened the blow, but they got lost among national politics stuff.</p>
- <p>Instead of lowering fossil fuel extraction, it went higher and the world&rsquo;s got hotter. We pushed from &ldquo;crisis&rdquo; to &ldquo;disaster.&rdquo; But profits and salaries went up, so nobody complained. &ldquo;The governments will clean up later.&rdquo;</p>
+ <p>We took apart our life support system. That is <em>the</em> fact.</p>
+ <p>We made grand speeches and talked at length about climate crisis. Carbon credits and regulations were all gamed and nothing significant was done. We demanded and waited for powerful people to do what they were supposed to, but it all came to naught. We, in fact, had lots of options, but they got lost among the national politics stuff.</p>
+ <p>Instead of lowering fossil fuel extraction, we kept using our atmosphere as an upside-down garbage can. Glogal termperatues went higher and the world got hotter. Climate &ldquo;crisis&rdquo; turn into &ldquo;disaster,&rdquo; but profits and salaries went up, so nobody complained. &ldquo;The governments will clean up later.&rdquo;</p>
  <p>Rather than take action, national governments kept up the soap opera and people became more confused, more polarized. Small nations didn&rsquo;t have the wherewithall to do much and rich countries were too focused on their wealth and didn&rsquo;t do what they could have.</p>
 
 <h1>We Went Over</h1>
  <p>We headed for the cliff, at full speed, and we kept smiling and accelerating.</p>
- <p>Then we went over.</p>
- <p>And then the dystopian movie started to roll. Something was not quite the same, however. There was something else in the real life script.</p>
- <p>The expected violent gangs were there. Also, present were the <span calss="_paradigm">FIAT</span> communities, ruled by a boss and his acolytes. This was not surprising.</p>
- <p>But there were also a lot of small communities that shared everything they owned and with decentralized leadership. At first this didn&rsquo;t seem so surprising because there was not much they owned and there were so small that they could easily co-manage.</p>
- <p>What was really surprising is that these communities had written foundations. Even more suprising, their foundation were pretty much copies of each other,</p>
-  <ul>
-   <li>Meaning & Belonging</li>
-   <li>Decentralization & Transparency</li>
-   <li>Experimentation</li>
-  </ul>
+ <p>Then we went over. And then the dystopian shitshow started to roll. Something was not quite the same, however. There was a slight change in the real life script.</p>
+ <p>The expected violent gangs were there. Also, present were the <span calss="_paradigm">FIAT</span> communities, ruled by bosses and fighting over territory and people. This was not surprising.</p>
+
+<h1>The Not-So-Dystopian Movie</h1>
+ <p>But there were also a lot of small communities that shared everything they owned and with decentralized leadership.</p>
+ <p>At first this didn&rsquo;t seem so surprising because they did not have that. Besides, they were so small they could easily co-manage.</p>
+ <p>What was really surprising is that these communities had written foundations. Even more suprising, these foundation were pretty much copies of each other.</p>
 
 <h1>Foundation</h1>
- <p>I finally figured out that meaning and belonging were about people. As a young womam told me, &ldquo;What makes people people is that their actions are meaningful to all of use. The community has to work for all involved, or else they&rsquo;d leave.&rdquo;</p>
+ <p>This foundation only had six words it: meaning, belonging, decentralization, transparency, and experimentation.
+ <img
+ 
+ >
+ </ul>
+ <p>I finally figured out that meaning and belonging were about people. As a young womam told me, &ldquo;What makes each of people is that our actions are meaningful to all of us, and when it is not, we speak up. The community has to work for all involved, or else they&rsquo;d up and leave.&rdquo;</p>
  <p>The rest of them became a lot more clear.</p>
  <p>Decentralization and transparence where their highest commitments. With these in hand, anybody could challenge any decision. &ldquo;Will that make us more or less decentralzed?&rdquo; Some had retreated to more and more centralization, more opaqueness. But many more were getting more and more decentralized and transparent as they grew. And how they grew! As transparency grew, playfulness became more prevalent, and innovation blossomed.</p>
  <p>The hardest to understand was what the foundation calls &ldquo;practice.&rdquo; It was difficult, but it finally hit me. Experiementation, fit the post-cliff world perfectly. Experimentation is what we have always done.</p>
