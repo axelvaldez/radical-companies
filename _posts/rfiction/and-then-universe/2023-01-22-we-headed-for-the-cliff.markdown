@@ -15,7 +15,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>&ldquo;Luckily, when we hit the bottom, we were out of gas, so no explosion. Going down was bumpy, but we survived. Unfortunately, the anthropocene didn&rsquo;t quite make it in one piece and we had to start from scratch.</p>
  <p>&ldquo;Well, not quite. We knew what we knew, and we could start <em>there</em>.&rdquo; As he said that, Zep pointed to his head. &ldquo;So, that is what we did. If we didn&rsquo;t lose our heads, we used them.&rdquo;</p>
  <p>&ldquo;I don&rsquo;t know about you,&rdquo; Zep said as he got up, &rdquo;but tonight&rsquo;s storyteller is going to sleep.&rdquo;
- <p>&ldquo;We know what&ldquo;s next!&rdquo; the kids yelled. &ldquo;We know how it ends!&rdquo;</p>
+ <p>&ldquo;We know what&rsquo;s next!&rdquo; the kids yelled. &ldquo;WE KNOW HOW IT ENDS!&rdquo;</p>
  <p>Without looking back, Zep responded, &ldquo;Good. Someobody else can finish it then.&rdquo;</p>
  <p>The group hung around a bit and bantered some more, but eventually most headed to sleep. Three of them stayed and finished their version of the story.</p>
 
