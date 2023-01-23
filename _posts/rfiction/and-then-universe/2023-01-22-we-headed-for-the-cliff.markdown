@@ -40,19 +40,23 @@ image:    "icon-we-headed-for-the-cliff.svg"
 
 <h1>Foundation</h1>
  <p>This foundation only had six words it: meaning, belonging, decentralization, transparency, and experimentation.
- <img
- 
- >
+ <div class="_center">
+  <img
+   src="/assets/img/radical-foundation-worldcloud.png"
+   width="70%"
+   alt="">
+ </div>
  </ul>
- <p>I finally figured out that meaning and belonging were about people. As a young womam told me, &ldquo;What makes each of people is that our actions are meaningful to all of us, and when it is not, we speak up. The community has to work for all involved, or else they&rsquo;d up and leave.&rdquo;</p>
- <p>The rest of them became a lot more clear.</p>
- <p>Decentralization and transparence where their highest commitments. With these in hand, anybody could challenge any decision. &ldquo;Will that make us more or less decentralzed?&rdquo; Some had retreated to more and more centralization, more opaqueness. But many more were getting more and more decentralized and transparent as they grew. And how they grew! As transparency grew, playfulness became more prevalent, and innovation blossomed.</p>
- <p>The hardest to understand was what the foundation calls &ldquo;practice.&rdquo; It was difficult, but it finally hit me. Experiementation, fit the post-cliff world perfectly. Experimentation is what we have always done.</p>
- <p>We confused people and machines. We thought that we could treat a bunch of people like a machine. We did it, we went over the clif, but we were not going to do that again.</p>
+ <p>I finally figured out that meaning and belonging were about people and then it all made sense. As a young womam told me, &ldquo;What makes each of us is that our actions are meaningful to all of us. Sometime it isn&rsquo;t, so we say something. The community has to work for all us, or else they&rsquo;d up and leave.&rdquo;</p>
+ <p>After that, the rest of them became a lot more clear.</p>
+ <p>Decentralization and transparency where the highest commitments of these communities. With these in hand, anybody could challenge any decision. &ldquo;Will that make us more or less decentralzed?&rdquo; Some groups had retreated to the <span class="_paradigm">FIAT</span> way, to more and more centralization of power and need-to-know. But many more were getting more and more decentralized and transparent as they grew. And how they grew!</p>
+ <p>As transparency grew, playfulness became more prevalent, and innovation blossomed.</p>
+ <p>The hardest to understand was what the foundation calls &ldquo;experiementation.&rdquo; It was difficult, but it finally hit me. To me experiementation was people in labs did. But, really, everything we do, what we&rsquo;ve always done, is experiementation. And it fit the post-cliff world perfectly.</p>
+ <p>We had confused people and machines and treated groups of people like machines. We did it and we went over the clif. And we were not going to make that mistake again.</p>
 
 <h1>End of Act I</h1>
- <p>Actually, we had more than the knowledge in our heads. We had many of the artifacts, we had language. We just lacked energy. Well, almost not energy: we had a little of it stored in batteries and there were still solar panels and wind towers. We had enough to let us restart from a little above scratch.</p>
- <p></p>
+ <p>Actually, we had more than the knowledge in our heads. We had many of the artifacts, expecially language. We just lacked energy, or rather, energy distribution. We had some stored in batteries and there were still solar panels and wind towers. We had enough to let us restart from a little above scratch.</p>
+ <p>Without energy distribution, we were forced to stop tossing carbon into our atmosphere and our planet got a break.</p>
  <p></p>
  <p></p>
 
