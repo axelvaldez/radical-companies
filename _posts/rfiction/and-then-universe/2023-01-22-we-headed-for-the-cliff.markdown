@@ -30,8 +30,9 @@ image:    "icon-we-headed-for-the-cliff.svg"
 
 <h1>We Went Over</h1>
  <p>We headed for the cliff, at full speed, and we kept smiling and accelerating.</p>
- <p>Then we went over. And then the dystopian shitshow started to roll. Something was not quite the same, however. There was a slight change in the real life script.</p>
+ <p>Then we went over. And then the dystopian shitshow started to roll. However, something was not quite the same.</p>
  <p>The expected violent gangs were there. Also, present were the <span calss="_paradigm">FIAT</span> communities, ruled by bosses and fighting over territory and people. This was not surprising.</p>
+ <p>There was a slight change in the real life script, however.</p>
 
 <h1>The Not-So-Dystopian Movie</h1>
  <p>But there were also a lot of small communities that shared everything they owned and with decentralized leadership.</p>
