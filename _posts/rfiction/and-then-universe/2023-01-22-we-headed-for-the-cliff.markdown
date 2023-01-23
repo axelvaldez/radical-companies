@@ -25,7 +25,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
 <h1>The Facts</h1>
  <p>We took apart our life support system. That is <em>the</em> fact.</p>
  <p>We made grand speeches and talked at length about climate crisis. Carbon credits and regulations were all gamed and nothing significant was done. We demanded and waited for powerful people to do what they were supposed to, but it all came to naught. We, in fact, had lots of options, but they got lost among the national politics stuff.</p>
- <p>Instead of lowering fossil fuel extraction, we kept using our atmosphere as an upside-down garbage can. Glogal termperatues went higher and the world got hotter. Climate &ldquo;crisis&rdquo; turn into &ldquo;disaster,&rdquo; but profits and salaries went up, so nobody complained. &ldquo;The governments will clean up later.&rdquo;</p>
+ <p>Instead of lowering fossil fuel extraction, we kept using our atmosphere as an upside-down garbage can. Glogal termperatues went higher and the world got hotter. Climate &ldquo;crisis&rdquo; turned into &ldquo;disaster,&rdquo; but profits and salaries went up, so nobody complained. &ldquo;The governments will clean up later.&rdquo;</p>
  <p>Rather than take action, national governments kept up the soap opera and people became more confused, more polarized. Small nations didn&rsquo;t have the wherewithall to do much and rich countries were too focused on their wealth and didn&rsquo;t do what they could have.</p>
 
 <h1>We Went Over</h1>
