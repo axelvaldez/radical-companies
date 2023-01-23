@@ -63,7 +63,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
 
 <h1>One More Time&hellip;</h1>
  <p>&ldquo;Are we all here?&rdquo; asked Zep. And he answered, &ldquo;Of course we are all here &hellip; .&rdquo;</p>
- <p>&ldquo;&hellip; who are here!&rdquo; responded his audience.</p>
+ <p>&ldquo;&hellip; who are alreadyxxx here!&rdquo; responded his audience.</p>
  <p>&ldquo;OK, this bears repeating: we know what we know, and are confident of it, because of the people we hang out with.&rdquo; He looked at the people listening and waited for responses, then Zep went on. &ldquo;We know what we know because of our community. Stupid is what other people believe.&rdquo; Zep looked at them again while he let the statement float. &ldquo;Stupid is what other people believe, but we are the other people. Stupid is what other people believe, but we are them, so treat us kindly. Don&rsquo;t assume, ask. And ask not from proving yourself right, ask from love.&rdquo;</p>
 
 <h1 class="_title">10 Years Later</h1>
