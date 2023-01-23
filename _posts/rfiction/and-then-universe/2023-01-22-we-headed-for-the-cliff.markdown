@@ -56,9 +56,11 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>As transparency grew, playfulness became more prevalent, and innovation blossomed.</p>
 
 <h1>Experimentation</h1>
- <p>The hardest to understand was <em>experimentation</em>. Nevertheless, it finally hit me.</p>
- <p>To me experimentation was people in in white coats did in pre-cliff days. But, really, everything we do, everything we&rsquo;ve always done, is experiementation. And it fit the post-cliff world perfectly.</p>
- <p>In pre-cliff times we had confused people and machines and treated groups of people like machines. We did it and we went over the clif, but we were not going to make that mistake again.</p>
+ <p>The hardest to understand was <em>experimentation</em>. Nevertheless, it finally hit me. To me experimentation was what the mad scientists in white coats did in pre-cliff days. Once I let go of that bias, I realized that, really, everything we do, and have always done, is experiementation.</p>
+ <p>People experiment. And it fits the post-cliff world perfectly.</p>
+ <p>In pre-cliff times we had confused people and machines. We treated people like machines. We measured things like productivity and performance. Professionalism was a judgement, but we made it sound otherwise and we used as <em>a fireable officense</em>. &ldquo;You are not acting professional and you are not a fit for this organization.&rdquo; Translation: &ldquo;You are disrupting our machine and possibly impacting our profits&rdquo;
+ 
+ We did it and we went over the clif, but we were not going to make that mistake again.</p>
  <p>These communities were rebuilding their world around people. Not their labor. Not pleasure for some and rape for others. Not around obedience and acquiesence. Aroung people and everthing they bring along.</p>
 
 <div class="_title">10 Years Later</div>
