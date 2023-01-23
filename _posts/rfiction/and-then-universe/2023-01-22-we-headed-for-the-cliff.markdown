@@ -63,8 +63,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  We did it and we went over the clif, but we were not going to make that mistake again.</p>
  <p>These communities were rebuilding their world around people. Not their labor. Not pleasure for some and rape for others. Not around obedience and acquiesence. Aroung people and everthing they bring along.</p>
 
-<div class="_title">10 Years Later</div>
-<h1>End of Act I</h1>
+<h1 class="_title">10 Years Later</h1>
  <p>Actually, we had more than the knowledge in our heads. We had many of the artifacts, expecially language. We just lacked energy, or rather, energy distribution. We had some stored in batteries and there were still solar panels and wind towers. We had enough to let us restart from a little above scratch.</p>
  <p>Without energy distribution, we were forced to stop tossing carbon into our atmosphere and our planet got a break.</p>
  <p></p>
