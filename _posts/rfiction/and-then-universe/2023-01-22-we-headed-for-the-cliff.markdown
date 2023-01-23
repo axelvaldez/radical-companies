@@ -21,40 +21,46 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>The group hung around a bit and bantered some more, but eventually most headed to sleep. Three of them stayed and finished their version of the story.</p>
 
 <h1>Stories</h1>
- <p>I say <em>story</em> because it wasn&rsquo;t <em>recorded</em> history. Even though Zep had lived through it all, his story was different everytime. Sometime a little different, other times enormously different But alwasy based on the same facts. He insisted on doing this way and showing all who listened that they must think for themselves and figure out which stories were true and which were not. The facts were the enchilada, the nutritional suff. The stories were the sauce. After listening to one of Zap&rsquo;s many stories, you had to figure out which was nourishing and which empty-calories.</p>
+ <p>I said <em>story</em> because it wasn&rsquo;t <em>recorded</em> history. Even though Zep had lived through it all, his story was different everytime. Sometime a little different and other times enormously different, but always based on the facts.</p>
+ <p>He insisted on doing this way to show all who listened that they must think for themselves and figure out which stories were true and which were not. After listening to one of Zap&rsquo;s many stories, you had to figure out which was nourishing and which empty-calories.</p>
  
 <h1>The Facts</h1>
  <p>We took apart our life support system. That is <em>the</em> fact.</p>
- <p>We made grand speeches and talked at length about climate crisis. Carbon credits and regulations were all gamed and nothing significant was done. We demanded and waited for powerful people to do what they were supposed to, but it all came to naught. We, in fact, had lots of options, but they got lost among the national politics stuff.</p>
- <p>Instead of lowering fossil fuel extraction, we kept using our atmosphere as an upside-down garbage can. Glogal termperatues went higher and the world got hotter. Climate &ldquo;crisis&rdquo; turned into &ldquo;disaster,&rdquo; but profits and most salaries went up, so nobody complained. &ldquo;The governments will clean up later.&rdquo;</p>
+ <p>We made grand speeches and talked at length about climate crisis. Regulations were all gamed. Carbon credits were a joke. In the end, nothing significant was done. We demanded and waited for powerful people to do what they were supposed to, but it all came to naught. We had, in fact, lots of options, but they got buried by national politics.</p>
+ <p>Instead of lowering fossil fuel extraction, we kept using our atmosphere as an upside-down garbage can, a carbon trap. Glogal termperatues went higher and the world got hotter. Climate &ldquo;crisis&rdquo; turned into &ldquo;disaster,&rdquo; but profits and most salaries went up, so nobody complained. &ldquo;The governments will clean up later.&rdquo;</p>
  <p>Rather than take action, national governments kept up the soap opera and people became more confused, more polarized. Small nations didn&rsquo;t have the wherewithall to do much and rich countries were too focused on their wealth and didn&rsquo;t do what they could have.</p>
+ <p>We adapted.</p>
 
 <h1>We Went Over</h1>
- <p>We headed for the cliff, at full speed, and we kept smiling and accelerating.</p>
- <p>Then we went over. And then the dystopian shitshow started to roll. However, something was not quite the same.</p>
- <p>The expected violent gangs were there. Also, present were the <span calss="_paradigm">FIAT</span> communities, ruled by bosses and fighting over territory and people. This was not surprising.</p>
- <p>There was a slight change in the real life script, however.</p>
+ <p>We headed for the cliff, at full speed, and we kept smiling and accelerating. Then we went over. And then the dystopian shitshow started to roll.</p>
+ <p>However, something was not quite the same.</p>
+ <p>The expected violent gangs were there. Also, present were the <span calss="_paradigm">FIAT</span> communities, ruled by bosses and fighting over territory and people. None of it was surprising.</p>
+ <p>But there were also a lot of small communities that shared everything they owned and with decentralized leadership.</p>
 
 <h1>The Not-So-Dystopian Movie</h1>
- <p>But there were also a lot of small communities that shared everything they owned and with decentralized leadership.</p>
- <p>At first this didn&rsquo;t seem so surprising because they did not have that. Besides, they were so small they could easily co-manage.</p>
- <p>What was really surprising is that these communities had written foundations. Even more suprising, these foundation were pretty much copies of each other.</p>
+ <p>At first this didn&rsquo;t seem so surprising. They were small rag-tag communities and they have anything of value. Besides, they were so small they could easily co-manage.</p>
+ <p>They turned out to be the small, furtive mammals among mighty dinosaurs.</p>
+ <p>If the mighty FIAT kings had looked closer, they would have noticed What was really surprising about these communities: they had defined foundations. Sometimes written, but always easy to remember because <em>they only had fives words in it</em>.</p>
 
 <h1>Foundation</h1>
- <p>This foundation only had six words it: meaning, belonging, decentralization, transparency, and experimentation.
  <div class="_center">
   <img
    src="/assets/img/radical-foundation-worldcloud.png"
    width="70%"
    alt="">
  </div>
- <p>I finally figured out that meaning and belonging were about people and then it all made sense. As a young womam told me, &ldquo;What makes each of us is that our actions are meaningful to all of us. Sometime it isn&rsquo;t, so we say something. The community has to work for all us, or else they&rsquo;d up and leave.&rdquo;</p>
+ <p>I took a while, but I finally figured out that meaning and belonging were about people. I had to let go of my framework, they one I had grown up in, and then it all made sense. A young womam explained it simply and powerfully, &ldquo;What makes each of us whole is that our actions are meaningful to all of us. Sometime it isn&rsquo;t, so we say something. All of us, together, have to work for each of us. If not, you up and leave.&rdquo;</p>
  <p>After that, the rest of them became a lot more clear.</p>
  <p>Decentralization and transparency where the highest commitments of these communities. With these in hand, anybody could challenge any decision. &ldquo;Will that make us more or less decentralzed?&rdquo; Some groups had retreated to the <span class="_paradigm">FIAT</span> way, to more and more centralization of power and need-to-know. But many more were getting more and more decentralized and transparent as they grew. And how they grew!</p>
  <p>As transparency grew, playfulness became more prevalent, and innovation blossomed.</p>
- <p>The hardest to understand was what the foundation calls &ldquo;experiementation.&rdquo; It was difficult, but it finally hit me. To me experiementation was people in labs did. But, really, everything we do, what we&rsquo;ve always done, is experiementation. And it fit the post-cliff world perfectly.</p>
- <p>We had confused people and machines and treated groups of people like machines. We did it and we went over the clif. And we were not going to make that mistake again.</p>
 
+<h1>Experimentation</h1>
+ <p>The hardest to understand was &ldquo;experimentation.&rdquo; It was difficult, but it finally hit me.</p>
+ <p>To me experimentation was people in in white coats did in pre-cliff days. But, really, everything we do, everything we&rsquo;ve always done, is experiementation. And it fit the post-cliff world perfectly.</p>
+ <p>In pre-cliff times we had confused people and machines and treated groups of people like machines. We did it and we went over the clif, but we were not going to make that mistake again.</p>
+ <p>These communities were rebuilding their world around people. Not their labor. Not pleasure for some and rape for others. Not around obedience and acquiesence. Aroung people and everthing they bring along.</p>
+
+<div class="_title">10 Years Later</div>
 <h1>End of Act I</h1>
  <p>Actually, we had more than the knowledge in our heads. We had many of the artifacts, expecially language. We just lacked energy, or rather, energy distribution. We had some stored in batteries and there were still solar panels and wind towers. We had enough to let us restart from a little above scratch.</p>
  <p>Without energy distribution, we were forced to stop tossing carbon into our atmosphere and our planet got a break.</p>
