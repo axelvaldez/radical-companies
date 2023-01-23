@@ -17,7 +17,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>&ldquo;I don&rsquo;t know about you,&rdquo; Zep said as he got up, &rdquo;but tonight&rsquo;s storyteller is going to sleep.&rdquo;
  <p>&ldquo;We know what&ldquo;s next!&rdquo; the kids yelled. &ldquo;We know how it ends!&rdquo;</p>
  <p>Without looking back, Zep responded, &ldquo;Good. Someobody else can finish it then.&rdquo;</p>
- <p>Some of the kids got up and the whole group bantered some more, but eventually most headed to sleep. Three of them stayed and finished their version of the story.</p>
+ <p>The group hung around a bit and bantered some more, but eventually most headed to sleep. Three of them stayed and finished their version of the story.</p>
 
 <h1>Stories</h1>
  <p>I say <em>story</em> because it wasn&rsquo;t <em>recorded</em> history. Even though Zep had live lived through, he told different stories about it. But alwasy based on the same facts. He insisted on doing this way and showing all who listened that they must think for themselves and figure out which stories were true and which were not. The facts were the enchilada, the nutritional suff. The stories were the sauce. After listening to one of Zap&rsquo;s many stories, you had to figure out which was nourishing and which empty-calories.</p>
