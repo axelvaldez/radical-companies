@@ -50,13 +50,13 @@ image:    "icon-we-headed-for-the-cliff.svg"
  </div>
 
 <h1>Foundation</h1>
- <p>It took me a while, but I finally figured out that meaning and belonging were about people. I had to let go of my framework, they one I had grown up in, and then it all made sense. A young womam explained it simply and powerfully, &ldquo;What makes each of us whole is that our actions are meaningful to all of us. Sometime it isn&rsquo;t, so we say something. All of us, together, have to work for each of us. If not, you up and leave.&rdquo;</p>
+ <p>It took me a while, but I finally figured out that <em>meaning</em> and <em>belonging</em> were about people. I had to let go of my framework, they one I had grown up in, and then it all made sense. A young womam explained it simply and powerfully, &ldquo;What makes each of us whole is that our actions are meaningful to all of us. Sometime it isn&rsquo;t, so we say something. All of us, together, have to work for each of us. If not, you up and leave.&rdquo;</p>
  <p>After that, the rest of them became a lot more clear.</p>
- <p>Decentralization and transparency where the highest commitments of these communities. With these in hand, anybody could challenge any decision. &ldquo;Will that make us more or less decentralzed?&rdquo; Some groups had retreated to the <span class="_paradigm">FIAT</span> way, to more and more centralization of power and need-to-know. But many more were getting more and more decentralized and transparent as they grew. And how they grew!</p>
+ <p><em>Decentralization</em> and <em>transparency</em> where the highest commitments of these communities. With these in hand, anybody could challenge any decision. &ldquo;Will that make us more or less decentralzed?&rdquo; Some groups had retreated to the <span class="_paradigm">FIAT</span> way, to more and more centralization of power and need-to-know. But many more were getting more and more decentralized and transparent as they grew. And how they grew!</p>
  <p>As transparency grew, playfulness became more prevalent, and innovation blossomed.</p>
 
 <h1>Experimentation</h1>
- <p>The hardest to understand was &ldquo;experimentation.&rdquo; It was difficult, but it finally hit me.</p>
+ <p>The hardest to understand was <em>experimentation</em>. It was difficult, but it finally hit me.</p>
  <p>To me experimentation was people in in white coats did in pre-cliff days. But, really, everything we do, everything we&rsquo;ve always done, is experiementation. And it fit the post-cliff world perfectly.</p>
  <p>In pre-cliff times we had confused people and machines and treated groups of people like machines. We did it and we went over the clif, but we were not going to make that mistake again.</p>
  <p>These communities were rebuilding their world around people. Not their labor. Not pleasure for some and rape for others. Not around obedience and acquiesence. Aroung people and everthing they bring along.</p>
