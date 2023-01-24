@@ -67,7 +67,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>&ldquo;OK, this bears repeating: we know what we know, and are confident of it, because of the people we hang out with.&rdquo; He looked at the people listening and waited for responses. Then Zep went on. &ldquo;We know what we know because of our community. Stupid is what other people believe.&rdquo; Zep looked at them again while he let the statement float. &ldquo;Stupid is what other people believe, but we are the other people. Stupid is what other people believe, but we are them, so treat us kindly. Don&rsquo;t assume, ask. And this means to ask not from proving yourself right, ask from love. To get in touch with what the other needs.&rdquo;</p>
  <p>&ldquo;Unless they are carrying a weapon!&rdquo; shouted Gaspar, one of the younger kids, and everybody laughed.</p>
 
-<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+<div class="_links">
  <!--
  <span style="float:left; "> <a href="https://radicalcompanies.com/2023/">Previous &lt;</a></span>
  -->
