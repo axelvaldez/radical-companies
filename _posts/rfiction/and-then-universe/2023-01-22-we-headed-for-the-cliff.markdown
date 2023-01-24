@@ -7,8 +7,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
 ---
 
 <div style="display:none;">
- <p>We headed for the cliff and it was very comfortable ride. Then we went over the cliff.</p>
- <p>It was bumpy, but we survived.</p>
+ <p>We headed for the cliff and it was very comfortable ride. Then we went over the cliff and it was bumpy. But we survived.</p>
 </div>
 
 <h1></h1>
