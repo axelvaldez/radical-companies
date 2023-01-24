@@ -3,7 +3,7 @@ layout:   post
 title:    "Years Later"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-we-headed-for-the-cliff.svg"
+image:    "icon-years-later.svg"
 ---
 
 <div style="display:none;">
