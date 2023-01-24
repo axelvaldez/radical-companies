@@ -21,6 +21,11 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p></p>
  <p></p>
 
+<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+ <span style="float:left; "> <a href="https://radicalcompanies.com/2022/03/02/E02-sweet-home-chicago"> Previous <</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/02/E02-sweet-home-chicago"> > Next    </a></span>
+</div>
+
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
