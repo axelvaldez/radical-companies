@@ -11,7 +11,7 @@ image:    "icon-years-later.svg"
 </div>
 
 <h1></h1>
- <p>We fought, but, mostly, we grew and got stronger. Much stronger, actually, based on a good <em>foundation</em>. We were coming back from the dangerous jump over the cliff. We were coming back different.</p>
+ <p>We fought, but, mostly, we grew and got stronger. Much stronger, actually, based on a good <em>foundation</em>. We were coming back from the dangerous jump over the cliff, but we are different now.</p>
 
 <h1>Above from Sratch</h1>
  <p>Actually, we had more than the knowledge in our heads. We had many of pre-cliff artifacts. We had language.</p>
