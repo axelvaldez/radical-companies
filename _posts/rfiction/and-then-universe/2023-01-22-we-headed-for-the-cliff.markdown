@@ -74,9 +74,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>The good news is that the Earth could take a deep breath because we stopped tossing carbon into our atmosphere. We had a scary, bumby fall over the cliff and our life support system got a break. Not too shabby.</p>
 
 <div class="_links">
- <!--
- <span style="float:left;  "><a href="">Previous &lt;</a></span>
- -->
+ <!-- <span style="float:left;  "><a href="">Previous &lt;</a></span> -->
  <span style="float:right; "><a href="https://radicalcompanies.com/2023/01/23/years-later">&gt; Next</a></span>
  -->
 </div>

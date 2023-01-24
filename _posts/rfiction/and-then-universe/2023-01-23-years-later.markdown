@@ -23,9 +23,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
 
 <div class="_links">
  <span style="float:left; "> <a href="https://radicalcompanies.com/2023/01/22/we-headed-for-the-cliff">Previous &lt;</a></span>
- <!--
- <span style="float:right; "><a href="https://radicalcompanies.com/2023/01/23-years-later">&gt; Next</a></span>
- -->
+ <!-- <span style="float:right; "><a href="https://radicalcompanies.com/2023/01/23-years-later">&gt; Next</a></span> -->
 </div>
 
 <h1 class="_section">RELATED</h1>
