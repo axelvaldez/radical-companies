@@ -7,7 +7,7 @@ image:    "icon-years-later.svg"
 ---
 
 <div style="display:none;">
- <p>We fought, but, mostly, we grew and got much sronger, based on a good <em>foundation</em>. We were coming back back different.</p>
+ <p>We fought, but, mostly, we grew and got much sronger, based on a good <em>foundation</em>.</p>
 </div>
 
 <h1></h1>
