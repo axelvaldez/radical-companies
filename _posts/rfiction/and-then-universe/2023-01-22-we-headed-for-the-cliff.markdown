@@ -72,12 +72,10 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>We just lacked energy. We lacked industrial energy production and distribution. We had some energy stored in batteries and usable solar panels and wind towers.</p>
  <p>&ldquo;We have enough to let us restart from a little above scratch.&rdquo;</p>
  <p>The good news is that the Earth could take a deep breath because we stopped tossing carbon into our atmosphere. We had a scary, bumby fall over the cliff and our life support system got a break. Not too shabby.</p>
- <p></p>
- <p></p>
 
 <div class="_links">
  <!--
- <span style="float:left; "> <a href="https://radicalcompanies.com/2023/">Previous &lt;</a></span>
+ <span style="float:left;  "><a href="">Previous &lt;</a></span>
  -->
  <span style="float:right; "><a href="https://radicalcompanies.com/2023/01/23/years-later">&gt; Next</a></span>
  -->
