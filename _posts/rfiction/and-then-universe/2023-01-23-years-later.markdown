@@ -28,10 +28,11 @@ image:    "icon-years-later.svg"
  <p>One thing led to another and in a few months somebody else came up with wireless energy transmission.</p>
  <p>Wireless. Energy. Transmission.</p>
  <p>The day side of the world, could light the dark side of the world. And no government sanctioned monopoly needed, thank you. It was all decentralized energy.</p>
- <p>This, by the way, was a good illustration of why the <span class="_paradigm">FIAT</span> system is so slow. Communities governed by the <span class="_paradigm">FIAT</span> system took a very long to get involved and allocate budgets and &hellip; you get the point. They took an eternity and by then all the key discoveries were done. Also by then they had lost some of the people that made these key discoveries in their new communities. They would have been free-loaders, which is OK, but they bring themselves to open themselves to networking with the rest of the people in the world.</p>
+ <p>This, by the way, was a good illustration of why the <span class="_paradigm">FIAT</span> system is so slow. Communities governed by the <span class="_paradigm">FIAT</span> system took a very long to get involved and allocate budgets and &hellip; you get the point. They took an eternity and by then all the key discoveries were done. Also by then they had lost some of the people that made these key discoveries in their new communities. They even refused to open themselves to networking with the rest us. Of course, more people left and some people warned that one day they would bring back war violence.</p>
 
 <h1>rCOINS</h1>
- <p>
+ <p>The bigger communities had come up with the rCOIN. And just in time.</p>
+ <p>Severak communities in the African continent had were building computers, mostly from spare parts. Not as fast as pre-cliff computers, but they turned out to be fast enough to support the rCOIN.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p></p>
  <p></p>
 
@@ -50,6 +51,15 @@ image:    "icon-years-later.svg"
     Wikipedia.
     &lt;<a href="https://en.wikipedia.org/wiki/Elisha_Gray_and_Alexander_Bell_telephone_controversy" target="_blank">https://en.wikipedia.org/wiki/Elisha_Gray_and_Alexander_Bell_telephone_controversy</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    See,
+    <em>Elisha Gray and Alexander Bell telephone controversy</em>.
+    Wikipedia.
+    &lt;<a href="https://en.wikipedia.org/wiki/Elisha_Gray_and_Alexander_Bell_telephone_controversy" target="_blank">https://en.wikipedia.org/wiki/Elisha_Gray_and_Alexander_Bell_telephone_controversy</a>&gt;
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ol>
