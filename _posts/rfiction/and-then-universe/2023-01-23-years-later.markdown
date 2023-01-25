@@ -32,7 +32,7 @@ image:    "icon-years-later.svg"
 
 <h1><span class="_paradigm">rCOIN</span>s</h1>
  <p>The bigger communities needed to something to keep track of exchanges. They came up with the <span class="_paradigm">rCOIN</span>,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> but it required computers, which, as it so happened, several communities in the African continent and the island of Cuba were building. These computers were cobbled from working or non-working devices, whatever they could find. Not as fast as pre-cliff computers, but fast enough to support <span class="_paradigm">rCOIN</span>s.</p>
- <p>Then came the salt battery and the wireless network, which people were calling &ldquo;intergalactic.&rdquo;</p>
+ <p>Then came the salt battery and the wireless &ldquo;intergalactic.&rdquo; network.</p>
  <p>All this information was shared from community to community over the short-wave radio <em>network</em> that people had put together. This was enough for the <span class="_paradigm">rCOIN</span> to quickly become the world&rsquo;s exchange token, a fully transparent medium exchange.</p>
  <p>Smaller communities supported nearly worthless <span class="_paradigm">rCOIN</span>s because they knew the people minting them. Even though the chances of success were low, it was better to support these efforts than do nothing. Many never amounted to anything, but enough did. <span class="_quotespan">What the f&hellip; my <span class="_paradigm">rCOIN</span>s just grew feet!</span></p>
  <p>Thing were moving fast, but now the world moved even faster. And, except for the fast disappearing <span class="_paradigm">FIAT</span> communities, this time around, everybody co-owned everything.</p>
