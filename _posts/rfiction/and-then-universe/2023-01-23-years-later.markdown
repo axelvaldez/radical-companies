@@ -31,9 +31,10 @@ image:    "icon-years-later.svg"
  <p>This, by the way, was a good illustration of why the <span class="_paradigm">FIAT</span> system is so slow. Communities governed by the <span class="_paradigm">FIAT</span> system took a very long to get involved and allocate budgets and &hellip; you get the point. They took an eternity and by then all the key discoveries were done. Also by then they had lost some of the people that made these key discoveries in their new communities. They even refused to open themselves to networking with the rest us. Of course, more people left and some people warned that one day they would bring back war violence.</p>
 
 <h1><span class="_paradigm">rCOIN</span>s</h1>
- <p>The bigger communities needed to represent exchange and had come up with <span class="_paradigm">rCOIN</span>s. And just in time.</p>
- <p>Several communities in the African continent were building computers, mostly from what computers they could find and spare parts. Not as fast as pre-cliff computers.However, they turned out to be fast enough to support the <span class="_paradigm">rCOIN</span>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> so the communities that needed use them to implement the <span class="_paradigm">rCOIN</span>.</p>
- <p>Then came the salt battery which begat the wireless network. And the transparent <span class="_paradigm">rCOIN</span> quickly became the world&rsquo;s exchange token.</p>
+ <p>The bigger communities needed to something to keep track of exchanges. They were aware of <span class="_paradigm">rCOIN</span>s, but they required computers.</p>
+ <p>It so happened that several communities in the African continent were building computers, mostly by refurbishing old busted devices they could find and spare parts. They shared the information over the &ldquo;network&tdquo; made of short-wave radios and people. Not as fast as pre-cliff computers, but they turned out to be fast enough to support <span class="_paradigm">rCOIN</span>s,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>.</p>
+ <p>Then came the salt battery which begat the wireless network, which people were calling &ldquo;intergalactic.&rdquo;</p>
+ <p>With that, the fully transparent <span class="_paradigm">rCOIN</span> quickly became the world&rsquo;s exchange token.</p>
  <p>Smaller communities supported nearly worthless <span class="_paradigm">rCOIN</span>s because they the people minting them. Many did amount to anything, but enough did. <span class="_quotespan">What the f&hellip; my <span class="_paradigm">rCOIN</span>s just grew feet!</span></p>
  <p></p>
 
