@@ -38,7 +38,7 @@ image:    "icon-years-later.svg"
  <p></p>
 
 <div class="_links">
- <span style="float:left; "> <a href="https://<span class="_paradigm">radical</span>companies.com/2023/01/22/we-headed-for-the-cliff">Previous &lt;</a></span>
+ <span style="float:left; "> <a href="https://radicalcompanies.com/2023/01/22/we-headed-for-the-cliff">Previous &lt;</a></span>
  <!-- <span style="float:right; "><a href="https://radicalcompanies.com/2023/01/23-years-later">&gt; Next</a></span> -->
  <p>&nbsp;</p>
 </div>
