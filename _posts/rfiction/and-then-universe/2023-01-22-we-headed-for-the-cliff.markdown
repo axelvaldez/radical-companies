@@ -62,15 +62,9 @@ image:    "icon-we-headed-for-the-cliff.svg"
 
 <h1>One More Time&hellip;</h1>
  <p>&ldquo;Are we all here?&rdquo; asked Zep. And he answered, &ldquo;Of course we are all here &hellip; .&rdquo;</p>
- <p>&ldquo;&hellip; who are alreadyxxx here!&rdquo; responded his audience.</p>
+ <p>&ldquo;&hellip; who are already here!&rdquo; responded his audience.</p>
  <p>&ldquo;OK, this bears repeating: we know what we know, and are confident of it, because of the people we hang out with.&rdquo; He looked at the people listening and waited for responses. Then Zep went on. &ldquo;We know what we know because of our community. Stupid is what other people believe.&rdquo; Zep looked at them again while he let the statement float. &ldquo;Stupid is what other people believe, but we are the other people. Stupid is what other people believe, but we are them, so treat us kindly. Don&rsquo;t assume, ask. And this means to ask not from proving yourself right, ask from love. To get in touch with what the other needs.&rdquo;</p>
  <p>&ldquo;Unless they are carrying a weapon!&rdquo; shouted Gaspar, one of the younger kids, and everybody laughed.</p>
-
-<h1 class="_title">Years Later</h1>
- <p>Actually, we had more than the knowledge in our heads. We had many of the pre-cliff artifacts, expecially language.</p>
- <p>We just lacked energy. We lacked industrial energy production and distribution. We had some energy stored in batteries and usable solar panels and wind towers.</p>
- <p>&ldquo;We have enough to let us restart from a little above scratch.&rdquo;</p>
- <p>The good news is that the Earth could take a deep breath because we stopped tossing carbon into our atmosphere. We had a scary, bumby fall over the cliff and our life support system got a break. Not too shabby.</p>
 
 <div class="_links">
  <!-- <span style="float:left;  "><a href="">Previous &lt;</a></span> -->
