@@ -20,7 +20,7 @@ image:    "icon-years-later.svg"
  <p>We mostly lacked energy. We lacked industrial energy production and distribution. We had some energy stored in batteries and usable solar panels and wind towers.</p>
  <p>&ldquo;We have enough to let us restart from a little above scratch.&rdquo;</p>
  <p>The good news is that the Earth could take a deep breath because we stopped tossing carbon into our atmosphere. We had a scary, bumby fall over the cliff and our life support system got a break. Not too shabby.</p>
- <p>The thing is that you never know where the much needed innovation if or when it is going to show up. What used to be the US was like that for a while and it was prolific with innovations. But then patents came up the whole thing slowed down. It was supposedly to &ldquo;protect inventors,&rdquo; but it slow down innovations. Imagine if there were no patents, we would have had the Bell and Gray telephones to choose.<a href="#en01"><sup id="bm01">&nbsp;*&nbsp;</a></p>
+ <p>The thing is that you never know if or when that much needed innovation is going to show up. What used to be the US was like that for a while and it was prolific with innovations. But then patents came up the whole thing slowed down. It was supposedly to &ldquo;protect inventors,&rdquo; but it slow down innovations and it didn't protect anybody, except the powerful and their lawyers. For example, if without pattents, we would have had the Bell and Gray telephones to choose from.<a href="#en01"><sup id="bm01">&nbsp;&nabla;&nbsp;</a></p>
 
 <h1>rCOINS</h1>
  <p>
@@ -30,7 +30,21 @@ image:    "icon-years-later.svg"
 <div class="_links">
  <span style="float:left; "> <a href="https://radicalcompanies.com/2023/01/22/we-headed-for-the-cliff">Previous &lt;</a></span>
  <!-- <span style="float:right; "><a href="https://radicalcompanies.com/2023/01/23-years-later">&gt; Next</a></span> -->
+ <p>&nbsp;</p>
 </div>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ol>
+  <li id="en01">
+   <p class="_list-item">
+    See,
+    <em>Elisha Gray and Alexander Bell telephone controversy</em>.
+    Wikipedia.
+    &lt;<a href="https://en.wikipedia.org/wiki/Elisha_Gray_and_Alexander_Bell_telephone_controversy" target="_blank">https://en.wikipedia.org/wiki/Elisha_Gray_and_Alexander_Bell_telephone_controversy</a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ol>
 
 <h1 class="_section">RELATED</h1>
  <ul>
