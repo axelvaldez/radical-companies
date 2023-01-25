@@ -23,11 +23,12 @@ image:    "icon-years-later.svg"
  <p>The thing is that you never know when or where that much needed innovation is going to show up. What used to be the US was like that for a while and it was prolific with innovations. But then patents came up the whole thing slowed down. For example, without pattents, we would have had the Bell and Gray telephones instead of one.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Well, the energy innovation we all needed came from a community that had sprung up in the Australian continent. It was surprising because that land was still so hot as to be almost uninhabitable.</p>
 
-<h1>Energy and Wireless</h1>
+<h1>Energy to Wireless</h1>
  <p>They figured out that freezing and thawing a molten sodium-sulphur solution creates a rechargeable battery, and a cheap, easy to make battery at that. They put out instructions and in no time people all over the world were messing with it, discovering all kinds of things, and letting others know. This in spite of the fact that there was no electric networks to speak of at the time.</p>
  <p>One thing led to another and in a few months somebody else came up with wireless energy transmission.</p>
  <p>Wireless. Energy. Transmission.</p>
- <p>The day side of the world, could light the dark side of the world in a decentralized way. No government sanctioned monopolies needed, thank you.</p>
+ <p>The day side of the world, could light the dark side of the world. And no government sanctioned monopoly needed, thank you. It was all decentralized energy.</p>
+ <p>This, by the way, was a good illustration of why the FIAT system is so slow.</p>
 
 <h1>rCOINS</h1>
  <p>
