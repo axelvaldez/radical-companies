@@ -14,10 +14,16 @@ image:    "icon-years-later.svg"
  <p>We fought, but, mostly, we grew and got stronger. Much stronger, actually, based on a good <em>foundation</em>. We were coming back from the dangerous jump over the cliff, but we are different now.</p>
 
 <h1>Above from Sratch</h1>
- <p>Actually, we had more than the knowledge in our heads. We had many of pre-cliff artifacts. We had language.</p>
- <p>We just lacked energy. We lacked industrial energy production and distribution. We had some energy stored in batteries and usable solar panels and wind towers.</p>
+ <p>Actually, we had more than the knowledge in our heads. We had many of pre-cliff artifacts. We had robust languages.</p>
+
+<h1>Energy</h1>
+ <p>We mostly lacked energy. We lacked industrial energy production and distribution. We had some energy stored in batteries and usable solar panels and wind towers.</p>
  <p>&ldquo;We have enough to let us restart from a little above scratch.&rdquo;</p>
  <p>The good news is that the Earth could take a deep breath because we stopped tossing carbon into our atmosphere. We had a scary, bumby fall over the cliff and our life support system got a break. Not too shabby.</p>
+ <p>The thing is that you never know where the much needed innovation if or when it is going to show up. What used to be the US was like that for a while and it was prolific with innovations. But then patents came up the whole thing slowed down. It was supposedly to &ldquo;protect inventors,&rdquo; but it slow down innovations. Imagine if there were no patents, we would have had the Bell and Gray telephones to choose.<a href="#en01"><sup id="bm01">&nbsp;*&nbsp;</a></p>
+
+<h1>rCOINS</h1>
+ <p>
  <p></p>
  <p></p>
 
