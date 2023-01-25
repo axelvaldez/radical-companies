@@ -55,10 +55,11 @@ image:    "icon-years-later.svg"
   </li>
   <li id="en02">
    <p class="_list-item">
-    See,
-    <em>Elisha Gray and Alexander Bell telephone controversy</em>.
-    Wikipedia.
-    &lt;<a href="https://en.wikipedia.org/wiki/Elisha_Gray_and_Alexander_Bell_telephone_controversy" target="_blank">https://en.wikipedia.org/wiki/Elisha_Gray_and_Alexander_Bell_telephone_controversy</a>&gt;
+    Matt Perez, Adrian Perez, Jose Leal.
+    <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
+    Pradera Media.
+    2001.
+    &lt;<a href="https://radicalcompanies.com/2022/05/07/rcoin" target="_blank">https://radicalcompanies.com/2022/05/07/rcoin</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>

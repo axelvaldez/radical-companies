@@ -21,8 +21,13 @@ image:    "icon-about-daos.svg"
  <p>xxx<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
 
 <!-- RADICAL | FIAT | RAD -->
-(RADICAL|FIAT|RAD)
-<span class="_paradigm">$1</span>
+<h1></h1>
+ (RADICAL|FIAT|RAD)
+ <span class="_paradigm">$1</span>
+
+<!-- Endnotes -->
+<h1></h1>
+ <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
  
 <!-- image -->
  <div class="_center">
