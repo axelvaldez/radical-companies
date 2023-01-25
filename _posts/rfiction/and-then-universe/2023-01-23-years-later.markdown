@@ -16,14 +16,14 @@ image:    "icon-years-later.svg"
 <h1>Above from Sratch</h1>
  <p>Actually, we had more than the knowledge in our heads. We had many of pre-cliff artifacts. We had robust languages.</p>
 
-<h1>Energy</h1>
+<h1>Energy&hellip;</h1>
  <p>We mostly lacked energy. We lacked industrial energy production and distribution. We had some energy stored in batteries and usable solar panels and wind towers.</p>
  <p>&ldquo;We have enough to let us restart from a little above scratch.&rdquo;</p>
  <p>The good news is that the Earth could take a deep breath because we stopped tossing carbon into our atmosphere. We had a scary, bumby fall over the cliff and our life support system got a break. Not too shabby.</p>
  <p>The thing is that you never know when or where that much needed innovation is going to show up. What used to be the US was like that for a while and it was prolific with innovations. But then patents came up the whole thing slowed down. For example, without pattents, we would have had the Bell and Gray telephones instead of one.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Well, the energy innovation we all needed came from a community that had sprung up in the Australian continent. It was surprising because that land was still so hot as to be almost uninhabitable.</p>
 
-<h1>Energy to Wireless</h1>
+<h1>&hellip; to Wireless</h1>
  <p>They figured out that freezing and thawing a molten sodium-sulphur solution creates a rechargeable battery, and a cheap, easy to make battery at that. They put out instructions and in no time people all over the world were messing with it, discovering all kinds of things, and letting others know. This in spite of the fact that there was no electric networks to speak of at the time.</p>
  <p>One thing led to another and in a few months somebody else came up with wireless energy transmission.</p>
  <p>Wireless. Energy. Transmission.</p>
