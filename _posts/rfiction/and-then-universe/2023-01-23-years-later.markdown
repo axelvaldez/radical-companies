@@ -35,7 +35,7 @@ image:    "icon-years-later.svg"
  <p>Then came the salt battery and the wireless network, which people were calling &ldquo;intergalactic.&rdquo;</p>
  <p>All this information was shared from community to community over the short-wave radio <em>network</em> that people had put together. This was enough for the <span class="_paradigm">rCOIN</span> to quickly become the world&rsquo;s exchange token, a fully transparent medium exchange.</p>
  <p>Smaller communities supported nearly worthless <span class="_paradigm">rCOIN</span>s because they knew the people minting them. Even though the chances of success were low, it was better to support these efforts than do nothing. Many never amounted to anything, but enough did. <span class="_quotespan">What the f&hellip; my <span class="_paradigm">rCOIN</span>s just grew feet!</span></p>
- <p>The world moved forward surprisingly fast. And, except for the shrinking <span class="_paradigm">FIAT</span> communities, this time around, everybody co-owned everything.</p>
+ <p>Thing were moving fast, but now the world moved even faster. And, except for the fast disappearing <span class="_paradigm">FIAT</span> communities, this time around, everybody co-owned everything.</p>
  <p></p>
 
 <div class="_links">
