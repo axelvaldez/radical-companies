@@ -13,7 +13,7 @@ image:    "icon-resistance-to-co-ownership.svg"
 <h1>&nbsp;</h1>
  <div class="_center">
   <img
-   src="/assets/img/resistance-to-co-ownership.svg"
+   src="/assets/img/pic-resistance-to-co-ownership.svg"
    width="100%"
    alt="">
  </div>
