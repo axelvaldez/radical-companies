@@ -34,7 +34,7 @@ image:    "icon-years-later.svg"
  <p>The bigger communities needed to represent exchange and had come up with <span class="_paradigm">rCOIN</span>s. And just in time.</p>
  <p>Several communities in the African continent were building computers, mostly from what computers they could find and spare parts. Not as fast as pre-cliff computers.However, they turned out to be fast enough to support the <span class="_paradigm">rCOIN</span>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> so the communities that needed use them to implement the <span class="_paradigm">rCOIN</span>.</p>
  <p>Then came the salt battery which begat the wireless network. And the transparent <span class="_paradigm">rCOIN</span> quickly became the world&rsquo;s exchange token.</p>
- <p>Smaller communities supported nearly worthless <span class="_paradigm">rCOIN</span>s because they the people minting them. Many did amount to anything, but enough did. <span class="_quotespan">What the f&hellip; my <span class="_paradigm">rCOIN</span>s just got feet!</span></p>
+ <p>Smaller communities supported nearly worthless <span class="_paradigm">rCOIN</span>s because they the people minting them. Many did amount to anything, but enough did. <span class="_quotespan">What the f&hellip; my <span class="_paradigm">rCOIN</span>s just grew feet!</span></p>
  <p></p>
 
 <div class="_links">
