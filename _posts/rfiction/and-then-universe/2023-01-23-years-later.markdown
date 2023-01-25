@@ -20,7 +20,11 @@ image:    "icon-years-later.svg"
  <p>We mostly lacked energy. We lacked industrial energy production and distribution. We had some energy stored in batteries and usable solar panels and wind towers.</p>
  <p>&ldquo;We have enough to let us restart from a little above scratch.&rdquo;</p>
  <p>The good news is that the Earth could take a deep breath because we stopped tossing carbon into our atmosphere. We had a scary, bumby fall over the cliff and our life support system got a break. Not too shabby.</p>
- <p>The thing is that you never know if or when that much needed innovation is going to show up. What used to be the US was like that for a while and it was prolific with innovations. But then patents came up the whole thing slowed down. It was supposedly to &ldquo;protect inventors,&rdquo; but it slow down innovations and it didn't protect anybody, except the powerful and their lawyers. For example, if without pattents, we would have had the Bell and Gray telephones to choose from.<a href="#en01"><sup id="bm01">&nbsp;&nabla;&nbsp;</a></p>
+ <p>The thing is that you never know when or where that much needed innovation is going to show up. What used to be the US was like that for a while and it was prolific with innovations. But then patents came up the whole thing slowed down. For example, without pattents, we would have had the Bell and Gray telephones instead of one.<a href="#en01"><sup id="bm01">&nbsp;&nabla;&nbsp;</a> Well, the energy innovation we needed came from a community that had sprung up from the Australian continent. A <span class="_quotation">freezing and thawing a molten salt solution creates a rechargeable battery that can store energy cheaply and efficiently for weeks or months</span>/p>
+ 
+
+<h1>Salt</h1>
+ <p>The salt
 
 <h1>rCOINS</h1>
  <p>
