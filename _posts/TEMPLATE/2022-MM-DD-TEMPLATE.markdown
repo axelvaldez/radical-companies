@@ -20,9 +20,9 @@ image:    "icon-about-daos.svg"
 <h1></h1>
  <p>xxx<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
 
-<!-- RADICAL | FIAT | RAD -->
+<!-- RADICAL | FIAT | RAD | rCOIN -->
 <h1></h1>
- (RADICAL|FIAT|RAD)
+ (RADICAL|FIAT|RAD|rCOIN)
  <span class="_paradigm">$1</span>
 
 <!-- Endnotes -->

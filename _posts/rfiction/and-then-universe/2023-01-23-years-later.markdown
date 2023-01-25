@@ -30,15 +30,15 @@ image:    "icon-years-later.svg"
  <p>The day side of the world, could light the dark side of the world. And no government sanctioned monopoly needed, thank you. It was all decentralized energy.</p>
  <p>This, by the way, was a good illustration of why the <span class="_paradigm">FIAT</span> system is so slow. Communities governed by the <span class="_paradigm">FIAT</span> system took a very long to get involved and allocate budgets and &hellip; you get the point. They took an eternity and by then all the key discoveries were done. Also by then they had lost some of the people that made these key discoveries in their new communities. They even refused to open themselves to networking with the rest us. Of course, more people left and some people warned that one day they would bring back war violence.</p>
 
-<h1>rCOINS</h1>
- <p>The bigger communities needed to represent exchange and had come up with rCOINs. And just in time.</p>
- <p>Several communities in the African continent were building computers, mostly from what computers they could find and spare parts. Not as fast as pre-cliff computers.However, they turned out to be fast enough to support the rCOIN,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> so the communities that needed use them to implement the rCOIN.</p>
- <p>Then came the salt battery which begat the wireless network. And the transparent rCOIN quickly became the world&rsquo;s exchange token.</p>
- <p>Smaller communities supported nearly worthless rCOINs because they the people minting them. Many did amount to anything, but enough did. <span class="_invitation">Hey, my rCOINs just became worth something.</span></p>
+<h1><span class="_paradigm">rCOIN</span>s</h1>
+ <p>The bigger communities needed to represent exchange and had come up with <span class="_paradigm">rCOIN</span>s. And just in time.</p>
+ <p>Several communities in the African continent were building computers, mostly from what computers they could find and spare parts. Not as fast as pre-cliff computers.However, they turned out to be fast enough to support the <span class="_paradigm">rCOIN</span>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> so the communities that needed use them to implement the <span class="_paradigm">rCOIN</span>.</p>
+ <p>Then came the salt battery which begat the wireless network. And the transparent <span class="_paradigm">rCOIN</span> quickly became the world&rsquo;s exchange token.</p>
+ <p>Smaller communities supported nearly worthless <span class="_paradigm">rCOIN</span>s because they the people minting them. Many did amount to anything, but enough did. <span class="_citation">Hey, my <span class="_paradigm">rCOIN</span>s just became worth something.</span></p>
  <p></p>
 
 <div class="_links">
- <span style="float:left; "> <a href="https://radicalcompanies.com/2023/01/22/we-headed-for-the-cliff">Previous &lt;</a></span>
+ <span style="float:left; "> <a href="https://<span class="_paradigm">radical</span>companies.com/2023/01/22/we-headed-for-the-cliff">Previous &lt;</a></span>
  <!-- <span style="float:right; "><a href="https://radicalcompanies.com/2023/01/23-years-later">&gt; Next</a></span> -->
  <p>&nbsp;</p>
 </div>
