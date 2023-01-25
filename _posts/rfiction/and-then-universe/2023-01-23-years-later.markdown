@@ -20,11 +20,10 @@ image:    "icon-years-later.svg"
  <p>We mostly lacked energy. We lacked industrial energy production and distribution. We had some energy stored in batteries and usable solar panels and wind towers.</p>
  <p>&ldquo;We have enough to let us restart from a little above scratch.&rdquo;</p>
  <p>The good news is that the Earth could take a deep breath because we stopped tossing carbon into our atmosphere. We had a scary, bumby fall over the cliff and our life support system got a break. Not too shabby.</p>
- <p>The thing is that you never know when or where that much needed innovation is going to show up. What used to be the US was like that for a while and it was prolific with innovations. But then patents came up the whole thing slowed down. For example, without pattents, we would have had the Bell and Gray telephones instead of one.<a href="#en01"><sup id="bm01">&nbsp;&nabla;&nbsp;</a> Well, the energy innovation we needed came from a community that had sprung up from the Australian continent. A <span class="_quotation">freezing and thawing a molten salt solution creates a rechargeable battery that can store energy cheaply and efficiently for weeks or months</span>/p>
- 
+ <p>The thing is that you never know when or where that much needed innovation is going to show up. What used to be the US was like that for a while and it was prolific with innovations. But then patents came up the whole thing slowed down. For example, without pattents, we would have had the Bell and Gray telephones instead of one.<a href="#en01"><sup id="bm01">&nbsp;&nabla;&nbsp;</a> Well, the energy innovation we needed came from a community that had sprung up from the Australian continent.</p>
 
 <h1>Salt</h1>
- <p>The salt
+ <p>It turned out that freezing and thawing a molten salt solution creates a rechargeable battery. The discoverers put out a maker kit and in no time people all over the world were messing with it, discovering all kinds of things, and letting others know. In less than six months we had wireless energy transmission that could be stored in the molten salt solution. The day side of the world, could light the dark side of the world.</p>
 
 <h1>rCOINS</h1>
  <p>
