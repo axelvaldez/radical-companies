@@ -28,7 +28,7 @@ image:    "icon-years-later.svg"
  <p>One thing led to another and in a few months somebody else came up with wireless energy transmission.</p>
  <p>Wireless. Energy. Transmission.</p>
  <p>The day side of the world, could light the dark side of the world. And no government sanctioned monopoly needed, thank you. It was all decentralized energy.</p>
- <p>This, by the way, was a good illustration of why the FIAT system is so slow.</p>
+ <p>This, by the way, was a good illustration of why the <span class="_paradigm">FIAT</span> system is so slow. Communities governed by the <span class="_paradigm">FIAT</span> system took a very long to get involved and allocate budgets and &hellip; you get the point. They took an eternity and by then all the key discoveries were done. Also by then they had lost some of the people that made these key discoveries in their new communities. They would have been free-loaders, which is OK, but they bring themselves to open themselves to networking with the rest of the people in the world.</p>
 
 <h1>rCOINS</h1>
  <p>
