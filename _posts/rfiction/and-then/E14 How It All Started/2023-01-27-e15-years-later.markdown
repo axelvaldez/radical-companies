@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "Giving Back"
-subtitle: "A Couple of Years Later - E14"
+title:    "A Couple of Years Later - E14"
+subtitle: ""
 authors:  "Matt Perez"
 image:    "icon-a-couple-of-years-later.svg"
 hidden:   true
