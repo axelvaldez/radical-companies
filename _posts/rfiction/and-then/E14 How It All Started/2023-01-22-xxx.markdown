@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "Giving Back"
-subtitle: "We Headed for the Cliff - E14"
+title:    "We Headed for the Cliff - E14"
+subtitle: ""
 authors:  "Matt Perez"
 image:    "icon-we-headed-for-the-cliff.svg"
 hidden:   true
