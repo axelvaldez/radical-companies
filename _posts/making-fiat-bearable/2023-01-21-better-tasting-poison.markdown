@@ -16,7 +16,7 @@ image:    "icon-better-tasting-poison.svg"
  <p>Competition and dominance.</p>
  <p>Winners and losers.</p>
  <p>Lazy, greedy, and cowardly.</p>
- <p>Thanks to the <span class="_paradigm">FIAT</span> system. The invisible system that puts financial success above all else.</p>
+ <p>All thanks to the <span class="_paradigm">FIAT</span> system. The invisible system that puts financial success above all else.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
