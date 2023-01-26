@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Ineffective, Terrible Tweaks"
+title:    "Better Tasting Poison"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-terrible-tweaks-twiddling-thumbs.svg"
+image:    "icon-better-tasting-poison.svg"
 ---
 
 <div style="display:none;">
