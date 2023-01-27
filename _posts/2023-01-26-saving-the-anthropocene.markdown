@@ -3,7 +3,7 @@ layout:   post
 title:    "Saving the Anthropocene"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-we-headed-for-the-clif.svg"
+image:    "icon-we-headed-for-the-cliff.svg"
 hidden:   true
 ---
 
