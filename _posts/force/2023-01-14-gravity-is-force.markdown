@@ -6,15 +6,14 @@ authors:  "Matt Perez"
 image:    "icon-gravity-is-force.svg"
 ---
 <div style="display:none;">
- <p>Gravy is a force. Gravity is good, but force is bad.</p>
+ <p>Gravy is a force. Dark Energy is a force. Gravity is good, Dark Energy seems to be good. But force is bad.</p>
 </div>
 
 <h1>Gravity</h1>
  <ul>
-  <li>Gravy is a force.</li>
-  <li>Gravity is good. But force is bad.</li>
-  <li>Gravity forces things (like us) to be aligned with the center of massive objects (like the Earth).</li>
-  <li>Without gravity there’d be no life.</li>
+  <li>Gravy is a force. Dark Energy is a force.</li>
+  <li>Gravity is good. Dark Energy seems to be good.</li>
+  <li>But force is bad.</li>
  </ul>
 
 <h1>Once Again</h1>
