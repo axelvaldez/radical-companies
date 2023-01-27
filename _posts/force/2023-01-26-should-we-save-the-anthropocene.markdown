@@ -3,7 +3,7 @@ layout:   post
 title:    "Should We Save the Anthropocene?"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "iicon-should-we-save-the-anthropocene.svg"
+image:    "icon-should-we-save-the-anthropocene.svg"
 ---
 
 <div style="display:none;">
