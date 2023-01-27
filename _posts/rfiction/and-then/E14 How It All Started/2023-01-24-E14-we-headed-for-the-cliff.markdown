@@ -8,7 +8,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
 
 
 <div style="display: none;">
- <p>We aimed at the cliff, smiling and chatting with everybody in our gas-powered SUV. And then we fell.</p>
+ <p>We headed for the cliff, smiling and chatting with everybody in our gasoline-powered SUV. And then we fell.</p>
 </div>
 
 <h1>&nbsp;</h1>
