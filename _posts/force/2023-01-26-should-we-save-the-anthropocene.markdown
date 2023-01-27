@@ -32,7 +32,7 @@ image:    "icon-should-we-save-the-anthropocene.svg"
 <h1>Experiment: Co-Ownership</h1>
  <p>Ownership worked great for Jeff Bezos and it would have worked just as great for everyone who helped create that wealth.</p>
  <p>However, co-ownership takes a huge mindset change. First, we have to see the invisible: ownership is not a given, it is not sacred. It is a human invention, and it is good. If it has caused progress to happen all these centuries, imagine what it would do if <em>everybody</em> was an owner. Co-owners care for their property. Co-owners would own their creation. Co-owners will take care of their life support system, not use it as a garbage can while saying &ldquo;that&rsquo;s what Government is for, to clean up!&rdquo;</p>
- <p>IMO, we need a system that will eventually lead to universal co-ownership. Near ass I can tell, this is the only path to saving, and going beyond, the Anthropocene.</p>
+ <p>We need a system that will eventually lead to universal co-ownership. Near ass I can tell, this is the only path to saving, and going beyond, the Anthropocene.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
