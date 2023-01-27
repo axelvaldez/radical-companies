@@ -12,9 +12,9 @@ image:    "icon-a-couple-of-years-later.svg"
 
 <h1>The Salt of the Earth</h1>
  <p>It seemd to me that the salt battery was the fulcrum that helped us bolt forward. It was developed by a small community in Australia, a continent that was almost uninhabitable because it was so hot. They shared instructions of how to make them over the voice network which had painstankingly come together. Soon, communities throughout the world shared their improvements. We had renewable enerby storage systems that ensembles of commuities could build on.</p>
- <p>Then a community from South America shared that they had a rudimentary form of enery harvesting, the conversion of ambient energy from the environment. The platform that had been built, and shared world-wide, for the sodium-sulphur battery came in very handy for energy harvesting and the responses came in <em>very</em> rapidly. The whole world was working together and coming up with tangible results that communities and ensembles of communities could build.</p>
- <p>The salt battery and energy harvesting were the results, but what started it all were decentralization and transparency. Fearless sharing and no need for secrecy. The playfulness that allowed us to experiement. Communities making it all meaningful and joyful. Collaboratioon instead of ruthless competition.</p>
- <p> No place for domination or surrender. Ranking is now dynamic, a function of contribution.</p>
+ <p>Then a community from South America that had sprung up around what use to be the border of Peru and Chile shared that they had a rudimentary form of <em>energy harvesting</em>; they had built the technology to capture ambient energy from the environment. The platform for the sodium-sulphur battery came in very handy for energy harvesting and the responses came in <em>very</em> rapidly. The whole world was working together and coming up with tangible results that communities and ensembles of communities could build.</p>
+ <p>The salt battery and energy harvesting were the results, we could build on them, but what started it all were decentralization and transparency; fearless sharing and no need for secrecy; the playfulness that allowed us to experiement and learn; communities making it all meaningful and joyful; collaboratioon instead of ruthless competition.</p>
+ <p> No place for domination: ranking is now dynamic, a function of contributions.</p>
 
 <h1>The rCOIN Economy</h1>
- <p></p>
+ <p>Nevertheless we needed money. Well, no, we needed a medium of exchange that would work anywhere in the world. And <a href="https://radicalcompanies.com/2022/05/07/rcoin.html">rCOINs were it</a>.</p>
