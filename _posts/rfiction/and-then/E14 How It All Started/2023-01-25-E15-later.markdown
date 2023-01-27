@@ -17,4 +17,36 @@ image:    "icon-a-couple-of-years-later.svg"
  <p> No place for domination: ranking is now dynamic, a function of contributions.</p>
 
 <h1>The rCOIN Economy</h1>
- <p>Nevertheless we needed money. Well, no, we needed a medium of exchange that would work anywhere in the world. And <a href="https://radicalcompanies.com/2022/05/07/rcoin.html">rCOINs were it</a>.</p>
+ <p>Nevertheless we needed money. Well, no, we needed a medium of exchange that would work anywhere in the world. And <a href="https://radicalcompanies.com/2022/05/07/rcoin.html">rCOINs worked</a>.</p>
+
+ rCOINs as Collaboration
+
+As I see it, the RADICAL model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve “progress.”8
+
+Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of collaboration.
+rCOINs for a World-Wide Market
+
+A world-wide market would bring us together rather than keeping us siloed by the Rube Goldberg markets we have today.
+
+We could have a single world government create and enforce a single currency. But even if it were politically feasible, it is unnecessary and a move in the wrong direction towards centralization. To wit, we didn’t need a single world government for minutes, meters, or the Internet, some of the most useful world-wide tools of all time.
+
+A decentralized, transparent rCOIN is fundamental to such a unified market. These are some of the other things we would need to nourish and support a world-wide market,
+rCOINs for a Decentralized Market
+
+We need a decentralized market to nurture the next stage of innovation and accomplishment. Unfortunately, national fiat coins are an obstacle to this. They are not very stable and are subject to cyclical crises.9 They make international markets very complex, very opaque, and very expensive.
+
+Today’s international markets have been cobbled together by agreements that are fraught with weaknesses. National and international politics make transaction costs very expensive. Worst of all, these international markets are unduly influenced by transnational businesses seeking to profit no matter the harm to society.
+
+A decentralized market, free of interference and manipulation, is the iltimate pricing engine.
+Decentralized Minting of rCOINs
+
+We need decentralized minting of rCOINs to take national and international politics out of it and to eliminate the influence of transnational corporations.
+
+rCOINs are minted by companies, not any national government or central banks.
+rCOINs Are Transparent
+
+National fiat coins are opaque. In theory that’s good because it reduces transaction costs. But this “reduction of costs” also disables human choice.
+
+In any case, the big transaction costs are those that banks, exchanges, and political manipulation bring in. And opaqueness does not reduce any of those.
+
+rCOINs are transparent. An integral part of each rCOIN is the log that comes along with them. This will restore people’s ability to make choices based on that information.
