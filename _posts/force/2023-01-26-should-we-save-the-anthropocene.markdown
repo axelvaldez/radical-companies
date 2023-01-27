@@ -12,7 +12,7 @@ image:    "icon-should-we-save-the-anthropocene.svg"
 
 <h1>&nbsp;</h1>
  <p>If culture and civilization, the Anthropocne, is to have a future we need to embrace this critical moment in our relationship with ourselves, our communities, and planet to ensure its survival.</p>
- <p>We no longer deny that we have had a dramatic and significantly negative impact on the environment, our life-support system. If we want our discoveries and progress to survive, we must take steps to ensure its survival. We must question every single layer of the fabric of our &ldquo;*normal&rdquo; way of doping things, our <span class="_paradigm">FIAT</span> ways.</p>
+ <p>We no longer deny that we have had a dramatic and significantly negative impact on the environment, our life-support system. If we want our discoveries and progress to survive, we must take steps to ensure its survival. We must question every single layer of the fabric of our &ldquo;*normal&rdquo; way of doing things, our <span class="_paradigm">FIAT</span> ways.</p>
 
 <h1>Ownership</h1>
  <p>In particular, we need a dramatic change in the way we understand ownership. The “normal,” FIAT way is to view ownership as a given: one or a few people are owners and everybody else works for them to make a living. Things have been getting better and have progressed so that must be a sign that the system is working for us all and that has been the end of the discussion. In fact, that assumption is leading us to a disastrous fall over the proverbial cliff.</p>
