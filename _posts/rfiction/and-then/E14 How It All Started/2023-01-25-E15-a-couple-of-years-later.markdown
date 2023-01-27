@@ -7,5 +7,5 @@ image:    "icon-a-couple-of-years-later.svg"
 ---
 
 <div style="display: none;">
- <p></p>
+ <p>It took effort, but it didn't take long. Getting away from the <span class="_paradigm">FIAT</span> system of competition and exploitation saved us. Then we bolted forward without harming our life support.</p>
 </div>
