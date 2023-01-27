@@ -8,7 +8,7 @@ hidden:   true
 ---
 
 <div style="display:none;">
- <p>If culture and civilization, the Anthropocne, is to have a future we need to embrace this critical moment in our relationship with ourselves, our communities, and planet to ensure their survival.</p>
+ <p>If our culture and civilization, the Anthropocne, is to have a future we need to embrace this critical moment in our relationship with ourselves, our communities, and planet to ensure their survival.</p>
 </div>
 
 <h1>&nbsp;</h1>
