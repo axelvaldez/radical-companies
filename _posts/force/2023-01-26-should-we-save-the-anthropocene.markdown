@@ -16,7 +16,10 @@ image:    "icon-should-we-save-the-anthropocene.svg"
 
 <h1>Ownership</h1>
  <p>In particular, we need a dramatic change in the way we understand ownership. What we are used to, the FIAT way, is to view ownership as a given: a few special people are owners and everybody else works for them to make a living. Things have been getting better and have progressed so that must be a sign that the system is working for us all and that has been the end of the discussion. In fact, that assumption is leading us to a disastrous fall over the proverbial cliff.</p>
- <p>Ownership is a human invention and a very good one at that. Owners care for their property, etc. I am not sure if that is &ldquo;in our natuire&rdquo; or that is the way that it has worked out, but, in any case, let’s go with that assumption. Then ownership, as a good thing, should be spread out to everybody, not just a few. But it doesn&rsquo;t really work when limited to a very small segment of people.</p>
+ <p>Ownership is a human invention and a very good one at that. Owners care for their property, etc. I am not sure if that is &ldquo;in our natuire&rdquo; or that is the way that it has worked out, but, in any case, let’s go with that assumption.</p>
+
+<h1>Ownership Is Good</h1>
+ <p>As a good thing then, ownership should be spread out to <em>everybody</em>, not just a selected few. It doesn&rsquo;t really work well when limited to a very small segment of people. Competition and dominacion has pushed us to put the financial system as the ultimate boss, with the society as a servant and it will do it again and again. So, no, ownership does not work well for society when in the hands of a selected few, so let&rsquo;s try spreading it to everybody and see what happens. People may do a lot of things, but they won't destroy their life support system.</p>
 
 <h1>Jobs</h1>
  <p>“Jobs” are the direct descendants of slavery, and I don’t mean to exaggerate. People are no longer forced to do specific work until their (early) death, and that’s good. Now they can go from employer to employer to “improve their lot.” They get to sell their labor capacity to the highest bidder. They can be sold, but they <em>have to</em> sell themselves. Owners don’t, they simply get to take the profits from other people’s labor.</p>
