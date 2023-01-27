@@ -1,8 +1,8 @@
 ---
 layout:   post
-title:    "We Headed for the Cliff - E14"
+title:    "TEMPLATE"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez"
-image:    "icon-we-headed-for-the-clif.svg"
+authors:  "TEMPLATE"
+image:    "TEMPLATE"
 hidden:   true
 ---
