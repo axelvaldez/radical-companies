@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "A Couple of Years Later"
+title:    "Later"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-a-couple-of-years-later.svg"
