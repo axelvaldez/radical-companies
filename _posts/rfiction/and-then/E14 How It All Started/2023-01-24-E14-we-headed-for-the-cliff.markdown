@@ -3,7 +3,7 @@ layout:   post
 title:    "We Headed for the Cliff - E14"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-we-headed-for-the-clif.svg"
+image:    "icon-we-headed-for-the-cliff.svg"
 ---
 
 
