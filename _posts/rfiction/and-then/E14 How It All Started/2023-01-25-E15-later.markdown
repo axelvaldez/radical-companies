@@ -9,3 +9,11 @@ image:    "icon-a-couple-of-years-later.svg"
 <div style="display: none;">
  <p>It took effort, but it didn't take long. Getting away from the <span class="_paradigm">FIAT</span> system of competition and exploitation saved us and saved our life support.</p>
 </div>
+
+<h1></h1>
+ <p>&ldquo;&rdquo;</p>
+ <p>&ldquo;&rdquo;</p>
+ <p>&ldquo;&rdquo;</p>
+ <p>&ldquo;&rdquo;</p>
+ <p>&ldquo;&rdquo;</p>
+ <p>&ldquo;&rdquo;</p>
