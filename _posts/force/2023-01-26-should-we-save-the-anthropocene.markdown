@@ -30,8 +30,9 @@ image:    "icon-should-we-save-the-anthropocene.svg"
  <p>But then, Amazon followed the &ldquo;normal&rdquo; business path. The business paid its workers salaries and kept profits for the owners. Ownership worked great for Jeff Bezos and Amazon&rsquo;s investors. Many of its employees did very well, too, but not as well as Jeff Bezos. “But he did much more&hellip; ” I hear you thinking, “&hellip; and the people who worked for Amazon had it safe and cozy.” Or they had to pee in a bottle. Even the ones who didn&rsquo;t have to pee in a bottle, didn&rsquo;t benefit from the growth that they helped create.</p>
 
 <h1>Experiment: Co-Ownership</h1>
- <p>If ownership worked great for Jeff Bezos, it should have worked great for everyone who helped create that wealth. But that takes a huge mindset change. First, we have to see the invisible: ownership is not a given, it is not sacred. It is a human invention, and it is good. If it has caused progress to happen all these centuries, imagine what it would do if <em>everybody</em> was an owner. Owners care for their property. Owners would own their creation. Owners will take care of their life support system, not use it as a garbage can while saying “that’s what Government is for, clean up!”</p>
- <p>We need a system that will eventually lead to universal co-ownership. As I can tell, that is the only path to saving the Anthropocene.</p>
+ <p>Ownership worked great for Jeff Bezos and it would have worked just as great for everyone who helped create that wealth.</p>
+ <p>However, co-ownership takes a huge mindset change. First, we have to see the invisible: ownership is not a given, it is not sacred. It is a human invention, and it is good. If it has caused progress to happen all these centuries, imagine what it would do if <em>everybody</em> was an owner. Co-owners care for their property. Co-owners would own their creation. Co-owners will take care of their life support system, not use it as a garbage can while saying &ldquo;that&rsquo;s what Government is for, to clean up!&rdquo;</p>
+ <p>IMO, we need a system that will eventually lead to universal co-ownership. Near ass I can tell, this is the only path to saving, and going beyond, the Anthropocene.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
