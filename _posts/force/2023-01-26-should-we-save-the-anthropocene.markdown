@@ -11,7 +11,7 @@ image:    "icon-should-we-save-the-anthropocene.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>If culture and civilization, the Anthropocne, is to have a future we need to embrace this critical moment in our relationship with ourselves, our communities, and planet to ensure their survival.</p>
+ <p>If culture and civilization, the Anthropocne, is to have a future we need to embrace this critical moment in our relationship with ourselves, our communities, and planet to ensure its survival.</p>
  <p>We no longer deny that, throughout the world, we have had a dramatic and significantly negative impact on the environment, our life-support system. If we want our discovery and progress to survive, we must take steps to ensure its survival. We must question every single layer of the fabric of the current FIAT system, the “normal” way we do things.</p>
 
 <h1>Ownership</h1>
