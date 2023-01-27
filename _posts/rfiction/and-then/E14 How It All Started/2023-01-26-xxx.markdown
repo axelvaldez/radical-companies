@@ -1,8 +1,0 @@
----
-layout:   post
-title:    "TEMPLATE"
-subtitle: "TEMPLATE"
-authors:  "TEMPLATE"
-image:    "TEMPLATE"
-hidden:   true
----
