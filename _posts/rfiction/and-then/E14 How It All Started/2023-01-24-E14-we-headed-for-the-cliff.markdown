@@ -11,16 +11,19 @@ image:    "icon-we-headed-for-the-cliff.svg"
 <h1>We headed for the cliff, smiling and chatting with everybody in our gasoline-powered SUV. And then we went over the cliff.</h1>
 </div>
 
-<h1>Zep tells stories about the fact, make people think and discriminate.</h1>
+<h1>Story Telling Time</h1>
  <p class="_quotespan">We didn&rsquo;t care; we just didn&rsquo;t <em>know</em> how. In spite of all the virtous messaging around us, the most important thing for us was &lsquo;winning the race to a better life.&rsquo; That took precendence over everything else: our life support environment, our health, happiness, other people&hellip; over everything!</p>
  <p><span class="_quotespan">Many people died of never heard of sicknesses. We had vaccines, but enough of them shunned them to keep these pandemics ongoing. At one point, it was too late to get back to &lsquo;normal.&rsquo; We were over the cliff, without solid ground.</span> Zep had to pause at this point. The memories had gotten to him.</p>
- <p class="_quotespan">Most of the very wealthy hid as well they could but eventualy they were overwhelmed. You see, staying alive was the &lsquo;better life&rsquo; for the people on the outside and they were very, <em>very</em> good at pursing it. So, if they had to overwhelm the defenses that the wealthiest had put up, that is what they would do. And that is what they did.</p>
- <p class="_quotespan">Not all the wealthy acted that way, many of them opened their doors and shared all they had and hey ended up safer, with a community around them.</p>
- <p class="_quotespan">Eventually, people got tired of &lsquo;getting back to normal&rsquo; and small communities beceme the norm. Some were nomadic, but most were sedentary and settled around their crops. Many were <span class="_paradigm">FIAT</span> communities with paternalistic bosses, but just as many were co-managed by the community without permanent leaders. I grew up in one of those communities,&rdquo; said Zep, &ldquo;but later I joined a nomadic one. And, oh, the wonders I got to see.</p>
- <p>One the kids in Zep&rsquo;s audience elbowed his sister. They looked at each other briefly and then she said, &lsquo;Is this accurate? Or are you just making it all up?&rsquo;</p>
+ <p><span class="_quotespan">Most of the very wealthy hid as well they could but eventualy they were overwhelmed. You see, staying alive was the &lsquo;better life&rsquo; for the people on the outside and they were very, <em>very</em> good at pursing it. So, if they had to overwhelm the defenses that the wealthiest had put up, that is what they would do. And that is what they did.</span></p>
+ <p><span class="_quotespan">Not all the wealthy acted that way, many of them opened their doors and shared all they had and hey ended up safer, with a community around them.</span></p>
+ <p><span class="_quotespan">Eventually, people got tired of trying to &lsquo;get back to normal&rsquo;. That is whe small communities became the norm. Some were nomadic, but most were sedentary, settled around their crops. Many were <span class="_paradigm">FIAT</span> communities with bosses ranging from paternalistic to brutal. But just as many were co-managed by the community without permanent leaders. I grew up in one of those communities,&rdquo; said Zep, &ldquo;but later I joined a nomadic one. And, oh, the wonders I got to see.</span></p>
+ <p>One the kids in Zep&rsquo;s audience elbowed his sister. They looked at each other briefly and then she said, <span call="_quotespan">Is this accurate? Or are you just making it all up?</span></p>
  <p>An older one, Bal, responded, <span class="_quotespan">You have to figure it out. That&rsquo;s the point.</span></p>
- <p class="_quotespan">The facts are accurate. But, yes, you have to figure out if this story about them is true, or exagerated, or otherwise twisted or corrupted.</p>
+ <p><span class="_quotespan">The facts are accurate. But, yes, you have to figure out if this story about them is true, or exagerated, or otherwise twisted or corrupted.<sp</p>
  <p><span class="_quotespan">You have to think. You have to figure it out.</span> Bal repeated.</p>
+ <p><span class="_quotespan">And now I am goin to sleep.</span></p>
+ <p>Several people in the audience yelled, <span class="_quotespan">We know how it ends!</span></p>
+ <p><span class="_quotespan">Good, you can continue it then</span>, Zep said without looking back.</p>
 
 <h1>The Voice Network</h1>
 
