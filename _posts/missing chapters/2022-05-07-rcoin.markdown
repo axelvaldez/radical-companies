@@ -89,7 +89,7 @@ image:    "icon-decentralized-minting.svg"
    <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment" style="width: 90%; text-align: center; "></p>
   <p>They do this starting from a simple foundation of interdependence,</p>
   <div class="_center"> 
-   <table>
+   <table class="_foundation">
     <tr style="background-color:#EEEEEE; ">
      <th>principles</th>
      <td>Meaning & Belonging</td>

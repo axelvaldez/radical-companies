@@ -370,3 +370,7 @@ table._foundation tr:nth-child(4n+1)  {
   padding:0 10%;
   font-family: American Typewriter, serif;
 }
+._foundation {
+  column-width:6px;
+  column-width:10px;
+}
