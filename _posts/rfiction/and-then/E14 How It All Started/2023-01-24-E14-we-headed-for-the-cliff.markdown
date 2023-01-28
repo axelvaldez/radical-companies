@@ -34,7 +34,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
 <h1>Communities.</h1>
  <p>Some communities were doing original research. A community in what used to be Laos recovered digital repositories and they spend months broadcasting the content of the papers over the voice network. With help from the Laos folks, other recpositories were recovered in the islands of Iceland and Papua.</p>
  <p>Zep remembered this time clearly, <span class="_quotespan">Sure did, I was one of the people transcribing the paper. It was very exciting.</span></p>
- <p>It was easy to figure out <span class="_paradigm">FIAT</span> communities because they took, but never gave back. Like everybody else they would ask for something to be repeated during broadcasts, but they never said anything, they were lurkers.</p>
+ <p>It was easy to figure out <span class="_paradigm">FIAT</span> communities because they took, but never gave back. Like others, they would ask for something to be repeated during broadcasts, but, other than that, they never said anything. They were lurkers.</p>
  <p></p>
  <p></p>
  <p></p>
