@@ -19,7 +19,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p><span class="_quotespan">Eventually, people got tired of trying to &lsquo;get back to normal&rsquo;. That is whe small communities became the norm. Some were nomadic, but most were sedentary, settled around their crops. Many were <span class="_paradigm">FIAT</span> communities with bosses ranging from paternalistic to brutal. But just as many were co-managed by the community without permanent leaders. I grew up in one of those communities,&rdquo; said Zep, &ldquo;but later I joined a nomadic one. And, oh, the wonders I got to see.</span></p>
  <p>One the kids in Zep&rsquo;s audience elbowed his sister. They looked at each other briefly and then she said, <span call="_quotespan">Is this accurate? Or are you just making it all up?</span></p>
  <p>An older one, Bal, responded, <span class="_quotespan">You have to figure it out. That&rsquo;s the point.</span></p>
- <p><span class="_quotespan">The facts are accurate. But, yes, you have to figure out if this story about them is true, or exagerated, or otherwise twisted or corrupted.<sp</p>
+ <p><span class="_quotespan">The facts are accurate. But, yes, you have to figure out if this story about them is true, or exagerated, or otherwise twisted or corrupted.<span></p>
  <p><span class="_quotespan">You have to think. You have to figure it out.</span> Bal repeated.</p>
  <p><span class="_quotespan">And now I am goin to sleep,</span> Zep announced.</p>
  <p>Several people in the audience yelled, <span class="_quotespan">We know how it ends!</span></p>
