@@ -26,11 +26,13 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p><span class="_quotespan">Good, you can continue it then</span>, Zep said without looking back.</p>
 
 <h1>The Voice Network</h1>
+ <p>Little by little, one community at a time, a voice network was taking shape. We knew about short-wave radio and there was plenty of old equipment around in trucks and elsewhere that eventually broadcasters started to find each other.</p>
 
-<h1>We get started on the process of discovering and recognizing extant communities.</h1>
+<h1>Discovering and Recognizing Extant Communities.</h1>
  <p class="_quotespan"></p>
  <p class="_quotespan"></p>
  <p class="_quotespan">
+ 
 <h1>FIAT communites don't keep up and shrink.</h1>
 <h1>People leave FIAT communities.</h1>
 <h1>A couple of FIAT communites has threatened their neighbors: they want their people back (a reference to episode xx.)</h1>
