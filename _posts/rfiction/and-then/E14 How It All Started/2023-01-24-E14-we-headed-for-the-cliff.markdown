@@ -19,11 +19,11 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p><span class="_quotespan">Many people died of never heard of sicknesses. We had vaccines, but enough of them shunned them to keep these pandemics ongoing. At one point, it was too late to get back to &lsquo;normal.&rsquo; We were over the cliff, without solid ground.</span> Zep had to pause at this point. The memories had gotten to him.</p>
  <p class="_quotespan">Most of the super wealthy hid as well they could but eventualy they were overwhelmed. You see, staying alive was the &lsquo;better life&rsquo; and it they had to overwhelm the defenses that many of the wealthiest had put up, that is what they would do. And they did.</p>
  <p class="_quotespan">Not all the wealthy acted that way, many of then opened their doors and shared their resources. Regardless of the reason, they ended up safe a community around them.</p>
- <p class="_quotespan">In was then the US territoty, at first the military tried to impose &lsquo;law and oder,&rsquo; but eventually chose to protect communities, a more defensive role. A few others tried to use their power to dominate people, but they ended up warring with one another, including the nuclear incident that boiled off lake Michigan.</p>
+ <p class="_quotespan">Eventually, people got tired of &lsquo;getting back to normal&rsquo; and small communities beceme the norm. Some were nomadic, but most were sedentary and settled around their crops. Many were <span class="_paradigm">FIAT</span> communities with paternalistic bosses, but just as many were co-managed by the community without permanent leaders. I grew up in one of those communities,&rdquo; said Zep, &ldquo;but later joined a nomadic one.</p>
+ <p class="_quotespan"></p>
+ <p class="_quotespan"></p>
  <p class="_quotespan"></p>
  <p class="_quotespan">
- 
-  was the same thing that people had learned they applied to the We knew what was causing it&rsquo;t care. We didn&rsquo;t <em>know</em> how to care. In spite of all the virtous messaging around us, the most important thing for us was winnking the race to a &ldquo;better&rdquo; life. That took precendence over everything else:. Our life support, health, happiness, other people&hellip; everything!</p>
 <h1>The voice network starts to take shape.</h1>
 <h1>We get started on the process of discovering and recognizing extant communities.</h1>
 <h1>FIAT communites don't keep up and shrink.</h1>
