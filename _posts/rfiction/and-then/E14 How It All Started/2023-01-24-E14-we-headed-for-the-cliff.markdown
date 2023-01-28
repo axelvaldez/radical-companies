@@ -12,7 +12,8 @@ image:    "icon-we-headed-for-the-cliff.svg"
 </div>
 
 <h1>&nbsp;</h1>
-<h1>&ldquo;&rdquo;</h1>
+ <p>&ldquo;&rdquo;</p>
+
 <h1>Zep tells stories about the fact, make people think and discriminate.</h1>
  <p class="_quotespan">We didn&rsquo;t care. We didn&rsquo;t <em>know</em> how to care. In spite of all the virtous messaging around us, the most important thing for us was winnking the race to &ldquo;better&rdquo; life and that took precendence over anything else. Our life support, health, happiness&hellip; everything!</p>
 <h1>The voice network starts to take shape.</h1>
