@@ -15,8 +15,6 @@ image:    "icon-we-headed-for-the-cliff.svg"
 <h1>&ldquo;&rdquo;</h1>
 <h1>Zep tells stories about the fact, make people think and discriminate.</h1>
  <p class="_quotespan">test</p>
- <p class="_citation">test</p>
- <p class="_quotation">test</p>
 <h1>The voice network starts to take shape.</h1>
 <h1>We get started on the process of discovering and recognizing extant communities.</h1>
 <h1>FIAT communites don't keep up and shrink.</h1>
