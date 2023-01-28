@@ -26,12 +26,22 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p><span class="_quotespan">Good, you can continue it then</span>, Zep said without looking back.</p>
 
 <h1>The Voice Network</h1>
- <p>Little by little, one community at a time, a voice network was taking shape. We knew about short-wave radio and there was plenty of old equipment around in trucks and elsewhere that eventually broadcasters started to find each other.</p>
+ <p>Little by little, one community at a time, a voice network was taking shape.</p>
+ <p>As Zep in his stories, <span class="_quotespan">We have our heads, so, use them.</span></p>
+ <p>We knew about short-wave radio and there was plenty of old equipment around in trucks and elsewhere. People wanted to connect that spent the time to get the radios going and, eventually, broadcasters started to find each other.</p>
+ <p>One of the things that became popular in the network was to ask how-to question. In response, people shared instructions on how to fix some things, and how to build others. Then people learned to patch transmission from one broadcaster to another and this gave place to connection the world over.</p>
 
-<h1>Discovering and Recognizing Extant Communities.</h1>
- <p class="_quotespan"></p>
- <p class="_quotespan"></p>
- <p class="_quotespan">
+<h1>Communities.</h1>
+ <p>Some communities were doing original research. A community in what used to be Laos recovered digital repositories and they spend months broadcasting the content of the papers over the voice network. With help from the Laos folks, other recpositories were recovered in the islands of Iceland and Papua.</p>
+ <p>Zep remembered this time clearly, <span class="_quotespan">Sure did, I was one of the people transcribing the paper. It was very exciting.</span></p>
+ <p>It was easy to figure out <span class="_paradigm">FIAT</span> communities because they took, but never gave back. Like everybody else they would ask for something to be repeated during broadcasts, but they never said anything, they were lurkers.</p>
+ <p></p>
+ <p></p>
+ <p></p>
+ <p><span class="_quotespan"></span></p>
+ <p><span class="_quotespan"></span></p>
+ <p><span class="_quotespan"></span></p>
+ <p><span class="_quotespan"></span></p>
 
 <h1>FIAT communites don't keep up and shrink.</h1>
 <h1>People leave FIAT communities.</h1>
