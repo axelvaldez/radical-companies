@@ -17,7 +17,7 @@ image:    "icon-a-couple-of-years-later.svg"
  <p> No place for domination: ranking is now dynamic, a function of contributions.</p>
 
 <h1>The rCOIN Economy</h1>
- <p>Nevertheless we needed money. Well, no, we needed a medium of exchange that would work anywhere in the world. And <a href="https://radicalcompanies.com/2022/05/07/rcoin.html">rCOINs worked</a>.</p>
+ <p>Nevertheless we needed money. Well, no, we needed a medium of exchange that would work anywhere in the world. And <a href="https://radicalcompanies.com/2022/05/07/rcoin.html" target="_blank">rCOINs worked</a>.</p>
 
 <h1>rCOINs as Collaboration</h1>
  <p>As I see it, the RADICAL model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve “progress.”</p>
