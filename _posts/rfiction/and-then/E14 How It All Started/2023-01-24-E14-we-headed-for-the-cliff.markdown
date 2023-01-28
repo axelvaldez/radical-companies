@@ -18,7 +18,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>We get started on the process of discovering and recognizing extant communities.</p>
  <p>FIAT communites don't keep up and shrink.</p>
  <p>People leave FIAT communities.</p>
- <p>A couple of them has threatened their neighbors: they want their people back (a reference to episode xx.)</p>
+ <p>A couple of FIAT communites has threatened their neighbors: they want their people back (a reference to episode xx.)</p>
  <p>Communities realize that they have to work together, within themselves and with other communities.</p>
  <p>Ensemble explained.</p>
  <p>There are no banks and no exchange money.</p>
