@@ -105,9 +105,8 @@ image:    "icon-decentralized-minting.svg"
     <tr>
      <td class="_filler">>&nbsp;</td>
     </tr>
-   </tbody>
-  </table>
- </div>
+   </table>
+  </div>
  <h2><span class="_paradigm">rCOIN</SPAN>s as Collaboration</h2>
   <p>As I see it, the <span class="_paradigm">RADICAL</SPAN> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve &ldquo;<em>progress</em>.&rdquo;<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup></p>
   <p>Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of collaboration.</p>
