@@ -20,12 +20,12 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p class="_quotespan">Most of the super wealthy hid as well they could but eventualy they were overwhelmed. You see, staying alive was the &lsquo;better life&rsquo; and it they had to overwhelm the defenses that many of the wealthiest had put up, that is what they would do. And they did.</p>
  <p class="_quotespan">Not all the wealthy acted that way, many of then opened their doors and shared their resources. Regardless of the reason, they ended up safe a community around them.</p>
  <p class="_quotespan">Eventually, people got tired of &lsquo;getting back to normal&rsquo; and small communities beceme the norm. Some were nomadic, but most were sedentary and settled around their crops. Many were <span class="_paradigm">FIAT</span> communities with paternalistic bosses, but just as many were co-managed by the community without permanent leaders. I grew up in one of those communities,&rdquo; said Zep, &ldquo;but later joined a nomadic one.</p>
+ <p>The voice network starts to take shape.</p>
+ <p>We get started on the process of discovering and recognizing extant communities.</p>
  <p class="_quotespan"></p>
  <p class="_quotespan"></p>
  <p class="_quotespan"></p>
  <p class="_quotespan">
-<h1>The voice network starts to take shape.</h1>
-<h1>We get started on the process of discovering and recognizing extant communities.</h1>
 <h1>FIAT communites don't keep up and shrink.</h1>
 <h1>People leave FIAT communities.</h1>
 <h1>A couple of FIAT communites has threatened their neighbors: they want their people back (a reference to episode xx.)</h1>
