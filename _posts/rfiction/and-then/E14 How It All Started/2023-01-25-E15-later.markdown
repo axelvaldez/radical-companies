@@ -17,26 +17,7 @@ image:    "icon-a-couple-of-years-later.svg"
  <p> No place for domination: ranking is now dynamic, a function of contributions.</p>
 
 <h1>The <span class="_paradigm">rCOIN</span> Economy</h1>
- <p>Nevertheless we needed money. Well, no, we needed &ldquo;a medium of exchange&rdquo; that would work anywhere in the world. And <a href="https://radicalcompanies.com/2022/05/07/rcoin.html" target="_blank"><span class="_paradigm">rCOIN</span>s worked</a>. The problem with <span href="_paradigm">FIAT</span> money is that for exchange, accumulation, and a unit of measure.</p>
-
-<h1><span class="_paradigm">rCOIN</span>s as Collaboration</h1>
- <p>As I see it, the <span class="_paradigm">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve “progress.”</p>
- <p>Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of collaboration.</p>
-
-<h1><span class="_paradigm">rCOIN</span>s for a World-Wide Market</h1>
- <p>A world-wide market would bring us together rather than keeping us siloed by the Rube Goldberg markets we have today.</p>
- <p>We could have a single world government create and enforce a single currency. But even if it were politically feasible, it is unnecessary and a move in the wrong direction towards centralization. To wit, we didn’t need a single world government for minutes, meters, or the Internet, some of the most useful world-wide tools of all time.</p>
- <p>A decentralized, transparent <span class="_paradigm">rCOIN</span> is fundamental to such a unified market. These are some of the other things we would need to nourish and support a world-wide market,
-<span class="_paradigm">rCOIN</span>s for a Decentralized Market</p>
- <p>We need a decentralized market to nurture the next stage of innovation and accomplishment. Unfortunately, national fiat coins are an obstacle to this. They are not very stable and are subject to cyclical crises.9 They make international markets very complex, very opaque, and very expensive.</p>
- <p>Today’s international markets have been cobbled together by agreements that are fraught with weaknesses. National and international politics make transaction costs very expensive. Worst of all, these international markets are unduly influenced by transnational businesses seeking to profit no matter the harm to society.</p>
- <p>A decentralized market, free of interference and manipulation, is the iltimate pricing engine.</p>
-
-<h1>Decentralized Minting of <span class="_paradigm">rCOIN</span>s</h1>
- <p>We need decentralized minting of <span class="_paradigm">rCOIN</span>s to take national and international politics out of it and to eliminate the influence of transnational corporations.</p>
- <p><span class="_paradigm">rCOIN</span>s are minted by companies, not any national government or central banks.</p>
-
-<h1><span class="_paradigm">rCOIN</span>s Are Transparent</p>
- <p>National fiat coins are opaque. In theory that’s good because it reduces transaction costs. But this “reduction of costs” also disables human choice.</p>
- <p>In any case, the big transaction costs are those that banks, exchanges, and political manipulation bring in. And opaqueness does not reduce any of those.</p>
- <p><span class="_paradigm">rCOIN</span>s are transparent. An integral part of each <span class="_paradigm">rCOIN</span> is the log that comes along with them. This will restore people’s ability to make choices based on that information.</p>
+ <p>Nevertheless we needed money. Well, not <span class="_paradigm">FIAt</span> money. We needed &ldquo;a medium of exchange&rdquo; that would work anywhere in the world. We didn&rsquo;t have banks and, actually, we didn&rsquo;t want banks. We needed a different model. And <a href="https://radicalcompanies.com/2022/05/07/rcoin.html" target="_blank"><span class="_paradigm">rCOIN</span>s were it</a>. <span href="_paradigm">FIAT</span> money was a unit of measure for exchange and accumulation and it was anonymous and opaque. A "honest" dollar looked the same as a "not-so-honest" and there was no way to tell. <span class="_paradigm">rCOIN</span>s avoided all those problems and it supported world-wide exchange.</p>
+ <p>A world-wide exchange would was decentralized that could nurture the next stage of innovation and accomplishment, the ultimate pricing engine.</p>
+ <p><span class="_paradigm">rCOIN</span>s could be minted in a decentralized way, so no need for national governments</p>
+ <p>As opposed to the old money, <span class="_paradigm">rCOIN</span>s are transparent. An integral part of each <span class="_paradigm">rCOIN</span> is a open log that comes and people made choices based on that information. Local communities backed <span class="_paradigm">rCOIN</span>s by accepting them because they usually knew the people minting them or they knew people who knew the people misting them. In any case, they needed them to succeed and move the world forward.</p>
