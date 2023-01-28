@@ -11,9 +11,6 @@ image:    "icon-we-headed-for-the-cliff.svg"
 <h1>We headed for the cliff, smiling and chatting with everybody in our gasoline-powered SUV. And then we went over the cliff.</h1>
 </div>
 
-<h1>&nbsp;</h1>
- <p>&ldquo;&rdquo;</p>
-
 <h1>Zep tells stories about the fact, make people think and discriminate.</h1>
  <p class="_quotespan">We didn&rsquo;t care; we just didn&rsquo;t <em>know</em> how. In spite of all the virtous messaging around us, the most important thing for us was &lsquo;winning the race to a better life.&rsquo; That took precendence over everything else: our life support environment, our health, happiness, other people&hellip; over everything!</p>
  <p><span class="_quotespan">Many people died of never heard of sicknesses. We had vaccines, but enough of them shunned them to keep these pandemics ongoing. At one point, it was too late to get back to &lsquo;normal.&rsquo; We were over the cliff, without solid ground.</span> Zep had to pause at this point. The memories had gotten to him.</p>
