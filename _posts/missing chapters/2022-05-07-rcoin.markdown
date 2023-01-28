@@ -87,7 +87,7 @@ image:    "icon-decentralized-minting.svg"
   <p>Rather than having an owner and a hierarchy of bosses, a <span class="_paradigm">RADICAL</SPAN> company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment" style="width: 90%; text-align: center; "></p>
-  <p>hey do this starting from a simple foundation of interdependence,</p>
+  <p>They do this starting from a simple foundation of interdependence,</p>
   <div class="_center"> 
    <table>
     <tr style="background-color:#EEEEEE; ">
@@ -103,7 +103,7 @@ image:    "icon-decentralized-minting.svg"
      <td>Experimentation</td>
     </tr>
     <tr>
-     <td class="_filler">>&nbsp;</td>
+     <td class="_filler">&nbsp;</td>
     </tr>
    </table>
   </div>
