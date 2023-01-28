@@ -20,7 +20,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>People leave FIAT communities.</p>
  <p>A couple of FIAT communites has threatened their neighbors: they want their people back (a reference to episode xx.)</p>
  <p>Communities realize that they have to work together, within themselves and with other communities.</p>
- <p>Ensemble explained.</p>
+ <p>Community ensembles explained.</p>
  <p>There are no banks and no exchange money.</p>
  <p>Free sharing starts over voice network.</p>
  <p>FIAT communities take, but they don't give anything back.</p>
