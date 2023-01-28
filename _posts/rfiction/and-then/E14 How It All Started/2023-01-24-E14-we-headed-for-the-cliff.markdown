@@ -21,7 +21,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>An older one, Bal, responded, <span class="_quotespan">You have to figure it out. That&rsquo;s the point.</span></p>
  <p><span class="_quotespan">The facts are accurate. But, yes, you have to figure out if this story about them is true, or exagerated, or otherwise twisted or corrupted.<sp</p>
  <p><span class="_quotespan">You have to think. You have to figure it out.</span> Bal repeated.</p>
- <p><span class="_quotespan">And now I am goin to sleep.</span></p>
+ <p><span class="_quotespan">And now I am goin to sleep,</span> Zep announced./p>
  <p>Several people in the audience yelled, <span class="_quotespan">We know how it ends!</span></p>
  <p><span class="_quotespan">Good, you can continue it then</span>, Zep said without looking back.</p>
 
@@ -32,7 +32,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p class="_quotespan"></p>
  <p class="_quotespan"></p>
  <p class="_quotespan">
- 
+
 <h1>FIAT communites don't keep up and shrink.</h1>
 <h1>People leave FIAT communities.</h1>
 <h1>A couple of FIAT communites has threatened their neighbors: they want their people back (a reference to episode xx.)</h1>
