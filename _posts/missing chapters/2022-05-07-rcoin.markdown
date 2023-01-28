@@ -88,35 +88,26 @@ image:    "icon-decentralized-minting.svg"
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment" style="width: 90%; text-align: center; "></p>
   <p>hey do this starting from a simple foundation of interdependence,</p>
-  <table align="center">
-   <colgroup>
-    <col style="width:20en; ">
-    <col colspan="3">
-   </colgroup>
-   <tbody style="font-size:smaller; ">
-    <tr style="vertical-align:text-top; ">
-     <th style="text-align:right; padding-right:1ex; ">principles</th>
-     <td style="text-align:center; background-color:lightgrey; ">Meaning & Belonging</td>
+  <div class="_center"> 
+   <table>
+    <tr style="background-color:#EEEEEE; ">
+     <th>principles</th>
+     <td>Meaning & Belonging</td>
     </tr>
     <tr>
-     <td style="font-size:7px; ">&nbsp;</td>
+     <th>commitments</th>
+     <td>Transparency & Decentralization</td>
     </tr>
-    <tr style="vertical-align:text-top; ">
-     <th style="text-align:right; padding-right:1ex; ">commitments</th>
-     <td style="text-align:center; background-color:lightgrey;">Transparency & Decentralization</td>
-    </tr>
-    <tr>
-     <td style="font-size:7px; ">&nbsp;</td>
-    </tr>
-    <tr style="vertical-align:text-top; ">
-     <th style="text-align:right; padding-right:1ex; ">practices</th>
-     <td style="text-align:center; background-color:lightgrey; ">Experimentation</td>
+    <tr style="background-color:#EEEEEE; ">
+     <th>practices</th>
+     <td>Experimentation</td>
     </tr>
     <tr>
-     <td colspan="4">&nbsp;</td>
+     <td class="_filler">>&nbsp;</td>
     </tr>
    </tbody>
   </table>
+ </div>
  <h2><span class="_paradigm">rCOIN</SPAN>s as Collaboration</h2>
   <p>As I see it, the <span class="_paradigm">RADICAL</SPAN> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve &ldquo;<em>progress</em>.&rdquo;<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup></p>
   <p>Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of collaboration.</p>
