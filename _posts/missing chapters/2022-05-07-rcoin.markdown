@@ -96,20 +96,20 @@ image:    "icon-decentralized-minting.svg"
    <tbody style="font-size:smaller; ">
     <tr style="vertical-align:text-top; ">
      <th style="text-align:right; padding-right:1ex; ">principles</th>
-     <td style="text-align:center; background-color:lightgrey; ">Meaning &<br>Belonging</td>
+     <td style="text-align:center; background-color:lightgrey; ">Meaning & Belonging</td>
     </tr>
     <tr>
      <td style="font-size:7px; ">&nbsp;</td>
     </tr>
     <tr style="vertical-align:text-top; ">
      <th style="text-align:right; padding-right:1ex; ">commitments</th>
-     <td style="text-align:center; background-color:lightgrey;">Transparency &<br>Decentralization</td>
+     <td style="text-align:center; background-color:lightgrey;">Transparency & Decentralization</td>
     </tr>
     <tr>
      <td style="font-size:7px; ">&nbsp;</td>
     </tr>
     <tr style="vertical-align:text-top; ">
-     <td style="text-align:right; padding-right:1ex; ">practices</td>
+     <th style="text-align:right; padding-right:1ex; ">practices</th>
      <td style="text-align:center; background-color:lightgrey; ">Experimentation</td>
     </tr>
     <tr>
