@@ -11,9 +11,14 @@ image:    "icon-later.svg"
 </div>
 
 <h1>Salt of the Earth</h1>
- <p>It seemd to me that the salt battery was the fulcrum that helped us bolt forward. It was developed by a small community in Australia, a continent that was almost uninhabitable because it was so hot. They shared instructions of how to make them over the voice network which had painstankingly come together. Soon, communities throughout the world shared their improvements. We had renewable enerby storage systems that ensembles of commuities could build on.</p>
- <p>Then a community from Punta Arenas shared that they had a rudimentary form of <em>energy harvesting</em> and could capture ambient energy from the environment. The platform that had come up for the sodium-sulphur battery came in very handy for the energy harvesting technology and the responses came in <em>very</em> rapidly. The whole world was working together and coming up with tangible results that communities and ensembles of communities could build on.</p>
+ <p>It seemd to me that the salt battery was the fulcrum that helped us bolt forward. It was developed by a small community in Australia doing research, a continent that was almost uninhabitable because it was so hot. We assumed that they wouldd be hard press to survive, let alos that they were doing this kind of work. It turned out that they figured out that this was the only way to go beyond survival and thrive.</p> 
+ <p>They shared their discoveries by sharing the instructions of how to make these batteries over the voice network which had painstankingly come together. Besides the how-to instructions, they spend countless hours helping people putting them together. It didn&rsquo;t take long for communities throughout the world to come up with improvements and share them.</p>
+ <p>We had renewable enerby storage systems that communities and ensembles could build on.</p>
+
+<h1>Energy Harvesting</h1>
+ <p>Then a community from Punta Arenas, in the Pampas shared that they had a rudimentary form of <em>energy harvesting</em> and could capture ambient energy from the environment. The platform that had come up for the sodium-sulphur battery came in very handy to build the energy harvesting technology and the responses came in <em>very</em> rapidly. The whole world was now working together and coming up with tangible results that communities and ensembles of communities could build on.</p>
  <p>The salt battery and energy harvesting were the results, we could build on them. But what started it all were decentralization and transparency; fearless sharing and no need for secrecy; the playfulness that allowed us to experiment and learn; communities making it all meaningful and joyful; collaboration instead of ruthless competition.</p>
+ <p>The other key element was <span href="_paradigm">RADs</span>. They allowed everybody to recognize others&rdquo; contributions and make them tangible.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
 
 <h1>World-Wide <span class="_paradigm">rCOIN</span>s</h1>
  <p>Nevertheless we needed money. Well, not <span class="_paradigm">FIAT</span> money, but we needed &ldquo;a medium of exchange&rdquo; that would work anywhere in the world. We didn&rsquo;t have banks and, actually, we didn&rsquo;t want banks. We needed a different model, and <a href="https://radicalcompanies.com/2022/05/07/rcoin.html" target="_blank"><span class="_paradigm">rCOIN</span>s were <em>it</em></a>.</p>
@@ -23,6 +28,19 @@ image:    "icon-later.svg"
 <h1></h1>
  <p></p>
  <p>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ol>
+  <li id="en01">
+   <p class="_list-item">
+    Matt Perez.
+    <em>Radical Units of Measure.</em>
+    August, 8, 2022.
+    &lt;<a href="https://radicalcompanies.com/2022-08-18-radical-units-of-measure" target="_blank">https://radicalcompanies.com/2022-08-18-radical-units-of-measure</a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ol>
 
 <h1 class="_section">RELATED</h1>
  <ul>
