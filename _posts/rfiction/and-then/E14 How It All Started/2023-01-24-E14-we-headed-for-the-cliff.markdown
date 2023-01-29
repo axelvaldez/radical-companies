@@ -41,7 +41,8 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>The good news is that the <span class="_paradigm">FIAT</span> enclaves were shrinking. People, particularly younger ones, managed to get out and easily join other communities. They would hop from one to the other until they found one that felt right, more aligned to what they were looking for. With this writing on the wall, <span class="_paradigm">FIAT</span> enclaves had been known to threaten their neighbors. They wanted &ldquo;their&rdquo; people back. One particular enclave, The Bracia, had been growing by rolling up other <span class="_paradigm">FIAT</span> enclaves and it seemed close to actually attacking their neighbors.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Community Ensembles</h1>
- <p>The only &ldquo;defense&rdquo; they had, kind of, was that a lot of communities had ensembled their <span class="_paradigm">RAD</span> systems. <span class="_paradigm">RAD</span>s made collaboration tangible.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>The only &ldquo;defense&rdquo; they had, kind of, was that a lot of communities had pooled their <span class="_paradigm">RAD</span> systems, they had become collaborative ensembles making beautiful music.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+
 <h1>We Don&rdquo;t Need No Stinkin&rsquo;&hellip; Banks</h1>
 
  <p></p>
@@ -67,9 +68,9 @@ image:    "icon-we-headed-for-the-cliff.svg"
   <li id="en02">
    <p class="_list-item">
     Matt Perez.
-    <em>The <span class="_paradigm">FIAT</span> Enclaves.</em>
-    March, 11, 2022.
-    &lt;<a href="https://radicalcompanies.com/2022/03/11/e11-the-fiat-enclaves" target="_blank">https://radicalcompanies.com/2022/03/11/e11-the-fiat-enclaves</a>&gt;
+    <em>Radical Units of Measure.</em>
+    August, 8, 2022.
+    &lt;<a href="https://radicalcompanies.com/2022-08-18-radical-units-of-measure" target="_blank">https://radicalcompanies.com/2022-08-18-radical-units-of-measure</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
