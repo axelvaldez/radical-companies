@@ -41,18 +41,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>The good news is that the <span class="_paradigm">FIAT</span> enclaves were shrinking. People, particularly younger ones, managed to get out and easily join other communities. They would hop from one to the other until they found one that felt right, more aligned to what they were looking for. With this writing on the wall, <span class="_paradigm">FIAT</span> enclaves had been known to threaten their neighbors. They wanted &ldquo;their&rdquo; people back. One particular enclave, The Bracia, had been growing by rolling up other <span class="_paradigm">FIAT</span> enclaves and it seemed close to actually attacking their neighbors.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Community Ensembles</h1>
- <p>The only &ldquo;defense&rdquo; they had, kind of, was that a lot of communities had pooled their <span class="_paradigm">RAD</span> systems, they had become ensembles, collaborating, just like jazz.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
-
-<h1>We Don&rdquo;t Need No Stinkin&rsquo;&hellip; Banks</h1>
-
- <p></p>
- <p></p>
- <p></p>
- <p></p>
- <p><span class="_quotespan"></span></p>
- <p><span class="_quotespan"></span></p>
- <p><span class="_quotespan"></span></p>
- <p><span class="_quotespan"></span></p>
+ <p>The bad news is that the co-managed, co-owned communities had not defense. Well, the only &ldquo;defense&rdquo; they had, kind of, was that a lot of communities had pooled their <span class="_paradigm">RAD</span> systems, they had become ensembles, collaborating, just like jazz.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> Maybe that would be a factor in the future.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
