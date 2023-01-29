@@ -23,7 +23,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p><span class="_quotespan">You have to think. You have to figure it out.</span> Bal repeated.</p>
  <p>Zep smiled at the reaction to Bal&rsquo;s refrain. Then he yawned and he said, <span class="_quotespan">And now I am goin to sleep.</span></p>
  <p>Several people in the audience yelled, <span class="_quotespan">We know how it ends!</span></p>
- <p><span class="_quotespan">Good, you can continue it then</span>, Zep said without looking back.</p>
+ <p><span class="_quotespan">Good, you can continue it then</span>, Zep said without looking back. <span class="_quotespan">Next time I&rsquo;ll tell a story with the details I left out.</span></p>
 
 <h1>The Voice Network</h1>
  <p>Little by little, one community at a time, a voice network was taking shape.</p>
@@ -38,9 +38,11 @@ image:    "icon-we-headed-for-the-cliff.svg"
 
 <h1><span class="_paradigm">FIAT</span> Communities</h1>
  <p>In spite of being the cause of pushing us over the cliff, the <span class="_paradigm">FIAT</span> sytem still existed, and was alive and well, in more than a few communties. There were still bosses. That is what most people knew from pre-cliff days. If you are convinced that the <em>normal</em> thing is to submit, then that is the truth. Relatively, very few people understood that the <span class="_paradigm">FIAT</span> hierarchy was had brough us to this point. But if all you know is being fragile, then that is what you are comfortable in. And most people wanted to &ldquo;get back&rdquo; to comfort.</p>
+ <p>The good news is that they, the <span class="_paradigm">FIAT</span>, were shrinking. They managed to get out and they could easily joined other communities until they found one that felt right, more aligned to what they were looking for.</p>
+ <p><span class="_paradigm">FIAT</span> had been known to threatened their neighbors because their people back.<a><sup>&hairsp;&hairsp;</sup></a> (a reference to episode xx.)</p>
 
-
-
+ <p></p>
+ <p></p>
  <p></p>
  <p></p>
  <p><span class="_quotespan"></span></p>
@@ -49,7 +51,6 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p><span class="_quotespan"></span></p>
 
 
-<h1>People leave FIAT communities.</h1>
 <h1>A couple of FIAT communites has threatened their neighbors: they want their people back (a reference to episode xx.)</h1>
 <h1>Communities realize that they have to work together, within themselves and with other communities.</h1>
 <h1>Community ensembles explained.</h1>
