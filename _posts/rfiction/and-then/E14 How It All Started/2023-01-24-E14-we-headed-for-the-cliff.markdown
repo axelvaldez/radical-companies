@@ -31,7 +31,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>We knew about short-wave radio and there was plenty of old equipment around in trucks and elsewhere. People wanted to connect that spent the time to get the radios going and, eventually, broadcasters started to find each other.</p>
  <p>One of the things that became popular in the network was to ask how-to question. In response, people shared instructions on how to fix some things, and how to build others. Then people learned to patch transmission from one broadcaster to another and this gave place to connection the world over.</p>
 
-<h1>Communities.</h1>
+<h1>Original Research</h1>
  <p>As it it turned out, a few communities were doing original research. A community in what used to be Laos recovered digital repositories and they spend months broadcasting the content of the material over the voice network. In parallel, and with help from the Laos folks, other recpositories were recovered in the islands of Iceland and Papua and then in other place.</p>
  <p>Zep remembered this time, clearly, <span class="_quotespan">Sure did, I was one of the people transcribing the dictations. It was very exciting.</span></p>
  <p>During that time we also figured out how to reconize <span class="_paradigm">FIAT</span> communities: they took, but never gave back. Their interactions were very limited. Like others, they would ask for something to be repeated during broadcasts, but, other than that, they never said anything. We figured that <span class="_paradigm">FIAT</span> communities were lurkers.</p>
