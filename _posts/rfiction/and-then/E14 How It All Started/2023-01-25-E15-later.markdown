@@ -43,14 +43,12 @@ image:    "icon-later.svg"
   <li id="en02">
    <p class="_list-item">
     Matt Perez.
-    <em><span class="_paradigm">rCOIN</span>s.</em>
-    July 17, 2022.
+    <em><span class="_paradigm">rCOIN</span>.</em>
+    May 7, 2022.
     &lt;<a href="https://radicalcompanies.com/2022/05/07/rcoin" target="_blank">https://radicalcompanies.com/2022/05/07/rcoin</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
-  </li>
-
-  
+  </li>  
  </ol>
 
 <h1 class="_section">RELATED</h1>
