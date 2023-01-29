@@ -38,7 +38,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
 
 <h1><span class="_paradigm">FIAT</span> Communities</h1>
  <p>In spite of being the cause of pushing us over the cliff, the <span class="_paradigm">FIAT</span> system still existed, and was alive and well, in more than a few enclaves, with bosses commanding everything. In a way, it is understandable because that is what most people knew from pre-cliff days. If you are convinced that the <em>normal</em> thing is to grin and bear it, then that is what comfort feels like to you. Particularly, at the time we realized that we had to regroup and reubuild, very few people understood that it was the <span class="_paradigm">FIAT</span> hierarchy that had brough us to this point.</p>
- <p>The good news is that they, the <span class="_paradigm">FIAT</span>, were shrinking. They managed to get out and they could easily join other communities until they found one that felt right, more aligned to what they were looking for.</p>
+ <p>The good news is that the <span class="_paradigm">FIAT</span> were shrinking. They managed to get out and they could easily join other communities until they found one that felt right, more aligned to what they were looking for.</p>
  <p><span class="_paradigm">FIAT</span> had been known to threatened their neighbors because their people back.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>)</p>
 
  <p></p>
