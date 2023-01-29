@@ -37,7 +37,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>During that time we also figured out how to reconize <span class="_paradigm">FIAT</span> communities: they took, but never gave back. Their interactions were very limited. Like others, they would ask for something to be repeated during broadcasts, but, other than that, they never said anything. We figured that <span class="_paradigm">FIAT</span> communities were lurkers.</p>
 
 <h1><span class="_paradigm">FIAT</span> Communities</h1>
- <p>In spite of throwing us over the cliff, the <span class="_paradigm">FIAT</span> sytem still existed in more than a few communties with bosses in command. That is what most people knew from pre-cliff days. If you are convinced that the <em>normal</em> thing is to submit, then that is the truth. Relatively, very few people understood that the <span class="_paradigm">FIAT</span> hierarchy was had brough us to this point. But if all you know is being fragile, then that is what you are comfortable in. And most people wanted to &ldquo;get back&rdquo; to comfort.</p>
+ <p>In spite of being the cause of pushing us over the cliff, the <span class="_paradigm">FIAT</span> sytem still existed, and was alive and well, in more than a few communties. There were still bosses. That is what most people knew from pre-cliff days. If you are convinced that the <em>normal</em> thing is to submit, then that is the truth. Relatively, very few people understood that the <span class="_paradigm">FIAT</span> hierarchy was had brough us to this point. But if all you know is being fragile, then that is what you are comfortable in. And most people wanted to &ldquo;get back&rdquo; to comfort.</p>
 
 
 
