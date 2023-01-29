@@ -31,15 +31,18 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>We knew about short-wave radio and there was plenty of old equipment around in trucks and elsewhere. People wanted to connect that spent the time to get the radios going and, eventually, broadcasters started to find each other.</p>
  <p>One of the things that became popular in the network was to ask how-to question. In response, people shared instructions on how to fix some things, and how to build others. Then people learned to patch transmission from one broadcaster to another and this gave place to connection the world over.</p>
 
-<h1>Original Research</h1>
+<h1>Spring Blossoms</h1>
  <p>As it it turned out, a few communities were doing original research. A community in what used to be Laos recovered digital repositories and they spend months broadcasting the content of the material over the voice network. In parallel, and with help from the Laos folks, other recpositories were recovered in the islands of Iceland and Papua and then in other place.</p>
  <p>Zep remembered this time, clearly, <span class="_quotespan">Sure did, I was one of the people transcribing the dictations. It was very exciting.</span></p>
  <p>During that time we also figured out how to reconize <span class="_paradigm">FIAT</span> communities: they took, but never gave back. Their interactions were very limited. Like others, they would ask for something to be repeated during broadcasts, but, other than that, they never said anything. We figured that <span class="_paradigm">FIAT</span> communities were lurkers.</p>
 
 <h1><span class="_paradigm">FIAT</span> Communities</h1>
  <p>In spite of being the cause of pushing us over the cliff, the <span class="_paradigm">FIAT</span> system still existed, and was alive and well, in more than a few enclaves, with bosses commanding everything. In a way, it is understandable because that is what most people knew from pre-cliff days. If you are convinced that the <em>normal</em> thing is to grin and bear it, then that is what comfort feels like to you. Particularly, at the time we realized that we had to regroup and reubuild, very few people understood that it was the <span class="_paradigm">FIAT</span> hierarchy that had brough us to this point.</p>
- <p>The good news is that the <span class="_paradigm">FIAT</span> were shrinking. They managed to get out and they could easily join other communities until they found one that felt right, more aligned to what they were looking for.</p>
- <p><span class="_paradigm">FIAT</span> had been known to threatened their neighbors because their people back.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>)</p>
+ <p>The good news is that the <span class="_paradigm">FIAT</span> were shrinking. As well they could, people, particularly younger ones, managed to get out. They could then easily join other communities until they found one that felt right, more aligned to what they were looking for. The writing was on the wall, and <span class="_paradigm">FIAT</span> had been known to threaten their neighbors to get back &ldquo;their&rdquo; people. One of these enclaves was close to actually doing it.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>)</p>
+
+<h1>Community Ensembles</h1>
+
+<h1>We Don&rdquo;t Need No Stinkin&rsquo;&hellip; Banks</h1>
 
  <p></p>
  <p></p>
@@ -49,15 +52,6 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p><span class="_quotespan"></span></p>
  <p><span class="_quotespan"></span></p>
  <p><span class="_quotespan"></span></p>
-
-
-<h1>A couple of FIAT communites has threatened their neighbors: they want their people back (a reference to episode xx.)</h1>
-<h1>Communities realize that they have to work together, within themselves and with other communities.</h1>
-<h1>Community ensembles explained.</h1>
-<h1>There are no banks and no exchange money.</h1>
-<h1>Free sharing starts over voice network.</h1>
-<h1>FIAT communities take, but they don't give anything back.</h1>
-<h1>First glimpse of technological progress</h1>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
