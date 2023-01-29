@@ -77,7 +77,7 @@ image:    "icon-about-daos.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    AUTHOR(S) a.
+    AUTHOR(S).
     <em>TITLE.</em>
     PUBLICATION YEAR.
     &lt;<a href="https://…" target="_blank">https://…</a>&gt;
@@ -86,7 +86,7 @@ image:    "icon-about-daos.svg"
   </li>
   <li id="en02">
    <p class="_list-item">
-    AUTHOR(S) b.
+    AUTHOR(S).
     <em>TITLE.</em>
     PUBLICATION YEAR.
     &lt;<a href="https://…" target="_blank">https://…</a>&gt;
@@ -95,7 +95,7 @@ image:    "icon-about-daos.svg"
   </li>
   <li id="en03">
    <p class="_list-item">
-    AUTHOR(S) c.
+    AUTHOR(S).
     <em>TITLE.</em>
     PUBLICATION YEAR.
     &lt;<a href="https://…" target="_blank">https://…</a>&gt;
