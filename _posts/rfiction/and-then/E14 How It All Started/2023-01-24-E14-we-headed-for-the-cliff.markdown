@@ -38,6 +38,9 @@ image:    "icon-we-headed-for-the-cliff.svg"
 
 <h1><span class="_paradigm">FIAT</span> Communities</h1>
  <p>In spite of throwing us over the cliff, the <span class="_paradigm">FIAT</span> sytem still existed in more than a few communties with bosses in command. That is what most people knew from pre-cliff days. If you are convinced that the <em>normal</em> thing is to submit, then that is the truth. Relatively, very few people understood that the <span class="_paradigm">FIAT</span> hierarchy was had brough us to this point. But if all you know is being fragile, then that is what you are comfortable in. And most people wanted to &ldquo;get back&rdquo; to comfort.</p>
+
+
+
  <p></p>
  <p></p>
  <p><span class="_quotespan"></span></p>
