@@ -33,10 +33,10 @@ image:    "icon-later.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    Matt Perez.
-    <em>Radical Units of Measure.</em>
-    August, 8, 2022.
-    &lt;<a href="https://radicalcompanies.com/2022-08-18-radical-units-of-measure" target="_blank">https://radicalcompanies.com/2022-08-18-radical-units-of-measure</a>&gt;
+    Matt Perez, Jose Leal, Adrian Perez.
+    <em>Giving <span href="_paradigm">RAD</span>s.</em>
+    July 17, 2022.
+    &lt;<a href="https://radicalcompanies.com/2022/07/17/giving-rads" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
