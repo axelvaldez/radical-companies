@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The RADICAL Model Is a Seed"
+title:    "The RADICAL Seed"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
 image:    "icon-the-radical-model-is-not-deterministic.svg"
