@@ -7,7 +7,7 @@ image:    "icon-the-radical-seed.svg"
 ---
 
 <div style="display:none;">
- <p>The <span class="_paradigm">RADICAL</span> model specifies a Foundation and as such is more like a seed than a tree. You can tell what kind of tree it is, but not exactly how it is going to develop.</p>
+ <p>The <span class="_paradigm">RADICAL</span> model specifies a Foundation and as such is more like a seed than a tree. Avocado versus mango, you can tell what kind of tree it is, but not exactly how it is going to develop.</p>
 </div>
 
 <h1>&nbsp;</h1>
