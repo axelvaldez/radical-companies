@@ -7,7 +7,7 @@ image:    "icon-should-we-save-the-anthropocene.svg"
 ---
 
 <div style="display:none;">
- <p>If our culture and civilization, the Anthropocene, is to have a future, we need to embrace this critical moment for the survivla of our relationship with ourselves, our communities, and Earth, our life support.</p>
+ <p>If our culture and civilization, the Anthropocene, is to have a future, we need to rekindle our relationship with ourselves and our communities, to assure the survival of Earth, our life support.</p>
 </div>
 
 <h1>&nbsp;</h1>
