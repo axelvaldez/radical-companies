@@ -3,7 +3,7 @@ layout:   post
 title:    "The RADICAL Seed"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
-image:    "icon-the-radical-model-is-not-deterministic.svg"
+image:    "icon-the-radical-seed.svg"
 ---
 
 <div style="display:none;">
