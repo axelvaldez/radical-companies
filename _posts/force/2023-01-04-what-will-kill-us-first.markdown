@@ -51,7 +51,7 @@ image:    "icon-what-will-kill-us-first.svg"
  </div>
 
 <h1>It Has Happened Before</h1>
- <p>This is not the first time that competition has result in local extinction. The big problem now is that the specter of extinction is global. There will be enough of us left that we will not go quietly into the night, we will make a come back. However,  we have to try a model based on collaboration, not competition. Abundance, not scarcity.</p>
+ <p>This is not the first time that competition has resulted in extinction, albeit limited extinction. The big problem now is that the specter of extinction is global. There will be enough of us left and we will make a come back. The winner-takes-all <span class="_paradigm">FIAT</span> system of competition and dominance has been catastrophic. We need to try a different system. One based on collaboration, not competition. Abundance, not scarcity.</p>
  <p>In <em>Profit: An Environmental History</em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Mark Stoll documents, extensively, how competition has driven us to the spoilage of our environment multiple times. The process was not profitable for most people, either, who went to their early grave from overwork, malnutrition, and disease. Forests and the environment in general was devasted by sugar, tobacco, and other &ldquo;commercial&rdquo; crops. Over time they drained the land of nutrients and impoverished people&rsquo;s lives.</p>
 
 <h1>Strong Trend</h1>
