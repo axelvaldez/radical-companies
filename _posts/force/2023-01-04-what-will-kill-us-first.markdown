@@ -146,7 +146,7 @@ image:    "icon-what-will-kill-us-first.svg"
  </ul>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en11">
    <p class="_list-item">
     Mark Stoll.
@@ -235,7 +235,7 @@ image:    "icon-what-will-kill-us-first.svg"
     <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 <h1 class="_section">RELATED</h1>
  <ul>
