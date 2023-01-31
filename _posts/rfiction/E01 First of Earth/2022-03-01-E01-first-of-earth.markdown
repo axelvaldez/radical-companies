@@ -74,7 +74,7 @@ image:    "icon-e01-and-then.svg"
  <p>&ldquo;Yes. No. I mean, you are not,&rdquo; she approved.</p>
  <p>&ldquo;It&rsquo;s good to finally meet you, Samantha. I wish I had lived longer, but we did overlap just when you were a baby.&rdquo;</p>
 
-<h1">First Visit</h1>
+<h1>First Visit</h1>
  <p>It felt different on Earth. The Anchortron did a pretty good job of simulating Earth gravity, but it didn&rsquo;t feel quite the same down here, not sure why. Maybe it was because there was no relief from the pull of real gravity: it was everywhere, including the open spaces.</p>
  <p>And, yes, the open spaces: They. Felt. Different. They looked like those in the Mods but they were not quite the same. Sammie was pretty sure that things like the wind, or the absence of it, was a big part of it. In space &ldquo;wind&rdquo; was a terrifying and life threatening problem; it meant that air was escaping. On the Surface, air didn&rsquo;t escape, it just moved about, placidly. It was something to be enjoyed, nothing to be afraid of.</p>
  <p>Mods could do a great job with visuals and sounds, but it had none of the other effects, like the warmth of the direct Sun, and the sudden coolness of a passing cloud, or the slightest breeze.</p>
@@ -97,7 +97,7 @@ image:    "icon-e01-and-then.svg"
  <p>Not soon after that the invitation from the Chinese Pod came and it didn&rsquo;t take Sammie long to decide to accept it. A few days later she packed her things without saying much and as she was about to walk out her mom was very quiet. Sammie felt sad to leave but she wanted to get out of there even more. It sure felt like she should say something&hellip; so she reached out and hugged her mom.</p>
  <p>In that awkward, last minute hug Sammie felt an exoskeleton under her mom&rsquo;s clothes. She recognized it because they were not that different from the one they all used in the oYard when they had to move something massive. Now the whole thing made sense: besides aiding her movement, the exo was keeping her mom alive and coherent. So this wasn&rsquo;t quite a health cluster, more like a hospice.</p>
 
-<h1">Floating Away</h1>
+<h1>Floating Away</h1>
  <p>Sammie&rsquo;s trip to the Beijing Pod took a bit over forty-eight hours in an inflatable ship. It was surprisingly comfortable and very efficient. And floating in the vast body of water had the same dangerous, exhilarating  edge of the other open spaces. Little by little the immensity of Earth was starting to dawn on me. The oYard was big and roomy, but this&hellip; this <em>planet</em> was in a different class altogether. The people who still called it Spaceship Earth had no idea how stupid that sounded to somebody who was born and raised in a real spaceship.</p>
 
 <h1>The Middle Kingdom</h1>
