@@ -25,6 +25,11 @@ image:    "icon-later.svg"
  <p>The old fiat money could be accumulated, with all the problems that arose from it. <span class="_paradigm">rCOIN</span>s avoided all those problems and it supported decentralized world-wide exchange. We did&rsquo;t think of it at first, but it accelerated the next wave of innovations.</p>
  <p><span class="_paradigm">rCOIN</span>s were transparent, too and each came with a log that detailed who minted them, when, and what, if anything, is backing them. People could decide to accept them or not. Communities accepted <span class="_paradigm">rCOIN</span>s at whatever value they could afford because they usually knew the people minting them, or people who knew them, or &hellip; you get my point. Most importantly, communities wanted these folks to succeed on the chance that they could move their world forward.</p>
 
+<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+ <span style="float:right; "><a href="https://radicalcompanies.com/2023/01/25/E15-later">   Previous <     </a></span>
+ <!-- <span style="float:right; "><a href="https://radicalcompanies.com/">         > Next</a></span> -->
+</div>
+
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
