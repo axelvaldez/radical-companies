@@ -147,7 +147,6 @@ image:    "icon-what-will-kill-us-first.svg"
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
-  </li>
   <li id="en11">
    <p class="_list-item">
     Mark Stoll.
@@ -165,6 +164,7 @@ image:    "icon-what-will-kill-us-first.svg"
     &lt;<a href="https://en.wikipedia.org/wiki/Anthropocene" target="_blank">https://en.wikipedia.org/wiki/Anthropocene</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
+  </li>
   <li id="en02">
    <p class="_list-item">
     Max Kozlov.
