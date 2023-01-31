@@ -6,7 +6,6 @@ authors:  "Matt Perez"
 image:    "icon-we-headed-for-the-cliff.svg"
 ---
 
-
 <div style="display: none;">
 <h1>We headed for the cliff, smiling and chatting with everybody in our gasoline-powered SUV. And then we went over the cliff.</h1>
 </div>
