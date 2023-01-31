@@ -127,8 +127,6 @@ image:    "icon-e11-and-then.svg"
  <p>Bayta didn&rsquo;t say anything, she just looked at Petra from where she was sitting.</p>
  <p>Ignatius was startled by Petra&rsquo;s remark and decided to change the conversation. &ldquo;What are COINs, anyway? They&rsquo;re like dollars, right?&rdquo;</p>
 
-42
-
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/10/E10-the-end-the-beginning">&lt; Previous</a></span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/12/E12-different">                Next &gt;</a></span>
