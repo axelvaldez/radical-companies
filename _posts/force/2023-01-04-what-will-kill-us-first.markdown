@@ -11,7 +11,7 @@ image:    "icon-what-will-kill-us-first.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Which will destroy the Anthropocene<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> first, climate change or homogeneity?</p>
+ <p>Which will destroy the Anthropocene<a href="#en11"><sup id="bm11">&hairsp;&nabla;&hairsp;</sup></a> first, climate change or homogeneity?</p>
 
 <h1>Climate Change</h1>
  <p>First, take climate change,</p>
@@ -32,7 +32,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>For another example, take the decline of disruptive science,</p>
  <div class="_quotation">
   <p>The number of science and technology research papers published has skyrocketed over the past few decades &ndash; but the &lsquo;disruptiveness&rsquo; of those papers has dropped. &hellip;</p>
-  <p>Data from millions of manuscripts show that, compared with the mid-twentieth century, research done in the 2000s was much more likely to incrementally push science forward than to veer off in a new direction and render previous work obsolete. Analysis of patents from 1976 to 2010 showed the same trend.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+  <p>Data from millions of manuscripts show that, compared with the mid-twentieth century, research done in the 2000s was much more likely to incrementally push science forward than to veer off in a new direction and render previous work obsolete. Analysis of patents from 1976 to 2010 showed the same trend.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>This is happening across diverse fields. For example, social science, technology, physical sciences, life sciences, and biomedicine.</p>
  <div class="_center">
@@ -44,14 +44,18 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>In sheer numbers, there is more research, but it trends towards improvement and not discovery. This is really bad because we can recognize and celebrate improvements (&ldquo;Wow, that’s going to make us live longer!&rdquo;), but we don’t recognize discoveries until it hits us in the face (&ldquo;WAT? We can generate energy like the Sun does?&rdquo;).</p>
 
 <h1>Fragile Food</h1>
- <p>Another example comes from our food supply: food productiopn is getting more and more fragile as we consume fewer and fewer food varieties.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
+ <p>Another example comes from our food supply: food productiopn is getting more and more fragile as we consume fewer and fewer food varieties.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
  <div class="_quotation">
-  <p>&ldquo;The ways in which plants are used by societies around the world have narrowed drastically over the past 500 years.&rdquo;<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></p>
+  <p>&ldquo;The ways in which plants are used by societies around the world have narrowed drastically over the past 500 years.&rdquo;<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>&ldquo;Crop growers worldwide face enormous challenges. Plants are becoming less resistant to pests and diseases. Crops are more likely to be damaged or fail because of droughts, heatwaves, floods, salinization and rising sea levels. Soils are degraded; rivers and watersheds are polluted; and the diversity and abundance of crop pollinators are in steep decline.&rdquo;</p>
  </div>
 
+<h1>It Has Happened Before</h1>
+ <p>This is not the first time that competition has result in local extinction. The big problem now is that the specter of extinction is global. There will be enough of us left that we will not go quietly into the night, we will make a come back. However,  we have to try a model based on collaboration, not competition. Abundance, not scarcity.</p>
+ <p>In <em>Profit: An Environmental History</em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Mark Stoll documents, extensively, how competition has driven us to the spoilage of our environment multiple times. The process was not profitable for most people, either, who went to their early grave from overwork, malnutrition, and disease. Forests and the environment in general was devasted by sugar, tobacco, and other &ldquo;commercial&rdquo; crops. Over time they drained the land of nutrients and impoverished people&rsquo;s lives.</p>
+
 <h1>Strong Trend</h1>
- <p>Politically, our priorities are trending towards tweaking and avoiding risk. Worst, this trend is bringing about a world-wide monoculture in every aspect of our lives, in politics,<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> science, food, etc.</p>
+ <p>Politically, our priorities are trending towards tweaking and avoiding risk. Worst, this trend is bringing about a world-wide monoculture in every aspect of our lives, in politics,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> science, food, etc.</p>
 
 <h1>Monoculture</h1>
  <p>Monocultures are fragile. A virus that harm one member of the species, can harm <em>every</em> member of the species.</p>
@@ -97,11 +101,11 @@ image:    "icon-what-will-kill-us-first.svg"
   <tr style="background-color:#EEEEEE; ">
    <th><em><span class="_paradigm">RAD</span>s!</em></th>
    <td>This is the most general tool in that it can be used by any one community or an ensemble of communities. For more, see,
-                                  <em>Get Rid of Ownership</em>,<a href="#en06"> <sup id="bm06">6&nbsp;</sup></a>
-    <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en07"> <sup id="bm07">7&nbsp;</sup></a>
-     <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en08"> <sup id="bm08">8&nbsp;</sup></a>
-                                <em>No Bonuses or Salaries</em>,<a href="#en09"> <sup id="bm09">9&nbsp;</sup></a>
-        and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en10"><sup id="bm10">10&nbsp;</sup></a>
+                                  <em>Get Rid of Ownership</em>,<a href="#en06"> <sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a>
+    <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en07"> <sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a>
+     <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en08"> <sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a>
+                                <em>No Bonuses or Salaries</em>,<a href="#en09"> <sup id="bm09">&hairsp;&nabla;&hairsp;</sup></a>
+        and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en10"><sup id="bm10">&hairsp;&nabla;&hairsp;</sup></a>
    </td>
   </tr>
   <tr>
@@ -142,6 +146,16 @@ image:    "icon-what-will-kill-us-first.svg"
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
+  </li>
+  <li id="en11">
+   <p class="_list-item">
+    Mark Stoll.
+    <em>Profit: An Environmental History</em>.
+    2023.
+    &lt;<a href="https://a.co/a8fRLRj" target="_blank">https://a.co/aBfRLRj</a>&gt;
+    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
   <li id="en01">
    <p class="_list-item">
     For more,
@@ -150,7 +164,6 @@ image:    "icon-what-will-kill-us-first.svg"
     &lt;<a href="https://en.wikipedia.org/wiki/Anthropocene" target="_blank">https://en.wikipedia.org/wiki/Anthropocene</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
-  </li>
   <li id="en02">
    <p class="_list-item">
     Max Kozlov.
