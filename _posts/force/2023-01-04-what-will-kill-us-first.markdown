@@ -65,85 +65,85 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>We will most likely get a chance to restart, but with a decimated community. The whole thing will be very fragile as we restart from near-scratch.</p>
 
 <h1>The Anthropocene</h1>
- <p>This will happen to humanity, and the Anthropocene will end, if we don’t do something about the direction we are going. Our fossil fuel car is heading towards world-wide homogeneity and climate change.</p>
+ <p>This will happen to us, and the Anthropocene will end, if we don’t do something about the direction we are going. Our fossil fuel car is heading towards world-wide homogeneity and climate change.</p>
 
 <h1>RADICAL Mindset</h1>
- <p>One way to protect us against this is the RADICAL mindset. If we manage to spread it widely, then we will have a chance to not end up in the same place we are today, with competition rampant, and domination as the only humanity-wide <em>umwelt</em>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
+ <p>One way to protect us against this is a mindset of co-management and co-ownership. If we manage to spread it widely, then we will have a chance to not end up in the same place we are today, with competition rampant, and domination as the only humanity-wide <em>umwelt</em>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
  <p>The RADICAL model consists of the RADICAL foundation, its tools, and new skills.</p>
 
-<h1>The RADICAL Foundation</h1>
- <table align="center">
-  <tr style="background-color:#EEEEEE; ">
-   <th>principles&nbsp;&nbsp;</th>
-   <td>Meaning & Belonging</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>commitments&nbsp;&nbsp;</th>
-   <td>Transparency & Decentralization</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr style="background-color:#EEEEEE; ">
-   <th>practices&nbsp;&nbsp;</th>
-   <td>Alignment & Experimentation</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
- </table>
+ <h2>The RADICAL Foundation</h2>
+  <table align="center">
+   <tr style="background-color:#EEEEEE; ">
+    <th>principles&nbsp;&nbsp;</th>
+    <td>Meaning & Belonging</td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
+   <tr>
+    <th>commitments&nbsp;&nbsp;</th>
+    <td>Transparency & Decentralization</td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
+   <tr style="background-color:#EEEEEE; ">
+    <th>practices&nbsp;&nbsp;</th>
+    <td>Alignment & Experimentation</td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
+  </table>
 
-<h1>The Tools</h1>
- <p>These are the tools that we have come with so far,</p>
- <table align="center">
-  <tr style="background-color:#EEEEEE; ">
-   <th><em><span class="_paradigm">RAD</span>s!</em></th>
-   <td>This is the most general tool in that it can be used by any one community or an ensemble of communities. For more, see,
-                                  <em>Get Rid of Ownership</em>,<a href="#en06"> <sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a>
-    <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en07"> <sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a>
-     <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en08"> <sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a>
-                                <em>No Bonuses or Salaries</em>,<a href="#en09"> <sup id="bm09">&hairsp;&nabla;&hairsp;</sup></a>
-        and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en10"><sup id="bm10">&hairsp;&nabla;&hairsp;</sup></a>
-   </td>
-  </tr>
-  <tr>
-   <th>Explicit<br>Alignment</th>
-   <td>This applies to a group of people working on a common project (<em>i.e.</em>, what we call a company). However you choose to express them, these are the key components that you must consider,
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2">
-    <div class="_center">
-     <img
-      src="/assets/img/explicit-alignment-en.svg"
-      width="70%"
-      alt="">
-    </div>
-   </td>
-  </tr>
-  <tr style="background-color:#EEEEEE; ">
-   <th>Trust<br>Agreements</th>
-   <td>Inspired by J Kim Wright&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building in a safe pace (psycholgically abd physically).</td>
-  </tr>
-  <tr>
-   <th>Future<br>Tools</th>
-   <td>There are going to be more tools in the future. For example, specialized and community-specific tools</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
- </table>
+ <h2>The Tools</h2>
+  <p>These are the tools that we have come with so far,</p>
+  <table align="center">
+   <tr style="background-color:#EEEEEE; ">
+    <th><em><span class="_paradigm">RAD</span>s!</em></th>
+    <td>This is the most general tool in that it can be used by any one community or an ensemble of communities. For more, see,
+                                   <em>Get Rid of Ownership</em>,<a href="#en06"> <sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a>
+     <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en07"> <sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a>
+      <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en08"> <sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a>
+                                 <em>No Bonuses or Salaries</em>,<a href="#en09"> <sup id="bm09">&hairsp;&nabla;&hairsp;</sup></a>
+         and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en10"><sup id="bm10">&hairsp;&nabla;&hairsp;</sup></a>
+    </td>
+   </tr>
+   <tr>
+    <th>Explicit<br>Alignment</th>
+    <td>This applies to a group of people working on a common project (<em>i.e.</em>, what we call a company). However you choose to express them, these are the key components that you must consider,
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2">
+     <div class="_center">
+      <img
+       src="/assets/img/explicit-alignment-en.svg"
+       width="70%"
+       alt="">
+      </div>
+    </td>
+   </tr>
+   <tr style="background-color:#EEEEEE; ">
+    <th>Trust<br>Agreements</th>
+    <td>Inspired by J Kim Wright&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building in a safe pace (psycholgically abd physically).</td>
+   </tr>
+   <tr>
+    <th>Future<br>Tools</th>
+    <td>There are going to be more tools in the future. For example, specialized and community-specific tools</td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
+  </table>
 
-<h1>The Skills</h1>
- <p>Skills include the capacity to,</p>
- <ul>
-  <li>Be inquisitive over being accusative</li>
-  <li>Be playful over being rigid</li>
-  <li>Respond from love, don&rsquo;t assume ill intent</li>
- </ul>
+ <h2>The Skills</h2>
+  <p>Skills include the capacity to,</p>
+  <ul>
+   <li>Be inquisitive over being accusative</li>
+   <li>Be playful over being rigid</li>
+   <li>Respond from love, don&rsquo;t assume ill intent</li>
+  </ul>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
