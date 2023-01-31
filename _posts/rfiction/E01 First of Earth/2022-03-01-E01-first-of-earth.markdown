@@ -116,17 +116,6 @@ image:    "icon-e01-and-then.svg"
  <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/02/E02-sweet-home-chicago">Next &gt;</a></span>
 </div>
 
-<h1 class="_section">FURTHER READING</h1>
- <ul>
-  <li><a>The Hidden Masters – Notes</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
-  <li><a>A gatekeeper for learning</a> (see <a>AnchorMod</a>)</li>
-  <li><a>Narrative Arc</a></li>
-  <li><a>Future Tech and Culture</a></li>
-  <li><a>Resources</a></li>
-  <li><a>Notes</a></li>
- </ul>
-
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>

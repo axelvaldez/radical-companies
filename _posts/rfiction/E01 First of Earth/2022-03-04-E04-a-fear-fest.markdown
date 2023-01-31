@@ -11,6 +11,7 @@ hidden:   true
  <p>Vic discovered fear and how can make people bend to your will. He thought that was a good thing.</p>
 </div>
 
+<h1></h1>
  <p>After the Big Nothing people were openly fearful and they were quieter than usual, afraid to speak up. They weren&rsquo;t helping each other to get over it, and, worse, they were drawing each other into it. Sammie&rsquo;s mom had a saying which she never understood until now: &ldquo;misery loves company.&rdquo;</p>
  <p>The scariest part is that nobody knew what had caused it and could not make sense of it. Was it sabotage? a system failure? Some kind of attack? Nothing fit, nothing made sense. But the fear was palpable, more so than Sammie expected.</p>
  <p>The first thing Sammie did was to check on Kiki. It seemed that there was no Big Nothing in their habitat. They talked, cried, and laughed for a while. They both knew that everything was being spied on, so Sammie was careful not to hint at her real suspicions.</p>
@@ -57,17 +58,6 @@ hidden:   true
  <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/03/E03-give-him-back">        &lt; Previous</a></span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/05/E05-my-baby-wrote-me-a-letter">Next &gt;</a></span>
 </div>
-
-<h1 class="_section">FURTHER READING</h1>
- <ul>
-  <li><a>The Hidden Masters – Notes</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
-  <li><a href="https://www.sciencemagazinedigital.org/sciencemagazine/18_december_2020/MobilePagedArticle.action?articleId=1646790&app=false#articleId1646790">A gatekeeper for learning</a> (see <a>AnchorMod</a>)</li>
-  <li><a>Narrative Arc</a></li>
-  <li><a>Future Tech and Culture</a></li>
-  <li><a>Resources</a></li>
-  <li><a>Notes</a></li>
- </ul>
 
 <h1 class="_section">RELATED</h1>
  <ul>
