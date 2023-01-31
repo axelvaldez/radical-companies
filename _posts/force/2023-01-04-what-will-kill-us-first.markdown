@@ -142,7 +142,7 @@ image:    "icon-what-will-kill-us-first.svg"
   <ul>
    <li>Be inquisitive over being accusative</li>
    <li>Be playful over being rigid</li>
-   <li>Respond from love, don&rsquo;t assume ill intent</li>
+   <li>Respond from love over lecturing</li>
   </ul>
 
 <h1 class="_section">ENDNOTES</h1>
