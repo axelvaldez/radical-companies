@@ -147,15 +147,6 @@ image:    "icon-what-will-kill-us-first.svg"
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
-  <li id="en11">
-   <p class="_list-item">
-    Mark Stoll.
-    <em>Profit: An Environmental History</em>.
-    2023.
-    &lt;<a href="https://a.co/a8fRLRj" target="_blank">https://a.co/aBfRLRj</a>&gt;
-    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
   <li id="en01">
    <p class="_list-item">
     For more,
@@ -192,6 +183,15 @@ image:    "icon-what-will-kill-us-first.svg"
     233, 84–118 (2022).
     &lt;<a href="https://doi.org/10.1111%2Fnph.17711" target="_blank">https://doi.org/10.1111%2Fnph.17711</a>&gt;
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en11">
+   <p class="_list-item">
+    Mark Stoll.
+    <em>Profit: An Environmental History</em>.
+    2023.
+    &lt;<a href="https://a.co/a8fRLRj" target="_blank">https://a.co/aBfRLRj</a>&gt;
+    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en05">
