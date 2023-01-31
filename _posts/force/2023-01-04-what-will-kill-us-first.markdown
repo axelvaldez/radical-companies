@@ -138,11 +138,11 @@ image:    "icon-what-will-kill-us-first.svg"
  </table>
 
 <h1>The Skills</h1>
- <p>They include the capacity,</p>
+ <p>Skills include the capacity to,</p>
  <ul>
-  <li>To be inquisitive over being accusative</li>
-  <li>To be playful over being rigid</li>
-  <li>To consider behavior from love rather than from harm</li>
+  <li>Be inquisitive over being accusative</li>
+  <li>Be playful over being rigid</li>
+  <li>Respond from love, don&rsquo;t assume ill intent</li>
  </ul>
 
 <h1 class="_section">ENDNOTES</h1>
