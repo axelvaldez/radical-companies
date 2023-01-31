@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "Earth Authority"
-subtitle: "AND THEN THEY WANT TO BURN YOU — E08"
+title:    "Earth Authority — E08"
+subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-e08-and-then.svg"
 hidden:   true

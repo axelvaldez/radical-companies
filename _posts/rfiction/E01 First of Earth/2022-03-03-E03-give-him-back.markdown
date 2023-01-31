@@ -1,8 +1,8 @@
 ---
 layout:   post
-title:    "Give Him Back"
-subtitle: "AND THEN THEY WANT TO BURN YOU — E03"
-authors:  "Matt Perez & Adrian Perez"
+title:    "Give Him Back — E03"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez, Adrian Perez"
 image:    "icon-e03-and-then.svg"
 hidden:   true
 ---

@@ -1,8 +1,8 @@
 ---
 layout:   post
-title:    "First of Earth"
-subtitle: "AND THEN THEY WANT TO BURN YOU — E01"
-authors:  "Matt Perez & Adrian Perez"
+title:    "First of Earth — E01"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez, Adrian Perez"
 image:    "icon-e01-and-then.svg"
 ---
 

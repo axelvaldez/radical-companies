@@ -1,8 +1,8 @@
 ---
 layout:   post
-title:    "Sweet Home Chicago"
-subtitle: "AND THEN THEY WANT TO BURN YOU — E02"
-authors:  "Matt Perez & Adrian Perez"
+title:    "Sweet Home Chicago — E02"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez, Adrian Perez"
 image:    "icon-e02-and-then.svg"
 hidden:   true
 

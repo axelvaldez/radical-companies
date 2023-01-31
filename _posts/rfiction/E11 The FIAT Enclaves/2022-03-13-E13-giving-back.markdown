@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "Giving Back"
-subtitle: "AND THEN THEY WANT TO BURN YOU — E13"
+title:    "Giving Back — E13"
+subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-e13-and-then.png"
 hidden:   true
