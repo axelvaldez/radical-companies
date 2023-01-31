@@ -74,7 +74,7 @@ image:    "icon-about-daos.svg"
   </ul>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     AUTHOR(S).
@@ -137,7 +137,7 @@ image:    "icon-about-daos.svg"
     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 <h1 class="_section">RELATED</h1>
  <ul>
