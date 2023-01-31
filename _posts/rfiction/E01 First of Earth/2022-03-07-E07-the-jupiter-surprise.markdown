@@ -8,10 +8,10 @@ hidden:   true
 ---
 
 <div style="display: none;">
- The Jupiter Habitats get infected. Actually, the get invaded by Marines. And a splendid time was guaranteed for all.
+ <p>The Jupiter Habitats get infected. Actually, the get invaded by Marines. And a splendid time was guaranteed for all.</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">From Venus to Jupiter</a>
+<h1 style="font-size:40px; font-family:Courier New, monospace; ">From Venus to Jupiter</h1>
  <p>Just about everyone in the Venusian habitat asked what was happening on Jupiter and how big was the revolt there. General Pura Cintron, known as Gen, smiled as she climbed back into her ship. There was no revolt, they just wanted to go to Jupiter. Or so they thought.</p>
  <p>However, on their way there, and much to their surprise, they received a message from the local Mirror agents letting them know that, indeed, all but one of the Jupiter habitats were no longer loyal to Earth authorities. The Mirror agents begged that they make contact with them first in the loyal habitat Basecamp where they were supposedly barricaded. Basecamp was in what was the first habitat built near Jupiter and one of only two that orbited the giant planet. Others had been built on Europa, Callisto, and Ganymede and other habitats orbited around Io, Metis, Amalthea and Thebe.</p>
  <p>Gen boarded the Basecamp habitat with a small detachment of Marines and she was welcomed by a small group, including the Mirror agents and the three top leaders. As the Mirror agents told it, Basecamp had started to become disloyal to Earth&rsquo;s authority but eventually it snapped back to sanity &ldquo;thanks to these five determined men who got it back on track.&rdquo; They explained that they had not warned Earth because they were afraid of the repercussions from the others but now they were sure that the disloyal habitats could be brought back into the fold in no time at all.</p>
