@@ -42,6 +42,11 @@ image:    "icon-we-headed-for-the-cliff.svg"
 <h1>Community Ensembles</h1>
  <p>The bad news is that the co-managed, co-owned communities had not defense. Well, the only &ldquo;defense&rdquo; they had, kind of, was that a lot of communities had pooled their <span class="_paradigm">RAD</span> systems, they had become ensembles, collaborating, just like jazz.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> Maybe that would be a factor in the future.</p>
 
+<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+ <span style="float:left; "><a href="https://radicalcompanies.com/2022/03/12/E12-different">Previous <     </a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/12/10/its-a-start">          > Next</a></span>
+</div>
+
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
