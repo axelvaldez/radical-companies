@@ -3,7 +3,7 @@ layout:   post
 title:    "rGov: Unpolished Thoughts"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-radical-alignment-en.svg"
+image:    "icon-gov.svg"
 ---
 
 <div style="display: none;">
