@@ -7,7 +7,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
 ---
 
 <div style="display:none;">
- <p>A short walk through co-management and co-ownership, or as we call it <em>the <span style="font-size: smaller; ">RADICAL</span> model</em>.</p>
+ <p>A short walk through co-management and co-ownership, the <span style="font-size: smaller; ">RADICAL</span> model. A short version of what appears in the book <em>RADICAL COMPANIES: Without Bosses or Employees</em>.</p>
 </div>
 
 <h1>The <span class="_paradigm">RADICAL</span> Model</h1>
