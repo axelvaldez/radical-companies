@@ -7,7 +7,7 @@ image:    "icon-rland.svg"
 ---
 
 <div style="display: none;">
- <p>In a RADICAL world, would you *own* land?</p>
+ <p>In a RADICAL world, would you <b>own</b> land?</p>
 </div>
 
 <div id="fnref1" style="background-color:#FFFAF0; padding:1em; border:1px solid CadetBlue; margin-bottom:20px; ">
