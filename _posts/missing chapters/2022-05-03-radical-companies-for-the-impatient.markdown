@@ -3,7 +3,7 @@ layout:   post
 title:    "RADICAL COMPANIES for the Impatient"
 subtitle: ""
 authors:  "Matt Perez, Adrian Perez, Jose Leal"
-image:    "icon-dynamic-distribution-1.svg"
+image:    "icon-radical-companies-for-the-impatient.svg"
 ---
 
 <div style="display:none;">
