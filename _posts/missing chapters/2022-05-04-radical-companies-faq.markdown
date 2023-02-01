@@ -2,9 +2,13 @@
 layout:   post
 title:    "RADICAL COMPANIES Frequently Asked Questions (FAQ)"
 subtitle: ""
-authors:  "Matt PEREZ | Adrian PEREZ | Jose LEAL"
+authors:  "Matt PEREZ, Adrian PEREZ, Jose LEAL"
 image:    "icon-faq.png"
 ---
+
+<div style="display:none;">
+ <p>Answers to questions related to the book <em>RADICAL COMPANIES: Without Bosses or Employees</em>.</p>
+</div>
 
 <h1>Intro</h1>
  <p>These questions come from readers of the <a href="https://docs.google.com/document/d/10NJA6kzzzHZiS-CQBB6HpWdJ1gFqmYK5kNQYG_JR7X0/edit#heading=h.87ak6hy0sbuh">RADICAL COMPANIES</a> book and its accompanying booklet, <a href="https://docs.google.com/document/d/17uegxy6GPeLsajIaM_6faQ0hdl56PqMXpJvLW37iJVg/edit#">For the Impatient</a>.</p>
@@ -185,7 +189,6 @@ image:    "icon-faq.png"
  <p>For more information, see the <a href="https://docs.google.com/document/d/10NJA6kzzzHZiS-CQBB6HpWdJ1gFqmYK5kNQYG_JR7X0/edit?pli=1#heading=h.ud821w7zvp4x">Ostrom’s Core Design Principles</a> book appendix.</p>
 
 <h1 class="_section">General</h1>
-<br>
 
 <h2 style="font-size:30px; font-family:Courier New, monospace;  ">If “businesses are broken,“ how can it be that they are more successful than ever?</h2>
  <p>More <em>financially</em> successful, yes. On the other hand, engagement and tenure are going down, innovation is much talked about but non-existent in practice, burnout and suicides are going up.</p>
