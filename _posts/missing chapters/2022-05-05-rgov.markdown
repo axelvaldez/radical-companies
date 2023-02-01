@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "rGov"
-subtitle: "Unpolished Thoughts"
+title:    "rGov: Unpolished Thoughts"
+subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-radical-alignment-en.svg"
 ---
