@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Epiphany: K2K Has Been Doing it!"
+title:    "K2K Has Been Doing it!"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-galileo-experimenting.svg"
