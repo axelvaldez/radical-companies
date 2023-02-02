@@ -28,6 +28,12 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
  <p class="_citation">It is, however, important to highlight that the contributors of CBPP<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> projects do have interest and rights concerning their work and are interested in protecting their intellectual property.</p>
  <p>With <span class="_paradigm">RAD</span>s people could get a patent and then distribut the revenue that comes from it based on the recognized contributions (to the project) each person has.</p>
 
+<h1>Recommendation: Read It!</h1>
+ <p>The book is short, but not an easy read. No.</p>
+ <p>While reading it, it felt like being lectured. The book relies on a lot of obscure terms (<em>e.g.</em> stigmergic) and lots of abbreviations (<em>e.g.</em>, TEP, ICT, CBPP).</p>
+ <p>Having said all this, I still recommend you reading it. Not because misery loves company, but because they give extensive references and make a formal case for co-ownership and co-management.</p>
+ <p>I suspect that we would be well aligned with the authors.</p>
+
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
