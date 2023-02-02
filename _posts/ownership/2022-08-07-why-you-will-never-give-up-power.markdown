@@ -3,7 +3,7 @@ layout:   post
 title:    "Why You Will Never Give Up Power"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-radical-power.svg"
+image:    "icon-you-will-never-give-up-power.svg"
 ---
 
 <div style="display:none;">
