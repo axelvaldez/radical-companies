@@ -17,7 +17,8 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
   <img
    src="/assets/img/pic-network-society-and-future-scenarios-for-a-collaboration-economy.svg"
    width="70%"
-   alt="">
+   alt=""
+   style="bottom-margin:1 em; ">
  </div>
 
 <h1>The Commons</h1>
