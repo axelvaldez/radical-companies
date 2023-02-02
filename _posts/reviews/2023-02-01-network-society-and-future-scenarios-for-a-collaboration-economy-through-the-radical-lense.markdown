@@ -12,7 +12,7 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
 
 <h1>A Short Review</h1>
  <p>I got pretty excited to read this book because it sounded like they had arrived at a conclusion similar to ours, and they had done <em>eight years earlier</em>. Unfortunately, it wasn&rsquo;t quite what I had hoped. The book came really, really close, but no cigar. Nonetheless, the authors do recognize the need for something like <span class="_paradigm">RAD</span>s.</p>
- <p>Their view from a different perspective, the see three models competing for power: traditional capitalism, neo-feudal cognitive capitalism, and  Commons-based  peer  production. Their favorite is the closer to the latter that they call <em>Mature Peer Production,</em>.
+ <p>Their view from a different perspective, the see three models competing for power: traditional capitalism, neo-feudal cognitive capitalism, and  Commons-based  peer  production. Their favorite is the latter,</em>.
  <div class="_center">
   <img
    src="/assets/img/pic-network-society-and-future-scenarios-for-a-collaboration-economy-through-the-radical-lense.svg"
