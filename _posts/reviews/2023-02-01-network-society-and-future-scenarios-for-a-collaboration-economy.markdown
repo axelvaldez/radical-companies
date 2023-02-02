@@ -12,13 +12,16 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
 
 <h1>&nbsp;</h1>
  <p>The book came really, really close, but it doesn&rsquo;t quite get to something like <span class="_paradigm">RAD</span>s, although the authors point out the need for something like that.</p>
- <p>Their view from a different perspective,</p>
+ <p>Their view from a different perspective, from <em>Neo-Feudal Cognitive Capitalism</em> to <em>Mature Peer Production</em>. One of the authors is the founder of the <em>P2P Foundation</em> and the book calls co-managed people &ldquo;peers.&rdquo;</p>
  <div class="_center">
   <img
    src="/assets/img/pic-network-society-and-future-scenarios-for-a-collaboration-economy.svg"
    width="70%"
    alt="">
  </div>
+
+<h1>The Commons</h1>
+ <p class="_quotespan">&hellip; the Commons is an idea different both from state property, where the sate manages a certain resource on behalf of people [?], and from private property, where a private entity exclusde the common use of it.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
