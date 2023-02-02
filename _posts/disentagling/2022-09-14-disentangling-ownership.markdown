@@ -3,7 +3,7 @@ layout:   post
 title:    "Disentangling Ownership"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
-image:    "icon-disentangling.svg"
+image:    "icon-disentangling-ownershi[p.svg"
 ---
 
 <div style="display:none;">

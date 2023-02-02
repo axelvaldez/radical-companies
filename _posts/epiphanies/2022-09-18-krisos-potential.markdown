@@ -4,6 +4,7 @@ title:    "Krisos Potential!"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-krisos.svg"
+image:    "icon-krisos-potential.svg"
 ---
 
 <div style="display:none;">

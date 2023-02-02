@@ -3,7 +3,7 @@ layout:   post
 title:    "K2K Has Been Doing it!"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-galileo-experimenting.svg"
+image:    "icon-k2k-has-been-doing-it.svg"
 ---
 
 <div style="display:none;">
