@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "rTools: rCommunity: rCORE"
+title:    "rCORE"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal"
-image:    "icon-rtools-rcommunity-rcore.svg"
+image:    "icon-rcore.svg"
 ---
 
 <div style="display:none; ">
