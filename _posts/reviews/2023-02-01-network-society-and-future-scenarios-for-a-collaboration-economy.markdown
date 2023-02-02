@@ -1,17 +1,23 @@
 ---
 layout:   post
-title:    "Network Socienty and Future Scenarios for a Collaborative Economy"
+title:    "Network Society and Future Scenarios for a Collaborative Economy"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>Really, really close. It doesn&rsquo;t quite make it to something like <span class="_paradigm">RAD</span>s, although the authors point out the need for something like that.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p></p>
+ <p>Really, really close. It doesn&rsquo;t quite make it to something like <span class="_paradigm">RAD</span>s, although the authors point out the need for something like that.</p>
+ <p>Their view from a different perspective,</p>
+  <img
+   src="/assets/img/icon-network-society-and-future-scenarios-for-a-collaboration-economy.svg"
+   width="70%"
+   alt="">
+ </div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
