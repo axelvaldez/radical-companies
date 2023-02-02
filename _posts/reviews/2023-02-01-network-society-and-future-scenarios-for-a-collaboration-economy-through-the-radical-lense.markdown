@@ -30,8 +30,8 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
 
 <h1>Recommendation: Read It!</h1>
  <p>The book is short, but not an easy read. No.</p>
- <p>While reading it, it felt I was being lectured. The book relies on a lot of obscure terms (<em>e.g.</em> stigmergic) and lots of abbreviations (<em>e.g.</em>, TEP, ICT, CBPP).</p>
- <p>Having said all this, I still recommend you reading it. Not because misery loves company, but because they give extensive references and make a formal case for co-ownership and co-management.</p>
+ <p>While reading it, it felt I was being lectured. The book relies on a lot of obscure terms (<em>e.g.</em> stigmergic) and lots of abbreviations.</p>
+ <p>Having said all this, I still recommend you reading it. Not because misery loves company, but because the authors give extensive references that make a case for co-ownership and co-management.</p>
  <p>I suspect that we<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> would be well aligned with the authors.</p>
 
 <h1 class="_section">ENDNOTES</h1>
