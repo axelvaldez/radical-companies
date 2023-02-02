@@ -22,20 +22,20 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
  </div>
 
 <h1>The Commons</h1>
- <p class="_citation">&hellip; the Commons is an idea different both from state property, where the sate manages a certain resource on behalf of people [?], and from private property, where a private entity exclusde the common use of it.</p>
+ <p class="_citation">&hellip; the Commons is an idea different both from state property, where the sate manages a certain resource on behalf of people, and from private property, where a private entity exclusde the common use of it.<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
-    Joost Minear.
-    <em>Change the Mindset of Employees with These Three Simple Steps</em>.
-    Dec 2022.
-    &lt;<a href="https://corporate-rebels.com/work-context-changes-mindset/" target="_blank">https://corporate-rebels.com/work-context-changes-mindset/</a>&gt;
+    V Kostakis, M Bauwens.
+    <em>Network Socienty and Future Escenarios for a Collaboration Economy</em>.
+    Aug, 2014
+    &lt;<a href="https://a.co/9mLeEl" target="_blank">https://a.co/9mLeEl</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 <h1 class="_section">RELATED</h1>
  <ul>
