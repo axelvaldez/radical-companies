@@ -33,12 +33,18 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
    <p class="_list-item">
     V Kostakis, M Bauwens.
     <em>Network Socienty and Future Escenarios for a Collaboration Economy</em>.
-    Aug, 2014
+    Aug, 2014.
     &lt;<a href="https://a.co/9mLeEl" target="_blank">https://a.co/9mLeEl</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  [Commons-based Peer Production]
+  <li id="en02">
+   <p class="_list-item">
+    CBPP stands for Commons-based Peer Production.
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  Commons-based Peer Production
  </ul>
 
 <h1 class="_section">RELATED</h1>
