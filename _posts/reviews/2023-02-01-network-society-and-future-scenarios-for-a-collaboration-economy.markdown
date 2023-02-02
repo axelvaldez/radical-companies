@@ -13,6 +13,7 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
 <h1>&nbsp;</h1>
  <p>The book came really, really close, but it doesn&rsquo;t quite get to something like <span class="_paradigm">RAD</span>s, although the authors point out the need for something like that.</p>
  <p>Their view from a different perspective,</p>
+ <div class="_center">
   <img
    src="/assets/img/pic-network-society-and-future-scenarios-for-a-collaboration-economy.svg"
    width="70%"
