@@ -45,7 +45,6 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  Commons-based Peer Production
  </ul>
 
 <h1 class="_section">RELATED</h1>
