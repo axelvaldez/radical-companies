@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Network Society and Future Scenarios for a Collaborative Economy"
+title:    "Network Society and Future Scenarios for a Collaborative Economy: Through the RADICAL Lense"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy.svg"
+image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy-through-the-radical-lense.svg"
 ---
 
 <div style="display:none;">
