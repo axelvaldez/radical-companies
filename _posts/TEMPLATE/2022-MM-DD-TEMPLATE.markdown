@@ -18,7 +18,7 @@ image:    "icon-about-daos.svg"
 
 <!-- footnote -->
 <h1></h1>
- <p>xxx<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
+ <p>xxx<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <!-- RADICAL | FIAT | RAD | rCOIN -->
 <h1></h1>
