@@ -11,8 +11,8 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
 </div>
 
 <h1>A Short Review</h1>
- <p>I got pretty excited to read this book because it sounded like they had arrived at the same conclusion that we had <em>eight years earlier</em>. Unfortunately, it wasn&rsquo;t quite what I had hoped. The book came really, really close, but no cigar. Nonetheless, the authors do recognize the need for something like <span class="_paradigm">RAD</span>s.</p>
- <p>Their view from a different perspective, from <em>Neo-Feudal Cognitive Capitalism</em> to <em>Mature Peer Production</em>. One of the authors is the founder of the <em>P2P Foundation</em> and the book calls people &ldquo;peers.&rdquo;</p>
+ <p>I got pretty excited to read this book because it sounded like they had arrived at a conclusion similar to ours, and they had done <em>eight years earlier</em>. Unfortunately, it wasn&rsquo;t quite what I had hoped. The book came really, really close, but no cigar. Nonetheless, the authors do recognize the need for something like <span class="_paradigm">RAD</span>s.</p>
+ <p>Their view from a different perspective, the see three models competing for power: traditional capitalism, neo-feudal cognitive capitalism, and  Commons-based  peer  production. Their favorite is the closer to the latter that they call <em>Mature Peer Production,</em>.
  <div class="_center">
   <img
    src="/assets/img/pic-network-society-and-future-scenarios-for-a-collaboration-economy-through-the-radical-lense.svg"
