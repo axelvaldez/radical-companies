@@ -15,7 +15,7 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
  <p>Their view from a different perspective, from <em>Neo-Feudal Cognitive Capitalism</em> to <em>Mature Peer Production</em>. One of the authors is the founder of the <em>P2P Foundation</em> and the book calls people &ldquo;peers.&rdquo;</p>
  <div class="_center">
   <img
-   src="/assets/img/pic-network-society-and-future-scenarios-for-a-collaboration-economy.svg"
+   src="/assets/img/pic-network-society-and-future-scenarios-for-a-collaboration-economy-through-the-radical-lense.svg"
    width="70%"
    alt=""
    >
