@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Changing Minds"
+title:    "Change the Mindset of Employees with These Three Simple Steps — Through the RADICAL Lense"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-changing-minds.svg"
+image:    "icon-change-the-mindset-of-employees-with-theres-three-simple-stesmp-through-the-radical-lense.svg"
 ---
 
 <div style="display:none;">
