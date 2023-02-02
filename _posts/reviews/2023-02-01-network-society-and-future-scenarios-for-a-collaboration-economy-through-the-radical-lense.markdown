@@ -31,7 +31,6 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
 <h1>Recommendation: Read It!</h1>
  <p>The book is short, but not an easy read. No. zWhile reading it, it felt I was being lectured. The book relies on obscure terms and lots of abbreviations. Like I said, it is not an easy read.</p>
  <p>Having said all this, I still recommend you reading it. Not because misery loves company, but because the authors give extensive references that may even make a case for co-ownership and co-management.</p>
- <p>I suspect that we<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> would be well aligned with the authors.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
@@ -48,15 +47,6 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
    <p class="_list-item">
     CBPP stands for Commons-based Peer Production.
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en03">
-   <p class="_list-item">
-    Matt Perez, Adrian Perez, Jose Leal.
-    <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
-    2021.
-    &lt;<a href="https://radicals.world/r6JGSI" target="_blank">https://radicals.world/r6JGSI</a>&gt;
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
