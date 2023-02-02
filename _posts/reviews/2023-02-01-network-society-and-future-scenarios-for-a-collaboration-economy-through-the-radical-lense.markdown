@@ -29,8 +29,8 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
  <p>With <span class="_paradigm">RAD</span>s people could get a patent and then distribut the revenue that comes from it based on the recognized contributions (to the project) each person has.</p>
 
 <h1>Recommendation: Read It!</h1>
- <p>The book is short, but not an easy read. No. zWhile reading it, it felt I was being lectured. The book relies on a lot of obscure terms (<em>e.g.</em> stigmergic) and lots of abbreviations.</p>
- <p>Having said all this, I still recommend you reading it. Not because misery loves company, but because the authors give extensive references that make a case for co-ownership and co-management.</p>
+ <p>The book is short, but not an easy read. No. zWhile reading it, it felt I was being lectured. The book relies on obscure terms and lots of abbreviations. Like I said, it is not an easy read.</p>
+ <p>Having said all this, I still recommend you reading it. Not because misery loves company, but because the authors give extensive references that may even make a case for co-ownership and co-management.</p>
  <p>I suspect that we<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> would be well aligned with the authors.</p>
 
 <h1 class="_section">ENDNOTES</h1>
