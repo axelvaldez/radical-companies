@@ -18,9 +18,9 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
    src="/assets/img/pic-network-society-and-future-scenarios-for-a-collaboration-economy.svg"
    width="70%"
    alt=""
-   style="bottom-padding:10px; ">
+   >
  </div>
-
+<br>
 <h1>The Commons</h1>
  <p class="_citation">&hellip; the Commons is an idea different both from state property, where the sate manages a certain resource on behalf of people, and from private property, where a private entity exclusde the common use of it.<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
 
