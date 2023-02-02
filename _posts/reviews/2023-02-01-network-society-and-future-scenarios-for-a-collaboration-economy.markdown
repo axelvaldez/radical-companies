@@ -21,6 +21,7 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
    >
  </div>
 <p>&nbsp;</p>
+
 <h1>The Commons</h1>
  <p class="_citation">&hellip; the Commons is an idea different both from state property, where the sate manages a certain resource on behalf of people, and from private property, where a private entity exclusde the common use of it.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>They then add this, which they attribute to Siobhain O'Mahony,</p>
