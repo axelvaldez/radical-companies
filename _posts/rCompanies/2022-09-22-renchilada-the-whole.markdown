@@ -3,7 +3,7 @@ layout:   post
 title:    "rEnchilada, the Whole"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "the-whole-enchilada.svg"
+image:    "icon-renchilada-the-whole.svg"
 ---
 
 <div style="display:none; ">
