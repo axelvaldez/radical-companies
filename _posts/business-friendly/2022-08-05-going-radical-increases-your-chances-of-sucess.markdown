@@ -3,7 +3,6 @@ layout:   post
 title:    "Going RADICAL Increases Your Chances of Success"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "icon-radical-success.svg"
 image:    "icon-going-radical-increases-your-chances-of-success.svg"
 ---
 
