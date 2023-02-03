@@ -3,7 +3,7 @@ layout:   post
 title:    "Mandarins and Butterflies"
 subtitle: "TEMPLATE"
 authors:  "Chabeli Atahuaman, Matt Perez"
-image:    "icon-mandarins-and-butterfly.svg"
+image:    "icon-mandarins-and-butterflies.svg"
 ---
 
 <div style="display:none;">

@@ -3,7 +3,7 @@ layout:   post
 title:    "No RADICAL Deadlines"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "icon-deadlines.svg"
+image:    "icon-no-radical-deadlines.svg"
 ---
 
 <div style="display:none;">
