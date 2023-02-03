@@ -3,7 +3,7 @@ layout:   post
 title:    "RADICAL Companies Solve Problems Faster than FIAT Businesses"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "icon-radical-fast.svg"
+image:    "icon-radical-companies-solve-problems-faster-than-fiat-businesses.svg"
 ---
 
 <div style="display:none;">
