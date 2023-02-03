@@ -3,7 +3,7 @@ layout:   post
 title:    "A RADICAL Bid for the Future of Business"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "icon-a-radical-bid.svg"
+image:    "icon-a-radical-bid-for-the-future-of-business.svg"
 ---
 
 <div style="display:none;">
