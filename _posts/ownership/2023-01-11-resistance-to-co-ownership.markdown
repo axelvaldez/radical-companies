@@ -26,12 +26,30 @@ image:    "icon-resistance-to-co-ownership.svg"
 
 <h1>Poor to Better-Off-Non-Owners to Owners</h1>
  <p>People who,</p>
-  <ul>
-   <li style="padding-left:30px; ">Just got to be owners</li>
-   <li style="padding-left:20px; ">Are about to reach owner status</li>
-   <li style="padding-left:10px; ">Just made it into the lower middle class</li>
-   <li>Are on the verge of leaving poverty behind them</li>
-  </ul>
+  <table>
+   <body>
+    <tr>
+     <td>
+      <p style="padding-left:30px; ">Just got to be owners</p>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <p style="padding-left:20px; ">Are about to reach owner status</p>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <p style="padding-left:10px; ">Just made it into the lower middle class</p>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <p>Are on the verge of leaving poverty behind them</p>
+     </td>
+    </tr>
+   </body>
+  </table>
   <p>These folks are more likely to reject, perhaps strongly, anything that sounds like a change to the system that they used to &ldquo;move up.&rdquo;</p>
 
 <h1>And Co-Onwership Is a Big Change</h1>
