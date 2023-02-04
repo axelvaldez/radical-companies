@@ -50,7 +50,7 @@ image:    "icon-resistance-to-co-ownership.svg"
     </tr>
    </body>
   </table>
-  <p>These folks are more likely to reject, perhaps strongly, anything that sounds like a change to the system that they used to &ldquo;move up.&rdquo;</p>
+  <p>These folks are more likely to reject, possibly strongly, anything that sounds like a change to the system that they have learned used to &ldquo;win.&rdquo;</p>
 
 <h1>And Co-Onwership Is a Big Change</h1>
  <p>Co-ownership makes it possible for everybody to be a co-owner. Everybody, not just the selected few who learned how to use the system to <em>win</em>. Simple as that.</p>
