@@ -24,14 +24,19 @@ image:    "icon-resistance-to-co-ownership.svg"
  </div>
  <p>Resistance to co-ownership will come from everywhere. A safe bet is that some owners, maybe many, will say it is a communist plot.</p>
 
-<h1>Poor-to-Better Off Non-Owners</h1>
- <p>People who are on the verge of leaving poverty behind them and people who just made it into the lower middle class are more likely to reject anything that sounds like system change.</p>
-
-<h1>Better Off Non-Owners-to-Owner</h1>
- <p>People who are on the verge of becoming better off and people who just made it into that class are more likely to reject anything that sounds like system change.</p>
+<h1>Poor to Better-Off-Non-Owners to Owners</h1>
+ <p>People who,</p>
+  <ul>
+   <li style="padding-left:30px; ">Just got to be owners</li>
+   <li style="padding-left:20px; ">Are about to reach owner status</li>
+   <li style="padding-left:10px; ">Just made it into the lower middle class</li>
+   <li>Are on the verge of leaving poverty behind them</li>
+  </ul>
+  <p>These folks are more likely to reject, perhaps strongly, anything that sounds like a change to the system that they used to &ldquo;move up.&rdquo;</p>
 
 <h1>And Co-Onwership Is a Big Change</h1>
- <p>The <span class="_paradigm">RADICAL</span> paradigm changes non-owners to co-<em>owners</em>. Simple as that. But resistance to change is understandable and to be expected.</p>
+ <p>Co-ownership makes it possible for everybody to be a co-owner. Everybody, not just the selected few who learned how to use the system to <em>win</em>. Simple as that.</p>
+ <p>But resistance to change is understandable and <em>to be expected</em>.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
