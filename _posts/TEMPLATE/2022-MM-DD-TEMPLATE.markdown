@@ -60,7 +60,7 @@ image:    "icon-about-daos.svg"
  <span style="float:right; "><a href="https://radicalcompanies.com/">    &gt; Next</a></span>
 </div>
 
-<!-- Endnotes -->
+<!-- Endnotes URL -->
 <h1></h1>
  <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
  
