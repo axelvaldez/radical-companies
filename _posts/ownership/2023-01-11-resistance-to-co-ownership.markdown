@@ -31,4 +31,4 @@ image:    "icon-resistance-to-co-ownership.svg"
  <p>People who are on the verge of becoming better off and people who just made it into that class are more likely to reject anything that sounds like system change.</p>
 
 <h1><span class="_paradigm">RADICAL</span> <em>IS</em> Change</h1>
- <p>The <span class="_paradigm">RADICAL</span> paradigm changes non-owners to co-<em>owners</em>. Simple as that. But resistance to change is understandable.</p>
+ <p>The <span class="_paradigm">RADICAL</span> paradigm changes non-owners to co-<em>owners</em>. Simple as that. But resistance to change is understandable and to be expected.</p>
