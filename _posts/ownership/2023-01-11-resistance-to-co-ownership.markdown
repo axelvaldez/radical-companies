@@ -11,7 +11,7 @@ image:    "icon-resistance-to-co-ownership.svg"
 </div>
 
 <div class="_citation">
- <p>Such is the nature of orthodoxy. Is is difficult to get out of, even for a hertic like me.</p>
+ <p>Such is the nature of orthodoxy. Is is difficult to get out of, even for a heretic like me.</p>
  <p id="_signature">Blair Fix</p>
 </div>
 
