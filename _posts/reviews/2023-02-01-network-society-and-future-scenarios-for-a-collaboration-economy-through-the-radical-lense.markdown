@@ -28,9 +28,14 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
  <p class="_citation">It is, however, important to highlight that the contributors of CBPP<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> projects do have interest and rights concerning their work and are interested in protecting their intellectual property.</p>
  <p>With <span class="_paradigm">RAD</span>s, people could get a patent and then distribute the revenue that comes from it based on the recognized contributions (to the patent project) each person has.</p>
 
+<h1>Not Sure What to Call this&hellip;</h1>
+ The authors posit that the &ldquo;partner state&rdquo; would engage <p class="_citation">in debt-free public monetary creation while supporting a structure of specialized complementary currencies.</p>
+ <p>All I can say is &rdquo;maybe for a bit.&rdquo; My quesion is how to create such a &ldquo;partner state?&rdquo; Put another way, what would the system be that would bring anything like this &ldquo;partner state?&rdquo; about? What would the system be that makes this robust and long lasting?
+ <p>The book is full of these. Maybe if I read it again, more carefully&hellip; ? But no, not worth it.</p>
+
 <h1>Recommendation</h1>
- <p>The book is short, but not an easy read. While reading it, it felt I was being lectured. The book relies on obscure terms and lots of abbreviations: the book gets in the way of its message. Like I said, it is not an easy read.</p>
- <p>Having said all this, you may still want to read it. Not because misery loves company, but because the authors give extensive references that may even be used to make a case for co-ownership and co-management. I didn&rsquo;t have the energy to follow up on that, to be honest.</p>
+ <p>The book is short, but not an easy read. While reading it, it felt I was being lectured. The book relies on obscure terms and lots of abbreviations, and, what sounds to me, gibberish. Like I said, it is not an easy read.</p>
+ <p>Read it at your own risk. It includes a lot of references. This may make it worth $65 to you. If you want my copy, please let me know and we'll figure out a way to give you mine (Kindle).</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
