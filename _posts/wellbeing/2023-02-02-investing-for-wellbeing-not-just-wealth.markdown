@@ -23,7 +23,7 @@ image:    "icon-investing-for-wellbeing-not-just-wealth.svg"
  <p>Wealth generation almost invariably comes at the cost of wellbeing of the founders and of the &ldquo;ground floor&rdquo; employees. Wealth generation trumps the wellbeing of the community if need be. As one upset Board member put it, &ldquo;Your job is to leverage our investment. Otherwise, you are not going to get anything for all the effort you and your crew are putting in!&rdquo; Scarier than those words, you take that as a warning that you&rsquo;d better listen to and do what you have to do, even if it costs you your wellbeing, your family&rsquo;s, and &ldquo;your crew&rdquo;, the people you thought of as friends.</p>
  <p>From that perspective, the wellbeing of your community does not count. At all.</p>
 
-<h1><span class="_paradigm">RADICAL</span> investments<h1>
+<h1><span class="_paradigm">RADICAL</span> investments</h1>
  <p><span class="_paradigm">RADICAL</span> investments, as part of a system, do not put that kind of pressure, the &ldquo;nice&rdquo; word for force, on co-owners. And because of that, the odds are on the side of founders and their communities for financial sucess without the wellbeing costs.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
 
 <h1 class="_section">ENDNOTES</h1>
