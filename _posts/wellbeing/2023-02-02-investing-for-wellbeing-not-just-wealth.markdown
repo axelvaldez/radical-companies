@@ -24,7 +24,7 @@ image:    "icon-investing-for-wellbeing-not-just-wealth.svg"
  <p>From that perspective, the wellbeing of your community does not count. At all.</p>
 
 <h1><span class="_paradigm">RADICAL</span> investments</h1>
- <p><span class="_paradigm">RADICAL</span> investments do not put that kind of pressure, the &ldquo;nice&rdquo; word for force, on co-owners. They are practice supported by a system, <span class="_paradigm">RADICAL</span> system. They are more robust. Companies and their communities have higher odds of financial sucess without having to pay the wellbeing costs.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
+ <p><span class="_paradigm">RADICAL</span> investments do not put that kind of pressure, the &ldquo;nice&rdquo; word for force, on co-owners. They are practice supported by a system, <span class="_paradigm">RADICAL</span> system. They are more robust. Financial sucess has higher odds without the wellbeing costs.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
