@@ -30,7 +30,7 @@ image:    "icon-investing-for-wellbeing-not-just-wealth.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Matt Perez.
+    Matt Perez, Adrian Perez.
     <em><span class="_paradigm">RADICAL</span> Investments.</em>
     2022.
     &lt;<a href="https://radicalcompanies.com/2022/10/18/radical-investments.html" target="_blank">https://radicalcompanies.com/2022/10/18/radical-investments.html</a>&gt;
