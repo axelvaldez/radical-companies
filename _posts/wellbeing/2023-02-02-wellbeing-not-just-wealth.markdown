@@ -17,7 +17,7 @@ image:    "icon-investing-for-wellbeing-not-just-wealth.svg"
 <h1><span class="_paradigm">RADICAL</span> Investments</h1>
  <p>Not surprisingly, as they were talking I kept thinking of that <span class="_paradigm">RADICAL</span> investments addressed their issues. <span class="_paradigm">RADICAL</span> investments fail like investments (<em>i.e.</em> if the company fails, the money is gone</em>, but they look like loans in that you get a return on your money. The latter could range from a percentage of the investment amount to a percentage of revenue for some time. No matter, there are no shares and you don&rsquo;t any other powers over the company. This sounds a lot like what is commonly known as a friends-family-and-fools investment, the foundation of which is trust.</p>
  <p>The foundation of a <span class="_paradigm">RADICAL</span> investment is trust as well. &ldquo;But,&rdquo; the counter goes, &ldquo;there is not enough trust in the world to fund all the unicorns that are coming up.&rdquo; Indeed, many of them have lost their horn and are no longer unicorns. In any case, those are capital investements, purely for wealth. Whether or not they contribute to the health of the community is besides the point, these investments are made to generate wealth. <span class="_paradigm">RADICAL</span> investments are made to generate wellbeing, and some wealth.</p>
- <p>Wealth generation usually comes at the cost of wellbeing of the founders and of the &ldquo;ground floor&rdquo; employees. Wealth generation trumps the wellbeing of the community if need be. As one upset Board member put it, &ldquo;Your job is to leverage our investment. Otherwise, you are not going to get anything for all the effort you and your crew are putting in!&rdquo; Even scarier, you take that as good advice and do what you have to do to come out a winner, even if it costs you wellbeing, your family&rsquo;s, and &ldquo;your crew&rdquo;, the people you had considered as friends. From that perspective, your the wellbeing of your community does not count. At all.</p>
+ <p>Wealth generation almost invariably comes at the cost of wellbeing of the founders and of the &ldquo;ground floor&rdquo; employees. Wealth generation trumps the wellbeing of the community if need be. As one upset Board member put it, &ldquo;Your job is to leverage our investment. Otherwise, you are not going to get anything for all the effort you and your crew are putting in!&rdquo; Even scarier, you take that as good advice and do what you have to do to come out a winner, even if it costs you wellbeing, your family&rsquo;s, and &ldquo;your crew&rdquo;, the people you had considered as friends. From that perspective, your the wellbeing of your community does not count. At all.</p>
  <p><span class="_paradigm">RADICAL</span> investments, as part of the <span class="_paradigm">RADICAL</span> system, do not put that kind of pressure on co-owners. And because of that the chances for success are much higher.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
 
 
@@ -26,9 +26,9 @@ image:    "icon-investing-for-wellbeing-not-just-wealth.svg"
   <li id="en01">
    <p class="_list-item">
     Matt Perez.
-    <em>TITLE.</em>
+    <em><span class="_paradigm">RADICAL</span> Investments.</em>
     2022.
-    &lt;<a href="https://…" target="_blank">https://…</a>&gt;
+    &lt;<a href="https://radicalcompanies.com/2022/10/18/radical-investments.html" target="_blank">https://radicalcompanies.com/2022/10/18/radical-investments.html</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
