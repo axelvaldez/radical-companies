@@ -33,6 +33,16 @@ image:    "icon-about-daos.svg"
    alt="">
  </div>
 
+<!-- previous/next -->
+<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+ <span style="float:left;  "><a href="https://radicalcompanies.com/">Previous &lt;</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/">    &gt; Next</a></span>
+</div>
+
+<!-- Endnotes URL -->
+<h1></h1>
+ <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
+
 <!-- foundation -->
  <div class="_center">
   <table style="width:90%; ">
@@ -54,16 +64,6 @@ image:    "icon-about-daos.svg"
   </table>
  </div>
 
-<!-- previous/next -->
-<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left;  "><a href="https://radicalcompanies.com/">Previous &lt;</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/">    &gt; Next</a></span>
-</div>
-
-<!-- Endnotes URL -->
-<h1></h1>
- <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
- 
 <h1>For More References, See,</h1>
   <ul>
    <li>                                <em>Get Rid of Ownership</em>,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></li>
