@@ -18,7 +18,7 @@ image:    "icon-enclosures-and-social-animals.svg"
   <p>Prejudice is older than this age. &hellip; Among men, however, dissimilarity of <em>minds</em> is a more potent factor in causing prejudice than unlikeness in physiognomy.</p>
   <p id="_signature">Dr Charles Henry Turner (1867–1923)<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
- <p>Dissimilarity was the lever, and leveraging it was a powerful innovation. Clothes made people dissimilar. Riding a horse made people dissimilar. Weapons made people dissimilar. In our minds, we were ready to distrust and fear the people on the other side, the dissimilar. People riding horses, with weapons and nice clothes on one side; the unclean, bare foot people on the other side. The line was older than this age, leveraging is was a powerful innovation.</p>
+ <p>Dissimilarity was the lever, and leveraging it was a powerful innovation. Clothes made people dissimilar. Riding a horse made people dissimilar. Weapons made people dissimilar. In our minds, we were ready to distrust and fear the people on the other side, the dissimilar. People riding horses, with weapons and nice clothes on one side; the raggedy, bare foot, weapoless people on the other. Leveraging this line, older than this age, was a powerful innovation.</p>
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
