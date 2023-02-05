@@ -10,7 +10,7 @@ image:    "icon-the-dissimilarity-line.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>The English enclosures of the 16<sup>th</sup>-17<sup>th</sup> century captured more than land and excess labor. They captured our built-in drive to care and nourish our social circle.</p>
+ <p>The English enclosures of the 16<sup>th</sup>-17<sup>th</sup> century captured more than land and excess labor. They captured our drive to care and nourish our social circle.</p>
  <p>We don&rsquo;t just feed ourselves individually, we feed our social circle. We don&rsquo;t just nurse and take care of ourselves individually, we nurse and take care of our social circle. We don&rsquo;t just hug and caress for our individual benefit, we hug and caress our social circle. That is what we do as social animals and that is what has made us as successful as we are: we have survived and thrived because of our social circle, not as individuals. That is what the English enclosures captured, along with the land. The &ldquo;excess labor&rdquo; that we naturally do for our social circle was now in the hands of the owners.</p>
 
 <h1>Dissimilarity</h1>
