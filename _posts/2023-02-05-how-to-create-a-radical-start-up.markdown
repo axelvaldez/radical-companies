@@ -54,7 +54,9 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <li>Meaning & Belonging: if you identify people who are really interest in this craziness, hold on to them. If they have skills that will help create your idea, go to the next step.</li>
    <li>Experiemnt: Try different messaging and hold on to the ones that work.</li>
   </ul>
- <p></p>
+
+<h1>Action!</h1>
+ <p>If you can, borrow capital. The traditionly seed capital comes from friends, family, and fools. Friends and family trust you. Fools believe in you. They all want you to succeed.Normally this is formalized as a Promisory Note that promises them 1) shares of the new company or 2) their money back with some up upside. But the new company won&rsquo;t have shares, so don&rsquo;t do this. Instead treat it like a <span class="_paradigm">RADICAL</span>ical loan.</p>
  <p>
 
 <h1 class="_section">ENDNOTES</h1>
