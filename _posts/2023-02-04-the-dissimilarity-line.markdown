@@ -29,7 +29,7 @@ image:    "icon-the-dissimilarity-line.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Dr Turner was also a civil rights leaders. As per Wikipedia, <span class="_quotespan">Besides his scientific work, Turner was active in the struggle to obtain social and educational services for African Americans in St. Louis, Missouri.</span>
+    Dr Turner was a scientist and a civil rights leaders. As per Wikipedia, <span class="_quotespan">Besides his scientific work, Turner was active in the struggle to obtain social and educational services for African Americans in St. Louis, Missouri.</span>
     &lt;<a href="https://en.wikipedia.org/wiki/Charles_Henry_Turner_(zoologist)" target="_blank">https://en.wikipedia.org/wiki/Charles_Henry_Turner_(zoologist)</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
