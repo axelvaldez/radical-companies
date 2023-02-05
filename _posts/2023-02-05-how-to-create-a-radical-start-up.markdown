@@ -10,7 +10,52 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 </div>
 
 <h1>&nbsp;</h1>
+ <p>On the positive side,</p>
+  <ul>
+   <li>You have a great idea</li>
+   <li>The idea is good for the Earth-as-life-support.</li>
+  </ul>
+ <p>On the other hand,</p>
+  <ul>
+   <li>You don&rsquo;t have capital.</li>
+   <li>Your friends are busy with their own jobs.</li>
+  </ul>
+
+<h1>The Foundation</h1>
+ <p>Let the Foundation be your guide,</p>
+ <div class="_center">
+  <table style="width:90%; ">
+   <tr style="background-color:#EEEEEE; ">
+    <th style="text-align:right; ">people</th>
+    <td class="_foundation">Meaning & Belonging</td>
+   </tr>
+   <tr>
+    <th style="text-align:right; ">commitments</th>
+    <td class="_foundation">Decentralization & Transparency</td>
+   </tr>
+   <tr style="background-color:#EEEEEE; ">
+    <th style="text-align:right; ">practices</th>
+    <td class="_foundation">Experimentation</td>
+   </tr>
+   <tr>
+    <td class="_spacer_"></td>
+   </tr>
+  </table>
+ </div>
+  <ul>
+   <li>
+    <p>Transparency: Talk about your idea to as many people as you can. This will help you mold your idea. If felt great, but it has to be shaped, so lean on your social circle to help you do it.</p>
+    <p>And when I say &ldquo;talk to people,&rdquo; I mean people <em>anywhere in the world</em>.</p>
+   </li>
+   <li>
+    <p>Decentralization: Talk to people about this. Mostly, they won&rsquo;t get it or they will and be repelled by it. You are not trying to convince, you want to identify your afine community.</p>
+    <p>People will likely recognize co-management. With the talk about &ldquo;teal&rdquo; and the like, they be even be enthusiastic about it. About co-ownership, you may get &ldquo;neutral&rdquo; or, better, curiosity. However, be ready for disgust or an ever-so-polite attack.</p>
+   </li>
+   <li>Meaning & Belonging: if you identify people who are really interest in this craziness, hold on to them. If they have skills that will help create your idea, go to the next step.</li>
+   <li>Experiemnt: Try different messaging and hold on to the ones that work.</li>
+  </ul>
  <p></p>
+ <p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
