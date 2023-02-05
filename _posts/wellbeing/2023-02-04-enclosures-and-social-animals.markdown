@@ -12,11 +12,23 @@ image:    "icon-enclosures-and-social-animals.svg"
 <h1>&nbsp;</h1>
  <p>The English enclosures of the 16<sup>th</sup>-17<sup>th</sup> century captured more than land and excess labor. They captured our built-in drive to care and nourish our social circle.</p>
  <p>We don&rsquo;t just feed ourselves individually, we feed our social circle. We don&rsquo;t just nurse and take care of ourselves individually, we nurse and take care of our social circle. We don&rsquo;t just hug and caress for our individual benefit, we hug and caress our social circle. That is what we do as social animals and that is what has made us as successful as we are: we have survived and thrived because of our social circle, not as individuals. That is what the English enclosures captured, along with the land. The &ldquo;excess labor&rdquo; that we naturally do for our social circle was now in the hands of the owners.</p>
+
+<h1>Division</h1>
  <div class="_citation">
   <p>Prejudice is older than this age. A comparative study of animal psychology teaches that all animals are prejudiced against animals unlike themselves, and the more unlike they are the greater the prejudice&hellip; Among men, however, dissimilarity of <em>minds</em> is a more potent factor in causing prejudice than unlikeness in physiognomy.</p>
-  <p id="_signature">Dr Charles Henry Turner (1867–1923)</p>
+  <p id="_signature">Dr Charles Henry Turner (1867–1923)<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
- <p>Dr Turner was also a civil rights leaders. As per Wikipedia, <span class="_quotespan">Besides his scientific work, Turner was active in the struggle to obtain social and educational services for African Americans in St. Louis, Missouri.</span></p>
+ 
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    Dr Turner was also a civil rights leaders. As per Wikipedia, <span class="_quotespan">Besides his scientific work, Turner was active in the struggle to obtain social and educational services for African Americans in St. Louis, Missouri.</span></p>
+    &lt;<a href="https://en.wikipedia.org/wiki/Charles_Henry_Turner_(zoologist)" target="_blank">Charles Henry Turner (zoologist)</a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
 
 <h1 class="_section">RELATED</h1>
  <ul>
