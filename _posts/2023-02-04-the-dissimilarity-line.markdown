@@ -23,7 +23,8 @@ image:    "icon-the-dissimilarity-line.svg"
  <p>The dissimilarity line, the divide, has been in our minds for a long time and we will exhaust ourselves trying to fight it.</p>
 
 <h1>Co-Ownership</h1>
- <p>Co-ownership embraces the dissimilarity divide. Co-ownership puts the leverage in the hands of the co-owners. Co-ownership welcomes everybody&rsquo;s contributions. Co-ownership leverages our drive to care and nourish our social circle. Co-ownership is our poweful inovation.</p>
+ <p>Co-ownership embraces the dissimilarity divide. Co-ownership puts the leverage in the hands of the co-owners. Co-ownership welcomes everybody&rsquo;s contributions. Co-ownership leverages our drive to care and nourish our social circle.</p>
+ <p>Co-ownership is our poweful inovation.</p>
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
