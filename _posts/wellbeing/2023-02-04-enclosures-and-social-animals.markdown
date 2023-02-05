@@ -16,7 +16,7 @@ image:    "icon-enclosures-and-social-animals.svg"
   <p>Prejudice is older than this age. A comparative study of animal psychology teaches that all animals are prejudiced against animals unlike themselves, and the more unlike they are the greater the prejudice&hellip; Among men, however, dissimilarity of <em>minds</em> is a more potent factor in causing prejudice than unlikeness in physiognomy.</p>
   <p id="_signature">Dr Charles Henry Turner (1867–1923)</p>
  </div>
- <p>As per Wikipedia, <span class="_quotespan">Besides his scientific work, Turner was active in the struggle to obtain social and educational services for African Americans in St. Louis, Missouri.</span></p>
+ <p>Dr Turner was also a civil rights leaders. As per Wikipedia, <span class="_quotespan">Besides his scientific work, Turner was active in the struggle to obtain social and educational services for African Americans in St. Louis, Missouri.</span></p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
