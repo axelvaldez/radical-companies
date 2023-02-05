@@ -20,7 +20,7 @@ image:    "icon-the-dissimilarity-line.svg"
 
 <h1>Dissimilarity</h1>
  <p>Dissimilarity was the lever, and leveraging it was a powerful innovation. Clothes made people dissimilar. Riding a horse made people dissimilar. Weapons made people dissimilar. In our minds, we were ready to distrust and fear the people on the other side, the dissimilar. People riding horses, with weapons and nice clothes on one side; the raggedy, bare foot, weapoless people on the other. Leveraging this line, older than this age, was a powerful innovation.</p>
- <p>The dissimilarity line, the divided, has been in our minds for a long time and we will exhaust ourselves trying to fight it.</p>
+ <p>The dissimilarity line, the divide, has been in our minds for a long time and we will exhaust ourselves trying to fight it.</p>
 
 <h1>Co-Ownership</h1>
  <p>Co-ownership embraces the dissimilarity divide. Co-ownership puts the leverage in the hands of the co-owners. Co-ownership welcomes everybody&rsquo;s contributions. Co-ownership leverages our drive to care and nourish our social circle. Co-ownership is our poweful inovation.</p>
