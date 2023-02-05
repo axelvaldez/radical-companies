@@ -13,11 +13,12 @@ image:    "icon-enclosures-and-social-animals.svg"
  <p>The English enclosures of the 16<sup>th</sup>-17<sup>th</sup> century captured more than land and excess labor. They captured our built-in drive to care and nourish our social circle.</p>
  <p>We don&rsquo;t just feed ourselves individually, we feed our social circle. We don&rsquo;t just nurse and take care of ourselves individually, we nurse and take care of our social circle. We don&rsquo;t just hug and caress for our individual benefit, we hug and caress our social circle. That is what we do as social animals and that is what has made us as successful as we are: we have survived and thrived because of our social circle, not as individuals. That is what the English enclosures captured, along with the land. The &ldquo;excess labor&rdquo; that we naturally do for our social circle was now in the hands of the owners.</p>
 
-<h1>Division</h1>
+<h1>Dissimilarity</h1>
  <div class="_citation">
-  <p>Prejudice is older than this age. A comparative study of animal psychology teaches that all animals are prejudiced against animals unlike themselves, and the more unlike they are the greater the prejudice&hellip; Among men, however, dissimilarity of <em>minds</em> is a more potent factor in causing prejudice than unlikeness in physiognomy.</p>
+  <p>Prejudice is older than this age. &hellip; Among men, however, dissimilarity of <em>minds</em> is a more potent factor in causing prejudice than unlikeness in physiognomy.</p>
   <p id="_signature">Dr Charles Henry Turner (1867–1923)<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
+ <p>Dissimilarity was the lever. Clothes and cleanliness made people dissimilar. Riding a horse made people dissimilar. Weapons made people dissimilar. And in our minds, we were ready to distrust and fear the people on the other side, the dissimilar.</p>
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
