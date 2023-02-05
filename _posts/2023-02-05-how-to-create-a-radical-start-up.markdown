@@ -70,6 +70,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <td>
     <p>Why do we do what we do?</p>
     <p>How are you showing up?</p>
+   </td>
   </tr>
   <tr>
    <th>Personal Context</th>
