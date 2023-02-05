@@ -19,10 +19,10 @@ image:    "icon-the-dissimilarity-line.svg"
   <p id="_signature">Dr Charles Henry Turner (1867–1923)<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>Dissimilarity was the lever, and leveraging it was a powerful innovation. Clothes made people dissimilar. Riding a horse made people dissimilar. Weapons made people dissimilar. In our minds, we were ready to distrust and fear the people on the other side, the dissimilar. People riding horses, with weapons and nice clothes on one side; the raggedy, bare foot, weapoless people on the other. Leveraging this line, older than this age, was a powerful innovation.</p>
- <p>The dissimilarity line will forever by with us.</p>
+ <p>The dissimilarity line is in our minds and we will exhaust ourselves if we try to fight it, directly.</p>
 
 <h1>Co-Ownership</h1>
- <p>Co-ownership embraces the dissilirarity line, rather than fear it. Co-ownership puts the leverage in the hands of the co-owners. Co-ownership welcomes everybody&rsquo;s contributions. Co-ownership leverages our drive to care and nourish our social circle. Co-ownership is our poweful inovation.</p>
+ <p>Co-ownership embraces the dissilirarity line. Co-ownership puts the leverage in the hands of the co-owners. Co-ownership welcomes everybody&rsquo;s contributions. Co-ownership leverages our drive to care and nourish our social circle. Co-ownership is our poweful inovation.</p>
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
