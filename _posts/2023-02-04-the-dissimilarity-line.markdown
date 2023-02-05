@@ -11,7 +11,7 @@ image:    "icon-the-dissimilarity-line.svg"
 
 <h1>&nbsp;</h1>
  <p>The English enclosures of the 16<sup>th</sup>-17<sup>th</sup> century captured more than land and excess labor. They captured our drive to care and nourish our social circle.</p>
- <p>We don&rsquo;t just feed ourselves individually, we feed our social circle. We don&rsquo;t just nurse and take care of ourselves individually, we nurse and take care of our social circle. We don&rsquo;t just hug and caress for our individual benefit, we hug and caress our social circle. That is what we do as social animals and that is what has made us as successful as we are: we have survived and thrived because of our social circle, not as individuals. That is what the English enclosures captured, along with the land. The &ldquo;excess labor&rdquo; that we naturally do for our social circle was now in the hands of the owners.</p>
+ <p>We don&rsquo;t just feed ourselves individually, we feed our social circle. We don&rsquo;t just nurse and take care of ourselves individually, we nurse and take care of our social circle. We don&rsquo;t just hug and caress for our individual benefit, we hug and caress for the health of our social circle. That is what we do as social animals and that is what has made us as successful as we are: we have survived and thrived because of our social circle, not as individuals. That is what the English enclosures captured, along with the land. The &ldquo;excess labor&rdquo; that we naturally do for our social circle was now in the hands of the owners.</p>
 
 <div class="_citation">
  <p>Prejudice is older than this age. &hellip; Among men, however, dissimilarity of <em>minds</em> is a more potent factor in causing prejudice than unlikeness in physiognomy.</p>
@@ -20,10 +20,10 @@ image:    "icon-the-dissimilarity-line.svg"
 
 <h1>Dissimilarity</h1>
  <p>Dissimilarity was the lever, and leveraging it was a powerful innovation. Clothes made people dissimilar. Riding a horse made people dissimilar. Weapons made people dissimilar. In our minds, we were ready to distrust and fear the people on the other side, the dissimilar. People riding horses, with weapons and nice clothes on one side; the raggedy, bare foot, weapoless people on the other. Leveraging this line, older than this age, was a powerful innovation.</p>
- <p>The dissimilarity line is in our minds and we will exhaust ourselves if we try to fight it.</p>
+ <p>The dissimilarity line, the divided, has been in our minds for a long time and we will exhaust ourselves trying to fight it.</p>
 
 <h1>Co-Ownership</h1>
- <p>Co-ownership embraces the dissilirarity line. Co-ownership puts the leverage in the hands of the co-owners. Co-ownership welcomes everybody&rsquo;s contributions. Co-ownership leverages our drive to care and nourish our social circle. Co-ownership is our poweful inovation.</p>
+ <p>Co-ownership embraces the dissimilarity divide. Co-ownership puts the leverage in the hands of the co-owners. Co-ownership welcomes everybody&rsquo;s contributions. Co-ownership leverages our drive to care and nourish our social circle. Co-ownership is our poweful inovation.</p>
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
