@@ -56,8 +56,75 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   </ul>
 
 <h1>Action!</h1>
- <p>If you can, borrow capital. The traditionly seed capital comes from friends, family, and fools. Friends and family trust you. Fools believe in you. They all want you to succeed.Normally this is formalized as a Promisory Note that promises them 1) shares of the new company or 2) their money back with some up upside. But the new company won&rsquo;t have shares, so don&rsquo;t do this. Instead treat it like a <span class="_paradigm">RADICAL</span>ical loan.</p>
- <p>
+ <p>If you can, borrow capital. The traditionly seed capital comes from friends, family, and fools. Friends and family trust you. Fools believe in you. They all want you to succeed.Normally this is formalized as a Promisory Note that promises them 1) shares of the new company or 2) their money back with some up upside. But the new company won&rsquo;t have shares, so don&rsquo;t do this.</p>
+ <p>Instead treat it like a <span class="_paradigm">RADICAL</span>ical loan. Figure out 1) an upside to be paid 2) over a period of time. Twenty percent over two years, or double after five, or &hellip; whatever!</p>
+ <p>This capital will fund two things: 1) whatever you have to buy, and 2) the PRI fund.</p>
+
+<h1>The Interview</h1>
+ <p>Do a Trust Agreement with the firs person in your team,</p>
+ <table>
+  <tr>
+   <th>Mindset</th>
+  </tr>
+  <tr>
+   <td>
+    <p>Why do we do what we do?</p>
+    <p>How are you showing up?</p>
+  </tr>
+  <tr>
+   <th>Personal Context</th>
+   <td>
+    <p>Who are you?</p>
+    <p>Why do you need the others?</p>
+    <p>What do you feel we need to agree on?</p>
+   </td>
+  </tr>
+  <tr>
+   <th>Transparency & Vulnerability</th>
+   <td>
+    <p>What are your key needs?</p>
+   </td>
+  </tr>
+  <tr>
+   <th>Being</th>
+   <td>
+    <p>Meaning</p>
+    <p>Impacting</P>
+    <p>Belonging</p>
+    <p>Becoming</p>
+   </td>
+  </tr>
+  <tr>
+   <th>Collaborating</th>
+   <td>
+    <p>How will you address change?</p>
+    <p>How will we address disagreements?</p>
+    <p>How will we communicate with one another?</p>
+    <p>What do we do if communication is not enough?</p>
+    <p>Who will we ask for help from?</p>
+   </td>
+  </tr>
+  <tr>
+   <th>Commitments</th>
+   <td>
+    <p>What commitments do we need to make?</p>
+    <p>How are our commitments practical?</p>
+    <p>What are the financial aspects of this agreement?</p>
+    <p>Do we need to meet any legal conditions?</p>
+   </td>
+  </tr>
+  <tr>
+   <th>Rendering</th>
+   <td>
+    <p>Do we all agree to the language of the agreement?</p>
+    <p>Is it as simple and direct as it can be?</p>
+    <p>Are we all able and willing to comply with the terms?</p>
+    <p>Can we make it a living part of our collaboration?</p>
+   </td>
+  <tr>
+ </table>
+
+<h1>The PRI Fund</h1>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
