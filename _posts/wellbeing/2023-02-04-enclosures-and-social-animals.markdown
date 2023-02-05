@@ -6,13 +6,13 @@ image:    "icon-enclosures-and-social-animals.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>The English enclosures captured more than land and excess labor, they captured our drive to care and nourish our social circle.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Besides his scientific work, Dr Charles Henry Turner (February 3, 1867–February 14, 1923) emerged as a prominent Civil Rights leader in St. Louis. He wrote,</p>
- <p class="_citation">Prejudice is older than this age. A comparative study of animal psychology teaches that all animals are prejudiced against animals unlike themselves, and the more unlike they are the greater the prejudice… Among men, however, dissimilarity of minds is a more potent factor in causing prejudice than unlikeness in physiognomy.</p>
- <p>Besides his scientific work, Dr Charles Henry Turner (February 3, 1867–February 14, 1923) emerged as a prominent Civil Rights leader in St. Louis. He wrote,</p>
+ <p>The English enclosures of the XX century, captured more than land and excess labor. They capture our drive to nourish our social circle. We don&rsquo;t just feed ourselves individually, we feed our social circle. We don&rsquo;t just nurse and take care of ourselves individually, we nurse and take care of our social circle. We don&rsquo;t just hug and caress for our individual benefit, we hug and caress our social circle. That is what we do as social animals, that is what has made us as successful as we are and that is what the English enclosures captured, along with the land. The &ldquo;excess labor&rdquo; that we naturally do for our social circle was now in the hands of the owners, the predators pushing us in the cage.</p>
+ <p class="_citation">Prejudice is older than this age. A comparative study of animal psychology teaches that all animals are prejudiced against animals unlike themselves, and the more unlike they are the greater the prejudice&hellip; Among men, however, dissimilarity of <em>minds</em> is a more potent factor in causing prejudice than unlikeness in physiognomy.</p>
+ <p>Those are the words of Dr Charles Henry Turner (1867–1923) who, besides being a scientist, emerged as a prominent Civil Rights leader in St. Louis.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
