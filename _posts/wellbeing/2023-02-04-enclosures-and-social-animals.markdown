@@ -2,7 +2,7 @@
 layout:   post
 title:    "Enclosures and Social Animals"
 authors:  "Matt Perez"
-image:    "icon-about-daos.svg"
+image:    "icon-enclosures-and-social-animals.svg"
 ---
 
 <div style="display:none;">
