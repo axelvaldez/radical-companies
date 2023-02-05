@@ -9,7 +9,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p></p>
 </div>
 
-<h1>&nbsp;</h1>
+<h1>Good News, Bad News</h1>
  <p>On the positive side,</p>
   <ul>
    <li>You have a great idea</li>
