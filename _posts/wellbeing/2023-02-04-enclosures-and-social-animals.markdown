@@ -11,8 +11,11 @@ image:    "icon-enclosures-and-social-animals.svg"
 
 <h1>&nbsp;</h1>
  <p>The English enclosures of the 16<sup>th</sup>-17<sup>th</sup> century captured more than land and excess labor. They captured our built-in drive to care and nourish our social circle. We don&rsquo;t just feed ourselves individually, we feed our social circle. We don&rsquo;t just nurse and take care of ourselves individually, we nurse and take care of our social circle. We don&rsquo;t just hug and caress for our individual benefit, we hug and caress our social circle. That is what we do as social animals, that is what has made us as successful as we are. That is what the English enclosures captured, along with the land. The &ldquo;excess labor&rdquo; that we naturally do for our social circle was now in the hands of the owners, the predators pushing us into the cage.</p>
- <p class="_citation">Prejudice is older than this age. A comparative study of animal psychology teaches that all animals are prejudiced against animals unlike themselves, and the more unlike they are the greater the prejudice&hellip; Among men, however, dissimilarity of <em>minds</em> is a more potent factor in causing prejudice than unlikeness in physiognomy.</p>
- <p>Those are the words of Dr Charles Henry Turner (1867–1923) who, besides being a scientist, emerged as a prominent Civil Rights leader in St. Louis.</p>
+ <div class="_citation">
+  <p>Prejudice is older than this age. A comparative study of animal psychology teaches that all animals are prejudiced against animals unlike themselves, and the more unlike they are the greater the prejudice&hellip; Among men, however, dissimilarity of <em>minds</em> is a more potent factor in causing prejudice than unlikeness in physiognomy.</p>
+  <p class="_signature">Dr Charles Henry Turner (1867–1923)</p>
+ </div>
+ <p>As per Wikipedia, <span class="">Besides his scientific work, Turner was active in the struggle to obtain social and educational services for African Americans in St. Louis, Missouri.</span></p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
