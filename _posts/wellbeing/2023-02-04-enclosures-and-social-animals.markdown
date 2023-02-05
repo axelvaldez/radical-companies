@@ -10,8 +10,9 @@ image:    "icon-enclosures-and-social-animals.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Between experiments and observations, Turner became a prominent Civil Rights leader in St. Louis, developing the first social services for African Americans in the area. Bridging his scientific and humanistic work, he wrote,</p>
+ <p>Besides his scientific work, Dr Charles Henry Turner (February 3, 1867–February 14, 1923) emerged as a prominent Civil Rights leader in St. Louis. He wrote,</p>
  <p class="_citation">Prejudice is older than this age. A comparative study of animal psychology teaches that all animals are prejudiced against animals unlike themselves, and the more unlike they are the greater the prejudice… Among men, however, dissimilarity of minds is a more potent factor in causing prejudice than unlikeness in physiognomy.</p>
+ <p>Besides his scientific work, Dr Charles Henry Turner (February 3, 1867–February 14, 1923) emerged as a prominent Civil Rights leader in St. Louis. He wrote,</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
