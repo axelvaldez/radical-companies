@@ -137,7 +137,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    width="70%"
    alt="">
  </div>
- <p>As soosn as possible the co-owners should get togetehr and figure out the answers to these questions,</p>
+ <p>As soon as possible the co-owners should get togetehr and figure out the answers to these questions,</p>
   <table>
    <tr>
     <th>Impact (what for?)</th>
@@ -150,6 +150,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <tr>
     <th>Mission (what? when? how?)</th>
     <td>What are doing, when, and How? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We are signing up the first 100 customers by the end of March.</span></td>
+   </tr>
+  </table>
 
 <h1>The <span class="_paradigm">RAD</span>s! Mobile App</h1>
  <p></p>
