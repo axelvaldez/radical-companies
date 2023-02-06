@@ -61,7 +61,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>If you want to, borrow capital. The traditionly seed capital comes from friends, family, and fools. Friends and family trust you. Fools believe in you. They all want you to succeed. Normally this is formalized as a legal Note that promises them, 1) their money back with some up upsid, or 2) shares of the new company. But the new company won&rsquo;t have shares, so don&rsquo;t do this.</p>
  <p>Instead treat it like a <span class="_paradigm">RADICAL</span> investment. Figure out 1) an upside to be paid 2) over a period of time. Twenty percent over two years, or double after five, or &hellip; whatever!</p>
  <p>This capital will fund two things: 1) whatever you have to buy, and 2) the PRI fund.</p>
- <p>If you don not want to borrow capital, then there won't be a PRI fund, and you will need to find people who can afford to wait for revenue to happen.</p>
+ <p>If you don not want to borrow capital, then there won't have a PRI fund and you will need to find people who can afford to wait for revenue.</p>
  
 <h1>Hiring</h1>
  <p>You are not going to do any hiring, you are finding co-owners. You should repeat this, out loud, many times. Like a mantra.</p>
