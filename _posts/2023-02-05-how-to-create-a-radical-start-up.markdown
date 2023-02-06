@@ -75,7 +75,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>No matter, this is the importnat thing: each withdrawal from the PRI fund is <em>a personal debt</em> that each co-owner is responsible for. At some point you all may decide on a different policy, but at the very start this seems to be it. Co-owners are not selling their time for a salary as is the case in <span class="_paradigm">FIAT</span> land so. There is no <span class="_paradigm">FIAT</span> onwer, the people who draw from the PRI fund are the co-owners and responsible for what they borrow.</p>
  <p>As co-owners, you may decide put limits on time or amount, they may also decide to take on the debt themselves, but that&rsquo;s up to you. Later, as revenue starts to come in, the PRI is repaid and, say, the borrowed capital that went into it may be paid off along with its upside. Once the PRI fund is paid off all earned dividents&mdash;what is left after paying off expenses, etc.&mdash;go to the co-owners.</p>
  
-<h1>Trust Agreements</h1>
+<h1>Agreements</h1>
  <p>Do a Trust Agreement with the first co-owner in the team. This is a guide to an exploration among would-be co-owners to make sure that they are or can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Trust Agreement. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
  <div class="_center">
   <table class="_background">
@@ -131,6 +131,12 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   </table>
  </div>
  <p>For subsequent co-owner candidates, any co-owner can go through the Trust Agreement with them.</p>
+
+<h1>Expressed Alignment</h1>
+ <p></p>
+
+<h1>The RADs! Mobile App</h1>
+ <p></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
