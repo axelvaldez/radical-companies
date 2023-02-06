@@ -157,7 +157,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  </div>
 
 <h1>The <span class="_paradigm">RAD</span>s! Mobile App</h1>
- <p>There is a mobile app for recognizing contributions which the app converts to <span class="_paradigm">RAD</span>s.</p>
+ <p>Co-owners can use this mobile app to recognize another co-owner&rsquo;s contributions. The <em><span class="_paradigm">RAD</spans!</em> app then converts these contributions into <span class="_paradigm">RAD</span>s.</p>
  <p>Co-owners recognize anything they see as a contributions. Contributions may range from a tangible benefit to the company (<em>e.g.</em>, <span class="_quotespan">&hellip; found us a place to store return merchandize for free.</span>) to something more intangible (<em>e.g.</em>,  <span class="quotespan">&hellip; took the time to talk to X and helped her get out of a crisis she was going through.</span>)
 
 <h1 class="_section">ENDNOTES</h1>
