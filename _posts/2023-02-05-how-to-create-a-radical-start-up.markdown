@@ -161,7 +161,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>Co-owners can recognize anything as a contributions. These can range from a tangible benefit to the company (<em>e.g.</em>, <span class="_quotespan">&hellip; found us a place to store return merchandize for free.</span>) to something more intangible (<em>e.g.</em>, <span class="quotespan">&hellip; took the time to talk to him and to help him get his mental health taken care of.</span> or even <span class="quotespan">&hellip; I could not help but smile when he did that.</span>)</p>
  <p><span class="_paradigm">RAD</span>s can factor anything through them. For example, if I have 10% of the <span class="_paradigm">RAD</span>s distributed and you have 20%, you get twice as much as I do of whatever is being filtered through the <span class="_paradigm">RAD</span>s this time (<em>e.g.</em>, earned dividends on revenue).</p>
 
-<h1>For More References, See,</h1>
+<h1>Other References</h1>
   <ul>
    <li>                                <em>Get Rid of Ownership</em>,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></li>
    <li>  <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a></li>
@@ -169,6 +169,45 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <li>                              <em>No Bonuses or Salaries</em>,<a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a></li>
    <li>          <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en08"><sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a></li>
   </ul>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en04">
+   <p class="_list-item">
+    <em>Get Rid of Ownership</em>.
+    <<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en05">
+   <p class="_list-item">
+    <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
+    <<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>>
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en06">
+   <p class="_list-item">
+    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
+    <<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>>
+    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en07">
+   <p class="_list-item">
+    <em>No Bonuses or Salaries</em>
+    <<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>>
+    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en08">
+   <p class="_list-item">
+    <em>Giving RADs</em>
+    <<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>>
+    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
 
 <h1 class="_section">RELATED</h1>
  <ul>
