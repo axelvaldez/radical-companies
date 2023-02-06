@@ -271,12 +271,6 @@ table td._spacer {
   font-size:x-small;
   background-color:white;
 }
-/*
-table td._spacer:after {
-  content:"-";
-  color:white;
-}
-*/
 table tr {
   margin-bottom:0;
   vertical-align:top;
@@ -312,19 +306,12 @@ table._background tr:nth-child(odd)  {
   width:80%;
   margin:0 auto 30px auto;
 }
-._quotespan {
-  font-style: italic;
-}
-._quotespan::before {
-  content:"“";
-}
-._quotespan::after {
-  content: "”";
-}
+/*
 ._citation {
   padding-bottom:0px;
   font-size:larger;
 }
+*/
 ._citation #_signature {
   display: block;
   padding-top:10px;
@@ -337,6 +324,15 @@ table._background tr:nth-child(odd)  {
 }
 ._citation #_signature::before {
   content:"— ";
+}
+._quotespan {
+  font-style: italic;
+}
+._quotespan::before {
+  content:"“";
+}
+._quotespan::after {
+  content: "”";
 }
 ._image {
   display:grid;
