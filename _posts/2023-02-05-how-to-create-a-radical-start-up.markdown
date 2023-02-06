@@ -27,15 +27,15 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   <table>
    <tr>
     <th style="text-align:right; ">people</th>
-    <td class="_foundation">Meaning & Belonging</td>
+    <td>Meaning & Belonging</td>
    </tr>
    <tr>
     <th style="text-align:right; ">commitments</th>
-    <td class="_foundation">Decentralization & Transparency</td>
+    <td>Decentralization & Transparency</td>
    </tr>
    <tr>
     <th style="text-align:right; ">practices</th>
-    <td class="_foundation">Experimentation</td>
+    <td>Experimentation</td>
    </tr>
    <tr>
     <td class="_spacer_"></td>
