@@ -131,7 +131,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 
 <h1>Expressed Alignment</h1>
  <p>Since you have co-owners, and no boss, you still to somehow align on what needs to get done, etc., and that is what the Expressed Alignment tool is about,</p>
- <div class="_background">
+ <div class="_center">
   <img
    src="/assets/img/en-alignment.svg"
    width="70%"
@@ -139,7 +139,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  </div>
  <p>Co-owners should get together as soon as possible to figure out answers to the questions in the Expressed Alignment below.</p>
  <p>The Mission will change often as one project finish it and the other starts. The Purpose less often, but could change as new co-onwers join. The Impact should not change at all, at least not without a deep discussion (<em>i.e.</em>, this is equivalent to creating a new company),</p>
- <div class="_center">
+ <div class="_background">
   <table>
    <tr>
     <th>Impact (what for?)</th>
