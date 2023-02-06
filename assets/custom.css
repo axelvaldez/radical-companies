@@ -286,6 +286,7 @@ table._background tr:nth-child(odd)  {
 ._spacer {
   font-size:xx-small;
   column-span:all;
+  background-color:white;
 }
 ._list-item {
   margin-bottom:0;
