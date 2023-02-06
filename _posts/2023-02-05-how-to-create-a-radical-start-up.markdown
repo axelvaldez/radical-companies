@@ -83,30 +83,46 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <th>Mindset</th>
     <td>
      <ul>
-      <li>Why do we do what we do?</li>
-      <li>How are you showing up?</li>
-      <li>Personal Context</li>
-      <li>Who are you?</li>
-      <li>Why do you need the others?</li>
+      <li>How do you show up? Who are you?</li>
+      <li>Why do you need others?</li>
       <li>What do you feel we need to agree on?</li>
+      <li>What are your red lines?</li>
+      <li>Anything else?</li>
      </ul>
     </td>
    </tr>
    <tr>
     <th>About You&hellip;</th>
-    <td></td>
+    <td>
+     <ul>
+      <li>Anything else?</li>
+     </ul>
+    </td>
    </tr>
    <tr>
     <th>Transparency</th>
-    <td>Also know as vulnerabilty.</td>
+    <td>
+     <ul>
+      <li>Also known as vulnerabilty.</li>
+      <li>Anything else?</li>
+     </ul>
+    </td>
    </tr>
    <tr>
     <th>Collaborating</th>
-    <td></td>
+    <td>
+     <ul>
+      <li>Anything else?</li>
+     </ul>
+    </td>
    </tr>
    <tr>
     <th>Rendering</th>
-    <td></td>
+    <td>
+     <ul>
+      <li>Anything else?</li>
+     </ul>
+    </td>
    </tr>
    <tr>
     <td class="_spacer">&nbsp;</td>
