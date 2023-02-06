@@ -61,11 +61,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>If you want to, borrow capital. &ldquo;Seed capital&rdquo; comes from friends, family, and fools. Friends and family know you and trust you; fools believe in you. They all want you to succeed.</p>
  <p>Seed capital is formalized as a legal Note that promises them, 1) their money back plus some up upside, or 2) shares of the new company. But you new company <em>won&rsquo;t have shares</em>, so Notes are not applicable.</p>
  <p>Instead treat borrowed capital like a <span class="_paradigm">RADICAL</span> investment which includes an upside to be paid on top of the principal over a period of time. 120% over two years, or double after five, or &hellip; whatever you think is realistic and reasonable. Explain that this does not include any other powers. This won&rsquo;t be a surprise for the friends/family/fools crowd. It will most likely be a surprise, perhaps unacceptable, to traditional <span class="_paradigm">FIAT</span> investors. However, talk to them as well as a few are not traditionalists and may be inspired enough to give you capital-as-a-<span class="_paradigm">RADICAL</span>-investment</p>
- <p>Once you have the capital it will go into whatever you have to buy and <em>the PRI fund</em>.</p>
- <p>Alternatively, you may forego borrowing any capital,</p>
-  <ul>
-   <li>There will be PRI fund</li>
-   <li>Tou will need to find as co-owners people who can afford to wait for revenue.</p>
+ <p>Once you have the capital it will go into whatever you have to buy and <em>the Predictable Recurring Income (PRI) fund</em>.</p>
+ <p>Alternatively, you may forego borrowing any capital in which case there will not be PRI fund and co-owners must be able to afford to wait for revenue.</p>
   </ul>
 
 <h1>Hiring</h1>
@@ -76,8 +73,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 <h1>The PRI Fund</h1>
  <p>Until revenue starts to come in, the PRI Fund pays co-owners.</p>
  <p>Each co-owner declares what she needs to take home and other co-owners will put their ten cents in until a monthly figure is agreed to. In fact, a co-owner may not accept with the figure and she leaves.</p>
- <p>No matter, this is the important part: the withdrawal from the PRI fund is <em>a personal debt</em> that each co-owner is responsible for. At some point you all may decide on a different policy or whatnot, but at the very start this is it. You are not selling your time for a salary as traditionally happens in <span class="_paradigm">FIAT</span> land. Everybody is a co-owner.</p>
- <p>As revenue comes in the PRI is repaid, the capital and its upside paid off, and everybody is happy.</p>
+ <p>A withdrawal from the PRI fund is <em>a personal debt</em> that each co-owner is responsible for. At some point you all may decide on a different policy, but at the very start this is it and co-owners are responsible for withdrawals. Co-owners are not selling their time for a salary as traditionally happens in <span class="_paradigm">FIAT</span> land. As revenue comes in, the PRI is repaid, the borrowed capital is paid off along with its upside, and everybody is happy. Once the PRI fund is paid off</p>
  
 <h1>Trust Agreements</h1>
  <p>Do a Trust Agreement with the first co-owner in your team,</p>
