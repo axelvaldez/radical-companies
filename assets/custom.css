@@ -374,3 +374,6 @@ table._background tr:nth-child(odd)  {
 ._foundation table {
   width:50%;
 }
+._foundation td {
+  font-size:x-small;
+}
