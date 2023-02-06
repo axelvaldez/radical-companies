@@ -44,7 +44,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  </div>
   <ul>
    <li>
-    <p>Transparency: Talk about your idea to as many people as you can <em>anywhere in the wold</em>. This will help you mold your idea. If felt great, but it has to be shaped, so lean on your social circle to help you do it.</p>
+    <p>Transparency: Talk about your idea to as many people as you can <em>anywhere in the wold</em>. This will help you mold your idea. If felt great when you first thought of it, but it now has to be shaped, so lean on your social circle to help you do it.</p>
    </li>
    <li>
     <p>Decentralization: Talk to people but, they either won&rsquo;t get it or they will and be repelled by it. People will likely recognize co-management; with the talk about &ldquo;teal&rdquo; and the like, they may even be enthusiastic about it. About co-ownership, you may get a neutral stare or curiosity, but be ready for disgust or an ever-so-polite ridicule. They are attacking you as much as they are trying to get rid of the bad taste.</p>
