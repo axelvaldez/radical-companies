@@ -68,6 +68,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <p>How are you showing up?</p>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>Personal Context</th>
    <td>
@@ -76,12 +78,16 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <p>What do you feel we need to agree on?</p>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>Transparency & Vulnerability</th>
    <td>
     <p>What are your key needs?</p>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>Being</th>
    <td>
@@ -91,6 +97,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <p>Becoming</p>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>Collaborating</th>
    <td>
@@ -101,6 +109,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <p>Who will we ask for help from?</p>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>Commitments</th>
    <td>
@@ -110,6 +120,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <p>Do we need to meet any legal conditions?</p>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>Rendering</th>
    <td>
