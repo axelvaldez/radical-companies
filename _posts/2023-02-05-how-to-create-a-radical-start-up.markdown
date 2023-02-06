@@ -138,6 +138,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    alt="">
  </div>
  <p>As soon as possible the co-owners should get together and figure out answers to these questions. This would be your expressed alignment. The Mission will change often, the Purpose less often, and the Impact not without a deep discussion (<em>i.e.</em>, this is equivalent to creating a new company),</p>
+ <div class="_center">
   <table>
    <tr>
     <th>Impact (what for?)</th>
@@ -152,6 +153,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <td>What are doing, when, and How? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We are signing up the first 100 customers by the end of March.</span></td>
    </tr>
   </table>
+ </div>
 
 <h1>The <span class="_paradigm">RAD</span>s! Mobile App</h1>
  <p></p>
