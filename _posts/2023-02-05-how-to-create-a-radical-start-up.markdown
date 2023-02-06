@@ -102,8 +102,12 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <tr>
     <th>Transparency</th>
     <td>
+     <p>Also known as vulnerabilty.</p>
      <ul>
-      <li>Also known as vulnerabilty.</li>
+      <li>What are you biggest joys?</li>
+      <li>What are you biggest fears?</li></li>
+      <li>When do you speak up? How?</li>
+      <li>Do you need to be given persmission to speak?</li>
       <li>Anything else?</li>
      </ul>
     </td>
@@ -112,15 +116,12 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <th>Collaborating</th>
     <td>
      <ul>
-      <li>Anything else?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>Rendering</th>
-    <td>
-     <ul>
-      <li>Anything else?</li>
+      <li>Is anything significantly meaningful to you?</li>
+      <li>How can we help you collaborate with us?</li>
+      <li>What stops you on your tracks?</li>
+      <li>How can we avoid doing that?</li>
+      <li>How do we know whenb you are collaborating? How do you show up?</li>
+      <li>What impact you have to have on the world?</li>
      </ul>
     </td>
    </tr>
