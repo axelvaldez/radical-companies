@@ -102,6 +102,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <td class="_spacer">&nbsp;</td>
   </tr>
  </table>
+ <p>For subsequent co-owner candidates, other co-owners can go through the Trust Agreement with them.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
