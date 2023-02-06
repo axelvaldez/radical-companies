@@ -58,7 +58,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   </ul>
 
 <h1>Action!</h1>
- <p>If you can, borrow capital. The traditionly seed capital comes from friends, family, and fools. Friends and family trust you. Fools believe in you. They all want you to succeed.Normally this is formalized as a Promisory Note that promises them 1) shares of the new company or 2) their money back with some up upside. But the new company won&rsquo;t have shares, so don&rsquo;t do this.</p>
+ <p>If you can, borrow capital. The traditionly seed capital comes from friends, family, and fools. Friends and family trust you. Fools believe in you. They all want you to succeed.</p>
+ <p>Normally this is formalized as a legal Note that promises them, 1) shares of the new company or 2) their money back with some up upside. But the new company won&rsquo;t have shares, so don&rsquo;t do this.</p>
  <p>Instead treat it like a <span class="_paradigm">RADICAL</span>ical loan. Figure out 1) an upside to be paid 2) over a period of time. Twenty percent over two years, or double after five, or &hellip; whatever!</p>
  <p>This capital will fund two things: 1) whatever you have to buy, and 2) the PRI fund.</p>
 
