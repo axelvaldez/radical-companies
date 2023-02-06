@@ -271,10 +271,12 @@ table td._spacer {
   font-size:x-small;
   background-color:white;
 }
+/*
 table td._spacer:after {
   content:"-";
   color:white;
 }
+*/
 table tr {
   margin-bottom:0;
   vertical-align:top;
