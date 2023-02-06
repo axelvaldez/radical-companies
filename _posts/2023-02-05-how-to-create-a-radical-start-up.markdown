@@ -24,7 +24,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 <h1>The Foundation</h1>
  <p>Listen to the Forc&hellip; er&hellip; the Foundation,</p>
  <div class="_center, _foundation">
-  <table style="width:50%; ">
+  <table>
    <tr style="background-color:#EEEEEE; ">
     <th style="text-align:right; ">people</th>
     <td class="_foundation">Meaning & Belonging</td>

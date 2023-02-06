@@ -368,3 +368,6 @@ table._background tr:nth-child(odd)  {
   column-width:6px;
   column-width:10px;
 }
+._foundation table {
+  width:50%;
+}
