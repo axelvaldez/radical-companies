@@ -99,6 +99,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <th>Rendering</th>
    <td></td>
   </tr>
+ </table>
+ <table>
   <tr>
    <td class="_spacer">&nbsp;<td>
   </tr>
