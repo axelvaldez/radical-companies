@@ -76,9 +76,9 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>As co-owners, you may decide put limits on time or amount, they may also decide to take on the debt themselves, but that&rsquo;s up to you. Later, as revenue starts to come in, the PRI is repaid and, say, the borrowed capital that went into it may be paid off along with its upside. Once the PRI fund is paid off all earned dividents&mdash;what is left after paying off expenses, etc.&mdash;go to the co-owners.</p>
  
 <h1>Trust Agreements</h1>
- <p>Do a Trust Agreement with the first co-owner in your team,</p>
+ <p>Do a Trust Agreement with the first co-owner in the team. This is a guide to an exploration to make sure that all co-owners are or can get aligned and can work with each other.</p>
  <table>
-  <tr>
+  <tr class="_background">
    <th>Mindset</th>
    <td></td>
   </tr>
