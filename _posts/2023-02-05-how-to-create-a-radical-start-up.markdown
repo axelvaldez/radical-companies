@@ -80,7 +80,16 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <table class="_background">
   <tr>
    <th>Mindset</th>
-   <td></td>
+   <td>
+    <ul>
+     <li>Why do we do what we do?</li>
+     <li>How are you showing up?</li>
+     <li>Personal Context</li>
+     <li>Who are you?</li>
+     <li>Why do you need the others?</li>
+     <li>What do you feel we need to agree on?</li>
+    </ul>
+   </td>
   </tr>
   <tr>
    <th>About You&hellip;</th>
