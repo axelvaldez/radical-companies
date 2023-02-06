@@ -130,7 +130,26 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>For subsequent co-owner candidates, any co-owner can go through the Trust Agreement with them.</p>
 
 <h1>Expressed Alignment</h1>
- <p></p>
+ <p>Since you have co-owners, and no boss, you still to somehow align on what needs to get done, etc., and that is what the Expressed Alignment tool is about,</p>
+ <div class="_center">
+  <img
+   src="/assets/img/en-alignment.svg"
+   width="70%"
+   alt="">
+ </div>
+ <p>As soosn as possible the co-owners should get togetehr and figure out the answers to these questions,</p>
+  <table>
+   <tr>
+    <th>Impact (what for?)</th>
+    <td>what impact they want to make (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">We are doing this to improve people&rsquo;s health.</span></td>
+   </tr>
+   <tr>
+    <th>Purpose (why?)</th>
+    <td>Why are we doing this for? For example, <span class="_quotespan">We are doing this to provide healthy foods.</span></td>
+   </tr>
+   <tr>
+    <th>Mission (what? when? how?)</th>
+    <td>What are doing, when, and How? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We are signing up the first 100 customers by the end of March.</span></td>
 
 <h1>The <span class="_paradigm">RAD</span>s! Mobile App</h1>
  <p></p>
