@@ -157,7 +157,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  </div>
 
 <h1>The <span class="_paradigm">RAD</span>s! Mobile App</h1>
- <p></p>
+ <p>There is a mobile app for recognizing contributions which the app converts to <spann class="_paradigm">RAD</span>s.</p>
+ <p>Co-owners recognize anything they see as a contributions. This may mean a direct contribution to the company (<em>e.g.</em>, <span class="quotespan">&hellip; found us a place to store return merchandize for free.</span>)
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
