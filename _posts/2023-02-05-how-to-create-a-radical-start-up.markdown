@@ -25,7 +25,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>Listen to the Forc&hellip; er&hellip; the Foundation,</p>
  <div class="_foundation">
   <table>
-   <tr style="background-color:#EEEEEE; ">
+   <tr>
     <th style="text-align:right; ">people</th>
     <td class="_foundation">Meaning & Belonging</td>
    </tr>
@@ -33,7 +33,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <th style="text-align:right; ">commitments</th>
     <td class="_foundation">Decentralization & Transparency</td>
    </tr>
-   <tr style="background-color:#EEEEEE; ">
+   <tr>
     <th style="text-align:right; ">practices</th>
     <td class="_foundation">Experimentation</td>
    </tr>
