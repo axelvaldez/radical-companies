@@ -63,8 +63,6 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <table>
   <tr>
    <th>Mindset</th>
-  </tr>
-  <tr>
    <td>
     <p>Why do we do what we do?</p>
     <p>How are you showing up?</p>
