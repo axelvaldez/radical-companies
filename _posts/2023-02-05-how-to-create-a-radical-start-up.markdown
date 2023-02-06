@@ -44,15 +44,13 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  </div>
   <ul>
    <li>
-    <p>Transparency: Talk about your idea to as many people as you can. This will help you mold your idea. If felt great, but it has to be shaped, so lean on your social circle to help you do it.</p>
-    <p>And when I say &ldquo;talk to people,&rdquo; I mean people <em>anywhere in the world</em>.</p>
+    <p>Transparency: Talk about your idea to as many people as you can <em>anywhere in the wold</em>. This will help you mold your idea. If felt great, but it has to be shaped, so lean on your social circle to help you do it.</p>
    </li>
    <li>
-    <p>Decentralization: Talk to people about this. Mostly, they won&rsquo;t get it or they will and be repelled by it. You are not trying to convince, you want to identify your afine community.</p>
-    <p>People will likely recognize co-management. With the talk about &ldquo;teal&rdquo; and the like, they be even be enthusiastic about it. About co-ownership, you may get &ldquo;neutral&rdquo; or, better, curiosity. However, be ready for disgust or an ever-so-polite attack.</p>
+    <p>Decentralization: Talk to people but, they either won&rsquo;t get it or they will and be repelled by it. People will likely recognize co-management; with the talk about &ldquo;teal&rdquo; and the like, they may even be enthusiastic about it. About co-ownership, you may get a neutral stare or curiosity, but be ready for disgust or an ever-so-polite ridicule. They are attacking you as much as they are trying to get rid of the bad taste.</p>
    </li>
-   <li>Meaning & Belonging: if you identify people who are really interest in this craziness, hold on to them. If they have skills that will help create your idea, go to the next step.</li>
-   <li>Experiemnt: Try different messaging and hold on to the ones that work.</li>
+   <li>Meaning & Belonging: if you identify people who are really interested in this, hold on to them. If they have skills that will help create your idea and you want them in your team, lucky you, go to the next step.</li>
+   <li>Experiment: Try different messaging and remember the ones that work.</li>
   </ul>
 
 <h1>Action!</h1>
