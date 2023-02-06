@@ -57,13 +57,22 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    </li>
   </ul>
 
-<h1>Action!</h1>
- <p>If you can, borrow capital. The traditionly seed capital comes from friends, family, and fools. Friends and family trust you. Fools believe in you. They all want you to succeed. Normally this is formalized as a legal Note that promises them, 1) their money back with some up upsid, or 2) shares of the new company. But the new company won&rsquo;t have shares, so don&rsquo;t do this.</p>
- <p>Instead treat it like a <span class="_paradigm">RADICAL</span>ical loan. Figure out 1) an upside to be paid 2) over a period of time. Twenty percent over two years, or double after five, or &hellip; whatever!</p>
+<h1>Borring, or Not</h1>
+ <p>If you want to, borrow capital. The traditionly seed capital comes from friends, family, and fools. Friends and family trust you. Fools believe in you. They all want you to succeed. Normally this is formalized as a legal Note that promises them, 1) their money back with some up upsid, or 2) shares of the new company. But the new company won&rsquo;t have shares, so don&rsquo;t do this.</p>
+ <p>Instead treat it like a <span class="_paradigm">RADICAL</span> investment. Figure out 1) an upside to be paid 2) over a period of time. Twenty percent over two years, or double after five, or &hellip; whatever!</p>
  <p>This capital will fund two things: 1) whatever you have to buy, and 2) the PRI fund.</p>
+ <p>If you don not want to borrow capital, then there won't be a PRI fund, and you will need to find people who can afford to wait for revenue to happen.</p>
+ 
+<h1>Hiring</h1>
+ <p>You are not going to do any hiring, you are finding co-owners. You should repeat this, out loud, many times. Like a mantra.</p>
+ <p>Since you are not hiring, you are not going to interview people. One way to not fall for into the interview habit is to tell the person you are talking to that 1) you are looking for co-owners, 2) this is not an interview, and to 3) please, let me know when this starts to feel like one.</p>
+ <p>What you are going to do is to explain that PRI fund and then do a Trust Agreement.
 
-<h1>The Interview</h1>
- <p>Do a Trust Agreement with the first person in your team,</p>
+<h1>The PRI Fund</h1>
+ <p></p>
+ 
+<h1>Trust Agreements</h1>
+ <p>Do a Trust Agreement with the first co-owner in your team,</p>
  <table>
   <tr>
    <th>Mindset</th>
