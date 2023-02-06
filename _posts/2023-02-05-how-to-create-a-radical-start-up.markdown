@@ -86,8 +86,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <td></td>
   </tr>
   <tr>
-   <th>Transparency/Vulnerability</th>
-   <td></td>
+   <th>Transparency</th>
+   <td>Also know as vulnerabilty.</td>
   </tr>
   <tr>
    <th>Collaborating</th>
@@ -98,7 +98,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <td></td>
   </tr>
   <tr>
-   <td class="_filler"><td>
+   <td class="_spacer">&nbsp;<td>
   </tr>
  </table>
 
