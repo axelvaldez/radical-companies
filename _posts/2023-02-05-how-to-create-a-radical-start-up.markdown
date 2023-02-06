@@ -49,8 +49,10 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <li>
     <p>Decentralization: Talk to people but, they either won&rsquo;t get it or they will and be repelled by it. People will likely recognize co-management; with the talk about &ldquo;teal&rdquo; and the like, they may even be enthusiastic about it. About co-ownership, you may get a neutral stare or curiosity, but be ready for disgust or an ever-so-polite ridicule. They are attacking you as much as they are trying to get rid of the bad taste.</p>
    </li>
-   <li>Meaning & Belonging: if you identify people who are really interested in this, hold on to them. If they have skills that will help create your idea and you want them in your team, lucky you, go to the next step.</li>
-   <li>Experiment: Try different messaging and remember the ones that work.</li>
+   <li>
+    <p>Meaning & Belonging: if you identify people who are really interested in this, hold on to them. If they have skills that will help create your idea and you want them in your team, lucky you, go to the next step.<//p>
+    <p>Experiment: Try different messaging and remember the ones that work.</p>
+   </li>
   </ul>
 
 <h1>Action!</h1>
