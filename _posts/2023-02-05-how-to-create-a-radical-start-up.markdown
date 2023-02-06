@@ -67,14 +67,15 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <li>There will be PRI fund</li>
    <li>Tou will need to find as co-owners people who can afford to wait for revenue.</p>
   </ul>
- 
+
 <h1>Hiring</h1>
  <p>You are not going to do any hiring, you are finding co-owners. You should repeat this, out loud, many times. Like a mantra.</p>
  <p>Since you are not hiring, you are not going to interview people. One way to not fall down the interview habit hole is to tell the person you are talking to that 1) you are looking for co-owners, 2) this is not an interview, and to 3) please, let me know when this starts to feel like one.</p>
- <p>What you are going to do is to explain that PRI fund and then do a Trust Agreement.</p>
+ <p>What you are going to do is to explain that PRI fund to the co-owners who join you. Then you are goint to do a Trust Agreement with the first one.</p>
 
 <h1>The PRI Fund</h1>
- <p></p>
+ <p>Until revenue starts to come in, the PRI Fund pays co-owners. Each co-owner declares what she needs to take home, other co-owners will put their ten cents in, until a monthly figure is agreed to. This is the important part: the withdrawal from the PRI fund is <em>a personal debt</em> that each co-owner is responsible for. At some point you all may decide on a different policy or whatnot, but at the very start this is it. You are not selling your time for a salary as traditionally happens in <span class="_paradigm">FIAT</span> land. Everybody is a co-owner.</p>
+ <p>As revenue comes in the PRI is repaid, the capital and its upside paid off, and everybody is happy.</p>
  
 <h1>Trust Agreements</h1>
  <p>Do a Trust Agreement with the first co-owner in your team,</p>
