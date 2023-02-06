@@ -75,7 +75,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 
 <h1>The PRI Fund</h1>
  <p>Until revenue starts to come in, the PRI Fund pays co-owners.</p>
- <p>Each co-owner declares what she needs to take home, other co-owners will put their ten cents in, until a monthly figure is agreed to. This is the important part: the withdrawal from the PRI fund is <em>a personal debt</em> that each co-owner is responsible for. At some point you all may decide on a different policy or whatnot, but at the very start this is it. You are not selling your time for a salary as traditionally happens in <span class="_paradigm">FIAT</span> land. Everybody is a co-owner.</p>
+ <p>Each co-owner declares what she needs to take home and other co-owners will put their ten cents in until a monthly figure is agreed to. In fact, a co-owner may not accept with the figure and she leaves.</p>
+ <p>No matter, this is the important part: the withdrawal from the PRI fund is <em>a personal debt</em> that each co-owner is responsible for. At some point you all may decide on a different policy or whatnot, but at the very start this is it. You are not selling your time for a salary as traditionally happens in <span class="_paradigm">FIAT</span> land. Everybody is a co-owner.</p>
  <p>As revenue comes in the PRI is repaid, the capital and its upside paid off, and everybody is happy.</p>
  
 <h1>Trust Agreements</h1>
