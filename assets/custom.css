@@ -279,11 +279,8 @@ table tr {
   vertical-align:top;
   font-size:smaller;
 }
-table._foundation tr:nth-child(4n+1)  {
+table._background tr:nth-child(odd)  {
   background-color:#EEEEEE;
-}
-tr._background:(odd) {
- background-color:#EEEEEE;
 }
 
 ._spacer {
