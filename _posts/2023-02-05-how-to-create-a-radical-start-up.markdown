@@ -60,14 +60,14 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 <h1>Borrowing, or Not</h1>
  <p>If you want to, borrow capital. &ldquo;Seed capital&rdquo; comes from friends, family, and fools. Friends and family know you and trust you; fools believe in you. They all want you to succeed.</p>
  <p>Seed capital is formalized as a legal Note that promises them, 1) their money back plus some up upside, or 2) shares of the new company. But you new company <em>won&rsquo;t have shares</em>, so Notes are not applicable.</p>
- <p>Instead treat it like a <span class="_paradigm">RADICAL</span> investment. Figure out 1) an upside to be paid 2) over a period of time. Twenty percent over two years, or double after five, or &hellip; whatever!</p>
- <p>This capital will fund two things: 1) whatever you have to buy, and 2) the PRI fund.</p>
- <p>If you don not want to borrow capital, then there won't have a PRI fund and you will need to find people who can afford to wait for revenue.</p>
+ <p>Instead treat it like a <span class="_paradigm">RADICAL</span> investment which includes an upside to be paid on top of the principal over a period of time. Twenty percent over two years, or double after five, or &hellip; whatever you think you can do. Explain that this does not include any other powers. This won&dquo;t be a surprise for the friends, family, and fools crowd. It will be a surprise, perhaps unacceptable, to traditional <span class="_paradigm">FIAT</span> investors.</p>
+ <p>Once you have the capital it will go into whatever you have to buy, and the PRI fund.</p>
+ <p>Alternatkvely, you may forego borrowing any capital. This means that you will not have a PRI fund and you will need to find people who can afford to wait for revenue.</p>
  
 <h1>Hiring</h1>
  <p>You are not going to do any hiring, you are finding co-owners. You should repeat this, out loud, many times. Like a mantra.</p>
- <p>Since you are not hiring, you are not going to interview people. One way to not fall for into the interview habit is to tell the person you are talking to that 1) you are looking for co-owners, 2) this is not an interview, and to 3) please, let me know when this starts to feel like one.</p>
- <p>What you are going to do is to explain that PRI fund and then do a Trust Agreement.
+ <p>Since you are not hiring, you are not going to interview people. One way to not fall down the interview habit hole is to tell the person you are talking to that 1) you are looking for co-owners, 2) this is not an interview, and to 3) please, let me know when this starts to feel like one.</p>
+ <p>What you are going to do is to explain that PRI fund and then do a Trust Agreement.</p>
 
 <h1>The PRI Fund</h1>
  <p></p>
@@ -134,8 +134,6 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    </td>
   </tr>
  </table>
-
-<h1>The PRI Fund</h1>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
