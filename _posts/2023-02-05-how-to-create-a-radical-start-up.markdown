@@ -59,7 +59,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>This capital will fund two things: 1) whatever you have to buy, and 2) the PRI fund.</p>
 
 <h1>The Interview</h1>
- <p>Do a Trust Agreement with the firs person in your team,</p>
+ <p>Do a Trust Agreement with the first person in your team,</p>
  <table>
   <tr>
    <th>Mindset</th>
