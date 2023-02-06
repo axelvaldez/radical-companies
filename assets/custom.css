@@ -282,7 +282,7 @@ table tr {
 table._foundation tr:nth-child(4n+1)  {
   background-color:#EEEEEE;
 }
-table._background tr:odd {
+table._background tr:nth-child(2n) {
  background-color:#EEEEEE;
 }
 
