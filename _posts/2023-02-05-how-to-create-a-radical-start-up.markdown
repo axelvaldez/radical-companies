@@ -132,7 +132,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 <h1>Expressed Alignment</h1>
  <p></p>
 
-<h1>The RADs! Mobile App</h1>
+<h1>The <span class="_paradigm">RAD</span>s! Mobile App</h1>
  <p></p>
 
 <h1 class="_section">ENDNOTES</h1>
