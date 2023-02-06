@@ -105,7 +105,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
      <p>Also known as vulnerabilty.</p>
      <ul>
       <li>What are you biggest joys?</li>
-      <li>What are you biggest fears?</li></li>
+      <li>What are you biggest fears?</li>
       <li>When do you speak up? How?</li>
       <li>Do you need to be given persmission to speak?</li>
       <li>Anything else?</li>
