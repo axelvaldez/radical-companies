@@ -269,6 +269,8 @@ table td {
 table td._spacer {
   column-span:all;
   font-size:7px;
+  font-size:xx-small;
+  background-color:white;
 }
 table td._spacer:after {
   content:"-";
@@ -281,12 +283,6 @@ table tr {
 }
 table._background tr:nth-child(odd)  {
   background-color:#EEEEEE;
-}
-
-._spacer {
-  font-size:xx-small;
-  column-span:all;
-  background-color:white;
 }
 ._list-item {
   margin-bottom:0;
