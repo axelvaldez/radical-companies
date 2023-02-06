@@ -367,6 +367,10 @@ table._background tr:nth-child(odd)  {
 ._foundation {
   column-width:6px;
   column-width:10px;
+  text-align:center;
+  align-items:center;
+  display:grid;
+  place-items:center;
 }
 ._foundation table {
   width:50%;
