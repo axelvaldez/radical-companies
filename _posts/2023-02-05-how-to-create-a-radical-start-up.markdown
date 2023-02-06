@@ -23,7 +23,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 
 <h1>The Foundation</h1>
  <p>Let the Foundation be your guide,</p>
- <div class="_center">
+ <div class="_center" style="width:70%; ">
   <table style="width:90%; ">
    <tr style="background-color:#EEEEEE; ">
     <th style="text-align:right; ">people</th>
