@@ -22,7 +22,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   </ul>
 
 <h1>The Foundation</h1>
- <p>Let the Foundation be your guide,</p>
+ <p>Listen to the For&helllip; er&hellip; the Foundation,</p>
  <div class="_center">
   <table style="width:50%; ">
    <tr style="background-color:#EEEEEE; ">
