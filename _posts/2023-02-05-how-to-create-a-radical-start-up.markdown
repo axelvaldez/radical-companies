@@ -137,7 +137,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    width="70%"
    alt="">
  </div>
- <p>Co-owners should get together as soon as possible to figure out answers to the questions below. This would be your expressed alignment. The Mission will change often, the Purpose less often, and the Impact not without a deep discussion (<em>i.e.</em>, this is equivalent to creating a new company),</p>
+ <p>Co-owners should get together as soon as possible to figure out answers to the questions in the Expressed Alignment below.</p>
+ <p>The Mission will change often as one project finish it and the other starts. The Purpose less often, but could change as new co-onwers join. The Impact should not change at all, at least not without a deep discussion (<em>i.e.</em>, this is equivalent to creating a new company),</p>
  <div class="_center">
   <table>
    <tr>
