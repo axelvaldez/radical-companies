@@ -53,7 +53,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <p>Meaning & Belonging: if you identify people who are really interested in this, hold on to them. If they have skills that will help create your idea and you want them in your team, lucky you, go to the next step.</p>
    </li>
    <li>
-    <p>Experiment: Try different messaging and remember the ones that work.</p>
+    <p>Experiment: Try variations on the theme at different times, then remember the ones that work.</p>
    </li>
   </ul>
 
