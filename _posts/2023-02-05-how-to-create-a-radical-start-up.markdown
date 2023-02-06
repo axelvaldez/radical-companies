@@ -131,7 +131,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 
 <h1>Expressed Alignment</h1>
  <p>Since you have co-owners, and no boss, you still to somehow align on what needs to get done, etc., and that is what the Expressed Alignment tool is about,</p>
- <div class="_center">
+ <div class="_background">
   <img
    src="/assets/img/en-alignment.svg"
    width="70%"
