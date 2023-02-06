@@ -285,9 +285,6 @@ table._foundation tr:nth-child(4n+1)  {
 table._background tr:odd {
  background-color:#EEEEEE;
 }
-table._background tr:even {
- background-color:white;
-}
 
 ._spacer {
   font-size:xx-small;

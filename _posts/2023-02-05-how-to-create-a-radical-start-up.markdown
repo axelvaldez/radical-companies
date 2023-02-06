@@ -82,19 +82,19 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <th>Mindset</th>
    <td></td>
   </tr>
-  <tr>
+  <tr class="_background">
    <th>About You&hellip;</th>
    <td></td>
   </tr>
-  <tr>
+  <tr class="_background">
    <th>Transparency</th>
    <td>Also know as vulnerabilty.</td>
   </tr>
-  <tr>
+  <tr class="_background">
    <th>Collaborating</th>
    <td></td>
   </tr>
-  <tr>
+  <tr class="_background">
    <th>Rendering</th>
    <td></td>
   </tr>
