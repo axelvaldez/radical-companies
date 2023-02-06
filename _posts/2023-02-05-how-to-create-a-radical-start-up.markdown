@@ -79,61 +79,26 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <table>
   <tr>
    <th>Mindset</th>
-   <td>
-    <p>Why do we do what we do?</p>
-    <p>How are you showing up?</p>
-   </td>
+   <td></td>
   </tr>
   <tr>
-   <th>Personal Context</th>
-   <td>
-    <p>Who are you?</p>
-    <p>Why do you need the others?</p>
-    <p>What do you feel we need to agree on?</p>
-   </td>
+   <th>About You&hellip;</th>
+   <td></td>
   </tr>
   <tr>
-   <th>Transparency & Vulnerability</th>
-   <td>
-    <p>What are your key needs?</p>
-   </td>
-  </tr>
-  <tr>
-   <th>Being</th>
-   <td>
-    <p>Meaning</p>
-    <p>Impacting</P>
-    <p>Belonging</p>
-    <p>Becoming</p>
-   </td>
+   <th>Transparency/Vulnerability</th>
+   <td></td>
   </tr>
   <tr>
    <th>Collaborating</th>
-   <td>
-    <p>How will you address change?</p>
-    <p>How will we address disagreements?</p>
-    <p>How will we communicate with one another?</p>
-    <p>What do we do if communication is not enough?</p>
-    <p>Who will we ask for help from?</p>
-   </td>
-  </tr>
-  <tr>
-   <th>Commitments</th>
-   <td>
-    <p>What commitments do we need to make?</p>
-    <p>How are our commitments practical?</p>
-    <p>What are the financial aspects of this agreement?</p>
-    <p>Do we need to meet any legal conditions?</p>
-   </td>
+   <td></td>
   </tr>
   <tr>
    <th>Rendering</th>
-   <td>
-    <p>Do we all agree to the language of the agreement?</p>
-    <p>Is it as simple and direct as it can be?</p>
-    <p>Are we all able and willing to comply with the terms?</p>
-    <p>Can we make it a living part of our collaboration?</p>
-   </td>
+   <td></td>
+  </tr>
+  <tr>
+   <td class="_filler"><td>
   </tr>
  </table>
 
