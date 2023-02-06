@@ -143,15 +143,15 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   <table>
    <tr>
     <th>Impact (what for?)</th>
-    <td>what impact they want to make (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">We are doing this to improve people&rsquo;s health.</span></td>
+    <td>what impact they want to make (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
    </tr>
    <tr>
     <th>Purpose (why?)</th>
-    <td>Why are we doing this for? For example, <span class="_quotespan">We are doing this to provide healthy foods.</span></td>
+    <td>Why are we doing this for? For example, <span class="_quotespan">Easy to get, healthy foods.</span></td>
    </tr>
    <tr>
     <th>Mission (what? when? how?)</th>
-    <td>What are doing, when, and How? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We are signing up the first 100 customers by the end of March.</span></td>
+    <td>What are doing, when, and How? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We mean to sign up the first 100 customers by the end of March.</span></td>
    </tr>
   </table>
  </div>
