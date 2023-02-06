@@ -268,8 +268,6 @@ table td {
 }
 table td._spacer {
   column-span:all;
-  font-size:7px;
-  font-size:xx-small;
   font-size:x-small;
   background-color:white;
 }
