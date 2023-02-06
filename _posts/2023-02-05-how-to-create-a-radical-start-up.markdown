@@ -62,7 +62,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>Seed capital is formalized as a legal Note that promises them, 1) their money back plus some up upside, or 2) shares of the new company. But you new company <em>won&rsquo;t have shares</em>, so Notes are not applicable.</p>
  <p>Instead treat borrowed capital like a <span class="_paradigm">RADICAL</span> investment which includes an upside to be paid on top of the principal over a period of time. 120% over two years, or double after five, or &hellip; whatever you think is realistic and reasonable. Explain that this does not include any other powers. This won&rsquo;t be a surprise for the friends/family/fools crowd. It will most likely be a surprise, perhaps unacceptable, to traditional <span class="_paradigm">FIAT</span> investors. However, talk to them as well as a few are not traditionalists and may be inspired enough to give you capital-as-a-<span class="_paradigm">RADICAL</span>-investment</p>
  <p>Once you have the capital it will go into whatever you have to buy and <em>the PRI fund</em>.</p>
- <p>Alternatkvely, you may forego borrowing any capital,</p>
+ <p>Alternatively, you may forego borrowing any capital,</p>
   <ul>
    <li>There will be PRI fund</li>
    <li>Tou will need to find as co-owners people who can afford to wait for revenue.</p>
