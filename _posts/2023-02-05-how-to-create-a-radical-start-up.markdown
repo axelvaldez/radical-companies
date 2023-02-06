@@ -77,40 +77,42 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  
 <h1>Trust Agreements</h1>
  <p>Do a Trust Agreement with the first co-owner in the team. This is a guide to an exploration among would-be co-owners to make sure that they are or can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Trust Agreement. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
- <table class="_background">
-  <tr>
-   <th>Mindset</th>
-   <td>
-    <ul>
-     <li>Why do we do what we do?</li>
-     <li>How are you showing up?</li>
-     <li>Personal Context</li>
-     <li>Who are you?</li>
-     <li>Why do you need the others?</li>
-     <li>What do you feel we need to agree on?</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>About You&hellip;</th>
-   <td></td>
-  </tr>
-  <tr>
-   <th>Transparency</th>
-   <td>Also know as vulnerabilty.</td>
-  </tr>
-  <tr>
-   <th>Collaborating</th>
-   <td></td>
-  </tr>
-  <tr>
-   <th>Rendering</th>
-   <td></td>
-  </tr>
-  <tr>
-   <td class="_spacer">&nbsp;</td>
-  </tr>
- </table>
+ <div class="_center">
+  <table class="_background">
+   <tr>
+    <th>Mindset</th>
+    <td>
+     <ul>
+      <li>Why do we do what we do?</li>
+      <li>How are you showing up?</li>
+      <li>Personal Context</li>
+      <li>Who are you?</li>
+      <li>Why do you need the others?</li>
+      <li>What do you feel we need to agree on?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>About You&hellip;</th>
+    <td></td>
+   </tr>
+   <tr>
+    <th>Transparency</th>
+    <td>Also know as vulnerabilty.</td>
+   </tr>
+   <tr>
+    <th>Collaborating</th>
+    <td></td>
+   </tr>
+   <tr>
+    <th>Rendering</th>
+    <td></td>
+   </tr>
+   <tr>
+    <td class="_spacer">&nbsp;</td>
+   </tr>
+  </table>
+ </div>
  <p>For subsequent co-owner candidates, other co-owners can go through the Trust Agreement with them.</p>
 
 <h1 class="_section">ENDNOTES</h1>
