@@ -173,7 +173,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <th>Alignment</th>
     <td>
      <ul>
-      <li>Please, take a look at the Alignment table, above.</li>
+      <li>Please, take a look at our Alignment table, particularly its <b>Impact</b> and <b>Purpose</b>.</li>
       <li>What thoughts does this bring up?</li>
       <li>Does it work for you?</li>
       <li>Does anything need to change or be clarified for you?</li>
@@ -184,7 +184,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <th>Foundation</th>
     <td>
      <ul>
-      <li>Please take a look at the Foundation, above.</li>
+      <li>Please take a look at the Foundation.</li>
       <li>What thoughts does this bring up?</li>
      </ul>
     </td>
