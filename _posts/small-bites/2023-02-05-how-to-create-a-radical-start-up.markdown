@@ -1,6 +1,7 @@
 ---
 layout:   post
 title:    "How to Create a <span class='_paradigm'>RADICAL</span> Startup"
+subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-how-to-create-a-radical-start-up.svg"
 ---
