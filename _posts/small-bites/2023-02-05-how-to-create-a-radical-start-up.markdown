@@ -135,7 +135,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <th>Expressed Alignment</th>
     <td>
      <div class="_center">
-      <table class="_foundation">
+      <table class="_alignment">
        <tr>
         <th>Impact<br><span style="font-size:smaller; font-weight: normal; ">what for?</span></th>
         <td>FIAT, co-ownership, and co-management become part of everyday language.</td>

@@ -364,12 +364,22 @@ table._background tr:nth-child(odd)  {
   padding:0 10%;
   font-family: American Typewriter, serif;
 }
-._foundation {
+._foundation, ._alignment {
   column-width:6px;
   column-width:10px;
   text-align:left;
   display:grid;
   place-items:center;
+}
+._foundation {
+  column-width:6px;
+  column-width:10px;
+}
+._alignment {
+  /*
+  column-width:6px;
+  column-width:10px;
+  */
 }
 ._foundation table {
   width:50%;
