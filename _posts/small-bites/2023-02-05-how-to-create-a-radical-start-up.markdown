@@ -134,12 +134,12 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <tr>
     <th>Expressed Alignment</th>
     <td>
-     <!--
      <div class="_center">
       <table class="_foundation">
        <tr>
         <th>Impact<br><span style="smaller">what for?</span></th>
         <td>FIAT, co-ownership, and co-management become part of everyday language.</td>
+       </tr>
        <tr>
         <th>Purpose<br><span style="smaller">why?</span></th>
         <td>People see FIAT and can recognize the actions that come out of it.</td>
@@ -156,6 +156,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
      <ul>
       <li>What thoughts does this bring up?</li>
      </ul>
+    <!--
     -->
     </td>
    </tr>
