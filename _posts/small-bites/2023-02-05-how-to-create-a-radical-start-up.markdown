@@ -191,8 +191,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    </tr>
   </table>
  </div>
- <p>Our recomendation is that you allot one hour each to Mindset and About&hellip, Transparency and Collaboration, and Alignment and Foundation. These three hours will get you a deep trust with other co-owners that businesses don&rsquo;t ever get near.</p>
- <p>For subsequent co-owner candidates, any co-owner can go through the Trust Agreement with them.</p>
+ <p>Our recomendation is that you allot one hour each to <b>Mindset</b> and <b>About&hellip;</b>, <b>Transparency</b> and <b>Collaboration</b>, and <b>Alignment</b> and <b>Foundation</b>. These three hours will get you a deep trust with other co-owners that businesses don&rsquo;t ever get near.</p>
+ <p>For subsequent co-owner candidates, any co-owner can go through the <em>Trust Agreement</em> with them.</p>
 
 <h1>Other References</h1>
   <ul>
