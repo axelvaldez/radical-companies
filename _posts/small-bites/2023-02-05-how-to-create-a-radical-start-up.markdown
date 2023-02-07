@@ -95,9 +95,11 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <th>About&hellip;</th>
     <td>
      <ul>
-      <li>What gets you angry? What does it look like? How would we know?</li>
-      <li>What shuts you up? What does it look like? How would we know?</li>
-      <li>What make you excited?  What does it look like? How would we know?</li>
+      <li>What gets you angry?</li>
+      <li>What shuts you up?</li>
+      <li>What makes you excited?</li>
+      <li>What we really need to know is what does each of the above look like?</li>
+      <li>How would we know if you are angry, feel shut up, or excited?</li>
       <li>Anything else?</li>
      </ul>
     </td>
@@ -109,8 +111,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
      <ul>
       <li>What are you biggest joys?</li>
       <li>What are you biggest fears?</li>
-      <li>When do you speak up? How?</li>
-      <li>Do you need to be given persmission to speak?</li>
+      <li>Do you speak up? How?</li>
+      <li>Do you need to be given persmission to speak? <span class="_citation">None of you asked!</span></li>
       <li>Anything else?</li>
      </ul>
     </td>
