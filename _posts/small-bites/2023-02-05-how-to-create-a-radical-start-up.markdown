@@ -192,7 +192,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   </table>
  </div>
  <p>Our recomendation is that you allot one hour each to</p>
-  <ul
+  <ul>
    <li><b>Mindset</b> and <b>About&hellip;</b></li>
    <li><b>Transparency</b> and <b>Collaboration</b>,</li>
    <li><b>Alignment</b> and <b>Foundation</b>.</li>
