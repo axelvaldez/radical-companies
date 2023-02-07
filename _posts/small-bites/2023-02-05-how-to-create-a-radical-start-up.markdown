@@ -130,10 +130,62 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
      </ul>
     </td>
    </tr>
+   <tr>
+    <th>Expressed Alignment</th>
+    <td>
+     <div class="_center">
+      <table class="_foundation">
+       <tr>
+        <th>Impact<br><span style="smaller">what for?</span</th>
+        <td>FIAT, co-ownership, and co-management become part of everyday language.</td>
+       <tr>
+        <th>Purpose<br><span style="smaller">why?</span></th>
+        <td>People see FIAT and can recognize the actions that come out of it.</td>
+       </tr>
+       <tr>
+        <th>Mission<br><span style="smaller">what? when? where?</span></th>
+        <td>TBD</td>
+       </tr>
+       <tr>
+        <td class="_spacer_"></td>
+       </tr>
+      </table>
+     </div>
+     <ul>
+      <li>What thoughts does this bring up?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Foundation</th>
+    <td>
+     <div class="_center">
+      <table class="_foundation">
+       <tr style="background-color:#EEEEEE; ">
+        <th style="text-align:right; ">people</th>
+        <td class="_foundation">Meaning & Belonging</td>
+       </tr>
+       <tr>
+        <th style="text-align:right; ">commitments</th>
+        <td class="_foundation">Decentralization & Transparency</td>
+       </tr>
+       <tr style="background-color:#EEEEEE; ">
+        <th style="text-align:right; ">practices</th>
+        <td class="_foundation">Experimentation</td>
+       </tr>
+       <tr>
+        <td class="_spacer_"></td>
+       </tr>
+      </table>
+     </div>
+     <ul>
+      <li>What thoughts does this bring up?</li>
+     </ul>
+    </td>
+   </tr>
   </table>
  </div>
  <p>For subsequent co-owner candidates, any co-owner can go through the Trust Agreement with them.</p>
- <p>Watning: we have not figured out is if there need to be a Trust Agreement for &ldquo;the company&rdquo;. It seems that doing so would not scale. Most likely, the company&rsquo; Foundation needs to be made part of this agreement. Stay tuned.</p>
 
 <h1>Expressed Alignment</h1>
  <p>Since you have co-owners, and no boss, you still to somehow align on what needs to get done, etc., and that is what the Expressed Alignment tool is about,</p>

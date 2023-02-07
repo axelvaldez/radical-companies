@@ -45,7 +45,7 @@ image:    "icon-about-daos.svg"
 
 <!-- foundation -->
  <div class="_center">
-  <table style="width:90%; ">
+  <table class="_foundation">
    <tr style="background-color:#EEEEEE; ">
     <th style="text-align:right; ">people</th>
     <td class="_foundation">Meaning & Belonging</td>
