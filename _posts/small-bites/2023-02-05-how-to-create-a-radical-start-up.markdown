@@ -106,6 +106,9 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   </table>
  <p>The Mission will change often as one project finish it and the other starts. The Purpose will change less often, but could change as new co-onwers join. The Impact should not change at all, at least not without a deep discussion (<em>i.e.</em>, this is equivalent to creating a new company),</p>
  </div>
+ <p>The Mission will change as often as necessary. Each team has its own mission, but it must align with the Impact and Pupose of the whole company.</p>
+ <p>The Purpose will change less often, but it could change as new co-onwers join.</p>
+ <p>The Impact should not change at all, at least not without a deep discussion. This may happen but it is equivalent to creating a new company.</p>
 
 <h1>Trust Agreement</h1>
  <p>Do a Trust Agreement with the first co-owner in the team. This is a guide to an exploration among would-be co-owners to make sure that they are or can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Trust Agreement. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
@@ -185,7 +188,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    </tr>
   </table>
  </div>
- <p>Our recomendation is that you alot one hour each to Mindset and About&hellip, Transparency and Collaboration, and Alignment and Foundation. These three hours will get you a deep trust with other co-owners that businesses don&rsquo;t ever get near.</p>
+ <p>Our recomendation is that you allot one hour each to Mindset and About&hellip, Transparency and Collaboration, and Alignment and Foundation. These three hours will get you a deep trust with other co-owners that businesses don&rsquo;t ever get near.</p>
  <p>For subsequent co-owner candidates, any co-owner can go through the Trust Agreement with them.</p>
 
 <h1>Other References</h1>
