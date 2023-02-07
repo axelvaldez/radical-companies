@@ -121,7 +121,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <th>Collaborating</th>
     <td>
      <ul>
-      <li>Is anything significantly meaningful to you? What give you joy?</li>
+      <li>What comes up as meaningful to you?</li>
+      <li>What gives you joy?</li>
       <li>How can we help you collaborate with us?</li>
       <li>What stops you on your tracks?</li>
       <li>How can we avoid doing that?</li>
@@ -136,7 +137,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
      <div class="_center">
       <table class="_foundation">
        <tr>
-        <th>Impact<br><span style="smaller">what for?</span</th>
+        <th>Impact<br><span style="smaller">what for?</span></th>
         <td>FIAT, co-ownership, and co-management become part of everyday language.</td>
        <tr>
         <th>Purpose<br><span style="smaller">why?</span></th>
