@@ -104,7 +104,6 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <td>What are doing, when, and How? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We mean to sign up the first 100 customers by the end of March.</span></td>
    </tr>
   </table>
- <p>The Mission will change often as one project finish it and the other starts. The Purpose will change less often, but could change as new co-onwers join. The Impact should not change at all, at least not without a deep discussion (<em>i.e.</em>, this is equivalent to creating a new company),</p>
  </div>
  <p>The Mission will change as often as necessary. Each team has its own mission, but it must align with the Impact and Pupose of the whole company.</p>
  <p>The Purpose will change less often, but it could change as new co-onwers join.</p>
