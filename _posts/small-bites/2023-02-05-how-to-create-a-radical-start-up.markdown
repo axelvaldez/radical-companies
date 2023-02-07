@@ -137,15 +137,15 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
      <div class="_center">
       <table class="_foundation">
        <tr>
-        <th>Impact<br><span style="smaller">what for?</span></th>
+        <th>Impact<br><span style="font-size:smaller; font-weight: normal; ">what for?</span></th>
         <td>FIAT, co-ownership, and co-management become part of everyday language.</td>
        </tr>
        <tr>
-        <th>Purpose<br><span style="smaller">why?</span></th>
+        <th>Purpose<br><span style="font-size:smaller; font-weight: normal; ">why?</span></th>
         <td>People see FIAT and can recognize the actions that come out of it.</td>
        </tr>
        <tr>
-        <th>Mission<br><span style="smaller">what? when? where?</span></th>
+        <th>Mission<br><span style="font-size:smaller; font-weight: normal; ">what?<br>when?<br>where?</span></th>
         <td>TBD</td>
        </tr>
        <tr>
