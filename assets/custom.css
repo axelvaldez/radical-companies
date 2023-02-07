@@ -387,3 +387,7 @@ table._background tr:nth-child(odd)  {
 ._foundation td {
   font-size:small;
 }
+._alignquestions {
+  font-size:smaller;
+  font-weight:normal;
+}

@@ -96,7 +96,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <td>Why are we doing this for? For example, <span class="_quotespan">Easy to get, healthy foods.</span></td>
    </tr>
    <tr>
-    <th>Mission (what? when? how?)</th>
+    <th>Mission<br><span class="_alignquestions">what?<br>when?<br>how?</span></th>
     <td>What are doing, when, and How? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We mean to sign up the first 100 customers by the end of March.</span></td>
    </tr>
   </table>
