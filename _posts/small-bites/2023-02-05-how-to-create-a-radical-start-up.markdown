@@ -112,7 +112,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
       <li>What are you biggest joys?</li>
       <li>What are you biggest fears?</li>
       <li>Do you speak up? How?</li>
-      <li>Do you need to be given persmission to speak? <span class="_citation">None of you asked!</span></li>
+      <li>Do you need to be given persmission to speak? <span class="_quotespan">None of you asked!</span></li>
       <li>Anything else?</li>
      </ul>
     </td>
