@@ -92,9 +92,12 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     </td>
    </tr>
    <tr>
-    <th>About You&hellip;</th>
+    <th>About&hellip;</th>
     <td>
      <ul>
+      <li>What gets you angry? What does it look like? How would we know?</li>
+      <li>What shuts you up? What does it look like? How would we know?</li>
+      <li>What make you excited?  What does it look like? How would we know?</li>
       <li>Anything else?</li>
      </ul>
     </td>
@@ -116,18 +119,19 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <th>Collaborating</th>
     <td>
      <ul>
-      <li>Is anything significantly meaningful to you?</li>
+      <li>Is anything significantly meaningful to you? What give you joy?</li>
       <li>How can we help you collaborate with us?</li>
       <li>What stops you on your tracks?</li>
       <li>How can we avoid doing that?</li>
-      <li>How do we know whenb you are collaborating? How do you show up?</li>
-      <li>What impact you have to have on the world?</li>
+      <li>How do we know when you are collaborating? How do you show up?</li>
+      <li>What impact you have to have?</li>
      </ul>
     </td>
    </tr>
   </table>
  </div>
  <p>For subsequent co-owner candidates, any co-owner can go through the Trust Agreement with them.</p>
+ <p>Watning: we have not figured out is if there need to be a Trust Agreement for &ldquo;the company&rdquo;. It seems that doing so would not scale. Most likely, the company&rsquo; Foundation needs to be made part of this agreement. Stay tuned.</p>
 
 <h1>Expressed Alignment</h1>
  <p>Since you have co-owners, and no boss, you still to somehow align on what needs to get done, etc., and that is what the Expressed Alignment tool is about,</p>
