@@ -171,7 +171,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <th>Foundation</th>
     <td>
      <ul>
-      <li>Please, take a look at the Foundation, above.</li>
+      <li>Finally, please take a look at the Foundation, above.</li>
       <li>What thoughts does this bring up?</li>
      </ul>
     </td>
