@@ -105,9 +105,12 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    </tr>
   </table>
  </div>
- <p>The Mission will change as often as necessary. Each team has its own mission, but it must align with the Impact and Pupose of the whole company.</p>
- <p>The Purpose will change less often, but it could change as new co-onwers join.</p>
- <p>The Impact should not change at all, at least not without a deep discussion. This may happen but it is equivalent to creating a new company.</p>
+ <p>These not cast in stone, but have different rates of change,</p>
+  <ul>
+   <li>The <b>Mission</b> will change as often as necessary. If there is more than one team, each team has its own mission, but it must align with the <b>Impact</b> and <b>Purpose</b> of the whole company.</li>
+   <li>The <b>Purpose</b> will change less often, but it could change as new co-onwers join.</li>
+   <li>The <b>Impact</b> should not change at all, at least not without a deep discussion. This may happen, but it is a major thing, equivalent to creating a new company.</li>
+  </ul>
 
 <h1>Trust Agreement</h1>
  <p>Do a Trust Agreement with the first co-owner in the team. This is a guide to an exploration among would-be co-owners to make sure that they are or can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Trust Agreement. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
