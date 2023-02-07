@@ -162,17 +162,17 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <td>
      <div class="_center">
       <table class="_foundation">
-       <tr style="background-color:#EEEEEE; ">
-        <th style="text-align:right; ">people</th>
-        <td class="_foundation">Meaning & Belonging</td>
+       <tr>
+        <th>people</th>
+        <td>Meaning & Belonging</td>
        </tr>
        <tr>
-        <th style="text-align:right; ">commitments</th>
-        <td class="_foundation">Decentralization & Transparency</td>
+        <th>commitments</th>
+        <td>Decentralization & Transparency</td>
        </tr>
-       <tr style="background-color:#EEEEEE; ">
-        <th style="text-align:right; ">practices</th>
-        <td class="_foundation">Experimentation</td>
+       <tr>
+        <th>practices</th>
+        <td>Experimentation</td>
        </tr>
        <tr>
         <td class="_spacer_"></td>
