@@ -279,6 +279,9 @@ table tr {
 table._background tr:nth-child(odd)  {
   background-color:#EEEEEE;
 }
+table._background tr ul {
+  margin-bottom:0;
+}
 ._list-item {
   margin-bottom:0;
   font-size:smaller;
