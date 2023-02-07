@@ -162,8 +162,10 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <th>Alignment</th>
     <td>
      <ul>
-      <li>Please, take a look at our Alignment table, above.</li>
+      <li>Please, take a look at the Alignment table, above.</li>
       <li>What thoughts does this bring up?</li>
+      <li>Does it work for you?</li>
+      <li>Does anything need to change or be clarified for you?</li>
      </ul>
     </td>
    </tr>
