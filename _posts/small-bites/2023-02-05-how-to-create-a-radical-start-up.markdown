@@ -194,15 +194,6 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>Our recomendation is that you allot one hour each to <b>Mindset</b> and <b>About&hellip;</b>, <b>Transparency</b> and <b>Collaboration</b>, and <b>Alignment</b> and <b>Foundation</b>. These three hours will get you a deep trust with other co-owners that businesses don&rsquo;t ever get near.</p>
  <p>For subsequent co-owner candidates, any co-owner can go through the <em>Trust Agreement</em> with them.</p>
 
-<h1>Other References</h1>
-  <ul>
-   <li>                                <em>Get Rid of Ownership</em>,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></li>
-   <li>  <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a></li>
-   <li>   <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
-   <li>                              <em>No Bonuses or Salaries</em>,<a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a></li>
-   <li>          <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en08"><sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a></li>
-  </ul>
-
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en04">
