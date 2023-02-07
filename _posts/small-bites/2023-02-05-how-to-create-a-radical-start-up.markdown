@@ -75,6 +75,33 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>No matter, this is the importnat thing: each withdrawal from the PRI fund is <em>a personal debt</em> that each co-owner is responsible for. At some point you all may decide on a different policy, but at the very start this seems to be it. Co-owners are not selling their time for a salary as is the case in <span class="_paradigm">FIAT</span> land so. There is no <span class="_paradigm">FIAT</span> onwer, the people who draw from the PRI fund are the co-owners and responsible for what they borrow.</p>
  <p>As co-owners, you may decide put limits on time or amount, they may also decide to take on the debt themselves, but that&rsquo;s up to you. Later, as revenue starts to come in, the PRI is repaid and, say, the borrowed capital that went into it may be paid off along with its upside. Once the PRI fund is paid off all earned dividents&mdash;what is left after paying off expenses, etc.&mdash;go to the co-owners.</p>
  
+<h1>Expressed Alignment</h1>
+ <p>Since you have co-owners, and no boss, you still to somehow align on what needs to get done, etc., and that is what the Expressed Alignment tool is about,</p>
+ <div class="_center">
+  <img
+   src="/assets/img/en-alignment.svg"
+   width="70%"
+   alt="">
+ </div>
+ <p>Co-owners should get together as soon as possible to figure out answers to the questions in the Expressed Alignment below.</p>
+ <p>The Mission will change often as one project finish it and the other starts. The Purpose less often, but could change as new co-onwers join. The Impact should not change at all, at least not without a deep discussion (<em>i.e.</em>, this is equivalent to creating a new company),</p>
+ <div class="_center">
+  <table class="_background">
+   <tr>
+    <th>Impact (what for?)</th>
+    <td>what impact they want to make (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
+   </tr>
+   <tr>
+    <th>Purpose (why?)</th>
+    <td>Why are we doing this for? For example, <span class="_quotespan">Easy to get, healthy foods.</span></td>
+   </tr>
+   <tr>
+    <th>Mission (what? when? how?)</th>
+    <td>What are doing, when, and How? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We mean to sign up the first 100 customers by the end of March.</span></td>
+   </tr>
+  </table>
+ </div>
+
 <h1>Trust Agreement</h1>
  <p>Do a Trust Agreement with the first co-owner in the team. This is a guide to an exploration among would-be co-owners to make sure that they are or can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Trust Agreement. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
  <div class="_center">
@@ -132,93 +159,26 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     </td>
    </tr>
    <tr>
-    <th>Expressed Alignment</th>
+    <th>Alignment</th>
     <td>
-     <div class="_center">
-      <table class="_alignment">
-       <tr>
-        <th>Impact<br><span style="font-size:smaller; font-weight: normal; ">what for?</span></th>
-        <td>FIAT, co-ownership, and co-management become part of everyday language.</td>
-       </tr>
-       <tr>
-        <th>Purpose<br><span style="font-size:smaller; font-weight: normal; ">why?</span></th>
-        <td>People see FIAT and can recognize the actions that come out of it.</td>
-       </tr>
-       <tr>
-        <th>Mission<br><span style="font-size:smaller; font-weight: normal; ">what?<br>when?<br>where?</span></th>
-        <td>TBD</td>
-       </tr>
-       <tr>
-        <td class="_spacer_"></td>
-       </tr>
-      </table>
-     </div>
      <ul>
+      <li>Please, take a look at our Alignment table, above.</li>
       <li>What thoughts does this bring up?</li>
      </ul>
-    <!--
-    -->
     </td>
    </tr>
    <tr>
     <th>Foundation</th>
     <td>
-     <div class="_center">
-      <table class="_foundation">
-       <tr>
-        <th>people</th>
-        <td>Meaning & Belonging</td>
-       </tr>
-       <tr>
-        <th>commitments</th>
-        <td>Decentralization & Transparency</td>
-       </tr>
-       <tr>
-        <th>practices</th>
-        <td>Experimentation</td>
-       </tr>
-       <tr>
-        <td class="_spacer_"></td>
-       </tr>
-      </table>
-     </div>
      <ul>
+      <li>Please, take a look at the Foundation, above.</li>
       <li>What thoughts does this bring up?</li>
      </ul>
-    <!--
-    -->
     </td>
    </tr>
   </table>
  </div>
  <p>For subsequent co-owner candidates, any co-owner can go through the Trust Agreement with them.</p>
-
-<h1>Expressed Alignment</h1>
- <p>Since you have co-owners, and no boss, you still to somehow align on what needs to get done, etc., and that is what the Expressed Alignment tool is about,</p>
- <div class="_center">
-  <img
-   src="/assets/img/en-alignment.svg"
-   width="70%"
-   alt="">
- </div>
- <p>Co-owners should get together as soon as possible to figure out answers to the questions in the Expressed Alignment below.</p>
- <p>The Mission will change often as one project finish it and the other starts. The Purpose less often, but could change as new co-onwers join. The Impact should not change at all, at least not without a deep discussion (<em>i.e.</em>, this is equivalent to creating a new company),</p>
- <div class="_center">
-  <table class="_background">
-   <tr>
-    <th>Impact (what for?)</th>
-    <td>what impact they want to make (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
-   </tr>
-   <tr>
-    <th>Purpose (why?)</th>
-    <td>Why are we doing this for? For example, <span class="_quotespan">Easy to get, healthy foods.</span></td>
-   </tr>
-   <tr>
-    <th>Mission (what? when? how?)</th>
-    <td>What are doing, when, and How? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We mean to sign up the first 100 customers by the end of March.</span></td>
-   </tr>
-  </table>
- </div>
 
 <h1>The <em><span class="_paradigm">RAD</span>s!</em> Mobile App</h1>
  <p>Co-owners can recognize another co-owner&rsquo;s contributions with this app. The <em><span class="_paradigm">RAD</span>s!</em> app then converts these contributions into <span class="_paradigm">RAD</span>s.</p>
