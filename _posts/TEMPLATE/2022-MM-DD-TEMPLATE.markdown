@@ -28,22 +28,12 @@ image:    "icon-about-daos.svg"
 <!-- image -->
  <div class="_center">
   <img
-   src="/assets/img/pings-to-rads-equation.svg"
+   src="/assets/img/en-alignment.svg"
    width="70%"
    alt="">
  </div>
 
-<!-- previous/next -->
-<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left;  "><a href="https://radicalcompanies.com/">Previous &lt;</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/">    &gt; Next</a></span>
-</div>
-
-<!-- Endnotes URL -->
-<h1></h1>
- <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
-
-<!-- foundation -->
+<!-- Foundation -->
  <div class="_center">
   <table class="_foundation">
    <tr>
@@ -63,6 +53,113 @@ image:    "icon-about-daos.svg"
    </tr>
   </table>
  </div>
+
+<!-- Expressed Alignment -->
+  <table class="_background">
+   <tr>
+    <th>Impact<br><span class="_alignquestions">what for?</span></th>
+    <td>What impact they want to make (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
+   </tr>
+   <tr>
+    <th>Purpose<br><span class="_alignquestions">why?</span></th>
+    <td>Why are we doing this for? For example, <span class="_quotespan">Easy to get, healthy foods.</span></td>
+   </tr>
+   <tr>
+    <th>Mission<br><span class="_alignquestions">what?<br>when?<br>how?</span></th>
+    <td>What are doing, when, and How? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We mean to sign up the first 100 customers by the end of March.</span></td>
+   </tr>
+  </table>
+ </div>
+
+<!-- Trust Agreement -->
+ <div class="_center">
+  <table class="_background">
+   <tr>
+    <th>Mindset</th>
+    <td>
+     <ul>
+      <li>How do you show up? Who are you?</li>
+      <li>Why do you need others?</li>
+      <li>What do you feel we need to agree on?</li>
+      <li>What are your red lines?</li>
+      <li>Anything else?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>About&hellip;</th>
+    <td>
+     <ul>
+      <li>What gets you angry?</li>
+      <li>What shuts you up?</li>
+      <li>What makes you excited?</li>
+      <li>What we really need to know is what does each of the above look like?</li>
+      <li>How would we know if you are angry, feel shut up, or excited?</li>
+      <li>Anything else?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Transparency</th>
+    <td>
+     <p>Also known as vulnerabilty.</p>
+     <ul>
+      <li>What are you biggest joys?</li>
+      <li>What are you biggest fears?</li>
+      <li>Do you speak up? How?</li>
+      <li>Do you need to be given persmission to speak? <span class="_quotespan">You didn&rsquo;t asked me!</span></li>
+      <li>Anything else?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Collaboration</th>
+    <td>
+     <ul>
+      <li>What comes up as meaningful to you?</li>
+      <li>What gives you joy?</li>
+      <li>How can we help you collaborate with us?</li>
+      <li>What stops you on your tracks?</li>
+      <li>How can we avoid doing that?</li>
+      <li>How do we know when you are collaborating? How do you show up?</li>
+      <li>What impact you have to have?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Alignment</th>
+    <td>
+     <ul>
+      <li>Please, take a look at our Alignment table, particularly its <b>Impact</b> and <b>Purpose</b>.</li>
+      <li>What thoughts does this bring up?</li>
+      <li>Does it work for you?</li>
+      <li>Does anything need to change or be clarified for you?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Foundation</th>
+    <td>
+     <ul>
+      <li>Please take a look at the Foundation.</li>
+      <li>What thoughts does this bring up?</li>
+     </ul>
+    </td>
+   </tr>
+  </table>
+ </div>
+ <p>Our recomendation is that you allot one hour each to Mindset and About&hellip, Transparency and Collaboration, and Alignment and Foundation. These three hours will get you a deep trust with other co-owners that businesses don&rsquo;t ever get near.</p>
+ <p>For subsequent co-owner candidates, any co-owner can go through the Trust Agreement with them.</p>
+
+<!-- previous/next -->
+<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+ <span style="float:left;  "><a href="https://radicalcompanies.com/">Previous &lt;</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/">    &gt; Next</a></span>
+</div>
+
+<!-- Endnotes URL -->
+<h1></h1>
+ <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
 
 <h1>For More References, See,</h1>
   <ul>
