@@ -171,13 +171,14 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <th>Foundation</th>
     <td>
      <ul>
-      <li>Finally, please take a look at the Foundation, above.</li>
+      <li>Please take a look at the Foundation, above.</li>
       <li>What thoughts does this bring up?</li>
      </ul>
     </td>
    </tr>
   </table>
  </div>
+ <p>Our recomendation is that you alot one hour to Mindset and About&hellip, one hour to Transparency and Collaboration, and one hour to talk nabout the Alignment and Foundation. These three hours will get you a deep trust with other co-owners that businesses don&rsquo;t ever get near.</p>
  <p>For subsequent co-owner candidates, any co-owner can go through the Trust Agreement with them.</p>
 
 <h1>The <em><span class="_paradigm">RAD</span>s!</em> Mobile App</h1>
