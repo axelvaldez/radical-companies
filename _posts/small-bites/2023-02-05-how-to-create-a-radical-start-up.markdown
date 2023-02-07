@@ -191,8 +191,14 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    </tr>
   </table>
  </div>
- <p>Our recomendation is that you allot one hour each to <b>Mindset</b> and <b>About&hellip;</b>, <b>Transparency</b> and <b>Collaboration</b>, and <b>Alignment</b> and <b>Foundation</b>. These three hours will get you a deep trust with other co-owners that businesses don&rsquo;t ever get near.</p>
- <p>For subsequent co-owner candidates, any co-owner can go through the <em>Trust Agreement</em> with them.</p>
+ <p>Our recomendation is that you allot one hour each to</p>
+  <ul
+   <li><b>Mindset</b> and <b>About&hellip;</b></li>
+   <li><b>Transparency</b> and <b>Collaboration</b>,</li>
+   <li><b>Alignment</b> and <b>Foundation</b>.</li>
+  </ul>
+ <p>We have spend many more that three hours on these. Doing it will get you a deep trust with other co-owners that <span class="_paradigm">FIAT</span> businesses don&rsquo;t ever get near.</p>
+ <p>Finally, for subsequent co-owner candidates, other co-owners can go through the <em>Trust Agreement</em> with them. Remember, you are not the boss.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
