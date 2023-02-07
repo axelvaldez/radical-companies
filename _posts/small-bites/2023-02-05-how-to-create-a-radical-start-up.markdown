@@ -163,7 +163,6 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <tr>
     <th>Foundation</th>
     <td>
-    <!--
      <div class="_center">
       <table class="_foundation">
        <tr>
@@ -186,6 +185,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
      <ul>
       <li>What thoughts does this bring up?</li>
      </ul>
+    <!--
     -->
     </td>
    </tr>
