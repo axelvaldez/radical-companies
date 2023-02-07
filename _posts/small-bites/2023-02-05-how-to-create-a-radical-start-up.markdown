@@ -89,7 +89,6 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    alt="">
  </div>
  <p>Co-owners should get together as soon as possible, or sooner, to figure out answers to the questions in the Expressed Alignment below. This is extremely key.</p>
- <p>The Mission will change often as one project finish it and the other starts. The Purpose will change less often, but could change as new co-onwers join. The Impact should not change at all, at least not without a deep discussion (<em>i.e.</em>, this is equivalent to creating a new company),</p>
  <div class="_center">
   <table class="_background">
    <tr>
@@ -105,6 +104,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <td>What are doing, when, and How? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We mean to sign up the first 100 customers by the end of March.</span></td>
    </tr>
   </table>
+ <p>The Mission will change often as one project finish it and the other starts. The Purpose will change less often, but could change as new co-onwers join. The Impact should not change at all, at least not without a deep discussion (<em>i.e.</em>, this is equivalent to creating a new company),</p>
  </div>
 
 <h1>Trust Agreement</h1>
