@@ -89,7 +89,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   <table class="_background">
    <tr>
     <th>Impact<br><span class="_alignquestions">what for?</span></th>
-    <td>what impact they want to make (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
+    <td>What impact they want to make (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
    </tr>
    <tr>
     <th>Purpose<br><span class="_alignquestions">why?</span></th>
