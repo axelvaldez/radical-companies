@@ -74,7 +74,12 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>Each co-owner declares what she needs to take home. If this figure is too high and, say, it dry the PRI fund too quickly, other co-owners will want to discuss it. In the happy path, the declared figure is agreed to.</p>
  <p>No matter, this is the importnat thing: each withdrawal from the PRI fund is <em>a personal debt</em> that each co-owner is responsible for. At some point you all may decide on a different policy, but at the very start this seems to be it. Co-owners are not selling their time for a salary as is the case in <span class="_paradigm">FIAT</span> land so. There is no <span class="_paradigm">FIAT</span> onwer, the people who draw from the PRI fund are the co-owners and responsible for what they borrow.</p>
  <p>As co-owners, you may decide put limits on time or amount, they may also decide to take on the debt themselves, but that&rsquo;s up to you. Later, as revenue starts to come in, the PRI is repaid and, say, the borrowed capital that went into it may be paid off along with its upside. Once the PRI fund is paid off all earned dividents&mdash;what is left after paying off expenses, etc.&mdash;go to the co-owners.</p>
- 
+
+<h1>The <em><span class="_paradigm">RAD</span>s!</em> Mobile App</h1>
+ <p>The <em><span class="_paradigm">RAD</span>s!</em> mobile app is for co-owners can recognize another co-owner&rsquo;s contributions with this app. The <em><span class="_paradigm">RAD</span>s!</em> app then converts these contributions into <span class="_paradigm">RAD</span>s.</p>
+ <p>Co-owners can recognize anything as a contributions. These can range from a tangible benefit to the company (<em>e.g.</em>, <span class="_quotespan">&hellip; found us a place to store return merchandize for free.</span>) to something more intangible (<em>e.g.</em>, <span class="quotespan">&hellip; took the time to talk to him and to help him get his mental health taken care of.</span> or even <span class="quotespan">&hellip; I could not help but smile when he did that.</span>)</p>
+ <p><span class="_paradigm">RAD</span>s can factor anything through them. For example, if I have 10% of the <span class="_paradigm">RAD</span>s distributed and you have 20%, you get twice as much as I do of whatever is being filtered through the <span class="_paradigm">RAD</span>s this time (<em>e.g.</em>, earned dividends on revenue).</p>
+
 <h1>Expressed Alignment</h1>
  <p>Since you have co-owners, and no boss, you still to somehow align on what needs to get done, etc., and that is what the Expressed Alignment tool is about,</p>
  <div class="_center">
@@ -182,11 +187,6 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  </div>
  <p>Our recomendation is that you alot one hour each to Mindset and About&hellip, Transparency and Collaboration, and Alignment and Foundation. These three hours will get you a deep trust with other co-owners that businesses don&rsquo;t ever get near.</p>
  <p>For subsequent co-owner candidates, any co-owner can go through the Trust Agreement with them.</p>
-
-<h1>The <em><span class="_paradigm">RAD</span>s!</em> Mobile App</h1>
- <p>The <em><span class="_paradigm">RAD</span>s!</em> mobile app is for co-owners can recognize another co-owner&rsquo;s contributions with this app. The <em><span class="_paradigm">RAD</span>s!</em> app then converts these contributions into <span class="_paradigm">RAD</span>s.</p>
- <p>Co-owners can recognize anything as a contributions. These can range from a tangible benefit to the company (<em>e.g.</em>, <span class="_quotespan">&hellip; found us a place to store return merchandize for free.</span>) to something more intangible (<em>e.g.</em>, <span class="quotespan">&hellip; took the time to talk to him and to help him get his mental health taken care of.</span> or even <span class="quotespan">&hellip; I could not help but smile when he did that.</span>)</p>
- <p><span class="_paradigm">RAD</span>s can factor anything through them. For example, if I have 10% of the <span class="_paradigm">RAD</span>s distributed and you have 20%, you get twice as much as I do of whatever is being filtered through the <span class="_paradigm">RAD</span>s this time (<em>e.g.</em>, earned dividends on revenue).</p>
 
 <h1>Other References</h1>
   <ul>
