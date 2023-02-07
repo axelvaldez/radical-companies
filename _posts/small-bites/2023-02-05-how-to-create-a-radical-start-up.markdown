@@ -145,7 +145,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     </td>
    </tr>
    <tr>
-    <th>Collaborating</th>
+    <th>Collaboration</th>
     <td>
      <ul>
       <li>What comes up as meaningful to you?</li>
@@ -178,7 +178,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    </tr>
   </table>
  </div>
- <p>Our recomendation is that you alot one hour to Mindset and About&hellip, one hour to Transparency and Collaboration, and one hour to talk nabout the Alignment and Foundation. These three hours will get you a deep trust with other co-owners that businesses don&rsquo;t ever get near.</p>
+ <p>Our recomendation is that you alot one hour each to Mindset and About&hellip, Transparency and Collaboration, and Alignment and Foundation. These three hours will get you a deep trust with other co-owners that businesses don&rsquo;t ever get near.</p>
  <p>For subsequent co-owner candidates, any co-owner can go through the Trust Agreement with them.</p>
 
 <h1>The <em><span class="_paradigm">RAD</span>s!</em> Mobile App</h1>
