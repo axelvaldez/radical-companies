@@ -194,45 +194,6 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>Our recomendation is that you allot one hour each to <b>Mindset</b> and <b>About&hellip;</b>, <b>Transparency</b> and <b>Collaboration</b>, and <b>Alignment</b> and <b>Foundation</b>. These three hours will get you a deep trust with other co-owners that businesses don&rsquo;t ever get near.</p>
  <p>For subsequent co-owner candidates, any co-owner can go through the <em>Trust Agreement</em> with them.</p>
 
-<h1 class="_section">ENDNOTES</h1>
- <ul>
-  <li id="en04">
-   <p class="_list-item">
-    <em>Get Rid of Ownership</em>.
-    <<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>>
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en05">
-   <p class="_list-item">
-    <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
-    <<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>>
-    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en06">
-   <p class="_list-item">
-    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
-    <<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>>
-    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en07">
-   <p class="_list-item">
-    <em>No Bonuses or Salaries</em>
-    <<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>>
-    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en08">
-   <p class="_list-item">
-    <em>Giving RADs</em>
-    <<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>>
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ul>
-
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
