@@ -237,7 +237,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <tr>
      <th>The PRI Fund</th>
      <td>
-      <p>You may not need one, otherwise, fund it with a <span class="_paradigm">RADICAL</span> Invesment.</p>
+      <p>You may not need one, but if you do, fund it with a <span class="_paradigm">RADICAL</span> Invesment.</p>
      </td>
     </tr>
     <tr>
