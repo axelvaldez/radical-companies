@@ -66,8 +66,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 
 <h1>Hiring</h1>
  <p>You are not going to do any hiring, you are finding co-owners. You should repeat this, out loud, many times. Like a mantra.</p>
- <p>Since you are not hiring, you are not going to interview people. One way to not fall down the interview habit hole is to tell the person you are talking to that 1) you are looking for co-owners, 2) this is not an interview, and to 3) please, let me know when this starts to feel like one.</p>
- <p>What you are going to do is to explain that PRI fund to the co-owners who join you. Then you are goint to do a Trust Agreement with the first one.</p>
+ <p>Since you are not hiring, you are not going to interview people. One way to not fall down the interview habit hole is to tell the person you are talking to that 1) you are looking for co-owners, not employees, 2) this is not an interview, and to 3) please, let me know when this starts to feel like one.</p>
+ <p>What you are going to do next is to explain what PRI fund is and how it works.</p>
 
 <h1>The PRI Fund</h1>
  <p>This is what PRI does,</p>
