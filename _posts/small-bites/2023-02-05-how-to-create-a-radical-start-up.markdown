@@ -222,9 +222,6 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
      </td>
     </tr>
    </table>
-  </div>
-  <div class="_center">
-   <table class="_background">
     <tr>
      <th>Borrowing Capital</th>
      <td>
@@ -232,30 +229,18 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
       <p>Likely, you will need for the PRI fund. If that is the case, make it a <span class="_paradigm">RADICAL</span> investment.</p>
      </td>
     </tr>
-   </table>
-  </div>
-  <div class="_center">
-   <table class="_background">
     <tr>
      <th>Hiring</th>
      <td>
       <p>You will not do any hiring. You are out looking for co-owners.</p>
      </td>
     </tr>
-   </table>
-  </div>
-  <div class="_center">
-   <table class="_background">
     <tr>
      <th>The PRI Fund</th>
      <td>
-      <p>You may not need one, but if you this a way to do it.</p>
+      <p>You may not need one, otherwise, fund it with a <span class="_paradigm">RADICAL</span> Invesment.</p>
      </td>
     </tr>
-   </table>
-  </div>
-  <div class="_center">
-   <table class="_background">
     <tr>
      <th>Tools</th>
      <td>
@@ -264,7 +249,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
         <li>Trust Agreement and Expressed Alignment can help establish a foundation for healthy relationships.</li>
         <li>
          <p>The <em><span class="_paradigm">RAD</span>s!</em> mobile app makes easier for everybody to recognize contributions, important to maintain relationships.</p>
-         <p>It also makes it easier to start difficult conversations. This will require different skills than what we have learned throughout our lives in a FIAT system. Sometimes it will end up being a misunderstanding, sometimes behavior will have to change, and other times it will end up in a collaboration to do things differently. We are still trying to figure that one out.</li>
+         <p>It also makes it easier to start difficult conversations. This will require different skills than what we have learned throughout our lives in a FIAT system. Sometimes it will end up being a misunderstanding, sometimes behavior will have to change, and other times it will end up in a collaboration to do things differently. We are still trying to figure that one out.
+        </li>
        </ul>
      </td>
     </tr>
