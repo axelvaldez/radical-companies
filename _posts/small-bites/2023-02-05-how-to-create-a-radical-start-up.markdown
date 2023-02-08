@@ -212,7 +212,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>One more thing: for subsequent co-owner candidates, any co-owner can go through the <em>Trust Agreement</em> with them.</p>
 
 <h1>In Summary&hellip;</h1>
- <p>To create a RADICAL startup, do whatever works for you. We are not preaching a dogma, only a way to do it more easily.</p>
+ <p>To create a RADICAL startup, do whatever works for you. We are not preaching a dogma, only a way to do it more easily and with a definite intention to get away from the <span class="_paradigm">FIAT</span> way of doing thigs..</p>
   <div class="_center">
    <table class="_background">
     <tr>
