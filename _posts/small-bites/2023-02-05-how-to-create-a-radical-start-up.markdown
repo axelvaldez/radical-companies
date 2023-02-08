@@ -221,7 +221,6 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
       <p>Start by agreeing to an explicit foundation, a root. The Foundation we offered here is simple and easy to remember. As the company grows, the Foundation will help you figure out if, for example, it is more or less Transparent or Decentralized. If you need to add other elements on top, do it.</p>
      </td>
     </tr>
-   </table>
     <tr>
      <th>Borrowing Capital</th>
      <td>
@@ -249,7 +248,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
         <li>Trust Agreement and Expressed Alignment can help establish a foundation for healthy relationships.</li>
         <li>
          <p>The <em><span class="_paradigm">RAD</span>s!</em> mobile app makes easier for everybody to recognize contributions, important to maintain relationships.</p>
-         <p>It also makes it easier to start difficult conversations. This will require different skills than what we have learned throughout our lives in a FIAT system. Sometimes it will end up being a misunderstanding, sometimes behavior will have to change, and other times it will end up in a collaboration to do things differently. We are still trying to figure that one out.
+         <p>It also makes it easier to start difficult conversations. This will require different skills than what we have learned throughout our lives in a FIAT system. Sometimes it will end up being a misunderstanding, sometimes behavior will have to change, and other times it will end up in a collaboration to do things differently. We are still trying to figure that one out.</p>
         </li>
        </ul>
      </td>
