@@ -127,7 +127,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   </ul>
 
 <h1>Trust Agreement</h1>
- <p>Do a Trust Agreement with the first co-owner in the team. This is a guide to an exploration among would-be co-owners to make sure that they are or can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Trust Agreement. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
+ <p>Do a Trust Agreement with the first co-owner in the team. This is a guide to an exploration among would-be co-owners to make sure that they can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Trust Agreement. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
  <div class="_center">
   <table class="_background">
    <tr>
