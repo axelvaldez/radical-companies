@@ -247,8 +247,9 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
        <ul>
         <li>Trust Agreement and Expressed Alignment can help establish a foundation for healthy relationships.</li>
         <li>
-         <p>The <em><span class="_paradigm">RAD</span>s!</em> mobile app makes easier for everybody to recognize contributions, important to maintain relationships.</p>
-         <p>It also makes it easier to start difficult conversations. This will require different skills than what we have learned throughout our lives in a FIAT system. Sometimes it will end up being a misunderstanding, sometimes behavior will have to change, and other times it will end up in a collaboration to do things differently. We are still trying to figure that one out.</p>
+         The <em><span class="_paradigm">RAD</span>s!</em> mobile app makes easier for everybody to recognize contributions, important to maintain relationships.
+         <br>
+         It also makes it easier to start difficult conversations. This will require different skills than what we have learned throughout our lives in a FIAT system. Sometimes it will end up being a misunderstanding, sometimes behavior will have to change, and other times it will end up in a collaboration to do things differently. We are still trying to figure that one out.
         </li>
        </ul>
      </td>
