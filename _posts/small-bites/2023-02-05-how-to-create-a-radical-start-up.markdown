@@ -54,7 +54,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <p>Meaning & Belonging: if you identify people who are really interested in this, don&rsquo;t let them go. And if they have skills that will help create your idea, hold on to them. If on top of that you want them in your team, you are very lucky!</p>
    </li>
    <li>
-    <p>Experiment: Try variations on how you present this particular part of your approach. If they work, remember and reuse them.</p>
+    <p>Experiment: Try variations on how you present co-ownership and co-management. IfRemember and reuse the stories that work.</p>
    </li>
   </ul>
 
