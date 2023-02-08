@@ -210,8 +210,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <li><b>Transparency</b> and <b>Collaboration</b>,</li>
    <li><b>Alignment</b> and <b>Foundation</b>.</li>
   </ul>
- <p>We have spend many more that three hours on these. Doing it will get you a deep trust with other co-owners that <span class="_paradigm">FIAT</span> businesses don&rsquo;t ever get near.</p>
- <p>Finally, for subsequent co-owner candidates, other co-owners can go through the <em>Trust Agreement</em> with them. Remember, you are not the boss.</p>
+ <p>We have spend many more that three hours on these, and it has been very worth it. Doing it will get you a deep trust with other co-owners that <span class="_paradigm">FIAT</span> businesses don&rsquo;t ever get near.</p>
+ <p>Finally, for subsequent co-owner candidates, any co-owners can go through the <em>Trust Agreement</em> with them.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
