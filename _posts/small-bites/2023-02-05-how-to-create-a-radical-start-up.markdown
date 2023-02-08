@@ -7,14 +7,14 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 ---
 
 <div style="display:none;">
- <p>You have a great idea which is neutral or good for the Earth-as-life-support. On the other hand, you don&rsquo;t have capital and your friends are busy with their own jobs.</p>
+ <p>You have a great idea which is neutral or good for Earth-as-life-support. On the other hand, you don&rsquo;t have capital and your friends are busy with their own jobs.</p>
 </div>
 
 <h1>Good News, Bad News</h1>
  <p>On the positive side,</p>
   <ul>
    <li>You have a great idea</li>
-   <li>The idea is neutral or good for the Earth-as-life-support.</li>
+   <li>The idea is neutral or good for Earth-as-life-support.</li>
   </ul>
  <p>On the other hand,</p>
   <ul>
