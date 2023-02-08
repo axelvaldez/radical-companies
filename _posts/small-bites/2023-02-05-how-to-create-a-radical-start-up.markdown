@@ -71,7 +71,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>What you are going to do is to explain that PRI fund to the co-owners who join you. Then you are goint to do a Trust Agreement with the first one.</p>
 
 <h1>The PRI Fund</h1>
- <li>This is what PRI does,</li>
+ <p>This is what PRI does,</p>
   <ul>
    <li>Until revenue starts to come in, the PRI Fund pays co-owners.</li>
    <li>Well, actually, it is not the revenue, but the earned dividends that pays the PRI fund. Earned dividens is what is left of the review after paying off all expenses, etc.</li>
