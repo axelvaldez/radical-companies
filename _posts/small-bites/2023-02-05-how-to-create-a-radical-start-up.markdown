@@ -79,7 +79,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <li>Eventually, the earned dividends a co-owner gets starts to pay off co-owner&rsquo;s debt to the PRI fund. How much of it goes into paying PRT fund depenps on what you, the co-owners, have agreed to.</li>
    <li>Finally, after the debt is all paid up, co-owners take earned dividends home, in addition to their home pay.</li>
   </ul>
- <p>This is how Take Home is determined,</p>
+ <p>This is how <span class="_quotespan">take home</span> is determined,</p>
   <ul>
    <li>Each co-owner declares what she needs to take home.</li>
    <li>If this figure is would, say, dry the PRI fund too quickly, co-owners have to decide what to do.</li>
