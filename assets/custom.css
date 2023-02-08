@@ -279,11 +279,7 @@ table tr {
 table._background tr:nth-child(odd)  {
   background-color:#EEEEEE;
 }
-table._background tr ul {
-  margin-bottom:0;
-}
-ul li p:last-of-type {
-  padding-bottom:0;
+table._background tr ul, ul li p:last-of-type {
   margin-bottom:0;
 }
 ._list-item {
