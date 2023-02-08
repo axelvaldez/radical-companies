@@ -202,14 +202,67 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    </tr>
   </table>
  </div>
- <p>Our recomendation is that you allot one hour each to</p>
+ <p>Our recomendation is that you allot one hour each to,</p>
   <ul>
    <li><b>Mindset</b> and <b>About&hellip;</b></li>
    <li><b>Transparency</b> and <b>Collaboration</b>,</li>
    <li><b>Alignment</b> and <b>Foundation</b>.</li>
   </ul>
- <p>We have spend many more that three hours on these, and it has been very worth it. Doing it will get you a deep trust with other co-owners that <span class="_paradigm">FIAT</span> businesses don&rsquo;t ever get near.</p>
- <p>Finally, for subsequent co-owner candidates, any co-owner can go through the <em>Trust Agreement</em> with them.</p>
+ <p>We have spend many more that three hours on these, and it has been very worth it. Doing it will get you a deep trust with other co-owners that <span class="_paradigm">FIAT</span> businesses don&rsquo;t ever get near. This practice creates a foundation for the relationship is so important to our success.</p>
+ <p>One more thing: for subsequent co-owner candidates, any co-owner can go through the <em>Trust Agreement</em> with them.</p>
+
+<h1>In Summary&hellip;</h1>
+ <p>To create a RADICAL startup, do whatever works for you. We are not preaching a dogma, only a way to od more easily.</p>
+  <div class="_center">
+   <table class="_background">
+    <tr>
+     <th>Foundation</th>
+     <td>
+      <p>Start by agreeing to an explicit foundation, a root. The Foundation we offered here is simple and easy to remember. As the company grows, the Foundation will help you figure out if, for example, it is more or less Transparent or Decentralized. If you need to add other elements on top, do it.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>Borrowing Capital</th>
+     <td>
+      <p>Borrowin capital is an option, but do not trade capital for &ldquo;control&rdquo; or any such <span class="_paradigm">FIAT</span> concept. And don't fool yourself with what you hope to do &ldquo;later.&rdquo;</p>
+      <p>Likely, you will need for the PRI fund. If that is the case, make it a <span class="_paradigm">RADICAL</span> investment.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>Hiring</th>
+     </td>
+      <p>You will not do any hiring. You are out looking for co-owners.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>The PRI Fund</th>
+     </td>
+      <p>You may not need one, but if you this a way to do it.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>Tools</th>
+     </td>
+      <p>You have tools to do this,</p>
+       <ul>
+        <li>Trust Agreement and Expressed Alignment can help establish a foundation for healthy relationships.</li>
+        <li>
+         <p>The <em><span class="_paradigm">RAD</span>s!</em> mobile app makes easier for everybody to recognize contributions, important to maintain relationships.</p>
+         <p>It also makes it easier to start difficult conversations. This will require different skills than what we have learned throughout our lives in a FIAT system. Sometimes it will end up being a misunderstanding, sometimes behavior will have to change, and other times it will end up in a collaboration to do things differently. We are still trying to figure that one out.</li>
+       </ul>
+     </td>
+    </tr>
+    <tr>
+     <th></th>
+     </td>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p>
+     </td>
+    </tr>
+   </table>
+  </div>
 
 <h1 class="_section">RELATED</h1>
  <ul>
