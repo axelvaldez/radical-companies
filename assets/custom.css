@@ -282,8 +282,9 @@ table._background tr:nth-child(odd)  {
 table._background tr ul {
   margin-bottom:0;
 }
-ul li p {
+ul li p:last-of-type {
   padding-bottom:0;
+  margin-bottom:0;
 }
 ._list-item {
   margin-bottom:0;
