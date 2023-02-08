@@ -86,7 +86,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <li>In the happy path, the declared figure is agreed to.</li>
   </ul>
  <p>This is the important, and probably most contentious, thing: a withdrawal from the PRI fund is <em>a personal debt</em> that a co-owner is responsible for. Other policies are plausible, but this seems to be the most basic and fair. Co-owners are not exchanging their time for just a salary as is the case in <span class="_paradigm">FIAT</span> land. The people who draw from the PRI fund are the co-owners and each is responsible for what they borrow from the fund.</p>
- <p>As co-owners, you may decide put limits on time (<span calls="_quotespan">We have agreed to do this for six months&hellip;</span>) or amount (<span calls="_quotespan">We have agreed to do this for as long as the $500,000 in the PRI fund lasts</span>).</p>
+ <p>As co-owners, you may decide put limits on time (<span class="_quotespan">We have agreed to do this for six months&hellip;</span>) or amount (<span class="_quotespan">We have agreed to do this for as long as the $500,000 in the PRI fund lasts</span>).</p>
  <p>Alternatively, co-owners may decide to take on the debt as a group. Or&hellip; The point is that it is up to you, the co-owners.</p>
 
 <h1>The <em><span class="_paradigm">RAD</span>s!</em> Mobile App</h1>
