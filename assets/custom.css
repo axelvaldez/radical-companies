@@ -355,6 +355,11 @@ table._background tr ul, ul li p:last-of-type {
 ._r {
   font-family:'Courier New', Courier, monospace;
 }
+._alignquestions {
+  font-size:smaller;
+  font-family:helvetica, sans-serif;
+  font-weight:normal;
+}
 ._title {
   margin-top:1em;
   font-family:Courier New, monospace;
@@ -383,9 +388,4 @@ table._background tr ul, ul li p:last-of-type {
 }
 ._foundation td {
   font-size:small;
-}
-._alignquestions {
-  font-size:smaller;
-  font-family:helvetica, sans-serif;
-  font-weight:normal;
 }
