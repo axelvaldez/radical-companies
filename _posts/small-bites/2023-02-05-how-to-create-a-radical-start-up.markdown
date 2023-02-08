@@ -71,10 +71,23 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>What you are going to do is to explain that PRI fund to the co-owners who join you. Then you are goint to do a Trust Agreement with the first one.</p>
 
 <h1>The PRI Fund</h1>
- <p>Until revenue starts to come in, the PRI Fund pays co-owners.</p>
- <p>Each co-owner declares what she needs to take home. If this figure is too high and, say, it dry the PRI fund too quickly, other co-owners will want to discuss it. In the happy path, the declared figure is agreed to.</p>
- <p>No matter, this is the importnat thing: each withdrawal from the PRI fund is <em>a personal debt</em> that each co-owner is responsible for. At some point you all may decide on a different policy, but at the very start this seems to be it. Co-owners are not selling their time for a salary as is the case in <span class="_paradigm">FIAT</span> land so. There is no <span class="_paradigm">FIAT</span> onwer, the people who draw from the PRI fund are the co-owners and responsible for what they borrow.</p>
- <p>As co-owners, you may decide put limits on time or amount, they may also decide to take on the debt themselves, but that&rsquo;s up to you. Later, as revenue starts to come in, the PRI is repaid and, say, the borrowed capital that went into it may be paid off along with its upside. Once the PRI fund is paid off all earned dividents&mdash;what is left after paying off expenses, etc.&mdash;go to the co-owners.</p>
+ <li>This is what PRI does,</li>
+  <ul>
+   <li>Until revenue starts to come in, the PRI Fund pays co-owners.</li>
+   <li>Well, actually, it is not the revenue, but the earned dividends that pays the PRI fund. Earned dividens is what is left of the review after paying off all expenses, etc.</li>
+   <li>Even after earned dividends start to materialize, the PRI Fund may supplement a co-onwers&rsquo;s take home.</li>
+   <li>Eventually, the earned dividends a co-owner gets starts to pay off co-owner&rsquo;s debt to the PRI fund. How much of it goes into paying PRT fund depenps on what you, the co-owners, have agreed to.</li>
+   <li>Finally, after the debt is all paid up, co-owners take earned dividends home, in addition to their home pay.</li>
+  </ul>
+ <p>This is how Take Home is determined,</p>
+  <ul>
+   <li>Each co-owner declares what she needs to take home.</li>
+   <li>If this figure is would, say, dry the PRI fund too quickly, co-owners have to decide what to do.</li>
+   <li>In the happy path, the declared figure is agreed to.</li>
+  </ul>
+ <p>This is the important, and probably most contentious, thing: a withdrawal from the PRI fund is <em>a personal debt</em> that a co-owner is responsible for. Other policies are plausible, but this seems to be the most basic and fair. Co-owners are not exchanging their time for just a salary as is the case in <span class="_paradigm">FIAT</span> land. The people who draw from the PRI fund are the co-owners and each is responsible for what they borrow from the fund.</p>
+ <p>As co-owners, you may decide put limits on time (<span calls="_quotespan">We have agreed to do this for six months&hellip;</span>) or amount (<span calls="_quotespan">We have agreed to do this for as long as the $500,000 in the PRI fund lasts</span>).</p>
+ <p>Alternatively, co-owners may decide to take on the debt as a group. Or&hellip; The point is that it is up to you, the co-owners.</p>
 
 <h1>The <em><span class="_paradigm">RAD</span>s!</em> Mobile App</h1>
  <p>Co-owners use the <em><span class="_paradigm">RAD</span>s!</em> mobile app to recognize other co-owners&rsquo; contributions. The <em><span class="_paradigm">RAD</span>s!</em> app also converts these contributions into <span class="_paradigm">RAD</span>s at the end of the cycle (<em>e.g.</em>, monthly).</p>
@@ -150,7 +163,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
       <li>What are you biggest joys?</li>
       <li>What are you biggest fears?</li>
       <li>Do you speak up? How?</li>
-      <li>Do you need to be given persmission to speak? <span class="_quotespan">You didn&rsquo;t asked me!</span></li>
+      <li>Do you need to be given persmission to speak? <span class="_quotespan">You didn&rsquo;t ask me!</span></li>
       <li>Anything else?</li>
      </ul>
     </td>
