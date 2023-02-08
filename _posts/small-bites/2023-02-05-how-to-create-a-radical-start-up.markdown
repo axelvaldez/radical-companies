@@ -121,7 +121,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  </div>
  <p>These not cast in stone, but have different rates of change,</p>
   <ul>
-   <li>The <b>Mission</b> will change as often as necessary. If there is more than one team, each team has its own mission, but it must align with the <b>Impact</b> and <b>Purpose</b> of the whole company.</li>
+   <li>The <b>Mission</b> will change as often as necessary. If there is more than one team, each team may have its own mission, but it must align with the <b>Impact</b> and <b>Purpose</b> of the whole company.</li>
    <li>The <b>Purpose</b> will change less often, but it could change as new co-onwers join.</li>
    <li>The <b>Impact</b> should not change at all, at least not without a deep discussion. This may happen, but it is a major thing, equivalent to creating a new company.</li>
   </ul>
