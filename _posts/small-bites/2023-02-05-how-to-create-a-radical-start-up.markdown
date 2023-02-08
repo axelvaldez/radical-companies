@@ -51,8 +51,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <p>Decentralization: With all the talk about <em>teal</em> and the like, people will likely welcome decentralizing decision making, co-management; they may even be enthusiastic about it. On the other hand, when you talk about co-ownership you may get a neutral stare or curiosity, but be ready for disgust or ever-so-polite ridicule. They are not attacking you as much as they are trying to push away the thought you just put in their head. Co-onwership is a paradigm shift and most people are repelled by it.</p>
    </li>
    <li>
-   </li>
     <p>Meaning & Belonging: if you identify people who are really interested in this, don&rsquo;t let them go. And if they have skills that will help create your idea, hold on to them. If on top of that you want them in your team, you are very lucky!</p>
+   </li>
    <li>
     <p>Experiment: Try variations on how you present this particular part of your approach. If they work, remember and reuse them.</p>
    </li>
