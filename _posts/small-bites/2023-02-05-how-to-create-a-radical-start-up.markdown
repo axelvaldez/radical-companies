@@ -211,7 +211,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <li><b>Alignment</b> and <b>Foundation</b>.</li>
   </ul>
  <p>We have spend many more that three hours on these, and it has been very worth it. Doing it will get you a deep trust with other co-owners that <span class="_paradigm">FIAT</span> businesses don&rsquo;t ever get near.</p>
- <p>Finally, for subsequent co-owner candidates, any co-owner can go through the <em>Trust Agreement</em> with them. You may be the first, but not the first among equals.</p>
+ <p>Finally, for subsequent co-owner candidates, any co-owner can go through the <em>Trust Agreement</em> with them.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
