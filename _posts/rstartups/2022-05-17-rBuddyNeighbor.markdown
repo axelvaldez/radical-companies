@@ -401,8 +401,7 @@ image:    "icon-buddyneighbor.svg"
   </tr>
   <tr>
    <th></th>
-   <td>Phone.
-   </td>
+   <td>Phone.</td>
    <td>
     <ul>
       <li>Text</li>
