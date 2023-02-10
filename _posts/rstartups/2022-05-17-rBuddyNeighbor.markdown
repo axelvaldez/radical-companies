@@ -309,7 +309,7 @@ image:    "icon-buddyneighbor.svg"
   </table>
  <p>The buddy goes about her shopping, including the requested goods. She pays for her stuff and separately for the neighbor&rsquo;s goods.</p>
  <p>Once the buddy is on her way, she lets the Neighbor know via the app.</p>
- <table>
+ <table class="_background">
   <tr>
    <th>On My Way</th>
    <td>Tell the Neighbor what to expect.</td>
@@ -341,7 +341,7 @@ image:    "icon-buddyneighbor.svg"
    <td class="_spacer" ></td>
   </tr>
  </table>
- <table>
+ <table class="_background">
   <tr>
    <th>Done?</th>
    <td>Did you get there OK?</td>
@@ -387,7 +387,7 @@ image:    "icon-buddyneighbor.svg"
   </tr>
  </table>
  <h2>Neighbor Gets It</h2>
- <table>
+ <table class="_background">
   <tr>
    <th>Sign Up</th>
    <td>Bring back goods for a neighbor on your way back from an outlet? (?)</td>
@@ -451,7 +451,7 @@ image:    "icon-buddyneighbor.svg"
   </tr>
  </table>
  <p>If the buddy says yes to <em>considering</em> the request,</p>
- <table>
+ <table class="_background">
   <tr>
    <th>More Info</th>
    <td></td>
@@ -479,29 +479,21 @@ image:    "icon-buddyneighbor.svg"
     </ul>
    </td>
   </tr>
- </table>
- <table>
   <tr>
    <th></th>
    <td>If getting there <span class="_quotespan">after the requested time,</span> we ask the Neighbor and the Buddy sees his response.</td>
    <td></td>
   </tr>
- </table>
- <table>
   <tr>
    <th></th>
    <td>If Buddy <span class="_quotespan">can&rsquo;t deliver now,</span> we tell the Neighbor, and &hellip;</td>
    <td></td>
   </tr>
- </table>
- <table>
   <tr>
    <th></th>
    <td>Otherwise, we tell the Neighbor that the goods are on their way. And give him an update on the ETA (considering traffic, etc).</td>
    <td></td>
   </tr>
- </table>
- <table>
   <tr>
    <td>Done?</td>
    <td>Did you get there OK?</td>
@@ -578,7 +570,7 @@ image:    "icon-buddyneighbor.svg"
   </tr>
  </table>
  <h2>FAQ</h2>
-  <table>
+ <table class="_background">
    <tr>
     <th>QQ1:<br>How do we make money?</th>
     <td>
