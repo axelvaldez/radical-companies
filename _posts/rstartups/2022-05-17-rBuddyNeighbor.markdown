@@ -463,8 +463,6 @@ image:    "icon-buddyneighbor.svg"
    <td></td>
    <td></td>
   </tr>
- </table>
- <table>
   <tr>
    <th></th>
    <td>Commit?</td>
@@ -475,15 +473,13 @@ image:    "icon-buddyneighbor.svg"
     </ul>
    </td>
   </tr>
- </table>
- <table>
   <tr>
    <th>On My Way</th>
    <td>Tell the Neighbor when to expect arrival.</td>
    <td>
     <ul>
      <li>On my way, see you soon.</li>
-     <li>Will be a bit late.
+     <li>Will be a bit late.</li>
      <li>Will be there after requested time.</li>
      <li>Got the goods but can&rsquo;t deliver now, sorry.</li>
     </ul>
