@@ -43,7 +43,7 @@ image:    "icon-buddyneighbor.svg"
  <ul>
   <li>People must become members of <span class="_paradigm">rBuddyNeighbors</span> to participate.</li>
   <li>They pay for membership (see below) and are the system&rsquo;s only customers.</li>
-  </li>Members co-own the service.<li>
+  </li>Members co-own the service.</li>
  </ul>
 
 <h1>Scenarios</h1>
