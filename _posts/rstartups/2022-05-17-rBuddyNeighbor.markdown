@@ -320,13 +320,14 @@ image:    "icon-buddyneighbor.svg"
      <li>Got the goods but can't deliver now, sorry.</li>
     </ul>
    </td>
+  </tr>
   <tr>
    <th></th>
    <td>If getting there <span class="_quotespan">after the requested time,</span> we ask the neighbor and the buddy sees his response.</td>
    <td></td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>If buddy <span class="_quotespan">can't deliver now,</span> we tell the neighbor, and &hellip;</td>
    <td></td>
   </tr>
