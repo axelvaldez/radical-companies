@@ -389,7 +389,7 @@ image:    "icon-buddyneighbor.svg"
  <h2>Neighbor Gets It</h2>
  <table>
   <tr>
-   <td>Sign Up</td>
+   <th>Sign Up</th>
    <td>Bring back goods for a neighbor on your way back from an outlet? (?)</td>
    <td>
     <ul>
