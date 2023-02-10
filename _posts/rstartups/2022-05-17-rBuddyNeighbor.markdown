@@ -10,6 +10,7 @@ image:    "icon-buddyneighbor.svg"
  <p>Politics is local, it starts at the grassroots. BuddyNeighbor build communities of neighbors that can talk and act together.</p>
 </div>
 
+
 <h1>Origin Story</h1>
  <p>On Mon Oct 1, 2018, my good friend Jose Contreras sent me a text out of the blue, as friends tend to do.</p>
  <p>I was curious right away and the <span class="_quotespan">community-neighborhood</span> mention got my attention. We chatted more and brainstormed about it and what came out of it.</p>
@@ -399,39 +400,34 @@ image:    "icon-buddyneighbor.svg"
    </td>
   </tr>
   <tr>
-   <td>
-   </td>
+   <th></th>
    <td>Phone.
    </td>
    <td>
-<ul>
-
-<li>Text</li>
-<li>Voice
-
-<li>Video
-</li>
-</ul>
+    <ul>
+      <li>Text</li>
+      <li>Voice</li>
+      <li>Video</li>
+    </ul>
    </td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>Email.</td>
    <td></td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>Address. (?)</td>
    <td></td>
   </tr>
   <tr>
-   <td></td>
-   <td>Account for Payments. (?)
-   </td>
+   <th></th>
+   <td>Account for Payments. (?)</td>
    <td></td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>Account to Pay for Goods.
    </td>
    <td></td>
@@ -440,20 +436,17 @@ image:    "icon-buddyneighbor.svg"
  <p>The buddy hears a ping or senses a vibration and opens the app. If there's only one request waiting for this buddy,</p>
  <table>
   <tr>
-   <td>Create Request</td>
-   <td>Requests good(s).
-   </td>
-   <td>
-   </td>
+   <th>Create Request</th>
+   <td>Requests good(s).</td>
+   <td></td>
   </tr>
   <tr>
-   <td>
-   </td>
+   <th></th>
    <td><span class="_quotespan">We will let you know as soon as somebody responds. Keep your phone nearby.</span></td>
    <td></td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td><span class="_quotespan">It looks like one of your neighbors may be at an outlet that has your request(s)</span> <strong>(?)</strong></td>
    <td></td>
   </tr>
@@ -461,12 +454,12 @@ image:    "icon-buddyneighbor.svg"
  <p>If the buddy says yes to <em>considering</em> the request,</p>
  <table>
   <tr>
-   <td>More Info</td>
+   <th>More Info</th>
    <td></td>
    <td></td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>Commit?</td>
    <td>
     <ul>
@@ -478,7 +471,7 @@ image:    "icon-buddyneighbor.svg"
  </table>
  <table>
   <tr>
-   <td>On My Way</td>
+   <th>On My Way</th>
    <td>Tell the Neighbor when to expect arrival.</td>
    <td>
     <ul>
@@ -490,17 +483,17 @@ image:    "icon-buddyneighbor.svg"
    </td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>If getting there <span class="_quotespan">after the requested time,</span> we ask the Neighbor and the Buddy sees his response.</td>
    <td></td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>If Buddy <span class="_quotespan">can't deliver now,</span> we tell the Neighbor, and &hellip;</td>
    <td></td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>Otherwise, we tell the Neighbor that the goods are on their way. And give him an update on the ETA (considering traffic, etc).</td>
    <td></td>
   </tr>
@@ -517,7 +510,7 @@ image:    "icon-buddyneighbor.svg"
    </td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>Did Jose accept the goods?</td>
    <td>
     <ul>
@@ -528,7 +521,7 @@ image:    "icon-buddyneighbor.svg"
    </td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>How do you think he felt?</td>
    <td>
     <ul>
@@ -539,7 +532,7 @@ image:    "icon-buddyneighbor.svg"
    </td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>Write a Review.</td>
    <td>
     <ul>
