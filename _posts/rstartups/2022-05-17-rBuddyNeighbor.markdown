@@ -15,7 +15,7 @@ image:    "icon-buddyneighbor.svg"
  <p>I was curious right away and the <span class="_quotespan">community-neighborhood</span> mention got my attention. We chatted more and brainstormed about it and what came out of it.</p>
 
 <h1>Expressed Alignment</h1>
- <table>
+ <table class="_alignquestions">
   <tr>
    <th>Impact<br><span class="_alignquestions">What for?</span></th>
    <td>
