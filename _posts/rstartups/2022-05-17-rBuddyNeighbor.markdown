@@ -130,7 +130,10 @@ image:    "icon-buddyneighbor.svg"
  <p>This could be <span class="_quotespan">gamed&rdquo; if the Neighbor-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A &ldquo;delivery</span> person would not make the kind of connection we are aiming for between neighbors.</p>
 
 <h1>Together IRL</h1>
- <p>The town of Kamikatsu, Japan, recycles 81% of its waste. Watch <a href="https://dms.licdn.com/playback/C5605AQFKkYRm_FjR1Q/4ac33b7eb67a454ebde08b9487493111/feedshare-mp4_3300-captions-thumbnails/1507940147251-drlcss?e=1548968400&v=beta&t=7ijeg8e9YGKpOenrZ9P5aqeEDKLdp8x-Pa5jih8SYt0">the video</a> and <a href="https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7">read more</a> about it. The collection center is another place for neighbors to have a positive meeting in real life. This is the kind of thing that a neighborhood can easily organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
+ <p>The town of Kamikatsu, Japan, recycles 81% of its waste. Watch the video<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> and read more<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> about it. The collection center is another place for neighbors to have a positive meeting in real life. This is the kind of thing that a neighborhood can easily organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
+
+https://dms.licdn.com/playback/C5605AQFKkYRm_FjR1Q/4ac33b7eb67a454ebde08b9487493111/feedshare-mp4_3300-captions-thumbnails/1507940147251-drlcss?e=1548968400&v=beta&t=7ijeg8e9YGKpOenrZ9P5aqeEDKLdp8x-Pa5jih8SYt0
+https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
 
 <h1>Food</h1>
  <p>Some people love to cook. Others, like myself, just eat. I can appreciate when I like a dish, but that&rsquo;s it. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good;&rdquo; sometimes I&rsquo;ll even say, &ldquo;it&rsquo;s really good.</span></p>
