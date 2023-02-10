@@ -15,7 +15,7 @@ image:    "icon-cookie-wisdom.svg"
   <img
    src="/assets/img/pic-cookie-wisdom.svg"
    width="70%"
-   alt="">
+   alt="Chinese cookie that says, 'Engage in group activities that further transformation.'">
  </div>
  <!-- <p style="font-size:100px; ">&#128406;</p> -->
 
