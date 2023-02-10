@@ -602,59 +602,6 @@ image:    "icon-buddyneighbor.svg"
    </tr>
   </table>
 
-<h1>Alignment</h1>
- <table class="_background">
-  <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Impact</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What for?</td>
-   <td>
-    <ul>
-     <li>TBD</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Purpose</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">Why?</td>
-   <td>
-    <ul>
-     <li>TBD</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Mission</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What?</td>
-   <td>
-    <ul>
-     <li>TBD</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">When?</td>
-   <td>
-    <ul>
-     <li>TBD</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">How?</td>
-   <td>
-    <ul>
-     <li>TBD</li>
-    </ul>
-   </td>
-  </tr>
- </table>
-
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
