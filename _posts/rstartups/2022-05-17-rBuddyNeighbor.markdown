@@ -642,7 +642,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
     <p>Or <span class="_quotespan">mom of three, the whole family is home with her.</span></p>
     <p>This is kind of creep factor that Buddies needs to know before she can safely accept a goods request.</p>
     <p>We need to verify this info. Otherwise, we need to let the Buddy know that <span class="_quotespan">this is what the Neighbor says</span> and let her decide.</p>
-    <p>The Neighbor may say he's alone, but we can hear a party going on in the background, or some strange, creepy noises.</p>
+    <p>The Neighbor may say he&rsquo;s alone, but we can hear a party going on in the background, or some strange, creepy noises.</p>
     <p>We feed this back to the Neighbor but he claims <span class="_quotespan">it&rsquo;s just YouTube, sorry.</span> But we can tell the difference and, again, feed that back to the Neighbor.</p>
     <p>We communicate all this to the Buddy and she can make an informed decision. It may be that when she finds out the Neighbor&rsquo;s name and address, she figures that that is the very party she was going to. Or she may decline the goods request right then and there.</p>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
@@ -651,7 +651,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
   <li id="en02">
    <p class="_list-item">
     <p>Or when she turns on the car.</p>
-    <p>And how would we know this? Listening on her phone's mic? Kind of creepy?</p>
+    <p>And how would we know this? Listening on her phone&rsquo;s mic? Kind of creepy?</p>
     <p>What if she went with a boyfriend and they are talking about the great sex they are going to have when they get home?</p>
     <p>It could be like Waze, with a handy (handier than Waze) screen to signal <span class="_quotespan">On my way.<spam></p>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
