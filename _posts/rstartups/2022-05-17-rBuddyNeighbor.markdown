@@ -15,7 +15,7 @@ image:    "icon-buddyneighbor.svg"
  <p>I was curious right away and the <span class="_quotespan">community-neighborhood</span> mention got my attention. We chatted more and brainstormed about it and what came out of it.</p>
 
 <h1>Expressed Alignment</h1>
- <table>
+ <table class="_background">
   <tr>
    <th>Impact<br><span class="_alignquestions">What for?</span></th>
    <td>
@@ -174,7 +174,7 @@ image:    "icon-buddyneighbor.svg"
  <p>Do we alert the nearby Neighbors for potential intervention?</p>
 
 <h1>Terminology</h1>
- <table>
+ <table class="_background">
   <tr>
    <th>Buddy</th>
    <td>Members who accept a goods request and commit to deliver it. A buddy is also a neighbor.</td>
@@ -209,7 +209,7 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Interaction Interface</h1>
  <h2>Buddy Brings It</h2>
-  <table>
+  <table class="_background">
    <tr>
     <th>Sign Up</th>
     <td>Bring back goods for a neighbor on your way back from an outlet? <strong>(?)</strong></td>
@@ -253,7 +253,7 @@ image:    "icon-buddyneighbor.svg"
   </tr>
  </table>
  <p>The buddy hears a ping or feels a vibration and opens the app. If there&rsquo;s only one request waiting for this Buddy,</p>
-  <table>
+  <table class="_background">
    <tr>
     <th rowspan="2" >Receive Request</th>
     <td>Sees good(s) requested.</td>
@@ -275,14 +275,12 @@ image:    "icon-buddyneighbor.svg"
   </tr>
  </table>
  <p>If the Buddy says yes to <em>considering</em> the request,</p>
-  <table>
+  <table class="_background">
    <tr>
     <th>More Info</th>
     <td>Neighbor&rsquo;s picture and other <span class="_quotespan">vitals</span></td>
     <td></td>
    </tr>
-  </table>
-  <table>
    <tr>
     <th></th>
     <td>More?</td>
@@ -293,15 +291,11 @@ image:    "icon-buddyneighbor.svg"
      </ul>
     </td>
    </tr>
-  </table>
-  <table>
    <tr>
     <th></th>
     <td>If yes, more info <strong>(?)</strong></td>
     <td></td>
    </tr>
-  </table>
-  <table>
    <tr>
     <th></th>
     <td>Commit?</td>
@@ -617,8 +611,7 @@ image:    "icon-buddyneighbor.svg"
   </table>
 
 <h1>Alignment</h1>
- <table>
- <tbody style="font-size:smaller; vertical-align:top; ">
+ <table class="_background">
   <tr>
    <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Impact</td>
   </tr>
@@ -668,8 +661,7 @@ image:    "icon-buddyneighbor.svg"
     </ul>
    </td>
   </tr>
- </tbody>
- <table>
+ </table>
 
 <h1 class="_section">RELATED</h1>
  <ul>
