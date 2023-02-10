@@ -311,7 +311,7 @@ image:    "icon-buddyneighbor.svg"
  <p>Once the buddy is on her way, she lets the Neighbor know via the app.</p>
  <table>
   <tr>
-   <td>On My Way</td>
+   <th>On My Way</th>
    <td>Tell the Neighbor what to expect.</td>
    <td>
     <ul>
