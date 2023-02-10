@@ -49,28 +49,28 @@ image:    "icon-buddyneighbor.svg"
  <h2>Happy Path</h2>
   <ul>
    <li>The buddy goes to Safeway at 11 pm.</li>
-   <li>A few minutes before, a neighbor put in a request for a, <span class="_quotespan">A gallon of 2% milk, Organic Valley preferred, by midnight. Otherwise, bring me a half gallon of whatever they have. If it's going to take you more than one hour, ignore this, please (I need to go to sleep—got early meetings tomorrow).</span></li>
+   <li>A few minutes before, a neighbor put in a request for a, <span class="_quotespan">A gallon of 2% milk, Organic Valley preferred, by midnight. Otherwise, bring me a half gallon of whatever they have. If it&rsquo;s going to take you more than one hour, ignore this, please (I need to go to sleep—got early meetings tomorrow).</span></li>
    <li>When the buddy gets to Safeway, the system alerts her of this request. <span class="_quotespan">This will take you an extra five to ten minutes and approximate five blocks out of your route.</span></li>
    <li>The buddy  reviews the request and gets to see the neighbors&rsquo; <span class="_quotespan">vitals&rdquo; (<em>e.g.</em>, &ldquo;single male, currently alone, thinks stabbing dolls is LOL</span> or &ldquo;mom of three, the whole family is home with her "). This is a kind of creep factor that this buddy needs to know before she can safely accept a request.</li>
    <li>The buddy  accepts the request.</li>
    <li>The system summarizes, <span class="_quotespan">You are promising to deliver one gallon of Organic Valley 2% milk to Jose at&hellip;</span></li>
-   <li>So far, the neighbor doesn't know anything.</li>
-   <li>Once she accepts the request, the system will let the neighbor know that, <span class="_quotespan">Your request for Organic Valley 2% milk has been accepted. We'll charge $2.70 to your account. Do you still want it?</span></li>
+   <li>So far, the neighbor doesn&rsquo;t know anything.</li>
+   <li>Once she accepts the request, the system will let the neighbor know that, <span class="_quotespan">Your request for Organic Valley 2% milk has been accepted. We&rsquo;ll charge $2.70 to your account. Do you still want it?</span></li>
    <li>Jose, the neighbor, accepts.</li>
-   <li>The buddy gets her stuff, including Jose's milk, stands in line, and pays for the goods.</li>
+   <li>The buddy gets her stuff, including Jose&rsquo;s milk, stands in line, and pays for the goods.</li>
    <li>As the buddy leaves Safeway, the system alerts the neighbor that, <span class="_quotespan">Your 2% Organic Valley milk is on its way and will get to you in about 10 minutes.</span></li>
    <li>As the buddy gets close to the neighbor&rsquo;s home, rBuddyNeighbor alerts the neighbor that, <span class="_quotespan">Your buddy, her name and avatar, is about to get to your home with your Organic Valley 2% milk.</span></li>
    <li>The buddy parks, but her boyfriend walks to Jose&rsquo;s front door.</li>
-   <li>The neighbor communicates with Margot through the app, <span class="_quotespan">Hey, there's a guy at my door, is he with you?</span></li>
-   <li>Margot realizes his concern and says, <span class="_quotespan">Oh, yes, I'll come up, too. Sorry about that.</span></li>
+   <li>The neighbor communicates with Margot through the app, <span class="_quotespan">Hey, there&rsquo;s a guy at my door, is he with you?</span></li>
+   <li>Margot realizes his concern and says, <span class="_quotespan">Oh, yes, I&rsquo;ll come up, too. Sorry about that.</span></li>
    <li>She comes up and Jose opens the door and they talk. Margot points to their place down the street, Jose tells them about getting the kids fed in the morning, Margot tells him about a neighborhood event scheduled for the weekend, they talk about the Farmer Markets in the area, &hellip;</li>
    <li>Jose lets us know accepts the delivery and maybe adds a note to it, <span class="_quotespan">Got the milk and got to meet a very nice buddy named Margot. I got to meet her boyfriend, too. They make a nice couple.</span></li>
 </ul>
 <h2>Not-so-Happy Path</h2>
  <ul>
   <li>The buddy never shows up and Jose tells us that he is closing his request because, <span class="_quotespan">the buddy never got here.</span></li>
-  <li>Then we'll tell the neighbor something like, <span class="_quotespan">Sorry. We won't be charging anything to your account. We are donating RADs to the banner to build a neighborhood gym. In any case, if you&rsquo;d like, we can let you know what Margot has to say about breaking her promise. Please, let us know if you're interested.</span></li>
-  <li>We'll ask the buddy, <span class="_quotespan">What happened, you broke your promise to Jose!</span></li>
+  <li>Then we&rsquo;ll tell the neighbor something like, <span class="_quotespan">Sorry. We won&rsquo;t be charging anything to your account. We are donating RADs to the banner to build a neighborhood gym. In any case, if you&rsquo;d like, we can let you know what Margot has to say about breaking her promise. Please, let us know if you&rsquo;re interested.</span></li>
+  <li>We&rsquo;ll ask the buddy, <span class="_quotespan">What happened, you broke your promise to Jose!</span></li>
   <li>Her response might be, <span class="_quotespan">I had to go straight home right away because my neighbor found my dog in her backyard. I was all flustered and forgot to let Jose know. Later, I was just embarrassed.&rdquo; Or she could say, &ldquo;I realized halfway there that it was too risky to show up there, even with my boyfriend. He was more freaked out than I was.</span></li>
  </ul>
  <p>Either way, the buddy and the neighbor get to note their level of satisfaction with rBuddyNeighbors.com.</p>
@@ -88,7 +88,7 @@ image:    "icon-buddyneighbor.svg"
 <h1>Interventions</h1>
  <p>Groups of <strong>rBuddyNeighbors</strong> can organize to deal with emergency situations nearby, from drug usage interventions to potential suicides.</p>
  <p>They can register their group with <strong>rBuddyNeighbor</strong> as a community resource.</p>
- <p>They'd be alerted when the system detects a pattern that fits their target.</p>
+ <p>They&rsquo;d be alerted when the system detects a pattern that fits their target.</p>
 
 <h1>Reuniting Friends and Family</h1>
  <p>&ldquo;Looking for John Martinez. Graduated in 1972 from Schurz HS in Chicago. Last time we were in touch he still lived in Chicago."</p>
@@ -116,34 +116,34 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Mom-and-Pops (1/26/2019)</h1>
  <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a neighbor or as a regular customer. Or the requestor lives within their back route and they can easily deliver it on the way home. This would fit within the model. (?)</p>
- <p>The neighbor-owner cannot charge or add a surcharge for the delivery itself. Tips are not allowed. So, she's simply being a Buddy to a Neighbor.</p>
+ <p>The neighbor-owner cannot charge or add a surcharge for the delivery itself. Tips are not allowed. So, she&rsquo;s simply being a Buddy to a Neighbor.</p>
  <p>This could be <span class="_quotespan">gamed&rdquo; if the Neighbor-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A &ldquo;delivery boy</span> would not make the kind of connection we are aiming for between neighbors.</p>
 
 <h1>Together IRL</h1>
  <p>The town of Kamikatsu, Japan, recycles 81% of its waste. Watch <a href="https://dms.licdn.com/playback/C5605AQFKkYRm_FjR1Q/4ac33b7eb67a454ebde08b9487493111/feedshare-mp4_3300-captions-thumbnails/1507940147251-drlcss?e=1548968400&v=beta&t=7ijeg8e9YGKpOenrZ9P5aqeEDKLdp8x-Pa5jih8SYt0">the video</a> and <a href="https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7">read more</a> about it. The collection center is another place for neighbors to have a positive meeting in real life. This is the kind of thing that a neighborhood can easily organize through <strong>rBuddyNeighbor</strong>.</p>
 
 <h1>Food</h1>
- <p>Some people love to cook. Others, like myself, just eat. I can appreciate when I like a dish, but that's it. If anybody asks, I'll say, <span class="_quotespan">it's good;&rdquo; sometimes I'll even say, &ldquo;it's really good.</span></p>
- <p>Even the people who like to cook, sometimes feel like not cooking. It's a harking for a special dish, you don't want to cook. But you still have to eat.</p>
- <p>So, here's another potential <strong>rBuddyNeighbor</strong> adjunct,</p>
+ <p>Some people love to cook. Others, like myself, just eat. I can appreciate when I like a dish, but that&rsquo;s it. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good;&rdquo; sometimes I&rsquo;ll even say, &ldquo;it&rsquo;s really good.</span></p>
+ <p>Even the people who like to cook, sometimes feel like not cooking. It&rsquo;s a harking for a special dish, you don&rsquo;t want to cook. But you still have to eat.</p>
+ <p>So, here&rsquo;s another potential <strong>rBuddyNeighbor</strong> adjunct,</p>
  <h2>Scenario 1</h2>
   <ul>
-   <li>You'd like to eat anything.</li>
+   <li>You&rsquo;d like to eat anything.</li>
    <li><span class="_quotespan">What do you have?</span></li>
   </ul>
  <h2>Scenario 2</h2>
   <ul>
-   <li>You'd like to eat a dish that your aunt made.</li>
-   <li>You don't have the recipe, but you can reach out to your aunt.</li>
+   <li>You&rsquo;d like to eat a dish that your aunt made.</li>
+   <li>You don&rsquo;t have the recipe, but you can reach out to your aunt.</li>
    <li>You connect your aunt with the <strong>rBuddyNeighbor</strong> cook on a video call.</li>
-   <li>They figure out how to reproduce the dish. They may have to figure out alternative ingredients to use if your aunt's can't be found locally.</li>
-   <li><span class="_quotespan">There's a <strong>rBuddyNeighbor</strong> at Trader Joe's who can get me the missing ingredients in a half hour. I can have it ready for you a half hour after that.</span></li>
+   <li>They figure out how to reproduce the dish. They may have to figure out alternative ingredients to use if your aunt&rsquo;s can&rsquo;t be found locally.</li>
+   <li><span class="_quotespan">There&rsquo;s a <strong>rBuddyNeighbor</strong> at Trader Joe&rsquo;s who can get me the missing ingredients in a half hour. I can have it ready for you a half hour after that.</span></li>
   </ul>
  <h2>Scenario 3</h2>
   <ul>
-   <li><span class="_quotespan">Can I get my aunt's dish? For three this time. It turned out really good and I want my friends to taste it.</span></li>
+   <li><span class="_quotespan">Can I get my aunt&rsquo;s dish? For three this time. It turned out really good and I want my friends to taste it.</span></li>
   </ul>
- <p>You can pick up the food yourself (it's nearby), or you can have it delivered by a buddy.</p>
+ <p>You can pick up the food yourself (it&rsquo;s nearby), or you can have it delivered by a buddy.</p>
  <p>The emphasis is in the cooking; the delivery is handled by the fact that the cooking is done nearby, in the <strong>rBuddyNeighbor</strong> sense.</p>
 
 <h1>Commuting</h1>
@@ -160,16 +160,16 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Group Invitations (Community Organizing)</h1>
  <p>The scenario is like this, I hear that there&rsquo;s going to be a demonstration outside the office of a local politician. The organizers went to <strong>rBuddyNeighbor</strong> and <span class="_quotespan">announced</span> their multi-location event. I ask for the details and the system sends my request to the organizer(s). They contact me with the details and I make arrangements to go.</p>
- <p>The system may recommend two or three people that you've interacted with before who are also going to the demonstration.</p>
+ <p>The system may recommend two or three people that you&rsquo;ve interacted with before who are also going to the demonstration.</p>
 
 <h1>Deplorables</h1>
  <p>Group Invitations opens the door to Nazi rallies, or white supremacist groups. Tread carefully.</p>
 
 <h1>Them Deviants</h1>
  <p>You just know that people will try to use this for prostitution, distribution of illegal drugs, and other less desirable activities.</p>
- <p>Regardless of everything else, this would go against our impact, our purpose, and corrupt our mission. So, we'd probably have to do something about it, but &hellip; TBD.</p>
- <p>Scanning requests will not work after a short while, and people will go crypto on us (<em>e.g.</em>, <span class="_quotespan">Looking for a one-night-stand. I'll pay $300&rdquo; will become <span class="_quotespan">Looking for my friend, Mike. I want to return his $300.</span> Maybe we can spot patterns (<em>e.g.</em>, the same person always responds to the &ldquo;Mike</span> requests).</p>
- <p>When we detect any of this, we can kick out John and Mike (and return their membership fees). But would we also alert law enforcement? We would not have to because we are looking for and finding behavior that goes against the platform's terms of use. Whether that is also illegal or not, it is not necessarily for us to judge.</p>
+ <p>Regardless of everything else, this would go against our impact, our purpose, and corrupt our mission. So, we&rsquo;d probably have to do something about it, but &hellip; TBD.</p>
+ <p>Scanning requests will not work after a short while, and people will go crypto on us (<em>e.g.</em>, <span class="_quotespan">Looking for a one-night-stand. I&rsquo;ll pay $300&rdquo; will become <span class="_quotespan">Looking for my friend, Mike. I want to return his $300.</span> Maybe we can spot patterns (<em>e.g.</em>, the same person always responds to the &ldquo;Mike</span> requests).</p>
+ <p>When we detect any of this, we can kick out John and Mike (and return their membership fees). But would we also alert law enforcement? We would not have to because we are looking for and finding behavior that goes against the platform&rsquo;s terms of use. Whether that is also illegal or not, it is not necessarily for us to judge.</p>
  <p>What about the case where a kid gets illegal drugs this way and overdoses?</p>
  <p>Do we alert the nearby Neighbors for potential intervention?</p>
 
@@ -252,7 +252,7 @@ image:    "icon-buddyneighbor.svg"
    <td></td>
   </tr>
  </table>
- <p>The buddy hears a ping or feels a vibration and opens the app. If there's only one request waiting for this Buddy,</p>
+ <p>The buddy hears a ping or feels a vibration and opens the app. If there&rsquo;s only one request waiting for this Buddy,</p>
   <table>
    <tr>
     <th rowspan="2" >Receive Request</th>
@@ -278,7 +278,7 @@ image:    "icon-buddyneighbor.svg"
   <table>
    <tr>
     <th>More Info</th>
-    <td>Neighbor's picture and other <span class="_quotespan">vitals</span></td>
+    <td>Neighbor&rsquo;s picture and other <span class="_quotespan">vitals</span></td>
     <td></td>
    </tr>
    <tr>
@@ -319,7 +319,7 @@ image:    "icon-buddyneighbor.svg"
      <li>On my way, see you soon.</li>
      <li>Will be a bit late.</li>
      <li>Will be there after requested time.</li>
-     <li>Got the goods but can't deliver now, sorry.</li>
+     <li>Got the goods but can&rsquo;t deliver now, sorry.</li>
     </ul>
    </td>
   </tr>
@@ -330,7 +330,7 @@ image:    "icon-buddyneighbor.svg"
   </tr>
   <tr>
    <th></th>
-   <td>If buddy <span class="_quotespan">can't deliver now,</span> we tell the neighbor, and &hellip;</td>
+   <td>If buddy <span class="_quotespan">can&rsquo;t deliver now,</span> we tell the neighbor, and &hellip;</td>
    <td></td>
   </tr>
   <tr>
@@ -433,7 +433,7 @@ image:    "icon-buddyneighbor.svg"
    <td></td>
   </tr>
  </table>
- <p>The buddy hears a ping or senses a vibration and opens the app. If there's only one request waiting for this buddy,</p>
+ <p>The buddy hears a ping or senses a vibration and opens the app. If there&rsquo;s only one request waiting for this buddy,</p>
  <table>
   <tr>
    <th>Create Request</th>
@@ -478,7 +478,7 @@ image:    "icon-buddyneighbor.svg"
      <li>On my way, see you soon.</li>
      <li>Will be a bit late.
      <li>Will be there after requested time.</li>
-     <li>Got the goods but can't deliver now, sorry.</li>
+     <li>Got the goods but can&rsquo;t deliver now, sorry.</li>
     </ul>
    </td>
   </tr>
@@ -489,7 +489,7 @@ image:    "icon-buddyneighbor.svg"
   </tr>
   <tr>
    <th></th>
-   <td>If Buddy <span class="_quotespan">can't deliver now,</span> we tell the Neighbor, and &hellip;</td>
+   <td>If Buddy <span class="_quotespan">can&rsquo;t deliver now,</span> we tell the Neighbor, and &hellip;</td>
    <td></td>
   </tr>
   <tr>
@@ -546,11 +546,11 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Revenue</h1>
  <ul>
-  <li><strong>rBuddyNeighbors</strong> pay a membership fee to become rBuddyNeighbors.com members. That's (mostly) it. This will be a very small fee and the top-line growth for rBuddyNeighbors.com is based on that. Our financial success is based on volume with lots (and lots) of people signing up.</li>
-  <li>We will also pay and collect for the goods, but there won't be any markup.</li>
+  <li><strong>rBuddyNeighbors</strong> pay a membership fee to become rBuddyNeighbors.com members. That&rsquo;s (mostly) it. This will be a very small fee and the top-line growth for rBuddyNeighbors.com is based on that. Our financial success is based on volume with lots (and lots) of people signing up.</li>
+  <li>We will also pay and collect for the goods, but there won&rsquo;t be any markup.</li>
   <li>Buddies may get rewards for their service. The trick is not to let these <span class="_quotespan">rewards</span> become the goal for members. The goal is for Neighbors to get to know other Neighbors. For example, they may get valuable reward for their community.</li>
   <li><strong>rBuddyNeighbors</strong> are our only paying customers. They and their neighborhoods must be the primary beneficiaries. I believe that our democracy will be the ultimate beneficiary.</li>
-  <li><strong>rBuddyNeighbor</strong>'s purpose is to make it easy to have Neighbors meet each other in real life, being serviciable to one another, bonding over a good deed done, a good deed received.</li>
+  <li><strong>rBuddyNeighbor</strong>&rsquo;s purpose is to make it easy to have Neighbors meet each other in real life, being serviciable to one another, bonding over a good deed done, a good deed received.</li>
   <li><strong>rBuddyNeighbor</strong> does not depend on goods outlets or any other revenue. Members are customers. Clear and simple.</li>
   <li>Outlets can contribute to local funds and projects on behalf of <strong>rBuddyNeighbors</strong>. Not, <span class="_quotespan">Check out your Tuesday discounts&rdquo; but &ldquo;come Tuesday and get your <strong>rBuddyNeighbors</strong> and we&rsquo;ll contribute X% of all sales to &hellip;</span></li>
  </ul>
