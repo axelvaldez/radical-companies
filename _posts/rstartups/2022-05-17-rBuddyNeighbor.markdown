@@ -212,6 +212,7 @@ image:    "icon-buddyneighbor.svg"
    <tr>
     <th>Sign Up</th>
     <td>Bring back goods for a neighbor on your way back from an outlet? <strong>(?)</strong></td>
+    <td>
      <ul>
       <li>Yes</li>
       <li>No</li>
