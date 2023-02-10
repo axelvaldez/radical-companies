@@ -76,7 +76,7 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Payment</h1>
  <ul>
-  <li>All <strong>rBuddyNeighbors</strong> are subscribers and when members sign up, they include the details of how to pay and get paid.</li>
+  <li>All <span class="_paradigm">rBuddyNeighbors</span> are subscribers and when members sign up, they include the details of how to pay and get paid.</li>
   <li>The neighbor transfer method is debited to pay for the milk.</li>
   <li>If the buddy had to pay, say, in cash for the milk, then that amount will be credited to her transfer account.</li>
  </ul>
@@ -85,7 +85,7 @@ image:    "icon-buddyneighbor.svg"
  <p>Community Services</p>
 
 <h1>Interventions</h1>
- <p>Groups of <strong>rBuddyNeighbors</strong> can organize to deal with emergency situations nearby, from drug usage interventions to potential suicides.</p>
+ <p>Groups of <span class="_paradigm">rBuddyNeighbors</span> can organize to deal with emergency situations nearby, from drug usage interventions to potential suicides.</p>
  <p>They can register their group with <strong>rBuddyNeighbor</strong> as a community resource.</p>
  <p>They&rsquo;d be alerted when the system detects a pattern that fits their target.</p>
 
@@ -146,7 +146,7 @@ image:    "icon-buddyneighbor.svg"
  <p>The emphasis is in the cooking; the delivery is handled by the fact that the cooking is done nearby, in the <strong>rBuddyNeighbor</strong> sense.</p>
 
 <h1>Commuting</h1>
- <p><a href="https://www.waze.com/carpool">Commuting</a> could be another thing that comes out of this. Either as a one time thing, or on a regular basis. <span class="_quotespan">I need to get to San Carlos tomorrow by 10 am.&rdquo; Or, &ldquo;I work in Mountain View, looking for a <strong>rBuddyNeighbor</strong> to commute with.</span> The response from the system could be three potential <strong>rBuddyNeighbors</strong>, or three regular commutes that have already been set up and are open to another rider.</p>
+ <p><a href="https://www.waze.com/carpool">Commuting</a> could be another thing that comes out of this. Either as a one time thing, or on a regular basis. <span class="_quotespan">I need to get to San Carlos tomorrow by 10 am.&rdquo; Or, &ldquo;I work in Mountain View, looking for a <strong>rBuddyNeighbor</strong> to commute with.</span> The response from the system could be three potential <span class="_paradigm">rBuddyNeighbors</span>, or three regular commutes that have already been set up and are open to another rider.</p>
  <p>It would be commuting with people who live nearby. People that you may even know. People you can have a lasting relationship with.</p>
 
 <h1>International</h1>
@@ -546,13 +546,13 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Revenue</h1>
  <ul>
-  <li><strong>rBuddyNeighbors</strong> pay a membership fee to become rBuddyNeighbors.com members. That&rsquo;s (mostly) it. This will be a very small fee and the top-line growth for rBuddyNeighbors.com is based on that. Our financial success is based on volume with lots (and lots) of people signing up.</li>
+  <li><span class="_paradigm">rBuddyNeighbors</span> pay a membership fee to become rBuddyNeighbors.com members. That&rsquo;s (mostly) it. This will be a very small fee and the top-line growth for rBuddyNeighbors.com is based on that. Our financial success is based on volume with lots (and lots) of people signing up.</li>
   <li>We will also pay and collect for the goods, but there won&rsquo;t be any markup.</li>
   <li>Buddies may get rewards for their service. The trick is not to let these <span class="_quotespan">rewards</span> become the goal for members. The goal is for Neighbors to get to know other Neighbors. For example, they may get valuable reward for their community.</li>
-  <li><strong>rBuddyNeighbors</strong> are our only paying customers. They and their neighborhoods must be the primary beneficiaries. I believe that our democracy will be the ultimate beneficiary.</li>
+  <li><span class="_paradigm">rBuddyNeighbors</span> are our only paying customers. They and their neighborhoods must be the primary beneficiaries. I believe that our democracy will be the ultimate beneficiary.</li>
   <li><strong>rBuddyNeighbor</strong>&rsquo;s purpose is to make it easy to have Neighbors meet each other in real life, being serviciable to one another, bonding over a good deed done, a good deed received.</li>
   <li><strong>rBuddyNeighbor</strong> does not depend on goods outlets or any other revenue. Members are customers. Clear and simple.</li>
-  <li>Outlets can contribute to local funds and projects on behalf of <strong>rBuddyNeighbors</strong>. Not, <span class="_quotespan">Check out your Tuesday discounts&rdquo; but &ldquo;come Tuesday and get your <strong>rBuddyNeighbors</strong> and we&rsquo;ll contribute X% of all sales to &hellip;</span></li>
+  <li>Outlets can contribute to local funds and projects on behalf of <span class="_paradigm">rBuddyNeighbors</span>. Not, <span class="_quotespan">Check out your Tuesday discounts&rdquo; but &ldquo;come Tuesday and get your <span class="_paradigm">rBuddyNeighbors</span> and we&rsquo;ll contribute X% of all sales to &hellip;</span></li>
  </ul>
 
 <h1>Jose Contrera&rsquo;s Vision</h1>
