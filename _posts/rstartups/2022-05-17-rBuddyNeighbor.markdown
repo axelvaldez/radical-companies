@@ -276,7 +276,7 @@ image:    "icon-buddyneighbor.svg"
  <p>If the Buddy says yes to <em>considering</em> the request,</p>
   <table>
    <tr>
-    <th>More<br>Info</th>
+    <th>More Info</th>
     <td>Neighbor's picture and other <span class="_quotespan">vitals</span></td>
     <td></td>
   </tr>
