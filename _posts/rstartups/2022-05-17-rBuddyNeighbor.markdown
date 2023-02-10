@@ -265,8 +265,8 @@ image:    "icon-buddyneighbor.svg"
   <div class="_center">
    <table class="_background">
     <tr>
-     <th rowspan="2" >Receive Request</th>
-     <td>
+     <th>Receive Request</th>
+     <td colspan="2">
       <ul>
        <li>Sees good(s) requested.</li>
        <li>Sees that approximate time and distance to deliver it.</li>
@@ -274,6 +274,7 @@ image:    "icon-buddyneighbor.svg"
      </td>
     </tr>
     <tr>
+     <td></td>
      <th>Consider?</th>
      <td>
       <ul>
