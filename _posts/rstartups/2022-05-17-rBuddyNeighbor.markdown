@@ -40,7 +40,7 @@ image:    "icon-buddyneighbor.svg"
 </table>
 
 <h1>Membership</h1>
- <p>People must become members of rBuddyNeighbors to participate. They pay for membership (see below) and are the system&rsquo;s only customers.</p>
+ <p>People must become members of <span class="_paradigm">rBuddyNeighbors</span> to participate. They pay for membership (see below) and are the system&rsquo;s only customers.</p>
  <p>Members co-own the service.</p>
 
 <h1>Scenarios</h1>
@@ -72,7 +72,7 @@ image:    "icon-buddyneighbor.svg"
   <li>We&rsquo;ll ask the buddy, <span class="_quotespan">What happened, you broke your promise to Jose!</span></li>
   <li>Her response might be, <span class="_quotespan">I had to go straight home right away because my neighbor found my dog in her backyard. I was all flustered and forgot to let Jose know. Later, I was just embarrassed.&rdquo; Or she could say, &ldquo;I realized halfway there that it was too risky to show up there, even with my boyfriend. He was more freaked out than I was.</span></li>
  </ul>
- <p>Either way, the buddy and the neighbor get to note their level of satisfaction with rBuddyNeighbors.com.</p>
+ <p>Either way, the buddy and the neighbor get to note their level of satisfaction with <span class="_paradigm">rBuddyNeighbors</span>.com.</p>
 
 <h1>Payment</h1>
  <ul>
@@ -555,7 +555,7 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Revenue</h1>
  <ul>
-  <li><span class="_paradigm">rBuddyNeighbors</span> pay a membership fee to become rBuddyNeighbors.com members. That&rsquo;s (mostly) it. This will be a very small fee and the top-line growth for rBuddyNeighbors.com is based on that. Our financial success is based on volume with lots (and lots) of people signing up.</li>
+  <li><span class="_paradigm">rBuddyNeighbors</span> pay a membership fee to become <span class="_paradigm">rBuddyNeighbors</span>.com members. That&rsquo;s (mostly) it. This will be a very small fee and the top-line growth for <span class="_paradigm">rBuddyNeighbors</span>.com is based on that. Our financial success is based on volume with lots (and lots) of people signing up.</li>
   <li>We will also pay and collect for the goods, but there won&rsquo;t be any markup.</li>
   <li>Buddies may get rewards for their service. The trick is not to let these <span class="_quotespan">rewards</span> become the goal for members. The goal is for Neighbors to get to know other Neighbors. For example, they may get valuable reward for their community.</li>
   <li><span class="_paradigm">rBuddyNeighbors</span> are our only paying customers. They and their neighborhoods must be the primary beneficiaries. I believe that our democracy will be the ultimate beneficiary.</li>
