@@ -583,38 +583,38 @@ image:    "icon-buddyneighbor.svg"
    <td>Ideally you can provide services to within a 30 minute delivery time window or locate someone within a specified geo range of 5, 10 or 15 miles . this can be determined by the need of the item and anything as random as an item from Costco</td>
   </tr>
  </table>
- xxx
- <table>
-  <tr>
-   <th>QQ1:<br>How do we make money?</th>
-   <td>
-    <ul>
-     <li>By enlisting the restaurants and stores as being part of the <span class="_quotespan">My Neighbor</span> network</li>
-     <li>Hosting the commerce and transactions on a secured platform and charging a small percentage of the transaction</li>
-     <li>Become acquired by Uber eats or Doordash or some competing entity</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>QQ2:<br>How does it impact the world?</th>
-   <td>Impact the world by being able to expedite the food ordering and delivery process by leveraging friends, family and neighbors who are already in flight to desired locations.</td>
-  </tr>
-  <tr>
-   <th>QQ3:<br>Exit Strategy?</th>
-   <td>The ultimate exit strategy is to create , operate and then sell a very creative and innovative technology food service company that has become disruptive to players like Uber and Doordash. Could be an attractive adjacent business for OpenTable or Nextdoor.</td>
-  </tr>
-  <tr>
-   <th>QQ4:<br>What do you have to accomplish to get there?</th>
-   <td>Create energy and buzz around the concept of social commerce and a better more neighborly way to shop while optimizing time.</td>
-   <td>
-    <ul>
-     <li>Create a following and enlist support from food and drink establishments</li>
-     <li>Be disruptive to the status quo</li>
-     <li>Create a better option to ride share service, put a familiar face on who you get into a car with or who you let into your car. </li>
-    </ul>
-   </td>
-  </tr>
- </table>
+ <h2>FAQ</h2>
+  <table>
+   <tr>
+    <th>QQ1:<br>How do we make money?</th>
+    <td>
+     <ul>
+      <li>By enlisting the restaurants and stores as being part of the <span class="_quotespan">My Neighbor</span> network</li>
+      <li>Hosting the commerce and transactions on a secured platform and charging a small percentage of the transaction</li>
+      <li>Become acquired by Uber eats or Doordash or some competing entity</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>QQ2:<br>How does it impact the world?</th>
+    <td>Impact the world by being able to expedite the food ordering and delivery process by leveraging friends, family and neighbors who are already in flight to desired locations.</td>
+   </tr>
+   <tr>
+    <th>QQ3:<br>Exit Strategy?</th>
+    <td>The ultimate exit strategy is to create , operate and then sell a very creative and innovative technology food service company that has become disruptive to players like Uber and Doordash. Could be an attractive adjacent business for OpenTable or Nextdoor.</td>
+   </tr>
+    <tr>
+    <th>QQ4:<br>What do you have to accomplish to get there?</th>
+    <td>Create energy and buzz around the concept of social commerce and a better more neighborly way to shop while optimizing time.</td>
+    <td>
+     <ul>
+      <li>Create a following and enlist support from food and drink establishments</li>
+      <li>Be disruptive to the status quo</li>
+      <li>Create a better option to ride share service, put a familiar face on who you get into a car with or who you let into your car. </li>
+     </ul>
+    </td>
+   </tr>
+  </table>
 
 <h1>Alignment</h1>
  <table>
