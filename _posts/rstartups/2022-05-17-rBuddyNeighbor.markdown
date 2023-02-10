@@ -154,7 +154,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
   </ul>
  <h2>Scenario 3</h2>
   <ul>
-   <li><span class="_quotespan">Can I get my aunt&rsquo;s dish? For three this time. It turned out really good and I want my friends to taste it.</span></li>
+   <li><span class="_quotespan">Can I get my aunt&rsquo;s dish? For three, this time. It turned out really good and I want my friends to taste it.</span></li>
   </ul>
  <p>You can pick up the food yourself (it&rsquo;s nearby), or you can have it delivered by a buddy.</p>
  <p>The emphasis is in the cooking; the delivery is handled by the fact that the cooking is done nearby, in the <span class="_paradigm">rBuddyNeighbors</span> sense.</p>
