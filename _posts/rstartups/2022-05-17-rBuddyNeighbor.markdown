@@ -61,14 +61,14 @@ image:    "icon-buddyneighbor.svg"
    <li>The buddy goes to Safeway at 11 pm.</li>
    <li>A few minutes before, a neighbor put in a request for a, <span class="_quotespan">A gallon of 2% milk, Organic Valley preferred, by midnight. Otherwise, bring me a half gallon of whatever they have. If it&rsquo;s going to take you more than one hour, ignore this, please (I need to go to sleep—got early meetings tomorrow).</span></li>
    <li>When the buddy gets to Safeway, the system alerts her of this request. <span class="_quotespan">This will take you an extra five to ten minutes and approximate five blocks out of your route.</span></li>
-   <li>The buddy  reviews the request and gets to see the neighbors&rsquo; <span class="_quotespan">vitals&rdquo; (<em>e.g.</em>, &ldquo;single male, currently alone, thinks stabbing dolls is LOL</span> or &ldquo;mom of three, the whole family is home with her "). This is a kind of creep factor that this buddy needs to know before she can safely accept a request.</li>
+   <li>The buddy  reviews the request and gets to see the neighbors&rsquo; <span class="_quotespan">vitals&rdquo; (<em>e.g.</em>, &ldquo;single male, currently alone, thinks stabbing dolls is LOL</span> or <span class="_quotespan">mom of three, the whole family is home with her</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>). This is a kind of creep factor that this buddy needs to know before she can safely accept a request.</li>
    <li>The buddy  accepts the request.</li>
    <li>The system summarizes, <span class="_quotespan">You are promising to deliver one gallon of Organic Valley 2% milk to Jose at&hellip;</span></li>
    <li>So far, the neighbor doesn&rsquo;t know anything.</li>
    <li>Once she accepts the request, the system will let the neighbor know that, <span class="_quotespan">Your request for Organic Valley 2% milk has been accepted. We&rsquo;ll charge $2.70 to your account. Do you still want it?</span></li>
    <li>Jose, the neighbor, accepts.</li>
    <li>The buddy gets her stuff, including Jose&rsquo;s milk, stands in line, and pays for the goods.</li>
-   <li>As the buddy leaves Safeway, the system alerts the neighbor that, <span class="_quotespan">Your 2% Organic Valley milk is on its way and will get to you in about 10 minutes.</span></li>
+   <li>As the buddy leaves Safeway,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> the system alerts the neighbor that, <span class="_quotespan">Your 2% Organic Valley milk is on its way and will get to you in about 10 minutes.</span></li>
    <li>As the buddy gets close to the neighbor&rsquo;s home, <span class="_paradigm">rBuddyNeighbors</span> alerts the neighbor that, <span class="_quotespan">Your buddy, her name and avatar, is about to get to your home with your Organic Valley 2% milk.</span></li>
    <li>The buddy parks, but her boyfriend walks to Jose&rsquo;s front door.</li>
    <li>The neighbor communicates with Margot through the app, <span class="_quotespan">Hey, there&rsquo;s a guy at my door, is he with you?</span></li>
@@ -125,7 +125,7 @@ image:    "icon-buddyneighbor.svg"
   </ul>
 
 <h1>Mom-and-Pops (1/26/2019)</h1>
- <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a neighbor or as a regular customer. Or the requestor lives within their back route and they can easily deliver it on the way home. This would fit within the model. (?)</p>
+ <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a neighbor or as a regular customer. Or the requestor lives within their back route and they can easily deliver it on the way home. This would fit within the model. (?)<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>The neighbor-owner cannot charge or add a surcharge for the delivery itself. Tips are not allowed. So, she&rsquo;s simply being a Buddy to a Neighbor.</p>
  <p>This could be <span class="_quotespan">gamed&rdquo; if the Neighbor-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A &ldquo;delivery boy</span> would not make the kind of connection we are aiming for between neighbors.</p>
 
@@ -226,7 +226,7 @@ image:    "icon-buddyneighbor.svg"
    <table class="_background">
     <tr>
      <th>Sign Up</th>
-     <td>Bring back goods for a neighbor on your way back from an outlet? <strong>(?)</strong></td>
+     <td>Bring back goods for a neighbor on your way back from an outlet? (<a href="#en04"><sup id="bm04">&hairsp;?&hairsp;</sup></a>)</td>
      <td>
       <ul>
        <li>Yes</li>
@@ -253,7 +253,7 @@ image:    "icon-buddyneighbor.svg"
    </tr>
    <tr>
     <th></th>
-    <td>Address. <strong>(?)</strong></td>
+    <td>Address. (<a href="#en05"><sup id="bm05">&hairsp;?&hairsp;</sup></a>)</td>
    </tr>
    <tr>
     <th></th>
@@ -296,7 +296,7 @@ image:    "icon-buddyneighbor.svg"
    <table class="_background">
     <tr>
     <th>More Info</th>
-    <td>Neighbor&rsquo;s picture and other <span class="_quotespan">vitals</span></td>
+    <td>Neighbor&rsquo;s picture and other <span class="_quotespan">vitals</span><a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></td>
     <td></td>
    </tr>
    <tr>
@@ -311,7 +311,7 @@ image:    "icon-buddyneighbor.svg"
    </tr>
    <tr>
     <th></th>
-    <td>If yes, more info <strong>(?)</strong></td>
+    <td>If yes, more info (<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a>)</td>
     <td></td>
    </tr>
    <tr>
@@ -320,7 +320,7 @@ image:    "icon-buddyneighbor.svg"
     <td>
      <ul>
       <li>Yes</li>
-      <li>No</li>
+      <li>No<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
      </ul>
     </td>
    </tr>
@@ -336,7 +336,7 @@ image:    "icon-buddyneighbor.svg"
     <td>
      <ul>
       <li>On my way, see you soon.</li>
-      <li>Will be a bit late.</li>
+      <li>Will be a bit late.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
       <li>Will be there after requested time.</li>
       <li>Got the goods but can&rsquo;t deliver now, sorry.</li>
      </ul>
@@ -344,12 +344,12 @@ image:    "icon-buddyneighbor.svg"
    </tr>
    <tr>
     <th></th>
-    <td>If getting there <span class="_quotespan">after the requested time,</span> we ask the neighbor and the buddy sees his response.</td>
+    <td>If getting there <span class="_quotespan">after the requested time,</span> we ask the Neighbor and the Buddy sees his response.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></td>
     <td></td>
    </tr>
    <tr>
     <th></th>
-    <td>If buddy <span class="_quotespan">can&rsquo;t deliver now,</span> we tell the neighbor, and &hellip;</td>
+    <td>If buddy <span class="_quotespan">can&rsquo;t deliver now,</span> we tell the neighbor, and &hellip; <a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></td>
     <td></td>
    </tr>
    <tr>
@@ -366,7 +366,7 @@ image:    "icon-buddyneighbor.svg"
     <td>
      <ul>
       <li>Yes</li>
-      <li>No</li>
+      <li>No<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
      </ul>
     </td>
    </tr>
@@ -376,8 +376,8 @@ image:    "icon-buddyneighbor.svg"
     <td>
      <ul>
       <li>Yes</li>
-      <li>No</li>
-      <li>Partially</li>
+      <li>No<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
+      <li>Partially<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
      </ul>
     </td>
    </tr>
@@ -388,7 +388,7 @@ image:    "icon-buddyneighbor.svg"
      <ul>
       <li>Happy!</li>
       <li>Meh&hellip;</li>
-      <li>Unhappy?</li>
+      <li>Unhappy?<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
      </ul>
     </td>
    </tr>
@@ -410,7 +410,7 @@ image:    "icon-buddyneighbor.svg"
    <table class="_background">
     <tr>
      <th>Sign Up</th>
-     <td>Bring back goods for a neighbor on your way back from an outlet? (?)</td>
+     <td>Bring back goods for a neighbor on your way back from an outlet? (<a href="#en06"><sup id="bm06">&hairsp;?&hairsp;</sup></a>)</td>
      <td>
      <ul>
       <li>Yes</li>
@@ -437,12 +437,12 @@ image:    "icon-buddyneighbor.svg"
    </tr>
    <tr>
     <th></th>
-    <td>Address. (?)</td>
+    <td>Address. (<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></td>
     <td></td>
    </tr>
    <tr>
     <th></th>
-    <td>Account for Payments. (?)</td>
+    <td>Account for Payments. (<a href="#en06"><sup id="bm06">&hairsp;?&hairsp;</sup></a>)</td>
     <td></td>
    </tr>
    <tr>
@@ -568,7 +568,7 @@ image:    "icon-buddyneighbor.svg"
  <ul>
   <li><span class="_paradigm">rBuddyNeighbors</span> pay a membership fee to become <span class="_paradigm">rBuddyNeighbors</span>.com members. That&rsquo;s (mostly) it. This will be a very small fee and the top-line growth for <span class="_paradigm">rBuddyNeighbors</span>.com is based on that. Our financial success is based on volume with lots (and lots) of people signing up.</li>
   <li>We will also pay and collect for the goods, but there won&rsquo;t be any markup.</li>
-  <li>Buddies may get rewards for their service. The trick is not to let these <span class="_quotespan">rewards</span> become the goal for members. The goal is for Neighbors to get to know other Neighbors. For example, they may get valuable reward for their community.</li>
+  <li>Buddies may get rewards for their service. The trick is not to let these <span class="_quotespan">rewards</span> become the goal for members. The goal is for Neighbors to get to know other Neighbors. For example, they may get valuable reward for their community.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></li>
   <li><span class="_paradigm">rBuddyNeighbors</span> are our only paying customers. They and their neighborhoods must be the primary beneficiaries. I believe that our democracy will be the ultimate beneficiary.</li>
   <li><span class="_paradigm">rBuddyNeighbors</span>&rsquo;s purpose is to make it easy to have Neighbors meet each other in real life, being serviciable to one another, bonding over a good deed done, a good deed received.</li>
   <li><span class="_paradigm">rBuddyNeighbors</span> does not depend on goods outlets or any other revenue. Members are customers. Clear and simple.</li>
@@ -630,6 +630,59 @@ image:    "icon-buddyneighbor.svg"
     </tr>
    </table>
   </div>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    <p>For example, this could be <span class="_quotespan">single male, currently alone, thinks stabbing dolls is LOLZ.<span></p>
+    <p>Or <span class="_quotespan">mom of three, the whole family is home with her.</span></p>
+    <p>This is kind of creep factor that Buddies needs to know before she can safely accept a goods request.</p>
+    <p>We need to verify this info. Otherwise, we need to let the Buddy know that <span class="_quotespan">this is what the Neighbor says</span> and let her decide.</p>
+    <p>The Neighbor may say he's alone, but we can hear a party going on in the background, or some strange, creepy noises.</p>
+    <p>We feed this back to the Neighbor but he claims <span class="_quotespan">it&rsquo;s just YouTube, sorry.</span> But we can tell the difference and, again, feed that back to the Neighbor.</p>
+    <p>We communicate all this to the Buddy and she can make an informed decision. It may be that when she finds out the Neighbor's name and address, she figures that that is the very party she was going to. Or she may decline the goods request right then and there.</p>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    <p>Or when she turns on the car.</p>
+    <p>And how would we know this? Listening on her phone's mic? Kind of creepy?</p>
+    <p>What if she went with a boyfriend and they are talking about the great sex they are going to have when they get home?</p>
+    <p>It could be like Waze, with a handy (handier than Waze) screen to signal <span class="_quotespan">On my way.<spam></p>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    <p>Local Commerce and small business owner opportunities&hellip; create a presence with people that are near the areas you serve: dry cleaners/ restaurants, maybe even mobile food trucks?</p>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item">
+    <p>It remains at all times, even when you accept a goods request.</p>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en05">
+   <p class="_list-item">
+    <p>The same way that Lyft shows you the drivers who are nearby, we should be able to figure out who&rsquo;s nearby an outlet that has the goods the the Neighbor requested</p>
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en06">
+   <p class="_list-item">
+    <p>Or money donated to a charity of her choice?</p>
+    <p>Or goods discount? (this is that goods outlets would "pay" in exchange to being part of the network).</p>
+    <p>Or points that they can use anywhere (a Nearsoft client, Points, does exactly this).</p>
+    <p>Or a fund to improve their local school?</p>
+    <p>Or&hellip; all of the above?</p>
+    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
 
 <h1 class="_section">RELATED</h1>
  <ul>
