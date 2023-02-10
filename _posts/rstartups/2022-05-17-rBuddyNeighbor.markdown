@@ -277,7 +277,7 @@ image:    "icon-buddyneighbor.svg"
   <table>
    <tr>
     <td>More<br>Info</td>
-    <td>Neighbor's picture and other <span class="_quotespan">vitals</span>
+    <td>Neighbor's picture and other <span class="_quotespan">vitals</span></td>
     <td></td>
   </tr>
   <tr>
