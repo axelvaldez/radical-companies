@@ -463,6 +463,8 @@ image:    "icon-buddyneighbor.svg"
    <td></td>
    <td></td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th></th>
    <td>Commit?</td>
@@ -487,16 +489,22 @@ image:    "icon-buddyneighbor.svg"
     </ul>
    </td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th></th>
    <td>If getting there <span class="_quotespan">after the requested time,</span> we ask the Neighbor and the Buddy sees his response.</td>
    <td></td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th></th>
    <td>If Buddy <span class="_quotespan">can&rsquo;t deliver now,</span> we tell the Neighbor, and &hellip;</td>
    <td></td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th></th>
    <td>Otherwise, we tell the Neighbor that the goods are on their way. And give him an update on the ETA (considering traffic, etc).</td>
