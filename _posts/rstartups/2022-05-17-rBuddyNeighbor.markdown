@@ -15,29 +15,31 @@ image:    "icon-buddyneighbor.svg"
  <p>I was curious right away and the <span class="_quotespan">community-neighborhood</span> mention got my attention. We chatted more and brainstormed about it and what came out of it.</p>
 
 <h1>Expressed Alignment</h1>
- <table class="_background">
-  <tr>
-   <th>Impact<br><span class="_alignquestions">What for?</span></th>
-   <td>
-    <ul>
-     <li>Help create communities ready for action.</li>
-    </ul> 
-   </td>
-  </tr>
-  <tr>
-   <th>Purpose<br><span class="_alignquestions">Why?</span></th>
-   <td>
-    <ul>
-     <li>Know thy neighbor: people get the sense of belonging they crave.</li>
-     <li>To build the foundation for community action.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>Mission<br><span class="_alignquestions">What?<br>When?<br>How?</span></th>
-   <td></td>
-  </tr>
-</table>
+ <div class="_center">
+  <table class="_background">
+   <tr>
+    <th>Impact<br><span class="_alignquestions">What for?</span></th>
+    <td>
+     <ul>
+      <li>Help create communities ready for action.</li>
+     </ul> 
+    </td>
+   </tr>
+   <tr>
+    <th>Purpose<br><span class="_alignquestions">Why?</span></th>
+    <td>
+     <ul>
+      <li>Know thy neighbor: people get the sense of belonging they crave.</li>
+      <li>To build the foundation for community action.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Mission<br><span class="_alignquestions">What?<br>When?<br>How?</span></th>
+    <td></td>
+   </tr>
+  </table>
+ </div>
 
 <h1>Membership</h1>
  <ul>
@@ -177,36 +179,38 @@ image:    "icon-buddyneighbor.svg"
  <p>Do we alert the nearby Neighbors for potential intervention?</p>
 
 <h1>Terminology</h1>
- <table class="_background">
-  <tr>
-   <th>Buddy</th>
-   <td>Members who accept a goods request and commit to deliver it. A buddy is also a neighbor.</td>
-  </tr>
-  <tr>
-   <th>Neighbor</th>
-   <td>Members who 1) lives along the way, between the store and the buddy home, and 2) asked for the goods.</td>
-  </tr>
-  <tr>
-   <th>Near</th>
-   <td>Normally, <span class="_quotespan">near</span> means people along the route (see above).</td>
-  </tr>
-  <tr>
-   <th>Pickups</th>
-   <td>
-    <p>Under some circumstances, the neighbor specifies a pickup location. If a buddy is bringing me something from Spain, I&rsquo;ll go pick it up at the nearby town that I can drive to.</p>
-    <p>It makes sense to let members define what <span class="_quotespan">near&rdquo; and &ldquo;detour</span> mean. There could be a,</p>
-     <ul>
-      <li>Default setting (<em>e.g.</em>, <span class="_quotespan">three blocks,&rdquo; <span class="_quotespan">one minute,</span> &ldquo;within three blocks from my place</span>).</li>
-      <li>A pickup setting (<em>e.g.</em>, <span class="_quotespan">anywhere in the Bay Area</span>).</li>
-      <li>A per-request setting.</li>
-     </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>Route</th>
-   <td>From the outlet back to the buddy&rsquo;s next destination (<em>e.g.</em>, home). It could include short detours if the buddy agrees.</td>
-  </tr>
- </table>
+ <div class="_center">
+  <table class="_background">
+   <tr>
+    <th>Buddy</th>
+    <td>Members who accept a goods request and commit to deliver it. A buddy is also a neighbor.</td>
+   </tr>
+   <tr>
+    <th>Neighbor</th>
+    <td>Members who 1) lives along the way, between the store and the buddy home, and 2) asked for the goods.</td>
+   </tr>
+   <tr>
+    <th>Near</th>
+    <td>Normally, <span class="_quotespan">near</span> means people along the route (see above).</td>
+   </tr>
+   <tr>
+    <th>Pickups</th>
+    <td>
+     <p>Under some circumstances, the neighbor specifies a pickup location. If a buddy is bringing me something from Spain, I&rsquo;ll go pick it up at the nearby town that I can drive to.</p>
+     <p>It makes sense to let members define what <span class="_quotespan">near&rdquo; and &ldquo;detour</span> mean. There could be a,</p>
+      <ul>
+       <li>Default setting (<em>e.g.</em>, <span class="_quotespan">three blocks,&rdquo; <span class="_quotespan">one minute,</span> &ldquo;within three blocks from my place</span>) .</li>
+       <li>A pickup setting (<em>e.g.</em>, <span class="_quotespan">anywhere in the Bay Area</span>).</li>
+       <li>A per-request setting.</li>
+      </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Route</th>
+    <td>From the outlet back to the buddy&rsquo;s next destination (<em>e.g.</em>, home). It could include short detours if the buddy agrees.</td>
+   </tr>
+  </table> 
+ </div>
 
 <h1 class="_section">APPENDICES</h1>
 
