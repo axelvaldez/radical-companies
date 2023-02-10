@@ -11,7 +11,7 @@ image:    "icon-buddyneighbor.svg"
 </div>
 
 <h1>Origin Story</h1>
- <p>On Mon Oct 1, 2018, my good friend Jose Contreras sent me a text out of the blue, as friends tend to do.</p>
+ <p>On Mon Oct 1, 2018, my good friend Jose Contreras sent me a text out of the blue,</p>
  <div class="_center">
   <img
    src="/assets/img/pic-rbuddyneighbor.svg"

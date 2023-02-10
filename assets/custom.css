@@ -278,7 +278,7 @@ table tr {
 }
 table._background tr th {
   border-right-width:1px;
-  border-right-color:black;
+  border-right-color:gray;
   border-right-style:solid;
 }
 table._background tr:nth-child(odd)  {
