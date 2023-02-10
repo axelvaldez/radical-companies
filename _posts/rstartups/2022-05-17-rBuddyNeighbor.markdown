@@ -307,6 +307,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
   </table>
+  </table>
  <p>The buddy goes about her shopping, including the requested goods. She pays for her stuff and separately for the neighbor&rsquo;s goods.</p>
  <p>Once the buddy is on her way, she lets the Neighbor know via the app.</p>
  <table>
