@@ -139,23 +139,38 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
  <p>Some people love to cook. Others, like myself, just eat. I can appreciate when I like a dish, but that&rsquo;s it. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good;&rdquo; sometimes I&rsquo;ll even say, &ldquo;it&rsquo;s really good.</span></p>
  <p>Even the people who like to cook, sometimes feel like not cooking. It&rsquo;s a harking for a special dish, you don&rsquo;t want to cook. But you still have to eat.</p>
  <p>So, here&rsquo;s another potential <span class="_paradigm">rBuddyNeighbors</span> adjunct,</p>
- <h2>Scenario 1</h2>
-  <ul>
-   <li>You&rsquo;d like to eat anything.</li>
-   <li><span class="_quotespan">What do you have?</span></li>
-  </ul>
- <h2>Scenario 2</h2>
-  <ul>
-   <li>You&rsquo;d like to eat a dish that your aunt made.</li>
-   <li>You don&rsquo;t have the recipe, but you can reach out to your aunt.</li>
-   <li>You connect your aunt with the <span class="_paradigm">rBuddyNeighbors</span> cook on a video call.</li>
-   <li>They figure out how to reproduce the dish. They may have to figure out alternative ingredients to use if your aunt&rsquo;s can&rsquo;t be found locally.</li>
-   <li><span class="_quotespan">There&rsquo;s a <span class="_paradigm">rBuddyNeighbors</span> at Trader Joe&rsquo;s who can get me the missing ingredients in a half hour. I can have it ready for you a half hour after she gets here.</span></li>
-  </ul>
- <h2>Scenario 3</h2>
-  <ul>
-   <li><span class="_quotespan">Can I get my aunt&rsquo;s dish? For three, this time. It turned out really good and I want my friends to taste it.</span></li>
-  </ul>
+  <div class="_center">
+   <table class="_backgroumd">
+    <tr>
+     <th>Scenario 1</th>
+     <td>
+      <ul>
+       <li>You&rsquo;d like to eat anything.</li>
+       <li><span class="_quotespan">What do you have?</span></li>
+      </ul>
+     <td>
+    </tr>
+    <tr>
+     <th>Scenario 2</th>
+     <td>
+      <ul>
+       <li>You&rsquo;d like to eat a dish that your aunt made.</li>
+       <li>You don&rsquo;t have the recipe, but you can reach out to your aunt.</li>
+       <li>You connect your aunt with the <span class="_paradigm">rBuddyNeighbors</span> cook on a video call.</li>
+       <li>They figure out how to reproduce the dish. They may have to figure out alternative ingredients to use if your aunt&rsquo;s can&rsquo;t be found locally.</li>
+       <li><span class="_quotespan">There&rsquo;s a <span class="_paradigm">rBuddyNeighbors</span> at Trader Joe&rsquo;s who can get me the missing ingredients in a half hour. I can have it ready for you a half hour after she gets here.</span></li>
+      </ul>
+     <td>
+    </tr>
+    <tr>
+     <th>Scenario 3</th>
+     <td>
+      <ul>
+       <li><span class="_quotespan">Can I get my aunt&rsquo;s dish? For three, this time. It turned out really good and I want my friends to taste it.</span></li>
+      </ul>
+     </td>
+    </tr>
+   </table>
  <p>You can pick up the food yourself (it&rsquo;s nearby), or you can have it delivered by a buddy.</p>
  <p>The emphasis is in the cooking; the delivery is handled by the fact that the cooking is done nearby, in the <span class="_paradigm">rBuddyNeighbors</span> sense.</p>
 
