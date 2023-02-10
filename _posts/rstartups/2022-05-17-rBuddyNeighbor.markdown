@@ -204,8 +204,7 @@ image:    "icon-buddyneighbor.svg"
   </tr>
  </table>
 
-<h1>Appendices</h1>
- <p></p>
+<h1 class="_section">Appendices</h1>
 
 <h1>Interaction Interface</h1>
  <h2>Buddy Brings It</h2>
