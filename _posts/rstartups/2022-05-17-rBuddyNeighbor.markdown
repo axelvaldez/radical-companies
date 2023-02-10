@@ -331,7 +331,7 @@ image:    "icon-buddyneighbor.svg"
    <td></td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>Otherwise, we tell the neighbor that the goods are on their way. And give him an update on the ETA (considering traffic, etc).</td>
    <td></td>
   </tr>
@@ -341,7 +341,7 @@ image:    "icon-buddyneighbor.svg"
  </table>
  <table>
   <tr>
-   <td>Done?</td>
+   <th>Done?</th>
    <td>Did you get there OK?</td>
    <td>
     <ul>
@@ -351,7 +351,7 @@ image:    "icon-buddyneighbor.svg"
    </td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>Did Jose accept the goods?</td>
    <td>
     <ul>
@@ -362,7 +362,7 @@ image:    "icon-buddyneighbor.svg"
    </td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>How do you think he felt?</td>
    <td>
     <ul>
@@ -373,7 +373,7 @@ image:    "icon-buddyneighbor.svg"
    </td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>Write a Review.</td>
    <td>
     <ul>
