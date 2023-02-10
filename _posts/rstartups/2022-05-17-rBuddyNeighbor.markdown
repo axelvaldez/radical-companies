@@ -34,7 +34,7 @@ image:    "icon-buddyneighbor.svg"
    </td>
   </tr>
   <tr>
-   <td>Mission<br><span style="font-family:helvetica; font-size:smaller; ">What?<br>When?<br>How?</span></th>
+   <th>Mission<br><span style="font-family:helvetica; font-size:smaller; ">What?<br>When?<br>How?</span></th>
    <td></td>
   </tr>
 </table>
