@@ -641,7 +641,7 @@ image:    "icon-buddyneighbor.svg"
     <p>We need to verify this info. Otherwise, we need to let the Buddy know that <span class="_quotespan">this is what the Neighbor says</span> and let her decide.</p>
     <p>The Neighbor may say he's alone, but we can hear a party going on in the background, or some strange, creepy noises.</p>
     <p>We feed this back to the Neighbor but he claims <span class="_quotespan">it&rsquo;s just YouTube, sorry.</span> But we can tell the difference and, again, feed that back to the Neighbor.</p>
-    <p>We communicate all this to the Buddy and she can make an informed decision. It may be that when she finds out the Neighbor's name and address, she figures that that is the very party she was going to. Or she may decline the goods request right then and there.</p>
+    <p>We communicate all this to the Buddy and she can make an informed decision. It may be that when she finds out the Neighbor&rsquo;s name and address, she figures that that is the very party she was going to. Or she may decline the goods request right then and there.</p>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
