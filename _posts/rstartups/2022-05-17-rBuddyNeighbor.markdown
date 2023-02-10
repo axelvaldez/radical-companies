@@ -567,23 +567,23 @@ image:    "icon-buddyneighbor.svg"
 <h1>Jose Contrera&rsquo;s Vision</h1>
  <table>
   <tr>
-   <td>Elevator Pitch</td>
+   <th>Elevator Pitch</th>
    <td>When you are somewhere but don&rsquo;t have time to get up and go&hellip;don&rsquo;t go hungry or thirsty but leverage your friends and family who are nearby already out and about to bring you back anything from a Starbucks, pizza to even groceries.</td>
   </tr>
   <tr>
-   <td>Purpose</td>
+   <th>Purpose</th>
    <td>To capitalize on the growing trend of food delivery options and ride service segments to create social commerce by leveraging friendships and relationships on media like Facebook, Instagram, Snap-chat etc.</td>
   </tr>
   <tr>
-   <td>How its done and with whom</td>
+   <th>How its done and with whom</th>
    <td>Creating a mobile application where people can sign up and create profiles to make them visible at various food and drink locations. A user can toggle back and forth between being a Buyer or a Flyer. The buyer is looking for services and the Flyer is providing the delivery services.</td>
   </tr>
   <tr>
-   <td>Where and why</td>
+   <th>Where and why</th>
    <td>Ideally you can provide services to within a 30 minute delivery time window or locate someone within a specified geo range of 5, 10 or 15 miles . this can be determined by the need of the item and anything as random as an item from Costco</td>
   </tr>
   <tr>
-   <td>QQ1:<br>How do we make money?</td>
+   <th>QQ1:<br>How do we make money?</th>
    <td>
     <ul>
      <li>By enlisting the restaurants and stores as being part of the <span class="_quotespan">My Neighbor</span> network</li>
@@ -592,15 +592,15 @@ image:    "icon-buddyneighbor.svg"
     </ul>
    </td>
   </tr>
-   <td>QQ2:<br>How does it impact the world?</td>
+   <th>QQ2:<br>How does it impact the world?</th>
    <td>Impact the world by being able to expedite the food ordering and delivery process by leveraging friends, family and neighbors who are already in flight to desired locations.</td>
   </tr>
   <tr>
-   <td>QQ3:<br>Exit Strategy?</td>
+   <th>QQ3:<br>Exit Strategy?</th>
    <td>The ultimate exit strategy is to create , operate and then sell a very creative and innovative technology food service company that has become disruptive to players like  U ber and Doordash. Could be an attractive adjacent business for OpenTable or Nextdoor.</td>
   </tr>
   <tr>
-   <td>QQ4:<br>What do you have to accomplish to get there?</td>
+   <th>QQ4:<br>What do you have to accomplish to get there?</th>
    <td>Create energy and buzz around the concept of social commerce and a better more neighborly way to shop while optimizing time.</td>
    <td>
     <ul>
