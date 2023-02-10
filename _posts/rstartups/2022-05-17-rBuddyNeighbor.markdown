@@ -55,7 +55,7 @@ image:    "icon-buddyneighbor.svg"
  </ul>
 
 <h1>Scenarios</h1>
- <p>The <strong>rBuddyNeighbor</strong> platform helps put neighbors physically in front of each other and potentially bonding by <em>doing something for each other</em>. A neighbor needs something, the buddy takes care of it, they get to know each other a little better, and they both get to feel good about themselves.</p>
+ <p>The <span class="_paradigm">rBuddyNeighbors</span> platform helps put neighbors physically in front of each other and potentially bonding by <em>doing something for each other</em>. A neighbor needs something, the buddy takes care of it, they get to know each other a little better, and they both get to feel good about themselves.</p>
  <h2>Happy Path</h2>
   <ul>
    <li>The buddy goes to Safeway at 11 pm.</li>
@@ -69,7 +69,7 @@ image:    "icon-buddyneighbor.svg"
    <li>Jose, the neighbor, accepts.</li>
    <li>The buddy gets her stuff, including Jose&rsquo;s milk, stands in line, and pays for the goods.</li>
    <li>As the buddy leaves Safeway, the system alerts the neighbor that, <span class="_quotespan">Your 2% Organic Valley milk is on its way and will get to you in about 10 minutes.</span></li>
-   <li>As the buddy gets close to the neighbor&rsquo;s home, rBuddyNeighbor alerts the neighbor that, <span class="_quotespan">Your buddy, her name and avatar, is about to get to your home with your Organic Valley 2% milk.</span></li>
+   <li>As the buddy gets close to the neighbor&rsquo;s home, <span class="_paradigm">rBuddyNeighbors</span> alerts the neighbor that, <span class="_quotespan">Your buddy, her name and avatar, is about to get to your home with your Organic Valley 2% milk.</span></li>
    <li>The buddy parks, but her boyfriend walks to Jose&rsquo;s front door.</li>
    <li>The neighbor communicates with Margot through the app, <span class="_quotespan">Hey, there&rsquo;s a guy at my door, is he with you?</span></li>
    <li>Margot realizes his concern and says, <span class="_quotespan">Oh, yes, I&rsquo;ll come up, too. Sorry about that.</span></li>
@@ -97,7 +97,7 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Interventions</h1>
  <p>Groups of <span class="_paradigm">rBuddyNeighbors</span> can organize to deal with emergency situations nearby, from drug usage interventions to potential suicides.</p>
- <p>They can register their group with <strong>rBuddyNeighbor</strong> as a community resource.</p>
+ <p>They can register their group with <span class="_paradigm">rBuddyNeighbors</span> as a community resource.</p>
  <p>They&rsquo;d be alerted when the system detects a pattern that fits their target.</p>
 
 <h1>Reuniting Friends and Family</h1>
@@ -117,8 +117,8 @@ image:    "icon-buddyneighbor.svg"
   </ul>
 
 <h1>Vendors Will Know</h1>
- <p>We can train retailers to tell people who call in an order that, <span class="_quotespan">there are two people near you coming to pick up soon. If you put in a <strong>rBuddyNeighbor</strong> request, maybe one of them will deliver.</span></p>
- <p>This means that we need a UI for vendors to see <strong>rBuddyNeighbor</strong> activity that impacts them,</p>
+ <p>We can train retailers to tell people who call in an order that, <span class="_quotespan">there are two people near you coming to pick up soon. If you put in a <span class="_paradigm">rBuddyNeighbors</span> request, maybe one of them will deliver.</span></p>
+ <p>This means that we need a UI for vendors to see <span class="_paradigm">rBuddyNeighbors</span> activity that impacts them,</p>
   <ul>
    <li>Requests that mention them</li>
    <li>Comments related to them (good/bad)</li>
@@ -130,12 +130,12 @@ image:    "icon-buddyneighbor.svg"
  <p>This could be <span class="_quotespan">gamed&rdquo; if the Neighbor-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A &ldquo;delivery boy</span> would not make the kind of connection we are aiming for between neighbors.</p>
 
 <h1>Together IRL</h1>
- <p>The town of Kamikatsu, Japan, recycles 81% of its waste. Watch <a href="https://dms.licdn.com/playback/C5605AQFKkYRm_FjR1Q/4ac33b7eb67a454ebde08b9487493111/feedshare-mp4_3300-captions-thumbnails/1507940147251-drlcss?e=1548968400&v=beta&t=7ijeg8e9YGKpOenrZ9P5aqeEDKLdp8x-Pa5jih8SYt0">the video</a> and <a href="https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7">read more</a> about it. The collection center is another place for neighbors to have a positive meeting in real life. This is the kind of thing that a neighborhood can easily organize through <strong>rBuddyNeighbor</strong>.</p>
+ <p>The town of Kamikatsu, Japan, recycles 81% of its waste. Watch <a href="https://dms.licdn.com/playback/C5605AQFKkYRm_FjR1Q/4ac33b7eb67a454ebde08b9487493111/feedshare-mp4_3300-captions-thumbnails/1507940147251-drlcss?e=1548968400&v=beta&t=7ijeg8e9YGKpOenrZ9P5aqeEDKLdp8x-Pa5jih8SYt0">the video</a> and <a href="https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7">read more</a> about it. The collection center is another place for neighbors to have a positive meeting in real life. This is the kind of thing that a neighborhood can easily organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
 
 <h1>Food</h1>
  <p>Some people love to cook. Others, like myself, just eat. I can appreciate when I like a dish, but that&rsquo;s it. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good;&rdquo; sometimes I&rsquo;ll even say, &ldquo;it&rsquo;s really good.</span></p>
  <p>Even the people who like to cook, sometimes feel like not cooking. It&rsquo;s a harking for a special dish, you don&rsquo;t want to cook. But you still have to eat.</p>
- <p>So, here&rsquo;s another potential <strong>rBuddyNeighbor</strong> adjunct,</p>
+ <p>So, here&rsquo;s another potential <span class="_paradigm">rBuddyNeighbors</span> adjunct,</p>
  <h2>Scenario 1</h2>
   <ul>
    <li>You&rsquo;d like to eat anything.</li>
@@ -145,23 +145,23 @@ image:    "icon-buddyneighbor.svg"
   <ul>
    <li>You&rsquo;d like to eat a dish that your aunt made.</li>
    <li>You don&rsquo;t have the recipe, but you can reach out to your aunt.</li>
-   <li>You connect your aunt with the <strong>rBuddyNeighbor</strong> cook on a video call.</li>
+   <li>You connect your aunt with the <span class="_paradigm">rBuddyNeighbors</span> cook on a video call.</li>
    <li>They figure out how to reproduce the dish. They may have to figure out alternative ingredients to use if your aunt&rsquo;s can&rsquo;t be found locally.</li>
-   <li><span class="_quotespan">There&rsquo;s a <strong>rBuddyNeighbor</strong> at Trader Joe&rsquo;s who can get me the missing ingredients in a half hour. I can have it ready for you a half hour after that.</span></li>
+   <li><span class="_quotespan">There&rsquo;s a <span class="_paradigm">rBuddyNeighbors</span> at Trader Joe&rsquo;s who can get me the missing ingredients in a half hour. I can have it ready for you a half hour after that.</span></li>
   </ul>
  <h2>Scenario 3</h2>
   <ul>
    <li><span class="_quotespan">Can I get my aunt&rsquo;s dish? For three this time. It turned out really good and I want my friends to taste it.</span></li>
   </ul>
  <p>You can pick up the food yourself (it&rsquo;s nearby), or you can have it delivered by a buddy.</p>
- <p>The emphasis is in the cooking; the delivery is handled by the fact that the cooking is done nearby, in the <strong>rBuddyNeighbor</strong> sense.</p>
+ <p>The emphasis is in the cooking; the delivery is handled by the fact that the cooking is done nearby, in the <span class="_paradigm">rBuddyNeighbors</span> sense.</p>
 
 <h1>Commuting</h1>
- <p><a href="https://www.waze.com/carpool">Commuting</a> could be another thing that comes out of this. Either as a one time thing, or on a regular basis. <span class="_quotespan">I need to get to San Carlos tomorrow by 10 am.&rdquo; Or, &ldquo;I work in Mountain View, looking for a <strong>rBuddyNeighbor</strong> to commute with.</span> The response from the system could be three potential <span class="_paradigm">rBuddyNeighbors</span>, or three regular commutes that have already been set up and are open to another rider.</p>
+ <p><a href="https://www.waze.com/carpool">Commuting</a> could be another thing that comes out of this. Either as a one time thing, or on a regular basis. <span class="_quotespan">I need to get to San Carlos tomorrow by 10 am.&rdquo; Or, &ldquo;I work in Mountain View, looking for a <span class="_paradigm">rBuddyNeighbors</span> to commute with.</span> The response from the system could be three potential <span class="_paradigm">rBuddyNeighbors</span>, or three regular commutes that have already been set up and are open to another rider.</p>
  <p>It would be commuting with people who live nearby. People that you may even know. People you can have a lasting relationship with.</p>
 
 <h1>International</h1>
- <p>Has to work anywhere in the world, and across borders. See <a href="#heading=h.f0r0aan8rlde">Pickups</a>.</p>
+ <p>Has to work anywhere in the world, and across borders. See <a href="#_pickups">Pickups</a>.</p>
  <p>For example, I can put in a request for Coyotas del Parque, Hermosillo. Alguien de acá, llega a Hermosillo y va a recibir mi pedido.</p>
  <p>Vivimos <span class="_quotespan">cerca,&rdquo; es decir yo vivo en San Jose y al Buddy en Los Gatos. This is &ldquo;near</span> the pickup radius y por eso me pasa el pedido.</p>
  <p>Lo acepta y trae las coyotas. El Buddy indica cuándo le es conveniente el pickup. El sistema me dice que puedo ir a pasar por ellas el fin de semana.</p>
@@ -200,7 +200,7 @@ image:    "icon-buddyneighbor.svg"
     <td>Normally, <span class="_quotespan">near</span> means people along the route (see above).</td>
    </tr>
    <tr>
-    <th>Pickups</th>
+    <th id="_pickups">Pickups</th>
     <td>
      <p>Under some circumstances, the neighbor specifies a pickup location. If a buddy is bringing me something from Spain, I&rsquo;ll go pick it up at the nearby town that I can drive to.</p>
      <p>It makes sense to let members define what <span class="_quotespan">near&rdquo; and &ldquo;detour</span> mean. There could be a,</p>
@@ -570,8 +570,8 @@ image:    "icon-buddyneighbor.svg"
   <li>We will also pay and collect for the goods, but there won&rsquo;t be any markup.</li>
   <li>Buddies may get rewards for their service. The trick is not to let these <span class="_quotespan">rewards</span> become the goal for members. The goal is for Neighbors to get to know other Neighbors. For example, they may get valuable reward for their community.</li>
   <li><span class="_paradigm">rBuddyNeighbors</span> are our only paying customers. They and their neighborhoods must be the primary beneficiaries. I believe that our democracy will be the ultimate beneficiary.</li>
-  <li><strong>rBuddyNeighbor</strong>&rsquo;s purpose is to make it easy to have Neighbors meet each other in real life, being serviciable to one another, bonding over a good deed done, a good deed received.</li>
-  <li><strong>rBuddyNeighbor</strong> does not depend on goods outlets or any other revenue. Members are customers. Clear and simple.</li>
+  <li><span class="_paradigm">rBuddyNeighbors</span>&rsquo;s purpose is to make it easy to have Neighbors meet each other in real life, being serviciable to one another, bonding over a good deed done, a good deed received.</li>
+  <li><span class="_paradigm">rBuddyNeighbors</span> does not depend on goods outlets or any other revenue. Members are customers. Clear and simple.</li>
   <li>Outlets can contribute to local funds and projects on behalf of <span class="_paradigm">rBuddyNeighbors</span>. Not, <span class="_quotespan">Check out your Tuesday discounts&rdquo; but &ldquo;come Tuesday and get your <span class="_paradigm">rBuddyNeighbors</span> and we&rsquo;ll contribute X% of all sales to &hellip;</span></li>
  </ul>
 
