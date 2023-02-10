@@ -68,7 +68,7 @@ image:    "icon-buddyneighbor.svg"
    <li>Once she accepts the request, the system will let the neighbor know that, <span class="_quotespan">Your request for Organic Valley 2% milk has been accepted. We&rsquo;ll charge $2.70 to your account. Do you still want it?</span></li>
    <li>Jose, the neighbor, accepts.</li>
    <li>The buddy gets her stuff, including Jose&rsquo;s milk, stands in line, and pays for the goods.</li>
-   <li>As the buddy leaves Safeway,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> the system alerts the neighbor that, <span class="_quotespan">Your 2% Organic Valley milk is on its way and will get to you in about 10 minutes.</span></li>
+   <li>As the buddy leaves Safeway,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> the system alerts the neighbor that, <span class="_quotespan">Your 2% Organic Valley milk is on its way and will get to you in about 10 minutes.</span></li>
    <li>As the buddy gets close to the neighbor&rsquo;s home, <span class="_paradigm">rBuddyNeighbors</span> alerts the neighbor that, <span class="_quotespan">Your buddy, her name and avatar, is about to get to your home with your Organic Valley 2% milk.</span></li>
    <li>The buddy parks, but her boyfriend walks to Jose&rsquo;s front door.</li>
    <li>The neighbor communicates with Margot through the app, <span class="_quotespan">Hey, there&rsquo;s a guy at my door, is he with you?</span></li>
@@ -125,12 +125,12 @@ image:    "icon-buddyneighbor.svg"
   </ul>
 
 <h1>Mom-and-Pops (1/26/2019)</h1>
- <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a neighbor or as a regular customer. Or the requestor lives within their back route and they can easily deliver it on the way home. This would fit within the model. (<a href="#en04"><sup id="bm04">&hairsp;?&hairsp;</sup></a>).</p>
- <p>The neighbor-owner cannot charge or add a surcharge for the delivery itself. Tips are not allowed. So, she&rsquo;s simply being a Buddy to a Neighbor.</p>
+ <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a neighbor or as a regular customer. Or the requestor lives within their back route and they can easily deliver it on the way home. This would fit within the model. (<a href="#en03"><sup id="bm03">&hairsp;?&hairsp;</sup></a>).</p>
+ <p>The neighbor-owner cannot charge or add a surcharge for the delivery itself. Tips are not allowed. So, she&rsquo;s simply being a Buddy to a Neighbor.</p>x
  <p>This could be <span class="_quotespan">gamed&rdquo; if the Neighbor-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A &ldquo;delivery</span> person would not make the kind of connection we are aiming for between neighbors.</p>
 
 <h1>Together IRL</h1>
- <p>The town of Kamikatsu, Japan, recycles 81% of its waste. Watch the video<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> and read more<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> about it. The collection center is another place for neighbors to have a positive meeting in real life. This is the kind of thing that a neighborhood can easily organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
+ <p>The town of Kamikatsu, Japan, recycles 81% of its waste. Watch the video<a href="#en04"><sup id="bm04">zzz&hairsp;&nabla;&hairsp;</sup></a> and read more<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> about it. The collection center is another place for neighbors to have a positive meeting in real life. This is the kind of thing that a neighborhood can easily organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
 
 https://dms.licdn.com/playback/C5605AQFKkYRm_FjR1Q/4ac33b7eb67a454ebde08b9487493111/feedshare-mp4_3300-captions-thumbnails/1507940147251-drlcss?e=1548968400&v=beta&t=7ijeg8e9YGKpOenrZ9P5aqeEDKLdp8x-Pa5jih8SYt0
 https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
@@ -229,7 +229,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
    <table class="_background">
     <tr>
      <th>Sign Up</th>
-     <td>Bring back goods for a neighbor on your way back from an outlet? (<a href="#en04"><sup id="bm04">&hairsp;?&hairsp;</sup></a>)</td>
+     <td>Bring back goods for a neighbor on your way back from an outlet? (<a href="#en05"><sup id="bm05">&hairsp;?&hairsp;</sup></a>)</td>
      <td>
       <ul>
        <li>Yes</li>
@@ -256,7 +256,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
    </tr>
    <tr>
     <th></th>
-    <td>Address. (<a href="#en05"><sup id="bm05">&hairsp;?&hairsp;</sup></a>)</td>
+    <td>Address. (<a href="#en06"><sup id="bm06">&hairsp;?&hairsp;</sup></a>)</td>
    </tr>
    <tr>
     <th></th>
@@ -323,7 +323,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
     <td>
      <ul>
       <li>Yes</li>
-      <li>No<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
+      <li>No<a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a></li>
      </ul>
     </td>
    </tr>
@@ -339,7 +339,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
     <td>
      <ul>
       <li>On my way, see you soon.</li>
-      <li>Will be a bit late.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
+      <li>Will be a bit late.<a href="#en08"><sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a></li>
       <li>Will be there after requested time.</li>
       <li>Got the goods but can&rsquo;t deliver now, sorry.</li>
      </ul>
@@ -347,12 +347,12 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
    </tr>
    <tr>
     <th></th>
-    <td>If getting there <span class="_quotespan">after the requested time,</span> we ask the Neighbor and the Buddy sees his response.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></td>
+    <td>If getting there <span class="_quotespan">after the requested time,</span> we ask the Neighbor and the Buddy sees his response.<a href="#en09"><sup id="bm09">&hairsp;&nabla;&hairsp;</sup></a></td>
     <td></td>
    </tr>
    <tr>
     <th></th>
-    <td>If buddy <span class="_quotespan">can&rsquo;t deliver now,</span> we tell the neighbor, and &hellip; <a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></td>
+    <td>If buddy <span class="_quotespan">can&rsquo;t deliver now,</span> we tell the neighbor, and &hellip; <a href="#en10"><sup id="bm10">&hairsp;&nabla;&hairsp;</sup></a></td>
     <td></td>
    </tr>
    <tr>
@@ -369,7 +369,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
     <td>
      <ul>
       <li>Yes</li>
-      <li>No<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
+      <li>No<a href="#en11"><sup id="bm11">&hairsp;&nabla;&hairsp;</sup></a></li>
      </ul>
     </td>
    </tr>
@@ -379,8 +379,8 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
     <td>
      <ul>
       <li>Yes</li>
-      <li>No<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
-      <li>Partially<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
+      <li>No<a href="#en12"><sup id="bm12">&hairsp;&nabla;&hairsp;</sup></a></li>
+      <li>Partially<a href="#en13"><sup id="bm13">&hairsp;&nabla;&hairsp;</sup></a></li>
      </ul>
     </td>
    </tr>
@@ -391,7 +391,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
      <ul>
       <li>Happy!</li>
       <li>Meh&hellip;</li>
-      <li>Unhappy?<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
+      <li>Unhappy?<a href="#en14"><sup id="bm14">&hairsp;&nabla;&hairsp;</sup></a></li>
      </ul>
     </td>
    </tr>
@@ -413,7 +413,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
    <table class="_background">
     <tr>
      <th>Sign Up</th>
-     <td>Bring back goods for a neighbor on your way back from an outlet? (<a href="#en06"><sup id="bm06">&hairsp;?&hairsp;</sup></a>)</td>
+     <td>Bring back goods for a neighbor on your way back from an outlet? (<a href="#en15"><sup id="bm15">&hairsp;?&hairsp;</sup></a>)</td>
      <td>
      <ul>
       <li>Yes</li>
@@ -440,12 +440,12 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
    </tr>
    <tr>
     <th></th>
-    <td>Address. (<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></td>
+    <td>Address. (<a href="#en16"><sup id="bm16">&hairsp;&nabla;&hairsp;</sup></a></td>
     <td></td>
    </tr>
    <tr>
     <th></th>
-    <td>Account for Payments. (<a href="#en06"><sup id="bm06">&hairsp;?&hairsp;</sup></a>)</td>
+    <td>Account for Payments. (<a href="#en17"><sup id="bm17">&hairsp;?&hairsp;</sup></a>)</td>
     <td></td>
    </tr>
    <tr>
@@ -571,7 +571,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
  <ul>
   <li><span class="_paradigm">rBuddyNeighbors</span> pay a membership fee to become <span class="_paradigm">rBuddyNeighbors</span>.com members. That&rsquo;s (mostly) it. This will be a very small fee and the top-line growth for <span class="_paradigm">rBuddyNeighbors</span>.com is based on that. Our financial success is based on volume with lots (and lots) of people signing up.</li>
   <li>We will also pay and collect for the goods, but there won&rsquo;t be any markup.</li>
-  <li>Buddies may get rewards for their service. The trick is not to let these <span class="_quotespan">rewards</span> become the goal for members. The goal is for Neighbors to get to know other Neighbors. For example, they may get valuable reward for their community.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></li>
+  <li>Buddies may get rewards for their service. The trick is not to let these <span class="_quotespan">rewards</span> become the goal for members. The goal is for Neighbors to get to know other Neighbors. For example, they may get valuable reward for their community.<a href="#en18"><sup id="bm18">&hairsp;&nabla;&hairsp;</sup></a></li>
   <li><span class="_paradigm">rBuddyNeighbors</span> are our only paying customers. They and their neighborhoods must be the primary beneficiaries. I believe that our democracy will be the ultimate beneficiary.</li>
   <li><span class="_paradigm">rBuddyNeighbors</span>&rsquo;s purpose is to make it easy to have Neighbors meet each other in real life, being serviciable to one another, bonding over a good deed done, a good deed received.</li>
   <li><span class="_paradigm">rBuddyNeighbors</span> does not depend on goods outlets or any other revenue. Members are customers. Clear and simple.</li>
@@ -677,12 +677,74 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
   </li>
   <li id="en06">
    <p class="_list-item">
-    <p>Or money donated to a charity of her choice?</p>
-    <p>Or goods discount? (this is that goods outlets would "pay" in exchange to being part of the network).</p>
-    <p>Or points that they can use anywhere (a Nearsoft client, Points, does exactly this).</p>
-    <p>Or a fund to improve their local school?</p>
-    <p>Or&hellip; all of the above?</p>
     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en07">
+   <p class="_list-item">
+    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en08">
+   <p class="_list-item">
+    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en09">
+   <p class="_list-item">
+    <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en10">
+   <p class="_list-item">
+    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en11">
+   <p class="_list-item">
+    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en12">
+   <p class="_list-item">
+    <p>Or&hellip; all of the above?</p>
+    <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en13">
+   <p class="_list-item">
+    <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en14">
+   <p class="_list-item">
+    <p>Or&hellip; all of the above?</p>
+    <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en15">
+   <p class="_list-item">
+    <a class="_uparrow" href="#bm15"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en16">
+   <p class="_list-item">
+    <a class="_uparrow" href="#bm16"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en17">
+   <p class="_list-item">
+    <a class="_uparrow" href="#bm17"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en18">
+   <p class="_list-item">
+    <a class="_uparrow" href="#bm18"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en19">
+   <p class="_list-item">
+    <a class="_uparrow" href="#bm19"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
