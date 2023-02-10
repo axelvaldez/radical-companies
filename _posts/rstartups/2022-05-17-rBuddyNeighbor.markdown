@@ -595,7 +595,7 @@ image:    "icon-buddyneighbor.svg"
    <table class="_background">
     <tr>
      <th>QQ1:<br>How do we make money?</th>
-     <td>
+     <td colspan="2">
       <ul>
        <li>By enlisting the restaurants and stores as being part of the <span class="_quotespan">My Neighbor</span> network</li>
        <li>Hosting the commerce and transactions on a secured platform and charging a small percentage of the transaction</li>
@@ -609,7 +609,7 @@ image:    "icon-buddyneighbor.svg"
     </tr>
     <tr>
      <th>QQ3:<br>Exit Strategy?</th>
-     <td>The ultimate exit strategy is to create , operate and then sell a very creative and innovative technology food service company that has become disruptive to players like Uber and Doordash. Could be an attractive adjacent business for OpenTable or Nextdoor.</td>
+     <td colspan="2">The ultimate exit strategy is to create , operate and then sell a very creative and innovative technology food service company that has become disruptive to players like Uber and Doordash. Could be an attractive adjacent business for OpenTable or Nextdoor.</td>
     </tr>
     <tr>
      <th>QQ4:<br>What do you have to accomplish to get there?</th>
