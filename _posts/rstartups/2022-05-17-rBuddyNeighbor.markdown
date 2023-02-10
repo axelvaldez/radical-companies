@@ -280,33 +280,33 @@ image:    "icon-buddyneighbor.svg"
     <th>More Info</th>
     <td>Neighbor's picture and other <span class="_quotespan">vitals</span></td>
     <td></td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>More?</td>
-   <td>
-    <ul>
-     <li>Yes</li>
-     <li>No</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>If yes, more info <strong>(?)</strong></td>
-   <td></td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>Commit?</td>
-   <td>
-    <ul>
-     <li>Yes</li>
-     <li>No</li>
-    </ul>
-   </td>
-  </tr>
- </table>
+   </tr>
+   <tr>
+    <th></th>
+    <td>More?</td>
+    <td>
+     <ul>
+      <li>Yes</li>
+      <li>No</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>If yes, more info <strong>(?)</strong></td>
+    <td></td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>Commit?</td>
+    <td>
+     <ul>
+      <li>Yes</li>
+      <li>No</li>
+     </ul>
+    </td>
+   </tr>
+  </table>
  <p>The buddy goes about her shopping, including the requested goods. She pays for her stuff and separately for the neighbor&rsquo;s goods.</p>
  <p>Once the buddy is on her way, she lets the Neighbor know via the app.</p>
  <table>
