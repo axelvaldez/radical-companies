@@ -17,7 +17,9 @@ image:    "icon-cookie-wisdom.svg"
    width="70%"
    alt="">
  </div>
+ <!--
  <p style="font-size:100px; ">&#128406;</p>
+ -->
 
 <h1 class="_section">RELATED</h1>
  <ul>
