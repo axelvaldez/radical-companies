@@ -595,6 +595,7 @@ image:    "icon-buddyneighbor.svg"
     </ul>
    </td>
   </tr>
+  <tr>
    <th>QQ2:<br>How does it impact the world?</th>
    <td>Impact the world by being able to expedite the food ordering and delivery process by leveraging friends, family and neighbors who are already in flight to desired locations.</td>
   </tr>
