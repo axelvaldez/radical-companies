@@ -216,74 +216,79 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Interaction Interface</h1>
  <h2>Buddy Brings It</h2>
-  <table class="_background">
-   <tr>
-    <th>Sign Up</th>
-    <td>Bring back goods for a neighbor on your way back from an outlet? <strong>(?)</strong></td>
-    <td>
-     <ul>
-      <li>Yes</li>
-      <li>No</li>
-      <li>Both</li>
-     </ul>
+  <div class="_center">
+   <table class="_background">
+    <tr>
+     <th>Sign Up</th>
+     <td>Bring back goods for a neighbor on your way back from an outlet? <strong>(?)</strong></td>
+     <td>
+      <ul>
+       <li>Yes</li>
+       <li>No</li>
+       <li>Both</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th></th>
+     <td>Phone.</td>
+     <td>
+      <ul>
+       <li>Text</li>
+       <li>Voice</li>
+       <li>Video</li>
+      </ul>
     </td>
    </tr>
    <tr>
     <th></th>
-    <td>Phone.</td>
+    <td>Email.</td>
+    <td></td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>Address. <strong>(?)</strong></td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>Account for Reimbursements. <strong>(?)</strong></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Account to Pay for Goods.</td>
+    <td></td>
+   </tr>
+  </table>
+ </div>
+ <p>The buddy hears a ping or feels a vibration and opens the app. If there&rsquo;s only one request waiting for this Buddy,</p>
+  <div class="_center">
+   <table class="_background">
+    <tr>
+     <th rowspan="2" >Receive Request</th>
+     <td>Sees good(s) requested.</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Sees that approximate time and distance to deliver it.</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Consider?</td>
     <td>
      <ul>
-      <li>Text</li>
-      <li>Voice</li>
-      <li>Video</li>
+      <li>Yes</li>
+      <li>No</li>
      </ul>
-   </td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>Email.</td>
-   <td></td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>Address. <strong>(?)</strong></td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>Account for Reimbursements. <strong>(?)</strong></td>
-   <td></td>
-  </tr>
-  <tr>
-   <td></td>
-   <td>Account to Pay for Goods.</td>
-   <td></td>
-  </tr>
- </table>
- <p>The buddy hears a ping or feels a vibration and opens the app. If there&rsquo;s only one request waiting for this Buddy,</p>
-  <table class="_background">
-   <tr>
-    <th rowspan="2" >Receive Request</th>
-    <td>Sees good(s) requested.</td>
-   <td></td>
-  </tr>
-  <tr>
-   <td>Sees that approximate time and distance to deliver it.</td>
-   <td></td>
-  </tr>
-  <tr>
-   <td></td>
-   <td>Consider?</td>
-   <td>
-    <ul>
-     <li>Yes</li>
-     <li>No</li>
-    </ul>
-   </td>
-  </tr>
- </table>
+    </td>
+   </tr>
+  </table>
+  </div>
  <p>If the Buddy says yes to <em>considering</em> the request,</p>
-  <table class="_background">
-   <tr>
+  <div class="_center">
+   <table class="_background">
+    <tr>
     <th>More Info</th>
     <td>Neighbor&rsquo;s picture and other <span class="_quotespan">vitals</span></td>
     <td></td>
@@ -314,237 +319,244 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
   </table>
+  </div>
  <p>The buddy goes about her shopping, including the requested goods. She pays for her stuff and separately for the neighbor&rsquo;s goods.</p>
  <p>Once the buddy is on her way, she lets the Neighbor know via the app.</p>
- <table class="_background">
-  <tr>
-   <th>On My Way</th>
-   <td>Tell the Neighbor what to expect.</td>
-   <td>
-    <ul>
-     <li>On my way, see you soon.</li>
-     <li>Will be a bit late.</li>
-     <li>Will be there after requested time.</li>
-     <li>Got the goods but can&rsquo;t deliver now, sorry.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>If getting there <span class="_quotespan">after the requested time,</span> we ask the neighbor and the buddy sees his response.</td>
-   <td></td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>If buddy <span class="_quotespan">can&rsquo;t deliver now,</span> we tell the neighbor, and &hellip;</td>
-   <td></td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>Otherwise, we tell the neighbor that the goods are on their way. And give him an update on the ETA (considering traffic, etc).</td>
-   <td></td>
-  </tr>
-  <tr>
-   <td class="_spacer" ></td>
-  </tr>
- </table>
- <table class="_background">
-  <tr>
-   <th>Done?</th>
-   <td>Did you get there OK?</td>
-   <td>
-    <ul>
-     <li>Yes</li>
-     <li>No</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>Did Jose accept the goods?</td>
-   <td>
-    <ul>
-     <li>Yes</li>
-     <li>No</li>
-     <li>Partially</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>How do you think he felt?</td>
-   <td>
-    <ul>
-     <li>Happy!</li>
-     <li>Meh&hellip;</li>
-     <li>Unhappy?</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>Write a Review.</td>
-   <td>
-    <ul>
-     <li>Comments</li>
-     <li>Impressions</li>
-     <li>Corcerns</li>
-    </ul>
-   </td>
-  </tr>
- </table>
+  <div class="_center">
+   <table class="_background">
+   <tr>
+    <th>On My Way</th>
+    <td>Tell the Neighbor what to expect.</td>
+    <td>
+     <ul>
+      <li>On my way, see you soon.</li>
+      <li>Will be a bit late.</li>
+      <li>Will be there after requested time.</li>
+      <li>Got the goods but can&rsquo;t deliver now, sorry.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>If getting there <span class="_quotespan">after the requested time,</span> we ask the neighbor and the buddy sees his response.</td>
+    <td></td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>If buddy <span class="_quotespan">can&rsquo;t deliver now,</span> we tell the neighbor, and &hellip;</td>
+    <td></td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>Otherwise, we tell the neighbor that the goods are on their way. And give him an update on the ETA (considering traffic, etc).</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td class="_spacer" ></td>
+   </tr>
+   <tr>
+    <th>Done?</th>
+    <td>Did you get there OK?</td>
+    <td>
+     <ul>
+      <li>Yes</li>
+      <li>No</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>Did Jose accept the goods?</td>
+    <td>
+     <ul>
+      <li>Yes</li>
+      <li>No</li>
+      <li>Partially</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>How do you think he felt?</td>
+    <td>
+     <ul>
+      <li>Happy!</li>
+      <li>Meh&hellip;</li>
+      <li>Unhappy?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>Write a Review.</td>
+    <td>
+     <ul>
+      <li>Comments</li>
+      <li>Impressions</li>
+      <li>Corcerns</li>
+     </ul>
+    </td>
+   </tr>
+  </table>
+  </div>
  <h2>Neighbor Gets It</h2>
- <table class="_background">
-  <tr>
-   <th>Sign Up</th>
-   <td>Bring back goods for a neighbor on your way back from an outlet? (?)</td>
-   <td>
-    <ul>
-     <li>Yes</li>
-     <li>No</li>
-     <li>Both</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>Phone.</td>
-   <td>
-    <ul>
-      <li>Text</li>
-      <li>Voice</li>
-      <li>Video</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>Email.</td>
-   <td></td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>Address. (?)</td>
-   <td></td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>Account for Payments. (?)</td>
-   <td></td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>Account to Pay for Goods.
-   </td>
-   <td></td>
-  </tr>
- </table>
+  <div class="_center">
+   <table class="_background">
+    <tr>
+     <th>Sign Up</th>
+     <td>Bring back goods for a neighbor on your way back from an outlet? (?)</td>
+     <td>
+     <ul>
+      <li>Yes</li>
+      <li>No</li>
+      <li>Both</li> 
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>Phone.</td>
+    <td>
+     <ul>
+       <li>Text</li>
+       <li>Voice</li>
+       <li>Video</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>Email.</td>
+    <td></td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>Address. (?)</td>
+    <td></td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>Account for Payments. (?)</td>
+    <td></td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>Account to Pay for Goods.
+    </td>
+    <td></td>
+   </tr>
+  </table>
+ </div>
  <p>The buddy hears a ping or senses a vibration and opens the app. If there&rsquo;s only one request waiting for this buddy,</p>
- <table>
-  <tr>
-   <th>Create Request</th>
-   <td>Requests good(s).</td>
-   <td></td>
-  </tr>
-  <tr>
-   <th></th>
-   <td><span class="_quotespan">We will let you know as soon as somebody responds. Keep your phone nearby.</span></td>
-   <td></td>
-  </tr>
-  <tr>
-   <th></th>
-   <td><span class="_quotespan">It looks like one of your neighbors may be at an outlet that has your request(s)</span> <strong>(?)</strong></td>
-   <td></td>
-  </tr>
- </table>
+  <div class="_center">
+   <table class="_background">
+    <tr>
+     <th>Create Request</th>
+     <td>Requests good(s).</td>
+     <td></td>
+    </tr>
+    <tr>
+     <th></th>
+     <td><span class="_quotespan">We will let you know as soon as somebody responds. Keep your phone nearby.</span></td>
+     <td></td>
+    </tr>
+    <tr>
+     <th></th>
+     <td><span class="_quotespan">It looks like one of your neighbors may be at an outlet that has your request(s)</span> <strong>(?)</strong></td>
+     <td></td>
+    </tr>
+   </table>
+  </div>
  <p>If the buddy says yes to <em>considering</em> the request,</p>
- <table class="_background">
-  <tr>
-   <th>More Info</th>
-   <td></td>
-   <td></td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>Commit?</td>
-   <td>
-    <ul>
-     <li>Yes</li>
-     <li>No</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>On My Way</th>
-   <td>Tell the Neighbor when to expect arrival.</td>
-   <td>
-    <ul>
-     <li>On my way, see you soon.</li>
-     <li>Will be a bit late.</li>
-     <li>Will be there after requested time.</li>
-     <li>Got the goods but can&rsquo;t deliver now, sorry.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>If getting there <span class="_quotespan">after the requested time,</span> we ask the Neighbor and the Buddy sees his response.</td>
-   <td></td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>If Buddy <span class="_quotespan">can&rsquo;t deliver now,</span> we tell the Neighbor, and &hellip;</td>
-   <td></td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>Otherwise, we tell the Neighbor that the goods are on their way. And give him an update on the ETA (considering traffic, etc).</td>
-   <td></td>
-  </tr>
-  <tr>
-   <td>Done?</td>
-   <td>Did you get there OK?</td>
-   <td>
-    <ul>
-     <li>Yes</li>
-     <li>No</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>Did Jose accept the goods?</td>
-   <td>
-    <ul>
-     <li>Yes</li>
-     <li>No</li>
-     <li>Partially</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>How do you think he felt?</td>
-   <td>
-    <ul>
-     <li>Happy!</li>
-     <li>Meh&hellip;</li>
-     <li>Unhappy?</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th></th>
-   <td>Write a Review.</td>
-   <td>
-    <ul>
-     <li>Comments</li>
-     <li>Impressions</li>
-     <li>Concerns</li>
-    </ul>
-   </td>
-  </tr>
- </table>
+  <div class="_center">
+   <table class="_background">
+    <tr>
+     <th>More Info</th>
+     <td></td>
+     <td></td>
+    </tr>
+    <tr>
+     <th></th>
+     <td>Commit?</td>
+     <td>
+      <ul>
+       <li>Yes</li>
+       <li>No</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th>On My Way</th>
+     <td>Tell the Neighbor when to expect arrival.</td>
+     <td>
+      <ul>
+      <li>On my way, see you soon.</li>
+      <li>Will be a bit late.</li>
+      <li>Will be there after requested time.</li>
+      <li>Got the goods but can&rsquo;t deliver now, sorry.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>If getting there <span class="_quotespan">after the requested time,</span> we ask the Neighbor and the Buddy sees his response.</td>
+    <td></td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>If Buddy <span class="_quotespan">can&rsquo;t deliver now,</span> we tell the Neighbor, and &hellip;</td>
+    <td></td>
+   </tr>
+   <tr>
+    <th></th>
+     <td>Otherwise, we tell the Neighbor that the goods are on their way. And give him an update on the ETA (considering traffic, etc).</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Done?</td>
+    <td>Did you get there OK?</td>
+    <td>
+     <ul>
+      <li>Yes</li>
+      <li>No</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th></th>
+     <td>Did Jose accept the goods?</td>
+     <td>
+      <ul>
+       <li>Yes</li>
+       <li>No</li>
+       <li>Partially</li>
+      </ul>
+     </td>
+    </tr>
+   <tr>
+    <th></th>
+    <td>How do you think he felt?</td>
+    <td>
+     <ul>
+      <li>Happy!</li>
+      <li>Meh&hellip;</li>
+      <li>Unhappy?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th></th>
+    <td>Write a Review.</td>
+    <td>
+     <ul>
+      <li>Comments</li>
+      <li>Impressions</li>
+      <li>Concerns</li>
+     </ul>
+    </td>
+   </tr>
+  </table>
+ </div>
 
 <h1>Revenue</h1>
  <ul>
