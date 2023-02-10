@@ -10,7 +10,6 @@ image:    "icon-buddyneighbor.svg"
  <p>Politics is local, it starts at the grassroots. BuddyNeighbor build communities of neighbors that can talk and act together.</p>
 </div>
 
-
 <h1>Origin Story</h1>
  <p>On Mon Oct 1, 2018, my good friend Jose Contreras sent me a text out of the blue, as friends tend to do.</p>
  <p>I was curious right away and the <span class="_quotespan">community-neighborhood</span> mention got my attention. We chatted more and brainstormed about it and what came out of it.</p>
