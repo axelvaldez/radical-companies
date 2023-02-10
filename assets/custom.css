@@ -276,9 +276,13 @@ table tr {
   vertical-align:top;
   font-size:smaller;
 }
+table._background tr th {
+  border-right-width:1px;
+  border-right-color:black;
+  border-right-style:solid;
+}
 table._background tr:nth-child(odd)  {
   background-color:#EEEEEE;
-  
 }
 table._background tr ul, ul li p:last-of-type {
   margin-bottom:0;
