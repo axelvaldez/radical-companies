@@ -254,7 +254,7 @@ image:    "icon-buddyneighbor.svg"
  <p>The buddy hears a ping or feels a vibration and opens the app. If there's only one request waiting for this Buddy,</p>
   <table>
    <tr>
-    <td rowspan="2" >Receive<br>Request</td>
+    <th rowspan="2" >Receive Request</th>
     <td>Sees good(s) requested.</td>
    <td></td>
   </tr>
