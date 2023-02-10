@@ -281,6 +281,8 @@ image:    "icon-buddyneighbor.svg"
     <td>Neighbor&rsquo;s picture and other <span class="_quotespan">vitals</span></td>
     <td></td>
    </tr>
+  </table>
+  <table>
    <tr>
     <th></th>
     <td>More?</td>
@@ -291,11 +293,15 @@ image:    "icon-buddyneighbor.svg"
      </ul>
     </td>
    </tr>
+  </table>
+  <table>
    <tr>
     <th></th>
     <td>If yes, more info <strong>(?)</strong></td>
     <td></td>
    </tr>
+  </table>
+  <table>
    <tr>
     <th></th>
     <td>Commit?</td>
@@ -306,7 +312,6 @@ image:    "icon-buddyneighbor.svg"
      </ul>
     </td>
    </tr>
-  </table>
   </table>
  <p>The buddy goes about her shopping, including the requested goods. She pays for her stuff and separately for the neighbor&rsquo;s goods.</p>
  <p>Once the buddy is on her way, she lets the Neighbor know via the app.</p>
