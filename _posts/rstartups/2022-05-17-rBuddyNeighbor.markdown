@@ -276,12 +276,12 @@ image:    "icon-buddyneighbor.svg"
  <p>If the Buddy says yes to <em>considering</em> the request,</p>
   <table>
    <tr>
-    <td>More<br>Info</td>
+    <th>More<br>Info</th>
     <td>Neighbor's picture and other <span class="_quotespan">vitals</span></td>
     <td></td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>More?</td>
    <td>
     <ul>
@@ -291,12 +291,12 @@ image:    "icon-buddyneighbor.svg"
    </td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>If yes, more info <strong>(?)</strong></td>
    <td></td>
   </tr>
   <tr>
-   <td></td>
+   <th></th>
    <td>Commit?</td>
    <td>
     <ul>
@@ -304,9 +304,6 @@ image:    "icon-buddyneighbor.svg"
      <li>No</li>
     </ul>
    </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
   </tr>
  </table>
  <p>The buddy goes about her shopping, including the requested goods. She pays for her stuff and separately for the neighbor&rsquo;s goods.</p>
