@@ -17,7 +17,7 @@ image:    "icon-buddyneighbor.svg"
 <h1>Alignment</h1>
  <table>
   <tr>
-   <th>Impact<br><span style="font-family:helvetica; font-size:smaller; ">What for?</span></th>
+   <th>Impact<br><span class="_alignquestions">What for?</span></th>
    <td>
     <ul>
      <li>Communities of people ready for action.</li>
@@ -25,7 +25,7 @@ image:    "icon-buddyneighbor.svg"
    </td>
   </tr>
   <tr>
-   <th>Purpose<br><span style="font-family:helvetica; font-size:smaller; ">Why?</span></th>
+   <th>Purpose<br><span class="_alignquestions">Why?</span></th>
    <td>
     <ul>
      <li>Know thy neighbor: people get the sense of belonging they crave.</li>
@@ -34,7 +34,7 @@ image:    "icon-buddyneighbor.svg"
    </td>
   </tr>
   <tr>
-   <th>Mission<br><span style="font-family:helvetica; font-size:smaller; ">What?<br>When?<br>How?</span></th>
+   <th>Mission<br><span class="_alignquestions">What?<br>When?<br>How?</span></th>
    <td></td>
   </tr>
 </table>
