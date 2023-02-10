@@ -40,8 +40,11 @@ image:    "icon-buddyneighbor.svg"
 </table>
 
 <h1>Membership</h1>
- <p>People must become members of <span class="_paradigm">rBuddyNeighbors</span> to participate. They pay for membership (see below) and are the system&rsquo;s only customers.</p>
- <p>Members co-own the service.</p>
+ <ul>
+  <li>People must become members of <span class="_paradigm">rBuddyNeighbors</span> to participate.</li>
+  <li>They pay for membership (see below) and are the system&rsquo;s only customers.</li>
+  </li>Members co-own the service.<li>
+ </ul>
 
 <h1>Scenarios</h1>
  <p>The <strong>rBuddyNeighbor</strong> platform helps put neighbors physically in front of each other and potentially bonding by <em>doing something for each other</em>. A neighbor needs something, the buddy takes care of it, they get to know each other a little better, and they both get to feel good about themselves.</p>
