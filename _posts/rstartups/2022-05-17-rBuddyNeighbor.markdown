@@ -67,7 +67,7 @@ image:    "icon-buddyneighbor.svg"
 </ul>
 <h2>Not-so-Happy Path</h2>
  <ul>
-  <li>The buddy never shows up and Jose tells us that he is closing his request because, <span class="_quotespan">the buddy never got here.</span></li
+  <li>The buddy never shows up and Jose tells us that he is closing his request because, <span class="_quotespan">the buddy never got here.</span></li>
   <li>Then we'll tell the neighbor something like, <span class="_quotespan">Sorry. We won't be charging anything to your account. We are donating RADs to the banner to build a neighborhood gym. In any case, if you&rsquo;d like, we can let you know what Margot has to say about breaking her promise. Please, let us know if you're interested.</span></li>
   <li>We'll ask the buddy, <span class="_quotespan">What happened, you broke your promise to Jose!</span></li>
   <li>Her response might be, <span class="_quotespan">I had to go straight home right away because my neighbor found my dog in her backyard. I was all flustered and forgot to let Jose know. Later, I was just embarrassed.&rdquo; Or she could say, &ldquo;I realized halfway there that it was too risky to show up there, even with my boyfriend. He was more freaked out than I was.</span></li>
