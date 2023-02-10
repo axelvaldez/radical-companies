@@ -12,6 +12,12 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Origin Story</h1>
  <p>On Mon Oct 1, 2018, my good friend Jose Contreras sent me a text out of the blue, as friends tend to do.</p>
+ <div class="_center">
+  <img
+   src="/assets/img/pic-rbuddyneighbor.svg"
+   width="70%"
+   alt="">
+ </div>
  <p>I was curious right away and the <span class="_quotespan">community-neighborhood</span> mention got my attention. We chatted more and brainstormed about it and what came out of it.</p>
 
 <h1>Expressed Alignment</h1>
