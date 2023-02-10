@@ -150,7 +150,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
    <li>You don&rsquo;t have the recipe, but you can reach out to your aunt.</li>
    <li>You connect your aunt with the <span class="_paradigm">rBuddyNeighbors</span> cook on a video call.</li>
    <li>They figure out how to reproduce the dish. They may have to figure out alternative ingredients to use if your aunt&rsquo;s can&rsquo;t be found locally.</li>
-   <li><span class="_quotespan">There&rsquo;s a <span class="_paradigm">rBuddyNeighbors</span> at Trader Joe&rsquo;s who can get me the missing ingredients in a half hour. I can have it ready for you a half hour after that.</span></li>
+   <li><span class="_quotespan">There&rsquo;s a <span class="_paradigm">rBuddyNeighbors</span> at Trader Joe&rsquo;s who can get me the missing ingredients in a half hour. I can have it ready for you a half hour after she gets here.</span></li>
   </ul>
  <h2>Scenario 3</h2>
   <ul>
