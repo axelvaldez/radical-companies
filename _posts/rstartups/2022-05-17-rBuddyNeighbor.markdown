@@ -7,11 +7,1173 @@ image:    "icon-buddyneighbor.svg"
 ---
 
 <div style="display: none; ">
- <p>Politics is local, it starts at the grassroots. BuddyNeighbor build communities of neighbors ready for action.</p>
+ <p>Politics is local, it starts at the grassroots. BuddyNeighbor build communities of neighbors that can talk and act together.</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
- <p></p>
+<h1>Origin Story</h1>
+ <p>On Mon Oct 1, 2018, my good friend Jose Contreras sent me a text out of the blue, as friends tend to do.</p>
+ <p>I was curious right away and the “community-neighborhood” mention got my attention. We chatted more and brainstormed about it and what came out of it.</p>
+
+<h1>Alignment</h1>
+ <table>
+  <tr>
+   <th>Impact<br><span style="font-family:helvetica; font-size:smaller; ">What for?</span></th>
+   <td>
+    <ul>
+     <li>Communities of people ready for action.</li>
+    </ul> 
+   </td>
+  </tr>
+  <tr>
+   <th>Purpose<br><span style="font-family:helvetica; font-size:smaller; ">Why?</span></th>
+   <td>
+    <ul>
+     <li>Know thy neighbor: people get the sense of belonging they crave.</li>
+     <li>To build the foundation for community action.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Mission<br><span style="font-family:helvetica; font-size:smaller; ">What?<br>When?<br>How?</span></th>
+   <td></td>
+  </tr>
+</table>
+
+<h1>Membership</h1>
+ <p>People must become members of rBuddyNeighbors to participate. They pay for membership (see below) and are the system’s only customers.</p>
+ <p>Members co-own the service.</p>
+
+<h1>Scenarios</h1>
+ <p>The <strong>rBuddyNeighbor</strong> platform helps put neighbors physically in front of each other and potentially bonding by <em>doing something for each other</em>. A neighbor needs something, the buddy takes care of it, they get to know each other a little better, and they both get to feel good about themselves.</p>
+<h2>Happy Path</h2>
+
+
+<ul>
+
+<li>The buddy goes to Safeway at 11 pm.
+
+<li>A few minutes before, a neighbor put in a request for a, “A gallon of 2% milk, Organic Valley preferred, by midnight. Otherwise, bring me a half gallon of whatever they have. If it's going to take you more than one hour, ignore this, please (I need to go to sleep—got early meetings tomorrow).”
+
+<li>When the buddy gets to Safeway, the system alerts her of this request. “This will take you an extra five to ten minutes and approximate five blocks out of your route.”
+
+<li>The buddy  reviews the request and gets to see the neighbors’ “vitals” (<em>e.g.</em>, “single male, currently alone, thinks stabbing dolls is LOL” or “mom of three, the whole family is home with her "). This is a kind of creep factor that this buddy needs to know before she can safely accept a request.
+
+<li>The buddy  accepts the request.
+
+<li>The system summarizes, “You are promising to deliver one gallon of Organic Valley 2% milk to Jose at…”
+
+<li>So far, the neighbor doesn't know anything.
+
+<li>Once she accepts the request, the system will let the neighbor know that, “Your request for Organic Valley 2% milk has been accepted. We'll charge $2.70 to your account. Do you still want it?”
+
+<li>Jose, the neighbor, accepts.
+
+<li>The buddy gets her stuff, including Jose's milk, stands in line, and pays for the goods.
+
+<li>As the buddy leaves Safeway, the system alerts the neighbor that, “Your 2% Organic Valley milk is on its way and will get to you in about 10 minutes.”
+
+<li>As the buddy gets close to the neighbor’s home, rBuddyNeighbor alerts the neighbor that, “Your buddy, her name and avatar, is about to get to your home with your Organic Valley 2% milk.”
+
+<li>The buddy parks, but her boyfriend walks to Jose’s front door.
+
+<li>The neighbor communicates with Margot through the app, “Hey, there's a guy at my door, is he with you?”
+
+<li>Margot realizes his concern and says, “Oh, yes, I'll come up, too. Sorry about that.”
+
+<li>She comes up and Jose opens the door and they talk. Margot points to their place down the street, Jose tells them about getting the kids fed in the morning, Margot tells him about a neighborhood event scheduled for the weekend, they talk about the Farmer Markets in the area, …
+
+<li>Jose lets us know accepts the delivery and maybe adds a note to it, “Got the milk and got to meet a very nice buddy named Margot. I got to meet her boyfriend, too. They make a nice couple.”
+</li>
+</ul>
+<h2>Not-so-Happy Path</h2>
+
+
+<ul>
+
+<li>The buddy never shows up and Jose tells us that he is closing his request because, “the buddy never got here.”
+
+<li>Then we'll tell the neighbor something like, “Sorry. We won't be charging anything to your account. We are donating RADs to the banner to build a neighborhood gym. In any case, if you’d like, we can let you know what Margot has to say about breaking her promise. Please, let us know if you're interested.”
+
+<li>We'll ask the buddy, “What happened, you broke your promise to Jose!”
+
+<li>Her response might be, “I had to go straight home right away because my neighbor found my dog in her backyard. I was all flustered and forgot to let Jose know. Later, I was just embarrassed.” Or she could say, “I realized halfway there that it was too risky to show up there, even with my boyfriend. He was more freaked out than I was.”
+</li>
+</ul>
+ <p>Either way, the buddy and the neighbor get to note their level of satisfaction with rBuddyNeighbors.com.</p>
+<h1>Payment</h1>
+
+
+<ul>
+
+<li>All <strong>rBuddyNeighbors</strong> are subscribers and when members sign up, they include the details of how to pay and get paid.
+
+<li>The neighbor transfer method is debited to pay for the milk.
+
+<li>If the buddy had to pay, say, in cash for the milk, then that amount will be credited to her transfer account.
+</li>
+</ul>
+<h1>Use Cases</h1>
+
+
+<p>Community Services
+</p>
+<h1>Interventions</h1>
+
+
+ <p>Groups of <strong>rBuddyNeighbors</strong> can organize to deal with emergency situations nearby, from drug usage interventions to potential suicides.</p>
+ <p>They can register their group with <strong>rBuddyNeighbor</strong> as a community resource.</p>
+ <p>They'd be alerted when the system detects a pattern that fits their target.</p>
+<h1>Reuniting Friends and Family</h1>
+
+
+ <p>“Looking for John Martinez. Graduated in 1972 from Schurz HS in Chicago. Last time we were in touch he still lived in Chicago."</p>
+ <p>Not clear how this kind of request can leverage the platform.</p>
+<h1>Baby Sitting, Elder Sitting</h1>
+
+
+ <p>Seems obvious.</p>
+ <p>BTW, what this brings up is the importance of reputation for members.</p>
+<h1>Fun Buddy</h1>
+
+
+ <p>As Jose says,</p>
+<ul>
+
+<li>Pub crawls
+
+<li>Movie Nights
+
+<li>Movie buddy (“who likes going to the movies by themselves?”)
+</li>
+</ul>
+<h1>Vendors Will Know</h1>
+
+
+ <p>We can train retailers to tell people who call in an order that, “there are two people near you coming to pick up soon. If you put in a <strong>rBuddyNeighbor</strong> request, maybe one of them will deliver.”</p>
+ <p>This means that we need a UI for vendors to see <strong>rBuddyNeighbor</strong> activity that impacts them,</p>
+<ul>
+
+<li>Requests that mention them
+
+<li>Comments related to them (good/bad)
+</li>
+</ul>
+<h1>Mom-and-Pops (1/26/2019)</h1>
+
+
+ <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a neighbor or as a regular customer. Or the requestor lives within their back route and they can easily deliver it on the way home. This would fit within the model. (?)</p>
+ <p>The neighbor-owner cannot charge or add a surcharge for the delivery itself. Tips are not allowed. So, she's simply being a Buddy to a Neighbor.</p>
+ <p>This could be “gamed” if the Neighbor-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A “delivery boy” would not make the kind of connection we are aiming for between neighbors.</p>
+<h1>Together IRL</h1>
+
+
+ <p>The town of Kamikatsu, Japan, recycles 81% of its waste. Watch <a href="https://dms.licdn.com/playback/C5605AQFKkYRm_FjR1Q/4ac33b7eb67a454ebde08b9487493111/feedshare-mp4_3300-captions-thumbnails/1507940147251-drlcss?e=1548968400&v=beta&t=7ijeg8e9YGKpOenrZ9P5aqeEDKLdp8x-Pa5jih8SYt0">the video</a> and <a href="https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7">read more</a> about it. The collection center is another place for neighbors to have a positive meeting in real life. This is the kind of thing that a neighborhood can easily organize through <strong>rBuddyNeighbor</strong>.</p>
+<h1>Food</h1>
+
+
+ <p>Some people love to cook. Others, like myself, just eat. I can appreciate when I like a dish, but that's it. If anybody asks, I'll say, “it's good;” sometimes I'll even say, “it's really good.”</p>
+ <p>Even the people who like to cook, sometimes feel like not cooking. It's a harking for a special dish, you don't want to cook. But you still have to eat.</p>
+ <p>So, here's another potential <strong>rBuddyNeighbor</strong> adjunct,</p>
+<h2>Scenario 1</h2>
+
+
+<ul>
+
+<li>You'd like to eat anything.
+
+<li>“What do you have?”
+</li>
+</ul>
+<h2>Scenario 2</h2>
+
+
+<ul>
+
+<li>You'd like to eat a dish that your aunt made.
+
+<li>You don't have the recipe, but you can reach out to your aunt.
+
+<li>You connect your aunt with the <strong>rBuddyNeighbor</strong> cook on a video call.
+
+<li>They figure out how to reproduce the dish. They may have to figure out alternative ingredients to use if your aunt's can't be found locally.
+
+<li>“There's a <strong>rBuddyNeighbor</strong> at Trader Joe's who can get me the missing ingredients in a half hour. I can have it ready for you a half hour after that.”
+</li>
+</ul>
+<h2>Scenario 3</h2>
+
+
+<ul>
+
+<li>“Can I get my aunt's dish? For three this time. It turned out really good and I want my friends to taste it.”
+</li>
+</ul>
+ <p>You can pick up the food yourself (it's nearby), or you can have it delivered by a buddy.</p>
+ <p>The emphasis is in the cooking; the delivery is handled by the fact that the cooking is done nearby, in the <strong>rBuddyNeighbor</strong> sense.</p>
+<h1>Commuting</h1>
+
+
+ <p><a href="https://www.waze.com/carpool">Commuting</a> could be another thing that comes out of this. Either as a one time thing, or on a regular basis. “I need to get to San Carlos tomorrow by 10 am.” Or, “I work in Mountain View, looking for a <strong>rBuddyNeighbor</strong> to commute with.” The response from the system could be three potential <strong>rBuddyNeighbors</strong>, or three regular commutes that have already been set up and are open to another rider.</p>
+ <p>It would be commuting with people who live nearby. People that you may even know. People you can have a lasting relationship with.</p>
+<h1>International</h1>
+
+
+<p>
+Has to work anywhere in the world, and across borders. See 
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Pickups"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+<a href="#heading=h.f0r0aan8rlde">Pickups</a>.
+</p>
+ <p>For example, I can put in a request for Coyotas del Parque, Hermosillo. Alguien de acá, llega a Hermosillo y va a recibir mi pedido.</p>
+ <p>Vivimos “cerca,” es decir yo vivo en San Jose y al Buddy en Los Gatos. This is “near” the pickup radius y por eso me pasa el pedido.</p>
+ <p>Lo acepta y trae las coyotas. El Buddy indica cuándo le es conveniente el pickup. El sistema me dice que puedo ir a pasar por ellas el fin de semana.</p>
+<h1>Caveats</h1>
+
+
+<h1>Group Invitations (Community Organizing)</h1>
+
+
+ <p>The scenario is like this, I hear that there’s going to be a demonstration outside the office of a local politician. The organizers went to <strong>rBuddyNeighbor</strong> and “announced” their multi-location event. I ask for the details and the system sends my request to the organizer(s). They contact me with the details and I make arrangements to go.</p>
+ <p>The system may recommend two or three people that you've interacted with before who are also going to the demonstration.</p>
+<h1>Deplorables</h1>
+
+
+ <p>Group Invitations opens the door to Nazi rallies, or white supremacist groups. Tread carefully.</p>
+<h1>Them Deviants</h1>
+
+
+ <p>You just know that people will try to use this for prostitution, distribution of illegal drugs, and other less desirable activities.</p>
+ <p>Regardless of everything else, this would go against our impact, our purpose, and corrupt our mission. So, we'd probably have to do something about it, but … TBD.</p>
+ <p>Scanning requests will not work after a short while, and people will go crypto on us (<em>e.g.</em>, “Looking for a one-night-stand. I'll pay $300” will become “Looking for my friend, Mike. I want to return his $300.” Maybe we can spot patterns (<em>e.g.</em>, the same person always responds to the “Mike” requests).</p>
+ <p>When we detect any of this, we can kick out John and Mike (and return their membership fees). But would we also alert law enforcement? We would not have to because we are looking for and finding behavior that goes against the platform's terms of use. Whether that is also illegal or not, it is not necessarily for us to judge.</p>
+ <p>What about the case where a kid gets illegal drugs this way and overdoses?</p>
+ <p>Do we alert the nearby Neighbors for potential intervention?</p>
+<h1>Terminology</h1>
+
+
+
+<table>
+  <tr>
+   <td>
+<h3>Buddy</h3>
+
+
+   </td>
+   <td>Members who accept a goods request and commit to deliver it. A buddy is also a neighbor.
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3>Neighbor</h3>
+
+
+   </td>
+   <td>Members who 1) lives along the way, between the store and the buddy home, and 2) asked for the goods.
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3>Near</h3>
+
+
+   </td>
+   <td>Normally, “near” means people along the route (see above).
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3>Pickups</h3>
+
+
+   </td>
+   <td>Under some circumstances, the neighbor specifies a pickup location. If a buddy is bringing me something from Spain, I’ll go pick it up at the nearby town that I can drive to.
+<p>
+It makes sense to let members define what “near” and “detour” mean. There could be a,
+<ul>
+
+<li>Default setting (<em>e.g.</em>, “three blocks,” “one minute,” “within three blocks from my place”).
+
+<li>A pickup setting (<em>e.g.</em>, “anywhere in the Bay Area”).
+
+<li>A per-request setting.
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3>Route</h3>
+
+
+   </td>
+   <td>
+<h3>From the outlet back to the buddy’s next destination (<em>e.g.</em>, home). It could include short detours if the buddy agrees.</h3>
+
+
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+<h1>Appendices</h1>
+
+
+<h1>Interaction Interface</h1>
+
+
+<h2>Buddy Brings It</h2>
+
+
+
+<table>
+  <tr>
+   <td>
+<h3>Sign Up</h3>
+
+
+   </td>
+   <td>Bring back goods for a neighbor on your way back from an outlet? <strong>(?)</strong>
+   </td>
+   <td>
+<ul>
+
+<li>Yes
+
+<li>No
+
+<li>Both
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Phone.
+   </td>
+   <td>
+<ul>
+
+<li>Text
+
+<li>Voice
+
+<li>Video
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Email.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Address. <strong>(?)</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Account for Reimbursements. <strong>(?)</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Account to Pay for Goods.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+ <p>The buddy hears a ping or feels a vibration and opens the app. If there's only one request waiting for this Buddy,</p>
+
+<table>
+  <tr>
+   <td rowspan="2" >
+<h3>Receive</h3>
+
+
+<h3>Request</h3>
+
+
+   </td>
+   <td>Sees good(s) requested.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Sees that approximate time and distance to deliver it.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Consider?
+   </td>
+   <td>
+<ul>
+
+<li>Yes
+
+<li>No
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+ <p>If the Buddy says yes to <em>considering</em> the request,</p>
+
+<table>
+  <tr>
+   <td>
+<h3>More</h3>
+
+
+<h3>Info</h3>
+
+
+   </td>
+   <td>Neighbor's picture and other “vitals”
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>More?
+   </td>
+   <td>
+<ul>
+
+<li>Yes
+
+<li>No
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>If yes, more info <strong>(?)</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Commit?
+   </td>
+   <td>
+<ul>
+
+<li>Yes
+
+<li>No
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="3" >
+   </td>
+  </tr>
+</table>
+
+
+ <p>The buddy goes about her shopping, including the requested goods. She pays for her stuff and separately for the neighbor’s goods.</p>
+ <p>Once the buddy is on her way, she lets the Neighbor know via the app.</p>
+
+<table>
+  <tr>
+   <td>
+<h3>On My Way</h3>
+
+
+   </td>
+   <td>Tell the Neighbor what to expect.
+   </td>
+   <td>
+<ul>
+
+<li>On my way, see you soon.
+
+<li>Will be a bit late.
+
+<li>Will be there after requested time.
+
+<li>Got the goods but can't deliver now, sorry.
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>If getting there “after the requested time,” we ask the neighbor and the buddy sees his response.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>If buddy “can't deliver now,” we tell the neighbor, and …
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Otherwise, we tell the neighbor that the goods are on their way. And give him an update on the ETA (considering traffic, etc).
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="3" >
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td>
+<h3>Done? </h3>
+
+
+   </td>
+   <td>Did you get there OK?
+   </td>
+   <td>
+<ul>
+
+<li>Yes
+
+<li>No
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Did Jose accept the goods?
+   </td>
+   <td>
+<ul>
+
+<li>Yes
+
+<li>No
+
+<li>Partially
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>How do you think he felt?
+   </td>
+   <td>
+<ul>
+
+<li>Happy!
+
+<li>Meh…
+
+<li>Unhappy?
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Write a Review.
+   </td>
+   <td>
+<ul>
+
+<li>Comments
+
+<li>Impressions
+
+<li>Corerns
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="3" >
+   </td>
+  </tr>
+</table>
+
+
+<h2>Neighbor Gets It</h2>
+
+
+
+<table>
+  <tr>
+   <td>
+<h3>Sign Up</h3>
+
+
+   </td>
+   <td>Bring back goods for a neighbor on your way back from an outlet? (?)
+   </td>
+   <td>
+<ul>
+
+<li>Yes
+
+<li>No
+
+<li>Both
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Phone.
+   </td>
+   <td>
+<ul>
+
+<li>Text
+
+<li>Voice
+
+<li>Video
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Email.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Address. (?)
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Account for Payments. (?)
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Account to Pay for Goods.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+ <p>The buddy hears a ping or senses a vibration and opens the app. If there's only one request waiting for this buddy,</p>
+
+<table>
+  <tr>
+   <td>
+<h3>Create Request</h3>
+
+
+   </td>
+   <td>Requests good(s).
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>“We will let you know as soon as somebody responds. Keep your phone nearby.”
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>“It looks like one of your neighbors may be at an outlet that has your request(s)” <strong>(?)</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+ <p>If the buddy says yes to <em>considering</em> the request,</p>
+
+<table>
+  <tr>
+   <td>
+<h3>More Info</h3>
+
+
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Commit?
+   </td>
+   <td>
+<ul>
+
+<li>Yes
+
+<li>No
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td>
+<h3>On My Way</h3>
+
+
+   </td>
+   <td>Tell the Neighbor when to expect arrival.
+   </td>
+   <td>
+<ul>
+
+<li>On my way, see you soon.
+
+<li>Will be a bit late.
+
+<li>Will be there after requested time.
+
+<li>Got the goods but can't deliver now, sorry.
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>If getting there “after the requested time,” we ask the Neighbor and the Buddy sees his response.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>If Buddy “can't deliver now,” we tell the Neighbor, and …
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Otherwise, we tell the Neighbor that the goods are on their way. And give him an update on the ETA (considering traffic, etc).
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td>
+<h3>Done?</h3>
+
+
+   </td>
+   <td>Did you get there OK?
+   </td>
+   <td>
+<ul>
+
+<li>Yes
+
+<li>No
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Did Jose accept the goods?
+   </td>
+   <td>
+<ul>
+
+<li>Yes
+
+<li>No
+
+<li>Partially
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>How do you think he felt?
+   </td>
+   <td>
+<ul>
+
+<li>Happy!
+
+<li>Meh…
+
+<li>Unhappy?
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Write a Review.
+   </td>
+   <td>
+<ul>
+
+<li>Comments
+
+<li>Impressions
+
+<li>Corerns
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+<h1>Revenue</h1>
+
+
+<ul>
+
+<li><strong>rBuddyNeighbors</strong> pay a membership fee to become rBuddyNeighbors.com members. That's (mostly) it. This will be a very small fee and the top-line growth for rBuddyNeighbors.com is based on that. Our financial success is based on volume with lots (and lots) of people signing up.
+
+<li>We will also pay and collect for the goods, but there won't be any markup.
+
+<li>Buddies may get rewards for their service. The trick is not to let these “rewards” become the goal for members. The goal is for Neighbors to get to know other Neighbors. For example, they may get valuable reward for their community.
+
+<li><strong>rBuddyNeighbors</strong> are our only paying customers. They and their neighborhoods must be the primary beneficiaries. I believe that our democracy will be the ultimate beneficiary.
+
+<li><strong>rBuddyNeighbor</strong>'s purpose is to make it easy to have Neighbors meet each other in real life, being serviciable to one another, bonding over a good deed done, a good deed received.
+
+<li><strong>rBuddyNeighbor</strong> does not depend on goods outlets or any other revenue. Members are customers. Clear and simple.
+
+<li>Outlets can contribute to local funds and projects on behalf of <strong>rBuddyNeighbors</strong>. Not, “Check out your Tuesday discounts” but “come Tuesday and get your <strong>rBuddyNeighbors</strong> and we’ll contribute X% of all sales to …”
+</li>
+</ul>
+<h1>Jose Contrera's Vision</h1>
+
+
+  <tr>
+   <td>
+<h3>Elevator Pitch</h3>
+
+
+   </td>
+   <td>When you are somewhere but don’t have time to get up and go…don’t go hungry or thirsty but leverage your friends and family who are nearby already out and about to bring you back anything from a Starbucks, pizza to even groceries.
+</p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3>Purpose</h3>
+
+
+   </td>
+   <td>To capitalize on the growing trend of food delivery options and ride service segments to create social commerce by leveraging friendships and relationships on media like Facebook, Instagram, Snap-chat etc..
+</p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3>How its done and with whom</h3>
+
+
+   </td>
+   <td>Creating a mobile application where people can sign up and create profiles to make them visible at various food and drink locations. A user can toggle back and forth between being a Buyer or a Flyer. The buyer is looking for services and the Flyer is providing the delivery services.
+</p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3>Where and why</h3>
+
+
+   </td>
+   <td>Ideally you can provide services to within a 30 minute delivery time window or locate someone within a specified geo range of 5, 10 or 15 miles . this can be determined by the need of the item and anything as random as an item from Costco
+</p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3>QQ1:<br>How do we make money? </h3>
+
+
+   </td>
+   <td>
+<ul>
+
+<li>By enlisting the restaurants and stores as being part of the “My Neighbor” network
+
+<li>Hosting the commerce and transactions on a secured platform and charging a small percentage of the transaction
+
+<li>Become acquired by Uber eats or Doordash or some competing entity
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3>QQ2:<br>How does it impact the world?</h3>
+
+
+   </td>
+   <td>Impact the world by being able to expedite the food ordering and delivery process by leveraging friends, family and neighbors who are already in flight to desired locations.
+</p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3>QQ3:<br>Exit Strategy? </h3>
+
+
+   </td>
+   <td>The ultimate exit strategy is to create , operate and then sell a very creative and innovative technology food service company that has become disruptive to players like Uber and Doordash. Could be an attractive adjacent business for OpenTable or Nextdoor.
+</p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<h3>QQ4: <br>What do you have to accomplish to get there?</h3>
+
+
+   </td>
+   <td>Create energy and buzz around the concept of social commerce and a better more neighborly way to shop while optimizing time.
+</p>
+<ul>
+
+<li>Create a following and enlist support from food and drink establishments
+
+<li>Be disruptive to the status quo
+
+<li>Create a better option to ride share service, put a familiar face on who you get into a car with or who you let into your car. 
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Alignment</h1>
  <table>
