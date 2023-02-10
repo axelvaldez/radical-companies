@@ -582,6 +582,8 @@ image:    "icon-buddyneighbor.svg"
    <th>Where and why</th>
    <td>Ideally you can provide services to within a 30 minute delivery time window or locate someone within a specified geo range of 5, 10 or 15 miles . this can be determined by the need of the item and anything as random as an item from Costco</td>
   </tr>
+ </table>
+ <table>
   <tr>
    <th>QQ1:<br>How do we make money?</th>
    <td>
