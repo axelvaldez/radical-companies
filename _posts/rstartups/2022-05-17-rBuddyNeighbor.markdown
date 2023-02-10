@@ -269,17 +269,12 @@ image:    "icon-buddyneighbor.svg"
      <td>
       <ul>
        <li>Sees good(s) requested.</li>
+       <li>Sees that approximate time and distance to deliver it.</li>
       </ul>
      </td>
-     <td></td>
     </tr>
     <tr>
-     <td>Sees that approximate time and distance to deliver it.</td>
-     <td></td>
-    </tr>
-    <tr>
-     <td></td>
-     <td>Consider?</td>
+     <th>Consider?</th>
      <td>
       <ul>
        <li>Yes</li>
