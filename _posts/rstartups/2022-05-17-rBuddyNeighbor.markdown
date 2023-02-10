@@ -597,7 +597,7 @@ image:    "icon-buddyneighbor.svg"
   </tr>
   <tr>
    <th>QQ3:<br>Exit Strategy?</th>
-   <td>The ultimate exit strategy is to create , operate and then sell a very creative and innovative technology food service company that has become disruptive to players like  U ber and Doordash. Could be an attractive adjacent business for OpenTable or Nextdoor.</td>
+   <td>The ultimate exit strategy is to create , operate and then sell a very creative and innovative technology food service company that has become disruptive to players like Uber and Doordash. Could be an attractive adjacent business for OpenTable or Nextdoor.</td>
   </tr>
   <tr>
    <th>QQ4:<br>What do you have to accomplish to get there?</th>
