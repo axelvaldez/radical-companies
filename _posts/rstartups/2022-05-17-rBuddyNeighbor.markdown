@@ -266,24 +266,28 @@ image:    "icon-buddyneighbor.svg"
    <table class="_background">
     <tr>
      <th rowspan="2" >Receive Request</th>
-     <td>Sees good(s) requested.</td>
-    <td></td>
-   </tr>
-   <tr>
-    <td>Sees that approximate time and distance to deliver it.</td>
-    <td></td>
-   </tr>
-   <tr>
-    <td></td>
-    <td>Consider?</td>
-    <td>
-     <ul>
-      <li>Yes</li>
-      <li>No</li>
-     </ul>
-    </td>
-   </tr>
-  </table>
+     <td>
+      <ul>
+       <li>Sees good(s) requested.</li>
+      </ul>
+     </td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>Sees that approximate time and distance to deliver it.</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td></td>
+     <td>Consider?</td>
+     <td>
+      <ul>
+       <li>Yes</li>
+       <li>No</li>
+      </ul>
+     </td>
+    </tr>
+   </table>
   </div>
  <p>If the Buddy says yes to <em>considering</em> the request,</p>
   <div class="_center">
@@ -490,73 +494,73 @@ image:    "icon-buddyneighbor.svg"
      <td>Tell the Neighbor when to expect arrival.</td>
      <td>
       <ul>
-      <li>On my way, see you soon.</li>
-      <li>Will be a bit late.</li>
-      <li>Will be there after requested time.</li>
-      <li>Got the goods but can&rsquo;t deliver now, sorry.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th></th>
-    <td>If getting there <span class="_quotespan">after the requested time,</span> we ask the Neighbor and the Buddy sees his response.</td>
-    <td></td>
-   </tr>
-   <tr>
-    <th></th>
-    <td>If Buddy <span class="_quotespan">can&rsquo;t deliver now,</span> we tell the Neighbor, and &hellip;</td>
-    <td></td>
-   </tr>
-   <tr>
-    <th></th>
+       <li>On my way, see you soon.</li>
+       <li>Will be a bit late.</li>
+       <li>Will be there after requested time.</li>
+       <li>Got the goods but can&rsquo;t deliver now, sorry.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th></th>
+     <td>If getting there <span class="_quotespan">after the requested time,</span> we ask the Neighbor and the Buddy sees his response.</td>
+     <td></td>
+    </tr>
+    <tr>
+     <th></th>
+     <td>If Buddy <span class="_quotespan">can&rsquo;t deliver now,</span> we tell the Neighbor, and &hellip;</td>
+     <td></td>
+    </tr>
+    <tr>
+     <th></th>
      <td>Otherwise, we tell the Neighbor that the goods are on their way. And give him an update on the ETA (considering traffic, etc).</td>
-    <td></td>
-   </tr>
-   <tr>
-    <td>Done?</td>
-    <td>Did you get there OK?</td>
-    <td>
-     <ul>
-      <li>Yes</li>
-      <li>No</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th></th>
-     <td>Did Jose accept the goods?</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>Done?</td>
+     <td>Did you get there OK?</td>
      <td>
       <ul>
        <li>Yes</li>
        <li>No</li>
-       <li>Partially</li>
       </ul>
      </td>
     </tr>
-   <tr>
-    <th></th>
-    <td>How do you think he felt?</td>
-    <td>
-     <ul>
-      <li>Happy!</li>
-      <li>Meh&hellip;</li>
-      <li>Unhappy?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th></th>
-    <td>Write a Review.</td>
-    <td>
-     <ul>
-      <li>Comments</li>
-      <li>Impressions</li>
-      <li>Concerns</li>
-     </ul>
-    </td>
-   </tr>
-  </table>
- </div>
+    <tr>
+     <th></th>
+      <td>Did Jose accept the goods?</td>
+      <td>
+       <ul>
+        <li>Yes</li>
+        <li>No</li>
+        <li>Partially</li>
+       </ul>
+      </td>
+     </tr>
+    <tr>
+     <th></th>
+     <td>How do you think he felt?</td>
+     <td>
+      <ul>
+       <li>Happy!</li>
+       <li>Meh&hellip;</li>
+       <li>Unhappy?</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th></th>
+     <td>Write a Review.</td>
+     <td>
+      <ul>
+       <li>Comments</li>
+       <li>Impressions</li>
+       <li>Concerns</li>
+      </ul>
+     </td>
+    </tr>
+   </table>
+  </div>
 
 <h1>Revenue</h1>
  <ul>
