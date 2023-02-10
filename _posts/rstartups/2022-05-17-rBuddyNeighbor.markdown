@@ -20,7 +20,7 @@ image:    "icon-buddyneighbor.svg"
    <th>Impact<br><span class="_alignquestions">What for?</span></th>
    <td>
     <ul>
-     <li>Communities of people ready for action.</li>
+     <li>Help create communities ready for action.</li>
     </ul> 
    </td>
   </tr>
