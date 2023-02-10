@@ -551,7 +551,7 @@ image:    "icon-buddyneighbor.svg"
  </ul>
 
 <h1>Jose Contrera&rsquo;s Vision</h1>
- <table class="_foumdation">
+ <table class="_background">
   <tr>
    <th>Elevator Pitch</th>
    <td>When you are somewhere but don&rsquo;t have time to get up and go&hellip;don&rsquo;t go hungry or thirsty but leverage your friends and family who are nearby already out and about to bring you back anything from a Starbucks, pizza to even groceries.</td>
