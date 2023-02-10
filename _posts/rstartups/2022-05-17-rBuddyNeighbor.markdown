@@ -635,7 +635,7 @@ image:    "icon-buddyneighbor.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-    <p>For example, this could be <span class="_quotespan">single male, currently alone, thinks stabbing dolls is LOLZ.<span></p>
+    <p>For example, this could be <span class="_quotespan">single male, currently alone, thinks stabbing dolls is LOLZ.</span></p>
     <p>Or <span class="_quotespan">mom of three, the whole family is home with her.</span></p>
     <p>This is kind of creep factor that Buddies needs to know before she can safely accept a goods request.</p>
     <p>We need to verify this info. Otherwise, we need to let the Buddy know that <span class="_quotespan">this is what the Neighbor says</span> and let her decide.</p>
