@@ -652,13 +652,9 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
  <ul>
   <li id="en01">
    <p class="_list-item">
-    <div>For example, this could be <span class="_quotespan">single male, currently alone, thinks stabbing dolls is LOLZ.</span></div>
-    <div>Or <span class="_quotespan">mom of three, the whole family is home with her.</span></div>
-    <div>This is kind of creep factor that Buddies needs to know before she can safely accept a goods request.</div>
-    <div>We need to verify this info. Otherwise, we need to let the Buddy know that <span class="_quotespan">this is what the Neighbor says</span> and let her decide.</div>
-    <div>The Neighbor may say he&rsquo;s alone, but we can hear a party going on in the background, or some strange, creepy noises.</div>
-    <div>We feed this back to the Neighbor but he claims <span class="_quotespan">it&rsquo;s just YouTube, sorry.</span> But we can tell the difference and, again, feed that back to the Neighbor.</div>
-    <div>We communicate all this to the Buddy and she can make an informed decision. It may be that when she finds out the Neighbor&rsquo;s name and address, she figures that that is the very party she was going to. Or she may decline the goods request right then and there.</div>
+    <div>For example, this could be <span class="_quotespan">single male, currently alone, thinks stabbing dolls is LOLZ.</span> Or, <span class="_quotespan">mom of three, the whole family is home with her.</span></div>
+    <div>This is kind of creep factor that a Buddie need to know before she can safely accept a request. We need to verify this info. Otherwise, we need to let the Buddy know that <span class="_quotespan">this is what the Neighbor claims</span> and let her decide.</div>
+    <div>The Neighbor may say he&rsquo;s alone, but we can hear a party going on in the background, or some strange, creepy noises. We feed this back to the Neighbor but he claims <span class="_quotespan">it&rsquo;s just YouTube, sorry.</span> But we can tell the difference and, again, feed that back to the Neighbor. We communicate all this to the Buddy and she can make an informed decision. It may be that when she finds out the Neighbor&rsquo;s name and address, she figures that that is the very party she was going to. Or she may decline the goods request right then and there.</div>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </div>
   </li>
