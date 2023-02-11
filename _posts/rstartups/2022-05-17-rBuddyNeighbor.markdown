@@ -181,9 +181,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
 
 <h1>International</h1>
  <p>Has to work anywhere in the world, and across borders. See <a href="#_pickups">Pickups</a>.</p>
- <p>For example, I can put in a request for Coyotas del Parque, Hermosillo. Alguien de acá, llega a Hermosillo y va a recibir mi pedido.</p>
- <p>Vivimos <span class="_quotespan">cerca,&rdquo; es decir yo vivo en San Jose y al Buddy en Los Gatos. This is &ldquo;near</span> the pickup radius y por eso me pasa el pedido.</p>
- <p>Lo acepta y trae las coyotas. El Buddy indica cuándo le es conveniente el pickup. El sistema me dice que puedo ir a pasar por ellas el fin de semana.</p>
+ <p>For example, I can put in a request for Coyotas del Parque, Hermosillo. Somebody from my neighborhood who happens to be in Hermosillo, picks up my order and brings it. Since we live nearby, my Buddy let&rsquo;s me know when I can pick them up at his place.</p>
 
 <h1>Caveats</h1>
  <p></p>
