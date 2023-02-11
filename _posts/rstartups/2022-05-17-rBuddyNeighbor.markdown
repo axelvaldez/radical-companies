@@ -674,8 +674,8 @@ image:    "icon-buddyneighbor.svg"
    <p class="_list-item">
     <div><em>The simple way this Japanese town has become nearly zero-waste</em>.
     <a href="https://radicals.world/RFSMZi">https://radicals.world/RFSMZi</a></div>
-    <div><em>Japan’s ‘Zero Waste’ Village Is a Model for Small-Town Sustainability</em>.
-    <div><a href="https://radicals.world/qRtlWM">https://radicals.world/qRtlWM</a></div>.
+    <div><em>Japan&rsquo;s &lsquo;Zero Waste&rsquo; Village Is a Model for Small-Town Sustainability</em>.
+    <div><a href="https://radicals.world/qRtlWM">https://radicals.world/qRtlWM</a>.
     <a class="_uparrow" href="#bm21"><img src="/assets/img/arrow-up-icon.png"></a></div>
    </p>
   </li>
