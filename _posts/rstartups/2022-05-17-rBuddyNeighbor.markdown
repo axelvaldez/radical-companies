@@ -669,7 +669,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
    <p class="_list-item">
     <div>Local Commerce and small business owner opportunities&hellip; create a presence with people that are near the areas you serve: dry cleaners/ restaurants, maybe even mobile food trucks?</div>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-   </div>
+   </p>
   </li>
   <li id="en04">
    <p class="_list-item">
