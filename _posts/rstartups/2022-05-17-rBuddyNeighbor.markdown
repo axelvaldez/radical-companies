@@ -179,6 +179,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
      </td>
     </tr>
    </table>
+  </div>
  <p>You can pick up the food yourself (it&rsquo;s nearby), or you can have it delivered by a buddy.</p>
  <p>The emphasis is in the cooking; the delivery is handled by the fact that the cooking is done nearby, in the <span class="_paradigm">rBuddyNeighbors</span> sense.</p>
 
