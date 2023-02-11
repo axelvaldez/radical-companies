@@ -659,8 +659,8 @@ image:    "icon-buddyneighbor.svg"
   </li>
   <li id="en02">
    <p class="_list-item">
-    <div>Or when she turns on the car. We know this because we are listening on her phone&rsquo;s mic? Kind of creepy? What if she went with a boyfriend and they are talking about the great sex they are going to have when they get home?</div>
-    <div>It could have a handy screen to signal <span class="_quotespan">On my way.</span>
+    <div style="font-size:smaller; ">Or when she turns on the car. We know this because we are listening on her phone&rsquo;s mic? Kind of creepy? What if she went with a boyfriend and they are talking about the great sex they are going to have when they get home?</div>
+    <div style="font-size:smaller; ">It could have a handy screen to signal <span class="_quotespan">On my way.</span>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a></div>
    </p>
   </li>
