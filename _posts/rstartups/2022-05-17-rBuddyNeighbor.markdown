@@ -672,7 +672,6 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
     <a class="_uparrow" href="#bm20><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-   getting people physically connected with each other.
   <li id="en03">
    <p class="_list-item">
     <div>Local Commerce and small business owner opportunities&hellip; create a presence with people that are near the areas you serve: dry cleaners/ restaurants, maybe even mobile food trucks?</div>
