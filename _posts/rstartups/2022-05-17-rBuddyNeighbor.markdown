@@ -721,7 +721,6 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
   </li>
   <li id="en12">
    <p class="_list-item">
-    <p>Or&hellip; all of the above?</p>
     <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -732,7 +731,6 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
   </li>
   <li id="en14">
    <p class="_list-item">
-    <p>Or&hellip; all of the above?</p>
     <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
