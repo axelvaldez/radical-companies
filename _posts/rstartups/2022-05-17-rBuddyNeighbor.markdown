@@ -675,7 +675,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
    <p class="_list-item">
     <div>It remains at all times, even when you accept a goods request.</div>
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
-   </pxx>
+   </p>
   </li>
   <li id="en05">
    <p class="_list-item">
