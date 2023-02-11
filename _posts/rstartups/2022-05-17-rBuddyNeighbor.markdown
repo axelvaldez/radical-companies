@@ -666,17 +666,17 @@ image:    "icon-buddyneighbor.svg"
   </li>
   <li id="en20">
    <p class="_list-item">
-    <div>Getting people physically connected with each other.
-    <a class="_uparrow" href="#bm20"><img src="/assets/img/arrow-up-icon.png"></a></div>
+    Getting people physically connected with each other.
+    <a class="_uparrow" href="#bm20"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en21">
    <p class="_list-item">
-    <div><em>The simple way this Japanese town has become nearly zero-waste</em>.
-    <a href="https://radicals.world/RFSMZi">https://radicals.world/RFSMZi</a></div>
-    <div><em>Japan&rsquo;s &lsquo;Zero Waste&rsquo; Village Is a Model for Small-Town Sustainability</em>.
-    <div><a href="https://radicals.world/qRtlWM">https://radicals.world/qRtlWM</a>.
-    <a class="_uparrow" href="#bm21"><img src="/assets/img/arrow-up-icon.png"></a></div>
+    <em>The simple way this Japanese town has become nearly zero-waste</em>.
+    <a href="https://radicals.world/RFSMZi">https://radicals.world/RFSMZi</a>
+    <em>Japan&rsquo;s &lsquo;Zero Waste&rsquo; Village Is a Model for Small-Town Sustainability</em>.
+    <a href="https://radicals.world/qRtlWM">https://radicals.world/qRtlWM</a>.
+    <a class="_uparrow" href="#bm21"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
