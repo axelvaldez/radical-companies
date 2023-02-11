@@ -704,18 +704,10 @@ image:    "icon-buddyneighbor.svg"
     </div>
    </p>
   </li>
-  <li id="en04">
-   <p class="_list-item">
-    <div class="_p">
-     It remains at all times, even when you accept a goods request.
-     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
   <li id="en05">
    <p class="_list-item">
     <div class="_p">
-     The same way that Lyft shows you the drivers who are nearby, we should be able to figure out who&rsquo;s nearby an outlet that has the goods the the Neighbor requested.
+     We should be able to figure out who&rsquo;s 1) nearby an outlet and 2) can get the goods the the Neighbor requested.
      <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
    </p>
