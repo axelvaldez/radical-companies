@@ -126,7 +126,7 @@ image:    "icon-buddyneighbor.svg"
   </ul>
 
 <h1>Mom-and-Pops (1/26/2019)</h1>
- <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a neighbor or as a regular customer. Or the requestor lives within their back route and they can easily deliver it on the way home. This would fit within the model.<a href="#en03"><sup id="bm03">&hairsp;?&hairsp;</sup></a>.</p>
+ <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a neighbor or as a regular customer. Or the requestor lives within their back route and they can easily deliver it on the way home. This would fit within the model.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>.</p>
  <p>The neighbor-owner cannot charge or add a surcharge for the delivery itself. Tips are not allowed, because it is not about making a living, it is about connecting and &rsquo;s simply being a Buddy to a Neighbor.</p>
  <p>This could be <span class="_quotespan">gamed&rdquo; if the Neighbor-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A &ldquo;delivery</span> person would not make the kind of connection we are aiming for between neighbors. This can easily be detected by the Neighbor and reported to the platform. It would end up in a conversation, probably between the grocer anb the affected neighbor. Again, connection.</p>
 
