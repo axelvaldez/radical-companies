@@ -187,7 +187,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
  <p></p>
 
 <h1>Group Invitations (Community Organizing)</h1>
- <p>The scenario is like this, I hear that there&rsquo;s going to be a demonstration outside the office of a local politician. The organizers went to <strong>rBuddyNeighbor</strong> and <span class="_quotespan">announced</span> their multi-location event. I ask for the details and the system sends my request to the organizer(s). They contact me with the details and I make arrangements to go.</p>
+ <p>The scenario is like this, I hear that there&rsquo;s going to be a demonstration outside the office of a local politician. The organizers went to <span class="_paradigm">rBuddyNeighbor</span>s and announced their multi-location event. I ask for the details and the system sends my request to the organizer(s). They contact me with the details and I make arrangements to go.</p>
  <p>The system may recommend two or three people that you&rsquo;ve interacted with before who are also going to the demonstration.</p>
 
 <h1>Deplorables</h1>
