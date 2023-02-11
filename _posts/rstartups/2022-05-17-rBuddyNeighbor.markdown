@@ -660,24 +660,24 @@ image:    "icon-buddyneighbor.svg"
   <li id="en02">
    <p class="_list-item">
     <div>Or when she turns on the car. We know this because we are listening on her phone&rsquo;s mic? Kind of creepy? What if she went with a boyfriend and they are talking about the great sex they are going to have when they get home?</div>
-    <div>It could have a handy screen to signal <span class="_quotespan">On my way.</span></div>
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div>It could have a handy screen to signal <span class="_quotespan">On my way.</span>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a></div>
    </p>
   </li>
   <li id="en20">
    <p class="_list-item">
-    <div>Getting people physically connected with each other.</div>
-    <a class="_uparrow" href="#bm20"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div>Getting people physically connected with each other.
+    <a class="_uparrow" href="#bm20"><img src="/assets/img/arrow-up-icon.png"></a></div>
    </p>
   </li>
   <li id="en21">
    <p class="_list-item">
-    <div>The simple way this Japanese town has become nearly zero-waste.</div>
-    <div><a href="https://radicals.world/RFSMZi">https://radicals.world/RFSMZi</a></div>
+    <div>The simple way this Japanese town has become nearly zero-waste.
+    <a href="https://radicals.world/RFSMZi">https://radicals.world/RFSMZi</a></div>
     <br>
     <div>Japan’s ‘Zero Waste’ Village Is a Model for Small-Town Sustainability</div>.
-    <div><a href="https://radicals.world/qRtlWM">https://radicals.world/qRtlWM</a></div>
-    <a class="_uparrow" href="#bm21"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div><a href="https://radicals.world/qRtlWM">https://radicals.world/qRtlWM</a>
+    <a class="_uparrow" href="#bm21"><img src="/assets/img/arrow-up-icon.png"></a></div>
    </p>
   </li>
   <li id="en03">
