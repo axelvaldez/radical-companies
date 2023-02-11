@@ -689,6 +689,8 @@ image:    "icon-buddyneighbor.svg"
      <em>The simple way this Japanese town has become nearly zero-waste</em>.
      <a href="https://radicals.world/RFSMZi">https://radicals.world/RFSMZi</a>
      <em>Japan&rsquo;s &lsquo;Zero Waste&rsquo; Village Is a Model for Small-Town Sustainability</em>.
+    </div>
+    <div class="_p">
      <a href="https://radicals.world/qRtlWM">https://radicals.world/qRtlWM</a>.
      <a class="_uparrow" href="#bm21"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
@@ -696,90 +698,124 @@ image:    "icon-buddyneighbor.svg"
   </li>
   <li id="en03">
    <p class="_list-item">
-    Local Commerce and small business owner opportunities&hellip; create a presence with people that are near the areas you serve: dry cleaners/ restaurants, maybe even mobile food trucks?
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     Local Commerce and small business owner opportunities&hellip; create a presence with people that are near the areas you serve: dry cleaners/ restaurants, maybe even mobile food trucks?
+     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
   <li id="en04">
    <p class="_list-item">
-    It remains at all times, even when you accept a goods request.
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     It remains at all times, even when you accept a goods request.
+     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
   <li id="en05">
    <p class="_list-item">
-    The same way that Lyft shows you the drivers who are nearby, we should be able to figure out who&rsquo;s nearby an outlet that has the goods the the Neighbor requested.
-    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     The same way that Lyft shows you the drivers who are nearby, we should be able to figure out who&rsquo;s nearby an outlet that has the goods the the Neighbor requested.
+     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
   <li id="en06">
    <p class="_list-item">
-    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
   <li id="en07">
    <p class="_list-item">
-    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
   <li id="en08">
    <p class="_list-item">
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
   <li id="en09">
    <p class="_list-item">
-    <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
   <li id="en10">
    <p class="_list-item">
-    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
   <li id="en11">
    <p class="_list-item">
-    <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
   <li id="en12">
    <p class="_list-item">
-    <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
   <li id="en13">
    <p class="_list-item">
-    <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
   <li id="en14">
    <p class="_list-item">
-    <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
   <li id="en15">
    <p class="_list-item">
-    <a class="_uparrow" href="#bm15"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     <a class="_uparrow" href="#bm15"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
   <li id="en16">
    <p class="_list-item">
-    <a class="_uparrow" href="#bm16"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     <a class="_uparrow" href="#bm16"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
   <li id="en17">
    <p class="_list-item">
-    <a class="_uparrow" href="#bm17"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     <a class="_uparrow" href="#bm17"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
   <li id="en18">
    <p class="_list-item">
-    <a class="_uparrow" href="#bm18"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     <a class="_uparrow" href="#bm18"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
   <li id="en19">
    <p class="_list-item">
-    <a class="_uparrow" href="#bm19"><img src="/assets/img/arrow-up-icon.png"></a>
+    <div class="_p">
+     <a class="_uparrow" href="#bm19"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
    </p>
   </li>
  </ul>
