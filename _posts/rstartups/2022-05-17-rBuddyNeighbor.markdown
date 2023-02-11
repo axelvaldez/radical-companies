@@ -656,7 +656,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
     <div>This is kind of creep factor that a Buddie need to know before she can safely accept a request. We need to verify this info. Otherwise, we need to let the Buddy know that <span class="_quotespan">this is what the Neighbor claims</span> and let her decide.</div>
     <div>The Neighbor may say he&rsquo;s alone, but we can hear a party going on in the background, or some strange, creepy noises. We feed this back to the Neighbor but he claims <span class="_quotespan">it&rsquo;s just YouTube, sorry.</span> But we can tell the difference and, again, feed that back to the Neighbor. We communicate all this to the Buddy and she can make an informed decision. It may be that when she finds out the Neighbor&rsquo;s name and address, she figures that that is the very party she was going to. Or she may decline the goods request right then and there.</div>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </div>
+   </p>
   </li>
   <li id="en02">
    <p class="_list-item">
