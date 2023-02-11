@@ -756,7 +756,6 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
    </p>
   </li>
  </ul>
-
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
