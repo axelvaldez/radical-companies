@@ -663,7 +663,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
     <div>Or when she turns on the car.</div>
     <div>And how would we know this? Listening on her phone&rsquo;s mic? Kind of creepy?</div>
     <div>What if she went with a boyfriend and they are talking about the great sex they are going to have when they get home?</div>
-    <div>It could be like Waze, with a handy (handier than Waze) screen to signal <span class="_quotespan">On my way.<spam></div>
+    <div>It could be like Waze, with a handy (handier than Waze) screen to signal <span class="_quotespan">On my way.<span></div>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
