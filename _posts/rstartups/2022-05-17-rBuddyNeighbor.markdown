@@ -56,7 +56,7 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Scenarios</h1>
  <p>The <span class="_paradigm">rBuddyNeighbors</span> platform helps put neighbors physically in front of each other and potentially bonding by <em>doing something for each other</em>. A neighbor needs something, the buddy takes care of it, they get to know each other a little better, and they both get to feel good about themselves.</p>
- <h2>Happy Path</h2>
+ <h2>Happy Path Example</h2>
   <ul>
    <li>The buddy goes to Safeway at 11 pm.</li>
    <li>A few minutes before, a neighbor put in a request for a, <span class="_quotespan">A gallon of 2% milk, Organic Valley preferred, by midnight. Otherwise, bring me a half gallon of whatever they have. If it&rsquo;s going to take you more than one hour, ignore this, please (I need to go to sleep—got early meetings tomorrow).</span></li>
@@ -76,7 +76,7 @@ image:    "icon-buddyneighbor.svg"
    <li>She comes up and Jose opens the door and they talk. Margot points to their place down the street, Jose tells them about getting the kids fed in the morning, Margot tells him about a neighborhood event scheduled for the weekend, they talk about the Farmer Markets in the area, &hellip;</li>
    <li>Jose lets us know accepts the delivery and maybe adds a note to it, <span class="_quotespan">Got the milk and got to meet a very nice buddy named Margot. I got to meet her boyfriend, too. They make a nice couple.</span></li>
 </ul>
-<h2>Not-so-Happy Path</h2>
+<h2>Not-so-Happy Path Example</h2>
  <ul>
   <li>The buddy never shows up and Jose tells us that he is closing his request because, <span class="_quotespan">the buddy never got here.</span></li>
   <li>Then we&rsquo;ll tell the neighbor something like, <span class="_quotespan">Sorry. We won&rsquo;t be charging anything to your account. We are donating RADs to the banner to build a neighborhood gym. In any case, if you&rsquo;d like, we can let you know what Margot has to say about breaking her promise. Please, let us know if you&rsquo;re interested.</span></li>
