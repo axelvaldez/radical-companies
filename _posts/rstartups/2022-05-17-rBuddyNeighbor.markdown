@@ -148,7 +148,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
        <li>You&rsquo;d like to eat anything.</li>
        <li><span class="_quotespan">What do you have?</span></li>
       </ul>
-     <td>
+     </td>
     </tr>
    </table>
   </div>
@@ -165,7 +165,7 @@ aaa
        <li>They figure out how to reproduce the dish. They may have to figure out alternative ingredients to use if your aunt&rsquo;s can&rsquo;t be found locally.</li>
        <li><span class="_quotespan">There&rsquo;s a <span class="_paradigm">rBuddyNeighbors</span> at Trader Joe&rsquo;s who can get me the missing ingredients in a half hour. I can have it ready for you a half hour after she gets here.</span></li>
       </ul>
-     <td>
+     </td>
     </tr>
    </table>
   </div>
