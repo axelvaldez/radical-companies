@@ -113,7 +113,8 @@ image:    "icon-buddyneighbor.svg"
   <ul>
    <li>Pub crawls</li>
    <li>Movie Nights</li>
-   <li>Movie buddy (<span class="_quotespan">who likes going to the movies by themselves?</span>)</li>
+   <li>Movie buddy (<span class="_quotespan">who likes going to the movies by themselves?</span>)<a href="#en20"><sup id="bm20">&hairsp;&nabla;&hairsp;</sup></a>
+</li>
   </ul>
 
 <h1>Vendors Will Know</h1>
@@ -665,6 +666,13 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+  <li id="en20">
+   <p class="_list-item">
+    <div>Getting people physically connected with each other.</div>
+    <a class="_uparrow" href="#bm20><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+   getting people physically connected with each other.
   <li id="en03">
    <p class="_list-item">
     <div>Local Commerce and small business owner opportunities&hellip; create a presence with people that are near the areas you serve: dry cleaners/ restaurants, maybe even mobile food trucks?</div>
@@ -751,6 +759,12 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
   <li id="en19">
    <p class="_list-item">
     <a class="_uparrow" href="#bm19"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en21">
+   <p class="_list-item">
+    <div><a href="https://dms.licdn.com/playback/C5605AQFKkYRm_FjR1Q/4ac33b7eb67a454ebde08b9487493111/feedshare-mp4_3300-captions-thumbnails/1507940147251-drlcss?e=1548968400&v=beta&t=7ijeg8e9YGKpOenrZ9P5aqeEDKLdp8x-Pa5jih8SYt0">Watch the video</a></div>
+    <a class="_uparrow" href="#bm21"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
