@@ -176,7 +176,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
  <p>The emphasis is in the cooking; the delivery is handled by the fact that the cooking is done nearby, in the <span class="_paradigm">rBuddyNeighbors</span> sense.</p>
 
 <h1>Commuting</h1>
- <p><a href="https://www.waze.com/carpool">Commuting</a> could be another thing that comes out of this. Either as a one time thing, or on a regular basis. <span class="_quotespan">I need to get to San Carlos tomorrow by 10 am.&rdquo; Or, &ldquo;I work in Mountain View, looking for a <span class="_paradigm">rBuddyNeighbors</span> to commute with.</span> The response from the system could be three potential <span class="_paradigm">rBuddyNeighbors</span>, or three regular commutes that have already been set up and are open to another rider.</p>
+ <p>This can also apply to commuting, either as a one time thing, or on a regular basis. <span class="_quotespan">I need to get to San Carlos tomorrow by 10 am.</span> Or, <span class="_quotespan">I work in Mountain View, looking for a <span class="_paradigm">rBuddyNeighbors</span> to commute with.</span> The response from the system could be three potential <span class="_paradigm">rBuddyNeighbors</span>, or three regular commutes that have already been set up and are open to another rider.</p>
  <p>It would be commuting with people who live nearby. People that you may even know. People you can have a lasting relationship with.</p>
 
 <h1>International</h1>
