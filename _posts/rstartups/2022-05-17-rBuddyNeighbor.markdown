@@ -29,7 +29,7 @@ image:    "icon-buddyneighbor.svg"
    </tr>
    <tr>
     <th>Purpose<br><span class="_alignquestions">Why?</span></th>
-    <td>Know thy neighbor: people connect and get the sense of belonging they crave.</td>
+    <td>Know thy neighbor: help people connect with their neighbors and get the sense of belonging they crave.</td>
    </tr>
    <tr>
     <th>Mission<br><span class="_alignquestions">What?<br>When?<br>How?</span></th>
