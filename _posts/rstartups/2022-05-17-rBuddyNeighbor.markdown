@@ -669,7 +669,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
   <li id="en20">
    <p class="_list-item">
     <div>Getting people physically connected with each other.</div>
-    <a class="_uparrow" href="#bm20><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm20"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
