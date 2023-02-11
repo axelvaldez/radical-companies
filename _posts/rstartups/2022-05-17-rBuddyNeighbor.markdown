@@ -242,7 +242,7 @@ image:    "icon-buddyneighbor.svg"
    <table class="_background">
     <tr>
      <th>Sign Up</th>
-     <td>Bring back goods for a neighbor on your way back from an outlet? (<a href="#en05"><sup id="bm05">&hairsp;?&hairsp;</sup></a>)</td>
+     <td>Bring back goods for a neighbor on your way back from an outlet? (<a href="#en23"><sup id="bm23">&hairsp;?&hairsp;</sup></a>)</td>
      <td>
       <ul>
        <li>Yes</li>
@@ -704,21 +704,21 @@ image:    "icon-buddyneighbor.svg"
     </div>
    </p>
   </li>
-  <li id="en04">
+  <li id="en05">
    <p class="_list-item">
     <div class="_p">
      We should be able to figure out who&rsquo;s 1) nearby an outlet and 2) can get the goods the the Neighbor requested.
-     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
    </p>
   </li>
-  <li id="en05">
+  <li id="en23">
    <p class="_list-item">
     <div class="_p">
      This is conceptually OK with bringing goods to a Neighbor so long as it doesn't take her too far off her route.
      The "too long" here is too vague at this point. It will become more concrete when a specific request shows up. Then, each Buddy can make up her mind to accept or not.
      The point is that the system learns from actual behavior.
-     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+     <a class="_uparrow" href="#bm23"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
    </p>
   </li>
