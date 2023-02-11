@@ -180,7 +180,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
  <p>It would be commuting with people who live nearby. People that you may even know. People you can have a lasting relationship with.</p>
 
 <h1>International</h1>
- <p>Has to work anywhere in the world, and across borders. See <a href="#_pickups">Pickups</a>.</p>
+ <p>Has to work anywhere in the world, and across borders. See <em>Pickups</em>, below, under <em>Termimology</em>.</p>
  <p>For example, I can put in a request for Coyotas del Parque, Hermosillo. Somebody from my neighborhood who happens to be in Hermosillo, picks up my order and brings it. Since we live nearby, my Buddy let&rsquo;s me know when I can pick them up at his place.</p>
 
 <h1>Caveats</h1>
