@@ -140,7 +140,7 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
  <p>Even the people who like to cook, sometimes feel like not cooking. It&rsquo;s a harking for a special dish, you don&rsquo;t want to cook. But you still have to eat.</p>
  <p>So, here&rsquo;s another potential <span class="_paradigm">rBuddyNeighbors</span> adjunct,</p>
   <div class="_center">
-   <table class="_backgroumd">
+   <table class="_background">
     <tr>
      <th>Scenario 1</th>
      <td>
@@ -150,6 +150,10 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
       </ul>
      <td>
     </tr>
+   </table>
+  </div>
+  <div class="_center">
+   <table class="_background">
     <tr>
      <th>Scenario 2</th>
      <td>
@@ -162,6 +166,10 @@ https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7
       </ul>
      <td>
     </tr>
+   </table>
+  </div>
+  <div class="_center">
+   <table class="_background">
     <tr>
      <th>Scenario 3</th>
      <td>
