@@ -127,11 +127,12 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Mom-and-Pops (1/26/2019)</h1>
  <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a neighbor or as a regular customer. Or the requestor lives within their back route and they can easily deliver it on the way home. This would fit within the model.<a href="#en03"><sup id="bm03">&hairsp;?&hairsp;</sup></a>.</p>
- <p>The neighbor-owner cannot charge or add a surcharge for the delivery itself. Tips are not allowed. So, she&rsquo;s simply being a Buddy to a Neighbor.</p>x
- <p>This could be <span class="_quotespan">gamed&rdquo; if the Neighbor-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A &ldquo;delivery</span> person would not make the kind of connection we are aiming for between neighbors.</p>
+ <p>The neighbor-owner cannot charge or add a surcharge for the delivery itself. Tips are not allowed, because it is not about making a living, it is about connecting and &rsquo;s simply being a Buddy to a Neighbor.</p>x
+ <p>This could be <span class="_quotespan">gamed&rdquo; if the Neighbor-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A &ldquo;delivery</span> person would not make the kind of connection we are aiming for between neighbors. This can easily be detected by the Neighbor and reported to the platform. It would end up in a conversation, probably between the grocer anb the affected neighbor. Again, connection.</p>
 
 <h1>Together IRL</h1>
- <p>The town of Kamikatsu, Japan, recycles 81% of its waste. You can read read more about it<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a> about it. The collection center is another place for neighbors to have a positive meeting in real life. This is the kind of thing that a neighborhood can easily organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
+ <p>The town of Kamikatsu, Japan, recycles 81% of its waste. You can read read more about it<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a>.</p>
+ <p>The <em>collection center</em> mentioned in the articles is another place for neighbors to have a positive meeting in real life. This is the kind of thing that a neighborhood can organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
 
 <h1>Food</h1>
  <p>Some people love to cook. Others, like myself, just eat. I can appreciate when I like a dish, but that&rsquo;s it. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good;&rdquo; sometimes I&rsquo;ll even say, &ldquo;it&rsquo;s really good.</span></p>
@@ -672,7 +673,10 @@ image:    "icon-buddyneighbor.svg"
   <li id="en21">
    <p class="_list-item">
     <div>The simple way this Japanese town has become nearly zero-waste.</div>
-    <div><a href="https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7">https://www.businessinsider.com/zero-waste-town-kamikatsu-japan-2017-7</a></div>
+    <div><a href="https://radicals.world/RFSMZi">https://radicals.world/RFSMZi</a></div>
+    <br>
+    <div>Japan’s ‘Zero Waste’ Village Is a Model for Small-Town Sustainability</div>.
+    <div><a href="https://radicals.world/qRtlWM">https://radicals.world/qRtlWM</a></div>
     <a class="_uparrow" href="#bm21"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -765,6 +769,7 @@ image:    "icon-buddyneighbor.svg"
    </p>
   </li>
  </ul>
+
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
