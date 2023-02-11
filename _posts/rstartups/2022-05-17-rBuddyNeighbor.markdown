@@ -688,9 +688,9 @@ image:    "icon-buddyneighbor.svg"
     <div class="_p">
      <em>The simple way this Japanese town has become nearly zero-waste</em>.
      <a href="https://radicals.world/RFSMZi">https://radicals.world/RFSMZi</a>
-     <em>Japan&rsquo;s &lsquo;Zero Waste&rsquo; Village Is a Model for Small-Town Sustainability</em>.
     </div>
     <div class="_p">
+     <em>Japan&rsquo;s &lsquo;Zero Waste&rsquo; Village Is a Model for Small-Town Sustainability</em>.
      <a href="https://radicals.world/qRtlWM">https://radicals.world/qRtlWM</a>.
      <a class="_uparrow" href="#bm21"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
