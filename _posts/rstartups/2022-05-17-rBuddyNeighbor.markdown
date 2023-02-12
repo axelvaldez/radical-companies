@@ -15,7 +15,7 @@ image:    "icon-buddyneighbor.svg"
  <div class="_center">
   <img
    src="/assets/img/pic-rbuddyneighbor.svg"
-   width="70%"
+   width="90%"
    alt="">
  </div>
  <p>I was curious right away and the <span class="_quotespan">community-neighborhood</span> mention got my attention. We chatted and brainstormed about it and this is what came out of it.</p>
