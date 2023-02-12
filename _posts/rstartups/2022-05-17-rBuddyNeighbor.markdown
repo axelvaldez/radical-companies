@@ -156,7 +156,7 @@ image:    "icon-buddyneighbor.svg"
      <th>Scenario 3</th>
      <td>
       <ul>
-       <li><span class="_quotespan">Can I get my aunt&rsquo;s dish? For three, this time. It turned out really good and I want my friends to taste it.</span></li>
+       <li><span class="_quotespan">Can I get my aunt&rsquo;s dish? For three, this time. It turned out that it was as good as I remember her food and I want my friends to get a taste it.</span></li>
       </ul>
      </td>
     </tr>
