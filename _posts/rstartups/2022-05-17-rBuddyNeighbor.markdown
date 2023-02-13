@@ -356,7 +356,7 @@ image:    "icon-buddyneighbor.svg"
    </tr>
    <tr>
     <th></th>
-    <td>If Buddy <span class="_quotespan">can&rsquo;t deliver now,</span> we tell the Neighbor, and &hellip; <a href="#en10"><sup id="bm10">&hairsp;&nabla;&hairsp;</sup></a></td>
+    <td>If Buddy <span class="_quotespan">can&rsquo;t deliver now,</span> we tell the Neighbor, and &hellip;</td>
     <td></td>
    </tr>
    <tr>
@@ -373,7 +373,7 @@ image:    "icon-buddyneighbor.svg"
     <td>
      <ul>
       <li>Yes</li>
-      <li>No<a href="#en11"><sup id="bm11">&hairsp;&nabla;&hairsp;</sup></a></li>
+      <li>No</li>
      </ul>
     </td>
    </tr>
@@ -383,8 +383,8 @@ image:    "icon-buddyneighbor.svg"
     <td>
      <ul>
       <li>Yes</li>
-      <li>No<a href="#en12"><sup id="bm12">&hairsp;&nabla;&hairsp;</sup></a></li>
-      <li>Partially<a href="#en13"><sup id="bm13">&hairsp;&nabla;&hairsp;</sup></a></li>
+      <li>No</li>
+      <li>Partially</li>
      </ul>
     </td>
    </tr>
@@ -395,7 +395,7 @@ image:    "icon-buddyneighbor.svg"
      <ul>
       <li>Happy!</li>
       <li>Meh&hellip;</li>
-      <li>Unhappy?<a href="#en14"><sup id="bm14">&hairsp;&nabla;&hairsp;</sup></a></li>
+      <li>Unhappy?</li>
      </ul>
     </td>
    </tr>
@@ -417,7 +417,7 @@ image:    "icon-buddyneighbor.svg"
    <table class="_background">
     <tr>
      <th>Sign Up</th>
-     <td>Bring back goods for a Neighbor on your way back from an outlet? (<a href="#en15"><sup id="bm15">&hairsp;&nabla;&hairsp;</sup></a>)</td>
+     <td>Bring back goods for a Neighbor on your way back from an outlet? ()</td>
      <td>
      <ul>
       <li>Yes</li>
@@ -444,7 +444,7 @@ image:    "icon-buddyneighbor.svg"
    </tr>
    <tr>
     <th></th>
-    <td>Address. (<a href="#en16"><sup id="bm16">&hairsp;&nabla;&hairsp;</sup></a></td>
+    <td>Address. (</td>
     <td></td>
    </tr>
    <tr>
@@ -575,7 +575,7 @@ image:    "icon-buddyneighbor.svg"
  <ul>
   <li><span class="_paradigm">rBuddyNeighbors</span> pay a membership fee to become <span class="_paradigm">rBuddyNeighbors</span>.com members. That&rsquo;s (mostly) it. This will be a very small fee and the top-line growth for <span class="_paradigm">rBuddyNeighbors</span>.com is based on that. Our financial success is based on volume with lots (and lots) of people signing up.</li>
   <li>We will also pay and collect for the goods, but there won&rsquo;t be any markup.</li>
-  <li>Buddies may get rewards for their service. The trick is not to let these <span class="_quotespan">rewards</span> become the goal for members. The goal is for Neighbors to get to know other Neighbors. For example, they may get valuable reward for their community.<a href="#en18"><sup id="bm18">&hairsp;&nabla;&hairsp;</sup></a></li>
+  <li>Buddies may get rewards for their service. The trick is not to let these <span class="_quotespan">rewards</span> become the goal for members. The goal is for Neighbors to get to know other Neighbors. For example, they may get valuable reward for their community.</li>
   <li><span class="_paradigm">rBuddyNeighbors</span> are our only paying customers. They and their neighborhoods must be the primary beneficiaries. I believe that our democracy will be the ultimate beneficiary.</li>
   <li><span class="_paradigm">rBuddyNeighbors</span>&rsquo;s purpose is to make it easy to have Neighbors meet each other in real life, being serviciable to one another, bonding over a good deed done, a good deed received.</li>
   <li><span class="_paradigm">rBuddyNeighbors</span> does not depend on goods outlets or any other revenue. Members are customers. Clear and simple.</li>
