@@ -110,11 +110,11 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Vendors Will Know</h1>
  <p>We can train retailers to tell people who call in an order that, there are two people near you coming to pick up soon. If you put in a rBuddyNeighbors request, maybe one of them will deliver.</p>
- <p>This means that we need a UI for vendors to see rBuddyNeighbors activity that impacts them,
+ <p>This means that we need a UI for vendors to see rBuddyNeighbors activity that impacts them,</p>
   <ul>
    <li>Requests that mention them</li>
    <li>Comments related to them (good/bad)</li>
-  <ul>
+  </ul>
  </p>
 
 <h1>Mom-and-Pops (1/26/2019)</h1>
