@@ -87,7 +87,7 @@ image:    "icon-buddyneighbor.svg"
  <p>Community Services</p>
 
 <h1>Interventions</h1>
- <p>Groups of <span class="_paradigm">rBuddyNeighbors</span> can organize to deal with emergency situations nearby, from drug usage interventions to potential suicides.</p>
+ <p>Groups of <span class="_paradigm">rBuddyNeighbors</span> can organize to deal with emergency situations nearby,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> from drug usage interventions to potential suicides.</p>
  <p>They can register their group with <span class="_paradigm">rBuddyNeighbors</span> as a community resource.</p>
  <p>They&rsquo;d be alerted when the system detects a pattern that fits their target.</p>
 
@@ -691,7 +691,7 @@ image:    "icon-buddyneighbor.svg"
   <li id="en05">
    <p class="_list-item">
     <div class="_p">
-     We should be able to figure out who&rsquo;s 1) nearby an outlet and 2) can get the goods the the Neighbor requested.
+     We should be able to figure out who is 1) nearby an outlet and 2) can get the goods the the Neighbor requested.
      <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
    </p>
