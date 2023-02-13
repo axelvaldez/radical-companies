@@ -110,11 +110,12 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Vendors Will Know</h1>
  <p>We can train retailers to tell people who call in an order that, there are two people near you coming to pick up soon. If you put in a rBuddyNeighbors request, maybe one of them will deliver.</p>
- <p>This means that we need a UI for vendors to see rBuddyNeighbors activity that impacts them,</p>
+ <p>This means that we need a UI for vendors to see rBuddyNeighbors activity that impacts them,
   <ul>
    <li>Requests that mention them</li>
    <li>Comments related to them (good/bad)</li>
   <ul>
+ </p>
 
 <h1>Mom-and-Pops (1/26/2019)</h1>
  <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a Neighbor or as a regular customer. Or the requestor lives within their back route and the local grocers can easily deliver it on the way home. This would fit within the model.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
