@@ -115,7 +115,6 @@ image:    "icon-buddyneighbor.svg"
    <li>Requests that mention them</li>
    <li>Comments related to them (good/bad)</li>
   </ul>
- </p>
 
 <h1>Mom-and-Pops (1/26/2019)</h1>
  <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a Neighbor or as a regular customer. Or the requestor lives within their back route and the local grocers can easily deliver it on the way home. This would fit within the model.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
