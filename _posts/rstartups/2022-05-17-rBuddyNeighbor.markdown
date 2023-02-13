@@ -703,7 +703,7 @@ image:    "icon-buddyneighbor.svg"
     </div>
    </p>
   </li>
-  <li id="en23">
+  <li id="en023">
    <p class="_list-item">
     <div class="_p">
      This is conceptually OK with bringing goods to a Neighbor so long as it doesn't take her too far off her route.
@@ -716,6 +716,7 @@ image:    "icon-buddyneighbor.svg"
   <li id="en06">
    <p class="_list-item">
     <div class="_p">
+     It remains at all times, even when you accept a request.
      <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
    </p>
@@ -723,6 +724,16 @@ image:    "icon-buddyneighbor.svg"
   <li id="en07">
    <p class="_list-item">
     <div class="_p">
+     This is an account for getting reimbursed. The ideal is for BuddyNeighbor.com to pay for the goods.
+    </div>
+    <div class="_p">
+     Later, we should figure a way for Buddies not to have to pay up front for anything. Maybe we issue cards where changes are only accepted after a request is committed.
+    </div>
+    <div class="_p">
+      In the example below, we'd load up Margot's card with $2 which is the approximate price of an Organic Valley 2% Milk gallon.
+    </div>
+    <div class="_p">
+     We take the risk that or Margot may not deliver or Jose may not accept it.
      <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
    </p>
@@ -730,6 +741,10 @@ image:    "icon-buddyneighbor.svg"
   <li id="en08">
    <p class="_list-item">
     <div class="_p">
+    What happens if the Neighbor says that he doesn't want the goods anymore? We can take care of the finances, but what is the Buddy going to do with them?
+    </div>
+    <div class="_p">
+     BTW, one way to game the system is for the Buddy to get something for herself instead, then make it so that the Neighbor will say not to deliver, and keep the goods.
      <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
    </p>
@@ -737,77 +752,20 @@ image:    "icon-buddyneighbor.svg"
   <li id="en09">
    <p class="_list-item">
     <div class="_p">
+     Or money donated to a charity of her choice?
+    </div>
+    <div class="_p">
+     Or goods discount? (this is that goods outlets would "pay" in exchange to being part of the network).
+    </div>
+    <div class="_p">
+     Or points that they can use anywhere (a Nearsoft client, Points, does exactly this).
+    </div>
+    <div class="_p">
+     Or a fund to improve their local school?
+    </div>
+    <div class="_p">
+     Or … all of the above?
      <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en10">
-   <p class="_list-item">
-    <div class="_p">
-     <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en11">
-   <p class="_list-item">
-    <div class="_p">
-     <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en12">
-   <p class="_list-item">
-    <div class="_p">
-     <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en13">
-   <p class="_list-item">
-    <div class="_p">
-     <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en14">
-   <p class="_list-item">
-    <div class="_p">
-     <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en15">
-   <p class="_list-item">
-    <div class="_p">
-     <a class="_uparrow" href="#bm15"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en16">
-   <p class="_list-item">
-    <div class="_p">
-     <a class="_uparrow" href="#bm16"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en17">
-   <p class="_list-item">
-    <div class="_p">
-     <a class="_uparrow" href="#bm17"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en18">
-   <p class="_list-item">
-    <div class="_p">
-     <a class="_uparrow" href="#bm18"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en19">
-   <p class="_list-item">
-    <div class="_p">
-     <a class="_uparrow" href="#bm19"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
    </p>
   </li>
