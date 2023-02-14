@@ -6,11 +6,11 @@ image:    "icon-the-dissimilarity-line.svg"
 ---
 
 <div style="display:none;">
- <p>The English enclosures captured more than land: they also captured our essential drive to care and nourish our social circle. That effort, that work, was captured by the new land owners, by industiralist, and  continues today.</p>
+ <p>The English enclosures captured more than land: they also captured our essential drive to care and nourish for our social circle. That effort, that work, was captured by the new land owners, by industiralist, and  continues today.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The English enclosures of the 16<sup>th</sup>-17<sup>th</sup> century captured more than land: they also captured our essential drive to care and nourish our social circle. That effort, that work, was captured by the new land owners, by industiralist, and  continues today.</p>
+ <p>The English enclosures of the 16<sup>th</sup>-17<sup>th</sup> century captured more than land: they also captured our essential drive to care and nourish for our social circle. That effort, that work, was captured by the new land owners, by industiralist, and  continues today.</p>
  <p>We don&rsquo;t just feed ourselves individually, we feed our social circle. We don&rsquo;t just nurse and take care of ourselves individually, we nurse and take care of our social circle. We don&rsquo;t just hug and caress for our individual benefit, we hug and caress for the health of our social circle. That is what we do as social animals and that is what has made us as successful as we are: we have survived and thrived because of our social circle, not as individuals. That is what the English enclosures captured, along with the land. The &ldquo;excess labor&rdquo; that we naturally do for our social circle was now in the hands of the owners.</p>
 
 <div class="_citation">
