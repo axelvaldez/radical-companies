@@ -7,7 +7,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 ---
 
 <div style="display:none;">
- <p>You have a great idea, but no capital. And your friends are too busy to help you.</p>
+ <p>You have a great idea, but no capital. And your friends love you, but are too busy to help you.</p>
 </div>
 
 <h1>Good News, Bad News</h1>
@@ -19,7 +19,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>On the other hand,</p>
   <ul>
    <li>You don&rsquo;t have capital.</li>
-   <li>Your friends are busy with their own jobs.</li>
+   <li>Your friends love you, but they are busy with their own jobs.</li>
   </ul>
 
 <h1>The Foundation</h1>
