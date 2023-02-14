@@ -20,7 +20,7 @@ image:    "icon-captured-love.svg"
 </div>
 
 <h1>Dissimilarity</h1>
- <p>Our ability to detect dissimilarity was the lever and all we had to was find the rock to leverage on. Once you are ready to distrust and fear the people on the other side of the line, <em>them people</em>, anything serves. The well dresses people riding a horse and wielding a weapon were on side and the raggedy, bare foot, and weaponless crows were were clearly dissimilar, on the other side.</p>
+ <p>Our ability to detect dissimilarity was the lever and all we had to do was find the rock to leverage on. Once you are ready to distrust and fear the people on the other side of the line, <em>them people</em>, anything serves. The well dresses people riding a horse and wielding a weapon were on side and the raggedy, bare foot, and weaponless crows were were clearly dissimilar, on the other side.</p>
  <p>This ability, older than this age, was the rock that we could leveraged. <em>This</em> was a very a powerful innovation.</p>
  <p>The dissimilarity line, the divide, has been in our minds for a long time and we would exhaust ourselves trying to fight it.</p>
 
