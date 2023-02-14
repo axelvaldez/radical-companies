@@ -6,7 +6,7 @@ image:    "icon-the-dissimilarity-line.svg"
 ---
 
 <div style="display:none;">
- <p>The English enclosures captured more than land: they also captured our essential drive to care and nourish for our social circle. The new land owners and industrialists took it and continues today.</p>
+ <p>The English enclosures captured more than land: they also captured our essential drive to care and nourish for our social circle. The new land owners and industrialists took it and it continues to this day.</p>
 </div>
 
 <h1>&nbsp;</h1>
