@@ -21,12 +21,12 @@ image:    "icon-captured-love.svg"
 
 <h1>Dissimilarity</h1>
  <p>Our ability to detect dissimilarity was the lever and all we had to do was find the rock to leverage it on. Once you are ready to distrust and fear the people on the other side of the line, <em>them people</em>, anything serves. Well dressed people, riding horses and wielding weapons were obviously on side and the raggedy, bare foot, and weaponless mob were on the other.</p>
- <p>These abilities to make make up stories about the dissimilar, older than this age, were the rock that we could leverage. <em>This</em> was a very a powerful innovation, well understood on both sides of the line.</p>
+ <p>This ability to make make up stories about the dissimilar, older than this age, were the rock that we could leverage on. <em>This</em> was a very a powerful innovation, heart-felt on both sides of the line.</p>
  <p>Worse, we can&rsquo;t fight it. The dissimilarity line, the divide, has been in our minds for a long time and we would exhaust ourselves trying to fight it.</p>
 
 <h1>Co-Ownership</h1>
- <p>Co-ownership is our story about the dissimilarity divide.</p>
- <p>Co-ownership leverages our drive to care for and nourish our social circle, same as always. But, co-ownership welcomes everybody and their contributions, makes us all co-owners by putting decentralizing power and putting it in the hands of us, the co-owners, us. </p>
+ <p>The dissimilarity line is the perfect story for exploitation. Co-ownership is our story for going forward.</p>
+ <p>Co-ownership leverages our drive to care for and nourish our social circle, same as always. But, co-ownership welcomes everybody and their contributions, makes us all co-owners by putting decentralizing power and putting it in out hands, the co-owners. </p>
  <p>Co-ownership is our poweful inovation for going forward.</p>
  
 <h1 class="_section">ENDNOTES</h1>
