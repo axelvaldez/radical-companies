@@ -25,7 +25,7 @@ image:    "icon-captured-love.svg"
  <p>Worse, we can&rsquo;t fight it. The dissimilarity line, the divide, has been in our minds for a long time and we would exhaust ourselves trying to fight it.</p>
 
 <h1>Co-Ownership</h1>
- <p>Co-ownership embraces the dissimilarity divide by making up a different story about it.</p>
+ <p>Co-ownership is our story about the dissimilarity divide.</p>
  <p>Co-ownership leverages our drive to care for and nourish our social circle, same as always. But, co-ownership welcomes everybody and their contributions, makes us all co-owners by putting decentralizing power and putting it in the hands of us, the co-owners, us. </p>
  <p>Co-ownership is our poweful inovation for going forward.</p>
  
