@@ -20,13 +20,14 @@ image:    "icon-captured-love.svg"
 </div>
 
 <h1>Dissimilarity</h1>
- <p>Our ability to detect dissimilarity was the lever and all we had to do was find the rock to leverage on. Once you are ready to distrust and fear the people on the other side of the line, <em>them people</em>, anything serves. The well dresses people riding a horse and wielding a weapon were on side and the raggedy, bare foot, and weaponless crows were were clearly dissimilar, on the other side.</p>
- <p>This ability, older than this age, was the rock that we could leveraged. <em>This</em> was a very a powerful innovation.</p>
- <p>The dissimilarity line, the divide, has been in our minds for a long time and we would exhaust ourselves trying to fight it.</p>
+ <p>Our ability to detect dissimilarity was the lever and all we had to do was find the rock to leverage on. Once you are ready to distrust and fear the people on the other side of the line, <em>them people</em>, anything serves. Well dressed people, riding horses and wielding weapons were obviously on side and the raggedy, bare foot, and weaponless mob were on the other.</p>
+ <p>These abilities to make make up stories about the dissimilar, older than this age, were the rock that we could leverage. <em>This</em> was a very a powerful innovation, well understood on both sides of the line.</p>
+ <p>Worse, we can&rsquo;t fight it. The dissimilarity line, the divide, has been in our minds for a long time and we would exhaust ourselves trying to fight it.</p>
 
 <h1>Co-Ownership</h1>
- <p>Co-ownership embraces the dissimilarity divide. Co-ownership puts the leverage in the hands of the co-owners. Co-ownership welcomes everybody&rsquo;s contributions. Co-ownership leverages our drive to care and nourish our social circle.</p>
- <p>Co-ownership is our poweful inovation.</p>
+ <p>Co-ownership embraces the dissimilarity divide by making up a different story about it.</p>
+ <p>Co-ownership leverages our drive to care for and nourish our social circle, same as always. But, co-ownership welcomes everybody and their contributions, makes us all co-owners by putting decentralizing power and putting it in the hands of us, the co-owners, us. </p>
+ <p>Co-ownership is our poweful inovation for going forward.</p>
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
