@@ -7,7 +7,7 @@ image:    "icon-yes-capital-is-good.svg"
 ---
 
 <div style="display:none;">
- <p>Capital is good and goodness. We have to fix that&mdash;and we can!.</p>
+ <p>Capital is good and goodness. We have to fix that&mdash;and we can!</p>
 </div>
 
 <h1>&nbsp;</h1>
