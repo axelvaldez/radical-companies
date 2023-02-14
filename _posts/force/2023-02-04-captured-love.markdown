@@ -26,7 +26,7 @@ image:    "icon-captured-love.svg"
 
 <h1>Co-Ownership</h1>
  <p>The dissimilarity line is the perfect story for exploitation. Co-ownership is our story for going forward.</p>
- <p>Co-ownership leverages our drive to care for and nourish our social circle, same as always. But, co-ownership welcomes everybody and their contributions, makes us all co-owners by putting decentralizing power and putting it in out hands, the co-owners. </p>
+ <p>Co-ownership leverages our drive to care for and nourish our social circle, same as always. But, co-ownership welcomes everybody and their contributions. Instead of , makes us all co-owners by putting ownership in out hands, the co-owners. </p>
  <p>Co-ownership is our poweful inovation for going forward.</p>
  
 <h1 class="_section">ENDNOTES</h1>
