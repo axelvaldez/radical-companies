@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Out of Love"
+title:    "From Love"
 authors:  "Matt Perez"
 image:    "icon-the-dissimilarity-line.svg"
-image:    "icon-out-of-love.svg"
+image:    "icon-from-love.svg"
 ---
 
 <div style="display:none;">
