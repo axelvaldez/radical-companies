@@ -125,11 +125,11 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   </ul>
 
 <h1>Trust Agreement</h1>
- <p>Do a Trust Agreement with the first co-owner in the team. This is a guide to an exploration among would-be co-owners to make sure that they can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Trust Agreement. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
+ <p>A Trust Agreement is a guide to an exploration among would-be co-owners to make sure that they can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Trust Agreement. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
  <div class="_center">
   <table class="_background">
    <tr>
-    <th>Mindset</th>
+    <th>Umwelt</th>
     <td>
      <ul>
       <li>How do you show up? Who are you?</li>
@@ -137,13 +137,6 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
       <li>What do you feel we need to agree on?</li>
       <li>What are your red lines?</li>
       <li>Anything else?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>About&hellip;</th>
-    <td>
-     <ul>
       <li>What gets you angry?</li>
       <li>What shuts you up?</li>
       <li>What makes you excited?</li>
@@ -154,11 +147,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     </td>
    </tr>
    <tr>
-    <th>Transparency</th>
-    <td>
-     <p>Also known as vulnerabilty.</p>
+    <th>Vulnerabilty</th>
      <ul>
-      <li>What are you biggest joys?</li>
       <li>What are you biggest fears?</li>
       <li>Do you speak up? How?</li>
       <li>Do you need to be given persmission to speak? <span class="_quotespan">You didn&rsquo;t ask me!</span></li>
@@ -170,7 +160,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <th>Collaboration</th>
     <td>
      <ul>
-      <li>What comes up as meaningful to you?</li>
+      <li>What is meaningful to you?</li>
       <li>What gives you joy?</li>
       <li>How can we help you collaborate with us?</li>
       <li>What stops you on your tracks?</li>
@@ -180,36 +170,15 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
      </ul>
     </td>
    </tr>
-   <tr>
-    <th>Alignment</th>
-    <td>
-     <ul>
-      <li>Please, take a look at our Alignment table, particularly its <b>Impact</b> and <b>Purpose</b>.</li>
-      <li>What thoughts does this bring up?</li>
-      <li>Does it work for you?</li>
-      <li>Does anything need to change or be clarified for you?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>Foundation</th>
-    <td>
-     <ul>
-      <li>Please take a look at the Foundation.</li>
-      <li>What thoughts does this bring up?</li>
-     </ul>
-    </td>
-   </tr>
   </table>
  </div>
- <p>Our recomendation is that you allot one hour each to,</p>
+ <p>Also, please, take a look at our Foundation table and our Alignment table, particularly its <b>Impact</b> and <b>Purpose</b>.</th>
   <ul>
-   <li><b>Mindset</b> and <b>About&hellip;</b></li>
-   <li><b>Transparency</b> and <b>Collaboration</b>,</li>
-   <li><b>Alignment</b> and <b>Foundation</b>.</li>
+   <li>What thoughts does this bring up?</li>
+   <li>Does it work for you?</li>
+   <li>Does anything need to change or be clarified for you?</li>
   </ul>
- <p>We have spend many more that three hours on these, and it has been very worth it. Doing it will get you a deep trust with other co-owners that <span class="_paradigm">FIAT</span> businesses don&rsquo;t ever get near. This practice creates a foundation for the relationship is so important to our success.</p>
- <p>One more thing: for subsequent co-owner candidates, any co-owner can go through the <em>Trust Agreement</em> with them.</p>
+ <p>Our recomendation is that you allot one hour each to Mindset, Transparency, and <b>Collaboration</b>. We have spend many more that three hours on these, and it has been very worth it. Doing it will get you to a level of trust with other co-owners that <span class="_paradigm">FIAT</span> businesses don&rsquo;t ever get near. This practice creates a foundation for the relationships that are so important to our success.</p>
 
 <h1>In Summary&hellip;</h1>
  <p>To create a RADICAL startup, do whatever works for you. We are not preaching a dogma, only a way to do it more easily and with a definite intention to get away from the <span class="_paradigm">FIAT</span> way of doing thigs..</p>
