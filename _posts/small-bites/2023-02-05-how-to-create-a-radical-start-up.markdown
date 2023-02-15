@@ -173,7 +173,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    </tr>
   </table>
  </div>
- <p>Also, please, take a look at our Foundation table and our Alignment table, particularly its <b>Impact</b> and <b>Purpose</b>.</th>
+ <p>Also, please, take a look at our Foundation table and our Alignment table, particularly its <b>Impact</b> and <b>Purpose</b>.</p>
   <ul>
    <li>What thoughts does this bring up?</li>
    <li>Does it work for you?</li>
