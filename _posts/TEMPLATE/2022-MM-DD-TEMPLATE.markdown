@@ -55,6 +55,7 @@ image:    "icon-about-daos.svg"
  </div>
 
 <!-- Expressed Alignment -->
+ <div class="_center">
   <table class="_background">
    <tr>
     <th>Impact<br><span class="_alignquestions">what for?</span></th>
