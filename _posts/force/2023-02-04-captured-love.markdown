@@ -25,7 +25,7 @@ image:    "icon-captured-love.svg"
  <p>Worse, we can&rsquo;t fight it. The <em>dissimilarity line</em> story has been in our minds for a long time and we would exhaust ourselves trying to fight it.</p>
 
 <h1>Co-Ownership</h1>
- <p>The dissimilarity line is the story for division and exploitation. Co-ownership is our story for going forward.</p>
+ <p>The dissimilarity line is a story for division and exploitation. Co-ownership is our story for going forward.</p>
  <p>Co-ownership leverages our drive to care for and nourish our social circle, too. But, co-ownership is not exploitative, it welcomes everybody and their contributions. Instead of dividing us, it makes us all co-owners based on our contributions and puts ownership in our hands. </p>
  <p>Co-ownership is a poweful inovation for going forward.</p>
  
