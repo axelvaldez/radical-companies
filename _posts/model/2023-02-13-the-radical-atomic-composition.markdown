@@ -1,17 +1,17 @@
 ---
 layout:   post
-title:    "The RADICAL Atomic Composition"
+title:    "The <span class='_paradigm'>RADICAL</span> Atomic Composition"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-the-radical-atomic-composition.svg"
 ---
 
 <div style="display:none;">
- <p>The RADICAL proto-molecule is made up of recently discovered atoms: Foundation, PRI, Expressed Alignment, The <em>RADs!</em> mobile app, and Trust Agreements. That is it, so far.</p>
+ <p>The <span class="_paradigm">RADICAL</span> proto-molecule is made up of the recently discovered atoms: Foundation, PRI, Expressed Alignment, The <em>RADs!</em> mobile app, and Trust Agreements. That is it, so far.</p>
 </div>
 
 <h1><span class="_paradigm">RADICAL</span></h1>
- <p>The RADICAL molecule is made up of the following atoms,</p>
+ <p>The RADICAL proto-molecule is made up of the  of the recently discovered atoms,</p>
   <ul>
    <li>Foundation</li>
    <li>PRI</li>
