@@ -121,7 +121,7 @@ image:    "icon-the-radical-atomic-composition.svg"
    <li>Do they work for you?</li>
    <li>Does anything need to change or be clarified for you?</li>
   </ul>
- <p>Our recomendation is that you allot one hour each to Mindset, Transparency, and Collaboration. We have spend many more that three hours on these, and it has been very worth it. Doing it will get you to a level of trust with other co-owners that FIAT businesses don&rsquo;t ever get near. This practice creates a foundation for the relationships that are so important to our success.</p>
+ <p>Our recomendation is that you allot one hour each to Mindset, Vulnerabilty, and Collaboration. We have spend many more that three hours on these, and it has been very worth it. Doing it will get you to a level of trust with other co-owners that FIAT businesses don&rsquo;t ever get near. This practice creates a foundation for the relationships that are so important to our success.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
