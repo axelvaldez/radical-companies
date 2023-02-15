@@ -117,7 +117,7 @@ image:    "icon-the-radical-atomic-composition.svg"
  </div>
  <p>Also, please, take a look at our Foundation table and our Alignment table, particularly its Impact and Purpose.</p>
   <ul>
-   <li>What thoughts does they bring up?</li>
+   <li>What thoughts do they bring up?</li>
    <li>Do they work for you?</li>
    <li>Does anything need to change or be clarified for you?</li>
   </ul>
