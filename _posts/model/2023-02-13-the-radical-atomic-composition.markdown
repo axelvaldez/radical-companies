@@ -22,7 +22,7 @@ image:    "icon-the-radical-atomic-composition.svg"
   
 <h1>Foundation</h1>
  <div class="_center">
-  <table class="_foundation">
+  <table class="_background">
    <tr>
     <th>people</th>
     <td>Meaning & Belonging</td>
