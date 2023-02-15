@@ -148,10 +148,11 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    </tr>
    <tr>
     <th>Vulnerabilty</th>
+    <td>
      <ul>
       <li>What are you biggest fears?</li>
       <li>Do you speak up? How?</li>
-      <li>Do you need to be given persmission to speak? <span class="_quotespan">You didn&rsquo;t ask me!</span></li>
+      <li>Do you need to be given permission to speak? <span class="_quotespan">You didn&rsquo;t ask me!</span></li>
       <li>Anything else?</li>
      </ul>
     </td>
