@@ -100,7 +100,7 @@ image:    "icon-the-radical-atomic-composition.svg"
     </td>
    </tr>
    <tr>
-    <th>Collaboration</th></th>
+    <th>Collaboration</th>
     <td>
      <ul>
       <li>What is meaningful to you?</li>
@@ -117,8 +117,8 @@ image:    "icon-the-radical-atomic-composition.svg"
  </div>
  <p>Also, please, take a look at our Foundation table and our Alignment table, particularly its Impact and Purpose.</p>
   <ul>
-   <li>What thoughts does this bring up?</li>
-   <li>Does it work for you?</li>
+   <li>What thoughts does they bring up?</li>
+   <li>Do they work for you?</li>
    <li>Does anything need to change or be clarified for you?</li>
   </ul>
  <p>Our recomendation is that you allot one hour each to Mindset, Transparency, and Collaboration. We have spend many more that three hours on these, and it has been very worth it. Doing it will get you to a level of trust with other co-owners that FIAT businesses don&rsquo;t ever get near. This practice creates a foundation for the relationships that are so important to our success.</p>
