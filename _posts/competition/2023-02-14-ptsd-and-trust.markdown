@@ -14,7 +14,7 @@ image:    "icon-ptsd-and-trust.svg"
 -->
 <h1></h1>
  <p>According to the post by Dr. John Roth, as a young person, the Roman Emperor Tiberius was a good person, but he ended up “a debauched, dissolute, and cruel recluse.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
- <div class="_citation">I have come to view Tiberius as a tragic figure, a good man, a gifted commander and leader, who was blindsided by multiple betrayals.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <div class="_citation">I have come to view Tiberius as a tragic figure, a good man, a gifted commander and leader, who was blindsided by multiple betrayals.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></div>
  <p>In <em>Vietnam: Combat Trauma and the Undoing of Character</em> (Touchstone, New York, 1994), the author, Dr Jonathan Shay concludes that Achilles “suffered from a ruinous moral injury that destroys the character of once good men.”</p>
  <p>According to these authors, Achilles and Tiberius suffered from a basic distrust of their environment because of a trauma, like multiple betrayals, and their behavior reflected the kind of pain that goes under the label of PTSD.</p>
  <p>Dr Shay and Dr. Roth reached into the past and concluded that what are normally portrayed as “bad people” are people suffering from trauma. Reaching into the present, the questions are,</p>
