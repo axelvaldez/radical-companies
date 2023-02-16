@@ -1,15 +1,66 @@
 ---
 layout:   post
-title:    "Trust and PTSD"
+title:    "PTSD and Trus"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
 image:    "icon-ptsd-and-trust.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>According to the post by Dr. John Roth, as a young person, the Roman Emperor Tiberius was a good person, but he ended up “a debauched, dissolute, and cruel recluse.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
 </div>
 
+<!--
+-->
+<h1></h1>
+ <p>According to the post by Dr. John Roth, as a young person, the Roman Emperor Tiberius was a good person, but he ended up “a debauched, dissolute, and cruel recluse.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
+ <p class="_quotespan">I have come to view Tiberius as a tragic figure, a good man, a gifted commander and leader, who was blindsided by multiple betrayals.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>In <em>Vietnam: Combat Trauma and the Undoing of Character</em> (Touchstone, New York, 1994), the author, Dr Jonathan Shay concludes that Achilles “suffered from a ruinous moral injury that destroys the character of once good men.”</p>
+ <p>According to these authors, Achilles and Tiberius suffered from a basic distrust of their environment because of a trauma, like multiple betrayals, and their behavior reflected the kind of pain that goes under the label of PTSD.</p>
+ <p>Dr Shay and Dr. Roth reached into the past and concluded that what are normally portrayed as “bad people” are people suffering from trauma. Reaching into the present, the questions are,</p>
+  <ul>
+   <li>How many people are walking around with work-induced PTSD?</li>
+   <li>Is society suffering from PTSD?</li>
+  </ul>
+ <p>After all, workplaces are where people spend most of their waking hours. Workplaces are where drama happens, oftentimes harmful drama that causes trauma. But, her, “it’s not personal, just business.”</p>
+ <p>We have learned to “man up” or “don’t say anything” when hurt. We try to put away or ignore that pain, instead of facing it and dealing with it as very personal because it just happened to us. So, again, how many people are walking around with work-induced PTSD?</p>
+
+<h1>Trauma</h1>
+ <p>Here is our starting point,</p>
+ <p class="_quotespan">Business encourages competition, and competition leads to trauma.</p>
+ <p>Some of this trauma ends up as PTSD.</p>
+ <p>The FIAT (“because I say so”) system encourages competition and domination. Top bosses compete. Lesser bosses compete. Wanna-be bosses compete. People compete for resources to do their jobs.</p>
+ <p>The winners end on top and get to dominate the losers. They get not only higher status, they also get to extract more money for themselves. Their  voice becomes more dominant as their place in the FIAT hierarchy goes up. The whole FIAT hierarchy works that way.</p>
+ <p>As it turns out, that is <em>not</em> natural.</p>
+
+<h1>Dominate Others</h1>
+ <p>Compete-win-dominate works on “them people,” those dissimilar to us. Once upon a time we could have been excused to think and act that way, but not anymore. Now we know that people the world over are similar. What separates us is the stuff in our minds.</p>
+ <p>Departments. Gender. Clothing. The 15th floor. Height. Accents. Exec Parking. Hair.</p>
+ <p>We are kin and they are not. And we domesticate them by whatever means: slavery, indenture, employment. Employees need to be motivated, give them money and status.</p>
+
+<h1>Motivation</h1>
+ <p>Where once the owner was the source of punishment, today the FIAT system itself does the dirty job by encouraging competition. Collaboration is what happens when a boss is not watching.</p>
+ <p>The FIAT system parcels out motivation in the form of money, primarily. Money is a form of force. And when coupled with other stories, it gets a grip on people: the dream car, the perfect house, at the perfect location, the bottomless bank account. Combined with these stories, money may not be as direct as corporal punishments, but it is a very effective force, indeed.</p>
+
+<h1>PTSD</h1>
+ <p>Businesses encourage that kind of mindset, and in the process they give up a lot. They stop taking care of themselves, they give up dignity, they surrender their relationships.</p>
+ <p>They swallow it all and become more unrecognizable to themselves and their social circle. In countless cases, the pain transforms into the pathology we call PTSD.</p>
+
+<h1>Trust</h1>
+ <p>Trust people and don’t be seduced by the system. That’s the cure.</p>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    John Roth.
+    <em>Uncancelling Tiberius</em>.
+    February 2023.
+    &lt;<a href="https://antigonejournal.com/2023/02/uncancelling-tiberius/">https://antigonejournal.com/2023/02/uncancelling-tiberius/</a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
 
 <h1 class="_section">RELATED</h1>
  <ul>
