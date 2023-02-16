@@ -2,7 +2,7 @@
 layout:   post
 title:    "Trust and PTSD"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez"
+authors:  "Adrian Perez, Matt Perez"
 image:    "icon-ptsd-and-trust.svg"
 ---
 
