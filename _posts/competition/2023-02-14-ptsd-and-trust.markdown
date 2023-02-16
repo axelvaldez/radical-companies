@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "PTSD and Trus"
+title:    "PTSD and Trust"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
 image:    "icon-ptsd-and-trust.svg"
@@ -11,7 +11,6 @@ image:    "icon-ptsd-and-trust.svg"
 </div>
 
 <!--
--->
 <h1></h1>
  <p>According to the post by Dr. John Roth, as a young person, the Roman Emperor Tiberius was a good person, but he ended up “a debauched, dissolute, and cruel recluse.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
  <div class="_citation">I have come to view Tiberius as a tragic figure, a good man, a gifted commander and leader, who was blindsided by multiple betrayals.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></div>
@@ -62,6 +61,7 @@ image:    "icon-ptsd-and-trust.svg"
   </li>
  </ul>
 
+-->
 <h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
