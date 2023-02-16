@@ -7,7 +7,7 @@ image:    "icon-ptsd-and-trust.svg"
 ---
 
 <div style="display:none;">
- <p>According to the post by Dr. John Roth, as a young person, the Roman Emperor Tiberius was a good person, but he ended up “a debauched, dissolute, and cruel recluse.”<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
+ <p>According to the post by Dr. John Roth, as a young person, the Roman Emperor Tiberius was a good person, but he ended up “a debauched, dissolute, and cruel recluse.”</p>
 </div>
 
 <!--
