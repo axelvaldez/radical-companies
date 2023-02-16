@@ -7,16 +7,16 @@ image:    "icon-the-radical-atomic-composition.svg"
 ---
 
 <div style="display:none;">
- <p>The <span class="_paradigm">RADICAL</span> proto-molecule is made up of the recently discovered atoms: Foundation, PRI, Expressed Alignment, The <em>RADs!</em> mobile app, and Trust Agreements. That is it, so far.</p>
+ <p>The <span class="_paradigm">RADICAL</span> molecule is made up of the recently discovered atoms: Foundation, PRI, Explicit Alignment, The <em>RADs!</em> mobile app, and Trust Agreements. That is it, so far.</p>
 </div>
 
 <h1><span class="_paradigm">RADICAL</span></h1>
- <p>The RADICAL proto-molecule is made up of the  of the recently discovered atoms,</p>
+ <p>The <span class="_paradigm">RADICAL</span> molecule is made up of the  of the recently discovered atoms,</p>
   <ul>
    <li>Foundation</li>
    <li>PRI</li>
-   <li>Expressed Alignment</li>
-   <li>The <em>RADs!</em> mobile app</li>
+   <li>Explicit Alignment</li>
+   <li>The <em><span class="_paradigm">RAD</span>s!</em> mobile app</li>
    <li>Trust Agreements</li>
   </ul>
   
@@ -45,7 +45,7 @@ image:    "icon-the-radical-atomic-composition.svg"
  <p>You may not need a PRI Fund, but if you do need capital, fund it with a <em><span class="_paradigm">RADICAL</span> Investment</em>. Getting capital is an option, but do not trade capital for <span class="_quotespan">control</span> or any such <span class="_paradigm">FIAT</span> baggage.</p>
  <p>And, no, it can&rsquo;t be fixed “later.”</p>
 
-<h1>Expressed Alignment</h1>
+<h1>Explicit Alignment</h1>
  <div class="_center">
   <table class="_background">
    <tr>
