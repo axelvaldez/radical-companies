@@ -34,7 +34,7 @@ image:    "icon-ptsd-and-trust.svg"
  <p>Here is our starting point: <span class="_quotespan">Business encourages competition, and competition leads to trauma.</span> Ans some of this trauma ends up as PTSD.</p>
  <p>The <span class="_paradigm">FIAT</span> (<span class="_quotespan">because I say so</span>) system encourages competition and domination. It also encourages helplessness, another key component of PTSD. A terrifying event is even more harmful when you can do nothing to stop or diminish it. And <span class="_paradigm">FIAT</span> is the very definition of helplessness. This is built into structure of <span class="_paradigm">FIAT</span> businesses. Top bosses compete. Lesser bosses compete. Wanna-be bosses compete. People compete for resources to do their jobs.</p>
  <p>The winners end on top and get to dominate the losers. They get not only higher status, they also get to extract more money for themselves. Their  voice becomes more dominant as their place in the FIAT hierarchy goes up. The whole <span class="_paradigm">FIAT</span> hierarchy works that way.</p>
- <p>And, as it turns out, that is <em>not</em> natural.</p>
+ <p>And, as it turns out, that is <em>not natural</em>.</p>
 
 <h1>Human Capital</h1>
  <p>Capital can be seen as the right to deny access or control. Capital comes from, <em>capita,</em> capa, the head of a cow. A cow in a herd that you have control over, that you can decide how it is used, when it is sold, etc.</p>
