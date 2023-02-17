@@ -28,7 +28,7 @@ image:    "icon-ptsd-and-trust.svg"
   </ul>
  <p>After all, workplaces are where people spend most of their waking hours. Workplaces are where drama happens, oftentimes harmful drama that causes trauma.</p>
  <p>I am reminded of a friend&rsquo;s recent story about layoffs. He had survived layoffs, where a third of his team disappeared. This was sad enough because some of those people were not just his friends, but in his view, competent and undeserving of a layoff. Plus there was also <span class="_quotespan">survivor&rsquo;s guilt.</span> There were rumors of aother layoffs: the Sword of Damocles had been dangling over his head for months, taking its toll. Would he be fired? Would he, again, see people he had strong bonds with suffer?</p>
- <p>We have learned to <span class="_quotespan">man up</span> and <span class="_quotespan">don&rsquo;t say anything</span> when hurt. After all, <span class="_quotespan">it’s not personal, it’s just business.</span> We try to put away or ignore the pain, instead of facing it and dealing with the <em>very personal</em> harm that just happened to us.</p>
+ <p>We have learned to <span class="_quotespan">man up</span> and <span class="_quotespan">don&rsquo;t say anything</span> when hurt. After all, <span class="_quotespan">it&rsquo;s not personal, it&rsquo;s just business.</span> We try to put away or ignore the pain, instead of facing it and dealing with the <em>very personal</em> harm that just happened to us.</p>
 
 <h1>Trauma</h1>
  <p>Here is our starting point: <span class="_quotespan">Business encourages competition, and competition leads to trauma.</span> Ans some of this trauma ends up as PTSD.</p>
@@ -52,11 +52,11 @@ image:    "icon-ptsd-and-trust.svg"
 <h1>PTSD</h1>
  <p>Businesses encourage the money-focused mindset and people-as-employees give up a lot in the process. Employees stop taking care of themselves, they give up dignity, they surrender their relationships.</p>
  <p>My father, and co-author, took his work well beyond the office in order to succeed in the corporate <span class="_paradigm">FIAT</span> structure. He was promoted many times and controlled important territories within the company. But he also brought home to his family the refusal to listen of his boss training. As with boss to employee, the relationship of father to child was mainly one way, with occasional lucky interactions of two way communication. And when I refused to listen to my fathers will and tried to go my own way, I was met with terrifying screaming or physical punishment that would set me back in line. It was no coincidence of this mixing of behavior between family and work life. When he stopped working at that company and experienced a period of rest, a lot of that behavior tapered off.</p>
- <p>Both boss and employee swallow it all and become more unrecognizable to themselves and their social circle. In countless cases, the pain transforms into the pathology we call PTSD.</p>
+ <p>Both bosses and employees swallow a lot and become unrecognizable to themselves and their social circle. In countless cases, the pain transforms into the pathology we call PTSD.</p>
  <p>
 
 <h1>Trust</h1>
- <p>Trust people and don’t be seduced by the system. That’s the cure. That’s what we are doing with <span class="_paradigm">RADICAL</span>.</p>
+ <p>Trust people and don&rsquo;t be seduced by the system. That&rsquo;s the cure. That&rsquo;s what we are doing with <span class="_paradigm">RADICAL</span>.</p>
  <p>As much as anything else, it is an alternative to finding ways to erode the imbalances that cause us to act on each other in ways that truly hurt our resilience and personality.</p>
 
 <h1 class="_section">ENDNOTES</h1>
