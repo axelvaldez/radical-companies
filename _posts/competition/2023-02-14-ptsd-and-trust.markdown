@@ -57,7 +57,7 @@ image:    "icon-ptsd-and-trust.svg"
 
 <h1>Trust</h1>
  <p>Trust people and don&rsquo;t be seduced by the system. That&rsquo;s the cure. That&rsquo;s what we are doing with <span class="_paradigm">RADICAL</span>.</p>
- <p>As much as anything else, it is an alternative to finding ways to erode the imbalances that cause us to act on each other in ways that truly hurt our resilience and personality.</p>
+ <p>As much as anything else, <span class="_paradigm">RADICAL</span> is an alternative to finding ways to erode the imbalances that cause us to act in ways that truly hurt our resilience and personality.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
