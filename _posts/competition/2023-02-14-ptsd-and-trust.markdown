@@ -10,8 +10,6 @@ image:    "icon-ptsd-and-trust.svg"
  <p>As a young person, the Roman Emperor Tiberius was a good person, but he ended up “a debauched, dissolute, and cruel recluse.”</p>
 </div>
 
-<!--
--->
 <h1></h1>
  <p>According to the post by Dr. John Roth, the Roman Emperor Tiberius was a good person when he was young, but he ended up “a debauched, dissolute, and cruel recluse.”<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
   <div class="_citation">I have come to view Tiberius as a tragic figure, a good man, a gifted commander and leader, who was blindsided by multiple betrayals.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></div>
