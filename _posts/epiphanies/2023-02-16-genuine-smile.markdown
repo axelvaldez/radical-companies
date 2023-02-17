@@ -10,7 +10,15 @@ image:    "icon-genuine-smile.svg"
  <p></p>
 </div>
 
-
+<h1></h1>
+ <p>I love, my self-love has grown. The feeling came to me as a snapping sound. The first thing that came up in my own genuine smile. In the past I had to force myself to smile, it was uncomfortable. I felt that smiling made me vulnerable; it'd be better not to smile and protect myself. But now I smile when I feel like smiling, take a selfie, or a video, or just when I see my reflection in the mirror, thene is that genuine smile shining right back. Even, no, particulary when I didn know that I was smiling, I love seeing itl. Sometime I worry that I this is some form of narcissism. When I am telling others about RADICAL companies and their philosophy they can tell my enthusiam and my passion about them by the way my eyes shine. This is one of the many things that I am playing with to become more me.
+ <p>I have been wondering what has made me feel this way. Thinking back, I remember that I took the first step by realizing that my life was empty. I needed to connect with myself.</p>
+ <p>I know now that the trigger was RADICAL Companies. At first I believed that keeping control was my thing. But then I understood that seeing people as people was my calling, not seeing them as resources. People, not robots. That simple fact made a huge difference to me. People can free their potential at the same time they grow, and align with others to create something big, bigger than they could create for themselve.</p>
+ <p>Something changed in me and I now think that seeing a company as a group of aligned people. Everything fits and I can see it.</p>
+ <p>I believe it was that shift that woke me up, that make feel that I could be just because I could. The feeling of emptiness that that realization let out was scary. I was surviving, not living. That is why I felt so bad in a FIAT company, not being able to be part, not mattering. There is no such thing as a private live and work life. The way things are, a big part of you is left in the parking lot. RADICAL Companies taught to be a whole person anywhere and howevr I go.</p>
+ <p>I bought me flowers. For the first time. I had never clebrated myself before, I had never thanked me, but I finally felt I must. Hooray for my past self, because thanks to her I have a genuine smile. Thanks for her I can see who I am versus what FIAT businesses want me to be.</p>
+ <p>There are still lots of scary stuff head, but I am staying on the path and eating mandarins. I can see that the time will come when I will see these fears behind me. I can see the time when I will be a better version of me.</p>
+ <p>Thanks to life and all that got me here.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
