@@ -36,8 +36,10 @@ image:    "icon-ptsd-and-trust.svg"
  <p>The winners end on top and get to dominate the losers. They get not only higher status, they also get to extract more money for themselves. Their  voice becomes more dominant as their place in the FIAT hierarchy goes up. The whole <span class="_paradigm">FIAT</span> hierarchy works that way.</p>
  <p>And, as it turns out, that is <em>not natural</em>.</p>
 
-<h1>Human Capital</h1>
+<h1>The Right to Deny</h1>
  <p>Capital can be seen as the right to deny access or control. Capital comes from, <em>capita,</em> capa, the head of a cow. A cow in a herd that you have control over, that you can decide how it is used, when it is sold, etc. It is  It is <em>your</em> herd, <em>your</em> property, and you can deny others the use of it. This is the essence of <span class="_paradigm">FIAT</span> capital: the right to deny.</p>
+
+<h1>Human Capital</h1>
  <p><span class="_paradigm">FIAT</span> structures of hierarchy capitalize people. A boss, in his competition for position in the hierarchy, acquires the right to deny the use of his team. Another boss can not just step in and tell the team what to do unless they are higher up in the pyramid. And it is not just about resource denial across teams.</p>
  <p>Compete-win-dominate works on <span class="_quotespan">them people,</span> those dissimilar to us. Once upon a time we could have been excused to think and act that way, but not anymore. Now we know that people the world over are similar. What separates us is the rationalized prejudices, stories, in our minds.</p>
  <p>The same resource denial points inward to the team itself. A boss can tell you how to do your job. They have the right to invalidate your own judgment.</p>
