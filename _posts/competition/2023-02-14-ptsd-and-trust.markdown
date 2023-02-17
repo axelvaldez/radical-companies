@@ -17,7 +17,7 @@ image:    "icon-ptsd-and-trust.svg"
  <p>According to these authors, Achilles and Tiberius suffered from a basic distrust of their environment because of a trauma, like multiple betrayals, and their behavior reflected the kind of pain that goes under the label of PTSD.</p>
  <p>According to the Mayo Clinic, Post Traumatic Stress Disorder is,</p>
   <div class="_citation">&hellip; a mental health condition that's triggered by a terrifying event &ndash; either experiencing it or witnessing it. Symptoms may include flashbacks, nightmares and severe anxiety, as well as uncontrollable thoughts about the event.</div>
- <p>Not everyone develops PTSD from the same event. Two people can be in the same car accident and one will walk away temporarily shaken, and another may never want to get into a car again. An additional aspect of PTSD is chronic stress, like the amount of vigilance a soldier may have to undergo day in and day out. They may not experience one specific terrifying event, but many smaller calls to vigilance and worry about survival may induce damage.</p>
+ <p>Not everyone develops PTSD from the same event. Two people can be in the same car accident and one will walk away temporarily shaken, and another may never want to get into a car again. An additional aspect of PTSD is chronic stress, like the amount of vigilance a soldier may have to undergo day in and day out. They may not experience one specific terrifying event, but many smaller calls to worry about survival may induce damage.</p>
 
 <h1>Reaching&hellip;</h1>
  <p>Dr Shay and Dr. Roth reached into the past and concluded that what are normally portrayed as <span class="_quotespan">bad people</span> are people suffering from trauma. </p>
