@@ -31,7 +31,7 @@ image:    "icon-ptsd-and-trust.svg"
  <p>We have learned to <span class="_quotespan">man up</span> and <span class="_quotespan">don&rsquo;t say anything</span> when hurt. After all, <span class="_quotespan">it’s not personal, it’s just business.</span> We try to put away or ignore the pain, instead of facing it and dealing with the <em>very personal</em> harm that just happened to us.</p>
 
 <h1>Trauma</h1>
- <p>Here is our starting point: <span class="_quotespan">Business encourages competition, and competition leads to trauma.</span> Ans some of this trauma ends up as PTSD.</p>
+ <p>Here is our starting point: <span class="_quotespan">Business encourages competition, and competition leads to trauma.</span> Ans some of this trauma ends up as PTSD. The </p>
  <p><span class="_paradigm">FIAT</span> (<span class="_quotespan">because I say so</span>) system encourages competition and domination. It also encourages helplessness, another key component of PTSD. A terrifying event is even more harmful when you can do nothing to stop or diminish it. And <span class="_paradigm">FIAT</span> is the very definition of helplessness. This is built into structure of <span class="_paradigm">FIAT</span> businesses. Top bosses compete. Lesser bosses compete. Wanna-be bosses compete. People compete for resources to do their jobs.</p>
  <p>The winners end on top and get to dominate the losers. They get not only higher status, they also get to extract more money for themselves. Their  voice becomes more dominant as their place in the FIAT hierarchy goes up. The whole <span class="_paradigm">FIAT</span> hierarchy works that way.</p>
  <p>And, as it turns out, that is <em>not</em> natural.</p>
