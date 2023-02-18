@@ -18,7 +18,9 @@ image:    "icon-genuine-smile.svg"
  <p>I know now that the trigger was <span class="_paradigm">RADICAL</span> Companies. At first I believed that keeping control was my thing. But then I understood that seeing people as people was my calling, not seeing them as resources. People, not robots. That simple fact made a huge difference to me. People can free their potential at the same time they grow, and align with others to create something big, bigger than they could create by themselves.</p>
  <p>Something changed in me and I now believe that seeing a company as a group of aligned people was the key. Everything fits. I can see everthing falling into place. That woke me up and made feel all that I could be just because I could.</p>
  <p>To my surprise, a feeling of emptiness came up and it was scary. I was surviving, not living. That is why I felt so bad in a <span class="_paradigm">FIAT</span> company, not being able to be part of anything, not mattering except as a smart robot.</p>
- <p>There is no such thing as a private live and work life. The way things are, a big part of you stays out in the parking lot. <span class="_paradigm">RADICAL</span> Companies taught me to be a whole person anywhere, anytime, and however I go.</p>
+
+ <h1>Born Out of Desperation</h1>
+ <p>There is no such thing as a private live and work life. That is a myth born out of desperation. Go in the office, but leave most of you out in the parking lot. <span class="_paradigm">RADICAL</span> Companies taught me to be a whole person anywhere, anytime, and however I go.</p>
  <p>I bought me flowers. For the first time. I had never clebrated myself before, I had never thanked me, but I finally felt I must. Hooray for my past self, because thanks to her I have a genuine smile. Thanks for her I can see who I am versus what <span class="_paradigm">FIAT</span> businesses want me to be.</p>
  <p>There are still lots of scary stuff head, but I am staying on the path and eating mandarins. I can see that the time will come when I will see these fears behind me. I can see the time when I will be a better version of me.</p>
  <p>Thanks to life and all that got me here.</p>
