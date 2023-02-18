@@ -25,7 +25,7 @@ image:    "icon-genuine-smile.svg"
  <p>There is no such thing as a private live and work life. That is a myth born out of desperation. Go in the office, but leave most of you out in the parking lot. <span class="_paradigm">RADICAL</span> Companies taught me to be a whole person anywhere, anytime, and however I go.</p>
 
  <h1>Celebrate!</h1>
- <p>I bought me flowers. For the first time. I had never clebrated myself before, I had never thanked me, but I finally felt I must. Hooray for my past self, because thanks to her I have a genuine smile. Thanks for her I can see who I am versus what <span class="_paradigm">FIAT</span> businesses want me to be.</p>
+ <p>I bought me flowers. For the first time. I had never clebrated myself before, I had never thanked me, but I finally felt I must. Hooray for my past self, because thanks to her I have a genuine smile. Thanks to her I can see who I am versus what <span class="_paradigm">FIAT</span> businesses want me to be.</p>
 
  <h1>Smile</h1>
  <p>There are still lots of scary stuff head, but I am staying on the path and eating mandarins. I can see that the time will come when I will see these fears behind me. I can see the time when I will be a better version of me.</p>
