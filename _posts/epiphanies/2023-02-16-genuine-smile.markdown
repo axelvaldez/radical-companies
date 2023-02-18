@@ -36,9 +36,9 @@ image:    "icon-genuine-smile.svg"
   <li id="en01">
    <p class="_list-item">
     Chabeli Atahuaman.
-    <em>Mandarins and </em>
+    <em>Mandarins and Butterflies</em>
     2022.
-    &lt;<a href="" target="_blank"></a>&gt;
+    &lt;<a href="https://radicalcompanies.com/2022/09-02/mandarins-and-butterflies" target="_blank">https://radicalcompanies.com/2022/09-02/mandarins-and-butterflies</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
