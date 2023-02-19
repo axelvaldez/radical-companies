@@ -14,7 +14,7 @@ image:    "icon-the-radical-atomic-composition.svg"
  <div class="_center">
   <img
    src="/assets/img/pic-the-radical-atomic-composition.svg"
-   width="70%"
+   width="90%"
    alt="">
  </div>
  <p>The <span class="_paradigm">RADICAL</span> molecule is made up of the  of the recently discovered atoms (in English),</p>
