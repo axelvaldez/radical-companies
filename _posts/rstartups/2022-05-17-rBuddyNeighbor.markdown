@@ -20,7 +20,7 @@ image:    "icon-buddyneighbor.svg"
  </div>
  <p>I was curious right away and the <span class="_quotespan">community-neighborhood</span> mention got my attention. We chatted and brainstormed about it and this is what came out of it.</p>
 
-<h1>Expressed Alignment</h1>
+<h1>Explicit Alignment</h1>
  <div class="_center">
   <table class="_background">
    <tr>

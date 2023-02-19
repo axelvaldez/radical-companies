@@ -92,15 +92,15 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>Co-owners can recognize anything as a contributions. These can range from a tangible benefit to the company (<em>e.g.</em>, <span class="_quotespan">&hellip; found us a place to store return merchandize for free.</span>) to something more intangible (<em>e.g.</em>, <span class="_quotespan">&hellip; took the time to talk to him and to help him get his mental health taken care of.</span> or even <span class="_quotespan">&hellip; it gave me a lot of joy when he did that.</span>)</p>
  <p><span class="_paradigm">RAD</span>s can factor anything through them. For example, if I have 10% of the <span class="_paradigm">RAD</span>s distributed and you have 20%, you get twice as much as I do of whatever is being filtered through the <span class="_paradigm">RAD</span>s this time (<em>e.g.</em>, earned dividends).</p>
 
-<h1>Expressed Alignment</h1>
- <p>Since you have co-owners, and no boss, you still to somehow align on what needs to get done, etc., and that is what the Expressed Alignment tool is about,</p>
+<h1>Explicit Alignment</h1>
+ <p>Since you have co-owners, and no boss, you still to somehow align on what needs to get done, etc., and that is what the Explicit Alignment tool is about,</p>
  <div class="_center">
   <img
    src="/assets/img/en-alignment.svg"
    width="70%"
    alt="">
  </div>
- <p>Co-owners should get together as soon as possible, or sooner, to figure out answers to the questions in the Expressed Alignment below. This is extremely key.</p>
+ <p>Co-owners should get together as soon as possible, or sooner, to figure out answers to the questions in the Explicit Alignment below. This is extremely key.</p>
  <div class="_center">
   <table class="_background">
    <tr>
@@ -215,7 +215,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
      <td>
       <p>You have tools to do this,</p>
        <ul>
-        <li>Trust Agreement and Expressed Alignment can help establish a foundation for healthy relationships.</li>
+        <li>Trust Agreement and Explicit Alignment can help establish a foundation for healthy relationships.</li>
         <li>
          <div>The <em><span class="_paradigm">RAD</span>s!</em> mobile app makes it easier for all co-owners to recognize contributions.</div>
          <div style="text-indent:1em; ">It also makes it easier to start difficult conversations which requires different skills than what we have learned throughout our lives in a <span class="_paradigm">FIAT</span> system. Sometimes the conversation will end up being a misunderstanding, sometimes behavior will have to change, and other times it will end up in a collaboration to do things differently..</div>

@@ -54,7 +54,7 @@ image:    "icon-ptsd-and-trust.svg"
   </table>
  </div>
 
-<!-- Expressed Alignment -->
+<!-- Explicit Alignment -->
  <div class="_center">
   <table class="_background">
    <tr>

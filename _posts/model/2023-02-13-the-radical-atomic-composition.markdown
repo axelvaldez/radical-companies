@@ -10,6 +10,13 @@ image:    "icon-the-radical-atomic-composition.svg"
  <p>The <span class="_paradigm">RADICAL</span> molecule is made up of the recently discovered atoms: Foundation, PRI, Explicit Alignment, The <em>RADs!</em> mobile app, and Trust Agreements. That is it, so far.</p>
 </div>
 
+<div class="_center">
+ <img
+  src="/assets/img/pic-ththe-radical-atomic-compositione.svg"
+  width="70%"
+  alt="">
+</div>
+
 <h1><span class="_paradigm">RADICAL</span></h1>
  <p>The <span class="_paradigm">RADICAL</span> molecule is made up of the  of the recently discovered atoms,</p>
   <ul>

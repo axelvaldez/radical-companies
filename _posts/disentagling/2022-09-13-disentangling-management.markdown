@@ -109,7 +109,7 @@ image:    "icon-disentangling-management.svg"
    <th>Task assignments</th>
    <td>
     <p>Without bosses, and with transparency, people can get together and figure things to do out on their own. As an added bonus, they can take into consideration what is more meaningful to them.</p>
-    <p>People working together already have an Expressed Alignment<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> to use as a guide.</p>
+    <p>People working together already have an Explicit Alignment<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> to use as a guide.</p>
    </td>
   </tr>
   <tr>
