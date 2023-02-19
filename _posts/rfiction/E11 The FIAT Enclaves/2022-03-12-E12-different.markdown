@@ -46,7 +46,7 @@ hidden:   true
  <p>&ldquo;Why? Why can&rsquo;t it be done?&rdquo; Rodrigo said as if he knew the answer already.</p>
  <p>&ldquo;Even if you had a chain of accomplices, at some point they would have to break the envelope and other nodes in the network would rat you out. Can&rsquo;t do. No.&rdquo; He stopped, but he wasn&rsquo;t done, &ldquo;If they mix your <span class="_paradigm">COIN</span>s with other <span class="_paradigm">COIN</span>s to lower the risk, then they would be diluting the risk, not hiding it. They would be taking on some of the risk. Can&rsquo;t cheat. No.&rdquo;</p>
  <p>&ldquo;OK, that&rsquo;s it. If Mike says you can&rsquo;t, then you can&rsquo;t. OK, Rod?&rdquo; Ada was clearly exasperated and seemed to have the least patience for Rodrigo&rsquo;s antics.</p>
- <p>&ldquo;Yes, let&rsquo;s figure out what we are going to do.&rdquo; Beckett had expressed what the group was feeling.</p>
+ <p>&ldquo;Yes, let&rsquo;s figure out what we are going to do.&rdquo; Beckett had explicit what the group was feeling.</p>
  <p>&ldquo;So, what are you going to do?&rdquo;</p>
  <p>&ldquo;That&rsquo;s it,&rdquo; said Kalisha, &ldquo;we have to come out with something, like Beck said.&rdquo;</p>
  <p>&ldquo;What about what Mike said? We could build a platform for assembling a Rod chain chain?&rdquo; Ada was looking really excited, but nobody understood. She went on, &ldquo;OK, no, I don&rsquo;t mean a chain of Rod clones,&rdquo; she looked towards Rodrigo and made a face. &rdquo;I mean a platform to help companies find each other and organize themselves easily to help legit companies with high-risk <span class="_paradigm">COIN</span>s. What Mike said.&rdquo;</p>

@@ -63,7 +63,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
   <tr style="background-color:#EEEEEE; ">
    <th>Belonging</th>
    <td>
-     <p>This is about people. Do you want to work with this group? Does it feel right to be part of this project? Do I agree with their expressed alignment?</p>
+     <p>This is about people. Do you want to work with this group? Does it feel right to be part of this project? Do I agree with their explicit alignment?</p>
    </td>
   </tr>
   <tr>

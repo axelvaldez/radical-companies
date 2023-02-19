@@ -13,7 +13,7 @@ image:    "icon-i-am-giving-it-all-to-my-dreams.svg"
 <h1>&nbsp;</h1>
  <p>There are certain industries where people are very willing to take a massive hit to their capacity for independent action in exchange for working on their dreams. The NewSpace and Video Game industries are two that pop to mind where,</p>
  <ul>
-  <li>Fealty to the vision is expressed as the ability to overwork yourself,</li>
+  <li>Fealty to the vision is explicit as the ability to overwork yourself,</li>
   <li>The ability to work late into the evening.</li>
   <li>The expectation that you are going to get beers with the coworkers after work.</li>
   <li>Coming in on Saturdays (good if your boss asks, but even better if you do it of your own volition).</li>
