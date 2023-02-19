@@ -17,7 +17,7 @@ image:    "icon-the-radical-atomic-composition.svg"
    width="70%"
    alt="">
  </div>
- <p>The <span class="_paradigm">RADICAL</span> molecule is made up of the  of the recently discovered atoms,</p>
+ <p>The <span class="_paradigm">RADICAL</span> molecule is made up of the  of the recently discovered atoms (in English),</p>
   <ul>
    <li>Foundation</li>
    <li>PRI</li>
