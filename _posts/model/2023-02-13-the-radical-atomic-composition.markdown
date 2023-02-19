@@ -13,7 +13,7 @@ image:    "icon-the-radical-atomic-composition.svg"
 <h1><span class="_paradigm">RADICAL</span></h1>
  <div class="_center">
   <img
-   src="/assets/img/pic-ththe-radical-atomic-compositione.svg"
+   src="/assets/img/pic-the-radical-atomic-compositione.svg"
    width="70%"
    alt="">
  </div>
