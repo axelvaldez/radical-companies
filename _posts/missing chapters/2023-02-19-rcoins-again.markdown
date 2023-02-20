@@ -30,8 +30,7 @@ image:    "icon-rcoin.svg"
  <p>As you probably figured by now, unlike dollars, euros, or yens, <span class="_paradigm">rCOIN</span>s are not anonymous. They bring along a transparent history and that makes them sovereign anywhere in the world. They are not backed up by a powerful nation, with more weapons that they know what to do with, but they are sovereign by the fact that their history contains everything, including all transactions and valuations that it has gone through since its origin.</p>
 
 <h1>Legitimacy</h1>
- <p>I wonder if it could be done with an Indiegogo-like model?</p>
- <p>For example, I am hungry and I want to purchase a cheeseburger. At first, people who know me and know what I am doing, trade their cheeseburger for <span class="_paradigm">rCOIN</span>s. Then, based on that, other people may trade their cheeseburgers for my <span class="_paradigm">rCOIN</span>s. They are co-investing in my company.</p>
+ <p>Say that I am hungry and I want to purchase a cheeseburger. At first, people who know me and know what I am doing, trade their cheeseburger for <span class="_paradigm">rCOIN</span>s. Then, based on that, other people may trade their cheeseburgers for my <span class="_paradigm">rCOIN</span>s. By that act, they are co-investing in my company.</p>
  <p>My social circle, and maybe others, accept my <span class="_paradigm">rCOIN</span>s at a discount. As my company gets close to delivering value, these <span class="_paradigm">rCOIN</span>s go up, too, towards 100%  of their value. The early believers, and subsequent supporters, gain. Instead of diluting the investors&rsquo; basket of <span class="_paradigm">rCOIN</span>s, it will increase its value. My <span class="_paradigm">rCOIN</span>s increase their legitmacy.</p>
 
 <h1>Big Spender</h1>
