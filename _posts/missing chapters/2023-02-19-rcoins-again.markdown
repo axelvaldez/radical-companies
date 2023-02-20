@@ -21,7 +21,7 @@ image:    "icon-rcoin.svg"
  <p>The seller does not have to explain how the currency is legitimate and the buyer already knows that its lasting value is backed up by a sovereign power.</p>
 
 <h1><span class="_paradigm"><span class="_paradigm">rCOIN</span></span>s</h1>
- <p><span class="_paradigm">rCOIN</span>s have a herculean task ahead when it comes to stepping away from tradition. It must derive both its legitimacy and sovereignty from people. There is no platform or nation-state to create sovereignty or legitimacy, rather a transparent protocol. The legitimacy and sovereignty of my personal coinage comes from the many I trade with (what would they be called, my community, my &ldquo;convivium?&rdquo;)</p>
+ <p><span class="_paradigm">rCOIN</span>s have a herculean task ahead when it comes to stepping away from tradition. It must derive both its legitimacy and sovereignty from people. There is no nation-state to create sovereignty or legitimacy, rather a transparent protocol. The legitimacy and sovereignty of my personal coinage comes from the many I trade with (what would they be called, my community, my &ldquo;convivium?&rdquo;)</p>
 
 <h1>Relationships</h1>
  <p>The US state has a one-to-many relationship with the US-dollar-using countries. We make US money centrally at will (by fiat), with central banks as distributors. The legitimacy comes from the trust that these powerful countries place on the US; the sovereignty flows from a central source to these countries, from one to many.</p>
