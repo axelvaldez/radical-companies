@@ -74,14 +74,20 @@ image:    "icon-rcoin.svg"
   </li>
   <li id="en02">
    <p class="_list-item">
-    The blockchain is not impervious to manipulation. See, DSHR&rsquo;s Blog: EE380 Talk &lt;<a href="https://radicals.world/aaJg8k">https://radicals.world/aaJg8k</a>&gt;. Also, DAOs  are neither <em>decentralized</em>, nor <em>autonomous</em>. See &lt;<a href="https://radicalcompanies.com/2022/05/09/daos-not-decentralized-not-autonomous.html">https://radicalcompanies.com/2022/05/09/daos-not-decentralized-not-autonomous.html</a>&gt;
+    The blockchain is not impervious to manipulation.
+    See,
+    <em>DSHR&rsquo;s Blog: EE380 Talk</em>
+    &lt;<a href="https://radicals.world/aaJg8k">https://radicals.world/aaJg8k</a>&gt;.
+    Also, see,
+    <em>DAOs Are Not Decentralized, Not Autonomous</em>,
+    &lt;<a href="https://radicalcompanies.com/2022/05/09/daos-not-decentralized-not-autonomous.html">https://radicalcompanies.com/2022/05/09/daos-not-decentralized-not-autonomous.html</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
    <p class="_list-item">
     Google Dictionary.
-    &lt;<https://radicals.world/FuTPvf>&gt;
+    &lt;<a href="https://radicals.world/FuTPvf"><https://radicals.world/FuTPvf></a>&gt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
