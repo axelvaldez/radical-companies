@@ -3,7 +3,7 @@ layout:   post
 title:    "<span class='_paradigm'>rCOIN</span>s, Again"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
-image:    "icon-<span class="_paradigm">rCOIN</span>.svg"
+image:    "icon-rcoin.svg"
 ---
 
 <div style="display:none;">
