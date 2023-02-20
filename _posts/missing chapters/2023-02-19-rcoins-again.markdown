@@ -17,7 +17,7 @@ image:    "icon-rcoin.svg"
 
 <h1>Legitimacy and Sovereignty</h1>
  <p>Legitimacy means you do not have to convince people to accept the particular currency you wish to exchange. Sovereignty means the currency is protected by a national power. The more legitimate and sovereign the currency, the easier to use it becomes. The seller and buyer of the currency exchange the currency as matter of routine.</p>
- <p>The seller does not have to explain that the currency is legitimate and the buyer already knows that its lasting value is backed up by a sovereign power.</p>
+ <p>The seller does not have to explain how the currency is legitimate and the buyer already knows that its lasting value is backed up by a sovereign power.</p>
 
 <h1><span class="_paradigm"><span class="_paradigm">rCOIN</span></span>s</h1>
  <p><span class="_paradigm">rCOIN</span>s have a herculean task when it comes to stepping away from tradition. It must derive both its legitimacy and sovereignty from people. There is no platform or nation-state to create sovereignty or legitimacy, rather a transparent protocol. The legitimacy and sovereignty of my personal coinage comes from the many I trade with (what would they be called, my community, my &ldquo;convivium?&rdquo;)</p>
