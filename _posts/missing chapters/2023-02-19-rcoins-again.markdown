@@ -10,14 +10,20 @@ image:    "icon-<span class="_paradigm">rCOIN</span>.svg"
  <p>Sovereignty and legitimacy are the two aspects any currency must have. The US dollar has become the worldwide clearing currency, the only legitimate currency in the eyes of many governments. But it is not sovereign, except in the US.</p>
 </div>
 
+xxx
+
 <h1>&nbsp;</h1>
  <p>Sovereignty and legitimacy are the two aspects any currency must have to be useful. The US dollar (&dollar;) has become the worldwide clearing currency, the only legitimate currency in the eyes of many governments. But it is not sovereign, except in the US. In most of Europe, the Euro (&euro;) is the sovereign currency. In Japan, the Yen (&yen;).</p>
  <p>This is a recent development, with national currencies formerly considered legitimate for trade (after lots of conversions).</p>
  <p>If we are to enter into a more decentralized age, with nation-states and corporations seeing an end to their monopolies, any new currency must achieve legitimacy and sovereignty. And not just for local transactions, but global transactiopns as well. Bitcoin and other crypto-currencies are not considered legitimate nor sovereign (<em>e.g.</em>, at restaurants).</p>
 
+yyy
+
 <h1>Legitimacy and Sovereignty</h1>
  <p>Legitimacy means you do not have to convince people to accept the particular currency you wish to exchange. Sovereignty means the currency is protected by a national power. The more legitimate and sovereign the currency, the easier to use it becomes. The seller and buyer of the currency exchange the currency as matter of routine.</p>
  <p>The seller does not have to explain that the currency is legitimate and the buyer already knows that its lasting value is backed up by a sovereign power.</p>
+
+zzz
 
 <h1><span class="_paradigm"><span class="_paradigm">rCOIN</span></span>s</h1>
  <p><span class="_paradigm">rCOIN</span>s have a herculean task when it comes to stepping away from tradition. It must derive both its legitimacy and sovereignty from people. There is no platform or nation-state to create sovereignty or legitimacy, rather a transparent protocol. The legitimacy and sovereignty of my personal coinage comes from the many I trade with (what would they be called, my community, my &ldquo;convivium?&rdquo;)</p>
