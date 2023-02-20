@@ -68,7 +68,7 @@ image:    "icon-rcoin.svg"
     David Gura.
     <em>2022 was the year crypto came crashing down to Earth</em>.
     Dec 2022.
-    &lt;<a href="https://…" target="_blank">https://…</a>&gt;
+    &lt;<a href="https://radicals.world/vYAuHt" target="_blank">https://radicals.world/vYAuHt</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
