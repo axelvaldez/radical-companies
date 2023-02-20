@@ -43,7 +43,7 @@ image:    "icon-rcoin.svg"
    <li>With our fingers crossed.</li>
  </ul>
 
-<h1>But Why Would I?</h1>
+<h1>Why Would I?</h1>
  <p>But, what would be the reason to take <span class="_paradigm">rCOIN</span>s from somebody with low-legitimacy?</p>
  <p>Well, the person is likely part of your social circle and you trust them. You accept their <span class="_paradigm">rCOIN</span>s at a discount. They do it because,</p>
   <ol>
