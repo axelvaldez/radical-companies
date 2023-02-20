@@ -52,7 +52,7 @@ image:    "icon-rcoin.svg"
   </ol>
  <p>Note that the first is a given, whereas the second is speculative.</p>
  <p>This is pretty much the way seed rounds are raised today, even though the <span class="_quotespan">deals</span> are opaque. <span class="_paradigm">rCOIN</span>s bring along a <em>transparent history</em>. You would most likely not bother looking at it and calculating its legitimacy and sovereignty, but your mobile will.</p>
- <p>Your mobile can tirelessly look through all of the <span class="_paradigm">rCOIN</span>&rsquo;s history and give you a go/no-go signal plus a recommended discount. (We used to tell people this and they found it unbelievable, <span class="_quotespan">That&rsquo;s&hellip;  utopian!</span>. Well, chatGPT has managed to slap that attitude out.)</p>
+ <p>Your mobile can tirelessly look through all of the <span class="_paradigm">rCOIN</span>&rsquo;s history and give you a go/no-go signal plus a recommended discount. As a side note, we used to tell people this and they found it unbelievable, <span class="_quotespan">That&rsquo;s&hellip;  utopian!</span>. Well, chatGPT has managed to slap that attitude out.</p>
 
 <h1>A Herculean Task Ahead</h1>
  <p>As we said at the top of this post, <span class="_paradigm">rCOIN</span>s will have a herculean task ahead when it comes to stepping away from tradition.</p>
