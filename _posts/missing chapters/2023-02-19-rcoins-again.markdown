@@ -31,7 +31,7 @@ image:    "icon-rcoin.svg"
 
 <h1>Legitimacy</h1>
  <p>Say that I am hungry and I want to purchase a cheeseburger. At first, people who know me and know what I am doing, trade their cheeseburger for <span class="_paradigm">rCOIN</span>s. Then, based on that, other people may trade their cheeseburgers for my <span class="_paradigm">rCOIN</span>s. By that act, they are co-investing in my company.</p>
- <p>My social circle, and maybe others, accept my <span class="_paradigm">rCOIN</span>s at a discount. As my company gets close to delivering value, these <span class="_paradigm">rCOIN</span>s go up, too, towards 100%  of their value. The early believers, and subsequent supporters, gain. Instead of diluting the investors&rsquo; basket of <span class="_paradigm">rCOIN</span>s, it will increase its value. My <span class="_paradigm">rCOIN</span>s increase their legitmacy.</p>
+ <p>My social circle, and maybe others, accept my <span class="_paradigm">rCOIN</span>s at a discount. As my company gets close to delivering value, these <span class="_paradigm">rCOIN</span>s go up, too, towards 100%  of their value. The early believers, and subsequent supporters, gain. Instead of diluting the investors&rsquo; basket of <span class="_paradigm">rCOIN</span>s, it will increase its value. My <span class="_paradigm">rCOIN</span>s increase their legitimacy.</p>
 
 <h1>Big Spender</h1>
  <p>But, wait, that&rsquo;s the ideal case. This could turn into a blank check for runaway personal consumption! Or, what if I spend it all on useless items at a cost to my social circle and everybody who trusted me? That may be so. Once. But in the future no one is going to trade with me. Perhaps, a few people will, but they will be more guarded. And if I keep doing it…</p>
