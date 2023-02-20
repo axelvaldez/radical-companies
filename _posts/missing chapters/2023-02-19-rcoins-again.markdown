@@ -20,8 +20,6 @@ image:    "icon-rcoin.svg"
  <p>The seller does not have to explain that the currency is legitimate and the buyer already knows that its lasting value is backed up by a sovereign power.</p>
 
 <h1>rCOINs</h1>
- <p>rCOINs must overcome these hurdles.</p>
- <p>A seller of a product on a platform like Amazon or Alibaba can increase their legitimacy by getting high star ratings. Their “sovereignty” is protected by the corporation providing a marketplace  platform.</p>
  <p>rCOINs have a herculean task when it comes to stepping away from tradition. It must derive both its legitimacy and sovereignty from people. There is no platform or nation-state to create sovereignty or legitimacy, rather a transparent protocol. The legitimacy and sovereignty of my personal coinage must come from the many I trade with. What would they be called: My community? My “convivium?”</p>
 
 <h1>Relationships</h1>
