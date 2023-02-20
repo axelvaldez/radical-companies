@@ -87,7 +87,7 @@ image:    "icon-rcoin.svg"
   <li id="en03">
    <p class="_list-item">
     Google Dictionary.
-    &lt;<a href="https://radicals.world/FuTPvf"><https://radicals.world/FuTPvf></a>&gt;
+    &lt;<a href="https://radicals.world/FuTPvf">https://radicals.world/FuTPvf</a>&gt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
