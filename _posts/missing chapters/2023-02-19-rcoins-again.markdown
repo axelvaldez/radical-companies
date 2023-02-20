@@ -29,15 +29,15 @@ image:    "icon-rcoin.svg"
  <p><span class="_paradigm">rCOIN</span>s, on the other hand, has a many-to-many legitimacy and its sovereignty comes from its transparent history. Legitimacy comes from the people who accept my <span class="_paradigm">rCOIN</span>s and sovereignity comes from its recorded history.</p>
  <p>As you probably figured by now, unlike dollars, euros, or yens, <span class="_paradigm">rCOIN</span>s are not anonymous. They bring along a transparent history and that makes them sovereign anywhere in the world. They are not backed up by a powerful nation, with more weapons that they know what to do with, but they are sovereign by the fact that their history contains everything, including all transactions and valuations that it has gone through since its origin.</p>
 
-<h1>Legitimacy, Sovereignty, and&hellip; <em>Crowdfunding</em>?</h1>
+<h1>Legitimacy</h1>
  <p>I wonder if it could be done with an Indiegogo-like model?</p>
  <p>For example, I am hungry and I want to purchase a cheeseburger. At first, people who know me and know what I am doing, trade their cheeseburger for <span class="_paradigm">rCOIN</span>s. Then, based on that, other people may trade their cheeseburgers for my <span class="_paradigm">rCOIN</span>s. They are co-investing in my company.</p>
- <p>My social circle and others accept my <span class="_paradigm">rCOIN</span>s at a discount. As my company gets close to delivering value, these <span class="_paradigm">rCOIN</span>s go up, too, towards 100%  of their value. The early believers, and subsequent supporters, gain. Instead of diluting the investors’ basket of <span class="_paradigm">rCOIN</span>s, it will increase its value.</p>
+ <p>My social circle, and maybe others, accept my <span class="_paradigm">rCOIN</span>s at a discount. As my company gets close to delivering value, these <span class="_paradigm">rCOIN</span>s go up, too, towards 100%  of their value. The early believers, and subsequent supporters, gain. Instead of diluting the investors&rsquo; basket of <span class="_paradigm">rCOIN</span>s, it will increase its value. My <span class="_paradigm">rCOIN</span>s increase their legitmacy.</p>
 
 <h1>Big Spender</h1>
- <p>But, wait, that’s the ideal case. This could turn into a blank check for runaway personal consumption! Or, what if I spend it all on useless items at a cost to my social circle and everybody who trusted me? That may be so. Once. But in the future no one is going to trade with me. Perhaps, a few people will, but they will be more guarded. And if I keep doing it…</p>
+ <p>But, wait, that&rsquo;s the ideal case. This could turn into a blank check for runaway personal consumption! Or, what if I spend it all on useless items at a cost to my social circle and everybody who trusted me? That may be so. Once. But in the future no one is going to trade with me. Perhaps, a few people will, but they will be more guarded. And if I keep doing it…</p>
  <p>BTW, this happens today. We used to put a lot of legal guardrails to make sure that people who are “<em>non qualified investors</em>” would even be allowed to become investors, but those guardrails are no longer. They were paternalistic and now we are supposed to act as adults.</p>
- <p>The problem is that, in spite of rumors to the contrary, today’s investments are not transparent. This means that we are supposed to,</p>
+ <p>The problem is that, in spite of rumors to the contrary, today&rsquo;s investments are not transparent. This means that we are supposed to,</p>
   <ul>
    <li>Make investments</li>
    <li>Like blind adults<li>
@@ -46,17 +46,21 @@ image:    "icon-rcoin.svg"
 
 <h1>But Why Would I?</h1>
  <p>But, what would be the reason to take <span class="_paradigm">rCOIN</span>s from somebody with low-legitimacy?</p>
- <p>Well, the person is likely part of your social circle and you trust them. You accept their <span class="_paradigm">rCOIN</span>s at a discount and figure that,</p>
+ <p>Well, the person is likely part of your social circle and you trust them. You accept their <span class="_paradigm">rCOIN</span>s at a discount. They do it because,</p>
   <ol>
    <li>The trade will increase the <span class="_paradigm">rCOIN</span>s <em>legitimacy</em>.<li>
-   <li>As the cheeseburger-eating people deliver value to the world, the value of their  <span class="_paradigm">rCOIN</span>s will go up. Their <em>sovereignty</em> increases.<li>
+   <li>As the cheeseburger-eating people deliver value to the world, the value of their <span class="_paradigm">rCOIN</span>s will go up. Now the history of my <span class="_paradigm">rCOIN</span>s includes the fact that the company backing them up is <em>sovereign</em> in the sense that it can back up its <span class="_paradigm">rCOIN</span>s.<li>
   </ol>
- <p>The first is a given, the second speculative.</p>
- <p>This is pretty much the way seed rounds are raised today.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> But <span class="_paradigm">rCOIN</span>s bring along a <em>transparent history</em>. People would not have to bother looking at it and calculating its legitimacy and sovereignty because your mobile will. It can tirelessly look through all of it and give you a go/no-go signal plus a recommended discount. We used to tell people this and they found it unbelievable, “that’s idealistic, utopian;” chatGPT has managed to slap that attitude right out of the arena.</p>
+ <p>Note that the first is a given, whereas the second is speculative.</p>
+ <p>This is pretty much the way seed rounds are raised today, even though the <span class="_quotespan">deals</span> are opaque. <span class="_paradigm">rCOIN</span>s bring along a <em>transparent history</em>. You would most likely not bother looking at it and calculating its legitimacy and sovereignty because your mobile will. Your mobile can tirelessly look through all the history and give you a go/no-go signal plus a recommended discount. (We used to tell people this and they found it unbelievable, “that&rsquo;s idealistic, utopian;” chatGPT has managed to slap that attitude right out of the arena.)</p>
 
 <h1>A Herculean Task Ahead</h1>
- <p>As we said at the top of this post, <span class="_paradigm">rCOIN</span>s will have a herculean task ahead when it comes to stepping away from tradition. Change is first perceived as a threat. But <span class="_paradigm">rCOIN</span>s are on the right side of history, national governments and their banks are on the wrong side, holding us back and something is going to have to change. Perhaps not exactly as the <span class="_paradigm">rCOIN</span>, but something very much like it.</p>
- <p>Finally, please (please) note that we never said anything about <span class="_paradigm">rCOIN</span>s being on a blockchain.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> They would have to be on a platform that guarantees their integrity, part of its legitimacy, but we don’t specify what that platform is. The technology to do it sustainably is either here or within reach. Even if we go through less-than-bullet proof technology, the worst that could happen is that people, perhaps many, will invest a relatively small amount on the not-quite-legitimate <span class="_paradigm">rCOIN</span>s. But remember that this will go in an <span class="_paradigm">rCOIN</span>’s history. People will have lots of <em>caveat emptor</em> and can check “the quality and suitability of goods before a purchase is made.”<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
+ <p>As we said at the top of this post, <span class="_paradigm">rCOIN</span>s will have a herculean task ahead when it comes to stepping away from tradition.</p>
+ <p>Change is perceived as a threat.</p>
+ <p>We are counting on the fact that <span class="_paradigm">rCOIN</span>s are on the right side of history. National governments and their banks are on the wrong side, holding us backl. Something is going to have to change. Perhaps the change will not result in <span class="_paradigm">rCOIN</span>s, but it would be something close to it, that doesn&rsquo;t depend on national interests.</p>
+
+<h1>Did We Say Blockchain?</h1>
+ <p>Finally, please, please, note that we never said anything about <span class="_paradigm">rCOIN</span>s being on a blockchain.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> They would have to be on a platform that guarantees their integrity, part of its legitimacy, but we don&rsquo;t specify what that platform is. The technology to do it sustainably is either here or within reach. Even if we go through less-than-bullet proof technology, the worst that could happen is that people, perhaps many, will invest a relatively small amount on the not-quite-legitimate <span class="_paradigm">rCOIN</span>s. But remember that this will go in an <span class="_paradigm">rCOIN</span>&rsquo;s history. People will have lots of <em>caveat emptor</em> and can check “the quality and suitability of goods before a purchase is made.”<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
@@ -71,7 +75,7 @@ image:    "icon-rcoin.svg"
   </li>
   <li id="en02">
    <p class="_list-item">
-    The blockchain is not impervious to manipulation. See, DSHR’s Blog: EE380 Talk &lt;<a href="https://radicals.world/aaJg8k">https://radicals.world/aaJg8k</a>&gt;. Also, DAOs  are neither <em>decentralized</em>, nor <em>autonomous</em>. See &lt;<a href="https://radicalcompanies.com/2022/05/09/daos-not-decentralized-not-autonomous.html">https://radicalcompanies.com/2022/05/09/daos-not-decentralized-not-autonomous.html</a>&gt;
+    The blockchain is not impervious to manipulation. See, DSHR&rsquo;s Blog: EE380 Talk &lt;<a href="https://radicals.world/aaJg8k">https://radicals.world/aaJg8k</a>&gt;. Also, DAOs  are neither <em>decentralized</em>, nor <em>autonomous</em>. See &lt;<a href="https://radicalcompanies.com/2022/05/09/daos-not-decentralized-not-autonomous.html">https://radicalcompanies.com/2022/05/09/daos-not-decentralized-not-autonomous.html</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
