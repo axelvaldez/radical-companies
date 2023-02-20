@@ -16,7 +16,7 @@ image:    "icon-rcoin.svg"
  <p>If we are to enter into a more decentralized age, with nation-states and corporations seeing an end to their monopolies, any new currency must achieve legitimacy and sovereignty. And not just for local transactions, but global transactiopns as well. Bitcoin and other crypto-currencies are not considered legitimate nor sovereign (<em>e.g.</em>, at restaurants).</p>
 
 <h1>Legitimacy and Sovereignty</h1>
- <p>Legitimacy means you do not have to convince people to accept the particular currency you wish to exchange. Sovereignty means the currency is protected from delegitimization by a power. So the more legitimate and sovereign the currency, the easier it becomes to use. Less and less conversations need to be had about a new currency from both the seller, who is trying to establish legitimacy, and the buyer of the currency, who is trying to be assured of its sovereignty and its lasting value.</p>
+ <p>Legitimacy means you do not have to convince people to accept the particular currency you wish to exchange. Sovereignty means the currency is protected by a national power. So the more legitimate and sovereign the currency, the easier to use it becomes. The seller and buyer of the currency exchange the currency as matter of routine. The seller doesn't have to explain its legitimacy and the buyer already know that its lasting value is backed up by a sovereign power.</p>
 
 <h1>rCOINs</h1>
  <p>rCOINs must overcome these hurdles.</p>
