@@ -7,7 +7,7 @@ image:    "icon-rcoin.svg"
 ---
 
 <div style="display:none;">
- <p>Every currency must have <em>legitimacy</em> and <em>sovereignty</em>. The US dollar has become a legitimate currency in the eyes of many governments, but it is not sovereign, except in the US.</p>
+ <p>Every currency must have <em>legitimacy</em> and <em>sovereignty</em>. For example, the US dollar has become a legitimate currency in the eyes of many governments, but it is not sovereign, except in the US.</p>
 </div>
 
 <!--
