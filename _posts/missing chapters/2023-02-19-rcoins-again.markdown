@@ -35,7 +35,7 @@ image:    "icon-rcoin.svg"
 
 <h1>Big Spender</h1>
  <p>But, wait, that&rsquo;s the ideal case. This could turn into a blank check for runaway personal consumption! Or, what if I spend it all on useless items at a cost to my social circle and everybody who trusted me? That may be so. Once. But in the future no one is going to trade with me. Perhaps, a few people will, but they will be more guarded. And if I keep doing it…</p>
- <p>BTW, this happens today. We used to put a lot of legal guardrails to make sure that people who are “<em>non qualified investors</em>” would even be allowed to become investors, but those guardrails are no longer. They were paternalistic and now we are supposed to act as adults.</p>
+ <p>BTW, this happens today. We used to put a lot of legal guardrails to make sure that people who are <span calss="_quotespan">non qualified investors</span> would not be allowed to become investors, but those guardrails are no longer. They were paternalistic and now we are supposed to act as adults.</p>
  <p>The problem is that, in spite of rumors to the contrary, today&rsquo;s investments are not transparent. This means that we are supposed to,</p>
   <ul>
    <li>Make investments</li>
