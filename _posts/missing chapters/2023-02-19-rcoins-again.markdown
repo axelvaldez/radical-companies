@@ -26,7 +26,7 @@ image:    "icon-rcoin.svg"
 
 <h1>Relationships</h1>
  <p>The US makes money centrally, at will (by fiat), with banks as distributors. The legitimacy comes from the trust that other powerful countries place on the US; its sovereignty flows from the weaponry we have. Legitimacy is one to many, sovereignty is exclusive.</p>
- <p><span class="_paradigm">rCOIN</span>s, on the other hand, has a many-to-many legitimacy and its sovereignty comes from its transparent history. Legitimacy comes from the people who accept my <span class="_paradigm">rCOIN</span>s and sovereignity comes from its recorded history.</p>
+ <p><span class="_paradigm">rCOIN</span>s, on the other hand, has a many-to-many legitimacy and its sovereignty comes from its transparent history. Legitimacy comes from the people who accept my <span class="_paradigm">rCOIN</span>s and sovereignty comes from its recorded history.</p>
  <p>As you probably figured by now, unlike dollars, euros, or yens, <span class="_paradigm">rCOIN</span>s are not anonymous. They bring along a transparent history and that makes them sovereign anywhere in the world. They are not backed up by a powerful nation, with more weapons that they know what to do with, but they are sovereign by the fact that their history contains everything, including all transactions and valuations that it has gone through since its origin.</p>
 
 <h1>Legitimacy</h1>
