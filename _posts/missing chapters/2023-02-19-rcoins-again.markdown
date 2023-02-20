@@ -55,8 +55,7 @@ image:    "icon-rcoin.svg"
  <p>Your mobile can tirelessly look through all of the <span class="_paradigm">rCOIN</span>&rsquo;s history and give you a go/no-go signal plus a recommended discount. As a side note, we used to tell people this and they found it unbelievable, <span class="_quotespan">That&rsquo;s&hellip;  utopian!</span>. Well, chatGPT has managed to slap that attitude out.</p>
 
 <h1>A Herculean Task Ahead</h1>
- <p>As we said at the top of this post, <span class="_paradigm">rCOIN</span>s will have a herculean task ahead when it comes to stepping away from tradition.</p>
- <p>Change is perceived as a threat.</p>
+ <p>As we said at the top of this post, <span class="_paradigm">rCOIN</span>s will have a herculean task ahead when it comes to stepping away from tradition. Change is perceived as a threat.</p>
  <p>We are counting on the fact that <span class="_paradigm">rCOIN</span>s are on the right side of history. National governments and their banks are on the wrong side, holding us backl. Something is going to have to change. Perhaps the change will not result in <span class="_paradigm">rCOIN</span>s, but it would be something close to it, that doesn&rsquo;t depend on national interests.</p>
 
 <h1>Did We Say Blockchain?</h1>
