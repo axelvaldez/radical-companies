@@ -39,8 +39,8 @@ image:    "icon-rcoin.svg"
  <p>The problem is that, in spite of rumors to the contrary, today&rsquo;s investments are not transparent. This means that we are supposed to,</p>
   <ul>
    <li>Make investments</li>
-   <li>Like blind adults<li>
-   <li>With a wallop of luck and our fingers crossed.</li>
+   <li>Like blind adults</li>
+   <li>With our fingers crossed.</li>
  </ul>
 
 <h1>But Why Would I?</h1>
