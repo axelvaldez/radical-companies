@@ -7,7 +7,7 @@ image:    "icon-rcoin.svg"
 ---
 
 <div style="display:none;">
- <p>Sovereignty and legitimacy are the two aspects any currency must have. The US dollar has become the worldwide clearing currency, the only legitimate currency in the eyes of many governments. But it is not sovereign, except in the US.</p>
+ <p>Every currency must have <em>legitimacy</em> and <em>sovereignty</em>. The US dollar has become a legitimate currency in the eyes of many governments, but it is not sovereign, except in the US.</p>
 </div>
 
 <!--
