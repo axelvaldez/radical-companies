@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "<span class='_paradigm'>rCOIN</span>s, Again"
+title:    "rCOINs, Again"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
 image:    "icon-rcoin.svg"
