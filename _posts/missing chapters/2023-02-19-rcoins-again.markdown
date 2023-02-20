@@ -30,7 +30,7 @@ image:    "icon-rcoin.svg"
  <p>rCOINs needed is a many-to-one confirmation of legitimacy and sovereignty. My rCOINs legitimacy comes from the people who accept them from me: they accept them, therefore they are (somewhat) legitimate.</p>
  <p>By the same token, they are sovereign. The fact that people are trading with me and accept my rCOINs makes them legitimate.</p>
 
-<h1>Legitimacy and Sovereign… <em>Crowdfunding</em>?</h1>
+<h1>Legitimacy and Sovereignty… <em>Crowdfunding</em>?</h1>
  <p>I wonder if it could be done with an Indiegogo-like model?</p>
  <p>For example, I am hungry and I want to purchase a cheeseburger. At first, people who know me and know what I am doing, trade their cheeseburger for rCOINs. Then, based on that, other people may trade their cheeseburgers for my rCOINs. They are co-investing in my company.</p>
  <p>My social circle and others accept my rCOINs at a discount. As my company gets close to delivering value, these rCOINs go up, too, towards 100%  of their value. The early believers, and subsequent supporters, gain. Instead of diluting the investors’ basket of rCOINs, it will increase its value.</p>
