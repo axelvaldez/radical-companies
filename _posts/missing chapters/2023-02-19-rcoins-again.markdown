@@ -51,7 +51,8 @@ image:    "icon-rcoin.svg"
    <li>As the cheeseburger-eating people deliver value to the world, the value of their <span class="_paradigm">rCOIN</span>s will go up. Now the history of my <span class="_paradigm">rCOIN</span>s includes the fact that the company backing them up is <em>sovereign</em> in the sense that it can back up its <span class="_paradigm">rCOIN</span>s.</li>
   </ol>
  <p>Note that the first is a given, whereas the second is speculative.</p>
- <p>This is pretty much the way seed rounds are raised today, even though the <span class="_quotespan">deals</span> are opaque. <span class="_paradigm">rCOIN</span>s bring along a <em>transparent history</em>. You would most likely not bother looking at it and calculating its legitimacy and sovereignty because your mobile will. Your mobile can tirelessly look through all the history and give you a go/no-go signal plus a recommended discount. (We used to tell people this and they found it unbelievable, <span class="_quotespan">that&rsquo;s&hellip;  utopian!</span>. Well, chatGPT has managed to slap that attitude right out of the arena.)</p>
+ <p>This is pretty much the way seed rounds are raised today, even though the <span class="_quotespan">deals</span> are opaque. <span class="_paradigm">rCOIN</span>s bring along a <em>transparent history</em>. You would most likely not bother looking at it and calculating its legitimacy and sovereignty, but your mobile will.</p>
+ <p>Your mobile can tirelessly look through all the history and give you a go/no-go signal plus a recommended discount. (We used to tell people this and they found it unbelievable, <span class="_quotespan">that&rsquo;s&hellip;  utopian!</span>. Well, chatGPT has managed to slap that attitude right out of the arena.)</p>
 
 <h1>A Herculean Task Ahead</h1>
  <p>As we said at the top of this post, <span class="_paradigm">rCOIN</span>s will have a herculean task ahead when it comes to stepping away from tradition.</p>
