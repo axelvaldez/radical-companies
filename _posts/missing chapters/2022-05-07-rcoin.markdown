@@ -3,7 +3,7 @@ layout:   post
 title:    "rCOIN: Decentralized Minting"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-rcoin-decentralized-minting.svg"
+image:    "icon-rcoin-decentralized-minting-en.svg"
 ---
 
 <div style="display: none; ">
