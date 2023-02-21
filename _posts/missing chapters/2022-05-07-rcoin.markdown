@@ -149,7 +149,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p><span class="_paradigm">rCOIN</SPAN>s are minted by companies, not a national government.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/pic-rcoin-decentralized-minting-en.svg" alt="A company gets REVENUE, at the top, and sends COINs out to the world, at the bottom. In parallel, a company mints its own COINs, as needed, and they go out to the world mixed in with REVENUE COINs." title="Decentralizd Minting" style="align: center; "></p>
-  <p>For example, BenCO mints 30,000 <span class="_paradigm">rCOIN</span> and promises to repay them in three years. All this information goes on a transparent digital store (<em>e.g.</em>, blockchain or similar secure) that would include, at a minimum,</p>
+  <p>For example, BenCO mints 30,000 <span class="_paradigm">rCOIN</span> and promises to repay them in three years. All this information goes on a transparent digital store that would include, at a minimum,</p>
   <ul>
    <li>The amount of <span class="_paradigm">rCOIN</span> (30,000),</li>
    <li>The name of the company which minted them (BenCO),</li>
