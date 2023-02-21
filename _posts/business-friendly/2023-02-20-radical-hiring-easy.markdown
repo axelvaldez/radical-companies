@@ -2,7 +2,7 @@
 layout:   post
 title:    "RADICAL Hiring? Easy!"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez"
+authors:  "Adrian Perez"
 image:    "icon-radical-hiring-easy.svg"
 ---
 
