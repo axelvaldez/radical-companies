@@ -10,6 +10,7 @@ image:    "icon-radical-hiring-easy.svg"
  <p>I keep having this image of being able to show up at a company and start to work there without the interviews, the judgment, or any of the other barriers. The act of hiring is a very <span class="_paradigm">FIAT</span> thing, it reeks of command and control.</p>
 </div>
 
+<!--
 <h1><span class="_paradigm"><span class="_paradigm">$1</span></span>s</h1>
  <p>I keep having this image of being able to show up at a company and start to work there without the interviews, the judgment, or any of the other barriers. The act of hiring is a very <span class="_paradigm">FIAT</span> thing, it reeks of command and control.</p>
  <p>I suspect it has to do with the way I was hired at XCOR Aerospace. My friend and I called them up and asked if we could visit. They said “yes,” and we drove seven hours out into the Mojave desert. They could not show us around because they were testing their rocket plane. However, they asked us if we wanted to help roll the rocket plane out, which did we without hesitation. When we saw the test, we were immediately sold on working there.</p>
@@ -25,6 +26,7 @@ image:    "icon-radical-hiring-easy.svg"
    <li>Later, we then can go through the Trust Agreement and, if everything goes well, you are part of the company.</li>
   </ul>
  <p>Easy piecy!</p>
+-->
 
 <h1 class="_section">RELATED</h1>
  <ul>
