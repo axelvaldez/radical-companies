@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "PTSD and Trust"
+title:    "Trust and PTSD"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
-image:    "icon-ptsd-and-trust.svg"
+image:    "icon-trust-and-ptsd.svg"
 ---
 
 <div style="display:none;">
