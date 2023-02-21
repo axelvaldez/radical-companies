@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "rCOIN"
-subtitle: "Towards a World-Wide Market"
+title:    "rCOIN: Decentralized Minting"
+subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-rcoin.svg"
+image:    "icon-rcoin-decentralized-minting.svg"
 ---
 
 <div style="display: none; ">
