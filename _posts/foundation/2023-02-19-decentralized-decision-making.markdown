@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "RADICAL Hiring"
+title:    "Decentralized Decision Making"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
-image:    "icon-radical-hiring.svg"
+image:    "icon-decentralized-decision-making.svg"
 ---
 
 <div style="display:none;">
