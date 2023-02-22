@@ -3,7 +3,7 @@ layout:   post
 title:    "From Capital to Contribution"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-ptsd-and-trust.svg"
+image:    "icon-from-capital-to-contributions.svg"
 ---
 
 <div style="display:none;">
