@@ -7,7 +7,7 @@ image:    "icon-radical-hiring-easy.svg"
 ---
 
 <div style="display:none;">
- <p>I keep having this image of being able to show up at a company and start to work there without the interviews, the judgment, or any of the other barriers. The act of hiring is a very <span class="_paradigm">FIAT</span> thing, it reeks of command and control.</p>
+ <p>I keep having this image of being able to show up at a company and start to work there without the interviews, the judgment, or any of the other barriers.</p>
 </div>
 
 <!--
