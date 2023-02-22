@@ -108,7 +108,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    <ul>
     <li>For the Impatient: <a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient</a></li>
     <li>Frequently Asked Questions (FAQ): <a href="https://radicalcompanies.com/2022/05/04/radical-companies-faq" target="_blank">https://radicalcompanies.com/2022/05/04/radical-companies-faq</a></li>
-    <li>rCoin: <a href="https://radicalcompanies.com/2022/05/07/rcoin-decentralized-minting.html" target="_blank">https://radicalcompanies.com/2022/05/07/rcoin-decentralized-minting.html</a></li>.html" target="_blank">https://radicalcompanies.com/2022/05/07/rcoin.html</a></li>
+    <li>rCOIN: <a href="https://radicalcompanies.com/2022/05/07/rcoin-decentralized-minting.html" target="_blank"></a></li>.html" target="_blank">https://radicalcompanies.com/2022/05/07/rcoin.html</a></li>
     <li>rLand: <a href="https://radicalcompanies.com/2022/05/06/rland.html" target="_blank">https://radicalcompanies.com/2022/05/06/rland.html</a></li>
     <li>rGov: <a href="https://radicalcompanies.com/2022/05/05/rgov.html" target="_blank">https://radicalcompanies.com/2022/05/05/rgov.html</a></li>
    </ul>
