@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "rCOINs, Again xxxx"
+title:    "rCOINs, Again"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
 image:    "icon-rcoin-decentralized-minting-en.svg"
