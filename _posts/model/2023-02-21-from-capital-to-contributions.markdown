@@ -11,7 +11,7 @@ image:    "icon-from-capital-to-contributions.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>I don&rsquo;t know what is the alternative to capitalism. What I do know is to how to transform capital-based ownership to co-ownership, based on contributions recognized by the the social circle.</p>
+ <p>I don&rsquo;t know what is the alternative to capitalism. What I do know is to how to transform capital-based ownership to co-ownership, based on contributions recognized by your peers.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
