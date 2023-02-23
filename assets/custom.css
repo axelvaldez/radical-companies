@@ -402,8 +402,8 @@ table._background tr ul, ul li p:last-of-type {
 }
 ._box {
   transition: width 2s;
-  visibility:visible;
+  visibility:hidden;
 }
 ._box:hover {
-  visibility:hidden;
+  visibility:visible;
 }
