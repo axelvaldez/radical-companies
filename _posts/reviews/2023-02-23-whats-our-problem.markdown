@@ -28,7 +28,7 @@ image:    "icon-whats-our-problem.svg"
  </ul>
 
 <input id="toggle" type="checkbox" style="visibility:hidden">
-<label for="toggle"> CLICK ME </label>
+<label for="toggle">RELATED</label>
 <div class="_box"> </div>
 
 <h1 class="_section">RELATED</h1>
