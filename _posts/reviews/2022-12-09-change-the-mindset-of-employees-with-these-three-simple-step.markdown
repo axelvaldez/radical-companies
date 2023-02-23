@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Change the Mindset of Employees with These Three Simple Steps — Through the RADICAL Lense"
+title:    "Change the Mindset of Employees with These Three Simple Steps"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-change-the-mindset-of-employees-with-theres-three-simple-stesmp-through-the-radical-lense.svg"

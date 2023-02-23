@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Network Society and Future Scenarios for a Collaborative Economy: Through the RADICAL Lense"
+title:    "Network Society and Future Scenarios for a Collaborative Economy"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy-through-the-radical-lense.svg"
+image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy.svg"
 ---
 
 <div style="display:none;">
@@ -15,7 +15,7 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy
  <p>Their view from a different perspective, the see three models competing for power: traditional capitalism, neo-feudal cognitive capitalism, and  Commons-based  peer  production. Their favorite is the latter,</p>
  <div class="_center">
   <img
-   src="/assets/img/pic-network-society-and-future-scenarios-for-a-collaboration-economy-through-the-radical-lense.svg"
+   src="/assets/img/pic-network-society-and-future-scenarios-for-a-collaboration-economy.svg"
    width="70%"
    alt=""
    >

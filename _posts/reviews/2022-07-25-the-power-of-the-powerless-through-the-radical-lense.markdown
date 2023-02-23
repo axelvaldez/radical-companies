@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The Power of the Powerless: Through the RADICAL Lense"
+title:    "The Power of the Powerless"
 subtitle: "Businesses are dictatorships"
 authors:  "Matt Perez"
 image:    "icon-the-power-of-the-powerless.svg"
