@@ -27,7 +27,7 @@ image:    "icon-whats-our-problem.svg"
   </li>
  </ul>
 
-<input type="checkbox" id="toggle" name="scales" unchecked>
+<input type="checkbox" id="toggle" name="scales" unchecked />
 <label for="toggle">RELATED</label>
 <div class="_box"></div>
 
