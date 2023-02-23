@@ -401,8 +401,8 @@ table._background tr ul, ul li p:last-of-type {
   font-size:smaller;
 }
 ._box {
-  opacity:0;
+  opacity:0.0;
 }
 ._box:hover {
-  opacity:1;
+  opacity:1.9;
 }
