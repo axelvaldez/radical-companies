@@ -401,11 +401,11 @@ table._background tr ul, ul li p:last-of-type {
   font-size:smaller;
 }
 ._box {
-  width:200px;
-  height:200px;
-  background-color:red;
-  transition:all 0.4s linear;
+  width: 100px;
+  height: 100px;
+  background: red;
+  transition: width 2s;
 }
-input:hover _box {
-  height:400px;
+._box:hover {
+  width:400px;
 }
