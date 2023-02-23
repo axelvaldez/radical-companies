@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "From Capital to Contribution"
+title:    "From Capital to Contributions"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-from-capital-to-contributions.svg"
