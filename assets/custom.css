@@ -401,9 +401,6 @@ table._background tr ul, ul li p:last-of-type {
   font-size:smaller;
 }
 ._box {
-  width: 100px;
-  height: 100px;
-  background: red;
   transition: width 2s;
 }
 ._box:hover {
