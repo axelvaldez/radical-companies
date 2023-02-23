@@ -400,3 +400,9 @@ table._background tr ul, ul li p:last-of-type {
 ._p {
   font-size:smaller;
 }
+._box {
+  transition:all 0.4s linear;
+}
+input:checked ~ .box {
+  height:220px;
+}

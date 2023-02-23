@@ -12,7 +12,7 @@ image:    "icon-whats-our-problem.svg"
 
 <h1>&nbsp;</h1>
  <p>In <em>What's Our Problem: A Self-Help Book for Societies</em>, Tim Burton, the author, uses a clever illustration that lays out all of human history as a 1,000 page book. He then asks, <span class="_quotespan">if the catastrophes of page 1,000 [uncluding the two World Wars] were the most devasting yet, what does that mean about catastrophies in page 1,001?</span></p>
- <p><span class="_quotespan">The jump in technology from page 1,000 to 1,001 should prove to be even more extreme that the jump from 999 to 1,000&mdashg;maybe many times more so.</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> and this is why we need to get away from <span class="_paradigm">FIAT</span> sooner than later.</p>
+ <p><span class="_quotespan">The jump in technology from page 1,000 to 1,001 should prove to be even more extreme that the jump from 999 to 1,000&mdashg;maybe many times more so.</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> and this is why we need to get away from <span class="_paradigm">FIAT</span> real soon.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
@@ -27,7 +27,11 @@ image:    "icon-whats-our-problem.svg"
   </li>
  </ul>
 
-<h1 class="_section">RELATED</h1>
+<input id="toggle" type="checkbox" style="visibility:hidden">
+<label for="toggle"> CLICK ME </label>
+<div class="_box"> </div>
+
+<h1 class="_section">RELATED
  <ul>
   <li>RADICAL COMPANIES,</li>
    <ul>
@@ -79,3 +83,4 @@ image:    "icon-whats-our-problem.svg"
      <li>  First of Earth (11 episodes): <a href="https://radical-companies-repo/2022/03/01/E01-first-of-earth" target="_blank">https://radical-companies-repo/2022/03/01/E01-first-of-earth</a></li>
      <li>The FIAT Enclaves (3 episodes): <a href="https://2022/03/11/E11/the-fiat-enclaves" target="_blank">https://2022/03/11/E11/the-fiat-enclaves</a></li>
     </ul>
+   </h1>
