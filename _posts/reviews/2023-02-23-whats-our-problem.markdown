@@ -27,7 +27,7 @@ image:    "icon-whats-our-problem.svg"
   </li>
  </ul>
 
-yyy
+zzz
 
 <h1 class="_section">RELATED</h1>
  <div class="_box">
