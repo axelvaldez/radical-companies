@@ -31,7 +31,7 @@ image:    "icon-whats-our-problem.svg"
 <label for="toggle"> CLICK ME </label>
 <div class="_box"> </div>
 
-<h1 class="_section">RELATED
+<h1 class="_section">RELATED</h1>
  <ul>
   <li>RADICAL COMPANIES,</li>
    <ul>
@@ -83,4 +83,3 @@ image:    "icon-whats-our-problem.svg"
      <li>  First of Earth (11 episodes): <a href="https://radical-companies-repo/2022/03/01/E01-first-of-earth" target="_blank">https://radical-companies-repo/2022/03/01/E01-first-of-earth</a></li>
      <li>The FIAT Enclaves (3 episodes): <a href="https://2022/03/11/E11/the-fiat-enclaves" target="_blank">https://2022/03/11/E11/the-fiat-enclaves</a></li>
     </ul>
-   </h1>
