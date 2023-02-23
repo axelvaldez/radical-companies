@@ -27,7 +27,7 @@ image:    "icon-whats-our-problem.svg"
   </li>
  </ul>
 
-<h1 class="_section">RELATED <span class="_uparrow">^</span></h1>
+<h1 class="_section">RELATED </h1>
  <div class="_box">
   <ul>
    <li>RADICAL COMPANIES,</li>
