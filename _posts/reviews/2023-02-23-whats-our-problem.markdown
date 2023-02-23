@@ -27,8 +27,8 @@ image:    "icon-whats-our-problem.svg"
   </li>
  </ul>
 
-<input type="toggle" id="toggle" name="togglexxx" />
-<label for="toggle">UNRELATED</label>
+<input type="checkbox" id="toggle" name="toggle" />
+<label for="toggle">UN-RELATED</label>
 <div class="_box"></div>
 
 <h1 class="_section">RELATED</h1>
