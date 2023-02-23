@@ -7,7 +7,7 @@ image:    "icon-from-capital-to-contributions.svg"
 ---
 
 <div style="display:none;">
- <p>I don&rsquo;t know what is the alternative to capitalism, I can&rsquo;t think of one. </p>
+ <p>I don&rsquo;t know what is the alternative to capitalism, I can&rsquo;t think of one.</p>
 </div>
 
 <h1>&nbsp;</h1>
