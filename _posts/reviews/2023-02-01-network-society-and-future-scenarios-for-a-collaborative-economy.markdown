@@ -3,7 +3,7 @@ layout:   post
 title:    "Network Society and Future Scenarios for a Collaborative Economy"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-network-society-and-future-scenarios-for-a-collaboration-economy.svg"
+image:    "icon-network-society-and-future-scenarios-for-a-collaborative-economy.svg"
 ---
 
 <div style="display:none;">
