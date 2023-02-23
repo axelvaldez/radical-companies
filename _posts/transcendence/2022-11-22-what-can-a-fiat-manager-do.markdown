@@ -49,7 +49,8 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
   </li>
  </ol>
 
-<h1 class="_section">RELATED</h1>
+{% include related.html %}
+
  <ul>
   <li>RADICAL COMPANIES,</li>
    <ul>

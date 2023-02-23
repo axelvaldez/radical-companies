@@ -19,7 +19,8 @@ image:    "icon-cookie-wisdom.svg"
  </div>
  <!-- <p style="font-size:100px; ">&#128406;</p> -->
 
-<h1 class="_section">RELATED</h1>
+{% include related.html %}
+
  <ul>
   <li>RADICAL COMPANIES,</li>
    <ul>
