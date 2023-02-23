@@ -27,9 +27,9 @@ image:    "icon-whats-our-problem.svg"
   </li>
  </ul>
 
-<input id="toggle" type="checkbox" style="visibility:hidden">
+<input type="checkbox" id="toggle" name="scales" checked style="visibility:hidden">
 <label for="toggle">RELATED</label>
-<div class="_box"> </div>
+<div class="_box"></div>
 
 <h1 class="_section">RELATED</h1>
  <ul>
