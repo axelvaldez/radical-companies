@@ -406,6 +406,6 @@ table._background tr ul, ul li p:last-of-type {
   background-color:red;
   transition:all 0.4s linear;
 }
-input:checked ~ ._box {
+input:checked ~ _box {
   height:400px;
 }
