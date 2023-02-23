@@ -28,7 +28,7 @@ image:    "icon-whats-our-problem.svg"
  </ul>
 
 <input type="checkbox" id="toggle" name="scales" unchecked>
-<label for="toggle">RELATED</label>
+<label for="toggle">CO-RELATED</label>
 <div class="_box"></div>
 
 <h1 class="_section">RELATED</h1>
