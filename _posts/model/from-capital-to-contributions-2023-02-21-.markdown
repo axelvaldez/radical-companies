@@ -7,11 +7,12 @@ image:    "icon-from-capital-to-contributions.svg"
 ---
 
 <div style="display:none;">
- <p>I don&rsquo;t know what is the alternative to capitalism, I can&rsquo;t think of one.</p>
+ <p>We have to get away from capital to contributions as the basis of our culture.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>I don&rsquo;t know what is the alternative to capitalism. What I do know is to how to transform capital-based ownership to co-ownership, based on contributions recognized by your peers.</p>
+ <p>We have to get away from capital to  recognized contributions as the basis of our culture. I mean recognized by your peers not a bureaucratic set of rules.</p>
+ <p>We can then move from today&rsquo;s capital-based ownership to contributio-based co-ownership.</p>
 
 <h1 class="_section">RELATED</h1>
  <ul>
