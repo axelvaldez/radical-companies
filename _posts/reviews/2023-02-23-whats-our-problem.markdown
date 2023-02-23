@@ -26,5 +26,6 @@ image:    "icon-whats-our-problem.svg"
    </p>
   </li>
  </ul>
+% include
 
 {% include related.html %}
