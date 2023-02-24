@@ -346,7 +346,8 @@ table._background tr ul, ul li p:last-of-type {
   content: "”";
 }
 div._quotespan {
-  text-indent:-2em;
+  margin-left:1.75em;
+  text-indent:-1.75em;
 }
 div._quotespan::before {
   content:"— “";
