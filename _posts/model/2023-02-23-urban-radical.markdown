@@ -40,7 +40,7 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">Why?</div>
  <div class="_quotespan">Because you exist every day and your existance contributes to the creation and growth of things, wether you are (air quotes) <em>working</em> or not.</div>
  <div class="_quotespan">OK, go on.</div>
- <div class="_quotespan">You get one RAD per day and at the end of, say, a monthly cycle the app figures what percenta of your recognized contribution each co-owner gets and gives  each person that many RADs.</div>
+ <div class="_quotespan">You get one RAD per day and at the end of, say, a monthly cycle the app figures what percentage of your recognized contribution each co-owner gets and gives  each person that many RADs.</div>
  <div class="_quotespan">So you don&rsquo;t get to keep the RADs, right?</div>
  <div class="_quotespan">Nope. Right.</div>
  <div class="_quotespan">What are the rules that determine that a recognized contributioin is legit?</div>
