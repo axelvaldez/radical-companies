@@ -10,7 +10,7 @@ image:    "icon-urban-radical.svg"
  <p>An imaginary conversation with Tim Urban on co-management and co-ownership.</p>
 </div>
 
-<h1 class="_section">ENDNOTES</h1>
+<h1 class="_section">&#8964; ENDNOTES &#8964;</h1>
  <ul>
   <li id="en01">
    <p class="_list-item">
