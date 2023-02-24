@@ -12,10 +12,14 @@ image:    "icon-urban-radical.svg"
 
 <h1></h1>
  <p>Below is an imaginary conversation with Tim Urban on co-management and co-ownership. This ocurred to me after reading <em>What&rsquo;s Ours Problem: A Self-Help Book for Society</em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> in one sitting.</p>
+
+<h1>Co-Management</h1>
  <div class="_quotespan">What do you know about co-management?</div>
  <div class="_quotespan">What is it?</div>
  <div class="_quotespan">Co-management is pretty much what people call self-management today. We call it co-management because it refers to the work we do together. The corporation doesn&rsquo;t manage it<em>self</em>, people co-manage it.</div>
  <div class="_quotespan">OK, got it.</div>
+
+<h1>Co-Ownership</h1>
  <div class="_quotespan">Do you want me to explain co-ownership?</div>
  <div class="_quotespan">I think I know, but to make sure, tell me.</div>
  <div class="_quotespan">Well, instead of it being own by investors based on their capital, it is own by everybody who work at making it grow, based on the recognized contributions.</div>
@@ -28,21 +32,25 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">OK. OK. So, I recognize your contributions&hellip;</div>
  <div class="_quotespan">And everybody else recognize my contributions.</div>
  <div class="_quotespan">Where I was heading with that is that, OK, I recognize your contributions, but so what?</div>
- <div class="_quotespan">OK, then, to continue&hellip; you get one RAD per day&hellip;</div>
- <div class="_quotespan">RAD?</div>
+
+<h1><span class="_paradigm">RAD</spa>s</h1>
+ <div class="_quotespan">OK, then, to continue&hellip; you get one <span class="_paradigm">RAD</spa> per day&hellip;</div>
+ <div class="_quotespan">RAD? For <span class="_paradigm">RADICAL</spa></div>
  <div class="_quotespan">We could not think of another name&hellip;</div>
- <div class="_quotespan">OK, some unit. Like S&H Green Stamps.</div>
- <div class="_quotespan">Do you know about those?</div>
- <div class="_quotespan">My grandfather had an album of them. He said they gave them out at stores.</div>
+ <div class="_quotespan">OK, some unit. Like Green Stamps.</div>
+ <div class="_quotespan">How&hellip; How do you know about those?</div>
+ <div class="_quotespan">My grandfather had an album. He said they gave them out at stores and you trade them for radios and stuff.</div>
  <div class="_quotespan">Yes, they did. Getting back to RADs, you get one per day.</div>
  <div class="_quotespan">Why?</div>
  <div class="_quotespan">Because you exist every day and your existance contributes to the creation and growth of things, wether you are (air quotes) <em>working</em> or not.</div>
  <div class="_quotespan">OK, go on.</div>
  <div class="_quotespan">You get one RAD per day and at the end of, say, a monthly cycle the app figures what percentage of your recognized contribution each co-owner gets and gives  each person that many RADs.</div>
- <div class="_quotespan">So you don&rsquo;t get to keep the RADs, right?</div>
+ <div class="_quotespan">So you don&rsquo;t get to keep the <span class="_paradigm">RAD</spa>s, right?</div>
  <div class="_quotespan">Nope. Right.</div>
  <div class="_quotespan">What are the rules that determine that a recognized contributioin is legit?</div>
- <div class="_quotespan">There are no rules. Or put another way, you make up your own rules.</div>
+ <div class="_quotespan">There are no rules. Or put another way, you make up your own rules. You can share those, but people can always make up their own.</div>
+
+<h1>Transparency</h1>
  <div class="_quotespan">OK. Wait. OK. But that is ripe for cheat&hellip; wait&hellip; are these grants transparent? can everybody see what is going on. I mean, there is no boss, right&hellip;</div>
  <div class="_quotespan">Right, they are transparent to the co-owners and to the world.</div>
  <div class="_quotespan">Holy shit!</div>
