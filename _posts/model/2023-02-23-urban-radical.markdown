@@ -24,11 +24,12 @@ image:    "icon-urban-radical.svg"
    </p>
    <p class="_list-item">
     Matt Perez.
-    <em>What&rsquo;s Our Problem? <span style="font-size:smaller; ">A Self-Help Book for Society</span></em>.
+    <em>What&rsquo;s Our Problem: A Self-Help Book for Societies</em>.
     February 2023.
     &lt;<a href="https://radicalcompanies.com/2023/02/22.whats-our-problem" target="_blank">https://radicalcompanies.com/2023/02/22.whats-our-problem</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
+
 {% include related.html %}
