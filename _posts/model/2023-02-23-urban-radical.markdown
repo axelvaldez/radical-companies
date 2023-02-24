@@ -16,7 +16,40 @@ image:    "icon-urban-radical.svg"
 <h1>Let&rsquo;s Talk about Co-Management</h1>
  <div class="_quotespan">What do you know about co-management?</div>
  <div class="_quotespan">What is it?</div>
- <div class="_quotespan">What is it?</div>
+ <div class="_quotespan">Co-management is, in practice, what people call self-management today. We call it co-management because it refers to the work we do together. The corporation doesn&rsquo;t manage it<em>self</em>, people co-manage it.</div>
+ <div class="_quotespan">OK, got it.</div>
+ <div class="_quotespan">Do you want me to explain co-ownership?</div>
+ <div class="_quotespan">I think I know, but to make sure, tell me.</div>
+ <div class="_quotespan">Well, instead of it being own by investors based on their capital, it is own by everybody who work at making it grow, based on the recognized contributions.</div>
+ <div class="_quotespan">That&rsquo;s very interesting. But, does it work? How?</div>
+ <div class="_quotespan">There is an app for that&hellip;</div>
+ <div class="_quotespan">That is so 2019&hellip;</div>
+ <div class="_quotespan">But there is. The app lets every co-owner recognize the contributioins of other co-owners.</div>
+ <div class="_quotespan">So, you don&rsquo;t need a manager for that!</div>
+ <div class="_quotespan">We call them bosses. Anybody who has power over anybody else as a matter of their givenb title, we call them bosses.</div>
+ <div class="_quotespan">OK. OK. So, I recognize your contributions&hellip;</div>
+ <div class="_quotespan">And everybody else recognize my contributions.</div>
+ <div class="_quotespan">Where I was heading with that is that, OK, I recognize your contributions, but so what?</div>
+ <div class="_quotespan">OK, then, to continue&hellip; you get one RAD per day&hellip;</div>
+ <div class="_quotespan">RAD?</div>
+ <div class="_quotespan">We could not think of another name&hellip;</div>
+ <div class="_quotespan">OK, some unit. Like S&H Green Stamps.</div>
+ <div class="_quotespan">Do you know about those?</div>
+ <div class="_quotespan">My grandfather had an album of them. He said they gave them out at stores.</div>
+ <div class="_quotespan">Yes, they did. Getting back to RADs, you get one per day.</div>
+ <div class="_quotespan">Why?</div>
+ <div class="_quotespan">Because you exist every day and your existance contributes to the creation and growth of things, wether you are (air quotes) <em>working</em> or not.</div>
+ <div class="_quotespan">OK, go on.</div>
+ <div class="_quotespan">You get one RAD per day and at the end of, say, a monthly cycle the app figures what percenta of your recognized contribution each co-owner gets and gives  each person that many RADs.</div>
+ <div class="_quotespan">So you don&rsquo;t get to keep the RADs, right?</div>
+ <div class="_quotespan">Nope. Right.</div>
+ <div class="_quotespan">What are the rules that determine that a recognized contributioin is legit?</div>
+ <div class="_quotespan">There are no rules. Or put another way, you make up your own rules.</div>
+ <div class="_quotespan">OK. Wait. OK. But that is ripe for cheat&hellip; wait a minute, are they grants transparent? can everybody see what is going on. I mean, if there is no boss&hellip;</div>
+ <div class="_quotespan">Right, they are transparent to the world.</div>
+ <div class="_quotespan">Holy shit!</div>
+ <div class="_quotespan">That is the cleverest thing we came up with. There is no other magic.</div>
+ <div class="_quotespan">Holy shit!</div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
