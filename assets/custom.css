@@ -346,7 +346,7 @@ table._background tr ul, ul li p:last-of-type {
   content: "”";
 }
 p._quotespan::before {
-  content:"— “";
+  content:"—x “";
   margin-bottom:50px;
   padding-bottom:50px;
 }
