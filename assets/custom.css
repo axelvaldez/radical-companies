@@ -345,9 +345,11 @@ table._background tr ul, ul li p:last-of-type {
 ._quotespan::after {
   content: "”";
 }
+div._quotespan {
+  text-indent:-2em;
+}
 div._quotespan::before {
   content:"— “";
-  text-indent:-2em;
 }
 ._image {
   display:grid;
