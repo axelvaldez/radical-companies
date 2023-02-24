@@ -7,7 +7,7 @@ image:    "icon-urban-radical.svg"
 ---
 
 <div style="display:none;">
- <p>An imaginary conversation: Tim Urban, co-management, and co-ownership.</p>
+ <p>An imaginary conversation with Tim Urban on co-management and co-ownership.</p>
 </div>
 
 <h1 class="_section">ENDNOTES</h1>
