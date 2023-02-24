@@ -56,8 +56,7 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">Holy shit!</div>
  <div class="_quotespan">That is by far the cleverest thing we came up with, by the way.</div>
  <div class="_quotespan">Holy shit! That means that any (exagerated air quotes) cheating will be caught by the co&hellip;-owners, is that what you call them?</div>
- <div class="_quotespan">Yes. And also by the app&rsquo;s backend itself. It can constantly look for and flag irregularities. In the end, it is up to people to resolve the issue, if there is one. You got this quickly&hellip;</div>
- <div class="_quotespan">Right. You have thought about this, haven&rsquo;t you. Not quite surprised&hellip;</div>
+ <div class="_quotespan">Yes. And also by the app&rsquo;s backend itself. It can constantly look for and flag irregularities. In the end, it is up to people to resolve the issue, if there is one. I&rsquo;d have to say, you got this quickly&hellip;</div>
  <div class="_quotespan">Look I spend six years thinking about all kind of things related to this. This is very clever, but not quite unexpected.</div>
 
 <h1 class="_section">ENDNOTES</h1>
