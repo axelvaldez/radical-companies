@@ -49,7 +49,10 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">Right, they are transparent to the world.</div>
  <div class="_quotespan">Holy shit!</div>
  <div class="_quotespan">That is the cleverest thing we came up with. There is no other magic.</div>
- <div class="_quotespan">Holy shit!</div>
+ <div class="_quotespan">Holy shit! That means that any (air quotes) cheating will be caught by the co&hellip-owners, that is what you call them, right</div>
+ <div class="_quotespan">Yes. And also by Machine Learning tools that can constantly look for and mark irregularities.</div>
+ <div class="_quotespan">Right. You have thought about this, haven&rsquo;t you.</div>
+ <div class="_quotespan">
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
