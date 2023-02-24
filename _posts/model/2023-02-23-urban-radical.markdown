@@ -7,11 +7,11 @@ image:    "icon-urban-radical.svg"
 ---
 
 <div style="display:none;">
- <p>An imaginary conversation with Tim Urban on co-management and co-ownership.</p>
+ <p>An (imaginary) conversation with Tim Urban on co-management and co-ownership.</p>
 </div>
 
 <h1></h1>
- <p>Below is an imaginary conversation with Tim Urban on co-management and co-ownership. This ocurred to me after reading <em>What&rsquo;s Ours Problem: A Self-Help Book for Society</em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> in one sitting.</p>
+ <p>Below is an (imaginary) conversation with Tim Urban on co-management and co-ownership. This ocurred to me after reading <em>What&rsquo;s Ours Problem: A Self-Help Book for Society</em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> in one sitting.</p>
 
 <h1>Co-Management</h1>
  <div class="_quotespan">What do you know about co-management?</div>
