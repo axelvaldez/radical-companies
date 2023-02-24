@@ -345,10 +345,8 @@ table._background tr ul, ul li p:last-of-type {
 ._quotespan::after {
   content: "”";
 }
-p._quotespan::before {
-  content:"—x “";
-  margin-bottom:50px;
-  padding-bottom:50px;
+div._quotespan::before {
+  content:"— “";
 }
 ._image {
   display:grid;
