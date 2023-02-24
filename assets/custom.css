@@ -416,16 +416,16 @@ div._quotespan::before {
 #_diamond {
   width: 0;
   height: 0;
-  border: 50px solid transparent;
+  border: 5px solid transparent;
   border-bottom-color: lightgreen;
   position: relative;
-  top: -50px;
+  top: -5px;
 }
 #_diamond:after {
   content: '';
   position: absolute;
   left: -5px;
-  top: 50px;
+  top: 5px;
   width: 0;
   height: 0;
   border: 5px solid transparent;
