@@ -33,7 +33,7 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">And everybody else recognize my contributions.</div>
  <div class="_quotespan">Where I was heading with that is that, OK, I recognize your contributions, but so what?</div>
 
-<h1><span class="_paradigm">RAD</spa>s</h1>
+<h1><span class="_paradigm">RAD</span>s</h1>
  <div class="_quotespan">OK, then, to continue&hellip; you get one <span class="_paradigm">RAD</spa> per day&hellip;</div>
  <div class="_quotespan">RAD? For <span class="_paradigm">RADICAL</spa></div>
  <div class="_quotespan">We could not think of another name&hellip;</div>
