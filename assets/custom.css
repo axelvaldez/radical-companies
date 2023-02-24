@@ -431,3 +431,7 @@ div._quotespan::before {
   border: 50px solid transparent;
   border-top-color: lightgreen;
 }
+svg {
+  width:100px;
+  height:100px;
+}
