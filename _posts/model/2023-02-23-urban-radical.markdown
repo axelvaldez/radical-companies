@@ -43,7 +43,7 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">We could not think of another name&hellip;</div>
  <div class="_quotespan">OK, some unit. Like Green Stamps.</div>
  <div class="_quotespan">How&hellip; How do you know about those?</div>
- <div class="_quotespan">My grandfather had an album. He said they gave them out at stores and you trade them for radios and stuff.</div>
+ <div class="_quotespan">My grandfather had an album. He said they gave them out at stores and you traded them for &lsquo;transistor radios&rsquo; and stuff.</div>
  <div class="_quotespan">Yes, they did. Getting back to RADs, you get one per day.</div>
  <div class="_quotespan">Why?</div>
  <div class="_quotespan">Because you exist every day and your existance contributes to the creation and growth of things, wether you are (air quotes) <em>working</em> or not.</div>
