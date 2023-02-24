@@ -46,9 +46,9 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">What are the rules that determine that a recognized contributioin is legit?</div>
  <div class="_quotespan">There are no rules. Or put another way, you make up your own rules.</div>
  <div class="_quotespan">OK. Wait. OK. But that is ripe for cheat&hellip; wait&hellip; are these grants transparent? can everybody see what is going on. I mean, there is no boss, right&hellip;</div>
- <div class="_quotespan">Right, they are transparent to the world.</div>
+ <div class="_quotespan">Right, they are transparent to the co-owners and to the world.</div>
  <div class="_quotespan">Holy shit!</div>
- <div class="_quotespan">That is the cleverest thing we came up with. There is no other magic.</div>
+ <div class="_quotespan">That is by far the cleverest thing we came up with, by the way.</div>
  <div class="_quotespan">Holy shit! That means that any (air quotes) cheating will be caught by the co&hellip-owners, that is what you call them, right</div>
  <div class="_quotespan">Yes. And also by Machine Learning tools that can constantly look for and mark irregularities.</div>
  <div class="_quotespan">Right. You have thought about this, haven&rsquo;t you.</div>
