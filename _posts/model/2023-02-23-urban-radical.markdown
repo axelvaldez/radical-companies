@@ -16,7 +16,7 @@ image:    "icon-urban-radical.svg"
 <h1>Let&rsquo;s Talk about Co-Management</h1>
  <div class="_quotespan">What do you know about co-management?</div>
  <div class="_quotespan">What is it?</div>
- <div class="_quotespan">Co-management is, in practice, what people call self-management today. We call it co-management because it refers to the work we do together. The corporation doesn&rsquo;t manage it<em>self</em>, people co-manage it.</div>
+ <div class="_quotespan">Co-management is pretty much what people call self-management today. We call it co-management because it refers to the work we do together. The corporation doesn&rsquo;t manage it<em>self</em>, people co-manage it.</div>
  <div class="_quotespan">OK, got it.</div>
  <div class="_quotespan">Do you want me to explain co-ownership?</div>
  <div class="_quotespan">I think I know, but to make sure, tell me.</div>
