@@ -10,7 +10,9 @@ image:    "icon-urban-radical.svg"
  <p>An (imaginary) conversation with Tim Urban on co&ndash;management and co&ndash;ownership.</p>
 </div>
 
-<a href="#"><div id="_diamond"></div></a>
+<a href="#">
+ <div id="_diamond"></div>
+</a>
 
 <h1></h1>
  <p>Below is an (imaginary) conversation with Tim Urban on co&ndash;management and co&ndash;ownership. This ocurred to me after reading his book, <em>What&rsquo;s Ours Problem: A Self&ndash;Help Book for Society</em><a href="#en01">,<sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> in one sitting.</p>
