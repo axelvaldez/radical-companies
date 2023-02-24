@@ -12,8 +12,6 @@ image:    "icon-urban-radical.svg"
 
 <h1></h1>
  <p>Below is an imaginary conversation with Tim Urban on co-management and co-ownership. This ocurred to me after reading <em>What&rsquo;s Ours Problem: A Self-Help Book for Society</em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> in one sitting.</p>
-
-<h1>Let&rsquo;s Talk about Co-Management</h1>
  <div class="_quotespan">What do you know about co-management?</div>
  <div class="_quotespan">What is it?</div>
  <div class="_quotespan">Co-management is pretty much what people call self-management today. We call it co-management because it refers to the work we do together. The corporation doesn&rsquo;t manage it<em>self</em>, people co-manage it.</div>
