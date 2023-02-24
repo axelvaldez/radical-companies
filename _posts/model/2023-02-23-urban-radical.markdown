@@ -26,7 +26,7 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">That&rsquo;s very interesting. But, does it work? How?</div>
  <div class="_quotespan">There is an app for that&hellip;</div>
  <div class="_quotespan">That is so 2019&hellip;</div>
- <div class="_quotespan">But there is. The app lets every co&ndash;owner recognize the contributioins of other co&ndash;owners.</div>
+ <div class="_quotespan">But <span style="font-style:normal; ">there is</span>. The app lets every co&ndash;owner recognize the contributioins of other co&ndash;owners.</div>
  <div class="_quotespan">So, you don&rsquo;t need a manager for that!</div>
  <div class="_quotespan">We call them bosses. Anybody who has power over anybody else as a matter of their givenb title, we call them bosses.</div>
  <div class="_quotespan">OK. OK. So, I recognize your contributions&hellip;</div>
@@ -42,7 +42,7 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">My grandfather had an album. He said they gave them out at stores and you traded them for &lsquo;transistor radios&rsquo; and stuff.</div>
  <div class="_quotespan">Yes, they did. Getting back to RADs, you get one per day.</div>
  <div class="_quotespan">Why?</div>
- <div class="_quotespan">Because you exist every day and your existance contributes to the creation and growth of things, wether you are (air quotes) <em>working</em> or not.</div>
+ <div class="_quotespan">Because you exist every day and your existance contributes to the creation and growth of things, wether you are <span style="font-style:normal; ">[air quotes]</span> &lsquo;working&rsquo; or not.</div>
  <div class="_quotespan">OK, go on.</div>
  <div class="_quotespan">You get one RAD per day and at the end of, say, a monthly cycle the app figures what percentage of your recognized contribution each co&ndash;owner gets and gives  each person that many RADs.</div>
  <div class="_quotespan">So you don&rsquo;t get to keep the <span class="_paradigm">RAD</span>s, right?</div>
@@ -55,7 +55,7 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">Right, they are transparent to the co&ndash;owners and to the world.</div>
  <div class="_quotespan">Holy shit!</div>
  <div class="_quotespan">That is by far the cleverest thing we came up with, by the way.</div>
- <div class="_quotespan">Holy shit! That means that any (exagerated air quotes) cheating will be caught by the co&ndash;&hellip;co&ndash;owners, is that what you call them?</div>
+ <div class="_quotespan">Holy shit! That means that any <span style="font-style:normal; ">[exagerated air quotes]</span> &lsquo;cheating&rsquo; will be caught by the co&ndash;&hellip;co&ndash;owners, is that what you call them?</div>
  <div class="_quotespan">Yes. And also by the app&rsquo;s backend itself. It can constantly look for and flag irregularities. In the end, it is up to people to resolve the issue, if there is one. I&rsquo;d have to say, you got this quickly&hellip;</div>
  <div class="_quotespan">Look, I spend six years thinking about all kind of things related to this kind of stuff, so this is not quite unexpected.</div>
 
