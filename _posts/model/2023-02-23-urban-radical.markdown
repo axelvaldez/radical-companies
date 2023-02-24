@@ -52,7 +52,7 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">Holy shit! That means that any (exagerated air quotes) cheating will be caught by the co&hellip;-owners, is that what you call them?</div>
  <div class="_quotespan">Yes. And also by the app&rsquo;s backend itselft. Machine Learning magic, or what people call AI today. Theyt can constantly look for and flag irregularities. In the end, it is up to people to resolve the issue, if there is one.</div>
  <div class="_quotespan">Right. You have thought about this, haven&rsquo;t you. Not quite surprised&hellip;</div>
- <div class="_quotespan">Look I spend six years thinking about all kind of things related to this. This is still very clever, but not quite unexpected.</div>
+ <div class="_quotespan">Look I spend six years thinking about all kind of things related to this. This is very clever, but not quite unexpected.</div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
