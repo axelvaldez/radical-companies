@@ -345,6 +345,9 @@ table._background tr ul, ul li p:last-of-type {
 ._quotespan::after {
   content: "”";
 }
+.p._quotespan::before {
+  content:"— “";
+}
 ._image {
   display:grid;
   place-items:center;
