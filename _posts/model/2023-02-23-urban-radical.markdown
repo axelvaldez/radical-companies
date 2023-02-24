@@ -10,6 +10,7 @@ image:    "icon-urban-radical.svg"
  <p>An (imaginary) conversation with Tim Urban on co-management and co-ownership.</p>
 </div>
 
+<div id="diamond"></div>
 <h1></h1>
  <p>Below is an (imaginary) conversation with Tim Urban on co-management and co-ownership. This ocurred to me after reading his book, <em>What&rsquo;s Ours Problem: A Self-Help Book for Society</em><a href="#en01">,<sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> in one sitting.</p>
 

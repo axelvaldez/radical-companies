@@ -413,3 +413,21 @@ div._quotespan::before {
 ._box:hover {
   opacity:1.9;
 }
+#_diamond {
+  width: 0;
+  height: 0;
+  border: 50px solid transparent;
+  border-bottom-color: lightgreen;
+  position: relative;
+  top: -50px;
+}
+#_diamond:after {
+  content: '';
+  position: absolute;
+  left: -50px;
+  top: 50px;
+  width: 0;
+  height: 0;
+  border: 50px solid transparent;
+  border-top-color: lightgreen;
+}
