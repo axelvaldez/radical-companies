@@ -34,8 +34,8 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">Where I was heading with that is that, OK, I recognize your contributions, but so what?</div>
 
 <h1><span class="_paradigm">RAD</span>s</h1>
- <div class="_quotespan">OK, then, to continue&hellip; you get one <span class="_paradigm">RAD</spa> per day&hellip;</div>
- <div class="_quotespan">RAD? For <span class="_paradigm">RADICAL</spa></div>
+ <div class="_quotespan">OK, then, to continue&hellip; you get one <span class="_paradigm">RAD</span> per day&hellip;</div>
+ <div class="_quotespan">RAD? For <span class="_paradigm">RADICAL</span></div>
  <div class="_quotespan">We could not think of another name&hellip;</div>
  <div class="_quotespan">OK, some unit. Like Green Stamps.</div>
  <div class="_quotespan">How&hellip; How do you know about those?</div>
@@ -45,7 +45,7 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">Because you exist every day and your existance contributes to the creation and growth of things, wether you are (air quotes) <em>working</em> or not.</div>
  <div class="_quotespan">OK, go on.</div>
  <div class="_quotespan">You get one RAD per day and at the end of, say, a monthly cycle the app figures what percentage of your recognized contribution each co-owner gets and gives  each person that many RADs.</div>
- <div class="_quotespan">So you don&rsquo;t get to keep the <span class="_paradigm">RAD</spa>s, right?</div>
+ <div class="_quotespan">So you don&rsquo;t get to keep the <span class="_paradigm">RAD</span>s, right?</div>
  <div class="_quotespan">Nope. Right.</div>
  <div class="_quotespan">What are the rules that determine that a recognized contributioin is legit?</div>
  <div class="_quotespan">There are no rules. Or put another way, you make up your own rules. You can share those, but people can always make up their own.</div>
