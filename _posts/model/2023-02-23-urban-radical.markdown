@@ -30,28 +30,28 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">So, you don&rsquo;t need a manager for that!</div>
  <div class="_quotespan">We call them bosses. Anybody who has power over anybody else as a matter of their <span style="font-style:normal; ">given</span> title, we call them bosses.</div>
  <div class="_quotespan">OK. OK. So, I recognize your contributions&hellip;</div>
- <div class="_quotespan">And everybody else recognize my contributions.</div>
- <div class="_quotespan">Where I was heading with that is that, OK, I recognize your contributions, but so what?</div>
+ <div class="_quotespan">&hellip; and other people recognize my contributions, too.</div>
+ <div class="_quotespan">Right, I get it, but Where I was heading with that is that, OK, I recognize your contributions, but so what?</div>
 
 <h1><span class="_paradigm">RAD</span>s</h1>
- <div class="_quotespan">OK, then, to continue&hellip; you get one <span class="_paradigm">RAD</span> per day&hellip;</div>
- <div class="_quotespan">RAD? For <span class="_paradigm">RADICAL</span></div>
- <div class="_quotespan">We could not think of another name&hellip;</div>
+ <div class="_quotespan">OK, then, to continue&hellip; every co&ndash;owner gets one <span class="_paradigm">RAD</span> per day&hellip;</div>
+ <div class="_quotespan">&hellip; RAD? For <span class="_paradigm">RADICAL</span></div>
+ <div class="_quotespan">You are smiling, but We could not come up with another name&hellip;</div>
  <div class="_quotespan">OK, some unit. Like Green Stamps.</div>
  <div class="_quotespan">How&hellip; How do you know about those?</div>
- <div class="_quotespan">My grandfather had an album. He said they gave them out at stores and you traded them for &lsquo;transistor radios&rsquo; and stuff.</div>
- <div class="_quotespan">Yes, they did. Getting back to RADs, you get one per day.</div>
+ <div class="_quotespan">My mom had an album which she got from her dad. She said they gave them out at stores and you traded them for trinkets and stuff.</div>
+ <div class="_quotespan">Yes, they did. Getting back to RADs, you get one per day&hellip;</div>
  <div class="_quotespan">Why?</div>
  <div class="_quotespan">Because you exist every day and your existance contributes to the creation and growth of things, wether you are <span style="font-style:normal; ">[air quotes]</span> &lsquo;working&rsquo; or not.</div>
  <div class="_quotespan">OK, go on.</div>
- <div class="_quotespan">You get one RAD per day and at the end of, say, a monthly cycle the app figures what percentage of your recognized contribution each co&ndash;owner gets and gives  each person that many RADs.</div>
- <div class="_quotespan">So you don&rsquo;t get to keep the <span class="_paradigm">RAD</span>s, right?</div>
+ <div class="_quotespan">You get one RAD per day&hellip; and at the end of, say, a monthly cycle, the app figures what percentage of your recognized contribution each co&ndash;owner got and gives each person that percentage of RADs. Later the RADs determine how much revenue money you get, for example.</div>
+ <div class="_quotespan">So you don&rsquo;t get to keep the <span class="_paradigm">RAD</span>s! You give them to the other co&ndash;owners, right?</div>
  <div class="_quotespan">Nope. Right.</div>
- <div class="_quotespan">What are the rules that determine that a recognized contributioin is legit?</div>
- <div class="_quotespan">There are no rules. Or put another way, you make up your own rules. You can share those, but people can always make up their own.</div>
+ <div class="_quotespan">What are the rules? What&rsquo;s a legit recognized contribution?</div>
+ <div class="_quotespan">There are no rules. Or put another way, you make up your own rules. You can share yours, but people can always make up their own.</div>
 
 <h1>Transparency</h1>
- <div class="_quotespan">OK. Wait. OK. But that is ripe for cheat&hellip; wait&hellip; are these grants transparent? can everybody see what is going on. I mean, there is no boss, right&hellip;</div>
+ <div class="_quotespan">OK. Wait. OK. But that is ripe for cheat&hellip; WAIT&hellip; are these grants transparent? can everybody see what is going on. I mean, there is no boss, right&hellip;</div>
  <div class="_quotespan">Right, they are transparent to the co&ndash;owners and to the world.</div>
  <div class="_quotespan">Holy shit!</div>
  <div class="_quotespan">That is by far the cleverest thing we came up with, by the way.</div>
