@@ -18,11 +18,11 @@ image:    "icon-urban-radical-silence.svg"
  <div class="_quotespan">I have many&hellip;.</div>
  <div class="_quotespan">&hellip; that may be, but you have one in particular that I know something about</div>
  <div class="_quotespan">That sounds like fundamentalism to me, but let&rsquo;s hear it.</div>
- <div class="_quotespan">In any case, your blind spot is around &lsquo;jobs&rsquo; and &lsquo;top companies.&rsquo; You take them as a given, something you mention in passing, as the grass in the field on a log drive. &lsquo;They are beautiful, they've always been there, and how can such a beautiful thing be part of the problem?&rsquo;.</div>
+ <div class="_quotespan">In any case, your blind spot is around &lsquo;jobs&rsquo; and &lsquo;top companies.&rsquo; You take them as a given, something you mention in passing, as the grass alongside the road. &lsquo;It is beautiful, ain&rsquo;t it. It&rsquo;s always been there. How can such a beautiful thing be part of the problem?.</div>
  <div class="_quotespan">So, the grass is my blind spot?</div>
- <div class="_quotespan">The &lsquo;jobs&rsquo; and &lsquo;top companies.&rsquo; are. Permission to stop smiling now granted.</div>
+ <div class="_quotespan">The &lsquo;jobs&rsquo; and &lsquo;top companies.&rsquo; are.</div>
  <div class="_quotespan">How so?</div>
- <div class="_quotespan">Because a big part of the problems that you point out spring out of what we call <span class="_paradigm">FIAT</span> businesses, the source of &lsquo;jobs&rsquo; and &lsquo;top companies.&rsquo;</div>
+ <div class="_quotespan">Because a big part of the problems that you point out and are so passionate about <em>spring out</em> of what we call <span class="_paradigm">FIAT</span> businesses, the source of &lsquo;jobs&rsquo; and &lsquo;top companies.&rsquo;</div>
  <div class="_quotespan">Very interesting. Go on.</div>
  <div class="_quotespan">For example, you mentioned the case where professor Nancy Hopkins &lsquo;packed up her things and walked out of the talk&rsquo; that Larry Summer was giving as an Economist, not as Harvard president. Your book really messed with me head and gave me the levers I have been looking for and I thank you for that, because it does take a long-term commitment to peel the layers of what we have grown up with. You then make the distinction that Summers was invited to speak as an economist, not as Harvard president, but I think you know taht it&rsquo;s difficult to separate the two. I think you also know that it is even more difficult for Summers to not let his beliefs influence his decisions as Harvard president, even assumig that he is exceptionally good at doing so.</div>
  <div class="_quotespan">OK, I stopped smiling and I think I am ready to the blind spot.</div>
