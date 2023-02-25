@@ -57,7 +57,7 @@ image:    "icon-urban-radical-silence.svg"
    width="90%"
    alt="">
  </div>
- <div class="_quotespan">I am not sure, but something got out of my chair and I move to the laptop where I am writing this stuff.</div>
+ <div class="_quotespan">I am not sure, but something got out of my bed to the laptop where I am writing this stuff. More than anything else it was, I think, the &lsquo;TIMID&rsquo; column. The VOCAL column and PROFITEERS squeeze the TIMIDs by limiting speech to dictatorship-convenient-speech or else. That is what has been happening in Cuba, North Korea, and Venezuela. This is also what happens in <span class="_paradigm">FIAT</span> businesses, with the bosses as essential to their immune system.</div>
  <div class="_quotespan">
 
  </div>
