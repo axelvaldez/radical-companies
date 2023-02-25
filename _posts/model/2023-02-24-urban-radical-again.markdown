@@ -53,6 +53,7 @@ image:    "icon-urban-radical.svg"
    width="00%"
    alt="">
  </div>
+ <div class="_quotespan">I am not sure, but something got out of my chair and I move to the laptop where I am writing this stuff.</div>
  <div class="_quotespan">
 
  </div>
