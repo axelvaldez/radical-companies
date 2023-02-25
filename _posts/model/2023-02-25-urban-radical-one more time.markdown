@@ -7,7 +7,7 @@ image:    "icon-urban-radical-one-more-time.svg"
 ---
 
 <div style="display:none;">
- <p>An (imaginary) conversation with Tim Urban on co&ndash;management and co&ndash;ownership.</p>
+ <p>An (imaginary) conversation with Tim Urban on skills for the immune system for genies.</p>
 </div>
 
 <h1></h1>
