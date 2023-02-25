@@ -36,19 +36,19 @@ image:    "icon-urban-radical.svg"
 <h1><span class="_paradigm">RAD</span>s</h1>
  <div class="_quotespan">OK, then, to continue&hellip; every co&ndash;owner gets one <span class="_paradigm">RAD</span> per day&hellip;</div>
  <div class="_quotespan">&hellip; RAD? For <span class="_paradigm">RADICAL</span></div>
- <div class="_quotespan">You are smiling, but We could not come up with another name&hellip;</div>
+ <div class="_quotespan">You are smiling, but that is the best we could up with.</div>
  <div class="_quotespan">OK, some unit. Like Green Stamps.</div>
  <div class="_quotespan">How&hellip; How do you know about those?</div>
  <div class="_quotespan">My mom had an album which she got from her dad. She said they gave them out at stores and you traded them for trinkets and stuff.</div>
- <div class="_quotespan">Yes, they did. Getting back to RADs, you get one per day&hellip;</div>
- <div class="_quotespan">Why?</div>
- <div class="_quotespan">Because you exist every day and your existance contributes to the creation and growth of things, wether you are <span style="font-style:normal; ">[air quotes]</span> &lsquo;working&rsquo; or not.</div>
+ <div class="_quotespan">Yes, they did. Now, getting back to RADs, you get one per day&hellip;</div>
+ <div class="_quotespan">&hellip; why?</div>
+ <div class="_quotespan">Because your existance contributes to the creation and growth of things, wether you are <span style="font-style:normal; ">[air quotes]</span> &lsquo;working&rsquo; or not.</div>
  <div class="_quotespan">OK, go on.</div>
- <div class="_quotespan">You get one RAD per day&hellip; and at the end of, say, a monthly cycle, the app figures what percentage of your recognized contribution each co&ndash;owner got and gives each person that percentage of RADs. Later the RADs determine how much revenue money you get, for example.</div>
+ <div class="_quotespan">You get one RAD per day and at the end of, say, the monthly cycle, the app figures what percentage of your recognized contributions each co&ndash;owner got and gives each person that percentage of RADs. Later the RADs determine how much of the revenue you get, for example.</div>
  <div class="_quotespan">So you don&rsquo;t get to keep the <span class="_paradigm">RAD</span>s! You give them to the other co&ndash;owners, right?</div>
  <div class="_quotespan">Nope. Right.</div>
- <div class="_quotespan">What are the rules? What&rsquo;s a legit recognized contribution?</div>
- <div class="_quotespan">There are no rules. Or put another way, you make up your own rules. You can share yours, but people can always make up their own.</div>
+ <div class="_quotespan">Then, what are the rules? What&rsquo;s a legit recognized contribution?</div>
+ <div class="_quotespan">There are no rules. Or put another way, you make up your own rules. You can even share yours, but people can always make up their own. It&rsquo;s like voting, I may go waxing poetic about one candidate, but I pull the lever for another.</div>
 
 <h1>Transparency</h1>
  <div class="_quotespan">OK. Wait. OK. But that is ripe for cheat&hellip; WAIT&hellip; are these grants transparent? can everybody see what is going on. I mean, there is no boss, right&hellip;</div>
@@ -57,7 +57,7 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">That is by far the cleverest thing we came up with, by the way.</div>
  <div class="_quotespan">Holy shit! That means that any <span style="font-style:normal; ">[exagerated air quotes]</span> &lsquo;cheating&rsquo; will be caught by the co&ndash;&hellip;co&ndash;owners, is that what you call them?</div>
  <div class="_quotespan">Yes. And also by the app&rsquo;s backend itself. It can constantly look for and flag irregularities. In the end, it is up to people to resolve the issue, if there is one. I&rsquo;d have to say, you got this quickly&hellip;</div>
- <div class="_quotespan">Look, I spend six years thinking about all kind of things related to this kind of stuff, so this is not quite unexpected.</div>
+ <div class="_quotespan">Look, I spend six years thinking about all kind of things related to this kind of stuff, so this is not quite unexpected. Pleasantly surprised that it can be done in a decentralized way.</div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
