@@ -42,15 +42,15 @@ image:    "icon-urban-radical-silence.svg"
  <div class="_quotespan">OK. Got it. Nice the full lables are <span class="_quotespan"><span class="_paradigm">FIAT</span> business</span> and <span class="_quotespan"><span class="_paradigm">RADICAL</span> companies</span>. <span class="_paradigm">FIAT</span> business have been invisible, and that is correct. And, I assume that <span class="_paradigm">RADICAL</span> companies don't exist but would be complementary to the arguments I put forward in <span style="font-style:normal; ">What&rsquo;s Our Problem</span>.</div>
  <div class="_quotespan">Bingo! The most dangerous thing about <span class="_paradigm">FIAT</span> businesses is that they have been invisible. They also teach us that capital measn unquestionable power. Capital gives you absolute power over everything that goes on inside a business. And that why we call businesses dictatorships.</div>
  <div class="_quotespan">I because you are from Cuba, you know about dictatorships.</div>
- <div class="_quotespan">I thought I knew, but I know a lot more now thank to you. Your book as provided me with actionable knowledge. Silence is not just cowardly. In fact, that is not the despicable thing about silence: silence let the Fundamentalists amongst us gain strength. That is how dictatorships start, that is where they spring from. We keep silent to get along and in the blink of an eye, we <span class="_quotespan">have to</spane> keep silent to stay unhurt and alive.</div>
+ <div class="_quotespan">I thought I knew, but I know a lot more now thank to you. Your book as provided me with actionable knowledge. Silence is not just cowardly. In fact, that is not the despicable thing about silence: silence let the Fundamentalists amongst us gain strength. That is how dictatorships start, that is where they spring from. We keep silent to get along and in the blink of an eye, we <span class="_quotespan">have to</span> keep silent to stay unhurt and alive.</div>
  <div class="_quotespan">Yes!</div>
- <div class="_quotespan"><span class="_paradigm">FIAT</span> businesses are silence-training camps. And <span class="_paradigm">FIAT</span> schools anbd homes, that learned from <span class="_paradigm">FIAT</span> businesses. We self-train on being good citizens of democracies <span class="_quotespan">based on dictatorships</span> known as <span class="_paradigm">FIAT</span> businesses.</div>
+ <div class="_quotespan"><span class="_paradigm">FIAT</span> businesses are silence-training camps. And <span class="_paradigm">FIAT</span> schools anbd homes, that learned from <span class="_paradigm">FIAT</span> businesses. We self-train on being good citizens of democracies <span class="_quotespan">based on dictatorships</span> known as admirable <span class="_paradigm">FIAT</span> businesses.</div>
  <div class="_quotespan">And they have been so succesful&hellip;</div>
  <div class="_quotespan">&hellip; financially successful!&hellip;</div>
- <div class="_quotespan">Yes, but more that that. They have also been successful is sharing enouhg of their profits with a portion of society, who have become their <span class="_paradigm">FIAT</span> immunne system.</div>
+ <div class="_quotespan">Yes, but more that that. They have also been successful is sharing enough of their profits with a portion of society, who have become an essential part of their <span class="_paradigm">FIAT</span> immunne system.</div>
  <div class="_quotespan">Shit. I could not have put that better if I tried.</div>
- <div class="_quotespan">But you just did.</div>
- <div class="_quotespan">Yes, but no&hellip; whhatever. What did it for me was your use of &lsquo;silence&rsquo;. Maybe it was this diagram,</div>
+ <div class="_quotespan">Except, you just did.</div>
+ <div class="_quotespan">Yes, but no&hellip; whatever. What did it for me was your use of &lsquo;silence&rsquo;. Maybe it was this diagram,</div>
  <div class="_center">
   <img
    src="/assets/img/pic-whats-our-problem-silence.svg"
