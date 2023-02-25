@@ -7,7 +7,7 @@ image:    "icon-urban-radical-one-more-time.svg"
 ---
 
 <div style="display:none;">
- <p>An (imaginary) conversation with Tim Urban on the genies&rsquo; immune system and what they need.</p>
+ <p>An (imaginary) conversation with Tim Urban on how to stengthen genies&rsquo; immune systems.</p>
 </div>
 
 <h1></h1>
