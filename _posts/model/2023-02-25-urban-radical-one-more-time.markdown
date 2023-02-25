@@ -37,6 +37,7 @@ image:    "icon-urban-radical-one-more-time.svg"
     <em>Urban <span class='_paradigm'>RADICAL</span></em>.
     February 2023.
     &lt;<a href="https://radicalcompanies.com/2023/02/23/urban-radical" target="_blank">https://radicalcompanies.com/2023/02/23/urban-radical</a>&gt;
+   </p>
    <p class="_list-item">
     Matt Perez.
     <em>Urban <span class='_paradigm'>RADICAL</span></em>.
