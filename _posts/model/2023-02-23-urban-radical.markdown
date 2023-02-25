@@ -58,6 +58,8 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">Holy shit! That means that any <span style="font-style:normal; ">[exagerated air quotes]</span> &lsquo;cheating&rsquo; will be caught by the co&ndash;&hellip;co&ndash;owners, is that what you call them?</div>
  <div class="_quotespan">Yes. And also by the app&rsquo;s backend itself. It can constantly look for and flag irregularities. In the end, it is up to people to resolve the issue, if there is one. I&rsquo;d have to say, you got this quickly&hellip;</div>
  <div class="_quotespan">Look, I spend six years thinking about all kind of things related to this kind of stuff, so this is not quite unexpected. I am pleasantly surprised that it can be done in a decentralized way.</div>
+ <div class="_quotespan">My co-authores and I blush.</div>
+ <div class="_quotespan">OK. OK.</div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
