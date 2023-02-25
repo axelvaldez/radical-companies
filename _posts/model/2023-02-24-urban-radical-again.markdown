@@ -26,8 +26,8 @@ image:    "icon-urban-radical-silence.svg"
  <div class="_quotespan">Very interesting. Go on.</div>
  <div class="_quotespan">For example, you mentioned the case where professor Nancy Hopkins &lsquo;packed up her things and walked out of the talk&rsquo; that Larry Summers was giving as an Economist, not as Harvard president. You gave me the levers I have been looking for and I thank you for that, because it does take a long-term commitment to peel the layers off what we have grown up with and consider as the baseline of everything.</div></div>
  <div class="_quotespan">Thanks.<div>
- <div class="_quotespan">Your book rearrange things in mh head&hellip; no, it lifted the fog in my head and I thank you for that.<div>
- <div class="_quotespan">I am elated!<div>
+ <div class="_quotespan">Your book rearranged things in mh head&hellip; no, it lifted the fog in my head and I thank you for that.</div>
+ <div class="_quotespan">I am glad!</div>
  <div class="_quotespan">You make the distinction that Summers was invited to speak as an economist, not as Harvard president, but I think you know that it&rsquo;s difficult to separate the two. I think you also know that it is even more difficult for Summers to not let his beliefs influence his decisions as Harvard president, even assumig that he is exceptionally good at doing so. That probably was part of what was making Hopkins&rsquo; head explode. She could have behave differently. She should have voiced that concern and maybe Summers would have learned something from that. I tend to walk out, symbolically, on talks I don&rsquo;t like, but &rsquo;ve commmited to not be silent anymore.</div>
  <div class="_quotespan">OK, I stopped smiling and I think I am ready to the blind spot.</div>
  <div class="_quotespan">To restate it, your blind spot is that you don&rsquo;t see <span class="_paradigm">FIAT</span> businesses as part of the problem that you so well illustrate. Even with your cartoon drawings, yes.</div>
