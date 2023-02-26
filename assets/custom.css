@@ -352,8 +352,11 @@ div._quotespan, div._speakera, div._speakerb {
 div._quotespan::before, div._speakera::before, div._speakerb::before {
   content:"— “";
 }
-._speakera {
+div._speakera {
   font-weight:bolder;
+}
+div._continueb::before {
+  content:"  “";
 }
 ._image {
   display:grid;
