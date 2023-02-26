@@ -14,14 +14,27 @@ image:    "icon-urban-radical-one-more-time.svg"
  <div class="_quotespan">Out of love. That is making me unomfortable and energized at the same time. Weirder still, I feel like drawing.</div>
  <div class="_quotespan">And speaking of drawing, I&rsquo;d like to tell what I found most impactful about the book using your drawings. OK?</div>
  <div class="_quotespan">Seems like you are going to do it anyways&hellip;</div>
- <div class="_quotespan">The ladder was the first thing that made me sit up and pay attention. I recognized the analysis and labeling that was coming and I got pretty excited. Then you came up with genies and golems, higher and primtive minds and it was music to my ear. Particularly, the high-rung and low-run quadrants were pure joy.</div>
+ <div class="_quotespan">The history of people illustrated as a 1,000-page book made me sit up and pay attention.</div>
+  <div class="_center">
+   <img
+    src="/assets/img/pic-02-1000-page-book-explained.svg"
+    width="70%"
+    alt="">
+  </div>
+  <div class="_center">
+   <img
+    src="/assets/img/pic-05-page-1000.svg"
+    width="70%"
+    alt="">
+  </div>
+ <div class="_quotespan">When I got to the ladder, I recognized the analysis and labeling that was coming and I got pretty excited. Then you came up with genies and golems, higher and primtive minds and it was music to my ear. Particularly, the high-rung and low-run quadrants were pure joy.</div>
   <div class="_center">
    <img
     src="/assets/img/pic-39-emergence-of-golems-and-genies-on-the-ladder.svg"
     width="70%"
     alt="">
   </div>
-
+ <div class="_quotespan">The distinction between what&rsquo;s inside your head and what is expressed I was aware of. But how that supports emergence was surprising illustrated by the difference between an ant colony and an individual spider&mdash;that was very clever.</div>
  <div class="_quotespan">
  </div>
  <div class="_quotespan">
