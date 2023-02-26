@@ -352,7 +352,7 @@ div._quotespan, div._speakera, div._speakerb {
 div._quotespan::before, div._speakera::before, div._speakerb::before {
   content:"— “";
 }
-._speakerb {
+._speakera {
   font-weight:bolder;
 }
 ._image {
