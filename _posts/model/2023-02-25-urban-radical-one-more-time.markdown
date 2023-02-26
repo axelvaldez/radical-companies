@@ -34,7 +34,7 @@ image:    "icon-urban-radical-one-more-time.svg"
     width="70%"
     alt="">
   </div>
- <div class="_quotespan"> I was aware of the distinction between what&rsquo;s inside your head and what is expressed. I also knew that language was very key. But I was surprised by how it supports emergence, particularly illustrated by the difference between an ant colony and an individual spider&mdash;that was very clever.</div>\
+ <div class="_quotespan"> I was aware of the distinction between what&rsquo;s inside your head and what is expressed. I also knew that language was very key. But I was surprised by how it supports emergence, particularly illustrated by the difference between an ant colony and an individual spider&mdash;that was very clever.</div>
   <div class="_center">
    <img
     src="/assets/img/pic-34-emergence-tower-ant-colony-vs-spider.svg"
