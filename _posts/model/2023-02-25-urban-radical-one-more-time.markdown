@@ -13,8 +13,8 @@ image:    "icon-urban-radical-one-more-time.svg"
 <h1></h1>
  <div class="_speakera">Out of love. That is making me unomfortable and energized at the same time. Weirder still, I feel like drawing.</div>
  <div class="_speakerb">And speaking of drawing, I&rsquo;d like to tell what I found most impactful about the book using your drawings. OK?</div>
- <div class="_quotespan">Seems like you are going to do it anyways&hellip;</div>
- <div class="_quotespan">The history of people illustrated as a 1,000-page book made me sit up and pay attention.</div>
+ <div class="_speakera">Seems like you are going to do it anyways&hellip;</div>
+ <div class="_speakerb">The history of people illustrated as a 1,000-page book made me sit up and pay attention.</div>
   <div class="_center">
    <img
     src="/assets/img/pic-02-1000-page-book-explained.svg"
@@ -27,14 +27,14 @@ image:    "icon-urban-radical-one-more-time.svg"
     width="70%"
     alt="">
   </div>
- <div class="_quotespan">When I got to the ladder, I recognized the analysis and labeling that was coming and I got pretty excited. Then you came up with higher and primtive minds, genies and golems and&hellip; and&hellip; it was music to my ears. The high-rung and low-run quadrants were pure joy.</div>
+ <div class="_speakera">When I got to the ladder, I recognized the analysis and labeling that was coming and I got pretty excited. Then you came up with higher and primtive minds, genies and golems and&hellip; and&hellip; it was music to my ears. The high-rung and low-run quadrants were pure joy.</div>
   <div class="_center">
    <img
     src="/assets/img/pic-39-emergence-of-golems-and-genies-on-the-ladder.svg"
     width="70%"
     alt="">
   </div>
- <div class="_quotespan"> I was aware of the distinction between what&rsquo;s inside your head and what is expressed and I knew that soken language was key. But it was a forehead-slaping moment when I saw this illustration and how communication makes possible the emergence of a higher level of being.</div>
+ <div class="_speakera"> I was aware of the distinction between what&rsquo;s inside your head and what is expressed and I knew that soken language was key. But it was a forehead-slaping moment when I saw this illustration and how communication makes possible the emergence of a higher level of being.</div>
   <div class="_center">
    <img
     src="/assets/img/pic-34-emergence-tower-ant-colony-vs-spider.svg"
@@ -47,7 +47,7 @@ image:    "icon-urban-radical-one-more-time.svg"
  <div class="_quotespan">
  </div>
 
- <div class="_quotespan">Towards the end of the book, this image jumped at me because it illustrates the biggest problem we face in moving forward,</div>
+ <div class="_speakera">Towards the end of the book, this image jumped at me because it illustrates the biggest problem we face in moving forward,</div>
   <div class="_center">
    <img
     src="/assets/img/pic-71-self-censorship.svg"
