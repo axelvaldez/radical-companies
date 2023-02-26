@@ -16,19 +16,15 @@ image:    "icon-urban-radical-one-more-time.svg"
  <div class="_quotespan">Seems like you are going to do it anyways&hellip;</div>
  <div class="_quotespan">The ladder was the first thing that made me sit up and pay attention. I recognized the analysis and labeling that was coming and I got pretty excited.</div>
    <img
-    src="/assets/img/pic-50-genies.svg"
-    width="70%"
-    alt="">
-  </div>
- <div class="_quotespan">
- <div class="_center">
-   <img
-    src="/assets/img/pic-50-genies.svg"
+    src="/assets/img/pic-39-emergence-of-golems-and-genies-on-the-ladder.svg"
     width="70%"
     alt="">
   </div>
 
- <div class="_quotespan">I skipped a lot of the rest of the book, but this image jumped at me because it illustrates the biggest problem we face in moving forward,</div>
+ </div>
+ <div class="_quotespan">
+
+ <div class="_quotespan">This image jumped at me because it illustrates the biggest problem we face in moving forward,</div>
   <div class="_center">
    <img
     src="/assets/img/pic-71-self-censorship.svg"
