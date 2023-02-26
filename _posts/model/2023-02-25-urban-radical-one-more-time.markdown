@@ -46,7 +46,7 @@ image:    "icon-urban-radical-one-more-time.svg"
   <div class="_center">
    <img
     src="/assets/img/pic-71-self-censorship.svg"
-    width="70%"
+    width="50%"
     alt="">
   </div>
 
