@@ -336,8 +336,8 @@ table._background tr ul, ul li p:last-of-type {
 ._citation #_signature::before {
   content:"— ";
 }
-._quotespan, ._speakdera, ._speakerb {
-  font-style: italic;
+._quotespan, ._speakera, ._speakerb {
+  font-style:italic;
 }
 ._quotespan::before, ._speakera::before, ._speakerb::before {
   content:"“";
