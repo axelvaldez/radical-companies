@@ -48,9 +48,9 @@ image:    "icon-urban-radical-one-more-time.svg"
     alt="">
   </div>
 
- <div class="_quotespan"></div>
+ <div class="_quotespan">
  </div>
- <div class="_quotespan"></div>
+ <div class="_quotespan">
  </div>
 
 <h1 class="_section">ENDNOTES</h1>
