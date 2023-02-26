@@ -25,7 +25,7 @@ image:    "icon-urban-radical-silence.svg"
  <div class="_quotespan">Because a big part of the problems that you point out and are so passionate about <span style="font-style:normal; ">spring out</span> of what we call <span class="_paradigm">FIAT</span> businesses, the source of &lsquo;jobs&rsquo; and &lsquo;top companies.&rsquo;</div>
  <div class="_speakera">So, you don&rsquo;t like capitalism. Go on.</div>
  <div class="_quotespan">I love capitalism, what I think is working against us is ownership. But more about that later&hellip;</div>
- <div class="_quotespan">For example, you mentioned the case where professor Nancy Hopkins &lsquo;walked out of the talk&rsquo; that Larry Summers was giving as an Economist, not as Harvard president. That gave me the levers I have been looking for and I thank you for that. It takes time and a long-term commitment to peel the layers off what we have grown up with and consider as the baseline of everything.</div>
+ <div class="_quotespan">For example, you mentioned the case where professor Nancy Hopkins walked out of the talk that Larry Summers was giving as an Economist, not as Harvard president. That gave me the levers I have been looking for and I thank you for that. It takes time and a long-term commitment to peel the layers off what we have grown up with and consider as the baseline of everything.</div>
  <div class="_speakera">Thanks.</div>
  <div class="_quotespan">Your book rearranged things in my head&hellip; actually, <span style="font-style:normal; ">it lifted the fog in my head</span> and I thank you for that.</div>
  <div class="_speakera">I am glad!</div>
