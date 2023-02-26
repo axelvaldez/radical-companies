@@ -1,13 +1,13 @@
 ---
 layout:   post
-title:    "Urban <span class='_paradigm'>RADICAL</span>k, One More Time."
+title:    "Urban <span class='_paradigm'>RADICAL</span>, One More Time."
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-urban-radical-one-more-time.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>An (imaginary) conversation with Tim Urban on the impact his book had on me.</p>
 </div>
 
 <h1></h1>
