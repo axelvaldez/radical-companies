@@ -54,14 +54,6 @@ image:    "icon-urban-radical-silence.svg"
  <div class="_speakera">Yes, but more that that. They have also been successful in paying off a portion of society who then becomes an essential part of their <span class="_paradigm">FIAT</span> immunne system. The middle class is essential to the immune system of the the dictatorship golem. Shit.</div>
  <div class="_speakerb">Shit, indeed. I could not have put that better if I tried.</div>
  <div class="_speakera">Except, you just did.</div>
- <div class="_speakerb">Yes, but no&hellip; whatever. What did it for me was your use of &lsquo;silence&rsquo;. Maybe it was this diagram,</div>
- <div class="_center">
-  <img
-   src="/assets/img/pic-whats-our-problem-silence.svg"
-   width="70%"
-   alt="">
- </div>
- <div class="_continueb">I am not sure why, but I jumped up from my bed and moved to the laptop where I am writing this stuff. More than anything else it was, I think, the &lsquo;TIMID&rsquo; column. The VOCAL column and PROFITEERS squeeze the TIMIDs by limiting speech to dictatorship-convenient-speech or else. That is what has been happening in Cuba, North Korea, and Venezuela. This is also what happens in <span class="_paradigm">FIAT</span> businesses, with the bosses as essential to their immune system.</div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
