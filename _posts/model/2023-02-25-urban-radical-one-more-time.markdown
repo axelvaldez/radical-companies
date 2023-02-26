@@ -10,12 +10,20 @@ image:    "icon-urban-radical-one-more-time.svg"
  <p>An (imaginary) conversation with Tim Urban on how to stengthen genies&rsquo; immune systems.</p>
 </div>
 
-<h1></h1>
- <div class="_quotespan">Out of love. That is making me unomfortable and energized at the same time. Weirder still, I feel like drawing.</div>
- <div class="_quotespan">
- 
  </div>
  <div class="_quotespan"></div>
+
+<h1></h1>
+ <div class="_quotespan">Out of love. That is making me unomfortable and energized at the same time. Weirder still, I feel like drawing.</div>
+ <div class="_quotespan">And speaking of drawing, I&rsquo;d like to point out what I found most impactful about the book. It is all in the drawings,</div>
+
+ <div class="_quotespan">I skipped a lot of the rest of the book, but this image jumped at me because it illustrates the biggest problem we face in moving forward,</div>
+  <div class="_center">
+   <img
+    src="/assets/img/71-self-censorship.svg"
+    width="70%"
+    alt="">
+  </div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
