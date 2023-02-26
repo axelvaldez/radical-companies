@@ -355,8 +355,11 @@ div._quotespan::before, div._speakera::before, div._speakerb::before {
 div._speakera {
   font-weight:bolder;
 }
+div._continueb {
+  margin-left:3.0em;
+}
 div._continueb::before {
-  content:"  “";
+  content:"“";
 }
 ._image {
   display:grid;
