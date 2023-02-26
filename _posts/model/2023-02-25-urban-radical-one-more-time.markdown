@@ -34,7 +34,7 @@ image:    "icon-urban-radical-one-more-time.svg"
     width="70%"
     alt="">
   </div>
- <div class="_quotespan"> I was aware of the distinction between what&rsquo;s inside your head and what is expressed and I knew that soken language was key. But it was a forehead-slaping moment when I saw this illustration and how communication it supports the emergence of a higher level of being.</div>
+ <div class="_quotespan"> I was aware of the distinction between what&rsquo;s inside your head and what is expressed and I knew that soken language was key. But it was a forehead-slaping moment when I saw this illustration and how communication makes it possible for the emergence of a higher level of being.</div>
   <div class="_center">
    <img
     src="/assets/img/pic-34-emergence-tower-ant-colony-vs-spider.svg"
