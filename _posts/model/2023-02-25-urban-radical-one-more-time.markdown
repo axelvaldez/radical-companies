@@ -47,7 +47,7 @@ image:    "icon-urban-radical-one-more-time.svg"
  <div class="_quotespan">
  </div>
 
- <div class="_speakera">Towards the end of the book, this image jumped at me because it illustrates the biggest problem we face in moving forward,</div>
+ <div class="_speakerb">Towards the end of the book, this image jumped at me because it illustrates the biggest problem we face in moving forward,</div>
   <div class="_center">
    <img
     src="/assets/img/pic-71-self-censorship.svg"
