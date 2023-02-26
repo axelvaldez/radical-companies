@@ -18,7 +18,7 @@ image:    "icon-urban-radical-silence.svg"
  <div class="_speakera">&hellip; I have many&hellip;.</div>
  <div class="_quotespan">&hellip; that may be, but you have one in particular that I know something about</div>
  <div class="_speakera">That sounds like fundamentalism to me, but let&rsquo;s hear it.</div>
- <div class="_quotespan">In any case, your blind spot is around &lsquo;jobs&rsquo; and &lsquo;top companies.&rsquo; You take them as a given, something you mention in passing, as the grass alongside the road. &lsquo;It is beautiful, ain&rsquo;t it. It&rsquo;s always been there. How can such a beautiful thing be part of the problem?.</div>
+ <div class="_quotespan">In any case, your blind spot is around &lsquo;jobs&rsquo; and &lsquo;top companies.&rsquo; You take them as a given, something you mention in passing, as the grass on the side of the road. &lsquo;It is beautiful, ain&rsquo;t it. It&rsquo;s always been there. How can such a beautiful thing be part of the problem?.</div>
  <div class="_speakera">So, the grass is my blind spot?</div>
  <div class="_quotespan">The &lsquo;jobs&rsquo; and &lsquo;top companies&rsquo; are.</div>
  <div class="_speakera">How so?</div>
