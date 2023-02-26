@@ -14,8 +14,8 @@ image:    "icon-urban-radical-silence.svg"
  <p>Below is an (imaginary) conversation with Tim Urban on blind spots. This ocurred to me after reading his book, <em>What&rsquo;s Ours Problem: A Self&ndash;Help Book for Society</em>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> (in one sitting).</p>
 
 <h1>Co&ndash;Management</h1>
- <div class="_quotespan">You have a blind spot.</div>
- <div class="_speakerb">I have many&hellip;.</div>
+ <div class="_quotespan">You have a blind spot that&hellip;</div>
+ <div class="_speakerb">&hellip; I have many&hellip;.</div>
  <div class="_quotespan">&hellip; that may be, but you have one in particular that I know something about</div>
  <div class="_speakerb">That sounds like fundamentalism to me, but let&rsquo;s hear it.</div>
  <div class="_quotespan">In any case, your blind spot is around &lsquo;jobs&rsquo; and &lsquo;top companies.&rsquo; You take them as a given, something you mention in passing, as the grass alongside the road. &lsquo;It is beautiful, ain&rsquo;t it. It&rsquo;s always been there. How can such a beautiful thing be part of the problem?.</div>
