@@ -339,10 +339,10 @@ table._background tr ul, ul li p:last-of-type {
 ._quotespan, ._speakera, ._speakerb {
   font-style:italic;
 }
-._quotespan::before, ._speakera::before, ._speakerb::before {
+._quotespan::before, ._speakera::before, ._speakerb::before, div._continueb::before {
   content:"“";
 }
-._quotespan::after, ._speakera::after, ._speakerb::after {
+._quotespan::after, ._speakera::after, ._speakerb::after, div._continueb::after {
   content: "”";
 }
 div._quotespan, div._speakera, div._speakerb {
@@ -357,9 +357,6 @@ div._speakera {
 }
 div._continueb {
   margin-left:3.0em;
-}
-div._continueb::before {
-  content:"“";
 }
 ._image {
   display:grid;
