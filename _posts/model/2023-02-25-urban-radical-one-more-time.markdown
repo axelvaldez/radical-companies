@@ -38,7 +38,7 @@ image:    "icon-urban-radical-one-more-time.svg"
   <div class="_center">
    <img
     src="/assets/img/pic-34-emergence-tower-ant-colony-vs-spider.svg"
-    width="70%"
+    width="50%"
     alt="">
   </div>
 
