@@ -42,11 +42,6 @@ image:    "icon-urban-radical-one-more-time.svg"
     alt="">
   </div>
 
- <div class="_quotespan">
- </div>
- <div class="_quotespan">
- </div>
-
  <div class="_speakerb">Towards the end of the book, this image jumped at me because it illustrates the biggest problem we face in moving forward,</div>
   <div class="_center">
    <img
@@ -54,11 +49,6 @@ image:    "icon-urban-radical-one-more-time.svg"
     width="70%"
     alt="">
   </div>
-
- <div class="_quotespan">
- </div>
- <div class="_quotespan">
- </div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
