@@ -27,7 +27,7 @@ image:    "icon-urban-radical-one-more-time.svg"
     width="70%"
     alt="">
   </div>
- <div class="_quotespan">When I got to the ladder, I recognized the analysis and labeling that was coming and I got pretty excited. Then you came up with genies and golems, higher and primtive minds and it was music to my ear. Particularly, the high-rung and low-run quadrants were pure joy.</div>
+ <div class="_quotespan">When I got to the ladder, I recognized the analysis and labeling that was coming and I got pretty excited. higher and primtive minds, genies and golems and&hellip; and&hellip; it was music to my ears. The high-rung and low-run quadrants were pure joy.</div>
   <div class="_center">
    <img
     src="/assets/img/pic-39-emergence-of-golems-and-genies-on-the-ladder.svg"
