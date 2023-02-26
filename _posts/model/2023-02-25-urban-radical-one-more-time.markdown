@@ -11,8 +11,8 @@ image:    "icon-urban-radical-one-more-time.svg"
 </div>
 
 <h1></h1>
- <div class="_quotespan">Out of love. That is making me unomfortable and energized at the same time. Weirder still, I feel like drawing.</div>
- <div class="_quotespan">And speaking of drawing, I&rsquo;d like to tell what I found most impactful about the book using your drawings. OK?</div>
+ <div class="_speakera">Out of love. That is making me unomfortable and energized at the same time. Weirder still, I feel like drawing.</div>
+ <div class="_speakerb">And speaking of drawing, I&rsquo;d like to tell what I found most impactful about the book using your drawings. OK?</div>
  <div class="_quotespan">Seems like you are going to do it anyways&hellip;</div>
  <div class="_quotespan">The history of people illustrated as a 1,000-page book made me sit up and pay attention.</div>
   <div class="_center">
