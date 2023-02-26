@@ -7,11 +7,6 @@ image:    "icon-urban-radical-one-more-time.svg"
 ---
 
 <div style="display:none;">
- <p>An (imaginary) conversation with Tim Urban on how to stengthen genies&rsquo; immune systems.</p>
-</div>
-
- </div>
- <div class="_quotespan"></div>
 
 <h1></h1>
  <div class="_quotespan">Out of love. That is making me unomfortable and energized at the same time. Weirder still, I feel like drawing.</div>
@@ -24,6 +19,9 @@ image:    "icon-urban-radical-one-more-time.svg"
     width="70%"
     alt="">
   </div>
+
+ </div>
+ <div class="_quotespan"></div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
