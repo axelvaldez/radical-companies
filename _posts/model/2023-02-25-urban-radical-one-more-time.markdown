@@ -14,7 +14,7 @@ image:    "icon-urban-radical-one-more-time.svg"
  <div class="_quotespan">Out of love. That is making me unomfortable and energized at the same time. Weirder still, I feel like drawing.</div>
  <div class="_quotespan">And speaking of drawing, I&rsquo;d like to tell what I found most impactful about the book using your drawings. OK?</div>
  <div class="_quotespan">Seems like you are going to do it anyways&hellip;</div>
- <div class="_quotespan">The ladder was the first thing that made me sit up and pay attention. I recognized the analysis and labeling that was coming and I got pretty excited.</div>
+ <div class="_quotespan">The ladder was the first thing that made me sit up and pay attention. I recognized the analysis and labeling that was coming and I got pretty excited. Then you came up with genies and golems, higher and primtive minds and it was music to my ear. Particularly, the high-rung and low-run quadrants were pure joy.</div>
   <div class="_center">
    <img
     src="/assets/img/pic-39-emergence-of-golems-and-genies-on-the-ladder.svg"
