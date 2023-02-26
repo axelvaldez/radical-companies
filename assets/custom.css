@@ -353,7 +353,7 @@ div._quotespan::before, div._speakera::before, div._speakerb::before {
   content:"— “";
 }
 ._speakerb {
-  font-weight:lighter;
+  font-weight:bolder;
 }
 ._image {
   display:grid;
