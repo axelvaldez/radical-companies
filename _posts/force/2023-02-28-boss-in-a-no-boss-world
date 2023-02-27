@@ -1,0 +1,16 @@
+---
+layout:   post
+title:    "Boss in a No-Boss World"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez"
+image:    "icon-boss-in-a-no-boss-world.svg"
+---
+
+<div style="display:none;">
+ <p></p>
+</div>
+
+<h1>&nbsp;</h1>
+ <p>Reducing the force.</p>
+
+{% include related.html %}
