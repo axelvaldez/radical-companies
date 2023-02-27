@@ -52,7 +52,7 @@ image:    "icon-urban-radical-silence.svg"
  <div class="_speakera">And they have been so succesful&hellip;</div>
  <div class="_speakerb">&hellip; financially successful!&hellip;</div>
  <div class="_speakera">Yes, but more that that. They have also been successful in paying off a portion of society who then becomes an essential part of their <span class="_paradigm">FIAT</span> immunne system. The middle class is essential to the immune system of the the dictatorship golem. Shit.</div>
- <div class="_speakerb">Shit, indeed. I could not have put that better if I tried.</div>
+ <div class="_speakerb">Shit, indeed. I could not have put that better.</div>
  <div class="_speakera">Except, you just did.</div>
 
 <h1 class="_section">ENDNOTES</h1>
