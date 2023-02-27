@@ -16,6 +16,8 @@ image:    "icon-ptsd-and-trust.svg"
  <p>xxx</p>
  <p>xxx</p>
 
+{% include related.html %}
+
 <!-- footnote -->
 <h1></h1>
  <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
