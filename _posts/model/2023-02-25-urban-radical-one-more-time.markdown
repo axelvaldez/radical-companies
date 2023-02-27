@@ -14,7 +14,7 @@ image:    "icon-urban-radical-one-more-time.svg"
  <div class="_speakera">Out of love. That is making me unomfortable and energized at the same time. Weirder still, I feel like drawing.</div>
  <div class="_speakerb">And speaking of drawing, I&rsquo;d like to tell what I found most impactful about the book using your drawings. OK?</div>
  <div class="_speakera">Seems like you are going to do it anyways&hellip;</div>
- <div class="_speakerb">The history of people illustrated as a 1,000-page book made me sit up and pay attention.</div>
+ <div class="_speakerb">Our history illustrated as a 1,000-page book made me sit up and pay attention.</div>
   <div class="_center">
    <img
     src="/assets/img/pic-02-1000-page-book-explained.svg"
@@ -34,7 +34,7 @@ image:    "icon-urban-radical-one-more-time.svg"
     width="70%"
     alt="">
   </div>
- <div class="_speakerb"> I was aware of the distinction between what&rsquo;s inside your head and what is expressed and I knew that spoken language was key our humanity. But it was a forehead-slaping moment when I saw this illustration and how communication makes possible the emergence of, for example, social animals.</div>
+ <div class="_speakerb"> I was aware of the distinction between what&rsquo;s inside your head and what is expressed and I knew that spoken language was key to our humanity. But it was a forehead-slaping moment when I saw this illustration and how communication makes possible the emergence of, for example, social animals.</div>
   <div class="_center">
    <img
     src="/assets/img/pic-34-emergence-tower-ant-colony-vs-spider.svg"
