@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Not about Gover<em>nment</em>, but about Gover<em>nance</em>"
+title:    "Not about Government, but about Governance"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-not-about-government-but-about-governance.svg"
