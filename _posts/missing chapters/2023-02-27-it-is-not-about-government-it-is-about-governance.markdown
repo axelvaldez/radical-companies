@@ -30,38 +30,39 @@ image:    "icon-it-is-not-about-government-it-is-about-governance.svg"
     <em>rGov</em>.
     May 2022.
     &lt;<a href="https://radicalcompanies.com/2022/05/05/rgov" target="_blank">https://radicalcompanies.com/2022/05/05/rgov</a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
    <p class="_list-item">
-    Matt Perez.
+    Matt Perez, Adrian Perez, Jose Leal.
     <em>radical-for-the-impatient</em>.
     May 2022.
-    &lt;<a href="https://radicalcompanies.com/" target="_blank">https://radicalcompanies.com/</a>&gt;
+    &lt;<a href="https://radicalcompanies.com/2022/05-03/radical-companies-for-the-impatient" target="_blank">https://radicalcompanies.com/2022/05-03/radical-companies-for-the-impatient</a>&gt;
    </p>
    <p class="_list-item">
     Matt Perez.
-    <em>fiat-dictatorship</em>.
-    May 2022.
-    &lt;<a href="https://radicalcompanies.com/" target="_blank">https://radicalcompanies.com/</a>&gt;
+    <em><span class="_paradigm">FIAT</span> Dictatorships</em>.
+    September 2022.
+    &lt;<a href="https://radicalcompanies.com/2022/09/29/fiat-dictatorships" target="_blank">https://radicalcompanies.com/2022/09/29/fiat-dictatorships</a>&gt;
    </p>
    <p class="_list-item">
     Matt Perez.
-    <em>in-the-national-interest</em>.
-    May 2022.
-    &lt;<a href="https://radicalcompanies.com/" target="_blank">https://radicalcompanies.com/</a>&gt;
+    <em>In the National Interest</em>.
+    Oct 2022.
+    &lt;<a href="https://radicalcompanies.com/2022/10/23/in-the-national-interest" target="_blank">https://radicalcompanies.com/2022/10/23/in-the-national-interest</a>&gt;
    </p>
    <p class="_list-item">
     Matt Perez.
-    <em>urban-radical-again</em>.
-    May 2022.
-    &lt;<a href="https://radicalcompanies.com/" target="_blank">https://radicalcompanies.com/</a>&gt;
+    <em>Urban Radical, Again</em>.
+    Feb 2023.
+    &lt;<a href="https://radicalcompanies.com/2023/02/24/urban-radical-again" target="_blank">https://radicalcompanies.com/2023/02/24/urban-radical-again</a>&gt;
    </p>
    <p class="_list-item">
     Matt Perez.
-    <em>the-power-of-the-powerless</em>.
+    <em>The Power of The Powerless</em>.
     May 2022.
-    &lt;<a href="https://radicalcompanies.com/" target="_blank">https://radicalcompanies.com/</a>&gt;
+    &lt;<a href="https://radicalcompanies.com/2022-07-25-the-power-of-the-powerless-through-the-radical-lense" target="_blank">https://radicalcompanies.com/2022-07-25-the-power-of-the-powerless-through-the-radical-lense</a>&gt;
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
  </ul>
 
