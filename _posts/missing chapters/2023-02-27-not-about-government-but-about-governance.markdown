@@ -20,7 +20,7 @@ image:    "icon-not-about-government-but-about-governance.svg"
 
 <h1>Governance, Not Government</h1>
  <p>When I wrote rGOV,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> almost a year ago there was no distinction in my mind between government and governance. I assumed that in a co-managed and co-owned world, governments would not exist, at least not in their present form. There would no borders to defend and people could co-manage the rest.</p>
- <p>If I had not missed governance altogether, I would have entitled the post <em>rGov Is Co-Gov</em> or something like that.</p>
+ <p>If I had not missed governance altogether, I would have entitled the post <em>rGOV Is Co-Gov</em> or something like that.</p>
 
 <h1>rGOV is Co-Gov</h1>
  <p></p>
