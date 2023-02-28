@@ -11,7 +11,7 @@ image:    "icon-not-about-government-but-about-governance.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>The nice story is that governments have a monopoly on force to protect the country&rsquo;s borders and to have one foreign policy. But goverments are <span class="_paradigm">FIAT</span> institutions, based on dictatorships-known-as-businesses.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> What people need, and what always emerges, is some governance. A way to make it easier to collaborate, live together, and work together.</p>
+ <p>The nice story is that governments have a monopoly on force to protect the country&rsquo;s borders and to have one foreign policy. The other story is that goverments are <span class="_paradigm">FIAT</span> institutions, based on dictatorships-known-as-businesses.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> What people need, and what always emerges, is some governance. A way to make it easier to collaborate, live together, and work together.</p>
  <p>You don't need governance if you are stranded in an island by yourself. The only &lsquo;agreement&rsquo; you can have with the other animals in the island is, <span class="_quotespan">If you come near me again and I will slaughter you.</span> But that doesn&rsquo;t work with people. You need governance with people, <span class="_quotespan">This is how we collaborate to do things together and get to a higher level of life.</span></p>
  <p>Governance is about collaborating to change those agreements, our ability to change the culture. And that is the point.</p>
 
