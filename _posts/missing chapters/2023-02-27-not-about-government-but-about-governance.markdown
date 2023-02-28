@@ -7,7 +7,7 @@ image:    "icon-not-about-government-but-about-governance.svg"
 ---
 
 <div style="display:none;">
- <p>Governments have a monopoly on force to protect the country&rsquo;s borders. That&rsquo;s a nice story. And then you remember that goverments are <span class="_paradigm">FIAT</span> institutions, based on dictatorships-known-as-businesses.</p>
+ <p>Goverments are <span class="_paradigm">FIAT</span> institutions, based on dictatorships-known-as-businesses. What&rsquo;s important is governance.</p>
 </div>
 
 <h1>&nbsp;</h1>
