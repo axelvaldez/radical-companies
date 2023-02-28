@@ -32,6 +32,8 @@ image:    "icon-it-is-not-about-government-it-is-about-governance.svg"
     &lt;<a href="https://radicalcompanies.com/2022/05/05/rgov" target="_blank">https://radicalcompanies.com/2022/05/05/rgov</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
+  </li>
+  <li id="en02">
    <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
     <em>radical-for-the-impatient</em>.
