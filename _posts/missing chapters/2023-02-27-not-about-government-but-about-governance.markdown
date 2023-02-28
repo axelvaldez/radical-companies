@@ -20,7 +20,7 @@ image:    "icon-not-about-government-but-about-governance.svg"
  <p>In dictatorships, people revolt violently because that is what they &ldquo;know&rdquo; works. In places that lean towards democracy, people also revolt, but through non-violent ways, like assembling, protesting, and voting. Because that is what they &ldquo;know&rdquo; works.</p>
 
 <h1>Governance, Not Government</h1>
- <p>When I wrote rGOV,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> almost a year ago there was no distinction in my mind between government and governance. I assumed that in a co-managed and co-owned world, governments would not exist in their present form. There would be no borders to defend, no foreign policy to set, and people could co-manage the rest. But governance is not just any form of co-management and I wish I has called it out then. I would have named the post <em>rGOV Is Co-Gov</em> or something like that.</p>
+ <p>When I wrote rGOV,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> almost a year ago there was no distinction in my mind between government and governance. I assumed that in a co-managed and co-owned world, governments would not exist in their present form. There would be no borders to defend, no foreign policy to set, and people could co-manage the rest. But governance is not just any form of co-management and I wish I has figured it out then because what we want is is co-governance.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>  <li id="en02">
