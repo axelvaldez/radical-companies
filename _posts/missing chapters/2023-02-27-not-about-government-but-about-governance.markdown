@@ -17,7 +17,7 @@ image:    "icon-not-about-government-but-about-governance.svg"
 
 <h1>Rules and Punishment</h1>
  <p>Making up rules that others must follow is easy to do, but harder to implement. In <span class="_paradigm">FIAT</span> environments we use some form of punishment for people who don&rsquo;t follow them rules: penalties, litigation, prison. That may hold a majority of people back, but only for a while. Eventually they revolt.</p>
- <p>In dictatorships, people revolt violently because that is what they &ldquo;know&rdquo; works. In places that lean towards democracy, people also revolt, but through less violent or non-violent ways, like assembling, protesting, and voting. Again, because that is what works.</p>
+ <p>In dictatorships, people revolt violently because that is what they &ldquo;know&rdquo; works. In places that lean towards democracy, people also revolt, but through non-violent ways, like assembling, protesting, and voting. Because that is what they &ldquo;know&rdquo; works.</p>
 
 <h1>Governance, Not Government</h1>
  <p>When I wrote rGOV,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> almost a year ago there was no distinction in my mind between government and governance. I assumed that in a co-managed and co-owned world, governments would not exist in their present form. There would be no borders to defend, no foreign policy to set, and people could co-manage the rest. But governance is not just any form of co-management and I wish I has called it out then. I would have named the post <em>rGOV Is Co-Gov</em> or something like that.</p>
