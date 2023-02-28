@@ -35,7 +35,7 @@ image:    "icon-ptsd-and-trust.svg"
    alt="">
  </div>
 
-<!-- Foundation -->
+<!-- Foundation  Table -->
  <div class="_center">
   <table class="_background">
    <tr>
@@ -56,7 +56,7 @@ image:    "icon-ptsd-and-trust.svg"
   </table>
  </div>
 
-<!-- Explicit Alignment -->
+<!-- Explicit Alignment Table -->
  <div class="_center">
   <table class="_background">
    <tr>
@@ -74,7 +74,7 @@ image:    "icon-ptsd-and-trust.svg"
   </table>
  </div>
 
-<!-- Trust Agreement -->
+<!-- Trust Agreement  Table -->
  <div class="_center">
   <table class="_background">
    <tr>
