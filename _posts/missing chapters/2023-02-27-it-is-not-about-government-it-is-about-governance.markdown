@@ -68,7 +68,6 @@ image:    "icon-not-about-government-but-about-governance.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-
  </ul>
 
 {% include related.html %}
