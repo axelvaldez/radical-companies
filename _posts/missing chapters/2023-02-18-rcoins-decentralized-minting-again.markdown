@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "rCOINs, Again"
+title:    "<span class='_paradigm'>rCOIN</span>s: Decentralized Minting, Again"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
 image:    "icon-rcoin-decentralized-minting-en.svg"
@@ -10,9 +10,6 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <p>Every currency must have <em>legitimacy</em> and <em>sovereignty</em>. For example, the US dollar has become a legitimate currency in the eyes of many governments, but it is not sovereign, except in the US.</p>
 </div>
 
-<!--
-
--->
 <h1>&nbsp;</h1>
  <p>Sovereignty and legitimacy are the two aspects any currency must have to be useful. The US dollar (&dollar;) has become the worldwide clearing currency, the only legitimate currency in the eyes of many governments. But it is not sovereign, except in the US. In most of Europe, the Euro (&euro;) is the sovereign currency. In Japan, the Yen (&yen;).</p>
  <p>This is a recent development, with national currencies formerly considered legitimate for trade (after lots of conversions).</p>
