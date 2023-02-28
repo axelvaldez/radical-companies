@@ -14,6 +14,8 @@ image:    "icon-it-is-not-about-government-it-is-about-governance.svg"
  <p>Governments have a monopoly on force to protect the country&rsquo;s borders. That&rsquo;s a nice story. And then you remember that goverments are <span class="_paradigm">FIAT</span> institutions, based on dictatorships-known-as-businesses.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>What people need, and always emerges, is governance. A way to make it easier to collaborate, live together, and work together.</p>
  <p>You don't need governance if you are stranded in a small island by yourself. The only &lsquo;governance&rsquo; with the other animals in the island is force, <span class="_quotespan">You come near me and I will slaughter you.</span> But that doesn&rsquo;t work with people. With people you need governance, <span class="_quotespan">This is how we do things around here&hellip; This is how we collaborate to build a better life.</span> Governance is about collaborating to change those agreements, our ability to change the culture. And that is the point.</p>
+
+<h1>Rules and Punishment</h1>
  <p>Making up rules that others must follow is easy to do, but harder to implement. So, we use some form of punishment, penalties, court proceedings, prison, for people who don&rsquo;t follow them. But that doesn&rsquo;t work with people. It may contain people, or at least the majority of them, for a long time, but it doesn&rsquo;t really work. In dictatorships, people can only revolt with violence against those kinds of rules. And they do. In places that lean towards democracy, people also revolt agains those kinds of rules but use less violent or non-violent ways, like assembling, protesting, and voting.</p>
 
 <h1>Governance, Not Government</h1>
