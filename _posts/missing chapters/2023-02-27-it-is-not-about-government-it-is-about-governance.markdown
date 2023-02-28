@@ -19,10 +19,10 @@ image:    "icon-it-is-not-about-government-it-is-about-governance.svg"
  <p>Making up rules that others must follow is easy to do, but harder to implement. So, we use some form of punishment, penalties, court proceedings, prison, for people who don&rsquo;t follow them rules. But that doesn&rsquo;t work. It may hold people back, or at least the majority of them, for a while, but that is it. In dictatorships, people revolt violently because that is what they know works. In places that lean towards democracy, people also revoltm, but use less violent or non-violent ways, like assembling, protesting, and voting.</p>
 
 <h1>Governance, Not Government</h1>
- <p>There was no distinction between government and governance in my mind when I wrote <a href="https://radicalcompanies.com/2022/05/05/rgov">rGov</a>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> almost a year ago. I assumed that in a co-managed and co-owned world, governments would not exist in their present form. There would no borders to defend and people could co-manage the rest.</p>
+ <p>when I wrote <a href="https://radicalcompanies.com/2022/05/05/rgov">rGov</a>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> almost a year ago there was no distinction in my mind between government and governance. I assumed that in a co-managed and co-owned world, governments would not exist; certainly not in their present form. There would no borders to defend and people could co-manage the rest.</p>
  <p>If I had not missed missing governance altogether, I would have entitled the post <a href="https://radicalcompanies.com/2022/05/05/rgov">rGov Is Co-Gov</a> or something like that.</p>
 
-<h1>Co-Gov</h1>
+<h1>rGOV is Co-Gov</h1>
  <p></p>
 
 <h1 class="_section">ENDNOTES</h1>
