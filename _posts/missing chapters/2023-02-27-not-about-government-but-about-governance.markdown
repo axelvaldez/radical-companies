@@ -7,7 +7,7 @@ image:    "icon-not-about-government-but-about-governance.svg"
 ---
 
 <div style="display:none;">
- <p>Goverments are <span class="_paradigm">FIAT</span> institutions, based on dictatorships-known-as-businesses. What&rsquo;s important is governance.</p>
+ <p>Goverments are <span class="_paradigm">FIAT</span> institutions, based on dictatorships-known-as-businesses. What&rsquo;s important is governance, not government.</p>
 </div>
 
 <h1>&nbsp;</h1>
