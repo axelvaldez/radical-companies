@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "It Is Not about <em>Government</em>, It Is about <em>Governance</em>"
+title:    "Not about <em>Government</em>, but about <em>Governance</em>"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-it-is-not-about-government-it-is-about-governance.svg"
+image:    "icon-not-about-government-but-about-governance.svg"
 ---
 
 <div style="display:none;">
