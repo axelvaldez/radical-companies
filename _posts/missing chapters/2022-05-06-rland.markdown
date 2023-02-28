@@ -166,7 +166,7 @@ image:    "icon-rland.svg"
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  ">
    <img src="/assets/img/en-all-politics.svg" alt="Three circles: the left-most is labeled LAND OPEN FOR BIDS. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes into a bigger circle labeled COMMON GOOD. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes to a smaller circle labeled LAND OPEN FOR BIDS." title="Common Goods and Politics">
   </p>
-  <p>A community may denominate not enough or a whole lot of land in the &ldquo;Region&rdquo; category. The community will literally prosper or not by those kinds of decisions. The <span class="_paradigm">RADICAL</span> model decentralizing principle gives the people most immediately affected a strong voice in the process.</p>
+  <p>A community may denominate land in the &ldquo;Region&rdquo; category. The community will literally prosper or not by those kinds of decisions. The <span class="_paradigm">RADICAL</span> model decentralizing principle gives the people most immediately affected a strong voice in the process.</p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Hyper-local Community</h2>
   <p>The community that is literally adjacent to the land in question. This includes communities that are physically close and those which are logically close.</p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Surrounding Community</h2>
