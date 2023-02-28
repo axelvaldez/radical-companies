@@ -19,7 +19,10 @@ image:    "icon-it-is-not-about-government-it-is-about-governance.svg"
 <h1>Governance, Not Government</h1>
  <p>The distinction between government and governance was not clear in my mind then. Actually, there was no distinction in my head when I wrote <a href="https://radicalcompanies.com/2022/05/05/rgov">rGov</a>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> almost a year ago. In it I believe that in co-managed and co-owned world governments would not exist at all. There would no borders to defned and people could co-manage the rest. I was missing governance altogether. Othersie I would have entitled the post <a href="https://radicalcompanies.com/2022/05/05/rgov">rGov Is Co-Gov</a> or something along those lines.</p>
 
- <h1 class="_section">ENDNOTES</h1>
+<h1>Co-Gov</h1>
+ <p></p>
+
+<h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
    <p class="_list-item">
@@ -31,6 +34,5 @@ image:    "icon-it-is-not-about-government-it-is-about-governance.svg"
    </p>
   </li>
  </ul>
-
 
 {% include related.html %}
