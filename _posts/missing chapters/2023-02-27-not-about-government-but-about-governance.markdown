@@ -62,7 +62,7 @@ image:    "icon-not-about-government-but-about-governance.svg"
   <li id="en01">
    <p class="_list-item">
     Matt Perez.
-    <em>rGov</em>.
+    <em>rGOV</em>.
     May 2022.
     &lt;<a href="https://radicalcompanies.com/2022/05/05/rgov" target="_blank">https://radicalcompanies.com/2022/05/05/rgov</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
