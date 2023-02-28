@@ -7,7 +7,7 @@ image:    "icon-not-about-government-but-about-governance.svg"
 ---
 
 <div style="display:none;">
- <p>Goverments are <span class="_paradigm">FIAT</span> institutions, based on dictatorships-known-as-businesses. What&rsquo;s important is governance, not government.</p>
+ <p>Goverments are <span class="_paradigm">FIAT</span> institutions, based on dictatorships-known-as-businesses. What&rsquo;s important is governance, not governem.</p>
 </div>
 
 <h1>&nbsp;</h1>
@@ -19,7 +19,7 @@ image:    "icon-not-about-government-but-about-governance.svg"
  <p>Making up rules that others must follow is easy to do, but harder to implement. So, we use some form of punishment, penalties, court proceedings, prison, for people who don&rsquo;t follow them rules. But that doesn&rsquo;t work. It may hold people back, or at least the majority of them, for a while, but that is it. In dictatorships, people revolt violently because that is what they know works. In places that lean towards democracy, people also revoltm, but use less violent or non-violent ways, like assembling, protesting, and voting.</p>
 
 <h1>Governance, Not Government</h1>
- <p>When I wrote rGOV,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> almost a year ago there was no distinction in my mind between government and governance. I assumed that in a co-managed and co-owned world, governments would not exist, at least not in their present form. There would no borders to defend and people could co-manage the rest.</p>
+ <p>When I wrote rGOV,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> almost a year ago there was no distinction in my mind between government and governance. I assumed that in a co-managed and co-owned world, governments would not exist in their present form. There would no borders to defend and people could co-manage the rest.</p>
  <p>If I had not missed governance altogether, I would have entitled the post <em>rGOV Is Co-Gov</em> or something like that.</p>
 
 <h1 class="_section">ENDNOTES</h1>
