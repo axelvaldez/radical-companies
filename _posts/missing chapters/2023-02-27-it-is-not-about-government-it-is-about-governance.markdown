@@ -7,7 +7,7 @@ image:    "icon-it-is-not-about-government-it-is-about-governance.svg"
 ---
 
 <div style="display:none;">
- <p>Government owns the military. It has a monopoly on force. Force to protect the country&rsquo;s borders. That&rsquo;s a nice story, but what people need is governance.</p>
+ <p>Government owns the military. It has a monopoly on force. Force to protect the country&rsquo;s borders. That&rsquo;s a nice story, but what we need is governance based by contributions, not capital.</p>
 </div>
 
 <h1>&nbsp;</h1>
