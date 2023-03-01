@@ -350,8 +350,12 @@ table._background tr ul, ul li p:last-of-type {
   content:"— “";
   margin-left:-1.3em;
 }
-._quotespan::after, ._speakera::after, ._speakerb::after, ._continuec::after, ._speakerac::after, ._speakerbc::after {
+._quotespan::after, ._speakera::after, ._speakerb::after, ._continuec::after {
   content: "”";
+}
+, ._speakerac::after, ._speakerbc::after {
+  content:"“";
+  margin-left:2.0em;
 }
 ._speakera, ._speakerac {
   font-weight:bolder;
