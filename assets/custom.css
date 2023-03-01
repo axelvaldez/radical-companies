@@ -336,28 +336,27 @@ table._background tr ul, ul li p:last-of-type {
 ._citation #_signature::before {
   content:"— ";
 }
+/* dialog: begin */
 ._quotespan, ._speakera, ._speakerb {
   font-style:italic;
 }
-._quotespan::before, ._speakera::before, ._speakerb::before {
-  content:"— “";
-}
-._quotespan::after, ._speakera::after, ._speakerb::after, div._continueb::after {
-  content: "”";
-}
-_quotespanc, _speakerc {
-  padding-top:10px;
-  margin-left:3.0em;
-}
-._quotespanc::before, ._speakerc::before {
+._quotespan::before, ._quotespanc::before {
   content:"“";
 }
-_quotespan, _speakerc {
-  margin-left:3.0em;
+._speakera::before, ._speakerb::before {
+  content:"— “";
 }
-_speakera {
+._quotespan::after, ._speakera::after, ._speakerb::after, ._continuec::after, ._speakerac::after, ._speakerbc::after {
+  content: "”";
+}
+._speakera, ._speakerac {
   font-weight:bolder;
 }
+._quotespanc, ._speakerac {
+  padding-top:10px;
+  margin-left:3.0em;
+}/* dialog: end */
+
 ._image {
   display:grid;
   place-items:center;
