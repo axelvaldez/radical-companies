@@ -349,14 +349,14 @@ div._quotespan, div._speakera, div._speakerb {
   margin-left:3.0em;
   text-indent:-1.3em;
 }
+div._quotespan, div._continuea, div._continueab {
+  margin-left:3.0em;
+}
 div._quotespan::before, div._speakera::before, div._speakerb::before {
   content:"— “";
 }
 div._speakera {
   font-weight:bolder;
-}
-div._continueb {
-  margin-left:3.0em;
 }
 ._image {
   display:grid;
@@ -369,7 +369,7 @@ div._continueb {
   align-items:center;
   display:grid;
   place-items:center;
-}
+}ƒ
 ._mb0 {
   margin-bottom:0;
 }
