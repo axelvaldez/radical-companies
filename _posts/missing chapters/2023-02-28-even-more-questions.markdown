@@ -26,7 +26,7 @@ image:    "icon-even-more-questions.svg"
   <div class="_speakera">Right! Well, no&hellip; Yes, she can learn. But I need to know it the minute she walks in the door.</div>
   <div class="_speakerb">Bad planning on your part, then, right?&hellip; Do you know how to program?</div>
   <div class="_speakera">Yes&hellip;</div>
-  <div class="_speakerb">So you were you born knowing all the programming languages, ever, rghts?</div>
+  <div class="_speakerb">So you were you born knowing all the programming languages, ever, rights?</div>
   <div class="_speakera">Of course not, but&hellip;</div>
   <div class="_speakerb">&hellip; then, why not give her a chance to learn the new language, which looks a lot like other languages? She doesn't have to spend time learning the co-managemnt and co-ownership side, so she spends time learning what she needs to learn? She is already aligned with the learning culture you want to build.</div>
   <div class="_speakerbc">BTW, explain that your team needs for her these language skilla fast, and maybe she konws somebody who does and can mentor her.</div>
