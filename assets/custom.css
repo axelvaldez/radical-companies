@@ -339,8 +339,6 @@ table._background tr ul, ul li p:last-of-type {
 /* dialog: begin */
 ._quotespan, ._speakera, ._speakerb {
   font-style:italic;
-}
-._speakera, ._speakerb {
   margin-left:2.0em;
 }
 ._quotespan::before, ._quotespanc::before {
