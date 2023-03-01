@@ -337,6 +337,7 @@ table._background tr ul, ul li p:last-of-type {
   content:"— ";
 }
 ._quotespan, ._speakera, ._speakerb {
+  padding-top:10px;
   font-style:italic;
 }
 ._quotespan::before, ._speakera::before, ._speakerb::before, div._continueb::before {
