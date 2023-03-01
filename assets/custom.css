@@ -337,7 +337,6 @@ table._background tr ul, ul li p:last-of-type {
   content:"— ";
 }
 ._quotespan, ._speakera, ._speakerb {
-  padding-top:10px;
   font-style:italic;
 }
 ._quotespan::before, ._speakera::before, ._speakerb::before, div._continueb::before {
@@ -356,8 +355,8 @@ div._speakera {
   font-weight:bolder;
 }
 div._quotespanc, div._speakera, div._speakerb {
+  padding-top:10px;
   margin-left:3.0em;
-  text-indent:1.3em;
 }
 ._image {
   display:grid;
