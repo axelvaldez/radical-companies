@@ -346,7 +346,7 @@ table._background tr ul, ul li p:last-of-type {
 ._quotespan::after, ._speakera::after, ._speakerb::after, div._continueb::after {
   content: "”";
 }
-div._quotespan, div._speakera, div._speakerb {
+div._quotespanc, div._speakera, div._speakerb {
   margin-left:3.0em;
   text-indent:-1.3em;
 }
