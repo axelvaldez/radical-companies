@@ -339,24 +339,24 @@ table._background tr ul, ul li p:last-of-type {
 ._quotespan, ._speakera, ._speakerb {
   font-style:italic;
 }
-._quotespan::before, ._speakera::before, ._speakerb::before, div._continueb::before {
-  content:"“";
+._quotespan::before, ._speakera::before, ._speakerb::before {
+  content:"— “";
 }
 ._quotespan::after, ._speakera::after, ._speakerb::after, div._continueb::after {
   content: "”";
 }
-div._quotespan, div._continuea, div._continueab {
-  margin-left:3.0em;
-}
-div._quotespan::before, div._speakera::before, div._speakerb::before {
-  content:"— “";
-}
-div._speakera {
-  font-weight:bolder;
-}
-div._quotespanc, div._speakera, div._speakerb {
+_quotespanc, _speakerc {
   padding-top:10px;
   margin-left:3.0em;
+}
+._quotespanc::before, ._speakerc::before {
+  content:"“";
+}
+_quotespan, _speakerc {
+  margin-left:3.0em;
+}
+_speakera {
+  font-weight:bolder;
 }
 ._image {
   display:grid;
