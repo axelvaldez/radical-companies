@@ -346,10 +346,6 @@ table._background tr ul, ul li p:last-of-type {
 ._quotespan::after, ._speakera::after, ._speakerb::after, div._continueb::after {
   content: "”";
 }
-div._quotespanc, div._speakera, div._speakerb {
-  margin-left:3.0em;
-  text-indent:-1.3em;
-}
 div._quotespan, div._continuea, div._continueab {
   margin-left:3.0em;
 }
@@ -358,6 +354,10 @@ div._quotespan::before, div._speakera::before, div._speakerb::before {
 }
 div._speakera {
   font-weight:bolder;
+}
+div._quotespanc, div._speakera, div._speakerb {
+  margin-left:3.0em;
+  text-indent:1.3em;
 }
 ._image {
   display:grid;
