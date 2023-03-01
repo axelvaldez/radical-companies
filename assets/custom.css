@@ -339,9 +339,11 @@ table._background tr ul, ul li p:last-of-type {
 /* dialog: begin */
 ._quotespan, ._speakera, ._speakerb {
   font-style:italic;
+  margin-left:2.0em;
 }
 ._quotespan::before, ._quotespanc::before {
   content:"“";
+  text-indent:1.3em;
 }
 ._speakera::before, ._speakerb::before {
   content:"— “";
@@ -354,8 +356,9 @@ table._background tr ul, ul li p:last-of-type {
 }
 ._quotespanc, ._speakerac {
   padding-top:10px;
-  margin-left:3.0em;
-}/* dialog: end */
+  margin-left:2.0em;
+}
+/* dialog: end */
 
 ._image {
   display:grid;
