@@ -343,7 +343,7 @@ table._background tr ul, ul li p:last-of-type {
 }
 ._quotespan::before, ._quotespanc::before {
   content:"“";
-  text-indent:1.3em;
+  text-indent:-1.3em;
 }
 ._speakera::before, ._speakerb::before {
   content:"— “";
