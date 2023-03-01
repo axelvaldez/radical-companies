@@ -18,7 +18,7 @@ image:    "icon-even-more-questions.svg"
   <div class="_speakera">I don&rsquo;t understand. What if they steal my ideas?</div>
   <div class="_speakerb">OK. OK. You cannot steal other people&rsquo;s ideas and they cannot [exagerated air quotes] &ldquo;steal&rdquo; yours. Somebody else can copy <span class="_quotespan">what they understood of your ideas</span>, but that is it. Besided in a transparent world you can always copy ideas.</div>
   <div class="_quotespanc">Back to the &ldquo;more money&rdquo; competitions, let&rsquo;s say that this four people around you are completely <span class="_paradigm">FIAT</span>. All they know is that money works and they offere your candidate more than you. Time and time again, they &ldquo;win.&rdquo; Those people that went for &ldquo;more money&rdquo; you would not be aligned with you. Keep looking until one the candidates show enouhg interest and curiosity. That is the candidate you want. One that you don&rsquo;t have to convince, one who wants to learn.</div>
-  <div class="_speakera">But what if she doesn't have the skils I need.</div>
+  <div class="_speakera">But what if she doesn't have the skills I need.</div>
   <div class="_speakerb">To make sure&hellip; this is person who knows how to program, but she doen&rsquo;t know the language your team needs, is that it?</div>
   <div class="_speakera">Exactly!</div>
   <div class="_speakerb">And you don&rsquo;t think that she can learn a new language?</div>
