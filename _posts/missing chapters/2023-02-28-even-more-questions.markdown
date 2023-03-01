@@ -12,7 +12,7 @@ image:    "icon-even-more-questions.svg"
 
 <h1>Language Skills and Culture</h1>
  <p>The questions were about hiring. I tried to explain that my preference is that they'd be no hiring, per se. The <span class="_paradigm">RADICAL</span> system is set up for that. But to no avail,</p>
-  <p class="_spearkerb">what do you do if you can&rsquo;t offer as much as the comptetion?</span></p>
+  <p class="_spearkerb">what do you do if you can&rsquo;t offer as much as the comptetion?</p>
   <p class="_quotespan">You don&rsquo;t have competition. You must be doing something different or else you should create an ensemble with &ldquo;the competition&rdquo;, or join them if want to make the same impact.</span></p>
   <p class="_spearkerb">I don&rsquo;t understand.</p>
   <p class="_quotespan">OK. OK. Let&rsquo;s say that this four people around you are completely <span class="_paradigm">FIAT</span>. All they know is that money works and offers your candidate more than you. Time and time again, they &ldquo;win.&rdquo; Those people that went for &ldquo;more money&rdquo; you would not be aligned with you. Keep looking until one the candidates show enouhg interest and curiosity. That is the candidate you want. One that you don&rsquo;t have to convince, one who wants to learn.</p>
