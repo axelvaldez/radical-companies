@@ -24,8 +24,7 @@ image:    "icon-even-more-questions.svg"
   <div class="_speakera">Exactly!</div>
   <div class="_speakerb">And you don&rsquo;t think that she can learn a new language?</div>
   <div class="_speakera">Right! Well, no&hellip; Yes, she can learn. But I need to know it the minute she walks in the door.</div>
-  <div class="_speakerb">Bad planning on your part, then, right?</div>
-  <div class="_speakerbc">Do you know how to program?</div>
+  <div class="_speakerb">Bad planning on your part, then, right?&hellip; Do you know how to program?</div>
   <div class="_speakera">Yes&hellip;</div>
   <div class="_speakerb">So you were you born knowing all the programming languages, ever, rghts?</div>
   <div class="_speakera">Of course not, but&hellip;</div>
