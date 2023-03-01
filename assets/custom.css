@@ -343,11 +343,10 @@ table._background tr ul, ul li p:last-of-type {
 }
 ._quotespan::before, ._quotespanc::before {
   content:"“";
-  text-indent:-1.3em;
 }
 ._speakera::before, ._speakerb::before {
   content:"— “";
-  margin-left:1.3em;
+  margin-left:-1.3em;
 }
 ._quotespan::after, ._speakera::after, ._speakerb::after, ._continuec::after, ._speakerac::after, ._speakerbc::after {
   content: "”";
