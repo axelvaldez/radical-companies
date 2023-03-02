@@ -23,7 +23,7 @@ image:    "icon-research-and-co-ownership.svg"
  <ul>
   <li><span class="_paradigm">BANNER</span>s can&rsquo;t give <span class="_paradigm">RAD</span>s back, so this process cannot be gamed (at least, not this way).</li>
   <li>Consensus means that everybody has to agree without a doubt. If you don&rsquo;t, we badger you or bribe you until you are willing to say you agree. If nothing works, the whole process stops. You are at the mercy of one.</li>
-  <li>Consent means that you are sure you fully agree, but you can live with it. The disagreeing person has to explain why not and that may a better argument against thann the one for original proposal.</li>
+  <li>Consent means that you are not sure you fully agree, but you can live with it. The disagreeing person has to explain why not and that may a better argument against thann the one for original proposal.</li>
   <li>For internal investments, the &ldquo;consent&rdquo; <span class="_paradigm">RAD</span>s get taken out of the <span class="_paradigm">RAD</span>s given in this cycle and contributed to the <span class="_paradigm">BANNER</span>s. They get ownership according to the <span class="_paradigm">RAD</span>s each co-owner has at the time of the investment.</li>
  </ul>
 
