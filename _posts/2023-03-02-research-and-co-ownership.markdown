@@ -14,9 +14,9 @@ image:    "icon-research-and-co-ownership.svg"
  <p>Research could be completely or partially funded with <span class="_paradigm">RAD</span>s.</p>
   <ul>
    <li>Put up a <span class="_paradigm">BANNER</span></li>
-   <li>People give their <span class="_paradigm">RAD</span>s</li>
-   <li>If it falls short, and everybody consents, get <span class="_paradigm">RADICAL</span> investment for the difference</li>
-   <li>Done.
+   <li>People give their <span class="_paradigm">RAD</span>s to the <span class="_paradigm">BANNER</span>.</li>
+   <li>If it falls short, and everybody <em>consents</em>, get <span class="_paradigm">RADICAL</span> investment for the difference.</li>
+   <li>Done.</li>
   </ul>
 
 <h1>Reminders</h1>
