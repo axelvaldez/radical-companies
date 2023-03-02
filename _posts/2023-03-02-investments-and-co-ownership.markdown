@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Investment and Co-Ownership"
+title:    "Investments and Co-Ownership"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-investment-and-co-ownership.svg"
+image:    "icon-investments-and-co-ownership.svg"
 ---
 
 <div style="display:none;">
