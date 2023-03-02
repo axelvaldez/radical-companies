@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "TEMPLATE"
+title:    "Research and Co-Ownership"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-ptsd-and-trust.svg"
+image:    "icon-research-and-co-ownership.svg"
 ---
 
 <div style="display:none;">
