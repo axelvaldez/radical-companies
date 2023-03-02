@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Roboto:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
 
-
 html{
   --color-acc-1: #36B3C7;
   --color-acc-2: #ED8849;
@@ -8,22 +7,18 @@ html{
   --color-light: #fff;
   font-size: 20px;
 }
-
 @media (max-width: 700px){
   html{
     font-size: 16px;
   }
-
   [class^="col-"]{
     margin-bottom: 1rem;
   }
-
   section, nav{
     padding-left: 2rem;
     padding-right: 2rem;
   }
 }
-
 @media (max-width: 650px){
   html{
     font-size: 14px;
@@ -34,25 +29,20 @@ html{
     padding-right: 0;
   }
 }
-
 a{
   color: var(--color-acc-2);
 }
-
 a:hover{
   color: var(--color-acc-1);
 }
-
 h2 a, h3 a {
   color: var(--color-text);
   text-decoration: none;
 }
-
 h2 a:hover, h3 a:hover{
   color: var(--color-acc-2);
   text-decoration: none;
 }
-
 .btn{
   font-family: "Roboto", sans-serif;
 }
@@ -66,12 +56,10 @@ nav a, nav a span{
   text-decoration: none;
   color: var(--color-acc-1);
 }
-
 nav a:hover, nav a:hover span{
   text-decoration: none;
   color: var(--color-acc-2);
 }
-
 nav a svg{
   fill: var(--color-acc-1);
   width: auto;
@@ -84,74 +72,58 @@ nav a:hover svg{
   height: 1.2rem;
   vertical-align: sub;
 }
-
 body{
   font-family: "Lora", sans-serif;
 }
-
 h1, h2, h3, h4, h5, h6{
   font-family:Courier New, monospace;
 }
-
 h1{
   font-weight: 900;
   font-size: 4rem;
   line-height: 1;
   margin: 0;
 }
-
 h2{
   font-size: 2rem;
   font-weight: 700;
 }
-
 h3{
   font-size: 1.5rem;
   font-weight: 700;
 }
-
 .lead{
   font-size: 1.5rem;
 }
-
 .btn{
   border: none;
   font-weight: bold;
 }
-
 section, footer{
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
-
 .bg-accent{
   background-color: var(--color-acc-1);
 }
-
 .bg-orange{
   background-color: var(--color-acc-2);
 }
-
 .bg-black{
   background-color: var(--color-text);
 }
-
 .bg-hover-accent:hover{
   background-color: var(--color-acc-1);
 }
-
 .text-accent{
   color: var(--color-acc-1);
 }
-
 .text-orange{
   color: var(--color-acc-2);
 }
-
 .text-black{
   color: var(--color-text);
 }
-
 .card{
   background:white;
   padding:3rem;
@@ -159,16 +131,13 @@ section, footer{
   border-radius:0;
   border:none;
 }
-
 .neg-y{
   margin-top:-5rem !important;
   margin-bottom:-5rem !important;
 }
-
 .trans-white-accent{
   background:linear-gradient(var(--color-light) 0, var(--color-light) 50%, var(--color-acc-1) 50%, var(--color-acc-1) 100%);
 }
-
 .ripped{
     padding-top:7rem;
     padding-bottom:7rem;
@@ -177,7 +146,6 @@ section, footer{
     background-size:100%;
     background-repeat:no-repeat;
 }
-
 .ripped-top-alt{
   padding-top:7rem;
   background-image:url(img/rip-2.png);
@@ -185,7 +153,6 @@ section, footer{
   background-size:100%;
   background-repeat:no-repeat;
 }
-
 .ripped-top{
   padding-top:7rem;
   background-image:url(img/rip-1.png);
@@ -193,7 +160,6 @@ section, footer{
   background-size:100%;
   background-repeat:no-repeat;
 }
-
 .section-buy{
   background:
     url(img/rip-1.png),
@@ -202,7 +168,6 @@ section, footer{
   background-size: 100%;
   background-repeat: no-repeat;
 }
-
 footer{
     padding-top:10rem;
     background-image:url(img/rip-4.png);
@@ -211,13 +176,11 @@ footer{
     background-repeat:no-repeat;
     font-family:"Roboto", sans-serif;
 }
-
 @media (min-width: 1024px){
   .hero-img{
     margin-left:-250px;
   }
 }
-
 /* Matt's */
 .text-lg-start h1 {
   font-size:60px;
@@ -317,12 +280,6 @@ table._background tr ul, ul li p:last-of-type {
   width:80%;
   margin:0 auto 30px auto;
 }
-/*
-._citation {
-  padding-bottom:0px;
-  font-size:larger;
-}
-*/
 ._citation #_signature {
   display: block;
   padding-top:10px;
@@ -336,7 +293,9 @@ table._background tr ul, ul li p:last-of-type {
 ._citation #_signature::before {
   content:"— ";
 }
-/* dialog: begin */
+/*
+ * dialog: begin
+ */
 ._quotespan, ._speakera, ._speakerb {
   font-style:italic;
 }
@@ -363,8 +322,9 @@ table._background tr ul, ul li p:last-of-type {
 ._quotespanc, ._speakerac {
   padding-top:10px;
 }
-/* dialog: end */
-
+/*
+ * dialog: end
+ */
 ._image {
   display:grid;
   place-items:center;
