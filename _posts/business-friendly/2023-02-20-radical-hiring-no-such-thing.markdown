@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "RADICAL Hiring? Easy!"
+title:    "RADICAL Hiring? No Such Thing!"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "icon-radical-hiring-easy.svg"
+image:    "icon-radical-hiring-no-such-thing.svg"
 ---
 
 <div style="display:none;">
