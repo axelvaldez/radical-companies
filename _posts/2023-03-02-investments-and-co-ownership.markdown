@@ -15,7 +15,7 @@ image:    "icon-investments-and-co-ownership.svg"
   <ul>
    <li>Put up a <span class="_paradigm">BANNER</span></li>
    <li>People give their <span class="_paradigm">RAD</span>s to the <span class="_paradigm">BANNER</span>.</li>
-   <li>If it falls short, and consent, get <span class="_paradigm">RADICAL</span> investment for the difference.</li>
+   <li>If it falls short, and consent, get you can get an interanl <span class="_paradigm">RADICAL</span> investment or an outside RADICAL imvesment for the difference.</li>
    <li>Done.</li>
   </ul>
 
