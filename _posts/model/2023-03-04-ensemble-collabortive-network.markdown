@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Ensembles, Collaboratives, Network"
+title:    "Ensembles, Collaboratives, or Networks"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-ensemble-collabortive-network.svg"
+image:    "icon-ensembles-collabortives-networks.svg"
 ---
 
 <div style="display:none;">
