@@ -27,20 +27,18 @@ image:    "icon-resistance-to-co-ownership.svg"
 <h1>Non-Owners to Owners</h1>
  <p>People who,</p>
   <table>
-   <body style="font-size:larger; ">
-    <tr>
-     <td>Just got to be owners, or</td>
-    </tr>
-    <tr>
-     <td>Are about to reach owner status, or</td>
-    </tr>
-    <tr>
-     <td>Just made it into the lower middle class, or</td>
-    </tr>
-    <tr>
-     <td>Are on the verge of leaving poverty behind them.</td>
-    </tr>
-   </body>
+   <tr>
+    <td>Just got to be owners, or</td>
+   </tr>
+   <tr>
+    <td>Are about to reach owner status, or</td>
+   </tr>
+   <tr>
+    <td>Just made it into the lower middle class, or</td>
+   </tr>
+   <tr>
+    <td>Are on the verge of leaving poverty behind them.</td>
+   </tr>
   </table>
  <p>These folks are more likely to reject, possibly strongly, anything that sounds like a change to the system that they have learned used to &ldquo;win.&rdquo;</p>
 
