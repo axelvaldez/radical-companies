@@ -24,23 +24,23 @@ image:    "icon-resistance-to-co-ownership.svg"
  </div>
  <p>Resistance to co-ownership will come from everywhere. A safe bet is that some owners, maybe many, will say it is a communist plot.</p>
 
-<h1>Poor to Better-Off-Non-Owners to Owners</h1>
+<h1>Non-Owners to Owners</h1>
  <p>People who,</p>
   <table>
    <body>
     <tr>
      <td>
-      <p style="padding-left:30px; ">Just got to be owners</p>
+      <p style="padding-left:30px; ">Just got to be owners, or</p>
      </td>
     </tr>
     <tr>
      <td>
-      <p style="padding-left:20px; ">Are about to reach owner status</p>
+      <p style="padding-left:20px; ">Are about to reach owner status, or</p>
      </td>
     </tr>
     <tr>
      <td>
-      <p style="padding-left:10px; ">Just made it into the lower middle class</p>
+      <p style="padding-left:10px; ">Just made it into the lower middle class, or</p>
      </td>
     </tr>
     <tr>
