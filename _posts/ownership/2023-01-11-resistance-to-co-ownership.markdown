@@ -10,8 +10,8 @@ image:    "icon-resistance-to-co-ownership.svg"
  <p>Resistance to co-ownership will come from everywhere. A safe bet is that the sole owners will say that it is a communist plot. But it will come from non-onwers, too.</p>
 </div>
 
-<div class="_quotation">
- <p>Such is the nature of orthodoxy. Is is difficult to get out of, even for a heretic like me.</p>
+<div class="_citation">
+ <p style="font-size:larger; ">Such is the nature of orthodoxy. Is is difficult to get out of, even for a heretic like me.</p>
  <p id="_signature">Blair Fix,<br>Economics from the Top Down</p>
 </div>
 
