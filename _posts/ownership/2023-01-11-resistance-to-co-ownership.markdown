@@ -27,30 +27,22 @@ image:    "icon-resistance-to-co-ownership.svg"
 <h1>Non-Owners to Owners</h1>
  <p>People who,</p>
   <table>
-   <body>
+   <body style="font-size:larger; ">
     <tr>
-     <td>
-      <p style="padding-left:30px; ">Just got to be owners, or</p>
-     </td>
+     <td>Just got to be owners, or</td>
     </tr>
     <tr>
-     <td>
-      <p style="padding-left:20px; ">Are about to reach owner status, or</p>
-     </td>
+     <td>Are about to reach owner status, or</td>
     </tr>
     <tr>
-     <td>
-      <p style="padding-left:10px; ">Just made it into the lower middle class, or</p>
-     </td>
+     <td>Just made it into the lower middle class, or</td>
     </tr>
     <tr>
-     <td>
-      <p>Are on the verge of leaving poverty behind them</p>
-     </td>
+     <td>Are on the verge of leaving poverty behind them.</td>
     </tr>
    </body>
   </table>
-  <p>These folks are more likely to reject, possibly strongly, anything that sounds like a change to the system that they have learned used to &ldquo;win.&rdquo;</p>
+ <p>These folks are more likely to reject, possibly strongly, anything that sounds like a change to the system that they have learned used to &ldquo;win.&rdquo;</p>
 
 <h1>And Co-Onwership Is a Big Change</h1>
  <p>Co-ownership makes it possible for everybody to be a co-owner. Everybody, not just the selected few who learned how to use the system to win and have power over others</em>. Simple as that.</p>
