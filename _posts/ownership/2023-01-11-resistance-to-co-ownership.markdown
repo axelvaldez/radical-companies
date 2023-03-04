@@ -19,7 +19,7 @@ image:    "icon-resistance-to-co-ownership.svg"
  <div class="_center">
   <img
    src="/assets/img/pic-resistance-to-co-ownership.svg"
-   width="50%"
+   width="70%"
    alt="">
  </div>
  <p>Resistance to co-ownership will come from everywhere. A safe bet is that some owners, maybe many, will say it is a communist plot.</p>
