@@ -24,4 +24,5 @@ image:    "icon-ensemble-collabortive-network.svg"
  <p>Ensembles are groups of people who come togehter to play one or more particulary pieces of music. Making Music is a social act.</p>
  <p>What co-owned companies do together is a social act and it is very akin to making music. It is not just labor, but creativity, embracing mistakes, and making others look good.</p>
  <p>I think the association with music is preferable to the association with labor or mathematics.</p>
+
 {% include related.html %}
