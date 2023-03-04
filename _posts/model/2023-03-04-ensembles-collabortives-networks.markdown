@@ -11,7 +11,7 @@ image:    "icon-ensembles-collabortives-networks.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Several co-owned companies want to get together to create particular thing. It is not a merger or an acquisition or anythig like that, but what should we call such a group? What this means for co-owned companies is that they want to pool their <span class="_paradigm">RAD</span>s for the duration of the project.</p>
+ <p>Several co-owned companies want to get together to create particular thing. It is not a merger or an acquisition or anythig like that. What this means for co-owned companies is that they want to pool their <span class="_paradigm">RAD</span>s for the duration of the project.</p>
  <p>Maybe it is an electric car and one company can do the basic motor while another works on the mechanical engineering involved in putting together a chasis with synchronized motors, etc. Each company can see how the technology they are passionate about could be applied to other projects in the future. They want to remain independent, ready to go their own way.</p>
 
 <h1>Network</h1>
