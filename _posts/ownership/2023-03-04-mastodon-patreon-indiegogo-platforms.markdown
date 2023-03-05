@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Mastodon, Patreon, IndiGoGo&hellip; PLATFORMS!"
+title:    "Mastodon, Patreon, IndieGoGo&hellip; PLATFORMS!"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-mastodon-patreon-indiegogo-platforms.svg"
