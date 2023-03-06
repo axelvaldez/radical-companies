@@ -23,7 +23,7 @@ image:    "icon-sparked-by-greed.svg"
  <p><span class="_speakerb">Dave, calm down. We are not accepting&hellip;</span>As the head of the Board was talking, David walked out.</p>
 
 <h1>&nbsp;</h1>
- <p class="_speakera">It wasn't the first time, and they will keep doing it</p>
- <p class="_speakerb">
+ <p class="_speakera">It wasn't the first time, and they will keep doing it. There is no bottom to their &lsquo;fiduciary&rsquo; duty.</p>
+ <p class="_speakerb">Well, you did it. Let&rsquo;s take some time off as we said. That will give you time to figure out what is next.</p>
 
 {% include related.html %}
