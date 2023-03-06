@@ -24,6 +24,6 @@ image:    "icon-sparked-by-greed.svg"
 
 <h1>&nbsp;</h1>
  <p class="_speakera">It wasn't the first time, and they will keep doing it. There is no bottom to their &lsquo;fiduciary&rsquo; duty.</p>
- <p class="_speakerb">Well, you did it. Let&rsquo;s take some time off as we said. That will give you time to figure out what is next for you and also for us.</p>
+ <p class="_speakerb">Well, you did it. Let&rsquo;s take some time off as we said. That will give us time to figure out what is next.</p>
 
 {% include related.html %}
