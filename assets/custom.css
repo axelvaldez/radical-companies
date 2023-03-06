@@ -310,7 +310,7 @@ table._background tr ul, ul li p:last-of-type {
   content:"— “";
   margin-left:-1.3em;
 }
-._quotespan::after, ._speakera::after, ._speakerb::after, ._continuec::after {
+._quotespan::after, ._speakera::after, ._speakerb::after, ._quotespanc::after {
   content: "”";
 }
 , ._speakerac::after, ._speakerbc::after {
