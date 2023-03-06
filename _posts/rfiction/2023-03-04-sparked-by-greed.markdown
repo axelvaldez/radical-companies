@@ -19,8 +19,8 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">Wait, it is not just us&hellip;</p>
  <p class="_speakera">Right, it is not just us. We are all raising prices only because we can.</p>
  <p class="_speakerb">Which will result in higher levels of returns thir fiscal year than last fiscal year.</p>
- <p><span class="_speakera">I see that your mind is made up and my participation is cosmetic. I came prepared for that.</span> David took out an envelope.<span class="_speakera">That my letter of resignation. You can send my stuff to my house, later on. I don&rsquo;t want to cause a scene out there.</span></p>
- <p><span class="_speakerb">Dave, calm down. We are not accepting&hellip;</span>As the head of the Board was talking, David got up and walked out.</p>
+ <p><span class="_speakera">I see that your mind is made up and my participation is cosmetic. I came prepared for that.</span> David took out an envelope. <span class="_speakera">That my letter of resignation. You can send my stuff to my house, later on. I don&rsquo;t want to cause a scene out there.</span></p>
+ <p><span class="_speakerb">Dave, calm down. We are not accepting&hellip;</span>As the head of the Board was talking, David walked out.</p>
 
 <h1>&nbsp;</h1>
  <p class="_speakera">It wasn't the first time, and they will keep doing it</p>
