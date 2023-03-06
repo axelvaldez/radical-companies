@@ -26,4 +26,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">It wasn't the first time, and they will keep doing it. There is no bottom to their &lsquo;fiduciary&rsquo; duty.</p>
  <p class="_speakerb">Well, you did it. Let&rsquo;s take some time off as we said. That will give us time to figure out what is next.</p>
 
+<h1>The Epiphany</h1>
+ <p>Less than a week later, they had it. They were going to start a new company, to do pharmaceutical research. David&rsquo;s brand as fortune combined with Xin experience and energy.</p>
+
 {% include related.html %}
