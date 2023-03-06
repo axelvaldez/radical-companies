@@ -12,9 +12,6 @@ image:    "icon-ptsd-and-trust.svg"
 
 <h1>&nbsp;</h1>
  <p>xxx</p>
- <p>xxx</p>
- <p>xxx</p>
- <p>xxx</p>
 
 {% include related.html %}
 
@@ -35,7 +32,7 @@ image:    "icon-ptsd-and-trust.svg"
    alt="">
  </div>
 
-<!-- Foundation  Table -->
+<!-- FOUNDATION  Table -->
  <div class="_center">
   <table class="_background">
    <tr>
@@ -56,7 +53,7 @@ image:    "icon-ptsd-and-trust.svg"
   </table>
  </div>
 
-<!-- Explicit Alignment Table -->
+<!-- EXPLICIT ALIGNMENT Table -->
  <div class="_center">
   <table class="_background">
    <tr>
@@ -238,5 +235,3 @@ image:    "icon-ptsd-and-trust.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}
