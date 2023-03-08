@@ -297,8 +297,8 @@ table._background tr ul, ul li p:last-of-type {
 /*
  * dialog: begin
  */
-._quotespanc::before {
-  content: "“";
+._quotespan, ._speakera, ._speakerb {
+  font-style:italic;
 }
 ._quotespanc {
   font-style:italic;
@@ -307,18 +307,15 @@ table._background tr ul, ul li p:last-of-type {
 ._quotespanc::after {
   content: "”";
 }
-._quotespan, ._speakera, ._speakerb {
-  font-style:italic;
-}
-._speakerbc {
-  margin-left:2.0em;
-}
 ._quotespan::before, ._quotespanc::before {
   content:"“";
 }
 ._speakera::before, ._speakerb::before {
   content:"— “";
   margin-left:-1.3em;
+}
+._speakerbc {
+  margin-left:2.0em;
 }
 ._quotespan::after, ._speakera::after, ._speakerb::after, ._quotespanc::after {
   content: "”";
@@ -329,6 +326,7 @@ table._background tr ul, ul li p:last-of-type {
 }
 ._speakera, ._speakerac {
   font-weight:bolder;
+  margin-bottom:3px;
 }
 ._quotespanc, ._speakerac {
   padding-top:10px;
