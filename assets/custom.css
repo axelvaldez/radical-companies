@@ -324,7 +324,7 @@ table._background tr ul, ul li p:last-of-type {
   content:"“";
   margin-left:2.0em;
 }
-._speakera, ._speakerac {
+._speakera, ._speakerb, ._speakerac {
   font-weight:bolder;
   margin-bottom:3px;
 }
