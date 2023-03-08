@@ -29,9 +29,11 @@ image:    "icon-sparked-by-greed.svg"
 <h1>The Epiphany</h1>
  <p>Less than a week later, they had it. Dave have come running from the nearby lake into the cabin they had rented. As Xim managed to slow him down she, too, became excited: they were going to start a new company to do pharmaceutical research. David&rsquo;s brand as fortune combined with with Xin&rsquo;s experience and energy.</p>
  <p>Then David started to hesitate, afraid that his previous company was going to come after him and make their lives impossible and stopped them dead in their tracks even before they had a chance to do anything. It was Xin&rsquo;s moment to play cheer leader and help David put it in perspective,</p>
- <p class="_speakerb">David&hellip; David! They can't come after you if you are not in competition with them. They will laughg and let you cook in your own oil</p>
- <p class="_speakerb">Let me cook?&hellip; OK, OK, I get what you mean&hellip;</p>
- <p class="_speakerb">Once you announce that you are not raising any serious capital, they&rsquo;ll laugh. I did when you first said it, I did laugh. I was convinced that it would take a multimillion dollar lab to make any headway. Then you laughed and told me why not.</p>
- <p class="_speakerb">
+ <p class="_speakera">David&hellip; David! They can't come after you if you are not in competition with them. They will laughg and let you fry in your own grease.</p>
+ <p class="_speakerb">Fry in&hellip; ? OK, OK, I get what you mean&hellip;</p>
+ <p class="_speakera">Once you announce that you are not raising any serious capital, they&rsquo;ll laugh. I did when you first said it, I did laugh. I was convinced that it would take a multimillion dollar lab to make any headway. Then you laughed and told me why not.</p>
+ <p class="_speakera">And if they don&rsquo;t laugh, screwn them. Plenty of people will come to my defence&hellip;</p>
+ <p class="_speakerb">&hellip; plenty of people will be sympathetic and that&rsquo;s it. Our biggest defense is that we are tiny and unimportant. That is the only thing we have going to us, OK?</p>
+ <p class="_speakera">
 
 {% include related.html %}
