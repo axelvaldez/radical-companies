@@ -297,6 +297,16 @@ table._background tr ul, ul li p:last-of-type {
 /*
  * dialog: begin
  */
+._quotespanc::before {
+  content: "“";
+}
+._quotespanc {
+  font-style:italic;
+  font-weight:bold;
+}
+._quotespanc::after {
+  content: "”";
+}
 ._quotespan, ._speakera, ._speakerb {
   font-style:italic;
 }
