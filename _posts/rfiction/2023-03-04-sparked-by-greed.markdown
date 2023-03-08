@@ -27,6 +27,11 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">Well, you did it. Let&rsquo;s take some time off as we said figure out what is next.</p>
 
 <h1>The Epiphany</h1>
- <p>Less than a week later, they had it. They were going to start a new company, to do pharmaceutical research. David&rsquo;s brand as fortune combined with Xin experience and energy.</p>
+ <p>Less than a week later, they had it. Dave have come running from the nearby lake into the cabin they had rented. He was talking and Xim had managed to slow him down she became infected: they were going to start a new company to do pharmaceutical research. David&rsquo;s brand as fortune combined with with Xin&rsquo;s experience and energy.</p>
+ <p>Then David started to hesitate, afraid that his previous company was going to come after him and make their lives impossible and stopped them dead in their tracks even before they had a chance to do anything. It was Xin&rsquo;s moment to pay cheer leader and help David put it in perspective,</p>
+ <p class="_speakerb">David&hellip; David! They can't come after you if you are not in competition with them. They will laughg and let you cook in your own oil</p>
+ <p class="_speakerb">Let me coo&hellip; OK, OK, I get what you mean&hellip;</p>
+ <p class="_speakerb">Once you announce that you are not raising any serious capital, they&rsquo;ll have to laugh. I did when you first said it. I was convinced that it would take a multimillion dollar lab to makde any headway. Then it was your turnn to laugh and told me why not.</p>
+ <p class="_speakerb">
 
 {% include related.html %}
