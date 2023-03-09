@@ -97,12 +97,8 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb"><span class="_paradigm">RAD</span>s, with an exclamation mark at the end.</p>
  <p class="_speakera">Got it&hellip; It looks awfully simple to use. Here, I&rsquo;ll invite you to rDrugs. But I first have to create it. Oh, wait, it already exists. I will ask for an invite from the lonely, lovely member.</p>
  <p class="_speakerb">And&hellip; you are accepted as a member!</p>
- <p class="_speakera">So, now I can&hellip; oh, I see, I press this button. And it ejaculates every time I do.</p>
- <p>David was now laughing full throat.</p>
- <p class="_speakera">Sneaky, little&hellip; This is going to change everything.</p>
- <p class="_speakerb">If they don&rsquo;t throw us in jail first.</p>
+ <p><div class="_speakera">So, now I can&hellip; oh, I see, I press this button. And it ejaculates stars every time I do.</div> David laughed full throat. Then he stoped laughing and looked down for a bit. Finally, he looked up, and said, <div class="_speakerac">This is going to change everything.</div></p>
+ <p class="_speakerb">If they don&rsquo;t throw us in jail to rot first.</p>
  <p class="_speakera"></p>
-
- <p><span id="_speakera">So, now I can&hellip; oh, I see, I press this button. And it ejaculates stars every time I do.</span> David laughed full throat. Then he stoped laughing and looked down for a bit. Finally, he looked up, and said, <span id="_speakerac">This is going to change everything.</span></p>
 
 {% include related.html %}
