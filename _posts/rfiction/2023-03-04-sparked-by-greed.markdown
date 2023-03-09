@@ -21,7 +21,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">Which will result in higher levels of returns thir fiscal year than last fiscal year.</p>
  <p class="_speakera">I see that your mind is made up and my participation is cosmetic. I came prepared for that.</p>
  <p>David took out an envelope and pushed it towards the power end of the table.</p>
- <p class="_speakera">This is my letter of resignation. You can send my stuff to my house, later on. Or keep it, it doesn&rsquo;t matter. I don&rsquo;t want to cause a scene out there.</p>
+ <p class="_speakera">This is my letter of resignation. You can send my stuff to my house, later on. Or keep it, it doesn&rsquo;t matter.</p>
  <p class="_speakerb">Dave, calm down. We are not accepting&hellip;</p>
  <p>As the words kept cascading down from the power end of the table, David got up and walked out.</p>
 
