@@ -47,14 +47,16 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">OK, I am listening&hellip;</p>
 
 <h1 style="margin:40px 0 20px 0;">Impact</h1>
- <p class="_speakera">I have to ask, what is a co-owned business?</p>
+ <p class="_speakera">OK, I&rsquo;ll ask: what is a co-owned business?</p>
  <p class="_speakerb">Company. A co-owned <span class="_me">company</span>.</p>
  <p class="_speakera">Company, business, whatever.</p>
- <p class="_speakerb">No, not &lsquo;whatever.&rsquo; A business is meant to &ldquo;do business,&rsquo; do transactions, be like anybody else. A company is a community of people working together to make an impact bigger that they could on their own. In fact, the work company itself is a gem. It means people who <span class="_me">break bread together</span>, isn't that beautiful? We are going to create a community of researchers, who, by the way, will be financially successful.</p>
- <p class="_speakera">How fine-anne-shah-ly successful</p>
- <p class="_speakerb">Well, there is no magic. It depends on how well our results are accepted and embraced. We may not be that fine-anne-shah-ly successfully, that is the risk. But that is the risk people always take when they start a business.</p>
- <p class="_speakera">A <span class="_me">company</span>, right?</p>
- <p class="_speakerb">What?&hellip; Right! Hey, you are good at this.</p>
+ <p class="_speakerb">No, no, no. Don&rsquo;t &lsquo;whatever.&rsquo; A business is meant to &ldquo;do business,&rsquo; do transactions, make money, be hyper-competitive like every other business. A company is a community of people working together to make a bigger impact that they could on their own. Besides, the work company itself is a gem. It means people who <span class="_me">break bread together</span>, isn't that beautiful? We are going to create a community of researchers working together to make a big impact. And also  be financially successful.</p>
+ <p class="_speakera">How fine-anne-shally successful</p>
+ <p class="_speakerb">Well, there is no magic. It depends on how well our results are accepted and embraced. We may not be that fine-anne-shally successfully, that is the risk. But that is the risk people always take when they start a business.</p>
+ <p class="_speakera">A &lsquo;company&rsquo;, right?</p>
+ <p class="_speakerb">What?&hellip;</p>
+ <p class="_speakera">You meant say a company, not a bus&hellip;</p>
+ <p class="_speakerb">Right! Hey, you are good at this.</p>
  <p class="_speakera">I am very good at learning. As I have said before, that may be what I am mostly good at.</p>
  <p>David eyes became unfocused and after a while, he said,</p>
  <p class="_speakera">What I know doesn&rsquo;t stand a chance when it meets what I learn.</p>
