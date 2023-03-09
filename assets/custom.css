@@ -322,7 +322,7 @@ table._background tr ul, ul li p:last-of-type {
 ._speakera::after, ._speakerb::after, ._speakerac::after, ._speakerbc::after, ._quotespan::after {
   content:"”";
 }
-p div._speakera {
+.div._speakera {
   font-style:italic;
   color:red;
   text-indent:-1.0em;
