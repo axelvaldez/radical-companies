@@ -54,7 +54,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">How fine-anne-shah-ly successful</p>
  <p class="_speakerb">Well, there is no magic. It depends on how well our results are accepted and embraced. We may not be that fine-anne-shah-ly successfully, that is the risk. But that is the risk people always take when they start a business.</p>
  <p class="_speakera">A <span class="_me">company</span>, right?</p>
- <p class="_speakerb">Right! Hey, you are good at this.</p>
+ <p class="_speakerb">What?&hellip; Right! Hey, you are good at this.</p>
  <p class="_speakera">I am very good at learning. As I have said before, but that may be what I am mostly good at.</p>
  <p>David eyes became unfocused and after a while, he said,</p>
  <p class="_speakera">What I know doesn&rsquo;t stand a chance when it meets what I learn.</p>
