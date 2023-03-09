@@ -320,11 +320,11 @@ table._background tr ul, ul li p:last-of-type {
 ._quotespan::after, ._speakera::after, ._speakerb::after, ._quotespanc::after {
   content: "”";
 }
-, ._speakerac::after, ._speakerbc::after {
+, ._speakerac::after, ._speakerbc::after, ._quotespana::after, ._quotespanb::after {
   content:"“";
   margin-left:2.0em;
 }
-._speakera, ._speakerb, ._speakerac {
+._speakera, ._speakerb, ._speakerac, ._speakerbc, ._speakerc {
   margin-bottom:3px;
 }
 ._speakera, ._speakerac {
