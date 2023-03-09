@@ -15,7 +15,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">Calm down. We just need to get the return our owners expect.</p>
  <p class="_speakera">What about telling them that their expectactions is modulated by the market?</p>
  <p class="_speakerb">But that is the point, there is an opportunity to get higher returns. The window has opened to raise our prices. What is wrong with that?</p>
- <p class="_speakera">What is wrong with it is that it is an artificial &lsquo;opportunity&rsquo;. THe window that you are talking about is something that we are making up!</p>
+ <p class="_speakera">What is wrong with it is that it is an artificial &lsquo;opportunity&rsquo;. The window that you are talking about is something that we are making up!</p>
  <p class="_speakerb">Wait, it is not just us&hellip;</p>
  <p class="_speakera">Right, it is not just us. We are all raising prices only because we can.</p>
  <p class="_speakerb">Which will result in higher levels of returns thir fiscal year than last fiscal year.</p>
