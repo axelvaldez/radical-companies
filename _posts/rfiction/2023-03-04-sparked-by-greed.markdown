@@ -25,9 +25,13 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">Dave, calm down. We are not accepting&hellip;</p>
  <p>As the words kept cascading down from the power end of the table, David got up and walked out.</p>
 
+<p></p>
+
 <h1>What&rsquo;s Next?</h1>
  <p class="_speakera">It wasn&rsquo;t the first time, and they will keep doing it. There is no bottom to their &lsquo;fiduciary&rsquo; greed.</p>
  <p class="_speakerb">Well, you did it. Let&rsquo;s take some time off as we said and figure out what is next. OK?</p>
+
+<p></p>
 
 <h1>The Epiphany</h1>
  <p>Less than a week later, they had it. Dave have come running from the nearby lake into the cabin they had rented. As Xin managed to slow him down she, too, became excited: they were going to start a new company to do pharmaceutical research based on David&rsquo;s brand-as-fortune and Xin&rsquo;s business experience and energy.</p>
@@ -46,6 +50,8 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">We are going to create a co-owned company, and run it as a co-managed company, too. Growth will come as it needs to. We will get the capital, but we won&rsquo;t give our power over it.</p>
  <p class="_speakera">OK, I am listening&hellip;</p>
 
+<p></p>
+
 <h1>Impact</h1>
  <p class="_speakera">OK, I&rsquo;ll ask: what is a co-owned business?</p>
  <p class="_speakerb">Company. A co-owned <span class="_me">company</span>.</p>
@@ -59,8 +65,12 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">Right! Hey, you are good at this.</p>
  <p class="_speakera">I am very good at learning. As I have said before, that may be what I am mostly good at. In fact&hellip; in fact, what I know doesn&rsquo;t stand a chance when it meets what I learn.</p>
 
+<p></p>
+
 <h1>Humming Right Along</h1>
  <p>As they were formalizing their company, they got the box from the company with a few of David&rsquo; personal items. By the end of the day they had created rDrugs, an Unincorporated Association. More important than that, they had come with what Xin called their <em>explicit alignment</em>: impact, purpose, and mission.</p>
+
+<p></p>
 
 <h1>Trust Agreements</h1>
  <p>They had talked about what Xin knew about Trust Agreements, and they were now working through one they found online. They would then be ready to ask future potential rDrug-ist to go through it, add their piece, and modifiy as needed.</p>
@@ -96,7 +106,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">What&rsquo;s called?</p>
  <p class="_speakerb"><span class="_paradigm">RAD</span>s, with an exclamation mark at the end.</p>
  <p class="_speakera">Got it&hellip; It looks awfully simple to use. Here, I&rsquo;ll invite you to rDrugs. But I first have to create it. Oh, wait, it already exists. I will ask for an invite from the lonely, lovely member.</p>
- <p class="_speakerb">And&hellip; you are accepted as a member!</p>
+ <p class="_speakerb">And&hellip; you are now a member of the rDrug community!</p>
  <p><div class="_speakera">So, now&hellip; oh, I see, I press this button. And it ejaculates stars every time I do.</div> David laughed full throat. Then he stoped laughing and looked down for a bit. Finally, he looked up, and said, <div class="_speakerac">This is going to change everything.</div></p>
  <p class="_speakerb">If they don&rsquo;t throw us in jail to rot first.</p>
  <p class="_speakera"></p>
