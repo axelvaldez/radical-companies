@@ -319,11 +319,14 @@ table._background tr ul, ul li p:last-of-type {
   padding-left:2.6px;
   margin-bottom:5px;
 }
-#_speakera {
+#_speakera::before {
+  content:"— “";
+}
+#_speakerac::before {
   content:"“";
 }
-#_speakerac {
-  content:"— “";
+#_speakera::after, #_speakerac::after {
+  content:"”";
 }
 ._speakera::before, ._speakerb::before, ._quotespan::before {
   content:"— “";
