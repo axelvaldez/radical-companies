@@ -61,5 +61,20 @@ image:    "icon-sparked-by-greed.svg"
 
 <h1 style="margin:40px 0 20px 0;">Humming Right Along</h1>
  <p>As they were formalizing their company, they got the box from the company with a few of David&rsquo; personal items. By the end of the day they had created rDrugs, an Unincorporated Association. More important than that, they had come with what Xin called their <span class="_em">explicit alignment</span>.</p>
-
+ <div class="_center">
+  <table class="_background">
+   <tr>
+    <th>Impact<br><span class="_alignquestions">What For?</span></th>
+    <td>To give people the capacity to be healthier.</td>
+   </tr>
+   <tr>
+    <th>Purpose<br><span class="_alignquestions">why?</span></th>
+    <td>To come up with compounds to improve people&rsquo;s health.</td>
+   </tr>
+   <tr>
+    <th>Mission<br><span class="_alignquestions">What?<br>When?<br>How?</span></th>
+    <td></td>
+   </tr>
+  </table>
+ </div>
 {% include related.html %}
