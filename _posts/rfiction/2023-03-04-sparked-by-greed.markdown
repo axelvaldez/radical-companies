@@ -12,20 +12,43 @@ image:    "icon-sparked-by-greed.svg"
 
 <h1>&nbsp;</h1>
  <p class="_speakera">Nothing is enough!</p>
- <p class="_speakerb">Calm down. We just need to get the return our owners expect.</p>
- <p class="_speakera">What about telling them that their expectactions is modulated by what people can afford.</p>
- <p class="_speakerb">But that is the point, there is an opportunity to get higher returns. The window has opened to raise our prices. What is wrong with that?</p>
- <p class="_speakera">What is wrong with it is that it is an artificial &lsquo;opportunity&rsquo;. The window that you are talking about is something that we are making up!</p>
- <p class="_speakerb">Wait, it is not just us&hellip;</p>
- <p class="_speakera">Right, it is not just us. We are all raising prices <span class="_me">because we can</span>.</p>
- <p class="_speakerb">Which will result in higher levels of returns thir fiscal year than last fiscal year.</p>
- <p class="_speakera">I see that your mind is made up and my participation is cosmetic. I came prepared for that.</p>
- <p>David took out an envelope and pushed it towards the power end of the table.</p>
- <p class="_speakera">This is my letter of resignation. You can send my stuff to my house, later on. Or keep it, it doesn&rsquo;t matter.</p>
- <p class="_speakerb">Dave, calm down. We are not accepting&hellip;</p>
- <p>As the words kept cascading down from the power end of the table, David got up and walked out.</p>
+ <p></p>
 
-<p></p>
+ <p class="_speakerb">Calm down. We just need to get the return our owners expect.</p>
+ <p></p>
+
+ <p class="_speakera">What about telling them that their expectactions is modulated by what people can afford.</p>
+ <p></p>
+
+ <p class="_speakerb">But that is the point, there is an opportunity to get higher returns. The window has opened to raise our prices. What is wrong with that?</p>
+ <p></p>
+
+ <p class="_speakera">What is wrong with it is that it is an artificial &lsquo;opportunity&rsquo;. The window that you are talking about is something that we are making up!</p>
+ <p></p>
+
+ <p class="_speakerb">Wait, it is not just us&hellip;</p>
+ <p></p>
+
+ <p class="_speakera">Right, it is not just us. We are all raising prices <span class="_me">because we can</span>.</p>
+ <p></p>
+
+ <p class="_speakerb">Which will result in higher levels of returns thir fiscal year than last fiscal year.</p>
+ <p></p>
+
+ <p class="_speakera">I see that your mind is made up and my participation is cosmetic. I came prepared for that.</p>
+ <p></p>
+
+ <p>David took out an envelope and pushed it towards the power end of the table.</p>
+ <p></p>
+
+ <p class="_speakera">This is my letter of resignation. You can send my stuff to my house, later on. Or keep it, it doesn&rsquo;t matter.</p>
+ <p></p>
+
+ <p class="_speakerb">Dave, calm down. We are not accepting&hellip;</p>
+ <p></p>
+
+ <p>As the words kept cascading down from the power end of the table, David got up and walked out.</p>
+ <p></p>
 
 <h1>What&rsquo;s Next?</h1>
  <p class="_speakera">It wasn&rsquo;t the first time, and they will keep doing it. There is no bottom to their &lsquo;fiduciary&rsquo; greed.</p>
