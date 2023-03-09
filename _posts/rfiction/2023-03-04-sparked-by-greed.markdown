@@ -54,7 +54,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">How fine-anne-cially successful</p>
  <p class="_speakerb">It depends on how well our results are accepted and embraced. We may not be that fine-anne-cially successfully. That is the risk. But that is the risk people always take when they start a business.</p>
  <p class="_speakera">A company, right?</p>
- <p class="_speakera">Right! Hey, you are good at this.</p>
+ <p class="_speakerb">Right! Hey, you are good at this.</p>
  <p class="_speakera">I am very good at learning. In fact, that may be all that I am good at.</p>
 
 {% include related.html %}
