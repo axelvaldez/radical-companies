@@ -83,7 +83,7 @@ image:    "icon-sparked-by-greed.svg"
  <p>They had talked about what Xin knew about Trust Agreements, and they were now working through one they found online. They would then be ready to ask future potential rDrug-ist to go through it, add their piece, and modifiy as needed.</p>
  <p class="_speakera">I am still not clear on what co-owned company is.</p>
  <p class="_speakerb">It is a company that is not owned by anybody in particular. It is owned by the peope who contribute to it.</p>
- <p class="_speakera">So, if we take time off, we are owners anymore? That doesn&rsquo;t seem right!</p></p>
+ <p class="_speakera">So, if we take time off, we are owners anymore? That doesn&rsquo;t seem right!</p>
  <p class="_speakerb">Well, no, if we take time off&hellip; OK, time out, I&rsquo;ll tell you all I know about co-owned and co-managed companies. They are called <span class="_paradigm">RADIcAL</span> companies, by the way.</p>
  <p class="_speakera">So, that&rsquo;s what the little r stands for.</p>
  <p class="_speakerb">Yes, that and the fact that <span class="_me">rdrug.com</span> was available and <span class="_me">drug.com</span> was not.
