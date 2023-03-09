@@ -103,9 +103,9 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">You&hellip; you say it so matter-of-fact. Like it is obvious&hellip;</p>
  <p class="_speakera">Well, it is implied by what you just said. If you are constantly judging me, my worth in your eyes must change all the time. Nobody has a static view of other people.</p>
  <p class="_speakerb">It&rsquo;s not your worth or anything like that, it is about what you did that struck me as a contribution to us as a community.</p>
- <p class="_speakera">Yes, I understand, but I do my best work and nobody sees that as a contribution, I am going to feel like crap. So, you may be judging based on my behavior, but I will internatize it as worth.</p>
- <p class="_speaker">If you are doing your best work and it is not perceived as a contrubution, then you need to talk more, or different, but they need to learn.</p>
- <p class="_speakera">
+ <p class="_speakera">Yes, I understand, but if I do my best work and nobody sees that as a contribution, I am going to feel like crap. You may be judging based on my behavior, but I will internatize it as worth.</p>
+ <p class="_speakerb">If you are doing your best work and nobody notices, then you need to talk more. Or different. In any case, they need to learn why what you have done is so important.</p>
+ <p class="_speakera">Good point. Ad that is what a &lsquo;learning organization&rsquo; is all about, ain&rsquo;t it? And think of all the benefits that would bring along. People can ask better questions and not feel left out of it. Shit, it would lead to more innovation. Holy Molly.</p>
 
 
 {% include related.html %}
