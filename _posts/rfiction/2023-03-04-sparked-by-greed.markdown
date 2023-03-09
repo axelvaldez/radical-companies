@@ -47,6 +47,6 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">What is a co-ownened business?</p>
  <p class="_speakera">Company. A co-owned <em>company</em>.</p>
  <p class="_speakera">Company, business, whatever.</p>
- <p class="_speakera">No, not whatever. A business restricts you to &ldquo;doing business,&rsquo; making transactions. A company is a community of people working together to make an impact bigger that they could on their own. By the way, the work company itself is a delight, too. It means people who break bread together, from &lsquo;con&rsquo; <em>together</em> and &lsquo;pan&rsquo; <em>bread</em>. 
+ <p class="_speakera">No, not &lsquo;whatever.&rsquo; A business restricts you to &ldquo;doing business,&rsquo; making transactions. A company is a community of people working together to make an impact bigger that they could on their own. By the way, the work company itself is a delight, too. It means people who break bread together, from &lsquo;con&rsquo; <em>together</em> and &lsquo;pan&rsquo; <em>bread</em>. 
 
 {% include related.html %}
