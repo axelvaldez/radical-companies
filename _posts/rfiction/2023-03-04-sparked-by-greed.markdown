@@ -47,7 +47,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">OK, I am listening&hellip;</p>
 
 <h1 style="margin:40px 0 20px 0;">Impact</h1>
- <p class="_speakera">I have to ask, what is a co-ownened business?</p>
+ <p class="_speakera">I have to ask, what is a co-owned business?</p>
  <p class="_speakerb">Company. A co-owned <span class="_me">company</span>.</p>
  <p class="_speakera">Company, business, whatever.</p>
  <p class="_speakerb">No, not &lsquo;whatever.&rsquo; A business is meant to &ldquo;do business,&rsquo; do transactions, be like anybody else. A company is a community of people working together to make an impact bigger that they could on their own. In fact, the work company itself is a gem. It means people who <span class="_me">break bread together</span>, isn't that beautiful? We are going to create a community of researchers, who, by the way, will be financially successful.</p>
