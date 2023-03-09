@@ -60,6 +60,6 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">I am very good at learning. As I have said before, that may be what I am mostly good at. In fact&hellip; in fact, what I know doesn&rsquo;t stand a chance when it meets what I learn.</p>
 
 <h1 style="margin:40px 0 20px 0;">Humming Right Along</h1>
- <p>As they were formalizing their company, they got the box from the company with a few of David&rsquo; personal items. By the end of that same day they had created rDrugs, an Unincorporated Association. More important than that, they had come with what Xin called, their <span class="_em">explicit alignment</span></p>
+ <p>As they were formalizing their company, they got the box from the company with a few of David&rsquo; personal items. By the end of the day they had created rDrugs, an Unincorporated Association. More important than that, they had come with what Xin called their <span class="_em">explicit alignment</span>.</p>
 
 {% include related.html %}
