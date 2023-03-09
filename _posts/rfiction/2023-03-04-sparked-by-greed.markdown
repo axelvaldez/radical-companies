@@ -27,7 +27,7 @@ image:    "icon-sparked-by-greed.svg"
 
 <h1>What&rsquo;s Next?</h1>
  <p class="_speakera">It wasn&rsquo;t the first time, and they will keep doing it. There is no bottom to their &lsquo;fiduciary&rsquo; greed.</p>
- <p class="_speakerb">Well, you did it. Let&rsquo;s take some time off as we said figure out what is next.</p>
+ <p class="_speakerb">Well, you did it. Let&rsquo;s take some time off as we said and figure out what is next. OK?</p>
 
 <h1>The Epiphany</h1>
  <p>Less than a week later, they had it. Dave have come running from the nearby lake into the cabin they had rented. As Xim managed to slow him down she, too, became excited: they were going to start a new company to do pharmaceutical research. David&rsquo;s brand as fortune combined with with Xin&rsquo;s experience and energy.</p>
