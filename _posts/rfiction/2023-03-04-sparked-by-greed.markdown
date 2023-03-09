@@ -32,7 +32,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">David&hellip; David! They can't come after you if you are not in competition with them. They will laughg and let you fry in your own grease.</p>
  <p class="_speakera">Fry in&hellip; ? OK, OK, I get what you mean&hellip;</p>
  <p class="_speakerb">Once you announce that you are not raising any serious capital, they&rsquo;ll laugh. I did when you first said it, I did laugh. I was convinced that it would take a multimillion dollar lab to make any headway. Then you laughed and told me why not.</p>
- <p class="_speakera">And if they don&rsquo;t laugh, screwn them. Plenty of people will come to my defence&hellip;</p>
+ <p class="_speakera">And if they don&rsquo;t laugh, screw them. Plenty of people will come to my defense&hellip;</p>
  <p class="_speakerb">&hellip; plenty of people will be sympathetic and that&rsquo;s it. Our biggest defense is that we are tiny and unimportant. That is the only thing we have going to us, OK?</p>
  <p class="_speakera">Haba, Haba.</p>
 
