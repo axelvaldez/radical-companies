@@ -38,12 +38,12 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">And if they don&rsquo;t laugh, screw them. Plenty of people will come to my defense&hellip;</p>
  <p class="_speakerb">&hellip; plenty of people will be sympathetic and that&rsquo;s it. Our biggest defense is that we are tiny and unimportant. That is the only thing we have going to us, OK?</p>
  <p class="_speakera">Tiny and unimportant&hellip; maybe that is what we should call it, TAU.</p>
- <p class="_speakerb">TAU, UA, for Unincorporated Association.</p>
+ <p class="_speakerb">TAU, UA.</p>
  <p class="_speakera">Yeah. Whatever&hellip;</p>
- <p class="_speakerb">Don&rsquo;t be dissmisive: UA stands for <span class="_me">Unincorporated Association</span>. It does not include stock, that is why it is an <span class="_me">Association</span>. There are no shares in the company. I do not think it exists outside California, but eventually it will.</p>
+ <p class="_speakerb">Don&rsquo;t be dissmisive: UA stands for <span class="_me">Unincorporated Association</span>. It is a new class of legal entity that does not include stock. That is why it is an <span class="_me">Association</span>. There are no shares in the company. I do not think it exists outside California, but eventually it will.</p>
  <p class="_speakerbc">The fact that we will be operating without stock will make them fall off their chairs with laughter. They will probably offer to buy a percentage of the company, just to make it funnier.</p>
  <p class="_speakera">I like it. But, isn&rsquo;t kind of &lsquo;not-so-funny&rsquo; to not have company stock? I mean, what do we do for growth?</p>
- <p class="_speakerb">We are going to create a co-owned company, and run it as a co-managed company, too.</p>
+ <p class="_speakerb">We are going to create a co-owned company, and run it as a co-managed company, too. Growth will come as it needs to. We will get the capital, but we won&rsquo;t give our power over it.</p>
  <p class="_speakera">OK, I am listening&hellip;</p>
 
 <h1>Impact</h1>
