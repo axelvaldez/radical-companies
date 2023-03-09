@@ -57,6 +57,6 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">Right! Hey, you are good at this.</p>
  <p class="_speakera">I am very good at learning. As I have said before, but that may be what I am mostly good at.</p>
  <p>David eyes became unfocused and after a while, he said,</p>
- <p class="_speakerac">What I know doesn&rsquo;t stand a chance in front of what I learn.</p>
+ <p class="_speakera">What I know doesn&rsquo;t stand a chance in front of what I learn.</p>
 
 {% include related.html %}
