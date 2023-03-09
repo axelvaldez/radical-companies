@@ -13,7 +13,7 @@ image:    "icon-sparked-by-greed.svg"
 <h1>&nbsp;</h1>
  <p class="_speakera">Nothing is enough!</p>
  <p class="_speakerb">Calm down. We just need to get the return our owners expect.</p>
- <p class="_speakera">What about telling them that their expectactions is modulated by the market?</p>
+ <p class="_speakera">What about telling them that their expectactions is modulated by what people can afford.</p>
  <p class="_speakerb">But that is the point, there is an opportunity to get higher returns. The window has opened to raise our prices. What is wrong with that?</p>
  <p class="_speakera">What is wrong with it is that it is an artificial &lsquo;opportunity&rsquo;. The window that you are talking about is something that we are making up!</p>
  <p class="_speakerb">Wait, it is not just us&hellip;</p>
@@ -61,8 +61,7 @@ image:    "icon-sparked-by-greed.svg"
 
 <h1>Humming Right Along</h1>
  <p>As they were formalizing their company, they got the box from the company with a few of David&rsquo; personal items. By the end of the day they had created rDrugs, an Unincorporated Association. More important than that, they had come with what Xin called their <em>explicit alignment</em>: impact, purpose, and mission.</p>
- <!--
- <p>Ref</p>
+ <!-- <p>Ref</p>
  <div class="_center">
   <table class="_background">
    <tr>
@@ -78,8 +77,7 @@ image:    "icon-sparked-by-greed.svg"
     <td></td>
    </tr>
   </table>
- </div>
- -->
+ </div> -->
 
 <h1>Trust Agreements</h1>
  <p>They had talked about what Xin knew about Trust Agreements, and they were now working through one they found online. They would then be ready to ask future potential rDrug-ist to go through it, add their piece, and modifiy as needed.</p>
