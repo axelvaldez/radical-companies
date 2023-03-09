@@ -55,6 +55,6 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">It depends on how well our results are accepted and embraced. We may not be that fine-anne-cially successfully. That is the risk. But that is the risk people always take when they start a business.</p>
  <p class="_speakera">A <em>company</em>, right?</p>
  <p class="_speakerb">Right! Hey, you are good at this.</p>
- <p class="_speakera">I am very good at learning. In fact, that may be all that I am good at.</p>
+ <p class="_speakera">I am very good at learning. I have said before, but that may be all that I am really good at. What I know doesn&rsquo;t stand a chance with what I learn.</p>
 
 {% include related.html %}
