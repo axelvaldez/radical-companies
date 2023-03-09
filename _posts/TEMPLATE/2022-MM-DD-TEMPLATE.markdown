@@ -19,6 +19,10 @@ image:    "icon-ptsd-and-trust.svg"
 <h1></h1>
  <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
 
+<!-- Opposite of <em> -->
+<h1></h1>
+ <span class="_em">xxx</span>
+
 <!-- RADICAL | FIAT | RAD | rCOIN -->
 <h1></h1>
  (RADICAL|FIAT|RAD|BANNER|rCOIN)
