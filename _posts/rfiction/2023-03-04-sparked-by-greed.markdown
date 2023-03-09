@@ -68,7 +68,7 @@ image:    "icon-sparked-by-greed.svg"
     <td>To give people the capacity to be healthier.</td>
    </tr>
    <tr>
-    <th>Purpose<br><span class="_alignquestions">why?</span></th>
+    <th>Purpose<br><span class="_alignquestions">Why?</span></th>
     <td>To come up with compounds to improve people&rsquo;s health.</td>
    </tr>
    <tr>
