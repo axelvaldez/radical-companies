@@ -324,6 +324,7 @@ table._background tr ul, ul li p:last-of-type {
 }
 p div._speakera {
   font-style:italic;
+  color:red;
   text-indent:-1.0em;
   padding-left:2.3em;
   margin-bottom:5px;
