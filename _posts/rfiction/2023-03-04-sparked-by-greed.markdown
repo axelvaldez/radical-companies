@@ -10,7 +10,7 @@ image:    "icon-sparked-by-greed.svg"
  <p>Developed with good intentions, the fomula had been a money-maker for years. But it wasn&rsquo;t enough.</p>
 </div>
 
-<h1>&nbsp;</h1>
+<h1 style="margin:40px 0 20px 0;">&nbsp;</h1>
  <p class="_speakera">Nothing is enough!</p>
  <p class="_speakerb">Calm down. We just need to get the return our owners expect.</p>
  <p class="_speakera">What about telling them that their expectactions is modulated by the market?</p>
@@ -25,11 +25,11 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">Dave, calm down. We are not accepting&hellip;</p>
  <p>As the words kept cascading down from the power end of the table, David got up and walked out.</p>
 
-<h1>What&rsquo;s Next?</h1>
+<h1 style="margin:40px 0 20px 0;">What&rsquo;s Next?</h1>
  <p class="_speakera">It wasn&rsquo;t the first time, and they will keep doing it. There is no bottom to their &lsquo;fiduciary&rsquo; greed.</p>
  <p class="_speakerb">Well, you did it. Let&rsquo;s take some time off as we said and figure out what is next. OK?</p>
 
-<h1 style="margin:60px 0 20px 0;">The Epiphany</h1>
+<h1 style="margin:40px 0 20px 0;">The Epiphany</h1>
  <p>Less than a week later, they had it. Dave have come running from the nearby lake into the cabin they had rented. As Xin managed to slow him down she, too, became excited: they were going to start a new company to do pharmaceutical research based on David&rsquo;s brand-as-fortune and Xin&rsquo;s business experience and energy.</p>
  <p>Then David started to hesitate, afraid that his previous company was going to come after him and make their lives impossible and stopped them dead in their tracks even before they had a chance to do anything. Xin gave him a deep, sustained hug.</p>
  <p class="_speakerb">David&hellip; David! They won&rsquo;t come after you if you are not in competition with them. They will laugh and let you fry in your own grease.</p>
@@ -46,7 +46,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">We are going to create a co-owned company, and run it as a co-managed company, too. Growth will come as it needs to. We will get the capital, but we won&rsquo;t give our power over it.</p>
  <p class="_speakera">OK, I am listening&hellip;</p>
 
-<h1 style="margin:60px 0 20px 0;">Impact</h1>
+<h1 style="margin:40px 0 20px 0;">Impact</h1>
  <p class="_speakera">I have to ask, what is a co-ownened business?</p>
  <p class="_speakerb">Company. A co-owned <span class="_me">company</span>.</p>
  <p class="_speakera">Company, business, whatever.</p>
