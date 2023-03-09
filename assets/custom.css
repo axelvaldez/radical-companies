@@ -312,6 +312,12 @@ table._background tr ul, ul li p:last-of-type {
 ._speakera, ._speakerac {
   font-weight:bolder;
 }
+#_speakera, #_speakerac {
+  font-weight:bolder;
+  text-indent:0;
+  padding-left:0;
+  margin-bottom:5px;
+}
 ._speakera::before, ._speakerb::before, ._quotespan::before {
   content:"— “";
 }
