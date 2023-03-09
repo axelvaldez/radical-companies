@@ -115,7 +115,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">What&rsquo;s called?</p>
  <p class="_speakerb"><span class="_paradigm">RAD</span>s, with an exclamation mark at the end.</p>
  <p class="_speakera">Got it&hellip; It looks awfully simple to use. Here, I&rsquo;ll invite you to rDrugs. But I first have to create it. Oh, wait, it already exists. I will ask for an invite from the lonely, lovely member.</p>
- <p class="_speakerb">I you are accepted as a member!</p>
+ <p class="_speakerb">And&hellip; you are accepted as a member!</p>
  <p class="_speakera">So, now I can&hellip; oh, I see, I press this button. And it ejaculates every time I do.</p>
  <p>David had thrown his read back and was now laughing full throat.</p>
  <p class="_speakera">Sneaky, little&hellip; This is going to change everything.</p>
