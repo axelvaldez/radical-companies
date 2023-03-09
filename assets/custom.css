@@ -324,7 +324,7 @@ table._background tr ul, ul li p:last-of-type {
 ._speakera::after, ._speakerb::after, ._speakerac::after, ._speakerbc::after, ._quotespan::after {
   content:"”";
 }
-p div ._speakera {
+p div@._speakera {
   font-size:xx-large;
 }
 /*
