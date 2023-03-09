@@ -94,7 +94,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">Yeah an&hellip;</p>
  <p class="_speakerb">&hellip; but the thing is that we gets to decide what is or isn&rsquo;t a contribution. Everybody in the company decides. I had to think about that for a bit. And then I got very, very angry,</p>
  <p class="_speakera">Why? I can ask why, right?</p>
- <p class="_speakerb">Because nobody had said so. Because it was invisible and then it became so obvious. We thinkg of ourselves as so smart, but we never saw this power. I wanted to cry and punch the walls at the same time. I maena, WHY DO WE NEED BOSSES?</p>
+ <p class="_speakerb">Because nobody had said so. Because it was invisible and then it became so obvious. We think of ourselves as so smart, but we never saw this&hellip; power? It was like a veil got lifted off and I could see clearly. I wanted to cry and punch the walls at the same time. I maena, WHY DO WE NEED BOSSES?</p>
  <p class="_speakera">OK, OK. Calm down. Drop a &rsquo;lude.</p>
  <p class="_speakerb">Oh, I am calmed. You should have seen me when I first realized it.</p>
  <p class="_speakera">I think I did.</p>
