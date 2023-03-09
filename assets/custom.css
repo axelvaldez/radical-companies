@@ -306,8 +306,8 @@ table._background tr ul, ul li p:last-of-type {
 }
 ._speakera::before, ._speakerb::before, ._quotespan::before {
   content:"— “";
+  margin-left:2.6em;
   text-indent:-1.3em;
-  margin-left:5em;
 }
 ._speakera::after, ._speakerb::after, ._speakerac::after, ._speakerbc::after, ._quotespan::after {
   content:"”";
