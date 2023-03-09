@@ -316,8 +316,14 @@ table._background tr ul, ul li p:last-of-type {
   display:inline-block;
   font-weight:bolder;
   text-indent:0;
-  padding-left:0;
+  padding-left:2.6px;
   margin-bottom:5px;
+}
+#_speakera {
+  content:"“";
+}
+#_speakerac {
+  content:"— “";
 }
 ._speakera::before, ._speakerb::before, ._quotespan::before {
   content:"— “";
