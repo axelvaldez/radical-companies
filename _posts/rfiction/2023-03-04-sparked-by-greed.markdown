@@ -120,7 +120,7 @@ image:    "icon-sparked-by-greed.svg"
  <p>David was now laughing full throat.</p>
  <p class="_speakera">Sneaky, little&hellip; This is going to change everything.</p>
 
- <p><span class="_speakera">So, now I can&hellip; oh, I see, I press this button. And it ejaculates every time I do.</span> David was now laughing full throat. <span class="_speakera">Sneaky, little&hellip; This is going to change everything.</span></p>
+ <p><div class="_speakera">So, now I can&hellip; oh, I see, I press this button. And it ejaculates every time I do.</div> David was now laughing full throat. <div class="_speakera">Sneaky, little&hellip; This is going to change everything.</div></p>
 
  <p class="_speakerb">If they don't put us in jail first.</p>
  <p class="_speakerb"></p>
