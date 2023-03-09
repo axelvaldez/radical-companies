@@ -61,23 +61,6 @@ image:    "icon-sparked-by-greed.svg"
 
 <h1>Humming Right Along</h1>
  <p>As they were formalizing their company, they got the box from the company with a few of David&rsquo; personal items. By the end of the day they had created rDrugs, an Unincorporated Association. More important than that, they had come with what Xin called their <em>explicit alignment</em>: impact, purpose, and mission.</p>
- <!-- <p>Ref</p>
- <div class="_center">
-  <table class="_background">
-   <tr>
-    <th>Impact<br><span class="_alignquestions">What For?</span></th>
-    <td>To give people the capacity to be healthier.</td>
-   </tr>
-   <tr>
-    <th>Purpose<br><span class="_alignquestions">Why?</span></th>
-    <td>To come up with compounds that improve people&rsquo;s health.</td>
-   </tr>
-   <tr>
-    <th>Mission<br><span class="_alignquestions">What?<br>When?<br>How?</span></th>
-    <td></td>
-   </tr>
-  </table>
- </div> -->
 
 <h1>Trust Agreements</h1>
  <p>They had talked about what Xin knew about Trust Agreements, and they were now working through one they found online. They would then be ready to ask future potential rDrug-ist to go through it, add their piece, and modifiy as needed.</p>
