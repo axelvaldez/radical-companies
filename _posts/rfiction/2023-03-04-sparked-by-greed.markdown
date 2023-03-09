@@ -99,7 +99,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">And&hellip; you are now a member of the rDrug community!</p>
  <p class="_speakera">xxx</p>
  <p class="_speakera">So, now&hellip; oh, I see, I press this button. And it ejaculates stars every time I do.</p>
- <p>David laughed full throat. Then he stoped laughing and looked down for a bit. Finally, he looked up, and said,</p>
+ <p>David laughed full throat. And, suddenly, he stopped laughing and looked down for a bit. Finally, he looked up, and said,</p>
  <p class="_speakera">This is going to change everything.</p>
  <p class="_speakerb">If they don&rsquo;t throw us in jail to rot first.</p>
 
