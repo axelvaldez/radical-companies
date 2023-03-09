@@ -92,7 +92,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">OK.</p>
  <p class="_speakerb">Co-ownership&hellip; co-ownership sounded scary when I first heard about it. I had the questions you had plus a bunch of others. What was appealing to me was that it is ownership based on contributions, not capital. That means that anybody can be an owner! That just blew my mind. But they fears were overwhelming. What if someobody pretends to do contribute? Can somebody steal all my work and claim it as their own?</p>
  <p class="_speakera">Yeah an&hellip;</p>
- <p class="_speakerb">&hellip; but the thing is that we, everybody, in the company gets to decide what is or isn&rsquo;t a contribution is. I had to think about that for a bit. And then I got very angry,</p>
+ <p class="_speakerb">&hellip; but the thing is that we, everybody, in the company gets to decide what is or isn&rsquo;t a contribution. I had to think about that for a bit. And then I got very angry,</p>
  <p class="_speakera">Why? Can at least ask why? Pretty please.</p>
  <p class="_speakerb">Because nobody had said so. Because it was so obvious, and we thinkg of ourselves so smart, and&hellip; I wanted to cry and punch the walls at the same time. WHY DO WE NEED BOSSES?</p>
  <p class="_speakera">OK, OK. Calm down. Drop a &rsquo;lude.</p>
