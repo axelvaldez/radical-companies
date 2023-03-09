@@ -321,6 +321,9 @@ table._background tr ul, ul li p:last-of-type {
  * dialog: end
  */
 
+ ._me {
+  font-style:normal;
+ }
  ._image {
   display:grid;
   place-items:center;

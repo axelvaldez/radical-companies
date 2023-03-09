@@ -17,7 +17,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">But that is the point, there is an opportunity to get higher returns. The window has opened to raise our prices. What is wrong with that?</p>
  <p class="_speakera">What is wrong with it is that it is an artificial &lsquo;opportunity&rsquo;. The window that you are talking about is something that we are making up!</p>
  <p class="_speakerb">Wait, it is not just us&hellip;</p>
- <p class="_speakera">Right, it is not just us. We are all raising prices <em>because we can</em>.</p>
+ <p class="_speakera">Right, it is not just us. We are all raising prices <span class="_me">because we can</span>.</p>
  <p class="_speakerb">Which will result in higher levels of returns thir fiscal year than last fiscal year.</p>
  <p class="_speakera">I see that your mind is made up and my participation is cosmetic. I came prepared for that.</p>
  <p>David took out an envelope and pushed it towards the power end of the table.</p>
@@ -40,7 +40,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">Tiny and unimportant&hellip; maybe that is what we should call it, TAU.</p>
  <p class="_speakerb">TAU, UA, for Unincorporated Association.</p>
  <p class="_speakera">Yeah. Whatever&hellip;</p>
- <p class="_speakerb">Don&rsquo;t be dissmisive: UA stands for <em>Unincorporated Association</em>. It does not include stock, that is why it is an <em>Association</em>. There are no shares in the company. I do not think it exists outside California, but eventually it will.</p>
+ <p class="_speakerb">Don&rsquo;t be dissmisive: UA stands for <span class="_me">Unincorporated Association</span>. It does not include stock, that is why it is an <span class="_me">Association</span>. There are no shares in the company. I do not think it exists outside California, but eventually it will.</p>
  <p class="_speakerbc">The fact that we will be operating without stock will make them fall off their chairs with laughter. They will probably offer to buy a percentage of the company, just to make it funnier.</p>
  <p class="_speakera">I like it. But, isn&rsquo;t kind of &lsquo;not-so-funny&rsquo; to not have company stock? I mean, what do we do for growth?</p>
  <p class="_speakerb">We are going to create a co-owned company, and run it as a co-managed company, too.</p>
@@ -48,12 +48,12 @@ image:    "icon-sparked-by-greed.svg"
 
 <h1>Impact</h1>
  <p class="_speakera">I have to ask, what is a co-ownened business?</p>
- <p class="_speakerb">Company. A co-owned <em>company</em>.</p>
+ <p class="_speakerb">Company. A co-owned <span class="_me">company</span>.</p>
  <p class="_speakera">Company, business, whatever.</p>
  <p class="_speakerb">No, not &lsquo;whatever.&rsquo; A business means to &ldquo;do business,&rsquo;, making transactions, be like anybody else. A company is a community of people working together to make an impact bigger that they could on their own. In fact, the work company itself is a gem. It means people who break bread together. We are going to create a community of researchers, who, by the way, will be financially successful.</p>
  <p class="_speakera">How fine-anne-cially successful</p>
  <p class="_speakerb">It depends on how well our results are accepted and embraced. We may not be that fine-anne-cially successfully. That is the risk. But that is the risk people always take when they start a business.</p>
- <p class="_speakera">A <em>company</em>, right?</p>
+ <p class="_speakera">A <span class="_me">company</span>, right?</p>
  <p class="_speakerb">Right! Hey, you are good at this.</p>
  <p class="_speakera">I am very good at learning. I have said before, but that may be all that I am really good at. What I know doesn&rsquo;t stand a chance with what I learn.</p>
 
