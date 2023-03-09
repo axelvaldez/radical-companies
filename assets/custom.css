@@ -322,7 +322,7 @@ table._background tr ul, ul li p:last-of-type {
 ._speakera::after, ._speakerb::after, ._speakerac::after, ._speakerbc::after, ._quotespan::after {
   content:"”";
 }
-div#_speakera {
+div._speakera {
   font-style:italic;
   font-weight:bolder;
   color:red;
@@ -330,7 +330,7 @@ div#_speakera {
   padding-left:2.3em;
   margin-bottom:5px;
 }
-div#_speakerac {
+div._speakerac {
   font-style:italic;
   font-weight:bolder;
   color:red;
