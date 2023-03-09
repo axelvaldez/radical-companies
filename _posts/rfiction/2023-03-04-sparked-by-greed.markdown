@@ -14,6 +14,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">Nothing is enough!</p>
  <p></p>
 
+<!--
  <p class="_speakerb">Calm down. We just need to get the return our owners expect.</p>
  <p></p>
 
@@ -50,7 +51,6 @@ image:    "icon-sparked-by-greed.svg"
  <p>As the words kept cascading down from the power end of the table, David got up and walked out.</p>
  <p></p>
 
-<!--
 <h1>What&rsquo;s Next?</h1>
  <p class="_speakera">It wasn&rsquo;t the first time, and they will keep doing it. There is no bottom to their &lsquo;fiduciary&rsquo; greed.</p>
  <p class="_speakerb">Well, you did it. Let&rsquo;s take some time off as we said and figure out what is next. OK?</p>
