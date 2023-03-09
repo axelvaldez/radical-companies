@@ -107,7 +107,19 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">It&rsquo;s not your worth or anything like that, it is about what you did that struck me as a contribution to us as a community.</p>
  <p class="_speakera">Yes, I understand, but if I do my best work and nobody sees that as a contribution, I am going to feel like crap. You may be judging based on my behavior, but I will internatize it as worth.</p>
  <p class="_speakerb">If you are doing your best work and nobody notices, then you need to talk more. Or different. In any case, they need to learn why what you have done is so important.</p>
- <p class="_speakera">Good point. And that is what a &lsquo;learning organization&rsquo; is all about, ain&rsquo;t it? Besides, it will bring other benefits along. People can ask better questions and not feel left out of it. They would be more playful and kick the ball more&hellip; shit, it would lead to more innovation. Holy Molly.</p>
-
+ <p class="_speakera">Good point. And that is what a &lsquo;learning organization&rsquo; is all about, ain&rsquo;t it? Besides, it will bring other benefits along. People can ask better questions and not feel left out of it. They would be more playful and kick the ball more&hellip; shit, it would lead to more innovation. Holy Mackrel! So, how does it work?</p>
+ <p class="_speakerb">How does what work?</p>
+ <p class="_speakera">The contribution thing. Are there rules? Who keeps track of them? What?</p>
+ <p class="_speakerb">Oh, there is an app for that.</p>
+ <p>David reached for his phone</p>
+ <p class="_speakera">What&rsquo;s called?</p>
+ <p class="_speakerb"><span class="_paradgim">RAD</span>s, with an exclamation mark at the end.</p>
+ <p class="_speakera">Got it&hellip; It looks awfully simple to use. Here, I&rsquo;ll invite you rDrugs. Oh, wait, it already exists. I will ask for an invite from the lonely, lovely member.</p>
+ <p class="_speakerb">I you are accepted as a member!</p>
+ <p class="_speakera">So, now I can&hellip; oh, I see, I press this button. And it ejaculates every time I do.</p>
+ <p>David had thrown his read back and was now laughing full throat.</p>
+ <p class="_speakera">Sneaky, little&hellip; This is going to change everything.</p>
+ <p class="_speakerb">If they don't put us in jail first.</p>
+ <p class="_speakerb"></p>
 
 {% include related.html %}
