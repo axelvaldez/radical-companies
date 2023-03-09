@@ -103,6 +103,6 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">If they don&rsquo;t throw us in jail first.</p>
  <p class="_speakera"></p>
 
- <p class="_speakera"><span id="_speakera">So, now I can&hellip; oh, I see, I press this button. And it ejaculates stars every time I do.</span> David laughed full throat. Then he stoped laughing and looked down for a bit. Finally, he looked up, and said, <span id="_speakerac">This is going to change everything.</span></p>
+ <p><span id="_speakera">So, now I can&hellip; oh, I see, I press this button. And it ejaculates stars every time I do.</span> David laughed full throat. Then he stoped laughing and looked down for a bit. Finally, he looked up, and said, <span id="_speakerac">This is going to change everything.</span></p>
 
 {% include related.html %}
