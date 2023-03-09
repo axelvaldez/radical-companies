@@ -313,7 +313,9 @@ table._background tr ul, ul li p:last-of-type {
   font-weight:bolder;
 }
 ._speakera::before, ._speakerb::before, ._quotespan::before {
+  font-weight:normal;
   content:"— “";
+  font-weight:bolder;
 }
 ._speakerac::before, ._speakerbc::before {
   content:"“";
