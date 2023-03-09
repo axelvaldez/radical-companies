@@ -302,8 +302,7 @@ table._background tr ul, ul li p:last-of-type {
   font-style:italic;
   text-indent:-1.0em;
   padding-left:2.3em;
-  padding-bottom:30px;
-  margin-bottom:30px;
+  margin-bottom:3px;
 }
 ._speakera, ._speakerac {
   font-weight:bolder;
