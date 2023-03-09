@@ -69,7 +69,7 @@ image:    "icon-sparked-by-greed.svg"
    </tr>
    <tr>
     <th>Purpose<br><span class="_alignquestions">Why?</span></th>
-    <td>To come up with compounds to improve people&rsquo;s health.</td>
+    <td>To come up with compounds that improve people&rsquo;s health.</td>
    </tr>
    <tr>
     <th>Mission<br><span class="_alignquestions">What?<br>When?<br>How?</span></th>
@@ -77,4 +77,7 @@ image:    "icon-sparked-by-greed.svg"
    </tr>
   </table>
  </div>
+
+<h1 style="margin:40px 0 20px 0;">Humming Right Along</h1>
+ <p>Xin had explained to David what she knew about Trust Agreements, and they were now working one. They would then be ready to ask future potential rDrug-ist to go through it and add their piece or modifiy as needed.
 {% include related.html %}
