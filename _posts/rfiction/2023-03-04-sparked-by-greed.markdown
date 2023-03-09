@@ -30,7 +30,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">Well, you did it. Let&rsquo;s take some time off as we said and figure out what is next. OK?</p>
 
 <h1>The Epiphany</h1>
- <p>Less than a week later, they had it. Dave have come running from the nearby lake into the cabin they had rented. As Xim managed to slow him down she, too, became excited: they were going to start a new company to do pharmaceutical research based on David&rsquo;s brand-as-fortune and Xin&rsquo;s business experience and energy.</p>
+ <p>Less than a week later, they had it. Dave have come running from the nearby lake into the cabin they had rented. As Xin managed to slow him down she, too, became excited: they were going to start a new company to do pharmaceutical research based on David&rsquo;s brand-as-fortune and Xin&rsquo;s business experience and energy.</p>
  <p>Then David started to hesitate, afraid that his previous company was going to come after him and make their lives impossible and stopped them dead in their tracks even before they had a chance to do anything. Xin gave him a big, sustained hugg.</p>
  <p class="_speakerb">David&hellip; David! They won&rsquo;t come after you if you are not in competition with them. They will laugh and let you fry in your own grease.</p>
  <p class="_speakera">Fry in my&hellip; what? OK, OK, I get what you mean&hellip;</p>
