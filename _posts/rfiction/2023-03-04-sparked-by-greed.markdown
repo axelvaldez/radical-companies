@@ -87,8 +87,8 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">Well, no, if we take time off&hellip; OK, time out, I&rsquo;ll tell you all I know about co-owned and co-managed companies. They are called <span class="_paradigm">RADIcAL</span> companies, by the way.</p>
  <p class="_speakera">So, that&rsquo;s what the little r stands for.</p>
  <p class="_speakerb">Yes, that and the fact that <span class="_me">rdrug.com</span> was available and <span class="_me">drug.com</span> was not.
- <p class="_speakera">So, that&rsquo;s what the little r stands for.</p>
- <p class="_speakerb">Co-management is similar to self-management but it better reflects that fact that people do the management and not the company itself. There is no self when it comes to something like a company.</p>
+ <p class="_speakera">Yes.</p>
+ <p class="_speakerb">Co-management is similar to self-management but it is renamed to better reflects that fact that people do the management and not the company itself. There is no self when it comes to something like a company.</p>
  <p class="_speakera">OK.</p>
  <p class="_speakerb">Co-ownership&hellip; co-ownership sounded scary when I first heard about it. I had the questions you had plus a bunch of others. What was appealing to me was that it is ownership based on contributions, not capital. That means that anybody can be an owner! That just blew my mind. But they fears were overwhelming. What if someobody pretends to do contribute? Can somebody steal all my work and claim it as their own?</p>
  <p class="_speakera">Yeah an&hellip;</p>
