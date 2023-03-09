@@ -1,0 +1,15 @@
+---
+layout:   post
+title:    "Sparked by Greed"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez"
+image:    "icon-sparked-by-greed.svg"
+---
+
+<div style="display:none;">
+ <p>Developed with good intentions, the fomula had been a money-maker for years. But it wasn&rsquo;t enough.</p>
+</span>
+
+<h1>&nbsp;</h1>
+ <p class="_speakera">Nothing is enough!</p>
+ <p></p>
