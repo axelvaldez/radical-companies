@@ -119,10 +119,9 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">So, now I can&hellip; oh, I see, I press this button. And it ejaculates every time I do.</p>
  <p>David was now laughing full throat.</p>
  <p class="_speakera">Sneaky, little&hellip; This is going to change everything.</p>
+ <p class="_speakerb">If they don&rsquo;t throw us in jail first.</p>
+ <p class="_speakerb"></p>
 
  <p><div class="_speakera">So, now I can&hellip; oh, I see, I press this button. And it ejaculates every time I do.</div> David was now laughing full throat. <div class="_speakera">Sneaky, little&hellip; This is going to change everything.</div></p>
-
- <p class="_speakerb">If they don't put us in jail first.</p>
- <p class="_speakerb"></p>
 
 {% include related.html %}
