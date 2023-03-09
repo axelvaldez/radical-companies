@@ -313,6 +313,7 @@ table._background tr ul, ul li p:last-of-type {
   font-weight:bolder;
 }
 #_speakera, #_speakerac {
+  display:inline-block;
   font-weight:bolder;
   text-indent:0;
   padding-left:0;
