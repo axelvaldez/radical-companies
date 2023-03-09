@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Sparked by Greed"
+title:    "TEMPLATE"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-sparked-by-greed.svg"
