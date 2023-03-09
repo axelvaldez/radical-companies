@@ -10,7 +10,7 @@ image:    "icon-sparked-by-greed.svg"
  <p>Developed with good intentions, the fomula had been a money-maker for years. But it wasn&rsquo;t enough.</p>
 </div>
 
-<h1 style="margin:40px 0 20px 0;">&nbsp;</h1>
+<h1>&nbsp;</h1>
  <p class="_speakera">Nothing is enough!</p>
  <p class="_speakerb">Calm down. We just need to get the return our owners expect.</p>
  <p class="_speakera">What about telling them that their expectactions is modulated by the market?</p>
