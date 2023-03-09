@@ -313,9 +313,7 @@ table._background tr ul, ul li p:last-of-type {
   font-weight:bolder;
 }
 ._speakera::before, ._speakerb::before, ._quotespan::before {
-  font-weight:normal;
   content:"— “";
-  font-weight:bolder;
 }
 ._speakerac::before, ._speakerbc::before {
   content:"“";
@@ -325,7 +323,10 @@ table._background tr ul, ul li p:last-of-type {
   content:"”";
 }
 p div._speakera {
-  font-size:xx-large;
+  font-style:italic;
+  text-indent:-1.0em;
+  padding-left:2.3em;
+  margin-bottom:5px;
 }
 /*
  * dialog: end
