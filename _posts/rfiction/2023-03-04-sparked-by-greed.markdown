@@ -25,11 +25,11 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">Dave, calm down. We are not accepting&hellip;</p>
  <p>As the words kept cascading down from the power end of the table, David got up and walked out.</p>
 
-<h1 style="margin:40px 0 20px 0;">What&rsquo;s Next?</h1>
+<h1>What&rsquo;s Next?</h1>
  <p class="_speakera">It wasn&rsquo;t the first time, and they will keep doing it. There is no bottom to their &lsquo;fiduciary&rsquo; greed.</p>
  <p class="_speakerb">Well, you did it. Let&rsquo;s take some time off as we said and figure out what is next. OK?</p>
 
-<h1 style="margin:40px 0 20px 0;">The Epiphany</h1>
+<h1>The Epiphany</h1>
  <p>Less than a week later, they had it. Dave have come running from the nearby lake into the cabin they had rented. As Xin managed to slow him down she, too, became excited: they were going to start a new company to do pharmaceutical research based on David&rsquo;s brand-as-fortune and Xin&rsquo;s business experience and energy.</p>
  <p>Then David started to hesitate, afraid that his previous company was going to come after him and make their lives impossible and stopped them dead in their tracks even before they had a chance to do anything. Xin gave him a deep, sustained hug.</p>
  <p class="_speakerb">David&hellip; David! They won&rsquo;t come after you if you are not in competition with them. They will laugh and let you fry in your own grease.</p>
@@ -46,7 +46,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">We are going to create a co-owned company, and run it as a co-managed company, too. Growth will come as it needs to. We will get the capital, but we won&rsquo;t give our power over it.</p>
  <p class="_speakera">OK, I am listening&hellip;</p>
 
-<h1 style="margin:40px 0 20px 0;">Impact</h1>
+<h1>Impact</h1>
  <p class="_speakera">OK, I&rsquo;ll ask: what is a co-owned business?</p>
  <p class="_speakerb">Company. A co-owned <span class="_me">company</span>.</p>
  <p class="_speakera">Company, business, whatever.</p>
@@ -59,7 +59,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">Right! Hey, you are good at this.</p>
  <p class="_speakera">I am very good at learning. As I have said before, that may be what I am mostly good at. In fact&hellip; in fact, what I know doesn&rsquo;t stand a chance when it meets what I learn.</p>
 
-<h1 style="margin:40px 0 20px 0;">Humming Right Along</h1>
+<h1>Humming Right Along</h1>
  <p>As they were formalizing their company, they got the box from the company with a few of David&rsquo; personal items. By the end of the day they had created rDrugs, an Unincorporated Association. More important than that, they had come with what Xin called their <em>explicit alignment</em>.</p>
  <div class="_center">
   <table class="_background">
@@ -78,6 +78,26 @@ image:    "icon-sparked-by-greed.svg"
   </table>
  </div>
 
-<h1 style="margin:40px 0 20px 0;">Humming Right Along</h1>
- <p>Xin had explained to David what she knew about Trust Agreements, and they were now working one. They would then be ready to ask future potential rDrug-ist to go through it and add their piece or modifiy as needed.
+<h1>Trust Agreements</h1>
+ <p>They had talked about what Xin knew about Trust Agreements, and they were now working through one they found online. They would then be ready to ask future potential rDrug-ist to go through it, add their piece, and modifiy as needed.</p>
+ <p class="_speakera">I am still not clear on what co-owned company is.</p>
+ <p class="_speakerb">It is a company that is not owned by anybody in particular. It is owned by the peope who contribute to it.</p>
+ <p class="_speakera">So, if we take time off, we are owners anymore? That doesn&rsquo;t seem right!</p></p>
+ <p class="_speakerb">Well, no, if we take time off&hellip; OK, time out, I&rsquo;ll tell you all I know about co-owned and co-managed companies. They are called <span class="_paradigm">RADIcAL</span> companies, by the way.</p>
+ <p class="_speakera">So, that&rsquo;s what the little r stands for.</p>
+ <p class="_speakerb">Yes, that and the fact that <span class="_me">rdrug.com</span> was available and <span class="_me">drug.com</span> was not.
+ <p class="_speakera">So, that&rsquo;s what the little r stands for.</p>
+ <p class="_speakerb">Co-management is similar to self-management but it better reflects that fact that people do the management and not the company itself. There is no self when it comes to something like a company.</p>
+ <p class="_speakera">OK.</p>
+ <p class="_speakerb">Co-ownership&hellip; co-ownership sounded scary when I first heard about it. I had the questions you had plus a bunch of others. What was appealing to me was that it is ownership based on contributions, not capital. That means that anybody can be an owner! That just blew my mind. But they fears were overwhelming. What if someobody pretends to do contribute? Can somebody steal all my work and claim it as their own?</p>
+ <p class="_speakera">Yeah an&hellip;</p>
+ <p class="_speakerb">&hellip; but the thing is that we, everybody, in the company gets to decide what is or isn&rsquo;t a contribution is. I had to think about that for a bit. And then I got very angry,</p>
+ <p class="_speakera">Why? Can at least ask why? Pretty please.</p>
+ <p class="_speakerb">Because nobody had said so. Because it was so obvious, and we thinkg of ourselves so smart, and&hellip; I wanted to cry and punch the walls at the same time. WHY DO WE NEED BOSSES?</p>
+ <p class="_speakera">OK, OK. Calm down. Drop a &rsquo;lude.</p>
+ <p class="_speakerb">Oh, I am calmed. You should have seen me when I first realized it.</p>
+ <p class="_speakera">I think I did, but I didn&rsquo;t know what to make of it.</p>
+ <p class="_speakerb"></p>
+
+
 {% include related.html %}
