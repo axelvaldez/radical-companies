@@ -8,7 +8,7 @@ image:    "icon-sparked-by-greed.svg"
 
 <div style="display:none;">
  <p>Developed with good intentions, the fomula had been a money-maker for years. But it wasn&rsquo;t enough.</p>
-</div>
+</span>
 
 <h1>&nbsp;</h1>
  <p class="_speakera">Nothing is enough!</p>
@@ -101,8 +101,8 @@ image:    "icon-sparked-by-greed.svg"
  <p>David was now laughing full throat.</p>
  <p class="_speakera">Sneaky, little&hellip; This is going to change everything.</p>
  <p class="_speakerb">If they don&rsquo;t throw us in jail first.</p>
- <p class="_speakerb"></p>
+ <p class="_speakera"></p>
 
- <p><div id="_speakera">So, now I can&hellip; oh, I see, I press this button. And it ejaculates stars every time I do.</div> David laughed full throat. Then he stoped laughing and looked down for a bit. Finally, he looked up, and said, <div id="_speakerac">This is going to change everything.</div></p>
+ <p class="_speakera"><span id="_speakera">So, now I can&hellip; oh, I see, I press this button. And it ejaculates stars every time I do.</span> David laughed full throat. Then he stoped laughing and looked down for a bit. Finally, he looked up, and said, <span id="_speakerac">This is going to change everything.</span></p>
 
 {% include related.html %}
