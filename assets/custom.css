@@ -305,7 +305,7 @@ table._background tr ul, ul li p:last-of-type {
   font-weight:bolder;
 }
 ._speakera::before, ._speakerb::before, ._quotespan::before {
-  content:"— “";
+  content:"—xxx “";
   /*
   text-indent:-1.3em;
   margin-left:2.6em;
