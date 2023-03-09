@@ -301,7 +301,7 @@ table._background tr ul, ul li p:last-of-type {
 ._speakera, ._speakerb, ._speakerac, ._speakerbc, ._quotespan {
   font-style:italic;
 }
-._speakerb, ._speakerbc {
+._speakera, ._speakerac {
   font-weight:bolder;
 }
 ._speakera::before, ._speakerb::before, ._quotespan::before {
