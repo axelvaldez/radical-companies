@@ -101,7 +101,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">I am OK now, better than ever, actually.</p>
  <p class="_speakera">So ownership is dynamic, not static.</p>
  <p class="_speakerb">You&hellip; you say it so matter-of-fact. Like it is obvious&hellip;</p>
- <p class="_speakera">Well, it is implied by what you just said. If everybody is constantly judging me, my worth is your eyes must change all the time.</p>
+ <p class="_speakera">Well, it is implied by what you just said. If you are constantly judging me, my worth in your eyes must change all the time. Nobody has a static view of other people.</p>
  <p class="_speakerb">It&rsquo;s not your worth or anything like that, it is about what you did that struck me as a contribution to us as a community.</p>
  <p class="_speakera">Yes, I understand, but I do my best work and nobody sees that as a contribution, I am going to feel like crap. So, you may be judging based on my behavior, but I will internatize it as worth.</p>
  <p class="_speaker">If you are doing your best work and it is not perceived as a contrubution, then you need to talk more, or different, but they need to learn.</p>
