@@ -39,11 +39,14 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">Yeah. Whatever&hellip;</p>
  <p class="_speakerb">Don&rsquo;t be dissmisive: UA stands for <em>Unincorporated Association</em>. It does not include stock, that is why it is an <em>Association</em>. There are no shares in the company. I do not think it exists outside California, but eventually it will.</p>
  <p class="_continueb">The fact that we will be operating without stock will make them fall off their chairs with laughter. They will probably offer to buy a percentage of the company, just to make it funnier.</p>
- <p class="_speakera">I like it. But, it is kind of funny to not have company stock, ain&rsquo;t it?</p>
+ <p class="_speakera">I like it. But, it is kind of &lsquo;funny&rsquo;, in a not-so-funny way, to not have company stock, ain&rsquo;t it?</p>
  <p class="_speakerb">We are going to create a co-owned company, and run it as a co-managed company, too.</p>
  <p class="_speakera">OK, I am listening&hellip;</p>
 
 <h1>Impact</h1>
- <p class="_speakerb"> 
+ <p class="_speakera">What is a co-ownened business?</p>
+ <p class="_speakera">Company. A co-owned <em>company</em>.</p>
+ <p class="_speakera">Company, business, whatever.</p>
+ <p class="_speakera">No, not whatever. A business restricts you to &ldquo;doing business,&rsquo; making transactions. A company is a community of people working together to make an impact bigger that they could on their own. By the way, the work company itself is a delight, too. It means people who break bread together, from &lsquo;con&rsquo; <em>together</em> and &lsquo;pan&rsquo; <em>bread</em>. 
 
 {% include related.html %}
