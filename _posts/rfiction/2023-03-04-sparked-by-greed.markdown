@@ -88,17 +88,24 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">So, that&rsquo;s what the little r stands for.</p>
  <p class="_speakerb">Yes, that and the fact that <span class="_me">rdrug.com</span> was available and <span class="_me">drug.com</span> was not.
  <p class="_speakera">Yes.</p>
- <p class="_speakerb">Co-management is similar to self-management but it is renamed to better reflects that fact that people do the management and not the company itself. There is no self when it comes to something like a company.</p>
+ <p class="_speakerb">Co-management is similar to self-management but it is renamed to better reflect the fact that <span class="_me">people</span> do the management and not the company itself. There is no self when it comes to something like a company; people co-manage the company.</p>
  <p class="_speakera">OK.</p>
- <p class="_speakerb">Co-ownership&hellip; co-ownership sounded scary when I first heard about it. I had the questions you had plus a bunch of others. What was appealing to me was that it is ownership based on contributions, not capital. That means that anybody can be an owner! That just blew my mind. But they fears were overwhelming. What if someobody pretends to do contribute? Can somebody steal all my work and claim it as their own?</p>
+ <p class="_speakerb">Co-ownership&hellip; co-ownership sounded scary when I first heard about it. I had the questions you had plus a bunch of others. What I found so appealing was that it is ownership based on contributions, not capital. That means that anybody can be an owner! That blew my mind and at the same time brought up all kinds of fears. What if somebody pretends to do contribute? Can somebody steal all my work and claim it as their own?</p>
  <p class="_speakera">Yeah an&hellip;</p>
- <p class="_speakerb">&hellip; but the thing is that we, everybody, in the company gets to decide what is or isn&rsquo;t a contribution. I had to think about that for a bit. And then I got very angry,</p>
- <p class="_speakera">Why? Can at least ask why? Pretty please.</p>
- <p class="_speakerb">Because nobody had said so. Because it was so obvious, and we thinkg of ourselves so smart, and&hellip; I wanted to cry and punch the walls at the same time. WHY DO WE NEED BOSSES?</p>
+ <p class="_speakerb">&hellip; but the thing is that we gets to decide what is or isn&rsquo;t a contribution. Everybody in the company decides. I had to think about that for a bit. And then I got very, very angry,</p>
+ <p class="_speakera">Why? I can ask why, right?</p>
+ <p class="_speakerb">Because nobody had said so. Because it was invisible and then it became so obvious. We thinkg of ourselves as so smart, but we never saw this power. I wanted to cry and punch the walls at the same time. I maena, WHY DO WE NEED BOSSES?</p>
  <p class="_speakera">OK, OK. Calm down. Drop a &rsquo;lude.</p>
  <p class="_speakerb">Oh, I am calmed. You should have seen me when I first realized it.</p>
- <p class="_speakera">I think I did, but I didn&rsquo;t know what to make of it.</p>
- <p class="_speakerb"></p>
+ <p class="_speakera">I think I did.</p>
+ <p class="_speakerb">I am OK now, better than ever, actually.</p>
+ <p class="_speakera">So ownership is dynamic, not static.</p>
+ <p class="_speakerb">You&hellip; you say it so matter-of-fact. Like it is obvious&hellip;</p>
+ <p class="_speakera">Well, it is implied by what you just said. If everybody is constantly judging me, my worth is your eyes must change all the time.</p>
+ <p class="_speakerb">It&rsquo;s not your worth or anything like that, it is about what you did that struck me as a contribution to us as a community.</p>
+ <p class="_speakera">Yes, I understand, but I do my best work and nobody sees that as a contribution, I am going to feel like crap. So, you may be judging based on my behavior, but I will internatize it as worth.</p>
+ <p class="_speaker">If you are doing your best work and it is not perceived as a contrubution, then you need to talk more, or different, but they need to learn.</p>
+ <p class="_speakera">
 
 
 {% include related.html %}
