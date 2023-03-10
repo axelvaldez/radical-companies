@@ -92,7 +92,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">How does what work?</p>
  <p class="_speakera">The contribution thing. Are there rules? Who keeps track of them? What?</p>
  <p class="_speakerb">Oh, there is an app for that.</p>
- <<p class="_commentary">>David reached for his phone</p>
+ <p class="_commentary">David reached for his phone</p>
  <p class="_speakera">What&rsquo;s it called?</p>
  <p class="_speakerb"><span class="_paradigm">RAD</span>s, with an exclamation mark at the end.</p>
  <p class="_speakera">Got it&hellip; It looks awfully simple to use. Here, I&rsquo;ll invite you to rDrugs. But I first have to create it. Oh, wait, it already exists. I will ask for an invite from the lonely, lovely member.</p>
