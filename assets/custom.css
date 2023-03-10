@@ -307,14 +307,12 @@ table._background tr ul, ul li p:last-of-type {
 ._speakerb, ._speakerbc,
 ._quotespan {
   font-style:italic;
+  font-family:'Courier New';
   padding-left:2.2em;
   margin-bottom:5px;
 }
 ._speakera, ._speakerac {
-  font-family:serif;
-}
-._speakerb, ._speakerbc {
-  font-family:sans-serif;
+  font-weight:bolder;
 }
 ._speakera, ._speakerb {
   text-indent:-1.1em;
