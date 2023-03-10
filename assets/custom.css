@@ -314,6 +314,9 @@ table._background tr ul, ul li p:last-of-type {
 ._speakerac, ._speakerbc, ._commentary {
   display:inline;
 }
+._commentary {
+  margin-bottom:3px;
+}
 ._speakera, ._speakerac {
   font-weight:bolder;
 }
@@ -325,10 +328,6 @@ table._background tr ul, ul li p:last-of-type {
 ._speakerb::after, ._speakerbc::after,
 ._quotespan::after {
   content:"”";
-}
-p._commentary {
-  padding-bottom:0;
-  margin-bottom:3px;
 }
 /*
  * dialog: end
