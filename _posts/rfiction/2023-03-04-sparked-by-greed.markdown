@@ -40,7 +40,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">Tiny and unimportant&hellip; maybe that is what we should call it, TAU.</p>
  <p class="_speakerb">TAU, UA.</p>
  <p class="_speakera">Yeah. Whatever&hellip;</p>
- <p class="_speakerb">Don&rsquo;t be dissmisive: UA stands for <span class="_me">Unincorporated Association</span>. It is a new class of legal entity that does not include stock. That is why it is an <span class="_me">Association</span>. There are no shares in the company. I do not think it exists outside California, but we can do business in every state of the union so long as we register it and pay taxes.</p>
+ <p class="_speakerb">Don&rsquo;t be dissmisive: UA stands for <span class="_me">Unincorporated Association</span>. It is a new class of legal entity that does not include stock. There are no shares in the company. I do not think it exists outside California, but we can do business in every state of the union so long as we register it and pay taxes.</p>
  <p class="_speakerbc">The fact that we will be operating without stock will make them fall off their chairs with laughter. They will probably offer to buy a percentage of the company, just to make it funnier.</p>
  <p class="_speakera">I like it. But, isn&rsquo;t kind of &lsquo;not-so-funny&rsquo; to not have company stock? I mean, what do we do for growth?</p>
  <p class="_speakerb">We are going to create a co-owned company, and run it as a co-managed company, too. Growth will come as it needs to. We will get the capital, but we won&rsquo;t give our power over it.</p>
