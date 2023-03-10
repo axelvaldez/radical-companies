@@ -21,7 +21,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">Which will result in higher levels of returns thir fiscal year than last fiscal year.</div>
  <div>
   <div class="_speakera">I see that your mind is made up and my participation is cosmetic. I came prepared for that.</div>
-  <div class="_commentary">David took out an envelope and pushed it towards the power end of the table.</div>
+  David took out an envelope and pushed it towards the power end of the table.
   <div class="_speakerac">This is my letter of resignation. You can send my stuff to my house, later on. Or keep it, it doesn&rsquo;t matter.</div>
  </div>
  <div class="_speakerb">David, calm down. We are not accepting&hellip;</div>
