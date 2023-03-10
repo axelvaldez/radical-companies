@@ -325,7 +325,7 @@ table._background tr ul, ul li p:last-of-type {
 }
 p._commentary {
   padding-bottom:0;
-  margin-bottom:0;
+  margin-bottom:3px;
 }
 /*
  * dialog: end
