@@ -70,8 +70,8 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">I struggled with that, too. How will you get there if you don't know where you are going, right? That is justificatioon for planning. But, think about it, if our Impact is to give people the opportunity to live a healthy live, is the Mission more important than that. Can you really say that the goal of the Mission is more important than giving people the opportunity to live healthy lives?</div>
  <div class="_speakera">But the Mission is the first step in getting to the Impact&hellip;</div>
  <div class="_speakerb">You are smart, but you are not that smart. Can you falsify what you just said? Are you being a scientist or a boss?</div>
- <div class="_speakera">Well, look, I am always a sicent&hellip;</div>
- <div class="_speakerb">I&lsquo;ve been a boss longer than you have, and that statement scream &rsquo;boss&lsquo; to me. We cannot afford to create obstacles for people to join the team and creating a &rsquo;solid Mission&lsquo; is creating a wall.</div>
+ <div class="_speakera">Well, look, I am always a&hellip;</div>
+ <div class="_speakerb">I&lsquo;ve been a boss longer than you have, and that statement screams &rsquo;boss&lsquo; to me. We cannot afford to create obstacles for people to join the team and creating a &rsquo;solid Mission&lsquo; is creating an obstacle. Many people will ignore it because they want to work with you, they want to learn from you. But it is an obstacle that get bigger and bigger over time, until they quit or submit to it.</div>
  <div class="_speakerb"></div>
 
 <h1>Trust Agreements</h1>
