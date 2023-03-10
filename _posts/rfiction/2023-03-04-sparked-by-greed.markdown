@@ -24,7 +24,7 @@ image:    "icon-sparked-by-greed.svg"
   <div class="_commentary">David took out an envelope and pushed it towards the power end of the table.</div>
   <div class="_speakerac">This is my letter of resignation. You can send my stuff to my house, later on. Or keep it, it doesn&rsquo;t matter.</div>
  </div>
- <div class="_speakerb">Dave, calm down. We are not accepting&hellip;</div>
+ <div class="_speakerb">David, calm down. We are not accepting&hellip;</div>
  <div class="_commentary">As the words kept cascading down from the power end of the table, David got up and walked out.</div>
 
 <h1>What&rsquo;s Next?</h1>
@@ -32,7 +32,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">Well, you did it. Let&rsquo;s take some time off as we said and figure out what is next. OK?</div>
 
 <h1>The Epiphany</h1>
- <div class="_commentary">Less than a week later, they had it. Dave have come running from the nearby lake into the cabin they had rented. As Th&uacute;y managed to slow him down she, too, became excited: they were going to start a new company to do pharmaceutical research based on David&rsquo;s brand-as-fortune and Th&uacute;y&rsquo;s business experience and energy.</div>
+ <div class="_commentary">Less than a week later, they had it. David have come running from the nearby lake into the cabin they had rented. As Th&uacute;y managed to slow him down she, too, became excited: they were going to start a new company to do pharmaceutical research based on David&rsquo;s brand-as-fortune and Th&uacute;y&rsquo;s business experience and energy.</div>
  <div class="_commentary">Then David started to hesitate, afraid that his previous company was going to come after them and make their lives impossible. They would be stopped dead in their tracks even before they had a chance to do anything. Th&uacute;y gave him a deep, sustained hug.</div>
  <div class="_speakerb">David&hellip; David! They won&rsquo;t come after you if you are not in competition with them. They will laugh and let you fry in your own grease.</div>
  <div class="_speakera">Fry in my&hellip; what? OK, OK, I get what you mean&hellip;</div>
