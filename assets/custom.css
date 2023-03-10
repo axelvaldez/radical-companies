@@ -311,14 +311,12 @@ table._background tr ul, ul li p:last-of-type {
 ._speakera, ._speakerb {
   text-indent:-1.0em;
 }
-._speakerac, ._speakerbc, ._commentary {
+._speakera, ._speakerbc {
   display:inline;
 }
-/*
 ._commentary {
   margin-bottom:3px;
 }
-*/
 ._speakera, ._speakerac {
   font-weight:bolder;
 }
