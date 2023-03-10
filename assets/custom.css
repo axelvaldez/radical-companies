@@ -324,7 +324,7 @@ table._background tr ul, ul li p:last-of-type {
   content:"”";
 }
 p + p._speakera {
-  padding-bottom:3px;
+  margin-bottom:30px;
 }
 /*
  * dialog: end
