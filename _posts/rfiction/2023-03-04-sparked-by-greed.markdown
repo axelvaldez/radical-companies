@@ -13,7 +13,7 @@ image:    "icon-sparked-by-greed.svg"
 <h1>&nbsp;</h1>
  <p class="_speakera">Nothing is enough!</p>
  <p class="_speakerb">Calm down. We just need to get the return our owners expect.</p>
- <p class="_speakera">What about telling them that their expectactions is modulated by what people can afford.</p>
+ <p class="_speakera">What about telling them that their expectactions is modulated by what people can afford. And as it is they are paying over 100 times more than they have for our drugs.</p>
  <p class="_speakerb">But that is the point, there is an opportunity to get higher returns. The window has opened to raise our prices. What is wrong with that?</p>
  <p class="_speakera">What is wrong with it is that it is an artificial &lsquo;opportunity&rsquo;. The window that you are talking about is something that we are making up!</p>
  <p class="_speakerb">Wait, it is not just us&hellip;</p>
