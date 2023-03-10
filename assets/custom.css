@@ -98,7 +98,7 @@ h3{
 }
 .btn{
   border: none;
-  font-weight: bold;
+  font-weight:bold;
 }
 section, footer{
   padding-top: 4rem;
@@ -311,14 +311,13 @@ table._background tr ul, ul li p:last-of-type {
   margin-bottom:5px;
 }
 ._speakera, ._speakerac {
-  /*
-  font-weight:bolder;
-  */
   font-family:serif;
+}
+._speakerb, ._speakerbc {
+  font-family:sans-serif;
 }
 ._speakera, ._speakerb {
   text-indent:-1.1em;
-  font-family:sans-serif;
 }
 ._speakera::before, ._speakerb::before {
   content:"— “";
