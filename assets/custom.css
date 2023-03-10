@@ -312,17 +312,18 @@ table._background tr ul, ul li p:last-of-type {
 ._speakera, ._speakerac {
   font-weight:bolder;
 }
-._speakerac::before, ._speakerbc::before {
+._speakera::before, {
   content:"— “";
+  font-weight:bolder;
+}
+._speakerac::before, ._speakerbc::before {
+  content:"“";
   padding-left:1.0em;
 }
 ._speakera::after, ._speakerb::after, ._speakerac::after, ._speakerbc::after, ._quotespan::after {
   content:"”";
 }
 p {
-  padding-bottom:3pm;
-}
-p + p._speakera, p + p._speakerac, p + p._speakerb, p + p._speakerbc {
   padding-bottom:3pm;
 }
 /*
