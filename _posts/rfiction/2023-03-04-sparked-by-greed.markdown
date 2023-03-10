@@ -7,7 +7,7 @@ image:    "icon-sparked-by-greed.svg"
 ---
 
 <div style="display:none;">
- <p>Developed with good intentions, the fomula had been a money-maker for years. But it wasn&rsquo;t enough.</p>
+ <p class="_commentary">Developed with good intentions, the fomula had been a money-maker for years. But it wasn&rsquo;t enough.</p>
 </div>
 
 <h1>&nbsp;</h1>
@@ -20,18 +20,18 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">Right, it is not just us. We are all raising prices <span class="_me">because we can</span>.</p>
  <p class="_speakerb">Which will result in higher levels of returns thir fiscal year than last fiscal year.</p>
  <p class="_speakera">I see that your mind is made up and my participation is cosmetic. I came prepared for that.</p>
- <p>David took out an envelope and pushed it towards the power end of the table.</p>
+ <p class="_commentary">David took out an envelope and pushed it towards the power end of the table.</p>
  <p class="_speakera">This is my letter of resignation. You can send my stuff to my house, later on. Or keep it, it doesn&rsquo;t matter.</p>
  <p class="_speakerb">Dave, calm down. We are not accepting&hellip;</p>
- <p>As the words kept cascading down from the power end of the table, David got up and walked out.</p>
+ <p class="_commentary">As the words kept cascading down from the power end of the table, David got up and walked out.</p>
 
 <h1>What&rsquo;s Next?</h1>
  <p class="_speakera">It wasn&rsquo;t the first time, and they will keep doing it. There is no bottom to their &lsquo;fiduciary&rsquo; greed.</p>
  <p class="_speakerb">Well, you did it. Let&rsquo;s take some time off as we said and figure out what is next. OK?</p>
 
 <h1>The Epiphany</h1>
- <p>Less than a week later, they had it. Dave have come running from the nearby lake into the cabin they had rented. As Th&uacute;y managed to slow him down she, too, became excited: they were going to start a new company to do pharmaceutical research based on David&rsquo;s brand-as-fortune and Th&uacute;y&rsquo;s business experience and energy.</p>
- <p>Then David started to hesitate, afraid that his previous company was going to come after them and make their lives impossible. Even stopped them dead in their tracks even before they had a chance to do anything. Th&uacute;y gave him a deep, sustained hug.</p>
+ <p class="_commentary">Less than a week later, they had it. Dave have come running from the nearby lake into the cabin they had rented. As Th&uacute;y managed to slow him down she, too, became excited: they were going to start a new company to do pharmaceutical research based on David&rsquo;s brand-as-fortune and Th&uacute;y&rsquo;s business experience and energy.</p>
+ <p class="_commentary">Then David started to hesitate, afraid that his previous company was going to come after them and make their lives impossible. Even stopped them dead in their tracks even before they had a chance to do anything. Th&uacute;y gave him a deep, sustained hug.</p>
  <p class="_speakerb">David&hellip; David! They won&rsquo;t come after you if you are not in competition with them. They will laugh and let you fry in your own grease.</p>
  <p class="_speakera">Fry in my&hellip; what? OK, OK, I get what you mean&hellip;</p>
  <p class="_speakerb">Once you announce that you are not raising any serious capital, they&rsquo;ll laugh. I did when you first said it, I did laugh. I was convinced that it would take a multimillion dollar lab to make any headway. Then you laughed and told me why not.</p>
@@ -75,7 +75,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb"></p>
 
 <h1>Trust Agreements</h1>
- <p>They had talked about what Th&uacute;y knew about Trust Agreements, and they were now working through one they found online. They would then be ready to ask future potential <span class="_paradigm">rHEALTH</span> to go through it, add their piece, and modifiy as needed.</p>
+ <p>They had talked about what Th&uacute;y knew about Trust Relationship, and they were now working through one they found online. They would then be ready to ask future potential <span class="_paradigm">rHEALTH</span> to go through it, add their piece, and modifiy as needed.</p>
  <p class="_speakera">I am still not clear on what co-owned company is.</p>
  <p class="_speakerb">It is a company that is not owned by anybody in particular. It is owned by the peope who contribute to it.</p>
  <p class="_speakera">So, if we take time off, we are owners anymore? That doesn&rsquo;t seem right!</p>
