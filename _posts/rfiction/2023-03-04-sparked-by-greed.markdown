@@ -71,8 +71,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">But the Mission is the first step in getting to the Impact&hellip;</div>
  <div class="_speakerb">You are smart, but you are not that smart. Can you falsify what you just said? Are you being a scientist or a boss?</div>
  <div class="_speakera">Well, look, I am always a&hellip;</div>
- <div class="_speakerb">I&lsquo;ve been a boss longer than you have, and that statement screams &rsquo;boss&lsquo; to me. We cannot afford to create obstacles for people to join the team and creating a &rsquo;solid Mission&lsquo; is creating an obstacle. Many people will ignore it because they want to work with you, they want to learn from you. But it is an obstacle that get bigger and bigger over time, until they quit or submit to it.</div>
- <div class="_speakerb"></div>
+ <div class="_speakerb">I&lsquo;ve been a boss longer than you have, and that statement screams &rsquo;boss&lsquo; to me. We cannot afford to create obstacles for people to join the team and creating a &rsquo;solid Mission&lsquo; is creating an obstacle. Many people will ignore it because they want to work with you, they want to learn from you. But it is an obstacle that get bigger and bigger over time, until they quit to get away from it or submit to it and we all lose.</div>
 
 <h1>Trust Agreements</h1>
  <p>They had talked about what Th&uacute;y knew about Trust Relationship, and they were now working through one they found online. They would then be ready to ask future potential <span class="_paradigm">rHEALTH</span> to go through it, add their piece, and modifiy as needed.</div>
