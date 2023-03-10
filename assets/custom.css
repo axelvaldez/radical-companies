@@ -316,7 +316,7 @@ table._background tr ul, ul li p:last-of-type {
 ._speakerac {
   font-weight:bolder;
 }
-._speakera::before, {
+._speakera::before {
   content:"— “";
   font-weight:bolder;
 }
