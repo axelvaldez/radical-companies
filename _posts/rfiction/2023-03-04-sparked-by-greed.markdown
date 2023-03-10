@@ -41,9 +41,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">TAU, UA.</div>
  <div class="_speakera">Yeah. Whatever&hellip;</div>
  <div class="_speakerb">Don&rsquo;t be dissmisive: UA stands for <span class="_me">Unincorporated Association</span>. It is a new class of legal entity that does not include stock. There are no shares in the company. I do not think it exists outside California, but we can do business in every state of the union so long as we register it and pay taxes.</div>
- <div class="_speakerbc">
-  <div>The fact that we will be operating without stock will make them fall off their chairs with laughter. They may even offer to buy a percentage of the company so they can have a laugh.</div>
- </div>
+ <div class="_speakerbc">The fact that we will be operating without stock will make them fall off their chairs with laughter. They may even offer to buy a percentage of the company so they can have a laugh.</div>
  <div class="_speakera">I like it. But, isn&rsquo;t kind of &lsquo;not-so-funny&rsquo; to not have company stock? I mean, what do we do for growth?</div>
  <div class="_speakerb">We are going to create a co-owned company, and run it as a co-managed company, too. I have read all about it. Growth will come and we will get the capital, but we won&rsquo;t give our power over the business.</div>
  <div class="_speakera">OK, I am listening&hellip;</div>
@@ -55,10 +53,8 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">No, no, no. Don&rsquo;t &lsquo;whatever.&rsquo; A business is meant to &lsquo;do business,&rsquo; do transactions, make money, be hyper-competitive like every other business. In any case, leave that to me. Trust me and don&rsquo;t have to worry about that, for now</div>
  <div class="_speakera">Yes, ma&lsquo;am. As you say.</div>
  <div class="_speakerb">You are so dramatic sometimes&hellip; But, you are right. I said that with my boss hat on. The point is to get away from that and learn from each other.</div>
- <div class="_speakerbc">
-  <div>Let&rsquo;s start with why I insisted on calling it a &lsquo;company&rsquo; instead of &lsquo;business.&rsquo;</div>
-  <div>A business, as I said, is a money-making machine and that&lsquo;s that. A company, on the other hand, is a community of people working together to have a bigger impact that they could on their own. Besides, the work &rsquo;company&lsquo; itself is a gem because it means a group of people who <span class="_me">break bread together.</span> Isn&lsquo;t that beautiful? We are going to create a space for a community of researchers working together to make a big impact. And also  be financially successful.</div>
- </div>
+ <div class="_speakerbc">Let&rsquo;s start with why I insisted on calling it a &lsquo;company&rsquo; instead of &lsquo;business.&rsquo;</div>
+ <div class="_speakerbc">A business, as I said, is a money-making machine and that&lsquo;s that. A company, on the other hand, is a community of people working together to have a bigger impact that they could on their own. Besides, the work &rsquo;company&lsquo; itself is a gem because it means a group of people who <span class="_me">break bread together.</span> Isn&lsquo;t that beautiful? We are going to create a space for a community of researchers working together to make a big impact. And also  be financially successful.</div>
  <div class="_speakera">How fine-anne-shelly successful</div>
  <div class="_speakerb">Creating a co-owned company is a strategy, but it is not magic. It depends on our results. Will they be accepted, embraced? In the end, we may not be that fine-anne-shelly successfully, but that is the risk people always take when they start a business.</div>
  <div class="_speakera">A &lsquo;company,&rsquo; right?</div>
