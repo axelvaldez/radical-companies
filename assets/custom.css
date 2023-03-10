@@ -312,16 +312,16 @@ table._background tr ul, ul li p:last-of-type {
 ._speakera, ._speakerac {
   font-weight:bolder;
 }
-._speakera {
-  padding-left:1.0em;
-}
 ._speakera::before, ._speakerb::before {
   content:"— “";
 }
-._speakerac::before, ._speakerbc::before, ._speakera::after, ._speakerb::after, ._speakerac::after, ._speakerbc::after, ._quotespan::after {
+._speakerac::before, ._speakerbc::before,
+._speakera::after, ._speakerac::after,
+._speakerb::after, ._speakerbc::after,
+._quotespan::after {
   content:"”";
 }
-p {
+p + p._speakera {
   padding-bottom:3px;
 }
 /*
