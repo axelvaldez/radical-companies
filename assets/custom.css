@@ -311,7 +311,9 @@ table._background tr ul, ul li p:last-of-type {
   margin-bottom:5px;
 }
 ._speakera, ._speakerac {
+  /*
   font-weight:bolder;
+  */
   font-family:serif;
 }
 ._speakera, ._speakerb {
