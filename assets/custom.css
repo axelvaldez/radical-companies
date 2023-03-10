@@ -303,31 +303,32 @@ table._background tr ul, ul li p:last-of-type {
 /*
  * dialog: begin
  */
-._speakera, ._speakerb, ._speakerac, ._speakerbc, ._quotespan {
+._speakera, ._speakerac,
+._speakerb, ._speakerac,
+._quotespan {
   font-style:italic;
   padding-left:2.3em;
   margin-bottom:5px;
 }
-._speakera, ._speakerb {
-  text-indent:-1.0em;
-}
-._speakera, ._speakerbc {
-  display:inline;
-}
-._commentary {
-  margin-bottom:3px;
-}
 ._speakera, ._speakerac {
   font-weight:bolder;
+}
+._speakera, ._speakerb {
+  text-indent:-1.0em;
 }
 ._speakera::before, ._speakerb::before {
   content:"— “";
 }
-._speakerac::before, ._speakerbc::before,
+._speakerac::before, ._speakerbc::before {
+  content:"”";
+}
 ._speakera::after, ._speakerac::after,
 ._speakerb::after, ._speakerbc::after,
 ._quotespan::after {
   content:"”";
+}
+._commentary {
+  margin-bottom:3px;
 }
 /*
  * dialog: end
