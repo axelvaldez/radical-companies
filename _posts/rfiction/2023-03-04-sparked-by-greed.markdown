@@ -50,7 +50,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakera">OK, I&rsquo;ll ask: what is a co-owned business?</p>
  <p class="_speakerb">Company. A co-owned <span class="_me">company</span>.</p>
  <p class="_speakera">Company, business, whatever.</p>
- <p class="_speakerb">No, no, no. Don&rsquo;t &lsquo;whatever.&rsquo; A business is meant to &ldquo;do business,&rsquo; do transactions, make money, be hyper-competitive like every other business. A company is a community of people working together to make a bigger impact that they could on their own. Besides, the work company itself is a gem. It means people who <span class="_me">break bread together</span>, isn't that beautiful? We are going to create a community of researchers working together to make a big impact. And also  be financially successful.</p>
+ <p class="_speakerb">No, no, no. Don&rsquo;t &lsquo;whatever.&rsquo; A business is meant to &lsquo;do business,&rsquo; do transactions, make money, be hyper-competitive like every other business. A company is a community of people working together to make a bigger impact that they could on their own. Besides, the work company itself is a gem. It means people who <span class="_me">break bread together</span>, isn't that beautiful? We are going to create a community of researchers working together to make a big impact. And also  be financially successful.</p>
  <p class="_speakera">How fine-anne-shally successful</p>
  <p class="_speakerb">Well, there is no magic. It depends on how well our results are accepted and embraced. We may not be that fine-anne-shally successfully, that is the risk. But that is the risk people always take when they start a business.</p>
  <p class="_speakera">A &lsquo;company&rsquo;, right?</p>
