@@ -316,14 +316,10 @@ table._background tr ul, ul li p:last-of-type {
 ._speakerac {
   font-weight:bolder;
 }
-._speakera::before {
+._speakera::before, ._speakerb::before {
   content:"— “";
-  font-weight:bolder;
 }
-._speakerac::before, ._speakerbc::before {
-  content:"“";
-}
-._speakera::after, ._speakerb::after, ._speakerac::after, ._speakerbc::after, ._quotespan::after {
+._speakerac::before, ._speakerbc::before, ._speakera::after, ._speakerb::after, ._speakerac::after, ._speakerbc::after, ._quotespan::after {
   content:"”";
 }
 p {
