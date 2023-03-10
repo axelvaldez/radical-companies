@@ -304,7 +304,7 @@ table._background tr ul, ul li p:last-of-type {
  * dialog: begin
  */
 ._speakera, ._speakerac,
-._speakerb, ._speakerac,
+._speakerb, ._speakerbc,
 ._quotespan {
   font-style:italic;
   padding-left:2.2em;
