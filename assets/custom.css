@@ -312,9 +312,11 @@ table._background tr ul, ul li p:last-of-type {
 }
 ._speakera, ._speakerac {
   font-weight:bolder;
+  font-family:serif;
 }
 ._speakera, ._speakerb {
   text-indent:-1.1em;
+  font-family:sans-serif;
 }
 ._speakera::before, ._speakerb::before {
   content:"— “";
