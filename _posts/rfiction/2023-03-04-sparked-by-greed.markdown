@@ -31,7 +31,7 @@ image:    "icon-sparked-by-greed.svg"
 
 <h1>The Epiphany</h1>
  <p class="_commentary">Less than a week later, they had it. Dave have come running from the nearby lake into the cabin they had rented. As Th&uacute;y managed to slow him down she, too, became excited: they were going to start a new company to do pharmaceutical research based on David&rsquo;s brand-as-fortune and Th&uacute;y&rsquo;s business experience and energy.</p>
- <p class="_commentary">Then David started to hesitate, afraid that his previous company was going to come after them and make their lives impossible. Even stopped them dead in their tracks even before they had a chance to do anything. Th&uacute;y gave him a deep, sustained hug.</p>
+ <p class="_commentary">Then David started to hesitate, afraid that his previous company was going to come after them and make their lives impossible. They would be stopped dead in their tracks even before they had a chance to do anything. Th&uacute;y gave him a deep, sustained hug.</p>
  <p class="_speakerb">David&hellip; David! They won&rsquo;t come after you if you are not in competition with them. They will laugh and let you fry in your own grease.</p>
  <p class="_speakera">Fry in my&hellip; what? OK, OK, I get what you mean&hellip;</p>
  <p class="_speakerb">Once you announce that you are not raising any serious capital, they&rsquo;ll laugh. I did when you first said it, I did laugh. I was convinced that it would take a multimillion dollar lab to make any headway. Then you laughed and told me why not.</p>
