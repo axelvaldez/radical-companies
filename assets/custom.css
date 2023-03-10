@@ -314,9 +314,11 @@ table._background tr ul, ul li p:last-of-type {
 ._speakerac, ._speakerbc, ._commentary {
   display:inline;
 }
+/*
 ._commentary {
   margin-bottom:3px;
 }
+*/
 ._speakera, ._speakerac {
   font-weight:bolder;
 }
