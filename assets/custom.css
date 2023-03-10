@@ -303,11 +303,13 @@ table._background tr ul, ul li p:last-of-type {
 /*
  * dialog: begin
  */
-._speakera, ._speakerac, ._speakerb, ._speakerbc, ._quotespan {
+._speakera, ._speakerb, ._speakerac, ._speakerbc, ._quotespan {
   font-style:italic;
-  text-indent:-1.0em;
   padding-left:2.3em;
   margin-bottom:5px;
+}
+._speakera, ._speakerb {
+  text-indent:-1.0em;
 }
 ._speakera, ._speakerac {
   font-weight:bolder;
