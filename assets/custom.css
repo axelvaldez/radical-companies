@@ -309,7 +309,11 @@ table._background tr ul, ul li p:last-of-type {
   padding-left:2.3em;
   margin-bottom:5px;
 }
-._speakera, ._speakerac {
+._speakera {
+  font-weight:bolder;
+  padding-left:1.0em;
+}
+._speakerac {
   font-weight:bolder;
 }
 ._speakera::before, {
@@ -318,13 +322,12 @@ table._background tr ul, ul li p:last-of-type {
 }
 ._speakerac::before, ._speakerbc::before {
   content:"“";
-  padding-left:1.0em;
 }
 ._speakera::after, ._speakerb::after, ._speakerac::after, ._speakerbc::after, ._quotespan::after {
   content:"”";
 }
 p {
-  padding-bottom:3pm;
+  padding-bottom:3px;
 }
 /*
  * dialog: end
