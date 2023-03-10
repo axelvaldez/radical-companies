@@ -37,39 +37,51 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">Once you announce that you are not raising any serious capital, they&rsquo;ll laugh. I did when you first said it, I did laugh. I was convinced that it would take a multimillion dollar lab to make any headway. Then you laughed and told me why not.</p>
  <p class="_speakera">And if they don&rsquo;t laugh, screw them. Plenty of people will come to my defense&hellip;</p>
  <p class="_speakerb">&hellip; plenty of people will be sympathetic and that&rsquo;s it. Our biggest defense is that we are tiny and unimportant. That is the only thing we have going to us, OK?</p>
- <p class="_speakera">Tiny and unimportant&hellip; maybe that is what we should call it, TAU.</p>
+ <p class="_speakera">&lsquo;Tiny and unimportant&rsquo; &hellip; maybe that is what we should call it, TAU.</p>
  <p class="_speakerb">TAU, UA.</p>
  <p class="_speakera">Yeah. Whatever&hellip;</p>
  <p class="_speakerb">Don&rsquo;t be dissmisive: UA stands for <span class="_me">Unincorporated Association</span>. It is a new class of legal entity that does not include stock. There are no shares in the company. I do not think it exists outside California, but we can do business in every state of the union so long as we register it and pay taxes.</p>
- <p class="_speakerbc">The fact that we will be operating without stock will make them fall off their chairs with laughter. They will probably offer to buy a percentage of the company, just to make it funnier.</p>
+ <p class="_speakerbc">The fact that we will be operating without stock will make them fall off their chairs with laughter. They may even offer to buy a percentage of the company so they can have a laugh.</p>
  <p class="_speakera">I like it. But, isn&rsquo;t kind of &lsquo;not-so-funny&rsquo; to not have company stock? I mean, what do we do for growth?</p>
- <p class="_speakerb">We are going to create a co-owned company, and run it as a co-managed company, too. Growth will come as it needs to. We will get the capital, but we won&rsquo;t give our power over it.</p>
+ <p class="_speakerb">We are going to create a co-owned company, and run it as a co-managed company, too. I have read all about it. Growth will come and we will get the capital, but we won&rsquo;t give our power over the business.</p>
  <p class="_speakera">OK, I am listening&hellip;</p>
 
 <h1>Impact</h1>
  <p class="_speakera">OK, I&rsquo;ll ask: what is a co-owned business?</p>
  <p class="_speakerb">Company. A co-owned <span class="_me">company</span>.</p>
  <p class="_speakera">Company, business, whatever.</p>
- <p class="_speakerb">No, no, no. Don&rsquo;t &lsquo;whatever.&rsquo; A business is meant to &lsquo;do business,&rsquo; do transactions, make money, be hyper-competitive like every other business. A company is a community of people working together to make a bigger impact that they could on their own. Besides, the work company itself is a gem. It means people who <span class="_me">break bread together</span>, isn't that beautiful? We are going to create a community of researchers working together to make a big impact. And also  be financially successful.</p>
+ <p class="_speakerb">No, no, no. Don&rsquo;t &lsquo;whatever.&rsquo; A business is meant to &lsquo;do business,&rsquo; do transactions, make money, be hyper-competitive like every other business. In any case, leave that to me. Trust me and don&rsquo;t have to worry about that, for now</p>
+ <p class="_speakera">Yes, ma&lsquo;am. As you say.</p>
+ <p class="_speakerb">You are so dramatic sometimes&hellip; But, you are right. I said that with my boss hat on. The point is to get away from that and learn from each other.</p>
+ <p class="_speakerbc">Let&rsquo;s start with why I insisted on calling it a &lsquo;company&rsquo; instead of &lsquo;business.&rsquo;
+ <p class="_speakerbc">Like I said, a business is a money-making machine and that&lsquo;s that. A company, on the other hand, is a community of people working together to have a bigger impact that they could on their own. Besides, the work &rsquo;company&lsquo; itself is a gem because it means a group of people who <span class="_me">break bread together.</span> Isn&lsquo;t that beautiful? We are going to create a space for a community of researchers working together to make a big impact. And also  be financially successful.</p>
  <p class="_speakera">How fine-anne-shelly successful</p>
- <p class="_speakerb">Well, there is no magic. It depends on how well our results are accepted and embraced. We may not be that fine-anne-shelly successfully, that is the risk. But that is the risk people always take when they start a business.</p>
+ <p class="_speakerb">Creating a co-owned company is a strategy, but it is not magic. It depends on our results. Will they be accepted, embraced? In the end, we may not be that fine-anne-shelly successfully, but that is the risk people always take when they start a business.</p>
  <p class="_speakera">A &lsquo;company,&rsquo; right?</p>
  <p class="_speakerb">What?&hellip;</p>
- <p class="_speakera">You meant say a company, not a bus&hellip;</p>
- <p class="_speakerb">Right! Hey, you are good at this.</p>
- <p class="_speakera">I am very good at learning. As I have said before, that may be what I am mostly good at. In fact&hellip; in fact, what I know doesn&rsquo;t stand a chance when it meets what I learn.</p>
+ <p class="_speakera">You meant say a &lsquo;company,&rsquo;, not a &lsquo;bus&hellip;</p>
+ <p class="_speakerb">&hellip; Right! Hey, you are good at this.</p>
+ <p class="_speakera">As I have said before, what I know doesn&rsquo;t stand a chance when it meets what I&rsquo;ve learned.</p>
 
 <h1>Explicit Alignment</h1>
- <p>As they were formalizing their company, they got the box from the company with David&rsquo; personal items. By the end of the day they had created rDrugs, an Unincorporated Association. More important than that, they had come with what Xin called their <em>explicit alignment</em>: impact, purpose, and mission.</p>
+ <p>As they were formalizing their company, they got the box from the company with David&rsquo; personal items.</p>
+ <p>By the end of the day they had created <span class="_paradigm">rHEALTH</span>. And, more importantly, they had come with what Xin called their <em>Explicit Alignment</em>. This include their intended Impact, Purpose, and Mission. The Impact was very important because it would tell all future members WHAT they were signing up FOR. The Purpose would tell them WHY they were doing it. The Mission was the most tentative because it will fit its shape to whatever team they assembled so what they wrote sketched out WHAT they were going to do, WHEN, and HOW.</p>
+ <p>David struggled with the process, he wanted a solid Mission, a definite goal that would tell the team what to strive for. Everything else was bullshit.</p>
+ <p class="_speakerb">I struggled with that, too. How will you get there if you don't know where you are going. That is planning 101, its justification. But, think about it, if our Impact is to give people the opportunity to live a healthy live, is the Mission more important than that. Can you really say that the goal of the Mission is more important than giving people the opportunity to live healthy lives?</p>
+ <p class="_speakera">But the Mission is the first step in getting to the Impact&hellip;</p>
+ <p class="_speakerb">You are smart, but you are not that smart. Can you falsify what you just said? Are you being a scientist or a boss?</p>
+ <p class="_speakera">Well, look, I am always a sicent&hellip;</p>
+ <p class="_speakerb">I&lsquo;ve been a boss longer than you have, and that statement scream &rsquo;boss&lsquo; to me. We cannot afford to create obstacles for people to join the team and creating a &rsquo;solid Mission&lsquo; is creating a wall.</p>
+ <p class="_speakerb"></p>
 
 <h1>Trust Agreements</h1>
- <p>They had talked about what Xin knew about Trust Agreements, and they were now working through one they found online. They would then be ready to ask future potential rDrug-ist to go through it, add their piece, and modifiy as needed.</p>
+ <p>They had talked about what Xin knew about Trust Agreements, and they were now working through one they found online. They would then be ready to ask future potential <span class="_paradigm">rHEALTH</span> to go through it, add their piece, and modifiy as needed.</p>
  <p class="_speakera">I am still not clear on what co-owned company is.</p>
  <p class="_speakerb">It is a company that is not owned by anybody in particular. It is owned by the peope who contribute to it.</p>
  <p class="_speakera">So, if we take time off, we are owners anymore? That doesn&rsquo;t seem right!</p>
  <p class="_speakerb">Well, no, if we take time off&hellip; OK, time out, I&rsquo;ll tell you all I know about co-owned and co-managed companies. They are called <span class="_paradigm">RADIcAL</span> companies, by the way.</p>
  <p class="_speakera">So, that&rsquo;s what the little r stands for.</p>
- <p class="_speakerb">Yes, that and the fact that <span class="_me">rdrug.com</span> was available and <span class="_me">drug.com</span> was not.
+ <p class="_speakerb">Yes, that and the fact that <span class="_me">rhealth.com</span> was available and <span class="_me">health.com</span> was not.
  <p class="_speakera">Yes.</p>
  <p class="_speakerb">Co-management is similar to self-management but it is renamed to better reflect the fact that <span class="_me">people</span> do the management and not the company itself. There is no self when it comes to something like a company; people co-manage the company.</p>
  <p class="_speakera">OK.</p>
@@ -95,8 +107,8 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_commentary">David reached for his phone</p>
  <p class="_speakera">What&rsquo;s it called?</p>
  <p class="_speakerb"><span class="_paradigm">RAD</span>s, with an exclamation mark at the end.</p>
- <p class="_speakera">Got it&hellip; It looks awfully simple to use. Here, I&rsquo;ll invite you to rDrugs. But I first have to create it. Oh, wait, it already exists. I will ask for an invite from the lonely, lovely member.</p>
- <p class="_speakerb">And&hellip; you are now a member of the rDrug community!</p>
+ <p class="_speakera">Got it&hellip; It looks awfully simple to use. Here, I&rsquo;ll invite you to <span class="_paradigm">rHEALTH</span>. But I first have to create it. Oh, wait, it already exists. I will ask for an invite from the lonely, lovely member.</p>
+ <p class="_speakerb">And&hellip; you are now a member of the <span class="_paradigm">rHEALTH</span> community!</p>
  <p class="_speakera">So, now&hellip; oh, I see, I press this button. And it&hellip; ejaculates stars every time I do.</p>
  <p class="_commentary">David laughed full throat. And, suddenly, he stopped laughing and looked down for a bit. Finally, he looked up, and said,</p>
  <p class="_speakera">This is going to change everything.</p>
