@@ -30,8 +30,8 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb">Well, you did it. Let&rsquo;s take some time off as we said and figure out what is next. OK?</p>
 
 <h1>The Epiphany</h1>
- <p>Less than a week later, they had it. Dave have come running from the nearby lake into the cabin they had rented. As Xin managed to slow him down she, too, became excited: they were going to start a new company to do pharmaceutical research based on David&rsquo;s brand-as-fortune and Xin&rsquo;s business experience and energy.</p>
- <p>Then David started to hesitate, afraid that his previous company was going to come after them and make their lives impossible. Even stopped them dead in their tracks even before they had a chance to do anything. Xin gave him a deep, sustained hug.</p>
+ <p>Less than a week later, they had it. Dave have come running from the nearby lake into the cabin they had rented. As Th&uacute;y managed to slow him down she, too, became excited: they were going to start a new company to do pharmaceutical research based on David&rsquo;s brand-as-fortune and Th&uacute;y&rsquo;s business experience and energy.</p>
+ <p>Then David started to hesitate, afraid that his previous company was going to come after them and make their lives impossible. Even stopped them dead in their tracks even before they had a chance to do anything. Th&uacute;y gave him a deep, sustained hug.</p>
  <p class="_speakerb">David&hellip; David! They won&rsquo;t come after you if you are not in competition with them. They will laugh and let you fry in your own grease.</p>
  <p class="_speakera">Fry in my&hellip; what? OK, OK, I get what you mean&hellip;</p>
  <p class="_speakerb">Once you announce that you are not raising any serious capital, they&rsquo;ll laugh. I did when you first said it, I did laugh. I was convinced that it would take a multimillion dollar lab to make any headway. Then you laughed and told me why not.</p>
@@ -65,7 +65,7 @@ image:    "icon-sparked-by-greed.svg"
 
 <h1>Explicit Alignment</h1>
  <p>As they were formalizing their company, they got the box from the company with David&rsquo; personal items.</p>
- <p>By the end of the day they had created <span class="_paradigm">rHEALTH</span>. And, more importantly, they had come with what Xin called their <em>Explicit Alignment</em>. This include their intended Impact, Purpose, and Mission. The Impact was very important because it would tell all future members WHAT they were signing up FOR. The Purpose would tell them WHY they were doing it. The Mission was the most tentative because it will fit its shape to whatever team they assembled so what they wrote sketched out WHAT they were going to do, WHEN, and HOW.</p>
+ <p>By the end of the day they had created <span class="_paradigm">rHEALTH</span>. And, more importantly, they had come with what Th&uacute;y called their <em>Explicit Alignment</em>. This include their intended Impact, Purpose, and Mission. The Impact was very important because it would tell all future members WHAT they were signing up FOR. The Purpose would tell them WHY they were doing it. The Mission was the most tentative because it will fit its shape to whatever team they assembled so what they wrote sketched out WHAT they were going to do, WHEN, and HOW.</p>
  <p>David struggled with the process, he wanted a solid Mission, a definite goal that would tell the team what to strive for. Everything else was bullshit.</p>
  <p class="_speakerb">I struggled with that, too. How will you get there if you don't know where you are going. That is planning 101, its justification. But, think about it, if our Impact is to give people the opportunity to live a healthy live, is the Mission more important than that. Can you really say that the goal of the Mission is more important than giving people the opportunity to live healthy lives?</p>
  <p class="_speakera">But the Mission is the first step in getting to the Impact&hellip;</p>
@@ -75,7 +75,7 @@ image:    "icon-sparked-by-greed.svg"
  <p class="_speakerb"></p>
 
 <h1>Trust Agreements</h1>
- <p>They had talked about what Xin knew about Trust Agreements, and they were now working through one they found online. They would then be ready to ask future potential <span class="_paradigm">rHEALTH</span> to go through it, add their piece, and modifiy as needed.</p>
+ <p>They had talked about what Th&uacute;y knew about Trust Agreements, and they were now working through one they found online. They would then be ready to ask future potential <span class="_paradigm">rHEALTH</span> to go through it, add their piece, and modifiy as needed.</p>
  <p class="_speakera">I am still not clear on what co-owned company is.</p>
  <p class="_speakerb">It is a company that is not owned by anybody in particular. It is owned by the peope who contribute to it.</p>
  <p class="_speakera">So, if we take time off, we are owners anymore? That doesn&rsquo;t seem right!</p>
