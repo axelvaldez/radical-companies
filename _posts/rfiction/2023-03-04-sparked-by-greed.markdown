@@ -106,7 +106,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_commentary">David reached for his phone</div>
  <div class="_speakera">What&rsquo;s it called?</div>
  <div class="_speakerb"><span class="_paradigm">RAD</span>s, with an exclamation mark at the end.</div>
- <div class="_speakera">Got it&hellip; It looks awfully simple to use. Here, I&rsquo;ll invite you to <span class="_paradigm">rHEALTH</span>. But I first have to create it. Oh, wait, it already exists. I will ask for an invite from the lonely, lovely member.</div>
+ <div class="_speakera">Got it&hellip; It looks awfully simple to use. Here, I&rsquo;ll invite you to <span class="_paradigm">rHEALTH</span>, but I first have to create it. Oh, wait, it already exists. I will ask for an invite from the lonely, lovely member.</div>
  <div class="_speakerb">And&hellip; you are now a member of the <span class="_paradigm">rHEALTH</span> community!</div>
  <div class="_speakera">So, now&hellip; oh, I see, I press this button. And it&hellip; ejaculates stars every time I do.</div>
  <div class="_commentary">David laughed full throat. And, suddenly, he stopped laughing and looked down for a bit. Finally, he looked up, and said,</div>
