@@ -17,7 +17,7 @@ image:    "icon-the-radical-foundation-in-3-dimensions.svg"
   <img
    src="/assets/img/pic-the-radical-foundation-in-3-dimensions.svg"
    width="100%"
-   alt="">
+   alt="Meaning and belonging form a plane at the top and decentralization and transparency form a plane at the bottom. The word EXPERIEMENTAION sits in between them.">
  </div>
 
 {% include related.html %}
