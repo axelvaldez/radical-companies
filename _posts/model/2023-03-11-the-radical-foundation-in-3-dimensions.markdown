@@ -11,7 +11,7 @@ image:    "icon-the-radical-foundation-in-3-dimensions.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>xxx</p>
+ <p>Yesterday we had a discussion about a way of reframing the <span class="_quotespan"><span class="_paradirm">RADICAL</span><span>.</p>
 
  <div class="_center">
   <img
