@@ -323,7 +323,7 @@ table._background tr ul, ul li p:last-of-type {
   content:"— “";
 }
 ._speakerac::before, ._speakerbc::before {
-  content:"”";
+  content:"“";
 }
 ._speakera::after, ._speakerac::after,
 ._speakerb::after, ._speakerbc::after,
