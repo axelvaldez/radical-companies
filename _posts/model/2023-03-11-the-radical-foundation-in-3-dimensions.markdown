@@ -12,7 +12,7 @@ image:    "icon-the-radical-foundation-in-3-dimensions.svg"
 
 <h1>&nbsp;</h1>
  <p>Yesterday we had a discussion about a way of reframing the <span class="_quotespan"><span class="_paradirm">RADICAL</span> model</span>. After having slept over it, my conclusion is that the <span class="_paradirm">RADICAL</span> model as is is a general thing around which many other <span class="_quotespan">framings</span> will be come up.</p>
- <p>Nevertheless, after sleeping over it, I woke up with a clear image of a building where the words Meaning and Belonging formed a plane as the &lsquo;roof&rsquo; and Decentralization and Transparency form another plane as the &lsquo;floor,.&rsquo; and the words Experimentation holding up the roof.</p>
+ <p>Nevertheless, after sleeping over it, I woke up with an image of a building where the words Meaning and Belonging formed a plane as the &lsquo;roof&rsquo; and Decentralization and Transparency form another plane as the &lsquo;floor,.&rsquo; and the words Experimentation holding up the roof.</p>
  <div class="_center">
   <img
    src="/assets/img/pic-the-radical-foundation-in-3-dimentions.svg"
