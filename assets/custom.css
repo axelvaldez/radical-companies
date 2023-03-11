@@ -303,9 +303,11 @@ table._background tr ul, ul li p:last-of-type {
 /*
  * dialog: begin
  */
-._speakera, ._speakerac,
-._speakerb, ._speakerbc,
 ._quotespan {
+  font-style:italic;
+}
+._speakera, ._speakerac,
+._speakerb, ._speakerbc {
   font-style:italic;
   /*
   font-family:'Courier New';
@@ -322,7 +324,10 @@ table._background tr ul, ul li p:last-of-type {
 ._speakera::before, ._speakerb::before {
   content:"— “";
 }
-._speakerac::before, ._speakerbc::before {
+._quotespan {
+  font-style:italic;
+}
+._speakerac::before, ._speakerbc::before, ._quotespan::before {
   content:"“";
 }
 ._speakera::after, ._speakerac::after,
