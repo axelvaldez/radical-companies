@@ -21,6 +21,6 @@ image:    "icon-the-radical-foundation-in-3-dimensions.svg"
  </div>
 
 <h1>Explicit Alignment</h1>
- <p>I am not sure where Explicit Alignment goes. At first I thought it would be the floors os the house, between the ground floor and to the roof, but that doesn&rsquo;t seem to be right. that In any case, they go inside each &rsquo;house.&rsquo;
+ <p>I am not sure where Explicit Alignment goes. At first I thought it would be the floors os the house, between the ground floor and to the roof, but that doesn&rsquo;t seem to be right. No matter, Explicit Alignment goes <em>inside</em> each &rsquo;house.&rsquo;
 
 {% include related.html %}
