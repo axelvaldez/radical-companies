@@ -13,4 +13,11 @@ image:    "icon-the-foundation-in-3-dimensions.svg"
 <h1>&nbsp;</h1>
  <p>xxx</p>
 
+ <div class="_center">
+  <img
+   src="/assets/img/pic--the-foundation-in-3-dimensions.svg"
+   width="100%"
+   alt="">
+ </div>
+
 {% include related.html %}
