@@ -73,7 +73,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">Well, look, I am always a&hellip;</div>
  <div class="_speakerb">I&lsquo;ve been a boss longer than you have, and that statement screams &rsquo;boss&lsquo; to me. We cannot afford to create obstacles for people to join the team and creating a &rsquo;solid Mission&lsquo; is creating an obstacle. Many people will ignore it because they want to work with you, they want to learn from you. But it is an obstacle that get bigger and bigger over time, until they quit to get away from it or submit to it and we all lose.</div>
 
-<h1>Trust Agreements</h1>
+<h1>Trust Relationship</h1>
  <p>They had talked about what Th&uacute;y knew about Trust Relationship, and they were now working through one they found online. They would then be ready to ask future potential <span class="_paradigm">rHEALTH</span> to go through it, add their piece, and modifiy as needed.</div>
  <div class="_speakera">I am still not clear on what co-owned company is.</div>
  <div class="_speakerb">It is a company that is not owned by anybody in particular. It is owned by the peope who contribute to it.</div>
@@ -112,5 +112,43 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_commentary">David laughed full throat. And, suddenly, he stopped laughing and looked down for a bit. Finally, he looked up, and said,</div>
  <div class="_speakera">This is going to change everything.</div>
  <div class="_speakerb">If they don&rsquo;t throw us in jail to rot first.</div>
+
+<h1>But What About&hellip;</h1>
+toxic colleague
+1. The Bully: This type of toxic colleague is aggressive and has firecracker responses. They are blunt, sarcastic or intimidating. They may make fun of your work or ideas, or belittle you in front of others.
+2. The Gossip Mongers: This colleague’s only claim to fame is by talking about people behind their back. They may try to create drama and sow discord among team members.
+3. The Underminer: This toxic colleague undermines your work and efforts, often in subtle ways. They may take credit for your work, sabotage your projects, or minimise your contributions.
+4. The Dramatic: This toxic colleague thrives on attention and drama. They may overreact to small issues, make a big deal out of minor mistakes, or create chaos and confusion.
+5. The Slacker: This colleague doesn't pull their weight and expects others to pick up the slack. They may miss deadlines, skip out on responsibilities, or refuse to contribute to group projects.
+6. The Micromanager: This colleague is overly controlling, interfering and doesn't trust anyone else. They may constantly check in, pathologically follow-up, find fault, or interfere with your projects.
+dealing with toxic colleagues can be challenging, but it's not impossible. 
+don’t feed into the toxicity.
+Don’t give it too much attention,
+don’t take it personally,
+don’t over react,
+don’t engage (only the bare minimum is enough).
+
+<h1>Myths</h1>
+#SteveJobs almost prevented the #iPhone from being created. And contrary to popular myth, the iPhone was NOT Steve Job's brainchild.
+Apple had done a massive turnaround with the iPOD. But by 2007, iPod was going to be disrupted, by mobile phones like Nokia 5310 that could play music. And iPods were almost half of Apple's revenue.
+Tony Fadell, the designer behind the first iPhones said “We had the music player doing video and audio and photo. We had iTunes. Then futurephones came out. They started playing MP3. This is a holy shit moment. Phones could steal everything we were doing. What could we do to counter this? "
+But Jobs was against building phones for two reasons.
+One, Steve Jobs did not want to go through the orifices to get to the end users. By orifices, he meant carriers like Verizon and AT&T, which had final say over which phones could access their networks.
+Second, Jobs wasn’t convinced that the emerging smartphone category was going to be a wide market. He believed it would not go beyond the “pocket protector” crowd aka nerds.
+So instead they decided to partner with Motorola to create the iTunes phone - The Moto ROKR E1. And it bombed!
+Steve was still not convinced about building a phone. But his team was. And unknown to even Steve, the team started building the iPhone.
+They gutted an iPod, added Wifi and got the internet to run on the IPod. Steve's reaction " This is bullsh**". Steve didn't really see the path to success.
+However two Apple veterans, Mike Bell and Steve Sakoman, continued to lobby with Steve Jobs for months. They were convinced that computers, music players and cell phones were heading towards an inevitable convergence.
+On November 7, 2004, Bell sent an email to Jobs - "Steve, I know you don't want to do a phone. But here's why we should do it. Jony Ives has some really cool designs for the future iPods that no one has seen. We ought to take one of those, put some Apple software around it, and make a phone ourselves instead of putting our stuff on other people's phone.
+Jobs called him right away and debated for hours. Finally he relented and agreed to build a phone.
+- - -
+There are three key lessons in this story here :
+1. The lone inventor myth. Far too often, we believe its one single person's will that forged a great product, often forgetting that countless incredible nameless people that work behind the scenes making some of the worlds best product.
+2. Even visionaries always don't have the best vision of the future. But a great team can probably help see the future better.
+3. It takes a lot of lobbying and story selling to get people to buy into your narrative. Far too often I see people give up just having pitched their idea barely a few times. It sometimes takes months, even years to sell a game changing story.
+
+<h1>Mars</h1>
+ “I don’t want to say that Mars has an inviolable hold over the public,” Byrne says, “but it kind of does.”
+
 
 {% include related.html %}
