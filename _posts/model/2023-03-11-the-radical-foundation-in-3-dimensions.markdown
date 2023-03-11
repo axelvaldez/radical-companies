@@ -3,7 +3,7 @@ layout:   post
 title:    "The Foundation in 3 Dimensions"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-the-foundation-in-3-dimensions.svg"
+image:    "icon-the-radical-foundation-in-3-dimensions.svg"
 ---
 
 <div style="display:none;">
@@ -15,7 +15,7 @@ image:    "icon-the-foundation-in-3-dimensions.svg"
 
  <div class="_center">
   <img
-   src="/assets/img/pic--the-foundation-in-3-dimensions.svg"
+   src="/assets/img/pic-the-radical-foundation-in-3-dimensions.svg"
    width="100%"
    alt="">
  </div>
