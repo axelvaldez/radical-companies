@@ -59,7 +59,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">Creating a co-owned company is a strategy, but it is not magic. It depends on our results. Will they be accepted, embraced? In the end, we may not be that fine-anne-shelly successfully, but that is the risk people always take when they start a business.</div>
  <div class="_speakera">A &lsquo;company,&rsquo; right?</div>
  <div class="_speakerb">What?&hellip;</div>
- <div class="_speakera">You meant say a &lsquo;company,&rsquo;, not a &lsquo;bus&hellip;</div>
+ <div class="_speakera">You meant to say a &lsquo;company,&rsquo; not a &lsquo;bus&hellip;</div>
  <div class="_speakerb">&hellip; Right! Hey, you are good at this.</div>
  <div class="_speakera">As I have said before, what I know doesn&rsquo;t stand a chance when it meets what I&rsquo;ve learned.</div>
 
