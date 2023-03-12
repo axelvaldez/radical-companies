@@ -49,5 +49,6 @@ image:    "icon-the-radical-foundation-in-3-dimensions.svg"
    width="70%"
    alt="The words MEANING and BELONGING form a plane at the top and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom. The word EXPERIEMENTAION sits in between them. Between roof and floor, there are five floor labeled PEOPLE, IMPACT, TECHNOLOGY, FINANCIAL, and LEGAL.">
  </div>
+ <p><span class="_paradigm">PEOPLE</span> seems to have elements of the roof in it. <span class="_paradigm">TECHNOLOGY</span>, <span class="_paradigm">FINANCIAL</span>, and <span class="_paradigm">LEGAL</span> are pratices that will change over time and as we gain experience with <span class="_paradigm">RADICAL</span>.
   
 {% include related.html %}
