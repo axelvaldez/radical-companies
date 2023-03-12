@@ -167,7 +167,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">But I am not afraid&hellip;</div>
  <div class="_speakera">Yet, you are letting your fears speak for you.</div>
  <div class="_commentary">He went quiet for a bit. Then he said,</div>
- <div class="_speakerb">I am going to talk to Anita about how to start a convesation without letting it turn into a fight.</div>
+ <div class="_speakerb">I think I am going to talk to Anita about how to start this convesation without letting it turn into a fight.</div>
  
  <h1>Myths</h1>
  <div class="_speakerb">Hey, Dave, what should we work on next.</div>
