@@ -191,22 +191,23 @@ image:    "icon-sparked-by-greed.svg"
 <h1>One More Time</h1>
  <p></p>
 
-<h1>xxx</h1>
+<h1>A Curnocopia for Health</h1>
+ <p>Compounds that would be used internally or just sit around were now out there. The all sacred margin was not as high priority as it had been. A lot of them were disclosed as Open Source. And at least two of them went into the development of drugs that would have never seen the light of day under the <span class="_paradigm">FIAT</span> regime.</p>
+ <p>There was no way to prove it, but the lack of secrecy made everybody more productive. At least, it had made them happier.</p>
+
+<h1></h1>
  <p></p>
 
-<h1>xxx</h1>
+<h1></h1>
  <p></p>
 
-<h1>xxx</h1>
+<h1></h1>
  <p></p>
 
-<h1>xxx</h1>
+<h1></h1>
  <p></p>
 
-<h1>xxx</h1>
- <p></p>
-
-<h1>xxx</h1>
+<h1></h1>
  <p></p>
 
 {% include related.html %}
