@@ -42,7 +42,7 @@ image:    "icon-the-radical-foundation-in-3-dimensions.svg"
 
 <h1>Many Houses</h1>
  <p>What the uncomfortable discussion made me see is that there may be many house based on the generic <span class="_paradirm">RADICAL</span> house.</p>
- <p>Jose came up with one, motivated by <span class="_paradigm">rCORE</span>,</p>
+ <p>One such &ldquo;house&rdquo; was motivated by <span class="_paradigm">rCORE</span>,</p>
  <div class="_center">
   <img
    src="/assets/img/pic-the-radical-foundation-in-3-dimentions-3.svg"
