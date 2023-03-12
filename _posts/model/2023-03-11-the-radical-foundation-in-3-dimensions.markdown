@@ -15,12 +15,17 @@ image:    "icon-the-radical-foundation-in-3-dimensions.svg"
  <p>Nevertheless, after sleeping over it, I woke up with an image of a building where the words Meaning and Belonging formed a plane as the &lsquo;roof&rsquo; and Decentralization and Transparency form another plane as the &lsquo;floor,.&rsquo; and the words Experimentation holding up the roof.</p>
  <div class="_center">
   <img
-   src="/assets/img/pic-the-radical-foundation-in-3-dimentions.svg"
+   src="/assets/img/pic-the-radical-foundation-in-3-dimentions-1.svg"
    width="70%"
    alt="The words MEANING and BELONGING form a plane at the top and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom. The word EXPERIEMENTAION sits in between them.">
  </div>
 
 <h1>Explicit Alignment</h1>
- <p>I am not sure where Explicit Alignment goes. At first I thought it would be the floors os the house, between the ground floor and to the roof, but that doesn&rsquo;t seem to be right. No matter, Explicit Alignment goes <em>inside</em> each &ldquo;house.&rdquo;
+ <p>Explicit Alignment goes <em>inside</em> each &ldquo;house.&rdquo;, as floors between the ground floor and to the roof.</p.
+  <img
+   src="/assets/img/pic-the-radical-foundation-in-3-dimentions-2.svg"
+   width="70%"
+   alt="The words MEANING and BELONGING form a plane at the top and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom. The word EXPERIEMENTAION sits in between them. Also in between roof and floor, Explicit Alignment are the three floors between roof and floor.">
+ </div>
 
 {% include related.html %}
