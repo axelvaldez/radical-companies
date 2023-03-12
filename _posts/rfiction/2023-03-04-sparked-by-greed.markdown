@@ -147,6 +147,9 @@ image:    "icon-sparked-by-greed.svg"
  <p>Not having to maintain a veil secrecy, took a huge weight off our shoulders. There was no way to prove it, but transparency made everybody more productive. And happier.</p>
 
 <h1>But What About&hellip;</h1>
+ <div class="_commentary">Fear has us.</div>
+ <div class="_quotespan">I am tired of being afraid, seeing how the FIAT model works has exposed the fears and has made all the difference.</div>
+ <div class="_commentary">Well, that may be the beginning, not it is nowhere near the end of the hold that fear has on us. That became obvious over time as people asked "but what about&hellip;<span class="_quotatespan">questions.</span></div>
 <p>toxic colleague,</p>
  <ol>
   <li>The Bully: This type of toxic colleague is aggressive and has firecracker responses. They are blunt, sarcastic or intimidating. They may make fun of your work or ideas, or belittle you in front of others.</li>
