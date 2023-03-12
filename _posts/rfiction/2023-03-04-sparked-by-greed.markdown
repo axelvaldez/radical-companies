@@ -142,6 +142,8 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">I hope you won&rsquo;t raised your voice at me like when you worked here.</div>
  <div class="_speakera">I hope I won&rsquo;t.</div>
 
+<h1></h1>
+
 <h1>But What About&hellip;</h1>
 toxic colleague
 1. The Bully: This type of toxic colleague is aggressive and has firecracker responses. They are blunt, sarcastic or intimidating. They may make fun of your work or ideas, or belittle you in front of others.
