@@ -157,7 +157,7 @@ There are three key lessons in this story here :
  <p></p>
 
 <h1>A Spy</h1>
- <p>Someone brings itself out as a spy.</p>
+ <p>Someone comes out as a spy.</p>
 
 <h1>Anne Does Well</h1>
  <p>Financial success.</p>
