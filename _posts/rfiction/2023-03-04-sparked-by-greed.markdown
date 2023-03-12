@@ -164,9 +164,10 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">There are many people who can give you some tips&hellip;</div>
  <div class="_speakerb">Yes, you are right. Ask. Learn. Shit, this is so simple and we make things so complicated&hellip;</div>
  <div class="_speakera">That is what we learned to do, make things very complicated. And fear hides behind those complications.</div>
- <div class="_speakerb">No, I am not afraid&hellip;</div>
+ <div class="_speakerb">But I am not afraid&hellip;</div>
  <div class="_speakera">Yet, you are letting your fears speak for you.</div>
- <div class="_speakerb">No, that is not&hellip; I am going to talk to Anita about how to start a convesation without letting it turn into a fight.</div>
+ <div class="_commentary">Dave was quiet for a bit.</div>
+ <div class="_speakerb">I am going to talk to Anita about how to start a convesation without letting it turn into a fight.</div>
  <div class="_speakera">OK. See ya.</div>
  
  <h1>Myths</h1>
