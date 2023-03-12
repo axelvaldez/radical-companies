@@ -173,14 +173,15 @@ image:    "icon-sparked-by-greed.svg"
  <p>On November 7, 2004, Bell sent an email to Jobs - "Steve, I know you don't want to do a phone. But here's why we should do it. Jony Ives has some really cool designs for the future iPods that no one has seen. We ought to take one of those, put some Apple software around it, and make a phone ourselves instead of putting our stuff on other people's phone.</p>
  <p>Jobs called him right away and debated for hours. Finally he relented and agreed to build a phone.</p>
 - - -
- <p>There are three key lessons in this story here :</p>
+ <p>There are three key lessons in this story,xxx</p>
   <ol>
-   <li>1. The lone inventor myth. Far too often, we believe its one single person's will that forged a great product, often forgetting that countless incredible nameless people that work behind the scenes making some of the worlds best product.</li>
+   <li>The lone inventor myth. Far too often, we believe its one single person's will that forged a great product, often forgetting that countless incredible nameless people that work behind the scenes making some of the worlds best product.</li>
    <li>Even visionaries always don't have the best vision of the future. But a great team can probably help see the future better.</li>
    <li>It takes a lot of lobbying and story selling to get people to buy into your narrative. Far too often I see people give up just having pitched their idea barely a few times. It sometimes takes months, even years to sell a game changing story.</li>
   <ol>
 
 <h1>Mars</h1>
+ <p>xxx</p>
  <p>“I don’t want to say that Mars has an inviolable hold over the public,” Byrne says, “but it kind of does.”</p>
 
 <h1>A Spy</h1>
