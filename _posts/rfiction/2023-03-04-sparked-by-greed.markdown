@@ -161,7 +161,7 @@ image:    "icon-sparked-by-greed.svg"
 
 <h1>A Real Curnocopia for Health</h1>
  <p>Because the all-sacred-margin was not as high priority as it had been, compounds that would be used internally or just sit around were now out there in the world. A lot of them were disclosed even as Open Source. And at least two of them went into the development of drugs that would have never seen the light of day under the <span class="_paradigm">FIAT</span> regime.</p>
- <p>Not having to maintain a veil secrecy, took a huge weight off our shoulder. There was no way to prove it, but the transparence made everybody more productive. And happier.</p>
+ <p>Not having to maintain a veil secrecy, took a huge weight off our shoulders. There was no way to prove it, but the transparence made everybody more productive. And happier.</p>
 
 <h1>Myths</h1>
  <p>SteveJobs almost prevented the #iPhone from being created. And contrary to popular myth, the iPhone was NOT Steve Job's brainchild.</p>
