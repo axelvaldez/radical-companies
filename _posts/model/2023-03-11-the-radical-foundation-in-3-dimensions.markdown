@@ -28,6 +28,11 @@ image:    "icon-the-radical-foundation-in-3-dimensions.svg"
    width="70%"
    alt="The words MEANING and BELONGING form a plane at the top and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom. The word EXPERIEMENTAION sits in between them. Also in between roof and floor, Explicit Alignment are the three floors between roof and floor.">
  </div>
+  <ul>
+   <li>There is one Impact.</li>
+   <li>Although there is one Purpose at a time, it may change.</li>
+   <li>There are many Missions, one after another and many in parallel.</li>
+  </ul>
  <p>Everything else is a Practice,</p>
   <ul>
    <li><span class="_paradigm">RAD</span>s! mobiel app</li>
