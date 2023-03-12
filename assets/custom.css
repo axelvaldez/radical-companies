@@ -309,9 +309,6 @@ table._background tr ul, ul li p:last-of-type {
 ._speakera, ._speakerac,
 ._speakerb, ._speakerbc {
   font-style:italic;
-  /*
-  font-family:'Courier New';
-  */
   padding-left:2.2em;
   margin-bottom:5px;
 }
@@ -335,7 +332,11 @@ table._background tr ul, ul li p:last-of-type {
 ._quotespan::after {
   content:"”";
 }
+p {
+  padding-left:1.1em;
+}
 ._commentary {
+  padding-left:1.1em;
   margin-bottom:3px;
 }
 /*
