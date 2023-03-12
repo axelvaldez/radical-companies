@@ -149,7 +149,7 @@ image:    "icon-sparked-by-greed.svg"
 <h1>But What About&hellip;</h1>
  <div class="_commentary">Fear has us.</div>
  <div class="_quotespan">I am tired of being afraid, seeing how the FIAT model works has exposed the fears and has made all the difference.</div>
- <div class="_commentary">Well, that may be the beginning, not it is nowhere near the end of the hold that fear has on us. That became obvious over time as people asked <span class="_quotatespan">but what about&hellip;</span> questions about, say, toxic colleages&hellip;</span></div>
+ <div class="_commentary">Well, that may be the beginning, not it is nowhere near the end of the hold that fear has on us. That became obvious over time as people asked but what about, say, toxic colleages&hellip;</div>
  <p></p>
  <div class="_speakerb">How are we going to deal with bullies, underminders, and slackers. What about goosip mongers and the over-controlling colleages. Are they going to be co-owners, too?</div>
  <div class="_speakera">Well, if they contribute and somebody acknowledges their contribution, then they get <span class="_paradigm">RAD</span>s and they are co-owners.</div>
