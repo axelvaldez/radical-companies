@@ -113,6 +113,35 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">This is going to change everything.</div>
  <div class="_speakerb">If they don&rsquo;t throw us in jail to rot first.</div>
 
+<h1>They Came</h1>
+ <p>Recruiting</p>
+ <p>People start to show up for David. Surprisingly, some don't want to do through the Relationship Storeys: too woo-woo for them. The more junior, the more excited. Three joing reluctantly.</p>
+ <p>They worry about Th&uacute;y and nepotism.</p>
+ <div class="_speakera">What about Th&uacute;y?</div>
+ <div class="_speakerb">Well, she is your wife and will side with you more often than not.</div>
+ <div class="_speakera">You are married, right?&hellip;</div>
+ <div class="_speakerb">Not only that, she'll be deciding on salaries and bonus and stuff and she would have an ax to gring when it comes to you.</div>
+ <div class="_speakera">Bruno, you are very smart. Think. Salaries and anything to do with money is based on <span class="_paradigm">RAD</span>s, right? And who gives me <span class="_paradigm">RAD</span>s? She does, but you guys do. If I get more than anybody else one month it must be because I did something really good&hellip; Right?</div>
+ <div class="_speakerac">Besides, it is all out in the open and if there&rsquo;s some hanky panky, you will bring it up, right?</div>
+ <div class="_speakerb">Yes. I get it in my head, but it is hard to shake the concerns&hellip;</div>
+ <div class="_speakera">Then don&rsquo;t. Just be open to their being fears that don&rsquo;t play here.</div>
+ <div class="_speakerb">And bonuses, too. I get it.</div>
+ <div class="_speakera">Well, they are not &rsquo;bonuses&lsquo;, you&rsquo;ve earned them. You contributed, people acknowledged those contributions, and you get Earned Dividends. The kind of stuff that <span class="_paradigm">FIAT</span> owners put in their pockets in <span class="_me">normal</span> business.</div>
+
+<h1>Surprise</h1>
+ <p>The most surprising thing was when, Siri wanted to talk. I assume that it was to gloat about something that she had found or to deliver and not-so-veiled threat. But, no, Siri wanted to join us. And I literally fell off my chair.</p>
+ <div class="_speakera">Siri, to be honest, I am suprised, but, please, come by.</div>
+ <div class="_speakerb">Well, it is not that easy for me. I don't want to be seen showing up at your place.</div>
+ <div class="_speakera">There is no need. We can do it online.</div>
+ <div class="_speakerb">It would have to be early. I don&rsquo;t want to take the day off.</div>
+ <div class="_speakera">I may not be it, but you can go through the whole thing with one of the other folks.</div>
+ <div class="_speakerb">Wait&hellip; Are you dissing me?</div>
+ <div class="_speakera">No, Siri I am not dissing you. Would you like me to explain?</div>
+ <div class="_speakerb">Look, Davey, I am not desperate or anything. I just want to talk to see if everything I hear is true and it was to come from you, because you are the big guy.</div>
+ <div class="_speakera">Let&rsquo;s do this, I will go through the whole thing with you and then you can decide what to do.</div>
+ <div class="_speakerb">I hope you won&rsquo;t raised your voice at me like when you worked here.</div>
+ <div class="_speakera">I hope I won&rsquo;t.</div>
+
 <h1>But What About&hellip;</h1>
 toxic colleague
 1. The Bully: This type of toxic colleague is aggressive and has firecracker responses. They are blunt, sarcastic or intimidating. They may make fun of your work or ideas, or belittle you in front of others.
@@ -149,9 +178,6 @@ There are three key lessons in this story here :
 
 <h1>Mars</h1>
  “I don’t want to say that Mars has an inviolable hold over the public,” Byrne says, “but it kind of does.”
-
-<h1>They Came</h1>
- <p>Recruiting</p>
 
 <h1>One More Time</h1>
  <p></p>
