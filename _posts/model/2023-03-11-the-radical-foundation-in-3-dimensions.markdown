@@ -47,7 +47,7 @@ image:    "icon-the-radical-foundation-in-3-dimensions.svg"
   <img
    src="/assets/img/pic-the-radical-foundation-in-3-dimensions-3.svg"
    width="70%"
-   alt="The words MEANING and BELONGING form a plane at the top and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom. The word EXPERIEMENTAION sits in between them. Also in between roof and floor, Explicit Alignment are the three floors between roof and floor.">
+   alt="The words MEANING and BELONGING form a plane at the top and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom. The word EXPERIEMENTAION sits in between them. Between roof and floor, there are five floor labeled PEOPLE, IMPACT, TECHNOLOGY, FINANCIAL, and LEGAL.">
  </div>
   
 {% include related.html %}
