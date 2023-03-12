@@ -52,11 +52,13 @@ image:    "icon-the-radical-foundation-in-3-dimensions.svg"
  <p><span class="_paradigm">PEOPLE</span> seems to have elements of the roof in it. <span class="_paradigm">TECHNOLOGY</span>, <span class="_paradigm">FINANCIAL</span>, and <span class="_paradigm">LEGAL</span> are pratices that will change over time and as we gain experience with <span class="_paradigm">RADICAL</span>. But so be it, this is the kind of thing that we&rsquo;ll have to work through.</p>
 
 <h1>The <span class="_paradigm">rCORE</span> House</h1>
- <p>The alternative to what proposed <span class="_paradigm">rCORE</span> house is this one,</p>
+ <p>Alternatively, the <span class="_paradigm">rCORE</span> house clould be like this,</p>
  <div class="_center">
   <img
    src="/assets/img/pic-the-radical-foundation-in-3-dimentions-4.svg"
    width="70%"
    alt="The words MEANING and BELONGING form a plane at the top, the roff, and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom, the basemant floor. The word EXPERIEMENTAION sits in between them. Between roof and floor, there are three floors labeled IMPACT, PURPOSE, and MISSION, as before, but this time with list of PRACTICES attached to each.">
  </div>
+ <p>The <span class="_paradigm">RADICAL</span> &ldquo;framing&rdquo; provides the basic &ldquo;structure&rdquo; and what changes is the Practices,</p>
+
 {% include related.html %}
