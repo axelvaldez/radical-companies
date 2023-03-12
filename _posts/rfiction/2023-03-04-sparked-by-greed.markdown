@@ -146,7 +146,7 @@ image:    "icon-sparked-by-greed.svg"
  <p>Because the all-sacred-margin was not as high priority as it had been, compounds that would be used internally or just sit around were now out there in the world. A lot of them were disclosed even as Open Source. And at least two of them went into the development of drugs that would have never seen the light of day under the <span class="_paradigm">FIAT</span> regime.</p>
  <p>Not having to maintain a veil secrecy, took a huge weight off our shoulders. There was no way to prove it, but transparency made everybody more productive. And happier.</p>
 
-<h1>But What About&hellip;</h1>
+<h1>Fears</h1>
  <div class="_commentary">Fear has us.</div>
  <div class="_quotespan">I am tired of being afraid, seeing how the FIAT model works has exposed the fears and has made all the difference.</div>
  <div class="_commentary">Well, that may be the beginning, but it is not the end of the hold that fear has on us. That became obvious over time as people expressed many of their fears, including toxic colleages&hellip;</div>
@@ -169,7 +169,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_commentary">He went quiet for a bit. Then he said,</div>
  <div class="_speakerb">I think I am going to talk to Anita about how to start this convesation without letting it turn into a fight.</div>
  
- <h1>Myths</h1>
+<h1>Myths</h1>
  <div class="_speakerb">Hey, Dave, what should we work on next?</div>
  <div class="_speakera">I have no idea.</div>
  <div class="_speakerb">Well, you are the main inventor here and we were hoping you spilled some of your secret sauce on us.</div>
@@ -184,9 +184,8 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">It is a myth, isn&rsquo;t it? The whole thing about the lead inventor and all that. But we are so used to it&hellip; And we compete for it by not pointing out the weaknesses or what can be done better, easier.</div>
  <div class="_speakerb">Here we can, but we keep on going back to our&hellip; our&hellip;</div>
  <div class="_speakera">Fears?</div>
-
-<h1>Mars</h1>
- <p>“I don’t want to say that [] has an inviolable hold over the public,” Byrne says, “but it kind of does.”</p>
+ <div class="_speakerb">Yes. I don&rsquo;t want to say that they have an inviolable hold over us, but they kind of do.</div>
+ <div class="_speakera">Look at your fears. Rather than saying that you are not afraid of anything, look for the fear that is hiding behind that. If you can&rsquo;t do it by yourself, get other people to help you. Don&rsquo;t give in to the "I can do it by myself" fear. Seek the love other have to give you.</div>
 
 <h1>A Spy</h1>
  <p>Someone comes out as a spy.</p>
