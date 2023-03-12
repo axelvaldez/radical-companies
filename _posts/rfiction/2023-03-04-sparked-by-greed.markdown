@@ -166,9 +166,8 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">That is what we learned to do, make things very complicated. And fear hides behind those complications.</div>
  <div class="_speakerb">But I am not afraid&hellip;</div>
  <div class="_speakera">Yet, you are letting your fears speak for you.</div>
- <div class="_commentary">Dave was quiet for a bit.</div>
+ <div class="_commentary">He went quiet for a bit. Then he said,</div>
  <div class="_speakerb">I am going to talk to Anita about how to start a convesation without letting it turn into a fight.</div>
- <div class="_speakera">OK. See ya.</div>
  
  <h1>Myths</h1>
  <p>SteveJobs almost prevented the #iPhone from being created. And contrary to popular myth, the iPhone was NOT Steve Job's brainchild.</p>
