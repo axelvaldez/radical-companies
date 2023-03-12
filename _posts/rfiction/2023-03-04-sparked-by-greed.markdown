@@ -137,7 +137,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">I may not be it, but you can go through the whole thing with one of the other folks.</div>
  <div class="_speakerb">Wait&hellip; Are you dissing me?</div>
  <div class="_speakera">No, Siri I am not dissing you. Would you like me to explain?</div>
- <div class="_speakerb">Look, Davey, I am not desperate or anything. I just want to talk to see if everything I hear is true and it was to come from you, because you are the big guy.</div>
+ <div class="_speakerb">Look, Davey, I am not desperate or anything. I just want to talk to see if everything I hear is true and it had to come from you, because you are the big guy.</div>
  <div class="_speakera">Let&rsquo;s do this, I will go through the whole thing with you and then you can decide what to do.</div>
  <div class="_speakerb">I hope you won&rsquo;t raised your voice at me like when you worked here.</div>
  <div class="_speakera">I hope I won&rsquo;t.</div>
