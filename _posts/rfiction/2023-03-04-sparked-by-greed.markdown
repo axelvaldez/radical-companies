@@ -142,8 +142,6 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">I hope you won&rsquo;t raised your voice at me like when you worked here.</div>
  <div class="_speakera">I hope I won&rsquo;t.</div>
 
-<h1></h1>
-
 <h1>But What About&hellip;</h1>
 <p>toxic colleague,</p>
  <ol>
@@ -183,7 +181,7 @@ image:    "icon-sparked-by-greed.svg"
   <ol>
 
 <h1>Mars</h1>
- “I don’t want to say that Mars has an inviolable hold over the public,” Byrne says, “but it kind of does.”
+ <p>“I don’t want to say that Mars has an inviolable hold over the public,” Byrne says, “but it kind of does.”</p>
 
 <h1>A Spy</h1>
  <p>Someone comes out as a spy.</p>
