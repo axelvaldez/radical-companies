@@ -188,10 +188,17 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">Look at your fears. Rather than saying that you are not afraid of anything, look for the fear that is hiding behind that. If you can&rsquo;t do it by yourself, get other people to help you. Don&rsquo;t give in to the <span class="_quotespan">I can do it by myself</span> fear. Seek others to learn from and to help you. Be open to the receive love from people you dont know.</div>
 
 <h1>A Spy</h1>
- <p>Someone comes out as a spy.</p>
-
-<h1>Anne Does Well</h1>
- <p>Financial success.</p>
+ <p>Zuri, ust wrote an email coming out as a spy. She send it to everybody. It ended with, <span class="_quotespan">Are there other spies reading this?</span> Then she send another email, <span class="_quotespan">I didn&rsquo;t mean to imply that any of you are a spy. I just wanted to encourage potentially others to come out.</span></p>
+ <div class="_commentary">The emails were remarkable in one way, and non-remarkable in many other ways.</div>
+ <div class="_skeakerb">Why would you need to be a spy when everything is out in the open?</div>
+ <div class="_skeakera">Because people suspected that this was more of a cult and it wasn&rsquo;t as sunny as all that. As it turned out, there was nothing to report other than what they new and what they could see.</div>
+ <div class="_skeakerac">By the way, this started right after Siri left. They thought they had golden cuffs on her, but she left. And she seemed happy. Even came up to tell us why. She reported that she found David as ponpous as always, but it didn&rsquo;t matter because he could get in her way and stop her as he had done before. He was a co-owner, she was a co-owner, they listened to each other, and then you made a decision and anybody followed you went ahead, but if nobody followed and you went ahead, maybe you were the pompous ass.< </div>
+ <div class="_skeakerb">So, were there other spies?</div>
+ <div class="_skeakera">Not really. A couple of people had something like that in mind, but they stayed because of what they found here.</div>
+ 
+<h1>Anne Shelly Does Fine</h1>
+ <p>Against all expectations, <span class="_paradigm">rHEALTH</span> did financially well. At one point, <span class="_paradigm">BANNERS</span> started to show up for investing in new companies. Th&uacute;y and Delta, the other financial person in the company, did a lot of workshops to teach would be founders. Many of them stayed Ensembled with <span class="_paradigm">rHEALTH</span> because they did related work, but a few others went on their own, including one that went into space. Not making rockets or any such, but they wanted to make sure that people going to space could stay healthy out in space and back on Earth. You&rsquo;d think it&rsquo;d be similar, but the science was different enough.</p>
+ <p>The amazing point is that people were investing in other <span class="_paradigm">RADICAL</span> companies. People had gotten perspective on capital accumulation and investing became easy. They didn&rsquo;t want to accumulate capital, they wanted to be part of creating things for all people.</p>
 
 <h1>One More Time</h1>
  <p></p>
