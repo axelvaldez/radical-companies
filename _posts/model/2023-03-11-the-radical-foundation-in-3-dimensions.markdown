@@ -53,4 +53,10 @@ image:    "icon-the-radical-foundation-in-3-dimensions.svg"
 
 <h1>The <span class="_paradigm">rCORE</span> House</h1>
  <p>The alternative to what proposed <span class="_paradigm">rCORE</span> house is this one,</p>
+ <div class="_center">
+  <img
+   src="/assets/img/pic-the-radical-foundation-in-3-dimentions-4.svg"
+   width="70%"
+   alt="The words MEANING and BELONGING form a plane at the top, the roff, and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom, the basemant floor. The word EXPERIEMENTAION sits in between them. Between roof and floor, there are three floors labeled IMPACT, PURPOSE, and MISSION, as before, but this time with list of PRACTICES attached to each.">
+ </div>
 {% include related.html %}
