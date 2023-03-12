@@ -193,7 +193,9 @@ image:    "icon-sparked-by-greed.svg"
  <p>They gutted an iPod, added Wifi and got the internet to run on the IPod. Steve's reaction " This is bullsh**". Steve didn't really see the path to success.</p>
  <p>However two Apple veterans,</p>
  <p>Mike</p>
- <p>Bell and Steve Sakoman, continued to lobby with Steve Jobs for months. They were convinced that computers, music players and cell phones were heading towards an inevitable convergence.</p>
+ <p>aBell and</p>
+ <p>Steve</p>
+ <p>Skoman, continued to lobby with Steve Jobs for months. They were convinced that computers, music players and cell phones were heading towards an inevitable convergence.</p>
  <p>On November 7, 2004, Bell sent an email to Jobs - "Steve, I know you don't want to do a phone. But here's why we should do it. Jony Ives has some really cool designs for the future iPods that no one has seen. We ought to take one of those, put some Apple software around it, and make a phone ourselves instead of putting our stuff on other people's phone.</p>
  <p>Jobs called him right away and debated for hours. Finally he relented and agreed to build a phone.</p>
  <p>There are three key lessons in this story,</p>
