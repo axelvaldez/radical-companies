@@ -15,7 +15,7 @@ image:    "icon-the-radical-foundation-in-3-dimensions.svg"
  <p>Nevertheless, after sleeping over it, I woke up with an image of a building where the words Meaning and Belonging formed a plane as the &lsquo;roof&rsquo; and Decentralization and Transparency form another plane as the &lsquo;floor,.&rsquo; and the words Experimentation holding up the roof.</p>
  <div class="_center">
   <img
-   src="/assets/img/pic-the-radical-foundation-in-3-dimensions-1.svg"
+   src="/assets/img/pic-the-radical-foundation-in-3-dimentions-1.svg"
    width="70%"
    alt="The words MEANING and BELONGING form a plane at the top and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom. The word EXPERIEMENTAION sits in between them.">
  </div>
@@ -24,7 +24,7 @@ image:    "icon-the-radical-foundation-in-3-dimensions.svg"
  <p>Explicit Alignment goes <em>inside</em> each &ldquo;house.&rdquo;, as floors between the ground floor and to the roof.</p>
  <div class="_center">
   <img
-   src="/assets/img/pic-the-radical-foundation-in-3-dimensions-2.svg"
+   src="/assets/img/pic-the-radical-foundation-in-3-dimentions-2.svg"
    width="70%"
    alt="The words MEANING and BELONGING form a plane at the top and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom. The word EXPERIEMENTAION sits in between them. Also in between roof and floor, Explicit Alignment are the three floors between roof and floor.">
  </div>
@@ -45,7 +45,7 @@ image:    "icon-the-radical-foundation-in-3-dimensions.svg"
  <p>Jose came up with one, motivated by <span class="_paradigm">rCORE</span>,</p>
  <div class="_center">
   <img
-   src="/assets/img/pic-the-radical-foundation-in-3-dimensions-3.svg"
+   src="/assets/img/pic-the-radical-foundation-in-3-dimentions-3.svg"
    width="70%"
    alt="The words MEANING and BELONGING form a plane at the top and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom. The word EXPERIEMENTAION sits in between them. Between roof and floor, there are five floor labeled PEOPLE, IMPACT, TECHNOLOGY, FINANCIAL, and LEGAL.">
  </div>
