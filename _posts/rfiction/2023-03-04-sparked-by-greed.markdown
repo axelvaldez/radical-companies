@@ -128,7 +128,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">And bonuses, too. I get it.</div>
  <div class="_speakera">Well, they are not &rsquo;bonuses&lsquo;, you&rsquo;ve earned them. You contributed, people acknowledged those contributions, and you get Earned Dividends. The kind of stuff that <span class="_paradigm">FIAT</span> owners put in their pockets in <span class="_me">normal</span> business.</div>
 
-<h1>Surprise</h1>
+<h1>And They Surprised</h1>
  <p>The most surprising thing was when, Siri wanted to talk. I assume that it was to gloat about something that she had found or to deliver and not-so-veiled threat. But, no, Siri wanted to join us. And I literally fell off my chair.</p>
  <div class="_speakera">Siri, to be honest, I am suprised, but, please, come by.</div>
  <div class="_speakerb">Well, it is not that easy for me. I don't want to be seen showing up at your place.</div>
