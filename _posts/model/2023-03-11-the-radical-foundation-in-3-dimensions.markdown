@@ -40,4 +40,14 @@ image:    "icon-the-radical-foundation-in-3-dimensions.svg"
    <li>etc.</li>
   </ul>
 
+<h1>Many Houses</h1>
+ <p>What the uncomfortable discussion made me see is that there may be many house based on the generic <span class="_paradirm">RADICAL</span> house.</p>
+ <p>Jose came up with one, motivated by <span class="_paradigm">rCORE</span>,</p>
+ <div class="_center">
+  <img
+   src="/assets/img/pic-the-radical-foundation-in-3-dimensions-3.svg"
+   width="70%"
+   alt="The words MEANING and BELONGING form a plane at the top and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom. The word EXPERIEMENTAION sits in between them. Also in between roof and floor, Explicit Alignment are the three floors between roof and floor.">
+ </div>
+  
 {% include related.html %}
