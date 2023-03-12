@@ -180,7 +180,7 @@ image:    "icon-sparked-by-greed.svg"
   </ol>
 
 <h1>Mars</h1>
- <p>“I don’t want to say that Mars has an inviolable hold over the public,” Byrne says, “but it kind of does.”</p>
+ <p>“I don’t want to say that [] has an inviolable hold over the public,” Byrne says, “but it kind of does.”</p>
 
 <h1>A Spy</h1>
  <p>Someone comes out as a spy.</p>
