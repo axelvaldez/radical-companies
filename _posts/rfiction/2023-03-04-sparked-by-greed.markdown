@@ -182,30 +182,9 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">But you implied it. When you said that I was the main inventor, you put yourself down as a lesser inventor. Then you said that you weren&rsquo;t as good when compared to me, you were were offering for me to tell you what to do to avoid responsibility.
 
  <p></p>
-
- <p>SteveJobs almost prevented the #iPhone from being created. And contrary to popular myth, the iPhone was NOT Steve Job's brainchild.</p>
- <p>Apple had done a massive turnaround with the iPOD. But by 2007, iPod was going to be disrupted, by mobile phones like Nokia 5310 that could play music. And iPods were almost half of Apple's revenue.</p>
  <p>Tony</p>
- <p>Fadell, the designer behind the first iPhones said “We had the music player doing video and audio and photo. We had iTunes. Then futurephones came out. They started playing MP3. This is a holy shit moment. Phones could steal everything we were doing. What could we do to counter this? "</p>
- <p>But Jobs was against building phones for two reasons.</p>
- <p>One, Steve Jobs did not want to go through the orifices to get to the end users. By orifices, he meant carriers like Verizon and AT&T, which had final say over which phones could access their networks.</p>
- <p>Second, Jobs wasn’t convinced that the emerging smartphone category was going to be a wide market. He believed it would not go beyond the “pocket protector” crowd aka nerds.</p>
- <p>So instead they decided to partner with Motorola to create the iTunes phone - The Moto ROKR E1. And it bombed!</p>
- <p>Steve was still not convinced about building a phone. But his team was. And unknown to even Steve, the team started building the iPhone.</p>
- <p>They gutted an iPod, added Wifi and got the internet to run on the IPod. Steve's reaction " This is bullsh**". Steve didn't really see the path to success.</p>
- <p>However two Apple veterans,</p>
  <p>Mike</p>
- <p>aBell and</p>
  <p>Steve</p>
- <p>Skoman, continued to lobby with Steve Jobs for months. They were convinced that computers, music players and cell phones were heading towards an inevitable convergence.</p>
- <p>On November 7, 2004, Bell sent an email to Jobs - "Steve, I know you don't want to do a phone. But here's why we should do it. Jony Ives has some really cool designs for the future iPods that no one has seen. We ought to take one of those, put some Apple software around it, and make a phone ourselves instead of putting our stuff on other people's phone.</p>
- <p>Jobs called him right away and debated for hours. Finally he relented and agreed to build a phone.</p>
- <p>There are three key lessons in this story,</p>
-  <ol>
-   <li>The lone inventor myth. Far too often, we believe its one single person's will that forged a great product, often forgetting that countless incredible nameless people that work behind the scenes making some of the worlds best product.</li>
-   <li>Even visionaries always don't have the best vision of the future. But a great team can probably help see the future better.</li>
-   <li>It takes a lot of lobbying and story selling to get people to buy into your narrative. Far too often I see people give up just having pitched their idea barely a few times. It sometimes takes months, even years to sell a game changing story.</li>
-  </ol>
 
 <h1>Mars</h1>
  <p>“I don’t want to say that [] has an inviolable hold over the public,” Byrne says, “but it kind of does.”</p>
