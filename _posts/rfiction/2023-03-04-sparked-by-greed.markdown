@@ -145,50 +145,54 @@ image:    "icon-sparked-by-greed.svg"
 <h1></h1>
 
 <h1>But What About&hellip;</h1>
-toxic colleague
-1. The Bully: This type of toxic colleague is aggressive and has firecracker responses. They are blunt, sarcastic or intimidating. They may make fun of your work or ideas, or belittle you in front of others.
-2. The Gossip Mongers: This colleague’s only claim to fame is by talking about people behind their back. They may try to create drama and sow discord among team members.
-3. The Underminer: This toxic colleague undermines your work and efforts, often in subtle ways. They may take credit for your work, sabotage your projects, or minimise your contributions.
-4. The Dramatic: This toxic colleague thrives on attention and drama. They may overreact to small issues, make a big deal out of minor mistakes, or create chaos and confusion.
-5. The Slacker: This colleague doesn't pull their weight and expects others to pick up the slack. They may miss deadlines, skip out on responsibilities, or refuse to contribute to group projects.
-6. The Micromanager: This colleague is overly controlling, interfering and doesn't trust anyone else. They may constantly check in, pathologically follow-up, find fault, or interfere with your projects.
-dealing with toxic colleagues can be challenging, but it's not impossible. 
-don’t feed into the toxicity.
-Don’t give it too much attention,
-don’t take it personally,
-don’t over react,
-don’t engage (only the bare minimum is enough).
+<p>toxic colleague,</p>
+ <ol>
+  <li>The Bully: This type of toxic colleague is aggressive and has firecracker responses. They are blunt, sarcastic or intimidating. They may make fun of your work or ideas, or belittle you in front of others.</li>
+  <li>The Gossip Mongers: This colleague’s only claim to fame is by talking about people behind their back. They may try to create drama and sow discord among team members.</li>
+  <li>The Underminer: This toxic colleague undermines your work and efforts, often in subtle ways. They may take credit for your work, sabotage your projects, or minimise your contributions.</li>
+  <li>The Dramatic: This toxic colleague thrives on attention and drama. They may overreact to small issues, make a big deal out of minor mistakes, or create chaos and confusion.</li>
+  <li>The Slacker: This colleague doesn't pull their weight and expects others to pick up the slack. They may miss deadlines, skip out on responsibilities, or refuse to contribute to group projects.</li>
+  <li>The Micromanager: This colleague is overly controlling, interfering and doesn't trust anyone else. They may constantly check in, pathologically follow-up, find fault, or interfere with your projects.</li>
+ </ol>
+ <p>dealing with toxic colleagues can be challenging, but it's not impossible.</p>
+ <p>don’t feed into the toxicity.</p>
+ <p>Don’t give it too much attention,</p>
+ <p>don’t take it personally,</p>
+ <p>don’t over react,</p>
+ <p>don’t engage (only the bare minimum is enough).</p>
 
 <h1>Myths</h1>
-#SteveJobs almost prevented the #iPhone from being created. And contrary to popular myth, the iPhone was NOT Steve Job's brainchild.
-Apple had done a massive turnaround with the iPOD. But by 2007, iPod was going to be disrupted, by mobile phones like Nokia 5310 that could play music. And iPods were almost half of Apple's revenue.
-Tony Fadell, the designer behind the first iPhones said “We had the music player doing video and audio and photo. We had iTunes. Then futurephones came out. They started playing MP3. This is a holy shit moment. Phones could steal everything we were doing. What could we do to counter this? "
-But Jobs was against building phones for two reasons.
-One, Steve Jobs did not want to go through the orifices to get to the end users. By orifices, he meant carriers like Verizon and AT&T, which had final say over which phones could access their networks.
-Second, Jobs wasn’t convinced that the emerging smartphone category was going to be a wide market. He believed it would not go beyond the “pocket protector” crowd aka nerds.
-So instead they decided to partner with Motorola to create the iTunes phone - The Moto ROKR E1. And it bombed!
-Steve was still not convinced about building a phone. But his team was. And unknown to even Steve, the team started building the iPhone.
-They gutted an iPod, added Wifi and got the internet to run on the IPod. Steve's reaction " This is bullsh**". Steve didn't really see the path to success.
-However two Apple veterans, Mike Bell and Steve Sakoman, continued to lobby with Steve Jobs for months. They were convinced that computers, music players and cell phones were heading towards an inevitable convergence.
-On November 7, 2004, Bell sent an email to Jobs - "Steve, I know you don't want to do a phone. But here's why we should do it. Jony Ives has some really cool designs for the future iPods that no one has seen. We ought to take one of those, put some Apple software around it, and make a phone ourselves instead of putting our stuff on other people's phone.
-Jobs called him right away and debated for hours. Finally he relented and agreed to build a phone.
+ <p>SteveJobs almost prevented the #iPhone from being created. And contrary to popular myth, the iPhone was NOT Steve Job's brainchild.</p>
+ <p>Apple had done a massive turnaround with the iPOD. But by 2007, iPod was going to be disrupted, by mobile phones like Nokia 5310 that could play music. And iPods were almost half of Apple's revenue.</p>
+ <p>Tony Fadell, the designer behind the first iPhones said “We had the music player doing video and audio and photo. We had iTunes. Then futurephones came out. They started playing MP3. This is a holy shit moment. Phones could steal everything we were doing. What could we do to counter this? "</p>
+ <p>But Jobs was against building phones for two reasons.</p>
+ <p>One, Steve Jobs did not want to go through the orifices to get to the end users. By orifices, he meant carriers like Verizon and AT&T, which had final say over which phones could access their networks.</p>
+ <p>Second, Jobs wasn’t convinced that the emerging smartphone category was going to be a wide market. He believed it would not go beyond the “pocket protector” crowd aka nerds.</p>
+ <p>So instead they decided to partner with Motorola to create the iTunes phone - The Moto ROKR E1. And it bombed!</p>
+ <p>Steve was still not convinced about building a phone. But his team was. And unknown to even Steve, the team started building the iPhone.</p>
+ <p>They gutted an iPod, added Wifi and got the internet to run on the IPod. Steve's reaction " This is bullsh**". Steve didn't really see the path to success.</p>
+ <p>However two Apple veterans, Mike Bell and Steve Sakoman, continued to lobby with Steve Jobs for months. They were convinced that computers, music players and cell phones were heading towards an inevitable convergence.</p>
+ <p>On November 7, 2004, Bell sent an email to Jobs - "Steve, I know you don't want to do a phone. But here's why we should do it. Jony Ives has some really cool designs for the future iPods that no one has seen. We ought to take one of those, put some Apple software around it, and make a phone ourselves instead of putting our stuff on other people's phone.</p>
+ <p>Jobs called him right away and debated for hours. Finally he relented and agreed to build a phone.</p>
 - - -
-There are three key lessons in this story here :
-1. The lone inventor myth. Far too often, we believe its one single person's will that forged a great product, often forgetting that countless incredible nameless people that work behind the scenes making some of the worlds best product.
-2. Even visionaries always don't have the best vision of the future. But a great team can probably help see the future better.
-3. It takes a lot of lobbying and story selling to get people to buy into your narrative. Far too often I see people give up just having pitched their idea barely a few times. It sometimes takes months, even years to sell a game changing story.
+ <p>There are three key lessons in this story here :</p>
+  <ol>
+   <li>1. The lone inventor myth. Far too often, we believe its one single person's will that forged a great product, often forgetting that countless incredible nameless people that work behind the scenes making some of the worlds best product.</li>
+   <li>Even visionaries always don't have the best vision of the future. But a great team can probably help see the future better.</li>
+   <li>It takes a lot of lobbying and story selling to get people to buy into your narrative. Far too often I see people give up just having pitched their idea barely a few times. It sometimes takes months, even years to sell a game changing story.</li>
+  <ol>
 
 <h1>Mars</h1>
  “I don’t want to say that Mars has an inviolable hold over the public,” Byrne says, “but it kind of does.”
-
-<h1>One More Time</h1>
- <p></p>
 
 <h1>A Spy</h1>
  <p>Someone comes out as a spy.</p>
 
 <h1>Anne Does Well</h1>
  <p>Financial success.</p>
+
+<h1>One More Time</h1>
+ <p></p>
 
 <h1></h1>
  <p></p>
