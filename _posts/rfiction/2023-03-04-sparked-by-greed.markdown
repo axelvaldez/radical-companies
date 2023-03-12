@@ -170,13 +170,16 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">I think I am going to talk to Anita about how to start this convesation without letting it turn into a fight.</div>
  
  <h1>Myths</h1>
- <div class="_speakerb">Hey, Dave, what should we work on next.</div>
- <div class="_speakera">I have no idead.</div>
+ <div class="_speakerb">Hey, Dave, what should we work on next?</div>
+ <div class="_speakera">I have no idea.</div>
  <div class="_speakerb">Well, you are the main inventor here and we were hoping you spilled some of your secret sauce on us.</div>
  <div class="_speakera">You don't have any secret sauce of your own?</div>
  <div class="_speakerb">Well, maybe, but not really. Not compared to yours.</div>
- <div class="_speakerb">Then I think you should go to the sea or the mountain or whatever it is that makes <span class="_quotespan">secret sauce</span> space for you.</div>
- <div class="_speakerb">
+ <div class="_speakera">Then I think you should go to the sea or the mountain or whereever it is that makes <span class="_quotespan">secret sauce</span> space for you.</div>
+ <div class="_speakerb">You don&rsquo;t have to take it so seriously&hellip;</div>
+ <div class="_speakera">Why, you weren&rsquo;t serious when you categorized yourself as a second-class co-onwer? Or maybe it was when you surrendered responsibility for what to do next? Which of those were not serious?</div>
+ <div class="_speakerb">I didn&rsquo;t say any of that.</div>
+ <div class="_speakera">But you implied it. When you said that I was the main inventor, you put yourself down as a lesser inventor. Then you said that you weren&rsquo;t as good when compared to me, you were were offering for me to tell you what to do to avoid responsibility.
 
  <p>SteveJobs almost prevented the #iPhone from being created. And contrary to popular myth, the iPhone was NOT Steve Job's brainchild.</p>
  <p>Apple had done a massive turnaround with the iPOD. But by 2007, iPod was going to be disrupted, by mobile phones like Nokia 5310 that could play music. And iPods were almost half of Apple's revenue.</p>
