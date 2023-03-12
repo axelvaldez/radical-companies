@@ -159,6 +159,10 @@ image:    "icon-sparked-by-greed.svg"
  <p>don’t over react,</p>
  <p>don’t engage (only the bare minimum is enough).</p>
 
+<h1>A Health Curnocopia</h1>
+ <p>Compounds that would be used internally or just sit around were now out there in the world. The all-sacred-margin was not as high priority as it had been. A lot of them were disclosed as Open Source. And at least two of them went into the development of drugs that would have never seen the light of day under the <span class="_paradigm">FIAT</span> regime.</p>
+ <p>There was no way to prove it, but the lack of secrecy made everybody more productive. At least, it had made them happier.</p>
+
 <h1>Myths</h1>
  <p>SteveJobs almost prevented the #iPhone from being created. And contrary to popular myth, the iPhone was NOT Steve Job's brainchild.</p>
  <p>Apple had done a massive turnaround with the iPOD. But by 2007, iPod was going to be disrupted, by mobile phones like Nokia 5310 that could play music. And iPods were almost half of Apple's revenue.</p>
@@ -190,10 +194,6 @@ image:    "icon-sparked-by-greed.svg"
 
 <h1>One More Time</h1>
  <p></p>
-
-<h1>A Curnocopia for Health</h1>
- <p>Compounds that would be used internally or just sit around were now out there in the world. The all-sacred-margin was not as high priority as it had been. A lot of them were disclosed as Open Source. And at least two of them went into the development of drugs that would have never seen the light of day under the <span class="_paradigm">FIAT</span> regime.</p>
- <p>There was no way to prove it, but the lack of secrecy made everybody more productive. At least, it had made them happier.</p>
 
 <h1></h1>
  <p></p>
