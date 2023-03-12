@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The Foundation in 3 Dimensions"
+title:    "The <span class='_paradigm'>RADICAL</span> Foundation in 3 Dimensions"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-the-radical-foundation-in-3-dimensions.svg"
