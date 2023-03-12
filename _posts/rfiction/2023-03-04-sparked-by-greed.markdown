@@ -159,7 +159,7 @@ image:    "icon-sparked-by-greed.svg"
  <p>don’t over react,</p>
  <p>don’t engage (only the bare minimum is enough).</p>
 
-<h1>A Health Curnocopia</h1>
+<h1>A Real Curnocopia for Health</h1>
  <p>Compounds that would be used internally or just sit around were now out there in the world. The all-sacred-margin was not as high priority as it had been. A lot of them were disclosed as Open Source. And at least two of them went into the development of drugs that would have never seen the light of day under the <span class="_paradigm">FIAT</span> regime.</p>
  <p>There was no way to prove it, but the lack of secrecy made everybody more productive. At least, it had made them happier.</p>
 
