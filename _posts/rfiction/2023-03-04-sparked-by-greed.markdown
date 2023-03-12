@@ -185,7 +185,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">Here we can, but we keep on going back to our&hellip; our&hellip;</div>
  <div class="_speakera">Fears?</div>
  <div class="_speakerb">Yes. I don&rsquo;t want to say that they have an inviolable hold over us, but they kind of do.</div>
- <div class="_speakera">Look at your fears. Rather than saying that you are not afraid of anything, look for the fear that is hiding behind that. If you can&rsquo;t do it by yourself, get other people to help you. Don&rsquo;t give in to the <span class="_quotespan">I can do it by myself</span> fear. Seek others to learn from and to help you. Be peb to the love from people you dont know.</div>
+ <div class="_speakera">Look at your fears. Rather than saying that you are not afraid of anything, look for the fear that is hiding behind that. If you can&rsquo;t do it by yourself, get other people to help you. Don&rsquo;t give in to the <span class="_quotespan">I can do it by myself</span> fear. Seek others to learn from and to help you. Be open to the receive love from people you dont know.</div>
 
 <h1>A Spy</h1>
  <p>Someone comes out as a spy.</p>
