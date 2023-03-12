@@ -181,6 +181,8 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">I didn&rsquo;t say any of that.</div>
  <div class="_speakera">But you implied it. When you said that I was the main inventor, you put yourself down as a lesser inventor. Then you said that you weren&rsquo;t as good when compared to me, you were were offering for me to tell you what to do to avoid responsibility.
 
+ <p></p>
+
  <p>SteveJobs almost prevented the #iPhone from being created. And contrary to popular myth, the iPhone was NOT Steve Job's brainchild.</p>
  <p>Apple had done a massive turnaround with the iPOD. But by 2007, iPod was going to be disrupted, by mobile phones like Nokia 5310 that could play music. And iPods were almost half of Apple's revenue.</p>
  <p>Tony</p>
