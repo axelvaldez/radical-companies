@@ -149,24 +149,27 @@ image:    "icon-sparked-by-greed.svg"
 <h1>But What About&hellip;</h1>
  <div class="_commentary">Fear has us.</div>
  <div class="_quotespan">I am tired of being afraid, seeing how the FIAT model works has exposed the fears and has made all the difference.</div>
- <div class="_commentary">Well, that may be the beginning, not it is nowhere near the end of the hold that fear has on us. That became obvious over time as people asked "but what about&hellip;<span class="_quotatespan">questions.</span></div>
-<p>toxic colleague,</p>
- <ol>
-  <li>The Bully: This type of toxic colleague is aggressive and has firecracker responses. They are blunt, sarcastic or intimidating. They may make fun of your work or ideas, or belittle you in front of others.</li>
-  <li>The Gossip Mongers: This colleague’s only claim to fame is by talking about people behind their back. They may try to create drama and sow discord among team members.</li>
-  <li>The Underminer: This toxic colleague undermines your work and efforts, often in subtle ways. They may take credit for your work, sabotage your projects, or minimise your contributions.</li>
-  <li>The Dramatic: This toxic colleague thrives on attention and drama. They may overreact to small issues, make a big deal out of minor mistakes, or create chaos and confusion.</li>
-  <li>The Slacker: This colleague doesn't pull their weight and expects others to pick up the slack. They may miss deadlines, skip out on responsibilities, or refuse to contribute to group projects.</li>
-  <li>The Micromanager: This colleague is overly controlling, interfering and doesn't trust anyone else. They may constantly check in, pathologically follow-up, find fault, or interfere with your projects.</li>
- </ol>
- <p>dealing with toxic colleagues can be challenging, but it's not impossible.</p>
- <p>don’t feed into the toxicity.</p>
- <p>Don’t give it too much attention,</p>
- <p>don’t take it personally,</p>
- <p>don’t over react,</p>
- <p>don’t engage (only the bare minimum is enough).</p>
-
-<h1>Myths</h1>
+ <div class="_commentary">Well, that may be the beginning, not it is nowhere near the end of the hold that fear has on us. That became obvious over time as people asked <span class="_quotatespan">but what about&hellip;</span> questions about, say, toxic colleages&hellip;</span></div>
+ <p></p>
+ <div class="_speakerb">How are we going to deal with bullies, underminders, and slackers. What about goosip mongers and the over-controlling colleages. Are they going to be co-owners, too?</div>
+ <div class="_speakera">Well, if they contribute and somebody acknowledges their contribution, then they get <span class="_paradigm">RAD</span>s and they are co-owners.</div>
+ <div class="_speakerac">As to the rest of it, how would you deal with these types of folks?</div>
+ <div class="_speakerb">Should we have rules to prevent that?</div>
+ <div class="_speakera">And who would enforce those rules. Are we using force to make sure those rules are followed?</div>
+ <div class="_speakerb">Well, no&helllip; we don&rsquo;t want to use force, but we have to be ready for them.</div>
+ <div class="_speakera">There is a mechanism to address these kinds of problem and it&rsquo;s right in your <span class="_paradigm">RAD</span>s! app.</div>
+ <div class="_speakerb">You mean the button for <span class="_me">We need to talk</span>?</div>
+ <div class="_speakera">I think that&rsquo;s where it starts.</div>
+ <div class="_speakerb">Yeah, but that is a difficult conversation and I wouldn't know where to start.</div>
+ <div class="_speakera">There are many people who can give you some tips&hellip;</div>
+ <div class="_speakerb">Yes, you are right. Ask. Learn. Shit, this is so simple and we make it so complicated&hellip;</div>
+ <div class="_speakera">That is what we learned to do, make things very complicated. And fear hides behind those complications.</div>
+ <div class="_speakerb">No, I am not afraid&hellip;</div>
+ <div class="_speakera">Yet, you are letting your fears speak for you.</div>
+ <div class="_speakerb">No, that is not&hellip; I am going to talk to Anita about how to start a convesation without letting it turn into a fight.</div>
+ <div class="_speakera">OK. See ya.</div>
+ 
+ <h1>Myths</h1>
  <p>SteveJobs almost prevented the #iPhone from being created. And contrary to popular myth, the iPhone was NOT Steve Job's brainchild.</p>
  <p>Apple had done a massive turnaround with the iPOD. But by 2007, iPod was going to be disrupted, by mobile phones like Nokia 5310 that could play music. And iPods were almost half of Apple's revenue.</p>
  <p>Tony Fadell, the designer behind the first iPhones said “We had the music player doing video and audio and photo. We had iTunes. Then futurephones came out. They started playing MP3. This is a holy shit moment. Phones could steal everything we were doing. What could we do to counter this? "</p>
