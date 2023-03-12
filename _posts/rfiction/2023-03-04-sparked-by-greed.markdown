@@ -156,7 +156,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerac">As to the rest of it, how would you deal with these types of folks?</div>
  <div class="_speakerb">Should we have rules to prevent that?</div>
  <div class="_speakera">And who would enforce those rules. Are we using force to make sure those rules are followed?</div>
- <div class="_speakerb">Well, no&helllip; we don&rsquo;t want to use force, but we have to be ready for them.</div>
+ <div class="_speakerb">Well, no&hellip; We don&rsquo;t want to use force, but we have to be ready for them.</div>
  <div class="_speakera">There is a mechanism to address these kinds of problem and it&rsquo;s right in your <span class="_paradigm">RAD</span>s! app.</div>
  <div class="_speakerb">You mean the button for <span class="_me">We need to talk</span>?</div>
  <div class="_speakera">I think that&rsquo;s where it starts.</div>
