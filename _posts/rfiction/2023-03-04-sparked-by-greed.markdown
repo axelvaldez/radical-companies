@@ -170,16 +170,27 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">I am going to talk to Anita about how to start a convesation without letting it turn into a fight.</div>
  
  <h1>Myths</h1>
+ <div class="_speakerb">Hey, Dave, what should we work on next.</div>
+ <div class="_speakera">I have no idead.</div>
+ <div class="_speakerb">Well, you are the main inventor here and we were hoping you spilled some of your secret sauce on us.</div>
+ <div class="_speakera">You don't have any secret sauce of your own?</div>
+ <div class="_speakerb">Well, maybe, but not really. Not compared to yours.</div>
+ <div class="_speakerb">Then I think you should go to the sea or the mountain or whatever it is that makes <span class="_quotespan">secret sauce</span> space for you.</div>
+ <div class="_speakerb">
+
  <p>SteveJobs almost prevented the #iPhone from being created. And contrary to popular myth, the iPhone was NOT Steve Job's brainchild.</p>
  <p>Apple had done a massive turnaround with the iPOD. But by 2007, iPod was going to be disrupted, by mobile phones like Nokia 5310 that could play music. And iPods were almost half of Apple's revenue.</p>
- <p>Tony Fadell, the designer behind the first iPhones said “We had the music player doing video and audio and photo. We had iTunes. Then futurephones came out. They started playing MP3. This is a holy shit moment. Phones could steal everything we were doing. What could we do to counter this? "</p>
+ <p>Tony</p>
+ <p>Fadell, the designer behind the first iPhones said “We had the music player doing video and audio and photo. We had iTunes. Then futurephones came out. They started playing MP3. This is a holy shit moment. Phones could steal everything we were doing. What could we do to counter this? "</p>
  <p>But Jobs was against building phones for two reasons.</p>
  <p>One, Steve Jobs did not want to go through the orifices to get to the end users. By orifices, he meant carriers like Verizon and AT&T, which had final say over which phones could access their networks.</p>
  <p>Second, Jobs wasn’t convinced that the emerging smartphone category was going to be a wide market. He believed it would not go beyond the “pocket protector” crowd aka nerds.</p>
  <p>So instead they decided to partner with Motorola to create the iTunes phone - The Moto ROKR E1. And it bombed!</p>
  <p>Steve was still not convinced about building a phone. But his team was. And unknown to even Steve, the team started building the iPhone.</p>
  <p>They gutted an iPod, added Wifi and got the internet to run on the IPod. Steve's reaction " This is bullsh**". Steve didn't really see the path to success.</p>
- <p>However two Apple veterans, Mike Bell and Steve Sakoman, continued to lobby with Steve Jobs for months. They were convinced that computers, music players and cell phones were heading towards an inevitable convergence.</p>
+ <p>However two Apple veterans,</p>
+ <p>Mike</p>
+ <p>Bell and Steve Sakoman, continued to lobby with Steve Jobs for months. They were convinced that computers, music players and cell phones were heading towards an inevitable convergence.</p>
  <p>On November 7, 2004, Bell sent an email to Jobs - "Steve, I know you don't want to do a phone. But here's why we should do it. Jony Ives has some really cool designs for the future iPods that no one has seen. We ought to take one of those, put some Apple software around it, and make a phone ourselves instead of putting our stuff on other people's phone.</p>
  <p>Jobs called him right away and debated for hours. Finally he relented and agreed to build a phone.</p>
  <p>There are three key lessons in this story,</p>
