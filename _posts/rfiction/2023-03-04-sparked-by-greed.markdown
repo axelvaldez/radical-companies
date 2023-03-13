@@ -188,34 +188,17 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">Look at your fears. Rather than saying that you are not afraid of anything, look for the fear that is hiding behind that. If you can&rsquo;t do it by yourself, get other people to help you. Don&rsquo;t give in to the <span class="_quotespan">I can do it by myself</span> fear. Seek others to learn from and to help you. Be open to the receive love from people you dont know.</div>
 
 <h1>A Spy</h1>
- <p>Zuri, ust wrote an email coming out as a spy. She send it to everybody. It ended with, <span class="_quotespan">Are there other spies reading this?</span> Then she send another email, <span class="_quotespan">I didn&rsquo;t mean to imply that any of you are a spy. I just wanted to encourage potentially others to come out.</span></p>
+ <p>Zuri wrote an email coming out as a spy and sent it to everybody. It ended with, <span class="_quotespan">Are there other spies reading this?</span> That created enoiugh convufion that she then send a follow up email, <span class="_quotespan">I didn&rsquo;t mean to imply that there are more spies lurking among us. I just wanted to encourage others, if there was any, to come out. It seems I was the only one.</span></p>
  <div class="_commentary">The emails were remarkable in one way, and non-remarkable in many other ways.</div>
  <div class="_speakerb">Why would you need to be a spy when everything is out in the open?</div>
- <div class="_speakera">Because people suspected that this was more of a cult and it wasn&rsquo;t as sunny as all that. As it turned out, there was nothing to report other than what they new and what they could see.</div>
- <div class="_speakerac">By the way, this started right after Siri left. They thought they had golden cuffs on her, but she left. And she seemed happy. Even came up to tell us why. She reported that she found David as ponpous as always, but it didn&rsquo;t matter because he could get in her way and stop her as he had done before. He was a co-owner, she was a co-owner, they listened to each other, and then you made a decision and anybody followed you went ahead, but if nobody followed and you went ahead, maybe you were the pompous ass.< </div>
- <div class="_speakerb">So, were there other spies?</div>
- <div class="_speakera">Not really. A couple of people had something like that in mind, but they stayed because of what they found here.</div>
+ <div class="_speakera">People suspected that this was more of a cult and it wasn&rsquo;t as sunny as all that. As it turned out, there was nothing to report other than what they new and what they could see. In the meantime, this company was well fit, excuse me, aligned with everything me.</div>
+ <div class="_speakerac">By the way, this started right after Siri joined us. They thought they had golden cuffs on her, and they could not understand why she&rsquo;d leave all that money behind. They could not understand that there were other things besides money that she would value and made her happy. They asked her to come back and she reported that she was happy, doing the work she loved, and didn&rsquo;t have to deal with bureaucracy. David, she said, was pompous as always, but it didn&rsquo;t matter because he could not get in her way or stop her as he had done before. He was a co-owner, she was a co-owner, and they listened to each other. If anybody followed her, she would go ahead, but if nobody followed you wanted to find out why. She had learned tons that way and she found herself growing into a better person, and her family noticed, too.</div>
+ <div class="_speakerb">So, there weren&rsquo;t any other spies?</div>
+ <div class="_speakera">Not really. A couple of people told me that they had come to find out about the &lsquo;real&rsquo; <span class="_paradigm">rHEALTH</span> but found nothing, except it was a differente place and a different community. They stayed because of what they found here.</div>
  
 <h1>Anne Shelly Does Fine</h1>
- <p>Against all expectations, <span class="_paradigm">rHEALTH</span> did financially well. Very well, actually. At one point, <span class="_paradigm">BANNERS</span> started to show up for investing in new companies. Th&uacute;y and Paloma, the other financial person in the company, did a lot of workshops to teach would be founders the mechanics of investing. Many of them stayed Ensembled with <span class="_paradigm">rHEALTH</span> because they did related work, but a few others went on their own, including one that went into space. Not making rockets or any such, but they wanted to make sure that people going to space could stay healthy out in space and back on Earth. You&rsquo;d think it&rsquo;d be similar, but the science was different enough.</p>
- <p>The amazing point is that people were investing in other <span class="_paradigm">RADICAL</span> companies. People had gotten perspective on capital accumulation and investing became easy. They didn&rsquo;t want to accumulate capital, they wanted to be part of creating things for all people.</p>
-
-<h1>One More Time</h1>
- <p></p>
-
-<h1></h1>
- <p></p>
-
-<h1></h1>
- <p></p>
-
-<h1></h1>
- <p></p>
-
-<h1></h1>
- <p></p>
-
-<h1></h1>
- <p></p>
+ <p>Against the expectations many had, <span class="_paradigm">rHEALTH</span> did financially well. Very well, actually.</p>
+ <p>At one point, <span class="_paradigm">BANNERS</span> started to show up for investing in new companies. Th&uacute;y and Paloma, the other financial person in the company, did a lot of workshops to teach would be founders the mechanics of investing. Many of the new companies stayed Ensembled with <span class="_paradigm">rHEALTH</span> because they did related work, but a few others went on their own, including one that went into space. They didn&rsquo;t make rockets or any such, but they wanted people going to space to stay healthy, both in on and off planet Earth. It seemed that the science was different enough.</p>
+ <p>The amazing point is that people were investing in other <span class="_paradigm">RADICAL</span> companies. Investing had become easy. They didn&rsquo;t want to accumulate capital, they wanted to be part of creating things for all people. And that&hellip; that was more powerful.</p>
 
 {% include related.html %}
