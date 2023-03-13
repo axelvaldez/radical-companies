@@ -23,7 +23,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_commentary">David took out an envelope and pushed it towards the power end of the table.</div>
  <div class="_speakera">This is my letter of resignation. You can send my stuff to my house, later on. Or keep it, it doesn&rsquo;t matter.</div>
  <div class="_speakerb">David, calm down. We are not accepting&hellip;</div>
- <div>As the words kept cascading down from the power end of the table, David got up and walked out.</div>
+ <div>As the words kept spewing down from the power end of the table, David got up and walked out.</div>
 
 <h1>What&rsquo;s Next?</h1>
  <div class="_speakera">It wasn&rsquo;t the first time, and they will keep doing it. There is no bottom to their &lsquo;fiduciary&rsquo; greed.</div>
