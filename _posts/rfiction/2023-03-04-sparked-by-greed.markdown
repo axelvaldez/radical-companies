@@ -143,7 +143,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">I hope I won&rsquo;t.</div>
 
 <h1>A Real Curnocopia for Health</h1>
- <p>Because the all-sacred-margin was not as high priority as in <span class="_paradigm">FIAT</span> companies, compounds that would be used internally or just sit around were now out there in the world. A lot of them were disclosed even as Open Source. And at least two of them went into the development of drugs that would have never seen the light of day under the <span class="_paradigm">FIAT</span> regime.</p>
+ <p>Because the all-sacred-margin was not as high priority as in <span class="_paradigm">FIAT</span> companies, compounds that could only would be used internally or just sit around not being used were now out there in the world. A lot of them were made available as Open Source. And at least two of them went into the development of drugs by businesses that would have never seen the light of day under the <span class="_paradigm">FIAT</span> regime.</p>
  <p>Not having to maintain a veil secrecy, took a huge weight off our shoulders. There was no way to prove it, but transparency made everybody more productive. And happier.</p>
 
 <h1>Fear Has Us</h1>
@@ -197,7 +197,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">Not really. A couple of people told me that they had come to find out about the &lsquo;real&rsquo; <span class="_paradigm">rHEALTH</span> but found nothing, except it was a differente place and a different community. They stayed because of what they found here.</div>
  
 <h1>Anne Shelly Does Fine</h1>
- <p>Against the expectations many had, <span class="_paradigm">rHEALTH</span> did financially well. Very well, actually.</p>
+ <p>Against the expectations many had, <span class="_paradigm">rHEALTH</span> did financially well. Very well, actually. Many of their <span class="_paradigm">FIAT</span> competitors didn&rsquo;t know how to react to the price &lsquo;competition&rsquo;. Many ended up folding when they could not get the profits they expected. Others changed accepted lower profit levels for their investors and slowly changed their way.</p>
  <p>At one point, <span class="_paradigm">BANNERS</span> started to show up for investing in new companies. Th&uacute;y and Paloma, the other financial person in the company, did a lot of workshops to teach would be founders the mechanics of investing. Many of the new companies stayed Ensembled with <span class="_paradigm">rHEALTH</span> because they did related work, but a few others went on their own, including one that went into space. They didn&rsquo;t make rockets or any such, but they wanted people going to space to stay healthy, both in on and off planet Earth. It seemed that the science was different enough.</p>
  <p>The amazing point is that people were investing in other <span class="_paradigm">RADICAL</span> companies. Investing had become easy. They didn&rsquo;t want to accumulate capital, they wanted to be part of creating things for all people. And that&hellip; that was more powerful.</p>
 
