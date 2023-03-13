@@ -114,14 +114,13 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">If they don&rsquo;t throw us in jail to rot first.</div>
 
 <h1>They Came</h1>
- <div>Recruiting</div>
- <div>People start to show up for David. Surprisingly, some don't want to do through the Relationship Storeys: too woo-woo for them. The more junior, the more excited. Three joing reluctantly.</div>
- <div>They worry about Th&uacute;y and nepotism.</div>
+ <div>People started to show up for David. Surprisingly, some don't want to do through the Relationship Stories, it was too woo-woo for them. Interestingly, the more junior, the more excited.</div>
+ <div>Some worried about nepotism.</div>
  <div class="_speakera">What about Th&uacute;y?</div>
  <div class="_speakerb">Well, she is your wife and will side with you more often than not.</div>
  <div class="_speakera">You are married, right?&hellip;</div>
- <div class="_speakerb">Not only that, she'll be deciding on salaries and bonus and stuff and she would have an ax to gring when it comes to you.</div>
- <div class="_speakera">Bruno, you are very smart. Think. Salaries and anything to do with money is based on <span class="_paradigm">RAD</span>s, right? And who gives me <span class="_paradigm">RAD</span>s? She does, but you guys do. If I get more than anybody else one month it must be because I did something really good&hellip; Right?</div>
+ <div class="_speakerb">Yes, I am, but it is not only that, she'll be deciding on salaries and bonus and stuff and she would have an ax to gring when it comes to you.</div>
+ <div class="_speakera">Bruno, you are very smart. Think. Salaries and anything to do with money is based on <span class="_paradigm">RAD</span>s, right? And who gives me <span class="_paradigm">RAD</span>s? She doesn&rsquo;t, you guys do. If I get more than anybody else one month it must be because I did something really good&hellip; that a lot of people saw as a contribution. Right?</div>
  <div class="_speakerac">Besides, it is all out in the open and if there&rsquo;s some hanky panky, you will bring it up, right?</div>
  <div class="_speakerb">Yes. I get it in my head, but it is hard to shake the concerns&hellip;</div>
  <div class="_speakera">Then don&rsquo;t. Just be open to their being fears that don&rsquo;t play here.</div>
