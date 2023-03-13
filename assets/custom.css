@@ -328,7 +328,9 @@ table._background tr ul, ul li p:last-of-type {
   font-family:adren, Wensley, Naia, Maiah, Sharis, Thomas Craft, Sandover, Aadam, Glamour Luxury, Magnita, Zimra, Antique, Grown, Selma, Alloy, Lara;
 }
 ._speakerb, ._speakerbc {
+  /*
   font-weight:520;
+  */
   font-family:Georgia, serif;
 }
 ._speakerc, ._speakercc {
