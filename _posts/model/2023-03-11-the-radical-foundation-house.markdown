@@ -15,7 +15,7 @@ image:    "icon-the-radical-foundation-house.svg"
  <p>Nevertheless, after sleeping over it, I woke up with an image of a building where the words Meaning and Belonging formed a plane as the &lsquo;roof&rsquo; and Decentralization and Transparency form another plane as the &lsquo;floor,.&rsquo; and the words Experimentation holding up the roof.</p>
  <div class="_center">
   <img
-   src="/assets/img/pic-the-radical-foundation-house.svg"
+   src="/assets/img/pic-the-radical-foundation-house-1.svg"
    width="70%"
    alt="The words MEANING and BELONGING form a plane at the top and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom. The word EXPERIEMENTAION sits in between them.">
  </div>
