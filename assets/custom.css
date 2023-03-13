@@ -310,9 +310,6 @@ table._background tr ul, ul li p:last-of-type {
   padding-left:2.2em;
   margin-bottom:5px;
 }
-._speakera, ._speakerac {
-  font-weight:520;
-}
 ._speakera,
 ._speakerb,
 ._speakerc {
@@ -325,6 +322,14 @@ table._background tr ul, ul li p:last-of-type {
 ._speakerb::before,
 ._speakerc::before {
   content:"— “";
+}
+._speakera, ._speakerac {
+  font-weight:520;
+  font-family:adren, Wensley, Naia, Maiah, Sharis, Thomas Craft, Sandover, Aadam, Glamour Luxury, Magnita, Zimra, Antique, Grown, Selma, Alloy, Lara;
+}
+._speakerb, ._speakerbc {
+  font-weight:520;
+  font-family:Georgia, serif;
 }
 ._speakerc, ._speakercc {
   font-family:'Times New Roman', Times, serif;
