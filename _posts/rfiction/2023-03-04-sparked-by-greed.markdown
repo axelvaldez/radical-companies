@@ -193,7 +193,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">So, there weren&rsquo;t any other spies?</div>
  <div class="_speakerc">Not really. A couple of people told me that they had come to find out about the &lsquo;real&rsquo; <span class="_paradigm">rHEALTH</span> but found nothing, except it was a differente place and a different community. They stayed because of what they found here.</div>
  <div class="_speakerb">Got it. Sorry I pushed your buttons once too many time.</div>
- <div class="_speakerb">Actually, I am the one who is sorry. I need to be more Socratic and not give in to what Th&uacute;y calls &lsquo;the boss&rsquo; in me. You have helped me.</div>
+ <div class="_speakera">Actually, I am the one who is sorry. I need to be more Socratic and not give in to what Th&uacute;y calls &lsquo;the boss&rsquo; in me. You have helped me.</div>
  
 <h1>Anne Shelly Does Fine</h1>
  <div>Against the expectations many had, <span class="_paradigm">rHEALTH</span> did financially well. Very well, actually. Many of their <span class="_paradigm">FIAT</span> competitors didn&rsquo;t know how to react to the price &lsquo;competition&rsquo;. Many ended up folding when they could not get the profits they expected. Others changed accepted lower profit levels for their investors and slowly changed their way.</<div>
