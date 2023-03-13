@@ -313,7 +313,9 @@ table._background tr ul, ul li p:last-of-type {
 ._speakera, ._speakerac {
   font-weight:520;
 }
-._speakera, ._speakerb {
+._speakera,
+._speakerb,
+._speakerc {
   text-indent:-1.1em;
 }
 ._speakerac::before, ._speakerbc::before, ._quotespan::before {
@@ -339,6 +341,7 @@ table._background tr ul, ul li p:last-of-type {
 }
 p {
   padding-left:0;
+  margin-bottom:6px;
 }
 ._commentary {
   padding-left:0;
