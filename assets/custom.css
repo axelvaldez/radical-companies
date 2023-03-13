@@ -319,7 +319,10 @@ table._background tr ul, ul li p:last-of-type {
 ._speakerac::before, ._speakerbc::before {
   content:"“";
 }
-._speakera::before, ._speakerb::before, ._quotespan::before {
+._speakera::before,
+._speakerb::before,
+._speakerc::before,
+._quotespan::before {
   content:"— “";
 }
 ._speakerc, ._speakercc {
@@ -332,6 +335,7 @@ table._background tr ul, ul li p:last-of-type {
 }
 ._speakera::after, ._speakerac::after,
 ._speakerb::after, ._speakerbc::after,
+._speakerc::after, ._speakercc::after,
 ._quotespan::after {
   content:"”";
 }
