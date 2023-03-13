@@ -146,7 +146,7 @@ image:    "icon-sparked-by-greed.svg"
  <p>Because the all-sacred-margin was not as high priority as in <span class="_paradigm">FIAT</span> companies, compounds that would be used internally or just sit around were now out there in the world. A lot of them were disclosed even as Open Source. And at least two of them went into the development of drugs that would have never seen the light of day under the <span class="_paradigm">FIAT</span> regime.</p>
  <p>Not having to maintain a veil secrecy, took a huge weight off our shoulders. There was no way to prove it, but transparency made everybody more productive. And happier.</p>
 
-<h1>Fears</h1>
+<h1>Fear Has Us</h1>
  <div class="_commentary">Fear has us.</div>
  <div class="_quotespan">I am tired of being afraid, seeing how the FIAT model works has exposed the fears and has made all the difference.</div>
  <div class="_commentary">Well, that may be the beginning, but it is not the end of the hold that fear has on us. That became obvious over time as people expressed many of their fears, including toxic colleages&hellip;</div>
@@ -169,7 +169,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_commentary">He went quiet for a bit. Then he said,</div>
  <div class="_speakerb">I think I am going to talk to Anita about how to start this convesation without letting it turn into a fight.</div>
  
-<h1>Myths</h1>
+<h1>Myth Is Fear</h1>
  <div class="_speakerb">Hey, Dave, what should we work on next?</div>
  <div class="_speakera">I have no idea.</div>
  <div class="_speakerb">Well, you are the main inventor here and we were hoping you spilled some of your secret sauce on us.</div>
