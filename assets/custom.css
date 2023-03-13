@@ -327,7 +327,7 @@ table._background tr ul, ul li p:last-of-type {
   content:"— “";
 }
 ._speakerc, ._speakercc {
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family:'Times New Roman', Times, serif;
 }
 ._quotespan {
   font-style:italic;
