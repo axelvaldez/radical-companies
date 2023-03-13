@@ -316,7 +316,7 @@ table._background tr ul, ul li p:last-of-type {
 ._speakera, ._speakerb {
   text-indent:-1.1em;
 }
-._speakerac::before, ._speakerbc::before {
+._speakerac::before, ._speakerbc::before, ._quotespan::before {
   content:"“";
 }
 ._speakera::before,
