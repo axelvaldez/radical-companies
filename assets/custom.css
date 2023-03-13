@@ -304,7 +304,8 @@ table._background tr ul, ul li p:last-of-type {
  * dialog: begin
  */
 ._speakera, ._speakerac,
-._speakerb, ._speakerbc {
+._speakerb, ._speakerbc,
+._speakerc, ._speakercc {
   font-style:italic;
   padding-left:2.2em;
   margin-bottom:5px;
@@ -320,6 +321,9 @@ table._background tr ul, ul li p:last-of-type {
 }
 ._speakera::before, ._speakerb::before, ._quotespan::before {
   content:"— “";
+}
+._speakerc, ._speakercc {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 ._quotespan {
   font-style:italic;
