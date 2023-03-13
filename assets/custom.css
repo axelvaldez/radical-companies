@@ -321,8 +321,7 @@ table._background tr ul, ul li p:last-of-type {
 }
 ._speakera::before,
 ._speakerb::before,
-._speakerc::before,
-._quotespan::before {
+._speakerc::before {
   content:"— “";
 }
 ._speakerc, ._speakercc {
