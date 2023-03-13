@@ -3,7 +3,7 @@ layout:   post
 title:    "From Agreement to Relationships"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-from-agreement-to-relationships.svg"
+image:    "icon-from-agreements-to-relationships.svg"
 ---
 
 <div style="display:none;">
