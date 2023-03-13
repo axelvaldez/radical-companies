@@ -74,7 +74,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">I&lsquo;ve been a boss longer than you have, and that statement screams &rsquo;boss&lsquo; to me. We cannot afford to create obstacles for people to join the team and creating a &rsquo;solid Mission&lsquo; is creating an obstacle. Many people will ignore it because they want to work with you, they want to learn from you. But it is an obstacle that get bigger and bigger over time, until they quit to get away from it or submit to it and we all lose.</div>
 
 <h1>Open Relationships</h1>
- <p>They had talked about what Th&uacute;y knew about Trust Relationship, and they were now working through one they found online. They would then be ready to ask future potential <span class="_paradigm">rHEALTH</span> to go through it, add their piece, and modifiy as needed.</div>
+ <div>They had talked about what Th&uacute;y knew about Trust Relationship, and they were now working through one they found online. They would then be ready to ask future potential <span class="_paradigm">rHEALTH</span> to go through it, add their piece, and modifiy as needed.</div>
  <div class="_speakera">I am still not clear on what co-owned company is.</div>
  <div class="_speakerb">It is a company that is not owned by anybody in particular. It is owned by the peope who contribute to it.</div>
  <div class="_speakera">So, if we take time off, we are owners anymore? That doesn&rsquo;t seem right!</div>
@@ -114,9 +114,9 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">If they don&rsquo;t throw us in jail to rot first.</div>
 
 <h1>They Came</h1>
- <p>Recruiting</p>
- <p>People start to show up for David. Surprisingly, some don't want to do through the Relationship Storeys: too woo-woo for them. The more junior, the more excited. Three joing reluctantly.</p>
- <p>They worry about Th&uacute;y and nepotism.</p>
+ <div>Recruiting</div>
+ <div>People start to show up for David. Surprisingly, some don't want to do through the Relationship Storeys: too woo-woo for them. The more junior, the more excited. Three joing reluctantly.</div>
+ <div>They worry about Th&uacute;y and nepotism.</div>
  <div class="_speakera">What about Th&uacute;y?</div>
  <div class="_speakerb">Well, she is your wife and will side with you more often than not.</div>
  <div class="_speakera">You are married, right?&hellip;</div>
@@ -129,7 +129,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">Well, they are not &rsquo;bonuses&lsquo;, you&rsquo;ve earned them. You contributed, people acknowledged those contributions, and you get Earned Dividends. The kind of stuff that <span class="_paradigm">FIAT</span> owners put in their pockets in <span class="_me">normal</span> business.</div>
 
 <h1>And They Surprised</h1>
- <p>The most surprising thing was when, Siri wanted to talk. I assume that it was to gloat about something that she had found or to deliver and not-so-veiled threat. But, no, Siri wanted to join us. And I literally fell off my chair.</p>
+ <div>The most surprising thing was when, Siri wanted to talk. I assume that it was to gloat about something that she had found or to deliver and not-so-veiled threat. But, no, Siri wanted to join us. And I literally fell off my chair.</div>
  <div class="_speakera">Siri, to be honest, I am suprised, but, please, come by.</div>
  <div class="_speakerb">Well, it is not that easy for me. I don't want to be seen showing up at your place.</div>
  <div class="_speakera">There is no need. We can do it online.</div>
@@ -143,13 +143,12 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">I hope I won&rsquo;t.</div>
 
 <h1>A Real Curnocopia for Health</h1>
- <p>Because the all-sacred-margin was not as high priority as in <span class="_paradigm">FIAT</span> companies, compounds that could only would be used internally or just sit around not being used were now out there in the world. A lot of them were made available as Open Source. And at least two of them went into the development of drugs by businesses that would have never seen the light of day under the <span class="_paradigm">FIAT</span> regime.</p>
- <p>Not having to maintain a veil secrecy, took a huge weight off our shoulders. There was no way to prove it, but transparency made everybody more productive. And happier.</p>
+ <div>Because the all-sacred-margin was not as high priority as in <span class="_paradigm">FIAT</span> companies, compounds that could only would be used internally or just sit around not being used were now out there in the world. A lot of them were made available as Open Source. And at least two of them went into the development of drugs by businesses that would have never seen the light of day under the <span class="_paradigm">FIAT</span> regime.</div>
+ <div>Not having to maintain a veil secrecy, took a huge weight off our shoulders. There was no way to prove it, but transparency made everybody more productive. And happier.</div>
 
 <h1>Fear Has Us</h1>
  <div class="_quotespan">I am tired of being afraid, seeing how the FIAT model works has exposed the fears and has made all the difference.</div>
  <div class="_commentary">Well, that may be the beginning, but it is not the end of the hold that fear has on us. That became obvious over time as people expressed many of their fears, including toxic colleages&hellip;</div>
- <p></p>
  <div class="_speakerb">How are we going to deal with bullies, underminders, and slackers. What about gossip mongers and the over-controlling colleages. Are they going to be co-owners, too?</div>
  <div class="_speakera">Well, if they contribute and somebody acknowledges their contribution, then they get <span class="_paradigm">RAD</span>s and they are co-owners.</div>
  <div class="_speakerac">As to the rest of it, how would you deal with these types of folks?</div>
@@ -187,7 +186,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">Look at your fears. Rather than saying that you are not afraid of anything, look for the fear that is hiding behind that. If you can&rsquo;t do it by yourself, get other people to help you. Don&rsquo;t give in to the <span class="_quotespan">I can do it by myself</span> fear. Seek others to learn from and to help you. Be open to the receive love from people you dont know.</div>
 
 <h1>A Spy</h1>
- <p>Zuri wrote an email coming out as a spy and sent it to everybody. It ended with, <span class="_quotespan">Are there other spies reading this?</span> That created enoiugh convufion that she then send a follow up email, <span class="_quotespan">I didn&rsquo;t mean to imply that there are more spies lurking among us. I just wanted to encourage others, if there was any, to come out. It seems I was the only one.</span></p>
+ <div>Zuri wrote an email coming out as a spy and sent it to everybody. It ended with, <span class="_quotespan">Are there other spies reading this?</span> That created enoiugh convufion that she then send a follow up email, <span class="_quotespan">I didn&rsquo;t mean to imply that there are more spies lurking among us. I just wanted to encourage others, if there was any, to come out. It seems I was the only one.</span></div>
  <div class="_commentary">The emails were remarkable in one way, and non-remarkable in many other ways.</div>
  <div class="_speakerb">Why would you need to be a spy when everything is out in the open?</div>
  <div class="_speakera">People suspected that this was more of a cult and it wasn&rsquo;t as sunny as all that. As it turned out, there was nothing to report other than what they new and what they could see. In the meantime, this company was well fit, excuse me, aligned with everything me.</div>
@@ -196,8 +195,8 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">Not really. A couple of people told me that they had come to find out about the &lsquo;real&rsquo; <span class="_paradigm">rHEALTH</span> but found nothing, except it was a differente place and a different community. They stayed because of what they found here.</div>
  
 <h1>Anne Shelly Does Fine</h1>
- <p>Against the expectations many had, <span class="_paradigm">rHEALTH</span> did financially well. Very well, actually. Many of their <span class="_paradigm">FIAT</span> competitors didn&rsquo;t know how to react to the price &lsquo;competition&rsquo;. Many ended up folding when they could not get the profits they expected. Others changed accepted lower profit levels for their investors and slowly changed their way.</p>
- <p>At one point, <span class="_paradigm">BANNERS</span> started to show up for investing in new companies. Th&uacute;y and Paloma, the other financial person in the company, did a lot of workshops to teach would be founders the mechanics of investing. Many of the new companies stayed Ensembled with <span class="_paradigm">rHEALTH</span> because they did related work, but a few others went on their own, including one that went into space. They didn&rsquo;t make rockets or any such, but they wanted people going to space to stay healthy, both in on and off planet Earth. It seemed that the science was different enough.</p>
- <p>The amazing point is that people were investing in other <span class="_paradigm">RADICAL</span> companies. Investing had become easy. They didn&rsquo;t want to accumulate capital, they wanted to be part of creating things for all people. And that&hellip; that was more powerful.</p>
+ <div>Against the expectations many had, <span class="_paradigm">rHEALTH</span> did financially well. Very well, actually. Many of their <span class="_paradigm">FIAT</span> competitors didn&rsquo;t know how to react to the price &lsquo;competition&rsquo;. Many ended up folding when they could not get the profits they expected. Others changed accepted lower profit levels for their investors and slowly changed their way.</<div>
+ <div>At one point, <span class="_paradigm">BANNERS</span> started to show up for investing in new companies. Th&uacute;y and Paloma, the other financial person in the company, did a lot of workshops to teach would be founders the mechanics of investing. Many of the new companies stayed Ensembled with <span class="_paradigm">rHEALTH</span> because they did related work, but a few others went on their own, including one that went into space. They didn&rsquo;t make rockets or any such, but they wanted people going to space to stay healthy, both in on and off planet Earth. It seemed that the science was different enough.</div>
+ <div>The amazing point is that people were investing in other <span class="_paradigm">RADICAL</span> companies. Investing had become easy. They didn&rsquo;t want to accumulate capital, they wanted to be part of creating things for all people. And that&hellip; that was more powerful.</div>
 
 {% include related.html %}
