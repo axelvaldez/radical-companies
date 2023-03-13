@@ -303,9 +303,6 @@ table._background tr ul, ul li p:last-of-type {
 /*
  * dialog: begin
  */
-._quotespan {
-  font-style:italic;
-}
 ._speakera, ._speakerac,
 ._speakerb, ._speakerbc {
   font-style:italic;
@@ -318,19 +315,22 @@ table._background tr ul, ul li p:last-of-type {
 ._speakera, ._speakerb {
   text-indent:-1.1em;
 }
-._speakera::before, ._speakerb::before {
+._speakerac::before, ._speakerbc::before {
+  content:"“";
+}
+._speakera::before, ._speakerb::before, ._quotespan::before {
   content:"— “";
 }
 ._quotespan {
   font-style:italic;
 }
-._speakerac::before, ._speakerbc::before, ._quotespan::before {
-  content:"“";
-}
 ._speakera::after, ._speakerac::after,
 ._speakerb::after, ._speakerbc::after,
 ._quotespan::after {
   content:"”";
+}
+._quotespan {
+  font-style:italic;
 }
 p {
   padding-left:0;
