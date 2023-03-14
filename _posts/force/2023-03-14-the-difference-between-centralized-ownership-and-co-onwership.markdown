@@ -12,9 +12,7 @@ image:    "icon-the-difference-between-centralized-ownership-and-co-onwership.sv
 
 <h1>&nbsp;</h1>
  <p>At one point I wrote,</p>
-  <ul>
-   <li><span class="_quotespan" id="_bolder">&hellip; centralized governance and ownership will destroy us. A lot of folks seem to agree that we have to decentralize decision making (co-management), but we also have to decentralize ownership (co-ownership). We have to let wealth flow to the people who created it. We need to co-ownership in addition to co-management.</span></li>
-  </ul>
+  <div class="_quotespan" id="_bolder">&hellip; centralized governance and ownership will destroy us. A lot of folks seem to agree that we have to decentralize decision making (co-management), but we also have to decentralize ownership (co-ownership). We have to let wealth flow to the people who created it. We need to co-ownership in addition to co-management.</div>
  <p>It is confusing and not as clear as it needs to be. I have this thing about using the fewest words possible to say things, but sometimes I go way over and this is one case where I did.</p>
  <p>This is the corrections I made,</p>
   <ul>
@@ -24,8 +22,6 @@ image:    "icon-the-difference-between-centralized-ownership-and-co-onwership.sv
    <li><span class="_quotespan">Instead, we must move towards co-ownership (<em>i.e.</em>, decentralized ownership) as well as to co-management (<em>i.e.</em>, decentralized management).</span> &ndash; Changed it for clarity.</li>
   </ul>
  <p>When it is all said and done, this is what I meant to write,</p>
-  <ul>
-   <li><span class="_quotespan" id="_bolder">&hellip; <span class="_me">centralized</span> governance and ownership will destroy us. Many folks seem to agree that we have to decentralize decision making, but that is not enough. We also have to decentralize ownership. We have to let wealth flow to the people who created it, based on their contributions. Instead, we must move towards co-ownership (<em>i.e.</em>, decentralized ownership) as well as to co-management (<em>i.e.</em>, decentralized management).</span>.</li>
-  </ul>
+  <div class="_quotespan" id="_bolder">&hellip; <span class="_me">centralized</span> governance and ownership will destroy us. Many folks seem to agree that we have to decentralize decision making, but that is not enough. We also have to decentralize ownership. We have to let wealth flow to the people who created it, based on their contributions. Instead, we must move towards co-ownership (<em>i.e.</em>, decentralized ownership) as well as to co-management (<em>i.e.</em>, decentralized management).</div>.
 
 {% include related.html %}
