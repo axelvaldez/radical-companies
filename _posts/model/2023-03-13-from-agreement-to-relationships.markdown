@@ -4,6 +4,7 @@ title:    "From Agreements to Relationships"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-from-agreements-to-relationships.svg"
+image:    "icon-from-agreements-to-relatioships.svg"
 ---
 
 <div style="display:none;">
