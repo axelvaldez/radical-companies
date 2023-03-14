@@ -4,7 +4,6 @@ title:    "From Agreements to Relationships"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-from-agreements-to-relationships.svg"
-image:    "icon-from-agreements-to-relatioships.svg"
 ---
 
 <div style="display:none;">
@@ -25,7 +24,7 @@ image:    "icon-from-agreements-to-relatioships.svg"
   </ol>
  <p>Note that when doing this with a group, &lsquo;me&rsquo; is for each person in the group and &lsquo;my committments&rsquo; beocmes a list of each person&rsquo;s commitments.</p>
 
-<h1>My & You</h1>
+<h1>You & Me</h1>
  <p>We do want to make explicit how you experience the world and what you have to offer it in return. Things that indicate how you show up in the wold,</p>
  <ul>
   <li>Who are you?</li>
