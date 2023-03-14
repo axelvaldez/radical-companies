@@ -329,9 +329,6 @@ div._quotespan {
   content:"— “";
 }
 ._speakera, ._speakerac {
-  /*
-  font-weight:520;
-  */
   font-family:Georgia, serif;
 }
 ._speakerb, ._speakerbc {
@@ -361,11 +358,13 @@ p {
 /*
  * dialog: end
  */
-
- ._me {
+#_bolder {
+  font-weight:bolder;
+}
+._me {
   font-style:normal;
  }
- ._image {
+._image {
   display:grid;
   place-items:center;
   font-family:'Courier New', Courier, monospace;
