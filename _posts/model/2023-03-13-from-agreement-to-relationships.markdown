@@ -48,7 +48,7 @@ image:    "icon-from-agreements-to-relationships.svg"
   <li>Do you talk without pausing?</li>
   <li>How do we knew if we can interrrupt and jump in?</li>
  </ul>
- <p>Then the other, &ldquo;me,&rdquo; person deals talks about how they perceive the world and they show up in the world. If there is more than one person involved, they have probably gone through this before and their responses to these questions have beeb written down.</p>
+ <p>Then the other co-owner talks about how she perceives the world and how she shows up in the world. If there is more than one person involved, they probably have gone through this before and their responses to these questions have beeb written down.</p>
 
 <h1>Committments</h1>
  <p>As you go through these questions, you will likely bring up things that you would like to change. For some of these, you may even make a commitment, <span class="_quotespan">Even when I am agry, I will keep my voice down&hellip; .</span></p>
