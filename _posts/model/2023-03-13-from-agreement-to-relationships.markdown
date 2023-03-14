@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "From Agreement to Relationships"
+title:    "From Agreements to Relationships"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-from-agreements-to-relationships.svg"
