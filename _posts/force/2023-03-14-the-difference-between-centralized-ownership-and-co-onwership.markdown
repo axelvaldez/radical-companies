@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The Difference between Centralized Ownership Co-Onwership"
+title:    "The Difference between Centralized Ownership and Co-Onwership"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-the-difference-between-centralized-ownership-and-co-onwership.svg"
