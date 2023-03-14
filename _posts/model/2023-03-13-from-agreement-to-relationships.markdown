@@ -15,7 +15,7 @@ image:    "icon-from-agreements-to-relationships.svg"
  <p>You can read about the latest version of the Trust Agreement here.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> However, in this post I am taking a different, simpler approach based on relationship.</p>
 
 <h1>Not a Contract</h1>
- <p>Rather than creating an <em>agreement</em>, which people can interpret as a contract, we are creating a Explicit Relationships. Contracts can be <em>enforced</em> by the courts, but when it comes to relationships betweem people. Rather than injecting force, we want to make relationships as explicit as possible.</p>
+ <p>Rather than creating an <em>agreement</em>, which people can interpret as a contract, we are creating an Explicit Relationships. Contracts can be <em>enforced</em> by the courts, but when it comes to relationships betweem people we don&rsquo;t want to inject force. Rather, we want to make relationships as explicit as possible.</p>
  <p>What is often lacking in the world is your explicit expression of yourself. Some of it comes out during arguments, <span class="_quotespan">&hellip; that&rsquo;s the way I am. I cannot think any other way</span>. But generally most of it never gets said.</p>
  <p>I know that whatever you say about yourself is a snapshot of the way you feel at this moment in time. It is not the &lsquo;true you&rsquo; for long: it will change tomorrow or the day after. But it is a place to start.</p>
 
