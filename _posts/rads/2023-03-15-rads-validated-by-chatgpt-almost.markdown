@@ -47,11 +47,21 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
     <td></td>
    </tr>
    <tr>
-    <th>Motivation</th>
+    <th>Expiration Date</th>
     <td></td>
    </tr>
    <tr>
-    <th>Motivation</th>
+    <th>Motivation and Incentive</th>
+    <td></td>
+   </tr>
+   <tr>
+    <th>Administration and logistics</th>
+    <td></td>
+   </tr>
+    <th>Legal and Regulatory</th>
+    <td></td>
+   </tr>
+    <th>It may not be practical or feasible</th>
     <td></td>
    </tr>
    <tr>
