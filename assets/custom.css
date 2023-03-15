@@ -358,7 +358,8 @@ p {
 ._speaker {
   font-family:Roboto;
   font-weight:bolder;
-  text-indent:0.3em;;
+  text-indent:0.3em;
+  font-size:smaller;
 }
 ._continue {
   content:"   ";
