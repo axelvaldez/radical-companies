@@ -359,13 +359,7 @@ p {
   font-family:Roboto;
   font-style:italic;
   display:inline;
-}
-._speaker::before {
   font-weight:bolder;
-}
-._speaker::after {
-  content:" — ";
-  font-weight:normal;
 }
 ._continue {
   content:"   ";
