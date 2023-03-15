@@ -363,6 +363,7 @@ p {
 }
 ._continue {
   content:"   ";
+  font-size:smaller;
 }
 /*
  * dialog: end
