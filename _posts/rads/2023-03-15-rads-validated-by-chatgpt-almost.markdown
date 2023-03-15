@@ -31,7 +31,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
   <table class="_background" style="border:1px solis black; width:70%; ">
    <tr>
     <th><span class="_paradigm">FIAT</span></th>
-    <td><span class="_quotespan">Because I say so</span></td>
+    <td><span class="_quotespan" style="">Because I say so</span></td>
    </tr>
    <tr>
     <td class="_spacer_"></td>
@@ -61,6 +61,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
     <th>Legal and Regulatory</th>
     <td></td>
    </tr>
+   <tr>
     <th>It may not be practical or feasible</th>
     <td></td>
    </tr>
