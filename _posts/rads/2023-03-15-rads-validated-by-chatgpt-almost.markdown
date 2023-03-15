@@ -28,7 +28,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
 
 <h1>&nbsp;</h1>
  <div class="_center">
-  <table class="_background" style="border:1px solis black; width:60%; ">
+  <table class="_background" style="border:1px solis black; width:50%; ">
    <tr>
     <th>FIAT</th>
     <td><span class="_quotespan">Because I say so</span></td>
