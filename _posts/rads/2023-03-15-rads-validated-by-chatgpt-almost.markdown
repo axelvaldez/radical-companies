@@ -43,6 +43,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
    </tr>
   </table>
  </div>
+ <br clear="all">
 
 <h1><span class="_paradigm">FIAT</span> Limitations</h1>
  <div class="_center">
