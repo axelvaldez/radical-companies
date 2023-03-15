@@ -54,7 +54,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
    </tr>
    <tr>
     <th>Expiration Date</th>
-    <td>This surpised us and we talked about it for a few minues, but then we realized that we have a built-in decaying rate for existing <span class="_paradigm">RAD</span>s. That is because <span class="_paradigm">RAD</span>s are created evey day, so the <em>percentage</em> of <span class="_paradigm">RAD</span>s that you own decay ever day. If you keep making contributions, the percentage changes </td>
+    <td>This surpised until we realized that 1) &ldquo;expiration date&rdquo; is a <span class="_paradigm">RAD</span> concept that involved force (<em>, negotiating, convicing, etc.), and 2) instead we have a built-in <em>change rate</em> for <span class="_paradigm">RAD</span>s. That is because <span class="_paradigm">RAD</span>s are created evey day, so the <em>percentage</em> of <span class="_paradigm">RAD</span>s that you own changes ever day. If you keep making contributions, the percentage changes and probably goes up, but if you stopp making contributions the <span class="_paradigm">RAD</span>s you already have goes down as a percentage. A new co-owner make may outstanding contributions and up with a large percentage of <span class="_paradigm">RAD</span>s.</td>
    </tr>
    <tr>
     <th>Motivation and Incentive</th>
