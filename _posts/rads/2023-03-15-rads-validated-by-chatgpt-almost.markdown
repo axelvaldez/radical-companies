@@ -35,7 +35,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
    </tr>
    <tr>
     <th>FIAT Ownership</th>
-    <td>Power comes from capital/td>
+    <td>Power comes from capital</td>
    </tr>
    <tr>
     <th>Co-Ownership</th>
