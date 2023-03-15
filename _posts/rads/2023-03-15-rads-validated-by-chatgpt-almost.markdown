@@ -54,7 +54,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
    </tr>
    <tr>
     <th>Expiration Date</th>
-    <td>This surpised until we realized that 1) &ldquo;expiration date&rdquo; is a <span class="_paradigm">RAD</span> concept that involved force (<em>i.e.</em>, negotiating, convicing, etc.), and 2) instead we have a built-in <em>change rate</em> for <span class="_paradigm">RAD</span>s. <span class="_paradigm">RAD</span>s are created evey day, so the <em>percentage</em> of <span class="_paradigm">RAD</span>s that you own changes ever day. A new co-owner make may outstanding contributions and up with a large percentage of <span class="_paradigm">RAD</span>s.</td>
+    <td>This surpised until we realized that 1) &ldquo;expiration date&rdquo; is a <span class="_paradigm">RAD</span> concept that involves negotiating, convincing, etc., and 2) instead we have a built-in <em>change rate</em> for <span class="_paradigm">RAD</span>s. <span class="_paradigm">RAD</span>s are created evey day, so the <em>percentage</em> of <span class="_paradigm">RAD</span>s that you own changes ever day. A new co-owner make may outstanding contributions and up with a large percentage of <span class="_paradigm">RAD</span>s.</td>
    </tr>
    <tr>
     <th>Motivation and Incentive</th>
