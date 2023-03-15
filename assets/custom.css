@@ -357,9 +357,8 @@ p {
 }
 ._speaker {
   font-family:Roboto;
-  font-style:italic;
-  display:inline;
   font-weight:bolder;
+  text-indent:0.5em;;
 }
 ._continue {
   content:"   ";
