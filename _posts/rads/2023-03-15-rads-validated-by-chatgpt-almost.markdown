@@ -30,7 +30,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
  <div style="float:right; ">
   <table class="_background" style="border:1px solis black; width:70%; ">
    <tr>
-    <th><span class="_paradigm">FIAT</span></th>
+    <th><span class="_paradigm" style="width:30%; ">FIAT</span></th>
     <td><span class="_quotespan" style="">Because I say so</span></td>
    </tr>
    <tr>
