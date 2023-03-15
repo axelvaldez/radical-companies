@@ -30,15 +30,15 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
  <div class="_float">
   <table class="_background" style="border:1px solis black; width:70%; ">
    <tr>
-    <th><span class="_paradigm" style="width:30%; ">FIAT</span></th>
+    <th><span class="_paradigm">FIAT</span></th>
     <td><span class="_quotespan">Because I say so</span></td>
    </tr>
    <tr>
-    <th><span class="_paradigm" style="width:30%; ">FIAT Ownership</span></th>
+    <th><span class="_paradigm">FIAT Ownership</span></th>
     <td>Power comes from capital/td>
    </tr>
    <tr>
-    <th><span class="_paradigm" style="width:30%; ">Co-Ownership</span></th>
+    <th><span class="_paradigm">Co-Ownership</span></th>
     <td>Power comes from contributions</td>
    </tr>
   </table>
