@@ -355,6 +355,14 @@ p {
   padding-left:0;
   margin-bottom:3px;
 }
+._speaker {
+  font-family:sans-serif;
+  font-weight:bolder;
+}
+._speaker:after {
+  content:"— “";
+}
+}
 /*
  * dialog: end
  */
