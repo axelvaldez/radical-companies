@@ -363,7 +363,7 @@ p {
   */
 }
 ._speaker:after {
-  content:" — “";
+  content:" — ";
 }
 }
 /*
