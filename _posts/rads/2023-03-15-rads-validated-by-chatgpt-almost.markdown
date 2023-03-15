@@ -50,19 +50,19 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
   <table class="_background">
    <tr>
     <th>Market-based approach</th>
-    <td>The assumption here is of a <em>perfectly open market</em>. Unfortunately, there is no such thing as markets are gamed by big players, governments, etc. It seems that the data source chatGPT uses is biased towards this assumption of &ldquo;perfection.&rdquo; Unfortunately, this makes this response meaningless in the <span class="_paradigm">RADICAL</span> context. A market is not a solution.</td>
+    <td>The assumption here is of a <em>perfectly open market</em>. Unfortunately, there is no such thing as markets are gamed by big players, governments, etc. It seems that the data source chatGPT uses is biased towards this assumption of &ldquo;perfection.&rdquo; Unfortunately, this makes this response meaningless in the <span class="_paradigm">RADICAL</span> context. A market is not a solution.</td>zzz
    </tr>
   </table>
   <table class="_background">
    <tr>
     <th>Expiration Date</th>
-    <td>This surpised until we realized that 1&ndash;&ldquo;expiration date&rdquo; is a <span class="_paradigm">RAD</span> concept that involved force (<em>, negotiating, convicing, etc.), and 2&ndash;instead we have a built-in <em>change rate</em> for <span class="_paradigm">RAD</span>s. <span class="_paradigm">RAD</span>s are created evey day, so the <em>percentage</em> of <span class="_paradigm">RAD</span>s that you own changes ever day. A new co-owner make may outstanding contributions and up with a large percentage of <span class="_paradigm">RAD</span>s.</td>
+    <td>This surpised until we realized that 1&ndash;&ldquo;expiration date&rdquo; is a <span class="_paradigm">RAD</span> concept that involved force (<em>, negotiating, convicing, etc.), and 2&ndash;instead we have a built-in <em>change rate</em> for <span class="_paradigm">RAD</span>s. <span class="_paradigm">RAD</span>s are created evey day, so the <em>percentage</em> of <span class="_paradigm">RAD</span>s that you own changes ever day. A new co-owner make may outstanding contributions and up with a large percentage of <span class="_paradigm">RAD</span>s.</td>xxx
    </tr>
   </table>
   <table class="_background">
    <tr>
     <th>Motivation and Incentive</th>
-    <td></td>
+    <td></td>yyy
    </tr>
   </table>
   <table class="_background">
