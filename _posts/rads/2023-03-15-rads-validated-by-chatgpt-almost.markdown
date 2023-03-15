@@ -11,7 +11,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <div class="_quotespan"><span class="_speaker">Me</span> Is there a mechanism that does not involve community, government, or politics to decide when unused resource units expire?</span>
+ <div class="_quotespan"><span class="_speaker">Me</span> Is there a mechanism that does not involve community, government, or politics to decide when unused resource units expire?</div>
 
 <!--
 ChatGPT: One possible mechanism that does not involve community, government, or politics to decide when unused resource units expire could be a market-based approach.
