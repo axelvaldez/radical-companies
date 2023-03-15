@@ -45,16 +45,16 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
  </div>
  <br clear="all">
 
-<h1><span class="_paradigm">FIAT</span> Limitations</h1>
+<h1>(<span class="_paradigm">FIAT</span>) Limitations</h1>
  <div class="_center">
   <table class="_background">
    <tr>
     <th>Market-based approach</th>
-    <td></td>
+    <td>The assumption here, and for Economist in general, is of a perfectly open market. Unfortunately, that doesn&rsquo;t exist. Markets are gamed by big players. This told us that the database chatGPT uses is biased towards this assumption of &ldquo;perfection.&rdquo; and that makes this response meaningless in the <span class="_paradigm">RADICAL</span> context. A market is not a solution.</td>
    </tr>
    <tr>
     <th>Expiration Date</th>
-    <td></td>
+    <td>This surpised us and we talked about it for a few minues, but then we realized that we have a built-in decaying rate for existing <span class="_paradigm">RAD</span>s. That is because <span class="_paradigm">RAD</span>s are created evey day, so the <em>percentage</em> of <span class="_paradigm">RAD</span>s that you own decay ever day. If you keep making contributions, the percentage changes </td>
    </tr>
    <tr>
     <th>Motivation and Incentive</th>

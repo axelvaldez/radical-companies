@@ -371,10 +371,10 @@ p {
 }
 ._float th {
   text-align:right;;
-  width:30%;
+  width:40%;
 }
 ._float td {
-  width:70%;
+  width:60%;
 }
 #_bolder {
   font-weight:bolder;
