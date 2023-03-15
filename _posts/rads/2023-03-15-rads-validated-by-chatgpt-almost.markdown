@@ -27,7 +27,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
  <div class="_quotespan"><span class="_continue_"></span>Overall, while the idea of a company where everyone receives an equal fraction of the profits but must give it away to others is an interesting concept, it may not be practical or feasible in all situations. It would require careful planning and consideration to ensure that it achieves the desired outcomes without creating unintended consequences or challenges.</div>
 
 <h1>&nbsp;</h1> 
- <div class="_float">
+ <div>
   <table class="_background" style="border:1px solis black; width:90%; ">
    <tr>
     <th>FIAT</th>
