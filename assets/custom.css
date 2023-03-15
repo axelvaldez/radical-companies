@@ -376,6 +376,10 @@ p {
 ._float td {
   width:60%;
 }
+div._float table._background {
+  border:1px solid black;
+  width:90%;
+}
 #_bolder {
   font-weight:bolder;
 }
