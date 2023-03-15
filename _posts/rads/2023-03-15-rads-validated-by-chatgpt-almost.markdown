@@ -16,7 +16,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
    <tr>
     <th>Me</th>
     <td>
-     <div class="_speaker">Is there a mechanism that does not involve community, government, or politics to decide when unused resource units expire?</div>
+     <div class="_quotespan">Is there a mechanism that does not involve community, government, or politics to decide when unused resource units expire?</div>
     </td>
    </tr>
    <tr>
@@ -29,8 +29,8 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
      <div class="_quotespan"><span class="_continue_"></span>While this approach would not involve community, government, or politics to determine expiration dates, it would require the development of a decentralized marketplace platform that is secure, reliable, and accessible to all individuals. Additionally, it would require individuals to have a certain level of financial literacy and access to digital technologies in order to participate in the marketplace.</div>
     </td>
 
- <div class="_speaker">Me</div><div class="_quotespan">What do you think of an institution in a business where everyone in the company receives an equal fraction of the profits, but has to give them to other people? They cannot keep the fraction for themselves.</div>
- <div class="_speaker">ChatGPT</div><div class="_quotespan">The idea of a company where everyone receives an equal fraction of the profits but must give it away to other people is an interesting concept. It could potentially create a culture of giving and generosity within the company, and encourage employees to think beyond their own interests and needs.</div>
+ <div class="_quotespan">Me</div><div class="_quotespan">What do you think of an institution in a business where everyone in the company receives an equal fraction of the profits, but has to give them to other people? They cannot keep the fraction for themselves.</div>
+ <div class="_quotespan">ChatGPT</div><div class="_quotespan">The idea of a company where everyone receives an equal fraction of the profits but must give it away to other people is an interesting concept. It could potentially create a culture of giving and generosity within the company, and encourage employees to think beyond their own interests and needs.</div>
  <div class="_quotespan"><span class="_continue_"></span>However, there are several potential challenges and considerations to keep in mind with this approach. For example:</div>
  <div class="_quotespan"><span class="_continue_"></span>Motivation and incentive: If employees are not allowed to keep any of the profits for themselves, they may be less motivated to work hard and contribute to the success of the company. Without a direct financial incentive, employees may not be as invested in the company's success, which could lead to lower productivity and lower overall profits.</div>
  <div class="_quotespan"><span class="_continue_"></span>Administration and logistics: Distributing profits to others would require a significant amount of administration and logistics to ensure that the money is being distributed fairly and effectively. This could be difficult to manage, especially if the recipients of the profits are not clearly defined or if there are disagreements over who should receive the funds.</div>
