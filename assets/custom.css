@@ -358,10 +358,13 @@ p {
 ._speaker {
   font-family:Roboto;
   font-style:italic;
+}
+._speaker::before {
   font-weight:bolder;
 }
 ._speaker::after {
   content:" — ";
+  font-weight:normal;
 }
 ._continue {
   content:"   ";
