@@ -366,6 +366,12 @@ p {
 /*
  * dialog: end
  */
+._float {
+  float:right;
+}
+._float th {
+  width:30%;
+}
 #_bolder {
   font-weight:bolder;
 }

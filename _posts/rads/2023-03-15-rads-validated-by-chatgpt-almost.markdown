@@ -27,11 +27,11 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
  <div class="_quotespan"><span class="_continue_"></span>Overall, while the idea of a company where everyone receives an equal fraction of the profits but must give it away to others is an interesting concept, it may not be practical or feasible in all situations. It would require careful planning and consideration to ensure that it achieves the desired outcomes without creating unintended consequences or challenges.</div>
 
 <h1>&nbsp;</h1> 
- <div style="float:right; ">
+ <div class="_float">
   <table class="_background" style="border:1px solis black; width:70%; ">
    <tr>
-    <th><span class="_paradigm" width="25";" ">FIATz</span></th>
-    <td><span class="_quotespan" style="">Because I say so</span></td>
+    <th><span class="_paradigm" style="width:30%; ">FIATy</span></th>
+    <td><span class="_quotespan">Because I say so</span></td>
    </tr>
    <tr>
     <td class="_spacer_"></td>
