@@ -11,7 +11,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <div class="_center">
+ <div>
   <table class="_background">
    <tr>
     <th>Me</th>
