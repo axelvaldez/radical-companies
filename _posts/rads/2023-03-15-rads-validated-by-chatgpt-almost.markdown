@@ -28,7 +28,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
 
 <h1>&nbsp;</h1> 
  <div style="float:right; ">
-  <table class="_background" style="border:1px solis black; width:50%; ">
+  <table class="_background" style="border:1px solis black; width:70%; ">
    <tr>
     <th><span class="_paradigm">FIAT</span></th>
     <td><span class="_quotespan">Because I say so</span></td>
@@ -43,7 +43,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
  <div class="_center">
   <table class="_background">
    <tr>
-    <th>market-based approach</th>
+    <th>Market-based approach</th>
     <td></td>
    </tr>
    <tr>
@@ -59,5 +59,5 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
    </tr>
   </table>
  </div>
- 
+
 {% include related.html %}
