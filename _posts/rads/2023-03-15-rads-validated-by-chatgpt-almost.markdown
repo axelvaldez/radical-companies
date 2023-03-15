@@ -35,11 +35,11 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
    </tr>
    <tr>
     <th><span class="_paradigm" style="width:30%; ">FIAT Ownership</span></th>
-    <td><span class="_quotespan">Power comes from capital</span></td>
+    <td>Power comes from capital/td>
    </tr>
    <tr>
     <th><span class="_paradigm" style="width:30%; ">Co-Ownership</span></th>
-    <td><span class="_quotespan">Power comes from contributions</span></td>
+    <td>Power comes from contributions</td>
    </tr>
   </table>
  </div>
