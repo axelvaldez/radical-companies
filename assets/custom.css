@@ -370,7 +370,11 @@ p {
   float:right;
 }
 ._float th {
-  width:30%;
+  text-align:right;;
+  width:25%;
+}
+._float td {
+  width:70%;
 }
 #_bolder {
   font-weight:bolder;
