@@ -11,8 +11,8 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <div class="_quotespan"><span class="_speaker">Me</span> Is there a mechanism that does not involve community, government, or politics to decide when unused resource units expire?</div>
- <div class="_quotespan"><span class="_speaker">ChatGPT</span>One possible mechanism that does not involve community, government, or politics to decide when unused resource units expire could be a market-based approach.</div>
+ <div class="_speaker">Me</div><div class="_quotespan">Is there a mechanism that does not involve community, government, or politics to decide when unused resource units expire?</div>
+ <div class="_speaker">ChatGPT</div><div class="_quotespan">One possible mechanism that does not involve community, government, or politics to decide when unused resource units expire could be a market-based approach.</div>
  <div class="_quotespan">Under this approach, individuals could trade their resource units with each other on a decentralized marketplace. The expiration date for each unit could be determined by the seller, and buyers would be able to choose which units to purchase based on the expiration date that best suits their needs.</div>
  <div class="_quotespan"><span class="_continue_"></span>For example, if an individual needs resource units to access healthcare services in the near future, they may choose to purchase units with a shorter expiration date, while if another individual wants to invest in a longer-term project, they may choose to purchase units with a longer expiration date.</div>
  <div class="_quotespan"><span class="_continue_"></span>The expiration date for each unit could be determined based on supply and demand dynamics on the marketplace. Units with shorter expiration dates may be in higher demand and therefore command a higher price, while units with longer expiration dates may be in lower demand and therefore command a lower price.</div>

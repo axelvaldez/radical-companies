@@ -358,6 +358,7 @@ p {
 ._speaker {
   font-family:Roboto;
   font-style:italic;
+  display:inline;
 }
 ._speaker::before {
   font-weight:bolder;
