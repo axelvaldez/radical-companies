@@ -358,7 +358,6 @@ p {
 ._speaker {
   font-family:Roboto;
   font-style:italic;
-  text-indent:-1.1em;
 }
 ._speaker::after {
   content:" — ";
