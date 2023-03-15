@@ -57,7 +57,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
    <tr>
     <td class="_spacer_"></td>
    </tr>
-  </table>yy
- </div>yy
-
+  </table>
+ </div>
+ 
 {% include related.html %}
