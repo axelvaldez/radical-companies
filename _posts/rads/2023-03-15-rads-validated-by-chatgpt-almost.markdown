@@ -58,6 +58,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
     <th>Administration and logistics</th>
     <td></td>
    </tr>
+   <tr>
     <th>Legal and Regulatory</th>
     <td></td>
    </tr>
