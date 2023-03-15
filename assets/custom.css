@@ -362,9 +362,11 @@ p {
   font-weight:bolder;
   */
 }
-._speaker:after {
+._speaker::after {
   content:" — ";
 }
+._continue {
+  content:"   ";
 }
 /*
  * dialog: end
