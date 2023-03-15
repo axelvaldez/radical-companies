@@ -26,9 +26,9 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
  <div class="_quotespan"><span class="_continue_"></span>Legal and regulatory considerations: There may be legal and regulatory considerations to take into account with this approach, such as tax laws, labor laws, and securities regulations. Companies would need to ensure that they are complying with all relevant laws and regulations to avoid any legal or financial repercussions.</div>
  <div class="_quotespan"><span class="_continue_"></span>Overall, while the idea of a company where everyone receives an equal fraction of the profits but must give it away to others is an interesting concept, it may not be practical or feasible in all situations. It would require careful planning and consideration to ensure that it achieves the desired outcomes without creating unintended consequences or challenges.</div>
 
-<h1>&nbsp;</h1> 
- <div>
-  <table class="_background" style="border:1px solis black; width:90%; ">
+<h1>&nbsp;</h1>
+ <div class="_center">
+  <table class="_background" style="border:1px solis black; width:60%; ">
    <tr>
     <th>FIAT</th>
     <td><span class="_quotespan">Because I say so</span></td>
