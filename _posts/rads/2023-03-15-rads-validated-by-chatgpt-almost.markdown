@@ -53,37 +53,37 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
     <td>The assumption here is of a <em>perfectly open market</em>. Unfortunately, there is no such thing as markets are gamed by big players, governments, etc. It seems that the data source chatGPT uses is biased towards this assumption of &ldquo;perfection.&rdquo; Unfortunately, this makes this response meaningless in the <span class="_paradigm">RADICAL</span> context. A market is not a solution.</td>
    </tr>
   </table>
-  <table>
+  <table class="_background">
    <tr>
     <th>Expiration Date</th>
-    <td>This surpised until we realized that 1) &ldquo;expiration date&rdquo; is a <span class="_paradigm">RAD</span> concept that involved force (<em>, negotiating, convicing, etc.), and 2) instead we have a built-in <em>change rate</em> for <span class="_paradigm">RAD</span>s. That is because <span class="_paradigm">RAD</span>s are created evey day, so the <em>percentage</em> of <span class="_paradigm">RAD</span>s that you own changes ever day. If you keep making contributions, the percentage changes and probably goes up, but if you stopp making contributions the <span class="_paradigm">RAD</span>s you already have goes down as a percentage. A new co-owner make may outstanding contributions and up with a large percentage of <span class="_paradigm">RAD</span>s.</td>
+    <td>This surpised until we realized that 1) &ldquo;expiration date&rdquo; is a <span class="_paradigm">RAD</span> concept that involved force (<em>, negotiating, convicing, etc.), and 2) instead we have a built-in <em>change rate</em> for <span class="_paradigm">RAD</span>s. <span class="_paradigm">RAD</span>s are created evey day, so the <em>percentage</em> of <span class="_paradigm">RAD</span>s that you own changes ever day. A new co-owner make may outstanding contributions and up with a large percentage of <span class="_paradigm">RAD</span>s.</td>
    </tr>
   </table>
-  <table>
+  <table class="_background">
    <tr>
     <th>Motivation and Incentive</th>
     <td></td>
    </tr>
   </table>
-  <table>
+  <table class="_background">
    <tr>
     <th>Administration and logistics</th>
     <td></td>
    </tr>
   </table>
-  <table>
+  <table class="_background">
    <tr>
     <th>Legal and Regulatory</th>
     <td></td>
    </tr>
   </table>
-  <table>
+  <table class="_background">
    <tr>
     <th>It may not be practical or feasible</th>
     <td></td>
    </tr>
   </table>
-  <table>
+  <table class="_background">
    <tr>
     <td class="_spacer_"></td>
    </tr>
