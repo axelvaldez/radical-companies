@@ -35,8 +35,8 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
    </tr>
    <tr>
     <td class="_spacer_"></td>
-   </tr>
-  </table>
+   </tr>xx
+  </table>xx
  </div>
 
 <h1><span class="_paradigm">FIAT</span> Limitations</h1>
@@ -58,7 +58,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
    <tr>
     <td class="_spacer_"></td>
    </tr>
-  </table>
- </div>
+  </table>yy
+ </div>yy
 
 {% include related.html %}
