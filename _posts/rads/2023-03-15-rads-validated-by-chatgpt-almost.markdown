@@ -58,19 +58,19 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
    </tr>
    <tr>
     <th>Motivation and Incentive</th>
-    <td></td>
+    <td>Maybe the question mislead chatGPT, but one of the aspect of <span class="_paradigm">RAD</span>s is you get one every day, but if for you to give to other people, you don&rsquo;t keep. If you believe that we are all <em>homo economicus</em> and our main motivation is money, then the motivation is to contribute because that translates into <span class="_paradigm">RAD</span>s. If instead you believe, like we do, that money came after we have evolved to homo sapiens, the you are motivated to contribute <em>because it gives you satisfaction</em>. In other words, one way or the other, the motivation is there. We believe that people bring their motivation with them when they aim to make an impact. The homo economicus concept confuses <em>motivation to work</em> when it really is <em>motivation to survive</em>. And when survival is based on how much money you have to spend&hellip;</td>
    </tr>
    <tr>
     <th>Administration and logistics</th>
-    <td></td>
+    <td>We have a Open Source (free) <em><span class="_paradigm">RAD</span>s!</em> mobile app that does all the administration and logistics needed. You can also do it with stones. The point is that &ldquo;administration and logistics&rdquo; is a default <span class="_paradigm">RAD</span>s excuse for not doing something.</td>
    </tr>
    <tr>
     <th>Legal and Regulatory</th>
-    <td></td>
+    <td>OK, this is a fair concern because we have not thought about the legal aspect of this. We have neither though about <span class="_paradigm">RAD</span>s tax implications. Whenever that comes up we either skip to the next topic or handwave as &ldquo;we&rsquo;ll deal with that later&rdquo;. We defintely need to talk with a <span class="_paradigm">FIAT</span>s lawyer and have her come up with a contract that 1) protects the work of the community and the co-owners from frivous attacks and 2) keeps co-owners squared up with their taxes.</td>
    </tr>
    <tr>
     <th>It may not be practical or feasible</th>
-    <td></td>
+    <td>It is. This is another default <span class="_paradigm">FIAT</span>s system tactics that is perceived as existential threat. <span class="_quotespan">Be afraid. Be very afraig.</span></td>
    </tr>
    <tr>
     <td class="_spacer_"></td>
