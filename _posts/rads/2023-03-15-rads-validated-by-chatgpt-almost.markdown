@@ -28,10 +28,9 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
      <div class="_quotespan"><span class="_continue_"></span>The expiration date for each unit could be determined based on supply and demand dynamics on the marketplace. Units with shorter expiration dates may be in higher demand and therefore command a higher price, while units with longer expiration dates may be in lower demand and therefore command a lower price.</div>
      <div class="_quotespan"><span class="_continue_"></span>While this approach would not involve community, government, or politics to determine expiration dates, it would require the development of a decentralized marketplace platform that is secure, reliable, and accessible to all individuals. Additionally, it would require individuals to have a certain level of financial literacy and access to digital technologies in order to participate in the marketplace.</div>
     </td>
+   </tr>
   </table>
  </div>
-
-<h1>&nbsp;</h1>
  <div class="_center">
    <table class="_background">
    <tr>
@@ -49,6 +48,8 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
      <div class="_quotespan"><span class="_continue_"></span>Administration and logistics: Distributing profits to others would require a significant amount of administration and logistics to ensure that the money is being distributed fairly and effectively. This could be difficult to manage, especially if the recipients of the profits are not clearly defined or if there are disagreements over who should receive the funds.</div>
      <div class="_quotespan"><span class="_continue_"></span>Legal and regulatory considerations: There may be legal and regulatory considerations to take into account with this approach, such as tax laws, labor laws, and securities regulations. Companies would need to ensure that they are complying with all relevant laws and regulations to avoid any legal or financial repercussions.</div>
      <div class="_quotespan"><span class="_continue_"></span>Overall, while the idea of a company where everyone receives an equal fraction of the profits but must give it away to others is an interesting concept, it may not be practical or feasible in all situations. It would require careful planning and consideration to ensure that it achieves the desired outcomes without creating unintended consequences or challenges.</div>
+    </td>
+   </tr>
   </table>
  </div>
  
