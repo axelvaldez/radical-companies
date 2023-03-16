@@ -14,7 +14,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
  <div class="_center">
   <table class="_background">
    <tr>
-    <th>Me</th>
+    <th>Question</th>
     <td>
      <div class="_quotespan">Is there a mechanism that does not involve community, government, or politics to decide when unused resource units expire?</div>
     </td>
@@ -34,7 +34,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
  <div class="_center">
    <table class="_background">
    <tr>
-    <th>Me</th>
+    <th>Question</th>
     <td>
      <div class="_quotespan">What do you think of an institution in a business where everyone in the company receives an equal fraction of the profits, but has to give them to other people? They cannot keep the fraction for themselves.</div>
     </td>
