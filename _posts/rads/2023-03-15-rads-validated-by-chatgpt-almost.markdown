@@ -80,27 +80,48 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
   <table class="_background">
    <tr>
     <th>Market-based approach</th>
-    <td>The assumption here is of a <em>perfectly open market</em>. Unfortunately, there is no such thing: markets are gamed by big players, governments, etc&mdash;mild forms of force. It seems that the data source chatGPT uses is biased towards this assumption of &ldquo;perfection.&rdquo; Unfortunately, this makes this response meaningless in the <span class="_paradigm">RADICAL</span> context. A market is not a solution.</td>
+    <td>
+     <p>The assumption here is of a <em>perfectly open market</em>. Unfortunately, there is no such thing: markets are gamed by big capital players, governments, etc&mdash;mild forms of force.</p>
+     <p>It seems that the data source chatGPT uses is biased towards this assumption of &ldquo;perfection.&rdquo; Unfortunately, this makes this response meaningless in the <span class="_paradigm">RADICAL</span> context.</p>
+     <p>A market is not a solution.</p>
+    </td>
    </tr>
    <tr>
     <th>Expiration Date</th>
-    <td>This had us going until we realized that 1) &ldquo;expiration date&rdquo; is a <span class="_paradigm">RAD</span> concept that involves negotiating, convincing, etc., and 2) instead we have a built-in <em>change rate</em> for <span class="_paradigm">RAD</span>s. <span class="_paradigm">RAD</span>s are created evey day, so the <em>percentage</em> of <span class="_paradigm">RAD</span>s that you own changes ever day. A new co-owner make may outstanding contributions and in a short time end up with a large percentage of <span class="_paradigm">RAD</span>s.</td>
+    <td>
+     <p>This had us going until we realized that 1) &ldquo;expiration date&rdquo; is a <span class="_paradigm">RAD</span> concept that involves negotiating, convincing, etc., and 2) instead we have a built-in <em>change rate</em> for <span class="_paradigm">RAD</span>s.</p>
+     <p><span class="_paradigm">RAD</span>s are created evey day, so the <em>percentage</em> of <span class="_paradigm">RAD</span>s that you own changes ever day. A new co-owner make may outstanding contributions and in a short time end up with a large percentage of <span class="_paradigm">RAD</span>s.</p>
+    </td>
    </tr>
    <tr>
     <th>Motivation and Incentive</th>
-    <td>Maybe the question mislead chatGPT, but one of the aspect of <span class="_paradigm">RAD</span>s is you get one every day, but if for you to give to other people, you don&rsquo;t keep. If you believe that we are all <em>homo economicus</em> and our main motivation is money, then the motivation is to contribute because that translates into <span class="_paradigm">RAD</span>s. If instead you believe, like we do, that money came after we have evolved to homo sapiens, the you are motivated to contribute <em>because it gives you satisfaction</em>. In other words, one way or the other, the motivation is there. We believe that people bring their motivation with them when they aim to make an impact. The homo economicus concept confuses <em>motivation to work</em> when it really is <em>motivation to survive</em>. And when survival is based on how much money you have to spend&hellip;</td>
+    <td>
+     <p>Maybe the question mislead chatGPT, but one of the aspect of <span class="_paradigm">RAD</span>s is you get one every day, but if for you to give to other people, you don&rsquo;t keep.</p>
+     <p>If you believe that we are all <em>homo economicus</em> and our main motivation is money, then the motivation is to contribute because that translates into <span class="_paradigm">RAD</span>s.</p>
+     <p>If instead you believe, like we do, that money came after we have evolved to homo sapiens, the you are motivated to contribute <em>because it gives you satisfaction</em>. In other words, one way or the other, the motivation is there. We believe that people bring their motivation with them when they aim to make an impact.</p>
+     <p>The homo economicus concept confuses <em>motivation to work</em> when it really is <em>motivation to survive</em>. And when survival is based on how much money you have to spend&hellip;</p>
+    </td>
    </tr>
    <tr>
     <th>Administration and logistics</th>
-    <td>We have a Open Source (free) <em><span class="_paradigm">RAD</span>s!</em> mobile app that does all the administration and logistics needed. You can also do it with stones. The point is that &ldquo;administration and logistics&rdquo; is a default <span class="_paradigm">RAD</span>s excuse for not doing something.</td>
+    <td>
+     <p>We have a Open Source (free) <em><span class="_paradigm">RAD</span>s!</em> mobile app that does all the administration and logistics needed. You could also do it with stones, if it came to it.</p>
+     <p>The point is that &ldquo;administration and logistics&rdquo; is a default <span class="_paradigm">RAD</span>s excuse for not doing something.</p>
+    </td>
    </tr>
    <tr>
     <th>Legal and Regulatory</th>
-    <td>OK, this is a fair concern and we have not thought about the legal aspect of this. We have neither though about <span class="_paradigm">RAD</span>s tax implications. Whenever that comes up we either skip to the next topic or handwave as &ldquo;we&rsquo;ll deal with that later&rdquo;. We defintely need to talk with a <span class="_paradigm">FIAT</span>s lawyer and have her come up with a contract that 1) protects the work of the community and the co-owners from frivous attacks and 2) keeps co-owners squared up with their taxes.</td>
+    <td>
+     <p>OK, this is a fair concern: we have not done anything about the legal aspect of this or about <span class="_paradigm">RAD</span>s tax implications. Whenever that comes up we either skip to the next topic or handwave furiously as <span class="_quotespan">we&rsquo;ll deal with that later.</span></p>
+     <p>We defintely need to talk with competent <span class="_paradigm">FIAT</span>s lawyers and have them come up with a contract that 1) protects the work of the community, 2) the co-owners from frivolous attacks, and 3) keeps co-owners squared up with their taxes.</p>
+    </td>
    </tr>
    <tr>
     <th>It may not be practical or feasible</th>
-    <td>It is. This is another default <span class="_paradigm">FIAT</span>s system tactics that is perceived as existential threat. <span class="_quotespan">Be afraid. Be very afraig.</span></td>
+    <td>
+     <p>This is another default <span class="_paradigm">FIAT</span>s system reaction to anything that is perceived as existential threat. <span class="_quotespan">Be afraid. Be very afraid.</span></p>
+     <p>An alternative to <span class="_paradigm">FIAT</span>s is practical and feasible. And it is a better option for business individually and the overall economy. We admit that it is a bad alternative if all you have is capital and can&rsquo;t offer anything else.</span></p>
+    </td>
    </tr>
    <tr>
     <td class="_spacer_"></td>
