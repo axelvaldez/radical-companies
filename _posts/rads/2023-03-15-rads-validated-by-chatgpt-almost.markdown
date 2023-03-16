@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "RADs Validated by chatGPT, Almost"
+title:    "RADs and chatGPT"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
-image:    "icon-rads-validated-by-chatgpt-almost.svg"
+image:    "icon-rads-and-chatgpt.svg"
 ---
 
 <div style="display:none;">
