@@ -74,7 +74,8 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
 
  <br clear="all">
 
-<h1>Challenges, Questions</h1>
+<h1>Fear, Uncentrainty, and Doubt</h1>
+ <p>Let&rsquo;s try and address some of the things that came up in these answers,</p>
  <div class="_center">
   <table class="_background">
    <tr>
