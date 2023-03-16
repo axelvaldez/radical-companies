@@ -96,7 +96,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
    </tr>
    <tr>
     <th>Legal and Regulatory</th>
-    <td>OK, this is a fair concern because we have not thought about the legal aspect of this. We have neither though about <span class="_paradigm">RAD</span>s tax implications. Whenever that comes up we either skip to the next topic or handwave as &ldquo;we&rsquo;ll deal with that later&rdquo;. We defintely need to talk with a <span class="_paradigm">FIAT</span>s lawyer and have her come up with a contract that 1) protects the work of the community and the co-owners from frivous attacks and 2) keeps co-owners squared up with their taxes.</td>
+    <td>OK, this is a fair concern and we have not thought about the legal aspect of this. We have neither though about <span class="_paradigm">RAD</span>s tax implications. Whenever that comes up we either skip to the next topic or handwave as &ldquo;we&rsquo;ll deal with that later&rdquo;. We defintely need to talk with a <span class="_paradigm">FIAT</span>s lawyer and have her come up with a contract that 1) protects the work of the community and the co-owners from frivous attacks and 2) keeps co-owners squared up with their taxes.</td>
    </tr>
    <tr>
     <th>It may not be practical or feasible</th>
