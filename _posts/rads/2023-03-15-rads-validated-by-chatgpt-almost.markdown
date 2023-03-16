@@ -120,7 +120,7 @@ image:    "icon-rads-validated-by-chatgpt-almost.svg"
     <th>It may not be practical or feasible</th>
     <td>
      <p>This is another default <span class="_paradigm">FIAT</span>s system reaction to anything that is perceived as existential threat. <span class="_quotespan">Be afraid. Be very afraid.</span></p>
-     <p>An alternative to <span class="_paradigm">FIAT</span>s is practical and feasible. And it is a better option for business individually and the overall economy. We admit that it is a bad alternative if all you have is capital and can&rsquo;t offer anything else.</span></p>
+     <p>An alternative to <span class="_paradigm">FIAT</span>s is practical and feasible. And it is a better option for business individually and the overall economy. We admit that it is a bad alternative if all you have is capital and can&rsquo;t offer anything else.</p>
     </td>
    </tr>
    <tr>
