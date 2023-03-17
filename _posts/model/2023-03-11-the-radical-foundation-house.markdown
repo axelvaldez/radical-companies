@@ -30,7 +30,7 @@ image:    "icon-the-radical-foundation-house.svg"
   <div class="_center">
    <img
     src="/assets/img/pic-the-radical-foundation-house-3.svg"
-    heigh="30%"
+    height="3.33in"
     alt="The word EXPERIMENTATION sits in between them.">
   </div>
  <p>Altogether, they make up the Foundation house, a template for <span class="_paradigm">RADICAL</span> companies,</p>
