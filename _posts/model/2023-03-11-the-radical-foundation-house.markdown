@@ -30,7 +30,7 @@ image:    "icon-the-radical-foundation-house.svg"
  xxx
   <div class="_center">
    <img
-    src="/assets/img/pic-the-radical-foundation-house-3.svg"\
+    src="/assets/img/pic-the-radical-foundation-house-3.svg"
     height="20%"
     alt="The word EXPERIMENTATION sits in between the floor and the roof and holds up the house.">
   </div>
