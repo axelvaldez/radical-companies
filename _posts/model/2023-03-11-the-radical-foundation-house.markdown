@@ -13,49 +13,6 @@ image:    "icon-the-radical-foundation-house.svg"
 <h1>&nbsp;</h1>
  <p>Yesterday we had a discussion about a way of reframing the <span class="_quotespan"><span class="_paradirm">RADICAL</span> model</span>. After having slept over it, my conclusion is that the <span class="_paradirm">RADICAL</span> model as is more like a template around which many other <span class="_quotespan">framings</span> will be come up.</p>
  <p>I woke up with an image of a building where,</p>
-  <div class="_center">
-   <table class="_background">
-    <tr>
-     <td>
-      The words MEANING and BELONGING are the two axis of the &ldquo;ground floor.&rdquo; It represents the people fundamentals and it is where everything starts,
-     </td>
-     <td>
-      <div class="_center">
-       <img
-        style="width:70%; "
-        src="/assets/img/pic-the-radical-foundation-house-1.svg"
-        alt="The floor of the Foundation house, it shows the words MEANING and BELONGING as its two axis.">
-      </div>
-     </td>
-    </tr>
-    <tr>
-     <td>
-      DECENTRALIZATION and TRANSPARENCY are the axis of the &ldquo;roof&rdquo; meaning that the house has no boss in it and everything is transparent. The latter makes sure that any &ldquo;gaming&rdquo; of the system is apparent to everybody.
-     </td>
-     <td>
-      <div class="_center">
-       <img
-        style="width:70%; "
-        src="/assets/img/pic-the-radical-foundation-house-2.svg"
-        alt="The roof of the Foundation house, it shows the words DECENTRALIZATION and TRANSPARENCY as its two axis.">
-      </div>
-     </td>
-    </tr>
-    <tr>
-     <td>
-      Finally, the word EXPERIMENTATION holds up the house,
-     </td>
-     <td>
-      <div class="_center">
-       <img
-        style="height:3.33in; "
-        src="/assets/img/pic-the-radical-foundation-house-3.svg"
-        alt="The word EXPERIMENTATION sits in between the floor and the roof and holds up the house.">
-      </div>
-     </td>
-    </tr>
-   </table>
-  </div>
   <ul>
    <li>
     The words MEANING and BELONGING are the two axis of the &ldquo;ground floor.&rdquo; It represents the people fundamentals and it is where everything starts,
