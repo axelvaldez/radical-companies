@@ -66,8 +66,8 @@ image:    "icon-the-radical-foundation-house.svg"
   </ul>
  <p>Everything else is a Practice,</p>
   <ul>
-   <li><span class="_paradigm">RAD</span>s! mobiel app</li>
-   <li>Relationship Stories</li>
+   <li>The <span class="_paradigm">RAD</span>s! mobile app</li>
+   <li>Explicit Relationships</li>
    <li>etc.</li>
   </ul>
 
