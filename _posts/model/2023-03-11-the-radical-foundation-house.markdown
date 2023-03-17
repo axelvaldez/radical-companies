@@ -15,7 +15,7 @@ image:    "icon-the-radical-foundation-house.svg"
  <p>I woke up with an image of a building where,</p>
   <ul>
    <li>
-    The words DECENTRALIZATION and TRANSPARENCY are the two axis of the ground &lsquo;floor&rsquo and where everything starts,
+    The words MEANING and BELONGING are the two axis of the ground &lsquo;floor&rsquo and where everything starts,
     <div class="_center">
      <img
       style="width:70%; "
@@ -24,7 +24,7 @@ image:    "icon-the-radical-foundation-house.svg"
     </div>
    </li>
    <li>
-    MEANING and BELONGING are the axis of the &lsquo;roof&rsquo; and makes sure that 
+    DECENTRALIZATION and TRANSPARENCY are the axis of the &lsquo;roof&rsquo; and makes sure that 
     <div class="_center">
      <img
       style="width:70%; "
