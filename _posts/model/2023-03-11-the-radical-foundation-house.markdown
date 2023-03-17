@@ -27,6 +27,7 @@ image:    "icon-the-radical-foundation-house.svg"
     alt="The roof of the Foundation house, it shows the words DECENTRALIZATION and TRANSPARENCY as its two axis.">
   </div>
  <p>Finally, the word EXPERIMENTATION holds up the house,</p>
+ xxx
   <div class="_center">
    <img
     src="/assets/img/pic-the-radical-foundation-house-3.svg"
