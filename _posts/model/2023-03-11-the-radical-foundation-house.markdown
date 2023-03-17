@@ -15,7 +15,7 @@ image:    "icon-the-radical-foundation-house.svg"
  <p>I woke up with an image of a building where,</p>
   <ul>
    <li>
-    The words MEANING and BELONGING are the two axis of the &lsquo;ground floor.&rsquo; It is where everything starts,
+    The words MEANING and BELONGING are the two axis of the &lsquo;ground floor.&rsquo; It represents the people fundamentals and it is where everything starts,
     <div class="_center">
      <img
       style="width:70%; "
