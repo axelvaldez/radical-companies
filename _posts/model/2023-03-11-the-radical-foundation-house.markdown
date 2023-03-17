@@ -33,7 +33,7 @@ image:    "icon-the-radical-foundation-house.svg"
     width="70%"
     alt="The word EXPERIMENTATION sits in between them.">
   </div>
- <p>Altogether,</p>
+ <p>Altogether, they make up the Foundation house, a template for <span class="_paradigm">RADICAL</span> companies,</p>
   <div class="_center">
    <img
     src="/assets/img/pic-the-radical-foundation-house-4.svg"
