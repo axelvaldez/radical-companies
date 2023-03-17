@@ -26,12 +26,12 @@ image:    "icon-the-radical-foundation-house.svg"
     width="70%"
     alt="The roof of the Foundation house, it shows the words DECENTRALIZATION and TRANSPARENCY as its two axis.">
   </div>
- <p>Finally, the word EXPERIMENTATION are the columns that hold up the house,</p>
+ <p>Finally, the word EXPERIMENTATION holds up the house,</p>
   <div class="_center">
    <img
     src="/assets/img/pic-the-radical-foundation-house-3.svg"
     height="3.33in"
-    alt="The word EXPERIMENTATION sits in between them.">
+    alt="The word EXPERIMENTATION sits in between the floor and the roof and holds up the house.">
   </div>
  <p>Altogether, they make up the Foundation house, a template for <span class="_paradigm">RADICAL</span> companies,</p>
   <div class="_center">
