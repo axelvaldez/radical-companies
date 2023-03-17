@@ -42,7 +42,7 @@ image:    "icon-the-radical-foundation-house.svg"
   </div>
 
 <h1>Explicit Alignment</h1>
- <p>Explicit Alignment goes <em>inside</em> each &ldquo;house.&rdquo;, as floors between the ground floor and to the roof.</p>
+ <p>Explicit Alignment goes <em>inside</em> each &ldquo;house,&rdquo; as floors between the ground floor and to the roof.</p>
  <div class="_center">
   <img
    src="/assets/img/pic-the-radical-foundation-house-5.svg"
