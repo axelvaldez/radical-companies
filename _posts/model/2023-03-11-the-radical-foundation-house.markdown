@@ -73,17 +73,9 @@ image:    "icon-the-radical-foundation-house.svg"
 
 <h1>Many Houses</h1>
  <p>What the uncomfortable discussion made me see is that there may be many houses, some of them based on the template <span class="_paradirm">RADICAL</span> house. We have no illusions of being the only model that will come up once people are able to see the <span class="_paradigm">FIAT</span> model and the effect it has on their lives and on our world.</p>
- <p>One such &ldquo;house&rdquo; was motivated by <span class="_paradigm">rCORE</span>,</p>
- <div class="_center">
-  <img
-   style="width:70%; "
-   src="/assets/img/pic-the-radical-foundation-house-6.svg"
-   alt="The words MEANING and BELONGING form a plane at the top and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom. The word EXPERIMENTATION sits in between them. Between roof and floor, there are five floor labeled PEOPLE, IMPACT, TECHNOLOGY, FINANCIAL, and LEGAL.">
- </div>
- <p><span class="_paradigm">PEOPLE</span> seems to have elements of the roof in it. <span class="_paradigm">TECHNOLOGY</span>, <span class="_paradigm">FINANCIAL</span>, and <span class="_paradigm">LEGAL</span> are pratices that will change over time and as we gain experience with <span class="_paradigm">RADICAL</span>. But so be it, this is the kind of thing that we&rsquo;ll have to work through.</p>
 
 <h1>The <span class="_paradigm">rCORE</span> House</h1>
- <p>Alternatively, the <span class="_paradigm">rCORE</span> house clould be like this,</p>
+ <p>For example, the <span class="_paradigm">rCORE</span> house could be like this,</p>
  <div class="_center">
   <img
    style="width:70%; "
