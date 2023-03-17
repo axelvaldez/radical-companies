@@ -12,10 +12,10 @@ image:    "icon-the-radical-foundation-house.svg"
 
 <h1>&nbsp;</h1>
  <p>Yesterday we had a discussion about a way of reframing the <span class="_quotespan"><span class="_paradirm">RADICAL</span> model</span>. After having slept over it, my conclusion is that the <span class="_paradirm">RADICAL</span> model as is more like a template around which many other <span class="_quotespan">framings</span> will be come up.</p>
- <p>I woke up with an image of a building where.</p>
+ <p>I woke up with an image of a building where,</p>
   <ul>
    <li>
-    The words DECENTRALIZATION and TRANSPARENCY are the two axis of the &lsquo;ground&rsquo; floor,
+    The words DECENTRALIZATION and TRANSPARENCY are the two axis of the ground &lsquo;floor&rsquo and where everything starts,
     <div class="_center">
      <img
       style="width:70%; "
@@ -24,7 +24,7 @@ image:    "icon-the-radical-foundation-house.svg"
     </div>
    </li>
    <li>
-    MEANING and BELONGING are the axis of the &lsquo;roof,&rsquo;
+    MEANING and BELONGING are the axis of the &lsquo;roof&rsquo; and makes sure that 
     <div class="_center">
      <img
       style="width:70%; "
