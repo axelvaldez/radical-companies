@@ -12,37 +12,27 @@ image:    "icon-the-radical-foundation-house.svg"
 
 <h1>&nbsp;</h1>
  <p>Yesterday we had a discussion about a way of reframing the <span class="_quotespan"><span class="_paradirm">RADICAL</span> model</span>. After having slept over it, my conclusion is that the <span class="_paradirm">RADICAL</span> model as is more like a template around which many other <span class="_quotespan">framings</span> will be come up.</p>
- <p>I woke up with an image of a building where the words DECENTRALIZATION and TRANSPARENCY were at made up the &lsquo;ground&rsquo; floor and MEANING and BELONGING the &lsquo;roof&rsquo; while and the word EXPERIMENTATION are the columns that hold up the house.</p>
- <div class="_center">
-  <table>
-   <tr>
-    <td>
-     <div class="_center">
-      <img
-       src="/assets/img/pic-the-radical-foundation-house-1.svg"
-       width="70%"
-       alt="The floor of the Foundation house, it shows the words MEANING and BELONGING as its two axis.">
-     </div>
-    </td>
-    <td>
-     <div class="_center">
-      <img
-       src="/assets/img/pic-the-radical-foundation-house-2.svg"
-       width="70%"
-       alt="The roof of the Foundation house, it shows the words DECENTRALIZATION and TRANSPARENCY as its two axis.">
-     </div>
-    </td>
-    <td>
-     <div class="_center">
-      <img
-       src="/assets/img/pic-the-radical-foundation-house-3.svg"
-       width="70%"
-       alt="The word EXPERIMENTATION sits in between them.">
-     </div>
-    </td>
-   </tr>
-  </table>
- </div>
+ <p>I woke up with an image of a building where the words DECENTRALIZATION and TRANSPARENCY were the two axis of the &lsquo;ground&rsquo; floor,</p>
+  <div class="_center">
+   <img
+    src="/assets/img/pic-the-radical-foundation-house-1.svg"
+    width="70%"
+    alt="The floor of the Foundation house, it shows the words MEANING and BELONGING as its two axis.">
+  </div>
+ <p>MEANING and BELONGING were the axis of the &lsquo;roof,&rsquo;</p>
+  <div class="_center">
+   <img
+    src="/assets/img/pic-the-radical-foundation-house-2.svg"
+    width="70%"
+    alt="The roof of the Foundation house, it shows the words DECENTRALIZATION and TRANSPARENCY as its two axis.">
+  </div>
+ <p>Finally, the word EXPERIMENTATION are the columns that hold up the house,</p>
+  <div class="_center">
+   <img
+    src="/assets/img/pic-the-radical-foundation-house-3.svg"
+    width="70%"
+    alt="The word EXPERIMENTATION sits in between them.">
+  </div>
  <p>Altogether,</p>
   <div class="_center">
    <img
