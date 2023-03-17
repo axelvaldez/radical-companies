@@ -41,6 +41,8 @@ image:    "icon-the-radical-foundation-house.svg"
     </div>
    </li>
   </ul>
+
+<h1>Altogether Now</h1>
  <p>Altogether, they make up the Foundation house, a template for <span class="_paradigm">RADICAL</span> companies,</p>
   <div class="_center">
    <img
