@@ -80,7 +80,7 @@ image:    "icon-the-radical-foundation-house.svg"
   <img
    style="width:70%; "
    src="/assets/img/pic-the-radical-foundation-house-7.svg"
-   alt="The words MEANING and BELONGING form a plane at the top, the roff, and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom, the basemant floor. The word EXPERIMENTATION sits in between them. Between roof and floor, there are three floors labeled IMPACT, PURPOSE, and MISSION, as before, but this time with list of PRACTICES attached to each.">
+   alt="The words MEANING and BELONGING form a plane at the top, the roof, and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom, the ground floor. The word EXPERIMENTATION sits in between them. Between roof and floor, there are three floors labeled IMPACT, PURPOSE, and MISSION, as before, but this time with list of specific PRACTICES attached to each.">
  </div>
 
 <h1>A Framing</h1>
