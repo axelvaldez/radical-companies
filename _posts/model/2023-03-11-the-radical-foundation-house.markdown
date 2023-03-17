@@ -82,6 +82,8 @@ image:    "icon-the-radical-foundation-house.svg"
    src="/assets/img/pic-the-radical-foundation-house-7.svg"
    alt="The words MEANING and BELONGING form a plane at the top, the roff, and the words DECENTRALIZATION and TRANSPARENCY form a plane at the bottom, the basemant floor. The word EXPERIMENTATION sits in between them. Between roof and floor, there are three floors labeled IMPACT, PURPOSE, and MISSION, as before, but this time with list of PRACTICES attached to each.">
  </div>
- <p>This &ldquo;framing&rdquo; of the <span class="_paradigm">RADICAL</span> model may be a more obvious &ldquo;structure&rdquo; to &ldquo;build&rdquo; specific houses where what changes is the Practices,</p>
+
+<h1>A Framing</h1>
+ <p>This &ldquo;framing&rdquo; of the <span class="_paradigm">RADICAL</span> model may be appealing to &ldquo;build&rdquo; specific houses where what changes is the Practices.</p>
 
 {% include related.html %}
