@@ -15,7 +15,7 @@ image:    "icon-the-radical-foundation-house.svg"
  <p>I woke up with an image of a building where,</p>
   <ul>
    <li>
-    The words MEANING and BELONGING are the two axis of the &lsquo;ground floor.&rsquo; It represents the people fundamentals and it is where everything starts,
+    The words MEANING and BELONGING are the two axis of the &ldquo;ground floor.&rdquo; It represents the people fundamentals and it is where everything starts,
     <div class="_center">
      <img
       style="width:70%; "
@@ -24,7 +24,7 @@ image:    "icon-the-radical-foundation-house.svg"
     </div>
    </li>
    <li>
-    DECENTRALIZATION and TRANSPARENCY are the axis of the &lsquo;roof&rsquo; and makes sure that 
+    DECENTRALIZATION and TRANSPARENCY are the axis of the &ldquo;roof&rdquo; meaning that the house has no boss in it and everything is transparent. This assures that any &ldquo;gaming&rdquo; of the system is apparent to everybody.
     <div class="_center">
      <img
       style="width:70%; "
