@@ -98,14 +98,6 @@ image:    "icon-escape-velocity-radical-style.svg"
   <table>
    <tr>
     <th>
-     <p style="text-align: right">co-management</p>
-    </th>
-    <td>
-     <p>Self-management makes sense as it applies to individuals. But in the case of a company, there is no &ldquo;self&rdquo; which can manage itself. People who embody the company, <em>manage it collaboratively</em>.</p>
-    </td>
-   </tr>
-   <tr>
-    <th>
      <p style="text-align: right">co-ownership</p>
     </th>
     <td>
@@ -114,7 +106,12 @@ image:    "icon-escape-velocity-radical-style.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2">&nbsp;</td>
+    <th>
+     <p style="text-align: right">co-management</p>
+    </th>
+    <td>
+     <p>Self-management makes sense as it applies to individuals. But in the case of a company, there is no &ldquo;self&rdquo; which can manage itself. People who embody the company, <em>manage it collaboratively</em>.</p>
+    </td>
    </tr>
   </table>
 
