@@ -38,7 +38,7 @@ image:    "icon-ptsd-and-trust.svg"
 
 <!-- FOUNDATION  Table -->
  <div class="_center">
-  <table class="_background">
+  <table class="_foundation">
    <tr>
     <th>people</th>
     <td>Meaning & Belonging</td>
