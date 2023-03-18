@@ -194,7 +194,7 @@ image:    "icon-rads-and-chatgpt.svg"
    <tr>
     <th>Question</th>
     <td>
-     <div class="_quotespan">how can a decentralized community give credits for recognized contributions?</div>
+     <div class="_quotespan">How can a decentralized community give credits for recognized contributions?</div>
     </td>
    </tr>
    <tr>
