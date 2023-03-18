@@ -44,33 +44,35 @@ image:    "icon-escape-velocity-radical-style.svg"
 
 <h1><span class="_paradigm">FIAT</span> vs <span class="_paradigm">RADICAL</span></h1>
  <p>Instead of &ldquo;barbarian,&rdquo; we call the &ldquo;<em>or else</em>,&rdquo; violence-based system <span class="_paradigm">FIAT</span> and the alternative <span class="_paradigm">RADICAL</span>,</p>
- <table>
-  <tr>
-   <th>
-    <p><span class="_paradigm">RADICAL</span> Foundation</p>
-   </th>
-   <td>
-    The foundation is made up of <em>people</em>, <em>commitments</em>, and <em>practices</em>.
-   </td>
-  </tr>
-  <tr>
-   <th>
-    <p><span class="_paradigm">RADICAL</span> Language</p>
-   </th>
-   <td>
-    <p>The model is based on <em>co-ownership</em> and <em>co-management</em>.he key tool of 
-   </td>
-  </tr>
-  <tr>
-   <th>
-    <p><span class="_paradigm">RADICAL</span> Tools</p>
-   </th>
-   <td>
-    <p>The <em><span class="_paradigm">RAD</span>s! mobile app</em> supports <span class="_paradigm">RAD DISTRIBUTION</span>s, the key tool of co-ownership.</p>
-    <p>The <em>Explicit Relationship</em> tool helps people come together and build a social circle based on trust from the start.</p>
-   </td>
-  </tr>
- </table>
+ <div class="_center">
+  <table blass="background">
+   <tr>
+    <th>
+     <p><span class="_paradigm">RADICAL</span> Foundation</p>
+    </th>
+    <td>
+     <p>The foundation is made up of <em>people</em>, <em>commitments</em>, and <em>practices</em>.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>
+     <p><span class="_paradigm">RADICAL</span> Language</p>
+    </th>
+    <td>
+     <p>The model is based on <em>co-ownership</em> and <em>co-management</em>.he key tool of 
+    </td>
+   </tr>
+   <tr>
+    <th>
+     <p><span class="_paradigm">RADICAL</span> Tools</p>
+    </th>
+    <td>
+     <p>The <em><span class="_paradigm">RAD</span>s! mobile app</em> supports <span class="_paradigm">RAD DISTRIBUTION</span>s, the key tool of co-ownership.</p>
+     <p>The <em>Explicit Relationship</em> tool helps people come together and build a social circle based on trust from the start.</p>
+    </td>
+   </tr>
+  </table>
+ </div>
 
 <h1>RADICAL Foundation</h1>
  <p>The Foundation is simple and easy to remember,</p>
