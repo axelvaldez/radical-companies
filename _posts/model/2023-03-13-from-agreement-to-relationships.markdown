@@ -23,7 +23,7 @@ image:    "icon-from-agreements-to-relationships.svg"
   <ol>
    <li>You</li>
    <li>Me</li>
-   <li>Your commitments</li>
+   <li>Your explicit commitments</li>
    <li>My support commitments</li>
   </ol>
  <p>Note that when doing this with a group, &ldquo;me&rdquo; stands for each person in the group and &ldquo;my committments&rdquo; becomes a list of each co-owner&rsquo;s commitments to each other.</p>
