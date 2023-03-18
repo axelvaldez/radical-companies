@@ -47,7 +47,7 @@ image:    "icon-escape-velocity-radical-style.svg"
  <table>
   <tr>
    <th>
-    <p style="text-align: right"><span class="_paradigm">RADICAL</span> Foundation</p>
+    <p><span class="_paradigm">RADICAL</span> Foundation</p>
    </th>
    <td>
     The foundation is made up of <em>people</em>, <em>commitments</em>, and <em>practices</em>.
@@ -55,15 +55,15 @@ image:    "icon-escape-velocity-radical-style.svg"
   </tr>
   <tr>
    <th>
-    <p style="text-align: right"><span class="_paradigm">RADICAL</span> Language</p>
+    <p><span class="_paradigm">RADICAL</span> Language</p>
    </th>
    <td>
-    The model is based on <em>co-ownership</em> and <em>co-management</em>.
+    <p>The model is based on <em>co-ownership</em> and <em>co-management</em>.he key tool of 
    </td>
   </tr>
   <tr>
    <th>
-    <p style="text-align: right"><span class="_paradigm">RADICAL</span> Tools</p>
+    <p><span class="_paradigm">RADICAL</span> Tools</p>
    </th>
    <td>
     <p>The <em><span class="_paradigm">RAD</span>s! mobile app</em> supports <span class="_paradigm">RAD DISTRIBUTION</span>s, the key tool of co-ownership.</p>
