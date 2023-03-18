@@ -221,8 +221,10 @@ li {
 table {
   width:70%;
   margin-bottom:20px;
+  /* TEST */
+  background-color:green;
 }
-table th {
+background th {
   text-align:right;
   vertical-align:top;
   padding-right:1em;
