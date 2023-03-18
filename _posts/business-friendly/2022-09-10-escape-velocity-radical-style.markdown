@@ -73,8 +73,8 @@ image:    "icon-escape-velocity-radical-style.svg"
    </tr>
     <td class="_spacer">&nbsp;</td>
    </tr>
-  xxx </table>
- yyy </div>
+  </table>
+ </div>
 
 <h1>RADICAL Foundation</h1>
  <p>The Foundation is simple and easy to remember,</p>
