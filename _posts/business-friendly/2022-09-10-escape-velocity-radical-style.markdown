@@ -43,7 +43,7 @@ image:    "icon-escape-velocity-radical-style.svg"
  <p>The <span class="_paradigm">RADICAL</span> system is a more robust potential solution because it has those elements in place.</p>
 
 <h1><span class="_paradigm">FIAT</span> vs <span class="_paradigm">RADICAL</span></h1>
- <p>Instead of &ldquo;barbarian,&rdquo; we call the &ldquo;<em>or else</em>,&rdquo; violence-based system <span class="_paradigm">FIAT</span> and the alternative <span class="_paradigm">RADICAL</span>,</p>
+ <p>Instead of &ldquo;barbarian,&rdquo; we call the force-based system <span class="_paradigm">FIAT</span> and the alternative <span class="_paradigm">RADICAL</span>,</p>
  <div class="_center">
   <table blass="_foundation">
    <tr>
