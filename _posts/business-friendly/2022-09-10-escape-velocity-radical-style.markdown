@@ -40,10 +40,10 @@ image:    "icon-escape-velocity-radical-style.svg"
 <h1>Barbarians vs&hellip; ?</h1>
  <p>The ideology of the barbarians-as-defenders is simple: they get to live in abundance for minimal work. But, all this time there hasn&rsquo;t been a different ideology to unite the &ldquo;defended.&rdquo; Armed revolutions, unions, and the like are just variations of the <em>or-else</em>  ideology. &ldquo;Pry their privileges from their cold, dead fingers.&rdquo; This approach simply makes the barbarian system stronger.</p>
  <p>What has been missing from the various approaches is a simple and clear foundation, a simple and memorable language, and easy to use tools. This is why, I am guessing, a lot of <span class="_paradigm">RADICAL</span>-like groups have not lasted very long.</p>
- <p>The <span class="_paradigm">RADICAL</span> looks like a solution because it has those elements in place.</p>
+ <p>The <span class="_paradigm">RADICAL</span> system is a more robust potential solution because it has those elements in place.</p>
 
 <h1><span class="_paradigm">FIAT</span> vs <span class="_paradigm">RADICAL</span></h1>
- <p>Instead of &ldquo;barbarian,&rdquo; we call the &ldquo;<em>or else</em>,&rdquo; violence-based system <span class="_paradigm">FIAT</span> and the alternative <span class="_paradigm">RADICAL</span>.</p>
+ <p>Instead of &ldquo;barbarian,&rdquo; we call the &ldquo;<em>or else</em>,&rdquo; violence-based system <span class="_paradigm">FIAT</span> and the alternative <span class="_paradigm">RADICAL</span>,</p>
  <table>
   <tr>
    <th>
