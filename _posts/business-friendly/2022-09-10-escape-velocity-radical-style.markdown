@@ -76,6 +76,27 @@ image:    "icon-escape-velocity-radical-style.svg"
 
 <h1>RADICAL Foundation</h1>
  <p>The Foundation is simple and easy to remember,</p>
+
+ <div class="_center">
+  <table class="_foundation">
+   <tr>
+    <th>people</th>
+    <td>Meaning & Belonging</td>
+   </tr>
+   <tr>
+    <th>commitments</th>
+    <td>Decentralization & Transparency</td>
+   </tr>
+   <tr>
+    <th>practices</th>
+    <td>Experimentation</td>
+   </tr>
+   <tr>
+    <td class="_spacer_"></td>
+   </tr>
+  </table>
+ </div>
+ 
  <div class="_center">
   <table class="_foundation">
    <tr>
