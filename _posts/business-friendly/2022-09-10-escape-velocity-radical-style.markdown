@@ -116,7 +116,7 @@ image:    "icon-escape-velocity-radical-style.svg"
    </tr>
    <tr>
     <th>
-     <p style="text-align:right; width:14em; ">co-management</p>
+     <p style="text-align:right; width:10m; ">co-management</p>
     </th>
     <td>
      <p>Self-management makes sense as it applies to individuals. But in the case of a company, there is no &ldquo;self&rdquo; which can manage itself. People who embody the company, <em>manage it collaboratively</em>.</p>
