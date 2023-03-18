@@ -107,7 +107,7 @@ image:    "icon-escape-velocity-radical-style.svg"
   <table>
    <tr>
     <th>
-     <p style="text-align: right">co-ownership</p>
+     <p style="text-align:right; ">co-ownership</p>
     </th>
     <td>
      <p>People who embody a company are co-owners of it and can earn a <em>dynamic</em> piece of the value tthough recognized contributios to what they have created together.</p>
@@ -116,7 +116,7 @@ image:    "icon-escape-velocity-radical-style.svg"
    </tr>
    <tr>
     <th>
-     <p style="text-align: right">co-management</p>
+     <p style="text-align:right; width:14em; ">co-management</p>
     </th>
     <td>
      <p>Self-management makes sense as it applies to individuals. But in the case of a company, there is no &ldquo;self&rdquo; which can manage itself. People who embody the company, <em>manage it collaboratively</em>.</p>
