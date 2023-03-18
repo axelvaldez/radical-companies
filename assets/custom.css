@@ -246,6 +246,8 @@ table tr {
   margin-bottom:0;
   vertical-align:top;
   font-size:smaller;
+  padding-left:1em;
+  padding-right:1em;
 }
 table._background tr th, table._foundation tr th {
   border-right-width:1px;

@@ -79,15 +79,6 @@ image:    "icon-escape-velocity-radical-style.svg"
  <div class="_center">
   <table class="_foundation">
    <tr>
-    <th>caca</th>
-    <td>tua</td>
-   </tr>
-  </table>
- </div>
-
- <div class="_center">
-  <table class="_foundation">
-   <tr>
     <th>people</th>
     <td>Meaning & Belonging</td>
    </tr>
