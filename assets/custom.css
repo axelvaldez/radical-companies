@@ -431,15 +431,9 @@ div table._foundation {
   font-family: American Typewriter, serif;
 }
 ._foundation, ._alignment {
-  /*
-  column-width:10px;
-  */
   text-align:left;
   display:grid;
   place-items:center;
-}
-table._foundation {
-  width:50%;
 }
 ._foundation td {
   font-size:small;
