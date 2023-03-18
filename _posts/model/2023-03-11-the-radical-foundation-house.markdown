@@ -74,8 +74,8 @@ image:    "icon-the-radical-foundation-house.svg"
 <h1>Many Houses</h1>
  <p>What the uncomfortable discussion made me see is that there may be many houses, some of them based on the template <span class="_paradirm">RADICAL</span> house. We have no illusions of being the only model that will come up once people are able to see the <span class="_paradigm">FIAT</span> model and the effect it has on their lives and on our world.</p>
 
-<h1>The <span class="_paradigm">rCORE</span> House</h1>
- <p>For example, the <span class="_paradigm">rCORE</span> house could be like this,</p>
+<h1>A Template House</h1>
+ <p>For example, a template house would be like this,</p>
  <div class="_center">
   <img
    style="width:70%; "
