@@ -54,6 +54,8 @@ image:    "icon-escape-velocity-radical-style.svg"
      <p>The foundation is made up of <em>people</em>, <em>commitments</em>, and <em>practices</em>.</p>
     </td>
    </tr>
+  </table>
+  <table>
    <tr>
     <th>
      <p><span class="_paradigm">RADICAL</span> Language</p>
@@ -62,6 +64,8 @@ image:    "icon-escape-velocity-radical-style.svg"
      <p>The model is based on <em>co-ownership</em> and <em>co-management</em>.</p>
     </td>
    </tr>
+  </table>
+  <table>
    <tr>
     <th>
      <p><span class="_paradigm">RADICAL</span> Tools</p>
@@ -71,6 +75,9 @@ image:    "icon-escape-velocity-radical-style.svg"
      <p>The <em>Explicit Relationship</em> tool helps people come together and build a social circle based on trust from the start.</p>
     </td>
    </tr>
+  </table>
+  <table>
+   <tr>
     <td class="_spacer">&nbsp;</td>
    </tr>
   </table>
