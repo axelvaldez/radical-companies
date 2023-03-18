@@ -78,7 +78,7 @@ image:    "icon-escape-velocity-radical-style.svg"
  <p>The Foundation is simple and easy to remember,</p>
 
  <div class="_center">
-  <table class="_foundation">
+  <table class="_background">
    <tr>
     <th>people</th>
     <td>Meaning & Belonging</td>
