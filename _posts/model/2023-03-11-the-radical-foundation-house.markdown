@@ -61,7 +61,7 @@ image:    "icon-the-radical-foundation-house.svg"
  </div>
   <ul>
    <li>There is one Impact. Changing the impact is major: it is the equivelent of making up a new company.</li>
-   <li>There is one Purpose, although it may change (the gray color reresents a past floor).</li>
+   <li>There is one Purpose, although it may change (the gray translucent color represents a past floor).</li>
    <li>There are many Missions, one after another and many in parallel.</li>
   </ul>
  <p>Everything else is a Practice,</p>
