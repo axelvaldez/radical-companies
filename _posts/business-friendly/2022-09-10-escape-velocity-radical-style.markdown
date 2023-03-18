@@ -67,8 +67,8 @@ image:    "icon-escape-velocity-radical-style.svg"
    </th>
    <td>
     <ul>
-     <li>The <em><span class="_paradigm">RAD</span>s! mobile app</em> supports <span class="_paradigm">RAD DISTRIBUTION</span>s, the key tool of co-ownership.</li>
-     <li>The <em>Explicit Relationship</em> tool helps people come together and build a social circle based on trust from the start.</li>
+     <p>The <em><span class="_paradigm">RAD</span>s! mobile app</em> supports <span class="_paradigm">RAD DISTRIBUTION</span>s, the key tool of co-ownership.</p>
+     <p>The <em>Explicit Relationship</em> tool helps people come together and build a social circle based on trust from the start.</p>
     </ul>
    </td>
   </tr>
