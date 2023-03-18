@@ -71,10 +71,10 @@ image:    "icon-escape-velocity-radical-style.svg"
      <p>The <em>Explicit Relationship</em> tool helps people come together and build a social circle based on trust from the start.</p>
     </td>
    </tr>
-    <td class="_spacer"></td>
+    <td class="_spacer">&nbsp;</td>
    </tr>
-  aaa </table>
- bbb </div>
+  xxx </table>
+ yyy </div>
 
 <h1>RADICAL Foundation</h1>
  <p>The Foundation is simple and easy to remember,</p>
