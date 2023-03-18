@@ -128,7 +128,7 @@ image:    "icon-rads-and-chatgpt.svg"
    </tr>
   </table>
  </div>
-
+<!--
 <h1>&nbsp;</h1>
  <div class="_center">
   <table class="_background">
@@ -148,7 +148,8 @@ image:    "icon-rads-and-chatgpt.svg"
    </tr>
   </table>
  </div>
-
+-->
+<!--
  <div class="_center">
   <table class="_background">
    <tr>
@@ -168,7 +169,8 @@ image:    "icon-rads-and-chatgpt.svg"
    </tr>
   </table>
  </div>
-
+-->
+<!--
  <div class="_center">
   <table class="_background">
    <tr>
@@ -188,7 +190,8 @@ image:    "icon-rads-and-chatgpt.svg"
    </tr>
   </table>
  </div>
-
+-->
+<!--
  <div class="_center">
   <table class="_background">
    <tr>
@@ -210,5 +213,6 @@ image:    "icon-rads-and-chatgpt.svg"
    </tr>
   </table>
  </div>
+-->
 
 {% include related.html %}
