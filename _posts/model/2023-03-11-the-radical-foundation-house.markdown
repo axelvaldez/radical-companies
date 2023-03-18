@@ -32,7 +32,7 @@ image:    "icon-the-radical-foundation-house.svg"
     </div>
    </li>
    <li>
-    Finally, the word EXPERIMENTATION holds up the house,
+    Finally, EXPERIMENTATION, underlying all practices, holds up the house. EXPERIMENTATION means that whether it worked as you expected (hypothesis) it or not, you always learn from any practice you put in place.
     <div class="_center">
      <img
       style="height:3.33in; "
