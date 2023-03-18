@@ -26,8 +26,12 @@ image:    "icon-a-radical-bid-for-the-future-of-business.svg"
  <p>How would this kind of platform sustain itself?</p>
  <table>
   <tr>
-   <th style="width:1in; ">By the Match</th>
-   <td>The traditional, <span class="_paradigm">FIAT</span> way is to charge per match or charge a subscription fee. But this mechanism is not in line with the desired outcome. Yes, we want the platform to be sustainable, but that&rsquo;s not the most important value we want to create.</td>
+   <th style="width:1in; ">
+    <p>By the Match</p>
+   </th>
+   <td class="_list-item">
+    <p>The traditional, <span class="_paradigm">FIAT</span> way is to charge per match or charge a subscription fee. But this mechanism is not in line with the desired outcome. Yes, we want the platform to be sustainable, but that&rsquo;s not the most important value we want to create.</p>
+   </td>
   </tr>
   <tr>
    <th>
