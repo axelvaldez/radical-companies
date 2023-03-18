@@ -383,11 +383,11 @@ p {
 }
 div table._background {
   border:1px solid black;
-  width:90%;
+  ax-width:90%;
 }
 div table._foundation {
   border:1px solid black;
-  width:50%;
+  max-width:50%;
 }
 #_bolder {
   font-weight:bolder;
