@@ -74,7 +74,7 @@ image:    "icon-escape-velocity-radical-style.svg"
   </table>
  </div>
 
-<h1>RADICAL Foundation</h1>
+<h1><span class="_paradigm">RADICAL</span> Foundation</h1>
  <p>The Foundation is simple and easy to remember,</p>
  <div class="_center">
   <table class="_foundation">
@@ -102,7 +102,7 @@ image:    "icon-escape-velocity-radical-style.svg"
   </table>
  </div>
 
-<h1>RADICAL Language</h1>
+<h1><span class="_paradigm">RADICAL</span> Language</h1>
   <p>In the model we use only two terms: co-ownership and co-management. These terms they take up new meanings in the <span class="_paradigm">RADICAL</span> model.</p>
   <table>
    <tr>
@@ -124,7 +124,7 @@ image:    "icon-escape-velocity-radical-style.svg"
    </tr>
   </table>
 
-<h1>RADICAL Tools</h1>
+<h1><span class="_paradigm">RADICAL</span> Tools</h1>
  <h2><em><span class="_paradigm">RAD</span>s!</em> App</h2>
   <p>We have a mobile app called <em><span class="_paradigm">RAD</span>s!</em> that supports <span class="_paradigm">RAD DISTRIBUTION</span>s.</p>
   <ul>
