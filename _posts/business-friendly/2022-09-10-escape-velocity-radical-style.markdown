@@ -116,17 +116,17 @@ image:    "icon-escape-velocity-radical-style.svg"
   </table>
 
 <h1>RADICAL Tools</h1>
- <h2>RADs! App</h2>
-  <p>We are about (ca. Sep 2020) to launch a mobile app called RADs! that supports RAD DISTRIBUTIONs.</p>
+ <h2><em><span class="_paradigm">RAD</span>s!</em> App</h2>
+  <p>We have a mobile app called <em><span class="_paradigm">RAD</span>s!</em> that supports <span class="_paradigm">RAD DISTRIBUTION</span>s.</p>
   <ul>
    <li>Co-owners use the RADs! app to <em>recognize contributions</em>.</li>
-   <li>Anybody can start a company or any other type of community by simply inviting  people to the RADs! app.</li>
-   <li>From the recognized contributions, it calculates the number of RADs given and received by each co-owner.</li>
+   <li>Anybody can start a company or any other type of community by simply inviting  people to the <em><span class="_paradigm">RAD</span>s!</em> app.</li>
+   <li>From recognized contributions, it calculates the number of <span class="_paradigm">RAD</span>s given and received by each co-owner.</li>
    <li>The amount of RADs each person has earned determines their share of ownership (<em>i.e.</em>, the value created by all co-owners).</li>
    <li>The whole thing is transparent. Everybody can see who is given RADs to whom, how many RADs each co-owner has, etc. Among other benefits, this lets anybody raise a red flag when they see a problem.</li>
   </ul>
- <h2>Trust Agreement</h2>
-  <p><em>Trust Agreements</em> help people come together  and build trust from the start.</p>
+ <h2>Explicit Relatioships</h2>
+  <p><em>Explicit Relatioshipss</em> help people come together  and build trust from the start.</p>
   <p>Inspired by J Kim Wright&rsquo;s <em>Conscious Contracts<sup>®</sup></em> framework,<sup id="bm04"><a href="#en04">4&nbsp;</a></sup> a <em>Trust Agreement</em> is a simple set of topics that would-be co-owners discuss. Then, when they agree to come together as a community (see <a id="_aboutCommunity" href="#_appendix">Appendix</a>), they create a <em>Trust Agreement</em> from their discussion notes.</p>
   <p>There are still lots of things to work out (<em>e.g.</em>, how to scale it), but so far we&rsquo;ve gotten good feedback, including this: &ldquo;some organizations never build up trust among people, even after years of operation.&rdquo;</p>
 
