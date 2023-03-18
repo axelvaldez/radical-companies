@@ -7,14 +7,14 @@ image:    "icon-a-radical-bid-for-the-future-of-business.svg"
 ---
 
 <div style="display:none;">
- <p>RADICAL companies are embodied by happier and more effective people who solve problems faster.</p>
+ <p><span class="_paradigm">RADICAL</span> companies are embodied by happier and more effective people who solve problems faster.</p>
 </div>
 
 <h1>&nbsp;</h1>
  <p>Companies committed to a <span class="_paradigm">RADICAL</span> model are embodied by happier and more effective people. They communicate and solve problems faster. People have  more meaningful lives. The <span class="_paradigm">RADICAL</span> companh is far superior to a <span class="_paradigm">FIAT</span> businesses. But, you may be asking yourself, how are we going to finance businesses to step away from the familiar <span class="_paradigm">FIAT</span> joint-stock corporation?</p>
  <p>One possible answer is <span class="_paradigm">RADICAL</span> Investments.</p>
 
-<h1>RADICAL Investments</h1>
+<h1><span class="_paradigm">RADICAL</span> Investments</h1>
  <p>A <span class="_paradigm">RADICAL</span> Investment is a commitment to pay back the principal funds plus a capital gain. It is still an investment, not a loan, in that the investor could lose his capital. For example, if all goes well, a $100,000 investment may get &ldquo;repaid&rdquo; as $200,000 over three years.</p>
 
 <h1>A Platform</h1>
