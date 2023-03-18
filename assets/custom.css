@@ -383,7 +383,7 @@ p {
 }
 div table._background {
   border:1px solid black;
-  ax-width:90%;
+  max-width:90%;
 }
 div table._foundation {
   border:1px solid black;
