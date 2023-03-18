@@ -52,7 +52,7 @@ image:    "icon-from-agreements-to-relationships.svg"
  <p>Your opening up and talking about, for example, your deepest fears won&rsquo;t happen in one sitting. It will take time, first, for you to figure it out and, second, for you to feel safe enough to do it. This is one of the many skills that we need to learn as part of our moving away from <span class="_paradigm">FIAT</span>.</p>
 
 <h1>Committments</h1>
- <p>As you go through these questions, you will likely bring up things that you would like to change. For some of these, you may even make a commitment, <span class="_quotespan">Even when I am agry, I will keep my voice down&hellip; .</span></p>
+ <p>As you go through these questions, you will likely bring up things that you would like to change. For some of these, you may even make a commitment, <span class="_quotespan">Even when I am angry, I will keep my voice down&hellip; .</span></p>
  <p>For each of those commitments, people in the group will make a support committment to help you keep you on track to your commitment. <span class="_quotespan">I will ask you to keep your voice down, even if I have to raise my voice to get you to pay attention.</span></p>
  <p>After this is done, you go through the other co-owners&rsquo; commitments, written down in the Explicit Relationships, and add your support commitment to them.</p>
  
