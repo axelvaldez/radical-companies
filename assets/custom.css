@@ -219,7 +219,9 @@ li {
   font-size: smaller;
 }
 table {
+  /*
   width:70%;
+  */
   margin-bottom:20px;
 }
 background th {
