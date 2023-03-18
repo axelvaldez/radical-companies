@@ -51,7 +51,7 @@ image:    "icon-from-agreements-to-relationships.svg"
  <p>Then the other co-owner talks about how she perceives the world and how she shows up in the world. If there is more than one person involved, they probably have gone through this before and their responses to these questions have beeb written down.</p>
  <p>Your opening up and talking about, for example, your deepest fears won&rsquo;t happen in one sitting. It will take time for you to figure things out and for you to feel safe enough to open up more and more. This is one of the many skills that we need to learn as part of our moving away from <span class="_paradigm">FIAT</span>.</p>
 
-<h1>Committments</h1>
+<h1>Commitments</h1>
  <p>As you go through these questions, you will likely bring up things that you would like to change. For some of these, you may even make a commitment, <span class="_quotespan">Even when I am angry, I will keep my voice down&hellip; .</span></p>
  <p>For each of those commitments, people in the group will make a support committment to help remind you of your commitment. <span class="_quotespan">I will ask you to keep your voice down, even if I have to raise my own voice to get your attention.</span></p>
  <p>After you make your explicit commitments and receive support commiments, go through the other co-owners&rsquo; commitments, written down in the Explicit Relationship document, and add your support commitment to them.</p>
