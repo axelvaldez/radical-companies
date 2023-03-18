@@ -248,8 +248,7 @@ table tr {
   font-size:smaller;
 }
 table._background tr, table._foundation tr {
-  padding-left:1em;
-  padding-right:1em;
+  padding:0 1em;
 }
 table._background tr th, table._foundation tr th {
   border-right-width:1px;
