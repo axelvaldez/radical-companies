@@ -7,7 +7,7 @@ image:    "icon-the-radical-foundation-house.svg"
 ---
 
 <div style="display:none;">
- <p>Discomfort is good for you. Not pleasant, expecially at the moment, but good.</p>
+ <p>Discomfort is good for you. Not pleasant, especially at the moment, but good.</p>
 </div>
 
 <h1>&nbsp;</h1>
