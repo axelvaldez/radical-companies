@@ -247,16 +247,15 @@ table tr {
   vertical-align:top;
   font-size:smaller;
 }
-table._background tr, table._foundation tr {
-  padding:0 1em;
-}
 table._background tr th, table._foundation tr th {
   border-right-width:1px;
   border-right-color:gray;
   border-right-style:solid;
+  padding-left:1em;
 }
 table._background tr td, table._foundation tr td {
   font-size:smaller;
+  padding-right:1em;
 }
 table._background tr:nth-child(odd), table._foundation tr:nth-child(odd) {
   background-color:#EEEEEE;
