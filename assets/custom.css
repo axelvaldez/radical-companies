@@ -368,10 +368,7 @@ p {
 /*
  * dialog: end
  */
- /*
-div._center
-table._background
-*/
+
 ._float {
   float:right;
 }
@@ -384,7 +381,7 @@ table._background
 }
 div table._background {
   border:1px solid black;
-  width:90%;
+  width:50%;
 }
 #_bolder {
   font-weight:bolder;
