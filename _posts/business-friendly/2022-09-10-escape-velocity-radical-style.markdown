@@ -77,7 +77,7 @@ image:    "icon-escape-velocity-radical-style.svg"
 <h1>RADICAL Foundation</h1>
  <p>The Foundation is simple and easy to remember,</p>
  <div class="_center">
-  <table class="_foundation">
+  <table>
    <tr>
     <th>caca</th>
     <td>tua</td>
