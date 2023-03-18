@@ -59,7 +59,7 @@ image:    "icon-escape-velocity-radical-style.svg"
      <p><span class="_paradigm">RADICAL</span> Language</p>
     </th>
     <td>
-     <p>The model is based on <em>co-ownership</em> and <em>co-management</em>.he key tool of 
+     <p>The model is based on <em>co-ownership</em> and <em>co-management</em>.</p>
     </td>
    </tr>
    <tr>
