@@ -50,7 +50,7 @@ image:    "icon-escape-velocity-radical-style.svg"
     <p style="text-align: right"><span class="_paradigm">RADICAL</span> Foundation</p>
    </th>
    <td>
-    The foundation is made up of <em>principles</em>, <em>commitments</em>, and <em>practices</em>.
+    The foundation is made up of <em>people</em>, <em>commitments</em>, and <em>practices</em>.
    </td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ image:    "icon-escape-velocity-radical-style.svg"
     <p style="text-align: right"><span class="_paradigm">RADICAL</span> Language</p>
    </th>
    <td>
-    The model is based on <em>co-management</em> and <em>co-ownership</em>.
+    The model is based on <em>co-ownership</em> and <em>co-management</em>.
    </td>
   </tr>
   <tr>
@@ -67,8 +67,8 @@ image:    "icon-escape-velocity-radical-style.svg"
    </th>
    <td>
     <ul>
-     <li>The <em>RADs!</em> mobile app supports RADs DISTRIBUTIONs, the key tool of co-ownership.</li>
-     <li>The <em>Trust Agreement</em>  helps people come together and build trust from the start.</li>
+     <li>The <em><span class="_paradigm">RAD</span>s! mobile app</em> supports <span class="_paradigm">RAD DISTRIBUTION</span>s, the key tool of co-ownership.</li>
+     <li>The <em>Explicit Relationship</em> tool helps people come together and build a social circle based on trust from the start.</li>
     </ul>
    </td>
   </tr>
@@ -76,46 +76,35 @@ image:    "icon-escape-velocity-radical-style.svg"
 
 <h1>RADICAL Foundation</h1>
  <p>The Foundation is simple and easy to remember,</p>
- <table align="center">
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>relationships</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>autonomy</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>collaboration</em></td>
-  </tr>
-  <tr>
-   <td class="_spacer_">&nbsp;</td>
-  </tr>
- </table>
+ <div class="_center">
+  <table class="_background">
+   <tr>
+    <th>people</th>
+    <td>Meaning & Belonging</td>
+   </tr>
+   <tr>
+    <th>commitments</th>
+    <td>Decentralization & Transparency</td>
+   </tr>
+   <tr>
+    <th>practices</th>
+    <td>Experimentation</td>
+   </tr>
+   <tr>
+    <td class="_spacer_"></td>
+   </tr>
+  </table>
+ </div>
 
 <h1>RADICAL Language</h1>
-  <p>In the model we use only two terms: co-management and co-ownership. These are not even new, but they take up new meanings in the <span class="_paradigm">RADICAL</span> model.</p>
+  <p>In the model we use only two terms: co-ownership and co-management. These are not even new, but they take up new meanings in the <span class="_paradigm">RADICAL</span> model.</p>
   <table>
    <tr>
     <th>
      <p style="text-align: right">co-management</p>
     </th>
     <td>
-     <p>Self-management makes sense as it applies to individuals who can take care of themselves. But in the case of a business, there is no &ldquo;self&rdquo; which can manage itself.</p>
-     <p>People who embody the company, <em>manage it collaboratively</em>.</p>
+     <p>Self-management makes sense as it applies to individuals. But in the case of a company, there is no &ldquo;self&rdquo; which can manage itself. People who embody the company, <em>manage it collaboratively</em>.</p>
     </td>
    </tr>
    <tr>
@@ -123,8 +112,8 @@ image:    "icon-escape-velocity-radical-style.svg"
      <p style="text-align: right">co-ownership</p>
     </th>
     <td>
-     <p>People who embody a company are co-owners of it and can earn a <em>dynamic</em> piece of the value they have created together.</p>
-     <p>Note that co-ownership, as we define it, doesn&rsquo;t depend on a <em>static</em> number of <em>shares</em>, whose financial value comes from trading them and not from the value that people may or may not create.</p>
+     <p>People who embody a company are co-owners of it and can earn a <em>dynamic</em> piece of the value tthough recognized contributios to what they have created together.</p>
+     <p>Note that co-ownership, as we define it, doesn&rsquo;t depend on a <em>static</em> number of <em>shares</em>, whose financial value comes from trading them but from people&rsquo; contributions.</p>
     </td>
    </tr>
    <tr>
