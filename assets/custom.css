@@ -245,18 +245,18 @@ table tr {
   vertical-align:top;
   font-size:smaller;
 }
-table._background tr th {
+table._background tr th, table._foundation tr th {
   border-right-width:1px;
   border-right-color:gray;
   border-right-style:solid;
 }
-table._background tr td {
+table._background tr td, table._foundation tr td {
   font-size:smaller;
 }
-table._background tr:nth-child(odd)  {
+table._background tr:nth-child(odd), table._foundation tr:nth-child(odd) {
   background-color:#EEEEEE;
 }
-table._background tr ul, ul li p:last-of-type {
+table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:last-of-type {
   margin-bottom:0;
 }
 ._list-item {
