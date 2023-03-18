@@ -45,7 +45,7 @@ image:    "icon-escape-velocity-radical-style.svg"
 <h1><span class="_paradigm">FIAT</span> vs <span class="_paradigm">RADICAL</span></h1>
  <p>Instead of &ldquo;barbarian,&rdquo; we call the force-based system <span class="_paradigm">FIAT</span> and the alternative <span class="_paradigm">RADICAL</span>,</p>
  <div class="_center">
-  <table blass="_foundation">
+  <table blass="_background">
    <tr>
     <th>
      <p><span class="_paradigm">RADICAL</span> Foundation</p>
@@ -79,7 +79,7 @@ image:    "icon-escape-velocity-radical-style.svg"
 <h1>RADICAL Foundation</h1>
  <p>The Foundation is simple and easy to remember,</p>
  <div class="_center">
-  <table class="_background">
+  <table class="_foundation">
    <tr>
     <th>people</th>
     <td>Meaning & Belonging</td>
