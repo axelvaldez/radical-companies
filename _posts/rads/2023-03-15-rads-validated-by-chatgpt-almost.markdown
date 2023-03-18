@@ -7,7 +7,7 @@ image:    "icon-rads-and-chatgpt.svg"
 ---
 
 <div style="display:none;">
- <p>We asked chatGPT and it got really close to describing <span class="_paradigm">RAD</span>s. But it source data wouldn&rsquo;t let it get past the <span class="_paradigm">FIAT</span> model.</p>
+ <p>We asked chatGPT and it got really close to describing <span class="_paradigm">RAD</span>s. But its source data wouldn&rsquo;t let it get past the <span class="_paradigm">FIAT</span> model.</p>
 </div>
 
 <h1>&nbsp;</h1>
@@ -129,4 +129,63 @@ image:    "icon-rads-and-chatgpt.svg"
   </table>
  </div>
 
+<h1>&nbsp;</h1>
+ <div class="_center">
+  <table class="_background">
+   <tr>
+    <th>Question</th>
+    <td>
+     <div class="_quotespan">Can you think of something never thought of before about how to distribute resources in society that takes into account bad actors and still produces a nice result?</div>
+    </td>
+   </tr>
+   <tr>
+    <th>ChatGPT</th>
+    <td>
+     <div class="_quotespan">One potential approach could be to implemente a &ldquo;bad actor tax&rdquo; system for resource distribution. This system would involve setting aside a portioan of resources specifically designated to address the negative impact caused by bad actors in society.</div>
+     <div class="_quotespan">For example, if a coporation is found to be engaging in unethical business practices or causing harm to the environment, a portion of their profits would be taxed and recirected towards efforts to mitigate the harm caused. This could include funding for environmental cleanup, community development programs, or restitution for affected individuals.</div>
+     <div class="_quotespan">The bad actor tax system would not only hold individuals and corporations accountable for their actions but also incentivize them to act in a more responsible and ethical manner. This could lead to a more equitable distribution of resources and a more sustainable socienty overall.</div>
+    </td>
+   </tr>
+  </table>
+ </div>
+
+ <div class="_center">
+  <table class="_background">
+   <tr>
+    <th>Question</th>
+    <td>
+     <div class="_quotespan">What about something like the above, but with no tax?</div>
+    </td>
+   </tr>
+   <tr>
+    <th>ChatGPT</th>
+    <td>
+     <div class="_quotespan">In that case, one possible apprach could be to implement a system of "resource credits" taht would reward positive ehavior and penalize negative behavior. This system would involve assigning a certain number of resource credits to each indiviauo or entity based on their contribution to society.</div>
+     <div class="_quotespan">Positive contributions could include actions such as volunteering, community service, or systainable business practices, while netive contributions could include actions such as environmental polllution or engaging in unethical behavior.</div>
+     <div class="_quotespan">Individual and entities would accumulate resource creditcs over time, which could then be used to access resources such as education, healthcare, and basic neessecities. Those who have made positive contributions would be rewarded with more resource credits, while those who have made negative contributions would receive fewer resource credits or even have some taken away.</div>
+     <div class="_quotespan">This system would incentivize positive behavior and discourage negative behavior without the need for taxation. It would also ensure that resources are distributed fairly and based on indiviauo merit rather than simple on wealth or privilege.</div>
+    </td>
+   </tr>
+  </table>
+ </div>
+
+ <div class="_center">
+  <table class="_background">
+   <tr>
+    <th>Question</th>
+    <td>
+     <div class="_quotespan">And could you add a new way to discourage hoarding?</div>
+    </td>
+   </tr>
+   <tr>
+    <th>ChatGPT</th>
+    <td>
+     <div class="_quotespan">Yes, one way to discourage hoarding in this system could be to include a &ldquo;use it or lose it&rdquo; policy for resource credits. This policy would require individuals and entities to use their resource credits within a certain timeframe or risk losing them.</div>
+     <div class="_quotespan">For example, if an individual is assigned a nertain number of resource credits each year, they would need to use those credits within that year or risk losing them at the end of the year. This would incentivize individuals to use their resource credits for the greater good rather than hoarding them for personal gain.</div>
+     <div class="_quotespan">Additionally, the system could also implement a &ldquo;maximum limit&rdquo; on the number of resource credits any inndiidual or entity can accumulate. This would prebent a small group of individual or entities from hoarding an excessive amount of resource credits, ensuring that resource are distributed more equitably throughout society.</div>
+     <div class="_quotespan">By combining these two approaches&mdash;&ldquo;use it or lose it&rdquo; policy and maximum limits&mdash;the system could sicourage hoarding and ensure that resources are used for the greater good of society.</div>
+    </td>
+   </tr>
+  </table>
+ </div>
 {% include related.html %}
