@@ -94,7 +94,7 @@ image:    "icon-escape-velocity-radical-style.svg"
  </div>
 
 <h1>RADICAL Language</h1>
-  <p>In the model we use only two terms: co-ownership and co-management. These are not even new, but they take up new meanings in the <span class="_paradigm">RADICAL</span> model.</p>
+  <p>In the model we use only two terms: co-ownership and co-management. These terms they take up new meanings in the <span class="_paradigm">RADICAL</span> model.</p>
   <table>
    <tr>
     <th>
