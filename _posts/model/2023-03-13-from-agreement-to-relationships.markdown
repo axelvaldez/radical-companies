@@ -14,9 +14,9 @@ image:    "icon-from-agreements-to-relationships.svg"
  <p>You can read about the latest version of the Trust Agreement here.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> However, in this post I am taking a different, simpler approach based on relationship.</p>
 
 <h1>Not a Contract</h1>
- <p>Rather than creating an <em>agreement</em>, which people can interpret as a contract, we are creating an Explicit Relationships. Contracts can be <em>enforced</em> by the courts, but when it comes to relationships betweem people we don&rsquo;t want to inject force. Rather, we want to make relationships as explicit as possible.</p>
- <p>What is often lacking in the world is your explicit expression of yourself. Some of it comes out during arguments, <span class="_quotespan">&hellip; that&rsquo;s the way I am. I cannot think any other way.</span> But generally most of it never gets said.</p>
- <p>I know that whatever you say about yourself is a snapshot of the way you feel at this moment in time. It is not the &ldquo;true you&rdquo; for long: it will change tomorrow or the day after. But it is a place to start.</p>
+ <p>Rather than creating an <em>agreement</em>, which people can interpret as a contract, we are creating an Explicit Relationship. Of course, contracts can be <em>enforced</em>, but when it comes to relationships force does not apply and we don&rsquo;t want to inject it into it. On the other hand, we do want to make relationships as explicit as possible.</p>
+ <p>What is often lacking in the world is your <em>explicit</em> expression of yourself. A limited amount of it may come out during arguments, <span class="_quotespan">&hellip; that&rsquo;s the way I am.</span> But, in general, the rest of it never gets expressed out in the open.</p>
+ <p>Of course, whatever you say about yourself is a snapshot of the way you feel at this moment in time. It is not the &ldquo;true you&rdquo; for long and will change tomorrow or the day after. But it is a place to start.</p>
 
 <h1>Explict Relationships</h1>
  <p>It&rsquo;s pretty simple,</p>
