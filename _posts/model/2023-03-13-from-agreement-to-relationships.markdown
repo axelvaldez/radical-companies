@@ -49,7 +49,7 @@ image:    "icon-from-agreements-to-relationships.svg"
   <li>How do we knew if we can interrrupt and jump in?</li>
  </ul>
  <p>Then the other co-owner talks about how she perceives the world and how she shows up in the world. If there is more than one person involved, they probably have gone through this before and their responses to these questions have beeb written down.</p>
- <p>Your opening up and talking about you deepest fears won&rsquo;t happen in one sitting. It will take time, first, for you to figure it out and, second, for you to feel safe enough to do it. This is one of the many skills that we need to learn as part of our moving away from <span class="_paradigm">FIAT</span>.</p>
+ <p>Your opening up and talking about, for example, your deepest fears won&rsquo;t happen in one sitting. It will take time, first, for you to figure it out and, second, for you to feel safe enough to do it. This is one of the many skills that we need to learn as part of our moving away from <span class="_paradigm">FIAT</span>.</p>
 
 <h1>Committments</h1>
  <p>As you go through these questions, you will likely bring up things that you would like to change. For some of these, you may even make a commitment, <span class="_quotespan">Even when I am agry, I will keep my voice down&hellip; .</span></p>
