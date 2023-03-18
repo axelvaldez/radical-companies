@@ -381,6 +381,10 @@ p {
 }
 div table._background {
   border:1px solid black;
+  width:90%;
+}
+div table._foundation {
+  border:1px solid black;
   width:50%;
 }
 #_bolder {

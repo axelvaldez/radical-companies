@@ -45,7 +45,7 @@ image:    "icon-escape-velocity-radical-style.svg"
 <h1><span class="_paradigm">FIAT</span> vs <span class="_paradigm">RADICAL</span></h1>
  <p>Instead of &ldquo;barbarian,&rdquo; we call the &ldquo;<em>or else</em>,&rdquo; violence-based system <span class="_paradigm">FIAT</span> and the alternative <span class="_paradigm">RADICAL</span>,</p>
  <div class="_center">
-  <table blass="background">
+  <table blass="_foundation">
    <tr>
     <th>
      <p><span class="_paradigm">RADICAL</span> Foundation</p>
@@ -71,8 +71,10 @@ image:    "icon-escape-velocity-radical-style.svg"
      <p>The <em>Explicit Relationship</em> tool helps people come together and build a social circle based on trust from the start.</p>
     </td>
    </tr>
-  </table>
- </div>
+    <td class="_spacer"></td>
+   </tr>
+  aaa </table>
+ bbb </div>
 
 <h1>RADICAL Foundation</h1>
  <p>The Foundation is simple and easy to remember,</p>
