@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "<span class='_paradigm'>FIAT</span> Rights vs Ca<span class='_paradigm'>RADICAL</span> Rights"
+title:    "<span class='_paradigm'>FIAT</span> Rights vs <span class='_paradigm'>RADICAL</span> Rights"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-fiat-rights-vs-radical-right.svg"
