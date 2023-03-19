@@ -21,9 +21,9 @@ image:    "icon-a-sample-radical-investment.svg"
    <p>The second payment will be made  [DATE] in the amount of [AMOUNT].</p>
    <p>The third payment will be made in, [DATE] in the amount of [AMOUNT].</p>
    <p>The total amount of the loan shall be due and payable by [DATE].</p>
-   <p>III. INTEREST. The Note shall bear interest at a rate of ten percent (10%) in total over the life of the loan investment if it is repaid by the due date of [DATE].</p>
   </div>
  </p>
+ <p>III. INTEREST. The Note shall bear interest at a rate of ten percent (10%) in total over the life of the loan investment if it is repaid by the due date of [DATE].</p>
  <p space="text-indent:4em; ">IV. PREPAYMENT. The Borrower has the right to pay back the loan in-full or make additional payments at any time without penalty.</p>
  <p space="text-indent:4em; ">V. REMEDIES. No delay or omission on part of the holder of this Note in exercising any right hereunder shall operate as a waiver of any such right or of any other right of such holder, nor shall any delay, omission, or waiver on any one occasion be deemed a bar to or waiver of the same or any other right on any future occasion. The rights and remedies of the Lender shall be cumulative and may be pursued singly, successively, or together, in the sole discretion of the Lender.</p>
  <p space="text-indent:4em; ">VI. EVENTS OF ACCELERATION. The occurrence of any of the following shall constitute an "Event of Acceleration" by the Lender under this Note:</p>
