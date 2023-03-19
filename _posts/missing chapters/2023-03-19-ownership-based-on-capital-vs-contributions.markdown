@@ -3,7 +3,7 @@ layout:   post
 title:    "Ownership Based on Capital vs Contributions"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-capital-vs-recognized-contributions.svg"
+image:    "icon-ownership-based-on-capital-vs-contributions.svg"
 ---
 
 <div style="display:none;">
