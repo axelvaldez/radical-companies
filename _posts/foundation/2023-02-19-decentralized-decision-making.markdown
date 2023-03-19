@@ -22,7 +22,7 @@ image:    "icon-decentralized-decision-making.svg"
  <p>Again, they fail to meet expectations, too. Perhaps the chief strategist didn&rsquo;t know what he was doing but having drunk from the power cup, he could not put it down.</p>
 
 <h1>Yet Another Team and… Success!</h1>
- <p>Then another team takes over. This time they talk among themselves only to discover that there are at least two people that they should listen to. You wouldn&rsquo;t know unless you ask, but, as part of their conversation, they asked!</p> <p>They then run through a Trust Agreement, and, as a result, end up agreeing to an Explicit Alignment.</p>
+ <p>Then another team takes over. This time they talk among themselves only to discover that there are at least two people that they should listen to. You wouldn&rsquo;t know unless you ask, but, as part of their conversation, they asked!</p> <p>They then run through an Explicit Relationship, and, as a result, end up agreeing to an Explicit Alignment.</p>
  <p>The two strategists are not that far apart and end up working as a team, with everybody&rsquo;s support and participation.</p>
  <p>This time, the project meets expectations.</p>
 
