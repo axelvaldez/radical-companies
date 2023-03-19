@@ -75,7 +75,7 @@ image:    "icon-ptsd-and-trust.svg"
   </table>
  </div>
 
-<!-- Trust Agreement  Table -->
+<!-- Explicit Relationship  Table -->
  <div class="_center">
   <table class="_background">
    <tr>
@@ -153,7 +153,7 @@ image:    "icon-ptsd-and-trust.svg"
   </table>
  </div>
  <p>Our recomendation is that you allot one hour each to Mindset and About&hellip, Transparency and Collaboration, and Alignment and Foundation. These three hours will get you a deep trust with other co-owners that businesses don&rsquo;t ever get near.</p>
- <p>For subsequent co-owner candidates, any co-owner can go through the Trust Agreement with them.</p>
+ <p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them.</p>
 
 <!-- previous/next -->
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
