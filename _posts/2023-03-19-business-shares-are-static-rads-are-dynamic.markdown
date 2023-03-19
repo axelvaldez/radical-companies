@@ -1,13 +1,13 @@
 ---
 layout:   post
-title:    "Shares Are Not <span class='_paradigm'>RAD</span>s"
+title:    "Business Shares Are Static, <span class='_paradigm'>RAD</span>s Are Dynamic"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-ptsd-and-trust.svg"
+image:    "icon-business-shares-are-static-rads-are-dynamic.svg"
 ---
 
 <div style="display:none;">
- <p>Shares are not <span class='_paradigm'>RAD</span>s. That&rsquo;s it.</p>
+ <p>Shares of a business are not <span class='_paradigm'>RAD</span>s. That&rsquo;s it.</p>
 </div>
 
 <h1>&nbsp;</h1>
