@@ -11,8 +11,8 @@ image:    "icon-a-sample-radical-investment.svg"
 </div>
 
 <h1>RADICAL INVESTMENT</h1>
- <p>Loan Amount:  [AMOUNT]</p>
- <p>[DATE]</p>
+ <p>Loan Amount: [AMOUNT]</p>
+ <p>       Date: [DATE]</p>
  <p space="text-indent:4em; ">I. THE PARTIES. For the above value received by [company] a [STATE] Limited Liability Company with a mailing address of [ADDRESS] (the “Borrower”), agrees to pay (the “Lender”).</p>
  <p space="text-indent:4em; ">II. PAYMENT. This agreement, (the “Note”), shall be due and payable, including the principal and any accrued interest, in one of the following ways:</p>
  <p>
