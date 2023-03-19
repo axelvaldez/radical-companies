@@ -10,7 +10,7 @@ image:    "icon-capital-versus-recognized-contributions.svg"
  <p>Shares in a <span class='_paradigm'>FIAT</span> business come from capital; <span class='_paradigm'>RAD</span>s come from recognized contributions.</p>
 </div>
 
-<h1><span class='_paradigm'>FIAT</span> Business Shares Come from Capital</h1>
+<h1>From Capital</h1>
  <p>Shares in a <span class='_paradigm'>FIAT</span> business come from capital,</p>
   <ul>
    <li>You have accumulated capital.</li>
@@ -18,7 +18,7 @@ image:    "icon-capital-versus-recognized-contributions.svg"
    <li>That 10% is yours forever.</li>
   </ul>
 
-<h1><span class='_paradigm'>RAD</span>s Come from Recognized Contributions</h1>
+<h1>From Recognized Contributions</h1>
  <p>You have to earn <span class='_paradigm'>RAD</span>s. As co-owners,</p>
   <ul>
    <li>You contribute to the work you and the other co-owners are doing together.</li>
