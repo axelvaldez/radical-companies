@@ -11,7 +11,7 @@ image:    "icon-rcore.svg"
 </div>
 
 <h1>rCommunities</h1>
- <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Trust Agreement process with each person, and then we introduce them to an <em>rCommunity</em> which is a group of people with compatible <em>Trust Agreements</em> and interested in similar things.</p>
+ <p>Rather than putting ourselves at the center of things, we figured that a better way to help people make the transformation is by having them help each other and that is what the Communities are for. First we go through the Explicit Relationship process with each person, and then we introduce them to an <em>rCommunity</em> which is a group of people with compatible <em>Explicit Relationships</em> and interested in similar things.</p>
  <p>There already are a few rCommunities, the first of which is <em>rCORE</em>.</p>
 
 <h1>rCORE</h1>
