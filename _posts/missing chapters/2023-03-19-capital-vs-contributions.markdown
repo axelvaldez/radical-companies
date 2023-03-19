@@ -27,18 +27,6 @@ image:    "icon-capital-vs-recognized-contributions.svg"
   </ul>
 
 <div style="display:none;">
- <p>Rights to <span class='_paradigm'>FIAT</span> Dividens Are Based on Capital; rights to <span class='_paradigm'>RADICAL</span> dividens are based on recognized contributions.</p>
-</div>
-
-<h1>Rights to <span class='_paradigm'>FIAT</span> Dividens Are Based on Capital</h1>
- <p></p>
- <p></p>
-
-<h1>Rights to <span class='_paradigm'>RADICAL</span> Dividens Are Based on Recognized Contributions</h1>
- <p></p>
- <p></p>
-
-<div style="display:none;">
  <p>In <span class='_paradigm'>FIAT</span> businesses ownership is centralized; In <span class='_paradigm'>RADICAL</span> companies ownership is decentrazalized.</p>
 </div>
 
