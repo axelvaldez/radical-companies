@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Transformation Agreements"
+title:    "Explicit Relationships"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal"
-image:    "icon-transformation-agreements.svg"
+image:    "icon-explicit-relationships.svg"
 ---
 
 <div style="display:none; ">
@@ -14,8 +14,8 @@ image:    "icon-transformation-agreements.svg"
  <p>I think we are getting a better idea of what the rHatchery is: We want to help <em><span class="_paradigm">FIAT</span> businesses</em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> transform into <em><span class="_paradigm">RADICAL</span> companies</em>. We want to engage with businesses that want to get away from the <span class="_paradigm">FIAT</span> ways and want to get on the path of becoming healthy companies.</p>
  <p>We came up with many different ways of doing this and a few tools.</p>
 
-<h1>Trust Agreements</h1>
- <p>Jose came up with a tool we call a <em>Trust Agreement</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Each would-be co-owner answers these questions for herself while everybody takes note. Then, they come up with a narrative that touches on all these topics.</p>
+<h1>Explicit Relationships</h1>
+ <p>Jose came up with a tool we call a <em>Explicit Relationship</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Each would-be co-owner answers these questions for herself while everybody takes note. Then, they come up with a narrative that touches on all these topics.</p>
  <div class="_center">
  <table style="width:80%; ">
   <tbody style="border:1px solid black;">
@@ -184,7 +184,7 @@ image:    "icon-transformation-agreements.svg"
  </li>
  <li id="en02">
   <p class="_list-item">
-    The Trust Agreement tool was inspired by J Kim Wright&rsquo;s <em>Concious Contracts&copy;</em>.
+    The Explicit Relationship tool was inspired by J Kim Wright&rsquo;s <em>Concious Contracts&copy;</em>.
    <<a href="https://radicals.world/U2nQNc" target="_blank">https://radicals.world/U2nQNc</a>>
    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
   </p>

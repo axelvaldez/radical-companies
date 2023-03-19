@@ -7,7 +7,7 @@ image:    "icon-the-radical-atomic-composition.svg"
 ---
 
 <div style="display:none;">
- <p>The <span class="_paradigm">RADICAL</span> molecule is made up of the recently discovered atoms: Foundation, PRI, Explicit Alignment, The <em>RADs!</em> mobile app, and Trust Agreements. That is it, so far.</p>
+ <p>The <span class="_paradigm">RADICAL</span> molecule is made up of the recently discovered atoms: Foundation, PRI, Explicit Alignment, The <em>RADs!</em> mobile app, and Explicit Relationships. That is it, so far.</p>
 </div>
 
 <h1><span class="_paradigm">RADICAL</span></h1>
@@ -23,7 +23,7 @@ image:    "icon-the-radical-atomic-composition.svg"
    <li>PRI</li>
    <li>Explicit Alignment</li>
    <li>The <em><span class="_paradigm">RAD</span>s!</em> mobile app</li>
-   <li>Trust Agreements</li>
+   <li>Explicit Relationships</li>
   </ul>
   
 <h1>Foundation</h1>
@@ -72,8 +72,8 @@ image:    "icon-the-radical-atomic-composition.svg"
 <h1><span class="_paradigm">RAD</span>s!</h1>
  <p>The <em><span class="_paradigm">RAD</span>s!</em> mobile app makes it easier for co-owners to recognize contributions. It also makes it easier to start difficult conversations.</p>
 
-<h1>Trust Agreements</h1>
- <p>A Trust Agreement is a guide to an exploration among would-be co-owners to make sure that they can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Trust Agreement. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
+<h1>Explicit Relationships</h1>
+ <p>A Explicit Relationship is a guide to an exploration among would-be co-owners to make sure that they can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Explicit Relationship. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
  <div class="_center">
   <table class="_background">
    <tr>

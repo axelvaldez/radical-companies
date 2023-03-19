@@ -120,8 +120,9 @@ image:    "icon-the-radical-foundation-revised.svg"
    <tr>
     <th>Agreements</th>
     <td>
-     Explicit Alignment<br>
-     Trust Agreements
+     Explicit Alignment
+     <br>
+     Explicit Relationships
     </td>
    </tr>
    <tr style="background-color:#EEEEEE; ">
