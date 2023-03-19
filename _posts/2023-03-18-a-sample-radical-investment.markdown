@@ -63,7 +63,5 @@ image:    "icon-a-sample-radical-investment.svg"
 
 <h1>XII. SUCCESSORS</h1>
  <p space="text-indent:4em; "> All the foregoing is the promise of Borrower and shall bind Borrower and Borrower&rsquo;s successors, heirs, and assigns; provided, however, that Lender may not assign any of its rights or delegate any of its obligations hereunder without the prior written consent of the holder of this Note.</p>
- <p></p>
- <p space="text-indent:0; ">IN WITNESS WHEREOF, Borrower has executed this Promissory Note as of the day and year first above written.</p>
 
 {% include related.html %}
