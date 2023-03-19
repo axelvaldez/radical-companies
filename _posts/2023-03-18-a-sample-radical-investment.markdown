@@ -16,13 +16,14 @@ image:    "icon-a-sample-radical-investment.svg"
 <h1 class="_sectionn">RADICAL INVESTMENT</h1>
  <p>Loan Amount: [AMOUNT]</p>
  <p>       Date: [DATE]</p>
- <h1>I. THE PARTIES</h1>
- <p style="text-indent:4em; ">For the above value received by [company] a [STATE] Limited Liability Company with a mailing address of [ADDRESS] (the “Borrower”), agrees to pay (the “Lender”).</p>
+
+<h1>I. THE PARTIES</h1>
+ <p style="text-indent:2em; ">For the above value received by [company] a [STATE] Limited Liability Company with a mailing address of [ADDRESS] (the “Borrower”), agrees to pay (the “Lender”).</p>
 
 <h1>II. PAYMENT</h1>
- <p style="text-indent:4em; ">This agreement, (the “Note”), shall be due and payable, including the principal and any accrued interest, in one of the following ways:</p>
+ <p style="text-indent:2em; ">This agreement, (the “Note”), shall be due and payable, including the principal and any accrued interest, in one of the following ways:</p>
  <p>
-  <div style="margin-left:4em; ">
+  <div style="margin-left:2em; ">
    <p>The first payment will be made in  [DATE] in the amount of [AMOUNT].</p>
    <p>The second payment will be made  [DATE] in the amount of [AMOUNT].</p>
    <p>The third payment will be made in, [DATE] in the amount of [AMOUNT].</p>
@@ -31,37 +32,37 @@ image:    "icon-a-sample-radical-investment.svg"
  </p>
 
 <h1>III. INTEREST</h1>
- <p style="text-indent:4em; ">The Note shall bear interest at a rate of ten percent (10%) in total over the life of the loan investment if it is fully repaid by [DATE].</p>
- <p style="text-indent:4em; font-weight:bold; ">If the Borrower chooses to match the interest amount of  [AMOUNT], then the combined [AMOUNT] will be distributed according to the number of <span class="_paradigm">RAD</span>s each person has at the time of the disbursement.</p>
+ <p style="text-indent:2em; ">The Note shall bear interest at a rate of ten percent (10%) in total over the life of the loan investment if it is fully repaid by [DATE].</p>
+ <p style="text-indent:2em; font-weight:bold; ">If the Borrower chooses to match the interest amount of  [AMOUNT], then the combined [AMOUNT] will be distributed according to the number of <span class="_paradigm">RAD</span>s each person has at the time of the disbursement.</p>
 
 <h1>IV. PREPAYMENT</h1>
- <p style="text-indent:4em; ">The Borrower has the right to pay back the loan in-full or make additional payments at any time without penalty.</p>
+ <p style="text-indent:2em; ">The Borrower has the right to pay back the loan in-full or make additional payments at any time without penalty.</p>
 
 <h1>V. REMEDIES</h1>
- <p style="text-indent:4em; ">No delay or omission on part of the holder of this Note in exercising any right hereunder shall operate as a waiver of any such right or of any other right of such holder, nor shall any delay, omission, or waiver on any one occasion be deemed a bar to or waiver of the same or any other right on any future occasion. The rights and remedies of the Lender shall be cumulative and may be pursued singly, successively, or together, in the sole discretion of the Lender.</p>
+ <p style="text-indent:2em; ">No delay or omission on part of the holder of this Note in exercising any right hereunder shall operate as a waiver of any such right or of any other right of such holder, nor shall any delay, omission, or waiver on any one occasion be deemed a bar to or waiver of the same or any other right on any future occasion. The rights and remedies of the Lender shall be cumulative and may be pursued singly, successively, or together, in the sole discretion of the Lender.</p>
 
 <h1>VI. EVENTS OF ACCELERATION</h1>
- <p style="text-indent:4em; ">The occurrence of any of the following shall constitute an "Event of Acceleration" by the Lender under this Note:</p>
+ <p style="text-indent:2em; ">The occurrence of any of the following shall constitute an "Event of Acceleration" by the Lender under this Note:</p>
  <p>
-  <div style="margin-left:4em; ">
+  <div style="margin-left:2em; ">
    <p>(a) Borrower’s failure to pay any part of the principal or interest as and when due under this Note; or</p>
    <p>(b) Borrower’s becoming insolvent or not paying its debts as they become due.</p>
   </div>
  </p>
 
 <h1>VII. ACCELERATION</h1>
- <p style="text-indent:4em; ">Upon the occurrence of an Event of Acceleration under this Note, and in addition to any other rights and remedies that Lender’s may have, Lender shall have the right, at its sole and exclusive option, to declare this Note immediately due and payable.</p>
+ <p style="text-indent:2em; ">Upon the occurrence of an Event of Acceleration under this Note, and in addition to any other rights and remedies that Lender’s may have, Lender shall have the right, at its sole and exclusive option, to declare this Note immediately due and payable.</p>
 
 <h1>VIII. SUBORDINATION</h1>
- <p style="text-indent:4em; ">The Borrower’s obligations under this Promissory Note are subordinated to all indebtedness, if any, of the Borrower, to any unrelated third-party lender to the extent such indebtedness is outstanding on the date of this Note and such subordination is required under the loan documents providing for such indebtedness.</p>
+ <p style="text-indent:2em; ">The Borrower’s obligations under this Promissory Note are subordinated to all indebtedness, if any, of the Borrower, to any unrelated third-party lender to the extent such indebtedness is outstanding on the date of this Note and such subordination is required under the loan documents providing for such indebtedness.</p>
 
 <h1>IX. WAIVERS BY BORROWER</h1>
- <p style="text-indent:4em; ">All parties to this Note including the Borrower and any sureties, endorsers, and guarantors hereby waive protest, presentment, notice of dishonor, and notice of acceleration of maturity and agree to continue to remain bound for the payment of principal, interest and all other sums due under this Note notwithstanding any change or changes by way of release, surrender, exchange, modification or substitution of any security for this Note or by way of any extension or extensions of time for the payment of principal and interest; and all such parties waive all and every kind of notice of such change or changes and agree that the same may be made without notice or consent of any of them.</p>
+ <p style="text-indent:2em; ">All parties to this Note including the Borrower and any sureties, endorsers, and guarantors hereby waive protest, presentment, notice of dishonor, and notice of acceleration of maturity and agree to continue to remain bound for the payment of principal, interest and all other sums due under this Note notwithstanding any change or changes by way of release, surrender, exchange, modification or substitution of any security for this Note or by way of any extension or extensions of time for the payment of principal and interest; and all such parties waive all and every kind of notice of such change or changes and agree that the same may be made without notice or consent of any of them.</p>
 
 <h1>XI. GOVERNING LAW</h1>
- <p style="text-indent:4em; "> This Note shall be governed by, and construed in accordance with, the laws of the [STATE].</p>
+ <p style="text-indent:2em; "> This Note shall be governed by, and construed in accordance with, the laws of the [STATE].</p>
 
 <h1>XII. SUCCESSORS</h1>
- <p style="text-indent:4em; "> All the foregoing is the promise of Borrower and shall bind Borrower and Borrower&rsquo;s successors, heirs, and assigns; provided, however, that Lender may not assign any of its rights or delegate any of its obligations hereunder without the prior written consent of the holder of this Note.</p>
+ <p style="text-indent:2em; "> All the foregoing is the promise of Borrower and shall bind Borrower and Borrower&rsquo;s successors, heirs, and assigns; provided, however, that Lender may not assign any of its rights or delegate any of its obligations hereunder without the prior written consent of the holder of this Note.</p>
 
 {% include related.html %}
