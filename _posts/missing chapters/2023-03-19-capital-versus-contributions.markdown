@@ -1,22 +1,53 @@
 ---
 layout:   post
-title:    "Capital versus Contributions"
+title:    "Capital versus Recognized Contributions"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-capital-versus-contributions.svg"
+image:    "icon-capital-versus-recognized-contributions.svg"
 ---
 
 <div style="display:none;">
- <p>Shares in a <span class='_paradigm'>FIAT</span> business come from capital. <span class='_paradigm'>RAD</span>s come from recognized contributions.</p>
- <p>In <span class='_paradigm'>FIAT</span> businesses, rights to dividens is based on capital investments and negotiations. In <span class='_paradigm'>RADICAL</span> companies, rights to dividends is based on contributions recognized by co-owners.</p>
+ <p>Shares in a <span class='_paradigm'>FIAT</span> business come from capital; <span class='_paradigm'>RAD</span>s come from recognized contributions.</p>
 </div>
 
-<h1>Business Shares Are Static</h1>
- <p>When the <span class='_paradigm'>FIAT</span> owner gives another investor 10% of the business in shares, that is forever. For example, Mark Zuckerberg owns 11% of Meta, forever. He can retire from the business now and he will still own 11% of Meta.</p>
- <p>Business shares are static.</p>
+<h1><span class='_paradigm'>FIAT</span> Business Shares Come from Capital</h1>
+ <p>Shares in a <span class='_paradigm'>FIAT</span> business come from capital,</p>
+  <ul>
+   <li>You have accumulated capital.</li>
+   <li>You invest it in a <span class='_paradigm'>FIAT</span> business for, say, 10% ownership.</li>
+   <li>That 10% is yours forever.</li>
+  </ul>
 
-<h1><span class='_paradigm'>RAD</span>s Are Dynamic</h1>
- <p>When co-owners give another co-owner 10% of the <span class='_paradigm'>RAD</span>s, that percentage lasts for, say, a month. Next month the same co-owner may end up with 5% and the next with 20%. It depends on his contributions as recognized by other co-owners.</p>
- <p><span class='_paradigm'>RAD</span>s are dynamic.</p>
+<h1><span class='_paradigm'>RAD</span>s Come from Recognized Contributions</h1>
+ <p>You have to earn <span class='_paradigm'>RAD</span>s. As co-owners,</p>
+  <ul>
+   <li>You contribute to the work you and the other co-owners are doing together.</li>
+   <li>Other co-owners see some of your work as a contribution.</li>
+   <li>They give you <span class='_paradigm'>RAD</span>s in recognition.</li>
+  </ul>
+
+<div style="display:none;">
+ <p>Rights to <span class='_paradigm'>FIAT</span> Dividens Are Based on Capital; rights to <span class='_paradigm'>RADICAL</span> dividens are based on recognized contributions.</p>
+</div>
+
+<h1>Rights to <span class='_paradigm'>FIAT</span> Dividens Are Based on Capital</h1>
+ <p></p>
+ <p></p>
+
+<h1>Rights to <span class='_paradigm'>RADICAL</span> Dividens Are Based on Recognized Contributions</h1>
+ <p></p>
+ <p></p>
+
+<div style="display:none;">
+ <p>In <span class='_paradigm'>FIAT</span> businesses ownership is centralized; In <span class='_paradigm'>RADICAL</span> companies ownership is decentrazalized.</p>
+</div>
+
+<h1>In <span class='_paradigm'>FIAT</span> Businesses Ownership Is Centralized</h1>
+ <p></p>
+ <p></p>
+
+<h1>In <span class='_paradigm'>RADICAL</span> Companies Ownership Is Decentrazalized</h1>
+ <p></p>
+ <p></p>
 
 {% include related.html %}
