@@ -23,7 +23,7 @@ image:    "icon-a-sample-radical-investment.svg"
 <h1>II. PAYMENT</h1>
  <p style="text-indent:2em; ">This agreement, (the “Note”), shall be due and payable, including the principal and any accrued interest, in one of the following ways:</p>
  <p>
-  <div style="margin-left:2em; ">
+  <div style="margin-left:3em; ">
    <p>The first payment will be made in  [DATE] in the amount of [AMOUNT].</p>
    <p>The second payment will be made  [DATE] in the amount of [AMOUNT].</p>
    <p>The third payment will be made in, [DATE] in the amount of [AMOUNT].</p>
@@ -44,7 +44,7 @@ image:    "icon-a-sample-radical-investment.svg"
 <h1>VI. EVENTS OF ACCELERATION</h1>
  <p style="text-indent:2em; ">The occurrence of any of the following shall constitute an "Event of Acceleration" by the Lender under this Note:</p>
  <p>
-  <div style="margin-left:2em; ">
+  <div style="margin-left:3em; ">
    <p>(a) Borrower’s failure to pay any part of the principal or interest as and when due under this Note; or</p>
    <p>(b) Borrower’s becoming insolvent or not paying its debts as they become due.</p>
   </div>
