@@ -16,7 +16,7 @@ image:    "icon-business-shares-are-static-rads-are-dynamic.svg"
 
 <h1><span class='_paradigm'>RAD</span>s Are Dynamic</h1>
  <p>When co-owners give another co-owner 10% of the <span class='_paradigm'>RAD</span>s, that percentage lasts for, say, a month. Next month the same co-owner may end up with 5% and the next with 20%. It depends on his contributions as recognized by other co-owners.</p>
- <p><span class='_paradigm'>RAD</span>s are not shares.</p>
+ <p><span class='_paradigm'>RAD</span>s are dynamics.</p>
  <p></p>
  <p>That&rsquo;s it.</p>
 
