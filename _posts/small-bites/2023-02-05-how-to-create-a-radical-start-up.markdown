@@ -124,8 +124,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <li>The <b>Impact</b> should not change at all, at least not without a deep discussion. This may happen, but it is a major thing, equivalent to creating a new company.</li>
   </ul>
 
-<h1>Trust Agreement</h1>
- <p>A Trust Agreement is a guide to an exploration among would-be co-owners to make sure that they can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Trust Agreement. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
+<h1>Explicit Relationships</h1>
+ <p>n Explicit Relationship is a guide to an exploration among would-be co-owners to make sure that they can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Explicit Relationship. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
  <div class="_center">
   <table class="_background">
    <tr>
@@ -215,7 +215,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
      <td>
       <p>You have tools to do this,</p>
        <ul>
-        <li>Trust Agreement and Explicit Alignment can help establish a foundation for healthy relationships.</li>
+        <li>Explicit Relationship and Explicit Alignment can help establish a foundation for healthy relationships.</li>
         <li>
          <div>The <em><span class="_paradigm">RAD</span>s!</em> mobile app makes it easier for all co-owners to recognize contributions.</div>
          <div style="text-indent:1em; ">It also makes it easier to start difficult conversations which requires different skills than what we have learned throughout our lives in a <span class="_paradigm">FIAT</span> system. Sometimes the conversation will end up being a misunderstanding, sometimes behavior will have to change, and other times it will end up in a collaboration to do things differently..</div>
