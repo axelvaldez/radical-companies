@@ -26,7 +26,7 @@ image:    "icon-a-sample-radical-investment.svg"
   </div>
  </p>
  <h1>III. INTEREST.</h1>
-  <p space="text-indent:4em; ">The Note shall bear interest at a rate of ten percent (10%) in total over the life of the loan investment if it is fully repaid by April 1, 2024. If the Borrower chooses to match the $10,000 interest amount, then the combined $20,000 will be distributed according to the number of RADs each person has at the time of the disbursement.</p>
+  <p space="text-indent:4em; ">The Note shall bear interest at a rate of ten percent (10%) in total over the life of the loan investment if it is fully repaid by [DATE]. If the Borrower chooses to match the [AMOUNT] interest amount, then the combined [AMOUNT] will be distributed according to the number of <span class="_paradigm">RAD</span>s each person has at the time of the disbursement.</p>
  <h1>IV. PREPAYMENT.</h1>
   <p space="text-indent:4em; ">The Borrower has the right to pay back the loan in-full or make additional payments at any time without penalty.</p>
  <h1>V. REMEDIES.</h1>
