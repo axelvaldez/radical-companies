@@ -13,7 +13,7 @@ image:    "icon-a-sample-radical-investment.svg"
 <h1>RADICAL INVESTMENT</h1>
  <p>Loan Amount: Two Hundred Thousand Dollars ($200,000.00)</p>
  <p>Date:</p>
- <p>I. THE PARTIES. For the above value received by [company] a [STATE] Limited Liability Company with a mailing address of [ADDRESS (the “Borrower”), agrees to pay (the “Lender”).</p>
+ <p>I. THE PARTIES. For the above value received by [company] a [STATE] Limited Liability Company with a mailing address of [ADDRESS] (the “Borrower”), agrees to pay (the “Lender”).</p>
  <p>II. PAYMENT. This agreement, (the “Note”), shall be due and payable, including the principal and any accrued interest, in one of the following ways:</p>
  <p>The first payment will be made in January 2023 in the amount of $50,000. The second payment will be made in April 2023 in the amount of $54,000. The third payment will be made in,  [DATE],  [DATE],  [DATE],  [DATE] in the amount of [AMOUNT]. The total amount of the loan shall be due and payable by [DATE].</p>
  <p>III. INTEREST. The Note shall bear interest at a rate of ten percent (10%) in total over the life of the loan investment if it is repaid by the due date of January 2024.</p>
