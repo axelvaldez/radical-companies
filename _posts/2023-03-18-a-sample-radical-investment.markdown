@@ -13,7 +13,7 @@ image:    "icon-a-sample-radical-investment.svg"
 <h1>&nbsp;</h1>
  <p>Pay attention to clause III. The rest of it is <span class="_paradigm">FIAT</span> boilerplate.</p>
 
-<h1>RADICAL INVESTMENT</h1>
+<h1 class="_sectionn">RADICAL INVESTMENT</h1>
  <p>Loan Amount: [AMOUNT]</p>
  <p>       Date: [DATE]</p>
  <h1>I. THE PARTIES.</h1>
