@@ -16,7 +16,7 @@ image:    "icon-a-sample-radical-investment.svg"
 <h1 class="_sectionn">RADICAL INVESTMENT</h1>
  <p>Loan Amount: [AMOUNT]</p>
  <p>       Date: [DATE]</p>
- <h1>I. THE PARTIES.</h1>
+ <h1>I. THE PARTIES</h1>
  <p space="text-indent:4em; ">For the above value received by [company] a [STATE] Limited Liability Company with a mailing address of [ADDRESS] (the “Borrower”), agrees to pay (the “Lender”).</p>
 
 <h1>II. PAYMENT</h1>
