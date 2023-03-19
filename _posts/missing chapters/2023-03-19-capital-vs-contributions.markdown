@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Capital versus Recognized Contributions"
+title:    "Capital vs Recognized Contributions"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-capital-versus-recognized-contributions.svg"
