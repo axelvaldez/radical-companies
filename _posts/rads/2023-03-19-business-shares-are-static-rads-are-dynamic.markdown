@@ -7,7 +7,7 @@ image:    "icon-business-shares-are-static-rads-are-dynamic.svg"
 ---
 
 <div style="display:none;">
- <p>Shares of a business are not <span class='_paradigm'>RAD</span>s. That&rsquo;s it.</p>
+ <p>Shares of a business are not <span class='_paradigm'>RAD</span>s.</p>
 </div>
 
 <h1>Business Shares Are Static</h1>
