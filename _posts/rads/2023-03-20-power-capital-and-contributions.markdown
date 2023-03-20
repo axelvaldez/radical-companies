@@ -12,11 +12,9 @@ image:    "icon-capital-versus-recognized-contributions.svg"
 
 <h1>&nbsp;</h1>
  <p>In <span class='_paradigm'>FIAT</span> businesses, power comes from capital. By contrast, in <span class='_paradigm'>RADICAL</span> companies come from contributions. It is not a simple issue and in this post we look at it from four diffent views.</p>
+ <p>In <span class='_paradigm'>FIAT</span> businesses, power includes financial, operations, and people. By contrast, in <span class='_paradigm'>RADICAL</span> companies the only &ldquo;power&rdquo; there is financial. Operations is lead by the companies Explicit Alignment. And nobody has coercive power over anybody else.</p>
 
 <h1 class="_section"><span class='_paradigm'>FIAT</span></h1>
-
-<h1>Power</h1>
- <p>In <span class='_paradigm'>FIAT</span> businesses, power includes financial, operations, and people. By contrast, in <span class='_paradigm'>RADICAL</span> companies the only &ldquo;power&rdquo; there is financial. Operations is lead by the companies Explicit Alignment. And nobody has coercive power over anybody else.</p>
 
 <h1>Financial Power</h1>
  <p>Shares in a <span class='_paradigm'>FIAT</span> business come from capital. For example, you invest your accumulated capital in a <span class='_paradigm'>FIAT</span> business for 30% ownership. let&rsquo;s assume that the 30% ownership gets you a seat on the Board.</li>
