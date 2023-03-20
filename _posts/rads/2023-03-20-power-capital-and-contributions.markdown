@@ -34,9 +34,6 @@ image:    "icon-capital-versus-recognized-contributions.svg"
 
 <h1 class="_section"><span class='_paradigm'>RADICAL</span></h1>
 
-<h1>Power</h1>
- <p></p>
-
 <h1>Financial Power</h1>
  <p>You are a co-owner of the compay and as such,</p>
   <ul>
