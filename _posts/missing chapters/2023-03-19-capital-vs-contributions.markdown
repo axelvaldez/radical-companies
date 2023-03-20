@@ -26,16 +26,4 @@ image:    "icon-capital-vs-recognized-contributions.svg"
    <li>They give you <span class='_paradigm'>RAD</span>s in recognition.</li>
   </ul>
 
-<div style="display:none;">
- <p>In <span class='_paradigm'>FIAT</span> businesses ownership is centralized; In <span class='_paradigm'>RADICAL</span> companies ownership is decentrazalized.</p>
-</div>
-
-<h1>In <span class='_paradigm'>FIAT</span> Businesses Ownership Is Centralized</h1>
- <p></p>
- <p></p>
-
-<h1>In <span class='_paradigm'>RADICAL</span> Companies Ownership Is Decentrazalized</h1>
- <p></p>
- <p></p>
-
 {% include related.html %}
