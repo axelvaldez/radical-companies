@@ -3,7 +3,7 @@ layout:   post
 title:    "Capital vs Recognized Contributions"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-capital-vs-recognized-contributions.svg"
+image:    "icon-capital-versus-recognized-contributions.svg"
 ---
 
 <div style="display:none;">
