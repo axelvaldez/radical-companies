@@ -126,8 +126,8 @@ image:    "icon-escape-velocity-radical-style.svg"
    <li>The whole thing is transparent. Everybody can see who is given RADs to whom, how many RADs each co-owner has, etc. Among other benefits, this lets anybody raise a red flag when they see a problem.</li>
   </ul>
  <h2>Explicit Relatioships</h2>
-  <p><em>Explicit Relatioshipss</em> help people come together  and build trust from the start.</p>
-  <p>Inspired by J Kim Wright&rsquo;s <em>Conscious Contracts<sup>®</sup></em> framework,<sup id="bm04"><a href="#en04">4&nbsp;</a></sup> an <em>Explicit Relationships</em> is a simple set of topics that would-be co-owners discuss. Then, when they agree to come together as a community (see <a id="_aboutCommunity" href="#_appendix">Appendix</a>), they create an <em>Explicit Relationships</em> from their discussion notes.</p>
+  <p><em>Explicit Relatioshipss</em> help people come together and build trust from the start.</p>
+  <p>Inspired by J Kim Wright&rsquo;s <em>Conscious Contracts<sup>®</sup></em> framework,<sup id="bm04"><a href="#en04">4&nbsp;</a></sup> an <em>Explicit Relationships</em> consists of four items that would-be co-owners discuss. Then, when they agree to come together as a community (see <a id="_aboutCommunity" href="#_appendix">Appendix</a>), they create an <em>Explicit Relationships</em> from their discussion notes.</p>
   <p>There are still lots of things to work out (<em>e.g.</em>, how to scale it), but so far we&rsquo;ve gotten good feedback, including this: &ldquo;some organizations never build up trust among people, even after years of operation.&rdquo;</p>
 
 <h1>Reaching Escape Velocity</h1>
