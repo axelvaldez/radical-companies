@@ -26,7 +26,7 @@ image:    "icon-subordination-is-bad-for-you-and-me.svg"
  <p>My subordinates could live with this kind of thing by telling themselves that it was a win for the team, though in reality it was a win for me. When the time came, I went along with eliminating the team that had &ldquo;backed&rdquo; so many wins for me.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>People Are&hellip;</h1>
- <p>Whenever I hear a sentence that starts with, <span class="_quotespan">&hellip; but people are&hellip;,</span> I think, <span class="_quotespan">yes, that&rsquo;s the way we are <span id="_bolder">under the <span class="_paradigm">FIAT</span></span> system.</span> The system we have grown up in and the only one we know. In other words, it is not &ldquo;in our nature&rdquo; to be submissive and behave like losers, but the <span class="_paradig">FIAT</span> system makes it easy for most of us to give up our agency and behave that way. <em>Any of us</em> can do so.</p>
+ <p>Whenever I hear a sentence that starts with, <span class="_quotespan">&hellip; but people are&hellip;,</span> I think, <span class="_quotespan">yes, that&rsquo;s the way we are <span id="_bolder">under the <span class="_paradigm">FIAT</span></span> system.</span> The system we have grown up in and the only one we know. In other words, it is not &ldquo;in our nature,&rdquo; as is is often claimed, to be submissive, but the <span class="_paradig">FIAT</span> system makes it easy for most of us to give up our agency and behave that way. <em>Any of us</em> can do so.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
