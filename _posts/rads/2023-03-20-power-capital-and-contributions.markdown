@@ -12,7 +12,7 @@ image:    "icon-capital-versus-recognized-contributions.svg"
 
 <h1>&nbsp;</h1>
  <p>In <span class='_paradigm'>FIAT</span> businesses, power comes from capital. By contrast, in <span class='_paradigm'>RADICAL</span> companies come from contributions. It is not a simple issue and in this post we look at it from four diffent views.</p>
- <p>In <span class='_paradigm'>FIAT</span> businesses, power includes financial, operations, and people. By contrast, in <span class='_paradigm'>RADICAL</span> companies the only &ldquo;power&rdquo; there is financial. Operations is lead by co-owners and nobody has coercive power over anybody else.</p>
+ <p>In <span class='_paradigm'>FIAT</span> businesses, power includes financial, operations, and people. By contrast, in <span class='_paradigm'>RADICAL</span> companies Operations is lead by co-owners and nobody has coercive power over anybody else. Co-owners do get more or less Dividens based on what other co-owners recognize as their contributions.</p>
 
 <h1 class="_section"><span class='_paradigm'>FIAT</span></h1>
 
