@@ -184,8 +184,8 @@ image:    "icon-explicit-relationships.svg"
  </li>
  <li id="en02">
   <p class="_list-item">
-    The Explicit Relationship tool was inspired by J Kim Wright&rsquo;s <em>Concious Contracts&copy;</em>.
-   <<a href="https://radicals.world/U2nQNc" target="_blank">https://radicals.world/U2nQNc</a>>
+    The Explicit Relationship tool was inspired by J Kim Wright&rsquo;s <em>Conscious Contracts&copy;</em>.
+   <<a href="https://consciouscontracts.com/" target="_blank">https://consciouscontracts.com/</a>>
    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
   </p>
  </li>
