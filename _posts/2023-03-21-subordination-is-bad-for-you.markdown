@@ -10,13 +10,12 @@ image:    "icon-subordination-is-bad-for-you-and-me.svg"
  <p>&ldquo;Subordination leads to traits associated with depression.&rsquo;</p>
 </div>
 
- <div>
-   <span class="_citation">Subordination leads to traits associated with depression.
-   and
+ <div class="_citation">
+   <span class="_quotespan">Subordination leads to traits associated with depression.</span>
+   &hellip;
    <span class="_quotespan">&hellip; when individuals are repeatedly exposed to an inescapable aversive situation, they lose the capacity to escape from other, avoidable aversive situations &ndash; a pattern of behaviour known as learned helplessness</span>
    <span id="_signature">Nature Magazine</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
-  </span>
- </p>
+ </div>
 
 <h1>&nbsp;</h1>
  <p>To be fair, this has been tested in laboratory rats, not people. However, <span class="_quotespan">This propensity seems to be evolutionarily conserved.</span> which means that there is a high likelyhood that it applies to us, too, and subordination is bad for us. Not only it may lead to depression, it induces learned helplessness or as we call it in the vernacular, self-victimization. People who are constantly defeated, learned that they are loses.</p>
