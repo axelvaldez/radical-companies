@@ -25,11 +25,13 @@ image:    "icon-subordination-is-bad-for-you-and-me.svg"
 
 <h1>People Are&hellip;</h1>
  <p>
-   Whenever I hear others start a sentence with,
+   Whenever I hear a sentence that starts with,
    <span class="_quotespan">&hellip; but people are&hellip;</span>
    I think,
-   <span class="_quotespan">yes, that&rsquo;s the way people are <em>under the
-   <span class="_paradigm">FIAT</span> system</em></span>.
+   <span class="_quotespan">yes, that&rsquo;s the way people are
+   <em>under the
+    <span class="_paradigm">FIAT</span>
+   system</em></span>.
    In other words, it is not &ldquo;in our nature&rdquo; to be submissive, but we are quite prepared to do so.
    <em>Any of us</em>
    are prepared to do so.
