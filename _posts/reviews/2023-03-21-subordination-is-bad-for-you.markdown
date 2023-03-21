@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Subordination Is Bad for You and Me"
+title:    "Subordination Is Bad for You (and Me)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-subordination-is-bad-for-you-and-me.svg"
