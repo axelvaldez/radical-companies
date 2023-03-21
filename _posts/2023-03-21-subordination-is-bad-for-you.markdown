@@ -28,13 +28,14 @@ image:    "icon-subordination-is-bad-for-you-and-me.svg"
    Whenever I hear a sentence that starts with,
    <span class="_quotespan">&hellip; but people are&hellip;</span>
    I think,
-   <span class="_quotespan">yes, that&rsquo;s the way people are
+   <span class="_quotespan">yes, that&rsquo;s the way we are
    <em>under the
     <span class="_paradigm">FIAT</span>
    system</em></span>.
-   In other words, it is not &ldquo;in our nature&rdquo; to be submissive, but we are quite prepared to do so.
+   The system we have grown up in and the only one we know.
+   In other words, it is not &ldquo;in our nature&rdquo; to be submissive and behave like losers, but the <span class="_paradig">FIAT</span> system makes it easy for most of us to give up our agency and behave that way.
    <em>Any of us</em>
-   are prepared to do so.
+   are quite prepared to do so.
   </p>
 
 <h1 class="_section">ENDNOTES</h1>
