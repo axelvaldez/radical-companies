@@ -34,7 +34,7 @@ image:    "icon-subordination-is-bad-for-you-and-me.svg"
    <p class="_list-item">
     Alexander Harris, Nancy Padilla-Coreano,
     <em>How loss of social status affects the brain.</em>
-    Nature Magazine, 2023.
+    Nature Magazine, Vol 614, Issue 7952.
     &lt;<a href="https://radicals.world/QpSFC1" target="_blank">https://radicals.world/QpSFC1</a>&gt; (alt, &lt;<a href="https://www.diigo.com/item/pdf/zk1n/apyc" target="_blank">https://www.diigo.com/item/pdf/zk1n/apyc</a>&gt;)
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
