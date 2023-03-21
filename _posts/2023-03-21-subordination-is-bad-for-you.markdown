@@ -14,7 +14,7 @@ image:    "icon-subordination-is-bad-for-you-and-me.svg"
    <span class="_quotespan">Subordination leads to traits associated with depression.</span>
    &hellip;
    <span class="_quotespan">&hellip; when individuals are repeatedly exposed to an inescapable aversive situation, they lose the capacity to escape from other, avoidable aversive situations &ndash; a pattern of behaviour known as learned helplessness</span>
-   <span id="_signature">Nature Magazine</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
+   <span id="_signature">Nature Magazine<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></span>
  </div>
 
 <h1>&nbsp;</h1>
