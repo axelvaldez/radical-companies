@@ -15,105 +15,16 @@ image:    "icon-explicit-relationships.svg"
  <p>We came up with many different ways of doing this and a few tools.</p>
 
 <h1>Explicit Relationships</h1>
- <p>Jose came up with a tool we call a <em>Explicit Relationship</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Each would-be co-owner answers these questions for herself while everybody takes note. Then, they come up with a narrative that touches on all these topics.</p>
- <div class="_center">
- <table style="width:80%; ">
-  <tbody style="border:1px solid black;">
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>Mindset</th>
-    <td>
-     <ul>
-      <li>Why do we do what we do?</li>
-      <li>How are you showing up?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>Personal Context</th>
-    <td>
-     <ul>
-      <li>Who are you?</li>
-      <li>Why do you need the others?</li>
-      <li>What do you feel we need to agree on?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>Transparency & Vulnerability</th>
-    <td>
-     <ul>
-      <li>Being</li>
-      <li>Meaning</li>
-      <li>Impacting</li>
-      <li>Belonging</li>
-      <li>Becoming</li>
-     </ul>
-    </td>   
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>Collaborating</th>
-    <td>
-     <ul>
-      <li>How will you address change?</li>
-      <li>How will we address disagreements?</li>
-      <li>How will we communicate with one another?</li>
-      <li>What do we do if communication is not enough?</li>
-      <li>Who will we ask for help from?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>Commitments</th>
-    <td>
-     <ul>
-      <li>What commitments do we need to make?</li>
-      <li>How are our commitments practical?</li>
-      <li>What are the financial aspects of this agreement?</li>
-      <li>Do we need to meet any legal conditions?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-   <tr>
-    <th>Rendering</th>
-    <td>
-     <ul>
-      <li>Do we all agree to the language of the agreement?</li>
-      <li>Is it as simple and direct as it can be?</li>
-      <li>Are we all able and willing to comply with the terms?</li>
-      <li>Can we make it a living part of our collaboration?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-  </tbody>
-  <tfoot>
-   <tr>
-    <td class="_spacer"></td>
-   </tr>
-  </tfoot>
- </table>
- </div>
- <p>We were surprised by how well this worked to bring out the concerns of the people involved. People felt safe enough to let out all kinds of things about themselves that made them vulnerable. So far, we&rsquo;ve done it with early adopters, so we don&rsquo;t have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
+ <p>Jose came up with a tool we call a <em>Explicit Relationship</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Each would-be co-owner answers these questions for herself while everybody takes note. Then, they come up with a narrative that touches on these topics,</p>
+ <p>It&rsquo;s pretty simple,</p>
+  <ol>
+   <li>You</li>
+   <li>Me</li>
+   <li>Your explicit commitments</li>
+   <li>My support commitments</li>
+  </ol>
+ <p>Note that when doing this with a group, &ldquo;me&rdquo; stands for each person in the group and &ldquo;my committments&rdquo; becomes a list of each co-owner&rsquo;s commitments to each other. Also, the would-be co-owner has to option to do it as a discussion or do it as a written, silent process.</p>
+ <p>We were surprised by how well this worked to bring out the concerns of the people involved. People felt safe enough to let out all kinds of things about themselves, they are notafraid of making themselves vulnerable. So far, we&rsquo;ve done it with early adopters, so we don&rsquo;t have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
 
 <h1>Foundation Agreements [DRAFT]</h1>
  <p>The <em>Trust Framework</em> works for people, but not for communities. Here is a DRAFT <em>Foundation Agreement</em>,</p>
