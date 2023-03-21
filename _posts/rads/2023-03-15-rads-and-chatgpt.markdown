@@ -81,7 +81,7 @@ image:    "icon-rads-and-chatgpt.svg"
    <tr>
     <th>Market-based approach</th>
     <td>
-     <p>The assumption here is of a <em>perfectly open market</em>. Unfortunately, there is no such thing: markets are gamed by big capital players, governments, etc&mdash;mild forms of force.</p>
+     <p>The assumption here is of a <em>perfectly open market</em>. Unfortunately, there is no such thing: markets are gamed, corrupted, by big capital players, governments, etc&mdash;mild forms of force.</p>
      <p>It seems that the data source chatGPT uses is biased towards this assumption of &ldquo;perfection.&rdquo; Unfortunately, this makes this response meaningless in the <span class="_paradigm">RADICAL</span> context.</p>
      <p>A market is not a solution.</p>
     </td>
