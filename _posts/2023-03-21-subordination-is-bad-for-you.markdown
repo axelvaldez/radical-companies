@@ -11,10 +11,11 @@ image:    "icon-subordination-is-bad-for-you-and-me.svg"
 </div>
 
  <div>
-  <span class="_citation">Subordination leads to traits associated with depression.</span>
-  and
-  <span class="_quotespan">&hellip; when individuals are repeatedly exposed to an inescapable aversive situation, they lose the capacity to escape from other, avoidable aversive situations &ndash; a pattern of behaviour known as learned helplessness</span>
-  <span id="_signature">Nature Magazine</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
+   <span class="_citation">Subordination leads to traits associated with depression.
+   and
+   <span class="_quotespan">&hellip; when individuals are repeatedly exposed to an inescapable aversive situation, they lose the capacity to escape from other, avoidable aversive situations &ndash; a pattern of behaviour known as learned helplessness</span>
+   <span id="_signature">Nature Magazine</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
+  </span>
  </p>
 
 <h1>&nbsp;</h1>
