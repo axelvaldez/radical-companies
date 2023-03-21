@@ -3,7 +3,7 @@ layout:   post
 title:    "Subordination Is Bad for You"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-ptsd-and-trust.svg"
+image:    "icon-subordination-is-bad-for-you.svg"
 ---
 
 <div style="display:none;">
