@@ -11,7 +11,7 @@ image:    "icon-subordination-is-bad-for-you.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>&ldquo;Subordination leads to traits associated with depression.&rsquo;&mdash;Nature Magazine<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> &lsquo;&hellip; when individuals are repeatedly exposed to an inescapable aver- sive situation, they lose the capacity to escape from other, avoidable aversive situations — a pattern of behaviour known as learned helplessness&rsquo;</p>
+ <p>&ldquo;Subordination leads to traits associated with depression.&rsquo; and &lsquo;&hellip; when individuals are repeatedly exposed to an inescapable aver- sive situation, they lose the capacity to escape from other, avoidable aversive situations — a pattern of behaviour known as learned helplessness&rsquo;&mdash;Nature Magazine<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
