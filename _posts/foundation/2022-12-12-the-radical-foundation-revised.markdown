@@ -52,8 +52,8 @@ image:    "icon-the-radical-foundation-revised.svg"
 
 <h1>Explicit Alignment & Experimentation</h1>
  <p>Finally, we come to a leg of the <span class="_paradigm">RADICAL</span> foundation that needs to be changed.</p>
- <p>I was never very happy with the combination of <em>Explicit Alignment</em> and <em>Experimentation</em> under Practices. I have now realized that Explicit Alignment is a tool &ndash; one that is key and absolutely necessary, but it&rsquo;s just a tool.</p>
- <p>Experimentation, on the other hand, applies to every <span class="_paradigm">RADICAL</span> practice. The result may or may not meet our hypothesis (<em>i.e.</em>, our expectations), but even when it does not, it serves to teach us a lesson.</p>
+ <p>I was never very happy with the combination of <em>Explicit Alignment</em> and <em>Experimentation</em> under Practices. I have now realized that Explicit Alignment is a tool &ndash; one that we believe is key and absolutely necessary, but it&rsquo;s just a tool.</p>
+ <p>Experimentation, on the other hand, applies to every <span class="_paradigm">RADICAL</span> practice. The result may or may not meet our expectations (<em>i.e.</em>, our hypothesis), but even when it does not, it serves to teach us a lesson and we learn.</p>
 
 <h1>Tools</h1>
  <p>Toos are not technically a part of the <span class="_paradigm">RADICAL</span> foundation itself; you can be on the <span class="_paradigm">RADICAL</span> path and use diffferent tools. No matter, this is what we&rsquo;ve come up with, so far,</p>
