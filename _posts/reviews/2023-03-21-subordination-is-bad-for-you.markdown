@@ -7,7 +7,7 @@ image:    "icon-subordination-is-bad-for-you-and-me.svg"
 ---
 
 <div style="display:none;">
- <p>&ldquo;Subordination leads to traits associated with depression.&rsquo;</p>
+ <p><span class="_quotespan">Subordination leads to traits associated with depression.</span></p>
 </div>
 
  <div class="_citation">
