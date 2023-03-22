@@ -74,6 +74,7 @@ image:    "icon-the-radical-foundation-house.svg"
   <ul>
    <li>The <span class="_paradigm">RAD</span>s! mobile app.</li>
    <li>Explicit Relationships.</li>
+   <li>Legal structure.</li>
    <li>etc.</li>
   </ul>
 
