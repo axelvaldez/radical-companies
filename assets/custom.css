@@ -287,7 +287,7 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   width:80%;
 
   margin:0 auto 30px auto;
-  padding:0 0.5em .5em 10%;
+  padding:0 auto .5em  auto;
 }
 ._citation #_signature {
   display: block;
