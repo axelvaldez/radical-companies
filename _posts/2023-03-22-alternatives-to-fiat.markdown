@@ -16,7 +16,7 @@ image:    "icon-alternatives-to-fiat.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>I just saw the quote above in one of Blair Fix&rsquo;s papers entitled &ldquo;Redistributing Income Through Hierarchye&rdquo;. This shows how difficut it is to see past what people call capitalism, but really is the <span class="_paradigm">FIAT</span> system.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>I just saw the quote above in one of Blair Fix&rsquo;s papers entitled <span class="_quotespan">Redistributing Income Through Hierarchy</spn>. This shows how difficut it is to see past what people call capitalism, but really is the <span class="_paradigm">FIAT</span> system.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 <div class="_citation">
  <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span>
 </div>
