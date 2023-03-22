@@ -23,7 +23,7 @@ image:    "icon-the-radical-foundation-house.svg"
     </div>
    </li>
    <li>
-    DECENTRALIZATION and TRANSPARENCY are the axis of the &ldquo;roof&rdquo; meaning that the house has no boss in it and everything is transparent. The latter makes sure that any potential &ldquo;gaming&rdquo; of the system is apparent to everybody.
+    DECENTRALIZATION and TRANSPARENCY are the axis of the &ldquo;roof&rdquo; meaning that 1) the house has no boss in it and 2) everything is transparent. By having all information available to everybody, it makes sure that any potential &ldquo;gaming&rdquo; of the system is apparent to everybody and it gets dealt with.
     <div class="_center">
      <img
       style="width:70%; "
