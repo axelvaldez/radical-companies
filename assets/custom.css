@@ -290,12 +290,13 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
 ._citation #_signature {
   display: block;
   padding-top:10px;
-  margin-left:40px;
   text-indent:-1em;
   font-style:italic;
   font-size:smaller;
+
   margin-top:0.5em;
   margin-left:10%;
+  margin:0 0.5em .5em 10%;
 }
 ._citation #_signature::before {
   content:"— ";
