@@ -7,11 +7,11 @@ image:    "icon-alternatives-to-fiat.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>It is not intelligent, it is not beautiful, it is not just, it is not virtuous &ndash; and it doesn’t deliver the goods. In short, we dislike it, and we are beginning to despise it. But when we wonder what to put in its place, we are extremely perplexed.</p>
 </div>
 
 <div class="_citation">
- <span>It is not intelligent, it is not beautiful, it is not just, it is not virtuous &ndash; and it doesn’t deliver the goods. In short, we dislike it, and we are beginning to despise it. But when we wonder what to put in its place, we are extremely perplexed.</span>
+ <span class="_quotespan">It is not intelligent, it is not beautiful, it is not just, it is not virtuous &ndash; and it doesn’t deliver the goods. In short, we dislike it, and we are beginning to despise it. But when we wonder what to put in its place, we are extremely perplexed.</span>
  <span id="_signature">John Maynard Keynes.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></span>
 </div>
 
