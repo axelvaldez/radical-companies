@@ -209,9 +209,6 @@ h1._section {
   margin-bottom:20px;
   color:gray;
 }
-p {
-  margin-left:1em;
-}
 a._uparrow img {
   height:15px;
 }
@@ -352,6 +349,7 @@ div._quotespan {
   content:"”";
 }
 p {
+  margin-left:0;
   padding-left:0;
   margin-bottom:6px;
   text-indent:1em;
