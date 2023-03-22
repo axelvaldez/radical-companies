@@ -20,8 +20,8 @@ image:    "icon-alternatives-to-fiat.svg"
    <div class="_citation">
     <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span>
    </div>
- <p>The problem is that the <span class="_paradigm">FIAT</span> system is based on competition and domination and capital happens to be a very efficient form tool of domination. Our alternative is have a system based on contribuions, instead of capital: the <span class="_paradigm">RADICAL</span> system, we believe, will produced more of a life nourising system, which .</p>
- <p>The obstacle has been to decide what is a contribution. We are so used to the <span class="_paradigm">FIAT</span> hierarchical model that we immediately jump to rules and benevolent judges. But as it always happen benevolent judges don&rsquo;t stay benevolent for a long time and rules always sprout a bureaucracy around them.</p>
+ <p>The problem is that the <span class="_paradigm">FIAT</span> system is based on competition and domination and capital happens to be a very efficient form tool of domination. Our alternative, the <span class="_paradigm">RADICAL</span> system, is based on contribuions, instead of capital. This, we believe, will produced more of a life nourising system.</p>
+ <p>The obstacle has been to decide <em>what is a contribution</em>. We are so used to the <span class="_paradigm">FIAT</span> hierarchical model that we immediately jump to rules and benevolent judges. But as it always happen benevolent judges don&rsquo;t stay benevolent for a long time and rules always sprout a bureaucracy around them.</p>
  <p>So, what are we to do? how we not end up <span class="_quotespan">extremely perplexed.</span></p>
  <p></p>
 
