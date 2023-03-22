@@ -32,7 +32,7 @@ image:    "icon-the-radical-foundation-house.svg"
     </div>
    </li>
    <li>
-    Finally, EXPERIMENTATION, underlying all practices, holds up the house. This means that that whether an EXPERIMENTAT worked as you expected it or not, you always learn from it.
+    Finally, EXPERIMENTATION, underlying all practices, holds up the house. This means that that whether an EXPERIMENT worked as you expected it or not, you always learn from it, and knowledge holds the house up.
     <div class="_center">
      <img
       style="height:3.33in; "
