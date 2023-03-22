@@ -286,10 +286,8 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   padding:10px 10px 0 10px;
   width:80%;
 
-  margin:0 0.5em 30% 10%;
-/*
   margin:0 auto 30px auto;
-*/
+  padding:0 0.5em .5em 10%;
 }
 ._citation #_signature {
   display: block;
