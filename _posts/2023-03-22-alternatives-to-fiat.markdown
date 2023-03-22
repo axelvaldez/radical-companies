@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "TEMPLATE"
+title:    "Alternatives to <span class='_paradigm'>FIAT</span>"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-ptsd-and-trust.svg"
+image:    "icon-alternatives-to-fiat.svg"
 ---
 
 <div style="display:none;">
@@ -12,9 +12,11 @@ image:    "icon-ptsd-and-trust.svg"
 
 <div class="_citation">
  <span>It is not intelligent, it is not beautiful, it is not just, it is not virtuous &ndash; and it doesn’t deliver the goods. In short, we dislike it, and we are beginning to despise it. But when we wonder what to put in its place, we are extremely perplexed.</span>
- <span id="_signature">John Maynard Keynes.</span>
+ <span id="_signature">John Maynard Keynes.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></span>
 </div>
 
+<h1>&nbsp;</h1>
+ <p>I just saw the quote above in one of Blair Fix&rsquo;s papers entitled &ldquo;Redistributing Income Through Hierarchye&rdquo;. This shows how difficut it is to see past <span class="_paradigm">FIAT</span> system and the <span class="_paradigm">FIAT</span> hierarchy.
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
