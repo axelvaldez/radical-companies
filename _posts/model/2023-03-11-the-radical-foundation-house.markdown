@@ -66,8 +66,14 @@ image:    "icon-the-radical-foundation-house.svg"
   </ul>
  <p>Everything else is a Practice,</p>
   <ul>
-   <li>The <span class="_paradigm">RAD</span>s! mobile app</li>
-   <li>Explicit Relationships</li>
+   <li>Pratices change from company to company.</li>
+   <li>They change over time.</li>
+   <li>They are not integral to the RADICAL model.</li>
+  </ul>
+  <p>Examples of practices,</p>
+  <ul>
+   <li>The <span class="_paradigm">RAD</span>s! mobile app.</li>
+   <li>Explicit Relationships.</li>
    <li>etc.</li>
   </ul>
 
