@@ -77,7 +77,7 @@ image:    "icon-alternatives-to-fiat.svg"
    <li>Therefore, there is no <em>boss</em> giving out goodies to his favority people.</li>
    <li>People will get more or less <span class="_paradigm">RAD</span>s according their contributions. If they don&rsquo;t contribute, they don't get <span class="_paradigm">RAD</span>s, but if they contribute, they do.</li>
    <li>If people are not recognizing your contributions, either 1) they see them, but don&rsquo;t consider them valuable or 2) they don&rsquo;t know the value of what you are doing and you need to explain it to them.</li>
-   <li>Most imporantly, there is nobody around who can <span class="_quotespan">give themselves a raise</span>. The number of <span class="_paradigm">RAD</span>s one gets depends on what other co-owners recognize as contributions.</li>
+   <li>Most imporantly, there is nobody around who can give themselves a raise. The number of <span class="_paradigm">RAD</span>s one gets depends on what other co-owners recognize as contributions.</li>
   </ul>
  <p>The <span class="_paradigm">RADICAL</span> system is an alternative to the <span class="_paradigm">FIAT</span> system. If nothing else, it will serve to make sure that people are not <span class="_quotespan">extremely perplexed.</span>
 
