@@ -33,25 +33,39 @@ image:    "icon-alternatives-to-fiat.svg"
  <p>At this point, you should be thinking, <span class="_quotespan">wow, that is chaos!</span></p>
 
 <h1>Chaos!</h1>
- <p>If you are thinking that this would result in chaos, that is FIAT thinking. I am not accusing you of anything that I haven&rsquo;t done and continue to do, by the way. It is what we have learned to fear: unless there rules, there is chaos.</p>
+ <p>If you are thinking that this would result in chaos, that is FIAT thinking. I am not accusing you of anything that I haven&rsquo;t done and continue to do, by the way. It is what we have learned to fear: unless there are rules, there is chaos.</p>
  <p>I now invite you to think about it there were rules for this,</p>
   <ul>
    <li>Rules are &ldquo;broken&rdquo; all the time.</li>
-   <li>You have to remember all the rules before you can recognize something as a contribution, so you can defend them.</li>
+   <li>You have to remember all the rules before you can recognize something as a contribution, so you can defend your decisions.</li>
    <li>You have to interpret the rules to make sure you are within their bounds.</li>
+   <li>Some people are very good at it and get away with it. They are like Rules Lawyers.</li>
   </ul>
- <p>In conclusion, rules add a level of rigidity and subrefuge and absolutly no value.</p>
+ <p>Put another way, rules add rigidity and subrefuge and absolutly no value.</p>
 
 <h1>Cheating Q&A</h1>
+ <p>Before we talk about cheating, we have to explain a bit more about recognizing contributions,</p>
+  <ul>
+   <li>Recognized Contributions end up as <span class="_paradigm">RAD<span>s, and things like money are factored through it.</li>
+   <li>Everybody gets one <span class="_paradigm">RAD<span> per day.</li>
+   <li><span class="_paradigm">RAD<span>s are for giving to others, not for keeping.</li>
+   <li>Everything is transparent, so everything is out in the open to everybody. If I give <span class="_paradigm">RAD<span>s to Mike, another co-owner, everybody can see that.</li>
+  </ul>
+ <p>Having said that, we can ask questions about potential cheating,</p>
  <div class="_qna">
   <span class="_q">OK, so not quite chaos, but it is quite open to cheating, right?</span>
   <span class="_a">Well no. Since there are no rules, you can&rsquo;t cheat.</span>
  </div>
  <div class="_qna">
-  <span class="_q">But, what if people go in kahoots to give all their RADs to each other?</span>
+  <span class="_q">But, what if people go in kahoots to give all their <span class="_paradigm">RAD<span>s to each other?</span>
   <span class="_a">Yes, that can happen. But since everything is transparent, somebody is bound to notice and question it.</span>
  </div>
- 
+ <div class="_qna">
+  <span class="_q">What if co-owners give out <span class="_paradigm">RAD<span>s for silly reasons?</span>
+  <span class="_a">One option is to talk to the offender, but not as an offender. You are really curious and you want to learn why. By asking, you can learn that the &ldquo;silly&rdquo; co-owner has a really good reason for such giving. Aalternatively, the giving co-owner might end up agreeing with you that the giving was &ldquo;silly.&rdquo;</span>
+ </div>
+ <p>If other questions come up to you, ask. Listen. Be curious. If something sounds counter-intuitive, bring that up to. But, ask out of love, not as an indictement. This is really hard to do at first, but eventually you learn and it becomes a new, healthier habit.</p>
+
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
