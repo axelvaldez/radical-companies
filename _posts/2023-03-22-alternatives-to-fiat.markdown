@@ -11,7 +11,7 @@ image:    "icon-alternatives-to-fiat.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>I just saw the quote above in one of Blair Fix&rsquo;s papers entitled <span class="_quotespan">Redistributing Income Through Hierarchy</span>.</p>
+ <p>I just saw the quote above in one of Blair Fix&rsquo;s papers entitled <span class="_quotespan">Redistributing Income Through Hierarchy,</span></p>
   <div class="_citation">
    <span class="_quotespan">It is not intelligent, it is not beautiful, it is not just, it is not virtuous &ndash; and it doesn’t deliver the goods. In short, we dislike it, and we are beginning to despise it. But when we wonder what to put in its place, we are extremely perplexed.</span>
    <span id="_signature">John Maynard Keynes.</span>
