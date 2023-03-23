@@ -48,7 +48,7 @@ image:    "icon-alternatives-to-fiat.svg"
   <ul>
    <li>Recognized Contributions end up as <span class="_paradigm">RAD</span>s, and things like money are factored through it.</li>
    <li>Everybody gets one <span class="_paradigm">RAD</span> per day.</li>
-   <li><span class="_paradigm">RAD<span>s are for giving to others, not for keeping.</li>
+   <li><span class="_paradigm">RAD</span>s are for giving to others, not for keeping.</li>
    <li>Everything is transparent, so everything is out in the open to everybody. If I give <span class="_paradigm">RAD</span>s to Mike, another co-owner, everybody can see that. And ask about it. Remember that you are all co-owners.</li>
   </ul>
   <p>aaa</p>
