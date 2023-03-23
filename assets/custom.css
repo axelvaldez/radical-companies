@@ -352,8 +352,10 @@ p {
   margin-left:0;
   padding-left:0;
   margin-bottom:6px;
-  padding-bottom:6px;
   text-indent:1em;
+}
+div._citation {
+  padding-bottom:6px;
 }
 ._commentary {
   padding-left:0;
