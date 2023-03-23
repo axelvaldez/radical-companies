@@ -7,7 +7,7 @@ image:    "icon-alternatives-to-fiat.svg"
 ---
 
 <div style="display:none;">
- <p><span class="_quotespan">&hellip; when we wonder what to put in its place, we are extremely perplexed.</span></p>
+ <p><span class="_quotespan">&hellip; we are extremely perplexed.</span></p>
 </div>
 
 <h1>&nbsp;</h1>
