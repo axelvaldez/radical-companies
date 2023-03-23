@@ -79,7 +79,7 @@ image:    "icon-alternatives-to-fiat.svg"
    <li>If people are not recognizing your contributions, either 1) they see them, but don&rsquo;t consider them valuable or 2) they don&rsquo;t know the value of what you are doing and you need to explain it to them.</li>
    <li>Most imporantly, there is nobody around who can give themselves a raise. The number of <span class="_paradigm">RAD</span>s one gets depends on what other co-owners recognize as contributions.</li>
   </ul>
- <p>The <span class="_paradigm">RADICAL</span> system is an alternative to the <span class="_paradigm">FIAT</span> system. There really is noting to be <span class="_quotespan">extremely perplexed,</span> about. Stop calling it capitalism and call it <span class="_paradigm">FIAT</span> system instead, then thing get a bit easier and alternatives start to become visible.</p>
+ <p>The <span class="_paradigm">RADICAL</span> system is an alternative to the <span class="_paradigm">FIAT</span> system. There really is noting to be <span class="_quotespan">extremely perplexed,</span> about. Stop calling it capitalism and call it by its proper name, the <span class="_paradigm">FIAT</span> system, instead and alternatives start to become visible.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
