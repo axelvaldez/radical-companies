@@ -26,8 +26,8 @@ image:    "icon-alternatives-to-fiat.svg"
  <p>Who decides <em>what is a contribution</em>? That has been the obstacle forever. We are so used to the <span class="_paradigm">FIAT</span> hierarchical model that we immediately jump to rules and benevolent judges. But as it always happen benevolent judges don&rsquo;t stay benevolent forever and rules always sprout a bureaucracy around them.</p>
  <p>So, what are we to do? No wonder we are <span class="_quotespan">extremely perplexed.</span></p>
 
-<h1>The <span class="_paradigm">RADICAL</span> System</h1>
- <p>The alternative to the <span class="_paradigm">FIAT</span> system is the <span class="_paradigm">RADICAL</span> system.</p>
+<h1>Our <span class="_paradigm">RADICAL</span> System</h1>
+ <p>Our alternative to the <span class="_paradigm">FIAT</span> system is the <span class="_paradigm">RADICAL</span> system.</p>
  <p>In the <span class="_paradigm">RADICAL</span> system, ownership is distributed to all co-owners based on their contributions, not their capital or the &ldquo;human capital&rdquo; or any other nonsense. For Sam, a co-owner, her contributions are determined by all the other co-owners who know her. The same for Joe, another co-owner. In fact, the same for all co-owners, al other co-owners determine what their contributions are.</p>
  <p>The are no rules, every co-owner figures out what a contribution is. And if they think they've seen a contribution, then they recognize it. It could be somebody who reorganized the warehouse, or a particular (computer) code check-in which other co-owners perceive as valuelbe, or could be somebody&rsquo;s smile. Whatever a co-owner recognizes as a contribution, is a contribution.</p>
  <p>At this point, you should be thinking, <span class="_quotespan">wow, that is chaos!</span></p>
