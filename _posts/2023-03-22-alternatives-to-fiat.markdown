@@ -68,7 +68,7 @@ image:    "icon-alternatives-to-fiat.svg"
   <span class="_q">What if co-owners give out <span class="_paradigm">RAD</span>s for silly reasons?</span>
   <span class="_a">One option is to talk to the offender, but not as an offender. You are really curious and you want to learn why. By asking, you can learn that the &ldquo;silly&rdquo; co-owner has a really good reason for such giving. Aalternatively, the giving co-owner might end up agreeing with you that the giving was &ldquo;silly.&rdquo;</span>
  </div>
- <p>If other questions come up to you, ask. Listen. Be curious. If something sounds counter-intuitive, bring that up to. But, ask out of love, not as an indictement. This is really hard to do at first, but eventually you learn and it becomes a new, healthier habit.</p>
+ <p>If other questions come up to you, ask. Listen. Be curious. If something sounds counter-intuitive, bring that up too. But, ask out of love, not as an indictement. This is really hard to do at first, but eventually you learn and it becomes a new, healthier habit.</p>
 
 <h1>Final Notes</h1>
  <p>Please, note,</p>
