@@ -3,7 +3,7 @@ layout:   post
 title:    "Inequality and <span class='_paradigm'>FIAT<spar> Hierarchy"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-ptsd-and-trust.svg"
+image:    "icon-inequality-and-fiat-hierarchy.svg"
 ---
 
 <div style="display:none;">
