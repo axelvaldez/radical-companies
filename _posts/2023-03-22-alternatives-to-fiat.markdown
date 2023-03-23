@@ -51,24 +51,35 @@ image:    "icon-alternatives-to-fiat.svg"
    <li><span class="_paradigm">RAD</span>s are for giving to others, not for keeping.</li>
    <li>Everything is transparent, so everything is out in the open to everybody. If I give <span class="_paradigm">RAD</span>s to Mike, another co-owner, everybody can see that. And ask about it. Remember that you are all co-owners.</li>
   </ul>
-  <p>aaa</p>
  <p>Having said that, we can ask questions about potential cheating,</p>
  <div class="_qna">
   <span class="_q">OK, so not quite chaos, but it is quite open to cheating, right?</span>
   <span class="_a">Well no. Since there are no rules, you can&rsquo;t cheat.</span>
  </div>
-  <p>bbb</p>
+ <div class="_qna">
+  <span class="_q">Doens&rsquo;t this mean that people are not protected and can have money taken out of their pocket?</span>
+  <span class="_a">Maybe. If somebody cheats once, some amount of money will go to the offending co-owners that maybe would not have. But then you talk them. If the cheating continues to go on, you, and your fellow co-owners, stop giving them <span class="_paradigm">RAD<span>s.</span>
+ </div>
  <div class="_qna">
   <span class="_q">But, what if people go in kahoots to give all their <span class="_paradigm">RAD<span>s to each other?</span>
   <span class="_a">Yes, that can happen. But since everything is transparent, somebody is bound to notice and question it.</span>
  </div>
-  <p>ccc</p>
  <div class="_qna">
   <span class="_q">What if co-owners give out <span class="_paradigm">RAD<span>s for silly reasons?</span>
   <span class="_a">One option is to talk to the offender, but not as an offender. You are really curious and you want to learn why. By asking, you can learn that the &ldquo;silly&rdquo; co-owner has a really good reason for such giving. Aalternatively, the giving co-owner might end up agreeing with you that the giving was &ldquo;silly.&rdquo;</span>
  </div>
-  <p>ddd</p>
  <p>If other questions come up to you, ask. Listen. Be curious. If something sounds counter-intuitive, bring that up to. But, ask out of love, not as an indictement. This is really hard to do at first, but eventually you learn and it becomes a new, healthier habit.</p>
+
+<h1>Final Notes</h1>
+ <p>Please, note,</p>
+  <ul>
+   <li>There is not <span class="_paradigm">FIAT</span> hierarchy.</li>
+   <li>Therefore, there is no <em>boss</em> giving out goodies to his favority people.</li>
+   <li>People will get more or less <span class="_paradigm">RAD</span>s according their contributions. If they don&rsquo;t contribute, they don't get <span class="_paradigm">RAD</span>s, but if they contribute, they do.</li>
+   <li>If people are not recognizing your contributions, either 1) they see them, but don&rsquo;t consider them valuable or 2) they don&rsquo;t know the value of what you are doing and you need to explain it to them.</li>
+   <li>Most imporantly, there is nobody around who can <span class="_quotespan">give themselves a raise</span>. The number of <span class="_paradigm">RAD</span>s one gets depends on what other co-owners recognize as contributions.</li>
+  </ul>
+ <p>The <span class="_paradigm">RADICAL</span> system is an alternative to the <span class="_paradigm">FIAT</span> system. If nothing else, it will serve to make sure that people are not <span class="_quotespan">extremely perplexed.</span>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
