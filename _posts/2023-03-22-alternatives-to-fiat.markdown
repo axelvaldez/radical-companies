@@ -51,19 +51,23 @@ image:    "icon-alternatives-to-fiat.svg"
    <li><span class="_paradigm">RAD<span>s are for giving to others, not for keeping.</li>
    <li>Everything is transparent, so everything is out in the open to everybody. If I give <span class="_paradigm">RAD<span>s to Mike, another co-owner, everybody can see that.</li>
   </ul>
+  <p>aaa</p>
  <p>Having said that, we can ask questions about potential cheating,</p>
  <div class="_qna">
   <span class="_q">OK, so not quite chaos, but it is quite open to cheating, right?</span>
   <span class="_a">Well no. Since there are no rules, you can&rsquo;t cheat.</span>
  </div>
+  <p>bbb</p>
  <div class="_qna">
   <span class="_q">But, what if people go in kahoots to give all their <span class="_paradigm">RAD<span>s to each other?</span>
   <span class="_a">Yes, that can happen. But since everything is transparent, somebody is bound to notice and question it.</span>
  </div>
+  <p>ccc</p>
  <div class="_qna">
   <span class="_q">What if co-owners give out <span class="_paradigm">RAD<span>s for silly reasons?</span>
   <span class="_a">One option is to talk to the offender, but not as an offender. You are really curious and you want to learn why. By asking, you can learn that the &ldquo;silly&rdquo; co-owner has a really good reason for such giving. Aalternatively, the giving co-owner might end up agreeing with you that the giving was &ldquo;silly.&rdquo;</span>
  </div>
+  <p>ddd</p>
  <p>If other questions come up to you, ask. Listen. Be curious. If something sounds counter-intuitive, bring that up to. But, ask out of love, not as an indictement. This is really hard to do at first, but eventually you learn and it becomes a new, healthier habit.</p>
 
 <h1 class="_section">ENDNOTES</h1>
