@@ -354,7 +354,7 @@ p {
   margin-bottom:6px;
   text-indent:1em;
 }
-div.col-10 {
+div.col-10 p {
   text-indent:0;
 }
 div._citation {
