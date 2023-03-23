@@ -43,8 +43,8 @@ image:    "icon-alternatives-to-fiat.svg"
   </ul>
  <p>Put another way, rules add rigidity and subrefuge and absolutly no value.</p>
 
-<h1>Cheating Q&A</h1>
- <p>Before we talk about cheating, we have to explain a bit more about recognizing contributions,</p>
+<h1>Q&A</h1>
+ <p>Before we get into the Q&A, we have to explain a bit more about recognizing contributions,</p>
   <ul>
    <li>Recognized Contributions end up as <span class="_paradigm">RAD</span>s.</li>
    <li>Things like money are factored through one <span class="_paradigm">RAD</span>RAD</span>s, so they help distribute tangible things like money.</li>
