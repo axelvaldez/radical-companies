@@ -21,10 +21,12 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-    John Maynard Keynes.
-    <em>National self-sufficiency.</em>
-    Studies: An Irish Quarterly Review, 22(86), 177–193.
-    1933.
+    Blari Fix.
+    <em>Redistributing Income Through Hierarchy</em>.
+    WORKING PAPERS ON CAPITAL AS POWER, No, 2021/04.
+    2021.
+    &lt;<a href="https://radicals.world/uUuBSg" target="_blank">https://radicals.world/uUuBSg</a>&gt;
+    (alt, &lt;<a href="https://radicals.world/jg8Jsi9" target="_blank">https://radicals.world/jg8Jsi9</a>&gt;)
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
