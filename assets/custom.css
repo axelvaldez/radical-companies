@@ -354,6 +354,10 @@ p {
   margin-bottom:6px;
   text-indent:1em;
 }
+div[display=none] {
+  padding-left:0;
+}
+ <p>
 div._citation {
   padding-bottom:6px;
 }
