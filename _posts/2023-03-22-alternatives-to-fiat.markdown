@@ -46,10 +46,12 @@ image:    "icon-alternatives-to-fiat.svg"
 <h1>Cheating Q&A</h1>
  <p>Before we talk about cheating, we have to explain a bit more about recognizing contributions,</p>
   <ul>
-   <li>Recognized Contributions end up as <span class="_paradigm">RAD</span>s, and things like money are factored through it.</li>
+   <li>Recognized Contributions end up as <span class="_paradigm">RAD</span>s.</li>
+   <li>Things like money are factored through one <span class="_paradigm">RAD</span>RAD</span>s, so they help distribute tangible things like money.</li>
    <li>Everybody gets one <span class="_paradigm">RAD</span> per day.</li>
-   <li><span class="_paradigm">RAD</span>s are for giving to others, not for keeping.</li>
-   <li>Everything is transparent, so everything is out in the open to everybody. If I give <span class="_paradigm">RAD</span>s to Mike, another co-owner, everybody can see that. And ask about it. Remember that you are all co-owners.</li>
+   <li><span class="_paradigm">RAD</span>s don&rsquo;t keep them, the give them to other co-owners as they recognize their contributions.</li>
+   <li>Everything is transparent, so everything is out in the open to everybody. If I give <span class="_paradigm">RAD</span>s to Mike, a co-owner, everybody can see that. And ask about it.</li>
+   <li>You, and everybody else in a <span class="_paradigm">RADICAL</span> company, are co-owners.</li>
   </ul>
  <p>Having said that, we can ask questions about potential cheating,</p>
  <div class="_qna">
