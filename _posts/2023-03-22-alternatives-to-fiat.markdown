@@ -58,21 +58,20 @@ image:    "icon-alternatives-to-fiat.svg"
  </div>
  <div class="_qna">
   <span class="_q">Doens&rsquo;t this mean that people are not protected and can have money taken out of their pocket?</span>
-  <span class="_a">Maybe. If somebody cheats once, some amount of money will go to the offending co-owners that maybe would not have. But then you talk them. If the cheating continues to go on, you, and your fellow co-owners, stop giving them <span class="_paradigm">RAD<span>s.</span>
+  <span class="_a">Maybe. If somebody cheats once, some amount of money will go to the offending co-owners that maybe would not have. But then you talk them. If the cheating continues to go on, you, and your fellow co-owners, stop giving them <span class="_paradigm">RAD</span>s.</span>
  </div>
  <div class="_qna">
-  <span class="_q">But, what if people go in kahoots to give all their <span class="_paradigm">RAD<span>s to each other?</span>
+  <span class="_q">But, what if people go in kahoots to give all their <span class="_paradigm">RAD</span>s to each other?</span>
   <span class="_a">Yes, that can happen. But since everything is transparent, somebody is bound to notice and question it.</span>
  </div>
  <div class="_qna">
-  <span class="_q">What if co-owners give out <span class="_paradigm">RAD<span>s for silly reasons?</span>
+  <span class="_q">What if co-owners give out <span class="_paradigm">RAD</span>s for silly reasons?</span>
   <span class="_a">One option is to talk to the offender, but not as an offender. You are really curious and you want to learn why. By asking, you can learn that the &ldquo;silly&rdquo; co-owner has a really good reason for such giving. Aalternatively, the giving co-owner might end up agreeing with you that the giving was &ldquo;silly.&rdquo;</span>
  </div>
  <p>If other questions come up to you, ask. Listen. Be curious. If something sounds counter-intuitive, bring that up to. But, ask out of love, not as an indictement. This is really hard to do at first, but eventually you learn and it becomes a new, healthier habit.</p>
 
 <h1>Final Notes</h1>
  <p>Please, note,</p>
- <p>xxx</p>
   <ul>
    <li>There is not <span class="_paradigm">FIAT</span> hierarchy.</li>
    <li>Therefore, there is no <em>boss</em> giving out goodies to his favority people.</li>
