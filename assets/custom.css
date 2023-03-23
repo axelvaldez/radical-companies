@@ -354,7 +354,7 @@ p {
   margin-bottom:6px;
   text-indent:1em;
 }
-div.col-10 p {
+div.col-10 p, p._list-item {
   text-indent:0;
 }
 div._citation {

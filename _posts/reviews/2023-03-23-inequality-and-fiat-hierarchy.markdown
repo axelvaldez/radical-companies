@@ -21,8 +21,8 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Blari Fix.
-    <em>Redistributing Income Through Hierarchy</em>.
+    Blair Fix.
+    <em>Redistributing Income Through Hierarchy</em>,
     WORKING PAPERS ON CAPITAL AS POWER, No, 2021/04.
     2021.
     &lt;<a href="https://radicals.world/uUuBSg" target="_blank">https://radicals.world/uUuBSg</a>&gt;
