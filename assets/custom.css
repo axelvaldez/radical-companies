@@ -451,3 +451,17 @@ div table._foundation {
 ._box:hover {
   opacity:1.9;
 }
+
+/* Q&A BEGIN */
+._qna {
+
+}
+._q {
+  font-weight:bolder;
+  padding-top:0.25em;
+}
+._a {
+  font-style:italic;
+  padding-bottom:0.5em;
+}
+/* Q&A END*/
