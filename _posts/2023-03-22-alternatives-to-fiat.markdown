@@ -47,7 +47,8 @@ image:    "icon-alternatives-to-fiat.svg"
  <p>Before we get into the Q&A, we have to explain a bit more about recognizing contributions,</p>
   <ul>
    <li>Recognized Contributions end up as <span class="_paradigm">RAD</span>s.</li>
-   <li>Things like money are factored through one <span class="_paradigm">RAD</span>RAD</span>s, so they help distribute tangible things like money.</li>
+   <li>Things like money are factored through <span class="_paradigm">RAD</span>s.</li>
+   <li><span class="_paradigm">RAD</span>s help distribute tangible things like money.</li>
    <li>Everybody gets one <span class="_paradigm">RAD</span> per day.</li>
    <li><span class="_paradigm">RAD</span>s don&rsquo;t keep them, the give them to other co-owners as they recognize their contributions.</li>
    <li>Everything is transparent, so everything is out in the open to everybody. If I give <span class="_paradigm">RAD</span>s to Mike, a co-owner, everybody can see that. And ask about it.</li>
