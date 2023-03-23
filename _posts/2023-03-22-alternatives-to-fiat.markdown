@@ -46,10 +46,10 @@ image:    "icon-alternatives-to-fiat.svg"
 <h1>Cheating Q&A</h1>
  <p>Before we talk about cheating, we have to explain a bit more about recognizing contributions,</p>
   <ul>
-   <li>Recognized Contributions end up as <span class="_paradigm">RAD<span>s, and things like money are factored through it.</li>
-   <li>Everybody gets one <span class="_paradigm">RAD<span> per day.</li>
+   <li>Recognized Contributions end up as <span class="_paradigm">RAD</span>s, and things like money are factored through it.</li>
+   <li>Everybody gets one <span class="_paradigm">RAD</span> per day.</li>
    <li><span class="_paradigm">RAD<span>s are for giving to others, not for keeping.</li>
-   <li>Everything is transparent, so everything is out in the open to everybody. If I give <span class="_paradigm">RAD<span>s to Mike, another co-owner, everybody can see that. And ask about it. Remember that you are all co-owners.</li>
+   <li>Everything is transparent, so everything is out in the open to everybody. If I give <span class="_paradigm">RAD<s/pan>s to Mike, another co-owner, everybody can see that. And ask about it. Remember that you are all co-owners.</li>
   </ul>
   <p>aaa</p>
  <p>Having said that, we can ask questions about potential cheating,</p>
