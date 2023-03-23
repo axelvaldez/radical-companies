@@ -34,7 +34,7 @@ image:    "icon-alternatives-to-fiat.svg"
 
 <h1>Chaos!</h1>
  <p>If you are thinking that this would result in chaos, that is FIAT thinking. I am not accusing you of anything that I haven&rsquo;t done and continue to do, by the way. It is what we have learned to fear: unless there are rules, there is chaos.</p>
- <p>I now invite you to think about it there were rules for this,</p>
+ <p>I now invite you to think about it rules,</p>
   <ul>
    <li>Rules are &ldquo;broken&rdquo; all the time.</li>
    <li>You have to remember all the rules before you can recognize something as a contribution, so you can defend your decisions.</li>
