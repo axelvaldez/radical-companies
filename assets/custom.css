@@ -354,7 +354,7 @@ p {
   margin-bottom:6px;
   text-indent:1em;
 }
-div[display=none] {
+div.col-10 {
   padding-left:0;
 }
  <p>
