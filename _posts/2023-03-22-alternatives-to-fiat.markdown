@@ -72,6 +72,7 @@ image:    "icon-alternatives-to-fiat.svg"
 
 <h1>Final Notes</h1>
  <p>Please, note,</p>
+ <p>xxx</p>
   <ul>
    <li>There is not <span class="_paradigm">FIAT</span> hierarchy.</li>
    <li>Therefore, there is no <em>boss</em> giving out goodies to his favority people.</li>
