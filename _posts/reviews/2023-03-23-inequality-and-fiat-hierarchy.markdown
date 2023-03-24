@@ -15,7 +15,17 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
   <span class="_quotespan">Growing inequality is caused by a redistribution of income within hierarchies.</span>
   <span id="_signature">Blair Fix, </em>Redistributing Income Through Hierarchy</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></span>
  </div>
- <p>For more, read the paper in the ENDNOTES.</p>
+
+<h1>Na&iuml;ve Summary</h1>
+ <p>First Mr Fix introduces two equation that describe income in a hierarchy. Later he comes to the conclusion that </p>
+ <div class="_citation">
+  <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span>
+ </div>
+ <p>The he introduces <span class="_quotespan">hierarchical power</span>,</p>
+ <div class="_citation _center">
+  <span class="_quotespan">hierarchical power = 1 + number of subordinates</span>
+ </div>
+ <span class="_quotespan">&hellip; the study of income distribution became dominated by human capital theory , which focused on personal traits and neglected &lsquo;structural&rsquo; explanations of income.</span>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
@@ -26,7 +36,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
     WORKING PAPERS ON CAPITAL AS POWER, No, 2021/04.
     2021.
     &lt;<a href="https://radicals.world/uUuBSg" target="_blank">https://radicals.world/uUuBSg</a>&gt;
-    (alt, &lt;<a href="https://radicals.world/jg8Jsi9" target="_blank">https://radicals.world/jg8Jsi9</a>&gt;)
+    (alt, &lt;<a href="https://radicals.world/FlpevH" target="_blank">https://radicals.world/FlpevH</a>&gt;)
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
