@@ -17,7 +17,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
  </div>
 
 <h1>Na&iuml;ve Summary</h1>
- <p>Blair Fix comes to the conclusion that, <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span></p>
+ <p>The author, Blair Fix, comes to the conclusion that, <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span></p>
 
  <h1>Hierarchical Power</h1>
  <p>He introduces <span class="_quotespan">hierarchical power</span> as <span class="_quotespan">1 + number of subordinates</span>.</p>
