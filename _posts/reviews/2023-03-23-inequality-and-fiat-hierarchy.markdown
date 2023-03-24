@@ -42,7 +42,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
   <p class="_quotespan">growing inequality is caused by a redistribution of income within hierarchies.</span>
  </div>
  <div class="_citation">
-  <p class="_quotespan">Here D is the &lsquo;degree of hierarchical despotism&rsquo; &ndash; a free parameter that determines how rapidly income grows with hierarchical power.</span>
+  <p class="_quotespan">Here D is the ‘degree of hierarchical despotism’ – a free parameter that determines how rapidly income grows with hierarchical power.</span>
  </div>
  <div class="_center">
   <img
