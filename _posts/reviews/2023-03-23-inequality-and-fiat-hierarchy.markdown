@@ -30,7 +30,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
    <li>This increasing ‘hierarchical despotism’ among US CEOs correlates with rising US inequality (Fig. 10), suggesting that US hierarchies have become more despotic.</li>
   </ol>
  </div>
- <p>And this is happening throughout the world, not just in the  US.</p>
+ <p>The same is true throughout the world, not just in the  US.</p>
 
 <h1>Despotism</h1>
  <div class="_citation">
