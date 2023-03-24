@@ -30,7 +30,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
    <li>This increasing ‘hierarchical despotism’ among US CEOs correlates with rising US inequality (Fig. 10), suggesting that US hierarchies have become more despotic.</li>
   </ol>
  </div>
- <p>And it not limited to the US.</p>
+ <p>And this is happening throughout the world, not just in the  US.</p>
 
 <h1>Despotism</h1>
  <div class="_citation">
@@ -39,7 +39,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
    relative income &#x221D; (hierarchical power) <span>caca<sup>D</sup></span>
   </div>
  </div>
- <p><span class="_quotespan">The evidence,</span> he says, <span class="_quotespan">strongly hints that hierarchy lies at the root of US income redistribution.</span> And it isn&rsquo;t only in the US: despotism is on the rish throughout the world.</p>
+ <p><span class="_quotespan">The evidence,</span> he says, <span class="_quotespan">strongly hints that hierarchy lies at the root of US income redistribution.</span></p>
  <div class="_citation">
   <span class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</span>
   <span class="_quotespan">growing inequality is caused by a redistribution of income within hierarchies.</span>
