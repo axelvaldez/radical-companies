@@ -13,7 +13,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
 <h1>&nbsp;</h1>
  <div class="_citation">
   <span class="_quotespan">Growing inequality is caused by a redistribution of income within hierarchies.</span>
-  <span id="_signature">Blair Fix, </em>Redistributing Income Through Hierarchy</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></span>
+  <span id="_signature">Blair Fix, <em>Redistributing Income Through Hierarchy</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></span>
  </div>
 
 <h1>Na&iuml;ve Summary</h1>
