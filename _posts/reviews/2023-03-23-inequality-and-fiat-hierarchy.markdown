@@ -22,10 +22,12 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
   <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span>
  </div>
  <p>The he introduces <span class="_quotespan">hierarchical power</span>,</p>
- <div class="_citation _center">
+ <div class="_center">
   hierarchical power = 1 + number of subordinates
  </div>
- <span class="_quotespan">&hellip; the study of income distribution became dominated by human capital theory , which focused on personal traits and neglected &lsquo;structural&rsquo; explanations of income.</span>
+ <div class="_citation _center">
+  <span class="_quotespan">&hellip; the study of income distribution became dominated by human capital theory , which focused on personal traits and neglected &lsquo;structural&rsquo; explanations of income.</span>
+ </div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
