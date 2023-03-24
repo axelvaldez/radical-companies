@@ -34,7 +34,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
  <p>And it wasn&rsquo;t only in the US: this is happening throughout the world, with despotism on the rise.</p>
  <div class="_citation">
   <p class="_quotespan">The evidence strongly hints that hierarchy lies at the root of US income redistribution.</p>
-  <p class="_quotespan">The reason top incomes follow a uniform pattern, I have argued, is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</p>
+  <p class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</p>
  </div>
 
 <h1 class="_section">ENDNOTES</h1>
