@@ -20,10 +20,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
  <p>Blair Fix comes to the conclusion that, <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span></p>
 
  <h1>Hierarchical Power</h1>
- <p>He introduces <span class="_quotespan">hierarchical power</span>,</p>
- <div class="_center">
-  hierarchical power = 1 + number of subordinates
- </div>
+ <p>He introduces <span class="_quotespan">hierarchical power</span> as <span class="_quotespan">1 + number of subordinates</span>.</p>
  <div class="_citation">
   <span class="_quotespan">&hellip; the study of income distribution became dominated by human capital theory , which focused on personal traits and neglected &lsquo;structural&rsquo; explanations of income.</span>
  </div>
