@@ -46,6 +46,9 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
   <span class="_quotespan">growing inequality is caused by a redistribution of income within hierarchies.</span>
   <span class="_quotespan">Here D is the ‘degree of hierarchical despotism’ – a free parameter that determines how rapidly income grows with hierarchical power.</span>
  </div>
+ <div class="_citation">
+  <span class="_quotespan">I use the word ‘despotic’ in both a general sense (as in the abuse of power) and in a more technical sense, as follows. A key feature of hierarchies is that they concentrate power at the top — a feature that inevitably creates problems. Yes, rulers can use their power to benefit the group. But they can also use their power to enrich themselves. The more they do so, the more ‘despotic’ the hierarchy.</span>
+ </div>
  <div class="_center">
   <img
    src="/assets/img/pic-inequality-and-fiat-hierarchy-1.svg"
