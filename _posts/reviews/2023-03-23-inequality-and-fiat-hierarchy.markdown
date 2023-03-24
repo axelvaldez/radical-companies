@@ -48,7 +48,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
  </div>
  <div class="_center">
   <img
-   src="/assets/img/pic-inequality-and-fiat-hierarchy.svg"
+   src="/assets/img/pic-inequality-and-fiat-hierarchy-1.svg"
    width="70%"
    alt="">
  </div>
