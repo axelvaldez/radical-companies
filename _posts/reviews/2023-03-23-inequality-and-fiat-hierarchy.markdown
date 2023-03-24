@@ -52,6 +52,12 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
    width="70%"
    alt="">
  </div>
+ <div class="_center">
+  <img
+   src="/assets/img/pic-inequality-and-fiat-hierarchy-2.svg"
+   width="70%"
+   alt="">
+ </div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
