@@ -17,8 +17,10 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
  </div>
 
 <h1>Na&iuml;ve Summary</h1>
- <p>First Mr Fix introduces two equation that describe income in a hierarchy. Later he comes to the conclusion that, <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span></p>
- <p>The he introduces <span class="_quotespan">hierarchical power</span>,</p>
+ <p>Blair Fix comes to the conclusion that, <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span></p>
+
+ <h1>Hierarchical Power</h1>
+ <p>He introduces <span class="_quotespan">hierarchical power</span>,</p>
  <div class="_center">
   hierarchical power = 1 + number of subordinates
  </div>
