@@ -21,7 +21,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
  <p>Unfortumately, <span class="_quotespan">&hellip; the study of income distribution became dominated by human capital theory , which focused on personal traits and neglected &lsquo;structural&rsquo; explanations of income.</span>
 
  <h1>Hierarchical Power</h1>
- <p>He introduces <span class="_quotespan">hierarchical power</span> as <span class="_quotespan">1 + number of subordinates</span>.</p>
+ <p>He defines <span class="_quotespan">hierarchical power</span> as <span class="_quotespan">1 + number of subordinates</span>.</p>
  <div class="_citation">
   <span class="_quotespan">&hellip;The rich get richer in a highly uniform way,</span>
   <span class="_quotespan">To summarize the evidence thus far, we know the following,</span>
