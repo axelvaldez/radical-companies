@@ -20,9 +20,8 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
  <p>The author, Blair Fix, comes to the conclusion that, <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span></p>
  <p>Unfortunately, it didn&rsquo;t take long before <span class="_quotespan">&hellip; the study of income distribution became dominated by human capital theory , which focused on personal traits and neglected &lsquo;structural&rsquo; explanations of income.</span>
 
- <h1>Hierarchical Power</h1>
+<h1>Hierarchical Power</h1>
  <div class="_citation">
-  &hellip; the rich get richer in a highly uniform way,
   <ol>
    <li>The United States has grown more unequal over the last 4 decades</li>
    <li>This growing inequality occurred via a ‘fattening’ of the income distribution tail</li>
