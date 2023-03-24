@@ -39,12 +39,14 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
     <span>relative income <span style="font-size:larger; ">&#x221D;</span> hierarchical power<sup>D</sup></span>
    </div>
   </div>
-  <div class="_center">
-   <img
-    src="/assets/img/pic-inequality-and-fiat-hierarchy-2.svg"
-    width="70%"
-    alt="">
-  </div>
+  <p>Where <em>D</em> represents hierarchical power as a measure of the &ldquo;degree of hierarchical despotism.&rdquo; The word &ldquo;despotigm&rdquo; is used in <span class="_quotespan">&hellip; a general sense (as in the abuse of power) and in a more technical sense, as follows.</p>
+  <p>In a graphical way,</p>
+   <div class="_center">
+    <img
+     src="/assets/img/pic-inequality-and-fiat-hierarchy-2.svg"
+     width="70%"
+     alt="">
+   </div>
  <p>Where <em>D</em> represents hierarchical power as a measure of the &ldquo;degree of hierarchical despotism.&rdquo; The word &ldquo;despotigm&rdquo; is used in <span class="_quotespan">&hellip; a general sense (as in the abuse of power) and in a more technical sense, as follows.</p>
  <p>A key feature of hierarchies is that they concentrate power at the top &ndash; a feature that inevitably creates problems. Yes, rulers can use their power to benefit the group. But they can also use their power to enrich themselves. The more they do so, the more &lsquo;despotic&rsquo; the hierarchy.</span></p>
   <div class="_citation">
