@@ -36,7 +36,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
  <div class="_citation">
   <span class="_quotespan">Importantly, despotism is not just a game for rulers. It is a game played by everyone in the hierarchy . The result, I propose, is that the more despotic the hierarchy becomes, the more rapidly income will increase with hierarchical power. It makes sense, then, to use the scaling of income with hierarchical power, D, as a measure of the ‘d degree of hierarchical despotism.’ The greater the value of D, the more despotic the hierarchy.</span>
   <div class="_center">
-   relative income &#x221D; (hierarchical power) <span>caca<sup>D</sup></span>
+   relative income &#x221D; (hierarchical power) <span><sup>D</sup></span>
   </div>
  </div>
  <p><span class="_quotespan">The evidence,</span> he says, <span class="_quotespan">strongly hints that hierarchy lies at the root of US income redistribution.</span></p>
