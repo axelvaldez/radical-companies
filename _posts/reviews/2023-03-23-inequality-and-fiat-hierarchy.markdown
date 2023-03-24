@@ -33,34 +33,31 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
  <p>The same is true throughout the world, not just in the  US.</p>
 
 <h1>Despotism</h1>
- <div class="_citation">
-  <span class="_quotespan">Importantly, despotism is not just a game for rulers. It is a game played by everyone in the hierarchy . The result, I propose, is that the more despotic the hierarchy becomes, the more rapidly income will increase with hierarchical power. It makes sense, then, to use the scaling of income with hierarchical power, D, as a measure of the ‘d degree of hierarchical despotism.’ The greater the value of D, the more despotic the hierarchy.</span>
-  <div class="_center">
-   <span>relative income &#x221D; hierarchical power<sup>D</sup></span>
+  <div class="_citation">
+   <span class="_quotespan">Importantly, despotism is not just a game for rulers. It is a game played by everyone in the hierarchy . The result, I propose, is that the more despotic the hierarchy becomes, the more rapidly income will increase with hierarchical power. It makes sense, then, to use the scaling of income with hierarchical power, D, as a measure of the ‘d degree of hierarchical despotism.’ The greater the value of D, the more despotic the hierarchy.</span>
+   <div class="_center">
+    <span>relative income &#x221D; hierarchical power<sup>D</sup></span>
+   </div>
   </div>
- </div>
- <p>Where <em>D</em> represents hierarchical power as a measure of the &ldquo;degree of hierarchical despotism.&rdquo;</p>
+ <p>Where <em>D</em> represents hierarchical power as a measure of the &ldquo;degree of hierarchical despotism.&rdquo; The word &ldquo;despotigm&rdquo; is used in <span class="_quotespan">&hellip; a general sense (as in the abuse of power) and in a more technical sense, as follows. A key feature of hierarchies is that they concentrate power at the top &ndash; a feature that inevitably creates problems. Yes, rulers can use their power to benefit the group. But they can also use their power to enrich themselves. The more they do so, the more &lsquo;despotic&rsquo; the hierarchy.</span></p>
  <p><span class="_quotespan">The evidence,</span> he says, <span class="_quotespan">strongly hints that hierarchy lies at the root of US income redistribution.</span></p>
- <div class="_citation">
-  <span class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</span>
-  <span class="_quotespan">growing inequality is caused by a redistribution of income within hierarchies.</span>
-  <span class="_quotespan">Here D is the ‘degree of hierarchical despotism’ – a free parameter that determines how rapidly income grows with hierarchical power.</span>
- </div>
- <div class="_citation">
-  <span class="_quotespan">I use the word ‘despotic’ in both a general sense (as in the abuse of power) and in a more technical sense, as follows. A key feature of hierarchies is that they concentrate power at the top — a feature that inevitably creates problems. Yes, rulers can use their power to benefit the group. But they can also use their power to enrich themselves. The more they do so, the more ‘despotic’ the hierarchy.</span>
- </div>
- <div class="_center">
-  <img
-   src="/assets/img/pic-inequality-and-fiat-hierarchy-1.svg"
-   width="70%"
-   alt="">
- </div>
- <div class="_center">
-  <img
-   src="/assets/img/pic-inequality-and-fiat-hierarchy-2.svg"
-   width="70%"
-   alt="">
- </div>
+  <div class="_citation">
+   <span class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</span>
+   <span class="_quotespan">growing inequality is caused by a redistribution of income within hierarchies.</span>
+   <span class="_quotespan">Here D is the ‘degree of hierarchical despotism’ – a free parameter that determines how rapidly income grows with hierarchical power.</span>
+  </div>
+  <div class="_center">
+   <img
+    src="/assets/img/pic-inequality-and-fiat-hierarchy-1.svg"
+    width="70%"
+    alt="">
+  </div>
+  <div class="_center">
+   <img
+    src="/assets/img/pic-inequality-and-fiat-hierarchy-2.svg"
+    width="70%"
+    alt="">
+  </div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
