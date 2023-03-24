@@ -38,8 +38,8 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
   <div class="_center">
    relative income &#x221D; (hierarchical power) <span><sup>D</sup></span>
   </div>
-  <p>Where <em>D</em> represents hierarchical power as a measure of the ‘degree of hierarchical despotism.</p>
  </div>
+ <p>Where <em>D</em> represents hierarchical power as a measure of the &ldquo;degree of hierarchical despotism.&rdquo;</p>
  <p><span class="_quotespan">The evidence,</span> he says, <span class="_quotespan">strongly hints that hierarchy lies at the root of US income redistribution.</span></p>
  <div class="_citation">
   <span class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</span>
