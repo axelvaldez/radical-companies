@@ -21,10 +21,8 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
  <p>Unfortunately, it didn&rsquo;t take long before <span class="_quotespan">&hellip; the study of income distribution became dominated by human capital theory , which focused on personal traits and neglected &lsquo;structural&rsquo; explanations of income.</span>
 
  <h1>Hierarchical Power</h1>
- <p>He defines <span class="_quotespan">hierarchical power</span> as <span class="_quotespan">1 + number of subordinates</span>.</p>
  <div class="_citation">
-  <span class="_quotespan">&hellip;The rich get richer in a highly uniform way,</span>
-  <span class="_quotespan">To summarize the evidence thus far, we know the following,</span>
+  &hellip; the rich get richer in a highly uniform way,
   <ol>
    <li>The United States has grown more unequal over the last 4 decades</li>
    <li>This growing inequality occurred via a ‘fattening’ of the income distribution tail</li>
@@ -33,9 +31,11 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
    <li>This increasing ‘hierarchical despotism’ among US CEOs correlates with rising US inequality (Fig. 10), suggesting that US hierarchies have become more despotic.</li>
   </ol>
  </div>
- <p>He then goes to demostrates that it is not only the US, but this is happening in the richest countries of the world.</p>
- <span class="_quotespan">The evidence strongly hints that hierarchy lies at the root of US income redistribution.</span>
- <span class="_quotespan">The reason top incomes follow a uniform pattern, I have argued, is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</spane>
+ <p>And it wasn&rsquo;t only in the US: this is happening throughout the world, with despotism on the rise.</p>
+ <div class="_citation">
+  <span class="_quotespan">The evidence strongly hints that hierarchy lies at the root of US income redistribution.</span>
+  <span class="_quotespan">The reason top incomes follow a uniform pattern, I have argued, is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</spane>
+ </div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
