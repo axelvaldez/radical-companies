@@ -38,6 +38,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
   <div class="_center">
    relative income &#x221D; (hierarchical power) <span><sup>D</sup></span>
   </div>
+  <p>Where <em>D</em> represents hierarchical power as a measure of the ‘degree of hierarchical despotism.</p>
  </div>
  <p><span class="_quotespan">The evidence,</span> he says, <span class="_quotespan">strongly hints that hierarchy lies at the root of US income redistribution.</span></p>
  <div class="_citation">
