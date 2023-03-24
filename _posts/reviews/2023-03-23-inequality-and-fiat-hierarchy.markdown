@@ -30,14 +30,14 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
  <div class="_citation">
   <span class="_quotespan">&hellip;The rich get richer in a highly uniform way,</span>
   <span class="_quotespan">To summarize the evidence thus far, we know the following,</span>
+  <ol>
+   <li>The United States has grown more unequal over the last 4 decades</li>
+   <li>This growing inequality occurred via a ‘fattening’ of the income distribution tail</li>
+   <li>Growing inequality is associated with a dramatic increase in US CEO pay</li>
+   <li>Like the redistribution of top incomes, the pay increases of US CEOs has an underlying uniformity: the rate at which income scales with hierarchical power seems to have increased</li>
+   <li>This increasing ‘hierarchical despotism’ among US CEOs correlates with rising US inequality (Fig. 10), suggesting that US hierarchies have become more despotic.</li>
+  </ol>
  </div>
- <ol>
-  <li>The United States has grown more unequal over the last 4 decades</li>
-  <li>This growing inequality occurred via a ‘fattening’ of the income distribution tail</li>
-  <li>Growing inequality is associated with a dramatic increase in US CEO pay</li>
-  <li>Like the redistribution of top incomes, the pay increases of US CEOs has an underlying uniformity: the rate at which income scales with hierarchical power seems to have increased</li>
-  <li>This increasing ‘hierarchical despotism’ among US CEOs correlates with rising US inequality (Fig. 10), suggesting that US hierarchies have become more despotic.</li>
- </ol>
  <span class="_quotespan">The evidence strongly hints that hierarchy lies at the root of US income redistribution.</span>
  <span class="_quotespan">The reason top incomes follow a uniform pattern, I have argued, is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</spane>
 
