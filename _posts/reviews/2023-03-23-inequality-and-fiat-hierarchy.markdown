@@ -34,13 +34,13 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
 
 <h1>Despotism</h1>
   <div class="_citation">
-   <span class="_quotespan">Importantly, despotism is not just a game for rulers. It is a game played by everyone in the hierarchy . The result, I propose, is that the more despotic the hierarchy becomes, the more rapidly income will increase with hierarchical power. It makes sense, then, to use the scaling of income with hierarchical power, D, as a measure of the ‘d degree of hierarchical despotism.’ The greater the value of D, the more despotic the hierarchy.</span>
+   <span class="_quotespan">Importantly, despotism is not just a game for rulers. It is a game played by everyone in the hierarchy . The result, I propose, is that the more despotic the hierarchy becomes, the more rapidly income will increase with hierarchical power. It makes sense, then, to use the scaling of income with hierarchical power, D, as a measure of the &lsquo;degree of hierarchical despotism.&rsquo;</span>
+  <p><span class="_quotespan">The greater the value of <em>D</em>,</span> he says, <span class="_quotespan">the more despotic the hierarchy</span>.</p>
    <div class="_center">
     <span>relative income <span style="font-size:larger; ">&#x221D;</span> hierarchical power<sup>D</sup></span>
    </div>
   </div>
-  <p>Where <em>D</em> represents hierarchical power as a measure of the &ldquo;degree of hierarchical despotism.&rdquo; The word &ldquo;despotigm&rdquo; is used in <span class="_quotespan">&hellip; a general sense (as in the abuse of power) and in a more technical sense, as follows.</p>
-  <p>In a graphical way,</p>
+  <p><em>D</em> represents hierarchical power as a measure of the &ldquo;degree of hierarchical despotism.&rdquo; The word &ldquo;despotigm&rdquo; is used in <span class="_quotespan">&hellip; a general sense (as in the abuse of power) and in a more technical sense, &hellip;</p>
    <div class="_center">
     <img
      src="/assets/img/pic-inequality-and-fiat-hierarchy-2.svg"
