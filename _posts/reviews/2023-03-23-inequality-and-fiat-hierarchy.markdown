@@ -48,7 +48,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
      width="70%"
      alt="">
    </div>
- <p>A key feature of hierarchies is that they concentrate power at the top &ndash; a feature that inevitably creates problems. Yes, rulers can use their power to benefit the group. But they can also use their power to enrich themselves. The more they do so, the more &lsquo;despotic&rsquo; the hierarchy.</span></p>
+ <p>A key feature of hierarchies is that they concentrate power at the top &ndash; a feature that inevitably creates problems. Yes, rulers can use their power to benefit the group. But they can also use their power to enrich themselves. The more they do so, the more &lsquo;despotic&rsquo; the hierarchy.</p>
   <div class="_citation">
    <span class="_quotespan">Importantly, despotism is not just a game for rulers. It is a game played by everyone in the hierarchy.</span>
   </div>
