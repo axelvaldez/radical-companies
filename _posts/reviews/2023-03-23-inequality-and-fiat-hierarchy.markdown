@@ -64,7 +64,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
    <p class="_list-item">
     Blair Fix.
     <em>Redistributing Income Through Hierarchy</em>,
-    WORKING PAPERS ON CAPITAL AS POWER, No, 2021/04.
+    WORKING PAPERS ON CAPITAL AS POWER, No. 2021/04.
     2021.
     &lt;<a href="https://radicals.world/uUuBSg" target="_blank">https://radicals.world/uUuBSg</a>&gt;
     (alt, &lt;<a href="https://radicals.world/FlpevH" target="_blank">https://radicals.world/FlpevH</a>&gt;)
