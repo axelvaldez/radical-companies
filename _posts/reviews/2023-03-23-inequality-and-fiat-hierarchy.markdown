@@ -57,7 +57,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
   <div class="_citation">
    <span class="_quotespan">A key feature of hierarchies is that they concentrate power at the top</span> &hellip; <span class="_quotespan">Yes, rulers can use their power to benefit the group. But they can also use their power to enrich themselves.</span> Therefore, <span class="_quotespan">the more they do so, the more &lsquo;despotic&rsquo; the hierarchy</span>.</span>
   </div>
-  <p>He shows that, <span class="_quotespan">hierarchy lies at the root of US income redistribution,</span> &hellip; <span class="_quotespan">growing inequality is caused by a redistribution of income within hierarchies.</span></p>
+  <p>He shows that, <span class="_quotespan">growing inequality is caused by a redistribution of income within hierarchies.</span></p>
   <div class="_citation">
    <span class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</span>
   </div>
