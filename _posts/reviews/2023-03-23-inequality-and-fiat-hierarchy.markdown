@@ -40,8 +40,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
     <span>relative income <span style="font-size:larger; ">&#x221D;</span> hierarchical power<sup>D</sup></span>
    </div>
   </div>
-  <p><em>D</em> represents hierarchical power as a measure of the &ldquo;degree of hierarchical despotism.&rdquo; The word &ldquo;despotism&rdquo; is used in <span class="_quotespan">&hellip; a general sense (as in the abuse of power) and in a more technical sense, &hellip;</p>
-  A key feature of hierarchies is that they concentrate power at the top — a feature that inevitably creates problems. Yes, rulers can use their power to benefit the group. But they can also use their power to enrich themselves. The more they do so, the more ‘despotic’ the hierarchy.</sapn>
+  <p><em>D</em> represents hierarchical power as a measure of the &ldquo;degree of hierarchical despotism.&rdquo; The word &ldquo;despotism&rdquo; is used in <span class="_quotespan">&hellip; a general sense (as in the abuse of power) and in a more technical sense, <span class="_quotespan">&hellip; they concentrate power at the top &ndash; a feature that inevitably creates problems. Yes, rulers can use their power to benefit the group. But they can also use their power to enrich themselves. The more they do so, the more &lsquo;despotic&rsquo; the hierarchy.</sapn> From our perspective, the &lsquo;depotic&rsquo; element is common of all <span class="_paradigm">FIAT</span> hierarchy.</p>
    <div class="_center">
     <img
      src="/assets/img/pic-inequality-and-fiat-hierarchy-2.svg"
