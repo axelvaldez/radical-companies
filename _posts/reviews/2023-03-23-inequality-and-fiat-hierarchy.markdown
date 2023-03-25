@@ -65,7 +65,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
     alt="">
   </div>
 
-<h1>The Only System</h1>
+<h1>Like Water to Fish</h1>
   <p><span class="_paradigm">FIAT</span> hierarchy is not only <span class="_quotespan">a ubiquitous feature of human organization,</span> it is the only system we can <em>think</em> of. The <span class="_paradigm">RADICAL</span> system is an alternative, where meaning and belonging (people) are at the root of it and any form of organization is decentralied and transparent.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
