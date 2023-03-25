@@ -16,7 +16,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
   <span id="_signature">Blair Fix, <em>Redistributing Income Through Hierarchy</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></span>
  </div>
 
-<h1>Math-less Summary</h1>
+<h1>My Summary</h1>
  <p>The author, Blair Fix, comes to the conclusion that, <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span> Unfortunately, <span class="_quotespan">&hellip; the study of income distribution became dominated by human capital theory , which focused on personal traits and neglected &lsquo;structural&rsquo; explanations of income.</span>
 
 <h1>Hierarchical Power</h1>
