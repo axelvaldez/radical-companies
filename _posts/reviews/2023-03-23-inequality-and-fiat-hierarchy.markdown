@@ -53,6 +53,8 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
     <li>Businesses hierarchies are <span class="_paradigm">FIAT</span> hierarchies.</li>
     <li>Modern governments are <span class="_paradigm">FIAT</span> hierarchies.</li>
    </ul>
+
+<h1>Getting Wealthier</h1>
   <div class="_citation">
    <span class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</span>
   </div>
@@ -62,7 +64,9 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
     width="70%"
     alt="">
   </div>
-  <p><span class="_paradigm">FIAT</span> hierarchy is not only <span class="_quotespan">a ubiquitous feature of human organization,</span> it is the only system we can think of. The <span class="_paradigm">RADICAL</span> system is an alternative, where meaning and belonging (people) are at the root of it and any form of organization is decentralied and transparent.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+
+<h1>The Only System</h1>
+  <p><span class="_paradigm">FIAT</span> hierarchy is not only <span class="_quotespan">a ubiquitous feature of human organization,</span> it is the only system we can <em>think</em> of. The <span class="_paradigm">RADICAL</span> system is an alternative, where meaning and belonging (people) are at the root of it and any form of organization is decentralied and transparent.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
