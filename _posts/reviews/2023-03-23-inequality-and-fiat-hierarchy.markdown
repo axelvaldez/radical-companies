@@ -54,11 +54,9 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
    <span class="_quotespan">Importantly, despotism is not just a game for rulers. It is a game played by everyone in the hierarchy.</span>
   </div>
 -->
- <p>He shows that, <span class="_quotespan">hierarchy lies at the root of US income redistribution.</span></p>
+ <p>He shows that, <span class="_quotespan">hierarchy lies at the root of US income redistribution,</span> &hellip; <span class="_quotespan">growing inequality is caused by a redistribution of income within hierarchies.</span></p>
   <div class="_citation">
    <span class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</span>
-   <span class="_quotespan">growing inequality is caused by a redistribution of income within hierarchies.</span>
-   <span class="_quotespan">Here D is the ‘degree of hierarchical despotism’ – a free parameter that determines how rapidly income grows with hierarchical power.</span>
   </div>
   <div class="_center">
    <img
