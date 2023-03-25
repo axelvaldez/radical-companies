@@ -41,7 +41,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
     </div>
    </span>
   </div>
-  <p>The word <em>despotism</em> indicates that,
+  <p>The word <em>despotism</em> is used to indicates that,
    <ul>
     <li><span class="_paradigm">FIAT</span> hierarchies <span class="_quotespan">concentrate power at the top</span></li>
     <li><span class="_quotespan">Rulers can use their power to benefit the group. But they can also use their power to enrich themselves</span></li>
