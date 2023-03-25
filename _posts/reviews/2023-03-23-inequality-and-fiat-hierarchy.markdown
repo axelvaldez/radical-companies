@@ -34,7 +34,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
  <p>And the same is true throughout the world, not just in the  US.</p>
 
 <h1>Despotism</h1>
-  <p><em>D</em> represents hierarchical power, a measure of the &lsquo;degree of hierarchical despotism.&rsquo; <span class="_citation">The greater the value of <em>D</em>, the more despotic the hierarchy.</span></p>
+  <p><em>D</em> represents hierarchical power, a measure of the &lsquo;degree of hierarchical despotism.&rsquo; <span class="_quotespan">The greater the value of <span class="__me">D</span>, the more despotic the hierarchy.</span></p>
   <div class="_citation">
    <span class="_quotespan">Importantly, despotism is not just a game for rulers. It is a game played by everyone in the hierarchy . The result &hellip; is that the more despotic the hierarchy becomes, the more rapidly income will increase with hierarchical power. It makes sense, then, to use the scaling of income with hierarchical power, D, as a measure of the &lsquo;degree of hierarchical despotism.&rsquo;</span>
    <div class="_center">
