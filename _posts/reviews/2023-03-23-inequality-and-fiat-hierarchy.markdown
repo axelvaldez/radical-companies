@@ -62,6 +62,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
     width="70%"
     alt="">
   </div>
+  <p><span class="_paradigm">FIAT</span> hierarchy is not only <span class="_quotespan">a ubiquitous feature of human organization,</span> it is the only system we can think of. The <span class="_paradigm">RADICAL</span> system is an alternative, where meaning and belonging (people) are at the root of it and any form of organization is decentralied and transparent.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
@@ -74,6 +75,15 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
     &lt;<a href="https://radicals.world/uUuBSg" target="_blank">https://radicals.world/uUuBSg</a>&gt;
     (alt, &lt;<a href="https://radicals.world/FlpevH" target="_blank">https://radicals.world/FlpevH</a>&gt;)
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    Matt Perez, Jose Leal.
+    <em>The <span class="_paradigm">RADICAL</span> Foundation House</em>,
+    2023.
+    &lt;<a href="https://radicalcompanies.com/2023/03/11/the-radical-foundation-house" target="_blank">https://radicalcompanies.com/2023/03/11/the-radical-foundation-house</a>&gt;
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
