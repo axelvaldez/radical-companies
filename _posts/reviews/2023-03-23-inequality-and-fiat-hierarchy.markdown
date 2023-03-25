@@ -54,7 +54,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
      width="70%"
      alt="">
    </div>
-  <p>He shows that, <span class="_quotespan">growing inequality is caused by a redistribution of income within hierarchies.</span></p>
+  <p>He shows that,</p>
   <div class="_citation">
    <span class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</span>
   </div>
