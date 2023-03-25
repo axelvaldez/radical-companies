@@ -66,7 +66,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
   </div>
 
 <h1>Like Water to Fish</h1>
-  <p><span class="_paradigm">FIAT</span> hierarchy is not only <span class="_quotespan">a ubiquitous feature of human organization,</span> it is the only system we can <em>think</em> of. All &ldquo;revolutions&rdquo; have been but variations of it.</p>
+  <p><span class="_paradigm">FIAT</span> hierarchy is not only <span class="_quotespan">a ubiquitous feature of human organization,</span> it is the only system we can <em>think</em> of. All &ldquo;revolutions&rdquo; have been but variations of it.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>The <span class="_paradigm">RADICAL</span> system is an alternative,</p>
    <ul>
     <li>Meaning and belonging (people) are at the root of it.</li>
@@ -93,6 +93,12 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
     2023.
     &lt;<a href="https://radicalcompanies.com/2023/03/11/the-radical-foundation-house" target="_blank">https://radicalcompanies.com/2023/03/11/the-radical-foundation-house</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    Including all that Karl Marx wrote.
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
