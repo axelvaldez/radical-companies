@@ -35,19 +35,19 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
 <h1>Despotism</h1>
   <p>Below, <em>D</em> represents hierarchical power or despotism. In other words, <span class="_quotespan">the greater the value of <span class="__me">D</span>, the more despotic the hierarchy.</span></p>
   <div class="_citation">
-   <span style="font-style:italic; ">Importantly, despotism is not just a game for rulers. It is a game played by everyone in the hierarchy . The result &hellip; is that the more despotic the hierarchy becomes, the more rapidly income will increase with hierarchical power.
+   <span style="font-style:italic; ">&hellip; despotism is not just a game for rulers. It is a game played by everyone in the hierarchy &hellip; the more despotic the hierarchy becomes, the more rapidly income will increase with hierarchical power.
     <div class="_center">
-     <span>relative income <span style="font-size:x-large; ">&#x221D;</span> hierarchical power<sup>D</sup></span>
+     <span>Relative Income <span style="font-size:x-large; ">&#x221D;</span> Hierarchical Power<sup>D</sup></span>
     </div>
    </span>
   </div>
-  <p>The word <em>despotism</em>, in this context, indicates that,
+  <p>The word <em>despotism</em> indicates that,
    <ul>
-    <li><span class="_quotespan">[<span class="_paradigm">FIAT</span> hierarchies] concentrate power at the top</span></li>
+    <li><span class="_paradigm">FIAT</span> hierarchies <span class="_quotespan">concentrate power at the top</span></li>
     <li><span class="_quotespan">Rulers can use their power to benefit the group. But they can also use their power to enrich themselves</span></li>
-    <li><span class="_quotespan">The more they [enrich themselves], the more &lsquo;despotic&rsquo; the hierarchy.</span></li>
+    <li><span class="_quotespan">The more [rulers enrich themselves], the more &lsquo;despotic&rsquo; the hierarchy.</span></li>
    </ul>
-  <p>Of course, from our perspective, the &lsquo;depotic&rsquo; element is common of <em>all</em> <span class="_paradigm">FIAT</span> hierarchies, and all businesses hierarchies are <span class="_paradigm">FIAT</span> hierarchies.</p>
+  <p>Of course, from our perspective, the &lsquo;depotic&rsquo; element is common of <span id="_bolder">all</span> <span class="_paradigm">FIAT</span> hierarchies, and all businesses hierarchies are <span class="_paradigm">FIAT</span> hierarchies.</p>
   <div class="_citation">
    <span class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: <span class="_me">[<span class="_paradigm">FIAT</span>]</span> hierarchy.</span>
   </div>
