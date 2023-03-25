@@ -7,7 +7,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
 ---
 
 <div style="display:none;">
- <p>Growing inequality is caused by a redistribution of income within hierarchies.</p>
+ <p>&ldquo;Growing inequality is caused by a redistribution of income within hierarchies.&rdquo;</p>
 </div>
 
 <h1>&nbsp;</h1>
