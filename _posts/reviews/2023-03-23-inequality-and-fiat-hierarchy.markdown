@@ -39,8 +39,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
    <span class="_quotespan">Importantly, despotism is not just a game for rulers. It is a game played by everyone in the hierarchy . The result &hellip; is that the more despotic the hierarchy becomes, the more rapidly income will increase with hierarchical power.
     <div class="_center">
      <span>relative income <span style="font-size:x-large; ">&#x221D;</span> hierarchical power<sup>D</sup></span>
-    </div>
-   </span>
+    </div></span>
   </div>
   <p>The word <em>despotism</em> is used in <span class="_quotespan">&hellip; as in the abuse of power</span>. <span class="_quotespan">&hellip; they concentrate power at the top &ndash; a feature that inevitably creates problems. Yes, rulers can use their power to benefit the group. But they can also use their power to enrich themselves. The more they do so, the more &lsquo;despotic&rsquo; the hierarchy.</span></p>
   <p>Of course, from our perspective, the &lsquo;depotic&rsquo; element is common of <em>all</em> <span class="_paradigm">FIAT</span> hierarchies, and all businesses hierarchies are <span class="_paradigm">FIAT</span> hierarchies.</p>
