@@ -49,7 +49,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
    </ul>
   <p>Of course, from our perspective, the &lsquo;depotic&rsquo; element is common of <em>all</em> <span class="_paradigm">FIAT</span> hierarchies, and all businesses hierarchies are <span class="_paradigm">FIAT</span> hierarchies.</p>
   <div class="_citation">
-   <span class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</span>
+   <span class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: [<span class="_paradigm">FIAT</span>] hierarchy.</span>
   </div>
   <div class="_center">
    <img
