@@ -26,8 +26,8 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
    <li>The United States has grown more unequal over the last 4 decades</li>
    <li>This growing inequality occurred via a ‘fattening’ of the income distribution tail</li>
    <li>Growing inequality is associated with a dramatic increase in US CEO pay</li>
-   <li>Like the redistribution of top incomes, the pay increases of US CEOs has an underlying uniformity: the rate at which income scales with hierarchical power seems to have increased</li>
-   <li>This increasing ‘hierarchical despotism’ among US CEOs correlates with rising US inequality, suggesting that US hierarchies have become more despotic.</li>
+   <li>&hellip; the pay increases of US CEOs has an underlying uniformity &hellip; [it] seems to have increased</li>
+   <li>This increasing ‘hierarchical despotism’ among US CEOs correlates with rising US inequality &hellip; US hierarchies have become more despotic.</li>
   </ol>
  </div>
  <p>And the same is true throughout the world, not just in the  US.</p>
