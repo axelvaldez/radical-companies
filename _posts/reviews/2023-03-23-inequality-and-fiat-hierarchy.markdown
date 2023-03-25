@@ -50,7 +50,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
   <p>From our perspective,</p>
    <ul>
     <li><em>Despotism is common of <span id="_bolder">all</span> <span class="_paradigm">FIAT</span> hierarchies</em></li>
-    <li>All businesses hierarchies are <span class="_paradigm">FIAT</span> hierarchies.</li>
+    <li>Businesses hierarchies are <span class="_paradigm">FIAT</span> hierarchies.</li>
     <li>Modern governments are <span class="_paradigm">FIAT</span> hierarchies.</li>
    </ul>
   <div class="_citation">
