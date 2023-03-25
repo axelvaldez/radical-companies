@@ -33,7 +33,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
  <p>And the same is true throughout the world, not just in the  US.</p>
 
 <h1>Despotism</h1>
-  <p><em>D</em> represents hierarchical power, a measure of the &lsquo;degree of hierarchical despotism.&rsquo; In other words, <span class="_quotespan">the greater the value of <span class="__me">D</span>, the more despotic the hierarchy.</span></p>
+  <p>Below, <em>D</em> represents hierarchical power or despotism. In other words, <span class="_quotespan">the greater the value of <span class="__me">D</span>, the more despotic the hierarchy.</span></p>
   <div class="_citation">
    <span style="font-style:italic; ">Importantly, despotism is not just a game for rulers. It is a game played by everyone in the hierarchy . The result &hellip; is that the more despotic the hierarchy becomes, the more rapidly income will increase with hierarchical power.
     <div class="_center">
