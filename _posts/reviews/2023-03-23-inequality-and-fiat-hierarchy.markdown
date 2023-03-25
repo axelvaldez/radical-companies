@@ -35,7 +35,8 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
 <h1>Despotism</h1>
   <div class="_citation">
    <span class="_quotespan">Importantly, despotism is not just a game for rulers. It is a game played by everyone in the hierarchy . The result, I propose, is that the more despotic the hierarchy becomes, the more rapidly income will increase with hierarchical power. It makes sense, then, to use the scaling of income with hierarchical power, D, as a measure of the &lsquo;degree of hierarchical despotism.&rsquo;</span>
-  <p><span class="_quotespan">The greater the value of <em>D</em>,</span> he says, <span class="_quotespan">the more despotic the hierarchy</span>.</p>
+   <span class="_quotespan">The greater the value of <em>D</em>,</span> he says, <span class="_quotespan">the more despotic the hierarchy</span>.
+   <br>
    <div class="_center">
     <span>relative income <span style="font-size:x-large; ">&#x221D;</span> hierarchical power<sup>D</sup></span>
    </div>
