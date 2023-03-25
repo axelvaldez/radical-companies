@@ -58,7 +58,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
   <div class="_citation">
    <span class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</span>
   </div>
-  <p>Here is a graphics that illustrates how as <em>span of control</em> (<em>i.e.</em>, hierachical despotism &ndash; </em>D</em>) decreases, the <em>top of 1% income</em> increases,</p>
+  <p>Here is a graphics that illustrates how as <em>span of control</em> (<em>i.e.</em>, hierachical despotism &ndash; <em>D</em>) decreases, the <em>top of 1% income</em> increases,</p>
   <div class="_center">
    <img
     src="/assets/img/pic-inequality-and-fiat-hierarchy-1.svg"
