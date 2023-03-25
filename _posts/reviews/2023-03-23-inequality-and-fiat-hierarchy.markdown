@@ -47,7 +47,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
     <li><span class="_quotespan">Rulers can use their power to benefit the group. But they can also use their power to enrich themselves</span></li>
     <li><span class="_quotespan">The more [rulers enrich themselves], the more &lsquo;despotic&rsquo; the hierarchy.</span></li>
    </ul>
-  <p>Of course, from our perspective, the &lsquo;depotic&rsquo; element is common of <span id="_bolder">all</span> <span class="_paradigm">FIAT</span> hierarchies, and all businesses hierarchies are <span class="_paradigm">FIAT</span> hierarchies.</p>
+  <p>Of course, from our perspective, <em>despotism is common of <span id="_bolder">all</span> <span class="_paradigm">FIAT</span> hierarchies</em>, and all businesses hierarchies are <span class="_paradigm">FIAT</span> hierarchies.</p>
   <div class="_citation">
    <span class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: <span class="_me">[<span class="_paradigm">FIAT</span>]</span> hierarchy.</span>
   </div>
