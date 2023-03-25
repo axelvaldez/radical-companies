@@ -48,15 +48,15 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
     <li><span class="_quotespan">The more they [enrich themselves], the more &lsquo;despotic&rsquo; the hierarchy.</span></li>
    </ul>
   <p>Of course, from our perspective, the &lsquo;depotic&rsquo; element is common of <em>all</em> <span class="_paradigm">FIAT</span> hierarchies, and all businesses hierarchies are <span class="_paradigm">FIAT</span> hierarchies.</p>
-   <div class="_center">
-    <img
-     src="/assets/img/pic-inequality-and-fiat-hierarchy-2.svg"
-     width="70%"
-     alt="">
-   </div>
   <p>He shows that,</p>
   <div class="_citation">
    <span class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</span>
+  </div>
+  <div class="_center">
+   <img
+    src="/assets/img/pic-inequality-and-fiat-hierarchy-2.svg"
+    width="70%"
+    alt="">
   </div>
 
 <h1 class="_section">ENDNOTES</h1>
