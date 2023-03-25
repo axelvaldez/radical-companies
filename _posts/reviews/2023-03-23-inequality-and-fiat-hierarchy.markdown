@@ -21,6 +21,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
  <p>Unfortunately, <span class="_quotespan">&hellip; the study of income distribution became dominated by human capital theory , which focused on personal traits and neglected &lsquo;structural&rsquo; explanations of income.</span>
 
 <h1>Hierarchical Power</h1>
+ <p>Facts,</p>
  <div class="_citation">
   <ol>
    <li>The United States has grown more unequal over the last 4 decades</li>
