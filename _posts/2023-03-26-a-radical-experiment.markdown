@@ -3,7 +3,7 @@ layout:   post
 title:    "A <span class='_paradigm'>RADICAL</span> Experiment"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-a-radical-expiriment.svg"
+image:    "icon-a-radical-experiment.svg"
 ---
 
 <div style="display:none;">
