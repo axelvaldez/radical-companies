@@ -11,6 +11,6 @@ image:    "icon-a-radical-experiment.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>An experiment usually starts with a hypothesis that can be negated. The experiment, if it results in the predicted result, helps to dissipate the tension.</p>
+ <p>An experiment usually starts with a hypothesis that can be negated. The experiment, if it results in the predicted result and gives a basis for a story, helps to dissipate the tension.</p>
 
 {% include related.html %}
