@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "How to Set Up an Experiment"
+title:    "A <span class='_paradigm'>RADICAL</span> Experiment"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-how-to-set-up-an-expirement.svg"
+image:    "icon-a-radical-expiriment.svg"
 ---
 
 <div style="display:none;">
