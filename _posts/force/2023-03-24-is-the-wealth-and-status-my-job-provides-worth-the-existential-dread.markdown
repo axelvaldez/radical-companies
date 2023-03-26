@@ -7,7 +7,7 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
 ---
 
 <div style="display:none;">
- <p>Is it? Wealth and status in exchange for a stressful like?</p>
+ <p>Is it? Wealth and status in exchange for a stressful life?</p>
 </div>
 
 <h1>&nbsp;</h1>
