@@ -45,7 +45,7 @@ image:    "icon-a-radical-experiment.svg"
     Matt Perez, Adrian Perez, Jose Leal.
     <em><span class='_paradigm'>RADICAL</span> Companies for the Impatient</em>.
     2022.
-    &lt;<a href="radicacompanies.com/2022/05/03/radical-companies-for-the-impatient" target="_blank">PRI</a>&gt;
+    &lt;<a href="https://radicacompanies.com/2022/05/03/radical-companies-for-the-impatient" target="_blank">https://radicacompanies.com/2022/05/03/radical-companies-for-the-impatient</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
