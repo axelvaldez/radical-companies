@@ -18,7 +18,7 @@ image:    "icon-a-radical-experiment.svg"
  <p>A while later, other people with come up with a different hypothesis and off goes your stories and your assumptions and what <span class="_quotespan">everybody knows.</span></p>
 
 <h1>Example: Gravity and Relativity</h1>
- <p>The canonical example of this is Einstein&rsquo;s relativity and Newton&rsquo;s gravity. <em>Everybody knew</em> that anything with mass will also have gravity and that gavity acted in a certain way. Then came Eisntein and with the implication that gravity was more complex and definitely acted differectly at the micro level.</p>
+ <p>The canonical example of this is Einstein&rsquo;s relativity and Newton&rsquo;s gravity. <em>Everybody knew</em> that anything with mass will also have gravity and that gravity acted in a certain way. Then came Eisntein and with the implication that gravity was more complex and definitely acted differectly at the micro level.</p>
 
 <h1>Example: Belt Levels</h1>
  <p>This example came up last Friday. It sprung from the question, &ldquo;Is X be compatible with the <span class='_paradigm'>RADICAL</span> system?&rdquo; My first answer was very much a <span class='_paradigm'>FIAT</span> answer: <span class="_quotespan">No!</span> It took a while (<em>i.e.</em>, this <span class='_paradigm'>RADICAL</span> stuff is not easy), but I think I eventually came up with a truly <span class='_paradigm'>RADICAL</span>, out-of-love response: <span class="_quotespan">run an experiment!</span></p>
