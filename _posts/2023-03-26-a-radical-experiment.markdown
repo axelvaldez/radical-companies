@@ -15,7 +15,7 @@ image:    "icon-a-radical-experiment.svg"
 
 <h1>The Hypothesis</h1>
  <p>Your hypothesis is in tension with something, perhaps with an ideology, or with religious beliefs, or with &ldquo;known&rdquo; facts. Whatever it is, the experiment is not for corroborating your hypothesis, but for negating your assumptions. If the experiment gives the predicted result, it helps dissipate the tension. It becomes part of a new story that <span class="_quotespan">everybody knows.</span></p>
- <p>A while Later other people with come up with a different hypothesis and off goes your stories and your assumptions and what <span class="_quotespan">everybody knows.</span></p>
+ <p>A while later, other people with come up with a different hypothesis and off goes your stories and your assumptions and what <span class="_quotespan">everybody knows.</span></p>
 
 <h1>Example: Gravity and Relativity</h1>
  <p>The canonical example of this is Einstein&rsquo;s relativity and Newton&rsquo;s gravity. <em>Everybody knew</em> that anything with mass will also have gravity and that gavity acted in a certain way. Then came Eisntein and with the implication that gravity was more comples than Newton had assumed and definitely acted differectly in the micro level.</p>
