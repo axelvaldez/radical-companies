@@ -7,11 +7,11 @@ image:    "icon-a-radical-experiment.svg"
 ---
 
 <div style="display:none;">
- <p>An experiment usually starts with a hypothesis that can be negated. If the experiment gives the predicted result, and gives a basis for a story, it helps dissipate the tension. For a while.</p>
+ <p>An experiment starts with a hypothesis, our expectations for it. It could be negatedm, or give a basis for a story if the experiment gives the predicted results and helps dissipate the tension. For a while.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>An experiment usually starts with a hypothesis that can be negated. If the experiment gives the predicted result, and gives a basis for a story, it helps dissipate the tension. For a while.</p>
+ <p>An experiment starts with a hypothesis, our expectations for it. It could be negatedm, or give a basis for a story if the experiment gives the predicted results and helps dissipate the tension. For a while.</p>
 
 <h1>The Hypothesis</h1>
  <p>Your hypothesis is in tension with something, perhaps with an ideology, or with religious beliefs, or with &ldquo;known&rdquo; facts. Whatever it is, the experiment is not for corroborating your hypothesis, but for negating your assumptions. If the experiment gives the predicted result, it helps dissipate the tension. It becomes part of a new story that <span class="_quotespan">everybody knows.</span></p>
