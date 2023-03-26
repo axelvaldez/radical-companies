@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "icon-alternatives-to-fiat.svg"
 ---
 
-<div style="display:none;">
+<div style="display:none;" class="_">
  <span class="_quotespan">&hellip; we are extremely perplexed.</span>
 </div>
 
