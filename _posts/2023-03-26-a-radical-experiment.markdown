@@ -21,7 +21,7 @@ image:    "icon-a-radical-experiment.svg"
  <p>The canonical example of this is Einstein&rsquo;s relativity and Newton&rsquo;s gravity. <em>Everybody knew</em> that anything with mass will also have gravity and that gavity acted in a certain way. Then came Eisntein and with the implication that gravity was more complex and definitely acted differectly at the micro level.</p>
 
 <h1>Example: Belt Levels</h1>
- <p>This example came up last Friday. It sprung from the question, &ldquo;Is X be compatible with the <span class='_paradigm'>RADICAL</span> system?&rdquo; My first answer was very much a <span class='_paradigm'>FIAT</span> answer: <span class="_quotespan">No!</span> After a little bit, I think I came up with a truly <span class='_paradigm'>RADICAL</span>, out-of-love response: <span class="_quotespan">run an experiment!</span></p>
+ <p>This example came up last Friday. It sprung from the question, &ldquo;Is X be compatible with the <span class='_paradigm'>RADICAL</span> system?&rdquo; My first answer was very much a <span class='_paradigm'>FIAT</span> answer: <span class="_quotespan">No!</span> It took a while (<em>i.e.</em>, this <span class='_paradigm'>RADICAL</span> stuff is not easy), but I think I eventually came up with a truly <span class='_paradigm'>RADICAL</span>, out-of-love response: <span class="_quotespan">run an experiment!</span></p>
  <p>In this case, X refered to a mentoring system based on Karate Belt level system, with senior folks as Black Belt and others below. And then&hellip; <span class="_quotespan">and pay would be based on that.</span> That didn&rsquo;t go well.</p>
 
 <h1>The Analysis</h1>
