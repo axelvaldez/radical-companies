@@ -27,7 +27,7 @@ image:    "icon-a-radical-experiment.svg"
 <h1>The Analysis</h1>
  <p>There were two things involved: 1) the Belt level ranking and 2) money. The way I looked at it, a ranking of any sort is a no-go unless it is based on something. <span class='_paradigm'>RAD</span>s work because they are based on &ldquo;contributions.&rdquo; So, the experiment should deal with figuring that out.</p>
  <p>Jose pointed out that they should be on the look out for not introducing &ldquo;force,&rdquo; <span class="_quotespan">A test represents force.</span> I would say that having a committee decideds also represents force as well.</p>
- <p>The experiment set up should considered those elements and see if it results in</p>
+ <p>The experiment set up should considered those elements,</p>
   <ul>
    <li>A way to determine salary.</li>
    <li>Do people feel this works for them.</li>
