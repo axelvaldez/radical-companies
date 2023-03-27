@@ -22,7 +22,7 @@ image:    "icon-a-radical-experiment.svg"
 
 <h1>Example: Belt Levels</h1>
  <p>This example came up last Friday. It sprung from the question, &ldquo;Is X be compatible with the <span class='_paradigm'>RADICAL</span> system?&rdquo; My first answer was very much a <span class='_paradigm'>FIAT</span> answer: <span class="_quotespan">No!</span> It took a while (<em>i.e.</em>, this <span class='_paradigm'>RADICAL</span> stuff is not easy), but I think I eventually came up with a truly <span class='_paradigm'>RADICAL</span>, out-of-love response: <span class="_quotespan">run an experiment!</span></p>
- <p>In this case, X refered to a mentoring system based on Karate Belt level system, with senior folks as Black Belt and others below. And then&hellip; <span class="_quotespan">and pay would be based on that.</span> That didn&rsquo;t go well.</p>
+ <p>In this case, X refered to a mentoring system based on the Karate Belt level system, with senior folks as Black Belt and others below. But then it got complicated, <span class="_quotespan">&hellip; and pay would be based on that.</span> That didn&rsquo;t go well.</p>
 
 <h1>The Analysis</h1>
  <p>There were two things involved: 1) the Belt level ranking and 2) money. The way I looked at it, a ranking of any sort is a no-go unless it is based on something. <span class='_paradigm'>RAD</span>s work because they are based on &ldquo;contributions.&rdquo; So, the experiment should deal with figuring that out.</p>
