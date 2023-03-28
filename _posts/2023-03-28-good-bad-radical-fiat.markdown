@@ -38,6 +38,7 @@ image:    "icon-good-bad-radical-fiat.svg"
     </td>
    </tr>
   </table>
+ </div>
 
 <h1><span class='_paradigm'>FIAT</span>&rsquo;s Bad Features</h1>
 
