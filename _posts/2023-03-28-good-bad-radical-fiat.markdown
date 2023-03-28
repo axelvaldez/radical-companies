@@ -7,11 +7,11 @@ image:    "icon-good-bad-radical-fiat.svg"
 ---
 
 <div style="display:none;">
- <p>Lead with <span class='_paradigm'>RADICAL</span>&rsquo;s benefits, rather than <span class='_paradigm'>FIAT</span>&rsquo;s bad features.</p>
+ <p><span class="_quotespan">Lead with <span class='_paradigm'>RADICAL</span>&rsquo;s benefits, rather than <span class='_paradigm'>FIAT</span>&rsquo;s bad features.</span></p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Lead with <span class='_paradigm'>RADICAL</span>&rsquo;s benefits, rather than <span class='_paradigm'>FIAT</span>&rsquo;s bad features. That was Jose suggestios for future posts, like this one.</p>
+ <p><span class="_quotespan">Lead with <span class='_paradigm'>RADICAL</span>&rsquo;s benefits, rather than <span class='_paradigm'>FIAT</span>&rsquo;s bad features.</span> That was Jose suggestios for future posts, like this one.</p>
 
 <h1><span class='_paradigm'>RADICAL</span> Features</h1>
  <div class="_center">
