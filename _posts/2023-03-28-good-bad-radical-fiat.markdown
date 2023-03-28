@@ -3,7 +3,7 @@ layout:   post
 title:    "Good & Bad, <span class='_paradigm'>RADICAL</span> & <span class='_paradigm'>FIAT</span>"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal, Cristina Imre"
-image:    "icon-ptsd-and-trust.svg"
+image:    "icon-good-bad-radical-fiat.svg"
 ---
 
 <div style="display:none;">
@@ -39,7 +39,7 @@ image:    "icon-ptsd-and-trust.svg"
    </tr>
   </table>
 
-</h1><span class='_paradigm'>FIAT</span>&rsquo;s Bad Features</h1>
+<h1><span class='_paradigm'>FIAT</span>&rsquo;s Bad Features</h1>
 
 
 {% include related.html %}
