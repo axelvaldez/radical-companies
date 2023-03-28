@@ -14,6 +14,7 @@ image:    "icon-good-bad-radical-fiat.svg"
  <p><span class="_quotespan">Lead with <span class='_paradigm'>RADICAL</span>&rsquo;s benefits, rather than <span class='_paradigm'>FIAT</span>&rsquo;s bad features.</span> That was Jose&rsquo;s suggestios for future posts, like this one.</p>
 
 <h1><span class='_paradigm'>RADICAL</span> Benefits</h1>
+ <p>The <span class='_paradigm'>RADICAL</span> system is an alternative to the <span class='_paradigm'>FIAT</span> system.</p>
  <div class="_center">
   <table class="_background">
    <tr>
@@ -41,6 +42,22 @@ image:    "icon-good-bad-radical-fiat.svg"
  </div>
 
 <h1><span class='_paradigm'>FIAT</span>&rsquo;s Bad Features</h1>
-
+ <p>The <span class='_paradigm'>FIAT</span> system is what surrounds us, to the point that it invisibiel, like water to fish.</p>
+ <div class="_center">
+  <table class="_background">
+   <tr>
+    <th>Profits for the owner, wages for the rest</th>
+    <td>Onwers have rights to all earned dividends the business creates.</td>
+   </tr>
+   <tr>
+    <th>Command and control</th>
+    <td>Directions come from the boss. Attaboys, and sometimes financial rewards, come from the boss. Punishment comes from the boss.</td>
+   </tr>
+   <tr>
+    <th>Everything comes down from the boss</th>
+    <td>Directions. What&rsquo;s right and what&rsquo;s wrong. Values. Goals. Metrics.</td>
+   </tr>
+  </table>
+ </div>
 
 {% include related.html %}
