@@ -15,7 +15,7 @@ image:    "icon-good-bad-radical-fiat.svg"
 
 <h1><span class='_paradigm'>RADICAL</span> Features</h1>
  <div class="_center">
-  <table class="_foundation">
+  <table class="_foundation" style="width:70%; ">
    <tr>
     <th>Co-Ownership</th>
     <td>
