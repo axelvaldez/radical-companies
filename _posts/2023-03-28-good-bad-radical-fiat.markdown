@@ -18,9 +18,7 @@ image:    "icon-good-bad-radical-fiat.svg"
   <table class="_foundation" style="width:70%; ">
    <tr>
     <th>Co-Ownership</th>
-    <td>
-     <p>As a co-owner, you are no longer exchanging your time and skills for a wage. You are one of many owners and have rights to earned dividends, the wealth, that the company creates.</p>
-    </td>
+    <td>As a co-owner, you are no longer exchanging your time and skills for a wage. You are one of many owners and have rights to earned dividends, the wealth, that the company creates.</td>
    </tr>
    <tr>
     <th><span class='_paradigm'>RAD</span>s</th>
