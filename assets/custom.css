@@ -251,6 +251,10 @@ table tr {
   vertical-align:top;
   font-size:smaller;
 }
+table._background ul {
+  padding-left:-4em;
+  font-size:larger;
+}
 table._background tr th, table._foundation tr th {
   border-right-width:1px;
   border-right-color:gray;
