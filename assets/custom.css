@@ -252,8 +252,8 @@ table tr {
   font-size:smaller;
 }
 table._background ul {
-  padding-left:-4em;
   font-size:larger;
+  list-style-position:outside;
 }
 table._background tr th, table._foundation tr th {
   border-right-width:1px;
