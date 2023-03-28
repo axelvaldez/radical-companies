@@ -15,7 +15,7 @@ image:    "icon-good-bad-radical-fiat.svg"
 
 <h1><span class='_paradigm'>RADICAL</span> Features</h1>
  <div class="_center">
-  <table class="_foundation" style="width:70%; ">
+  <table class="_foundation" style="width:70% !important; ">
    <tr>
     <th>Co-Ownership</th>
     <td>As a co-owner, you are no longer exchanging your time and skills for a wage. You are one of many owners and have rights to earned dividends, the wealth, that the company creates.</td>
