@@ -29,12 +29,14 @@ image:    "icon-good-bad-radical-fiat.svg"
    <tr>
     <th><span class='_paradigm'>RADICAL Foundation</span></th>
     <td>
-     <p>The <span class='_paradigm'>RADICAL Foundation</span> is the foundation for everything in the <span class='_paradigm'>RADICAL</span> world. It doesn&rsquo;t tell you what to do, but where you are heading.</p>
-     <p>Will this decision make the company more or less decentralized?</p>
-     <p>Will it make it more or less transparent?</p>
-     <p>Will it get in the way of people finding meaning?</p>
-     <p>Will it go against a co-owner&rsquo;s sense of beloging?</p>
-     <p>Will it make it harder to experiment?</p>
+     <ul>
+      <li>The <span class='_paradigm'>RADICAL Foundation</span> is the foundation for everything in the <span class='_paradigm'>RADICAL</span> world. It doesn&rsquo;t tell you what to do, but where you are heading.</li>
+      <li>Will this decision make the company more or less decentralized?</li>
+      <li>Will it make it more or less transparent?</li>
+      <li>Will it get in the way of people finding meaning?</li>
+      <li>Will it go against a co-owner&rsquo;s sense of beloging?</li>
+      <li>Will it make it harder to experiment?</li>
+     </ul>
     </td>
    </tr>
   </table>
