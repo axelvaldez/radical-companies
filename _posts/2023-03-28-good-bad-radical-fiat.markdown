@@ -28,7 +28,7 @@ image:    "icon-good-bad-radical-fiat.svg"
     <th><span class='_paradigm'>RADICAL Foundation</span></th>
     <td>
      <ul style="padding-left:-4.0en; ">
-      <li>The <span class='_paradigm'>RADICAL Foundation</span> is the foundation for everything in the <span class='_paradigm'>RADICAL</span> world. It doesn&rsquo;t tell you what to do, but where you are heading.</li>
+      <li>The <span class='_paradigm'>RADICAL Foundation</span> doesn&rsquo;t tell you what to do, but where you are heading.</li>
       <li>Will this decision make the company more or less decentralized?</li>
       <li>Will it make it more or less transparent?</li>
       <li>Will it get in the way of people finding meaning?</li>
