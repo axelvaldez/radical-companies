@@ -22,7 +22,7 @@ image:    "icon-good-bad-radical-fiat.svg"
    </tr>
    <tr>
     <th><span class='_paradigm'>RAD</span>s</th>
-    <td>You give <span class='_paradigm'>RAD</span>s to other co-owners, and they give you <span class='_paradigm'>RAD</span>s. The <span class='_paradigm'>RAD</span>s you have determine how much of the earned dividends, the wealth the company has created you get</td>
+    <td>You give <span class='_paradigm'>RAD</span>s to other co-owners, and they give you <span class='_paradigm'>RAD</span>s. The <span class='_paradigm'>RAD</span>s you have determine how much of the wealth the company has created, the earned dividends, you get</td>
    </tr>
    <tr>
     <th><span class='_paradigm'>RADICAL Foundation</span></th>
