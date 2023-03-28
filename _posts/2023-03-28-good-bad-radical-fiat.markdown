@@ -13,7 +13,7 @@ image:    "icon-good-bad-radical-fiat.svg"
 <h1>&nbsp;</h1>
  <p><span class="_quotespan">Lead with <span class='_paradigm'>RADICAL</span>&rsquo;s benefits, rather than <span class='_paradigm'>FIAT</span>&rsquo;s bad features.</span> That was Jose suggestios for future posts, like this one.</p>
 
-<h1><span class='_paradigm'>RADICAL</span> Features</h1>
+<h1><span class='_paradigm'>RADICAL</span> Benefits</h1>
  <div class="_center">
   <table class="_background">
    <tr>
