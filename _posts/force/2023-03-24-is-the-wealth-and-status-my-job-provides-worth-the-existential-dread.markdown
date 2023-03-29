@@ -44,7 +44,7 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
    <li>What are your values and priorities in life, and how does your job align with them?</li>
   </ul>
  <p>Notice that it never questions &ldquo;your job,&rdquo; even though that is the most critical question for systemic change, <span class="_quotespan">Why should I have a job at all?</span> The chatGPT language training set assumes that you must have a &lsquo;job.&rsquo; The language tranining set assumes that you must exchange yout time and skills for a wage, your life for money to survive (and maintain the lifestyle that is required to get your children to the &lsquo;right&rsquo; schools). That is the system and we live in.</p>
- <p>And the system has provided rood results: Nice houses, medicines, and even electric cars. The <span class="_paradigm">FIAT</span> system has also made a few people extremely wealthy and most of humanity dirt poor.</p>
+ <p>And the system has provided rood results: Nice houses, medicines, and even electric cars. The <span class="_paradigm">FIAT</span> system has also made a few people extremely wealthy, most of humanity dirt poor, and the folks in the middle live in existential dread.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
