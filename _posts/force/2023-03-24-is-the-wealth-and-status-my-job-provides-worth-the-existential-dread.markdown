@@ -20,7 +20,7 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
      <div class="_center">
      <img
       src="/assets/img/pic-is-the-wealth-and-status-my-job-provides-worth-the-existential-dread.svg"
-      width="50%"
+      width="70%"
       alt="">
     </td>
    </tr>
