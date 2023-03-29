@@ -12,12 +12,11 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
 
 <h1>&nbsp;</h1>
  <div class="_center">
-  <table style="width:50%">
+  <table style="width:60%">
    <tr>
     <td>
      <img 
       src="/assets/img/pic-is-the-wealth-and-status-my-job-provides-worth-the-existential-dread.svg"
-      width="50%"
       alt="">
     </td>
    </tr>
