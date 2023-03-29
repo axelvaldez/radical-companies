@@ -13,8 +13,9 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
 <h1>&nbsp;</h1>
  <div class="_center">
   <img
+   sytle="float:right; "
    src="/assets/img/pic-is-the-wealth-and-status-my-job-provides-worth-the-existential-dread.svg"
-   width="70%"
+   width="50%"
    alt="">
  </div>
  <p>Seen in Sydney.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
