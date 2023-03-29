@@ -11,7 +11,9 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
 </div>
 
 <h1>&nbsp;</h1>
+
  <div class="_center">
+
   <table class="_background">
    <tr>
     <td>
@@ -21,13 +23,16 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
       width="50%"
       alt="">
     </td>
+   </tr>
   </table>
+
   <table class="_background">
    </tr>
    <tr>
     <td>Seen in Sydney, Australia.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></td>
    </tr>
   </table>
+
  </div>
 
 <h1>Wealth and Status</h1>
