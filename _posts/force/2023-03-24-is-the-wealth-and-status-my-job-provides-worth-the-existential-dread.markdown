@@ -29,10 +29,10 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
  </div>
 
 <h1>Wealth and Status</h1>
- <p>According to chatGPT, <span class="_quotespan">Wealth and status can provide many benefits, such as financial security, social recognition, and professional fulfillment. However, these benefits may come at a cost, such as long working hours, high-pressure environments, and the feeling of being trapped in a job that does not align with your values or interests.<span></p>
+ <p>According to chatGPT, <span class="_quotespan">Wealth and status can provide many benefits, such as financial security, social recognition, and professional fulfillment. However, these benefits may come at a cost, such as long working hours, high-pressure environments, and the feeling of being trapped in a job that does not align with your values or interests.</span></p>
 
 <h1>Existential Dread</h1>
- <p>Again, tapping on the collective wisdom of chatGPT, <span class="_quotespan">Existential dread is a feeling of uncertainty, anxiety, or despair about the meaning and purpose of one's life. It can be triggered by various factors, including the sense of emptiness or disconnection from one's work or the world around them.</p>
+ <p>Again, tapping on the collective wisdom of chatGPT, <span class="_quotespan">Existential dread is a feeling of uncertainty, anxiety, or despair about the meaning and purpose of one's life. It can be triggered by various factors, including the sense of emptiness or disconnection from one's work or the world around them.</span></p>
  <p>It recomends that you ask yourself certain questions&hellip;</p>
 
 <h1>Questions, Questions</h1>
@@ -46,7 +46,6 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
  <p>Notice that it never questions &lsquo;your job,&rsquo; even though that is the most critical question for systemic change, <span class="_quotespan">Why should I have a job at all?</span>. The chatGPT language training set assumes that you must have a &lsquo;job.&rsquo; The language tranining set assumes that you must exchange yout time and skills for a wage, your life for money to survive (and maintain the lifestyle that is required to get your children to the &lsquo;right&rsquo; schools). That is the system and we live in.</p>
  <p>And the system has provided rood results, right?: Nice houses, medicines, and even electric cars.</p>
  <p>The system has also made a few people very wealthy and most of humanity dirt poor.</p>
- <p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
