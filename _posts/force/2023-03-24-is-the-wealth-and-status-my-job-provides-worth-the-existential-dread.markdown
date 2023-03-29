@@ -11,6 +11,7 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
 </div>
 
 <h1>&nbsp;</h1>
+ <p style="float:right; ">Seen in Sydney, Australia.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <div class="_center">
   <img
    sytle="float:right; "
@@ -18,7 +19,6 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
    width="50%"
    alt="">
  </div>
- <p style="float:right; ">Seen in Sydney.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Wealth and Status</h1>
  <p>According to chatGPT, <span class="_quotespan">Wealth and status can provide many benefits, such as financial security, social recognition, and professional fulfillment. However, these benefits may come at a cost, such as long working hours, high-pressure environments, and the feeling of being trapped in a job that does not align with your values or interests.<span></p>
