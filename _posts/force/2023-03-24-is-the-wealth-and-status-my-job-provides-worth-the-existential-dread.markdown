@@ -40,7 +40,7 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
  <p>Again, tapping on the collective wisdom of chatGPT, <span class="_quotespan">Existential dread is a feeling of uncertainty, anxiety, or despair about the meaning and purpose of one's life. It can be triggered by various factors, including the sense of emptiness or disconnection from one's work or the world around them.</p>
  <p>It recomends that you ask yourself certain questions&hellip;</p>
 
-<h1>Questions. Questions.</h1>
+<h1>Questions, Questions</h1>
  <p>ChatGPT asks,</p>
   <ul>
    <li>Are you satisfied with your current lifestyle and financial situation, or do you feel that you need to maintain a certain level of wealth and status to be happy?</li>
