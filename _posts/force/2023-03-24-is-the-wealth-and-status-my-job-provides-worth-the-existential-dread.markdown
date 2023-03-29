@@ -13,12 +13,10 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
 <h1>&nbsp;</h1>
 
  <div class="_center">
-
   <table class="_background">
    <tr>
     <td>
-     <div class="_center">
-     <img
+     <img 
       src="/assets/img/pic-is-the-wealth-and-status-my-job-provides-worth-the-existential-dread.svg"
       width="70%"
       alt="">
@@ -32,7 +30,6 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
     </td>
    </tr>
   </table>
-
  </div>
 
 <h1>Wealth and Status</h1>
