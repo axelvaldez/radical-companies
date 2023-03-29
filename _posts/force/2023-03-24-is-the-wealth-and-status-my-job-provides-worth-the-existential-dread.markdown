@@ -29,10 +29,11 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
  </div>
 
 <h1>Wealth and Status</h1>
- <p>According to chatGPT, <span class="_quotespan">Wealth and status can provide many benefits, such as financial security, social recognition, and professional fulfillment. However, these benefits may come at a cost, such as long working hours, high-pressure environments, and the feeling of being trapped in a job that does not align with your values or interests.</span></p>
+ <p>According to <em>chatGPT</em>, <span class="_quotespan">Wealth and status can provide many benefits, such as financial security, social recognition, and professional fulfillment. However, these benefits may come at a cost, such as long working hours, high-pressure environments, and the feeling of being trapped in a job that does not align with your values or interests.</span></p>
+ <p>The &ldquo;benefits&rdquo; that <em>chatGPT</em> is talking about are very, very fragile. Financial security and status, for example, always are at the mercy of the boss and you can be put in the penalty box at anytime and for any reason. When I was at the height of my carreer, this is the thing that always hung over my and my family&rsquo;s head.</p>
 
 <h1>Existential Dread</h1>
- <p>Again, tapping on the collective wisdom of chatGPT, <span class="_quotespan">Existential dread is a feeling of uncertainty, anxiety, or despair about the meaning and purpose of one's life. It can be triggered by various factors, including the sense of emptiness or disconnection from one's work or the world around them.</span></p>
+ <p>Tapping one more time into the collective wisdom that is <em>chatGPT</em>, <span class="_quotespan">Existential dread is a feeling of uncertainty, anxiety, or despair about the meaning and purpose of one's life. It can be triggered by various factors, including the sense of emptiness or disconnection from one's work or the world around them.</span></p>
  <p>It recomends that you ask yourself certain questions&hellip;</p>
 
 <h1>Questions, Questions</h1>
@@ -43,8 +44,8 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
    <li>Do you feel fulfilled by your job, or do you feel like you are just going through the motions?</li>
    <li>What are your values and priorities in life, and how does your job align with them?</li>
   </ul>
- <p>Notice that it never questions &ldquo;your job,&rdquo; even though that is the most critical question for systemic change, <span class="_quotespan">Why should I have a job at all?</span> The chatGPT language training set assumes that you must have a &lsquo;job.&rsquo; The language tranining set assumes that you must exchange yout time and skills for a wage, your life for money to survive (and maintain the lifestyle that is required to get your children to the &lsquo;right&rsquo; schools). That is the system and we live in.</p>
- <p>And the system has provided rood results: Nice houses, medicines, and even electric cars. The <span class="_paradigm">FIAT</span> system has also made a few people extremely wealthy, most of humanity dirt poor, and the folks in the middle live in existential dread.</p>
+ <p>Notice that it never questions that will have a &ldquo;job,&rdquo;, even though that is the critical question for systemic change. It never asks, <span class="_quotespan">Why should I have a job at all?</span> The <em>chatGPT</em> language training set assumes that you must have a &lsquo;job.&rsquo; It assumes that you must exchange yout time and skills for a wage, your life for money to survive (<em>i.e.</em>, and maintain the lifestyle that is required to get your children into the &lsquo;right&rsquo; schools). This is the system and we live in.</p>
+ <p>Indeed, the system has provided rood results: nice houses, amazing medicines, and even electric cars. The <span class="_paradigm">FIAT</span> system has also made a few people extremely wealthy and most of humanity dirt poor; the folks in the middle get wealth and status, live their lives in fear, in existential dread.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
