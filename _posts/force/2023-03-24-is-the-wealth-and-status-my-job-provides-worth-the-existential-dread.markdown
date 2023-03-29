@@ -11,7 +11,6 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
 </div>
 
 <h1>&nbsp;</h1>
-
  <div class="_center">
   <table class="_background">
    <tr>
