@@ -12,7 +12,7 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
 
 <h1>&nbsp;</h1>
  <div class="_center">
-  <table style="">
+  <table style="width:50%">
    <tr>
     <td>
      <img 
