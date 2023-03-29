@@ -41,7 +41,7 @@ image:    "icon-good-bad-radical-fiat.svg"
   </table>
  </div>
 
-<h1><span class='_paradigm'>FIAT</span>&rsquo;s Bad Features</h1>
+<h1><span class='_paradigm'>FIAT</span>&rsquo;s (Bad) Features</h1>
  <p>The <span class='_paradigm'>FIAT</span> system is what surrounds us. It is so everpresent that has become invisible to us, like water to fish.</p>
  <div class="_center">
   <table class="_background">
