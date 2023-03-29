@@ -24,12 +24,10 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
       alt="">
     </td>
    </tr>
-  </table>
-
-  <table class="_background">
-   </tr>
    <tr>
-    <td>Seen in Sydney, Australia.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></td>
+    <td>
+     Seen in Sydney, Australia.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
+    </td>
    </tr>
   </table>
 
