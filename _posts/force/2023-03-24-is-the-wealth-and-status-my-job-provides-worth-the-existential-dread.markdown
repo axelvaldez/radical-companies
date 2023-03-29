@@ -11,13 +11,22 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
 </div>
 
 <h1>&nbsp;</h1>
- <p style="float:right; ">Seen in Sydney, Australia.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <div class="_center">
-  <img
-   sytle="float:right; "
-   src="/assets/img/pic-is-the-wealth-and-status-my-job-provides-worth-the-existential-dread.svg"
-   width="50%"
-   alt="">
+  <table class="_foundation">
+   <tr>
+    <td>
+     <div class="_center">
+     <img
+      src="/assets/img/pic-is-the-wealth-and-status-my-job-provides-worth-the-existential-dread.svg"
+      width="50%"
+      alt="">
+    </td>
+   </tr>
+   <tr>
+    <td>Seen in Sydney, Australia.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></td>
+    </td>
+   </tr>
+  </table>
  </div>
 
 <h1>Wealth and Status</h1>
