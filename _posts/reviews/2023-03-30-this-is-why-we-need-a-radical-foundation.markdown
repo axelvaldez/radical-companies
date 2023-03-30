@@ -11,8 +11,10 @@ image:    "icon-this-is-why-we-need-a-radical-foundation.svg"
 </div>
 
 <h1>Sad</h1>
- <p>This makes me sad because once upon a time, Starbucks was the good, generous employer. The thing that got the most press is that they paid for health  insurance for part-time baristas. This shows why co-management is not enough. We need to get away from ownership based on capital to co-onwership based on contributions.</p> 
- <p>They even had a <em>Starbucks Green Apron Book</em>,
+ <p>This makes me sad because once upon a time, Starbucks was the good, generous employer. The thing that got the most press is that they paid for health  insurance for part-time baristas. This shows why co-management is not enough. We need to get away from ownership based on capital to co-onwership based on contributions.</p>
+
+<h1>Starbucks Green Apron Book</h1>
+ <p>They even had a <em>Starbucks Green Apron Book</em>,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
   <div class="_citation">
    <p>The Starbucks Green Apron Book is one of the first things a new Barista gets when they start their job at Starbucks. &hellip; The book is full of great insights into how the company works and how customers should be handled each and ever day. &hellip; Some pages tell of how to get involved in the company, be knowledgeable about the coffee, create a great working environment and what a customer should expect from their Starbucks experience when they enter any store. &hellip; [It] outlines the legendary service Howard Schultz created when making Starbucks what it is today.</p>
     <ul>
@@ -30,7 +32,7 @@ image:    "icon-this-is-why-we-need-a-radical-foundation.svg"
       </ul>
     </ul>
   </div>
- <p>That was then. Today I read what <span class="_bolder">@shansterable@c.im</span> posted this in <span class="_bolder">Mastodon</span>&rsquo;s <a href="https://sfba.social/home">sfba.social</a>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Inspirational, but that was then. But over time, they have become one of the worst employeers around. This is what <span class="_bolder">@shansterable@c.im</span> posted this in <span class="_bolder">Mastodon</span>&rsquo;s <a href="https://sfba.social/home">sfba.social</a> today,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <div class="_citation">
   <p>Howard Schultz’s own family foundation says Starbucks is near the bottom of food and retail employers with respect to how it treats its workers.” In a study of America’s 250 largest companies, funded in part by the Schultz Family Foundation:</p>
    <ul>
@@ -48,6 +50,13 @@ image:    "icon-this-is-why-we-need-a-radical-foundation.svg"
     Mastodon&rsquo;s sfba.social.
     &lt;<a href="https://sfba.social/home" target="_blank">https://sfba.social/home</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    StarbucksMarkDavid.
+    &lt;<a href="https://starbucksmarkdavid.wordpress.com/2011/02/02/green-apron-book/" target="_blank">https://starbucksmarkdavid.wordpress.com/2011/02/02/green-apron-book/</a>&gt;
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
