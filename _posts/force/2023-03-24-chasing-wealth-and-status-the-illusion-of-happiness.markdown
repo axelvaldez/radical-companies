@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Is the Wealth and Status My Job Provides Worth the Existential Dread?"
+title:    "Chasing Wealth and Status: the Illusion of Happiness"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-dread.svg"
+image:    "icon-chasing-wealth-and-status-the-illusion-of-happiness.svg"
 ---
 
 <div style="display:none;">
@@ -16,7 +16,7 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
    <tr>
     <td>
      <img 
-      src="/assets/img/pic-is-the-wealth-and-status-my-job-provides-worth-the-existential-dread.svg"
+      src="/assets/img/pic-chasing-wealth-and-status-the-illusion-of-happiness.svg"
       alt="">
     </td>
    </tr>
