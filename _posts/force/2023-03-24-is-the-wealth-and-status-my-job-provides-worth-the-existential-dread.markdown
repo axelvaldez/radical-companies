@@ -44,7 +44,7 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
    <li>Do you feel fulfilled by your job, or do you feel like you are just going through the motions?</li>
    <li>What are your values and priorities in life, and how does your job align with them?</li>
   </ul>
- <p>Notice that <em>chatGPT</em> never questions the &ldquo;job&rdquo; concept and it assume that you will have a one. It never asks, <span class="_quotespan">Why should I have a job at all?</span> Its language training set assumes that you must exchange yout time and skills for a wage, your life for enough money to not fall into poverty. But working for a wage is the critical question for systemic change.</p>
+ <p>Notice that <em>chatGPT</em> never questions the &ldquo;job&rdquo; concept and it assume that you will have a one. It never asks, <span class="_quotespan">Why should you have a job at all?</span> Its language training set assumes that you must exchange yout time and skills for a wage, your life for enough money to not fall into poverty. But working for a wage is the critical question for systemic change.</p>
  <p>This is the system and we live in. The <span class="_paradigm">FIAT</span> system.</p>
  <p>Indeed, the system has provided rood results: nice houses, amazing medicines, and even electric cars. The <span class="_paradigm">FIAT</span> system has also made a few people extremely wealthy and most of humanity dirt poor; the folks in the middle get wealth and status, live their lives in fear, in existential dread.</p>
 
