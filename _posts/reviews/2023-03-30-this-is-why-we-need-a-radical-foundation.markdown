@@ -1,0 +1,52 @@
+---
+layout:   post
+title:    "This Is Why We Need a <span class='_paradigm'>RADICAL</span> Foundation"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez"
+image:    "icon-this-is-why-we-need-a-radical-foundation.svg"
+---
+
+<div style="display:none;">
+ <p></p>
+</div>
+
+<h1>&nbsp;</h1>
+ <p>This makes me sad. Once upon a time, Starbucks climed to financial success by being the good, benevolent employer. The thing that got the most press is that they paid for health insurance for part-time baristas. They even had a <em>Starbucks Green Apron Book</em>,
+  <div class="_citation">
+   <p>The Starbucks Green Apron Book is one of the first things a new Barista gets when they start their job at Starbucks. &hellip; The book is full of great insights into how the company works and how customers should be handled each and ever day. &hellip; Some pages tell of how to get involved in the company, be knowledgeable about the coffee, create a great working environment and what a customer should expect from their Starbucks experience when they enter any store. &hellip; [It] outlines the legendary service Howard Schultz created when making Starbucks what it is today.</p>
+   <p>Be knowledgeable.</p>
+   <p>Love what you do, share it with others.</p>
+   <p>Be involved. In the store, in the company, in the community.</p>
+   <p>Our Values: Passion for everything we do. Integrity. Entrepreneurial spirit and drive. Pride and success. Respect for our partners.</p>
+   <p>Our Purpose: To provide an uplifting experience that enriches people’s daily lives.</p>
+   <p>Be Welcoming:</p>
+    <ul>
+     <li>Greet customers as they walk through the door.</li>
+     <li>Start a conversation.</li>
+     <li>Get to know customers drinks and names.</li>
+     <li>Ensure that the customer is the number one priority.</li>
+    </ul>
+  </div>
+ <p>That was then. Today I read what <span class="_bolder">@shansterable@c.im</span> posted this in <span class="_bolder">Mastodon</span>&rsquo;s <a href="https://sfba.social/home">sfba.social</a>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <div class="_citation">
+  <p>Howard Schultz’s own family foundation says Starbucks is near the bottom of food and retail employers with respect to how it treats its workers.” In a study of America’s 250 largest companies, funded in part by the Schultz Family Foundation:</p>
+   <ul>
+    <li>Starbucks received the lowest possible rating on its pay and frequency of internal promotion</li>
+    <li>Of the 11 food and retail companies studied, Starbucks ranked second to last regarding pay, promotions, and retention &ndash; worse than Dollar Tree, Walmart, Dollar General, and Kroger and just slightly better than McDonald&rsquo;s</li>
+  <p>Starbucks has engaged in the most significant union-busting campaign in modern history. It has been led by Howard Schultz, the company’s founder and 3-time CEO, who is synonymous with the brand.</p>
+  <p>The National Labor Relations Board (NLRB) has more than 500 pending cases against Starbucks and NLRB judges have found Starbucks has violated the law over 100 times.</p>
+  <p>According to a March 27, 2023, US Senate Health, Education, Labor, and Pensions Committee (HELP) <a href="https://www.sanders.senate.gov/wp-content/uploads/No-Company-is-Above-the-Law-HELP-Report.pdf">report</a>.</p>
+ </div>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    Mastodon&rsquo;s sfba.social.
+    &lt;<a href="https://sfba.social/home" target="_blank">https://sfba.social/home</a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
+
+{% include related.html %}
