@@ -32,7 +32,7 @@ image:    "icon-this-is-why-we-need-a-radical-foundation.svg"
       </ul>
     </ul>
   </div>
- <p>Inspirational, but that was then. But over time, they have become one of the worst employeers around. This is what <span class="_bolder">@shansterable@c.im</span> posted this in <span class="_bolder">Mastodon</span>&rsquo;s <a href="https://sfba.social/home">sfba.social</a> today,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>That was then, but over time, Starbucks became one of the worst employeers around. This is what <span class="_bolder">@shansterable@c.im</span> posted this in <span class="_bolder">Mastodon</span>&rsquo;s <a href="https://sfba.social/home">sfba.social</a> today,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <div class="_citation">
   <p>Howard Schultz’s own family foundation says Starbucks is near the bottom of food and retail employers with respect to how it treats its workers.” In a study of America’s 250 largest companies, funded in part by the Schultz Family Foundation:</p>
    <ul>
@@ -43,6 +43,7 @@ image:    "icon-this-is-why-we-need-a-radical-foundation.svg"
   <p>The National Labor Relations Board (NLRB) has more than 500 pending cases against Starbucks and NLRB judges have found Starbucks has violated the law over 100 times.</p>
   <p>According to a March 27, 2023, US Senate Health, Education, Labor, and Pensions Committee (HELP) <a href="https://www.sanders.senate.gov/wp-content/uploads/No-Company-is-Above-the-Law-HELP-Report.pdf">report</a>.</p>
  </div>
+ <p>This shows that co-management <em>is not enough</em>. It is inspirational. Values and Purpose sound good. But whether they apply or not, it is up to the ownwers. And when a business like Starbucks uber focus on the financial bottom line, values and purpose and all that remains is the financial goal. And then, like Starbucks, they quietly go from good to "who cares" employer. We need to get away from ownership based on capital and towards co-ownership which is based on contributions.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
