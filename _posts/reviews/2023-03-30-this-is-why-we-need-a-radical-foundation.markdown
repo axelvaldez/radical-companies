@@ -11,7 +11,7 @@ image:    "icon-this-is-why-we-need-a-radical-foundation.svg"
 </div>
 
 <h1>Sad</h1>
- <p>This makes me sad because once upon a time, Starbucks climed to financial success by being the good, benevolent employer. The thing that got the most press is that they paid for health  insurance for part-time baristas. This shows why co-management is not enough. We need to get away from ownership based on capital to co-onwership based on contributions.</p> 
+ <p>This makes me sad because once upon a time, Starbucks was the good, generous employer. The thing that got the most press is that they paid for health  insurance for part-time baristas. This shows why co-management is not enough. We need to get away from ownership based on capital to co-onwership based on contributions.</p> 
  <p>They even had a <em>Starbucks Green Apron Book</em>,
   <div class="_citation">
    <p>The Starbucks Green Apron Book is one of the first things a new Barista gets when they start their job at Starbucks. &hellip; The book is full of great insights into how the company works and how customers should be handled each and ever day. &hellip; Some pages tell of how to get involved in the company, be knowledgeable about the coffee, create a great working environment and what a customer should expect from their Starbucks experience when they enter any store. &hellip; [It] outlines the legendary service Howard Schultz created when making Starbucks what it is today.</p>
