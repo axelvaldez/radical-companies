@@ -38,6 +38,7 @@ image:    "icon-this-is-why-we-need-a-radical-foundation.svg"
    <ul>
     <li>Starbucks received the lowest possible rating on its pay and frequency of internal promotion</li>
     <li>Of the 11 food and retail companies studied, Starbucks ranked second to last regarding pay, promotions, and retention &ndash; worse than Dollar Tree, Walmart, Dollar General, and Kroger and just slightly better than McDonald&rsquo;s</li>
+   </ul>
   <p>Starbucks has engaged in the most significant union-busting campaign in modern history. It has been led by Howard Schultz, the company’s founder and 3-time CEO, who is synonymous with the brand.</p>
   <p>The National Labor Relations Board (NLRB) has more than 500 pending cases against Starbucks and NLRB judges have found Starbucks has violated the law over 100 times.</p>
   <p>According to a March 27, 2023, US Senate Health, Education, Labor, and Pensions Committee (HELP) <a href="https://www.sanders.senate.gov/wp-content/uploads/No-Company-is-Above-the-Law-HELP-Report.pdf">report</a>.</p>
