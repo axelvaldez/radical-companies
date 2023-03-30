@@ -41,7 +41,7 @@ image:    "icon-this-is-why-we-need-a-radical-foundation.svg"
    </ul>
   <p>Starbucks has engaged in the most significant union-busting campaign in modern history. It has been led by Howard Schultz, the company’s founder and 3-time CEO, who is synonymous with the brand.</p>
   <p>The National Labor Relations Board (NLRB) has more than 500 pending cases against Starbucks and NLRB judges have found Starbucks has violated the law over 100 times.</p>
-  <p>According to a March 27, 2023, US Senate Health, Education, Labor, and Pensions Committee (HELP) <a href="https://www.sanders.senate.gov/wp-content/uploads/No-Company-is-Above-the-Law-HELP-Report.pdf">report</a>.</p>
+  <p>According to a March 27, 2023, <a href="https://www.sanders.senate.gov/wp-content/uploads/No-Company-is-Above-the-Law-HELP-Report.pdf" target="_blank">US Senate Health, Education, Labor, and Pensions Committee (HELP) report</a>.</p>
  </div>
  <p>This shows that co-management <em>is not enough</em>. It is inspirational. Values and Purpose sound good. But whether they apply or not, it is up to the ownwers. And when a business like Starbucks uber focus on the financial bottom line, values and purpose and all that remains is the financial goal. And then, like Starbucks, they quietly go from good to "who cares" employer. We need to get away from ownership based on capital and towards co-ownership which is based on contributions.</p>
 
