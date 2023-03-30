@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Good & Bad, <span class='_paradigm'>RADICAL</span> & <span class='_paradigm'>FIAT</span>"
+title:    "Getting <span class='_paradigm'>RADICAL</span>: A New System for Creating Wealth and Meaning"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal, Cristina Imre"
-image:    "icon-good-bad-radical-fiat.svg"
+image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg"
 ---
 
 <div style="display:none;">
