@@ -10,21 +10,24 @@ image:    "icon-this-is-why-we-need-a-radical-foundation.svg"
  <p></p>
 </div>
 
-<h1>&nbsp;</h1>
- <p>This makes me sad. Once upon a time, Starbucks climed to financial success by being the good, benevolent employer. The thing that got the most press is that they paid for health insurance for part-time baristas. They even had a <em>Starbucks Green Apron Book</em>,
+<h1>Sad</h1>
+ <p>This makes me sad because once upon a time, Starbucks climed to financial success by being the good, benevolent employer. The thing that got the most press is that they paid for health insurance for part-time baristas.</p>
+ <p>They even had a <em>Starbucks Green Apron Book</em>,
   <div class="_citation">
    <p>The Starbucks Green Apron Book is one of the first things a new Barista gets when they start their job at Starbucks. &hellip; The book is full of great insights into how the company works and how customers should be handled each and ever day. &hellip; Some pages tell of how to get involved in the company, be knowledgeable about the coffee, create a great working environment and what a customer should expect from their Starbucks experience when they enter any store. &hellip; [It] outlines the legendary service Howard Schultz created when making Starbucks what it is today.</p>
-   <p>Be knowledgeable.</p>
-   <p>Love what you do, share it with others.</p>
-   <p>Be involved. In the store, in the company, in the community.</p>
-   <p>Our Values: Passion for everything we do. Integrity. Entrepreneurial spirit and drive. Pride and success. Respect for our partners.</p>
-   <p>Our Purpose: To provide an uplifting experience that enriches people’s daily lives.</p>
-   <p>Be Welcoming:</p>
     <ul>
-     <li>Greet customers as they walk through the door.</li>
-     <li>Start a conversation.</li>
-     <li>Get to know customers drinks and names.</li>
-     <li>Ensure that the customer is the number one priority.</li>
+     <li>Be knowledgeable.</li>
+     <li>Love what you do, share it with others.</li>
+     <li>Be involved. In the store, in the company, in the community.</li>
+     <li>Our Values: Passion for everything we do. Integrity. Entrepreneurial spirit and drive. Pride and success. Respect for our partners.</li>
+     <li>Our Purpose: To provide an uplifting experience that enriches people’s daily lives.</li>
+     <li>Be Welcoming:</li>
+      <ul>
+       <li>Greet customers as they walk through the door.</li>
+       <li>Start a conversation.</li>
+       <li>Get to know customers drinks and names.</li>
+       <li>Ensure that the customer is the number one priority.</li>
+      </ul>
     </ul>
   </div>
  <p>That was then. Today I read what <span class="_bolder">@shansterable@c.im</span> posted this in <span class="_bolder">Mastodon</span>&rsquo;s <a href="https://sfba.social/home">sfba.social</a>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
