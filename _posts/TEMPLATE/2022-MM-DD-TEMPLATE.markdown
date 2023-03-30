@@ -15,7 +15,7 @@ image:    "icon-ptsd-and-trust.svg"
 
 {% include related.html %}
 
-<!-- footnote -->
+<!-- Endnotes URL -->
 <h1></h1>
  <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
 
@@ -160,10 +160,6 @@ image:    "icon-ptsd-and-trust.svg"
  <span style="float:left;  "><a href="https://radicalcompanies.com/">Previous &lt;</a></span>
  <span style="float:right; "><a href="https://radicalcompanies.com/">    &gt; Next</a></span>
 </div>
-
-<!-- Endnotes URL -->
-<h1></h1>
- <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
 
 <h1>For More References, See,</h1>
   <ul>
