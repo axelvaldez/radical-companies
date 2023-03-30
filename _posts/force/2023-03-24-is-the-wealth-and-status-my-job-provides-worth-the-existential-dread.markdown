@@ -34,7 +34,7 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
 
 <h1>Existential Dread</h1>
  <p>Tapping one more time into the collective wisdom that is <em>chatGPT</em>, <span class="_quotespan">Existential dread is a feeling of uncertainty, anxiety, or despair about the meaning and purpose of one's life. It can be triggered by various factors, including the sense of emptiness or disconnection from one's work or the world around them.</span></p>
- <p>It recomends that you ask yourself certain questions&hellip;</p>
+ <p>It recommends that you ask yourself certain questions&hellip;</p>
 
 <h1>Questions, Questions</h1>
  <p><em>ChatGPT</em> suggests these questions,</p>
