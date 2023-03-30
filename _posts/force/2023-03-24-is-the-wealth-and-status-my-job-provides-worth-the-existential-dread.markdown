@@ -37,7 +37,7 @@ image:    "icon-is-the-wealth-and-status-my-job-provides-worth-the-existential-d
  <p>It recomends that you ask yourself certain questions&hellip;</p>
 
 <h1>Questions, Questions</h1>
- <p>ChatGPT asks,</p>
+ <p><em>ChatGPT</em> suggests,</p>
   <ul>
    <li>Are you satisfied with your current lifestyle and financial situation, or do you feel that you need to maintain a certain level of wealth and status to be happy?</li>
    <li>Are you passionate about your job, or is it just a means to an end?</li>
