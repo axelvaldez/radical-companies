@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "This Is Why We Need a <span class='_paradigm'>RADICAL</span> Foundation"
+title:    "From Green Aprons to Union-Busting: The Story of Starbucks' Employee Relations"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-this-is-why-we-need-a-radical-foundation.svg"
+image:    "icon-from-green-aprons-to-union-bustin-the-story-of-starbucks-employee-relations.svg"
 ---
 
 <div style="display:none;">
