@@ -29,9 +29,17 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
  <p>As we were talking about all this, Bindu mentioned that we need is <span class="_quotespan">a patient-centric halthcare system, not the money-making sickcare system we have today.</span> She warned that <span class="_quotespan">it will take a long time to do so.</span></p>
  <p>As we continued talking, it became apparent to us that co-ownership could be part of making this happen. But rather than thinking about &ldquo;policies&rdquo; and such, it would be more effective to take a <span class="_paradigm">RADICAL</span> approach. That has the potential to make it faster.</p>
 
-<h1>Speculation</h1>
- <p></p>
- <p>
+<h1>Speculation</h1></p>
+ <p>This is my speculation of what a <span class="_paradigm">RADICAL</span> healthcare system would look like.</p>
+ <p>Where I grew up, we paid a monthly fee for our healthcare to a local clinic (a block and a half from our house). Anything they could not handle, they referred us to specialists and we paid nothing or very little. My family could afford that on a teacher&rsquo;s salary and my paternal grandparents, who were retired, could afford as well.</p>
+ <p>So, what if,</p>
+  <ul>
+   <li>If we formed a healthcare company.</li>
+   <li>Everyone who wanted to be a patient, would also be an &ldquo;employee.&rsquo; and also a co-ownwer.</li>
+   <li>Physicians and other medical staff would also be co-owners, too.</li>
+   <li>Everyone would have the ability to give <span class="_paradigm">RAD</span>s to other co-owners, based on their contributions.</li>
+   <li>Evertibe would have the ability to pledge their <span class="_paradigm">RAD</span>s to <span class="_paradigm">BANNER</span>s. Pledging mean that whatever the <span class="_paradigm">RAD</span>s yield (money) goes to the <span class="_paradigm">BANNER</span>.</li>
+  </ul>
 
 {% include related.html %}
 
