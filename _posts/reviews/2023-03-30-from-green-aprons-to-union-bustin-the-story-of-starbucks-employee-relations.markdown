@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "From Green Aprons to Union-Busting: The Story of Starbucks&rsquo; Employee Relations"
+title:    "Starbuck, Once a Good Employers, Now at the Bottome of the List"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-from-green-aprons-to-union-bustin-the-story-of-starbucks-employee-relations.svg"
+image:    "icon-starbucks-once-a-good-employer-now-at-the-bottom-of-the-list.svg"
 ---
 
 <div style="display:none;">
