@@ -23,7 +23,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
 
 <h1>Re-Start</h1>
  <p>As we were talking about all this, Bindu mentioned that we need is <span class="_quotespan">a patient-centric halthcare system, not the money-making sickcare system we have today.</span> She warned that <span class="_quotespan">it will take a long time to do so.</span></p>
- <p>As we continued talking, it became apparent to us that co-ownership could be part of making this happen. But rather than thinking about &ldquo;policies&rdquo; and such, I think it woud be more effective to take a <span class="_paradigm">RADICAL</span> approach. That has the potential to make it faster.</p>
+ <p>As we continued talking, it became apparent to us that co-ownership could be part of making this happen. But rather than thinking about &ldquo;policies&rdquo; and such, it would be more effective to take a <span class="_paradigm">RADICAL</span> approach. That has the potential to make it faster.</p>
 
 {% include related.html %}
 
