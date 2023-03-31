@@ -18,6 +18,8 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
  <p>Besides the dollar savings this results in trials that include people of color (PoC), which are normally not included because trials have not been designed for inclusivity. The result is that today most of the drugs available are not been tested for PoC side-effects.</p>
 
 <h1>Lieracy</h1>
+ <p>Bindu also menationed that we need health literacy, we need to learn to weight different therapies and have a conversation with phycisians. We need to ask good, informed questions of physicians, not just what we read on Dr Google.</p>
+ <p>That lead Jose to mentioned that we also need &ldquo;death literacy&rdquo;, and bring death out of the closet. It is part of life, you are born and then you die. We need to normalize death and learn to talk about it without fear.</p>
 
 <h1>Sickcare</h1>
  <p>What also talked about the care we have today which Bindu called <em>sickcare</em>, which is what we really have today.</p>
