@@ -15,7 +15,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
 
 <h1>rHatchery.live</h1>
  <p>In the <em>rHatchery.live</em> podcast, Bindu Kalesan, Epidemiologist and founder of Tury Health, talked about her startup. She mentioned that they can bring the costs of clinical trials to one-tenth of what they are today, at $30,000. They can do that by making the trial patient-centric rather than focused on location or anything else.</p>
- <p>Besides the dollar savings this results in trials that include people of color (PoC), which are normally not included in these trials. And it is not so much by virtue of a consirancy but because trials have not bee designed for incusivity. The result is that today most of the drungs available are mum on PoC side-effects.</p>
+ <p>Besides the dollar savings this results in trials that include people of color (PoC), which are normally not included because trials have not been designed for inclusivity. The result is that today most of the drugs available are not been tested for PoC side-effects.</p>
 
 <h1>Sickcare</h1>
  <p>What also talked about the care we have today which Bindu called sickcare, which is what we really have today.</p>
