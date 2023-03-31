@@ -17,7 +17,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
  <p>In the <em>rHatchery.live</em> podcast, Bindu Kalesan, Epidemiologist and founder of Tury Health, talked about her startup. She mentioned that they can bring the costs of clinical trials to one-tenth of what they are today, at $30,000. They can do that by making the trial patient-centric rather than focused on location or anything else.</p>
  <p>Besides the dollar savings this results in trials that include people of color (PoC), which are normally not included because trials have not been designed for inclusivity. The result is that today most of the drugs available are not been tested for PoC side-effects.</p>
 
-<h1>Lieracy</h1>
+<h1>Literacy</h1>
  <p>Bindu also menationed that we need health literacy, we need to learn to weight different therapies and have a conversation with phycisians. We need to ask good, informed questions of physicians, not just what we read on Dr Google.</p>
  <p>That lead Jose to mentioned that we also need &ldquo;death literacy&rdquo;, and bring death out of the closet. It is part of life, you are born and then you die. We need to normalize death and learn to talk about it without fear.</p>
 
