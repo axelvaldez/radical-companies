@@ -22,7 +22,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
  <p>If don&rsquo;t feel well, you go the doctor&rsquo;s office. Fifteen-minute per patient, which is what insurace businesses pushes physician to do, does not give a physician time to do anything but a cursory examination followed by a covered prescription. I am lucky that my own family doctor does not care about making lots of money, but it&rsquo;s just my lucky-me luck. Physicians getting started now are under intense pressure to dance to the insurance business music.</p>
 
 <h1>Press Re-Start</h1>
- <p>As we were talking about all this, Bindu mentioned that we need is <span class="_quotespan">a patiennt-centric halthcare system, not a money-making sickcare.</p>
+ <p>As we were talking about all this, Bindu mentioned that we need is <span class="_quotespan">a patiennt-centric halthcare system, not a money-making sickcare.</span></p>
 
 {% include related.html %}
 
