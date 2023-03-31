@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "From Green Aprons to Union-Busting: The Story of Starbucks' Employee Relations"
+title:    "From Green Aprons to Union-Busting: The Story of Starbucks&rsquo; Employee Relations"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-from-green-aprons-to-union-bustin-the-story-of-starbucks-employee-relations.svg"
