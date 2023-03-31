@@ -38,6 +38,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
    <li>Everyone would have the ability to give <span class="_paradigm">RAD</span>s to other co-owners, based on their contributions.</li>
    <li>Evertibe would have the ability to pledge their <span class="_paradigm">RAD</span>s to <span class="_paradigm">BANNER</span>s. Pledging mean that whatever the <span class="_paradigm">RAD</span>s yield (money) goes to the <span class="_paradigm">BANNER</span>.</li>
   </ul>
+ <p></p>
  <p>Where I grew up, we paid a monthly fee for our healthcare to a local clinic (a block and a half from our house). Anything they could not handle, they referred us to specialists and we paid nothing or very little. My family could afford that on a teacher&rsquo;s salary and my paternal grandparents, who were retired, could afford as well.</p>
 
 {% include related.html %}
