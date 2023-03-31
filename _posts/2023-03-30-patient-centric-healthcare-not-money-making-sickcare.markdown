@@ -21,7 +21,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
  <p>What also talked about the care we have today which Bindu called <em>sickcare</em>, which is what we really have today.</p>
  <p>If don&rsquo;t feel well, you go the doctor&rsquo;s office. Fifteen-minute per patient, which is what insurace businesses pushes physician to do, does not give a physician time to do anything but a cursory examination followed by a covered prescription. I am lucky that my own family doctor does not care about making lots of money, but it&rsquo;s just my lucky-me luck. Physicians getting started now are under intense pressure to dance to the insurance business music.</p>
 
-<h1>Press Re-Start</h1>
+<h1>Re-Start</h1>
  <p>As we were talking about all this, Bindu mentioned that we need is <span class="_quotespan">a patient-centric halthcare system, not the money-making sickcare system we have today.</span> She warned that <span class="_quotespan">it will take a long time to do so.</span></p>
  <p>As we continued talking, it became apparent that co-ownership could be part of doing it. But rather than thinking about &rdquo;policies&ldquo; and such, I think it woud be more effective to take a <span class="_paradigm">RADICAL</span> approach. That has the potential to make it faster.</p>
 
