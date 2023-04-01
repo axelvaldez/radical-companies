@@ -14,7 +14,7 @@ image:    "icon-patient-centric-healthcare-vs-money-making-sickcare.svg"
  <p>Patient-centric healthcare is what we want. Money-making sickcare is what we have.</p>
 
 <h1>rHatchery.live</h1>
- <p>In a <em>rHatchery.live</em> podcast, Bindu Kalesan, Epidemiologist and founder of Tury Health, talked about her startup.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> She mentioned that they can bring the costs of clinical trials to one-tenth of what they are today, at $30,000. They can do that by making the trial patient-centric rather than focused on location or anything else.</p>
+ <p>In a <em>rHatchery.live</em> podcast, Bindu Kalesan, Epidemiologist and founder of Tury Health, talked about her startup.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> She mentioned that they can bring the costs of clinical trials to one-tenth of what they are today, at $30M each. They can do that by making the trial patient-centric rather than focused on location or anything else.</p>
  <p>Besides the dollar savings this results in trials that include people of color (PoC), which are normally not included because trials have not been designed for inclusivity. The result is that today most of the drugs available are not been tested for PoC side-effects.</p>
 
 <h1>Literacy</h1>
@@ -29,7 +29,7 @@ image:    "icon-patient-centric-healthcare-vs-money-making-sickcare.svg"
  <p>As we were talking about all this, Bindu mentioned that we need is <span class="_quotespan">a patient-centric halthcare system, not the money-making sickcare system we have today.</span> She warned that <span class="_quotespan">it will take a long time to do so.</span></p>
  <p>As we continued talking, it became apparent to us that co-ownership could be part of making this happen. But rather than thinking about &ldquo;policies&rdquo; and such, it would be more effective to take a <span class="_paradigm">RADICAL</span> approach. That has the potential to make it faster.</p>
 
-<h1>Speculation</h1>
+<h1>Speculation, Mostly</h1>
  <p>Imagine what a <span class="_paradigm">RADICAL</span> healthcare system would look like,</p>
   <ul>
    <li>We form a <span class="_paradigm">RADICAL</span> healthcare company.</li>
@@ -38,7 +38,7 @@ image:    "icon-patient-centric-healthcare-vs-money-making-sickcare.svg"
    <li>Everyone would have the ability to give <span class="_paradigm">RAD</span>s to other co-owners, based on their contributions.</li>
    <li>Evertibe would have the ability to pledge their <span class="_paradigm">RAD</span>s to <span class="_paradigm">BANNER</span>s. Pledging mean that whatever the <span class="_paradigm">RAD</span>s yield (money) goes to the <span class="_paradigm">BANNER</span>.</li>
   </ul>
- <p>The above steps is what happens in a traditional <span class="_paradigm">RADICAL</span> company. Onwership is decentralized among co-owners based on their <em>contributions</em>, whereas traditinal businesses based their ownership on the <em>capital</em> that each owner puts on the table.</p>
+ <p>The above steps is what happens in a <span class="_paradigm">RADICAL</span> company. Onwership is decentralized among co-owners based on their <em>contributions</em>, whereas traditinal businesses based their ownership on the <em>capital</em> that each owner brings to the table.</p>
  <p>BTW, each co-owner&rsquo;s contributions is recognized by other co-owners, not a boss or any such.</p>
 
 <h1><span class="_paradigm">RAD</span>s for Medical Services</h1>
@@ -124,6 +124,19 @@ image:    "icon-patient-centric-healthcare-vs-money-making-sickcare.svg"
     2023.
     &lt;<a href="https://www.youtube.com/watch?v=Sbnl4OrDW2k" target="_blank">https://www.youtube.com/watch?v=Sbnl4OrDW2k</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    David E Duncan.
+    <em>The Phenomics Revolution</em>.
+    December 7, 2022.
+    &lt;<a href="https://radicals.world/rXsLMf" target="_blank">https://radicals.world/rXsLMf</a>&gt;
+    <br>
+    <em>Phenomics</em>.
+    Wikipedia.
+    &lt;<a href="https://en.wikipedia.org/wiki/Phenomics" target="_blank">https://en.wikipedia.org/wiki/Phenomics</a>&gt;
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
