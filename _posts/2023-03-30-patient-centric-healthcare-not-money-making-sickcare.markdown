@@ -75,4 +75,15 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
 <h1>A Short Story</h1>
   <p>Where I grew up, we paid a monthly fee for our healthcare to a local clinic (a block and a half from our house). Anything they could not handle, they referred us to specialists and we paid nothing or very little. My family could afford that on a teacher’s salary and my paternal grandparents, who were retired, could afford as well.</p>
 
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    StartSOLE.
+    &lt;<a href="https://startsole.org/" target="_blank">https://startsole.org/</a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
+
 {% include related.html %}
