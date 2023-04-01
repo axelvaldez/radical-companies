@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Power, Capital, and Contributions"
+title:    "Capital versus Contributions"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-capital-versus-recognized-contributions.svg"
+image:    "icon-capital-versus-contributions.svg"
 ---
 
 <div style="display:none;">
