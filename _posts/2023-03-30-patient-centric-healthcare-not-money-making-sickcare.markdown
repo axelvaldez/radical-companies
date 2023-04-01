@@ -81,21 +81,21 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
 <h1><span class="_paradigm">RAD</span>s?</h1>
  <p>First, let&rsquo;s explain what <span class="_paradigm">RAD</span>s are,</p>
   <ul>
-   <li>Given for recognized contributions.</li>
-   <li>Co-owners recognize each other contributions and give <span class="_paradigm">RAD</span>s to each other. Remember, that there isn&rsquo;t a boss to give <span class="_paradigm">RAD</span>s.</li>
-   <li>It more effective to have many co-owners recognize contributions. When it is all said and done, the ability of many people to recognize contributions from may angles is more balnced perceived aa more <em>fair</em> by the co-owners as whole.</li>
-   <li>All RADs transactions are transparent, everyone can see who got what. If any co-owner notices some &ldquo;suspicious&rdquo;, they can and will ask.</li>
+   <li>Co-owners recognize each other&rsquo;s contributions and give <span class="_paradigm">RAD</span>s to each other.</li>
+   <li>It is more effective to have many co-owners recognize contributions. They can recognize contributions from may angles and it is more balanced and perceived as <em>fairer</em> by all co-owners.</li>
+   <li>All RADs transactions are transparent, everyone can see who got what. If any co-owner notices something that looks &ldquo;suspicious&rdquo;, they can, and will, ask.</li>
    <li>Co-owners get one <span class="_paradigm">RAD</span> per day, not to keep but to give to other co-owners.</li>
    <li>There is a <em><span class="_paradigm">RAD</span>s!</em> mobile app that converts the recognized contributions to <span class="_paradigm">RAD</span>s.</li>
-   <li><span class="_paradigm">RAD</span>s are used to distribute money or any other tangible goodie. The more <span class="_paradigm">RAD</span>s you have, the more of the goodie you get or, as in this case, the more <span class="_paradigm">RAD</span>s you have the lower you membership. The point is that <span class="_paradigm">RAD</span>s from your peer co-owners <em>are tangible</em>, not empty attaboys from the boss.</li>
+   <li><span class="_paradigm">RAD</span>s are later used to distribute money or any other tangible goodie.</li>
+   <li><span class="_paradigm">RAD</span>s from your peer co-owners <em>are tangible</em>, not empty pats in the back from a boss.</li>
   </ul>
- <p>People will pay a membership fee to become patient/co-owners.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> <span class="_paradigm">RAD</span>s will be used to calculate peoples&rsquo; membership fee (<em>e.g.</em>, the more <span class="_paradigm">RAD</span>s you have, the less you pay).</p>
+ <p>People will pay a membership fee to become patient/co-owners.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> <span class="_paradigm">RAD</span>s will be used to calculate this membership fee (<em>e.g.</em>, the more <span class="_paradigm">RAD</span>s you have, the less you pay).</p>
   <ul>
    <li>The medical staff/co-owner would get the most <span class="_paradigm">RAD</span>s which means that they will end up not paying a membership fee.</li>
-   <li>The patient/co-owner would earn <span class="_paradigm">RAD</span>s from participatin in literacy SOLE and other activities (see <a href="rads-for-other-activities">above</a>).</li>
-   <li>The most active patient/co-owner contributors will get a lot of <span class="_paradigm">RAD</span>s and their fees will go down accordingly. The inactive patient/co-owners would pay more for their membership.</li>
-   <li>Keep in mind that the ultimate goal is not capital growth, but the <em>health</em> of the community.</li>
+   <li>Patient/co-owners would earn <span class="_paradigm">RAD</span>s from participatin in literacy power ups and other activities (see <a href="rads-for-other-activities">above</a>).</li>
+   <li>The most active patient/co-owner contributors will get a lot of <span class="_paradigm">RAD</span>s and their fees will go down accordingly. This mean that inactive patient/co-owners will probably pay more for their membership.</li>
   </ul>
+ <p>Keep in mind that the ultimate goal is not capital growth, but the <em>health</em> of the community.</p>
 
 <!--
 <h1>A Short Story</h1>
