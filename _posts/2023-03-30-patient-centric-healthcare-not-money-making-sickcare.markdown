@@ -72,4 +72,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
    <li>Keep in mind that the ultimate goal is not <em>capital growth</em>, but healthcare.</li>
   </ul>
 
+<h1>A Short Story</h1>
+  <p>Where I grew up, we paid a monthly fee for our healthcare to a local clinic (a block and a half from our house). Anything they could not handle, they referred us to specialists and we paid nothing or very little. My family could afford that on a teacher’s salary and my paternal grandparents, who were retired, could afford as well.</p>
+
 {% include related.html %}
