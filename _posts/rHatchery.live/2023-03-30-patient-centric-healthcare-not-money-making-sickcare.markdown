@@ -91,7 +91,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
   </ul>
  <p><span class="_paradigm">RAD</span>s affect the membership fee,</p>
   <ul>
-   <li>The medical staff/co-owner would get the most <span class="_paradigm">RAD</span>s which means that they will end up not paying a membership fee.</li>
+   <li>The medical staff/co-owners would get the most <span class="_paradigm">RAD</span>s which means that they will end up not paying a membership fee.</li>
    <li>Patient/co-owners would earn <span class="_paradigm">RAD</span>s from participatin in literacy power ups and other activities (see <a href="rads-for-other-activities">above</a>).</li>
    <li>The most active patient/co-owner contributors will get a lot of <span class="_paradigm">RAD</span>s and their fees will go down accordingly.</li>
    <li>This may mean that inactive patient/co-owners will probably pay more for their membership.</li>
