@@ -73,7 +73,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
    </tr>
    <tr>
     <th>Sharing</th>
-    <td>For example, going to schools and workplaces to talk about what you have learned in SOLEs (and spread the word about the healthcare company).</td>
+    <td>For example, going to schools and workplaces to talk about what you have learned (and spread the word about the healthcare company).</td>
    </tr>
   </table>
  </div>
