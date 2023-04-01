@@ -89,7 +89,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
    <li>There is a <em><span class="_paradigm">RAD</span>s!</em> mobile app that converts the recognized contributions to <span class="_paradigm">RAD</span>s.</li>
    <li><span class="_paradigm">RAD</span>s are used to distribute money or any other tangible goodie. The more <span class="_paradigm">RAD</span>s you have, the more of the goodie you get or, as in this case, the more <span class="_paradigm">RAD</span>s you have the lower you membership. The point is that <span class="_paradigm">RAD</span>s from your peer co-owners <em>are tangible</em>, not empty attaboys from the boss.</li>
   </ul>
- <p>People, will have to pay a membership fee to become patient/co-owners. At least that what I can think of now. <span class="_paradigm">RAD</span>s will be used in calculating the membership fee: the more <span class="_paradigm">RAD</span>s you have the less you pay. In any case, something along those lines.</p>
+ <p>People will pay a membership fee to become patient/co-owners.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> <span class="_paradigm">RAD</span>s will be used to calculate peoples&rsquo; membership fee: the more <span class="_paradigm">RAD</span>s you have the less you pay (or something along those lines).</p>
   <ul>
    <li>The medical staff/co-owner would get the most <span class="_paradigm">RAD</span>s which means that they will end up not paying a membership fee.</li>
    <li>The patient/co-owner would earn <span class="_paradigm">RAD</span>s from participatin in literacy SOLE and other activities (see <a href="rads-for-other-activities">above</a>).</li>
@@ -114,6 +114,12 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
     TEDxTalk.
     &lt;<a href="https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en" target="_blank">https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    At least that what I can think of now.
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
