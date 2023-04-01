@@ -50,7 +50,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
  <p>The patients/co-owners would deliver literacy. Healthcare literacy, death literacy, etc.</p>
  <p>For example, StartSOLE<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> is pretty simple,</p>
   <ul>
-   <li>Somebody brings people to ask questoions and learn.</li>
+   <li>Somebody brings people together to ask questoions and learn.</li>
    <li>This role is called a <em>granny</em> in the StartSOLE program. Of course, &ldquo;granny&rdquo; can be of any gender.</li>
    <li>She is not a teacher or any kind of expert, just somebody who is interested in the subject.</li>
    <li>In any case, she does not wants to <em>control</em> the flow of information.</li>
