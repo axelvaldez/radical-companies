@@ -86,7 +86,6 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
    <li>Co-owners get one <span class="_paradigm">RAD</span> per day, not to keep but to give to other co-owners.</li>
    <li>There is a <em><span class="_paradigm">RAD</span>s!</em> mobile app that converts the recognized contributions to <span class="_paradigm">RAD</span>s.</li>
    <li><span class="_paradigm">RAD</span>s are used to distribute money or any other tangible goodie. The more <span class="_paradigm">RAD</span>s you have, the more of the goodie you get or, as in this case, the more <span class="_paradigm">RAD</span>s you have the lower you membership. The point is that <span class="_paradigm">RAD</span>s from your peer co-owners <em>are tangible</em>, not empty attaboys from the boss.</li>
-   <li>
   </ul>
  <p>People, will have to pay a membership fee to become patient/co-owners. At least that what I can think of now. <span class="_paradigm">RAD</span>s will be used in calculating the membership fee: the more <span class="_paradigm">RAD</span>s you have the less you pay. In any case, something along those lines.</p>
   <ul>
