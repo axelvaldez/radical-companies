@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Starbuck, Once a Good Employer, Now at the Bottome of the List"
+title:    "Starbuck, Once a Good Employer, Now at the Bottom of the List"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-starbucks-once-a-good-employer-now-at-the-bottom-of-the-list.svg"
