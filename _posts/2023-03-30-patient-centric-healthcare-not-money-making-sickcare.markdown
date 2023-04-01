@@ -71,8 +71,8 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
     <td>This is not about body shaming, but weight is a known co-morbidity. In other words, it makes other illnesses worse.</td>
    </tr>
    <tr>
-    <th>Sharing What You Learned.</th>
-    <td>For example, going to schools to talk about what you have learned in SOLEs.</td>
+    <th>Sharing</th>
+    <td>For example, going to schools and workplaces to talk about what you have learned in SOLEs (and spread the word about the healthcare company).</td>
    </tr>
   </table>
  </div>
