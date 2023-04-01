@@ -81,8 +81,8 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
  <p><span class="_paradigm">RAD</span>s are,</p>
   <ul>
    <li>Given for recognized contributions.</li>
-   <li>Co-owners recognize each other contributions and give <span class="_paradigm">RAD</span>s to each other. Remember, that there isn&rsquo;t a boss to do this. Besides a boss is a person, and people are biased in many ways.</li>
-   <li>It works out better to have many people, all co-owners, to recognize contributions in their own biased way. When it is all said and done, the ability of many people to recognize contributions from may angles is more balnced perceived aa more <em>fair</em>.</li>
+   <li>Co-owners recognize each other contributions and give <span class="_paradigm">RAD</span>s to each other. Remember, that there isn&rsquo;t a boss to give <span class="_paradigm">RAD</span>s.</li>
+   <li>It more effective to have many people, all co-owners, to recognize contributions in their own biased way. When it is all said and done, the ability of many people to recognize contributions from may angles is more balnced perceived aa more <em>fair</em>.</li>
    <li>Co-owners get one <span class="_paradigm">RAD</span> per day, not to keep but to give to other co-owners.</li>
    <li>There is a <em><span class="_paradigm">RAD</span>s!</em> mobile app that converts the recognized contributions to <span class="_paradigm">RAD</span>s.</li>
    <li><span class="_paradigm">RAD</span>s are used to distribute money or any other tangible goodie. The more <span class="_paradigm">RAD</span>s you have, the more of the goodie you get or, as in this case, the more <span class="_paradigm">RAD</span>s you have the lower you membership. The point is that <span class="_paradigm">RAD</span>s from your peer co-owners <em>are tangible</em>, not empty attaboys from the boss.</li>
