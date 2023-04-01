@@ -89,7 +89,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
    <li><span class="_paradigm">RAD</span>s are later used to distribute money or any other tangible goodie.</li>
    <li><span class="_paradigm">RAD</span>s from your peer co-owners <em>are tangible</em>, not empty pats in the back from a boss.</li>
   </ul>
- <p>People will pay a membership fee to become patient/co-owners.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> <span class="_paradigm">RAD</span>s will be used to calculate this membership fee (<em>e.g.</em>, the more <span class="_paradigm">RAD</span>s you have, the less you pay).</p>
+ <p><span class="_paradigm">RAD</span>s will be used to calculate this membership fee (<em>e.g.</em>, the more <span class="_paradigm">RAD</span>s you have, the less you pay).</p>
   <ul>
    <li>The medical staff/co-owner would get the most <span class="_paradigm">RAD</span>s which means that they will end up not paying a membership fee.</li>
    <li>Patient/co-owners would earn <span class="_paradigm">RAD</span>s from participatin in literacy power ups and other activities (see <a href="rads-for-other-activities">above</a>).</li>
@@ -115,13 +115,6 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
     &lt;<a href="https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en" target="_blank">https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
-  </li>
-  <li id="en02">
-   <p class="_list-item">
-    At least that what I can think of now.
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
  </ul>
 
 {% include related.html %}
