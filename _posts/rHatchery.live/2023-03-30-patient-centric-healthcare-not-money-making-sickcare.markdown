@@ -89,7 +89,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
    <li><span class="_paradigm">RAD</span>s are later used to distribute money or any other tangible goodie.</li>
    <li><span class="_paradigm">RAD</span>s from your peer co-owners <em>are tangible</em>, not empty pats in the back from a boss.</li>
   </ul>
- <p><span class="_paradigm">RAD</span>s will impact the membership fee,</p>
+ <p><span class="_paradigm">RAD</span>s affect the membership fee,</p>
   <ul>
    <li>The medical staff/co-owner would get the most <span class="_paradigm">RAD</span>s which means that they will end up not paying a membership fee.</li>
    <li>Patient/co-owners would earn <span class="_paradigm">RAD</span>s from participatin in literacy power ups and other activities (see <a href="rads-for-other-activities">above</a>).</li>
