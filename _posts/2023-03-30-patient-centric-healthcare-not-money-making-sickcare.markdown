@@ -63,6 +63,20 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
  <p>Tey key in all these is taht people at more at ease and learn more from peers with <em>adjacent skills</em>, more experienced peers than from an authority figure (<em>e.g.</em>, the medical staff). The more experienced peer will use language and example that are more meaningful to the learners&rsquo; level.</p>
  <p>This kind of contribution, to bring up the group&rsquo;s level of literacy, would be what people create by working together. And then patients/co-owners can give <span class="_paradigm">RAD</span>s to each other. This kind include baisc questions, questions about a particular procedure (<em>e.g.</em>, kneed surgery), or whatever other stuff people worry about and usually don't ask because they have always been told that they are <em>dumb</em> or <em>ignorant</em>. Needless to say the gramps </p>
 
+<h1><span class="_paradigm">RAD</span>s for Other Activities</h1>
+ <div class="_center">
+  <table class="_background">
+   <tr>
+    <th>Losing Weight</th>
+    <td>This is not about body shaming, but weight is a known co-morbidity. In other words, it makes other illnesses worse.</td>
+   </tr>
+   <tr>
+    <th>Sharing What You Learned.</th>
+    <td>For example, going to schools to talk about what you have learned in SOLEs.</td>
+   </tr>
+  </table>
+ </div>
+
 <h1><span class="_paradigm">RAD</span>s?</h1>
  <p>First let's explain what <span class="_paradigm">RAD</span>s are,</p>
   <ul>
@@ -79,7 +93,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
    <li>The medical staff/co-owner would get the most <span class="_paradigm">RAD</span>s which means that they will end up not paying a membership fee.</li>
    <li>The patient/co-owner would earn <span class="_paradigm">RAD</span>s from participatin in literacy SOLE and other activities (<em>e.g.</em>, going outside the healthcare company to share what they learned in the SOLEs).</li>
    <li>The most active patient/co-owner contributors will get a lot of <span class="_paradigm">RAD</span>s and their fees will go down accordingly. The inactive patient/co-owners would pay more for their membership.</li>
-   <li>Keep in mind that the ultimate goal is not <em>capital growth</em>, but healthcare.</li>
+   <li>Keep in mind that the ultimate goal is not capital growth, but the <em>health</em> of the community.</li>
   </ul>
 
 <!--
