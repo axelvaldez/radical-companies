@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Patient-Centric Healthcare vs Money-Making Sickcare"
+title:    "Patient-Centric Healthcare: A New Way to Do Medicine"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-patient-centric-healthcare-vs-money-making-sickcare.svg"
+image:    "icon-patient-centric-heatlhcare-a-new-way-to-do-medicine.svg"
 ---
 
 <div style="display:none;">
