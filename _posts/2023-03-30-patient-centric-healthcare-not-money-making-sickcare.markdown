@@ -48,7 +48,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
 
 <h1><span class="_paradigm">RAD</span>s for Literacy</h1>
  <p>The patients/co-owners would deliver literacy. Healthcare literacy, death literacy, etc.</p>
- <p>I just learned about StartSOLE.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> It is pretty simple,</p>
+ <p>For example, StartSOLE<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> is pretty simple,</p>
   <ul>
    <li>Somebody brings people to ask questoions and learn.</li>
    <li>This role is called a <em>granny</em> in the StartSOLE program. Of course, &ldquo;granny&rdquo; can be of any gender.</li>
@@ -107,6 +107,10 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
    <p class="_list-item">
     StartSOLE.
     &lt;<a href="https://startsole.org/" target="_blank">https://startsole.org/</a>&gt;
+    Sugata Mitra
+    <em>Build a School in the Cloud</em>.
+    TEDxTalk.
+    &lt;<a href="https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en" target="_blank">https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
