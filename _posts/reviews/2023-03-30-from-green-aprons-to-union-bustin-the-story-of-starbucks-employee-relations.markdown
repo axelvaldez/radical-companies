@@ -36,7 +36,7 @@ image:    "icon-starbucks-once-a-good-employer-now-at-the-bottom-of-the-list.svg
 <h1>Very Different Today</h1>
  <p>Since then Starbucks became one of the worst employeers around. This is what <a href="https://sfba.social/@shansterable@c.im" target="_blank">@shansterable@c.im</a> posted this in <span class="_bolder">Mastodon</span>&rsquo;s <a href="https://sfba.social/home" target="_blank">sfba.social</a> today,</p>
  <div class="_citation">
-  <p>Howard Schultz’s own family foundation says Starbucks is near the bottom of food and retail employers with respect to how it treats its workers.” In a study of America’s 250 largest companies, funded in part by the Schultz Family Foundation:</p>
+  <p>Howard Schultz’s own family foundation says Starbucks is &ldquo;near the bottom of food and retail employers with respect to how it treats its workers.&dquo; In a study of America’s 250 largest companies, funded in part by the Schultz Family Foundation:</p>
    <ul>
     <li>Starbucks received the lowest possible rating on its pay and frequency of internal promotion</li>
     <li>Of the 11 food and retail companies studied, Starbucks ranked second to last regarding pay, promotions, and retention &ndash; worse than Dollar Tree, Walmart, Dollar General, and Kroger and just slightly better than McDonald&rsquo;s</li>
