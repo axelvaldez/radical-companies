@@ -13,17 +13,17 @@ image:    "icon-patient-centric-healthcare-vs-money-making-sickcare.svg"
 <h1>&nbsp;</h1>
  <p>Patient-centric healthcare is what we want. Money-making sickcare is what we have.</p>
 
-<h1>rHatchery.live</h1>
+<h1>Tury Health</h1>
  <p>In a <em>rHatchery.live</em> podcast, Bindu Kalesan, Epidemiologist and founder of Tury Health, talked about her startup.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> She mentioned that they can bring the costs of clinical trials to one-tenth of what they are today, at $30M each. They can do that by making the trial patient-centric rather than focused on location or anything else.</p>
- <p>Besides the dollar savings this results in trials that include people of color (PoC), which are normally not included because trials have not been designed for inclusivity. The result is that today most of the drugs available are not been tested for PoC side-effects.</p>
+ <p>Besides the dollar savings this results in trials that are more diverse, inclusive, and include people of color (PoC). The result is that today most of the drugs available are not been tested for PoC side-effects.</p>
 
 <h1>Literacy</h1>
  <p>Bindu also said that we need health literacy. We need to learn to weight different therapies and have a conversation with phycisians. We need to ask good, informed questions of physicians, and not just take what we read on Dr Google literally. She is from Kerala where health literacy is a staple (the state handle the pandemic better, and had less number of deaths per capita, than every other Indian state).</p>
- <p>That lead Jose to mentioned that we also need &ldquo;death literacy&rdquo;. We have to bring death out of the closet. You are born, you live, and then you die. We need to normalize death and learn to talk about it without fear.</p>
+ <p>That lead Jose to mentioned that we also need &ldquo;death literacy&rdquo;. We have to bring death out of the closet. You are born, you live, and then you die. We need to normalize death and learn to talk about it without fear.</p>>
 
 <h1>Sickcare</h1>
  <p>What also talked about the care we have today which Bindu called <em>sickcare</em>, which is what we really have today.</p>
- <p>If don&rsquo;t feel well, you go the doctor&rsquo;s office. Fifteen-minute per patient, which is what insurace businesses pushes physician to do, does not give a physician time to do anything but a cursory examination followed by a covered prescription. I am lucky that my own family doctor does not care about making lots of money, but it&rsquo;s just my lucky-me luck. Physicians getting started now are under intense pressure to dance to the insurance business music.</p>
+ <p>And it is not just Bindu: the issue of healthcare versus sickcare seems to be gaining momentum. <span class="_quotespan">Systems biology tries to see how everything works together &hellip; the foundation of &hellip; P4 medicine: predictive, preventive, personalized, and participatory.</span><a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Re-Start</h1>
  <p>As we were talking about all this, Bindu mentioned that we need is <span class="_quotespan">a patient-centric halthcare system, not the money-making sickcare system we have today.</span> She warned that <span class="_quotespan">it will take a long time to do so.</span></p>
