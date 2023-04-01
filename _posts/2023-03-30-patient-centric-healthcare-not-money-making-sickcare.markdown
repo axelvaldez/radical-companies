@@ -107,7 +107,8 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
    <p class="_list-item">
     StartSOLE.
     &lt;<a href="https://startsole.org/" target="_blank">https://startsole.org/</a>&gt;
-    Sugata Mitra
+    <br>
+    <a href="https://www.ted.com/speakers/sugata_mitra">Sugata Mitra</a>.
     <em>Build a School in the Cloud</em>.
     TEDxTalk.
     &lt;<a href="https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en" target="_blank">https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en</a>&gt;
