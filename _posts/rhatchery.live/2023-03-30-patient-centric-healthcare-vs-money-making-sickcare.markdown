@@ -23,7 +23,7 @@ image:    "icon-patient-centric-healthcare-vs-money-making-sickcare.svg"
 
 <h1>Sickcare</h1>
  <p>What also talked about the care we have today which Bindu called <em>sickcare</em>, which is what we really have today.</p>
- <p>And it is not just Bindu: the issue of healthcare versus sickcare seems to be gaining momentum. <span class="_quotespan">Systems biology tries to see how everything works together &hellip; the foundation of &hellip; P4 medicine: predictive, preventive, personalized, and participatory.</span><a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>And it is not just Bindu: the issue of healthcare versus sickcare seems to be gaining momentum. <span class="_quotespan">Systems biology tries to see how everything works together &hellip; medicine [must be]: predictive, preventive, personalized, and participatory.</span><a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Re-Start</h1>
  <p>As we were talking about all this, Bindu mentioned that we need is <span class="_quotespan">a patient-centric halthcare system, not the money-making sickcare system we have today.</span> She warned that <span class="_quotespan">it will take a long time to do so.</span></p>
