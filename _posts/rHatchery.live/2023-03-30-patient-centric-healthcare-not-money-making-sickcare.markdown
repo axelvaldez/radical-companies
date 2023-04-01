@@ -46,7 +46,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
  <p>The medical services is what they create by working together.</p>
  <p>But what about the patients/co-owners?</p>
 
-<h1><span class="_paradigm">RAD</span>s for Literacy</h1>
+<h1><span class="_paradigm">RAD</span>s for Literacy Power Ups</h1>
  <p>The patients/co-owners would deliver literacy. Healthcare literacy, death literacy, etc.</p>
  <p>For example, StartSOLE<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> is pretty simple,</p>
   <ul>
