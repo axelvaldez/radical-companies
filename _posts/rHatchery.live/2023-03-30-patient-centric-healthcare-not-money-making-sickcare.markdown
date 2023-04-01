@@ -48,7 +48,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
 
 <h1><span class="_paradigm">RAD</span>s for Literacy Power Ups</h1>
  <p>The patients/co-owners would deliver literacy. Healthcare literacy, death literacy, etc.</p>
- <p>For example, StartSOLE<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> is pretty simple,</p>
+ <p>For example, StartSOLE<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> is pretty simple process,</p>
   <ul>
    <li>Somebody brings people together to ask questions and learn.</li>
    <li>This role is called a <em>granny</em> in the StartSOLE program. Of course, &ldquo;granny&rdquo; can be of any gender.</li>
