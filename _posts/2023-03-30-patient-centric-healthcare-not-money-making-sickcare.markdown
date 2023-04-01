@@ -90,7 +90,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
  <p>People, will have to pay a membership fee to become patient/co-owners. At least that what I can think of now. <span class="_paradigm">RAD</span>s will be used in calculating the membership fee: the more <span class="_paradigm">RAD</span>s you have the less you pay. In any case, something along those lines.</p>
   <ul>
    <li>The medical staff/co-owner would get the most <span class="_paradigm">RAD</span>s which means that they will end up not paying a membership fee.</li>
-   <li>The patient/co-owner would earn <span class="_paradigm">RAD</span>s from participatin in literacy SOLE and other activities (<em>e.g.</em>, going outside the healthcare company to share what they learned in the SOLEs).</li>
+   <li>The patient/co-owner would earn <span class="_paradigm">RAD</span>s from participatin in literacy SOLE and other activities (see. <a href="rads-for otehr-ativities">above</a>).</li>
    <li>The most active patient/co-owner contributors will get a lot of <span class="_paradigm">RAD</span>s and their fees will go down accordingly. The inactive patient/co-owners would pay more for their membership.</li>
    <li>Keep in mind that the ultimate goal is not capital growth, but the <em>health</em> of the community.</li>
   </ul>
