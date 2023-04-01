@@ -64,7 +64,17 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
  <p>This kind of contribution, to bring up the group&rsquo;s level of literacy, would be what people create by working together. And then patients/co-owners can give <span class="_paradigm">RAD</span>s to each other. This kind include baisc questions, questions about a particular procedure (<em>e.g.</em>, kneed surgery), or whatever other stuff people worry about and usually don't ask because they have always been told that they are <em>dumb</em> or <em>ignorant</em>. Needless to say the gramps </p>
 
 <h1><span class="_paradigm">RAD</span>s?</h1>
- <p>People, will have to pay a membership fee to become patient/co-owners. At least that what I can think of now. <span class="_paradigm">RAD</span>s will be used in calculating the membership fee: the more RADs you have the less you pay. In any case, something along those lines.</p>
+ <p>First let's explain what <span class="_paradigm">RAD</span>s are,</p>
+  <ul>
+   <li><span class="_paradigm">RAD</span>s are given for reconized contributions.</li>
+   <li>Co-owners recognize each other contributions and give <span class="_paradigm">RAD</span>s to each other. Remember, that there isn&rsquo;t a boss to do this. Besides a boss is a person, and people are biased in many ways.</li>
+   <li>It works out better to have many people, all co-owners, to recognize contributions in their own biased way. When it is all said and done, the ability of many people to recognize contributions from may angles is more balnced perceived aa more <em>fair</em>.</li>
+   <li>Co-owners get one <span class="_paradigm">RAD</span> per day, not to keep but to give to other co-owners.</li>
+   <li>There is a <em><span class="_paradigm">RAD</span>s!</em> mobile app that converts the recognized contributions to <span class="_paradigm">RAD</span>s.</li>
+   <li><span class="_paradigm">RAD</span>s are used to distribute money or any other tangible goodie. The more <span class="_paradigm">RAD</span>s you have, the more of the goodie you get or, as in this case, the more <span class="_paradigm">RAD</span>s you have the lower you membership. The point is that <span class="_paradigm">RAD</span>s from your peer co-owners <em>are tangible</em>, not empty attaboys from the boss.</li>
+   <li>
+  </ul>
+ <p>People, will have to pay a membership fee to become patient/co-owners. At least that what I can think of now. <span class="_paradigm">RAD</span>s will be used in calculating the membership fee: the more <span class="_paradigm">RAD</span>s you have the less you pay. In any case, something along those lines.</p>
   <ul>
    <li>The medical staff/co-owner would get the most <span class="_paradigm">RAD</span>s which means that they will end up not paying a membership fee.</li>
    <li>The patient/co-owner would earn <span class="_paradigm">RAD</span>s from participatin in literacy SOLE and other activities (<em>e.g.</em>, going outside the healthcare company to share what they learned in the SOLEs).</li>
