@@ -116,6 +116,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
     &lt;<a href="https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en" target="_blank">https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
+  </li>
  </ul>
 
 {% include related.html %}
