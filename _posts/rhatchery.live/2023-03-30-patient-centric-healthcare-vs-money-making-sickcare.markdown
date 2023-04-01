@@ -130,6 +130,7 @@ image:    "icon-patient-centric-healthcare-vs-money-making-sickcare.svg"
    <p class="_list-item">
     David E Duncan.
     <em>The Phenomics Revolution</em>.
+    Scientific American Custom Media &ndash; A new publication on Wellness (Healthcare).
     December 7, 2022.
     &lt;<a href="https://radicals.world/rXsLMf" target="_blank">https://radicals.world/rXsLMf</a>&gt;
     <br>
