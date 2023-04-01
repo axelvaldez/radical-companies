@@ -32,7 +32,9 @@ image:    "icon-starbucks-once-a-good-employer-now-at-the-bottom-of-the-list.svg
       </ul>
     </ul>
   </div>
- <p>That was then, but over time, Starbucks became one of the worst employeers around. This is what <a href="https://sfba.social/@shansterable@c.im" target="_blank">@shansterable@c.im</a> posted this in <span class="_bolder">Mastodon</span>&rsquo;s <a href="https://sfba.social/home" target="_blank">sfba.social</a> today,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+
+<h1>Very Different Today</h1>
+ <p>Since then Starbucks became one of the worst employeers around. This is what <a href="https://sfba.social/@shansterable@c.im" target="_blank">@shansterable@c.im</a> posted this in <span class="_bolder">Mastodon</span>&rsquo;s <a href="https://sfba.social/home" target="_blank">sfba.social</a> today,</p>
  <div class="_citation">
   <p>Howard Schultz’s own family foundation says Starbucks is near the bottom of food and retail employers with respect to how it treats its workers.” In a study of America’s 250 largest companies, funded in part by the Schultz Family Foundation:</p>
    <ul>
@@ -48,13 +50,6 @@ image:    "icon-starbucks-once-a-good-employer-now-at-the-bottom-of-the-list.svg
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
-  <li id="en01">
-   <p class="_list-item">
-    Mastodon&rsquo;s sfba.social.
-    &lt;<a href="https://sfba.social/home" target="_blank">https://sfba.social/home</a>&gt;
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
   <li id="en02">
    <p class="_list-item">
     StarbucksMarkDavid.
