@@ -73,7 +73,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
    </tr>
    <tr>
     <th>Sharing</th>
-    <td>For example, going to schools and workplaces to talk about what you have learned or spreading the word about the healthcare company and given their own examples of how it has helped them.</td>
+    <td>For example, going to schools and workplaces to talk about what you have learned or spreading the word about the healthcare company and talking about how it has helped them.</td>
    </tr>
   </table>
  </div>
