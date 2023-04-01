@@ -38,10 +38,38 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
    <li>Everyone would have the ability to give <span class="_paradigm">RAD</span>s to other co-owners, based on their contributions.</li>
    <li>Evertibe would have the ability to pledge their <span class="_paradigm">RAD</span>s to <span class="_paradigm">BANNER</span>s. Pledging mean that whatever the <span class="_paradigm">RAD</span>s yield (money) goes to the <span class="_paradigm">BANNER</span>.</li>
   </ul>
- <p></p>
- <p>Where I grew up, we paid a monthly fee for our healthcare to a local clinic (a block and a half from our house). Anything they could not handle, they referred us to specialists and we paid nothing or very little. My family could afford that on a teacher&rsquo;s salary and my paternal grandparents, who were retired, could afford as well.</p>
+ <p>The above steps is what happens in a traditional <span class="_paradigm">RADICAL</span> company. Onwership is decentralized among co-owners based on their <em>contributions</em>, whereas traditinal businesses based their ownership on the <em>capital</em> that each owner puts on the table.</p>
+ <p>BTW, each co-owner&rsquo;s contributions is recognized by other co-owners, not a boss or any such.</p>
+
+<h1><span class="_paradigm">RAD</span>s for Medical Services</h1>
+ <p>The medical staff/co-owners would be easy because they perform the medical services needed. They would get <span class="_paradigm">RAD</span>s from patients/co-onwers and from the medical staff/co-owners.</p>
+ <p>The medical services is what they create by working together.</p>
+ <p>But what about the patients/co-owners?</p>
+
+<h1><span class="_paradigm">RAD</span>s for Literacy</h1>
+ <p>The patients/co-owners would deliver literacy. Healthcare literacy, death literacy, etc.</p>
+ <p>I just learned about StartSOLE.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> It is pretty simple,</p>
+  <ul>
+   <li>Somebody brings people to ask questoions and learn.</li>
+   <li>This role is called a <em>granny</em> in the StartSOLE program. Of course, &ldquo;granny&rdquo; can be of any gender.</li>
+   <li>She is not a teacher or any kind of expert, just somebody who is interested in the subject.</li>
+   <li>In any case, she does not wants to <em>control</em> the flow of information.</li>
+   <li>She helps the team to stay focused on the questions.</li>
+   <li>Once the question is layed out clearly enough, the group turns to the Web to researh the question.</li>
+   <li>Then they discuss what people found in their research.</li>
+   <li>They learn from each other to understand and evaluate what they have found.</li>
+   <li>If they want to hear from <em>an expert</em>, they cank do so.</li>
+  </ul>
+ <p>Tey key in all these is taht people at more at ease and learn more from peers with <em>adjacent skills</em>, more experienced peers than from an authority figure (<em>e.g.</em>, the medical staff). The more experienced peer will use language and example that are more meaningful to the learners&rsquo; level.</p>
+ <p>This kind of contribution, to bring up the group&rsquo;s level of literacy, would be what people create by working together. And then patients/co-owners can give <span class="_paradigm">RAD</span>s to each other. This kind include baisc questions, questions about a particular procedure (<em>e.g.</em>, kneed surgery), or whatever other stuff people worry about and usually don't ask because they have always been told that they are <em>dumb</em> or <em>ignorant</em>. Needless to say the gramps </p>
+
+<h1><span class="_paradigm">RAD</span>s?</h1>
+ <p>People, will have to pay a membership fee to become patient/co-owners. At least that what I can think of now. <span class="_paradigm">RAD</span>s will be used in calculating the membership fee: the more RADs you have the less you pay. In any case, something along those lines.</p>
+  <ul>
+   <li>The medical staff/co-owner would get the most <span class="_paradigm">RAD</span>s which means that they will end up not paying a membership fee.</li>
+   <li>The patient/co-owner would earn <span class="_paradigm">RAD</span>s from participatin in literacy SOLE and other activities (<em>e.g.</em>, going outside the healthcare company to share what they learned in the SOLEs).</li>
+   <li>The most active patient/co-owner contributors will get a lot of <span class="_paradigm">RAD</span>s and their fees will go down accordingly. The inactive patient/co-owners would pay more for their membership.</li>
+   <li>Keep in mind that the ultimate goal is not <em>capital growth</em>, but healthcare.</li>
+  </ul>
 
 {% include related.html %}
-
-
-
