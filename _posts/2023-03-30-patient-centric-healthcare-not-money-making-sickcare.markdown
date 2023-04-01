@@ -61,7 +61,8 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
    <li>If they want to hear from <em>an expert</em>, they cank do so.</li>
   </ul>
  <p>Tey key in all these is taht people at more at ease and learn more from peers with <em>adjacent skills</em>, more experienced peers than from an authority figure (<em>e.g.</em>, the medical staff). The more experienced peer will use language and example that are more meaningful to the learners&rsquo; level.</p>
- <p>Bringing up the group&rsquo;s level of literacy would be what patient/co-owners create by working together. They can then give <span class="_paradigm">RAD</span>s to each other. This could be questions about a particular procedure (<em>e.g.</em>, knee surgery), or whatever other stuff people worry about and usually don't ask because they have always been told that they are <em>dumb</em> or <em>ignorant</em> and <em>don&rsquo;t ask stupid questions</em>.</p>
+ <p>Bringing up the group&rsquo;s level of literacy would be what patient/co-owners create by working together. They can then give <span class="_paradigm">RAD</span>s to each other.</p>
+ <p>Note that this will involved people who want to know about a particular procedure (<em>e.g.</em>, knee surgery), or whatever other stuff people worry about and usually don&rsquo;t ask because they have always been told that they are <em>ignorant</em> and <em>don&rsquo;t ask stupid questions</em>.</p>
 
 <h1 id="rads-for-other-activities"><span class="_paradigm">RAD</span>s for Other Activities</h1>
  <div class="_center">
