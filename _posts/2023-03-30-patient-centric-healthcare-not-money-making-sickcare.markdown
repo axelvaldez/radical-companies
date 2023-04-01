@@ -78,7 +78,7 @@ image:    "icon-patient-centric-healthcare-not-money-making-sickcare.svg"
  </div>
 
 <h1><span class="_paradigm">RAD</span>s?</h1>
- <p>First let's explain what <span class="_paradigm">RAD</span>s are,</p>
+ <p><span class="_paradigm">RAD</span>s are,</p>
   <ul>
    <li><span class="_paradigm">RAD</span>s are given for reconized contributions.</li>
    <li>Co-owners recognize each other contributions and give <span class="_paradigm">RAD</span>s to each other. Remember, that there isn&rsquo;t a boss to do this. Besides a boss is a person, and people are biased in many ways.</li>
