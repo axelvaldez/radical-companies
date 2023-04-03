@@ -37,7 +37,6 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p><span class="_quotespan">OK, OK. So co-management is OK, but the co-ownership stuff is the totally weird part.</span> I exhaled and then I went on, <span class="_quotespan">then, you are right, co-ownership has not been implemented anywhere and you can all it fiction. But it is practical and it&rsquo;s doable, and not utopian. It is not yet fully implemeted and there are no examples. Yet. But it is happening. I am investing in a company that is transitioning, slowly, to co-ownership. And I am about to start company with a friend that is going to be co-owned from the get go.</span></p>
 
 <h1>Surprisingly!</h1>
- <p>First (1<sup>st</sup>) paragraph&hellip; testing.</p>
  <p class="_speaker"><span class="_speakera">Whoa&hellip; You&rsquo;re going to start a company? &hellip;</span> She tried not to, but she looked confused as she said it.</p>
  <p class="_speaker"><span class="_speakerb">You can say it. Go ahead&hellip;</span></p>
  <p class="_speaker"><span class="_speakera">Aren&rsquo;t you the old age for that kind of stuff?</span></p>
