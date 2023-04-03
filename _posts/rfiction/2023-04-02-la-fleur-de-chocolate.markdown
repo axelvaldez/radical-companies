@@ -37,13 +37,20 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p><span class="_quotespan">OK, OK. So co-management is OK, but the co-ownership stuff is the totally weird part.</span> I exhaled and then I went on, <span class="_quotespan">then, you are right, co-ownership has not been implemented anywhere and you can all it fiction. But it is practical and it&rsquo;s doable, and not utopian. It is not yet fully implemeted and there are no examples. Yet. But it is happening. I am investing in a company that is transitioning, slowly, to co-ownership. And I am about to start company with a friend that is going to be co-owned from the get go.</span></p>
 
 <h1>Surprisingly!</h1>
- <p class="_speaker"><span class="_speakera">Whoa&hellip; You&rsquo;re going to start a company? &hellip;</span> She tried not to, but she looked confused as she said it.</p>
+ <p class="_speaker"><span class="_speakera">Whoa&hellip; you&rsquo;re going to start a company? &hellip;</span> She tried not to, but she looked confused as she said it.</p>
  <p class="_speaker"><span class="_speakerb">You can say it. Go ahead&hellip;</span></p>
  <p class="_speaker"><span class="_speakera">Aren&rsquo;t you&hellip; old for that kind of stuff?</span></p>
  <p class="_speaker"><span class="_speakerb">You meant <em>old</em>. Well, if your body is up to it, you are never too old for anything, except maybe jumping out of a moving plane.</span></p>
  <p class="_speaker"><span class="_speakera">Sorry&hellip;</span></p>
  <p class="_speaker"><span class="_speakerb">No, no worries. It is what a lot of people believe, even, and <span class="_me">surprisingly</span>, in this Valley.</span> She wasn&rsquo;t confused anymore and she looked less anxious now. <span class="_speakerbc">Getting back to the totally weird part, co-ownership, what questions do you have? I may not have answers, but questions are a good place to start.</span></p>
- <p></p>
+
+<h1>Questions</h1>
+ <div class="_speaker">
+  <span class="_speakera">I have a million questions.</p>
+  <span class="_speakerb">Pick one.</p>
+  <span class="_speakera">OK&hellip; how do we pay the owners what they want for the store?</p>
+  <span class="_speakerb">Good. I don&rsquo;t know, exactly. You can borrow from a bank, but I take it that&rsquo;s not an option.</span> She was slightly shaking her head sideways. <span class="_speakerb">Or you can pay them in installments, from the wealth the store creates by selling chocalete eclairs and all that.</span></p>
+ </div>
  <p>
 
 <h1 class="_section">ENDNOTES</h1>
