@@ -366,7 +366,7 @@ p {
   margin-left:0;
   padding-left:0;
   margin-bottom:6px;
-  text-indent:1em;
+  text-indent:0.3em;
 }
 div.col-10 p, p._list-item {
   text-indent:0;
