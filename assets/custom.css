@@ -327,9 +327,9 @@ p {
 ._speakerc, ._speakercc {
   font-style:italic;
 }
-p._speakera,
-p._speakerb,
-p._speakerc {
+._speakera,
+._speakerb,
+._speakerc {
   margin-left:-1.5em;
   margin-bottom:3px;
 }
@@ -385,6 +385,9 @@ div._citation {
  * dialog: end
  */
 
+ h1 + p {
+  text-indent:0;
+ } 
 ._float {
   float:right;
 }
