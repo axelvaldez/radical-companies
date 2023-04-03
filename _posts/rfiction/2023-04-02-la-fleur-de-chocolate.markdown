@@ -43,6 +43,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">You meant <em>old</em>. Well, if your body is up to it, you are never too old for anything, except maybe jumping out of a moving plane.</span></p>
  <p class="_speaker"><span class="_speakera">Sorry&hellip;</span></p>
  <p class="_speaker"><span class="_speakerb">No, no worries. It is what a lot of people believe, even, and <span class="_me">surprisingly</span>, in this Valley.</span> She wasn&rsquo;t confused anymore and she looked less anxious now. <span class="_speakerbc">Getting back to the totally weird part, co-ownership, what questions do you have? I may not have answers, but questions are a good place to start.</span></p>
+ <p></p>
  <p>
 
 <h1 class="_section">ENDNOTES</h1>
