@@ -320,6 +320,8 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
 ._speakerb, ._speakerbc,
 ._speakerc, ._speakercc {
   font-style:italic;
+}
+._speakera, ._speakerb, ._speakerc {
   padding-left:2.2em;
   margin-bottom:5px;
 }
