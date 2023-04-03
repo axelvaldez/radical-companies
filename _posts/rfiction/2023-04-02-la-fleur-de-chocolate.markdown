@@ -66,6 +66,12 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">Probably not enough, but, given the system we live in, I have credibility.</span></p>
  <p class="_speaker"><span class="_speakera">We live in the <span class="_paragigm">FIAT</span> system, right?</span></p>
  <p class="_speaker"><span class="_speakerb">Yep!</span></p>
+ <p class="_speaker"><span class="_speakera">Got it!</span></p>
+
+<h1></h1>
+ <p class="_speaker"><span class="_speakerb"></span></p>
+ <p class="_speaker"><span class="_speakera"></span></p>
+ <p class="_speaker"><span class="_speakerb"></span></p>
  <p class="_speaker"><span class="_speakera"></span></p>
  
 <h1 class="_section">ENDNOTES</h1>
