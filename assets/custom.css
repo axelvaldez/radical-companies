@@ -314,10 +314,12 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   content:"— ";
 }
 p {
+  /*
+  */
   margin-left:0;
   padding-left:0;
   margin-bottom:6px;
-  text-indent:1em;
+  text-indent:-1.5em;
 }
 /*
  * dialog: begin
