@@ -21,12 +21,12 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p>I kept going to the shop for my favorite pastries, chocolate eclairs, and Anita, my wife, and I got to know Christina more. At one point she mentioned that she loved to read, so next time I brought her a copy of my book.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Among other things, the book talks about co-ownership&mdash;that&rsquo;s what I wanted her to read about.</p>
  <p>Unbeknownst to me, the timing could not have been better.</p>
 
-<h1>Marchons, Oui Marchons<h1>
+<h1>Marchons, Oui Marchons</h1>
  <p>The owners had already been talking about going to live back in France, at least for a good part of the year. They like the town they ended up in, but they liked their town, Ginoles les bains, back in France best. Not many prospects there, but now they had made enough money to not have to worry about that. There was even a semi-abandoned bathhouse-hotel property which they could restore and rent it for income.</p>
  <p>The anchor was their pastry shop in our town. They had built it from the ground up. They had made financially succesful. They could not just <em>sell it</em>. Fiding a manager was nearly impossible and the few they had talked to would not cut it. Selling to their employees was unfeasible, too, because they were mostly young people working part-time orsummers. Theere were a couple of employees that could be it, but they didn&rsquo;t have enough capital and would likely not be able to borrow it from any bank.</p>
  <p>Things were at impasse, but they were not desperate or in a hurry.</p>
 
-<h1>Das Schicksal Wollte Es<h1>
+<h1>Das Schicksal Wollte Es</h1>
  <p>Two days after I gave her the book, Christina was not smiling. She wasn&rsquo;t even working, but there she was, waiting for me. Evidently I had gone into the show every Wednesday before 9 am and picked up three chocolate eclairs (<em>i.e.</em>, they were gone after 9 am). So I have a sweet tooth, sue me.</p>
  <p>In any case, there she was, Christina. And she wan&rsquo;t smiling. She waved hello with a forced smile and I got my eclairs. As I was going out, I waved at her, but she stood up in front of me and stopped me, <span class="_quotespan">Do you have a minute?</span> she asked. Seeing how anxious she looked, I asked <span class="_quotespan">Are you working now?</span> and she responded by shaking her head. <span class="_quotespan">Why don&rsquo;t we walk outside?</span></p>
  <p>We stepped out and walk a bit in silence. Then she turned to me and said, <span class="_quotespan">Is your book fiction? It didn&rsquo;t sound like fiction at first, but then it got wierd. Totatly weird! So, I am assuming it totally fiction. Did I get it right?</span></p>
