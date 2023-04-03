@@ -335,7 +335,8 @@ p._speakerc {
 ._speakera,
 ._speakerb,
 ._speakerc {
-  margin-left:-2em;
+  text-indent:-2em;
+  margin-left:2em;
 }
 ._speakera, ._speakerac,
 ._speakerc, ._speakercc {
