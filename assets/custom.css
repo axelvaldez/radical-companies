@@ -322,13 +322,15 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   font-style:italic;
 }
 ._speakera, ._speakerb, ._speakerc {
+  /*
   padding-left:2.2em;
+  */
   margin-bottom:5px;
 }
 div._quotespan {
   font-style:italic;
   padding-left:2.2em;
-  margin-bottom:5px;
+  margin-bottom3px;
 }
 ._speakera,
 ._speakerb,
