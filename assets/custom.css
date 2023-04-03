@@ -374,10 +374,14 @@ div._citation {
   margin-bottom:3px;
 }
 ._speaker {
+  /*
   font-family:Roboto;
   font-weight:bolder;
   text-indent:0.3em;
   font-size:smaller;
+  */
+  margin-left:2em;
+  text-indent:-1.5em;
 }
 ._continue {
   content:"   ";

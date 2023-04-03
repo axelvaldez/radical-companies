@@ -38,12 +38,12 @@ image:    "icon-la-fleur-de-chocolate.svg"
 
 <h1>Surprisingly!</h1>
  <p>First (1<sup>st</sup>) paragraph&hellip; testing.</p>
- <p><span class="_speakera">Whoa&hellip; You are going to start a company? &hellip;</span> She tried not to, but she looked confused as she said it.</p>
- <p class="_speakerb">You can say it. Go ahead&hellip;</p>
- <p><span class="_speakera">Aren&rsquo;t you the old age for that kind of stuff?</span></p>
- <p><span class="_speakerb">You meant <em>old</em>. Well, if your body is up to it, you are never too old for anything, except maybe jumping out of a moving plane.</span></p>
- <p><span class="_speakera">Sorry&hellip;</span></p>
- <p><span class="_speakerb">No, no worries. It is what a lot of people believe, even, and <span class="_me">surprisingly</span>, in this Valley.</span> She wasn&rsquo;t confused anymore and she looked less anxious now. <span class="_speakerbc">Getting back to the totally weird part, co-ownership, what questions do you have? I may not have answers, but questions are a good place to start.</span></p>
+ <p class="speaker"><span class="_speakera">Whoa&hellip; You are going to start a company? &hellip;</span> She tried not to, but she looked confused as she said it.</p>
+ <p class="speaker"><span class="_speakerb">You can say it. Go ahead&hellip;</p>
+ <p class="speaker"><span class="_speakera">Aren&rsquo;t you the old age for that kind of stuff?</p>
+ <p class="speaker"><span class="_speakerb">You meant <em>old</em>. Well, if your body is up to it, you are never too old for anything, except maybe jumping out of a moving plane.</span></p>
+ <p class="speaker"><span class="_speakera">Sorry&hellip;</span></p>
+ <p class="speaker"><span class="_speakerb">No, no worries. It is what a lot of people believe, even, and <span class="_me">surprisingly</span>, in this Valley.</span> She wasn&rsquo;t confused anymore and she looked less anxious now. <span class="_speakerbc">Getting back to the totally weird part, co-ownership, what questions do you have? I may not have answers, but questions are a good place to start.</span></p>
  <p>
 
 <h1 class="_section">ENDNOTES</h1>
