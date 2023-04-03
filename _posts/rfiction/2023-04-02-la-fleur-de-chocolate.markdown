@@ -49,7 +49,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
   <p class="_speakera">I have a million questions.</p>
   <p class="_speakerb">Pick one.</p>
   <p class="_speakera">OK&hellip; how do we pay the owners what they want for the store?</p>
-  <p><span class="_speakerb">I don&rsquo;t know, exactly. You can borrow from a bank, but I take it that&rsquo;s not an option.</span> She was slightly shaking her head sideways. <span class="_speakerb">Or you can pay them in installments, from the wealth the store creates by selling chocalete eclairs and all that.</span></span></p>
+  <p><span class="_speakerb">I don&rsquo;t know, exactly. You can borrow from a bank,</span>  she was slightly shaking her head sideways. <span class="_speakerbc">But I take it that&rsquo;s not an option. Or you can pay them in installments, from the wealth the store creates by selling chocalete eclairs and all that.</span></p>
  </div>
  <p>Then it dawned on me, <span class="_speakerbc">Wait, did you leaped to this question or have you already talked about it with your co-workers.</span></p>
  <div class="_speaker">
