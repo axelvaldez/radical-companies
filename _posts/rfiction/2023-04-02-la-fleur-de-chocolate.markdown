@@ -51,7 +51,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
   <p class="_speakera">OK&hellip; how do we pay the owners what they want for the store?</p>
   <p><span class="_speakerb">I don&rsquo;t know, exactly. You can borrow from a bank, but I take it that&rsquo;s not an option.</span> She was slightly shaking her head sideways. <span class="_speakerb">Or you can pay them in installments, from the wealth the store creates by selling chocalete eclairs and all that.</span></span></p>
  </div>
- <p>Then it dawned on me, <span class="_speakerb">Wait, did you leaped to this question or have you already talked about it with your co-workers.</span></p>
+ <p>Then it dawned on me, <span class="_speakerbc">Wait, did you leaped to this question or have you already talked about it with your co-workers.</span></p>
  <div class="_speaker">
   <p class="_speakera">Well, they owners talked to a few people. And we asked them and Virgian told us that the owners were thinking of moving back to France and selling the store, but they would really want to sell it to us. I was through most of the second section of your book so I read the rest of it as fast as I could and&hellip; here we are.</p>
  </div>
