@@ -17,7 +17,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p>I met Christina on her first day at the shop. She was all smiles and we got to talk about her day and her boyfriend and her life. She mentioned that she did&rsquo;t know any other Christinas. As it happened, we want down the street, walked into a new plat shop, and, what do you know we met another youg woman named Christina (and, yes, my wife and I always exchnage names with the new people we meet). But I digress.</p>
  <p>A couple of days later I went back into the shop and Christina was there again, and all smiles.</p>
 
-<h1>Y pasó el tiempo, y pasó&hellip;<h1>
+<h1>Y pasó el tiempo, y pasó&hellip;</h1>
  <p>I kept going to the shop for my favorite pastries, chocolate eclairs, and Anita, my wife, and I got to know Christina more. At one point she mentioned that she loved to read, so next time I brought her a copy of my book.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Among other things, the book talks about co-ownership&mdash;that&rsquo;s what I wanted her to read about.</p>
  <p>Unbeknownst to me, the timing could not have been better.</p>
 
