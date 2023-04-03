@@ -49,14 +49,14 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">Pick one.</span></p>
  <p class="_speaker"><span class="_speakera">OK&hellip; how do we pay the owners what they want for the store?</span></p>
  <p class="_speaker"><span class="_speakerb">I don&rsquo;t know, exactly. You can borrow from a bank,</span>  she was slightly shaking her head sideways. <span class="_speakerbc">But I take it that&rsquo;s not an option. Or you can pay them in installments, from the wealth the store creates by selling chocalete eclairs and all that.</span> Then it dawned on me, <span class="_speakerbc">Wait&hellip; did you leaped to this question by yourself? or have you already talked about it with&hellip; your co-workers?</span></p>
- <p class="_speaker"><span class="_speakera">Well, the owners talked to a few people. And we asked them and Virg told us that the owners were thinking of moving back to France and selling the store, but that they would really want to sell it to us, at least some of us. I was through most of the second section of your book so I re-read the rest of it as fast as I could and then I read the last two thirds again and&hellip; here we are.</span></p>
+ <p class="_speaker"><span class="_speakera">Well, the owners talked to a few people. And we asked them and Virginia told us that the owners were thinking of moving back to France and selling the store, but that they would really want to sell it to us, at least some of us. I was through most of the second section of your book so I re-read the rest of it as fast as I could and then I read the last two thirds again and&hellip; here we are.</span></p>
  <p class="_speaker"><span class="_speakerb">Holly sh&hellip; what <em>timing</em>.</span></p>
 
 <h1>Children of <span class="_paragigm">FIAT</span></h1>
  <p class="_speaker"><span class="_speakerb">There is another option. You could borrow part of it to pay the owners right away and pay the rest in installments. And I don't mean, from a bank, borrow it as a <span class="_paragigm">RADICAL</span> investment.</span></p>
  <p class="_speaker"><span class="_speakera">What is that? How does it work? And what will they give us money when we are all broke.</span></p>
  <p class="_speaker"><span class="_speakerb">How much do they want?</span></p>
- <p class="_speaker"><span class="_speakera">I don&rsquo;t know, and I don&rsquo;t Virg knows, either.</span></p>
+ <p class="_speaker"><span class="_speakera">I don&rsquo;t know, and I don&rsquo;t think Virginia knows, either.</span></p>
  <p class="_speaker"><span class="_speakerb">Then that&rsquo;s your homework. We have to know.</span></p>
  <p class="_speaker"><span class="_speakera">Can I tell the others, maybe not all of them, but the more trustworthy one?</span></p>
  <p class="_speaker"><span class="_speakerb">Yes, let&rsquo;s do as the book says and be transparent. However, given the system that we live in, you should probably ask the owner directly and then tell your co-workers.</span></p>
