@@ -63,9 +63,9 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakera">But what if they ask if I have the money to buy it and stuff like that?</span></p>
  <p class="_speaker"><span class="_speakerb">Good point. Then, if they do, tell them that I might be interested. I am.</span></p>
  <p class="_speaker"><span class="_speakera">Do you have a lot of money?</span></p>
- <p class="_speaker"><span class="_speakera">Probably not as much as they want, but I can bring other people into it. Again, given the system we live in, I have credibility.</span></p>
+ <p class="_speaker"><span class="_speakerb">Probably not as much as they want, but I can bring other people into it. Again, given the system we live in, I have credibility.</span></p>
  <p class="_speaker"><span class="_speakera">We live in the <span class="_paragigm">FIAT</span> system, right?</span></p>
- <p class="_speaker"><span class="_speakera">Yep!</span></p>
+ <p class="_speaker"><span class="_speakerb">Yep!</span></p>
  <p class="_speaker"><span class="_speakera"></span></p>
  
 <h1 class="_section">ENDNOTES</h1>
