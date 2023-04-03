@@ -340,6 +340,7 @@ div._quotespan {
 ._speakera::before,
 ._speakerb::before,
 ._speakerc::before {
+  text-indent:-1em;
   content:"— “";
 }
 ._speakera, ._speakerac {
