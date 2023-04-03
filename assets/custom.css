@@ -341,6 +341,7 @@ div._quotespan {
 ._speakerc::before {
   content:"— “";
 }
+/*
 ._speakera, ._speakerac {
   font-family:Georgia, serif;
 }
@@ -350,6 +351,7 @@ div._quotespan {
 ._speakerc, ._speakercc {
   font-family:'Times New Roman', Times, serif;
 }
+*/
 ._quotespan {
   font-style:italic;
   margin-bottom:3px;

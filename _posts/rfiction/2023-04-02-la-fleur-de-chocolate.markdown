@@ -37,7 +37,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p><span class="_speakerb">You can say it&hellip;</span></p>
  <p><span class="_speakera">Aren&rsquo;t you too old for that kind of stuff?</span></p>
  <p><span class="_speakerb">You are never too old for anything, except perhaps jumping out of a moving plane. Not if your body is up to it.</span></p>
- <p><span class="_speakera">Sorry&hellip</spa></p>
+ <p><span class="_speakera">Sorry&hellip;</spa></p>
  <p><span class="_speakerb">No, no worries. It is what a lot of people believe, even and surprisingly in this Valley.</span> She looked a bit less anxious now <span class="_speakera">Back to co-ownership, what questions do you have? I may not have answers, but questions are a good place to start.</span></p>
  <p>
 
