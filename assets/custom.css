@@ -323,7 +323,7 @@ p {
  * dialog: begin
  */
 p._speakerb {
-  margin-bottom:30px;
+  margin-bottom:0;
 }
 ._speakera, ._speakerac,
 ._speakerb, ._speakerbc,
