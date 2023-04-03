@@ -38,7 +38,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p><span class="_speakera">You are going to start a company? But&hellip;</span></p>
  <p><span class="_speakerb">You can say it&hellip; go ahead&hellip;</span></p>
  <p><span class="_speakera">Aren&rsquo;t you too old for that kind of stuff?</span></p>
- <p><span class="_speakerb">You are never too old for anything, except perhaps jumping out of a moving plane. Not if your body is up to it.</span></p>
+ <p><span class="_speakerb">If your body is up to it, you are never too old for anything, except maybe jumping out of a moving plane.</span></p>
  <p><span class="_speakera">Sorry&hellip;</span></p>
  <p><span class="_speakerb">No, no worries. It is what a lot of people believe, even, and <em>surprisingly</em>, in this Valley.</span> She looked a bit less anxious now. <span class="_speakerbc">Getting back to the totally weird part, co-ownership, what questions do you have? I may not have answers, but questions are a good place to start.</span></p>
  <p>
