@@ -342,15 +342,12 @@ div._quotespan {
 ._speakerc::before {
   content:"— “";
 }
-/*
 ._speakera, ._speakerac {
-  font-family:Georgia, serif;
+  font-weight:bolder;
 }
+/*
 ._speakerb, ._speakerbc {
   font-family:adren, Wensley, Naia, Maiah, Sharis, Thomas Craft, Sandover, Aadam, Glamour Luxury, Magnita, Zimra, Antique, Grown, Selma, Alloy, Lara;
-}
-._speakerc, ._speakercc {
-  font-family:'Times New Roman', Times, serif;
 }
 */
 ._quotespan {
