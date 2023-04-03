@@ -44,12 +44,13 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakera">Sorry&hellip;</span></p>
  <p class="_speaker"><span class="_speakerb">No, no worries. It is what a lot of people believe, even, and <span class="_me">surprisingly</span>, in this Valley.</span> She wasn&rsquo;t confused anymore and she looked less anxious now. <span class="_speakerbc">Getting back to the totally weird part, co-ownership, what questions do you have? I may not have answers, but questions are a good place to start.</span></p>
 
-<h1>Questions</h1>
+<h1>The Question</h1>
  <p class="_speaker"><span class="_speakera">I have a million questions.</span></p>
  <p class="_speaker"><span class="_speakerb">Pick one.</span></p>
  <p class="_speaker"><span class="_speakera">OK&hellip; how do we pay the owners what they want for the store?</span></p>
  <p class="_speaker"><span class="_speakerb">I don&rsquo;t know, exactly. You can borrow from a bank,</span>  she was slightly shaking her head sideways. <span class="_speakerbc">But I take it that&rsquo;s not an option. Or you can pay them in installments, from the wealth the store creates by selling chocalete eclairs and all that.</span> Then it dawned on me, <span class="_speakerbc">Wait&hellip; did you leaped to this question by yourself? or have you already talked about it with&hellip; your co-workers?</span></p>
  <p class="_speaker"><span class="_speakera">Well, the owners talked to a few people. And we asked them and Virg told us that the owners were thinking of moving back to France and selling the store, but that they would really want to sell it to us, at least some of us. I was through most of the second section of your book so I read the rest of it as fast as I could and then I read the last two thirds again and&hellip; here we are.</span></p>
+ <p class="_speaker"><span class="_speakerb">Holly&hellip; talk about <em>timing</em>.</span></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
