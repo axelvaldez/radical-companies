@@ -327,9 +327,9 @@ p {
 ._speakerc, ._speakercc {
   font-style:italic;
 }
-._speakera,
-._speakerb,
-._speakerc {
+p._speakera,
+p._speakerb,
+p._speakerc {
   margin-left:-1.5em;
   margin-bottom:3px;
 }
