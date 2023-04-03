@@ -327,22 +327,14 @@ p {
 ._speakerc, ._speakercc {
   font-style:italic;
 }
-._speakera, ._speakerb, ._speakerc {
+._speakera,
+._speakerb,
+._speakerc {
   padding-left:1.5em;
   margin-bottom:3px;
-  /*
-  text-indent:0;
-  */
 }
-div._quotespan {
-  font-style:italic;
-  padding-left:2.2em;
-  margin-bottom:5px;
-}
-._speakerac::before, ._speakerbc::before, ._quotespan::before {
-  content:"“";
-}
-._speakera, ._speakerac {
+._speakera, ._speakerac,
+._speakerc, ._speakercc {
   font-weight:bolder;
 }
 ._speakera::before,
@@ -350,14 +342,23 @@ div._quotespan {
 ._speakerc::before {
   content:"— “";
 }
+._speakerac::before,
+._speakerbc::before,
+._quotespan::before {
+  content:"“";
+}
 ._speakera::after, ._speakerac::after,
 ._speakerb::after, ._speakerbc::after,
 ._speakerc::after, ._speakercc::after,
 ._quotespan::after {
   content:"”";
 }
-._quotespan {
+div._quotespan {
   font-style:italic;
+  padding-left:2.2em;
+  margin-bottom:5px;
+}
+._quotespan {
   margin-bottom:3px;
 }
 div.col-10 p, p._list-item {
