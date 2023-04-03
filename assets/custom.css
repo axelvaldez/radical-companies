@@ -323,7 +323,7 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   font-style:italic;
 }
 ._speakera, ._speakerb, ._speakerc {
-  padding-left:0.5em;
+  padding-left:1.5em;
   margin-bottom:3px;
   /*
   text-indent:0;
