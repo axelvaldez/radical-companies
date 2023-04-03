@@ -314,16 +314,17 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   content:"— ";
 }
 p {
-  /*
-  */
   margin-left:0;
   padding-left:0;
   margin-bottom:6px;
-  text-indent:-1.5em;
 }
 /*
  * dialog: begin
  */
+p._speaker {
+  text-indent:-1.5em;
+  margin-bottom:0;
+}
 p._speakera, 
 p._speakerb,
 p._speakerc {
