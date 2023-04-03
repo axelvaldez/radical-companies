@@ -3,7 +3,7 @@ layout:   post
 title:    "La Fleur de Chocolate"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-la-fluer-de-chocolate.svg"
+image:    "icon-la-fleur-de-chocolate.svg"
 ---
 
 <div style="display:none;">
