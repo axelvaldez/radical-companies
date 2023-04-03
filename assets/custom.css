@@ -310,6 +310,7 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   margin:0 0.5em .5em 10%;
 }
 ._citation #_signature::before {
+  text-indent:-0.3em;
   content:"— ";
 }
 
