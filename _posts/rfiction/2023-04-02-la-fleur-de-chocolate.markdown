@@ -46,10 +46,10 @@ image:    "icon-la-fleur-de-chocolate.svg"
 
 <h1>Questions</h1>
  <div class="_speaker">
-  <span class="_speakera">I have a million questions.</p>
-  <span class="_speakerb">Pick one.</p>
-  <span class="_speakera">OK&hellip; how do we pay the owners what they want for the store?</p>
-  <span class="_speakerb">Good. I don&rsquo;t know, exactly. You can borrow from a bank, but I take it that&rsquo;s not an option.</span> She was slightly shaking her head sideways. <span class="_speakerb">Or you can pay them in installments, from the wealth the store creates by selling chocalete eclairs and all that.</span></p>
+  <span class="_speakera">I have a million questions.</span>
+  <span class="_speakerb">Pick one.</span>
+  <span class="_speakera">OK&hellip; how do we pay the owners what they want for the store?</span>
+  <span class="_speakerb">Good. I don&rsquo;t know, exactly. You can borrow from a bank, but I take it that&rsquo;s not an option.</span> She was slightly shaking her head sideways. <span class="_speakerb">Or you can pay them in installments, from the wealth the store creates by selling chocalete eclairs and all that.</span></span>
  </div>
  <p>
 
