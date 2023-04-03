@@ -335,7 +335,7 @@ p._speakerc {
 ._speakera,
 ._speakerb,
 ._speakerc {
-  margin-left:-1.5em;
+  margin-left:-2em;
 }
 ._speakera, ._speakerac,
 ._speakerc, ._speakercc {
@@ -365,9 +365,6 @@ div._quotespan {
 ._quotespan {
   margin-bottom:3px;
 }
-div.col-10 p, p._list-item {
-  text-indent:0;
-}
 div._citation {
   padding-bottom:6px;
 }
@@ -389,6 +386,9 @@ div._citation {
  * dialog: end
  */
 
+div.col-10 p, p._list-item {
+  text-indent:0;
+}
  h1 + p {
   text-indent:0;
  } 
