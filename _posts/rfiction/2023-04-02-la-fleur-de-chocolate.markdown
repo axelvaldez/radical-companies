@@ -52,6 +52,22 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakera">Well, the owners talked to a few people. And we asked them and Virg told us that the owners were thinking of moving back to France and selling the store, but that they would really want to sell it to us, at least some of us. I was through most of the second section of your book so I re-read the rest of it as fast as I could and then I read the last two thirds again and&hellip; here we are.</span></p>
  <p class="_speaker"><span class="_speakerb">Holly sh&hellip; what <em>timing</em>.</span></p>
 
+<h1>In Any Case</h1>
+ <p class="_speaker"><span class="_speakerb">There is another option. You could borrow part of it to pay the owners right away and pay the rest in installments. And I don't mean, from a bank, borrow it as a <span class="_paragigm">RADICAL</span> investment.</span></p>
+ <p class="_speaker"><span class="_speakera">What is that? How does it work? And what will they give us money when we are all broke.</span></p>
+ <p class="_speaker"><span class="_speakerb">How much do they want?</span></p>
+ <p class="_speaker"><span class="_speakera">I don&rsquo;t know, and I don&rsquo;t Virg knows, either.</span></p>
+ <p class="_speaker"><span class="_speakerb">Then that&rsquo;s your homework. We have to know.</span></p>
+ <p class="_speaker"><span class="_speakera">Can I tell the others, maybe not all of them, but the more trustworthy one?</span></p>
+ <p class="_speaker"><span class="_speakerb">Yes, let&rsquo;s do as the book says and be transparent. However, given the system that we live in, you should probably ask the owner directly and then tell your co-workers.</span></p>
+ <p class="_speaker"><span class="_speakera">But what if they ask if I have the money to buy it and stuff like that?</span></p>
+ <p class="_speaker"><span class="_speakerb">Good point. Then, if they do, tell them that I might be interested. I am.</span></p>
+ <p class="_speaker"><span class="_speakera">Do you have a lot of money?</span></p>
+ <p class="_speaker"><span class="_speakera">Probably not as much as they want, but I can bring other people into it. Again, given the system we live in, I have credibility.</span></p>
+ <p class="_speaker"><span class="_speakera">That is the <span class="_paragigm">FIAT</span> system, right?</span></p>
+ <p class="_speaker"><span class="_speakera">Yep!</span></p>
+ <p class="_speaker"><span class="_speakera"></span></p>
+ 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
