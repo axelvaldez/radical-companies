@@ -322,6 +322,9 @@ p {
 /*
  * dialog: begin
  */
+p > ._speakera {
+  margin-bottom:30px;
+}
 ._speakera, ._speakerac,
 ._speakerb, ._speakerbc,
 ._speakerc, ._speakercc {
@@ -331,7 +334,6 @@ p {
 ._speakerb,
 ._speakerc {
   margin-left:-1.5em;
-  margin-bottom:3px;
 }
 ._speakera, ._speakerac,
 ._speakerc, ._speakercc {
