@@ -19,7 +19,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
 
 <h1>Y pasó el tiempo, y pasó&hellip;</h1>
  <p>I kept going to the shop for my favorite pastries, chocolate eclairs, and Anita, my wife, and I got to know Christina more. At one point she mentioned that she loved to read, so next time I brought her a copy of my book.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Among other things, the book talks about co-ownership&mdash;that&rsquo;s what I wanted her to read about.</p>
- <p>Unbeknownst to me, the timing could not have been better.</p>
+ <p>I didn&rsquo;t know then, the timing could not have been better.</p>
 
 <h1>Marchons, Oui Marchons</h1>
  <p>The owners had already been talking about going to live back in France, at least for a good part of the year. They like the town they ended up in, but they liked their town, Ginoles les bains, back in France best. Not many prospects there, but now they had made enough money to not have to worry about that. There was even a semi-abandoned bathhouse-hotel property which they could restore and rent it for income.</p>
