@@ -313,7 +313,12 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   text-indent:-0.3em;
   content:"— ";
 }
-
+p {
+  margin-left:0;
+  padding-left:0;
+  margin-bottom:6px;
+  text-indent:1em;
+}
 /*
  * dialog: begin
  */
@@ -337,23 +342,13 @@ div._quotespan {
 ._speakerac::before, ._speakerbc::before, ._quotespan::before {
   content:"“";
 }
-._speakera::before,
-._speakerb::before,
-._speakerc::before {
-  text-indent:-1em;
-  content:"— “";
-}
 ._speakera, ._speakerac {
   font-weight:bolder;
 }
-/*
-._speakerb, ._speakerbc {
-  font-family:adren, Wensley, Naia, Maiah, Sharis, Thomas Craft, Sandover, Aadam, Glamour Luxury, Magnita, Zimra, Antique, Grown, Selma, Alloy, Lara;
-}
-*/
-._quotespan {
-  font-style:italic;
-  margin-bottom:3px;
+._speakera::before,
+._speakerb::before,
+._speakerc::before {
+  content:"— “";
 }
 ._speakera::after, ._speakerac::after,
 ._speakerb::after, ._speakerbc::after,
@@ -361,11 +356,9 @@ div._quotespan {
 ._quotespan::after {
   content:"”";
 }
-p {
-  margin-left:0;
-  padding-left:0;
-  margin-bottom:6px;
-  text-indent:1em;
+._quotespan {
+  font-style:italic;
+  margin-bottom:3px;
 }
 div.col-10 p, p._list-item {
   text-indent:0;
