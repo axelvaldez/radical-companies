@@ -114,7 +114,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakera">So, what happens without a boss.</span></p>
  <p class="_speaker"><span class="_speakerb">People recognized each other&rsquo;s contributions.</span></p>
  <p class="_speaker"><span class="_speakera">Rules?</span></p>
- <p class="_speaker"><span class="_speakerb">No rules. Whatever they free is a contribution, it&rsquo;s a contribution.</span></p>
+ <p class="_speaker"><span class="_speakerb">No rules. Whatever they feel is a contribution, it&rsquo;s a contribution.</span></p>
  <p class="_speaker"><span class="_speakera">OK&hellip;</span></p>
  <p class="_speaker"><span class="_speakerc">Say more.</span></p>
  <p class="_speaker"><span class="_speakerb">
