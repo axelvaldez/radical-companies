@@ -83,7 +83,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">That&rsquo;s OK, because I don&rsquo;t want to buy it. I am here to find out the financial terms and, if need be, to loan them money.</span></p>
  <p class="_speaker"><span class="_speakera">Oh.</span></p>
  <p class="_speaker"><span class="_speakerb">&rsquo;dieu!</span></p>
- <p>They both looked worried now.</p><span class="_speakerc">
+ <p>They both looked worried now.</p>
  <p class="_speaker"><span class="_speakerc">We were going to tell them anyway. In fact,<span>She glanced at her husband and he signal a very subtle agreement with his eyes, <span class="_speakercc">We prefer to tell them ourselves.</span></p>
  <p class="_speaker"><span class="_speakerb">That would be best. I felt kind of akward coming here anyways. Not let me explain what I see as my involvement</span>&mdash;I paused for a bit and thought about what I wanted to say and how I wanted to say it&mdash;<span class="_speakerbc">I intend to help them out with the finances, the money part, but I don&rsquo;t want to expect any pwer over the company in any way. Except, maybe, they should reserve three chocaolate eclairs from me.</span> Finally, we all got to smile and relax a bit.</span></p>
  <p class="_speaker"><span class="_speakera">What do you mean you don&rsquo;t want any power for your money?</span></p>
