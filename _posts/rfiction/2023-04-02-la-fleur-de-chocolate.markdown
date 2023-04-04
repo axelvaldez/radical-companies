@@ -83,8 +83,37 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">That&rsquo;s OK, because I don&rsquo;t want to buy it. I am here to find out the financial terms and, if need be, to loan them money.</span></p>
  <p class="_speaker"><span class="_speakera">Oh.</span></p>
  <p class="_speaker"><span class="_speakerb">&rsquo;dieu!</span></p>
- <p>They both looked worried now.</p>
- <p class="_speaker"><span class="_speakerb">I am not here to negotiate or anything like that, only to understand the financial terms and the magnitud of the price That is it.</span></p>
+ <p>They both looked worried now.</p><span class="_speakerc">
+ <p class="_speaker"><span class="_speakerc">We were going to tell them anyway. In fact,<span>She glanced at her husband and he signal a very subtle agreement with his eyes, <span class="_speakercc">We prefer to tell them ourselves.</span></p>
+ <p class="_speaker"><span class="_speakerb">That would be best. I felt kind of akward coming here anyways. Not let me explain what I see as my involvement</span>&mdash;I paused for a bit and thought about what I wanted to say and how I wanted to say it&mdash;<span class="_speakerbc">I intend to help them out with the finances, the money part, but I don&rsquo;t want to expect any pwer over the company in any way. Except, maybe, they should reserve three chocaolate eclairs from me.</span> Finally, we all got to smile and relax a bit.</span></p>
+ <p class="_speaker"><span class="_speakera">What do you mean you don&rsquo;t want any power for your money?</span></p>
+ <p class="_speaker"><span class="_speakerb">Hmm. This may sound weird to you, but I am more interested in the success of them and the community, our town. I&rsquo;ll give them what I call a <span class="_paragigm">RADICAL</span> investment, which means that they have to pay back the principle, the amount of money I give them, plus something else. I've made a couple of these investments before and the something else is that we take my interest, usually 10%, and the co-owners match it. We end up with 20% of the investmet in a pool and then distribute it to everybody based on their&hellip; contributions.</span></p></span></p>
+ <p class="_speaker"><span class="_speakerc">And then you decide? or they vote? How do you decided their contributions? Besides, waiting until the very end&hellip; I don&rsquo;t think that works!</span></p>
+ <p class="_speaker"><span class="_speakerb">Yes, to everythig you said. But, no, that is not quite the way it works.</span></p>
+ <p class="_speaker"><span class="_speakera">Then, how does it work?</span></p>
+ <p class="_speaker"><span class="_speakerb">OK, you are interested, so I'll give you the whole tour of how <span class="_paragigm">RAD</span>s work.</span></p>
+
+<h1>The <span class="_paradigm">RAD</span>s Tour</h1>
+ <p class="_speaker"><span class="_speakera">Go ahead. We are interested.</span></p>
+ <p class="_speaker"><span class="_speakerb">OK&hellip; <span class="_paradigm">RAD</span>s are not digital money or anthing like that. But, forget that for now! Let&rsquo;s start with <em>contributions</em>. Normally. you do something good, the boss notices, and he gives you a pat on the back. If he likes you, he may even give you a promotion later. That makes it more tangible, right? But what do you do when you are all owners <em>and there is no boss</em>&hellip;</span></p>
+ <p class="_speaker"><span class="_speakera">No boss? That doesn&rsquo;t work&hellip;</span></p>
+ <p class="_speaker"><span class="_speakerc">Cher, that is how we run the front of the store, n&rsquo;est pa?</span></p>
+ <p class="_speaker"><span class="_speakera">Yes, but not really.</span></p>
+ <p class="_speaker"><span class="_speakerc">Yes, really. We train them and then they take over the front.</span></p>
+ <p class="_speaker"><span class="_speakera">OK, but you can&rsquo;t run the bakery that with a baker.</span></p>
+ <p class="_speaker"><span class="_speakerb">Yes, you'll have to have a baker. Maybe they all become bakers.</span></p>
+ <p class="_speaker"><span class="_speakera">Oof.</span></p>
+ <p class="_speaker"><span class="_speakerb">That is how Arizmendi works.</span></p>
+ <p class="_speaker"><span class="_speakera">The hippie bakery in San Francico.</span></p>
+ <p class="_speaker"><span class="_speakerb">That one. It is very successful and very profitable.</span></p>
+ <p class="_speaker"><span class="_speakera">And it gives me a headache.</span></p>
+ <p class="_speaker">She looked at him sternly and then she turned to me, <span class="_speakerc">we tried that in France, but it didn't work. It ended up being very chaotic.</span></p>
+ <p class="_speaker"><span class="_speakerb">Yes, that can happen. But I am the cofounder of a business that is up to 900 people now, it has no bosses, and it is very profitable and not chaotic at all.</span></p>
+ <p>That made the sit up. I guess I had credibility with them now.</p>
+ <p class="_speaker"><span class="_speakera">
+ <p class="_speaker"><span class="_speakerb">There is a <span class="_paradigm">RAD</span>s! mobile app&hellip;</span></p>
+ <p class="_speaker"><span class="_speakera">Ah, <em>there is an app for that!</em></span> The man said, smiling</p>
+ <p class="_speaker"><span class="_speakerb">Yes.
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
