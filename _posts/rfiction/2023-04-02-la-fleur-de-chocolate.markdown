@@ -93,7 +93,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakera">Then, how does it work?</span></p>
  <p class="_speaker"><span class="_speakerb">OK, you are interested, so I'll give you the whole tour of how <span class="_paragigm">RAD</span>s work.</span></p>
 
-<h1>The <span class="_paradigm">RAD</span>s Tour</h1>
+<h1>Contibutions</h1>
  <p class="_speaker"><span class="_speakera">Go ahead. We are interested.</span></p>
  <p class="_speaker"><span class="_speakerb">OK&hellip; <span class="_paradigm">RAD</span>s are not digital money or anthing like that. But, forget that for now! Let&rsquo;s start with <em>contributions</em>. Normally. you do something good, the boss notices, and he gives you a pat on the back. If he likes you, he may even give you a promotion later. That makes it more tangible, right? But what do you do when you are all owners <em>and there is no boss</em>&hellip;</span></p>
  <p class="_speaker"><span class="_speakera">No boss? That doesn&rsquo;t work&hellip;</span></p>
@@ -111,10 +111,18 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerc">We tried that, but it didn't work. It ended up being very chaotic.</span></p>
  <p class="_speaker"><span class="_speakerb">Yes, it can happen, but it doesn&rsquo;t have to. I am the cofounder of a business that is over 800 people now, but it has no bosses, it is very profitable, and it is not chaotic at all.</span></p>
  <p>That made them sit up. I guess I had credibility with them now.</p>
+ <p class="_speaker"><span class="_speakera">So, what happens without a boss.</span></p>
+ <p class="_speaker"><span class="_speakerb">People recognized each other&rsquo;s contributions.</span></p>
+ <p class="_speaker"><span class="_speakera">Rules?</span></p>
+ <p class="_speaker"><span class="_speakerb">No rules. Whatever they free is a contribution, it&rsquo;s a contribution.</span></p>
+ <p class="_speaker"><span class="_speakera">OK&hellip;</span></p>
+ <p class="_speaker"><span class="_speakerc">Say more.</span></p>
+ <p class="_speaker"><span class="_speakerb">
  <p class="_speaker"><span class="_speakera">
  <p class="_speaker"><span class="_speakerb">There is a <span class="_paradigm">RAD</span>s! mobile app&hellip;</span></p>
- <p class="_speaker"><span class="_speakera">Ah, <em>there is an app for that!</em></span> The man said, smiling</p>
- <p class="_speaker"><span class="_speakerb">Yes.
+ <p class="_speaker"><span class="_speakera">Ah, <em>there is an app for that!</em></span> The man said, smiling</span></p>
+ <p class="_speaker"><span class="_speakerb">Yes.</span></p>
+ <p class="_speaker"><span class="_speakerb">
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>

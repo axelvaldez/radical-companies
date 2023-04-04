@@ -330,9 +330,14 @@ p._speakerb,
 p._speakerc {
   margin-bottom:0;
 }
-._speakera, ._speakerac,
-._speakerb, ._speakerbc,
+._speakera, ._speakerac, {
+  font-weight:bolder;
+}
+._speakerb, ._speakerbc {
+  font-weight:normal;
+}
 ._speakerc, ._speakercc {
+  font-weight:bolder;
   font-style:italic;
 }
 ._speakera,
@@ -340,10 +345,6 @@ p._speakerc {
 ._speakerc {
   text-indent:-2em;
   margin-left:2em;
-}
-._speakera, ._speakerac,
-._speakerc, ._speakercc {
-  font-weight:bolder;
 }
 ._speakera::before,
 ._speakerb::before,
