@@ -96,10 +96,10 @@ image:    "icon-la-fleur-de-chocolate.svg"
 <h1>Contibutions</h1>
  <p class="_speaker"><span class="_speakera">Go ahead. We are interested.</span></p>
  <p class="_speaker"><span class="_speakerb">OK&hellip; <span class="_paradigm">RAD</span>s are not digital money or anthing like that. But, forget that for now! Let&rsquo;s start with <em>contributions</em>. Normally. you do something good, the boss notices, and he gives you a pat on the back. If he likes you, he may even give you a promotion later. That makes it more tangible, right? But what do you do when you are all owners <em>and there is no boss</em>&hellip;</span></p>
- <p class="_speaker"><span class="_speakera">No boss? That doesn&rsquo;t work&hellip;</span></p>
+ <p class="_speaker"><span class="_speakera">Not a boss? That doesn&rsquo;t work&hellip;</span></p>
  <p class="_speaker"><span class="_speakerc">Cher, that is how we run the front of the store, n&rsquo;est pa?</span></p>
  <p class="_speaker"><span class="_speakera">Yes, but not really.</span></p>
- <p class="_speaker"><span class="_speakerc">Yes, really. We train them and then they take over the store. And they do very well.</span></p>
+ <p class="_speaker"><span class="_speakerc">Yes, really. We train them and then they take over the store. They ask questions now and then, but they do very well on their own.</span></p>
  <p class="_speaker"><span class="_speakera">OK, but you can&rsquo;t run the bakery that without a baker.</span></p>
  <p class="_speaker"><span class="_speakerb">Yes, you'll have to have a baker. Maybe they all become bakers.</span></p>
  <p class="_speaker"><span class="_speakera">Oof.</span></p>
