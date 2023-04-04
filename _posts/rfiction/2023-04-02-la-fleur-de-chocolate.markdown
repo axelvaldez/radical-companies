@@ -56,7 +56,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">There is another option. You could borrow part of it to pay the owners right away and pay the rest in installments. And I don't mean, from a bank, borrow it as a <span class="_paragigm">RADICAL</span> investment.</span></p>
  <p class="_speaker"><span class="_speakera">What is that? How does it work? And what will they give us money when we are all broke.</span></p>
  <p class="_speaker"><span class="_speakerb">How much do they want?</span></p>
- <p class="_speaker"><span class="_speakera">I don&rsquo;t know, and I don&rsquo;t think Virginia knows, either.</span></p>
+ <p class="_speaker"><span class="_speakera">I don&lsquo;&rsquo;&rsquo;t think Virginia knows, either.</span></p>
  <p class="_speaker"><span class="_speakerb">Then that&rsquo;s your homework. We have to know.</span></p>
  <p class="_speaker"><span class="_speakera">Can I tell the others, maybe not all of them, but the more trustworthy one?</span></p>
  <p class="_speaker"><span class="_speakerb">Yes, let&rsquo;s do as the book says and be transparent. However, given the system that we live in, you should probably ask the owner directly and then tell your co-workers.</span></p>
@@ -117,12 +117,16 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">No rules. Whatever a person feels is a contribution, it&rsquo;s a contribution.</span></p>
  <p class="_speaker"><span class="_speakera">OK&hellip;</span></p>
  <p class="_speaker"><span class="_speakerc">Say more.</span></p>
- <p class="_speaker"><span class="_speakerb">People, which are really co-owners, receive one <span class="_paradigm">RAD</span> per day. And, remember what I said about <span class="_paradigm">RAD</span>s, they are not a digital currency or anything like it.</span></p>
 
-<h1>title</h1>
- <p class="_speaker"><span class="_speakerb">There is a <span class="_paradigm">RAD</span>s! mobile app&hellip;</span></p>
- <p class="_speaker"><span class="_speakera">Ah, <em>there is an app for that!</em></span> The man said, smiling</span></p>
- <p class="_speaker"><span class="_speakerb">Yes.</span></p>
+<h1>tit<span class="_paradigm">RAD</span>s</h1>
+ <p class="_speaker"><span class="_speakerb">People receive one <span class="_paradigm">RAD</span> per day. But they don't get to keep, they get to give them out to their peers.</span></p>
+ <p class="_speaker"><span class="_speakerc">It sounds really complicated.</span></p>
+ <p class="_speaker"><span class="_speakerb">There is a <span class="_paradigm">RAD</span>s! mobile app&hellip; that takes care of the &lsquo;complication&rsquo;</span></p>
+ <p class="_speaker"><span class="_speakera">Aha, there is an app&hellip;</span> He let out a full laugh, <span class="_speakerac">THERE IS AN APP FOR THAT!</span></p>
+ <p class="_speaker"><span class="_speakerb">Yes. It let&rsquo;s you recognize contributions when you see them. This means that you don&rsquo;t have to wait until the end of month to vote. And you don't have to convert contributions to <span class="_paradigm">RAD</span>s&mdash;the app does that. Finally, it records all transactions so everybody can see them.</span></p>
+ <p class="_speaker"><span class="_speakerc">Can I take these <span class="_paradigm">RAD</span>s away?</span></p>
+ <p class="_speaker"><span class="_speakerb"><span class="_paradigm">RAD</span>s are given for contributions, so it doesn't make sense to take them away. I think you mean to punish somebody, is there a way to punish somebody with the system. And the answer to that is no. But there is an option to ask to talk instead of giving them <span class="_paradigm">RAD</span>s. If he offending behavior persists and you and your peers stop given the person <span class="_paradigm">RAD</span>s, eventually they will leave.</span></p>
+ <p class="_speaker"><span class="_speakerb"></span></p>
  <p class="_speaker"><span class="_speakerb">
  
 <h1 class="_section">ENDNOTES</h1>
