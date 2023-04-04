@@ -82,7 +82,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerc">Yes!</span> Said the woman right away. <span class="_speakercc">And you are not our employee.</span></p>
  <p class="_speaker"><span class="_speakerb">That&rsquo;s OK, because I don&rsquo;t want to buy it. I am here to find out the financial terms and, if need be, to loan them money.</span></p>
  <p class="_speaker"><span class="_speakera">Oh.</span></p>
- <p class="_speaker"><span class="_speakerb">Ouh.</span></p>
+ <p class="_speaker"><span class="_speakerb">&rsquo;dieu!</span></p>
  <p>They both looked worried now.</p>
  <p class="_speaker"><span class="_speakerb">I am not here to negotiate or anything like that, only to understand the financial terms and the magnitud of the price That is it.</span></p>
  
