@@ -70,20 +70,21 @@ image:    "icon-la-fleur-de-chocolate.svg"
 
 <h1>The Meeting</h1>
  <p>We went through the niceties and the hellos and then there was the silence of not knowing how to start. So, I started.</p>
- <p class="_speaker"><span class="_speakera">I am sorry if you are surprised that I know about your plans, but there is a valid and innocent reason&hellip;</span></p>
- <p>After my explanation, the man seemed more relaxed and the woman offered coffee. This time I accepted to give time to digest. In the meantime I told the man that I had been to Ginole les bains and it was beautiful and very relaxing.</p>
- <p class="_speaker"><span class="_speakerb">Where did you stay. At the old bathhouse. At the sound of that, he leaned forward as if to ask something, but he was interrupted by his wife coming back with the coffee.</span></p>
- <p class="_speaker"><span class="_speakerc">Black and no cream, right?</span></p>
- <p class="_speaker"><span class="_speakera">Right!</span></p>
- <p class="_speaker"><span class="_speakerb">She sat down with a nervous smile on her face and glanced at her husband.</span></p>
- <p class="_speaker"><span class="_speakerc">We have not decided to sell, yet. We haven&rsquo;t even gone out to look for buyers.</span></p>
- <p class="_speaker"><span class="_speakera">But you prefer to sell it to your employees.</span></p>
+ <p class="_speaker"><span class="_speakerb">I am sorry if you are surprised that I know about your plans, but there is a valid and innocent reason&hellip;</span></p>
+ <p>After my explanation, the man seemed more relaxed and the woman offered coffee. This time I accepted to give time to digest. In the meantime I told the man that I had been to Ginole les bains and found it beautiful and very relaxing.</p>
+ <p class="_speaker"><span class="_speakera">Did you stat in town? Where?</span></p>
+ <p class="_speaker"><span class="_speakerb">At the old bathhouse.</span> At the sound of that, he leaned forward as if to ask something, but he was interrupted by his wife coming back with the coffee.</p>
+ <p class="_speaker"><span class="_speakerc">Black and no cream, right?</span> She said in a happy tone.</p>
+ <p class="_speaker"><span class="_speakerb">Right! Thanks.</span></p>
+ <p>She sat down with a nervous smile on her face and glanced at her husband.</p>
+ <p class="_speaker"><span class="_speakera">We have not decided to sell, yet. We haven&rsquo;t even gone out to look for buyers.</span></p>
+ <p class="_speaker"><span class="_speakerb">But you prefer to sell it to your employees.</span></p>
  <p class="_speaker"><span class="_speakerc">Yes!</span> Said the woman right away. <span class="_speakercc">And you are not our employee.</span></p>
- <p class="_speaker"><span class="_speakera">That&rsquo;s OK, because I don&rsquo;t want to buy it. I am here to find out the financial terms and, if need be, to loan them money.</span></p>
- <p class="_speaker"><span class="_speakerc">Oh.</span></p>
+ <p class="_speaker"><span class="_speakerb">That&rsquo;s OK, because I don&rsquo;t want to buy it. I am here to find out the financial terms and, if need be, to loan them money.</span></p>
+ <p class="_speaker"><span class="_speakera">Oh.</span></p>
  <p class="_speaker"><span class="_speakerb">Ouh.</span></p>
  <p>They both looked worried now.</p>
- <p class="_speaker"><span class="_speakera">I am not here to negotiate or anything like that, only to understand the financial terms and the magnitud of the price That is it.</span></p>
+ <p class="_speaker"><span class="_speakerb">I am not here to negotiate or anything like that, only to understand the financial terms and the magnitud of the price That is it.</span></p>
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
