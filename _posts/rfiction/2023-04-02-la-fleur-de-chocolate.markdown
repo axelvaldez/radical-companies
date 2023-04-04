@@ -100,7 +100,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerc">Cher, that is how we run the front of the store, n&rsquo;est pa?</span></p>
  <p class="_speaker"><span class="_speakera">Yes, but not really.</span></p>
  <p class="_speaker"><span class="_speakerc">Yes, really. We train them and then they take over the store. And they do very well.</span></p>
- <p class="_speaker"><span class="_speakera">OK, but you can&rsquo;t run the bakery that with a baker.</span></p>
+ <p class="_speaker"><span class="_speakera">OK, but you can&rsquo;t run the bakery that without a baker.</span></p>
  <p class="_speaker"><span class="_speakerb">Yes, you'll have to have a baker. Maybe they all become bakers.</span></p>
  <p class="_speaker"><span class="_speakera">Oof.</span></p>
  <p class="_speaker"><span class="_speakerb">That is how Arizmendi works.</span></p>
