@@ -117,8 +117,9 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">No rules. Whatever a person feels is a contribution, it&rsquo;s a contribution.</span></p>
  <p class="_speaker"><span class="_speakera">OK&hellip;</span></p>
  <p class="_speaker"><span class="_speakerc">Say more.</span></p>
- <p class="_speaker"><span class="_speakerb">People, which are really co-owners, receive one <span class="_paradigm">RAD</span> per day. And, remember what I said about <span class="_paradigm">RAD</span>s, they are not a digital currency or anything like it
- <p class="_speaker"><span class="_speakera">
+ <p class="_speaker"><span class="_speakerb">People, which are really co-owners, receive one <span class="_paradigm">RAD</span> per day. And, remember what I said about <span class="_paradigm">RAD</span>s, they are not a digital currency or anything like it.</span></p>
+
+<h1>title</h1>
  <p class="_speaker"><span class="_speakerb">There is a <span class="_paradigm">RAD</span>s! mobile app&hellip;</span></p>
  <p class="_speaker"><span class="_speakera">Ah, <em>there is an app for that!</em></span> The man said, smiling</span></p>
  <p class="_speaker"><span class="_speakerb">Yes.</span></p>
