@@ -330,8 +330,8 @@ p._speakerb,
 p._speakerc {
   margin-bottom:0;
 }
-._speakera, ._speakerac, {
-  font-weight:bold;
+._speakera, ._speakerac {
+  font-weight:bolder;
 }
 ._speakerb, ._speakerbc {
   font-weight:normal;
