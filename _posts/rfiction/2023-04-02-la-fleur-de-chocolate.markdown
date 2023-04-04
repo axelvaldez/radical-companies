@@ -83,7 +83,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerc">Oh.</span></p>
  <p class="_speaker"><span class="_speakerb">Ouh.</span></p>
  <p>They both looked worried now.</p>
- <p class="_speaker"><span class="_speakera">I am not here to negotiate or anything like that, only to understand the financial terms.</span></p>
+ <p class="_speaker"><span class="_speakera">I am not here to negotiate or anything like that, only to understand the financial terms and the magnitud of the price That is it.</span></p>
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
