@@ -118,7 +118,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakera">OK&hellip;</span></p>
  <p class="_speaker"><span class="_speakerc">Say more.</span></p>
 
-<h1>tit<span class="_paradigm">RAD</span>s</h1>
+<h1><span class="_paradigm">RAD</span>s</h1>
  <p class="_speaker"><span class="_speakerb">People receive one <span class="_paradigm">RAD</span> per day. But they don't get to keep, they get to give them out to their peers.</span></p>
  <p class="_speaker"><span class="_speakerc">It sounds really complicated.</span></p>
  <p class="_speaker"><span class="_speakerb">There is a <span class="_paradigm">RAD</span>s! mobile app&hellip; that takes care of the &lsquo;complication&rsquo;</span></p>
