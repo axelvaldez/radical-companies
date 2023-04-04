@@ -85,9 +85,9 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">M&rsquo;dieu!</span></p>
  <p>They both looked worried now.</p>
  <p class="_speaker"><span class="_speakerc">We were going to tell them anyway. In fact&hellip;<span> She glanced at her husband and he subtly signaled agreement with his eyes, <span class="_speakercc">We prefer to tell them ourselves.</span></p>
- <p class="_speaker"><span class="_speakerb">That would be best. I felt akward coming here anyways. Not let me explain what I see as my involvement</span>&mdash;I paused for a bit and thought about what I wanted to say and how I wanted to say it&mdash;<span class="_speakerbc">I intend to help them out with the finances, the money part, but I don&rsquo;t want to expect any pwer over the company in any way. Except, maybe, they should reserve three chocaolate eclairs from me.</span> Finally, we all got to smile and relax a bit.</span></p>
+ <p class="_speaker"><span class="_speakerb">That would be best. I felt akward coming here anyways. Not let me explain what I see as my involvement</span>&mdash;I paused for a bit and thought about what I wanted to say and how I wanted to say it&mdash;<span class="_speakerbc">I intend to help them out with the finances, the money part, but I don&rsquo;t want to expect any pwer over the company in any way. Except, maybe, they should reserve three chocaolate eclairs from me.</span> Finally, we all got to smile and relax a bit.</p>
  <p class="_speaker"><span class="_speakera">What do you mean you don&rsquo;t want any power for your money?</span></p>
- <p class="_speaker"><span class="_speakerb">Hmm. This may sound weird to you, but I am more interested in the success of them and the community, our town. I&rsquo;ll give them what I call a <span class="_paragigm">RADICAL</span> investment, which means that they have to pay back the principle, the amount of money I give them, plus something else. I've made a couple of these investments before and the something else is that we take my interest, usually 10%, and the co-owners match it. We end up with 20% of the investmet in a pool and then distribute it to everybody based on their&hellip; contributions.</span></p></span></p>
+ <p class="_speaker"><span class="_speakerb">Hmm. This may sound weird to you, but I am more interested in the success of them and the community, our town. I&rsquo;ll give them what I call a <span class="_paragigm">RADICAL</span> investment, which means that they have to pay back the principle, the amount of money I give them, plus something else. I've made a couple of these investments before and the something else is that we take my interest, usually 10%, and the co-owners match it. We end up with 20% of the investmet in a pool and then distribute it to everybody based on their&hellip; contributions.</span></p>
  <p class="_speaker"><span class="_speakerc">And then you decide? or they vote? How do you decided their contributions? Besides, waiting until the very end&hellip; I don&rsquo;t think that works!</span></p>
  <p class="_speaker"><span class="_speakerb">Yes, to everythig you said. But, no, that is not quite the way it works.</span></p>
  <p class="_speaker"><span class="_speakera">Then, how does it work?</span></p>
@@ -107,9 +107,10 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakera">The hippie bakery in San Francico.</span></p>
  <p class="_speaker"><span class="_speakerb">That one. It is very successful and very profitable.</span></p>
  <p class="_speaker"><span class="_speakera">And it gives me a headache.</span></p>
- <p class="_speaker">She looked at him sternly and then she turned to me, <span class="_speakerc">we tried that in France, but it didn't work. It ended up being very chaotic.</span></p>
- <p class="_speaker"><span class="_speakerb">Yes, that can happen. But I am the cofounder of a business that is up to 900 people now, it has no bosses, and it is very profitable and not chaotic at all.</span></p>
- <p>That made the sit up. I guess I had credibility with them now.</p>
+ <p>She looked at him sternly and then she turned to me,</p>
+ <p class="_speaker"><span class="_speakerc">We tried that, but it didn't work. It ended up being very chaotic.</span></p>
+ <p class="_speaker"><span class="_speakerb">Yes, it can happen, but it doesn&rsquo;t have to. I am the cofounder of a business that is up to 900 people now, it has no bosses, it is very profitable, and it is not chaotic at all.</span></p>
+ <p>That made them sit up. I guess I had credibility with them now.</p>
  <p class="_speaker"><span class="_speakera">
  <p class="_speaker"><span class="_speakerb">There is a <span class="_paradigm">RAD</span>s! mobile app&hellip;</span></p>
  <p class="_speaker"><span class="_speakera">Ah, <em>there is an app for that!</em></span> The man said, smiling</p>
