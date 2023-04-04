@@ -109,7 +109,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakera">And it gives me a headache.</span></p>
  <p>She looked at him sternly and then she turned to me,</p>
  <p class="_speaker"><span class="_speakerc">We tried that, but it didn't work. It ended up being very chaotic.</span></p>
- <p class="_speaker"><span class="_speakerb">Yes, it can happen, but it doesn&rsquo;t have to. I am the cofounder of a business that is up to 900 people now, it has no bosses, it is very profitable, and it is not chaotic at all.</span></p>
+ <p class="_speaker"><span class="_speakerb">Yes, it can happen, but it doesn&rsquo;t have to. I am the cofounder of a business that is over 800 people now, but it has no bosses, it is very profitable, and it is not chaotic at all.</span></p>
  <p>That made them sit up. I guess I had credibility with them now.</p>
  <p class="_speaker"><span class="_speakera">
  <p class="_speaker"><span class="_speakerb">There is a <span class="_paradigm">RAD</span>s! mobile app&hellip;</span></p>
