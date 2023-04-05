@@ -153,15 +153,15 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">Instead of taking <span class="_paradigm">RAD</span>s away, there is a button for asking for &lsquo;a talk&rsquo;.</span></p>
  <p class="_speaker"><span class="_speakerc">Of course.</span> She said quietly.</p>
  <p class="_speaker"><span class="_speakerb">If you talk to the person and the offending behavior doesn&rsquo;t change, you and your peers will likely stop giving this person <span class="_paradigm">RAD</span>s and eventually they will leave.</span></p>
- <p class="_speaker"><span class="_speakera">Go away. We don&rsquo;t love you anymore</span> The way he said it, it was a statemnt, an annoucement to the world.</span></p>
- <p>I nearly fell off my chair because at the root of having people learn new things: through love. They figured that out in front of my eyes.</span></p>
+ <p class="_speaker"><span class="_speakera">Go away. We don&rsquo;t love you anymore</span> The way he said it, it was a statemnt, an annoucement to the world.</p>
+ <p>I nearly fell off my chair because at the root of having people learn new things: through love. They figured that out in front of my eyes.</p>
 
 <h1>Can We Invest, Too</h1>
  <p class="_speaker"><span class="_speakera">Can we invest, too. I mean, the same as you.</span></p>
  <p class="_speaker"><span class="_speakerb">Of course&hellip;</span></p>
  <p class="_speaker"><span class="_speakera">We thought of seelig to our employees for a lower price, but we can sell it for a normal price but charge them less. I am not sure I am explaining myself correctly.</span></p>
  <p class="_speaker"><span class="_speakera">Perfectly clear. You sell it for $100, but expect only $80 dollars&hellip;</span></p>
- <p class="_speaker"><span class="_speakerc">More like $50 dollars</span> She said as she looked at her husband.</p>
+ <p class="_speaker"><span class="_speakerc">More like $50 dollars</span> She said as she looked at her husband.</span></p>
  <p class="_speaker"><span class="_speakera">Yes, something like that.</span></p>
  <p class="_speaker"><span class="_speakerb">That would work&hellip; wonderfully.</span></p>
  
