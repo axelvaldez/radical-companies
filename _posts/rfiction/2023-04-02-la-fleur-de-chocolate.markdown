@@ -133,8 +133,27 @@ image:    "icon-la-fleur-de-chocolate.svg"
 
 <h1>Punishment</h1>
  <p class="_speaker"><span class="_speakerc">Can I take <span class="_paradigm">RAD</span>s away?</span></p>
- <p class="_speaker"><span class="_speakerb"><span class="_paradigm">RAD</span>s are given for contributions, so unless the contributions disappear, somehow, it doesn't make sense to take <span class="_paradigm">RAD</span>s away.</span> I wasn&rsquo;t sure whether to say or not, but I said anyway, <span class="_speakerbc">You might be asking if there a way to <em>punish</em> somebody, is that it? And the answer to that is no. But there is a button for asking for &lsquo;a talk&rsquo;. If you talk to the person and the offending doesn&rsquo;t change, you and your peers will likely stop giving this person <span class="_paradigm">RAD</span>s and eventually they will leave.</span></p>
- <p class="_speaker"><span class="_speakerb"></span></p>
+ <p class="_speaker"><span class="_speakerb"><span class="_paradigm">RAD</span>s are given for contributions, so unless the contributions disappear, somehow, it doesn't make sense to take <span class="_paradigm">RAD</span>s away.</span> I wasn&rsquo;t sure whether to say or not, but I said anyway, <span class="_speakerbc">You might be asking if there a way to <em>punish</em> somebody, is that it?</span></p>
+ <p class="_speaker"><span class="_speakerc">Yes, you have to make sure that things are done the right way. Punishment is very good to make people learn.</span></p>
+ <p class="_speaker"><span class="_speakerb">Do you have kids?</span></p>
+ <p class="_speaker"><span class="_speakerc">Yes</span></p>
+ <p class="_speaker"><span class="_speakerb">Do you love them?</span></p>
+ <p class="_speaker"><span class="_speakerc">Of course. Yes.</span></p>
+ <p class="_speaker"><span class="_speakerb">Do you beat them into submission every time they do something you don&rsquo;t like?</span></p>
+ <p class="_speaker"><span class="_speakera">Enough of that. That is not what she said&hellip.</span></p>
+ <p class="_speaker"><span class="_speakerc">&hellip; No, I don&rsquo;t beat them when do something wrong? I teach the why it is wrong?</span></p>
+ <p>We all feel into silence after she said that. The man had his arms crossed, but was lost in thoughts. She kept starting at, or rather, past me. I wasn&rsqio;t sure, but I felt we had crossed a significant line.</p>
+ <p class="_speaker"><span class="_speakerc">You know, it became chaotic after we started yelling at each other. All that yelling.</span></p>
+ <p class="_speaker"><span class="_speakerb">All that fear, yes. Something is wrong and people try to get control. Other submit, or it falls apart.</span></p>
+ <p class="_speaker"><span class="_speakerc">It fell apart because all the yellin.</span></p>
+ <p class="_speaker"><span class="_speakerb">Yes, it was about taking control.</span></p>
+ <p>I felt like crying. These people had made quite a leap in an instant. We had crossed the line. The FIAT glasses had just come off and they could see one instance where it made them fail. Their own daemons had won and thes fell apart. But they figured it out.</p>
+ <p class="_speaker"><span class="_speakerc">So, no punishment.</span> She was looking at her knees.</p>
+ <p class="_speaker"><span class="_speakera">No punishment.</span> He was looking at her.</p>
+ <p class="_speaker"><span class="_speakerb">Instea of taking RADs away, there is a button for asking for &lsquo;a talk&rsquo;.</span></p>
+ <p class="_speaker"><span class="_speakerc">Of course.</span> She said quietly.</p>
+ <p class="_speaker"><span class="_speakerb">If you talk to the person and the offending behavior doesn&rsquo;t change, you and your peers will likely stop giving this person <span class="_paradigm">RAD</span>s and eventually they will leave.</span></p>
+ <p class="_speaker"><span class="_speakera">We don&rsquo;t love you anymore</span> The way he said it, it was a statemnt, an annoucement to the world. I nearly fell off my chair.</span></p>
  <p class="_speaker"><span class="_speakerb">
  
 <h1 class="_section">ENDNOTES</h1>
