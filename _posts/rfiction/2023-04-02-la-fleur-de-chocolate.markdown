@@ -156,7 +156,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakera">Go away. We don&rsquo;t love you anymore</span> The way he said it, it was a statemnt, an annoucement to the world.</p>
  <p>I nearly fell off my chair because at the root of having people learn new things: through love. They figured that out in front of my eyes.</p>
 
-<h1>Can We Invest Like You</h1>
+<h1>Can We Invest Like You?</h1>
  <p class="_speaker"><span class="_speakera">Can we invest, too. I mean, the same as you.</span></p>
  <p class="_speaker"><span class="_speakerb">Of course&hellip;</span></p>
  <p class="_speaker"><span class="_speakera">We thought of seelig to our employees for a lower price, but we can sell it for a normal price but charge them less. I am not sure I am explaining myself correctly.</span></p>
