@@ -140,7 +140,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">Do you love them?</span></p>
  <p class="_speaker"><span class="_speakerc">Of course. Yes.</span></p>
  <p class="_speaker"><span class="_speakerb">Do you beat them into submission every time they do something you don&rsquo;t like?</span></p>
- <p class="_speaker"><span class="_speakera">Enough of that. That is not what she said&hellip.</span></p>
+ <p class="_speaker"><span class="_speakera">Enough of that. That is not what she said&hellip;.</span></p>
  <p class="_speaker"><span class="_speakerc">&hellip; No, I don&rsquo;t beat them when do something wrong? I teach the why it is wrong?</span></p>
  <p>We all feel into silence after she said that. The man had his arms crossed, but was lost in thoughts. She kept starting at, or rather, past me. I wasn&rsqio;t sure, but I felt we had crossed a significant line.</p>
  <p class="_speaker"><span class="_speakerc">You know, it became chaotic after we started yelling at each other. All that yelling.</span></p>
