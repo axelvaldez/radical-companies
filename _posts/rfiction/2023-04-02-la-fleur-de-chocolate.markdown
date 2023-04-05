@@ -7,11 +7,11 @@ image:    "icon-la-fleur-de-chocolate.svg"
 ---
 
 <div style="display:none;">
- <p>The town I lived in has the first <span class="_paragigm">RADICAL</span> company. A delicious pastry shop, and my favorite store, of all places. In fact, it is truly the first <span class="_paragigm">RADICAL</span> company I know of.</p>
+ <p>The town I lived in has the first <span class="_paradigm">RADICAL</span> company. A delicious pastry shop, and my favorite store, of all places. In fact, it is truly the first <span class="_paradigm">RADICAL</span> company I know of.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The town I lived in has the first <span class="_paragigm">RADICAL</span> company. A delicious pastry shop, and my favorite store, of all places. In fact, it is truly the first <span class="_paragigm">RADICAL</span> company I know of.</p>
+ <p>The town I lived in has the first <span class="_paradigm">RADICAL</span> company. A delicious pastry shop, and my favorite store, of all places. In fact, it is truly the first <span class="_paradigm">RADICAL</span> company I know of.</p>
 
 <h1>All Smiles</h1>
  <p>I met Christina on her first day at the shop. She was all smiles and we got to talk about her day and her boyfriend and her life. She mentioned that she did&rsquo;t know any other Christinas. As it happened, we want down the street, walked into a new plat shop, and, what do you know we met another youg woman named Christina (and, yes, my wife and I always exchnage names with the new people we meet). But I digress.</p>
@@ -52,8 +52,8 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakera">Well, the owners talked to a few people. And we asked them and Vicky told us that the owners were thinking of moving back to France and selling the store, but that they would really want to sell it to us, at least some of us. I was through most of the second section of your book so I re-read the rest of it as fast as I could and then I read the last two thirds again and&hellip; here we are.</span></p>
  <p class="_speaker"><span class="_speakerb">Holly sh&hellip; what <em>timing</em>.</span></p>
 
-<h1>Children of <span class="_paragigm">FIAT</span></h1>
- <p class="_speaker"><span class="_speakerb">There is another option. You could borrow part of it to pay the owners right away and pay the rest in installments. And I don't mean, from a bank, borrow it as a <span class="_paragigm">RADICAL</span> investment.</span></p>
+<h1>Children of <span class="_paradigm">FIAT</span></h1>
+ <p class="_speaker"><span class="_speakerb">There is another option. You could borrow part of it to pay the owners right away and pay the rest in installments. And I don't mean, from a bank, borrow it as a <span class="_paradigm">RADICAL</span> investment.</span></p>
  <p class="_speaker"><span class="_speakera">What is that? How does it work? And what will they give us money when we are all broke.</span></p>
  <p class="_speaker"><span class="_speakerb">How much do they want?</span></p>
  <p class="_speaker"><span class="_speakera">I don&rsquo;t think Vicky knows, either.</span></p>
@@ -64,7 +64,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">Good point. Then, if they do, tell them that I might be interested. I am.</span></p>
  <p class="_speaker"><span class="_speakera">Do you have a lot of money?</span></p>
  <p class="_speaker"><span class="_speakerb">Probably not enough, but, given the system we live in, I have credibility.</span></p>
- <p class="_speaker"><span class="_speakera">We live in the <span class="_paragigm">FIAT</span> system, right?</span></p>
+ <p class="_speaker"><span class="_speakera">We live in the <span class="_paradigm">FIAT</span> system, right?</span></p>
  <p class="_speaker"><span class="_speakerb">Yep!</span></p>
  <p class="_speaker"><span class="_speakera">Got it!</span></p>
 
@@ -87,11 +87,11 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerc">We were going to tell them anyway. In fact&hellip;<span> She glanced at her husband and he subtly signaled agreement with his eyes, <span class="_speakercc">We prefer to tell them ourselves.</span></p>
  <p class="_speaker"><span class="_speakerb">That would be best. I felt akward coming here anyways. Not let me explain what I see as my involvement</span>&mdash;I paused for a bit and thought about what I wanted to say and how I wanted to say it&mdash;<span class="_speakerbc">I intend to help them out with the finances, the money part, but I don&rsquo;t want to expect any pwer over the company in any way. Except, maybe, they should reserve three chocaolate eclairs from me.</span> Finally, we all got to smile and relax a bit.</p>
  <p class="_speaker"><span class="_speakera">What do you mean you don&rsquo;t want any power for your money?</span></p>
- <p class="_speaker"><span class="_speakerb">Hmm. This may sound weird to you, but I am more interested in the success of them and the community, our town. I&rsquo;ll give them what I call a <span class="_paragigm">RADICAL</span> investment, which means that they have to pay back the principle, the amount of money I give them, plus something else. I've made a couple of these investments before and the something else is that we take my interest, usually 10%, and the co-owners match it. We end up with 20% of the investmet in a pool and then distribute it to everybody based on their&hellip; contributions.</span></p>
+ <p class="_speaker"><span class="_speakerb">Hmm. This may sound weird to you, but I am more interested in the success of them and the community, our town. I&rsquo;ll give them what I call a <span class="_paradigm">RADICAL</span> investment, which means that they have to pay back the principle, the amount of money I give them, plus something else. I've made a couple of these investments before and the something else is that we take my interest, usually 10%, and the co-owners match it. We end up with 20% of the investmet in a pool and then distribute it to everybody based on their&hellip; contributions.</span></p>
  <p class="_speaker"><span class="_speakerc">And then you decide? or they vote? How do you decided their contributions? Besides, waiting until the very end&hellip; I don&rsquo;t think that works!</span></p>
  <p class="_speaker"><span class="_speakerb">Yes, to everythig you said. But, no, that is not quite the way it works.</span></p>
  <p class="_speaker"><span class="_speakera">Then, how does it work?</span></p>
- <p class="_speaker"><span class="_speakerb">OK, you are interested, so I'll give you the whole tour of how <span class="_paragigm">RAD</span>s work.</span></p>
+ <p class="_speaker"><span class="_speakerb">OK, you are interested, so I'll give you the whole tour of how <span class="_paradigm">RAD</span>s work.</span></p>
 
 <h1>Contibutions</h1>
  <p class="_speaker"><span class="_speakera">Go ahead. We are interested.</span></p>
