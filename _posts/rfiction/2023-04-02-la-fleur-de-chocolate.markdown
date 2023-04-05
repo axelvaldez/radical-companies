@@ -119,8 +119,11 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerc">Say more.</span></p>
 
 <h1><span class="_paradigm">RAD</span>s</h1>
- <p class="_speaker"><span class="_speakerb">People receive one <span class="_paradigm">RAD</span> per day. But they don't get to keep, they get to give them out to their peers.</span></p>
- <p class="_speaker"><span class="_speakerc">It sounds really complicated.</span></p>
+ <p class="_speaker"><span class="_speakerb">The contributions that you give reflect how you feel about what happen. You see behavior, you feel enthused about it, and you press the &ldquo;contributions&rsquo; button to your hearts content. But we want these contributions to be tangible, not empty backslaps. To make them tangible, you have to convert them to <span class="_paradigm">RAD</span>s. If you give somebody 10% of all the contributions you given out this month and you have $100, they get $10, but if you hade $1,000, they&rsquo;d get $100. Rather tan converting directly to dollars or euroes, we convert to <span class="_paradigm">RAD</span>s. Later when, say, revenue comes in, that revenue is distributed according to the numbers of <span class="_paradigm">RAD</span>s you have. If you have twice as many rads as me, you get twice as much of that revenue as me.</span></p>
+ <p class="_speaker"><span class="_speakerc">Still, it sounds very complicated.</span></p>
+ <p class="_speaker"><span class="_speakerb">It is different, but not that complicated. Money is more complicated, except that the machinery is hidden to you and me.</span></p>
+ <p class="_speaker"><span class="_speakerc">That is true. It still sounds complicated.</span></p>
+ <p class="_speaker"><span class="_speakerb">People earn one <span class="_paradigm">RAD</span> per day. Not to keep, but to give them out to their peers. At the end of, say, each month your contributions get converted to <span class="_paradigm">RAD</span>s, and, say, money get s distributedyou <span class="_paradigm">RAD</span> get distributed </span></p>
  <p class="_speaker"><span class="_speakerb">There is a <span class="_paradigm">RAD</span>s! mobile app&hellip; that takes care of the &lsquo;complication&rsquo;</span></p>
  <p class="_speaker"><span class="_speakera">Aha, there is an app&hellip;</span> He let out a full laugh, <span class="_speakerac">THERE IS AN APP FOR THAT!</span></p>
  <p class="_speaker"><span class="_speakerb">Yes. It let&rsquo;s you recognize contributions when you see them. This means that you don&rsquo;t have to wait until the end of month to vote. And you don't have to convert contributions to <span class="_paradigm">RAD</span>s&mdash;the app does that. Finally, it records all transactions so everybody can see them.</span></p>
