@@ -133,7 +133,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
 
 <h1>Punishment</h1>
  <p class="_speaker"><span class="_speakerc">Can I take <span class="_paradigm">RAD</span>s away?</span></p>
- <p class="_speaker"><span class="_speakerb"><span class="_paradigm">RAD</span>s are given for contributions, so unless the contributions were fake, it doesn't make sense to take <span class="_paradigm">RAD</span>s away. You might be asking if there a way to <em>punish</em> somebody, is that it? And the answer to that is no. But there is an option to ask to &ldquo;have a talk&rdquo; instead of giving them <span class="_paradigm">RAD</span>s. If he offending behavior persists and you and your peers stop given the person <span class="_paradigm">RAD</span>s, eventually they will leave.</span></p>
+ <p class="_speaker"><span class="_speakerb"><span class="_paradigm">RAD</span>s are given for contributions, so unless the contributions disappear, somehow, it doesn't make sense to take <span class="_paradigm">RAD</span>s away.</span> I wasn&rsquo;t sure whether to say or not, but I said anyway, <span class="_speakerb">You might be asking if there a way to <em>punish</em> somebody, is that it? And the answer to that is no. But there is a button for asking for &ldquo;a talk&rdquo;. If you talk to the person and the offending behavior persists you and your peers will stop given the person <span class="_paradigm">RAD</span>s and eventually they will leave.</span></p>
  <p class="_speaker"><span class="_speakerb"></span></p>
  <p class="_speaker"><span class="_speakerb">
  
