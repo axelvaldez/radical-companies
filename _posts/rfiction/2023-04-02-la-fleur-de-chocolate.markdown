@@ -163,7 +163,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">Perfectly clear. You sell it for $100, but expect only $80 dollars and the other $20 would be a <span class="_paradigm">RADICAL</span> loan&hellip;</span></p>
  <p class="_speaker"><span class="_speakerc">More like $50 dollars</span> She said as she looked at her husband.</p>
  <p class="_speaker"><span class="_speakera">Yes, something like that.</span></p>
- <p class="_speaker"><span class="_speakerb">That would work&hellip; wonderfully.</span></p>
+ <p class="_speaker"><span class="_speakerb">Whatever the amount, that would work&hellip; wonderfully.</span></p>
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
