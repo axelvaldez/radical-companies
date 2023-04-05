@@ -93,19 +93,19 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakera">Then, how does it work?</span></p>
  <p class="_speaker"><span class="_speakerb">OK, you are interested, so I'll give you the whole tour of how <span class="_paradigm">RAD</span>s work.</span></p>
 
-<h1>Contibutions</h1>
+<h1>Contributions</h1>
  <p class="_speaker"><span class="_speakera">Go ahead. We are interested.</span></p>
  <p class="_speaker"><span class="_speakerb">OK&hellip; <span class="_paradigm">RAD</span>s are not digital money or anthing like that. But, forget that for now! Let&rsquo;s start with <em>contributions</em>. Normally. you do something good, the boss notices, and he gives you a pat on the back. If he likes you, he may even give you a promotion later. That makes it more tangible, right? But what do you do when you are all owners <em>and there is no boss</em>&hellip;</span></p>
  <p class="_speaker"><span class="_speakera">That doesn&rsquo;t work&hellip;</span></p>
- <p class="_speaker"><span class="_speakerc">Cher, that is how we run the front of the store, n&rsquo;est pa?</span></p>
+ <p class="_speaker"><span class="_speakerc">That is how we run the store, n&rsquo;est pa?</span></p>
  <p class="_speaker"><span class="_speakera">Yes, but not really.</span></p>
  <p class="_speaker"><span class="_speakerc">Yes, really. We train them and then they take over the store. They ask some questions, but they do very well on their own.</span></p>
  <p class="_speaker"><span class="_speakera">OK, but you can&rsquo;t run the bakery that without a baker.</span></p>
- <p class="_speaker"><span class="_speakerb">Yes, you'll have to have a baker. Maybe they all become bakers.</span></p>
+ <p class="_speaker"><span class="_speakerb">Yes, you'll have to have a baker. Maybe they all become bakers and can back up each other.</span></p>
  <p class="_speaker"><span class="_speakera">Oof.</span></p>
  <p class="_speaker"><span class="_speakerb">That is how Arizmendi works.</span></p>
  <p class="_speaker"><span class="_speakera">The hippie bakery in San Francico.</span></p>
- <p class="_speaker"><span class="_speakerb">That one. It is very successful and very profitable.</span></p>
+ <p class="_speaker"><span class="_speakerb">That one. And it is very successful and very profitable.</span></p>
  <p class="_speaker"><span class="_speakera">And it gives me a headache.</span></p>
  <p>She looked at him sternly and then she turned to me,</p>
  <p class="_speaker"><span class="_speakerc">Actually, we tried that, but it didn't work. It ended up being very chaotic.</span></p>
