@@ -147,14 +147,23 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">All that fear, yes. Something is wrong and people try to get control. Other submit, or it falls apart.</span></p>
  <p class="_speaker"><span class="_speakerc">It fell apart because all the yellin.</span></p>
  <p class="_speaker"><span class="_speakerb">Yes, it was about taking control.</span></p>
- <p>I felt like crying. These people had made quite a leap in an instant. We had crossed the line. The <span class="_paradigm">FIAT</span> glasses had just come off and they could see one instance where it made them fail. Their own daemons had won and thes fell apart. But they figured it out.</p>
+ <p>I felt my eyes swelling with tears and emotion. These people had made quite a leap in an instant, they had crossed the line. They had realized in an instance the fear that had made them fail earlier. Their daemons became visible.</p>
  <p class="_speaker"><span class="_speakerc">So, no punishment.</span> She was looking at her knees.</p>
  <p class="_speaker"><span class="_speakera">No punishment.</span> He was looking at her.</p>
  <p class="_speaker"><span class="_speakerb">Instead of taking <span class="_paradigm">RAD</span>s away, there is a button for asking for &lsquo;a talk&rsquo;.</span></p>
  <p class="_speaker"><span class="_speakerc">Of course.</span> She said quietly.</p>
  <p class="_speaker"><span class="_speakerb">If you talk to the person and the offending behavior doesn&rsquo;t change, you and your peers will likely stop giving this person <span class="_paradigm">RAD</span>s and eventually they will leave.</span></p>
- <p class="_speaker"><span class="_speakera">Go away. We don&rsquo;t love you anymore</span> The way he said it, it was a statemnt, an annoucement to the world. I nearly fell off my chair because at the root of having people learn new things: through love.</span></p>
- <p class="_speaker"><span class="_speakerb">
+ <p class="_speaker"><span class="_speakera">Go away. We don&rsquo;t love you anymore</span> The way he said it, it was a statemnt, an annoucement to the world.</span></p>
+ <p>I nearly fell off my chair because at the root of having people learn new things: through love. They figured that out in front of my eyes.</span></p>
+
+<h1>Can We Invest, Too</h1>
+ <p class="_speaker"><span class="_speakera">Can we invest, too. I mean, the same as you.</span></p>
+ <p class="_speaker"><span class="_speakerb">Of course&hellip;</span></p>
+ <p class="_speaker"><span class="_speakera">We thought of seelig to our employees for a lower price, but we can sell it for a normal price but charge them less. I am not sure I am explaining myself correctly.</span></p>
+ <p class="_speaker"><span class="_speakera">Perfectly clear. You sell it for $100, but expect only $80 dollars&hellip;</span></p>
+ <p class="_speaker"><span class="_speakerc">More like $50 dollars</span> She said as she looked at her husband.</p>
+ <p class="_speaker"><span class="_speakera">Yes, something like that.</span></p>
+ <p class="_speaker"><span class="_speakerb">That would work&hellip; wonderfully.</span></p>
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
