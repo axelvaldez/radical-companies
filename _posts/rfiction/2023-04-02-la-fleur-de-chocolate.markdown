@@ -105,7 +105,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakera">Oof.</span></p>
  <p class="_speaker"><span class="_speakerb">That is how Arizmendi works.</span></p>
  <p class="_speaker"><span class="_speakera">The hippie bakery in San Francico.</span></p>
- <p class="_speaker"><span class="_speakerb">That one. And it is very successful and very profitable.</span></p>
+ <p class="_speaker"><span class="_speakerb">Yes, that one. And it is very successful and very profitable.</span></p>
  <p class="_speaker"><span class="_speakera">And it gives me a headache.</span></p>
  <p>She looked at him sternly and then she turned to me,</p>
  <p class="_speaker"><span class="_speakerc">Actually, we tried that, but it didn't work. It ended up being very chaotic.</span></p>
