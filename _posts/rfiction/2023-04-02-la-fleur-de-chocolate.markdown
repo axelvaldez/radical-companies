@@ -113,8 +113,8 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p>That made them sit up. I guess I had credibility with them now.</p>
  <p class="_speaker"><span class="_speakera">So, what happens without a boss.</span></p>
  <p class="_speaker"><span class="_speakerb">People recognize each other&rsquo;s contributions directly.</span></p>
- <p class="_speaker"><span class="_speakera">Rules?</span></p>
- <p class="_speaker"><span class="_speakerb">No rules. Whatever a person feels is a contribution, it&rsquo;s a contribution.</span></p>
+ <p class="_speaker"><span class="_speakera">What are the rules?</span></p>
+ <p class="_speaker"><span class="_speakerb">There are no rules. Whatever a person feels is a contribution, is a contribution.</span></p>
  <p class="_speaker"><span class="_speakera">OK&hellip;</span></p>
  <p class="_speaker"><span class="_speakerc">Say more.</span></p>
 
