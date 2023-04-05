@@ -68,7 +68,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">Yep!</span></p>
  <p class="_speaker"><span class="_speakera">Got it!</span></p>
 
-<h1>The First Meeting</h1>
+<h1>The Meeting</h1>
  <p>We went through the niceties and the hellos and then there was the silence of not knowing how to start. So, I started.</p>
  <p class="_speaker"><span class="_speakerb">I am sorry to surprise you with the news that I knew about your plans, but there is a valid and innocent reason&hellip;</span> And I went on to explain.</p>
  <p>After my explanation, the man seemed more relaxed and the woman offered coffee. This time I accepted to give time to digest. In the meantime I told the man that I had been to Ginole les bains and found it beautiful and very relaxing.</p>
