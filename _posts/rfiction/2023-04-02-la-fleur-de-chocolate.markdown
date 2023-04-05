@@ -147,13 +147,13 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">All that fear, yes. Something is wrong and people try to get control. Other submit, or it falls apart.</span></p>
  <p class="_speaker"><span class="_speakerc">It fell apart because all the yellin.</span></p>
  <p class="_speaker"><span class="_speakerb">Yes, it was about taking control.</span></p>
- <p>I felt like crying. These people had made quite a leap in an instant. We had crossed the line. The FIAT glasses had just come off and they could see one instance where it made them fail. Their own daemons had won and thes fell apart. But they figured it out.</p>
+ <p>I felt like crying. These people had made quite a leap in an instant. We had crossed the line. The <span class="_paradigm">FIAT</span> glasses had just come off and they could see one instance where it made them fail. Their own daemons had won and thes fell apart. But they figured it out.</p>
  <p class="_speaker"><span class="_speakerc">So, no punishment.</span> She was looking at her knees.</p>
  <p class="_speaker"><span class="_speakera">No punishment.</span> He was looking at her.</p>
- <p class="_speaker"><span class="_speakerb">Instea of taking RADs away, there is a button for asking for &lsquo;a talk&rsquo;.</span></p>
+ <p class="_speaker"><span class="_speakerb">Instead of taking <span class="_paradigm">RAD</span>s away, there is a button for asking for &lsquo;a talk&rsquo;.</span></p>
  <p class="_speaker"><span class="_speakerc">Of course.</span> She said quietly.</p>
  <p class="_speaker"><span class="_speakerb">If you talk to the person and the offending behavior doesn&rsquo;t change, you and your peers will likely stop giving this person <span class="_paradigm">RAD</span>s and eventually they will leave.</span></p>
- <p class="_speaker"><span class="_speakera">We don&rsquo;t love you anymore</span> The way he said it, it was a statemnt, an annoucement to the world. I nearly fell off my chair.</span></p>
+ <p class="_speaker"><span class="_speakera">Go away. We don&rsquo;t love you anymore</span> The way he said it, it was a statemnt, an annoucement to the world. I nearly fell off my chair because at the root of having people learn new things: through love.</span></p>
  <p class="_speaker"><span class="_speakerb">
  
 <h1 class="_section">ENDNOTES</h1>
