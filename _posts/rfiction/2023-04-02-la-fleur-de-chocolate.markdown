@@ -112,7 +112,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">Yes, it can happen, but it doesn&rsquo;t have to. I am the cofounder of a business that is over 800 people now, but it has no bosses, it is very profitable, and it is not chaotic at all.</span></p>
  <p>That made them sit up. I guess I had credibility with them now.</p>
  <p class="_speaker"><span class="_speakera">So, what happens without a boss.</span></p>
- <p class="_speaker"><span class="_speakerb">People recognized each other&rsquo;s contributions.</span></p>
+ <p class="_speaker"><span class="_speakerb">People recognize each other&rsquo;s contributions directly.</span></p>
  <p class="_speaker"><span class="_speakera">Rules?</span></p>
  <p class="_speaker"><span class="_speakerb">No rules. Whatever a person feels is a contribution, it&rsquo;s a contribution.</span></p>
  <p class="_speaker"><span class="_speakera">OK&hellip;</span></p>
