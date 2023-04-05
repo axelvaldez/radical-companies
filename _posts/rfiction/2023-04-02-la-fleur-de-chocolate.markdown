@@ -115,7 +115,6 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">People recognize each other&rsquo;s contributions directly.</span></p>
  <p class="_speaker"><span class="_speakera">What are the rules?</span></p>
  <p class="_speaker"><span class="_speakerb">There are no rules. Whatever a person feels is a contribution, is a contribution.</span></p>
- <p class="_speaker"><span class="_speakera">OK&hellip;</span></p>
  <p class="_speaker"><span class="_speakerc">Say more.</span></p>
 
 <h1><span class="_paradigm">RAD</span>s</h1>
