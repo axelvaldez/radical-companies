@@ -7,7 +7,7 @@ image:    "icon-la-fleur-de-chocolate-e01.svg"
 ---
 
 <div style="display:none;">
- <p>The town I lived in has the first <span class="_paradigm">RADICAL</span> company. A delicious pastry shop, and my favorite store, of all places. In fact, it is truly the first <span class="_paradigm">RADICAL</span> company I know of.</p>
+ <p>The town I lived in has the first <span class="_paradigm">RADICAL</span> company. A delicious pastry shop, and my favorite store, of all places. In fact, it is truly the first co-owned and co-managed company I know of.</p>
 </div>
 
 <h1>&nbsp;</h1>
