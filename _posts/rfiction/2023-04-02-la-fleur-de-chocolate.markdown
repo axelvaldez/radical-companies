@@ -145,7 +145,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p>We all feel into silence after she said that. The man had his arms crossed, but was lost in thoughts. She kept starting at, or rather, past me. I wasn&rsqio;t sure, but I felt we had crossed a significant line.</p>
  <p class="_speaker"><span class="_speakerc">You know, it became chaotic after we started yelling at each other. All that yelling.</span></p>
  <p class="_speaker"><span class="_speakerb">All that fear, yes. Something is wrong and people try to get control. Other submit, or it falls apart.</span></p>
- <p class="_speaker"><span class="_speakerc">It fell apart because all the yellin.</span></p>
+ <p class="_speaker"><span class="_speakerc">It fell apart because all the yelling.</span></p>
  <p class="_speaker"><span class="_speakerb">Yes, it was about taking control.</span></p>
  <p>I felt my eyes swelling with tears and emotion. These people had made quite a leap in an instant, they had crossed the line. They had realized in an instance the fear that had made them fail earlier. Their daemons became visible.</p>
  <p class="_speaker"><span class="_speakerc">So, no punishment.</span> She was looking at her knees.</p>
