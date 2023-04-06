@@ -162,14 +162,14 @@ image:    "icon-la-fleur-de-chocolate.svg"
 <h1>Can We Invest Like You?</h1>
  <p class="_speaker"><span class="_speakera">Can we invest, too, the same as you.</span></p>
  <p class="_speaker"><span class="_speakerb">Of course. Like everything else, it is up to your.</span></p>
- <p class="_speaker"><span class="_speakera">We thought of sellig to our employees for a lower price, but we can sell it for a normal price but charge them less. I am not sure I am explaining myself correctly.</span></p>
- <p class="_speaker"><span class="_speakerb">Perfectly clear. You sell it for $100, but expect only $80 dollars and the other $20 would be a <span class="_paradigm">RADICAL</span> loan&hellip;</span></p>
+ <p class="_speaker"><span class="_speakera">We thought of sellig to our employees for a lower price, but this means that we can sell it for a normal price but take less money up front. I am not sure I am explaining myself correctly.</span></p>
+ <p class="_speaker"><span class="_speakerb">Perfectly clear. You sell it for $100, but expect only $80 dollars and the other $20 would be a <span class="_paradigm">RADICAL</span> inventment.</span></p>
  <p class="_speaker"><span class="_speakerc">More like $50 dollars</span> She said as she looked at her husband.</p>
  <p class="_speaker"><span class="_speakera">Yes, something like that.</span></p>
  <p class="_speaker"><span class="_speakerb">Whatever the amount, that would work&hellip; wonderfully.</span></p>
 
-<h1>xxx</h1>
- <p>We didn&rsquo;t say anything for a bit, just sat there in silence.</p>
+<h1><span class="_paradigm">RADICAL</span> Inventments</h1>
+ <p class="_speaker"><span class="_speakerb">What I have done with my <span class="_paradigm">RADICAL</span> inventments is that if the co-workers are willing to match the 10% grain we have agreed to, then we put that money and their money in a pool and distribute according to <span class="_paradigm">RAD</span>s. I figured that they have been working hard to repay the investments and this may be the first opportunity to get the full impact of their <span class="_paradigm">RAD</span>s.</span></p>
  <p class="_speaker"><span class="_speakerb"></span></p>
  
 <h1 class="_section">ENDNOTES</h1>
