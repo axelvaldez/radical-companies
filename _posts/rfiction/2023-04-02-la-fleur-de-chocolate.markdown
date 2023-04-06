@@ -146,7 +146,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerc">You know, it became chaotic after we started yelling at each other. All that yelling.</span></p>
  <p class="_speaker"><span class="_speakerb">All that fear, yes. Something is wrong and people try to get control. Other submit, or it falls apart.</span></p>
  <p class="_speaker"><span class="_speakerc">It fell apart because all the yelling.</span></p>
- <p class="_speaker"><span class="_speakerb">Yes, it was about taking control.</span></p>
+ <p class="_speaker"><span class="_speakera">Yes, it was about taking control.</span></p>
  <p>I felt my eyes swelling with tears and emotion. These people had made quite a leap in an instant, they had crossed the line. They had realized in an instance the fear that had made them fail earlier. Their daemons became visible.</p>
  <p class="_speaker"><span class="_speakerc">So, no punishment.</span> She was looking at her knees.</p>
  <p class="_speaker"><span class="_speakera">No punishment.</span> He was looking at her.</p>
