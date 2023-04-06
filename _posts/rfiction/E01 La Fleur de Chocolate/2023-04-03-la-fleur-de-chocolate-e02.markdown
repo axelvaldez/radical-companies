@@ -141,7 +141,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerc">We've already talk to the people in France and we are going to switch them so they have a guaranteed steady inccome forever. This may not be purely <span class="_paradigm">RADICAL</span>, but&hellip;</span></p>
  <p class="_speaker"><span class="_speakerb">Whatever works for you, it&rsquo;s OK. <span class="_paradigm">RADICAL</span> is not a dogma. It simply is an alternative to <span class="_paradigm">FIAT</span> that works for everybody who creates wealth, not just <span class="_paradigm">FIAT</span> owners.</span></p>
 
-<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+<div class="_next">
  <span style="float:left; " ><a href="https://radicalcompanies.com/2023/04/02/la-fleur-de-chocolate-e01">&lt; Previous</a></span>
  <span style="float:right; "                                                                             >Next &gt;       </span>
 </div>
