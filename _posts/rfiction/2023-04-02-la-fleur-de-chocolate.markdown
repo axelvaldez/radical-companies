@@ -147,7 +147,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">All that fear, yes. Something is wrong and people try to get control. Other submit, or it falls apart.</span></p>
  <p class="_speaker"><span class="_speakerc">It fell apart because all the yelling.</span></p>
  <p class="_speaker"><span class="_speakera">Yes, it was about taking control.</span></p>
- <p>I felt my eyes swelling with tears and emotion. These people had made quite a leap in an instant. They had realized in an instance that fear that had made them fail earlier. They have made their daemons visible.</p>
+ <p>I felt my eyes swelling with tears and emotion. These people had made quite a leap in an instant. They had realized in an instance that fear that had made them fail earlier: they have made their daemons visible.</p>
  <p class="_speaker"><span class="_speakerc">So, no punishment.</span> She was looking at her knees.</p>
  <p class="_speaker"><span class="_speakera">No punishment.</span> He was looking sad and looking her way.</p>
  <p class="_speaker"><span class="_speakerb">Instead of taking <span class="_paradigm">RAD</span>s away, there is a button for asking for &lsquo;a talk&rsquo;.</span></p>
