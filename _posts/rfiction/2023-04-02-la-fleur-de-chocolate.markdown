@@ -192,12 +192,12 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">Is this the last payment on the debt? That means you are early!</span></p>
  <p class="_speaker"><span class="_speakerc">Business is great.</span> Vicky said. <span class="_speakercc">The <span class="_paradigm">RAD</span>s&rsquo; yield is going up for everybody.</span></p>
  <p class="_speaker"><span class="_speakerb">Wow&hellip;</span></p>
- <p class="_speaker"><span class="_speakerc">In fact, we don&rsquo;t even have a PRI fund any more. But now we have to pay then and you to retire that debt.</span></p>
- <p class="_speaker"><span class="_speakerb">Look at you, &lsquo;PRI&rsquo; and &lsquo;retire&rsquo; in the same breath. That is fantastic.</span></p>
- <p class="_speaker"><span class="_speakerc">Wait until you get paid back.</span> They were now laughing out loud. <span class="_speakercc">And, by the way, we are going to match the you and their for the <span class="_paradigm">RAD</span>s fund to have an extra distribution. We could even reduce your number to %5, instead of 10%, to make sure that your investement grows by 5% for sure.</span></p>
+ <p class="_speaker"><span class="_speakerc">In fact, we don&rsquo;t even have a <span class="_paradigm">PRI</span> fund any more. But now we have to pay then and you to retire that debt.</span></p>
+ <p class="_speaker"><span class="_speakerb">Look at you, &lsquo;<span class="_paradigm">PRI</span>&rsquo; and &lsquo;retire&rsquo; in the same breath. That is fantastic.</span></p>
+ <p class="_speaker"><span class="_speakerc">Don&rsquo;t say that until you get paid back.</span> Vicky was laughing out loud. <span class="_speakercc">And, by the way, we are going to put our 20% in the <span class="_paradigm">RAD</span>s fund to have an extra distribution. We could even reduce your number to %5, instead of 10%, to make sure that your investement grows by 5% for sure.</span></p>
  <p class="_speaker"><span class="_speakerb">We could do that. Let&rsquo;s wait until we crossed that bridge.</span></p>
- <p class="_speaker"><span class="_speakerc">We've already talk to the people in france and we are going to switch them so they a guaranteed steady inccome out of the shop. Thay may not be purely RADICAL, but&hellip;</span></p>
- <p class="_speaker"><span class="_speakerb">Whatever works for you, it&rsquo;s OK. This is not a dogma as much as an alternative that works better for all of us, all co-owners.</span></p>
+ <p class="_speaker"><span class="_speakerc">We've already talk to the people in France and we are going to switch them so they have a guaranteed steady inccome forever. This may not be purely <span class="_paradigm">RADICAL</span>, but&hellip;</span></p>
+ <p class="_speaker"><span class="_speakerb">Whatever works for you, it&rsquo;s OK. <span class="_paradigm">RADICAL</span> is not a dogma. It simply is an alternative to <span class="_paradigm">FIAT</span> that works for all of us, not just the lucky few. It works for all co-owners, not just <span class="_paradigm">FIAT</span> owners.</span></p>
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
