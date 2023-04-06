@@ -84,7 +84,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <span style="float:left; "                                                                             >&lt; Previous </span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2023/04/03/la-fleur-de-chocolate-e02">Next &gt;</span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2023/04/03/la-fleur-de-chocolate-e02">Next &gt;</a></span>
 </div>
 
 <!--
