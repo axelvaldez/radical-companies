@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "La Fleur de Chocolate"
+title:    "La Fleur de Chocolate (E02)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-la-fleur-de-chocolate.svg"
