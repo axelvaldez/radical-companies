@@ -68,7 +68,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">Yep!</span></p>
  <p class="_speaker"><span class="_speakera">Got it!</span></p>
 
-<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+<div class="_next">
  <span style="float:left; "                                                                             >&lt; Previous </span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2023/04/03/la-fleur-de-chocolate-e02">Next &gt;</a></span>
 </div>

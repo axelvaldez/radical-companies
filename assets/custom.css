@@ -493,3 +493,12 @@ div table._foundation {
   padding-bottom:0.5em;
 }
 /* Q&A END*/
+
+/* < PREVIOUS ... NEXT > */
+div._next {
+  margin-top:20px;
+  margin-bottom:1in;
+  width:80%;
+  padding:0 10%;
+  font-family: American Typewriter, serif;
+}

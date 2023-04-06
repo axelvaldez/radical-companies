@@ -35,9 +35,9 @@ image:    "icon-ptsd-and-trust.svg"
 
 <!-- PREV ... NEXT -->
 <h1></h1>
-<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/10/E10-the-end-the-beginning">&lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/12/E12-different">                Next &gt;</a></span>
+<div class="_next">
+ <span style="float:left; " ><a href="https://radicalcompanies.com/">&lt; Previous</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/">    Next &gt;</a></span>
 </div>
 
 <!-- image -->
