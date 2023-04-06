@@ -87,6 +87,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <span style="float:right; "><a href="https://radicalcompanies.com/2023/04/03/la-fleur-de-chocolate-e02">Next &gt;</span>
 </div>
 
+<!--
 <h1>The Meeting</h1>
  <p>We went through the niceties and the hellos and then there was the silence of not knowing how to start. So, I started.</p>
  <p class="_speaker"><span class="_speakerb">I am sorry to surprise you with the news that I knew about your plans, but there is a valid and innocent reason&hellip;</span> And I went on to explain.</p>
@@ -217,5 +218,6 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">We could do that. Let&rsquo;s wait until we crossed that bridge.</span></p>
  <p class="_speaker"><span class="_speakerc">We've already talk to the people in France and we are going to switch them so they have a guaranteed steady inccome forever. This may not be purely <span class="_paradigm">RADICAL</span>, but&hellip;</span></p>
  <p class="_speaker"><span class="_speakerb">Whatever works for you, it&rsquo;s OK. <span class="_paradigm">RADICAL</span> is not a dogma. It simply is an alternative to <span class="_paradigm">FIAT</span> that works for everybody who creates wealth, not just <span class="_paradigm">FIAT</span> owners.</span></p>
+-->
 
 {% include related.html %}
