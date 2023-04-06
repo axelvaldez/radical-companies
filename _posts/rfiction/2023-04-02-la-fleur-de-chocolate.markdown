@@ -172,8 +172,9 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">What I have done with my <span class="_paradigm">RADICAL</span> inventments is that if the co-workers are willing to match the 10% load that we have agreed to, then we put that 10% and their 10% in a pool and distribute according to <span class="_paradigm">RAD</span>s.</span></p>
  <p class="_speaker"><span class="_speakera">Sorry, but I don&rsquo;t understand.</span></p>
  <p class="_speaker"><span class="_speakerc">I don&rsquo;t understand, either.</span></p>
- <p class="_speaker"><span class="_speakerb">I do that because I figured that they have been working hard to repay the investments and this may be the first opportunity to get the full impact of their <span class="_paradigm">RAD</span>s and all their effort. They are co-owners, but that may not be significant enough at this point, but a Distribution will.</span> <span class="_speakerbc">I&rsquo;ll get some money out of it, too, but the impact on them is the precious thing. I want to warn you that none of mine investments have matured, yet, so at this point it is just hope.</span></p>
- <p class="_speaker"><span class="_speakerc">Nice. Very nice.</span></p>
+ <p class="_speaker"><span class="_speakerb">I do that because I figured that they have been working hard to repay the investments and this may be the first opportunity to get the full impact of their <span class="_paradigm">RAD</span>s and all their effort. They are co-owners, but that may not be significant enough at this point, but a Distribution will. I&rsquo;ll get some money out of it, too, but the impact on them is the precious thing.</span></p>
+ <p class="_speaker"><span class="_speakerc">I should tell you that none of my investments have matured, yet, so at this point it is just an experiement based on hope.</span></p>
+ <p class="_speaker"><span class="_speakerc">Nice. Very nice hope.</span></p>
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
