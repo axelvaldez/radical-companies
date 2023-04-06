@@ -145,7 +145,7 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakera">Enough of that. That is not what she said&hellip;.</span></p>
  <p>She looked at her husband with disapproving eyes and said,</p>
  <p class="_speaker"><span class="_speakerc">&hellip; No, I don&rsquo;t beat them when do something wrong. I teach them why it is wrong.</span></p>
- <p>We all feel into silence after she said that. The man had his arms crossed, but was lost in thoughts. She stared past me. I wasn&rsqio;t sure, but I felt we all had crossed a significant line.</p>
+ <p>We all feel into silence after she said that. The man had his arms crossed, but was lost in thoughts. She stared past me. I felt that they, we had crossed a significant line.</p>
  <p class="_speaker"><span class="_speakerc">You know, it became chaotic after we started yelling at each other. All that yelling.</span></p>
  <p class="_speaker"><span class="_speakerb">All that fear, yes. Something is wrong and people try to get control. Other submit, or it falls apart.</span></p>
  <p class="_speaker"><span class="_speakerc">It fell apart because all the yelling.</span></p>
