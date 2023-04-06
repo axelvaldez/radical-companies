@@ -68,6 +68,25 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">Yep!</span></p>
  <p class="_speaker"><span class="_speakera">Got it!</span></p>
 
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    Matt Perez, Adrian Perez, Jose Leal.
+    <em>RADICAL COMPANIES: Without Bosses or Empoyees.</em>
+    Pradera Media.
+    2021.
+    &lt;<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
+
+<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+ <span style="float:left; "                                                                        >&lt; Previous </span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2023/04/03/la-fleur-de-chocolate-e02">Next &gt;</span>
+</div>
+
 <h1>The Meeting</h1>
  <p>We went through the niceties and the hellos and then there was the silence of not knowing how to start. So, I started.</p>
  <p class="_speaker"><span class="_speakerb">I am sorry to surprise you with the news that I knew about your plans, but there is a valid and innocent reason&hellip;</span> And I went on to explain.</p>
@@ -198,19 +217,5 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">We could do that. Let&rsquo;s wait until we crossed that bridge.</span></p>
  <p class="_speaker"><span class="_speakerc">We've already talk to the people in France and we are going to switch them so they have a guaranteed steady inccome forever. This may not be purely <span class="_paradigm">RADICAL</span>, but&hellip;</span></p>
  <p class="_speaker"><span class="_speakerb">Whatever works for you, it&rsquo;s OK. <span class="_paradigm">RADICAL</span> is not a dogma. It simply is an alternative to <span class="_paradigm">FIAT</span> that works for everybody who creates wealth, not just <span class="_paradigm">FIAT</span> owners.</span></p>
- 
-<h1 class="_section">ENDNOTES</h1>
- <ul>
-  <li id="en01">
-   <p class="_list-item">
-    Matt Perez, Adrian Perez, Jose Leal.
-    <em>RADICAL COMPANIES: Without Bosses or Empoyees.</em>
-    Pradera Media.
-    2021.
-    &lt;<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>&gt;
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ul>
 
 {% include related.html %}

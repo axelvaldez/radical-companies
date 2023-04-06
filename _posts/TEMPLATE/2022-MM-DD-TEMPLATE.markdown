@@ -33,6 +33,13 @@ image:    "icon-ptsd-and-trust.svg"
  <span class="_paradigm">BANNER</span>
  <span class="_paradigm">rCOIN</span>
 
+<!-- PREV ... NEXT -->
+<h1></h1>
+<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+ <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/10/E10-the-end-the-beginning">&lt; Previous</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/12/E12-different">                Next &gt;</a></span>
+</div>
+
 <!-- image -->
  <div class="_center">
   <img
