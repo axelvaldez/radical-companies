@@ -169,7 +169,9 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerb">Whatever the amount, that would work&hellip; wonderfully.</span></p>
 
 <h1><span class="_paradigm">RADICAL</span> Inventments</h1>
- <p class="_speaker"><span class="_speakerb">What I have done with my <span class="_paradigm">RADICAL</span> inventments is that if the co-workers are willing to match the 10% grain we have agreed to, then we put that money and their money in a pool and distribute according to <span class="_paradigm">RAD</span>s. I figured that they have been working hard to repay the investments and this may be the first opportunity to get the full impact of their <span class="_paradigm">RAD</span>s.</span></p>
+ <p class="_speaker"><span class="_speakerb">What I have done with my <span class="_paradigm">RADICAL</span> inventments is that if the co-workers are willing to match the 10% load that we have agreed to, then we put that 10% and their 10% in a pool and distribute according to <span class="_paradigm">RAD</span>s.</span></p>
+ <p>I read a bit of confusion in their faces. So I added,</p>
+ <p class="_speaker"><span class="_speakerb">I figured that they have been working hard to repay the investments and this may be the first opportunity to get the full impact of their <span class="_paradigm">RAD</span>s.</span></p>
  <p class="_speaker"><span class="_speakerb"></span></p>
  
 <h1 class="_section">ENDNOTES</h1>
