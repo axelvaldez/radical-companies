@@ -164,6 +164,10 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p class="_speaker"><span class="_speakerc">More like $50 dollars</span> She said as she looked at her husband.</p>
  <p class="_speaker"><span class="_speakera">Yes, something like that.</span></p>
  <p class="_speaker"><span class="_speakerb">Whatever the amount, that would work&hellip; wonderfully.</span></p>
+
+<h1>xxx</h1>
+ <p>We didn&rsquo;t say anything for a bit, just sat there in silence.</p>
+ <p class="_speaker"><span class="_speakerb"></span></p>
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
