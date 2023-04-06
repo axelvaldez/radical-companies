@@ -176,6 +176,27 @@ image:    "icon-la-fleur-de-chocolate.svg"
  <p>I paused for a bit and then I said,</p>
  <p class="_speaker"><span class="_speakerb">I should tell you that none of my investments have matured, yet, so at this point they are just experiments and &rsquo;pool&rsquo; that I talked about is based on hope.</span></p>
  <p class="_speaker"><span class="_speakerc">Nice. Very nice hope.</span></p>
+
+<h1>All Roses</h1>
+ <p>Finally, we had everything in hand. The amount was settle. They owners were carry 25% of the debt, 10% of which could go into a RAD Distribution fund, if the co-owners matched it. A baker from Arizmendi had  agreed to be part fo the team for a year, and train them as bakers. The old owners would have a two-month overlap with the new co-owners in person and then they would be available for questions, but remotely. I carried 10% of the debt. The rest would come out of cashflow.</p>
+ <p>Lots of drame on the way, but all for the best.</p>
+ <p>The day came for the old owners to head for the airport, six weeks later than they thought. They closed the shop for the day and organized a caravan to take them. Everybody was still very positive. Come to think of it, only one person chose to not participate and left, but the rest of them very enthusiastic. Even when they had to sit down with their accountant to pay their quarterly taxes. As it turned out, Cristina and Vicky were most interested in that aspect of the business and rose to be leaders of that particular task. Andy and Mario emerged as leaders of ordering supplies. Martha took over decorations, with the occasional help from Cris (without the H).</p>
+ <p>It was all roses in the storefront, but the bakery was another story.</p>
+
+<h1>Nervous Smiles</h1>
+ <p>The Arizmendi baker had to leave after because of a home situation. She committed to be on hand for advice, but even that was not working out so well because of her particular situaion. Her <span class="_paradigm">RAD</span>s continued to yield enough to take care of her, but Le Fleur needed help. They looked for other more experience bakers, but they just wanted to buy the shop, not help. Business had been going down a bit, but they still had most of their staples, including my chocolate eclairs. In any casem, the co-owners were on top of it: they caught the situation early and they supported each other to find solutions. The discussion got loud at times, but they had a safe word that somebody would call out to calm things down.</p>
+ <p>They changed some things based on their first-hand knowledge of the business. For example, the &ldquo;french&rdquo; napkins and aprons were not a big seller, so they took their stand out and added an inside table. That generated more revenue. Martha hung the aprons on the wall in a very attractive, &ldquo;french&rdquo; way and they were selling more that way. They created a coffee menu that people could browse while they were in line. They started the practice of bringing out a tray of their new creations and let people sample, but what they were really doing was testing their new goodies.</p>
+ <p>They could bake alright, but they could not recreate all of the smells and flavors that they had before. They never stopped learning from trial and error, but business was stagnant. So the man came back for a few weeks and got the smells and flavors back consistenly. He even got lots of <span class="_paradigm">RAD</span>s for his contributions. He helped turn nervous smiles into real smiles. Then he left.</p>
+
+<h1>Back on Track</h1>
+ <p class="_speaker"><span class="_speakerb">Is this the last payment on the debt? That means you are early!</span></p>
+ <p class="_speaker"><span class="_speakerc">Business is great.</span> Vicky said. <span class="_speakerc">PRI is going up for everybody.</span></p>
+ <p class="_speaker"><span class="_speakerb">Holly s&hellip; when did you switch to PRI.</span></p>
+ <p class="_speaker"><span class="_speakerc">A while back. In fact, this payment also means that we no longer have a PRI fund to speak of. But now we have to pay you and them to retire that debt.</span></p>
+ <p class="_speaker"><span class="_speakerb">Look at them, &lsquo;PRI&rsquo; and &lsquo;retire&rsquo; in the same breath. I am super happy for all of us.</span></p>
+ <p class="_speaker"><span class="_speakerc">Wait until you get paid back.</span> They were now laughing out loud. <span class="_speakerc">And, by the way, we are going to match the 20%, your and theirs, to have an extra <span class="_paradigm">RAD</span>s distribution. We could reduce that nuber of %5 each to make sure you walk away with 5% for sure.</span></p>
+ <p class="_speaker"><span class="_speakerb">We could do that, if you can.</span></p>
+ <p class="_speaker"><span class="_speakerc">The owner will put their 10% in the pool without a match even. They are happy and getting a steady inccome out of the shop.</span></p>
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
