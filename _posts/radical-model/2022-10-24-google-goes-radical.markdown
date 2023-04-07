@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Google Goes RADICAL"
+title:    "Google Goes <span class='_paragigm'>RADICAL</span>"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "icon-google-goes-radical.svg"

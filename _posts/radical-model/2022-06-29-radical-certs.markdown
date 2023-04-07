@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "RADICAL Certs?"
+title:    "<span class='_paragigm'>RADICAL</span> Certs?"
 subtitle: "So tempting. So incongruous."
 authors:  "Matt Perez"
 image:    "icon-radical-certs.svg"
