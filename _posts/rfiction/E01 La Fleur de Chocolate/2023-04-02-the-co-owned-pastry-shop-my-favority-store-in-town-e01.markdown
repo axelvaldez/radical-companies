@@ -4,7 +4,6 @@ title:    "The Co-Owned Pastry Shop: My Favorite Store in Town (E01)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
-la-fleur-de-chocolate-e01.svg"
 ---
 
 <div style="display:none;">
