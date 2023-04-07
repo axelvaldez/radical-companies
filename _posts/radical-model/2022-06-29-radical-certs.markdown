@@ -7,7 +7,7 @@ image:    "icon-radical-certs.svg"
 ---
 
 <div style="display:none;">
- <p>"Certificates" fit in a FIAT world we live in, run by hierarchies and organized around domination through fear. But "certs" don't make sense within a RADICAL system, without hierachies or domination."</p>
+ <p>&ldquo;Certificates&rdquo; fit in a FIAT world we live in, run by hierarchies and organized around domination through fear. But "certs" don't make sense within a RADICAL system, without hierachies or domination."</p>
 </div>
 
 <h1>How It Started</h1>
