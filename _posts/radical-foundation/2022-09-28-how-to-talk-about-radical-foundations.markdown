@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "How to Talk about RADICAL Foundations"
+title:    "How to Talk about <span class='_paradigm'>RADICAL</span> Foundations"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-how-to-talk-about-radical-foundations.svg"

@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "RADICAL Hiring? No Such Thing!"
+title:    "<span class='_paradigm'>RADICAL</span> Hiring? No Such Thing!"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "icon-radical-hiring-no-such-thing.svg"
