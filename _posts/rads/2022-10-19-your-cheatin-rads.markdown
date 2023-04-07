@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Your Cheatin' RADs"
+title:    "Your Cheatin' <span class='_paradigm'>RAD</span>s"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
 image:    "icon-cheating-rads.svg"
