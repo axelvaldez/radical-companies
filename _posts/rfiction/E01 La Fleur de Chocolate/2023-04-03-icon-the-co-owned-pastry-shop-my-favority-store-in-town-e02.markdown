@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "La Fleur de Chocolate (E02)"
+title:    "The Co-Owned Pastry Shop: My Favorite Store in Town (E02)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-la-fleur-de-chocolate-e02.svg"
+image:    "icon-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
 ---
 
 <div style="display:none;">
