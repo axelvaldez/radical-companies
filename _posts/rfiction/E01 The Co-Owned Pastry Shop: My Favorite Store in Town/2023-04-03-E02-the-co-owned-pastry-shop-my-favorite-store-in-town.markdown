@@ -35,7 +35,7 @@ image:    "icon-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speaker"><span class="_speakera">Then, how does it work?</span></p>
  <p class="_speaker"><span class="_speakerb">OK, you are interested, so I'll give you the whole tour of how <span class="_paradigm">RAD</span>s work.</span></p>
 
-<h1>Contributions</h1>
+<h1>Contributions (Not Capital)</h1>
  <p class="_speaker"><span class="_speakera">Go ahead. We are interested.</span></p>
  <p class="_speaker"><span class="_speakerb">OK&hellip; <span class="_paradigm">RAD</span>s are not digital money or anthing like that. But, forget that for now! Let&rsquo;s start with <em>contributions</em>. Normally. you do something good, the boss notices, and he gives you a pat on the back. If he likes you, he may even give you a promotion later. That makes it more tangible, right? But what do you do when you are all owners <em>and there is no boss</em>&hellip;</span></p>
  <p class="_speaker"><span class="_speakera">That doesn&rsquo;t work&hellip;</span></p>
