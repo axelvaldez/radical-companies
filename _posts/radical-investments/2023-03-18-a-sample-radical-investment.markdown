@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "A Sample RADICAL Investment"
+title:    "A Sample <span class='_paradigm'>RADICAL</span> Investment"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-a-sample-radical-investment.svg"
