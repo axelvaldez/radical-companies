@@ -3,7 +3,7 @@ layout:   post
 title:    "<span class='_paradigm'>RADICAL</span> Co-ops?"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-radical-coops.svg"
+image:    "icon-la-fleur-de-chocolate-e01.svg"
 ---
 
 <div style="display:none;">
