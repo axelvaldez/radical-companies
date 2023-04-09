@@ -12,8 +12,8 @@ image:    "icon-banner-as-financial-instrument.svg"
 
 <h1>&nbsp;</h1>
  <p><span class="_paradigm">BANNER</span>s can be thought of as financial instruments, in particular  an investment agreement.</p>
- <p>In the <span class="_paradigm">FIAT</span> world we live in, an investment agreement is a legal document that specifies a return or ownership of a collateral. In the tech space, this collateral is most often a piece of the business that&rsquo;s taking the investment. What this means is an investment is made based on the future value of the business-as-collateral. The business may be worth nothing now, but it may be worth of lot in the future (<em>e.g.</em>, the canonical example is Andy Becholsheim&rsquo;s very early investment in Google).</p>
- <p><span class="_paradigm">BANNER</span>s can be the equivalent arrangement, and existing value of an existing company funds a future company. The yielding value of an existing company is used instead of accumulated capital.</p>
+ <p>In the <span class="_paradigm">FIAT</span> world we live in, an investment agreement is a legal document that specifies a financial return or ownership of a collateral. In the tech space, this collateral is most often a piece of the business that&rsquo;s taking the investment. This means that an investment is made based on the future <em>value of the business-as-collateral</em>. The business may be worth nothing now, but it may be worth of lot in the future (<em>e.g.</em>, the canonical example is Andy Becholsheim&rsquo;s very early investment in Google).</p>
+ <p><span class="_paradigm">BANNER</span>s can be the equivalent <span class="_paradigm">RADICAL</span> arrangement, and existing value of an existing company funds a future company. The yielding value of an existing company is used instead of accumulated capital.</p>
  <p>In the book <em>RADICAL COMPANIES: Without Bosses or Employees</em>, we used the example of investing in a building. After some discussion, a <span class="_paradigm">BANNER</span> goes up,</p>
   <div class="_center">
    <img
