@@ -15,8 +15,8 @@ image:    "icon-banners-do-no-evil.svg"
  <p>Some may <em>look</em> suspicious. For example, a <span class="_paradigm">BANNER</span> may exist to support kids with cancer. Later a co-owner&rsquo;s kid ends up with cancer and indirectly benefits from the fund collected through the <span class="_paradigm">BANNER</span>. In this case, there&rsquo;s no foul play, just very unfortunate circumstances.</p>
  <p>In the case of a truly siphoning <span class="_paradigm">BANNER</span>s, we could try to stop it by making rules. But, then we&rsquo;d have to police for compliance and even make more onerous rules, etc.</p>
 
-<h1>Not Rule Making</h1>
- <p>Unfortunately, rule making is not a solution, at least not a <span class="_paradigm">RADICAL</span> solution. &ldquo;Rules&rdquo; are,
+<h1>No Rules</h1>
+ <p>Rule making is not a solution, at least not a <span class="_paradigm">RADICAL</span> solution. &ldquo;Rules&rdquo; are,
  <ul>
   <li>A form of (mild) violence, &ldquo;We will have to penalize you because YOU ARE NOT FOLLOWING THE RULES&rdquo;.</li>
   <li>A form of &ldquo;power over&rdquo; people which also includes violence, &ldquo;According to the rules, you are not fit to be a beneficiary of this <span class="_paradigm">BANNER</span>&rdquo;.</li>
