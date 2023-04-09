@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "BANNERs as Financial Instruments"
+title:    "<span class='_paradigm'>BANNER</span>s as Financial Instruments"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-banners-as-financial-instruments.svg"

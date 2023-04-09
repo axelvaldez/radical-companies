@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "BANNERs: Do No Evil"
+title:    "<span class='_paradigm'>BANNER</span>s: Do No Evil"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
 image:    "icon-banners-do-no-evil.svg"
