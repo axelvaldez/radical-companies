@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Don’t F**k with My Benefits"
+title:    "Don&rsquo;t F**k with My Benefits"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
 image:    "icon-dont-f--k-with-my-benefits.svg"
