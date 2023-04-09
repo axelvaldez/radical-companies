@@ -84,21 +84,21 @@ image:    "icon-dont-screw-with-my-benefits.svg"
  <p>You can also create <span class="_paradigm">BANNER</span>s for these eventualities. These can be individual <span class="_paradigm">BANNER</span>s, company-wide, or anywhere in between. For example, some of your peers may agree to reserve 10% of their income for &ldquo;benefits,&rdquo; </p>
  <div class="_center">
   <img
-   src="/assets/img/icon-dont-f--ck-with-my-benefits-01.svg"
+   src="/assets/img/pic-dont-screw-with-my-benefits-01.svg"
    width="50%"
    alt="A yellow post-it note with the word BENEFITS at the top, a hand-drawn line, and a list of beneficiaris, five in total.">
  </div>
  <p>But you want to put away 20%,</p>
  <div class="_center">
   <img
-   src="/assets/img/icon-dont-f--ck-with-my-benefits-02.svg"
+   src="/assets/img/pic-dont-screw-with-my-benefits-02.svg"
    width="50%"
    alt="A yellow post-it note with the word BENEFITS at the top, a hand-drawn line, followed by '@you.'">
  </div>
  <p>Later, the whole company learns from your experiments and everybody, including you, decide to put away 15%,</p>
  <div class="_center">
   <img
-   src="/assets/img/icon-dont-f--ck-with-my-benefits-03.svg"
+   src="/assets/img/icpic-dont-screw-with-my-benefits-03.svg"
    width="50%"
    alt="A yellow post-it note with the word BENEFITS at the top, a hand-drawn line, followed by '@all.'">
  </div>
