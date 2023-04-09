@@ -22,6 +22,6 @@ image:    "icon-banners-as-financial-instruments.svg"
   </div>
  <p>Some, though not necessarily all, co-owners support it by committing some or all of their <span class="_paradigm">RAD</span>s to it. After 26 months the fund reaches $5M. New <span class="_paradigm">RADICAL</span> investors would shorten the time for the fund to be ready. This allows any co-owner to invest the future of the <span class="_paradigm">RAD</span>s yield. Others won&rsquo;t and some can&rsquo;t. New co-owners may join the <span class="_paradigm">BANNERs</span> right away, others will wait a while, and still others will sit it out.</p>
  <p>Co-owners can use <span class="_paradigm">BANNER</span>s to make any other investment.</p>
- <p>In the end, ownership of the building is calculated as the percentage of contribution to the <span class="_paradigm">BANNER</span>.</p>
+ <p>In the end, ownership of the building is calculated as the percentage of contribution to the <span class="_paradigm">BANNER</span>. If you contributed twice as much as I did, you own twice as mch as I do.</p>
 
 {% include related.html %}
