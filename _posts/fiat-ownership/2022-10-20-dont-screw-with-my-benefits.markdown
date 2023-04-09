@@ -102,7 +102,14 @@ image:    "icon-dont-screw-with-my-benefits.svg"
    width="50%"
    alt="A yellow post-it note with the word BENEFITS at the top, a hand-drawn line, followed by '@all.'">
  </div>
- <p>After a while, you will figure out that this &ldquo;benefit&rdquo; thing is born of a nostalgic fear from living for so long in a <span class="_paradigm">FIAT</span> environment where the wealth from the value created by all, goes &ldquo;up&rdquo; to the owners and benefits are handed &ldquo;down.&rdquo; as part of &ldquo;the cost of doing business.&rdquo;</p>
+ <p>After a while, you will figure out that this &ldquo;benefit&rdquo; thing is,</p>
+  <ul>
+   <li>Born of a nostalgic fear</li>
+   <li>From living for so long in a <span class="_paradigm">FIAT</span> environment</li>
+   <li>Where the wealth from the value created by all, goes &ldquo;up&rdquo; to the owners</li>
+   <li>And benefits are handed &ldquo;down&rdquo;</li>
+   <li>Benefits are part of &ldquo;the cost of doing business.&rdquo;</p>
+  </ul
 
 <h1>Retirement</h1>
  <p>&ldquo;Retirement&rdquo; is yet another <span class="_paradigm">FIAT</span> &ldquo;benefit&rdquo; that is handled very differently in the <span class="_paradigm">RADICAL</span> model.</p>
