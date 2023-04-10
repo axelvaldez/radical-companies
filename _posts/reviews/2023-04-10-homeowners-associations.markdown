@@ -30,7 +30,7 @@ image:    "icon-homeowners-associations.svg"
 
 <h1>But It Is <em>Cheaper</em></h1>
  <p>The justification for doing this is that it cheaper. Besides receving a fee for allowing the HOA, the local government takes the developmen&rsquo;s roads and other bothers off their books. If homeowners are abused or exploited, well they shoud not have bought a house in that developement. Never mind that our <span class='_paradigm'>FIAT</span> society shapes and pressures people to &ldquo;go up in life&rsdquo; and the development was their way to buy a house.</p>
- <p>In any case, it is cheaper for the local government and that&rsquo;s all that counts.</p>
+ <p>In any case, it is cheaper for the local government and that&rsquo;s all that counts in <span class='_paradigm'>FIAT</span> land.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
