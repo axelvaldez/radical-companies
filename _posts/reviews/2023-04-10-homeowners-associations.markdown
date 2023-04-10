@@ -7,7 +7,7 @@ image:    "icon-homeowners-associations.svg"
 ---
 
 <div style="display:none;">
- <p>Homeowners associations&mdash;HOAs for short&mdash;are private organizations that manage residential communities. They are also good example increase centralization and reduced transparency.</p>
+ <p>Homeowners associations are private organizations that manage residential communities. They are also good example increase centralization and reduced transparency.</p>
 </div>
 
 <h1>&nbsp;</h1>
