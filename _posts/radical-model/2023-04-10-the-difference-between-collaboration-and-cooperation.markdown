@@ -17,6 +17,6 @@ image:    "icon-the-difference-between-collaboration-and-cooperation.svg"
    <li>Collaboration aims <em>to achieve shared goals</em>.</li>
    <li>Cooperation aims <em>to achieve your own goals</em>.</li>
   </ul>
- <p>Cooperation is what the <span class='_paragigm'>FIAT</span> ownership imposes via capital versus collaboration which is what people naturally do, via contributions.</p>
+ <p>Cooperation is what the <span class='_paragigm'>FIAT</span> ownership imposes via capital. Collaboration, on the other hand, is what people have done throughout evolution and still do today via contributions.</p>
 
 {% include related.html %}
