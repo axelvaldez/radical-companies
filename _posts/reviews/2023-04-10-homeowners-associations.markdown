@@ -23,7 +23,7 @@ image:    "icon-homeowners-associations.svg"
  </div>
 
 <h1>Increased Centralization</h1>
- <p>The local govenment is very centralized. More centralized than what we need today. Moving a development from the public sphere to the private sphere makes it even more centralized. Private businesses are sacred cows in our <span class='_paradigm'>FIAT</span> society and they have all the characteristics of dictatorships,</p>
+ <p>The local govenment is already more centralized than what we need today. Moving a development from the public sphere to the private sphere makes it even more centralized. Private businesses are the sacred cows in our <span class='_paradigm'>FIAT</span> society and they have all the characteristics of dictatorships,</p>
   <ul>
    <li>The are in the private sphere.</li>
    <li>They are secretive and opaque to the outside.</li>
@@ -31,7 +31,7 @@ image:    "icon-homeowners-associations.svg"
   </ul>
 
 <h1>Reduced Transparency</h1>
- <p>The move to the HOA makes everything opaque. Period.</p>
+ <p>The move to the HOA makes everything opaque, as provided by law. Period.</p>
 
 <h1>But It Is <em>Cheaper</em></h1>
  <p>The justification for doing this is that it cheaper. Besides receving a fee for allowing the HOA, the local government takes the developmen&rsquo;s roads and other bothers off their books. If homeowners are abused or exploited, well they shoud not have bought a house in that developement. Never mind that our <span class='_paradigm'>FIAT</span> society shapes and pressures people to &ldquo;go up in life&rsdquo; and the development was their way to buy a house.</p>
