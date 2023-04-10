@@ -12,7 +12,7 @@ image:    "icon-homeowners-associations.svg"
 
 <h1>&nbsp;</h1>
  <p>Homeowners associations&mdash;HOAs for short&mdash;are private organizations that manage residential communities. They are also good example of increase centralization and reduced transparency.</p>
- <p class="_citation">An ideologically mediated contest between production in common and expropriation of the common.<sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></span>
+ <p class="_citation">An ideologically mediated contest between production in common and expropriation of the common.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></span>
  <p>Reminds me of the different between collaboration and cooperation.<p>
  <div class="_citation">
   Collaboration and cooperation are close, but not the same. They are both about working with others, but,
@@ -20,7 +20,7 @@ image:    "icon-homeowners-associations.svg"
    <li>Collaboration aims <em>to achieve shared goals</em>.</li>
    <li>Cooperation aims <em>to achieve your own goals</em>.</li>
   </ul>
-  Cooperation is what the <span class='_paragigm'>FIAT</span> ownership imposes via capital. Collaboration, on the other hand, is part of our evolvution and we still do today, naturally, via contributions.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
+  Cooperation is what the <span class='_paradigm'>FIAT</span> ownership imposes via capital. Collaboration, on the other hand, is part of our evolvution and we still do today, naturally, via contributions.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>
  </div>
 
 <h1 class="_section">ENDNOTES</h1>

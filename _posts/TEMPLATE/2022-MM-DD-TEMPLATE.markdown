@@ -27,8 +27,8 @@ image:    "icon-ptsd-and-trust.svg"
 <h1></h1>
  (RADICAL|FIAT|RAD|BANNER|rCOIN)
  <span class='_paradigm'>$1</span>
- <span class='_paragigm'>RADICAL</span>
- <span class='_paragigm'>FIAT</span>
+ <span class='_paradigm'>RADICAL</span>
+ <span class='_paradigm'>FIAT</span>
  <span class='_paradigm'>RAD</span>s
  <span class='_paradigm'>BANNER</span>
  <span class='_paradigm'>rCOIN</span>
