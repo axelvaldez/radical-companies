@@ -20,11 +20,8 @@ image:    "icon-homeowners-associations.svg"
    <li>Collaboration aims <em>to achieve shared goals</em>.</li>
    <li>Cooperation aims <em>to achieve your own goals</em>.</li>
   </ul>
-  Cooperation is what the <span class='_paragigm'>FIAT</span> ownership imposes via capital versus collaboration which is what people naturally do, via contributions.
+  Cooperation is what the <span class='_paragigm'>FIAT</span> ownership imposes via capital. Collaboration, on the other hand, is what people have done throughout evolution and still do today via contributions.
  </div>
-
-
-
 
  <p class="_citation">Entrepreneurship is a key ideological operator in the expropriation of the common&hellip;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></span>
 
