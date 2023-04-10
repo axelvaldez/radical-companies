@@ -14,6 +14,15 @@ image:    "icon-homeowners-associations.svg"
  <p>Homeowners associations&mdash;HOAs for short&mdash;are private organizations that manage residential communities. They are also good example of increase centralization and reduced transparency.</p>
  <p class="_citation">An ideologically mediated contest between production in common and expropriation of the common.<sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></span>
  <p>Reminds me of the different between collaboration and cooperation.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a><p>
+ <div class="_citation">
+  Collaboration and cooperation are close, but not the same. They are both about working with others, but,
+  <ul>
+   <li>Collaboration aims <em>to achieve shared goals</em>.</li>
+   <li>Cooperation aims <em>to achieve your own goals</em>.</li>
+  </ul>
+  Cooperation is what the <span class='_paragigm'>FIAT</span> ownership imposes via capital versus collaboration which is what people naturally do, via contributions.
+ </div>
+
 
 
 
