@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "TEMPLATE"
+title:    "Homeowners Associations or HOAs for Short"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-ptsd-and-trust.svg"
+image:    "icon-homeowners-associations.svg"
 ---
 
 <div style="display:none;">
