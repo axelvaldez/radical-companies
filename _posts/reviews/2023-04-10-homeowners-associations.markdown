@@ -23,7 +23,12 @@ image:    "icon-homeowners-associations.svg"
  </div>
 
 <h1>Increased Centralization</h1>
- <p>The local govenment is very centralized. More centralized than what we need today. Moving a development from the public sphere to the private sphere makes it even more centralized. Private businesses are dictatorships. And they are sacred cows in our <span class='_paradigm'>FIAT</span> society.</p>
+ <p>The local govenment is very centralized. More centralized than what we need today. Moving a development from the public sphere to the private sphere makes it even more centralized. Private businesses are sacred cows in our <span class='_paradigm'>FIAT</span> society and they have all the characteristics of dictatorships,</p>
+  <ul>
+   <li>The are in the private sphere.</li>
+   <li>They are secretive and opaque to the outside.</li>
+   <li>They rule by FIAt.</li>
+  </ul>
 
 <h1>Reduced Transparency</h1>
  <p>The move to the HOA makes everything opaque. Period.</p>
