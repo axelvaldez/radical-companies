@@ -7,11 +7,11 @@ image:    "icon-homeowners-associations.svg"
 ---
 
 <div style="display:none;">
- <p>Homeowners associations are private organizations that manage residential communities. They are also good example increase centralization and reduced transparency.</p>
+ <p>Homeowners Associations are private organizations that manage residential communities. They are also good example increase centralization and reduced transparency.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Homeowners associations&mdash;HOAs for short&mdash;are private organizations that manage residential communities. They are also good example of increase centralization and reduced transparency.</p>
+ <p>Homeowners Associations (HOAs) are private organizations that manage residential communities. They are also good example of increase centralization and reduced transparency.</p>
  <p>Reminds me of the different between collaboration and cooperation.<p>
  <div class="_citation">
   Collaboration and cooperation are close, but not the same. They are both about working with others, but,
