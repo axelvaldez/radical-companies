@@ -12,7 +12,6 @@ image:    "icon-homeowners-associations.svg"
 
 <h1>&nbsp;</h1>
  <p>Homeowners associations&mdash;HOAs for short&mdash;are private organizations that manage residential communities. They are also good example of increase centralization and reduced transparency.</p>
- <p class="_citation">An ideologically mediated contest between production in common and expropriation of the common.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></span>
  <p>Reminds me of the different between collaboration and cooperation.<p>
  <div class="_citation">
   Collaboration and cooperation are close, but not the same. They are both about working with others, but,
@@ -20,18 +19,27 @@ image:    "icon-homeowners-associations.svg"
    <li>Collaboration aims <em>to achieve shared goals</em>.</li>
    <li>Cooperation aims <em>to achieve your own goals</em>.</li>
   </ul>
-  Cooperation is what the <span class='_paradigm'>FIAT</span> ownership imposes via capital. Collaboration, on the other hand, is part of our evolvution and we still do today, naturally, via contributions.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>
+  Cooperation is what the <span class='_paradigm'>FIAT</span> ownership imposes via capital. Collaboration, on the other hand, is part of our evolvution. And we still do it naturally today via contributions to our community.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
  </div>
+
+<h1>Increased Centralization</h1>
+ <p>The local govenment is very centralized. More centralized than what we need today. The ove to the HOA makes it even more centralized by putting it all in the hands of a private business, a sacred cow in our <span class='_paradigm'>FIAT</span> society.</p>
+
+<h1>Reduced Transparency</h1>
+ <p>The move to the HOA makes everything opaque. Period.</p>
+
+<h1>But It Is <em>Cheaper</em></h1>
+ <p>The justification for doing this is that it cheaper. Besides receving a fee for allowing the HOA, the local government takes the developmen&rsquo;s roads and other bothers off their books. If homeowners are abused or exploited, well they shoud not have bought a house in that developement. Never mind that our <span class='_paradigm'>FIAT</span> society shapes and pressures people to &ldquo;go up in life&rsdquo; and the development was their way to buy a house.</p>
+ <p>In any case, it is cheaper for the local government and that&rsquo;s all that counts.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Campbell Jones, Anna-Maria Murtola
-    <em>Entrepreneurship and expropriation</em>.
-    2023.
-    &lt;<a href=https://radicals.world/TvfXEm" target="_blank">https://radicals.world/TvfXEm</a>&gt;
-    (alt, &lt;<a href="https://www.diigo.com/user/matt_perez/b/664864091" target="_blank">https://www.diigo.com/user/matt_perez/b/664864091</a>&gt;)
+    Matt Perez.
+    <em>THe Difference between Collaboration and Cooperation</em>.
+    Apr 10, 2023.
+    &lt;<a href="https://radicalcompanies.com/2023/04/10/the-difference-between-collaboration-and-cooperation" target="_blank">https://radicalcompanies.com/2023/04/10/the-difference-between-collaboration-and-cooperation</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
