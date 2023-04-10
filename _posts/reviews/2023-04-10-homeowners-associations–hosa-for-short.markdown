@@ -12,7 +12,6 @@ image:    "icon-ptsd-and-trust.svg"
 
 <h1>&nbsp;</h1>
  <p>Homeowners associations&mdash;HOAs for short&mdash;are private organizations that oversee the management of residential communities. And they are good example of a move towards centralization and away from transparency. In a lot of ways, HOAs are are reminiscent of enclosures.</p>
-
  <p class="_citation">An ideologically mediated contest between production in common and expropriation of the common.<sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></span>
 
  <p class="_citation">Entrepreneurship is a key ideological operator in the expropriation of the common&hellip;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></span>
