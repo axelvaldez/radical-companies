@@ -19,7 +19,7 @@ image:    "icon-homeowners-associations.svg"
    <li>Collaboration aims <em>to achieve shared goals</em>.</li>
    <li>Cooperation aims <em>to achieve your own goals</em>.</li>
   </ul>
-  Cooperation is what the <span class='_paradigm'>FIAT</span> ownership imposes via capital. Collaboration, on the other hand, is part of our evolvution. And we still do it naturally today via contributions to our community.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
+  Cooperation is what the <span class='_paradigm'>FIAT</span> ownership imposes via capital. Collaboration, on the other hand, is part of our evolution. And we still do it naturally today via contributions to our community.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
  </div>
 
 <h1>Increased Centralization</h1>
