@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Homeowners Associations or HOAs for Short"
+title:    "Homeowners Associations"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-homeowners-associations.svg"
