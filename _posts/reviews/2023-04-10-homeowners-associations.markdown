@@ -11,8 +11,11 @@ image:    "icon-homeowners-associations.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Homeowners associations&mdash;HOAs for short&mdash;are private organizations that manage residential communities. They are also good example increase centralization and reduced transparency.</p>
+ <p>Homeowners associations&mdash;HOAs for short&mdash;are private organizations that manage residential communities. They are also good example of increase centralization and reduced transparency.</p>
  <p class="_citation">An ideologically mediated contest between production in common and expropriation of the common.<sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></span>
+ <p>Reminds me of the different between collaboration and cooperation.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a><p>
+
+
 
  <p class="_citation">Entrepreneurship is a key ideological operator in the expropriation of the common&hellip;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></span>
 
