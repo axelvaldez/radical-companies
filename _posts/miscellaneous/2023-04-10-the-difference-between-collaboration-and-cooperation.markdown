@@ -13,8 +13,8 @@ image:    "icon-the-difference-between-collaboration-and-cooperation.svg"
 <h1>&nbsp;</h1>
  <p>Collaboration and cooperation are close, but not the same. They are both about working with others, but,</p>
   <ul>
-   <li class="_citation">Collaboration aims <em>to achieve shared goals</em>.</li>
-   <li class="_citation">[C]ooperation aims <em>to achieve your own goals</em>.</li>
+   <li>Collaboration aims <em>to achieve shared goals</em>.</li>
+   <li>Cooperation aims <em>to achieve your own goals</em>.</li>
   </ul>
  <p>Cooperation is that the <span class='_paragigm'>FIAT</span> owership imposes via capital. Collaboration is what people naturally do,  via contributions.</p>
 
