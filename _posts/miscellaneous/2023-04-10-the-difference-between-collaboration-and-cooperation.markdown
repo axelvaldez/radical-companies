@@ -7,7 +7,8 @@ image:    "icon-the-difference-between-collaboration-and-cooperation.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>
+ <p>Collaboration and cooperation are close, but not the same.</p></p>
 </div>
 
 <h1>&nbsp;</h1>
