@@ -75,8 +75,6 @@ image:    "icon-nextbright.svg"
      </ul>
     </td>
    </tr>
-  </table>
-  <table>
    <tr>
     <th>Personal Branding</th>
     <td>
@@ -87,8 +85,6 @@ image:    "icon-nextbright.svg"
      </ul>
     </td>
    </tr>
-  </table>
-  <table>
    <tr>
     <th>Interview Shine</th>
     <td>
