@@ -22,49 +22,29 @@ image:    "icon-nextbright.svg"
    </tr>
    <tr>
     <th>What for?</th>
-    <td>
-     <ul>
-      <li>A world populated by healthy people who know how to contribute to themselves, their communities and their world.</li>
-     </ul>
-    </td>
+    <td>A world populated by healthy people who know how to contribute to themselves, their communities and their world.</li></td>
    </tr>
    <tr>
     <td class="_coltitle">Purpose</td>
    </tr
    <tr>
     <th>Why?</th>
-    <td>
-     <ul>
-      <li><em>rNextBright</em> has partnered with three tech companies (<em>i.e.</em>, many of which have their own <a href="#">rPlayGym</a>).</li>
-     </ul>
-    </td>
+    <td><em>rNextBright</em> has partnered with three tech companies (<em>i.e.</em>, many of which have their own <a href="#">rPlayGym</a>).</td>
    </tr>
    <tr>
     <td class="_coltitle">Mission</td>
    </tr>
    <tr>
     <th>What?</th>
-    <td>
-     <ul>
-      <li>Discover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for <em>rNextBright</em> graduates.</li>
-     </ul>
-    </td>
+    <td>Discover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for <em>rNextBright</em> graduates.</td>
    </tr>
    <tr>
     <th>When?</th>
-    <td>
-     <ul>
-      <li>Within 12 months.</li>
-     </ul>
-    </td>
+    <td>Within 12 months.
    </tr>
    <tr>
     <th>How?</th>
-    <td>
-     <ul>
-      <li>Discover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for <em>rNextBright</em> graduates.BD</li>
-     </ul>
-    </td>
+    <td>Discover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for <em>rNextBright</em> graduates.</td>
    </tr>
   <table>
  </div>
