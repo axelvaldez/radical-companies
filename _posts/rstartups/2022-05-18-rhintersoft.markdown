@@ -170,7 +170,7 @@ image:    "icon-feudalism-is-back-square.svg"
 
 <h1 class="_section">GLOSSARY</h1>
  <div class="_center">
-  <table class="_background">
+  <table class="_background" style="width:90%; ">
    <tr>
     <th>Hinterfolks</th>
     <td>Includes Hintersoftians and Hintersoft's clients, ex-clients, affiliates, ex-Hintersoftians, etc.</td>
