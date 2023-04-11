@@ -17,7 +17,7 @@ image:    "icon-nextbright.svg"
 <h1>Alignment</h1>
  <div class="_center">
   <table>
-   <tr style="background-color:>
+   <tr>
     <td class="_coltitle">Impact</td>
    </tr>
    <tr>
