@@ -142,7 +142,7 @@ image:    "icon-nextbright.svg"
   <li>US and Mexican software product companies</li>
   <li>US and Mexican IT shops (?)</li>
   <li>US-centric software development services, like Nearsoft, Tiempo, etc.</li>
-  <li>Mexican-centric software services</li>
+  <li>Central and South America software product and services</li>
  </ul>
  <p>In other words, anybody who needs to hire developers but, preferably, software product companies or software development shops that work with those companies (<em>e.g.</em>, Nearsoft).</p>
 
