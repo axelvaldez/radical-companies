@@ -26,7 +26,7 @@ image:    "icon-nextbright.svg"
    </tr>
    <tr>
     <td class="_coltitle">Purpose</td>
-   </tr
+   </tr>
    <tr>
     <th>Why?</th>
     <td><em>rNextBright</em> has partnered with three tech companies (<em>i.e.</em>, many of which have their own <a href="#">rPlayGym</a>).</td>
