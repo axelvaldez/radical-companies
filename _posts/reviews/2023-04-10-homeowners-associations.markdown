@@ -38,7 +38,8 @@ image:    "icon-homeowners-associations.svg"
  <p>No matter, it is cheaper for the local government and that&rsquo;s all that counts in <span class='_paradigm'>FIAT</span> land.</p>
 
 <h1 class="_section">CREDITS</h1>
- <p>This was inspired by an episode of <em>Last Week Tonight with John Oliver</em>.</p>
+ <p>This was inspired by an episode of <em>Last Week Tonight with John Oliver</em>.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>
+  </p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
@@ -49,6 +50,15 @@ image:    "icon-homeowners-associations.svg"
     Apr 10, 2023.
     &lt;<a href="https://radicalcompanies.com/2023/04/10/the-difference-between-collaboration-and-cooperation" target="_blank">https://radicalcompanies.com/2023/04/10/the-difference-between-collaboration-and-cooperation</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    John Oliver.
+    <em>HOAs</em>.
+    Apr 9, 2023.
+    &lt;<a href="https://www.hbo.com/last-week-tonight-with-john-oliver/season-10" target="_blank">https://www.hbo.com/last-week-tonight-with-john-oliver/season-10</a>&gt;
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
