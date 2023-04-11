@@ -15,59 +15,59 @@ image:    "icon-nextbright.svg"
  <p>As sports farms are incubators for sports players, <em>rNextBright</em> is an incubator for people to learn their craft working alongside mentors.</p>
 
 <h1>Alignment</h1>
-<div class="_center">
- <table class="_background">
-  <tr>
-   <td class="_coltitle">Impact</td>
-  </tr>
-  <tr>
-   <th>What for?</th>
-   <td>
-    <ul>
-     <li>A world populated by healthy people who know how to contribute to themselves, their communities and their world.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td class="_coltitle">Purpose</td>
-  </tr>
-  <tr>
-   <th>Why?</th>
-   <td>
-    <ul>
-     <li>rNextBright has partnered with three tech companies (<em>i.e.</em>, many of which have their own <a href="#">rPlayGyms</a>).</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td class="_coltitle">Mission</td>
-  </tr>
-  <tr>
-   <th>What?</th>
-   <td>
-    <ul>
-     <li>Discover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for rNextBright graduates.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>When?</th>
-   <td>
-    <ul>
-     <li>Within 12 months.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>How?</th>
-   <td>
-    <ul>
-     <li>Discover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for rNextBright graduates.BD</li>
-    </ul>
-   </td>
-  </tr>
- <table>
-</div>
+ <div class="_center">
+  <table>
+   <tr style="background-color:>
+    <td class="_coltitle">Impact</td>
+   </tr>
+   <tr>
+    <th>What for?</th>
+    <td>
+     <ul>
+      <li>A world populated by healthy people who know how to contribute to themselves, their communities and their world.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_coltitle">Purpose</td>
+   </tr
+   <tr>
+    <th>Why?</th>
+    <td>
+     <ul>
+      <li>rNextBright has partnered with three tech companies (<em>i.e.</em>, many of which have their own <a href="#">rPlayGyms</a>).</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_coltitle">Mission</td>
+   </tr>
+   <tr>
+    <th>What?</th>
+    <td>
+     <ul>
+      <li>Discover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for rNextBright graduates.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>When?</th>
+    <td>
+     <ul>
+      <li>Within 12 months.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>How?</th>
+    <td>
+     <ul>
+      <li>Discover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for rNextBright graduates.BD</li>
+     </ul>
+    </td>
+   </tr>
+  <table>
+ </div>
 
 <h1>Operational Goals</h1>
  <ul>
