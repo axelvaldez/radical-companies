@@ -75,8 +75,10 @@ image:    "icon-nextbright.svg"
      </ul>
     </td>
    <tr>
+  </table>
+  <table>
    <tr>
-    <th>Personal Branding</h1>
+    <th>Personal Branding</th>
     <td>
      <ul>
       <li>Personal Brand Story development</li>
@@ -85,8 +87,10 @@ image:    "icon-nextbright.svg"
      </ul>
     </td>
    </tr>
+  </table>
+  <table>
    <tr>
-    <th>Interview Shine</h1>
+    <th>Interview Shine</th>
     <td>
      <ul>
       <li>Interview Gauntlet</li>
@@ -96,6 +100,8 @@ image:    "icon-nextbright.svg"
      </ul>
     </td>
    </tr>
+  </table>
+  <table>
    <tr>
     <th>English Bootcamp</th>
     <td>
