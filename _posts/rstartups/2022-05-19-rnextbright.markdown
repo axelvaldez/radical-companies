@@ -22,7 +22,7 @@ image:    "icon-nextbright.svg"
    </tr>
    <tr>
     <th>What for?</th>
-    <td>A world populated by healthy people who know how to contribute to themselves, their communities and their world.</li></td>
+    <td>A world populated by healthy people who know how to contribute to themselves, their communities and their world.</td>
    </tr>
    <tr>
     <td class="_coltitle">Purpose</td>
@@ -46,7 +46,7 @@ image:    "icon-nextbright.svg"
     <th>How?</th>
     <td>Discover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for <em>rNextBright</em> graduates.</td>
    </tr>
-  <table>
+  </table>
  </div>
 
 <h1>Operational Goals</h1>
