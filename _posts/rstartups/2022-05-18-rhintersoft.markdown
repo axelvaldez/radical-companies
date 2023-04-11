@@ -16,7 +16,7 @@ image:    "icon-feudalism-is-back-square.svg"
 <h1>Alignment</h1>
  <table class="_background">
   <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Impact</td>
+   <th>Impact</th>
   </tr>
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What for?</td>
@@ -28,7 +28,7 @@ image:    "icon-feudalism-is-back-square.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Purpose</td>
+   <th>Purpose</th>
   </tr>
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">Why?</td>
@@ -39,7 +39,7 @@ image:    "icon-feudalism-is-back-square.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Mission</td>
+   <th>Mission</th>
   </tr>
   <tr>
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What?</td>
