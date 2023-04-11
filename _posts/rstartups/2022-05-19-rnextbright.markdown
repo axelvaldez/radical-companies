@@ -12,16 +12,15 @@ image:    "icon-nextbright.svg"
 
 <h1>Intro</h1>
  <p><em>rNextBright</em> is a code school, a freedom indoctrination hall. It’s getting hooked on dignity.</p>
- <p>As sports farms are incubators for sports players, <strong>rNextBright</strong> is an incubator for people to learn their craft working alongside mentors.</p>
+ <p>As sports farms are incubators for sports players, <em>rNextBright</em> is an incubator for people to learn their craft working alongside mentors.</p>
 
 <h1>Alignment</h1>
- <table>
- <tbody style="font-size:smaller; vertical-align:top; ">
+ <table class="_background">
   <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Impact</td>
+   <td class="_coltitle">Impact</td>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What for?</td>
+   <th>What for?</th>
    <td>
     <ul>
      <li>A world populated by healthy people who know how to contribute to themselves, their communities and their world.</li>
@@ -29,10 +28,10 @@ image:    "icon-nextbright.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Purpose</td>
+   <td class="_coltitle">Purpose</td>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">Why?</td>
+   <th>Why?</th>
    <td>
     <ul>
      <li>rNextBright has partnered with three tech companies (<em>i.e.</em>, many of which have their own <a href="#">rPlayGyms</a>).</li>
@@ -40,10 +39,10 @@ image:    "icon-nextbright.svg"
    </td>
   </tr>
   <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Mission</td>
+   <td class="_coltitle">Mission</td>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What?</td>
+   <th>What?</th>
    <td>
     <ul>
      <li>Discover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for rNextBright graduates.</li>
@@ -51,7 +50,7 @@ image:    "icon-nextbright.svg"
    </td>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">When?</td>
+   <th>When?</th>
    <td>
     <ul>
      <li>Within 12 months.</li>
@@ -59,10 +58,10 @@ image:    "icon-nextbright.svg"
    </td>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">How?</td>
+   <th>How?</th>
    <td>
     <ul>
-     <li>TDiscover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for rNextBright graduates.BD</li>
+     <li>Discover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for rNextBright graduates.BD</li>
     </ul>
    </td>
   </tr>

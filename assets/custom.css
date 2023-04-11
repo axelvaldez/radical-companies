@@ -502,3 +502,9 @@ div._next {
   padding:0 10%;
   font-family: American Typewriter, serif;
 }
+._coltitle {
+  font-weight:bold;
+  font-size:larger;
+  text-align:center;
+  column-span: all;
+}
