@@ -10,10 +10,10 @@ image:    "icon-feudalism-is-back-square.svg"
  <p>World-wide, federated software craft shops.</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
+<h1>Intro</h1>
  <p>Hintersoft helps its clients grow their product development teams, enhance their innovation, and end up with committed team. The company is co-owned and co-managed by the people who embody it and contribute to it.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Alignment</h1>
+<h1>Alignment</h1>
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
@@ -70,18 +70,21 @@ image:    "icon-feudalism-is-back-square.svg"
    </td>
   </tr>
  </tbody>
- <table>
+ </table>
+ <div class="_center">
+  <img
+   src="/assets/img/pic-feudalism-is-back-square.svg"
+   width="80%"
+   title="Feudalism is back-square"
+   alt="A vignette of four frames. The young man tells the young woman, 'Basically, CEOs are treated like kings and queens.' He continues, 'And employees are nothing more than replaceable peasants working our land in exchange for protection.' She then asks, 'Protection?' To which answers, 'Healthcare.' She exclaims, 'Feudalism is back!' and he closes with, 'You said it.'">
+ </div>
 
- <p style="font-family:courier new, sans-serif; text-align:center; padding:0; margin-top:40px; ">
-  <img src="/assets/img/feudalism-is-back-square.svg" alt="A vignette of four frames. The young man tells the young woman, 'Basically, CEOs are treated like kings and queens.' He continues, 'And employees are nothing more than replaceable peasants working our land in exchange for protection.' She then asks, 'Protection?' To which answers, 'Healthcare.' She exclaims, 'Feudalism is back!' and he closes with, 'You said it.'" title="Feudalism is back-square" style="width: 80%; ">
- </p>
-
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Origin Story</h1>
+<h1>Origin Story</h1>
  <p>Most companies are owned and operated like feudal estates: commands flow down and wealth flows up.</p>
  <p>In a FIAT business, you help create a revenue stream, the business brand, its copyrights, patents, contracts, customer loyalty, and its growing equity value. But as an employee, you don’t own any of it. In exchange for your work, you get a wage and maybe a few other benefits like health insurance.</p>
  <p>A RADICAL company like Hintersoft makes it possible for the people who embody it to take control of their lives, behave as adults, and take full ownership over what they create. Hintersoft is co-owned and co-managed by you and all the people who contribute to it. It is a community of people who come together to contribute broad value to society and make an impact on the world.<sup><a href="#bookmark=id.sp4lps9hxtyk">2</a></sup></p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">How It Works</h1>
+<h1>How It Works</h1>
  <p>Hintersoftians work in a healthy environment, physically and psychologically safe. This is just not a promise: as co-owners, Hintersoftians can make sure it works this way. When it gets off the rails, Hintersoftians, as co-owners, can put it back on track.</p>
   <div class="_center">
    <table class="_background">
@@ -167,7 +170,7 @@ image:    "icon-feudalism-is-back-square.svg"
    </table>
   </div>
 
-<h1 class="_section">Glossary</h1>
+<h1 class="_section">GLOSSARY</h1>
  <div class="_center">
   <table class="_background">
    <tr>
