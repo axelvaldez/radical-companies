@@ -10,11 +10,11 @@ image:    "icon-nextbright.svg"
  <p>A space where teams and people can grow.</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
- <p>It's a code school. It's a democracy madrassa. It’s a freedom indoctrination hall. It’s getting hooked on dignity. <strong>rNextBright</strong> is all of those things.</p>
+<h1>Intro</h1>
+ <p><em>rNextBright</em> is a code school, a freedom indoctrination hall. It’s getting hooked on dignity.</p>
  <p>As sports farms are incubators for sports players, <strong>rNextBright</strong> is an incubator for people to learn their craft working alongside mentors.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Alignment</h1>
+<h1>Alignment</h1>
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
@@ -69,7 +69,7 @@ image:    "icon-nextbright.svg"
  </tbody>
  <table>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Operational Goals</h1>
+<h1>Operational Goals</h1>
  <ul>
   <li>Make it free or very inexpensive for students.</li>
   <li>Pay students a stipend to cover living expenses.</li>
@@ -77,19 +77,19 @@ image:    "icon-nextbright.svg"
   <li>Give preference to co-managed businesses and RADICAL companies.</li>
  </ul>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Origin Story</h1>
- <p>The inspiration comes straight from our experience and success of the Nearsoft Academy project and from watching Beetroot work. People enter the program with little programming experience, not used to working in a team, and poor communication skills. They come out of it with better developed skills in all those areas.</p>
+<h1>Origin Story</h1>
+ <p>The inspiration comes straight from our experience of the Nearsoft Academy project and from watching Beetroot, a Ukrainian company, at work. People enter the program with little programming experience, not used to working in a team, and poor communication skills. They come out of it with developed skills in all those areas.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">How It Works</h1>
- <p>Graduates can choose to join a legacy company, a self-managed company, or a RADICAL one (<em>e.g.</em>, a rHintersoft  instance).</p>
+<h1>How It Works</h1>
+ <p>Graduates can choose to join a legacy company, a self-managed company, or a <span class='_paradigm'>RADICAL</span> company (<em>e.g.</em>, a rHintersoft  instance).</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Mentoring</h1>
+<h1>Mentoring</h1>
  <ul>
   <li>Like StackOverflow, but <em>live</em></li>
-  <li>Mentors Pair with their Mentees (<em>i.e.</em>, graduates, others)</li>
-  <li>Mentors get <a href="https://docs.google.com/document/u/1/d/17uegxy6GPeLsajIaM_6faQ0hdl56PqMXpJvLW37iJVg/edit">RADs</a>.</li>
+  <li>Mentors Pair with Mentees</li>
+  <li>Mentors get <span class='_paradigm'>RAD</span>s.</li>
  </ul>
- <h2 style="font-size:30px; font-family:Courier New, monospace;  ">Personal Branding</h2>
+ <th>Personal Branding</th>
   <table style="font-size:smaller; vertical-align:top; ">
    <tr style="vertical-align:top; ">
     <td style="width:6em;  ">
@@ -108,11 +108,11 @@ image:    "icon-nextbright.svg"
     <td></td>
    </tr>
   </table>
- <h2 style="font-size:30px; font-family:Courier New, monospace;  ">Interview Shine</h2>
-  <table style="font-size:smaller; ">
-   <tr style="vertical-align:top; ">
-    <td style="width:6em;  ">
-     <p style="text-align:right; font-weight:bold; ">Program Outline</p>
+ <th>Interview Shine</th>
+  <table class="_background">
+   <tr>
+    <td>
+     <p>Program Outline</p>
     </td>
     <td>
      <ul>
@@ -128,7 +128,7 @@ image:    "icon-nextbright.svg"
     <td></td>
    </tr>
   </table>
- <h2 style="font-size:30px; font-family:Courier New, monospace;  ">English Bootcamp</h2>
+ <th>English Bootcamp</th>
   <table style="font-size:smaller; ">
    <tr style="vertical-align:top; ">
     <td style="width:6em;  ">
@@ -148,7 +148,7 @@ image:    "icon-nextbright.svg"
   </tr>
  </table>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Programs for Employers</h1>
+<h1>Programs for Employers</h1>
  <p>Integrate employers into the program and create opportunities for them to participate as early as possible in the process. They are the beneficiaries of making this happen.</p>
  <ul>
   <li>Employers: employer developers mentoring the less experienced.</li>
@@ -156,7 +156,7 @@ image:    "icon-nextbright.svg"
   <li>Either of above, but with discounts/credits for participating in the training (mentorship).</li>
  </ul>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Employer Opportunities</h1>
+<h1>Employer Opportunities</h1>
  <ul>
   <li>Participate as instructors.</li>
   <li>Participate as guest lecturers.</li>
@@ -164,18 +164,18 @@ image:    "icon-nextbright.svg"
   <li>Co-learning Buddies (<em>i.e., </em>not full-mentors, but will show/Pair on a particular technique).</li>
  </ul>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Services</h1>
+<h1>Services</h1>
  <p>Participation requirements.</p>
  <ul>
   <li>Training/consulting to make themselves ready for the new recruits.</li>
   <li>How to be a mentor and not suck at it.</li>
-  <li>Formalizing a training regime for their own folks (to raise the software's dev community skill level, in general).</li>
+  <li>Formalizing a training regime for their own folks (to raise the software&rsquo;s dev community skill level, in general).</li>
  </ul>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Location</h1>
+<h1>Location</h1>
  <p>Virtual, with regular IRL socializing opportunities. The latter can be done in partnership with co-working spaces, at a client’s premise, etc.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Revenue, Scholarships</h1>
+<h1>Revenue, Scholarships</h1>
  <p>Potential paying Clients,</p>
  <ul>
   <li>US and Mexican software product companies</li>
@@ -185,7 +185,7 @@ image:    "icon-nextbright.svg"
  </ul>
  <p>In other words, anybody who needs to hire developers but, preferably, software product companies or software development shops that work with those companies (<em>e.g.</em>, Nearsoft).</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Other Funding for Students</h1>
+<h1>Other Funding for Students</h1>
  <p>There are several models in the wild,</p>
  <ul>
   <li>Totally based on donations.</li>
@@ -203,7 +203,7 @@ image:    "icon-nextbright.svg"
   </ul>
   <p>Possibly, work with foundations (<em>e.g.</em>, <a href="http://fer.org.mx/">Fundación Esposos Rodríguez</a>, in Sonora, Mexico).</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Possible Allies</h1>
+<h1>Possible Allies</h1>
  <ul>
   <li><a href="http://joshuavial.com/">Joshua Vial</a>, <a href="http://www.devacademy.co.nz/">Enspiral Dev Academy</a></li>
   <li>Tanmay Vora (<a href="http://qaspire.com/2016/08/22/leading-and-learning-how-to-feed-a-community/">Leading and Learning: How to Feed a Community</a>)</li>
