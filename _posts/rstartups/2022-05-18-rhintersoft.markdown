@@ -85,7 +85,7 @@ image:    "icon-feudalism-is-back-square.svg"
 <h1>How It Works</h1>
  <p>Hintersoftians work in a healthy environment, physically and psychologically safe. This is just not a promise: as co-owners, Hintersoftians can make sure it works this way. When it gets off the rails, Hintersoftians, as co-owners, can put it back on track.</p>
   <div class="_center">
-   <table class="_background">
+   <table class="_background" style="width:90%; ">
     <tr>
      <th>Joining a Client</th>
      <td>
