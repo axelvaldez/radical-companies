@@ -62,19 +62,21 @@ image:    "icon-nextbright.svg"
 
 <h1>How It Works</h1>
  <p>Graduates can choose to join a legacy company, a self-managed company, or a <span class='_paradigm'>RADICAL</span> company (<em>e.g.</em>, a <em>rHintersoft</em>  instance).</p>
-
-<h1>Mentoring</h1>
- <ul>
-  <li>Like StackOverflow, but <em>live</em></li>
-  <li>Mentors Pair with Mentees</li>
-  <li>Mentors probably get <span class='_paradigm'>RAD</span>s from Mentees.</li>
- </ul>
-
-<h1>Personal Branding</h1>
  <div align="_center">
   <table>
    <tr>
-    <th style="width:6em;  ">Program Outline</th>
+    <th>Mentoringg</th>
+    <td>
+     <ul>
+      <li>Like StackOverflow, but <em>live</em></li>
+      <li>Mentors help Mentees</li>
+      <li>Mentors Pair with Mentees</li>
+      <li>Mentors (will likely) get <span class='_paradigm'>RAD</span>s from Mentees.</li>
+     </ul>
+    </td>
+   <tr>
+   <tr>
+    <th>Personal Branding</h1>
     <td>
      <ul>
       <li>Personal Brand Story development</li>
@@ -83,16 +85,8 @@ image:    "icon-nextbright.svg"
      </ul>
     </td>
    </tr>
-  </table>
- </div>
-
-<h1>Interview Shine</h1>
- <div align="_center">
-  <table>
    <tr>
-    <td>
-     <p>Program Outline</p>
-    </td>
+    <th>Interview Shine</h1>
     <td>
      <ul>
       <li>Interview Gauntlet</li>
@@ -102,14 +96,8 @@ image:    "icon-nextbright.svg"
      </ul>
     </td>
    </tr>
-  </table>
- </div>
- 
-<h1>English Bootcamp</h1>
- <div align="_center">
-  <table>
    <tr>
-    <td>Program Outline</td>
+    <th>English Bootcamp</th>
     <td>
      <ul>
       <li>Conversational skills</li>
@@ -120,7 +108,7 @@ image:    "icon-nextbright.svg"
    </tr>
   </table>
  </div>
-
+ 
 <h1>Programs for Employers</h1>
  <p>Integrate employers into the program and create opportunities for them to participate as early as possible in the process. They are the beneficiaries of making this happen.</p>
  <ul>
