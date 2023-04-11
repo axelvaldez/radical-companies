@@ -38,7 +38,7 @@ image:    "icon-homeowners-associations.svg"
  <p>No matter, it is cheaper for the local government and that&rsquo;s all that counts in <span class='_paradigm'>FIAT</span> land.</p>
 
 <h1 class="_section">CREDITS</h1>
- <p>This was inspired by an episode of <em>Last Week Tonight with John Oliver</em>.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>
+ <p>This was inspired by the HOA episode of <em>Last Week Tonight with John Oliver</em>.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>
   </p>
 
 <h1 class="_section">ENDNOTES</h1>
