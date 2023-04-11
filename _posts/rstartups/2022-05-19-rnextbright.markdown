@@ -74,7 +74,7 @@ image:    "icon-nextbright.svg"
       <li>Mentors (will likely) get <span class='_paradigm'>RAD</span>s from Mentees.</li>
      </ul>
     </td>
-   <tr>
+   </tr>
   </table>
   <table>
    <tr>
@@ -100,8 +100,6 @@ image:    "icon-nextbright.svg"
      </ul>
     </td>
    </tr>
-  </table>
-  <table>
    <tr>
     <th>English Bootcamp</th>
     <td>
