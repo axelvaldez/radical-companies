@@ -72,7 +72,7 @@ image:    "icon-nextbright.svg"
 
 <h1>Personal Branding</h1>
  <div align="_center">
-  <table class="_background">
+  <table>
    <tr>
     <th style="width:6em;  ">Program Outline</th>
     <td>
@@ -88,7 +88,7 @@ image:    "icon-nextbright.svg"
 
 <h1>Interview Shine</h1>
  <div align="_center">
-  <table class="_background">
+  <table>
    <tr>
     <td>
      <p>Program Outline</p>
@@ -102,20 +102,14 @@ image:    "icon-nextbright.svg"
      </ul>
     </td>
    </tr>
-   <tr>
-    <td></td>
-    <td></td>
-   </tr>
   </table>
  </div>
  
 <h1>English Bootcamp</h1>
  <div align="_center">
-  <table style="font-size:smaller; ">
-   <tr style="vertical-align:top; ">
-    <td style="width:6em;  ">
-     <p style="text-align:right; font-weight:bold; ">Program Outline</p>
-    </td>
+  <table>
+   <tr>
+    <td>Program Outline</td>
     <td>
      <ul>
       <li>Conversational skills</li>
@@ -123,9 +117,6 @@ image:    "icon-nextbright.svg"
       <li>Writing skills</li>
      </ul>
     </td>
-   </tr>
-   <tr>
-    <td class="_spacer"></td>
    </tr>
   </table>
  </div>
