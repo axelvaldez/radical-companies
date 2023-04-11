@@ -20,7 +20,7 @@ image:    "icon-we-remember-therefore-we-are.svg"
  <p>This is what came up after reading <em>Consciousness as a Memory System</em>. It describes the authors&rsquo; theory of &ldquo;conciousness as memory,&rdquo;</p>
  <div class="_citation">
   Consciousness is directed toward an object; it is about something (ie, intentionality). We experience consciousness as unified, as one experience, rather than as separate experiences of sights, sounds, smells, thoughts, feelings, and so on (<em>ie</em>, unity). We have the capacity to be conscious of some things and not others (<em>ie</em>, selectivity). Objects of consciousness are there transiently; the contents of consciousness tend to change (<em>ie</em>, transience).
-  <p class="_signature"> Andrew Budson, Kenneth Richman, Elizabeth Kensinger.<br><em>Consciousness as a Memory System</em>.</p>
+  <p id="_signature">Andrew Budson, Kenneth Richman, Elizabeth Kensinger.<br><em>Consciousness as a Memory System</em>.</p>
  </div>
  <p>After reading <em>Conciousness&hellip; </em>, I went to sleep with a lot of questions bouncing in my head. How do we choose what we remember vs what we never commit to memory? What urges us to spend the energy of building one memory and not another? I believe that what guides us is our feelings.</p>
 
