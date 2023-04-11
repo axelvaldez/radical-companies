@@ -22,7 +22,7 @@ image:    "icon-nextbright.svg"
    </tr>
    <tr>
     <th>What for?</th>
-    <td>A world populated by healthy people who know how to contribute to themselves, their communities and their world.</td>
+    <td>A world populated by healthy people who know how to contribute to themselves, their communities, and their world.</td>
    </tr>
    <tr>
     <td class="_coltitle">Purpose</td>
