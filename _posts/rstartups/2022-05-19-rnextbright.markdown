@@ -15,6 +15,7 @@ image:    "icon-nextbright.svg"
  <p>As sports farms are incubators for sports players, <em>rNextBright</em> is an incubator for people to learn their craft working alongside mentors.</p>
 
 <h1>Alignment</h1>
+<div class="_center">
  <table class="_background">
   <tr>
    <td class="_coltitle">Impact</td>
@@ -65,8 +66,8 @@ image:    "icon-nextbright.svg"
     </ul>
    </td>
   </tr>
- </tbody>
  <table>
+</div>
 
 <h1>Operational Goals</h1>
  <ul>
