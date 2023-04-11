@@ -14,8 +14,7 @@ image:    "icon-feudalism-is-back-square.svg"
  <p>Hintersoft helps its clients grow their product development teams, enhance their innovation, and end up with committed team. The company is co-owned and co-managed by the people who embody it and contribute to it.</p>
 
 <h1>Alignment</h1>
- <table>
- <tbody style="font-size:smaller; vertical-align:top; ">
+ <table class="_background">
   <tr>
    <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Impact</td>
   </tr>
@@ -69,7 +68,6 @@ image:    "icon-feudalism-is-back-square.svg"
     </ul>
    </td>
   </tr>
- </tbody>
  </table>
  <div class="_center">
   <img
@@ -97,7 +95,7 @@ image:    "icon-feudalism-is-back-square.svg"
      </td>
     </tr>
     <tr>
-     <th>Leaving a Client</td>
+     <th>Leaving a Client</th>
      <td>
       <ul>
        <li>You could leave because you found something better aligned with what you want to do (see <a href="#heading=h.7ho9csrw1ee2">Joining a Client</a>). Or you may want to leave because your current client is not working for you. Maybe your work is not meaningful any more, or maybe you no longer get a good feeling out of being part of their team.</li>
@@ -122,9 +120,7 @@ image:    "icon-feudalism-is-back-square.svg"
      </td>
     </tr>
     <tr>
-     <td>
-      <p style="text-align:right; font-weight:bold; ">Mind the Business</p>
-     </td>
+     <th>Mind the Business</th>
      <td>
       <ul>
        <li>As a co-owner, you need to mind the Hintersoft business. Not “to put food on the table,” but as a commitment to yourself and the other co-owners.</li>
@@ -137,6 +133,8 @@ image:    "icon-feudalism-is-back-square.svg"
       <ul>
        <li>You decide how much wealth to extract from the company to take care of your recurring expenses (see <a href="#heading=h.y06dr3dikzaw">References</a>).</li>
        <li>We still have to make the company work financially. This is not a magic wand to fend off hard situations or avoid difficult decisions.</li>
+       <li>The PRI fund pays the PRI when the company is bringing in less than the total PRI. Once the revenue goes up above expenses, dividends as given to co-owner (<em>i.e.</em>, as it is given to owners in FIAT businesses).</li>
+       <li>Unless other agreements have been made, the PRI fund gest paid first. The PRI fund is fed by <span class='_paradigm'>RADICAL</span> investments which has to be paid back and the PRI policy has to take that into consideration. OK, it doesn&rsquo;t have to, but it is highly advised that it does so.</li>
       </ul>
      </td>
     </tr>
