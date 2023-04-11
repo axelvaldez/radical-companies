@@ -67,14 +67,14 @@ image:    "icon-nextbright.svg"
  <ul>
   <li>Like StackOverflow, but <em>live</em></li>
   <li>Mentors Pair with Mentees</li>
-  <li>Mentors get <span class='_paradigm'>RAD</span>s.</li>
+  <li>Mentors probably get <span class='_paradigm'>RAD</span>s from Mentees.</li>
  </ul>
- <th>Personal Branding</th>
-  <table style="font-size:smaller; vertical-align:top; ">
-   <tr style="vertical-align:top; ">
-    <td style="width:6em;  ">
-     <p style="text-align:right; font-weight:bold; ">Program Outline</p>
-    </td>
+
+<h1>Personal Branding</h1>
+ <div align="_center">
+  <table class="_background">
+   <tr>
+    <th style="width:6em;  ">Program Outline</th>
     <td>
      <ul>
       <li>Personal Brand Story development</li>
@@ -83,12 +83,11 @@ image:    "icon-nextbright.svg"
      </ul>
     </td>
    </tr>
-   <tr>
-    <td></td>
-    <td></td>
-   </tr>
   </table>
- <th>Interview Shine</th>
+ </div>
+
+<h1>Interview Shine</h1>
+ <div align="_center">
   <table class="_background">
    <tr>
     <td>
@@ -108,25 +107,28 @@ image:    "icon-nextbright.svg"
     <td></td>
    </tr>
   </table>
- <th>English Bootcamp</th>
+ </div>
+ 
+<h1>English Bootcamp</h1>
+ <div align="_center">
   <table style="font-size:smaller; ">
    <tr style="vertical-align:top; ">
     <td style="width:6em;  ">
-    <p style="text-align:right; font-weight:bold; ">Program Outline</p>
-   </td>
-   <td>
-    <ul>
-     <li>Conversational skills</li>
-     <li>Reading skills</li>
-     <li>Writing skills</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td></td>
-   <td></td>
-  </tr>
- </table>
+     <p style="text-align:right; font-weight:bold; ">Program Outline</p>
+    </td>
+    <td>
+     <ul>
+      <li>Conversational skills</li>
+      <li>Reading skills</li>
+      <li>Writing skills</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
+   </tr>
+  </table>
+ </div>
 
 <h1>Programs for Employers</h1>
  <p>Integrate employers into the program and create opportunities for them to participate as early as possible in the process. They are the beneficiaries of making this happen.</p>
