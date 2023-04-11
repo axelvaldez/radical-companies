@@ -35,7 +35,7 @@ image:    "icon-nextbright.svg"
     <th>Why?</th>
     <td>
      <ul>
-      <li>rNextBright has partnered with three tech companies (<em>i.e.</em>, many of which have their own <a href="#">rPlayGyms</a>).</li>
+      <li><em>rNextBright</em> has partnered with three tech companies (<em>i.e.</em>, many of which have their own <a href="#">rPlayGym</a>).</li>
      </ul>
     </td>
    </tr>
@@ -46,7 +46,7 @@ image:    "icon-nextbright.svg"
     <th>What?</th>
     <td>
      <ul>
-      <li>Discover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for rNextBright graduates.</li>
+      <li>Discover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for <em>rNextBright</em> graduates.</li>
      </ul>
     </td>
    </tr>
@@ -62,7 +62,7 @@ image:    "icon-nextbright.svg"
     <th>How?</th>
     <td>
      <ul>
-      <li>Discover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for rNextBright graduates.BD</li>
+      <li>Discover an effective accelerated, bootcamp-style learning and experiment to create a support network of people and services for <em>rNextBright</em> graduates.BD</li>
      </ul>
     </td>
    </tr>
