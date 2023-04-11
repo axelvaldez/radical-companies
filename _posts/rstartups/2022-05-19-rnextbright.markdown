@@ -65,7 +65,7 @@ image:    "icon-nextbright.svg"
  <div align="_center">
   <table>
    <tr>
-    <th style="width=:6em; ">Mentoringg</th>
+    <th style="width=:6em; ">Mentoring</th>
     <td>
      <ul>
       <li>Like StackOverflow, but <em>live</em></li>
