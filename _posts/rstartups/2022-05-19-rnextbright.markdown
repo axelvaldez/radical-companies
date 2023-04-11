@@ -40,7 +40,7 @@ image:    "icon-nextbright.svg"
    </tr>
    <tr>
     <th>When?</th>
-    <td>Within 12 months.
+    <td>Within 12 months.</td>
    </tr>
    <tr>
     <th>How?</th>
