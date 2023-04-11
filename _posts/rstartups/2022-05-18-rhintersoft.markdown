@@ -16,10 +16,10 @@ image:    "icon-feudalism-is-back-square.svg"
 <h1>Alignment</h1>
  <table class="_background">
   <tr>
-   <th>Impact</th>
+   <th style="font-size:larger; ">Impact</th>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What for?</td>
+   <th>What for?</th>
    <td>
     <ul>
      <li>A world of decentralized ownership and collaborative management.</li>
@@ -28,10 +28,10 @@ image:    "icon-feudalism-is-back-square.svg"
    </td>
   </tr>
   <tr>
-   <th>Purpose</th>
+   <th style="font-size:larger; ">Purpose</th>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">Why?</td>
+   <th>Why?</th>
    <td>
     <ul>
      <li>To help people learn how to <em>truly own</em> their work, their communities, and their world.</li>
@@ -39,10 +39,10 @@ image:    "icon-feudalism-is-back-square.svg"
    </td>
   </tr>
   <tr>
-   <th>Mission</th>
+   <th style="font-size:larger; ">Mission</th>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What?</td>
+   <th>What?</th>
    <td>
     <ul>
      <li>Generates a positive EBITDA.</li>
@@ -52,7 +52,7 @@ image:    "icon-feudalism-is-back-square.svg"
    </td>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">When?</td>
+   <th>When?</th>
    <td>
     <ul>
      <li>Generate 35% EBITDA on their second year of operations.</li>
@@ -60,7 +60,7 @@ image:    "icon-feudalism-is-back-square.svg"
    </td>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">How?</td>
+   <th>How?</th>
    <td>
     <ul>
      <li>Its culture and ownership structure are rHintersoft's brand.</li>
@@ -74,6 +74,7 @@ image:    "icon-feudalism-is-back-square.svg"
    src="/assets/img/pic-feudalism-is-back-square.svg"
    width="80%"
    title="Feudalism is back-square"
+   style="margin:10px 0; "
    alt="A vignette of four frames. The young man tells the young woman, 'Basically, CEOs are treated like kings and queens.' He continues, 'And employees are nothing more than replaceable peasants working our land in exchange for protection.' She then asks, 'Protection?' To which answers, 'Healthcare.' She exclaims, 'Feudalism is back!' and he closes with, 'You said it.'">
  </div>
 
