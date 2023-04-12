@@ -502,6 +502,12 @@ div._next {
   padding:0 10%;
   font-family: American Typewriter, serif;
 }
+table._ninety {
+  width:90%;
+}
+table tr #_background, table td #_background {
+  background-color:#EEE;
+}
 ._coltitle {
   font-weight:bold;
   font-size:larger;
@@ -509,18 +515,12 @@ div._next {
   column-span: all;
   background-color:#EEEEEE;
 }
-table._ninety {
-  width:90%;
-}
-table tr #_background, table td #_background {
-  background-color:#EEE;
-}
 table._explicitalignment td {
-  text-align:right;
+  text-align:left;
   vertical-align:text-top;
 }
-table._explicitalignment td {
+table._explicitalignment th#_coltitle {
   font-size:larger;
-  text-align:left;
+  text-align:right;
   vertical-align:text-top;
 }
