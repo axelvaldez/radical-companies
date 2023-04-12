@@ -596,62 +596,6 @@ image:    "icon-buddyneighbor.svg"
   <li>Outlets can contribute to local funds and projects on behalf of <span class="_paradigm">rBuddyNeighbors</span>. Not, <span class="_quotespan">Check out your Tuesday discounts&rdquo; but &ldquo;come Tuesday and get your <span class="_paradigm">rBuddyNeighbors</span> and we&rsquo;ll contribute X% of all sales to &hellip;</span></li>
  </ul>
 
-<h1>Jose Contrera&rsquo;s Vision</h1>
- <div class="_center">
-  <table class="_background" style="width:90%; ">
-   <tr>
-    <th>Elevator Pitch</th>
-    <td>When you are somewhere but don&rsquo;t have time to get up and go&hellip;don&rsquo;t go hungry or thirsty but leverage your friends and family who are nearby already out  and about to bring you back anything from a Starbucks, pizza to even groceries.</td>
-   </tr>
-   <tr>
-    <th>Purpose</th>
-    <td>To capitalize on the growing trend of food delivery options and ride service segments to create social commerce by leveraging friendships and relationships on media like Facebook, Instagram, Snap-chat etc.</td>
-   </tr>
-   <tr>
-    <th>How its done and with whom</th>
-    <td>Creating a mobile application where people can sign up and create profiles to make them visible at various food and drink locations. A user can toggle back and forth between being a Buyer or a Flyer. The buyer is looking for services and the Flyer is providing the delivery services.</td>
-   </tr>
-   <tr>
-    <th>Where and why</th>
-    <td>Ideally you can provide services to within a 30 minute delivery time window or locate someone within a specified geo range of 5, 10 or 15 miles . this can be determined by the need of the item and anything as random as an item from Costco</td>
-   </tr>
-  </table>
- </div>
- <h2>FAQ</h2>
-  <div class="_center">
-   <table class="_background" style="width:90%; ">
-    <tr>
-     <th>How do we make money?</th>
-     <td colspan="2">
-      <ul>
-       <li>By enlisting the restaurants and stores as being part of the <span class="_quotespan">My <span class="_paradigm">Neighbor</span> network</li>
-       <li>Hosting the commerce and transactions on a secured platform and charging a small percentage of the transaction</li>
-       <li>Become acquired by Uber eats or Doordash or some competing entity</li>
-      </ul>
-     </td>
-    </tr>
-    <tr>
-     <th>How does it impact the world?</th>
-     <td colspan="2">Impact the world by being able to expedite the food ordering and delivery process by leveraging friends, family and Neighbors who are already in flight to desired locations.</td>
-    </tr>
-    <tr>
-     <th>Exit Strategy?</th>
-     <td colspan="2">The ultimate exit strategy is to create , operate and then sell a very creative and innovative technology food service company that has become disruptive to players like Uber and Doordash. Could be an attractive adjacent business for OpenTable or Nextdoor.</td>
-    </tr>
-    <tr>
-     <th>What do you have to accomplish to get there?</th>
-     <td>Create energy and buzz around the concept of social commerce and a better more Neighborly way to shop while optimizing time.</td>
-     <td>
-      <ul>
-       <li>Create a following and enlist support from food and drink establishments</li>
-       <li>Be disruptive to the status quo</li>
-       <li>Create a better option to ride share service, put a familiar face on who you get into a car with or who you let into your car. </li>
-      </ul>
-     </td>
-    </tr>
-   </table>
-  </div>
-
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
