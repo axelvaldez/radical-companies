@@ -22,14 +22,14 @@ image:    "icon-buddyneighbor.svg"
    </tr>
    <tr>
     <th>What for?</th>
-    <td>Improve people&rsquo;s health.</td>
+    <td style="vertical-alig:top; ">Build community of neighbors.</td>
    </tr>
    <tr style="font-color:#EEE; ">
     <th>Purpose</th>
    </tr>
    <tr>
     <th>Why?</th>
-    <td>Easy to get, healthy foods catered by neighbors.</td>
+    <td style="vertical-alig:top; ">Get neighbors to meet while doing favors for each other.</td>
    </tr>
    <tr style="font-color:#EEE; ">
     <th>Mission</th>
