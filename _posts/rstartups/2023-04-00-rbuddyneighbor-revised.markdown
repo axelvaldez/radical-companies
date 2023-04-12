@@ -43,19 +43,20 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Membership</h1>
  <ul>
-  <li>People must become members of <span class="_paradigm">rBuddyNeighbors</span> to participate./li>
+  <li>People must first become members of <span class="_paradigm">rBuddyNeighbors</span> to participate (<em>i.e.</em>, there could be a trial).</li>
   <li>People are our only customers.</li>
   <li>Members co-own everything about <span class="_paradigm">rBuddyNeighbors</span>.</li>
  </ul>
 
 <h1>Scenarios</h1>
- <p>The <span class="_paradigm">rBuddyNeighbors</span> platform helps put Neighbors physically in front of each other. This way they can bond by <em>doing something for each other</em>. A <span class="_paradigm"><span class="_paradigm">Neighbor</span></span> needs something, the <span class="_paradigm">Buddy</span> takes care of it, they get to know each other a little better, and they both get to feel good about themselves.</p>
+ <p>The <span class="_paradigm">rBuddyNeighbors</span> platform helps put <span class="_paradigm">Neighbor</span>s physically in front of each other. This way they can bond by <em>doing something for each other</em>. A <span class="_paradigm"><span class="_paradigm">Neighbor</span></span> needs something, the <span class="_paradigm">Buddy</span> takes care of it, they get to know each other a little better, and they both get to feel good about themselves.</p>
+ 
  <h2>Happy Path Example</h2>
   <ul>
    <li>The <span class="_paradigm">Buddy</span> goes to Safeway at 11 pm.</li>
    <li>A few minutes before, a <span class="_paradigm"><span class="_paradigm">Neighbor</span></span> put in a request for a, <span class="_quotespan">A gallon of 2% milk, Organic Valley preferred, by midnight. Otherwise, bring me a half gallon of whatever they have. If it&rsquo;s going to take you more than one hour, ignore this, please (I need to go to sleep—got early meetings tomorrow).</span></li>
    <li>When the <span class="_paradigm">Buddy</span> gets to Safeway, the system alerts her of this request. <span class="_quotespan">This will take you an extra five to ten minutes and approximate five blocks out of your route.</span></li>
-   <li>The <span class="_paradigm">Buddy</span>  reviews the request and gets to see the Neighbors&rsquo; <span class="_quotespan">vitals&rdquo; (<em>e.g.</em>, &ldquo;single male, currently alone, thinks stabbing dolls is LOL</span> or <span class="_quotespan">mom of three, the whole family is home with her</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>). This is a kind of creep factor that this <span class="_paradigm">Buddy</span> needs to know before she can safely accept a request.</li>
+   <li>The <span class="_paradigm">Buddy</span>  reviews the request and gets to see the <span class="_paradigm">Neighbor</span>s&rsquo; <span class="_quotespan">vitals&rdquo; (<em>e.g.</em>, &ldquo;single male, currently alone, thinks stabbing dolls is LOL</span> or <span class="_quotespan">mom of three, the whole family is home with her</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>). This is a kind of creep factor that this <span class="_paradigm">Buddy</span> needs to know before she can safely accept a request.</li>
    <li>The <span class="_paradigm">Buddy</span>  accepts the request.</li>
    <li>The system summarizes, <span class="_quotespan">You are promising to deliver one gallon of Organic Valley 2% milk to Jose at&hellip;</span></li>
    <li>So far, the <span class="_paradigm"><span class="_paradigm">Neighbor</span></span> doesn&rsquo;t know anything.</li>
@@ -122,11 +123,11 @@ image:    "icon-buddyneighbor.svg"
 <h1>Mom-and-Pops (1/26/2019)</h1>
  <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a <span class="_paradigm"><span class="_paradigm">Neighbor</span></span> or as a regular customer. Or the requestor lives within their back route and the local grocers can easily deliver it on the way home. This would fit within the model.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>The <span class="_paradigm">Neighbor</span>-owner cannot charge or add a surcharge for the delivery itself. Tips are not allowed, because it is not about making a living, it is about connecting and &rsquo;s simply being a <span class="_paradigm">Buddy</span> to a <span class="_paradigm">Neighbor</span>.</p>
- <p>This could be <span class="_quotespan">gamed&rdquo; if the <span class="_paradigm">Neighbor</span>-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A &ldquo;delivery</span> person would not make the kind of connection we are aiming for between Neighbors. This can easily be detected by the <span class="_paradigm">Neighbor</span> and reported to the platform. It would end up in a conversation, probably between the grocer anb the affected <span class="_paradigm">Neighbor</span>. Again, connection.</p>
+ <p>This could be <span class="_quotespan">gamed&rdquo; if the <span class="_paradigm">Neighbor</span>-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A &ldquo;delivery</span> person would not make the kind of connection we are aiming for between <span class="_paradigm">Neighbor</span>s. This can easily be detected by the <span class="_paradigm">Neighbor</span> and reported to the platform. It would end up in a conversation, probably between the grocer anb the affected <span class="_paradigm">Neighbor</span>. Again, connection.</p>
 
 <h1>Together IRL</h1>
  <p>The town of Kamikatsu, Japan, recycles 81% of its waste. You can read read more about it<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a>.</p>
- <p>The <em>collection center</em> mentioned in the articles is another place for Neighbors to have a positive meeting in real life. This is the kind of thing that a neighborhood can organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
+ <p>The <em>collection center</em> mentioned in the articles is another place for <span class="_paradigm">Neighbor</span>s to have a positive meeting in real life. This is the kind of thing that a neighborhood can organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
 
 <h1>Food</h1>
  <p>Some people love to cook. Others, like myself, just eat. I can appreciate when I like a dish, but that&rsquo;s it. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good;&rdquo; sometimes I&rsquo;ll even say, &ldquo;it&rsquo;s really good.</span></p>
@@ -189,7 +190,7 @@ image:    "icon-buddyneighbor.svg"
  <p>Scanning requests will not work after a short while, and people will go crypto on us (<em>e.g.</em>, <span class="_quotespan">Looking for a one-night-stand. I&rsquo;ll pay $300&rdquo; will become <span class="_quotespan">Looking for my friend, Mike. I want to return his $300.</span> Maybe we can spot patterns (<em>e.g.</em>, the same person always responds to the &ldquo;Mike</span> requests).</p>
  <p>When we detect any of this, we can kick out John and Mike (and return their membership fees). But would we also alert law enforcement? We would not have to because we are looking for and finding behavior that goes against the platform&rsquo;s terms of use. Whether that is also illegal or not, it is not necessarily for us to judge.</p>
  <p>What about the case where a kid gets illegal drugs this way and overdoses?</p>
- <p>Do we alert the nearby Neighbors for potential intervention?</p>
+ <p>Do we alert the nearby <span class="_paradigm">Neighbor</span>s for potential intervention?</p>
 
 <h1>Terminology</h1>
  <div class="_center">

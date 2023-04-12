@@ -40,13 +40,23 @@ image:    "icon-ptsd-and-trust.svg"
  <span style="float:right; "><a href="https://radicalcompanies.com/">    Next &gt;</a></span>
 </div>
 
-<!-- image -->
+<!-- proto-image -->
  <div class="_center">
   <img
    src="/assets/img/en-alignment.svg"
    width="70%"
    alt="">
  </div>
+
+
+<!-- proto-table -->
+ <div class="_center">
+  <table class="_foundation">
+   <tr>
+    <th></th>
+   </tr>
+  </table>
+ </div> 
 
 <!-- FOUNDATION  Table -->
  <div class="_center">
