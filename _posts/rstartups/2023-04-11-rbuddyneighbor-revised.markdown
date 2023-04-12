@@ -18,6 +18,7 @@ image:    "icon-buddyneighbor.svg"
  <div class="_center">
   <table style="width:90%; ">
    <tr style="font-color:#EEE; ">
+    <td></td>
     <th>Impact</th>
    </tr>
    <tr>
@@ -25,6 +26,7 @@ image:    "icon-buddyneighbor.svg"
     <td style="vertical-alig:top; ">Build community of neighbors.</td>
    </tr>
    <tr style="font-color:#EEE; ">
+    <td></td>
     <th>Purpose</th>
    </tr>
    <tr>
@@ -32,6 +34,7 @@ image:    "icon-buddyneighbor.svg"
     <td style="vertical-alig:top; ">Get neighbors to meet while doing favors for each other.</td>
    </tr>
    <tr style="font-color:#EEE; ">
+    <td></td>
     <th>Mission</th>
    </tr>
    <tr>
