@@ -505,9 +505,6 @@ div._next {
 table._ninety {
   width:90%;
 }
-table tr #_background, table td #_background {
-  background-color:#EEE;
-}
 ._coltitle {
   font-weight:bold;
   font-size:larger;
@@ -515,12 +512,15 @@ table tr #_background, table td #_background {
   column-span: all;
   background-color:#EEEEEE;
 }
-table._explicitalignment td {
+._coltitle {
+  font-size:larger;
   text-align:left;
   vertical-align:text-top;
 }
-table._explicitalignment th._coltitle {
-  font-size:larger;
+table tr #_background, table td #_background {
+  background-color:#EEE;
+}
+table._explicitalignment td {
   text-align:left;
   vertical-align:text-top;
 }
