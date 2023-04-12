@@ -14,61 +14,62 @@ image:    "icon-feudalism-is-back-square.svg"
  <p>Hintersoft helps its clients grow their product development teams, enhance their innovation, and end up with committed team. The company is co-owned and co-managed by the people who embody it and contribute to it.</p>
 
 <h1>Alignment</h1>
- <table class="_background">
-  <tr>
-   <th style="font-size:larger; ">Impact</th>
-  </tr>
-  <tr>
-   <th>What for?</th>
-   <td>
-    <ul>
-     <li>A world of decentralized ownership and collaborative management.</li>
-     <li>People co-own what they create and co-manage their work.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th style="font-size:larger; ">Purpose</th>
-  </tr>
-  <tr>
-   <th>Why?</th>
-   <td>
-    <ul>
-     <li>To help people learn how to <em>truly own</em> their work, their communities, and their world.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th style="font-size:larger; ">Mission</th>
-  </tr>
-  <tr>
-   <th>What?</th>
-   <td>
-    <ul>
-     <li>Generates a positive EBITDA.</li>
-     <li>Starts to get known as a <span style="font-size:smaller; ">RADICAL</span> company.</li>
-     <li>Hintersoftians attest to a <span style="font-size:smaller; ">RADICAL</span> life.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>When?</th>
-   <td>
-    <ul>
-     <li>Generate 35% EBITDA on their second year of operations.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>How?</th>
-   <td>
-    <ul>
-     <li>Its culture and ownership structure are rHintersoft's brand.</li>
-     <li>Attestation are via video and blog content.</li>
-    </ul>
-   </td>
-  </tr>
- </table>
+ <div class="_center">
+  <table class="_background">
+   <tr>
+    <th style="font-size:larger; ">Impact</th>
+   </tr>
+   <tr>
+    <th>What for?</th>
+    <td>
+     <ul>
+      <li>A world of decentralized ownership and collaborative management.</li>
+      <li>People co-own what they create and co-manage their work.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th style="font-size:larger; ">Purpose</th>
+   </tr>
+   <tr>
+    <th>Why?</th>
+    <td>
+     <ul>
+      <li>To help people learn how to <em>truly own</em> their work, their communities, and their world.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th style="font-size:larger; ">Mission</th>
+   </tr>
+   <tr>
+    <th>What?</th>
+    <td>
+     <ul>
+      <li>Generates a positive EBITDA.</li>
+      <li>Starts to get known as a <span style="font-size:smaller; ">RADICAL</span> company.</li>
+      <li>Hintersoftians attest to a <span style="font-size:smaller; ">RADICAL</span> life.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>When?</th>
+    <td>
+     <ul>
+      <li>Generate 35% EBITDA on their second year of operations.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>How?</th>
+    <td>
+     <ul>
+      <li>Its culture and ownership structure are rHintersoft's brand.</li>
+      <li>Attestation are via video and blog content.</li>
+     </ul>
+    </td>
+   </tr>
+  </table>
  <div class="_center">
   <img
    src="/assets/img/pic-feudalism-is-back-square.svg"
