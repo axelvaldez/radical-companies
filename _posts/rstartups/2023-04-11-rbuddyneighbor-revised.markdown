@@ -17,7 +17,7 @@ image:    "icon-buddyneighbor.svg"
 <h1>Explicit Alignment</h1>
  <div class="_center">
   <table>
-   <tr>
+   <tr id="_background">
     <td></td>
     <th>Impact</th>
    </tr>
@@ -25,7 +25,7 @@ image:    "icon-buddyneighbor.svg"
     <th>What for?</th>
     <td>Build community of neighbors.</td>
    </tr>
-   <tr style="background-color:#EEE; ">
+   <tr id="_background">
     <td></td>
     <th>Purpose</th>
    </tr>
@@ -33,7 +33,7 @@ image:    "icon-buddyneighbor.svg"
     <th>Why?</th>
     <td style="vertical-alig:top; ">Get neighbors to meet while doing favors for each other.</td>
    </tr>
-   <tr style="background-color:#EEE; ">
+   <tr id="_background">
     <td></td>
     <th>Mission</th>
    </tr>

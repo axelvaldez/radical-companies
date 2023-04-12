@@ -512,7 +512,7 @@ div._next {
 table._explicitalignment {
   width:90%;
 }
-table tr {
+table tr #_background {
   background-color:#EEE;
 }
 table._explicitalignment th {
