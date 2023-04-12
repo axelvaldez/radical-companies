@@ -520,6 +520,10 @@ table._explicitalignment th {
   vertical-align:text-top;
 }
 table._explicitalignment th {
+  font-size:larger;
   text-align:left;
   vertical-align:text-top;
+}
+table _background th {
+  font-size:larger;
 }
