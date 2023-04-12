@@ -14,7 +14,7 @@ image:    "icon-buddyneighbor.svg"
  <p>In 2018, my good friend Jose Contreras sent me a text out of the blue. This ended up as <em>rBuddyNeighbor</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Since then we have learned quite a bit and here I try to revise it a bit.</p>
 
-<h1>xExplicit Alignment</h1>
+<h1>Explicit Alignment</h1>
  <div class="_center">
   <table class="_explicitalignment">
    <tr id="_background">
