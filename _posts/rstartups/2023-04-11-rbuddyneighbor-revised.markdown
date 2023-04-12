@@ -31,7 +31,7 @@ image:    "icon-buddyneighbor.svg"
    </tr>
    <tr>
     <th>Why?</th>
-    <td>Get neighbors to meet while doing favors for each other.</td>
+    <td>Make it easy for neighbors to meet while doing favors for each other.</td>
    </tr>
    <tr id="_background">
     <td></td>
