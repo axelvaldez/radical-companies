@@ -121,7 +121,7 @@ image:    "icon-feudalism-is-back-square.svg"
      <th>Investments</th>
      <td>
       <ul>
-       <li>You can propose funding a new project simply by putting up a<span class='_paradigm'>BANNER</span>. (See <a href="#heading=h.y06dr3dikzaw">References</a>).</li>
+       <li>You can propose funding a new project simply by putting up a <span class='_paradigm'>BANNER</span>.</li>
       </ul>
      </td>
     </tr>
