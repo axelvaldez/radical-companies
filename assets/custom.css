@@ -521,10 +521,6 @@ table._explicitalignment th {
 }
 table._explicitalignment th {
   font-size:larger;
-  text-align:left;
-  vertical-align:text-top;
-}
-table _background th {
-  font-size:larger;
   text-align:right;
+  vertical-align:text-top;
 }
