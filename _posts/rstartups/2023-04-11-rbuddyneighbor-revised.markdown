@@ -88,9 +88,10 @@ image:    "icon-buddyneighbor.svg"
       <li>We&rsquo;ll ask the <span class="_paradigm">Buddy</span>, <span class="_quotespan">What happened, you broke your promise to Jose!</span></li>
       <li>Her response might be, <span class="_quotespan">I had to go straight home right away because my <span class="_paradigm">Neighbor</span> found my dog in her backyard. I was all flustered and forgot to let Jose know. Later, I was just embarrassed.</span> Or she could say, <span class="_quotespan">I realized halfway there that it was too risky to show up there, even with my boyfriend. He was more freaked out than I was.</span></li>
      </ul>
-    </tr>
-   </table>
-  </div>
+    </td>
+   </te>
+  </table>
+ </div>
  <p>Either way, the <span class="_paradigm">Buddy</span> and the <span class="_paradigm">Neighbor</span> get to note their level of satisfaction with <span class="_paradigm">rBuddyNeighbors</span>.com.</p>
 
 <h1>Payment</h1>
