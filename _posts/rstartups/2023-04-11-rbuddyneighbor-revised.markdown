@@ -70,7 +70,7 @@ image:    "icon-buddyneighbor.svg"
       <li>Nam reviews the request and gets to see Kim&rsquo;s <span class="_quotespan">vitals&rdquo; (<em>e.g.</em>, &ldquo;single male, currently alone, thinks stabbing dolls is LOL</span> or <span class="_quotespan">mom of three</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>). This is a kind information that this Nam needs to know before he can safely accept a request.</li>
       <li>Nam accepts the request.</li>
       <li>The system summarizes, and displayes something like, <span class="_quotespan">You are promising to deliver one gallon of Organic Valley 2% milk to Kim at&hellip;</span></li>
-     </ul
+     </ul>
      <p>So far, the <span class="_paradigm">Neighbor</span> doesn&rsquo;t know anything. Once she accepts the request, the system will let Kim know that, <span class="_quotespan">Your request for Organic Valley 2% milk has been accepted. We&rsquo;ll charge $2.70 to your account. Do you still want it?</span></p>
      <ul>
       <li>Kim still wants it!</li>
