@@ -17,13 +17,13 @@ image:    "icon-buddyneighbor.svg"
 <h1>Explicit Alignment</h1>
  <div class="_center">
   <table>
-   <tr style="background-color:#EEE; ">
+   <tr>
     <td></td>
     <th>Impact</th>
    </tr>
    <tr>
     <th>What for?</th>
-    <td style="vertical-alig:top; ">Build community of neighbors.</td>
+    <td>Build community of neighbors.</td>
    </tr>
    <tr style="background-color:#EEE; ">
     <td></td>
