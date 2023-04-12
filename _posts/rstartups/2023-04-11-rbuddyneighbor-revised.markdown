@@ -16,22 +16,22 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Explicit Alignment</h1>
  <div class="_center">
-  <table class="_background" style="width:90%; ">
-   <tr>
+  <table style="width:90%; ">
+   <tr style="font-color:#EEE; ">
     <th>Impact</th>
    </tr>
    <tr>
     <th>What for?</th>
     <td>Improve people&rsquo;s health.</td>
    </tr>
-   <tr>
-   <tr>
+   <tr style="font-color:#EEE; ">
     <th>Purpose</th>
    </tr>
+   <tr>
     <th>Why?</th>
     <td>Easy to get, healthy foods catered by neighbors.</td>
    </tr>
-   <tr>
+   <tr style="font-color:#EEE; ">
     <th>Mission</th>
    </tr>
    <tr>
