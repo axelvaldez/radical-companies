@@ -57,6 +57,7 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Scenarios</h1>
  <p>The <span class="_paradigm">rBuddyNeighbors</span> platform helps put <span class="_paradigm">Neighbor</span>s physically in front of each other. This way they can bond by <em>doing something for each other</em>. A <span class="_paradigm">Neighbor</span> needs something, the <span class="_paradigm">Buddy</span> takes care of it, they get to know each other a little better, and they both get to feel good about themselves.</p>
+
  <div class="_center">
   <table class="_h2table">
    <tr>
@@ -84,6 +85,11 @@ image:    "icon-buddyneighbor.svg"
      </ul>
     </td>
    </tr>
+  </table>
+ </div>
+
+ <div class="_center">
+  <table class="_h2table">
    <tr>
     <th>Not-so-Happy Example</th>
     <td>
@@ -97,6 +103,7 @@ image:    "icon-buddyneighbor.svg"
    </tr>
   </table>
  </div>
+
  <p>Either way, the <span class="_paradigm">Buddy</span> and the <span class="_paradigm">Neighbor</span> get to note their level of satisfaction; and given Transparency, the <span class="_paradigm">Buddy</span> and the <span class="_paradigm">Neighbor</span> get to see each other&rsquo;s response, and that is how they learn.</p>
 
 <h1>Payment</h1>
