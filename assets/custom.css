@@ -502,9 +502,6 @@ div._next {
   padding:0 10%;
   font-family: American Typewriter, serif;
 }
-table._ninety {
-  width:90%;
-}
 ._coltitle {
   font-weight:bold;
   font-size:larger;
@@ -516,6 +513,9 @@ table._explicitalignment tr#_background {
   background-color:#EEE;
   font-weight:bold;
   vertical-align:text-top;
+}
+table#_ninety {
+  width:90%;
 }
 table._h2table {
   width:90%;
