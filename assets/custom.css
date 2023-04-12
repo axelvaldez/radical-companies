@@ -515,10 +515,14 @@ table._ninety {
 ._coltitle {
   text-align:left;
 }
-table tr#_background {
+table._explicitalignment tr#_background {
   background-color:#EEE;
   font-weight:bold;
-  text-align:left;
+  vertical-align:text-top;
+}
+table._explicitalignment th {
+  text-align:right;
+  font-style:italic;
   vertical-align:text-top;
 }
 table._explicitalignment td {
