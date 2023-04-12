@@ -511,11 +511,10 @@ table._ninety {
   text-align:center;
   column-span: all;
   background-color:#EEEEEE;
+  vertical-align:text-top;
 }
 ._coltitle {
-  font-size:larger;
   text-align:left;
-  vertical-align:text-top;
 }
 table tr #_background, table td #_background {
   background-color:#EEE;
