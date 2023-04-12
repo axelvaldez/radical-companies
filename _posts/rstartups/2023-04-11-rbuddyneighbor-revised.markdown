@@ -194,7 +194,7 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Them Deviants</h1>
  <p>You just know that people will try to use this for prostitution, distribution of illegal drugs, and other less desirable activities.</p>
- <p>Regardless of everything else, this would go against our impact, our purpose, and corrupt our mission. So, we&rsquo;d probably have to do something about it, but &hellip; TBD.</p>
+ <p>Regardless of everything else, this would corrupt our platform. So, we&rsquo;d probably have to do something about it, but &hellip; TBD.</p>
  <p>Scanning requests will not work after a short while, and people will go crypto on us (<em>e.g.</em>, <span class="_quotespan">Looking for a one-night-stand. I&rsquo;ll pay $300&rdquo; will become <span class="_quotespan">Looking for my friend, Mike. I want to return his $300.</span> Maybe we can spot patterns (<em>e.g.</em>, the same person always responds to the &ldquo;Mike</span> requests).</p>
  <p>When we detect any of this, we can kick out John and Mike (and return their membership fees). But would we also alert law enforcement? We would not have to because we are looking for and finding behavior that goes against the platform&rsquo;s terms of use. Whether that is also illegal or not, it is not necessarily for us to judge.</p>
  <p>What about the case where a kid gets illegal drugs this way and overdoses?</p>
