@@ -70,7 +70,7 @@ image:    "icon-buddyneighbor.svg"
 <h2>Not-so-Happy Path Example</h2>
  <ul>
   <li>The buddy never shows up and Jose tells us that he is closing his request because, <span class="_quotespan">the buddy never got here.</span></li>
-  <li>Then we&rsquo;ll tell the Neighbor something like, <span class="_quotespan">Sorry. We won&rsquo;t be charging anything to your account. We are donating RADs to the banner to build a Neighborhood gym. In any case, if you&rsquo;d like, we can let you know what Margot has to say about breaking her promise. Please, let us know if you&rsquo;re interested.</span></li>
+  <li>Then we&rsquo;ll tell the Neighbor something like, <span class="_quotespan">Sorry. We won&rsquo;t be charging anything to your account. We are donating <span class='_paradigm'>RAD</span>s to the <span class='_paradigm'><span class='_paradigm'>BANNER</span></span> to build a Neighborhood gym. In any case, if you&rsquo;d like, we can let you know what Margot has to say about breaking her promise. Please, let us know if you&rsquo;re interested.</span></li>
   <li>We&rsquo;ll ask the buddy, <span class="_quotespan">What happened, you broke your promise to Jose!</span></li>
   <li>Her response might be, <span class="_quotespan">I had to go straight home right away because my Neighbor found my dog in her backyard. I was all flustered and forgot to let Jose know. Later, I was just embarrassed.&rdquo; Or she could say, &ldquo;I realized halfway there that it was too risky to show up there, even with my boyfriend. He was more freaked out than I was.</span></li>
  </ul>
@@ -148,7 +148,7 @@ image:    "icon-buddyneighbor.svg"
        <li>You don&rsquo;t have the recipe, but you can reach out to your aunt.</li>
        <li>You connect your aunt with the <span class="_paradigm">rBuddyNeighbors</span> cook on a video call.</li>
        <li>They figure out how to reproduce the dish. They may have to figure out alternative ingredients to use if your aunt&rsquo;s can&rsquo;t be found locally.</li>
-       <li><span class="_quotespan">There&rsquo;s a <span class="_paradigm">rBuddyNeighbors</span> at Trader Joe&rsquo;s who can get me the missing ingredients in a half hour. I can have it ready for you a half hour after she gets here.</span></li>
+       <li><span class="_quotespan">There&rsquo;s a <span class="_paradigm">rBuddyNeighbors</span> at <em>Trader Joe</em>&rsquo;s who can get me the missing ingredients in a half hour. I can have it ready for you a half hour after she gets here.</span></li>
       </ul>
      </td>
     </tr>
@@ -640,7 +640,7 @@ image:    "icon-buddyneighbor.svg"
   <li id="en01">
    <p class="_list-item">
     <div class="_p">
-     For example, this could be <span class="_quotespan">single male, currently alone, thinks stabbing dolls is LOLZ.</span> Or, <span class="_quotespan">mom of three, the whole family is home with her.</span>
+     For example, this could be <span class="_quotespan">single male, currently alone, thinks stabbing dolls is LOLZ.</span>
     </div>
     <div class="_p">
      This is kind of creep factor that a Buddie need to know before she can safely accept a request. We need to verify this info. Otherwise, we need to let the Buddy know that <span class="_quotespan">this is what the Neighbor claims</span> and let her decide.
