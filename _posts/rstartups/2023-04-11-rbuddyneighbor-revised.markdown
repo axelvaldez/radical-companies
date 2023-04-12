@@ -107,12 +107,10 @@ image:    "icon-buddyneighbor.svg"
  <p>They&rsquo;d be alerted when the system detects a pattern that fits their target.</p>
 
 <h1>Reuniting Friends and Family</h1>
- <p>&ldquo;Looking for John Martinez. Graduated in 1972 from Schurz HS in Chicago. Last time we were in touch he still lived in Chicago."</p>
- <p>Not clear how this kind of request can leverage the platform.</p>
+ <p>Like any social network, <span class="_paradigm">rBuddyNeighbor</span> could be used to find people you want to reconnect with. <span class="_quotespan">Looking for John M. Graduated in 1972 from Schurz HS in Chicago. Last time we were in touch he still lived in Chicago.</span></p>
 
 <h1>Baby Sitting, Elder Sitting</h1>
- <p>Seems obvious.</p>
- <p>BTW, what this brings up is the importance of reputation for members.</p>
+ <p>This brings up is the importance of reputation for members. A recommendation from a well know <span class="_paradigm">Neighbor</span> will count for a lot.</p>
 
 <h1>Fun <span class="_paradigm">Buddy</span></h1>
  <p>As Jose says,</p>
