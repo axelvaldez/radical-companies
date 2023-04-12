@@ -82,12 +82,12 @@ image:    "icon-buddyneighbor.svg"
    <tr>
     <th>Not-so-Happy Path Example</th>
     <td>
-     <!--
+    <!--
      <ul>
       <li>The <span class="_paradigm">Buddy</span> never shows up and Jose tells us that he is closing his request because, <span class="_quotespan">the <span class="_paradigm">Buddy</span> never got here.</span></li>
       <li>Then we&rsquo;ll tell the <span class="_paradigm">Neighbor</span> something like, <span class="_quotespan">Sorry. We won&rsquo;t be charging anything to your account. We are donating <span class='_paradigm'>RAD</span>s to the <span class='_paradigm'><span class='_paradigm'>BANNER</span> to build a Neighborhood gym. In any case, if you&rsquo;d like, we can let you know what Margot has to say about breaking her promise. Please, let us know if you&rsquo;re interested.</span></li>
       <li>We&rsquo;ll ask the <span class="_paradigm">Buddy</span>, <span class="_quotespan">What happened, you broke your promise to Jose!</span></li>
-      <li>Her response might be, <span class="_quotespan">I had to go straight home right away because my <span class="_paradigm">Neighbor</span> found my dog in her backyard. I was all flustered and forgot to let Jose know. Later, I was just embarrassed.</span> Or she could say, <span class="_quotespan">I realized halfway there that it was too risky to show up there, even with my boyfriend. He was more freaked out than I was.</span></li>
+      <li>Her response might be, <span class="_quotespan">I had to go straight home right away because my <span class="_paradigm">Neighbor</span> found my dog in her backyard. I was all flustered and forgot to let Jose know. Later, I was just embarrassed.</span> Or she could say, <span class="_quotespan">I realized halfway there that it was too risky to show up there, even with my boyfriend. He was more freaked out than I was.</span></li>   
      </ul>
     -->
     </td>
