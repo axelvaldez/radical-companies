@@ -70,6 +70,7 @@ image:    "icon-feudalism-is-back-square.svg"
     </td>
    </tr>
   </table>
+ </div>
  <div class="_center">
   <img
    src="/assets/img/pic-feudalism-is-back-square.svg"
