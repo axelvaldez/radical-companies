@@ -73,16 +73,25 @@ image:    "icon-ptsd-and-trust.svg"
  <div class="_center">
   <table class="_background">
    <tr>
-    <th>Impact<br><span class="_alignquestions">what for?</span></th>
-    <td>What impact they want to make (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
+    <th>Impact</th>
    </tr>
    <tr>
-    <th>Purpose<br><span class="_alignquestions">why?</span></th>
-    <td>Why are we doing this for? For example, <span class="_quotespan">Easy to get, healthy foods.</span></td>
+    <th>What for?</th>
+    <td>Improve people&rsquo;s health.</td>
    </tr>
    <tr>
-    <th>Mission<br><span class="_alignquestions">what?<br>when?<br>how?</span></th>
-    <td>What are doing, when, and How? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We mean to sign up the first 100 customers by the end of March.</span></td>
+   <tr>
+    <th>Purpose</th>
+   </tr>
+    <th>Why?</th>
+    <td>Easy to get, healthy foods catered by neighbors.</td>
+   </tr>
+   <tr>
+    <th>Mission</th>
+   </tr>
+   <tr>
+    <th>What? When? How?</th>
+    <td></td>
    </tr>
   </table>
  </div>
