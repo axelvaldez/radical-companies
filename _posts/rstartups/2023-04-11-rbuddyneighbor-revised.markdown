@@ -19,7 +19,7 @@ image:    "icon-buddyneighbor.svg"
   <table>
    <tr id="_background">
     <td></td>
-    <th>xImpact</th>
+    <th>Impact</th>
    </tr>
    <tr>
     <th>What for?</th>
