@@ -520,7 +520,7 @@ table#_ninety {
 table._h2table {
   width:90%;
 }
-table._explicitalignment th#_background {
+table._explicitalignment tr#_background th {
   text-align:left;
   vertical-align:text-top;
 }
