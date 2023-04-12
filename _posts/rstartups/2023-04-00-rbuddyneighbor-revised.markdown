@@ -50,7 +50,15 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Scenarios</h1>
  <p>The <span class="_paradigm">rBuddyNeighbors</span> platform helps put <span class="_paradigm">Neighbor</span>s physically in front of each other. This way they can bond by <em>doing something for each other</em>. A <span class="_paradigm"><span class="_paradigm">Neighbor</span></span> needs something, the <span class="_paradigm">Buddy</span> takes care of it, they get to know each other a little better, and they both get to feel good about themselves.</p>
- 
+ <div class="_center">
+  <table class="_foundation">
+   <tr>
+    <th></th>
+    <td></td>
+   </tr>
+  </table>
+ </div> 
+
  <h2>Happy Path Example</h2>
   <ul>
    <li>The <span class="_paradigm">Buddy</span> goes to Safeway at 11 pm.</li>

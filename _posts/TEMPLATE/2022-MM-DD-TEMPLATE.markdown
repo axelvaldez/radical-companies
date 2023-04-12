@@ -54,6 +54,7 @@ image:    "icon-ptsd-and-trust.svg"
   <table class="_foundation">
    <tr>
     <th></th>
+    <td></td>
    </tr>
   </table>
  </div> 
