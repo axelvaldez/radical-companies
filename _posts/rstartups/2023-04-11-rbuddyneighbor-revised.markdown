@@ -91,7 +91,7 @@ image:    "icon-buddyneighbor.svg"
       <li>Name, the <span class="_paradigm">Buddy</span>, never shows up and Kim tells us that she is closing his request because, <span class="_quotespan">the <span class="_paradigm">Buddy</span> never got here.</span></li>
       <li>Then we&rsquo;ll tell the <span class="_paradigm">Neighbor</span> something like, <span class="_quotespan">Sorry about what happened. Obviously, we won&rsquo;t be charging anything to your account. We are donating the yield of <span class='_paradigm'>RAD</span>s to the <span class='_paradigm'>BANNER</span> to build a Neighborhood gym. In any case, if you&rsquo;d like, we can let you know what Nam has to say about breaking his promise. Please, let us know if you&rsquo;re interested.</span></li>
       <li>We&rsquo;ll ask Nam, <span class="_quotespan">What happened, you broke your promise to Kim!</span></li>
-      <li>His response might be, <span class="_quotespan">I had to go straight home right away because my neighbor found my dog in her backyard. I was all flustered and forgot to let Kim know. Later, I was just embarrassed.</span> Or he could say, <span class="_quotespan">I realized halfway there that it was too risky to show up there. My girldfriend was more freaked out than I was. I should have said something.</span></li>
+      <li>His response might be, <span class="_quotespan">I had to go straight home right away because my neighbor found my dog in her backyard. I was all flustered and forgot to let Kim know. Later, I was just embarrassed.</span> Or he could say, <span class="_quotespan">Halfway there that my girldfriend was pretty freaked out, so I didn&rsquo;t show up. I should have said something.</span></li>
      </ul>
     </td>
    </tr>
