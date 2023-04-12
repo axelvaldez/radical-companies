@@ -82,8 +82,9 @@ image:    "icon-ptsd-and-trust.svg"
 
 <!-- EXPLICIT ALIGNMENT Table -->
  <div class="_center">
-  <table class="_background">
+  <table class="_explicitalignment">
    <tr>
+    <td></td>
     <th>Impact</th>
    </tr>
    <tr>

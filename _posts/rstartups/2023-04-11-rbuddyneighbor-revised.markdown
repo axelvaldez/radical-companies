@@ -16,7 +16,7 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Explicit Alignment</h1>
  <div class="_center">
-  <table style="width:90%; ">
+  <table>
    <tr style="background-color:#EEE; ">
     <td></td>
     <th>Impact</th>

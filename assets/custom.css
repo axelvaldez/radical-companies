@@ -509,3 +509,16 @@ div._next {
   column-span: all;
   background-color:#EEEEEE;
 }
+table._explicitalignment {
+  width:90%;
+}
+table tr {
+  background-color:#EEE;
+}
+table._explicitalignment th {
+  text-align:right;
+}
+table._explicitalignment td {
+  text-align:left;
+  vertical-align:text-top;
+}
