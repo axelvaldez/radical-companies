@@ -55,7 +55,7 @@ image:    "icon-buddyneighbor.svg"
   <li>Members co-own everything about <span class="_paradigm">rBuddyNeighbors</span>.</li>
  </ul>
 
-<h1>Scenarios</h1>
+<h1>Two Scenarios</h1>
  <p>The <span class="_paradigm">rBuddyNeighbors</span> platform helps put <span class="_paradigm">Neighbor</span>s physically in front of each other. This way they can bond by <em>doing something for each other</em>. A <span class="_paradigm">Neighbor</span> needs something, the <span class="_paradigm">Buddy</span> takes care of it, they get to know each other a little better, and they both get to feel good about themselves.</p>
 
  <div class="_center">
