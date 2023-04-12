@@ -204,7 +204,7 @@ image:    "icon-buddyneighbor.svg"
  <p>What about the case where a kid gets illegal drugs this way and overdoses?</p>
  <p>Do we alert the nearby <span class="_paradigm">Neighbor</span>s for potential intervention?</p>
 
-<h1>zTerminology</h1>
+<h1>Terminology</h1>
  <div class="_center">
   <table class="_background" style="width:90%; ">
    <tr>
