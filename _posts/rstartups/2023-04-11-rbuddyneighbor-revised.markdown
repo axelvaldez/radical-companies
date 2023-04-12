@@ -63,23 +63,24 @@ image:    "icon-buddyneighbor.svg"
     <th>Happy Example</th>
     <td>
      <ul>
-      <li>The <span class="_paradigm">Buddy</span> goes to Safeway at 11 pm.</li>
-      <li>A few minutes before, a <span class="_paradigm">Neighbor</span> put in a request for a, <span class="_quotespan">A gallon of 2% milk, Organic Valley preferred, by midnight. Otherwise, bring me a half gallon of whatever they have. If it&rsquo;s going to take you more than one hour, ignore this, please (I need to go to sleep—got early meetings tomorrow).</span></li>
-      <li>When the <span class="_paradigm">Buddy</span> gets to Safeway, the system alerts her of this request. <span class="_quotespan">This will take you an extra five to ten minutes and approximate five blocks out of your route.</span></li>
-      <li>The <span class="_paradigm">Buddy</span>  reviews the request and gets to see the <span class="_paradigm">Neighbor</span>s&rsquo; <span class="_quotespan">vitals&rdquo; (<em>e.g.</em>, &ldquo;single male, currently alone, thinks stabbing dolls is LOL</span> or <span class="_quotespan">mom of three, the whole family is home with her</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>). This is a kind of creep factor that this <span class="_paradigm">Buddy</span> needs to know before she can safely accept a request.</li>
-      <li>The <span class="_paradigm">Buddy</span>  accepts the request.</li>
-      <li>The system summarizes, <span class="_quotespan">You are promising to deliver one gallon of Organic Valley 2% milk to Jose at&hellip;</span></li>
-      <li>So far, the <span class="_paradigm">Neighbor</span> doesn&rsquo;t know anything.</li>
-      <li>Once she accepts the request, the system will let the <span class="_paradigm">Neighbor</span> know that, <span class="_quotespan">Your request for Organic Valley 2% milk has been accepted. We&rsquo;ll charge $2.70 to your account. Do you still want it?</span></li>
-      <li>Jose, the <span class="_paradigm">Neighbor</span>, accepts.</li>
-      <li>The <span class="_paradigm">Buddy</span> gets her stuff, including Jose&rsquo;s milk, stands in line, and pays for the goods.</li>
-      <li>As the <span class="_paradigm">Buddy</span> leaves Safeway,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> the system alerts the <span class="_paradigm">Neighbor</span> that, <span class="_quotespan">Your 2% Organic Valley milk is on its way and will get to you in about 10 minutes.</span></li>
-      <li>As the <span class="_paradigm">Buddy</span> gets close to the <span class="_paradigm">Neighbor</span>&rsquo;s home, <span class="_paradigm">rBuddyNeighbors</span> alerts the <span class="_paradigm">Neighbor</span> that, <span class="_quotespan">Your <span class="_paradigm">Buddy</span>, her name and avatar, is about to get to your home with your Organic Valley 2% milk.</span></li>
-      <li>The <span class="_paradigm">Buddy</span> parks, but her boyfriend walks to Jose&rsquo;s front door.</li>
-      <li>The <span class="_paradigm">Neighbor</span> communicates with Margot through the app, <span class="_quotespan">Hey, there&rsquo;s a guy at my door, is he with you?</span></li>
-      <li>Margot realizes his concern and says, <span class="_quotespan">Oh, yes, I&rsquo;ll come up, too. Sorry about that.</span></li>
-      <li>She comes up and Jose opens the door and they talk. Margot points to their place down the street, Jose tells them about getting the kids fed in the morning, Margot tells him about a Neighborhood event scheduled for the weekend, they talk about the Farmer Markets in the area, &hellip;</li>
-      <li>Jose lets us know accepts the delivery and maybe adds a note to it, <span class="_quotespan">Got the milk and got to meet a very nice <span class="_paradigm">Buddy</span> named Margot. I got to meet her boyfriend, too. They make a nice couple.</span></li>
+      <li>The <span class="_paradigm">Buddy</span>, Nam, goes to Safeway at around 11 pm.</li>
+      <li>A few minutes before, a <span class="_paradigm">Neighbor</span>, Kim, put in a request for a, <span class="_quotespan">A gallon of 2% milk, Organic Valley preferred, by midnight. Otherwise, bring me a half gallon of whatever they have. If it&rsquo;s going to take you more than one hour, ignore this, please (I need to go to sleep—got early meetings tomorrow).</span></li>
+      <li>When Name gets to Safeway, the system alerts him of this request and adds, <span class="_quotespan">This will take you an extra five to ten minutes and approximate three blocks out of your route.</span></li>
+      <li>Nam reviews the request and gets to see Kim&rsquo;s <span class="_quotespan">vitals&rdquo; (<em>e.g.</em>, &ldquo;single male, currently alone, thinks stabbing dolls is LOL</span> or <span class="_quotespan">mom of three</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>). This is a kind information that this Nam needs to know before he can safely accept a request.</li>
+      <li>Nam accepts the request.</li>
+      <li>The system summarizes, and displayes something like, <span class="_quotespan">You are promising to deliver one gallon of Organic Valley 2% milk to Kim at&hellip;</span></li>
+     </ul
+     <p>So far, the <span class="_paradigm">Neighbor</span> doesn&rsquo;t know anything. Once she accepts the request, the system will let Kim know that, <span class="_quotespan">Your request for Organic Valley 2% milk has been accepted. We&rsquo;ll charge $2.70 to your account. Do you still want it?</span></p>
+     <ul>
+      <li>Kim still wants it!</li>
+      <li>Nam gets his stuff, including Kim&rsquo;s milk, stands in line, and pays for the goods.</li>
+      <li>As Nam leaves Safeway,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> the system alerts Kim, <span class="_quotespan">Your 2% Organic Valley milk is on its way and will get to you in about 10 minutes.</span></li>
+      <li>As Nam gets close to Kim&rsquo;s home, <span class="_paradigm">rBuddyNeighbors</span> alerts her again, <span class="_quotespan">Your <span class="_paradigm">Buddy</span>, Nam (and avatar) is about to get to your home with your Organic Valley 2% milk.</span></li>
+      <li>Nam parks, but his girlfriend walks to Kim&rsquo;s front door.</li>
+      <li>The <span class="_paradigm">Neighbor</span> communicates with Nam through the app, <span class="_quotespan">Hey, there&rsquo;s a young woman at my door, is she with you?</span></li>
+      <li>Nam realizes her concern and says, <span class="_quotespan">Oh, yes, she is my girlfiend. I&rsquo;ll come up, too. Sorry about that.</span></li>
+      <li>She comes up, Kim opens the door, and they talk. Name points to their place down the street, Kim tells them about getting the kids fed in the morning, Nam tells her about a Neighborhood event scheduled for the weekend, they talk about the Farmer Markets in the area, &hellip;</li>
+      <li>Kim accepts the delivery and adds a note to it, <span class="_quotespan">Got the milk and got to meet a very nice couple, Nam and her girlfriend.</span></li>
      </ul>
     </td>
    </tr>
@@ -87,22 +88,22 @@ image:    "icon-buddyneighbor.svg"
     <th>Not-so-Happy Example</th>
     <td>
      <ul>
-      <li>The <span class="_paradigm">Buddy</span> never shows up and Jose tells us that he is closing his request because, <span class="_quotespan">the <span class="_paradigm">Buddy</span> never got here.</span></li>
-      <li>Then we&rsquo;ll tell the <span class="_paradigm">Neighbor</span> something like, <span class="_quotespan">Sorry about what happened. We won&rsquo;t be charging anything to your account. We are donating the yield of <span class='_paradigm'>RAD</span>s to the <span class='_paradigm'>BANNER</span> to build a Neighborhood gym. In any case, if you&rsquo;d like, we can let you know what Margot has to say about breaking her promise. Please, let us know if you&rsquo;re interested.</span></li>
-      <li>We&rsquo;ll ask the <span class="_paradigm">Buddy</span>, <span class="_quotespan">What happened, you broke your promise to Jose!</span></li>
-      <li>Her response might be, <span class="_quotespan">I had to go straight home right away because my <span class="_paradigm">Neighbor</span> found my dog in her backyard. I was all flustered and forgot to let Jose know. Later, I was just embarrassed.</span> Or she could say, <span class="_quotespan">I realized halfway there that it was too risky to show up there, even with my boyfriend. He was more freaked out than I was.</span></li>
+      <li>Name, the <span class="_paradigm">Buddy</span>, never shows up and Kim tells us that she is closing his request because, <span class="_quotespan">the <span class="_paradigm">Buddy</span> never got here.</span></li>
+      <li>Then we&rsquo;ll tell the <span class="_paradigm">Neighbor</span> something like, <span class="_quotespan">Sorry about what happened. Obviously, we won&rsquo;t be charging anything to your account. We are donating the yield of <span class='_paradigm'>RAD</span>s to the <span class='_paradigm'>BANNER</span> to build a Neighborhood gym. In any case, if you&rsquo;d like, we can let you know what Nam has to say about breaking his promise. Please, let us know if you&rsquo;re interested.</span></li>
+      <li>We&rsquo;ll ask Nam, <span class="_quotespan">What happened, you broke your promise to Kim!</span></li>
+      <li>His response might be, <span class="_quotespan">I had to go straight home right away because my neighbor found my dog in her backyard. I was all flustered and forgot to let Kim know. Later, I was just embarrassed.</span> Or she could say, <span class="_quotespan">I realized halfway there that it was too risky to show up there. My girldfriend was more freaked out than I was. I should have said something.</span></li>
      </ul>
     </td>
    </tr>
   </table>
  </div>
- <p>Either way, the <span class="_paradigm">Buddy</span> and the <span class="_paradigm">Neighbor</span> get to note their level of satisfaction with <span class="_paradigm">rBuddyNeighbors</span>.com. And, given Transparency, the <span class="_paradigm">Buddy</span> and the <span class="_paradigm">Neighbor</span> get to see each other&rsquo;s response, and that is how they learn.</p>
+ <p>Either way, the <span class="_paradigm">Buddy</span> and the <span class="_paradigm">Neighbor</span> get to note their level of satisfaction; and given Transparency, the <span class="_paradigm">Buddy</span> and the <span class="_paradigm">Neighbor</span> get to see each other&rsquo;s response, and that is how they learn.</p>
 
 <h1>Payment</h1>
  <ul>
   <li>All <span class="_paradigm">rBuddyNeighbors</span> are subscribers and when members sign up, they include the details of how to pay and get paid.</li>
   <li>The <span class="_paradigm">Neighbor</span> transfer method is debited to pay for the milk.</li>
-  <li>If the <span class="_paradigm">Buddy</span> had to pay, say, in cash for the milk, then that amount will be credited to her transfer account.</li>
+  <li>If the <span class="_paradigm">Buddy</span> had to pay, say, in cash for the milk, then that amount will be credited to her transfer account.<a href="#en10"><sup id="bm10">&hairsp;&nabla;&hairsp;</sup></a></li>
  </ul>
 
 <h1>Interventions</h1>
@@ -117,7 +118,7 @@ image:    "icon-buddyneighbor.svg"
  <p>This brings up is the importance of reputation for members. A recommendation from a well know <span class="_paradigm">Neighbor</span> will count for a lot.</p>
 
 <h1>Fun Activities</h1>
- <p>As Jose says,</p>
+ <p>As Nam says,</p>
   <ul>
    <li>Pub crawls</li>
    <li>Movie Nights</li>
@@ -392,7 +393,7 @@ image:    "icon-buddyneighbor.svg"
    </tr>
    <tr>
     <th></th>
-    <td>Did Jose accept the goods?</td>
+    <td>Did Nam accept the goods?</td>
     <td>
      <ul>
       <li>Yes</li>
@@ -550,7 +551,7 @@ image:    "icon-buddyneighbor.svg"
     </tr>
     <tr>
      <th></th>
-      <td>Did Jose accept the goods?</td>
+      <td>Did Nam accept the goods?</td>
       <td>
        <ul>
         <li>Yes</li>
@@ -746,7 +747,7 @@ image:    "icon-buddyneighbor.svg"
       In the example below, we'd load up Margot's card with $2 which is the approximate price of an Organic Valley 2% Milk gallon.
     </div>
     <div class="_p">
-     We take the risk that or Margot may not deliver or Jose may not accept it.
+     We take the risk that or Margot may not deliver or Nam may not accept it.
      <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
    </p>
@@ -780,6 +781,12 @@ image:    "icon-buddyneighbor.svg"
      Or … all of the above?
      <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
+   </p>
+  </li>
+  <li id="en10">
+   <p class="_list-item">
+    &lt;<a href="xxx" target="_blank">xxx</a>&gt
+    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
