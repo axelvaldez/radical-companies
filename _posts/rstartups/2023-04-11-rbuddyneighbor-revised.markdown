@@ -17,25 +17,25 @@ image:    "icon-buddyneighbor.svg"
 <h1>Explicit Alignment</h1>
  <div class="_center">
   <table class="_explicitalignment">
-   <tr id="_background">
+   <tr id="_coltitle">
     <td></td>
-    <th class="_coltitle">Impact</th>
+    <th>Impact</th>
    </tr>
    <tr>
     <th>What for?</th>
     <td>Build community of neighbors.</td>
    </tr>
-   <tr id="_background">
-    <th class="_coltitle">Purpose</th>
+   <tr id="_coltitle">
     <td></td>
+    <th>Purpose</th>
    </tr>
    <tr>
     <th>Why?</th>
     <td>Make it easy for neighbors to meet while doing favors for each other.</td>
    </tr>
-   <tr id="_background">
+   <tr id="_coltitle">
     <td></td>
-    <th class="_coltitle">Mission</th>
+    <th>Mission</th>
    </tr>
    <tr>
     <th>
