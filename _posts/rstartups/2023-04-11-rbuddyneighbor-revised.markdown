@@ -48,9 +48,9 @@ image:    "icon-buddyneighbor.svg"
   </table>
  </div>
 
-<h1>Membership</h1>
+<h1>Members Are the Only Customer</h1>
  <ul>
-  <li>People must first become members of <span class="_paradigm">rBuddyNeighbors</span> to participate (<em>i.e.</em>, there could be a trial).</li>
+  <li>People must first become members of <span class="_paradigm">rBuddyNeighbors</span> to participate (<em>i.e.</em>, of course, there could be trials).</li>
   <li>People are our only customers.</li>
   <li>Members co-own everything about <span class="_paradigm">rBuddyNeighbors</span>.</li>
  </ul>
@@ -58,7 +58,7 @@ image:    "icon-buddyneighbor.svg"
 <h1>Scenarios</h1>
  <p>The <span class="_paradigm">rBuddyNeighbors</span> platform helps put <span class="_paradigm">Neighbor</span>s physically in front of each other. This way they can bond by <em>doing something for each other</em>. A <span class="_paradigm">Neighbor</span> needs something, the <span class="_paradigm">Buddy</span> takes care of it, they get to know each other a little better, and they both get to feel good about themselves.</p>
  <div class="_center">
-  <table>
+  <table class="_h2table">
    <tr>
     <th>Happy Example</th>
     <td>
@@ -206,7 +206,7 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Terminology</h1>
  <div class="_center">
-  <table class="_background" style="width:90%; ">
+  <table class="_h2table, _background" style="width:90%; ">
    <tr>
     <th><span class="_paradigm">Buddy</span></th>
     <td>Members who accept a goods request and commit to deliver it. A <span class="_paradigm">Buddy</span> is also a <span class="_paradigm">Neighbor</span>.</td>
@@ -243,7 +243,7 @@ image:    "icon-buddyneighbor.svg"
 <h1>Interaction Interface</h1>
  <h2><span class="_paradigm">Buddy</span> Brings It</h2>
   <div class="_center">
-   <table class="_background" style="width:90%; ">
+  <table class="_h2table, _background">
     <tr>
      <th>Sign Up</th>
      <td>Bring back goods for a <span class="_paradigm">Neighbor</span> on your way back from an outlet? (<a href="#en23"><sup id="bm23">&hairsp;?&hairsp;</sup></a>)</td>

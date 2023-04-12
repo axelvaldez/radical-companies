@@ -512,19 +512,21 @@ table._ninety {
   background-color:#EEEEEE;
   vertical-align:text-top;
 }
-._coltitle {
-  text-align:left;
-}
 table._explicitalignment tr#_background {
   background-color:#EEE;
   font-weight:bold;
   vertical-align:text-top;
 }
+table._h2table {
+  width:90%;
+}
+table._h2table th,
 table._explicitalignment th {
   text-align:right;
   font-style:italic;
   vertical-align:text-top;
 }
+table._h2table td,
 table._explicitalignment td {
   text-align:left;
   vertical-align:text-top;
