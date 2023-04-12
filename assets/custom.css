@@ -519,7 +519,7 @@ table._explicitalignment td {
   text-align:left;
   vertical-align:text-top;
 }
-table._explicitalignment th#_coltitle {
+table._explicitalignment th._coltitle {
   font-size:larger;
   text-align:right;
   vertical-align:text-top;

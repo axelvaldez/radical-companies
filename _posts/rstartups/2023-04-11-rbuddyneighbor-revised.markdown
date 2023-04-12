@@ -19,15 +19,15 @@ image:    "icon-buddyneighbor.svg"
   <table class="_explicitalignment">
    <tr id="_background">
     <td></td>
-    <th id="#_coltitle">Impact</th>
+    <th class="_coltitle"Impact</th>
    </tr>
    <tr>
     <th>What for?</th>
     <td>Build community of neighbors.</td>
    </tr>
    <tr id="_background">
+    <th class="_coltitle"Purpose</th>
     <td></td>
-    <th id="#_coltitle">Purpose</th>
    </tr>
    <tr>
     <th>Why?</th>
@@ -35,7 +35,7 @@ image:    "icon-buddyneighbor.svg"
    </tr>
    <tr id="_background">
     <td></td>
-    <th id="#_coltitle">Mission</th>
+    <th class="_coltitle">Mission</th>
    </tr>
    <tr>
     <th>
