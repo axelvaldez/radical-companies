@@ -17,7 +17,7 @@ image:    "icon-buddyneighbor.svg"
 <h1>xExplicit Alignment</h1>
  <div class="_center">
   <table class="_explicitalignment">
-   <tr id="_coltitle">
+   <tr id="_coltitle, _background">
     <td></td>
     <th>Impact</th>
    </tr>
