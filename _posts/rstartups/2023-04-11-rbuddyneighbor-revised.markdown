@@ -60,7 +60,7 @@ image:    "icon-buddyneighbor.svg"
  <div class="_center">
   <table>
    <tr>
-    <th>Happy Path Example</th>
+    <th>Happy Example</th>
     <td>
      <ul>
       <li>The <span class="_paradigm">Buddy</span> goes to Safeway at 11 pm.</li>
@@ -84,7 +84,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <th>Not-so-Happy Path Example</th>
+    <th>Not-so-Happy Example</th>
     <td>
      <ul>
       <li>The <span class="_paradigm">Buddy</span> never shows up and Jose tells us that he is closing his request because, <span class="_quotespan">the <span class="_paradigm">Buddy</span> never got here.</span></li>
