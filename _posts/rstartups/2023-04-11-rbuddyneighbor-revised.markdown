@@ -137,7 +137,7 @@ image:    "icon-buddyneighbor.svg"
  <p>The town of Kamikatsu, Japan, recycles 81% of its waste. You can read read more about it<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a>. The neighbors do the recycling.</p>
  <p>The <em>collection center</em> mentioned in the articles is another place for <span class="_paradigm">Neighbor</span>s to have a positive meeting in real life. This is the kind of thing that a neighborhood can organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
 
-<h1>Food</h1>
+<h1>Cooking for Others</h1>
  <p>Some people love to cook. Others, like myself, can appreciate a good dish, but that&rsquo;s it: I just eat. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good;&rdquo;, though sometimes I&rsquo;ll even say, &ldquo;it&rsquo;s really good.&rdquo;</p>
  <p>Even the people who like to cook, sometimes feel like not cooking. It&rsquo;s like harking for a special dish, but you don&rsquo;t want to make it or don&rsquo;t know how cook it.</p>
  <p>So, here&rsquo;s other potential <span class="_paradigm">rBuddyNeighbors</span> scenarios,</p>
@@ -178,7 +178,7 @@ image:    "icon-buddyneighbor.svg"
  <p>The emphasis is in the cooking; the delivery is handled by the fact that the cooking is done nearby, in the <span class="_paradigm">rBuddyNeighbors</span> sense.</p>
 
 <h1>Commuting</h1>
- <p>This can also apply to commuting, either as a one time thing, or on a regular basis. <span class="_quotespan">I need to get to San Carlos tomorrow by 10 am.</span> Or, <span class="_quotespan">I work in Mountain View, looking for a <span class="_paradigm">rBuddyNeighbor</span> to commute with.</span> The response from the system could be three potential <span class="_paradigm">rBuddyNeighbor</span>s, or other commuters that are open to another rider.</p>
+ <p>This can also work for commuting, either as a one time thing, or on a regular basis. <span class="_quotespan">I need to get to San Carlos tomorrow by 10 am.</span> Or, <span class="_quotespan">I work in Mountain View, looking for a <span class="_paradigm">rBuddyNeighbor</span> to commute with.</span> The response from the system could be three potential <span class="_paradigm">rBuddyNeighbor</span>s, or other commuters that are open to another rider.</p>
  <p>It would be commuting with people who live nearby. People that you may even know. People you can have a lasting relationship with.</p>
 
 <h1>International</h1>
