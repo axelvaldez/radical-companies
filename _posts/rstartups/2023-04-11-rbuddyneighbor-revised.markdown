@@ -112,7 +112,7 @@ image:    "icon-buddyneighbor.svg"
 <h1>Baby Sitting, Elder Sitting</h1>
  <p>This brings up is the importance of reputation for members. A recommendation from a well know <span class="_paradigm">Neighbor</span> will count for a lot.</p>
 
-<h1>Fun <span class="_paradigm">Buddy</span></h1>
+<h1>Fun Activities</h1>
  <p>As Jose says,</p>
   <ul>
    <li>Pub crawls</li>
@@ -128,21 +128,21 @@ image:    "icon-buddyneighbor.svg"
    <li>Comments related to them (good/bad)</li>
   </ul>
 
-<h1>Mom-and-Pops (1/26/2019)</h1>
+<h1>Mom-and-Pops</h1>
  <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a <span class="_paradigm">Neighbor</span> or as a regular customer. Or the requestor lives within their back route and the local grocers can easily deliver it on the way home. This would fit within the model.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
- <p>The <span class="_paradigm">Neighbor</span>-owner cannot charge or add a surcharge for the delivery itself. Tips are not allowed, because it is not about making a living, it is about connecting and &rsquo;s simply being a <span class="_paradigm">Buddy</span> to a <span class="_paradigm">Neighbor</span>.</p>
- <p>This could be <span class="_quotespan">gamed&rdquo; if the <span class="_paradigm">Neighbor</span>-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A &ldquo;delivery</span> person would not make the kind of connection we are aiming for between <span class="_paradigm">Neighbor</span>s. This can easily be detected by the <span class="_paradigm">Neighbor</span> and reported to the platform. It would end up in a conversation, probably between the grocer anb the affected <span class="_paradigm">Neighbor</span>. Again, connection.</p>
+ <p>The <span class="_paradigm">Neighbor</span>-owner cannot charge or add a surcharge for the delivery itself. Tips are not allowed, because it is not about making a living, it is about connecting and simply being a <span class="_paradigm">Buddy</span> to a <span class="_paradigm">Neighbor</span>.</p>
+ <p>This could be <span class="_quotespan">gamed</span> if the <span class="_paradigm">Neighbor</span>-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A <span class="_paradigm">delivery</span> person would not make the kind of connection we are aiming for between <span class="_paradigm">Neighbor</span>s. This can easily be detected by the <span class="_paradigm">Neighbor</span>s and reported to the platform. It would end up in a conversation, probably between the grocer and the <span class="_paradigm">Neighbor</span>. Or, if the <span class="_paradigm">Neighbor</span> is reticent to do this, then somebody from <span class="_paradigm">rBuddyNeighbor</span> would do it.</p>
 
 <h1>Together IRL</h1>
- <p>The town of Kamikatsu, Japan, recycles 81% of its waste. You can read read more about it<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a>.</p>
+ <p>The town of Kamikatsu, Japan, recycles 81% of its waste. You can read read more about it<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a>. The neighbors do the recycling.</p>
  <p>The <em>collection center</em> mentioned in the articles is another place for <span class="_paradigm">Neighbor</span>s to have a positive meeting in real life. This is the kind of thing that a neighborhood can organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
 
 <h1>Food</h1>
- <p>Some people love to cook. Others, like myself, just eat. I can appreciate when I like a dish, but that&rsquo;s it. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good;&rdquo; sometimes I&rsquo;ll even say, &ldquo;it&rsquo;s really good.</span></p>
- <p>Even the people who like to cook, sometimes feel like not cooking. It&rsquo;s like harking for a special dish, but you don&rsquo;t want to cook. No matter, you still have to eat.</p>
+ <p>Some people love to cook. Others, like myself, can appreciate a good dish, but that&rsquo;s it: I just eat. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good;&rdquo;, though sometimes I&rsquo;ll even say, &ldquo;it&rsquo;s really good.&rdquo;</p>
+ <p>Even the people who like to cook, sometimes feel like not cooking. It&rsquo;s like harking for a special dish, but you don&rsquo;t want to make it or don&rsquo;t know how cook it.</p>
  <p>So, here&rsquo;s other potential <span class="_paradigm">rBuddyNeighbors</span> scenarios,</p>
   <div class="_center">
-   <table class="_background" style="width:90%; ">
+   <table class="_background" id="_ninety">
     <tr>
      <th>Scenario 1</th>
      <td>
