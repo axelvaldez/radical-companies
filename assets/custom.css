@@ -526,4 +526,5 @@ table._explicitalignment th {
 }
 table _background th {
   font-size:larger;
+  text-align:right;
 }
