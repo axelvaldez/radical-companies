@@ -515,7 +515,7 @@ table._ninety {
 table tr #_background, table td #_background {
   background-color:#EEE;
 }
-table._explicitalignment th {
+table._explicitalignment td {
   text-align:right;
   vertical-align:text-top;
 }
