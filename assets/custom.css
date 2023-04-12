@@ -516,7 +516,7 @@ table._ninety {
 ._coltitle {
   text-align:left;
 }
-table tr #_background, table td #_background {
+table tr#_background {
   background-color:#EEE;
 }
 table._explicitalignment td {
