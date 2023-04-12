@@ -521,6 +521,6 @@ table._explicitalignment td {
 }
 table._explicitalignment th._coltitle {
   font-size:larger;
-  text-align:right;
+  text-align:left;
   vertical-align:text-top;
 }
