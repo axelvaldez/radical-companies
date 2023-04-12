@@ -508,7 +508,6 @@ table._ninety {
 ._coltitle {
   font-weight:bold;
   font-size:larger;
-  text-align:center;
   column-span: all;
   background-color:#EEEEEE;
   vertical-align:text-top;
@@ -518,6 +517,10 @@ table._ninety {
 }
 table tr#_background {
   background-color:#EEE;
+  font-weight:bold;
+  font-size:larger;
+  text-align:left;
+  vertical-align:text-top;
 }
 table._explicitalignment td {
   text-align:left;
