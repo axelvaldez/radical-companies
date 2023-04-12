@@ -785,8 +785,7 @@ image:    "icon-buddyneighbor.svg"
   </li>
   <li id="en10">
    <p class="_list-item">
-    We will have to figure out the most friction-less to manage payments for the <span class="_paradigm">Buddy</span>.
-    &lt;<a href="xxx" target="_blank">xxx</a>&gt
+    We will have to figure out the most friction-less to manage payments for the <span class="_paradigm">Buddy</span>. On the other hand, what if the Buddy doesn&rsquo;t show up with the goods? If they pay first, and then we reimburse them <em>after</em> the Neighbor gets the goods? In that case, they won't get reimbursed for the goods they didn&rsquo;t deliver.
     <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>

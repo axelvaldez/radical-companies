@@ -48,7 +48,6 @@ image:    "icon-ptsd-and-trust.svg"
    alt="">
  </div>
 
-
 <!-- proto-table -->
  <div class="_center">
   <table class="_foundation">
