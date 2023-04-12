@@ -94,7 +94,7 @@ image:    "icon-buddyneighbor.svg"
    </tr>
   </table>
  </div>
- <p>Either way, the <span class="_paradigm">Buddy</span> and the <span class="_paradigm">Neighbor</span> get to note their level of satisfaction with <span class="_paradigm">rBuddyNeighbors</span>.com.</p>
+ <p>Either way, the <span class="_paradigm">Buddy</span> and the <span class="_paradigm">Neighbor</span> get to note their level of satisfaction with <span class="_paradigm">rBuddyNeighbors</span>.com. And, given Transparency, the <span class="_paradigm">Buddy</span> and the <span class="_paradigm">Neighbor</span> get to see each other&rsquo;s response, and that is how they learn.</p>
 
 <h1>Payment</h1>
  <ul>
