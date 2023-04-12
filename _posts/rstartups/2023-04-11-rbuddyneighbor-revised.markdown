@@ -143,7 +143,7 @@ image:    "icon-buddyneighbor.svg"
  <p>The <em>collection center</em> mentioned in the articles is another place for <span class="_paradigm">Neighbor</span>s to have a positive meeting in real life. This is the kind of thing that a neighborhood can organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
 
 <h1>Cooking for Others</h1>
- <p>Some people love to cook. Others, like myself, can appreciate a good dish, but that&rsquo;s it: I just eat. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good;&rdquo;, though sometimes I&rsquo;ll even say, &ldquo;it&rsquo;s really good.&rdquo;</p>
+ <p>Some people love to cook. Others, like myself, can appreciate a good dish, but that&rsquo;s it: I just eat. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good;</span>, though sometimes I&rsquo;ll even say, &ldquo;it&rsquo;s really good.&rdquo;</p>
  <p>Even the people who like to cook, sometimes feel like not cooking. It&rsquo;s like harking for a special dish, but you don&rsquo;t want to make it or don&rsquo;t know how cook it.</p>
  <p>So, here&rsquo;s other potential <span class="_paradigm">rBuddyNeighbors</span> scenarios,</p>
   <div class="_center">
