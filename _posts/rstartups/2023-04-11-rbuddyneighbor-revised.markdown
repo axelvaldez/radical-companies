@@ -113,12 +113,18 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
+    <td class="_spacer"></td>
+   </tr>
+   <tr>
     <th>Interventions</th>
     <td>
      <p>Groups of <span class="_paradigm">rBuddyNeighbors</span> can organize to deal with emergency situations in their,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> from drug usage interventions to potential suicides.</p>
      <p>They can register their group with <span class="_paradigm">rBuddyNeighbors</span> as a community resource.</p>
      <p>They&rsquo;d be alerted when the system detects a pattern that fits their target.</p>
     </td>
+   </tr>
+   <tr>
+    <td class="_spacer"></td>
    </tr>
    <tr>
     <th>Reuniting Friends and Family</th>
