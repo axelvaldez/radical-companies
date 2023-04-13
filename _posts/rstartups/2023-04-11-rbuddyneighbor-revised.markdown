@@ -111,7 +111,7 @@ image:    "icon-buddyneighbor.svg"
       <li>If the <span class="_paradigm">Buddy</span> had to pay, say, in cash for the milk, then that amount will be credited to her transfer account.<a href="#en10"><sup id="bm10">&hairsp;&nabla;&hairsp;</sup></a></li>
      </ul>
     </td>
-   /tr>
+   </tr>
    <tr id="_background">
     <th>Interventions</th>
     <td>
