@@ -113,7 +113,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer"></td>
+    <td class="_spacer">xxx</td>
    </tr>
    <tr>
     <th>Interventions</th>
@@ -124,7 +124,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer"></td>
+    <td class="_spacer">xxx</td>
    </tr>
    <tr>
     <th>Reuniting Friends and Family</th>
