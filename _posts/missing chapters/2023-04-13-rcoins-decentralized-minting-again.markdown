@@ -30,12 +30,12 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
 
 <h1>Legitimacy</h1>
  <p>Say that I am hungry and I want to purchase a cheeseburger. At first, people who know me and know what I am doing, trade their cheeseburger for my <span class='_paradigm'>rCOIN</span>s, perhaps at a discounted rated. Then, based on that, other people may trade their cheeseburgers for my <span class='_paradigm'>rCOIN</span>s. By that act, they are co-investing in our company.</p>
- <p>My social circle, and maybe others, accept my <span class='_paradigm'>rCOIN</span>s at a discount. As my company gets close to delivering value, these rCOINs go up, too, towards 100% of their value. The early believers, and subsequent supporters, gain. Instead of diluting the investors’ basket of <span class='_paradigm'>rCOIN</span>s, it will increase its value. My <span class='_paradigm'>rCOIN</span>s increase their legitimacy.</p>
+ <p>My social circle, and maybe others, accept my <span class='_paradigm'>rCOIN</span>s at a discount. As my company gets close to delivering value, these rCOINs go up, too, towards 100% of their value. The early believers, and subsequent supporters, gain. Instead of diluting the investors&rsquo; basket of <span class='_paradigm'>rCOIN</span>s, it will increase its value. My <span class='_paradigm'>rCOIN</span>s increase their legitimacy.</p>
 
 <h1>Big Spender</h1>
- <p>But, wait, that’s the ideal case. This could turn into a blank check for runaway personal consumption! Or, what if I spend it all on useless items at a cost to my social circle and everybody who trusted me? That may be so. Once. But in the future no one is going to trade with me. Perhaps, a few people will, but they will be more guarded. And if I keep doing it…</p>
+ <p>But, wait, that&rsquo;s the ideal case. This could turn into a blank check for runaway personal consumption! Or, what if I spend it all on useless items at a cost to my social circle and everybody who trusted me? That may be so. Once. But in the future no one is going to trade with me. Perhaps, a few people will, but they will be more guarded. And if I keep doing it…</p>
  <p>BTW, this happens today. We used to put a lot of legal guardrails to make sure that people who are non qualified investors would not be allowed to become investors, but those guardrails no longer exist. They were paternalistic and now we are supposed to act as adults.</p>
- <p>The problem is that, in spite of rumors to the contrary, today’s investments are not transparent. This means that we are supposed to,</p>
+ <p>The problem is that, in spite of rumors to the contrary, today&rsquo;s investments are not transparent. This means that we are supposed to,</p>
  <ul> 
   <li>Make investments</li>
   <li>Like blind adults</li>
@@ -55,10 +55,10 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
  
  <h1>A Herculean Task Ahead</h1>
  <p>As we said at the top of this post, <span class='_paradigm'>rCOIN</span>s will have a herculean task ahead when it comes to stepping away from tradition. Change is perceived as a threat.</p>
- <p>We are counting on the fact that <span class='_paradigm'>rCOIN</span>s are on the right side of history. National governments and their banks are on the wrong side, holding us backl. Something is going to have to change. Perhaps the change will not result in <span class='_paradigm'>rCOIN</span>s, but it would be something close to it, that doesn’t depend on national interests.</p>
+ <p>We are counting on the fact that <span class='_paradigm'>rCOIN</span>s are on the right side of history. National governments and their banks are on the wrong side, holding us backl. Something is going to have to change. Perhaps the change will not result in <span class='_paradigm'>rCOIN</span>s, but it would be something close to it, that doesn&rsquo;t depend on national interests.</p>
 
 <h1>Did We Say Blockchain?</h1>
- <p>Finally, (pretty) please note that we never said anything about <span class='_paradigm'>rCOIN</span>s being on a <em>blockchain</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> They would have to be on a platform that guarantees their integrity, part of its legitimacy, but we don’t specify what that platform is.</p>
+ <p>Finally, (pretty) please note that we never said anything about <span class='_paradigm'>rCOIN</span>s being on a <em>blockchain</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> They would have to be on a platform that guarantees their integrity, but we don&rsquo;t specify what that platform is.</p>
  <p><span class='_paradigm'>rCOIN</span>s enable a way to step away from fiat currency whose distribution and use is dominated by a small group of deliberators, usually bank bosses. Instead, <span class='_paradigm'>rCOIN</span>s offer on transparency and decentralization, and will lead to a world where we have more control over our economic destiny as individuals in the context of our communities.</p>
 
 <h1 class="_section">ENDNOTES</h1>
@@ -66,7 +66,7 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
   <li id="en01">
    <p class="_list-item">
     David Rosenthal.
-    <em>DSHR’s Blog: EE380 Talk</em>.
+    <em>DSHR&rsquo;s Blog: EE380 Talk</em>.
     &lt;<a href="https://radicals.world/aaJg8k" target="_blank">https://radicals.world/aaJg8k</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
