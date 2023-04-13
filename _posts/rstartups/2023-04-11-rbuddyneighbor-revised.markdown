@@ -99,7 +99,7 @@ image:    "icon-buddyneighbor.svg"
  </div>
  <p>Either way, the <span class="_paradigm">Buddy</span> and the <span class="_paradigm">Neighbor</span> get to note their level of satisfaction; and given Transparency, the <span class="_paradigm">Buddy</span> and the <span class="_paradigm">Neighbor</span> get to see each other&rsquo;s response, and that is how they learn.</p>
 
-<h1>Possible Services</h1>
+<h1>Other Services?</h1>
  <div class="_center">
   <table class="_h2table, _background, _ninety">
    <tr>
