@@ -10,15 +10,18 @@ image:    "icon-rmedia.svg"
  <p>For authors, bloggers, and podcasters, <span class='_paradigm'>rMARK!</span> is primarily a source of specific, actionable feedback about their content.</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
- <img src="/assets/img/remark-buttons-vertical.svg" style="height:14em; float:left; padding:25px 10px 0 0; ">
+<h1>Intro</h1>
+ <img
+  src="/assets/img/remark-buttons-vertical.svg"
+  style="height:14em; float:left; padding:25px 10px 0 0; "
+ >
  <p>The rEmark! buttons are a floating button combo that readers can use to give feedback to authors. Clicking on the <code>plus</code> button records a positive response to specific text that they highlight; the <code>minus</code> button indicates some form of dissatisfaction with a highlighted segment.</p>
  <p>Readers can leave comments for each fragment they click on. Other visitors to the site can choose to see all comments or not (<em>i.e.</em>, default is OFF).</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Value</h1>
+<h1>Value</h1>
  <p>For authors, bloggers, and podcasters rEmark! is primarily a source of specific, actionable feedback about their content. They get the highlighted passages, the number of positive and negative clicks, and comments associated with each. These may or may not get monetized.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Feedback and Monetization</h1>
+<h1>Feedback and Monetization</h1>
  <p>Clicks on the plus button are equivalent to plus-one-<span style="font-size:smaller; ">RAD</span> and clicks on the <code>minus</code> button are equivalent to minus-one-<span style="font-size:smaller; ">RAD</span>. Authors will get the actual numbers for feedback. For monetization, any money available for distribution will get allocated according to the number of <span style="font-size:smaller; ">RAD</span>s assigned to each segment (<em>i.e.</em>, but no less than zero).</p>
  <p>Any money that flows through the <span style="font-size:smaller; ">RAD</span>s comes from funds that readers set up to support the blog sites they follow. Alternatively, a fund may be set up to support a pool of specific blog sites, or to support a particular topic.</p>
  <p>Any personal information provided by the user will be used to create the fund and then discarded, but before throwing it out we’ll calculate an ID hash off it. We can later use this ID to associate the reader with the fund while users remain anonymous.</p>
@@ -32,7 +35,7 @@ image:    "icon-rmedia.svg"
   <li>It doesn’t matter if all the posts were written by one author or several: Post 1.3 gets $1.67 one week and Post 2.3 gets $1.00 the following week.</li>
  </ul>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Alignment</h1>
+<h1>Alignment</h1>
  <div class="_center">
   <table>
   <!--
@@ -112,13 +115,13 @@ image:    "icon-rmedia.svg"
   </table>
  </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Another Thought</h1>
+<h1>Another Thought</h1>
  <ul>
   <li>rEmark! and <a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#">RADs!</a> will probably share a backend.</li>
   <li>Later, provide a decentralized highlight and annotation service.</li>
  </ul>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Credits</h1>
+<h1>Credits</h1>
  <p>The original idea comes from Cynthia Typaldos (see <a href="https://www.linkedin.com/in/typaldos/">&hellip;/linkedin.com/in/typaldos</a>).</p>
 
 {% include related.html %}
