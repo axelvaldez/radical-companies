@@ -58,42 +58,18 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
  <p>We are counting on the fact that <span class='_paradigm'>rCOIN</span>s are on the right side of history. National governments and their banks are on the wrong side, holding us backl. Something is going to have to change. Perhaps the change will not result in <span class='_paradigm'>rCOIN</span>s, but it would be something close to it, that doesn’t depend on national interests.</p>
 
 <h1>Did We Say Blockchain?</h1>
- <p>Finally, (pretty) please note that we never said anything about <span class='_paradigm'>rCOIN</span>s being on a blockchain.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> They would have to be on a platform that guarantees their integrity, part of its legitimacy, but we don’t specify what that platform is. The technology to do it sustainably is either here or within reach.</p>
- <p>Even if we end up with less-than-bullet proof technology, the worst that could happen is that each person involved will invest a relatively small amount on the not-quite-legitimate <span class='_paradigm'>rCOIN</span>s. But this act itself will go into the <span class='_paradigm'>rCOIN</span>&rsquo;s history. People will have lots of <em>caveat emptor</em> and can check &ldquo;the quality and suitability of goods before a purchase is made.&rdquo;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Finally, (pretty) please note that we never said anything about <span class='_paradigm'>rCOIN</span>s being on a blockchain.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> They would have to be on a platform that guarantees their integrity, part of its legitimacy, but we don’t specify what that platform is. The technology to do it sustainably is either here or within reach.</p>
+ <p>Even if we end up with less-than-bullet proof technology, the worst that could happen is that each person involved will invest a relatively small amount on the not-quite-legitimate <span class='_paradigm'>rCOIN</span>s. But this act itself will go into the <span class='_paradigm'>rCOIN</span>&rsquo;s history. People can check &ldquo;the quality and suitability of goods before a purchase is made.&rdquo;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p><span class='_paradigm'>rCOIN</span>s enable a way to step away from fiat currency whose distribution and therefore use is dominated by a small group of deliberators. <span class='_paradigm'>rCOIN</span>s are dependent on transparency and decentralization, and will lead to a world where we have more control over our economic destiny as individuals in the context of our communities.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
    <p class="_list-item">
-    The blockchain is not impervious to manipulation.
     David Rosenthal.
     <em>DSHR’s Blog: EE380 Talk</em>.
     &lt;<a href="https://radicals.world/aaJg8k" target="_blank">https://radicals.world/aaJg8k</a>&gt;
-   </p>
-  </li>
-  <li id="en02">
-   <p class="_list-item">
-    Matt Perez.
-    <em>DAOs  are neither decentralized, nor autonomous</em>.
-    &lt;<a href="https://radicalcompanies.com/2022/05/09/daos-not-decentralized-not-autonomous.html" target="_blank">https://radicalcompanies.com/2022/05/09/daos-not-decentralized-not-autonomous.html</a>&gt;
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en03">
-   <p class="_list-item">
-    Google Dictionary
-    &lt;<a href="https://radicals.world/FuTPvf" target="_blank">https://radicals.world/FuTPvf</a>&gt;
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en04">
-   <p class="_list-item">
-    AUTHOR(S).
-    <em>TITLE.</em>
-    PUBLICATION YEAR.
-    &lt;<a href="https://…" target="_blank">https://…</a>&gt;
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
