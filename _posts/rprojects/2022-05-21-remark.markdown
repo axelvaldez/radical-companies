@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "rMark!"
+title:    "rEmark!"
 subtitle: "Tangible Feedback (API)"
 authors:  "Matt Perez"
 image:    "icon-rmedia.svg"
@@ -12,11 +12,11 @@ image:    "icon-rmedia.svg"
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
  <img src="/assets/img/remark-buttons-vertical.svg" style="height:14em; float:left; padding:25px 10px 0 0; ">
- <p>The REMARK! buttons are a floating button combo that readers can use to give feedback to authors. Clicking on the <code>plus</code> button records a positive response to specific text that they highlight; the <code>minus</code> button indicates some form of dissatisfaction with a highlighted segment.</p>
+ <p>The rEmark! buttons are a floating button combo that readers can use to give feedback to authors. Clicking on the <code>plus</code> button records a positive response to specific text that they highlight; the <code>minus</code> button indicates some form of dissatisfaction with a highlighted segment.</p>
  <p>Readers can leave comments for each fragment they click on. Other visitors to the site can choose to see all comments or not (<em>i.e.</em>, default is OFF).</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Value</h1>
- <p>For authors, bloggers, and podcasters REMARK! is primarily a source of specific, actionable feedback about their content. They get the highlighted passages, the number of positive and negative clicks, and comments associated with each. These may or may not get monetized.</p>
+ <p>For authors, bloggers, and podcasters rEmark! is primarily a source of specific, actionable feedback about their content. They get the highlighted passages, the number of positive and negative clicks, and comments associated with each. These may or may not get monetized.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Feedback and Monetization</h1>
  <p>Clicks on the plus button are equivalent to plus-one-<span style="font-size:smaller; ">RAD</span> and clicks on the <code>minus</code> button are equivalent to minus-one-<span style="font-size:smaller; ">RAD</span>. Authors will get the actual numbers for feedback. For monetization, any money available for distribution will get allocated according to the number of <span style="font-size:smaller; ">RAD</span>s assigned to each segment (<em>i.e.</em>, but no less than zero).</p>
@@ -33,82 +33,88 @@ image:    "icon-rmedia.svg"
  </ul>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Alignment</h1>
- <table>
- <tbody style="font-size:smaller; vertical-align:top; ">
-  <tr>
-   <td colspan="2" style="text-align:center; font-weight:bold; ">Impact</td>
+ <div class="_center">
+  <table>
+  <!--
+  <tbody style="font-size:smaller; vertical-align:top; ">
+  -->
+   <tr>
+    <td colspan="2" style="text-align:center; font-weight:bold; ">Impact</td>
+   </tr>
+   <tr>
+    <td>
+     <p style="text-align:right; font-weight:bold; ">What for?</p>
+    </td>
+    <td>
+     <ul>
+      <li>Readers give, and writers get, more specific feedback for their content.</li>
+      <li>Authors can monetize their content in a way that is intuitive for readers.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2"></td>
+   </tr>
+   <tr>
+    <td colspan="2" style="text-align:center; font-weight:bold; ">Purpose</td>
+   </tr>
+   <tr>
+    <td>
+     <p style="text-align:right; font-weight:bold; ">Why?</p>
+    </td>
+    <td>
+     <ul>
+      <li>Introduce people to <span style="font-size:smaller; ">RAD</span> Distributions.</li>
+      <li>Provide tangible feedback for writers.</li>
+      <li>Generate a source of monetary support for writers.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2"></td>
+   </tr>
+   <tr>
+    <td colspan="2" style="text-align:center; font-weight:bold; ">Mission</td>
+   </tr>
+   <tr>
+    <td>
+      <p style="text-align:right; font-weight:bold; ">What?</p>
+    </td>
+    <td>
+     <ul>
+      <li>Release app's MVP to Apple/Android stores.</a>.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p style="text-align:right; font-weight:bold; ">When?</p>
+    </td>
+    <td>
+     <ul>
+      <li>In 2022.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p style="text-align:right; font-weight:bold; ">How?</p>
+    </td>
+    <td>
+     <ul>
+      <li>TBD.</li>
+     </ul>
+    </td>
   </tr>
-  <tr>
-   <td>
-    <p style="text-align:right; font-weight:bold; ">What for?</p>
-   </td>
-   <td>
-    <ul>
-     <li>Readers give, and writers get, more specific feedback for their content.</li>
-     <li>Authors can monetize their content in a way that is intuitive for readers.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2"></td>
-  </tr>
-  <tr>
-   <td colspan="2" style="text-align:center; font-weight:bold; ">Purpose</td>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align:right; font-weight:bold; ">Why?</p>
-   </td>
-   <td>
-    <ul>
-     <li>Introduce people to <span style="font-size:smaller; ">RAD</span> Distributions.</li>
-     <li>Provide tangible feedback for writers.</li>
-     <li>Generate a source of monetary support for writers.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2"></td>
-  </tr>
-  <tr>
-   <td colspan="2" style="text-align:center; font-weight:bold; ">Mission</td>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align:right; font-weight:bold; ">What?</p>
-   </td>
-   <td>
-    <ul>
-     <li>Release app's MVP to Apple/Android stores.</a>.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align:right; font-weight:bold; ">When?</p>
-   </td>
-   <td>
-    <ul>
-     <li>In 2022.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align:right; font-weight:bold; ">How?</p>
-   </td>
-   <td>
-    <ul>
-     <li>TBD.</li>
-    </ul>
-   </td>
-  </tr>
- </tbody>
- </table>
+  <!--
+  </tbody>
+ -->
+  </table>
+ </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Another Thought</h1>
  <ul>
-  <li>REMARK! and <a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#">RADs!</a> will probably share a backend.</li>
+  <li>rEmark! and <a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#">RADs!</a> will probably share a backend.</li>
   <li>Later, provide a decentralized highlight and annotation service.</li>
  </ul>
 
