@@ -22,7 +22,7 @@ image:    "icon-how-to-help-your-co-workers-shine-and-get-more-radds-in-a-co-own
  <p>In many cases, you might instead get punished for &ldquo;not doing enough.&rdquo;</p>
 
 <h1>The <span class='_paradigm'>RADICAL</span> Model</h1>
- <p>The <span class='_paradigm'>RADICAL</span> model breaks you free from this. Co-owners want to help each other learn new skills&mdash;since thet co-own the company and any improvement benefits them.</p>
+ <p>The <span class='_paradigm'>RADICAL</span> model breaks you free from this. Co-owners want to help each other learn new skills&mdash;since they co-own the company and any improvement benefits them.</p>
 
 <h1>They Key</h1>
  <p>The things that make this possible is,</p>
