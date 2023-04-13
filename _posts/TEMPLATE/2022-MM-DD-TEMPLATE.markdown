@@ -32,6 +32,11 @@ image:    "icon-ptsd-and-trust.svg"
  <span class='_paradigm'>RAD</span>s
  <span class='_paradigm'>BANNER</span>
  <span class='_paradigm'>rCOIN</span>
+ <span class='_paradigm'>Meaning</span>
+ <span class='_paradigm'>Belonging</span>
+ <span class='_paradigm'>Decentralization</span>
+ <span class='_paradigm'>Transparency</span>
+ <span class='_paradigm'>Experimentation</span>
 
 <!-- PREV ... NEXT -->
 <h1></h1>
