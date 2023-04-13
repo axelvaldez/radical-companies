@@ -205,25 +205,19 @@ image:    "icon-buddyneighbor.svg"
    <tr id="_background">
     <th>Group Invitations (Community Organizing)</th>
     <td>
-     <p>The scenario is like this, I hear that there&rsquo;s going to be a demonstration outside the office of a local politician. The organizers went to <span class="_paradigm">rBuddyNeighbor</span>s and announced their multi-location event. I ask for the details and the system sends my request to the organizer(s). They contact me with the details and I make arrangements to go.</p>
-     <p>The system may recommend two or three people that you&rsquo;ve interacted with before who are also going to the demonstration.</p>
-    </td>
-   </tr>
-   <tr id="_background">
-    <th>Deplorables</th>
-    <td>
+     <p>The scenario is like this, I hear that there&rsquo;s going to be a demonstration outside the office of a local politician. The organizers went to <span class="_paradigm">rBuddyNeighbor</span>s and announced their event. I ask for the details and the system sends my request to the organizers. They contact me with the details and I go.</p>
+     <p>The system may mentioned people that you&rsquo;ve interacted with before who are also going to the demonstration.</p>
      <p>Group Invitations opens the door to Nazi rallies, or white supremacist groups. Tread carefully.</p>
     </td>
    </tr>
    <tr id="_background">
-    <th>Them Deviants</th>
+    <th>Less Desirable Activities</th>
     <td>
      <p>You just know that people will try to use this for prostitution, distribution of illegal drugs, and other less desirable activities.</p>
-     <p>Regardless of everything else, this would corrupt our platform. So, we&rsquo;d probably have to do something about it, but &hellip; TBD.</p>
+     <p>Regardless of what you think of these things, this would go against the Explicit Alignment of<span class="_paradigm">rBuddyNeighbor</span>. So, we&rsquo;d probably have to do something about it, algthough not sure what.</p>
      <p>Scanning requests will not work after a short while, and people will go crypto on us (<em>e.g.</em>, <span class="_quotespan">Looking for a one-night-stand. I&rsquo;ll pay $300&rdquo; will become <span class="_quotespan">Looking for my friend, Mike. I want to return his $300.</span> Maybe we can spot patterns (<em>e.g.</em>, the same person always responds to the &ldquo;Mike</span> requests).</p>
-     <p>When we detect any of this, we can kick out John and Mike (and return their membership fees). But would we also alert law enforcement? We would not have to because we are looking for and finding behavior that goes against the platform&rsquo;s terms of use. Whether that is also illegal or not, it is not necessarily for us to judge.</p>
-     <p>What about the case where a kid gets illegal drugs this way and overdoses?</p>
-     <p>Do we alert the nearby <span class="_paradigm">Neighbor</span>s for potential intervention?</p>
+     <p>When we detect any of this, we could kick the &ldquo;Mike&rdquo; (and return their membership fees). But that is a use of force.</p>
+     <p>It is not a matter of rules, we already have the Explicit Alignment to guide us. No matter, in the end the members/co-owners need to do something about it.</p>
     </td>
    </tr>
    </table>
