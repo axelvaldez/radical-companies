@@ -85,6 +85,9 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
+    <td class="_spacer"> </td>
+   </tr>
+   <tr>
     <th>Not-so-Happy Example</th>
     <td>
      <ul>
