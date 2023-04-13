@@ -7,7 +7,7 @@ image:    "icon-rmedia.svg"
 ---
 
 <div style="display: none; ">
- <p>UIs have gone from functional, to graphical, to gesture, to responsive. The Attentive UI is what comes next. As the user works with the US, it auto-morphs to make the UI fit the user’s behavior. This could be as simple as rearranging menus and making the most used items easier to reach in a given context. For example, with Photoshop, I may use the brush tool a lot in one case (painting), and I may not use it at all in others.</p>
+ <p>UIs have gone from functional, to graphical, to responsive, to gestures. The Attentive UI is what comes next.</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>

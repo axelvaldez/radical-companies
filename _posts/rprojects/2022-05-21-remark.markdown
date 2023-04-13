@@ -1,13 +1,13 @@
 ---
 layout:   post
-title:    "Remark!"
+title:    "rMark!"
 subtitle: "Tangible Feedback (API)"
 authors:  "Matt Perez"
 image:    "icon-rmedia.svg"
 ---
 
 <div style="display: none; ">
- <p>For authors, bloggers, and podcasters REMARK! is primarily a source of specific, actionable feedback about their content. They get the highlighted passages, the number of positive and negative clicks, and comments associated with each. These may or may not get monetized.</p>
+ <p>For authors, bloggers, and podcasters, <span class='_paradigm'>rMARK!</span> is primarily a source of specific, actionable feedback about their content.</p>
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>

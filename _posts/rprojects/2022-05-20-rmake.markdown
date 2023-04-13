@@ -7,7 +7,7 @@ image:    "icon-rmedia.svg"
 ---
 
 <div style="display:none;">
- <p>Writing a book is mostly a one-person writing exercise. That’s a problem. Today&rsquo;s tools have discussions, critiques, suggestions, etc., but the actual writing is done by one person.</p>
+ <p>Writing a book is mostly a one-person writing exercise. And that is a problem.</p>
 </div>
 
 <div style="font-size:25px; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; margin-bottom:20px; ">
