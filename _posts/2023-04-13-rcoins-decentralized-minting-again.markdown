@@ -76,14 +76,14 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
    <p class="_list-item">
     Matt Perez.
     <em>DAOs  are neither decentralized, nor autonomous</em>.
-    &lt;<a href="https://radicalcompanies.com/2022/05/09/daos-not-decentralized-not-autonomous.html">https://radicalcompanies.com/2022/05/09/daos-not-decentralized-not-autonomous.html</a>&gt;
+    &lt;<a href="https://radicalcompanies.com/2022/05/09/daos-not-decentralized-not-autonomous.html" target="_blank">https://radicalcompanies.com/2022/05/09/daos-not-decentralized-not-autonomous.html</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
    <p class="_list-item">
     Google Dictionary
-    &lt;<a href="https://radicals.world/FuTPvf">https://radicals.world/FuTPvf</a>&gt;
+    &lt;<a href="https://radicals.world/FuTPvf" target="_blank">https://radicals.world/FuTPvf</a>&gt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
