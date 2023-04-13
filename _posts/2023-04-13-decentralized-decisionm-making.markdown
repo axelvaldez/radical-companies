@@ -24,8 +24,8 @@ image:    "icon-decentralized-decisionm-making.svg"
 <h1>Yet Another Team and&hellip; Success!</h1>
  <p>Then another team takes over. This time they talk among themselves only to discover that there are at least two people that they should listen to. You wouldn&rsquo;t know unless you ask, but, as part of their conversation, they asked!</p>
   <ul>
-   <li>They then run through an <em>Explicit Relationship</em> document.</li>
-   <li>And come up with an <em>Explicit Alignment</em>.</li>
+   <li>They then run through an <em>Explicit Relationship</em>.</li>
+   <li>They come up with an <em>Explicit Alignment</em>.</li>
    <li>The two strategists are not that far apart and end up working as a team, with everybody&rsquo;s support and participation.</li>
    <li>This time, the project meets expectations.</li>
   </ul>
