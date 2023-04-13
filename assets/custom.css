@@ -246,7 +246,9 @@ table td._spacer {
   background-color:white;
 }
 table td._spacer::before {
+  /*
   content:"...";
+  */
 }
 table tr {
   margin-bottom:0;
