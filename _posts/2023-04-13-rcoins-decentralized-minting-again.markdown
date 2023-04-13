@@ -7,7 +7,7 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>Sovereignty and legitimacy are the two aspects any currency must have to be useful.</p>
 </div>
 
 <h1>&nbsp;</h1>
