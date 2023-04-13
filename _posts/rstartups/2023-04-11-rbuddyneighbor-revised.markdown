@@ -101,7 +101,7 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Possible Services</h1>
  <div class="_center">
-  <table class="_h2table, _background">
+  <table class="_h2table, _background, _ninety">
    <tr>
     <th>Payment</th>
     <td>

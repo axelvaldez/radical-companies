@@ -509,7 +509,8 @@ div._next {
   background-color:#EEEEEE;
   vertical-align:text-top;
 }
-table#_ninety {
+table#_ninety,
+table._ninety {
   width:90%;
 }
 table._h2table {
