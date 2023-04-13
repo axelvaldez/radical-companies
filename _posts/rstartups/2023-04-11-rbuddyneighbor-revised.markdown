@@ -174,14 +174,19 @@ image:    "icon-buddyneighbor.svg"
     <td>
      <p>Some people love to cook. Others, like myself, can appreciate a good dish, but that&rsquo;s it: I just eat. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good.</span></p>
      <p>Even the people who like to cook, sometimes feel like not cooking. It&rsquo;s like harking for a special dish, but you don&rsquo;t want to make it or don&rsquo;t know how cook it.</p>
+    </td>
+   </tr>
+   <tr id="_background">
+    <th>Cooking for Others</th>
+    <td>
      <p>So, here&rsquo;s other potential <span class="_paradigm">rBuddyNeighbors</span> scenarios,</p>
      <div class="_center">
-      <table class="_background" id="_ninety">
+      <table class="_background">
        <tr>
         <th>Scenario 1</th>
         <td>
          <ul>
-          <li>You&rsquo;d like to eat anything.</li>
+          <li>You don&rsquo;t like to cook.</li>
          </ul>
         </td>
        </tr>
