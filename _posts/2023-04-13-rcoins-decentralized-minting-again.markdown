@@ -47,7 +47,7 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
  <p>Well, the person is likely part of your social circle and you trust them. You accept their rCOINs at a discount. They do it because,</p>
   <ol>
    <li>The trade will increase the rCOINs legitimacy.</li>
-   <li>As the cheeseburger-eating people deliver value to the world, the value of their rCOINs will go up. Now the history of my rCOINs includes the fact that the company backing them up is sovereign in the sense that it can back up its rCOINs.</li></li>
+   <li>As the cheeseburger-eating people deliver value to the world, the value of their rCOINs will go up. Now the history of my rCOINs includes the fact that the company backing them up is sovereign in the sense that it can back up its rCOINs.</li>
   </ol>
  <p>Note that the first is a given, whereas the second is speculative.</p>
  <p>This is pretty much the way seed rounds are raised today, even though the deals are opaque. rCOINs bring along a transparent history. You would most likely not bother looking at it and calculating its legitimacy and sovereignty, but your mobile phone will.Your mobile can tirelessly look through all of the rCOINs history and give you a go/no-go signal plus a recommended discount.</p>
