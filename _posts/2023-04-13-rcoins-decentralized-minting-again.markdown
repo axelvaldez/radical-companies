@@ -29,8 +29,8 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
  <p>As you probably figured by now, unlike dollars, euros, or yens, rCOINs are not anonymous. They bring along a transparent history and that makes them sovereign anywhere in the world. They are not backed up by a powerful nation, with more weapons that they know what to do with, but they are sovereign by the fact that their history contains everything, including all transactions and valuations that it has gone through since its origin.</p>
 
 <h1>Legitimacy</h1>
- <p>Say that I am hungry and I want to purchase a cheeseburger. At first, people who know me and know what I am doing, trade their cheeseburger for rCOINs. Then, based on that, other people may trade their cheeseburgers for my rCOINs. By that act, they are co-investing in our company.</p>
- <p>My social circle, and maybe others, accept my rCOINs at a discount. As my company gets close to delivering value, these rCOINs go up, too, towards 100% of their value. The early believers, and subsequent supporters, gain. Instead of diluting the investors’ basket of rCOINs, it will increase its value. My rCOINs increase their legitimacy.</p>
+ <p>Say that I am hungry and I want to purchase a cheeseburger. At first, people who know me and know what I am doing, trade their cheeseburger for my <span class='_paradigm'>rCOIN</span>s, perhaps at a discounted rated. Then, based on that, other people may trade their cheeseburgers for my <span class='_paradigm'>rCOIN</span>s. By that act, they are co-investing in our company.</p>
+ <p>My social circle, and maybe others, accept my <span class='_paradigm'>rCOIN</span>s at a discount. As my company gets close to delivering value, these rCOINs go up, too, towards 100% of their value. The early believers, and subsequent supporters, gain. Instead of diluting the investors’ basket of <span class='_paradigm'>rCOIN</span>s, it will increase its value. My <span class='_paradigm'>rCOIN</span>s increase their legitimacy.</p>
 
 <h1>Big Spender</h1>
  <p>But, wait, that’s the ideal case. This could turn into a blank check for runaway personal consumption! Or, what if I spend it all on useless items at a cost to my social circle and everybody who trusted me? That may be so. Once. But in the future no one is going to trade with me. Perhaps, a few people will, but they will be more guarded. And if I keep doing it…</p>
@@ -43,24 +43,24 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
  </ul>
 
 <h1>Why Would I?</h1>
- <p>But, what would be the reason to take rCOINs from somebody with low-legitimacy?</p>
- <p>Well, the person is likely part of your social circle and you trust them. You accept their rCOINs at a discount. They do it because,</p>
+ <p>But, what would be the reason to take <span class='_paradigm'>rCOIN</span>s from somebody with low-legitimacy?</p>
+ <p>Well, the person is likely part of your social circle and you trust them. You accept their <span class='_paradigm'>rCOIN</span>s at a discount. They do it because,</p>
   <ol>
-   <li>The trade will increase the rCOINs legitimacy.</li>
-   <li>As the cheeseburger-eating people deliver value to the world, the value of their rCOINs will go up. Now the history of my rCOINs includes the fact that the company backing them up is sovereign in the sense that it can back up its rCOINs.</li>
+   <li>The trade will increase the <span class='_paradigm'>rCOIN</span>s legitimacy.</li>
+   <li>As the cheeseburger-eating people deliver value to the world, the value of their <span class='_paradigm'>rCOIN</span>s will go up. Now the history of my <span class='_paradigm'>rCOIN</span>s includes the fact that the company backing them up is sovereign in the sense that it can back up its <span class='_paradigm'>rCOIN</span>s.</li>
   </ol>
  <p>Note that the first is a given, whereas the second is speculative.</p>
- <p>This is pretty much the way seed rounds are raised today, even though the deals are opaque. rCOINs bring along a transparent history. You would most likely not bother looking at it and calculating its legitimacy and sovereignty, but your mobile phone will.Your mobile can tirelessly look through all of the rCOINs history and give you a go/no-go signal plus a recommended discount.</p>
- <p>As a side note, we used to tell people that computers could do this, but they rejected out of hand, “it’s… utopian!</p>
+ <p>This is pretty much the way seed rounds are raised today, even though the deals are opaque. <span class='_paradigm'>rCOIN</span>s bring along a transparent history. You would most likely not bother looking at it and calculating its legitimacy and sovereignty, but your mobile phone will.Your mobile can tirelessly look through all of the <span class='_paradigm'>rCOIN</span>s history and give you a go/no-go signal plus a recommended discount.</p>
+ <p>As a side note, we used to tell people that computers could do this, but they rejected out of hand, <span class="_quotespan">it&rsquo;s&hellip; utopian!</span></p>
  
  <h1>A Herculean Task Ahead</h1>
- <p>As we said at the top of this post, rCOINs will have a herculean task ahead when it comes to stepping away from tradition. Change is perceived as a threat.</p>
- <p>We are counting on the fact that rCOINs are on the right side of history. National governments and their banks are on the wrong side, holding us backl. Something is going to have to change. Perhaps the change will not result in rCOINs, but it would be something close to it, that doesn’t depend on national interests.</p>
+ <p>As we said at the top of this post, <span class='_paradigm'>rCOIN</span>s will have a herculean task ahead when it comes to stepping away from tradition. Change is perceived as a threat.</p>
+ <p>We are counting on the fact that <span class='_paradigm'>rCOIN</span>s are on the right side of history. National governments and their banks are on the wrong side, holding us backl. Something is going to have to change. Perhaps the change will not result in <span class='_paradigm'>rCOIN</span>s, but it would be something close to it, that doesn’t depend on national interests.</p>
 
 <h1>Did We Say Blockchain?</h1>
- <p>Finally, please note (pretty please) that we never said anything about rCOINs being on a blockchain.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> They would have to be on a platform that guarantees their integrity, part of its legitimacy, but we don’t specify what that platform is. The technology to do it sustainably is either here or within reach.</p>
- <p>Even if we end up with less-than-bullet proof technology, the worst that could happen is that each person involved will invest a relatively small amount on the not-quite-legitimate rCOINs. But this act itself will go into the rCOIN’s history. People will have lots of <em>caveat emptor</em> and can check “the quality and suitability of goods before a purchase is made.”<sup><a href="https://radicalcompanies.com/2023/02/19/rcoins-again.html#en03">  </a></sup><sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
- <p>RCoins enable a way to step away from fiat currency whose distribution and therefore use is dominated by a small group of deliberators. RCoins are dependent on transparency and decentralization, and will lead to a world where we have more control over our economic destiny as individuals in the context of our communities.</p>
+ <p>Finally, (pretty) please note that we never said anything about <span class='_paradigm'>rCOIN</span>s being on a blockchain.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> They would have to be on a platform that guarantees their integrity, part of its legitimacy, but we don’t specify what that platform is. The technology to do it sustainably is either here or within reach.</p>
+ <p>Even if we end up with less-than-bullet proof technology, the worst that could happen is that each person involved will invest a relatively small amount on the not-quite-legitimate <span class='_paradigm'>rCOIN</span>s. But this act itself will go into the <span class='_paradigm'>rCOIN</span>&rsquo;s history. People will have lots of <em>caveat emptor</em> and can check &ldquo;the quality and suitability of goods before a purchase is made.&rdquo;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p><span class='_paradigm'>rCOIN</span>s enable a way to step away from fiat currency whose distribution and therefore use is dominated by a small group of deliberators. <span class='_paradigm'>rCOIN</span>s are dependent on transparency and decentralization, and will lead to a world where we have more control over our economic destiny as individuals in the context of our communities.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
