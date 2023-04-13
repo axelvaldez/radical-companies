@@ -243,7 +243,6 @@ table td {
 }
 table td._spacer {
   column-span:all;
-  font-size:smaller;
   background-color:white;
 }
 table td._spacer::before {
