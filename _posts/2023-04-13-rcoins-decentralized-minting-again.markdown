@@ -69,6 +69,7 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
     The blockchain is not impervious to manipulation.
     David Rosenthal.
     <em>DSHR’s Blog: EE380 Talk</em>.
+    &lt;<a href="https://blog.dshr.org/2022/02/ee380-talk.html" target="_blank">https://blog.dshr.org/2022/02/ee380-talk.html</a>&gt;
    </p>
   </li>
   <li id="en02">
