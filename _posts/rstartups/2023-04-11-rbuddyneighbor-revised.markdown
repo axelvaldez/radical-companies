@@ -177,41 +177,16 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr id="_background">
-    <th>Cooking for Others</th>
+    <th>Cooking with Others</th>
     <td>
      <p>So, here&rsquo;s other potential <span class="_paradigm">rBuddyNeighbors</span> scenarios,</p>
-     <div class="_center">
-      <table class="_background, _ninety">
-       <tr>
-        <th>Scenario 1</th>
-        <td>
-         <ul>
-          <li>You don&rsquo;t like to cook.</li>
-         </ul>
-        </td>
-       </tr>
-       <tr>
-        <th>Scenario 2</th>
-        <td>
-         <ul>
-          <li>You&rsquo;d like to eat a dish that your aunt made.</li>
-          <li>You don&rsquo;t have the recipe, but you can reach out to your aunt.</li>
-          <li>You connect your aunt with the <span class="_paradigm">rBuddyNeighbors</span> cook on a video call.</li>
-          <li>They figure out how to reproduce the dish. They may have to figure out alternative ingredients to use if your aunt&rsquo;s can&rsquo;t be found locally.</li>
-         </ul>
-        </td>
-       </tr>
-       <tr>
-        <th>Scenario 3</th>
-        <td>
-         <ul>
-          <li><span class="_quotespan">Can I get my aunt&rsquo;s dish? For three, this time. It turned out that it was as good as I remember her food and I want my friends to get a taste it.</span></li>
-         </ul>
-        </td>
-       </tr>
-      </table>
-     </div>
-    <p>You can pick up the food yourself (it&rsquo;s nearby), or, if you are invited, you can walk over and eat it at the <span class="_paradigm">Buddy</span>&rsquo;s place. The emphasis is in the cooking together.</p>
+      <ul>
+       <li>You&rsquo;d like to eat a dish that your aunt made.</li>
+       <li>You don&rsquo;t have the recipe, but you can reach out to your aunt.</li>
+       <li>You connect your aunt with the <span class="_paradigm">rBuddyNeighbors</span> cook on a video call.</li>
+       <li>They figure out how to reproduce the dish. They may have to figure out alternative ingredients to use if your aunt&rsquo;s can&rsquo;t be found locally.</li>
+      </ul>
+     <p>You can pick up the food yourself (it&rsquo;s nearby), or, if you are invited, you can walk over and eat it at the <span class="_paradigm">Buddy</span>&rsquo;s place. The emphasis is in the cooking together.</p>
     </td>
    </tr>
    <tr id="_background">
