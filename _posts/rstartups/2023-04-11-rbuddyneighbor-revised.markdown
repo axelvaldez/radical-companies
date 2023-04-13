@@ -181,7 +181,7 @@ image:    "icon-buddyneighbor.svg"
     <td>
      <p>So, here&rsquo;s other potential <span class="_paradigm">rBuddyNeighbors</span> scenarios,</p>
      <div class="_center">
-      <table class="_background">
+      <table class="_background, _ninety">
        <tr>
         <th>Scenario 1</th>
         <td>
