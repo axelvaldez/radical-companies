@@ -7,10 +7,13 @@ image:    "icon-how-to-help-your-co-workers-shine-and-get-more-radds-in-a-co-own
 ---
 
 <div style="display:none;">
- <p>RADICAL Storytellers can help co-workers</p>
+ <p><span class='_paradigm'>RADICAL</span> Storytellers can help co-owners</p>
 </div>
 
 <h1>&nbsp;</h1>
+ <p><span class='_paradigm'>RADICAL</span> Storytellers can help co-owners</p>
+
+<h1><span class='_paradigm'>RADICAL</span> Storytellers</h1>
  <p><span class='_paradigm'>RADICAL</span> companies might have one person who communicates their work very well and another who does not. This happens in many organizations, but there is never an attempt to help others learn how to do it well. In a <span class='_paradigm'>RADICAL</span> company we can notice that quickly, just by looking at the distribution of RADs.</p>
  <p>As a co-owners, I could, for instance, walk around to people who have low RADs and ask them about it. Maybe they are incompetent, but maybe they are just mediocre at making others aware of their accomplishments.</p>
  <p>I can help to make them shine. I can speak on their behalf and be part of workshops that demonstrate what he is doing and get her work out there. I can also help learn the skills to do it on her own.</p>
