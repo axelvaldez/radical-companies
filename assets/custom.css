@@ -243,7 +243,7 @@ table td {
 }
 table td._spacer {
   column-span:all;
-  font-size:x-small;
+  font-size:smaller;
   background-color:white;
 }
 table tr {
