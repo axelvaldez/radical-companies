@@ -211,7 +211,7 @@ image:    "icon-buddyneighbor.svg"
        </tr>
       </table>
      </div>
-    <p>You can pick up the food yourself (it&rsquo;s nearby), or you can walk over and eat it at the <span class="_paradigm">Buddy</span>&rsquo;s place. The emphasis is in the cooking.</p>
+    <p>You can pick up the food yourself (it&rsquo;s nearby), or, if you are invited, you can walk over and eat it at the <span class="_paradigm">Buddy</span>&rsquo;s place. The emphasis is in the cooking together.</p>
     </td>
    </tr>
    <tr id="_background">
