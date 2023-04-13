@@ -116,7 +116,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer"> </td>
+    <td class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Interventions</th>
@@ -127,7 +127,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer"> </td>
+    <td class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Reuniting Friends and Family</th>
@@ -142,7 +142,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer"> </td>
+    <td class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Fun Activities</th>
@@ -155,7 +155,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer"> </td>
+    <td class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Vendors Will Know</th>
@@ -170,7 +170,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer"> </td>
+    <td class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Mom-and-Pops</th>
@@ -181,7 +181,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer"> </td>
+    <td class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Together IRL</th>
@@ -191,7 +191,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer"> </td>
+    <td class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Cooking for Others</th>
@@ -201,7 +201,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer"> </td>
+    <td class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Cooking with Others</th>
@@ -216,7 +216,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer"> </td>
+    <td class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Commuting</th>
@@ -226,7 +226,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer"> </td>
+    <td class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>International</th>
@@ -236,7 +236,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer"> </td>
+    <td class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Group Invitations (Community Organizing)</th>
@@ -247,7 +247,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer"> </td>
+    <td class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Less Desirable Activities</th>
