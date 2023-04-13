@@ -101,8 +101,8 @@ image:    "icon-buddyneighbor.svg"
 
 <h1>Possible Services</h1>
  <div class="_center">
-  <table class="_h2table">
-   <tr id="_background">
+  <table class="_h2table, _background">
+   <tr>
     <th>Payment</th>
     <td>
      <ul>
@@ -112,7 +112,7 @@ image:    "icon-buddyneighbor.svg"
      </ul>
     </td>
    </tr>
-   <tr id="_background">
+   <tr>
     <th>Interventions</th>
     <td>
      <p>Groups of <span class="_paradigm">rBuddyNeighbors</span> can organize to deal with emergency situations in their,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> from drug usage interventions to potential suicides.</p>
@@ -120,7 +120,7 @@ image:    "icon-buddyneighbor.svg"
      <p>They&rsquo;d be alerted when the system detects a pattern that fits their target.</p>
     </td>
    </tr>
-   <tr id="_background">
+   <tr>
     <th>Reuniting Friends and Family</th>
     <td>
      <p>Like other &ldquo;social network,&rdquo; <span class="_paradigm">rBuddyNeighbor</span> could be used to find people you want to reconnect with. <span class="_quotespan">Looking for John M. Graduated in 1972 from Schurz HS in Chicago. Last time we were in touch he still lived in Chicago.</span></p>
