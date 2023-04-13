@@ -69,12 +69,11 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
     The blockchain is not impervious to manipulation.
     David Rosenthal.
     <em>DSHR’s Blog: EE380 Talk</em>.
-    &lt;<a href="https://blog.dshr.org/2022/02/ee380-talk.html" target="_blank">https://blog.dshr.org/2022/02/ee380-talk.html</a>&gt;
+    &lt;<a href="https://radicals.world/aaJg8k" target="_blank">https://radicals.world/aaJg8k</a>&gt;
    </p>
   </li>
   <li id="en02">
    <p class="_list-item">
-    <<a href="https://radicals.world/aaJg8k">https://radicals.world/aaJg8k</a>>.
     Matt Perez.
     <em>DAOs  are neither decentralized, nor autonomous</em>.
     &lt;<a href="https://radicalcompanies.com/2022/05/09/daos-not-decentralized-not-autonomous.html">https://radicalcompanies.com/2022/05/09/daos-not-decentralized-not-autonomous.html</a>&gt;
