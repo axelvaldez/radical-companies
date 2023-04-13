@@ -516,6 +516,9 @@ table._ninety {
 table._h2table {
   width:90%;
 }
+table._h2table th {
+  border-right:black 1px solid;
+}
 table._h2table th,
 table._explicitalignment th {
   text-align:right;
