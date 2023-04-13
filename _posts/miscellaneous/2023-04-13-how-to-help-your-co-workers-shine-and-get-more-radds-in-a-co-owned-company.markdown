@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "How to Help You Co-WWorkers Shine and Get More <span class='_paradigm'>RAD</span>s You in WWorkers Co-Owned Company"
+title:    "How to Help You Co-Workers Shine and Get More <span class='_paradigm'>RAD</span>s in a Co-Owned Company"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "icon-how-to-help-your-co-workers-shine-and-get-more-radds-in-a-co-owned-company.svg"
+image:    "icon-how-to-help-your-co-workers-shine-and-get-more-rads-in-a-co-owned-company.svg"
 ---
 
 <div style="display:none;">
