@@ -198,8 +198,8 @@ image:    "icon-buddyneighbor.svg"
    <tr id="_background">
     <th>International</th>
     <td>
-     <p>Has to work anywhere in the world, and across borders. See <em>Pickups</em>, below, under <em>Termimology</em>.</p>
-     <p>For example, I can put in a request for Coyotas del Parque, Hermosillo. Somebody from my neighborhood who happens to be in Hermosillo, picks up my order and brings it. Since we live nearby, my <span class="_paradigm">Buddy</span> let&rsquo;s me know when I can pick them up at his place.</p>
+     <p>Has to work anywhere in the world, and across borders.</p>
+     <p>For example, I can put in a request for Coyotas del Parque in Hermosillo, Mexico. Somebody from my neighborhood who happens to be in Hermosillo, picks up my order and brings it. Since we live nearby, my <span class="_paradigm">Buddy</span> let&rsquo;s me know when I can pick them up at his place.</p>
     </td>
    </tr>
    <tr id="_background">
