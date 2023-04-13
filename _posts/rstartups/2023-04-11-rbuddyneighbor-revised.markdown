@@ -99,109 +99,158 @@ image:    "icon-buddyneighbor.svg"
  </div>
  <p>Either way, the <span class="_paradigm">Buddy</span> and the <span class="_paradigm">Neighbor</span> get to note their level of satisfaction; and given Transparency, the <span class="_paradigm">Buddy</span> and the <span class="_paradigm">Neighbor</span> get to see each other&rsquo;s response, and that is how they learn.</p>
 
-<h1>Payment</h1>
- <ul>
-  <li>All <span class="_paradigm">rBuddyNeighbors</span> are subscribers and when members sign up, they include the details of how to pay and get paid.</li>
-  <li>The <span class="_paradigm">Neighbor</span> transfer method is debited to pay for the milk.</li>
-  <li>If the <span class="_paradigm">Buddy</span> had to pay, say, in cash for the milk, then that amount will be credited to her transfer account.<a href="#en10"><sup id="bm10">&hairsp;&nabla;&hairsp;</sup></a></li>
- </ul>
-
-<h1>Interventions</h1>
- <p>Groups of <span class="_paradigm">rBuddyNeighbors</span> can organize to deal with emergency situations in their,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> from drug usage interventions to potential suicides.</p>
- <p>They can register their group with <span class="_paradigm">rBuddyNeighbors</span> as a community resource.</p>
- <p>They&rsquo;d be alerted when the system detects a pattern that fits their target.</p>
-
-<h1>Reuniting Friends and Family</h1>
- <p>Like any social network, <span class="_paradigm">rBuddyNeighbor</span> could be used to find people you want to reconnect with. <span class="_quotespan">Looking for John M. Graduated in 1972 from Schurz HS in Chicago. Last time we were in touch he still lived in Chicago.</span></p>
-
-<h1>Baby Sitting, Elder Sitting</h1>
- <p>This brings up is the importance of reputation for members. A recommendation from a well know <span class="_paradigm">Neighbor</span> will count for a lot.</p>
-
-<h1>Fun Activities</h1>
-  <ul>
-   <li>Pub crawls</li>
-   <li>Movie Nights</li>
-   <li>Going to the movie or to the theater.<a href="#en20"><sup id="bm20">&hairsp;&nabla;&hairsp;</sup></a></li>
-  </ul>
-
-<h1>Vendors Will Know</h1>
- <p>We can train retailers to tell people who call in an order that, there are two people near you coming to pick up soon. If you put in a <span class='_paradigm'>rBuddyNeighbors</span> request, maybe one of them will deliver.</p>
- <p>This means that we need a UI for vendors to see <span class='_paradigm'>rBuddyNeighbors</span> activity that impacts them,</p>
-  <ul>
-   <li>Requests that mention them</li>
-   <li>Comments related to them (good/bad)</li>
-  </ul>
- <p>This could be in the UI for everybody, not just <span class='_paradigm'>Neighbors</span>.</p>
-
-<h1>Mom-and-Pops</h1>
- <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a <span class="_paradigm">Neighbor</span> or as a regular customer. Or the requestor lives within their back route and the local grocers can easily deliver it on the way home. This would fit within the model.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
- <p>The <span class="_paradigm">Neighbor</span>-owner cannot charge or add a surcharge for the delivery itself. Tips are not allowed, because it is not about making a living, it is about connecting and simply being a <span class="_paradigm">Buddy</span> to a <span class="_paradigm">Neighbor</span>.</p>
- <p>This could be <span class="_quotespan">gamed</span> if the <span class="_paradigm">Neighbor</span>-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A <span class="_paradigm">delivery</span> person would not make the kind of connection we are aiming for between <span class="_paradigm">Neighbor</span>s. This can easily be detected by the <span class="_paradigm">Neighbor</span>s and reported to the platform. It would end up in a conversation, probably between the grocer and the <span class="_paradigm">Neighbor</span>. Or, if the <span class="_paradigm">Neighbor</span> is reticent to do this, then somebody from <span class="_paradigm">rBuddyNeighbor</span> would do it.</p>
-
-<h1>Together IRL</h1>
- <p>The town of Kamikatsu, Japan, recycles 81% of its waste. You can read read more about it<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a>. The neighbors do the recycling.</p>
- <p>The <em>collection center</em> mentioned in the articles is another place for <span class="_paradigm">Neighbor</span>s to have a positive meeting in real life. This is the kind of thing that a neighborhood can organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
-
-<h1>Cooking for Others</h1>
- <p>Some people love to cook. Others, like myself, can appreciate a good dish, but that&rsquo;s it: I just eat. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good.</span></p>
- <p>Even the people who like to cook, sometimes feel like not cooking. It&rsquo;s like harking for a special dish, but you don&rsquo;t want to make it or don&rsquo;t know how cook it.</p>
- <p>So, here&rsquo;s other potential <span class="_paradigm">rBuddyNeighbors</span> scenarios,</p>
-  <div class="_center">
-   <table class="_background" id="_ninety">
-    <tr>
-     <th>Scenario 1</th>
-     <td>
-      <ul>
-       <li>You&rsquo;d like to eat anything.</li>
-      </ul>
-     </td>
-    </tr>
-    <tr>
-     <th>Scenario 2</th>
-     <td>
-      <ul>
-       <li>You&rsquo;d like to eat a dish that your aunt made.</li>
-       <li>You don&rsquo;t have the recipe, but you can reach out to your aunt.</li>
-       <li>You connect your aunt with the <span class="_paradigm">rBuddyNeighbors</span> cook on a video call.</li>
-       <li>They figure out how to reproduce the dish. They may have to figure out alternative ingredients to use if your aunt&rsquo;s can&rsquo;t be found locally.</li>
-      </ul>
-     </td>
-    </tr>
-    <tr>
-     <th>Scenario 3</th>
-     <td>
-      <ul>
-       <li><span class="_quotespan">Can I get my aunt&rsquo;s dish? For three, this time. It turned out that it was as good as I remember her food and I want my friends to get a taste it.</span></li>
-      </ul>
-     </td>
-    </tr>
+<h1>Possible Services</h1>
+ <div class="_center">
+  <table class="_h2table">
+   <tr id="_background">
+    <th>Payment</th>
+    <td>
+     <ul>
+      <li>All <span class="_paradigm">rBuddyNeighbors</span> are subscribers and when members sign up, they include the details of how to pay and get paid.</li>
+      <li>The <span class="_paradigm">Neighbor</span> transfer method is debited to pay for the milk.</li>
+      <li>If the <span class="_paradigm">Buddy</span> had to pay, say, in cash for the milk, then that amount will be credited to her transfer account.<a href="#en10"><sup id="bm10">&hairsp;&nabla;&hairsp;</sup></a></li>
+     </ul>
+    </td>
+   /tr>
+   <tr id="_background">
+    <th>Interventions</th>
+    <td>
+     <p>Groups of <span class="_paradigm">rBuddyNeighbors</span> can organize to deal with emergency situations in their,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> from drug usage interventions to potential suicides.</p>
+     <p>They can register their group with <span class="_paradigm">rBuddyNeighbors</span> as a community resource.</p>
+     <p>They&rsquo;d be alerted when the system detects a pattern that fits their target.</p>
+    </td>
+   </tr>
+   <tr id="_background">
+    <th>Reuniting Friends and Family</th>
+    <td>
+     <p>Like other &ldquo;social network,&rdquo; <span class="_paradigm">rBuddyNeighbor</span> could be used to find people you want to reconnect with. <span class="_quotespan">Looking for John M. Graduated in 1972 from Schurz HS in Chicago. Last time we were in touch he still lived in Chicago.</span></p>
+    </td>
+   </tr>
+   <tr id="_background">
+    <th>Baby Sitting, Elder Sitting</th>
+    <td>
+     <p>This brings up is the importance of reputation for members. A recommendation from a well know <span class="_paradigm">Neighbor</span> will count for a lot.</p>
+    </td>
+   </tr>
+   <tr id="_background">
+    <th>Fun Activities</th>
+    <td>
+     <ul>
+      <li>Pub crawls</li>
+      <li>Movie Nights</li>
+      <li>Going to the movie or to the theater.<a href="#en20"><sup id="bm20">&hairsp;&nabla;&hairsp;</sup></a></li>
+     </ul>
+    </td>
+   </tr>
+   <tr id="_background">
+    <th>Vendors Will Know</th>
+    <td>
+     <p>We can train retailers to tell people who call in an order that, there are two people near you coming to pick up soon. If you put in a <span class='_paradigm'>rBuddyNeighbors</span> request, maybe one of them will deliver.</p>
+     <p>This means that we need a UI for vendors to see <span class='_paradigm'>rBuddyNeighbors</span> activity that impacts them,</p>
+    </td>
+    <td>
+     <ul>
+     <li>Requests that mention them</li>
+     <li>Comments related to them (good/bad)</li>
+     </ul>
+     <p>This could be in the UI for everybody, not just <span class='_paradigm'>Neighbors</span>.</p>
+    </td>
+   </tr>
+   <tr id="_background">
+    <th>Mom-and-Pops</th>
+    <td>
+     <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a <span class="_paradigm">Neighbor</span> or as a regular customer. Or the requestor lives within their back route and the local grocers can easily deliver it on the way home. This would fit within the model.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
+     <p>The <span class="_paradigm">Neighbor</span>-owner cannot charge or add a surcharge for the delivery itself. Tips are not allowed, because it is not about making a living, it is about connecting and simply being a <span class="_paradigm">Buddy</span> to a <span class="_paradigm">Neighbor</span>.</p>
+     <p>This could be <span class="_quotespan">gamed</span> if the <span class="_paradigm">Neighbor</span>-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A <span class="_paradigm">delivery</span> person would not make the kind of connection we are aiming for between <span class="_paradigm">Neighbor</span>s. This can easily be detected by the <span class="_paradigm">Neighbor</span>s and reported to the platform. It would end up in a conversation, probably between the grocer and the <span class="_paradigm">Neighbor</span>. Or, if the <span class="_paradigm">Neighbor</span> is reticent to do this, then somebody from <span class="_paradigm">rBuddyNeighbor</span> would do it.</p>
+    </td>
+   </tr>
+   <tr id="_background">
+    <th>Together IRL</th>
+    <td>
+     <p>The town of Kamikatsu, Japan, recycles 81% of its waste. You can read read more about it<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a>. The neighbors do the recycling.</p>
+     <p>The <em>collection center</em> mentioned in the articles is another place for <span class="_paradigm">Neighbor</span>s to have a positive meeting in real life. This is the kind of thing that a neighborhood can organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
+    </td>
+   </tr>
+   <tr id="_background">
+    <th>Cooking for Others</th>
+    <td>
+     <p>Some people love to cook. Others, like myself, can appreciate a good dish, but that&rsquo;s it: I just eat. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good.</span></p>
+     <p>Even the people who like to cook, sometimes feel like not cooking. It&rsquo;s like harking for a special dish, but you don&rsquo;t want to make it or don&rsquo;t know how cook it.</p>
+     <p>So, here&rsquo;s other potential <span class="_paradigm">rBuddyNeighbors</span> scenarios,</p>
+     <div class="_center">
+      <table class="_background" id="_ninety">
+       <tr>
+        <th>Scenario 1</th>
+        <td>
+         <ul>
+          <li>You&rsquo;d like to eat anything.</li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th>Scenario 2</th>
+        <td>
+         <ul>
+          <li>You&rsquo;d like to eat a dish that your aunt made.</li>
+          <li>You don&rsquo;t have the recipe, but you can reach out to your aunt.</li>
+          <li>You connect your aunt with the <span class="_paradigm">rBuddyNeighbors</span> cook on a video call.</li>
+          <li>They figure out how to reproduce the dish. They may have to figure out alternative ingredients to use if your aunt&rsquo;s can&rsquo;t be found locally.</li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th>Scenario 3</th>
+        <td>
+         <ul>
+          <li><span class="_quotespan">Can I get my aunt&rsquo;s dish? For three, this time. It turned out that it was as good as I remember her food and I want my friends to get a taste it.</span></li>
+         </ul>
+        </td>
+       </tr>
+      </table>
+     </div>
+    <p>You can pick up the food yourself (it&rsquo;s nearby), or you can walk over and eat it at the <span class="_paradigm">Buddy</span>&rsquo;s place. The emphasis is in the cooking.</p>
+    </td>
+   </tr>
+   <tr id="_background">
+    <th>Commuting</th>
+    <td>
+      <p>This can also work for commuting, either as a one time thing, or on a regular basis. <span class="_quotespan">I need to get to San Carlos tomorrow by 10 am.</span> Or, <span class="_quotespan">I work in Mountain View, looking for a <span class="_paradigm">rBuddyNeighbor</span> to commute with.</span> The response from the system could be three potential <span class="_paradigm">rBuddyNeighbor</span>s, or other commuters that are open to another rider.</p>
+      <p>It would be commuting with people who live nearby. People that you may even know. People you can have a lasting relationship with.</p>
+    </td>
+   </tr>
+   <tr id="_background">
+    <th>International</th>
+    <td>
+     <p>Has to work anywhere in the world, and across borders. See <em>Pickups</em>, below, under <em>Termimology</em>.</p>
+     <p>For example, I can put in a request for Coyotas del Parque, Hermosillo. Somebody from my neighborhood who happens to be in Hermosillo, picks up my order and brings it. Since we live nearby, my <span class="_paradigm">Buddy</span> let&rsquo;s me know when I can pick them up at his place.</p>
+    </td>
+   </tr>
+   <tr id="_background">
+    <th>Group Invitations (Community Organizing)</th>
+    <td>
+     <p>The scenario is like this, I hear that there&rsquo;s going to be a demonstration outside the office of a local politician. The organizers went to <span class="_paradigm">rBuddyNeighbor</span>s and announced their multi-location event. I ask for the details and the system sends my request to the organizer(s). They contact me with the details and I make arrangements to go.</p>
+     <p>The system may recommend two or three people that you&rsquo;ve interacted with before who are also going to the demonstration.</p>
+    </td>
+   </tr>
+   <tr id="_background">
+    <th>Deplorables</th>
+    <td>
+     <p>Group Invitations opens the door to Nazi rallies, or white supremacist groups. Tread carefully.</p>
+    </td>
+   </tr>
+   <tr id="_background">
+    <th>Them Deviants</th>
+    <td>
+     <p>You just know that people will try to use this for prostitution, distribution of illegal drugs, and other less desirable activities.</p>
+     <p>Regardless of everything else, this would corrupt our platform. So, we&rsquo;d probably have to do something about it, but &hellip; TBD.</p>
+     <p>Scanning requests will not work after a short while, and people will go crypto on us (<em>e.g.</em>, <span class="_quotespan">Looking for a one-night-stand. I&rsquo;ll pay $300&rdquo; will become <span class="_quotespan">Looking for my friend, Mike. I want to return his $300.</span> Maybe we can spot patterns (<em>e.g.</em>, the same person always responds to the &ldquo;Mike</span> requests).</p>
+     <p>When we detect any of this, we can kick out John and Mike (and return their membership fees). But would we also alert law enforcement? We would not have to because we are looking for and finding behavior that goes against the platform&rsquo;s terms of use. Whether that is also illegal or not, it is not necessarily for us to judge.</p>
+     <p>What about the case where a kid gets illegal drugs this way and overdoses?</p>
+     <p>Do we alert the nearby <span class="_paradigm">Neighbor</span>s for potential intervention?</p>
+    </td>
+   </tr>
    </table>
   </div>
- <p>You can pick up the food yourself (it&rsquo;s nearby), or you can have it delivered by a <span class="_paradigm">Buddy</span>.</p>
- <p>The emphasis is in the cooking; the delivery is handled by the fact that the cooking is done nearby, in the <span class="_paradigm">rBuddyNeighbors</span> sense.</p>
-
-<h1>Commuting</h1>
- <p>This can also work for commuting, either as a one time thing, or on a regular basis. <span class="_quotespan">I need to get to San Carlos tomorrow by 10 am.</span> Or, <span class="_quotespan">I work in Mountain View, looking for a <span class="_paradigm">rBuddyNeighbor</span> to commute with.</span> The response from the system could be three potential <span class="_paradigm">rBuddyNeighbor</span>s, or other commuters that are open to another rider.</p>
- <p>It would be commuting with people who live nearby. People that you may even know. People you can have a lasting relationship with.</p>
-
-<h1>International</h1>
- <p>Has to work anywhere in the world, and across borders. See <em>Pickups</em>, below, under <em>Termimology</em>.</p>
- <p>For example, I can put in a request for Coyotas del Parque, Hermosillo. Somebody from my neighborhood who happens to be in Hermosillo, picks up my order and brings it. Since we live nearby, my <span class="_paradigm">Buddy</span> let&rsquo;s me know when I can pick them up at his place.</p>
-
-<h1>Group Invitations (Community Organizing)</h1>
- <p>The scenario is like this, I hear that there&rsquo;s going to be a demonstration outside the office of a local politician. The organizers went to <span class="_paradigm">rBuddyNeighbor</span>s and announced their multi-location event. I ask for the details and the system sends my request to the organizer(s). They contact me with the details and I make arrangements to go.</p>
- <p>The system may recommend two or three people that you&rsquo;ve interacted with before who are also going to the demonstration.</p>
-
-<h1>Deplorables</h1>
- <p>Group Invitations opens the door to Nazi rallies, or white supremacist groups. Tread carefully.</p>
-
-<h1>Them Deviants</h1>
- <p>You just know that people will try to use this for prostitution, distribution of illegal drugs, and other less desirable activities.</p>
- <p>Regardless of everything else, this would corrupt our platform. So, we&rsquo;d probably have to do something about it, but &hellip; TBD.</p>
- <p>Scanning requests will not work after a short while, and people will go crypto on us (<em>e.g.</em>, <span class="_quotespan">Looking for a one-night-stand. I&rsquo;ll pay $300&rdquo; will become <span class="_quotespan">Looking for my friend, Mike. I want to return his $300.</span> Maybe we can spot patterns (<em>e.g.</em>, the same person always responds to the &ldquo;Mike</span> requests).</p>
- <p>When we detect any of this, we can kick out John and Mike (and return their membership fees). But would we also alert law enforcement? We would not have to because we are looking for and finding behavior that goes against the platform&rsquo;s terms of use. Whether that is also illegal or not, it is not necessarily for us to judge.</p>
- <p>What about the case where a kid gets illegal drugs this way and overdoses?</p>
- <p>Do we alert the nearby <span class="_paradigm">Neighbor</span>s for potential intervention?</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
@@ -343,3 +392,4 @@ image:    "icon-buddyneighbor.svg"
  </ul>
 
 {% include related.html %}
+ 
