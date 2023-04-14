@@ -37,12 +37,9 @@ image:    "icon-rmedia.svg"
 
 <h1>Alignment</h1>
  <div class="_center">
-  <table>
-  <!--
-  <tbody style="font-size:smaller; vertical-align:top; ">
-  -->
+  <table class="_background">
    <tr>
-    <td colspan="2" style="text-align:center; font-weight:bold; ">Impact</td>
+    <th colspan="2" style="text-align:center; ">Impact</th>
    </tr>
    <tr>
     <td>
