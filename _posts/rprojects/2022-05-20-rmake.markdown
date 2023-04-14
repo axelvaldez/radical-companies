@@ -24,7 +24,7 @@ image:    "icon-rmedia.svg"
 <h1>But You Already Can, Can&rsquo;t You?</h1>
  <p>My first thought was that any of the various Git<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> platforms, MediaWiki,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> or even Google Docs could be it.</p>
  <div class="_center">
-  <table class="_foundation">
+  <table class="_foundation" id="_ninety">
    <tr>
     <th>Git</th>
    </tr>
