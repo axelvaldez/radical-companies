@@ -259,29 +259,30 @@ image:    "icon-rmedia.svg"
 
 <h1>Contributions</h1>
  <p>Contributions come in three flavors: suggestions, rewrites, and additions.</p>
- <table>
-  <tr>
-   <th>Suggestions</th>
-   <td>Typos, word replacements, very short rewrites.</td>
-  </tr>
-  <tr>
+ <div class="_center">
+  <table class="_h2table">
+   <tr id="_background">
+    <th>Suggestions</th>
+    <td>Typos, word replacements, very short rewrites.</td>
+   </tr>
+   <tr>
     <td colspan="2" class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>Rewrites</th>
-   <td>A significant amount of content is rewritten or re-laid-out dramatically differently.</td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
+    <th>Rewrites</th>
+    <td>A significant amount of content is rewritten or re-laid-out dramatically differently.</td>
+   </tr>
+   <tr>
     <td colspan="2" class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>Additions</th>
-   <td>New content is added.</td>
-  </tr>
-  <tr>
-   <td colspan="2" class="_spacer"></td>
-  </tr>
- </table>
+   </tr>
+   <tr>
+    <th>Additions</th>
+    <td>New content is added.</td>
+   </tr>
+   <tr>
+    <td colspan="2" class="_spacer"></td>
+   </tr>
+  </table>
  <p>The different types of contributions must stand out and be visually distincts. Manipulating them must be intuitive (<em>e.g.</em>, as implemented in Google Docs, suggestions can render a document unreadable with many strokes and modification, and comments can overlap suggestions and make them unreachable). It must be straightforward to convert a suggestion to a comment and vice versa.</p>
  <p>Suggestions, rewrites, and additions carry authorship. When accepting any one of these, its authorship comes along with it.</p>
 
