@@ -23,8 +23,11 @@ image:    "icon-rmedia.svg"
 
 <h1>But You Already Can, Can&rsquo;t You?</h1>
  <p>My first thought was that any of the various Git<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> platforms, MediaWiki,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> or even Google Docs could be it.</p>
- <h2>Git</h2>
-  <table>
+ <div class="_center">
+  <table class="_foundation">
+   <tr>
+    <th>Git</th>
+   </tr>
    <tr>
     <th>PROs</th>
     <td>
@@ -46,9 +49,9 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-  </table>
- <h2>MediaWiki</h2>
-  <table>
+   <tr>
+    <th>MediaWiki</th>
+   </tr>
    <tr>
     <th>PROs</th>
     <td>
@@ -72,36 +75,37 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
+   <tr>
+    <th>Google Docs</th>
+   </tr>
+   <tr>
+    <th>PROs</th>
+     <td>
+     <ul>
+      <li>It has a good WYSIWYG interface. Very intuitive, plenty of undos, etc.</li>
+      <li>It supports a very impressive version of collaboration, where different people can work on a document together in real time.</li>
+      <li>Authors can see each other&rsquo;s words appearing in the document as they work in parallel, as peers. They can also see each other&rsquo;s gestures (via the cursor).</li>
+      <li>It keeps a doc&rsquo;s complete history. You can even name particular versions of a doc to easily recognize them.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" class="_spacer"></td>
+   </tr>
+   <tr>
+    <th>CONs</th>
+    <td>
+     <ul>
+      <li>The code is proprietary. It supports a version of JavaScript that you can use to make extensions, but you&rsquo;re SOL if you want to make a major mod to it.</li>
+      <li>Only one version is rendered at one time. If you want to work off the version from three days ago, you have to choose it for rendering. But this deprecates the current version. If three people modified the version you&rsquo;re interested in, you can render only one; the others are History.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2" class="_spacer"></td>
+   </tr>
   </table>
-<h2>Google Docs</h2>
- <table>
-  <tr>
-   <th>PROs</th>
-   <td>
-    <ul>
-     <li>It has a good WYSIWYG interface. Very intuitive, plenty of undos, etc.</li>
-     <li>It supports a very impressive version of collaboration, where different people can work on a document together in real time.</li>
-     <li>Authors can see each other&rsquo;s words appearing in the document as they work in parallel, as peers. They can also see each other&rsquo;s gestures (via the cursor).</li>
-     <li>It keeps a doc&rsquo;s complete history. You can even name particular versions of a doc to easily recognize them.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-    <td colspan="2" class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>CONs</th>
-   <td>
-    <ul>
-     <li>The code is proprietary. It supports a version of JavaScript that you can use to make extensions, but you&rsquo;re SOL if you want to make a major mod to it.</li>
-     <li>Only one version is rendered at one time. If you want to work off the version from three days ago, you have to choose it for rendering. But this deprecates the current version. If three people modified the version you&rsquo;re interested in, you can render only one; the others are History.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-    <td colspan="2" class="_spacer"></td>
-  </tr>
- </table>
+ </div>
 
 <h1><span class="_paradigm">rMAKE</span> Is Born</h1>
  <p>In the end, we opted to create a new app we call <span class="_paradigm">rMAKE<a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI and many OSS components and libraries that we can use in the making of <span class="_paradigm">rMAKE</span> (<em>e.g.</em>, diff).</p>
