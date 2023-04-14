@@ -39,7 +39,7 @@ image:    "icon-rmedia.svg"
 <h1>Alignment</h1>
  <div class="_center">
   <table class="_explicitalignment">
-   <tr class="_paragraph">
+   <tr class="_background">
     <th>Impact</th>
    </tr>
    <tr>
@@ -51,7 +51,7 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-   <tr class="_paragraph">
+   <tr class="_background">
     <th>Purpose</th>
    </tr>
    <tr>
@@ -64,7 +64,7 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-   <tr class="_paragraph">
+   <tr class="_background">
     <th>Mission</th>
    </tr>
    <tr>
