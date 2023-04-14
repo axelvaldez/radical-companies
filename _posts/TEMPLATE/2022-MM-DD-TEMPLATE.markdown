@@ -116,80 +116,11 @@ image:    "icon-ptsd-and-trust.svg"
  <div class="_center">
   <table class="_background">
    <tr>
-    <th>Mindset</th>
-    <td>
-     <ul>
-      <li>How do you show up? Who are you?</li>
-      <li>Why do you need others?</li>
-      <li>What do you feel we need to agree on?</li>
-      <li>What are your red lines?</li>
-      <li>Anything else?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>About&hellip;</th>
-    <td>
-     <ul>
-      <li>What gets you angry?</li>
-      <li>What shuts you up?</li>
-      <li>What makes you excited?</li>
-      <li>What we really need to know is what does each of the above look like?</li>
-      <li>How would we know if you are angry, feel shut up, or excited?</li>
-      <li>Anything else?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>Transparency</th>
-    <td>
-     <p>Also known as vulnerabilty.</p>
-     <ul>
-      <li>What are you biggest joys?</li>
-      <li>What are you biggest fears?</li>
-      <li>Do you speak up? How?</li>
-      <li>Do you need to be given persmission to speak? <span class="_quotespan">You didn&rsquo;t asked me!</span></li>
-      <li>Anything else?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>Collaboration</th>
-    <td>
-     <ul>
-      <li>What comes up as meaningful to you?</li>
-      <li>What gives you joy?</li>
-      <li>How can we help you collaborate with us?</li>
-      <li>What stops you on your tracks?</li>
-      <li>How can we avoid doing that?</li>
-      <li>How do we know when you are collaborating? How do you show up?</li>
-      <li>What impact you have to have?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>Alignment</th>
-    <td>
-     <ul>
-      <li>Please, take a look at our Alignment table, particularly its <b>Impact</b> and <b>Purpose</b>.</li>
-      <li>What thoughts does this bring up?</li>
-      <li>Does it work for you?</li>
-      <li>Does anything need to change or be clarified for you?</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>Foundation</th>
-    <td>
-     <ul>
-      <li>Please take a look at the Foundation.</li>
-      <li>What thoughts does this bring up?</li>
-     </ul>
-    </td>
+    <th></th>
+    <td></td>
    </tr>
   </table>
  </div>
- <p>Our recomendation is that you allot one hour each to Mindset and About&hellip, Transparency and Collaboration, and Alignment and Foundation. These three hours will get you a deep trust with other co-owners that businesses don&rsquo;t ever get near.</p>
  <p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them.</p>
 
 <!-- previous/next -->
