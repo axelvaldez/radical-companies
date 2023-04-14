@@ -112,17 +112,16 @@ w
     <td></td>
     <th>No Trunk</th>
    </tr>
-e
-  </table>
-r
- </div>
- <div class="_center">
-  <table class="_h2table">
    <tr>
     <td>
      <p>In <span class="_paradigm">rMAKE</span> <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
      <p>These flows are fully rendered and at any point in time, a reader would be able to see any. Perhaps one flow is recommended by readers more than the others, but all flows will still be around for readers to explore.</p>
     </td>
+   </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_h2table">
    <tr id="_background">
     <td></td>
     <th>Authorship &amp; Ownership</th>
