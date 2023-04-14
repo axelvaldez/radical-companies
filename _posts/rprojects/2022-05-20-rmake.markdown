@@ -69,8 +69,6 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-  </table>
-  <table>
    <tr>
     <th>CONs</th>
     <td>
