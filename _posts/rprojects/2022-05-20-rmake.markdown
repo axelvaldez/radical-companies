@@ -22,17 +22,17 @@ image:    "icon-rmedia.svg"
  <p>The intent of <span class="_paradigm">rMAKE</span> is to make it possible for many people to contribute to a book and get consistent authorship and ownership. What would have been a laborious process for books written with a quill pen or a typewriter, it is a piece of cake using basic modern technology.</p>
 
 <h1>But You Already Can, Can&rsquo;t You?</h1>
- <p>My first thought was that any of the various Git<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> platforms, MediaWiki,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> or even Google Docs could be it.</p>
+ <p>My first thought was that any of the various <em>Git</em><a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> platforms, MediaWiki,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> or even Google Docs could be it.</p>
  <div class="_center">
   <table class="_foundation" id="_ninety">
    <tr>
-    <th>Git</th>
+    <th><em>Git</em></th>
    </tr>
    <tr>
     <th>PROs</th>
     <td>
      <ul>
-      <li>Git is a very popular software source control<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> system. It allows software developers to work as peers, in parallel.</li>
+      <li><em>Git</em> is a very popular software source control<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> system. It allows software developers to work as peers, in parallel.</li>
       <li>The published code lives in the project <strong>trunk</strong>. Any developer can read that code at any time.</li>
       <li>Several developers can work on features or new versions of the code in parallel, in separate branches. Each is persistent and fully rendered.</li>
       <li>Whenever I want to merge the code in my flow into the trunk, I create a pull request for the trunk&rsquo;s admin. We&rsquo;d have a discussion about my branch in the pull request and if everything lines up, the code in my branch is merged into the trunk.</li>
@@ -44,7 +44,7 @@ image:    "icon-rmedia.svg"
     <th>CONs</th>
     <td>
      <ul>
-      <li>Git and its many derivatives are not what you&rsquo;d call user friendly for non-developers.</li>
+      <li><em>Git</em> and its many derivatives are not what you&rsquo;d call user friendly for non-developers.</li>
       <li>The <strong>trunk</strong> is the boss and it is the only one that counts (<em>i.e.</em>, gets compiled into production). Branches are ephemeral, second class objects.</li>
      </ul>
     </td>
