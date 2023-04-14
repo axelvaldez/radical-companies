@@ -50,9 +50,6 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
    <tr id="_background">
     <td></td>
     <th><em>MediaWiki</em></th>
@@ -78,9 +75,6 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
    <tr id="_background">
     <td></td>
     <th><em>Google Docs</em></th>
@@ -104,9 +98,6 @@ image:    "icon-rmedia.svg"
       <li>Only one version is rendered at one time. If you want to work off the version from three days ago, you have to choose it for rendering. But this deprecates the current version. If three people modified the version you&rsquo;re interested in, you can render only one; the others are History.</li>
      </ul>
     </td>
-   </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
    </tr>
   </table>
  </div>
