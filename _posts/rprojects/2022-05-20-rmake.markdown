@@ -13,26 +13,26 @@ image:    "icon-rmedia.svg"
 <div _citation_>
  <p>A book is no longer be a book, but parallel variations on a theme. A spectrum of perspectives, built like software is done these days.</p>
  <p>This made me think of how Aztecs used to keep track of histories.</p>
- <p style="text-align:right; padding-right:1em; margin-top:15px; ">&mdash;Marysol Ortega, PhD<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
+ <p id="_signature">Dr Marysol Ortega<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 </div>
 
 <h1>Why <span style="font-size:smaller; ">rMAKE</span></h1>
- <p>Writing a book is mostly a one-person writing exercise and that’s a problem. Using today’s tools, if the book has more than one author, they may have discussions, critiques, suggestions, etc., but, after all is said and done, the actual writing is done by one of them.</p>
- <p>Another problem is assigning authorship and ownership. A handful of people get listed as co-authors and they also get co-ownership of the work. Others who have contributed significantly to the book may not end up as &ldquo;advisors&rdquo; or &ldquo;my good friend&rdquo; but not considered a co-author. Still others may get mentioned in the acknowledgements section or in footnotes. Unfortunately, none of this really comes close to creating a book as a team, similarly to the way we make software.</p>
+ <p>Writing a book is mostly a one-person writing exercise and that&rsquo;s a problem. Using today&rsquo;s tools, if the book has more than one author, they may have discussions, critiques, suggestions, etc., but, after all is said and done, the actual writing is done by one of them.</p>
+ <p>Another problem is assigning authorship and ownership. A handful of people get listed as co-authors and they also get <em>equal</em> co-ownership of the work. Others who have contributed significantly to the book may end up as &ldquo;advisors&rdquo; or &ldquo;my good friend&rdquo; but not considered a co-author. Still others may get mentioned in the acknowledgements section or in footnotes. In acadamic circles, the latest is to list everybody in a lab, sometimes, hundreds of them. Unfortunately, none of this really comes close to creating a book as a team, similarly to the way we make software.</p>
  <p>The intent of <span style="font-size:smaller; ">rMAKE</span> is to make it possible for many people to contribute to a book and get authorship and ownership consistently. What would have been a laborious process for books written with a quill pen or a typewriter, it is a piece of cake using basic modern technology.</p>
 
 <h1>But You Already Can&hellip;</h1>
- <p>My first thought was that any of the various Git<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> platforms, MediaWiki,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> or even Google Docs could be it.</p>
+ <p>My first thought was that any of the various Git<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> platforms, MediaWiki,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> or even Google Docs could be it.</p>
  <h2>Git</h2>
   <table>
    <tr>
     <th>PROs</th>
     <td>
      <ul>
-      <li>Git is a very popular software source control<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> system. It allows software developers to work as peers, in parallel.</li>
+      <li>Git is a very popular software source control<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> system. It allows software developers to work as peers, in parallel.</li>
       <li>The published code lives in the project <strong>trunk</strong>. Any developer can read that code at any time.</li>
       <li>Several developers can work on features or new versions of the code in parallel, in separate branches. Each is persistent and fully rendered.</li>
-      <li>Whenever I want to merge the code in my flow into the trunk, I create a pull request for the trunk’s admin. We’d have a discussion about my branch in the pull request and if everything lines up, the code in my branch is merged into the trunk.</li>
+      <li>Whenever I want to merge the code in my flow into the trunk, I create a pull request for the trunk&rsquo;s admin. We&rsquo;d have a discussion about my branch in the pull request and if everything lines up, the code in my branch is merged into the trunk.</li>
       <li>If anybody wants to, they can fork the code and create their own version of the software.</li>
      </ul>
     </td>
@@ -41,7 +41,7 @@ image:    "icon-rmedia.svg"
     <th>CONs</th>
     <td>
      <ul>
-      <li>Git and its many derivatives are not what you’d call user friendly for non-developers.</li>
+      <li>Git and its many derivatives are not what you&rsquo;d call user friendly for non-developers.</li>
       <li>The <strong>trunk</strong> is the boss and it is the only one that counts (<em>i.e.</em>, gets compiled into production). Branches are ephemeral, second class objects.</li>
      </ul>
     </td>
@@ -53,11 +53,11 @@ image:    "icon-rmedia.svg"
     <th>PROs</th>
     <td>
      <ul>
-      <li>This is the wiki engine used by Wikipedia and it is friendly enough for writers. At least those who are used to Wiki Markup.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></li>
+      <li>This is the wiki engine used by Wikipedia and it is friendly enough for writers. At least those who are used to Wiki Markup.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a></li>
       <li>It keeps a history of the document where you can see all the edits ever made to a page as well as the discussions between the page editor and other contributors.</li>
       <li>Various writers can work asynchronously (not quite in parallel).</li>
       <li>It is Open Source.</li>
-      <li>It has pretty good documentation for developers.<a href="#en06"><sup id="bm06">6&nbsp;</sup></a></li>
+      <li>It has pretty good documentation for developers.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
      </ul>
     </td>
    </tr>
@@ -68,7 +68,7 @@ image:    "icon-rmedia.svg"
     <td>
      <ul>
       <li>It only renders the latest version of the document. All changes are kept in the History tab, but the only version rendered in the latest one, with all the accepted changes.</li>
-      <li>There’s no way to see previous versions, except by reading the History and applying heavy use of your imagination.</li>
+      <li>There&rsquo;s no way to see previous versions, except by reading the History and applying heavy use of your imagination.</li>
      </ul>
     </td>
    </tr>
@@ -81,8 +81,8 @@ image:    "icon-rmedia.svg"
     <ul>
      <li>It has a good WYSIWYG interface. Very intuitive, plenty of undos, etc.</li>
      <li>It supports a very impressive version of collaboration, where different people can work on a document together in real time.</li>
-     <li>Authors can see each other’s words appearing in the document as they work in parallel, as peers. They can also see each other’s gestures (via the cursor).</li>
-     <li>It keeps a doc’s complete history. You can even name particular versions of a doc to easily recognize them.</li>
+     <li>Authors can see each other&rsquo;s words appearing in the document as they work in parallel, as peers. They can also see each other&rsquo;s gestures (via the cursor).</li>
+     <li>It keeps a doc&rsquo;s complete history. You can even name particular versions of a doc to easily recognize them.</li>
     </ul>
    </td>
   </tr>
@@ -93,8 +93,8 @@ image:    "icon-rmedia.svg"
    <th>CONs</th>
    <td>
     <ul>
-     <li>The code is proprietary. It supports a version of JavaScript that you can use to make extensions, but you’re SOL if you want to make a major mod to it.</li>
-     <li>Only one version is rendered at one time. If you want to work off the version from three days ago, you have to choose it for rendering. But this deprecates the current version. If three people modified the version you’re interested in, you can render only one; the others are History.</li>
+     <li>The code is proprietary. It supports a version of JavaScript that you can use to make extensions, but you&rsquo;re SOL if you want to make a major mod to it.</li>
+     <li>Only one version is rendered at one time. If you want to work off the version from three days ago, you have to choose it for rendering. But this deprecates the current version. If three people modified the version you&rsquo;re interested in, you can render only one; the others are History.</li>
     </ul>
    </td>
   </tr>
@@ -104,7 +104,7 @@ image:    "icon-rmedia.svg"
  </table>
 
 <h1><span style="font-size:smaller; ">rMAKE</span> Is Born</h1>
- <p>In the end, we opted to create a new app we call <span style="font-size:smaller; ">rMAKE</span><a href="#en07"><sup id="bm07">7&nbsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI and many OSS components and libraries that we can use in the making of <span style="font-size:smaller; ">rMAKE</span> (<em>e.g.</em>, diff).</p>
+ <p>In the end, we opted to create a new app we call <span style="font-size:smaller; ">rMAKE<a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI and many OSS components and libraries that we can use in the making of <span style="font-size:smaller; ">rMAKE</span> (<em>e.g.</em>, diff).</p>
  <h2>No Trunk</h2>
   <p>In <span style="font-size:smaller; ">rMAKE</span> <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
   <p>These flows are fully rendered and at any point in time, a reader would be able to see any. Perhaps one flow is recommended by readers more than the others, but all flows will still be around for readers to explore.</p>
@@ -187,7 +187,7 @@ image:    "icon-rmedia.svg"
    width="70%"
    alt="This image shows six flows. FLow one is made up solo fragments. Fragments 1, 3, and 4 are by author1 and fragment two is by author2. The second flow starts with the same fragment written by author1, fragments 2 and 4 by author 2, and fragment 1 by author2. The third flow starts with the same fragment written by author1, the second fragment is co-written by author1 and author2, the third fragment is still the one written by author3, and the the last fragment written by author2. THe first two fragments of flow four are as before, but this time fragment 3 is written by author 2 and fragment four is co-written by author2 and author5. The first two fragments of flow five and its last fragment are as in flow four but in this flow fragment 3 is written by author5. The last flow illustrated starts with the same fragment written by author1, fragment2 is co-written by ">
  </div>
- <p>For example, maybe @author3 stopped contributing after modifying chapter 3. Other co-authors, however, continue to move the content forward and their changes make @author3’s contribution obsolete. Or various co-authors make a few updates to my 4.0 fragment and then I make one last modification.</p>
+ <p>For example, maybe @author3 stopped contributing after modifying chapter 3. Other co-authors, however, continue to move the content forward and their changes make @author3&rsquo;s contribution obsolete. Or various co-authors make a few updates to my 4.0 fragment and then I make one last modification.</p>
  <p>There will be the case where one or more co-authors go off in a different direction from the perspective of the other co-authors. In that case, the divergent co-author(s) would start a new flow with the content of the source flow and then add new content to it (<em>i.e.</em>, This is conceptually similar to a fork of an OSS software project). They can create a Linked flow, where the untouched fragments are merely links to the original (<em>i.e.</em>, Linked flows will reflect any and all changes in these fragments),</p>
  <div style="text-align:center; ">
   <img
@@ -202,7 +202,7 @@ image:    "icon-rmedia.svg"
  <div class="_quotation">
   <p>That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</p>
   <p>If a statistics book chapter is OPEN, therefore, it is subject to being applied by individuals to arguments with which we may disagree.</p>
-  <p>I also think that books aren’t just about the writers, they’re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren’t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics</em><a href="#en08"><sup id="bm08">8&nbsp;</sup></a>).</p>
+  <p>I also think that books aren&rsquo;t just about the writers, they&rsquo;re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren&rsquo;t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics</em><a href="#en08"><sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a>).</p>
  </div>
 
 <h1>Publishing</h1>
@@ -214,7 +214,7 @@ image:    "icon-rmedia.svg"
    <li>They could even pay for preventing new flows for a period of time.</li>
   </ul>
  <p>This is ripe for experimentation.</p>
- <p>See rMEDIA<a href="#en09"><sup id="bm09">9&nbsp;</sup></a> for more info.</p>
+ <p>See rMEDIA<a href="#en09"><sup id="bm09">&hairsp;&nabla;&hairsp;</sup></a> for more info.</p>
 
 <h1 class="_section">Use Modalities</h1>
 
@@ -264,7 +264,7 @@ image:    "icon-rmedia.svg"
     </div>
     <p>Where the URL points to the highlighted text.</p>
    </li>
-   <li>See and follow alternative content. For example, a button labeled &ldquo;Alt Content&rdquo; would jump to the alternative if there’s only one or show a pull down list if there's more than one. Or the button could open a side panel to show a short description of each version.</li>
+   <li>See and follow alternative content. For example, a button labeled &ldquo;Alt Content&rdquo; would jump to the alternative if there&rsquo;s only one or show a pull down list if there's more than one. Or the button could open a side panel to show a short description of each version.</li>
   </ul>
  <h2>Writer</h2>
   <p style="margin-bottom:0; ">Needs to,</p>
@@ -276,9 +276,9 @@ image:    "icon-rmedia.svg"
   <p style="margin-bottom:0; ">Same as a single writer, but in addition they need to,</p>
   <ul>
    <li>Fork the whole book as a separate flow.</li>
-   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or excursus.<a href="#en10"><sup id="bm10">10&nbsp;</sup></a></li>
+   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or excursus.<a href="#en10"><sup id="bm10">&hairsp;&nabla;&hairsp;</sup></a></li>
    <li>
-    <p style="margin-bottom:0; ">Create a Pull Request<a href="#en11"><sup id="bm11">11&nbsp;</sup></a> to,</p>
+    <p style="margin-bottom:0; ">Create a Pull Request<a href="#en11"><sup id="bm11">&hairsp;&nabla;&hairsp;</sup></a> to,</p>
     <ol>
      <li>Hold the discussion about a merge.</li>
      <li>Record the final decision (to merge to not merge).</li> 
@@ -287,7 +287,7 @@ image:    "icon-rmedia.svg"
    <li>
     <p style="margin-bottom:0; ">Different versions of the content could invoke separate Pull Requests,</p>
     <ol>
-     <li>Yesterday’s Pull was rejected because the authors agreed that more work was needed.</li>
+     <li>Yesterday&rsquo;s Pull was rejected because the authors agreed that more work was needed.</li>
      <li>Today's Pull request is accepted for merge after a short discussion that deems the new work as acceptable.</li> 
     </ol>
    </li> 
@@ -303,7 +303,7 @@ image:    "icon-rmedia.svg"
 
 <h1>Comments and Suggestions</h1>
  <p>(Inspired by Google Docs.)</p>
- <p>Comments and suggested edits enrich a document, particularly when it generates a dialog among co-authors. The end result of a discussion may be that co-authors go off to create their own flows. And that’s good.</p>
+ <p>Comments and suggested edits enrich a document, particularly when it generates a dialog among co-authors. The end result of a discussion may be that co-authors go off to create their own flows. And that&rsquo;s good.</p>
  <p>When that happens, the new flows will carry a copy of all comments and edits with it. If one author decides to remove some or all comments or reject the edits, then they still exist in the original flows.</p>
 
 <h1>Social Media</h1>
@@ -357,7 +357,7 @@ image:    "icon-rmedia.svg"
 
 <h1>Views</h1>
  <ul>
-  <li>A View defines how a user, whether reader or writer, sees the content. Some people like to start paragraphs with an indent, but others don’t. Some like more or less whitespace after sentences (<em>e.g.</em>, double space, single space). Some like paragraphs adjusted, some like them ragged.</li>
+  <li>A View defines how a user, whether reader or writer, sees the content. Some people like to start paragraphs with an indent, but others don&rsquo;t. Some like more or less whitespace after sentences (<em>e.g.</em>, double space, single space). Some like paragraphs adjusted, some like them ragged.</li>
   <li>Views are first class objects and can be combined with any other first class object. For example, a View can be selected by a reader which incorporates her preferences.</li>
   <li>Conceptually, there could be a View for the whole Flow, but another View for a particular module.</li>
   <li>Parameters would include indentation, margins (all or individually as right, left, top, bottom), font family, font size, space after end-of-sentence punctuation (<em>e.g.</em>, n-width, m-width, other size), etc. (I imagine this as a CSS parameter file).</li>
