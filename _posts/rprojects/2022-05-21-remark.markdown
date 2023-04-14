@@ -68,25 +68,15 @@ image:    "icon-rmedia.svg"
     <th>Mission</th>
    </tr>
    <tr>
-    <td>What?</td>
+    <td>
+     What?<br>
+     When?<br>
+     How?
+    </td>
     <td>
      <ul>
       <li>Release app&rsquo;s MVP to Apple/Android stores.</a>.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td>When?</td>
-    <td>
-     <ul>
       <li>Apri 30, 2023.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td>How?</td>
-    <td>
-     <ul>
       <li>TBD.</li>
      </ul>
     </td>
