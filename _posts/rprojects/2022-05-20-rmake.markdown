@@ -370,7 +370,7 @@ image:    "icon-rmedia.svg"
     <p class="_list-item">
      AEON.
      <em>How Aztecs Told History</em>.
-     <<a href="https://radicals.world/pWo2WK" target="_blank">https://radicals.world/pWo2WK</a>>
+     &lt;<a href="https://radicals.world/pWo2WK" target="_blank">https://radicals.world/pWo2WK</a>&gt; (alt, &lt;<a href="https://diigo.com/0salwc" target="_blank">https://diigo.com/0salwc</a>&gt;)
      <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
