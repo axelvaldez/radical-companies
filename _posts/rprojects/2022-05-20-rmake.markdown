@@ -297,51 +297,59 @@ image:    "icon-rmedia.svg"
  <p>Suggestions, rewrites, and additions carry authorship. When accepting any one of these, its authorship comes along with it.</p>
 
 <h1>Roles</h1>
- <h1>Reader</h1>
-  <p>Needs to,</p>
-  <ul>
-   <li>See the content.</li>
-   <li>Optionally see a table of contents (collapsible).</li>
-   <li>Leave a comment associated with highlighted text.</li>
-   <li>Optionally see comments that others have left (collapsible).</li>
-   <li>Leave edit suggestions.</li>
-   <li>Share content,
-    <div style="text-align:center; ">
-     <img
-      src="/assets/img/rmedia-citation-copy-paste.svg"
-      width="70%"
-      alt="">
-    </div>
-    <p>Where the URL points to the highlighted text.</p>
-   </li>
-   <li>See and follow alternative content. For example, a button labeled &ldquo;Alt Content&rdquo; would jump to the alternative if there&rsquo;s only one or show a pull down list if there's more than one. Or the button could open a side panel to show a short description of each version.</li>
-  </ul>
- <h1>Writer</h1>
-  <p style="margin-bottom:0; ">Needs to,</p>
-  <ul>
-   <li>Start in editing mode. It renders the same as reading mode, but it allows editing.</li>
-   <li>Leave comments and edits assigned to a user (may be herself).</li>
-  </ul>
- <h1>Co-Writers</h1>
-  <p style="margin-bottom:0; ">Same as a single writer, but in addition they need to,</p>
-  <ul>
-   <li>Fork the whole book as a separate flow.</li>
-   <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or excursus.<a href="#en10"><sup id="bm10">&hairsp;&nabla;&hairsp;</sup></a></li>
-   <li>
-    <p style="margin-bottom:0; ">Create a Pull Request<a href="#en11"><sup id="bm11">&hairsp;&nabla;&hairsp;</sup></a> to,</p>
-    <ol>
-     <li>Hold the discussion about a merge.</li>
-     <li>Record the final decision (to merge to not merge).</li> 
-    </ol>
-   </li>
-   <li>
-    <p style="margin-bottom:0; ">Different versions of the content could invoke separate Pull Requests,</p>
-    <ol>
-     <li>Yesterday&rsquo;s Pull was rejected because the authors agreed that more work was needed.</li>
-     <li>Today's Pull request is accepted for merge after a short discussion that deems the new work as acceptable.</li> 
-    </ol>
+ <div class="_center">
+  <table class="_h2table">
+   <tr id="_background">
+    <th>Reader</th>
+    <td>
+     <p>Needs to,</p>
+      <ul>
+       <li>See the content.</li>
+       <li>Optionally see a table of contents (collapsible).</li>
+       <li>Leave a comment associated with highlighted text.</li>
+       <li>Optionally see comments that others have left (collapsible).</li>
+       <li>Leave edit suggestions.</li>
+       <li>Share content,
+        <div style="text-align:center; ">
+         <img
+          src="/assets/img/rmedia-citation-copy-paste.svg"
+          width="70%"
+          alt="">
+        </div>
+        <p>Where the URL points to the highlighted text.</p>
+       </li>
+       <li>See and follow alternative content. For example, a button labeled &ldquo;Alt Content&rdquo; would jump to the alternative if there&rsquo;s only one or show a pull down list if there's more than one. Or the button could open a side panel to show a short description of each version.</li>
+      </ul>
+   <tr id="_background">
+    <th>Writer</th>
+     <p style="margin-bottom:0; ">Needs to,</p>
+      <ul>
+       <li>Start in editing mode. It renders the same as reading mode, but it allows editing.</li>
+       <li>Leave comments and edits assigned to a user (may be herself).</li>
+      </ul>
+   <tr id="_background">
+    <th>Co-Writers</th>
+     <p style="margin-bottom:0; ">Same as a single writer, but in addition they need to,</p>
+      <ul>
+       <li>Fork the whole book as a separate flow.</li>
+       <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or excursus.<a href="#en10"><sup id="bm10">&hairsp;&nabla;&hairsp;</sup></a></li>
+       <li>
+        <p style="margin-bottom:0; ">Create a Pull Request<a href="#en11"><sup id="bm11">&hairsp;&nabla;&hairsp;</sup></a> to,</p>
+         <ol>
+          <li>Hold the discussion about a merge.</li>
+          <li>Record the final decision (to merge to not merge).</li> 
+         </ol>
+       </li>
+       <li>
+        <p style="margin-bottom:0; ">Different versions of the content could invoke separate Pull Requests,</p>
+         <ol>
+          <li>Yesterday&rsquo;s Pull was rejected because the authors agreed that more work was needed.</li>
+          <li>Today's Pull request is accepted for merge after a short discussion that deems the new work as acceptable.</li> 
+         </ol>
    </li> 
   </ul>
+   <tr id="_background">
+    <th>Reader</th>
  <h1>Editor</h1>
   <ul>
    <li>Same as any co-writer.</li>
