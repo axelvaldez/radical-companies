@@ -91,6 +91,6 @@ image:    "icon-rmedia.svg"
  </ul>
 
 <h1>Credits</h1>
- <p>The original idea comes from Cynthia Typaldos (see <a href="https://www.linkedin.com/in/typaldos/">&hellip;/linkedin.com/in/typaldos</a>).</p>
+ <p>The original idea comes from <a href="https://www.linkedin.com/in/typaldos/" target="_blank">Cynthia Typaldos</a>.</p>
 
 {% include related.html %}
