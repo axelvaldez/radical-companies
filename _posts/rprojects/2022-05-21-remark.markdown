@@ -17,6 +17,7 @@ image:    "icon-rmedia.svg"
    height="14em"
    style="float:left; padding-top:25px; padding-right; "
    alt="">
+ </div> 
  <p>The rEmark! buttons are a floating button combo that readers can use to give feedback to authors. Clicking on the <code>plus</code> button records a positive response to specific text that readers highlight; the <code>minus</code> button indicates some form of dissatisfaction with a highlighted segment.</p>
  <p>Readers can leave comments for each fragment they click on. Other visitors to the site can choose to see all comments or not (<em>i.e.</em>, default is OFF).</p>
 
