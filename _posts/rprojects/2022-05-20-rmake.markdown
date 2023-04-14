@@ -107,20 +107,14 @@ image:    "icon-rmedia.svg"
  <div class="_center">
   <table class="_h2table">
    <tr id="_background">
-    <td></td>
     <th>No Trunk</th>
-   </tr>
-   <tr>
     <td>
      <p>In <span class="_paradigm">rMAKE</span> <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
      <p>These flows are fully rendered and at any point in time, a reader would be able to see any. Perhaps one flow is recommended by readers more than the others, but all flows will still be around for readers to explore.</p>
     </td>
    </tr>
    <tr id="_background">
-    <td></td>
     <th>Authorship &amp; Ownership</th>
-   </tr>
-   <tr>
     <td>
      <p>A fragment could be a phrase, sentence, paragraph, and even a word. Every fragment carries authorship <em>and</em> ownership.</p>
      <ul>
@@ -136,29 +130,20 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr id="_background">
-    <td></td>
     <th>No Permission Needed</th>
-   </tr>
-   <tr>
     <td>
      <p>Any co-author can copy a flow without explicit permission; in fact, anybody can do that. On the other hand, an author can easily find out every copy of her content ever made (<em>i.e.</em>, even if it is a copy of a copy).</p>
      <p>A co-author could make any and all of her flows unreadable to others. Otherwise, if you can read it, you can copy it.</p>
     </td>
    </tr>
    <tr id="_background">
-    <td></td>
     <th>Pull&nbsp;Requests&nbsp;and&nbsp;Merges</th>
-   </tr>
-   <tr>
     <td>
      <p>A co-author will need the agreement of a flow owner if she wants to have her work merged with his. How that happens depends on a discussion among the people involved.</p>
     </td>
    </tr>
    <tr id="_background">
-    <td></td>
     <th>Use Cases</th>
-   </tr>
-   <tr>
     <td>
      <table>
       <tr>
@@ -208,10 +193,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr id="_background">
-    <td></td>
     <th>Flows</th>
-   </tr>
-   <tr>
     <td>
      <p><em>Flows</em> tie together a number of <em>fragments</em> to make for a coherent reading. Flows are first-class objects, persistent and publishable. For example, assume a book project starts with two authors and ends with many contributors from different authors,</p>
       <div class="_center">
