@@ -99,8 +99,8 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-  </table>
- </div>
+  </table>aaa
+ </div>bbb
 
 <h1><span class="_paradigm">rMAKE</span> Is Born</h1>
  <p>In the end, we opted to create a new app we call <span class="_paradigm">rMAKE</span><a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI and many OSS components and libraries that we can use in the making of <span class="_paradigm">rMAKE</span> (<em>e.g.</em>, diff).</p>
@@ -119,10 +119,6 @@ image:    "icon-rmedia.svg"
     <td></td>
     <th>Authorship &amp; Ownership</th>
    </tr>
-  </table>
- </div>
- <div class="_center">
-  <table class="_explicitalignment">
    <tr>
     <td>
      <p>A fragment could be a phrase, sentence, paragraph, and even a word. Every fragment carries authorship <em>and</em> ownership.</p>
@@ -249,8 +245,8 @@ image:    "icon-rmedia.svg"
         </div>
     </td>
    </tr>
-  </table>
- </div>
+  </table>a
+ </div>b
 
 <h1>Publishing</h1>
  <p>The mythical &ldquo;book deal&rdquo; includes an advance that a publisher pays an author when the book is just an outline. For well-known authors and brand names (<em>e.g.</em>, ex-President Obama), that is still the case. The rest of us get, at best, a percent of sales minus all expenses, including returns,</p>
@@ -289,8 +285,8 @@ image:    "icon-rmedia.svg"
    <tr>
     <td colspan="2" class="_spacer"></td>
    </tr>
-  </table>
- </div>
+  </table>aa
+ </div>bb
  <p>The different types of contributions must stand out and be visually distincts. Manipulating them must be intuitive (<em>e.g.</em>, as implemented in Google Docs, suggestions can render a document unreadable with many strokes and modification, and comments can overlap suggestions and make them unreachable). It must be straightforward to convert a suggestion to a comment and vice versa.</p>
  <p>Suggestions, rewrites, and additions carry authorship. When accepting any one of these, its authorship comes along with it.</p>
 
