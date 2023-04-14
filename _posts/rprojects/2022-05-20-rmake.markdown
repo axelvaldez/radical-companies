@@ -283,6 +283,7 @@ image:    "icon-rmedia.svg"
     <td colspan="2" class="_spacer"></td>
    </tr>
   </table>
+ </div>
  <p>The different types of contributions must stand out and be visually distincts. Manipulating them must be intuitive (<em>e.g.</em>, as implemented in Google Docs, suggestions can render a document unreadable with many strokes and modification, and comments can overlap suggestions and make them unreachable). It must be straightforward to convert a suggestion to a comment and vice versa.</p>
  <p>Suggestions, rewrites, and additions carry authorship. When accepting any one of these, its authorship comes along with it.</p>
 
