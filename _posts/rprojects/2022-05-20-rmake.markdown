@@ -117,7 +117,7 @@ image:    "icon-rmedia.svg"
     </td>
    <tr id="_background">
     <td></td>
-    <th>Authorship&nbsp;&amp;&nbsp;Ownership</th>
+    <th>Authorship &amp; Ownership</th>
    </tr>
    <tr>
     <td>
@@ -144,7 +144,7 @@ image:    "icon-rmedia.svg"
     </td>
    <tr id="_background">
     <td></td>
-    <th>Pull Requests and Merges</th>
+    <th>Pull&nbsp;Requests&nbsp;and&nbsp;Merges</th>
    </tr>
    <tr>
     <td>
