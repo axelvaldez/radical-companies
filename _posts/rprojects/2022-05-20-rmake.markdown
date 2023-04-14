@@ -24,8 +24,9 @@ image:    "icon-rmedia.svg"
 <h1>But You Already Can, Can&rsquo;t You?</h1>
  <p>My first thought was that any of the various <em>Git</em><a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> platforms, MediaWiki,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> or even Google Docs could be it.</p>
  <div class="_center">
-  <table class="_foundation, _ninety">
-   <tr>
+  <table class="_explicitalignment">
+   <tr id="_background">
+    <td></td>
     <th><em>Git</em></th>
    </tr>
    <tr>
@@ -50,6 +51,10 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
+    <td class="_spacer">&nbsp;</td>
+   </tr>
+   <tr id="_background">
+    <td></td>
     <th>MediaWiki</th>
    </tr>
    <tr>
@@ -76,6 +81,10 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
+    <td class="_spacer">&nbsp;</td>
+   </tr>
+   <tr id="_background">
+    <td></td>
     <th>Google Docs</th>
    </tr>
    <tr>
@@ -90,9 +99,6 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2" class="_spacer"></td>
-   </tr>
-   <tr>
     <th>CONs</th>
     <td>
      <ul>
@@ -102,7 +108,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2" class="_spacer"></td>
+    <td class="_spacer">&nbsp;</td>
    </tr>
   </table>
  </div>
