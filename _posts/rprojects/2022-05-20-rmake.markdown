@@ -106,7 +106,6 @@ image:    "icon-rmedia.svg"
  <p>In the end, we opted to create a new app we call <span class="_paradigm">rMAKE</span><a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI and many OSS components and libraries that we can use in the making of <span class="_paradigm">rMAKE</span> (<em>e.g.</em>, diff).</p>
 
  <div class="_center">
-
   <table class="_explicitalignment">
    <tr id="_background">
     <td></td>
