@@ -104,7 +104,9 @@ image:    "icon-rmedia.svg"
 
 <h1><span class="_paradigm">rMAKE</span> Is Born</h1>
  <p>In the end, we opted to create a new app we call <span class="_paradigm">rMAKE</span><a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI and many OSS components and libraries that we can use in the making of <span class="_paradigm">rMAKE</span> (<em>e.g.</em>, diff).</p>
+
  <div class="_center">
+
   <table class="_explicitalignment">
    <tr id="_background">
     <td></td>
@@ -119,6 +121,10 @@ image:    "icon-rmedia.svg"
     <td></td>
     <th>Authorship &amp; Ownership</th>
    </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_explicitalignment">
    <tr>
     <td>
      <p>A fragment could be a phrase, sentence, paragraph, and even a word. Every fragment carries authorship <em>and</em> ownership.</p>
@@ -133,6 +139,7 @@ image:    "icon-rmedia.svg"
       <li>RADs account for level of contribution. The original author of the fragment could assign RADs to other co-authors or the whole thing could be automated based on, say, the number of words added.</li>
      </ul>
     </td>
+   </tr>
    <tr id="_background">
     <td></td>
     <th>No Permission Needed</th>
@@ -142,6 +149,7 @@ image:    "icon-rmedia.svg"
      <p>Any co-author can copy a flow without explicit permission; in fact, anybody can do that. On the other hand, an author can easily find out every copy of her content ever made (<em>i.e.</em>, even if it is a copy of a copy).</p>
      <p>A co-author could make any and all of her flows unreadable to others. Otherwise, if you can read it, you can copy it.</p>
     </td>
+   </tr>
    <tr id="_background">
     <td></td>
     <th>Pull&nbsp;Requests&nbsp;and&nbsp;Merges</th>
@@ -150,6 +158,7 @@ image:    "icon-rmedia.svg"
     <td>
      <p>A co-author will need the agreement of a flow owner if she wants to have her work merged with his. How that happens depends on a discussion among the people involved.</p>
     </td>
+   </tr>
    <tr id="_background">
     <td></td>
     <th>Use Cases</th>
@@ -202,6 +211,7 @@ image:    "icon-rmedia.svg"
       </tr>
      </table>
     </td>
+   </tr>
    <tr id="_background">
     <td></td>
     <th>Flows</th>
