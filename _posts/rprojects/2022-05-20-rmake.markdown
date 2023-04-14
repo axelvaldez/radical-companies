@@ -27,7 +27,7 @@ image:    "icon-rmedia.svg"
   <table class="_h2table">
    <tr id="_background">
     <td></td>
-    <th><em>Git</em></th>
+    <td><em>Git</em></td>
    </tr>
    <tr>
     <th>PROs</th>
