@@ -334,7 +334,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr id="_background">
-    <h1>Editor</h1>
+    <th>Editor</th>
     <td>
      <ul>
       <li>Same as any co-writer.</li>
