@@ -108,7 +108,7 @@ image:    "icon-rmedia.svg"
   <table class="_h2table">
    <tr id="_background">
     <td></td>
-    <td>No Trunk</td>
+    <th>No Trunk</th>
    </tr>
    <tr>
     <td>
