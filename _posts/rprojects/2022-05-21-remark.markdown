@@ -37,8 +37,8 @@ image:    "icon-rmedia.svg"
 
 <h1>Alignment</h1>
  <div class="_center">
-  <table class="_background">
-   <tr>
+  <table class="_explicitalignment">
+   <tr class="_paragraph">
     <th colspan="2" style="text-align:center; ">Impact</th>
    </tr>
    <tr>
@@ -52,13 +52,10 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-   <tr>
-    <td colspan="2"></td>
+   <tr class="_paragraph">
+    <th>Purpose</th>
    </tr>
-   <tr>
-    <td colspan="2" style="text-align:center; font-weight:bold; ">Purpose</td>
-   </tr>
-   <tr>
+   <tr class="_paragraph">
     <td>
      <p style="text-align:right; font-weight:bold; ">Why?</p>
     </td>
@@ -73,8 +70,8 @@ image:    "icon-rmedia.svg"
    <tr>
     <td colspan="2"></td>
    </tr>
-   <tr>
-    <td colspan="2" style="text-align:center; font-weight:bold; ">Mission</td>
+   <tr class="_paragraph">
+    <th>Mission</th>
    </tr>
    <tr>
     <td>
