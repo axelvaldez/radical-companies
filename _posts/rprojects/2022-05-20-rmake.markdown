@@ -10,7 +10,7 @@ image:    "icon-rmedia.svg"
  <p>Writing a book is mostly a one-person writing exercise. And that is a problem.</p>
 </div>
 
-<div _citation_>
+<div class="_citation_">
  <p>A book is no longer be a book, but parallel variations on a theme. A spectrum of perspectives, built like software is done these days.</p>
  <p>This made me think of how Aztecs used to keep track of histories.</p>
  <p id="_signature">Dr Marysol Ortega<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
