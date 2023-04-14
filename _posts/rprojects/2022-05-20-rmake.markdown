@@ -238,11 +238,11 @@ image:    "icon-rmedia.svg"
          <p>That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</p>
          <p>If a statistics book chapter is OPEN, therefore, it is subject to being applied by individuals to arguments with which we may disagree.</p>
          <p>I also think that books aren&rsquo;t just about the writers, they&rsquo;re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren&rsquo;t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics</em>.<a href="#en08"><sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a>)</p>
-        </div>
-    </td>
-   </tr>
-  </table>
- </div>
+        </div>a
+    </td>b
+   </tr>c
+  </table>d
+ </div>e
 
 <h1>Publishing</h1>
  <p>The mythical &ldquo;book deal&rdquo; includes an advance that a publisher pays an author when the book is just an outline. For well-known authors and brand names (<em>e.g.</em>, ex-President Obama), that is still the case. The rest of us get, at best, a percent of sales minus all expenses, including returns,</p>
