@@ -39,12 +39,10 @@ image:    "icon-rmedia.svg"
  <div class="_center">
   <table class="_explicitalignment">
    <tr class="_paragraph">
-    <th colspan="2" style="text-align:center; ">Impact</th>
+    <th>Impact</th>
    </tr>
    <tr>
-    <td>
-     <p style="text-align:right; font-weight:bold; ">What for?</p>
-    </td>
+    <td>What for?</td>
     <td>
      <ul>
       <li>Readers give, and writers get, more specific feedback for their content.</li>
@@ -55,63 +53,49 @@ image:    "icon-rmedia.svg"
    <tr class="_paragraph">
     <th>Purpose</th>
    </tr>
-   <tr class="_paragraph">
-    <td>
-     <p style="text-align:right; font-weight:bold; ">Why?</p>
-    </td>
+   <tr>
+    <td>Why?</td>
     <td>
      <ul>
-      <li>Introduce people to <span style="font-size:smaller; ">RAD</span> Distributions.</li>
+      <li>Introduce people to <span class="_paradigm">RAD</span> Distributions.</li>
       <li>Provide tangible feedback for writers.</li>
       <li>Generate a source of monetary support for writers.</li>
      </ul>
     </td>
    </tr>
-   <tr>
-    <td colspan="2"></td>
-   </tr>
    <tr class="_paragraph">
     <th>Mission</th>
    </tr>
    <tr>
-    <td>
-      <p style="text-align:right; font-weight:bold; ">What?</p>
-    </td>
+    <td>What?</td>
     <td>
      <ul>
-      <li>Release app's MVP to Apple/Android stores.</a>.</li>
+      <li>Release app&rsquo;s MVP to Apple/Android stores.</a>.</li>
      </ul>
     </td>
    </tr>
    <tr>
-    <td>
-     <p style="text-align:right; font-weight:bold; ">When?</p>
-    </td>
+    <td>When?</td>
     <td>
      <ul>
-      <li>In 2022.</li>
+      <li>Apri 30, 2023.</li>
      </ul>
     </td>
    </tr>
    <tr>
-    <td>
-     <p style="text-align:right; font-weight:bold; ">How?</p>
-    </td>
+    <td>How?</td>
     <td>
      <ul>
       <li>TBD.</li>
      </ul>
     </td>
   </tr>
-  <!--
-  </tbody>
- -->
   </table>
  </div>
 
 <h1>Another Thought</h1>
  <ul>
-  <li>rEmark! and <a href="https://docs.google.com/document/d/1bvcdgTSv0Fx9SfWV3ikev0yfwRXmR8sCqW4XNPhinhk/edit#">RADs!</a> will probably share a backend.</li>
+  <li>rEmark! and <em><span class="_paradigm">RAD</span>s!</em> will probably share a backend.</li>
   <li>Later, provide a decentralized highlight and annotation service.</li>
  </ul>
 
