@@ -104,12 +104,20 @@ image:    "icon-rmedia.svg"
 
 <h1><span class="_paradigm">rMAKE</span> Is Born</h1>
  <p>In the end, we opted to create a new app we call <span class="_paradigm">rMAKE</span><a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI and many OSS components and libraries that we can use in the making of <span class="_paradigm">rMAKE</span> (<em>e.g.</em>, diff).</p>
- <div class="_center">xxx
+ <div class="_center">
+q
   <table class="_h2table">
+w
    <tr id="_background">
     <td></td>
     <th>No Trunk</th>
    </tr>
+e
+  </table>
+r
+ </div>
+ <div class="_center">
+  <table class="_h2table">
    <tr>
     <td>
      <p>In <span class="_paradigm">rMAKE</span> <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
