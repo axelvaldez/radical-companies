@@ -228,8 +228,8 @@ image:    "icon-rmedia.svg"
         </div>
     </td>
    </tr>
-  </table>a
- </div>b
+  </table>
+ </div>
 
 <h1>Publishing</h1>
  <p>The mythical &ldquo;book deal&rdquo; includes an advance that a publisher pays an author when the book is just an outline. For well-known authors and brand names (<em>e.g.</em>, ex-President Obama), that is still the case. The rest of us get, at best, a percent of sales minus all expenses, including returns,</p>
