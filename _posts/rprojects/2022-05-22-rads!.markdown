@@ -47,6 +47,54 @@ image:    "icon-rmedia.svg"
  </ul>
 
 <h1>Alignment</h1>
+ <div class="_center">
+  <table class="_explicitalignment">
+   <tr class="_background">
+    <td></td>
+    <th>Impact</th>
+   </tr>
+   <tr>
+    <th>What for?</th>
+   <td>
+    <ul>
+     <li>A tool for remembering and keeping affine groups connected</li>
+    </ul>
+   </td>
+   </tr>
+   <tr class="_background">
+    <td></td>
+    <th>Purpose</th>
+   </tr>
+   <tr>
+    <th>Why?</th>
+   <td>
+    <ul>
+     <li>To support <span style="font-size:smaller; ">RAD</span> Distributions.</li>
+    </ul>
+   </td>
+   </tr>
+   <tr class="_background">
+    <td></td>
+    <th>Mission</th>
+   </tr>
+   <tr>
+    <th>
+     What?<br>
+     When?<br>
+     How?
+    </th>
+    <p>There is no hard criteria for this and could be any kind of contribution, whatever the user considers a valuable contribution (<em>e.g.</em>, number of checkins, a significant conversation).</p>
+    <ul>
+     <li>Keep track of people and Banners who are candidates for getting <span style="font-size:smaller; ">RAD</span>s.</li>
+     <li>Keep track of people you need to give feedback to.</li>
+     <li>Send your distribution at the end of the month.</li>
+    </ul>
+   </td>
+   </tr>
+  </table>
+ </div>
+
+<!--
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
@@ -103,14 +151,12 @@ image:    "icon-rmedia.svg"
   </tr>
  </tbody>
  <table>
+ -->
 
 <h1>Other</h1>
- <ul>
-  <li><em>RADs!</em> and <em><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit?usp=sharing">Remark!</a></em> will eventually share a backend.</li>
-  <li>For more detail, see the <a href="https://docs.google.com/spreadsheets/d/1ckdZEl_SaNOSB6X-2_iSvvqXsAcDz-GnMtICpRByYdU/edit#gid=0">Limitless Clothing <span style="font-size:smaller; ">RAD</span> Distribution</a>, a manual prototype of <span style="font-size:smaller; ">RAD</span>s.</li>
- </ul>
+ <p><em>RADs!</em> and Remark! will eventually share a backend.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:30px; ">Tech Platforms</h1>
+<h1">Tech Platforms</h1>
  <ul>
   <li>iOS, Android, Web.</li>
   <li>React Native/Flutter, NodeJS</li>
