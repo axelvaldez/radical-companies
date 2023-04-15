@@ -535,6 +535,9 @@ table._h2table td {
 /*
  Explict Alignment Table
  */
+table._explicitalignment {
+  width:80%;
+}
 table._explicitalignment tr th {
   vertical-align:text-top;
   text-align:right;
@@ -552,7 +555,6 @@ table._explicitalignment tr td {
   text-align:left;
 }
 table._explicitalignment tr._background {
-  width:80%;
   background-color:#EEEEEE;
 }
 table._explicitalignment tr._background th {
