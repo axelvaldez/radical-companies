@@ -65,7 +65,7 @@ image:    "icon-rmedia.svg"
       <li>Generate a source of monetary support for writers.</li>
      </ul>
     </td>
-   <tr>
+   </tr>
    <tr id="_background">
     <td></td>
     <th>Mission</th>
