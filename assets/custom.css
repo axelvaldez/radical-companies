@@ -547,7 +547,7 @@ table._explicitalignment td {
   color:rgb(218, 32, 172);
 }
 table._explicitalignment tr._background {
-  background-color:blue;
+  background-color:#EEEEEE;
 }
 table._explicitalignment th:only-child {
   text-align:right;
