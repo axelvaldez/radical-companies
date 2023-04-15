@@ -546,6 +546,7 @@ table._explicitalignment tr th {
 table._explicitalignment tr td {
   vertical-align:text-top;
   text-align:left;
+  font-family:"American Typewriter", monospaced;
 }
 table._explicitalignment tr._background {
   background-color:#EEEEEE;
