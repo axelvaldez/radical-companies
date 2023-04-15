@@ -11,6 +11,27 @@ image:    ""
 </div>
 
  <div class="_center">
+  <table class="_h2table">
+   <tr>
+    <th>What for?</th>
+    <td>Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras.</td>
+   </tr>
+   <tr>
+    <th>Why?</th>
+    <td>Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras.</td>
+   </tr>
+   <tr>
+    <th>
+     What?<br>
+     When?<br>
+     How?
+    </th>
+    <td>Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras.</td>
+   </tr>
+  </table>
+ </div>
+ 
+ <div class="_center">
   <table class="_explicitalignment">
    <tr class="_background">
     <td></td>

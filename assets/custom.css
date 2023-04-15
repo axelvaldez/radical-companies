@@ -516,6 +516,10 @@ table#_ninety tr::nth-child(-n + 3),
 table._ninety tr::nth-child(-n + 3) {
   column-span:all;
 }
+
+/*
+ Two-Column Table
+ */
 table._h2table {
   width:90%;
 }
@@ -532,6 +536,7 @@ table._h2table td {
   text-align:left;
   vertical-align:text-top;
 }
+
 /*
  Explict Alignment Table
  */
