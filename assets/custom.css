@@ -535,7 +535,7 @@ table._h2table td {
 /*
  Two-column table & Explict Alignment
  */
-table._explicitalignment tr.th {
+table._explicitalignment tr:only-child {
   text-align:right;
   vertical-align:text-top;
   font-weight:bold;
