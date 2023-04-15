@@ -545,8 +545,9 @@ table._explicitalignment th {
   width:15%;
 }
 table._explicitalignment td {
-  text-align:left;
   vertical-align:text-top;
+  text-align:left;
+  border-left:1px solid black;
   width:75%;
 }
 table._explicitalignment tr._background {
