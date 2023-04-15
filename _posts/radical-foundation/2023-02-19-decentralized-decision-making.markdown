@@ -10,6 +10,7 @@ image:    "icon-decentralized-decision-making.svg"
  <p><span class="_paradigm">BANNER</span>s kick off the process of expanding the co-owner base.</p>
 </div>
 
+xxx
 <h1>&nbsp;</h1>
  <p>Imagine that a <span class="_paradigm">RADICAL</span> company uses BANNER to propose a project. The BANNER includes its description including the skills and resources they might need. After a period of giving it shape, the BANNER is funded.</p>
 
