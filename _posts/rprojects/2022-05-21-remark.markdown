@@ -39,7 +39,7 @@ image:    "icon-rmedia.svg"
 <h1>Alignment</h1>
  <div class="_center">
   <table class="_explicitalignment">
-   <tr class="_background">
+   <tr id="_background">
     <td></td>
     <th>Impact</th>
    </tr>
