@@ -546,11 +546,10 @@ table._explicitalignment tr th {
 table._explicitalignment tr td {
   vertical-align:text-top;
   text-align:left;
-  border-left:1px dotted black;
 }
 table._explicitalignment tr._background {
   background-color:#EEEEEE;
-  color:darkcyan;
+  color:black;
   width:80%;
 }
 table._explicitalignment tr._background th {
@@ -560,5 +559,5 @@ table._explicitalignment tr._background th {
   border-left:1px solid red;
   font-weight:bold;
   font-size:larger;
-  width:75%;
+  width:90%;
 }
