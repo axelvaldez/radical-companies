@@ -539,10 +539,6 @@ table._explicitalignment tr._background tr.td {
   font-style:italic;
   vertical-align:text-top;
 }
-table._explicitalignment tr._background::nth-child(-n + 2) {
-  background-color:#EEE;
-  vertical-align:text-top;
-}
 table._explicitalignment tr  th {
   font-weight:bold;
   text-align:left;
