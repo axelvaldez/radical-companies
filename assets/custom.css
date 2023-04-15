@@ -544,14 +544,14 @@ table._explicitalignment th {
 table._explicitalignment td {
   text-align:left;
   vertical-align:text-top;
-  color:gray;
+  color:lightblue;
+}
+table._explicitalignment tr._background {
+  background-color:#EEEEEE;
 }
 table._explicitalignment tr._background th:only-child {
   text-align:right;
   vertical-align:text-top;
   font-weight:bold;
   font-size:larger;
-}
-table._explicitalignment tr._background {
-  background-color:#EEEEEE;
 }
