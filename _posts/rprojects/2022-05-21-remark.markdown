@@ -42,7 +42,7 @@ image:    "icon-rmedia.svg"
 
    <tr>
     <td></td>
-    <th>x Impact</th>
+    <th>Impact</th>
    </tr>
    <tr>
     <td>What for?</td>
