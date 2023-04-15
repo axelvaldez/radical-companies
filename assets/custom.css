@@ -534,6 +534,7 @@ table._explicitalignment td {
   text-align:left;
   vertical-align:text-top;
 }
+/*
 table._explicitalignment tr._background tr.td {
   text-align:right;
   font-style:italic;
@@ -544,3 +545,4 @@ table._explicitalignment tr  th {
   text-align:left;
   vertical-align:text-top;
 }
+*/
