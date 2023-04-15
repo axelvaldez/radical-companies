@@ -13,28 +13,28 @@ image:    ""
  <div class="_center">
   <table class="_explicitalignment">
    <tr id="_background">
-    <th>a Impact</th>
+    <th>Impact</th>
    </tr>
    <tr>
-    <td>What for?</td>
+    <th>What for?</th>
     <td>xxx</td>
    </tr>
    <tr id="_background">
     <th>Purpose</th>
    </tr>
    <tr>
-    <td>Why?</td>
+    <th>Why?</th>
     <td>xxx</td>
    </tr>
    <tr id="_background">
     <th>Mission</th>
    </tr>
    <tr>
-    <td>
+    <th>
      What?<br>
      When?<br>
      How?
-    </td>
+    </th>
     <td>xxx</td>
    </tr>
   </table>
