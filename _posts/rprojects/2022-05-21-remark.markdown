@@ -39,8 +39,7 @@ image:    "icon-rmedia.svg"
 
  <div class="_center">
   <table class="_explicitalignment">
-   <tr id="_background">
-    <td></td>
+   <tr id="_background"> b
     <th><em>Git</em></th>
    </tr>
    <tr>
@@ -157,12 +156,12 @@ image:    "icon-rmedia.svg"
     </td>
     <td>
      <ul>
-      <li>Release app&rsquo;s MVP to Apple/Android stores.</a>.</li>
+      <li>Release app&rsquo;s MVP to Apple/Android stores.</li>
       <li>Apri 30, 2023.</li>
       <li>TBD.</li>
      </ul>
     </td>
-  </tr>
+   </tr>
   </table>
  </div>
 
