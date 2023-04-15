@@ -7,7 +7,7 @@ image:    "icon-no-more-meetings.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>Instead of having &ldquo;meetings&rdquo; we are going to try having &ldquo;collaboration&rsquo; or &ldquo;coordination&rsquo; meetings.</p>
 </div>
 
 <h1>&nbsp;</h1>
