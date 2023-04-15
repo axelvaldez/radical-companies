@@ -41,7 +41,7 @@ image:    "icon-rmedia.svg"
   <table class="_explicitalignment">
    <tr id="_background">
     <td></td>
-    <th>Impact</th>
+    <th>z Impact</th>
    </tr>
    <tr>
     <td>What for?</td>
