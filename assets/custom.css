@@ -535,20 +535,6 @@ table._h2table td {
 /*
  Two-column table & Explict Alignment
  */
-table._explicitalignment tr th {
-  vertical-align:text-top;
-  text-align:right;
-  padding-right:1em;
-  border-right:1px solid red;
-  font-weight:bold;
-  font-size:smaller;
-  font-family:monospace;
-  font-variant:small-caps;
-}
-table._explicitalignment tr td {
-  vertical-align:text-top;
-  text-align:left;
-}
 table._explicitalignment tr._background {
   background-color:#EEEEEE;
   width:85%;
@@ -561,4 +547,18 @@ table._explicitalignment tr._background th {
   font-size:larger;
   font-family:Roboto;
   width:85%;
+}
+table._explicitalignment tr th {
+  vertical-align:text-top;
+  text-align:right;
+  padding-right:1em;
+  border-right:1px solid blue;
+  font-weight:bold;
+  font-size:smaller;
+  font-family:monospace;
+  font-variant:small-caps;
+}
+table._explicitalignment tr td {
+  vertical-align:text-top;
+  text-align:left;
 }
