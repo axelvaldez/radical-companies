@@ -535,12 +535,6 @@ table._h2table td {
 /*
  Two-column table & Explict Alignment
  */
-table._explicitalignment tr:only-child {
-  text-align:right;
-  vertical-align:text-top;
-  font-weight:bold;
-  font-size:larger;
-}
 table._explicitalignment th {
   text-align:right;
   vertical-align:text-top;
@@ -552,4 +546,10 @@ table._explicitalignment td {
   text-align:left;
   vertical-align:text-top;
   color:greenyellow;
+}
+table._explicitalignment tr:only-child {
+  text-align:right;
+  vertical-align:text-top;
+  font-weight:bold;
+  font-size:larger;
 }
