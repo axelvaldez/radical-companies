@@ -98,6 +98,6 @@ image:    "icon-rmedia.svg"
  </ul>
 
 <h1>Credits</h1>
- <p>The original idea comes from <a href="https://www.linkedin.com/in/typaldos/" target="_blank">Cynthia Typaldos</a>.</p>
+ <p>The idea comes from <a href="https://www.linkedin.com/in/typaldos/" target="_blank">Cynthia Typaldos</a>.</p>
 
 {% include related.html %}
