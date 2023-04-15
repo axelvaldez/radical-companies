@@ -546,6 +546,7 @@ table._explicitalignment th {
   vertical-align:text-top;
   font-weight:bold;
   font-style:italic;
+  font-size:smaller;
 }
 table._explicitalignment td {
   text-align:left;
