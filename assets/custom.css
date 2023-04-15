@@ -544,6 +544,7 @@ table._explicitalignment tr._background th {
   text-align:left;
   padding-left:1em;
   font-weight:bold;
+  font-size:larger;
   font-family:'Times New Roman', Times, serif;
   width:85%;
 }
