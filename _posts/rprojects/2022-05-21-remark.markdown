@@ -79,7 +79,7 @@ image:    "icon-rmedia.svg"
     <td>
      <ul>
       <li>Release app&rsquo;s MVP to Apple/Android stores.</li>
-      <li>Apri 30, 2023.</li>
+      <li>April 30, 2023.</li>
       <li>TBD.</li>
      </ul>
     </td>
