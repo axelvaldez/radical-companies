@@ -52,6 +52,10 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_explicitalignment">
    <tr id="_background">
     <td></td>
     <th>Purpose</th>
