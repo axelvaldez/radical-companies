@@ -544,9 +544,11 @@ table._explicitalignment tr:only-child {
 table._explicitalignment th {
   text-align:right;
   vertical-align:text-top;
+  font-weight:bold;
   font-style:italic;
 }
 table._explicitalignment td {
   text-align:left;
   vertical-align:text-top;
+  color:red;
 }
