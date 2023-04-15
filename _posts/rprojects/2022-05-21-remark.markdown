@@ -40,28 +40,11 @@ image:    "icon-rmedia.svg"
  <div class="_center">
   <table class="_explicitalignment">
    <tr id="_background"> b
-    <th><em>Git</em></th>
+    <th>Impact</th>
    </tr>
    <tr>
     <th>PROs</th>
-    <td>
-     <ul>
-      <li><em>Git</em> is a very popular software source control<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> system. It allows software developers to work as peers, in parallel.</li>
-      <li>The published code lives in the project <strong>trunk</strong>. Any developer can read that code at any time.</li>
-      <li>Several developers can work on features or new versions of the code in parallel, in separate branches. Each is persistent and fully rendered.</li>
-      <li>Whenever I want to merge the code in my flow into the trunk, I create a pull request for the trunk&rsquo;s admin. We&rsquo;d have a discussion about my branch in the pull request and if everything lines up, the code in my branch is merged into the trunk.</li>
-      <li>If anybody wants to, they can fork the code and create their own version of the software.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>CONs</th>
-    <td>
-     <ul>
-      <li><em>Git</em> and its many derivatives are not what you&rsquo;d call user friendly for non-developers.</li>
-      <li>The <strong>trunk</strong> is the boss and it is the only one that counts (<em>i.e.</em>, gets compiled into production). Branches are ephemeral, second class objects.</li>
-     </ul>
-    </td>
+    <td>xxx</td>
    </tr>
    <tr id="_background">
     <td></td>
@@ -69,24 +52,7 @@ image:    "icon-rmedia.svg"
    </tr>
    <tr>
     <th>PROs</th>
-    <td>
-     <ul>
-      <li>This is the wiki engine used by Wikipedia and it is friendly enough for writers. At least those who are used to Wiki Markup.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a></li>
-      <li>It keeps a history of the document where you can see all the edits ever made to a page as well as the discussions between the page editor and other contributors.</li>
-      <li>Various writers can work asynchronously (not quite in parallel).</li>
-      <li>It is Open Source.</li>
-      <li>It has pretty good documentation for developers.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>CONs</th>
-    <td>
-     <ul>
-      <li>It only renders the latest version of the document. All changes are kept in the History tab, but the only version rendered in the latest one, with all the accepted changes.</li>
-      <li>There&rsquo;s no way to see previous versions, except by reading the History and applying heavy use of your imagination.</li>
-     </ul>
-    </td>
+    <td>xxx</td>
    </tr>
    <tr id="_background">
     <td></td>
@@ -94,23 +60,7 @@ image:    "icon-rmedia.svg"
    </tr>
    <tr>
     <th>PROs</th>
-     <td>
-     <ul>
-      <li>It has a good WYSIWYG interface. Very intuitive, plenty of undos, etc.</li>
-      <li>It supports a very impressive version of collaboration, where different people can work on a document together in real time.</li>
-      <li>Authors can see each other&rsquo;s words appearing in the document as they work in parallel, as peers. They can also see each other&rsquo;s gestures (via the cursor).</li>
-      <li>It keeps a doc&rsquo;s complete history. You can even name particular versions of a doc to easily recognize them.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>CONs</th>
-    <td>
-     <ul>
-      <li>The code is proprietary. It supports a version of JavaScript that you can use to make extensions, but you&rsquo;re SOL if you want to make a major mod to it.</li>
-      <li>Only one version is rendered at one time. If you want to work off the version from three days ago, you have to choose it for rendering. But this deprecates the current version. If three people modified the version you&rsquo;re interested in, you can render only one; the others are History.</li>
-     </ul>
-    </td>
+    <td>xxx</td>
    </tr>
   </table>
  </div>
