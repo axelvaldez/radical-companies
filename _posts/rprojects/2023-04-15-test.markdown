@@ -12,21 +12,21 @@ image:    ""
 
  <div class="_center">
   <table class="_explicitalignment">
-   <tr id="_background">
+   <tr class="_background">
     <th>Impact</th>
    </tr>
    <tr>
     <th>What for?</th>
     <td>xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx</td>
    </tr>
-   <tr id="_background">
+   <tr class="_background">
     <th>Purpose</th>
    </tr>
    <tr>
     <th>Why?</th>
     <td>xxx</td>
    </tr>
-   <tr id="_background">
+   <tr class="_background">
     <th>Mission</th>
    </tr>
    <tr>

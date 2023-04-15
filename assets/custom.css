@@ -544,7 +544,7 @@ table._explicitalignment th {
 table._explicitalignment td {
   text-align:left;
   vertical-align:text-top;
-  color:goldenrod;
+  color:rgb(218, 32, 172);
 }
 table._explicitalignment tr._background {
   background-color:#EEEEEE;
