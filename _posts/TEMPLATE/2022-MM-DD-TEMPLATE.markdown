@@ -114,7 +114,7 @@ image:    "icon-ptsd-and-trust.svg"
 
 <!-- Explicit Relationship  Table -->
  <div class="_center">
-  <table class="_background">
+  <table class="_h2table">
    <tr>
     <th></th>
     <td></td>
