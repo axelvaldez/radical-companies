@@ -56,16 +56,32 @@ image:    "icon-rmedia.svg"
     <th>Purpose</th>
    </tr>
    <tr>
-    <th>PROs</th>
-    <td>xxx</td>
+    <td>Why?</td>
+    <td>
+     <ul>
+      <li>Introduce people to <span class="_paradigm">RAD</span> Distributions.</li>
+      <li>Provide tangible feedback for writers.</li>
+      <li>Generate a source of monetary support for writers.</li>
+     </ul>
+    </td>
    </tr>
    <tr id="_background">
     <td></td>
     <th>Mission</th>
    </tr>
    <tr>
-    <th>PROs</th>
-    <td>xxx</td>
+    <td>
+     What?<br>
+     When?<br>
+     How?
+    </td>
+    <td>
+     <ul>
+      <li>Release app&rsquo;s MVP to Apple/Android stores.</li>
+      <li>Apri 30, 2023.</li>
+      <li>TBD.</li>
+     </ul>
+    </td>
    </tr>
   </table>
  </div>
