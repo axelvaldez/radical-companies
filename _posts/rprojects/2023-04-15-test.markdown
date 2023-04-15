@@ -18,7 +18,7 @@ image:    ""
    </tr>
    <tr>
     <th>What for?</th>
-    <td>Era de noche y llovía y el sol rajaba las piedras Era de noche y llovía y el sol rajaba las piedras Era de noche y llovía y el sol rajaba las piedras </td>
+    <td>Era de noite y llovía y el sol rajaba las piedras. Era de noite y llovía y el sol rajaba las piedras. Era de noite y llovía y el sol rajaba las piedras.</td>
    </tr>
    <tr class="_background">
     <td></td>
