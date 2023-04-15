@@ -529,20 +529,17 @@ table._explicitalignment th {
   font-style:italic;
   vertical-align:text-top;
 }
-/*
-table._explicitalignment tr._background tr.td {
-*/
-table._explicitalignment tr tr.td {
-  text-align:right;
-  font-style:italic;
-  vertical-align:text-top;
-}
 table._h2table td,
 table._explicitalignment td {
   text-align:left;
   vertical-align:text-top;
 }
-table._explicitalignment tr::nth-child(-n + 2) {
+table._explicitalignment tr._background tr.td {
+  text-align:right;
+  font-style:italic;
+  vertical-align:text-top;
+}
+table._explicitalignment tr._background::nth-child(-n + 2) {
   background-color:#EEE;
   vertical-align:text-top;
 }
