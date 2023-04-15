@@ -25,12 +25,12 @@ image:    "icon-rmedia.svg"
  <p>The UI is obviously inspired by Tinder.</p>
  
 <h1>Making It Viral</h1>
- <p>Adding a non-<span style="font-size:smaller; ">RAD</span>s! person to my list will automatically generate an email to that person to 1) let her know she’s been added to my list, and 2) invite her to download the app and start to give out <span style="font-size:smaller; ">RAD</span>s. In as much as this app (evolutionary) strengthens the group of original users, it will spread to other people (<em>i.e.</em>, <span style="font-size:smaller; ">RAD</span>-receiving candidates) organically.</p>
- <p>Those who chose to not use the app—and therefore chose not to give <span style="font-size:smaller; ">RAD</span>s—will still receive them. This may continue forever, or it may be that over time they will get less and less (<em>i.e.</em>, “there’s no tit-for-tat!”). In any case, these folks are not to be punished in any way (<em>e.g.</em>, money would still flow through the <span style="font-size:smaller; ">RAD</span>s they do have).</p>
+ <p>Adding a non-<em><span class="_paradigm">RAD</span>s!</em> person to my list will automatically generate an email to that person to 1) let her know she’s been added to my list, and 2) invite her to download the app and start to give out <span class="_paradigm">RAD</span>s. In as much as this app (evolutionary) strengthens the group of original users, it will spread to other people (<em>i.e.</em>, <span class="_paradigm">RAD</span>-receiving candidates) organically.</p>
+ <p>Those who chose to not use the app—and therefore chose not to give <span class="_paradigm">RAD</span>s—will still receive them. This may continue forever, or it may be that over time they will get less and less (<em>i.e.</em>, “there’s no tit-for-tat!”). In any case, these folks are not to be punished in any way (<em>e.g.</em>, money would still flow through the <span class="_paradigm">RAD</span>s they do have).</p>
  
 <h1>Distribution Cycles</h1>
  <p>The system supports a periodic distribution cycle. Any user can specify it (<em>e.g.</em>, weekly, monthly, or every 45 day) as she wishes. People may get together and hold Distributions at different times. In other words, there is no “correct” or “corporate” cycle time that will apply to all. People can even switch from one cycle time to another as they wish.</p>
- <p>At the end of a <span style="font-size:smaller; ">RADICAL</span> Distribution, after all <span style="font-size:smaller; ">RAD</span>s have been allocated, a Global RESET command is broadcast to all people associated with a specific cycle time. For example, all the “full moon” people get together outside, under a full moon, allocate their <span style="font-size:smaller; ">RAD</span>s, have their retrospectives, along with food and drink, and dance, and arguments, and whatever else they choose to do. At the end of it, a Reset is sent to all the “full moon” people and their lists and allocations are reset to the baseline. Unless they block it.</p>
+ <p>At the end of a <span class="_paradigm">RADICAL</span> Distribution, after all <span class="_paradigm">RAD</span>s have been allocated, a Global RESET command is broadcast to all people associated with a specific cycle time. For example, all the “full moon” people get together outside, under a full moon, allocate their <span class="_paradigm">RAD</span>s, have their retrospectives, along with food and drink, and dance, and arguments, and whatever else they choose to do. At the end of it, a Reset is sent to all the “full moon” people and their lists and allocations are reset to the baseline. Unless they block it.</p>
  <p>The app supports a manual RESET (<em>i.e.</em>, reset all my lists and allocation to factory setting, so to speak), a Global RESET block (<em>i.e.</em>, don’t accept Global RESET), and even a manual UN-RESET (<em>i.e.</em>, undo the latest RESET, whether Global or Manual).</p>
 
 <h1>Also Supports</h1>
@@ -40,9 +40,9 @@ image:    "icon-rmedia.svg"
   <li>Drilling down for details by double tapping on a person.</li>
   <ul>
    <li>Profile: name, picture, etc.</li>
-   <li>Summaries: <span style="font-size:smaller; ">RAD</span>s received and given, total <span style="font-size:smaller; ">RAD</span>s, etc.</li>
+   <li>Summaries: <span class="_paradigm">RAD</span>s received and given, total <span class="_paradigm">RAD</span>s, etc.</li>
   </ul>
-  <li>Specify <span style="font-size:smaller; ">RAD</span>s/day. The default is one per day, but it could be 100 or any other number an individual user prefers.</li>
+  <li>Specify <span class="_paradigm">RAD</span>s/day. The default is one per day, but it could be 100 or any other number an individual user prefers.</li>
   <li>This list can be presented by time periods (<em>e.g.</em>, per month), “with most RIGHTs,” “with most LEFTs,” “Banners created,” “not mentioned for N days,” etc.</li>
  </ul>
 
@@ -69,7 +69,7 @@ image:    "icon-rmedia.svg"
     <th>Why?</th>
    <td>
     <ul>
-     <li>To support <span style="font-size:smaller; ">RAD</span> Distributions.</li>
+     <li>To support <span class="_paradigm">RAD</span> Distributions.</li>
     </ul>
    </td>
    </tr>
@@ -85,7 +85,7 @@ image:    "icon-rmedia.svg"
     </th>
     <p>There is no hard criteria for this and could be any kind of contribution, whatever the user considers a valuable contribution (<em>e.g.</em>, number of checkins, a significant conversation).</p>
     <ul>
-     <li>Keep track of people and Banners who are candidates for getting <span style="font-size:smaller; ">RAD</span>s.</li>
+     <li>Keep track of people and Banners who are candidates for getting <span class="_paradigm">RAD</span>s.</li>
      <li>Keep track of people you need to give feedback to.</li>
      <li>Send your distribution at the end of the month.</li>
     </ul>
@@ -115,7 +115,7 @@ image:    "icon-rmedia.svg"
    <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">Why?</td>
    <td>
     <ul>
-     <li>To support <span style="font-size:smaller; ">RAD</span> Distributions.</li>
+     <li>To support <span class="_paradigm">RAD</span> Distributions.</li>
     </ul>
    </td>
   </tr>
@@ -127,7 +127,7 @@ image:    "icon-rmedia.svg"
    <td>
     <p>There is no hard criteria for this and could be any kind of contribution, whatever the user considers a valuable contribution (<em>e.g.</em>, number of checkins, a significant conversation).</p>
     <ul>
-     <li>Keep track of people and Banners who are candidates for getting <span style="font-size:smaller; ">RAD</span>s.</li>
+     <li>Keep track of people and Banners who are candidates for getting <span class="_paradigm">RAD</span>s.</li>
      <li>Keep track of people you need to give feedback to.</li>
      <li>Send your distribution at the end of the month.</li>
     </ul>
@@ -156,7 +156,7 @@ image:    "icon-rmedia.svg"
 <h1>Other</h1>
  <p><em>RADs!</em> and Remark! will eventually share a backend.</p>
 
-<h1">Tech Platforms</h1>
+<h1>Tech Platforms</h1>
  <ul>
   <li>iOS, Android, Web.</li>
   <li>React Native/Flutter, NodeJS</li>
