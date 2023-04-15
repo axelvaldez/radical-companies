@@ -560,5 +560,6 @@ table._explicitalignment tr._background th {
   border-left:1px solid black;
   font-weight:bold;
   font-size:larger;
+  font-family:Roboto;
   width:85%;
 }
