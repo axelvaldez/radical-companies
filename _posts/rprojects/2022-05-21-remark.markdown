@@ -48,7 +48,7 @@ image:    "icon-rmedia.svg"
    </tr>
    <tr id="_background">
     <td></td>
-    <th><em>MediaWiki</em></th>
+    <th>Purpose</th>
    </tr>
    <tr>
     <th>PROs</th>
@@ -56,7 +56,7 @@ image:    "icon-rmedia.svg"
    </tr>
    <tr id="_background">
     <td></td>
-    <th><em>Google Docs</em></th>
+    <th>Mission</th>
    </tr>
    <tr>
     <th>PROs</th>
