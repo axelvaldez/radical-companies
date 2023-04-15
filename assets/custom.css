@@ -553,7 +553,7 @@ table._explicitalignment tr td {
 }
 table._explicitalignment tr._background {
   background-color:#EEEEEE;
-  color:red;
+  color:darkcyan;
 }
 table._explicitalignment tr._background th {
   vertical-align:text-top;
