@@ -539,11 +539,11 @@ table._explicitalignment td {
   text-align:left;
   vertical-align:text-top;
 }
-table._explicitalignment tr#_background {
+table._explicitalignment tr {
   background-color:#EEE;
   vertical-align:text-top;
 }
-table._explicitalignment tr#_background th {
+table._explicitalignment tr  th {
   font-weight:bold;
   text-align:left;
   vertical-align:text-top;
