@@ -36,6 +36,9 @@ image:    "icon-rmedia.svg"
   </ul>
  <p>It doesn&rsquo;t matter if all the posts were written by one author or several: Post 1.3 gets $1.67 one week and Post 2.3 gets $1.00 the following week.</p>
 
+  <!--
+   <tr id="_background">
+  -->
 <h1>Explicit Alignment</h1>
  <div class="_center">
   <table class="_explicitalignment">
@@ -52,10 +55,7 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-  <!--
-   <tr id="_background">
-  -->
-   </tr>
+   <tr>
     <td></td>
     <th>Purpose</th>
    </tr>
@@ -68,7 +68,7 @@ image:    "icon-rmedia.svg"
       <li>Generate a source of monetary support for writers.</li>
      </ul>
     </td>
-   </tr>
+   <tr>
    </tr>
     <td></td>
     <th>Mission</th>
