@@ -549,7 +549,7 @@ table._explicitalignment td {
 table._explicitalignment tr._background {
   background-color:#EEEEEE;
 }
-table._explicitalignment tr._background th:only-child {
+table._explicitalignment th:only-child {
   text-align:right;
   vertical-align:text-top;
   font-weight:bold;
