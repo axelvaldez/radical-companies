@@ -538,8 +538,10 @@ table._h2table td {
 table._explicitalignment tr th {
   vertical-align:text-top;
   text-align:right;
+  /*
   padding-right:1em;
-  border-right:4px solid #EEEEEE;
+  border-right:2px solid #EEEEEE;
+  */
   font-weight:bold;
   font-size:smaller;
   font-family:monospace;
@@ -557,7 +559,9 @@ table._explicitalignment tr._background th {
   vertical-align:text-top;
   text-align:left;
   padding-left:1em;
-  border-right:1px solid #EEEEEE;
+  /*
+  border-right:2px solid #EEEEEE;
+  */
   font-weight:bold;
   font-size:larger;
   font-family:'Times New Roman', Times, serif;
