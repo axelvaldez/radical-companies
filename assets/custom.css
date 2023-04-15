@@ -542,12 +542,12 @@ table._explicitalignment th {
   border-right:1px solid black;
   font-weight:bold;
   font-style:italic;
-  width:20%;
+  width:15%;
 }
 table._explicitalignment td {
   text-align:left;
   vertical-align:text-top;
-  width:80%;
+  width:75%;
 }
 table._explicitalignment tr._background {
   background-color:#EEEEEE;
