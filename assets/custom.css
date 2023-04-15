@@ -540,17 +540,18 @@ table._explicitalignment th {
   vertical-align:text-top;
   font-weight:bold;
   font-style:italic;
-  font-size:smaller;
 }
 table._explicitalignment td {
   text-align:left;
   vertical-align:text-top;
-  color:blue;
+  color:gray;
 }
 table._explicitalignment th:only-child {
   text-align:right;
   vertical-align:text-top;
   font-weight:bold;
   font-size:larger;
+}
+table._explicitalignment tr._background {
   background-color:#EEEEEE;
 }
