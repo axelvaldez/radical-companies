@@ -552,6 +552,7 @@ table._explicitalignment tr._background th {
   text-align:left;
   vertical-align:text-top;
   border-left:1px solid black;
+  padding-left:1em;
   font-weight:bold;
   font-size:larger;
 }
