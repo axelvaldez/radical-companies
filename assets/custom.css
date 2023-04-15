@@ -535,24 +535,11 @@ table._h2table td {
 /*
  Explict Alignment Table
  */
-table._explicitalignment tr._background {
-  width:80%;
-  background-color:#EEEEEE;
-}
-table._explicitalignment tr._background th {
-  vertical-align:text-top;
-  text-align:left;
-  padding-left:1em;
-  font-weight:bold;
-  font-size:larger;
-  font-family:'Times New Roman', Times, serif;
-  width:85%;
-}
 table._explicitalignment tr th {
   vertical-align:text-top;
   text-align:right;
   padding-right:1em;
-  border-right:1px solid blue;
+  border-right:1px solid red;
   font-weight:bold;
   font-size:smaller;
   font-family:monospace;
@@ -561,4 +548,18 @@ table._explicitalignment tr th {
 table._explicitalignment tr td {
   vertical-align:text-top;
   text-align:left;
+}
+table._explicitalignment tr._background {
+  width:80%;
+  background-color:#EEEEEE;
+}
+table._explicitalignment tr._background th {
+  vertical-align:text-top;
+  text-align:left;
+  padding-left:1em;
+  border-right:1px solid #EEEEEE;
+  font-weight:bold;
+  font-size:larger;
+  font-family:'Times New Roman', Times, serif;
+  width:85%;
 }
