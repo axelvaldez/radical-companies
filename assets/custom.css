@@ -539,27 +539,25 @@ table._explicitalignment tr th {
   vertical-align:text-top;
   text-align:right;
   padding-right:1em;
-  border-right:1px solid black;
+  border-right:1px dotted black;
   font-weight:bold;
   font-style:italic;
-  /*
-  width:15%;
-  */
 }
 table._explicitalignment tr td {
   vertical-align:text-top;
   text-align:left;
-  border-left:1px solid black;
+  border-left:1px dotted black;
 }
 table._explicitalignment tr._background {
   background-color:#EEEEEE;
   color:darkcyan;
+  width:80%;
 }
 table._explicitalignment tr._background th {
   vertical-align:text-top;
   text-align:left;
   padding-left:1em;
-  border-left:1px solid black;
+  border-left:1px solid red;
   font-weight:bold;
   font-size:larger;
   width:75%;
