@@ -542,11 +542,13 @@ table._explicitalignment tr th {
   border-right:1px solid black;
   font-weight:bold;
   font-style:italic;
+  font-size:smaller;
+  font-family:monospace;
+  font-variant:small-caps;
 }
 table._explicitalignment tr td {
   vertical-align:text-top;
   text-align:left;
-  font-family:"American Typewriter", monospaced;
 }
 table._explicitalignment tr._background {
   background-color:#EEEEEE;
