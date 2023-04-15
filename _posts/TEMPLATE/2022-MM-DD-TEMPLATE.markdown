@@ -87,30 +87,47 @@ image:    "icon-ptsd-and-trust.svg"
 <!-- EXPLICIT ALIGNMENT Table -->
  <div class="_center">
   <table class="_explicitalignment">
-   <tr>
+   <tr id="_background">
     <td></td>
     <th>Impact</th>
    </tr>
    <tr>
-    <th>What for?</th>
-    <td>Improve people&rsquo;s health.</td>
+    <td>What for?</td>
+    <td>
+     <ul>
+      <li>xxx.</li>
+     </ul>
+    </td>
    </tr>
-   <tr>
-   <tr>
+   <tr id="_background">
+    <td></td>
     <th>Purpose</th>
    </tr>
-    <th>Why?</th>
-    <td>Easy to get, healthy foods catered by neighbors.</td>
-   </tr>
    <tr>
+    <td>Why?</td>
+    <td>
+     <ul>
+      <li>xxx.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr id="_background">
+    <td></td>
     <th>Mission</th>
    </tr>
    <tr>
-    <th>What? When? How?</th>
-    <td></td>
+    <td>
+     What?<br>
+     When?<br>
+     How?
+    </td>
+    <td>
+     <ul>
+      <li>xxx.</li>
+     </ul>
+    </td>
    </tr>
   </table>
- </div>
 
 <!-- Explicit Relationship  Table -->
  <div class="_center">

@@ -36,55 +36,6 @@ image:    "icon-rmedia.svg"
   </ul>
  <p>It doesn&rsquo;t matter if all the posts were written by one author or several: Post 1.3 gets $1.67 one week and Post 2.3 gets $1.00 the following week.</p>
 
- <div class="_center">
-  <table class="_explicitalignment">
-   <tr id="_background">
-    <td></td>
-    <th>Impact</th>
-   </tr>
-   <tr>
-    <td>What for?</td>
-    <td>
-     <ul>
-      <li>Readers give, and writers get, more specific feedback for their content.</li>
-      <li>Authors can monetize their content in a way that is intuitive for readers.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr id="_background">
-    <td></td>
-    <th>Purpose</th>
-   </tr>
-   <tr>
-    <td>Why?</td>
-    <td>
-     <ul>
-      <li>Introduce people to <span class="_paradigm">RAD</span> Distributions.</li>
-      <li>Provide tangible feedback for writers.</li>
-      <li>Generate a source of monetary support for writers.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr id="_background">
-    <td></td>
-    <th>Mission</th>
-   </tr>
-   <tr>
-    <td>
-     What?<br>
-     When?<br>
-     How?
-    </td>
-    <td>
-     <ul>
-      <li>Release app&rsquo;s MVP to Apple/Android stores.</li>
-      <li>Apri 30, 2023.</li>
-      <li>TBD.</li>
-     </ul>
-    </td>
-   </tr>
-  </table>
- </div>
 <h1>Explicit Alignment</h1>
  <div class="_center">
   <table class="_explicitalignment">
