@@ -535,7 +535,7 @@ table._h2table td {
 /*
  Two-column table & Explict Alignment
  */
-table._explicitalignment th {
+table._explicitalignment tr th {
   vertical-align:text-top;
   text-align:right;
   padding-right:1em;
@@ -544,7 +544,7 @@ table._explicitalignment th {
   font-style:italic;
   width:15%;
 }
-table._explicitalignment td {
+table._explicitalignment tr td {
   vertical-align:text-top;
   text-align:left;
   border-left:1px solid black;
