@@ -536,8 +536,9 @@ table._h2table td {
  Two-column table & Explict Alignment
  */
 table._explicitalignment tr._background {
+  font-size:larger;
   background-color:#EEEEEE;
-  width:85%;
+  width:80%;
 }
 table._explicitalignment tr._background th {
   vertical-align:text-top;
