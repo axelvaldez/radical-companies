@@ -552,4 +552,5 @@ table._explicitalignment tr:only-child {
   vertical-align:text-top;
   font-weight:bold;
   font-size:larger;
+  background-color:#EEEEEE;
 }
