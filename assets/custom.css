@@ -538,7 +538,7 @@ table._h2table td {
 table._explicitalignment {
   width:80%;
 }
-table._explicitalignment tr th {
+table._explicitalignment tr th { /* left col */
   vertical-align:text-top;
   text-align:right;
   padding-right:1em;
@@ -550,14 +550,15 @@ table._explicitalignment tr th {
   font-family:monospace;
   font-variant:small-caps;
 }
-table._explicitalignment tr td {
+table._explicitalignment tr td { /* right col */
   vertical-align:text-top;
   text-align:left;
+  padding-left:0;
 }
 table._explicitalignment tr._background {
   background-color:#EEEEEE;
 }
-table._explicitalignment tr._background th {
+table._explicitalignment tr._background th { /* right col */
   vertical-align:text-top;
   text-align:left;
   /*
