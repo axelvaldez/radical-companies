@@ -1,0 +1,41 @@
+---
+layout:   post
+title:    "TEST!"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez"
+image:    "icon-rmedia.svg"
+---
+
+<div style="display: none; ">
+ <p>For authors, bloggers, and podcasters, <span class='_paradigm'>rMARK!</span> is primarily a source of specific, actionable feedback about their content.</p>
+</div>
+
+ <div class="_center">
+  <table class="_explicitalignment">
+   <tr id="_background">
+    <th>a Impact</th>
+   </tr>
+   <tr>
+    <td>What for?</td>
+    <td>xxx</td>
+   </tr>
+   <tr id="_background">
+    <th>Purpose</th>
+   </tr>
+   <tr>
+    <td>Why?</td>
+    <td>xxx</td>
+   </tr>
+   <tr id="_background">
+    <th>Mission</th>
+   </tr>
+   <tr>
+    <td>
+     What?<br>
+     When?<br>
+     How?
+    </td>
+    <td>xxx</td>
+   </tr>
+  </table>
+ </div>

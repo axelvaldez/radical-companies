@@ -523,26 +523,30 @@ table._h2table th {
   border-right:black 1px solid;
   padding-right:1em;
 }
-table._h2table th,
-table._explicitalignment th {
+table._h2table th {
   text-align:right;
   font-style:italic;
   vertical-align:text-top;
 }
-table._h2table td,
-table._explicitalignment td {
+table._h2table td {
   text-align:left;
   vertical-align:text-top;
 }
 /*
-table._explicitalignment tr._background tr.td {
+ Two-column table & Explict Alignment
+ */
+table._explicitalignment tr.th {
   text-align:right;
-  font-style:italic;
   vertical-align:text-top;
-}
-*/
-table._explicitalignment tr::nth-child(-n+1)  th {
   font-weight:bold;
+  font-size:larger;
+}
+table._explicitalignment th {
+  text-align:right;
+  vertical-align:text-top;
+  font-style:italic;
+}
+table._explicitalignment td {
   text-align:left;
   vertical-align:text-top;
 }
