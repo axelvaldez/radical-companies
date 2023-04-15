@@ -15,7 +15,7 @@ image:    "icon-rmedia.svg"
  <p id="_signature">Chad Kautzer.<br>Radical Philosophy, p 36.</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Intro</h1>
+<h1>Intro</h1>
  <p>A simple system recognize contributions that others have made to me, my team, or my company throughout time,</p>
  <ul>
   <li>Swipe to the right for people who help or contribute to you.</li>
@@ -24,16 +24,16 @@ image:    "icon-rmedia.svg"
  </ul>
  <p>The UI is obviously inspired by Tinder.</p>
  
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Making It Viral</h1>
+<h1>Making It Viral</h1>
  <p>Adding a non-<span style="font-size:smaller; ">RAD</span>s! person to my list will automatically generate an email to that person to 1) let her know she’s been added to my list, and 2) invite her to download the app and start to give out <span style="font-size:smaller; ">RAD</span>s. In as much as this app (evolutionary) strengthens the group of original users, it will spread to other people (<em>i.e.</em>, <span style="font-size:smaller; ">RAD</span>-receiving candidates) organically.</p>
  <p>Those who chose to not use the app—and therefore chose not to give <span style="font-size:smaller; ">RAD</span>s—will still receive them. This may continue forever, or it may be that over time they will get less and less (<em>i.e.</em>, “there’s no tit-for-tat!”). In any case, these folks are not to be punished in any way (<em>e.g.</em>, money would still flow through the <span style="font-size:smaller; ">RAD</span>s they do have).</p>
  
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Distribution Cycles</h1>
+<h1>Distribution Cycles</h1>
  <p>The system supports a periodic distribution cycle. Any user can specify it (<em>e.g.</em>, weekly, monthly, or every 45 day) as she wishes. People may get together and hold Distributions at different times. In other words, there is no “correct” or “corporate” cycle time that will apply to all. People can even switch from one cycle time to another as they wish.</p>
  <p>At the end of a <span style="font-size:smaller; ">RADICAL</span> Distribution, after all <span style="font-size:smaller; ">RAD</span>s have been allocated, a Global RESET command is broadcast to all people associated with a specific cycle time. For example, all the “full moon” people get together outside, under a full moon, allocate their <span style="font-size:smaller; ">RAD</span>s, have their retrospectives, along with food and drink, and dance, and arguments, and whatever else they choose to do. At the end of it, a Reset is sent to all the “full moon” people and their lists and allocations are reset to the baseline. Unless they block it.</p>
  <p>The app supports a manual RESET (<em>i.e.</em>, reset all my lists and allocation to factory setting, so to speak), a Global RESET block (<em>i.e.</em>, don’t accept Global RESET), and even a manual UN-RESET (<em>i.e.</em>, undo the latest RESET, whether Global or Manual).</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Also Supports</h1>
+<h1>Also Supports</h1>
  <ul>
   <li>Adding people: name, picture, miscellaneous data. This can be done manually or through integration with other software.</li>
   <li>Adding Banners. These can be private or broadcast through the system (backend).</li>
@@ -46,7 +46,7 @@ image:    "icon-rmedia.svg"
   <li>This list can be presented by time periods (<em>e.g.</em>, per month), “with most RIGHTs,” “with most LEFTs,” “Banners created,” “not mentioned for N days,” etc.</li>
  </ul>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Alignment</h1>
+<h1>Alignment</h1>
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
   <tr>
@@ -104,7 +104,7 @@ image:    "icon-rmedia.svg"
  </tbody>
  <table>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; margin-top:40px; ">Other</h1>
+<h1>Other</h1>
  <ul>
   <li><em>RADs!</em> and <em><a href="https://docs.google.com/document/d/1KdmAd_TV0GyKiOCQhyVp7FNffzwGwooIETbs9IVBSgc/edit?usp=sharing">Remark!</a></em> will eventually share a backend.</li>
   <li>For more detail, see the <a href="https://docs.google.com/spreadsheets/d/1ckdZEl_SaNOSB6X-2_iSvvqXsAcDz-GnMtICpRByYdU/edit#gid=0">Limitless Clothing <span style="font-size:smaller; ">RAD</span> Distribution</a>, a manual prototype of <span style="font-size:smaller; ">RAD</span>s.</li>
