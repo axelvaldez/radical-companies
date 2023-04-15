@@ -13,7 +13,7 @@ image:    ""
  <div class="_center">
   <table class="_explicitalignment">
    <tr class="_background">
-    <td>xxx</td>
+    <td></td>
     <th>Impact</th>
    </tr>
    <tr>
@@ -21,7 +21,7 @@ image:    ""
     <td>xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx</td>
    </tr>
    <tr class="_background">
-    <td>xxx</td>
+    <td></td>
     <th>Purpose</th>
    </tr>
    <tr>
@@ -29,7 +29,7 @@ image:    ""
     <td>xxx</td>
    </tr>
    <tr class="_background">
-    <td>xxx</td>
+    <td></td>
     <th>Mission</th>
    </tr>
    <tr>
