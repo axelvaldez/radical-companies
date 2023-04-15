@@ -539,7 +539,7 @@ table._explicitalignment td {
   text-align:left;
   vertical-align:text-top;
 }
-table._explicitalignment tr {
+table._explicitalignment tr::nth-child(-n+2) {
   background-color:#EEE;
   vertical-align:text-top;
 }
