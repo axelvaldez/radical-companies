@@ -547,7 +547,7 @@ table._explicitalignment td {
   vertical-align:text-top;
   color:red;
 }
-table._explicitalignment tr:only-child {
+table._explicitalignment th:only-child {
   text-align:right;
   vertical-align:text-top;
   font-weight:bold;
