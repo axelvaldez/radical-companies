@@ -36,7 +36,6 @@ image:    "icon-rmedia.svg"
   </ul>
  <p>It doesn&rsquo;t matter if all the posts were written by one author or several: Post 1.3 gets $1.67 one week and Post 2.3 gets $1.00 the following week.</p>
 
-
  <div class="_center">
   <table class="_explicitalignment">
    <tr id="_background">
