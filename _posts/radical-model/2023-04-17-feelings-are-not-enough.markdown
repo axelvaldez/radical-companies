@@ -7,11 +7,11 @@ image:    "icon-feelings-are-not-enough.svg"
 ---
 
 <div style="display:none;">
- <p>My feelings are never reflected in the world, my relationships are. I cannot relate to the world outside my head directly, only through my relationships.</p>
+ <p>My feelings are never reflected in the world, my relationships are. I can relate to the world outside my head only through my relationships.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>My feelings are never reflected in the world, my relationships are. Relationships are the way that I relate to the world. I cannot relate to the world outside my head directly, only through my relationships.</p>
+ <p>My feelings are never reflected in the world, my relationships are. Relationships are the way that I relate to the world. I can relate to the world outside my head only through my relationships.</p>
  <p>Relationships with people, sometimes through things. Through paintings, through sculpture, through the written word. But ultimately with people. Feelings that get out of my head and guide my actions.</p>
 
 <h1>Selective Listening</h1>
