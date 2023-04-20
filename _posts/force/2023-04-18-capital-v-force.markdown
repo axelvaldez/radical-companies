@@ -7,7 +7,7 @@ image:    "icon-capital-v-force.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>Capital versus force, that is what Karl Mark is warmly remembered for. A distinction without a difference. Capital to buy force, versus the proletariat’s sacrificial force.</p>
 </div>
 
 <h1>Capital v Force</h1>
