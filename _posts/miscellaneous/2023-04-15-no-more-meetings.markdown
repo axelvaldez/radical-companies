@@ -14,8 +14,8 @@ image:    "icon-no-more-meetings.svg"
  <p>Instead of having &ldquo;meetings&rdquo; we are going to try having &ldquo;collaboration&rsquo; or &ldquo;coordination&rsquo; meetings. Of course, <span class="_quotespan">do not have a meeting unless you have an agenda,</span> but naming it makes it more to the point and it also limits the agenda.</p>
 
 <div class="_next">
- <span style="float:left; " >                                                                       &lt; Previous</span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2023/04/15/no-more-meetings">    Next &gt;</a></span>
+ <span style="float:left; " >                                                                             &lt; Previous</span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2023/04/16/no-more-deadlines.html">    Next &gt;</a></span>
 </div>
 
 {% include related.html %}
