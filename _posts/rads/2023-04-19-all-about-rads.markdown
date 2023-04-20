@@ -7,7 +7,7 @@ image:    "icon-all-about-rads.svg"
 ---
 
 <div style="display:none;">
- <p>A RAD is a dimensionless unit and people measure their contributions with <span class='_paradigm'>RAD</span>s. They represent any kind of contribution, not just financial.</p>
+ <p>A RAD is a dimensionless unit that measure contribution. Any kind, not just financial.</p>
 </div>
 
 <h1>What Are <span class='_paradigm'>RAD</span>s?</h1>
