@@ -25,8 +25,8 @@ image:    "icon-exit-to-community.svg"
    <li>There is a Board, but no &ldquo;chair.&rdquo;</li>
    <li>Every seat gets a new person on a regular basis.</li>
    <li>The rules governing the Board, are determined outside the Board.</li>
-   <li>
-   <li>Decisions are made by consent, not consensus.</li>
+   <li>Decisions are made by consent, not consensus. The person with the most RADs is the tie breaker.</li>
+   <li></li>
    <li></li>
    <li>
 
