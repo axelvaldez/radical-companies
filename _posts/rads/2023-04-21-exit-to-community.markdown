@@ -7,7 +7,7 @@ image:    "icon-exit-to-community.svg"
 ---
 
 <div style="display:none;">
- <p>I saw read a brilliant Exit-to-Community proposal that can be a step towards co-ownership.</p>
+ <p>I just read a brilliant Exit-to-Community proposal, in the sfba.social Mastodon server, that could be a step towards co-ownership.</p>
 </div>
 
 <h1>&nbsp;</h1>
