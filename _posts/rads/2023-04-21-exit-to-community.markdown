@@ -15,8 +15,8 @@ image:    "icon-exit-to-community.svg"
  <div class="_center">
   <img
    src="/assets/img/pic-exit-to-community.svg"
-   width="50%"
-   alt="">
+   width="30%"
+   alt="The proposal reads—what if a business 'going public' meant being converted into a cooperative. The #founder gets their cash payout for building something of value to the community by actually *selling* it to the community? Power to the people.">
  </div>
  <p>Rather than selling the whole company to &ldquo;employee&rdquo;, selling the majority of it.</p>
  <p>It would also have to include,</p>
