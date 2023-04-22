@@ -45,7 +45,7 @@ image:    "icon-all-about-rads.svg"
   <img
    src="/assets/img/pic-recognitions-to-rads-equationxxx.svg"
    width="70%"
-   alt="This is a formula to convert recognized contributions to RADs. The app calculates the number of contributions you recognized for each co-owner multiplied by the  total percentage of contributions you have recognized during the cycle. This ratio is then multiplied by the number of RADs accumulated in the cycle. The result is the number of RADs given to a each co-owner.">
+   alt="This is a formula to convert recognized contributions to RADs. The app calculates a ratio of the number of contributions you recognized for each co-owner dividec by the  total percentage of contributions you have recognized during the cycle. The number of recognized contribution is then multiplied by this ratio and the number of RADs accumulated in the cycle. The result is the number of RADs given to a each co-owner.">
  </div>
 
 <h1>Teaching <span class='_paradigm'>RAD</span>s</h1>
