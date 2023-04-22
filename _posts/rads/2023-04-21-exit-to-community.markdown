@@ -7,11 +7,11 @@ image:    "icon-exit-to-community.svg"
 ---
 
 <div style="display:none;">
- <p>I just read an &ldquo;exit&rdquo; proposal in the sfba.social Mastodon server that could be a step towards co-ownership.</p>
+ <p>I just read an &ldquo;exit&rdquo; proposal in the <em>sfba.social</em> Mastodon server that could be a step towards co-ownership.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>I just read an &ldquo;exit&rdquo; proposal in the sfba.social Mastodon server that could be a step towards co-ownership.</p>
+ <p>I just read an &ldquo;exit&rdquo; proposal in the <em>sfba.social</em> Mastodon server that could be a step towards co-ownership.</p>
  <div class="_center">
   <img
    src="/assets/img/pic-exit-to-community.svg"
