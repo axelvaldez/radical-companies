@@ -51,7 +51,7 @@ image:    "icon-all-about-rads.svg"
 
 <h1>Teaching <span class='_paradigm'>RAD</span>s</h1>
  <p>People are the best judges of what a contribution is. Sure, they may grant <span class='_paradigm'>RAD</span>s and later regret it. In fact, that change of heart might have come as result of a conversation with other co-owners. That is how people learn!</p>
- <p>One more thing: As people share and grant each other <span class='_paradigm'>RAD</span>s, they also learn the value of what they&rsquo;re building <em>together</em> at a visceral level.</p>
+ <p>One more thing: As people share and grant each other <span class='_paradigm'>RAD</span>s, they also learn the value of <em>what they&rsquo;re building together</em> at a visceral level.</p>
 
 <h1>Receiving <span class='_paradigm'>RAD</span>s</h1>
  <p>The number of <span class='_paradigm'>RAD</span>s you have determines your level of co-ownership.</p>
