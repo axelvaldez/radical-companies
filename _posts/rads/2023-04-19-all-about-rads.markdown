@@ -38,9 +38,8 @@ image:    "icon-all-about-rads.svg"
 <h1>Recognizing Contributions</h1>
  <ul>
   <li>There is a mobile <em>RADs! app</em> to make it easy to give <span class='_paradigm'>RAD</span>s on your phone.</li>
-  <li>Co-owners get to press a button in <em>the RADs! app</em> whenever they want to <em>recognize contributions.</em></li>
-  <li>For any <em>contribution</em>, they can press this <em>recognition</em> button as many times as they feel like.</li>
-  <li>At the end of the cycle, <em>the RADs! app converts</em> these recognitions to <span class='_paradigm'>RAD</span>s.</li>
+  <li>Co-owners get to press a button in <em>the RADs! app</em> whenever they want to <em>recognize contributions.</em> They can press this <em>recognition</em> button as many times as they feel like.</li>
+  <li>At the end of the cycle, <em>the RADs! app</em> converts these recognitions to <span class='_paradigm'>RAD</span>s.</li>
  </ul>
  <div class="_center">
   <img
