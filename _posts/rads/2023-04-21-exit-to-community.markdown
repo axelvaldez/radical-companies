@@ -7,18 +7,18 @@ image:    "icon-exit-to-community.svg"
 ---
 
 <div style="display:none;">
- <p>I just read a brilliant &ldquo;exit&rdquo; proposal in the sfba.social Mastodon server that could be a step towards co-ownership.</p>
+ <p>I just read an &ldquo;exit&rdquo; proposal in the sfba.social Mastodon server that could be a step towards co-ownership.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>I just read a brilliant &ldquo;exit&rdquo; proposal in the sfba.social Mastodon server that could be a step towards co-ownership.</p>
+ <p>I just read an &ldquo;exit&rdquo; proposal in the sfba.social Mastodon server that could be a step towards co-ownership.</p>
  <div class="_center">
   <img
    src="/assets/img/pic-exit-to-community.svg"
    width="50%"
    alt="">
  </div>
- <p>Rather than selling the whole company to &ldquo;employee&rdquo;, selling the majority of it. Brilliant.</p>
+ <p>Rather than selling the whole company to &ldquo;employee&rdquo;, selling the majority of it.</p>
  <p>It would also have to include,</p>
   <ul>
    <li>All shares have the same &ldquo;voting&rdquo; right.</li>
