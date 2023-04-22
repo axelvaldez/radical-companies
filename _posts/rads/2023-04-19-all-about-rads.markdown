@@ -44,7 +44,7 @@ image:    "icon-all-about-rads.svg"
  </ul>
  <div class="_center">
   <img
-   src="/assets/img/pic-recognitions-to-rads-equation.svg"
+   src="/assets/img/pic-recognitions-to-rads-equationxxx.svg"
    width="70%"
    alt="This is a formula to convert recognized contributions to RADs. The app calculates a factor by first dividing the number of individual recognitions given a co-owner, by the the total recognitions given during that cycle. This represents the percentage of all recognitions given during the cycle. this percentage is multiplied by the number of accumulated RADs in the cycle. If the cycle is, say, monthly you would accumulated 29, or 30, or 31 RADs. The number of contributions you recognized for each co-owner, times the  percentage of recognitions divided by the number of RADs accumulated in the cycle, is equal to the number of RADs given to a co-owners.">
  </div>
