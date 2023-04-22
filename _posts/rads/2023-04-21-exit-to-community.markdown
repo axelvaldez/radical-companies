@@ -21,10 +21,10 @@ image:    "icon-exit-to-community.svg"
  <p>This means retaining some part of the company rather than selling the whole company to &ldquo;employees.&rdquo; Of course, rather than selling to a cooperative, this could a transitional situation towards a <class='_paradigm'>RADICAL</span>, co-owned company.</li>
   <ul>
    <li>The shares of the &ldquo;owner&rdquo; and the shares sold to the &ldquo;employees&rdquo have the same rights.</li>
-   <li>There is a Board, but no &ldquo;Chair.&rdquo;</li>
-   <li>Every seat on the Board is turned over to a new person on a regular basis.</li>
-   <li>All rules governing the Board, are determined by a Leadership Team outside the Board.</li>
-   <li>There is no voting and decisions are made by consent, not consensus.</li>
+   <li>There is a Board, but no &ldquo;Chair.&rdquo; Think of it as a recurring Leadership Team that meets the requirements of a Board of Directors.</li>
+   <li>Every seat on the Board is turned over to a new person on a regular basis. Of course, the people in the company can decide otherwise and, for example, gibve the old &ldquo;owner&rdquo; a permenent seat at the table. That is dangerous. An alternative would be to give the old &ldquo;owner&rdquo; a Board seat for a given number of years.</li>
+   <li>All rules governing the Board, are determined by a team outside the Board.</li>
+   <li>There is no voting. Decisions are made by consent, not consensus.</li>
    <li>If it ever comes to pass, the person with the most <span class='_paradigm'>RAD</span>s is the tie breaker.</li>
   </ul>
 
