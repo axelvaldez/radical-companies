@@ -15,7 +15,7 @@ image:    "icon-exit-to-community.svg"
  <div class="_center">
   <img
    src="/assets/img/pic-exit-to-community.svg"
-   width="70%"
+   width="50%"
    alt="">
  </div>
  <p>Rather than selling the whole company to &ldquo;employee&rdquo;, selling the majority of it. Brilliant.</p>
