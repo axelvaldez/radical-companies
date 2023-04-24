@@ -19,6 +19,6 @@ image:    "icon-capital-v-force.svg"
  <div class="_speakera">On behalf of the proletariat, yes!</div>
  
 <h1>Blindness</h1>
- <p>Karl Marx was blind to the <span class='_paradigm'>FIAT</span> system. He would have change the owners, from capitalist to &rdquo;new man,&rdquo; but kept the <span class='_paradigm'>FIAT</span> system in place. That never works for long, in government or business.</p>
+ <p>Karl Marx was blind to the <span class='_paradigm'>FIAT</span> system. He would have switched the owners, from capitalist to &rdquo;new man,&rdquo; but kept the <span class='_paradigm'>FIAT</span> system itself. In government and businessm, both <span class='_paradigm'>FIAT</span> organizations, that is like putting lipstick on the pig.</p>
 
 {% include related.html %}
