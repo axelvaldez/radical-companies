@@ -19,7 +19,7 @@ image:    "icon-exit-to-community.svg"
    alt="The proposal reads—what if a business 'going public' meant being converted into a cooperative. The #founder gets their cash payout for building something of value to the community by actually *selling* it to the community? Power to the people.">
  </div>
  <p>The brilliant part is positioning it as an &ldquo;exit&rdquo;</p>
- <p>This could a transitional situation towards a <span class='_paradigm'>RADICAL</span>, co-owned company.</p>
+ <p>This could become a transitional situation towards co-owned, <span class='_paradigm'>RADICAL</span> companiesa.</p>
   <ul>
    <li>The shares of the &ldquo;owner&rdquo; and the shares sold to the &ldquo;employees&rdquo have the same rights.</li>
    <li>There is a Board, but no &ldquo;Chair.&rdquo; Think of it as a recurring Leadership Team that meets the requirements of a Board of Directors.</li>
