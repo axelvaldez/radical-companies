@@ -11,7 +11,7 @@ image:    "icon-capital-v-force.svg"
 </div>
 
 <h1>Capital v Force</h1>
- <p>Capital versus force, that is of the things that Karl Mark is remembered for: capital to buy force, versus the proletariat’s sacrificial force. A distinction without a difference. Capitalists won’t have their way anymore based on their capital. A New Man, emancipated from egotism, will rise and will run the (same) <span class="_paradigm">FIAT<span> system on behalf of the proletariat.</p>
+ <p>Capital versus force, that is of the things that Karl Mark is remembered for: capital to buy force, versus the proletariat’s sacrificial force. A distinction without a difference. Capitalists won’t have their way anymore based on their capital. A New Man, emancipated from egotism, will rise and will run the (same) <span class="_paradigm">FIAT</span> system on behalf of the proletariat.</p>
  <div class="_speakera">First, the proletariat will take the capitalist down by <em>force</em>. Then they will use the riches they capture to create a system that is fair to the proletariat.</div>
  <div class="_speakerb">Good. But how will this fair-to-all situatiobn come about?</div>
  <div class="_speakera">Well, we will figure that out as we go. In the meantime, we will hold the capital on behalf of the proletariat.</div>
