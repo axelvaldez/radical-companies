@@ -20,5 +20,6 @@ image:    "icon-capital-v-force.svg"
  
 <h1>Blindness</h1>
  <p>Karl Marx was blind to the <span class='_paradigm'>FIAT</span> system. He would have switched the owners, from capitalist to &rdquo;new man,&rdquo; but kept the <span class='_paradigm'>FIAT</span> system itself. In government and businessm, both <span class='_paradigm'>FIAT</span> organizations, that is like putting lipstick on the pig.</p>
+ <p>The important thing is to make the <span class='_paradigm'>FIAT</span> system visible to the people it hurts. Finding an alternative will go up in priority.</p>
 
 {% include related.html %}
