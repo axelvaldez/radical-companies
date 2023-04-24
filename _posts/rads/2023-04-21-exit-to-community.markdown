@@ -21,7 +21,7 @@ image:    "icon-exit-to-community.svg"
  <p>The brilliant part is positioning it as an &ldquo;exit&rdquo;</p>
  <p>This could become a transitional situation towards co-owned, <span class='_paradigm'>RADICAL</span> companiesa.</p>
   <ul>
-   <li>The shares of the &ldquo;owner&rdquo; and the shares sold to the &ldquo;employees&rdquo have the same rights.</li>
+   <li>The shares of the &ldquo;owner&rdquo; and the shares sold to the &ldquo;employees&rdquo; have the same rights.</li>
    <li>There is a Board, but no &ldquo;Chair.&rdquo; Think of it as a recurring Leadership Team that meets the requirements of a Board of Directors.</li>
    <li>Every seat on the Board is turned over to a new person on a regular basis. Of course, the people in the company can decide otherwise and, for example, gibve the old &ldquo;owner&rdquo; a permenent seat at the table. That is dangerous. An alternative would be to give the old &ldquo;owner&rdquo; a Board seat for a given number of years.</li>
    <li>All rules governing the Board, are determined by a team outside the Board.</li>
