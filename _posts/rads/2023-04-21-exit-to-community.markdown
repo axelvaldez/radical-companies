@@ -23,7 +23,7 @@ image:    "icon-exit-to-community.svg"
   <ul>
    <li>The shares of the &ldquo;owner&rdquo; and the shares sold to the &ldquo;employees&rdquo; have the same rights.</li>
    <li>If the law requires it, there is a Board, but no &ldquo;Chair.&rdquo; Think of it as a recurring Leadership Team that meets the requirements of a Board of Directors.</li>
-   <li>Every seat on the Board is turned over to a new person on a regular basis. Of course, the people in the company can decide what they way, for example, give the old &ldquo;owner&rdquo; a permenent seat on the Board. But that is <span class='_paradigm'>FIAT</span> and dangerous.</li>
+   <li>Every seat on the Board is turned over to a new person on a regular basis.</li>
    <li>All rules governing the Board, are determined by people outside the Board.</li>
    <li>There is no voting. Decisions are made by consent, not consensus.</li>
    <li>If it ever comes to pass, the person with the most <span class='_paradigm'>RAD</span>s is the tie breaker.</li>
