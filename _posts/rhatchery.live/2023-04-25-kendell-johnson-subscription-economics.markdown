@@ -22,12 +22,28 @@ image:    "icon-kendell-johnson-subscription-economy.svg"
   <p id="_signature">Buckminster Fuller</p>
  </div>
  <p>For my generation (1951) the believe was that if you &ldquo;got good grades&rdquo; and &ldquo;worked hard&rdquo;, you had a chance to do good, better than your parents. And indeed, that was the case for some of us (<em>i.e.</em>, white, lower middle-class). But that is not the case any more for most young people. The belief is gone, the reality is different. So, screw it.</p>
-
-<h1>Fuller</h1>
- <p>Buckminster Fuller talked about making things lighter. The Dymaxion House and the Dymaxion Car were meant to be physically lighter. But another way to make things <em>lighter</em> is by not possesing a permanent house or a car and susbcribing to them instead. These days I can &ldquo;posses&rdquo; a house for a week, or a month and then move on to the next. I can &ldquo;posses&rdquo; a ride, and a driver, temporarily and then move on to the next. That is a &ldquo;light&rdquo; as things get get.</p>
-
-<h1>Circolo</h1>
- Álvaro Daza Hernández
-
+ <div class="center">
+  <table class="h2table">
+   <tr>
+    <th>Fuller</th>
+    <td>
+     <p>Buckminster Fuller talked about making things lighter. The Dymaxion House and the Dymaxion Car were meant to be physically lighter. But another way to make things  <em>lighter</em> is by not possesing a permanent house or a car and susbcribing to them instead. These days I can &ldquo;posses&rdquo; a house for a week, or a month and then move on to the next. I can &ldquo;posses&rdquo; a ride, and a driver, temporarily and then move on to the next.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>Frictionless</th>
+    <td>
+     <p>My friend, Álvaro Daza started a company to make things frictionless for digital nomads. Frictionless is equivalent to light in this context.</p>
+     <p>Digital Nomads have realized that they can live and work anywhere in the world. What Circolo, my friend&rsquo;s company, is doing for them is to make mundane things like insurance and housing frictionless. Add a subscription model on top and we are making the world pretty light. As a counterexample, a long while back my friends moved to Japan for a few years and he had to ship all their furniture there. Today that would be a crazy thing to do.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>eResidency</th>
+    <td>
+     <p>Even residency is on play. The Estonians are making &ldquo;residency&rdquo; frictionless with their eResidency program.</p>
+    </td>
+   <tr>
+  </table>
+ </div>
 
 {% include related.html %}
