@@ -109,7 +109,7 @@ image:    "icon-ptsd-and-trust.svg"
 <!-- EXPLICIT ALIGNMENT Table -->
  <div class="_center">
   <table class="_explicitalignment">
-   <tr class="_background">
+   <tr id="_background">
     <td></td>
     <th>Impact</th>
    </tr>
@@ -117,7 +117,7 @@ image:    "icon-ptsd-and-trust.svg"
     <th>What for?</th>
     <td>xxx</td>
    </tr>
-   <tr class="_background">
+   <tr id="_background">
     <td></td>
     <th>Purpose</th>
    </tr>
@@ -125,7 +125,7 @@ image:    "icon-ptsd-and-trust.svg"
     <th>Why?</th>
     <td>xxx</td>
    </tr>
-   <tr class="_background">
+   <tr id="_background">
     <td></td>
     <th>Mission</th>
    </tr>

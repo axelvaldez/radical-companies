@@ -49,7 +49,7 @@ image:    "icon-rmedia.svg"
 <h1>Alignment</h1>
  <div class="_center">
   <table class="_explicitalignment">
-   <tr class="_background">
+   <tr id="_background">
     <td></td>
     <th>Impact</th>
    </tr>
@@ -86,65 +86,6 @@ image:    "icon-rmedia.svg"
     </tr>
   </table>
  </div>
-
-<!--
- <table>
- <tbody style="font-size:smaller; vertical-align:top; ">
-  <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Impact</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What for?</td>
-   <td>
-    <ul>
-     <li>A tool for remembering and keeping affine groups connected</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Purpose</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">Why?</td>
-   <td>
-    <ul>
-     <li>To support <span class="_paradigm">RAD</span> Distributions.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:center; ">Mission</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">What?</td>
-   <td>
-    <p>There is no hard criteria for this and could be any kind of contribution, whatever the user considers a valuable contribution (<em>e.g.</em>, number of checkins, a significant conversation).</p>
-    <ul>
-     <li>Keep track of people and Banners who are candidates for getting <span class="_paradigm">RAD</span>s.</li>
-     <li>Keep track of people you need to give feedback to.</li>
-     <li>Send your distribution at the end of the month.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">When?</td>
-   <td>
-    <ul>
-     <li>TBD</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; padding-right:1em; border-right:1px solid black; ">How?</td>
-   <td>
-    <ul>
-     <li>Xipe Technologies in Hermosillo, Mexico</li>
-    </ul>
-   </td>
-  </tr>
- </tbody>
- <table>
- -->
 
 <h1>Other</h1>
  <p><em>RADs!</em> and Remark! will eventually share a backend.</p>
