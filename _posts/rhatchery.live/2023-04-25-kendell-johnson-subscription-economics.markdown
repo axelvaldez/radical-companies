@@ -12,7 +12,7 @@ image:    "icon-kendell-johnson-subscription-economy.svg"
 
 <div>
  <p class='_citation'>You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.</p>
- <p id='_signature'>Buckminster Fuller</p>
+ <p class='_signature'>Buckminster Fuller</p>
 </div>
 
 <h1>&nbsp;</h1>
