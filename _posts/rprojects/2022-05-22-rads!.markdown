@@ -28,7 +28,7 @@ image:    "icon-rmedia.svg"
  
 <h1>Also Supports</h1>
  <div class="_center">
-  <table class="h2table">
+  <table class="_h2table">
    <tr>
     <th>Adding people</th>
     <td>Name, picture, miscellaneous data. This can be done manually or through integration with other software.</td>
