@@ -562,11 +562,14 @@ table._explicitalignment tr._background {
   background-color:#EEEEEE;
   text-align:left;
 }
-table._explicitalignment tr._background th { /* right col */
+table._explicitalignment tr._background th {
   vertical-align:text-top;
   text-align:left;
   font-weight:bold;
   font-size:larger;
   font-family:'Times New Roman', Times, serif;
-  width:85%;
+  width:50%;
 }
+
+
+table._explicitalignment tr._background th
