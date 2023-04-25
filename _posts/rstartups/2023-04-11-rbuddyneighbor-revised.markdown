@@ -23,7 +23,7 @@ image:    "icon-buddyneighbor.svg"
    </tr>
    <tr>
     <th>What for?</th>
-    <td>Build community of neighbors.</td>
+    <td>Build strong, face-to-face community of neighbors.</td>
    </tr>
    <tr id="_background">
     <td></td>
@@ -31,7 +31,7 @@ image:    "icon-buddyneighbor.svg"
    </tr>
    <tr>
     <th>Why?</th>
-    <td>Make it easy for neighbors to meet while doing favors for each other.</td>
+    <td>To make it easy for neighbors to meet while doing favors for each other.</td>
    </tr>
    <tr id="_background">
     <td></td>
