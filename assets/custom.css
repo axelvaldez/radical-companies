@@ -560,6 +560,7 @@ table._explicitalignment tr td { /* right col */
 }
 table._explicitalignment tr._background {
   background-color:#EEEEEE;
+  text-align:left;
 }
 table._explicitalignment tr._background th { /* right col */
   vertical-align:text-top;
