@@ -55,25 +55,17 @@ image:    "icon-rmedia.svg"
    </tr>
    <tr>
     <th>What for?</th>
-   <td>
-    <ul>
-     <li>A tool for remembering and keeping affine groups connected</li>
-    </ul>
-   </td>
+    <td>A tool for remembering and keeping affine groups connected</td>
    </tr>
-   <tr class="_background">
+   <tr id="_background">
     <td></td>
     <th>Purpose</th>
    </tr>
    <tr>
     <th>Why?</th>
-   <td>
-    <ul>
-     <li>To support <span class="_paradigm">RAD</span> Distributions.</li>
-    </ul>
-   </td>
+    <td>To support <span class="_paradigm">RAD</span> Distributions.</td>
    </tr>
-   <tr class="_background">
+   <tr id="_background">
     <td></td>
     <th>Mission</th>
    </tr>
@@ -83,14 +75,15 @@ image:    "icon-rmedia.svg"
      When?<br>
      How?
     </th>
-    <p>There is no hard criteria for this and could be any kind of contribution, whatever the user considers a valuable contribution (<em>e.g.</em>, number of checkins, a significant conversation).</p>
-    <ul>
-     <li>Keep track of people and Banners who are candidates for getting <span class="_paradigm">RAD</span>s.</li>
-     <li>Keep track of people you need to give feedback to.</li>
-     <li>Send your distribution at the end of the month.</li>
-    </ul>
-   </td>
-   </tr>
+    <td>
+     <p>There is no hard criteria for this and could be any kind of contribution, whatever the user considers a valuable contribution (<em>e.g.</em>, number of checkins, a significant conversation).</p>
+      <ul>
+       <li>Keep track of people and Banners who are candidates for getting <span class="_paradigm">RAD</span>s.</li>
+       <li>Keep track of people you need to give feedback to.</li>
+       <li>Send your distribution at the end of the month.</li>
+      </ul>
+     </td>
+    </tr>
   </table>
  </div>
 

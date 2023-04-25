@@ -115,7 +115,7 @@ image:    "icon-ptsd-and-trust.svg"
    </tr>
    <tr>
     <th>What for?</th>
-    <td>Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras.</td>
+    <td>xxx</td>
    </tr>
    <tr class="_background">
     <td></td>
