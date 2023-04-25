@@ -45,7 +45,7 @@ image:    "icon-kendell-johnson-subscription-economy.svg"
     <td>
      <p>Even residency is on play. The Estonians are making &ldquo;residency&rdquo; frictionless with their eResidency program.</p>
     </td>
-   <tr>
+   </tr>
   </table>
  </div>
 
