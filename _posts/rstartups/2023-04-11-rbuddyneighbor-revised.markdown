@@ -229,16 +229,13 @@ image:    "icon-buddyneighbor.svg"
  <div class="_center">
   <table class="_background, _h2table">
    <tr>
+   <tr>
     <th>Commuting</th>
     <td>
       <p>This can also work for commuting, either as a one time thing, or on a regular basis. <span class="_quotespan">I need to get to San Carlos tomorrow by 10 am.</span> Or, <span class="_quotespan">I work in Mountain View, looking for a <span class="_paradigm">rBuddyNeighbor</span> to commute with.</span> The response from the system could be three potential <span class="_paradigm">rBuddyNeighbor</span>s, or other commuters that are open to another rider.</p>
       <p>It would be commuting with people who live nearby. People that you may even know. People you can have a lasting relationship with.</p>
     </td>
    </tr>
-  </table>
- </div>
- <div class="_center">
-  <table class="_background, _h2table">
    <tr>
     <th>International</th>
     <td>
@@ -246,11 +243,6 @@ image:    "icon-buddyneighbor.svg"
      <p>For example, I can put in a request for Coyotas del Parque in Hermosillo, Mexico. Somebody from my neighborhood who happens to be in Hermosillo, picks up my order and brings it. Since we live nearby, my <span class="_paradigm">Buddy</span> let&rsquo;s me know when I can pick them up at his place.</p>
     </td>
    </tr>
-  </table>
- </div>
- <div class="_center">
-  <table class="_background, _h2table">
-   <tr>
     <th>Group Invitations (Community Organizing)</th>
     <td>
      <p>The scenario is like this, I hear that there&rsquo;s going to be a demonstration outside the office of a local politician. The organizers went to <span class="_paradigm">rBuddyNeighbor</span>s and announced their event. I ask for the details and the system sends my request to the organizers. They contact me with the details and I go.</p>
@@ -258,10 +250,6 @@ image:    "icon-buddyneighbor.svg"
      <p>Group Invitations opens the door to Nazi rallies, or white supremacist groups. Tread carefully.</p>
     </td>
    </tr>
-  </table>
- </div>
- <div class="_center">
-  <table class="_background, _h2table">
    <tr>
     <th>Less Desirable Activities</th>
     <td>
