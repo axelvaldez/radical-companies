@@ -19,7 +19,7 @@ image:    "icon-rmedia.svg"
  <p>A simple mobile app to recognize contributions that others have to me, my team, or my company throughout time</p>
  
 <h1>Making It Viral</h1>
- <p>Adding a non-<em><span class="_paradigm">RAD</span>s!</em> person to my list will automatically generate an email to that person to 1) let her know she&rsquo;s been added to my list, and 2) invite her to download the app and start to give out <span class="_paradigm">RAD</span>s. This app will strengthen the group of original users as it spreads organically to other people.</p>
+ <p>Adding a non-<em><span class="_paradigm">RAD</span>s!</em> person to my list will automatically generate an email to 1) let her know she&rsquo;s been added to my list, and 2) invite her to download the app and start to give out <span class="_paradigm">RAD</span>s. This app will strengthen the group of original users as it spreads organically to other people.</p>
  <p>Those who chose to not use the app—and therefore chose not to give <span class="_paradigm">RAD</span>s—will still receive them.</p>
  
 <h1>Cycles</h1>
