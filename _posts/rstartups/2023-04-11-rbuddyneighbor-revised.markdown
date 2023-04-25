@@ -120,10 +120,6 @@ image:    "icon-buddyneighbor.svg"
      <p>They&rsquo;d be alerted when the system detects a pattern that fits their target.</p>
     </td>
    </tr>
-  </table>
- </div>
- <div class="_center">
-  <table class="_background, _h2table">
    <tr>
     <th>Reuniting Friends and Family</th>
     <td>
