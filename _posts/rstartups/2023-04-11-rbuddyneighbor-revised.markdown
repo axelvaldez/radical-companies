@@ -19,7 +19,7 @@ image:    "icon-buddyneighbor.svg"
   <table class="_explicitalignment">
    <tr id="_background">
     <td></td>
-    <th>Y Impact</th>
+    <th>Z Impact</th>
    </tr>
    <tr>
     <th>What for?</th>
