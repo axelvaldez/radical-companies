@@ -116,18 +116,12 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
     <th>Interventions</th>
     <td>
      <p>Groups of <span class="_paradigm">rBuddyNeighbors</span> can organize to deal with emergency situations in their,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> from drug usage interventions to potential suicides.</p>
      <p>They can register their group with <span class="_paradigm">rBuddyNeighbors</span> as a community resource.</p>
      <p>They&rsquo;d be alerted when the system detects a pattern that fits their target.</p>
     </td>
-   </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
    </tr>
    <tr>
     <th>Reuniting Friends and Family</th>
@@ -141,10 +135,7 @@ image:    "icon-buddyneighbor.svg"
      <p>This brings up is the importance of reputation for members. A recommendation from a well know <span class="_paradigm">Neighbor</span> will count for a lot.</p>
     </td>
    </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
+   <tr id="_background">
     <th>Fun Activities</th>
     <td>
      <ul>
@@ -154,10 +145,7 @@ image:    "icon-buddyneighbor.svg"
      </ul>
     </td>
    </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
+   <tr id="_background">
     <th>Vendors Will Know</th>
     <td>
      <p>We can train retailers to tell people who call in an order that, there are two people near you coming to pick up soon. If you put in a <span class='_paradigm'>rBuddyNeighbors</span> request, maybe one of them will deliver.</p>
@@ -169,10 +157,7 @@ image:    "icon-buddyneighbor.svg"
      <p>This could be in the UI for everybody, not just vendors.</p>
     </td>
    </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
+   <tr id="_background">
     <th>Mom-and-Pops</th>
     <td>
      <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a <span class="_paradigm">Neighbor</span> or as a regular customer. Or the requestor lives within their back route and the local grocers can easily deliver it on the way home. This would fit within the model.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
@@ -180,30 +165,21 @@ image:    "icon-buddyneighbor.svg"
      <p>This could be <span class="_quotespan">gamed</span> if the <span class="_paradigm">Neighbor</span>-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A <span class="_paradigm">delivery</span> person would not make the kind of connection we are aiming for between <span class="_paradigm">Neighbor</span>s. This can easily be detected by the <span class="_paradigm">Neighbor</span>s and reported to the platform. It would end up in a conversation, probably between the grocer and the <span class="_paradigm">Neighbor</span>. Or, if the <span class="_paradigm">Neighbor</span> is reticent to do this, then somebody from <span class="_paradigm">rBuddyNeighbor</span> would do it.</p>
     </td>
    </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
+   <tr id="_background">
     <th>Together IRL</th>
     <td>
      <p>The town of Kamikatsu, Japan, recycles 81% of its waste. You can read read more about it<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a>. The neighbors do the recycling.</p>
      <p>The <em>collection center</em> mentioned in the articles is another place for <span class="_paradigm">Neighbor</span>s to have a positive meeting in real life. This is the kind of thing that a neighborhood can organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
     </td>
    </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
+   <tr id="_background">
     <th>Cooking for Others</th>
     <td>
      <p>Some people love to cook. Others, like myself, can appreciate a good dish, but that&rsquo;s it: no cooking. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good.</span></p>
      <p>Even the people who like to cook, sometimes feel like not cooking. It&rsquo;s like harking for a special dish, but you don&rsquo;t want to make it or don&rsquo;t know how cook it.</p>
     </td>
    </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
+   <tr id="_background">
     <th>Cooking with Others</th>
     <td>
       <ul>
@@ -216,19 +192,14 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
+   <tr id="_background">
     <th>Commuting</th>
     <td>
       <p>This can also work for commuting, either as a one time thing, or on a regular basis. <span class="_quotespan">I need to get to San Carlos tomorrow by 10 am.</span> Or, <span class="_quotespan">I work in Mountain View, looking for a <span class="_paradigm">rBuddyNeighbor</span> to commute with.</span> The response from the system could be three potential <span class="_paradigm">rBuddyNeighbor</span>s, or other commuters that are open to another rider.</p>
       <p>It would be commuting with people who live nearby. People that you may even know. People you can have a lasting relationship with.</p>
     </td>
    </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
+   <tr id="_background">
     <th>International</th>
     <td>
      <p>Has to work anywhere in the world, and across borders.</p>
@@ -236,9 +207,7 @@ image:    "icon-buddyneighbor.svg"
     </td>
    </tr>
    <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
+   <tr id="_background">
     <th>Group Invitations (Community Organizing)</th>
     <td>
      <p>The scenario is like this, I hear that there&rsquo;s going to be a demonstration outside the office of a local politician. The organizers went to <span class="_paradigm">rBuddyNeighbor</span>s and announced their event. I ask for the details and the system sends my request to the organizers. They contact me with the details and I go.</p>
@@ -246,10 +215,7 @@ image:    "icon-buddyneighbor.svg"
      <p>Group Invitations opens the door to Nazi rallies, or white supremacist groups. Tread carefully.</p>
     </td>
    </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
+   <tr id="_background">
     <th>Less Desirable Activities</th>
     <td>
      <p>You just know that people will try to use this for prostitution, distribution of illegal drugs, and other less desirable activities.</p>
