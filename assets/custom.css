@@ -568,7 +568,8 @@ table._explicitalignment tr._background th {
   font-weight:bold;
   font-size:larger;
   font-family:'Times New Roman', Times, serif;
-  width:50%;
+  width:85%;
+  color:red;
 }
 
 
