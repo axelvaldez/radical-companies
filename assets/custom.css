@@ -541,6 +541,18 @@ table._h2table td {
 /*
  Explict Alignment Table
  */
+table._explicitalignment tr._background {
+  background-color:#EEEEEE;
+}
+table._explicitalignment tr._background th {
+  vertical-align:text-top;
+  text-align:left;
+  font-weight:bold;
+  font-size:larger;
+  font-family:'Times New Roman', Times, serif;
+  width:85%;
+  color:red;
+}
 table._explicitalignment {
   width:80%;
 }
@@ -557,16 +569,4 @@ table._explicitalignment tr td { /* right col */
   vertical-align:text-top;
   text-align:left;
   padding-left:0;
-}
-table._explicitalignment tr._background {
-  background-color:#EEEEEE;
-}
-table._explicitalignment tr._background th {
-  vertical-align:text-top;
-  text-align:left;
-  font-weight:bold;
-  font-size:larger;
-  font-family:'Times New Roman', Times, serif;
-  width:85%;
-  color:red;
 }
