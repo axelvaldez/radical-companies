@@ -229,7 +229,6 @@ image:    "icon-buddyneighbor.svg"
  <div class="_center">
   <table class="_background, _h2table">
    <tr>
-   <tr>
     <th>Commuting</th>
     <td>
       <p>This can also work for commuting, either as a one time thing, or on a regular basis. <span class="_quotespan">I need to get to San Carlos tomorrow by 10 am.</span> Or, <span class="_quotespan">I work in Mountain View, looking for a <span class="_paradigm">rBuddyNeighbor</span> to commute with.</span> The response from the system could be three potential <span class="_paradigm">rBuddyNeighbor</span>s, or other commuters that are open to another rider.</p>
