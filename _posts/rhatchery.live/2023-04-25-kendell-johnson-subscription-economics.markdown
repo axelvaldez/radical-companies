@@ -7,7 +7,7 @@ image:    "icon-kendell-johnson-subscription-economy.svg"
 ---
 
 <div style="display:none;">
- <p>The conversation with Kendell quickly went into a direction that took me by suprise. I fully expected that Kendell was going to push the subscription model as an answer for everything.</p>
+ <p>The conversation with Kendell quickly went into a direction that took me by suprise..</p>
 </div>
 
 <div>
