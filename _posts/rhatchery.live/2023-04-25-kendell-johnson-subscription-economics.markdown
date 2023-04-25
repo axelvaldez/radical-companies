@@ -10,6 +10,11 @@ image:    "icon-kendell-johnson-subscription-economy.svg"
  <p>The conversation with Kendell quickly went into a direction that took me by suprise. I fully expected that Kendell was going to push the subsecription model as an answer for everything.</p>
 </div>
 
+<div>
+ <p class='_citation'>You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.</p>
+ <p id='_signature'>Buckminster Fuller</p>
+</div>
+
 <h1>&nbsp;</h1>
  <p>The conversation with Kendell quickly went into a direction that took me by suprise. I fully expected that Kendell was going to push the subsecription model as an answer for everything. Instead we ended up talking about the economy and it was not working for young people.</p>
  <p>Buying a house, going for vacation once a year, and that sort of thing are not available to people born in the 1980s. This didn&rsquo;t become clear until after the year 2000s.</p>
@@ -21,9 +26,8 @@ image:    "icon-kendell-johnson-subscription-economy.svg"
 <h1>Fuller</h1>
  <p>Buckminster Fuller talked about making things lighter. The Dymaxion House, the Dymaxion Car were meant to be physically lighter. But another way to make things <em>lighter</em> is to not having a house or a car and susbcribing to it instead. With Airbnb I can &ldquo;posses&rsquo; a house for a week, or a month and then move on to the next. I can &ldquo;posses&rsquo; a ride, and a driver, by renting one temporarily. That is a &lsquo;light&rsquo; as it gets.</p>
 
- <div>
-  <p class='_citation'>You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.</p>
-  <p id='_signature'>Buckminster Fuller</p>
- </div>
+<h1>Circolo</h1>
+ Álvaro Daza Hernández
+
 
 {% include related.html %}
