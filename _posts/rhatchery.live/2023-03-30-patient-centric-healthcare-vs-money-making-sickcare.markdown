@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Patient-Centric Healthcare: A New Way to Do Medicine"
+title:    "Bindu  Kalesan: Patient-Centric Healthcare"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-patient-centric-heatlhcare-a-new-way-to-do-medicine.svg"
+image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
 ---
 
 <div style="display:none;">
@@ -97,11 +97,6 @@ image:    "icon-patient-centric-heatlhcare-a-new-way-to-do-medicine.svg"
    <li>This may mean that inactive patient/co-owners will probably pay more for their membership.</li>
   </ul>
  <p>Keep in mind that the ultimate goal is not <em>capital growth</em>, but the <em>health</em> of the community.</p>
-
-<!--
-<h1>A Short Story</h1>
-  <p>Where I grew up, we paid a monthly fee for our healthcare to a local clinic (a block and a half from our house). Anything they could not handle, they referred us to specialists and we paid nothing or very little. My family could afford that on a teacher’s salary and my paternal grandparents, who were retired, could afford as well.</p>
--->
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
