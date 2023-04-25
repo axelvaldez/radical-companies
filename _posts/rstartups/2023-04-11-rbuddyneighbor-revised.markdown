@@ -112,6 +112,10 @@ image:    "icon-buddyneighbor.svg"
      </ul>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_background, _h2table">
    <tr>
     <th>Interventions</th>
     <td>
@@ -120,18 +124,30 @@ image:    "icon-buddyneighbor.svg"
      <p>They&rsquo;d be alerted when the system detects a pattern that fits their target.</p>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_background, _h2table">
    <tr>
     <th>Reuniting Friends and Family</th>
     <td>
      <p>Like other &ldquo;social network,&rdquo; <span class="_paradigm">rBuddyNeighbor</span> could be used to find people you want to reconnect with. <span class="_quotespan">Looking for John M. Graduated in 1972 from Schurz HS in Chicago. Last time we were in touch he still lived in Chicago.</span></p>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_background, _h2table">
    <tr>
     <th>Baby Sitting, Elder Sitting</th>
     <td>
      <p>This brings up is the importance of reputation for members. A recommendation from a well know <span class="_paradigm">Neighbor</span> will count for a lot.</p>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_background, _h2table">
    <tr>
     <th>Fun Activities</th>
     <td>
@@ -142,6 +158,10 @@ image:    "icon-buddyneighbor.svg"
      </ul>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_background, _h2table">
    <tr>
     <th>Vendors Will Know</th>
     <td>
@@ -154,6 +174,10 @@ image:    "icon-buddyneighbor.svg"
      <p>This could be in the UI for everybody, not just vendors.</p>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_background, _h2table">
    <tr>
     <th>Mom-and-Pops</th>
     <td>
@@ -162,6 +186,10 @@ image:    "icon-buddyneighbor.svg"
      <p>This could be <span class="_quotespan">gamed</span> if the <span class="_paradigm">Neighbor</span>-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A <span class="_paradigm">delivery</span> person would not make the kind of connection we are aiming for between <span class="_paradigm">Neighbor</span>s. This can easily be detected by the <span class="_paradigm">Neighbor</span>s and reported to the platform. It would end up in a conversation, probably between the grocer and the <span class="_paradigm">Neighbor</span>. Or, if the <span class="_paradigm">Neighbor</span> is reticent to do this, then somebody from <span class="_paradigm">rBuddyNeighbor</span> would do it.</p>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_background, _h2table">
    <tr>
     <th>Together IRL</th>
     <td>
@@ -169,6 +197,10 @@ image:    "icon-buddyneighbor.svg"
      <p>The <em>collection center</em> mentioned in the articles is another place for <span class="_paradigm">Neighbor</span>s to have a positive meeting in real life. This is the kind of thing that a neighborhood can organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_background, _h2table">
    <tr>
     <th>Cooking for Others</th>
     <td>
@@ -176,6 +208,10 @@ image:    "icon-buddyneighbor.svg"
      <p>Even the people who like to cook, sometimes feel like not cooking. It&rsquo;s like harking for a special dish, but you don&rsquo;t want to make it or don&rsquo;t know how cook it.</p>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_background, _h2table">
    <tr>
     <th>Cooking with Others</th>
     <td>
@@ -188,6 +224,10 @@ image:    "icon-buddyneighbor.svg"
      <p>You can pick up the food yourself (it&rsquo;s nearby), or, if you are invited, you can walk over and eat it at the <span class="_paradigm">Buddy</span>&rsquo;s place. The emphasis is in the cooking together.</p>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_background, _h2table">
    <tr>
    <tr>
     <th>Commuting</th>
@@ -196,6 +236,10 @@ image:    "icon-buddyneighbor.svg"
       <p>It would be commuting with people who live nearby. People that you may even know. People you can have a lasting relationship with.</p>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_background, _h2table">
    <tr>
     <th>International</th>
     <td>
@@ -203,7 +247,10 @@ image:    "icon-buddyneighbor.svg"
      <p>For example, I can put in a request for Coyotas del Parque in Hermosillo, Mexico. Somebody from my neighborhood who happens to be in Hermosillo, picks up my order and brings it. Since we live nearby, my <span class="_paradigm">Buddy</span> let&rsquo;s me know when I can pick them up at his place.</p>
     </td>
    </tr>
-   <tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_background, _h2table">
    <tr>
     <th>Group Invitations (Community Organizing)</th>
     <td>
@@ -212,6 +259,10 @@ image:    "icon-buddyneighbor.svg"
      <p>Group Invitations opens the door to Nazi rallies, or white supremacist groups. Tread carefully.</p>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_background, _h2table">
    <tr>
     <th>Less Desirable Activities</th>
     <td>
