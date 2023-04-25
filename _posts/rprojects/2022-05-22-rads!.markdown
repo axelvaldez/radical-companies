@@ -150,9 +150,6 @@ image:    "icon-rmedia.svg"
  <p><em>RADs!</em> and Remark! will eventually share a backend.</p>
 
 <h1>Tech Platforms</h1>
- <ul>
-  <li>iOS, Android, Web.</li>
-  <li>React Native/Flutter, NodeJS</li>
- </ul>
+ <p>iOS, Android, Web.</p>
 
 {% include related.html %}
