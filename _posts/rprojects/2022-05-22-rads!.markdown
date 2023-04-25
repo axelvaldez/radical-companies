@@ -40,6 +40,7 @@ image:    "icon-rmedia.svg"
    <tr>
     <th>Profile</th>
     <td>
+     <p>The usual,</p>
      <ul>
       <li>name, picture, etc.</li>
       <li>Summaries: <span class="_paradigm">RAD</span>s received and given, total <span class="_paradigm">RAD</span>s, etc.</li>
