@@ -17,9 +17,9 @@ image:    "icon-kendell-johnson-subscription-economy.svg"
 
 <h1>Trapped</h1>
  <p>Kendell said words to the effect that young people feel trapped by house payments, rent, and car payments. That made me sit up because it was another way of saying that the economy is not working for anybody, but it particularly isn&rsquo;t working for the young. And that means that we need a new model.</p>
- <div>
-  <p class='_citation'>You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.</p>
-  <p class='_signature'>Buckminster Fuller</p>
+ <div class="_citation">
+  <p>You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.</p>
+  <p id="_signature">Buckminster Fuller</p>
  </div>
  <p>For my generation 1951) the believe was that if you &ldquo;got good grades&rsquo; and &ldquo;worked hard&rsquo;, you had a chance to do good, better than your parents. And indeed, that was the case for some of us (<em>i.e.</em>, white, lower middle-class). But that is not the case any more for most young people. The belief is gone, so, fuck it.</p>
 
