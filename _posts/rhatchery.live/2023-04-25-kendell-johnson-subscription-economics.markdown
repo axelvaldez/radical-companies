@@ -7,7 +7,7 @@ image:    "icon-kendell-johnson-subscription-economy.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>The conversation with Kendell quickly went into a direction that took me by suprise. I fully expected that Kendell was going to push the subsecription model as an answer for everything.</p>
 </div>
 
 <h1>&nbsp;</h1>
