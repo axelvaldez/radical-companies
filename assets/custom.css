@@ -526,7 +526,7 @@ table._h2table th {
   text-align:right;
   padding-right:1em;
   font-weight:bold;
-  width:20%;
+  column-width:20%;
   /*
   font-size:smaller;
   */
@@ -536,7 +536,7 @@ table._h2table td {
   text-align:left;
   border-left:black 1px solid;
   padding-left:1em;
-  width:80%;
+  column-width:80%;
 }
 /*
  Explict Alignment Table
