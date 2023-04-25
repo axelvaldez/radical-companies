@@ -88,9 +88,7 @@ image:    "icon-rmedia.svg"
  </div>
 
 <h1>Other</h1>
- <p><em>RADs!</em> and Remark! will eventually share a backend.</p>
-
-<h1>Tech Platforms</h1>
- <p>iOS, Android, Web.</p>
+ <p><em>RADs!</em> and <em>Remark!</em> will eventually share a backend.</p>
+ <p>They will run on iOS, Android, Web.</p>
 
 {% include related.html %}
