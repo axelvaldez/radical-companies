@@ -52,6 +52,10 @@ image:    "icon-kendell-johnson-subscription-economy.svg"
   </table>
  </div>
 
-<h1>Trapped</h1>
+<h1>What Does It Mean?</h1>
+ <p>The world is ready for a new economic model. Not one that is going to come from above, but a new model that will come together according to needs. The <span class='_paradigm'>RADICAL</span> is one such model, but there will be many others.</p>
+ <p>One way to tell the progressive models from the not-so-progressive models is how they relate for the <span class='_paradigm'>FIAT</span> model. If they are a rehash of the <span class='_paradigm'>FIAT</span> model, walk away from it. If they are an alterantive to the <span class='_paradigm'>FIAT</span> model, it is worth another look.</p>
+ <p>And that is why is so important to be able to <em>see</em> the <span class='_paradigm'>FIAT</span> model. If a new model referes to anything that requires an all powerful, benevolent person passing judgement, it is just another <span class='_paradigm'>FIAT</span> scheme. Anything that requires a decision making center, it is just another <span class='_paradigm'>FIAT</span> scheme</p>
+ <p>The system we crave is decentralized and transparent. It supports our need for meaning making and belonging. It thrives on experiemtation. If a system has that characteristic, try it.</p>
 
 {% include related.html %}
