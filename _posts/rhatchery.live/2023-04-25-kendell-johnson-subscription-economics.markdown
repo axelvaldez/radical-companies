@@ -23,7 +23,7 @@ image:    "icon-kendell-johnson-subscription-economy.svg"
 
 <h1>Lighter and without Friction</h1>
  <p>For my generation (1951) the believe was that if you &ldquo;got good grades&rdquo; and &ldquo;worked hard&rdquo;, you had a chance to do good, better than your parents. And indeed, that was the case for some of us (<em>i.e.</em>, white, lower middle-class). I held that believe for most of my working life. It was the truth</p>
- <p>This is not the case any more for most young people. The belief is gone, the reality is different. So, screw it.</p>
+ <p>This is not the case any more for most young people. The belief is gone, the reality is different. So, screw it, we are going to try something different.</p>
 
 <h1>XXX</h1>
  <p>xxx</h1>
