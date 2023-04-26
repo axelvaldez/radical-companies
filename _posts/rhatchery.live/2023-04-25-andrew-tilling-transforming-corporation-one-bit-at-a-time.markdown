@@ -3,7 +3,7 @@ layout:   post
 title:    "Andrew Tilling: Transforming Corporations One Bit at a Time"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-andrew-tilling-transforming-corporation-one-bit-at-a-time.svg"
+image:    "icon-andrew-tilling-transforming-corporations-one-bit-at-a-time.svg"
 ---
 
 <div style="display:none;">
