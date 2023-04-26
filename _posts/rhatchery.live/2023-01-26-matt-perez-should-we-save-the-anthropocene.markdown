@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Should We Save the Anthropocene?"
+title:    "Matt Perez: Should We Save the Anthropocene?"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-should-we-save-the-anthropocene.svg"
+image:    "icon-matt-perez-should-we-save-the-anthropocene.svg"
 ---
 
 <div style="display:none;">
