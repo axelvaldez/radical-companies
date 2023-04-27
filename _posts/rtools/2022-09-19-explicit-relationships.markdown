@@ -29,8 +29,7 @@ image:    "icon-explicit-relationships.svg"
 <h1>Foundation Agreements [DRAFT]</h1>
  <p>The <em>Trust Framework</em> works for people, but not for communities. Here is a DRAFT <em>Foundation Agreement</em>,</p>
   <div class="_center">
-   <table style="width:80%; ">
-    <tbody style="border:1px solid black;">
+   <table class="_h2table">
      <tr>
       <td class="_spacer"></td>
      </tr>
@@ -44,9 +43,6 @@ image:    "icon-explicit-relationships.svg"
       </td>
      </tr>
      <tr>
-      <td class="_spacer"></td>
-     </tr>
-     <tr>
       <th><em style="text-align:left; ">Commitments</em>: Decentralization & Transparency</th>
       <td>
        <ul>
@@ -54,9 +50,6 @@ image:    "icon-explicit-relationships.svg"
         <li>What are we not disclosing? Why are we hesitat to disclose? Is it cultural fear that is holding us back? If this information is important to keep secret, who would know about it? Will everybody know who the chosen people are?</li>
        </ul>
       </td>
-     </tr>
-     <tr>
-      <td class="_spacer"></td>
      </tr>
      <tr>
       <th><em style="text-align:left; ">Practices</em>: Alignment & Experimentatiom</th>
@@ -69,15 +62,6 @@ image:    "icon-explicit-relationships.svg"
        </ul>
       </td>
      </tr>
-     <tr>
-      <td class="_spacer"></td>
-     </tr>
-    </tbody>
-    <tfoot>
-     <tr>
-      <td class="_spacer"></td>
-     </tr>
-    </tfoot>
    </table>
   </div>
 
