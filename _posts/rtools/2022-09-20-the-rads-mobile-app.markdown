@@ -30,6 +30,8 @@ image:    "icon-the-rads-mobile-app.svg"
   <li id="en02">
    <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal
+    <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
+    2001
     &lt;<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
