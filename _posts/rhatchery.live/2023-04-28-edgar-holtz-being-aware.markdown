@@ -1,13 +1,13 @@
 ---
 layout:   post
-title:    "Kendell Johnson: Subscription Economy"
+title:    "Andres Holtz: Being Aware"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-kendell-johnson-subscription-economy.svg"
+image:    "icon-andrew=holtz-being-aware.svg"
 ---
 
 <div style="display:none;">
- <p>The conversation with Kendell quickly went into a direction that took me by suprise.</p>
+ <p></p>
 </div>
 
 <h1>&nbsp;</h1>
