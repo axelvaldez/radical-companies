@@ -428,8 +428,7 @@ p {
   margin-left:0;
   padding-left:0;
   margin-bottom:6px;
-  text-align:1em;
-  color:red;
+  text-indent:1em;
 }
 ._float {
   float:right;
