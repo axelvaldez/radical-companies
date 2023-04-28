@@ -431,6 +431,7 @@ p {
   padding-left:0;
   margin-bottom:6px;
   text-align:1em;
+  color:red;
 }
 ._float {
   float:right;
