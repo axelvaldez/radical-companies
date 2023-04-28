@@ -402,6 +402,7 @@ div._quotespan {
   margin-bottom:5px;
 }
 ._quotespan {
+  font-style:italic;
   margin-bottom:3px;
 }
 div._citation {
