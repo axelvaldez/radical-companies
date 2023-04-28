@@ -346,12 +346,6 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   text-indent:-0.3em;
   content:"— ";
 }
-p {
-  margin-left:0;
-  padding-left:0;
-  margin-bottom:6px;
-  text-align:1em;
-}
 /*
  * dialog: begin
  */
@@ -431,7 +425,13 @@ h1 + p._speaker {
 }
 h1 + p {
   text-indent:0;
-} 
+}
+p {
+  margin-left:0;
+  padding-left:0;
+  margin-bottom:6px;
+  text-align:1em;
+}
 ._float {
   float:right;
 }
