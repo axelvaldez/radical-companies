@@ -19,7 +19,7 @@ image:    "icon-andrew-holtz-being-aware.svg"
  <p>Instead, Andrew found, that playfulness is key to extraordinaty results. People who feel free to be playful also feel free to put their best ideas on the table. Others feel free to collaborate and play with them.</p>
  <p>That&rsquo;s how innovations happen.</p>
 
-<h1><span class="_paradigm">RADICAL</span> Speak</h1>
+<h1>Translatition</h1>
  <p>The <span class='_paradigm'>FIAT</span> system and the harm that it does to people and businesses has become visible to Andrew. Not all of it, but probably enough.</p>
  <p>His new business has a <span class='_paradigm'>FIAT</span> hierarchy in place, but he feels that it is inconsequential. As his business grows, Andrew will discover that hierarchy may grow and create a bureaucracy around itself. I am hoping that he will not let it go that far, and if he does, that he will figure it out sooner rather than later.</p>
 
