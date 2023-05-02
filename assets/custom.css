@@ -432,7 +432,6 @@ h1+p {
 }
 ._quotation p:first-child, ._citation p:first-child {
   text-indent:0;
-  color:blue;
 }
 ._float {
   float:right;
