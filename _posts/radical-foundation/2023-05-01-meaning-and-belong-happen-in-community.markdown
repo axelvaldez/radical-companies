@@ -19,7 +19,7 @@ image:    "icon-meaning-and-belonging-happen-in-community.svg"
   </div>
  
 <h1>Isolation</h1>
- <p>The opposite to belonging is isolation, loneliness. The <span class="_paradigm">FIAT</span> system drive to divide and conquer has gone overboard and has come down to individuals. It negatively affects the health of individuals and society.</p>
+ <p>The opposite to belonging is isolation, loneliness. The <span class="_paradigm">FIAT</span> system&rsquo;s drive to divide and conquer has gone overboard and has come down to individuals. It negatively affects the health of individuals and society.</p>
  <div class="_citation">
   <p>Loneliness is more than just a bad feeling. When people are socially disconnected, their risk of anxiety and depression increases. So does their risk of heart disease (29%), dementia (50%), and stroke (32%). The increased risk of premature death associated with social disconnection is comparable to smoking daily&mdash;and maybe even greater than the risk associated with obesity.</p>
   <p id="_signature">Vivek Murthy, US Surgeon General, New York Times<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
