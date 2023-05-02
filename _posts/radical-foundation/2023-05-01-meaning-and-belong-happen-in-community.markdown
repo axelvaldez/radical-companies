@@ -21,7 +21,7 @@ image:    "icon-meaning-and-belong-happen-in-community.svg"
 <h1>Isolation</h1>
  <p>The opposite is isolation, which, I&rsquo;d say, we now have too much of. It is down to individuals and our society is going to pay the price.</p>
  <div class="_citation">
-  <p>Loneliness is more than just a bad feeling. When people are socially disconnected, their risk of anxiety and depression increases. So does their risk of heart disease (29%), dementia (50%), and stroke (32$). The increased risk of premature death associated with social disconnection is comparable to smoking daily&mdash;and maybe even greater than the risk associated with obesity.</p>
+  <p>Loneliness is more than just a bad feeling. When people are socially disconnected, their risk of anxiety and depression increases. So does their risk of heart disease (29%), dementia (50%), and stroke (32%). The increased risk of premature death associated with social disconnection is comparable to smoking daily&mdash;and maybe even greater than the risk associated with obesity.</p>
   <p class="signature">Vivek H. Murthy, US Surgeon General, New York Times<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>But isolation of groups into competing silos is fundamental to <span class="_paradigm">FIAT</span> culture. Divide and conquers. The more they compete with each other, the lesser chance that they will get together to fight something more basic, like <span class="_paradigm">FIAT</span> ownership.</p>
