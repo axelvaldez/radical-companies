@@ -33,7 +33,7 @@ image:    "icon-feelings-are-not-enough.svg"
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <span style="float:left;  "><a href="https://radicalcompanies.com/2022/12/13/meaning-and-belonging-are-not-enough">  Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2023-05-01-meaning-and-belong-happen-in-community">    Next</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2023/05/01/meaning-and-belong-happen-in-community">    Next</a></span>
 </div>
 
 {% include related.html %}
