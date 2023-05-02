@@ -33,15 +33,6 @@ image:    "icon-meaning-and-belong-happen-in-community.svg"
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
-  <li id="en021">
-   <p class="_list-item">
-    <em>Conversation with Ana Menendez, Associate Professor</em>.
-    Podcast. Steven Green School of International & Publich Affairs.
-    2023.
-    &lt;<a href="https://www.linkedin.com/feed/update/urn:li:activity:7058097258029801472/" target="_blank">https://www.linkedin.com/feed/update/urn:li:activity:7058097258029801472/</a>&gt;
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
   <li id="en01">
    <p class="_list-item">
     Vivek Murthy, US Surgeon General.
@@ -50,6 +41,15 @@ image:    "icon-meaning-and-belong-happen-in-community.svg"
     New York Times.
     2023.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    <em>Conversation with Ana Menendez, Associate Professor</em>.
+    Podcast. Steven Green School of International & Publich Affairs.
+    2023.
+    &lt;<a href="https://www.linkedin.com/feed/update/urn:li:activity:7058097258029801472/" target="_blank">https://www.linkedin.com/feed/update/urn:li:activity:7058097258029801472/</a>&gt;
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
