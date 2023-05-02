@@ -11,7 +11,7 @@ image:    "icon-meaning-and-belonging-are-not-enough.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Here is the <span class="_paradigm">RADICAL</span> foundation,</p>
+ <p>Here is the <span class="_paradigm">RADICAL</span> Foundation,</p>
  <table align="center">
   <tr style="background-color:#EEEEEE; ">
    <th>people</th>
