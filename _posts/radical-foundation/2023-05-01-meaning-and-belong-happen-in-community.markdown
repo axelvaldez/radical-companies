@@ -24,7 +24,7 @@ image:    "icon-meaning-and-belong-happen-in-community.svg"
   <p>Loneliness is more than just a bad feeling. When people are socially disconnected, their risk of anxiety and depression increases. So does their risk of heart disease (29%), dementia (50%), and stroke (32%). The increased risk of premature death associated with social disconnection is comparable to smoking daily&mdash;and maybe even greater than the risk associated with obesity.</p>
   <p id="signature">Vivek Murthy, US Surgeon General, New York Times<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
- <p>But isolation of groups into competing silos is fundamental to <span class="_paradigm">FIAT</span> culture. Divide and conquer! The more groups compete with each other, the lesser chance that they will get together to fight the things that really hurts them, like <span class="_paradigm">FIAT</span> ownership.</p>
+ <p>But isolation of groups into competing silos is fundamental to <span class="_paradigm">FIAT</span> culture. Divide and conquer! The more groups compete with each other, the lesser chance that they will get together to fight the things that really hurts them and holds back society, like <span class="_paradigm">FIAT</span> ownership.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <span style="float:left;  "><a Href="https://radicalcompanies.com/2023/04/17/feelings-are-not-enough">Previous</a></span>
