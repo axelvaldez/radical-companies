@@ -48,8 +48,8 @@ image:    "icon-meaning-and-belonging-are-not-enough.svg"
  <p>The <span class="_paradigm">RADICAL</span> foundation is three-legged for a reason and to get <em>and</em> stay on the <span class="_paradigm">RADICAL</span> path, you need to work on <em>all three</em> legs of it.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left;  ">                                                                          Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2023/04/17/feelings-are-not-enough">    Next</a></span>
+ <span style="float:left;  ">                                                                          Previous</span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2023/04/17/feelings-are-not-enough">Next</a></span>
 </div>
 
 {% include related.html %}
