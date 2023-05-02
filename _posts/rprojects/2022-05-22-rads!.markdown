@@ -7,7 +7,7 @@ image:    "icon-rmedia.svg"
 ---
 
 <div style="display: none; ">
- <p>A simple system recognize contributions that others have made to me, my team, or my company throughout time,</p>
+ <p>A simple system to recognize contributions that others have made to me, to my team, or to my company.</p>
 </div>
 
 <div class="_citation">
@@ -15,8 +15,19 @@ image:    "icon-rmedia.svg"
  <p id="_signature">Chad Kautzer. Radical Philosophy, p 36.</p>
 </div>
 
+<h1>BREAKING/h1>
+ <p>There is now a simple version of the app in the IOS story and the Android store.</p>
+ <a href="https://apps.apple.com/mx/app/rads/id6447589527?l=en">
+  <div class="_center">
+   <img
+    src="/assets/img/pic-app-download-buttons.svg"
+    width="70%"
+    alt="">
+ </a>
+ </div>
+
 <h1>Intro</h1>
- <p>A simple mobile app to recognize contributions that others have to me, my team, or my company throughout time</p>
+ <p>A simple system to recognize contributions that others have made to me, to my team, or to my company.</p>
  
 <h1>Making It Viral</h1>
  <p>Adding a non-<em><span class="_paradigm">RAD</span>s!</em> person to my list will automatically generate an email to 1) let her know she&rsquo;s been added to my list, and 2) invite her to download the app and start to give out <span class="_paradigm">RAD</span>s. This app will strengthen the users/co-owners as it spreads organically to other users/co-owners.</p>
