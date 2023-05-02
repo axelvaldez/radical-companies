@@ -334,9 +334,6 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   margin:0 auto 30px auto;
   padding:0 auto .5em  auto;
 }
-._quotation + p, ._citation + p {
-  text-indent:0;
-}
 ._citation #_signature {
   display: block;
   padding-top:10px;
@@ -432,6 +429,9 @@ p {
   padding-left:0;
   margin-bottom:6px;
   text-indent:1em;
+}
+._quotation + p, ._citation + p {
+  text-indent:0;
 }
 ._float {
   float:right;
