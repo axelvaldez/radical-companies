@@ -421,17 +421,15 @@ div._citation {
 div.col-10 p, p._list-item {
   text-indent:0;
 }
-h1 + p {
-  text-indent:0;
-}
 p {
   margin-left:0;
   padding-left:0;
   margin-bottom:6px;
   text-indent:1em;
 }
-._quotation + p, ._citation + p {
+h1+p, ._quotation+p, ._citation+p {
   text-indent:0;
+  color:red;
 }
 ._float {
   float:right;
