@@ -22,7 +22,7 @@ image:    "icon-meaning-and-belong-happen-in-community.svg"
  <p>The opposite is isolation, which, I&rsquo;d say, we now have too much of. It is down to individuals and our society is going to pay the price.</p>
  <div class="_citation">
   <p>Loneliness is more than just a bad feeling. When people are socially disconnected, their risk of anxiety and depression increases. So does their risk of heart disease (29%), dementia (50%), and stroke (32%). The increased risk of premature death associated with social disconnection is comparable to smoking daily&mdash;and maybe even greater than the risk associated with obesity.</p>
-  <p class="signature">Vivek H. Murthy, US Surgeon General, New York Times<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p class="signature">Vivek Murthy, US Surgeon General, New York Times<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>But isolation of groups into competing silos is fundamental to <span class="_paradigm">FIAT</span> culture. Divide and conquer! The more groups compete with each other, the lesser chance that they will get together to fight the things that really hurts them, like <span class="_paradigm">FIAT</span> ownership.</p>
 
@@ -33,19 +33,23 @@ image:    "icon-meaning-and-belong-happen-in-community.svg"
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
-  <li id="en01">
+  <li id="en021">
    <p class="_list-item">
     <em>Conversation with Ana Menendez, Associate Professor</em>.
     Podcast. Steven Green School of International & Publich Affairs.
     2023.
     &lt;<a href="https://www.linkedin.com/feed/update/urn:li:activity:7058097258029801472/" target="_blank">https://www.linkedin.com/feed/update/urn:li:activity:7058097258029801472/</a>&gt;
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en02">
+  <li id="en01">
    <p class="_list-item">
-    &lt;<a href="" target="_blank"></a>&gt;
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+    Vivek Murthy, US Surgeon General.
+    <em>Surgeon General: We Have Become a Lonely Nation. It’s Time to Fix That.</em>
+    &lt;<a href="https://www.linkedin.com/feed/update/urn:li:activity:7058771691614658560?utm_source=share&utm_medium=member_desktop" target="_blank">https://www.linkedin.com/feed/update/urn:li:activity:7058771691614658560?utm_source=share&utm_medium=member_desktop</a>&gt;
+    New York Times.
+    2023.
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
