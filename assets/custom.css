@@ -429,7 +429,7 @@ p {
 }
 h1+p, ._quotation+p, ._citation+p {
   text-indent:0;
-  color:red;
+  color:blue;
 }
 ._float {
   float:right;
