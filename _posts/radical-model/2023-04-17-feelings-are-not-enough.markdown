@@ -28,8 +28,8 @@ image:    "icon-feelings-are-not-enough.svg"
  <p>Drama is put out there as a trap for people to fall into. It is a form of force for people to fall for. Drama can also be an expression of the trap you are in, <span class="_quotespan">I can never do this right,</span> <span class="_quotespan">I am not good at math.</span> Drama is not an expression of feelings, it doesn&rsquo;t lead to a healthy relationship. Drama is a force, from mild to suffocating. The only &ldquo;relationship&rdquo; is one of dominance over people who fall in the drama trap.</p>
  <p>Beware that it may all be in your head; you may have fallen in your own trap. <span class="_quotespan">My baby doggy wants me to lay down with him.</span>
 
-<h1>Feelings Are Not Enough</h1>
- <p>Feelings have to come out of you to anchor a relationship. The relationship must be nurtured with communication and love, not force. Then, and only then, do your feelings become meaningful to the world.</p>
+<h1>Relationships</h1>
+ <p>Feelings are not enough, they have to come out of your head to anchor a relationship. The relationship must be nurtured with communication and love, not force. Then, and only then, do your feelings become meaningful to the world.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <span style="float:left;  "><a href="https://radicalcompanies.com/2022/12/13/meaning-and-belonging-are-not-enough">  Previous</a></span>
