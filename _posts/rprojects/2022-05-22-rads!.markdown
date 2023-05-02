@@ -23,8 +23,8 @@ image:    "icon-rmedia.svg"
     src="/assets/img/pic-app-download-buttons.svg"
     width="70%"
     alt="">
+  </div>
  </a>
- </div>
 
 <h1>Intro</h1>
  <p>A simple system to recognize contributions that others have made to me, to my team, or to my company.</p>
