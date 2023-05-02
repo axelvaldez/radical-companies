@@ -7,7 +7,7 @@ image:    "icon-meaning-and-belong-happen-in-community.svg"
 ---
 
 <div style="display:none;">
- <p>Meaning & Belonging only happen in communities. The opposite is isolation.</p>
+ <p>Meaning & Belonging only happen in communities. The opposite, and what&rsquo;s happening a lot, is isolation.</p>
 </div>
 
 <h1>&nbsp;</h1>
