@@ -26,7 +26,7 @@ image:    "icon-feelings-are-not-enough.svg"
 <h1>Drama</h1>
  <p>Drama is <strong>not</strong> feelings. <span class="_quotespan">I am feeling so bad,</span> <span class="_quotespan">May God forgive me,</span> <span class="_quotespan">Now is the best time because the moon is aligned with&hellip;</span>—that&rsquo;s drama.</p>
  <p>Drama is put out there as a trap for people to fall into. It is a form of force for people to fall for. Drama can also be an expression of the trap you are in, <span class="_quotespan">I can never do this right,</span> <span class="_quotespan">I am not good at math.</span> Drama is not an expression of feelings, it doesn&rsquo;t lead to a healthy relationship. Drama is a force, from mild to suffocating. The only &ldquo;relationship&rdquo; is one of dominance over people who fall in the drama trap.</p>
- <p>Beware that it may all be in your head. ; ypu may have fallen in your own trap. <span class="_quotespan">My baby doggy wants me to lay down with him.</span> And <span class="_quotespan">my GOD will listen to me if I pray to him.</span></p>
+ <p>Beware that it may all be in your head; you may have fallen in your own trap. <span class="_quotespan">My baby doggy wants me to lay down with him.</span>
 
 <h1>Feelings Are Not Enough</h1>
  <p>Feelings have to come out of you to anchor a relationship. The relationship must be nurtured with communication and love, not force. Then, and only then, do your feelings become meaningful to the world.</p>
