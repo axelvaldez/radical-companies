@@ -427,7 +427,10 @@ p {
   margin-bottom:6px;
   text-indent:1em;
 }
-h1+p, ._quotation+p, ._citation+p {
+h1+p {
+  text-indent:0;
+}
+._quotation p:first-child, ._citation p:first-child {
   text-indent:0;
   color:blue;
 }
