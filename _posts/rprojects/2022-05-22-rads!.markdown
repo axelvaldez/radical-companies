@@ -16,13 +16,13 @@ image:    "icon-rmedia.svg"
 </div>
 
 <h1>BREAKING</h1>
- <p>There is now a simple version of the app in the IOS story and the Android store.</p>
+ <pAAA There is now a simple version of the app in the IOS story and the Android store.</p>
  <a href="https://apps.apple.com/mx/app/rads/id6447589527?l=en">
   <div class="_center">
    <img
     src="/assets/img/pic-app-download-buttons.svg"
     width="70%"
-    alt="">
+    alt="The Apple store pseudo button and the Android store pseudo button">
   </div>
  </a>
 
