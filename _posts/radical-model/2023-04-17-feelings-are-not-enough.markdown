@@ -29,7 +29,7 @@ image:    "icon-feelings-are-not-enough.svg"
  <p>Beware that it may all be in your head; you may have fallen in your own trap. <span class="_quotespan">My baby doggy wants me to lay down with him.</span>
 
 <h1>Relationships</h1>
- <p>Feelings are not enough, they have to come out of your head to anchor a relationship. The relationship must be nurtured with communication and love, not force. Then, and only then, do your feelings become meaningful to the world.</p>
+ <p>Feelings are not enough, they have to come out of your head to anchor a relationship. The relationship must be nurtured with communication and love, not force. Then, and only then, do your feelings become meaningful to others.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <span style="float:left;  "><a href="https://radicalcompanies.com/2022/12/13/meaning-and-belonging-are-not-enough">  Previous</a></span>
