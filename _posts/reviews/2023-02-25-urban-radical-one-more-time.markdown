@@ -91,4 +91,9 @@ image:    "icon-urban-radical-one-more-time.svg"
   </li>
  </ul>
 
+<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+ <span style="float:left;  "><a href="https://radicalcompanies.com/2023/02/24/urban-radical-again">         Previous &lt;</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2023/03/21/subordination-is-bad-for-you">    &gt; Next</a></span>
+</div>
+
 {% include related.html %}

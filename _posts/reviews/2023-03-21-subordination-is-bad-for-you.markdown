@@ -47,4 +47,9 @@ image:    "icon-subordination-is-bad-for-you-and-me.svg"
   </li>
  </ul>
 
+<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+ <span style="float:left;  "><a href="https://radicalcompanies.com/2023/02/25/urban-radical-one-more-time">Previous &lt;</a></span>
+ <span style="float:right; ">                                                                                      &gt; Next</span>
+</div>
+
 {% include related.html %}
