@@ -94,6 +94,6 @@ image:    "icon-rmedia.svg"
  </ul>
 
 <h1>Credits</h1>
- <p>The idea comes from <a href="https://www.linkedin.com/in/typaldos/" target="_blank">Cynthia Typaldos</a>.</p>
+ <p><em>rEmark</em> is inspired by a similar idea from <a href="https://www.linkedin.com/in/typaldos/" target="_blank">Cynthia Typaldos</a>.</p>
 
 {% include related.html %}
