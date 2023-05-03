@@ -11,12 +11,8 @@ image:    "icon-rmedia.svg"
  <p>For authors, bloggers, and podcasters, <span class='_paradigm'>rMARK!</span> is primarily a source of specific, actionable feedback about their content.</p>
 </div>
 -->
-ccc
-  <img
-   src="/assets/img/pic-remark-buttons-vertical.svg"
-   style="float:right; padding-top:25px; padding-left:10px; "
-   alt="At the top, two buttons enclosed is a box: a green button with a plus sign inside it and, below it, a red button with a minus sign inside it. Bellow the combo, a white button with comments-ON inside it. At the bottom a blue button with with comments-OFF inside it."
-   height="14em">
+ddd
+<img src="/assets/img/pic-remark-buttons-vertical.svg" style="float:right; padding-top:25px; padding-left:10px; " alt="" height="14em">
 <!--
 <h1>HHH Intro</h1>
  <div>
