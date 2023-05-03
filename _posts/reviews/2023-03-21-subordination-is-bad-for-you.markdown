@@ -28,6 +28,11 @@ image:    "icon-subordination-is-bad-for-you-and-me.svg"
 <h1>People Are&hellip;</h1>
  <p>Whenever I hear a sentence that starts with, <span class="_quotespan">&hellip; but people are&hellip;,</span> I think, <span class="_quotespan">yes, that&rsquo;s the way we are <span id="_bolder">under the <span class="_paradigm">FIAT</span></span> system.</span> The system we have grown up in and the only one we know. In other words, it is not &ldquo;in our nature,&rdquo; as is is often claimed, to be submissive, but the <span class="_paradig">FIAT</span> system makes it easy for most of us to give up our agency and behave that way. <em>Any of us</em> can do so.</p>
 
+<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+ <span style="float:left;  "><a href="https://radicalcompanies.com/2023/02/25/urban-radical-one-more-time">Previous &lt;</a></span>
+ <span style="float:right; ">                                                                                      &gt; Next</span>
+</div>
+
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
@@ -46,10 +51,5 @@ image:    "icon-subordination-is-bad-for-you-and-me.svg"
    </p>
   </li>
  </ul>
-
-<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left;  "><a href="https://radicalcompanies.com/2023/02/25/urban-radical-one-more-time">Previous &lt;</a></span>
- <span style="float:right; ">                                                                                      &gt; Next</span>
-</div>
 
 {% include related.html %}

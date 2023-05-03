@@ -61,6 +61,11 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">My co-authores and I blush.</div>
  <div class="_quotespan">OK. OK.</div>
 
+<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+ <span style="float:left;  "><a href="https://radicalcompanies.com/2023/02/22/whats-our-problem">Previous &lt;</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2023/02/24/urban-radical-again">    &gt; Next</a></span>
+</div>
+
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
@@ -79,10 +84,5 @@ image:    "icon-urban-radical.svg"
    </p>
   </li>
  </ul>
-
-<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left;  "><a href="https://radicalcompanies.com/2023/02/22/whats-our-problem">Previous &lt;</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2023/02/24/urban-radical-again">    &gt; Next</a></span>
-</div>
 
 {% include related.html %}
