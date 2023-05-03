@@ -30,7 +30,7 @@ image:    "icon-rmedia.svg"
    <td style="width:40%; ">
     <a href="#">
      <img
-      src="/assets/img/pic-apple-download-button.svg"
+      src="/assets/img/pic-android-download-button.svg"
       alt="The Android store pseudo button"
      >
     </a>
