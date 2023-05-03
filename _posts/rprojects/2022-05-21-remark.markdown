@@ -6,14 +6,11 @@ authors:  "Matt Perez"
 image:    "icon-rmedia.svg"
 ---
 
-<!--
 <div style="display: none; ">
  <p>For authors, bloggers, and podcasters, <span class='_paradigm'>rMARK!</span> is primarily a source of specific, actionable feedback about their content.</p>
 </div>
--->
 
-<img src="/assets/img/pic-remark-buttons-vertical.svg" height="200em">
-aaa
+<h1>Intro</h1>
  <div>
   <img
    src="/assets/img/pic-remark-buttons-vertical.svg"
@@ -21,20 +18,10 @@ aaa
    alt="At the top, two buttons enclosed is a box: a green button with a plus sign inside it and, below it, a red button with a minus sign inside it. Bellow the combo, a white button with comments-ON inside it. At the bottom a blue button with with comments-OFF inside it."
    height="200em">
  </div>
-
-<!--
-<h1>Intro</h1>
- <div>
-  <img
-   src="/assets/img/pic-remark-buttons-vertical.svg"
-   style="float:right; padding-top:25px; padding-left:10px; "
-   alt="At the top, two buttons enclosed is a box: a green button with a plus sign inside it and, below it, a red button with a minus sign inside it. Bellow the combo, a white button with comments-ON inside it. At the bottom a blue button with with comments-OFF inside it."
-   height="14em"
-  >
- </div>
  <p>The rEmark! buttons are a floating buttons that readers can use to give feedback to authors. Clicking on the <code>plus</code> button records a positive response to specific text that readers highlight; the <code>minus</code> button indicates some form of dissatisfaction with a highlighted segment.</p>
  <p>Readers can leave comments for each fragment they click on. Other visitors to the site can choose to see all comments ("commentws ON") or not ("commentws OFF"), default).</p>
 
+<!--
 <h1>Value</h1>
  <p>For authors, bloggers, and podcasters rEmark! is primarily a source of specific, actionable feedback about their content. They get the highlighted passages, the number of positive and negative clicks, and comments associated with each.</p>
 
