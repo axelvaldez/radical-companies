@@ -10,7 +10,7 @@ image:    "icon-rmedia.svg"
  <p>For authors, bloggers, and podcasters, <span class='_paradigm'>rMARK!</span> is primarily a source of specific, actionable feedback about their content.</p>
 </div>
 
-<h1>BBB Intro</h1>
+<h1>CCC Intro</h1>
  <div class="_center">
   <img
    src="/assets/img/pic-remark-buttons-vertical.svg"
