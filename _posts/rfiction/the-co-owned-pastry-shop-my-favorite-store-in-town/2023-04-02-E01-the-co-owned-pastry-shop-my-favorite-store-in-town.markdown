@@ -69,8 +69,8 @@ image:    "icon-E01-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speaker"><span class="_speakera">Got it!</span></p>
 
 <div class="_next">
- <span style="float:left; "                                                                             >&lt; Previous </span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2023/04/03/la-fleur-de-chocolate-e02">Next &gt;</a></span>
+ <span style="float:left; " >                                                                                                         &lt; Previous</span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2023/04/03/E02-the-co-owned-pastry-shop-my-favorite-store-in-town">Next &gt;</a></span>
 </div>
 
 <h1 class="_section">ENDNOTES</h1>

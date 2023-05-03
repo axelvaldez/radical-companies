@@ -142,8 +142,8 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speaker"><span class="_speakerb">Whatever works for you, it&rsquo;s OK. <span class="_paradigm">RADICAL</span> is not a dogma. It simply is an alternative to <span class="_paradigm">FIAT</span> that works for everybody who creates wealth, not just <span class="_paradigm">FIAT</span> owners.</span></p>
 
 <div class="_next">
- <span style="float:left; " ><a href="https://radicalcompanies.com/2023/04/02/la-fleur-de-chocolate-e01">&lt; Previous</a></span>
- <span style="float:right; "                                                                             >Next &gt;       </span>
+ <span style="float:left; " ><a href="https://radicalcompanies.com/2023/04/02/E01-the-co-owned-pastry-shop-my-favorite-store-in-town">&lt; Previous</a></span>
+ <span style="float:right; ">                                                                                                                 Next &gt;</span>
 </div>
 
 {% include related.html %}
