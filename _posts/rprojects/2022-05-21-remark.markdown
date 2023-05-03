@@ -13,7 +13,7 @@ image:    "icon-rmedia.svg"
 <h1>Intro</h1>
  <div class="_center">
   <img
-   src="/assets/img/remark-buttons-vertical.svg"
+   src="/assets/img/pic-remark-buttons-vertical.svg"
    height="14em"
    style="float:left; padding-top:25px; padding-right; "
    alt="">
