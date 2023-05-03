@@ -11,8 +11,9 @@ image:    "icon-rmedia.svg"
  <p>For authors, bloggers, and podcasters, <span class='_paradigm'>rMARK!</span> is primarily a source of specific, actionable feedback about their content.</p>
 </div>
 -->
-ddd
-<img src="/assets/img/pic-remark-buttons-vertical.svg" style="float:right; padding-top:25px; padding-left:10px; " alt="" height="14em">
+
+<img src="/assets/img/pic-remark-buttons-vertical.svg">
+
 <!--
 <h1>HHH Intro</h1>
  <div>
