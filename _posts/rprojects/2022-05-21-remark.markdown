@@ -10,13 +10,14 @@ image:    "icon-rmedia.svg"
  <p>For authors, bloggers, and podcasters, <span class='_paradigm'>rMARK!</span> is primarily a source of specific, actionable feedback about their content.</p>
 </div>
 
-<h1>AAA Intro</h1>
+<h1>BBB Intro</h1>
  <div class="_center">
   <img
    src="/assets/img/pic-remark-buttons-vertical.svg"
    height="14em"
    style="float:left; padding-top:25px; padding-right; "
-   alt="">
+   alt="At the top, two buttons enclosed is a box: a green button with a plus sign inside it and, below it, a red button with a minus sign inside it. Bellow the combo, a white button with 'comments ON' inside it. At the bottom a blue button with with 'comments OFF' inside it."
+  >
  </div> 
  <p>The rEmark! buttons are a floating button combo that readers can use to give feedback to authors. Clicking on the <code>plus</code> button records a positive response to specific text that readers highlight; the <code>minus</code> button indicates some form of dissatisfaction with a highlighted segment.</p>
  <p>Readers can leave comments for each fragment they click on. Other visitors to the site can choose to see all comments or not (<em>i.e.</em>, default is OFF).</p>
