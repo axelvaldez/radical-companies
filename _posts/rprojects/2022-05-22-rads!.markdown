@@ -27,7 +27,7 @@ image:    "icon-rmedia.svg"
       width="40%">
     </a>
    </td>
-   <td>xxx
+   <td>yyy
     <a href="https://apps.apple.com/mx/app/rads/id6447589527?l=en">
      <img
       src="/assets/img/pic-android-download-button.svg"
