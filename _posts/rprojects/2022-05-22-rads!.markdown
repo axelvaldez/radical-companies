@@ -29,12 +29,9 @@ image:    "icon-rmedia.svg"
     </a>
    </td>
    <td>
-    <a href="https://apps.apple.com/mx/app/rads/id6447589527?l=en">
-     <img
-      src="/assets/img/pic-apple-download-button.svg"
-      alt="The Apple store pseudo button"
-      width="40%">
-    </a>
+    [
+    <a href="https://apps.apple.com/mx/app/rads/id6447589527?l=en"><img src="/assets/img/pic-apple-download-button.svg" alt="The Android store pseudo button" width="40%"></a>
+    ]
    </td>
   </tr>
  </table>
