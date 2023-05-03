@@ -27,7 +27,7 @@ image:    "icon-rmedia.svg"
       width="40%">
     </a>
    </td>
-   <td>
+   <td>xxx
     <a href="#">
      <img
       src="/assets/img/pic-android-download-button.svg"
