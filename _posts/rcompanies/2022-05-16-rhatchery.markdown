@@ -236,10 +236,30 @@ image:    "icon-rmedia.svg"
   </ul>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol style="font-size:smaller; ">
-  <li id="en01"><a href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a> Possibly, a good opportunity to get into an established company is when a new boss comes into the scene.  Particularly, when an inheriting child takes over a parent, such as when Ricard Semler took over after his father.</li>
-  <li id="en02"><a href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a> Kenneth Blanchard, Spencer Johnson. <a href="https://www.goodreads.com/quotes/580671-secret-2-one-minute-praising-help-people-to-reach">The One Minute Manager</a>. Berkley Trade, February 15, 1986.</li>
-  <li id="en03"><a href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>  Dave Logan, John King, Halee Fischer-Wright. <a href="https://a.co/1953Gkh">Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization</a>. 2008.</li>
- </ol>
+ <ul>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    Possibly, a good opportunity to get into an established company is when a new boss comes into the scene.  Particularly, when an inheriting child takes over a parent, such as when Ricard Semler took over after his father.
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    Kenneth Blanchard, Spencer Johnson.
+    <a href="https://www.goodreads.com/quotes/580671-secret-2-one-minute-praising-help-people-to-reach">The One Minute Manager</a>. Berkley Trade, February 15, 1986.</a>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    Dave Logan, John King, Halee Fischer-Wright.
+    <em>Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization</em>.
+    2008.
+    <a href="https://a.co/1953Gkh" target="_blank">https://a.co/1953Gkh</a>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
 
 {% include related.html %}

@@ -22,7 +22,7 @@ image:    "icon-renchilada-the-whole.svg"
  <p>BTW, the name is inspired by #100devs, <span class="_quotespan">A FREE LIVE Coding Bootcamp</span>, this program was founded by Leon Noel<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> to <span class="_quotespan">help POC unlock high growth careers as software engineers.</span> The program is working fantastically well.</p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     Not unlike the LastMile <<a href="https://thelastmile.org/" target="_blank">https://thelastmile.org/</a>> and Underdog Devs <<a href="https://www.underdogdevs.org/" target="_blank">https://www.underdogdevs.org/</a>>.
@@ -36,6 +36,6 @@ image:    "icon-renchilada-the-whole.svg"
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
