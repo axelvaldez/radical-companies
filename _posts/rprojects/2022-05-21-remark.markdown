@@ -14,11 +14,11 @@ image:    "icon-rmedia.svg"
  <div>
   <img
    src="/assets/img/pic-remark-buttons-vertical.svg"
-   style="float:left; padding-top:25px; padding-right:10px; "
+   style="float:left; padding-right:10px; "
    alt="At the top, two buttons enclosed is a box: a green button with a plus sign inside it and, below it, a red button with a minus sign inside it. Bellow the combo, a white button with comments-ON inside it. At the bottom a blue button with with comments-OFF inside it."
-   height="200em">
+   height="220em">
  </div>
- <p><em>rEmark!</em> is represented by floating buttons that readers can use to give feedback to authors. Clicking on the <code>plus</code> button records a positive response to specific text that readers highlight; the <code>minus</code> button indicates some form of dissatisfaction with a highlighted segment.</p>
+ <p style="text-indent:0; "><em>rEmark!</em> is represented by floating buttons that readers can use to give feedback to authors. Clicking on the <code>plus</code> button records a positive response to specific text that readers highlight; the <code>minus</code> button indicates some form of dissatisfaction with a highlighted segment.</p>
  <p>Readers can leave comments for each fragment they click on. Other visitors to the site can choose to see all comments ("commentws ON") or not ("commentws OFF"), default).</p>
 
 <h1>Value</h1>
