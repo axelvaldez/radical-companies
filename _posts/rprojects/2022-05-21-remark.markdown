@@ -15,7 +15,7 @@ image:    "icon-rmedia.svg"
 <img src="/assets/img/pic-remark-buttons-vertical.svg">
 
 <!--
-<h1>HHH Intro</h1>
+<h1>Intro</h1>
  <div>
   <img
    src="/assets/img/pic-remark-buttons-vertical.svg"
