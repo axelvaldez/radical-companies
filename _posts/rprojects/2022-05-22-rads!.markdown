@@ -16,7 +16,7 @@ image:    "icon-rmedia.svg"
 </div>
 
 <h1>BREAKING</h1>
- <p>CCC There is now a very basic version of the app in the IOS store and the Android store.</p>
+ <p>DDD There is now a very basic version of the app in the IOS store and the Android store.</p>
   <div class="_center" style="width=100%; ">
    <table style="border:1px solid black; width=100%; ">
     <tr>
