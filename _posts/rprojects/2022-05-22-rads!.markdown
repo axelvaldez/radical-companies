@@ -10,12 +10,13 @@ image:    "icon-rmedia.svg"
  <p>A simple system to recognize contributions that others have made to me, to my team, or to my company.</p>
 </div>
 
+"https://apps.apple.com/mx/app/rads/id6447589527?l=en"
 <div class="_center" style="width=100%; ">
  <table style="border:1px solid black; width:100%; background-color:#EEEEEE; ">
   <tr>
    <td style="colspan:all; ">
     <h1>BREAKING</h1>
-     <p>JJJ There is now a very basic version of the app in the IOS store and the Android store.</p>
+     <p>There is now a very basic version of the app in the IOS store and the Android store.</p>
     </td>
   </tr>
   <tr>
@@ -27,11 +28,11 @@ image:    "icon-rmedia.svg"
       width="40%">
     </a>
    </td>
-   <td>yyy
+   <td>
     <a href="https://apps.apple.com/mx/app/rads/id6447589527?l=en">
      <img
-      src="/assets/img/pic-android-download-button.svg"
-      alt="The Android store pseudo button"
+      src="/assets/img/pic-apple-download-button.svg"
+      alt="The Apple store pseudo button"
       width="40%">
     </a>
    </td>
