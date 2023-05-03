@@ -57,7 +57,7 @@ image:    "icon-urban-radical-silence.svg"
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <span style="float:left;  "><a href="https://radicalcompanies.com/2023/02/23/urban-radical">              Previous &lt;</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2023-02-25-urban-radical-one-more-time">    &gt; Next</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2023/02/25/urban-radical-one-more-time">    &gt; Next</a></span>
 </div>
 
 <h1 class="_section">ENDNOTES</h1>
