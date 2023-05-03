@@ -192,44 +192,40 @@ image:    "icon-rmedia.svg"
      </table>
     </td>
    </tr>
-   <tr id="_background">
-    <th>Flows</th>
-    <td>
-     <p><em>Flows</em> tie together a number of <em>fragments</em> to make for a coherent reading. Flows are first-class objects, persistent and publishable. For example, assume a book project starts with two authors and ends with many contributors from different authors,</p>
-      <div class="_center">
-       <img
-        src="/assets/img/rmake-flow-1.svg"
-        width="70%"
-        alt="The image shows two flows. Each flow is made up of four fragments. Fragments 1, 3, and 4 are by author1 and fragment two is by author2. To the right of the orignal flow is another one. This one starts with with a fragment by author1; fragments two is co-authored by author1 and author2; fragment three is coauthored by author2 and author 5; fragment 4 is coauthored by author1, author2, and author4. Presunably, authors 3 and 4 made a contribution and later retracted it.">
-      </div>
-      <p>For example, these could be the flows in between,</p>
-       <div style="text-align:center; ">
-       <img
-        src="/assets/img/rmake-flows.svg"
-        width="70%"
-        alt="This image shows six flows. FLow one is made up solo fragments. Fragments 1, 3, and 4 are by author1 and fragment two is by author2. The second flow starts with the same fragment written by author1, fragments 2 and 4 by author 2, and fragment 1 by author2. The third flow starts with the same fragment written by author1, the second fragment is co-written by author1 and author2, the third fragment is still the one written by author3, and the the last fragment written by author2. THe first two fragments of flow four are as before, but this time fragment 3 is written by author 2 and fragment four is co-written by author2 and author5. The first two fragments of flow five and its last fragment are as in flow four but in this flow fragment 3 is written by author5. The last flow illustrated starts with the same fragment written by author1, fragment2 is co-written by ">
-       </div>
-       <p>For example, maybe @author3 stopped contributing after modifying chapter 3. Other co-authors, however, continue to move the content forward and their changes make @author3&rsquo;s contribution obsolete. Or various co-authors make a few updates to my 4.0 fragment and then I make one last modification.</p>
-       <p>There will be the case where one or more co-authors go off in a different direction from the perspective of the other co-authors. In that case, the divergent co-author(s) would start a new flow with the content of the source flow and then add new content to it (<em>i.e.</em>, This is conceptually similar to a fork of an OSS software project). They can create a Linked flow, where the untouched fragments are merely links to the original (<em>i.e.</em>, Linked flows will reflect any and all changes in these fragments),</p>
-        <div style="text-align:center; ">
-         <img
-         src="/assets/img/rmake-new-flow.svg"
-         width="70%"
-         alt="">
-       </div>
-       <p>They could, alternatively, create a Copied flow, where every fragment is a static copy of the original fragment. Changes in the original fragments would not be reflected in the new flow.</p>
-       <p>Either way, authorship stays with each fragment, whether Linked or Copied. Content is owned by those who author it.</p>
-       <p>These flows are first-class objects. They are addressable, persistent, and each can be publishable separately. For example, I could post a URL to one flow (<em>e.g.</em>, 1, 2, 3, 4) and you could publish another flow (<em>e.g.</em>, 1, 2, modified 3, 4). Readers can choose to read one flow or another. Or they can jump from one to another, regardless of the flow they started from.</p>
-       <p>Of note, this could cause weird situations. For example, I create a flow about responsible gun ownership. Somebody else may fork it and use the statistics chapter to support reckless gun ownership. In this case, I could end up getting paid from sales of the &ldquo;irresponsible&rdquo; book. At first, I found the thought a bit distressing, but as Doug Kirkpatrick points out,</p>
-        <div class="_quotation">
-         <p>That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</p>
-         <p>If a statistics book chapter is OPEN, therefore, it is subject to being applied by individuals to arguments with which we may disagree.</p>
-         <p>I also think that books aren&rsquo;t just about the writers, they&rsquo;re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren&rsquo;t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics</em>.<a href="#en08"><sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a>)</p>
-        </div>
-    </td>
-   </tr>
   </table>
- </div>
+
+<h1>Flows</h1>
+ <p><em>Flows</em> tie together a number of <em>fragments</em> to make for a coherent reading. Flows are first-class objects, persistent and publishable. For example, assume a book project starts with two authors and ends with many contributors from different authors,</p>
+  <div class="_center">
+   <img
+    src="/assets/img/rmake-flow-1.svg"
+    width="70%"
+    alt="The image shows two flows. Each flow is made up of four fragments. Fragments 1, 3, and 4 are by author1 and fragment two is by author2. To the right of the orignal flow is another one. This one starts with with a fragment by author1; fragments two is co-authored by author1 and author2; fragment three is coauthored by author2 and author 5; fragment 4 is coauthored by author1, author2, and author4. Presunably, authors 3 and 4 made a contribution and later retracted it.">
+  </div>
+ <p>For example, these could be the flows in between,</p>
+  <div style="text-align:center; ">
+   <img
+    src="/assets/img/rmake-flows.svg"
+    width="70%"
+    alt="This image shows six flows. FLow one is made up solo fragments. Fragments 1, 3, and 4 are by author1 and fragment two is by author2. The second flow starts with the same fragment written by author1, fragments 2 and 4 by author 2, and fragment 1 by author2. The third flow starts with the same fragment written by author1, the second fragment is co-written by author1 and author2, the third fragment is still the one written by author3, and the the last fragment written by author2. THe first two fragments of flow four are as before, but this time fragment 3 is written by author 2 and fragment four is co-written by author2 and author5. The first two fragments of flow five and its last fragment are as in flow four but in this flow fragment 3 is written by author5. The last flow illustrated starts with the same fragment written by author1, fragment2 is co-written by ">
+  </div>
+  <p>For example, maybe @author3 stopped contributing after modifying chapter 3. Other co-authors, however, continue to move the content forward and their changes make @author3&rsquo;s contribution obsolete. Or various co-authors make a few updates to my 4.0 fragment and then I make one last modification.</p>
+  <p>There will be the case where one or more co-authors go off in a different direction from the perspective of the other co-authors. In that case, the divergent co-author(s) would start a new flow with the content of the source flow and then add new content to it (<em>i.e.</em>, This is conceptually similar to a fork of an OSS software project). They can create a Linked flow, where the untouched fragments are merely links to the original (<em>i.e.</em>, Linked flows will reflect any and all changes in these fragments),</p>
+  <div style="text-align:center; ">
+   <img
+    src="/assets/img/rmake-new-flow.svg"
+    width="70%"
+    alt="">
+  </div>
+  <p>They could, alternatively, create a Copied flow, where every fragment is a static copy of the original fragment. Changes in the original fragments would not be reflected in the new flow.</p>
+  <p>Either way, authorship stays with each fragment, whether Linked or Copied. Content is owned by those who author it.</p>
+  <p>These flows are first-class objects. They are addressable, persistent, and each can be publishable separately. For example, I could post a URL to one flow (<em>e.g.</em>, 1, 2, 3, 4) and you could publish another flow (<em>e.g.</em>, 1, 2, modified 3, 4). Readers can choose to read one flow or another. Or they can jump from one to another, regardless of the flow they started from.</p>
+  <p>Of note, this could cause weird situations. For example, I create a flow about responsible gun ownership. Somebody else may fork it and use the statistics chapter to support reckless gun ownership. In this case, I could end up getting paid from sales of the &ldquo;irresponsible&rdquo; book. At first, I found the thought a bit distressing, but as Doug Kirkpatrick points out,</p>
+   <div class="_quotation">
+    <p>That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</p>
+    <p>If a statistics book chapter is OPEN, therefore, it is subject to being applied by individuals to arguments with which we may disagree.</p>
+    <p>I also think that books aren&rsquo;t just about the writers, they&rsquo;re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren&rsquo;t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics</em>.<a href="#en08"><sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a>)</p>
+   </div>
 
 <h1>Publishing</h1>
  <p>The mythical &ldquo;book deal&rdquo; includes an advance that a publisher pays an author when the book is just an outline. For well-known authors and brand names (<em>e.g.</em>, ex-President Obama), that is still the case. The rest of us get, at best, a percent of sales minus all expenses, including returns,</p>
