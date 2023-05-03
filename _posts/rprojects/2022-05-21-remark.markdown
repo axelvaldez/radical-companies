@@ -88,10 +88,7 @@ image:    "icon-rmedia.svg"
  </div>
 
 <h1>Another Thought</h1>
- <ul>
-  <li><em>rEmark!</em> and <em><span class="_paradigm">RAD</span>s!</em> will probably share a backend.</li>
-  <li>Later, provide a decentralized highlight and annotation service.</li>
- </ul>
+ <p><em>rEmark!</em> and <em><span class="_paradigm">RAD</span>s!</em> will probably share a backend.</p>
 
 <h1>Credits</h1>
  <p><em>rEmark</em> is inspired by a similar idea from <a href="https://www.linkedin.com/in/typaldos/" target="_blank">Cynthia Typaldos</a>.</p>
