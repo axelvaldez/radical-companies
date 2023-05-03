@@ -13,22 +13,27 @@ image:    "icon-rmedia.svg"
 <div class="_center" style="width=100%; ">
  <table style="border:1px solid black; width:100%; background-color:#EEEEEE; ">
   <tr>
-   <td style="colspan:all; ">
+   <td colspan="2">
     <h1>BREAKING</h1>
      <p>There is now a very basic version of the app in the IOS store and the Android store.</p>
     </td>
   </tr>
-  <tr>zzz
+  <tr>
    <td style="width:40%; ">
     <a href="https://apps.apple.com/mx/app/rads/id6447589527?l=en">
      <img
       src="/assets/img/pic-apple-download-button.svg"
       alt="The Apple store pseudo button"
-      >
+     >
     </a>
    </td>
    <td style="width:40%; ">
-    <a href="https://apps.apple.com/mx/app/rads/id6447589527?l=en"><img src="/assets/img/pic-apple-download-button.svg" alt="The Android store pseudo button"></a>
+    <a href="#">
+     <img
+      src="/assets/img/pic-apple-download-button.svg"
+      alt="The Android store pseudo button"
+     >
+    </a>
    </td>
   </tr>
  </table>
