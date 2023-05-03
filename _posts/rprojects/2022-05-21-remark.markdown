@@ -11,7 +11,6 @@ image:    "icon-rmedia.svg"
 </div>
 
 <h1>GGG Intro</h1>
- <p>The rEmark! buttons are a floating button combo that readers can use to give feedback to authors. Clicking on the <code>plus</code> button records a positive response to specific text that readers highlight; the <code>minus</code> button indicates some form of dissatisfaction with a highlighted segment.</p>
  <div>
   <img
    src="/assets/img/pic-remark-buttons-vertical.svg"
@@ -20,7 +19,8 @@ image:    "icon-rmedia.svg"
    height="14em"
   >
  </div>
- <p>Readers can leave comments for each fragment they click on. Other visitors to the site can choose to see all comments or not (<em>i.e.</em>, default is OFF).</p>
+ <p>The rEmark! buttons are a floating buttons that readers can use to give feedback to authors. Clicking on the <code>plus</code> button records a positive response to specific text that readers highlight; the <code>minus</code> button indicates some form of dissatisfaction with a highlighted segment.</p>
+ <p>Readers can leave comments for each fragment they click on. Other visitors to the site can choose to see all comments ("commentws ON") or not (("commentws OFF"), default).</p>
 
 <h1>Value</h1>
  <p>For authors, bloggers, and podcasters rEmark! is primarily a source of specific, actionable feedback about their content. They get the highlighted passages, the number of positive and negative clicks, and comments associated with each.</p>
