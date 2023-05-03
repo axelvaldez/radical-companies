@@ -16,7 +16,7 @@ image:    "icon-rmedia.svg"
 </div>
 
 <h1>BREAKING</h1>
- <p>DDD There is now a very basic version of the app in the IOS store and the Android store.</p>
+ <p>EEE There is now a very basic version of the app in the IOS store and the Android store.</p>
   <div class="_center" style="width=100%; ">
    <table style="border:1px solid black; width=100%; ">
     <tr>
@@ -24,7 +24,7 @@ image:    "icon-rmedia.svg"
       <a href="https://apps.apple.com/mx/app/rads/id6447589527?l=en">
        <img
         src="/assets/img/pic-apple-download-button.svg"
-        alt="The Apple store pseudo button"
+        alt="The Apple store pseudo button">
       </a>
      </td>
      <td>
