@@ -28,8 +28,6 @@ image:    "icon-rmedia.svg"
         alt="The Apple store pseudo button">
       </a>
      </td>
-    </tr>
-    <tr>
      <td>
       <a href="#">
        <img
