@@ -17,32 +17,30 @@ image:    "icon-rmedia.svg"
 
 <h1>BREAKING</h1>
  <p>BBB There is now a very basic version of the app in the IOS store and the Android store.</p>
-  <div class="_center">
-   <table style="border:1px solid black; ">
+  <div class="_center" style="width=100%; ">
+   <table style="border:1px solid black; width=100%; ">
     <tr>
      <td>
       <a href="https://apps.apple.com/mx/app/rads/id6447589527?l=en">
        <img
         src="/assets/img/pic-apple-download-button.svg"
-        width="70%"
-        alt="The Apple store pseudo button">
+        alt="The Apple store pseudo button"
       </a>
      </td>
      <td>
       <a href="#">
        <img
         src="/assets/img/pic-android-download-button.svg"
-        width="70%"
         alt="The Android store pseudo button">
       </a>
      </td>
     </tr>
     <tr>
      <td>
-      <a href="https://apps.apple.com/mx/app/rads/id6447589527?l=en"><img src="/assets/img/pic-apple-download-button.svg" width="70%" alt="The Apple store pseudo button"></a>
+      <a href="https://apps.apple.com/mx/app/rads/id6447589527?l=en"><img src="/assets/img/pic-apple-download-button.svg"   alt="The Apple store pseudo button"> </a>
      </td>
      <td>
-      <a href="#"                                                   ><img src="/assets/img/pic-android-download-button.svg" width="70%" alt="The Android store pseudo button"></a>
+      <a href="#">                                                   <img src="/assets/img/pic-android-download-button.svg" alt="The Android store pseudo button"></a>
      </td>
     </tr>
    </table>
