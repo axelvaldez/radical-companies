@@ -14,7 +14,7 @@ image:    "icon-giving-rads.svg"
  <p>In the book <em><span class='_paradigm'>RADICAL</span></em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> we mentioned various ways of deploying <span class='_paradigm'>RAD</span>s, but we were generally vague because we had no experience with them.</p>
  <p>We now have a mobile app to help us with the RAD distribution<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>. We have build some experience with it and we can at least go through one specific example of how we think of giving <span style="font-size:smaller; ">RAD</span>s now.</p>
    <img
-    src="/assets/img/giving-rads-220720.svg"
+    src="/assets/img/[pic-giving-rads.svg"
     style="margin-left:40px; "
     alt="Two screenshots from the RADs! Distribution mobile app. The screenshots show the two tabs the app has: the left tab, labeled co-owners, shows the people who are included in my team. The right tab shows people that have been invited to the use the app. I can give RADs to people in either list."
     width="70%"
@@ -23,10 +23,10 @@ image:    "icon-giving-rads.svg"
 
 <h1>How the <span class='_paradigm'>Give</span> Button Works</h1>
  <ol>
-  <li>You press the green button to recognize a peer&rsquo;s contribution.</li>
-  <li>You can press the green button as many times as you want to reflect how you feel about their contribution.</li>
-  <li>Once you ease off on the green button, a note box will come up so you can let your peer know why you are giving them <span style="font-size:smaller; ">RAD</span>s</li>
-  <li>When you submit, or dismiss, the note, a notification shows up on their device letting them know that they've been recognized, along with the note, if any, with the details.</li>
+  <li>You press the &ldquo;give&rdquo; button to recognize a peer&rsquo;s contribution.</li>
+  <li>You can press the &ldquo;give&rdquo; button as many times as you want to reflect how you feel about their contribution.</li>
+  <li>Once you ease off on the &ldquo;give&rdquo; button, a note box will come up so you can let your peer and the other co-owners know <em>why</em> you are giving them <span class="_paradigm">RAD</span>s</li>
+  <li>When you submit the note, a notification shows up on their device letting them know that they&rsquo;ve been recognized, along with the note.</li>
  </ol>
 
 <h1>How <span class='_paradigm'>RAD</span>s Are Calculated</h1>
@@ -34,20 +34,20 @@ image:    "icon-giving-rads.svg"
  <p>The calculation is based on your cycle, which could be monthly, or weekly, or quarterly, or whatever. In any case, the calculation is very simple,</p>
  <p class="_center">
   <img
-   src="/assets/img/pings-to-rads-equation.svg"
-   alt="The picture depicts an a simple equation. The first term is the number of recognitions per person divided by the total number of recognitions I've given. This is multiplied by the number of days in the cycle. The result is the number of RADs I am giving to each of my peers."
+   src="/assets/img/pic-pings-to-rads-equation.svg"
+   alt="The picture depicts a simple equation. As recognitions come in, the app divided the number of recognitions per person by the total number of recognitions I have given. This is multiplied by the number of RADs I have received during this cycle. The result is the number of RADs I am giving to each of my peers."
    width="50%"
   >
  </p>
 
 <h1>How the <span class='_paradigm'>Let&rsquo;s Talk</span> Button Works</h1>
  <ul>
-  <li>Press the Let&rsquo;s Talk button to let a peer&rsquo;s know that you want to talk.</li>
-  <li>You press it once per topic.</li>
+  <li>Press the <span class='_paradigm'>Let&rsquo;s Talk</span> button.</li>
+  <li>Press it once per topic.</li>
   <li>After you press it, a note box will come up for you to write a note, private to you, of the particular topic.</li>
   <li>Once you save the note, a notification shows up on their device letting them know that you&rsquo;d like to talk.</li>
   <li>It is a good practice to propose, or ask for, a day and time.</li>
-  <li>You can press it more than once with the same private note (or none), but the person at the other end will receive one notification. On the other hand, writing a different note will fire another notification.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></li>
+  <li>If you press it more than once with the same private note, the person at the other end will receive one notification. On the other hand, writing a different note will fire another notification.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></li>
  </ul>
  
 <h1 class="_section">ENDNOTES</h1>
