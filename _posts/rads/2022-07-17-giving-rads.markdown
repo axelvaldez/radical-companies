@@ -14,7 +14,7 @@ image:    "icon-giving-rads.svg"
  <p>In the book <em><span class='_paradigm'>RADICAL COMPANIES</span></em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> we mentioned various ways of deploying <span class='_paradigm'>RAD</span>s, but we were generally vague because we had no experience with them.</p>
  <p>We now have a mobile app to help us with the RAD distribution<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>. We have build some experience with it and we can at least go through one specific example of how we think of giving <span style="font-size:smaller; ">RAD</span>s now.</p>
    <img
-    src="/assets/img/[pic-giving-rads.svg"
+    src="/assets/img/pic-giving-rads.svg"
     style="margin-left:40px; "
     alt="Two screenshots from the RADs! Distribution mobile app. The screenshots show the two tabs the app has: the left tab, labeled co-owners, shows the people who are included in my team. The right tab shows people that have been invited to the use the app. I can give RADs to people in either list."
     width="70%"
