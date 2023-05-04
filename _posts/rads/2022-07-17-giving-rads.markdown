@@ -21,11 +21,11 @@ image:    "icon-giving-rads.svg"
   >
  <p>Note that a long push of the left and right arrows brings up a list of communities you are a member of so you can jump directly to it.</p>
 
-<h1>How the <span class='_paradigm'>Give</span> Button Works</h1>
- <ol>
-  <li>You press the &ldquo;give&rdquo; button to recognize a peer&rsquo;s contribution.</li>
-  <li>You can press the &ldquo;give&rdquo; button as many times as you want to reflect how you feel about their contribution.</li>
-  <li>Once you ease off on the &ldquo;give&rdquo; button, a note box will come up so you can let your peer and the other co-owners know <em>why</em> you are giving them <span class="_paradigm">RAD</span>s</li>
+<h1>How the <span class='_paradigm'>GIVE</span> Button Works</h1>
+ <ol>i
+  <li>You press the &ldquo;GIVE&rdquo; button to recognize a peer&rsquo;s contribution.</li>
+  <li>You can press the &ldquo;GIVE&rdquo; button as many times as you want to reflect how you feel about their contribution.</li>
+  <li>Once you ease off on the &ldquo;GIVE&rdquo; button, a note box will come up so you can let your peer and the other co-owners know <em>why</em> you are giving them <span class="_paradigm">RAD</span>s</li>
   <li>When you submit the note, a notification shows up on their device letting them know that they&rsquo;ve been recognized, along with the note.</li>
  </ol>
 
@@ -40,9 +40,9 @@ image:    "icon-giving-rads.svg"
   >
  </p>
 
-<h1>How the <span class='_paradigm'>Let&rsquo;s Talk</span> Button Works</h1>
+<h1>How the <span class='_paradigm'>LET&rsquo;S TALK</span> Button Works</h1>
  <ul>
-  <li>Press the <span class='_paradigm'>Let&rsquo;s Talk</span> button.</li>
+  <li>Press the <span class='_paradigm'>LET&rsquo;S TALK</span> button.</li>
   <li>Press it once per topic.</li>
   <li>After you press it, a note box will come up for you to write a note, private to you, of the particular topic.</li>
   <li>Once you save the note, a notification shows up on their device letting them know that you&rsquo;d like to talk.</li>
