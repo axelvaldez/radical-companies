@@ -23,9 +23,9 @@ image:    "icon-giving-rads.svg"
 
 <h1>How the <span class='_paradigm'>GIVE</span> Button Works</h1>
  <ol>
-  <li>You press the &ldquo;GIVE&rdquo; button to recognize a peer&rsquo;s contribution.</li>
-  <li>You can press the &ldquo;GIVE&rdquo; button as many times as you want to reflect how you feel about their contribution.</li>
-  <li>Once you ease off on the &ldquo;GIVE&rdquo; button, a note box will come up so you can let your peer and the other co-owners know <em>why</em> you are giving them <span class="_paradigm">RAD</span>s</li>
+  <li>You press the GIVE button to recognize a peer&rsquo;s contribution.</li>
+  <li>You can press the GIVE button as many times as you want to reflect how you feel about their contribution.</li>
+  <li>Once you ease off on the GIVE button, a note box will come up so you can let your peer and the other co-owners know <em>why</em> you are giving them <span class="_paradigm">RAD</span>s</li>
   <li>When you submit the note, a notification shows up on their device letting them know that they&rsquo;ve been recognized, along with the note.</li>
  </ol>
 
