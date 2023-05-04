@@ -13,12 +13,13 @@ image:    "icon-giving-rads.svg"
 <h1>&nbsp;</h1>
  <p>In the book <em><span class='_paradigm'>RADICAL COMPANIES</span></em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> we mentioned various ways of deploying <span class='_paradigm'>RAD</span>s, but we were generally vague because we had no experience with them.</p>
  <p>We now have a mobile app to help us with the RAD distribution<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>. We have build some experience with it and we can at least go through one specific example.</p>
+  <div class="_center">
    <img
     src="/assets/img/pic-giving-rads.svg"
-    style="margin-left:40px; "
     alt="Two screenshots from the RADs! Distribution mobile app. The screenshots show the two tabs the app has; the left tab, labeled co-owners, shows the people who are included in my team; the right tab shows people that have been invited to the use the app. I can give RADs to people in either list."
     width="70%"
-  >
+   >
+  </div>
  <p>Note that a long push of the left and right arrows brings up a list of communities you are a member of so you can jump directly to it.</p>
 
 <h1>How the <span class='_paradigm'>GIVE</span> Button Works</h1>
