@@ -21,7 +21,7 @@ image:    "icon-giving-rads.svg"
   >
  <p>Note that a long push of the left and right arrows brings up a list of communities you are a member of so you can jump directly to it.</p>
 
-<h1>How the Green Button Works</h1>
+<h1>How the <span class='_paradigm'>Give</span> Button Works</h1>
  <ol>
   <li>You press the green button to recognize a peer&rsquo;s contribution.</li>
   <li>You can press the green button as many times as you want to reflect how you feel about their contribution.</li>
