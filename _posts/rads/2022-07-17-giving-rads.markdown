@@ -16,7 +16,7 @@ image:    "icon-giving-rads.svg"
    <img
     src="/assets/img/pic-giving-rads.svg"
     style="margin-left:40px; "
-    alt="Two screenshots from the RADs! Distribution mobile app. The screenshots show the two tabs the app has: the left tab, labeled co-owners, shows the people who are included in my team. The right tab shows people that have been invited to the use the app. I can give RADs to people in either list."
+    alt="Two screenshots from the RADs! Distribution mobile app. The screenshots show the two tabs the app has; the left tab, labeled co-owners, shows the people who are included in my team; the right tab shows people that have been invited to the use the app. I can give RADs to people in either list."
     width="70%"
   >
  <p>Note that a long push of the left and right arrows brings up a list of communities you are a member of so you can jump directly to it.</p>
