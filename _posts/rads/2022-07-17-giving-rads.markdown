@@ -42,8 +42,7 @@ image:    "icon-giving-rads.svg"
 
 <h1>How the <span class='_paradigm'>LET&rsquo;S TALK</span> Button Works</h1>
  <ul>
-  <li>Press the <span class='_paradigm'>LET&rsquo;S TALK</span> button.</li>
-  <li>Press it once per topic.</li>
+  <li>Press the <span class='_paradigm'>LET&rsquo;S TALK</span> button (<em>i.e.</em>, once per topic).</li>
   <li>After you press it, a note box will come up for you to write a note, private to you, of the particular topic.</li>
   <li>Once you save the note, a notification shows up on their device letting them know that you&rsquo;d like to talk.</li>
   <li>It is a good practice to propose, or ask for, a day and time.</li>
