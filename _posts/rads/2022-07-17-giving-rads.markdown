@@ -30,7 +30,7 @@ image:    "icon-giving-rads.svg"
  </ol>
 
 <h1>How <span class='_paradigm'>RAD</span>s Are Calculated</h1>
- <p>What you are really doing with this app is <a href="https://www.youtube.com/watch?v=5aH2Ppjpcho" target="blank">recognizing your peers&rsquo; contributions (<em>i.e.</em>, <em>Meaning</em>)</a>. You can press the <em>hand</em> recognition button as much as you want; the app takes care of calculating the actual number of <span class='_paradigm'>RAD</span>s that your peer will get.</p>
+ <p>What you are really doing with this app is recognizing your peers&rsquo; contributions<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> (<em>i.e.</em>, <em>Meaning</em>)</a>. You can press the <em>hand</em> recognition button as much as you want; the app takes care of calculating the actual number of <span class='_paradigm'>RAD</span>s that your peer will get.</p>
  <p>The calculation is based on your cycle, which could be monthly, or weekly, or quarterly, or whatever. In any case, the calculation is very simple,</p>
  <p class="_center">
   <img
@@ -47,7 +47,7 @@ image:    "icon-giving-rads.svg"
   <li>After you press it, a note box will come up for you to write a note, private to you, of the particular topic.</li>
   <li>Once you save the note, a notification shows up on their device letting them know that you&rsquo;d like to talk.</li>
   <li>It is a good practice to propose, or ask for, a day and time.</li>
-  <li>If you press it more than once with the same private note, the person at the other end will receive one notification. On the other hand, writing a different note will fire another notification.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></li>
+  <li>If you press it more than once with the same private note, the person at the other end will receive one notification. On the other hand, writing a different note will fire another notification.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></li>
  </ul>
  
 <h1 class="_section">ENDNOTES</h1>
@@ -56,14 +56,23 @@ image:    "icon-giving-rads.svg"
    <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
     <em>RADICAL COMPANIES: Withough Bosses or Employees</em>.
+    Pradera Media.
     2021.
     &lt;<a href="https://radicalcompanies.com" target="blank">https://radicalcompanies.com</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   <li id="en02">
    <p class="_list-item">
-    Our thanks to the team at <a href="https://xipegroup.com" target="blank">Xipe Group</a>, who created it.
+    Our thanks to the team at Xipe Group, who created it.
+    &lt;<a href="https://xipegroup.com" target="blank">https://xipegroup.com</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04>
+   <p class="_list-item">
+    A simple verbatim compare for now.
+    &lt;<a href="https://www.youtube.com/watch?v=5aH2Ppjpcho" target="blank">https://www.youtube.com/watch?v=5aH2Ppjpcho</a>&gt;
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
