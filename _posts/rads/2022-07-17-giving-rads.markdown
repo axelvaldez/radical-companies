@@ -22,7 +22,7 @@ image:    "icon-giving-rads.svg"
  <p>Note that a long push of the left and right arrows brings up a list of communities you are a member of so you can jump directly to it.</p>
 
 <h1>How the <span class='_paradigm'>GIVE</span> Button Works</h1>
- <ol>i
+ <ol>
   <li>You press the &ldquo;GIVE&rdquo; button to recognize a peer&rsquo;s contribution.</li>
   <li>You can press the &ldquo;GIVE&rdquo; button as many times as you want to reflect how you feel about their contribution.</li>
   <li>Once you ease off on the &ldquo;GIVE&rdquo; button, a note box will come up so you can let your peer and the other co-owners know <em>why</em> you are giving them <span class="_paradigm">RAD</span>s</li>
