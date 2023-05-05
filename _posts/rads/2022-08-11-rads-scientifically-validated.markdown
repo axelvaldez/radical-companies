@@ -38,14 +38,14 @@ image:    "icon-giving-rads-validated.svg"
    <table class="_h2table">
     <tr>
      <th>Enable Job Crafting</th>
-     <td><span class="_quotespan">When companies trust employees to choose which projects they’ll work on, people focus their energies on what they care about most.</td>
+     <td><span class="_quotespan">When companies trust employees to choose which projects they’ll work on, people focus their energies on what they care about most.</span></td>
     </tr>
    </table>
 
    <table class="_h2table">
     <tr>
      <th>Share Information Broadly</th>
-     <td><span class="_quotespan">Organizations that share their &lsquo;flight plans&lsquo; with employees reduce uncertainty about where they are headed and why.</td>
+     <td><span class="_quotespan">Organizations that share their &lsquo;flight plans&lsquo; with employees reduce uncertainty about where they are headed and why.</span></td>
     </tr>
    </table>
 
@@ -66,7 +66,7 @@ image:    "icon-giving-rads-validated.svg"
   </div>
  <p>yyy Zak concludes that,</p>
   <div class="_quotation">
-   <p>&hellip;those working in high-trust companies enjoyed their jobs 60% more, were 70% more aligned with their companies’ purpose, and felt 66% closer to their colleagues. &hellip; Compared with employees at low-trust organizations, the high-trust folks had 11% more empathy for their workmates, depersonalized them 41% less often, and experienced 40% less burnout from their work. They felt a greater sense of accomplishment, as well—41% more.</p>
+   <td><span class="_quotespan">&hellip;those working in high-trust companies enjoyed their jobs 60% more, were 70% more aligned with their companies’ purpose, and felt 66% closer to their colleagues. &hellip; Compared with employees at low-trust organizations, the high-trust folks had 11% more empathy for their workmates, depersonalized them 41% less often, and experienced 40% less burnout from their work. They felt a greater sense of accomplishment, as well—41% more.</span></td>
   </div>
 
 <h1><span class="_paradigm">RAD</span>s Promote Trust</h1>
