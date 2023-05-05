@@ -61,6 +61,7 @@ image:    "icon-giving-rads.svg"
     &lt;<a href="https://radicalcompanies.com" target="blank">https://radicalcompanies.com</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
+  </li>
   <li id="en02">
    <p class="_list-item">
     Our thanks to the team at Xipe Group, who created it.
