@@ -23,13 +23,15 @@ image:    "icon-equal-vs-equitable.svg"
      <img
       src="/assets/img/equal-vs-equitable-02.svg"
       alt="">
-    </td><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
-  </tr>
-  <tr>
-   <td style="text-align:center; width:50%; ">EQUAL</td>
-   <td style="text-align:center; width:50%; ">EQUITABLE</td>
-  </tr>
- </table>
+     <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
+    </td>
+   </tr>
+   <tr>
+    <td style="text-align:center; width:50%; ">EQUAL</td>
+    <td style="text-align:center; width:50%; ">EQUITABLE</td>
+   </tr>
+  </table>
+ </div>
 
 <h1>They Are Not the Same</h1>
  <p>The point is that they are <em>not</em> the same. &ldquo;Equal&rdquo; assumes that a level-playing field is enough (<em>i.e.</em>, everybody starts from a leveled ground). &ldquo;Equitable&rdquo; is about equitable outcomes (<em>i.e.</em>, all the heads are above the fence).</p>
