@@ -71,7 +71,9 @@ image:    "icon-giving-rads.svg"
   </li>
   <li id="en04>
    <p class="_list-item">
-    A simple verbatim compare for now.
+    Dan Ariely.
+    <em>What makes us feel good about our work?</em>
+    TEDx Talk.
     &lt;<a href="https://www.youtube.com/watch?v=5aH2Ppjpcho" target="blank">https://www.youtube.com/watch?v=5aH2Ppjpcho</a>&gt;
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
