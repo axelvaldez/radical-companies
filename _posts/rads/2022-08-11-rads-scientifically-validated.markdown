@@ -18,6 +18,8 @@ image:    "icon-giving-rads-validated.svg"
      <th>Recognize Excellence</th>
      <td><span class="_quotespan">The neuroscience shows that recognition has the largest effect on trust when it occurs immediately after a goal has been met, when it comes from peers, and when it’s tangible, unexpected, personal, and public.</span></td>
     </tr>
+   </table>
+   <table>
     <tr>
      <th>Induce &ldquo;Challenge Stress&rdquo;</th>
      <td><span class="_quotespan">When team members need to work together to reach a goal, brain activity coordinates their behaviors efficiently.</span></td>
