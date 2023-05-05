@@ -31,8 +31,8 @@ image:    "icon-radical-units-of-measure.svg"
  <div style="text-align:center; ">
   <img
    src="/assets/img/pic-recognitions-to-rads-equation.svg"
-   width="90%"
    alt="The picture depicts a simple equation. As recognitions come in, the app divides the number of recognitions per perco-ownerson by the total number of recognitions I have given. This is multiplied by the number of RADs I have received during this cycle. The result is the number of RADs I am giving to each of my peers."
+   width="90%">
  </div>
 
 <h1 class="_section">ENDNOTES</h1>
