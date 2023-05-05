@@ -17,7 +17,7 @@ image:    "icon-cheating-rads.svg"
 
 <h1>Love</h1>
  <p>&ldquo;Hey, how come you have been giving each other 100% of your <span class='_paradigm'>RAD</span>s?&rdquo;</p>
- <p style="text-imdent:0; ">&ldquo;Don&rsquo;t you know what&rsquo;s happening outside your team? Aren&rsquo;t you curious?&rdquo;</p>
- <p style="text-imdent:0; ">&ldquo;It is good to take time to observe all the life that&rsquo;s going on around you. Maybe you&rsquo;ll find contributions there.&rdquo;</p>
+ <p style="text-indent:0; ">&ldquo;Don&rsquo;t you know what&rsquo;s happening outside your team? Aren&rsquo;t you curious?&rdquo;</p>
+ <p style="text-indent:0; ">&ldquo;It is good to take time to observe all the life that&rsquo;s going on around you. Maybe you&rsquo;ll find contributions there.&rdquo;</p>
 
 {% include related.html %}
