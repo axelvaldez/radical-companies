@@ -23,7 +23,7 @@ image:    "icon-roundabouts.svg"
  <p>Roundabouts could be plain, though they uually match their surroundings. Oftentimes, they can be very artistic and even be flamboyant. They don&rsquo;t cost as much to &ldquo;install&rdquo; and maintenance, if any, is minimal. Most importantly, <em>the drivers manage their operation</em> according to what&rsquo;s happening: sometimes they go in and other times they wait for other vehicles or pedestrians. There&rsquo;s no bureaucracy to fight and the only &ldquo;influence&rdquo; that counts is that of the people at the intersection.</p>
  <div class=_center>
   <img
-   src="/assets/img/icon-roundabouts.svg"
+   src="/assets/img/pic-roundabouts.svg"
    style="display:block; margin:0 auto; "
    alt="Roundabouts in matching their surroundings, artistics, and flamboyant. All very interesting and good looking."
    width=90%;
