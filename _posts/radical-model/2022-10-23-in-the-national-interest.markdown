@@ -19,7 +19,7 @@ image:    "icon-in-the-national-interest.svg"
 <h1>Churchill</h1>
  <div class="_citation">
   <span class="_quotespan">&hellip; it has been said that democracy is the worst form of Government except for all those other forms that have been tried&hellip; </span>
-  <p class="_signature">>Winston Churchill, 1947<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></span>
+  <p class="_signature">>Winston Churchill, 1947<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>When he said this, Churchill assumed that a government would be in place. And it was a fair assumption, but why?</p>
  
