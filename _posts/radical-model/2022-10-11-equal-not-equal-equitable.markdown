@@ -11,7 +11,7 @@ image:    "icon-equal-vs-equitable.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <div class=_center">
+ <div class="_center">
   <table style="width:100%; ">
    <tr>
     <td style="width:50%; ">
@@ -22,8 +22,7 @@ image:    "icon-equal-vs-equitable.svg"
     <td style="width:50%; ">
      <img
       src="/assets/img/equal-vs-equitable-02.svg"
-      alt="">
-     <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
+      alt=""><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
     </td>
    </tr>
    <tr>
