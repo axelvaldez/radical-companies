@@ -19,50 +19,31 @@ image:    "icon-giving-rads-validated.svg"
      <th>Recognize Excellence</th>
      <td><span class="_quotespan">The neuroscience shows that recognition has the largest effect on trust when it occurs immediately after a goal has been met, when it comes from peers, and when it’s tangible, unexpected, personal, and public.</span></td>
     </tr>
-   </table>
-
-   <table class="_h2table">
     <tr>
      <th>Induce &ldquo;Challenge Stress&rdquo;</th>
      <td><span class="_quotespan">When team members need to work together to reach a goal, brain activity coordinates their behaviors efficiently.</span></td>
     </tr>
-   </table>
-
-   <table class="_h2table">
     <tr>
      <th>Give People Discretion in How They Do Their Work</th>
      <td><span class="_quotespan">BBB &hellip; </span> allow them, whenever possible, to manage people and execute projects in their own way. Being trusted to figure things out is a big motivator. Also, autonomy <span class="_quotespan">promotes innovation&hellip; </span>.</td>
     </tr>
-   </table>
-
-   <table class="_h2table">
     <tr>
      <th>Enable Job Crafting</th>
      <td><span class="_quotespan">When companies trust employees to choose which projects they’ll work on, people focus their energies on what they care about most.</span></td>
     </tr>
-   </table>
-
-   <table class="_h2table">
     <tr>
      <th>Share Information Broadly</th>
      <td><span class="_quotespan">Organizations that share their &lsquo;flight plans&lsquo; with employees reduce uncertainty about where they are headed and why.</span></td>
     </tr>
-   </table>
-
-   <table class="_h2table">
     <tr>
      <th>Intentionally Build Relationships</th>
      <td><span class="_quotespan">&hellip; at work we often get the message that we should focus on completing tasks, not on making friends. Neuroscience experiments by my lab show that when people intentionally build social ties at work, their performance improves.</span></td>
     </tr>
-   </table>
-
-   <table class="_h2table">
     <tr>
      <th>Facilitate Whole-Person Growth</th>
      <td><span class="_quotespan">High-trust workplaces help people develop personally as well as professionally. &hellip; acquiring new work skills isn’t enough&hellip; the backward-looking annual performance review is no longer necessary.</span></td>
     </tr>
    </table>
-
   </div>
  <p>Zak concludes that,</p>
   <div class="_quotation">
@@ -94,50 +75,49 @@ image:    "icon-giving-rads-validated.svg"
 <h1>Behaviors</h1>
  <p style="margin-top:20px; "><span class="_paradigm">RAD</span>s support all of these behaviors,</p>
   <div class="_center">
-  
-   <table class-"_h2table">
+   <table class="_h2table">
     <tr>
      <th>Recognize Excellence</th>
      <td>&ldquo;&hellip; excellence&rdquo; is way too vague. <span calls="_paradigm">RAD</span>s are used to recognize contributions. They come immediately after people sees an action as a contribution. It comes from peer co-owners. They eventually convert to money and other tangible value. They are often unexpected, personal, and <em>public</em>.</td>
     </tr>
    </table>
 
-   <table class-"_h2table">
+   <table class="_h2table">
     <tr>
      <th>Induce &ldquo;Challenge Stress&rdquo;</th>
      <td>Not only <span calls="_paradigm">RAD</span>s, but the whole <span calls="_paradigm">RADICAL</span> model is based on collaboration, not competition. As such co-owners &ldquo;collaborate to reach a goal [and] brain activity coordinates their behaviors efficiently.&rdquo; <span calls="_paradigm">RAD</span>s make this collaboration even easier.</td>
     </tr>
    </table>
 
-   <table class-"_h2table">
+   <table class="_h2table">
     <tr>
      <th>Give People Discretion in How They Do Their Work</th>
      <td>The <span class="_paradigm">RADICAL</span> model brings in co-management which is based on decentralized decision-making and leading with trust.</td>
     </tr>
    </table>
 
-   <table class-"_h2table">
+   <table class="_h2table">
     <tr>
      <th>Enable Job Crafting</th>
      <td>The <span class="_paradigm">RADICAL</span> model is founded on the principle decentralized decision-making. &ldquo;&hellip; people focus their energies on what they care about most.&rdquo;</td>
     </tr>
    </table>
 
-   <table class-"_h2table">
+   <table class="_h2table">
     <tr>
      <th>Share Information Broadly</th>
      <td>The <span class="_paradigm">RADICAL</span> model is founded on the principle transparency.</td>
     </tr>
    </table>
 
-   <table class-"_h2table">
+   <table class="_h2table">
     <tr>
      <th>Intentionally Build Relationships</th>
      <td>In the <span class="_paradigm">RADICAL</span> model the company is a community of co-owners. Relationship comes natural.</td>
     </tr>
    </table>
 
-   <table class-"_h2table">
+   <table class="_h2table">
     <tr>
      <th>Facilitate Whole-Person Growth</th>
      <td>Being the sole owner of a business makes you grow to deal with all the surprises that come at you. They same is true for a community of co-owners, except the learning is more dense because the same way you are learning, so are they. Not only will you learn from circumstances, co-owners learn from each other.</td>
