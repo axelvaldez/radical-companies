@@ -13,7 +13,7 @@ image:    "icon-in-the-national-interest.svg"
 <h1>&nbsp;</h1>
  <p>National goverments really are very, very tall <span class="_paradign">FIAT</span> hierarchies with a monopoloy on force. We need governance, but not centralized governments. This is true for the whole &ldquo;government&rdquo; spectrum, from democracies to dictatoships.</p>
  <div class="_citation">
-  <p class="_quotespan">&hellip; who would be trustworthy and persuasive enough?&hellip; The answer was a bunch of ordinary people.&rdquo;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p><span class="_quotespan">&hellip; who would be trustworthy and persuasive enough?&hellip; The answer was a bunch of ordinary people.<span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
 
 <h1>Churchill</h1>
@@ -26,8 +26,11 @@ image:    "icon-in-the-national-interest.svg"
 <h1>Democracy</h1>
  <p>In the same speech, Churchill defined democracy as &ldquo;insurance,&rdquo;</p>
  <div class="_citation">
-  <p><span class="_quotespan">&hellip; insurance against dangers from abroad&hellip; </span></p>
-  <p id="_signature">Winston Churchill, 1947<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p><span class="_quotespan">&hellip; insurance against dangers from abroad</span>.</p>
+  <p id="_signature">
+   Winston Churchill, 1947
+   <a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>
+  </p>
  </div>
  <p>People, including Churchill, had reason to believe this given the history of raids, wars and other &ldquo;dangers from abroad.&rdquo;</p>
  <p>So, yes, democracy is better for our wellbeing than other forms of governance. However, like all forms of moderm governments, democracy brings along with it a <span class="_paradign">FIAT</span> hierarchy and a bureaucracy. And even though the bosses of said hierarchy are elected by the governed, neverthelss, the hierarchy is imposed fy force.</p>
