@@ -11,7 +11,7 @@ image:    "icon-giving-rads-validated.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>In a Harvard Business Revue article, <span style="font-style:italic; "><em>The Neuroscience of Trust</em></span>, the author, Paul Zak, says that &ldquo;it’s clear that creating an employee-centric culture can be good for business.&rdquo;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Employee-centric cultures. These are based on trust and these are the eight behaviors that promote it,</p>
+ <p>In a Harvard Business Revue article, <span style="font-style:italic; "><em>The Neuroscience of Trust</em></span>, the author, Paul Zak, says that &ldquo;it’s clear that creating an employee-centric culture can be good for business.&rdquo;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Employee-centric cultures. These are based on trust and these are the eight behaviors that, according to the author, promote it,</p>
   <div class="_center">
    <table class="_h2table">
     <tr>
@@ -19,42 +19,49 @@ image:    "icon-giving-rads-validated.svg"
      <td><span class="_quotespan">The neuroscience shows that recognition has the largest effect on trust when it occurs immediately after a goal has been met, when it comes from peers, and when it’s tangible, unexpected, personal, and public.</span></td>
     </tr>
    </table>
+
    <table class="_h2table">
     <tr>
      <th>Induce &ldquo;Challenge Stress&rdquo;</th>
      <td><span class="_quotespan">When team members need to work together to reach a goal, brain activity coordinates their behaviors efficiently.</span></td>
     </tr>
    </table>
+
    <table class="_h2table">
     <tr>
      <th>Give people discretion in how they do their work</th>
-     <td><span class="_quotespan">&hellip; allow them, whenever possible, to manage people and execute projects in their own way. Being trusted to figure things out is a big motivator. Also, autonomy <span class="_quotespan">promotes innovation&hellip;</span></td>
+     <td><span class="_quotespan">&hellip; allow them, whenever possible, to manage people and execute projects in their own way. Being trusted to figure things out is a big motivator. Also, autonomy <span class="_quotespan">promotes innovation&hellip;</span> .</td>
     </tr>
    </table>
+
    <table class="_h2table">
     <tr>
      <th>Enable job crafting</th>
      <td><span class="_quotespan">When companies trust employees to choose which projects they’ll work on, people focus their energies on what they care about most.</td>
     </tr>
    </table>
+
    <table class="_h2table">
     <tr>
      <th>Share information broadly</th>
      <td><span class="_quotespan">Organizations that share their &lsquo;flight plans&lsquo; with employees reduce uncertainty about where they are headed and why.</td>
     </tr>
    </table>
+
    <table class="_h2table">
     <tr>
      <th>Intentionally build relationships</th>
      <td><span class="_quotespan">&hellip; at work we often get the message that we should focus on completing tasks, not on making friends. Neuroscience experiments by my lab show that when people intentionally build social ties at work, their performance improves.</span></td>
     </tr>
    </table>
+
    <table class="_h2table">
     <tr>
-     <th>Facilitate whole-person growth</th>
+     <th>Facilitate Whole-Person Growth</th>
      <td><span class="_quotespan">High-trust workplaces help people develop personally as well as professionally. &hellip; acquiring new work skills isn’t enough&hellip; the backward-looking annual performance review is no longer necessary.</span></td>
     </tr>
    </table>
+
   </div>
  <p>yyy Zak concludes that,</p>
   <div class="_quotation">
