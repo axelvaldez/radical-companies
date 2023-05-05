@@ -19,44 +19,44 @@ image:    "icon-giving-rads-validated.svg"
      <td><span class="_quotespan">The neuroscience shows that recognition has the largest effect on trust when it occurs immediately after a goal has been met, when it comes from peers, and when it’s tangible, unexpected, personal, and public.</span></td>
     </tr>
    </table>
-   <table>
+   <table class="_h2table">
     <tr>
      <th>Induce &ldquo;Challenge Stress&rdquo;</th>
      <td><span class="_quotespan">When team members need to work together to reach a goal, brain activity coordinates their behaviors efficiently.</span></td>
     </tr>
    </table>
-   <table>
+   <table class="_h2table">
     <tr>
      <th>Give people discretion in how they do their work</th>
      <td><span class="_quotespan">&hellip; allow them, whenever possible, to manage people and execute projects in their own way. Being trusted to figure things out is a big motivator. Also, autonomy <span class="_quotespan">promotes innovation&hellip;</span></td>
     </tr>
    </table>
-   <table>
+   <table class="_h2table">
     <tr>
      <th>Enable job crafting</th>
      <td><span class="_quotespan">When companies trust employees to choose which projects they’ll work on, people focus their energies on what they care about most.</td>
     </tr>
    </table>
-   <table>
+   <table class="_h2table">
     <tr>
      <th>Share information broadly</th>
      <td><span class="_quotespan">Organizations that share their &lsquo;flight plans&lsquo; with employees reduce uncertainty about where they are headed and why.</td>
     </tr>
    </table>
-   <table>
+   <table class="_h2table">
     <tr>
      <th>Intentionally build relationships</th>
      <td><span class="_quotespan">&hellip; at work we often get the message that we should focus on completing tasks, not on making friends. Neuroscience experiments by my lab show that when people intentionally build social ties at work, their performance improves.</span></td>
     </tr>
    </table>
-   <table>
+   <table class="_h2table">
     <tr>
      <th>Facilitate whole-person growth</th>
      <td><span class="_quotespan">High-trust workplaces help people develop personally as well as professionally. &hellip; acquiring new work skills isn’t enough&hellip; the backward-looking annual performance review is no longer necessary.</span></td>
     </tr>
    </table>
   </div>
- <p>xxx Zak concludes that,</p>
+ <p>yyy Zak concludes that,</p>
   <div class="_quotation">
    <p>&hellip;those working in high-trust companies enjoyed their jobs 60% more, were 70% more aligned with their companies’ purpose, and felt 66% closer to their colleagues. &hellip; Compared with employees at low-trust organizations, the high-trust folks had 11% more empathy for their workmates, depersonalized them 41% less often, and experienced 40% less burnout from their work. They felt a greater sense of accomplishment, as well—41% more.</p>
   </div>
