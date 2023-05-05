@@ -36,7 +36,7 @@ image:    "icon-giving-rads.svg"
  <p class="_center">
   <img
    src="/assets/img/pic-recognitions-to-rads-equation.svg"
-   alt="The picture depicts a simple equation. As recognitions come in, the app divided the number of recognitions per person by the total number of recognitions I have given. This is multiplied by the number of RADs I have received during this cycle. The result is the number of RADs I am giving to each of my peers."
+   alt="The picture depicts a simple equation. As recognitions come in, the app divids the number of recognitions per co-owner by the total number of recognitions I have given. This is multiplied by the number of RADs I have received during this cycle. The result is the number of RADs I am giving to each of my peers."
    width="70%"
   >
  </p>
