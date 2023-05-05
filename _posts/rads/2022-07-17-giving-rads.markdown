@@ -69,7 +69,7 @@ image:    "icon-giving-rads.svg"
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en04>
+  <li id="en04">
    <p class="_list-item">
     Dan Ariely.
     <em>What makes us feel good about our work?</em>
