@@ -47,7 +47,7 @@ image:    "icon-small-bites-how-lockheed-martin-could-ease-into-using-rads.svg"
   <p>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>. This ratio is multiplied by <span class="_paradigm">RAD</span>s/dollars in the &ldquo;bonus&rdquo; pool to calculate the number of dollars each co-owner gets.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a>
    <div class="_center">
     <img
-     src="/assets/img/rads-to-bonusdollars-at-lockheedmartin.svg"
+     src="/assets/img/pic-resistance-to-co-ownership.svg"
      width="70%"
      alt="">
    </div>
