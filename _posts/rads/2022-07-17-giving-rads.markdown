@@ -35,7 +35,7 @@ image:    "icon-giving-rads.svg"
  <p>The calculation is based on your cycle, which could be monthly, or weekly, or quarterly, or whatever. In any case, the calculation is very simple,</p>
  <p class="_center">
   <img
-   src="/assets/img/pic-pings-to-rads-equation.svg"
+   src="/assets/img/pic-recognitions-to-rads-equation.svg"
    alt="The picture depicts a simple equation. As recognitions come in, the app divided the number of recognitions per person by the total number of recognitions I have given. This is multiplied by the number of RADs I have received during this cycle. The result is the number of RADs I am giving to each of my peers."
    width="50%"
   >
