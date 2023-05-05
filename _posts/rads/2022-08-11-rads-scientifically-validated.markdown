@@ -31,7 +31,7 @@ image:    "icon-giving-rads-validated.svg"
    <table class="_h2table">
     <tr>
      <th>Give People Discretion in How They Do Their Work</th>
-     <td><span class="_quotespan">AAA &hellip; allow them, whenever possible, to manage people and execute projects in their own way. Being trusted to figure things out is a big motivator. Also, autonomy <span class="_quotespan">promotes innovation&hellip;</span> .</td>
+     <td><span class="_quotespan">BBB &hellip; </span> allow them, whenever possible, to manage people and execute projects in their own way. Being trusted to figure things out is a big motivator. Also, autonomy <span class="_quotespan">promotes innovation&hellip; </span>.</td>
     </tr>
    </table>
 
