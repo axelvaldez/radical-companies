@@ -25,7 +25,7 @@ image:    "icon-radical-units-of-measure.svg"
   <ul>
    <li>The number of recognitions co-owner A gave to other co-owners is divided by the total recognitions she gave during the period.</li>
    <li>Each resulting percentage is then multiplied by the total number of <span class='_paradigm'>RAD</span>s in the cycle (<em>i.e.</em>, co-owners get one <span class="_paradigm">RAD</span> per day).</li>
-   <li>This results in the number of <span class="_paradigm">RAD</span>s each co-owner got from co-owner A.</li>
+   <li>This results in the number of <span class="_paradigm">RAD</span>s each co-owner gets from co-owner A.</li>
   </ul>
  </p>
  <div style="text-align:center; ">
