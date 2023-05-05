@@ -3,7 +3,7 @@ layout:   post
 title:    "Small Bites: How Lockheed Martin Could Ease into Using RADs"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
-image:    "icon-how-lockheed-martin-could-ease-into-using-rads.svg"
+image:    "icon-small-bites-how-lockheed-martin-could-ease-into-using-rads.svg"
 ---
 
 <div style="display:none;">
@@ -17,11 +17,11 @@ image:    "icon-how-lockheed-martin-could-ease-into-using-rads.svg"
  <p>To answer that question one the authors, Adrian, had to find the Executive team compensation,</p>
   <ol>
    <li>You&rsquo;ll find executive compensation is usually not packaged with the Annual Reports.</li>
-   <li>Instead I found the Proxy Statement for the company by searching for &ldquo;Lockheed Martin Proxy Statement Executive Compensation.&rdquo;<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></li>
+   <li>Instead I found the Proxy Statement for the company by searching for &ldquo;Lockheed Martin Proxy Statement Executive Compensation.&rdquo;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></li>
    <li>Then I searched for a table that shows all the executives and their total compensation (see Appendix).</li>
   </ol> 
- <p>All told, Adrian discovered that executives received over $80M in 2020. At the other end, according to <em>payscale.com</em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> the average employee compensation was $85,000 plus a $3,000 annual bonus.</p>
- <p>For the denominator, he also had to find out the number of people who work at Lockheed Martin. According to Wikipedia, <em>they have 115,000 employees, of which 60,000 are engineers and scientists</em>.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> I found nothing for contractors, which seems suspicious to say the least. Google, for example, employs 121,000 temps and contractors, while only employing 102,000 full-time employees. In any case, I was left to wonder what Lockheed Martin&rsquo;s real headcount is. We only found this, &ldquo;it is estimated that most large companies have an employee to contractor ratio of 1:1 now.&rdquo;<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> In any case, we will not include contractors here.</p>
+ <p>All told, Adrian discovered that executives received over $80M in 2020. At the other end, according to <em>payscale.com</em>,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> the average employee compensation was $85,000 plus a $3,000 annual bonus.</p>
+ <p>For the denominator, he also had to find out the number of people who work at Lockheed Martin. According to Wikipedia, <em>they have 115,000 employees, of which 60,000 are engineers and scientists</em>.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> I found nothing for contractors, which seems suspicious to say the least. Google, for example, employs 121,000 temps and contractors, while only employing 102,000 full-time employees. In any case, I was left to wonder what Lockheed Martin&rsquo;s real headcount is. We only found this, &ldquo;it is estimated that most large companies have an employee to contractor ratio of 1:1 now.&rdquo;<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> In any case, we will not include contractors here.</p>
 
 <h1>But&hellip; <em>They Deserve It!</em></h1>
  <p>I have friends who say with an entirely straight face that the executive salaries are entirely justified because they do that much more than the average employee.</p>
@@ -44,7 +44,7 @@ image:    "icon-how-lockheed-martin-could-ease-into-using-rads.svg"
    <li>Each employees would recognize the contributions of the handful of people each knows.</li>
    <li>Everybody would be recognized this way.</li>
   </ul>
-  <p>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>. This ratio is multiplied by <span class="_paradigm">RAD</span>s/dollars in the &ldquo;bonus&rdquo; pool to calculate the number of dollars each co-owner gets.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a>
+  <p>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>. This ratio is multiplied by <span class="_paradigm">RAD</span>s/dollars in the &ldquo;bonus&rdquo; pool to calculate the number of dollars each co-owner gets.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a>
    <div class="_center">
     <img
      src="/assets/img/rads-to-bonusdollars-at-lockheedmartin.svg"
@@ -54,8 +54,8 @@ image:    "icon-how-lockheed-martin-could-ease-into-using-rads.svg"
   </p>
   <p>Each employee/co-owner gets to recognize the people they work with. They do this based on <em>whatever they feel</em> is their contribution. Managers would not have to waste time agonizing over this. Next, managers can participate as co-owners of the fund (<em>i.e.</em>, which would now include their bonus pool as well). Over time, more and more bosses, and their bonus pools, would be include in this until, finally, the top executives, and their bonuses, would be included.</p>
 
-<h1>But, Wait&hellip; THERE IS MORE!</h1>
- <p>This still leaves us with the pay gap between executives and employees (<em>e.g.</em>, the CEO makes 265 times what an average employee draws). For that we would have to do something about the imposed, <span class="_paradigm">FIAT</span> hierarchy (<em>i.e.</em>, it is not <em>a given</em> for businesses, as usually we assume). Once that&rsquo;s done, Lockheed Martin would be ready to align salaries with <span class="_paradigm">RAD</span>s instead of titles.<a href="#en06"><sup id="bm06">6&nbsp;</sup></a></p>
+<h1>But, Wait: THERE IS MORE!</h1>
+ <p>This still leaves us with the pay gap between executives and employees (<em>e.g.</em>, the CEO makes 265 times what an average employee draws). For that we would have to do something about the imposed, <span class="_paradigm">FIAT</span> hierarchy (<em>i.e.</em>, it is not <em>a given</em> for businesses, as usually we assume). Once that&rsquo;s done, Lockheed Martin would be ready to align salaries with <span class="_paradigm">RAD</span>s instead of titles.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></p>
  
 <h1 class="_section">APPENDICES</h1>
  <h1>Wealth Extraction by Lockheed-Martin Bosses</h1>
