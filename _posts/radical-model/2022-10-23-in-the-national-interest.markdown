@@ -13,49 +13,51 @@ image:    "icon-in-the-national-interest.svg"
 <h1>&nbsp;</h1>
  <p>National goverments really are very, very tall <span class="_paradign">FIAT</span> hierarchies with a monopoloy on force. We need governance, but not centralized governments. This is true for the whole &ldquo;government&rdquo; spectrum, from democracies to dictatoships.</p>
  <div class="_citation">
-  &ldquo;&hellip; who would be trustworthy and persuasive enough?&hellip; The answer was a bunch of ordinary people.&rdquo;<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
+  <span class="_quotespan">&hellip; who would be trustworthy and persuasive enough?&hellip; The answer was a bunch of ordinary people.&rdquo;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
  </div>
 
 <h1>Churchill</h1>
  <div class="_citation">
-  &ldquo;&hellip; it has been said that democracy is the worst form of Government except for all those other forms that have been tried&hellip; &rdquo;
-  <span id="_signature">Winston Churchill, 1947<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></span>
+  <span class="_quotespan">&hellip; it has been said that democracy is the worst form of Government except for all those other forms that have been tried&hellip; </span>
+  <p class="_signature">>Winston Churchill, 1947<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></span>
  </div>
  <p>When he said this, Churchill assumed that a government would be in place. And it was a fair assumption, but why?</p>
  
 <h1>Democracy</h1>
- <p>In the same speech, Churchill defined democracy as “insurance,”</p>
+ <p>In the same speech, Churchill defined democracy as &ldquo;insurance,&rdquo;</p>
  <div class="_citation">
-  &ldquo;&hellip; insurance against dangers from abroad&hellip; &rdquo;
-  <span id="_signature">Winston Churchill, 1947<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></span>
+  <span class="_quotespan">&hellip; insurance against dangers from abroad&hellip; </span>
+  <p id="_signature">Winston Churchill, 1947<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>People, including Churchill, had reason to believe this given the history of raids, wars and other &ldquo;dangers from abroad.&rdquo;</p>
- <p>So, yes, democracy is better for our wellbeing than other forms of governance. However, like all forms of moderm governments, democracy brings along with it a <span class="_paradign">FIAT</span> hierarchy. And, yes, in a democracy the bosses of said hierarchy are elected by the governed. Neverthelss, a hierarchy is imposed.</p>
+ <p>So, yes, democracy is better for our wellbeing than other forms of governance. However, like all forms of moderm governments, democracy brings along with it a <span class="_paradign">FIAT</span> hierarchy and a bureaucracy. And the bosses of said hierarchy are elected by the governed. Neverthelss, a hierarchy is imposed fy force.</p>
 
 <h1>National Governments</h1>
  <p>National governments were engendered by big kingdoms, which were engendered by lesser kingdoms, which were engendered by tribal chiefdoms. This is true for all national governments, from shameless dictatorships to benevolent democracies. Also true for all national governments they are huge <span class="_paradigm">FIAT</span> hierarchies in charge of the national borders and a monopoloy on force.</p>
 
 <h1>Nations</h1>
- <p>I think at this point it would come in handy to talk about &ldquo;nations.&rdquo; These are primarily groups of people who speak the same language. More accurately, these are groups of people who have been forced to speak the same language and live/fake the same culture. Spain is a good example of what I mean, but it applies to all of Europe and a good chunkc of the modern world.</p>
- <p>First the Germanic tribes, Gotsh, Visigoths, Celts, arrived and somehow cleansed the people who were already living in the peninsula. The disparate tribes spoke their own versions of the language. Then the Romans of yore showed up and took over the Iberian peninsula. The Romans had gone through their amalgamation earlier and they spoke Latin and forced everybody to speak it as well.</p>
- <p>Later the Roman empire fell apart and wars ensued. In the end, the Castilian chiefdom won and forced everybody else, in what’s today Spain, to speak Castilian. The Basque and the Catalonians still speak their corresponding language, but they speak Castilian as well. In fact, all of Europe went through similar amalgamation and tribes became nations.</p>
+ <p>I think at this point it would come in handy to talk about <em>nations.</em> These are primarily groups of people who speak the same language. More accurately, these are groups of people who have been forced to speak the same language and live/fake the same culture. Spain is a good example of what I mean, but it applies to all of Europe and a good chunck of the modern world.</p>
+
+<h1>Iberian Peninsula</h1>
+ <p>Take Spain. First the Germanic tribes, Goths, Visigoths, Celts, moved thoughout the European continent and incorporated or cleansed the people who were already living in the peninsula. The disparate tribes spoke their own versions of the language. Then the Romans of yore showed up and took over the Iberian peninsula. They spoke Latin and forced everybody to speak it as well.</p>
+ <p>Later the Roman empire fell apart and wars ensued. In the end, the Castilian chiefdom won and forced everybody else, in what&rsquo;s today Spain, to speak Castilian. The Basque and the Catalonians still speak their corresponding language, but they speak Castilian as well. In fact, all of Europe went through similar amalgamation. Tribes became nations.</p>
  <p>To be clear, this &ldquo;amalgamation&rdquo; was not peaceful by any means. It involved all-out wars and ethnic cleansing.</p>
  <p><em>This</em> is how nations were made. By brute force.</p>
  <p>However, it all happened a long time ago and by now we are happy to believe that &ldquo;nations&rdquo; have always been this way. Kind of like a perfect result of evolution.</p>
 
 <h1>Lingua Franca</h1>
- <p>You can fake culture, but not language. Let&rsquo;s assume a common language as the main requirement for a nation.</p>
- <p>In that case, much of the world is becoming an American English-speaking nation. This time the amalgamation is brought about not by force, but by commerce. So, maybe it is turning out to be a good thing after all.</p>
- <p>Today,</p>
+ <p>You can fake culture, traditions and rituals, but not language. Let&rsquo;s assume a common language as the main requirement for a nation.</p>
+ <p>In that case, much of the world is becoming an American-english-speaking nation. This time the amalgamation is brought about not by brute force, but by the financial system, a milder form of force.</p>
+ <p>Today, a lot of people can,</p>
  <ul>
-  <li>A lot of people can communicate with one another.</li>
-  <li>A lot of people can see they share common problems.</li>
-  <li>A lot of people can learn from one another.</li>
-  <li>A lot of people can collaborate.</li>
-  <li>A lot of people can solve problems bigger than themselves by working together with a lot of other people around the world.</li>
+  <li>Communicate with one another.</li>
+  <li>See they share common problems.</li>
+  <li>Learn from one another.</li>
+  <li>Collaborate.</li>
+  <li>Solve problems bigger than themselves by working together with a lot of other people around the world.</li>
  </ul>
- <p>What this means is, that as much as I may wish for a different history, we are now at a point where we should be coming up with different solutions not one anchored in the past. We can create a better history going forward, without violence, but with collaboration.</p>
- <p>The <span class="_paradigm">FIAT</span> system that we’ve inherited has not been viable for a while already and will get worse going forward. In a search for an alternative, we need to be able to recognize,</p>
+ <p>What this means is, that as much as I may wish for a different history, we are now at a point where we should be coming up with new systems, not one anchored in the past. We can create a better history going forward, without violence, with collaboration.</p>
+ <p>The <span class="_paradigm">FIAT</span> system that we&rsquo;ve inherited has not been viable for a while already and will continue to get worse going forward. In a search for an alternative, we need to be able to <em>see</em>,</p>
  <ul>
   <li><span class="_paradigm">FIAT</span> hierarchies.</li>
   <li>How much we accept them.</li>
@@ -67,19 +69,19 @@ image:    "icon-in-the-national-interest.svg"
  <table>
   <tr>
    <th>Churches</th>
-   <td>All churches have one or many gods at the top of their <span class="_paradigm">FIAT</span> hierarchy. And, of course, there is one or a small group of humans who can interpret the deities. That’s the boss of the <span class="_paradigm">FIAT</span> hierarchy.</td>
+   <td>All churches have one or more supernatural gods at the top of their <span class="_paradigm">FIAT</span> hierarchy. And, of course, there is one or a small group of humans who can interpret the deities. God is the owner and the slected few are the boss of this partcular <span class="_paradigm">FIAT</span> hierarchy.</td>
   </tr>
   <tr>
    <th>Businesses</th>
-   <td>Businesses have a CEO who is the boss of the <span class="_paradigm">FIAT</span> hierarchy below.</td>
+   <td>Businesses have an owner, the Board, and have a CEO who is the boss of the <span class="_paradigm">FIAT</span> hierarchy.</td>
   </tr>
   <tr>
    <th>Unions</th>
-   <td>Unions are a reflection of businesses, with a boss at the top of the <span class="_paradigm">FIAT</span> hierarchy.</td>
+   <td>Unions are a reflection of businesses, with a boss at the top of its <span class="_paradigm">FIAT</span> hierarchy.</td>
   </tr>
   <tr>
    <th>Non-for-Profits and NGOs</th>
-   <td>They are also ruled by one or more bosses. Their edicts flow down the <span class="_paradigm">FIAT</span> hierarchy below.</td>
+   <td>They are well-meaning, hopefully. They don&rsquo;t aim to make money, but to make the <span class="_paradigm">FIAT</span> system bearable. No matter, they are also ruled by one or more bosses. Their edicts flow down the <span class="_paradigm">FIAT</span> hierarchy below.</td>
   </tr>
   <tr>
    <td calsss="_spacer"></td>
@@ -87,40 +89,41 @@ image:    "icon-in-the-national-interest.svg"
  </table>
 
 <h1>Governments</h1>
- <p>Governments are the biggest and most powerful <span class="_paradigm">FIAT</span> hierarchy of all. And they have a monopoly on violence.</p>
- <p>Churchill was right in saying that democracies are better than other forms of government, but they are not good enough to solve the problems we face. In fact, they’ve created many of the problems we face today, at the start of the 21<sup>st</sup> century.</p>
+ <p>Governments are the biggest and most powerful <span class="_paradigm">FIAT</span> hierarchies of all. And they have a monopoly on violence, the most raw type of force.</p>
+ <p>Churchill was right in saying that democracies are better than other forms of government, but they are not good enough to solve the problems we face. In fact, they&rsquo;ve created many of the problems we face today.</p>
  <p>In fact, national governments have de facto created this “foreign danger,”</p>
  <ul>
   <li>Countries are an enclosure and enclosures create borders.</li>
   <li>Anything and anybody outside these borders are, therefore, foreign.</li>
-  <li>Anything “forein” can easily become, or be made, into “foreign danger.”</li>
+  <li>Anything foreign can easily become, or be made, into “foreign danger.”</li>
  </ul>
  <p>The idea that national governments are an anachronism has been recognized for a long time.</p>
- <p>I first ran into it in the book <em>La Cuarta Vertebra</em>,<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> an early 1960s book. Before that, in 1910, King Camp Gillette proposed a World Corporation.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> There are many others that have come up on a regular basis, but they all have the same weakness: their proposed fix is to build a taller <span class="_paradigm">FIAT</span> hierarchy. I believe that the opposite is called for: governance without a <span class="_paradigm">FIAT</span> hierarchy at all.</p>
+ <p>I first ran into it in the book <em>La Cuarta Vertebra</em>,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> an early 1960s book. Before that, in 1910, King Camp Gillette proposed a World Corporation to bypass governments.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> There are many others that have come up on a regular basis, but they all have the same weakness: their proposed fix is to build a taller <span class="_paradigm">FIAT</span> hierarchy. I believe that the opposite is called for: governance without a <span class="_paradigm">FIAT</span> hierarchy at all.</p>
 
 <h1>Collaboration</h1>
- <p>As I said above, “<em>A lot of people can solve problems bigger than themselves by working together with a lot of other people around the world</em>.” It may take a long time, but this is what is bound to replace <span class="_paradigm">FIAT</span> governments: people collaborating to solve problems, develop new technologies, and improve our wellbeing.</p>
- <p>Europe is an example of what happens when 1) borders come down and 2) one currency, the Euro, replaces disparate national currencies.</p>
+ <p>As I said above, <span class="_quotespan">A lot of people can solve problems bigger than themselves by working together with a lot of other people around the world</span.</p>
+ <p>It may take a long time, but this is what is bound to replace <span class="_paradigm">FIAT</span> governments: people collaborating to solve problems, develop new technologies, and improve our wellbeing.</p>
+ <p>The Europe Union is an example of what happens when borders come down and things, like currency, get normalized across countries.</p>
 
 <h1>Borders</h1>
- <p>Borders are a major weakness in the way the anthropocentric world runs today. At the other extreme, a world government, a world without borders, would be the most fragile of things,</p>
+ <p>Borders are a major weakness in the way the anthropocentric world runs today. A world government would be the most fragile of things,</p>
  <ul>
-  <li>A very, very tall <span class="_paradigm">FIAT</span> hierarchy,</li>
+  <li>An extremely tall <span class="_paradigm">FIAT</span> hierarchy,</li>
   <li>With a monopoly on violence≤</li>
   <li>Control of which would be coveted by many.</li>
  </ul>
- <p>A world with no <span class="_paradigm">FIAT</span>  hierarchy is our most attractive alternative.</p>
+ <p>A world with no <span class="_paradigm">FIAT</span> hierarchy is our safest and most attractive alternative.</p>
 
 <h1>Currency</h1>
  <p>A big part of the problems we face have also to do with money. In fact, <span class="_paradigm">FIAT</span> hierarchies and money go hand in hand.</p>
- <p>The European Union als has a single currency, the Euro, which has replaced the disparate national currencies and the difficulties that go along with it. For world-wide commerce, it would be beneficial, too, to have one currency. Unlike the Euro, this governance of this currency would be decentralized.<a href="en06"><sup id="bm06">6&nbsp;</sup></a></p>
+ <p>The European Union has a single currency, the Euro, which has replaced the disparate national currencies. For world-wide commerce, it would be beneficial, too, to have one currency. Unlike the Euro, this currency would be decentralized and not minted by banks.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
   <li id="en01">
    <p class="_list-item">
     Ariel Procaccia.
-    <em>Citizens’ Assemblies Are Upgrading Democracy: Fair Algorithms Are Part of the Program</em>.
+    <em>Citizens&rsquo; Assemblies Are Upgrading Democracy: Fair Algorithms Are Part of the Program</em>.
     Scientific American. Nov 2022.
     <<a href="https://radicals.world/GsJaao">https://radicals.world/GsJaao</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
@@ -129,7 +132,7 @@ image:    "icon-in-the-national-interest.svg"
   <li id="en02">
    <p class="_list-item">
     Richard Langworth.
-    <em>Churchill’s “Democracy is the Worst Form of Government&hellip; .”</em>
+    <em>Churchill&rsquo;s “Democracy is the Worst Form of Government&hellip; .”</em>
     <<a href="https://radicals.world/1a6vDr">https://radicals.world/1a6vDr</a>> (alt.  <a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>)
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
@@ -137,7 +140,7 @@ image:    "icon-in-the-national-interest.svg"
   <li id="en03">
    <p class="_list-item">
     Richard Langworth.
-    <em>Churchill’s “Democracy is the Worst Form of Government&hellip; .”</em>
+    <em>Churchill&rsquo;s “Democracy is the Worst Form of Government&hellip; .”</em>
     <<a href="https://diigo.com/0qf2of">https://diigo.com/0qf2of</a>> (alt.  <a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>)
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>

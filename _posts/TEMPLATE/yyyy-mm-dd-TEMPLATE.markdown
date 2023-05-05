@@ -19,7 +19,7 @@ image:    "icon-ptsd-and-trust.svg"
 <h1></h1>
  <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
 
-<!-- Opposite of <em> -->
+<!-- Endnote URL replace -->
 <h1></h1>
  <a href="#en(\d\d)"><[^>]*>\d&nbsp;<.*/a>
  <a href="#en$1"><sup id="bm$1">&hairsp;&nabla;&hairsp;</sup></a>
@@ -43,12 +43,6 @@ image:    "icon-ptsd-and-trust.svg"
  <span class='_paradigm'>Transparency</span>
  <span class='_paradigm'>Experimentation</span>
 
-<!-- PREV ... NEXT -->
-<h1></h1>
-<div class="_next">
- <span style="float:left; " ><a href="https://radicalcompanies.com/">&lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/">    Next &gt;</a></span>
-</div>
 
 <!-- proto-image -->
  <div class="_center">
@@ -156,10 +150,11 @@ image:    "icon-ptsd-and-trust.svg"
  </div>
  <p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them.</p>
 
-<!-- previous/next -->
-<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left;  "><a href="https://radicalcompanies.com/">Previous &lt;</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/">    &gt; Next</a></span>
+<!-- PREV ... NEXT -->
+<h1></h1>
+<div class="_next">
+ <span style="float:left; " ><a href="https://radicalcompanies.com/">&lt; Previous</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/">    Next &gt;</a></span>
 </div>
 
 <h1>For More References, See,</h1>
