@@ -108,7 +108,7 @@ image:    "icon-equal-vs-equitable.svg"
     <em>The Evolution of an Accidental Meme</em>.
     2016.
     &lt;<a href="https://radicals.world/bNJktE" target="_blank">https://radicals.world/bNJktE</a>&gt;
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
