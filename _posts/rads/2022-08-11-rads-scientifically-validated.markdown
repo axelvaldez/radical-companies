@@ -29,28 +29,28 @@ image:    "icon-giving-rads-validated.svg"
 
    <table class="_h2table">
     <tr>
-     <th>Give people discretion in how they do their work</th>
+     <th>Give People Discretion in How They Do Their Work</th>
      <td><span class="_quotespan">&hellip; allow them, whenever possible, to manage people and execute projects in their own way. Being trusted to figure things out is a big motivator. Also, autonomy <span class="_quotespan">promotes innovation&hellip;</span> .</td>
     </tr>
    </table>
 
    <table class="_h2table">
     <tr>
-     <th>Enable job crafting</th>
+     <th>Enable Job Crafting</th>
      <td><span class="_quotespan">When companies trust employees to choose which projects they’ll work on, people focus their energies on what they care about most.</td>
     </tr>
    </table>
 
    <table class="_h2table">
     <tr>
-     <th>Share information broadly</th>
+     <th>Share Information Broadly</th>
      <td><span class="_quotespan">Organizations that share their &lsquo;flight plans&lsquo; with employees reduce uncertainty about where they are headed and why.</td>
     </tr>
    </table>
 
    <table class="_h2table">
     <tr>
-     <th>Intentionally build relationships</th>
+     <th>Intentionally Build Relationships</th>
      <td><span class="_quotespan">&hellip; at work we often get the message that we should focus on completing tasks, not on making friends. Neuroscience experiments by my lab show that when people intentionally build social ties at work, their performance improves.</span></td>
     </tr>
    </table>
