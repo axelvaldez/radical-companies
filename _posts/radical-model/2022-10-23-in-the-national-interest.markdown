@@ -66,27 +66,29 @@ image:    "icon-in-the-national-interest.svg"
 
 <h1>The <span class="_paradigm">FIAT</span> Hierarchy</h1>
  <p>Every kind of organization today is based on a <span class="_paradigm">FIAT</span> hierarchy: churches, businesses, non-for-profits, NGOs, and governments.</p>
- <table>
-  <tr>
-   <th>Churches</th>
-   <td>All churches have one or more supernatural gods at the top of their <span class="_paradigm">FIAT</span> hierarchy. And, of course, there is one or a small group of humans who can interpret the deities. God is the owner and the slected few are the boss of this partcular <span class="_paradigm">FIAT</span> hierarchy.</td>
-  </tr>
-  <tr>
-   <th>Businesses</th>
-   <td>Businesses have an owner, the Board, and have a CEO who is the boss of the <span class="_paradigm">FIAT</span> hierarchy.</td>
-  </tr>
-  <tr>
-   <th>Unions</th>
-   <td>Unions are a reflection of businesses, with a boss at the top of its <span class="_paradigm">FIAT</span> hierarchy.</td>
-  </tr>
-  <tr>
-   <th>Non-for-Profits and NGOs</th>
-   <td>They are well-meaning, hopefully. They don&rsquo;t aim to make money, but to make the <span class="_paradigm">FIAT</span> system bearable. No matter, they are also ruled by one or more bosses. Their edicts flow down the <span class="_paradigm">FIAT</span> hierarchy below.</td>
-  </tr>
-  <tr>
-   <td calsss="_spacer"></td>
-  </tr>
- </table>
+ <div class="_center">
+  <table class="_h2table">
+   <tr>
+    <th>Churches</th>
+    <td>All churches have one or more supernatural gods at the top of their <span class="_paradigm">FIAT</span> hierarchy. And, of course, there is one or a small group of humans who can interpret the deities. God is the owner and the slected few are the boss of this partcular <span class="_paradigm">FIAT</span> hierarchy.</td>
+   </tr>
+   <tr>
+    <th>Businesses</th>
+    <td>Businesses have an owner, the Board, and have a CEO who is the boss of the <span class="_paradigm">FIAT</span> hierarchy.</td>
+   </tr>
+   <tr>
+    <th>Unions</th>
+    <td>Unions are a reflection of businesses, with a boss at the top of its <span class="_paradigm">FIAT</span> hierarchy.</td>
+   </tr>
+   <tr>
+    <th>Non-for-Profits and NGOs</th>
+    <td>They are well-meaning, hopefully. They don&rsquo;t aim to make money, but to make the <span class="_paradigm">FIAT</span> system bearable. No matter, they are also ruled by one or more bosses. Their edicts flow down the <span class="_paradigm">FIAT</span> hierarchy below.</td>
+   </tr>
+   <tr>
+    <td calsss="_spacer"></td>
+   </tr>
+  </table>
+ </div>
 
 <h1>Governments</h1>
  <p>Governments are the biggest and most powerful <span class="_paradigm">FIAT</span> hierarchies of all. And they have a monopoly on violence, the most raw type of force.</p>
