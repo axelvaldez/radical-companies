@@ -69,7 +69,7 @@ image:    "icon-giving-rads-validated.svg"
   </div>
 
 <h1><span class="_paradigm">RAD</span>s Promote Trust</h1>
- <p>These behaviors are integral to the <span class="_paradigm">RADICAL</span> model and the foundation it stands on,</p>
+ <p>These behaviors are integral to the <span class="_paradigm">RADICAL</span> model and its Foundation,</p>
  <div class="_center">
   <table class="_foundation">
    <tr>
