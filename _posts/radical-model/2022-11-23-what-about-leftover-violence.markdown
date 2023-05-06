@@ -11,15 +11,15 @@ image:    "icon-what-about-leftover-violence.svg"
 </div>
 
 <h1>Intro</h1>
- <p>What might it look like as we transition away from the <span class="_paradigm">FIAT</span> way of doing things? We have learned that &ldquo;my success&rdquo; requires that I&rsquo;d be willing to wield violence against you, the others. For the <span class="_paradigm">FIAT</span> system to work, some form of violence is required, from the mildest that comes through as a love song, to the most brutal shooting, as just happened in Colorado Springs.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
+ <p>What might it look like as we transition away from the <span class="_paradigm">FIAT</span> way of doing things? We have learned that <em>my success</em> requires that I&rsquo;d be willing to wield violence against you, the others. For the <span class="_paradigm">FIAT</span> system to work, some form of violence is required, from the mildest that comes through as a love song, to the most brutal shooting, as just happened in Colorado Springs.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Violence</h1>
  <p>What got me thinking about this was a comment made by our neighbor. One night she looked out her balcony window and saw two black pickups flanking the rental next door to ours. There were several armed people in the trucks and a loud party was going on inside the house.</p>
  <p>That sounded scary to me. What would I do if that had happened to me? Would I stay home? (No) Would I move away, to a hotel? (Yes). That is the choice we are going to face during a transitional period from our current system to a collaborative one.</p>
 
 <h1>Less Drama, Same Danger</h1>
- <p>Most of them won&rsquo;t be as dramatic as &ldquo;people with guns,&rdquo; but it will be a threat nevertheless.</p>
- <p>&ldquo;These numbers should not be available to everyone, they could be scary to some people. I&rsquo;ll look at them and disclose them as necessary.&rdquo; But he who defines &ldquo;necessary&rdquo; is the boss. &ldquo;For the time being, take directions from me.&rdquo; But he who sets the direction of work is the boss.</p>
+ <p>Most of them won&rsquo;t be as dramatic as <em>people with guns</em>, but it will be a threat nevertheless.</p>
+ <p><span class="_quotespan">These numbers should not be available to everyone, they could be scary to some people. I&rsquo;ll look at them and disclose them as necessary.</span> But he who defines <em>necessary</em> is the boss. <span class="_quotespan">For the time being, take directions from me.</span> But he who sets the direction of work is the boss.</p>
  <p>In other words, he who makes things less transparent, also makes things more centralized, and vice versa. That is the temptation that will be present for a long time. It may not always work, but I believe that to resist it, talk.</p>
 
 <h1>No Big Deal</h1>
@@ -39,22 +39,22 @@ image:    "icon-what-about-leftover-violence.svg"
   </ul>
 
 <h1>But&hellip; What about the Guns?</h1>
- <p>Not sure what to do about &ldquo;people with guns.&rdquo; Would I go down and talk to them?  I don&rsquo;t think so. Would I do the superhero thing and swipe their weapons away with my cape? I don&rsquo;t even own a cape, for crying out loud.</p>
+ <p>Not sure what to do about <em>people with guns.</em> Would I go down and talk to them?  I don&rsquo;t think so. Would I do the superhero thing and swipe their weapons away with my cape? I don&rsquo;t even own a cape, for crying out loud.</p>
  <p>They can buy these weapons, and the trucks (and the party) with money they make from supplying illegal drugs to quelch a need.</p>
- <p>The &ldquo;talk&rdquo; is not with &ldquo;people with weapons&rdquo; but with &ldquo;people with needs.&rdquo; And it has to start way earlier. The addicted people probably need help getting the monkeys off their back. This may give them the wherewithal to get out from under the <span class="_paradigm">FIAT</span> pressures which, in turn, may do away with the conditions that precipitated the addiction in the first place. People suffering from addictions may not, but people in recovery will most likely readily grasp what co-ownership offers them.</p>
- <p>No <span class="_paradigm">FIAT</span> pressures, no addiction, no &ldquo;people with guns,&rdquo; no threat of lethal violence.</p>
+ <p>The <em>talk</em> is not with <em>people with weapons</em> but with <em>people with needs.</em> And it has to start way earlier. The addicted people probably need help getting the monkeys off their back. This may give them the wherewithal to get out from under the <span class="_paradigm">FIAT</span> pressures which, in turn, may do away with the conditions that precipitated the addiction in the first place. People suffering from addictions may not, but people in recovery will most likely readily grasp what co-ownership offers them.</p>
+ <p>No <span class="_paradigm">FIAT</span> pressures, no addiction, no <em>people with guns,</em> no threat of lethal violence.</p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     Eric Levenson, Michelle Watson, Andy Rose, Amir Vera, CNN.
     <em>Gunman kills 5 at LGBTQ nightclub in Colorado Springs before patrons confront and stop him, police say</em>.
     November 21, 2022
-    <<a href="https://edition.cnn.com/2022/11/20/us/colorado-springs-shooting-gay-nightclub/index.html">https://edition.cnn.com/2022/11/20/us/colorado-springs-shooting-gay-nightclub/index.html</a>>
+    &lt;<a href="https://edition.cnn.com/2022/11/20/us/colorado-springs-shooting-gay-nightclub/index.html">https://edition.cnn.com/2022/11/20/us/colorado-springs-shooting-gay-nightclub/index.html</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
