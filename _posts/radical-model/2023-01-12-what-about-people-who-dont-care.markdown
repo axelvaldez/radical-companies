@@ -39,7 +39,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
   </table>
   <table class="_h2table">
    <tr>
-    <th width="50%"><span class="_quotespan">What kind of stupid question is that?</span></td>
+    <th width="50%"><span class="_quotespan">What kind of stupid question is that?</span></th>
     <td width="50%">Shaming and force are not going to help.</td>
    </tr>
   </table>
