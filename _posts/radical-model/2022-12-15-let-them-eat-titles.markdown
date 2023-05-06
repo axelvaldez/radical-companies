@@ -21,7 +21,7 @@ image:    "icon-let-them-eat-title.svg"
  <p>Later, talking to him, I found out that he wanted to be acknowledged by <em>Nearsoft</em>. I said something like, <span class="_quotespan">shouldn&rsquo;t you, then, have gone to your team? they are the &ldquo;authority&rdquo; on that kind of acknowledgement</span>. At that moment we realized that he applealing to me and me reacting as the authority was what got in the way. We are so blind to <span class="_paradigm">FIAT</span>; it is hard to resist reverting to it.</p>
 
 <h1>A Social Need</h1>
- <p>Sure we can be the stewards of our identity, but we can not ignore that identity is also provided by our community. If someone is a baker, people know them as such. That part I have no beef with. It&rsquo;s when people create rigid hierarchies that ignore the individual, reduce them to a number on an expense sheet.</p>
+ <p>Sure we can be the stewards of our identity, but we can not ignore that identity is also provided by our community<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>. If someone is a baker, people know them as such. That part I have no beef with. It&rsquo;s when people create rigid hierarchies that ignore the individual, reduce them to a number on an expense item.</p>
  <p>In a <span class="_paradigm">FIAT</span> world identity comes down from above. Your boss, backed up by HR, recognizes your given name and number and dons you a title. This doesn&rsquo;t work for a <span class="_paradigm">RADICAL</span> environment. To me, however, there is something a little <span class="_paradigm">FIAT</span> about saying that everyone is just an Associate or has no title. It is an attempt to be egalitarian, but implemented in a somewhat <span class="_paradigm">FIAT</span> way: everybody is an Associate because Bill Gore said so back in 1953.</p>
 
 <h1>Decentralized Ways</h1>
@@ -36,5 +36,18 @@ image:    "icon-let-them-eat-title.svg"
  <p>This could happen once a year, or every six months. You might find that people identify you differently over time.</p>
  <p>If you really wanted that <em>Senior</em> part added to your title, then you would have to earn it with your community, and not just by kissing up to the boss.</p>
  <p>There probably are other ways, but the result will be a much richer and dynamic conception of identity. And it would offer an ability to interface with the <span class="_paradigm">FIAT</span> world.</p>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    Matt Perez.
+    <em>Meaning & Belonging Happen in Community</em>.
+    2023.
+    &lt;<a href="https://radicalcompanies.com/2023/05/01/meaning-and-belong-happen-in-community.html" target="_blank">https://radicalcompanies.com/2023/05/01/meaning-and-belong-happen-in-community.html</a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
 
 {% include related.html %}
