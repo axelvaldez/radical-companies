@@ -20,97 +20,99 @@ image:    "icon-google-goes-radical.svg"
 
 <h1><span class="_paradigm">FIAT</span> Google Shortcomings</h1>
  <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
- <table align="center" style="width:40%;">
-  <tr style="background-color:LightGray; ">
-   <td style="text-align:center; font-weight:bold; vertical-align:middle; ">
-    Year
-   </td>
-   <td style="text-align:center; font-weight:bold; vertical-align:middle; border-left:1px solid black; ">
-    Employee
-    <br>
-    Count
-   </td>
-   <td style="text-align:center; font-weight:bold; vertical-align:middle; border-left:1px solid black; ">
-    Net Income
-    <br>
-    (Mil $)
-   </td>
-   <td style="text-align:center; font-weight:bold; vertical-align:middle; border-left:1px solid black; ">
-    Profit /
-    <br>
-    Employee ($)
-   </td>
-  </tr>
-  <tr>
-   <td style="text-align:right; ">2004</td>
-   <td style="text-align:right; border-left:1px dotted black; ">3,021</td>
-   <td style="text-align:right; border-left:1px dotted black; ">399.1</td>
-   <td style="text-align:right; border-left:1px dotted black; ">132,109</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; ">2005</td>
-   <td style="text-align:right; border-left:1px dotted black; ">5,680</td>
-   <td style="text-align:right; border-left:1px dotted black; ">1465.4</td>
-   <td style="text-align:right; border-left:1px dotted black; ">257,993</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; ">2006</td>
-   <td style="text-align:right; border-left:1px dotted black; ">10,674</td>
-   <td style="text-align:right; border-left:1px dotted black; ">3077.5</td>
-   <td style="text-align:right; border-left:1px dotted black; ">288,317</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; ">2007</td>
-   <td style="text-align:right; border-left:1px dotted black; ">16,805</td>
-   <td style="text-align:right; border-left:1px dotted black; ">4203.7</td>
-   <td style="text-align:right; border-left:1px dotted black; ">250,146</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; ">2008</td>
-   <td style="text-align:right; border-left:1px dotted black; ">20,222</td>
-   <td style="text-align:right; border-left:1px dotted black; ">4226.9</td>
-   <td style="text-align:right; border-left:1px dotted black; ">209,025</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; ">2009</td>
-   <td style="text-align:right; border-left:1px dotted black; ">19,835</td>
-   <td style="text-align:right; border-left:1px dotted black; ">6520.4</td>
-   <td style="text-align:right; border-left:1px dotted black; ">328,732</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; ">2010</td>
-   <td style="text-align:right; border-left:1px dotted black; ">24,400</td>
-   <td style="text-align:right; border-left:1px dotted black; ">8505.0</td>
-   <td style="text-align:right; border-left:1px dotted black; ">348,566</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; ">2011</td>
-   <td style="text-align:right; border-left:1px dotted black; ">32,467</td>
-   <td style="text-align:right; border-left:1px dotted black; ">9737.0</td>
-   <td style="text-align:right; border-left:1px dotted black; ">299,905</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; ">2012</td>
-   <td style="text-align:right; border-left:1px dotted black; ">53,861</td>
-   <td style="text-align:right; border-left:1px dotted black; ">10737.0</td>
-   <td style="text-align:right; border-left:1px dotted black; ">199,346</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; ">2013</td>
-   <td style="text-align:right; border-left:1px dotted black; ">47,756</td>
-   <td style="text-align:right; border-left:1px dotted black; ">12733.0</td>
-   <td style="text-align:right; border-left:1px dotted black; ">266,626</td>
-  </tr>
-  <tr style="border-bottom:1px solid black; ">
-   <td style="text-align:right; ">2014</td>
-   <td style="text-align:right; border-left:1px dotted black; ">53,600</td>
-   <td style="text-align:right; border-left:1px dotted black; ">14136.0</td>
-   <td style="text-align:right; border-left:1px dotted black; ">263,731</td>
-  </tr>
-  <tr>
-   <td class="spacer">&nbsp;</td>
-  </tr>
- </table>
+  <div class="_center">
+   <table style="width:40%;">
+    <tr style="background-color:LightGray; ">
+     <td style="text-align:center; font-weight:bold; vertical-align:middle; ">
+      Year
+     </td>
+     <td style="text-align:center; font-weight:bold; vertical-align:middle; border-left:1px solid black; ">
+      Employee
+      <br>
+      Count
+     </td>
+     <td style="text-align:center; font-weight:bold; vertical-align:middle; border-left:1px solid black; ">
+      Net Income
+      <br>
+       (Mil $)
+     </td>
+     <td style="text-align:center; font-weight:bold; vertical-align:middle; border-left:1px solid black; ">
+      Profit /
+      <br>
+      Employee ($)
+     </td>
+    </tr>
+    <tr>
+     <td style="text-align:right; ">2004</td>
+     <td style="text-align:right; border-left:1px dotted black; ">3,021</td>
+     <td style="text-align:right; border-left:1px dotted black; ">399.1</td>
+     <td style="text-align:right; border-left:1px dotted black; ">132,109</td>
+    </tr>
+    <tr>
+     <td style="text-align:right; ">2005</td>
+     <td style="text-align:right; border-left:1px dotted black; ">5,680</td>
+     <td style="text-align:right; border-left:1px dotted black; ">1465.4</td>
+     <td style="text-align:right; border-left:1px dotted black; ">257,993</td>
+    </tr>
+    <tr>
+     <td style="text-align:right; ">2006</td>
+     <td style="text-align:right; border-left:1px dotted black; ">10,674</td>
+     <td style="text-align:right; border-left:1px dotted black; ">3077.5</td>
+     <td style="text-align:right; border-left:1px dotted black; ">288,317</td>
+    </tr>
+    <tr>
+     <td style="text-align:right; ">2007</td>
+     <td style="text-align:right; border-left:1px dotted black; ">16,805</td>
+     <td style="text-align:right; border-left:1px dotted black; ">4203.7</td>
+     <td style="text-align:right; border-left:1px dotted black; ">250,146</td>
+    </tr>
+    <tr>
+     <td style="text-align:right; ">2008</td>
+     <td style="text-align:right; border-left:1px dotted black; ">20,222</td>
+     <td style="text-align:right; border-left:1px dotted black; ">4226.9</td>
+     <td style="text-align:right; border-left:1px dotted black; ">209,025</td>
+    </tr>
+    <tr>
+     <td style="text-align:right; ">2009</td>
+     <td style="text-align:right; border-left:1px dotted black; ">19,835</td>
+     <td style="text-align:right; border-left:1px dotted black; ">6520.4</td>
+     <td style="text-align:right; border-left:1px dotted black; ">328,732</td>
+    </tr>
+    <tr>
+     <td style="text-align:right; ">2010</td>
+     <td style="text-align:right; border-left:1px dotted black; ">24,400</td>
+     <td style="text-align:right; border-left:1px dotted black; ">8505.0</td>
+     <td style="text-align:right; border-left:1px dotted black; ">348,566</td>
+    </tr>
+    <tr>
+     <td style="text-align:right; ">2011</td>
+     <td style="text-align:right; border-left:1px dotted black; ">32,467</td>
+     <td style="text-align:right; border-left:1px dotted black; ">9737.0</td>
+     <td style="text-align:right; border-left:1px dotted black; ">299,905</td>
+    </tr>
+    <tr>
+     <td style="text-align:right; ">2012</td>
+     <td style="text-align:right; border-left:1px dotted black; ">53,861</td>
+     <td style="text-align:right; border-left:1px dotted black; ">10737.0</td>
+     <td style="text-align:right; border-left:1px dotted black; ">199,346</td>
+    </tr>
+    <tr>
+     <td style="text-align:right; ">2013</td>
+     <td style="text-align:right; border-left:1px dotted black; ">47,756</td>
+     <td style="text-align:right; border-left:1px dotted black; ">12733.0</td>
+     <td style="text-align:right; border-left:1px dotted black; ">266,626</td>
+    </tr>
+    <tr style="border-bottom:1px solid black; ">
+     <td style="text-align:right; ">2014</td>
+     <td style="text-align:right; border-left:1px dotted black; ">53,600</td>
+     <td style="text-align:right; border-left:1px dotted black; ">14136.0</td>
+     <td style="text-align:right; border-left:1px dotted black; ">263,731</td>
+    </tr>
+    <tr>
+     <td class="spacer">&nbsp;</td>
+    </tr>
+   </table>
+  </div>
  <div class="_center">
   <img
    src="/assets/img/google-goes-radical-01.svg"
