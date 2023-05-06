@@ -17,9 +17,9 @@ image:    "icon-what-about-people-who-dont-care.svg"
   </div>
  <p>This may be because that&rsquo;s what has worked for them,</p>
   <div class="_citation">
-  <p class="_citation">&ldquo;Do what the boss says and you can&rsquo;t be blamed. He may yell at you, but if heads roll, it won&rsquo;t be mine.&rdquo;</p>
-  <p>It maintains the status quo. And the great majority of people don&rsquo;t expect any more than the status quo. So, you must find a way to help learn the alternatives.</p>
- </div
+   <p class="_citation">&ldquo;Do what the boss says and you can&rsquo;t be blamed. He may yell at you, but if heads roll, it won&rsquo;t be mine.&rdquo;</p>
+   <p>It maintains the status quo. And the great majority of people don&rsquo;t expect any more than the status quo. So, you must find a way to help learn the alternatives.</p>
+  </div>
 
 <h1>Preaching, Shaming, and Pressure</h1>
  <div class="_center">
