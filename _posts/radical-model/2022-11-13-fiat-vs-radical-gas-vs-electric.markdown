@@ -16,7 +16,7 @@ image:    "icon-the-roots-of-radical.svg"
 <h1>The <span claa="_paradigm">FIAT</span> World</h1>
  <p>The world is ruled by fiat (<em>i.e.</em>, <span class="_quotespan">because I say so</span> with an implied <span class="_quotespan">or else</span>). The <span class="_paradigm">FIAT</span> world we live in has worked in the sense that it has made things better for many of us, but it can never be just.</p>
  <p>Trying to <em>fix</em> the <span class="_paradigm">FIAT</span> model is like trying to get a gas car to consume no gas. You can make the car more efficient, or even make it a gas-electric hybrid, but it will <em>always</em> be a gasoline fueled car. No gas, no work. The <span class="_paradigm">RADICAL</span> model is more like the all-electric car. It still looks like a car, but it is fundamentally different. No gas, no problem.</p>
- <p>The <span class="_paradigm">FIAT</span> path will take us over the edge. The <span class="_paradigm">RADICAL</span> one will take us to a more sustainable future.<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
+ <p>The <span class="_paradigm">FIAT</span> path will take us over the edge. The <span class="_paradigm">RADICAL</span> one will take us to a more sustainable future.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Based on Extraction</h1>
  <p>The <span class="_paradigm">FIAT</span> world is based on extraction,</p>
@@ -50,16 +50,15 @@ image:    "icon-the-roots-of-radical.svg"
 
 <h1>For More</h1>
  <p>See
-                                <em>Get Rid of Ownership</em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>
-  <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
-   <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en04"><sup id="bm04">4&nbsp;</sup></a>
-                              <em>No Bonuses or Salaries</em>,<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> and
-          <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en06"><sup id="bm06">6&nbsp;</sup></a>
+                                <em>Get Rid of Ownership</em>,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>
+  <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>
+   <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a>
+                              <em>No Bonuses or Salaries</em>,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> and
+          <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a>
  </p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     I know I am being simplistic here, but it is basically right and it is memorable.
@@ -69,38 +68,38 @@ image:    "icon-the-roots-of-radical.svg"
   <li id="en02">
    <p class="_list-item">
     <em>Get Rid of Ownership</em>.
-    <<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>>
+    &lt;<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
    <p class="_list-item">
     <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
-    <<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>>
+    &lt;<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>&gt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en04">
    <p class="_list-item">
     <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
-    <<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>>
+    &lt;<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>&gt;
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en05">
    <p class="_list-item">
     <em>No Bonuses or Salaries</em>
-    <<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>>
+    &lt;<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>&gt;
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en06">
    <p class="_list-item">
     <em>Giving RADs</em>
-    <<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>>
+    &lt;<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>&gt;
     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
