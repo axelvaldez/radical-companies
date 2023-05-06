@@ -23,7 +23,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
 
 <h1>Preaching, Shaming, and Pressure</h1>
  <div class="_center">
-  <table class="-h2table" width="90%">
+  <table class="_h2table" width="90%">
    <tr>
     <td style="width:60%; ">&ldquo;This will be really good for you!&rdquo;</td>
     <td style="width:40%; border-left:1px dashed black; ">Preaching is not going to help.</td>
