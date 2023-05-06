@@ -42,7 +42,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
 <h1>Respond from Love</h1>
  <p>Respond, not <em>react</em>, to statements like this from love, not blame. For this to work you&rsquo;ll have to show your commitment to their success in the <span class="_paradigm">RADICAL</span> environment.</p>
  <div class="_center">
-  <table width="90%">
+  <table class="_h2table" width="90%">
    <tr>
     <th>Ask</th>
     <td>
