@@ -34,13 +34,13 @@ image:    "icon-what-about-people-who-dont-care.svg"
    </tr>
    <tr>
     <th width="60%"><span class="_quotespan">Just try it for a while and you&rsquo;ll see how good it is.</span></th>
-    <td width="40%">Pressure, ah[nother form of force, is not going to help, either.</td>
+    <td width="40%">Pressure, another form of force, is not going to help, either.</td>
    </tr>
   </table>
  </div>
 
 <h1>Respond from Love</h1>
- <p>Respond, not <em>react</em>, to statements like this from love, not blame. For this to work you&rsquo;ll have to show your commitment to their success in the <span class="_paradigm">RADICAL</span> environment.</p>
+ <p>Respond, not <em>react</em>, to statements like this from love, not blame. For this to work you&rsquo;ll have to show your commitment to their success in the <span class="_paradigm">RADICAL</span> environment. Lead with learning.</p>
  <div class="_center">
   <table class="_h2table">
    <tr>
