@@ -7,7 +7,7 @@ image:    "icon-alternatives-to-fiat.svg"
 ---
 
 <div style="display:none;">
- <p>&ldquo;&hellip; we are extremely perplexed.&rdquo;</p>
+ <p><span class="_quotespan">&hellip; we are extremely perplexed.</span></p>
 </div>
 
 <h1>&nbsp;</h1>

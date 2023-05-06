@@ -16,7 +16,7 @@ image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg
 <h1><span class='_paradigm'>RADICAL</span> Benefits</h1>
  <p>The <span class='_paradigm'>RADICAL</span> system is an alternative to the <span class='_paradigm'>FIAT</span> system.</p>
  <div class="_center">
-  <table class="_background">
+  <table class="_h2table">
    <tr>
     <th>Co-Ownership</th>
     <td>As a co-owner, you are no longer exchanging your time and skills for a wage. You are one of many owners and have rights to earned dividends, the wealth, that the company creates.</td>
