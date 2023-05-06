@@ -7,14 +7,14 @@ image:    "icon-the-roots-of-radical.svg"
 ---
 
 <div style="display:none;">
- <p>We can’t get to the future in a gas-powered car; it will take us over the edge first. We need a fundamentally different vehicle.</p>
+ <p>We can&rsquo;t get to the future in a gas-powered car; it will take us over the edge first. We need a fundamentally different vehicle.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>We can’t get to the future in a gas-powered car; it will take us over the edge first. We need a fundamentally different vehicle.</p>
+ <p>We can&rsquo;t get to the future in a gas-powered car; it will take us over the edge first. We need a fundamentally different vehicle.</p>
 
 <h1>The <span claa="_paradigm">FIAT</span> World</h1>
- <p>The world is ruled by fiat (<em>i.e.</em>, &ldquo;because I say so&rdquo; with an implied &ldquo;or else&rdquo;). The <span claa="_paradigm">FIAT</span> world we live in has worked in the sense that it has made things better for many of us, but it can never be just.</p>
+ <p>The world is ruled by fiat (<em>i.e.</em>, <span class="_quotespan">because I say so</span> with an implied <span class="_quotespan">or else</span>). The <span claa="_paradigm">FIAT</span> world we live in has worked in the sense that it has made things better for many of us, but it can never be just.</p>
  <p>Trying to <em>fix</em> the <span claa="_paradigm">FIAT</span> model is like trying to get a gas car to consume no gas. You can make the car more efficient, or even make it a gas-electric hybrid, but it will <em>always</em> be a gasoline fueled car. No gas, no work. The <span class="_paradigm">RADICAL</span> model is more like the all-electric car. It still looks like a car, but it is fundamentally different. No gas, no problem.</p>
  <p>The <span claa="_paradigm">FIAT</span> path will take us over the edge. The <span class="_paradigm">RADICAL</span> one will take us to a more sustainable future.<a href="#en01"><sup id="bn01">1&nbsp;</sup></a></p>
 
@@ -22,7 +22,7 @@ image:    "icon-the-roots-of-radical.svg"
  <p>The <span claa="_paradigm">FIAT</span> world is based on extraction,</p>
  <ul>
   <li>My wellbeing is extracted from everybody else&rsquo;s wellbeing (servitude).</li>
-  <li>My wellbeing is determined by my (financial) wealth and my wealth is extracted from everybody else’s wealth (enclosure).</li>
+  <li>My wellbeing is determined by my (financial) wealth and my wealth is extracted from everybody else&rsquo;s wealth (enclosure).</li>
   <li>My wealth is grown from everybody else&rsquo;s labor (exploitation).</li>
  </ul>
  <p>The injustice, and oftentimes horror, that this system engenders is actually pretty predictable,</p>
