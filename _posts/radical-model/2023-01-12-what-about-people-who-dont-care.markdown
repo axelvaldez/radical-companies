@@ -25,15 +25,8 @@ image:    "icon-what-about-people-who-dont-care.svg"
  <div class="_center">
   <table class="_h2table">
    <tr>
-   <!--
     <th width="50%"><span class="_quotespan">This will be really good for you!</span></th>
     <td width="50%">Preaching is not going to help.</td>
-   -->
-    <th width="50%">
-     <span class="_quotespan">
-      AAA
-     </span>
-    </th>
     <td width="50%">BBB</td>
    </tr>
   </table>
