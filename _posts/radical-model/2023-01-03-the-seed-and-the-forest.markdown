@@ -11,11 +11,11 @@ image:    "icon-the-seed-and-the-forest.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>We’d have to understand the forest well enough before somebody can ask, “<em>Where did this forest come from?</em>”</p>
+ <p>We&rsquo;d have to understand the forest well enough before somebody can ask, <span class="_quotespan">Where did this forest come from?</span></p>
  <p>The forest comes from  the relationship between,</p>
  <ul>
-  <li>A seed ready to grow, and</li>
-  <li>Land that’s ready to feed it</li>
+  <li>A seed ready to grow</li>
+  <li>Land ready to feed it</li>
  </ul>
 
 {% include related.html %}
