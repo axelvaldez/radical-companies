@@ -53,7 +53,7 @@ image:    "icon-the-radical-atomic-composition.svg"
 
 <h1>Explicit Alignment</h1>
  <div class="_center">
-  <table class="_background">
+  <table class="_h2table">
    <tr>
     <th>Impact<br><span class="_alignquestions">what for?</span></th>
     <td>What impact they want to make (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
@@ -75,7 +75,7 @@ image:    "icon-the-radical-atomic-composition.svg"
 <h1>Explicit Relationships</h1>
  <p>A Explicit Relationship is a guide to an exploration among would-be co-owners to make sure that they can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Explicit Relationship. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
  <div class="_center">
-  <table class="_background">
+  <table class="_h2table">
    <tr>
     <th>Umwelt</th>
     <td>
