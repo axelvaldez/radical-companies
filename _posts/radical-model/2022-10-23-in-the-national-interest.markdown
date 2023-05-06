@@ -133,7 +133,7 @@ image:    "icon-in-the-national-interest.svg"
     Ariel Procaccia.
     <em>Citizens&rsquo; Assemblies Are Upgrading Democracy: Fair Algorithms Are Part of the Program</em>.
     Scientific American. Nov 2022.
-    <<a href="https://radicals.world/GsJaao">https://radicals.world/GsJaao</a>>
+    &lt;<a href="https://radicals.world/GsJaao">https://radicals.world/GsJaao</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -141,7 +141,7 @@ image:    "icon-in-the-national-interest.svg"
    <p class="_list-item">
     Richard Langworth.
     <em>Churchill&rsquo;s “Democracy is the Worst Form of Government&hellip; .”</em>
-    <<a href="https://radicals.world/1a6vDr">https://radicals.world/1a6vDr</a>> (alt.  <a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>)
+    &lt;<a href="https://radicals.world/1a6vDr">https://radicals.world/1a6vDr</a>&gt; (alt., &lt;<a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>&gt;)
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -149,7 +149,7 @@ image:    "icon-in-the-national-interest.svg"
    <p class="_list-item">
     Richard Langworth.
     <em>Churchill&rsquo;s “Democracy is the Worst Form of Government&hellip; .”</em>
-    <<a href="https://diigo.com/0qf2of">https://diigo.com/0qf2of</a>> (alt.  <a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>)
+    &lt;<a href="https://diigo.com/0qf2of">https://diigo.com/0qf2of</a>&gt; (alt.  <a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>&gt;)
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -165,7 +165,7 @@ image:    "icon-in-the-national-interest.svg"
     King Camp Gillette.
     <em>World Corporation</em>.
     1910.
-    <<a href="https://radicals.world/wmJFfR">https://radicals.world/wmJFfR</a>>
+    &lt;<a href="https://radicals.world/wmJFfR">https://radicals.world/wmJFfR</a>&gt;
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -173,7 +173,7 @@ image:    "icon-in-the-national-interest.svg"
    <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
     <em>rCOIN</em>.
-    <<a href="https://radicalcompanies.com/2022/05/07/rcoin.html">https://radicalcompanies.com/2022/05/07/rcoin.html</a>>
+    &lt;<a href="https://radicalcompanies.com/2022/05/07/rcoin.html">https://radicalcompanies.com/2022/05/07/rcoin.html</a>&gt;
     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
