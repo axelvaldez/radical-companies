@@ -43,7 +43,6 @@ image:    "icon-ptsd-and-trust.svg"
  <span class='_paradigm'>Transparency</span>
  <span class='_paradigm'>Experimentation</span>
 
-
 <!-- proto-image -->
  <div class="_center">
   <img
