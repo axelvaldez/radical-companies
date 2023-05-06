@@ -19,7 +19,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
   <div class="_citation">
    <p>Do what the boss says and you can&rsquo;t be blamed. He may yell at you, but if heads roll, it won&rsquo;t be mine.</p>
   </div>
- <p>It maintains the status quo, and the great majority of people don&rsquo;t expect any more than the status quo. So, you must find a way to help people learn the alternatives. AAA</p>
+ <p>It maintains the status quo, and the great majority of people don&rsquo;t expect any more than the status quo. So, you must find a way to help people learn the alternatives.</p>
 
 <h1>Preaching, Shaming, and Pressure</h1>
  <div class="_center">
@@ -28,10 +28,14 @@ image:    "icon-what-about-people-who-dont-care.svg"
     <th width="60%"><span class="_quotespan">This will be really good for you!</span></th>
     <td width="40%">Preaching is not going to help.</td>
    </tr>
+  </table>
+  <table class="_h2table">
    <tr>
     <th width="60%"><span class="_quotespan">What kind of stupid question is that?</span></td>
     <td width="40%">Shaming and force are not going to help.</td>
    </tr>
+  </table>
+  <table class="_h2table">
    <tr>
     <th width="60%"><span class="_quotespan">Just try it for a while and you&rsquo;ll see how good it is.</span></th>
     <td width="40%">Pressure, another form of force, is not going to help, either.</td>
