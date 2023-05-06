@@ -14,7 +14,7 @@ image:    "icon-let-them-eat-title.svg"
  <p>The transition from <span class="_paradigm">FIAT</span> to <span class="_paradigm">RADICAL</span> will not happen in a day. It’s going to take time. In the meantime, some people will need to be able to tell what their title is. Some people have the confidence to just choose their own title, but others do not. So how do you assign titles in a <span class="_paradigm">RADICAL</span> company?</p>
 
 <h1>Gore & Associates</h1>
- <p>Some companies, like Gore Associates, the makers of <em>Gore Tex</em> fabrics, just use <em>Associate</em> for everyone. Your coworkers are the people you literally <em>associate</em> with and it makes sense that Associate is a universal &ldquo;title&rdquo; in that environment. When a person at Gore needed to speak to someone outside the organization, they would have a title to write down on a business card and make people from <span class="_paradigm">FIAT</span> bussinesses more comfortable.</p>
+ <p>Some companies, like Gore Associates, the makers of <em>Gore Tex</em> fabrics, just use <em>Associate</em> for everyone. Your coworkers are the people you literally <em>associate</em> with and it makes sense that Associate is a universal <em>title</em> in that environment. When a person at Gore needed to speak to someone outside the organization, they would have a title to write down on a business card and make people from <span class="_paradigm">FIAT</span> bussinesses more comfortable.</p>
 
 <h1>Nearsoft</h1>
  <p>I am reminded of a developer at Nearsoft who really wanted somebody, an authority, to give him a title. Nearsoft didn’t have a <span class="_paradigm">FIAT</span> hierarchy, so it would have been easy enough to give himself a title. But this person insisted that a title be <em>given</em> to him.</p>
@@ -33,7 +33,7 @@ image:    "icon-let-them-eat-title.svg"
  </ul>
  <p>At the end you are a person with many titles representing the many conceptions that your peers have of you.</p>
  <p>This could happen once a year, or every six months. You might find that people identify you differently over time.</p>
- <p>If you really wanted that &ldquo;Senior&rdquo; part added to your title, then you would have to earn it with your community, and not just by kissing up to the boss.</p>
+ <p>If you really wanted that <em>Senior</em> part added to your title, then you would have to earn it with your community, and not just by kissing up to the boss.</p>
  <p>There probably are other ways, but the result will be a much richer and dynamic conception of identity. And it would offer an ability to interface with the <span class="_paradigm">FIAT</span> world.</p>
 
 {% include related.html %}
