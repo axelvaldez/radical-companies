@@ -13,7 +13,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
 <h1>&nbsp;</h1>
  <p>Talking about co-management, the question came up as,</p>
   <div class="_citation">
-   <p">What about people who don&rsquo;t seem to care? They just want to be told what to do?</p>
+   <p>What about people who don&rsquo;t seem to care? They just want to be told what to do?</p>
   </div>
  <p>This may be because that&rsquo;s what has worked for them,</p>
   <div class="_citation">
