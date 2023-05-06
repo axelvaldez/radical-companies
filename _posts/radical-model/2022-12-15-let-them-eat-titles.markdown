@@ -22,7 +22,7 @@ image:    "icon-let-them-eat-title.svg"
 
 <h1>A Social Need</h1>
  <p>Sure we can be the stewards of our identity, but we can not ignore that identity is also provided by our community<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>. If someone, Mailan, is a baker, people know he as Mary the baker. If Mailan mostly yells, people around her expect that behavior.</p>
- <p>In a <span class="_paradigm">FIAT</span> world identity comes down from above: your boss gives you a title. This doesn&rsquo;t work in a <span class="_paradigm">RADICAL</span> environment. In a <span class="_paradigm">RADICAL</span> space, the community reflects the qualities of the person; their role is secondary and can change.</p>
+ <p>In a <span class="_paradigm">FIAT</span> world identity comes down from above: your boss gives you a title. This doesn&rsquo;t work in a <span class="_paradigm">RADICAL</span> environment where the community reflects the qualities of the person; their role is secondary and can change.</p>
 
 <h1>Decentralized Ways</h1>
  <p>To decentralize, disentangle. In this case, how do we disentangle the &ldquo;boss&rdquo; functions and decentralize the power of assigning titles? One approach is to have everyone responsible for coming up with their own title, like they did at Nearsoft.</p>
