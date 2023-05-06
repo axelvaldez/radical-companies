@@ -12,14 +12,18 @@ image:    "icon-what-about-people-who-dont-care.svg"
 
 <h1>&nbsp;</h1>
  <p>Talking about co-management, the question came up as,</p>
- <p class="_citation">&ldquo;What about people who don&rsquo;t seem to care? They just want to be told what to do?&rdquo;</p>
+  <div class="_citation">
+   <p>&ldquo;What about people who don&rsquo;t seem to care? They just want to be told what to do?&rdquo;</p>
+  </div>
  <p>This may be because that&rsquo;s what has worked for them,</p>
- <p class="_citation">&ldquo;Do what the boss says and you can&rsquo;t be blamed. He may yell at you, but if heads roll, it won&rsquo;t be mine.&rdquo;</p>
- <p>It maintains the status quo. And the great majority of people don&rsquo;t expect any more than the status quo. So, you must find a way to help learn the alternatives.</p>
+  <div class="_citation">
+  <p class="_citation">&ldquo;Do what the boss says and you can&rsquo;t be blamed. He may yell at you, but if heads roll, it won&rsquo;t be mine.&rdquo;</p>
+  <p>It maintains the status quo. And the great majority of people don&rsquo;t expect any more than the status quo. So, you must find a way to help learn the alternatives.</p>
+ </div
 
 <h1>Preaching, Shaming, and Pressure</h1>
  <div class="_center">
-  <table class="" width="90%">
+  <table class="-h2table" width="90%">
    <tr>
     <td style="width:60%; ">&ldquo;This will be really good for you!&rdquo;</td>
     <td style="width:40%; border-left:1px dashed black; ">Preaching is not going to help.</td>
@@ -30,10 +34,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
    </tr>
    <tr>
     <td style="width:60%; ">&ldquo;Just try it for a while and you&rsquo;ll see how good it is.&rdquo;</td>
-    <td style="width:40%; border-left:1px dashed black; ">Pressure is not going to help.</td>
-   </tr>
-   <tr>
-    <td class="_filler"></td>
+    <td style="width:40%; border-left:1px dashed black; ">Pressure, ah[nother form of force, is not going to help, either.</td>
    </tr>
   </table>
  </div>
