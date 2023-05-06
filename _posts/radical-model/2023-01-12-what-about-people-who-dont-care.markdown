@@ -25,15 +25,15 @@ image:    "icon-what-about-people-who-dont-care.svg"
  <div class="_center">
   <table class="_h2table" width="90%">
    <tr>
-    <td style="width:60%; ">&ldquo;This will be really good for you!&rdquo;</td>
+    <th style="width:60%; "><span class="_quotespan">This will be really good for you!</span></th>
     <td style="width:40%; border-left:1px dashed black; ">Preaching is not going to help.</td>
    </tr>
    <tr>
-    <td style="width:60%; ">&ldquo;What kind of stupid question is that?&rdquo;</td>
+    <th style="width:60%; "><span class="_quotespan">What kind of stupid question is that?</span></td>
     <td style="width:40%; border-left:1px dashed black; ">Shaming and force are not going to help.</td>
    </tr>
    <tr>
-    <td style="width:60%; ">&ldquo;Just try it for a while and you&rsquo;ll see how good it is.&rdquo;</td>
+    <th style="width:60%; "><span class="_quotespan">Just try it for a while and you&rsquo;ll see how good it is.</span></th>
     <td style="width:40%; border-left:1px dashed black; ">Pressure, ah[nother form of force, is not going to help, either.</td>
    </tr>
   </table>
