@@ -13,7 +13,10 @@ image:    "icon-in-the-national-interest.svg"
 <h1>&nbsp;</h1>
  <p>National goverments really are very, very tall <span class="_paradign">FIAT</span> hierarchies with a monopoloy on force. We need governance, but not centralized governments. This is true for the whole range of  governments, from democracies to dictatoships.</p>
  <div class="_citation">
-  <p><span class="_quotespan">&hellip; who would be trustworthy and persuasive enough?&hellip; The answer was a bunch of ordinary people.<span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>
+   <span class="_quotespan">&hellip; who would be trustworthy and persuasive enough?&hellip; The answer was a bunch of ordinary people.</span>
+   <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
+  </p>
  </div>
 
 <h1>Churchill</h1>
