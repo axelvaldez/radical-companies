@@ -19,11 +19,11 @@ image:    "icon-what-about-people-who-dont-care.svg"
   <div class="_citation">
    <p>Do what the boss says and you can&rsquo;t be blamed. He may yell at you, but if heads roll, it won&rsquo;t be mine.</p>
   </div>
- <p>It maintains the status quo, and the great majority of people don&rsquo;t expect any more than the status quo. So, you must find a way to help people learn the alternatives.</p>
+ <p>It maintains the status quo, and the great majority of people don&rsquo;t expect any more than the status quo. So, you must find a way to help people learn the alternatives. AAA</p>
 
 <h1>Preaching, Shaming, and Pressure</h1>
  <div class="_center">
-  <table class="_h2table" width="90%">
+  <table class="_h2table">
    <tr>
     <th width="60%"><span class="_quotespan">This will be really good for you!</span></th>
     <td width="40%">Preaching is not going to help.</td>
@@ -42,7 +42,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
 <h1>Respond from Love</h1>
  <p>Respond, not <em>react</em>, to statements like this from love, not blame. For this to work you&rsquo;ll have to show your commitment to their success in the <span class="_paradigm">RADICAL</span> environment.</p>
  <div class="_center">
-  <table class="_h2table" width="90%">
+  <table class="_h2table">
    <tr>
     <th>Ask</th>
     <td>
