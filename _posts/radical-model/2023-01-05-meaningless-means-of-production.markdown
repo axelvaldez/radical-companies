@@ -20,12 +20,23 @@ image:    "icon-meaningless-means-of-production.svg"
   <li>Your contributions have to be made tangible (<em>e.g.</em>, <span class="_paradigm">RAD</span>s determine your percentage of whatever is up for distribution: money, ownership, etc.).</li>
  </ul>
 
-<h1>The <em>RADs!</em> App</h1>
+<h1>The <em><span class="_paradigm">RAD</spam>s! App</em></h1>
  <p>This is exactly what the <em>RADs!</em> app does,</p>
- <ul>
-  <li><strong>Recognized Contributions</strong>. It lets everybody recognized what they see as your contributions. You may be surprised what comes natural to you but others see as near superhero behavior.</li>
-  <li><strong>Conversion</strong>. The app converts these contributions to <span class="_paradigm">RADs</span>.</li>
-  <li><strong>Tangible</strong>. The number of <span class="_paradigm">RADs</span>s you get determines your percentage of all <span class="_paradigm">RADs</span>s given. This means that <span class="_paradigm">RAD</span>s can factor money, ownership, and whatnot.</li>
- </ul>
+  <div class="_center">
+   <table class="_h2table">
+    <tr>
+     <th>Recognized Contributions</th>
+     <td>It lets everybody recognized what they see as your contributions. You may be surprised what comes natural to you but others see as near superhero behavior.</td>
+    </tr>
+    <tr>
+     <th>Conversion</th>
+     <td>The app converts these contributions to <span class="_paradigm">RAD</span>s.</td>
+    </tr>
+    <tr>
+     <th>Tangible</th>
+     <td>The number of <span class="_paradigm">RAD</span>s you get determines your percentage of all <span class="_paradigm">RAD</span>s given. This means that <span class="_paradigm">RAD</span>s can factor money, ownership, etc.</td>
+    </tr>
+   </table>
+  </div>
 
 {% include related.html %}
