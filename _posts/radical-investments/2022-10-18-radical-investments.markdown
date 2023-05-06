@@ -36,7 +36,7 @@ image:    "icon-radical-investments.svg"
    <li>Help them improve their chances of success, and</li>
    <li>Do all this while getting paid for doing so.</li>
   </ul>
-   <p>These contributions would be recognized, turned into <span class="_paradigm">RAD</span>s, and, finally, into <em>earned dividends</em>.</p>
+   <p>These contributions would be recognized, turned into <span class="_paradigm">RAD</span>s, and, finally, into earned dividends (<em>i.e.</em>, cash).</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
