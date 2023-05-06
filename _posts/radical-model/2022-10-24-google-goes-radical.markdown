@@ -19,7 +19,7 @@ image:    "icon-google-goes-radical.svg"
  <p>We know what <span class="_paradigm">FIAT</span> Google has done: they went public and started all kinds of projects to increase headcount and add heft to the management pyramid. They followed the <span class="_paradigm">FIAT</span> logic and the hierarchy accumulated employees under a boss, The bosses became bigger bosses and got paid more, <em>ad infinitum</em>.</p>
 
 <h1><span class="_paradigm">FIAT</span> Google Shortcomings</h1>
- <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
+ <p>Take a look at <span class="_paradigm">FIAT</span> Google,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
   <div class="_center">
    <table style="width:40%;">
     <tr style="background-color:LightGray; ">
