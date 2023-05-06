@@ -18,7 +18,7 @@ image:    "icon-let-them-eat-title.svg"
 
 <h1>Nearsoft</h1>
  <p>This reminds me of a Nearsoft developer who really wanted somebody, an authority, to give him a title. Nearsoft didn&rsquo;t have a <span class="_paradigm">FIAT</span> hierarchy, so it would have been easy enough to give himself a title. But this person insisted that a title be <em>given</em> to him.</p>
- <p>Later, talking to him, I found out that he wanted to be acknowledged by <em>Nearsoft</em>. I said something like, <span class="_quotespan">shouldn&rsquo;t you, then, have gone to your team? they are the &ldquo;authority&rdquo; on that kind of acknowledgement</span>. At that moment we realized that he applealing to me and me reacting as the authority was what got in the way. We are bling to <span class="_paradigm">FIAT</span>, and even when we begin to see it, it is hard to resist reverting to it.</p>
+ <p>Later, talking to him, I found out that he wanted to be acknowledged by <em>Nearsoft</em>. I said something like, <span class="_quotespan">shouldn&rsquo;t you, then, have gone to your team? they are the &ldquo;authority&rdquo; on that kind of acknowledgement</span>. At that moment we realized that he applealing to me and me reacting as the authority was what got in the way. We are so blind to <span class="_paradigm">FIAT</span>; it is hard to resist reverting to it.</p>
 
 <h1>A Social Need</h1>
  <p>Sure we can be the stewards of our identity, but we can not ignore that identity is also provided by our community. If someone is a baker, people know them as such. That part I have no beef with. It&rsquo;s when people create rigid hierarchies that ignore the individual, reduce them to a number on an expense sheet.</p>
