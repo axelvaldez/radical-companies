@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Ensembles, Collaboratives, or Networks"
+title:    "Ensembles, Collaboratives, or Networks?"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-ensembles-collabortives-networks.svg"
