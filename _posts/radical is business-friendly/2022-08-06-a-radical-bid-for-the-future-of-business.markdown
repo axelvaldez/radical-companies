@@ -24,34 +24,36 @@ image:    "icon-a-radical-bid-for-the-future-of-business.svg"
 
 <h1>But, Is It Sustainable?</h1>
  <p>How would this kind of platform sustain itself?</p>
- <table>
-  <tr>
-   <th style="width:1in; ">
-    <p>By the Match</p>
-   </th>
-   <td class="_list-item">
-    <p>The traditional, <span class="_paradigm">FIAT</span> way is to charge per match or charge a subscription fee. But this mechanism is not in line with the desired outcome. Yes, we want the platform to be sustainable, but that&rsquo;s not the most important value we want to create.</p>
-   </td>
-  </tr>
-  <tr>
-   <th>
-    <p>Percent of Profit</p>
-   </th>
-   <td class="_list-item">
-    <p>This is the we-make-money-when-you-make-money approach. The platform makes money when the Founders start paying the investors. Here the platform is more directly aligned with investors and founders, but it still does not align well with the <span class="_paradigm">RADICAL</span> model where people and communities come first.</p>
-   </td>
-  </tr>
-  <tr>
-   <th>
-    <p>By Making a Contribution</p>
-   </th>
-   <td class="_list-item">
-    <p>Alternatively, the platform gets <span class="_paradigm">RAD</span>s by becoming <span class="_paradigm">BANNER</span>. For sure, it would be a <span class="_paradigm">BANNER</span> in the new company&rsquo;s <span class="_paradigm">RAD</span> Distribution system. It might also be a <span class="_paradigm">BANNER</span> in the investor&rsquo;s <span class="_paradigm">RAD</span> Distribution system.</p>
-    <p>When the new company starts to distribute its earned dividends, the platform sees it as revenue. Ditto for the capital gains for investors.</p>
-    <p>It’s important to note that the number of <span class="_paradigm">RAD</span>s can vary. It is not a negotiated amount or percentage chiseled in a legal contract. If the platform is creating value, it gets <span class="_paradigm">RAD</span>s, and then revenue. If the new company and its investors are delighted and empowered by the platform&rsquo;s contributions, then it makes money.</p>
-   </td>
-  </tr>
-</table>
+  <div class="_center">
+   <table class="_h2table">
+    <tr>
+     <th style="width:1in; ">
+      <p>By the Match</p>
+     </th>
+     <td class="_list-item">
+      <p>The traditional, <span class="_paradigm">FIAT</span> way is to charge per match or charge a subscription fee. But this mechanism is not in line with the desired outcome. Yes, we want the platform to be sustainable, but that&rsquo;s not the most important value we want to create.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>
+      <p>Percent of Profit</p>
+     </th>
+     <td class="_list-item">
+      <p>This is the we-make-money-when-you-make-money approach. The platform makes money when the Founders start paying the investors. Here the platform is more directly aligned with investors and founders, but it still does not align well with the <span class="_paradigm">RADICAL</span> model where people and communities come first.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>
+      <p>By Making a Contribution</p>
+     </th>
+     <td class="_list-item">
+      <p>Alternatively, the platform gets <span class="_paradigm">RAD</span>s by becoming <span class="_paradigm">BANNER</span>. For sure, it would be a <span class="_paradigm">BANNER</span> in the new company&rsquo;s <span class="_paradigm">RAD</span> Distribution system. It might also be a <span class="_paradigm">BANNER</span> in the investor&rsquo;s <span class="_paradigm">RAD</span> Distribution system.</p>
+      <p>When the new company starts to distribute its earned dividends, the platform sees it as revenue. Ditto for the capital gains for investors.</p>
+      <p>It’s important to note that the number of <span class="_paradigm">RAD</span>s can vary. It is not a negotiated amount or percentage chiseled in a legal contract. If the platform is creating value, it gets <span class="_paradigm">RAD</span>s, and then revenue. If the new company and its investors are delighted and empowered by the platform&rsquo;s contributions, then it makes money.</p>
+     </td>
+    </tr>
+  </table>
+ </div> 
 
 <h1>Contribution or Exploitation</h1>
  <p>I remember having an interaction with Zappos customer support and by the end of it, I was totally delighted with the interaction. I would have definitely given them <span class="_paradigm">RAD</span>s at that point. On the other hand, Facebook, which is more interested in exploiting me than helping me, would not see any <span class="_paradigm">RAD</span>s from me. Over time, companies would lean to Zappos-like behavior rather than Facebook-like behavior.</p>
