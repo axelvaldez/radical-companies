@@ -197,19 +197,13 @@ table._explicitalignment th {
   text-align:right;
   font-weight:bold;
   font-family:'Times New Roman', Times, serif;
-  column-width:80%;
-}
-table._explicitalignment th::after {
-  content:" xxx";
+  column-width:20%;
 }
 table._explicitalignment td {
   vertical-align:text-top;
   text-align:left;
   padding-left:0;  
   column-width:80%;
-}
-table._explicitalignment th::after {
-  content:" yyy";
 }
 
 /*
