@@ -24,6 +24,6 @@ image:    "icon-radical-hiring-no-such-thing.svg"
    <li>If what you do is not recognized as contributions, you’d probably go away. Alternatively, it may be a matter of doing a better job at letting others know what you’re doing.</li>
    <li>Later, we then can go through the Explicit Relationship and, if everything goes well, you are part of the company.</li>
   </ul>
- <p></p>easy peasy!</p>
+ <p>Easy peasy!</p>
 
 {% include related.html %}
