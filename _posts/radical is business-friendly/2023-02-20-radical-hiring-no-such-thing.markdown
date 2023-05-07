@@ -17,7 +17,7 @@ image:    "icon-radical-hiring-no-such-thing.svg"
 
 <h1><span class="_paradigm">BANNER</span>s</h1>
  <p>Expanding the co-owner base in the <span class="_paradigm">RADICAL</span> world is equivalent to hiring in the <span class="_paradigm">FIAT</span> world.</p>
- <p><span class="_paradigm">$1</span></span>S kick off the process of expanding the base of co-owners. They describe the proposed project and what it needs, including people skills,</p>
+ <p><span class="_paradigm">RADICAL COMPANIES</span> kicks off the process of expanding the base of co-owners. They describe the proposed project and what it needs, including people skills as a secondary,</p>
   <ul>
    <li>Because <span class="_paradigm">BANNER</span>s are transparent, people outside the company can see if they match the skills that the company needs.</li>
    <li>Anybody can then choose to start to contribute and they are recognized by other co-owners, you receive <span class="_paradigm">RAD</span>s.</li>
