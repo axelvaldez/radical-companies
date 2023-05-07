@@ -69,15 +69,12 @@ image:    "icon-the-radical-foundation-revised.svg"
    </tr>
    <tr>
     <th>Explicit Alignment</th>
-    <td>This applies to a group of people collaborating on a common project (<em>e.g.</em>, what we call a company). However you choose to express them, these are the key components that you must consider,</td>
-   </tr>
-   <tr style="backgroud-color:white; " colspan="2">
-    <th>
+    <td>This applies to a group of people collaborating on a common project (<em>e.g.</em>, what we call a company). However you choose to express them, these are the key components that you must consider,
      <div class="_center">
       <img
        src="/assets/img/en-alignment.svg"
-       width="70%"
        alt=""
+       width="70%"
       >
      </div>
     </th>
