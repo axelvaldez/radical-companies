@@ -553,7 +553,7 @@ table._ninety tr::nth-child(-n + 3) {
  Two-Column Table
  */
 table._h2table {
-  column-width:80%;
+  width:100%;
 }
 table._h2table tr:nth-child(odd) {
   background-color:#EEEEEE;
