@@ -24,10 +24,10 @@ image:    "icon-a-sample-radical-investment.svg"
  <p style="text-indent:2em; ">This agreement, (the “Note”), shall be due and payable, including the principal and any accrued interest, in one of the following ways:</p>
  <p>
   <div style="margin-left:3em; ">
-   <p>The first payment will be made in  [DATE] in the amount of [AMOUNT].</p>
-   <p>The second payment will be made  [DATE] in the amount of [AMOUNT].</p>
-   <p>The third payment will be made in, [DATE] in the amount of [AMOUNT].</p>
-   <p>The total amount of the loan shall be due and payable by [DATE].</p>
+   <p>The first payment will be made by [DATE] in the amount of [AMOUNT].</p>
+   <p>The second payment will be made by [DATE] in the amount of [AMOUNT].</p>
+   <p>The third payment will be made by [DATE] in the amount of [AMOUNT].</p>
+   <p>The final payment will be made by [DATE] in the amount of [AMOUNT].</p>
   </div>
  </p>
 
