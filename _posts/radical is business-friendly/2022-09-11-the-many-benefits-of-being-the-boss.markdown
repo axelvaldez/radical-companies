@@ -44,7 +44,7 @@ image:    "icon-the-many-benefits-of-being-the-boss.svg"
  <p>As you paddle towards the shore you just know that you&rsquo;re going to pass on the plan-B-CEO offer. It will give you time to really read her book.</p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     Adrian Perez.
@@ -54,6 +54,6 @@ image:    "icon-the-many-benefits-of-being-the-boss.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
