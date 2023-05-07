@@ -98,40 +98,23 @@ image:    "icon-the-radical-foundation-revised.svg"
 
 <h1>The Revised <span claa="_paradigm">RADICAL</span> Foundation</h1>
  <h2>Foundation</h2>
-
-  <table class="_h2table">
-   <tr>
-    <th>people</th>
-    <td>Meaning & Belonging</td>
-   </tr>
-   <tr>
-    <th>commitments</th>
-    <td>Decentralization & Transparency</td>
-   </tr>
-   <tr>
-    <th>practices</th>
-    <td>Experimentation</td>
-   </tr>
-   <tr>
-    <td class="_spacer_"></td>
+  <div class="_center">
+   <table class="_h2table">
+    <tr>
+     <th>people</th>
+     <td>Meaning & Belonging</td>
+    </tr>
+    <tr>
+     <th>commitments</th>
+     <td>Decentralization & Transparency</td>
+    </tr>
+    <tr>
+     <th>practices</th>
+     <td>Experimentation</td>
    </tr>
   </table>
  </div>
- 
-  <table align="center">
-    <tr class="_background">
-    <th>People</th>
-    <td>Meaning & Belonging</td>
-   </tr>
-   <tr>
-    <th>Commitment</th>
-    <td>Decentralization & Transparency</td>
-   </tr>
-    <tr class="_background">
-    <th>Practice</th>
-    <td>Experimentation</td>
-   </tr>
-  </table>
+
  <h2>Toos</h2>
   <p>Keep in mind that most of these tools will likely be different for you,</p>
   <table align="center">

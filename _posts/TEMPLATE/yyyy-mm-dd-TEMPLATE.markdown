@@ -76,9 +76,6 @@ image:    "icon-ptsd-and-trust.svg"
     <th>practices</th>
     <td>Experimentation</td>
    </tr>
-   <tr>
-    <td class="_spacer_"></td>
-   </tr>
   </table>
  </div>
 
