@@ -114,10 +114,10 @@ image:    "icon-the-radical-foundation-revised.svg"
   </table>
  </div>
 
- <h2>Toos</h2>
+ <h2>Tools</h2>
   <p>Keep in mind that most of these tools will likely be different for you,</p>
   <table align="center">
-    <tr class="_background">
+    <tr class="_h2table">
     <th><span class="_paradigm">RAD</span>s!</th>
     <td>
      <span class="_paradigm">RAD</span> Distribution<br>
