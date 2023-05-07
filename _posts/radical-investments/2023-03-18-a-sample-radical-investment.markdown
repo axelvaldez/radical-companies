@@ -16,10 +16,12 @@ image:    "icon-a-sample-radical-investment.svg"
 <h1 class="_sectionn">RADICAL INVESTMENT</h1>
  <table>
   <tr>
-   <td style="text-align:right; ">Loan Amount: [AMOUNT]</td>
+   <td style="text-align:right; ">Loan Amount:</td>
+   <td style="text-align:left; ">[AMOUNT]</td>
   </tr>
   <tr>
-   <td style="text-align:right; ">Date: [DATE]</td>
+   <td style="text-align:right; ">Date:</td>
+   <td style="text-align:left; ">[DATE]</td>
   </tr>
  </table>
 
