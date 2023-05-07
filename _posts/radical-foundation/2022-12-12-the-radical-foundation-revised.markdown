@@ -98,6 +98,26 @@ image:    "icon-the-radical-foundation-revised.svg"
 
 <h1>The Revised <span claa="_paradigm">RADICAL</span> Foundation</h1>
  <h2>Foundation</h2>
+
+  <table class="_h2table">
+   <tr>
+    <th>people</th>
+    <td>Meaning & Belonging</td>
+   </tr>
+   <tr>
+    <th>commitments</th>
+    <td>Decentralization & Transparency</td>
+   </tr>
+   <tr>
+    <th>practices</th>
+    <td>Experimentation</td>
+   </tr>
+   <tr>
+    <td class="_spacer_"></td>
+   </tr>
+  </table>
+ </div>
+ 
   <table align="center">
     <tr class="_background">
     <th>People</th>
