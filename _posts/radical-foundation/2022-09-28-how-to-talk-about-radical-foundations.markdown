@@ -48,8 +48,9 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
 <h1>Description</h1>
  <div class="_center">
   <table>
-   <tr>
-    <td colspan="all" style="font-weight:bold; text-align:center; background-color:#EEEEEE; ">PEOPLE</td>
+   <tr style="font-weight:bold; text-align:center; background-color:#EEEEEE; ">
+    <td>&nbsp;</td>
+    <td>PEOPLE</td>
    </tr>
    <tr>
     <th>Meaning</th>
@@ -63,8 +64,9 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
       <p>This is about people. Do you want to work with this group? Does it feel right to be part of this project? Do I agree with their explicit alignment?</p>
     </td>
    </tr>
-   <tr>
-    <td colspan="all" style="font-weight:bold; text-align:center; background-color:#EEEEEE; ">COMMITTMENTS</td>
+   <tr style="font-weight:bold; text-align:center; background-color:#EEEEEE; ">
+    <td>&nbsp;</td>
+    <td>COMMITTMENTS</td>
    </tr>
    <tr>
     <th>Transparency</th>
@@ -81,7 +83,9 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="all" style="font-weight:bold; text-align:center; background-color:#EEEEEE; ">PRACTICES</td>
+   <tr style="font-weight:bold; text-align:center; background-color:#EEEEEE; ">
+    <td>&nbsp;</td>
+    <td>PRACTICES</td>
    </tr>
    <tr>
     <th>Experimentation</th>
