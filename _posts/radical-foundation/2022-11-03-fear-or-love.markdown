@@ -14,7 +14,7 @@ image:    "icon-simple-fear-or-love.svg"
  <p>It is simple: avoid risks or risk it. Run away or go for it. Lecture or learn. Fear or love.</p>
 
 <h1>Risk Life or Preserve It</h1>
- <p>Unicellular bacteria have this wired into them. <span class="_quotespan">Hmm&hellip; nourishment, go after it!</span> <span class="_quotespan">Hmm&hellip; poison, run away from it!</span> <span class="_quotespan"></p>
+ <p>Unicellular bacteria have this wired into them. <span class="_quotespan">Hmm&hellip; nourishment, go after it!</span> <span class="_quotespan">Hmm&hellip; poison, run away from it!</span></p>
  <p>Risk or preserve life: the rule of all live creatures.</p>
 
 <h1>Frozen by Fear or Guided by Love?</h1>
