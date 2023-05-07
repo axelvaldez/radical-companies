@@ -14,8 +14,8 @@ image:    "icon-a-sample-radical-investment.svg"
  <p>Pay attention to the second paragraph of clause III (in bold). The rest of it is <span class="_paradigm">FIAT</span> boilerplate.</p>
 
 <h1 class="_sectionn">RADICAL INVESTMENT</h1>
- <p>Loan Amount: [AMOUNT]</p>
- <p>       Date: [DATE]</p>
+ <p style="text-akign:right; ">Loan Amount: [AMOUNT]</p>
+ <p style="text-akign:right; ">Date: [DATE]</p>
 
 <h1>I. THE PARTIES</h1>
  <p style="text-indent:2em; ">For the above value received by [company] a [STATE] Limited Liability Company with a mailing address of [ADDRESS] (the “Borrower”), agrees to pay (the “Lender”).</p>
