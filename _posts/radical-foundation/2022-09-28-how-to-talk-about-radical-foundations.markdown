@@ -26,7 +26,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  <p>In the <span class="_paradigm">RADICAL</span> model, a <em>company</em> is simply a group of people who come together to build something bigger than themselves. The word "company" comes from the Latin prefix con-, meaning together, and pan, meaning bread. A company then is a group of people who work and socialize together.</p>
  <p>Every company is different because the people who embody it are different. What fundamentally makes a <span class="_paradigm">RADICAL</span> company different from a <span class="_paradigm">FIAT</span> business is that it starts from this simple Foundation.</p>
  <div class="_center">
-  <table class="_foundation">
+  <table class="_h2table">
    <tr>
     <th>people</th>
     <td>Meaning & Belonging</td>
