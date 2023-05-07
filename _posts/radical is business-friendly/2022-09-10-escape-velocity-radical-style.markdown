@@ -15,9 +15,9 @@ image:    "icon-escape-velocity-radical-style.svg"
 
 <h1>Precursors</h1>
  <p><span class="_paradigm">RADICAL</span>-like groups have been around for a while: one comes up, others copy him, and they pick up some momentum, <em>but never enough</em>. The reasons range from the visionary leader passing away, dogma setting in, or the group being taken over by barbarians.</p>
- <p>What drives these barbarians to &ldquo;take over?&rdquo; Why do they believe they are winning when their chieftains get the long-term benefits of their work? Don&rsquo;t they, the people who do the &ldquo;winning,&rdquo; realize that they, too, can easily end up on the wrong side of this win-lose mindset?</p>
+ <p>What drives these barbarians to <em>take over</em>? Why do they believe they are winning when their chieftains get the long-term benefits of their work? Don&rsquo;t they, the people who do the <em>winning,</em> realize that they, too, can easily end up on the wrong side of this win-lose mindset?</p>
  <p>Or maybe <strong><em>we</em></strong> are all barbarians and we can&rsquo;t help it. It's just the human condition, so don&rsquo;t go against it. But, ifIn spite of it all, this, <span class="_paradigm">RADICAL</span>-like groups keep coming up, over and over again. Why?</p>
- <p>Maybe, just maybe, it is because the &ldquo;barbarian&rdquo; thing is a system? It encourages and guides people to act like barbarians.</p>
+ <p>Maybe, just maybe, it is because the <em>barbarian</em> thing is a system? It encourages and guides people to act like barbarians.</p>
  <p>Then, how  that leads some people to act like barbariansdid this system get started? And, why has it been so robust, so long-lasting?</p>
 
 <h1>Money Did It</h1>
@@ -25,7 +25,7 @@ image:    "icon-escape-velocity-radical-style.svg"
  <div class="_quotation">
   <p>Graeber says what emerged after 800 BCE was a ‘military-coinage-slave complex&rsquo;, which forms the common basis for very different&hellip; city states across China, India, and ancient Greece.<sup id="bm03"><a href="#en03">3&nbsp;</a></sup></p>
  </div>
- <p>All of them, &ldquo;China, India, and ancient Greece,&rdquo; are remarkably long-lasting States.</p>
+ <p>All of them, <em>China, India, and ancient Greece,</em> are remarkably long-lasting States.</p>
 
 <h1>From Social Debt to Taxes</h1>
  <p>Before the arrival of coinage, debt was a social thing, based on reciprocity. Then coins arrived, quantified debt, which gave rise to taxes, and, finally, the State was born.</p>
@@ -33,17 +33,17 @@ image:    "icon-escape-velocity-radical-style.svg"
  <p>Tax, then, is a form of debt that can be paid with State coinage.</p>
 
 <h1>Ideology</h1>
- <p>Ideology makes this tax-paying habit, paying this imaginary debt, easier to live with. &ldquo;The defenders keep me alive,&rdquo; ideology says, &ldquo;they are good and necessary.&rdquo; Eventually, this gets codified as, &ldquo;our King keeps us alive.&rdquo;</p>
+ <p>Ideology makes this tax-paying habit, paying this imaginary debt, easier to live with. <span class="_quotespan">The defenders keep me alive,</em> ideology says, <span class="_quotespan">they are good and necessary.</em> Eventually, this gets codified as, <span class="_quotespan">our King keeps us alive.</em></p>
  <p>This is obviously a very rough sketch of how the system could have gotten <em>started</em>.</p>
  <p>What <em>has kept it going</em> is that this system has been supported by the very people exploited by it: the footsoldiers, the mothers who bear them, the families and communities that feed and nourish them. Ideology made this system possible.</p>
 
 <h1>Barbarians vs&hellip; ?</h1>
- <p>The ideology of the barbarians-as-defenders is simple: they get to live in abundance for minimal work. But, all this time there hasn&rsquo;t been a different ideology to unite the &ldquo;defended.&rdquo; Armed revolutions, unions, and the like are just variations of the <em>or-else</em>  ideology. &ldquo;Pry their privileges from their cold, dead fingers.&rdquo; This approach simply makes the barbarian system stronger.</p>
+ <p>The ideology of the barbarians-as-defenders is simple: they get to live in abundance for minimal work. But, all this time there hasn&rsquo;t been a different ideology to unite the <em>defended.</em> Armed revolutions, unions, and the like are just variations of the <em>or-else</em>  ideology. <span class="_quotespan">Pry their privileges from their cold, dead fingers.</span> This approach simply makes the barbarian system stronger.</p>
  <p>What has been missing from the various approaches is a simple and clear foundation, a simple and memorable language, and easy to use tools. This is why, I am guessing, a lot of <span class="_paradigm">RADICAL</span>-like groups have not lasted very long.</p>
  <p>The <span class="_paradigm">RADICAL</span> system is a more robust potential solution because it has those elements in place.</p>
 
 <h1><span class="_paradigm">FIAT</span> vs <span class="_paradigm">RADICAL</span></h1>
- <p>Instead of &ldquo;barbarian,&rdquo; we call the force-based system <span class="_paradigm">FIAT</span> and the alternative <span class="_paradigm">RADICAL</span>,</p>
+ <p>Instead of <em>barbarian,</em> we call the force-based system <span class="_paradigm">FIAT</span> and the alternative <span class="_paradigm">RADICAL</span>,</p>
  <div class="_center">
   <table class="_background">
    <tr>
@@ -110,7 +110,7 @@ image:    "icon-escape-velocity-radical-style.svg"
      <p style="text-align:right; width:9em; ">co-management</p>
     </th>
     <td>
-     <p>Self-management makes sense as it applies to individuals. But in the case of a company, there is no &ldquo;self&rdquo; which can manage itself. People who embody the company, <em>manage it collaboratively</em>.</p>
+     <p>Self-management makes sense as it applies to individuals. But in the case of a company, there is no <em>self</em> which can manage itself. People who embody the company, <em>manage it collaboratively</em>.</p>
     </td>
    </tr>
   </table>
@@ -128,7 +128,7 @@ image:    "icon-escape-velocity-radical-style.svg"
  <h2>Explicit Relatioships</h2>
   <p><em>Explicit Relatioshipss</em> help people come together and build trust from the start.</p>
   <p>Inspired by J Kim Wright&rsquo;s <em>Conscious Contracts<sup>®</sup></em> framework,<sup id="bm04"><a href="#en04">4&nbsp;</a></sup> an <em>Explicit Relationships</em> consists of four items that would-be co-owners discuss. Then, when they agree to come together as a community (see <a id="_aboutCommunity" href="#_appendix">Appendix</a>), they create an <em>Explicit Relationships</em> from their discussion notes.</p>
-  <p>There are still lots of things to work out (<em>e.g.</em>, how to scale it), but so far we&rsquo;ve gotten good feedback, including this: &ldquo;some organizations never build up trust among people, even after years of operation.&rdquo;</p>
+  <p>There are still lots of things to work out (<em>e.g.</em>, how to scale it), but so far we&rsquo;ve gotten good feedback, including this: <span class="_quotespan">some organizations never build up trust among people, even after years of operation.</span></p>
 
 <h1>Reaching Escape Velocity</h1>
  <p>Simple Foundation, Language, and Tools, I believe, is what we need for the <span class="_paradigm">RADICAL</span> model to build momentum and reach escape velocity.</p>
