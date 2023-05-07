@@ -58,7 +58,7 @@ image:    "icon-the-radical-foundation-revised.svg"
  <div class="_center">
   <table class="_h2table">
    <tr class="_background">
-    <th>RADs! App8</th>
+    <th>RADs! App</th>
     <td>This is the most general tool in that it can be used by any one community or an ensemble of communities. For more, see,
                                    <em>Get Rid of Ownership</em>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>,
      <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>,
@@ -68,7 +68,7 @@ image:    "icon-the-radical-foundation-revised.svg"
     </td>
    </tr>
    <tr class="_background">
-    <th>Explicit8 Alignment</th>
+    <th>Explicit Alignment</th>
     <td>This applies to a group of people collaborating on a common project (<em>e.g.</em>, what we call a company). However you choose to express them, these are the key components that you must consider,</td>
    </tr>
    <tr style="backgroud-color:white; " colspan="2">
@@ -83,13 +83,13 @@ image:    "icon-the-radical-foundation-revised.svg"
     </td>
    </tr>
    <tr class="_background">
-    <th>Trust8 Agreements</th>
+    <th>Trust Agreements</th>
     <td>Inspired by J Kim Wright&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building in a safe pace (psycholgically abd physically).</td>
    </tr>
   </table>
   <table class="_h2table">
    <tr>
-    <th>Future8 Tools</th>
+    <th>Future Tools</th>
     <td>There are going to be more tools in the future. For example, specialized and community-specific tools</td>
    </tr>
   </table>
