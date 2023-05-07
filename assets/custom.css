@@ -427,7 +427,7 @@ p {
   margin-bottom:6px;
   text-indent:1em;
 }
-div table._explicitalignment tr._background td p {
+div table._explicitalignment p {
   text-indent:0;
 }
 h1+p {
