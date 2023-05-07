@@ -67,7 +67,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    </tr>
   <!--
   </table>
-  AAA-<table class="_explicitalignment">
+AAA-<table class="_explicitalignment">
   -->
    <tr id="_background">
     <td></td>
@@ -87,9 +87,10 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
      <p>Just be transparent to yourself and others about what you are doing.</p>
     </td>
    </tr>
+  <!--
   </table>
-  
 BBB-<table class="_explicitalignment">
+  -->
    <tr id="_background">
     <td></td>
     <td>PRACTICES</td>
