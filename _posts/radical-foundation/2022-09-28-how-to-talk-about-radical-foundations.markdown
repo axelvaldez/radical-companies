@@ -86,7 +86,6 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
      <p>Just be transparent to yourself and others about what you are doing.</p>
     </td>
    </tr>
-   <tr>
   </table>
  BBB
   <table class="_explicitalignment">
