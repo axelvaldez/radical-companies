@@ -71,10 +71,8 @@ image:    "icon-the-radical-foundation-revised.svg"
     <th>Explicit Alignment</th>
     <td>This applies to a group of people collaborating on a common project (<em>e.g.</em>, what we call a company). However you choose to express them, these are the key components that you must consider,</td>
    </tr>
-  </table>
-  <table class="_h2table">
    <tr>
-    <td style="colspan:all; ">
+    <td style="colspan:all; backgroud-color:white; ">
      <div class="_center">
       <img
        src="/assets/img/en-alignment.svg"
