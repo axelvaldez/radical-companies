@@ -111,31 +111,32 @@ image:    "icon-the-radical-foundation-revised.svg"
    </tr>
   </table>
  </div>
-
  <h2>Tools</h2>
   <p>Keep in mind that most of these tools will likely be different for you,</p>
-  <table align="center">
-    <tr class="_h2table">
-    <th><span class="_paradigm">RAD</span>s!</th>
-    <td>
-     <span class="_paradigm">RAD</span> Distribution<br>
-    </td>
-   </tr>
-   <tr>
-    <th>Agreements</th>
-    <td>
-     Explicit Alignment
-     <br>
-     Explicit Relationships
-    </td>
-   </tr>
-    <tr class="_background">
-    <th>Future</th>
-    <td>
-     [Your space&hellip;]
-    </td>
-   </tr>
-  </table>
+   <div class="_center">
+    <table class="_h2table">
+     <tr>
+      <th><span class="_paradigm">RAD</span>s!</th>
+      <td>
+       <span class="_paradigm">RAD</span> Distribution<br>
+      </td>
+     </tr>
+     <tr>
+      <th>Agreements</th>
+      <td>
+       Explicit Alignment
+       <br>
+       Explicit Relationships
+      </td>
+     </tr>
+     <tr id="_background">
+      <th>Future</th>
+      <td>
+       [Your space&hellip;]
+      </td>
+     </tr>
+   </table>
+  </div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
