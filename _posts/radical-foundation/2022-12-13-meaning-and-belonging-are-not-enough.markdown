@@ -12,29 +12,22 @@ image:    "icon-meaning-and-belonging-are-not-enough.svg"
 
 <h1>&nbsp;</h1>
  <p>Here is the <span class="_paradigm">RADICAL</span> Foundation,</p>
- <table align="center">
-  <tr style="background-color:#EEEEEE; ">
-   <th>people</th>
-   <td class="_foundation">Meaning & Belonging</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>commitments</th>
-   <td class="_foundation">Decentralization & Transparency</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr style="background-color:#EEEEEE; ">
-   <th>practices</th>
-   <td class="_foundation">Experimentation</td>
-  </tr>
-  <tr>
-   <td class="_spacer_"></td>
-  </tr>
- </table>
+ <div class="_center">
+  <table class="_h2table">
+   <tr>
+    <th>people</th>
+    <td>Meaning & Belonging</td>
+   </tr>
+   <tr>
+    <th>commitments</th>
+    <td>Decentralization & Transparency</td>
+   </tr>
+   <tr>
+    <th>practices</th>
+    <td>Experimentation</td>
+   </tr>
+  </table>
+ </div>
  <p>And the comment was, <span class="_quotespan">Do you have to do everything at once? Why can&rsquo;t you start with Meaning and Belonging?</span></p>
  <p>The answer is that you don&rsquo;t have to do anythingk that you don&rsquo;t want to. You do have to work on all three legs of the foundation to be on the <span class="_paradigm">RADICAL</span> path.</p>
  <p>No matter, <em>Meaning & Belonging</em>, without <em>Transparency & Decentralization</em>, and <em>Experimentation</em>, is what paternalistic businesses are.</p>
