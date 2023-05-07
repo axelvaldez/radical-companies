@@ -57,7 +57,7 @@ image:    "icon-the-radical-foundation-revised.svg"
  <p>Toos are not technically a part of the <span class="_paradigm">RADICAL</span> foundation itself; you can be on the <span class="_paradigm">RADICAL</span> path and use diffferent tools. No matter, this is what we&rsquo;ve come up with, so far,</p>
  <div class="_center">
   <table class="_h2table">
-   <tr class="_background">
+   <tr id="_background">
     <th>RADs! App</th>
     <td>This is the most general tool in that it can be used by any one community or an ensemble of communities. For more, see,
                                    <em>Get Rid of Ownership</em>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
@@ -68,7 +68,7 @@ image:    "icon-the-radical-foundation-revised.svg"
     </td>
    </tr>
    <tr>
-    <th>BB Explicit Alignment</th>
+    <th>CC Explicit Alignment</th>
     <td>
      <div>
       This applies to a group of people collaborating on a common project (<em>e.g.</em>, what we call a company). However you choose to express them, these are the key components that you must consider,
@@ -82,12 +82,12 @@ image:    "icon-the-radical-foundation-revised.svg"
      </div>
     </td>
    </tr>
-   <tr class="_background">
+   <tr id="_background">
     <th>Trust Agreements</th>
     <td>Inspired by J Kim Wright&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building in a safe pace (psycholgically abd physically).</td>
    </tr>
    <tr>
-    <th>BB Future Tools</th>
+    <th>CC Future Tools</th>
     <td>There are going to be more tools in the future. For example, specialized and community-specific tools</td>
    </tr>
   </table>

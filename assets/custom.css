@@ -188,7 +188,7 @@ footer{
 */
 table._explicitalignment {
   width:80%;
-}
+}/*
 table._explicitalignment tr th {
   vertical-align:text-top;
   text-align:right;
@@ -198,6 +198,7 @@ table._explicitalignment tr th {
   font-family:monospace;
   font-variant:small-caps;
 }
+*/
 table._explicitalignment tr#_background {
  background-color:#EEEEEE;
 }
