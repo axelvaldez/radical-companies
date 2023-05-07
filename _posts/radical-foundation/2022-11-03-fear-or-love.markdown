@@ -40,7 +40,6 @@ image:    "icon-simple-fear-or-love.svg"
     <td style="text-align:right; border-right:1px black solid; ">Fear hurts not only you, but those around you as well.</td>
     <td>Love, on the other hand, uplifts you and those around you.</td>
    </tr>
-   <tr>
   </table>
  </div>
  <p>I prefer to be guided by love. The kind that leads with trust. The kind that tries to understand the feelings behind the words said.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
