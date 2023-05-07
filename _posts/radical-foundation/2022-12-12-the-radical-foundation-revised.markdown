@@ -76,8 +76,7 @@ image:    "icon-the-radical-foundation-revised.svg"
   </table>
   <table class="_h2table">
    <tr>
-    <th>test</th>
-    <td>
+    <td style="colspan:all; ">
      <div class="_center">
       <img
        src="/assets/img/en-alignment.svg"
