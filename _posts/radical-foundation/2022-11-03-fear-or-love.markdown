@@ -14,16 +14,16 @@ image:    "icon-simple-fear-or-love.svg"
  <p>It is simple: avoid risks or risk it. Run away or go for it. Lecture or learn. Fear or love.</p>
 
 <h1>Risk Life or Preserve It</h1>
- <p>Unicellular bacteria have this wired into them. &ldquo;Hmm&hellip; nourishment, go after it! Hmm&hellip; poison, run away from it!&rdquo;</p>
+ <p>Unicellular bacteria have this wired into them. <span class="_quotespan">Hmm&hellip; nourishment, go after it!</span> <span class="_quotespan">Hmm&hellip; poison, run away from it!</span> <span class="_quotespan"></p>
  <p>Risk or preserve life: the rule of all live creatures.</p>
 
 <h1>Frozen by Fear or Guided by Love?</h1>
- <p>We people show up in the tree of life with all shades of fear and a whole range of love: erotic, brotherly, impersonal, interpersonal, agape.<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></p>
+ <p>We people show up in the tree of life with all shades of fear and a whole range of love: erotic, brotherly, impersonal, interpersonal, agape.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <div class="_center">
   <img
    src="/assets/img/simple-fear-or-love.svg"
-   width="50%"
    alt="Types of love represented by a circle with a triangle in the middle of it. The triangle's sides are labeled mania, pragma, and agape. The outside of the circle, starting from 12 o'clock and moving clockwise, has the words LUDUS, STORGIC LUDUS, STORGE, STORGIC EROS, EROS, LUDIC EROS, and LUDUS."
+   width="50%"
   >
  </div>
  <table align="center">
@@ -49,11 +49,11 @@ image:    "icon-simple-fear-or-love.svg"
    <td class="_spacer"></td>
   </tr>
  </table>
- <p>I prefer to be guided by love. The kind that leads with trust. The kind that tries to understand the feelings behind the words said.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+ <p>I prefer to be guided by love. The kind that leads with trust. The kind that tries to understand the feelings behind the words said.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Being guided by love is good for my wellbeing, yours, and others around me.</p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     Love.
@@ -67,6 +67,6 @@ image:    "icon-simple-fear-or-love.svg"
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
