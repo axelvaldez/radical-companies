@@ -30,15 +30,15 @@ image:    "icon-simple-fear-or-love.svg"
   <table class="_h2table">>
    <tr>
     <td style="text-align:right; border-right:1px black solid; width:50%; ">Fear is a very strong, life-preserving feeling. Under the right circumstances, and speaking from experience, the sound of bullets can make you forget your loved ones and run for cover.</td>
-    <td>Love is also very strong, too, but fear is stronger.</td>
+    <th>Love is also very strong, too, but fear is stronger.</th>
    </tr>
    <tr>
     <td style="text-align:right; border-right:1px black solid; ">Fear hurts,</td>
-    <td>Love doesn’t. Well, love hurts, too, but not in a bad way.</td>
+    <th>Love doesn’t. Well, love hurts, too, but not in a bad way.</th>
    </tr>
    <tr>
     <td style="text-align:right; border-right:1px black solid; ">Fear hurts not only you, but those around you as well.</td>
-    <td>Love, on the other hand, uplifts you and those around you.</td>
+    <th>Love, on the other hand, uplifts you and those around you.</th>
    </tr>
   </table>
  </div>
