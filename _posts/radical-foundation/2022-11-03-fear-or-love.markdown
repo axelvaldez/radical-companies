@@ -18,7 +18,7 @@ image:    "icon-simple-fear-or-love.svg"
  <p>Risk or preserve life: the rule of all live creatures.</p>
 
 <h1>Frozen by Fear or Guided by Love?</h1>
- <p>We people show up in the tree of life with all shades of fear and a whole range of love: erotic, brotherly, impersonal, interpersonal, agape.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>We people show up in the tree of life with all shades of fear and a whole range of love.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <div class="_center">
   <table class="_h2table">
    <tr>
@@ -27,16 +27,15 @@ image:    "icon-simple-fear-or-love.svg"
    </tr>
    <tr>
     <th>Fear hurts.</th>
-    <td>Love doesn’t. Well, love hurts, too, but not in a bad way.</td>
+    <td>Love doesn’t.</td>
    </tr>
    <tr>
     <th>Fear hurts not only you, but those around you as well.</th>
-    <td>Love, on the other hand, uplifts you and those around you.</td>
+    <td>Love, on the other hand, uplifts me, you, and those around you.</td>
    </tr>
   </table>
  </div>
- <p>I prefer to be guided by love, not fear. I prefer the kind that leads with trust. I prefer the kind that tries to understand the feelings behind the words said.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
- <p>Being guided by love is good for my wellbeing, yours, and others around me.</p>
+ <p>I prefer to be guided by love, not fear. I prefer the kind that leads with trust, the kind that tries to understand the feelings behind the words said.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
