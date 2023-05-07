@@ -56,7 +56,7 @@ image:    "icon-a-radical-bid-for-the-future-of-business.svg"
  </div> 
 
 <h1>Contribution or Exploitation</h1>
- <p>I remember having an interaction with Zappos customer support and by the end of it, I was totally delighted with the interaction. I would have definitely given them <span class="_paradigm">RAD</span>s at that point. On the other hand, Facebook, which is more interested in exploiting me than helping me, would not see any <span class="_paradigm">RAD</span>s from me. Over time, companies would lean to Zappos-like behavior rather than Facebook-like behavior.</p>
+ <p>I remember having an interaction with Zappos customer support and by the end of it, I was totally delighted with the interaction. I would have definitely given them <span class="_paradigm">RAD</span>s at that point. On the other hand, Facebook, which is more interested in exploiting me than helping me, would not see any <span class="_paradigm">RAD</span>s from me. Over time, even <span class="_paradigm">FIAT</span> businesses would lean to Zappos-like behavior rather than Facebook-like behavior.</p>
  <p>Financing based on recognized contributions will create multi-dimensional wealth for the founders, the investors, and the platform.</p>
 
 {% include related.html %}
