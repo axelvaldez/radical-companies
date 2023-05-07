@@ -7,16 +7,16 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
 ---
 
 <div style="display:none;">
- <p>&ldquo;How can I talk about <span class="_paradigm">RADICAL</span> to people who don’t know anything about it.&ldquo; What are its Principles? Does <span class="_paradigm">RADICAL</span> have a structure?</p>
+ <p><span class="_quotespan">How can I talk about <span class="_paradigm">RADICAL</span> to people who don&rsquo;t know anything about it.</span> What are its Principles? Does <span class="_paradigm">RADICAL</span> have a structure?</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The question comes up often enough: how can I talk about <span class="_paradigm">RADICAL</span> to people who don&rsquo;t know anything about it? What are its Principles? Does <span class="_paradigm">RADICAL</span> have a structure?</p>
- <p>Note that &ldquo;principles&rdquo; and &ldquo;structure&rdquo; are a reflection of <span class="_paradigm">FIAT</span> concerns. So, these questions really are about centralization: &ldquo;Right, but who&rsquo;s the boss who set up these principles and structures?&rdquo;</p>
+ <p><span class="_quotespan">How can I talk about <span class="_paradigm">RADICAL</span> to people who don&rsquo;t know anything about it.</span> What are its Principles? Does <span class="_paradigm">RADICAL</span> have a structure? Questions comes up, <span class="_paradigm">how can I talk about <span class="_paradigm">RADICAL</span> to people who don&rsquo;t know anything about it?</span> <span class="_paradigm">What are its Principles?</span> <span class="_paradigm">Does <span class="_paradigm">RADICAL</span> have a structure?</span></p>
+ <p>Note that <em>principles</em> and <em>structure</em> are a reflection of <span class="_paradigm">FIAT</span> concerns, and these questions really are about centralization: <em>Right, but who&rsquo;s the boss who set up these principles and structures?</em></p>
  <p>Nevertheless, you can address these types of questions by talking about the <span class="_paradigm">RADICAL</span> tools you do have,</p>
  <ol style="margin-left:20px; ">
-  <li>The RADs!<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> mobile app</li>
-  <li>The Agreements<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></li>
+  <li>The RADs!<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> mobile app</li>
+  <li>The Agreements<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></li>
   <li>The <span class="_paradigm">RADICAL</span> Foundations</li>
  </ol>
  <p>You can read about the first two in previous posts. This post is about the <span class="_paradigm">RADICAL</span> Foundations.</p>
@@ -94,14 +94,14 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
   <tr style="background-color:#EEEEEE; ">
    <th>Experimentation</th>
    <td>
-    <p>Means never having to say you’re sorry. But you must tell what you’ve learned from the experiment. If you don’t, nobody, including you, can learn from it. Even saying, &ldquo;I don’t know why it went wrong&rdquo; means we learned something from it.</p>
-    <p>BTW, whether you do this out loud or written or what have you, it’s something that you all need to agree on from the outset.</p>
+    <p>Means never having to say you&rsquo;re sorry. But you must tell what you&rsquo;ve learned from the experiment. If you don&rsquo;t, nobody, including you, can learn from it. Even saying, <em>I don&rsquo;t know why it went wrong</em> means we learned something from it.</p>
+    <p>BTW, whether you do this out loud or written or what have you, it&rsquo;s something that you all need to agree on from the outset.</p>
    </td>
   </tr>
  </table>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     <<a href="https://radicalcompanies.com/2022/09/20/rtools-rads-app.html" target="_blank">https://radicalcompanies.com/2022/09/20/rtools-rads-app.html</a>>
@@ -114,6 +114,6 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
