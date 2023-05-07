@@ -56,18 +56,18 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <tr>
     <th>Meaning</th>
     <td>
-     <p>Can I find meaning in what we are doing together? Do I trust these people to help me find meaning in the work?</p>
+     <p>Can I find meaning in what we are doing together? Do I trust these people to help me find meaning in my work, in your life?</p>
     </td>
    </tr>
    <tr>
     <th>Belonging</th>
     <td>
-      <p>This is about people. Do you want to work with this group? Does it feel right to be part of this project? Do I agree with their explicit alignment?</p>
+      <p>Do you want to work with this group? Does it feel right to be part of this project?</p>
     </td>
    </tr>
   </table>
-  AAA
-  <table class="_explicitalignment">
+
+  AAA-<table class="_explicitalignment">
    <tr id="_background">
     <td></td>
     <td>COMMITTMENTS</td>
@@ -87,8 +87,8 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
     </td>
    </tr>
   </table>
- BBB
-  <table class="_explicitalignment">
+  
+BBB-<table class="_explicitalignment">
    <tr id="_background">
     <td></td>
     <td>PRACTICES</td>
@@ -96,8 +96,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <tr>
     <th>Experimentation</th>
     <td>
-     <p>Means never having to say you&rsquo;re sorry, but you must tell what you&rsquo;ve learned from the experience (<em>e.g.</em>, I expected X, but got Y). Saying, <em>I don&rsquo;t know why it went wrong</em> means we learned something from it.</p>
-     <p>BTW, whether you say this out loud or written it&rsquo;s something that you all need to agree to from the outset.</p>
+     <p>Means never having to say you&rsquo;re sorry, but you must tell what you&rsquo;ve learned from the experience (<em>e.g.</em>, I expected X, but got Y, because&hellip;). Even saying, <em>I don&rsquo;t know why it went wrong</em> means we have learned something from it.</p>
    </td>
   </tr>
  </table>
