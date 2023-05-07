@@ -26,7 +26,7 @@ image:    "icon-a-sample-radical-investment.svg"
  </table>
 
 <h1>I. THE PARTIES</h1>
- <p style="text-indent:2em; ">For the above value received by [company] a [STATE] Limited Liability Company with a mailing address of [ADDRESS] (the “Borrower”), agrees to pay (the “Lender”).</p>
+ <p style="text-indent:2em; ">For the amount specified in <em>Section RADICAL INVEStMENT</em> received [borrower company name] by a [STATE] Limited Liability Company with a mailing address of [ADDRESS] (the “Borrower”), agrees to pay [lender company name] (the “Lender”) the principal plus interest as specified below in <em>Section II. Payment</em>.</p>
 
 <h1>II. PAYMENT</h1>
  <p style="text-indent:2em; ">This agreement, (the “Note”), shall be due and payable, including the principal and any accrued interest, in one of the following ways:</p>
