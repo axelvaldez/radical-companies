@@ -575,3 +575,6 @@ table._h2table td {
   padding-left:1em;
   column-width:80%;
 }
+div table._explicitalignment tr._background td p {
+  text-indent:0;
+}
