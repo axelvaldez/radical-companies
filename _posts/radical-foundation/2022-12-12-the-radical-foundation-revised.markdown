@@ -45,7 +45,7 @@ image:    "icon-the-radical-foundation-revised.svg"
 <h1>Decentralization & Transparency</h1>
  <p>Decentralization and Transparency are somewhat redundant.</p>
  <p>At the completely decentralized end everything will be 100% transparent. Completely decentralized means complete transparency.</p>
- <p>On the way to full decentralization you may consider keeping some things secret. The person charged with keeping them would be the boss of those secrets. The questions, then, would be,<span class="_quotespan">Who is going to be the boss of these secrets?<span> No matter if this is a very nice person, or a small, trusted committee with a term limit: so long as there are secrets, there is a boss.</p>
+ <p>On the way to full decentralization you may consider keeping some things secret. The person charged with keeping them would be the boss of those secrets. The questions, then, would be,<span class="_quotespan">Who is going to be the boss of these secrets?</span> No matter if this is a very nice person, or a small, trusted committee with a term limit: so long as there are secrets, there is a boss.</p>
  <p>Even though these are redundant, I feel we need to make them both explicit. Sometimes we think we are decentralizing but when we look at the Transparency side we see incoherence. So,although decentralization implies transparency, we need both to keep us honest.</p>
 
 <h1>Explicit Alignment & Experimentation</h1>
