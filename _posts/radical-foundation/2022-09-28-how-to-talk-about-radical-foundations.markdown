@@ -65,9 +65,10 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
       <p>Do you want to work with this group? Does it feel right to be part of this project?</p>
     </td>
    </tr>
+  <!--
   </table>
-
   AAA-<table class="_explicitalignment">
+  -->
    <tr id="_background">
     <td></td>
     <td>COMMITTMENTS</td>
