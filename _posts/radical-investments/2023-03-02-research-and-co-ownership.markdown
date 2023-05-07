@@ -36,7 +36,7 @@ image:    "icon-research-and-co-ownership.svg"
     <em>RADICAL investments.</em>
     PRADERA MEDIA.
     2022.
-    &lt;<a href="https://radicalcompanies.con/2022/10/18/radical-investments" target="_blank">https://radicalcompanies.con/2022/10/18/radical-investments</a>&gt;
+    &lt;<a href="https://radicalcompanies.com/2022/10/18/radical-investments" target="_blank">https://radicalcompanies.com/2022/10/18/radical-investments</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
