@@ -37,8 +37,6 @@ image:    "icon-the-radical-foundation-revised.svg"
   </tr>
  </table>
  <p>At pivotal points, having a Foundation helps you get oriented along the path you have chosen. <span class="_quotespan">Will this action help us to develop and grow as people?</span> <span class="_quotespan">Will this decision make us more centralized or more decentralized?</span> <span class="_quotespan">Are we being too rigid or are we still learning from experimentation?</span></p>
- <p>---</p>
- <p>The remainder of this post is about a slightly revised <span class="_paradigm">RADICAL</span> foundation.</p>
 
 <h1>Meaning and Belonging</h1>
  <p>Meaning and Belonging cannot be separated. <em>Belonging</em> is key to <em>Meaning</em> to the individual, but it is something we get primarily from others in the community we that we are part of. If I make a spear to fish, it becomes significant to myself next time I am hungry and I eat the fish that I caught with my spear. But when I see <em>somebody else</em> make a spear like mine to fish, that is when my spear, my expression, becomes a contribution!</p>
