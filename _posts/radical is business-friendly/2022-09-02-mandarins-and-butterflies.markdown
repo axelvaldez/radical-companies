@@ -23,7 +23,7 @@ image:    "icon-mandarins-and-butterflies.svg"
  <p>I am starting to realize that I am bringing myself down with a mindset of reward and punishment. I have also realized that I haven&rsquo;t had a quality life and I&rsquo;ve been afraid to even think about it because of <em>money.</em> But coming to this realization has made me stronger. I am more sure of myself and the little voice in my head can&rsquo;t derail me because I now understand that money is a means, not an end.</p>
  <p>I went to the supermarket two days ago and guess what: I bought mandarins, even though they weren&rsquo;t on sale!</p>
  <p>I am making small changes, one step at a time and I feel I am on my way to live my own life. It is a bit ironic that it was this easy to do, that it was so difficult to realize how toxic conventional <span style="font-style:normal; ">[<span class="_paradigm">FIAT</span>]</span> organizations are. Most of all, I was surprised that I could not see how it was affecting me.</p>
- <p>Now my <em>larva</em> is on its way to become a butterfuly.</p>
+ <p>Now my <em>larva</em> is on its way to become a butterfuly :)</p>
 </div>
 
 {% include related.html %}
