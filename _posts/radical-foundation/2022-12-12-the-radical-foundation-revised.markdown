@@ -72,7 +72,6 @@ image:    "icon-the-radical-foundation-revised.svg"
     <td>This applies to a group of people collaborating on a common project (<em>e.g.</em>, what we call a company). However you choose to express them, these are the key components that you must consider,</td>
    </tr>
    <tr style="backgroud-color:white; " colspan="2">
-    <th></th>
     <td>
      <div class="_center">
       <img
