@@ -79,8 +79,8 @@ image:    "icon-the-radical-foundation-revised.svg"
         width="70%"
        >
       </div>
-     </td>
-    </div>
+     </div>
+    </td>
    </tr>
    <tr class="_background">
     <th>Trust Agreements</th>
