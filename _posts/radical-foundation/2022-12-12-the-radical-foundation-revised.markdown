@@ -76,7 +76,6 @@ image:    "icon-the-radical-foundation-revised.svg"
        <img
         src="/assets/img/en-alignment.svg"
         alt=""
-        width="70%"
        >
       </div>
      </div>
