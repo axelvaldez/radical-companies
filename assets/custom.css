@@ -198,21 +198,21 @@ table._explicitalignment tr th {
   font-family:monospace;
   font-variant:small-caps;
 }
-table._explicitalignment tr td {
-  vertical-align:text-top;
-  text-align:left;
-  padding-left:0;
-}
 table._explicitalignment tr#_background {
  background-color:#EEEEEE;
 }
 table._explicitalignment th {
- vertical-align:text-top;
- text-align:left;
- font-weight:bold;
- font-size:larger;
- font-family:'Times New Roman', Times, serif;
- width:85%;
+  vertical-align:text-top;
+  text-align:right;
+  font-weight:bold;
+  font-family:'Times New Roman', Times, serif;
+  width:85%;
+}
+table._explicitalignment td {
+  vertical-align:text-top;
+  text-align:left;
+  padding-left:0;
+  width:15%;
 }
 
 /*
