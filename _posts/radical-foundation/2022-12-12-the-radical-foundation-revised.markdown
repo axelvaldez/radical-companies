@@ -86,8 +86,6 @@ image:    "icon-the-radical-foundation-revised.svg"
     <th>Trust Agreements</th>
     <td>Inspired by J Kim Wright&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building in a safe pace (psycholgically abd physically).</td>
    </tr>
-  </table>
-  <table class="_h2table">
    <tr>
     <th>Future Tools</th>
     <td>There are going to be more tools in the future. For example, specialized and community-specific tools</td>
