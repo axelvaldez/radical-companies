@@ -55,8 +55,9 @@ image:    "icon-the-radical-foundation-revised.svg"
 
 <h1>Tools</h1>
  <p>Toos are not technically a part of the <span class="_paradigm">RADICAL</span> foundation itself; you can be on the <span class="_paradigm">RADICAL</span> path and use diffferent tools. No matter, this is what we&rsquo;ve come up with, so far,</p>
+ <div class="_center">
  <table align="center">
-  <tr style="background-color:#EEEEEE; ">
+  <tr class="_background">
    <th><em><span class="_paradigm">RAD</span>s!</em></th>
    <td>This is the most general tool in that it can be used by any one community or an ensemble of communities. For more, see,
                                   <em>Get Rid of Ownership</em>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>,
@@ -73,7 +74,8 @@ image:    "icon-the-radical-foundation-revised.svg"
      <img
       src="/assets/img/en-alignment.svg"
       width="70%"
-      alt="">
+      alt=""
+     >
     </div>
    </td>
   </tr>
