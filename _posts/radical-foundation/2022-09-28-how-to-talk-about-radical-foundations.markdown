@@ -65,6 +65,9 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
       <p>This is about people. Do you want to work with this group? Does it feel right to be part of this project? Do I agree with their explicit alignment?</p>
     </td>
    </tr>
+  </table>
+  AAA
+  <table class="_explicitalignment">
    <tr id="_background">
     <td></td>
     <td>COMMITTMENTS</td>
@@ -84,6 +87,9 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
     </td>
    </tr>
    <tr>
+  </table>
+ BBB
+  <table class="_explicitalignment">
    <tr id="_background">
     <td></td>
     <td>PRACTICES</td>
