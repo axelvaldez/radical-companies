@@ -43,6 +43,10 @@ image:    "icon-ptsd-and-trust.svg"
  <span class='_paradigm'>Transparency</span>
  <span class='_paradigm'>Experimentation</span>
 
+<!-- QUOTESPAN -->
+<h1></h1>
+ <span class="_quotespan">xxx</span>
+
 <!-- proto-image -->
  <div class="_center">
   <img
