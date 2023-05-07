@@ -116,7 +116,7 @@ image:    "icon-the-radical-foundation-revised.svg"
    <div class="_center">
     <table class="_h2table">
      <tr>
-      <th><span class="_paradigm">RAD</span>s!</th>
+      <th><em>RADs! App</em></th>
       <td>
        <span class="_paradigm">RAD</span> Distribution<br>
       </td>
