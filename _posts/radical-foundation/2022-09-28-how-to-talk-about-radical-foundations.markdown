@@ -25,29 +25,25 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  <p>Our deepest problems are the inescapable side-effects of the system we live in: our collapsing climate, the expanding wealth, and wellbeing, gap, discrimation against people of color, the exploitation of women. Instead, we need a generative way of relating to one another, a different paradigm. As we see it, businesses are the place to start. Businesses-as-dictatorship are the root of the problem, so they must be the incubators for what comes next.</p>
  <p>In the <span class="_paradigm">RADICAL</span> model, a <em>company</em> is simply a group of people who come together to build something bigger than themselves. The word "company" comes from the Latin prefix con-, meaning together, and pan, meaning bread. A company then is a group of people who work and socialize together.</p>
  <p>Every company is different because the people who embody it are different. What fundamentally makes a <span class="_paradigm">RADICAL</span> company different from a <span class="_paradigm">FIAT</span> business is that it starts from this simple Foundation.</p>
- <table style="margin-left:0.5in; ">
-  <tr>
-   <th valign="middle" style="text-align:right; font-weight:bold; ">PRINCIPLES</th>
-   <td style="text-align:center; background-color:#EEEEEE; width:3in; ">Meaning & Belonging</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th valign="middle" style="text-align:right; font-weight:bold; ">COMMITMENTS</th>
-   <td style="text-align:center; background-color:#EEEEEE; width:3in; ">Transparency & Decentralization</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th valign="middle" style="text-align:right; font-weight:bold; ">PRACTICES</th>
-   <td style="text-align:center; background-color:#EEEEEE; width:3in; ">Experimentation</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
- </table>
+ <div class="_center">
+  <table class="_foundation">
+   <tr>
+    <th>people</th>
+    <td>Meaning & Belonging</td>
+   </tr>
+   <tr>
+    <th>commitments</th>
+    <td>Decentralization & Transparency</td>
+   </tr>
+   <tr>
+    <th>practices</th>
+    <td>Experimentation</td>
+   </tr>
+   <tr>
+    <td class="_spacer_"></td>
+   </tr>
+  </table>
+ </div>
 
 <h1>Description</h1>
  <div class="_center">
