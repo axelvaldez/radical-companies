@@ -11,7 +11,7 @@ image:    "icon-a-sample-radical-investment.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Pay particular attention to IV. The rest of it is benevolent <span class="_paradigm">FIAT</span> boilerplate.</p>
+ <p>Pay particular attention to Section IV. The rest of it is <span class="_paradigm">FIAT</span> boilerplate.</p>
 
 <h1 class="_sectionn">RADICAL INVESTMENT</h1>
  <table>
