@@ -509,6 +509,7 @@ div table._foundation {
 }
 ._foundation td {
   font-size:small;
+  width:80%;
 }
 ._p {
   font-size:smaller;
@@ -574,9 +575,6 @@ table._h2table th {
   padding-right:1em;
   font-weight:bold;
   column-width:20%;
-  /*
-  font-size:smaller;
-  */
 }
 table._h2table td {
   vertical-align:text-top;
