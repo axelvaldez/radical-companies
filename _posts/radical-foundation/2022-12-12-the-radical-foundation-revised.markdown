@@ -67,7 +67,7 @@ image:    "icon-the-radical-foundation-revised.svg"
          and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a>
     </td>
    </tr>
-   <tr>
+   <tr class="_background">
     <th>Explicit8 Alignment</th>
     <td>This applies to a group of people collaborating on a common project (<em>e.g.</em>, what we call a company). However you choose to express them, these are the key components that you must consider,</td>
    </tr>
