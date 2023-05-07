@@ -32,10 +32,10 @@ image:    "icon-meaning-and-belonging-are-not-enough.svg"
  <p>The answer is that you don&rsquo;t have to do anythingk that you don&rsquo;t want to. You do have to work on all three legs of the foundation to be on the <span class="_paradigm">RADICAL</span> path.</p>
  <p>No matter, <em>Meaning & Belonging</em>, without <em>Transparency & Decentralization</em>, and <em>Experimentation</em>, is what paternalistic businesses are.</p>
 
-<h1>Time to Run</h1>
+<h1>Time to Run</h1>x
  <p><span class="_quotespan">We are a family!</span> translates to <span class="_quotespan">Time to get out of here!</span></p>
  <p><em>Meaning & Belonging</em>, without <em>Transparency & Decentralization</em>, and <em>Experimentation</em>, is what paternalistic businesses are all about. You feel comfortable, with friends. They send you flowers when you are sick. They even bring you soup when you are under the wheather. But in the end, you are working for a <span class="_paradigm">FIAT</span> business whose sole purpose is to grow the owner&rsquo;s wealth. And if it means havgin to fire you, they will regret doing so, but they will.</p>
- <p>The <span class="_paradigm">RADICAL</span> foundation is three-legged people, commitments, and practics. Paternalistic businesses are very good at the <em>people</em> piece, but money-making is always first priority. On the other hand, power is very centralized on the owners. Transparency takes a hit, too, for the sake of protecting <em>their</em> people, <span class="_quotespan">Why bother my people with all the details, all they need to know is&hellip; , they just need to know what I tell them</span>. Like I said, they are very paternalisctic.</p>
+ <p>The <span class="_paradigm">RADICAL</span> foundation is three-legged people, commitments, and practics. Paternalistic businesses are very good at the <em>people</em> piece, but money-making is always first priority. Power is not Decentralized, it is in the hands of the owners. Transparency takes a hit, too, <span class="_quotespan">Why bother my people with that much detail, they just need to know what I tell them</span>. Like I said, they are very paternalisctic.</p>
  <p>In a paternalistic businesses there is no room for experiementation. You simply have to do what the owner says. And don&rsquo;t deviate from what he said to do or you will get a scolding. <span class="_quotespan">We are here to work, not play games.</span></p>
  
 <h1>The <span class="_paradigm">RADICAL</span> Path</h1>
