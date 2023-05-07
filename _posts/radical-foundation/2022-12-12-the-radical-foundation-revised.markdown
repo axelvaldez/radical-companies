@@ -58,7 +58,7 @@ image:    "icon-the-radical-foundation-revised.svg"
  <div class="_center">
   <table class="_h2table">
    <tr class="_background">
-    <th><em><span class="_paradigm">RAD</span>s!</em></th>
+    <th>RADs! App</th>
     <td>This is the most general tool in that it can be used by any one community or an ensemble of communities. For more, see,
                                    <em>Get Rid of Ownership</em>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>,
      <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>,
