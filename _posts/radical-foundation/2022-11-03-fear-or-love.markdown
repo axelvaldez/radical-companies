@@ -20,13 +20,6 @@ image:    "icon-simple-fear-or-love.svg"
 <h1>Frozen by Fear or Guided by Love?</h1>
  <p>We people show up in the tree of life with all shades of fear and a whole range of love: erotic, brotherly, impersonal, interpersonal, agape.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <div class="_center">
-  <img
-   src="/assets/img/simple-fear-or-love.svg"
-   alt="Types of love represented by a circle with a triangle in the middle of it. The triangle's sides are labeled mania, pragma, and agape. The outside of the circle, starting from 12 o'clock and moving clockwise, has the words LUDUS, STORGIC LUDUS, STORGE, STORGIC EROS, EROS, LUDIC EROS, and LUDUS."
-   width="50%"
-  >
- </div>
- <div class="_center">
   <table class="_h2table">
    <tr>
     <th style="width:50%; ">Fear is a very strong, life-preserving feeling. Under the right circumstances, and speaking from experience, the sound of bullets can make you forget your loved ones and run for cover.</th>
@@ -42,7 +35,7 @@ image:    "icon-simple-fear-or-love.svg"
    </tr>
   </table>
  </div>
- <p>I prefer to be guided by love. The kind that leads with trust. The kind that tries to understand the feelings behind the words said.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>I prefer to be guided by love, not fear. I prefer the kind that leads with trust. I prefer the kind that tries to understand the feelings behind the words said.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Being guided by love is good for my wellbeing, yours, and others around me.</p>
 
 <h1 class="_section">ENDNOTES</h1>
