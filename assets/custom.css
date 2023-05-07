@@ -206,7 +206,7 @@ table._explicitalignment tr td {
 table._explicitalignment tr#_background {
  background-color:#EEEEEE;
 }
-table._explicitalignment tr {
+table._explicitalignment th {
  vertical-align:text-top;
  text-align:left;
  font-weight:bold;
