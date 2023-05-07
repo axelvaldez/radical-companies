@@ -558,12 +558,12 @@ table._h2table th {
   text-align:right;
   padding-right:1em;
   font-weight:bold;
-  column-width:1in;
+  column-width:20px;
 }
 table._h2table td {
   vertical-align:text-top;
   text-align:left;
   border-left:black 1px solid;
   padding-left:1em;
-  column-width:5in;
+  column-width:80px;
 }
