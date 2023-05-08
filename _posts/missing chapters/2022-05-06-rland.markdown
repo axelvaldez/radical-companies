@@ -10,7 +10,7 @@ image:    "icon-rland.svg"
  <p>In a <span class='_paradigm'>RADICAL</span> world, would you <b>own</b> land?</p>
 </div>
 
-<div class="_citation"
+<div class="_citation">
  <p>&ldquo;&hellip; I am in favor of cutting up the wild lands into parcels, <em>so that every poor man may have a home</em>.&rdquo;</p>
  <p id="_signature">Abraham Lincoln<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 </div>
