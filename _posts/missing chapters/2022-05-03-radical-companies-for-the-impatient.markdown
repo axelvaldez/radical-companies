@@ -95,7 +95,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     <li  style="text-indent:0;">When money, or time, or whatever else is disbursed later, it is done as a function of the number of <span class="_paradigm">RAD</span>s each person owns. For example, if you have accumulated 200 <span class="_paradigm">RAD</span>s and I have 100, then you&rsquo;ll get twice as much as me of whatever is being factored through the <span class="_paradigm">RAD</span>s.</li>
    </ul>
   </p>
-  <p>Allocations work like this,
+  <p>Allocations work like this,</p>
    <ul>
     <li  style="text-indent:0;">Co-owners get to recognize contributions by pressing a button in the RADs! app. They can press this &ldquo;recognition&rdquo; button as many times as they <em>feel</em> like.</li>
     <li  style="text-indent:0;">Co-owners get one <span class="_paradigm">RAD</span> per day.</li>
