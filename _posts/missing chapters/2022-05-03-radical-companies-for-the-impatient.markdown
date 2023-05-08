@@ -45,16 +45,16 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   </pre>
   <ul>
    <li>
-    <p style="margin: 0 auto 6px auto; ">Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.</p>
+    <p style="margin-bottom:6px; margin-left;0;">Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.</p>
    </li>
    <li>
-    <p style="margin: 0 auto 6px auto; ">Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, &ldquo;&hellip; a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.&rdquo;<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></p>
+    <p style="margin-bottom:6px; margin-left;0;">Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, &ldquo;&hellip; a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.&rdquo;<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></p>
    </li>
    <li>
-    <p style="margin: 0 auto 6px auto; ">Purpose is the reason why we, as a company, are focused on this particular Impact. It doesn&rsquo;t have to be world shaking and it doesn&rsquo;t have to strum your heart&rsquo;s strings. An effective Purpose must clearly express <em>why</em> it is important for others to join us in this adventure.</p>
+    <p style="margin-bottom:6px; margin-left;0;">Purpose is the reason why we, as a company, are focused on this particular Impact. It doesn&rsquo;t have to be world shaking and it doesn&rsquo;t have to strum your heart&rsquo;s strings. An effective Purpose must clearly express <em>why</em> it is important for others to join us in this adventure.</p>
    </li>
    <li>
-    <p style="margin: 0 auto 6px auto; ">The Mission defines <em>what</em> we are going to do to move towards the Impact, <em>how</em> we are going to do it, and by <em>when</em>. This is a live, dynamic conversation where everybody who wants to can participate. It is not "suggestions" sent by email to somebody else who is going to select by popularity or any such. And, yes, it scales: there are many ways to do it with 50, 1,00, or 10,000 people.</p>
+    <p style="margin-bottom:6px; margin-left;0;">The Mission defines <em>what</em> we are going to do to move towards the Impact, <em>how</em> we are going to do it, and by <em>when</em>. This is a live, dynamic conversation where everybody who wants to can participate. It is not "suggestions" sent by email to somebody else who is going to select by popularity or any such. And, yes, it scales: there are many ways to do it with 50, 1,00, or 10,000 people.</p>
    </li>
  </ul>
  <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to <em>everybody</em> in the team.</p>
@@ -66,16 +66,16 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   <p style="margin-bottom:10px; ">Rosedale Distribution<a href="#en06"><sup id="bm06">6&nbsp;</sup></a> is our name for a practice that we first heard from entrepreneur Philip Rosedale,</p>
   <ul>
    <li>
-    <p style="margin: 0 auto 6px auto; ">As the company grows, cash and shares are put out for distribution every month.</p>
+    <p style="margin-bottom:6px; margin-left;0;">As the company grows, cash and shares are put out for distribution every month.</p>
    </li>
    <li>
-    <p style="margin: 0 auto 6px auto; ">Every member gets an equal portion of the wealth the company generated. But they don&rsquo;t get to keep these goodies for themselves: they have to distribute them to other members.</p>
+    <p style="margin-bottom:6px; margin-left;0;">Every member gets an equal portion of the wealth the company generated. But they don&rsquo;t get to keep these goodies for themselves: they have to distribute them to other members.</p>
    </li>
    <li>
-    <p style="margin: 0 auto 6px auto; ">They give it to anybody they feel has contributed the most during the month. Each person knows best who has meaningfully contributed.</p>
+    <p style="margin-bottom:6px; margin-left;0;">They give it to anybody they feel has contributed the most during the month. Each person knows best who has meaningfully contributed.</p>
    </li>
    <li>
-    <p style="margin: 0 auto 6px auto; ">Each person decides how much to give to whom based on whatever criteria &ldquo;feels right&rdquo; to them.</p>
+    <p style="margin-bottom:6px; margin-left;0;">Each person decides how much to give to whom based on whatever criteria &ldquo;feels right&rdquo; to them.</p>
    </li>
   </ul>
 
@@ -86,47 +86,47 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   <p>A few important observations about <span class="_paradigm">RAD</span>,
    <ul>
     <li>
-     <p style="margin: 0 auto 6px auto; "><span class="_paradigm">RAD</span>s are not a currency.</p>
+     <p style="margin-bottom:6px; margin-left;0;"><span class="_paradigm">RAD</span>s are not a currency.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; "><span class="_paradigm">RAD</span>s are issued even before there is revenue because contributions happen regardless of revenue.</p>
+     <p style="margin-bottom:6px; margin-left;0;"><span class="_paradigm">RAD</span>s are issued even before there is revenue because contributions happen regardless of revenue.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every <span class="_paradigm">DISTRIBUTION RESTROSPECTIVE</span> new criteria are fleshed out and harvested to use as guidelines.</p>
+     <p style="margin-bottom:6px; margin-left;0;">The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every <span class="_paradigm">DISTRIBUTION RESTROSPECTIVE</span> new criteria are fleshed out and harvested to use as guidelines.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; "><span class="_paradigm">RAD</span>s represent <em>dynamic</em> ownership. One month you may give me all your <span class="_paradigm">RAD</span>s, but the next month you may not give me any.</p>
+     <p style="margin-bottom:6px; margin-left;0;"><span class="_paradigm">RAD</span>s represent <em>dynamic</em> ownership. One month you may give me all your <span class="_paradigm">RAD</span>s, but the next month you may not give me any.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">To calculate your percentage ownership, divide the number of <span class="_paradigm">RAD</span>s you have been given by the total number of <span class="_paradigm">RAD</span>s.</p>
+     <p style="margin-bottom:6px; margin-left;0;">To calculate your percentage ownership, divide the number of <span class="_paradigm">RAD</span>s you have been given by the total number of <span class="_paradigm">RAD</span>s.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">The absolute number of <span class="_paradigm">RAD</span>s allocated to me either stays the same or goes up at every <span class="_paradigm">DISTRIBUTION</span>, but it never goes down. For example, if I had 100 <span class="_paradigm">RAD</span>s last cycle and I get 50 this cycle, my total number of <span class="_paradigm">RAD</span>s goes to 150. If I don&rsquo;t get any this cycle, my total number of <span class="_paradigm">RAD</span>s stays at 100.</p>
+     <p style="margin-bottom:6px; margin-left;0;">The absolute number of <span class="_paradigm">RAD</span>s allocated to me either stays the same or goes up at every <span class="_paradigm">DISTRIBUTION</span>, but it never goes down. For example, if I had 100 <span class="_paradigm">RAD</span>s last cycle and I get 50 this cycle, my total number of <span class="_paradigm">RAD</span>s goes to 150. If I don&rsquo;t get any this cycle, my total number of <span class="_paradigm">RAD</span>s stays at 100.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">On the other hand, my <em>percentage</em> of the total could go up, stay the same, or go down at every <span class="_paradigm">DISTRIBUTION</span>. For example, if I get 100 <span class="_paradigm">RAD</span>s from a total of 1,000, then I have 10% of the total. If I get 50 <span class="_paradigm">RAD</span>s this cycle, I have 150 <span class="_paradigm">RAD</span>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</span>s, my percentage stays at 10%. In the worst case, if I don&rsquo;t get any new <span class="_paradigm">RAD</span>s, my percentage goes down to 8%.</p>
+     <p style="margin-bottom:6px; margin-left;0;">On the other hand, my <em>percentage</em> of the total could go up, stay the same, or go down at every <span class="_paradigm">DISTRIBUTION</span>. For example, if I get 100 <span class="_paradigm">RAD</span>s from a total of 1,000, then I have 10% of the total. If I get 50 <span class="_paradigm">RAD</span>s this cycle, I have 150 <span class="_paradigm">RAD</span>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</span>s, my percentage stays at 10%. In the worst case, if I don&rsquo;t get any new <span class="_paradigm">RAD</span>s, my percentage goes down to 8%.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">When money, or time, or whatever else is disbursed later, it is done as a function of the number of <span class="_paradigm">RAD</span>s each person owns. For example, if you have accumulated 200 <span class="_paradigm">RAD</span>s and I have 100, then you&rsquo;ll get twice as much as me of whatever is being factored through the <span class="_paradigm">RAD</span>s.</p>
+     <p style="margin-bottom:6px; margin-left;0;">When money, or time, or whatever else is disbursed later, it is done as a function of the number of <span class="_paradigm">RAD</span>s each person owns. For example, if you have accumulated 200 <span class="_paradigm">RAD</span>s and I have 100, then you&rsquo;ll get twice as much as me of whatever is being factored through the <span class="_paradigm">RAD</span>s.</p>
     </li>
    </ul>
   </p>
   <p>Allocations work like this,
    <ul>
     <li>
-     <p style="margin: 0 auto 6px auto; ">Co-owners get to recognize contributions by pressing a button in the RADs! app. They can press this &ldquo;recognition&rdquo; button as many times as they <em>feel</em> like.</p>
+     <p style="margin-bottom:6px; margin-left;0;">Co-owners get to recognize contributions by pressing a button in the RADs! app. They can press this &ldquo;recognition&rdquo; button as many times as they <em>feel</em> like.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">Co-owners get one <span class="_paradigm">RAD</span> per day.</p>
+     <p style="margin-bottom:6px; margin-left;0;">Co-owners get one <span class="_paradigm">RAD</span> per day.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">At the end of the cycle, the number of recognitions you have given are divided by the total number of recognitions given by everybody during the cycle. By multiplying this percentage by the total number of RADs accumulated during the cycle, we get the number of RADs each persson gets.</p>
+     <p style="margin-bottom:6px; margin-left;0;">At the end of the cycle, the number of recognitions you have given are divided by the total number of recognitions given by everybody during the cycle. By multiplying this percentage by the total number of RADs accumulated during the cycle, we get the number of RADs each persson gets.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">Each member gets to recognize contributions as they see fit. For example, you may end up giving 50% of your <span class="_paradigm">RAD</span>s to Adrian, 33% to Jose, and 1.7% to me. This would allocate, roughtly, 15 <span class="_paradigm">RAD</span>s to Adrian, 10 to Jose, and 5 to me.</p>
+     <p style="margin-bottom:6px; margin-left;0;">Each member gets to recognize contributions as they see fit. For example, you may end up giving 50% of your <span class="_paradigm">RAD</span>s to Adrian, 33% to Jose, and 1.7% to me. This would allocate, roughtly, 15 <span class="_paradigm">RAD</span>s to Adrian, 10 to Jose, and 5 to me.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">You may have <span class="_paradigm">DISTRIBUTION</span> events once a month, where everybody celebrates and give feedback.</p>
+     <p style="margin-bottom:6px; margin-left;0;">You may have <span class="_paradigm">DISTRIBUTION</span> events once a month, where everybody celebrates and give feedback.</p>
     </li>
    </ul>
   </p>
@@ -185,7 +185,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
        <p>Teams</p>
       </th>
       <td>
-       <p style="margin-bottom:6px; ">Teams can be represented by a <span class="_paradigm">BANNER</span>s. &ldquo;re: Recognize our IT support team for how they handled the storm.&rdquo; </p>
+       <p style="margin-bottom:6px; margin-left;0;">Teams can be represented by a <span class="_paradigm">BANNER</span>s. &ldquo;re: Recognize our IT support team for how they handled the storm.&rdquo; </p>
       </td>
      </tr>
      <tr style="vertical-align: top; ">
@@ -193,14 +193,14 @@ image:    "icon-radical-companies-for-the-impatient.svg"
        <p>Special Accomplishment</p>
       </th>
       <td>
-       <p style="margin-bottom:6px; ">&ldquo;Margot deserves to be recognized for stewarding the creation of our training platform.&rdquo; This may be in addition to other contributions that Margot has made. Maybe her role in &ldquo;stewarding the creation of our training platform&rdquo; was not as visible, but her teammates feel she deserves a wider recognition.</p>
+       <p style="margin-bottom:6px; margin-left;0;">&ldquo;Margot deserves to be recognized for stewarding the creation of our training platform.&rdquo; This may be in addition to other contributions that Margot has made. Maybe her role in &ldquo;stewarding the creation of our training platform&rdquo; was not as visible, but her teammates feel she deserves a wider recognition.</p>
       </td>
      </tr>
      <tr>
       <th>
        <p>Community</p></th>
       <td>
-       <p style="margin-bottom:6px; ">For example, a &ldquo;No Noise&rdquo; <span class="_paradigm">BANNER</span> could fund a sound barrier around a noisy factory. A &ldquo;River Walk&rdquo; <span class="_paradigm">BANNER</span> could fund a clean up and beautification of a stream that runs nearby. A <span class="_paradigm">BANNER</span> could even fund a local vet hospital to help it recover from a fire.</p>
+       <p style="margin-bottom:6px; margin-left;0;">For example, a &ldquo;No Noise&rdquo; <span class="_paradigm">BANNER</span> could fund a sound barrier around a noisy factory. A &ldquo;River Walk&rdquo; <span class="_paradigm">BANNER</span> could fund a clean up and beautification of a stream that runs nearby. A <span class="_paradigm">BANNER</span> could even fund a local vet hospital to help it recover from a fire.</p>
       </td>
      </tr>
      <tr>
@@ -209,7 +209,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
       </th>
       <td>
        <p style="margin-bottom:3px; ">At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects (<em>e.g.</em>Google News came out of it). That was a generous gift from the <span class="_paradigm">FIAT</span> owners, but the same owners later took it away.</p>
-       <p style="margin-bottom:6px; ">For a <span class="_paradigm">RADICAL</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">BANNER</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">BANNER</span>s could fund that specific project.</p>
+       <p style="margin-bottom:6px; margin-left;0;">For a <span class="_paradigm">RADICAL</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">BANNER</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">BANNER</span>s could fund that specific project.</p>
       </td>
      </tr>
      <tr>
@@ -218,7 +218,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
       </th>
       <td>
        <p style="margin-bottom:3px; ">In <span class="_paradigm">FIAT</span> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has to do with ego and fear, like a pharaoh&rsquo;s pyramid.</p>
-       <p style="margin-bottom:6px; ">In a <span class="_paradigm">RADICAL</span> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">BANNER</span>s for co-owners to contribute to the funding of it or not.</p>
+       <p style="margin-bottom:6px; margin-left;0;">In a <span class="_paradigm">RADICAL</span> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">BANNER</span>s for co-owners to contribute to the funding of it or not.</p>
       </td>
      </tr>
     </tbody>
@@ -241,16 +241,16 @@ image:    "icon-radical-companies-for-the-impatient.svg"
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <span class="_paradigm">RAD</span>s. For example,</p>
  <ul>
   <li>
-   <p style="margin: 0 auto 6px auto; ">Six of us generate $16,000 in dividends.</p>
+   <p style="margin-bottom:6px; margin-left;0;">Six of us generate $16,000 in dividends.</p>
   </li>
   <li>
-   <p style="margin: 0 auto 6px auto; ">There is a total of 1,000 RADs allocated which means that each <span class="_paradigm">RAD</span> is worth $16 this cycle.</p>
+   <p style="margin-bottom:6px; margin-left;0;">There is a total of 1,000 RADs allocated which means that each <span class="_paradigm">RAD</span> is worth $16 this cycle.</p>
   </li>
   <li>
-   <p style="margin: 0 auto 6px auto; ">You have 450 allocated RADs and I have 130.</p>
+   <p style="margin-bottom:6px; margin-left;0;">You have 450 allocated RADs and I have 130.</p>
   </li>
   <li>
-   <p style="margin: 0 auto 6px auto; ">You <em>earned</em> $7,200 and I&rsquo;ve <em>earned</em> $2,080 of the total dividends.</p>
+   <p style="margin-bottom:6px; margin-left;0;">You <em>earned</em> $7,200 and I&rsquo;ve <em>earned</em> $2,080 of the total dividends.</p>
   </li>
  </ul>
  <p>That earned amount is split between Dividends and a <em>Predictable Recurring Income</em> (PRI) component.</p>
@@ -260,22 +260,22 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    <p>The <span class="_paradigm">PRI</span> is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),</p>
    <ul>
     <li>
-     <p style="margin: 0 auto 6px auto; ">Each member determines their <span class="_paradigm">PRI</span>. This is what they feel they need to take home every month.</p>
+     <p style="margin-bottom:6px; margin-left;0;">Each member determines their <span class="_paradigm">PRI</span>. This is what they feel they need to take home every month.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">Along with expenses, loan repayment, and other fixed expenses, the sum of everybody&rsquo;s <span class="_paradigm">PRI</span> determines what for simplicity we&rsquo;ll call the company&rsquo;s breakeven point.</p>
+     <p style="margin-bottom:6px; margin-left;0;">Along with expenses, loan repayment, and other fixed expenses, the sum of everybody&rsquo;s <span class="_paradigm">PRI</span> determines what for simplicity we&rsquo;ll call the company&rsquo;s breakeven point.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">Every month, the company pays its bills and all <span class="_paradigm">PRI</span>s and what&rsquo;s left is distributed as Earned Dividends according to each person&rsquo;s <span class="_paradigm">RAD</span>  allocations. This is the happy path.</p>
+     <p style="margin-bottom:6px; margin-left;0;">Every month, the company pays its bills and all <span class="_paradigm">PRI</span>s and what&rsquo;s left is distributed as Earned Dividends according to each person&rsquo;s <span class="_paradigm">RAD</span>  allocations. This is the happy path.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">As a company, we can get a loan or  an investment for the <em><span class="_paradigm">PRI</span> Fund</em>. When revenue doesn&rsquo;t cover the breakeven point, money flows out of the <em><span class="_paradigm">PRI</span> Account</em> to cover a member&rsquo;s full <span class="_paradigm">PRI</span>. This makes it possible for each co-owners to take home a predictable amount.</p>
+     <p style="margin-bottom:6px; margin-left;0;">As a company, we can get a loan or  an investment for the <em><span class="_paradigm">PRI</span> Fund</em>. When revenue doesn&rsquo;t cover the breakeven point, money flows out of the <em><span class="_paradigm">PRI</span> Account</em> to cover a member&rsquo;s full <span class="_paradigm">PRI</span>. This makes it possible for each co-owners to take home a predictable amount.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">Each co-owner is responsible for her <em><span class="_paradigm">PRI</span> Account</em> and has to pay back what they got out of it. Most likely, this will be paid back out of Earned Dividends once revenue goes above breakeven, but this is something you&rsquo;d have to experiment with.</p>
+     <p style="margin-bottom:6px; margin-left;0;">Each co-owner is responsible for her <em><span class="_paradigm">PRI</span> Account</em> and has to pay back what they got out of it. Most likely, this will be paid back out of Earned Dividends once revenue goes above breakeven, but this is something you&rsquo;d have to experiment with.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">In the worst case, if the company goes belly up,
+     <p style="margin-bottom:6px; margin-left;0;">In the worst case, if the company goes belly up,
       <ul>
        <li>If <span class="_paradigm">PRI</span> was funded with investment money, there&rsquo;s no &ldquo;debt&rdquo; to be paid back.</li>
        <li>If it was funded with a loan, then people with unpaid balances have to make good on it.</li>
@@ -286,13 +286,13 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    <p>The <span class="_paradigm">PRI</span> functions a lot like a salary,</p>
    <ul>
     <li>
-     <p style="margin: 0 auto 6px auto; ">If I earned <em>more</em> than my <span class="_paradigm">PRI</span>, then I can take home my <span class="_paradigm">PRI</span> <em>and my Earned Dividends</em>.</p>
+     <p style="margin-bottom:6px; margin-left;0;">If I earned <em>more</em> than my <span class="_paradigm">PRI</span>, then I can take home my <span class="_paradigm">PRI</span> <em>and my Earned Dividends</em>.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">If what I&rsquo;ve earned matches my <span class="_paradigm">PRI</span>, then I take that much home.</p>
+     <p style="margin-bottom:6px; margin-left;0;">If what I&rsquo;ve earned matches my <span class="_paradigm">PRI</span>, then I take that much home.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">If I earned <em>less than my <span class="_paradigm">PRI</span></em>, I still take home <em>the amount of money I expected</em>, because the <em><span class="_paradigm">PRI</span> Account</em> makes up the difference, but I now owe the difference to the <em><span class="_paradigm">PRI</span> Account</em>.</p>
+     <p style="margin-bottom:6px; margin-left;0;">If I earned <em>less than my <span class="_paradigm">PRI</span></em>, I still take home <em>the amount of money I expected</em>, because the <em><span class="_paradigm">PRI</span> Account</em> makes up the difference, but I now owe the difference to the <em><span class="_paradigm">PRI</span> Account</em>.</p>
     </li>
    </ul>
    <p>You&rsquo;ll have to experiment with how these debts are settled. At its loosest, I could pay that debt &ldquo;later&rdquo; (<em>e.g.</em>, out of my future Earned Dividends). At its most rigid, I&rsquo;d have to pay the <em><span class="_paradigm">PRI</span> Account</em> debt, plus interest, within, say, 60 days. Our suggestion, as always, is to go for a policy that matches peoples' needs and situation. If a problem crops up, then tweak the policy as appropiate. In any case, don&rsquo;t yield to imagined fears.</p>
@@ -314,13 +314,13 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   <p>Below there are three sample scenarios for how Earned Dividends are calculated,</p>
    <ul>
     <li>
-     <p style="margin: 0 auto 6px auto; ">Below breakeven: When we as a company don&rsquo;t generate enough Dividends to cover everybody&rsquo;s <span class="_paradigm">PRI</span>s in full and the difference has to come out of the <em><span class="_paradigm">PRI</span> Account</em>s.</p>
+     <p style="margin-bottom:6px; margin-left;0;">Below breakeven: When we as a company don&rsquo;t generate enough Dividends to cover everybody&rsquo;s <span class="_paradigm">PRI</span>s in full and the difference has to come out of the <em><span class="_paradigm">PRI</span> Account</em>s.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">At breakeven: When we make enough to at least pay everybody&rsquo;s <span class="_paradigm">PRI</span>.</p>
+     <p style="margin-bottom:6px; margin-left;0;">At breakeven: When we make enough to at least pay everybody&rsquo;s <span class="_paradigm">PRI</span>.</p>
     </li>
     <li>
-     <p style="margin: 0 auto 6px auto; ">Above breakeven: When we as a company can pay everybody&rsquo;s <span class="_paradigm">PRI</span> <em>and</em> disburse Earned Dividends.</p>
+     <p style="margin-bottom:6px; margin-left;0;">Above breakeven: When we as a company can pay everybody&rsquo;s <span class="_paradigm">PRI</span> <em>and</em> disburse Earned Dividends.</p>
     </li>
    </ul>
   <p>This first scenario is what normally happens at the start of a company: it doesn&rsquo;t generate enough revenue to cover everybody&rsquo;s <span class="_paradigm">PRI</span>. In this case, we would need a cash infusion to the <em><span class="_paradigm">PRI</span> Account</em> so we can use it to meet the amount of <span class="_paradigm">PRI</span> each person has set.</p>
