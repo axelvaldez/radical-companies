@@ -30,9 +30,13 @@ image:    "icon-owning-the-commons-1-3.svg"
 
 <h1>But&hellip; Who Owns the Land?</h1>
  <ul>
-  <li>The Native Americans choose not to own it.</li>
-  <li>The settlers possess it, but do not own it, either.</li>
-  <li>Then, who&hellip; what&hellip; ?</li>
+  <li>The Native Americans choose not have title to it, but they did exclude others from their lands.</li>
+  <li>Violence happened and then the settlers possessed some of it, but did not own it, either.</li>
+  <li>Then came US legal corpus, and force, and the Native Americans were dispossed of their land.</li>
+  <li>The Europeans settlers were given title to the land they possesed.</li>
+  <li>The US Army protected the titles.</li>
+  <li>The Native American got screwed out their livelihood.</li>
+  <li>The US Governments levied taxes on the titles to the land.</li>
  </ul>
 
 <h1><span class="_paradigm">RAD</span>s! app</h1>
