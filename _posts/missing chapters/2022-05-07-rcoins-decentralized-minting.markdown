@@ -7,18 +7,16 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
 ---
 
 <div style="display: none; ">
- <p>National fiat money is the problem, and so is our system of loans and investment. <span class="_paradigm">rCoin</span>s are a potential solution.</p>
+ <p>National fiat money is the problem, and so is our banking system, and our system of loans and investment. <span class="_paradigm">rCoin</span>s is a potential solution.</p>
 </div>
 
-<div style="background-color:beige; ">
- <pre class="prettyprint" style="font-size:30px; text-align: center; border: 1px solid CadetBlue; background-color: #FFFAF0; font-family: American Typewriter, serif; ">If Kings and Queens
- had figured out the fiat money racket,
- we'd still be His Majesty's subjects</pre>
+<div class="_citation">
+ <p>If Kings and Queens had figured out the fiat money racket, we&rsquo;d still be Her or His Majesty&rsquo;s subjects</pre>
 </div>
 
 <h1>Hoarding Is Violence</h1>
- <p>Today, money is the canonical medium of exchange and that is what we assumed in our book, <span class="_paradigm">RADICAL COMPANIES</span>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> After all, we need money to pay our bills and as a medium of exchange to buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people. This is problematic and leads to the most serious problems we face today.</p>
- <p>For this and other reasons, I now believe that we should have a universal medium of exchange, like <span class="_paradigm">rCoin</SPAN>s that doesn’t have the baggage of national fiat money and can help us transform to a human centered economy.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup></p>
+ <p>Today, money is the canonical medium of exchange and that is what we assumed in our book, <span class="_paradigm">RADICAL COMPANIES</span>.<a href="#en1"><sup id="bm1">&hairsp;&nabla;&hairsp;</sup></a> After all, we need money to pay our bills and as a medium of exchange to buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people. This is problematic and leads to the most serious problems we face today.</p>
+ <p>For this and other reasons, I now believe that we should have a universal medium of exchange, like <span class="_paradigm">rCoin</SPAN>s that doesn’t have the baggage of national fiat money and can help us transform to a human centered economy.<a href="#en2"><sup id="bm2">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Like today’s money, <span class="_paradigm">rCoin</SPAN>s function as,</p>
  <ul>
   <li>A unit of measure</li>
@@ -45,9 +43,9 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
       <li>“Coins” are a tangible instance of money.</li>
       <li>“Fiat money” is coinage created by fiat, out of whole cloth. It used to be that you needed gold to create coins, but not anymore.</li>
      </ul>
-     <p>As a <em>unit of measure</em>, a national fiat coin works like a meter or a minute and serves as a stable denominator for transactions. However, while the meter and the minute are world-wide units, fiat coins are a national thing. This makes them very unstable and fragile as a unit of measure (<em>e.g.</em>, imagine a minute being “devalued” or something being measured in 仪表).<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
+     <p>As a <em>unit of measure</em>, a national fiat coin works like a meter or a minute and serves as a stable denominator for transactions. However, while the meter and the minute are world-wide units, fiat coins are a national thing. This makes them very unstable and fragile as a unit of measure (<em>e.g.</em>, imagine a minute being “devalued” or something being measured in 仪表).<a href="#en3"><sup id="bm3">&hairsp;&nabla;&hairsp;</sup></a></p>
      <p>National fiat coins act as a <em>store of value</em> by virtue of their fixed nominal value. This means that these coins can be used to accumulate financial wealth. From that perspective, national fiat coins do not deserve to be called “currency,” not while stuffed under the proverbial mattress.</p>
-     <p>National fiat coins serve as a <em>medium of exchange</em>. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point exchange was based on the value of gold, but since the 1970s the system is based on each country’s say so, national fiat coins.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup> National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.</p>
+     <p>National fiat coins serve as a <em>medium of exchange</em>. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point exchange was based on the value of gold, but since the 1970s the system is based on each country’s say so, national fiat coins.<a href="#en4"><sup id="bm4">&hairsp;&nabla;&hairsp;</sup></a> National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.</p>
     </td>
    </tr>
    <tr>
@@ -67,12 +65,12 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p>To avoid confusion, in this document I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.</p>
 
 <h1>A Historical Perspective</h1>
- <p><span class="_paradigm">rCoin</SPAN>s are not to be confused, or conflated, with local or complementary currencies, demurrage money, or any such.<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup> Ditto for Mutualism, Marxism, or any other theory or ideology. The point of <span class="_paradigm">rCoin</SPAN>a is to make it possible to have a world-wide market, free of intermediaries, and with negligible costs.</p>
+ <p><span class="_paradigm">rCoin</SPAN>s are not to be confused, or conflated, with local or complementary currencies, demurrage money, or any such.<a href="#en5"><sup id="bm5">&hairsp;&nabla;&hairsp;</sup></a> Ditto for Mutualism, Marxism, or any other theory or ideology. The point of <span class="_paradigm">rCoin</SPAN>a is to make it possible to have a world-wide market, free of intermediaries, and with negligible costs.</p>
  <p>In fact, <span class="_paradigm">rCoin</SPAN>s are very similar to national fiat coins. They are a unit of measure, a store of value, and a medium of exchange, but with these twists,</p>
  <ol>
   <li>They represent value at its broadest. In addition to financial value, they account for wellbeing, contributions, acts of kindness, and all the other things that are important to people.</li>
   <li>They spread risks and benefits through society. We all share in the adventure: the burden of risk and the joys of gains.</li>
-  <li><span class="_paradigm">rCoin</SPAN>s bypass the complications and costs brought about by banks, exchanges, national politics,<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup> and the influence of transnational corporations.<sup id="fnref7"><a href="#fn7" rel="footnote">7</a></sup>
+  <li><span class="_paradigm">rCoin</SPAN>s bypass the complications and costs brought about by banks, exchanges, national politics,<a href="#en6"><sup id="bm6">&hairsp;&nabla;&hairsp;</sup></a>
    <p><span class="_paradigm">rCoin</SPAN>s have the potential to enable a world-wide market. This will help us break out of our national silos and create a world-wide economy that’s decentralized and transparent.</p></li>
  </ol>
 
@@ -83,7 +81,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <p>A <span class="_paradigm">RADICAL</SPAN> world, too, is centered around accomplishments and real innovation, but it prioritizes what’s important to people first, ahead of everything else, including money. We’ll still be individuals, with our own needs, rights, and idiosyncrasies. We are not going to become a number. The <span class="_paradigm">RADICAL</SPAN> model is centered on trust, the type that comes from community and collaboration.</p>
  <h3>The <span class="_paradigm">RADICAL</SPAN> Model</h3>
   <p>We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands telling people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it. Here we assume a <span class="_paradigm">RADICAL</SPAN> world that is, at the same time, alike and different from our world today.</p>
-  <p>In the <span class="_paradigm">RADICAL</SPAN> model, a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word “company” because it has an interesting genesis: it comes from Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means “together, with” and <em>pan</em> means &ldquo;bread, food.&rdquo; At its root, then, <em>company</em> means “people who break bread together.” In the <span class="_paradigm">RADICAL</SPAN> model a company is a community of people who come together to contribute broad value to society and make an impact on the world.</p>
+  <p>In the <span class="_paradigm">RADICAL</SPAN> model, a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word “company” because it has an interesting genesis: it comes from Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means “together, with” and <em>pan</em> means <em>bread, food.</em> At its root, then, <em>company</em> means “people who break bread together.” In the <span class="_paradigm">RADICAL</SPAN> model a company is a community of people who come together to contribute broad value to society and make an impact on the world.</p>
   <p>Rather than having an owner and a hierarchy of bosses, a <span class="_paradigm">RADICAL</SPAN> company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment" style="width: 90%; text-align: center; "></p>
@@ -108,7 +106,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    </table>
   </div>
  <h2><span class="_paradigm">rCoin</SPAN>s as Collaboration</h2>
-  <p>As I see it, the <span class="_paradigm">RADICAL</SPAN> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve &ldquo;<em>progress</em>.&rdquo;<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup></p>
+  <p>As I see it, the <span class="_paradigm">RADICAL</SPAN> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve <em><em>progress</em>.</em><a href="#en8"><sup id="bm8">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it’s time to move on and build on the foundation of collaboration.</p>
 
 <h1><SPAN STYLE="font-size:smaller; ">rCoin</SPAN>s for a World-Wide Market</h1>
@@ -116,7 +114,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <p>We could have a single world government create and enforce a single currency. But even if it were politically feasible, it is unnecessary and a move in the wrong direction towards centralization. To wit, we didn’t need a single world government for minutes, meters, or the Internet, some of the most useful world-wide tools of all time.</p>
  <p>A decentralized, transparent <span class="_paradigm">rCoin</SPAN> is fundamental to such a unified market. These are some of the other things we would need to nourish and support a world-wide market,</p>
  <h2><span class="_paradigm">rCoin</SPAN>s for a Decentralized Market</h2>
-  <p>We need a decentralized market to nurture the next stage of innovation and accomplishment. Unfortunately, national fiat coins are an obstacle to this. They are not very stable and are subject to cyclical crises.<sup id="fnref9"><a href="#fn9" rel="footnote">9</a></sup> They make international markets very complex, very opaque, and very expensive.</p> 
+  <p>We need a decentralized market to nurture the next stage of innovation and accomplishment. Unfortunately, national fiat coins are an obstacle to this. They are not very stable and are subject to cyclical crises.<a href="#en9"><sup id="bm9">&hairsp;&nabla;&hairsp;</sup></a> They make international markets very complex, very opaque, and very expensive.</p> 
   <p>Today’s international markets have been cobbled together by agreements that are fraught with weaknesses. National and international politics make transaction costs very expensive. Worst of all, these international markets are unduly influenced by transnational businesses seeking to profit no matter the harm to society.</p>
   <p>A decentralized market, free of interference and manipulation, is the iltimate pricing engine.</p>
  <h2>Decentralized Minting of <span style="font-size:smaller; ">rCoin</span>s</h2>
@@ -133,7 +131,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p>In a rural setting somebody will get <span class="_paradigm">RAD</SPAN>s for milking a goat, while in an urban setting someone else will get <span class="_paradigm">RAD</SPAN>s for stopping cars so children can cross the street. The same human feeling that recognized the generosity of these acts was present in the rural case as well as in the urban setting. RADs capture that recognition in a tangible way, regardless of its numeric accuracy. <span class="_paradigm">RAD</SPAN>s, and the <span class="_paradigm">rCoin</SPAN>s that they factor, can be trusted because people decide what is <em>a contribution that deserves to be recognized</em>.</p>
 
 <h1><SPAN STYLE="font-size:smaller; ">RAD</SPAN>s Represent Contributions</h1>
- <p>This idea originated with entrepreneur and pioneer Philip Rosedale,<sup id="fnref10"><a href="#fn10" rel="footnote">10</a></sup></p>
+ <p>This idea originated with entrepreneur and pioneer Philip Rosedale,<a href="#en10"><sup id="bm10">&hairsp;&nabla;&hairsp;</sup></a></p>
  <ul>
   <li>As the company grows, every month an equal amount of cash and shares of the company are earmarked for distribution.</li>
   <li>Every member gets an equal portion of this cash and shares which represent the wealth the company generated.</li>
@@ -141,7 +139,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <li>There is no set criteria and each person decides <b>who</b> should be recognized, <b>what</b> should be recognized as a contribution, and <b>how much</b> of this wealth to give to others.</li>
  </ul>
  <p><span class="_paradigm">RADICAL</SPAN> Distributions are very similar, but instead of cash or stocks, it uses <span class="_paradigm">RAD</SPAN>s, a dimensionless unit. At the end of each Distribution the total number of <span class="_paradigm">RAD</SPAN>s allocated to each person represents their (dynamic) <a href="#VaryingBuyingPower">percentage of ownership</a> of the broad value created by a company.</p>
- <p>Because this broad value accounts for things other than financial value, <em><span class="_paradigm">RAD</SPAN>s account for the uncountable</em>.<sup id="fnref11"><a href="#fn11" rel="footnote">11</a></sup> And because <em><span class="_paradigm">rCoin</SPAN>s are factored through <span style="font-zise: smaller; ">RAD</span>s</em>, they represent broad value as well. In other words, each person's share of <span class="_paradigm">rCoin</SPAN>s is a function of their contributions and reflects the full spectrum of human values, not just financial value.</p>
+ <p>Because this broad value accounts for things other than financial value, <em><span class="_paradigm">RAD</SPAN>s account for the uncountable</em>.<a href="#en11"><sup id="bm11">&hairsp;&nabla;&hairsp;</sup></a> And because <em><span class="_paradigm">rCoin</SPAN>s are factored through <span style="font-zise: smaller; ">RAD</span>s</em>, they represent broad value as well. In other words, each person&rsquo;s share of <span class="_paradigm">rCoin</SPAN>s is a function of their contributions and reflects the full spectrum of human values, not just financial value.</p>
 
 <h1><SPAN STYLE="font-size:smaller; ">rCoin</SPAN> Qualities</h1>
  <p>These are, in no particular order, a few of the qualities that a <span class="_paradigm">rCoin</SPAN> must have,</p>
@@ -184,27 +182,34 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
     <td>&nbsp;</td>
    </tr>
   </table>
-  <p>A seller’s app can calculate a risk factor based on the BenCO <span class="_paradigm">rCoin</span>’s log <em>and</em> her particular preset parameters. Each of us can let the apps do the calculations and, based on that, decide whether or not to take the BenCO <span class="_paradigm">rCoin</span>s as payment.<sup id="fnref12"><a href="#fn12" rel="footnote">12</a></sup></p>
+  <p>A seller’s app can calculate a risk factor based on the BenCO <span class="_paradigm">rCoin</span>’s log <em>and</em> her particular preset parameters. Each of us can let the apps do the calculations and, based on that, decide whether or not to take the BenCO <span class="_paradigm">rCoin</span>s as payment.<a href="#en12"><sup id="bm12">&hairsp;&nabla;&hairsp;</sup></a></p>
+
  <h2><span class="_paradigm">rCoin</SPAN>s Are Stable</h2>
   <p>In today’s system of exchange, “reserve currencies” are used for international transactions. This makes these transactions very expensive.</p>
   <p>As of this writing, the four most widely held “reserve currencies” are the US dollar (&dollar;), the European Euro (&euro;), the Japanese Yen (&yen;), and the UK Pound Sterling (&pound;). These national fiat coinage are backed up by strong, stable economies. At least, that’s how the story goes.</p>
+
  <h2>Companies as Guarantors of <span class="_paradigm">rCoin</span>s</h2>
-  <p>National economies are not as stable as all that and financial crises happen on a cyclical basis.<sup id="fnref13"><a href="#fn13" rel="footnote">13</a></sup> For another, people invariably find ways to exploit some aspect of the financial system for private gain. Politicians are very good at this and manipulate national economies shamelessly. For example, in 1971 then President Nixon renounced gold as a standard and blamed it mostly on De Gaulle’s policies. In reality, he did it to maintain “global economic dominance and to improve economic conditions at home.”<sup id="fnref14"><a href="#fn14" rel="footnote">14</a></sup></p>
+  <p>National economies are not as stable as all that and financial crises happen on a cyclical basis.<a href="#en13"><sup id="bm13">&hairsp;&nabla;&hairsp;</sup></a> For another, people invariably find ways to exploit some aspect of the financial system for private gain. Politicians are very good at this and manipulate national economies shamelessly. For example, in 1971 then President Nixon renounced gold as a standard and blamed it mostly on De Gaulle’s policies. In reality, he did it to maintain “global economic dominance and to improve economic conditions at home.”<a href="#en14"><sup id="bm14">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>By comparison, companies are extremely stable because their reputation depends solely on how effective they are at creating value for society. That’s it. The worst that can happen is that a company mints <span class="_paradigm">rCoin</SPAN>s and then it is not able, or willing, to retire the debt. The financial impact of this would be insignificant; to wit, this is what happens today.</p>
+
  <h2><span class="_paradigm">rCoin</span>s Are (Not) Fungible</h2>
-  <p>In today’s financial model, to be effective as a medium of exchange, money must be fungible—one coin is indistinguishable from all others. “Trying to use a non-fungible good as money results in transaction costs of individually evaluating each unit of the good before an exchange can take place.”<sup id="fnref15"><a href="#fn15" rel="footnote">15</a></sup></p>
+  <p>In today’s financial model, to be effective as a medium of exchange, money must be fungible—one coin is indistinguishable from all others. “Trying to use a non-fungible good as money results in transaction costs of individually evaluating each unit of the good before an exchange can take place.”<a href="#en15"><sup id="bm15">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>Thankfully, <span class="_paradigm">rCoin</SPAN>s are fungible, world-wide, as a class. Their transaction costs, nationally and internationally, are negligible.</p>
-  <p>But, also thankfully, they are not fungible individually. Each <span class="_paradigm">rCoin</SPAN> carries information about its genesis and history and this translates to a different level of risk associated with each one. Their only transaction cost is that of “evaluating” whether or not to accept the risk associated with it. But this can be automated and it is insignificant. To decide whether to accept a given mix of <span class="_paradigm">rCoin</SPAN>s as payment carries no financial cost since most transactions would be driven by the app’s results and the few exceptions to it would be driven by people to people relationships. This takes those transactions out of the financial realm and into a people-to-people one.<sup id="fnref16"><a href="#fn16" rel="footnote">16</a></sup></p>
+  <p>But, also thankfully, they are not fungible individually. Each <span class="_paradigm">rCoin</SPAN> carries information about its genesis and history and this translates to a different level of risk associated with each one. Their only transaction cost is that of “evaluating” whether or not to accept the risk associated with it. But this can be automated and it is insignificant. To decide whether to accept a given mix of <span class="_paradigm">rCoin</SPAN>s as payment carries no financial cost since most transactions would be driven by the app’s results and the few exceptions to it would be driven by people to people relationships. This takes those transactions out of the financial realm and into a people-to-people one.<a href="#en16"><sup id="bm16">&hairsp;&nabla;&hairsp;</sup></a></p>
+
  <h2><span class="_paradigm">rCoin</span>s Represent Broad Value</h2>
   <p>To be robust, a <span class="_paradigm">rCoin</SPAN> needs to be tied to value creation, and <span class="_paradigm">rCoin</SPAN>s are. In fact they represent more than financial value. Their value also represents wellbeing, acts of kindness, and whatever else people consider important. And since COINs are factored through <span class="_paradigm">RAD</span>s they represent broad value contributions as well.</p>
   <p>For example, if the RADs that have been allocated to me amount to 10% of the total and yours to 20%, this means that our fellow co-owners decided that you contributed twice as much as I did. As a result you get twice as many COINs as I do.</p>
+
  <h2><span class="_paradigm">rCoin</span>s Transparent</h2>
-  <p>National fiat coins are opaque. We make do with things like GDP, but GDP and others like it don’t measure anything besides financial value. They are canonical examples of the Broken Window Fallacy and don’t take into account society-wide costs. What’s more, these indices can be very misleading, and “GDP can increase after a car accident or a major flood. GDP can grow rapidly during a war or after a terrorist attack.”<sup id="fnref17"><a href="#fn17" rel="footnote">17</a></sup></p>
+  <p>National fiat coins are opaque. We make do with things like GDP, but GDP and others like it don’t measure anything besides financial value. They are canonical examples of the Broken Window Fallacy and don’t take into account society-wide costs. What’s more, these indices can be very misleading, and “GDP can increase after a car accident or a major flood. GDP can grow rapidly during a war or after a terrorist attack.”<a href="#en17"><sup id="bm17">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>COINs are transparent and we need them to be. Each rCoin carries with it a log of all the information necessary to calculate the potential risks and benefits associated with it. Given that information, each of us can then decide whether or not to accept a particular rCoin as payment.</p>
+
  <h2><span class="_paradigm">rCoin</span> Value</h2>
   <p>The face value of national fiat coins is fixed forever. At least, that is true for reserve currencies. Other national fiat coins are not so lucky: their face value stays put, but their purchasing  power fluctuates, sometimes wildly.</p>
   <p><span class="_paradigm">rCoin</span>s have a face value of one. It is backed by people who come together as <span class="_paradigm">RADICAL COMPANIES</span> to create broad value for society. It is free from national and international politics and manipulation.</p>
   <p>The face value of <span class="_paradigm">rCoin</span>s never changes but the information in its log may. Based on all of that, each of us gets to decide whether or not to accept the COINs given the risks and benefits indicated in its log.</p>
+
  <h2>Different Companies, Different Values</h2>
   <p>As it is today, different companies will end up with different values and their co-owners will have more or less purchasing power. For example.</p>
   <ul>
@@ -213,6 +218,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    <li>JerryCo’s <em>value</em> is higher than BenCO.</li>
    <li>JerryCO <em>people earn more COINs</em> than those at BenCO.</li>
   </ul>
+
  <h2>Companies as Guarantors</h2>
   <p>COINs are backed up by the <span class="_paradigm">RADICAL COMPANIES</span>, not national governments. This means that the COIN’s “value” is determined by what each company brings to society and by its co-owners’ sensitivities.</p>
   <p>This last bit is really important.</p>
@@ -220,9 +226,9 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p>For example, if a community feels harmed by the actions of CarelessCO they can make their case to a few of its co-owners to at least get a conversation going. If the harm affects many such communities and all its co-owners refuse to engage, they can simply record the failed discussion to CarelessCO’s COINs. Some people may interpret this as a high risk (to society) while others may see it differently. We all get to decide.</p>
 
 <h1><span class="_paradigma">rCoin</span> Risks and Benefits</h1>
- <p>There is plenty of evidence that shows that a currency, one that actually actually flows, can benefit a society,<sup id="fnref18"><a href="#fn18" rel="footnote">18</a></sup> while money stuffed under a mattress only benefits the hoarder.</p>
+ <p>There is plenty of evidence that shows that a currency, one that actually actually flows, can benefit a society,<a href="#en18"><sup id="bm18">&hairsp;&nabla;&hairsp;</sup></a> while money stuffed under a mattress only benefits the hoarder.</p>
  <p>People have figured out that, in today’s world, one way to keep money flowing is by having it lose its value over time (<em>i.e.</em>, there is no point in hoarding it because it will “rot”). This can be done by inflation or demurrage. Inflation, the decline of purchasing power, has been the preferred method of national governments for controlling the value and availability of its coinage. Governments can do this by several means, including by tweaking interest rates, which impacts the supply of national fiat coins. We all know that “inflation is bad,” but we cannot do anything about it.</p>
- <p>The other approach is by demurrage, where coins <em>lose</em> their value over time. There’s been a number of local deployments of demurrage coins and they are generally beneficial to the local economy. However, as far as I know, demurrage has never been used at a national level. The poster child of demurrage is the &ldquo;Miracle of Wörgl."&rdquo;<sup id="fnref19"><a href="#fn19" rel="footnote">19</a></sup>. During the Great Depression, the town of Wörgl, Austria, was quickly running out of money, like most of the world. The mayor issued Wörgls to pay people for doing local jobs and the local shops agreed to accept them. The bills had to be stamped every week in order to keep them valid, and every stamp reduced the value of these coins. This kept the notes in circulation. So much so, that people even paid taxes earlier rather than let their currency “rot.”</p>
+ <p>The other approach is by demurrage, where coins <em>lose</em> their value over time. There’s been a number of local deployments of demurrage coins and they are generally beneficial to the local economy. However, as far as I know, demurrage has never been used at a national level. The poster child of demurrage is the <em>Miracle of Wörgl."</em><a href="#en19"><sup id="bm19">&hairsp;&nabla;&hairsp;</sup></a>. During the Great Depression, the town of Wörgl, Austria, was quickly running out of money, like most of the world. The mayor issued Wörgls to pay people for doing local jobs and the local shops agreed to accept them. The bills had to be stamped every week in order to keep them valid, and every stamp reduced the value of these coins. This kept the notes in circulation. So much so, that people even paid taxes earlier rather than let their currency “rot.”</p>
  <table>
   <tr>
    <td>
@@ -236,17 +242,17 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    </td>
   </tr>
   <tr>
-   <td>The bills had &ldquo;52 spaces on the reverse side, one for each week of the year.&rdquo;<sup id="fnref20"><a href="#fn20" rel="footnote">20</a></sup> This meant that the script kept its face value only for one week.</td>
+   <td>The bills had <em>52 spaces on the reverse side, one for each week of the year.</em><a href="#en20"><sup id="bm20">&hairsp;&nabla;&hairsp;</sup></a> This meant that the script kept its face value only for one week.</td>
   </tr>
  </table>
- <p>One problem with demurrage is that the rate of decay is not tied to value creation or anything like it. The Wörgl, and others like it, kept its face value for a week and went down in value every week thereafter. The W&auml;ra, another demurrage coin, lost 1% of its value every month.<sup id="fnref21"><a href="#fn21" rel="footnote">21</a></sup> Regardless of their good intentions, these rates of decay are picked out of thin air.</p>
+ <p>One problem with demurrage is that the rate of decay is not tied to value creation or anything like it. The Wörgl, and others like it, kept its face value for a week and went down in value every week thereafter. The W&auml;ra, another demurrage coin, lost 1% of its value every month.<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a> Regardless of their good intentions, these rates of decay are picked out of thin air.</p>
  <p><span class="_paradigm">rCoin</span>s, on the other hand, are always the same value. What changes is the potential risks and benefits associated with the company that engendered it. Every rCoin carries a log of all the information people need to decide whether or not to accept it.</p>
  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
   <img src="/assets/img/en-rad-auto-inflation.svg" alt="Table, with RISKS along the horizontal and BENEFITS along the vertical axis. WHen COINs are low in RISKS and BENEFITS, there is high acceptance of them. When COINs come with high RISKS and low BENEFITS, or low RISKS and high BENEFITS, there some resistance and acceptance of them. When COINs have high RISKS and high BENEFITS, there is high resistance to accepting them. " title="rCoin RISKS and BENEFITS">
  </p> 
  <h2>Calculating Risk</h2>
   <p>A <span class="_paradigm">rCoin</span>‘s log may include, for example, the number of co-owners that agree to its mint, the company’s revenue history, how many COINs the company has minted, and the company’s debt performance. Given the <span class="_paradigm">rCoin</span>’s log, we can calculate the risk associated with every <span class="_paradigm">rCoin</span> and decide whether or not to accept a particular <span class="_paradigm">rCoin</span> as payment.</p>
-  <p>One side-effect of this, is that people will try to dilute what risk they hold by paying with a combination of low and high risk <span class="_paradigm">rCoin</span>s, enough of each to make the risk acceptable to the seller.<sup id="fnref22"><a href="#fn22" rel="footnote">22</a></sup></p>
+  <p>One side-effect of this, is that people will try to dilute what risk they hold by paying with a combination of low and high risk <span class="_paradigm">rCoin</span>s, enough of each to make the risk acceptable to the seller.<a href="#en22"><sup id="bm22">&hairsp;&nabla;&hairsp;</sup></a></p>
  <h2>Calculating Benefits</h2>
   <p>Over time, companies will go up in value because they get very efficient, benefit from high demand, or both. People will likely hold on to their COINs. It may be that they are more comfortable with risk and may not mind taking higher risk COINs from fledgling companies. It may also be that even the more conservative folks may be tempted to take high risk COINs from high potential companies.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
@@ -256,15 +262,15 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p>Other things that may affect company value,</p>
   <ul>
    <li>As a company creates more value, it gets more revenue, and it generates more COINs. The revenue COINs are allocated according to each person’s broad contributions. Co-owners decide what is a broad contribution according to the value they perceive.</li>
-   <li>If a company walks away from debt,<sup id="fnref23"><a href="#fn23" rel="footnote">23</a></sup> it’s reputation goes down, and its COINs go down in value.</li>
+   <li>If a company walks away from debt,<a href="#en23"><sup id="bm23">&hairsp;&nabla;&hairsp;</sup></a> it’s reputation goes down, and its COINs go down in value.</li>
    <li>As a company retires debt, its reputation goes up, and its COINs go up in value.</li>
    <li>If the reputation and value of a company goes up, its COINs go down in risk. Those who took its COINs when they were high risk now have more desirable COINs. The upside spreads throughout society.</li>
    <li>Companies that are constantly creating debt and not retiring it, will find themselves isolated. Their COINs will get riskier and riskier and they will be acceptable to fewer and fewer people. Hopefully, they will see guidance and help from others.</li>
   </ul>
 
-<h1>TA-DA!</h1>
+<h1>TA-DAAAA!</h1>
  <p><span class="_paradigm">RAD</span>s account for what so far has been unaccountable. People get to decide what a contribution is and by doing so they “measure” what has been unmeasurable: an act of kindness, spontaneous help. Co-owners get <span class="_paradigm">rCoin</span>s according to the percentage of RADs they have and that makes COINs a much broader measure than just financial value.</p>
- <p>Companies mint <span class="_paradigm">rCoin</span>s. This means that <span class="_paradigm">rCoin</span>s are decentralized and free of interference by national and international politics, financial institutions, and too-big-to-fail transnationals. <span class="_paradigm">rCoin</span>s will make it possible to create a world-wide market that Adam Smith would be happy with.<sup id="fnref24"><a href="#fn24" rel="footnote">24</a></sup></p>
+ <p>Companies mint <span class="_paradigm">rCoin</span>s. This means that <span class="_paradigm">rCoin</span>s are decentralized and free of interference by national and international politics, financial institutions, and too-big-to-fail transnationals. <span class="_paradigm">rCoin</span>s will make it possible to create a world-wide market that Adam Smith would be happy with.<a href="#en24"><sup id="bm24">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>The whole system is transparent and each of us can decide to accept a payment or not. It is not mysterious or left to robed experts to figure things out. Each of us can do it because each of us is an expert on our own sensitivities and how we interpret the world.</p>
 
 <h1 class="_section">APPENDICES</h1>
@@ -281,7 +287,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
     <tr style="vertical-align:text-top; ">
      <th style="padding-right:1ex; text-align:right; border-right:1px solid black; ">Going Along</th>
      <td style="padding-left:1ex; ">
-      <p>One type of “bad actor” is people who “go along.” We normally don’t think of them as bad actors, “they’re just nice people.” In any case, Shui is one of them. He notices that Namir is taking more than he contributed, but he doesn’t say anything and talks to Namir. Shui turns a blind eye towards Namir's bad behavior and goes by untested assumptions. “Namir is a nice guy and maybe he needs a little bit more than me.”</p>
+      <p>One type of “bad actor” is people who “go along.” We normally don’t think of them as bad actors, “they’re just nice people.” In any case, Shui is one of them. He notices that Namir is taking more than he contributed, but he doesn’t say anything and talks to Namir. Shui turns a blind eye towards Namir&rsquo;s bad behavior and goes by untested assumptions. “Namir is a nice guy and maybe he needs a little bit more than me.”</p>
      </td>
     </tr>
     <tr>
@@ -308,7 +314,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
        <p style="font-size: smaller; margin-bottom:6px; ">“<strong>Physical convenience</strong>: things that are handy are much more likely  to be chosen than ones that require us to move somewhere to go get them.</p>
        <p style="font-size: smaller; margin-bottom:6px; ">“<strong>Intellectual convenience</strong>: change makes us uncomfortable. Sunk costs are hard to ignore. Possibility comes with agency, and agency comes with risk.</p>
        <p style="font-size: smaller; margin-bottom:6px; ">“<strong>Financial convenience</strong>: if it’s cheaper in the short run, we’re more likely to choose it, even if it costs satisfaction, opportunity or cash in the long run.</p>
-       <p style="font-size: smaller; margin-bottom:6px; ">“<strong>Cultural convenience</strong>: A combination of all of these, because culture likes the status quo and reminds of this regularly.”<sup id="fnref25"><a href="#fn25" rel="footnote">25</a></sup></p>
+       <p style="font-size: smaller; margin-bottom:6px; ">“<strong>Cultural convenience</strong>: A combination of all of these, because culture likes the status quo and reminds of this regularly.”<a href="#en25"><sup id="bm25">&hairsp;&nabla;&hairsp;</sup></a></p>
       </div>
      </td>
     </tr>
@@ -318,9 +324,9 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
 <h1 id="VaryingBuyingPower">VARYING BUYING POWER</h1>
   <p>I am selling potatoes at 40 COINs per dozen. After the first month <strong>Ⓐ</strong>, below, and his co-owners don’t have enough COINs to buy my potatoes, but <strong>Ⓔ</strong> and his co-owners do. It may be that JerryCO is more efficient or maybe its products or services are more valuable. Either way, BenCO’s co-owners end up with less buying power than JerryCO’s co-owners.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-   <img src="/assets/img/en-rad-auto-inflation-a.svg" alt="Two tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 100 COINs. Second row is RAD DISTRIBUTION, distributed as 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. They each get 10, 20, 30, and 40 COINs. For JerryCO: the EARNED DIVIDENDS  row shows +1000 New for a TOTAL of 1000 COINs. The RAD DISTRIBUTION in the second row is as follows: 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. This is the same as for BenCO, but in the JerryCO case the first person gets 100 instead of 10, the second 200 instead of 20, the third 300 instead of 30, and the fourth 400 COINs instead of 40. The BenCO co-owners end up with less buying power than JerryCO's co-owners." title="Varying Buying Powers A">
+   <img src="/assets/img/en-rad-auto-inflation-a.svg" alt="Two tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 100 COINs. Second row is RAD DISTRIBUTION, distributed as 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. They each get 10, 20, 30, and 40 COINs. For JerryCO: the EARNED DIVIDENDS  row shows +1000 New for a TOTAL of 1000 COINs. The RAD DISTRIBUTION in the second row is as follows: 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. This is the same as for BenCO, but in the JerryCO case the first person gets 100 instead of 10, the second 200 instead of 20, the third 300 instead of 30, and the fourth 400 COINs instead of 40. The BenCO co-owners end up with less buying power than JerryCO&rsquo;s co-owners." title="Varying Buying Powers A">
   </p>
-  <p>Within each company, the buying power of an individual co-owner, too, can change every cycle. For example, in the illustration above, by the third cycle <strong>Ⓔ</strong>, a JerryCO co-owner who started with 100 COINs, now has 1,200 which are enough to buy 30 dozen of my potatoes. Other other hand, JerryCO co-owner <strong>Ⓗ</strong> didn't get any COINs this cycle and he only has 600 COINs and has to settle for 15 dozen of my potatoes.</p>
+  <p>Within each company, the buying power of an individual co-owner, too, can change every cycle. For example, in the illustration above, by the third cycle <strong>Ⓔ</strong>, a JerryCO co-owner who started with 100 COINs, now has 1,200 which are enough to buy 30 dozen of my potatoes. Other other hand, JerryCO co-owner <strong>Ⓗ</strong> didn&rsquo;t get any COINs this cycle and he only has 600 COINs and has to settle for 15 dozen of my potatoes.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/en-rad-auto-inflation-b.svg" alt="Four tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 200 COINs. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 23% for the fourth. They each get 40, 70, 30, and 60 COINs. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +1000 New for a TOTAL of 2000 COINs. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 30% for the fourth (the same as for BenCO). They each get 400, 700, 300, and 600 COINs. Below there are two more tables. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 300 COINs. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth. They each get 120, 45, 45, and 60 COINs. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +1000 New for a TOTAL of 3000 COINs. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth (the same as for BenCO). They each get 1200, 450, 450, and 600 COINs. Some JerryCO co-owners have more COINs than others." title="Varying Buying Powers between and within companies">
   </p>
@@ -402,7 +408,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    </li>
    <li id="en3">
     <p class="_list-item">
-     &ldquo;Meter&rdquo; in Mandarin.
+     <em>Meter</em> in Mandarin.
      <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
