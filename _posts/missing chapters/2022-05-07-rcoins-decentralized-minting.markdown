@@ -219,19 +219,24 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p>In today’s businesses, the owners can do whatever they want. Although the same is technically true for a <span class="_paradigm">RADICAL COMPANY</span> it will be a lot more unlikely that all co-owners would agree to do something that goes against their own values and communities.</p>
   <p>For example, if a community feels harmed by the actions of CarelessCO they can make their case to a few of its co-owners to at least get a conversation going. If the harm affects many such communities and all its co-owners refuse to engage, they can simply record the failed discussion to CarelessCO’s COINs. Some people may interpret this as a high risk (to society) while others may see it differently. We all get to decide.</p>
 
-<h1><span style="font-size:smaller; "jospoint>rCoin</span> Risks and Benefits</h1>
+<h1><span class="_paradigma">rCoin</span> Risks and Benefits</h1>
  <p>There is plenty of evidence that shows that a currency, one that actually actually flows, can benefit a society,<sup id="fnref18"><a href="#fn18" rel="footnote">18</a></sup> while money stuffed under a mattress only benefits the hoarder.</p>
  <p>People have figured out that, in today’s world, one way to keep money flowing is by having it lose its value over time (<em>i.e.</em>, there is no point in hoarding it because it will “rot”). This can be done by inflation or demurrage. Inflation, the decline of purchasing power, has been the preferred method of national governments for controlling the value and availability of its coinage. Governments can do this by several means, including by tweaking interest rates, which impacts the supply of national fiat coins. We all know that “inflation is bad,” but we cannot do anything about it.</p>
  <p>The other approach is by demurrage, where coins <em>lose</em> their value over time. There’s been a number of local deployments of demurrage coins and they are generally beneficial to the local economy. However, as far as I know, demurrage has never been used at a national level. The poster child of demurrage is the &ldquo;Miracle of Wörgl."&rdquo;<sup id="fnref19"><a href="#fn19" rel="footnote">19</a></sup>. During the Great Depression, the town of Wörgl, Austria, was quickly running out of money, like most of the world. The mayor issued Wörgls to pay people for doing local jobs and the local shops agreed to accept them. The bills had to be stamped every week in order to keep them valid, and every stamp reduced the value of these coins. This kept the notes in circulation. So much so, that people even paid taxes earlier rather than let their currency “rot.”</p>
  <table>
   <tr>
-   <td><p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; "><img src="/assets/img/en-worgl.svg" alt="Five of the 52 stamps that were applied to the back of the local currency that the town of Wörgl, Austria minted in the 1930s in response to the Great Depression." title="Wö&ouml;gl Stamps"></p></td>
+   <td>
+    <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+     <img
+      src="/assets/img/en-worgl.svg"
+      alt="Five of the 52 stamps that were applied to the back of the local currency that the town of Wörgl, Austria minted in the 1930s in response to the Great Depression."
+      title="Wö&ouml;gl Stamps"
+     >
+    </p>
+   </td>
   </tr>
   <tr>
    <td>The bills had &ldquo;52 spaces on the reverse side, one for each week of the year.&rdquo;<sup id="fnref20"><a href="#fn20" rel="footnote">20</a></sup> This meant that the script kept its face value only for one week.</td>
-  </tr>
-  <tr>
-   <td style="height: 7px; ">&nbsp;</td>
   </tr>
  </table>
  <p>One problem with demurrage is that the rate of decay is not tied to value creation or anything like it. The Wörgl, and others like it, kept its face value for a week and went down in value every week thereafter. The W&auml;ra, another demurrage coin, lost 1% of its value every month.<sup id="fnref21"><a href="#fn21" rel="footnote">21</a></sup> Regardless of their good intentions, these rates of decay are picked out of thin air.</p>
