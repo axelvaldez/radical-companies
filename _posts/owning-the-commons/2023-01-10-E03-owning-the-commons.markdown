@@ -30,7 +30,7 @@ image:    "icon-owning-the-commons-3-3.svg"
   <li>As a matter of fact, the <span class="_paradigm">rCoins</span> fit right in with <span class='_paradigm'>RAD</span>s and even decentralized banking.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></li>
  </ul>
 
-<h1>The Magnificent Seven Samurai xxx</h1>
+<h1>The Seven Samurai</h1>
  <ul>
   <li>Well, not quite.</li>
   <li>We considered hiring r&otilde;nin to defend us, but we didn&rsquo;t want to resort to violence.</li>
