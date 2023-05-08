@@ -178,60 +178,66 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    <p style="width: 80%; margin: 0 auto 6px auto; ">
     <img src="/assets/img/en-banner.svg" alt="Two post-its as examples of banners. The one of the left reads, 'Community: Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
    </p>
-   <table>
-    <tbody style="font-size:smaller; vertical-align: top; ">
-     <tr>
-      <th>
-       <p>Teams</p>
-      </th>
-      <td>
-       <p style="margin-bottom:6px; margin-left;0;">Teams can be represented by a <span class="_paradigm">BANNER</span>s. &ldquo;re: Recognize our IT support team for how they handled the storm.&rdquo; </p>
-      </td>
-     </tr>
-     <tr style="vertical-align: top; ">
-      <th>
-       <p>Special Accomplishment</p>
-      </th>
-      <td>
-       <p style="margin-bottom:6px; margin-left;0;">&ldquo;Margot deserves to be recognized for stewarding the creation of our training platform.&rdquo; This may be in addition to other contributions that Margot has made. Maybe her role in &ldquo;stewarding the creation of our training platform&rdquo; was not as visible, but her teammates feel she deserves a wider recognition.</p>
-      </td>
-     </tr>
-     <tr>
-      <th>
-       <p>Community</p></th>
-      <td>
-       <p style="margin-bottom:6px; margin-left;0;">For example, a &ldquo;No Noise&rdquo; <span class="_paradigm">BANNER</span> could fund a sound barrier around a noisy factory. A &ldquo;River Walk&rdquo; <span class="_paradigm">BANNER</span> could fund a clean up and beautification of a stream that runs nearby. A <span class="_paradigm">BANNER</span> could even fund a local vet hospital to help it recover from a fire.</p>
-      </td>
-     </tr>
-     <tr>
-      <th>
-       <p>Experimental Projects</p>
-      </th>
-      <td>
-       <p style="margin-bottom:3px; ">At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects (<em>e.g.</em>Google News came out of it). That was a generous gift from the <span class="_paradigm">FIAT</span> owners, but the same owners later took it away.</p>
-       <p style="margin-bottom:6px; margin-left;0;">For a <span class="_paradigm">RADICAL</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">BANNER</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">BANNER</span>s could fund that specific project.</p>
-      </td>
-     </tr>
-     <tr>
-      <th>
-       <p>Investments</p>
-      </th>
-      <td>
-       <p style="margin-bottom:3px; ">In <span class="_paradigm">FIAT</span> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has to do with ego and fear, like a pharaoh&rsquo;s pyramid.</p>
-       <p style="margin-bottom:6px; margin-left;0;">In a <span class="_paradigm">RADICAL</span> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">BANNER</span>s for co-owners to contribute to the funding of it or not.</p>
-      </td>
-     </tr>
-    </tbody>
-  </table>
+    <div class="_center">
+     <table class="_h2table">
+      <tbody style="font-size:smaller; vertical-align: top; ">
+       <tr>
+        <th>
+         <p>Teams</p>
+        </th>
+        <td>
+         <p style="margin-bottom:6px; margin-left;0;">Teams can be represented by a <span class="_paradigm">BANNER</span>s. &ldquo;re: Recognize our IT support team for how they handled the storm.&rdquo; </p>
+        </td>
+       </tr>
+       <tr style="vertical-align: top; ">
+        <th>
+         <p>Special Accomplishment</p>
+        </th>
+        <td>
+         <p style="margin-bottom:6px; margin-left;0;">&ldquo;Margot deserves to be recognized for stewarding the creation of our training platform.&rdquo; This may be in addition to other contributions that Margot has made. Maybe her role in &ldquo;stewarding the creation of our training platform&rdquo; was not as visible, but her teammates feel she deserves a wider recognition.</p>
+        </td>
+       </tr>
+       <tr>
+        <th>
+         <p>Community</p>
+        </th>
+        <td>
+         <p style="margin-bottom:6px; margin-left;0;">For example, a &ldquo;No Noise&rdquo; <span class="_paradigm">BANNER</span> could fund a sound barrier around a noisy factory. A &ldquo;River Walk&rdquo; <span class="_paradigm">BANNER</span> could fund a clean up and beautification of a stream that runs nearby. A <span class="_paradigm">BANNER</span> could even fund a local vet hospital to help it recover from a fire.</p>
+        </td>
+       </tr>
+       <tr>
+        <th>
+         <p>Experimental Projects</p>
+        </th>
+        <td>
+         <p style="margin-bottom:3px; ">At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects (<em>e.g.</em>Google News came out of it). That was a generous gift from the <span class="_paradigm">FIAT</span> owners, but the same owners later took it away.</p>
+         <p style="margin-bottom:6px; margin-left;0;">For a <span class="_paradigm">RADICAL</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">BANNER</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">BANNER</span>s could fund that specific project.</p>
+        </td>
+       </tr>
+       <tr>
+        <th>
+         <p>Investments</p>
+        </th>
+        <td>
+         <p style="margin-bottom:3px; ">In <span class="_paradigm">FIAT</span> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has to do with ego and fear, like a pharaoh&rsquo;s pyramid.</p>
+         <p style="margin-bottom:6px; margin-left;0;">In a <span class="_paradigm">RADICAL</span> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">BANNER</span>s for co-owners to contribute to the funding of it or not.</p>
+        </td>
+       </tr>
+      </tbody>
+    </table>
+   </div>
 
  <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include <span class="_paradigm">RETROSPECTIVE</span>s</h2>
    <p>At a <span class="_paradigm">RADICAL RETROSPECTIVE</span>, members discuss the criteria they used to allocate <span class="_paradigm">RAD</span>s. Participation in these <span class="_paradigm">RETROSPECTIVE</span>s is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
-  <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include Feedback</h2>
+
+ <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include Feedback</h2>
    <p>Anybody who wants to can call for a feedback session after a <span class="_paradigm">DISTRIBUTION</span>. In particular, people who didn&rsquo;t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it&rsquo;s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
-  <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Are Transparent</h2>
+
+ <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Are Transparent</h2>
    <p>We don&rsquo;t think that <span class="_paradigm">RADICAL DISTRIBUTION</span>s will work without complete transparency. The temptation will be there to block the identity of the allocator or the recipient, or to block the number of <span class="_paradigm">RAD</span>s allocated. Don&rsquo;t yield to it, it is fear speaking. We don&rsquo;t think that anything less than full disclosure will work.</p>
    <p>Of course, you&rsquo;ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
-  <h2><span class="_paradigm">RAD</span>s Account for the Unaccountable</h2>
+ 
+ <h2><span class="_paradigm">RAD</span>s Account for the Unaccountable</h2>
    <p><span class="_paradigm">RAD</span>s represent many things other than simple financial value. They are not beans, but they can be counted.</p>
    <p>The <span class="_paradigm">RAD</span>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you&rsquo;ll probably get fewer <span class="_paradigm">RAD</span>s from us; if you are helping us thrive, you&rsquo;ll likely get more. If you do something that goes against our Impact, &ldquo;but, hey, it makes money,&rdquo; you&rsquo;ll get less <span class="_paradigm">RAD</span>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you&rsquo;ll get more <span class="_paradigm">RAD</span>s.</p>
    <p>Maybe I gave you <span class="_paradigm">RAD</span>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
