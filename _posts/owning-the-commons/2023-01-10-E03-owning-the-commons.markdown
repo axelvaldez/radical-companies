@@ -33,7 +33,7 @@ image:    "icon-owning-the-commons-3-3.svg"
 <h1>The Magnificent Seven Samurai</h1>
  <ul>
   <li>Well, not quite.</li>
-  <li>We considered hiring rōnin to defend us from a gang, but we didn&rsquo;t want to resort to violence.</li>
+  <li>We considered hiring r&otilde;nin to defend us, but we didn&rsquo;t want to resort to violence.</li>
   <li>We listened to their demands. We celebrated when we could, but mostly we talked in calm tones.</li>
   <li>Even then, they kept trying to force us to give them tribute.</li>
   <li>Then, people from the other townships started arriving. In their covered wagons, of course. Electric covered wagons, that is, of course.</li>
