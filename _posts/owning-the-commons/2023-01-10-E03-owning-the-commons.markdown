@@ -43,7 +43,7 @@ image:    "icon-owning-the-commons-3-3.svg"
   <li>Almost a year later, these people came back and they had completely changed. As they tried to harass other townships, the same thing happened (<em>i.e.</em>, more people showed up than they could count). This happened a few times until they shed the shame of being rōnin and joined the people.</li>
   <li>They wanted to “repay” us in some way and they brought back the pizza oven technology they had heard us talk so much about.</li>
   <li>We didn’t want to tell them that we already had it or that, in fact, it wasn’t the over, but what they were feeding their cows.</li>
-  <li>Sorry, no movie.</li>
+  <li>Sorry, no movie. Yet.</li>
  </ul>
 
 <h1 class="_section">ENDNOTES</h1>
