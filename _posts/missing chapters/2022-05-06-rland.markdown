@@ -7,7 +7,7 @@ image:    "icon-rland.svg"
 ---
 
 <div style="display: none;">
- <p>In a RADICAL world, would you <b>own</b> land?</p>
+ <p>In a <span class='_paradigm'>RADICAL</span> world, would you <b>own</b> land?</p>
 </div>
 
 <div id="fnref1" style="background-color:#FFFAF0; padding:1em; border:1px solid CadetBlue; margin-bottom:20px; ">
@@ -60,7 +60,7 @@ image:    "icon-rland.svg"
   </ul>
 
 <h1>Local Land, Local Taxes?</h1>
- <p>In the FIAT model, &ldquo;taxes&rdquo; disappear into the coffers of the County or State government. In the <span class="_paradigm">RADICAL</span> model, the occupier pays a percentage of her winning bid to a community fund. The fund would be used to create common goods.</p>
+ <p>In the <span class='_paradigm'>FIAT</span> model, &ldquo;taxes&rdquo; disappear into the coffers of the County or State government. In the <span class="_paradigm">RADICAL</span> model, the occupier pays a percentage of her winning bid to a community fund. The fund would be used to create common goods.</p>
  <p>But what is a community in this context? One possible way of defining this is to imagine the &ldquo;community&rdquo; as concentric circles emanating from the land in question. The community fund could then be governed as follows,</p>
   <ul>
    <li>The occupier controls 49% of the funds.</li>
@@ -77,9 +77,11 @@ image:    "icon-rland.svg"
  <p>I am not sure about &ldquo;Region&rdquo; and &ldquo;State,&rdquo; thus the question marks, but I suspect the latter will be around for a long time.</p>
 
 <h1>What about the the Country and Military?</h1>
- <p>Note that there is no &ldquo;Region&rdquo; circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a &ldquo;Region&rdquo; the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a Banner earmarked for a research area. I am not counting on the &ldquo;Region&rdquo; of people or &ldquo;Region&rdquo;—instead, I am counting on people&rsquo;s interests and their persuasive power when impassioned enough.</p>
+ <p>Note that there is no &ldquo;Region&rdquo; circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a &ldquo;Region&rdquo; the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a <span class='_paradigm'>BANNER</span> earmarked for a research area. I am not counting on the &ldquo;Region&rdquo; of people or &ldquo;Region&rdquo;—instead, I am counting on people&rsquo;s interests and their persuasive power when impassioned enough.</p>
+
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">The Country?</h2>
-  <p>Note that there is no &ldquo;Region&rdquo; circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a &ldquo;Region&rdquo; the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a Banner earmarked for a research area. I am not counting on the &ldquo;Region&rdquo; of people or &ldquo;Region&rdquo;&mdash;instead, I am counting on people&rsquo;s interests and the persuasive power of their enthusiasm.</p>
+  <p>Note that there is no &ldquo;Region&rdquo; circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a &ldquo;Region&rdquo; the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a <span class='_paradigm'>BANNER</span> earmarked for a research area. I am not counting on the &ldquo;Region&rdquo; of people or &ldquo;Region&rdquo;&mdash;instead, I am counting on people&rsquo;s interests and the persuasive power of their enthusiasm.</p>
+
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">The Military?</h2>
   <p>Also, there is no funds for a military or any kind of state violence. It may take longer, but that&rsquo;s where we are heading.</p>
   <p id="fnref3">But, how n&auml;ive, you might say, all it takes is a <em>few bad people</em> with weapons to take over everything, won’t it? Again, I am counting on &rsquo;s aversion to violence and how swiftly they can mobilize in a connected world to neutralize the violence of the &ldquo;Region&rdquo;<sup><a href="#fn3" rel="footnote">3</a></sup></p>
@@ -106,41 +108,23 @@ image:    "icon-rland.svg"
  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
   <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
  </p>
- <p>They do this starting from a simple foundation of interdependence,</p>
- <table align="center">
-  <colgroup>
-   <col>
-  </colgroup>
-  <tbody>
+ <p>They do this starting from a simple Foundation,</p>
+ <div class="_center">
+  <table class="_h2table">
    <tr>
-    <td valign="middle" style="text-align: right; ">principles&nbsp;&nbsp;</td>
-    <td style="text-align: center; background-color: lightgrey; ">Meaning &<br>Belonging</td>
-    <td valign="middle" style="font-size: larger; "> ⬈</td>
-    <td valign="top">relationships</td>
+    <th>people</th>
+    <td>Meaning & Belonging</td>
    </tr>
    <tr>
-    <td style="background-color: white; height: 7px;"></td>
+    <th>commitments</th>
+    <td>Decentralization & Transparency</td>
    </tr>
    <tr>
-    <td valign="middle" style="text-align: right; ">commitments&nbsp;&nbsp;</td>
-    <td style="text-align: center; background-color: lightgrey;">Transparency &<br>Decentralization</td>
-    <td valign="middle" style="font-size: larger; "> ⬈</td>
-    <td valign="top"><em>autonomy</em></td>
+    <th>practices</th>
+    <td>Experimentation</td>
    </tr>
-   <tr>
-    <td style="background-color: white; height: 7px;"></td>
-   </tr>
-   <tr>
-    <td valign="middle" style="text-align: right; ">practices&nbsp;&nbsp;</td>
-    <td style="text-align: center; background-color: lightgrey; ">Alignment &<br>Experimentation</td>
-    <td valign="middle" style="font-size: larger; "> ⬈</td>
-    <td valign="top"><em>collaboration</em></td>
-   </tr>
-   <tr>
-    <td colspan="4">&nbsp;</td>
-   </tr>
-  </tbody>
- </table>
+  </table>
+ </div>
 
 <h1>Thriving Local Communities</h1>
  <p id="fnref4">As I see it, the <span class="_paradigm">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup><a href="#fn4" rel="footnote">4</a></sup></p>
@@ -159,6 +143,7 @@ image:    "icon-rland.svg"
 <h1 class="_section">APPENDICES</h1>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; text-align:center; margin: 40px 0 20px 0; ">Terminology</h1>
+
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Common Good</h2>
   <p>A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.</p>
   <p>Land and improvements on it are common goods. If it is occupied, it is managed by the occupier until the next bid for it comes in. If it is disoccupied, then it defaults to its surrounding community until someone bids for it (<em>i.e.</em>, the community cannot counter-bid).</p>
@@ -167,22 +152,27 @@ image:    "icon-rland.svg"
    <img src="/assets/img/en-all-politics.svg" alt="Three circles: the left-most is labeled LAND OPEN FOR BIDS. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes into a bigger circle labeled COMMON GOOD. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes to a smaller circle labeled LAND OPEN FOR BIDS." title="Common Goods and Politics">
   </p>
   <p>A community may denominate land in the &ldquo;Region&rdquo; category. The community will literally prosper or not by those kinds of decisions. The <span class="_paradigm">RADICAL</span> model decentralizing principle gives the people most immediately affected a strong voice in the process.</p>
+
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Hyper-local Community</h2>
   <p>The community that is literally adjacent to the land in question. This includes communities that are physically close and those which are logically close.</p>
+
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Surrounding Community</h2>
   <p>The community that is physically or logically adjacent to the hyper-local community. </p>
+
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Improvements</h2>
   <p>Anything added to the land in question. It could be houses, barns, irrigation, drainage, electricity, etc.</p>
+
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Occupier</h2>
   <p>Occupiers are what we would call owners in our current FIAT model. The difference is that it lasts until the next bidding.</p>
   <p>If the current occupier wins, then everything continues as before. However, if somebody has a higher bid, the new occupier moves in. If the new occupier wants to do away with an improvement, she pays for doing so.</p>
   <p>In either case, the occupier pays a percentage of her bid to the community fund; note that it could be higher or lower than before. No matter, the market calculated a new value for the land and its improvements.</p>
+
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Winning Bid</h2>
-   <p>The highest bid on any parcel of land.</p>
+  <p>The highest bid on any parcel of land.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; text-align:center; margin: 40px 0 20px 0; ">FAQ</h1>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Is risk associated with companies or with <span class="_paradigm">COIN</span>s?</h2>
-   <p>This really is a distinction without a difference. A <span class="_paradigm">COIN</span> minted by a one person &ldquo;company&rdquo; will probably have a very high risk and nobody would take it.</p>
-   <p>On the other hand, there may be a young perfume maker who is very well known in his community for producing exquisite perfumes. People may accept her <span class="_paradigm">COIN</span>s based on personal knowledge.</p>
+  <p>This really is a distinction without a difference. A <span class="_paradigm">COIN</span> minted by a one person &ldquo;company&rdquo; will probably have a very high risk and nobody would take it.</p>
+  <p>On the other hand, there may be a young perfume maker who is very well known in his community for producing exquisite perfumes. People may accept her <span class="_paradigm">COIN</span>s based on personal knowledge.</p>
 
 {% include related.html %}
