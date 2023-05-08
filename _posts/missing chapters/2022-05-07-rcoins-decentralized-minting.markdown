@@ -420,11 +420,45 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
-   <li id="en6">Which has devolved from a coordination game to a competition game <a href="#fnref6"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en7">But, pay your taxes. One day we’ll be able to pay taxes with COINs and that’ll be something, but in the meantime, pay your taxes with the required coinage. <a href="#fnref7"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en8">See David Graeber’s <em>Debt: The First 5,000 Years,Updated and Expanded</em>. <<a href="https://a.co/cd9vVHk">https://a.co/cd9vVHk</a>> and Douglas McGregor’s Theory X in <em>The Human Side of Enterprise</em>, p 1. 1975 <<a href="https://radicals.world/McCTGD">https://rzadicals.world/McCTGD</a>, alt, <a href="https://www.diigo.com/item/pdf/zk1n/juhm">https://www.diigo.com/item/pdf/zk1n/juhm</a>>. <a href="#fnref8"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en9"><em>List of economic crises</em> <<a href="https://radicals.world/2Y1Kqb">https://radicals.world/2Y1Kqb</a>>. <a href="#fnref9"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en10">Philip Rosedale introduced the tool in 2005 <<a href="https://radicals.world/ny8xy3">https://radicals.world/ny8xy3</a>>. <a href="#fnref10"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
+   <li id="en6">
+    <p class="_list-item">
+     Which has devolved from a coordination game to a competition game.
+     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en7">
+    <p class="_list-item">
+     But, pay your taxes. One day we’ll be able to pay taxes with COINs and that’ll be something, but in the meantime, pay your taxes with the required coinage.
+     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en8">
+    <p class="_list-item">
+     David Graeber.
+     <em>Debt: The First 5,000 Years,Updated and Expanded</em>.
+     &lt;<a href="https://a.co/cd9vVHk">https://a.co/cd9vVHk</a>&gt;
+     Douglas McGregor.
+     <em>Theory X<em>.
+     The Human Side of Enterprise, p 1.
+     1975
+     &lt;<a href="https://radicals.world/McCTGD">https://rzadicals.world/McCTGD</a>&gt; (alt, &lt;<a href="https://www.diigo.com/item/pdf/zk1n/juhm">https://www.diigo.com/item/pdf/zk1n/juhm</a>&gt;).
+     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en9">
+    <p class="_list-item">
+     <em>List of economic crises</em>.
+     &lt;<a href="https://radicals.world/2Y1Kqb">https://radicals.world/2Y1Kqb</a>&gt;
+     <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en10">
+    <p class="_list-item">
+     Philip Rosedale introduced the tool in 2005.
+     &lt;<a href="https://radicals.world/ny8xy3">https://radicals.world/ny8xy3</a>&gt;
+     <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
    <li id="en11">For more, see <em><span class="_paradigm">RADICAL COMPANIES</span> – RADs, PRI,</em> <<a href="https://radicals.world/lj3pH2">https://radicals.world/lj3pH2</a>> and <em><span class="_paradigm">RADICAL COMPANIES</span></em>, <<a href="https://radicals.world/AS7Ofo">https://radicals.world/AS7Ofo</a>> <a href="#fnref11"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
    <li id="en12">This coincides with Michael Linton’s idea of letting different businesses decide what percentage of local versus fiat currency a business will take. See <em>Covestment with Community Currencies</em> <<a href="https://radicals.world/edEy3f">https://radicals.world/edEy3f</a>> <a href="#fnref12"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
    <li id="en13"><em>List of economic crises</em><<a href="https://radicals.world/2Y1Kqb">https://radicals.world/2Y1Kqb</a>>. <a href="#fnref13"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
