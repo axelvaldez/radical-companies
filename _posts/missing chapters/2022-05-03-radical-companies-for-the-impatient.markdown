@@ -174,58 +174,54 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better (&ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it&rdquo; <a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a>). They will learn from their peers to value their own accomplishments. They will also learn to talk about their failures, what they&rsquo;ve learned from them, and how this learning can be valuable to others.</p>
 
  <h2><span class="_paradigm">RADICAL DISTRIBUTIONS</span> Include <span class="_paradigm">BANNER</span>s</h2>
-   <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people. But what about team accomplishments, causes, communities, or new projects? Even though they are not people, they, too, be supported with <span class="_paradigm">BANNER</span>s</p>
-   <p style="width: 80%; margin: 0 auto 6px auto; ">
-    <img src="/assets/img/en-banner.svg" alt="Two post-its as examples of banners. The one of the left reads, 'Community: Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
-   </p>
-    <div class="_center">
-     <table class="_h2table">
-      <tbody style="font-size:smaller; vertical-align: top; ">
-       <tr>
-        <th>
-         <p>Teams</p>
-        </th>
-        <td>
+  <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people. But what about team accomplishments, causes, communities, or new projects? Even though they are not people, they, too, be supported with <span class="_paradigm">BANNER</span>s</p>
+  <p style="width: 80%; margin: 0 auto 6px auto; ">
+   <img
+    src="/assets/img/en-banner.svg"
+    alt="Two post-its as examples of banners. The one of the left reads, 'Community: Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'"
+    title="Banners"
+   >
+  </p>
+  <p>TEST</p>
+   <div class="_center">
+    <table class="_h2table">
+     <tbody style="font-size:smaller; vertical-align: top; ">
+      <tr>
+       <th>Teams</th>
+       <td>
          <p style="margin-bottom:6px; margin-left;0;">Teams can be represented by a <span class="_paradigm">BANNER</span>s. &ldquo;re: Recognize our IT support team for how they handled the storm.&rdquo; </p>
-        </td>
-       </tr>
-       <tr style="vertical-align: top; ">
-        <th>
-         <p>Special Accomplishment</p>
-        </th>
-        <td>
-         <p style="margin-bottom:6px; margin-left;0;">&ldquo;Margot deserves to be recognized for stewarding the creation of our training platform.&rdquo; This may be in addition to other contributions that Margot has made. Maybe her role in &ldquo;stewarding the creation of our training platform&rdquo; was not as visible, but her teammates feel she deserves a wider recognition.</p>
-        </td>
-       </tr>
-       <tr>
-        <th>
-         <p>Community</p>
-        </th>
-        <td>
-         <p style="margin-bottom:6px; margin-left;0;">For example, a &ldquo;No Noise&rdquo; <span class="_paradigm">BANNER</span> could fund a sound barrier around a noisy factory. A &ldquo;River Walk&rdquo; <span class="_paradigm">BANNER</span> could fund a clean up and beautification of a stream that runs nearby. A <span class="_paradigm">BANNER</span> could even fund a local vet hospital to help it recover from a fire.</p>
-        </td>
-       </tr>
-       <tr>
-        <th>
-         <p>Experimental Projects</p>
-        </th>
-        <td>
-         <p style="margin-bottom:3px; ">At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects (<em>e.g.</em>Google News came out of it). That was a generous gift from the <span class="_paradigm">FIAT</span> owners, but the same owners later took it away.</p>
-         <p style="margin-bottom:6px; margin-left;0;">For a <span class="_paradigm">RADICAL</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">BANNER</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">BANNER</span>s could fund that specific project.</p>
-        </td>
-       </tr>
-       <tr>
-        <th>
-         <p>Investments</p>
-        </th>
-        <td>
-         <p style="margin-bottom:3px; ">In <span class="_paradigm">FIAT</span> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has to do with ego and fear, like a pharaoh&rsquo;s pyramid.</p>
-         <p style="margin-bottom:6px; margin-left;0;">In a <span class="_paradigm">RADICAL</span> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">BANNER</span>s for co-owners to contribute to the funding of it or not.</p>
-        </td>
-       </tr>
-      </tbody>
+       </td>
+      </tr>
+      <tr style="vertical-align: top; ">
+       <th>Special Accomplishment</th>
+       <td>
+        <p style="margin-bottom:6px; margin-left;0;">&ldquo;Margot deserves to be recognized for stewarding the creation of our training platform.&rdquo; This may be in addition to other contributions that Margot has made. Maybe her role in &ldquo;stewarding the creation of our training platform&rdquo; was not as visible, but her teammates feel she deserves a wider recognition.</p>
+       </td>
+      </tr>
+      <tr>
+       <th>Community</th>
+       <td>
+        <p style="margin-bottom:6px; margin-left;0;">For example, a &ldquo;No Noise&rdquo; <span class="_paradigm">BANNER</span> could fund a sound barrier around a noisy factory. A &ldquo;River Walk&rdquo; <span class="_paradigm">BANNER</span> could fund a clean up and beautification of a stream that runs nearby. A <span class="_paradigm">BANNER</span> could even fund a local vet hospital to help it recover from a fire.</p>
+       </td>
+      </tr>
+      <tr>
+       <th>Experimental Projects</th>
+       <td>
+        <p style="margin-bottom:3px; ">At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects (<em>e.g.</em>Google News came out of it). That was a generous gift from the <span class="_paradigm">FIAT</span> owners, but the same owners later took it away.</p>
+        <p style="margin-bottom:6px; margin-left;0;">For a <span class="_paradigm">RADICAL</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">BANNER</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">BANNER</span>s could fund that specific project.</p>
+       </td>
+      </tr>
+      <tr>
+       <th>Investments</th>
+       <td>
+        <p style="margin-bottom:3px;  margin-left;0;">In <span class="_paradigm">FIAT</span> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has to do with ego and fear, like a pharaoh&rsquo;s pyramid.</p>
+        <p style="margin-bottom:6px; margin-left;0; ">In a <span class="_paradigm">RADICAL</span> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">BANNER</span>s for co-owners to contribute to the funding of it or not.</p>
+       </td>
+      </tr>
+     </tbody>
     </table>
    </div>
+  <p>TEST</p>
 
  <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include <span class="_paradigm">RETROSPECTIVE</span>s</h2>
    <p>At a <span class="_paradigm">RADICAL RETROSPECTIVE</span>, members discuss the criteria they used to allocate <span class="_paradigm">RAD</span>s. Participation in these <span class="_paradigm">RETROSPECTIVE</span>s is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
