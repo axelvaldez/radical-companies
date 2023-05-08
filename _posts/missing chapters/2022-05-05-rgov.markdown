@@ -10,9 +10,8 @@ image:    "icon-gov.svg"
  <p>Unpolished thoughts about national governments in a <span style="font-size: smaller; ">RADICAL</span> world.</p>
 </div>
 
-<div>
- <pre class="prettyprint" style="font-size:25px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; ">If the land-value tax were adopted as the sole means of raising [USA] government revenue, it would have funded [in 2009] less than half of the federal budget, and none of the budgets of all 50 states and thousands of cities, towns, and counties.<sup id="en01"><a href="#fn01" rel="endnotes">1</a></sup></pre>
- <pre class="prettyprint" style="font-size:25px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter, serif; white-space:normal; padding:1em; ">"&hellip; taxes are not the solution …"<sup id="en02"><a href="#fn02" rel="endnotes">2</a></sup></pre>
+<div class="_citation">
+ <p>"&hellip; taxes are not the solution …"<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 </div>
 
 <h1>Introduction</h1>
@@ -93,44 +92,46 @@ image:    "icon-gov.svg"
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment">
   </p>
-  <p>They do this starting from a simple foundation,</p>
-  <table align="center">
-   <tr>
-    <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-    <td style="text-align:center; background-color:#EEEEEE; ">Meaning &<br>Belonging</td>
-    <td valign="middle" style="font-size:xx-large; "> ⬈</td>
-    <td valign="top"><em>relationships</em></td>
-   </tr>
-   <tr>
-    <td style="background-color: white; height: 7px;"></td>
-   </tr>
-   <tr>
-    <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-    <td style="text-align:center; background-color:#EEEEEE;">Transparency &<br>Decentralization</td>
-    <td valign="middle" style="font-size:xx-large; "> ⬈</td>
-    <td valign="top"><em>autonomy</em></td>
-   </tr>
-   <tr>
-    <td style="background-color: white; height: 7px;"></td>
-   </tr>
-   <tr>
-    <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-    <td style="text-align:center; background-color:#EEEEEE; ">Alignment &<br>Experimentation</td>
-    <td valign="middle" style="font-size:xx-large; "> ⬈</td>
-    <td valign="top"><em>collaboration</em></td>
-   </tr>
-   <tr>
-    <td colspan="4">&nbsp;</td>
-   </tr>
-  </table>
+  <p>They do this starting from a simple Foundation,</p>
+   <div class="_center">
+    <table class="_h2table">
+     <tr>
+      <th>people</th>
+      <td>Meaning & Belonging</td>
+     </tr>
+     <tr>
+      <th>commitments</th>
+      <td>Decentralization & Transparency</td>
+     </tr>
+     <tr>
+      <th>practices</th>
+      <td>Experimentation</td>
+     </tr>
+    </table>
+   </div>
   <h2 style="font-size:30px; font-family:Courier New, monospace; ">Evolution, Interrupted</h2>
   <p>As I see it, the <span style="font-size: smaller; ">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
   <p>The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of nterdependence towards a higher level of collaboration.</p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol style="font-size:smaller; ">
-  <li id="fn01">Matt Perez, Adrian Perez, Jose Leal. RADICAL COMPANIES: Without Bosses or Employees. Pradera Media, 2021. <a href="#enf01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
-  <li id="fn02">Reforming Reckless Government Spending. The Heritage Foundation (of course) <<a href="https://diigo.com/0nct6w">https://diigo.com/0nct6w</a>> <a href="#en02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
- </ol>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    Matt Perez, Adrian Perez, Jose Leal.
+    <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
+    Pradera Media.
+    2021.
+    <a href="#en01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; ">
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    Reforming Reckless Government Spending.
+    &lt;<a href="https://diigo.com/0nct6w">https://diigo.com/0nct6w</a>&gt;
+    The Heritage Foundation.
+    <a href="#en02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+   </p>
+  </li>
+ </ul>
 
 {% include related.html %}
