@@ -106,7 +106,10 @@ image:    "icon-radical-companies-for-the-impatient.svg"
  <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Are Scalable</h2>
   <p>People are the best judges of <em>what</em> a contribution is and <em>who</em> is making it and it doesn't take that many peole to cover the whole team. If somebody doesn't get any <span class="_paradigm">RAD</span>s at all, it's probably because he is totally disconnected or none of his work looks like contributions to however many people make up the company.</p>
    <div class="_center">
+<!--
     <table class="_h2table">
+-->
+    <table>
      <tr>
       <td colspan="4">
        <img
