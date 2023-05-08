@@ -10,10 +10,6 @@ image:    "icon-gov.svg"
  <p>Unpolished thoughts about national governments in a <span style="font-size: smaller; ">RADICAL</span> world.</p>
 </div>
 
-<div class="_citation">
- <p>"&hellip; taxes are not the solution …"<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
-</div>
-
 <h1>Introduction</h1>
  <p>In the book <a href="https://radicals.world/">RADICAL COMPANIES</a>, we considered how the <span class="_paradigm">RADICAL</span> model would work in a company environment, but we said next to nothing about <a href="https://radicalcompanies.com/2022/05/07/rcoins-decentralized-minting" target="blank">money</a>, <a href="https://radicalcompanies.com/2022/05/06/rland">land</a>, or government.</p>
  <p>In <a href="https://radicalcompanies.com/2022/05/07/rcoins-decentralized-minting"><span class="_paradigm">rCOIN</span></a>, I laid out my ideas about money and what it would look like in a decentralized, transparent world. In <a href="https://docs.google.com/document/d/10ZJWvCbxfhz4qtwhRr678nLyWPhn-zKWuD590yqQsJ0/edit#heading=h.gdgppswdot76"><span style="font-size: smaller; ">LAND</span></a>, I put down my thoughts on how land would be handled in a <span style="font-size: smaller; ">RADICAL</span> world.</p>
@@ -41,7 +37,7 @@ image:    "icon-gov.svg"
   <h2 style="font-size:30px; font-family:Courier New, monospace; ">Economic Development</h2>
    <p>“Economic development” is where elected government goes over the line and gets involved in the creation of private goods for businesses and their owners in the name of “job creation.” In a <span style="font-size: smaller; ">RADICAL</span> world, city governments are no longer responsible for any of this—everybody is capable and has the means to build their own wealth creating communities.</p>
   <h2 style="font-size:30px; font-family:Courier New, monospace; ">Car Traffic</h2>
-   <p>Let&rsquo;s take traffic next. I predict that all things traffic are going to change dramatically, very quickly. As I write this, <a href="https://getcruise.com">CRUISE</a> launched a driverless, Uber-like service in San Francisco. It won&rsquo;t take long before its price comes down to the point that it will not make sense for individuals to own cars, and house cars, and loiter the streets with parked cars. Eventually, a car can own itself. Autonomous cars will house themselves out of sight throughout an urban area and there  won&rsquo;t be cars parked on the side of roads, and.</p>
+   <p>Let&rsquo;s take traffic next. I predict that all things traffic are going to change dramatically, very quickly. As I write this, <a href="https://getcruise.com" target="_blank">CRUISE</a> launched a driverless, Uber-like service in San Francisco. It won&rsquo;t take long before its price comes down to the point that it will not make sense for individuals to own cars, and house cars, and loiter the streets with parked cars. Eventually, a car can own itself. Autonomous cars will house themselves out of sight throughout an urban area and there  won&rsquo;t be cars parked on the side of roads, and.</p>
    <p>The next development is to have intra-vehicle communication. With that and the sensor in every vehicle, we won&rsquo;t need traffic lights or signage.</p>
    <p>So, take all things traffic off the city&rsquo;s todo list.</p>
   <h2 style="font-size:30px; font-family:Courier New, monospace; ">Infrastructure</h2>
@@ -83,7 +79,7 @@ image:    "icon-gov.svg"
  <p>A <span style="font-size: smaller; ">RADICAL</span> world, too, is centered around accomplishments and real innovation, but it prioritizes what&rsquo;s important to people first, ahead of everything else, including money. We&rsquo;ll still be individuals, with our own needs, rights, and idiosyncrasies. We are not going to become a number. The <span style="font-size: smaller; ">RADICAL</span> model is centered on trust, the type that comes from community and collaboration.</p>
 
 <h1>The Three Branches</h1>
- <p>Throughout the stuff above, there is a general disregard for the separation of powers so central to democratic governments today. That system was designed as a Mexican standoff, a confrontation which does not allow any party to achieve victory. Evern brand of government monitors and regulates the other branches.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> That was the <span style="font-size: smaller; ">FIAT</span> solution to not having a King or Queen.</p>
+ <p>Throughout the stuff above, there is a general disregard for the separation of powers so central to democratic governments today. That system was designed as a Mexican standoff, a confrontation which does not allow any party to achieve victory. Evern brand of government monitors and regulates the other branches.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> That was the <span style="font-size: smaller; ">FIAT</span> solution to not having a King or Queen.</p>
  <p>In a <span style="font-size: smaller; ">RADICAL</span> world, there would not be such a separation, although there might be in particular cases.</p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">The <span style="font-size: smaller; ">RADICAL</span> Model</h2>
   <p>We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands, via a hierarchy, that tell people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it. In this document, we assume a <span style="font-size: smaller; ">RADICAL</span> world that is, at the same time, alike and different from our world today.</p>
@@ -110,7 +106,7 @@ image:    "icon-gov.svg"
     </table>
    </div>
   <h2 style="font-size:30px; font-family:Courier New, monospace; ">Evolution, Interrupted</h2>
-  <p>As I see it, the <span style="font-size: smaller; ">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup></p>
+  <p>As I see it, the <span style="font-size: smaller; ">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve it.<a href="#en02"><sup id="bm03\2">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of nterdependence towards a higher level of collaboration.</p>
 
 <h1 class="_section">ENDNOTES</h1>
