@@ -121,12 +121,13 @@ image:    "icon-gov.svg"
     <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
     Pradera Media.
     2021.
+    &lt;<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p class="_list-item">
-    Reforming Reckless Government Spending.
+    <em>Reforming Reckless Government Spending.</em>
     &lt;<a href="https://diigo.com/0nct6w" target="_blank">https://diigo.com/0nct6w</a>&gt;
     The Heritage Foundation.
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
