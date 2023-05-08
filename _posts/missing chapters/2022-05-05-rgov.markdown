@@ -121,9 +121,7 @@ image:    "icon-gov.svg"
     <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
     Pradera Media.
     2021.
-    <a class="_uparrow" href="#bm01">
-     <img src="/assets/img/arrow-up-icon.png">
-    </a>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
