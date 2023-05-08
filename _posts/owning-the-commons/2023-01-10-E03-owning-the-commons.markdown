@@ -47,7 +47,7 @@ image:    "icon-owning-the-commons-3-3.svg"
  </ul>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     No offense meant. This does come from very, <em>very</em> old shoot’em up western movies.
@@ -68,6 +68,6 @@ image:    "icon-owning-the-commons-3-3.svg"
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
