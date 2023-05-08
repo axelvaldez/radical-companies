@@ -11,7 +11,7 @@ image:    "icon-radical-companies-faq.svg"
 </div>
 
 <h1>Intro</h1>
- <p>These questions come from readers of the <a href="https://radicalcompanies.com">RADICAL COMPANIES: Without Bosses or Employess</a> book or the post, <a href="">RADICAL COMPANIES for the Impatient</a>.</p>
+ <p>These questions come from readers of the <a href="https://radicalcompanies.com">RADICAL COMPANIES: Without Bosses or Employess</a> book or the post, <a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient">RADICAL COMPANIES for the Impatient</a>.</p>
 
 <h1 class="_section">Co-Ownership</h1>
 
