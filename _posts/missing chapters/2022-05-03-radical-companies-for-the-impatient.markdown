@@ -13,7 +13,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
 <h1>The <span class="_paradigm">RADICAL</span> Model</h1>
 
  <h2>Businesses-as-Dictatorships Hurt Us</h2>
-  <p>Our collapsing climate, the gaping wealth gap, discrimation, and exploitation are but a few of the inescapable side-effects of the system we live in. A system that &ldquo;divides, demonizes, and causes us to suspend our intincts toward better.&rdquo;<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> But it has also brought us abundance and we don not want to throw the baby out with the bathwater. What is clear is that we need a generative way of relating to one another, a different paradigm. As we see it, businesses are the place to start, transformed into companies they are the incubators for what comes next.</p>
+  <p>Our collapsing climate, the gaping wealth gap, discrimation, and exploitation are but a few of the inescapable side-effects of the system we live in. A system that &ldquo;divides, demonizes, and causes us to suspend our intincts toward better.&rdquo; <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> But it has also brought us abundance and we don not want to throw the baby out with the bathwater. What is clear is that we need a generative way of relating to one another, a different paradigm. As we see it, businesses are the place to start, transformed into companies they are the incubators for what comes next.</p>
   <p>Nature follows a simple path to create big beautiful things out of small, unpretentious ones. From a tiny seed to a mighty oak tree. We don&rsquo;t think that a long list of color scales or a 17-page constitution are necessary, or even helpful, to make a fundamental change. Eventually, these can become dogma, a form of force, and sabotage our progress. With that in mind, we came up with what we think is the simplest, most basic foundation to support our coming together to share work and wealth.</p>
  <h2><span class="_paradigm">RADICAL</span> Company Foundation</h2>
   <p>In <span class="_paradigm">RADICAL</span> speak, a company is what we call a group of people who come together to build something bigger than themselves. In fact, the word &ldquo;company&rdquo; comes from the Latin <em>con-</em>, meaning &lsquo;together&rsquo;, and <em>pan</em>, meaning &lsquo;bread.&rsquo; In other words, people who break bread together.</p>
@@ -35,11 +35,11 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     </table>
    </div>
   <p>Other practices can be layered on top of these, but for a <span class="_paradigm">RADICAL</span> company this foundation is essential, otherwise it is just a <span class="_paradigm">FIAT</span> business with ain&rsquo;t-we-nice sprinkled on top.</p>
-  <p>Hierarchies don&rsquo;t just go away, but, unlike in a <span class='_paradigm'>FIAT</span> business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what&rsquo;s needed, at a particular time, by the people involved. &ldquo;An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. &hellip; The org chart is insufficient.&rdquo;<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+  <p>Hierarchies don&rsquo;t just go away, but, unlike in a <span class='_paradigm'>FIAT</span> business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what&rsquo;s needed, at a particular time, by the people involved. &ldquo;An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. &hellip; The org chart is insufficient.&rdquo; <a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
 
  <h2>Alignment Must Be Explicit and Transparent</h2>
   <p>In order to create a <span class="_paradigm">RADICAL</span> company, you first need to be explicit about the company&rsquo;s IMPACT  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump them in different ways, but, no matter, they have to be explicit and completely open and accessible to everyone.</p>
-  <p>The three-finger Scout Salute<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> is a good mnemonic for it,</p>
+  <p>The three-finger Scout Salute <a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> is a good mnemonic for it,</p>
   <pre style="font-family: courier new; text-align: center; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/en-alignment.svg" alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION" title="Elements of Alignment" style="width: 80%; ">
   </pre>
@@ -48,7 +48,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     <p style="margin-bottom:6px; margin-left;0;">Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.</p>
    </li>
    <li>
-    <p style="margin-bottom:6px; margin-left;0;">Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, &ldquo;&hellip; a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.&rdquo;<a href="#en04"><sup id="bm04">4&nbsp;</sup></a></p>
+    <p style="margin-bottom:6px; margin-left;0;">Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, &ldquo;&hellip; a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.&rdquo; <a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
    </li>
    <li>
     <p style="margin-bottom:6px; margin-left;0;">Purpose is the reason why we, as a company, are focused on this particular Impact. It doesn&rsquo;t have to be world shaking and it doesn&rsquo;t have to strum your heart&rsquo;s strings. An effective Purpose must clearly express <em>why</em> it is important for others to join us in this adventure.</p>
@@ -60,10 +60,10 @@ image:    "icon-radical-companies-for-the-impatient.svg"
  <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to <em>everybody</em> in the team.</p>
 
 <h1>Recognizing Contributions</h1>
- <p>The Distribution mechanism we describe below recognizes contributions, makes ownership decentralized and dynamic, supports egalitarian and equitable wealth sharing, and it scales to organizations of any size.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
+ <p>The Distribution mechanism we describe below recognizes contributions, makes ownership decentralized and dynamic, supports egalitarian and equitable wealth sharing, and it scales to organizations of any size. <a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a></p>
 
  <h2>The Rosedale Distribution</h2>
-  <p style="margin-bottom:10px; ">Rosedale Distribution<a href="#en06"><sup id="bm06">6&nbsp;</sup></a> is our name for a practice that we first heard from entrepreneur Philip Rosedale,</p>
+  <p style="margin-bottom:10px; ">Rosedale Distribution <a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a> is our name for a practice that we first heard from entrepreneur Philip Rosedale,</p>
   <ul>
    <li>
     <p style="margin-bottom:6px; margin-left;0;">As the company grows, cash and shares are put out for distribution every month.</p>
@@ -131,7 +131,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    </ul>
   </p>
 
-  <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Are Scalable</h2>
+ <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Are Scalable</h2>
    <p>People are the best judges of <em>what</em> a contribution is and <em>who</em> is making it and it doesn't take that many peole to cover the whole team. If somebody doesn't get any <span class="_paradigm">RAD</span>s at all, it's probably because he is totally disconnected or none of his work looks like contributions to however many people make up the company.</p>
    <table style="width: 80%; margin: 0 auto; ">
     <tr>
@@ -171,9 +171,9 @@ image:    "icon-radical-companies-for-the-impatient.svg"
      <td colspan="4">&nbsp;</td>
     </tr>
    </table>
-   <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better (&ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it&rdquo;<a href="#en07"><sup id="bm07">7&nbsp;</sup></a>). They will learn from their peers to value their own accomplishments. They will also learn to talk about their failures, what they&rsquo;ve learned from them, and how this learning can be valuable to others.</p>
+   <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better (&ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it&rdquo; <a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a>). They will learn from their peers to value their own accomplishments. They will also learn to talk about their failures, what they&rsquo;ve learned from them, and how this learning can be valuable to others.</p>
 
-  <h2><span class="_paradigm">RADICAL DISTRIBUTIONS</span> Include <span class="_paradigm">BANNER</span>s</h2>
+ <h2><span class="_paradigm">RADICAL DISTRIBUTIONS</span> Include <span class="_paradigm">BANNER</span>s</h2>
    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people. But what about team accomplishments, causes, communities, or new projects? Even though they are not people, they, too, be supported with <span class="_paradigm">BANNER</span>s</p>
    <p style="width: 80%; margin: 0 auto 6px auto; ">
     <img src="/assets/img/en-banner.svg" alt="Two post-its as examples of banners. The one of the left reads, 'Community: Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'" title="Banners">
@@ -224,7 +224,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     </tbody>
   </table>
 
-  <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include <span class="_paradigm">RETROSPECTIVE</span>s</h2>
+ <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include <span class="_paradigm">RETROSPECTIVE</span>s</h2>
    <p>At a <span class="_paradigm">RADICAL RETROSPECTIVE</span>, members discuss the criteria they used to allocate <span class="_paradigm">RAD</span>s. Participation in these <span class="_paradigm">RETROSPECTIVE</span>s is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
   <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include Feedback</h2>
    <p>Anybody who wants to can call for a feedback session after a <span class="_paradigm">DISTRIBUTION</span>. In particular, people who didn&rsquo;t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it&rsquo;s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
