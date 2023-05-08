@@ -94,7 +94,6 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     <li  style="text-indent:0;">On the other hand, my <em>percentage</em> of the total could go up, stay the same, or go down at every <span class="_paradigm">DISTRIBUTION</span>. For example, if I get 100 <span class="_paradigm">RAD</span>s from a total of 1,000, then I have 10% of the total. If I get 50 <span class="_paradigm">RAD</span>s this cycle, I have 150 <span class="_paradigm">RAD</span>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</span>s, my percentage stays at 10%. In the worst case, if I don&rsquo;t get any new <span class="_paradigm">RAD</span>s, my percentage goes down to 8%.</li>
     <li  style="text-indent:0;">When money, or time, or whatever else is disbursed later, it is done as a function of the number of <span class="_paradigm">RAD</span>s each person owns. For example, if you have accumulated 200 <span class="_paradigm">RAD</span>s and I have 100, then you&rsquo;ll get twice as much as me of whatever is being factored through the <span class="_paradigm">RAD</span>s.</li>
    </ul>
-  </p>
   <p>Allocations work like this,</p>
    <ul>
     <li  style="text-indent:0;">Co-owners get to recognize contributions by pressing a button in the RADs! app. They can press this &ldquo;recognition&rdquo; button as many times as they <em>feel</em> like.</li>
