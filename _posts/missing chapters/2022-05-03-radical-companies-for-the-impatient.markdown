@@ -83,60 +83,39 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   <p>Instead of cash or stocks, <span class="_paradigm">RADICAL DISTRIBUTION</span> uses a dimensionless unit we call a <span class="_paradigm">RAD</span>. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, <span class="_paradigm">RAD</span>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>.</p>
   <p>RADs represent any kind of contribution (<em>i.e.,</em> not just financial). In fact, as an accounting tool, <span class="_paradigm">RAD</span>s account for the unaccountable.</p>
   <p>Co-owners then get to distribute RADs according to their individual judgment. Each decides what is an <em>equitable</em> number of <span class="_paradigm">RAD</span>s to give to other co-owners as recognition for their contributions. The value of the whole emerges from the judgment of the many.</p> 
-  <p>A few important observations about <span class="_paradigm">RAD</span>,
+  <p>A few important observations about <span class="_paradigm">RAD</span>,</p>
    <ul>
-    <li>
-     <p style="margin-bottom:6px; margin-left;0;"><span class="_paradigm">RAD</span>s are not a currency.</p>
-    </li>
-    <li>
-     <p style="margin-bottom:6px; margin-left;0;"><span class="_paradigm">RAD</span>s are issued even before there is revenue because contributions happen regardless of revenue.</p>
-    </li>
-    <li>
-     <p style="margin-bottom:6px; margin-left;0;">The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every <span class="_paradigm">DISTRIBUTION RESTROSPECTIVE</span> new criteria are fleshed out and harvested to use as guidelines.</p>
-    </li>
-    <li>
-     <p style="margin-bottom:6px; margin-left;0;"><span class="_paradigm">RAD</span>s represent <em>dynamic</em> ownership. One month you may give me all your <span class="_paradigm">RAD</span>s, but the next month you may not give me any.</p>
-    </li>
-    <li>
-     <p style="margin-bottom:6px; margin-left;0;">To calculate your percentage ownership, divide the number of <span class="_paradigm">RAD</span>s you have been given by the total number of <span class="_paradigm">RAD</span>s.</p>
-    </li>
-    <li>
-     <p style="margin-bottom:6px; margin-left;0;">The absolute number of <span class="_paradigm">RAD</span>s allocated to me either stays the same or goes up at every <span class="_paradigm">DISTRIBUTION</span>, but it never goes down. For example, if I had 100 <span class="_paradigm">RAD</span>s last cycle and I get 50 this cycle, my total number of <span class="_paradigm">RAD</span>s goes to 150. If I don&rsquo;t get any this cycle, my total number of <span class="_paradigm">RAD</span>s stays at 100.</p>
-    </li>
-    <li>
-     <p style="margin-bottom:6px; margin-left;0;">On the other hand, my <em>percentage</em> of the total could go up, stay the same, or go down at every <span class="_paradigm">DISTRIBUTION</span>. For example, if I get 100 <span class="_paradigm">RAD</span>s from a total of 1,000, then I have 10% of the total. If I get 50 <span class="_paradigm">RAD</span>s this cycle, I have 150 <span class="_paradigm">RAD</span>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</span>s, my percentage stays at 10%. In the worst case, if I don&rsquo;t get any new <span class="_paradigm">RAD</span>s, my percentage goes down to 8%.</p>
-    </li>
-    <li>
-     <p style="margin-bottom:6px; margin-left;0;">When money, or time, or whatever else is disbursed later, it is done as a function of the number of <span class="_paradigm">RAD</span>s each person owns. For example, if you have accumulated 200 <span class="_paradigm">RAD</span>s and I have 100, then you&rsquo;ll get twice as much as me of whatever is being factored through the <span class="_paradigm">RAD</span>s.</p>
-    </li>
+    <li  style="margin-bottom:6px; margin-left;0;"><span class="_paradigm">RAD</span>s are not a currency.</li>
+    <li  style="margin-bottom:6px; margin-left;0;"><span class="_paradigm">RAD</span>s are issued even before there is revenue because contributions happen regardless of revenue.</li>
+    <li  style="margin-bottom:6px; margin-left;0;">The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every <span class="_paradigm">DISTRIBUTION RESTROSPECTIVE</span> new criteria are fleshed out and harvested to use as guidelines.</li>
+    <li  style="margin-bottom:6px; margin-left;0;"><span class="_paradigm">RAD</span>s represent <em>dynamic</em> ownership. One month you may give me all your <span class="_paradigm">RAD</span>s, but the next month you may not give me any.</li>
+    <li  style="margin-bottom:6px; margin-left;0;">To calculate your percentage ownership, divide the number of <span class="_paradigm">RAD</span>s you have been given by the total number of <span class="_paradigm">RAD</span>s.</li>
+    <li  style="margin-bottom:6px; margin-left;0;">The absolute number of <span class="_paradigm">RAD</span>s allocated to me either stays the same or goes up at every <span class="_paradigm">DISTRIBUTION</span>, but it never goes down. For example, if I had 100 <span class="_paradigm">RAD</span>s last cycle and I get 50 this cycle, my total number of <span class="_paradigm">RAD</span>s goes to 150. If I don&rsquo;t get any this cycle, my total number of <span class="_paradigm">RAD</span>s stays at 100.</li>
+    <li  style="margin-bottom:6px; margin-left;0;">On the other hand, my <em>percentage</em> of the total could go up, stay the same, or go down at every <span class="_paradigm">DISTRIBUTION</span>. For example, if I get 100 <span class="_paradigm">RAD</span>s from a total of 1,000, then I have 10% of the total. If I get 50 <span class="_paradigm">RAD</span>s this cycle, I have 150 <span class="_paradigm">RAD</span>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</span>s, my percentage stays at 10%. In the worst case, if I don&rsquo;t get any new <span class="_paradigm">RAD</span>s, my percentage goes down to 8%.</li>
+    <li  style="margin-bottom:6px; margin-left;0;">When money, or time, or whatever else is disbursed later, it is done as a function of the number of <span class="_paradigm">RAD</span>s each person owns. For example, if you have accumulated 200 <span class="_paradigm">RAD</span>s and I have 100, then you&rsquo;ll get twice as much as me of whatever is being factored through the <span class="_paradigm">RAD</span>s.</li>
    </ul>
   </p>
   <p>Allocations work like this,
    <ul>
-    <li>
-     <p style="margin-bottom:6px; margin-left;0;">Co-owners get to recognize contributions by pressing a button in the RADs! app. They can press this &ldquo;recognition&rdquo; button as many times as they <em>feel</em> like.</p>
-    </li>
-    <li>
-     <p style="margin-bottom:6px; margin-left;0;">Co-owners get one <span class="_paradigm">RAD</span> per day.</p>
-    </li>
-    <li>
-     <p style="margin-bottom:6px; margin-left;0;">At the end of the cycle, the number of recognitions you have given are divided by the total number of recognitions given by everybody during the cycle. By multiplying this percentage by the total number of RADs accumulated during the cycle, we get the number of RADs each persson gets.</p>
-    </li>
-    <li>
-     <p style="margin-bottom:6px; margin-left;0;">Each member gets to recognize contributions as they see fit. For example, you may end up giving 50% of your <span class="_paradigm">RAD</span>s to Adrian, 33% to Jose, and 1.7% to me. This would allocate, roughtly, 15 <span class="_paradigm">RAD</span>s to Adrian, 10 to Jose, and 5 to me.</p>
-    </li>
-    <li>
-     <p style="margin-bottom:6px; margin-left;0;">You may have <span class="_paradigm">DISTRIBUTION</span> events once a month, where everybody celebrates and give feedback.</p>
-    </li>
+    <li  style="margin-bottom:6px; margin-left;0;">Co-owners get to recognize contributions by pressing a button in the RADs! app. They can press this &ldquo;recognition&rdquo; button as many times as they <em>feel</em> like.</li>
+    <li  style="margin-bottom:6px; margin-left;0;">Co-owners get one <span class="_paradigm">RAD</span> per day.</li>
+    <li  style="margin-bottom:6px; margin-left;0;">At the end of the cycle, the number of recognitions you have given are divided by the total number of recognitions given by everybody during the cycle. By multiplying this percentage by the total number of RADs accumulated during the cycle, we get the number of RADs each persson gets.</li>
+    <li  style="margin-bottom:6px; margin-left;0;">Each member gets to recognize contributions as they see fit. For example, you may end up giving 50% of your <span class="_paradigm">RAD</span>s to Adrian, 33% to Jose, and 1.7% to me. This would allocate, roughtly, 15 <span class="_paradigm">RAD</span>s to Adrian, 10 to Jose, and 5 to me.</li>
+    <li  style="margin-bottom:6px; margin-left;0;">You may have <span class="_paradigm">DISTRIBUTION</span> events once a month, where everybody celebrates and give feedback.</li>
    </ul>
-  </p>
 
  <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Are Scalable</h2>
   <p>People are the best judges of <em>what</em> a contribution is and <em>who</em> is making it and it doesn't take that many peole to cover the whole team. If somebody doesn't get any <span class="_paradigm">RAD</span>s at all, it's probably because he is totally disconnected or none of his work looks like contributions to however many people make up the company.</p>
    <div class="_center">
     <table class="_h2table">
      <tr>
-      <td colspan="4"><img src="/assets/img/icon-dynamic-distribution-1.svg" alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person." title="1 person's point of view: 17 of 56 people."></td>
+      <td colspan="4">
+       <img
+        src="/assets/img/icon-dynamic-distribution-1.svg"
+        alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person."
+        title="1 person's point of view: 17 of 56 people."
+       >
+      </td>
      </tr>
      <tr>
       <td colspan="4" style="font-size: larger; text-align: center; ">1 person&rsquo;s point of view: 17 of 56 people.</td>
@@ -187,8 +166,9 @@ image:    "icon-radical-companies-for-the-impatient.svg"
      </tr>
      <tr>
       <td colspan="4">&nbsp;</td>
-    </tr>
-   </table>
+     </tr>
+    </table>
+   </div>
    <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better (&ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it&rdquo; <a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a>). They will learn from their peers to value their own accomplishments. They will also learn to talk about their failures, what they&rsquo;ve learned from them, and how this learning can be valuable to others.</p>
 
  <h2><span class="_paradigm">RADICAL DISTRIBUTIONS</span> Include <span class="_paradigm">BANNER</span>s</h2>
