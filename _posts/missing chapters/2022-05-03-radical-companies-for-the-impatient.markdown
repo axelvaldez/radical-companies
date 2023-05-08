@@ -11,37 +11,32 @@ image:    "icon-radical-companies-for-the-impatient.svg"
 </div>
 
 <h1>The <span class="_paradigm">RADICAL</span> Model</h1>
+
  <h2>Businesses-as-Dictatorships Hurt Us</h2>
   <p>Our collapsing climate, the gaping wealth gap, discrimation, and exploitation are but a few of the inescapable side-effects of the system we live in. A system that &ldquo;divides, demonizes, and causes us to suspend our intincts toward better.&rdquo;<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> But it has also brought us abundance and we don not want to throw the baby out with the bathwater. What is clear is that we need a generative way of relating to one another, a different paradigm. As we see it, businesses are the place to start, transformed into companies they are the incubators for what comes next.</p>
   <p>Nature follows a simple path to create big beautiful things out of small, unpretentious ones. From a tiny seed to a mighty oak tree. We don&rsquo;t think that a long list of color scales or a 17-page constitution are necessary, or even helpful, to make a fundamental change. Eventually, these can become dogma, a form of force, and sabotage our progress. With that in mind, we came up with what we think is the simplest, most basic foundation to support our coming together to share work and wealth.</p>
- <h2>Foundation for a <span class="_paradigm">RADICAL</span> Company</h2>
+ <h2><span class="_paradigm">RADICAL</span> Company Foundation</h2>
   <p>In <span class="_paradigm">RADICAL</span> speak, a company is what we call a group of people who come together to build something bigger than themselves. In fact, the word &ldquo;company&rdquo; comes from the Latin <em>con-</em>, meaning &lsquo;together&rsquo;, and <em>pan</em>, meaning &lsquo;bread.&rsquo; In other words, people who break bread together.</p>
   <p>Every company is different because the people who embody it are different, and this means that every company must find its own way. What fundamentally makes a <span class="_paradigm">RADICAL</span> company different from a <span class="_paradigm">FIAT</span> business is that it has a foundation,</p>
-  <table align="center">
-   <tr>
-    <td valign="middle" style="text-align:right; font-weight:bold; ">people&nbsp;&nbsp;</td>
-    <td style="text-align:center; background-color:#EEEEEE; ">Meaning & Belonging</td>
-   </tr>
-   <tr>
-    <td style="background-color: white; height: 7px;"></td>
-   </tr>
-   <tr>
-    <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-    <td style="text-align:center; background-color:#EEEEEE;">Transparency & Decentralization</td>
-   </tr>
-   <tr>
-    <td style="background-color: white; height: 7px;"></td>
-   </tr>
-   <tr>
-    <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-    <td style="text-align:center; background-color:#EEEEEE; ">Explicit Alignment & Experimentation</td>
-   </tr>
-   <tr>
-    <td colspan="4">&nbsp;</td>
-   </tr>
-  </table>
+   <div class="_center">
+    <table class="_h2table">
+     <tr>
+      <th>people</th>
+      <td>Meaning & Belonging</td>
+     </tr>
+     <tr>
+      <th>commitments</th>
+      <td>Decentralization & Transparency</td>
+     </tr>
+     <tr>
+      <th>practices</th>
+      <td>Experimentation</td>
+     </tr>
+    </table>
+   </div>
   <p>Other practices can be layered on top of these, but for a <span class="_paradigm">RADICAL</span> company this foundation is essential, otherwise it is just a <span class="_paradigm">FIAT</span> business with ain&rsquo;t-we-nice sprinkled on top.</p>
-  <p>Hierarchies don&rsquo;t just go away, but, unlike in a FIAT business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what&rsquo;s needed, at a particular time, by the people involved. &ldquo;An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. &hellip; The org chart is insufficient.&rdquo;<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+  <p>Hierarchies don&rsquo;t just go away, but, unlike in a <span class='_paradigm'>FIAT</span> business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what&rsquo;s needed, at a particular time, by the people involved. &ldquo;An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. &hellip; The org chart is insufficient.&rdquo;<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+
  <h2>Alignment Must Be Explicit and Transparent</h2>
   <p>In order to create a <span class="_paradigm">RADICAL</span> company, you first need to be explicit about the company&rsquo;s IMPACT  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump them in different ways, but, no matter, they have to be explicit and completely open and accessible to everyone.</p>
   <p>The three-finger Scout Salute<a href="#en03"><sup id="bm03">3&nbsp;</sup></a> is a good mnemonic for it,</p>
@@ -66,6 +61,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
 
 <h1>Recognizing Contributions</h1>
  <p>The Distribution mechanism we describe below recognizes contributions, makes ownership decentralized and dynamic, supports egalitarian and equitable wealth sharing, and it scales to organizations of any size.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a></p>
+
  <h2>The Rosedale Distribution</h2>
   <p style="margin-bottom:10px; ">Rosedale Distribution<a href="#en06"><sup id="bm06">6&nbsp;</sup></a> is our name for a practice that we first heard from entrepreneur Philip Rosedale,</p>
   <ul>
@@ -82,6 +78,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     <p style="margin: 0 auto 6px auto; ">Each person decides how much to give to whom based on whatever criteria &ldquo;feels right&rdquo; to them.</p>
    </li>
   </ul>
+
  <h2>The <span class="_paradigm">RADICAL DISTRIBUTION</span></h2>
   <p>Instead of cash or stocks, <span class="_paradigm">RADICAL DISTRIBUTION</span> uses a dimensionless unit we call a <span class="_paradigm">RAD</span>. Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them. Whereas stocks represent a fixed percentage of the company <em>forever</em>, <span class="_paradigm">RAD</span>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>.</p>
   <p>RADs represent any kind of contribution (<em>i.e.,</em> not just financial). In fact, as an accounting tool, <span class="_paradigm">RAD</span>s account for the unaccountable.</p>
@@ -133,6 +130,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     </li>
    </ul>
   </p>
+
   <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Are Scalable</h2>
    <p>People are the best judges of <em>what</em> a contribution is and <em>who</em> is making it and it doesn't take that many peole to cover the whole team. If somebody doesn't get any <span class="_paradigm">RAD</span>s at all, it's probably because he is totally disconnected or none of his work looks like contributions to however many people make up the company.</p>
    <table style="width: 80%; margin: 0 auto; ">
@@ -174,6 +172,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     </tr>
    </table>
    <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better (&ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it&rdquo;<a href="#en07"><sup id="bm07">7&nbsp;</sup></a>). They will learn from their peers to value their own accomplishments. They will also learn to talk about their failures, what they&rsquo;ve learned from them, and how this learning can be valuable to others.</p>
+
   <h2><span class="_paradigm">RADICAL DISTRIBUTIONS</span> Include <span class="_paradigm">BANNER</span>s</h2>
    <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people. But what about team accomplishments, causes, communities, or new projects? Even though they are not people, they, too, be supported with <span class="_paradigm">BANNER</span>s</p>
    <p style="width: 80%; margin: 0 auto 6px auto; ">
@@ -224,6 +223,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
      </tr>
     </tbody>
   </table>
+
   <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include <span class="_paradigm">RETROSPECTIVE</span>s</h2>
    <p>At a <span class="_paradigm">RADICAL RETROSPECTIVE</span>, members discuss the criteria they used to allocate <span class="_paradigm">RAD</span>s. Participation in these <span class="_paradigm">RETROSPECTIVE</span>s is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
   <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include Feedback</h2>
@@ -254,6 +254,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   </li>
  </ul>
  <p>That earned amount is split between Dividends and a <em>Predictable Recurring Income</em> (PRI) component.</p>
+
  <h2>Making Recurring Takehome Pay Predictable</h2>
    <p>When you really think about it, &ldquo;salary&rdquo; is a <span class="_paradigm">FIAT</span> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <span class="_paradigm">RADICAL</span> context.</p>
    <p>The <span class="_paradigm">PRI</span> is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),</p>
@@ -308,6 +309,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    </p>
    <p>We had a lot of back and forth over the <em><span class="_paradigm">PRI</span> Account</em> being a <em>personal</em> debt. Why not have it be a shared debt? This may work for small groups, but it doesn&rsquo;t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don&rsquo;t know that well. They would want to know things like &ldquo;Why is Julio&rsquo;s <span class="_paradigm">PRI</span> so high?&rdquo; On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn&rsquo;t feel good about going into so much debt and brings down his <span class="_paradigm">PRI</span> after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister&rsquo;s school and is willing to bear the debt for a while longer.</p>
    <p>If you are thinking that this process takes a lot of time, you&rsquo;re right. But it is cheaper and healthier than leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).</p>
+
  <h2>Dividends Are Not a Gift, You Earned Them</h2>
   <p>Below there are three sample scenarios for how Earned Dividends are calculated,</p>
    <ul>
@@ -363,6 +365,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT." title="RADICAL DISTRIBUTIONS">
    </p>
    <p>Notice that even though dividends are up, Julio continues to draw from the <em><span class="_paradigm">PRI</span> Account</em> because his <span class="_paradigm">PRI</span> is pretty high and his <span class="_paradigm">RAD</span>s count is pretty low. He may want to change his <span class="_paradigm">PRI</span> or get feedback on why his <span class="_paradigm">RAD</span>s are so low.</p>
+
  <h2>Comparing the <span class="_paradigm">RADICAL</span> Investment Model with that of Banks and VCs</h2>
    <p><span class="_paradigm">RADICAL</span> investments will, at worst, have the same financial yield as today&rsquo;s VC system, but with 1) a lot more beneficiaries (<em>i.e.</em>, all the co-owners), and 2) less risk (<em>i.e.</em>, because a lot more people will be committed to making it work).</p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
@@ -371,7 +374,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    </p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol style="font-size:smaller; ">
+ <ul style="font-size:smaller; ">
   <li id="en01">
    Seth Godin.
    <em>Naysayers (and the grifters)</em>
@@ -411,6 +414,6 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    2014.
    <a href="#bm07"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
