@@ -132,43 +132,61 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   </p>
 
  <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Are Scalable</h2>
-   <p>People are the best judges of <em>what</em> a contribution is and <em>who</em> is making it and it doesn't take that many peole to cover the whole team. If somebody doesn't get any <span class="_paradigm">RAD</span>s at all, it's probably because he is totally disconnected or none of his work looks like contributions to however many people make up the company.</p>
-   <table style="width: 80%; margin: 0 auto; ">
-    <tr>
-     <td colspan="4"><img src="/assets/img/icon-dynamic-distribution-1.svg" alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person." title="1 person's point of view: 17 of 56 people."></td>
-    </tr>
-    <tr>
-     <td colspan="4" style="font-size: larger; text-align: center; ">1 person&rsquo;s point of view: 17 of 56 people.</td>
-    </tr>
-    <tr>
-     <td>
-      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-       <img src="/assets/img/icon-dynamic-distribution-2.svg" alt="A small circle inside which there are 56 monochrome faces, 31 of which are in color to indicate they've been given RADs by two people." title="2 people's point of view: 31 of 56 people.">
-      </p>
-     </td>
-     <td>
-      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-       <img src="/assets/img/icon-dynamic-distribution-3.svg" alt="A small circle inside which there are 56 monochrome faces, 40 of which are in color to indicate they've been given RADs by three people." title="3 people's point of view: 40 of 56 people."></p>
-     </td>
-     <td>
-      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-       <img src="/assets/img/icon-dynamic-distribution-4.svg" alt="A small circle inside which there are 56 monochrome faces, 55 of which are in color to indicate they've been given RADs by four people." title="4 people's point of view: 55 of 56 people.">
-      </p>
-     </td>
-     <td>
-      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-       <img src="/assets/img/icon-dynamic-distribution-5.svg" alt="A small circle inside which there are 56 faces, all of which are in color to indicate they've been given RADs by five people." title="5 people's point of view: 56 of 56 people.">
-      </p>
-     </td>
-    </tr>
-    <tr>
-     <td style="font-size:small; text-align:center; ">2 people&rsquo;s view:<br>31 of 56 people.</td>
-     <td style="font-size:small; text-align:center; ">3 people&rsquo;s view:<br>40 of 56 people.</td>
-     <td style="font-size:small; text-align:center; ">4 people&rsquo;s view:<br>55 of 56 people.</td>
-     <td style="font-size:small; text-align:center; ">5 people&rsquo;s view:<br>56 of 56 people.</td>
-    </tr>
-    <tr>
-     <td colspan="4">&nbsp;</td>
+  <p>People are the best judges of <em>what</em> a contribution is and <em>who</em> is making it and it doesn't take that many peole to cover the whole team. If somebody doesn't get any <span class="_paradigm">RAD</span>s at all, it's probably because he is totally disconnected or none of his work looks like contributions to however many people make up the company.</p>
+   <div class="_center">
+    <table class="_h2table">
+     <tr>
+      <td colspan="4"><img src="/assets/img/icon-dynamic-distribution-1.svg" alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person." title="1 person's point of view: 17 of 56 people."></td>
+     </tr>
+     <tr>
+      <td colspan="4" style="font-size: larger; text-align: center; ">1 person&rsquo;s point of view: 17 of 56 people.</td>
+     </tr>
+     <tr>
+      <td>
+       <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+        <img
+         src="/assets/img/icon-dynamic-distribution-2.svg"
+         alt="A small circle inside which there are 56 monochrome faces, 31 of which are in color to indicate they've been given RADs by two people."
+         title="2 people's point of view: 31 of 56 people."
+        >
+       </p>
+      </td>
+      <td>
+       <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+        <img
+         src="/assets/img/icon-dynamic-distribution-3.svg"
+         alt="A small circle inside which there are 56 monochrome faces, 40 of which are in color to indicate they've been given RADs by three people."
+         title="3 people's point of view: 40 of 56 people."
+        >
+       </p>
+      </td>
+      <td>
+       <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+        <img
+         src="/assets/img/icon-dynamic-distribution-4.svg"
+         alt="A small circle inside which there are 56 monochrome faces, 55 of which are in color to indicate they've been given RADs by four people."
+         title="4 people's point of view: 55 of 56 people."
+        >
+       </p>
+      </td>
+      <td>
+       <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+        <img
+         src="/assets/img/icon-dynamic-distribution-5.svg"
+         alt="A small circle inside which there are 56 faces, all of which are in color to indicate they've been given RADs by five people."
+         title="5 people's point of view: 56 of 56 people."
+        >
+       </p>
+      </td>
+     </tr>
+     <tr>
+      <td style="font-size:small; text-align:center; ">2 people&rsquo;s view:<br>31 of 56 people.</td>
+      <td style="font-size:small; text-align:center; ">3 people&rsquo;s view:<br>40 of 56 people.</td>
+      <td style="font-size:small; text-align:center; ">4 people&rsquo;s view:<br>55 of 56 people.</td>
+      <td style="font-size:small; text-align:center; ">5 people&rsquo;s view:<br>56 of 56 people.</td>
+     </tr>
+     <tr>
+      <td colspan="4">&nbsp;</td>
     </tr>
    </table>
    <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better (&ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it&rdquo; <a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a>). They will learn from their peers to value their own accomplishments. They will also learn to talk about their failures, what they&rsquo;ve learned from them, and how this learning can be valuable to others.</p>
@@ -182,7 +200,6 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     title="Banners"
    >
   </p>
-  <p>TEST</p>
    <div class="_center">
     <table class="_h2table">
      <tbody style="font-size:smaller; vertical-align: top; ">
@@ -221,23 +238,22 @@ image:    "icon-radical-companies-for-the-impatient.svg"
      </tbody>
     </table>
    </div>
-  <p>TEST</p>
 
  <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include <span class="_paradigm">RETROSPECTIVE</span>s</h2>
-   <p>At a <span class="_paradigm">RADICAL RETROSPECTIVE</span>, members discuss the criteria they used to allocate <span class="_paradigm">RAD</span>s. Participation in these <span class="_paradigm">RETROSPECTIVE</span>s is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
+  <p>At a <span class="_paradigm">RADICAL RETROSPECTIVE</span>, members discuss the criteria they used to allocate <span class="_paradigm">RAD</span>s. Participation in these <span class="_paradigm">RETROSPECTIVE</span>s is voluntary and members can share as much or as little of their criteria as they like. These do not prevent people from making their own decisions, but it serves as a guide.</p>
 
  <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Include Feedback</h2>
-   <p>Anybody who wants to can call for a feedback session after a <span class="_paradigm">DISTRIBUTION</span>. In particular, people who didn&rsquo;t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it&rsquo;s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
+  <p>Anybody who wants to can call for a feedback session after a <span class="_paradigm">DISTRIBUTION</span>. In particular, people who didn&rsquo;t get anything or significantly less than they expected would want to do this. It might be difficult to hear the feedback, but it&rsquo;s the way to grow. It can help resolve latent tensions, correct wrong impressions, and get better results in the future.</p>
 
  <h2><span class="_paradigm">RADICAL DISTRIBUTION</span>s Are Transparent</h2>
-   <p>We don&rsquo;t think that <span class="_paradigm">RADICAL DISTRIBUTION</span>s will work without complete transparency. The temptation will be there to block the identity of the allocator or the recipient, or to block the number of <span class="_paradigm">RAD</span>s allocated. Don&rsquo;t yield to it, it is fear speaking. We don&rsquo;t think that anything less than full disclosure will work.</p>
-   <p>Of course, you&rsquo;ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
+  <p>We don&rsquo;t think that <span class="_paradigm">RADICAL DISTRIBUTION</span>s will work without complete transparency. The temptation will be there to block the identity of the allocator or the recipient, or to block the number of <span class="_paradigm">RAD</span>s allocated. Don&rsquo;t yield to it, it is fear speaking. We don&rsquo;t think that anything less than full disclosure will work.</p>
+  <p>Of course, you&rsquo;ll have to figure out what works for you, but hiding any of this information is likely to turn out to be a failure.</p>
  
  <h2><span class="_paradigm">RAD</span>s Account for the Unaccountable</h2>
-   <p><span class="_paradigm">RAD</span>s represent many things other than simple financial value. They are not beans, but they can be counted.</p>
-   <p>The <span class="_paradigm">RAD</span>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you&rsquo;ll probably get fewer <span class="_paradigm">RAD</span>s from us; if you are helping us thrive, you&rsquo;ll likely get more. If you do something that goes against our Impact, &ldquo;but, hey, it makes money,&rdquo; you&rsquo;ll get less <span class="_paradigm">RAD</span>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you&rsquo;ll get more <span class="_paradigm">RAD</span>s.</p>
-   <p>Maybe I gave you <span class="_paradigm">RAD</span>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
-   <p>In short, <span class="_paradigm">RAD</span>s account for the uncountable. They measure what had previously been immeasurable.</p>
+  <p><span class="_paradigm">RAD</span>s represent many things other than simple financial value. They are not beans, but they can be counted.</p>
+  <p>The <span class="_paradigm">RAD</span>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you&rsquo;ll probably get fewer <span class="_paradigm">RAD</span>s from us; if you are helping us thrive, you&rsquo;ll likely get more. If you do something that goes against our Impact, &ldquo;but, hey, it makes money,&rdquo; you&rsquo;ll get less <span class="_paradigm">RAD</span>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you&rsquo;ll get more <span class="_paradigm">RAD</span>s.</p>
+  <p>Maybe I gave you <span class="_paradigm">RAD</span>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
+  <p>In short, <span class="_paradigm">RAD</span>s account for the uncountable. They measure what had previously been immeasurable.</p>
 
 <h1><span class="_paradigm">RADICAL</span> Wealth Extraction</h1>
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <span class="_paradigm">RAD</span>s. For example,</p>
