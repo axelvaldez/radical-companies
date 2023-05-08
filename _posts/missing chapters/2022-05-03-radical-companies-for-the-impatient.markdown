@@ -45,7 +45,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   </pre>
   <ul>
    <li>
-    <p style="margin-bottom:6px; margin-left;0;">Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.</p>
+    <p style="text-indent:0;">Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.</p>
    </li>
    <li>
     <p style="margin-bottom:6px; margin-left;0;">Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, &ldquo;&hellip; a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.&rdquo; <a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
