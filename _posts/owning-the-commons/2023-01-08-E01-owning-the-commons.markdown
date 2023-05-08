@@ -40,7 +40,7 @@ image:    "icon-owning-the-commons-1-3.svg"
  </ul>
 
 <h1><span class="_paradigm">RAD</span>s! app</h1>
- <p>This is where the <em><span class="_paradigm">RAD</span>s!</em> app comes in,</p>
+ <p>This is where the <em><span class="_paradigm">RAD</span>s! app</em> comes in,</p>
  <ul>
   <li>As each family shows up in their covered wagon, we instruct them to download the <em><span class="_paradigm">RAD</span>s!</em> app (<em>i.e.</em>, if they can order industrial drills online, they can do this).</li>
   <li>The app is straightforward and they learn to use it right away with a bit of our help (<em>i.e.</em>, we wrote the app).</li>
