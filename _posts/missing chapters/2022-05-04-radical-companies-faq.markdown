@@ -11,7 +11,7 @@ image:    "icon-radical-companies-faq.svg"
 </div>
 
 <h1>Intro</h1>
- <p>These questions come from readers of the <a href="https://docs.google.com/document/d/10NJA6kzzzHZiS-CQBB6HpWdJ1gFqmYK5kNQYG_JR7X0/edit#heading=h.87ak6hy0sbuh"><span class='_paradigm'>RADICAL COMPANIES</span></a> book and its accompanying booklet, <em>For the Impatient</em>.</p>
+ <p>These questions come from readers of the <a href="https://radicalcompanies.com">RADICAL COMPANIES: Without Bosses or Employess</a> book or the post, <a href="">RADICAL COMPANIES for the Impatient</a>.</p>
 
 <h1 class="_section">Co-Ownership</h1>
 
@@ -186,7 +186,7 @@ image:    "icon-radical-companies-faq.svg"
   <li>Graduated sanctions</li>
   <li>Conflict resolution mechanism</li>
 </ul>
- <p>For more information, see the <a href="https://docs.google.com/document/d/10NJA6kzzzHZiS-CQBB6HpWdJ1gFqmYK5kNQYG_JR7X0/edit?pli=1#heading=h.ud821w7zvp4x">Ostrom&rsquo;s Core Design Principles</a> book appendix.</p>
+ <p>For more information, see the <em>Ostrom&rsquo;s Core Design Principles</em> book appendix.</p>
 
 <h1 class="_section">General</h1>
 
