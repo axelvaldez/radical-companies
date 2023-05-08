@@ -181,7 +181,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    >
   </p>
    <div class="_center">
-    <table class="_h2table">
+    <table>
      <tbody style="font-size:smaller; vertical-align: top; ">
       <tr>
        <th>Teams</th>
