@@ -562,3 +562,6 @@ table._h2table td {
   border-left:black 1px solid;
   padding-left:1em;
 }
+img {
+  font-family:'Courier New', Courier, monospace;
+}
