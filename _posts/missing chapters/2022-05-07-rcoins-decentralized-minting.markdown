@@ -28,12 +28,8 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <p>A decentralized and transparent <span class="_paradigm">rCoin</span> will make possible a world-wide market that we can all play in without intermediaries.</p>
 
 <h1>Terminology Used in this Doc</h1>
- <table>
-  <colgroup>
-   <col style="width:10ex; ">
-   <col>
-  </colgroup>
-  <tbody>
+ <div class=_center">
+  <table class="_h2table">
    <tr>
     <th>National Fiat Coin</th>
     <td>
@@ -53,8 +49,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
     <td>
      <p>Another common name for national fiat coins is “currency.” It means to indicate that <em>money flows</em> from one person to the next to facilitate the exchange of commodities. But national fiat coins don&rsquo;t always <em>flow</em>. Because these coins hold their value forever, they can be hoarded to accumulate financial wealth in bank accounts or under the proverbial mattress.</p>
      <p>Given this, national fiat coins do not deserve to be called “currency.”</p></td>
-    </tr>\
-   </tbody>
+    </tr>
   </table>
   <p>To avoid confusion, in this document I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.</p>
 
