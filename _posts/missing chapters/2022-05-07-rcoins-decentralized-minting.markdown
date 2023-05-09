@@ -82,7 +82,6 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
     width="90%"
    >
   </div>
-  </p>
   <p>They do this starting from a simple Foundation,</p>
    <div class="_center">
     <table class="_h2table">
