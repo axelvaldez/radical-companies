@@ -161,33 +161,22 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    <li>The repayment terms (10,000 <span class="_paradigm">rCoin</span>/year).</li>
   </ul>
   <p>This can result in any of these scenarios,</p>
-  <table>
-   <colgroup>
-    <col style="width:18ex; border-right:1px solid black; ">
-    <col>
-   </colgroup>
-   <tr>
-    <th style="vertical-align:text-top; text-align:right; padding-right:1ex; ">Happy Ending</th>
-    <td style="padding-left:1ex; ">BenCO retires the 30,000 <span class="_paradigm">rCoin</span>s within three years, as promised.</td>
-   </tr>
-   <tr>
-    <td style="height: 7px; ">&nbsp;</td>
-   </tr>
-   <tr>
-    <th style="vertical-align:text-top; text-align:right; padding-right:1ex; ">Not so Happy Ending</th>
-    <td style="padding-left:1ex; ">BenCO has retired only wo thirds of the minted <span class="_paradigm">rCoin</span>s by the third year. It does retire all 30,000 <span class="_paradigm">rCoin</span>s.</td>
-   </tr>
-   <tr>
-    <td style="height: 7px; ">&nbsp;</td>
-   </tr>
-   <tr>
-    <th style="vertical-align:text-top; text-align:right; padding-right:1ex; ">Unhappy Ending</th>
-    <td style="padding-left:1ex; ">BenCO disbands and never creates enough value for society to pay the 30,000 <span class="_paradigm">rCoin</span>s.</td>
-   </tr>
-   <tr>
-    <td>&nbsp;</td>
-   </tr>
-  </table>
+   <div class="_center">
+    <table class="_h2table">
+     <tr>
+      <th>Happy Ending</th>
+      <td>BenCO retires the 30,000 <span class="_paradigm">rCoin</span>s within three years, as promised.</td>
+     </tr>
+     <tr>
+      <th>Not so Happy Ending</th>
+      <td>BenCO has retired only wo thirds of the minted <span class="_paradigm">rCoin</span>s by the third year and it retires all 30,000 <span class="_paradigm">rCoin</span>s a quarter later.</td>
+     </tr>
+     <tr>
+      <th>Unhappy Ending</th>
+      <td>BenCO disbands and never creates enough value for society to pay the 30,000 <span class="_paradigm">rCoin</span>s.</td>
+     </tr>
+    </table>
+   </div>
   <p>A seller&rsquo;s app can calculate a risk factor based on the BenCO <span class="_paradigm">rCoin</span>&rsquo;s log <em>and</em> her particular preset parameters. Each of us can let the apps do the calculations and, based on that, decide whether or not to take the BenCO <span class="_paradigm">rCoin</span>s as payment.<a href="#en12"><sup id="bm12">&hairsp;&nabla;&hairsp;</sup></a></p>
 
  <h2><span class="_paradigm">rCoin</span>s Are Stable</h2>
@@ -195,7 +184,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p>As of this writing, the four most widely held “reserve currencies” are the US dollar (&dollar;), the European Euro (&euro;), the Japanese Yen (&yen;), and the UK Pound Sterling (&pound;). These national fiat coinage are backed up by strong, stable economies. At least, that&rsquo;s how the story goes.</p>
 
  <h2>Companies as Guarantors of <span class="_paradigm">rCoin</span>s</h2>
-  <p>National economies are not as stable as all that and financial crises happen on a cyclical basis.<a href="#en13"><sup id="bm13">&hairsp;&nabla;&hairsp;</sup></a> For another, people invariably find ways to exploit some aspect of the financial system for private gain. Politicians are very good at this and manipulate national economies shamelessly. For example, in 1971 then President Nixon renounced gold as a standard and blamed it mostly on De Gaulle&rsquo;s policies. In reality, he did it to maintain “global economic dominance and to improve economic conditions at home.”<a href="#en14"><sup id="bm14">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>National economies are not as stable as all that and financial crises happen on a cyclical basis in our currrent <span class="_paradigm">FIAT</span> system.<a href="#en13"><sup id="bm13">&hairsp;&nabla;&hairsp;</sup></a> For another, people invariably find ways to exploit some aspect of the financial system for private gain. Politicians are very good at this and manipulate national economies shamelessly. For example, in 1971 then President Nixon renounced gold as a standard and blamed it mostly on De Gaulle&rsquo;s policies. In reality, he did it to maintain “global economic dominance and to improve economic conditions at home.”<a href="#en14"><sup id="bm14">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>By comparison, companies are extremely stable because their reputation depends solely on how effective they are at creating value for society. That&rsquo;s it. The worst that can happen is that a company mints <span class="_paradigm">rCoin</span>s and then it is not able, or willing, to retire the debt. The financial impact of this would be insignificant; to wit, this is what happens today.</p>
 
  <h2><span class="_paradigm">rCoin</span>s Are (Not) Fungible</h2>
@@ -476,21 +465,124 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
-   <li id="en11">For more, see <em><span class="_paradigm">RADICAL COMPANIES</span> – RADs, PRI,</em> <<a href="https://radicals.world/lj3pH2">https://radicals.world/lj3pH2</a>> and <em><span class="_paradigm">RADICAL COMPANIES</span></em>, <<a href="https://radicals.world/AS7Ofo">https://radicals.world/AS7Ofo</a>> <a href="#fnref11"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en12">This coincides with Michael Linton&rsquo;s idea of letting different businesses decide what percentage of local versus fiat currency a business will take. See <em>Covestment with Community Currencies</em> <<a href="https://radicals.world/edEy3f">https://radicals.world/edEy3f</a>> <a href="#fnref12"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en13"><em>List of economic crises</em><<a href="https://radicals.world/2Y1Kqb">https://radicals.world/2Y1Kqb</a>>. <a href="#fnref13"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en14"> <a href="#fnref14"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a> Michael J. Graetz and Olivia Briffault. A “Barbarous Relic”: The French, Gold, and the Demise of Bretton Woods. Aug, 2016 <<a href="https://radicals.world/rxLQd8">https://radicals.world/rxLQd8</a>>.</li>
-   <li id="en15">Money Definition. Investopedia <<a href="https://radicals.world/EsIF0M">https://radicals.world/EsIF0M</a>>. <a href="#fnref15"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en16">If you are still struggling with that, that&rsquo;s fine, too. Breaking out of jail is never easy. <a href="#fnref16"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en17">Lisa Smith. <em>Does High GDP Mean Economic Prosperity?</em> Investopedia, 2021 <<a href="https://radicals.world/qfxbR0">https://radicals.world/qfxbR0</a>>. <a href="#fnref17"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en18">Bernard Lerner, Jacqui Dune. <em>Rethinking Money: How New Currencies Turn Scarcity into Prosperity</em>. 2013 <<a href="https://a.co/gqG4Awh">https://a.co/gqG4Awh</a>>. <a href="#fnref18"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en19">For more information, see Wörgl <<a href="https://radicals.world/sYcjKW">https://radicals.world/sYcjKW</a>>. <a href="#fnref19"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en20"><em>Freigeld: FreeMoney for reacting to the Great Depression</em>. DYNDY, 2011 <<a href="fnref21">https://radicals.world/dzjaIU</a>>. <a href="#fnref20"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en21"><em>Stamp Scrip: Money People Paid to Use. Federal Reserve Bank of Cleveland</em>. April, 2008 <<a href="https://radicals.world/hrUnt8">https://radicals.world/hrUnt8</a>>. <a href="#fnref21"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en22">As a crutch, national fiat coins could be thrown into the mix to lower the risk of a payment since coins are considered “no risk.” <<a href="https://radicals.world/z8WRti">https://radicals.world/z8WRti</a>> <a href="#fnref22"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en23">Money laundering will be easier to detect if they retire debt, even when their revenue stays flat or goes down. <a href="#fnref23"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en24">But maybe not. <a href="#fnref24"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
-   <li id="en25">Seth Godin. <em>Choice vs. convenience</em>. Dec 28, 2021 <<a href="https://radicals.world/sqTIaq">https://radicals.world/sqTIaq</a>>. <a href="#fnref25"><img src="/assets/img/arrow-up-icon.png" style="width:20px; "></a></li>
+   <li id="en11">
+    <p class="_list-item">
+     For more, see
+     <em>RADICAL COMPANIES for the Impatient</em>
+     &lt;<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient</a>&gt;
+     and
+     <em>RADICAL COMPANIES: Without Boss or Employees</em> (alt., &lt;<a href="https://radicals.world/AS7Ofo">https://radicals.world/AS7Ofo</a>&gt;).
+     <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>   
+   <li id="en12">
+    <p class="_list-item">
+     This coincides with
+     Michael Linton&rsquo;s idea of letting different businesses decide what percentage of local versus fiat currency a business will take. See
+     <em>Covestment with Community Currencies</em>
+     <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en13">
+    <p class="_list-item">
+     <em>ist of economic crises</em>
+     &lt;<a href="https://radicals.world/2Y1Kqb">https://radicals.world/2Y1Kqb</a>&gt;
+     <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en14">
+    <p class="_list-item">
+     </a> Michael J. Graetz and Olivia Briffault.
+     <em>A “Barbarous Relic”: The French, Gold, and the Demise of Bretton Woods.</em>
+     &lt;<a href="https://radicals.world/rxLQd8">https://radicals.world/rxLQd8</a>&gt;
+     Aug, 2016
+    <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en15">
+    <p class="_list-item">
+     Money Definition.
+     &lt;<a href="https://radicals.world/EsIF0M">https://radicals.world/EsIF0M</a>&gt;
+     Investopedia
+    <a class="_uparrow" href="#bm15"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en16">
+    <p class="_list-item">
+     If you are still struggling with that, that&rsquo;s fine, too. Breaking out of jail is never easy.
+     <a class="_uparrow" href="#bm16"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en17">
+    <p class="_list-item">
+     Lisa Smith.
+     <em>Does High GDP Mean Economic Prosperity?</em>
+     Investopedia.
+     2021.
+     &lt;<a href="https://radicals.world/qfxbR0">https://radicals.world/qfxbR0</a>&gt;
+     <a class="_uparrow" href="#bm17"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en18">
+    <p class="_list-item">
+     Bernard Lerner, Jacqui Dune.
+     <em>Rethinking Money: How New Currencies Turn Scarcity into Prosperity</em>.
+     2013.
+     <a class="_uparrow" href="#bm18"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en19">
+    <p class="_list-item">
+     For more information, see Wörgl
+     &lt;<a href="https://radicals.world/sYcjKW">https://radicals.world/sYcjKW</a>&gt;
+     <a class="_uparrow" href="#bm19"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en20">
+    <p class="_list-item">
+     <em>Freigeld: FreeMoney for reacting to the Great Depression</em>.
+     &lt;<a href="fnref21">https://radicals.world/dzjaIU</a>&gt;
+     DYNDY.
+     2011.
+     <a class="_uparrow" href="#bm20"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en21">
+    <p class="_list-item">
+     <em>Stamp Scrip: Money People Paid to Use. Federal Reserve Bank of Cleveland</em>.
+     &lt;<a href="https://radicals.world/hrUnt8">https://radicals.world/hrUnt8</a>&gt;
+     April, 2008.
+     <a class="_uparrow" href="#bm21"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en22">
+    <p class="_list-item">
+     As a crutch, national fiat coins could be thrown into the mix to lower the risk of a payment since coins are considered “no risk.”
+     &lt;<a href="https://radicals.world/z8WRti">https://radicals.world/z8WRti</a>&gt;
+     <a class="_uparrow" href="#bm22"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en23">
+    <p class="_list-item">
+     Money laundering will be easier to detect if they retire debt, even when their revenue stays flat or goes down.
+     <a class="_uparrow" href="#bm23"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en24">
+    <p class="_list-item">
+     But maybe not. 
+     <a class="_uparrow" href="#bm24"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
+   <li id="en25">
+    <p class="_list-item">
+     Seth Godin.
+     <em>Choice vs. convenience</em>.
+     &lt;<a href="https://radicals.world/sqTIaq">https://radicals.world/sqTIaq</a>&gt;
+     Dec 28, 2021.
+     <a class="_uparrow" href="#bm25"><img src="/assets/img/arrow-up-icon.png"></a>
+    </p>
+   </li>
   </ul>
 </div>
 
