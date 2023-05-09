@@ -98,23 +98,23 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      </tr>
     </table>
    </div>
- <h2><span class="_paradigm">rCoin</span>s as Collaboration</h2>
+ <h2>rCoins as Collaboration</h2>
   <p>As I see it, the <span class="_paradigm">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve <em><em>progress</em>.</em><a href="#en8"><sup id="bm8">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of collaboration.</p>
 
-<h1><span class="_paradigm">rCoin</span>s for a World-Wide Market</h1>
+<h1>rCoins for a World-Wide Market</h1>
  <p>A world-wide market would bring us together rather than keeping us siloed by the Rube Goldberg markets we have today.</p>
  <p>We could have a single world government create and enforce a single currency. But even if it were politically feasible, it is unnecessary and a move in the wrong direction towards centralization. To wit, we didn&rsquo;t need a single world government for minutes, meters, or the Internet, some of the most useful world-wide tools of all time.</p>
  <p>A decentralized, transparent <span class="_paradigm">rCoin</span> is fundamental to such a unified market. These are some of the other things we would need to nourish and support a world-wide market,</p>
- <h2><span class="_paradigm">rCoin</span>s for a Decentralized Market</h2>
+ <h2>rCoins for a Decentralized Market</h2>
   <p>We need a decentralized market to nurture the next stage of innovation and accomplishment. Unfortunately, national fiat coins are an obstacle to this. They are not very stable and are subject to cyclical crises.<a href="#en9"><sup id="bm9">&hairsp;&nabla;&hairsp;</sup></a> They make international markets very complex, very opaque, and very expensive.</p> 
   <p>Today&rsquo;s international markets have been cobbled together by agreements that are fraught with weaknesses. National and international politics make transaction costs very expensive. Worst of all, these international markets are unduly influenced by transnational businesses seeking to profit no matter the harm to society.</p>
   <p>A decentralized market, free of interference and manipulation, is the iltimate pricing engine.</p>
- <h2>Decentralized Minting of <span class="_paradigm">rCoin</span>s</h2>
+ <h2>Decentralized Minting of rCoins</h2>
   <p>We need decentralized minting of <span class="_paradigm">rCoin</span>s to take national and international politics out of it and to eliminate the influence of transnational corporations.</p>
   <p><span class="_paradigm">rCoin</span>s are minted by companies, not any national government or central banks.</p>
 
-<h1><span class="_paradigm">rCoin</span>s Are Transparent</h1>
+<h1>rCoins Are Transparent</h1>
  <p>National fiat coins are opaque. In theory that&rsquo;s good because it reduces transaction costs. But this “reduction of costs” also disables human choice.</p>
  <p>In any case, the big transaction costs are those that banks, exchanges, and political manipulation bring in. And opaqueness does not reduce any of those.</p>
  <p><span class="_paradigm">rCoin</span>s are transparent. An integral part of each <span class="_paradigm">rCoin</span> is the log that comes along with them. This will restore people&rsquo;s  ability to make choices based on that information.</p>
@@ -134,7 +134,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <p><span class="_paradigm">RADICAL</span> Distributions are very similar, but instead of cash or stocks, it uses <span class="_paradigm">RAD</span>s, a dimensionless unit. At the end of each Distribution the total number of <span class="_paradigm">RAD</span>s allocated to each person represents their (dynamic) <a href="#VaryingBuyingPower">percentage of ownership</a> of the broad value created by a company.</p>
  <p>Because this broad value accounts for things other than financial value, <em><span class="_paradigm">RAD</span>s account for the uncountable</em>.<a href="#en11"><sup id="bm11">&hairsp;&nabla;&hairsp;</sup></a> And because <em><span class="_paradigm">rCoin</span>s are factored through <span style="font-zise: smaller; ">RAD</span>s</em>, they represent broad value as well. In other words, each person&rsquo;s share of <span class="_paradigm">rCoin</span>s is a function of their contributions and reflects the full spectrum of human values, not just financial value.</p>
 
-<h1><span class="_paradigm">rCoin</span> Qualities</h1>
+<h1>rCoin Qualities</h1>
  <p>These are, in no particular order, a few of the qualities that a <span class="_paradigm">rCoin</span> must have,</p>
  <h3>Decentralized Minting of <span class="_paradigm">rCoin</span>s</h3>
   <p><span class="_paradigm">rCoin</span>s are minted by companies, not a national government.</p>
@@ -170,23 +170,23 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
     </table>
    </div>
   <p>A seller&rsquo;s app can calculate a risk factor based on the BenCO <span class="_paradigm">rCoin</span>&rsquo;s log <em>and</em> her particular preset parameters. Each of us can let the apps do the calculations and, based on that, decide whether or not to take the BenCO <span class="_paradigm">rCoin</span>s as payment.<a href="#en12"><sup id="bm12">&hairsp;&nabla;&hairsp;</sup></a></p>
- <h2><span class="_paradigm">rCoin</span>s Are Stable</h2>
+ <h2>rCoins Are Stable</h2>
   <p>In today&rsquo;s system of exchange, “reserve currencies” are used for international transactions. This makes these transactions very expensive.</p>
   <p>As of this writing, the four most widely held “reserve currencies” are the US dollar (&dollar;), the European Euro (&euro;), the Japanese Yen (&yen;), and the UK Pound Sterling (&pound;). These national fiat coinage are backed up by strong, stable economies. At least, that&rsquo;s how the story goes.</p>
- <h2>Companies as Guarantors of <span class="_paradigm">rCoin</span>s</h2>
+ <h2>Companies as Guarantors of rCoins</h2>
   <p>National economies are not as stable as all that and financial crises happen on a cyclical basis in our currrent <span class="_paradigm">FIAT</span> system.<a href="#en13"><sup id="bm13">&hairsp;&nabla;&hairsp;</sup></a> For another, people invariably find ways to exploit some aspect of the financial system for private gain. Politicians are very good at this and manipulate national economies shamelessly. For example, in 1971 then President Nixon renounced gold as a standard and blamed it mostly on De Gaulle&rsquo;s policies. In reality, he did it to maintain “global economic dominance and to improve economic conditions at home.”<a href="#en14"><sup id="bm14">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>By comparison, companies are extremely stable because their reputation depends solely on how effective they are at creating value for society. That&rsquo;s it. The worst that can happen is that a company mints <span class="_paradigm">rCoin</span>s and then it is not able, or willing, to retire the debt. The financial impact of this would be insignificant; to wit, this is what happens today.</p>
- <h2><span class="_paradigm">rCoin</span>s Are (Not) Fungible</h2>
+ <h2>rCoins Are (Not) Fungible</h2>
   <p>In today&rsquo;s financial model, to be effective as a medium of exchange, money must be fungible—one coin is indistinguishable from all others. “Trying to use a non-fungible good as money results in transaction costs of individually evaluating each unit of the good before an exchange can take place.”<a href="#en15"><sup id="bm15">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>Thankfully, <span class="_paradigm">rCoin</span>s are fungible, world-wide, as a class. Their transaction costs, nationally and internationally, are negligible.</p>
   <p>But, also thankfully, they are not fungible individually. Each <span class="_paradigm">rCoin</span> carries information about its genesis and history and this translates to a different level of risk associated with each one. Their only transaction cost is that of “evaluating” whether or not to accept the risk associated with it. But this can be automated and it is insignificant. To decide whether to accept a given mix of <span class="_paradigm">rCoin</span>s as payment carries no financial cost since most transactions would be driven by the app&rsquo;s results and the few exceptions to it would be driven by people to people relationships. This takes those transactions out of the financial realm and into a people-to-people one.<a href="#en16"><sup id="bm16">&hairsp;&nabla;&hairsp;</sup></a></p>
- <h2><span class="_paradigm">rCoin</span>s Represent Broad Value</h2>
+ <h2>rCoins Represent Broad Value</h2>
   <p>To be robust, a <span class="_paradigm">rCoin</span> needs to be tied to value creation, and <span class="_paradigm">rCoin</span>s are. In fact they represent more than financial value. Their value also represents wellbeing, acts of kindness, and whatever else people consider important. And since <span class="_paradigm">rCoin</span>s are factored through <span class="_paradigm">RAD</span>s they represent broad value contributions as well.</p>
   <p>For example, if the RADs that have been allocated to me amount to 10% of the total and yours to 20%, this means that our fellow co-owners decided that you contributed twice as much as I did. As a result you get twice as many <span class="_paradigm">rCoin</span>s as I do.</p>
- <h2><span class="_paradigm">rCoin</span>s Transparent</h2>
+ <h2>rCoins Transparent</h2>
   <p>National fiat coins are opaque. We make do with things like GDP, but GDP and others like it don&rsquo;t measure anything besides financial value. They are canonical examples of the Broken Window Fallacy and don&rsquo;t take into account society-wide costs. What&rsquo;s more, these indices can be very misleading, and “GDP can increase after a car accident or a major flood. GDP can grow rapidly during a war or after a terrorist attack.”<a href="#en17"><sup id="bm17">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p><span class="_paradigm">rCoin</span>s are transparent and we need them to be. Each rCoin carries with it a log of all the information necessary to calculate the potential risks and benefits associated with it. Given that information, each of us can then decide whether or not to accept a particular rCoin as payment.</p>
- <h2><span class="_paradigm">rCoin</span> Value</h2>
+ <h2>rCoin Value</h2>
   <p>The face value of national fiat coins is fixed forever. At least, that is true for reserve currencies. Other national fiat coins are not so lucky: their face value stays put, but their purchasing  power fluctuates, sometimes wildly.</p>
   <p><span class="_paradigm">rCoin</span>s have a face value of one. It is backed by people who come together as <span class="_paradigm">RADICAL COMPANIES</span> to create broad value for society. It is free from national and international politics and manipulation.</p>
   <p>The face value of <span class="_paradigm">rCoin</span>s never changes but the information in its log may. Based on all of that, each of us gets to decide whether or not to accept the <span class="_paradigm">rCoin</span>s given the risks and benefits indicated in its log.</p>
