@@ -73,7 +73,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p>We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands telling people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it. Here we assume a <span class="_paradigm">RADICAL</span> world that is, at the same time, alike and different from our world today.</p>
   <p>In the <span class="_paradigm">RADICAL</span> model, a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word “company” because it has an interesting genesis: it comes from Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means “together, with” and <em>pan</em> means <em>bread, food.</em> At its root, then, <em>company</em> means “people who break bread together.” In the <span class="_paradigm">RADICAL</span> model a company is a community of people who come together to contribute broad value to society and make an impact on the world.</p>
   <p>Rather than having an owner and a hierarchy of bosses, a <span class="_paradigm">RADICAL</span> company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.</p>
-  <dic class="_center">
+  <div class="_center">
    <img
     src="/assets/img/en-alignment.svg"
     alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION"
@@ -81,6 +81,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
     style="text-align: center; "
     width="90%"
    >
+  </div>
   </p>
   <p>They do this starting from a simple Foundation,</p>
    <div class="_center">
