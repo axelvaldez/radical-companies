@@ -43,7 +43,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      <p>National fiat coins act as a <em>store of value</em> by virtue of their fixed nominal value. This means that these coins can be used to accumulate financial wealth. From that perspective, national fiat coins do not deserve to be called “currency,” not while stuffed under the proverbial mattress.</p>
      <p>National fiat coins serve as a <em>medium of exchange</em>. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point exchange was based on the value of gold, but since the 1970s the system is based on each country&rsquo;s say so, national fiat coins.<a href="#en4"><sup id="bm4">&hairsp;&nabla;&hairsp;</sup></a> National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.</p>
     </td>
-   </tr
+   </tr>
    <tr>
     <th>National Fiat Coin</th>
     <td>
