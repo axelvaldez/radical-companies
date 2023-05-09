@@ -240,7 +240,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <p><span class="_paradigm">rCoin</span>s, on the other hand, are always the same value. What changes is the potential risks and benefits associated with the company that engendered it. Every rCoin carries a log of all the information people need to decide whether or not to accept it.</p>
   <img
    src="/assets/img/en-rad-auto-inflation.svg"
-   alt="Table, with RISKS along the horizontal and BENEFITS along the vertical axis. WHen rCoins are low in RISKS and BENEFITS, there is high acceptance of them. When rCoins come with high RISKS and low BENEFITS, or low RISKS and high BENEFITS, there some resistance and acceptance of them. When rCoins have high RISKS and high BENEFITS, there is high resistance to accepting them."
+   alt="Table, with RISKS along the horizontal and BENEFITS along the vertical axis. WHen rCoins are low in RISKS and BENEFITS, there is high acceptance of them. When rCoins come with high RISKS and low BENEFITS, or low RISKS and high BENEFITS, there will resistance to accept them. When rCoins have high RISKS and high BENEFITS, there is high resistance to accepting them."
    title="rCoin RISKS and BENEFITS"
   >
 
