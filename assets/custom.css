@@ -310,19 +310,14 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
 }
 ._quotation, ._citation {
   text-align:justify;
-
   font-style:italic;
   font-size:smaller;
-  font-family:'American Typewriter', serif;
   font-family:'Roboto', sans-serif;
-  
   background-color:beige;
   white-space:normal;
-
   border:1px solid CadetBlue;
   padding:10px 10px 0 10px;
   width:80%;
-
   margin:0 auto 30px auto;
   padding:0 auto .5em  auto;
 }
