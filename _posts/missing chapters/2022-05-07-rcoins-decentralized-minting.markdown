@@ -51,7 +51,8 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      <p>Given this, national fiat coins do not deserve to be called “currency.”</p></td>
     </tr>
   </table>
-  <p>To avoid confusion, in this document I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.</p>
+ </div>
+ <p>To avoid confusion, in this document I use “money” to refer to the concept, “national fiat coin” to refer to what we normally mean by money, and “currency” not at all.</p>
 
 <h1>A Historical Perspective</h1>
  <p><span class="_paradigm">rCoin</span>s are not to be confused, or conflated, with local or complementary currencies, demurrage money, or any such.<a href="#en5"><sup id="bm5">&hairsp;&nabla;&hairsp;</sup></a> Ditto for Mutualism, Marxism, or any other theory or ideology. The point of <span class="_paradigm">rCoin</span>a is to make it possible to have a world-wide market, free of intermediaries, and with negligible costs.</p>
