@@ -77,7 +77,6 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    <img
     src="/assets/img/en-alignment.svg"
     alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION"
-    title="Elements of Alignment"
     style="text-align: center; "
     width="90%"
    >
@@ -143,7 +142,6 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    <img
     src="/assets/img/pic-rcoin-decentralized-minting-en.svg"
     alt="A company gets REVENUE, at the top, and sends rCoins out to the world, at the bottom. In parallel, a company mints its own rCoins, as needed, and they go out to the world mixed in with REVENUE rCoins."
-    title="Decentralizd Minting"
    >
   </div>
   <p>For example, BenCO mints 30,000 <span class="_paradigm">rCoin</span> and promises to repay them in three years. All this information goes on a transparent digital store that would include, at a minimum,</p>
@@ -236,7 +234,10 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <h2>Calculating Benefits</h2>
   <p>Over time, companies will go up in value because they get very efficient, benefit from high demand, or both. People will likely hold on to their <span class="_paradigm">rCoin</span>s. It may be that they are more comfortable with risk and may not mind taking higher risk <span class="_paradigm">rCoin</span>s from fledgling companies. It may also be that even the more conservative folks may be tempted to take high risk <span class="_paradigm">rCoin</span>s from high potential companies.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-   <img src="/assets/img/en-rads-value-increase.svg" alt="Table. Four columns by three rows. First row: After Month 1; +100 in Revenue;+100 New RADs; each RAD is worth one 100th; or one rCoin per RAD. After month 2: revenue is up by 1000; +100 New RADs; each worth one 200th of total; or 10 <span class="_paradigm">rCoin</span>s per RAD. After Month 3: revenue has gone up by 5000; +100 New RADs; each woth one 300%th; or 50 <span class="_paradigm">rCoin</span>s per RAD." title="Decentralizd Minting">
+   <img
+    src="/assets/img/en-rads-value-increase.svg"
+    alt="Table. Four columns by three rows. First row: After Month 1; +100 in Revenue;+100 New RADs; each RAD is worth one 100th; or one rCoin per RAD. After month 2: revenue is up by 1000; +100 New RADs; each worth one 200th of total; or 10 rCoins per RAD. After Month 3: revenue has gone up by 5000; +100 New RADs; each woth one 300%th; or 50 rCoins per RAD."
+   >
   </p>
  <h3>Other Value Factors</h3>
   <p>Other things that may affect company value,</p>
@@ -304,11 +305,17 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
 <h1 id="VaryingBuyingPower">VARYING BUYING POWER</h1>
   <p>I am selling potatoes at 40 <span class="_paradigm">rCoin</span>s per dozen. After the first month <strong>Ⓐ</strong>, below, and his co-owners don&rsquo;t have enough <span class="_paradigm">rCoin</span>s to buy my potatoes, but <strong>Ⓔ</strong> and his co-owners do. It may be that JerryCO is more efficient or maybe its products or services are more valuable. Either way, BenCO&rsquo;s co-owners end up with less buying power than JerryCO&rsquo;s co-owners.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-   <img src="/assets/img/en-rad-auto-inflation-a.svg" alt="Two tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL <span class="_paradigm">rCoin</span>s); +100 New for a TOTAL of 100 <span class="_paradigm">rCoin</span>s. Second row is RAD DISTRIBUTION, distributed as 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. They each get 10, 20, 30, and 40 <span class="_paradigm">rCoin</span>s. For JerryCO: the EARNED DIVIDENDS  row shows +1000 New for a TOTAL of 1000 <span class="_paradigm">rCoin</span>s. The RAD DISTRIBUTION in the second row is as follows: 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. This is the same as for BenCO, but in the JerryCO case the first person gets 100 instead of 10, the second 200 instead of 20, the third 300 instead of 30, and the fourth 400 <span class="_paradigm">rCoin</span>s instead of 40. The BenCO co-owners end up with less buying power than JerryCO&rsquo;s co-owners." title="Varying Buying Powers A">
+   <img
+    src="/assets/img/en-rad-auto-inflation-a.svg"
+    alt="Two tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +100 New for a TOTAL of 100 rCoins. Second row is RAD DISTRIBUTION, distributed as 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. They each get 10, 20, 30, and 40 rCoins. For JerryCO: the EARNED DIVIDENDS  row shows +1000 New for a TOTAL of 1000 rCoins. The RAD DISTRIBUTION in the second row is as follows: 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. This is the same as for BenCO, but in the JerryCO case the first person gets 100 instead of 10, the second 200 instead of 20, the third 300 instead of 30, and the fourth 400 rCoins instead of 40. The BenCO co-owners end up with less buying power than JerryCO&rsquo;s co-owners."
+   >
   </p>
   <p>Within each company, the buying power of an individual co-owner, too, can change every cycle. For example, in the illustration above, by the third cycle <strong>Ⓔ</strong>, a JerryCO co-owner who started with 100 <span class="_paradigm">rCoin</span>s, now has 1,200 which are enough to buy 30 dozen of my potatoes. Other other hand, JerryCO co-owner <strong>Ⓗ</strong> didn&rsquo;t get any <span class="_paradigm">rCoin</span>s this cycle and he only has 600 <span class="_paradigm">rCoin</span>s and has to settle for 15 dozen of my potatoes.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-   <img src="/assets/img/en-rad-auto-inflation-b.svg" alt="Four tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL <span class="_paradigm">rCoin</span>s); +100 New for a TOTAL of 200 <span class="_paradigm">rCoin</span>s. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 23% for the fourth. They each get 40, 70, 30, and 60 <span class="_paradigm">rCoin</span>s. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL <span class="_paradigm">rCoin</span>s); +1000 New for a TOTAL of 2000 <span class="_paradigm">rCoin</span>s. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 30% for the fourth (the same as for BenCO). They each get 400, 700, 300, and 600 <span class="_paradigm">rCoin</span>s. Below there are two more tables. For BenCO: first row is EARNED DIVIDENDS (in RADICAL <span class="_paradigm">rCoin</span>s); +100 New for a TOTAL of 300 <span class="_paradigm">rCoin</span>s. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth. They each get 120, 45, 45, and 60 <span class="_paradigm">rCoin</span>s. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL <span class="_paradigm">rCoin</span>s); +1000 New for a TOTAL of 3000 <span class="_paradigm">rCoin</span>s. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth (the same as for BenCO). They each get 1200, 450, 450, and 600 <span class="_paradigm">rCoin</span>s. Some JerryCO co-owners have more <span class="_paradigm">rCoin</span>s than others." title="Varying Buying Powers between and within companies">
+   <img
+    src="/assets/img/en-rad-auto-inflation-b.svg"
+    alt="Four tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL rCoin +100 New for a TOTAL of 200 rCoins. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 23% for the fourth. They each get 40, 70, 30, and 60 rCoins. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +1000 New for a TOTAL of 2000 rCoins. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 30% for the fourth (the same as for BenCO). They each get 400, 700, 300, and 600 rCoins. Below there are two more tables. For BenCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +100 New for a TOTAL of 300 rCoins. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth. They each get 120, 45, 45, and 60 rCoins. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +1000 New for a TOTAL of 3000 rCoins. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth (the same as for BenCO). They each get 1200, 450, 450, and 600 rCoins. Some JerryCO co-owners have more rCoin</span>s than others."
+   >
   </p>
 
 <h1>FAQ</h1>
