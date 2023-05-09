@@ -148,7 +148,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
     alt="A company gets REVENUE, at the top, and sends rCoins out to the world, at the bottom. In parallel, a company mints its own rCoins, as needed, and they go out to the world mixed in with REVENUE rCoins."
     title="Decentralizd Minting"
    >
-  </p>
+  </div>
   <p>For example, BenCO mints 30,000 <span class="_paradigm">rCoin</span> and promises to repay them in three years. All this information goes on a transparent digital store that would include, at a minimum,</p>
   <ul>
    <li>The amount of <span class="_paradigm">rCoin</span> (30,000),</li>
