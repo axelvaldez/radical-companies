@@ -64,7 +64,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    <p><span class="_paradigm">rCoin</span>s have the potential to enable a world-wide market. This will help us break out of our national silos and create a world-wide economy that&rsquo;s decentralized and transparent.</p></li>
  </ol>
 
-<h1>About the <span STYLE="font-size:smaller; ">RADICAL</span> Framework</h1>
+<h1>About the <span class="_paradigm">RADICAL</span> Framework</h1>
  <p>This may be a difficult read and it may be worth repeating here a few words about the <span class="_paradigm">RADICAL</span> framework and how it&rsquo;s different from our current world. Probably the most confusing thing about it is that a <span class="_paradigm">RADICAL</span> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.</p>
  <p>The only difference—the big difference—is that the <span class="_paradigm">RADICAL</span> system is centered around our interdependence.</p>
  <p>Our current system is based on separating us: countries, towns, good and bad neighborhoods; political parties and their vastly different realities; need to know, secrecy, protection. This leaves us disconnected and drives us to isolation. Businesses are built on creating platforms to bring us back together, for a fee. This works for a world where money comes first, ahead of everything else.</p>
@@ -104,7 +104,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p>As I see it, the <span class="_paradigm">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve <em><em>progress</em>.</em><a href="#en8"><sup id="bm8">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of collaboration.</p>
 
-<h1><span STYLE="font-size:smaller; ">rCoin</span>s for a World-Wide Market</h1>
+<h1><span class="_paradigm">rCoin</span>s for a World-Wide Market</h1>
  <p>A world-wide market would bring us together rather than keeping us siloed by the Rube Goldberg markets we have today.</p>
  <p>We could have a single world government create and enforce a single currency. But even if it were politically feasible, it is unnecessary and a move in the wrong direction towards centralization. To wit, we didn&rsquo;t need a single world government for minutes, meters, or the Internet, some of the most useful world-wide tools of all time.</p>
  <p>A decentralized, transparent <span class="_paradigm">rCoin</span> is fundamental to such a unified market. These are some of the other things we would need to nourish and support a world-wide market,</p>
@@ -114,20 +114,20 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p>Today&rsquo;s international markets have been cobbled together by agreements that are fraught with weaknesses. National and international politics make transaction costs very expensive. Worst of all, these international markets are unduly influenced by transnational businesses seeking to profit no matter the harm to society.</p>
   <p>A decentralized market, free of interference and manipulation, is the iltimate pricing engine.</p>
 
- <h2>Decentralized Minting of <span style="font-size:smaller; ">rCoin</span>s</h2>
+ <h2>Decentralized Minting of <span class="_paradigm">rCoin</span>s</h2>
   <p>We need decentralized minting of <span class="_paradigm">rCoin</span>s to take national and international politics out of it and to eliminate the influence of transnational corporations.</p>
   <p><span class="_paradigm">rCoin</span>s are minted by companies, not any national government or central banks.</p>
 
-<h1><span STYLE="font-size:smaller; ">rCoin</span>s Are Transparent</h1>
+<h1><span class="_paradigm">rCoin</span>s Are Transparent</h1>
  <p>National fiat coins are opaque. In theory that&rsquo;s good because it reduces transaction costs. But this “reduction of costs” also disables human choice.</p>
  <p>In any case, the big transaction costs are those that banks, exchanges, and political manipulation bring in. And opaqueness does not reduce any of those.</p>
  <p><span class="_paradigm">rCoin</span>s are transparent. An integral part of each <span class="_paradigm">rCoin</span> is the log that comes along with them. This will restore people&rsquo;s  ability to make choices based on that information.</p>
 
-<h1><span STYLE="font-size:smaller; ">RAD</span>s as a Trusted Measure</h1>
+<h1><span class="_paradigm">RAD</span>s as a Trusted Measure</h1>
   <p>A measure can be “trusted” because it means the same thing to people anywhere. So, if you believe that people are pretty much the same anywhere, you can trust <span class="_paradigm">RAD</span>s as a measure.</p>
   <p>In a rural setting somebody will get <span class="_paradigm">RAD</span>s for milking a goat, while in an urban setting someone else will get <span class="_paradigm">RAD</span>s for stopping cars so children can cross the street. The same human feeling that recognized the generosity of these acts was present in the rural case as well as in the urban setting. RADs capture that recognition in a tangible way, regardless of its numeric accuracy. <span class="_paradigm">RAD</span>s, and the <span class="_paradigm">rCoin</span>s that they factor, can be trusted because people decide what is <em>a contribution that deserves to be recognized</em>.</p>
 
-<h1><span STYLE="font-size:smaller; ">RAD</span>s Represent Contributions</h1>
+<h1><span class="_paradigm">RAD</span>s Represent Contributions</h1>
  <p>This idea originated with entrepreneur and pioneer Philip Rosedale,<a href="#en10"><sup id="bm10">&hairsp;&nabla;&hairsp;</sup></a></p>
  <ul>
   <li>As the company grows, every month an equal amount of cash and shares of the company are earmarked for distribution.</li>
@@ -138,14 +138,14 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <p><span class="_paradigm">RADICAL</span> Distributions are very similar, but instead of cash or stocks, it uses <span class="_paradigm">RAD</span>s, a dimensionless unit. At the end of each Distribution the total number of <span class="_paradigm">RAD</span>s allocated to each person represents their (dynamic) <a href="#VaryingBuyingPower">percentage of ownership</a> of the broad value created by a company.</p>
  <p>Because this broad value accounts for things other than financial value, <em><span class="_paradigm">RAD</span>s account for the uncountable</em>.<a href="#en11"><sup id="bm11">&hairsp;&nabla;&hairsp;</sup></a> And because <em><span class="_paradigm">rCoin</span>s are factored through <span style="font-zise: smaller; ">RAD</span>s</em>, they represent broad value as well. In other words, each person&rsquo;s share of <span class="_paradigm">rCoin</span>s is a function of their contributions and reflects the full spectrum of human values, not just financial value.</p>
 
-<h1><span STYLE="font-size:smaller; ">rCoin</span> Qualities</h1>
+<h1><span class="_paradigm">rCoin</span> Qualities</h1>
  <p>These are, in no particular order, a few of the qualities that a <span class="_paradigm">rCoin</span> must have,</p>
  <h3>Decentralized Minting of <span class="_paradigm">rCoin</span>s</h3>
   <p><span class="_paradigm">rCoin</span>s are minted by companies, not a national government.</p>
   <div class="_center">
    <img
     src="/assets/img/pic-rcoin-decentralized-minting-en.svg"
-    alt="A company gets REVENUE, at the top, and sends COINs out to the world, at the bottom. In parallel, a company mints its own COINs, as needed, and they go out to the world mixed in with REVENUE COINs."
+    alt="A company gets REVENUE, at the top, and sends rCoins out to the world, at the bottom. In parallel, a company mints its own rCoins, as needed, and they go out to the world mixed in with REVENUE rCoins."
     title="Decentralizd Minting"
    >
   </p>
@@ -189,32 +189,32 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p>But, also thankfully, they are not fungible individually. Each <span class="_paradigm">rCoin</span> carries information about its genesis and history and this translates to a different level of risk associated with each one. Their only transaction cost is that of “evaluating” whether or not to accept the risk associated with it. But this can be automated and it is insignificant. To decide whether to accept a given mix of <span class="_paradigm">rCoin</span>s as payment carries no financial cost since most transactions would be driven by the app&rsquo;s results and the few exceptions to it would be driven by people to people relationships. This takes those transactions out of the financial realm and into a people-to-people one.<a href="#en16"><sup id="bm16">&hairsp;&nabla;&hairsp;</sup></a></p>
 
  <h2><span class="_paradigm">rCoin</span>s Represent Broad Value</h2>
-  <p>To be robust, a <span class="_paradigm">rCoin</span> needs to be tied to value creation, and <span class="_paradigm">rCoin</span>s are. In fact they represent more than financial value. Their value also represents wellbeing, acts of kindness, and whatever else people consider important. And since COINs are factored through <span class="_paradigm">RAD</span>s they represent broad value contributions as well.</p>
-  <p>For example, if the RADs that have been allocated to me amount to 10% of the total and yours to 20%, this means that our fellow co-owners decided that you contributed twice as much as I did. As a result you get twice as many COINs as I do.</p>
+  <p>To be robust, a <span class="_paradigm">rCoin</span> needs to be tied to value creation, and <span class="_paradigm">rCoin</span>s are. In fact they represent more than financial value. Their value also represents wellbeing, acts of kindness, and whatever else people consider important. And since <span class="_paradigm">rCoin</span>s are factored through <span class="_paradigm">RAD</span>s they represent broad value contributions as well.</p>
+  <p>For example, if the RADs that have been allocated to me amount to 10% of the total and yours to 20%, this means that our fellow co-owners decided that you contributed twice as much as I did. As a result you get twice as many <span class="_paradigm">rCoin</span>s as I do.</p>
 
  <h2><span class="_paradigm">rCoin</span>s Transparent</h2>
   <p>National fiat coins are opaque. We make do with things like GDP, but GDP and others like it don&rsquo;t measure anything besides financial value. They are canonical examples of the Broken Window Fallacy and don&rsquo;t take into account society-wide costs. What&rsquo;s more, these indices can be very misleading, and “GDP can increase after a car accident or a major flood. GDP can grow rapidly during a war or after a terrorist attack.”<a href="#en17"><sup id="bm17">&hairsp;&nabla;&hairsp;</sup></a></p>
-  <p>COINs are transparent and we need them to be. Each rCoin carries with it a log of all the information necessary to calculate the potential risks and benefits associated with it. Given that information, each of us can then decide whether or not to accept a particular rCoin as payment.</p>
+  <p><span class="_paradigm">rCoin</span>s are transparent and we need them to be. Each rCoin carries with it a log of all the information necessary to calculate the potential risks and benefits associated with it. Given that information, each of us can then decide whether or not to accept a particular rCoin as payment.</p>
 
  <h2><span class="_paradigm">rCoin</span> Value</h2>
   <p>The face value of national fiat coins is fixed forever. At least, that is true for reserve currencies. Other national fiat coins are not so lucky: their face value stays put, but their purchasing  power fluctuates, sometimes wildly.</p>
   <p><span class="_paradigm">rCoin</span>s have a face value of one. It is backed by people who come together as <span class="_paradigm">RADICAL COMPANIES</span> to create broad value for society. It is free from national and international politics and manipulation.</p>
-  <p>The face value of <span class="_paradigm">rCoin</span>s never changes but the information in its log may. Based on all of that, each of us gets to decide whether or not to accept the COINs given the risks and benefits indicated in its log.</p>
+  <p>The face value of <span class="_paradigm">rCoin</span>s never changes but the information in its log may. Based on all of that, each of us gets to decide whether or not to accept the <span class="_paradigm">rCoin</span>s given the risks and benefits indicated in its log.</p>
 
  <h2>Different Companies, Different Values</h2>
   <p>As it is today, different companies will end up with different values and their co-owners will have more or less purchasing power. For example.</p>
   <ul>
-   <li>Company BenCO earns 100 COINs.</li>
-   <li>Company JerryCo earns 1,000 COINs.</li>
+   <li>Company BenCO earns 100 <span class="_paradigm">rCoin</span>s.</li>
+   <li>Company JerryCo earns 1,000 <span class="_paradigm">rCoin</span>s.</li>
    <li>JerryCo&rsquo;s <em>value</em> is higher than BenCO.</li>
-   <li>JerryCO <em>people earn more COINs</em> than those at BenCO.</li>
+   <li>JerryCO <em>people earn more <span class="_paradigm">rCoin</span>s</em> than those at BenCO.</li>
   </ul>
 
  <h2>Companies as Guarantors</h2>
-  <p>COINs are backed up by the <span class="_paradigm">RADICAL COMPANIES</span>, not national governments. This means that the COIN&rsquo;s “value” is determined by what each company brings to society and by its co-owners&rsquo; sensitivities.</p>
+  <p><span class="_paradigm">rCoin</span>s are backed up by the <span class="_paradigm">RADICAL COMPANIES</span>, not national governments. This means that the <span class="_paradigm">rCoin</span>&rsquo;s “value” is determined by what each company brings to society and by its co-owners&rsquo; sensitivities.</p>
   <p>This last bit is really important.</p>
   <p>In today&rsquo;s businesses, the owners can do whatever they want. Although the same is technically true for a <span class="_paradigm">RADICAL COMPANY</span> it will be a lot more unlikely that all co-owners would agree to do something that goes against their own values and communities.</p>
-  <p>For example, if a community feels harmed by the actions of CarelessCO they can make their case to a few of its co-owners to at least get a conversation going. If the harm affects many such communities and all its co-owners refuse to engage, they can simply record the failed discussion to CarelessCO&rsquo;s COINs. Some people may interpret this as a high risk (to society) while others may see it differently. We all get to decide.</p>
+  <p>For example, if a community feels harmed by the actions of CarelessCO they can make their case to a few of its co-owners to at least get a conversation going. If the harm affects many such communities and all its co-owners refuse to engage, they can simply record the failed discussion to CarelessCO&rsquo;s <span class="_paradigm">rCoin</span>s. Some people may interpret this as a high risk (to society) while others may see it differently. We all get to decide.</p>
 
 <h1><span class="_paradigma">rCoin</span> Risks and Benefits</h1>
  <p>There is plenty of evidence that shows that a currency, one that actually actually flows, can benefit a society,<a href="#en18"><sup id="bm18">&hairsp;&nabla;&hairsp;</sup></a> while money stuffed under a mattress only benefits the hoarder.</p>
@@ -239,28 +239,28 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <p>One problem with demurrage is that the rate of decay is not tied to value creation or anything like it. The Wörgl, and others like it, kept its face value for a week and went down in value every week thereafter. The W&auml;ra, another demurrage coin, lost 1% of its value every month.<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a> Regardless of their good intentions, these rates of decay are picked out of thin air.</p>
  <p><span class="_paradigm">rCoin</span>s, on the other hand, are always the same value. What changes is the potential risks and benefits associated with the company that engendered it. Every rCoin carries a log of all the information people need to decide whether or not to accept it.</p>
  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="/assets/img/en-rad-auto-inflation.svg" alt="Table, with RISKS along the horizontal and BENEFITS along the vertical axis. WHen COINs are low in RISKS and BENEFITS, there is high acceptance of them. When COINs come with high RISKS and low BENEFITS, or low RISKS and high BENEFITS, there some resistance and acceptance of them. When COINs have high RISKS and high BENEFITS, there is high resistance to accepting them. " title="rCoin RISKS and BENEFITS">
+  <img src="/assets/img/en-rad-auto-inflation.svg" alt="Table, with RISKS along the horizontal and BENEFITS along the vertical axis. WHen <span class="_paradigm">rCoin</span>s are low in RISKS and BENEFITS, there is high acceptance of them. When <span class="_paradigm">rCoin</span>s come with high RISKS and low BENEFITS, or low RISKS and high BENEFITS, there some resistance and acceptance of them. When <span class="_paradigm">rCoin</span>s have high RISKS and high BENEFITS, there is high resistance to accepting them. " title="rCoin RISKS and BENEFITS">
  </p> 
  <h2>Calculating Risk</h2>
-  <p>A <span class="_paradigm">rCoin</span>‘s log may include, for example, the number of co-owners that agree to its mint, the company&rsquo;s revenue history, how many COINs the company has minted, and the company&rsquo;s debt performance. Given the <span class="_paradigm">rCoin</span>&rsquo;s log, we can calculate the risk associated with every <span class="_paradigm">rCoin</span> and decide whether or not to accept a particular <span class="_paradigm">rCoin</span> as payment.</p>
+  <p>A <span class="_paradigm">rCoin</span>‘s log may include, for example, the number of co-owners that agree to its mint, the company&rsquo;s revenue history, how many <span class="_paradigm">rCoin</span>s the company has minted, and the company&rsquo;s debt performance. Given the <span class="_paradigm">rCoin</span>&rsquo;s log, we can calculate the risk associated with every <span class="_paradigm">rCoin</span> and decide whether or not to accept a particular <span class="_paradigm">rCoin</span> as payment.</p>
   <p>One side-effect of this, is that people will try to dilute what risk they hold by paying with a combination of low and high risk <span class="_paradigm">rCoin</span>s, enough of each to make the risk acceptable to the seller.<a href="#en22"><sup id="bm22">&hairsp;&nabla;&hairsp;</sup></a></p>
  <h2>Calculating Benefits</h2>
-  <p>Over time, companies will go up in value because they get very efficient, benefit from high demand, or both. People will likely hold on to their COINs. It may be that they are more comfortable with risk and may not mind taking higher risk COINs from fledgling companies. It may also be that even the more conservative folks may be tempted to take high risk COINs from high potential companies.</p>
+  <p>Over time, companies will go up in value because they get very efficient, benefit from high demand, or both. People will likely hold on to their <span class="_paradigm">rCoin</span>s. It may be that they are more comfortable with risk and may not mind taking higher risk <span class="_paradigm">rCoin</span>s from fledgling companies. It may also be that even the more conservative folks may be tempted to take high risk <span class="_paradigm">rCoin</span>s from high potential companies.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-   <img src="/assets/img/en-rads-value-increase.svg" alt="Table. Four columns by three rows. First row: After Month 1; +100 in Revenue;+100 New RADs; each RAD is worth one 100th; or one rCoin per RAD. After month 2: revenue is up by 1000; +100 New RADs; each worth one 200th of total; or 10 COINs per RAD. After Month 3: revenue has gone up by 5000; +100 New RADs; each woth one 300%th; or 50 COINs per RAD." title="Decentralizd Minting">
+   <img src="/assets/img/en-rads-value-increase.svg" alt="Table. Four columns by three rows. First row: After Month 1; +100 in Revenue;+100 New RADs; each RAD is worth one 100th; or one rCoin per RAD. After month 2: revenue is up by 1000; +100 New RADs; each worth one 200th of total; or 10 <span class="_paradigm">rCoin</span>s per RAD. After Month 3: revenue has gone up by 5000; +100 New RADs; each woth one 300%th; or 50 <span class="_paradigm">rCoin</span>s per RAD." title="Decentralizd Minting">
   </p>
  <h3>Other Value Factors</h3>
   <p>Other things that may affect company value,</p>
   <ul>
-   <li>As a company creates more value, it gets more revenue, and it generates more COINs. The revenue COINs are allocated according to each person&rsquo;s broad contributions. Co-owners decide what is a broad contribution according to the value they perceive.</li>
-   <li>If a company walks away from debt,<a href="#en23"><sup id="bm23">&hairsp;&nabla;&hairsp;</sup></a> it&rsquo;s reputation goes down, and its COINs go down in value.</li>
-   <li>As a company retires debt, its reputation goes up, and its COINs go up in value.</li>
-   <li>If the reputation and value of a company goes up, its COINs go down in risk. Those who took its COINs when they were high risk now have more desirable COINs. The upside spreads throughout society.</li>
-   <li>Companies that are constantly creating debt and not retiring it, will find themselves isolated. Their COINs will get riskier and riskier and they will be acceptable to fewer and fewer people. Hopefully, they will see guidance and help from others.</li>
+   <li>As a company creates more value, it gets more revenue, and it generates more <span class="_paradigm">rCoin</span>s. The revenue <span class="_paradigm">rCoin</span>s are allocated according to each person&rsquo;s broad contributions. Co-owners decide what is a broad contribution according to the value they perceive.</li>
+   <li>If a company walks away from debt,<a href="#en23"><sup id="bm23">&hairsp;&nabla;&hairsp;</sup></a> it&rsquo;s reputation goes down, and its <span class="_paradigm">rCoin</span>s go down in value.</li>
+   <li>As a company retires debt, its reputation goes up, and its <span class="_paradigm">rCoin</span>s go up in value.</li>
+   <li>If the reputation and value of a company goes up, its <span class="_paradigm">rCoin</span>s go down in risk. Those who took its <span class="_paradigm">rCoin</span>s when they were high risk now have more desirable <span class="_paradigm">rCoin</span>s. The upside spreads throughout society.</li>
+   <li>Companies that are constantly creating debt and not retiring it, will find themselves isolated. Their <span class="_paradigm">rCoin</span>s will get riskier and riskier and they will be acceptable to fewer and fewer people. Hopefully, they will see guidance and help from others.</li>
   </ul>
 
 <h1>TA-DAAAA!</h1>
- <p><span class="_paradigm">RAD</span>s account for what so far has been unaccountable. People get to decide what a contribution is and by doing so they “measure” what has been unmeasurable: an act of kindness, spontaneous help. Co-owners get <span class="_paradigm">rCoin</span>s according to the percentage of RADs they have and that makes COINs a much broader measure than just financial value.</p>
+ <p><span class="_paradigm">RAD</span>s account for what so far has been unaccountable. People get to decide what a contribution is and by doing so they “measure” what has been unmeasurable: an act of kindness, spontaneous help. Co-owners get <span class="_paradigm">rCoin</span>s according to the percentage of RADs they have and that makes <span class="_paradigm">rCoin</span>s a much broader measure than just financial value.</p>
  <p>Companies mint <span class="_paradigm">rCoin</span>s. This means that <span class="_paradigm">rCoin</span>s are decentralized and free of interference by national and international politics, financial institutions, and too-big-to-fail transnationals. <span class="_paradigm">rCoin</span>s will make it possible to create a world-wide market that Adam Smith would be happy with.<a href="#en24"><sup id="bm24">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>The whole system is transparent and each of us can decide to accept a payment or not. It is not mysterious or left to robed experts to figure things out. Each of us can do it because each of us is an expert on our own sensitivities and how we interpret the world.</p>
 
@@ -288,9 +288,9 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      <th style="padding-right:1ex; text-align:right; border-right:1px solid black; ">Battling Ghosts</th>
      <td style="padding-left:1ex; ">
       <p>The other type of bad actor is the one who gets pulled into behavior that he normally would not condone.</p>
-      <p>For example, Anita, a BenCO co-owner, wants to buy potatoes. The potato seller, Shui, looks at the COINs coming from her, but declines to accept them. It turns out that <em>all</em> of Anita&rsquo;s COINs come from BenCO and the company has not lived up to its promises. Shui is a very conservative type and he refuses to exchange her COINs for his potatoes. She explains the reasons why they had not made the first year payment on time, “and we will, by the end of this week.” Nevertheless, Shui is unmoved and puts the potatoes back in their bin.</p>
-      <p>Further down the road, Namir sees the same log that Shui got, but he, nevertheless, accepts Anita&rsquo;s COINs in exchange for his potatoes. It turns out that Namir knows Anita and what they are doing at BenCO and he trusts that they will retire their debts.</p>
-      <p>Shui sees the exchange, misinterprets it, and instead of talking with Namir he goes on to accept higher risk COINs that he is comfortable with. Instead of talking to Namir and figuring out what&rsquo;s going on, he falls into his own trap of assuming Namir is out to take business away from him.</p>
+      <p>For example, Anita, a BenCO co-owner, wants to buy potatoes. The potato seller, Shui, looks at the <span class="_paradigm">rCoin</span>s coming from her, but declines to accept them. It turns out that <em>all</em> of Anita&rsquo;s <span class="_paradigm">rCoin</span>s come from BenCO and the company has not lived up to its promises. Shui is a very conservative type and he refuses to exchange her <span class="_paradigm">rCoin</span>s for his potatoes. She explains the reasons why they had not made the first year payment on time, “and we will, by the end of this week.” Nevertheless, Shui is unmoved and puts the potatoes back in their bin.</p>
+      <p>Further down the road, Namir sees the same log that Shui got, but he, nevertheless, accepts Anita&rsquo;s <span class="_paradigm">rCoin</span>s in exchange for his potatoes. It turns out that Namir knows Anita and what they are doing at BenCO and he trusts that they will retire their debts.</p>
+      <p>Shui sees the exchange, misinterprets it, and instead of talking with Namir he goes on to accept higher risk <span class="_paradigm">rCoin</span>s that he is comfortable with. Instead of talking to Namir and figuring out what&rsquo;s going on, he falls into his own trap of assuming Namir is out to take business away from him.</p>
      </td>
     </tr>
     <tr>
@@ -313,68 +313,72 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   </table>
   
 <h1 id="VaryingBuyingPower">VARYING BUYING POWER</h1>
-  <p>I am selling potatoes at 40 COINs per dozen. After the first month <strong>Ⓐ</strong>, below, and his co-owners don&rsquo;t have enough COINs to buy my potatoes, but <strong>Ⓔ</strong> and his co-owners do. It may be that JerryCO is more efficient or maybe its products or services are more valuable. Either way, BenCO&rsquo;s co-owners end up with less buying power than JerryCO&rsquo;s co-owners.</p>
+  <p>I am selling potatoes at 40 <span class="_paradigm">rCoin</span>s per dozen. After the first month <strong>Ⓐ</strong>, below, and his co-owners don&rsquo;t have enough <span class="_paradigm">rCoin</span>s to buy my potatoes, but <strong>Ⓔ</strong> and his co-owners do. It may be that JerryCO is more efficient or maybe its products or services are more valuable. Either way, BenCO&rsquo;s co-owners end up with less buying power than JerryCO&rsquo;s co-owners.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-   <img src="/assets/img/en-rad-auto-inflation-a.svg" alt="Two tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 100 COINs. Second row is RAD DISTRIBUTION, distributed as 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. They each get 10, 20, 30, and 40 COINs. For JerryCO: the EARNED DIVIDENDS  row shows +1000 New for a TOTAL of 1000 COINs. The RAD DISTRIBUTION in the second row is as follows: 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. This is the same as for BenCO, but in the JerryCO case the first person gets 100 instead of 10, the second 200 instead of 20, the third 300 instead of 30, and the fourth 400 COINs instead of 40. The BenCO co-owners end up with less buying power than JerryCO&rsquo;s co-owners." title="Varying Buying Powers A">
+   <img src="/assets/img/en-rad-auto-inflation-a.svg" alt="Two tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL <span class="_paradigm">rCoin</span>s); +100 New for a TOTAL of 100 <span class="_paradigm">rCoin</span>s. Second row is RAD DISTRIBUTION, distributed as 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. They each get 10, 20, 30, and 40 <span class="_paradigm">rCoin</span>s. For JerryCO: the EARNED DIVIDENDS  row shows +1000 New for a TOTAL of 1000 <span class="_paradigm">rCoin</span>s. The RAD DISTRIBUTION in the second row is as follows: 10% for the first person, 20% for the second, 30% for the third, and 40% for the fourth. This is the same as for BenCO, but in the JerryCO case the first person gets 100 instead of 10, the second 200 instead of 20, the third 300 instead of 30, and the fourth 400 <span class="_paradigm">rCoin</span>s instead of 40. The BenCO co-owners end up with less buying power than JerryCO&rsquo;s co-owners." title="Varying Buying Powers A">
   </p>
-  <p>Within each company, the buying power of an individual co-owner, too, can change every cycle. For example, in the illustration above, by the third cycle <strong>Ⓔ</strong>, a JerryCO co-owner who started with 100 COINs, now has 1,200 which are enough to buy 30 dozen of my potatoes. Other other hand, JerryCO co-owner <strong>Ⓗ</strong> didn&rsquo;t get any COINs this cycle and he only has 600 COINs and has to settle for 15 dozen of my potatoes.</p>
+  <p>Within each company, the buying power of an individual co-owner, too, can change every cycle. For example, in the illustration above, by the third cycle <strong>Ⓔ</strong>, a JerryCO co-owner who started with 100 <span class="_paradigm">rCoin</span>s, now has 1,200 which are enough to buy 30 dozen of my potatoes. Other other hand, JerryCO co-owner <strong>Ⓗ</strong> didn&rsquo;t get any <span class="_paradigm">rCoin</span>s this cycle and he only has 600 <span class="_paradigm">rCoin</span>s and has to settle for 15 dozen of my potatoes.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-   <img src="/assets/img/en-rad-auto-inflation-b.svg" alt="Four tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 200 COINs. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 23% for the fourth. They each get 40, 70, 30, and 60 COINs. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +1000 New for a TOTAL of 2000 COINs. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 30% for the fourth (the same as for BenCO). They each get 400, 700, 300, and 600 COINs. Below there are two more tables. For BenCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +100 New for a TOTAL of 300 COINs. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth. They each get 120, 45, 45, and 60 COINs. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL COINs); +1000 New for a TOTAL of 3000 COINs. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth (the same as for BenCO). They each get 1200, 450, 450, and 600 COINs. Some JerryCO co-owners have more COINs than others." title="Varying Buying Powers between and within companies">
+   <img src="/assets/img/en-rad-auto-inflation-b.svg" alt="Four tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL <span class="_paradigm">rCoin</span>s); +100 New for a TOTAL of 200 <span class="_paradigm">rCoin</span>s. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 23% for the fourth. They each get 40, 70, 30, and 60 <span class="_paradigm">rCoin</span>s. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL <span class="_paradigm">rCoin</span>s); +1000 New for a TOTAL of 2000 <span class="_paradigm">rCoin</span>s. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 30% for the fourth (the same as for BenCO). They each get 400, 700, 300, and 600 <span class="_paradigm">rCoin</span>s. Below there are two more tables. For BenCO: first row is EARNED DIVIDENDS (in RADICAL <span class="_paradigm">rCoin</span>s); +100 New for a TOTAL of 300 <span class="_paradigm">rCoin</span>s. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth. They each get 120, 45, 45, and 60 <span class="_paradigm">rCoin</span>s. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL <span class="_paradigm">rCoin</span>s); +1000 New for a TOTAL of 3000 <span class="_paradigm">rCoin</span>s. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth (the same as for BenCO). They each get 1200, 450, 450, and 600 <span class="_paradigm">rCoin</span>s. Some JerryCO co-owners have more <span class="_paradigm">rCoin</span>s than others." title="Varying Buying Powers between and within companies">
   </p>
 
-<h1>FAQ</h1> 
- <h3 style="font-size:25px; font-family:Courier New, monospace; ">Companies minting COINs without any rules sounds really, really crazy!</h3>
+<h1>FAQ</h1>
+
+ <h3 style="font-size:25px; font-family:Courier New, monospace; ">Companies minting <span class="_paradigm">rCoin</span>s without any rules sounds really, really crazy!</h3>
   <p>If that sounds “crazy,” then the financial system we have today is crazier. And it is business hostile, on top.</p>
-  <p>COINs minted by BenCO carry a log which includes all the information related to their creation. The co-owners are motivated to retire the COINs they minted in the time promised. If they don&rsquo;t do that, fewer and fewer sellers will accept their COINs. Their buying power will go down the drain in a hurry.</p> 
+  <p><span class="_paradigm">rCoin</span>s minted by BenCO carry a log which includes all the information related to their creation. The co-owners are motivated to retire the <span class="_paradigm">rCoin</span>s they minted in the time promised. If they don&rsquo;t do that, fewer and fewer sellers will accept their <span class="_paradigm">rCoin</span>s. Their buying power will go down the drain in a hurry.</p>
+
  <h3 style="font-size:25px; font-family:Courier New, monospace; ">Why not make co-owners responsible for personally retiring the debt?</h3>
   <p>&nbsp;</p>
+
  <h3 style="font-size:25px; font-family:Courier New, monospace; ">What prevents a company from continuously taking on new debt to retire old debt?</h3>
-  <p>Co-owners could decide to do this, but it goes on the record, so to speak, for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s COINs.</p>
- <h3 style="font-size:25px; font-family:Courier New, monospace; ">What if co-owners pay themselves a huge amount of COINs and keep taking new debt to paper over it? Wouldn&rsquo;t this create massive inflation?</h3>
-  <p>Co-owners could decide to do this, but it goes on the record, so to speak, for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s COINs. They may have lots and lots of COINs, but they would not be welcome by most people.</p> 
- <h3 style="font-size:25px; font-family:Courier New, monospace; ">The potato grower uses the COINs he got from selling her potatoes to buy a shovel. But then she discovers that the town&rsquo;s shovel-maker raised his prices so that he can buy metal and wood to make more shovels.</h3>
+  <p>Co-owners could decide to do this, but it goes on the record, so to speak, for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s <span class="_paradigm">rCoin</span>s.</p>
+
+ <h3 style="font-size:25px; font-family:Courier New, monospace; ">What if co-owners pay themselves a huge amount of <span class="_paradigm">rCoin</span>s and keep taking new debt to paper over it? Wouldn&rsquo;t this create massive inflation?</h3>
+  <p>Co-owners could decide to do this, but it goes on the record, so to speak, for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s <span class="_paradigm">rCoin</span>s. They may have lots and lots of <span class="_paradigm">rCoin</span>s, but they would not be welcome by most people.</p> 
+ <h3 style="font-size:25px; font-family:Courier New, monospace; ">The potato grower uses the <span class="_paradigm">rCoin</span>s he got from selling her potatoes to buy a shovel. But then she discovers that the town&rsquo;s shovel-maker raised his prices so that he can buy metal and wood to make more shovels.</h3>
   <p>Yes, that could happen, as it does today.</p>
   <p>Eventually, another shovel-maker would appear and make shovels that people can afford. The greedy shovel maker would go out of business.</p>
- <h3 style="font-size:25px; font-family:Courier New, monospace; ">PotatoCO mints COINs to pay for the now higher priced shovel.</h3>
-  <p>If PotatoCO&rsquo;s co-owners figure that the new price is a fair price and there&rsquo;s no other supplier around, it would have to do that. They would have to make sure that they can get enough COINs from future potatoes to retire the debt as promised. Otherwise, they are going to pay with a lower reputation and value and less buying power for the co-owners.</p>
-  <p>People will continue to make mistakes and miss estimates. COINs won&rsquo;t change human nature. But co-owners can mint the COINs they need to run their companies without worrying about the color of their skin, or their gender, or church affiliation.</p>
+ <h3 style="font-size:25px; font-family:Courier New, monospace; ">PotatoCO mints <span class="_paradigm">rCoin</span>s to pay for the now higher priced shovel.</h3>
+  <p>If PotatoCO&rsquo;s co-owners figure that the new price is a fair price and there&rsquo;s no other supplier around, it would have to do that. They would have to make sure that they can get enough <span class="_paradigm">rCoin</span>s from future potatoes to retire the debt as promised. Otherwise, they are going to pay with a lower reputation and value and less buying power for the co-owners.</p>
+  <p>People will continue to make mistakes and miss estimates. <span class="_paradigm">rCoin</span>s won&rsquo;t change human nature. But co-owners can mint the <span class="_paradigm">rCoin</span>s they need to run their companies without worrying about the color of their skin, or their gender, or church affiliation.</p>
  <h3 style="font-size:25px; font-family:Courier New, monospace; ">But this means that another potato grower buys a tractor and grows even more potatoes!</h3>
   <p>Yes. This means that people can experiment more.</p>
   <p>Maybe the tractor turns out to be a lemon and doesn&rsquo;t help him produce more or better potatoes. He probably won&rsquo;t be able to retire the debt he took on to buy it.</p> 
- <h3 style="font-size:25px; font-family:Courier New, monospace; ">What if JerryCO, a brand new startup with no revenue, needs COINs to get started, can it just mint them?</h3>
-  <p>In this case, most vendors would likely not accept JerryCO&rsquo;s COINs as payments because its COINs would have very high risk.</p>
-  <p>In this case, other companies may want to help out JerryCO by giving them COINs. One or more companies could mint enough COINs for JerryCO  to get to revenue or to build its minimum viable product. This could include vendors of equipment that JerryCO needs to succeed and the quid pro quo is that they will become JerryCO&rsquo;s preferred vendors.</p>
+ <h3 style="font-size:25px; font-family:Courier New, monospace; ">What if JerryCO, a brand new startup with no revenue, needs <span class="_paradigm">rCoin</span>s to get started, can it just mint them?</h3>
+  <p>In this case, most vendors would likely not accept JerryCO&rsquo;s <span class="_paradigm">rCoin</span>s as payments because its <span class="_paradigm">rCoin</span>s would have very high risk.</p>
+  <p>In this case, other companies may want to help out JerryCO by giving them <span class="_paradigm">rCoin</span>s. One or more companies could mint enough <span class="_paradigm">rCoin</span>s for JerryCO  to get to revenue or to build its minimum viable product. This could include vendors of equipment that JerryCO needs to succeed and the quid pro quo is that they will become JerryCO&rsquo;s preferred vendors.</p>
   <p>Alternatively, the investment may come from a group of adjacent companies. They believe that JerryCO&rsquo;s product is complementary to theirs and will help the market grow. Or JerryCO promises to “repay” twice the original amount of this investment.</p>
-  <p>In any case, as JerryCO starts to show results and a pattern of doing as promised, the risk of its own COINs will go down and will be able to pay with a mix of its own COINs and co-investment COINs.</p>
- <h3 style="font-size:25px; font-family:Courier New, monospace; ">What if a BenCO co-owner wants to buy the latest electric, self-driving car, but she doesn&rsquo;t get enough COINs? Can&rsquo;t she convince the other co-owners to pay themselves more COINs?</h3>
-   <p>For BenCO co-owners to pay themselves a lot more COINs than they actually receive in revenue, they would have to mint the extra COINs. These newly minted COINs would show a lot of risks and sellers would likely not accept them as payment, particularly for luxury items.</p>
+  <p>In any case, as JerryCO starts to show results and a pattern of doing as promised, the risk of its own <span class="_paradigm">rCoin</span>s will go down and will be able to pay with a mix of its own <span class="_paradigm">rCoin</span>s and co-investment <span class="_paradigm">rCoin</span>s.</p>
+ <h3 style="font-size:25px; font-family:Courier New, monospace; ">What if a BenCO co-owner wants to buy the latest electric, self-driving car, but she doesn&rsquo;t get enough <span class="_paradigm">rCoin</span>s? Can&rsquo;t she convince the other co-owners to pay themselves more <span class="_paradigm">rCoin</span>s?</h3>
+   <p>For BenCO co-owners to pay themselves a lot more <span class="_paradigm">rCoin</span>s than they actually receive in revenue, they would have to mint the extra <span class="_paradigm">rCoin</span>s. These newly minted <span class="_paradigm">rCoin</span>s would show a lot of risks and sellers would likely not accept them as payment, particularly for luxury items.</p>
  <h3 style="font-size:25px; font-family:Courier New, monospace; ">Do you mean that there is no possible way to defraud the system?</h3>
   <p>It simply means that I can&rsquo;t think of a way of doing that.</p>
   <p>Every time I think of something, the system manages to protect itself. And it is all because of the transparency built into it.</p>
-  <p>I can imagine that there could be a way to falsify a COIN&rsquo;s log, but I&rsquo;ll leave that to smarter people.</p>
- <h3 style="font-size:25px; font-family:Courier New, monospace; ">Why can&rsquo;t people mint COINs? Why is it limited to companies?</h3>
+  <p>I can imagine that there could be a way to falsify a <span class="_paradigm">rCoin</span>&rsquo;s log, but I&rsquo;ll leave that to smarter people.</p>
+ <h3 style="font-size:25px; font-family:Courier New, monospace; ">Why can&rsquo;t people mint <span class="_paradigm">rCoin</span>s? Why is it limited to companies?</h3>
   <p>Community!</p>
-  <p>In the RADICAL model, a company is a community of people who come together to contribute broad value to society and make an impact in the world. This means that co-owners may be motivated to mind COINs, but the risks of doing so may hold them back. Do we believe that we can retire the debt? Can we do as we are promising?</p>
+  <p>In the RADICAL model, a company is a community of people who come together to contribute broad value to society and make an impact in the world. This means that co-owners may be motivated to mind <span class="_paradigm">rCoin</span>s, but the risks of doing so may hold them back. Do we believe that we can retire the debt? Can we do as we are promising?</p>
   <p>Maybe individuals can weigh all those considerations by themselves, but I know I couldn&rsquo;t, at least not in a balanced way. When the pros and cons are weighed by the broader consideration of a community, the final decision is more balanced.</p>
- <h3 style="font-size:25px; font-family:Courier New, monospace; ">What if a company mints COINs and then is not able to retire the debt?</h3>
+ <h3 style="font-size:25px; font-family:Courier New, monospace; ">What if a company mints <span class="_paradigm">rCoin</span>s and then is not able to retire the debt?</h3>
   <p>Yes, this kind of thing will happen. And, in case you&rsquo;re asking, there is no punishment for the people involved in this.</p>
   <p>The overall costs will be negligible. It happens all the time today and nobody notices. Yes, the people involved in a bankruptcy get punished, ruthlessly so. But the system absorbs the losses, magically.</p>
- <h3 style="font-size:25px; font-family:Courier New, monospace; ">What about people who retired on their CarelessCO&rsquo;s COINs?</h3>
+ <h3 style="font-size:25px; font-family:Courier New, monospace; ">What about people who retired on their CarelessCO&rsquo;s <span class="_paradigm">rCoin</span>s?</h3>
   <p> I think that in a <span class="_paradigm">RADICAL</span> world, “retiring” will be a thing of the past (<em>i.e.</em>, our present). People “retire” today because they&rsquo;ve been putting up with their job for many years and they are burned out in more ways than one.</p>
   <p>In a <span class="_paradigm">RADICAL</span> world, the more likely scenario is that people may decide to not join another company for a while and live instead off their portfolio of RADs from their past companies. This type of “retiring” will not be a function of age or tiresomeness, it will be of choice.</p>
-  <p>So, let&rsquo;s say that I decide to travel the world on a sailboat, paying for it with CarelessCO&rsquo;s COINs and CarelessCO disbands. There could be three cases,</p>
+  <p>So, let&rsquo;s say that I decide to travel the world on a sailboat, paying for it with CarelessCO&rsquo;s <span class="_paradigm">rCoin</span>s and CarelessCO disbands. There could be three cases,</p>
   <ol>
-   <li>The COINs I have are pre-disband and their log attests to it. I feel bad because they had a lot of potential, but they got careless and cocky, over-promised, and could not meet their commitments.</li>
-   <li>The COINs I have are mostly pre-disband, but I do have some that the company minted. The amount is very minor, I&rsquo;ll have to switch to a smaller boat. Besides, I am earning COINs while on the boat by writing about my journey.</li>
-   <li>All the COINs I have are the ones discredited. In fact, I was one of the co-owners who supported the minting (we were sure we could do it). In this case, I screwed myself financially, but I learned something in the process. I have to return the boat and join WiserCO.</li>
+   <li>The <span class="_paradigm">rCoin</span>s I have are pre-disband and their log attests to it. I feel bad because they had a lot of potential, but they got careless and cocky, over-promised, and could not meet their commitments.</li>
+   <li>The <span class="_paradigm">rCoin</span>s I have are mostly pre-disband, but I do have some that the company minted. The amount is very minor, I&rsquo;ll have to switch to a smaller boat. Besides, I am earning <span class="_paradigm">rCoin</span>s while on the boat by writing about my journey.</li>
+   <li>All the <span class="_paradigm">rCoin</span>s I have are the ones discredited. In fact, I was one of the co-owners who supported the minting (we were sure we could do it). In this case, I screwed myself financially, but I learned something in the process. I have to return the boat and join WiserCO.</li>
   </ol>
  <h3 style="font-size:25px; font-family:Courier New, monospace; ">What if lots of companies disband at the same time?</h3>
   <p>Then you adjust your app to raise the risk of similar companies.</p>
  <h3 style="font-size:25px; font-family:Courier New, monospace; ">What about people who cannot work?</h3>
   <p>Some people will be unable to contribute to a company, for whatever reason. But to their family</p>
- <h3 style="font-size:25px; font-family:Courier New, monospace; ">Is risk associated with companies or with COINs?</h3>
-  <p>A COINs log includes all the information needed to calculate the COIN&rsquo;s potential risk and benefits. But, this date comes from the company behind the minted COINs. In all likelihood, it would include the number of co-owners who agreed to the mint and its how well they&rsquo;ve kept to their promises. It would also include that a case has been made by several communities that the company is harming them and whether or not the situation has been resolved to the communities&rsquo; satisfaction.</p>
-  <p>For each COINs, the log holds facts, not judgements and each of us gets to decide what to do with them.</p>
+ <h3 style="font-size:25px; font-family:Courier New, monospace; ">Is risk associated with companies or with <span class="_paradigm">rCoin</span>s?</h3>
+  <p>A <span class="_paradigm">rCoin</span>s log includes all the information needed to calculate the <span class="_paradigm">rCoin</span>&rsquo;s potential risk and benefits. But, this date comes from the company behind the minted <span class="_paradigm">rCoin</span>s. In all likelihood, it would include the number of co-owners who agreed to the mint and its how well they&rsquo;ve kept to their promises. It would also include that a case has been made by several communities that the company is harming them and whether or not the situation has been resolved to the communities&rsquo; satisfaction.</p>
+  <p>For each <span class="_paradigm">rCoin</span>s, the log holds facts, not judgements and each of us gets to decide what to do with them.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <div class="footnotes">
@@ -430,7 +434,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    </li>
    <li id="en7">
     <p class="_list-item">
-     But, pay your taxes. One day we&rsquo;ll be able to pay taxes with COINs and that&rsquo;ll be something, but in the meantime, pay your taxes with the required coinage.
+     But, pay your taxes. One day we&rsquo;ll be able to pay taxes with <span class="_paradigm">rCoin</span>s and that&rsquo;ll be something, but in the meantime, pay your taxes with the required coinage.
      <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
