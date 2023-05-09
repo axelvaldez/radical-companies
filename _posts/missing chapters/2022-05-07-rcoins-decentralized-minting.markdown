@@ -161,7 +161,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      </tr>
      <tr>
       <th>Not so Happy Ending</th>
-      <td>BenCO has retired only wo thirds of the minted <span class="_paradigm">rCoin</span>s by the third year and it retires all 30,000 <span class="_paradigm">rCoin</span>s a quarter later.</td>
+      <td>BenCO has retired only wo thirds of the minted <span class="_paradigm">rCoin</span>s by the third year; it retires all 30,000 <span class="_paradigm">rCoin</span>s a quarter later.</td>
      </tr>
      <tr>
       <th>Unhappy Ending</th>
