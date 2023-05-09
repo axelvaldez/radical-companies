@@ -238,17 +238,22 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  </table>
  <p>One problem with demurrage is that the rate of decay is not tied to value creation or anything like it. The Wörgl, and others like it, kept its face value for a week and went down in value every week thereafter. The W&auml;ra, another demurrage coin, lost 1% of its value every month.<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a> Regardless of their good intentions, these rates of decay are picked out of thin air.</p>
  <p><span class="_paradigm">rCoin</span>s, on the other hand, are always the same value. What changes is the potential risks and benefits associated with the company that engendered it. Every rCoin carries a log of all the information people need to decide whether or not to accept it.</p>
- <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-  <img src="/assets/img/en-rad-auto-inflation.svg" alt="Table, with RISKS along the horizontal and BENEFITS along the vertical axis. WHen <span class="_paradigm">rCoin</span>s are low in RISKS and BENEFITS, there is high acceptance of them. When <span class="_paradigm">rCoin</span>s come with high RISKS and low BENEFITS, or low RISKS and high BENEFITS, there some resistance and acceptance of them. When <span class="_paradigm">rCoin</span>s have high RISKS and high BENEFITS, there is high resistance to accepting them. " title="rCoin RISKS and BENEFITS">
- </p> 
+  <img
+   src="/assets/img/en-rad-auto-inflation.svg"
+   alt="Table, with RISKS along the horizontal and BENEFITS along the vertical axis. WHen rCoins are low in RISKS and BENEFITS, there is high acceptance of them. When rCoins come with high RISKS and low BENEFITS, or low RISKS and high BENEFITS, there some resistance and acceptance of them. When rCoins have high RISKS and high BENEFITS, there is high resistance to accepting them."
+   title="rCoin RISKS and BENEFITS"
+  >
+
  <h2>Calculating Risk</h2>
   <p>A <span class="_paradigm">rCoin</span>‘s log may include, for example, the number of co-owners that agree to its mint, the company&rsquo;s revenue history, how many <span class="_paradigm">rCoin</span>s the company has minted, and the company&rsquo;s debt performance. Given the <span class="_paradigm">rCoin</span>&rsquo;s log, we can calculate the risk associated with every <span class="_paradigm">rCoin</span> and decide whether or not to accept a particular <span class="_paradigm">rCoin</span> as payment.</p>
   <p>One side-effect of this, is that people will try to dilute what risk they hold by paying with a combination of low and high risk <span class="_paradigm">rCoin</span>s, enough of each to make the risk acceptable to the seller.<a href="#en22"><sup id="bm22">&hairsp;&nabla;&hairsp;</sup></a></p>
+
  <h2>Calculating Benefits</h2>
   <p>Over time, companies will go up in value because they get very efficient, benefit from high demand, or both. People will likely hold on to their <span class="_paradigm">rCoin</span>s. It may be that they are more comfortable with risk and may not mind taking higher risk <span class="_paradigm">rCoin</span>s from fledgling companies. It may also be that even the more conservative folks may be tempted to take high risk <span class="_paradigm">rCoin</span>s from high potential companies.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img src="/assets/img/en-rads-value-increase.svg" alt="Table. Four columns by three rows. First row: After Month 1; +100 in Revenue;+100 New RADs; each RAD is worth one 100th; or one rCoin per RAD. After month 2: revenue is up by 1000; +100 New RADs; each worth one 200th of total; or 10 <span class="_paradigm">rCoin</span>s per RAD. After Month 3: revenue has gone up by 5000; +100 New RADs; each woth one 300%th; or 50 <span class="_paradigm">rCoin</span>s per RAD." title="Decentralizd Minting">
   </p>
+
  <h3>Other Value Factors</h3>
   <p>Other things that may affect company value,</p>
   <ul>
