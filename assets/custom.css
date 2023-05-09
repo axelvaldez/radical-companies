@@ -45,10 +45,10 @@ h2 a:hover, h3 a:hover{
   text-decoration: none;
 }
 .btn{
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", serif;
 }
 nav{
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", serif;
 }
 nav {
   border-bottom: 1px solid #dedede;
@@ -175,7 +175,7 @@ footer{
     background-position:center top;
     background-size:100%;
     background-repeat:no-repeat;
-    font-family:"Roboto", sans-serif;
+    font-family:"Roboto", serif;
 }
 @media (min-width: 1024px){
   .hero-img{
@@ -215,7 +215,7 @@ table._explicitalignment td {
   font-size:30px;
 }
 h1, h2 {
-  font-family:'Courier New', Courier, monospace;
+  font-family:'Roboto', serif;
 }
 h1 {
   font-size:40px;
@@ -312,7 +312,7 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   text-align:justify;
   font-style:italic;
   font-size:smaller;
-  font-family:'Roboto', sans-serif;
+  font-family:'Roboto', serif;
   background-color:beige;
   white-space:normal;
   border:1px solid CadetBlue;
