@@ -28,7 +28,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <p>A decentralized and transparent <span class="_paradigm">rCoin</span> will make possible a world-wide market that we can all play in without intermediaries.</p>
 
 <h1>Terminology Used in this Doc</h1>
- <div class=_center">
+ <div class="_center">
   <table class="_h2table">
    <tr>
     <th>National Fiat Coin</th>
