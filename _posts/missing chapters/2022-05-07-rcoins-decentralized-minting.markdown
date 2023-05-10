@@ -53,7 +53,12 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
     </tr>
   </table>
  </div>
- <p>To avoid confusion, in this document I use &ldquo;money&rdquo; to refer to the concept, &ldquo;national fiat coin&rdquo; to refer to what we normally mean by money, and &ldquo;currency&rdquo; not at all.</p>
+ <p>To avoid confusion, in this document I use,</p>
+  <ul>
+   <li><em>money</em> to refer to the concept,</li>
+   <li><em>national fiat coin</em> to refer to what we normally mean by money,</li>
+   <li><em>currency</em> not at all.</li>
+  </ul>
 
 <h1>A Historical Perspective</h1>
  <p><span class="_paradigm">rCoin</span>s are not to be confused, or conflated, with local or complementary currencies, demurrage money, or any such.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> Ditto for Mutualism, Marxism, or any other theory or ideology. The point of <span class="_paradigm">rCoin</span>a is to make it possible to have a world-wide market, free of intermediaries, and with negligible costs.</p>
