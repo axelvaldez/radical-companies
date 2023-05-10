@@ -286,7 +286,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
       </td>
      </tr>
      <tr>
-      <th>Assuming</th>
+      <th>Assuming Instead of <em>Asking</em></th>
       <td>
        <p>The other type of bad actor is the one who gets pulled into behavior that he normally would not condone.</p>
        <p>For example, Anita, a BenCO co-owner, wants to buy potatoes. The potato seller, Shui, looks at the <span class="_paradigm">rCoin</span>s coming from her, but declines to accept them. It turns out that <em>all</em> of Anita&rsquo;s <span class="_paradigm">rCoin</span>s come from BenCO and the company has not lived up to its promises. Shui is a very conservative type and he refuses to exchange her <span class="_paradigm">rCoin</span>s for his potatoes. She explains the reasons why they had not made the first year payment on time, &ldquo;and we will, by the end of this week.&rdquo; Nevertheless, Shui is unmoved and puts the potatoes back in their bin.</p>
@@ -297,7 +297,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      <tr>
       <th>Convenience?</th>
       <td>
-       <p>Other Bad Actors act out of <em>convenience</em>. This is how Seth Godin breaks it down,</p>
+       <p>Other Bad Actors may act out of <em>convenience</em>. This is how Seth Godin breaks it down,</p>
         <ul>
          <li>&ldquo;<strong>Social convenience</strong>: it&rsquo;s easier to sit through a boring cocktail party or a meeting than it is to tell someone you don&rsquo;t want to come.</li>
          <li>&ldquo;<strong>Physical convenience</strong>: things that are handy are much more likely  to be chosen than ones that require us to move somewhere to go get them.</li>
