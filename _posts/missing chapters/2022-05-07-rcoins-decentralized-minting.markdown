@@ -11,7 +11,8 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
 </div>
 
 <div class="_citation">
- <p>If Kings and Queens had figured out the fiat money racket, we&rsquo;d still be Her or His Majesty&rsquo;s subjects</p>
+ <p>If Kings and Queens had figured out the fiat money thing, we&rsquo;d still be Her or His Majesty&rsquo;s subjects</p>
+ <p id="_signature">Matt Perez</p>
 </div>
 
 <h1>Hoarding Is Violence</h1>
