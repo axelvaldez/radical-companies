@@ -544,7 +544,7 @@ table._ninety tr::nth-child(-n + 3) {
  Two-Column Table
  */
 table._h2table {
-  width:70%;
+  width:85%;
 }
 table._h2table tr:nth-child(odd) {
   background-color:#EEEEEE;
@@ -562,6 +562,9 @@ table._h2table td {
   text-align:left;
   border-left:black 1px solid;
   padding-left:1em;
+}
+table._h2table p:first-child {
+  text-indent:0;
 }
 img {
   font-family:'Courier New', Courier, monospace;
