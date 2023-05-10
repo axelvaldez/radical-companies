@@ -297,14 +297,14 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      <tr style="vertical-align:text-top; ">
       <th style="padding-right:1ex; text-align:right; border-right:1px solid black; ">Convenience</th>
       <td style="padding-left:1ex; ">
-       <p>Other Bad Actors act out of convenience. I&rsquo;ll let Seth Godin describe this one,</p>
-        <div style="padding-left:2ex; ">
-         <p style="font-size: smaller; margin-bottom:6px; ">&ldquo;<strong>Social convenience</strong>: it&rsquo;s easier to sit through a boring cocktail party or a meeting than it is to tell someone you don&rsquo;t want to come.</p>
-         <p style="font-size: smaller; margin-bottom:6px; ">&ldquo;<strong>Physical convenience</strong>: things that are handy are much more likely  to be chosen than ones that require us to move somewhere to go get them.</p>
-         <p style="font-size: smaller; margin-bottom:6px; ">&ldquo;<strong>Intellectual convenience</strong>: change makes us uncomfortable. Sunk costs are hard to ignore. Possibility comes with agency, and agency comes with risk.</p>
-         <p style="font-size: smaller; margin-bottom:6px; ">&ldquo;<strong>Financial convenience</strong>: if it&rsquo;s cheaper in the short run, we&rsquo;re more likely to choose it, even if it costs satisfaction, opportunity or cash in the long run.</p>
-         <p style="font-size: smaller; margin-bottom:6px; ">&ldquo;<strong>Cultural convenience</strong>: A combination of all of these, because culture likes the status quo and reminds of this regularly.&rdquo;<a href="#en25"><sup id="bm25">&hairsp;&nabla;&hairsp;</sup></a></p>
-        </div>
+       <p>Other Bad Actors act out of convenience. This is how Seth Godin breaks it down,</p>
+        <ul>
+         <li>&ldquo;<strong>Social convenience</strong>: it&rsquo;s easier to sit through a boring cocktail party or a meeting than it is to tell someone you don&rsquo;t want to come.</li>
+         <li>&ldquo;<strong>Physical convenience</strong>: things that are handy are much more likely  to be chosen than ones that require us to move somewhere to go get them.</li>
+         <li>&ldquo;<strong>Intellectual convenience</strong>: change makes us uncomfortable. Sunk costs are hard to ignore. Possibility comes with agency, and agency comes with risk.</li>
+         <li>&ldquo;<strong>Financial convenience</strong>: if it&rsquo;s cheaper in the short run, we&rsquo;re more likely to choose it, even if it costs satisfaction, opportunity or cash in the long run.</li>
+         <li>&ldquo;<strong>Cultural convenience</strong>: A combination of all of these, because culture likes the status quo and reminds of this regularly.&rdquo;<a href="#en25"><sup id="bm25">&hairsp;&nabla;&hairsp;</sup></a></li>
+        </ul>
      </td>
     </tr>
    </table>
