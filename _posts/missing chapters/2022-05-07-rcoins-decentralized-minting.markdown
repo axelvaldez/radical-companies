@@ -430,7 +430,8 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      <em>Theory X<em>.
      The Human Side of Enterprise, p 1.
      1975
-     &lt;<a href="https://radicals.world/McCTGD">https://rzadicals.world/McCTGD</a>&gt; (alt, &lt;<a href="https://www.diigo.com/item/pdf/zk1n/juhm">https://www.diigo.com/item/pdf/zk1n/juhm</a>&gt;).
+     &lt;<a href="https://radicals.world/McCTGD">https://rzadicals.world/McCTGD</a>&gt;
+     (alt, &lt;<a href="https://www.diigo.com/item/pdf/zk1n/juhm">https://www.diigo.com/item/pdf/zk1n/juhm</a>&gt;).
      <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
