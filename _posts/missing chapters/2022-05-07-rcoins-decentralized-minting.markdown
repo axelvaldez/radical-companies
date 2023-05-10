@@ -282,7 +282,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      <tr style="vertical-align:text-top; ">
       <th>Going Along</th>
       <td>
-       <p>One type of &ldquo;bad actor&rdquo; is people who &ldquo;go along.&rdquo; We normally don&rsquo;t think of them as bad actors, &ldquo;they&rsquo;re just nice people.&rdquo; In any case, Shui is one of them. He notices that Namir is taking more than he contributed, but he doesn&rsquo;t say anything and talks to Namir. Shui turns a blind eye towards Namir&rsquo;s bad behavior and goes by untested assumptions. &ldquo;Namir is a nice guy and maybe he needs a little bit more than me.&rdquo;</p>
+       <p>One type of &ldquo;bad actor&rdquo; is people who &ldquo;go along.&rdquo; We normally don&rsquo;t think of them as bad actors, &ldquo;they&rsquo;re just nice people.&rdquo; In any case, Shui is one of them. He notices that Namir is taking more than he contributed, but he doesn&rsquo;t say anything when talks to Namir. Shui turns a blind eye towards Namir&rsquo;s bad behavior and may tell himself that, <span class="_quotespan">Namir is a nice guy and maybe he needs a little bit more than me.</span> In any case, Shui is encouraging Namir&rsquo;s behavior which will eventually hurt everybody around.</p>
       </td>
      </tr>
      <tr style="vertical-align:text-top; ">
