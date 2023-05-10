@@ -171,7 +171,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   </ul>
   <p>This can result in any of these scenarios,</p>
    <div class="_center">
-    <table class="_h2table">
+    <table class="_h2table" style="width:85%; ">
      <tr>
       <th>Happy Ending</th>
       <td>BenCO retires the 30,000 <span class="_paradigm">rCoin</span>s within three years, as promised.</td>
