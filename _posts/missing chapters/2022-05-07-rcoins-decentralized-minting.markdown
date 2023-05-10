@@ -94,8 +94,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    <img
     src="/assets/img/en-alignment.svg"
     alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION"
-    style="text-align: center; "
-    width="90%"
+    style="text-align:center; width:90%; "
    >
   </div>
   <p>They do this starting from a simple Foundation,</p>
@@ -157,10 +156,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p><span class="_paradigm">rCoin</span>s are minted by companies, not a national government.</p>
   <div class="_center">
    <img
-    src="/assets/img/pic-rcoin-decentralized-minting-en.svg"
-    alt="A company gets REVENUE, at the top, and sends rCoins out to the world, at the bottom. In parallel, a company mints its own rCoins, as needed, and they go out to the world mixed in with REVENUE rCoins."
-    width="70%
-   >
+    src="/assets/img/pic-rcoin-decentralized-minting-en.svg" alt="A company gets REVENUE, at the top, and sends rCoins out to the world, at the bottom. In parallel, a company mints its own rCoins, as needed, and they go out to the world mixed in with REVENUE rCoins." style="width:70%; ">
   </div>
   <p>For example, BenCO mints 30,000 <span class="_paradigm">rCoin</span> and promises to repay them in three years. All this information goes on a transparent digital store that would include, at a minimum,</p>
   <ul>
@@ -322,7 +318,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img
     src="/assets/img/en-rad-auto-inflation-b.svg"
-    alt="Four tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL rCoin +100 New for a TOTAL of 200 rCoins. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 23% for the fourth. They each get 40, 70, 30, and 60 rCoins. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +1000 New for a TOTAL of 2000 rCoins. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 30% for the fourth (the same as for BenCO). They each get 400, 700, 300, and 600 rCoins. Below there are two more tables. For BenCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +100 New for a TOTAL of 300 rCoins. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth. They each get 120, 45, 45, and 60 rCoins. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +1000 New for a TOTAL of 3000 rCoins. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth (the same as for BenCO). They each get 1200, 450, 450, and 600 rCoins. Some JerryCO co-owners have more rCoin</span>s than others."
+    alt="Four tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL rCoin +100 New for a TOTAL of 200 rCoins. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 23% for the fourth. They each get 40, 70, 30, and 60 rCoins. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +1000 New for a TOTAL of 2000 rCoins. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 30% for the fourth (the same as for BenCO). They each get 400, 700, 300, and 600 rCoins. Below there are two more tables. For BenCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +100 New for a TOTAL of 300 rCoins. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth. They each get 120, 45, 45, and 60 rCoins. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +1000 New for a TOTAL of 3000 rCoins. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth (the same as for BenCO). They each get 1200, 450, 450, and 600 rCoins. Some JerryCO co-owners have more rCoins than others."
    >
   </p>
 
