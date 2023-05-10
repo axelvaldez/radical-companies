@@ -15,25 +15,25 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <p id="_signature">Matt Perez</p>
 </div>
 
-<p style="font-family:    Arial">The quick brown fox jumps over the lazy dog.</p>
+<p style="font-family:    Arial">The quick brown fox jumps over the lazy dog</p>
 
-<p style="font-family:    Times New Roman">The five boxing wizards jump quickly.</p>
+<p style="font-family:    Times New Roman">The quick brown fox jumps over the lazy dog</p>
 
-<p style="font-family:    Helvetica">Pack my box with five dozen liquor jugs.</p>
+<p style="font-family:    Helvetica">The quick brown fox jumps over the lazy dog</p>
 
-<p style="font-family:    Courier New">Jumpy wizards pluck Vince's quilt from the big box.</p>
+<p style="font-family:    Courier New">The quick brown fox jumps over the lazy dog</p>
 
-<p style="font-family:    Georgia">Amazingly few discotheques provide jukeboxes.</p>
+<p style="font-family:    Georgia">The quick brown fox jumps over the lazy dog</p>
 
-<p style="font-family:    Verdana">Jack quietly moved up front and seized the big ball of wax.</p>
+<p style="font-family:    Verdana">The quick brown fox jumps over the lazy dog</p>
 
-<p style="font-family:    Comic Sans MS">Brawny gods just flocked up to quiz and vex him.</p>
+<p style="font-family:    Comic Sans MS">The quick brown fox jumps over the lazy dog</p>
 
-<p style="font-family:    Trebuchet MS">Crazy Frederick bought many very exquisite opal jewels.</p>
+<p style="font-family:    Trebuchet MS">The quick brown fox jumps over the lazy dog</p>
 
-<p style="font-family:    Impact">Waltz, bad nymph, for quick jigs vex.</p>
+<p style="font-family:    Impact">The quick brown fox jumps over the lazy dog</p>
 
-<p style="font-family:    Open Sans">How quickly daft jumping zebras vex.</p>
+<p style="font-family:    Open Sans">The quick brown fox jumps over the lazy dog</p>
 
 <h1>Hoarding Is Violence</h1>
  <p>Today, money is the canonical medium of exchange and that is what we assumed in our book, <span class="_paradigm">RADICAL COMPANIES</span>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> After all, we need money to pay our bills and as a medium of exchange to buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people. This is problematic and leads to the most serious problems we face today.</p>
