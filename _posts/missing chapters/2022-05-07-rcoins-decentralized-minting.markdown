@@ -278,25 +278,25 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p>There may not be as many bad actors as we think. We probably have a preponderance of them today because 1) they make the news, and 2) we live in a system that is meant to reward bad behavior: gaming is part and parcel of the system. As we find out, we patch it to prevent other bad actors from exploiting the same weakness. But then the next batch of bad actors become wealthy by discovering and exploiting new weaknesses.</p>
   <p>We don&rsquo;t normally think of these, below, as bad actors. But they are. They fall back on their <span class="_paradigm">FIAT</span> world habits and are a drag on moving forward to a <span class="_paradigm">RADICAL</span> world.</p>
    <div class="_center">
-    <table class="_h2table" style="width:85%; ">
-     <tr style="vertical-align:text-top; ">
+    <table class="_h2table">
+     <tr>
       <th>Going Along</th>
       <td>
        <p>One type of &ldquo;bad actor&rdquo; is people who &ldquo;go along.&rdquo; We normally don&rsquo;t think of them as bad actors, &ldquo;they&rsquo;re just nice people.&rdquo; In any case, Shui is one of them. He notices that Namir is taking more than he contributed, but he doesn&rsquo;t say anything when talks to Namir. Shui turns a blind eye towards Namir&rsquo;s bad behavior and may tell himself that, <span class="_quotespan">Namir is a nice guy and maybe he needs a little bit more than me.</span> In any case, Shui is encouraging Namir&rsquo;s behavior which will eventually hurt everybody around.</p>
       </td>
      </tr>
-     <tr style="vertical-align:text-top; ">
-      <th style="padding-right:1ex; text-align:right; border-right:1px solid black; ">Battling Ghosts</th>
-      <td style="padding-left:1ex; ">
+     <tr>
+      <th>
+      <td>
        <p>The other type of bad actor is the one who gets pulled into behavior that he normally would not condone.</p>
        <p>For example, Anita, a BenCO co-owner, wants to buy potatoes. The potato seller, Shui, looks at the <span class="_paradigm">rCoin</span>s coming from her, but declines to accept them. It turns out that <em>all</em> of Anita&rsquo;s <span class="_paradigm">rCoin</span>s come from BenCO and the company has not lived up to its promises. Shui is a very conservative type and he refuses to exchange her <span class="_paradigm">rCoin</span>s for his potatoes. She explains the reasons why they had not made the first year payment on time, &ldquo;and we will, by the end of this week.&rdquo; Nevertheless, Shui is unmoved and puts the potatoes back in their bin.</p>
        <p>Further down the road, Namir sees the same log that Shui got, but he, nevertheless, accepts Anita&rsquo;s <span class="_paradigm">rCoin</span>s in exchange for his potatoes. It turns out that Namir knows Anita and what they are doing at BenCO and he trusts that they will retire their debts.</p>
        <p>Shui sees the exchange, misinterprets it, and instead of talking with Namir he goes on to accept higher risk <span class="_paradigm">rCoin</span>s that he is comfortable with. Instead of talking to Namir and figuring out what&rsquo;s going on, he falls into his own trap of assuming Namir is out to take business away from him.</p>
       </td>
      </tr>
-     <tr style="vertical-align:text-top; ">
-      <th style="padding-right:1ex; text-align:right; border-right:1px solid black; ">Convenience</th>
-      <td style="padding-left:1ex; ">
+     <tr>
+      <th>Convenience?</th>
+      <td>
        <p>Other Bad Actors act out of <em>convenience</em>. This is how Seth Godin breaks it down,</p>
         <ul>
          <li>&ldquo;<strong>Social convenience</strong>: it&rsquo;s easier to sit through a boring cocktail party or a meeting than it is to tell someone you don&rsquo;t want to come.</li>
