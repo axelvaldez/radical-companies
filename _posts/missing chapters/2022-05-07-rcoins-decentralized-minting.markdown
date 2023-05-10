@@ -311,7 +311,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   </div>
   
 <h1 id="VaryingBuyingPower">VARYING BUYING POWER</h1>
-  <p>I am selling potatoes at 40 <span class="_paradigm">rCoin</span>s per dozen. After the first month <strong>Ⓐ</strong>, below, and his co-owners don&rsquo;t have enough <span class="_paradigm">rCoin</span>s to buy my potatoes, but <strong>Ⓔ</strong> and his co-owners do. It may be that JerryCO is more efficient or maybe its products or services are more valuable. Either way, BenCO&rsquo;s co-owners end up with less buying power than JerryCO&rsquo;s co-owners.</p>
+  <p>I am selling potatoes at 40 <span class="_paradigm">rCoin</span>s per dozen. After the first month, <strong>Ⓐ</strong> below, and his co-owners don&rsquo;t have enough <span class="_paradigm">rCoin</span>s to buy my potatoes, but <strong>Ⓔ</strong> and his co-owners do. It may be that JerryCO is more efficient or maybe its products or services are more valuable. Either way, BenCO&rsquo;s co-owners end up with less buying power than JerryCO&rsquo;s co-owners.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img
     src="/assets/img/en-rad-auto-inflation-a.svg"
