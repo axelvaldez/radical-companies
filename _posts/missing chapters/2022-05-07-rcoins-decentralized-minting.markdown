@@ -15,26 +15,6 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <p id="_signature">Matt Perez</p>
 </div>
 
-<p style="font-family:Arial">Arial</p>
-
-<p style="font-family:Times New Roman">Times New Roman</p>
-
-<p style="font-family:Helvetica">Helvetica</p>
-
-<p style="font-family:Courier New">Courier New</p>
-
-<p style="font-family:Georgia">Georgia</p>
-
-<p style="font-family:Verdana">Verdana</p>
-
-<p style="font-family:Comic Sans MS">Comic Sans MS</p>
-
-<p style="font-family:Trebuchet MS">Trebuchet MS</p>
-
-<p style="font-family:Impact">Impact</p>
-
-<p style="font-family:Open Sans">Open Sans</p>
-
 <h1>Hoarding Is Violence</h1>
  <p>Today, money is the canonical medium of exchange and that is what we assumed in our book, <span class="_paradigm">RADICAL COMPANIES</span>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> After all, we need money to pay our bills and as a medium of exchange to buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people. This is problematic and leads to the most serious problems we face today.</p>
  <p>For this and other reasons, I now believe that we should have a universal medium of exchange, like <span class="_paradigm">rCoin</span>s that doesn&rsquo;t have the baggage of national fiat money and can help us transform to a human centered economy.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
