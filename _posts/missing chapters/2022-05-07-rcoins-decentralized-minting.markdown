@@ -157,7 +157,8 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <div class="_center">
    <img
     src="/assets/img/pic-rcoin-decentralized-minting-en.svg" alt="A company gets REVENUE, at the top, and sends rCoins out to the world, at the bottom. In parallel, a company mints its own rCoins, as needed, and they go out to the world mixed in with REVENUE rCoins."
-    style="width:70%; ">
+    style="width:70%; "
+   >
   </div>
   <p>For example, BenCO mints 30,000 <span class="_paradigm">rCoin</span> and promises to repay them in three years. All this information goes on a transparent digital store that would include, at a minimum,</p>
   <ul>
