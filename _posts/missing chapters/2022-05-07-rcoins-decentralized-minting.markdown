@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "<span class='_paradigm'>rCoin</span>s: Decentralized Minting"
+title:    "rCoins: Decentralized Minting"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-rcoin-decentralized-minting-en.svg"
