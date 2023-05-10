@@ -15,8 +15,8 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
 </div>
 
 <h1>Hoarding Is Violence</h1>
- <p>Today, money is the canonical medium of exchange and that is what we assumed in our book, <span class="_paradigm">RADICAL COMPANIES</span>.<a href="#en1"><sup id="bm1">&hairsp;&nabla;&hairsp;</sup></a> After all, we need money to pay our bills and as a medium of exchange to buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people. This is problematic and leads to the most serious problems we face today.</p>
- <p>For this and other reasons, I now believe that we should have a universal medium of exchange, like <span class="_paradigm">rCoin</span>s that doesn&rsquo;t have the baggage of national fiat money and can help us transform to a human centered economy.<a href="#en2"><sup id="bm2">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Today, money is the canonical medium of exchange and that is what we assumed in our book, <span class="_paradigm">RADICAL COMPANIES</span>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> After all, we need money to pay our bills and as a medium of exchange to buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people. This is problematic and leads to the most serious problems we face today.</p>
+ <p>For this and other reasons, I now believe that we should have a universal medium of exchange, like <span class="_paradigm">rCoin</span>s that doesn&rsquo;t have the baggage of national fiat money and can help us transform to a human centered economy.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Like today&rsquo;s money, <span class="_paradigm">rCoin</span>s function as,</p>
  <ul>
   <li>A unit of measure</li>
@@ -39,9 +39,9 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
       <li>&ldquo;Coins&rdquo; are a tangible instance of money.</li>
       <li>&ldquo;Fiat money&rdquo; is coinage created by fiat, out of whole cloth. It used to be that you needed gold to create coins, but not anymore.</li>
      </ul>
-     <p>As a <em>unit of measure</em>, a national fiat coin works like a meter or a minute and serves as a stable denominator for transactions. However, while the meter and the minute are world-wide units, fiat coins are a national thing. This makes them very unstable and fragile as a unit of measure (<em>e.g.</em>, imagine a minute being &ldquo;devalued&rdquo; or something being measured in 仪表).<a href="#en3"><sup id="bm3">&hairsp;&nabla;&hairsp;</sup></a></p>
+     <p>As a <em>unit of measure</em>, a national fiat coin works like a meter or a minute and serves as a stable denominator for transactions. However, while the meter and the minute are world-wide units, fiat coins are a national thing. This makes them very unstable and fragile as a unit of measure (<em>e.g.</em>, imagine a minute being &ldquo;devalued&rdquo; or something being measured in 仪表).<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
      <p>National fiat coins act as a <em>store of value</em> by virtue of their fixed nominal value. This means that these coins can be used to accumulate financial wealth. From that perspective, national fiat coins do not deserve to be called &ldquo;currency,&rdquo; not while stuffed under the proverbial mattress.</p>
-     <p>National fiat coins serve as a <em>medium of exchange</em>. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point exchange was based on the value of gold, but since the 1970s the system is based on each country&rsquo;s say so, national fiat coins.<a href="#en4"><sup id="bm4">&hairsp;&nabla;&hairsp;</sup></a> National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.</p>
+     <p>National fiat coins serve as a <em>medium of exchange</em>. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point exchange was based on the value of gold, but since the 1970s the system is based on each country&rsquo;s say so, national fiat coins.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.</p>
     </td>
    </tr>
    <tr>
@@ -55,12 +55,12 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <p>To avoid confusion, in this document I use &ldquo;money&rdquo; to refer to the concept, &ldquo;national fiat coin&rdquo; to refer to what we normally mean by money, and &ldquo;currency&rdquo; not at all.</p>
 
 <h1>A Historical Perspective</h1>
- <p><span class="_paradigm">rCoin</span>s are not to be confused, or conflated, with local or complementary currencies, demurrage money, or any such.<a href="#en5"><sup id="bm5">&hairsp;&nabla;&hairsp;</sup></a> Ditto for Mutualism, Marxism, or any other theory or ideology. The point of <span class="_paradigm">rCoin</span>a is to make it possible to have a world-wide market, free of intermediaries, and with negligible costs.</p>
+ <p><span class="_paradigm">rCoin</span>s are not to be confused, or conflated, with local or complementary currencies, demurrage money, or any such.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> Ditto for Mutualism, Marxism, or any other theory or ideology. The point of <span class="_paradigm">rCoin</span>a is to make it possible to have a world-wide market, free of intermediaries, and with negligible costs.</p>
  <p>In fact, <span class="_paradigm">rCoin</span>s are very similar to national fiat coins. They are a unit of measure, a store of value, and a medium of exchange, but with these twists,</p>
  <ol>
   <li>They represent value at its broadest. In addition to financial value, they account for wellbeing, contributions, acts of kindness, and all the other things that are important to people.</li>
   <li>They spread risks and benefits through society. We all share in the adventure: the burden of risk and the joys of gains.</li>
-  <li><span class="_paradigm">rCoin</span>s bypass the complications and costs brought about by banks, exchanges, national politics,<a href="#en6"><sup id="bm6">&hairsp;&nabla;&hairsp;</sup></a>
+  <li><span class="_paradigm">rCoin</span>s bypass the complications and costs brought about by banks, exchanges, national politics,<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a>
    <p><span class="_paradigm">rCoin</span>s have the potential to enable a world-wide market. This will help us break out of our national silos and create a world-wide economy that&rsquo;s decentralized and transparent.</p></li>
  </ol>
 
@@ -99,7 +99,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
     </table>
    </div>
  <h2>rCoins as Collaboration</h2>
-  <p>As I see it, the <span class="_paradigm">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve <em><em>progress</em>.</em><a href="#en8"><sup id="bm8">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>As I see it, the <span class="_paradigm">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve <em><em>progress</em>.</em><a href="#en08"><sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of collaboration.</p>
 
 <h1>rCoins for a World-Wide Market</h1>
@@ -107,7 +107,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <p>We could have a single world government create and enforce a single currency. But even if it were politically feasible, it is unnecessary and a move in the wrong direction towards centralization. To wit, we didn&rsquo;t need a single world government for minutes, meters, or the Internet, some of the most useful world-wide tools of all time.</p>
  <p>A decentralized, transparent <span class="_paradigm">rCoin</span> is fundamental to such a unified market. These are some of the other things we would need to nourish and support a world-wide market,</p>
  <h2>rCoins for a Decentralized Market</h2>
-  <p>We need a decentralized market to nurture the next stage of innovation and accomplishment. Unfortunately, national fiat coins are an obstacle to this. They are not very stable and are subject to cyclical crises.<a href="#en9"><sup id="bm9">&hairsp;&nabla;&hairsp;</sup></a> They make international markets very complex, very opaque, and very expensive.</p> 
+  <p>We need a decentralized market to nurture the next stage of innovation and accomplishment. Unfortunately, national fiat coins are an obstacle to this. They are not very stable and are subject to cyclical crises.<a href="#en09"><sup id="bm09">&hairsp;&nabla;&hairsp;</sup></a> They make international markets very complex, very opaque, and very expensive.</p> 
   <p>Today&rsquo;s international markets have been cobbled together by agreements that are fraught with weaknesses. National and international politics make transaction costs very expensive. Worst of all, these international markets are unduly influenced by transnational businesses seeking to profit no matter the harm to society.</p>
   <p>A decentralized market, free of interference and manipulation, is the iltimate pricing engine.</p>
  <h2>Decentralized Minting of rCoins</h2>
@@ -366,7 +366,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
 <h1 class="_section">ENDNOTES</h1>
  <div class="footnotes">
   <ul style="font-size:smaller; ">
-   <li id="en1">
+   <li id="en01">
     <p class="_list-item">
      Matt Perez, Adrian Perez, Jose Leal.
      <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
@@ -375,7 +375,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
-   <li id="en2">
+   <li id="en02">
     <p class="_list-item">
      I am taking inspiration from two books, <em>Debt</em> by David Graeber.
      &lt;<a href="https://a.co/cd9vVHk">https://a.co/cd9vVHk</a>&gt; and
@@ -384,20 +384,20 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
-   <li id="en3">
+   <li id="en03">
     <p class="_list-item">
      <em>Meter</em> in Mandarin.
      <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
-   <li id="en4">
+   <li id="en04">
     <p class="_list-item">
      M1 is a <em>measure</em> of how much fiat currency there is, not a backing for it.
      &lt;<a href="https://radicals.world/HlOzNL">https://radicals.world/HlOzNL</a>&gt;
      <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
-   <li id="en5">
+   <li id="en05">
     <p class="_list-item">
      555 For example, see
      <em>Local Exchange Trading System (LETS)</em>
@@ -409,19 +409,19 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
-   <li id="en6">
+   <li id="en06">
     <p class="_list-item">
      Which has devolved from a coordination game to a competition game.
      <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
-   <li id="en7">
+   <li id="en07">
     <p class="_list-item">
      But, pay your taxes. One day we&rsquo;ll be able to pay taxes with <span class="_paradigm">rCoin</span>s and that&rsquo;ll be something, but in the meantime, pay your taxes with the required coinage.
      <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
-   <li id="en8">
+   <li id="en08">
     <p class="_list-item">
      David Graeber.
      <em>Debt: The First 5,000 Years,Updated and Expanded</em>.
@@ -435,7 +435,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
-   <li id="en9">
+   <li id="en09">
     <p class="_list-item">
      <em>List of economic crises</em>.
      &lt;<a href="https://radicals.world/2Y1Kqb">https://radicals.world/2Y1Kqb</a>&gt;
