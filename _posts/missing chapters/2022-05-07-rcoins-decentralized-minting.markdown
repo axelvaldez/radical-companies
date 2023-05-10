@@ -32,6 +32,20 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <div class="_center">
   <table class="_h2table">
    <tr>
+    <th>Money</th>
+    <td>
+     <p>This is a concept of money,</p>
+      <ul>
+       <li>A store of value that can be hoarded.</li>
+       <li>A unit of account or face value.</li>
+       <li>A medium of exchange and trade.</li>
+      </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>National Fiat Coin</th>
+    <td>
+   <tr>
     <th>National Fiat Coin</th>
     <td>
      <p>Throughout the rest of this document, you will notice that I stubbornly use &ldquo;national fiat coin,&rdquo; instead of &ldquo;money&rdquo; or &ldquo;currency.&rdquo; This is mostly to remind myself of a few key distinctions,</p>
