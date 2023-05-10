@@ -45,9 +45,6 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    <tr>
     <th>National Fiat Coin</th>
     <td>
-   <tr>
-    <th>National Fiat Coin</th>
-    <td>
      <p>Throughout the rest of this document, you will notice that I stubbornly use &ldquo;national fiat coin,&rdquo; instead of &ldquo;money&rdquo; or &ldquo;currency.&rdquo; This is mostly to remind myself of a few key distinctions,</p>
      <ul>
       <li>&ldquo;Money&rdquo; is primarily a concept</li>
