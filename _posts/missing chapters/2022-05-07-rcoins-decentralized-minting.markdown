@@ -329,7 +329,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
 <h1>FAQ</h1>
  <h3 style="padding-top:0;">Companies minting rCoins without any rules sounds really, really crazy!</h3>
   <p>If that sounds &ldquo;crazy,&rdquo; then the financial system we have today is crazier. And it is business hostile, on top.</p>
-  <p><span class="_paradigm">rCoin</span>s minted by BenCO carry a log which includes all the information related to their creation. The co-owners are motivated to retire the <span class="_paradigm">rCoin</span>s they minted in the time promised. If they don&rsquo;t do that, fewer and fewer sellers will accept their <span class="_paradigm">rCoin</span>s. Their buying power will go down the drain in a hurry.</p>
+  <p><span class="_paradigm">rCoin</span>s minted by BenCO carry a log which includes all the information related to their creation and the behavior of the backers. The co-owners are motivated to retire the <span class="_paradigm">rCoin</span>s they minted in the time promised. If they don&rsquo;t do that, fewer and fewer sellers will accept their <span class="_paradigm">rCoin</span>s. Their buying power will go down the drain in a hurry.</p>
  <h3>Why not make co-owners responsible for personally retiring the debt?</h3>
   <p>TBD</p>
  <h3>What prevents a company from continuously taking on new debt to retire old debt?</h3>
