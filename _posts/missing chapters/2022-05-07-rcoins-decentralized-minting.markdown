@@ -46,9 +46,9 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
     </td>
    </tr>
    <tr>
-    <th>National Fiat Coin</th>
+    <th>Not Currency</th>
     <td>
-     <p>Another common name for national fiat coins is &ldquo;currency.&rdquo; It means to indicate that <em>money flows</em> from one person to the next to facilitate the exchange of commodities. But national fiat coins don&rsquo;t always <em>flow</em>. Because these coins hold their value forever, they can be hoarded to accumulate financial wealth in bank accounts or under the proverbial mattress.</p>
+     <p>Another common name for national fiat coins is &ldquo;currency.&rdquo; It means to indicate that <em>money flows</em> from one person to the next to facilitate the exchange of goods. But they key thing about national fiat coin is that they can be hoarded to accumulate financial wealth in bank accounts or under the proverbial mattress. Their value never fluctuates</p>
      <p>Given this, national fiat coins do not deserve to be called &ldquo;currency.&rdquo;</p></td>
     </tr>
   </table>
