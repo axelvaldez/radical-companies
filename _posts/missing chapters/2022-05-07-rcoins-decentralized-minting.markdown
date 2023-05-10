@@ -30,7 +30,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
 
 <h1>Terminology</h1>
  <div class="_center">
-  <table class="_h2table">
+  <table class="_h2table" style="width:85%; ">
    <tr>
     <th>Money</th>
     <td>
