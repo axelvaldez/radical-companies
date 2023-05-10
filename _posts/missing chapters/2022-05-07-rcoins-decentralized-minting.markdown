@@ -476,7 +476,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    </li>
    <li id="en14">
     <p class="_list-item">
-     </a> Michael J. Graetz and Olivia Briffault.
+     Michael J. Graetz and Olivia Briffault.
      <em>A &ldquo;Barbarous Relic&rdquo;: The French, Gold, and the Demise of Bretton Woods.</em>
      &lt;<a href="https://radicals.world/rxLQd8">https://radicals.world/rxLQd8</a>&gt;
      Aug, 2016
