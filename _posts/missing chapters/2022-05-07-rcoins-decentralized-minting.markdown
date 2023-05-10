@@ -378,7 +378,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    <li id="en02">
     <p class="_list-item">
      I am taking inspiration from two books, <em>Debt</em> by David Graeber.
-     &lt;<a href="https://a.co/cd9vVHk">https://a.co/cd9vVHk</a>&gt; and
+     &lt;<a href="https://a.co/cd9vVHk" target="_blank">https://a.co/cd9vVHk</a>&gt; and
      Bernard Lietaer and Jacqui Dunne.
      <em>Rethinking Money</em>
      <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
@@ -393,7 +393,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    <li id="en04">
     <p class="_list-item">
      M1 is a <em>measure</em> of how much fiat currency there is, not a backing for it.
-     &lt;<a href="https://radicals.world/HlOzNL">https://radicals.world/HlOzNL</a>&gt;
+     &lt;<a href="https://radicals.world/HlOzNL" target="_blank">https://radicals.world/HlOzNL</a>&gt;
      <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
@@ -401,11 +401,11 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
     <p class="_list-item">
      555 For example, see
      <em>Local Exchange Trading System (LETS)</em>
-     &lt;<a href="https://radicals.world/7zoLJT">https://radicals.world/7zoLJT</a>&gt; and
+     &lt;<a href="https://radicals.world/7zoLJT" target="_blank">https://radicals.world/7zoLJT</a>&gt; and
      <em>Dollars Service Exchange</em>
-     &lt;<a href="https://radicals.world/P5hFb6">https://radicals.world/P5hFb6</a>&gt;.
+     &lt;<a href="https://radicals.world/P5hFb6" target="_blank">https://radicals.world/P5hFb6</a>&gt;.
      Also, Sardex
-     &lt;<a href="https://radicals.world/8u8lIc">https://radicals.world/8u8lIc</a>&gt;
+     &lt;<a href="https://radicals.world/8u8lIc" target="_blank">https://radicals.world/8u8lIc</a>&gt;
      <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
@@ -425,12 +425,12 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
     <p class="_list-item">
      David Graeber.
      <em>Debt: The First 5,000 Years,Updated and Expanded</em>.
-     &lt;<a href="https://a.co/cd9vVHk">https://a.co/cd9vVHk</a>&gt;
+     &lt;<a href="https://a.co/cd9vVHk" target="_blank">https://a.co/cd9vVHk</a>&gt;
      Douglas McGregor.
      <em>Theory X</em>.
      The Human Side of Enterprise, p 1.
      1975
-     &lt;<a href="https://radicals.world/McCTGD">https://rzadicals.world/McCTGD</a>&gt;
+     &lt;<a href="https://radicals.world/McCTGD" target="_blank">https://rzadicals.world/McCTGD</a>&gt;
      (alt, &lt;<a href="https://www.diigo.com/item/pdf/zk1n/juhm">https://www.diigo.com/item/pdf/zk1n/juhm</a>&gt;).
      <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
@@ -438,14 +438,14 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    <li id="en09">
     <p class="_list-item">
      <em>List of economic crises</em>.
-     &lt;<a href="https://radicals.world/2Y1Kqb">https://radicals.world/2Y1Kqb</a>&gt;
+     &lt;<a href="https://radicals.world/2Y1Kqb" target="_blank">https://radicals.world/2Y1Kqb</a>&gt;
      <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
    <li id="en10">
     <p class="_list-item">
      Philip Rosedale introduced the tool in 2005.
-     &lt;<a href="https://radicals.world/ny8xy3">https://radicals.world/ny8xy3</a>&gt;
+     &lt;<a href="https://radicals.world/ny8xy3" target="_blank">https://radicals.world/ny8xy3</a>&gt;
      <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
@@ -453,9 +453,9 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
     <p class="_list-item">
      For more, see
      <em>RADICAL COMPANIES for the Impatient</em>
-     &lt;<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient</a>&gt;
+     &lt;<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient</a>&gt;
      and
-     <em>RADICAL COMPANIES: Without Boss or Employees</em> (alt., &lt;<a href="https://radicals.world/AS7Ofo">https://radicals.world/AS7Ofo</a>&gt;).
+     <em>RADICAL COMPANIES: Without Boss or Employees</em> (alt., &lt;<a href="https://radicals.world/AS7Ofo" target="_blank">https://radicals.world/AS7Ofo</a>&gt;).
      <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>   
@@ -469,8 +469,8 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    </li>
    <li id="en13">
     <p class="_list-item">
-     <em>ist of economic crises</em>
-     &lt;<a href="https://radicals.world/2Y1Kqb">https://radicals.world/2Y1Kqb</a>&gt;
+     <em>List of economic crises</em>
+     &lt;<a href="https://radicals.world/2Y1Kqb" target="_blank">https://radicals.world/2Y1Kqb</a>&gt;
      <a class="_uparrow" href="#bm13"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
@@ -478,7 +478,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
     <p class="_list-item">
      Michael J. Graetz and Olivia Briffault.
      <em>A &ldquo;Barbarous Relic&rdquo;: The French, Gold, and the Demise of Bretton Woods.</em>
-     &lt;<a href="https://radicals.world/rxLQd8">https://radicals.world/rxLQd8</a>&gt;
+     &lt;<a href="https://radicals.world/rxLQd8" target="_blank">https://radicals.world/rxLQd8</a>&gt;
      Aug, 2016
     <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
@@ -486,7 +486,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    <li id="en15">
     <p class="_list-item">
      Money Definition.
-     &lt;<a href="https://radicals.world/EsIF0M">https://radicals.world/EsIF0M</a>&gt;
+     &lt;<a href="https://radicals.world/EsIF0M" target="_blank">https://radicals.world/EsIF0M</a>&gt;
      Investopedia
     <a class="_uparrow" href="#bm15"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
@@ -503,7 +503,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      <em>Does High GDP Mean Economic Prosperity?</em>
      Investopedia.
      2021.
-     &lt;<a href="https://radicals.world/qfxbR0">https://radicals.world/qfxbR0</a>&gt;
+     &lt;<a href="https://radicals.world/qfxbR0" target="_blank">https://radicals.world/qfxbR0</a>&gt;
      <a class="_uparrow" href="#bm17"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
@@ -518,14 +518,14 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    <li id="en19">
     <p class="_list-item">
      For more information, see Wörgl
-     &lt;<a href="https://radicals.world/sYcjKW">https://radicals.world/sYcjKW</a>&gt;
+     &lt;<a href="https://radicals.world/sYcjKW" target="_blank">https://radicals.world/sYcjKW</a>&gt;
      <a class="_uparrow" href="#bm19"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
    <li id="en20">
     <p class="_list-item">
      <em>Freigeld: FreeMoney for reacting to the Great Depression</em>.
-     &lt;<a href="fnref21">https://radicals.world/dzjaIU</a>&gt;
+     &lt;<a href="https://radicals.world/dzjaIU" target="_blank">https://radicals.world/dzjaIU</a>&gt;
      DYNDY.
      2011.
      <a class="_uparrow" href="#bm20"><img src="/assets/img/arrow-up-icon.png"></a>
@@ -534,7 +534,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    <li id="en21">
     <p class="_list-item">
      <em>Stamp Scrip: Money People Paid to Use. Federal Reserve Bank of Cleveland</em>.
-     &lt;<a href="https://radicals.world/hrUnt8">https://radicals.world/hrUnt8</a>&gt;
+     &lt;<a href="https://radicals.world/hrUnt8" target="_blank">https://radicals.world/hrUnt8</a>&gt;
      April, 2008.
      <a class="_uparrow" href="#bm21"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
@@ -542,7 +542,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    <li id="en22">
     <p class="_list-item">
      As a crutch, national fiat coins could be thrown into the mix to lower the risk of a payment since coins are considered &ldquo;no risk.&rdquo;
-     &lt;<a href="https://radicals.world/z8WRti">https://radicals.world/z8WRti</a>&gt;
+     &lt;<a href="https://radicals.world/z8WRti" target="_blank">https://radicals.world/z8WRti</a>&gt;
      <a class="_uparrow" href="#bm22"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
@@ -562,7 +562,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
     <p class="_list-item">
      Seth Godin.
      <em>Choice vs. convenience</em>.
-     &lt;<a href="https://radicals.world/sqTIaq">https://radicals.world/sqTIaq</a>&gt;
+     &lt;<a href="https://radicals.world/sqTIaq" target="_blank">https://radicals.world/sqTIaq</a>&gt;
      Dec 28, 2021.
      <a class="_uparrow" href="#bm25"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
