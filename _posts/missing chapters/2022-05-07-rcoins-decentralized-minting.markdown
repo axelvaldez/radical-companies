@@ -244,8 +244,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <p><span class="_paradigm">rCoin</span>s, on the other hand, are always the same value. What changes is the potential risks and benefits associated with the company that engendered it. Every <span class="_paradigm">rCoin</span> carries a log of all the information people need to decide whether or not to accept it.</p>
   <img
    src="/assets/img/en-rad-auto-inflation.svg"
-   alt="Table, with RISKS along the horizontal axis and BENEFITS along the vertical axis. 1) When rCoins are low in RISKS and BENEFITS, there is high acceptance of them. 2) When rCoins come with high RISKS and low BENEFITS, there will resistance to accept them. 3) When rCoins come with low RISKS and high BENEFITS, they have high acceptance. 4) When rCoins have high RISKS and high BENEFITS, there will be a high resistance to accepting them."
-  >
+   alt="Table, with RISKS along the horizontal axis and BENEFITS along the vertical axis. 1) When rCoins are low in RISKS and BENEFITS, there is high acceptance of them. 2) When rCoins come with high RISKS and low BENEFITS, there will resistance to accept them. 3) When rCoins come with low RISKS and high BENEFITS, they have high acceptance. 4) When rCoins have high RISKS and high BENEFITS, there will be a high resistance to accepting them.">
    
  <h2>Calculating Risk</h2>
   <p>A <span class="_paradigm">rCoin</span>‘s log may include, for example, the number of co-owners that agree to its mint, the company&rsquo;s revenue history, how many <span class="_paradigm">rCoin</span>s the company has minted, and the company&rsquo;s debt performance. Given the <span class="_paradigm">rCoin</span>&rsquo;s log, we can calculate the risk associated with every <span class="_paradigm">rCoin</span> and decide whether or not to accept a particular <span class="_paradigm">rCoin</span> as payment.</p>
