@@ -297,7 +297,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      <tr style="vertical-align:text-top; ">
       <th style="padding-right:1ex; text-align:right; border-right:1px solid black; ">Convenience</th>
       <td style="padding-left:1ex; ">
-       <p>Other Bad Actors act out of convenience. This is how Seth Godin breaks it down,</p>
+       <p>Other Bad Actors act out of <em>convenience</em>. This is how Seth Godin breaks it down,</p>
         <ul>
          <li>&ldquo;<strong>Social convenience</strong>: it&rsquo;s easier to sit through a boring cocktail party or a meeting than it is to tell someone you don&rsquo;t want to come.</li>
          <li>&ldquo;<strong>Physical convenience</strong>: things that are handy are much more likely  to be chosen than ones that require us to move somewhere to go get them.</li>
