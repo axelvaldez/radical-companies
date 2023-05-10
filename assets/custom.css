@@ -570,6 +570,6 @@ img {
   font-family:'Courier New', Courier, monospace;
 }
 h1 ~ h3 {
-  margin-top:6px;
+  padding-top:25px;
   font-size:1.2rem;
 }
