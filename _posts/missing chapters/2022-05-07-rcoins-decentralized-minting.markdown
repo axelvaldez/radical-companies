@@ -28,7 +28,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <p><span class="_paradigm">rCoin</span>s are also decentralized. Companies will be the guarantors of <span class="_paradigm">rCoin</span>s: not banks, not governments, and not international accords. This will make the costs of all transactions negligible.</p>
  <p>A decentralized and transparent <span class="_paradigm">rCoin</span> will make possible a world-wide market that we can all play in without intermediaries.</p>
 
-<h1>Terminology Used in this Doc</h1>
+<h1>Terminology</h1>
  <div class="_center">
   <table class="_h2table">
    <tr>
