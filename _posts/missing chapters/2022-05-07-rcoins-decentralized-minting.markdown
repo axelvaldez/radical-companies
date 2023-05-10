@@ -268,9 +268,6 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
        <p>One type of &ldquo;bad actor&rdquo; is people who &ldquo;go along.&rdquo; We normally don&rsquo;t think of them as bad actors, &ldquo;they&rsquo;re just nice people.&rdquo; In any case, Shui is one of them. He notices that Namir is taking more than he contributed, but he doesn&rsquo;t say anything and talks to Namir. Shui turns a blind eye towards Namir&rsquo;s bad behavior and goes by untested assumptions. &ldquo;Namir is a nice guy and maybe he needs a little bit more than me.&rdquo;</p>
       </td>
      </tr>
-     <tr>
-      <td style="font-size:7px; ">&nbsp;</td>
-     </tr>
      <tr style="vertical-align:text-top; ">
       <th style="padding-right:1ex; text-align:right; border-right:1px solid black; ">Battling Ghosts</th>
       <td style="padding-left:1ex; ">
@@ -279,9 +276,6 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
        <p>Further down the road, Namir sees the same log that Shui got, but he, nevertheless, accepts Anita&rsquo;s <span class="_paradigm">rCoin</span>s in exchange for his potatoes. It turns out that Namir knows Anita and what they are doing at BenCO and he trusts that they will retire their debts.</p>
        <p>Shui sees the exchange, misinterprets it, and instead of talking with Namir he goes on to accept higher risk <span class="_paradigm">rCoin</span>s that he is comfortable with. Instead of talking to Namir and figuring out what&rsquo;s going on, he falls into his own trap of assuming Namir is out to take business away from him.</p>
       </td>
-     </tr>
-     <tr>
-      <td style="font-size:7px; ">&nbsp;</td>
      </tr>
      <tr style="vertical-align:text-top; ">
       <th style="padding-right:1ex; text-align:right; border-right:1px solid black; ">Convenience</th>
