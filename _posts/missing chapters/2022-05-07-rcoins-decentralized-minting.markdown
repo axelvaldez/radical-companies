@@ -261,7 +261,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p>There may not be as many bad actors as we think. We probably have a preponderance of them today because 1) they make the news, and 2) we live in a system that is meant to reward bad behavior: gaming is part and parcel of the system. As we find out, we patch it to prevent other bad actors from exploiting the same weakness. But then the next batch of bad actors become wealthy by discovering and exploiting new weaknesses.</p>
   <p>We don&rsquo;t normally think of these, below, as bad actors. But they are. They fall back on their <span class="_paradigm">FIAT</span> world habits and are a drag on moving forward to a <span class="_paradigm">RADICAL</span> world.</p>
    <div class="_center">
-    <table class="_h2table">>
+    <table class="_h2table">
      <tr style="vertical-align:text-top; ">
       <th>Going Along</th>
       <td>
