@@ -569,6 +569,6 @@ table._h2table p:first-child {
 img {
   font-family:'Courier New', Courier, monospace;
 }
-h1 h3 {
+h1 ~ h3 {
   font-size:smaller;
 }
