@@ -330,6 +330,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <h3 style="padding-top:0;">Companies minting rCoins without any rules sounds really, really crazy!</h3>
   <p>If that sounds &ldquo;crazy,&rdquo; then the financial system we have today is crazier. And it is business hostile, on top.</p>
   <p><span class="_paradigm">rCoin</span>s minted by BenCO carry a log which includes all the information related to their creation and the behavior of the backers. The co-owners are motivated to retire the <span class="_paradigm">rCoin</span>s they minted in the time promised. If they don&rsquo;t do that, fewer and fewer sellers will accept their <span class="_paradigm">rCoin</span>s. Their buying power will go down the drain in a hurry.</p>
+  <p>The &ldquo;rules&rdquo; required to keep national fiat coins in line are needed only because they are easy to cheat with. Natioanl fiat coins always have the same value, whether it comes from criminal or legit business. A dollar that came from an illegal transaction looks and it is worth the same as a dollar that came from selling candy. <span class="_paradigm">rCoin</span>s, on the other hand, carry their history in their logs and today we carry super computers in our pockets that can figure the difference in an instant and figure out what is their worth. And there is no way to hide or screw with the information.</p>
  <h3>Why not make co-owners responsible for personally retiring the debt?</h3>
   <p>TBD</p>
  <h3>What prevents a company from continuously taking on new debt to retire old debt?</h3>
