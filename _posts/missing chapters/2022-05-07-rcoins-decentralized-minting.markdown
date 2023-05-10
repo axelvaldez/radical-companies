@@ -427,7 +427,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      <em>Debt: The First 5,000 Years,Updated and Expanded</em>.
      &lt;<a href="https://a.co/cd9vVHk">https://a.co/cd9vVHk</a>&gt;
      Douglas McGregor.
-     <em>Theory X<em>.
+     <em>Theory X</em>.
      The Human Side of Enterprise, p 1.
      1975
      &lt;<a href="https://radicals.world/McCTGD">https://rzadicals.world/McCTGD</a>&gt;
