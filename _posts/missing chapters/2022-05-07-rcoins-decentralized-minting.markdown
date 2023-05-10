@@ -242,9 +242,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  </table>
  <p>One problem with demurrage is that the rate of decay is not tied to value creation or anything like it. The Wörgl, and others like it, kept its face value for a week and went down in value every week thereafter. The W&auml;ra, another demurrage coin, lost 1% of its value every month.<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a> Regardless of their good intentions, these rates of decay are picked out of thin air.</p>
  <p><span class="_paradigm">rCoin</span>s, on the other hand, are always the same value. What changes is the potential risks and benefits associated with the company that engendered it. Every <span class="_paradigm">rCoin</span> carries a log of all the information people need to decide whether or not to accept it.</p>
-  <img
-   src="/assets/img/en-rad-auto-inflation.svg"
-  >
+  <img src="/assets/img/en-rad-auto-inflation.svg">
    <!--
    alt="Table, with RISKS along the horizontal axis and BENEFITS along the vertical axis. 1) When rCoins are low in RISKS and BENEFITS, there is high acceptance of them. 2) When rCoins come with high RISKS and low BENEFITS, there will resistance to accept them. 3) When rCoins come with low RISKS and high BENEFITS, they have high acceptance. 4) When rCoins have high RISKS and high BENEFITS, there will be a high resistance to accepting them."
    -->
