@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Andrew Holtz: Being Aware"
+title:    "Andrew Hortz: Being Aware"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-andrew-holtz-being-aware.svg"
