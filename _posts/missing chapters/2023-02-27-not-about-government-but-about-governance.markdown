@@ -11,16 +11,17 @@ image:    "icon-not-about-government-but-about-governance.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>The nice story is that governments have a monopoly on force to protect the country&rsquo;s borders and to have one foreign policy. The other story is that goverments are <span class="_paradigm">FIAT</span> institutions, based on dictatorships-known-as-businesses.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> What people need, and what always emerges, is some governance. A way to make it easier to collaborate, live together, and work together.</p>
- <p>You don't need governance if you are stranded in an island by yourself. The only &lsquo;agreement&rsquo; you can have with the other animals in the island is, <span class="_quotespan">If you come near me again and I will slaughter you.</span> But that doesn&rsquo;t work with people. You need governance with people, <span class="_quotespan">This is how we collaborate to do things together and get to a higher level of life.</span></p>
- <p>Governance is about collaborating to change those agreements, our ability to change the culture. And that is the point.</p>
+ <p>The nice story is that governments protect us and our country&rsquo;s borders and therefore need to have a monopoly on force and foreign policy. The other story is that goverments are <span class="_paradigm">FIAT</span> organizations, dependant on dictatorships-known-as-businesses.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>What we do need, and always emerges is <em>governance</em>. A way to collaborate, live, and work together. You don&rsquo;t need governance if you are stranded in an island by yourself. The only &lsquo;agreement&rsquo; you can have with the other dangerous animals in the island is, <span class="_quotespan">If you come near me again, and you scare me, I will slaughter you.</span> But that doesn&rsquo;t work with people. You need governance with people.</p>
+ <p>Governance is about collaborating to create and change those agreements. Our ability to transform the culture is the point.</p>
 
 <h1>Rules and Punishment</h1>
- <p>Making up rules that others must follow is easy to do, but harder to implement. In <span class="_paradigm">FIAT</span> environments we use some form of punishment for people who don&rsquo;t follow them rules: penalties, litigation, prison. That may hold a majority of people back, but only for a while. Eventually they revolt.</p>
- <p>In dictatorships, people revolt violently because that is what they &ldquo;know&rdquo; works. In places that lean towards democracy, people also revolt, but through non-violent ways, like assembling, protesting, and voting. Because that is what they &ldquo;know&rdquo; works.</p>
+ <p>Making up rules that others must follow is easy to do, but harder to implement. In <span class="_paradigm">FIAT</span> environments we use some form of punishment for people who don&rsquo;t follow them rules. Different levels of pain: litigation, penalties, prison.  That holds a majority of people back, but only for a while. Eventually, when pain of following the rules is more so than the pain of raising hell, they revolt.</p>
+ <p>In dictatorships, people revolt violently because that is what they know works; they have learned that. In places that lean towards democracy, people also revolt, but through non-violent ways, like assembling, protesting, and voting. Because that is what they &ldquo;know&rdquo; works.</p>
 
 <h1>Governance, Not Government</h1>
- <p>When I wrote rGOV,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> almost a year ago there was no distinction in my mind between government and governance. I assumed that in a co-managed and co-owned world, governments would not exist in their present form. There would be no borders to defend, no foreign policy to set, and people could co-manage the rest. But governance is not just any form of co-management and I wish I has figured it out then because what we want is is co-governance.</p>
+ <p>When I wrote <span class="_paradigm">rGov</span>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> there was no distinction in my mind between government and governance. I assumed that there would be no borders to defend, no foreign policy to set, and people could co-manage the rest.</p>
+ <p>I wish I had figured it out then because what we want is is co-governance.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>  <li id="en02">
