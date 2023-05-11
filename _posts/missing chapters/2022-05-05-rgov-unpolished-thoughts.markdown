@@ -34,8 +34,8 @@ image:    "icon-gov.svg"
   </ul>
   <p>Another thing that our present day&rsquo;s cities get involved in is economic development. Let&rsquo;s start with that because that is where the wheels of &ldquo;government of the people, by the people, for the people&rdquo; start to come off.</p>
   <h2>Economic Development</h2>
-   <p>&ldquo;Economic development&ldquo; is where elected government goes over the line and gets involved in the creation of private goods for businesses and their owners in the name of &ldquo;job creation.&rdquo; In a <span class="_paradigm">RADICAL</span> world, city governments are no longer responsible for any of this&mdash;everybody is capable and has the means to build their own wealth creating communities ZZZ.</p>
-   <p>TEST</p>
+   <p>&ldquo;Economic development&ldquo; is where elected government goes over the line and gets involved in the creation of private goods for businesses and their owners in the name of &ldquo;job creation.&rdquo; In a <span class="_paradigm">RADICAL</span> world, city governments are no longer responsible for any of this&mdash;everybody is capable and has the means to build their own wealth creating communities.</p>
+   <p>TEST 2</p>
    <div class="_center">
     <table class="_h2table">
       <tr>
