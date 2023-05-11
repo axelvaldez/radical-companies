@@ -55,7 +55,6 @@ image:    "icon-gov.svg"
        <p>What else?</p>
        </td>
       </tr>
-<!--
       <tr>
        <th>Zoning and Building Regulations</th>
        <td>
@@ -84,7 +83,6 @@ image:    "icon-gov.svg"
         <p>Fire abatement has been around for a long time. At the beginning putting out fires was a paid <span class="_paradigm">FIAT</span> business, &ldquo;you have to pay before we put out the fire.&rdquo; Eventually it became a public service. I imagine that fire abatement, paramedics, and disaster help would all come as a service paid for Banners.</p>
        </td>
       </tr>
--->
      </table>
     </div>
 
