@@ -14,7 +14,7 @@ image:    "icon-the-good-boss.svg"
   <tr>
    <td>
     <p>I love my manager so much 🥹 🫶🏻</p>
-    <p>~Twitter (pre-Musk)</p>
+    <p>&mdash;Twitter</p>
    </td>
   </tr>
  </table>
