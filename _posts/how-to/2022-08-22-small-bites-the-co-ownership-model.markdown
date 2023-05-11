@@ -15,7 +15,7 @@ image:    "icon-small-bites-money.svg"
   src="/assets/img/pic-co-ownership-the-big-bite.svg"
   alt="The heading reads Co-Ownership. Below it there is one circle labeled 'All of It' with bite marks in their upper-left. The bite takes out only a small portion of the circle."
   style="margin-left:10px; float:right; width:30%; ">
- <br>
+ <p></p>
  <p>Co-ownership is a big pill to swallow all in one gulp. It scares people and they react by accussing it of being utopian (<em>i.e.</em>, &ldquo;It won't work in the real world&rdquo;) or a political scheme (<em>i.e.</em>, &ldquo;The communists tried it, it didn&rsquo;t work&rdquo;).</p>
   <img
    src="/assets/img/pic-co-ownership-the-smaller-bite.svg"
@@ -27,6 +27,8 @@ image:    "icon-small-bites-money.svg"
  <p>We have gotten used to taking cash infusions from Angels and VCs. Angel investors get a note that promises them a future take. Then VCs show up and make a bigger investment. The Angels get their money back <em>and</em> their promised take, and the VC gets a piece of the business. More often than not, a lead VC brings other VCs along and together they end up with <em>majority control</em> of the business.</p>
  <p>In theory, investors don&rsquo;t have a say in day-to-day operations, but in practice if there&rsquo;s something they don&rsquo;t like, they can fire the CEO and get a new one to do their bid. The end result is that <em>money making</em> ends up being the only priority while everything else falls by the proverbial wayside. The product, the technology, and, worst of all, the people become replaceable components of the money-making machine.</p>
  <p>That&rsquo;s the way the <span class="_paradigm">FIAT</span> world works and we are so used to that we don&rsquo;t even notice it. Unfortunately, if it continues to operate this way, we will go deeper into a dystopia that we may not be able to come out of.</p>
+ 
+<h1>Not Dystopia</h1>
  <p>The <span class="_paradigm">RADICAL</span> model is an alternative to a dystopian future. In the <span class="_paradigm">RADICAL COMPANIES</span> book we propose a model where companies are co-owned and co-managed by everybody who contributes to it, not just a few bosses. There are plenty of benefits of not having all decision-making centralized in the hands of one or a few people.  Unfortunately, it scares the bejesus out of bosses <em>and</em> employees. Bosses fear that their role and self-image are at risk; employees fear for their livelihood. Start ups and small companies in general are less scared of this model, but bigger or more established businesses can&rsquo;t even fathom it.</p>
  <p>Instead, we can try the co-ownership model in smaller bites. Like, an investment repayment fund or an annual bonus fund. Decentralizing these distributions gives everybody involved a taste of how they works and they may even see how it could be applied elsewhere, inside or outside the business.</p>
 
