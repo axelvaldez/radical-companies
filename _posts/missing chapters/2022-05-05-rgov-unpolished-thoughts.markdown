@@ -158,7 +158,7 @@ image:    "icon-gov.svg"
     <em>rCoins: Decentralized Minting</em>.
     Pradera Media.
     2021.
-    &lt;<a href="https://radicalcompanies.com/2022/05/07/rcoins-decentralized-minting" target="blank">money</a>https://radicalcompanies.com/2022/05/07/rcoins-decentralized-minting</a>&gt;
+    &lt;<a href="https://radicalcompanies.com/2022/05/07/rcoins-decentralized-minting" target="blank">https://radicalcompanies.com/2022/05/07/rcoins-decentralized-minting</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
