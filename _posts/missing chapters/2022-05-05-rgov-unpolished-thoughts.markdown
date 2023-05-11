@@ -12,7 +12,7 @@ image:    "icon-gov.svg"
 
 <h1>Introduction</h1>
  <p>In the book RADICAL COMPANIES: Without Bosses or Employees,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> we considered how the <span class="_paradigm">RADICAL</span> model would work in a company environment, but we said next to nothing about money<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>, land<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>, or government.</p>
- <p>In <span class="_paradigm">rCoin: Decentralized Mingtin</span>, I laid out my ideas about money and what it would look like in a decentralized, transparent world. In <span class="_paradigm">rLand</span></a>, I put down my thoughts on how land would be handled in a <span class="_paradigm">RADICAL</span> world. In this document I finally get to lay down some my thoughts, albeit unpolished, about government.</p>
+ <p>In <span class="_paradigm">rCoin: Decentralized Minting</span>, I laid out my ideas about money and what it would look like in a decentralized, transparent world. In <span class="_paradigm">rLand</span>, I put down my thoughts on how land would be handled in a <span class="_paradigm">RADICAL</span> world. In this document I finally get to lay down some my thoughts, albeit unpolished, about government.</p>
 
 <h1>Very Different</h1>
  <p>National governments are the ultimate centralized power. Dictatorships are the most centralized, and democratic governments the least, but they all centralize power. They have a monopoly on force. The US national government run the military, state governments and cities run police forces, and then there is Reserves.</p>
