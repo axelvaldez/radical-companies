@@ -34,13 +34,22 @@ image:    "icon-about-daos.svg"
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en1">
+   <p class="_list-item">
     David Rosenthal.
     <a href="https://blog.dshr.org/2022/02/ee380-talk.html">EE380 Talk</a>.
     Feb 9, 2022.
-    <a href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
   </li>
   <li id="en2">
-   E. Glen Weyl, Puja Ohlhaver, Vitalik Buterin. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763">Decentralized Society: Finding Web3’s Soul</a>. 11 May 2022. <a href="#bm02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
+   <p class="_list-item">
+    E. Glen Weyl, Puja Ohlhaver, Vitalik Buterin.
+    <em>Decentralized Society: Finding Web3&rsquo;s Soul</em>
+    &lt;<a href="https://radicals.world/NsThU3">https://radicals.world/NsThU3</a>&gt;.
+    11 May 2022.
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
  </ul>
 
 {% include related.html %}
