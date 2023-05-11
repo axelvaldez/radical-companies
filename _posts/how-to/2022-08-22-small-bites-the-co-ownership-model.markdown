@@ -17,7 +17,7 @@ image:    "icon-small-bites-money.svg"
   style="margin-left:10px; float:right; width:30%; ">
  <p>Co-ownership is a big pill to swallow all in one gulp. It scares people and they react by accussing it of being utopian (<em>i.e.</em>, &ldquo;It won't work in the real world&rdquo;) or a political scheme (<em>i.e.</em>, &ldquo;The communists tried it, it didn&rsquo;t work&rdquo;).</p>
  <img
-  src="/assets/img/pic-co-ownership-the-small-bites.svg"
+  src="/assets/img/pic-co-ownership-the-smaller-bites.svg"
   alt="The heading reads Co-Ownership. Below it there is one circle labeled 'All of It' with bite marks in their upper-left. The bite takes out only a small portion of the circle."
   style="margin-left:10px; float:left; width:30%; ">
  <p>This post is about a few smaller bites that, we hope, people may find be less threatening and signal &ldquo;progressiveness.&rdquo; Rather than attempting to change the ownership structure of the whole business, we are talking about starting with a co-owned repayment fund and a co-owned bonus fund.</p>
