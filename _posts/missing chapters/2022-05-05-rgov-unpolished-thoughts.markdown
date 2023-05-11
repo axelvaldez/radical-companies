@@ -46,10 +46,7 @@ image:    "icon-gov.svg"
         <p>So, take all things traffic off the city&rsquo;s todo list.</p>
        </td>
       </tr>
-     </table>
-    </div>
-    <div class="_center">
-     <table class="_h2table">
+<!--
       <tr>
        <th>Infrastructure</th>
        <td>
@@ -95,6 +92,7 @@ image:    "icon-gov.svg"
         <p>Fire abatement has been around for a long time. At the beginning putting out fires was a paid <span class="_paradigm">FIAT</span> business, &ldquo;you have to pay before we put out the fire.&rdquo; Eventually it became a public service. I imagine that fire abatement, paramedics, and disaster help would all come as a service paid for Banners.</p>
        </td>
       </tr>
+-->
      <table>
     </div>
 
