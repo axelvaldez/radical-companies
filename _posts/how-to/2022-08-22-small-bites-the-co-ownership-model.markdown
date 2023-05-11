@@ -24,7 +24,7 @@ image:    "icon-small-bites-money.svg"
   >
  <p>This post is about a few smaller bites that, we hope, people may find be less threatening and signal &ldquo;progressiveness.&rdquo; Rather than attempting to change the ownership structure of the whole business, we are talking about starting with a co-owned repayment fund and a co-owned bonus fund.</p>
  
-<h1>&nbsp;</h1>
+<h1>Cash Infusions</h1>
  <p>We have gotten used to taking cash infusions from Angels and VCs. Angel investors get a note that promises them a future take. Then VCs show up and make a bigger investment. The Angels get their money back <em>and</em> their promised take, and the VC gets a piece of the business. More often than not, a lead VC brings other VCs along and together they end up with <em>majority control</em> of the business.</p>
  <p>In theory, investors don&rsquo;t have a say in day-to-day operations, but in practice if there&rsquo;s something they don&rsquo;t like, they can fire the CEO and get a new one to do their bid. The end result is that <em>money making</em> ends up being the only priority while everything else falls by the proverbial wayside. The product, the technology, and, worst of all, the people become replaceable components of the money-making machine.</p>
  <p>That&rsquo;s the way the <span class="_paradigm">FIAT</span> world works and we are so used to that we don&rsquo;t even notice it. Unfortunately, if it continues to operate this way, we will go deeper into a dystopia that we may not be able to come out of.</p>
