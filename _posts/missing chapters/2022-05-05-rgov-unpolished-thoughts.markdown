@@ -45,6 +45,8 @@ image:    "icon-gov.svg"
         <p>So, take all things traffic off the city&rsquo;s todo list.</p>
        </td>
       </tr>
+     </table>
+     <table class="_h2table">
       <tr>
        <th>Infrastructure</th>
        <td>
@@ -54,6 +56,8 @@ image:    "icon-gov.svg"
        <p>What else?</p>
        </td>
       </tr>
+     </table>
+     <table class="_h2table">
       <tr>
        <th>Zoning and Building Regulations</th>
        <td>
@@ -62,12 +66,16 @@ image:    "icon-gov.svg"
         <p>Off the list.</p>
        </td>
       </tr>
+     </table>
+     <table class="_h2table">
       <tr>
        <th>Higiene: Waste Removal</th>
        <td>
         <p>City governments already contract with private companies to do the removal work. Individual <span class="_paradigm">RADICAL</span> communities can do this easily, with transparency providing the coordinating function.</p>
        </td>
       </tr>
+     </table>
+     <table class="_h2table">
       <tr>
        <th>Municipal Courts</th>
        <td>
@@ -75,6 +83,8 @@ image:    "icon-gov.svg"
         <p>Disputes could mostly be handled by the communities itself, with the help of people who specialize in this kind of situation.</p>
        </td>
       </tr>
+     </table>
+     <table class="_h2table">
       <tr>
        <th>Police, Fire, Paramedic</th>
        <td>
