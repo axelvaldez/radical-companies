@@ -15,8 +15,8 @@ image:    "icon-small-bites-money.svg"
   src="/assets/img/pic-co-ownership-the-big-bite.svg"
   alt="The heading reads Co-Ownership. Below it there is one circle labeled 'All of It' with bite marks in their upper-left. The bite takes out only a small portion of the circle."
   style="margin-left:10px; float:right; width:30%; ">
- <p></p>
  <p>Co-ownership is a big pill to swallow all in one gulp. It scares people and they react by accussing it of being utopian (<em>i.e.</em>, &ldquo;It won't work in the real world&rdquo;) or a political scheme (<em>i.e.</em>, &ldquo;The communists tried it, it didn&rsquo;t work&rdquo;).</p>
+ <p></p>
   <img
    src="/assets/img/pic-co-ownership-the-smaller-bite.svg"
    alt="The heading reads Co-Ownership. Below it there are three circles with bite marks over most of it."
