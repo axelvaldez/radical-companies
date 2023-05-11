@@ -99,7 +99,7 @@ image:    "icon-gov.svg"
   <p>I haven&rsquo;t thought about what this would look like under a <span class="_paradigm">RADICAL</span> model.</p>
 
 <h1>National Government</h1>
- <p>I don&rsquo;t see any user for national governments, long term.</p>
+ <p>I don&rsquo;t see any use for national governments, long term.</p>
  <p>Maybe, bigger things like the Space Station and planetary research may remain in the hands of a government-like team.</p>
 
 <h1>Worth Repeating</h1>
