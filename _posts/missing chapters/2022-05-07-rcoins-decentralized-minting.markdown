@@ -156,7 +156,8 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p><span class="_paradigm">rCoin</span>s are minted by companies, not a national government.</p>
   <div class="_center">
    <img
-    src="/assets/img/pic-rcoin-decentralized-minting-en.svg" alt="A company gets REVENUE, at the top, and sends rCoins out to the world, at the bottom. In parallel, a company mints its own rCoins, as needed, and they go out to the world mixed in with REVENUE rCoins."
+    src="/assets/img/pic-rcoin-decentralized-minting-en.svg"
+    alt="A company gets REVENUE, at the top, and sends rCoins out to the world, at the bottom. In parallel, a company mints its own rCoins, as needed, and they go out to the world mixed in with REVENUE rCoins."
     style="width:70%; "
    >
   </div>
