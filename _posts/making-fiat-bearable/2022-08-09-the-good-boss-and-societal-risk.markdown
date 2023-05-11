@@ -10,9 +10,8 @@ image:    "icon-the-good-boss.svg"
  <p>A good boss is someone who protects you from the hierarchy, or empowers you with decision-making, or gets you anything you want, or just leaves you alone. That is not bad, but it is fragile and temporary.</p>
 </div>
 
-<h1>&nbsp;</h1>
- <table style="width:90%; margin:0 auto; font-size:25px; text-align:center; border:1px solid CadetBlue; background-color:beige; font-family:American Typewriter,serif; padding:1em; ">
-  <tr style="width:90%; ">
+ <table class="_center" style="width:90%; margin:0 auto; font-size:25px; background-color:beige; font-family:American Typewriter,serif; padding:1em; ">
+  <tr>
    <td>
     <p>I love my manager so much 🥹 🫶🏻</p>
     <p>~Twitter (pre-Musk)</p>
