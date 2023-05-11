@@ -46,7 +46,8 @@ image:    "icon-gov.svg"
        </td>
       </tr>
      </table>
-
+    </div>
+    <div class="_center">
      <table class="_h2table">
       <tr>
        <th>Infrastructure</th>
