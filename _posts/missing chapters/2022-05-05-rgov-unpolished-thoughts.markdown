@@ -35,55 +35,27 @@ image:    "icon-gov.svg"
   <p>Another thing that our present day&rsquo;s cities get involved in is economic development. Let&rsquo;s start with that because that is where the wheels of &ldquo;government of the people, by the people, for the people&rdquo; start to come off.</p>
   <h2>Economic Development</h2>
    <p>&ldquo;Economic development&ldquo; is where elected government goes over the line and gets involved in the creation of private goods for businesses and their owners in the name of &ldquo;job creation.&rdquo; In a <span class="_paradigm">RADICAL</span> world, city governments are no longer responsible for any of this&mdash;everybody is capable and has the means to build their own wealth creating communities.</p>
-   <div class="_center">
-    <table class="_h2table">
-      <tr>
-       <th>Car Traffic</th>
-       <td>
-        <p>Let&rsquo;s take traffic next. I predict that all things traffic are going to change dramatically, very quickly. As I write this, CRUISE<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> launched a driverless, Uber-like service in San Francisco. It won&rsquo;t take long before its price comes down to the point that it will not make sense for individuals to own cars, and house cars, and loiter the streets with parked cars. Eventually, a car can own itself. Autonomous cars will house themselves out of sight throughout an urban area and there  won&rsquo;t be cars parked on the side of roads, and.</p>
-        <p>The next development is to have intra-vehicle communication. With that and the sensor in every vehicle, we won&rsquo;t need traffic lights or signage.</p>
-        <p>So, take all things traffic off the city&rsquo;s todo list.</p>
-       </td>
-      </tr>
-      <tr>
-       <th>Infrastructure</th>
-       <td>
-        <p>Local city road construction and maintenance remains a task that somebody has to be responsible for, at least, coordinating. Imagine a company whose &ldquo;product&rdquo; is the public good, with expertise of where the roads are needed, and whose &ldquo;performance&rdquo; would then be measured via RADs.</p>
-       <p>The actual construction of the roads would be 1) funded by the community that needs it and 2) built by companies that have expertise in doing so and are highly valued by the communities that finance them (again, as measured by RADs).</p>
-       <p>Parks and recreation are very similar, with people responsible for <em>coordinating</em> planning and construction. Ditto for water purification.</p>
-       <p>What else?</p>
-       </td>
-      </tr>
-      <tr>
-       <th>Zoning and Building Regulations</th>
-       <td>
-        <p>Zoning strikes me as a weak way to try and control the worst tendencies of FIAT landowners. But keeping the &ldquo;bad&rdquo; buildings away from the residential buildings is not harmless. And it is not a solution, either. I&rsquo;d rather trust each hyper-local community, people who know each other, to make those decisions using the <span class="_paradigm">RADICAL</span> system rather than a city government.</p>
-        <p>There might be a coordinating function needed as well as expertise but that can be handled by <span class="_paradigm">RADICAL</span> companies.</p>
-        <p>Off the list.</p>
-       </td>
-      </tr>
-      <tr>
-       <th>Higiene: Waste Removal</th>
-       <td>
-        <p>City governments already contract with private companies to do the removal work. Individual <span class="_paradigm">RADICAL</span> communities can do this easily, with transparency providing the coordinating function.</p>
-       </td>
-      </tr>
-      <tr>
-       <th>Municipal Courts</th>
-       <td>
-        <p>&ldquo;Crime&rdquo; in a <span class="_paradigm">RADICAL</span> community would be the exception and probably driven by mental imbalances that would be better taken care of by communities with the help of people who specialize in this kind of situation.</p>
-        <p>Disputes could mostly be handled by the communities itself, with the help of people who specialize in this kind of situation.</p>
-       </td>
-      </tr>
-      <tr>
-       <th>Police, Fire, Paramedic</th>
-       <td>
-        <p>The first thing to note about the police is that it is <em>a force</em>, carrying lethal weapons. They <em>fight</em> criminals, people who don&rsquo;t abide by the rules and would harm the rest of us, well behaved citizens. We want them to do a lot besides that: caretakers and givers, arbiters, the calmest person in the room and the most aggressive person in the room. In the face of all these conflicting roles, they often default to the threat of violence and violence itself. I doubt that there&rsquo;d be a need for specialized police—people would do most of it—but even if there is, it would be very different than it is today.</p>
-        <p>Fire abatement has been around for a long time. At the beginning putting out fires was a paid <span class="_paradigm">FIAT</span> business, &ldquo;you have to pay before we put out the fire.&rdquo; Eventually it became a public service. I imagine that fire abatement, paramedics, and disaster help would all come as a service paid for Banners.</p>
-       </td>
-      </tr>
-     </table>
-    </div>
+  <h2>Car Traffic</h2>
+   <p>Let&rsquo;s take traffic next. I predict that all things traffic are going to change dramatically, very quickly. As I write this, CRUISE<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> launched a driverless, Uber-like service in San Francisco. It won&rsquo;t take long before its price comes down to the point that it will not make sense for individuals to own cars, and house cars, and loiter the streets with parked cars. Eventually, a car can own itself. Autonomous cars will house themselves out of sight throughout an urban area and there  won&rsquo;t be cars parked on the side of roads, and.</p>
+   <p>The next development is to have intra-vehicle communication. With that and the sensor in every vehicle, we won&rsquo;t need traffic lights or signage.</p>
+   <p>So, take all things traffic off the city&rsquo;s todo list.</p>
+  <h2>Infrastructure</h2>
+   <p>Local city road construction and maintenance remains a task that somebody has to be responsible for, at least, coordinating. Imagine a company whose &ldquo;product&rdquo; is the public good, with expertise of where the roads are needed, and whose &ldquo;performance&rdquo; would then be measured via RADs.</p>
+   <p>The actual construction of the roads would be 1) funded by the community that needs it and 2) built by companies that have expertise in doing so and are highly valued by the communities that finance them (again, as measured by RADs).</p>
+   <p>Parks and recreation are very similar, with people responsible for <em>coordinating</em> planning and construction. Ditto for water purification.</p>
+   <p>What else?</p>
+  <h2>Zoning and Building Regulations</h2>
+   <p>Zoning strikes me as a weak way to try and control the worst tendencies of FIAT landowners. But keeping the &ldquo;bad&rdquo; buildings away from the residential buildings is not harmless. And it is not a solution, either. I&rsquo;d rather trust each hyper-local community, people who know each other, to make those decisions using the <span class="_paradigm">RADICAL</span> system rather than a city government.</p>
+   <p>There might be a coordinating function needed as well as expertise but that can be handled by <span class="_paradigm">RADICAL</span> companies.</p>
+   <p>Off the list.</p>
+ <h2>Higiene: Waste Removal</h2>
+  <p>City governments already contract with private companies to do the removal work. Individual <span class="_paradigm">RADICAL</span> communities can do this easily, with transparency providing the coordinating function.</p>
+ <h2>Municipal Courts</h2>
+  <p>&ldquo;Crime&rdquo; in a <span class="_paradigm">RADICAL</span> community would be the exception and probably driven by mental imbalances that would be better taken care of by communities with the help of people who specialize in this kind of situation.</p>
+  <p>Disputes could mostly be handled by the communities itself, with the help of people who specialize in this kind of situation.</p>
+ <h2>Police, Fire, Paramedic</h2>
+  <p>The first thing to note about the police is that it is <em>a force</em>, carrying lethal weapons. They <em>fight</em> criminals, people who don&rsquo;t abide by the rules and would harm the rest of us, well behaved citizens. We want them to do a lot besides that: caretakers and givers, arbiters, the calmest person in the room and the most aggressive person in the room. In the face of all these conflicting roles, they often default to the threat of violence and violence itself. I doubt that there&rsquo;d be a need for specialized police—people would do most of it—but even if there is, it would be very different than it is today.</p>
+  <p>Fire abatement has been around for a long time. At the beginning putting out fires was a paid <span class="_paradigm">FIAT</span> business, &ldquo;you have to pay before we put out the fire.&rdquo; Eventually it became a public service. I imagine that fire abatement, paramedics, and disaster help would all come as a service paid for Banners.</p>
 
 <h1>County Government</h1>
  <p>These take care of school districts independent of cities. They also handle many city-like functions for unincorporated areas.</p>
