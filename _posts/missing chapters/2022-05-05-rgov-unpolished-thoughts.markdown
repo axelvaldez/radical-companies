@@ -41,7 +41,7 @@ image:    "icon-gov.svg"
       <tr>
        <th>Car Traffic</th>
        <td>
-        <p><!--Let&rsquo;s take traffic next. I predict that all things traffic are going to change dramatically, very quickly. As I write this, CRUISE<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> launched a driverless, Uber-like service in San Francisco. It won&rsquo;t take long before its price comes down to the point that it will not make sense for individuals to own cars, and house cars, and loiter the streets with parked cars. Eventually, a car can own itself. Autonomous cars will house themselves out of sight throughout an urban area and there  won&rsquo;t be cars parked on the side of roads, and.--></p>
+        <p>Let&rsquo;s take traffic next. I predict that all things traffic are going to change dramatically, very quickly. As I write this, CRUISE<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> launched a driverless, Uber-like service in San Francisco. It won&rsquo;t take long before its price comes down to the point that it will not make sense for individuals to own cars, and house cars, and loiter the streets with parked cars. Eventually, a car can own itself. Autonomous cars will house themselves out of sight throughout an urban area and there  won&rsquo;t be cars parked on the side of roads, and.</p>
         <p><!--The next development is to have intra-vehicle communication. With that and the sensor in every vehicle, we won&rsquo;t need traffic lights or signage.--></p>
         <p><!--So, take all things traffic off the city&rsquo;s todo list.--></p>
        </td>
