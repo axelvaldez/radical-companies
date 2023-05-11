@@ -116,6 +116,7 @@ image:    "icon-gov.svg"
     <img
      src="/assets/img/en-alignment.svg"
      alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION"
+     style="width:75%; "
     >
    </div>
   <p>They do this starting from a simple Foundation,</p>
