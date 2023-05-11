@@ -9,15 +9,6 @@ image:    "icon-the-good-boss.svg"
 <div style="display:none;">
  <p>A good boss is someone who protects you from the hierarchy, or empowers you with decision-making, or gets you anything you want, or just leaves you alone. That is not bad, but it is fragile and temporary.</p>
 </div>
-
- <table class="_center" style="width:90%; margin:0 auto; font-size:25px; background-color:beige; font-family:American Typewriter,serif; padding:1em; ">
-  <tr>
-   <td>
-    <p>I love my manager so much 🥹 🫶🏻</p>
-    <p>&mdash;Twitter</p>
-   </td>
-  </tr>
- </table>
  
 <h1>&nbsp;</h1>
  <p>A good boss protects you from the hierarchy, empowers you with some decision-making, or gets you anything you want, or just leaves you alone. That may be not bad, but it is always fragile and temporary.</p>
