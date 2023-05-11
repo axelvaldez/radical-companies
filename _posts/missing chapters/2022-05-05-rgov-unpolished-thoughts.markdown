@@ -77,10 +77,10 @@ image:    "icon-gov.svg"
       </tr>
       <tr>
        <th>Police, Fire, Paramedic</th>
-        <td>
-         <p>The first thing to note about the police is that it is <em>a force</em>, carrying lethal weapons. They <em>fight</em> criminals, people who don&rsquo;t abide by the rules and would harm the rest of us, well behaved citizens. We want them to do a lot besides that: caretakers and givers, arbiters, the calmest person in the room and the most aggressive person in the room. In the face of all these conflicting roles, they often default to the threat of violence and violence itself. I doubt that there&rsquo;d be a need for specialized police—people would do most of it—but even if there is, it would be very different than it is today.</p>
-         <p>Fire abatement has been around for a long time. At the beginning putting out fires was a paid <span class="_paradigm">FIAT</span> business, &ldquo;you have to pay before we put out the fire.&rdquo; Eventually it became a public service. I imagine that fire abatement, paramedics, and disaster help would all come as a service paid for Banners.</p>
-        </td>
+       <td>
+        <p>The first thing to note about the police is that it is <em>a force</em>, carrying lethal weapons. They <em>fight</em> criminals, people who don&rsquo;t abide by the rules and would harm the rest of us, well behaved citizens. We want them to do a lot besides that: caretakers and givers, arbiters, the calmest person in the room and the most aggressive person in the room. In the face of all these conflicting roles, they often default to the threat of violence and violence itself. I doubt that there&rsquo;d be a need for specialized police—people would do most of it—but even if there is, it would be very different than it is today.</p>
+        <p>Fire abatement has been around for a long time. At the beginning putting out fires was a paid <span class="_paradigm">FIAT</span> business, &ldquo;you have to pay before we put out the fire.&rdquo; Eventually it became a public service. I imagine that fire abatement, paramedics, and disaster help would all come as a service paid for Banners.</p>
+       </td>
       </tr>
      <table>
     </div>
