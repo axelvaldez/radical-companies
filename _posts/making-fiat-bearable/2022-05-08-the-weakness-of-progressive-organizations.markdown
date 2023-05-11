@@ -7,58 +7,57 @@ image:    "icon-10-progressive-org-structures.svg"
 ---
 
 <div style="display:none;">
- <p>Co-management is a move away from the <span style="font-size:smaller; ">FIAT</span> hierarchy, and that&rsquo;s good. But it doesn&rsquo;t last: we must have co-ownership for robust and stable governance.</p>
+ <p>Co-management is a move away from the <span class="_paradigm">FIAT</span> hierarchy, and that&rsquo;s good. But it doesn&rsquo;t last: we must have co-ownership for robust and stable governance.</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">The Weakness: Owner-Boss</h1>
- <p>In a recent Corporate Rebels post, Joost Minaar identifies <a href="https://corporate-rebels.com/progressive-organizational-structures/?mc_cid=0df9a3a5c7&mc_eid=eb36a9b4c1">ten progressive organizational structures</a> which he calls Amoebas, Cells, Circles, Chains, Fractals, Honeycombs, Lattice, Micro-communities, Mini-factories, and Squads.</p>
+<h1>The Weakness: Owner-Boss</h1>
+ <p>In a recent Corporate Rebels post, Joost Minaar identifies ten progressive organizational structures<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> which he calls Amoebas, Cells, Circles, Chains, Fractals, Honeycombs, Lattice, Micro-communities, Mini-factories, and Squads.</p>
  <p>Unfortunately, except for WL Gore, all the organizations given as primary examples have an owner-boss at the top. In these cases, the owner-boss sees himself as a “servant leader” or otherwise benevolent.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Co-Ownership Brings Robustness</h1>
- <p>It is great, in fact, that these companies have experimented with co-management, have shown that it works, and that we don’t need the <span style="font-size:smaller; ">FIAT</span> hierarchical system we live under. Unfortunately, co-management doesn’t last. Because when the owner-boss exits, that’s the end of it. Most of these progressive companies have fallen back to the <span style="font-size:smaller; ">FIAT</span> hierarchical model following the exit of the benevolent owner-boss.</p>
- <p>For it to be robust and long-term decentralized management must be accompanied by <a href="https://radicalcompanies.com/2022/03/14/radical-companies-for-the-impatient">decentralized ownership.</a></p>
+<h1>Co-Ownership Brings Robustness</h1>
+ <p>It is great, in fact, that these companies have experimented with co-management, have shown that it works, and that we don&rsquo;t need the <span class="_paradigm">FIAT</span> hierarchical system we live under. Unfortunately, co-management doesn&rsquo;t last. Because when the owner-boss exits, that&rsquo;s the end of it. Most of these progressive companies have fallen back to the <span class="_paradigm">FIAT</span> hierarchical model following the exit of the benevolent owner-boss.</p>
+ <p>For it to be robust and long-term decentralized management must be accompanied by <a href="https://radicalcompanies.com/2022/03/14/radical-companies-for-the-impatient">decentralized ownership.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Robustness Emerges from a Solid Foundation</h1>
- <p>Rather than specific practices or strict methodologies, a solid foundation allows you to discover out what works for you, while keeping you grounded on what’s important,</p>
- <table align="center">
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; background-color:#EEEEEE; ">Meaning &<br>Belonging</td>
-   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
-   <td valign="top"><em>relationships</em></td>
-  </tr>
-  <tr>
-   <td style="background-color: white; height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; background-color:#EEEEEE;">Transparency &<br>Decentralization</td>
-   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
-   <td valign="top"><em>autonomy</em></td>
-  </tr>
-  <tr>
-   <td style="background-color: white; height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; background-color:#EEEEEE; ">Alignment &<br>Experimentation</td>
-   <td valign="middle" style="font-size:xx-large; "> ⬈</td>
-   <td valign="top"><em>collaboration</em></td>
-  </tr>
-  <tr>
-   <td colspan="4">&nbsp;</td>
-  </tr>
- </table>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Principles</h2>
-  <p>People are the highest priority to whatever we are doing together. The principles reflect that in that it must make sense to me (meaning) and that I am doing it with people that I want to hang out with (belonging).</p>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Commitments</h2>
-  <p>It is very important that we all commit to decentralization without having to depend on an owner-boss. Leadership still is  important and necessary, but there is no anointed boss.</p>
-  <p>Also, for decentralized decision-making and action, all information must be transparent and freely available.</p>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Practices</h2>
-  <p>Also for the sake of decentralization, explicit alignment is an absolute must. In a <span style="font-size:smaller; ">FIAT</span> organization, the owner-boss and the hierarchy below him, are the source of alignment, but in a decentralized organization we need to agree on what it is we are doing in ways that people can remember them and live them.</p>
-  <p style="text-align:center; ">
-   <img src="/assets/img/en-alignment.svg" alt="The Scout salute as a mnemonic for IMPACT, PURPOSE, and MISSION. The middle finger represents IMPACT or what are we doing this for? The index finger represents PURPOSE or why are we doing this? and the annular finger represents MISSION or the What, When, and How we are doing this." width="70%">
-  </p>
-  <p>Finally, experiment. Be explicit about what you expect (<em>e.g.</em>, levels of acidity in a tomato paste) and then don’t be afraid of experimenting. If your results match your expectations, call it an innovation and celebrate. Otherwise, learn from it.</p>
+<h1>Robustness Emerges from a Simple Foundation</h1>
+ <p>Rather than specific practices or strict methodologies, this foundation allows you to discover out what works for you, while keeping you grounded on what&rsquo;s important,</p>
+  <div class="_center">
+   <table class="_h2table">
+    <tr>
+     <th>people</th>
+     <td>Meaning & Belonging</td>
+    </tr>
+    <tr>
+     <th>commitments</th>
+     <td>Decentralization & Transparency</td>
+    </tr>
+    <tr>
+     <th>practices</th>
+     <td>Experimentation</td>
+    </tr>
+   </table>
+  </div>
+ <p>Finally, experiment. Be explicit about what you expect (<em>e.g.</em>, levels of acidity in a tomato paste) and then don&rsquo;t be afraid of experimenting. If your results match your expectations, call it an innovation and celebrate. Otherwise, learn from it.</p>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    Joost Minnaar.
+    <em>10 Progressive Organizational Structures Developed By Real Companies</em>.
+    April 27, 2022.
+    &lt;<a href="https://radicals.world/GExvRH" target="_blank">https://radicals.world/GExvRH</a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    Matt Perez, Jose Leal, Adrian Perez.
+    <em>RADICAL Companies for the Impatient.</em>
+    2021.
+    &lt;<a href="https://radicalcompanies.com/2022/03/14/radical-companies-for-the-impatient" target="_blank">https://radicalcompanies.com/2022/03/14/radical-companies-for-the-impatient</a>&gt;
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
 
 {% include related.html %}
