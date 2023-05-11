@@ -19,7 +19,7 @@ image:    "icon-better-tasting-poison.svg"
  <p>All thanks to the <span class="_paradigm">FIAT</span> system. The invisible system that puts financial success above all else.</p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     Aaron Tilley.
@@ -30,6 +30,6 @@ image:    "icon-better-tasting-poison.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}

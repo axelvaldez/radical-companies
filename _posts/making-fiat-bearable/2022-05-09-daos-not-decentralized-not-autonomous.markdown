@@ -32,9 +32,15 @@ image:    "icon-about-daos.svg"
  <p>Force, and the fear it engenders, is what&rsquo;s holding us back, it hurts us, and will eventually kill more of us.</p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol style="font-size:smaller; ">
-  <li id="en1">David Rosenthal. <a href="https://blog.dshr.org/2022/02/ee380-talk.html">EE380 Talk</a>. Feb 9, 2022. <a href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
-  <li id="en2">E. Glen Weyl, Puja Ohlhaver, Vitalik Buterin. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763">Decentralized Society: Finding Web3’s Soul</a>. 11 May 2022. <a href="#bm02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
- </ol>
+ <ul>
+  <li id="en1">
+    David Rosenthal.
+    <a href="https://blog.dshr.org/2022/02/ee380-talk.html">EE380 Talk</a>.
+    Feb 9, 2022.
+    <a href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
+  </li>
+  <li id="en2">
+   E. Glen Weyl, Puja Ohlhaver, Vitalik Buterin. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763">Decentralized Society: Finding Web3’s Soul</a>. 11 May 2022. <a href="#bm02"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a></li>
+ </ul>
 
 {% include related.html %}
