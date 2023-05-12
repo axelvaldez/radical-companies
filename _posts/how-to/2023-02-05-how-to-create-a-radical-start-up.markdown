@@ -25,17 +25,17 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 <h1>The Foundation</h1>
  <p>Listen to the Forc&hellip; er&hellip; listen to the Foundation,</p>
  <div class="_center">
-  <table class="_background">
+  <table class="_h2table_">
    <tr>
-    <th style="text-align:right; ">people</th>
+    <th>people</th>
     <td>Meaning & Belonging</td>
    </tr>
    <tr>
-    <th style="text-align:right; ">commitments</th>
+    <th>commitments</th>
     <td>Decentralization & Transparency</td>
    </tr>
    <tr>
-    <th style="text-align:right; ">practices</th>
+    <th>practices</th>
     <td>Experimentation</td>
    </tr>
    <tr>
@@ -61,7 +61,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 <h1>Borrowing, or Not</h1>
  <p>If you want to, and can, then borrow capital. Seed capital, as it is called, comes from friends, family, and fools. Friends and family know you and trust you; fools believe in you. They all want you to succeed.</p>
  <p>Seed capital is formalized as a legal Note that promises them, 1) their money back plus some upside, or 2) shares of the new company. But you new company <em>won&rsquo;t have shares</em>, so Notes are not applicable.</p>
- <p>Instead treat borrowed capital like a <span class="_paradigm">RADICAL</span> investment which includes an upside to be paid on top of the principal over a period of time. 120% over two years, or double after five, or &hellip; whatever you think is realistic and reasonable. Explain that <span class="_paradigm">RADICAL</span> investments do not include any other powers. This won&rsquo;t be a surprise for the friends/family/fools crowd. It will most likely be a, perhaps unacceptable, surprise to traditional <span class="_paradigm">FIAT</span> capital investors. However, talk to them as well as a few are not so traditionalists and may be inspired enough to give you capital as a <span class="_paradigm">RADICAL</span>-investment</p>
+ <p>Instead treat borrowed capital like a <span class="_paradigm">RADICAL</span> investment which includes an upside to be paid on top of the principal over a period of time. 120% over two years, or double after five, or&hellip; whatever you think is realistic and reasonable. Explain that <span class="_paradigm">RADICAL</span> investments do not include any other powers. This won&rsquo;t be a surprise for the friends/family/fools crowd. It will most likely be a, perhaps unacceptable, surprise to traditional <span class="_paradigm">FIAT</span> capital investors. However, talk to them as well as a few are not so traditionalists and may be inspired enough to give you capital as a <span class="_paradigm">RADICAL</span>-investment</p>
  <p>Once you have the capital it will go into whatever you have to buy and <em>the Predictable Recurring Income (PRI) fund</em>. Alternatively, you may forego borrowing any capital in which case there won&rsquo;t be PRI fund and co-owners must be willing to afford to wait for revenue.</p>
 
 <h1>Hiring</h1>
@@ -127,7 +127,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 <h1>Explicit Relationships</h1>
  <p>n Explicit Relationship is a guide to an exploration among would-be co-owners to make sure that they can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Explicit Relationship. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
  <div class="_center">
-  <table class="_background">
+  <table class="_h2table">
    <tr>
     <th>Umwelt</th>
     <td>
@@ -184,7 +184,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 <h1>In Summary&hellip;</h1>
  <p>To create a RADICAL startup, do whatever works for you. We are not preaching a dogma, only a way to do it more easily and with a definite intention to get away from the <span class="_paradigm">FIAT</span> way of doing thigs..</p>
   <div class="_center">
-   <table class="_background">
+   <table class="_h2table">
     <tr>
      <th>Foundation</th>
      <td>
