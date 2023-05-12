@@ -14,7 +14,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>On the positive side,</p>
   <ul>
    <li>You have a great idea</li>
-   <li>The idea is neutral or good for Earth-as-life-support.</li>
+   <li>The idea is good for our life-support system, Earth.</li>
   </ul>
  <p>TEST</p> 
  <p>On the other hand,</p>
