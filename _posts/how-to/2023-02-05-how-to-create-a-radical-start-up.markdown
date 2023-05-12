@@ -23,7 +23,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   </ul>
 
 <h1>The Foundation</h1>
- <p>Listen to the Forc&hellip; er&hellip; listen to the Foundation,</p>
+ <p>Simple,</p>
  <div class="_center">
   <table class="_h2table_">
    <tr>
@@ -37,9 +37,6 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <tr>
     <th>practices</th>
     <td>Experimentation</td>
-   </tr>
-   <tr>
-    <td class="_spacer_"></td>
    </tr>
   </table>
  </div>
