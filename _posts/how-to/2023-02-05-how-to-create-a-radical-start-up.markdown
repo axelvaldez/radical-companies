@@ -95,7 +95,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    width="70%"
    alt="">
  </div>
- <p>Co-owners should get together to figure out answers to the questions in the Explicit Alignment below. This is extremely key.</p>
+ <p>Co-owners should get together to figure what they'd like to put down in the <em>Explicit Alignment</em>. This is extremely key.</p>
  <div class="_center">
   <table class="_explicitalignment">
    <tr>
