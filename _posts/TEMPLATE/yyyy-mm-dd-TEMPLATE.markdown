@@ -140,11 +140,49 @@ image:    "icon-ptsd-and-trust.svg"
  </div>
 
 <!-- Explicit Relationship  Table -->
- <div class="_center">
   <table class="_h2table">
    <tr>
-    <th></th>
-    <td></td>
+    <th>The world as experienced by you (umwelt)</th>
+    <td>
+     <ul>
+      <li>How do you show up? Who are you?</li>
+      <li>Why do you need others?</li>
+      <li>What do you feel we need to agree on?</li>
+      <li>What are your red lines?</li>
+      <li>Anything else?</li>
+      <li>What gets you angry?</li>
+      <li>What shuts you up?</li>
+      <li>What makes you excited?</li>
+      <li>What we really need to know is what does each of the above look like?</li>
+      <li>How would we know if you are angry, feel shut up, or excited?</li>
+      <li>Anything else?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Vulnerabilty</th>
+    <td>
+     <ul>
+      <li>What are you biggest fears?</li>
+      <li>Do you speak up? How?</li>
+      <li>Do you need to be given permission to speak? <span class="_quotespan">You didn&rsquo;t ask me!</span></li>
+      <li>Anything else?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Collaboration</th>
+    <td>
+     <ul>
+      <li>What is meaningful to you?</li>
+      <li>What gives you joy?</li>
+      <li>How can we help you collaborate with us?</li>
+      <li>What stops you on your tracks?</li>
+      <li>How can we avoid doing that?</li>
+      <li>How do we know when you are collaborating? How do you show up?</li>
+      <li>What impact you have to have?</li>
+     </ul>
+    </td>
    </tr>
   </table>
  </div>

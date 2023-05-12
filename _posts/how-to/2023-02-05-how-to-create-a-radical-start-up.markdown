@@ -82,7 +82,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>This is the important, and probably most contentious, thing of all: a withdrawal from the PRI Fund is <em>a personal debt</em> that a co-owner is responsible for. Other policies are plausible, but this seems to be the most reasonable. Co-owners are not exchanging their time for just a salary as is the case in <span class="_paradigm">FIAT</span> land and the people drawing from the PRI Fund are co-owners. Each need to realize that they are responsible for what they take out of fund.</p>
  <p>This means that co-onwers need to decide what to with people who exit while still having PRI debt. For example, you may decide to put limits on time (<span class="_quotespan">We have agreed to do this for six months&hellip;</span>) or amount (<span class="_quotespan">We have agreed to do this for as long as the $500,000 in the PRI Fund lasts</span>), or you want to have a discussion with the PRI debt to <span class="_paradigm">RAD</span>s falls too low. The point is that it is up to you, the co-owners.</p>
 
-<h1>The <em><span class="_paradigm">RAD</span>s!</em> Mobile App</h1>
+<h1>The <em>>RADs!</em> Mobile App</h1>
  <p>Co-owners use the <em><span class="_paradigm">RAD</span>s!</em> mobile app to recognize the contributions of other co-owners. The <em><span class="_paradigm">RAD</span>s!</em> app later converts these contributions into <span class="_paradigm">RAD</span>s at the end of each, say, monthly cycle.</p>
  <p>Co-owners can recognize anything as a contributions. These can range from a tangible benefit to the company (<em>e.g.</em>, <span class="_quotespan">&hellip; found us a place to store return merchandize for free.</span>) to something more intangible (<em>e.g.</em>, <span class="_quotespan">&hellip; took the time to talk to him and to help him get his mental health taken care of.</span> or even <span class="_quotespan">&hellip; it gave me a lot of joy when he did that.</span>)</p>
  <p><span class="_paradigm">RAD</span>s can factor anything through them. For example, if I have 10% of the <span class="_paradigm">RAD</span>s distributed and you have 20%, you get twice as much as I do of whatever is being filtered through the <span class="_paradigm">RAD</span>s this time (<em>e.g.</em>, earned dividends).</p>
@@ -95,19 +95,35 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    width="70%"
    alt="">
  </div>
- <p>Co-owners should get together as soon as possible, or sooner, to figure out answers to the questions in the Explicit Alignment below. This is extremely key.</p>
+ <p>Co-owners should get together to figure out answers to the questions in the Explicit Alignment below. This is extremely key.</p>
  <div class="_center">
-  <table class="_background">
+  <table class="_explicitalignment">
+   <tr id="_background">
+    <td></td>
+    <th>Impact</th>
+   </tr>
    <tr>
-    <th>Impact<br><span class="_alignquestions">what for?</span></th>
+    <th>What for?</th>
     <td>What impact they want to make (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
    </tr>
-   <tr>
-    <th>Purpose<br><span class="_alignquestions">why?</span></th>
-    <td>Why are we doing this for? For example, <span class="_quotespan">Easy to get, healthy foods.</span></td>
+   <tr id="_background">
+    <td></td>
+    <th>Purpose</th>
    </tr>
    <tr>
-    <th>Mission<br><span class="_alignquestions">what?<br>when?<br>how?</span></th>
+    <th>Why?</th>
+    <td>Why are we doing this for? For example, <span class="_quotespan">Easy to get, healthy foods.</span></td>
+   </tr>
+   <tr id="_background">
+    <td></td>
+    <th>Mission</th>
+   </tr>
+   <tr>
+    <th>
+     What?<br>
+     When?<br>
+     How?
+    </th>
     <td>What are doing, when, and how? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We mean to sign up the first 100 customers by the end of March.</span></td>
    </tr>
   </table>
@@ -124,7 +140,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <div class="_center">
   <table class="_h2table">
    <tr>
-    <th>Umwelt</th>
+    <th>The world as experienced by you (umwelt)</th>
     <td>
      <ul>
       <li>How do you show up? Who are you?</li>
@@ -168,13 +184,13 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    </tr>
   </table>
  </div>
- <p>Also, please, take a look at our Foundation table and our Alignment table, particularly its <b>Impact</b> and <b>Purpose</b>.</p>
+ <p>Also,</p>
   <ul>
    <li>What thoughts does this bring up?</li>
    <li>Does it work for you?</li>
    <li>Does anything need to change or be clarified for you?</li>
   </ul>
- <p>Our recomendation is that you allot one hour each to Mindset, Transparency, and <b>Collaboration</b>. We have spend many more that three hours on these, and it has been very worth it. Doing it will get you to a level of trust with other co-owners that <span class="_paradigm">FIAT</span> businesses don&rsquo;t ever get near. This practice creates a foundation for the relationships that are so important to our success.</p>
+ <p>For example, allot one hour each to Mindset, Transparency, and <b>Collaboration</b>. We have spend many more that three hours on these, and it has been very worth it. Doing it will get you to a level of trust with other co-owners that <span class="_paradigm">FIAT</span> businesses don&rsquo;t never get near. This practice creates a basline for the relationships that are so important to our success.</p>
 
 <h1>In Summary&hellip;</h1>
  <p>To create a RADICAL startup, do whatever works for you. We are not preaching a dogma, only a way to do it more easily and with a definite intention to get away from the <span class="_paradigm">FIAT</span> way of doing thigs..</p>
@@ -212,8 +228,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
        <ul>
         <li>Explicit Relationship and Explicit Alignment can help establish a foundation for healthy relationships.</li>
         <li>
-         <div>The <em><span class="_paradigm">RAD</span>s!</em> mobile app makes it easier for all co-owners to recognize contributions.</div>
-         <div style="text-indent:1em; ">It also makes it easier to start difficult conversations which requires different skills than what we have learned throughout our lives in a <span class="_paradigm">FIAT</span> system. Sometimes the conversation will end up being a misunderstanding, sometimes behavior will have to change, and other times it will end up in a collaboration to do things differently..</div>
+         <p>The <em><span class="_paradigm">RAD</span>s!</em> mobile app makes it easier for all co-owners to recognize contributions.</p>
+         <p>It also makes it easier to start difficult conversations which requires different skills than what we have learned throughout our lives in a <span class="_paradigm">FIAT</span> system. Sometimes the conversation will end up being a misunderstanding, sometimes behavior will have to change, and other times it will end up in a collaboration to do things differently.</p>
         </li>
        </ul>
      </td>
