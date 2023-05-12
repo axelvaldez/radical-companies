@@ -97,7 +97,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  </div>
  <p>Co-owners should get together to figure what they'd like to put down in the <em>Explicit Alignment</em>. This is extremely key.</p>
  <div class="_center">
-  <table class="_explicitalignment">
+  <table class="_explicitalignment, _h2table">
    <tr>
     <td></td>
     <th>Impact</th>
