@@ -11,49 +11,40 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 </div>
 
 <h1>Good News, Bad News</h1>
- <p>On the positive side,</p>
-  <ul>
-   <li>You have a great idea</li>
-   <li>The idea is good for our life-support system, Earth.</li>
-  </ul>
- <p>TEST</p> 
- <p>On the other hand,</p>
-  <ul>
-   <li>You don&rsquo;t have capital.</li>
-   <li>Your friends love you, but they are busy with their own jobs and can&rsquo;t join your project.</li>
-  </ul>
+ <p>You have a great idea and the idea is good for our life-support system, Earth. On the other hand, you don&rsquo;t have capital and your friends are busy with their own jobs and can&rsquo;t join your project.</p>
+ <p>You need capital</p>
 
 <h1>The Foundation</h1>
-  <div class="_center">
-   <table class="_h2table">
-    <tr>
-     <th>people</th>
-     <td>Meaning & Belonging</td>
-    </tr>
-    <tr>
-     <th>commitments</th>
-     <td>Decentralization & Transparency</td>
-    </tr>
-    <tr>
-     <th>practices</th>
-     <td>Experimentation</td>
-    </tr>
-   </table>
-  </div>
-  <ul>
-   <li>
+ <div class="_center">
+  <table class="_h2table">
+   <tr>
+    <th>people</th>
+    <td>Meaning & Belonging</td>
+   </tr>
+   <tr>
+    <th>commitments</th>
+    <td>Decentralization & Transparency</td>
+   </tr>
+   <tr>
+    <th>practices</th>
+    <td>Experimentation</td>
+   </tr>
+  </table>
+ </div>
+ <ul>
+  <li>
     <p>Transparency: Secrecy is your enemy. Talk about your idea to as many people as you can <em>anywhere in the wold</em>. This will help you mold your idea. If felt great when you first thought of it, but it now has to be shaped, so lean on your social circle to help you do it. Transparency is your friend.</p>
-   </li>
-   <li>
-    <p>Decentralization: With all the talk about <em>teal</em> and the like, people will likely welcome decentralizing decision making, co-management; they may even be enthusiastic about it. On the other hand, when you talk about co-ownership you may get a neutral stare or curiosity, but be ready for disgust or ever-so-polite ridicule. They are not attacking you as much as they are trying to push away the thought you just put in their head. This is suddently seeing the invisible mounstrous ghost, so don&rsquo;t be suprised when people run away.</p>
-   </li>
-   <li>
-    <p>Meaning & Belonging: if you identify people who are really interested in this, don&rsquo;t let them go. And if they have skills that will help create your idea, hold on to them. If on top of that you want them in your team, you are very lucky!</p>
-   </li>
-   <li>
-    <p>Experiment: Try variations on how you present co-ownership and co-management. IfRemember and reuse the stories that work.</p>
-   </li>
-  </ul>
+  </li>
+  <li>
+   <p>Decentralization: With all the talk about <em>teal</em> and the like, people will likely welcome decentralizing decision making, co-management; they may even be enthusiastic about it. On the other hand, when you talk about co-ownership you may get a neutral stare or curiosity, but be ready for disgust or ever-so-polite ridicule. They are not attacking you as much as they are trying to push away the thought you just put in their head. This is suddently seeing the invisible mounstrous ghost, so don&rsquo;t be suprised when people run away.</p>
+  </li>
+  <li>
+   <p>Meaning & Belonging: if you identify people who are really interested in this, don&rsquo;t let them go. And if they have skills that will help create your idea, hold on to them. If on top of that you want them in your team, you are very lucky!</p>
+  </li>
+  <li>
+   <p>Experiment: Try variations on how you present co-ownership and co-management. IfRemember and reuse the stories that work.</p>
+  </li>
+ </ul>
 
 <h1>Cash Infusion</h1>
  <p>If you want to, and can, then take in capital. For starting companies seed capital, as it is called, comes from friends, family, and &ldquo;fools&rdquo;. Friends and family know you and trust you; &ldquo;fools&rdquo; believe in you. The thing they have in common is that they all want you to succeed.</p>
