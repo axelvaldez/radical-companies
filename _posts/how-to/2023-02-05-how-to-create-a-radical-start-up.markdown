@@ -98,7 +98,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>Co-owners should get together to figure out answers to the questions in the Explicit Alignment below. This is extremely key.</p>
  <div class="_center">
   <table class="_explicitalignment">
-   <tr id="_background">
+   <tr>
     <td></td>
     <th>Impact</th>
    </tr>
@@ -106,7 +106,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <th>What for?</th>
     <td>What impact they want to make (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
    </tr>
-   <tr id="_background">
+   <tr>
     <td></td>
     <th>Purpose</th>
    </tr>
@@ -114,7 +114,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <th>Why?</th>
     <td>Why are we doing this for? For example, <span class="_quotespan">Easy to get, healthy foods.</span></td>
    </tr>
-   <tr id="_background">
+   <tr>
     <td></td>
     <th>Mission</th>
    </tr>
@@ -192,8 +192,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   </ul>
  <p>For example, allot one hour each to Mindset, Transparency, and <b>Collaboration</b>. We have spend many more that three hours on these, and it has been very worth it. Doing it will get you to a level of trust with other co-owners that <span class="_paradigm">FIAT</span> businesses don&rsquo;t never get near. This practice creates a basline for the relationships that are so important to our success.</p>
 
-<h1>In Summary&hellip;</h1>
- <p>To create a RADICAL startup, do whatever works for you. We are not preaching a dogma, only a way to do it more easily and with a definite intention to get away from the <span class="_paradigm">FIAT</span> way of doing thigs..</p>
+<h1>So&hellip;</h1>
+ <p>To create a <span class="_paradigm">RADICAL</span> startup, do whatever works for you. We are not preaching a dogma, only a way to do it more easily and with a definite intention to get away from the <span class="_paradigm">FIAT</span> way of doing thigs..</p>
   <div class="_center">
    <table class="_h2table">
     <tr>

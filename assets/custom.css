@@ -51,7 +51,7 @@ nav{
   font-family: Courier New, monospace;
 }
 nav {
-  border-bottom: 1px solid #dedede;
+  border-bottom:#dedede 1px solid;
 }
 nav a, nav a span{
   text-decoration: none;
@@ -189,14 +189,16 @@ footer{
 table._explicitalignment {
   column-width:80%;
 }
-table._explicitalignment tr#_background {
- background-color:#EEEEEE;
+table._explicitalignment tr:nth-child(2n) {
+  background-color:#EEEEEE;
 }
 table._explicitalignment th {
   vertical-align:text-top;
   text-align:right;
   font-weight:bold;
+  /*
   font-family:'Times New Roman', Times;
+  */
   column-width:20%;
 }
 table._explicitalignment td {
@@ -280,8 +282,7 @@ table._background ul {
   list-style-position:outside;
 }
 table._background tr th, table._foundation tr th {
-  border-right-color:gray;
-  border-right-style:solid;
+  border-right:gray solid 1px;
   column-width:80%;
   padding-left:1em;
 }
@@ -316,7 +317,7 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   font-family:Courier New, monospace;
   background-color:beige;
   white-space:normal;
-  border:1px solid CadetBlue;
+  border:CadetBlue 1px solid;
   padding:10px 10px 0 10px;
   width:80%;
   margin:0 auto 30px auto;
@@ -434,13 +435,9 @@ h1+p, h2+p {
 ._float td {
   column-width:80%;
 }
-div table._background {
-  border:1px solid black;
+div table._background, div table._foundation {
+  border:black 1px solid;
   max-width:90%;
-}
-div table._foundation {
-  border:1px solid black;
-  max-width:50%;
 }
 #_bolder {
   font-weight:bolder;
