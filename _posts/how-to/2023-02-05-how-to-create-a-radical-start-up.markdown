@@ -16,30 +16,31 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <li>You have a great idea</li>
    <li>The idea is neutral or good for Earth-as-life-support.</li>
   </ul>
+ <p>TEST</p> 
  <p>On the other hand,</p>
   <ul>
    <li>You don&rsquo;t have capital.</li>
-   <li>Your friends love you, but they are busy with their own jobs.</li>
+   <li>Your friends love you, but they are busy with their own jobs and can&rsquo;t join your project.</li>
   </ul>
 
 <h1>The Foundation</h1>
  <p>Simple,</p>
- <div class="_center">
-  <table class="_h2table_">
-   <tr>
-    <th>people</th>
-    <td>Meaning & Belonging</td>
-   </tr>
-   <tr>
-    <th>commitments</th>
-    <td>Decentralization & Transparency</td>
-   </tr>
-   <tr>
-    <th>practices</th>
-    <td>Experimentation</td>
-   </tr>
-  </table>
- </div>
+  <div class="_center">
+   <table class="_h2table_">
+    <tr>
+     <th>people</th>
+     <td>Meaning & Belonging</td>
+    </tr>
+    <tr>
+     <th>commitments</th>
+     <td>Decentralization & Transparency</td>
+    </tr>
+    <tr>
+     <th>practices</th>
+     <td>Experimentation</td>
+    </tr>
+   </table>
+  </div>
   <ul>
    <li>
     <p>Transparency: Secrecy is your enemy. Talk about your idea to as many people as you can <em>anywhere in the wold</em>. This will help you mold your idea. If felt great when you first thought of it, but it now has to be shaped, so lean on your social circle to help you do it. Transparency is your friend.</p>
