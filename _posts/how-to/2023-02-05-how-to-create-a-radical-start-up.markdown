@@ -55,11 +55,18 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    </li>
   </ul>
 
-<h1>Borrowing, or Not</h1>
- <p>If you want to, and can, then borrow capital. Seed capital, as it is called, comes from friends, family, and fools. Friends and family know you and trust you; fools believe in you. They all want you to succeed.</p>
- <p>Seed capital is formalized as a legal Note that promises them, 1) their money back plus some upside, or 2) shares of the new company. But you new company <em>won&rsquo;t have shares</em>, so Notes are not applicable.</p>
- <p>Instead treat borrowed capital like a <span class="_paradigm">RADICAL</span> investment which includes an upside to be paid on top of the principal over a period of time. 120% over two years, or double after five, or&hellip; whatever you think is realistic and reasonable. Explain that <span class="_paradigm">RADICAL</span> investments do not include any other powers. This won&rsquo;t be a surprise for the friends/family/fools crowd. It will most likely be a, perhaps unacceptable, surprise to traditional <span class="_paradigm">FIAT</span> capital investors. However, talk to them as well as a few are not so traditionalists and may be inspired enough to give you capital as a <span class="_paradigm">RADICAL</span>-investment</p>
- <p>Once you have the capital it will go into whatever you have to buy and <em>the Predictable Recurring Income (PRI) fund</em>. Alternatively, you may forego borrowing any capital in which case there won&rsquo;t be PRI fund and co-owners must be willing to afford to wait for revenue.</p>
+<h1>Cash Infusion</h1>
+ <p>If you want to, and can, then take in capital. For starting companies seed capital, as it is called, comes from friends, family, and &ldquo;fools&rdquo;. Friends and family know you and trust you; &ldquo;fools&rdquo; believe in you. The thing they have in common is that they all want you to succeed.</p>
+ <p>Seed capital is formalized and made legal as a Note that promises them, 1) their money back plus some upside, or 2) future shares of the new company. Note that you startup company <em>won&rsquo;t have shares</em> (but hopes to, one day).</p>
+
+<h1>RADICAL Investments</h1>
+ <p>What we are proposing here is you treat capital infusions as a <em><span class="_paradigm">RADICAL</span> investment</em>.</p>
+ <p><span class="_paradigm">RADICAL</span> invesments include paying back the principal and an upside over a certain time. It could be 120% over two years, or double after five, or whatever you think is realistic and reasonable. Very important: <span class="_paradigm">RADICAL</span> investments do not include <em>any</em> other powers. This won&rsquo;t be a surprise for the friends/family/fools crowd. It will most likely be a surprise to traditional <span class="_paradigm">FIAT</span> capital investors; even unacceptable. However, a few &ldquo;traditional&rdquo; investors may be inspired enough to go along with a <span class="_paradigm">RADICAL</span>-investment.</p> The guaranteed return may do the trick.</p>
+ <p>Instead of promising wild returns, you may structure it as a reasonable, even low, guaranteed return plus a percentage of dividends for a fixed period of time. This avoids the &ldquo;power forever&rsquo; setup of today.</p>
+
+ <h1>Predictable Recurring Income (PRI)</h1>
+ <p>Once you have the capital it will go into whatever you have to buy up front. It may also go into a <em>the Predictable Recurring Income (PRI) fund</em>, used to pay all co-owners until revenue comes in.</p>
+ <p>You may be able to take in less capital if co-owners can afford to wait for revenue. In that case you won&rsquo;t need a PRI fund.</p>
 
 <h1>Hiring</h1>
  <p>You are not going to do any hiring, you are finding co-owners. You should repeat this, out loud, many times. Like a mantra.</p>
