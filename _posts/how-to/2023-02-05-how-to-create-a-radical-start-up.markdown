@@ -24,9 +24,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   </ul>
 
 <h1>The Foundation</h1>
- <p>Simple,</p>
   <div class="_center">
-   <table class="_h2table_">
+   <table class="_h2table">
     <tr>
      <th>people</th>
      <td>Meaning & Belonging</td>
