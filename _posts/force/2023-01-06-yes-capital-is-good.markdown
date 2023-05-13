@@ -29,6 +29,8 @@ image:    "icon-yes-capital-is-good.svg"
    <li>You are a good employee and your work is your only source of survival.</li>
    <li>You are a good employee and you never learn that it was once possible to find  dignity at work.</li>
   </ul>
+
+<h1>Labor as Boss</h1>
  <p>Unions enter the scene,</p>
   <ul>
    <li>They make demands on behalf of the little people.</li>
@@ -46,6 +48,8 @@ image:    "icon-yes-capital-is-good.svg"
    <li>Very good employees take work home.</li>
    <li>Vacation time goes up, but very good employees don&rsquo;t take advantage of it (and proud of it).</li>
   </ul>
+
+<h1>Trendy Purpose</h1>
  <p>It becomes trendy for businesses to have a purpose. Nevertheless, they are still owned by the people with the capital (<em>i.e.</em>, which, as you may remember, came from enclosures).</p>
  <p>Life goes on,</p>
   <ul>
