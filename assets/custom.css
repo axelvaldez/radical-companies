@@ -198,6 +198,11 @@ table._explicitalignment tr:nth-child(2n+1) {
 }
 table._explicitalignment tr:nth-child(2n+1) th {
   text-align:left;
+  border:0;
+}
+table._explicitalignment tr:nth-child(2n+1) td {
+  text-align:right;
+  border:0;
 }
 table._explicitalignment th {
   vertical-align:text-top;
