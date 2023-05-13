@@ -18,7 +18,7 @@ image:    "icon-fiat-force-or-pain.svg"
  <p>Remarkably, the other route to suvivability is wellbeing. Nobody has to force us to things for our wellbeing, we are happy to do them. <span class="_paradign">FORCE</span>, <span class="_paradign">FEAR</span>, and <span class="_paradign">PAIN</span> simply get in the way of the joy of doing things for our wellbeing.</p>
   <img
    src="/assets/img/pic-fiat-fear-force-or-pain.svg"
-   alt="At the top of it all, we see FIAT. Below it, we see 'threat of force.' Below and to the right, we see 'Threat of Pain.' Below and to the right, we see 'Fear (avoid Pain).' Below and to the right we see 'Force.' Bellow and to the right, we see 'Pain.' To the far right of that, we see 'Wellbeing.' There are arrows connecting these boxes. Finally, underneath all of it, we see 'Survivability.'"
+   alt="At the top of it all, we see the word FIAT. Below it, we see the words 'threat of force.' Below and to the right, we see 'Threat of Pain.' Below and to the right, we see 'Fear (avoid Pain).' Below and to the right we see 'Force.' Bellow and to the right, we see 'Pain.' To the far right of that, we see 'Wellbeing.' There are arrows connecting these boxes. Finally, underneath all of it, we see 'Survivability.'"
    style="width:70%;"
   >
 
