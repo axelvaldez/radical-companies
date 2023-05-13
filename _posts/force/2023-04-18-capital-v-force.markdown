@@ -19,7 +19,7 @@ image:    "icon-capital-v-force.svg"
  <div class="_speakera">On behalf of the proletariat, yes!</div>
  
 <h1>We Are Not Able to See it</h1>
- <p>Karl Marx was blind to the <span class='_paradigm'>FIAT</span> system. He just switched the owners, from capitalist to &rdquo;the new man,&rdquo;. Unfortunately, he kept the <span class='_paradigm'>FIAT</span> system itself. That is like putting lipstick on the pig.</p>
+ <p>Karl Marx was blind to the <span class='_paradigm'>FIAT</span> system. He just switched the owners, from capitalist to &rdquo;the new man,&rdquo; Unfortunately, he kept the <span class='_paradigm'>FIAT</span> system itself. That is like putting lipstick on the pig.</p>
  <p>The important thing is to make the <span class='_paradigm'>FIAT</span> system <em>visible</em>, in particular to the people it hurts.</p>
  <p>The search for an alternative is very high up in priority.</p>
 
