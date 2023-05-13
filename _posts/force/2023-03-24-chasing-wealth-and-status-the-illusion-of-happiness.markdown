@@ -30,7 +30,7 @@ image:    "icon-chasing-wealth-and-status-the-illusion-of-happiness.svg"
 
 <h1>Wealth and Status</h1>
  <p>According to <em>chatGPT</em>, <span class="_quotespan">Wealth and status can provide many benefits, such as financial security, social recognition, and professional fulfillment. However, these benefits may come at a cost, such as long working hours, high-pressure environments, and the feeling of being trapped in a job that does not align with your values or interests.</span></p>
- <p>The &ldquo;benefits&rdquo; that <em>chatGPT</em> is talking about are very, very fragile. Financial security and status, for example, always are at the mercy of the boss and you can be put in the penalty box at anytime and for any reason. When I was at the height of my salary range, this is the thing that always hung over me and my family&rsquo;s head.</p>
+ <p>The <em>benefits</em> that chatGPT is referring to is very, very fragile. Financial security and status, for example, always are at the mercy of the boss and you can be put in the penalty box at anytime and for any reason. When I was at the height of my salary range, this is the thing that always hung over me and my family&rsquo;s head.</p>
 
 <h1>Existential Dread</h1>
  <p>Tapping one more time into the collective wisdom that is <em>chatGPT</em>, <span class="_quotespan">Existential dread is a feeling of uncertainty, anxiety, or despair about the meaning and purpose of one's life. It can be triggered by various factors, including the sense of emptiness or disconnection from one's work or the world around them.</span></p>
