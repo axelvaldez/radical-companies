@@ -30,7 +30,7 @@ image:    "icon-captured-love.svg"
  <p>Co-ownership is a poweful inovation for going forward.</p>
  
 <h1 class="_section">ENDNOTES</h1>
- <ul>
+ <ol>
   <li id="en01">
    <p class="_list-item">
     Dr Turner was a scientist and a civil rights leader. As per Wikipedia, <span class="_quotespan">Besides his scientific work, Turner was active in the struggle to obtain social and educational services for African Americans in St. Louis, Missouri.</span>
@@ -38,6 +38,6 @@ image:    "icon-captured-love.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ul>
+ </ol>
 
 {% include related.html %}
