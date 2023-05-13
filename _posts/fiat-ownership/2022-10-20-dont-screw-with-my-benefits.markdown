@@ -25,7 +25,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
   <div class="_center">
    <table>
     <tr>
-     <td></td>
+     <td style="text-align:right; padding-right:1em; "></td>
      <th id="_background"><span class="_paradigm">RADICAL</span> Goodness</th>
     </tr>
     <tr>
@@ -41,7 +41,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
      <td>As your company matures and people are more experienced with RAD distributions, salaries can be replaced with a <em>predictable recurring income</em> (PRI) system.</td>
     </tr>
     <tr>
-     <td></td>
+     <td style="text-align:right; padding-right:1em; ></td>
      <th id="_background"><span class="_paradigm">RADICAL</span> Difference</th>
     </tr>
     <tr>
@@ -52,7 +52,6 @@ image:    "icon-dont-screw-with-my-benefits.svg"
       <p>Holidays</p>
       <p>Compensatory Time</p>
       <p>Sabbaticals</p>
-      <p>etc.</p>
      </th>
      <td>
       <p>You determine how long you want to be inactive (<em>i.e.</em>, how much time off you want to take). Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay&rdquo; for any time you take that&rsquo;s not generating income.</p>
