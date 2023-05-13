@@ -7,7 +7,7 @@ image:    "icon-get-rid-of-ownership.svg"
 ---
 
 <div style="display:none;">
- <p><span class="_quotespan">Just get rid of ownership and everything will be fine<span>. This is a recurring and dangerous fantasy. Although we have taken it to an extreme, ownership is actually a good thing.</p>
+ <p><span class="_quotespan">Just get rid of ownership and everything will be fine</span>. This is a recurring and dangerous fantasy. Although we have taken it to an extreme, ownership is actually a good thing.</p>
 </div>
 
 <div class="_citation">
