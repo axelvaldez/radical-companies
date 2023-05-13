@@ -99,7 +99,7 @@ image:    "icon-what-will-kill-us-first.svg"
     </td>
    </tr>
    <tr>
-    <td colspan="2">
+    <td colspan="2" style="border:0; ">
      <div class="_center">
       <img
        src="/assets/img/explicit-alignment-en.svg"
