@@ -16,69 +16,68 @@ image:    "icon-dont-screw-with-my-benefits.svg"
  
 <div class="_citation">
  Perhaps our job is to create the conditions for things to get better, not to predict that they won’t.
- <span id="_signature">Seth Goding<a href="#en01"><sup id="bm01">1&nbsp;</sup></a></span>
+ <p id="_signature">Seth Goding<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 </div>
  
 <h1><span class="_paradigm">RADICAL</span> Threat</h1>
  <p>The <span class="_paradigm">RADICAL</span> model is not about tweaking the <span class="_paradigm">FIAT</span> system we live in. It is very, very different. And it seems like a threat. &ldquo;The current system is all I know. It has been built over hundreds of years and it has made out lives better, right? Why change it so drastically? What is dramatically wrong with it that you want to pull it apart?&rdquo;</p>
  <p>Actually, the end result will not be that different. People will continue to be people. Our lives will keep improving, but without the exploitation of other people. For me to be &ldquo;rich&rdquo;, you don't have to be &ldquo;poor.&rdquo; For my live to be better, we don't have to break Earth. For me to feel better, I don't have to make you feel miserable.</p>
- <table>
-  <tr>
-   <th colspan="2" style="font-size:larger; text-align:center; border-right:none; "><span class="_paradigm">RADICAL</span> Goodness</th>
-  </tr>
-  <tr>
-   <th>Bonus</th>
-   <td>
-    Replaced by <em>earned dividends</em>, which are calculated based on the number of <span class="_paradigm">RAD</span>s. They, in turn, are calculated based on the number of recognized contributions your peers have given you.
-    <br>
-    Keep in mind that the <span class="_paradigm">RAD</span>s you have  with previous companies are still generating income.
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>Salary</th>
-   <td>As your company matures and people are more experienced with RAD distributions, salaries can be replaced with a <em>predictable recurring income</em> (PRI) system.</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-   <th colspan="2" style="font-size:larger; text-align:center; border-right:none; "><span class="_paradigm">RADICAL</span> Difference</th>
-  </tr>
-  <tr>
-   <th style="border-bottom:1px dotted black; ">Vacation</th>
-   <td rowspan="4" >
-    You determine how much long you want to be inactive (<em>i.e.</em>, how much time off you want to take). Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay&rdquo; for any time you take that&rsquo;s not generating income.
-    <br>
-    Keep in mind that the <span class="_paradigm">RAD</span>s you have  with previous companies are also generating income that can &ldquo;pay&rdquo; for your inactive time.
-   </td>
-  </tr>
-  <tr>
-   <th style="border-bottom:1px dotted black; ">Parental Time Off</th>
-  </tr>
-  <tr>
-   <th style="border-bottom:1px dotted black; ">Sick Days</th>
-  </tr>
-  <tr>
-   <th style="border-bottom:1px dotted black; ">Holidays</th>
-  </tr>
-  <tr>
-   <th style="border-bottom:1px dotted black; ">Compensatory Time</th>
-  </tr>
-  <tr>
-   <th style="border-bottom:1px dotted black; ">Sabbaticals</th>
-  </tr>
-  <tr>
-   <th>etc.</th>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
- </table>
+  <div class="_center">
+   <table class="_h2table">
+    <tr>
+     <td></td>
+     <th><span class="_paradigm">RADICAL</span> Goodness</th>
+    </tr>
+    <tr>
+     <th>Bonus</th>
+     <td>
+      Replaced by <em>earned dividends</em>, which are calculated based on the number of <span class="_paradigm">RAD</span>s. They, in turn, are calculated based on the number of recognized contributions your peers have given you.
+      <br>
+      Keep in mind that the <span class="_paradigm">RAD</span>s you have  with previous companies are still generating income.
+     </td>
+    </tr>
+    <tr>
+     <th>Salary</th>
+     <td>As your company matures and people are more experienced with RAD distributions, salaries can be replaced with a <em>predictable recurring income</em> (PRI) system.</td>
+    </tr>
+    <tr>
+     <td></td>
+     <th><span class="_paradigm">RADICAL</span> Difference</th>
+    </tr>
+    <tr>
+     <th>Vacation</th>
+     <td rowspan="4">
+      You determine how much long you want to be inactive (<em>i.e.</em>, how much time off you want to take). Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay&rdquo; for any time you take that&rsquo;s not generating income.
+      <br>
+      Keep in mind that the <span class="_paradigm">RAD</span>s you have  with previous companies are also generating income that can &ldquo;pay&rdquo; for your inactive time.
+     </td>
+    </tr>
+    <tr>
+     <td></td>
+     <th>Parental Time Off</th>
+    </tr>
+    <tr>
+     <td></td>
+     <th>Sick Days</th>
+    </tr>
+    <tr>
+     <td></td>
+     <th>Holidays</th>
+    </tr>
+    <tr>
+     <td></td>
+     <th>Compensatory Time</th>
+    </tr>
+    <tr>
+     <td></td>
+     <th>Sabbaticals</th>
+    </tr>
+    <tr>
+     <td></td>
+     <th>etc.</th>
+    </tr>
+   </table>
+  </div>
  
 <h1><span class="_paradigm">BANNER</span>s</h1>
  <p>You can also create <span class="_paradigm">BANNER</span>s for these eventualities. These can be individual <span class="_paradigm">BANNER</span>s, company-wide, or anywhere in between. For example, some of your peers may agree to reserve 10% of their income for &ldquo;benefits,&rdquo; </p>
@@ -122,14 +121,14 @@ image:    "icon-dont-screw-with-my-benefits.svg"
 
 <h1>Why the Quotation Marks?</h1>
  <p>I have consistently put quotation marks around the word &ldquo;benefit&rdquo; because they are <em>not</em> benefits. At least, they are not a benefit to you as much as they are a benefit to businesses.</p>
- <p>Over centuries, we have been tweaking the pay system to accommodate people&rsquo;s basic needs to survive and work another day. As Chuck Blakeman remind us,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> the range starts at zero pay during slavery to higher pay (plust proverty). The &ldquo;signal&rdquo; to pay more usually comes as some form of violence: strikes, revolution, or war.</p>
+ <p>Over centuries, we have been tweaking the pay system to accommodate people&rsquo;s basic needs to survive and work another day. As Chuck Blakeman remind us,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> the range starts at zero pay during slavery to higher pay (plust proverty). The &ldquo;signal&rdquo; to pay more usually comes as some form of violence: strikes, revolution, or war.</p>
  <p>Eventually, governments impose taxes and benefits to calm things down. This imposition is a form of violence, but most businesses go along with it because they know it is better for them than the more violent alternative.</p>
  <p>As a result, we have ended up with a hodgepodge of &ldquo;benefits&rdquo; worldwide. Primarily because of lack of trust, of the business owners <em>and</em> the workers, the money for these benefits goes first to governments. Then a bureaucracy develops to &ldquo;manage&rdquo; this money &ldquo;on behalf of&rdquo; the workers.</p>
  <p>The <span class="_paradigm">RADICAL</span> model assumes that people know their needs better than any government, as benevolent as it may be. It follows, then, that people are the best &ldquo;managers&rdquo; of what they need to live. In the <span class="_paradigm">RADICAL</span> model money in the form of <em>earned dividends</em> go directly to each of us. And, yes, we all have to learn a lot to deal with this responsibility and there will be many bumps along with way until it works smoothly, but all adults are capable of learning it and doing it.</p>
  <p>If you are thinking, &ldquo;yeah, but people will never&hellip; &rdquo;, keep in mind that that you are right to think that of &ldquo;people <em>in <span class="_paradigm">FIAT</span> environment</em>.&rdquo; In an different environment, where people are not conditioned to be afraid of learning and people help each other learn, thing will go much faster and smoothly.</p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     Seth Godin.
@@ -148,6 +147,6 @@ image:    "icon-dont-screw-with-my-benefits.svg"
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
