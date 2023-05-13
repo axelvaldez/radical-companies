@@ -19,8 +19,7 @@ image:    "icon-fiat-force-or-pain.svg"
   <img
    src="/assets/img/pic-fiat-fear-force-or-pain.svg"
    alt="At the top of it all, we see the word FIAT. Below it, we see the words 'threat of force.' Below and to the right, we see 'Threat of Pain.' Below and to the right, we see 'Fear (avoid Pain).' Below and to the right we see 'Force.' Bellow and to the right, we see 'Pain.' To the far right of that, we see 'Wellbeing.' There are arrows connecting these boxes. Finally, underneath all of it, we see 'Survivability.'"
-   style="width:70%;"
-  >
+   style="width:70%;">
 
 <h1>Heart-Felt Stories</h1>
  <p>When I came out of the shower I was ready to change <span class="_paradigm">FIAT</span> to <span class="_paradigm">PAIN</span>, but the discussion with the other <span class="_paradigm">RADICAL</span>s convinced me to stick with <span class="_paradigm">FIAT</span>.</p>
