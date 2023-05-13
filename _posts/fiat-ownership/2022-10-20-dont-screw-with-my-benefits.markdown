@@ -54,27 +54,14 @@ image:    "icon-dont-screw-with-my-benefits.svg"
     </tr>
     <tr>
      <td></td>
-     <th>Parental Time Off</th>
-    </tr>
-    <tr>
-     <td></td>
-     <th>Sick Days</th>
-    </tr>
-    <tr>
-     <td></td>
-     <th>Holidays</th>
-    </tr>
-    <tr>
-     <td></td>
-     <th>Compensatory Time</th>
-    </tr>
-    <tr>
-     <td></td>
-     <th>Sabbaticals</th>
-    </tr>
-    <tr>
-     <td></td>
-     <th>etc.</th>
+     <th>
+      <p>Parental Time Off</p>
+      <p>Sick Days</p>
+      <p>Holidays</p>
+      <p>Compensatory Time</p>
+      <p>Sabbaticals</p>
+      <p>etc.</p>
+     </th>
     </tr>
    </table>
   </div>
