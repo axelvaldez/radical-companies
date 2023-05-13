@@ -11,9 +11,9 @@ image:    "icon-boss-in-a-no-boss-world.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>What does a boss in a no-boss world do? After so many years of winning competitions&hellip; does he give up competition for collaborationn? After counting on force to get things done for so long, do I become nicer?</p>
+ <p>What does a boss in a no-boss world do? After so many years of winning competitions&hellip; does he give up competition for collaborationn? After counting on force to get things done for so long, does he become nicer?</p>
  <p>WHAT?</p>
- <p>I guess the only thing ahead is to learn. For the boss to learn to not be boss and the people around her to act like his loving peers. Thew peopllw aroud you are not employees, they are co-owners. Maybe the thing to do is remind them of the foundation, the explicit alignment, and the commitments they expressed in the Explicit Relationship. And maybe there ias something else going on their lives that you can help with.</p>
+ <p>I guess the only thing ahead for the boss to learn to not be boss and the people around her to act like his loving peers. The peoplle around you are not employees, they are co-owners. Maybe the thing to do is remind them of the Foundation, the Explicit Alignment, and the commitments they expressed in the Explicit Relationship.</p>
  <p>No matter, the transition is very, very difficult. Emnbrace the obstacle.</p>
 
 {% include related.html %}
