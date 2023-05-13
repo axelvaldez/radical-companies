@@ -22,38 +22,25 @@ image:    "icon-krisos-potential.svg"
  </div>
  <p>They can do this at different speeds, but it would put them in a different class altogether.</p>
  <p>And 100/0 is what we need more of. Our own hypothesis is that it will lead to companies that go beyond the co-management model and systematically promote a solid <span class="_paradigm">RADICAL FOUNDATION</span>,</p>
- <table align="center">
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">principles&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Meaning<br>& Belonging</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>relationships</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">commitments&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in;background-color:#EEEEEE; ">Transparency<br>&Decentralization</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>autonomy</em></td>
-  </tr>
-  <tr>
-   <td style="height: 7px;"></td>
-  </tr>
-  <tr>
-   <td valign="middle" style="text-align:right; font-weight:bold; ">practices&nbsp;&nbsp;</td>
-   <td style="text-align:center; padding-left:0; width:1.75in; background-color:#EEEEEE; ">Alignment<br>& Experimentation</td>
-   <td valign="middle" style="font-size:xx-large; padding-left:0; ">⬈</td>
-   <td valign="top"><em>collaboration</em></td>
-  </tr>
-  <tr>
-   <td class="_spacer_">&nbsp;</td>
-  </tr>
- </table>
+ <div class="_center">
+  <table class="_h2table">
+   <tr>
+    <th>people</th>
+    <td>Meaning & Belonging</td>
+   </tr>
+   <tr>
+    <th>commitments</th>
+    <td>Decentralization & Transparency</td>
+   </tr>
+   <tr>
+    <th>practices</th>
+    <td>Experimentation</td>
+   </tr>
+  </table>
+ </div>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     K2K Emocionando.
@@ -86,6 +73,6 @@ image:    "icon-krisos-potential.svg"
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </l>
 
 {% include related.html %}
