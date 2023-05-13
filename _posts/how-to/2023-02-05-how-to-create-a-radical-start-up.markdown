@@ -112,7 +112,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    </tr>
    <tr>
     <th>Why?</th>
-    <td>Why are we doing this for? For example, <span class="_quotespan">Easy to get, healthy foods.</span></td>
+    <td>Why are we doing this for? For example, <span class="_quotespan">Easy to get healthy foods.</span></td>
    </tr>
    <tr>
     <td></td>
