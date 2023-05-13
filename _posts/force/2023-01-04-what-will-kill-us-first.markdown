@@ -17,7 +17,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>First, take climate change,</p>
  <ul> 
   <li>Changes to temperature patterns change weather patterns.</li>
-  <li>Changes to weather patterns change agricultural growth patterns and wild species habitats (<em>i.e.</em>, even more so and faster than we have).</li>
+  <li>Changes to weather patterns change agricultural growth patterns and wild species habitats.</li>
   <li>Changes to agriculture and wild species habitats are a threat to our life support system.</li>
   <li>We cannot react to that many changes. As our life support system declines, our population will decline.</li>
   <li>Given our <span class="_paradigm">FIAT</span> mindset, competition will increase and our cultural accomplishments will be forgotten.</li>
