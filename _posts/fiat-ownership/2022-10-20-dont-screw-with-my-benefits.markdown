@@ -79,7 +79,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
  <p>Later, the whole company learns from your experiments and everybody, including you, decide to put away 15%,</p>
  <div class="_center">
   <img
-   src="/assets/img/icpic-dont-screw-with-my-benefits-03.svg"
+   src="/assets/img/pic-dont-screw-with-my-benefits-03.svg"
    width="50%"
    alt="A yellow post-it note with the word BENEFITS at the top, a hand-drawn line, followed by '@all.'">
  </div>
