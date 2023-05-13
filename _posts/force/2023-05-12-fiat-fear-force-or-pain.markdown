@@ -26,7 +26,7 @@ image:    "icon-fiat-force-or-pain.svg"
 <h1>Heart-Felt Stories</h1>
  <p>When I came out of the shower I was ready (<span class="_paradign">FIAT</span>-ready) to change <span class="_paradigm">FIAT</span> to <span class="_paradigm">PAIN</span>, but the discussion with the other <span class="_paradigm">RADICAL</span>s convinced me to stick with <span class="_paradigm">FIAT</span>.</p>
  <p>Paty (Patricia) told the story of when she got so beaten down by her government job that she hit bottom and decided to quit. Instead, she wanted to build a platform to make it easy for people to do things for the sake of their wellbeing. As it turns out, we are building that platform, not as an app, but as a different way of living and thriving.</p>
- <p>Chabeli told us about the start of her transformation by a simple act: getting over the fear of bringing up what she really felt. <span class="_quotespan">Make for people, not just to make money.</span> It took courage to do, but she felt really good. As it turned out, the women that she was working with took her seriously and enjoying the process more.</p>
+ <p>Chabeli told us about the start of her transformation by a simple act: getting over the fear of bringing up what she really felt. <span class="_quotespan">Make it for people, not just to make money.</span> It took courage to do, but she felt really good. As it turned out, the women that she was working with took her seriously and enjoying the process more.</p>
  <p>These stories were heartfelt and resonated with me. They spoke to the power of having an alternative to the <span class="_paradigm">FIAT</span> system we live under.</p>
  <p>It gives me hope.</p>
 
