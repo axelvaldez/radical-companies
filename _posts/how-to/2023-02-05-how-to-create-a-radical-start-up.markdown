@@ -136,7 +136,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   </ul>
 
 <h1>Explicit Relationships</h1>
- <p>n Explicit Relationship is a guide to an exploration among would-be co-owners to make sure that they can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Explicit Relationship. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
+ <p>An Explicit Relationship is a guide to an exploration among would-be co-owners to make sure that they can get aligned and they want to work with each other. Even if this is a relative or somebody you know very well, don&rsquo;t skip doing the Explicit Relationship. Maybe it turns out to be perfectly boring or you may discover surprises along the way.</p>
  <div class="_center">
   <table class="_h2table">
    <tr>
