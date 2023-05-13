@@ -100,7 +100,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   <table class="_explicitalignment">
    <tr>
     <td></td>
-    <th>GGG Impact</th>
+    <th>HHH Impact</th>
    </tr>
    <tr>
     <th>What for?</th>
@@ -140,7 +140,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <div class="_center">
   <table class="_h2table">
    <tr>
-    <th>Your experienced (unwelt)</th>
+    <th>Yout Esperience</th>
     <td>
      <ul>
       <li>How do you show up? Who are you?</li>
@@ -158,7 +158,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     </td>
    </tr>
    <tr>
-    <th>Vulnerabilty</th>
+    <th>Your Vulnerabilty</th>
     <td>
      <ul>
       <li>What are you biggest fears?</li>
@@ -169,7 +169,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     </td>
    </tr>
    <tr>
-    <th>Collaboration</th>
+    <th>Your Collaboration</th>
     <td>
      <ul>
       <li>What is meaningful to you?</li>
