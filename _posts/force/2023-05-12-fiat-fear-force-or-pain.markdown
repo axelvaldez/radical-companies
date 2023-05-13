@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "FIAT, Fear, Force, or Pain?"
+title:    "FIAT, Fear, Force, or&hellip; Pain?"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-fiat-force-or-pain.svg"
