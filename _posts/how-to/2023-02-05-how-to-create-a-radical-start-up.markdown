@@ -104,7 +104,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    </tr>
    <tr>
     <th>What for?</th>
-    <td>What impact they want to make (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
+    <td>What impact they want to make? (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
    </tr>
    <tr>
     <td></td>
