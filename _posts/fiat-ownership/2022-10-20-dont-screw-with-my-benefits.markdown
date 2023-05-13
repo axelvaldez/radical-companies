@@ -54,7 +54,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
     </tr>
     <tr>
      <td></td>
-     <th>
+     <th style="vertical-align:top; ">
       <p>Parental Time Off</p>
       <p>Sick Days</p>
       <p>Holidays</p>
