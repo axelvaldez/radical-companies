@@ -24,7 +24,7 @@ image:    "icon-ownership-is.svg"
   </ul>
 
 <h1>Attachment</h1>
- <p>A magazine lists this among other <em>Fun Facts about Ownership</em>: <span class="_quotespan">Awareness of ownership rights already emerges in children as young as 2 or 3 years.</span><a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></sup></a> But that is careless nonsense. Our brains come wired for <em>attachment</em>, but not ownership</p>
+ <p>A magazine lists this among other <em>Fun Facts about Ownership</em>: <span class="_quotespan">Awareness of ownership rights already emerges in children as young as 2 or 3 years.</span><a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> But that is careless nonsense. Our brains come wired for <em>attachment</em>, but not ownership</p>
  <p>As children, we learn ownership from those around us, <span class="_quotespan">As children get older, they gain social skills and learn to negotiate the conflicts on their own.</span><a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <div class="_citation">
