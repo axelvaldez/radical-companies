@@ -190,18 +190,6 @@ footer{
 table._explicitalignment {
   width:80%;
 }
-table._explicitalignment th {
-  vertical-align:text-top;
-  text-align:right;
-  font-weight:bold;
-  width:25%;
-}
-table._explicitalignment td {
-  vertical-align:text-top;
-  text-align:left;
-  padding-left:0;  
-  width:75%;
-}
 table._explicitalignment tr:nth-child(2n+1) {
   background-color:#EEEEEE;
   border:0;
