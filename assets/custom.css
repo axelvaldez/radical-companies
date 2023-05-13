@@ -202,13 +202,15 @@ table._explicitalignment tr:nth-child(2n+1) th {
 table._explicitalignment th {
   vertical-align:text-top;
   text-align:right;
-  font-weight:bold;
   width:20%;
+  border-right:black 1px solid;
+  font-weight:bold;
 }
 table._explicitalignment td {
   vertical-align:text-top;
   text-align:left;
   width:80%;
+  border-left:black 1px solid;
 }
 .text-lg-start h1 {
   font-size:60px;
