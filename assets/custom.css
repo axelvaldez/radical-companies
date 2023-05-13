@@ -213,16 +213,14 @@ table._explicitalignment th {
   text-align:right;
   font-weight:bold;
 */
-  width:25%;
+  width:50px;
 }
 table._explicitalignment td {
 /*
   vertical-align:text-top;
+*/
   text-align:left;
-*/
-  width:75%;
 }
-*/
 .text-lg-start h1 {
   font-size:60px;
 }
