@@ -51,12 +51,12 @@ image:    "icon-disentangling-investments.svg"
 
 <h1>An Experiment</h1>
  <p>You can experiment with a small investment or even money that you are putting up out of your own pocket. This will serve to get everybody comfortoble with how it works. Keep in mind that every co-owner will be part of honoring the terms of the investment.</p>
- <p>The first thing to keep present is that this is an investment and if things go belly up with the company,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> that money is gone. When things to well, the investment money and profits are paid according to the terms. Let&rsquo;s say the agreement is to pay back twice the principle, say, $100,000 within 48 months. In that case you need to accumulate $200K in the next 48 months.</p>
+ <p>The first thing to keep present is that this is an investment and if things go belly up with the company,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> that money is gone. When things to well, the investment money and profits are paid according to the terms. Let&rsquo;s say the agreement is to pay back twice the principle, say, $100,000 within 48 months. In that case you need to accumulate $200K in the next 48 months.</p>
  <p>There are at least two ways to treat debt repayment: as an company obligation or as an obligation of the present co-owners. As a company obligation it applies to present <em>and future</em> co-owners; otherwise, it is treated as an obligation to current co-owners via a <span class="_paradigm">BANNER</span>. An investment can only be treated as a company obligation because the resutl (<em>i.e.</em>, company growth) benefits all co-owner, current and future.</p>
- <p>As a company obligation, the repayment is taken out of revenue (<em>i.e.</em>, it is not included in the earned dividends).<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> You may decide to put away $8,334 (<em>i.e.</em>, 1/24<sup>th</sup> of $200K) every month into a repayment fund; alternatively, you could put away a percentage of revenue every month and as revenue grows, the amount put away will grow as well. In any case, by the end of the 48 months all present and future co-owners would have sacrificed a portion of their earned dividends to repay the investment.</p>
+ <p>As a company obligation, the repayment is taken out of revenue (<em>i.e.</em>, it is not included in the earned dividends).<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> You may decide to put away $8,334 (<em>i.e.</em>, 1/24<sup>th</sup> of $200K) every month into a repayment fund; alternatively, you could put away a percentage of revenue every month and as revenue grows, the amount put away will grow as well. In any case, by the end of the 48 months all present and future co-owners would have sacrificed a portion of their earned dividends to repay the investment.</p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal
@@ -75,6 +75,6 @@ image:    "icon-disentangling-investments.svg"
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
