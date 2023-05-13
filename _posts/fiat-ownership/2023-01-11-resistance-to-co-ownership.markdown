@@ -11,8 +11,8 @@ image:    "icon-resistance-to-co-ownership.svg"
 </div>
 
 <div class="_citation">
- <p style="font-size:larger; ">Such is the nature of orthodoxy. Is is difficult to get out of, even for a heretic like me.</p>
- <p id="_signature">Blair Fix,<br>Economics from the Top Down</p>
+ <p>Such is the nature of orthodoxy. Is is difficult to get out of, even for a heretic like me.</p>
+ <p id="_signature">Blair Fix, Economics from the Top Down</p>
 </div>
 
 <h1>&nbsp;</h1>
@@ -32,7 +32,7 @@ image:    "icon-resistance-to-co-ownership.svg"
    <li>Just made it into the lower middle class, or</li>
    <li>Are on the verge of leaving poverty behind them.</li>
   </ul>
- <p>These folks are more likely to reject, possibly strongly, anything that sounds like a change to the system that they have learned used to &ldquo;win.&rdquo;</p>
+ <p>These folks are more likely to reject, possibly strongly, anything that sounds like a change to the system that they have learned used to <em>win.</em></p>
 
 <h1>And Co-Onwership Is a Big Change</h1>
  <p>Co-ownership makes it possible for everybody to be a co-owner. Everybody, not just the selected few who learned how to use the system to win and have power over others. Simple as that.</p>
