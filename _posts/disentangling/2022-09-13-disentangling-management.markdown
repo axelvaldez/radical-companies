@@ -45,9 +45,9 @@ image:    "icon-disentangling-management.svg"
 <h1>The Lesser Bosses</h1>
  <h2>Hiring</h2>
   <p>Except for their direct staff, the Lesser Bosses get involved in hiring just in case their boss asks. They really add no value to the process. In fact, they slow it down. After wasting a lot of time and effort accomodating the boss, and the delays that introduces, he does a very short &ldquo;interview&rdquo; and renders a final decision to hire or not. This happens after extensive interviewing by the team, people who know the subject matter well and are going to work with the candidate. Many Lesser Bosses go with the team&rsquo;s decision, but others don&rsquo;t, because &ldquo;I didn&rsquo;t like her&hellip; attitude&hellip; tatoos&hellip; questions.&rdquo;</p>
-  <p>In a co-managed company,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> the people who are going to team up with the candidate make the final decision to hire or not. They may even do away with the interview altogether because the candidate is not just a vessel of cognitive skills, the rest of her comes along with it, and her contributions come from her whole person.</p>
+  <p>In a co-managed company,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> the people who are going to team up with the candidate make the final decision to hire or not. They may even do away with the interview altogether because the candidate is not just a vessel of cognitive skills, the rest of her comes along with it, and her contributions come from her whole person.</p>
  <h2>Firing</h2>
-  <p>Firing is usually left to the Lesser Boss. Many of them dislike doing it, so they ignore it or postpone doing it until things come to a head. In a co-managed company, the team can eject a person and tell him the reasons why directly.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> No boss needed.</p>
+  <p>Firing is usually left to the Lesser Boss. Many of them dislike doing it, so they ignore it or postpone doing it until things come to a head. In a co-managed company, the team can eject a person and tell him the reasons why directly.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> No boss needed.</p>
  <h2>Mediating Conflict</h2>
   <p>The Lesser Bosses are often called to play referee. If there&rsquo;s a conflict between people, he gets in the middle of it and does his best to arrive at a clean break. This general does not resolve the issue, not really, but everybody can go to their own corners to work.</p>
   <p>In a co-managed company, either people resolve the issue themselves by bringing it up and talking through it, or they involve a third person (<em>i.e.</em>, a tried) and the three of them resolve it. Additionally, they all learn new skills for how to resolve this type of issue and, more importantly, new language to keep it from becoming a problem.</p>
@@ -64,111 +64,88 @@ image:    "icon-disentangling-management.svg"
 
 <h1>Disentangling Management</h1>
  <p>Other than creating an illusion of control, the <span class="_paradigm">FIAT</span> hierarchy is hostile business. It makes innovation nearly impossible and a tremendous amount of money and effort is wasted on the hierachy and &ldquo;control theater.&rdquo;</p>
- <p>Non-<span class="_paradigm">FIAT</span>-hierarchical companies are more efficient because they let go of the illusion of control and let people co-manage themselves. In any case, this and co-ownership is where all businesses are headed. As the next stage of  evolution is for businesses to transform to co-owned and co-managed companies.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
- <table class="_center">
-  <tr>
-   <th>Hiring</th>
-   <td>
-    <p>Except in the most bureaucratic businesses, hiring <em>already</em> is done by the hiring team; the Lesser Boss involvement is mostly a ritual and adds no value to this process.</p>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer">&nbsp;</td>
-  </tr>
-  <tr>
-   <th>Firing</th>
-   <td>
-    <p>Firing can be done by the team as well. Learning to give feedback doesn&rsquo;t come natural, even to bosses. Today, we practice a language of competition and dominance and we need to learn a language of love, empathy, and support. And not just for &ldquo;firing&rdquo;, but in general.</p>
-    <p>For a whole socienty, this is going to be a long process. But each company can do it more quickly by the process of aculturation. Among other things, this helps build trust more quickly.</p>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer">&nbsp;</td>
-  </tr>
-  <tr>
-   <th>Mediating Conflict</th>
-   <td>
-    <p>Conflict mediation can be handled by triads.</p>
-    <p>Training on the effect of language (see above), which is a reflection of ideology and habits.</p>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer">&nbsp;</td>
-  </tr>
-  <tr>
-   <th>Defending You from Other Bosses</th>
-   <td>
-    <p>Without a hierarchy, there are no bosses competing for power, on the attach, or to be defended from. That particular source of stress is no more.</p>
-    <p>Besides, without a hierarchy you don&rsquo;t need to be &ldquo;defended&rdquo;. We all need to learn to take in what others say as feedback, something to learn from. Feedback is about us and about them. And, yes, this is different and will feel strange at first, but it is our chance to evolve.</p>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer">&nbsp;</td>
-  </tr>
-  <tr>
-   <th>Task assignments</th>
-   <td>
-    <p>Without bosses, and with transparency, people can get together and figure things to do out on their own. As an added bonus, they can take into consideration what is more meaningful to them.</p>
-    <p>People working together already have an Explicit Alignment<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> to use as a guide.</p>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer">&nbsp;</td>
-  </tr>
-  <tr>
-   <th>One-on-ones</th>
-   <td>
-    <p>Today, part of this ritual is to get a sense, through our boss, of how the hierarchy perceives you, what are your chances for promotion or a raise.</p>
-    <p>In a co-managed company, anybody in your team can give you feedback on your way of relating to others or your work. You chances of &ldquo;getting a raise&rdquo; is not up one person, your boss, but by your contributionsl.</p></td>
-  </tr>
-  <tr>
-   <td class="_spacer">&nbsp;</td>
-  </tr>
-  <tr>
-   <th>Career development</th>
-   <td>
-    <p>See Training, below, for improving your mastery of particular subjects.</p>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer">&nbsp;</td>
-  </tr>
-  <tr>
-   <th>Training</th>
-   <td>
-    <p>People can train each other, mentor, give talks, etc.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a> In our experience, this is very effective because people,</p>
-     <ul>
-      <li>Like sharing their skills,</li>
-      <li>Learn better from others who are a little more advanced (adjacent) on a particular subject,</li>
-      <li>Learn more effectively from people they socialize with.</li>
-     </ul> 
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer">&nbsp;</td>
-  </tr>
-  <tr>
-   <th>Team Health</th>
-   <td>
-    <p>Lesser Bosses don&rsquo;t measure teams&lsquo; health. They don&rsquo;t do it at all or, at best, they don't do it consistenly. And, really, they don't have the tools (<em>e.g.</em>, the language) to do it.</p>
-    <p>Teams can do this themselves, but if they need to, they can form a triad with one or more people external to the team (<em>i.e.</em>, triads are not limited to individuals, it can involve groups of people, too).</p>
-   </td>
-  </tr>
-  <tr>
-   <td class="_spacer">&nbsp;</td>
-  </tr>
+ <p>Non-<span class="_paradigm">FIAT</span>-hierarchical companies are more efficient because they let go of the illusion of control and let people co-manage themselves. In any case, this and co-ownership is where all businesses are headed. As the next stage of  evolution is for businesses to transform to co-owned and co-managed companies.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <div class="_center">
+  <table>
+   <tr>
+    <th>Hiring</th>
+    <td>
+     <p>Except in the most bureaucratic businesses, hiring <em>already</em> is done by the hiring team; the Lesser Boss involvement is mostly a ritual and adds no value to this process.</p>
+    </td>
+   </tr>
+   <tr>
+    <td class="_spacer">&nbsp;</td>
+   </tr>
+   <tr>
+    <th>Firing</th>
+    <td>
+     <p>Firing can be done by the team as well. Learning to give feedback doesn&rsquo;t come natural, even to bosses. Today, we practice a language of competition and dominance and we need to learn a language of love, empathy, and support. And not just for &ldquo;firing&rdquo;, but in general.</p>
+     <p>For a whole socienty, this is going to be a long process. But each company can do it more quickly by the process of aculturation. Among other things, this helps build trust more quickly.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>Mediating Conflict</th>
+    <td>
+     <p>Conflict mediation can be handled by triads.</p>
+     <p>Training on the effect of language (see above), which is a reflection of ideology and habits.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>Defending You from Other Bosses</th>
+    <td>
+     <p>Without a hierarchy, there are no bosses competing for power, on the attach, or to be defended from. That particular source of stress is no more.</p>
+     <p>Besides, without a hierarchy you don&rsquo;t need to be &ldquo;defended&rdquo;. We all need to learn to take in what others say as feedback, something to learn from. Feedback is about us and about them. And, yes, this is different and will feel strange at first, but it is our chance to evolve.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>Task assignments</th>
+    <td>
+     <p>Without bosses, and with transparency, people can get together and figure things to do out on their own. As an added bonus, they can take into consideration what is more meaningful to them.</p>
+     <p>People working together already have an Explicit Alignment<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> to use as a guide.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>One-on-ones</th>
+    <td>
+     <p>Today, part of this ritual is to get a sense, through our boss, of how the hierarchy perceives you, what are your chances for promotion or a raise.</p>
+     <p>In a co-managed company, anybody in your team can give you feedback on your way of relating to others or your work. You chances of &ldquo;getting a raise&rdquo; is not up one person, your boss, but by your contributionsl.</p></td>
+   </tr>
+   <tr>
+    <th>Career development</th>
+    <td>
+     <p>See Training, below, for improving your mastery of particular subjects.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>Training</th>
+    <td>
+     <p>People can train each other, mentor, give talks, etc.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> In our experience, this is very effective because people,</p>
+      <ul>
+       <li>Like sharing their skills,</li>
+       <li>Learn better from others who are a little more advanced (adjacent) on a particular subject,</li>
+       <li>Learn more effectively from people they socialize with.</li>
+      < /ul> 
+    </td>
+   </tr>
+   <tr>
+    <th>Team Health</th>
+    <td>
+     <p>Lesser Bosses don&rsquo;t measure teams&lsquo; health. They don&rsquo;t do it at all or, at best, they don't do it consistenly. And, really, they don't have the tools (<em>e.g.</em>, the language) to do it.</p>
+     <p>Teams can do this themselves, but if they need to, they can form a triad with one or more people external to the team (<em>i.e.</em>, triads are not limited to individuals, it can involve groups of people, too).</p>
+    </td>
+   </tr>
  </table>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
     <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
     2021.
-    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
+    &lt;<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>&gt;.
     Alternatively, you may want to read the shorter <em>RADICAL COMPANIES: For the Impatient.</em>
-    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
+    &lt;<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>&gt;.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -177,9 +154,9 @@ image:    "icon-disentangling-management.svg"
     Matt Perez, Adrian Perez, Jose Leal.
     <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
     2021.
-    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
+    &lt;<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>&gt;
     Alternatively, you may want to read the shorter <em>RADICAL COMPANIES: For the Impatient.</em>
-    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
+    &lt;<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -188,9 +165,9 @@ image:    "icon-disentangling-management.svg"
     Matt Perez, Adrian Perez, Jose Leal.
     <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
     2021.
-    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
+    &lt;<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>&gt;
     Alternatively, you may want to read the shorter <em>RADICAL COMPANIES: For the Impatient.</em>
-    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
+    &lt;<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>&gt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -199,9 +176,9 @@ image:    "icon-disentangling-management.svg"
     Matt Perez, Adrian Perez, Jose Leal.
     <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
     2021.
-    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
+    &lt;<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>&gt;
     Alternatively, you may want to read the shorter <em>RADICAL COMPANIES: For the Impatient.</em>
-    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
+    &lt;<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>&gt;.
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -210,12 +187,12 @@ image:    "icon-disentangling-management.svg"
     Matt Perez, Adrian Perez, Jose Leal.
     <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
     2021.
-    <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>.
+    &lt;<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>&gt;
     Alternatively, you may want to read the shorter <em>RADICAL COMPANIES: For the Impatient.</em>
-    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>.
+    &lt;<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html" target="_blank">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>>&gt;
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}

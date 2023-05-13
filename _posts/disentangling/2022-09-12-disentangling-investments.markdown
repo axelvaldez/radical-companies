@@ -41,7 +41,7 @@ image:    "icon-disentangling-investments.svg"
  <p>For example, the real estate business investment acts more like a riskier loan, IMO. The real asset doesn't exist yet, you have to build it. So, you put together several Angel-like investors  to raise the money you need to buy materials and hire the people to put them all together into a real estate asset (<em>e.g.</em>, an office building, a residential development, a hotel).</p>
  <p>The risk is that the developer fails to finish the asset and you lose the money you invested. The Return on that Investment (ROI) is usually a percent of the profits. Kind of like a forever annuity.</p>
 
-<h1><span class="_paradigm">RADICAL</span> Investments</h1>
+<h1>>RADICAL Investments</h1>
  <p>These are a combination of Angel investments and real estate investment. They return the principle investment plus,</p>
   <ul>
    <li>a percentage or multiple of it</li>
