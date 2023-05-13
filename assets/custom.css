@@ -195,6 +195,13 @@ table._explicitalignment tr:nth-child(2n+1) {
   border:0;
   text-align:left;
 }
+table._explicitalignment tr:nth-child(2n+1) th {
+  text-align:left;
+}
+table._explicitalignment tr:nth-child(2n+1) td {
+  text-align:right;
+
+}
 table._explicitalignment th {
   vertical-align:text-top;
   text-align:right;
