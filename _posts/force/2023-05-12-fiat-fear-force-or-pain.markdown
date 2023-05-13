@@ -18,7 +18,7 @@ image:    "icon-fiat-force-or-pain.svg"
   <img
    src="/assets/img/pic-fiat-force-or-pain"
    alt="At the top of it all, we see FIAT. Below it, we see 'threat of force.' Below and to the right, we see 'Threat of Pain.' Below and to the right, we see 'Fear (avoid Pain).' Below and to the right we see 'Force.' Bellow and to the right, we see 'Pain.' To the far right of that, we see 'Wellbeing.' There are arrows connecting these boxes. Finally, underneath all of it, we see 'Survivability.'"
-   style="width;70%;"
+   style="width:70%;"
   >
 
 <h1>Heart-Felt Stories<h1>
