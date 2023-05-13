@@ -34,7 +34,7 @@ image:    "icon-get-rid-of-ownership.svg"
  <p>The alternative to fixed ownership, based on force, is dynamic ownership, based on contributions.</p>
  <p>Our <em>RADs!</em> application makes it possible to quantify contributions.</p>
 
-<h1><span class="_paradigm">RAD</span>s!</h1>
+<h1>RADs!</h1>
  <ul>
   <li>Everybody gets the <em>RADs!</em> app.</li>
   <li>We all use the app to recognize contributions as we see them.</li>
