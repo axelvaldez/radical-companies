@@ -11,25 +11,25 @@ image:    "icon-the-serpent-is-sensuality.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>The serpent that tempted Eve to convince Adam to bite the apple, <em>that snake</em>, represents sensuality, a fundamental part of ourselves. But to restrict and deny sensuality is the opposite of living a full life.</p>
+ <p>The serpent that tempted Eve to convince Adam to bite the apple, <em>that snake</em>, represents sensuality, a fundamental part of ourselves. To restrict and deny sensuality is the opposite of living a full life.</p>
 
-<h1>Bad for the survival of society</h1>
- <p>But why, oh why, was sensuality depicted as bad? My guess is that early societies saw that sensuality led to the exhaustion of the young people who did the bulk of the work to feed the tribe. It also lead to the deaths of young women and the pain of loss of a child. Even when things went well, sensuality resulted in more mouths to feed. From that point of view, sensuality had a lot of negatives,</p>
+<h1>Bad for the Survival of Society</h1>
+ <p>But why, oh why, was sensuality depicted as <em>bad</em>? My guess is that early societies saw that sensuality led to the exhaustion of the young people who did the bulk of the work to feed the tribe. It also lead to the deaths of young women and the pain of loss of a child. Even when things went well, sensuality resulted in more mouths to feed. From that point of view, sensuality had a lot of negatives,</p>
   <ul>
    <li>Work capacity loss.</li>
    <li>Potential loss of young people.</li>
    <li>The pain of loss.</li>
    <li>More mouths to feed.</li>
   </ul>
- <p>This was not good for those early societies. However, conditions have changed and the threat to life is the <em>lack of</em> sensual, warm relationships. Denying aspects of ourselves has become so routine and expected that we are actually scared of living a full life and have adapted to living limited lives.</p>
+ <p>And, of course, the most effective way to fight such a powerful drive as sex is by having the gods declare a <em>bad thing</em>. This was not good for those early societies. However, conditions have changed and the threat to life today is the <em>lack of</em> sensual and warm relationships. Denying aspects of ourselves has become so routine that we are actually scared of living a full life and have adapted to living limited lives.</p>
 
 <h1>Renouncing the Snake</h1>
  <p>Given that we don&rsquo;t know any better, let&rsquo;s assume that renouncing the sensuality-as-snake preserved and improved life. However, that cruff that build around it turned against us: we wanted to preserve human life, but the cruff just wanted to preserve <em>its</em> existence.</p>
 
 <h1>The Shaman is the Boss</h1>
- <p>The whole thing was implemented by shamans, who came up with amazing stories that held people&rsquo;s attention. The spellbound stories worked and kept their tribe alive!</p>
+ <p>The whole thing was implemented by shamans who came up with amazing stories that held people&rsquo;s attention. The spellbound stories worked and, let&rsquo;s assume, kept their tribe alive!</p>
  <p>Thank goodness for the shamans. Power to the shamans.</p>
- <p>And, so, the storytellers declared themselves the special ones, the only ones who could interpret the gods. But even the gods had a boss, the all-powerful boss, and the boss shaman was the only ones who could understand the signs of boss god. And with that, the top shamans became all powerful.</p>
+ <p>And, so, the storytellers declared themselves to be special, the only ones who could interpret the gods. But even the gods had a boss, the all-powerful boss, and the boss shaman was the only ones who could understand the signs of boss god. And with that, the top shamans became all powerful for quite a while.</p>
 
 <h1>The Power of Life and Death</h1>
  <p>Eventually, organized religion became weaponized, with the power to decide who lives and who dies,</p>
@@ -40,7 +40,7 @@ image:    "icon-the-serpent-is-sensuality.svg"
    <li>Powerful people shall live, everybody else may die.</li>
   </ul>
  <p>Organized religions became dedicated to preserving their existence.</p>
- <p>In spite of it all, we are still here (GOOD). However, we are destroying the human-friendly ecosystem that has nourished us and as it goes, our culture will collapse and all our progress will go with it (NOT SO GOOD).</p>
+ <p>In spite of it all, we are still here (GOOD). However, we are destroying the very system that has nourished us. As it goes, our culture will likely collapse with a good chance of all our progress doing down the drain with it (NOT SO GOOD).</p>
 
 <h1>People</h1>
  <p>Today, people can take it from here. Complete people, with their sensuality and warm relationships. Adult people with their tools, science and technology, in hand. These people can take it from here.</p>
@@ -50,18 +50,8 @@ image:    "icon-the-serpent-is-sensuality.svg"
  <p>On the other hand, we are well connected now with all corners of the world. This means that our ability to make or join communities is higher than ever.</p>
  <p>We don&rsquo;t need to submit our essence to an arbitraty say so. We can join with others anywhere in the world. And we can take from here.</p>
 
-<h1>For More</h1>
- <p>See
-                                <em>Get Rid of Ownership</em>,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a>
-  <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>
-   <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en03"><sup id="bm03">3&nbsp;</sup></a>
-                              <em>No Bonuses or Salaries</em>,<a href="#en04"><sup id="bm04">4&nbsp;</sup></a> and
-          <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en05"><sup id="bm05">5&nbsp;</sup></a>
- </p>
-
 <h1 class="_section">ENDNOTES</h1>
- <ol>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     <em>Get Rid of Ownership</em>.
@@ -97,6 +87,6 @@ image:    "icon-the-serpent-is-sensuality.svg"
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
