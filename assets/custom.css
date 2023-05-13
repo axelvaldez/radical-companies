@@ -209,14 +209,13 @@ table._explicitalignment th {
   padding-right:1em;
   text-align:right;
   border-right:black 1px solid;
-  width:20%;
   font-weight:bold;
 }
 table._explicitalignment td {
   vertical-align:text-top;
+  padding-left:1em;
   text-align:left;
   border-left:black 1px solid;
-  width:80%;
 }
 .text-lg-start h1 {
   font-size:60px;
