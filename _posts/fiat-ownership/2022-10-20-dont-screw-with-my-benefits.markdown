@@ -55,7 +55,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
       <p>etc.</p>
      </th>
      <td>
-      <p>You determine how much long you want to be inactive (<em>i.e.</em>, how much time off you want to take). Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay&rdquo; for any time you take that&rsquo;s not generating income.</p>
+      <p>You determine how long you want to be inactive (<em>i.e.</em>, how much time off you want to take). Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay&rdquo; for any time you take that&rsquo;s not generating income.</p>
       <p>Keep in mind that the <span class="_paradigm">RAD</span>s you have  with previous companies are also generating income that can &ldquo;pay&rdquo; for your inactive time.</p>
      </td>
     </tr>
