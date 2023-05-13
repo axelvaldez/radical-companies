@@ -61,7 +61,7 @@ image:    "icon-yes-capital-is-good.svg"
   </ul>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     Malvina Reynolds.
@@ -78,6 +78,6 @@ image:    "icon-yes-capital-is-good.svg"
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
