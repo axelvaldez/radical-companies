@@ -38,7 +38,7 @@ image:    "icon-you-will-never-give-up-power.svg"
  <p>What was at work inside of us? Here was the death of a spiritual father: flawed, abusive, persuasive, and preceived in charge of the cultural movement, in addition to being a founder and &ldquo;firm hand&rdquo; of Apple Computers. The Macintosh was instrumental to our lives, and livelihood, and it would not be what it is today without the Macintosh.</p>
 
 <h1>Ascription</h1>
- <p>Why was I crying over this man? Ascription. He was not the sole progenitor of all things Apple, but he was its CEO and one of the rights conferred to him is universal ascription: good or bad, he gets the credit or the blame. The Apple 2, the Mac, iPod, and iPhone were all ascripted to him. Yes, there are mentions of his lieutenants, but never without also mentioning him.</p>
+ <p>Why was I tearing up Steve Jobs&rsquo; death? Ascription. He was not the sole progenitor of all things Apple, but he was its CEO and one of the rights conferred to him is universal ascription: good or bad, he gets the credit or the blame. The Apple 2, the Mac, iPod, and iPhone were all ascripted to him. Yes, there are mentions of his lieutenants, but never without also mentioning him.</p>
 
 <h1>Stock and Money</h1>
  <p>As the CEO of Apple, he had plenty of stock and cash. Steve Jobs was in such a good financial position that he could forgo a salary (<em>i.e.</em>, in exchange for an enormous amount of stock). The CEO gets the lionshare of the company&rsquo;s granted stock. In spite of rounds of dilution, the CEO gets most of it. As Mel Brooks once said, &ldquo;It&rsquo;s good to be the King.&rdquo;</p>
