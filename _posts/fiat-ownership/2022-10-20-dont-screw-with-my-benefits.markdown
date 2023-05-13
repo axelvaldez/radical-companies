@@ -45,23 +45,19 @@ image:    "icon-dont-screw-with-my-benefits.svg"
      <th id="_background"><span class="_paradigm">RADICAL</span> Difference</th>
     </tr>
     <tr>
-     <th>Vacation</th>
-     <td rowspan="4">
-      You determine how much long you want to be inactive (<em>i.e.</em>, how much time off you want to take). Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay&rdquo; for any time you take that&rsquo;s not generating income.
-      <br>
-      Keep in mind that the <span class="_paradigm">RAD</span>s you have  with previous companies are also generating income that can &ldquo;pay&rdquo; for your inactive time.
-     </td>
-    </tr>
-    <tr>
-     <td></td>
-     <th style="vertical-align:top; ">
-      <p>Parental Time Off</p>
+     <th>
+      <p>Vacation</p>
+      <p>Time Off</p>
       <p>Sick Days</p>
       <p>Holidays</p>
       <p>Compensatory Time</p>
       <p>Sabbaticals</p>
       <p>etc.</p>
      </th>
+     <td>
+      <p>You determine how much long you want to be inactive (<em>i.e.</em>, how much time off you want to take). Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay&rdquo; for any time you take that&rsquo;s not generating income.</p>
+      <p>Keep in mind that the <span class="_paradigm">RAD</span>s you have  with previous companies are also generating income that can &ldquo;pay&rdquo; for your inactive time.</p>
+     </td>
     </tr>
    </table>
   </div>
