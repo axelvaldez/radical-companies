@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "How to Help You Co-Workers Shine and Get More <span class='_paradigm'>RAD</span>s in a Co-Owned Company"
+title:    "How to Help You Co-Workers Shine and Get More RADs in a Co-Owned Company"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "icon-how-to-help-your-co-workers-shine-and-get-more-rads-in-a-co-owned-company.svg"
@@ -10,7 +10,7 @@ image:    "icon-how-to-help-your-co-workers-shine-and-get-more-rads-in-a-co-owne
  <p><span class='_paradigm'>RADICAL</span> Storytellers can help co-owners</p>
 </div>
 
-<h1><span class='_paradigm'>RADICAL</span> Storytellers</h1>
+<h1>RADICAL Storytellers</h1>
  <p><span class='_paradigm'>RADICAL</span> companies might have one person who communicates their work very well and another who does not. This happens in many organizations, but there is never an effort for people who do it well to help others learn the skills. In a <span class='_paradigm'>RADICAL</span> company we can notice that quickly, just by looking at the distribution of <span class='_paradigm'>RAD</span>s. A co-owner skilled in story-telling can either do it other co-owners or help them learn the skillset.</p>
  <p>As a co-owners, I could, for instance, walk around to people who have low <span class='_paradigm'>RAD</span>s and ask them about it. Maybe they are incompetent, but maybe they are just mediocre at making others aware of their accomplishments.</p>
  <p>I can help to make them shine. I can speak on their behalf and be part of workshops that demonstrate what they are doing and get their work out there. I can also help learn learn the skills to do it on their own.</p>
@@ -31,5 +31,6 @@ image:    "icon-how-to-help-your-co-workers-shine-and-get-more-rads-in-a-co-owne
    <li>The satisfaction of helping people grow how <em>they</em> want to grow.</li>
    <li>Increasing people&rsquo;s senses of <span class='_paradigm'>Belonging</span>.</li>
   </ul>
+ <p>And the thing that makes scalable is everybody is learning and can do it in the future.</p>
 
 {% include related.html %}
