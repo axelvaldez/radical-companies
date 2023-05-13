@@ -25,12 +25,12 @@ image:    "icon-how-to-help-your-co-workers-shine-and-get-more-rads-in-a-co-owne
  <p>The <span class='_paradigm'>RADICAL</span> model breaks you free from this. Co-owners want to help each other learn new skills; besides being people, as co-owners any improvement benefits them.</p>
 
 <h1>They Key</h1>
- <p>The things that make this possible is,</p>
+ <p>This is madepossible by,</p>
   <ul>
-   <li>Transparency of the <span class='_paradigm'>RAD Distribution</span>.</li>
-   <li>The satisfaction of helping people grow how <em>they</em> want to grow.</li>
+   <li>Transparency of the <span class='_paradigm'>RAD</span> distribution results.</li>
+   <li>The satisfaction of helping people grow.</li>
    <li>Increasing people&rsquo;s senses of <span class='_paradigm'>Belonging</span>.</li>
   </ul>
- <p>And the thing that makes scalable is everybody is learning and can do it in the future.</p>
+ <p>And the thing that makes this scalable is that everybody learns and can do it in the future.</p>
 
 {% include related.html %}
