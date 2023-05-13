@@ -100,7 +100,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   <table class="_explicitalignment">
    <tr>
     <td></td>
-    <th>AAA Impact</th>
+    <th>BBB Impact</th>
    </tr>
    <tr>
     <th>What for?</th>
