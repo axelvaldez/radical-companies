@@ -73,9 +73,8 @@ image:    "icon-disentangling-management.svg"
      <p>Except in the most bureaucratic businesses, hiring <em>already</em> is done by the hiring team; the Lesser Boss involvement is mostly a ritual and adds no value to this process.</p>
     </td>
    </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
+  </table>
+  <table class="_h2table">
    <tr>
     <th>Firing</th>
     <td>
@@ -83,6 +82,8 @@ image:    "icon-disentangling-management.svg"
      <p>For a whole socienty, this is going to be a long process. But each company can do it more quickly by the process of aculturation. Among other things, this helps build trust more quickly.</p>
     </td>
    </tr>
+  </table>
+  <table class="_h2table">
    <tr>
     <th>Mediating Conflict</th>
     <td>
@@ -90,6 +91,8 @@ image:    "icon-disentangling-management.svg"
      <p>Training on the effect of language (see above), which is a reflection of ideology and habits.</p>
     </td>
    </tr>
+  </table>
+  <table class="_h2table">
    <tr>
     <th>Defending You from Other Bosses</th>
     <td>
@@ -97,6 +100,8 @@ image:    "icon-disentangling-management.svg"
      <p>Besides, without a hierarchy you don&rsquo;t need to be &ldquo;defended&rdquo;. We all need to learn to take in what others say as feedback, something to learn from. Feedback is about us and about them. And, yes, this is different and will feel strange at first, but it is our chance to evolve.</p>
     </td>
    </tr>
+  </table>
+  <table class="_h2table">
    <tr>
     <th>Task assignments</th>
     <td>
@@ -104,18 +109,24 @@ image:    "icon-disentangling-management.svg"
      <p>People working together already have an Explicit Alignment to use as a guide.</p>
     </td>
    </tr>
+  </table>
+  <table class="_h2table">
    <tr>
     <th>One-on-ones</th>
     <td>
      <p>Today, part of this ritual is to get a sense, through our boss, of how the hierarchy perceives you, what are your chances for promotion or a raise.</p>
      <p>In a co-managed company, anybody in your team can give you feedback on your way of relating to others or your work. You chances of &ldquo;getting a raise&rdquo; is not up one person, your boss, but by your contributionsl.</p></td>
    </tr>
+  </table>
+  <table class="_h2table">
    <tr>
     <th>Career development</th>
     <td>
      <p>See Training, below, for improving your mastery of particular subjects.</p>
     </td>
    </tr>
+  </table>
+  <table class="_h2table">
    <tr>
     <th>Training</th>
     <td>
@@ -127,6 +138,8 @@ image:    "icon-disentangling-management.svg"
       < /ul> 
     </td>
    </tr>
+  </table>
+  <table class="_h2table">
    <tr>
     <th>Team Health</th>
     <td>
