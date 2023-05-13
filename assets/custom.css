@@ -204,7 +204,7 @@ table._explicitalignment td {
   width:75%;
 }
 */
-table._explicitalignment tr:nth-child(2n) {
+table._explicitalignment tr:nth-child(2n+1) {
   background-color:#EEEEEE;
   border:0;
   text-align:left;
