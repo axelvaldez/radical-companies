@@ -201,6 +201,7 @@ table._explicitalignment tr:nth-child(2n+1) th {
 }
 table._explicitalignment th {
   vertical-align:text-top;
+  padding-right:1em;
   text-align:right;
   border-right:black 1px solid;
   width:20%;
