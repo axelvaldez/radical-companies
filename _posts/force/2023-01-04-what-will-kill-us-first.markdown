@@ -117,6 +117,7 @@ image:    "icon-what-will-kill-us-first.svg"
     <td>There are going to be more tools in the future. For example, specialized and community-specific tools</td>
    </tr>
   </table>
+ </div>
 
  <h2>The Skills</h2>
   <p>Skills include the capacity to,</p>
