@@ -28,16 +28,11 @@ image:    "icon-a-radical-experiment.svg"
 
 <h1>The Analysis</h1>
  <p>There were two things involved: 1) the Belt level ranking and 2) money. The way I looked at it, a ranking of any sort is a no-go unless it is based on something. <span class='_paradigm'>RAD</span>s work because they are based on &ldquo;contributions.&rdquo; So, the experiment should deal with figuring that out.</p>
- <p>Jose pointed out that they should be on the look out for not introducing &ldquo;force,&rdquo; <span class="_quotespan">A test represents force.</span> I would say that having a committee decideds also represents force as well.</p>
- <p>The experiment set up should considered those elements,</p>
-  <ul>
-   <li>A way to determine salary.</li>
-   <li>Do people feel this works for them.</li>
-  </ul>
+ <p>Jose pointed out that they should be on the look out for not introducing force. <span class="_quotespan">A test represents force.</span> I would say that having a committee decide also injects force as well.</p>
 
 <h1>Money and Rank</h1>
  <p>Salaries are pretty integral to the <span class="_paradigm">FIAT</span> system. Employees earn a wage, owners reap profits.</p>
- <p>Eventually, co-owners will switch to PRI to distribute earned dividends.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> At that point earned dividens (<em>aka</em>, profits) will be factored through <span class="_paradigm">RAD</span>s. It might also make sense to factor Belt levels (<em>i.e.</em>, let&rsquo;s do the experiment). For example, a Black Belt who has not contributed much to anybody in the last few months, might stop being a Black Belt.</p>
+ <p>Eventually, co-owners will, I hope, switch to PRI to distribute <em>earned dividends</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> At that point earned dividends (popularly known as profits) will be factored through <span class="_paradigm">RAD</span>s. It might also make sense to factor Belt levels (<em>i.e.</em>, let&rsquo;s do the experiment). For example, a Black Belt who has not contributed much to anybody in the last few months, might stop being a Black Belt.</p>
  <p>
 
 <h1 class="_section">ENDNOTES</h1>
