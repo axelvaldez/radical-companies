@@ -64,7 +64,7 @@ image:    "icon-disentangling-management.svg"
 
 <h1>Disentangling Management</h1>
  <p>Other than creating an illusion of control, the <span class="_paradigm">FIAT</span> hierarchy is hostile business. It makes innovation nearly impossible and a tremendous amount of money and effort is wasted on the hierachy and &ldquo;control theater.&rdquo;</p>
- <p>Non-<span class="_paradigm">FIAT</span>-hierarchical companies are more efficient because they let go of the illusion of control and let people co-manage themselves. In any case, this and co-ownership is where all businesses are headed. As the next stage of  evolution is for businesses to transform to co-owned and co-managed companies.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Non-<span class="_paradigm">FIAT</span>-hierarchical companies are more efficient because they let go of the illusion of control and let people co-manage themselves. In any case, this and co-ownership is where all businesses are headed. As the next stage of evolution is for businesses to transform to co-owned and co-managed companies.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
  <div class="_center">
   <table class="_h2table">
    <tr>
@@ -134,7 +134,8 @@ image:    "icon-disentangling-management.svg"
      <p>Teams can do this themselves, but if they need to, they can form a triad with one or more people external to the team (<em>i.e.</em>, triads are not limited to individuals, it can involve groups of people, too).</p>
     </td>
    </tr>
- </table>
+  </table>
+ </div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
