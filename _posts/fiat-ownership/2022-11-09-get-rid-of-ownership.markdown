@@ -7,7 +7,7 @@ image:    "icon-get-rid-of-ownership.svg"
 ---
 
 <div style="display:none;">
- <p>&ldquo;Just get rid of ownership and everything will be fine&rdquo; it&rsquo;s a recurring and dangerous fantasy. Although we have taken it to an extreme, ownership is actually a good thing.</p>
+ <p><span class="_quotespan">Just get rid of ownership and everything will be fine<span>. This is a recurring and dangerous fantasy. Although we have taken it to an extreme, ownership is actually a good thing.</p>
 </div>
 
 <div class="_citation">
@@ -16,15 +16,15 @@ image:    "icon-get-rid-of-ownership.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Different version of this belief is eternal. &ldquo;&hellip; the simpler life&rdquo; &ldquo;&hellip; home grown food&rdquo; &ldquo;&hellip; the values of the indiginous people of the world.&rdquo; However, the various attempt at this ideal have not changed anything and we need a path to a sustainable future for our anthropocene. We need to break lose from our current system of extraction and exploitation.</p>
- <p>Ownership, although we have taken it to an extreme in our <span class="_paradigm">FIAT</span> world, is actually one of the tools that will move us forward. We simply need to decentralize it and make it available, really available, to everyone on the planet.</p>
+ <p>Different version of this belief seem to be eternal. <span class="_quotespan">&hellip; the simpler life,</span> <span class="_quotespan">&hellip; home grown food,</span> <span class="_quotespan">&hellip; the values of the indiginous people.</span> However, the various attempt at this ideal have not changed anything and we need a path to a sustainable future for our anthropocene. We need to break lose from our current system of extraction and exploitation.</p>
+ <p>Ownership, although we have taken it to an extreme in our <span class="_paradigm">FIAT</span> world, is actually one of the tools that will move us forward. Not to exclude people. We simply need to decentralize it and make it available, really available, to everyone on the planet.</p>
 
 <h1>Corporate Ownership is Bad</h1>
  <p>In our <span class="_paradigm">FIAT</span> world, what we call <em>corporate ownership</em> has been weaponized. For example, music is exploited for financial gain by squeezing every possible penny out of it; even your ideas belong to the company you happen to work for.</p>
  <p>To top it off, corporate ownership is fixed, forever.</p>
 
 <h1>Personal Ownership is Good</h1>
- <p>On the other hand, personal ownership<a href="#bm01"><sup id="en01">1&nbsp;</sup></a> is a good thing: this is my house, not yours; this is your toothbrush, not mine.</p>
+ <p>On the other hand, personal ownership<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> is a good thing: this is my house, not yours; this is your toothbrush, not mine.</p>
  <p>We (mostly) don’t have to fight over it.</p>
 
 <h1>Fixed Ownership is Bad</h1>
@@ -70,11 +70,10 @@ image:    "icon-get-rid-of-ownership.svg"
      alt="">
    </div>
    <li>If you have 200 <span class="_paradigm">RAD</span>s and I have 100, then you’ll get twice (the revenue, assets, etc.) as me.</li>
->>>>>>> d6b8c7f9b4bf0968e8a25cfe0ca04ea62dae2e78
   </ul>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     Personal Property
@@ -83,6 +82,6 @@ image:    "icon-get-rid-of-ownership.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
