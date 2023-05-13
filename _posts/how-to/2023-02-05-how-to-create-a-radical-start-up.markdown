@@ -140,7 +140,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <div class="_center">
   <table class="_h2table">
    <tr>
-    <th>The world as experienced by you (umwelt)</th>
+    <th>Your experienced (unwelt)</th>
     <td>
      <ul>
       <li>How do you show up? Who are you?</li>
