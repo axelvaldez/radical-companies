@@ -195,18 +195,14 @@ table._explicitalignment tr:nth-child(2n+1) {
   border:0;
   text-align:left;
 }
-/*
+table._explicitalignment th {
   vertical-align:text-top;
   text-align:right;
   font-weight:bold;
-*/
-table._explicitalignment th {
-  width:50px;
+  width:25%;
 }
-/*
-  vertical-align:text-top;
-*/
 table._explicitalignment td {
+  vertical-align:text-top;
   text-align:left;
 }
 .text-lg-start h1 {
