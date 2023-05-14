@@ -68,9 +68,9 @@ image:    "icon-lazy-greedy-cowardly.svg"
     <th>Debate</th>
     <td>
      <ul>
-      <li>We learn to debate, but not to do the opposite.</li>
-      <li>We can even win debate medals.</li>
-      <li>Our laws are based on proving the other party wrong (even if she&rsquo;s right).</li>
+      <li>We learn to debate, but not to do the opposite, but not to collaborate.</li>
+      <li>And can even win debate medals.</li>
+      <li>Our laws are based on proving the other party wrong, even if she&rsquo;s right.</li>
      </ul>
     </td>
    </tr>
