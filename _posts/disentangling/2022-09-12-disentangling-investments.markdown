@@ -26,15 +26,15 @@ image:    "icon-disentangling-investments.svg"
   <div class="_center">
    <img
     src="/assets/img/ins-and-outs-angels.svg"
-    width="70%"
-    alt="A circle with one arrow going in, labeled 'High hopes and enthusiasm' and one arrow going out, labeled 'Promisory note.'">
+    alt="A circle with one arrow going in, labeled 'High hopes and enthusiasm' and one arrow going out, labeled 'Promisory note.'"
+    style="width:70%; "> >
   </div>
  <p>VCs are different,</p>
   <div class="_center">
    <img
     src="/assets/img/ins-and-outs-vcs.svg"
-    width="70%"
-    alt="A circle with three arrows going in, representing inputs. From top to bottom, 1) 'Market Fit' service or product, 2) High hopes and enthusiasm, and 3) Early clients. The outputs are, from top to bottom, 1) Seed or A-round high risk cash, 2) A pool of (non-voting) shares for early employees, 3) term sheet, and 4) Board of Directors seat for each investor."> 
+    alt="A circle with three arrows going in, representing inputs. From top to bottom, 1) 'Market Fit' service or product, 2) High hopes and enthusiasm, and 3) Early clients. The outputs are, from top to bottom, 1) Seed or A-round high risk cash, 2) A pool of (non-voting) shares for early employees, 3) term sheet, and 4) Board of Directors seat for each investor."
+    style="width:70%; "> 
   </div>
  <p>The big difference is that those Board of Director seats give the VCs control of your business (<em>i.e.</em>, really, control of <em>you</em>). And, legal fantasies aside, through you, or your replacement, they have control of the business. Lots of people would differ and they will bring up this and that reason for why that is not <em>quite</em> the case. But it's a fantasy, a myth for sleeping better at night, subtleties required by the law of the land but which make no difference if the Board wants to fire your ass.</p>
  <p>This is, at least, how it works in the technology business. Other business areas work differently.</p>
@@ -47,7 +47,7 @@ image:    "icon-disentangling-investments.svg"
    <li>a percentage or multiple of it</li>
    <li>a single-digit percent of profit (<em>i.e.</em>, an annuity).</li>
    </ul>
- <p>In either case, a RADICAL investment never includes any type of &ldquo;control&rdquo; or &ldquo;Board seat.&rdquo;</p>
+ <p>In either case, a RADICAL investment never includes any type of <em>control</em> or <em>Board seat.</em></p>
 
 <h1>An Experiment</h1>
  <p>You can experiment with a small investment or even money that you are putting up out of your own pocket. This will serve to get everybody comfortoble with how it works. Keep in mind that every co-owner will be part of honoring the terms of the investment.</p>
