@@ -1,6 +1,6 @@
- ---
+---
 layout:   post
-title:    "Joy Instead of Will."
+title:    "Joy Instead of Will"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-joy-instea-of-will.svg"
