@@ -36,8 +36,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </td>
    </tr>
    <tr>
-    <th style="width:40%; ">
-     <p style="text-align:left !important; ">Did you hit him back?</p>
+    <th style="width:30%; ">
+     <p>Did you hit him back?</p>
     </th>
     <td>
      <ul>
