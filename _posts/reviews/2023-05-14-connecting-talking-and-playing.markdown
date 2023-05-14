@@ -40,4 +40,17 @@ image:    "icon-ptsd-and-trust.svg"
   </li>
  </ul>
 
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    Molly Wright.
+    <em>How every child can thrive by five</em>.
+    TEDx Sidney, Australia
+    &lt;<a href=https://www.youtube.com/watch?v=aISXCw0Pi94" target="_blank">https://www.youtube.com/watch?v=aISXCw0Pi94</a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
+
 {% include related.html %}
