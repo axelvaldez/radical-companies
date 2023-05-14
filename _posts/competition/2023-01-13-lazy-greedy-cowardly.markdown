@@ -35,7 +35,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
    </tr>
    <tr>
     <th>
-      <p>\s\s[kid]<span class="_quotespan">A guy hit me (sob).</span></p>
+      <p>&nbsp;&nbsp;[kid]<span class="_quotespan">A guy hit me (sob).</span></p>
       <p>[adult]<span class="_quotespan">You should have hit him back, harder!</span></p>
     </th>
     <td>
