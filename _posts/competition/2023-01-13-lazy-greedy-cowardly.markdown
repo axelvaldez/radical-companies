@@ -89,7 +89,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
  </ul>
  <p>Competition also means&hellip;</p>
  <ul>
-  <li>Dividng people. The &ldquo;strong leader&rdquo; mindset makes the boss special, above the people who work for him.</li>
+  <li>Dividng people. The boss has the &ldquo;strong leader&rdquo; mindset. He is special.</li>
   <li>Other lines of division,
    <ul>
     <li>Owners and employees.</li>
