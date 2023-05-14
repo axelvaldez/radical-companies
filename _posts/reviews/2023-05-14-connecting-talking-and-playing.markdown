@@ -17,7 +17,7 @@ image:    "icon-ptsd-and-trust.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>In the words of Mary Wright,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>In the words of Molly Wright,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
   <ul>
    <li>Connecting</li>
    <li>Talking</li>
@@ -41,7 +41,7 @@ image:    "icon-ptsd-and-trust.svg"
  </ul>
 
     &lt;<a href=https://www.youtube.com/watch?v=aISXCw0Pi94" target="_blank">https://www.youtube.com/watch?v=aISXCw0Pi94</a>&gt;
-    
+
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
