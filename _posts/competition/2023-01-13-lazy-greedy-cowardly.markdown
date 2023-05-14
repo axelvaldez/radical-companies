@@ -36,8 +36,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </td>
    </tr>
    <tr>
-    <th sytle="width:40%; ">
-     <p sytle="text-align:left; "><span class="_speakera">Did you hit him back?</span></p>
+    <th style="width:40%; ">
+     <p style="text-align:left !important; ">Did you hit him back?</p>
     </th>
     <td>
      <ul>
@@ -80,8 +80,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
 <h1>Let&rsquo;s Compete</h1>
  <p>We have learned this throughout our lives, just by watching the (financially) successful adults around us.
  <ul>
-  <li>Raising your voice to shut others down.</li>
-  <li>Interrupting to establish dominance.</li>
+  <li>Raising your voice to signal others to <span class="_quotespan">shut up!</span></li>
+  <li>Interrupt to establish dominance.</li>
   <li>Talking (and talking) for a long time.</li>
   <li>Adding &ldquo;please&rdquo; at the end of direct orders.</li>
   <li>Repeating yourself, over and over.</li>
@@ -133,7 +133,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
  </ul>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     They are also energy conservation words. See,
@@ -144,6 +144,6 @@ image:    "icon-lazy-greedy-cowardly.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
