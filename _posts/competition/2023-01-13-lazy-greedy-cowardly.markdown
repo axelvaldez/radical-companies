@@ -35,7 +35,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </td>
    </tr>
    <tr>
-    <th style="width:30%; ">
+    <th style="width:25%; ">
      <p>Did you hit him back?</p>
     </th>
     <td>
