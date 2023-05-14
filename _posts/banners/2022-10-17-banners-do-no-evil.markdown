@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "<span class='_paradigm'>BANNER</span>s: Do No Evil"
+title:    "BANNERs, Do No Evil"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
 image:    "icon-banners-do-no-evil.svg"
@@ -18,7 +18,7 @@ image:    "icon-banners-do-no-evil.svg"
 <h1>No Rules</h1>
  <p>Rule making is not a solution, at least not a <span class="_paradigm">RADICAL</span> solution. &ldquo;Rules&rdquo; are,
  <ul>
-  <li>A form of (mild) violence, &ldquo;We will have to penalize you because YOU ARE NOT FOLLOWING THE RULES&rdquo;.</li>
+  <li>A form of (mild) violence, <span class="_quotespan">We will have to penalize you because YOU ARE NOT FOLLOWING THE RULES</span>.</li>
   <li>A form of &ldquo;power over&rdquo; people which also includes violence, &ldquo;According to the rules, you are not fit to be a beneficiary of this <span class="_paradigm">BANNER</span>&rdquo;.</li>
  </ul>
 
@@ -27,7 +27,7 @@ image:    "icon-banners-do-no-evil.svg"
  <div class="_center">
   <img
    src="/assets/img/icon-banners-do-no-evil.svg"
-   width="50%"
-   alt="">
+   alt=""
+   width="50%">
 
 {% include related.html %}
