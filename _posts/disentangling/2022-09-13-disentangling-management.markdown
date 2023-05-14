@@ -113,8 +113,6 @@ image:    "icon-disentangling-management.svg"
      <p>See Training, below, for improving your mastery of particular subjects.</p>
     </td>
    </tr>
-  </table>
-  <table class="_h2table">
    <tr>
     <th>Training</th>
     <td>
@@ -126,8 +124,6 @@ image:    "icon-disentangling-management.svg"
       </ul> 
     </td>
    </tr>
-  </table>
-  <table class="_h2table">
    <tr>
     <th>Team Health</th>
     <td>
