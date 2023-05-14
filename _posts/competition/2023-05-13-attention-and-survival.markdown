@@ -20,6 +20,6 @@ image:    "icon-attention-and-survival.svg"
 
 <h1>Fluid</h1>
  <p>In the 21<sup>st</sup> century, things are fluid. More fluid than they were in the iron age or in the last century. Change is to be welcome. We will still operate out of foxholes, but we won&rsquo;t be afraid to get out of one and into the next one.</p>
- <p>In particular, communities are not anchored to location or familial relationships. We can make communities with anybody in the worl based on affinity and their ability to help me, and my ideas, survive. It is also important that I can help them. If I can&rsquo;t and we lost that so important affinity, then we find an new community.</p>
+ <p>In particular, communities are not anchored to location or familial relationships. We can make communities with anybody in the worl based on affinity and their ability to help me, and my ideas, survive. It is also important that I can help them. If I can&rsquo;t, if we lost that so important affinity, then we find a new community.</p>
 
 {% include related.html %}
