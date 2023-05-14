@@ -24,8 +24,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <table class="_h2table">
    <tr>
     <th>
-     <p>Name dropping</p>
-     <p>quoting authorities</p>
+     <p>Name dropping & quoting authorities</p>
     </th>
     <td>
      <ul>
