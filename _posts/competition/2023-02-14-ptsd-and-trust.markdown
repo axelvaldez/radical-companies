@@ -15,7 +15,8 @@ image:    "icon-trust-and-ptsd.svg"
   <div class="_citation">
    I have come to view Tiberius as a tragic figure, a good man, a gifted commander and leader, who was blindsided by multiple betrayals.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
   </div>
- <p>In <em>Vietnam: Combat Trauma and the Undoing of Character</em> (Touchstone, New York, 1994), the author, Dr Jonathan Shay concludes that Achilles “suffered from a ruinous moral injury that destroys the character of once good men.”</p>
+ <p>In <em>Vietnam: Combat Trauma and the Undoing of Character</em> (Touchstone, New York, 1994), the author, Dr Jonathan Shay concludes that Achilles “suffered from a ruinous moral injury that destroys the character of once good men.”<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>
+  </div></p>
  <p>According to these authors, Achilles and Tiberius suffered from a basic distrust of their environment because of a trauma, like multiple betrayals, and their behavior reflected the kind of pain that goes under the label of PTSD.</p>
  <p>According to the Mayo Clinic, Post Traumatic Stress Disorder is,</p>
   <div class="_citation">
@@ -70,8 +71,15 @@ image:    "icon-trust-and-ptsd.svg"
     John Roth.
     <em>Uncancelling Tiberius</em>.
     February 2023.
-    &lt;<a href="https://antigonejournal.com/2023/02/uncancelling-tiberius/">https://antigonejournal.com/2023/02/uncancelling-tiberius/</a>&gt;
+    &lt;<a href="https://antigonejournal.com/2023/02/uncancelling-tiberius/" target="_blank">https://antigonejournal.com/2023/02/uncancelling-tiberius/</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    <em>Jonathan Shay</em>.
+    &lt;<a href="https://en.wikipedia.org/wiki/Jonathan_Shay" target="_blank">https://en.wikipedia.org/wiki/Jonathan_Shay</a>&gt;
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
