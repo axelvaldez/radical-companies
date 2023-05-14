@@ -27,7 +27,7 @@ image:    "icon-how-to-be-less-harsh-on-yourself-and-others.svg"
   </div>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     Maria Popova.
@@ -37,6 +37,6 @@ image:    "icon-how-to-be-less-harsh-on-yourself-and-others.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
