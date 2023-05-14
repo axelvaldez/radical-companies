@@ -34,8 +34,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </td>
    </tr>
    <tr>
-    <th sytle="text-align:left; width:40%; ">
-     <p><span class="_speakera">Did you hit him back?</span></p>
+    <th sytle="width:40%; ">
+     <p sytle="text-align:left; "><span class="_speakera">Did you hit him back?</span></p>
     </th>
     <td>
      <ul>
