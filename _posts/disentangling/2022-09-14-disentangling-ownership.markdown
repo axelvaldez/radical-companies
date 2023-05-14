@@ -16,7 +16,7 @@ image:    "icon-disentangling-ownership.svg"
  <p><span class="_paradigm">FIAT</span> businesses are hierarchical. They can be generous and progressive, like Patagonia, but, no matter, their overarching goal is to make profits for its owners.</p>
 
 <h1>An Alternative</h1>
- <p>An alternative to the pervasive FIAT business model is what we call <span class="_paradigm">RADICAL</span> companies.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+ <p>An alternative to the pervasive FIAT business model is what we call <span class="_paradigm">RADICAL</span> companies.<a href="#en02"><span id="bm02">1&nbsp;</span></a></p>
  <p>Notice that we differentiate “businesses” from “companies.” Business, in the sense of manufacturing and trading, is what owners do to create profits for themselves. Company comes from the Latin prefix con- and the word pan, bread. Company then refers to people who break bread together. So, we talk about <span class="_paradigm">FIAT</span> businesses and <span class="_paradigm">RADICAL</span> companies as two distinct species of the same genus. Like donkeys and zebras.</p>
 
 <h1>Disentangling Ownership</h1>
@@ -24,10 +24,10 @@ image:    "icon-disentangling-ownership.svg"
  <p><span class="_paradigm">RADICAL</span> companies are owned by what we call co-owners. Instead of it belonging to one or a few people, they are co-owned by everybody who embodies it.</p>
  <p>Instead of a static number of shares, ownership of a <span class="_paradigm">RADICAL</span> company is dynamic. It changes based on contributions recognized by other co-owners.</p>
  <p>Instead of one or a handful of people, you and the other co-owners own the surplus value (<em>i.e.</em>, the profits) that you all create.</p>
- <p>For more, see Disentangling Management.<a href="#en03"><sup id="bm03">3&nbsp;</sup></a></p>
+ <p>For more, see Disentangling Management.<a href="#en02"><span id="bm02">1&nbsp;</span></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     &ldquo;Because I say so.&rdquo;
@@ -55,6 +55,6 @@ image:    "icon-disentangling-ownership.svg"
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
