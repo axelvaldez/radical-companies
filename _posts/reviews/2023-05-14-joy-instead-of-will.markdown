@@ -19,8 +19,7 @@ image:    "icon-joy-instea-of-will.svg"
 
 <h1>&nbsp;</h1>
  <p>BTW, Maria&rsquo;s post includes a video of the choral finale performed in a square in Sabadell, a catalonian town, in Spain.</p>
- <p>It really moved me. We are all people, we are all siblings.</p>
-
+ <p>It really moved me. We are all people, we are all siblings, we are all family.</p>
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
@@ -32,6 +31,5 @@ image:    "icon-joy-instea-of-will.svg"
    </p>
   </li>
  </ul>
-
 
 {% include related.html %}
