@@ -34,7 +34,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </td>
    </tr>
    <tr>
-    <th>
+    <th sytle="text-align:left; ">
       <p>&nbsp;&nbsp;[kid]<span class="_quotespan">A guy hit me.</span></p>
       <p>[adult]<span class="_quotespan">Did you hit him back!</span></p>
     </th>
