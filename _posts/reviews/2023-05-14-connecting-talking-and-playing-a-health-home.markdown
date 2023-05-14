@@ -1,0 +1,43 @@
+---
+layout:   post
+title:    "Connecting, Talking, and Playing: a Healthy Home"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez"
+image:    "icon-ptsd-and-trust.svg"
+---
+
+<div style="display:none;">
+  <ul>
+   <li>Connecting</li>
+   <li>Talking</li>
+   <li>Playing</li>
+   <li>A Healthy Home</li>
+   <li>Community</li>
+  </ul>
+</div>
+
+<h1>&nbsp;</h1>
+ <p>In the words of Mary Wright,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <ul>
+   <li>Connecting</li>
+   <li>Talking</li>
+   <li>Playing</li>
+   <li>A Healthy Home</li>
+   <li>Community</li>
+  </ul>
+  <p>And most of all, this applies to healthy companies.</p>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    Molly Wright.
+    <em>How every child can thrive by five</em>.
+    TEDx Sidney, Australia
+    &lt;<a href=https://www.youtube.com/watch?v=aISXCw0Pi94" target="_blank">https://www.youtube.com/watch?v=aISXCw0Pi94</a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
+
+{% include related.html %}
