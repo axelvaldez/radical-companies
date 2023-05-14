@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "FIAT, Fear, Force, or&hellip; Pain?"
+title:    "FIAT, FEAR, FORCE, or&hellip; PAIN?"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-fiat-force-or-pain.svg"
+image:    "icon-fiat-fear-force-or-pain.svg"
 ---
 
 <div style="display:none;">
@@ -34,5 +34,10 @@ image:    "icon-fiat-force-or-pain.svg"
  <p>As it turned out, the women that she was working with took her seriously and enjoyed and celebrated the process.</p>
  <p>These stories resonated with me. They spoke to the power of having an alternative to the <span class="_paradigm">FIAT</span> system we live under.</p>
  <p>It gives me hope.</p>
+
+<h1>Wellbeing</h1>
+ <p>A business tries to be, but a company is not a machine, and we are not cogs. We evolve and adapt. We change over time. We change to adept to the circumstances.</p>
+ <p>When that gets interrupted, we start to lose our humanity.</p>
+ <p>The opposite of <span class="_paradigm">PAIN</span> is wellbeing. <em>Not</em> hedonic pleasure, which is more like an addiction. It is a reflection of <span class="_paradigm">PAIN</span> that is already there.</p>
 
 {% include related.html %}
