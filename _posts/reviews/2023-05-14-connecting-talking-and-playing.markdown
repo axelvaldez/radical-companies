@@ -34,28 +34,8 @@ image:    "icon-ptsd-and-trust.svg"
     Molly Wright.
     <em>How every child can thrive by five</em>.
     TEDx Sidney, Australia
-    &lt;<a href=https://www.youtube.com/watch?v=aISXCw0Pi94" target="_blank">https://www.youtube.com/watch?v=aISXCw0Pi94</a>&gt;
+    &lt;<a href="https://www.youtube.com/watch?v=aISXCw0Pi94" target="_blank">https://www.youtube.com/watch?v=aISXCw0Pi94</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ul>
-
-    &lt;<a href=https://www.youtube.com/watch?v=aISXCw0Pi94" target="_blank">https://www.youtube.com/watch?v=aISXCw0Pi94</a>&gt;
-
-<h1 class="_section">ENDNOTES</h1>
- <ul>
-  <li id="en01">
-   <p class="_list-item">
-    Molly Wright.
-    <p>TEST</p>
-    <em>How every child can thrive by five</em>.
-    <p>TEST</p>
-    TEDx Sidney, Australia
-    <p>TEST</p>
-    &lt;<a href=https://www.youtube.com/watch?v=aISXCw0Pi94" target="_blank">https://www.youtube.com/watch?v=aISXCw0Pi94</a>&gt;
-    <p>TEST</p>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-    <p>TEST</p>
    </p>
   </li>
  </ul>
