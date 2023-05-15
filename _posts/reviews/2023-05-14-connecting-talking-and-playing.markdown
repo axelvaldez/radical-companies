@@ -7,13 +7,7 @@ image:    "icon-connecting-talking-and-playing.svg"
 ---
 
 <div style="display:none;">
-  <ul>
-   <li>Connecting</li>
-   <li>Talking</li>
-   <li>Playing</li>
-   <li>A Healthy Home</li>
-   <li>Community</li>
-  </ul>
+  <p>Connecting, Talking, Playing, A Healthy Home, and Community: all good for the mental health of children and the adults they become.</p>
 </div>
 
 <h1>&nbsp;</h1>
