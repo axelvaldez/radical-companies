@@ -7,7 +7,7 @@ image:    "icon-joy-instea-of-will.svg"
 ---
 
 <div style="display:none;">
- <p>&ldquo;That is what Beethoven imagined, and invited humanity to imagine, the choral finale of his ninth and final symphony, known as “Ode to Joy” — an epochal hymn of the possible&hellip; &rdquo;</p>
+ <p>&ldquo;That is what Beethoven imagined, and invited humanity to imagine, the choral finale of his ninth and final symphony, known as &lsquo;Ode to Joy&rsquo; &ndash; an epochal hymn of the possible&hellip; &rdquo;</p>
 </div>
 
 <h1>&nbsp;</h1>
