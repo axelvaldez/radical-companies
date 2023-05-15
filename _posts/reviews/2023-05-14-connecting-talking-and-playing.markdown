@@ -25,7 +25,7 @@ image:    "icon-connecting-talking-and-playing.svg"
    <li>A Healthy Home</li>
    <li>Community</li>
   </ul>
-  <p>This is what makes for mentally healthy child in the first five years of life. It also applies to any healthy group of people, like a company.</p>
+  <p>This is what makes for mentally healthy children. It also applies to any healthy group of people, like a company.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
