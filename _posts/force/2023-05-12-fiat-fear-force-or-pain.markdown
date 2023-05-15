@@ -7,7 +7,7 @@ image:    "icon-fiat-fear-force-or-pain.svg"
 ---
 
 <div style="display:none;">
- <p>What should it be <span class="_paradign">FIAT</span>, force, or pain. It turns that that <em>pain</em> is the most basic thing.</p>
+ <p>What should it be <span class="_paradign">FIAT</span>, force, or pain. It turns that that <em>pain</em> is closer to the root. And I don&rsquo;t mean emotional pain, like losing a loved one, but the kind that comes from force (<em>e.g.</em>, being hit in the head).</p>
 </div>
 
 <h1>&nbsp;</h1>
