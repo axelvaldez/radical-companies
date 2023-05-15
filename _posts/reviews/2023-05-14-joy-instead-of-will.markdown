@@ -18,7 +18,9 @@ image:    "icon-joy-instea-of-will.svg"
  <p>According to this, Ludwig van Beethoven was a proto-<span class='_paradigm'>RADICAL</span>.</p>
  <hr>
  <p>BTW, Maria&rsquo;s post includes a video of the choral finale performed in a square in Sabadell, a catalonian town, in Spain.</p>
- <p>It really moved me. We are all people, we are all siblings, we are all family.</p>
+ <p>It really moved me, I got tearful.</p>
+ <p>We are all people, we are all siblings, we are all family.</p>
+
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
