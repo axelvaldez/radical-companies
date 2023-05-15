@@ -11,7 +11,7 @@ image:    "icon-fiat-fear-force-or-pain.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>It all started with a conversation with Jose. Instead of <span class="_paradign">FIAT</span>, he prefers to speak of <em>force</em>; I was defending <span class="_paradign">FIAT</span> as <em>the best</em> label for the imposed hierarchy. Needless to say, it wasn&rsquo;t much of <em>conversation</em>, it was more like defending the trap we had fallen into and had become our fox holes. We were resisting change</p>
+ <p>It all started with a conversation with Jose. Instead of <span class="_paradign">FIAT</span>, he prefers to speak of <em>force</em>; I was defending <span class="_paradign">FIAT</span> as <em>the best</em> label for the imposed hierarchy. Needless to say, it wasn&rsquo;t much of <em>conversation</em>, it was more like defending the trap we had fallen into and we now warmly called our foxholes. We were resisting change</p>
 
 <h1>Getting Out of the Foxhole</h1>
  <p>The argument has been bouncing around in my head for a few days. So I took a shower (my contemplative place). As it turned out, we were meeting with proto-<span class="_paradigm">RADICAL</span> companies right after</p>
