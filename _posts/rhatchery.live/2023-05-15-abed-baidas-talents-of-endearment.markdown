@@ -26,6 +26,7 @@ image:    "icon-abed-baidas-talents-of-endearment.svg"
  <p>A few people passed by and looked at the kid and the odd bags next to him. Then an older man stopped, looked at the kid and the bags next to him, and then proceeded to wake him up. The kid woke up, looked at the older fellow, then looked inside the bags. He looked up to the older man a bit confused, then reached out into the bag and took out a doughnut and gave to the man. Then he took off with new found riches.</span></p>
  <p>The kid&rsquo;s first reaction was to <em>share</em> his newfound wealth with the man that had woke up to them.</p>
  <p>This had an impact on him.</p>
+ <p>We also didn&rsquo;t talk about the <span class='_paradigm'>FIAT</span> system that we live in. Remarkably, Abed recognized how it hurts us with poverty and challenged mental health. But a kid&rsquo;s humanity came through and he shared a doughnut with the older man.</p>
 
 <h1>Very Helpful</h1>
  <p>Later I shared my intention to start a group of proto-<span class='_paradigm'>RADICAL</span>s and he immediately offered to help with platforms and what not.</p>
