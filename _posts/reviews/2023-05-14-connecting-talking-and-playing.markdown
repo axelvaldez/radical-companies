@@ -3,7 +3,7 @@ layout:   post
 title:    "Connecting, Talking, and Playing"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-ptsd-and-trust.svg"
+image:    "icon-connecting-talking-and-playing.svg"
 ---
 
 <div style="display:none;">
