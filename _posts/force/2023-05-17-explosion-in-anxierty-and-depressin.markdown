@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Explosion in Anxierty and Depression"
+title:    "Pain: Anxierty and Depression"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-ptsd-and-trust.svg"
+image:    "icon-pain-anxiety=and-depression.svg"
 ---
 
 <div style="display:none;">
