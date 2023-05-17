@@ -7,13 +7,9 @@ image:    "icon-the-radical-model-together.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>The <span class='_paradigm'>RADICAL</span> model, together.</p>
 </div>
 
-<h1>&nbsp;</h1>
- <p>xxx</p>
-
-<!-- proto-image -->
  <div class="_center">
   <img
    src="/assets/img/pic-the-radical-model-together.svg"
