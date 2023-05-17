@@ -13,7 +13,7 @@ image:    "icon-the-many-benefits-of-being-the-boss.svg"
 <h1>FREEDOM!</h1>
  <p>When you are broke-but-with-a-great-idea, the big kick comes from developing that idea, thinking of its many potentials, and telling people about it. You have the freedom to rift on it at the speed of thinking.</p>
  <p>As your idea meets the reality of implementation, the main benefit is the satisfaction of solving the problems that keep coming at you and your team. Lots of bonding, too, with your team, including your early investors and early-adopter customer. You can see how your new world is coming together.</p>
- <p>You are &ldquo;the CEO,&rdquo;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> the big kahuna, the boss of an incredible team, with a great, disruptive idea, and an MVP that is so awesome that <span class="_quotespan">it will be really easy to make it into a full fledged, world-class product.</span></p>
+ <p>You are &ldquo;the CEO,&rdquo;<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> the big kahuna, the boss of an incredible team, with a great, disruptive idea, and an MVP that is so awesome that <span class="_quotespan">it will be really easy to make it into a full fledged, world-class product.</span></p>
  <p>Finally, you get the capital infusion that you needed to expand. You have a Board now to help you turn this new world you&rsquo;ve created into a money-making machine. Screw Zuckerberg, this is going to be bigger and do good in the world.</p>
 
 <h1>Your Friend, the Author</h1>

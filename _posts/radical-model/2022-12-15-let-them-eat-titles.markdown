@@ -21,7 +21,7 @@ image:    "icon-let-them-eat-title.svg"
  <p>Later, talking to him, I found out that he wanted to be acknowledged by <em>Nearsoft</em>. I said something like, <span class="_quotespan">shouldn&rsquo;t you, then, have gone to your team? they are the &ldquo;authority&rdquo; on that kind of acknowledgement</span>. At that moment we realized that he applealing to me and me reacting as the authority was what got in the way. We are so blind to <span class="_paradigm">FIAT</span>; it is hard to resist reverting to it.</p>
 
 <h1>A Social Need</h1>
- <p>Sure we can be the stewards of our identity, but we can not ignore that identity is also provided by our community<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>. If someone, Mailan, is a baker, people know he as Mary the baker. If Mailan mostly yells, people around her expect that behavior.</p>
+ <p>Sure we can be the stewards of our identity, but we can not ignore that identity is also provided by our community<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a>. If someone, Mailan, is a baker, people know he as Mary the baker. If Mailan mostly yells, people around her expect that behavior.</p>
  <p>In a <span class="_paradigm">FIAT</span> world identity comes down from above: your boss gives you a title. This doesn&rsquo;t work in a <span class="_paradigm">RADICAL</span> environment where the community reflects the qualities of the person; their role is secondary and can change.</p>
 
 <h1>Decentralized Ways</h1>

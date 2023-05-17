@@ -18,7 +18,7 @@ image:    "icon-E01-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p>A couple of days later I went back into the shop and Pris was there again, and all smiles.</p>
 
 <h1>Y pasó el tiempo, y pasó&hellip;</h1>
- <p>I kept going to the shop for my favorite pastries, chocolate eclairs, and Anita, my wife, and I got to know Pris more. At one point she mentioned that she loved to read, so next time I brought her a copy of my book.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Among other things, the book talks about co-ownership&mdash;that&rsquo;s what I wanted her to read about.</p>
+ <p>I kept going to the shop for my favorite pastries, chocolate eclairs, and Anita, my wife, and I got to know Pris more. At one point she mentioned that she loved to read, so next time I brought her a copy of my book.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> Among other things, the book talks about co-ownership&mdash;that&rsquo;s what I wanted her to read about.</p>
  <p>I didn&rsquo;t know then, the timing could not have been better.</p>
 
 <h1>Marchons, Oui Marchons</h1>

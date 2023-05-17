@@ -17,7 +17,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
   <li>To create enough value,</li>
   <li>To generate a profit.</li>
  </ul>
- <p>Roman soldiers of yore were paid with <em>sal</em>, &ldquo;salt,&rdquo; and that is where the word &ldquo;salary&rdquo; comes from.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Roman soldiers of yore were paid with <em>sal</em>, &ldquo;salt,&rdquo; and that is where the word &ldquo;salary&rdquo; comes from.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
 
 <h1>Dividends Go Up to Owners</h1>
  <p>Capital is money that makes money. The new money is popularly called profits. Profits (<em>i.e.</em>, really dividens) go up to the owners.</p>
@@ -30,7 +30,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <p>See what happened here: I wrote &ldquo;hires people&rdquo; and you didn&rsquo;t even blink. It&rsquo;s the normal thing.</p>
 
 <h1>Ask Yourself</h1>
- <p>Here is the traditional, <span class="_paradigm">FIAT</span><a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> view,</p>
+ <p>Here is the traditional, <span class="_paradigm">FIAT</span><a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> view,</p>
  <ul>
   <li>Capital creates jobs.</li>
   <li>People work at those jobs.</li>
@@ -102,7 +102,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <p>As a personal debt, on the other hand, everyone can figure out what works for them and decide accordingly. Maybe Julio starts high but then he brings his PRI down once he realizes that he had jacked it up out of unexamined fears. Or maybe he keeps it high because he is paying for his sister&rsquo;s school and is willing to bear the debt for a while longer. No matter, he knows and he is responsible for his choices.</p>
  <p>There are many other set ups that you can experiment with.</p>
  <p>---</p>
- <p>For more details, see <em>RADICAL COMPANIES for the Impatient</em>.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> or, if y0u have the time, <em>RADICAL COMPANIES: Without Bosses or Employees</em>.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>For more details, see <em>RADICAL COMPANIES for the Impatient</em>.<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a> or, if y0u have the time, <em>RADICAL COMPANIES: Without Bosses or Employees</em>.<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
   <ul>

@@ -13,7 +13,7 @@ image:    "icon-rmedia.svg"
 <div class="_citation">
  <p>A book is no longer be a book, but parallel variations on a theme. A spectrum of perspectives, built like software is done these days.</p>
  <p>This made me think of how Aztecs used to keep track of histories.</p>
- <p id="_signature">Dr Marysol Ortega<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p id="_signature">Dr Marysol Ortega<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
 </div>
 
 <h1>Why <span class="_paradigm">rMAKE</span>?</h1>
@@ -22,7 +22,7 @@ image:    "icon-rmedia.svg"
  <p>The intent of <span class="_paradigm">rMAKE</span> is to make it possible for many people to contribute to a book and get consistent authorship and ownership. What would have been a laborious process for books written with a quill pen or a typewriter, it is a piece of cake using basic modern technology.</p>
 
 <h1>But You Already Can, Can&rsquo;t You?</h1>
- <p>My first thought was that any of the various <em>Git</em><a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> platforms, MediaWiki,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> or even Google Docs could be it.</p>
+ <p>My first thought was that any of the various <em>Git</em><a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> platforms, MediaWiki,<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a> or even Google Docs could be it.</p>
  <div class="_center">
   <table class="_explicitalignment">
    <tr id="_background">
@@ -33,7 +33,7 @@ image:    "icon-rmedia.svg"
     <th>PROs</th>
     <td>
      <ul>
-      <li><em>Git</em> is a very popular software source control<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> system. It allows software developers to work as peers, in parallel.</li>
+      <li><em>Git</em> is a very popular software source control<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a> system. It allows software developers to work as peers, in parallel.</li>
       <li>The published code lives in the project <strong>trunk</strong>. Any developer can read that code at any time.</li>
       <li>Several developers can work on features or new versions of the code in parallel, in separate branches. Each is persistent and fully rendered.</li>
       <li>Whenever I want to merge the code in my flow into the trunk, I create a pull request for the trunk&rsquo;s admin. We&rsquo;d have a discussion about my branch in the pull request and if everything lines up, the code in my branch is merged into the trunk.</li>
@@ -58,11 +58,11 @@ image:    "icon-rmedia.svg"
     <th>PROs</th>
     <td>
      <ul>
-      <li>This is the wiki engine used by Wikipedia and it is friendly enough for writers. At least those who are used to Wiki Markup.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a></li>
+      <li>This is the wiki engine used by Wikipedia and it is friendly enough for writers. At least those who are used to Wiki Markup.<a href="#en05"><sup id="bm05">&nabla;&hairsp;</sup></a></li>
       <li>It keeps a history of the document where you can see all the edits ever made to a page as well as the discussions between the page editor and other contributors.</li>
       <li>Various writers can work asynchronously (not quite in parallel).</li>
       <li>It is Open Source.</li>
-      <li>It has pretty good documentation for developers.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
+      <li>It has pretty good documentation for developers.<a href="#en06"><sup id="bm06">&nabla;&hairsp;</sup></a></li>
      </ul>
     </td>
    </tr>
@@ -103,7 +103,7 @@ image:    "icon-rmedia.svg"
  </div>
 
 <h1><span class="_paradigm">rMAKE</span> Is Born</h1>
- <p>In the end, we opted to create a new app we call <span class="_paradigm">rMAKE</span><a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI and many OSS components and libraries that we can use in the making of <span class="_paradigm">rMAKE</span> (<em>e.g.</em>, diff).</p>
+ <p>In the end, we opted to create a new app we call <span class="_paradigm">rMAKE</span><a href="#en07"><sup id="bm07">&nabla;&hairsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI and many OSS components and libraries that we can use in the making of <span class="_paradigm">rMAKE</span> (<em>e.g.</em>, diff).</p>
 
 <h1>No Trunk</h1>
  <p>In <span class="_paradigm">rMAKE</span> <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
@@ -206,7 +206,7 @@ image:    "icon-rmedia.svg"
    <div class="_quotation">
     <p>That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</p>
     <p>If a statistics book chapter is OPEN, therefore, it is subject to being applied by individuals to arguments with which we may disagree.</p>
-    <p>I also think that books aren&rsquo;t just about the writers, they&rsquo;re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren&rsquo;t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics</em>.<a href="#en08"><sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a>)</p>
+    <p>I also think that books aren&rsquo;t just about the writers, they&rsquo;re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren&rsquo;t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics</em>.<a href="#en08"><sup id="bm08">&nabla;&hairsp;</sup></a>)</p>
    </div>
 
 <h1>Publishing</h1>
@@ -293,9 +293,9 @@ image:    "icon-rmedia.svg"
      <p style="margin-bottom:0; ">Same as a single writer, but in addition they need to,</p>
       <ul>
        <li>Fork the whole book as a separate flow.</li>
-       <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or excursus.<a href="#en10"><sup id="bm10">&hairsp;&nabla;&hairsp;</sup></a></li>
+       <li>Fork a particular fragment, be it a section or subsection, a paragraph, a sentence, phrase, or excursus.<a href="#en10"><sup id="bm10">&nabla;&hairsp;</sup></a></li>
        <li>
-        <p style="margin-bottom:0; ">Create a Pull Request<a href="#en11"><sup id="bm11">&hairsp;&nabla;&hairsp;</sup></a> to,</p>
+        <p style="margin-bottom:0; ">Create a Pull Request<a href="#en11"><sup id="bm11">&nabla;&hairsp;</sup></a> to,</p>
          <ol>
           <li>Hold the discussion about a merge.</li>
           <li>Record the final decision (to merge to not merge).</li> 

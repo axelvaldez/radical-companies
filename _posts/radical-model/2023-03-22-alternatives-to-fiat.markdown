@@ -16,7 +16,7 @@ image:    "icon-alternatives-to-fiat.svg"
    <span class="_quotespan">It is not intelligent, it is not beautiful, it is not just, it is not virtuous &ndash; and it doesn’t deliver the goods. In short, we dislike it, and we are beginning to despise it. But when we wonder what to put in its place, we are extremely perplexed.</span>
    <span id="_signature">John Maynard Keynes.</span>
   </div>
-  <p>This shows how difficut it is to see past what people call capitalism, where JM Keynes admitted to be <span class="_quotespan">extremely perplexed.</span>. The problem is not the accumulation of capital, but the <span class="_paradigm">FIAT</span> system,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>This shows how difficut it is to see past what people call capitalism, where JM Keynes admitted to be <span class="_quotespan">extremely perplexed.</span>. The problem is not the accumulation of capital, but the <span class="_paradigm">FIAT</span> system,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
    <div class="_citation">
     <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span>
    </div>

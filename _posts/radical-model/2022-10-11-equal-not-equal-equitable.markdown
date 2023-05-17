@@ -22,7 +22,7 @@ image:    "icon-equal-vs-equitable.svg"
     <td style="width:50%; ">
      <img
       src="/assets/img/equal-vs-equitable-02.svg"
-      alt=""><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
+      alt=""><a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a>
     </td>
    </tr>
    <tr>
@@ -67,7 +67,7 @@ image:    "icon-equal-vs-equitable.svg"
  <p>They can do this via the <em><span class="_paradigm">RAD</span>s!</em> mobile app.</p>
 
 <h1>Giving <span class="_paradigm">RAD</span>s</h1>
- <p>Every co-owner gets one <span class="_paradigm">RAD</span> per day and she gets to give them to other co-owners based on their contributions. Different co-owners will get different amounts of <span class="_paradigm">RAD</span>s from varous other co-owners.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Every co-owner gets one <span class="_paradigm">RAD</span> per day and she gets to give them to other co-owners based on their contributions. Different co-owners will get different amounts of <span class="_paradigm">RAD</span>s from varous other co-owners.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
  <p>We may end with this,</p>
   <div class="_center">
    <img
@@ -95,12 +95,12 @@ image:    "icon-equal-vs-equitable.svg"
    width="70%"
    alt="">
  </div>
- <p>This distribution will most likely change again in future cycles as things change.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>This distribution will most likely change again in future cycles as things change.<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></p>
 
 <h1>What Is a Contribution</h1>
  <p>Today contributions are about growing to the wealth of the business owners,</p>
  <div class="_citation">
-  <p>&ldquo;Owning a business is the fastest reliable way to wealth.&hellip; That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.&rdquo;<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>&ldquo;Owning a business is the fastest reliable way to wealth.&hellip; That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.&rdquo;<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a></p>
  </div>
  <p>In the <span class="_paradigm">RADICAL</span> model, contributions add to the wellbeing of one of more co-owners.</p>
 

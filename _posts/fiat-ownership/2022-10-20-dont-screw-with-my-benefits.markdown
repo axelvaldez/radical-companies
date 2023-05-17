@@ -16,7 +16,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
  
 <div class="_citation">
  Perhaps our job is to create the conditions for things to get better, not to predict that they won’t.
- <p id="_signature">Seth Goding<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p id="_signature">Seth Goding<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
 </div>
  
 <h1>RADICAL Threat</h1>
@@ -103,7 +103,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
 
 <h1>Why the Quotation Marks?</h1>
  <p>I have consistently put quotation marks around the word &ldquo;benefit&rdquo; because they are <em>not</em> benefits. At least, they are not a benefit to you as much as they are a benefit to businesses.</p>
- <p>Over centuries, we have been tweaking the pay system to accommodate people&rsquo;s basic needs to survive and work another day. As Chuck Blakeman remind us,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> the range starts at zero pay during slavery to higher pay (plust proverty). The &ldquo;signal&rdquo; to pay more usually comes as some form of violence: strikes, revolution, or war.</p>
+ <p>Over centuries, we have been tweaking the pay system to accommodate people&rsquo;s basic needs to survive and work another day. As Chuck Blakeman remind us,<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> the range starts at zero pay during slavery to higher pay (plust proverty). The &ldquo;signal&rdquo; to pay more usually comes as some form of violence: strikes, revolution, or war.</p>
  <p>Eventually, governments impose taxes and benefits to calm things down. This imposition is a form of violence, but most businesses go along with it because they know it is better for them than the more violent alternative.</p>
  <p>As a result, we have ended up with a hodgepodge of &ldquo;benefits&rdquo; worldwide. Primarily because of lack of trust, of the business owners <em>and</em> the workers, the money for these benefits goes first to governments. Then a bureaucracy develops to &ldquo;manage&rdquo; this money &ldquo;on behalf of&rdquo; the workers.</p>
  <p>The <span class="_paradigm">RADICAL</span> model assumes that people know their needs better than any government, as benevolent as it may be. It follows, then, that people are the best &ldquo;managers&rdquo; of what they need to live. In the <span class="_paradigm">RADICAL</span> model money in the form of <em>earned dividends</em> go directly to each of us. And, yes, we all have to learn a lot to deal with this responsibility and there will be many bumps along with way until it works smoothly, but all adults are capable of learning it and doing it.</p>

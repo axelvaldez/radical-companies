@@ -13,13 +13,13 @@ image:    "icon-in-the-national-interest.svg"
 <h1>&nbsp;</h1>
  <p>National goverments really are very, very tall xxx<span class="_paradign">FIAT</span> hierarchies with a monopoloy on force. We need governance, but not centralized governments. This is true for the whole range of  governments, from democracies to dictatoships.</p>
  <div class="_citation">
-  <p><span class="_quotespan">&hellip; who would be trustworthy and persuasive enough?&hellip; The answer was a bunch of ordinary people.</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p><span class="_quotespan">&hellip; who would be trustworthy and persuasive enough?&hellip; The answer was a bunch of ordinary people.</span><a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
  </div>
 
 <h1>Churchill</h1>
  <div class="_citation">
   <span class="_quotespan">&hellip; it has been said that democracy is the worst form of Government except for all those other forms that have been tried&hellip; </span>
-  <p class="_signature">Winston Churchill, 1947<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p class="_signature">Winston Churchill, 1947<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
  </div>
  <p>When he said this, Churchill assumed that a government would be in place. And it was a fair assumption, but why?</p>
  
@@ -29,7 +29,7 @@ image:    "icon-in-the-national-interest.svg"
   <p><span class="_quotespan">&hellip; insurance against dangers from abroad</span>.</p>
   <p id="_signature">
    Winston Churchill, 1947
-   <a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>
+   <a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a>
   </p>
  </div>
  <p>People, including Churchill, had reason to believe this given the history of raids, wars and other &ldquo;dangers from abroad.&rdquo;</p>
@@ -103,7 +103,7 @@ image:    "icon-in-the-national-interest.svg"
   <li>Anything foreign can easily become, or be made, into “foreign danger.”</li>
  </ul>
  <p>The idea that national governments are an anachronism has been recognized for a long time.</p>
- <p>I first ran into it in the book <em>La Cuarta Vertebra</em>,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> an early 1960s book. Before that, in 1910, King Camp Gillette proposed a World Corporation to bypass governments.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> There are many others that have come up on a regular basis, but they all have the same weakness: their proposed fix is to build a taller <span class="_paradigm">FIAT</span> hierarchy. I believe that the opposite is called for: governance without a <span class="_paradigm">FIAT</span> hierarchy at all.</p>
+ <p>I first ran into it in the book <em>La Cuarta Vertebra</em>,<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a> an early 1960s book. Before that, in 1910, King Camp Gillette proposed a World Corporation to bypass governments.<a href="#en05"><sup id="bm05">&nabla;&hairsp;</sup></a> There are many others that have come up on a regular basis, but they all have the same weakness: their proposed fix is to build a taller <span class="_paradigm">FIAT</span> hierarchy. I believe that the opposite is called for: governance without a <span class="_paradigm">FIAT</span> hierarchy at all.</p>
 
 <h1>Collaboration</h1>
  <p>As I said above, <span class="_quotespan">A lot of people can solve problems bigger than themselves by working together with a lot of other people around the world</span.</p>
@@ -121,7 +121,7 @@ image:    "icon-in-the-national-interest.svg"
 
 <h1>Currency</h1>
  <p>A big part of the problems we face have also to do with money. In fact, <span class="_paradigm">FIAT</span> hierarchies and money go hand in hand.</p>
- <p>The European Union has a single currency, the Euro, which has replaced the disparate national currencies. For world-wide commerce, it would be beneficial, too, to have one currency. Unlike the Euro, this currency would be decentralized and not minted by banks.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>The European Union has a single currency, the Euro, which has replaced the disparate national currencies. For world-wide commerce, it would be beneficial, too, to have one currency. Unlike the Euro, this currency would be decentralized and not minted by banks.<a href="#en06"><sup id="bm06">&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>

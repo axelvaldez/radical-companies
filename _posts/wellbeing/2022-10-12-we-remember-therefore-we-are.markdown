@@ -12,11 +12,11 @@ image:    "icon-we-remember-therefore-we-are.svg"
 
 <div class="_citation">
  People will forget what you said, people will forget what you did, but people will never forget how you made them feel.
- <p id="_signature">Maya Angelou<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p id="_signature">Maya Angelou<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>We remember what makes us feel something, anything: the horrific, the joyful.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> We dont&rsquo;t remember specific words or actions, but we dont&rsquo;t forget what was so hurtful or what was lovingly said.</p>
+ <p>We remember what makes us feel something, anything: the horrific, the joyful.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> We dont&rsquo;t remember specific words or actions, but we dont&rsquo;t forget what was so hurtful or what was lovingly said.</p>
  <p>This is what came up after reading <em>Consciousness as a Memory System</em>. It describes the authors&rsquo; theory of &ldquo;conciousness as memory,&rdquo;</p>
  <div class="_citation">
   Consciousness is directed toward an object; it is about something (ie, intentionality). We experience consciousness as unified, as one experience, rather than as separate experiences of sights, sounds, smells, thoughts, feelings, and so on (<em>ie</em>, unity). We have the capacity to be conscious of some things and not others (<em>ie</em>, selectivity). Objects of consciousness are there transiently; the contents of consciousness tend to change (<em>ie</em>, transience).

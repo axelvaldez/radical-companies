@@ -12,7 +12,7 @@ image:    "icon-super-chicken-coop.svg"
 
 <h1>Intro</h1>
  <p>The lonely hero is a myth. Achievements are the result of people working together in communities, the people I touch and those who touch me.</p>
- <p>As Purdue biologist William Muir discovered that it takes the whole chicken coop to impact productivity. As an experiment, Dr Muier first bred only super-chickens and found that, <span class="_quotespan">&hellip; only three survived as the group pecked each other to death.</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> They were the highest egg-laying producers only because <em>they killed every other chicken</em>. Coop productivity went down.</p>
+ <p>As Purdue biologist William Muir discovered that it takes the whole chicken coop to impact productivity. As an experiment, Dr Muier first bred only super-chickens and found that, <span class="_quotespan">&hellip; only three survived as the group pecked each other to death.</span><a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> They were the highest egg-laying producers only because <em>they killed every other chicken</em>. Coop productivity went down.</p>
  <p>Then he bred the most prodigious egg-laying chicken <em>coop</em>, and egg productivity increased for the whole coop without fatalities. It turns out that the whole community, and not hero chickens, are the key to increased egg productivity.</p>
 
 <h1 class="_section">ENDNOTES</h1>

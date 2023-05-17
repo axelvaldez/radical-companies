@@ -13,7 +13,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
 <h1>&nbsp;</h1>
  <p>Dr Olusola Ajore, Univerty of Illinois Chicago Professor of Psychiatry, says,</p>
   <div class="_citation">
-   <p><span class="_quotatespan">We&rsquo;ve had an incredible explosion of need&hellip; with soaring rates of anxiety and depressiong</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p><span class="_quotatespan">We&rsquo;ve had an incredible explosion of need&hellip; with soaring rates of anxiety and depressiong</span><a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>A Different Take</h1>

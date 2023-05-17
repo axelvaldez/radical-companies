@@ -11,7 +11,7 @@ image:    "icon-radical-units-of-measure.svg"
 </div>
 
 <h1>Units of Measure</h1>
- <p>In our book, <em><span class="_paradigm">RADICAL COMPANIES</span></em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> we came up with <span class="_paradigm">RAD</span>s as a unit-of-measure. It turns out that we also need a unit-of-recognition.</p>
+ <p>In our book, <em><span class="_paradigm">RADICAL COMPANIES</span></em><a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> we came up with <span class="_paradigm">RAD</span>s as a unit-of-measure. It turns out that we also need a unit-of-recognition.</p>
 
 <h1>A Unit of Distribution</h1>
  <p><span class="_paradigm">RAD</span>s account for what has so far been unaccountable. They quantify contributions as given by co-owners.</p>

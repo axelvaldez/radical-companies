@@ -12,7 +12,7 @@ image:    "icon-radical-coops.svg"
 
 <h1>&nbsp;</h1>
  <p>Co-ops could be based on the <span class="_paradigm">RADICAL</span> model. Kind of.</p>
- <p>It&rsquo;d be fairly straight forward to do if we <em>break the &ldquo;one person, one vote&rdquo; rule</em> and swich to a <span class="_paradigm">RAD</span>s-based system. This system would be based on contributions, not absolute equality.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>It&rsquo;d be fairly straight forward to do if we <em>break the &ldquo;one person, one vote&rdquo; rule</em> and swich to a <span class="_paradigm">RAD</span>s-based system. This system would be based on contributions, not absolute equality.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
 
 <h1>Why <span class="_paradigm">RAD</span>s Then?</h1>
  <ul>

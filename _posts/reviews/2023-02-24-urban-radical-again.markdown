@@ -11,7 +11,7 @@ image:    "icon-urban-radical-silence.svg"
 </div>
 
 <h1></h1>
- <p>Below is the continuation of an (imaginary) conversation with Tim Urban, this time on blind spots. Urban is the author of, <em>What&rsquo;s Ours Problem: A Self&ndash;Help Book for Society</em>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>.</p>
+ <p>Below is the continuation of an (imaginary) conversation with Tim Urban, this time on blind spots. Urban is the author of, <em>What&rsquo;s Ours Problem: A Self&ndash;Help Book for Society</em>,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a>.</p>
 
 <h1>Co&ndash;Management</h1>
  <div class="_speakerb">You have a blind spot that&hellip;</div>

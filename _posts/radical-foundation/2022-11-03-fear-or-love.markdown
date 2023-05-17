@@ -18,7 +18,7 @@ image:    "icon-simple-fear-or-love.svg"
  <p>Risk or preserve life: the rule of all live creatures.</p>
 
 <h1>Frozen by Fear or Guided by Love?</h1>
- <p>We people show up in the tree of life with all shades of fear and a whole range of love.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>We people show up in the tree of life with all shades of fear and a whole range of love.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
  <div class="_center">
   <table class="_h2table">
    <tr>
@@ -35,7 +35,7 @@ image:    "icon-simple-fear-or-love.svg"
    </tr>
   </table>
  </div>
- <p>I prefer to be guided by love, not fear. I prefer the kind that leads with trust, the kind that tries to understand the feelings behind the words said.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>I prefer to be guided by love, not fear. I prefer the kind that leads with trust, the kind that tries to understand the feelings behind the words said.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>

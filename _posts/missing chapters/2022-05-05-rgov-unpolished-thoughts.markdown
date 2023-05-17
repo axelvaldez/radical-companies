@@ -11,7 +11,7 @@ image:    "icon-gov.svg"
 </div>
 
 <h1>Introduction</h1>
- <p>In the book RADICAL COMPANIES: Without Bosses or Employees,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> we considered how the <span class="_paradigm">RADICAL</span> model would work in a company environment, but we said next to nothing about money<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>, land<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>, or government.</p>
+ <p>In the book RADICAL COMPANIES: Without Bosses or Employees,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> we considered how the <span class="_paradigm">RADICAL</span> model would work in a company environment, but we said next to nothing about money<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a>, land<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a>, or government.</p>
  <p>In <span class="_paradigm">rCoin: Decentralized Minting</span>, I laid out my ideas about money and what it would look like in a decentralized, transparent world. In <span class="_paradigm">rLand</span>, I put down my thoughts on how land would be handled in a <span class="_paradigm">RADICAL</span> world. In this document I finally get to lay down some my thoughts, albeit unpolished, about government.</p>
 
 <h1>Very Different</h1>
@@ -36,7 +36,7 @@ image:    "icon-gov.svg"
   <h2>Economic Development</h2>
    <p>&ldquo;Economic development&ldquo; is where elected government goes over the line and gets involved in the creation of private goods for businesses and their owners in the name of &ldquo;job creation.&rdquo; In a <span class="_paradigm">RADICAL</span> world, city governments are no longer responsible for any of this&mdash;everybody is capable and has the means to build their own wealth creating communities.</p>
   <h2>Car Traffic</h2>
-   <p>Let&rsquo;s take traffic next. I predict that all things traffic are going to change dramatically, very quickly. As I write this, CRUISE<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> launched a driverless, Uber-like service in San Francisco. It won&rsquo;t take long before its price comes down to the point that it will not make sense for individuals to own cars, and house cars, and loiter the streets with parked cars. Eventually, a car can own itself. Autonomous cars will house themselves out of sight throughout an urban area and there  won&rsquo;t be cars parked on the side of roads, and.</p>
+   <p>Let&rsquo;s take traffic next. I predict that all things traffic are going to change dramatically, very quickly. As I write this, CRUISE<a href="#en05"><sup id="bm05">&nabla;&hairsp;</sup></a> launched a driverless, Uber-like service in San Francisco. It won&rsquo;t take long before its price comes down to the point that it will not make sense for individuals to own cars, and house cars, and loiter the streets with parked cars. Eventually, a car can own itself. Autonomous cars will house themselves out of sight throughout an urban area and there  won&rsquo;t be cars parked on the side of roads, and.</p>
    <p>The next development is to have intra-vehicle communication. With that and the sensor in every vehicle, we won&rsquo;t need traffic lights or signage.</p>
    <p>So, take all things traffic off the city&rsquo;s todo list.</p>
   <h2>Infrastructure</h2>
@@ -109,7 +109,7 @@ image:    "icon-gov.svg"
     </table>
    </div>
   <h2>Evolution, Interrupted</h2>
-   <p>As I see it, the <span class="_paradigm">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve anything.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p>As I see it, the <span class="_paradigm">RADICAL</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve anything.<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a></p>
    <p>The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of nterdependence towards a higher level of collaboration.</p>
 
 <h1 class="_section">ENDNOTES</h1>

@@ -60,11 +60,11 @@ image:    "icon-the-radical-foundation-revised.svg"
    <tr id="_background">
     <th>RADs! App</th>
     <td>This is the most general tool in that it can be used by any one community or an ensemble of communities. For more, see,
-                                   <em>Get Rid of Ownership</em>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
-     <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>
-      <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>
-                                 <em>No Bonuses or Salaries</em>,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a>
-         and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a>
+                                   <em>Get Rid of Ownership</em>,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a>
+     <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a>
+      <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a>
+                                 <em>No Bonuses or Salaries</em>,<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a>
+         and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en05"><sup id="bm05">&nabla;&hairsp;</sup></a>
     </td>
    </tr>
    <tr>

@@ -11,7 +11,7 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>We talk a lot about <em>starting</em> <span class="_paradigm">RADICAL</span> companies. This is the easy way out for us, the book&rsquo;s authors,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> because we find starting companies to be straightforward,</p>
+ <p>We talk a lot about <em>starting</em> <span class="_paradigm">RADICAL</span> companies. This is the easy way out for us, the book&rsquo;s authors,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> because we find starting companies to be straightforward,</p>
   <ul>
    <li>Matt quickly adapted to the startup culture in Silicon Valley</li>
    <li>Adrian grew up in it</li>

@@ -11,7 +11,7 @@ image:    "icon-connecting-talking-and-playing.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>In the words of Molly Wright,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>In the words of Molly Wright,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
   <ul>
    <li>Connecting</li>
    <li>Talking</li>

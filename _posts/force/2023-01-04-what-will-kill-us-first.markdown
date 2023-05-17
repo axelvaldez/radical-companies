@@ -11,7 +11,7 @@ image:    "icon-what-will-kill-us-first.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Which will destroy the Anthropocene<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> first, climate change or homogeneity?</p>
+ <p>Which will destroy the Anthropocene<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> first, climate change or homogeneity?</p>
 
 <h1>Climate Change</h1>
  <p>First, take climate change,</p>
@@ -32,7 +32,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>For another example, take the decline of disruptive science,</p>
  <div class="_quotation">
   <p>The number of science and technology research papers published has skyrocketed over the past few decades &ndash; but the &lsquo;disruptiveness&rsquo; of those papers has dropped. &hellip;</p>
-  <p>Data from millions of manuscripts show that, compared with the mid-twentieth century, research done in the 2000s was much more likely to incrementally push science forward than to veer off in a new direction and render previous work obsolete. Analysis of patents from 1976 to 2010 showed the same trend.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>Data from millions of manuscripts show that, compared with the mid-twentieth century, research done in the 2000s was much more likely to incrementally push science forward than to veer off in a new direction and render previous work obsolete. Analysis of patents from 1976 to 2010 showed the same trend.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
  </div>
  <p>This is happening across diverse fields. For example, social science, technology, physical sciences, life sciences, and biomedicine.</p>
  <div class="_center">
@@ -44,19 +44,19 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>In sheer numbers, there is more research, but it trends towards improvement and not discovery. This is really bad because we can recognize and celebrate improvements (&ldquo;Wow, that’s going to make us live longer!&rdquo;), but we don’t recognize discoveries until it hits us in the face (&ldquo;WAT? We can generate energy like the Sun does?&rdquo;).</p>
 
 <h1>Fragile Food</h1>
- <p>Another example comes from our food supply: food productiopn is getting more and more fragile as we consume fewer and fewer food varieties.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Another example comes from our food supply: food productiopn is getting more and more fragile as we consume fewer and fewer food varieties.<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></p>
  <div class="_quotation">
-  <p>&ldquo;The ways in which plants are used by societies around the world have narrowed drastically over the past 500 years.&rdquo;<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>&ldquo;The ways in which plants are used by societies around the world have narrowed drastically over the past 500 years.&rdquo;<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a></p>
   <p>&ldquo;Crop growers worldwide face enormous challenges. Plants are becoming less resistant to pests and diseases. Crops are more likely to be damaged or fail because of droughts, heatwaves, floods, salinization and rising sea levels. Soils are degraded; rivers and watersheds are polluted; and the diversity and abundance of crop pollinators are in steep decline.&rdquo;</p>
  </div>
 
 <h1>It Has Happened Before</h1>
- <p>In <em>Profit: An Environmental History</em><a href="#en11"><sup id="bm11">&hairsp;&nabla;&hairsp;</sup></a> Mark Stoll documents, extensively, how competition has driven us to the spoilage of our environment multiple times. The process was not profitable for most people, either, who went to their early grave from overwork, malnutrition, and disease. Forests and the environment in general was devasted by sugar, tobacco, and other &ldquo;commercial&rdquo; crops. Over time they drained the land of nutrients and impoverished people&rsquo;s lives.</p>
+ <p>In <em>Profit: An Environmental History</em><a href="#en11"><sup id="bm11">&nabla;&hairsp;</sup></a> Mark Stoll documents, extensively, how competition has driven us to the spoilage of our environment multiple times. The process was not profitable for most people, either, who went to their early grave from overwork, malnutrition, and disease. Forests and the environment in general was devasted by sugar, tobacco, and other &ldquo;commercial&rdquo; crops. Over time they drained the land of nutrients and impoverished people&rsquo;s lives.</p>
  <p>This is not the first time that competition has driven us to collapse. The big problem now is that the specter of collapse is global. In fact, it won&rsquo;t be a collapse, as much as a near extinction. By near I mean that there will be enough of us left and we will eventually make a come back. The winner-takes-all <span class="_paradigm">FIAT</span> system of competition and dominance has been catastrophic and it would force us to replay the same old movie that ends up in collapse, again.</p>
  <p>We need to try a different system, one based on collaboration, not competition. Abundance, not scarcity. Co-manaagement and co-ownership, not masters and slaves.</p>
 
 <h1>Strong Trend</h1>
- <p>Politically, our priorities are trending towards tweaking and avoiding risk. Worst, this trend is bringing about a world-wide monoculture in every aspect of our lives, in politics,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> science, food, etc.</p>
+ <p>Politically, our priorities are trending towards tweaking and avoiding risk. Worst, this trend is bringing about a world-wide monoculture in every aspect of our lives, in politics,<a href="#en05"><sup id="bm05">&nabla;&hairsp;</sup></a> science, food, etc.</p>
 
 <h1>Monoculture</h1>
  <p>Monocultures are fragile. A virus that harm one member of the species, can harm <em>every</em> member of the species.</p>

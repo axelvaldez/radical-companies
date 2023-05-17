@@ -23,9 +23,9 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaborative-economy
 <p>&nbsp;</p>
 
 <h1>The Commons</h1>
- <p class="_citation">&hellip; the Commons is an idea different both from state property &hellip; and from private property&hellip;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p class="_citation">&hellip; the Commons is an idea different both from state property &hellip; and from private property&hellip;<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
  <p>They then add this, which they attribute to Siobhain O'Mahony,</p>
- <p class="_citation">It is, however, important to highlight that the contributors of CBPP<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> projects do have interest and rights concerning their work and are interested in protecting their intellectual property.</p>
+ <p class="_citation">It is, however, important to highlight that the contributors of CBPP<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> projects do have interest and rights concerning their work and are interested in protecting their intellectual property.</p>
  <p>With <span class="_paradigm">RAD</span>s, people could get a patent and then distribute the revenue that comes from it based on the recognized contributions (to the patent project) each person has.</p>
 
 <h1>Not Sure What to Call this&hellip;</h1>

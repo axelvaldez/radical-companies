@@ -12,7 +12,7 @@ image:    "icon-ownership-is.svg"
 
 <div class="_citation">
  I have, therefore I am.<br>
- And the more I have, the more I am.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
+ And the more I have, the more I am.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a>
 </div>
 
 <h1>Ownership</h1>
@@ -24,11 +24,11 @@ image:    "icon-ownership-is.svg"
   </ul>
 
 <h1>Attachment</h1>
- <p>A magazine lists this among other <em>Fun Facts about Ownership</em>: <span class="_quotespan">Awareness of ownership rights already emerges in children as young as 2 or 3 years.</span><a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> But that is careless nonsense. Our brains come wired for <em>attachment</em>, but not ownership</p>
- <p>As children, we learn ownership from those around us, <span class="_quotespan">As children get older, they gain social skills and learn to negotiate the conflicts on their own.</span><a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>A magazine lists this among other <em>Fun Facts about Ownership</em>: <span class="_quotespan">Awareness of ownership rights already emerges in children as young as 2 or 3 years.</span><a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> But that is careless nonsense. Our brains come wired for <em>attachment</em>, but not ownership</p>
+ <p>As children, we learn ownership from those around us, <span class="_quotespan">As children get older, they gain social skills and learn to negotiate the conflicts on their own.</span><a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></p>
 
 <div class="_citation">
- Ownership followed &hellip; possession.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a>
+ Ownership followed &hellip; possession.<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a>
 </div>
 <h1>Possession</h1>
  <p>The process of legitimizing lang-grabs is still going on, although these days is more about things like,</p>
@@ -41,11 +41,11 @@ image:    "icon-ownership-is.svg"
 <h1 id="_minemine">MINE! MINE!</h1>
  <p>Anything a toddler comes in contact with is &ldquo;MINE! MINE!&rdquo;. It likely has to do with the fact that,
   <ul>
-   <li>Anything and everything we come in contact with, and doesn&rsquo;t harm us, can, according to our brains,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> extend our bodies and it appropriates it easily and swiftly (<em>i.e.</em>, unconciously).</li>
+   <li>Anything and everything we come in contact with, and doesn&rsquo;t harm us, can, according to our brains,<a href="#en05"><sup id="bm05">&nabla;&hairsp;</sup></a> extend our bodies and it appropriates it easily and swiftly (<em>i.e.</em>, unconciously).</li>
    <li>And, of course, anything that is part of our body cannot be let go just like that.</li>
   </ul>
- <p>It all goes to say that possession is a very real, intrinsic thing and we should not pretend otherwise. We tried believing that &ldquo;a new man&rdquo;<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a> would rise who would not be attached to possessions. However, that&rsquo;s not the way it went. Not at all.</p>
- <p>What about the farming-led-to-ownership story? Well, let&rsquo;s just say that that it is just a story, and not very convincing. In any case, none us were there and we are all guessing. These days, it makes more sense to me that the whole possession-to-ownership thing had more to do with the invention of coinage,<a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a> another grand human invention.</p>
+ <p>It all goes to say that possession is a very real, intrinsic thing and we should not pretend otherwise. We tried believing that &ldquo;a new man&rdquo;<a href="#en06"><sup id="bm06">&nabla;&hairsp;</sup></a> would rise who would not be attached to possessions. However, that&rsquo;s not the way it went. Not at all.</p>
+ <p>What about the farming-led-to-ownership story? Well, let&rsquo;s just say that that it is just a story, and not very convincing. In any case, none us were there and we are all guessing. These days, it makes more sense to me that the whole possession-to-ownership thing had more to do with the invention of coinage,<a href="#en07"><sup id="bm07">&nabla;&hairsp;</sup></a> another grand human invention.</p>
 
 <h1>Going Forward</h1>
  <p>What happened in the past cannot be changed of fixed in the present. What counts is what we do <em>going forward</em> (<em>i.e.</em>, and preferably, what we do to make sure that long-term errors of the past <em>do not</em> persist).</p>

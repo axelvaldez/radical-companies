@@ -24,7 +24,7 @@ image:    "icon-get-rid-of-ownership.svg"
  <p>To top it off, corporate ownership is fixed, forever.</p>
 
 <h1>Personal Ownership is Good</h1>
- <p>On the other hand, personal ownership<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> is a good thing: this is my house, not yours; this is your toothbrush, not mine.</p>
+ <p>On the other hand, personal ownership<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> is a good thing: this is my house, not yours; this is your toothbrush, not mine.</p>
  <p>We (mostly) don’t have to fight over it.</p>
 
 <h1>Fixed Ownership is Bad</h1>

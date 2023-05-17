@@ -16,7 +16,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <p><span class="_quotespan">Greedy bastard, aren&rsquo;t you getting enough?</span></p>
   <p><span class="_quotespan">You didn&rsquo;t win because you didn&rsquo;t dare to, coward.</span></p>
  </div>
- <p>Lazy. Greedy. Cowardly. These are violent words, the words of gloating and  shaming. The words of competition. Typical behavior, even when we are being nice.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Lazy. Greedy. Cowardly. These are violent words, the words of gloating and  shaming. The words of competition. Typical behavior, even when we are being nice.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
 
 <h1>It Won&rsquo;t Work</h1>
  <p>Even when <em>we say</em> we want to collaborate, we are most likely competing, aiming to dominate. That&rsquo;s all we&rsquo;ve learned and all we see in the world around us. And, so, that&rsquo;s what we do even when we intend to do otherwise.</p>

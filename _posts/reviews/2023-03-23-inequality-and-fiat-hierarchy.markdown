@@ -13,11 +13,11 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
 <h1>&nbsp;</h1>
  <div class="_citation">
   <span class="_quotespan">Growing inequality is caused by a redistribution of income within hierarchies.</span>
-  <span id="_signature">Blair Fix, <em>Redistributing Income Through Hierarchy</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></span>
+  <span id="_signature">Blair Fix, <em>Redistributing Income Through Hierarchy</em>.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></span>
  </div>
 
 <h1>My Summary</h1>
- <p>The author of <em>Redistributing Income Through Hierarchy</em>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Blair Fix, comes to the conclusion that, <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span> Unfortunately, <span class="_quotespan">&hellip; the study of income distribution became dominated by human capital theory , which focused on personal traits and neglected &lsquo;structural&rsquo; explanations of income.</span>
+ <p>The author of <em>Redistributing Income Through Hierarchy</em>,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> Blair Fix, comes to the conclusion that, <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span> Unfortunately, <span class="_quotespan">&hellip; the study of income distribution became dominated by human capital theory , which focused on personal traits and neglected &lsquo;structural&rsquo; explanations of income.</span>
 
 <h1>Hierarchical Power</h1>
  <p>A few facts,</p>
@@ -66,11 +66,11 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
   </div>
 
 <h1>Like Water to Fish</h1>
-  <p><span class="_paradigm">FIAT</span> hierarchy is not only <span class="_quotespan">a ubiquitous feature of human organization,</span> it is the only system we can <em>think</em> of. All &ldquo;revolutions&rdquo; have been but variations of it.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p><span class="_paradigm">FIAT</span> hierarchy is not only <span class="_quotespan">a ubiquitous feature of human organization,</span> it is the only system we can <em>think</em> of. All &ldquo;revolutions&rdquo; have been but variations of it.<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></p>
   <p>The <span class="_paradigm">RADICAL</span> system is an alternative,</p>
    <ul>
     <li>Meaning and belonging (people) are at the root of it.</li>
-    <li>All forms of organizations are decentralied and transparent.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></li>
+    <li>All forms of organizations are decentralied and transparent.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></li>
    </ul>
 
 <h1 class="_section">ENDNOTES</h1>

@@ -22,7 +22,7 @@ image:    "icon-chasing-wealth-and-status-the-illusion-of-happiness.svg"
    </tr>
    <tr>
     <td class="_center">
-     <span>Seen in Sydney, Australia.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></span>
+     <span>Seen in Sydney, Australia.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></span>
     </td>
    </tr>
   </table>
