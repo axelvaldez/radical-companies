@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Pain: Anxierty and Depression"
+title:    "Pain: Anxiety and Depression"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-pain-anxiety=and-depression.svg"
