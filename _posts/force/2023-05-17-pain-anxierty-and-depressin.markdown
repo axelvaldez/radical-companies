@@ -22,7 +22,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
  <p>But pain is the common thing.</p>
 
 <h1>p71</h1>
- <p>People born post 1971 grew up in an economy very different from the one I grew up in (I was worn in 1951). For me it was growth and oppoutnities, post 71 it no growth and limited opportunities.
+ <p>People born post 1971 grew up in an economy very different from the one I grew up in (I was worn in 1951). For me it was wild growth and oppoutnities all around. Post 1971 it has been no growth and limited opportunities.
   <div class="_center">
    <img
     src="/assets/img/pic-pain-anxiety-and-depression.svg"
