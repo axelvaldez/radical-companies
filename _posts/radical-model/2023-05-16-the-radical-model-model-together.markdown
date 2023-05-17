@@ -11,6 +11,7 @@ image:    "icon-the-radical-model-coming-together.svg"
 </div>
 
  <div class="_center">
+ 
   <img
    src="/assets/img/pic-the-radical-model-coming-together.svg"
    width="90%"
