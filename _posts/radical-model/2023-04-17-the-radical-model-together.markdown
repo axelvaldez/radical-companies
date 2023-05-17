@@ -3,7 +3,7 @@ layout:   post
 title:    "The RADICAL Model Together"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-ptsd-and-trust.svg"
+image:    "icon-the-radical-model-together.svg"
 ---
 
 <div style="display:none;">
