@@ -18,7 +18,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
 
 <h1>A Different Take</h1>
  <p>My take is that anxiety and depression are two aspects of pain. They are different as far as our brains are concerned, but they are alike in that they cause pain.</p>
- <p>My children both suffered from depression, one of them had it worse than the other. A while back he was diagnosed as having anxiety which causes depression. After some adjustments to newly prescribed medicines, he is doing fine. I am thankful that they found the &ldquo;right&rdquo; part of the brain to medicate.</p>
+ <p>My children both suffered from depression, one of them had it worse than the other. A while back he was diagnosed as having anxiety which causes depression. After some adjustments to newly prescribed medicines, he is doing fine. I am thankful that they found the &ldquo;right&rdquo; parts of the brain to medicate.</p>
  <p>But pain is the common thing.</p>
 
 <h1>p71</h1>
