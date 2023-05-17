@@ -3,7 +3,7 @@ layout:   post
 title:    "The RADICAL Model. Coming Together"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-the-radical-model-coming-together.svg"
+image:    "pic-the-radical-model-coming-together"
 ---
 
 <div style="display:none;">
