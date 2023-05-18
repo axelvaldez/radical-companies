@@ -18,6 +18,6 @@ image:    "icon-let-them-live-it.svg"
     alt="">
   </div>
  <p>&nbsp;</p> 
- <p>I think the <em><span class='_paradigm'>RAD</span>s!</em> tool, the distribution of <span class='_paradigm'>RAD</span>s, and factoring revenue through them will have that effect. People have to experience non-<span class='_paradigm'>FIAT</span> and associate an emotion to it before they can love it (or hate it).</p>
+ <p>People have to experience non-<span class='_paradigm'>FIAT</span> and associate an emotion to it before they can love it (or hate it). The combination of the <em><span class='_paradigm'>RAD</span>s!</em> mobile app so people can recognize contribution <em>and</em> the factoring of revenue through them will give people a chance to create an emotional attachement to <span class='_paradigm'>RAD</span>s and the overall system. They <em>have to</em> experience co-ownership to realize the power of it.</p>
 
 {% include related.html %}
