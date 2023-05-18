@@ -51,62 +51,62 @@ image:    "icon-ptsd-and-trust.svg"
  <span class="_quotespan">xxx</span>
 
 <!-- proto-image -->
- <div class="_center">
-  <img
-   src="/assets/img/en-alignment.svg"
-   width="70%"
-   alt="">
- </div>
+  <div class="_center">
+   <img
+    src="/assets/img/en-alignment.svg"
+    width="70%"
+    alt="">
+  </div>
 
 <!-- proto-table -->
  <div class="_center">
-  <table class="_foundation">
-   <tr>
-    <th></th>
-    <td></td>
-   </tr>
-  </table>
- </div> 
+   <table class="_foundation">
+    <tr>
+     <th></th>
+     <td></td>
+    </tr>
+   </table>
+  </div> 
 
 <!-- FOUNDATION  Table -->
- <div class="_center">
-  <table class="_h2table">
-   <tr>
-    <th>people</th>
-    <td>Meaning & Belonging</td>
-   </tr>
-   <tr>
-    <th>commitments</th>
-    <td>Decentralization & Transparency</td>
-   </tr>
-   <tr>
-    <th>practices</th>
-    <td>Experimentation</td>
-   </tr>
-  </table>
- </div>
+  <div class="_center">
+   <table class="_h2table">
+    <tr>
+     <th>people</th>
+     <td>Meaning & Belonging</td>
+    </tr>
+    <tr>
+     <th>commitments</th>
+     <td>Decentralization & Transparency</td>
+    </tr>
+    <tr>
+     <th>practices</th>
+     <td>Experimentation</td>
+    </tr>
+   </table>
+  </div>
 
 <!-- Two-Column Table -->
- <div class="_center">
-  <table class="_h2table">
-   <tr>
-    <th>What for?</th>
-    <td>Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras.</td>
-   </tr>
-   <tr>
-    <th>Why?</th>
-    <td>Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras.</td>
-   </tr>
-   <tr>
-    <th>
-     What?<br>
-     When?<br>
-     How?
-    </th>
-    <td>Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras.</td>
-   </tr>
-  </table>
- </div>
+  <div class="_center">
+   <table class="_h2table">
+    <tr>
+     <th>What for?</th>
+     <td>Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras.</td>
+    </tr>
+    <tr>
+     <th>Why?</th>
+     <td>Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras.</td>
+    </tr>
+    <tr>
+     <th>
+      What?<br>
+      When?<br>
+      How?
+     </th>
+     <td>Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras.</td>
+    </tr>
+   </table>
+  </div>
 
 <!-- EXPLICIT ALIGNMENT Table -->
  <div class="_center">
