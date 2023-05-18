@@ -21,7 +21,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
    <p>Some 2,500 years ago, the ancient Greeks identified air</p>
    <p id="_signature">International Historic Chemical Landmark<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
   </div>
- <p>We don&rsquo;t have a label for the system we have created, so we called it <span class='_paradigm'>FIAT</span>, <span class="_quotespan">Because I say so,</span> with an implied threat, <span class="_quotespan">or else</span>. That is the system we live in.</p>
+ <p>We don&rsquo;t have a label for this system, so we called it <span class='_paradigm'>FIAT</span>, <span class="_quotespan">Because I say so,</span> with an implied threat, <span class="_quotespan">or else</span>. This is the system we live in.</p>
   <div class="_center">
    <img
     src="/assets/img/pic-fiat-fear-force-or-pain.svg"
