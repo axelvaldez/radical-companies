@@ -28,7 +28,7 @@ image:    "icon-ptsd-and-trust.svg"
 <h1></h1>
  <span class="_em">xxx</span>
 
-<!-- RADICAL | FIAT | RAD | rCOIN -->
+<!-- RADICAL | FIAT | RAD | rCOIN |  -->
 <h1></h1>
  (RADICAL|FIAT|RAD|BANNER|rCOIN)
  <span class='_paradigm'>$1</span>
