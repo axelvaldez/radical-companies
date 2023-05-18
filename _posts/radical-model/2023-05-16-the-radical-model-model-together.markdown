@@ -18,6 +18,6 @@ image:    "icon-the-radical-model-coming-together.svg"
  </div>
 
 <h1>Missing</h1>
- <p>There are still elmenents that don&rsquo;t appear in this picture, <span class='_paradigm'>PAIN</span> and <span class='_paradigm'>SURVIVAL</span>. MAybe in the future.</p>
+ <p>There are still elmenents that don&rsquo;t appear in this picture, <span class='_paradigm'>PAIN</span>, and <span class='_paradigm'>WELLBEING</span>. <span class='_paradigm'>SURVIVAL</span> is also meeting which is really closer to the root. Maybe in the future.</p>
 
 {% include related.html %}
