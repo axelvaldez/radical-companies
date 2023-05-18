@@ -51,7 +51,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
     &lt;<a href="https://radicals.world/PQ372x" target="_blank">https://radicals.world/PQ372x</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
-  </li>)
+  </li>
   <li id="en02">
    <p class="_list-item">
     We call it co-management because there really is not &ldquo;self&rdquo; when it comes to an thing, only people can co-manage.
