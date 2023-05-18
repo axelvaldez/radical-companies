@@ -31,6 +31,12 @@ image:    "icon-pain-anxiety=and-depression.svg"
   </div>
  <p>I don&rsquo;t know if there is any correclation or this is just coincidence, but I believe that said &ldquo;explosion&rdquo; of anxiety and depression diagnoses have to do with this. We raised our children for a world that never materialized. And so they are more sensitive to the fact that they are close to pain and there&rsquo;re only limited ways out.</p>
  <p>In any case the &ldquo;out&rdquo; is to the <span class='_paradigm'>FIAT</span> system, something that they&rsquo;ve watched in us and are not excited about. And they don&rsquo;t want it for their children, either.</p>
+  <div class="_center">
+   <img
+    src="/assets/img/pic-fiat-fear-force-or-pain.svg"
+    width="70%"
+    alt="">
+  </div>
 
 <h1>Co-Ownership</h1>
  <p>Excuse me for repeating myself, but co-ownership, co-management, and something like the <span class='_paradigm'>RADICAL</span> system is closer to what they may be wishing for. Self-management is being accepted and celebrated (we call it co-management because there really is not &ldquo;self&rdquo; when it comes to an thing, only people can co-manage). Good for co-management, but we also need co-ownership. You are encouraged by experts to &ldquo;think like an owner,&rdquo; but you are not. When you are a co-owner, you behave like an owner, because you are.</p>
