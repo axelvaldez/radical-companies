@@ -7,7 +7,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
 ---
 
 <div style="display:none;">
- <p><span class="_quotespan">We are currently facing the biggest social, economic, and cultural opportunity of our lifetimes</span>, that is what Leo believes.</p>
+ <p><span class="_quotespan">We are currently facing the biggest social, economic, and cultural opportunity of our lifetimes</span>.</p>
 </div>
 
 <h1>&nbsp;</h1>
