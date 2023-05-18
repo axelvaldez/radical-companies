@@ -19,6 +19,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
  <p><span class='_paradigm'>FIAT</span> is the water that we fish live in. It is so encompassing that it has become invisible, like air,</p>
   <div class="_citation">
    <p>Some 2,500 years ago, the ancient Greeks identified air</p>
+   <p id="_signature">International Historic Chemical Landmark<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
   </div>
  <p>We don&rsquo;t have a label for the system we have created, so we called it <span class='_paradigm'>FIAT</span>, <span class="_quotespan">Because I say so,</span> with an implied threat, <span class="_quotespan">or else</span>. That is the system we live in.</p>
   <div class="_center">
@@ -28,5 +29,16 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
     alt="">
   </div>
  <p>Alternative to non-<span class='_paradigm'>FIAT</span> system does not yet exist, but they will.</p>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    <em>Joseph Priestley and the Discovery of Oxygen</em>.
+    &lt;<a href="https://radicals.world/QKp7iW" target="_blank">https://radicals.world/QKp7iW</a>&gt;
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
 
 {% include related.html %}
