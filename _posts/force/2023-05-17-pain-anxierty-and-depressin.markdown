@@ -39,7 +39,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
   </div>
 
 <h1>Co-Ownership</h1>
- <p>Excuse me for repeating myself, but co-ownership, co-management, and something like the <span class='_paradigm'>RADICAL</span> system is closer to what they may be wishing for. Self-management is being accepted and celebrated (we call it co-management because there really is not &ldquo;self&rdquo; when it comes to an thing, only people can co-manage). Good for co-management, but we also need co-ownership. You are encouraged by experts to &ldquo;think like an owner,&rdquo; but you are not. When you are a co-owner, you behave like an owner, because you are.</p>
+ <p>Excuse me for repeating myself, but co-ownership, co-management, and something like the <span class='_paradigm'>RADICAL</span> system is closer to what they may be wishing for. Self-management is being accepted and celebrated. We call it co-management<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> and good for it, but we also need co-ownership. You are encouraged by experts to &ldquo;think like an owner,&rdquo; but you are not. When you are a co-owner, you behave like an owner, because you are.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
@@ -48,8 +48,14 @@ image:    "icon-pain-anxiety=and-depression.svg"
     <em>AI voice coach shows promosice in depression, anxiety treatment</em>.
     University of Illinois, Chicago
     May 17, 2023.
-    &lt;<a href="https://…" target="_blank">https://…</a>&gt;
+    &lt;<a href="https://radicals.world/PQ372x" target="_blank">https://radicals.world/PQ372x</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>)
+  <li id="en02">
+   <p class="_list-item">
+    We call it co-management because there really is not &ldquo;self&rdquo; when it comes to an thing, only people can co-manage.
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
