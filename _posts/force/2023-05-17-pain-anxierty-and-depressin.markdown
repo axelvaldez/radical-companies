@@ -26,7 +26,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
   <div class="_center">
    <img
     src="/assets/img/pic-pain-anxiety-and-depression.svg"
-    width="70%"
+    width="90%"
     alt="">
   </div>
  <p>I don&rsquo;t know if there is any correclation or this is just coincidence, but I believe that said &ldquo;explosion&rdquo; of anxiety and depression diagnoses have to do with this. We raised our children for a world that never materialized. And so they are more sensitive to the fact that they are close to pain and there&rsquo;re only limited ways out.</p>
