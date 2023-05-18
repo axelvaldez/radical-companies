@@ -20,7 +20,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
   <div class="_citation">
    <p>Some 2,500 years ago, the ancient Greeks identified air</p>
   </div>
- <p>We don&rsquo;t have a label for the system we have created, so we called it <span class='_paradigm'>FIAT</span>, <span class="_quotespan">Because I say so,</span> with an implied three, <span class="_quotespan">or else</span>. That is the system we live in.</p>
+ <p>We don&rsquo;t have a label for the system we have created, so we called it <span class='_paradigm'>FIAT</span>, <span class="_quotespan">Because I say so,</span> with an implied threat, <span class="_quotespan">or else</span>. That is the system we live in.</p>
   <div class="_center">
    <img
     src="/assets/img/pic-fiat-fear-force-or-pain.svg"
