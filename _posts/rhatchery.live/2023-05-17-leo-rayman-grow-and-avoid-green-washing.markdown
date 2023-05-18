@@ -15,7 +15,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
  <p>Leo was a marketeer, but he made a career changing decision a year ago. Instead of word-smithing green-washing messages, show the world how to become sustainable. He works with big (BIG) companies, but he has more hope for smaller ones who can learn to be good to our life support system and grow faster.</p>
  <p>I believe that truly sustainable businesses will differentiate themselves and thrive. Many with stay in the <span class='_paradigm'>FIAT</span> trough, but some will choose non-<span class='_paradigm'>FIAT</span> ways.</p>
 
-<h1>&nbsp;</h1>
+<h1>FIAT?</h1>
  <p><span class='_paradigm'>FIAT</span> is the water that we fish live in. It is so encompassing that it has become invisible, like air,</p>
   <div class="_citation">
    <p>Some 2,500 years ago, the ancient Greeks identified air</p>
@@ -28,7 +28,13 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
     width="70%"
     alt="">
   </div>
- <p>Alternative to non-<span class='_paradigm'>FIAT</span> system does not yet exist, but they will.</p>
+ <p>Alternative to non-<span class='_paradigm'>FIAT</span> system does not yet exist, but they will. The first step is to be aware of it,</p>
+  <div class="_center">
+   <img
+    src="/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg"
+    width="70%"
+    alt="">
+  </div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
