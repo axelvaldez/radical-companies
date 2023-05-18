@@ -42,6 +42,9 @@ image:    "icon-ptsd-and-trust.svg"
  <span class='_paradigm'>Decentralization</span>
  <span class='_paradigm'>Transparency</span>
  <span class='_paradigm'>Experimentation</span>
+ <span class='_paradigm'>PAIN</span>
+ <span class='_paradigm'>FORCE</span>
+ <span class='_paradigm'>SURVIVAL</span>
 
 <!-- QUOTESPAN -->
 <h1></h1>

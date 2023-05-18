@@ -17,4 +17,7 @@ image:    "icon-the-radical-model-coming-together.svg"
    alt="On the bottom left an inverted pyramind with MEAINING & BELONGIN at the bottom, EXPERIMENTATION above it, and DECENTRALIZATION & TRANSPARANCY on the top. to the right of it is the workd FOUNDATION. Above the foundation is CO-OWNERSHIP and CO-MANAGEENT. To the right of there is a box with RADs! Mobile App, Explicit Relationships, Explitcit Alignment, and Explicit Profile.">
  </div>
 
+<h1>Missing</h1>
+ <p>There are still elmenents that don&rsquo;t appear in this picture, <span class='_paradigm'>PAIN</span> and <span class='_paradigm'>SURVIVAL</span>. MAybe in the future.</p>
+
 {% include related.html %}
