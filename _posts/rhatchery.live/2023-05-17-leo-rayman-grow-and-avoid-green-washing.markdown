@@ -27,6 +27,6 @@ image:    "icon-leo-raymon-grow-and-avoid-green-washing.svg"
     width="70%"
     alt="">
   </div>
- <p>The alternative non-<span class='_paradigm'>FIAT</span> system does not yet exist, but it will.</p>
+ <p>Alternative to non-<span class='_paradigm'>FIAT</span> system does not yet exist, but they will.</p>
 
 {% include related.html %}
