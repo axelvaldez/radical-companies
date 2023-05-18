@@ -7,7 +7,7 @@ image:    "icon-let-them-live-it.svg"
 ---
 
 <div style="display:none;">
- <p>People have to experience non-FIAT and associate an emotion to it before they can love it.</p>
+ <p>People have to experience non-<span class='_paradigm'>FIAT</span> and associate an emotion to it before they can love it.</p>
 </div>
 
 <h1>&nbsp;</h1>
@@ -17,6 +17,6 @@ image:    "icon-let-them-live-it.svg"
     width="70%"
     alt="">
   </div>
- <p>I think the <em><span class='_paradigm'>RAD</span>s!</em> tool, the distribution of <span class='_paradigm'>RAD</span>s, and factoring revenue through them will have that effect. People have to experience whatever non-FIAT and associate an emotion to it before they can love it (or hate it).</p>
+ <p>I think the <em><span class='_paradigm'>RAD</span>s!</em> tool, the distribution of <span class='_paradigm'>RAD</span>s, and factoring revenue through them will have that effect. People have to experience non-<span class='_paradigm'>FIAT</span> and associate an emotion to it before they can love it (or hate it).</p>
 
 {% include related.html %}
