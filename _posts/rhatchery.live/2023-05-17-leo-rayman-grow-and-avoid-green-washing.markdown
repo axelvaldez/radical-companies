@@ -28,7 +28,8 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
     width="70%"
     alt="">
   </div>
- <p>Alternatives to non-<span class='_paradigm'>FIAT</span> systems do not yet exist, but they will. The first step is to be aware of it,</p>
+ <p>Alternatives to non-<span class='_paradigm'>FIAT</span> systems have not been implemented, yet, but they will.</p>
+ <p>The first step is to be aware of it, to <em>see</em> it,</p>
   <div class="_center">
    <img
     src="/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg"
