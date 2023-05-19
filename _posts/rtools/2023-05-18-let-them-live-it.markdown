@@ -17,7 +17,6 @@ image:    "icon-let-them-live-it.svg"
     <p id="_signature">R Buckmister Fuller</p>
    </div>
   </div>
- <p>&nbsp;</p> 
  <p>People have to experience non-<span class='_paradigm'>FIAT</span> and associate an emotion to it before they can love it (or hate it). The <em><span class='_paradigm'>RAD</span>s!</em> mobile app lets co-owners recognize contributions. Later revenue is factored throuh the <span class='_paradigm'>RAD</span>s and make those contribitons tagible. They get to experience the power of co-ownership, they get to live it, and that is how they get it.</p>
 
 {% include related.html %}
