@@ -30,7 +30,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
     alt="">
   </div>
  <p>I don&rsquo;t know if there is any correclation or this is just coincidence, but I believe that said &ldquo;explosion&rdquo; of anxiety and depression diagnoses have to do with this. We raised our children for a world that never materialized. And so they are more sensitive to the fact that they are close to pain and there&rsquo;re only limited ways out.</p>
- <p>In any case the &ldquo;out&rdquo; is to the <span class='_paradigm'>FIAT</span> system, something that they&rsquo;ve watched in us and are not excited about. And they don&rsquo;t want it for their children, either.</p>
+ <p>In any case the &ldquo;out&rdquo; would be to the <span class='_paradigm'>FIAT</span> system, something that they&rsquo;ve watched their parents go through and are not excited about for themselves or for their children.</p>
   <div class="_center">
    <img
     src="/assets/img/pic-fiat-fear-force-or-pain.svg"
