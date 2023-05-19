@@ -56,7 +56,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
   </li>
   <li id="en02">
    <p class="_list-item">
-    We call it co-management because there really is not &ldquo;self&rdquo; when it comes to an thing, only people can co-manage.
+    We call it co-management because there really is not &ldquo;self&rdquo; when it comes to an thing like a business. Only people can co-manage.
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
