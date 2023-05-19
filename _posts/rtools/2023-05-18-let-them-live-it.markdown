@@ -18,6 +18,6 @@ image:    "icon-let-them-live-it.svg"
     alt="">
   </div>
  <p>&nbsp;</p> 
- <p>People have to experience non-<span class='_paradigm'>FIAT</span> and associate an emotion to it before they can love it (or hate it). The combination of the <em><span class='_paradigm'>RAD</span>s!</em> mobile app so people can recognize contribution <em>and</em> the factoring of revenue through them will give people a chance to create an emotional attachement to <span class='_paradigm'>RAD</span>s and the overall system. They <em>have to</em> experience co-ownership to realize the power of it.</p>
+ <p>People have to experience non-<span class='_paradigm'>FIAT</span> and associate an emotion to it before they can love it (or hate it). The <em><span class='_paradigm'>RAD</span>s!</em> mobile app lets co-owners recognize contributions. Later revenue is factored throuh the <span class='_paradigm'>RAD</span>s and make those contribitons tagible. They get to experience the power of co-ownership, they get to live it, and that is how they get it.</p>
 
 {% include related.html %}
