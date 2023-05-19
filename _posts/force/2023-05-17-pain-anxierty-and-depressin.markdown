@@ -7,7 +7,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
 ---
 
 <div style="display:none;">
-  <p>&rlquo;We&rsquo;ve had an incredible explosion of need&hellip; with soaring rates of anxiety and depression&rdquo;</p>
+ <p>&ldquo;We&rsquo;ve had an incredible explosion of need&hellip; with soaring rates of anxiety and depression&rdquo;</p>
 </div>
 
 <h1>&nbsp;</h1>
