@@ -13,10 +13,16 @@ image:    "icon-let-them-live-it.svg"
 <h1>&nbsp;</h1>
   <div class="_center">
    <div class="_citation">
-    <p>You can&rsquo;t change the people think. All you can do is give them a tool, the use of which will change their thinking.</p>
+    <p>You can&rsquo;t change the way people think. All you can do is give them a tool, the use of which will change their thinking.</p>
     <p id="_signature">R Buckmister Fuller</p>
    </div>
   </div>
- <p>People have to experience non-<span class='_paradigm'>FIAT</span> and associate an emotion to it before they can love it (or hate it). The <em><span class='_paradigm'>RAD</span>s!</em> mobile app lets co-owners recognize contributions. Later revenue is factored throuh the <span class='_paradigm'>RAD</span>s and make those contribitons tagible. They get to experience the power of co-ownership, they get to live it, and that is how they get it.</p>
+ <p>People have to experience an alternative to <span class='_paradigm'>FIAT</span> and associate an emotion to it before they can love it (or hate it). The <em><span class='_paradigm'>RAD</span>s!</em> mobile app serves that purpose,
+  <ul>
+   <li>It lets co-owners recognize contributions.</li>
+   <li>From the recognized contribution, the app figures out the number of <span class='_paradigm'>RAD</span>s each co-owner gets.</li>
+   <li>Revenue, for example, is factored throuh the <span class='_paradigm'>RAD</span>s and make those contribitons tagible.</li>
+  </ul>
+  <p>The <em><span class='_paradigm'>RAD</span>s!</em> mobile app makes it possible for people to live and experience an alternative to <span class='_paradigm'>FIAT</span>.</p>
 
 {% include related.html %}
