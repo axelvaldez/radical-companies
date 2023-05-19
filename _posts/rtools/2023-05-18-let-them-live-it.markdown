@@ -23,6 +23,6 @@ image:    "icon-let-them-live-it.svg"
    <li>From the recognized contribution, the app figures out the number of <span class='_paradigm'>RAD</span>s each co-owner gets.</li>
    <li>Revenue, for example, is factored throuh the <span class='_paradigm'>RAD</span>s and make those contribitons tagible.</li>
   </ul>
-  <p>The <em><span class='_paradigm'>RAD</span>s!</em> mobile app makes it possible for people to live and experience an alternative to <span class='_paradigm'>FIAT</span>.</p>
+  <p>The <em><span class='_paradigm'>RAD</span>s!</em> mobile app makes it possible for people experience an alternative to <span class='_paradigm'>FIAT</span>.</p>
 
 {% include related.html %}
