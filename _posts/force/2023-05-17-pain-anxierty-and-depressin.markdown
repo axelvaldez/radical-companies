@@ -39,7 +39,9 @@ image:    "icon-pain-anxiety=and-depression.svg"
   </div>
 
 <h1>Co-Ownership</h1>
- <p>Excuse me for repeating myself, but co-ownership, co-management, and something like the <span class='_paradigm'>RADICAL</span> system is closer to what they may be wishing for. Self-management is being accepted and celebrated. We call it co-management<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> and good for it, but we also need co-ownership. You are encouraged by experts to &ldquo;think like an owner,&rdquo; but you are not. When you are a co-owner, you behave like an owner, because you are.</p>
+ <p>Cco-ownership, co-management, and something like the <span class='_paradigm'>RADICAL</span> system is closer to what they may be wishing for. Instead of self-managekejt, we call it co-management<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a>, but whatever you call it, we also need co-ownership, decentralized ownership.</p>
+ <p>I often see <em>experts</em> encouraging you to &ldquo;think like an owner.&rdquo; But you are not, so all that enouragement is wasted.</p>
+ <p>On the other hand, as a co-owner you behave like an owner, because you are. No &ldquo;encouragement&rdquo; needed.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
