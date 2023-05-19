@@ -17,7 +17,7 @@ image:    "icon-let-them-live-it.svg"
     <p id="_signature">R Buckmister Fuller</p>
    </div>
   </div>
- <p>People have to experience an alternative to <span class='_paradigm'>FIAT</span> and associate an emotion to it before they can love it (or hate it). The <em><span class='_paradigm'>RAD</span>s!</em> mobile app serves that purpose,
+ <p>People have to experience an alternative to <span class='_paradigm'>FIAT</span> and associate an emotion with it before they can love it (or hate it). The <em><span class='_paradigm'>RAD</span>s!</em> mobile app serves that purpose,
   <ul>
    <li>It lets co-owners recognize contributions.</li>
    <li>From the recognized contribution, the app figures out the number of <span class='_paradigm'>RAD</span>s each co-owner gets.</li>
