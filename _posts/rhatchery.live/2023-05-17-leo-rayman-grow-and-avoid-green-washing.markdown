@@ -30,6 +30,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
     width="70%"
     alt="">
   </div>
+ <p>This means that we went for thousands of year without noticing air.</p>
 
 <h1>Alt</h1>
  <p>Alternatives to non-<span class='_paradigm'>FIAT</span> systems have not been implemented, yet, but they will. The first step is to be aware of it, to <em>see</em> it,</p>
