@@ -13,4 +13,7 @@ image:    "icon-how-fiat-developed.svg"
 <h1>&nbsp;</h1>
  <p>It should be called <em>How FIAT developed, according to me.</em> I don&rsquo;t even claim that this true, just that it plausible.</p>
 
+<h1>The Ys</h1>
+ <p>I will use <em>the Ys</em> to refer to the character of Jeus (Yassoo) in the Christian Bible. We really don&rsquo;t know if there was such a person, or a number of people, or if was the prevailing feeling at the time that it was Jews exploiting Jews, using Romans as muscle. Because that is what the story of the Ys is all about.</p>
+
 {% include related.html %}
