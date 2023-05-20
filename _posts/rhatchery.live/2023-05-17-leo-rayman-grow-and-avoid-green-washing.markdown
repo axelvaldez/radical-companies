@@ -33,7 +33,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
   </div>
 
 <h1>Alt</h1>
- <p>Alternatives to non-<span class='_paradigm'>FIAT</span> systems have not been implemented, yet, but they will. The first step is to be aware of it, to <em>see</em> it,</p>
+ <p>Alternatives to non-<span class='_paradigm'>FIAT</span> systems have not been implemented, yet, but they will. The first step is to be aware of it, to <em>see</em> it,<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></p>
   <div class="_center">
    <img
     src="/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg"
@@ -57,6 +57,13 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
     <em>Joseph Priestley and the Discovery of Oxygen</em>.
     &lt;<a href="https://radicals.world/QKp7iW" target="_blank">https://radicals.world/QKp7iW</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    As in the movie <em>They Live!</em>
+    &lt;<a href="https://en.wikipedia.org/wiki/They_Live" target="_blank">https://en.wikipedia.org/wiki/They_Live</a>&gt;
+    <a class="_uparrow" href="#bm023><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
