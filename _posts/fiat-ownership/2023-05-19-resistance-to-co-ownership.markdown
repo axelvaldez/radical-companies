@@ -26,13 +26,13 @@ image:    "icon-resistance-to-co-ownership.svg"
  <p>These folks are more likely to reject, possibly strongly, anything that sounds like a change to the system that they have learned used to <em>win.</em></p>
 
 <h1>Co-Onwership Is a Big, Tough Change</h1>
- <p>Co-ownership makes it possible for everybody to be a co-owner. Everybody, not just the selected few who learned how to use the system to win and have power over others. Simple as that.</p>
- <p>But resistance to change is understandable and <em>to be expected</em>.</p>
- <div class="_center">
-  <img
-   src="/assets/img/pic-resistance-to-co-ownership.svg"
-   width="70%"
-   alt="A three-level pyramid with WORSE OFF at the bottom, BETTER OFF in the middle, and OWNERS at the top. The WORSE and BETTER OFF levels are labeled NOn-OWNERS.">
- </div>
+ <p>Co-ownership makes it possible for everybody to be a co-owner. Everybody, not just the selected few who learned how to use the system to financially win and have power over others. Simple as that.</p>
+ <p>But resistance to change is understandable and <em>to be expected</em>. Resistance will come from everywhere.</p>
+  <div class="_center">
+   <img
+    src="/assets/img/pic-resistance-to-co-ownership.svg"
+    alt="A three-level pyramid with WORSE OFF at the bottom, BETTER OFF in the middle, and OWNERS at the top. The WORSE and BETTER OFF levels are labeled NOn-OWNERS."
+    width="70%">
+  </div>
 
 {% include related.html %}
