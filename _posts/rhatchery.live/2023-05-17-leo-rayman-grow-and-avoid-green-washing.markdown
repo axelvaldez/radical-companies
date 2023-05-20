@@ -32,7 +32,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
   </div>
   </div>
 
-<h1>Non-FIAT?</h1>
+<h1>Alt</h1>
  <p>Alternatives to non-<span class='_paradigm'>FIAT</span> systems have not been implemented, yet, but they will.</p>
  <p>The first step is to be aware of it, to <em>see</em> it,</p>
   <div class="_center">
