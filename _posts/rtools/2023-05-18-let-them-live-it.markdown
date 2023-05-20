@@ -7,7 +7,7 @@ image:    "icon-let-them-live-it.svg"
 ---
 
 <div style="display:none;">
- <p>People have to experience non-<span class='_paradigm'>FIAT</span> and associate an emotion with it before they can figure out if they love it.\, or hate, or somethinmg in between.</p>
+ <p>People have to experience non-<span class='_paradigm'>FIAT</span> and associate an emotion with it before they can figure out if they love it, or hate, or somethinmg in between.</p>
 </div>
 
 <h1>&nbsp;</h1>
