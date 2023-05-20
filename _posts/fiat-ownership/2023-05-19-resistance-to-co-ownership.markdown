@@ -15,9 +15,6 @@ image:    "icon-resistance-to-co-ownership.svg"
  <p id="_signature">Blair Fix, Economics from the Top Down</p>
 </div>
 
-<h1>&nbsp;</h1>
- <p>Resistance to co-ownership will come from everywhere.</p>
-
 <h1>Non-Owners to Owners</h1>
  <p>People who,</p>
   <ul>
