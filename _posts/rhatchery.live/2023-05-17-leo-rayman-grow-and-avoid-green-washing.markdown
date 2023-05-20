@@ -30,7 +30,6 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
     width="70%"
     alt="">
   </div>
-  </div>
 
 <h1>Alt</h1>
  <p>Alternatives to non-<span class='_paradigm'>FIAT</span> systems have not been implemented, yet, but they will.</p>
