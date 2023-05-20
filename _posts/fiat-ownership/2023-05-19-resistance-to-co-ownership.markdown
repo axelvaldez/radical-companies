@@ -3,7 +3,7 @@ layout:   post
 title:    "Resistance to Co-Ownership"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-resistance-to-co-ownership.svg"resoistance
+image:    "icon-resistance-to-co-ownership.svg"
 ---
 
 <div style="display:none;">
