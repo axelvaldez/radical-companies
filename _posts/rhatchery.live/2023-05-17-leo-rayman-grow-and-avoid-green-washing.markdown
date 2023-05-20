@@ -24,7 +24,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
  <p>This means that we went for thousands of year without noticing air.</p>
 
 <h1>FIAT? What&rsquo;s That?</h1>
- <p>We don&rsquo;t have a label for the system we live in, so we called it <span class='_paradigm'>FIAT</span>, <span class="_quotespan">Because I say so,</span> with an implied threat, <span class="_quotespan">or else</span>,.</p>
+ <p>We don&rsquo;t have a label for the system we live in, so we called it <span class='_paradigm'>FIAT</span>, <span class="_quotespan">Because I say so,</span> with an implied threat, <span class="_quotespan">or else</span>,</p>
   <div class="_center">
    <img
     src="/assets/img/pic-fiat-fear-force-or-pain.svg"
