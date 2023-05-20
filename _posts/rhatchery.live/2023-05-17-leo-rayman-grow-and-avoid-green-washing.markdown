@@ -63,7 +63,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
    <p class="_list-item">
     As in the movie <em>They Live!</em>
     &lt;<a href="https://en.wikipedia.org/wiki/They_Live" target="_blank">https://en.wikipedia.org/wiki/They_Live</a>&gt;
-    <a class="_uparrow" href="#bm023><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
