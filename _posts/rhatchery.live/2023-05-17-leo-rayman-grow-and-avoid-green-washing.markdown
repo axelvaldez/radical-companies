@@ -16,7 +16,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
  <p>I believe that truly sustainable businesses will differentiate themselves and thrive. Many with stick to the <span class='_paradigm'>FIAT</span> trough, but a significant amount will choose non-<span class='_paradigm'>FIAT</span> ways.</p>
 
 <h1>AIR? What&rsquo;s That?</h1>
- <p><span class='_paradigm'>FIAT</span> is the water that we fish live in. It is so encompassing that it has become invisible, like air,</p>
+ <p><span class='_paradigm'>FIAT</span> is the water that we fish live in. Like evolutions or air: they were invisible until relatively recently. The <span class='_paradigm'>FIAT</span> social order we live in is so encompassing that as to be invisible,</p>
   <div class="_citation">
    <p>Some 2,500 years ago, the ancient Greeks identified air</p>
    <p id="_signature">International Historic Chemical Landmark<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
