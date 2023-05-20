@@ -7,7 +7,7 @@ image:    "icon-resistance-to-co-ownership.svg"
 ---
 
 <div style="display:none;">
- <p>Resistance to co-ownership will come from everywhere. A safe bet is that the sole owners will say that it is a communist plot. But it will come from non-onwers, too.</p>
+ <p>Resistance to co-ownership will come from everywhere, including non-onwers, too.</p>
 </div>
 
 <div class="_citation">
@@ -25,7 +25,7 @@ image:    "icon-resistance-to-co-ownership.svg"
   </ul>
  <p>These folks are more likely to reject, possibly strongly, anything that sounds like a change to the system that they have learned used to <em>win.</em></p>
 
-<h1>Co-Onwership Is a Big, Tough Change</h1>
+<h1>Co-Onwership Is a Big, Tough Challenge</h1>
  <p>Co-ownership makes it possible for everybody to be a co-owner. Everybody, not just the selected few who learned how to use the system to financially win and have power over others. Simple as that.</p>
  <p>But resistance to change is understandable and <em>to be expected</em>. Resistance will come from everywhere.</p>
   <div class="_center">
