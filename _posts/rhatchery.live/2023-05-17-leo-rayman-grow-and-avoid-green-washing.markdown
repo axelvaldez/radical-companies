@@ -21,6 +21,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
    <p>Some 2,500 years ago, the ancient Greeks identified air</p>
    <p id="_signature">International Historic Chemical Landmark<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
   </div>
+ <p>This means that we went for thousands of year without noticing air.</p>
 
 <h1>FIAT? What&rsquo;s That?</h1>
  <p>We don&rsquo;t have a label for the system we live in, so we called it <span class='_paradigm'>FIAT</span>, <span class="_quotespan">Because I say so,</span> with an implied threat, <span class="_quotespan">or else</span>,.</p>
@@ -30,7 +31,6 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
     width="70%"
     alt="">
   </div>
- <p>This means that we went for thousands of year without noticing air.</p>
 
 <h1>Alt</h1>
  <p>Alternatives to non-<span class='_paradigm'>FIAT</span> systems have not been implemented, yet, but they will. The first step is to be aware of it, to <em>see</em> it,</p>
