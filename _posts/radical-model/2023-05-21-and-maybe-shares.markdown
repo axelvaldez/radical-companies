@@ -14,9 +14,6 @@ image:    "icon-and-maybe-shares.svg"
  <p><span class="_quotespan">In case of a <span class="_paradigm">FIAT</span> exit, company shares will be distributed according to the following schedule&hellip;.</span><a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
  <p>Still no power over is given away to capital investors until the company goes off the <span class="_paradigm">RADICAL</span> track.</p>
 
-<h1>Inspiration</h1>
- <p>In a conversation with Jens Hortsman today, the came up in passing.</p>
-
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
