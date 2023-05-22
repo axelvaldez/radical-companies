@@ -30,7 +30,7 @@ image:    "icon-how-fiat-developed.svg"
   </li>
   <li>Hebrew collaborators (<em>e.g.</em>, the merchants) took advantage of the structure.</li>
  </ul>
- <p>The collaborator Hebrews complained and eventually the Romans put down the Ys. However, the story of an individual crucifiction is more powerful.</p>
+ <p>The collaborator Hebrews complained and eventually the Romans put down the Ys. However, the story of an individual crucifiction is more dramatic and has carried to this day.</p>
 
 <h1>Long Time Coming</h1>
  <p>Assuming that the stories in the Hebrew Bible was more or less copied from similar stories in the area, resistance to being exploited had been raging for a long time.</p>
