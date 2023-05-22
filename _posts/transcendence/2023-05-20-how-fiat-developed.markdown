@@ -24,11 +24,11 @@ image:    "icon-how-fiat-developed.svg"
   <li>Hebrew collaborators (<em>e.g.</em>, the merchants) took advantage of the structure.</li>
  </ul>
  <p>Assuming that the stories in the Hebres Bible was copy-pasted from similar stories in the area, resistance to being exploited had been raging for a long time.</p>
-  <div class="_central">
+  <div class="_central, _citation">
    <p>In our ancestral state, humans were probably organized in small troups of related individuals. We shared resources within this group, and battled other groups for food and territory. Gradually troups gave way to organizing in tribes. After many millennia, these tribes began to merge into larger chiefdoms. Chiefdoms eventually merged into states. And states merged into empires. At every stage, competition raged between groups and was suppressed within groups.</p>
    <p id="_signature">Blair Fix, An Evolutionary Theory of Resource Distribution<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
   </div>
-  <div class="_central">
+  <div class="_central, _citation">
    <p>It doesn&rsquo;t matter if we&rsquo;re studying a feudal fiefdom, an archaic kingdom, a totalitarian regime, a democratic state, or a modern corporation. If there is hierarchy, &hellip access to resources will grow with hierarchical power.</p>
    <p id="_signature">Blair Fix, An Evolutionary Theory of Resource Distribution</p>
   </div>
