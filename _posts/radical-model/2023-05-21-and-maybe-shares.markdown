@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "And Maybe Shares"
+title:    "&hellip; and Maybe Shares"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-and-maybe-shares.svg"
