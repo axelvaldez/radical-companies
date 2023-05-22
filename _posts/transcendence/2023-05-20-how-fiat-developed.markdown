@@ -7,7 +7,7 @@ image:    "icon-how-fiat-developed.svg"
 ---
 
 <div style="display:none;">
- <p>From small troups of related individuals, to tribes, to chiefdoms. Competition raged between groups and was suppressed within groups.</p>
+ <p>From small troups of related individuals, to tribes, to chiefdoms, to empires. Competition raged between groups and was suppressed within groups.</p>
 </div>
 
 <h1>&nbsp;</h1>
