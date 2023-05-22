@@ -19,7 +19,7 @@ image:    "icon-how-fiat-developed.svg"
 <h1>Disentangling</h1>
  <p>This is what was happening in the land of the Ys,</p>
  <ul>
-  <li>A fe Hebrews were exploiting the mass of Hebrews. The exploiters appropriated the wealth the unwashed masses generated.</li>
+  <li>A fee Hebrews were exploiting the mass of Hebrews. The exploiters appropriated the wealth the unwashed masses generated.</li>
   <li>Romans soldiers provided the muscle: <span class="_paradigm">THREAT</span>, <span class="_paradigm">FEAR</span>, <span class="_paradigm">FORCE</span>, and <span class="_paradigm">PAIN</span>
    <div class="_center">
     <img
@@ -30,7 +30,7 @@ image:    "icon-how-fiat-developed.svg"
   </li>
   <li>Hebrew collaborators (<em>e.g.</em>, the merchants) took advantage of the structure.</li>
  </ul>
- <p>Eventually the Romans put down the Ys.</p>
+ <p>The collaborator Hebrews complained and eventually the Romans put down the Ys. However, the story of an individual crucifiction is more powerful.</p>
 
 <h1>Long Time Coming</h1>
  <p>Assuming that the stories in the Hebrew Bible was more or less copied from similar stories in the area, resistance to being exploited had been raging for a long time.</p>
