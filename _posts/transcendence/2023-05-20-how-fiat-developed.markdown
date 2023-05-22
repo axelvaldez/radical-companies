@@ -40,7 +40,7 @@ image:    "icon-how-fiat-developed.svg"
   </div>
  <p>By the time Thomas Hobbes writes <em>Leviathan</em> the idea that people were a warring species was already completely normalized. Hobbe argued that humanity&rsquo;s natural state was a &ldquo;&rdquo;war of all against all.&ldquo;</p>
   <div class="_central, _citation">
-   <p>If there is hierarchy, &hellip. access to resources will grow with hierarchical power.</p>
+   <p>If there is hierarchy, &hellip; access to resources will grow with hierarchical power.</p>
    <p id="_signature">Blair Fix, An Evolutionary Theory of Resource Distribution</p>
   </div>
 
