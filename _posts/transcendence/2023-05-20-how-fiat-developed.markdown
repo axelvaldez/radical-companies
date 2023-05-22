@@ -19,7 +19,7 @@ image:    "icon-how-fiat-developed.svg"
 <h1>Disentangling</h1>
  <p>This is what was happening in the land of the Ys,</p>
  <ul>
-  <li>A fe Hebrews were exploiting the mass of Hebrews. The exploiters appropriated the wealth the unwashed masses generated.
+  <li>A fe Hebrews were exploiting the mass of Hebrews. The exploiters appropriated the wealth the unwashed masses generated.</li>
   <li>Romans soldiers provided the muscle: <span class="_paradigm">THREAT</span>, <span class="_paradigm">FEAR</span>, <span class="_paradigm">FORCE</span>, and <span class="_paradigm">PAIN</span></li>
   <li>Hebrew collaborators (<em>e.g.</em>, the merchants) took advantage of the structure.</li>
  </ul>
