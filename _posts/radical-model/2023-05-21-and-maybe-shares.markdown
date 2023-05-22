@@ -7,7 +7,7 @@ image:    "icon-and-maybe-shares.svg"
 ---
 
 <div style="display:none;">
- <p>Shares could be part of <span class="_paradigm">RADICAL</span> deal.</p>
+ <p>Shares could be part of a <span class="_paradigm">RADICAL</span> deal.</p>
 </div>
 
 <h1>&nbsp;</h1>
