@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Feathers and Clothes: Distinguishing Marks"
+title:    "Feathers, Tatoos, Clothes: Distinguishing Marks"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-feathers-and-clothes-distinguishing-marks.svg"
+image:    "icon-feathers-tatoos-clothes-distinguishing-marks.svg"
 ---
 
 <div style="display:none;">
