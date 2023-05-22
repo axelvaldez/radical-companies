@@ -48,7 +48,7 @@ image:    "icon-how-fiat-developed.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Blair Fix
+    Blair Fix.
     <em>An Evolutionary Theory of Resource Distribution (part 2)</em>.
     Oct 17, 2019.
     &lt;<a href="https://radicals.world/dAUTbp" target="_blank">https://radicals.world/dAUTbp</a>&gt;
