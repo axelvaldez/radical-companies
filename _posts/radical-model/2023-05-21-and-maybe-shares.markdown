@@ -1,0 +1,30 @@
+---
+layout:   post
+title:    "And Maybe Shares"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez"
+image:    "icon-and-maybe-shares.svg"
+---
+
+<div style="display:none;">
+ <p>Shares could be part of <span class="_paradigm">RADICAL</span> deal.</p>
+</div>
+
+<h1>&nbsp;</h1>
+ <p><span class="_quotespan">In case of a <span class="_paradigm">FIAT</span> exit, company shares will be distributed according to the following schedule&hellip;.</span><a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
+ <p>Still no power over is given away to capital investors until the company goes off the <span class="_paradigm">RADICAL</span> track.</p>
+
+<h1>Inspiration</h1>
+ <p>In a conversation with Jens Hortsman today, the came up in passing.</p>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    This came up in a conversation with Jens Hortsman today.
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
+
+{% include related.html %}
