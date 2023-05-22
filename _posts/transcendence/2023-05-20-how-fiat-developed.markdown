@@ -34,14 +34,12 @@ image:    "icon-how-fiat-developed.svg"
   <div class="_central, _citation">
    <p>In our ancestral state, humans were probably organized in small troups of related individuals. We shared resources within this group, and battled other groups for food and territory. Gradually troups gave way to organizing in tribes. After many millennia, these tribes began to merge into larger chiefdoms. Chiefdoms eventually merged into states. And states merged into empires. At every stage, competition raged between groups and was suppressed within groups.</p>
    <p id="_signature">Blair Fix, An Evolutionary Theory of Resource Distribution<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
+ <p>By the time Thomas Hobbes writes <em>Leviathan</em> the idea that people were a warring species was already completely normalized. Hobbe argued that humanity&rsquo;s natural state was a &ldquo;&rdquo;war of all against all.&ldquo;</p>
   </div>
   <div class="_central, _citation">
-   <p>It doesn&rsquo;t matter if we&rsquo;re studying a feudal fiefdom, an archaic kingdom, a totalitarian regime, a democratic state, or a modern corporation. If there is hierarchy, &hellip access to resources will grow with hierarchical power.</p>
+   <p>If there is hierarchy, &hellip access to resources will grow with hierarchical power.</p>
    <p id="_signature">Blair Fix, An Evolutionary Theory of Resource Distribution</p>
   </div>
- <p>By the time Thomas Hobbes writes <em>Leviathan</em> the idea that people were a warring species was already completely normalized. Hobbe argued that humanity&rsquo;s natural state was a &ldquo;&rdquo;war of all against all.&ldquo;</p>
-
- <p>Humans are social animals who compete as groups, but suppress internal competition for stability. <span class='_paradigm'>FIAT</span> Hierarcy is used to stablize a group.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
