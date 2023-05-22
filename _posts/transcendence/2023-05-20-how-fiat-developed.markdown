@@ -39,7 +39,7 @@ image:    "icon-how-fiat-developed.svg"
    <p>It doesn&rsquo;t matter if we&rsquo;re studying a feudal fiefdom, an archaic kingdom, a totalitarian regime, a democratic state, or a modern corporation. If there is hierarchy, &hellip access to resources will grow with hierarchical power.</p>
    <p id="_signature">Blair Fix, An Evolutionary Theory of Resource Distribution</p>
   </div>
- <p>By the time Thomas Hobbes write <em>Leviathan</em> the idea that people were a warring species was already completely normalized. Hobbe argued that humanity&rsquo;s natural state was a &ldquo;&rdquo;war of all against all.&ldquo;</p>
+ <p>By the time Thomas Hobbes writes <em>Leviathan</em> the idea that people were a warring species was already completely normalized. Hobbe argued that humanity&rsquo;s natural state was a &ldquo;&rdquo;war of all against all.&ldquo;</p>
 
  <p>Humans are social animals who compete as groups, but suppress internal competition for stability. <span class='_paradigm'>FIAT</span> Hierarcy is used to stablize a group.</p>
 
