@@ -20,12 +20,12 @@ image:    "icon-how-fiat-developed.svg"
  <p>This is what was happening in the land of the Ys,</p>
  <ul>
   <li>A few Hebrews were exploiting the mass of Hebrews. They appropriated the wealth the unwashed masses generated.</li>
-  <li>Romans soldiers provided the muscle: <span class="_paradigm">THREAT</span>, <span class="_paradigm">FEAR</span>, <span class="_paradigm">FORCE</span>, and <span class="_paradigm">PAIN</span>
+  <li>Romans soldiers provided the muscle: <span class="_paradigm">THREAT</span>, <span class="_paradigm">FEAR</span>, <span class="_paradigm">FORCE</span>, and <span class="_paradigm">PAIN</span>,
    <div class="_center">
     <img
      src="/assets/img/pic-fiat-fear-force-or-pai.svg"
      width="70%"
-     alt="">
+     alt="A city with a whole in the middle.">
    </div>
   </li>
   <li>Hebrew collaborators (<em>e.g.</em>, the merchants) took advantage of the structure.</li>
