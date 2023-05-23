@@ -30,4 +30,11 @@ image:    "icon-is-co-ownership-a-give-away.svg"
   <p>You are not negotiating with stranger, these are people that you have worked with for a while and know pretty well. But make sure the agreement is satisfactory to you, too. You may even specify regular reviews,  or something like it, until the full amount is paid.</p>
  <div>
 
+<h1>Warning!</h1>
+ <p>As forward and relaxed as you see your exmployees, they are not business people. My recommendation is that you plan to stay for &ldquo;a while&rdquo; teaching the ropes. After &ldquo;a while&rdquo; they will tell you that they are ready and, wah, wah, wah, they don&rsquo;t need you anymore. Have them keep you as an on-demand consultant. The questions will come and it should be easy to reach out to you.</p>
+ <p>You may have been doing too much and working harder than you had to. They will figure that out very quickly. Don&rsquo;t be offended if they say they are going to do it differently or are going to divide the work among them. This is an opportunity for you to learn, too.</p>
+
+<h1>Happy Endings!</h1>
+ <p>You want them to succeed and they want succeed. Nevertheless, keep in mind that we are trained from early age to <em>compete</em>. You were the boss and everybody submitted to you (more or less). Now you all will have to learn to collaborate and deal with each as equally well-intentioned and wanting their common work to succeed. It is going to be streneous for a while but there is light at the end of the tunnel: you get what you want and they get what they want.</p>
+
 {% include related.html %}
