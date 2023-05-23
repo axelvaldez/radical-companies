@@ -17,7 +17,7 @@ image:    "icon-is-co-ownership-a-give-away.svg"
  <div class="_q">But they end up as owners of my property!</div>
  <div class="_a">
   <p>Yes.</p>
-  <p>But you are giving away for nothing, you are selling it to them. Whatever you need you put down in a proposed agreement and if they agree, you&rsquo;re done. Otherwise, you negotiate and eventually you come to something they can live with.</p>
+  <p>But you are not giving away for nothing, you are selling it to them. Whatever you need you put down in a proposed agreement and if they agree, you&rsquo;re done. Otherwise, you negotiate and eventually you come to something they can live with.</p>
   <p>You could even say, <span class="_quotatespan">Let&rsquo;s try this for N months, put the money in a fund, and if it is not working out, you can take the money back.</span></p>
  </div>
  <div class="_q">What if I want money up front?<div>
