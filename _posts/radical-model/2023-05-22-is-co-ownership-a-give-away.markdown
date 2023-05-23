@@ -22,7 +22,7 @@ image:    "icon-is-co-ownership-a-give-away.svg"
  </div>
  <div class="_q">What if I want money up front?</div>
  <div class="_a">
-  <p>Your ex-employees, not co-owners, could get a bank loan based on the company&rsquo;s performance. They can then hand that capital to you. It would probably not be the full amount, but significant enough that you&rsquo;d agree to it.</p>
+  <p>Your ex-employees, now co-owners, can get a bank loan based on the company&rsquo;s performance. They can then hand that capital to you. It would probably not be the full amount, but significant enough that you&rsquo;ll agree to it.</p>
  </div>
  <div class="_q">And what if they run it into the ground?</div>
  <div class="_a">
