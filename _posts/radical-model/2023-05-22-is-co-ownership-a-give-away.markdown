@@ -24,7 +24,7 @@ image:    "icon-is-co-ownership-a-give-away.svg"
  <div class="_a">
   <p>Your ex-employees, not co-owners, could get a loan from the bank based on the performance of the company. They can then hand that capital to you. It would probably not be the full amount, but significant enough that you&rsquo;d agree to it.</p>
  <div>
- <div class="_q">But if they run it into the ground?<div>
+ <div class="_q">And what if they run it into the ground?<div>
  <div class="_a">
   <p>They probably will not, but let&rsquo;s assume they do. In that case you would have put a clause in the agreement to protect you from that situation. <span class="_quotespan">If they revenue goes down by X% of predicted, this agreement will be nulled and void&hellip;</span></p>
   <p>You are not negotiating with stranger, these are people that you have worked with for a while and know pretty well. But make sure the agreement is satisfactory to you, too. You may even specify regular reviews,  or something like it, until the full amount is paid.</p>
