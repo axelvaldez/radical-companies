@@ -31,12 +31,12 @@ image:    "icon-is-co-ownership-a-give-away.svg"
  </div>
 
 <h1>Warning!</h1>
- <p>As able and competent as you see your exmployees, they are not business people. They love their profession, but dealing with a business is simething that we train ourselves to not worrhy ablout. My recommendation is that you plan to stay for &ldquo;a while&rdquo; teaching the ropes. After &ldquo;a while&rdquo; they will tell you that they are ready and (wah, wah, wah) they don&rsquo;t need you anymore. Congratulations, but ou are probably not done. Have them keep you as an on-demand consultant. The questions will come and it should be easy to reach out to you and your hard-earned wisdom.</p>
+ <p>As able and competent as you see your exmployees, they are not business people. They love their profession, but dealing with a business is simething that we train ourselves to not worrhy about. My recommendation is that you plan to stay for &ldquo;a while&rdquo; teaching the ropes. After &ldquo;a while&rdquo; they will tell you that they are ready and (wah, wah, wah) they don&rsquo;t need you anymore. Congratulations, but ou are probably not done. Have them keep you as an on-demand consultant. The questions will come and it should be easy to reach out to you and your hard-earned wisdom.</p>
 
 <h1>Finally&hellip;</h1>
  <p>You may have been doing too much and working harder than you had to. They will figure that out very quickly. Don&rsquo;t be offended if they say they are going to do things differently. This is an opportunity for you to learn, too.</p>
 
 <h1>Happy Endings!</h1>
- <p>You want them to succeed and they want succeed. Nevertheless, keep in mind that we are trained from early age to <em>compete</em>. You were the boss and everybody submitted to you (more or less). Now you all will have to learn to collaborate and deal with each as equally well-intentioned and wanting their common work to succeed. It is going to be streneous for a while but there is light at the end of the tunnel: you get what you want and they get what they want.</p>
+ <p>You want them to succeed and they want succeed. Nevertheless, keep in mind that we are trained from an early age to <em>compete</em>. You were the boss and everybody submitted to you (more or less). Now all of you will have to learn to collaborate and deal with each other as equally well-intentioned and wanting your common work to succeed. It is going to be streneous for a while, but at the end of the tunnel you all get what you want.</p>
 
 {% include related.html %}
