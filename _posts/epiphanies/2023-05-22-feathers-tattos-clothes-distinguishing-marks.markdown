@@ -15,7 +15,7 @@ image:    "icon-feathers-tattoos-clothes-distinguishing-marks.svg"
 
 <h1>Communications</h1>
  <p>People want to be heard. They feel they have something important to say that would impact their wellbeing (selfish), and they even have an intuition that it impacts the wellbeing of the community (selfless). <span class="_quotespan">I (<em>me!</em>) want to make a contribution.</span></p>
- <p>It is not cognitive&mdash; it&rsquo;s an emotial impulse. And it is fundamental to all communications,</p>
+ <p>It is not cognitive&mdash; it&rsquo;s an emotional impulse. And it is fundamental to all communications,</p>
   <ul>
    <li>Assume that people want to say something important, even if doesn&rsquo;t come out that way at first.</li>
    <li>Take into account that people may not have the skills to express it &ldquo;correctly.&rdquo;</li>
