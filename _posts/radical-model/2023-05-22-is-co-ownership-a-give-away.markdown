@@ -26,9 +26,13 @@ image:    "icon-is-co-ownership-a-give-away.svg"
  </div>
  <div class="_q">And what if they run it into the ground?</div>
  <div class="_a">
-  <p>They probably will not, but let&rsquo;s assume they do. In that case you would have put a clause in the agreement to protect you from that situation. <span class="_quotespan">If they revenue goes down by X% of predicted, this agreement will be nulled and void&hellip;</span></p>
-  <p>You are not negotiating with stranger, these are people that you have worked with and know pretty well. Just make sure the agreement is satisfactory to all, including you. You may even specify regular reviews,  or something like it, until the full amount is paid.</p>
+  <p>They probably will not, but let’s assume they do. In that case you would have put a clause in the agreement to protect you from that situation. If they revenue goes down by X% of predicted, this agreement will be nulled and void&hellip;</p>
  </div>
+ <div class="_q">What if am not ready to sell my whole business?</div>
+ <div class="_a">
+  <p>Sure. If want to sell only 50% of the business and your employees agree, then that&rsquo;s fine.</p>
+ </div>
+<p>Remeber that you are <em>not</em> negotiating with stranger, these are people that you have worked with and know pretty well. Just make sure the agreement works for all, including you.</p>
 
 <h1>Warning!</h1>
  <p>As able and competent as you see your exmployees, they are not business people. They love their profession, but dealing with a business is simething that we train ourselves to not worrhy about. My recommendation is that you plan to stay for &ldquo;a while&rdquo; teaching the ropes. After &ldquo;a while&rdquo; they will tell you that they are ready and (wah, wah, wah) they don&rsquo;t need you anymore. Congratulations, but ou are probably not done. Have them keep you as an on-demand consultant. The questions will come and it should be easy to reach out to you and your hard-earned wisdom.</p>
