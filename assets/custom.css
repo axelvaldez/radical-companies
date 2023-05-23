@@ -308,7 +308,9 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   font-size:smaller;
 }
 ._paradigm {
+  /*
   font-size:smaller;
+  */
   font-family: Verdana;
   font-weight:520;
 }
