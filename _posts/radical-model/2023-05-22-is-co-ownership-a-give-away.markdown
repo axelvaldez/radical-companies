@@ -31,7 +31,7 @@ image:    "icon-is-co-ownership-a-give-away.svg"
  </div>
 
 <h1>Warning!</h1>
- <p>As forward and relaxed as you see your exmployees, they are not business people. My recommendation is that you plan to stay for &ldquo;a while&rdquo; teaching the ropes. After &ldquo;a while&rdquo; they will tell you that they are ready and, wah, wah, wah, they don&rsquo;t need you anymore. Have them keep you as an on-demand consultant. The questions will come and it should be easy to reach out to you.</p>
+ <p>As able and competent as you see your exmployees, they are not business people. My recommendation is that you plan to stay for &ldquo;a while&rdquo; teaching the ropes. After &ldquo;a while&rdquo; they will tell you that they are ready and, wah, wah, wah, they don&rsquo;t need you anymore. Have them keep you as an on-demand consultant. The questions will come and it should be easy to reach out to you.</p>
  <p>You may have been doing too much and working harder than you had to. They will figure that out very quickly. Don&rsquo;t be offended if they say they are going to do it differently or are going to divide the work among them. This is an opportunity for you to learn, too.</p>
 
 <h1>Happy Endings!</h1>
