@@ -37,8 +37,6 @@ image:    "icon-is-co-ownership-a-give-away.svg"
 <h1>Warning!</h1>
  <p>As able and competent as you see your exmployees, they are not business people. They love their profession, but dealing with a business is something that we have trained ourselves not worry about, or worse, to be disgusted by it.</p>
  <p>You should plan to stay and teach them the ropes. They will tell you that they are ready to do it on their own and (wah, wah, wah) they don&rsquo;t need you anymore. Congratulations, but you are probably not done. Plan to hang around a bit longer (<em>e.g.</em>, as an on-demand consultant). The questions will come and it should be easy for them to reach out to you and your hard-earned experience and wisdom.</p>
-
-<h1>Finally&hellip;</h1>
  <p>You may have been doing too much and working harder than you had to. Don&rsquo;t be offended if they say they are going to do things differently. This is an opportunity for you to learn, too.</p>
 
 <h1>Happy Endings!</h1>
