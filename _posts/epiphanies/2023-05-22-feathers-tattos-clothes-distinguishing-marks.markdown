@@ -20,7 +20,7 @@ image:    "icon-feathers-tattoos-clothes-distinguishing-marks.svg"
    <li>Assume that people want to say something important, even if doesn&rsquo;t come out that way at first.</li>
    <li>Take into account that people may not have the skills to express it &ldquo;correctly.&rdquo;</li>
    <li>Help them by asking questions.</li>
-   <li>Don&rsquo;t look fpr fault and don&rsquo;t look to ridicule.&mdash;. Help them get it out.</li>
+   <li>Don&rsquo;t look fpr fault and don&rsquo;t look to ridicule. Help them make it intelligible.</li>
    <li>You are not their father, or their brother, but you are a member of their community.</li>
    <li>Lead with love.</li>
   </ul>
