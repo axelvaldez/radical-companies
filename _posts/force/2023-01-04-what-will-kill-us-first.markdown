@@ -20,7 +20,7 @@ image:    "icon-what-will-kill-us-first.svg"
   <li>Changes to weather patterns change agricultural growth patterns and wild species habitats.</li>
   <li>Changes to agriculture and wild species habitats are a threat to our life support system.</li>
   <li>We cannot react to that many changes. As our life support system declines, our population will decline.</li>
-  <li>Given our <span class="_paradigm">FIAT</span> mindset, competition will increase and our cultural accomplishments will be forgotten.</li>
+  <li>Given our <span class="_paradigm">Fiat</span> mindset, competition will increase and our cultural accomplishments will be forgotten.</li>
  </ul>
  <p>The other thing happening now is the trend towards homogeneity in many fields.</p>
 
@@ -52,7 +52,7 @@ image:    "icon-what-will-kill-us-first.svg"
 
 <h1>It Has Happened Before</h1>
  <p>In <em>Profit: An Environmental History</em><a href="#en11"><sup id="bm11">&nabla;&hairsp;</sup></a> Mark Stoll documents, extensively, how competition has driven us to the spoilage of our environment multiple times. The process was not profitable for most people, either, who went to their early grave from overwork, malnutrition, and disease. Forests and the environment in general was devasted by sugar, tobacco, and other &ldquo;commercial&rdquo; crops. Over time they drained the land of nutrients and impoverished people&rsquo;s lives.</p>
- <p>This is not the first time that competition has driven us to collapse. The big problem now is that the specter of collapse is global. In fact, it won&rsquo;t be a collapse, as much as a near extinction. By near I mean that there will be enough of us left and we will eventually make a come back. The winner-takes-all <span class="_paradigm">FIAT</span> system of competition and dominance has been catastrophic and it would force us to replay the same old movie that ends up in collapse, again.</p>
+ <p>This is not the first time that competition has driven us to collapse. The big problem now is that the specter of collapse is global. In fact, it won&rsquo;t be a collapse, as much as a near extinction. By near I mean that there will be enough of us left and we will eventually make a come back. The winner-takes-all <span class="_paradigm">Fiat</span> system of competition and dominance has been catastrophic and it would force us to replay the same old movie that ends up in collapse, again.</p>
  <p>We need to try a different system, one based on collaboration, not competition. Abundance, not scarcity. Co-manaagement and co-ownership, not masters and slaves.</p>
 
 <h1>Strong Trend</h1>
@@ -191,7 +191,7 @@ image:    "icon-what-will-kill-us-first.svg"
   </li>
   <li id="en07">
    <p class="_list-item">
-    <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
+    <em>Google Goes <span class="_paradigm">Radical</span></em>.
     &lt;<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>&gt;
     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>

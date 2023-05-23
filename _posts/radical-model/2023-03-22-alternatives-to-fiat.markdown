@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Alternatives to <span class='_paradigm'>FIAT</span>"
+title:    "Alternatives to <span class='_paradigm'>Fiat</span>"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-alternatives-to-fiat.svg"
@@ -16,19 +16,19 @@ image:    "icon-alternatives-to-fiat.svg"
    <span class="_quotespan">It is not intelligent, it is not beautiful, it is not just, it is not virtuous &ndash; and it doesn’t deliver the goods. In short, we dislike it, and we are beginning to despise it. But when we wonder what to put in its place, we are extremely perplexed.</span>
    <span id="_signature">John Maynard Keynes.</span>
   </div>
-  <p>This shows how difficut it is to see past what people call capitalism, where JM Keynes admitted to be <span class="_quotespan">extremely perplexed.</span>. The problem is not the accumulation of capital, but the <span class="_paradigm">FIAT</span> system,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
+  <p>This shows how difficut it is to see past what people call capitalism, where JM Keynes admitted to be <span class="_quotespan">extremely perplexed.</span>. The problem is not the accumulation of capital, but the <span class="_paradigm">Fiat</span> system,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
    <div class="_citation">
     <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span>
    </div>
- <p>The <span class="_paradigm">FIAT</span> system is based on competition and domination and capital happens to be a very efficient form tool of having power over everything (<em>i.e.</em>, domination). Our alternative, the <span class="_paradigm">RADICAL</span> system, is based on contribuions, instead of capital. This, we believe, will produced more of a life nourising system.</p>
+ <p>The <span class="_paradigm">Fiat</span> system is based on competition and domination and capital happens to be a very efficient form tool of having power over everything (<em>i.e.</em>, domination). Our alternative, the <span class="_paradigm">Radical</span> system, is based on contribuions, instead of capital. This, we believe, will produced more of a life nourising system.</p>
 
 <h1>The Forever Obstacle</h1>
- <p>Who decides <em>what is a contribution</em>? That has been the obstacle forever. We are so used to the <span class="_paradigm">FIAT</span> hierarchical model that we immediately jump to rules and benevolent judges. But as it always happen benevolent judges don&rsquo;t stay benevolent forever and rules always sprout a bureaucracy around them.</p>
+ <p>Who decides <em>what is a contribution</em>? That has been the obstacle forever. We are so used to the <span class="_paradigm">Fiat</span> hierarchical model that we immediately jump to rules and benevolent judges. But as it always happen benevolent judges don&rsquo;t stay benevolent forever and rules always sprout a bureaucracy around them.</p>
  <p>So, what are we to do? No wonder we are <span class="_quotespan">extremely perplexed.</span></p>
 
-<h1>Our <span class="_paradigm">RADICAL</span> System</h1>
- <p>Our alternative to the <span class="_paradigm">FIAT</span> system is the <span class="_paradigm">RADICAL</span> system.</p>
- <p>In the <span class="_paradigm">RADICAL</span> system, ownership is distributed to all co-owners based on their contributions, not their capital or the &ldquo;human capital&rdquo; or any other nonsense. For Sam, a co-owner, her contributions are determined by all the other co-owners who know her. The same for Joe, another co-owner. In fact, the same for all co-owners, al other co-owners determine what their contributions are.</p>
+<h1>Our <span class="_paradigm">Radical</span> System</h1>
+ <p>Our alternative to the <span class="_paradigm">Fiat</span> system is the <span class="_paradigm">Radical</span> system.</p>
+ <p>In the <span class="_paradigm">Radical</span> system, ownership is distributed to all co-owners based on their contributions, not their capital or the &ldquo;human capital&rdquo; or any other nonsense. For Sam, a co-owner, her contributions are determined by all the other co-owners who know her. The same for Joe, another co-owner. In fact, the same for all co-owners, al other co-owners determine what their contributions are.</p>
  <p>The are no rules, every co-owner figures out what a contribution is. And if they think they've seen a contribution, then they recognize it. It could be somebody who reorganized the warehouse, or a particular (computer) code check-in which other co-owners perceive as valuelbe, or could be somebody&rsquo;s smile. Whatever a co-owner recognizes as a contribution, is a contribution.</p>
  <p>At this point, you should be thinking, <span class="_quotespan">wow, that is chaos!</span></p>
 
@@ -52,7 +52,7 @@ image:    "icon-alternatives-to-fiat.svg"
    <li>Everybody gets one <span class="_paradigm">RAD</span> per day.</li>
    <li><span class="_paradigm">RAD</span>s don&rsquo;t keep them, the give them to other co-owners as they recognize their contributions.</li>
    <li>Everything is transparent, so everything is out in the open to everybody. If I give <span class="_paradigm">RAD</span>s to Mike, a co-owner, everybody can see that. And ask about it.</li>
-   <li>You, and everybody else in a <span class="_paradigm">RADICAL</span> company, are co-owners.</li>
+   <li>You, and everybody else in a <span class="_paradigm">Radical</span> company, are co-owners.</li>
   </ul>
  <p>Having said that, we can talk about potential cheating,</p>
   <ul>
@@ -70,13 +70,13 @@ image:    "icon-alternatives-to-fiat.svg"
 <h1>Final Notes</h1>
  <p>Please, note,</p>
   <ul>
-   <li>There is not <span class="_paradigm">FIAT</span> hierarchy.</li>
+   <li>There is not <span class="_paradigm">Fiat</span> hierarchy.</li>
    <li>Therefore, there is no <em>boss</em> giving out goodies to his favority people.</li>
    <li>People will get more or less <span class="_paradigm">RAD</span>s according their contributions. If they don&rsquo;t contribute, they don't get <span class="_paradigm">RAD</span>s, but if they contribute, they do.</li>
    <li>If people are not recognizing your contributions, either 1) they see them, but don&rsquo;t consider them valuable or 2) they don&rsquo;t know the value of what you are doing and you need to explain it to them.</li>
    <li>Most imporantly, there is nobody around who can give themselves a raise. The number of <span class="_paradigm">RAD</span>s one gets depends on what other co-owners recognize as contributions.</li>
   </ul>
- <p>The <span class="_paradigm">RADICAL</span> system is an alternative to the <span class="_paradigm">FIAT</span> system. There really is noting to be <span class="_quotespan">extremely perplexed,</span> about. Stop calling it capitalism and call it by its proper name instead, the <span class="_paradigm">FIAT</span> system. Your horizons will open up and alternatives will start to become visible.</p>
+ <p>The <span class="_paradigm">Radical</span> system is an alternative to the <span class="_paradigm">Fiat</span> system. There really is noting to be <span class="_quotespan">extremely perplexed,</span> about. Stop calling it capitalism and call it by its proper name instead, the <span class="_paradigm">Fiat</span> system. Your horizons will open up and alternatives will start to become visible.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>

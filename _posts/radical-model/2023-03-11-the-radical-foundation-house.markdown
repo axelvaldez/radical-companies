@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The <span class='_paradigm'>RADICAL</span> Foundation House"
+title:    "The <span class='_paradigm'>Radical</span> Foundation House"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-the-radical-foundation-house.svg"
@@ -11,7 +11,7 @@ image:    "icon-the-radical-foundation-house.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Yesterday we had a discussion about a way of reframing the <span class="_quotespan"><span class="_paradigm">RADICAL</span> model</span>. After having slept over it, I woke up with an image of a building where,</p>
+ <p>Yesterday we had a discussion about a way of reframing the <span class="_quotespan"><span class="_paradigm">Radical</span> model</span>. After having slept over it, I woke up with an image of a building where,</p>
   <ul>
    <li>
     The words MEANING and BELONGING are the two axis of the &ldquo;ground floor.&rdquo; It represents the people fundamentals,
@@ -46,7 +46,7 @@ image:    "icon-the-radical-foundation-house.svg"
   </ul>
 
 <h1>Altogether Now</h1>
- <p>Altogether, they make up the Foundation house, a template for non-<span class="_paradigm">FIAT</span> systems, the <span class="_paradigm">RADICAL</span> model being one of them,</p>
+ <p>Altogether, they make up the Foundation house, a template for non-<span class="_paradigm">Fiat</span> systems, the <span class="_paradigm">Radical</span> model being one of them,</p>
   <div class="_center">
    <img
     width="70%"
@@ -85,7 +85,7 @@ image:    "icon-the-radical-foundation-house.svg"
   </ul>
 
 <h1>Many Houses</h1>
- <p>What the uncomfortable discussion made me see is that there may be many houses, some of them based on the template <span class="_paradirm">RADICAL</span> house. We have no illusions of being the only model that will come up once people are able to see the <span class="_paradigm">FIAT</span> model and the effect it has on their lives and on our world.</p>
+ <p>What the uncomfortable discussion made me see is that there may be many houses, some of them based on the template <span class="_paradirm">Radical</span> house. We have no illusions of being the only model that will come up once people are able to see the <span class="_paradigm">Fiat</span> model and the effect it has on their lives and on our world.</p>
 
 <h1>A Template House</h1>
  <p>For example, a template house would be like this,</p>
@@ -98,6 +98,6 @@ image:    "icon-the-radical-foundation-house.svg"
  </div>
 
 <h1>A Framing</h1>
- <p>This &ldquo;framing&rdquo; of the <span class="_paradigm">RADICAL</span> model may be appealing to &ldquo;build&rdquo; specific houses where what changes is the Practices.</p>
+ <p>This &ldquo;framing&rdquo; of the <span class="_paradigm">Radical</span> model may be appealing to &ldquo;build&rdquo; specific houses where what changes is the Practices.</p>
 
 {% include related.html %}

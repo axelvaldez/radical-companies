@@ -53,7 +53,7 @@ image:    "icon-the-power-of-the-powerless.svg"
  </table>
 
 <h1>Dictatorships are FIAT Hierarchies</h1>
- <p>As I read the essay, I got more and more excited as I realized how well the <span class="_paradigm">RADICAL</span> model aligned with each of these points,</p>
+ <p>As I read the essay, I got more and more excited as I realized how well the <span class="_paradigm">Radical</span> model aligned with each of these points,</p>
  <table class="_background">
   <tr>
    <th><p>Huge<br>Power<br>Block</p></th>
@@ -98,7 +98,7 @@ image:    "icon-the-power-of-the-powerless.svg"
 <p>Businesses fit <em>every one</em> of theses observations,</p>
 
 <h1>Businesses Are Dictatorships</h1>
- <p>Businesses fit depressingly well in Havel&rsquo;s framework. And this leads to the inescapable conclusion that <em>democracies (governments) are based on dictatorships</em> (businesses) called businesses. Even though we intuitively know that &ldquo;a government is not a business&rdquo;, we go back and forth on it. The <span class="_paradigm">RADICAL</span> model is a tool to convert the dictatorships called <em>businesses</em> into <em>companies</em> that operate more like democracies, with decentralized decision-making and ownership.<a href="#en09"><sup id="bm09">&nabla;&hairsp;</sup></a> A side-effect of this is that people will be equipped to be more engaged in their governance. As they learn to be company co-owners, people will learn to co-own their governamce as well.</p>
+ <p>Businesses fit depressingly well in Havel&rsquo;s framework. And this leads to the inescapable conclusion that <em>democracies (governments) are based on dictatorships</em> (businesses) called businesses. Even though we intuitively know that &ldquo;a government is not a business&rdquo;, we go back and forth on it. The <span class="_paradigm">Radical</span> model is a tool to convert the dictatorships called <em>businesses</em> into <em>companies</em> that operate more like democracies, with decentralized decision-making and ownership.<a href="#en09"><sup id="bm09">&nabla;&hairsp;</sup></a> A side-effect of this is that people will be equipped to be more engaged in their governance. As they learn to be company co-owners, people will learn to co-own their governamce as well.</p>
  <table class="_background">
   <tr>
    <th>

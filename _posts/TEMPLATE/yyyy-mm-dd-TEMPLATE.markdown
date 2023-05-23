@@ -32,8 +32,8 @@ image:    "icon-ptsd-and-trust.svg"
 <h1></h1>
  (RADICAL|FIAT|RAD|BANNER|rCOIN)
  <span class='_paradigm'>$1</span>
- <span class='_paradigm'>RADICAL</span>
- <span class='_paradigm'>FIAT</span>
+ <span class='_paradigm'>Radical</span>
+ <span class='_paradigm'>Fiat</span>
  <span class='_paradigm'>RAD</span>s
  <span class='_paradigm'>BANNER</span>
  <span class='_paradigm'>rCOIN</span>
@@ -42,10 +42,10 @@ image:    "icon-ptsd-and-trust.svg"
  <span class='_paradigm'>Decentralization</span>
  <span class='_paradigm'>Transparency</span>
  <span class='_paradigm'>Experimentation</span>
- <span class='_paradigm'>THREAT</span>
- <span class='_paradigm'>FEAR</span>
- <span class='_paradigm'>FORCE</span>
- <span class='_paradigm'>PAIN</span>
+ <span class='_paradigm'>Threat</span>
+ <span class='_paradigm'>Fear</span>
+ <span class='_paradigm'>Force</span>
+ <span class='_paradigm'>Pain</span>
  <span class='_paradigm'>SURVIVAL</span>
 
 <!-- QUOTESPAN -->

@@ -7,12 +7,12 @@ image:    "icon-small-bites-how-lockheed-martin-could-ease-into-using-rads.svg"
 ---
 
 <div style="display:none;">
- <p>Imagine that every <span class="_paradigm">FIAT</span> business, like Lockheed Martin, were to switch to a <span class="_paradigm">RAD</span>s-based pay system. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
+ <p>Imagine that every <span class="_paradigm">Fiat</span> business, like Lockheed Martin, were to switch to a <span class="_paradigm">RAD</span>s-based pay system. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Imagine that every <span class="_paradigm">FIAT</span> business were to switch to a <span class="_paradigm">RAD</span>s-based pay system. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
- <p>Imagine that every <span class="_paradigm">FIAT</span> business were to switch to a <span class="_paradigm">RAD</span>s-based pay system, but they insisted on doing it very slowly. Their thinking might be that this would give people who can not accept the <span class="_paradigm">RADICAL</span> model time to find a <span class="_paradigm">FIAT</span> job elsewhere. This means that for the first couple of years the pay levels would remain the same. We would have to artificially give everybody enough <span class="_paradigm">RAD</span>s to end up with the same pay, given their revenue. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
+ <p>Imagine that every <span class="_paradigm">Fiat</span> business were to switch to a <span class="_paradigm">RAD</span>s-based pay system. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
+ <p>Imagine that every <span class="_paradigm">Fiat</span> business were to switch to a <span class="_paradigm">RAD</span>s-based pay system, but they insisted on doing it very slowly. Their thinking might be that this would give people who can not accept the <span class="_paradigm">Radical</span> model time to find a <span class="_paradigm">Fiat</span> job elsewhere. This means that for the first couple of years the pay levels would remain the same. We would have to artificially give everybody enough <span class="_paradigm">RAD</span>s to end up with the same pay, given their revenue. What would this <span class="_paradigm">RAD</span> Distribution look like?</p>
  <p>For example, Lockheed&rsquo;s CEO gets paid $16M. How many <span class="_paradigm">RAD</span>s would he have to have, given their revenue and profit?</p>
  <p>To answer that question one the authors, Adrian, had to find the Executive team compensation,</p>
   <ol>
@@ -27,8 +27,8 @@ image:    "icon-small-bites-how-lockheed-martin-could-ease-into-using-rads.svg"
  <p>I have friends who say with an entirely straight face that the executive salaries are entirely justified because they do that much more than the average employee.</p>
  <p>In the case of Lockheed Martin, if we look at the ratio between the CEO and the average employee. He earns over 265 times as much. So here is an engineer working on a satellite or missile, but the CEO is supposedly contributing 265 times more. Maybe he is sending emails 265 times as fast. But of course it&rsquo;s not about quantity and speed. It&rsquo;s about quality and value to the business. So, does that mean that the CEO has ideas that are 265 times as valuable as that satellite engineer&rsquo;s?</p>
  <p>I would admit that the ability to make deals that create or destroy sources of revenue, is valuable. But it is not a factor of savvy, as much as it is a function of <em>the power</em> to make decisions on that scale. Take anyone in the company and give them the same <em>power and access to information</em>, and they will able to make decisions that create or destroy sources of revenue as well.</p>
- <p>Many would say that <em>homo economicus</em> is not going to be motivated to make money for the shareholders unless they get something out it, too. So we would have to pay them all what we pay the top Boss and his crew of Lesser Bosses. And that&rsquo;s and that is one of the foundations of the <span class="_paradigm">FIAT</span> system.</p>
- <p>In a <span class="_paradigm">RADICAL</span> company everybody is the equivalent of the CEO in terms of being able to make decisions in behalf of the company (Decentralization) and access to information (Transparency). They all participate in creating value and they benefit from the value they create.</p>
+ <p>Many would say that <em>homo economicus</em> is not going to be motivated to make money for the shareholders unless they get something out it, too. So we would have to pay them all what we pay the top Boss and his crew of Lesser Bosses. And that&rsquo;s and that is one of the foundations of the <span class="_paradigm">Fiat</span> system.</p>
+ <p>In a <span class="_paradigm">Radical</span> company everybody is the equivalent of the CEO in terms of being able to make decisions in behalf of the company (Decentralization) and access to information (Transparency). They all participate in creating value and they benefit from the value they create.</p>
 
 <h1>Doing It Differently</h1>
  <p>Imagine this: What if we take the bonuses for the employees and distribute them <em>equitably</em> to everybody? What if we also take the executive bonuse and distribute it equitably as well?</p>
@@ -36,7 +36,7 @@ image:    "icon-small-bites-how-lockheed-martin-could-ease-into-using-rads.svg"
 
 <h1>Equitable Distribution</h1>
  <p>&ldquo;Equitable&rdquo; sounds good, but there isn&rsquo;t a generally agreed formula for it. People have tried all kinds, but none really work for long and are often tweaked. Eventually, they become unintelligible to most people, and mistrusted.</p>
- <p>We have not discovered a formula for it, either. What <span class="_paradigm">RADICAL</span> supports, and what a <span class="_paradigm">RAD<span>s do, is that it lets employees determine what a <em>valuable contribution</em> is.</p>
+ <p>We have not discovered a formula for it, either. What <span class="_paradigm">Radical</span> supports, and what a <span class="_paradigm">RAD<span>s do, is that it lets employees determine what a <em>valuable contribution</em> is.</p>
  <p>As an experiements, we could do the following,</p>
   <ul>
    <li>Lockheed Martin employees would co-own the employee bonus pool.</li>
@@ -55,7 +55,7 @@ image:    "icon-small-bites-how-lockheed-martin-could-ease-into-using-rads.svg"
   <p>Each employee/co-owner gets to recognize the people they work with. They do this based on <em>whatever they feel</em> is their contribution. Managers would not have to waste time agonizing over this. Next, managers can participate as co-owners of the fund (<em>i.e.</em>, which would now include their bonus pool as well). Over time, more and more bosses, and their bonus pools, would be include in this until, finally, the top executives, and their bonuses, would be included.</p>
 
 <h1>But, Wait: THERE IS MORE!</h1>
- <p>This still leaves us with the pay gap between executives and employees (<em>e.g.</em>, the CEO makes 265 times what an average employee draws). For that we would have to do something about the imposed, <span class="_paradigm">FIAT</span> hierarchy (<em>i.e.</em>, it is not <em>a given</em> for businesses, as usually we assume). Once that&rsquo;s done, Lockheed Martin would be ready to align salaries with <span class="_paradigm">RAD</span>s instead of titles.<a href="#en06"><sup id="bm06">&nabla;&hairsp;</sup></a></p>
+ <p>This still leaves us with the pay gap between executives and employees (<em>e.g.</em>, the CEO makes 265 times what an average employee draws). For that we would have to do something about the imposed, <span class="_paradigm">Fiat</span> hierarchy (<em>i.e.</em>, it is not <em>a given</em> for businesses, as usually we assume). Once that&rsquo;s done, Lockheed Martin would be ready to align salaries with <span class="_paradigm">RAD</span>s instead of titles.<a href="#en06"><sup id="bm06">&nabla;&hairsp;</sup></a></p>
  
 <h1 class="_section">APPENDICES</h1>
  <h1>Wealth Extraction by Lockheed-Martin Bosses</h1>

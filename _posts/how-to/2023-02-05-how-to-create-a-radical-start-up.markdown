@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "How to Create a <span class='_paradigm'>RADICAL</span> Startup"
+title:    "How to Create a <span class='_paradigm'>Radical</span> Startup"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-how-to-create-a-radical-start-up.svg"
@@ -51,8 +51,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>Seed capital is formalized and made legal as a Note that promises them, 1) their money back plus some upside, or 2) future shares of the new company. Note that you startup company <em>won&rsquo;t have shares</em> (but hopes to, one day).</p>
 
 <h1>RADICAL Investments</h1>
- <p>What we are proposing here is you treat capital infusions as a <em><span class="_paradigm">RADICAL</span> investment</em>.</p>
- <p><span class="_paradigm">RADICAL</span> invesments include paying back the principal and an upside over a certain time. It could be 120% over two years, or double after five, or whatever you think is realistic and reasonable. Very important: <span class="_paradigm">RADICAL</span> investments do not include <em>any</em> other powers. This won&rsquo;t be a surprise for the friends/family/fools crowd. It will most likely be a surprise to traditional <span class="_paradigm">FIAT</span> capital investors; even unacceptable. However, a few &ldquo;traditional&rdquo; investors may be inspired enough to go along with a <span class="_paradigm">RADICAL</span>-investment.</p> The guaranteed return may do the trick.</p>
+ <p>What we are proposing here is you treat capital infusions as a <em><span class="_paradigm">Radical</span> investment</em>.</p>
+ <p><span class="_paradigm">Radical</span> invesments include paying back the principal and an upside over a certain time. It could be 120% over two years, or double after five, or whatever you think is realistic and reasonable. Very important: <span class="_paradigm">Radical</span> investments do not include <em>any</em> other powers. This won&rsquo;t be a surprise for the friends/family/fools crowd. It will most likely be a surprise to traditional <span class="_paradigm">Fiat</span> capital investors; even unacceptable. However, a few &ldquo;traditional&rdquo; investors may be inspired enough to go along with a <span class="_paradigm">Radical</span>-investment.</p> The guaranteed return may do the trick.</p>
  <p>Instead of promising wild returns, you may structure it as a reasonable, even low, guaranteed return plus a percentage of dividends for a fixed period of time. This avoids the &ldquo;power forever&rsquo; setup of today.</p>
 
  <h1>Predictable Recurring Income (PRI)</h1>
@@ -79,7 +79,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <li>If this figure is would, co-owners decide how to handle, say, the PRI Fund too drying too quickly.</li>
    <li>In the happy path, the stated figure is acceptable and doesn&rsquo;t cause any commotions.</li>
   </ul>
- <p>This is the important, and probably most contentious, thing of all: a withdrawal from the PRI Fund is <em>a personal debt</em> that a co-owner is responsible for. Other policies are plausible, but this seems to be the most reasonable. Co-owners are not exchanging their time for just a salary as is the case in <span class="_paradigm">FIAT</span> land and the people drawing from the PRI Fund are co-owners. Each need to realize that they are responsible for what they take out of fund.</p>
+ <p>This is the important, and probably most contentious, thing of all: a withdrawal from the PRI Fund is <em>a personal debt</em> that a co-owner is responsible for. Other policies are plausible, but this seems to be the most reasonable. Co-owners are not exchanging their time for just a salary as is the case in <span class="_paradigm">Fiat</span> land and the people drawing from the PRI Fund are co-owners. Each need to realize that they are responsible for what they take out of fund.</p>
  <p>This means that co-onwers need to decide what to with people who exit while still having PRI debt. For example, you may decide to put limits on time (<span class="_quotespan">We have agreed to do this for six months&hellip;</span>) or amount (<span class="_quotespan">We have agreed to do this for as long as the $500,000 in the PRI Fund lasts</span>), or you want to have a discussion with the PRI debt to <span class="_paradigm">RAD</span>s falls too low. The point is that it is up to you, the co-owners.</p>
 
 <h1>The <em>RADs!</em> Mobile App</h1>
@@ -190,10 +190,10 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <li>Does it work for you?</li>
    <li>Does anything need to change or be clarified for you?</li>
   </ul>
- <p>For example, allot one hour each to Mindset, Transparency, and Collaboration. We have spend many more that three hours on these, and it has been very worth it. Doing it will get you to a level of trust with other co-owners that <span class="_paradigm">FIAT</span> businesses don&rsquo;t never get near. This practice creates a basline for the relationships that are so important to our success.</p>
+ <p>For example, allot one hour each to Mindset, Transparency, and Collaboration. We have spend many more that three hours on these, and it has been very worth it. Doing it will get you to a level of trust with other co-owners that <span class="_paradigm">Fiat</span> businesses don&rsquo;t never get near. This practice creates a basline for the relationships that are so important to our success.</p>
 
 <h1>So&hellip;</h1>
- <p>To create a <span class="_paradigm">RADICAL</span> startup, do whatever works for you. We are not preaching a dogma, only a way to do it more easily and with a definite intention to get away from the <span class="_paradigm">FIAT</span> way of doing thigs..</p>
+ <p>To create a <span class="_paradigm">Radical</span> startup, do whatever works for you. We are not preaching a dogma, only a way to do it more easily and with a definite intention to get away from the <span class="_paradigm">Fiat</span> way of doing thigs..</p>
   <div class="_center">
    <table class="_h2table">
     <tr>
@@ -205,8 +205,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <tr>
      <th>Borrowing Capital</th>
      <td>
-      <p>Borrowin capital is an option, but do not trade capital for &ldquo;control&rdquo; or any such <span class="_paradigm">FIAT</span> concept. And don't fool yourself with what you hope to do &ldquo;later.&rdquo;</p>
-      <p>Likely, you will need for the PRI fund. If that is the case, make it a <span class="_paradigm">RADICAL</span> investment.</p>
+      <p>Borrowin capital is an option, but do not trade capital for &ldquo;control&rdquo; or any such <span class="_paradigm">Fiat</span> concept. And don't fool yourself with what you hope to do &ldquo;later.&rdquo;</p>
+      <p>Likely, you will need for the PRI fund. If that is the case, make it a <span class="_paradigm">Radical</span> investment.</p>
      </td>
     </tr>
     <tr>
@@ -218,7 +218,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <tr>
      <th>The PRI Fund</th>
      <td>
-      <p>You may not need one, but if you do, fund it with a <span class="_paradigm">RADICAL</span> Invesment.</p>
+      <p>You may not need one, but if you do, fund it with a <span class="_paradigm">Radical</span> Invesment.</p>
      </td>
     </tr>
     <tr>
@@ -229,7 +229,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
         <li>Explicit Relationship and Explicit Alignment can help establish a foundation for healthy relationships.</li>
         <li>
          <p>The <em><span class="_paradigm">RAD</span>s!</em> mobile app makes it easier for all co-owners to recognize contributions.</p>
-         <p>It also makes it easier to start difficult conversations which requires different skills than what we have learned throughout our lives in a <span class="_paradigm">FIAT</span> system. Sometimes the conversation will end up being a misunderstanding, sometimes behavior will have to change, and other times it will end up in a collaboration to do things differently.</p>
+         <p>It also makes it easier to start difficult conversations which requires different skills than what we have learned throughout our lives in a <span class="_paradigm">Fiat</span> system. Sometimes the conversation will end up being a misunderstanding, sometimes behavior will have to change, and other times it will end up in a collaboration to do things differently.</p>
         </li>
        </ul>
      </td>

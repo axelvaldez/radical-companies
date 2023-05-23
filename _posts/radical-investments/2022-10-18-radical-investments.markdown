@@ -7,11 +7,11 @@ image:    "icon-radical-investments.svg"
 ---
 
 <div style="display:none;">
- <p><span class="_paradigm">RADICAL</span> investments are more like an Angel investment or a real estate investment. For sure, they are not at all like Venture Capital investments.</p>
+ <p><span class="_paradigm">Radical</span> investments are more like an Angel investment or a real estate investment. For sure, they are not at all like Venture Capital investments.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p><span class="_paradigm">RADICAL</span> investments are more like an Angel investment or a real estate investment. Actually, it could be both. For sure, they are not at all like Venture Capital investments.</p>
+ <p><span class="_paradigm">Radical</span> investments are more like an Angel investment or a real estate investment. Actually, it could be both. For sure, they are not at all like Venture Capital investments.</p>
  <p>Here is a sketch of each&hellip;</p>
  
 <h1>Venture Capital Investments</h1>
@@ -28,9 +28,9 @@ image:    "icon-radical-investments.svg"
  <p>Real estate investors exchange their capital for an annuity. They receive their return as a percentage of their investment on a recurring basis. Normally, this return goes on for the life of the investor, but it may also survive the death of the original investor.</p>
  <p>BTW, I am not sure if this applies to <em>all</em> types of real estate investments, but it applies to hotels and other real estate ventures.</p>
 
-<h1><span class="_paradigm">RADICAL</span> Investments</h1>
- <p>A <span class="_paradigm">RADICAL</span> investment does not trigger an ownership transfer. <span class="_paradigm">RADICAL</span> investors do not seek control of the companies they invest in, nor are they looking for a &ldquo;forever&rdquo; return.</p>
- <p>Like the Angel investment, a <span class="_paradigm">RADICAL</span> Investments exchanges capital for a promissory note. Like a real estate investment, the return may come as an annuity. A big difference to other forms of investment, is that a <span class="_paradigm">RADICAL</span> investor can also participate in giving and receiving <span class="_paradigm">RAD</span>s. Investors can,</p>
+<h1><span class="_paradigm">Radical</span> Investments</h1>
+ <p>A <span class="_paradigm">Radical</span> investment does not trigger an ownership transfer. <span class="_paradigm">Radical</span> investors do not seek control of the companies they invest in, nor are they looking for a &ldquo;forever&rdquo; return.</p>
+ <p>Like the Angel investment, a <span class="_paradigm">Radical</span> Investments exchanges capital for a promissory note. Like a real estate investment, the return may come as an annuity. A big difference to other forms of investment, is that a <span class="_paradigm">Radical</span> investor can also participate in giving and receiving <span class="_paradigm">RAD</span>s. Investors can,</p>
   <ul>
    <li>Work with their portfolio companies,</li>
    <li>Help them improve their chances of success, and</li>

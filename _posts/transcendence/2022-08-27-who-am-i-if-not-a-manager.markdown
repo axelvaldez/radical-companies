@@ -7,21 +7,21 @@ image:    "existential-threat-icon.svg"
 ---
 
 <div style="display:none;">
- <p>&ldquo;<span class="_paradigm">RADICAL</span>&rdquo; is often perceived as an existential threat to managers. Ironically, managers can be the happiest abandoning their titles and becoming co-owners with their fellow employees.</p>
+ <p>&ldquo;<span class="_paradigm">Radical</span>&rdquo; is often perceived as an existential threat to managers. Ironically, managers can be the happiest abandoning their titles and becoming co-owners with their fellow employees.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>When we talk to people about going <span class="_paradigm">RADICAL</span> at their company, many perceive an existential threat to managers. &ldquo;If you are getting rid of my job type, then you are getting rid of me.&rdquo; Ironically, managers can be the happiest abandoning their titles and becoming co-partners with their fellow employees. People who are today &ldquo;managers&rdquo; will benefit the most by going <span class="_paradigm">RADICAL</span> because they are currently boxed up  by the <span class="_paradigm">FIAT</span> hierarchy.</p>
+ <p>When we talk to people about going <span class="_paradigm">Radical</span> at their company, many perceive an existential threat to managers. &ldquo;If you are getting rid of my job type, then you are getting rid of me.&rdquo; Ironically, managers can be the happiest abandoning their titles and becoming co-partners with their fellow employees. People who are today &ldquo;managers&rdquo; will benefit the most by going <span class="_paradigm">Radical</span> because they are currently boxed up  by the <span class="_paradigm">Fiat</span> hierarchy.</p>
  <p>Thinking about hierarchical inefficiency, what comes to mind is what happened  recently to a friend who works at Amazon: he was recently put on probation <em>for not writing enough lines of code</em>. You read that right. I thought software companies had moved beyond stupid metrics like this, but I was wrong.</p>
  <p>Why wasn’t he writing enough code? Because he was helping the other engineers achieve more by instructing them in things that would make total system performance even better. He was boosting each of his fellow engineers and getting them to output better quality code and a system that performed better. Helping people was part of his job description, but he was pretty surprised to find out that <em>belting out more lines of code</em> was most important.</p>
 <h1>Climbing the Hierarchy</h1>
  <p>So if you are a senior software engineer and you want to get paid more, it’s better to get away from the programmer metrics and become a manager. You are going to go to a lot more meetings instead and you are going to be spending your time defending your team from the rest of the organization. As a senior engineer, you were helping your team do better and become better. You were operating as a role model. But now, as a manager, you have been essentially neutralized.</p>
 
 <h1>Going RADICAL</h1>
- <p>Now imagine, your company goes <span class="_paradigm">RADICAL</span> and you are no longer a manager. If you had embraced this as part of your identity, it’s going to be difficult to let go. How do I make more money? What do I tell my friends? I am just one of the grunts!</p>
- <p class="_mb0">Instead, you are now a co-owner and co-manager of <em>your</em> <span class="_paradigm">RADICAL</span> company,</p>
+ <p>Now imagine, your company goes <span class="_paradigm">Radical</span> and you are no longer a manager. If you had embraced this as part of your identity, it’s going to be difficult to let go. How do I make more money? What do I tell my friends? I am just one of the grunts!</p>
+ <p class="_mb0">Instead, you are now a co-owner and co-manager of <em>your</em> <span class="_paradigm">Radical</span> company,</p>
  <ul>
-  <li>You don’t have to waste time defending your team from the rest of the hierarchy, because there is no <span class="_paradigm">FIAT</span> hierarchy.</li>
+  <li>You don’t have to waste time defending your team from the rest of the hierarchy, because there is no <span class="_paradigm">Fiat</span> hierarchy.</li>
   <li>You don’t go to meetings unless you have something of value to contribute.</li>
   <li>Your contribution as a role model to help the other engineers produce quality code and a system that performs better will be directly recognized.</li>
   <li>If helping people is your thing, and others recognize it, then that’s what counts and what gets rewarded.</li>

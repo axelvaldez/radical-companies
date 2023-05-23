@@ -53,9 +53,9 @@ image:    "icon-kendell-johnson-subscription-economy.svg"
  </div>
 
 <h1>What Does It All Mean?</h1>
- <p>The world is ready for a new economic model. Not one that is going to come from above, but a new model that will come together according to needs. <span class='_paradigm'>RADICAL</span> is one such model, but there will be many others.</p>
- <p>One way to tell the progressive models from the not-so-progressive ones is how they relate to the <span class='_paradigm'>FIAT</span> model. If they are a rehash of the <span class='_paradigm'>FIAT</span> model, walk away from it. If they are an alternative to the <span class='_paradigm'>FIAT</span> model, it is worth another look.</p>
- <p>It is very, very important to be able to <em>see</em> the <span class='_paradigm'>FIAT</span> model that does not work for us. If a new model refers to anything that requires an all powerful, benevolent person passing judgement, it is just another <span class='_paradigm'>FIAT</span> scheme. Anything that requires a center, for making decision or distributing &ldquo;bonuses,&rdquo; it is just another <span class='_paradigm'>FIAT</span> scheme</p>
+ <p>The world is ready for a new economic model. Not one that is going to come from above, but a new model that will come together according to needs. <span class='_paradigm'>Radical</span> is one such model, but there will be many others.</p>
+ <p>One way to tell the progressive models from the not-so-progressive ones is how they relate to the <span class='_paradigm'>Fiat</span> model. If they are a rehash of the <span class='_paradigm'>Fiat</span> model, walk away from it. If they are an alternative to the <span class='_paradigm'>Fiat</span> model, it is worth another look.</p>
+ <p>It is very, very important to be able to <em>see</em> the <span class='_paradigm'>Fiat</span> model that does not work for us. If a new model refers to anything that requires an all powerful, benevolent person passing judgement, it is just another <span class='_paradigm'>Fiat</span> scheme. Anything that requires a center, for making decision or distributing &ldquo;bonuses,&rdquo; it is just another <span class='_paradigm'>Fiat</span> scheme</p>
  <p>The system we crave is decentralized and transparent. It supports our need for a meaningful existence and belonging. It thrives on experimentation. If a system has these characteristic, it is worth a try.</p>
 
 {% include related.html %}

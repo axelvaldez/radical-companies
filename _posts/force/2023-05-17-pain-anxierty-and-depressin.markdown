@@ -30,7 +30,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
     alt="">
   </div>
  <p>I believe that this &ldquo;explosion&rdquo; of anxiety and depression diagnoses have to do with the fact that they economy is not working for post-1971 folks. We raised our children for a world that never materialized. And so they are more sensitive to the fact that they are close to pain and there&rsquo;re only very few, limited ways out.</p>
- <p>In any case the &ldquo;out&rdquo; would be to the <span class='_paradigm'>FIAT</span> system, something that they&rsquo;ve watched their parents go through and are not excited about for themselves or for their children.</p>
+ <p>In any case the &ldquo;out&rdquo; would be to the <span class='_paradigm'>Fiat</span> system, something that they&rsquo;ve watched their parents go through and are not excited about for themselves or for their children.</p>
   <div class="_center">
    <img
     src="/assets/img/pic-fiat-fear-force-or-pain.svg"
@@ -39,7 +39,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
   </div>
 
 <h1>Co-Ownership</h1>
- <p>Co-ownership, co-management, and something like the <span class='_paradigm'>RADICAL</span> system is closer to what they may be wishing for. Instead of self-managekejt, we call it co-management<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a>, but whatever you call it, we also need co-ownership, decentralized ownership.</p>
+ <p>Co-ownership, co-management, and something like the <span class='_paradigm'>Radical</span> system is closer to what they may be wishing for. Instead of self-managekejt, we call it co-management<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a>, but whatever you call it, we also need co-ownership, decentralized ownership.</p>
  <p>I often see <em>experts</em> encouraging you to &ldquo;think like an owner.&rdquo; But you are not, so all that enouragement is a bunch of empty words.</p>
  <p>On the other hand, as a co-owner you behave like an owner, simplye because <em>you are.</em> No empty words necessary.</p>
 

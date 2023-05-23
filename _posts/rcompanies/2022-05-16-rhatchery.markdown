@@ -7,22 +7,22 @@ image:    "icon-rmedia.svg"
 ---
 
 <div style="display: none; ">
- <p>Curious people can get the <span style="font-size:smaller; ">RADICAL</span> experience by staying with <span style="font-size:smaller; ">RADICAL</span> companies in the rCircuit.</p>
+ <p>Curious people can get the <span style="font-size:smaller; ">Radical</span> experience by staying with <span style="font-size:smaller; ">Radical</span> companies in the rCircuit.</p>
 </div>
 
 <div style="background-color:beige; font-size:x-large; font-family:american typewriter, serif; padding:1em; margin-bottom:30px; " class="_typewriter">
- <p style="text-align:center; margin:0; ">Compassion is the <span style="font-size:smaller; ">RADICAL</span>ism of our time</p>
+ <p style="text-align:center; margin:0; ">Compassion is the <span style="font-size:smaller; ">Radical</span>ism of our time</p>
  <p style="text-align:right; margin:0; font-size:smaller; ">&mdash; Dalai Lama XIV</p>
 </div>
 
 <h1>Intro</h1>
- <p>rHatcheries (<span style="font-size:smaller; ">RADICAL</span> Hatcheries) are in the business of helping companies transform from <span style="font-size:smaller; ">FIAT</span> to <span style="font-size:smaller; ">RADICAL</span> management, including</p>
+ <p>rHatcheries (<span style="font-size:smaller; ">Radical</span> Hatcheries) are in the business of helping companies transform from <span style="font-size:smaller; ">Fiat</span> to <span style="font-size:smaller; ">Radical</span> management, including</p>
   <ol>
-   <li>Recognize their <span style="font-size:smaller; ">FIAT</span> habits, rules, and mindset.</li>
-   <li>Figure out how to move steadily away from <span style="font-size:smaller; ">FIAT</span> habits, rules, and mindset and towards the <span style="font-size:smaller; ">RADICAL</span> path.</li>
+   <li>Recognize their <span style="font-size:smaller; ">Fiat</span> habits, rules, and mindset.</li>
+   <li>Figure out how to move steadily away from <span style="font-size:smaller; ">Fiat</span> habits, rules, and mindset and towards the <span style="font-size:smaller; ">Radical</span> path.</li>
    <li>Point out when they are heading into a force pit.</li>
-   <li>Keep moving forward on the <span style="font-size:smaller; ">RADICAL</span> path.</li>
-   <li>Help them not fall back on <span style="font-size:smaller; ">RADICAL</span> habits.</li>
+   <li>Keep moving forward on the <span style="font-size:smaller; ">Radical</span> path.</li>
+   <li>Help them not fall back on <span style="font-size:smaller; ">Radical</span> habits.</li>
   </ol>
 
 <h1>Alignment</h1>
@@ -35,7 +35,7 @@ image:    "icon-rmedia.svg"
    <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What for?</td>
    <td>
     <ul>
-     <li>The <span style="font-size:smaller; ">RADICAL</span> paradigm is on its way to becoming the norm. Many companies have turned away from <span style="font-size:smaller; ">FIAT</span> and continue to evolve along the <span style="font-size:smaller; ">RADICAL</span> path.</li>
+     <li>The <span style="font-size:smaller; ">Radical</span> paradigm is on its way to becoming the norm. Many companies have turned away from <span style="font-size:smaller; ">Fiat</span> and continue to evolve along the <span style="font-size:smaller; ">Radical</span> path.</li>
     </ul>
    </td>
   </tr>
@@ -46,7 +46,7 @@ image:    "icon-rmedia.svg"
    <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Why?</td>
    <td>
     <ul>
-     <li>To help companies get started and stay on the <span style="font-size:smaller; ">RADICAL</span> path.</li>
+     <li>To help companies get started and stay on the <span style="font-size:smaller; ">Radical</span> path.</li>
     </ul>
    </td>
   </tr>
@@ -98,7 +98,7 @@ image:    "icon-rmedia.svg"
    </td>
    <td>
     <ul>
-     <li>Promotion of their ideas, of themselves, of their content.  The satisfaction of creating a new, <span style="font-size:smaller; ">RADICAL</span> world one company at a time.</li>
+     <li>Promotion of their ideas, of themselves, of their content.  The satisfaction of creating a new, <span style="font-size:smaller; ">Radical</span> world one company at a time.</li>
     </ul>
    </td>
   </tr>
@@ -113,7 +113,7 @@ image:    "icon-rmedia.svg"
    <td>
     <ul>
      <li>Learning from the ability to experiment with various media, different messages.</li>
-     <li>Spreading the <span style="font-size:smaller; ">RADICAL</span> story, by example, as a <span style="font-size:smaller; ">RADICAL</span> farm, as evangelists.</li>
+     <li>Spreading the <span style="font-size:smaller; ">Radical</span> story, by example, as a <span style="font-size:smaller; ">Radical</span> farm, as evangelists.</li>
     </ul>
    </td>
   </tr>
@@ -128,9 +128,9 @@ image:    "icon-rmedia.svg"
    <td>
     <ul>
      <li>Learning to let go of fear.</li>
-     <li>Learning <span style="font-size:smaller; ">RADICAL</span> habits.</li>
+     <li>Learning <span style="font-size:smaller; ">Radical</span> habits.</li>
      <li>Practicing these new habits at home and in their communities.</li>
-     <li>Learning from the <span style="font-size:smaller; ">RADICAL</span> farms.</li>
+     <li>Learning from the <span style="font-size:smaller; ">Radical</span> farms.</li>
     </ul>
    </td>
   </tr>
@@ -143,9 +143,9 @@ image:    "icon-rmedia.svg"
 
 <h1>How It Works</h1>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Embrace FIAT</h2>
-  <p>The <span style="font-size:smaller; ">FIAT</span> world is our own creation and we start by embracing that.  When we engage with folks creating or running a business, even startups, we are engaging with <span style="font-size:smaller; ">FIAT</span> minded people. In fact, most people around today are <span style="font-size:smaller; ">FIAT</span> minded. That’s not a &ldquo;fault&rdquo; of theirs, that’s just the way it is.</p>
-  <p>When we engage with established companies that want to make the transition,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> they are going to show up as <span style="font-size:smaller; ">FIAT</span> companies.  Their top boss has an intuition about &ldquo;a better way,&rdquo; but she’ll hear everything you say through <span style="font-size:smaller; ">FIAT</span> filters.</p>
-  <p>Don’t roll your eyes.  Don’t get exasperated.  Don’t smirk.  &ldquo;Help people reach their full potential.  Catch them doing something right.&rdquo;<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> People have spent years learning <span style="font-size:smaller; ">FIAT</span> habits.  You have to help them walk away from those and get used to <span style="font-size:smaller; ">RADICAL</span> habits.  Show them compassion, not pity, and respect for their commitment to the transformation.</p>
+  <p>The <span style="font-size:smaller; ">Fiat</span> world is our own creation and we start by embracing that.  When we engage with folks creating or running a business, even startups, we are engaging with <span style="font-size:smaller; ">Fiat</span> minded people. In fact, most people around today are <span style="font-size:smaller; ">Fiat</span> minded. That’s not a &ldquo;fault&rdquo; of theirs, that’s just the way it is.</p>
+  <p>When we engage with established companies that want to make the transition,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> they are going to show up as <span style="font-size:smaller; ">Fiat</span> companies.  Their top boss has an intuition about &ldquo;a better way,&rdquo; but she’ll hear everything you say through <span style="font-size:smaller; ">Fiat</span> filters.</p>
+  <p>Don’t roll your eyes.  Don’t get exasperated.  Don’t smirk.  &ldquo;Help people reach their full potential.  Catch them doing something right.&rdquo;<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> People have spent years learning <span style="font-size:smaller; ">Fiat</span> habits.  You have to help them walk away from those and get used to <span style="font-size:smaller; ">Radical</span> habits.  Show them compassion, not pity, and respect for their commitment to the transformation.</p>
   <p>You are not going to win them all.  You just have to figure out when you can walk away and leave them to build their co-management and co-ownership skills without you.</p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Rinse and Repeat</h2>
   <p>This is about the various ways to get the basics out and repeat them over and over to let them sink in.  We learn by repetition, so repeat.</p>
@@ -154,8 +154,8 @@ image:    "icon-rmedia.svg"
   <ol>
    <li>Describe scenario</li>
    <li>Team plays out a response</li>
-   <li>Retrospective to identify <span style="font-size:smaller; ">FIAT</span> behavior (<em>e.g.</em>, competitive)</li>
-   <li>Brainstorming for <span style="font-size:smaller; ">RADICAL</span> alternatives (<em>e.g.</em>, collaboration)</li>
+   <li>Retrospective to identify <span style="font-size:smaller; ">Fiat</span> behavior (<em>e.g.</em>, competitive)</li>
+   <li>Brainstorming for <span style="font-size:smaller; ">Radical</span> alternatives (<em>e.g.</em>, collaboration)</li>
   </ol>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Triads</h2>
   <p>David Logan, researcher and principal author of Tribal Leadership, suggested forming triads, a group of three people, to support each other.  So instead of the &ldquo;1-on-1 with your boss,&rdquo; you could instead do it with your peers. Logan meant triads as a mechanism to help people move up the <em>five tribal stages</em>,</p>
@@ -167,10 +167,10 @@ image:    "icon-rmedia.svg"
    <li>Life is great</li>
   </ol>
   <p>Ideally, the triad would include somebody who’s a &ldquo;stage four&rdquo; person.  As Logan would have it, &ldquo;You’ll know these individuals by (1) their focus on &ldquo;we,&rdquo; (2) the number of triads in their networks, and (3) success that comes from groups.&rdquo;<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></p>
-   <p>Triads are a co-training tool, where everybody ends up a <span style="font-size:smaller; ">RADICAL</span> evangelist. Hatchers would be the first &ldquo;stage four&rdquo; cohort to kick off the triads, but then they would replace themselves with <em><span style="font-size:smaller; ">RADICAL</span>-IN-TRAINING</em> folks.</p>
- <h2 style="font-size:30px; font-family:Courier New, monospace; " style="font-size:30px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">RADICAL</span> Farm Systems</h2>
-  <p>This technique is inspired by Cesar Millan, The Dog Whisperer, and his dog &ldquo;farm.&rdquo;.  His large backyard is full of dogs that simply behave like dogs.  Other dogs can stay in the farm for a while to learn to be dogs. Most of the time, a &ldquo;trouble dog&rdquo; is trouble only because of its owner.  These are not mean people, but they treat their dogs as babies, siblings, or roommates.  But dogs are dogs, not humans. Atd his farm, Cesar let the dogs get back to their roots.  When they &ldquo;graduate&rdquo; from the farm, these are, literally, <span style="font-size:smaller; ">RADICAL</span> dogs.</p>
-  <p><span style="font-size:smaller; ">RADICAL</span><em> </em>Farms would serve a similar purpose.  People from would-be <span style="font-size:smaller; ">RADICAL</span> companies would spend time at one of the many <span style="font-size:smaller; ">RADICAL</span> farms in the system.  These &ldquo;farms&rdquo; are <span style="font-size:smaller; ">RADICAL</span> companies that are prepared to host would-be <span style="font-size:smaller; ">RADICAL</span> so they can learn how to let go of fear driven habits.</p>
+   <p>Triads are a co-training tool, where everybody ends up a <span style="font-size:smaller; ">Radical</span> evangelist. Hatchers would be the first &ldquo;stage four&rdquo; cohort to kick off the triads, but then they would replace themselves with <em><span style="font-size:smaller; ">Radical</span>-IN-TRAINING</em> folks.</p>
+ <h2 style="font-size:30px; font-family:Courier New, monospace; " style="font-size:30px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">Radical</span> Farm Systems</h2>
+  <p>This technique is inspired by Cesar Millan, The Dog Whisperer, and his dog &ldquo;farm.&rdquo;.  His large backyard is full of dogs that simply behave like dogs.  Other dogs can stay in the farm for a while to learn to be dogs. Most of the time, a &ldquo;trouble dog&rdquo; is trouble only because of its owner.  These are not mean people, but they treat their dogs as babies, siblings, or roommates.  But dogs are dogs, not humans. Atd his farm, Cesar let the dogs get back to their roots.  When they &ldquo;graduate&rdquo; from the farm, these are, literally, <span style="font-size:smaller; ">Radical</span> dogs.</p>
+  <p><span style="font-size:smaller; ">Radical</span><em> </em>Farms would serve a similar purpose.  People from would-be <span style="font-size:smaller; ">Radical</span> companies would spend time at one of the many <span style="font-size:smaller; ">Radical</span> farms in the system.  These &ldquo;farms&rdquo; are <span style="font-size:smaller; ">Radical</span> companies that are prepared to host would-be <span style="font-size:smaller; ">Radical</span> so they can learn how to let go of fear driven habits.</p>
   <p>If dogs can learn how to be dogs from other dogs, people can best learn how to be people from other people.</p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Emerging Sensitivities</h2>
   <p>We are very sensitive about people who want to dominate us.  When people say, &ldquo;I’ve always had trouble with authority,&rdquo; I hear that as &ldquo;I am very sensitive to anything and anybody trying to dominate me, and I always resist.&rdquo;  That’s because we have grown up in a system fueled by domination.</p>
@@ -216,16 +216,16 @@ image:    "icon-rmedia.svg"
    <li>Kim can talk about Conscious Contracts.</li>
    <li>Train the bigger, more mature Hatchers, too,</li>
   </ul>
-  <p>Their pitch would have to adjust to incorporate the <span style="font-size:smaller; ">RADICAL</span> model.</p>
+  <p>Their pitch would have to adjust to incorporate the <span style="font-size:smaller; ">Radical</span> model.</p>
   <ul>
    <li>Hatcher triads? Mentored and learning to mentor.</li>
   </ul>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Hatchlings</h2>
   <p>Birds go through several stages on their way to adulthood: nestling, fledgling, juvenile, and, finally, adulthood. Our job is to help these people move towards adulthood.</p>
   <ul>
-   <li>Once a business signs an Agreement with us they are <span style="font-size:smaller; ">RADICAL</span>S.</li>
+   <li>Once a business signs an Agreement with us they are <span style="font-size:smaller; ">Radical</span>S.</li>
    <li>Co-ownership is included in the Agreement.</li>
-   <li><span style="font-size:smaller; ">FIAT</span> money payment is desirable, but not an obstacle to entry.</li>
+   <li><span style="font-size:smaller; ">Fiat</span> money payment is desirable, but not an obstacle to entry.</li>
    <li>???</li>
   </ul>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">COGS</h2>

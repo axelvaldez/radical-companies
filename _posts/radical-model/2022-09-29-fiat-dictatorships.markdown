@@ -14,11 +14,11 @@ image:    "icon-fiat-dictatorships.svg"
  <table align="center">
   <tr style="padding-left:10em; ">
    <td class="_citation">
-    <div style="padding-left:5em; "><span class="_paradigm">FIAT</span> businesses are dictatorships.</div>
+    <div style="padding-left:5em; "><span class="_paradigm">Fiat</span> businesses are dictatorships.</div>
     <div style="padding-left:10em; ">&amp;</div>
     <div style="padding-left:5em; ">Dictatorships are bad for the economy.</div>
     <div style="padding-left:10em; ">&there4;</div>
-    <div style="padding-left:5em; "><span class="_paradigm">FIAT</span> businesses are bad for the economy.</div>
+    <div style="padding-left:5em; "><span class="_paradigm">Fiat</span> businesses are bad for the economy.</div>
    </td>
   </tr>
  </table>
@@ -28,7 +28,7 @@ image:    "icon-fiat-dictatorships.svg"
 
 <h1>Are Dictatorships Illegal</h1>
  <p>Dictatorships may be repugnant, but are they <em>illegal</em>? There is no international law that I know of to declare them one way or the other, so everything they do is&hellip; undefined.</p>
- <p>At the business level, national laws make businesses legal. Given that businesses are <span class="_paradigm">FIAT</span> dictatorships, with all the power centralized in the hands of the owners, having owners collect all the profits is legal. And althrough that work for the handful of owners, it is not even the best way to grow wealth for society.</p>
+ <p>At the business level, national laws make businesses legal. Given that businesses are <span class="_paradigm">Fiat</span> dictatorships, with all the power centralized in the hands of the owners, having owners collect all the profits is legal. And althrough that work for the handful of owners, it is not even the best way to grow wealth for society.</p>
 
 <h1>The Stock Market</h1>
  <p>The brilliance of the stock market is the realization that it takes a community to grow.<p>
@@ -39,8 +39,8 @@ image:    "icon-fiat-dictatorships.svg"
  <p>The &ldquo;all men are created equal&rdquo; US Constitution was written and signed by slavers, but its interpretation has progressed since then. On the other hand, the stock market has been stuck. Over time, it went from a mechanism to come with pricing and has become a huge gambling table, with ruthless competition and predatory practices. All of this has limited its healthy growth.</p>
 
 <h1>Oh, the Irony</h1>
- <p>It is noteworthy that <span class="_paradigm">RADICAL</span> companies will be incubated <em>inside</em> the <span class="_paradigm">FIAT</span> system. In time this will transform the <span class="_paradigm">FIAT</span> system itself.</p>
- <p><span class="_paradigm">RADICAL</span> companies are better for business than <span class="_paradigm">FIAT</span> businesses. Ironic, no?</p>
+ <p>It is noteworthy that <span class="_paradigm">Radical</span> companies will be incubated <em>inside</em> the <span class="_paradigm">Fiat</span> system. In time this will transform the <span class="_paradigm">Fiat</span> system itself.</p>
+ <p><span class="_paradigm">Radical</span> companies are better for business than <span class="_paradigm">Fiat</span> businesses. Ironic, no?</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>

@@ -7,7 +7,7 @@ image:    "icon-the-radical-model-coming-together.svg"
 ---
 
 <div style="display:none;">
- <p>The <span class='_paradigm'>RADICAL</span> model, coming together.</p>
+ <p>The <span class='_paradigm'>Radical</span> model, coming together.</p>
 </div>
 
  <div class="_center">
@@ -18,6 +18,6 @@ image:    "icon-the-radical-model-coming-together.svg"
  </div>
 
 <h1>Missing</h1>
- <p>There are still elmenents that don&rsquo;t appear in this picture, <span class='_paradigm'>PAIN</span>, and <span class='_paradigm'>WELLBEING</span>. <span class='_paradigm'>SURVIVAL</span> is also meeting which is really closer to the root. Maybe in the future.</p>
+ <p>There are still elmenents that don&rsquo;t appear in this picture, <span class='_paradigm'>Pain</span>, and <span class='_paradigm'>WELLBEING</span>. <span class='_paradigm'>SURVIVAL</span> is also meeting which is really closer to the root. Maybe in the future.</p>
 
 {% include related.html %}

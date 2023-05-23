@@ -7,11 +7,11 @@ image:    "icon-mandarins-and-butterflies.svg"
 ---
 
 <div style="display:none;">
- <p>The <span class='_paradigm'>FIAT</span> way colonizes your mind in the most insidous ways. Sometimes, it simply doesn&rsquo;t let you enjoy a mandarin. But you can make your own way, and you can fly.</p>
+ <p>The <span class='_paradigm'>Fiat</span> way colonizes your mind in the most insidous ways. Sometimes, it simply doesn&rsquo;t let you enjoy a mandarin. But you can make your own way, and you can fly.</p>
 </div>
 
 <h1></h1>
- <p>I have just been gifted this beautful story. It details how little by little you end up making your own life smaller and restricted. How you internalize the <span class="_paradigm">FIAT</span> mindset and end up with a life interrupted, never letting yourself grow and mature.</p>
+ <p>I have just been gifted this beautful story. It details how little by little you end up making your own life smaller and restricted. How you internalize the <span class="_paradigm">Fiat</span> mindset and end up with a life interrupted, never letting yourself grow and mature.</p>
  <p>But you can find the strength, inside yourself, to fly.</p>
 
 <div class="_quotation" style="width:90%; ">
@@ -22,7 +22,7 @@ image:    "icon-mandarins-and-butterflies.svg"
  <p>These <em>little</em> decisions have been hurting me. They have made me feel bad and lead to the conclusiong that I don&rsquo;t deserve the things I like. Money has taken over and I have not been able to live my life according to what I really want for myself. I am having a toxic relationships with myslef, making myself feel bad for a while and then trying to make up for it, to compensate excessively: that has been the cycle of my life. When I accomplish something it feels that I am not worth it of it. The accomplishment itself seems unreal; maybe that was not an accomplishment after all. Or maybe it is not minde and I should not feel good or happy because something bad can come to take it away.</p>
  <p>I am starting to realize that I am bringing myself down with a mindset of reward and punishment. I have also realized that I haven&rsquo;t had a quality life and I&rsquo;ve been afraid to even think about it because of <em>money.</em> But coming to this realization has made me stronger. I am more sure of myself and the little voice in my head can&rsquo;t derail me because I now understand that money is a means, not an end.</p>
  <p>I went to the supermarket two days ago and guess what: I bought mandarins, even though they weren&rsquo;t on sale!</p>
- <p>I am making small changes, one step at a time and I feel I am on my way to live my own life. It is a bit ironic that it was this easy to do, that it was so difficult to realize how toxic conventional <span style="font-style:normal; ">[<span class="_paradigm">FIAT</span>]</span> organizations are. Most of all, I was surprised that I could not see how it was affecting me.</p>
+ <p>I am making small changes, one step at a time and I feel I am on my way to live my own life. It is a bit ironic that it was this easy to do, that it was so difficult to realize how toxic conventional <span style="font-style:normal; ">[<span class="_paradigm">Fiat</span>]</span> organizations are. Most of all, I was surprised that I could not see how it was affecting me.</p>
  <p>Now my <em>larva</em> is on its way to become a butterfuly :)</p>
 </div>
 

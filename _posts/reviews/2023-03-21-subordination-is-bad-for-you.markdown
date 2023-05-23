@@ -18,7 +18,7 @@ image:    "icon-subordination-is-bad-for-you-and-me.svg"
  </div>
 
 <h1>&nbsp;</h1>
- <p>To be fair, this has been tested in laboratory rats, not people. However, <span class="_quotespan">This propensity seems to be evolutionarily conserved.</span> which means that there is a high likelyhood that it applies to us, too, and subordination is bad for us. Not only it may lead to depression, it induces learned helplessness. The <span class="_paradigm">FIAT</span> hierarchy is an "inescapable aversive situation" for people, even the ones who are part of the hierarchy itself. They are constantly defeated and learn to be losers.</p>
+ <p>To be fair, this has been tested in laboratory rats, not people. However, <span class="_quotespan">This propensity seems to be evolutionarily conserved.</span> which means that there is a high likelyhood that it applies to us, too, and subordination is bad for us. Not only it may lead to depression, it induces learned helplessness. The <span class="_paradigm">Fiat</span> hierarchy is an "inescapable aversive situation" for people, even the ones who are part of the hierarchy itself. They are constantly defeated and learn to be losers.</p>
 
 <h1>Claim</h1>
  <p>And here is my claim: as opposed to rats, we can get over the &ldquo;loser&rdquo; mindset. We can win-at-all-costs by exploding and heading for ruthlessness if need be. Mind you, we&rsquo;ve learned to do it nicely, and be polite, not yell, and all that, but we are going to do what we have to do to win. And if it hurts others in the process, so be it.</p>
@@ -26,7 +26,7 @@ image:    "icon-subordination-is-bad-for-you-and-me.svg"
  <p>My subordinates could live with this kind of thing by telling themselves that it was a win for the team, though in reality it was a win for me. When the time came, I went along with eliminating the team that had &ldquo;backed&rdquo; so many wins for me.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
 
 <h1>People Are&hellip;</h1>
- <p>Whenever I hear a sentence that starts with, <span class="_quotespan">&hellip; but people are&hellip;,</span> I think, <span class="_quotespan">yes, that&rsquo;s the way we are <span id="_bolder">under the <span class="_paradigm">FIAT</span></span> system.</span> The system we have grown up in and the only one we know. In other words, it is not &ldquo;in our nature,&rdquo; as is is often claimed, to be submissive, but the <span class="_paradig">FIAT</span> system makes it easy for most of us to give up our agency and behave that way. <em>Any of us</em> can do so.</p>
+ <p>Whenever I hear a sentence that starts with, <span class="_quotespan">&hellip; but people are&hellip;,</span> I think, <span class="_quotespan">yes, that&rsquo;s the way we are <span id="_bolder">under the <span class="_paradigm">Fiat</span></span> system.</span> The system we have grown up in and the only one we know. In other words, it is not &ldquo;in our nature,&rdquo; as is is often claimed, to be submissive, but the <span class="_paradig">Fiat</span> system makes it easy for most of us to give up our agency and behave that way. <em>Any of us</em> can do so.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <span style="float:left;  "><a href="https://radicalcompanies.com/2023/02/25/urban-radical-one-more-time">Previous &lt;</a></span>

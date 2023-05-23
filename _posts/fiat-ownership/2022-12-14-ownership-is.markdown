@@ -7,7 +7,7 @@ image:    "icon-ownership-is.svg"
 ---
 
 <div style="display:none;">
- <p>Ownership is enclosures, a human invention, and fundamental to the <span class="_paradigm">RADICAL</span> model.</p>
+ <p>Ownership is enclosures, a human invention, and fundamental to the <span class="_paradigm">Radical</span> model.</p>
 </div>
 
 <div class="_citation">
@@ -20,7 +20,7 @@ image:    "icon-ownership-is.svg"
   <ul>
    <li>The result of enclosures brought about by robbery, mostly violent (<em>i.e.</em>, Marxists rejoice).</li>
    <li>The best ever human invention (<em>i.e.</em>, Neoliberals rejoice).</li>
-   <li>Fundamental to the <span class="_paradigm">RADICAL</span> model (<em>i.e.</em>, everybody is puzzled).</li>
+   <li>Fundamental to the <span class="_paradigm">Radical</span> model (<em>i.e.</em>, everybody is puzzled).</li>
   </ul>
 
 <h1>Attachment</h1>

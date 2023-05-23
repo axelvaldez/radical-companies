@@ -7,7 +7,7 @@ image:    "icon-rads-and-chatgpt.svg"
 ---
 
 <div style="display:none;">
- <p>We asked chatGPT and it got really close to describing <span class="_paradigm">RAD</span>s. But its source data wouldn&rsquo;t let it get past the <span class="_paradigm">FIAT</span> model.</p>
+ <p>We asked chatGPT and it got really close to describing <span class="_paradigm">RAD</span>s. But its source data wouldn&rsquo;t let it get past the <span class="_paradigm">Fiat</span> model.</p>
 </div>
 
 <h1>&nbsp;</h1>
@@ -58,7 +58,7 @@ image:    "icon-rads-and-chatgpt.svg"
  <div class="_center">
   <table class="_background" style="border:1px solis black; width:50%; ">
    <tr>
-    <th>FIAT</th>
+    <th>Fiat</th>
     <td><span class="_quotespan">Because I say so</span></td>
    </tr>
    <tr>
@@ -82,7 +82,7 @@ image:    "icon-rads-and-chatgpt.svg"
     <th>Market-based approach</th>
     <td>
      <p>The assumption here is of a <em>perfectly open market</em>. Unfortunately, there is no such thing: markets are gamed, corrupted, by big capital players, governments, etc&mdash;mild forms of force.</p>
-     <p>It seems that the data source chatGPT uses is biased towards this assumption of &ldquo;perfection.&rdquo; Unfortunately, this makes this response meaningless in the <span class="_paradigm">RADICAL</span> context.</p>
+     <p>It seems that the data source chatGPT uses is biased towards this assumption of &ldquo;perfection.&rdquo; Unfortunately, this makes this response meaningless in the <span class="_paradigm">Radical</span> context.</p>
      <p>A market is not a solution.</p>
     </td>
    </tr>
@@ -113,14 +113,14 @@ image:    "icon-rads-and-chatgpt.svg"
     <th>Legal and Regulatory</th>
     <td>
      <p>OK, this is a fair concern: we have not done anything about the legal aspect of this or about <span class="_paradigm">RAD</span>s tax implications. Whenever that comes up we either skip to the next topic or handwave furiously as <span class="_quotespan">we&rsquo;ll deal with that later.</span></p>
-     <p>We defintely need to talk with competent <span class="_paradigm">FIAT</span>s lawyers and have them come up with a contract that 1) protects the work of the community, 2) the co-owners from frivolous attacks, and 3) keeps co-owners squared up with their taxes.</p>
+     <p>We defintely need to talk with competent <span class="_paradigm">Fiat</span>s lawyers and have them come up with a contract that 1) protects the work of the community, 2) the co-owners from frivolous attacks, and 3) keeps co-owners squared up with their taxes.</p>
     </td>
    </tr>
    <tr>
     <th>It may not be practical or feasible</th>
     <td>
-     <p>This is another default <span class="_paradigm">FIAT</span>s system reaction to anything that is perceived as an existential threat. <span class="_quotespan">Be very afraid. Walk away before you get hurt.</span></p>
-     <p>An alternative to <span class="_paradigm">FIAT</span> is practical, feasible, and <em>necessary</em>. And it is a better option for business individually and the overall economy. We admit that it is a bad alternative if all you have is capital and can&rsquo;t offer anything else.</p>
+     <p>This is another default <span class="_paradigm">Fiat</span>s system reaction to anything that is perceived as an existential threat. <span class="_quotespan">Be very afraid. Walk away before you get hurt.</span></p>
+     <p>An alternative to <span class="_paradigm">Fiat</span> is practical, feasible, and <em>necessary</em>. And it is a better option for business individually and the overall economy. We admit that it is a bad alternative if all you have is capital and can&rsquo;t offer anything else.</p>
     </td>
    </tr>
    <tr>

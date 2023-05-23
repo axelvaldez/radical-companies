@@ -18,13 +18,13 @@ image:    "icon-change-the-mindset-of-employees-with-theres-three-simple-steps.s
 <h1>Decentralization</h1>
  <p>You can address all the examples above with one change: <em>decentralize</em>,</p>
   <ul>
-   <li><em>Organizational Structure</em>. I read this as &ldquo;the <span class="_paradigm">FIAT</span> hierarchy has to go.&rdquo; So long as you are the boss, this will modulate how people behave when you&rsquo;re around. They know that you and your managers control their salaries, their status (<em>i.e.</em>, promotions), and how tasks, roles, and responsibilities are distributed. This is &ldquo;first and foremost&rdquo; in their minds, always, and they act accordingly.</li>
+   <li><em>Organizational Structure</em>. I read this as &ldquo;the <span class="_paradigm">Fiat</span> hierarchy has to go.&rdquo; So long as you are the boss, this will modulate how people behave when you&rsquo;re around. They know that you and your managers control their salaries, their status (<em>i.e.</em>, promotions), and how tasks, roles, and responsibilities are distributed. This is &ldquo;first and foremost&rdquo; in their minds, always, and they act accordingly.</li>
    <li><em>Running Meetings, Decision Making, Conflict Handling, abd the Distribution of Tasks, Roles, Responsibilities</em>. If you and your managers call meetings and do most of the talking, make all the pivotal decisions, handle all conflicts, and have the final word on assignements and promotions, people will behave accordingly.</li>
   </ul>
  <p>And by &ldquo;accordingly&rdquo; I mean that they will behave as employees, putting in a given amount of acceptable work in exchange for wages. Employees won&rsquo;t act as co-owners for the simple reason that they are <span style="font-weight:bold; ">not</span>.</p>
 
 <h1>What to Do?</h1>
- <p>To decentralize, the first thing to do is to let go of the <span class="_paradigm">FIAT</span> hierarchy,
+ <p>To decentralize, the first thing to do is to let go of the <span class="_paradigm">Fiat</span> hierarchy,
   <ul>
    <li>Get rid of titles, rank, &ldquo;need to know&rdquo; secrecy.</li>
    <li>Decentralize decision-making. This requires full transparency: everybody needs to know what&rsquo;s going on, in detail, so they can make well-informated decisions.</li>

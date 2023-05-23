@@ -7,7 +7,7 @@ image:    "icon-let-them-live-it.svg"
 ---
 
 <div style="display:none;">
- <p>People have to experience non-<span class='_paradigm'>FIAT</span> and associate an emotion with it before they can figure out if they love it, or hate it, or something in between.</p>
+ <p>People have to experience non-<span class='_paradigm'>Fiat</span> and associate an emotion with it before they can figure out if they love it, or hate it, or something in between.</p>
 </div>
 
 <h1>&nbsp;</h1>
@@ -17,12 +17,12 @@ image:    "icon-let-them-live-it.svg"
     <p id="_signature">R Buckmister Fuller</p>
    </div>
   </div>
- <p>People have to experience an alternative to <span class='_paradigm'>FIAT</span> and associate an emotion with it before they can love it (or hate it). The <em><span class='_paradigm'>RAD</span>s!</em> mobile app serves that purpose,
+ <p>People have to experience an alternative to <span class='_paradigm'>Fiat</span> and associate an emotion with it before they can love it (or hate it). The <em><span class='_paradigm'>RAD</span>s!</em> mobile app serves that purpose,
   <ul>
    <li>It lets co-owners recognize contributions.</li>
    <li>From the recognized contribution, the app figures out the number of <span class='_paradigm'>RAD</span>s each co-owner gets.</li>
    <li>Revenue, for example, is factored throuh the <span class='_paradigm'>RAD</span>s and make those contribitons tagible.</li>
   </ul>
-  <p>The <em><span class='_paradigm'>RAD</span>s!</em> mobile app makes it possible for people experience an alternative to <span class='_paradigm'>FIAT</span>.</p>
+  <p>The <em><span class='_paradigm'>RAD</span>s!</em> mobile app makes it possible for people experience an alternative to <span class='_paradigm'>Fiat</span>.</p>
 
 {% include related.html %}

@@ -51,7 +51,7 @@ image:    "icon-giving-rads-validated.svg"
   </div>
 
 <h1><span class="_paradigm">RAD</span>s Promote Trust</h1>
- <p>These behaviors are integral to the <span class="_paradigm">RADICAL</span> model and its Foundation,</p>
+ <p>These behaviors are integral to the <span class="_paradigm">Radical</span> model and its Foundation,</p>
  <div class="_center">
   <table class="_foundation">
    <tr>
@@ -82,23 +82,23 @@ image:    "icon-giving-rads-validated.svg"
     </tr>
     <tr>
      <th>Induce &ldquo;Challenge Stress&rdquo;</th>
-     <td>Not only <span calls="_paradigm">RAD</span>s, but the whole <span calls="_paradigm">RADICAL</span> model is based on collaboration, not competition. As such co-owners &ldquo;collaborate to reach a goal [and] brain activity coordinates their behaviors efficiently.&rdquo; <span calls="_paradigm">RAD</span>s make this collaboration even easier.</td>
+     <td>Not only <span calls="_paradigm">RAD</span>s, but the whole <span calls="_paradigm">Radical</span> model is based on collaboration, not competition. As such co-owners &ldquo;collaborate to reach a goal [and] brain activity coordinates their behaviors efficiently.&rdquo; <span calls="_paradigm">RAD</span>s make this collaboration even easier.</td>
     </tr>
     <tr>
      <th>Give People Discretion in How They Do Their Work</th>
-     <td>The <span class="_paradigm">RADICAL</span> model brings in co-management which is based on decentralized decision-making and leading with trust.</td>
+     <td>The <span class="_paradigm">Radical</span> model brings in co-management which is based on decentralized decision-making and leading with trust.</td>
     </tr>
     <tr>
      <th>Enable Job Crafting</th>
-     <td>The <span class="_paradigm">RADICAL</span> model is founded on the principle decentralized decision-making. &ldquo;&hellip; people focus their energies on what they care about most.&rdquo;</td>
+     <td>The <span class="_paradigm">Radical</span> model is founded on the principle decentralized decision-making. &ldquo;&hellip; people focus their energies on what they care about most.&rdquo;</td>
     </tr>
     <tr>
      <th>Share Information Broadly</th>
-     <td>The <span class="_paradigm">RADICAL</span> model is founded on the principle transparency.</td>
+     <td>The <span class="_paradigm">Radical</span> model is founded on the principle transparency.</td>
     </tr>
     <tr>
      <th>Intentionally Build Relationships</th>
-     <td>In the <span class="_paradigm">RADICAL</span> model the company is a community of co-owners. Relationship comes natural.</td>
+     <td>In the <span class="_paradigm">Radical</span> model the company is a community of co-owners. Relationship comes natural.</td>
     </tr>
     <tr>
      <th>Facilitate Whole-Person Growth</th>

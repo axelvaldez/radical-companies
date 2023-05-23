@@ -11,7 +11,7 @@ image:    "icon-how-fiat-developed.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>This should be called <em>How <span class='_paradigm'>FIAT</span> developed, according to me.</em> I don&rsquo;t even claim that this true, just that it plausible.</p>
+ <p>This should be called <em>How <span class='_paradigm'>Fiat</span> developed, according to me.</em> I don&rsquo;t even claim that this true, just that it plausible.</p>
 
 <h1>The Ys</h1>
  <p>I will use <em>the Ys</em> to refer to the character of Jesus (Yassoo) in the Christian Bible. We really don&rsquo;t know if there was such a person, or a number of people, or if was the prevailing feeling at the time that was being featured..</p>
@@ -20,7 +20,7 @@ image:    "icon-how-fiat-developed.svg"
  <p>This is what was happening in the land of the Ys,</p>
  <ul>
   <li>A few Hebrews were exploiting the mass of Hebrews. They appropriated the wealth the unwashed masses generated.</li>
-  <li>Romans soldiers provided the <span class="_paradigm">FIAT</span> muscle: <span class="_paradigm">THREAT</span> to survival, <span class="_paradigm">FEAR</span>, <span class="_paradigm">FORCE</span>, and <span class="_paradigm">PAIN</span>,</li>
+  <li>Romans soldiers provided the <span class="_paradigm">Fiat</span> muscle: <span class="_paradigm">Threat</span> to survival, <span class="_paradigm">Fear</span>, <span class="_paradigm">Force</span>, and <span class="_paradigm">Pain</span>,</li>
   <li>Hebrew collaborators (<em>e.g.</em>, the merchants) took advantage of the structure.</li>
  </ul>
  <p>The collaborator Hebrews complained and eventually the Romans put down the Ys. However, the story of an individual crucifiction is more dramatic and has carried to this day.</p>

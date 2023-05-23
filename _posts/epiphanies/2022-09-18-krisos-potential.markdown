@@ -8,12 +8,12 @@ image:    "icon-krisos-potential.svg"
 ---
 
 <div style="display:none;">
- <p>Krisos is in the business of transforming <span class="_paradigm">FIAT</span> business into co-managed, co-owned companies. Whereas K2K works with current <span class="_paradigm">FIAT</span> owners, Krisos buys them out.</p>
+ <p>Krisos is in the business of transforming <span class="_paradigm">Fiat</span> business into co-managed, co-owned companies. Whereas K2K works with current <span class="_paradigm">Fiat</span> owners, Krisos buys them out.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Krisos, created by ex-K2K consultants, is in the business of transforming <span class="_paradigm">FIAT</span> business into co-managed, co-owned companies (<em>i.e.</em>, close to the <span class="_paradigm">RADICAL</span> model). The big difference is that whereas K2K works with current <span class="_paradigm">FIAT</span> owners, Krisos buys them out. THeir hypothesis is that without the <span class="_paradigm">FIAT</span> owners, they can be more effective in the transformation to co-management.</p>
- </p>Where I am unclear about is their approach to co-owneship. In particular, their &ldquo;profit sharing&rdquo; plans, so I am going to share an opportunity for them: move from K2K&rsquo; model of 70% for <span class="_paradigm">FIAT</span> owners and 30% for co-owner/employees split of the profits (<em>i.e</em>, really, earned dividend) to a 0/100 scheme.</p>
+ <p>Krisos, created by ex-K2K consultants, is in the business of transforming <span class="_paradigm">Fiat</span> business into co-managed, co-owned companies (<em>i.e.</em>, close to the <span class="_paradigm">Radical</span> model). The big difference is that whereas K2K works with current <span class="_paradigm">Fiat</span> owners, Krisos buys them out. THeir hypothesis is that without the <span class="_paradigm">Fiat</span> owners, they can be more effective in the transformation to co-management.</p>
+ </p>Where I am unclear about is their approach to co-owneship. In particular, their &ldquo;profit sharing&rdquo; plans, so I am going to share an opportunity for them: move from K2K&rsquo; model of 70% for <span class="_paradigm">Fiat</span> owners and 30% for co-owner/employees split of the profits (<em>i.e</em>, really, earned dividend) to a 0/100 scheme.</p>
  <div class="_center">
   <img
    src="/assets/img/krisos-potential.svg"

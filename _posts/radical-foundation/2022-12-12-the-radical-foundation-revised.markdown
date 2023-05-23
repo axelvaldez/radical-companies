@@ -7,11 +7,11 @@ image:    "icon-the-radical-foundation-revised.svg"
 ---
 
 <div style="display:none;">
- <p>The <span class="_paradigm">RADICAL</span> foundation can be made a bit simpler and more focused.</p>
+ <p>The <span class="_paradigm">Radical</span> foundation can be made a bit simpler and more focused.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The <span class="_paradigm">RADICAL</span> Foundation can be made a bit simpler and more focused.</p>
+ <p>The <span class="_paradigm">Radical</span> Foundation can be made a bit simpler and more focused.</p>
  <p>In the book <span class="_paradigm">RADICAL COMPANIES</span>, we described the Foundation like this,</p>
  <table align="center">
   <tr style="_background">
@@ -49,19 +49,19 @@ image:    "icon-the-radical-foundation-revised.svg"
  <p>Even though these are redundant, I feel we need to make them both explicit. Sometimes we think we are decentralizing but when we look at the Transparency side we see incoherence. So,although decentralization implies transparency, we need both to keep us honest.</p>
 
 <h1>Explicit Alignment & Experimentation</h1>
- <p>Finally, we come to a leg of the <span class="_paradigm">RADICAL</span> foundation that needs to be changed.</p>
+ <p>Finally, we come to a leg of the <span class="_paradigm">Radical</span> foundation that needs to be changed.</p>
  <p>I was never very happy with the combination of <em>Explicit Alignment</em> and <em>Experimentation</em> under Practices. I have now realized that Explicit Alignment is a tool &ndash; one that we believe is key and absolutely necessary, but it&rsquo;s just a tool.</p>
- <p>Experimentation, on the other hand, applies to every <span class="_paradigm">RADICAL</span> practice. The result may or may not meet our expectations (<em>i.e.</em>, our hypothesis), but even when it does not, it serves to teach us a lesson and we learn.</p>
+ <p>Experimentation, on the other hand, applies to every <span class="_paradigm">Radical</span> practice. The result may or may not meet our expectations (<em>i.e.</em>, our hypothesis), but even when it does not, it serves to teach us a lesson and we learn.</p>
 
 <h1>Tools</h1>
- <p>Toos are not technically a part of the <span class="_paradigm">RADICAL</span> foundation itself; you can be on the <span class="_paradigm">RADICAL</span> path and use diffferent tools. No matter, this is what we&rsquo;ve come up with, so far,</p>
+ <p>Toos are not technically a part of the <span class="_paradigm">Radical</span> foundation itself; you can be on the <span class="_paradigm">Radical</span> path and use diffferent tools. No matter, this is what we&rsquo;ve come up with, so far,</p>
  <div class="_center">
   <table class="_h2table">
    <tr id="_background">
     <th>RADs! App</th>
     <td>This is the most general tool in that it can be used by any one community or an ensemble of communities. For more, see,
                                    <em>Get Rid of Ownership</em>,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a>
-     <em>Google Goes <span class="_paradigm">RADICAL</span></em>,<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a>
+     <em>Google Goes <span class="_paradigm">Radical</span></em>,<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a>
       <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a>
                                  <em>No Bonuses or Salaries</em>,<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a>
          and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en05"><sup id="bm05">&nabla;&hairsp;</sup></a>
@@ -92,7 +92,7 @@ image:    "icon-the-radical-foundation-revised.svg"
   </table>
  </div>
 
-<h1>The Revised <span class="_paradigm">RADICAL</span> Foundation</h1>
+<h1>The Revised <span class="_paradigm">Radical</span> Foundation</h1>
  <h2>Foundation</h2>
   <div class="_center">
    <table class="_h2table">
@@ -148,7 +148,7 @@ image:    "icon-the-radical-foundation-revised.svg"
   </li>
   <li id="en02">
    <p class="_list-item">
-    <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
+    <em>Google Goes <span class="_paradigm">Radical</span></em>.
     <<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>

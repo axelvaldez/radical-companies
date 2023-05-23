@@ -13,10 +13,10 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
 <h1>&nbsp;</h1>
  <p>According to our guest, Leo Rayman, <span class="_quotespan">We are currently facing the biggest social, economic, and cultural opportunity of our lifetimes</span><a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a>. We have a chance to regenerative world instead of the one we&rsquo;ve created, the one that is eating itself.</p>
  <p>Leo was a marketeer, but he made a career changing decision to show businesses how to become truly sustainable. He works with big businesses, but he has more hope for smaller ones who can learn to be good to our life support system and grow faster.</p>
- <p>I believe that truly sustainable businesses will differentiate themselves and thrive. Many with stick to the <span class='_paradigm'>FIAT</span> trough, but a significant amount will choose non-<span class='_paradigm'>FIAT</span> ways.</p>
+ <p>I believe that truly sustainable businesses will differentiate themselves and thrive. Many with stick to the <span class='_paradigm'>Fiat</span> trough, but a significant amount will choose non-<span class='_paradigm'>Fiat</span> ways.</p>
 
 <h1>AIR? What&rsquo;s That?</h1>
- <p><span class='_paradigm'>FIAT</span> is the water that we fish live in. Like evolutions or air: they were invisible until relatively recently. The <span class='_paradigm'>FIAT</span> social order we live in is so encompassing that as to be invisible,</p>
+ <p><span class='_paradigm'>Fiat</span> is the water that we fish live in. Like evolutions or air: they were invisible until relatively recently. The <span class='_paradigm'>Fiat</span> social order we live in is so encompassing that as to be invisible,</p>
   <div class="_citation">
    <p>Some 2,500 years ago, the ancient Greeks identified air</p>
    <p id="_signature">International Historic Chemical Landmark<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
@@ -24,7 +24,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
  <p>This means that we went for thousands of year without noticing air.</p>
 
 <h1>FIAT? What&rsquo;s That?</h1>
- <p>We don&rsquo;t have a label for the system we live in, so we called it <span class='_paradigm'>FIAT</span>, <span class="_quotespan">Because I say so,</span> with an implied threat, <span class="_quotespan">or else</span>,</p>
+ <p>We don&rsquo;t have a label for the system we live in, so we called it <span class='_paradigm'>Fiat</span>, <span class="_quotespan">Because I say so,</span> with an implied threat, <span class="_quotespan">or else</span>,</p>
   <div class="_center">
    <img
     src="/assets/img/pic-fiat-fear-force-or-pain.svg"
@@ -33,7 +33,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
   </div>
 
 <h1>Alt</h1>
- <p>Alternatives to non-<span class='_paradigm'>FIAT</span> systems have not been implemented, yet, but they will. The first step is to be aware of it, to <em>see</em> it,<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></p>
+ <p>Alternatives to non-<span class='_paradigm'>Fiat</span> systems have not been implemented, yet, but they will. The first step is to be aware of it, to <em>see</em> it,<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></p>
   <div class="_center">
    <img
     src="/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg"

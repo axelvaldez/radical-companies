@@ -12,7 +12,7 @@ image:    "icon-rmedia.svg"
 
 <h1>Intro</h1>
  <p>MoTown Records<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> came to be because African American artists needed something fundamentally different than what the existing record labels offered.  MoTown promoted their music, their concept of music, their categories, and even their approach to it, more sensual and religious at the same time.  The existing labels were not capable of providing any of that, even with the best of intentions.</p>
- <p>As MoTown was to Black artists and their music, <span class="_paradigm">rMEDIA</span> is to <span class="_paradigm">RADICAL</span> authors and themes.</p>
+ <p>As MoTown was to Black artists and their music, <span class="_paradigm">rMEDIA</span> is to <span class="_paradigm">Radical</span> authors and themes.</p>
 
 <h1>Origin Story</h1>
  <p>The way it works now, publishers license your content and take on all the risk in exchange for selling your content under their ISBN.  You own the content, they own <em>only</em> the ISBN. The publisher also owns the brand which they have built over many years and this imprimatur shines a light on your content. At least, that’s the historical narrative, but today it has evolved into something different.</p>
@@ -30,8 +30,8 @@ image:    "icon-rmedia.svg"
    <th>What for?</th>
    <td>
     <ul>
-     <li>Create a source of information about the <span class="_paradigm">RADICAL</span>.</li>
-     <li>rMEDIA becomes the MoTown  of <span class="_paradigm">RADICAL</span> content.</li>
+     <li>Create a source of information about the <span class="_paradigm">Radical</span>.</li>
+     <li>rMEDIA becomes the MoTown  of <span class="_paradigm">Radical</span> content.</li>
     </ul>
    </td>
   </tr>
@@ -42,9 +42,9 @@ image:    "icon-rmedia.svg"
    <th>Why?</th>
    <td>
     <ul>
-     <li>We want the world to recognize the <span class="_paradigm">FIAT</span> conditions they live in.</li>
-     <li>Give people a choice to move away from <span class="_paradigm">FIAT</span> and towards a <span class="_paradigm">RADICAL</span> world.</li>
-     <li>To spread <span class="_paradigm">RADICAL</span>-like ideas sooner, faster, and without debilitating compromises.</li>
+     <li>We want the world to recognize the <span class="_paradigm">Fiat</span> conditions they live in.</li>
+     <li>Give people a choice to move away from <span class="_paradigm">Fiat</span> and towards a <span class="_paradigm">Radical</span> world.</li>
+     <li>To spread <span class="_paradigm">Radical</span>-like ideas sooner, faster, and without debilitating compromises.</li>
     </ul>
    </td>
   </tr>
@@ -56,7 +56,7 @@ image:    "icon-rmedia.svg"
    <td>
     <ul>
      <li>Become self-sustainable.</li>
-     <li>Organized as a <span class="_paradigm">RADICAL</span> company.  Everybody who contributes (<em>e.g.</em>, authors, distributors, printers) participates in its ownership and the wealth it generates.</li>
+     <li>Organized as a <span class="_paradigm">Radical</span> company.  Everybody who contributes (<em>e.g.</em>, authors, distributors, printers) participates in its ownership and the wealth it generates.</li>
     </ul>
    </td>
   </tr>
@@ -100,7 +100,7 @@ image:    "icon-rmedia.svg"
    <th>Content Editors, Layout Designers, Developers, Graphics Designers, Media Team, Producers</th>
    <td>
     <ul>
-     <li>Doing what they love, without paying the <span class="_paradigm">FIAT</span> price.</li>
+     <li>Doing what they love, without paying the <span class="_paradigm">Fiat</span> price.</li>
      <li>Doing it with a team of co-owners, responsible to each other.</li>
      <li>Able to experiment with the support of the team.</li>
     </ul>
@@ -120,7 +120,7 @@ image:    "icon-rmedia.svg"
    <td>
     <ul> 
      <li>Learning from the ability to experiment with various media, different messages.</li>
-     <li>Spreading the <span class="_paradigm">RADICAL</span> story, their story.</li>
+     <li>Spreading the <span class="_paradigm">Radical</span> story, their story.</li>
      <li>Experimenting with different ways of getting the message out.</li>
     </ul>
    </td>
@@ -131,7 +131,7 @@ image:    "icon-rmedia.svg"
     <ul>
      <li>Learning from listening to different types of buyers.</li>
      <li>Learning what it takes to turn them into evangelists, not just book sellers.</li>
-     <li>Spreading the <span class="_paradigm">RADICAL</span> story, their story.</li>
+     <li>Spreading the <span class="_paradigm">Radical</span> story, their story.</li>
     </ul>
    </td>
   </tr>
@@ -171,7 +171,7 @@ image:    "icon-rmedia.svg"
    <td>
     <ul>
      <li>Be associated with a  unique, easily identifiable brand that belongs to all who contribute.</li>
-     <li>They’ll have to win <span class="_paradigm">rMEDIA</span>&rsquo;s endorsement the <span class="_paradigm">FIAT</span> way. Unless they flip to the <span class="_paradigm">RADICAL</span> paradigm.</li>
+     <li>They’ll have to win <span class="_paradigm">rMEDIA</span>&rsquo;s endorsement the <span class="_paradigm">Fiat</span> way. Unless they flip to the <span class="_paradigm">Radical</span> paradigm.</li>
     </ul>
    </td>
   </tr>
@@ -291,7 +291,7 @@ image:    "icon-rmedia.svg"
    </td>
   </tr>
   <tr>
-   <th><span class="_paradigm">RADICAL</span> funding</th>
+   <th><span class="_paradigm">Radical</span> funding</th>
    <td>
     <ul>
      <li>An advance-as-investment up front for an agreed upon return.</li>

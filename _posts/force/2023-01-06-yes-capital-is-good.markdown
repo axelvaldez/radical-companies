@@ -19,11 +19,11 @@ image:    "icon-yes-capital-is-good.svg"
    <li>These wages are first paid in goods and then in coins (probably minted by the owner).</li>
    <li>Owners keep the profits</li>
    <li>Profits beget capital.</li>
-   <li>Capital begets the <span class="_paradigm">FIAT</span> <em>system</em>.</li>
+   <li>Capital begets the <span class="_paradigm">Fiat</span> <em>system</em>.</li>
    <li>The owner later builds a factory on <em>his</em> land and let&rsquo;s you work in it as his employee.</li>
    <li>You are now a piece of a big, human machine.</li>
    <li>The wage is higher and you are happier.</li>
-   <li>You can afford shoes for your boys; girls don&rsquo;t need shoes (you are starting to internalize the <span class="_paradigm">FIAT</span> model of domination).</li>
+   <li>You can afford shoes for your boys; girls don&rsquo;t need shoes (you are starting to internalize the <span class="_paradigm">Fiat</span> model of domination).</li>
    <li>You collaborate with others, minding only your work and tossing it to the other fellow.</li>
    <li>You are a good employee and you are docile and obedient.</li>
    <li>You are a good employee and your work is your only source of survival.</li>
@@ -38,7 +38,7 @@ image:    "icon-yes-capital-is-good.svg"
    <li>Unions never ask &ldquo;why would you need protection?&rdquo;, but they protect you.</li>
    <li>Unions make you happy little people.</li>
    <li>Wages go up and working condition get codified.</li>
-   <li>Unions are centralized and ruled by <span class="_paradigm">FIAT</span>, just like the businesses that spawned them.</li>
+   <li>Unions are centralized and ruled by <span class="_paradigm">Fiat</span>, just like the businesses that spawned them.</li>
   </ul>
  <p>Unions fade away,</p>
   <ul>
@@ -59,9 +59,9 @@ image:    "icon-yes-capital-is-good.svg"
   </ul>
  <p>Five billion people have Internet connectivity,<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
   <ul>
-   <li>A lot of them are getting the feeling that maybe this <span class="_paradigm">FIAT</span> system is not working for them.</li>
+   <li>A lot of them are getting the feeling that maybe this <span class="_paradigm">Fiat</span> system is not working for them.</li>
    <li>A lot of them feel that it is time for a change.</li>
-   <li>The <span class="_paradigm">RADICAL</span> model enters from stage left. The first alternative to <span class="_paradigm">FIAT</span>,</li>
+   <li>The <span class="_paradigm">Radical</span> model enters from stage left. The first alternative to <span class="_paradigm">Fiat</span>,</li>
   </ul>
 
 <h1 class="_section">ENDNOTES</h1>

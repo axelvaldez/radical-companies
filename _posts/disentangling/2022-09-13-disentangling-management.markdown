@@ -19,7 +19,7 @@ image:    "icon-disentangling-management.svg"
    <li>A career Lesser Boss (<em>e.g.</em>, Tim Cook, Andy Jassy) who is elevated to Big Boss.</li>
    <li>A monied type who elevates himself to Big Boss (<em>e.g.</em>, Elon Musk).</li>
   </ul>
-  <p>The Big Boss sits at the top of the <span class="_paradigm">FIAT</span> hierarchy, the boss of the Lesser Bosses.</p>
+  <p>The Big Boss sits at the top of the <span class="_paradigm">Fiat</span> hierarchy, the boss of the Lesser Bosses.</p>
  <h2>The Lesser Bosses</h2>
   <p>No matter the size of the business, the Lesser Bosses compete with each other more or less furiously. There are exceptions to this, but this is the norm; the exceptions are few and far between.</p>
 
@@ -63,8 +63,8 @@ image:    "icon-disentangling-management.svg"
   <p>The Lesser Bosses are, in theory, responsible for many, many other things. Unfortunately, these things go undone or are done sporadically because the Lesser Bosses spend their time doing one thing or another for their bosses.</p>
 
 <h1>Disentangling Management</h1>
- <p>Other than creating an illusion of control, the <span class="_paradigm">FIAT</span> hierarchy is hostile business. It makes innovation nearly impossible and a tremendous amount of money and effort is wasted on the hierachy and &ldquo;control theater.&rdquo;</p>
- <p>Non-<span class="_paradigm">FIAT</span>-hierarchical companies are more efficient because they let go of the illusion of control and let people co-manage themselves. In any case, this and co-ownership is where all businesses are headed. As the next stage of evolution is for businesses to transform to co-owned and co-managed companies.</p>
+ <p>Other than creating an illusion of control, the <span class="_paradigm">Fiat</span> hierarchy is hostile business. It makes innovation nearly impossible and a tremendous amount of money and effort is wasted on the hierachy and &ldquo;control theater.&rdquo;</p>
+ <p>Non-<span class="_paradigm">Fiat</span>-hierarchical companies are more efficient because they let go of the illusion of control and let people co-manage themselves. In any case, this and co-ownership is where all businesses are headed. As the next stage of evolution is for businesses to transform to co-owned and co-managed companies.</p>
  <div class="_center">
   <table class="_h2table">
    <tr>

@@ -61,7 +61,7 @@ image:    "icon-nextbright.svg"
  <p>The inspiration comes straight from our experience of the Nearsoft Academy project and from watching Beetroot, a Ukrainian company, at work. People enter the program with little programming experience, not used to working in a team, and poor communication skills. They come out of it with developed skills in all those areas.</p>
 
 <h1>How It Works</h1>
- <p>Graduates can choose to join a legacy company, a self-managed company, or a <span class='_paradigm'>RADICAL</span> company (<em>e.g.</em>, an <em>rHintersoft</em>  instance).</p>
+ <p>Graduates can choose to join a legacy company, a self-managed company, or a <span class='_paradigm'>Radical</span> company (<em>e.g.</em>, an <em>rHintersoft</em>  instance).</p>
  <div align="_center">
   <table>
    <tr>

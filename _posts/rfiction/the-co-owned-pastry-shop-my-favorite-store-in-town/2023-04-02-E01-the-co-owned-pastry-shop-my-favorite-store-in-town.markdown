@@ -7,11 +7,11 @@ image:    "icon-E01-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
 ---
 
 <div style="display:none;">
- <p>The town I lived in has the first <span class="_paradigm">RADICAL</span> company. A delicious pastry shop, and my favorite store, of all places. In fact, it is truly the first co-owned and co-managed company I know of.</p>
+ <p>The town I lived in has the first <span class="_paradigm">Radical</span> company. A delicious pastry shop, and my favorite store, of all places. In fact, it is truly the first co-owned and co-managed company I know of.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The town I lived in has the first <span class="_paradigm">RADICAL</span> company. A delicious pastry shop, and my favorite store, of all places. In fact, it is truly the first <span class="_paradigm">RADICAL</span> company I know of.</p>
+ <p>The town I lived in has the first <span class="_paradigm">Radical</span> company. A delicious pastry shop, and my favorite store, of all places. In fact, it is truly the first <span class="_paradigm">Radical</span> company I know of.</p>
 
 <h1>All Smiles</h1>
  <p>I met Pris on her first day at the shop. She was all smiles and we got to talk about her day and her boyfriend and her life. She mentioned that she did&rsquo;t know any other Priss. As it happened, we want down the street, walked into a new plat shop, and, what do you know we met another youg woman named Pris (and, yes, my wife and I always exchnage names with the new people we meet). But I digress.</p>
@@ -52,8 +52,8 @@ image:    "icon-E01-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speaker"><span class="_speakera">Well, the owners talked to a few people. And we asked them and Vicky told us that the owners were thinking of moving back to France and selling the store, but that they would really want to sell it to us, at least some of us. I was through most of the second section of your book so I re-read the rest of it as fast as I could and then I read the last two thirds again and&hellip; here we are.</span></p>
  <p class="_speaker"><span class="_speakerb">Holly sh&hellip; what <em>timing</em>.</span></p>
 
-<h1>Children of <span class="_paradigm">FIAT</span></h1>
- <p class="_speaker"><span class="_speakerb">There is another option. You could borrow part of it to pay the owners right away and pay the rest in installments. And I don't mean, from a bank, borrow it as a <span class="_paradigm">RADICAL</span> investment.</span></p>
+<h1>Children of <span class="_paradigm">Fiat</span></h1>
+ <p class="_speaker"><span class="_speakerb">There is another option. You could borrow part of it to pay the owners right away and pay the rest in installments. And I don't mean, from a bank, borrow it as a <span class="_paradigm">Radical</span> investment.</span></p>
  <p class="_speaker"><span class="_speakera">What is that? How does it work? And what will they give us money when we are all broke.</span></p>
  <p class="_speaker"><span class="_speakerb">How much do they want?</span></p>
  <p class="_speaker"><span class="_speakera">I don&rsquo;t think Vicky knows, either.</span></p>
@@ -64,7 +64,7 @@ image:    "icon-E01-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speaker"><span class="_speakerb">Good point. Then, if they do, tell them that I might be interested. I am.</span></p>
  <p class="_speaker"><span class="_speakera">Do you have a lot of money?</span></p>
  <p class="_speaker"><span class="_speakerb">Probably not enough, but, given the system we live in, I have credibility.</span></p>
- <p class="_speaker"><span class="_speakera">We live in the <span class="_paradigm">FIAT</span> system, right?</span></p>
+ <p class="_speaker"><span class="_speakera">We live in the <span class="_paradigm">Fiat</span> system, right?</span></p>
  <p class="_speaker"><span class="_speakerb">Yep!</span></p>
  <p class="_speaker"><span class="_speakera">Got it!</span></p>
 

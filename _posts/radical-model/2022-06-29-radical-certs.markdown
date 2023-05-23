@@ -1,33 +1,33 @@
 ---
 layout:   post
-title:    "<span class='_paragigm'>RADICAL</span> Certs?"
+title:    "<span class='_paragigm'>Radical</span> Certs?"
 subtitle: "So tempting. So incongruous."
 authors:  "Matt Perez"
 image:    "icon-radical-certs.svg"
 ---
 
 <div style="display:none;">
- <p>&ldquo;Certificates&rdquo; fit in a <span class='_paradigm'>FIAT</span> world we live in, run by hierarchies and organized around domination through fear. But "certs" don't make sense within a RADICAL system, without hierachies or domination."</p>
+ <p>&ldquo;Certificates&rdquo; fit in a <span class='_paradigm'>Fiat</span> world we live in, run by hierarchies and organized around domination through fear. But "certs" don't make sense within a RADICAL system, without hierachies or domination."</p>
 </div>
 
 <h1>How It Started</h1>
- <p>The issue of &ldquo;certification&rdquo; came up as: &ldquo;<em>it'd be nice to have a <span class='_paradigm'>RADICAL</span> cert.</em>&rdquo; And &ldquo;certified&rdquo; makes sense in the <span class='_paradigm'>FIAT</span> system, run by hierarchies and organized around domination through fear:  <em>a mighty authority certifies that you are qualified</em>. On the other hand, &ldquo;certs&rdquo; are incongrous with a <span class='_paradigm'>RADICAL</span> model, without hierachies, domination, or fear passing as &ldquo;motivation.&rdquo;</p>
- <p>Given that we live in a <span class='_paradigm'>FIAT</span> world, and will do so for a while, the urge for differentiation is not unreasonable: &ldquo;<em>Hey, we are certified as  <span class='_paradigm'>RADICAL</span>!</em>&rdquo; However, rather than an external authority, the <em>people</em> who embody a company <em>are</em> the ones to positivily declare that, &ldquo;<em>We are on a <span class='_paradigm'>RADICAL</span> path, and here&rsquo;s the data that tells where we are at along the <span class='_paradigm'>RADICAL</span> foundation.</em>&rdquo;
+ <p>The issue of &ldquo;certification&rdquo; came up as: &ldquo;<em>it'd be nice to have a <span class='_paradigm'>Radical</span> cert.</em>&rdquo; And &ldquo;certified&rdquo; makes sense in the <span class='_paradigm'>Fiat</span> system, run by hierarchies and organized around domination through fear:  <em>a mighty authority certifies that you are qualified</em>. On the other hand, &ldquo;certs&rdquo; are incongrous with a <span class='_paradigm'>Radical</span> model, without hierachies, domination, or fear passing as &ldquo;motivation.&rdquo;</p>
+ <p>Given that we live in a <span class='_paradigm'>Fiat</span> world, and will do so for a while, the urge for differentiation is not unreasonable: &ldquo;<em>Hey, we are certified as  <span class='_paradigm'>Radical</span>!</em>&rdquo; However, rather than an external authority, the <em>people</em> who embody a company <em>are</em> the ones to positivily declare that, &ldquo;<em>We are on a <span class='_paradigm'>Radical</span> path, and here&rsquo;s the data that tells where we are at along the <span class='_paradigm'>Radical</span> foundation.</em>&rdquo;
  
 <h1>Not Aligned</h1>
- <p>&ldquo;Certs&rdquo; are incongruent with the <span class='_paradigm'>RADICAL</span> model because they are issued by external authorities.</p>
+ <p>&ldquo;Certs&rdquo; are incongruent with the <span class='_paradigm'>Radical</span> model because they are issued by external authorities.</p>
  <p>For example, the <em>Great Place to Work&trade; Institure</em> has become a &ldquo;culture authority&rdquo;; early on it was very good at getting brand name clients like Forbes. Their collect responses from employees via a survey and then they return to the bosses their score broken down by categories. The survey and its categories are not very scientif or methodological, but it is practical enough. Businesses in the same arbitrary categories are ranked, although it is pretty useless for anything but bragging rights. &ldquo;Higher&rdquo; is not &ldquo;better,&rdquo;. Other companies have tried to compete with them with equally arbitrary surveys.</p>
  <p>Another example is <em>B Labs</em> which has become a &ldquo;social and environmental impact authority&rdquo; with its &ldquo;B Corp certificate.&rdquo; They investigate, quantify, and corroborate any and all claims that the bosses may make. But bosses are very good at ofuscatin things and while many companies have deeply ingrained values that drive them to do business, most others use their <em>B Certs</em> for virtue signaling and bragging rights.<sup id="bn01"><a href="#fn01">1&nbsp;</a></sup></p>
  
 <h1>Nonetheless</h1>
- <p>In our <span class='_paradigm'>FIAT</span> world, it makes sense to have external <em>authorities</em> investigate that management is not lying or are pressuring their employees to &lsquo;be positive.&rdquo; The resulting <em>certificate</em> and their raking make the service easier to sell to the bosses.</p>
- <p>By contrast, in the <span class='_paradigm'>RADICAL</span> model, a company&rsquo;s co-owners, backed by fully transparent data, are the ultimate authority in declaring what path they're on based on what they live day and day out.</p>
+ <p>In our <span class='_paradigm'>Fiat</span> world, it makes sense to have external <em>authorities</em> investigate that management is not lying or are pressuring their employees to &lsquo;be positive.&rdquo; The resulting <em>certificate</em> and their raking make the service easier to sell to the bosses.</p>
+ <p>By contrast, in the <span class='_paradigm'>Radical</span> model, a company&rsquo;s co-owners, backed by fully transparent data, are the ultimate authority in declaring what path they're on based on what they live day and day out.</p>
 
 <h1>To Protect Employees</h1>
- <p>The result of these surveys are redacted, &ldquo;<em>for the privacy and safety of employees</em>.&rdquo; But that excuse does not apply in the <span class='_paradigm'>RADICAL</span> model since there are no employees who can be fired for voicing their feelings or pointing out what needs fixing. <span class='_paradigm'>RADICAL</span> co-owners don't need &ldquo;protection&rdquo; from hearing what others have to say. In fact, because the data is fully transparent, the same is true for the community outside the company: anybody can look at the detail, ask questions, comment on conclusions, and, ultimately, learn.</p>
+ <p>The result of these surveys are redacted, &ldquo;<em>for the privacy and safety of employees</em>.&rdquo; But that excuse does not apply in the <span class='_paradigm'>Radical</span> model since there are no employees who can be fired for voicing their feelings or pointing out what needs fixing. <span class='_paradigm'>Radical</span> co-owners don't need &ldquo;protection&rdquo; from hearing what others have to say. In fact, because the data is fully transparent, the same is true for the community outside the company: anybody can look at the detail, ask questions, comment on conclusions, and, ultimately, learn.</p>
 
 <h1>What Is the Alternative?</h1>
- <p>Surveys are fine for collecting data relatively quickly, but they need to have a foundation. WorldBlu&rsquo;s survey is based on 10 Principles. The <span class='_paradigm'>RADICAL</span> Foundation has only three to remember,</p>
+ <p>Surveys are fine for collecting data relatively quickly, but they need to have a foundation. WorldBlu&rsquo;s survey is based on 10 Principles. The <span class='_paradigm'>Radical</span> Foundation has only three to remember,</p>
  <div class="_center">
   <table class="_foundation">
    <tr>
@@ -50,7 +50,7 @@ image:    "icon-radical-certs.svg"
  <p>Questions based on these priciples, commitments, amd practices would give companies, and anybody else who cares to look, a view of how the company is doing, what needs to change/improve, etc. The details will come in coversations, as always.</p>
 
 <h1>If It Works&hellip;</h1>
- <p>Instead of annual surveys, it may be more valuable to have pipelined mini-surveys, for example. The point is to show a company&rsquo;s progression towards one end of the spectrum (<em>e.g.</em>, more centralized) or the other (<em>e.g.</em> less centralized). A company can then say, &ldquo;We are on the <span class='_paradigm'>RADICAL</span> path&hellip; and here's my data. See for yourself!&rdquo; Only the <em>people</em> who embody the company, not an arbitrary third party, can attest to what path they're on.</p>
+ <p>Instead of annual surveys, it may be more valuable to have pipelined mini-surveys, for example. The point is to show a company&rsquo;s progression towards one end of the spectrum (<em>e.g.</em>, more centralized) or the other (<em>e.g.</em> less centralized). A company can then say, &ldquo;We are on the <span class='_paradigm'>Radical</span> path&hellip; and here's my data. See for yourself!&rdquo; Only the <em>people</em> who embody the company, not an arbitrary third party, can attest to what path they're on.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>

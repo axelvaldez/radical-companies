@@ -7,7 +7,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
 ---
 
 <div style="display:none;">
- <p>The town I lived in has the first <span class="_paradigm">RADICAL</span> company. A delicious pastry shop, and my favorite store, of all places. In fact, it is truly the first co-owned and co-managed company I know of.</p>
+ <p>The town I lived in has the first <span class="_paradigm">Radical</span> company. A delicious pastry shop, and my favorite store, of all places. In fact, it is truly the first co-owned and co-managed company I know of.</p>
 </div>
 
 <h1>The Meeting</h1>
@@ -29,7 +29,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speaker"><span class="_speakerc">We were going to tell them anyway. In fact&hellip;<span> She glanced at her husband and he subtly signaled agreement with his eyes, <span class="_speakercc">We prefer to tell them ourselves.</span></p>
  <p class="_speaker"><span class="_speakerb">That would be best. I felt akward coming here anyways. Not let me explain what I see as my involvement</span>&mdash;I paused for a bit and thought about what I wanted to say and how I wanted to say it&mdash;<span class="_speakerbc">I intend to help them out with the finances, the money part, but I don&rsquo;t want to expect any pwer over the company in any way. Except, maybe, they should reserve three chocaolate eclairs from me.</span> Finally, we all got to smile and relax a bit.</p>
  <p class="_speaker"><span class="_speakera">What do you mean you don&rsquo;t want any power for your money?</span></p>
- <p class="_speaker"><span class="_speakerb">Hmm. This may sound weird to you, but I am more interested in the success of them and the community, our town. I&rsquo;ll give them what I call a <span class="_paradigm">RADICAL</span> investment, which means that they have to pay back the principle, the amount of money I give them, plus something else. I've made a couple of these investments before and the something else is that we take my interest, usually 10%, and the co-owners match it. We end up with 20% of the investmet in a pool and then distribute it to everybody based on their&hellip; contributions.</span></p>
+ <p class="_speaker"><span class="_speakerb">Hmm. This may sound weird to you, but I am more interested in the success of them and the community, our town. I&rsquo;ll give them what I call a <span class="_paradigm">Radical</span> investment, which means that they have to pay back the principle, the amount of money I give them, plus something else. I've made a couple of these investments before and the something else is that we take my interest, usually 10%, and the co-owners match it. We end up with 20% of the investmet in a pool and then distribute it to everybody based on their&hellip; contributions.</span></p>
  <p class="_speaker"><span class="_speakerc">And then you decide? or they vote? How do you decided their contributions? Besides, waiting until the very end&hellip; I don&rsquo;t think that works!</span></p>
  <p class="_speaker"><span class="_speakerb">Yes, to everythig you said. But, no, that is not quite the way it works.</span></p>
  <p class="_speaker"><span class="_speakera">Then, how does it work?</span></p>
@@ -69,7 +69,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p>I noticed that the man&rsquo;s eyes were defocuse. He must have been thinking intensensly.</p>
 
 <h1>More Complications</h1>
- <p class="_speaker"><span class="_speakerb">People earn one <span class="_paradigm">RAD</span> per day. Not to keep, but to give them out to their peers. At the end of, say, each month your contributions get converted to <span class="_paradigm">RAD</span>s and then something tangible like revenue comes in. The expenses are paid and what is left, the dividends, goes to the <span class="_paradigm">FIAT</span> owner. In this case, the dividends get distributed among all co-owners according to the <span class="_paradigm">RAD</span>s each has.</span></p>
+ <p class="_speaker"><span class="_speakerb">People earn one <span class="_paradigm">RAD</span> per day. Not to keep, but to give them out to their peers. At the end of, say, each month your contributions get converted to <span class="_paradigm">RAD</span>s and then something tangible like revenue comes in. The expenses are paid and what is left, the dividends, goes to the <span class="_paradigm">Fiat</span> owner. In this case, the dividends get distributed among all co-owners according to the <span class="_paradigm">RAD</span>s each has.</span></p>
  <p>The man looked uncomfortable, though he wasn&rsquo;t saying much.</p>
  <p class="_speaker"><span class="_speakerb">I should add that there a <span class="_me"><span class="_paradigm">RAD</span>s! mobile app</span> that takes care of all the &ldquo;complication&rdquo;</span></p>
  <p class="_speaker"><span class="_speakera">Aha, there is&hellip;</span> He tried to hold back, but then he let out a full laugh, <span class="_speakerac">THERE IS AN APP FOR THAT!</span> I took that as a sign that he was less tense. Progress.</p>
@@ -105,13 +105,13 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speaker"><span class="_speakera">Can we invest, too, the same as you.</span></p>
  <p class="_speaker"><span class="_speakerb">Of course. Like everything else, it is up to your.</span></p>
  <p class="_speaker"><span class="_speakera">We thought of sellig to our employees for a lower price, but this means that we can sell it for a normal price but take less money up front. I am not sure I am explaining myself correctly.</span></p>
- <p class="_speaker"><span class="_speakerb">Perfectly clear. You sell it for $100, but expect only $80 dollars and the other $20 would be a <span class="_paradigm">RADICAL</span> inventment.</span></p>
+ <p class="_speaker"><span class="_speakerb">Perfectly clear. You sell it for $100, but expect only $80 dollars and the other $20 would be a <span class="_paradigm">Radical</span> inventment.</span></p>
  <p class="_speaker"><span class="_speakerc">More like $50 dollars</span> She said as she looked at her husband.</p>
  <p class="_speaker"><span class="_speakera">Yes, something like that.</span></p>
  <p class="_speaker"><span class="_speakerb">Whatever the amount, that would work&hellip; wonderfully.</span></p>
 
-<h1><span class="_paradigm">RADICAL</span> Inventments</h1>
- <p class="_speaker"><span class="_speakerb">What I have done with my <span class="_paradigm">RADICAL</span> inventments is that if the co-workers are willing to match the 10% load that we have agreed to, then we put that 10% and their 10% in a pool and distribute according to <span class="_paradigm">RAD</span>s.</span></p>
+<h1><span class="_paradigm">Radical</span> Inventments</h1>
+ <p class="_speaker"><span class="_speakerb">What I have done with my <span class="_paradigm">Radical</span> inventments is that if the co-workers are willing to match the 10% load that we have agreed to, then we put that 10% and their 10% in a pool and distribute according to <span class="_paradigm">RAD</span>s.</span></p>
  <p class="_speaker"><span class="_speakera">Sorry, but I don&rsquo;t understand.</span></p>
  <p class="_speaker"><span class="_speakerc">I don&rsquo;t understand, either.</span></p>
  <p class="_speaker"><span class="_speakerb">I do that because I figured that they have been working hard to repay the investments and this may be the first opportunity to get the full impact of their <span class="_paradigm">RAD</span>s and all their effort. They are co-owners, but that may not be significant enough at this point, but a Distribution will. I&rsquo;ll get some money out of it, too, but the impact on them is the precious thing.</span></p>
@@ -138,8 +138,8 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speaker"><span class="_speakerb">Look at you, &lsquo;<span class="_paradigm">PRI</span>&rsquo; and &lsquo;retire&rsquo; in the same breath. That is fantastic.</span></p>
  <p class="_speaker"><span class="_speakerc">Don&rsquo;t say that until you get paid back.</span> Vicky was laughing out loud. <span class="_speakercc">And, by the way, we are going to put our 20% in the <span class="_paradigm">RAD</span>s fund to have an extra distribution. We could even reduce your number to %5, instead of 10%, to make sure that your investement grows by 5% for sure.</span></p>
  <p class="_speaker"><span class="_speakerb">We could do that. Let&rsquo;s wait until we crossed that bridge.</span></p>
- <p class="_speaker"><span class="_speakerc">We've already talk to the people in France and we are going to switch them so they have a guaranteed steady inccome forever. This may not be purely <span class="_paradigm">RADICAL</span>, but&hellip;</span></p>
- <p class="_speaker"><span class="_speakerb">Whatever works for you, it&rsquo;s OK. <span class="_paradigm">RADICAL</span> is not a dogma. It simply is an alternative to <span class="_paradigm">FIAT</span> that works for everybody who creates wealth, not just <span class="_paradigm">FIAT</span> owners.</span></p>
+ <p class="_speaker"><span class="_speakerc">We've already talk to the people in France and we are going to switch them so they have a guaranteed steady inccome forever. This may not be purely <span class="_paradigm">Radical</span>, but&hellip;</span></p>
+ <p class="_speaker"><span class="_speakerb">Whatever works for you, it&rsquo;s OK. <span class="_paradigm">Radical</span> is not a dogma. It simply is an alternative to <span class="_paradigm">Fiat</span> that works for everybody who creates wealth, not just <span class="_paradigm">Fiat</span> owners.</span></p>
 
 <div class="_next">
  <span style="float:left; " ><a href="https://radicalcompanies.com/2023/04/02/E01-the-co-owned-pastry-shop-my-favorite-store-in-town">&lt; Previous</a></span>

@@ -15,11 +15,11 @@ image:    "icon-radical-companies-faq.svg"
 
 <h1 class="_section">Co-Ownership</h1>
 
-<h2>Does a company need to be co-owned to be <span class='_paradigm'>RADICAL</span>?</h2>
+<h2>Does a company need to be co-owned to be <span class='_paradigm'>Radical</span>?</h2>
  <p>Yes, it has to be co-owned <em>and</em> co-managed.</p>
  <p>The owner is the ultimate boss and self-management is at the mercy of a benevolent owner. On the other hand, when everybody in the company is a co-owner of it then co-management can happen unobstructed.</p>
- <p>In <span class='_paradigm'>FIAT</span> companies the Board is the owner. In theory, it has to keep its hands out of operations, but it can replace the CEO, the ultimate operations boss, at its whim, by fiat. If the CEO was the benevolent type that allowed self-management to happen, then self-management goes out the door with him.</p>
- <p>By the same token, co-management is required for &ldquo;ownership&rdquo; not to become corrupted. For example, when John Spedan Lewis created the John Lewis Partnership in 1929 he left in place a <span class='_paradigm'>FIAT</span> hierarchy. He wrote a very extensive constitution to prevent managers from taking over the control of the company. Nevertheless, in time they eventually did and remains is participation but not real ownership. Other companies have tried a similar approach ceding financial  ownership to workers but leaving a <span class='_paradigm'>FIAT</span> hierarchy in place and invariably the managers always take control of it. These companies are very generous compared to their competitors, and people vote on a bunch of things, but what&rsquo;s left of worker ownership is cosmetic at best.</p>
+ <p>In <span class='_paradigm'>Fiat</span> companies the Board is the owner. In theory, it has to keep its hands out of operations, but it can replace the CEO, the ultimate operations boss, at its whim, by fiat. If the CEO was the benevolent type that allowed self-management to happen, then self-management goes out the door with him.</p>
+ <p>By the same token, co-management is required for &ldquo;ownership&rdquo; not to become corrupted. For example, when John Spedan Lewis created the John Lewis Partnership in 1929 he left in place a <span class='_paradigm'>Fiat</span> hierarchy. He wrote a very extensive constitution to prevent managers from taking over the control of the company. Nevertheless, in time they eventually did and remains is participation but not real ownership. Other companies have tried a similar approach ceding financial  ownership to workers but leaving a <span class='_paradigm'>Fiat</span> hierarchy in place and invariably the managers always take control of it. These companies are very generous compared to their competitors, and people vote on a bunch of things, but what&rsquo;s left of worker ownership is cosmetic at best.</p>
 
 <h2>Are <span class='_paradigm'>RAD</span>s the same as shares of stock?</h2>
  <p>They are different things. They both represent &ldquo;ownership,&rdquo; but very differently,</p>
@@ -27,7 +27,7 @@ image:    "icon-radical-companies-faq.svg"
   <li>Stocks are static. Each share of stock represents a fixed percentage of the business <em>forever</em>.</li>
   <li><span class='_paradigm'>RAD</span>s are dynamic, always changing. They represent the work that has gone into creating the value the company represents.</li>
 </ul>
- <p>Stock doesn&rsquo;t matter to <span class='_paradigm'>RADICAL</span> companies. If your company has been incorporated to have stock, make sure to put them in a safe place.</p>
+ <p>Stock doesn&rsquo;t matter to <span class='_paradigm'>Radical</span> companies. If your company has been incorporated to have stock, make sure to put them in a safe place.</p>
 
 <h2>What does it mean that <span class='_paradigm'>RAD</span>s are &ldquo;dynamic?&rdquo;</h2>
  <p>It means that the total amount of generated <span class='_paradigm'>RAD</span>s (denominator) grows regularly and the total number of <span class='_paradigm'>RAD</span>s allocated to a co-owner (numerator) changes regularly.</p>
@@ -42,33 +42,33 @@ image:    "icon-radical-companies-faq.svg"
 <h2>Who&rsquo;s looking out for the business?</h2>
  <p>The allocation of <span class='_paradigm'>RAD</span>s is not based on traditional key performance indicators, or targets, or any of the things that are usually measured and checked by the bosses. So, the question is who is looking out for the company? And the answer is the co-owners, the people who embody it.
  </p>
- <p>The metrics that are important to the business continue to be important to the company and co-owners will want to look at these metrics, question the results, etc. For example, if I didn&rsquo;t come through on something I promised to do that was critical to these indicators, then we&rsquo;ll have to figure out why it didn&rsquo;t happen and what could we have done differently to make it happen. These conversations may get heated, and voices will be raised. <span class='_paradigm'>RADICAL</span> Distributions are not a replacement for these difficult decisions and hard conversations.
+ <p>The metrics that are important to the business continue to be important to the company and co-owners will want to look at these metrics, question the results, etc. For example, if I didn&rsquo;t come through on something I promised to do that was critical to these indicators, then we&rsquo;ll have to figure out why it didn&rsquo;t happen and what could we have done differently to make it happen. These conversations may get heated, and voices will be raised. <span class='_paradigm'>Radical</span> Distributions are not a replacement for these difficult decisions and hard conversations.
  </p>
 
 <h2>Stock shares don&rsquo;t count? really?</h2>
- <p>Stock counts when a company is sold, either to another business or to the public market. It is unlikely that a <span class='_paradigm'>RADICAL</span> company will be sold, but if it is, the total amount of money paid for the company would be distributed according to the distribution of the <span class='_paradigm'>RAD</span>s.</p>
- <p>A <span class='_paradigm'>RADICAL</span> investment is ruled by a specific contract that stipulates how and how much the investment is to be paid back. This agreement is what rules the investment. If, out of habit, the investors demand &ldquo;stocks!&rdquo; then you can create a separate company and they can hold stock in that company, but with the condition that the stock goes back when the investment is paid according to the terms agreed upon. The parallel company could hold a percentage ownership in the <span class='_paradigm'>RADICAL</span> company.</p>
+ <p>Stock counts when a company is sold, either to another business or to the public market. It is unlikely that a <span class='_paradigm'>Radical</span> company will be sold, but if it is, the total amount of money paid for the company would be distributed according to the distribution of the <span class='_paradigm'>RAD</span>s.</p>
+ <p>A <span class='_paradigm'>Radical</span> investment is ruled by a specific contract that stipulates how and how much the investment is to be paid back. This agreement is what rules the investment. If, out of habit, the investors demand &ldquo;stocks!&rdquo; then you can create a separate company and they can hold stock in that company, but with the condition that the stock goes back when the investment is paid according to the terms agreed upon. The parallel company could hold a percentage ownership in the <span class='_paradigm'>Radical</span> company.</p>
  <p>As alway, experiment to figure out what works for you.</p>
 
 <h2>Does a department head or an executive give out <span class='_paradigm'>RAD</span>s from a budget?</h2>
  <p><span class='_paradigm'>RAD</span>s are not related to hierarchical titles, functional titles, or roles. All co-owners create the company and the wealth generated by it and this is represented by <span class='_paradigm'>RAD</span>s. All co-owners get <span class='_paradigm'>RAD</span>s from other co-owners on a regular basis. The most &ldquo;senior&rdquo; person gets the same number of <span class='_paradigm'>RAD</span>s as the more &ldquo;junior&rdquo; person or a newbie. People who contribute more generally get more <span class='_paradigm'>RAD</span>s.</p>
 
-<h2>How does <span class='_paradigm'>RADICAL</span> really work?</h2>
+<h2>How does <span class='_paradigm'>Radical</span> really work?</h2>
  <p>It may be frustrating but we can&rsquo;t tell you what exactly will work for you.</p>
  <p>We are trying out a system where each co-owner gets on <span class='_paradigm'>RAD</span> every day. When something significant happens, you can flag a person or a banner right on the spot. Later, during a Distribution event, you can then allocate a fraction of your daily <span class='_paradigm'>RAD</span>. Alternatively, you can flag people to not give <span class='_paradigm'>RAD</span>s to and during a Distribution event you can assign them zero <span class='_paradigm'>RAD</span>s or leave the amount empty. Zero allocations should motivate co-owners to ask for feedback.</p>
  <p>Right now, we are prototyping it on a spreadsheet that we all have access to, but this will likely move to a simple app.</p>
 
-<h2>Why would I want my business to become a <span class='_paradigm'>RADICAL</span> Company?</h2>
- <p>You organize as a <span class='_paradigm'>RADICAL</span> company because,</p>
+<h2>Why would I want my business to become a <span class='_paradigm'>Radical</span> Company?</h2>
+ <p>You organize as a <span class='_paradigm'>Radical</span> company because,</p>
  <ul>
    <li>You want the company to grow.</li>
    <li>You want everybody to financially benefit from the wealth the company creates.</li>
    <li>You want to take more chances while minimizing the risk of doing so.</li>
    <li>You want a better quality of life for yourself and those around you.</li>
    <li>You want the company to outlast you.</li>
-   <li>How do I become a <span class='_paradigm'>RADICAL</span> Company?</li>
+   <li>How do I become a <span class='_paradigm'>Radical</span> Company?</li>
  </ul>
- <p>By committing to transforming to the <span class='_paradigm'>RADICAL</span> paradigm. In the words of the all-wise Yoda, &ldquo;try not, do.&rdquo;</p>
+ <p>By committing to transforming to the <span class='_paradigm'>Radical</span> paradigm. In the words of the all-wise Yoda, &ldquo;try not, do.&rdquo;</p>
  <p>If you are the owner, it&rsquo;s easiest to get started but making it happen will still take a lot of work.</p>
  <p>If you are the boss, it&rsquo;s a lot easier but you still have to get the owners in line. Once they are, you have a lot of work ahead of you.</p>
  <p>If you are a lesser boss, you can get &ldquo;your&rdquo; team going in the general direction of going <span class='_paradigm'>RAD</span>s.  It will be easier to move towards co-management (because you are a boss), but more difficult to move fully into co-ownership, but you can take some limited steps in that general direction.</p>
@@ -78,27 +78,27 @@ image:    "icon-radical-companies-faq.svg"
  <p>One thing you can do with stock is to have it be owned by an Employee Stock Ownership Plan (ESOP) trust. According to US legislation, ESOPs don&rsquo;t pay taxes on revenue. We expect to have a more detailed answer later, but for now, if you want to know more about this, consult a lawyer.</p>
  <p>Originally, we were excited by ESOPs and thought that they were it! Unfortunately, they are not. They are positioned as a retirement plan (<em>i.e.</em>, they fall under the US ERISA legislation). They require a lot of bureaucracy to maintain them and that&rsquo;s usually outsourced to specialized accountants and lawyers, so they are expensive to maintain. The only benefit is financial and that comes at a higher risk of having all your eggs in one basket, so to speak (<em>i.e.</em>, the ESOP is completely dependent on the performance of one company).</p>
 
-<h2>How does <span class='_paradigm'>RADICAL</span> Distribution works in companies that need funding, investment, or merge and acquisition capital?</h2>
+<h2>How does <span class='_paradigm'>Radical</span> Distribution works in companies that need funding, investment, or merge and acquisition capital?</h2>
  <p>Part 3 of the book is mostly speculation, but what is clear is that financial transactions should not be mixed in with governance.</p>
- <p>A <span class='_paradigm'>RADICAL</span> investment is much like an investment from a VC: the company gets a cash infusion to create new products or expand into new markets. The significant difference is that a <span class='_paradigm'>RADICAL</span> investment is a purely financial transaction and includes no other rights.</p>
+ <p>A <span class='_paradigm'>Radical</span> investment is much like an investment from a VC: the company gets a cash infusion to create new products or expand into new markets. The significant difference is that a <span class='_paradigm'>Radical</span> investment is a purely financial transaction and includes no other rights.</p>
  <p>The investment terms will include a timeframe and amount for repayment. This could be something like, &ldquo;we will pay back three times the amount in three years hence,&rdquo; or &ldquo;we will pay back four times the principal amount in two years starting three years from now,&rdquo; or even &ldquo;we will pay back three times the amount if we reach X level of revenue, five times if we get to Y level of revenue, and ten times if our revenue grows beyond Z&rdquo;).</p>
- <p>A <span class='_paradigm'>RADICAL</span> investor doesn't get company stock, which is a percentage of the company&rsquo;s value <em>forever</em>. The investor doesn&rsquo;t get a seat on the mythical Board, because there is no permanent Board. She doesn&rsquo;t get to &ldquo;fire the CEO,&rdquo; she doesn&rsquo;t get to demand that the company change directions, and she doesn&rsquo;t get to for the sale of the company (&ldquo;revenue is not where it should be&rdquo;).</p>
+ <p>A <span class='_paradigm'>Radical</span> investor doesn't get company stock, which is a percentage of the company&rsquo;s value <em>forever</em>. The investor doesn&rsquo;t get a seat on the mythical Board, because there is no permanent Board. She doesn&rsquo;t get to &ldquo;fire the CEO,&rdquo; she doesn&rsquo;t get to demand that the company change directions, and she doesn&rsquo;t get to for the sale of the company (&ldquo;revenue is not where it should be&rdquo;).</p>
  <p>We would hope that the investor brings with her something other than money. If that&rsquo;s the case, the investor may be a valuable advisor and mentor and may be invited to discussions where her expertise and informed opinion are key. She may even get <span class='_paradigm'>RAD</span>s for significant contributions. But this is all up to the co-owners and not a given part of the investment. Company governance remains with the co-owners, not the financial investors.</p>
- <p>Given the financial risk, then why do <span class='_paradigm'>RADICAL</span> investments at all?</p>
+ <p>Given the financial risk, then why do <span class='_paradigm'>Radical</span> investments at all?</p>
  <ul>
   <li>Every co-owner wants their business to succeed and the investment into a blow out financial success. Their self-interest is perfectly aligned with the financial investor&rsquo;s interest.</li>
   <li>If problems arise, co-owners will recognize them right away and make them visible to all other co-owners and investors. (<em>i.e.</em>, transparency).</li>
   <li>Co-owners have the wherewithal to come up with solutions or ways around a problem. There is little or no energy will ever go into trying to hide a significant problem.</li>
   <li>There is very little chance of, say, a founder taking the company in the wrong direction for long without other co-owners noticing, voicing it, and doing something about it.</li>
 </ul>
- <p>This is to say that a <span class='_paradigm'>RADICAL</span> investment is less risky than the traditional risk capital investment because everyone in the company, and not just a select few, is committed to its success and fully supportive of it.</p>
+ <p>This is to say that a <span class='_paradigm'>Radical</span> investment is less risky than the traditional risk capital investment because everyone in the company, and not just a select few, is committed to its success and fully supportive of it.</p>
 
 <h2>So, do I have to say no to investors?</h2>
  <p>VC investors won&rsquo;t understand any of this. They&rsquo;ll think it is nuts and walk away from this before  you get a chance to say no.</p>
  <p>However, if you need a capital infusion, then find an investor that agrees to 1) give the money, 2) in exchange for a promise to pay back a multiple of the original investment. For example, you may get a $500K cash infusion in exchange for a promissory note to pay back $1.5M in three years.</p>
 
 <h2>What happens if the company gets acquired?</h2>
- <p>We don&rsquo;t envision <span class='_paradigm'>RADICAL</span> companies being sold, but if that&rsquo;s the way it turns out, then, as in any such transaction, you trade the company&rsquo;s stock for the purchase amount. With that you pay off whatever debt you&rsquo;ve accumulated and distribute the rest according to the <span class='_paradigm'>RAD</span>s allocations. For example, if you end up with 10% of all the <span class='_paradigm'>RAD</span>s, then you get 10% of the Distribution amount.</p>
+ <p>We don&rsquo;t envision <span class='_paradigm'>Radical</span> companies being sold, but if that&rsquo;s the way it turns out, then, as in any such transaction, you trade the company&rsquo;s stock for the purchase amount. With that you pay off whatever debt you&rsquo;ve accumulated and distribute the rest according to the <span class='_paradigm'>RAD</span>s allocations. For example, if you end up with 10% of all the <span class='_paradigm'>RAD</span>s, then you get 10% of the Distribution amount.</p>
 
 <h2>How often do I have to do distributions?</h2>
  <p>Something like this could work,</p>
@@ -109,8 +109,8 @@ image:    "icon-radical-companies-faq.svg"
 </ul>
  <p>One possible way to do this is by creating a Tinder-like mobile app, where you can easily flag people with a gesture. With a right-swipe you could add people to the &ldquo;good&rdquo; list and with a left swipe you could add people to the &ldquo;naughty&rdquo; list. At another time, the app would let you allocate a percentage of your <span class='_paradigm'>RAD</span>s to each person; it may even suggest a distribution based on the number of &ldquo;good&rdquo; and &ldquo;naughty&rdquo; swipes you gave each person. You could also add a note along with the allocation.</p>
 
-<h2>Is the <span class='_paradigm'>RADICAL</span> model really &ldquo;fair?&rdquo; Won&rsquo;t so much &ldquo;equality&rdquo; come at the price of individualism? Doesn&rsquo;t it risk becoming a demotivator?</h2>
- <p>Fairness and equality are not the goal at all. Fairness and equality are the children of the monolithic <span class='_paradigm'>FIAT</span> mindset.</p>
+<h2>Is the <span class='_paradigm'>Radical</span> model really &ldquo;fair?&rdquo; Won&rsquo;t so much &ldquo;equality&rdquo; come at the price of individualism? Doesn&rsquo;t it risk becoming a demotivator?</h2>
+ <p>Fairness and equality are not the goal at all. Fairness and equality are the children of the monolithic <span class='_paradigm'>Fiat</span> mindset.</p>
  <p>Recognizing personal effort is better done by the people who are close to that effort. One line of code makes everything great for the whole team. Another line of code, makes a mess of things. But even though I know a few things about software, I CAN'T TELL the difference. However, people in the team readily recognize which is a plus and which is not.</p>
  <p>If I think it was great, but I get no <span class='_paradigm'>RAD</span>s, then I call for feedback. If the feedback is not resonating with me, then I leave. The problem today is that people's livelihoods are deeply tied to employment. In the US, your health insurance is tied to your job and if your wife is 7 months pregnant, then you have to bite your lip and stick around for two more months and maybe longer. In other words, the current system is the problem, not the Distribution.</p>
  <p>My hope is that over time changing how companies are governed and owned will spill out and change the system we live in and make things healthier. And all kinds of shenanigans will happen along the way, for sure.</p>
@@ -133,7 +133,7 @@ image:    "icon-radical-companies-faq.svg"
 <h1 class="_section">Co-Management</h1>
 
 <h2>What about titles?</h2>
- <p>In a co-managed company there is no <span class='_paradigm'>FIAT</span> hierarchy and, therefore, there are no hierarchical titles. Even if you use them when you work with <span class='_paradigm'>FIAT</span> businesses, these titles don&rsquo;t mean anything inside a co-managed company.</p>
+ <p>In a co-managed company there is no <span class='_paradigm'>Fiat</span> hierarchy and, therefore, there are no hierarchical titles. Even if you use them when you work with <span class='_paradigm'>Fiat</span> businesses, these titles don&rsquo;t mean anything inside a co-managed company.</p>
  <p>There are still roles that people perform, functions that have to be done, and specific skill sets that people have. But there are no entitled bosses &ldquo;in charge&rdquo; of silos. People work together in teams (fluid) but there are no departments (static).</p>
 
 <h2>How would this work with our Purpose?</h2>
@@ -143,26 +143,26 @@ image:    "icon-radical-companies-faq.svg"
 <h2>How would this work with our Circle framework?</h2>
  <p>&ldquo;Circles&rdquo; come in two flavors, non-hierarchical and hierarchical.</p>
  <p>Non-hierarchical groups of people come together and dissolve as needed. Whether or not they are called &ldquo;circles,&rdquo; their scope is limited to the task at hand.</p>
- <p>Hierarchical &ldquo;circles,&rdquo; on the other hand, are just another form of <span class='_paradigm'>FIAT</span> hierarchy and as such they are inimical to co-management and co-ownership.</p>
+ <p>Hierarchical &ldquo;circles,&rdquo; on the other hand, are just another form of <span class='_paradigm'>Fiat</span> hierarchy and as such they are inimical to co-management and co-ownership.</p>
 
-<h2>Does a company need to be co-managed to <span class='_paradigm'>RADICAL</span>?</h2>
- <p>A <span class='_paradigm'>FIAT</span> hierarchy warps an organization in its favor, so we don&rsquo;t see how the two would coexist for long. When John Lewis created the John Lewis Partnership he put in place a <span class='_paradigm'>FIAT</span> hierarchy and a very extensive constitution to prevent managers from taking over the control of the company, but eventually they did. Other Europeans companies have tried a similar approach and invariably the managers took it over. They are still financially very generous companies compared to their competitors but what&rsquo;s left of worker control is cosmetic.</p>
- <p>So, yes, to be <span class='_paradigm'>RADICAL</span> a company has to be co-managed.</p>
+<h2>Does a company need to be co-managed to <span class='_paradigm'>Radical</span>?</h2>
+ <p>A <span class='_paradigm'>Fiat</span> hierarchy warps an organization in its favor, so we don&rsquo;t see how the two would coexist for long. When John Lewis created the John Lewis Partnership he put in place a <span class='_paradigm'>Fiat</span> hierarchy and a very extensive constitution to prevent managers from taking over the control of the company, but eventually they did. Other Europeans companies have tried a similar approach and invariably the managers took it over. They are still financially very generous companies compared to their competitors but what&rsquo;s left of worker control is cosmetic.</p>
+ <p>So, yes, to be <span class='_paradigm'>Radical</span> a company has to be co-managed.</p>
 
-<h2>Why would I want my business to become a <span class='_paradigm'>RADICAL</span> Company?</h2>
- <p>You organize as a <span class='_paradigm'>RADICAL</span> company because,</p>
+<h2>Why would I want my business to become a <span class='_paradigm'>Radical</span> Company?</h2>
+ <p>You organize as a <span class='_paradigm'>Radical</span> company because,</p>
  <ul>
   <li>You want a better quality of life for yourself and those around you.</li>
   <li>You want the company to outlast you.</li>
   <li>You want the company to grow.</li>
   <li>You want everybody to financially benefit from the wealth the company creates.</li>
   <li>You want to take more chances while minimizing the risk of doing so.</li>
-  <li>How do I become a <span class='_paradigm'>RADICAL</span> Company?</li>
+  <li>How do I become a <span class='_paradigm'>Radical</span> Company?</li>
  </ul>
- <p>By committing to transforming to the <span class='_paradigm'>RADICAL</span> paradigm. In the words of the all-wise Yoda, &ldquo;try not, do.&rdquo;</p>
+ <p>By committing to transforming to the <span class='_paradigm'>Radical</span> paradigm. In the words of the all-wise Yoda, &ldquo;try not, do.&rdquo;</p>
  <p>If you are the owner, it&rsquo;s easiest to get started but making it happen will still take a lot of work.</p>
  <p>If you are the boss, it&rsquo;s a lot easier but you still have to get the owners in line. Once they are, you have a lot of work ahead of you.</p>
- <p>If you are a lesser boss, you can get &ldquo;your&rdquo; team going in the general direction of going <span class='_paradigm'>RADICAL</span>.  It will be easier to move towards co-management (because you are a boss), but more difficult to move fully into co-ownership, but you can take some limited steps in that general direction.</p>
+ <p>If you are a lesser boss, you can get &ldquo;your&rdquo; team going in the general direction of going <span class='_paradigm'>Radical</span>.  It will be easier to move towards co-management (because you are a boss), but more difficult to move fully into co-ownership, but you can take some limited steps in that general direction.</p>
  <p>If you are not an owner or a boss, we don&rsquo;t know how you could proceed, other than to leave and either start your own company or join one that&rsquo;s aligned with where you want to go.</p>
 
 <h2>What do I have to give up?</h2>
@@ -175,7 +175,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>BTW, this overnight change of heart was, at least, more open (<em>i.e.</em>, Fried posted the letter publicly). When benevolent owners backtrack little by little, it most often goes unnoticed.</p>
 
 <h2>Core Design Principle &ldquo;nested enterprises,&rdquo; is questionable. Wouldn&rsquo;t bad behavior of one group always be sanctioned within a bigger ecosystem?</h2>
- <p>This stuff about &ldquo;sanctioning bad behavior&rdquo; only makes sense if the whole ecosystem is corrupt. This is very likely the case in a <span class='_paradigm'>FIAT</span> business. But in a <span class='_paradigm'>RADICAL</span> company even if a few co-owners drink too much Kool-Aid, the others will raise the red flag.</p>
+ <p>This stuff about &ldquo;sanctioning bad behavior&rdquo; only makes sense if the whole ecosystem is corrupt. This is very likely the case in a <span class='_paradigm'>Fiat</span> business. But in a <span class='_paradigm'>Radical</span> company even if a few co-owners drink too much Kool-Aid, the others will raise the red flag.</p>
  <p>In any case, this is not about &ldquo;sanctioning.&rdquo; It is about applying the same Core Design Principle to any interactions with other groups within the same organization managing a Common Pool Resource,</p>
 
 <h2>Boundaries of users and resource are clear</h2>
@@ -195,7 +195,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>No question that <em>financially</em> businesses are going up, but the financial &ldquo;rewards,&rdquo; the dividends, are going to fewer and fewer while the price, emotional damage and diminished health, is being paid by more and more.</p>
 
 <h2 style="font-size:30px; font-family:Courier New, monospace;  ">How do we do this [transformation] even for the people that do not want it or are not ready for it?</h2>
- <p>We cannot &ldquo;do this&rdquo; for anybody. With this book, we are simply trying to make everybody aware of the system we are immersed in: we are making us fish aware that we live in water and how this shapes us. As <span class='_paradigm'>RADICAL</span> ideas become more widely known and more people go from I-am-curious to I-am-ready, companies will start to transform. This will be evolutionary, from living in water to living on land. Through it all, we'll find out what works and what doesn't for every particular company.</p>
+ <p>We cannot &ldquo;do this&rdquo; for anybody. With this book, we are simply trying to make everybody aware of the system we are immersed in: we are making us fish aware that we live in water and how this shapes us. As <span class='_paradigm'>Radical</span> ideas become more widely known and more people go from I-am-curious to I-am-ready, companies will start to transform. This will be evolutionary, from living in water to living on land. Through it all, we'll find out what works and what doesn't for every particular company.</p>
  <p>Rather than dictate yet-another-structure, we are proposing a few foundational basics,</p>
 <table style="margin: auto; ">
   <tr>
@@ -253,7 +253,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>Note that this is not a way of ranking one company against another (&ldquo;We are more transparent than you are&rdquo;). But you can use this foundation to measure
 <em>your</em> company&rsquo;s progress over time (&ldquo;We are <em>more</em> transparent this month than last month&rdquo;).</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">How can a <span class='_paradigm'>FIAT</span> company transform to a <span class='_paradigm'>RADICAL</span> model? It needs first a certain base of trust and experience before such an approach can be successful, no? How can this gap be bridged?</h2>
+<h2 style="font-size:30px; font-family:Courier New, monospace;  ">How can a <span class='_paradigm'>Fiat</span> company transform to a <span class='_paradigm'>Radical</span> model? It needs first a certain base of trust and experience before such an approach can be successful, no? How can this gap be bridged?</h2>
  <p>K2K Emocionando in Spain has been doing it since 2007, so it is possible.</p>
  <p>First they spend time educating the owners on what to expect, the financial arrangements, etc. Then they spend time with <em>everybody</em> else in the company. Then they put together a proposal based on what they heard. Finally, people (sigh) vote on it. If there&rsquo;s an overwhelming number of YES (not just majority), then they start implementing the transformation. Each is different.</p>
  <p>With K2K&rsquo;s coaching, people talk with others who cannot cannot live with the decision and figure out what to do in each case.</p>
@@ -264,33 +264,33 @@ image:    "icon-radical-companies-faq.svg"
  <p>It is true that not all of us are drowning in <em>financial</em> scarcity. In fact, most people alive today live in financial splendor compared with the royalty of old. On the other hand, we definitely lack time, mental health, choices, and are generally stunted in our ability to live a full life. At work, we don&rsquo;t function as adults.</p>
  <p>We are financially dependent on our jobs and not far away from the risk of destitution if we step outside the box.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Maybe use a less &ldquo;devastating, negative and martial&rdquo; language when talking about <span class='_paradigm'>FIAT</span> companies? Giving the &ldquo;old way of doing it&rdquo; a bit more credit will give the cause more credibility and acceptance as well.</h2>
+<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Maybe use a less &ldquo;devastating, negative and martial&rdquo; language when talking about <span class='_paradigm'>Fiat</span> companies? Giving the &ldquo;old way of doing it&rdquo; a bit more credit will give the cause more credibility and acceptance as well.</h2>
  <p>At this point there are people who recognize the problem and are looking for ways out of it and will not feel threatened. We tried not to make it sound like war, but probably got over-enthusiastic in places.</p>
  <p>No language will move people who are squarely committed to the status quo. On the other hand, it will equivocate the fundamental message that the status quo is killing us and we have to find alternatives. This book is one such alternative.</p>
- <p>As we mentioned somewhere in the book, for most people who grew up climbing the <span class='_paradigm'>FIAT</span> ladder, all of this is &ldquo;utterly ridiculous.&rdquo; There will be a time, later, when we'll have to help the undecided move away from <span class='_paradigm'>FIAT</span>, but it's not time yet, IMO.</p>
+ <p>As we mentioned somewhere in the book, for most people who grew up climbing the <span class='_paradigm'>Fiat</span> ladder, all of this is &ldquo;utterly ridiculous.&rdquo; There will be a time, later, when we'll have to help the undecided move away from <span class='_paradigm'>Fiat</span>, but it's not time yet, IMO.</p>
 
 <h2 style="font-size:30px; font-family:Courier New, monospace;  ">Voting may be a limited way of making decisions, but how can it be overcome, particularly in larger organizations?</h2>
  <p>Every so often we will get a letter from a company asking us to &ldquo;please, vote&rdquo; for a new Board. However, there's usually a given slate of Board candidates already selected and, at best, you can write in a candidate or two. In the end, the system remains and the new Board operates like the old Board. Every few years we get to vote for our &ldquo;leaders&rdquo; in the US. Your vote counts to determine who gets elected, but it doesn&rsquo;t change the system they operate in. This is one problem with voting.</p>
  <p>The other problem is that voting assumes that you are choosing between bosses or rules that apply to everyone. It assumes a monoculture. But life is not a monoculture, it is more subtle and complex than that. There are people who are gluten-intolerant in the US, but they can gorge on bread when they go to Europe. I don't want to vote between grain A and grain B, I'd rather have distincts breads made with different grains. The monolithic approach doesn&rsquo;t work for businesses and it doesn&rsquo;t work for people.</p>
  <p>Regardless of size, a group of people working together is in the best position to figure out what works for them, by talking and consenting to try it out, not by voting. This is scalable. Voting has brought us monocultures in politics and business and it is choking us.</p>
- <p>The reference to &ldquo;larger organizations&rdquo; only makes sense in the monolithic <span class='_paradigm'>FIAT</span> case, particularly when it comes to financial reporting. In the <span class='_paradigm'>RADICAL</span> model a &ldquo;larger organization&rdquo; is just the same as a smaller organization, except with more groups working on more things. The difference between companies is their explicit Alignment, not their organizational foundation.</p>
+ <p>The reference to &ldquo;larger organizations&rdquo; only makes sense in the monolithic <span class='_paradigm'>Fiat</span> case, particularly when it comes to financial reporting. In the <span class='_paradigm'>Radical</span> model a &ldquo;larger organization&rdquo; is just the same as a smaller organization, except with more groups working on more things. The difference between companies is their explicit Alignment, not their organizational foundation.</p>
 
 <h2 style="font-size:30px; font-family:Courier New, monospace;  ">How do we deal with an extreme crisis, the ones where you as an entrepreneur put everything you have into the game and at stake?</h2>
  <p>Except for earthquakes, &ldquo;extreme crises&rdquo; happen because of the limited visibility of a handful of owners. A problem starts to build up but the owners manage to ignore it until it is pretty late. When everybody is a co-owner, somebody is bound to point out the problem just as it is taking shape and with others who care about the situation they&rsquo;ll come up with a solution <em>before it becomes a crisis</em>.</p>
  <p>If you are the first one to see the problem, then you would say, &ldquo;we need to decide by the end of today, let's get together at 3 pm.&rdquo;  Most people will not bother to show up, but everybody who wants to show up could, to be part of the decision. Maybe your proposal will carry the day you are very clear on what needs to happen and you'd be very convincing. But maybe there&rsquo;s a better idea that comes out of the discussion. Either way, you&rsquo;ll come out of it with a plan on what to do about it.</p>
  <p>In the extreme case of, say, a fire there is no discussion to be had and whoever is close to an escape will lead others through it. No need to wait for the boss to figure things out.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Where does the evidence for better financial growth for <span class='_paradigm'>RADICAL</span> companies come from?</h2>
- <p>There is no &ldquo;evidence&rdquo; because there are almost no <span class='_paradigm'>RADICAL</span> companies around. In the US we&rsquo;ve identified only one, W L Gore.</p>
- <p>We can extrapolate from the financial performance of businesses which practice self-management, or have set up an ESOP, or those that practice Open Book Management. Even then, these businesses perform financially better than strict <span class='_paradigm'>FIAT</span> businesses.</p>
+<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Where does the evidence for better financial growth for <span class='_paradigm'>Radical</span> companies come from?</h2>
+ <p>There is no &ldquo;evidence&rdquo; because there are almost no <span class='_paradigm'>Radical</span> companies around. In the US we&rsquo;ve identified only one, W L Gore.</p>
+ <p>We can extrapolate from the financial performance of businesses which practice self-management, or have set up an ESOP, or those that practice Open Book Management. Even then, these businesses perform financially better than strict <span class='_paradigm'>Fiat</span> businesses.</p>
 
-<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Is the <span class='_paradigm'>RADICAL</span> approach not risking slowly killing innovation and progressive ideas?</h2>
- <p>Quite the opposite. <span class='_paradigm'>FIAT</span> companies put up a lot of barriers to any innovative and progressive proposal that doesn&rsquo;t come from the boss or from those handpicked by the boss.</p>
+<h2 style="font-size:30px; font-family:Courier New, monospace;  ">Is the <span class='_paradigm'>Radical</span> approach not risking slowly killing innovation and progressive ideas?</h2>
+ <p>Quite the opposite. <span class='_paradigm'>Fiat</span> companies put up a lot of barriers to any innovative and progressive proposal that doesn&rsquo;t come from the boss or from those handpicked by the boss.</p>
  <p>Decentralization means that ideas can come from anybody in the company. Funding the implementation of those ideas is up to the co-owners which may or not support it.</p>
  <p>Over time, each company will learn which ideas are more aligned with their impact and which are too far out.</p>
 
 <h2 style="font-size:30px; font-family:Courier New, monospace;  ">So what if the boss&rsquo; project gets more resources? How many super successful projects and strategies would have never seen the light of day if it weren&rsquo;t for the founders?</h2>
- <p>In a <span class='_paradigm'>FIAT</span> organization, the boss (and his proxies) decide who gets how much for which project and which idea gets implemented. If it turns out to be a financial win, the boss will pat himself on the back for being innovative and whitepapers will be written about it. If it doesn't turn out, then nobody will talk about it.</p>
- <p>In a <span class='_paradigm'>RADICAL</span> company, everybody has the opportunity to ask the other co-owners to invest in their project. That opens the door to more innovation to come from all over, not just a select few. If you start to implement it and it becomes obvious that it is not going to work, the co-owners working on it will pull the red flag. If it looks like it's going to work, the co-owners working on it will probably push a bit harder to get out the door sooner because they know that it is not just good ideas, but good ideas that make it to market.</p>
+ <p>In a <span class='_paradigm'>Fiat</span> organization, the boss (and his proxies) decide who gets how much for which project and which idea gets implemented. If it turns out to be a financial win, the boss will pat himself on the back for being innovative and whitepapers will be written about it. If it doesn't turn out, then nobody will talk about it.</p>
+ <p>In a <span class='_paradigm'>Radical</span> company, everybody has the opportunity to ask the other co-owners to invest in their project. That opens the door to more innovation to come from all over, not just a select few. If you start to implement it and it becomes obvious that it is not going to work, the co-owners working on it will pull the red flag. If it looks like it's going to work, the co-owners working on it will probably push a bit harder to get out the door sooner because they know that it is not just good ideas, but good ideas that make it to market.</p>
 
 {% include related.html %}

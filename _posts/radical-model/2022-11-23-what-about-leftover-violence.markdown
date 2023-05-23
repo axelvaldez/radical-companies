@@ -7,11 +7,11 @@ image:    "icon-what-about-leftover-violence.svg"
 ---
 
 <div style="display:none;">
- <p>What might it look like as we transition away from the <span class="_paradigm">FIAT</span> way of doing things? Will violence keep us from moving through to <span class="_paradigm">RADICAL</span>?</p>
+ <p>What might it look like as we transition away from the <span class="_paradigm">Fiat</span> way of doing things? Will violence keep us from moving through to <span class="_paradigm">Radical</span>?</p>
 </div>
 
 <h1>Intro</h1>
- <p>What might it look like as we transition away from the <span class="_paradigm">FIAT</span> way of doing things? We have learned that <em>my success</em> requires that I&rsquo;d be willing to wield violence against you, the others. For the <span class="_paradigm">FIAT</span> system to work, some form of violence is required, from the mildest that comes through as a love song, to the most brutal shooting, as just happened in Colorado Springs.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
+ <p>What might it look like as we transition away from the <span class="_paradigm">Fiat</span> way of doing things? We have learned that <em>my success</em> requires that I&rsquo;d be willing to wield violence against you, the others. For the <span class="_paradigm">Fiat</span> system to work, some form of violence is required, from the mildest that comes through as a love song, to the most brutal shooting, as just happened in Colorado Springs.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
 
 <h1>Violence</h1>
  <p>What got me thinking about this was a comment made by our neighbor. One night she looked out her balcony window and saw two black pickups flanking the rental next door to ours. There were several armed people in the trucks and a loud party was going on inside the house.</p>
@@ -23,7 +23,7 @@ image:    "icon-what-about-leftover-violence.svg"
  <p>In other words, he who makes things less transparent, also makes things more centralized, and vice versa. That is the temptation that will be present for a long time. It may not always work, but I believe that to resist it, talk.</p>
 
 <h1>No Big Deal</h1>
- <p>Some numbers appeared scary and some people panicked. Some even made dramatic exits. The <span class="_paradigm">RADICAL</span> is to have a conversation,</p>
+ <p>Some numbers appeared scary and some people panicked. Some even made dramatic exits. The <span class="_paradigm">Radical</span> is to have a conversation,</p>
   <ul>
    <li>The would-be boss obviously understood the numbers and didn&rsquo;t panic: discuss.</li>
    <li>We are not working well together and the would-be boss has a solution in mind: discuss.</li>
@@ -41,8 +41,8 @@ image:    "icon-what-about-leftover-violence.svg"
 <h1>But&hellip; What about the Guns?</h1>
  <p>Not sure what to do about <em>people with guns.</em> Would I go down and talk to them?  I don&rsquo;t think so. Would I do the superhero thing and swipe their weapons away with my cape? I don&rsquo;t even own a cape, for crying out loud.</p>
  <p>They can buy these weapons, and the trucks (and the party) with money they make from supplying illegal drugs to quelch a need.</p>
- <p>The <em>talk</em> is not with <em>people with weapons</em> but with <em>people with needs.</em> And it has to start way earlier. The addicted people probably need help getting the monkeys off their back. This may give them the wherewithal to get out from under the <span class="_paradigm">FIAT</span> pressures which, in turn, may do away with the conditions that precipitated the addiction in the first place. People suffering from addictions may not, but people in recovery will most likely readily grasp what co-ownership offers them.</p>
- <p>No <span class="_paradigm">FIAT</span> pressures, no addiction, no <em>people with guns,</em> no threat of lethal violence.</p>
+ <p>The <em>talk</em> is not with <em>people with weapons</em> but with <em>people with needs.</em> And it has to start way earlier. The addicted people probably need help getting the monkeys off their back. This may give them the wherewithal to get out from under the <span class="_paradigm">Fiat</span> pressures which, in turn, may do away with the conditions that precipitated the addiction in the first place. People suffering from addictions may not, but people in recovery will most likely readily grasp what co-ownership offers them.</p>
+ <p>No <span class="_paradigm">Fiat</span> pressures, no addiction, no <em>people with guns,</em> no threat of lethal violence.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>

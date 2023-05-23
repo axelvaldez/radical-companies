@@ -16,9 +16,9 @@ image:    "icon-owning-the-commons-2-3.svg"
  <p>The land can handle that. But now we would add another 8 families,</p>
   <p class="_quotation">1 + 1 +  2 + 4 + 8 = 16</p>
  <p>But we don&rsquo;t have enough land or water to keep our lifestyle. A few people are experimenting with low water systems, but who knows when that will work.</p>
- <p>That&rsquo;s when we take out the rifles that we bought online and bar the new families&hellip; oh, wait, that is the <span class="_paradigm">FIAT</span> way!</p>
+ <p>That&rsquo;s when we take out the rifles that we bought online and bar the new families&hellip; oh, wait, that is the <span class="_paradigm">Fiat</span> way!</p>
 
-<h1>The <span class="_paradigm">RADICAL</span> Way</h1>
+<h1>The <span class="_paradigm">Radical</span> Way</h1>
  <p>They may not partake in the land that we possess because of lack of water, but the newcomers are now part of our community.</p>
  <ul>
   <li>We offered the newcomers food and shelter and then explained the situation.</li>

@@ -16,14 +16,14 @@ image:    "icon-banners-do-no-evil.svg"
  <p>In the case of a truly siphoning <span class="_paradigm">BANNER</span>s, we could try to stop it by making rules. But, then we&rsquo;d have to police for compliance and even make more onerous rules, etc.</p>
 
 <h1>No Rules</h1>
- <p>Rule making is not a solution, at least not a <span class="_paradigm">RADICAL</span> solution. &ldquo;Rules&rdquo; are,
+ <p>Rule making is not a solution, at least not a <span class="_paradigm">Radical</span> solution. &ldquo;Rules&rdquo; are,
  <ul>
   <li>A form of (mild) violence, <span class="_quotespan">We will have to penalize you because YOU ARE NOT FOLLOWING THE RULES</span>.</li>
   <li>A form of &ldquo;power over&rdquo; people which also includes violence, &ldquo;According to the rules, you are not fit to be a beneficiary of this <span class="_paradigm">BANNER</span>&rdquo;.</li>
  </ul>
 
-<h1>The <span class="_paradigm">RADICAL</span> Solutions</h1>
- <p>The <span class="_paradigm">RADICAL</span> solution seems to be to disclose all <span class="_paradigm">BANNER</span> beneficiaries and let the co-owners deal with maladapted <span class="_paradigm">BANNER</span>s. This also feels like the most effective solution.</p>
+<h1>The <span class="_paradigm">Radical</span> Solutions</h1>
+ <p>The <span class="_paradigm">Radical</span> solution seems to be to disclose all <span class="_paradigm">BANNER</span> beneficiaries and let the co-owners deal with maladapted <span class="_paradigm">BANNER</span>s. This also feels like the most effective solution.</p>
  <div class="_center">
   <img
    src="/assets/img/icon-banners-do-no-evil.svg"

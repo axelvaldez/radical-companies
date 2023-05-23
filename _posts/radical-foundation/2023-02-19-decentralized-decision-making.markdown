@@ -11,11 +11,11 @@ image:    "icon-decentralized-decision-making.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Imagine that a <span class="_paradigm">RADICAL</span> company uses <span class="_paradigm">BANNER</span> to propose a project. The <span class="_paradigm">BANNER</span> includes its description including the skills and resources they might need. After a period of giving it shape, the <span class="_paradigm">BANNER</span> is funded.</p>
+ <p>Imagine that a <span class="_paradigm">Radical</span> company uses <span class="_paradigm">BANNER</span> to propose a project. The <span class="_paradigm">BANNER</span> includes its description including the skills and resources they might need. After a period of giving it shape, the <span class="_paradigm">BANNER</span> is funded.</p>
 
 <h1>First Team, First Failure</h1>
  <p>As a decentralized company, everybody participates in strategizing. That is generally a good thing, but, in this case, people can&rsquo;t agree on what strategy to take. Even though these people are co-owners, they are frozen and can&rsquo;t take the next step.</p>
- <p>It could be because these people have lived their whole life in a <span class="_paradigm">FIAT</span> environment. Not used to making decisions, they would act this way.</p>
+ <p>It could be because these people have lived their whole life in a <span class="_paradigm">Fiat</span> environment. Not used to making decisions, they would act this way.</p>
 
 <h1>Another Team, Another Failure</h1>
  <p>Then another team would take over after figuring out that something must be done differently. So they <em>elect</em> a <em>chief strategist</em> and commit to following whatever decision their chief strategist comes up with.</p>
@@ -28,7 +28,7 @@ image:    "icon-decentralized-decision-making.svg"
  <p>This time, the project meets expectations.</p>
 
 <h1>And Now&hellip;</h1>
- <p>Now that you have read this, don&rsquo;t wait until this happens to you, make it part of a workshop that would-be <span class="_paradigm">RADICAL</span>s have available to them.</p>
+ <p>Now that you have read this, don&rsquo;t wait until this happens to you, make it part of a workshop that would-be <span class="_paradigm">Radical</span>s have available to them.</p>
  <p>Help people learn and grow.</p>
 
 {% include related.html %}

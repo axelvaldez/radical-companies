@@ -61,7 +61,7 @@ image:    "icon-the-serpent-is-sensuality.svg"
   </li>
   <li id="en02">
    <p class="_list-item">
-    <em>Google Goes <span class="_paradigm">RADICAL</span></em>.
+    <em>Google Goes <span class="_paradigm">Radical</span></em>.
     <<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>

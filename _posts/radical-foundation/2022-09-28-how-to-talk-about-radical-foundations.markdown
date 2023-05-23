@@ -1,30 +1,30 @@
 ---
 layout:   post
-title:    "How to Talk about <span class='_paradigm'>RADICAL</span> Foundations"
+title:    "How to Talk about <span class='_paradigm'>Radical</span> Foundations"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-how-to-talk-about-radical-foundations.svg"
 ---
 
 <div style="display:none;">
- <p><span class="_quotespan">How can I talk about <span class="_paradigm">RADICAL</span> to people who don&rsquo;t know anything about it.</span> What are its Principles? Does <span class="_paradigm">RADICAL</span> have a structure?</p>
+ <p><span class="_quotespan">How can I talk about <span class="_paradigm">Radical</span> to people who don&rsquo;t know anything about it.</span> What are its Principles? Does <span class="_paradigm">Radical</span> have a structure?</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p><span class="_quotespan">How can I talk about <span class="_paradigm">RADICAL</span> to people who don&rsquo;t know anything about it.</span> What are its Principles? Does <span class="_paradigm">RADICAL</span> have a structure?</p>
- <p>Note that <em>principles</em> and <em>structure</em> are a reflection of <span class="_paradigm">FIAT</span> concerns, and these questions really are about centralization and would translate to <em>who defines these principles and structures? who is the boss?</em></p>
- <p>Nevertheless, you can address these types of questions by talking about the <span class="_paradigm">RADICAL</span> tools you do have,</p>
+ <p><span class="_quotespan">How can I talk about <span class="_paradigm">Radical</span> to people who don&rsquo;t know anything about it.</span> What are its Principles? Does <span class="_paradigm">Radical</span> have a structure?</p>
+ <p>Note that <em>principles</em> and <em>structure</em> are a reflection of <span class="_paradigm">Fiat</span> concerns, and these questions really are about centralization and would translate to <em>who defines these principles and structures? who is the boss?</em></p>
+ <p>Nevertheless, you can address these types of questions by talking about the <span class="_paradigm">Radical</span> tools you do have,</p>
  <ul style="margin-left:20px; ">
   <li>The RADs! mobile app<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></li>
   <li>The Agreements<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></li>
-  <li>The <span class="_paradigm">RADICAL</span> Foundations</li>
+  <li>The <span class="_paradigm">Radical</span> Foundations</li>
  </ul>
- <p>You can read about the first two in previous posts. This post is about the <span class="_paradigm">RADICAL</span> Foundations.</p>
+ <p>You can read about the first two in previous posts. This post is about the <span class="_paradigm">Radical</span> Foundations.</p>
 
-<h1><span class="_paradigm">RADICAL</span> Foundation Template</h1>
+<h1><span class="_paradigm">Radical</span> Foundation Template</h1>
  <p>Our deepest problems are the inescapable side-effects of the system we live in: our collapsing climate, the expanding wealth, and wellbeing, gap, discrimation against people of color, the exploitation of women. Instead, we need a generative way of relating to one another, a different paradigm. As we see it, businesses are the place to start. Businesses-as-dictatorship are the root of the problem, so they must be the incubators for what comes next.</p>
- <p>In the <span class="_paradigm">RADICAL</span> model, a <em>company</em> is simply a group of people who come together to build something bigger than themselves. The word "company" comes from the Latin prefix con-, meaning together, and pan, meaning bread. A company then is a group of people who work and socialize together.</p>
- <p>Every company is different because the people who embody it are different. What fundamentally makes a <span class="_paradigm">RADICAL</span> company different from a <span class="_paradigm">FIAT</span> business is that it starts from this simple Foundation.</p>
+ <p>In the <span class="_paradigm">Radical</span> model, a <em>company</em> is simply a group of people who come together to build something bigger than themselves. The word "company" comes from the Latin prefix con-, meaning together, and pan, meaning bread. A company then is a group of people who work and socialize together.</p>
+ <p>Every company is different because the people who embody it are different. What fundamentally makes a <span class="_paradigm">Radical</span> company different from a <span class="_paradigm">Fiat</span> business is that it starts from this simple Foundation.</p>
  <div class="_center">
   <table class="_h2table">
    <tr>

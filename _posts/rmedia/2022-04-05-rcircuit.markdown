@@ -7,7 +7,7 @@ image:    "icon-rmedia.svg"
 ---
 
 <div style="display: none; ">
- <p>Curious people can get the <span style="font-size:smaller; ">RADICAL</span> experience by staying with <span style="font-size:smaller; ">RADICAL</span> companies in the rCircuit.</p>
+ <p>Curious people can get the <span style="font-size:smaller; ">Radical</span> experience by staying with <span style="font-size:smaller; ">Radical</span> companies in the rCircuit.</p>
 </div>
 
 <div style="background-color:beige; font-size:larger; font-family:american typewriter, serif; padding:1em; margin-bottom:30px; ">

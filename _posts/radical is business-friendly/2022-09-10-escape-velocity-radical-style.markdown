@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Escape Velocity, <span class='_paradigm'>RADICAL</span> Style"
+title:    "Escape Velocity, <span class='_paradigm'>Radical</span> Style"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
 image:    "icon-escape-velocity-radical-style.svg"
@@ -11,12 +11,12 @@ image:    "icon-escape-velocity-radical-style.svg"
 </div>
 
 <h1>Intro</h1>
- <p>We are pretty sure that we are not the first to come up with the model the book described in the book <em>RADICAL COMPANIES</em>. You find instances of communities and businesses everywhere in the world and at different times in history. However, an alternative model to the <span class="_paradigm">FIAT</span> system has never reached escape velocity.</p>
+ <p>We are pretty sure that we are not the first to come up with the model the book described in the book <em>RADICAL COMPANIES</em>. You find instances of communities and businesses everywhere in the world and at different times in history. However, an alternative model to the <span class="_paradigm">Fiat</span> system has never reached escape velocity.</p>
 
 <h1>Precursors</h1>
- <p><span class="_paradigm">RADICAL</span>-like groups have been around for a while: one comes up, others copy him, and they pick up some momentum, <em>but never enough</em>. The reasons range from the visionary leader passing away, dogma setting in, or the group being taken over by barbarians.</p>
+ <p><span class="_paradigm">Radical</span>-like groups have been around for a while: one comes up, others copy him, and they pick up some momentum, <em>but never enough</em>. The reasons range from the visionary leader passing away, dogma setting in, or the group being taken over by barbarians.</p>
  <p>What drives these barbarians to <em>take over</em>? Why do they believe they are winning when their chieftains get the long-term benefits of their work? Don&rsquo;t they, the people who do the <em>winning,</em> realize that they, too, can easily end up on the wrong side of this win-lose mindset?</p>
- <p>Or maybe <strong><em>we</em></strong> are all barbarians and we can&rsquo;t help it. It's just the human condition, so don&rsquo;t go against it. But, ifIn spite of it all, this, <span class="_paradigm">RADICAL</span>-like groups keep coming up, over and over again. Why?</p>
+ <p>Or maybe <strong><em>we</em></strong> are all barbarians and we can&rsquo;t help it. It's just the human condition, so don&rsquo;t go against it. But, ifIn spite of it all, this, <span class="_paradigm">Radical</span>-like groups keep coming up, over and over again. Why?</p>
  <p>Maybe, just maybe, it is because the <em>barbarian</em> thing is a system? It encourages and guides people to act like barbarians.</p>
  <p>Then, how  that leads some people to act like barbariansdid this system get started? And, why has it been so robust, so long-lasting?</p>
 
@@ -39,16 +39,16 @@ image:    "icon-escape-velocity-radical-style.svg"
 
 <h1>Barbarians vs&hellip; ?</h1>
  <p>The ideology of the barbarians-as-defenders is simple: they get to live in abundance for minimal work. But, all this time there hasn&rsquo;t been a different ideology to unite the <em>defended.</em> Armed revolutions, unions, and the like are just variations of the <em>or-else</em>  ideology. <span class="_quotespan">Pry their privileges from their cold, dead fingers.</span> This approach simply makes the barbarian system stronger.</p>
- <p>What has been missing from the various approaches is a simple and clear foundation, a simple and memorable language, and easy to use tools. This is why, I am guessing, a lot of <span class="_paradigm">RADICAL</span>-like groups have not lasted very long.</p>
- <p>The <span class="_paradigm">RADICAL</span> system is a more robust potential solution because it has those elements in place.</p>
+ <p>What has been missing from the various approaches is a simple and clear foundation, a simple and memorable language, and easy to use tools. This is why, I am guessing, a lot of <span class="_paradigm">Radical</span>-like groups have not lasted very long.</p>
+ <p>The <span class="_paradigm">Radical</span> system is a more robust potential solution because it has those elements in place.</p>
 
-<h1><span class="_paradigm">FIAT</span> vs <span class="_paradigm">RADICAL</span></h1>
- <p>Instead of <em>barbarian,</em> we call the force-based system <span class="_paradigm">FIAT</span> and the alternative <span class="_paradigm">RADICAL</span>,</p>
+<h1><span class="_paradigm">Fiat</span> vs <span class="_paradigm">Radical</span></h1>
+ <p>Instead of <em>barbarian,</em> we call the force-based system <span class="_paradigm">Fiat</span> and the alternative <span class="_paradigm">Radical</span>,</p>
  <div class="_center">
   <table class="_h2table">
    <tr>
     <th>
-     <p><span class="_paradigm">RADICAL</span> Foundation</p>
+     <p><span class="_paradigm">Radical</span> Foundation</p>
     </th>
     <td>
      <p>The foundation is made up of <em>people</em>, <em>commitments</em>, and <em>practices</em>.</p>
@@ -56,7 +56,7 @@ image:    "icon-escape-velocity-radical-style.svg"
    </tr>
    <tr>
     <th>
-     <p><span class="_paradigm">RADICAL</span> Language</p>
+     <p><span class="_paradigm">Radical</span> Language</p>
     </th>
     <td>
      <p>The model is based on <em>co-ownership</em> and <em>co-management</em>.</p>
@@ -64,7 +64,7 @@ image:    "icon-escape-velocity-radical-style.svg"
    </tr>
    <tr>
     <th>
-     <p><span class="_paradigm">RADICAL</span> Tools</p>
+     <p><span class="_paradigm">Radical</span> Tools</p>
     </th>
     <td>
      <p>The <em><span class="_paradigm">RAD</span>s! mobile app</em> supports <span class="_paradigm">RAD DISTRIBUTION</span>s, the key tool of co-ownership.</p>
@@ -74,7 +74,7 @@ image:    "icon-escape-velocity-radical-style.svg"
   </table>
  </div>
 
-<h1><span class="_paradigm">RADICAL</span> Foundation</h1>
+<h1><span class="_paradigm">Radical</span> Foundation</h1>
  <p>The Foundation is simple and easy to remember,</p>
  <div class="_center">
   <table class="_h2table">
@@ -93,8 +93,8 @@ image:    "icon-escape-velocity-radical-style.svg"
   </table>
  </div>
 
-<h1><span class="_paradigm">RADICAL</span> Language</h1>
-  <p>In the model we use only two terms: co-ownership and co-management. These terms they take up new meanings in the <span class="_paradigm">RADICAL</span> model.</p>
+<h1><span class="_paradigm">Radical</span> Language</h1>
+  <p>In the model we use only two terms: co-ownership and co-management. These terms they take up new meanings in the <span class="_paradigm">Radical</span> model.</p>
    <div class="_center">
     <table class="_h2table">
      <tr>
@@ -117,7 +117,7 @@ image:    "icon-escape-velocity-radical-style.svg"
     </table>
    </div>
 
-<h1><span class="_paradigm">RADICAL</span> Tools</h1>
+<h1><span class="_paradigm">Radical</span> Tools</h1>
  <h2><em><span class="_paradigm">RAD</span>s!</em> App</h2>
   <p>We have a mobile app called <em><span class="_paradigm">RAD</span>s!</em> that supports <span class="_paradigm">RAD DISTRIBUTION</span>s.</p>
   <ul>
@@ -133,8 +133,8 @@ image:    "icon-escape-velocity-radical-style.svg"
   <p>There are still lots of things to work out (<em>e.g.</em>, how to scale it), but so far we&rsquo;ve gotten good feedback, including this: <span class="_quotespan">some organizations never build up trust among people, even after years of operation.</span></p>
 
 <h1>Reaching Escape Velocity</h1>
- <p>Simple Foundation, Language, and Tools, I believe, is what we need for the <span class="_paradigm">RADICAL</span> model to build momentum and reach escape velocity.</p>
- <p>Many experiments will shape what this <span class="_paradigm">RADICAL</span> thing will turn into. The people making it happen will develop the skills to collaborate with others, create value for their communities, and will enjoy direct, tangible benefits from this. Just as key, people will recognize each other, and collaborate on their journey towards a healthy future.</p>
+ <p>Simple Foundation, Language, and Tools, I believe, is what we need for the <span class="_paradigm">Radical</span> model to build momentum and reach escape velocity.</p>
+ <p>Many experiments will shape what this <span class="_paradigm">Radical</span> thing will turn into. The people making it happen will develop the skills to collaborate with others, create value for their communities, and will enjoy direct, tangible benefits from this. Just as key, people will recognize each other, and collaborate on their journey towards a healthy future.</p>
 
 <h1 class="_section">APPENDIX</h1>
 

@@ -39,7 +39,7 @@ image:    "icon-removing-a-huge-pain-salaries.svg"
     <li>Employees have no control over the stock price. Bosses do and they usually decide on the side of what is good for them, not employees (or even investors).</li>
     <li>This &ldquo;gift&rdquo; is either arbitraty or the employee level determines the amount. All Jr Engineers get the same amount of stock and all Sr Engineers get more stock. This is true regardless of their individual contributions. A Sr Engineer who contributes a lot has the same amount of stock as another Sr Engineer who barely does his job.</li>
     <li>There are exceptions and more aggressive people eak out more shares, but this is based on their aggressiveness, not their contributions.</li>
-    <li>Cooperatives, Unions, B Corps, etc., are <span class="_paradigm">FIAT</span> organizations, too, and they see and use stocks the same way.</li>
+    <li>Cooperatives, Unions, B Corps, etc., are <span class="_paradigm">Fiat</span> organizations, too, and they see and use stocks the same way.</li>
    </ul>
   </p>
   <p>Stocks are a 400 year old instrument and not a fix to the salary problem. We think it is because we think in terms of "you going to be <em>richer</em> than your peers."</p>

@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "A Sample <span class='_paradigm'>RADICAL</span> Investment"
+title:    "A Sample <span class='_paradigm'>Radical</span> Investment"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-a-sample-radical-investment.svg"
@@ -11,7 +11,7 @@ image:    "icon-a-sample-radical-investment.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Pay particular attention to Section IV. The rest of it is <span class="_paradigm">FIAT</span> boilerplate.</p>
+ <p>Pay particular attention to Section IV. The rest of it is <span class="_paradigm">Fiat</span> boilerplate.</p>
 
 <h1 class="_sectionn">RADICAL INVESTMENT</h1>
  <table>

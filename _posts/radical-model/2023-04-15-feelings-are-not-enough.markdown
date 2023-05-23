@@ -21,7 +21,7 @@ image:    "icon-feelings-are-not-enough.svg"
 
 <h1>Relationships Gone bad</h1>
  <p>Without ongoing communications, the same relationship turns into betrayal and disloyalty later.</p>
- <p>Betrayal and disloyalty are <span class='_paradigm'>FIAT</span> concepts. They only make sense in a <span class='_paradigm'>FIAT</span> environment. In a <span class='_paradigm'>RADICAL</span> environment it usually is an indication of lack of ongoing communication or the introduction of force.</p>
+ <p>Betrayal and disloyalty are <span class='_paradigm'>Fiat</span> concepts. They only make sense in a <span class='_paradigm'>Fiat</span> environment. In a <span class='_paradigm'>Radical</span> environment it usually is an indication of lack of ongoing communication or the introduction of force.</p>
 
 <h1>Drama</h1>
  <p>Drama is <strong>not</strong> feelings. <span class="_quotespan">I am feeling so bad,</span> <span class="_quotespan">May God forgive me,</span> <span class="_quotespan">Now is the best time because the moon is aligned with&hellip;</span>—that&rsquo;s drama.</p>

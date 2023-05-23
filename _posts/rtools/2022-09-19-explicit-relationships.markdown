@@ -7,11 +7,11 @@ image:    "icon-explicit-relationships.svg"
 ---
 
 <div style="display:none; ">
- <p>I think we know what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into healthy companies. And we are developing tools: transformation agreements.</p>
+ <p>I think we know what the rHatchery is: We want to help <span class="_paradigm">Fiat</span> businesses transform into healthy companies. And we are developing tools: transformation agreements.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>I think we are getting a better idea of what the rHatchery is: We want to help <em><span class="_paradigm">FIAT</span> businesses</em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> transform into <em><span class="_paradigm">RADICAL</span> companies</em>. We want to engage with businesses that want to get away from the <span class="_paradigm">FIAT</span> ways and want to get on the path of becoming healthy companies.</p>
+ <p>I think we are getting a better idea of what the rHatchery is: We want to help <em><span class="_paradigm">Fiat</span> businesses</em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> transform into <em><span class="_paradigm">Radical</span> companies</em>. We want to engage with businesses that want to get away from the <span class="_paradigm">Fiat</span> ways and want to get on the path of becoming healthy companies.</p>
  <p>We came up with many different ways of doing this and a few tools.</p>
 
 <h1>Explicit Relationships</h1>

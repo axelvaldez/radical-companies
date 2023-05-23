@@ -27,18 +27,18 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
 
 <h1>Re-Start</h1>
  <p>As we were talking about all this, Bindu mentioned that we need is <span class="_quotespan">a patient-centric halthcare system, not the money-making sickcare system we have today.</span> She warned that <span class="_quotespan">it will take a long time to do so.</span></p>
- <p>As we continued talking, it became apparent to us that co-ownership could be part of making this happen. But rather than thinking about &ldquo;policies&rdquo; and such, it would be more effective to take a <span class="_paradigm">RADICAL</span> approach. That has the potential to make it faster.</p>
+ <p>As we continued talking, it became apparent to us that co-ownership could be part of making this happen. But rather than thinking about &ldquo;policies&rdquo; and such, it would be more effective to take a <span class="_paradigm">Radical</span> approach. That has the potential to make it faster.</p>
 
 <h1>Speculation, Mostly</h1>
- <p>Imagine what a <span class="_paradigm">RADICAL</span> healthcare system would look like,</p>
+ <p>Imagine what a <span class="_paradigm">Radical</span> healthcare system would look like,</p>
   <ul>
-   <li>We form a <span class="_paradigm">RADICAL</span> healthcare company.</li>
+   <li>We form a <span class="_paradigm">Radical</span> healthcare company.</li>
    <li>Everyone who wanted to be a patient, would also be an employee and co-ownwer.</li>
    <li>Physicians and other medical staff would also be co-owners, too.</li>
    <li>Everyone would have the ability to give <span class="_paradigm">RAD</span>s to other co-owners, based on their contributions.</li>
    <li>Evertibe would have the ability to pledge their <span class="_paradigm">RAD</span>s to <span class="_paradigm">BANNER</span>s. Pledging mean that whatever the <span class="_paradigm">RAD</span>s yield (money) goes to the <span class="_paradigm">BANNER</span>.</li>
   </ul>
- <p>The above steps is what happens in a <span class="_paradigm">RADICAL</span> company. Onwership is decentralized among co-owners based on their <em>contributions</em>, whereas traditinal businesses based their ownership on the <em>capital</em> that each owner brings to the table.</p>
+ <p>The above steps is what happens in a <span class="_paradigm">Radical</span> company. Onwership is decentralized among co-owners based on their <em>contributions</em>, whereas traditinal businesses based their ownership on the <em>capital</em> that each owner brings to the table.</p>
  <p>BTW, each co-owner&rsquo;s contributions is recognized by other co-owners, not a boss or any such.</p>
 
 <h1><span class="_paradigm">RAD</span>s for Medical Services</h1>

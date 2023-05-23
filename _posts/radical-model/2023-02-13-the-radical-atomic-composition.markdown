@@ -1,23 +1,23 @@
 ---
 layout:   post
-title:    "The <span class='_paradigm'>RADICAL</span> Atomic Composition"
+title:    "The <span class='_paradigm'>Radical</span> Atomic Composition"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-the-radical-atomic-composition.svg"
 ---
 
 <div style="display:none;">
- <p>The <span class="_paradigm">RADICAL</span> molecule is made up of the recently discovered atoms: Foundation, PRI, Explicit Alignment, The <em>RADs!</em> mobile app, and Explicit Relationships. That is it, so far.</p>
+ <p>The <span class="_paradigm">Radical</span> molecule is made up of the recently discovered atoms: Foundation, PRI, Explicit Alignment, The <em>RADs!</em> mobile app, and Explicit Relationships. That is it, so far.</p>
 </div>
 
-<h1><span class="_paradigm">RADICAL</span></h1>
+<h1><span class="_paradigm">Radical</span></h1>
  <div class="_center">
   <img
    src="/assets/img/pic-the-radical-atomic-composition.svg"
    width="90%"
    alt="">
  </div>
- <p>The <span class="_paradigm">RADICAL</span> molecule is made up of the  of the recently discovered atoms (in English),</p>
+ <p>The <span class="_paradigm">Radical</span> molecule is made up of the  of the recently discovered atoms (in English),</p>
   <ul>
    <li>Foundation</li>
    <li>PRI</li>
@@ -48,7 +48,7 @@ image:    "icon-the-radical-atomic-composition.svg"
  </div>
 
 <h1>PRI Fund</h1>
- <p>You may not need a PRI Fund, but if you do need capital, fund it with a <em><span class="_paradigm">RADICAL</span> Investment</em>. Getting capital is an option, but do not trade capital for <span class="_quotespan">control</span> or any such <span class="_paradigm">FIAT</span> baggage.</p>
+ <p>You may not need a PRI Fund, but if you do need capital, fund it with a <em><span class="_paradigm">Radical</span> Investment</em>. Getting capital is an option, but do not trade capital for <span class="_quotespan">control</span> or any such <span class="_paradigm">Fiat</span> baggage.</p>
  <p>And, no, it can&rsquo;t be fixed “later.”</p>
 
 <h1>Explicit Alignment</h1>

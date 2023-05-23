@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Urban <span class='_paradigm'>RADICAL</span>"
+title:    "Urban <span class='_paradigm'>Radical</span>"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-urban-radical.svg"
@@ -35,7 +35,7 @@ image:    "icon-urban-radical.svg"
 
 <h1><span class="_paradigm">RAD</span>s</h1>
  <div class="_quotespan">OK, then, to continue&hellip; every co&ndash;owner gets one <span class="_paradigm">RAD</span> per day&hellip;</div>
- <div class="_quotespan">&hellip; RAD? For <span class="_paradigm">RADICAL</span></div>
+ <div class="_quotespan">&hellip; RAD? For <span class="_paradigm">Radical</span></div>
  <div class="_quotespan">You are smiling, but that is the best we could up with.</div>
  <div class="_quotespan">OK, some unit. Like Green Stamps.</div>
  <div class="_quotespan">How&hellip; How do you know about those?</div>

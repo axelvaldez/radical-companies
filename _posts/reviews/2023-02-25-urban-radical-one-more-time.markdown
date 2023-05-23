@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Urban <span class='_paradigm'>RADICAL</span>, One More Time"
+title:    "Urban <span class='_paradigm'>Radical</span>, One More Time"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-urban-radical-one-more-time.svg"
@@ -51,7 +51,7 @@ image:    "icon-urban-radical-one-more-time.svg"
    width="70%"
    alt="">
  </div>
- <div class="_continueb">I am not sure why, but I jumped up from my bed and moved to the laptop where I am writing this stuff. More than anything else it was, I think, the &lsquo;TIMID&rsquo; column. The VOCAL column and PROFITEERS squeeze the TIMIDs by limiting speech to dictatorship-convenient-speech or else. That is what has been happening in Cuba, North Korea, and Venezuela. This is also what happens in <span class="_paradigm">FIAT</span> businesses, with the bosses as essential to their immune system.</div>
+ <div class="_continueb">I am not sure why, but I jumped up from my bed and moved to the laptop where I am writing this stuff. More than anything else it was, I think, the &lsquo;TIMID&rsquo; column. The VOCAL column and PROFITEERS squeeze the TIMIDs by limiting speech to dictatorship-convenient-speech or else. That is what has been happening in Cuba, North Korea, and Venezuela. This is also what happens in <span class="_paradigm">Fiat</span> businesses, with the bosses as essential to their immune system.</div>
  <div class="_continueb">Finally, towards the end of the book, this other image jumped at me because it illustrates the biggest problem we face in moving forward,</div>
   <div class="_center">
    <img
@@ -82,13 +82,13 @@ image:    "icon-urban-radical-one-more-time.svg"
    </p>
    <p class="_list-item">
     Matt Perez.
-    <em>Urban <span class='_paradigm'>RADICAL</span></em>.
+    <em>Urban <span class='_paradigm'>Radical</span></em>.
     February 2023.
     &lt;<a href="https://radicalcompanies.com/2023/02/23/urban-radical" target="_blank">https://radicalcompanies.com/2023/02/23/urban-radical</a>&gt;
    </p>
    <p class="_list-item">
     Matt Perez.
-    <em>Urban <span class='_paradigm'>RADICAL</span></em>.
+    <em>Urban <span class='_paradigm'>Radical</span></em>.
     February 2023.
     &lt;<a href="https://radicalcompanies.com/2023/02/24/urban-radical-again" target="_blank">https://radicalcompanies.com/2023/02/24/urban-radical-again</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>

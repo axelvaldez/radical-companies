@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Money, Title, and Empire Are All the Same Thing: <span class='_paradigm'>FIAT</span> Hierarchies"
+title:    "Money, Title, and Empire Are All the Same Thing: <span class='_paradigm'>Fiat</span> Hierarchies"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "icon-fiat-hierarchy.svg"
@@ -30,9 +30,9 @@ image:    "icon-fiat-hierarchy.svg"
  <p>I remember my father took pride over being a Senior Director at Sun Microsystems when he was at the head of a large group. He did not seek the Vice President title because of the extra dog-eat-dog politics. So he favored a relatively modest title, but a large group of subordinates.</p>
  <p>Empire, too, is directly tied to hierarchy. To have a big empire, you need to be high up. There is no avoiding it. You will be paid highly and given a lofty-enough title. People are going to be impressed that you had three hundred people working for you, regardless of you were competent or if you showed up as a “good” or “bad”  boss.</p>
 
-<h1><span class='_paradigm'>FIAT</span> Hierarchy</h1>
- <p>Money, title, and empire are not independent variables. They are all aspects of the <span class='_paradigm'>FIAT</span> hierarchy.</p>
+<h1><span class='_paradigm'>Fiat</span> Hierarchy</h1>
+ <p>Money, title, and empire are not independent variables. They are all aspects of the <span class='_paradigm'>Fiat</span> hierarchy.</p>
  <p>Very few people say <span class="_quotespan">I want to be high up in a hierarchy.</span> It is a little too abstract and somewhat crass.</p>
- <p>I know my parents definitely eschewed <em>title</em> and favored <em>empire</em> as I was growing up. That was a value system that passed on to me and only recently has it become obvious that we are ultimately is all comes down to position in the <span class='_paradigm'>FIAT</span> hierarchy.</p>
+ <p>I know my parents definitely eschewed <em>title</em> and favored <em>empire</em> as I was growing up. That was a value system that passed on to me and only recently has it become obvious that we are ultimately is all comes down to position in the <span class='_paradigm'>Fiat</span> hierarchy.</p>
 
 {% include related.html %}

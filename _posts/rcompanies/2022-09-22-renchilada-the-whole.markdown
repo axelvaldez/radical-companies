@@ -7,7 +7,7 @@ image:    "icon-renchilada-the-whole.svg"
 ---
 
 <div style="display:none; ">
- <p>I think we know what the rHatchery is: We want to help <span class="_paradigm">FIAT</span> businesses transform into healthy companies. And we are developing tools like rCommunities and rEnchilada.</p>
+ <p>I think we know what the rHatchery is: We want to help <span class="_paradigm">Fiat</span> businesses transform into healthy companies. And we are developing tools like rCommunities and rEnchilada.</p>
 </div>
 
 <h1>&nbsp;</h1>

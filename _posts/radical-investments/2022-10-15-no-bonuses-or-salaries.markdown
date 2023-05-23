@@ -30,7 +30,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <p>See what happened here: I wrote &ldquo;hires people&rdquo; and you didn&rsquo;t even blink. It&rsquo;s the normal thing.</p>
 
 <h1>Ask Yourself</h1>
- <p>Here is the traditional, <span class="_paradigm">FIAT</span><a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> view,</p>
+ <p>Here is the traditional, <span class="_paradigm">Fiat</span><a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> view,</p>
  <ul>
   <li>Capital creates jobs.</li>
   <li>People work at those jobs.</li>
@@ -114,7 +114,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
   </li>
   <li id="en02">
    <p class="_list-item">
-    <span class="_paradigm">FIAT</span> means &ldquo;a decree, command, order.&rdquo; See,
+    <span class="_paradigm">Fiat</span> means &ldquo;a decree, command, order.&rdquo; See,
     &lt;<a href="https://www.etymonline.com/search?q=fiat">https://www.etymonline.com/search?q=fiat</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>

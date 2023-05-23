@@ -54,7 +54,7 @@ image:    "icon-all-about-rads.svg"
 
 <h1>Receiving <span class='_paradigm'>RAD</span>s</h1>
  <p>The number of <span class='_paradigm'>RAD</span>s you have determines your level of co-ownership.</p>
- <p>In a FIAT business, profits belong to the owners. In a <span class='_paradigm'>RADICAL</span>s company, profits belong to co-owners based on the amount of <span class='_paradigm'>RAD</span>s they have. </p>
+ <p>In a FIAT business, profits belong to the owners. In a <span class='_paradigm'>Radical</span>s company, profits belong to co-owners based on the amount of <span class='_paradigm'>RAD</span>s they have. </p>
 
 <h1>Cheating <span class='_paradigm'>RAD</span>s</h1>
  <p class="_speakera">Can this easily become a tit-for-tat exchange? Or a popularity contest?</p>
@@ -68,7 +68,7 @@ image:    "icon-all-about-rads.svg"
   <li>I suggested a change to our strategy that benefitted everybody.</li>
  </ul>
  <p>In these cases, the &ldquo;popularity&rdquo; is earned and it is not a problem. It is healthy.</p>
- <p>The unhealthy form of &ldquo;popularity&rdquo; is something that can only happen in <span class='_paradigm'>FIAT</span> business, but very difficult to imagine happening in a <span class='_paradigm'>RADICAL</span> company.</p>
+ <p>The unhealthy form of &ldquo;popularity&rdquo; is something that can only happen in <span class='_paradigm'>Fiat</span> business, but very difficult to imagine happening in a <span class='_paradigm'>Radical</span> company.</p>
   <ul>
    <li>I talk a lot and contribute little.</li>
    <li>I am a very good looking man or woman.</li>

@@ -12,7 +12,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
 
 <h1>FIAT Benefits</h1>
  <p>&ldquo;<span class="_paradigm">RAD</span>s sount like it&rsquo;s going to let businesses bypass their responsibilities and put my benefits at risk&rdquo;.</p>
- <p>Vacations, parental time off, and sick days are <span class="_paradigm">FIAT</span> benefits that people throw up as an objection to the <span class="_paradigm">RADICAL</span> model. The <span class="_paradigm">RAD</span>s system is sold as all goodness, but there has to be a downside to them, right?</p>
+ <p>Vacations, parental time off, and sick days are <span class="_paradigm">Fiat</span> benefits that people throw up as an objection to the <span class="_paradigm">Radical</span> model. The <span class="_paradigm">RAD</span>s system is sold as all goodness, but there has to be a downside to them, right?</p>
  
 <div class="_citation">
  Perhaps our job is to create the conditions for things to get better, not to predict that they won’t.
@@ -20,13 +20,13 @@ image:    "icon-dont-screw-with-my-benefits.svg"
 </div>
  
 <h1>RADICAL Threat</h1>
- <p>The <span class="_paradigm">RADICAL</span> model is not about tweaking the <span class="_paradigm">FIAT</span> system we live in. It is very, very different. And it seems like a threat. &ldquo;The current system is all I know. It has been built over hundreds of years and it has made out lives better, right? Why change it so drastically? What is dramatically wrong with it that you want to pull it apart?&rdquo;</p>
+ <p>The <span class="_paradigm">Radical</span> model is not about tweaking the <span class="_paradigm">Fiat</span> system we live in. It is very, very different. And it seems like a threat. &ldquo;The current system is all I know. It has been built over hundreds of years and it has made out lives better, right? Why change it so drastically? What is dramatically wrong with it that you want to pull it apart?&rdquo;</p>
  <p>Actually, the end result will not be that different. People will continue to be people. Our lives will keep improving, but without the exploitation of other people. For me to be &ldquo;rich&rdquo;, you don't have to be &ldquo;poor.&rdquo; For my live to be better, we don't have to break Earth. For me to feel better, I don't have to make you feel miserable.</p>
   <div class="_center">
    <table>
     <tr>
      <td style="text-align:right; padding-right:1em; "></td>
-     <th id="_background"><span class="_paradigm">RADICAL</span> Goodness</th>
+     <th id="_background"><span class="_paradigm">Radical</span> Goodness</th>
     </tr>
     <tr>
      <th>Bonus</th>
@@ -42,7 +42,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
     </tr>
     <tr>
      <td style="text-align:right; padding-right:1em; ></td>
-     <th id="_background"><span class="_paradigm">RADICAL</span> Difference</th>
+     <th id="_background"><span class="_paradigm">Radical</span> Difference</th>
     </tr>
     <tr>
      <th>
@@ -86,14 +86,14 @@ image:    "icon-dont-screw-with-my-benefits.svg"
  <p>After a while, you will figure out that this &ldquo;benefit&rdquo; thing is,</p>
   <ul>
    <li>Born of a nostalgic fear</li>
-   <li>From living for so long in a <span class="_paradigm">FIAT</span> environment</li>
+   <li>From living for so long in a <span class="_paradigm">Fiat</span> environment</li>
    <li>Where the wealth from the value created by all, goes &ldquo;up&rdquo; to the owners</li>
    <li>And benefits are handed &ldquo;down&rdquo;</li>
    <li>Benefits are part of &ldquo;the cost of doing business.&rdquo;</p>
   </ul
 
 <h1>Retirement</h1>
- <p>&ldquo;Retirement&rdquo; is yet another <span class="_paradigm">FIAT</span> &ldquo;benefit&rdquo; that is handled very differently in the <span class="_paradigm">RADICAL</span> model.</p>
+ <p>&ldquo;Retirement&rdquo; is yet another <span class="_paradigm">Fiat</span> &ldquo;benefit&rdquo; that is handled very differently in the <span class="_paradigm">Radical</span> model.</p>
  <ul>
   <li>For example, your <span class="_paradigm">RAD</span>s may be your &ldquo;retirement&rdquo; fund. This would work if the revenues of all the companies you have co-owned are generally going up ahead of the number of co-owners.</li>
   <li>Alternatively, a company that you are part of may decide to reserve a percentage of its <em>earned dividends</em> to pay <em>inactive</em> co-owners.</li>
@@ -106,8 +106,8 @@ image:    "icon-dont-screw-with-my-benefits.svg"
  <p>Over centuries, we have been tweaking the pay system to accommodate people&rsquo;s basic needs to survive and work another day. As Chuck Blakeman remind us,<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> the range starts at zero pay during slavery to higher pay (plust proverty). The &ldquo;signal&rdquo; to pay more usually comes as some form of violence: strikes, revolution, or war.</p>
  <p>Eventually, governments impose taxes and benefits to calm things down. This imposition is a form of violence, but most businesses go along with it because they know it is better for them than the more violent alternative.</p>
  <p>As a result, we have ended up with a hodgepodge of &ldquo;benefits&rdquo; worldwide. Primarily because of lack of trust, of the business owners <em>and</em> the workers, the money for these benefits goes first to governments. Then a bureaucracy develops to &ldquo;manage&rdquo; this money &ldquo;on behalf of&rdquo; the workers.</p>
- <p>The <span class="_paradigm">RADICAL</span> model assumes that people know their needs better than any government, as benevolent as it may be. It follows, then, that people are the best &ldquo;managers&rdquo; of what they need to live. In the <span class="_paradigm">RADICAL</span> model money in the form of <em>earned dividends</em> go directly to each of us. And, yes, we all have to learn a lot to deal with this responsibility and there will be many bumps along with way until it works smoothly, but all adults are capable of learning it and doing it.</p>
- <p>If you are thinking, &ldquo;yeah, but people will never&hellip; &rdquo;, keep in mind that that you are right to think that of &ldquo;people <em>in <span class="_paradigm">FIAT</span> environment</em>.&rdquo; In an different environment, where people are not conditioned to be afraid of learning and people help each other learn, thing will go much faster and smoothly.</p>
+ <p>The <span class="_paradigm">Radical</span> model assumes that people know their needs better than any government, as benevolent as it may be. It follows, then, that people are the best &ldquo;managers&rdquo; of what they need to live. In the <span class="_paradigm">Radical</span> model money in the form of <em>earned dividends</em> go directly to each of us. And, yes, we all have to learn a lot to deal with this responsibility and there will be many bumps along with way until it works smoothly, but all adults are capable of learning it and doing it.</p>
+ <p>If you are thinking, &ldquo;yeah, but people will never&hellip; &rdquo;, keep in mind that that you are right to think that of &ldquo;people <em>in <span class="_paradigm">Fiat</span> environment</em>.&rdquo; In an different environment, where people are not conditioned to be afraid of learning and people help each other learn, thing will go much faster and smoothly.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
