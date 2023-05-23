@@ -18,7 +18,7 @@ image:    "icon-feathers-tattoos-clothes-distinguishing-marks.svg"
  <p>It is not cognitive&mdash; it&rsquo;s an emotional impulse. And I have a hunch that it is fundamental to all communications,</p>
   <ul>
    <li>Assume that people want to say something important, even if doesn&rsquo;t come out that way at first.</li>
-   <li>Take into account that people may not have the skills to express it &ldquo;correctly.&rdquo;</li>
+   <li>Take into account that people may not have the skills to make it intelligible. But they can learn.</li>
    <li>Help them by asking questions.</li>
    <li>Don&rsquo;t look for fault and don&rsquo;t look to ridicule. Help them make it intelligible.</li>
    <li>You are not their mother, or their sibling, but you are a member of their community.</li>
