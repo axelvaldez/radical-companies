@@ -35,7 +35,7 @@ image:    "icon-is-co-ownership-a-give-away.svg"
 <p>Remeber that you are <em>not</em> negotiating with stranger, these are people that you have worked with and know pretty well. Just make sure the agreement works for all, including you.</p>
 
 <h1>Warning!</h1>
- <p>As able and competent as you see your exmployees, they are not business people. They love their profession, but dealing with a business is simething that we train ourselves to not worrhy about. My recommendation is that you plan to stay for &ldquo;a while&rdquo; teaching the ropes. After &ldquo;a while&rdquo; they will tell you that they are ready and (wah, wah, wah) they don&rsquo;t need you anymore. Congratulations, but ou are probably not done. Have them keep you as an on-demand consultant. The questions will come and it should be easy to reach out to you and your hard-earned wisdom.</p>
+ <p>As able and competent as you see your exmployees, they are not business people. They love their profession, but dealing with a business is something that we train ourselves to not worrhy about. My recommendation is that you plan to stay for &ldquo;a while&rdquo; teaching the ropes. After &ldquo;a while&rdquo; they will tell you that they are ready and (wah, wah, wah) they don&rsquo;t need you anymore. Congratulations, but ou are probably not done. Have them keep you as an on-demand consultant. The questions will come and it should be easy to reach out to you and your hard-earned wisdom.</p>
 
 <h1>Finally&hellip;</h1>
  <p>You may have been doing too much and working harder than you had to. They will figure that out very quickly. Don&rsquo;t be offended if they say they are going to do things differently. This is an opportunity for you to learn, too.</p>
