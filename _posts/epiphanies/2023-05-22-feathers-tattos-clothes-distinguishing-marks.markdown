@@ -20,7 +20,7 @@ image:    "icon-feathers-tattoos-clothes-distinguishing-marks.svg"
    <li>Assume that people want to say something important, even if doesn&rsquo;t come out that way at first.</li>
    <li>Take into account that people may not have the skills to make it intelligible. But they can learn.</li>
    <li>Help them by asking questions.</li>
-   <li>Don&rsquo;t look for fault and don&rsquo;t look to ridicule. Help them learn to say it intelligibly.</li>
+   <li>Don&rsquo;t look for fault and don&rsquo;t look to ridicule. Help them learn to say it in a way their community can understand.</li>
    <li>You are not their mother, or their sibling, but you are a member of their community.</li>
    <li>Lead with love.</li>
   </ul>
