@@ -37,6 +37,8 @@ image:    "icon-is-co-ownership-a-give-away.svg"
  <p>You may have been doing too much and working harder than you had to. They will figure that out very quickly. Don&rsquo;t be offended if they say they are going to do things differently. This is an opportunity for you to learn, too.</p>
 
 <h1>Happy Endings!</h1>
- <p>You want them to succeed and they want succeed. Nevertheless, keep in mind that we are trained from an early age to <em>compete</em>. You were the boss and everybody submitted to you (more or less). Now all of you will have to learn to collaborate and deal with each other as equally well-intentioned and wanting your common work to succeed. It is going to be streneous for a while, but at the end of the tunnel you all get what you want.</p>
+ <p>You want them to succeed and they want succeed. Nevertheless, keep in mind that we are trained from an early age to <em>compete</em>.</p>
+ <p>You were the boss and everybody submitted to you (more or less). Now all of you will have to learn to collaborate and deal with each other as equally well-intentioned and wanting your common work to succeed.</p>
+ <p>It is going to be streneous for a while, but at the end of the tunnel you all get what you want.</p>
 
 {% include related.html %}
