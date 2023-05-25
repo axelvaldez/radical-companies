@@ -3,7 +3,7 @@ layout:   post
 title:    "Preston Geeting: a Step Away from Fiat"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-preston-geeting-a-step-away-from-fiat.svg"
+image:    "icon-preston-geeting-a-step-away-from-fiat"
 ---
 
 <div style="display:none;">
