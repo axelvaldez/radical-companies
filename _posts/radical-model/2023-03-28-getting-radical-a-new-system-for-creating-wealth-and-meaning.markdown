@@ -46,10 +46,11 @@ image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg
  <div class="_center">
   <table class="_h2table">
    <tr>
-    <th>Profits for the owner, wages for the everybody else</th>
+    <th>Profits, wages</th>
     <td>
      <ul>
-      <li>Onwers have rights to wealth the business creates.</li>
+      <li>Onwers have rights to all the wealth the business creates.</li>
+      <li>Everybody else gets paid a wage, not realated to profits.</li>
      </ul>
     </td>
    </tr>
