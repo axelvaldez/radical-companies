@@ -44,7 +44,7 @@ image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg
 <h1><span class='_paradigm'>Fiat</span>&rsquo;s (Bad) Features</h1>
  <p>The <span class='_paradigm'>Fiat</span> system is what surrounds us. It is so all-encompansing that it has become invisible to us, like water to fish.</p>
  <div class="_center">
-  <table class="_background">
+  <table class="_h2table">
    <tr>
     <th>Profits for the owner, wages for the rest</th>
     <td>Onwers have rights to all earned dividends the business creates.</td>
