@@ -1,13 +1,13 @@
 ---
 layout:   post
-title:    "Getting <span class='_paradigm'>Radical</span>: A New System for Creating Wealth and Meaning"
+title:    "Getting Radical: A New System for Creating Wealth and Meaning"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal, Cristina Imre"
 image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg"
 ---
 
 <div style="display:none;">
- <p><span class="_quotespan">Lead with <span class='_paradigm'>Radical</span>&rsquo;s benefits, rather than <span class='_paradigm'>Fiat</span>&rsquo;s bad features.</span></p>
+ <p>&ldquo;<em>Lead with Radicals benefits, rather than Fiats bad features.</em>&rdquo;</span></p>
 </div>
 
 <h1>&nbsp;</h1>
