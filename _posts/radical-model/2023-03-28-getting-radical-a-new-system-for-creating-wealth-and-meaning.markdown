@@ -46,15 +46,15 @@ image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg
  <div class="_center">
   <table class="_h2table">
    <tr>
-    <th>Profits for the owner, wages for the rest</th>
-    <td>Onwers have rights to all earned dividends the business creates.</td>
+    <th>Profits for the owner, wages for the everybody else</th>
+    <td>Onwers have rights to wealth the business creates.</td>
    </tr>
    <tr>
     <th>Command and control</th>
     <td>Directions come from the boss. Attaboys, and sometimes financial rewards, come from the boss. Punishment comes from the boss.</td>
    </tr>
    <tr>
-    <th>Everything comes down from the boss</th>
+    <th>In fact, everything comes down from the boss</th>
     <td>Directions. What&rsquo;s right and what&rsquo;s wrong. Values. Goals. Metrics.</td>
    </tr>
   </table>
