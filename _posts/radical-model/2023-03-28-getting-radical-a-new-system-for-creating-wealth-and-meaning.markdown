@@ -22,11 +22,11 @@ image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg
     <td>As a co-owner, you are no longer exchanging your time and skills for a wage. You are one of many owners and have rights to earned dividends, the wealth, that the company creates.</td>
    </tr>
    <tr>
-    <th><span class='_paradigm'>RAD</span>s</th>
+    <th>RADs</th>
     <td>You give <span class='_paradigm'>RAD</span>s to other co-owners, and they give you <span class='_paradigm'>RAD</span>s. The <span class='_paradigm'>RAD</span>s you have determine how much of the wealth the company has created, the earned dividends, you get</td>
    </tr>
    <tr>
-    <th><span class='_paradigm'>RADICAL Foundation</span></th>
+    <th>RADICAL Foundation</th>
     <td>
      <ul>
       <li>The <span class='_paradigm'>RADICAL Foundation</span> doesn&rsquo;t tell you what to do, but where you are heading.</li>
