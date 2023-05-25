@@ -20,7 +20,7 @@ image:    "icon-preston-geeting-a-step-away-from-fiat"
 <h1>No Top Down Management</h1>
  <p>What Preston calls Top-Down Management is the <span class="_paradig">Fiat</span> hierarchy. People at the bottom have to report on what they are doing to people at the top so that they feel they know what is going on. Preston said that they spend up to 90% of their time writing reports instead of getting in front of customers.</p>
  <p>Preston said <span class="_quotespan">they are the top and my partner and I are at the bottom,</span> Not necessarily the way I would have said, but definitely not <span class="_paradig">Fiat</span>. I commented that this could be the first step towards getting them to be autonomous.</p>
- </p>To me, that was a firm enough step away from <span class="_paradig">Fiat</span>. I did mantioned why not continue to Finance and the otehr administrative areas? Why not?</p>
+ <p>To me, that was a firm enough step away from <span class="_paradig">Fiat</span>. I did mantioned why not continue to Finance and the otehr administrative areas? Why not?</p>
  </p>Here is hoping.</p>
 
 {% include related.html %}
