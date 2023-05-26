@@ -26,10 +26,10 @@ image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg
     <td>You give <span class='_paradigm'>RAD</span>s to other co-owners, and they give you <span class='_paradigm'>RAD</span>s. The <span class='_paradigm'>RAD</span>s you have determine how much of the wealth the company has created, the earned dividends, you get</td>
    </tr>
    <tr>
-    <th>RADICAL Foundation</th>
+    <th>Radical Foundation</th>
     <td>
      <ul>
-      <li>The <span class='_paradigm'>RADICAL Foundation</span> doesn&rsquo;t tell you what to do, but where you are heading.</li>
+      <li>The <span class='_paradigm'>Radical Foundation<//span> doesn&rsquo;t tell you what to do, but where you are heading.</li>
       <li>Will this decision make the company more or less decentralized?</li>
       <li>Will it make it more or less transparent?</li>
       <li>Will it get in the way of people finding meaning?</li>
