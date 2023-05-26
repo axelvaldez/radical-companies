@@ -55,7 +55,7 @@ image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg
     </td>
    </tr>
    <tr>
-    <th>Command and control</th>
+    <th>Command<br>& control</th>
     <td>
      <ul>
       <li>Directions come from the boss. Attaboys, and sometimes financial rewards, come from the boss. Punishment comes from the boss.</li>
