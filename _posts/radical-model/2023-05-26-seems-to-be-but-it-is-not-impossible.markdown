@@ -11,7 +11,7 @@ image:    "icon-seems-to-be-but-it-is-not-impossible.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>We can put <span class='_paradigm'>Fiat</span> to rest, but we have to go to the source.</p>
+ <p>We can put <span class='_paradigm'>Fiat</span> to rest, but we have to go to the root.</p>
  <p>The key step is recognizing <span class='_paradigm'>Fiat</span>.  And don’t try to “fix” <span class='_paradigm'>Fiat</span>.  Everything you feel uncomfortable about is pointing you in the right direction. Imagine an alternative to <span class='_paradigm'>Fiat</span> and live accordingly.</p>
  <p><span class='_paradigm'>Fiat</span> is the result of systemic, not individual, inadequacy. It has never really been about whether you and you cannot be qualified enough, or smart enough, or prepared enough. You are destined to lose.</p>
  <p>It is about the barriers that are designed to keep us as non-owners in the first place. It is owners looking around and saying that the biggest problem you face isn’t your health and your integrity.</p>
