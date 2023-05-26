@@ -26,7 +26,7 @@ image:    "icon-seems-to-be-but-it-is-not-impossible.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Heavily inspired by Reshma Saujani &rsquo;s commencement speek at Smith College. She is the founder of 
+    Heavily inspired by Reshma Saujani &rsquo;s commencement speech at Smith College. She is the founder of 
     <em>Girls Who Code</em>
     &lt;<a href="https://girlswhocode.com/about-us" target="_blank">https://girlswhocode.com/about-us</a>&gt;
     and the author of
