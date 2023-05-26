@@ -41,7 +41,7 @@ image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg
   </table>
  </div>
 
-<h1><span class='_paradigm'>Fiat</span>&rsquo;s (Bad) Features</h1>
+<h1><span class='_paradigm'>Fiat</span>&rsquo;s Shortcomings</h1>
  <p>The <span class='_paradigm'>Fiat</span> system is what surrounds us. It is so all-encompansing that it has become invisible to us, like water to fish.</p>
  <div class="_center">
   <table class="_h2table">
