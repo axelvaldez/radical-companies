@@ -19,7 +19,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   <p>In <span class="_paradigm">Radical</span> speak, a company is what we call a group of people who come together to build something bigger than themselves. In fact, the word &ldquo;company&rdquo; comes from the Latin <em>con-</em>, meaning &lsquo;together&rsquo;, and <em>pan</em>, meaning &lsquo;bread.&rsquo; In other words, people who break bread together.</p>
   <p>Every company is different because the people who embody it are different, and this means that every company must find its own way. What fundamentally makes a <span class="_paradigm">Radical</span> company different from a <span class="_paradigm">Fiat</span> business is that it has a foundation,</p>
    <div class="_center">
-    <table class="_h2table">
+    <table class="">
      <tr>
       <th>people</th>
       <td>Meaning & Belonging</td>
@@ -180,7 +180,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    >
   </p>
    <div class="_center">
-    <table class="_h2table">
+    <table class="">
      <tbody style="font-size:smaller; vertical-align: top; ">
       <tr>
        <th>Teams</th>

@@ -110,7 +110,7 @@ image:    "icon-rland.svg"
  </p>
  <p>They do this starting from a simple Foundation,</p>
  <div class="_center">
-  <table class="_h2table">
+  <table class="">
    <tr>
     <th>people</th>
     <td>Meaning & Belonging</td>

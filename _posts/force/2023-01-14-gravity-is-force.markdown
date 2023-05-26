@@ -33,7 +33,7 @@ image:    "icon-gravity-is-force.svg"
 <h1>So, People</h1>
  <p>Maybe force is bad when <em>people</em> apply it to other <em>people</em>.</p>
  <div class="_center">
-  <table class="_h2table">
+  <table class="">
    <tr>
     <th>It is OK to guide cattle to the slaughterhouse (?)</th>
     <td>
