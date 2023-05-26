@@ -52,7 +52,7 @@ image:    "icon-owning-the-commons-1-3.svg"
   <li>As every day goes by, the people actively contributing to the land and its fruitfulness continue to receive <span class="_paradigm">RAD</span>s.</li>
   <li>Those who left do not receive any more <span class="_paradigm">RAD</span>s, so every day their percentage goes down, and down, and down, and &hellip .</li>
  </ul>
- <p>It all happens without shoot-them-ups. No John Wayne required, thank you. Nothing but people helping each other out, creating a community, and learning from each other.</p>
+ <p>It all happens without shoot-them-ups. Nothing but people helping each other out, creating a community, and learning from each other.</p>
  <p>Maybe in a small community, but all good things must come to an end. Right?</p>
 
 {% include related.html %}
