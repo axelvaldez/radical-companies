@@ -46,7 +46,7 @@ image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg
  <div class="_center">
   <table class="_h2table">
    <tr>
-    <th>Profits, wages</th>
+    <th>Profits, Wages</th>
     <td>
      <ul>
       <li>Onwers have rights to all the wealth the business creates.</li>
