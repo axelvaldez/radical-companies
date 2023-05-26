@@ -312,11 +312,12 @@ h1 span._paradigm {
   font-weight:520;
   font-size:smaller;
 }
-._paradigm {
+span._paradigm {
   font-family: Verdana;
   font-weight:520;
   font-size:smaller;
   font-style:italic;
+  color:red;
 }
 ._underDev {
   font-weight:bold;
