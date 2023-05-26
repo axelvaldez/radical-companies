@@ -36,7 +36,7 @@ image:    "icon-the-radical-seed.svg"
  <p>How that is implemented will depend on its community. Will anybody say anything when they are making a decision away from decentralization? Will they notice that a certain decision is taking them away from transparency?</p>
 
 <h1>It&rsquo;s a Baby!</h1>
- <p>Eventually, driven by co-ownership, they will gravitate farther away from the <span class="_paradigm">Fiat</span> world. And then the <span class="_paradigm">Fiat</span> laws and its governance will have to adapt to it.</p>
+ <p>Eventually, driven by co-ownership, they will gravitate farther away from the  laws and its governance will have to adapt to it.</p>
  <p>It&rsquo;s like having a baby, you hope for the best, but you model what you model and they learn from that. Each will develop starting from what they know.</p>
 
 {% include related.html %}

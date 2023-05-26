@@ -11,10 +11,10 @@ image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg
 </div>
 
 <h1>&nbsp;</h1>
- <p><span class="_quotespan">Lead with <span class='_paradigm'>Radical</span>&rsquo;s benefits, rather than <span class='_paradigm'>Fiat</span> shortcomings.</span> That was Jose&rsquo;s suggestios for future posts. Like this one.</p>
+ <p> shortcomings.</span> That was Jose&rsquo;s suggestios for future posts. Like this one.</p>
 
 <h1><span class='_paradigm'>Radical</span> Benefits</h1>
- <p>The <span class='_paradigm'>Radical</span> system is an alternative to the <span class='_paradigm'>Fiat</span> system.</p>
+ <p>The  system.</p>
  <div class="_center">
   <table class="_h2table">
    <tr>
@@ -41,8 +41,8 @@ image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg
   </table>
  </div>
 
-<h1><span class='_paradigm'>Fiat</span> Shortcomings</h1>
- <p>The <span class='_paradigm'>Fiat</span> system is what surrounds us. It is so all-encompansing that it has become invisible to us, like water to fish.</p>
+<h1> Shortcomings</h1>
+ <p>The  system is what surrounds us. It is so all-encompansing that it has become invisible to us, like water to fish.</p>
  <div class="_center">
   <table class="_h2table">
    <tr>

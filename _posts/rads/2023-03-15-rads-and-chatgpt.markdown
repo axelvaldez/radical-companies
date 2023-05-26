@@ -7,7 +7,7 @@ image:    "icon-rads-and-chatgpt.svg"
 ---
 
 <div style="display:none;">
- <p>We asked chatGPT and it got really close to describing <span class="_paradigm">RAD</span>s. But its source data wouldn&rsquo;t let it get past the <span class="_paradigm">Fiat</span> model.</p>
+ <p>We asked chatGPT and it got really close to describing  model.</p>
 </div>
 
 <h1>&nbsp;</h1>

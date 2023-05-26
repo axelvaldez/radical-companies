@@ -7,16 +7,16 @@ image:    "icon-not-about-government-but-about-governance.svg"
 ---
 
 <div style="display:none;">
- <p>Goverments are <span class="_paradigm">Fiat</span> institutions, based on dictatorships-known-as-businesses. What&rsquo;s important is governance.</p>
+ <p>Goverments are  institutions, based on dictatorships-known-as-businesses. What&rsquo;s important is governance.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The nice story is that governments protect us and our country&rsquo;s borders and therefore need to have a monopoly on force and foreign policy. The other story is that goverments are <span class="_paradigm">Fiat</span> organizations, dependant on dictatorships-known-as-businesses.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
+ <p>The nice story is that governments protect us and our country&rsquo;s borders and therefore need to have a monopoly on force and foreign policy. The other story is that goverments are  organizations, dependant on dictatorships-known-as-businesses.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
  <p>What we do need, and always emerges is <em>governance</em>. A way to collaborate, live, and work together. You don&rsquo;t need governance if you are stranded in an island by yourself. The only &lsquo;agreement&rsquo; you can have with the other dangerous animals in the island is, <span class="_quotespan">If you come near me again, and you scare me, I will slaughter you.</span> But that doesn&rsquo;t work with people. You need governance with people.</p>
  <p>Governance is about collaborating to create and change those agreements. Our ability to transform the culture is the point.</p>
 
 <h1>Rules and Punishment</h1>
- <p>Making up rules that others must follow is easy to do, but harder to implement. In <span class="_paradigm">Fiat</span> environments we use some form of punishment for people who don&rsquo;t follow them rules. Different levels of pain: litigation, penalties, prison.  That holds a majority of people back, but only for a while. Eventually, when pain of following the rules is more so than the pain of raising hell, they revolt.</p>
+ <p>Making up rules that others must follow is easy to do, but harder to implement. In  environments we use some form of punishment for people who don&rsquo;t follow them rules. Different levels of pain: litigation, penalties, prison.  That holds a majority of people back, but only for a while. Eventually, when pain of following the rules is more so than the pain of raising hell, they revolt.</p>
  <p>In dictatorships, people revolt violently because that is what they know works; they have learned that. In places that lean towards democracy, people also revolt, but through non-violent ways, like assembling, protesting, and voting. Because that is what they &ldquo;know&rdquo; works.</p>
 
 <h1>Governance, Not Government</h1>
@@ -33,7 +33,7 @@ image:    "icon-not-about-government-but-about-governance.svg"
    </p>
    <p class="_list-item">
     Matt Perez.
-    <em><span class="_paradigm">Fiat</span> Dictatorships</em>.
+    <em> Dictatorships</em>.
     September 2022.
     &lt;<a href="https://radicalcompanies.com/2022/09/29/fiat-dictatorships" target="_blank">https://radicalcompanies.com/2022/09/29/fiat-dictatorships</a>&gt;
    </p>

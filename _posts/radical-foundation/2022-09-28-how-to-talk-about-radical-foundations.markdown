@@ -55,7 +55,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <tr>
     <th>Meaning</th>
     <td>
-     <p>Can I find meaning in what we are doing together? Do I trust these people to help me find meaning in my work, in your life?</p>
+     <p>Can I find meaning in what we are doing together? Do I trust these people to help me find meaning in my work, in my life?</p>
     </td>
    </tr>
    <tr>

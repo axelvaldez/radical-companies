@@ -85,7 +85,7 @@ image:    "icon-feudalism-is-back-square.svg"
 
 <h1>Origin Story</h1>
  <p>Most companies are owned and operated like feudal estates: commands flow down and wealth flows up.</p>
- <p>In a<span class='_paradigm'>Fiat</span> business, you help create a revenue stream, the business brand, its copyrights, patents, contracts, customer loyalty, and its growing equity value. But as an employee, you don’t own any of it. In exchange for your work, you get a wage and maybe a few other benefits like health insurance.</p>
+ <p>In a business, you help create a revenue stream, the business brand, its copyrights, patents, contracts, customer loyalty, and its growing equity value. But as an employee, you don’t own any of it. In exchange for your work, you get a wage and maybe a few other benefits like health insurance.</p>
  <p>A<span class='_paradigm'>Radical</span> company like Hintersoft makes it possible for the people who embody it to take control of their lives, behave as adults, and take full ownership over what they create. Hintersoft is co-owned and co-managed by you and all the people who contribute to it. It is a community of people who come together to contribute broad value to society and make an impact on the world.</p>
 
 <h1>How It Works</h1>
@@ -139,7 +139,7 @@ image:    "icon-feudalism-is-back-square.svg"
       <ul>
        <li>You decide how much wealth to extract from the company to take care of your recurring expenses.</li>
        <li>We still have to make the company work financially. This is not a magic wand to fend off hard situations or avoid difficult decisions.</li>
-       <li>The PRI fund pays the PRI when the company is bringing in less than the total PRI. Once the revenue goes up above expenses, dividends as given to co-owner (<em>i.e.</em>, as it is given to owners in<span class='_paradigm'>Fiat</span> businesses).</li>
+       <li>The PRI fund pays the PRI when the company is bringing in less than the total PRI. Once the revenue goes up above expenses, dividends as given to co-owner (<em>i.e.</em>, as it is given to owners in businesses).</li>
        <li>Unless other agreements have been made, the PRI fund gest paid first. The PRI fund is fed by <span class='_paradigm'>Radical</span> investments which has to be paid back and the PRI policy has to take that into consideration. OK, it doesn&rsquo;t have to, but it is highly advised that it does so.</li>
       </ul>
      </td>

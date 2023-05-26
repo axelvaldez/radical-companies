@@ -69,7 +69,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p>I noticed that the man&rsquo;s eyes were defocuse. He must have been thinking intensensly.</p>
 
 <h1>More Complications</h1>
- <p class="_speaker"><span class="_speakerb">People earn one <span class="_paradigm">RAD</span> per day. Not to keep, but to give them out to their peers. At the end of, say, each month your contributions get converted to <span class="_paradigm">RAD</span>s and then something tangible like revenue comes in. The expenses are paid and what is left, the dividends, goes to the <span class="_paradigm">Fiat</span> owner. In this case, the dividends get distributed among all co-owners according to the <span class="_paradigm">RAD</span>s each has.</span></p>
+ <p class="_speaker"> owner. In this case, the dividends get distributed among all co-owners according to the <span class="_paradigm">RAD</span>s each has.</span></p>
  <p>The man looked uncomfortable, though he wasn&rsquo;t saying much.</p>
  <p class="_speaker"><span class="_speakerb">I should add that there a <span class="_me"><span class="_paradigm">RAD</span>s! mobile app</span> that takes care of all the &ldquo;complication&rdquo;</span></p>
  <p class="_speaker"><span class="_speakera">Aha, there is&hellip;</span> He tried to hold back, but then he let out a full laugh, <span class="_speakerac">THERE IS AN APP FOR THAT!</span> I took that as a sign that he was less tense. Progress.</p>
@@ -139,7 +139,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speaker"><span class="_speakerc">Don&rsquo;t say that until you get paid back.</span> Vicky was laughing out loud. <span class="_speakercc">And, by the way, we are going to put our 20% in the <span class="_paradigm">RAD</span>s fund to have an extra distribution. We could even reduce your number to %5, instead of 10%, to make sure that your investement grows by 5% for sure.</span></p>
  <p class="_speaker"><span class="_speakerb">We could do that. Let&rsquo;s wait until we crossed that bridge.</span></p>
  <p class="_speaker"><span class="_speakerc">We've already talk to the people in France and we are going to switch them so they have a guaranteed steady inccome forever. This may not be purely <span class="_paradigm">Radical</span>, but&hellip;</span></p>
- <p class="_speaker"><span class="_speakerb">Whatever works for you, it&rsquo;s OK. <span class="_paradigm">Radical</span> is not a dogma. It simply is an alternative to <span class="_paradigm">Fiat</span> that works for everybody who creates wealth, not just <span class="_paradigm">Fiat</span> owners.</span></p>
+ <p class="_speaker"> owners.</span></p>
 
 <div class="_next">
  <span style="float:left; " ><a href="https://radicalcompanies.com/2023/04/02/E01-the-co-owned-pastry-shop-my-favorite-store-in-town">&lt; Previous</a></span>

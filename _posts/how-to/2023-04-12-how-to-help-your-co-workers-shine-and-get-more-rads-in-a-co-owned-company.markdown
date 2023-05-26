@@ -18,7 +18,7 @@ image:    "icon-how-to-help-your-co-workers-shine-and-get-more-rads-in-a-co-owne
  <p>I could basically be a co-owner who helps other co-owners.</p>
 
 <h1>The FIAT Model</h1>
- <p>In <span class='_paradigm'>Fiat</span> organizations, this is supposed to be done by your manager, or Human Resources (HR). If you are high-level enough, they can even send you to a training course. Your boss may be pretty bad at communications himself or he may not mentor you well for fear that you&rsquo;ll leap over him. Be that as it may, the HR course may turn out to be ineffective or even counterproductive.</p>
+ <p>In  organizations, this is supposed to be done by your manager, or Human Resources (HR). If you are high-level enough, they can even send you to a training course. Your boss may be pretty bad at communications himself or he may not mentor you well for fear that you&rsquo;ll leap over him. Be that as it may, the HR course may turn out to be ineffective or even counterproductive.</p>
  <p>In many cases, you might instead get punished for &ldquo;not doing enough.&rdquo;</p>
 
 <h1>The RADICAL Model</h1>

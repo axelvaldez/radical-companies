@@ -7,11 +7,11 @@ image:    "icon-edgar-hörz-being-aware.svg"
 ---
 
 <div style="display:none;">
- <p>&ldquo;Being aware&rdquo; is Edgar&rsquo;s term for <em>seeing</em> the damage that the <span class='_paradigm'>Fiat</span> system does to people.</p>
+ <p>&ldquo;Being aware&rdquo; is Edgar&rsquo;s term for <em>seeing</em> the damage that the  system does to people.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>&ldquo;Being aware&rdquo; is Edgar&rsquo;s term for <em>seeing</em> the damage that the <span class='_paradigm'>Fiat</span> system does to people.</p>
+ <p>&ldquo;Being aware&rdquo; is Edgar&rsquo;s term for <em>seeing</em> the damage that the  system does to people.</p>
 
 <h1>Quite A Player</h1>
  <p>Edgar is prety quiet, but very persistant. He related the story of how he realized that being good to people was more important than productivity or any of traditional metrics.</p>
@@ -20,7 +20,7 @@ image:    "icon-edgar-hörz-being-aware.svg"
  <p>That&rsquo;s how innovations happen.</p>
 
 <h1>Translation</h1>
- <p>The <span class='_paradigm'>Fiat</span> system and the harm that it does to people and businesses has become visible to Edgar. Not all of it, but probably enough.</p>
- <p>His new business has a <span class='_paradigm'>Fiat</span> hierarchy in place, but he feels that it is inconsequential. As his business grows, Edgar will discover that hierarchy may grow and create a bureaucracy around itself. I am hoping that he will not let it go that far, and if he does, that he will figure it out sooner rather than later.</p>
+ <p>The  system and the harm that it does to people and businesses has become visible to Edgar. Not all of it, but probably enough.</p>
+ <p>His new business has a  hierarchy in place, but he feels that it is inconsequential. As his business grows, Edgar will discover that hierarchy may grow and create a bureaucracy around itself. I am hoping that he will not let it go that far, and if he does, that he will figure it out sooner rather than later.</p>
 
 {% include related.html %}

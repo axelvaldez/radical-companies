@@ -60,7 +60,7 @@ image:    "icon-rland.svg"
   </ul>
 
 <h1>Local Land, Local Taxes?</h1>
- <p>In the <span class='_paradigm'>Fiat</span> model, &ldquo;taxes&rdquo; disappear into the coffers of the County or State government. In the <span class="_paradigm">Radical</span> model, the occupier pays a percentage of her winning bid to a community fund. The fund would be used to create common goods.</p>
+ <p>In the  model, &ldquo;taxes&rdquo; disappear into the coffers of the County or State government. In the <span class="_paradigm">Radical</span> model, the occupier pays a percentage of her winning bid to a community fund. The fund would be used to create common goods.</p>
  <p>But what is a community in this context? One possible way of defining this is to imagine the &ldquo;community&rdquo; as concentric circles emanating from the land in question. The community fund could then be governed as follows,</p>
   <ul>
    <li>The occupier controls 49% of the funds.</li>

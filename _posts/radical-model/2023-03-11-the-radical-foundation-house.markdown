@@ -46,7 +46,7 @@ image:    "icon-the-radical-foundation-house.svg"
   </ul>
 
 <h1>Altogether Now</h1>
- <p>Altogether, they make up the Foundation house, a template for non-<span class="_paradigm">Fiat</span> systems, the <span class="_paradigm">Radical</span> model being one of them,</p>
+ <p>Altogether, they make up the Foundation house, a template for non- systems, the <span class="_paradigm">Radical</span> model being one of them,</p>
   <div class="_center">
    <img
     width="70%"
@@ -85,7 +85,7 @@ image:    "icon-the-radical-foundation-house.svg"
   </ul>
 
 <h1>Many Houses</h1>
- <p>What the uncomfortable discussion made me see is that there may be many houses, some of them based on the template <span class="_paradirm">Radical</span> house. We have no illusions of being the only model that will come up once people are able to see the <span class="_paradigm">Fiat</span> model and the effect it has on their lives and on our world.</p>
+ <p>What the uncomfortable discussion made me see is that there may be many houses, some of them based on the template  model and the effect it has on their lives and on our world.</p>
 
 <h1>A Template House</h1>
  <p>For example, a template house would be like this,</p>

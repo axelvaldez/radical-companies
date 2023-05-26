@@ -15,7 +15,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p><span class="_quotespan">People died of never heard of sicknesses. We had vaccines, but enough of them shunned them to keep these pandemics ongoing. At one point, it was too late to get back to &lsquo;normal.&rsquo; We were over the cliff, without solid ground.</span> Yalitza had to pause at this point. The memories had gotten to her.</p>
  <p><span class="_quotespan">Most of the very wealthy hid as well as they could, but eventualy they were overwhelmed. You see, staying alive was the &lsquo;better life&rsquo; because it was the &lsquo;only life&rsquo; for the people on the outside and they were very, <em>very</em> good at pursing it and getting it. So, if they had to overwhelm the defenses that the wealthiest had put up, that is what they would do and that is what they did.</span></p>
  <p><span class="_quotespan">Not all the wealthy acted that way, many of them opened their doors and shared all they had and they ended up safer with a community around them.</span></p>
- <p><span class="_quotespan">Eventually, people got tired of trying to &lsquo;get back to normal&rsquo;. That is, the small communities became the norm. Some were nomadic, but most were sedentary, settled around their crops, and their houses, and their chairs. Many were <span class="_paradigm">Fiat</span> communities with bosses ranging from paternalistic to brutal. But just as many were co-managed by the community without permanent <span class="_quotespan">leaders</span>. <<span class="_quotespan">I grew up in one of those communities,</span> said Yalitza, <span class="_quotespan">&hellip;, but later I joined a nomadic one. And, oh, the wonders I got to see.</span></p>
+ <p> communities with bosses ranging from paternalistic to brutal. But just as many were co-managed by the community without permanent <span class="_quotespan">leaders</span>. <<span class="_quotespan">I grew up in one of those communities,</span> said Yalitza, <span class="_quotespan">&hellip;, but later I joined a nomadic one. And, oh, the wonders I got to see.</span></p>
  <p>One the kids in Yalitza&rsquo;s audience elbowed her sister. They looked at each other briefly and then he said, <span call="_quotespan">Is this accurate? Or are you just making it all up?</span></p>
  <p>An older one, Bal, responded, <span class="_quotespan">You have to figure it out. That&rsquo;s the point.</span></p>
  <p><span class="_quotespan">The facts are accurate. But, yes, you have to figure out if this story about them is true to the facts, or exagerated, or otherwise twisted or corrupted.<span> xxx </p>
@@ -35,12 +35,12 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>As it it turned out, a few communities were doing original research. A community in what used to be Laos recovered digital repositories and they spent months broadcasting the content of the material over the voice network. In parallel, and with help from the Laos folks, other recpositories were recovered in Iceland and Papua and other places.</p>
  <p>Yalitza remembered this time, clearly, <span class="_quotespan">Sure did, I was one of the people dictating the sutff we got. It was very exciting.</span></p>
 
-<h1><span class="_paradigm">Fiat</span> Lurkers</h1>
- <p>During that time we also figured out how to reconize <span class="_paradigm">Fiat</span> communities. It was simple: they took, but never gave back. Their interactions were very limited. For example, they would ask for something to be repeated during broadcasts, but, other than that, they never said anything, never offered anything. People got upset at first, but eventually we learn to live with the fact that lurkers were most likely <span class="_paradigm">Fiat</span> communities.</p>
+<h1> Lurkers</h1>
+ <p>During that time we also figured out how to reconize  communities.</p>
 
-<h1><span class="_paradigm">Fiat</span> Communities</h1>
- <p>In spite of being the cause of pushing us over the cliff, the <span class="_paradigm">Fiat</span> system still existed. It was alive and well in more than a few enclaves with bosses giving orders to everybody else. In a way, it is understandable because that is what most people knew from pre-cliff days. If you are convinced that the <em>normal</em> thing to do is to grin and bear it, then that is what &ldquo;comfort&rdquo; feels like to you. Besides, back then very few people understood that it was the <span class="_paradigm">Fiat</span> hierarchy that had brough us to this point; mostly they could even see it as the engine messing us up.</p>
- <p>The good news is that the <span class="_paradigm">Fiat</span> enclaves were shrinking. People, particularly younger ones, managed to get out and easily join other communities. They would hop from one to the other until they found one that felt right, more aligned to what they were looking for. With this writing on the wall, <span class="_paradigm">Fiat</span> enclaves had been known to threaten their neighbors. They wanted &ldquo;their&rdquo; people back. One particular enclave, The Bracia, had been growing by rolling up other <span class="_paradigm">Fiat</span> enclaves and it seemed serious about actually attacking their neighbors.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
+<h1> Communities</h1>
+ <p>In spite of being the cause of pushing us over the cliff, the  hierarchy that had brough us to this point; mostly they could even see it as the engine messing us up.</p>
+ <p>The good news is that the  enclaves and it seemed serious about actually attacking their neighbors.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
 
 <h1>Community Ensembles</h1>
  <p>The bad news is that the co-managed, co-owned communities had no defense. Well, the only &ldquo;defense&rdquo; they had, kind of, was that a lot of communities had pooled their <span class="_paradigm">RAD</span> systems and collaborated like a jazz ensemble.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
@@ -56,7 +56,7 @@ image:    "icon-we-headed-for-the-cliff.svg"
   <li id="en01">
    <p class="_list-item">
     Matt Perez.
-    <em>The <span class="_paradigm">Fiat</span> Enclaves.</em>
+    <em>The  Enclaves.</em>
     March, 11, 2022.
     &lt;<a href="https://radicalcompanies.com/2022/03/11/e11-the-fiat-enclaves" target="_blank">https://radicalcompanies.com/2022/03/11/e11-the-fiat-enclaves</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>

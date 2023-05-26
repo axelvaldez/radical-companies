@@ -22,7 +22,7 @@ image:    "icon-radical-coops.svg"
  </ul>
 
 <h1>And Co-Management?</h1>
- <p>Co-ops generally have traditional <span class="_paradigm">Fiat</span> hierarchies in place. In Italy, many (most?) co-ops have had the same bosses for many, many years. Mondragon, in Spain, has alway had a <span class="_paradigm">Fiat</span> hierarchy in place. <span class="_quotespan">But they are elected by the community.</span> They are co-ops, but not co-management because it is managed by a <span class="_paradigm">Fiat</span> hierarchy. It still carries the presumption that the little people&mdash;most of us&mdash;need a boss&mdash;a few of them&mdash;to tell them what to do.</p>
+ <p>Co-ops generally have traditional  hierarchy. It still carries the presumption that the little people&mdash;most of us&mdash;need a boss&mdash;a few of them&mdash;to tell them what to do.</p>
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">

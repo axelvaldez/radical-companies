@@ -48,7 +48,7 @@ image:    "icon-the-radical-atomic-composition.svg"
  </div>
 
 <h1>PRI Fund</h1>
- <p>You may not need a PRI Fund, but if you do need capital, fund it with a <em><span class="_paradigm">Radical</span> Investment</em>. Getting capital is an option, but do not trade capital for <span class="_quotespan">control</span> or any such <span class="_paradigm">Fiat</span> baggage.</p>
+ <p>You may not need a PRI Fund, but if you do need capital, fund it with a <em> baggage.</p>
  <p>And, no, it can&rsquo;t be fixed “later.”</p>
 
 <h1>Explicit Alignment</h1>

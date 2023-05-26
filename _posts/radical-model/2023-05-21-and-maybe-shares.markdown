@@ -11,7 +11,7 @@ image:    "icon-and-maybe-shares.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p><span class="_quotespan">In case of a <span class="_paradigm">Fiat</span> exit, company shares will be distributed according to the following schedule&hellip;.</span><a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
+ <p> exit, company shares will be distributed according to the following schedule&hellip;.</span><a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
  <p>Still no power over is given away to capital investors until the company goes off the <span class="_paradigm">Radical</span> track.</p>
 
 <h1 class="_section">ENDNOTES</h1>

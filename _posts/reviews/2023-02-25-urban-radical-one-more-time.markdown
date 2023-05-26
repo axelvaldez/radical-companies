@@ -51,7 +51,7 @@ image:    "icon-urban-radical-one-more-time.svg"
    width="70%"
    alt="">
  </div>
- <div class="_continueb">I am not sure why, but I jumped up from my bed and moved to the laptop where I am writing this stuff. More than anything else it was, I think, the &lsquo;TIMID&rsquo; column. The VOCAL column and PROFITEERS squeeze the TIMIDs by limiting speech to dictatorship-convenient-speech or else. That is what has been happening in Cuba, North Korea, and Venezuela. This is also what happens in <span class="_paradigm">Fiat</span> businesses, with the bosses as essential to their immune system.</div>
+ <div class="_continueb">I am not sure why, but I jumped up from my bed and moved to the laptop where I am writing this stuff. More than anything else it was, I think, the &lsquo;TIMID&rsquo; column. The VOCAL column and PROFITEERS squeeze the TIMIDs by limiting speech to dictatorship-convenient-speech or else. That is what has been happening in Cuba, North Korea, and Venezuela. This is also what happens in  businesses, with the bosses as essential to their immune system.</div>
  <div class="_continueb">Finally, towards the end of the book, this other image jumped at me because it illustrates the biggest problem we face in moving forward,</div>
   <div class="_center">
    <img

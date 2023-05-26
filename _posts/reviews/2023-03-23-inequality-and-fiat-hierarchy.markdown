@@ -49,12 +49,12 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
    </ul>
   <p>From our perspective,</p>
    <ul>
-    <li><em>Despotism is common of <span id="_bolder">all</span> <span class="_paradigm">Fiat</span> hierarchies</em></li>
-    <li>Businesses hierarchies are <span class="_paradigm">Fiat</span> hierarchies.</li>
-    <li>Modern governments are <span class="_paradigm">Fiat</span> hierarchies.</li>
+    <li><em>Despotism is common of <span id="_bolder">all</span>  hierarchies</em></li>
+    <li>Businesses hierarchies are  hierarchies.</li>
+    <li>Modern governments are  hierarchies.</li>
    </ul>
 
-<h1>(<span class="_paradigm">Fiat</span>) Hierarchy</h1>
+<h1>() Hierarchy</h1>
   <div class="_citation">
    <span class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</span>
   </div>
@@ -66,7 +66,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
   </div>
 
 <h1>Like Water to Fish</h1>
-  <p><span class="_paradigm">Fiat</span> hierarchy is not only <span class="_quotespan">a ubiquitous feature of human organization,</span> it is the only system we can <em>think</em> of. All &ldquo;revolutions&rdquo; have been but variations of it.<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></p>
+  <p> hierarchy is not only <span class="_quotespan">a ubiquitous feature of human organization,</span> it is the only system we can <em>think</em> of. All &ldquo;revolutions&rdquo; have been but variations of it.<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></p>
   <p>The <span class="_paradigm">Radical</span> system is an alternative,</p>
    <ul>
     <li>Meaning and belonging (people) are at the root of it.</li>
