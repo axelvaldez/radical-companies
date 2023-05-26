@@ -26,9 +26,10 @@ image:    "icon-seems-to-be-but-it-is-not-impossible.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Heavily inspired by Reshma Saujani &rsquo;s commencement speek at Smith College. She is the founder of <em>Girls Who Code</em> and the author of <em>Brave, Not Perfect.</em>
+    Heavily inspired by Reshma Saujani &rsquo;s commencement speek at Smith College. She is the founder of 
     <em>Girls Who Code</em>.
     &lt;<a href="https://girlswhocode.com/about-us" target="_blank">https://girlswhocode.com/about-us</a>&gt;
+    and the author of
     <em>Brave, Not Perfect</em>.
     &lt;<a href="https://radicals.world/dCfTUG" target="_blank">https://radicals.world/dCfTUG</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
