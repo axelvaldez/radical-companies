@@ -49,7 +49,7 @@ image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg
     <th>Profits, Wages</th>
     <td>
      <ul>
-      <li>Onwers have rights to all the wealth the business creates.</li>
+      <li>Owners have rights to all the wealth the business creates.</li>
       <li>Everybody else gets paid a wage, not realated to profits.</li>
      </ul>
     </td>
@@ -58,8 +58,12 @@ image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg
     <th>Command<br>& control</th>
     <td>
      <ul>
-      <li>Directions come from the boss. Attaboys, and sometimes financial rewards, come from the boss. Punishment comes from the boss.</li>
-      <li>Directions. What&rsquo;s right and what&rsquo;s wrong. Values. Goals. Metrics.</li>
+      <li>Directions come from the boss.</li>
+      <li>Attaboys come from the boss.</li>
+      <li>Sometimes financial bonuses come from the boss.</li>
+      <li>Punishment comes from the boss.</li>
+      <li>What&rsquo;s right and what&rsquo;s wrong come from the boss</li>
+      <li>Values, goals, and metrics come from the boss.</li>
      </ul>
     </td>
    </tr>
