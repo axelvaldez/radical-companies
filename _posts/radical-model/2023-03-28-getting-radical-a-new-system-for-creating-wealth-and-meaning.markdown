@@ -7,11 +7,11 @@ image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg
 ---
 
 <div style="display:none;">
- <p>&ldquo;<em>Lead with Radicals benefits, rather than Fiats bad features.</em>&rdquo;</span></p>
+ <p>&ldquo;<em>Lead with Radicals benefits, rather than Fiat shortcomings.</em>&rdquo;</span></p>
 </div>
 
 <h1>&nbsp;</h1>
- <p><span class="_quotespan">Lead with <span class='_paradigm'>Radical</span>&rsquo;s benefits, rather than <span class='_paradigm'>Fiat</span>&rsquo;s bad features.</span> That was Jose&rsquo;s suggestios for future posts, like this one.</p>
+ <p><span class="_quotespan">Lead with <span class='_paradigm'>Radical</span>&rsquo;s benefits, rather than <span class='_paradigm'>Fiat</span> shortcomings.</span> That was Jose&rsquo;s suggestios for future posts, like this one.</p>
 
 <h1><span class='_paradigm'>Radical</span> Benefits</h1>
  <p>The <span class='_paradigm'>Radical</span> system is an alternative to the <span class='_paradigm'>Fiat</span> system.</p>
