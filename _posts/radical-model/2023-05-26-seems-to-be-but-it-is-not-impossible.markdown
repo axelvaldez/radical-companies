@@ -7,7 +7,7 @@ image:    "icon-seems-to-be-but-it-is-not-impossible.svg"
 ---
 
 <div style="display:none;">
- <p>We can put <span style='font-family:Verdana; '>Fiat</span> to rest.</p>
+ <p>We can put Fiat to rest.</p>
 </div>
 
 <h1>&nbsp;</h1>
