@@ -21,3 +21,5 @@ image:    "icon-seems-to-be-but-it-is-not-impossible.svg"
  <p>If we do that, we can create a society in which we see <span class='_paradigm'>Fiat</span> and we laugh and celebrate.</p>
  <p>Getting there will be the work of what is left of my  lifetime. Use the <span class='_paradigm'>Radical</span> Foundation as your measuring stick and fix the world.</p>
  <p>Make our case, lead our movement, pursue whatever it is we want to pursue. Live as if <span class='_paradigm'>Fiat</span> is the past and a made up system, because it is.</p>
+
+{% include related.html %}
