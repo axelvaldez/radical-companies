@@ -307,13 +307,15 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   margin-bottom:0;
   font-size:smaller;
 }
+/*
 ._paradigm {
   font-family: Verdana;
   font-weight:520;
   font-size:smaller;
   font-style:italic;
 }
-h1 ~ span._paradigm {
+*/
+h1 span._paradigm {
   font-family: Verdana;
   font-weight:520;
   font-size:smaller;
