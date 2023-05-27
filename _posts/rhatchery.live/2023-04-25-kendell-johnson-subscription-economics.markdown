@@ -26,8 +26,8 @@ image:    "icon-kendell-johnson-subscription-economy.svg"
  <p>This is not the case any more for most young people. The belief is gone, the reality is different. So, screw it, we are going to try something different.</p>
 
 <h1>Not a New Idea</h1>
- <p>The idea of making the human construct lighter and frictionless is not new,</h1>
- <div class="center">
+ <p>The idea of making the human construct lighter and frictionless is not new,</p>
+ <div class="_center">
   <table class="_h2table">
    <tr>
     <th>Fuller</th>
