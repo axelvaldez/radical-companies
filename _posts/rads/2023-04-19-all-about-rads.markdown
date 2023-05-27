@@ -75,5 +75,6 @@ image:    "icon-all-about-rads.svg"
     <li>I am a very good looking man or woman.</li>
    </ul>
   <p>In these cases, co-owners can see what happens. They would get involved and challege the toxicity.</p>
+ </div>
 
 {% include related.html %}
