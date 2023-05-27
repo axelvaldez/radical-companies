@@ -28,7 +28,7 @@ image:    "icon-kendell-johnson-subscription-economy.svg"
 <h1>Not a New Idea</h1>
  <p>The idea of making the human construct lighter and frictionless is not new,</h1>
  <div class="center">
-  <table class="h2table">
+  <table class="_h2table">
    <tr>
     <th>Fuller</th>
     <td>
