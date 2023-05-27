@@ -74,6 +74,7 @@ image:    "icon-all-about-rads.svg"
     <ul>
      <li>I talk a lot and contribute little.</li>
      <li>I am a very good looking man or woman.</li>
+     <li>(The boss likes me.)</li>
     </ul>
   </div>
   <p>In these cases, co-owners can see what happens. They would get involved and challege the toxicity.</p>
