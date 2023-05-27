@@ -29,6 +29,11 @@ image:    "icon-owning-the-commons-2-3.svg"
   <li>Then, the trade started. Based on <span class="_paradigm">RAD</span>s, of course&hellip; but, again, I digress.</li>
  </ul>
 
+<div class="_next">
+ <span style="float:left; " ><a href="https://radicalcompanies.com/2023/01/08/e01-owning-the-commons">&lt; Previous</span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2023/01/09/e02-owning-the-commons">Next &gt;</a></span>
+</div>
+
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">

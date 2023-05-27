@@ -56,4 +56,9 @@ image:    "icon-owning-the-commons-1-3.svg"
  <p></p>
  <p>Maybe in a small community, but all good things must come to an end. Right?</p>
 
+<div class="_next">
+ <span style="float:left; " >                                                                         &lt; Previous</span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2023/01/09/e02-owning-the-commons">Next &gt;</a></span>
+</div>
+
 {% include related.html %}
