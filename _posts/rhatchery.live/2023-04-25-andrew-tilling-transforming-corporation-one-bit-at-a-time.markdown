@@ -18,7 +18,7 @@ image:    "icon-andrew-tilling-transforming-corporations-one-bit-at-a-time.svg"
 
 <h1>Complement</h1>
  <p>The revelation for us was that Andrew&rsquo;s way could a complement to our efforts and his approach could be used to introduce co-ownership.</p>
- <p>For example, RADs can be introduced to the team and the &ldquo;bonus&rdquo; budget could be distributed according to them,</p>
+ <p>For example, <span class='_paradigm'>RAD</span>s can be introduced to the team and the &ldquo;bonus&rdquo; budget could be distributed according to them,</p>
   <ul>
    <li>Introducing RADs would give them visceral experience of collaborating without a boss.</li>
    <li>The bonus distribution would make their decisions tangible.</li>
