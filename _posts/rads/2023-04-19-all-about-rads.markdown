@@ -77,6 +77,6 @@ image:    "icon-all-about-rads.svg"
      <li>(The boss likes me.)</li>
     </ul>
   </div>
-  <p>In these cases, co-owners can see what happens. They would get involved and challege the toxicity.</p>
+  <p>In these cases, co-owners can see what happens. They would get involved and, I hope, challege the toxicity.</p>
 
 {% include related.html %}
