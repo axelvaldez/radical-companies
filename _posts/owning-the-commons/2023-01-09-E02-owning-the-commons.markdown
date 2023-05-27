@@ -23,7 +23,7 @@ image:    "icon-owning-the-commons-2-3.svg"
  <ul>
   <li>We offered the newcomers food and shelter and then explained the situation.</li>
   <li>They went through the phase of, <span class="_quotespan">we can work hard and we can order new drills,</span> and <span class="_quotespan"> Woe is me, after coming all this distance in our covered wagons, you are kicking us out?</span> (they came from FIAT land). Eventually they got the seriousness of it and they realized that we weren&rsquo;t going to leave them on their own.</li>
-  <li>We involve the Native American and it turns out that they had been watching our work, but were embarrassed to ask. As we talked about making water holes and the irrigation and all that, they really liked it. They immediately pointed to another area that they didn&rsquo;t care much about. Then, we asked about how they knew where to go to pick food&hellip; but I digress.</li>
+  <li>We involve the Native American and it turns out that they had been watching our work, but were embarrassed to ask. As we talked about making water holes and the irrigation and all that, they really liked it. They immediately pointed to another area that they didn&rsquo;t care much about. Then, we asked about how they knew where to go to pick food&hellip; . But I digress.</li>
   <li>We promised the Americans and the newcomers that we would let them use our drills and generally help, like we had done for the other families.</li>
   <li>A few of our other families signed up to help, too, and thank goodness they did because we had a lot of <em>esplaining to do</em>.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></li>
   <li>Then, the trade started. Based on <span class="_paradigm">RAD</span>s, of course&hellip; but, again, I digress.</li>
