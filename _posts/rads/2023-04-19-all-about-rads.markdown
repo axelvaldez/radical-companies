@@ -60,7 +60,7 @@ image:    "icon-all-about-rads.svg"
   <p class="_q">Can this easily become a tit-for-tat exchange?</p>
   <div class="_a">
    <p>RAD-giving is transparent. If I give you all my <span class='_paradigm'>RAD</span>s and you give me all your <span class='_paradigm'>RAD</span>s, that is out there for all other co-owners to see. It is up to them to ask if they think that&rsquo;s suspicious. Remember: you are a co-owner, you don&rsquo;t need &ldquo;protection&rdquo; for asking questions.</p>
-    <p>Maybe what looks like a tit-for-tat has a perfectly good explanation, <span class="_paradigm">Weird! I didn&rsquo;t realize that was happening. I gave him all my <span class='_paradigm'>RAD</span>s because she did&hellip; .</span> The comment is also out for everybody to see.</p>
+    <p>Maybe what looks like a tit-for-tat has a perfectly good explanation, <span class="_quotespan_">Weird! I didn&rsquo;t realize that was happening. I gave him all my <span class='_paradigm'>RAD</span>s because she did&hellip; </span>.</p>
   </div>
   <p class="_q">Can this become a popularity contest?</p>
   <div class="_a">
