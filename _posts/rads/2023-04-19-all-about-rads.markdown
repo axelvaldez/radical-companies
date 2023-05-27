@@ -64,7 +64,7 @@ image:    "icon-all-about-rads.svg"
   </div>
   <p class="_q">Can this become a popularity contest?</p>
   <div class="_a">
-   <p>Maybe you are &ldquo;popular,&rdquo; and get lots of <span class='_paradigm'>RAD</span>s because,</p>
+   <p>Maybe you are &ldquo;popular&rdquo; and get lots of <span class='_paradigm'>RAD</span>s because,</p>
     <ul>
      <li>I made an extraordinary contribution that everybody noticed.</li>
      <li>I share my knowledge with what seems like everybody.</li>
