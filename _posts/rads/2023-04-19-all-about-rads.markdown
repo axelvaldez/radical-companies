@@ -57,12 +57,14 @@ image:    "icon-all-about-rads.svg"
  <p>In a FIAT business, profits belong to the owners. In a <span class='_paradigm'>Radical</span>s company, profits belong to co-owners based on the amount of <span class='_paradigm'>RAD</span>s they have. </p>
 
 <h1>Cheating <span class='_paradigm'>RAD</span>s</h1>
- <div class='_qna'>
   <p class="_q">Can this easily become a tit-for-tat exchange?</p>
-  <p class="_a">RAD-giving is transparent. If I give you all my <span class='_paradigm'>RAD</span>s and you give me all your <span class='_paradigm'>RAD</span>s, that is out there for all other co-owners to see. It is up to them to ask if they think that&rsquo;s suspicious. Remember: you are a co-owner, you don&rsquo;t need &ldquo;protection&rdquo; for asking questions.</p>
-   <p>Maybe what looks like a tit-for-tat has a perfectly good explanation, <span class="_paradigm">Weird! I didn&rsquo;t realize that was happening. I gave him all my <span class='_paradigm'>RAD</span>s because she did&hellip; .</span> The comment is also out for everybody to see.</p>
+  <div class="_a">
+   <p>RAD-giving is transparent. If I give you all my <span class='_paradigm'>RAD</span>s and you give me all your <span class='_paradigm'>RAD</span>s, that is out there for all other co-owners to see. It is up to them to ask if they think that&rsquo;s suspicious. Remember: you are a co-owner, you don&rsquo;t need &ldquo;protection&rdquo; for asking questions.</p>
+    <p>Maybe what looks like a tit-for-tat has a perfectly good explanation, <span class="_paradigm">Weird! I didn&rsquo;t realize that was happening. I gave him all my <span class='_paradigm'>RAD</span>s because she did&hellip; .</span> The comment is also out for everybody to see.</p>
+  </div>
   <p class="_q">Can this become a popularity contest?</p>
-  <p class="_a">Maybe you are &ldquo;popular,&rdquo; and get lots of <span class='_paradigm'>RAD</span>s because,</p>
+  <div class="_a">
+   <p>Maybe you are &ldquo;popular,&rdquo; and get lots of <span class='_paradigm'>RAD</span>s because,</p>
     <ul>
      <li>I made an extraordinary contribution that everybody noticed.</li>
      <li>I share my knowledge with what seems like everybody.</li>
@@ -74,7 +76,7 @@ image:    "icon-all-about-rads.svg"
      <li>I talk a lot and contribute little.</li>
      <li>I am a very good looking man or woman.</li>
     </ul>
+  </div>
   <p>In these cases, co-owners can see what happens. They would get involved and challege the toxicity.</p>
- </div>
 
 {% include related.html %}
