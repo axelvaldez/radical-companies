@@ -66,9 +66,9 @@ image:    "icon-all-about-rads.svg"
   <div class="_a">
    <p>Maybe you are &ldquo;popular&rdquo; and get lots of <span class='_paradigm'>RAD</span>s because,</p>
     <ul>
-     <li>I made an extraordinary contribution that everybody noticed.</li>
-     <li>I share my knowledge with what seems like everybody.</li>
-     <li>I suggested a change to our strategy that benefitted everybody.</li>
+     <li>You made an extraordinary contribution that everybody noticed.</li>
+     <li>You share my knowledge with what seems like everybody.</li>
+     <li>You suggested a change to our strategy that benefitted everybody.</li>
     </ul>
    <p>In these cases, the &ldquo;popularity&rdquo; is earned and it is not a problem. It is healthy.</p>
    <p>The unhealthy form of &ldquo;popularity&rdquo; is something that can only happen in <span class='_paradigm'>Fiat</span> business, but very difficult to imagine happening in a <span class='_paradigm'>Radical</span> company.</p>
