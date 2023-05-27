@@ -76,7 +76,7 @@ image:    "icon-all-about-rads.svg"
      <li>I am a very good looking man or woman.</li>
      <li>(The boss likes me.)</li>
     </ul>
+   <p>In these cases, co-owners can see what happens. They would get involved and, I hope, challege the toxicity.</p>
   </div>
-  <p>In these cases, co-owners can see what happens. They would get involved and, I hope, challege the toxicity.</p>
 
 {% include related.html %}
