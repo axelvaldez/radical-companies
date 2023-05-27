@@ -521,7 +521,7 @@ div table._background, div table._foundation {
   padding-bottom:0.5em;
   font-style:italic;
 }
-p ._q, p ._a {
+div._q p, div._a p {
   text-indent:0;
 }
 /* Q&A END*/
