@@ -70,8 +70,7 @@ image:    "icon-all-about-rads.svg"
      <li>You share my knowledge with what seems like everybody.</li>
      <li>You suggested a change to our strategy that benefitted everybody.</li>
     </ul>
-   <p>In these cases, the &ldquo;popularity&rdquo; is earned and it is not a problem. It is healthy.</p>
-   <p>The unhealthy form of &ldquo;popularity&rdquo; is something that can only happen in <span class='_paradigm'>Fiat</span> business, but very difficult to imagine happening in a <span class='_paradigm'>Radical</span> company.</p>
+   <p>In these cases, the &ldquo;popularity&rdquo; is earned and it is not a problem. It is healthy. The unhealthy form of &ldquo;popularity&rdquo; is something that can only happen in <span class='_paradigm'>Fiat</span> business, but very difficult to imagine happening in a <span class='_paradigm'>Radical</span> company.</p>
     <ul>
      <li>I talk a lot and contribute little.</li>
      <li>I am a very good looking man or woman.</li>
