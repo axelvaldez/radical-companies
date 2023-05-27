@@ -31,7 +31,7 @@ image:    "icon-owning-the-commons-2-3.svg"
 
 <div class="_next">
  <span style="float:left; " ><a href="https://radicalcompanies.com/2023/01/08/e01-owning-the-commons">&lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2023/01/09/e02-owning-the-commons">    Next &gt;</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2023/01/10/E03-owning-the-commons">    Next &gt;</a></span>
 </div>
 
 <h1 class="_section">ENDNOTES</h1>
