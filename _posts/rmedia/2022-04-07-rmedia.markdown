@@ -30,7 +30,12 @@ image:    "icon-rmedia.svg"
    </tr>
    <tr>
     <th>What for?</th>
-    <td>xxx</td>
+    <td>
+     <ul>
+      <li>Create a source of information about the <span class="_paradigm">Radical</span>.</li>
+      <li>rMEDIA becomes the MoTown  of <span class="_paradigm">Radical</span> content.</li>
+     </ul>
+    </td>
    </tr>
    <tr id="_background">
     <td></td>
@@ -38,7 +43,13 @@ image:    "icon-rmedia.svg"
    </tr>
    <tr>
     <th>Why?</th>
-    <td>xxx</td>
+    <td>
+     <ul>
+      <li>We want the world to recognize the <span class="_paradigm">Fiat</span> conditions they live in.</li>
+      <li>Give people a choice to move away from <span class="_paradigm">Fiat</span> and towards a <span class="_paradigm">Radical</span> world.</li>
+      <li>To spread <span class="_paradigm">Radical</span>-like ideas sooner, faster, and without debilitating compromises.</li>
+     </ul>
+    </td>
    </tr>
    <tr id="_background">
     <td></td>
@@ -46,11 +57,45 @@ image:    "icon-rmedia.svg"
    </tr>
    <tr>
     <th>
-     What?<br>
-     When?<br>
-     How?
+     What?
     </th>
-    <td>xxx</td>
+    <td>
+     <ul>
+      <li>Become self-sustainable.</li>
+      <li>Organized as a <span class="_paradigm">Radical</span> company.  Everybody who contributes (<em>e.g.</em>, authors, distributors, printers) participates in its ownership and the wealth it generates.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>
+     When?
+    </th>
+    <td>
+     <ul>
+      <li>Become self-sustainable.</li>
+      <li>Organized as a <span class="_paradigm">Radical</span> company.  Everybody who contributes (<em>e.g.</em>, authors, distributors, printers) participates in its ownership and the wealth it generates.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <ul>
+      <li>Within 12 months.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>How?</th>
+    <td>
+     <ul>
+      <li>Create a Marketing and Sales flow.</li>
+      <li>Leverage authors in the Marketing and Sales of the content.</li>
+      <li>Establish a distinct and instantly recognizable brand.</li>
+      <li>Experiment with different media for promotion and distribution.</li>
+      <li>Virtual book clubs with authors, critics.</li>
+      <li>Virtual debates, panels, interviews.</li>
+     </ul>
+    </td>
    </tr>
   </table>
  </div>
