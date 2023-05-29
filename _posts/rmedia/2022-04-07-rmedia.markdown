@@ -22,6 +22,39 @@ image:    "icon-rmedia.svg"
  <p>And, worse, the book’s message doesn’t spread widely.</p>
 
 <h1>Alignment</h1>
+ <div class="_center">
+  <table class="_explicitalignment">
+   <tr id="_background">
+    <td></td>
+    <th>Impact</th>
+   </tr>
+   <tr>
+    <th>What for?</th>
+    <td>xxx</td>
+   </tr>
+   <tr id="_background">
+    <td></td>
+    <th>Purpose</th>
+   </tr>
+   <tr>
+    <th>Why?</th>
+    <td>xxx</td>
+   </tr>
+   <tr id="_background">
+    <td></td>
+    <th>Mission</th>
+   </tr>
+   <tr>
+    <th>
+     What?<br>
+     When?<br>
+     How?
+    </th>
+    <td>xxx</td>
+   </tr>
+  </table>
+ </div>
+
  <table>
   <tr>
    <th colspan="2" style="text-align:center; ">Impact</th>
