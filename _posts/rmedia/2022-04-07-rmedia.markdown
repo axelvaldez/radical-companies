@@ -12,7 +12,7 @@ image:    "icon-rmedia.svg"
 
 <h1>Intro</h1>
  <p>MoTown Records<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> came to be because African American artists needed something fundamentally different than what the existing record labels offered.  MoTown promoted their music, their concept of music, their categories, and even their approach to it, more sensual and religious at the same time.  The existing labels were not capable of providing any of that, even with the best of intentions.</p>
- <p>As MoTown was to Black artists and their music, <span class="_paradigm">rMEDIA</span> is to <span class="_paradigm">Radical</span> authors and themes.</p>
+ <p>As MoTown was to Black artists and their music, <span class="_paradigm">rMedia</span> is to <span class="_paradigm">Radical</span> authors and themes.</p>
 
 <h1>Origin Story</h1>
  <p>The way it works now, publishers license your content and take on all the risk in exchange for selling your content under their ISBN.  You own the content, they own <em>only</em> the ISBN. The publisher also owns the brand which they have built over many years and this imprimatur shines a light on your content. At least, that’s the historical narrative, but today it has evolved into something different.</p>
