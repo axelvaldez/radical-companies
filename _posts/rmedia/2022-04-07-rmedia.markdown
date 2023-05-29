@@ -56,9 +56,7 @@ image:    "icon-rmedia.svg"
     <th>Mission</th>
    </tr>
    <tr>
-    <th>
-     What?
-    </th>
+    <th>What?</th>
     <td>
      <ul>
       <li>Become self-sustainable.</li>
@@ -67,9 +65,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <th>
-     When?
-    </th>
+    <th>When?</th>
     <td>
      <ul>
       <li>Become self-sustainable.</li>
@@ -78,6 +74,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
+    <th>What?</th>
     <td>
      <ul>
       <li>Within 12 months.</li>
@@ -161,7 +158,7 @@ image:    "icon-rmedia.svg"
   </tr>
  </table>
 
-<h1>What's in It for&hellip; ?</h1>
+<h1>What&rsquo;s in It for&hellip; ?</h1>
  <p>Besides ownership and participation in the generated wealth, this is what people will get,</p>
  <table>
   <tr>
