@@ -38,8 +38,6 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
   </table>
-  <table class="_h2table">
-   <tr id="_background">
     <td></td>
     <th>Purpose</th>
    </tr>
@@ -54,8 +52,6 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
   </table>
-  <table class="_h2table">
-   <tr id="_background">
     <td></td>
     <th>Mission</th>
    </tr>
@@ -68,8 +64,6 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-  </table>
-  <table class="_h2table">
    <tr>
     <th>When?</th>
     <td>
@@ -78,8 +72,6 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-  </table>
-  <table class="_h2table">
    <tr>
     <th>How?</th>
     <td>
