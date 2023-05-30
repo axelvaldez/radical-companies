@@ -171,7 +171,7 @@ image:    "icon-rmedia.svg"
     </tr>
    </table>
   </div>
-  BBB
+  CCC
   <div class='_center'>
    <table class='_h2table' style="width:80%; ">
     <colgroup>
