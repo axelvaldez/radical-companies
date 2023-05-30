@@ -241,14 +241,10 @@ image:    "icon-rmedia.svg"
 <h1>Roles and Activities</h1>
  <h2>Direction</h2>
   <p><em>Recording</em> will take two to four hours.</p>
-   <div ='_center'>
-    <table clas='_h2table'>
-     <colgroup style="">
-      <col style="border-right:1px solid black; width:20en; ">
-      <col>
-     </colgroup>
+   <div class='_center'>
+    <table class='_h2table'>
      <tr>
-      <td style="font-weight:bold; text-align:right; padding-right:1em; ">Onboarding</td>
+      <th>Onboarding</th>
       <td>
        <ul>
         <li>Practice recording: Lets the <span style="font-size:smaller; ">ICONOCLAST</span>s get his “pitch” out of his system.</li>
@@ -259,10 +255,7 @@ image:    "icon-rmedia.svg"
       </td>
      </tr>
      <tr>
-      <td colspan="4" style="font-size:2px; ">&nbsp;</td>
-     </tr>
-     <tr>
-      <td style="font-weight:bold; text-align:right; padding-right:1em; ">Direction</td>
+      <th>Direction</th>
       <td>
        <ul>
         <li>Pausing when the <span style="font-size:smaller; ">ICONOCLAST</span>s way goes off subject and helping them get back on track.</li>
@@ -270,9 +263,6 @@ image:    "icon-rmedia.svg"
         <li>Moving from one location to another. Ideally, the <span style="font-size:smaller; ">ICONOCLAST</span>s pairs should move to different locations (<em>e.g.</em>, inside/outside, sitting/standing, walking) every 20-30 minutes or so.</li>
        </ul>
       </td>
-     </tr>
-     <tr>
-      <td colspan="4">&nbsp;</td>
      </tr>
     </table>
    </div>
