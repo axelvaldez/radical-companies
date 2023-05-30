@@ -90,304 +90,314 @@ image:    "icon-rmedia.svg"
 
 <h1>What&rsquo;s in It for&hellip; ?</h1>
  <p>Besides ownership and participation in the generated wealth, this is what people will get,</p>
- <table class='_h2table, _center'>
-  <tr>
-   <th>Authors</th>
-   <td>
-    <ul>
-     <li>Promotion and exposure of their ideas, of themselves, of their content.</li>
-     <li>Being an <span class="_paradigm">rMEDIA</span> author (<em>i.e.</em>, progressive, future positive).</li>
-     <li>Thought leader of a recognized trope.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>Content Editors, Layout Designers, Developers, Graphics Designers, Media Team, Producers</th>
-   <td>
-    <ul>
-     <li>Doing what they love, without paying the <span class="_paradigm">Fiat</span> price.</li>
-     <li>Doing it with a team of co-owners, responsible to each other.</li>
-     <li>Able to experiment with the support of the team.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>Translators, Verifiers</th>
-   <td>
-    <ul>
-     <li>Learn what is perceived as a contribution.</li>
-     <li>Champion your own notion of what represents a contribution from a translator or a verifier.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>Marketing</th>
-   <td>
-    <ul> 
-     <li>Learning from the ability to experiment with various media, different messages.</li>
-     <li>Spreading the <span class="_paradigm">Radical</span> story, their story.</li>
-     <li>Experimenting with different ways of getting the message out.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>Sales</th>
-   <td>
-    <ul>
-     <li>Learning from listening to different types of buyers.</li>
-     <li>Learning what it takes to turn them into evangelists, not just book sellers.</li>
-     <li>Spreading the <span class="_paradigm">Radical</span> story, their story.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>Printers</th>
-   <td>
-    <ul>
-     <li>Learning to take the friction out of printing books.</li>
-     <li>They&rsquo;ll hear, “we&rsquo;ll help you compete with Amazon.”</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>Distributors</th>
-   <td>
-    <ul>
-     <li>Learning to take the friction out of book distribution.</li>
-     <li>They&rsquo;ll hear, “we&rsquo;ll help you compete with Amazon.”</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>Small Bookshops</th>
-   <td>
-    <ul>
-     <li>Learning to become impassionate evangelists, not just book sellers.</li>
-     <li>Make more money from the content.
-      <div class="_quotation" style="padding-bottom:2em; margin-bottom:0; ">
-       &hellip; formerly the local stores in a small town competed sharply with one another. Now, … they are beginning to join in an effort to secure the trade of the outlying farming districts and of the summer residents who tend to buy from the city by mail order. They do this by saving capital through common store-houses, through dividing specialties and thus increasing stock without increasing expenditure, by improving local service through cooperative deliveries, etc.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>
-      </div>
-     </li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>Big Book Chains</th>
-   <td>
-    <ul>
-     <li>Be associated with a  unique, easily identifiable brand that belongs to all who contribute.</li>
-     <li>They&rsquo;ll have to win <span class="_paradigm">rMEDIA</span>&rsquo;s endorsement the <span class="_paradigm">Fiat</span> way. Unless they flip to the <span class="_paradigm">Radical</span> paradigm.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th><span class="_paradigm">rMEDIA</span></th>
-   <td>
-    <ul>
-     <li>A much needed service centered on people to spread healing ideas, create content, and distribute it all far, wide. and fast.</li>
-     <li><span class="_paradigm">rMEDIA</span> becomes a unique, easily recognized brand.</li>
-    </ul>
-   </td>
-  </tr>
-</table>
+ <div class='_center ' style='font-sze:smaller; '>
+  <table class='_h2table '>
+   <tr>
+    <th>Authors</th>
+    <td>
+     <ul>
+      <li>Promotion and exposure of their ideas, of themselves, of their content.</li>
+      <li>Being an <span class="_paradigm">rMEDIA</span> author (<em>i.e.</em>, progressive, future positive).</li>
+      <li>Thought leader of a recognized trope.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Content Editors, Layout Designers, Developers, Graphics Designers, Media Team, Producers</th>
+    <td>
+     <ul>
+      <li>Doing what they love, without paying the <span class="_paradigm">Fiat</span> price.</li>
+      <li>Doing it with a team of co-owners, responsible to each other.</li>
+      <li>Able to experiment with the support of the team.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Translators, Verifiers</th>
+    <td>
+     <ul>
+      <li>Learn what is perceived as a contribution.</li>
+      <li>Champion your own notion of what represents a contribution from a translator or a verifier.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Marketing</th>
+    <td>
+     <ul> 
+      <li>Learning from the ability to experiment with various media, different messages.</li>
+      <li>Spreading the <span class="_paradigm">Radical</span> story, their story.</li>
+      <li>Experimenting with different ways of getting the message out.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Sales</th>
+    <td>
+     <ul>
+      <li>Learning from listening to different types of buyers.</li>
+      <li>Learning what it takes to turn them into evangelists, not just book sellers.</li>
+      <li>Spreading the <span class="_paradigm">Radical</span> story, their story.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Printers</th>
+    <td>
+     <ul>
+      <li>Learning to take the friction out of printing books.</li>
+      <li>They&rsquo;ll hear, “we&rsquo;ll help you compete with Amazon.”</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Distributors</th>
+    <td>
+     <ul>
+      <li>Learning to take the friction out of book distribution.</li>
+      <li>They&rsquo;ll hear, “we&rsquo;ll help you compete with Amazon.”</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Small Bookshops</th>
+    <td>
+     <ul>
+      <li>Learning to become impassionate evangelists, not just book sellers.</li>
+      <li>Make more money from the content.
+       <div class="_quotation" style="padding-bottom:2em; margin-bottom:0; ">
+        &hellip; formerly the local stores in a small town competed sharply with one another. Now, … they are beginning to join in an effort to secure the trade of the outlying farming districts and of the summer residents who tend to buy from the city by mail order. They do this by saving capital through common store-houses, through dividing specialties and thus increasing stock without increasing expenditure, by improving local service through cooperative deliveries, etc.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>
+       </div>
+      </li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Big Book Chains</th>
+    <td>
+     <ul>
+      <li>Be associated with a  unique, easily identifiable brand that belongs to all who contribute.</li>
+      <li>They&rsquo;ll have to win <span class="_paradigm">rMEDIA</span>&rsquo;s endorsement the <span class="_paradigm">Fiat</span> way. Unless they flip to the  <span class="_paradigm">Radical</span> paradigm.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th><span class="_paradigm">rMEDIA</span></th>
+    <td>
+     <ul>
+      <li>A much needed service centered on people to spread healing ideas, create content, and distribute it all far, wide. and fast.</li>
+      <li><span class="_paradigm">rMEDIA</span> becomes a unique, easily recognized brand.</li>
+     </ul>
+    </td>
+   </tr>
+ </table>
+</div>
 
 <h1>From Cradle to Sales</h1>
  <h2>Book Preparation</h2>
-  <table>
-   <tr>
-    <th>Onboarding</th>
-    <td>
-     <ul>
-      <li>Teach new authors about the process. Point out that it will take lots of reviewing over and over.</li>
-      <li>Profile the authors to co-figure out how much of the work below they are willing/capable to do.</li>
-      <li>Training in the use of new tools (<em>e.g.</em>, InDesign, Jutoh, rMake).</li>
-      <li>Mentoring (<em>i.e.</em>, tools to find  an experienced author).</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>Co-Editing</th>
-    <td>
-     <ul>
-      <li>With an experienced editor from anywhere in the world.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
-    <th>Copy Editing</th>
-    <td>
-     <ul>
-      <li>With copy editors from anywhere in the world.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
-    <th>Book Cover Design</th>
-    <td>
-     <ul>
-      <li>With designers from anywhere in the world.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
-    <th>Book Layout</th>
-    <td>
-     <ul>
-      <li>With layout book designers  from anywhere in the world.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
-    <th>Text Formatting</th>
-    <td>
-     <ul>
-      <li>With skilled people from anywhere in the world.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
-    <th>ISBNs</th>
-    <td>
-     <ul>
-      <li>Acquisition and assignment of ISBN numbers.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-   <tr>
-    <th>Translations</th>
-    <td>
-     <ul>
-      <li>With translators from anywhere in the world.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
-  </table>
+  <div class='_center'>
+   <table class='_h2table, _center'>
+    <tr>
+     <th>Onboarding</th>
+     <td>
+      <ul>
+       <li>Teach new authors about the process. Point out that it will take lots of reviewing over and over.</li>
+       <li>Profile the authors to co-figure out how much of the work below they are willing/capable to do.</li>
+       <li>Training in the use of new tools (<em>e.g.</em>, InDesign, Jutoh, rMake).</li>
+       <li>Mentoring (<em>i.e.</em>, tools to find  an experienced author).</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th>Co-Editing</th>
+     <td>
+      <ul>
+       <li>With an experienced editor from anywhere in the world.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer">&nbsp;</td>
+    </tr>
+    <tr>
+     <th>Copy Editing</th>
+     <td>
+      <ul>
+       <li>With copy editors from anywhere in the world.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer">&nbsp;</td>
+    </tr>
+    <tr>
+     <th>Book Cover Design</th>
+     <td>
+      <ul>
+       <li>With designers from anywhere in the world.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer">&nbsp;</td>
+    </tr>
+    <tr>
+     <th>Book Layout</th>
+     <td>
+      <ul>
+       <li>With layout book designers  from anywhere in the world.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer">&nbsp;</td>
+    </tr>
+    <tr>
+     <th>Text Formatting</th>
+     <td>
+      <ul>
+       <li>With skilled people from anywhere in the world.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer">&nbsp;</td>
+    </tr>
+    <tr>
+     <th>ISBNs</th>
+     <td>
+      <ul>
+       <li>Acquisition and assignment of ISBN numbers.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer">&nbsp;</td>
+    </tr>
+    <tr>
+     <th>Translations</th>
+     <td>
+      <ul>
+       <li>With translators from anywhere in the world.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer">&nbsp;</td>
+    </tr>
+   </table>
+  </div>
   <p>At one end, authors could use the help of <span class="_paradigm">rMEDIA</span>; at the other they could do it themselves using the <span class="_paradigm">rMEDIA</span> infrastructure. My guess is that they would choose a combination of these. For example, translations work better when the author works in tandem with the translator because the author can, in real time, clarify tricky phrasing, explain idiomatic phrases, or the why of a difficult paragraph.</p>
  <h2>Funding</h2>
-  <table>
-   <tr>
-    <th>Crowdfunding</th>
-    <td>
-     <ul>
-      <li>Provides the equivalent of an “advance” for co-authors who need the support upfront.</li>
-      <li>Used to test the effectiveness of different types of promotions, descriptions, tags, etc.</li>
-     </ul>
-   </td>
-  </tr>
-  <tr>
-   <th><span class="_paradigm">Radical</span> funding</th>
-   <td>
-    <ul>
-     <li>An advance-as-investment up front for an agreed upon return.</li>
-    </ul>
-   </td>
-  </tr>
- </table>
-<h2>Promoting</h2>
- <table>
-  <tr>
-   <th>Content Extraction</th>
-   <td>
-    <ul>
-     <li>Creating extracts of the book for promotional content.</li>
-     <li>Serialize (<em>e.g.</em>, Twitter, blogs).</li>
-     <li>115-second videos.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>Video</th>
-   <td>
-    <ul>
-     <li>Short videos (<em>e.g.</em>115-second videos).</li>
-     <li>Publish serial form of content/extracts.</li>
-     <li>Run campaigns on Twitter, LinkedIn, etc.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>Social Media</th>
-   <td>
-    <ul>
-     <li>Run campaigns on Twitter, LinkedIn, etc.</li>
-     <li>Publish serial form of content/extracts.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>Advertising</th>
-   <td>
-    <ul>
-     <li>For example, KDP ads.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>Fame to Fortune</th>
-   <td>
-    <ul>
-     <li>Place authors as keynotes, featured speakers.</li>
-     <li>Podcast guests.</li>
-     <li>The voice of courses and workshops.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th><span class="_paradigm">rLIVE</span></th>
-   <td>
-    <ul>
-     <li>See <span class="_paradigm">rLIVE</span><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>In-store Promos</th>
-   <td>
-    <ul>
-     <li>See <span class="_paradigm">rSHELF</span><a href="#en04"><sup id="bm04">4&nbsp;</sup></a>.</li>
-    </ul>
-   </td>
-  </tr>
- </table>
- <h2>Sales</h2>
-  <table>
-   <tr>
-    <th>Feet on the street</th>
-    <td>
-     <ul>
-      <li>Sales to independent book sellers.</li>
-      <li>Sales to large booksellers.</li>
-      <li>Sales to airport booksellers.</li>
-      <li>Bulk sales to corporations.</li>
-      <li>Bulk sales to workshops and other venues.</li>
-     </ul>
+  <div class='_center'>
+   <table class='_h2table, _center'>
+    <tr>
+     <th>Crowdfunding</th>
+     <td>
+      <ul>
+       <li>Provides the equivalent of an “advance” for co-authors who need the support upfront.</li>
+       <li>Used to test the effectiveness of different types of promotions, descriptions, tags, etc.</li>
+      </ul>
     </td>
    </tr>
    <tr>
-    <td class="_spacer">&nbsp;</td>
+    <th><span class="_paradigm">Radical</span> funding</th>
+    <td>
+     <ul>
+      <li>An advance-as-investment up front for an agreed upon return.</li>
+     </ul>
+    </td>
    </tr>
   </table>
+ </div>
+<h2>Promoting</h2>
+  <div class='_center'>
+   <table class='_h2table, _center'>
+    <tr>
+     <th>Content Extraction</th>
+     <td>
+      <ul>
+       <li>Creating extracts of the book for promotional content.</li>
+       <li>Serialize (<em>e.g.</em>, Twitter, blogs).</li>
+       <li>115-second videos.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th>Video</th>
+     <td>
+      <ul>
+       <li>Short videos (<em>e.g.</em>115-second videos).</li>
+       <li>Publish serial form of content/extracts.</li>
+       <li>Run campaigns on Twitter, LinkedIn, etc.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th>Social Media</th>
+     <td>
+      <ul>
+       <li>Run campaigns on Twitter, LinkedIn, etc.</li>
+       <li>Publish serial form of content/extracts.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+    <th>Advertising</th>
+     <td>
+      <ul>
+       <li>For example, KDP ads.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th>Fame to Fortune</th>
+     <td>
+      <ul>
+       <li>Place authors as keynotes, featured speakers.</li>
+       <li>Podcast guests.</li>
+       <li>The voice of courses and workshops.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th><span class="_paradigm">rLIVE</span></th>
+     <td>
+      <ul>
+       <li>See <span class="_paradigm">rLIVE</span><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th>In-store Promos</th>
+     <td>
+      <ul>
+       <li>See <span class="_paradigm">rSHELF</span><a href="#en04"><sup id="bm04">4&nbsp;</sup></a>.</li>
+      </ul>
+     </td>
+    </tr>
+   </table>
+  </div>
+ <h2>Sales</h2>
+  <div class='_center'>
+   <table class='_h2table, _center'>
+    <tr>
+     <th>Feet on the street</th>
+     <td>
+      <ul>
+       <li>Sales to independent book sellers.</li>
+       <li>Sales to large booksellers.</li>
+       <li>Sales to airport booksellers.</li>
+       <li>Bulk sales to corporations.</li>
+       <li>Bulk sales to workshops and other venues.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td class="_spacer">&nbsp;</td>
+    </tr>
+   </table>
+  </div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
