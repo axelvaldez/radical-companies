@@ -182,7 +182,7 @@ image:    "icon-rmedia.svg"
     </colgroup>
     <tr>
      <th style="width:20en; ">Episode</th>
-     <thxxx style="width:20en; ">
+     <th style="width:20en; ">
       <ul>
        <li>90 min</li>
       </ul>
