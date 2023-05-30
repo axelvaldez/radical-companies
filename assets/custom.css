@@ -200,21 +200,11 @@ table._explicitalignment tr:nth-child(1) th,
 table._explicitalignment tr:nth-child(3) th,
 table._explicitalignment tr:nth-child(5) th {
   text-align:left;
-  color:red;
-}
-table._explicitalignment tr:nth-child(1) td,
-table._explicitalignment tr:nth-child(3) td,
-table._explicitalignment tr:nth-child(5) td {
-  text-align:left;
-  border:0;
-  color:blue;;
 }
 table._explicitalignment tr:nth-child(2) td,
 table._explicitalignment tr:nth-child(4) td,
 table._explicitalignment tr:nth-child(6) td {
   text-align:left;
-  border:0;
-  color:green;
 }
 table._explicitalignment th {
   vertical-align:text-top;
