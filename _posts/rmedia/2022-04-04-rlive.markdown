@@ -171,8 +171,8 @@ image:    "icon-rmedia.svg"
     </tr>
     <colgroup>
      <!--                 --> <col style="">
-     <!-- Duration        --> <col style="background-color:#eee; ">
-     <!-- What            --> <col style="">
+     <!-- Duration        --> <col style="background-color:#eee; background-color:yellow; ">
+     <!-- What            --> <col style="font-size:smaller; ">
      <!-- Target Audience --> <col style="background-color:#eee;">
     </colgroup>
     <tr>
