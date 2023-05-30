@@ -164,10 +164,10 @@ image:    "icon-rmedia.svg"
   <div class='_center'>
    <table class='_h2table'>
     <tr style="text-align:center; border-bottom:1px solid black; ">
-     <th>&nbsp;</th>
-     <th>Duration</th>
-     <th>What</th>
-     <th>Target Audience</th>
+     <th style="width:20en; ">&nbsp;</th>
+     <th style="width:20en; ">Duration</th>
+     <th style="width:20en; ">What</th>
+     <th style="width:20en; ">Target Audience</th>
     </tr>
    </table>
   </div>
@@ -180,14 +180,14 @@ image:    "icon-rmedia.svg"
      <!-- Target Audience --> <col style="background-color:#eee;">
     </colgroup>
     <tr>
-     <th>Episode</th>
-     <td>
+     <th style="width:20en; ">Episode</th>
+     <thxxx style="width:20en; ">
       <ul>
        <li>90 min</li>
       </ul>
-     </td>
-     <td>Live streamed and recorded</td>
-     <td>For co-owner-wanna-bes</td>
+     </th>
+     <th style="width:20en; ">Live streamed and recorded</th>
+     <th style="width:20en; ">For co-owner-wanna-bes</th>
     </tr>
     <tr>
      <th>Hour</th>
