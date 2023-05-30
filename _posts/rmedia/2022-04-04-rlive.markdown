@@ -162,18 +162,13 @@ image:    "icon-rmedia.svg"
 <h1>Distribution Package</h1>
  <p>The  resulting distribution package will include,</p>
   <div class='_center'>
-   <table class='_h2table' style="width:80%; ">
+   <table style="width:80%; ">
     <tr>
      <th style="width:30en; "></th>
      <th style="width:30en; ">Duration</th>
      <th style="width:30en; ">What</th>
      <th style="width:30en; ">Target Audience</th>
     </tr>
-   </table>
-  </div>
-  CCC
-  <div class='_center'>
-   <table class='_h2table' style="width:80%; ">
     <colgroup>
      <!--                 --> <col style="">
      <!-- Duration        --> <col style="background-color:#eee; ">
