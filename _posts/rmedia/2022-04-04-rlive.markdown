@@ -162,18 +162,18 @@ image:    "icon-rmedia.svg"
 <h1>Distribution Package</h1>
  <p>The  resulting distribution package will include,</p>
   <div class='_center'>
-   <table class='_h2table'>
-    <tr style="text-align:center; ">
-     <th style="width:20en; "></th>
-     <th style="width:20en; ">Duration</th>
-     <th style="width:20en; ">What</th>
-     <th style="width:20en; ">Target Audience</th>
+   <table class='_h2table' style="width:80%; ">
+    <tr>
+     <th style="width:30en; "></th>
+     <th style="width:30en; ">Duration</th>
+     <th style="width:30en; ">What</th>
+     <th style="width:30en; ">Target Audience</th>
     </tr>
    </table>
   </div>
   BBB
   <div class='_center'>
-   <table class='_h2table'>
+   <table class='_h2table' style="width:80%; ">
     <colgroup>
      <!--                 --> <col style="">
      <!-- Duration        --> <col style="background-color:#eee; ">
@@ -181,14 +181,14 @@ image:    "icon-rmedia.svg"
      <!-- Target Audience --> <col style="background-color:#eee;">
     </colgroup>
     <tr>
-     <th style="width:20en; ">Episode</th>
-     <td style="width:20en; ">
+     <th style="width:30en; ">Episode</th>
+     <td style="width:30en; ">
       <ul>
        <li>90 min</li>
       </ul>
      </td>
-     <td style="width:20en; ">Live streamed and recorded</td>
-     <td style="width:20en; ">For co-owner-wanna-bes</td>
+     <td style="width:30en; ">Live streamed and recorded</td>
+     <td style="width:30en; ">For co-owner-wanna-bes</td>
     </tr>
     <tr>
      <th>Hour</th>
