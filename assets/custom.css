@@ -213,6 +213,7 @@ table._explicitalignment tr:nth-child(1) th,
 table._explicitalignment tr:nth-child(3) th,
 table._explicitalignment tr:nth-child(5) th {
   text-align:left;
+  border:0px;
 }
 table._explicitalignment tr:nth-child(1) td,
 table._explicitalignment tr:nth-child(3) td,
