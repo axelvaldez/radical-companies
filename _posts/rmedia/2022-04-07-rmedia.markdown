@@ -22,7 +22,6 @@ image:    "icon-rmedia.svg"
  <p>And, worse, the book&rsquo;s message doesn&rsquo;t spread widely.</p>
 
 <h1>Alignment</h1>
-HHH
  <div class="_center">
   <table class="_explicitalignment">
    <tr>
@@ -91,7 +90,7 @@ HHH
 
 <h1>What&rsquo;s in It for&hellip; ?</h1>
  <p>Besides ownership and participation in the generated wealth, this is what people will get,</p>
- <table>
+ <table class='_h2table'>
   <tr>
    <th>Authors</th>
    <td>
