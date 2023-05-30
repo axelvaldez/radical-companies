@@ -15,7 +15,7 @@ image:    "icon-rmedia.svg"
  <p id='_signature'>John Stuart Mill</p>
 </div>
 
-<h1>Alignment</h1>
+<h1>Explicit Alignment</h1>
  <div class='_center'>
   <table class='_explicitalignment'>
    <tr>
@@ -26,7 +26,7 @@ image:    "icon-rmedia.svg"
     <th>What for?</th>
     <td>
      <ul>
-      <li>To promote RADICAL principles, commitments, and practices.</li>
+      <li>To promote <span class='_paradigm'>Radical</span> principles, commitments, and practices.</li>
      </ul>
     </td>
    </tr>
@@ -38,9 +38,9 @@ image:    "icon-rmedia.svg"
     <th>Why?</th>
     <td>
      <ul>
-      <li>Spread the word about the RADICAL paradigm and make it familiar to people (<em>i.e.</em>, non-threatening).</li>
+      <li>Spread the word about the <span class='_paradigm'>Radical</span> paradigm and make it familiar to people (<em>i.e.</em>, non-threatening).</li>
       <li>To give everybody the opportunity to reveal their ideal future.</li>
-      <li>To bring together RADICAL-adjacent movements.</li>
+      <li>To bring together <span class='_paradigm'>Radical</span>-adjacent movements.</li>
      </ul>
     </td>
    </tr>
@@ -80,7 +80,7 @@ image:    "icon-rmedia.svg"
  </div>
 
 <h1>Format</h1>
- <p>The format is inspired by the HBO series <span style="font-size:smaller; ">ICONOCLAST</span>s which featured &ldquo;an hour of personal conversation and storytelling.&rdquo;<sup id="bm01"><a href="#en01">1</a></sup> There are no &ldquo;hosts&rdquo; or &ldquo;guests,&rdquo; it is simply people talking about their journeys, going against the grain of traditional beliefs and institutions, projecting what the world would be like if they were wildly successful in their efforts.</p>
+ <p>The format is inspired by the HBO series <span style="font-size:smaller; ">ICONOCLAST</span>s which featured &ldquo;an hour of personal conversation and storytelling.&rdquo;<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> There are no &ldquo;hosts&rdquo; or &ldquo;guests,&rdquo; it is simply people talking about their journeys, going against the grain of traditional beliefs and institutions, projecting what the world would be like if they were successful in their efforts.</p>
 
 <h1>Modality</h1>
  <div class='_center'>
@@ -89,7 +89,7 @@ image:    "icon-rmedia.svg"
     <th>Simple</th>
     <td>
      <ul>
-      <li>The RADICALS.LIVE! episodes are online (<em>e.g.</em>,  Zoom, Riff) or in person</li>
+      <li>The <span class='_paradigm'>Radical</span>S.LIVE! episodes are online (<em>e.g.</em>,  Zoom, Riff) or in person</li>
       <li>Each speaker must appear to be looking at the other most of the time, not the camera. Their camera is the third party in the room and they could speak to it, too.</li>
      </ul>
     </td>
@@ -156,7 +156,7 @@ image:    "icon-rmedia.svg"
 <h1>Launch</h1>
  <p>We will start by pairing up with the first few guests. These will be people we know, like Doug Kirkpatrick and Chuck Blakeman on the co-management side and Nathan Schneider on the co-ownership side (see <span style="font-size:smaller; ">ICONOCLAST</span>s Candidates).</p>
  <p>We want diverse <span style="font-size:smaller; ">ICONOCLAST</span>ss. It could be an experienced co-management practitioner with a traditional boss. Other things to consider are age, gender, and ethnicity. The point is to create a high contrast that screams &ldquo;this works for everybody, including you, the audience.&rdquo;</p>
- <p>Later, these <span style="font-size:smaller; ">ICONOCLAST</span>ss can recruit other people to record an episode with. We need to make this as frictionless as possible while insisting that the RADICAL message not be diluted. The whole episode could be all about how &ldquo;it won’t work,&rdquo; but the RADICAL message has to be central. Otherwise, the show won’t be published under the brand, although the participants will get the raw material to use as they see fit.</p>
+ <p>Later, these <span style="font-size:smaller; ">ICONOCLAST</span>ss can recruit other people to record an episode with. We need to make this as frictionless as possible while insisting that the <span class='_paradigm'>Radical</span> message not be diluted. The whole episode could be all about how &ldquo;it won’t work,&rdquo; but the <span class='_paradigm'>Radical</span> message has to be central. Otherwise, the show won’t be published under the brand, although the participants will get the raw material to use as they see fit.</p>
 
 <h1>Distribution Package</h1>
  <p>The  resulting distribution package will include,</p>
@@ -371,11 +371,11 @@ image:    "icon-rmedia.svg"
  </table>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol style="font-size:smaller; ">
+ <ul style="font-size:smaller; ">
   <li id="en01">
    “Iconoclasts” would be the perfect name for this show, wouldn’t it? (Hey, <a href="https://www.youtube.com/watch?v=IdaHRoxNMZQ&feature=youtu.be&t=3">HBO/Grey Goose</a>, can we talk?) &lt;<a href="https://radicals.world/d8ykRz">https://radicals.world/d8ykRz</a>>
    <a href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </li>
-</ol>
+</ul>
 
 {% include related.html %}
