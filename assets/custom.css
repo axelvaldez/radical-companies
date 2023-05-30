@@ -208,7 +208,7 @@ table._explicitalignment tr:nth-child(5) th {
 table._explicitalignment tr:nth-child(2) td,
 table._explicitalignment tr:nth-child(4) td,
 table._explicitalignment tr:nth-child(6) td {
-  text-align:right;
+  text-align:left;
   border:0;
   color:blue;
 }
