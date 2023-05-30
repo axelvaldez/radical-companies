@@ -11,7 +11,7 @@ image:    "icon-rmedia.svg"
 </div>
 
 <h1>Intro</h1>
- <p>MoTown Records<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> came to be because African American artists needed something fundamentally different than what the existing record labels offered.  MoTown promoted their music, their concept of music, their categories, and even their approach to it, more sensual and religious at the same time.  The existing labels were not capable of providing any of that, even with the best of intentions.</p>
+ <p>MoTown Records<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> came to be because African American artists needed something fundamentally different than what the existing record labels offered.  MoTown promoted their music, their concept of music, their categories, and even their approach to it, more sensual and religious at the same time.  The existing labels were not capable of providing any of that, even with the best of intentions.</p>
  <p>As MoTown was to Black artists and their music, <span class="_paradigm">rMedia</span> is to <span class="_paradigm">Radical</span> authors and themes.</p>
 
 <h1>Origin Story</h1>
@@ -166,7 +166,7 @@ image:    "icon-rmedia.svg"
       <li>Learning to become impassionate evangelists, not just book sellers.</li>
       <li>Make more money from the content.
        <div class="_citation">
-        <p>&hellip; formerly the local stores in a small town competed sharply with one another. Now, … they are beginning to join in an effort to secure the trade of the outlying farming districts and of the summer residents who tend to buy from the city by mail order. They do this by saving capital through common store-houses, through dividing specialties and thus increasing stock without increasing expenditure, by improving local service through cooperative deliveries, etc.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+        <p>&hellip; formerly the local stores in a small town competed sharply with one another. Now, … they are beginning to join in an effort to secure the trade of the outlying farming districts and of the summer residents who tend to buy from the city by mail order. They do this by saving capital through common store-houses, through dividing specialties and thus increasing stock without increasing expenditure, by improving local service through cooperative deliveries, etc.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
        </div>
       </li>
      </ul>
@@ -291,7 +291,7 @@ image:    "icon-rmedia.svg"
  </div>
 <h2>Promoting</h2>
   <div class='_center'>
-   <table class='_h2table, _center'>
+   <table class='_h2table'>
     <tr>
      <th style='font-size:smaller; '>Content Extraction</th>
      <td>
@@ -343,7 +343,7 @@ image:    "icon-rmedia.svg"
      <th style='font-size:smaller; '><span class="_paradigm">rLIVE</span></th>
      <td>
       <ul>
-       <li>See <span class="_paradigm">rLIVE</span><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>.</li>
+       <li>See <span class="_paradigm">rLIVE</span>.<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></li>
       </ul>
      </td>
     </tr>
@@ -351,7 +351,7 @@ image:    "icon-rmedia.svg"
      <th style='font-size:smaller; '>In-store Promos</th>
      <td>
       <ul>
-       <li>See <span class="_paradigm">rSHELF</span><a href="#en04"><sup id="bm04">4&nbsp;</sup></a>.</li>
+       <li>See <span class="_paradigm">rSHELF</span>.<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a></li>
       </ul>
      </td>
     </tr>
