@@ -1,13 +1,13 @@
- ---
+---
 layout:   post
-title:    "rLIVE"
-subtitle: "Iconoclasts in conversations!"
+title:    "rLive"
+subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-rmedia.svg"
 ---
 
 <div style="display: none;">
- <p>Iconoclasts talking to each about their ideas and experience with alternative systems to what we have today.</p>
+ <p>Iconoclasts talking to each about their ideas and experience with alternative to the Fiat system we have today.</p>
 </div>
 
 <div class="_quotation">
