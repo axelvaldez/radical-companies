@@ -170,10 +170,10 @@ image:    "icon-rmedia.svg"
      <th>Target Audience</th>
     </tr>
     <colgroup>
-     <!--                 --> <col style="font-size:smaller; ">
-     <!-- Duration        --> <col style="font-size:smaller; background-color:#eee; background-color:yellow; ">
-     <!-- What            --> <col style="font-size:smaller; ">
-     <!-- Target Audience --> <col style="font-size:smaller; background-color:#eee; background-color:cyan; ">
+     <!--                 --> <col style="">
+     <!-- Duration        --> <col style="background-color:#eee; ">
+     <!-- What            --> <col style="">
+     <!-- Target Audience --> <col style="background-color:#eee;">
     </colgroup>
     <tr>
      <th>Episode</th>
