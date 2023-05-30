@@ -183,7 +183,7 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
     <td>Live streamed and recorded</td>
-    <td>For co-owners</td>
+    <td>For co-owner-wanna-bes</td>
    </tr>
    <tr>
     <th>Hour</th>
