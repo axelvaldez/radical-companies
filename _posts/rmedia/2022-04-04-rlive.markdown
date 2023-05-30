@@ -176,7 +176,7 @@ image:    "icon-rmedia.svg"
    <table class='_h2table'>
     <colgroup>
      <!--                 --> <col style="">
-     <!-- Duration        --> <col style="background-color:#eee; background-color:cyan; ">
+     <!-- Duration        --> <col style="background-color:#eee; ">
      <!-- What            --> <col style="font-size:smaller; ">
      <!-- Target Audience --> <col style="background-color:#eee;">
     </colgroup>
