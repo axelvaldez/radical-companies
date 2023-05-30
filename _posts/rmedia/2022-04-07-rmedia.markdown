@@ -93,7 +93,7 @@ image:    "icon-rmedia.svg"
  <div class='_center ' style='font-sze:smaller; '>
   <table class='_h2table '>
    <tr>
-    <th>Authors</th>
+    <th style='font-size:smaller; '>Authors</th>
     <td>
      <ul>
       <li>Promotion and exposure of their ideas, of themselves, of their content.</li>
@@ -103,7 +103,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <th>Content Editors, Layout Designers, Developers, Graphics Designers, Media Team, Producers</th>
+    <th style='font-size:smaller; '>Content Editors, Layout Designers, Developers, Graphics Designers, Media Team, Producers</th>
     <td>
      <ul>
       <li>Doing what they love, without paying the <span class="_paradigm">Fiat</span> price.</li>
@@ -113,7 +113,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <th>Translators, Verifiers</th>
+    <th style='font-size:smaller; '>Translators, Verifiers</th>
     <td>
      <ul>
       <li>Learn what is perceived as a contribution.</li>
@@ -122,7 +122,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <th>Marketing</th>
+    <th style='font-size:smaller; '>Marketing</th>
     <td>
      <ul> 
       <li>Learning from the ability to experiment with various media, different messages.</li>
@@ -132,7 +132,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <th>Sales</th>
+    <th style='font-size:smaller; '>Sales</th>
     <td>
      <ul>
       <li>Learning from listening to different types of buyers.</li>
@@ -142,7 +142,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <th>Printers</th>
+    <th style='font-size:smaller; 'th>Printers</th>
     <td>
      <ul>
       <li>Learning to take the friction out of printing books.</li>
@@ -151,7 +151,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <th>Distributors</th>
+    <th style='font-size:smaller; '>Distributors</th>
     <td>
      <ul>
       <li>Learning to take the friction out of book distribution.</li>
@@ -160,7 +160,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <th>Small Bookshops</th>
+    <th style='font-size:smaller; '>Small Bookshops</th>
     <td>
      <ul>
       <li>Learning to become impassionate evangelists, not just book sellers.</li>
@@ -173,7 +173,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <th>Big Book Chains</th>
+    <th style='font-size:smaller; '>Big Book Chains</th>
     <td>
      <ul>
       <li>Be associated with a  unique, easily identifiable brand that belongs to all who contribute.</li>
@@ -271,7 +271,7 @@ image:    "icon-rmedia.svg"
   <div class='_center'>
    <table class='_h2table, _center'>
     <tr>
-     <th>Crowdfunding</th>
+     <th style='font-size:smaller; '>Crowdfunding</th>
      <td>
       <ul>
        <li>Provides the equivalent of an “advance” for co-authors who need the support upfront.</li>
@@ -280,7 +280,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <th><span class="_paradigm">Radical</span> funding</th>
+    <th style='font-size:smaller; '><span class="_paradigm">Radical</span> funding</th>
     <td>
      <ul>
       <li>An advance-as-investment up front for an agreed upon return.</li>
@@ -293,7 +293,7 @@ image:    "icon-rmedia.svg"
   <div class='_center'>
    <table class='_h2table, _center'>
     <tr>
-     <th>Content Extraction</th>
+     <th style='font-size:smaller; '>Content Extraction</th>
      <td>
       <ul>
        <li>Creating extracts of the book for promotional content.</li>
@@ -303,7 +303,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-     <th>Video</th>
+     <th style='font-size:smaller; '>Video</th>
      <td>
       <ul>
        <li>Short videos (<em>e.g.</em>115-second videos).</li>
@@ -313,7 +313,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-     <th>Social Media</th>
+     <th style='font-size:smaller; '>Social Media</th>
      <td>
       <ul>
        <li>Run campaigns on Twitter, LinkedIn, etc.</li>
@@ -322,7 +322,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-    <th>Advertising</th>
+     <tth style='font-size:smaller; 'h>Advertising</th>
      <td>
       <ul>
        <li>For example, KDP ads.</li>
@@ -330,7 +330,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-     <th>Fame to Fortune</th>
+     <th style='font-size:smaller; '>Fame to Fortune</th>
      <td>
       <ul>
        <li>Place authors as keynotes, featured speakers.</li>
@@ -340,7 +340,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-     <th><span class="_paradigm">rLIVE</span></th>
+     <th style='font-size:smaller; '><span class="_paradigm">rLIVE</span></th>
      <td>
       <ul>
        <li>See <span class="_paradigm">rLIVE</span><a href="#en03"><sup id="bm03">3&nbsp;</sup></a>.</li>
@@ -348,7 +348,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-     <th>In-store Promos</th>
+     <th style='font-size:smaller; '>In-store Promos</th>
      <td>
       <ul>
        <li>See <span class="_paradigm">rSHELF</span><a href="#en04"><sup id="bm04">4&nbsp;</sup></a>.</li>
@@ -361,7 +361,7 @@ image:    "icon-rmedia.svg"
   <div class='_center'>
    <table class='_h2table, _center'>
     <tr>
-     <th>Feet on the street</th>
+     <th style='font-size:smaller; '>Feet on the street</th>
      <td>
       <ul>
        <li>Sales to independent book sellers.</li>
@@ -371,9 +371,6 @@ image:    "icon-rmedia.svg"
        <li>Bulk sales to workshops and other venues.</li>
       </ul>
      </td>
-    </tr>
-    <tr>
-     <td class="_spacer">&nbsp;</td>
     </tr>
    </table>
   </div>
