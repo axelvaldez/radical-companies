@@ -172,9 +172,17 @@ image:    "icon-rmedia.svg"
     <colgroup>
      <!--                 --> <col style="">
      <!-- Duration        --> <col style="background-color:#eee; ">
-     <!-- What            --> <col style="font-size:smaller; ">
+     <!-- What            --> <col style="">
      <!-- Target Audience --> <col style="background-color:#eee;">
     </colgroup>
+    <rowgroup>
+     <!-- 1 --> <row style="font-size:smaller; ">
+     <!-- 2 --> <row style="font-size:smaller; ">
+     <!-- 3 --> <row style="font-size:smaller; ">
+     <!-- 4 --> <row style="font-size:smaller; ">
+     <!-- 5 --> <row style="font-size:smaller; ">
+     <!-- 6 --> <row style="font-size:smaller; ">
+    </rowgroup>
     <tr>
      <th style="width:30en; ">Episode</th>
      <td style="width:30en; ">
