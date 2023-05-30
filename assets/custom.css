@@ -191,7 +191,7 @@ footer{
 table._explicitalignment {
   width:80%;
 }
-table._explicitalignment tr:nth-child(2n+1) {
+table._explicitalignment tr:nth-child(1), table._explicitalignment tr:nth-child(3), table._explicitalignment tr:nth-child(5) {
   background-color:#EEEEEE;
   border:0;
   text-align:left;
