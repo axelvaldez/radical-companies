@@ -194,7 +194,6 @@ image:    "icon-rmedia.svg"
 </div>
 
 <h1>From Cradle to Sales</h1>
-
  <h2>Book Preparation</h2>
   <div class='_center'>
    <table class='_h2table'>
@@ -271,7 +270,6 @@ image:    "icon-rmedia.svg"
    At one end, authors could use the help of <span class="_paradigm">rMedia</span>; at the other they could do it themselves using the <span class="_paradigm">rMedia</span> infrastructure. My guess is that they would choose a combination of these. For example, translations work better when the author works in tandem with the translator because the author can, in real time, clarify tricky phrasing, explain idiomatic phrases, or the why of a difficult paragraph.
   </p>
   <p></p>
-
  <h2>Funding</h2>
   <div class='_center'>
    <table class='_h2table'>
@@ -282,20 +280,19 @@ image:    "icon-rmedia.svg"
        <li>Provides the equivalent of an “advance” for co-authors who need the support upfront.</li>
        <li>Used to test the effectiveness of different types of promotions, descriptions, tags, etc.</li>
       </ul>
-    </td>
-   </tr>
-   <tr>
-    <th style='font-size:smaller; '><span class="_paradigm">Radical</span> funding</th>
-    <td>
-     <ul>
-      <li>An advance-as-investment up front for an agreed upon return.</li>
-     </ul>
-    </td>
-   </tr>
-  </table>
- </div>
-
-<h2>Promoting</h2>
+     </td>
+    </tr>
+    <tr>
+     <th style='font-size:smaller; '><span class="_paradigm">Radical</span> funding</th>
+     <td>
+      <ul>
+       <li>An advance-as-investment up front for an agreed upon return.</li>
+      </ul>
+     </td>
+    </tr>
+   </table>
+  </div>
+ <h2>Promoting</h2>
   <div class='_center'>
    <table class='_h2table'>
     <tr>
@@ -363,15 +360,22 @@ image:    "icon-rmedia.svg"
     </tr>
    </table>
   </div>
-
  <h2>Sales</h2>
-  <ul>
-   <li>To independent book sellers.</li>
-   <li>To large booksellers.</li>
-   <li>To airport booksellers.</li>
-   <li>To corporations.</li>
-   <li>To workshops and other venues.</li>
-  </ul>
+  <div class='_center'>
+   <table class='_h2table'>
+    <tr>
+     <td>
+      <ul>
+       <li>To independent book sellers.</li>
+       <li>To large booksellers.</li>
+       <li>To airport booksellers.</li>
+       <li>To corporations.</li>
+       <li>To workshops and other venues.</li>
+      </ul>
+     <td>
+    </tr>
+   </table>
+  </div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
