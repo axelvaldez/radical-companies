@@ -351,7 +351,9 @@ span._paradigm {
   padding-top:10px;
   text-indent:-1em;
   font-style:italic;
+  /*
   font-size:smaller;
+  */
   margin:0 0.5em .5em 10%;
 }
 ._citation #_signature::before {
