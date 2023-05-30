@@ -22,6 +22,7 @@ image:    "icon-rmedia.svg"
  <p>And, worse, the book&rsquo;s message doesn&rsquo;t spread widely.</p>
 
 <h1>Alignment</h1>
+AAA
  <div class="_center">
   <table class="_explicitalignment">
    <tr>
