@@ -37,7 +37,6 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-  </table>
     <td></td>
     <th>Purpose</th>
    </tr>
