@@ -397,7 +397,7 @@ image:    "icon-rmedia.svg"
   <li id="en03">
    <p class="_list-item">
     Matt Perez
-    <em>rLIVE</em>.
+    <em>rLive</em>.
     2021.
     &lt;<a href="https://radicalcompanies.com/2022/08/20/rmedia.html" target="_blank">https://radicalcompanies.com/2022/08/20/rmedia.html</a>&lt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
@@ -406,7 +406,7 @@ image:    "icon-rmedia.svg"
   <li id="en04">
    <p class="_list-item">
     Matt Perez.
-    <em>rSHELF</em>.
+    <em>rShelf</em>.
     2021
     &lt;<a href="https://radicalcompanies.com/2022/04/02/rShelf.html" target="_blank">https://radicalcompanies.com/2022/04/02/rShelf.html</a>&lt;
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
