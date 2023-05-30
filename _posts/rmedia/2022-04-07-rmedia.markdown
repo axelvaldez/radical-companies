@@ -51,7 +51,7 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-   <tr>
+   <tr id="_background">
     <td></td>
     <th>Mission</th>
    </tr>
