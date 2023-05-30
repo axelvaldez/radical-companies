@@ -171,9 +171,9 @@ image:    "icon-rmedia.svg"
     </tr>
     <colgroup>
     <!--                 width:20en; --> <col style="border-right:1px solid black; font-size:smaller; text-align:right; ">
-    <!-- Duration        --> <col style="background-color:#eee;  font-size:smaller;">
+    <!-- Duration        --> <col style="background-color:#eee; background-color:#yellow; font-size:smaller;">
     <!-- What            --> <col style="font-size:smaller; ">
-    <!-- Target Audience --> <col style="background-color:#eee;  font-size:smaller;"> 
+    <!-- Target Audience --> <col style="background-color:#eee; font-size:smaller;"> 
    </colgroup>
    <tr>
     <th>Episode</th>
