@@ -208,13 +208,16 @@ table._explicitalignment tr:nth-child(1),
 table._explicitalignment tr:nth-child(3),
 table._explicitalignment tr:nth-child(5) {
   background-color:#EEEEEE;
-  border-left:white 0px dashed;
-  border-right:white 0px dashed;
 }
 table._explicitalignment tr:nth-child(1) th,
 table._explicitalignment tr:nth-child(3) th,
 table._explicitalignment tr:nth-child(5) th {
   text-align:left;
+}
+table._explicitalignment tr:nth-child(1) td,
+table._explicitalignment tr:nth-child(3) td,
+table._explicitalignment tr:nth-child(5) td {
+  border:0px;
 }
 table._explicitalignment tr:nth-child(2) th,
 table._explicitalignment tr:nth-child(4) th,
