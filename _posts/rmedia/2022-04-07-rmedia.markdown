@@ -198,7 +198,7 @@ image:    "icon-rmedia.svg"
   <div class='_center'>
    <table class='_h2table, _center'>
     <tr>
-     <th>Onboarding</th>
+     <th style='font-size:smaller; '>Onboarding</th>
      <td>
       <ul>
        <li>Teach new authors about the process. Point out that it will take lots of reviewing over and over.</li>
@@ -209,7 +209,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-     <th>Co-Editing</th>
+     <th style='font-size:smaller; '>Co-Editing</th>
      <td>
       <ul>
        <li>With an experienced editor from anywhere in the world.</li>
@@ -217,10 +217,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-     <td class="_spacer">&nbsp;</td>
-    </tr>
-    <tr>
-     <th>Copy Editing</th>
+     <th style='font-size:smaller; '>Copy Editing</th>
      <td>
       <ul>
        <li>With copy editors from anywhere in the world.</li>
@@ -228,10 +225,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-     <td class="_spacer">&nbsp;</td>
-    </tr>
-    <tr>
-     <th>Book Cover Design</th>
+     <th style='font-size:smaller; '>Book Cover Design</th>
      <td>
       <ul>
        <li>With designers from anywhere in the world.</li>
@@ -239,10 +233,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-     <td class="_spacer">&nbsp;</td>
-    </tr>
-    <tr>
-     <th>Book Layout</th>
+     <th style='font-size:smaller; '>Book Layout</th>
      <td>
       <ul>
        <li>With layout book designers  from anywhere in the world.</li>
@@ -250,10 +241,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-     <td class="_spacer">&nbsp;</td>
-    </tr>
-    <tr>
-     <th>Text Formatting</th>
+     <th style='font-size:smaller; '>Text Formatting</th>
      <td>
       <ul>
        <li>With skilled people from anywhere in the world.</li>
@@ -261,10 +249,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-     <td class="_spacer">&nbsp;</td>
-    </tr>
-    <tr>
-     <th>ISBNs</th>
+     <th style='font-size:smaller; '>ISBNs</th>
      <td>
       <ul>
        <li>Acquisition and assignment of ISBN numbers.</li>
@@ -272,18 +257,12 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-     <td class="_spacer">&nbsp;</td>
-    </tr>
-    <tr>
-     <th>Translations</th>
+     <th style='font-size:smaller; '>Translations</th>
      <td>
       <ul>
        <li>With translators from anywhere in the world.</li>
       </ul>
      </td>
-    </tr>
-    <tr>
-     <td class="_spacer">&nbsp;</td>
     </tr>
    </table>
   </div>
