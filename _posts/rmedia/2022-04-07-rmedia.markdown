@@ -196,7 +196,7 @@ image:    "icon-rmedia.svg"
 <h1>From Cradle to Sales</h1>
  <h2>Book Preparation</h2>
   <div class='_center'>
-   <table class='_h2table, _center'>
+   <table class='_h2table'>
     <tr>
      <th style='font-size:smaller; '>Onboarding</th>
      <td>
