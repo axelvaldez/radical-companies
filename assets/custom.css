@@ -201,9 +201,16 @@ table._explicitalignment tr:nth-child(5) {
 table._explicitalignment tr:nth-child(1) th,
 table._explicitalignment tr:nth-child(3) th,
 table._explicitalignment tr:nth-child(5) th {
-  text-align:left;
+  text-align:right;
   border:0;
   color:red;
+}
+table._explicitalignment tr:nth-child(1) td,
+table._explicitalignment tr:nth-child(3) td,
+table._explicitalignment tr:nth-child(5) td {
+  text-align:left;
+  border:0;
+  color:blue;;
 }
 table._explicitalignment tr:nth-child(2) td,
 table._explicitalignment tr:nth-child(4) td,
