@@ -191,16 +191,22 @@ footer{
 table._explicitalignment {
   width:80%;
 }
-table._explicitalignment tr:nth-child(1), table._explicitalignment tr:nth-child(3), table._explicitalignment tr:nth-child(5) {
+table._explicitalignment tr:nth-child(1),
+table._explicitalignment tr:nth-child(3),
+table._explicitalignment tr:nth-child(5) {
   background-color:#EEEEEE;
   border:0;
   text-align:left;
 }
-table._explicitalignment tr:nth-child(2n+1) th {
+table._explicitalignment tr:nth-child(1) th,
+table._explicitalignment tr:nth-child(3) th,
+table._explicitalignment tr:nth-child(4) th {
   text-align:left;
   border:0;
 }
-table._explicitalignment tr:nth-child(2n+1) td {
+table._explicitalignment tr:nth-child(2) td,
+table._explicitalignment tr:nth-child(4) td,
+table._explicitalignment tr:nth-child(6) td {
   text-align:right;
   border:0;
 }
