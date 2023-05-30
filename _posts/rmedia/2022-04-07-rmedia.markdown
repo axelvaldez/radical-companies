@@ -97,7 +97,7 @@ image:    "icon-rmedia.svg"
     <td>
      <ul>
       <li>Promotion and exposure of their ideas, of themselves, of their content.</li>
-      <li>Being an <span class="_paradigm">rMEDIA</span> author (<em>i.e.</em>, progressive, future positive).</li>
+      <li>Being an <span class="_paradigm">rMedia</span> author (<em>i.e.</em>, progressive, future positive).</li>
       <li>Thought leader of a recognized trope.</li>
      </ul>
     </td>
@@ -177,16 +177,16 @@ image:    "icon-rmedia.svg"
     <td>
      <ul>
       <li>Be associated with a  unique, easily identifiable brand that belongs to all who contribute.</li>
-      <li>They&rsquo;ll have to win <span class="_paradigm">rMEDIA</span>&rsquo;s endorsement the <span class="_paradigm">Fiat</span> way. Unless they flip to the  <span class="_paradigm">Radical</span> paradigm.</li>
+      <li>They&rsquo;ll have to win <span class="_paradigm">rMedia</span>&rsquo;s endorsement the <span class="_paradigm">Fiat</span> way. Unless they flip to the  <span class="_paradigm">Radical</span> paradigm.</li>
      </ul>
     </td>
    </tr>
    <tr>
-    <th><span class="_paradigm">rMEDIA</span></th>
+    <th><span class="_paradigm">rMedia</span></th>
     <td>
      <ul>
       <li>A much needed service centered on people to spread healing ideas, create content, and distribute it all far, wide. and fast.</li>
-      <li><span class="_paradigm">rMEDIA</span> becomes a unique, easily recognized brand.</li>
+      <li><span class="_paradigm">rMedia</span> becomes a unique, easily recognized brand.</li>
      </ul>
     </td>
    </tr>
@@ -266,10 +266,12 @@ image:    "icon-rmedia.svg"
     </tr>
    </table>
   </div>
-  <p>At one end, authors could use the help of <span class="_paradigm">rMEDIA</span>; at the other they could do it themselves using the <span class="_paradigm">rMEDIA</span> infrastructure. My guess is that they would choose a combination of these. For example, translations work better when the author works in tandem with the translator because the author can, in real time, clarify tricky phrasing, explain idiomatic phrases, or the why of a difficult paragraph.</p>
+  <p>
+   At one end, authors could use the help of <span class="_paradigm">rMedia</span>; at the other they could do it themselves using the <span class="_paradigm">rMedia</span> infrastructure. My guess is that they would choose a combination of these. For example, translations work better when the author works in tandem with the translator because the author can, in real time, clarify tricky phrasing, explain idiomatic phrases, or the why of a difficult paragraph.
+  </p>
  <h2>Funding</h2>
   <div class='_center'>
-   <table class='_h2table, _center'>
+   <table class='_h2table'>
     <tr>
      <th style='font-size:smaller; '>Crowdfunding</th>
      <td>
@@ -343,7 +345,7 @@ image:    "icon-rmedia.svg"
      <th style='font-size:smaller; '><span class="_paradigm">rLIVE</span></th>
      <td>
       <ul>
-       <li>See <span class="_paradigm">rLIVE</span>.<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></li>
+       <li>See <span class="_paradigm">rLive</span>.<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></li>
       </ul>
      </td>
     </tr>
@@ -351,7 +353,7 @@ image:    "icon-rmedia.svg"
      <th style='font-size:smaller; '>In-store Promos</th>
      <td>
       <ul>
-       <li>See <span class="_paradigm">rSHELF</span>.<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a></li>
+       <li>See <span class="_paradigm">rShelf</span>.<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a></li>
       </ul>
      </td>
     </tr>
@@ -367,7 +369,7 @@ image:    "icon-rmedia.svg"
   </ul>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     <em>Motown Records</em>.
@@ -402,6 +404,6 @@ image:    "icon-rmedia.svg"
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
