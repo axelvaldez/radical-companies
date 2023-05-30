@@ -162,7 +162,7 @@ image:    "icon-rmedia.svg"
 <h1>Distribution Package</h1>
  <p>The  resulting distribution package will include,</p>
   <div class='_center'>
-   <table>
+   <table class='_h2table'>
     <tr style="text-align:center; border-bottom:1px solid black; ">
      <th>&nbsp;</th>
      <th>Duration</th>
