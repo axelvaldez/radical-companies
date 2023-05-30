@@ -322,7 +322,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-     <tth style='font-size:smaller; 'h>Advertising</th>
+     <th style='font-size:smaller; '>Advertising</th>
      <td>
       <ul>
        <li>For example, KDP ads.</li>
@@ -358,22 +358,13 @@ image:    "icon-rmedia.svg"
    </table>
   </div>
  <h2>Sales</h2>
-  <div class='_center'>
-   <table class='_h2table, _center'>
-    <tr>
-     <th style='font-size:smaller; '>Feet on the street</th>
-     <td>
-      <ul>
-       <li>Sales to independent book sellers.</li>
-       <li>Sales to large booksellers.</li>
-       <li>Sales to airport booksellers.</li>
-       <li>Bulk sales to corporations.</li>
-       <li>Bulk sales to workshops and other venues.</li>
-      </ul>
-     </td>
-    </tr>
-   </table>
-  </div>
+  <ul>
+   <li>Sales to independent book sellers.</li>
+   <li>Sales to large booksellers.</li>
+   <li>Sales to airport booksellers.</li>
+   <li>Bulk sales to corporations.</li>
+   <li>Bulk sales to workshops and other venues.</li>
+  </ul>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
