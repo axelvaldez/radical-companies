@@ -372,7 +372,7 @@ image:    "icon-rmedia.svg"
        <li>To corporations.</li>
        <li>To workshops and other venues.</li>
       </ul>
-     <td>
+     </td>
     </tr>
    </table>
   </div>
