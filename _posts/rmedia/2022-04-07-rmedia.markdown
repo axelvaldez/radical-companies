@@ -37,6 +37,8 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
+  </table>
+  <table class="_h2table">
    <tr id="_background">
     <td></td>
     <th>Purpose</th>
@@ -51,6 +53,8 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
+  </table>
+  <table class="_h2table">
    <tr id="_background">
     <td></td>
     <th>Mission</th>
@@ -64,23 +68,18 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
+  </table>
+  <table class="_h2table">
    <tr>
     <th>When?</th>
-    <td>
-     <ul>
-      <li>Become self-sustainable.</li>
-      <li>Organized as a <span class="_paradigm">Radical</span> company.  Everybody who contributes (<em>e.g.</em>, authors, distributors, printers) participates in its ownership and the wealth it generates.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>What?</th>
     <td>
      <ul>
       <li>Within 12 months.</li>
      </ul>
     </td>
    </tr>
+  </table>
+  <table class="_h2table">
    <tr>
     <th>How?</th>
     <td>
