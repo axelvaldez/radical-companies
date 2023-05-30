@@ -7,13 +7,11 @@ image:    "icon-rmedia.svg"
 ---
 
 <div style="display: none;">
- <p>Iconoclasts talking to each about their ideas and experience with alternative to the Fiat system we have today.</p>
+ <p>Iconoclasts talking to each about their ideas and experience with alternative to the <span class='_paradigm'>Fiat</span> system we live in today.</p>
 </div>
 
-<div class="_quotation">
- <p>
-  <span class='_quotespan'>The form of association, which if mankind continue to improve, must be expected in the end to predominate, is not that which can exist between a capitalist as chief, and work-people without a voice in the management, but the association of the labourers themselves on terms of equality, collectively owning the capital with which they carry on their operations.</span>
- </p>
+<div class="_citation">
+ <p>The form of association, which if mankind continue to improve, must be expected in the end to predominate, is not that which can exist between a capitalist as chief, and work-people without a voice in the management, but the association of the labourers themselves on terms of equality, collectively owning the capital with which they carry on their operations.</p>
  <p id='_signature'>John Stuart Mill</p>
 </div>
 
