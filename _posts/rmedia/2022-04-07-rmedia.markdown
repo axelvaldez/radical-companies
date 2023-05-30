@@ -366,11 +366,11 @@ image:    "icon-rmedia.svg"
 
  <h2>Sales</h2>
   <ul>
-   <li>Sales to independent book sellers.</li>
-   <li>Sales to large booksellers.</li>
-   <li>Sales to airport booksellers.</li>
-   <li>Bulk sales to corporations.</li>
-   <li>Bulk sales to workshops and other venues.</li>
+   <li>To independent book sellers.</li>
+   <li>To large booksellers.</li>
+   <li>To airport booksellers.</li>
+   <li>To corporations.</li>
+   <li>To workshops and other venues.</li>
   </ul>
 
 <h1 class="_section">ENDNOTES</h1>
