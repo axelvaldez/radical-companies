@@ -171,7 +171,7 @@ image:    "icon-rmedia.svg"
     </tr>
    </table>
   </div>
-  AAA
+  BBB
   <div class='_center'>
    <table class='_h2table'>
     <colgroup>
@@ -182,13 +182,13 @@ image:    "icon-rmedia.svg"
     </colgroup>
     <tr>
      <th style="width:20en; ">Episode</th>
-     <th style="width:20en; ">
+     <td style="width:20en; ">
       <ul>
        <li>90 min</li>
       </ul>
-     </th>
-     <th style="width:20en; ">Live streamed and recorded</th>
-     <th style="width:20en; ">For co-owner-wanna-bes</th>
+     </td>
+     <td style="width:20en; ">Live streamed and recorded</td>
+     <td style="width:20en; ">For co-owner-wanna-bes</td>
     </tr>
     <tr>
      <th>Hour</th>
