@@ -142,7 +142,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <th style='font-size:smaller; 'th>Printers</th>
+    <th style='font-size:smaller; '>Printers</th>
     <td>
      <ul>
       <li>Learning to take the friction out of printing books.</li>
