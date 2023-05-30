@@ -90,7 +90,7 @@ image:    "icon-rmedia.svg"
 
 <h1>What&rsquo;s in It for&hellip; ?</h1>
  <p>Besides ownership and participation in the generated wealth, this is what people will get,</p>
- <table class='_h2table'>
+ <table class='_h2table, _center'>
   <tr>
    <th>Authors</th>
    <td>
