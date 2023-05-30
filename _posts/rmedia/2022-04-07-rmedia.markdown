@@ -382,7 +382,7 @@ image:    "icon-rmedia.svg"
   <li id="en01">
    <p class="_list-item">
     <em>Motown Records</em>.
-    &lt;<a href="https://www.motownrecords.com/" target="_blank">https://www.motownrecords.com/</a>&lt;
+    &lt;<a href="https://www.motownrecords.com/" target="_blank">https://www.motownrecords.com/</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -390,7 +390,7 @@ image:    "icon-rmedia.svg"
    <p class="_list-item">
     Mary Parker Follet
     <em>Creative Experience</em>.
-    &lt;<a href="https://a.co/7rTNcYl" target="_blank">https://a.co/7rTNcYl</a>&lt;
+    &lt;<a href="https://a.co/7rTNcYl" target="_blank">https://a.co/7rTNcYl</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -399,7 +399,7 @@ image:    "icon-rmedia.svg"
     Matt Perez
     <em>rLive</em>.
     2021.
-    &lt;<a href="https://radicalcompanies.com/2022/08/20/rmedia.html" target="_blank">https://radicalcompanies.com/2022/08/20/rmedia.html</a>&lt;
+    &lt;<a href="https://radicalcompanies.com/2022/08/20/rmedia.html" target="_blank">https://radicalcompanies.com/2022/08/20/rmedia.html</a>&gt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -408,7 +408,7 @@ image:    "icon-rmedia.svg"
     Matt Perez.
     <em>rShelf</em>.
     2021
-    &lt;<a href="https://radicalcompanies.com/2022/04/02/rShelf.html" target="_blank">https://radicalcompanies.com/2022/04/02/rShelf.html</a>&lt;
+    &lt;<a href="https://radicalcompanies.com/2022/04/02/rShelf.html" target="_blank">https://radicalcompanies.com/2022/04/02/rShelf.html</a>&gt;
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
