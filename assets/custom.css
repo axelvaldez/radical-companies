@@ -208,8 +208,8 @@ table._explicitalignment tr:nth-child(1),
 table._explicitalignment tr:nth-child(3),
 table._explicitalignment tr:nth-child(5) {
   background-color:#EEEEEE;
-  border-left:red 0 solid;
-  border-right:red 0 solid;
+  border-left:white 0 solid;
+  border-right:white 0 solid;
 }
 table._explicitalignment tr:nth-child(1) th,
 table._explicitalignment tr:nth-child(3) th,
