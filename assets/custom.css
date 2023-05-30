@@ -191,21 +191,6 @@ footer{
 table._explicitalignment {
   width:80%;
 }
-table._explicitalignment tr:nth-child(1),
-table._explicitalignment tr:nth-child(3),
-table._explicitalignment tr:nth-child(5) {
-  background-color:#EEEEEE;
-}
-table._explicitalignment tr:nth-child(1) th,
-table._explicitalignment tr:nth-child(3) th,
-table._explicitalignment tr:nth-child(5) th {
-  text-align:left;
-}
-table._explicitalignment tr:nth-child(2) td,
-table._explicitalignment tr:nth-child(4) td,
-table._explicitalignment tr:nth-child(6) td {
-  text-align:left;
-}
 table._explicitalignment th {
   vertical-align:text-top;
   padding-right:1em;
@@ -219,6 +204,30 @@ table._explicitalignment td {
   text-align:left;
   border-left:black 1px solid;
 }
+table._explicitalignment tr:nth-child(1),
+table._explicitalignment tr:nth-child(3),
+table._explicitalignment tr:nth-child(5) {
+  background-color:#EEEEEE;
+}
+table._explicitalignment tr:nth-child(1) th,
+table._explicitalignment tr:nth-child(3) th,
+table._explicitalignment tr:nth-child(5) th {
+  text-align:right;
+}
+table._explicitalignment tr:nth-child(2) th,
+table._explicitalignment tr:nth-child(4) th,
+table._explicitalignment tr:nth-child(6) th {
+  text-align:right;
+  font-size:smaller;
+}
+table._explicitalignment tr:nth-child(2) td,
+table._explicitalignment tr:nth-child(4) td,
+table._explicitalignment tr:nth-child(6) td {
+  text-align:left;
+  font-size:smaller;
+}
+
+/**/
 .text-lg-start h1 {
   font-size:60px;
 }
