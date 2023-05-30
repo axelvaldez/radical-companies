@@ -1,4 +1,4 @@
----
+ ---
 layout:   post
 title:    "rLIVE"
 subtitle: "Iconoclasts in conversations!"
@@ -10,83 +10,84 @@ image:    "icon-rmedia.svg"
  <p>Iconoclasts talking to each about their ideas and experience with alternative systems to what we have today.</p>
 </div>
 
-<div style="background-color:beige; font-size:larger; font-family:american typewriter, serif; padding:1em; ">
- <p style="text-align:justify; ">&ldquo;The form of association, which if mankind continue to improve, must be expected in the end to predominate, is not that which can exist between a capitalist as chief, and work-people without a voice in the management, but the association of the labourers themselves on terms of equality, collectively owning the capital with which they carry on their operations&rdquo;</p>
- <p style="text-align:right; padding-right:1em; ">&mdash; John Stuart Mill</p>
+<div class="_quotation">
+ <p>
+  <span class='_quotespan'>The form of association, which if mankind continue to improve, must be expected in the end to predominate, is not that which can exist between a capitalist as chief, and work-people without a voice in the management, but the association of the labourers themselves on terms of equality, collectively owning the capital with which they carry on their operations.</span>
+ </p>
+ <p id='_signature'>John Stuart Mill</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
-<table>
-<tbody style="font-size:smaller; vertical-align:top; ">
- <tr>
-  <td colspan="2" style="font-weight:bold; text-align:center; ">Impact</td>
- </tr>
- <tr>
-  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What for?</td>
-  <td>
-   <ul>
-    <li>To promote RADICAL principles, commitments, and practices.</li>
-   </ul>
-  </td>
- </tr>
- <tr>
-  <td colspan="2" style="font-weight:bold; text-align:center; ">Purpose</td>
- </tr>
- <tr>
-  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Why?</td>
-  <td>
-   <ul>
-    <li>Spread the word about the RADICAL paradigm and make it familiar to people (<em>i.e.</em>, non-threatening).</li>
-    <li>To give everybody the opportunity to reveal their ideal future.</li>
-    <li>To bring together RADICAL-adjacent movements.</li>
-   </ul>
-  </td>
- </tr>
-  <tr>
-   <td colspan="2">&nbsp;</td>
-  </tr>
- <tr>
-  <td colspan="2" style="font-weight:bold; text-align:center; ">Mission</td>
- </tr>
- <tr>
-  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What?</td>
-  <td>
-   <ul>
-    <li>Well known and actively discussed.</li>
-    <li>Asking all guests: what will the work look like in 2045? What will the impact of your effort be on the 2045 world?</li>
-   </ul>
-  </td>
- </tr>
- <tr>
-  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">When?</td>
-  <td>
-   <ul>
-    <li>Every week.</li>
-   </ul>
-  </td>
- </tr>
- <tr>
-  <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">How?</td>
-  <td>
-   <ul>
-    <li>Video podcasts.</li>
-    <li>Audio podcasts.</li>
-    <li>Blog posts.</li>
-    <li>Special events for subscribed folks.</li>
-   </ul>
-  </td>
- </tr>
-</tbody>
-</table>
+<h1>Alignment</h1>
+ <div class='_center'>
+  <table class='_explicitalignment'>
+   <tr>
+    <td></td>
+    <th>Impact</th>
+   </tr>
+   <tr>
+    <th>What for?</th>
+    <td>
+     <ul>
+      <li>To promote RADICAL principles, commitments, and practices.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td></td>
+    <th>Purpose</th>
+   </tr>
+   <tr>
+    <th>Why?</th>
+    <td>
+     <ul>
+      <li>Spread the word about the RADICAL paradigm and make it familiar to people (<em>i.e.</em>, non-threatening).</li>
+      <li>To give everybody the opportunity to reveal their ideal future.</li>
+      <li>To bring together RADICAL-adjacent movements.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td></td>
+    <th>Mission</th>
+   </tr>
+   <tr>
+    <th>What?</th>
+    <td>
+     <ul>
+      <li>Well known and actively discussed.</li>
+      <li>Asking all guests: what will the work look like in 2045? What will the impact of your effort be on the 2045 world?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>When?</th>
+    <td>
+     <ul>
+      <li>Every week.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>How?</th>
+    <td>
+     <ul>
+      <li>Video podcasts.</li>
+      <li>Audio podcasts.</li>
+      <li>Blog posts.</li>
+      <li>Special events for subscribed folks.</li>
+     </ul>
+    </td>
+   </tr>
+  </table>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Format</h1>
+<h1>Format</h1>
  <p>The format is inspired by the HBO series <span style="font-size:smaller; ">ICONOCLAST</span>s which featured &ldquo;an hour of personal conversation and storytelling.&rdquo;<sup id="bm01"><a href="#en01">1</a></sup> There are no &ldquo;hosts&rdquo; or &ldquo;guests,&rdquo; it is simply people talking about their journeys, going against the grain of traditional beliefs and institutions, projecting what the world would be like if they were wildly successful in their efforts.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Modality</h1>
- <table>
-  <tbody style="font-size:smaller; vertical-align:top; ">
+<h1>Modality</h1>
+ <div class='_center'>
+  <table class='_h2table'>
    <tr>
-    <td style="text-align:right; width:10em; font-weight:bold; padding-right:1em; border-right:1px solid black; ">Simple</td>
+    <th>Simple</th>
     <td>
      <ul>
       <li>The RADICALS.LIVE! episodes are online (<em>e.g.</em>,  Zoom, Riff) or in person</li>
@@ -94,11 +95,8 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-  <tr>
-   <td colspan="2">&nbsp;</td>
-  </tr>
    <tr>
-    <td style="text-align:right; width:10em; font-weight:bold; padding-right:1em; border-right:1px solid black; ">In Person</td>
+    <th>In Person</th>
     <td>
      <ul>
       <li>Having the conversation in person. If need be, one <span style="font-size:smaller; ">ICONOCLAST</span>s would travel to the other.</li>
@@ -107,11 +105,8 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-  <tr>
-   <td colspan="2">&nbsp;</td>
-  </tr>
    <tr>
-    <td style="text-align:right; width:10em; font-weight:bold; padding-right:1em; border-right:1px solid black; ">Full Production</td>
+    <th>Full Production</th>
     <td>
      <ul>
       <li>Hire a local videographer to give the <span style="font-size:smaller; ">ICONOCLAST</span>s the ability to walk and move around.</li>
@@ -120,14 +115,14 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-  </tbody>
- </table>
+  </table>
+ </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Costs</h1>
- <table>
-  <tbody style="font-size:smaller; vertical-align:top; ">
+<h1>Costs</h1>
+  <div class='_center'>
+  <table class='_h2table'>
    <tr>
-    <td style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black;">Simple</td>
+    <th>Simple</th>
     <td>
      <ul>
       <li>Green screen.<sup><a href="#bookmark=id.vqnuy2hbs882">3</a></sup></li>
@@ -137,11 +132,8 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-  <tr>
-   <td colspan="2">&nbsp;</td>
-  </tr>
    <tr>
-    <td style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black; ">In Person</td>
+    <th>In Person</th>
     <td>
      <ul>
       <li>Travel for one <span style="font-size:smaller; ">ICONOCLAST</span>s and local videographer.</li>
@@ -150,11 +142,8 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-  <tr>
-   <td colspan="2">&nbsp;</td>
-  </tr>
    <tr>
-    <td style="font-weight:bold; text-align:right; padding-right:1em; border-right:1px solid black; ">Full Production</td>
+    <th>Full Production</th>
     <td>
      <ul>
       <li>Same as In Person, plus another videographer and audio person.</li>
@@ -162,105 +151,90 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-  </tbody>
- </table>
+  </table>
+ </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Launch</h1>
+<h1>Launch</h1>
  <p>We will start by pairing up with the first few guests. These will be people we know, like Doug Kirkpatrick and Chuck Blakeman on the co-management side and Nathan Schneider on the co-ownership side (see <span style="font-size:smaller; ">ICONOCLAST</span>s Candidates).</p>
  <p>We want diverse <span style="font-size:smaller; ">ICONOCLAST</span>ss. It could be an experienced co-management practitioner with a traditional boss. Other things to consider are age, gender, and ethnicity. The point is to create a high contrast that screams &ldquo;this works for everybody, including you, the audience.&rdquo;</p>
  <p>Later, these <span style="font-size:smaller; ">ICONOCLAST</span>ss can recruit other people to record an episode with. We need to make this as frictionless as possible while insisting that the RADICAL message not be diluted. The whole episode could be all about how &ldquo;it won’t work,&rdquo; but the RADICAL message has to be central. Otherwise, the show won’t be published under the brand, although the participants will get the raw material to use as they see fit.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Distribution Package</h1>
-<p>The  resulting distribution package will include,</p>
-<table style="font-size:smaller; ">
- <tbody>
-  <tr style="text-align:center; border-bottom:1px solid black; ">
-   <th>&nbsp;</th>
-   <th>Duration</th>
-   <th>What</th>
-   <th>Target Audience</th>
-  </tr>
- </tbody>
- <colgroup>
-  <col style="width:20en; border-right:1px solid black; font-size:smaller; ">
-  <col style="background-color:#eee; ">
-  <col style="">
-  <col style="background-color:#eee; ">
- </colgroup>
- <tbody style="vertical-align:top; ">
-  <tr>
-   <td style="font-weight:bold; text-align:right; padding-right:1em; ">Episode</td>
-   <td>
-    <ul>
-     <li>90 min</li>
-    </ul>
-   </td>
-   <td>Live streamed and recorded</td>
-   <td>For co-owners</td>
-  </tr>
-  <tr>
-   <td colspan="4" style="font-size:2px; ">&nbsp;</td>
-  </tr>
-  <tr>
-   <td style="font-weight:bold; text-align:right; padding-right:1em; ">Hour</td>
-   <td>
-    <ul>
-     <li>50 min</li>
-    </ul>
-   </td>
-   <td>Edited</td>
-   <td>For general distribution</td>
-  </tr>
-  <tr>
-   <td colspan="4" style="font-size:2px; ">&nbsp;</td>
-  </tr>
-  <tr>
-   <td style="font-weight:bold; text-align:right; padding-right:1em; ">Highlights</td>
-   <td>
-    <ul>
-     <li>30-45 sec</li>
-     <li>1 min</li>
-     <li>5-min</li>
-    </ul>
-   </td>
-   <td>Dramatic, explosive moments</td>
-   <td>For promotion on social media platforms, podcasters, blogs, etc</td>
-  </tr>
-  <tr>
-   <td colspan="4" style="font-size:2px; ">&nbsp;</td>
-  </tr>
-  <tr>
-   <td style="font-weight:bold; text-align:right; padding-right:1em; ">Brief</td>
-   <td>
-    <ul>
-     <li>25 min</li>
-    </ul>
-   </td>
-   <td>A short version of the show</td>
-   <td>For blogs, news articles, etc</td>
-  </tr>
-  <tr>
-   <td colspan="4" style="font-size:2px; ">&nbsp;</td>
-  </tr>
-  <tr>
-   <td style="font-weight:bold; text-align:right; padding-right:1em; ">Outtakes</td>
-   <td>&nbsp;</td>
-   <td>Bloopers and other outtakes</td>
-   <td>For co-owners and promotion</td>
-  </tr>
-  <tr>
-   <td colspan="4" style="font-size:2px; ">&nbsp;</td>
-  </tr>
-  <tr>
-   <td style="font-weight:bold; text-align:right; padding-right:1em; ">Bloposts</td>
-   <td>&nbsp;</td>
-   <td>Podcast summary.</td>
-   <td>For bloggers to cut-and-paste.</td>
-  </tr>
-  <tr>
-   <td colspan="4">&nbsp;</td>
-  </tr>
- </tbody>
+<h1>Distribution Package</h1>
+ <p>The  resulting distribution package will include,</p>
+  <div class='_center'>
+   <table>
+    <tr style="text-align:center; border-bottom:1px solid black; ">
+     <th>&nbsp;</th>
+     <th>Duration</th>
+     <th>What</th>
+     <th>Target Audience</th>
+    </tr>
+    <colgroup>
+    <col style="width:20en; border-right:1px solid black; font-size:smaller; ">
+    <col style="background-color:#eee; ">
+    <col style="">
+    <col style="background-color:#eee; ">
+   </colgroup>
+   <tr>
+    <th>Episode</th>
+    <td>
+     <ul>
+      <li>90 min</li>
+     </ul>
+    </td>
+    <td>Live streamed and recorded</td>
+    <td>For co-owners</td>
+   </tr>
+   <tr>
+    <th>Hour</th>
+    <td>
+     <ul>
+      <li>50 min</li>
+     </ul>
+    </td>
+    <td>Edited</td>
+    <td>For general distribution</td>
+   </tr>
+   <tr>
+    <th>Highlights</th>
+    <td>
+     <ul>
+      <li>30-45 sec</li>
+      <li>1 min</li>
+      <li>5-min</li>
+     </ul>
+    </td>
+    <td>Dramatic, explosive moments</td>
+    <td>For promotion on social media platforms, podcasters, blogs, etc</td>
+   </tr>
+   <tr>
+    <th>Brief</th>
+    <td>
+     <ul>
+      <li>25 min</li>
+     </ul>
+    </td>
+    <td>A short version of the show</td>
+    <td>For blogs, news articles, etc</td>
+   </tr>
+   <tr>
+    <td colspan="4" style="font-size:2px; ">&nbsp;</td>
+   </tr>
+   <tr>
+    <td style="font-weight:bold; text-align:right; padding-right:1em; ">Outtakes</td>
+    <td>&nbsp;</td>
+    <td>Bloopers and other outtakes</td>
+    <td>For co-owners and promotion</td>
+   </tr>
+   <tr>
+    <td colspan="4" style="font-size:2px; ">&nbsp;</td>
+   </tr>
+   <tr>
+    <td style="font-weight:bold; text-align:right; padding-right:1em; ">Bloposts</td>
+    <td>&nbsp;</td>
+    <td>Podcast summary.</td>
+    <td>For bloggers to cut-and-paste.</td>
+   </tr>
 </table>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Roles and Activities</h1>
