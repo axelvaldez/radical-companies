@@ -210,7 +210,7 @@ table._explicitalignment tr:nth-child(4) td,
 table._explicitalignment tr:nth-child(6) td {
   text-align:left;
   border:0;
-  color:blue;
+  color:green;
 }
 table._explicitalignment th {
   vertical-align:text-top;
