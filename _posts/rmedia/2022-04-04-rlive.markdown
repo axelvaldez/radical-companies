@@ -169,6 +169,10 @@ image:    "icon-rmedia.svg"
      <th>What</th>
      <th>Target Audience</th>
     </tr>
+   </table>
+  </div>
+  <div class='_center'>
+   <table class='_h2table'>
     <colgroup>
      <!--                 --> <col style="">
      <!-- Duration        --> <col style="background-color:#eee; background-color:yellow; ">
