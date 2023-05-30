@@ -170,72 +170,73 @@ image:    "icon-rmedia.svg"
      <th>Target Audience</th>
     </tr>
     <colgroup>
-    <!--                 width:20en; --> <col style="border-right:1px solid black; font-size:smaller; text-align:right; ">
-    <!-- Duration        --> <col style="background-color:#eee; background-color:#yellow; font-size:smaller;">
-    <!-- What            --> <col style="font-size:smaller; ">
-    <!-- Target Audience --> <col style="background-color:#eee; font-size:smaller;"> 
-   </colgroup>
-   <tr>
-    <th>Episode</th>
-    <td>
-     <ul>
-      <li>90 min</li>
-     </ul>
-    </td>
-    <td>Live streamed and recorded</td>
-    <td>For co-owner-wanna-bes</td>
-   </tr>
-   <tr>
-    <th>Hour</th>
-    <td>
-     <ul>
-      <li>50 min</li>
-     </ul>
-    </td>
-    <td>Edited</td>
-    <td>For general distribution</td>
-   </tr>
-   <tr>
-    <th>Highlights</th>
-    <td>
-     <ul>
-      <li>30-45 sec</li>
-      <li>1 min</li>
-      <li>5-min</li>
-     </ul>
-    </td>
-    <td>Dramatic, explosive moments</td>
-    <td>For promotion on social media platforms, podcasters, blogs, etc</td>
-   </tr>
-   <tr>
-    <th>Brief</th>
-    <td>
-     <ul>
-      <li>25 min</li>
-     </ul>
-    </td>
-    <td>A short version of the show</td>
-    <td>For blogs, news articles, etc</td>
-   </tr>
-   <tr>
-    <td colspan="4" style="font-size:2px; ">&nbsp;</td>
-   </tr>
-   <tr>
-    <td style="font-weight:bold; text-align:right; padding-right:1em; ">Outtakes</td>
-    <td>&nbsp;</td>
-    <td>Bloopers and other outtakes</td>
-    <td>For co-owners and promotion</td>
-   </tr>
-   <tr>
-    <td colspan="4" style="font-size:2px; ">&nbsp;</td>
-   </tr>
-   <tr>
-    <td style="font-weight:bold; text-align:right; padding-right:1em; ">Bloposts</td>
-    <td>&nbsp;</td>
-    <td>Podcast summary and commentary.</td>
-    <td>For bloggers to cut-and-paste.</td>
-   </tr>
-</table>
+     <!--                 --> <col style="font-size:smaller; background-color:#eee;ound-color:#yellow; border-right:1px solid black; ">
+     <!-- Duration        --> <col style="font-size:smaller; background-color:#eee; background-color:#yellow; ">
+     <!-- What            --> <col style="font-size:smaller; ">
+     <!-- Target Audience --> <col style="font-size:smaller; background-color:#eee; background-color:#cyan; ">
+    </colgroup>
+    <tr>
+     <th>Episode</th>
+     <td>
+      <ul>
+       <li>90 min</li>
+      </ul>
+     </td>
+     <td>Live streamed and recorded</td>
+     <td>For co-owner-wanna-bes</td>
+    </tr>
+    <tr>
+     <th>Hour</th>
+     <td>
+      <ul>
+       <li>50 min</li>
+      </ul>
+     </td>
+     <td>Edited</td>
+     <td>For general distribution</td>
+    </tr>
+    <tr>
+     <th>Highlights</th>
+     <td>
+      <ul>
+       <li>30-45 sec</li>
+       <li>1 min</li>
+       <li>5-min</li>
+      </ul>
+     </td>
+      <td>Dramatic, explosive moments</td>
+     <td>For promotion on social media platforms, podcasters, blogs, etc</td>
+    </tr>
+    <tr>
+     <th>Brief</th>
+     <td>
+      <ul>
+       <li>25 min</li>
+      </ul>
+     </td>
+     <td>A short version of the show</td>
+     <td>For blogs, news articles, etc</td>
+    </tr>
+    <tr>
+     <td colspan="4" style="font-size:2px; ">&nbsp;</td>
+    </tr>
+    <tr>
+     <td style="font-weight:bold; text-align:right; padding-right:1em; ">Outtakes</td>
+     <td>&nbsp;</td>
+     <td>Bloopers and other outtakes</td>
+     <td>For co-owners and promotion</td>
+    </tr>
+    <tr>
+     <td colspan="4" style="font-size:2px; ">&nbsp;</td>
+    </tr>
+    <tr>
+     <td style="font-weight:bold; text-align:right; padding-right:1em; ">Bloposts</td>
+     <td>&nbsp;</td>
+     <td>Podcast summary and commentary.</td>
+     <td>For bloggers to cut-and-paste.</td>
+    </tr>
+   </table>
+  </div>
 
 <h1>Roles and Activities</h1>
  <h2>Direction</h2>
