@@ -210,10 +210,10 @@ table._explicitalignment tr:nth-child(5) {
   background-color:#EEEEEE;
   border:0;
 }
-table._explicitalignment tr:nth-child(1) th,
-table._explicitalignment tr:nth-child(3) th,
-table._explicitalignment tr:nth-child(5) th {
-  text-align:right;
+table._explicitalignment tr:nth-child(1) td,
+table._explicitalignment tr:nth-child(3) td,
+table._explicitalignment tr:nth-child(5) td {
+  text-align:left;
 }
 table._explicitalignment tr:nth-child(2) th,
 table._explicitalignment tr:nth-child(4) th,
