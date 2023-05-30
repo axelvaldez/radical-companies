@@ -144,8 +144,9 @@ image:    "icon-rmedia.svg"
    <tr>
     <th>Full Production</th>
     <td>
+     <p>Same as In Person, plus,</p>
      <ul>
-      <li>Same as In Person, plus another videographer and audio person.</li>
+      <li>Videographer and audio person.</li>
       <li>Equipment rental.</li>
      </ul>
     </td>
