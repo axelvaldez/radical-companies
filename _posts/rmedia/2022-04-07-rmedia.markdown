@@ -165,8 +165,8 @@ image:    "icon-rmedia.svg"
      <ul>
       <li>Learning to become impassionate evangelists, not just book sellers.</li>
       <li>Make more money from the content.
-       <div class="_quotation" style="padding-bottom:2em; margin-bottom:0; ">
-        &hellip; formerly the local stores in a small town competed sharply with one another. Now, … they are beginning to join in an effort to secure the trade of the outlying farming districts and of the summer residents who tend to buy from the city by mail order. They do this by saving capital through common store-houses, through dividing specialties and thus increasing stock without increasing expenditure, by improving local service through cooperative deliveries, etc.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a>
+       <div class="_citation">
+        <p>&hellip; formerly the local stores in a small town competed sharply with one another. Now, … they are beginning to join in an effort to secure the trade of the outlying farming districts and of the summer residents who tend to buy from the city by mail order. They do this by saving capital through common store-houses, through dividing specialties and thus increasing stock without increasing expenditure, by improving local service through cooperative deliveries, etc.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
        </div>
       </li>
      </ul>
