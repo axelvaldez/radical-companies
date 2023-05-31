@@ -312,7 +312,7 @@ image:    "icon-rmedia.svg"
     </tr>
     <tr>
      <th>Post Production</th>
-     <td">All video and audio editing from source recording.</td>
+     <td>All video and audio editing from source recording.</td>
     </tr>
    </table>
   </div>
