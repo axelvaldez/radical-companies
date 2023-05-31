@@ -333,8 +333,8 @@ image:    "icon-rmedia.svg"
  <p>Ideally, we would not learn the habit of giving up our chicken so easily in the first place, but at our workplaces we can certainly replace that terrible habit with the habit of holding on to our chicken.</p>
 
 <div class="_next">
- <span style="float:left; " ><a href="https://radicalcompanies.com/">&lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/">    Next &gt;</a></span>
+ <span style="float:left; " ><a href="https://radicalcompanies.com/2022/04/03/rlive">&lt; Previous</a></span>
+ <span style="float:right; ">                                                            Next &gt;</a></span>
 </div>
 
 {% include related.html %}
