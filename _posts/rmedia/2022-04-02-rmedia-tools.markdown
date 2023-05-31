@@ -52,7 +52,6 @@ image:    "icon-rmedia.svg"
     alt="Three possible configurations for PRADERA READERs. One configuration is a comfortable padded chair within an enclosure. Another would be a cushioned love seath with a thin wall at one end of it. Yet another configuration would be a counter with high chairs."
     title="PRADERA Reader configurations."
    >
-  </p>
 
 <h1>rMBA</h1>
  <div class="_citation">
