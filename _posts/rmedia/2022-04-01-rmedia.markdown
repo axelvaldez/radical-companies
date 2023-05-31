@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "rMEDIA"
-subtitle: "Publishing and Promotion in the RADICAL Model"
+title:    "rMedia"
+subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-rmedia.svg"
 ---
