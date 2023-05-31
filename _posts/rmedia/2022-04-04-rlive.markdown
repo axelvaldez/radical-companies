@@ -237,6 +237,10 @@ image:    "icon-rmedia.svg"
   <p><em>Recording</em> will take two to four hours.</p>
   <div class='_center' style='width:80%; '>
     <table class='_h2table'>
+     <colgroup>
+      <col style="padding-right:1em; border-right:1px solid black; width:25en; ">
+      <col>
+     </colgroup>
      <tr>
       <th>Onboarding</th>
       <td>
@@ -263,6 +267,10 @@ image:    "icon-rmedia.svg"
  <h2>Production</h2>
   <div class='_center' style='width:80%; '>
    <table clas='_h2table'>
+    <colgroup>
+     <col style="padding-right:1em; border-right:1px solid black; width:25en; ">
+     <col>
+    </colgroup>
     <tr>
      <th>Planning</th>
      <td>Includes all preparations before a show for optimal experience,
