@@ -77,7 +77,7 @@ image:    "icon-rmedia.svg"
  </table>
  <table class="_explicitalignment">
   <tr>
-   <th>>When?</td>
+   <th>>When? AAA</td>
    <td>
     <ul>
      <li>TBD</li>
