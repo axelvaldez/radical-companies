@@ -194,7 +194,7 @@ image:    "icon-rmedia.svg"
    src="/assets/img/recruiting-pipeline-default.svg"
    alt="The default recruiting pipeline is divided into academia and industry. Academia divides people by age and industry by years of experience. The recruiting process is a hard wall of interviews and judgements between Academia and Industry. It is a bad experience that leaves even the people who get through it with a bad taste in their mouths."
   >
- <p>The <span class="_paradigm">rPlayGym</span> is a drastically different approach to growing a team. Although it still works with the traditional academia/industry scheme, it changes its relationship to it,</p>
+ <p>The <span class="_paradigm">rPlayGym</span> is a drastically different approach to growing a team. Although it still works with the traditional academia/industry scheme, as it has to, it changes its relationship to it,</p>
  <ul>
   <li>It starts way before the traditional “interview.”</li>
   <li>It spans from home to anywhere/everywhere (virtual).</li>
