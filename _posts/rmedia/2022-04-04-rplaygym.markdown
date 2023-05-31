@@ -307,7 +307,7 @@ image:    "icon-rmedia.svg"
   </ul>
  <p>When you think she's ready, ask her if she's ready to try again, and if so, tell your team.</p>
  <p>If they agree to take her on again, they pick up where the process stopped. If she was disqualified after the Profile interview, then start by having another Profile interview. Ditto if the process was stopped at the Task interview. Of course, the team can decide to skip, say, the Profile and go straight to the Task.</p>
-<h2>Incubator</h1>
+<h2>Incubator</h2>
  <p>This Incubator is for people who is missing a key skill, or doesn&rsquo;t have experienced with a particular technology,</p>
   <ul>
    <li>After the Thumbs, a member of the team tells the candidate about the Skills Incubator.</li>
