@@ -64,7 +64,7 @@ image:    "icon-rmedia.svg"
    </td>
   </tr>
   <tr>
-   <th>>When? BBB</td>
+   <th>>When? BBB</th>
    <td>
     <ul>
      <li>TBD</li>
