@@ -116,11 +116,9 @@ image:    "icon-rmedia.svg"
 
 <h1>Costs</h1>
  <p>The costs of traditional recruiting include,</p>
- <table style="font-size:smaller; margin-bottom:10px; ">
-  <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; width:1.25in; ">
-    <p style="text-align:right; font-weight:bold; ">Capital Investment</p>
-   </td>
+ <table class='_h2table'>
+  <tr>
+   <th>Capital Investment</th>
    <td>
     <ul>
      <li>Commision to Contingency recruiters,</li>
@@ -131,12 +129,7 @@ image:    "icon-rmedia.svg"
    </td>
   </tr>
   <tr>
-   <td style="font-size:7px; ">&nbsp;</td>
-  </tr>
-  <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; ">Opportunity loss</p>
-   </td>
+   <th>Opportunity loss</th>
    <td>
     <ul>
      <li>Not getting out to market when needed.</li>
@@ -146,12 +139,7 @@ image:    "icon-rmedia.svg"
    </td>
   </tr>
   <tr>
-   <td style="font-size:7px; ">&nbsp;</td>
-  </tr>
-  <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; ">Interview frustration</p>
-   </td>
+   <th>Interview frustration</th>
    <td>
     <ul>
      <li>For the candidate: anxiety, surprises, no feedback, pointless trick questions.</li>
@@ -159,16 +147,11 @@ image:    "icon-rmedia.svg"
     </ul>
    </td>
   </tr>
-  <tr>
-   <td style="font-size:7px; ">&nbsp;</td>
-  </tr>
  </table>
  <p>The cost of the <span class="_paradigm">rPlayGym</span> approach is lower, and its results are more effective than those of traditional recruiting.</p>
- <table style="font-size:smaller; margin-bottom:10px; ">
-  <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; width:1.25in; ">
-    <p style="text-align:right; font-weight:bold; ">Capital Investment</p>
-   </td>
+ <table class='_h2table'>
+  <tr>
+   <th>Capital Investment</th>
    <td>
     <ul>
      <li><span class="_paradigm">rPlayGym</span> promotion, marketing.</li>
@@ -178,12 +161,7 @@ image:    "icon-rmedia.svg"
    </td>
   </tr>
   <tr>
-   <td style="font-size:7px; ">&nbsp;</td>
-  </tr>
-  <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; ">Opportunity loss</p>
-   </td>
+   <th>Opportunity loss</th>
    <td>
     <ul>
      <li>Once you have a <span class="_paradigm">rPlayGym</span> in place, it generates people who are well integrated with your teams continuously.</li>
@@ -191,12 +169,7 @@ image:    "icon-rmedia.svg"
    </td>
   </tr>
   <tr>
-   <td style="font-size:7px; ">&nbsp;</td>
-  </tr>
-  <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; ">Interview frustration</p>
-   </td>
+   <th>Interview frustration</th>
    <td>
     <ul>
      <li>N/A</li>
@@ -204,12 +177,7 @@ image:    "icon-rmedia.svg"
    </td>
   </tr>
   <tr>
-   <td style="font-size:7px; ">&nbsp;</td>
-  </tr>
-  <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; "><span class="_paradigm">rPlayGym</span> Benefits</p>
-   </td>
+   <th><span class="_paradigm">rPlayGym</span> Benefits</th>
    <td>
     <ul>
      <li>Mentee: Learns her craft, tech skills, how to set goals, and communication skills. They also learn your culture alongside experienced mentors. If there&rsquo;s no fit, the mentee will be the first to figure it out.</li>
@@ -217,17 +185,15 @@ image:    "icon-rmedia.svg"
     </ul>
    </td>
   </tr>
-  <tr>
-   <td style="font-size:7px; ">&nbsp;</td>
-  </tr>
  </table>
  <p>The <span class="_paradigm">rPlayGym</span> approach is more efficient and lots more effective over the long term. Also, it is more satisfying and enjoyable as a predictable source of growth for people and your company.</p>
 
 <h1>How It Works</h1>
  <p>This is a schematic depiction of the current recruiting pipeline,</p>
- <p style="text-align:center; width:90%; margin:auto; margin-bottom:20px; ">
-  <img src="/assets/img/recruiting-pipeline-default.svg" alt="The default recruiting pipeline is divided into academia and industry. Academia divides people by age and industry by years of experience. The recruiting process is a hard wall of interviews and judgements between Academia and Industry. It is a bad experience that leaves even the people who get through it with a bad taste in their mouths." title="Recruiting Pipeline – Default">
- </p>
+  <img
+   src="/assets/img/recruiting-pipeline-default.svg"
+   alt="The default recruiting pipeline is divided into academia and industry. Academia divides people by age and industry by years of experience. The recruiting process is a hard wall of interviews and judgements between Academia and Industry. It is a bad experience that leaves even the people who get through it with a bad taste in their mouths."
+  >
  <p>The <span class="_paradigm">rPlayGym</span> is a drastically different approach to growing a team. Although it still works with the traditional academia/industry scheme, it changes its relationship to it,</p>
  <ul>
   <li>It starts way before the traditional “interview.”</li>
@@ -235,12 +201,10 @@ image:    "icon-rmedia.svg"
   <li>Everybody learns from everybody.</li>
   <li>It really never ends.</li>
  </ul>
- <p style="text-align:center; width:90%; margin:auto; margin-bottom:20px; ">
   <img
    src="/assets/img/recruiting-pipeline-rplaygym.svg" 
    alt="The rPlayGym is a flow that starts at home and continues through the whole life path. There is no hard wall between 'Academia' and 'Industry.' This is all supported by graduated educational and training programs guided by the 'students' and given by people who know about the subject."
   >
- </p>
  <p>The activities are not only technical and may include many other topics, including mental health, self-care, and holding on to your chicken.</p>
 
 <h1 class="_section">ENDNOTES</h1>
