@@ -191,4 +191,9 @@ image:    "icon-rmedia.svg"
   </li>
  </ul>
 
+<div class="_next">
+ <span style="float:left; " ><a href="https://radicalcompanies.com/">&lt; Previous</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/">    Next &gt;</a></span>
+</div>
+
 {% include related.html %}
