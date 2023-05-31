@@ -1,19 +1,16 @@
 ---
 layout:   post
-title:    "Getting Radical: A New System for Creating Wealth and Meaning"
+title:    "A New System for Creating Wealth and Meaning"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal, Cristina Imre"
-image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg"
+image:    "icon-a-new-system-for-creating-wealth-and-meaning.svg"
 ---
 
 <div style="display:none;">
  <p>&ldquo;<em>Lead with Radicals benefits, rather than Fiat shortcomings.</em>&rdquo;</span></p>
 </div>
 
-<h1>&nbsp;</h1>
- <p> shortcomings.</span> That was Jose&rsquo;s suggestios for future posts. Like this one.</p>
-
-<h1><span class='_paradigm'>Radical</span> Benefits</h1>
+<h1>Non-<span class='_paradigm'>Fiat</span> Benefits</h1>
  <p>The  system.</p>
  <div class="_center">
   <table class="_h2table">
@@ -23,14 +20,14 @@ image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg
    </tr>
    <tr>
     <th>RADs</th>
-    <td>You give <span class='_paradigm'>RAD</span>s to other co-owners, and they give you <span class='_paradigm'>RAD</span>s. The <span class='_paradigm'>RAD</span>s you have determine how much of the wealth the company has created, the earned dividends, you get</td>
+    <td>You give <span class='_paradigm'>RAD</span>s to other co-owners, and they give you <span class='_paradigm'>RAD</span>s. The <span class='_paradigm'>RAD</span>s you have determines how much of the wealth the company you have contributed to and you get a portion as earned dividends.</td>
    </tr>
    <tr>
     <th>Radical Foundation</th>
     <td>
+     <p>The <span class='_paradigm'>Radical Foundation</span> doesn&rsquo;t tell you what to do, but where you are heading,</p>
      <ul>
-      <li>The <span class='_paradigm'>Radical Foundation<//span> doesn&rsquo;t tell you what to do, but where you are heading.</li>
-      <li>Will this decision make the company more or less decentralized?</li>
+      <li>Will this decision make the work we do more or less decentralized?</li>
       <li>Will it make it more or less transparent?</li>
       <li>Will it get in the way of people finding meaning?</li>
       <li>Will it go against a co-owner&rsquo;s sense of beloging?</li>
@@ -42,7 +39,7 @@ image:    "icon-getting-radical-a-new-system-for-creating-wealth-and-meaning.svg
  </div>
 
 <h1> Shortcomings</h1>
- <p>The  system is what surrounds us. It is so all-encompansing that it has become invisible to us, like water to fish.</p>
+ <p>The <span class='_paradigm'>Fiat</span> system is what surrounds us. It is so all-encompansing that it has become invisible to us, like water to fish.</p>
  <div class="_center">
   <table class="_h2table">
    <tr>
