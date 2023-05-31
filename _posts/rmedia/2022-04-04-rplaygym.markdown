@@ -84,50 +84,36 @@ image:    "icon-rmedia.svg"
 
 <h1>Farm Programs</h1>
  <p>This is how the US Major League Baseball ranks a team’s farm program,<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></p>
- <table style="font-size:smaller; margin-bottom:10px; ">
-  <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; width:1.25in; ">
-    <p style="text-align:right; font-weight:bold; ">Player Potential</p>
-   </td>
-   <td style="padding-left:1em; ">
+ <table class='_h2table'>
+  <tr>
+   <th>Player Potential</th>
+   <td>
     <p>Potential trumps production a lot of the time, especially in the lower levels of the minors and with recent draft picks. Skill sets and tools are often a better indication of what kind of player someone will be.</p>
    </td>
   </tr>
   <tr>
-   <td style="font-size:7px; ">&nbsp;</td>
-  </tr>
-  <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; ">Player Talent</p>
+   <td>
+    <p>Player Talent</p>
    </td>
    <td style="padding-left:1em; ">
     <p>As for guys in the higher levels of the minors who are close to breaking through to the big leagues, production and talent are the determining factors. These players are viewed as well rounded.</p>
    </td>
   </tr>
   <tr>
-   <td style="font-size:7px; ">&nbsp;</td>
-  </tr>
-  <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; ">Team Depth</p>
+   <td>
+    <p>Team Depth</p>
    </td>
    <td style="padding-left:1em; ">
     <p>Having one or two elite prospects is great, but a deep farm system is the way to build a sustainable contender. Depth and talent were the biggest factors in ranking each team.</p>
    </td>
   </tr>
   <tr>
-   <td style="font-size:7px; ">&nbsp;</td>
-  </tr>
-  <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; ">Team High-End Talent</p>
+   <td>
+    <p>Team High-End Talent</p>
    </td>
-   <td style="padding-left:1em; ">
+   <td>
     <p>That being said, there is a difference between a prospect who could make an impact at the big league level and a prospect who could be a star. High-end talent served as a tiebreaker of sorts when two teams were close in the rankings.</p>
    </td>
-  </tr>
-  <tr>
-   <td style="font-size:7px; ">&nbsp;</td>
   </tr>
  </table>
  <p>In a rPlayGym you can see each person’s potential, depth, and talent in action. By comparison, the typical interview only helps you see who’s good at interviewing and it says very little about how that person is going to help her team perform.</p>
