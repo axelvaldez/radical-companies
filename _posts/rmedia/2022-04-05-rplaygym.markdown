@@ -15,30 +15,26 @@ image:    "icon-rmedia.svg"
  <p>When confronted with a “seller’s market,” desperation sets in and the whole thing turns into a search for “bodies.” A lot of people are hired who never match their teams and it gets very painful on all sides. This approach, too, is wasteful as well.</p>
  <p>The rPlayGym approach is to <em>help teams grow by helping people grow</em>.<sup id="id01"><a href="#en01">1</a></sup> The strength of a team is in how people complement each other with their whole person, not just with their technical skills. Think of it as the moral equivalent of <em>Moneyball</em> <sup id="id02"><a href="#en02">2</a></sup> for tech teams.</p>
 
-<h1>Alignment</h1>
- <table style="font-size:smaller; margin-bottom:10px; ">
-  <tr style="vertical-align:text-top; ">
-   <td style="padding-right:1em; width:1.25in; ">
-    <p style="text-align:middle; font-weight:bold; font-size:larger; ">Impact</p>
-   </td>
-   <td style="font-size:7px; ">&nbsp;</td>
+<h1>Explicit Alignment</h1>
+ <table class="_explicitalignment">
+  <tr>
+   <td></td>
+   <th>Impact</th>
   </tr>
-  <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; text-align:right; padding-right:1em; ">What for?</td>
+  <tr>
+   <th>What for?</th>
    <td>
     <ul>
      <li>People and companies can grow consistently.</li>
     </ul>
    </td>
   </tr>
-  <tr style="vertical-align:text-top; ">
-   <td style="padding-right:1em; ">
-    <p style="text-align:middle; font-weight:bold; font-size:larger; ">Purpose</p>
-   </td>
-   <td style="font-size:7px; ">&nbsp;</td>
+  <tr>
+   <th>Purpose</th>
+  </td>
   </tr>
-  <tr style="vertical-align:text-top; ">
-   <td style="border-right:1px solid black; text-align:right; padding-right:1em; ">Why?</td>
+  <tr>
+   <th>Why?</th>
    <td>
     <ul>
      <li>People learn to steer their own lives and they don't end up as indentured workers.</li>
@@ -46,30 +42,27 @@ image:    "icon-rmedia.svg"
     </ul>
    </td>
   </tr>
-  <tr style="vertical-align:text-top; ">
-   <td style="padding-right:1em; ">
-    <p style="text-align:middle; font-weight:bold; font-size:larger; ">Mission</p>
-   </td>
-   <td style="font-size:7px; ">&nbsp;</td>
+  <tr>
+   <td></td>
+   <th>Mission</th>
   </tr>
-  <tr style="vertical-align:text-top; padding-right:1em; ">
-   <td style="border-right:1px solid black; text-align:right; padding-right:1em; ">What?</td>
+  <tr>
+   <th>What?</th>
    <td>
     <ul>
      <li>Launch three rPlayGyms in 18 months.</li>
     </ul>
    </td>
   </tr>
-  <tr style="vertical-align:text-top; padding-right:1em; ">
-   <td style="border-right:1px solid black; text-align:right; padding-right:1em; ">How?</td>
+  <tr>
+   <th>How?</th>
    <td>
     <ul>
      <li>Companies co-own rPlayGym and collaborate with other companies.</li>
     </ul>
    </td>
   </tr>
-  <tr style="vertical-align:text-top; padding-right:1ex; ">
-   <td style="border-right:1px solid black; text-align:right; padding-right:1em; ">When?</td>
+   <th>>When?</td>
    <td>
     <ul>
      <li>TBD</li>
