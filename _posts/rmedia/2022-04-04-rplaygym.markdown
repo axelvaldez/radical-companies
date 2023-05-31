@@ -13,7 +13,7 @@ image:    "icon-rmedia.svg"
 <h1>Intro</h1>
  <p>The way most recruiting happens today is inefficient and ineffective; it does not work as well as it should. Businesses waste a huge amount of time and effort looking for people who magically fit their needs or, worse, they look for unicorns. But the “perfect fit” is an expensive fantasy.</p>
  <p>When confronted with a “seller&rsquo;s market,” desperation sets in and the whole thing turns into a search for “bodies.” A lot of people are hired who never match their teams and it gets very painful on all sides. This approach, too, is wasteful as well.</p>
- <p>The rPlayGym approach is to <em>help teams grow by helping people grow</em>.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> The strength of a team is in how people complement each other with their whole person, not just with their technical skills. Think of it as the moral equivalent of <em>Moneyball</em> <a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> for tech teams.</p>
+ <p>The <span class="_paradigm">rPlayGym</span> approach is to <em>help teams grow by helping people grow</em>.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> The strength of a team is in how people complement each other with their whole person, not just with their technical skills. Think of it as the moral equivalent of <em>Moneyball</em> <a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> for tech teams.</p>
 
 <h1>Explicit Alignment</h1>
 <div class='_center'>
@@ -51,7 +51,7 @@ image:    "icon-rmedia.svg"
    <th>What?</th>
    <td>
     <ul>
-     <li>Launch three rPlayGyms in 18 months.</li>
+     <li>Launch three <span class="_paradigm">rPlayGym</span>s in 18 months.</li>
     </ul>
    </td>
   </tr>
@@ -59,7 +59,7 @@ image:    "icon-rmedia.svg"
    <th>How?</th>
    <td>
     <ul>
-     <li>Companies co-own rPlayGym and collaborate with other companies.</li>
+     <li>Companies co-own <span class="_paradigm">rPlayGym</span> and collaborate with other companies.</li>
     </ul>
    </td>
   </tr>
@@ -76,7 +76,7 @@ image:    "icon-rmedia.svg"
 
 <h1>Origin Story</h1>
  <p>Tech businesses do a pretty bad job of hiring. Even when a few people recognize the shortcomings of the current system, they are locked into a system that punishes them for drawing outside the lines.</p>
- <p>By contrast, professional sports teams have a multi-level “farm” system. It starts with youth training programs and continues all the way to the major leagues. The rPlayGym is the equivalent of a farm circuit for tech businesses.</p>
+ <p>By contrast, professional sports teams have a multi-level “farm” system. It starts with youth training programs and continues all the way to the major leagues. The <span class="_paradigm">rPlayGym</span> is the equivalent of a farm circuit for tech businesses.</p>
 
 <h1>Description</h1>
  <p>Tech “unicorns,” “10x engineers,” or whatever you call them are hard to find and expensive to keep. You put caviar on golden hooks and still there is no catch, just nibbles. And if you catch one, a bigger boat comes along and snatches it away.</p>
@@ -163,7 +163,7 @@ image:    "icon-rmedia.svg"
    <td style="font-size:7px; ">&nbsp;</td>
   </tr>
  </table>
- <p>The cost of the rPlayGym approach is lower, and its results are more effective than those of traditional recruiting.</p>
+ <p>The cost of the <span class="_paradigm">rPlayGym</span> approach is lower, and its results are more effective than those of traditional recruiting.</p>
  <table style="font-size:smaller; margin-bottom:10px; ">
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; width:1.25in; ">
@@ -171,7 +171,7 @@ image:    "icon-rmedia.svg"
    </td>
    <td>
     <ul>
-     <li>rPlayGym promotion, marketing.</li>
+     <li><span class="_paradigm">rPlayGym</span> promotion, marketing.</li>
      <li>Mentee salary and benefits.</li>
      <li>Mentors&rsquo; time.</li>
     </ul>
@@ -186,7 +186,7 @@ image:    "icon-rmedia.svg"
    </td>
    <td>
     <ul>
-     <li>Once you have a rPlayGym in place, it generates people who are well integrated with your teams continuously.</li>
+     <li>Once you have a <span class="_paradigm">rPlayGym</span> in place, it generates people who are well integrated with your teams continuously.</li>
     </ul>
    </td>
   </tr>
@@ -208,7 +208,7 @@ image:    "icon-rmedia.svg"
   </tr>
   <tr style="vertical-align:text-top; ">
    <td style="border-right:1px solid black; padding-right:1em; ">
-    <p style="text-align:right; font-weight:bold; ">rPlayGym Benefits</p>
+    <p style="text-align:right; font-weight:bold; "><span class="_paradigm">rPlayGym</span> Benefits</p>
    </td>
    <td>
     <ul>
@@ -221,14 +221,14 @@ image:    "icon-rmedia.svg"
    <td style="font-size:7px; ">&nbsp;</td>
   </tr>
  </table>
- <p>The rPlayGym approach is more efficient and lots more effective over the long term. Also, it is more satisfying and enjoyable as a predictable source of growth for people and your company.</p>
+ <p>The <span class="_paradigm">rPlayGym</span> approach is more efficient and lots more effective over the long term. Also, it is more satisfying and enjoyable as a predictable source of growth for people and your company.</p>
 
 <h1>How It Works</h1>
  <p>This is a schematic depiction of the current recruiting pipeline,</p>
  <p style="text-align:center; width:90%; margin:auto; margin-bottom:20px; ">
   <img src="/assets/img/recruiting-pipeline-default.svg" alt="The default recruiting pipeline is divided into academia and industry. Academia divides people by age and industry by years of experience. The recruiting process is a hard wall of interviews and judgements between Academia and Industry. It is a bad experience that leaves even the people who get through it with a bad taste in their mouths." title="Recruiting Pipeline – Default">
  </p>
- <p>The rPlayGym is a drastically different approach to growing a team. Although it still works with the traditional academia/industry scheme, it changes its relationship to it,</p>
+ <p>The <span class="_paradigm">rPlayGym</span> is a drastically different approach to growing a team. Although it still works with the traditional academia/industry scheme, it changes its relationship to it,</p>
  <ul>
   <li>It starts way before the traditional “interview.”</li>
   <li>It spans from home to anywhere/everywhere (virtual).</li>
@@ -236,8 +236,11 @@ image:    "icon-rmedia.svg"
   <li>It really never ends.</li>
  </ul>
  <p style="text-align:center; width:90%; margin:auto; margin-bottom:20px; ">
-   <img src="/assets/img/recruiting-pipeline-rplaygym.svg" alt="The rPlayGym is a flow that starts at home and continues through the whole life path. There is no hard wall between 'Academia' and 'Industry.' This is all supported by graduated educational and training programs guided by the 'students' and given by people who know about the subject." title="Recruiting Pipeline - rPlayGym">
-  </p>
+  <img
+   src="/assets/img/recruiting-pipeline-rplaygym.svg" 
+   alt="The rPlayGym is a flow that starts at home and continues through the whole life path. There is no hard wall between 'Academia' and 'Industry.' This is all supported by graduated educational and training programs guided by the 'students' and given by people who know about the subject."
+  >
+ </p>
  <p>The activities are not only technical and may include many other topics, including mental health, self-care, and holding on to your chicken.</p>
 
 <h1 class="_section">ENDNOTES</h1>
