@@ -16,6 +16,7 @@ image:    "icon-rmedia.svg"
  <p>The rPlayGym approach is to <em>help teams grow by helping people grow</em>.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> The strength of a team is in how people complement each other with their whole person, not just with their technical skills. Think of it as the moral equivalent of <em>Moneyball</em> <a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> for tech teams.</p>
 
 <h1>Explicit Alignment</h1>
+<div class='_center'>
  <table class="_explicitalignment">
   <tr>
    <td></td>
@@ -71,6 +72,7 @@ image:    "icon-rmedia.svg"
    </td>
   </tr>
  </table>
+</div>
 
 <h1>Origin Story</h1>
  <p>Tech businesses do a pretty bad job of hiring. Even when a few people recognize the shortcomings of the current system, they are locked into a system that punishes them for drawing outside the lines.</p>
