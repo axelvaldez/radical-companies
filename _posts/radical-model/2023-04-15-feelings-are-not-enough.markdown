@@ -14,7 +14,7 @@ image:    "icon-feelings-are-not-enough.svg"
  <p>Your feelings are never reflected in the world, your relationships are. You can relate to the world outside your head only through your relationships. Relationships with people. Sometime via things,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> but ultimately with people. That is how you get out of your head, that is what guides your actions.</p>
 
 <h1>Selective Listening</h1>
- <p>Of all the things that you say and do, people will select what resonate with them, what brings up feelings in them\. The relationship is based on what you say <em>and what they hear</em>. The stuff in the middle is what the relationship is based on.</p>
+ <p>Of all the things that you say and do, people will select what resonate with them, what brings up feelings in them. The relationship is based on what you say <em>and what they hear</em>. The stuff in the middle is what the relationship is based on.</p>
  <p>Relationships make your feelings <em>meaningful</em> to the world. They reshape your feelings. They make them bigger or narrower. They change your ideology: it gets broader and more encompassing or narrower and more provincial.</p>
  <p>This changes the way you perceive; it may make you more open, or more fearful and defensive. They influence people&rsquo;s drive to belong to this group or that.</p>
 
