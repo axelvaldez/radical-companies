@@ -348,6 +348,11 @@ image:    "icon-rmedia.svg"
   </table>
  </div>
 
+<div class="_next">
+ <span style="float:left; " ><a href="https://radicalcompanies.com/2022/04/02/rmedia-tools">&lt; Previous</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/04/04/rplaygym">        Next &gt;</a></span>
+</div>
+
 <h1 class="_section">ENDNOTES</h1>
  <ul style="font-size:smaller; ">
   <li id="en01">
@@ -361,10 +366,5 @@ image:    "icon-rmedia.svg"
    </p>
   </li>
  </ul>
-
-<div class="_next">
- <span style="float:left; " ><a href="https://radicalcompanies.com/2022/04/02/rmedia-tools">&lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2022/04/04/rplaygym">        Next &gt;</a></span>
-</div>
 
 {% include related.html %}
