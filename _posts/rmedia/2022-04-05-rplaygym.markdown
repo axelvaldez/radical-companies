@@ -10,12 +10,12 @@ image:    "icon-rmedia.svg"
  <p>The strength of a team is in how people complement each other with their whole person, not just with their technical skills. Think of it as the moral equivalent of <em>Moneyball</em> for tech teams.</p>
 </div>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Intro</h1>
+<h1>Intro</h1>
  <p>The way most recruiting happens today is inefficient and ineffective; it does not work as well as it should. Businesses waste a huge amount of time and effort looking for people who magically fit their needs or, worse, they look for unicorns. But the “perfect fit” is an expensive fantasy.</p>
  <p>When confronted with a “seller’s market,” desperation sets in and the whole thing turns into a search for “bodies.” A lot of people are hired who never match their teams and it gets very painful on all sides. This approach, too, is wasteful as well.</p>
  <p>The rPlayGym approach is to <em>help teams grow by helping people grow</em>.<sup id="id01"><a href="#en01">1</a></sup> The strength of a team is in how people complement each other with their whole person, not just with their technical skills. Think of it as the moral equivalent of <em>Moneyball</em> <sup id="id02"><a href="#en02">2</a></sup> for tech teams.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Alignment</h1>
+<h1>Alignment</h1>
  <table style="font-size:smaller; margin-bottom:10px; ">
   <tr style="vertical-align:text-top; ">
    <td style="padding-right:1em; width:1.25in; ">
@@ -78,15 +78,15 @@ image:    "icon-rmedia.svg"
   </tr>
  </table>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Origin Story</h1>
+<h1>Origin Story</h1>
  <p>Tech businesses do a pretty bad job of hiring. Even when a few people recognize the shortcomings of the current system, they are locked into a system that punishes them for drawing outside the lines.</p>
  <p>By contrast, professional sports teams have a multi-level “farm” system. It starts with youth training programs and continues all the way to the major leagues. The rPlayGym is the equivalent of a farm circuit for tech businesses.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Description</h1>
+<h1>Description</h1>
  <p>Tech “unicorns,” “10x engineers,” or whatever you call them are hard to find and expensive to keep. You put caviar on golden hooks and still there is no catch, just nibbles. And if you catch one, a bigger boat comes along and snatches it away.</p>
  <p>Instead, go fish where the fish are abundant and help them grow. Nurturing them is less expensive, more predictable, and less frustrating. It is also more satisfying and it works at scale: a small business can do it as well as a giant one.
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Farm Programs</h1>
+<h1>Farm Programs</h1>
  <p>This is how the US Major League Baseball ranks a team’s farm program,<sup id="id03"><a href="#en03">3</a></sup></p>
  <table style="font-size:smaller; margin-bottom:10px; ">
   <tr style="vertical-align:text-top; ">
@@ -136,7 +136,7 @@ image:    "icon-rmedia.svg"
  </table>
  <p>In a rPlayGym you can see each person’s potential, depth, and talent in action. By comparison, the typical interview only helps you see who’s good at interviewing and it says very little about how that person is going to help her team perform.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">Costs</h1>
+<h1>Costs</h1>
  <p>The costs of traditional recruiting include,</p>
  <table style="font-size:smaller; margin-bottom:10px; ">
   <tr style="vertical-align:text-top; ">
@@ -245,7 +245,7 @@ image:    "icon-rmedia.svg"
  </table>
  <p>The rPlayGym approach is more efficient and lots more effective over the long term. Also, it is more satisfying and enjoyable as a predictable source of growth for people and your company.</p>
 
-<h1 style="font-size:40px; font-family:Courier New, monospace; ">How It Works</h1>
+<h1>How It Works</h1>
  <p>This is a schematic depiction of the current recruiting pipeline,</p>
  <p style="text-align:center; width:90%; margin:auto; margin-bottom:20px; ">
   <img src="/assets/img/recruiting-pipeline-default.svg" alt="The default recruiting pipeline is divided into academia and industry. Academia divides people by age and industry by years of experience. The recruiting process is a hard wall of interviews and judgements between Academia and Industry. It is a bad experience that leaves even the people who get through it with a bad taste in their mouths." title="Recruiting Pipeline – Default">
@@ -262,11 +262,44 @@ image:    "icon-rmedia.svg"
   </p>
  <p>The activities are not only technical and may include many other topics, including mental health, self-care, and holding on to your chicken.</p>
 
-<h1 style="font-size:50px; font-family:Courier New, monospace; text-align:center; margin: 60 0 20 0; ">ENDNOTES<h1>
- <h6 id="en01">1. 	<a href="#id01">n</a> So-called “10x developers,” “super leads,” “genius developers,” etc.</h6>
- <h6 id="en02">2. 	<a href="#id02">n</a> For more information, see Moneyball &lt;<a href="https://radicals.world/oQmxC7">https://radicals.world/oQmxC7</a>></h6>
- <h6 id="en03">3. 	<a href="#id03">n</a> MLB Farm System Ranking Factors &lt;<a href="https://radicals.world/ATiAcH">https://radicals.world/ATiAcH</a>> (alt., <a href="https://diigo.com/0jwkj3">https://diigo.com/0jwkj3</a>).</h6>
- <h6 id="en04">4. 	<a href="#id04">n</a> Kimberly Wiefling’s profile, &lt;<a href="https://radicals.world/zHL0lt">https://radicals.world/zHL0lt</a>></h6>
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    So-called “10x developers,” “super leads,” “genius developers,” etc.
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    Moneyball.
+    &lt;<a href="https://radicals.world/oQmxC7">https://radicals.world/oQmxC7</a>>&gt;
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    MLB Farm System Ranking Factors
+    &lt;<a href="https://radicals.world/ATiAcH">https://radicals.world/ATiAcH</a>>\&gt;
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item">
+    MLB Farm System Ranking Factors
+    &lt;<a href="https://radicals.world/ATiAcH">https://radicals.world/ATiAcH</a>&gt;
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en05">
+   <p class="_list-item">
+    Kimberly Wiefling
+  &lt;<a href="https://radicals.world/zHL0lt">https://radicals.world/zHL0lt</a>&gt;
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  &lt;<a href="https://radicals.world/zHL0lt">https://radicals.world/zHL0lt</a>&gt;
+ </ul>
 
 <h1 class="_section">APPENDICES</h1>
 <h2 style="font-size:30px; font-family:Courier New, monospace; ">Recruiting</h1>
