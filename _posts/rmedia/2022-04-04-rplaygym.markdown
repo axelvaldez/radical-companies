@@ -30,8 +30,8 @@ image:    "icon-rmedia.svg"
    </td>
   </tr>
   <tr>
+   <td></td>
    <th>Purpose</th>
-  </td>
   </tr>
   <tr>
    <th>Why?</th>
