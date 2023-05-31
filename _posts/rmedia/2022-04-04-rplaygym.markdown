@@ -55,7 +55,7 @@ image:    "icon-rmedia.svg"
    </td>
   </tr>
   <tr>
-   <th>How?</th>
+   <td>How?</td>
    <td>
     <ul>
      <li>Companies co-own rPlayGym and collaborate with other companies.</li>
