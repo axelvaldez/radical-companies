@@ -247,7 +247,7 @@ image:    "icon-rmedia.svg"
  </ul>
 
 <h1 class="_section">APPENDICES</h1>
-<h2>Recruiting</h1>
+<h2>Recruiting</h2>
  <ul>
   <li>From the moment a candidate voices an interest in joining the team, think of her as already in your team.</li>
   <li>You are not looking for ways to reject this candidate. Your job is to evaluate at what stage the candidate is in, figure out if you can help her grow, and then make a decision to hire or not.</li>
@@ -298,7 +298,7 @@ image:    "icon-rmedia.svg"
    <li>Tell rejected candidates exactly why you decided against hiring.</li>
    <li>Include very specific recommendations for how to close any gaps you found.</li>
   </ol>
-<h2>Office Hours</h1>
+<h2>Office Hours</h2>
  <p>Offer rejected candidates the opprtunity to join you for Office Hours. For example, you could commit to doing two sessions per week, one hour each.</p>
  <p>During these sessions,</p>
   <ul>
@@ -326,9 +326,9 @@ image:    "icon-rmedia.svg"
    <li>The Power Up program leverages the experience a developer has gained to deliver the equivalent of one year experience in a few weeks. Shifting to a new paradigm will take longer (<em>e.g.</em>, from object oriented to functional).</li>
    <li>A kickoff Power Up program covers the basics, but the rest would come in follow up workshops and production work.</li>
   </ul>
-<h2>People Development</h1>
+<h2>People Development</h2>
  <p>TBD</p>
-<h2>Holding on to Your Chicken</h1>
+<h2>Holding on to Your Chicken</h2>
  <p>The “chicken” comes from an illustration that Kimberly Wiefling<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a> uses in her workshops where she holds a rubber chicken up over her head, let go of it, and let it fall to the floor. Then she asks, “what happened to the chicken?” The responses are usually all over the place, but every so often a small voice says, “… because you let it go of it?” And that&rsquo;s the point: you let go of your power, your essence, to others. And those more powerful than you grab it as soon as you let go of it.</p>
  <p>We learn this habit at home, when we are little. We let our caretakers guide our chickens as they teach us the basics of staying alive. Once we enter school, most of our teachers, unfortunately, take our chickens from us outright. “You must learn discipline,” they tell us, “and I&rsquo;ll tell you how to behave.” Throughout school we learn that obedience comes first: if we don&rsquo;t please the teacher, we don&rsquo;t get the sticker, or, worse, we are sent to the Principal&rsquo;s office. Finally, we reach college, but by then the habit is deeply ingrained. Undergraduates are like high\2011schoolers with a bit more freedom outside of school, but in school it is a game of pleasing the professor and getting good grades. Grad students are often referred to as “slave labor” for their supervisors. By the time we start to work, we are fully conditioned to hand our chickens to our superiors, “Where do I sit? What team am I in? What do you want me to do, boss?”We have to grow out of the habit of letting go of our chicken. We need to learn to hold on to it. In fact, we can make companies better all around by holding on to our chicken. We can collaborate more openly, experiment more, innovate more, come up with outside-the-box solutions more often. We can bring our full selves to work, take off our masks, and stop holding back. We can bring real value as we create with others.</p>
  <p>Ideally, we would not learn the habit of giving up our chicken so easily in the first place, but at our workplaces we can certainly replace that terrible habit with the habit of holding on to our chicken.</p>
