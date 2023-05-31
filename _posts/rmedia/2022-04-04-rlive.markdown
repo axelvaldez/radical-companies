@@ -175,14 +175,6 @@ image:    "icon-rmedia.svg"
      <!-- What            --> <col style="">
      <!-- Target Audience --> <col style="background-color:#eee;">
     </colgroup>
-    <rowgroup>
-     <!-- 1 --> <row style="font-size:smaller; ">
-     <!-- 2 --> <row style="font-size:smaller; ">
-     <!-- 3 --> <row style="font-size:smaller; ">
-     <!-- 4 --> <row style="font-size:smaller; ">
-     <!-- 5 --> <row style="font-size:smaller; ">
-     <!-- 6 --> <row style="font-size:smaller; ">
-    </rowgroup>
     <tr>
      <th style="width:30en; ">Episode</th>
      <td style="width:30en; ">
@@ -226,16 +218,10 @@ image:    "icon-rmedia.svg"
      <td>For blogs, news articles, etc</td>
     </tr>
     <tr>
-     <td colspan="4" style="font-size:2px; ">&nbsp;</td>
-    </tr>
-    <tr>
      <th>Outtakes</th>
      <td>&nbsp;</td>
      <td>Bloopers and other outtakes</td>
      <td>For co-owners and promotion</td>
-    </tr>
-    <tr>
-     <td colspan="4" style="font-size:2px; ">&nbsp;</td>
     </tr>
     <tr>
      <th>Bloposts</th>
