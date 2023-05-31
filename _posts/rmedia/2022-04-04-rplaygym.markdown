@@ -318,7 +318,7 @@ image:    "icon-rmedia.svg"
    <li>Assign a mentor.</li>
    <li>The mentor's job is to check with the candidate about her progress, any questions she may have, any topic the mentor feels she needs help with.</li>
   </ul>
-<h2>Power Up</h1>
+<h2>Power Up</h2>
  <p>This program is for members who want to learn a new skill or a new stack,</p>
   <ul>
    <li>For example, an Android developer wants to learn iOS or a C++ developer realizes she needs to learn a functional language.</li>
