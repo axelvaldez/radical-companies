@@ -239,11 +239,10 @@ image:    "icon-rmedia.svg"
   <li id="en05">
    <p class="_list-item">
     Kimberly Wiefling
-  &lt;<a href="https://radicals.world/zHL0lt">https://radicals.world/zHL0lt</a>&gt;
+    &lt;<a href="https://radicals.world/zHL0lt">https://radicals.world/zHL0lt</a>&gt;
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  &lt;<a href="https://radicals.world/zHL0lt">https://radicals.world/zHL0lt</a>&gt;
  </ul>
 
 <h1 class="_section">APPENDICES</h1>
