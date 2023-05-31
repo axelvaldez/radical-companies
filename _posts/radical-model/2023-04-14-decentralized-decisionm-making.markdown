@@ -7,11 +7,11 @@ image:    "icon-decentralized-decisionm-making.svg"
 ---
 
 <div style="display:none;">
- <p>Imagine that a <span class='_paradigm'>$1</span>RADICAL company uses <span class='_paradigm'>BANNER</span>s to propose a projec After some dicussion, the <span class='_paradigm'>BANNER</span> is funded.</p>
+ <p>Imagine that a <span class='_paradigm'>RADICAL</span> company uses <span class='_paradigm'>Banner</span>s to propose a projec After some dicussion, the <span class='_paradigm'>Banner</span> is funded.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Imagine that a <span class='_paradigm'>Radical</span> company uses <span class='_paradigm'>BANNER</span>s to propose a project. The <span class='_paradigm'>BANNER</span> includes its description including the skills and resources they might need. After a period of giving it shape, the <span class='_paradigm'>BANNER</span> is funded.</p>
+ <p>Imagine that a <span class='_paradigm'>Radical</span> company uses <span class='_paradigm'>Banner</span>s to propose a project. The <span class='_paradigm'>Banner</span> includes its description including the skills and resources they might need. After a period of giving it shape, the <span class='_paradigm'>Banner</span> is funded.</p>
 
 <h1>First Team, First Failure</h1>
  <p>As a decentralized company, everybody participates in strategizing. That is generally a good thing, but, in this case, people can&rsquo;t agree on what strategy to take. Even though these people are co-owners, they are frozen and can&rsquo;t take the next step.</p>
@@ -31,7 +31,7 @@ image:    "icon-decentralized-decisionm-making.svg"
   </ul>
  
  <h1>And Now&hellip;</h1>
-  <p>Now that you have read this, don&rsquo;t wait until this happens to you, make it part of a workshop that would-be RADICALs have available to them.</p>
-  <p>Help people learn and grow.</p>
+  <p>Now that you have read this, don&rsquo;t wait until this happens to you, make it part of a workshop that would-be <span class='_paradigm'>Radical</span>s have available to them.</p>
+  <p>Help people <em>learn</em> and <em>grow</em>.</p>
 
 {% include related.html %}
