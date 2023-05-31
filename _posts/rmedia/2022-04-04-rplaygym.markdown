@@ -93,25 +93,19 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <td>
-     <p>Player Talent</p>
-    </td>
+    <td>Player Talent</td>
     <td>
      <p>As for guys in the higher levels of the minors who are close to breaking through to the big leagues, production and talent are the determining factors. These players are viewed as well rounded.</p>
     </td>
    </tr>
    <tr>
-    <td>
-     <p>Team Depth</p>
-    </td>
+    <td>Team Depth</td>
     <td style="padding-left:1em; ">
      <p>Having one or two elite prospects is great, but a deep farm system is the way to build a sustainable contender. Depth and talent were the biggest factors in ranking each team.</p>
     </td>
    </tr>
    <tr>
-    <td>
-     <p>Team High-End Talent</p>
-    </td>
+    <td>Team High-End Talent</td>
     <td>
      <p>That being said, there is a difference between a prospect who could make an impact at the big league level and a prospect who could be a star. High-end talent served as a tiebreaker of sorts when two teams were close in the rankings.</p>
     </td>
