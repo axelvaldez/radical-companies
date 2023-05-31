@@ -209,7 +209,7 @@ image:    "icon-rmedia.svg"
 
 <div class="_next">
  <span style="float:left; " ><a href="https://radicalcompanies.com/2022/04/03/rlive">&lt; Previous</a></span>
- <span style="float:right; ">                                                            Next &gt;</a></span>
+ <span style="float:right; ">                                                                Next &gt;</span>
 </div>
 
 <h1 class="_section">ENDNOTES</h1>
