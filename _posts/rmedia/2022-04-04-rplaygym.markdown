@@ -21,8 +21,6 @@ image:    "icon-rmedia.svg"
    <td></td>
    <th>Impact</th>
   </tr>
- </table>
- <table class="_explicitalignment">
   <tr>
    <th>What for?</th>
    <td>
@@ -31,14 +29,10 @@ image:    "icon-rmedia.svg"
     </ul>
    </td>
   </tr>
- </table>
- <table class="_explicitalignment">
   <tr>
    <td></td>
    <th>Purpose</th>
   </tr>
- </table>
- <table class="_explicitalignment">
   <tr>
    <th>Why?</th>
    <td>
@@ -48,14 +42,10 @@ image:    "icon-rmedia.svg"
     </ul>
    </td>
   </tr>
- </table>
- <table class="_explicitalignment">
   <tr>
    <td></td>
    <th>Mission</th>
   </tr>
- </table>
- <table class="_explicitalignment">
   <tr>
    <th>What?</th>
    <td>
@@ -64,8 +54,6 @@ image:    "icon-rmedia.svg"
     </ul>
    </td>
   </tr>
- </table>
- <table class="_explicitalignment">
   <tr>
    <th>How?</th>
    <td>
