@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "A New System for Creating Wealth and Meaning"
+title:    "An Alternative System for Creating Wealth and Meaning"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal, Cristina Imre"
-image:    "icon-a-new-system-for-creating-wealth-and-meaning.svg"
+image:    "icon-an-alternative-system-for-creating-wealth-and-meaning.svg"
 ---
 
 <div style="display:none;">
