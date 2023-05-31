@@ -223,14 +223,14 @@ image:    "icon-rmedia.svg"
   <li id="en02">
    <p class="_list-item">
     Moneyball.
-    &lt;<a href="https://radicals.world/oQmxC7">https://radicals.world/oQmxC7</a>>&gt;
+    &lt;<a href="https://radicals.world/oQmxC7">https://radicals.world/oQmxC7</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
    <p class="_list-item">
     MLB Farm System Ranking Factors
-    &lt;<a href="https://radicals.world/ATiAcH">https://radicals.world/ATiAcH</a>>\&gt;
+    &lt;<a href="https://radicals.world/ATiAcH">https://radicals.world/ATiAcH</a>&gt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
