@@ -55,15 +55,13 @@ image:    "icon-rmedia.svg"
    </td>
   </tr>
   <tr>
-   <td>How?</td>
+   <th>How?</th>
    <td>
     <ul>
      <li>Companies co-own rPlayGym and collaborate with other companies.</li>
     </ul>
    </td>
   </tr>
- </table>
- <table class="_explicitalignment">
   <tr>
    <th>>When? BBB</td>
    <td>
