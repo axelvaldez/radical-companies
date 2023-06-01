@@ -335,7 +335,6 @@ span._paradigm {
 }
 ._quotation, ._citation {
   text-align:justify;
-  font-style:italic;
   font-size:smaller;
   font-family: 'Roboto Slab', serif;
   background-color:beige;
