@@ -337,7 +337,7 @@ span._paradigm {
   text-align:justify;
   font-style:italic;
   font-size:smaller;
-  font-family:cursive;
+  font-family: 'Roboto Slab', serif;
   background-color:beige;
   white-space:normal;
   border:CadetBlue 1px solid;
