@@ -15,7 +15,7 @@ image:    "icon-ensembles-collabortives-networks.svg"
  <p>Maybe it is an electric car and one company can do the basic motor while another works on the mechanical engineering involved in putting together a chasis with synchronized motors, etc. Each company can see how the technology they are passionate about could be applied to other projects in the future. They want to remain independent, ready to go their own way.</p>
 
 <h1>Network</h1>
- <p>One suggestion is that we call this kind of association a network. Seems fine, except that there is a whole body of network mathematics already in existance and naming it so would be confusing, to say the least.</p>
+ <p>One suggestion is that we call this kind of association a network. Seems fine, except that there is a whole body of network mathematics already in existence and naming it so would be confusing, to say the least.</p>
 
 <h1>Collaborative</h1>
  <p>The other suggestion is that we call them collaboratives. I have always resisted the term, because collaborative emphasizes the <em>labor</em>. But we want this association to include everything social, not just the labor component.</p>
