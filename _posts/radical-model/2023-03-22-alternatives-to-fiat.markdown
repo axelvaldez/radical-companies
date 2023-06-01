@@ -55,7 +55,7 @@ image:    "icon-alternatives-to-fiat.svg"
    <li>You, and everybody else in a <span class="_paradigm">Radical</span> company, are co-owners.</li>
   </ul>
  <p>Having said that, we can talk about potential cheating,</p>
-  <div style='text-indent:1em; '>
+  <div style='text-indent:1em; margin-left:2em; display:block; font-size:smaller; '>
    <p class="_q">OK, so not quite chaos, but it is open to cheating, right?</p>
    <p class="_a">Well no. Since there are no rules, you can&rsquo;t cheat.</p>
    <p class="_q">Doens&rsquo;t this mean that people are not protected and can have money taken out of their pocket?</p>
