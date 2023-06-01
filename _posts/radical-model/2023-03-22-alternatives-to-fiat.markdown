@@ -10,30 +10,31 @@ image:    "icon-alternatives-to-fiat.svg"
  <p><span class="_quotespan">&hellip; we are extremely perplexed.</span></p>
 </div>
 
+<div class='_citation'>
+ <span class="_quotespan">It is not intelligent, it is not beautiful, it is not just, it is not virtuous &ndash; and it doesn’t deliver the goods. In short, we dislike it, and we are beginning to despise it. But when we wonder what to put in its place, we are extremely perplexed.</span>
+ <span id="_signature">John Maynard Keynes (via Blair Fix)<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></span>
+</div>
+
 <h1>&nbsp;</h1>
  <p>I just saw the quote above in one of Blair Fix&rsquo;s papers entitled <span class="_quotespan">Redistributing Income Through Hierarchy,</span></p>
+ <p>This shows how difficut it is to see past what people call capitalism, where JM Keynes admitted to be <span class="_quotespan">extremely perplexed.</span>. The problem is not the accumulation of capital</span>.</p>
   <div class="_citation">
-   <span class="_quotespan">It is not intelligent, it is not beautiful, it is not just, it is not virtuous &ndash; and it doesn’t deliver the goods. In short, we dislike it, and we are beginning to despise it. But when we wonder what to put in its place, we are extremely perplexed.</span>
-   <span id="_signature">John Maynard Keynes.</span>
+   <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span>
   </div>
-  <p>This shows how difficut it is to see past what people call capitalism, where JM Keynes admitted to be <span class="_quotespan">extremely perplexed.</span>. The problem is not the accumulation of capital, but the <span class="_paradigm">Fiat</span> system,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
-   <div class="_citation">
-    <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span>
-   </div>
- <p>The <span class="_paradigm">Fiat</span> system is based on competition and domination and capital happens to be a very efficient form tool of having power over everything (<em>i.e.</em>, domination). Our alternative, the <span class="_paradigm">Radical</span> system, is based on contribuions, instead of capital. This, we believe, will produced more of a life nourising system.</p>
+ <p>The <span class="_paradigm">Fiat</span> system is based on competition and domination and capital happens to be a very efficient form tool of getting power over everything (<em>i.e.</em>, domination). Our non-<span class="_paradigm">Fiat</span> alternative is based on contribuions, instead of capital. This, we believe, will produced more of a life nourising system.</p>
 
 <h1>The Forever Obstacle</h1>
  <p>Who decides <em>what is a contribution</em>? That has been the obstacle forever. We are so used to the <span class="_paradigm">Fiat</span> hierarchical model that we immediately jump to rules and benevolent judges. But as it always happen benevolent judges don&rsquo;t stay benevolent forever and rules always sprout a bureaucracy around them.</p>
- <p>So, what are we to do? No wonder we are <span class="_quotespan">extremely perplexed.</span></p>
+ <p>So, what are we to do?</p>
+ <p>No wonder we are <span class="_quotespan">extremely perplexed.</span></p>
 
 <h1>Our <span class="_paradigm">Radical</span> System</h1>
- <p>Our alternative to the <span class="_paradigm">Fiat</span> system is the <span class="_paradigm">Radical</span> system.</p>
- <p>In the <span class="_paradigm">Radical</span> system, ownership is distributed to all co-owners based on their contributions, not their capital or the &ldquo;human capital&rdquo; or any other nonsense. For Sam, a co-owner, her contributions are determined by all the other co-owners who know her. The same for Joe, another co-owner. In fact, the same for all co-owners, al other co-owners determine what their contributions are.</p>
- <p>The are no rules, every co-owner figures out what a contribution is. And if they think they've seen a contribution, then they recognize it. It could be somebody who reorganized the warehouse, or a particular (computer) code check-in which other co-owners perceive as valuelbe, or could be somebody&rsquo;s smile. Whatever a co-owner recognizes as a contribution, is a contribution.</p>
+ <p>Our non-<span class="_paradigm">Fiat</span> alternative makessure that ownership is distributed to all co-owners <em>based on their contributions</em>, not their capital or the &ldquo;human capital&rdquo; or any other nonsense. It is certainly not an <em>equality</em> system, where everybody gets the same no matter what. For Sam, a co-owner, her contributions are determined by all the other co-owners who recognize it. The same for Joe, another co-owner. In fact, the same for all co-owners: other co-owners determine what the contributions of each co-owerner is. That is decentralized co-ownership.</p>
+ <p>The are no rules, every co-owner figures out what a contribution is by the feelings it brings up, from enthsiasm to apathy. If they think they've seen a contribution, then they recognize it. It could be somebody who reorganized the warehouse, or computer code check-in which other co-owners perceive as valuable. Or it could be somebody&rsquo;s smile that makes my day. Whatever a co-owner recognizes as a contribution, is a contribution.</p>
  <p>At this point, you should be thinking, <span class="_quotespan">wow, that is chaos!</span></p>
 
 <h1>Chaos!</h1>
- <p>If you are thinking that this would result in chaos, that is FIAT thinking. I am not accusing you of anything that I haven&rsquo;t done and continue to do, by the way. It is what we have learned to fear: unless there are rules, there is chaos.</p>
+ <p>If you are thinking that this would result in chaos, that is <span class="_paradigm">Fiat</span> thinking. I am not accusing you of anything that I haven&rsquo;t done and continue to do, by the way. It is what we have learned to fear: unless there are rules, there is chaos.</p>
  <p>I now invite you to think about rules,</p>
   <ul>
    <li>Rules are &ldquo;broken&rdquo; all the time.</li>
