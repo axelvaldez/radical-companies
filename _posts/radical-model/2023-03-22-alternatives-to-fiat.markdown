@@ -41,7 +41,7 @@ image:    "icon-alternatives-to-fiat.svg"
    <li>You have to interpret the rules to make sure you are within their bounds.</li>
    <li>Some people are very good at it and get away with it. They are like Rules Lawyers.</li>
   </ul>
- <p>Put another way, rules add rigidity and subrefuge and absolutly no value.</p>
+ <p>Rules add legalistic rigidity and absolutly no value.</p>
 
 <h1>Q&A</h1>
  <p>Before we get into the Q&A, we have to explain a bit more about recognizing contributions,</p>
