@@ -17,7 +17,7 @@ image:    "icon-alternatives-to-fiat.svg"
 
 <h1>&nbsp;</h1>
  <p>I just saw the quote above in one of Blair Fix&rsquo;s papers entitled <span class="_quotespan">Redistributing Income Through Hierarchy,</span></p>
- <p>This shows how difficut it is to see past what people call capitalism, where JM Keynes admitted to be <span class="_quotespan">extremely perplexed.</span>. The problem is not the accumulation of capital</span>.</p>
+ <p>This shows how difficut it is to see past what people call capitalism, where JM Keynes admitted to be <span class="_quotespan">extremely perplexed.</span>. The problem is not the accumulation of capital.</p>
   <div class="_citation">
    <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span>
   </div>
