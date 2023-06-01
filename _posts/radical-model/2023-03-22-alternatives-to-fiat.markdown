@@ -25,7 +25,6 @@ image:    "icon-alternatives-to-fiat.svg"
 
 <h1>The Forever Obstacle</h1>
  <p>Who decides <em>what is a contribution</em>? That has been the obstacle forever. We are so used to the <span class="_paradigm">Fiat</span> hierarchical model that we immediately jump to rules and benevolent judges. But as it always happen benevolent judges don&rsquo;t stay benevolent forever and rules always sprout a bureaucracy around them.</p>
- <p>So, what are we to do?</p>
  <p>No wonder we are <span class="_quotespan">extremely perplexed.</span></p>
 
 <h1>Our <span class="_paradigm">Radical</span> System</h1>
