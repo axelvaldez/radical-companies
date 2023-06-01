@@ -98,6 +98,6 @@ image:    "icon-the-radical-foundation-house.svg"
  </div>
 
 <h1>A Framing</h1>
- <p>This &ldquo;framing&rdquo; of the <span class="_paradigm">Radical</span> model may be appealing to &ldquo;build&rdquo; specific houses where what changes is the Practices.</p>
+ <p>This &ldquo;framing&rdquo; of the <span class="_paradigm">Radical</span> model may be appealing to &ldquo;build&rdquo; specific houses where what changes is the the inside stuff, but not its floor, columns, or roof.</p>
 
 {% include related.html %}
