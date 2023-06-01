@@ -59,13 +59,13 @@ image:    "icon-alternatives-to-fiat.svg"
   <p class="_q">OK, so not quite chaos, but it is quite open to cheating, right?</p>
   <p class="_a">Well no. Since there are no rules, you can&rsquo;t cheat.</p>
   <p class="_q">Doens&rsquo;t this mean that people are not protected and can have money taken out of their pocket?</p>
-  <p class='_a'>Maybe. If somebody cheats once, some amount of money will go to the offending co-owners that maybe would not have. But then you talk them. If the cheating continues to go on, you, and your fellow co-owners, stop giving them <span class="_paradigm">RAD</span>s.</p>
-  <p class="_q">But, what if people go in kahoots to give all their <span class="_paradigm">RAD</span>s to each other?</p>
-  <p class='_a'>Yes, that can happen. But since everything is transparent, somebody is bound to notice and question it.</p>
+  <p class='_a'>Maybe. If somebody cheats once, they some amount of <span class='_paradigm'>RAD</span>s will go to the offending co-owners. But then you talk them. If the cheating continues to go on, you and your fellow co-owners would stop giving them <span class="_paradigm">RAD</span>s.</p>
+  <p class="_q">But, what if people in cahoots give all their <span class="_paradigm">RAD</span>s to each other?</p>
+  <p class='_a'>Yes, that could happen. But since everything is transparent, somebody is bound to notice and question it.</p>
   <p class="_q">What if co-owners give out <span class="_paradigm">RAD</span>s for silly reasons?</p>
-  <p class='_a'>One option is to talk to the offender, but not as an offender. You are really curious and you want to learn why. By asking, you can learn that the &ldquo;silly&rdquo; co-owner has a really good reason for such giving. Aalternatively, the giving co-owner might end up agreeing with you that the giving was &ldquo;silly.&rdquo;</p>
+  <p class='_a'>One option is to talk to the &ldquo;silly&rdquo; co-owner, but not as an offender. You are really curious and you want to learn why he did this. By asking, you can learn that the &ldquo;silly&rdquo; co-owner has a really good reason for such giving. Alternatively, the giving co-owner might end up agreeing with you that the giving was on the &ldquo;silly.&rdquo; side</p>
  </div>
- <p>When questions come up, ask, listen, be curious. If something sounds counter-intuitive, bring that up, too. And do it out of love, not as an indictement. Speaking from my own experience, this is really hard to do at first, but eventually you learn and it becomes a new, healthier habit.</p>
+ <p>When questions come up, if something sounds counter-intuitive, ask, listen, be curious. And do it out of love, not as an indictement. Speaking from my own experience, this is really hard to do at first, but eventually you learn and it becomes a new, healthier habit.</p>
 
 <h1>Final Notes</h1>
  <p>Please, note,</p>
