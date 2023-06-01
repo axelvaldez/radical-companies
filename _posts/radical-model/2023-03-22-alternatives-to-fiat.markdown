@@ -41,7 +41,7 @@ image:    "icon-alternatives-to-fiat.svg"
    <li>You have to interpret the rules to make sure you are within their bounds.</li>
    <li>Some people are very good at it and get away with it. They are like Rules Lawyers.</li>
   </ul>
- <p>Rules add legalistic rigidity and absolutly no value.</p>
+ <p>Rules add legalisti rigidity and absolutly no value.</p>
 
 <h1>Q&A</h1>
  <p>Before we get into the Q&A, we have to explain a bit more about recognizing contributions,</p>
@@ -55,9 +55,9 @@ image:    "icon-alternatives-to-fiat.svg"
    <li>You, and everybody else in a <span class="_paradigm">Radical</span> company, are co-owners.</li>
   </ul>
  <p>Having said that, we can talk about potential cheating,</p>
+  <p class="_q">OK, so not quite chaos, but it is quite open to cheating, right?</p>
+  <p class="_a">Well no. Since there are no rules, you can&rsquo;t cheat.</p>
   <ul>
-   <li class="_q">OK, so not quite chaos, but it is quite open to cheating, right?</li>
-   <li class="_a">Well no. Since there are no rules, you can&rsquo;t cheat.</li>
    <li class="_q">Doens&rsquo;t this mean that people are not protected and can have money taken out of their pocket?</li>
    <li class="_a">Maybe. If somebody cheats once, some amount of money will go to the offending co-owners that maybe would not have. But then you talk them. If the cheating continues to go on, you, and your fellow co-owners, stop giving them <span class="_paradigm">RAD</span>s.</li>
    <li class="_q">But, what if people go in kahoots to give all their <span class="_paradigm">RAD</span>s to each other?</li>
