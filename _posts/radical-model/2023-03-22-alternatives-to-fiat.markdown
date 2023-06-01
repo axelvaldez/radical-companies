@@ -17,7 +17,7 @@ image:    "icon-alternatives-to-fiat.svg"
   <p id="_signature">John Maynard Keynes (via Blair Fix)<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>I just saw the quote above in one of Blair Fix&rsquo;s papers entitled <span class="_quotespan">Redistributing Income Through Hierarchy,</span></p>
- <p>This shows how difficut it is to see past what is normally called capitalism and Keynes admitted to be <span class="_quotespan">extremely perplexed.</span>. Hint: the problem is <e>not</em> the accumulation of capital.</p>
+ <p>This shows how difficut it is to see past what is normally called capitalism and Keynes admitted to be <span class="_quotespan">extremely perplexed.</span>. Hint: the problem is <em>not</em> the accumulation of capital.</p>
   <div class="_citation">
    <p>Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</p>
   </div>
