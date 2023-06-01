@@ -524,7 +524,7 @@ div table._background, div table._foundation {
 }
 
 /* Q&A BEGIN */
-._qna {
+_qna 1{
   padding-left:2em;
 }
 ._q {
@@ -540,6 +540,11 @@ div table._background, div table._foundation {
 }
 div._q p, div._a p {
   text-indent:0;
+}
+._qnablock {
+  display:block;
+  margin-left:2em;
+  font-size:smaller;
 }
 /* Q&A END*/
 
@@ -565,10 +570,11 @@ table._ninety {
 table#_ninety tr::nth-child(-n + 3),
 table._ninety tr::nth-child(-n + 3) {
   column-span:all;
+   */
 }
 
 /*
- Two-Column Table
+ Table2col
  */
 table._h2table {
   width:85%;
