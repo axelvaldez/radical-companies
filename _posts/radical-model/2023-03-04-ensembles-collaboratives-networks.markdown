@@ -16,10 +16,10 @@ image:    "icon-ensembles-collabortives-networks.svg"
 
 <h1>Network</h1>
  <p>One suggestion is that we call this kind of association a network. Seems fine, except that there is a whole body of network mathematics already in existance and naming it so would be confusing, to say the least.</p>
- <p>Is there a better word?</p>
 
 <h1>Collaborative</h1>
  <p>The other suggestion is that we call them collaboratives. I have always resisted the term, because collaborative emphasizes the <em>labor</em>. But we want this association to include everything social, not just the labor component.</p>
+ <p>Is there a better word?</p>
 
 <h1>Ensemble</h1>
  <p>Ensembles are groups of people who come togehter to play one or more particulary pieces of music. Making Music is a social act.</p>
