@@ -17,14 +17,14 @@ image:    "icon-alternatives-to-fiat.svg"
   <p id="_signature">John Maynard Keynes (via Blair Fix)<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>I just saw the quote above in one of Blair Fix&rsquo;s papers entitled <span class="_quotespan">Redistributing Income Through Hierarchy,</span></p>
- <p>This shows how difficut it is to see past what people call capitalism, where JM Keynes admitted to be <span class="_quotespan">extremely perplexed.</span>. The problem is not the accumulation of capital.</p>
+ <p>This shows how difficut it is to see past what is normally called capitalism and Keynes admitted to be <span class="_quotespan">extremely perplexed.</span>. Hint: the problem is <e>not</em> the accumulation of capital.</p>
   <div class="_citation">
-   <span class="_quotespan">Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</span>
+   <p>Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</p>
   </div>
  <p>The <span class="_paradigm">Fiat</span> system is based on competition and domination and capital happens to be a very efficient form tool of getting power over everything (<em>i.e.</em>, domination). Our non-<span class="_paradigm">Fiat</span> alternative is based on contribuions, instead of capital. This, we believe, will produced more of a life nourising system.</p>
 
 <h1>The Forever Obstacle</h1>
- <p>Who decides <em>what is a contribution</em>? That has been the obstacle forever. We are so used to the <span class="_paradigm">Fiat</span> hierarchical model that we immediately jump to rules and benevolent judges. But as it always happen benevolent judges don&rsquo;t stay benevolent forever and rules always sprout a bureaucracy around them.</p>
+ <p>The obstacle has been who decides <em>what is a contribution</em>? We are so used to the <span class="_paradigm">Fiat</span> hierarchical model that we immediately think of rules or benevolent judges. But judges don&rsquo;t stay benevolent forever and rules become sacred and unchangeable and always sprout a clerical bureaucracy around them.</p>
  <p>No wonder we are <span class="_quotespan">extremely perplexed.</span></p>
 
 <h1>Our <span class="_paradigm">Radical</span> System</h1>
