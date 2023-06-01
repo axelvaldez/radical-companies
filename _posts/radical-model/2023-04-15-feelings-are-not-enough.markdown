@@ -11,7 +11,7 @@ image:    "icon-feelings-are-not-enough.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Your feelings are never reflected in the world, your relationships are. You can relate to the world outside your head only through your relationships. Relationships with people. Sometime via things,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> but ultimately with people. That is how you get out of your head, that is what guides your actions.</p>
+ <p>Your feelings are never reflected in the world, your relationships are. You can relate to the world outside your head only through your relationships. Relationships with people. Sometime via things,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> but ultimately with people. That is how you get out of your head, that is what guides your actions.</p>
 
 <h1>Selective Listening</h1>
  <p>Of all the things that you say and do, people will select what resonate with them, what brings up feelings in them. The relationship is based on what you say <em>and what they hear</em>. The stuff in the middle is what the relationship is based on.</p>

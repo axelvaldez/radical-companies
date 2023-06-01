@@ -15,7 +15,7 @@ image:    "icon-research-and-co-ownership.svg"
   <ul>
    <li>Put up a <span class="_paradigm">BANNER</span>.</li>
    <li>People give their <span class="_paradigm">RAD</span>s to the <span class="_paradigm">BANNER</span>.</li>
-   <li>If it falls short, and you have consent, you can get an outside <span class="_paradigm">Radical</span> investment<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> for the difference.</li>
+   <li>If it falls short, and you have consent, you can get an outside <span class="_paradigm">Radical</span> investment<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> for the difference.</li>
    <li>Done.</li>
   </ul>
 

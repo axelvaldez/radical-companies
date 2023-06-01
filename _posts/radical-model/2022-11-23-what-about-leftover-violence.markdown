@@ -11,7 +11,7 @@ image:    "icon-what-about-leftover-violence.svg"
 </div>
 
 <h1>Intro</h1>
- <p>What might it look like as we transition away from the <span class="_paradigm">Fiat</span> way of doing things? We have learned that <em>my success</em> requires that I&rsquo;d be willing to wield violence against you, the others. For the <span class="_paradigm">Fiat</span> system to work, some form of violence is required, from the mildest that comes through as a love song, to the most brutal shooting, as just happened in Colorado Springs.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
+ <p>What might it look like as we transition away from the <span class="_paradigm">Fiat</span> way of doing things? We have learned that <em>my success</em> requires that I&rsquo;d be willing to wield violence against you, the others. For the <span class="_paradigm">Fiat</span> system to work, some form of violence is required, from the mildest that comes through as a love song, to the most brutal shooting, as just happened in Colorado Springs.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Violence</h1>
  <p>What got me thinking about this was a comment made by our neighbor. One night she looked out her balcony window and saw two black pickups flanking the rental next door to ours. There were several armed people in the trucks and a loud party was going on inside the house.</p>

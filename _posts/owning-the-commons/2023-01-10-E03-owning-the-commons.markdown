@@ -12,7 +12,7 @@ image:    "icon-owning-the-commons-3-3.svg"
 <h1>1024 Families</h1>
  <ul>
   <li>By the time we all accommodated and helped 1024 families, there was no more land that they Americans recognized as under their protection.</li>
-  <li>They told us of other tribes that had been working with <em>palefaces</em><a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> like us and they were growing stuff as well.</li>
+  <li>They told us of other tribes that had been working with <em>palefaces</em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> like us and they were growing stuff as well.</li>
   <li>Also, like in our own town, they had taught Europeans their picking technique (<em>i.e.</em>, which should have been called <em>take-care-of-the-plants</em> instead).</li>
   <li>We had perfected the low water technique and combined it with another township who had perfected vertical farming instead. Together we do more with the land and water we had. Plenty of <span class='_paradigm'>RAD</span>s were given as we all participated and benefited from each other&rsquo;s results.</li>
   <li>In fact, we were producing more food stock than we consumed, so we started training with other townships. They were afraid of <span class='_paradigm'>RAD</span>s, <span class="_quotespan">We&rsquo;d rather trade with coins ‘sted of them <span class='_paradigm'>RAD</span>s.</span></li>
@@ -26,8 +26,8 @@ image:    "icon-owning-the-commons-3-3.svg"
   <li>Everybody was very happy with the results.</li>
   <li>We took our percentage of <span class="_paradigm">rCoins</span> and bought some of the goodies that came from those other townships (<em>e.g.</em>, they were cheaper and better crafted than online), like Etsyton.</li>
   <li>A few of the towns tried out <span class='_paradigm'>RAD</span>s and they liked them and adopted them. In particular, they like how they were growing with help from other townships that they our 1024 families had founded or settled.</li>
-  <li>The <span class="_paradigm">rCoins</span> didn&rsquo;t go away because we wanted to trade with farther away townships, in particular a huge one called Smelly Onions.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> In spite of its name, the food they made there (<em>e.g.</em>, Pizza, hot dogs, and White Castle depression era mini-hamburgers) was unique and out of this world. It was later renamed Chicago.</li>
-  <li>As a matter of fact, the <span class="_paradigm">rCoins</span> fit right in with <span class='_paradigm'>RAD</span>s and even decentralized banking.<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></li>
+  <li>The <span class="_paradigm">rCoins</span> didn&rsquo;t go away because we wanted to trade with farther away townships, in particular a huge one called Smelly Onions.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> In spite of its name, the food they made there (<em>e.g.</em>, Pizza, hot dogs, and White Castle depression era mini-hamburgers) was unique and out of this world. It was later renamed Chicago.</li>
+  <li>As a matter of fact, the <span class="_paradigm">rCoins</span> fit right in with <span class='_paradigm'>RAD</span>s and even decentralized banking.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></li>
  </ul>
 
 <h1>The Seven Samurai</h1>

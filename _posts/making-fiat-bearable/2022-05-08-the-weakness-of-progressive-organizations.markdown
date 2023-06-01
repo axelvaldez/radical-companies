@@ -11,12 +11,12 @@ image:    "icon-10-progressive-org-structures.svg"
 </div>
 
 <h1>The Weakness: Owner-Boss</h1>
- <p>In a recent Corporate Rebels post, Joost Minaar identifies ten progressive organizational structures<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> which he calls Amoebas, Cells, Circles, Chains, Fractals, Honeycombs, Lattice, Micro-communities, Mini-factories, and Squads.</p>
+ <p>In a recent Corporate Rebels post, Joost Minaar identifies ten progressive organizational structures<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> which he calls Amoebas, Cells, Circles, Chains, Fractals, Honeycombs, Lattice, Micro-communities, Mini-factories, and Squads.</p>
  <p>Unfortunately, except for WL Gore, all the organizations given as primary examples have an owner-boss at the top. In these cases, the owner-boss sees himself as a “servant leader” or otherwise benevolent.</p>
 
 <h1>Co-Ownership Brings Robustness</h1>
  <p>It is great, in fact, that these companies have experimented with co-management, have shown that it works, and that we don&rsquo;t need the <span class="_paradigm">Fiat</span> hierarchical system we live under. Unfortunately, co-management doesn&rsquo;t last. Because when the owner-boss exits, that&rsquo;s the end of it. Most of these progressive companies have fallen back to the <span class="_paradigm">Fiat</span> hierarchical model following the exit of the benevolent owner-boss.</p>
- <p>For it to be robust, and long-term, decentralized management must be accompanied by decentralized ownership.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
+ <p>For it to be robust, and long-term, decentralized management must be accompanied by decentralized ownership.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Robustness Emerges from a Simple Foundation</h1>
  <p>Rather than specific practices or strict methodologies, this foundation allows you to discover out what works for you, while keeping you grounded on what&rsquo;s important,</p>

@@ -11,7 +11,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>I am starting to wonder whether we need groups at all anymore. What if <span class="_paradigm">RAD</span> income just came from personal rather than corporate income? I am also really tempted to start calling groups of <span class="_paradigm">Radical</span> people Conviviums, a word that I got from one of the <em>Capital as Power</em> papers.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
+ <p>I am starting to wonder whether we need groups at all anymore. What if <span class="_paradigm">RAD</span> income just came from personal rather than corporate income? I am also really tempted to start calling groups of <span class="_paradigm">Radical</span> people Conviviums, a word that I got from one of the <em>Capital as Power</em> papers.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>So I&rsquo;m going to try and flesh out this idea of payment. I think of <span class="_paradigm">RAD</span>s as being able to reward the giants on whose shoulders I have stood and the people I am in community with. And solely that.</p>
 
 <h1>Ads and Sponsorships</h1>
@@ -21,7 +21,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
   <li>YouTube Ads</li>
   <li>Patreon sponsorhips</li>
  </ul>
- <p>I invite everyone who provides YouTube feedback to a <span class="_paradigm">RAD</span> community and I also invite Patreon sponsors who provide valuable feedback about my videos. Their contributions inspire me and I want to reward them. Everyone in the <span class="_paradigm">RAD</span> community are recognized, by me and everyone else, for their contributions. As a result, they get <span class="_paradigm">RAD</span>s. And everyone with <span class="_paradigm">RAD</span>s shares the dividents from the YouTube revenue.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
+ <p>I invite everyone who provides YouTube feedback to a <span class="_paradigm">RAD</span> community and I also invite Patreon sponsors who provide valuable feedback about my videos. Their contributions inspire me and I want to reward them. Everyone in the <span class="_paradigm">RAD</span> community are recognized, by me and everyone else, for their contributions. As a result, they get <span class="_paradigm">RAD</span>s. And everyone with <span class="_paradigm">RAD</span>s shares the dividents from the YouTube revenue.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Let&rsquo;s say I make $5K in dividends and I distribute $2.5K of it through the <span class="_paradigm">RAD</span> Community according to the allocations (<em>i.e.</em>, which everyone can see). The actual money can be distributed through Venmo, CashApp, or Zelle.</p>
  
 <h1>Patreon Sponsorships</h1> 
@@ -38,7 +38,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
   </ul>
 
 <h1>The Pump Convivium</h1>
- <p>A group of people gets together as a <em>convivium</em><a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a> to make pumps. I make the impeller. One woman makes the housings. And a nonbinary person sells the pumps. A  company is happy with the pumps and pays for them.</p>
+ <p>A group of people gets together as a <em>convivium</em><a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> to make pumps. I make the impeller. One woman makes the housings. And a nonbinary person sells the pumps. A  company is happy with the pumps and pays for them.</p>
  <p>In this case, the revenue happens because of the work we all do. None of us could build pumps at the same rate and quality by ourselves.</p>
  <p>The dividends are distributed according to the <span class="_paradigm">RAD</span>s co-owners gave each other through the pump building process. This is based on our recognized contributions.</p>
 

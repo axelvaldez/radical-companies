@@ -22,7 +22,7 @@ image:    "icon-the-good-boss.svg"
  
  <h1>Better than Bell Labs</h1>
  <p>Bell Labs was hands off and a good place for researchers, so long as researchers picked things that had some plausible impact on the Bell Phone <em>business</em>. Even Shockley with his semiconductor research was trying to make an amplifier to <em>replace vacuum tubes</em>.</p>
- <p>What would be better than one Bell Labs would be a community of them. I see some value is focusing research, certainly for companies. But there would be more value <em>to society</em> if there were a <em>community of labs</em> and people could follow their curiosity from one to the other. <span class="_paradigm">RAD</span>s</a><a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> make sure that whatever contributions a researcher made in one lab would not be lost and would carry out to the next.</p>
+ <p>What would be better than one Bell Labs would be a community of them. I see some value is focusing research, certainly for companies. But there would be more value <em>to society</em> if there were a <em>community of labs</em> and people could follow their curiosity from one to the other. <span class="_paradigm">RAD</span>s</a><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> make sure that whatever contributions a researcher made in one lab would not be lost and would carry out to the next.</p>
 
 <h1>Lucky Us</h1>
  <p>I wasn't expecting it, but listening to the book made me aware of how extremely lucky Bell Labs and the rest of society had gotten when Shannon decided to tackle Information Theory <em>first</em>. And therein lies the flaw of management as a temporary, and fragile, guarantor of autonomy. It was not systemic.</p>

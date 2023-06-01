@@ -58,7 +58,7 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
  <p>We are counting on the fact that <span class='_paradigm'>rCOIN</span>s are on the right side of history. National governments and their banks are on the wrong side, holding us backl. Something is going to have to change. Perhaps the change will not result in <span class='_paradigm'>rCOIN</span>s, but it would be something close to it, that doesn&rsquo;t depend on national interests.</p>
 
 <h1>Did We Say Blockchain?</h1>
- <p>Finally, (pretty) please note that we never said anything about <span class='_paradigm'>rCOIN</span>s being on a <em>blockchain</em>.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> They would have to be on a platform that guarantees their integrity, but we don&rsquo;t specify what that platform is.</p>
+ <p>Finally, (pretty) please note that we never said anything about <span class='_paradigm'>rCOIN</span>s being on a <em>blockchain</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> They would have to be on a platform that guarantees their integrity, but we don&rsquo;t specify what that platform is.</p>
  <p><span class='_paradigm'>rCOIN</span>s enable a way to step away from fiat currency whose distribution and use is dominated by a small group of deliberators, usually bank bosses. Instead, <span class='_paradigm'>rCOIN</span>s offer on transparency and decentralization, and will lead to a world where we have more control over our economic destiny as individuals in the context of our communities.</p>
 
 <h1 class="_section">ENDNOTES</h1>

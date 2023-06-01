@@ -24,7 +24,7 @@ image:    "icon-fiat-dictatorships.svg"
  </table>
 
 <h1>Kleptocracies</h1>
- <p>Dictatorships <em>have to</em> become kleptocracies to fund private goods (<em>aka</em>, corruption) at the expense of public goods.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> Take, for example, Russia, North Korea, or Cuba: they have enough of an economy to fund the force necessary to maintain their dictatoships in power, but not enough to maintain their infrastructure.</p>
+ <p>Dictatorships <em>have to</em> become kleptocracies to fund private goods (<em>aka</em>, corruption) at the expense of public goods.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Take, for example, Russia, North Korea, or Cuba: they have enough of an economy to fund the force necessary to maintain their dictatoships in power, but not enough to maintain their infrastructure.</p>
 
 <h1>Are Dictatorships Illegal</h1>
  <p>Dictatorships may be repugnant, but are they <em>illegal</em>? There is no international law that I know of to declare them one way or the other, so everything they do is&hellip; undefined.</p>
@@ -33,7 +33,7 @@ image:    "icon-fiat-dictatorships.svg"
 <h1>The Stock Market</h1>
  <p>The brilliance of the stock market is the realization that it takes a community to grow.<p>
  <div class="_citation">
-  <p>1790: The Philadelphia Stock Exchange is formed, helping spur the development of the U.S.&rsquo;s financial sectors and the country&rsquo;s expansion west.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
+  <p>1790: The Philadelphia Stock Exchange is formed, helping spur the development of the U.S.&rsquo;s financial sectors and the country&rsquo;s expansion west.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>It was a community of people with capital to invest, but it was, nevertheless, a community that did help businesses grow.<p>
  <p>The &ldquo;all men are created equal&rdquo; US Constitution was written and signed by slavers, but its interpretation has progressed since then. On the other hand, the stock market has been stuck. Over time, it went from a mechanism to come with pricing and has become a huge gambling table, with ruthless competition and predatory practices. All of this has limited its healthy growth.</p>

@@ -16,7 +16,7 @@ image:    "icon-captured-love.svg"
 
 <div class="_citation">
  <p>Prejudice is older than this age. &hellip; Among men, however, dissimilarity of <em>minds</em> is a more potent factor in causing prejudice than unlikeness in physiognomy.</p>
- <p id="_signature">Dr Charles Henry Turner (1867–1923)<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
+ <p id="_signature">Dr Charles Henry Turner (1867–1923)<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 </div>
 
 <h1>Dissimilarity</h1>

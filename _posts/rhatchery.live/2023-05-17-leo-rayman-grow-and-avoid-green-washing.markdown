@@ -11,7 +11,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>According to our guest, Leo Rayman, <span class="_quotespan">We are currently facing the biggest social, economic, and cultural opportunity of our lifetimes</span><a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a>. We have a chance to regenerative world instead of the one we&rsquo;ve created, the one that is eating itself.</p>
+ <p>According to our guest, Leo Rayman, <span class="_quotespan">We are currently facing the biggest social, economic, and cultural opportunity of our lifetimes</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>. We have a chance to regenerative world instead of the one we&rsquo;ve created, the one that is eating itself.</p>
  <p>Leo was a marketeer, but he made a career changing decision to show businesses how to become truly sustainable. He works with big businesses, but he has more hope for smaller ones who can learn to be good to our life support system and grow faster.</p>
  <p>I believe that truly sustainable businesses will differentiate themselves and thrive. Many with stick to the  ways.</p>
 
@@ -19,7 +19,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
  <p> social order we live in is so encompassing that as to be invisible,</p>
   <div class="_citation">
    <p>Some 2,500 years ago, the ancient Greeks identified air</p>
-   <p id="_signature">International Historic Chemical Landmark<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">International Historic Chemical Landmark<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
  <p>This means that we went for thousands of year without noticing air.</p>
 
@@ -33,7 +33,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
   </div>
 
 <h1>Alt</h1>
- <p>Alternatives to non- systems have not been implemented, yet, but they will. The first step is to be aware of it, to <em>see</em> it,<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></p>
+ <p>Alternatives to non- systems have not been implemented, yet, but they will. The first step is to be aware of it, to <em>see</em> it,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
   <div class="_center">
    <img
     src="/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg"

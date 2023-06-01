@@ -17,7 +17,7 @@ image:    "icon-ptsd-and-trust.svg"
 
 <!-- Endnotes URL -->
 <h1></h1>
- <a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a>
+ <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
 
 <!-- Endnote URL replace -->
 <h1></h1>

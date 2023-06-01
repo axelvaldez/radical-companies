@@ -13,7 +13,7 @@ image:    "icon-rmedia.svg"
 <h1>Intro</h1>
  <p>The way most recruiting happens today is inefficient and ineffective; it does not work as well as it should. Businesses waste a huge amount of time and effort looking for people who magically fit their needs or, worse, they look for unicorns. But the “perfect fit” is an expensive fantasy.</p>
  <p>When confronted with a “seller&rsquo;s market,” desperation sets in and the whole thing turns into a search for “bodies.” A lot of people are hired who never match their teams and it gets very painful on all sides. This approach, too, is wasteful as well.</p>
- <p>The <span class="_paradigm">rPlayGym</span> approach is to <em>help teams grow by helping people grow</em>.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> The strength of a team is in how people complement each other with their whole person, not just with their technical skills. Think of it as the moral equivalent of <em>Moneyball</em> <a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> for tech teams.</p>
+ <p>The <span class="_paradigm">rPlayGym</span> approach is to <em>help teams grow by helping people grow</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> The strength of a team is in how people complement each other with their whole person, not just with their technical skills. Think of it as the moral equivalent of <em>Moneyball</em> <a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> for tech teams.</p>
 
 <h1>Explicit Alignment</h1>
 <div class='_center'>
@@ -83,7 +83,7 @@ image:    "icon-rmedia.svg"
  <p>Instead, go fish where the fish are abundant and help them grow. Nurturing them is less expensive, more predictable, and less frustrating. It is also more satisfying and it works at scale: a small business can do it as well as a giant one.
 
 <h1>Farm Programs</h1>
- <p>This is how the US Major League Baseball ranks a team&rsquo;s farm program,<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></p>
+ <p>This is how the US Major League Baseball ranks a team&rsquo;s farm program,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
   <div class='_cent4er'>
   <table class='_h2table'>
    <tr>
@@ -333,7 +333,7 @@ image:    "icon-rmedia.svg"
 <h2>People Development</h2>
  <p>TBD</p>
 <h2>Holding on to Your Chicken</h2>
- <p>The “chicken” comes from an illustration that Kimberly Wiefling<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a> uses in her workshops where she holds a rubber chicken up over her head, opens her fist, and lets it fall to the floor. Then she asks, “what happened to the chicken?” The responses are usually all over the place, but every so often a small voice says, “… because you let it go of it?” And that&rsquo;s the point: you let go of your power, your essence, to others. And those more powerful than you grab it as soon as you let go of it.</p>
+ <p>The “chicken” comes from an illustration that Kimberly Wiefling<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> uses in her workshops where she holds a rubber chicken up over her head, opens her fist, and lets it fall to the floor. Then she asks, “what happened to the chicken?” The responses are usually all over the place, but every so often a small voice says, “… because you let it go of it?” And that&rsquo;s the point: you let go of your power, your essence, to others. And those more powerful than you grab it as soon as you let go of it.</p>
  <p>We learn this habit at home, when we are little. We let our caretakers guide our chickens as they teach us the basics of staying alive. Once we enter school, most of our teachers, unfortunately, take our chickens from us outright. “You must learn discipline,” they tell us, “and I&rsquo;ll tell you how to behave.” Throughout school we learn that obedience comes first: if we don&rsquo;t please the teacher, we don&rsquo;t get the sticker, or, worse, we are sent to the Principal&rsquo;s office. Finally, we reach college, but by then the habit is deeply ingrained. Undergraduates are like high\2011schoolers with a bit more freedom outside of school, but in school it is a game of pleasing the professor and getting good grades. Grad students are often referred to as “slave labor” for their supervisors. By the time we start to work, we are fully conditioned to hand our chickens to our superiors, “Where do I sit? What team am I in? What do you want me to do, boss?”We have to grow out of the habit of letting go of our chicken. We need to learn to hold on to it. In fact, we can make companies better all around by holding on to our chicken. We can collaborate more openly, experiment more, innovate more, come up with outside-the-box solutions more often. We can bring our full selves to work, take off our masks, and stop holding back. We can bring real value as we create with others.</p>
  <p>Ideally, we would not learn the habit of giving up our chicken so easily in the first place, but at our workplaces we can certainly replace that terrible habit with the habit of holding on to our chicken.</p>
 

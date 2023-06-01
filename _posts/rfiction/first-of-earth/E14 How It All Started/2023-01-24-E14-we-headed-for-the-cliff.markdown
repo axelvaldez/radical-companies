@@ -40,10 +40,10 @@ image:    "icon-we-headed-for-the-cliff.svg"
 
 <h1> Communities</h1>
  <p>In spite of being the cause of pushing us over the cliff, the  hierarchy that had brough us to this point; mostly they could even see it as the engine messing us up.</p>
- <p>The good news is that the  enclaves and it seemed serious about actually attacking their neighbors.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
+ <p>The good news is that the  enclaves and it seemed serious about actually attacking their neighbors.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Community Ensembles</h1>
- <p>The bad news is that the co-managed, co-owned communities had no defense. Well, the only &ldquo;defense&rdquo; they had, kind of, was that a lot of communities had pooled their <span class="_paradigm">RAD</span> systems and collaborated like a jazz ensemble.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
+ <p>The bad news is that the co-managed, co-owned communities had no defense. Well, the only &ldquo;defense&rdquo; they had, kind of, was that a lot of communities had pooled their <span class="_paradigm">RAD</span> systems and collaborated like a jazz ensemble.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Who knows, but maybe the deep understanding of what these communities were like would help defend the <span class="_paradigm">Radical</span> communites in the future.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">

@@ -32,7 +32,7 @@ image:    "icon-a-radical-experiment.svg"
 
 <h1>Money and Rank</h1>
  <p>Salaries are pretty integral to the <span class="_paradigm">Fiat</span> system. Employees earn a wage, owners reap profits.</p>
- <p>Eventually, co-owners will, I hope, switch to PRI to distribute <em>earned dividends</em>.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> At that point earned dividends (popularly known as profits) will be factored through <span class="_paradigm">RAD</span>s. It might also make sense to factor Belt levels (<em>i.e.</em>, let&rsquo;s do the experiment). For example, a Black Belt who has not contributed much to anybody in the last few months, might stop being a Black Belt.</p>
+ <p>Eventually, co-owners will, I hope, switch to PRI to distribute <em>earned dividends</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> At that point earned dividends (popularly known as profits) will be factored through <span class="_paradigm">RAD</span>s. It might also make sense to factor Belt levels (<em>i.e.</em>, let&rsquo;s do the experiment). For example, a Black Belt who has not contributed much to anybody in the last few months, might stop being a Black Belt.</p>
  <p>
 
 <h1 class="_section">ENDNOTES</h1>

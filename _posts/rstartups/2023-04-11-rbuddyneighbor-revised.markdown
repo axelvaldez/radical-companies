@@ -11,7 +11,7 @@ image:    "icon-buddyneighbor.svg"
 </div>
 
 <h1>Origin Story</h1>
- <p>In 2018, my good friend Jose Contreras sent me a text out of the blue. This ended up as <em>rBuddyNeighbor</em>.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
+ <p>In 2018, my good friend Jose Contreras sent me a text out of the blue. This ended up as <em>rBuddyNeighbor</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Since then we have learned quite a bit and here I try to revise it a bit.</p>
 
 <h1>Explicit Alignment</h1>
@@ -66,7 +66,7 @@ image:    "icon-buddyneighbor.svg"
       <li>The <span class="_paradigm">Buddy</span>, Nam, goes to Safeway at around 11 pm.</li>
       <li>A few minutes before, a <span class="_paradigm">Neighbor</span>, Kim, put in a request for a, <span class="_quotespan">A gallon of 2% milk, Organic Valley preferred, by midnight. Otherwise, bring me a half gallon of whatever they have. If it&rsquo;s going to take you more than one hour, ignore this, please (I need to go to sleep—got early meetings tomorrow).</span></li>
       <li>When Name gets to Safeway, the system alerts him of this request and adds, <span class="_quotespan">This will take you an extra five to ten minutes and approximate three blocks out of your route.</span></li>
-      <li>Nam reviews the request and gets to see Kim&rsquo;s <span class="_quotespan">vitals&rdquo; (<em>e.g.</em>, &ldquo;single male, currently alone, thinks stabbing dolls is LOL</span> or <span class="_quotespan">mom of three</span><a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a>). This is a kind information that this Nam needs to know before he can safely accept a request.</li>
+      <li>Nam reviews the request and gets to see Kim&rsquo;s <span class="_quotespan">vitals&rdquo; (<em>e.g.</em>, &ldquo;single male, currently alone, thinks stabbing dolls is LOL</span> or <span class="_quotespan">mom of three</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>). This is a kind information that this Nam needs to know before he can safely accept a request.</li>
       <li>Nam accepts the request.</li>
       <li>The system summarizes, and displayes something like, <span class="_quotespan">You are promising to deliver one gallon of Organic Valley 2% milk to Kim at&hellip;</span></li>
      </ul>
@@ -74,7 +74,7 @@ image:    "icon-buddyneighbor.svg"
      <ul>
       <li>Kim still wants it!</li>
       <li>Nam gets his stuff, including Kim&rsquo;s milk, stands in line, and pays for the goods.</li>
-      <li>As Nam leaves Safeway,<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> the system alerts Kim, <span class="_quotespan">Your 2% Organic Valley milk is on its way and will get to you in about 10 minutes.</span></li>
+      <li>As Nam leaves Safeway,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> the system alerts Kim, <span class="_quotespan">Your 2% Organic Valley milk is on its way and will get to you in about 10 minutes.</span></li>
       <li>As Nam gets close to Kim&rsquo;s home, <span class="_paradigm">rBuddyNeighbors</span> alerts her again, <span class="_quotespan">Your <span class="_paradigm">Buddy</span>, Nam (and avatar) is about to get to your home with your Organic Valley 2% milk.</span></li>
       <li>Nam parks, but his girlfriend walks to Kim&rsquo;s front door.</li>
       <li>The <span class="_paradigm">Neighbor</span> communicates with Nam through the app, <span class="_quotespan">Hey, there&rsquo;s a young woman at my door, is she with you?</span></li>
@@ -108,14 +108,14 @@ image:    "icon-buddyneighbor.svg"
      <ul>
       <li>All <span class="_paradigm">rBuddyNeighbors</span> are subscribers and when members sign up, they include the details of how to pay and get paid.</li>
       <li>The <span class="_paradigm">Neighbor</span> transfer method is debited to pay for the milk.</li>
-      <li>If the <span class="_paradigm">Buddy</span> had to pay, say, in cash for the milk, then that amount will be credited to her transfer account.<a href="#en10"><sup id="bm10">&nabla;&hairsp;</sup></a></li>
+      <li>If the <span class="_paradigm">Buddy</span> had to pay, say, in cash for the milk, then that amount will be credited to her transfer account.<a href="#en10"><sup id="bm10">&hairsp;&nabla;&hairsp;</sup></a></li>
      </ul>
     </td>
    </tr>
    <tr>
     <th>Interventions</th>
     <td>
-     <p>Groups of <span class="_paradigm">rBuddyNeighbors</span> can organize to deal with emergency situations in their,<a href="#en05"><sup id="bm05">&nabla;&hairsp;</sup></a> from drug usage interventions to potential suicides.</p>
+     <p>Groups of <span class="_paradigm">rBuddyNeighbors</span> can organize to deal with emergency situations in their,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> from drug usage interventions to potential suicides.</p>
      <p>They can register their group with <span class="_paradigm">rBuddyNeighbors</span> as a community resource.</p>
      <p>They&rsquo;d be alerted when the system detects a pattern that fits their target.</p>
     </td>
@@ -138,7 +138,7 @@ image:    "icon-buddyneighbor.svg"
      <ul>
       <li>Pub crawls</li>
       <li>Movie Nights</li>
-      <li>Going to the movie or to the theater.<a href="#en20"><sup id="bm20">&nabla;&hairsp;</sup></a></li>
+      <li>Going to the movie or to the theater.<a href="#en20"><sup id="bm20">&hairsp;&nabla;&hairsp;</sup></a></li>
      </ul>
     </td>
    </tr>
@@ -157,7 +157,7 @@ image:    "icon-buddyneighbor.svg"
    <tr>
     <th>Mom-and-Pops</th>
     <td>
-     <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a <span class="_paradigm">Neighbor</span> or as a regular customer. Or the requestor lives within their back route and the local grocers can easily deliver it on the way home. This would fit within the model.<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></p>
+     <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a <span class="_paradigm">Neighbor</span> or as a regular customer. Or the requestor lives within their back route and the local grocers can easily deliver it on the way home. This would fit within the model.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
      <p>The <span class="_paradigm">Neighbor</span>-owner cannot charge or add a surcharge for the delivery itself. Tips are not allowed, because it is not about making a living, it is about connecting and simply being a <span class="_paradigm">Buddy</span> to a <span class="_paradigm">Neighbor</span>.</p>
      <p>This could be <span class="_quotespan">gamed</span> if the <span class="_paradigm">Neighbor</span>-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A <span class="_paradigm">delivery</span> person would not make the kind of connection we are aiming for between <span class="_paradigm">Neighbor</span>s. This can easily be detected by the <span class="_paradigm">Neighbor</span>s and reported to the platform. It would end up in a conversation, probably between the grocer and the <span class="_paradigm">Neighbor</span>. Or, if the <span class="_paradigm">Neighbor</span> is reticent to do this, then somebody from <span class="_paradigm">rBuddyNeighbor</span> would do it.</p>
     </td>
@@ -165,7 +165,7 @@ image:    "icon-buddyneighbor.svg"
    <tr>
     <th>Together IRL</th>
     <td>
-     <p>The town of Kamikatsu, Japan, recycles 81% of its waste. You can read read more about it<a href="#en21"><sup id="bm21">&nabla;&hairsp;</sup></a>. The neighbors do the recycling.</p>
+     <p>The town of Kamikatsu, Japan, recycles 81% of its waste. You can read read more about it<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a>. The neighbors do the recycling.</p>
      <p>The <em>collection center</em> mentioned in the articles is another place for <span class="_paradigm">Neighbor</span>s to have a positive meeting in real life. This is the kind of thing that a neighborhood can organize through <span class="_paradigm">rBuddyNeighbors</span>.</p>
     </td>
    </tr>

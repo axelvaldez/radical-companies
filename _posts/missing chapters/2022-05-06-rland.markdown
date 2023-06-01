@@ -12,14 +12,14 @@ image:    "icon-rland.svg"
 
 <div class="_citation">
  <p>&ldquo;&hellip; I am in favor of cutting up the wild lands into parcels, <em>so that every poor man may have a home</em>.&rdquo;</p>
- <p id="_signature">Abraham Lincoln<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
+ <p id="_signature">Abraham Lincoln<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 </div>
 
 <h1>Land Defines Local</h1>
  <p>In the book <a href="https://radicalcompanies.com" target="_blank">RADICAL COMPANIES: Without Bosses or Employees</a> we only considered how the <span class="_paradigm">Radical</span> model would work in <em>a company</em>. Other than a mention, we said nothing about money, land, or governments. We laid out a few ideas about money and what it would look like in a decentralized, transparent world; land and government are definitely harder topics for me. In this document I am outting my thoughts about what the model for land would look like in a <span class="_paradigm">Radical</span> world.</p>
 
 <h1>The <span class="_paradigm">RADICAL rLand</span> Model</h1>
- <p id="fnref2">In <em>Another Now</em>, Yanis Varoufakis envisions all land as a commons controlled by &ldquo;Region&rdquo;<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> Henry George saw the land as one thing and anything sitting on it as separate, so his proposed single tax would <em>tax the land, but not the improvements</em>. People like Joeri Torfs and Pim Ampe, have envisioned land <em>and</em> improvements as being perennially open for sale as a (very clever) alternative.</p>
+ <p id="fnref2">In <em>Another Now</em>, Yanis Varoufakis envisions all land as a commons controlled by &ldquo;Region&rdquo;<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> Henry George saw the land as one thing and anything sitting on it as separate, so his proposed single tax would <em>tax the land, but not the improvements</em>. People like Joeri Torfs and Pim Ampe, have envisioned land <em>and</em> improvements as being perennially open for sale as a (very clever) alternative.</p>
  <p>My own working model is that,</p>
   <ul>
    <li>Treating land <em>and</em> improvements as one thing&mdash;it would be difficult, at best, to separate the two in people&rsquo;s minds for the foreseeable future.</li>
@@ -43,7 +43,7 @@ image:    "icon-rland.svg"
         <img src="/assets/img/en-vacant-lot-henry-george-w-border.svg" alt="Picture of a street sign that reads: EVERYBODY WORKS BUT THE VACANT LOT. I paid $3600 for this lot and will hold till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read HENRY GEORGE. Yours truly, Fay Lewis." title="Vacant Lot">
        </p>
        <p id="fnref2" style="font-size: smaller; text-align: justify; font-family:helvetica, sans-serif; font-style:italic; margin-bottom:3px; ">&ldquo;Region&rdquo; – I paid $3600 for this lot and will hold &lsquo;till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read &ldquo;Region&rdquo;</p>
-       <p style="font-size:smaller; text-align:right; font-family:helvetica, sans-serif; font-style:italic; margin-top:0;"><em>— Yours Truly, Fay Lewis</em><a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></p>
+       <p style="font-size:smaller; text-align:right; font-family:helvetica, sans-serif; font-style:italic; margin-top:0;"><em>— Yours Truly, Fay Lewis</em><a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
       </div>
      </td>
     </tr>
@@ -84,7 +84,7 @@ image:    "icon-rland.svg"
 
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">The Military?</h2>
   <p>Also, there is no funds for a military or any kind of state violence. It may take longer, but that&rsquo;s where we are heading.</p>
-  <p id="fnref3">But, how n&auml;ive, you might say, all it takes is a <em>few bad people</em> with weapons to take over everything, won’t it? Again, I am counting on &rsquo;s aversion to violence and how swiftly they can mobilize in a connected world to neutralize the violence of the &ldquo;Region&rdquo;<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a></p>
+  <p id="fnref3">But, how n&auml;ive, you might say, all it takes is a <em>few bad people</em> with weapons to take over everything, won’t it? Again, I am counting on &rsquo;s aversion to violence and how swiftly they can mobilize in a connected world to neutralize the violence of the &ldquo;Region&rdquo;<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Community Fund Governance</h1>
  <p>The &ldquo;Region&rdquo; in the pictures could be governed jointly or individually. For example, hyper-local community circles (26%) may join up to create a park. Surrounding communites (3%) may pool their funds to create a bullet train through the region. Keep in mind that when aggregated, Region and State circles have a pretty big pool of actual cash to create <em>common goods</em>.</p>

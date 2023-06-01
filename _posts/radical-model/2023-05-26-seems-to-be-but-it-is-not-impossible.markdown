@@ -20,7 +20,7 @@ image:    "icon-seems-to-be-but-it-is-not-impossible.svg"
  <p>Our focus must be not on fixing ourselves and more on healing a broken world. Marginalized people have been leading that fight against systemic injustice for generations, but in an unfocused way. Now all of us need to take all the energy we use to change ourselves and put it toward <em>changing the world</em>.</p>
  <p>If we do that, we can create a society in which we see <span class='_paradigm'>Fiat</span> and we laugh and celebrate.</p>
  <p>Getting there will be the work of what is left of my  lifetime. Use the <span class='_paradigm'>Radical</span> Foundation as your measuring stick and fix the world.</p>
- <p>Make our case, lead our movement, pursue whatever it is we want to pursue. Live as if <span class='_paradigm'>Fiat</span> is the past and a made up system, because it is.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
+ <p>Make our case, lead our movement, pursue whatever it is we want to pursue. Live as if <span class='_paradigm'>Fiat</span> is the past and a made up system, because it is.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>

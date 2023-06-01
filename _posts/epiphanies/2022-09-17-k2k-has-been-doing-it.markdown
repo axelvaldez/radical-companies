@@ -11,7 +11,7 @@ image:    "icon-k2k-has-been-doing-it.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>We&rsquo;ve been thinking hard about ways to ease into the co-ownership model and we've been trying differeht things out. Then, just this morning I realized that K2K Emocionando, in Bilbao, Spain,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> has already been running this experiment for quite a while. K2K is in the business of helping <span class="_paradigm">Fiat</span><a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> business transform into co-managed companies. At least, that is how they talk about it and how I thought of them. But their model also includes a split of the profits between the <span class="_paradigm">Fiat</span> owners and the co-owners (<em>i.e.</em>, the people formerly known as employees).</p>
+ <p>We&rsquo;ve been thinking hard about ways to ease into the co-ownership model and we've been trying differeht things out. Then, just this morning I realized that K2K Emocionando, in Bilbao, Spain,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> has already been running this experiment for quite a while. K2K is in the business of helping <span class="_paradigm">Fiat</span><a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> business transform into co-managed companies. At least, that is how they talk about it and how I thought of them. But their model also includes a split of the profits between the <span class="_paradigm">Fiat</span> owners and the co-owners (<em>i.e.</em>, the people formerly known as employees).</p>
  <p>In our book, <span class="_paradigm">RADICAL COMPANIES</span> we assumed no split at all. Today the business is owned 100% by the <span class="_paradigm">Fiat</span> owners, (magical) transaction happens, and tomorrow the company is owned 100% by its co-owners. K2K on the other hand starts and ends, at least at the 30,000 foot level, with a 70-30 split. I had not realized until this morning that these two approaches were points on the same spectrum,</p>
  <div class="_center">
   <img
@@ -20,7 +20,7 @@ image:    "icon-k2k-has-been-doing-it.svg"
    alt="A horizontal like label 'co-ownership spectrum' show FIAT at the extreme left, RADICAL at the extrem right, and K2K in between.">
  </div>
  <p>It would be ideal now to get data, or at least testimonials, from the <span class="_paradigm">Fiat</span> owners as to how it has been for them. Particularly, I'd like to know if their dividends have gone up or down or sideways.</p>
- <p>Of course, the next step would be to move them from 70% to 60% to&hellip; to 0%! And that's where rHatchery<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a> and Krisos<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a> (and, of course, K2K) have <a href="">an opportunity</a>.</p>
+ <p>Of course, the next step would be to move them from 70% to 60% to&hellip; to 0%! And that's where rHatchery<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> and Krisos<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> (and, of course, K2K) have <a href="">an opportunity</a>.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>

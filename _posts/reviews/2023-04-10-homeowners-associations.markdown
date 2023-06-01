@@ -19,7 +19,7 @@ image:    "icon-homeowners-associations.svg"
    <li>Collaboration aims <em>to achieve shared goals</em>.</li>
    <li>Cooperation aims <em>to achieve your own goals</em>.</li>
   </ul>
-  Cooperation is what the <span class='_paradigm'>Fiat</span> ownership imposes via capital. Collaboration, on the other hand, is part of our evolution. And we still do it naturally today via contributions to our community.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a>
+  Cooperation is what the <span class='_paradigm'>Fiat</span> ownership imposes via capital. Collaboration, on the other hand, is part of our evolution. And we still do it naturally today via contributions to our community.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
  </div>
 
 <h1>Increased Centralization</h1>
@@ -38,7 +38,7 @@ image:    "icon-homeowners-associations.svg"
  <p>No matter, it is cheaper for the local government and that&rsquo;s all that counts in <span class='_paradigm'>Fiat</span> land.</p>
 
 <h1 class="_section">CREDITS</h1>
- <p>This was inspired by the HOA episode of <em>Last Week Tonight with John Oliver</em>.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a>
+ <p>This was inspired by the HOA episode of <em>Last Week Tonight with John Oliver</em>.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>
   </p>
 
 <h1 class="_section">ENDNOTES</h1>

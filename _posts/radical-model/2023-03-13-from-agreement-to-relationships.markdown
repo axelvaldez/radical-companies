@@ -11,7 +11,7 @@ image:    "icon-from-agreements-to-relationships.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>You can read about the latest version of the Explicit Relationship here.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> However, in this post I am taking a different, simpler approach based on relationship.</p>
+ <p>You can read about the latest version of the Explicit Relationship here.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> However, in this post I am taking a different, simpler approach based on relationship.</p>
 
 <h1>Not a Contract</h1>
  <p>Rather than creating an <em>agreement</em>, which people can interpret as a contract, we are creating an Explicit Relationship. Of course, contracts can be <em>enforced</em>, but when it comes to relationships force does not apply and we don&rsquo;t want to inject it into it. On the other hand, we do want to make relationships as explicit as possible.</p>

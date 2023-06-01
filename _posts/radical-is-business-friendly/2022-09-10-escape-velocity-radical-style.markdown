@@ -21,9 +21,9 @@ image:    "icon-escape-velocity-radical-style.svg"
  <p>Then, how  that leads some people to act like barbariansdid this system get started? And, why has it been so robust, so long-lasting?</p>
 
 <h1>Money Did It</h1>
- <p>In <em>Debt: The First 5,000 Years</em><a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a> author David Graeber proposes that the development of coinage sparked the system we live in today. Author Paul Mason agrees,</p>
+ <p>In <em>Debt: The First 5,000 Years</em><a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> author David Graeber proposes that the development of coinage sparked the system we live in today. Author Paul Mason agrees,</p>
  <div class="_quotation">
-  <p>Graeber says what emerged after 800 BCE was a ‘military-coinage-slave complex&rsquo;, which forms the common basis for very different&hellip; city states across China, India, and ancient Greece.<a href="#en03"><sup id="bm03">&nabla;&hairsp;</sup></a></p>
+  <p>Graeber says what emerged after 800 BCE was a ‘military-coinage-slave complex&rsquo;, which forms the common basis for very different&hellip; city states across China, India, and ancient Greece.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>All of them, <em>China, India, and ancient Greece,</em> are remarkably long-lasting States.</p>
 
@@ -129,7 +129,7 @@ image:    "icon-escape-velocity-radical-style.svg"
   </ul>
  <h2>Explicit Relatioships</h2>
   <p><em>Explicit Relatioshipss</em> help people come together and build trust from the start.</p>
-  <p>Inspired by J Kim Wright&rsquo;s <em>Conscious Contracts<sup>®</sup></em> framework,<a href="#en04"><sup id="bm04">&nabla;&hairsp;</sup></a> an <em>Explicit Relationships</em> consists of four items that would-be co-owners discuss. Then, when they agree to come together as a community (see <a id="_aboutCommunity" href="#_appendix">Appendix</a>), they create an <em>Explicit Relationships</em> from their discussion notes.</p>
+  <p>Inspired by J Kim Wright&rsquo;s <em>Conscious Contracts<sup>®</sup></em> framework,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> an <em>Explicit Relationships</em> consists of four items that would-be co-owners discuss. Then, when they agree to come together as a community (see <a id="_aboutCommunity" href="#_appendix">Appendix</a>), they create an <em>Explicit Relationships</em> from their discussion notes.</p>
   <p>There are still lots of things to work out (<em>e.g.</em>, how to scale it), but so far we&rsquo;ve gotten good feedback, including this: <span class="_quotespan">some organizations never build up trust among people, even after years of operation.</span></p>
 
 <h1>Reaching Escape Velocity</h1>

@@ -17,7 +17,7 @@ image:    "icon-joy-instea-of-will.svg"
  </div>
  <p>According to this, Ludwig van Beethoven was a proto-<span class='_paradigm'>Radical</span>.</p>
  <hr>
- <p>BTW, Maria&rsquo;s post includes a video of the choral finale performed in a square in Sabadell, a catalonian town, in Spain.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
+ <p>BTW, Maria&rsquo;s post includes a video of the choral finale performed in a square in Sabadell, a catalonian town, in Spain.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>It really moved me to tears.</p>
  <p></p>
  <p>We are all people, we are all family.</p>

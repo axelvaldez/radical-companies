@@ -28,7 +28,7 @@ image:    "icon-genuine-smile.svg"
  <p>I bought me flowers. For the first time. I had never clebrated myself before, I had never thanked me, but I finally felt I must. Hooray for my past self, because thanks to her I have a genuine smile. Thanks to her I can see who I am versus what <span class="_paradigm">Fiat</span> businesses want me to be.</p>
 
 <h1>&hellip; and Smile</h1>
- <p>There are still lots of scary stuff ahead, but I am staying on the path and eating mandarins.<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> I can see that the time will come when I will see these fears behind me. I can see the time when I will be a better version of me.</p>
+ <p>There are still lots of scary stuff ahead, but I am staying on the path and eating mandarins.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> I can see that the time will come when I will see these fears behind me. I can see the time when I will be a better version of me.</p>
  <p>Thanks to life and all that got me here.</p>
 
 <h1 class="_section">ENDNOTES</h1>

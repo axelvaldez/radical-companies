@@ -11,7 +11,7 @@ image:    "icon-urban-radical-one-more-time.svg"
 </div>
 
 <h1></h1>
- <p>Below is the continuation of an (imaginary) conversation with Tim Urban on the impact his book, <em>What&rsquo;s Ours Problem: A Self&ndash;Help Book for Society</em><a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a>, had on me.</p>
+ <p>Below is the continuation of an (imaginary) conversation with Tim Urban on the impact his book, <em>What&rsquo;s Ours Problem: A Self&ndash;Help Book for Society</em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>, had on me.</p>
 
 <h1>Continuing&hellip;</h1>
  <div class="_speakera">Out of love. That is making me unomfortable and energized at the same time. Weirder still, I feel like drawing.</div>

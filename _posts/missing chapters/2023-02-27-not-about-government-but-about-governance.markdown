@@ -11,7 +11,7 @@ image:    "icon-not-about-government-but-about-governance.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>The nice story is that governments protect us and our country&rsquo;s borders and therefore need to have a monopoly on force and foreign policy. The other story is that goverments are  organizations, dependant on dictatorships-known-as-businesses.<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
+ <p>The nice story is that governments protect us and our country&rsquo;s borders and therefore need to have a monopoly on force and foreign policy. The other story is that goverments are  organizations, dependant on dictatorships-known-as-businesses.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>What we do need, and always emerges is <em>governance</em>. A way to collaborate, live, and work together. You don&rsquo;t need governance if you are stranded in an island by yourself. The only &lsquo;agreement&rsquo; you can have with the other dangerous animals in the island is, <span class="_quotespan">If you come near me again, and you scare me, I will slaughter you.</span> But that doesn&rsquo;t work with people. You need governance with people.</p>
  <p>Governance is about collaborating to create and change those agreements. Our ability to transform the culture is the point.</p>
 
@@ -20,7 +20,7 @@ image:    "icon-not-about-government-but-about-governance.svg"
  <p>In dictatorships, people revolt violently because that is what they know works; they have learned that. In places that lean towards democracy, people also revolt, but through non-violent ways, like assembling, protesting, and voting. Because that is what they &ldquo;know&rdquo; works.</p>
 
 <h1>Governance, Not Government</h1>
- <p>When I wrote <span class="_paradigm">rGov</span>,<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a> there was no distinction in my mind between government and governance. I assumed that there would be no borders to defend, no foreign policy to set, and people could co-manage the rest.</p>
+ <p>When I wrote <span class="_paradigm">rGov</span>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> there was no distinction in my mind between government and governance. I assumed that there would be no borders to defend, no foreign policy to set, and people could co-manage the rest.</p>
  <p>I wish I had figured it out then because what we want is is co-governance.</p>
 
 <h1 class="_section">ENDNOTES</h1>

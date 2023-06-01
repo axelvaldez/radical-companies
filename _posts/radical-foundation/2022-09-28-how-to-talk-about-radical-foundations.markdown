@@ -15,8 +15,8 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  <p>Note that <em>principles</em> and <em>structure</em> are a reflection of <span class="_paradigm">Fiat</span> concerns, and these questions really are about centralization and would translate to <em>who defines these principles and structures? who is the boss?</em></p>
  <p>Nevertheless, you can address these types of questions by talking about the <span class="_paradigm">Radical</span> tools you do have,</p>
  <ul style="margin-left:20px; ">
-  <li>The RADs! mobile app<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></li>
-  <li>The Agreements<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></li>
+  <li>The RADs! mobile app<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></li>
+  <li>The Agreements<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></li>
   <li>The <span class="_paradigm">Radical</span> Foundations</li>
  </ul>
  <p>You can read about the first two in previous posts. This post is about the <span class="_paradigm">Radical</span> Foundations.</p>

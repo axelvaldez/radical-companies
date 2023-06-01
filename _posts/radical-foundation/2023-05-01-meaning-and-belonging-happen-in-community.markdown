@@ -16,14 +16,14 @@ image:    "icon-meaning-and-belonging-happen-in-community.svg"
  <p>That is, too, what diversity is all about,
   <div class="_citation">
    <p>&hellip; not just ethnic diversity, not cultural diversyty, not just econmic diverstiy &hellip; Everyone! Everyone&rsquo;s voices.</p>
-   <p id="_signature">Ana Menendez, Associate Professor, FIU<a href="#en01"><sup id="bm01">&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Ana Menendez, Associate Professor, FIU<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
  
 <h1>Isolation</h1>
  <p>The opposite to belonging is isolation, loneliness. The <span class="_paradigm">Fiat</span> system&rsquo;s drive to divide and conquer has gone overboard and has come down to individuals. It negatively affects the health of individuals and society.</p>
   <div class="_citation">
    <p>Loneliness is more than just a bad feeling. When people are socially disconnected, their risk of anxiety and depression increases. So does their risk of heart disease (29%), dementia (50%), and stroke (32%). The increased risk of premature death associated with social disconnection is comparable to smoking daily&mdash;and maybe even greater than the risk associated with obesity.</p>
-   <p id="_signature">Vivek Murthy, US Surgeon General, New York Times<a href="#en02"><sup id="bm02">&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Vivek Murthy, US Surgeon General, New York Times<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
  <p>Separations of groups into <em>competing silos</em> is fundamental to <span class="_paradigm">Fiat</span> culture: the more groups compete with each other, the lesser chance that they will get together to fight the things that really hurt them and hold back society (<em>e.g.</em>, <span class="_paradigm">Fiat</span> ownership).</p>
 
