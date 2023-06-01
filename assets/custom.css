@@ -350,13 +350,9 @@ span._paradigm {
 }
 ._citation #_signature {
   display: block;
-  padding-top:10px;
   text-indent:-1em;
-  font-family: 'Roboto Slab', serif;
   font-style:italic;
-  /*
-  font-size:smaller;
-  */
+  padding-top:10px;
   margin:0 0.5em .5em 10%;
 }
 ._citation #_signature::before {
