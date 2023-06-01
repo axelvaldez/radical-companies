@@ -55,7 +55,7 @@ image:    "icon-alternatives-to-fiat.svg"
    <li>You, and everybody else in a <span class="_paradigm">Radical</span> company, are co-owners.</li>
   </ul>
  <p>Having said that, we can talk about potential cheating,</p>
-  <div style='text-indent:1em; margin-left:2em; display:block; font-size:smaller; '>
+  <div class=qnablock'>
    <p class="_q">OK, so not quite chaos, but it is open to cheating, right?</p>
    <p class="_a">Well no. Since there are no rules, you can&rsquo;t cheat.</p>
    <p class="_q">Doens&rsquo;t this mean that people are not protected and can have money taken out of their pocket?</p>
@@ -70,13 +70,13 @@ image:    "icon-alternatives-to-fiat.svg"
 <h1>Final Notes</h1>
  <p>Please, note,</p>
   <ul>
-   <li>There is not <span class="_paradigm">Fiat</span> hierarchy.</li>
+   <li>This is not a <span class="_paradigm">Fiat</span> hierarchy.</li>
    <li>Therefore, there is no <em>boss</em> giving out goodies to his favority people.</li>
-   <li>People will get more or less <span class="_paradigm">RAD</span>s according their contributions. If they don&rsquo;t contribute, they don't get <span class="_paradigm">RAD</span>s, but if they contribute, they do.</li>
+   <li>People will get more or less <span class="_paradigm">RAD</span>s according contributions that their peers recognize as such. If they don&rsquo;t contribute, they don&rsquo;t get <span class="_paradigm">RAD</span>s, but if they contribute, they do.</li>
    <li>If people are not recognizing your contributions, either 1) they see them, but don&rsquo;t consider them valuable or 2) they don&rsquo;t know the value of what you are doing and you need to explain it to them.</li>
    <li>Most imporantly, there is nobody around who can give themselves a raise. The number of <span class="_paradigm">RAD</span>s one gets depends on what other co-owners recognize as contributions.</li>
   </ul>
- <p>The <span class="_paradigm">Radical</span> system is an alternative to the <span class="_paradigm">Fiat</span> system. There really is noting to be <span class="_quotespan">extremely perplexed,</span> about. Stop calling it capitalism and call it by its proper name instead, the <span class="_paradigm">Fiat</span> system. Your horizons will open up and alternatives will start to become visible.</p>
+ <p>This is an alternative to the <span class="_paradigm">Fiat</span> system. There really is nothing to be <span class="_quotespan">extremely perplexed,</span> about. We call it <span class="_paradigm">Fiat</span> system. Your horizons will open up and alternatives will start to become visible.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
