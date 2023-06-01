@@ -19,11 +19,11 @@ image:    "icon-ensembles-collabortives-networks.svg"
  <p>Is there a better word?</p>
 
 <h1>Collaborative</h1>
- <p>The other suggestion is that we call them collaboratives. I have always resisted the team, because collaborative emphasizes the <em>labor</em>. But we want this association to include everything social, not just the labor component.</p>
+ <p>The other suggestion is that we call them collaboratives. I have always resisted the term, because collaborative emphasizes the <em>labor</em>. But we want this association to include everything social, not just the labor component.</p>
 
 <h1>Ensemble</h1>
  <p>Ensembles are groups of people who come togehter to play one or more particulary pieces of music. Making Music is a social act.</p>
  <p>Making an electric car is a social act and akin to making music. It includes creativity, embracing everybody&rsquo;s mistakes, and making others look good. The word comes from French, meaning <span class="_quotespan">together</span> and in Spanish it translates to <em>conjunto</em> which means <em>close together</em>.
- <p>It seems that the associatin of <em>ensemble</em> with making music is more apt that associating it with <em>labor</em> or <em>mathematics</em>.</p>
+ <p>It seems that the associating of <em>ensemble</em> with <em>making music</em> is more apt that associating it with <em>labor</em>.</p>
 
 {% include related.html %}
