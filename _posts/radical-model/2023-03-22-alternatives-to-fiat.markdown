@@ -13,7 +13,7 @@ image:    "icon-alternatives-to-fiat.svg"
 <h1>&nbsp;</h1>
  <p>Speaking of the financial system that he helped create, Keynes said,</p>
  <div class='_citation'>
-  <p class="_quotespan">It is not intelligent, it is not beautiful, it is not just, it is not virtuous &ndash; and it doesn’t deliver the goods. In short, we dislike it, and we are beginning to despise it. But when we wonder what to put in its place, we are extremely perplexed.</p>
+  <p>It is not intelligent, it is not beautiful, it is not just, it is not virtuous &ndash; and it doesn’t deliver the goods. In short, we dislike it, and we are beginning to despise it. But when we wonder what to put in its place, we are extremely perplexed.</p>
   <p id="_signature">John Maynard Keynes (via Blair Fix)<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>I just saw the quote above in one of Blair Fix&rsquo;s papers entitled <span class="_quotespan">Redistributing Income Through Hierarchy,</span></p>
