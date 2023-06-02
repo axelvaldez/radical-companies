@@ -22,8 +22,7 @@ image:    "icon-ensembles-collabortives-networks.svg"
  <p>Is there a better word?</p>
 
 <h1>Ensemble</h1>
- <p>Ensembles are groups of people who come togehter to play one or more particulary pieces of music. Making Music is a social act.</p>
- <p>An ensemble makes music and making music is a social. Ensembles embraces everybody&rsquo;s mistakes, and endeavors to make others look good. The word comes from French, meaning <span class="_quotespan">together</span> and in Spanish it translates to <em>conjunto</em> which means <em>close together</em>.
- <p>It seems that the association of <span class="_paradigm">ensemble</span> with making music is more fitting than associating it with <em>mathematics</em> or <em>labor</em>.</p>
+ <p>Ensembles are groups of people who come togehter to play one or more particulary pieces of music, a social act. Ensembles embraces everybody&rsquo;s mistakes and endeavors to make others look good. It means people coming close together.
+ <p>It seems to me that the association of <span class="_paradigm">ensemble</span> with making music is more fitting than associating it with <em>mathematics</em> or <em>labor</em>.</p>
 
 {% include related.html %}
