@@ -47,7 +47,7 @@ image:    "icon-we-are-blind-to-it.svg"
 <h1>Co-Ownership</h1>
  <p>Then consider co-ownership (scarier),</p>
  <ul>
-  <li>Ownership is a human invention, a tool for living in society, and a good one at that.</li>
+  <li>Ownership is a human invention, a tool for living in society.</li>
   <li>The problem is <em>centralized ownership</em>.</li>
   <li>Everybody who contributes is a co-owner</li>
   <li>Co-ownership is decentralized.</li>
