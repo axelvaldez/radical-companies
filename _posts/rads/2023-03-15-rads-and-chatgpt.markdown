@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "<span class='_paradigm'>RAD</span>s and chatGPT"
+title:    " rRADs  and chatGPT"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
 image:    "icon-rads-and-chatgpt.svg"

@@ -33,7 +33,7 @@ image:    "icon-the-radical-seed.svg"
     </tr>
    </table>
   </div>
- <p>How that is implemented will depend on its community. Will anybody say anything when they are making a decision away from decentralization? Will they notice that a certain decision is taking them away from transparency?</p>
+ <p>How this is implemented will depend on each community. Will anybody say anything when they are making a decision away from decentralization? Will they notice, and say sometihing, that a certain decision is taking them away from transparency?</p>
 
 <h1>It&rsquo;s a Baby!</h1>
  <p>Eventually, driven by co-ownership, they will gravitate farther away from the  laws and its governance will have to adapt to it.</p>

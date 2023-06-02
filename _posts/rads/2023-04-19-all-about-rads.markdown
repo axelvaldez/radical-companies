@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "All about <span class='_paradigm'>RAD</span>s"
+title:    "All about  rRADs "
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-all-about-rads.svg"

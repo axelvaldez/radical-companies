@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Giving <span class='_paradigm'>RAD</span>s"
+title:    "Giving  rRADs "
 subtitle: "The Latest"
 authors:  "Matt Perez, Jose Leal, Adrian Perez"
 image:    "icon-giving-rads.svg"

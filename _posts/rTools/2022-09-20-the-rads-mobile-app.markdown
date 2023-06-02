@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The <em><span class='_paradigm'>RAD</span>s!</em> Mobile App"
+title:    "The RADs! Mobile App"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Jose Leal"
 image:    "icon-the-rads-mobile-app.svg"

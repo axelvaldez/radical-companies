@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Alternatives to <span class='_paradigm'>Fiat</span>"
+title:    "Alternatives to  Fiat "
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-alternatives-to-fiat.svg"
