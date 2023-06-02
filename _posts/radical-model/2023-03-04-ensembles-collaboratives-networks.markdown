@@ -22,7 +22,7 @@ image:    "icon-ensembles-collabortives-networks.svg"
  <p>Is there a better word?</p>
 
 <h1>Ensemble</h1>
- <p>Ensembles are groups of people who come togehter to play one or more particulary pieces of music, a social act. Ensembles embraces everybody&rsquo;s mistakes and endeavors to make others look good. It means people coming close together.
+ <p>Ensembles are groups of people who come togehter to play music. This is a social act that embraces everybody&rsquo;s mistakes and aims to make others look good. This what people coming close together is all about.
  <p>It seems to me that the association of <span class="_paradigm">ensemble</span> with making music is more fitting than associating it with <em>mathematics</em> or <em>labor</em>.</p>
 
 {% include related.html %}
