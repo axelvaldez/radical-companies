@@ -23,7 +23,7 @@ image:    "icon-ensembles-collabortives-networks.svg"
 
 <h1>Ensemble</h1>
  <p>Ensembles are groups of people who come togehter to play one or more particulary pieces of music. Making Music is a social act.</p>
- <p>Making an electric car is a social act, and so is making music. Ensemble includes creativity, embracing everybody&rsquo;s mistakes, and making others look good. The word comes from French, meaning <span class="_quotespan">together</span> and in Spanish it translates to <em>conjunto</em> which means <em>close together</em>.
- <p>It seems that the association of <em>ensemble</em> with <em>making music</em> and more is more apt and more hopeful that associating it with <em>mathematics</em> or <em>labor</em>.</p>
+ <p>An ensemble makes music and making music is a social. Ensembles embraces everybody&rsquo;s mistakes, and endeavors to make others look good. The word comes from French, meaning <span class="_quotespan">together</span> and in Spanish it translates to <em>conjunto</em> which means <em>close together</em>.
+ <p>It seems that the association of <span class="_paradigm">ensemble</span> with making music is more fitting than associating it with <em>mathematics</em> or <em>labor</em>.</p>
 
 {% include related.html %}
