@@ -20,7 +20,7 @@ image:    "icon-we-are-blind-to-it.svg"
  <ul>
   <li>We assume that the <span class="_paradigm">Fiat</span> system is a forever thing and cannot be changed.</li>
   <li>We feel the problems, but can not see as the source of it.</li>
-  <li>the <span class="_paradigm">Fiat</span> system has been invisible to us.</li>
+  <li>The <span class="_paradigm">Fiat</span> system has been invisible to us.</li>
   <li>We did not even had a name for it, so we called it <span class="_paradigm">Fiat</span>.
    <img
     src='/assets/img/pic-the-radical-model-coming-together.svg'
