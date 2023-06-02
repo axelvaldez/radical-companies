@@ -77,7 +77,7 @@ image:    "icon-the-radical-atomic-composition.svg"
  <div class="_center">
   <table class="_h2table">
    <tr>
-    <th>World View, Mindset (Umwelt)</th>
+    <th>Mindset</th>
     <td>
      <ul>
       <li>Who are you? How do you show up?</li>
