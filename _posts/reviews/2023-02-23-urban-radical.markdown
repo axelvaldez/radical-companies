@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Urban <span class='_paradigm'>Radical</span>"
+title:    "Urban  Radical "
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-urban-radical.svg"

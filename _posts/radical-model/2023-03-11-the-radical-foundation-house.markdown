@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The <span class='_paradigm'>Radical</span> Foundation House"
+title:    "The  Radical  Foundation House"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-the-radical-foundation-house.svg"

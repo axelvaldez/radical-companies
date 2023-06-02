@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "<span class='_paradigm'>Radical</span> Companies Solve Problems Faster than <span class='_paradigm'>Fiat</span> Businesses"
+title:    " Radical  Companies Solve Problems Faster than <span class='_paradigm'>Fiat</span> Businesses"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "icon-radical-companies-solve-problems-faster-than-fiat-businesses.svg"

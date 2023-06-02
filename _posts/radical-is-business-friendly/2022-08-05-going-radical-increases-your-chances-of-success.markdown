@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Going <span class='_paradigm'>Radical</span> Increases Your Chances of Success"
+title:    "Going  Radical  Increases Your Chances of Success"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "icon-going-radical-increases-your-chances-of-success.svg"

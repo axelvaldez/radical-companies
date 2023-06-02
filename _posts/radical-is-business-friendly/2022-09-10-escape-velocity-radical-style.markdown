@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Escape Velocity, <span class='_paradigm'>Radical</span> Style"
+title:    "Escape Velocity,  Radical  Style"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
 image:    "icon-escape-velocity-radical-style.svg"

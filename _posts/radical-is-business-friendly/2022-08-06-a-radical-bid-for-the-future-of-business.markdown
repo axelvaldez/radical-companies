@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "A <span class='_paradigm'>Radical</span> Bid for the Future of Business"
+title:    "A  Radical  Bid for the Future of Business"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "icon-a-radical-bid-for-the-future-of-business.svg"
