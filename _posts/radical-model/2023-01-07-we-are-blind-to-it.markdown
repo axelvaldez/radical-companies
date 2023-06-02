@@ -25,8 +25,7 @@ image:    "icon-we-are-blind-to-it.svg"
    <img
     src='/assets/img/pic-fiat-fear-force-or-pain.svg'
     alt=''
-    width='70%'
-   >
+    width='70%'>
   </li>
  </ul>
 
@@ -39,10 +38,9 @@ image:    "icon-we-are-blind-to-it.svg"
   <li>Explicit alignment</li>
  </ul>
   <img
-   src="/assets/img/pic-the-radical-model-coming-together.svg"
-   alt=""
-   width="70%"
-  >
+   src='/assets/img/pic-the-radical-model-coming-together.svg'
+   alt=''
+   width='70%'>
 
 <h1>Co-Ownership</h1>
  <p>Then consider co-ownership (scarier),</p>
