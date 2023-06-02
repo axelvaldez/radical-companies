@@ -35,7 +35,9 @@ image:    "icon-we-are-blind-to-it.svg"
   <li>No bosses or employees</li>
   <li>Decentralized management: everybody is a co-manager</li>
   <li>The <em>RADs!</em> mobile app</li>
+  <li>Explicit relationsips</li>
   <li>Explicit alignment</li>
+  <li>Explicit profile</li>
  </ul>
   <img
    src='/assets/img/pic-the-radical-model-coming-together.svg'
