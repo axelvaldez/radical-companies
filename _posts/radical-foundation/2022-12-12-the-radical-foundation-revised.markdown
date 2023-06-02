@@ -92,7 +92,7 @@ image:    "icon-the-radical-foundation-revised.svg"
   </table>
  </div>
 
-<h1>The Revised <span class="_paradigm">Radical</span> Foundation</h1>
+<h1>The Revised Radical Foundation</h1>
  <h2>Foundation</h2>
   <div class="_center">
    <table class="_h2table">

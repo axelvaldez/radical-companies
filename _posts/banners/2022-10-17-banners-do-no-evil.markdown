@@ -22,7 +22,7 @@ image:    "icon-banners-do-no-evil.svg"
   <li>A form of &ldquo;power over&rdquo; people which also includes violence, &ldquo;According to the rules, you are not fit to be a beneficiary of this <span class="_paradigm">BANNER</span>&rdquo;.</li>
  </ul>
 
-<h1>The <span class="_paradigm">Radical</span> Solutions</h1>
+<h1>The Radical Solutions</h1>
  <p>The <span class="_paradigm">Radical</span> solution seems to be to disclose all <span class="_paradigm">BANNER</span> beneficiaries and let the co-owners deal with maladapted <span class="_paradigm">BANNER</span>s. This also feels like the most effective solution.</p>
  <div class="_center">
   <img

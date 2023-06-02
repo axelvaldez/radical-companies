@@ -30,7 +30,7 @@ image:    "icon-giving-rads.svg"
   <li>When you submit the note, a notification shows up on their device letting them know that they&rsquo;ve been recognized, along with the note.</li>
  </ol>
 
-<h1>How <span class='_paradigm'>RAD</span>s Are Calculated</h1>
+<h1>How RADs Are Calculated</h1>
  <p>What you are really doing with this app is recognizing your peers&rsquo; contributions<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> (<em>i.e.</em>, <em>Meaning</em>). You can press the <em>hand</em> recognition button as much as you want; the app takes care of calculating the actual number of <span class='_paradigm'>RAD</span>s that your peer will get.</p>
  <p>The calculation is based on your cycle, which could be monthly, or weekly, or quarterly, or whatever. In any case, the calculation is very simple,</p>
  <p class="_center">

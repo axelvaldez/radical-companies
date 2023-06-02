@@ -36,7 +36,7 @@ image:    "icon-radical-companies-solve-problems-faster-than-fiat-businesses.svg
  <p>For each of these problems there are a host of patches people have devised to combat them: stand-up meetings, Agile, managing by walking around, and open-door management. The list is almost endless and is endemic to <span class="_paradigm">Fiat</span> hierarchies and its 19th century way of running a business. But we don&rsquo;t have to accept these mind-numbing &ldquo;solutions&rdquo; anymore.</p>
  <p>Now if I just said, &ldquo;throw out this old way of doing stuff,&rdquo; it would imply a painful loss that has to be mourned. Alternatively, we can reframe them as learning experiences that can catapult us into a better life.</p>
 
-<h1>The <span class="_paradigm">Radical</span> Model</h1>
+<h1>The Radical Model</h1>
  <p>In the <span class="_paradigm">Radical</span> model, communications would look something like this,</p>
  <ul>
   <li>You discover a problem that is a bit outside your purview.</li>

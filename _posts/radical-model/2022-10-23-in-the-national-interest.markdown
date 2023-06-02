@@ -67,7 +67,7 @@ image:    "icon-in-the-national-interest.svg"
   <li>How invisible they are.</li>
  </ul>
 
-<h1>The <span class="_paradigm">Fiat</span> Hierarchy</h1>
+<h1>The Fiat Hierarchy</h1>
  <p>Every kind of organization today is based on a <span class="_paradigm">Fiat</span> hierarchy: churches, businesses, non-for-profits, NGOs, and governments.</p>
  <div class="_center">
   <table class="_h2table">

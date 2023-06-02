@@ -10,7 +10,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
  <p>A short walk through co-management and co-ownership, the <span style="font-size: smaller; ">Radical</span> model. A short version of what appears in the book <em>RADICAL COMPANIES: Without Bosses or Employees</em>.</p>
 </div>
 
-<h1>The <span class="_paradigm">Radical</span> Model</h1>
+<h1>The Radical Model</h1>
 
  <h2>Businesses-as-Dictatorships Hurt Us</h2>
   <p>Our collapsing climate, the gaping wealth gap, discrimation, and exploitation are but a few of the inescapable side-effects of the system we live in. A system that &ldquo;divides, demonizes, and causes us to suspend our intincts toward better.&rdquo; <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> But it has also brought us abundance and we don not want to throw the baby out with the bathwater. What is clear is that we need a generative way of relating to one another, a different paradigm. As we see it, businesses are the place to start, transformed into companies they are the incubators for what comes next.</p>
@@ -363,7 +363,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    </p>
    <p>Notice that even though dividends are up, Julio continues to draw from the <em><span class="_paradigm">PRI</span> Account</em> because his <span class="_paradigm">PRI</span> is pretty high and his <span class="_paradigm">RAD</span>s count is pretty low. He may want to change his <span class="_paradigm">PRI</span> or get feedback on why his <span class="_paradigm">RAD</span>s are so low.</p>
 
- <h2>Comparing the <span class="_paradigm">Radical</span> Investment Model with that of Banks and VCs</h2>
+ <h2>Comparing the Radical Investment Model with that of Banks and VCs</h2>
    <p><span class="_paradigm">Radical</span> investments will, at worst, have the same financial yield as today&rsquo;s VC system, but with 1) a lot more beneficiaries (<em>i.e.</em>, all the co-owners), and 2) less risk (<em>i.e.</em>, because a lot more people will be committed to making it work).</p>
    <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
     <img src="/assets/img/bank-vs-vcs-vs-radical.svg" alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS defines a small horizontal parallelogram, it's dot is about     one fifth of the way into the RISKS axis and one tenth of the way up the YIELD axis. VC defines a square, it's dot is a little over half way into the RISKS axis and half way up the YIELD axis. RADICAL defines a large vertical parallelogram, with its dot at a little less than half way into the RISKS axis and nine tenth of the way up
