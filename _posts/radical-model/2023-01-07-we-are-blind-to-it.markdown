@@ -16,7 +16,7 @@ image:    "icon-we-are-blind-to-it.svg"
   <li>The BIG problem today is the self-colonialism of our minds which makes us blind to the <span class="_paradigm">Fiat</span> system we live in.</li>
  </ul>
 
-<h1><span class="_paradigm">Fiat</span> Hierarchy</h1>
+<h1>Fiat Hierarchy</h1>
  <ul>
   <li>We assume that the <span class="_paradigm">Fiat</span> system is a forever thing and cannot be changed.</li>
   <li>We feel the problems, but can not see as the source of it.</li>
