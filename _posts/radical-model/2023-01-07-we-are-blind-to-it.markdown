@@ -23,7 +23,7 @@ image:    "icon-we-are-blind-to-it.svg"
   <li>The <span class="_paradigm">Fiat</span> system has been invisible to us.</li>
   <li>We did not even had a name for it, so we called it <span class="_paradigm">Fiat</span>.
    <img
-    src='/assets/img/pic-the-radical-model-coming-together.svg'
+    src='/assets/img/pic-fiat-fear-force-or-pain.svg'
     alt=''
     width='70%'
    >
@@ -39,9 +39,9 @@ image:    "icon-we-are-blind-to-it.svg"
   <li>Explicit alignment</li>
  </ul>
   <img
-   src='/assets/img/pic-the-radical-model-coming-together.svg'
-   alt=''
-   width='70%'
+   src="/assets/img/pic-the-radical-model-coming-together.svg"
+   alt=""
+   width="70%"
   >
 
 <h1>Co-Ownership</h1>
