@@ -47,13 +47,12 @@ image:    "icon-we-are-blind-to-it.svg"
 <h1>Co-Ownership</h1>
  <p>Then consider co-ownership (scarier),</p>
  <ul>
-  <li>Ownership is a human invention and a good one at that.</li>
-  <li>The problem is <em>centralized</em> ownership.</li>
+  <li>Ownership is a human invention, a tool for living in society, and a good one at that.</li>
+  <li>The problem is <em>centralized ownership</em>.</li>
+  <li>Everybody who contributes is a co-owner</li>
   <li>Co-ownership is decentralized.</li>
-  <li>Co-ownership recognizes contributions</li>
-  <li>Co-ownership accounts for contributions (as <span class="_paradigm">RAD</span>s)</li>
-  <li>Co-ownership makes contributions tangible (by factoring benefits through <span class="_paradigm">RAD</span>s).</li>
-  <li>Everybody is a co-owner</li>
+  <li>Co-ownership is based on recognized contributions</li>
+  <li><span class="_paradigm">RAD</span>s make contributions tangible.</li>
  </ul>
 
 {% include related.html %}
