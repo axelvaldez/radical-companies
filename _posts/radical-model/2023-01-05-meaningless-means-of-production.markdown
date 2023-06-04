@@ -17,8 +17,8 @@ image:    "icon-meaningless-means-of-production.svg"
  <p>What went out with the bathwater is <em>dignity</em>. We confuse status for  dignitiy and attaboys for <em>recognition</em>.</p>
  <p>In the <span class="_paradigm">Radical</span> model,</p>
  <ul>
-  <li>Your peers recognize your contributions. They can do this fairly and efficiently because they are working side by side with you.</li>
-  <li>Your contributions have to be made tangible (<em>e.g.</em>, <span class="_paradigm">RAD</span>s determine your percentage of whatever is up for distribution: money, ownership, etc.).</li>
+  <li>Your peers recognize your contributions.</li>
+  <li>Your contributions are made tangible.</li>
  </ul>
 
 <h1>The RADs! Mobile App</h1>
@@ -27,15 +27,17 @@ image:    "icon-meaningless-means-of-production.svg"
    <table class="_h2table">
     <tr>
      <th>Recognized Contributions</th>
-     <td>It lets everybody recognized what they see as your contributions. You may be surprised what comes natural to you but others see as near superhero behavior.</td>
+     <td>
+      <p>It lets everybody recognized what they see as your contributions. You may even be surprised what others see as near superhero behavior. They can do this fairly and efficiently because they are working side by side with you.</p>
+     </td>
     </tr>
     <tr>
-     <th>Conversion</th>
+     <th>Conversions</th>
      <td>The app converts these contributions to <span class="_paradigm">RAD</span>s.</td>
     </tr>
     <tr>
      <th>Tangible</th>
-     <td>The number of <span class="_paradigm">RAD</span>s you get determines your percentage of all <span class="_paradigm">RAD</span>s given. This means that <span class="_paradigm">RAD</span>s can factor money, ownership, etc.</td>
+     <td> and <span class="_paradigm">RAD</span>s determine your percentage of whatever is given. <span class="_paradigm">RAD</span>s can factor money, ownership, etc.</td>
     </tr>
    </table>
   </div>
