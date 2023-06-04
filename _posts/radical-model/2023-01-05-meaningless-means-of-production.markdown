@@ -20,7 +20,7 @@ image:    "icon-meaningless-means-of-production.svg"
   <li>Your contributions have to be made tangible (<em>e.g.</em>, <span class="_paradigm">RAD</span>s determine your percentage of whatever is up for distribution: money, ownership, etc.).</li>
  </ul>
 
-<h1>The <em><span class="_paradigm">RAD</span>s! App</em></h1>
+<h1>The RADs! Mobile App</h1>
  <p>This is exactly what the <em>RADs!</em> app does,</p>
   <div class="_center">
    <table class="_h2table">
