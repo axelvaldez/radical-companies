@@ -36,7 +36,7 @@ image:    "icon-what-about-leftover-violence.svg"
   </ul>
 
 <h1>But&hellip; What about the Guns?</h1>
- <p>Not sure what to do about <em>people with guns.</em> Would I go down and talk to them?  I don&rsquo;t think so. Would I do the superhero thing and swipe their weapons away with my cape? I don&rsquo;t even own a cape, for crying out loud.</p>
+ <p>Not sure what to do about <em>people with guns.</em> Would I go down and talk to them?  I don&rsquo;t think so. Would I do the superhero thing and swipe their weapons away with my cape? I don&rsquo;t think so.</p>
  <p>The <em>talk</em> is not with <em>people with weapons</em> but with <em>people with needs.</em> And it has to start way earlier. The addicted people probably need help getting the monkeys off their back. This may give them the wherewithal to get out from under the <span class="_paradigm">Fiat</span> pressures which, in turn, may do away with the conditions that precipitated the addiction in the first place. People suffering from addictions may not, but people in recovery will most likely readily grasp what co-ownership offers them.</p>
  <p>No <span class="_paradigm">Fiat</span> pressures, no addiction, no <em>people with guns,</em> no threat of lethal violence.</p>
 
