@@ -18,7 +18,7 @@ image:    "icon-business-vs-firm-vs-company.svg"
  <p><em>Firm</em>, too, also about making money. Whatever it meant in the past when, it implies power and rigidness today. <span class="_paradigm">Company</span> is <em>fluid</em>.</p>
 
 <h1>Breaking Bread</h1>
- <p>A company is about people. It is about coming together to accomplish something bigger than any one person can.</p>
+ <p>A company is about people coming together to accomplish something bigger than any one person can.</p>
  <p><span class="_paradigm">Company</span> comes from Latin <em>co-</em> (together) and <em>pan</em> (bread), meaning people who breaks bread together. We could have made up a word, but we didn&rsquo;t want to sound alien. <span class="_paradigm">Company</span>, on the other hand, is familiar and it has a lovely etymology.</p>
 
 {% include related.html %}
