@@ -30,16 +30,16 @@ image:    "icon-the-roots-of-radical.svg"
  <ul>
   <li>It feeds on enclosures. What used to be for the use by the community is now for the exclusive use of the brute who moved all others out by force.</li>
   <li>In modern times, the &ldquo;force&rdquo; can be gentle and pass unnoticed, but it is force nevertheless (<em>e.g.</em>, think of Facebook and the software giants).</li>
-  <li>This divides people into what has come to be known as classes.</li>
-  <li>Classes struggle and sometimes it ends up in bloody revolutions. All of these sacrifices end up ushering a new set of bosses.</li>
-  <li>At one end, it results in an absolute &ldquo;leader&rdquo; who aims to stay forever. At the other end, it ends up with elected &ldquo;leaders.&rdquo;</li>
-  <li>In both cases, big money calls the shots and the hierarchy remains.</li>
-  <li>Ownership goes from more centralized to less, but it never gets completely decentralized.</li>
+  <li>People are diivided by what has come to be known as classes.</li>
+  <li>Classes struggle and sometimes it ends up in bloody revolutions.</li>
+  <li>All of these sacrifices end up ushering a new set of bosses, but the <span class="_paradigm">Fiat</span> stays in place.</li>
+  <li>At one end, it results in an absolute &ldquo;leader&rdquo; who aims to stay forever.</li>
+  <li>At the other end, it ends up with elected &ldquo;leaders.&rdquo;, that nevertheless by rule by fiat.</li>
+  <li>In both cases, big money calls the shots and the <span class="_paradigm">Fiat</span> hierarchy remains.</li>
   <li>Servitude, enclosure, and exploitation continue unabated.</li>
-  <li>Modern systems of government move humankind forward, but they remain unjust and exploitative by design.</li>
-  <li>Worse, they nourish the destruction of our life support system.</li>
+  <li>The <span class="_paradigm">Fiat</span> system has the side-effect of destructing our life support system.</li>
  </ul>
- <p>This may be disagreeable, but it is actually rational, given our <span class="_paradigm">Fiat</span> culture. We need a different system, like <span class="_paradigm">Radical</span>, if we want to survive.</p>
+ <p>This may be disagreeable, scary, and what no, but it is actually rational in the <span class="_paradigm">Fiat</span> system. We need a non-<span class="_paradigm">Fiat</span>  system if we want to survive.</p>
 
 <h1>Centralization</h1>
  <p>The &ldquo;bad guy&rdquo; is not the capital system and not this or that form of government.</p>
@@ -50,56 +50,12 @@ image:    "icon-the-roots-of-radical.svg"
  <p>Maybe this was not possible earlier, but it is certainly possible now to distribute ownership without having somebody, like a boss, deciding how much to give and to whom.</p>
  <p>Today we can have everybody recognize contributions and determine ownership.</p>
 
-<h1>For More</h1>
- <p>See
-                                <em>Get Rid of Ownership</em>,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>
-  <em>Google Goes <span class="_paradigm">Radical</span></em>,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>
-   <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a>
-                              <em>No Bonuses or Salaries</em>,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> and
-          <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a>
- </p>
-
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
    <p class="_list-item">
     I know I am being simplistic here, but it is basically right and it is memorable.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en02">
-   <p class="_list-item">
-    <em>Get Rid of Ownership</em>.
-    &lt;<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>&gt;
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en03">
-   <p class="_list-item">
-    <em>Google Goes <span class="_paradigm">Radical</span></em>.
-    &lt;<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>&gt;
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en04">
-   <p class="_list-item">
-    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
-    &lt;<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>&gt;
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en05">
-   <p class="_list-item">
-    <em>No Bonuses or Salaries</em>
-    &lt;<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>&gt;
-    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en06">
-   <p class="_list-item">
-    <em>Giving RADs</em>
-    &lt;<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>&gt;
-    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
