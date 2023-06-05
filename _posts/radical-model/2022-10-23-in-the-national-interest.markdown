@@ -46,7 +46,7 @@ image:    "icon-in-the-national-interest.svg"
  <p>Later the Roman empire fell apart and wars ensued. In the end, the Castilian chiefdom won and forced everybody else, in what&rsquo;s today Spain, to speak Castilian. The Basque and the Catalonians still speak their corresponding language, but they speak Castilian as well. In fact, all of Europe went through similar amalgamation. Tribes became nations.</p>
  <p>To be clear, this &ldquo;amalgamation&rdquo; was not peaceful by any means. It involved all-out wars and ethnic cleansing.</p>
  <p><em>This</em> is how nations were made, by brute force.</p>
- <p>However, it all happened a long time ago and by now we are happy to believe that &ldquo;nations&rdquo; have always been this way. Kind of like a perfect result of evolution.</p>
+ <p>However, it all happened a long time ago and by now we are happy to believe that &ldquo;nations&rdquo; have always been this way. Kind of like a perfect result of an imagined evolution.</p>
 
 <h1>Lingua Franca</h1>
  <p>You can fake culture, traditions and rituals, but not language. Let&rsquo;s assume a common language as the main requirement for a nation.</p>
