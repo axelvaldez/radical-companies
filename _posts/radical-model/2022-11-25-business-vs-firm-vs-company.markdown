@@ -18,7 +18,6 @@ image:    "icon-business-vs-firm-vs-company.svg"
 
 <h1>Breaking Bread</h1>
  <p>A company is about people. It is about coming together to accomplish something bigger than any one person can.</p>
- <p>The word comes from Latin <em>co-</em> (together) and <em>pan</em> (bread) meaning people who breaks bread together. We could have made up a word, but we didn&rsquo;t want to sound alien, whereas <span class="_paradigm">Company</span> is familiar and it has a lovely etymology.</p>
- <p><em>Company</em> is it.</p>
+ <p><span class="_paradigm">Company</span> comes from Latin <em>co-</em> (together) and <em>pan</em> (bread), meaning people who breaks bread together. We could have made up a word, but we didn&rsquo;t want to sound alien, whereas <span class="_paradigm">Company</span> is familiar and it has a lovely etymology.</p>
 
 {% include related.html %}
