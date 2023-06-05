@@ -42,8 +42,7 @@ image:    "icon-the-roots-of-radical.svg"
  <p>This may be disagreeable, scary, and what no, but it is actually rational in the <span class="_paradigm">Fiat</span> system. We need a non-<span class="_paradigm">Fiat</span>  system if we want to survive.</p>
 
 <h1>Centralization</h1>
- <p>The &ldquo;bad guy&rdquo; is not the capital system and not this or that form of government.</p>
- <p>The bad guy <em>is</em> centralized ownership.</p>
+ <p>The &ldquo;bad guy&rdquo; is not the capital system and not this or that form of government. The bad guy is <em>centralized ownership</em>.</p>
 
 <h1><span class="_paradigm">Radical</span> Co-Ownership</h1>
  <p>The most important thing for our long-term survival is to decentralize ownership. And not for a few lucky people, but for everyone. I am not talking about tweaking a gas car, but creating an all-electric car.</p>
