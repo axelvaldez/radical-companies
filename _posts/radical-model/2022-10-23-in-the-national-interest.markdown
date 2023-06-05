@@ -156,7 +156,7 @@ image:    "icon-in-the-national-interest.svg"
   <li id="en04">
    <p class="_list-item">
     Martii Lami.
-    <em>La cuarta vertebra: estafador a pesar suyo.</em>.
+    <em>La cuarta vertebra: estafador a pesar suyo</em>.
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
