@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Google Goes <span class='_paragigm'>Radical</span>"
+title:    "Google Goes Radical"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "icon-google-goes-radical.svg"
@@ -15,10 +15,10 @@ image:    "icon-google-goes-radical.svg"
  <p>AdSense grew into a gushing well of riches as Google made it into the dominant player in the Ad market. And, in 2004, Google went public.</p>
  <p>What if at that point Google had been a <span class="_paradigm">Radical</span> company, with no hierarchy, no bosses, and no employees? What would Google do with only collaborators dedicated to decentralization, transparency, meaning, and belonging? What would they  do with their prosperous future?</p>
 
-<h1><span class="_paradigm">Fiat</span> Google</h1>
+<h1>Fiat Google</h1>
  <p>We know what <span class="_paradigm">Fiat</span> Google has done: they went public and started all kinds of projects to increase headcount and add heft to the management pyramid. They followed the <span class="_paradigm">Fiat</span> logic and the hierarchy accumulated employees under a boss, The bosses became bigger bosses and got paid more, <em>ad infinitum</em>.</p>
 
-<h1><span class="_paradigm">Fiat</span> Google Shortcomings</h1>
+<h1>Fiat Google Shortcomings</h1>
  <p>Take a look at <span class="_paradigm">Fiat</span> Google,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
   <div class="_center">
    <table style="width:40%;">
@@ -122,12 +122,12 @@ image:    "icon-google-goes-radical.svg"
  <p>We will use net income as equivalent to dividends, earned by the people doing the work, but consumed by capital investors. Bonuses would have been treated as an expense and are not included in Net Income.</p>
  <p>The situation is even worse when you look at their Capital Efficiency. If you have worked at a <span class="_paradigm">Fiat</span> software company, it is blatantly obvious that the people create the value and capital efficiency can be viewed as profit per employee. Looking at it this way,  <span class="_paradigm">Fiat</span> Google&rsquo;s capital efficiency peaked in 2006 and essentially plateaus after that.</p>
 
-<h1><span class="_paradigm">Radical</span> Google</h1>
+<h1>Radical Google</h1>
  <p>A <span class="_paradigm">Radical</span> Google would have acted differently. The motivation is to bring co-owners into the group only as needed. Otherwise, given a flat revenue, more headcount means less money for each co-owner.</p>
  <p>In 2004, <span class="_paradigm">Radical</span> Google would have had approximately $399 million in dividends to be distributed as <span class="_paradigm">RAD</span>s. Everybody, every Google co-owner, would get a piece of those <em>earned dividends</em> according to the <span class="_paradigm">RAD</span>s they owned at the time. People with lots of recognized contributions would get more and others less.</p>
  <p>In 2005, Google co-owners would share $1.465 billion in <em>earned dividends</em>. Imagine every Googler getting around half a million dollars.</p>
 
-<h1><span class="_paradigm">Radical</span> Google Advantages</h1>
+<h1>Radical Google Advantages</h1>
  <p>As a decentralized and transparent company, rGoogle would have likely not have the ballooning headcount that started around 2007.</p>
  <p><span class="_paradigm">Fiat</span> Google couldn&rsquo;t help their headcount addiction,  a must have of <span class="_paradigm">Fiat</span> hierarchies. But, more than likely, the <span class="_paradigm">Radical</span> Google co-owners would have grown their rank as needed.</p>
  <p>Here is what ten years of Google&rsquo;s performance might have looked like,</p>
