@@ -39,7 +39,6 @@ image:    "icon-equal-vs-equitable.svg"
 
 <h1>Fiat Does Not Scale</h1>
  <p>This <span class="_paradigm">Fiat</span> system doesn&rsquo;t scale mostly because it relies on one or a handful of benevolent people to make it bearable. Among other things, the <span class="_paradigm">Fiat</span> hierarchy gets in the way of innovation, productivity, and quality; worse. it gets in the way of wellbeing. The only thing it doesn&rsquo;t get in the way of, is making a few people wealthy.</p>
-  <div class="_center">
  
 <h1>Everybody a Co-Owner</h1>
  <p>The <span class="_paradigm">Radical</span> way is to have <em>everybody</em> recognize contributions <em>as they happen</em>. It makes everybody a co-owner,</p>
@@ -51,11 +50,13 @@ image:    "icon-equal-vs-equitable.svg"
    <li>As the community scales in size, co-owners in teams still know each other and can recognize contributions made my each.</li>
    <li>Co-owners will learn to communitcate more global contributions widely.</li>
   </ul>
-  <img
-   src="/assets/img/equal-vs-equitable-03.svg"
-   class="_center"
-   style="width:70%; margin-bottom:10px; "
-   alt="">
+  <div class="_center">
+   <img
+    src="/assets/img/equal-vs-equitable-03.svg"
+    class="_center"
+    style="width:70%; margin-bottom:10px; "
+    alt="">
+  </div>
  
 <h1>Contribution Recognitions</h1>
  <p>Recognition of contributuions works like this,</p>
