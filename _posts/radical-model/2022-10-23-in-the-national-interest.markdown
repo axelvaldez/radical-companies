@@ -73,7 +73,7 @@ image:    "icon-in-the-national-interest.svg"
   <table class="_h2table">
    <tr>
     <th>Churches</th>
-    <td>All churches have one or more supernatural gods at the top of their <span class="_paradigm">Fiat</span> hierarchy. And, of course, there is one or a small group of humans who can interpret the deities. God is the owner and the slected few are the boss of this partcular <span class="_paradigm">Fiat</span> hierarchy.</td>
+    <td>All churches have one or more supernatural gods at the top of their <span class="_paradigm">Fiat</span> hierarchy. And, of course, there is one or a small group of humans who can interpret the deities. God is the owner and the slected few are the boss of this particular <span class="_paradigm">Fiat</span> hierarchy.</td>
    </tr>
    <tr>
     <th>Businesses</th>
