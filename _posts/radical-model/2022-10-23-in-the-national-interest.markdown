@@ -109,7 +109,7 @@ image:    "icon-in-the-national-interest.svg"
  <p>I first ran into it in the book <em>La Cuarta Vertebra</em>,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> an early 1960s book. Before that, in 1910, King Camp Gillette proposed a World Corporation to bypass governments.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> There are many others that have come up on a regular basis, but they all have the same weakness: their proposed fix is to build a taller <span class="_paradigm">Fiat</span> hierarchy. I believe that the opposite is called for: governance without a <span class="_paradigm">Fiat</span> hierarchy at all.</p>
 
 <h1>Collaboration</h1>
- <p>As I said above, <span class='_quotespan'>A lot of people can solve problems bigger than themselves by working together with a lot of other people around the world</span.</p>
+ <p>As I said above, <span class='_quotespan'>A lot of people can solve problems bigger than themselves by working together with a lot of other people around the world</span>.</p>
  <p>It may take a long time, but this is what is bound to replace <span class="_paradigm">Fiat</span> governments: people collaborating to solve problems, develop new technologies, and improve our wellbeing.</p>
  <p>The European Union is an example of what happens when borders come down and things, like currency, get normalized across countries.</p>
 
