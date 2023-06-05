@@ -57,9 +57,9 @@ image:    "icon-fiat-dictatorships.svg"
   <li id="en02">
    <p class="_list-item">
     Inyoung Hwang.
-    <em>The Dictator&rsquo;s Handbook: Why Bad Behavior is Almost Always Good Politics.</em>
-    January 08, 2021.
-    &lt;<a href="https://radicals.world/kGIsk5" target="_blank">https://radicals.world/kGIsk5</a>&gt;
+    <em>A Brief History of the Stock Market .</em>
+    March 15, 2023.
+    &lt;<a href="https://radicals.world/ovm27Z" target="_blank">https://radicals.world/ovm27Z</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
