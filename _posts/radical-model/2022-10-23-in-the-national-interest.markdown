@@ -140,16 +140,16 @@ image:    "icon-in-the-national-interest.svg"
   <li id="en02">
    <p class="_list-item">
     Richard Langworth.
-    <em>Churchill&rsquo;s “Democracy is the Worst Form of Government&hellip; .”</em>
-    &lt;<a href="https://radicals.world/1a6vDr">https://radicals.world/1a6vDr</a>&gt; (alt., &lt;<a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>&gt;)
+    <em>Churchill&rsquo;s &rdquo;Democracy is the Worst Form of Government&hellip; .&rdquo;</em>
+    &lt;<a href="https://radicals.world/1a6vDr">https://radicals.world/1a6vDr</a>&gt; (alt, &lt;<a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>&gt;)
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
    <p class="_list-item">
     Richard Langworth.
-    <em>Churchill&rsquo;s “Democracy is the Worst Form of Government&hellip; .”</em>
-    &lt;<a href="https://diigo.com/0qf2of">https://diigo.com/0qf2of</a>&gt; (alt.  <a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>&gt;)
+    <em>Churchill&rsquo;s &rdquo;Democracy is the Worst Form of Government&hellip; .&rdquo;</em>
+    &lt;<a href="https://diigo.com/0qf2of">https://diigo.com/0qf2of</a>&gt; (alt, <a href="https://diigo.com/0qf2ob">https://diigo.com/0qf2ob</a>&gt;)
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -157,7 +157,7 @@ image:    "icon-in-the-national-interest.svg"
    <p class="_list-item">
     Martii Lami.
     <em>La cuarta vertebra: estafador a pesar suyo</em>.
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+    &lt;<a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>&gt;
    </p>
   </li>
   <li id="en05">
