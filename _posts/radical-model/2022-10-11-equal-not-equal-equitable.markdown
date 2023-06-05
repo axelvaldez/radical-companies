@@ -100,7 +100,7 @@ image:    "icon-equal-vs-equitable.svg"
  <p>This distribution will most likely change again in future cycles as things change.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>What Is a Contribution</h1>
- <p>Today contributions are about growing to the wealth of the business owners,</p>
+ <p>In <span class="_paradigm">Fiat</span> businesses contributions are about growing to the wealth of the business owners,</p>
  <div class="_citation">
   <p>&ldquo;Owning a business is the fastest reliable way to wealth.&hellip; That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.&rdquo;<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
