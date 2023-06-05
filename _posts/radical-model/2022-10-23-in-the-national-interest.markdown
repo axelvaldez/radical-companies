@@ -87,9 +87,6 @@ image:    "icon-in-the-national-interest.svg"
     <th>Non-for-Profits and NGOs</th>
     <td>They are well-meaning, hopefully. They don&rsquo;t aim to make money, but to make the <span class="_paradigm">Fiat</span> system bearable. No matter, they are also ruled by one or more bosses. Their edicts flow down the <span class="_paradigm">Fiat</span> hierarchy below.</td>
    </tr>
-   <tr>
-    <td calsss="_spacer"></td>
-   </tr>
   </table>
  </div>
 
