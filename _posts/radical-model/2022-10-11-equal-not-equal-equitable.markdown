@@ -59,7 +59,7 @@ image:    "icon-equal-vs-equitable.svg"
   </div>
  
 <h1>Contribution Recognitions</h1>
- <p>Recognition of contributuions works like this,</p>
+ <p>Contribution recognitions work like this,</p>
  <ul>
   <li>Goes on all the time, not a quarter or a year later when memories get fuzzy.</li>
   <li>Are done by everybody, not just a small group.</li>
