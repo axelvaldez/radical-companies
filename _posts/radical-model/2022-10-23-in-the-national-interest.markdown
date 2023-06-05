@@ -61,11 +61,17 @@ image:    "icon-in-the-national-interest.svg"
  </ul>
  <p>What this means is, that as much as I may wish for a different history, we are now at a point where we should be coming up with new systems, not one anchored in the past. We can create a better history going forward, without violence, with collaboration.</p>
  <p>The <span class="_paradigm">Fiat</span> system that we&rsquo;ve inherited has not been viable for a while already and will continue to get worse going forward. In a search for an alternative, we need to be able to <em>see</em>,</p>
- <ul>
-  <li><span class="_paradigm">Fiat</span> hierarchies.</li>
-  <li>How much we accept them.</li>
-  <li>How invisible they are.</li>
- </ul>
+  <ul>
+   <li><span class="_paradigm">Fiat</span> hierarchies.</li>
+   <li>How much we accept them.</li>
+   <li>How invisible they are.</li>
+  </ul>
+  <div class="_center">
+   <img
+    src="/assets/img/en-alignment.svg"
+    width="70%"
+    alt="">
+  </div>
 
 <h1>The Fiat Hierarchy</h1>
  <p>Every kind of organization today is based on a <span class="_paradigm">Fiat</span> hierarchy: churches, businesses, non-for-profits, NGOs, and governments.</p>
