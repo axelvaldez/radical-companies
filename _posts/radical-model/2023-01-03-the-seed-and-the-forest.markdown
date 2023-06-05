@@ -13,11 +13,12 @@ image:    "icon-the-seed-and-the-forest.svg"
 <h1>&nbsp;</h1>
  <div class='_qnablock'>
   <p class="_q">Where did this forest come from?</p>
-  <p class="_a">>The forest comes from the relationship between,</p>
+  <p class="_a">The forest comes from the relationship between,</p>
    <ul>
     <li>A seed ready to grow</li>
     <li>Land ready to feed it</li>
    </ul>
   </p>
+ </div>
 
 {% include related.html %}
