@@ -24,7 +24,7 @@ image:    "icon-the-roots-of-radical.svg"
  <ul>
   <li>My wellbeing is extracted from everybody else&rsquo;s wellbeing (servitude).</li>
   <li>My wellbeing is determined by my (financial) wealth and my wealth is extracted from everybody else&rsquo;s wealth (enclosure).</li>
-  <li>My wealth is grown from everybody else&rsquo;s labor (exploitation).</li>
+  <li>My wealth is grown by everybody else&rsquo;s labor (exploitation).</li>
  </ul>
  <p>The injustice, and oftentimes horror, that this system engenders is actually pretty predictable,</p>
  <ul>
