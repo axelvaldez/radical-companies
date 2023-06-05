@@ -14,7 +14,7 @@ image:    "icon-google-goes-radical.svg"
  <p>Paul Bucheit started Gmail at Google in 2001. Later he started AdSense to generate income for Gmail. Before he left in 2006, Buchit coined the &ldquo;do no evil&rdquo; tag.</p>
  <p>AdSense grew into a gush of riches and Google became the dominant player in the digital Ad market.</p>
  <p>In 2004, Google went public.</p>
- <p>What if at that point Google had been a <span class="_paradigm">Radical</span> company, with no hierarchy, no bosses, and no employees? What would Google do with only collaborators dedicated to decentralization, transparency, meaning, and belonging? What would they  do with their prosperous future? That is not too much of a stretch in that in 2002 Google did try to &ldquo;go flat.&rdquo;</p>
+ <p>What if at that point Google had been a <span class="_paradigm">Radical</span> company, with no hierarchy, no bosses, and no employees? What would Google do with only collaborators dedicated to decentralization, transparency, meaning, and belonging? What would they  do with their prosperous future? That is not too much of a stretch in that in 2002 Google did make a messed up attempt to &ldquo;go flat.&rdquo;</p>
 
 <h1>Fiat Google</h1>
  <p>We know what <span class="_paradigm">Fiat</span> Google has done: they went public and started all kinds of projects to increase headcount and add heft to the management pyramid. They followed the <span class="_paradigm">Fiat</span> logic and the hierarchy accumulated employees under a boss, The bosses became bigger bosses and got paid more, <em>ad infinitum</em>.</p>
