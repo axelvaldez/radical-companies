@@ -110,7 +110,7 @@ image:    "icon-in-the-national-interest.svg"
 
 <h1>Collaboration</h1>
  <p>As I said above, <span class='_quotespan'>A lot of people can solve problems bigger than themselves by working together with a lot of other people around the world.</span></p>
- <p>It may take a long time, but non-<span class="_paradigm">Fiat</span> governance is what is bound to replace <span class="_paradigm">Fiat</span> governments: people collaborating to solve problems, develop new technologies, and improve our wellbeing.</p>
+ <p>It may take a long time, but non-<span class="_paradigm">Fiat</span> governance is what is bound to replace <span class="_paradigm">Fiat</span> governments: people collaborating to solve problems and improve our wellbeing.</p>
  <p>The European Union is an example of what happens when borders come down and things, like currency, get normalized across countries.</p>
 
 <h1>Borders</h1>
