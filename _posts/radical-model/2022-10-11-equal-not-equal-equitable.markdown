@@ -33,7 +33,7 @@ image:    "icon-equal-vs-equitable.svg"
  </div>
 
 <h1>They Are Not the Same</h1>
- <p><em>Equal</em> and <em>Equitable</em> are not the same. Equal is about treating everybody the same; equitable is about equitable outcomes. Equal is about giving everybody a box to stand on whereas equitable is about giving everybody what they need.</p>
+ <p><em>Equal</em> and <em>Equitable</em> are not the same. Equal is about treating everybody the same; equitable is about equitable outcomes. To be clear this not the Marxist maxim of &ldquo;each according to his need.&rdquo; Please, keep reading.</p>
  <p>Let&rsquo;s say that the distribution is done by a boss or a committee. In the early days, with a small team, the boss or committee knows everybody and knows their work and they assign money, or stock, or whatever equitably. As the team grows, the boss or committee knows less and less of the new people as individual. At that point, the distribution starts to get out of whack: they make up rules that lean towards equal.</p>
  <p>The old people notice and feel nostalgic. The next wave of people also notice and feel it&rsquo;s somewhat unfair, but &ldquo;hey, the old guys deserve it.&rdquo; The newest people also notice, feel unappreciated, and quit.</p>
 
