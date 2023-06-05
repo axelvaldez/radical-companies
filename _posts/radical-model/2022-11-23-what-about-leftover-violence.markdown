@@ -19,7 +19,7 @@ image:    "icon-what-about-leftover-violence.svg"
  <p>That sounded scary to me. What would I do if that had happened to me? Would I stay home? (No) Would I move away, to a hotel? (Yes). That is the choice we are going to face during a transitional period from our current system to a collaborative one.</p>
 
 <h1>Less Drama, Same Danger</h1>
- <p>Most of them won&rsquo;t be as dramatic as <em>people with guns</em>, but it will be a threat nevertheless.</p>
+ <p>Most of them won&rsquo;t be as dramatic as <em>people with guns</em>, but it will be threats nevertheless.</p>
  <p><span class="_quotespan">These numbers should not be available to everyone, they could be scary to some people. I&rsquo;ll look at them and disclose them as necessary.</span> But he who defines <em>necessary</em> is the boss. <span class="_quotespan">For the time being, take directions from me.</span> But he who sets the direction of work is the boss.</p>
  <p>In other words, he who makes things less transparent, also makes things more centralized, and vice versa. That is the temptation that will be present for a long time. It may not always work, but I believe that to resist it, talk.</p>
 
