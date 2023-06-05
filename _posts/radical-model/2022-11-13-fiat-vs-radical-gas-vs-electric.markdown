@@ -39,7 +39,7 @@ image:    "icon-the-roots-of-radical.svg"
   <li>Servitude, enclosure, and exploitation continue unabated.</li>
   <li>The <span class="_paradigm">Fiat</span> system has the side-effect of destructing our life support system.</li>
  </ul>
- <p>This may be disagreeable, scary, and what no, but it is actually rational in the <span class="_paradigm">Fiat</span> system. We need a non-<span class="_paradigm">Fiat</span>  system if we want to survive.</p>
+ <p>This may be disagreeable, scary, and what not, but it is actually rational in the <span class="_paradigm">Fiat</span> system. We need a non-<span class="_paradigm">Fiat</span>  system if we want to survive.</p>
 
 <h1>Centralization</h1>
  <p>The &ldquo;bad guy&rdquo; is not the capital system and not this or that form of government. The bad guy is <em>centralized ownership</em>.</p>
