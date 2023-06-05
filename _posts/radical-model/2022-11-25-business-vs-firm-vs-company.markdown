@@ -14,7 +14,7 @@ image:    "icon-business-vs-firm-vs-company.svg"
  <p>The question came up again: Why not call a business a <span class="_paradigm">Business</span>? or a <span class="_paradigm">Firm</span>? Why the insistence on <span class="_paradigm">Company</span>?</p>
 
 <h1>Simple</h1>
- <p>A <em>business</em> sole purpose is to make money for the (owners). We want to make money for everybody involved, but don&rsquo;t want <em>money making</em>; as the defining reason for coming together. <span class="_paradigm">Company</span> is about making Impact on the world.</p>
+ <p>A <em>business</em> sole purpose is to make money for the (owners). We want to make money for everybody involved, but don&rsquo;t want <em>money making</em>; as the defining reason for coming together. <span class="_paradigm">Company</span> is about people and making an positive impact.</p>
  <p><em>Firm</em> is also about making money. Whatever it meant back when, it implies power and rigidness today. <span class="_paradigm">Company</span> is <em>fluid</em>.</p>
 
 <h1>Breaking Bread</h1>
