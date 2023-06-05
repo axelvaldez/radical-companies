@@ -24,11 +24,11 @@ image:    "icon-fiat-dictatorships.svg"
  </table>
 
 <h1>Kleptocracies</h1>
- <p>Dictatorships <em>have to</em> become kleptocracies to fund private goods (<em>aka</em>, corruption) at the expense of public goods.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Take, for example, Russia, North Korea, or Cuba: they have enough of an economy to fund the force necessary to maintain their dictatoships in power, but not enough to maintain their infrastructure.</p>
+ <p>Dictatorships <em>have to</em> become kleptocracies to fund private goods (<em>aka</em>, corruption) at the expense of public goods.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Take, for example, Russia, North Korea, or Cuba: they have enough of an economy to fund the force necessary to maintain their dictatoships in power, but not enough to maintain their infrastructure or even their war machine.</p>
 
 <h1>Are Dictatorships Illegal</h1>
  <p>Dictatorships may be repugnant, but are they <em>illegal</em>? There is no international law that I know of to declare them one way or the other, so everything they do is&hellip; undefined.</p>
- <p>At the business level, national laws make businesses legal. Given that businesses are <span class="_paradigm">Fiat</span> dictatorships, with all the power centralized in the hands of the owners, having owners collect all the profits is legal. And although that work for the handful of owners, it is not even the best way to grow wealth for society.</p>
+ <p>At the business level, national laws make businesses legal. Given that businesses are <span class="_paradigm">Fiat</span> dictatorships, with all the power centralized in the hands of the owners, having owners collect all the profits is legal. And although that work for the handful of owners, it is not the best way to grow wealth for society.</p>
 
 <h1>The Stock Market</h1>
  <p>The brilliance of the stock market is the realization that it takes a community to grow.<p>
