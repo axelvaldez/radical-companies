@@ -40,7 +40,7 @@ image:    "icon-fiat-dictatorships.svg"
  <p>On the other hand, the stock market has been stuck. It went from being a pricing machine to a gambling table, with ruthless competition and predatory practices. All of this has corrupted its healthy growth.</p>
 
 <h1>Oh, the Irony</h1>
- <p>It is noteworthy that non-<span class="_paradigm">Fiat</span>, <span class="_paradigm">Radical</span>, companies will be incubated <em>inside</em> <span class="_paradigm">Fiat</span> businesses. This, we hope, will transform the <span class="_paradigm">Fiat</span> system itself. As people learn what is like to be a co-owner, our hope is that they will take it to other <span class="_paradigm">Fiat</span> institutions, like School Board and their local governments.</p>
+ <p>It is noteworthy that non-<span class="_paradigm">Fiat</span>, <span class="_paradigm">Radical</span>, companies will be incubated <em>inside</em> <span class="_paradigm">Fiat</span> businesses. This, we hope, will transform the <span class="_paradigm">Fiat</span> system itself. As people learn what is like to be a co-owner, our hope is that they will take it to other <span class="_paradigm">Fiat</span> institutions, like School Boards and their local governments.</p>
  <p>It is remarkable that non-<span class="_paradigm">Fiat</span> companies are better for business than <span class="_paradigm">Fiat</span> businesses. Oh, the irony.</p>
 
 <h1 class="_section">ENDNOTES</h1>
