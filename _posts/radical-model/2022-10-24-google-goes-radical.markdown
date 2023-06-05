@@ -223,7 +223,7 @@ image:    "icon-google-goes-radical.svg"
    alt="">
  </div>
  <p>A <span class="_paradigm">Radical</span> Google co-owner could have earned a total of over $18M over that time. As people who co-owned the company, the 2004 Googlers might have chosen to grow the company differently.</p>
- <p>Because it decentralizes power in the company that would normally have been assigned to bosses, <span class="_paradigm">Radical</span> Google&rsquo;s growth might have been guided by their Capital Efficiency and it would have grown meteorically. This would also increase profit per co-owner because there&rsquo;d be no empires (<em>i.e.</em>, <span class="_paradigm">Fiat</span> hierarchy) to grow.</p>
+ <p>Because of its decentralizes power, rGoogle growth might have grown meteorically. This would also increase profit per co-owner because there&rsquo;d be no empires (<em>i.e.</em>, <span class="_paradigm">Fiat</span> hierarchy) to grow.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
