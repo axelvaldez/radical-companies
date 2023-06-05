@@ -17,7 +17,7 @@ image:    "icon-google-goes-radical.svg"
  <p>What if at that point Google had been a <span class="_paradigm">Radical</span> company, with no hierarchy, no bosses, and no employees? What would Google do with only co-owners dedicated to decentralization, transparency, meaning, belonging, and experimentation? What would they do with their prosperous future? This is not too much of a stretch in that in 2002 Google did make a messed up attempt to &ldquo;go flat.&rdquo;</p>
 
 <h1>Fiat Google</h1>
- <p>We know what <span class="_paradigm">Fiat</span> Google has done: they went public and started all kinds of projects to increase headcount and add heft to the management pyramid. They followed the <span class="_paradigm">Fiat</span> logic and the hierarchy accumulated employees under a boss, The bosses became bigger bosses and got paid more, <em>ad infinitum</em>.</p>
+ <p>We know what <span class="_paradigm">Fiat</span> Google has done: they went public and started all kinds of projects to increase headcount and add heft to the management pyramid. They followed the <span class="_paradigm">Fiat</span> logic and the hierarchy accumulated employees under a boss. The bosses became bigger bosses and got paid more, <em>ad infinitum</em>.</p>
 
 <h1>Fiat Google Shortcomings</h1>
  <p>Take a look at <span class="_paradigm">Fiat</span> Google,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
