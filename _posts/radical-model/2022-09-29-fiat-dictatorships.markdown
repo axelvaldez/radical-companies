@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "FIAT Dictatorships"
+title:    "Fiat Dictatorships"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-fiat-dictatorships.svg"
@@ -35,9 +35,9 @@ image:    "icon-fiat-dictatorships.svg"
  <div class="_citation">
   <p>1790: The Philadelphia Stock Exchange is formed, helping spur the development of the U.S.&rsquo; financial sectors and the country&rsquo;s expansion west.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
- <p>It was a community of people with accummulated capital to invest, but note that its first priority was to help "the U.S.&rsquo; &ldquo;financial sectors.&rdquo;<p>
- <p>The &ldquo;all men are created equal&rdquo; US Constitution was written and signed by slavers, but its interpretation has progressed since then. We have to be thankful that the US Constituion was aspirational.</p>
- <p>On the other hand, the stock market has been stuck. It went from being a pricing machine to a gambling table, with ruthless competition and predatory practices. All of this has corrupted its growth.</p>
+ <p>It was a community of people with accummulated capital to invest, but note that its first priority was to help  &ldquo;the U.S.&rsquo; financial sectors.&rdquo;<p>
+ <p>The &ldquo;all men are created equal&rdquo; US Constitution was written and signed by slavers, but, thankfully, the US Constituion was aspirational and its interpretation has progressed since, though not without a fight.</p>
+ <p>On the other hand, the stock market got stuck and it went backwards. It went from being a pricing machine to a gambling table, with ruthless competition and predatory practices. All of this has corrupted its growth.</p>
 
 <h1>Oh, the Irony</h1>
  <p>It is noteworthy that non-<span class="_paradigm">Fiat</span>, <span class="_paradigm">Radical</span>, companies will be incubated <em>inside</em> <span class="_paradigm">Fiat</span> businesses. This, we hope, will transform the <span class="_paradigm">Fiat</span> system itself. As people learn what is like to be a co-owner, our hope is that they will take it to other <span class="_paradigm">Fiat</span> institutions, like School Boards and their local governments.</p>
