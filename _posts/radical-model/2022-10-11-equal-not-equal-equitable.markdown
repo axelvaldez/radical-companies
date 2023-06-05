@@ -68,7 +68,7 @@ image:    "icon-equal-vs-equitable.svg"
  <p>Each member, then, is a co-owner who gets to distribute the ownership of the company and its dividends to other co-owners. And they do it all the time, as they see those contributions happen.</p>
  <p>They can do this via the <em><span class="_paradigm">RAD</span>s!</em> mobile app.</p>
 
-<h1>Giving <span class="_paradigm">RAD</span>s</h1>
+<h1>Giving RADs</h1>
  <p>Every co-owner gets one <span class="_paradigm">RAD</span> per day and she gets to give them to other co-owners based on their contributions. Different co-owners will get different amounts of <span class="_paradigm">RAD</span>s from varous other co-owners.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>We may end with this,</p>
   <div class="_center">
