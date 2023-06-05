@@ -56,6 +56,8 @@ image:    "icon-ptsd-and-trust.svg"
  <!-- Misc -->
  <span class="_paradigm">rMedia</span>
  <span class="_paradigm">rPlayGym</span>
+ <span class="_paradigm">Business</span>
+ <span class="_paradigm">Firm</span>
 
 <!-- QUOTESPAN -->
 <h1></h1>
