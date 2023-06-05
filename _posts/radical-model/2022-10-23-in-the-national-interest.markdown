@@ -99,11 +99,11 @@ image:    "icon-in-the-national-interest.svg"
 <h1>Governments</h1>
  <p>Governments are the biggest and most powerful <span class="_paradigm">Fiat</span> hierarchies of all. And they have a monopoly on violence, the most raw type of force.</p>
  <p>Churchill was right in saying that democracies are better than other forms of government, but they are not good enough to solve the problems we face. In fact, they&rsquo;ve created many of the problems we face today.</p>
- <p>In fact, national governments have de facto created this “foreign danger,”</p>
+ <p>In fact, national governments have de facto created this &ldquo;foreign danger,&rdquo;</p>
  <ul>
   <li>Countries are an enclosure and enclosures create borders.</li>
   <li>Anything and anybody outside these borders are, therefore, foreign.</li>
-  <li>Anything foreign can easily become, or be made, into “foreign danger.”</li>
+  <li>Anything foreign can easily become, or be made, into a &ldquo;foreign danger.&rdquo;</li>
  </ul>
  <p>The idea that national governments are an anachronism has been recognized for a long time.</p>
  <p>I first ran into it in the book <em>La Cuarta Vertebra</em>,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> an early 1960s book. Before that, in 1910, King Camp Gillette proposed a World Corporation to bypass governments.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> There are many others that have come up on a regular basis, but they all have the same weakness: their proposed fix is to build a taller <span class="_paradigm">Fiat</span> hierarchy. I believe that the opposite is called for: governance without a <span class="_paradigm">Fiat</span> hierarchy at all.</p>
