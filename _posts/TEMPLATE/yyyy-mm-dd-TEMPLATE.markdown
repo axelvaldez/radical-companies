@@ -22,7 +22,7 @@ image:    "icon-ptsd-and-trust.svg"
 <!-- Endnote URL replace -->
 <h1></h1>
  <a href="#en(\d\d)"><[^>]*>\d&nbsp;<.*/a>
- <a href="#en$1"><sup id="bm$1">&nabla;&hairsp;</sup></a>
+ <a href="#en$1"><sup id="bm$1">&hairsp;&nabla;&hairsp;</sup></a>
 
 <!-- Opposite of <em> -->
 <h1></h1>

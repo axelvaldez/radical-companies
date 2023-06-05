@@ -25,7 +25,7 @@ image:    "icon-removing-a-huge-pain-salaries.svg"
    <li>Eventually this goes to increase the <em>owners&rsquo;</em> equity. &ldquo;Labor&rdquo; creates present <em style="font-weight:bold; ">and</em> future value.</li>
   </ul>
   </p>
- <p>Even the six-figure <em>salaries</em> that software developers can demand today,<a href="#en01"><sup id="bm01">1&nbsp;</sup></a> are just cost to the business.</p>
+ <p>Even the six-figure <em>salaries</em> that software developers can demand today,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> are just cost to the business.</p>
  
 <h1>Give Everybody Stock?</h1>
   <p>Giving everybody stock is not the answer.</p>
@@ -51,7 +51,7 @@ image:    "icon-removing-a-huge-pain-salaries.svg"
      <li>Salaries and raises are then based on these recognitions. If this man got 10% of the recognitions and this woman got 20%, then the woman gets twice as much as the guy.</li>
     </ul>
    </p>
-   <p>Everybody does a little bit of the recognizing, which they enjoy, and money gets allocated according to that. If there are any complaints or questions, anybody can ask anybody else. The only work that managers have to do is to train people to <em>not come to him</em> with those complaints and questions but to go ask their teammates.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a></p>
+   <p>Everybody does a little bit of the recognizing, which they enjoy, and money gets allocated according to that. If there are any complaints or questions, anybody can ask anybody else. The only work that managers have to do is to train people to <em>not come to him</em> with those complaints and questions but to go ask their teammates.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Elimninate Salaries</h1>
  <p>You can&rsquo;t eliminate salaries. People have to pay their bills on a regular basis and they have to know how much they are going to take home so they can plan. People need a predictable and regular income (PR<span class="_paradigm">PRI</span>I). But, how to do this?</p>

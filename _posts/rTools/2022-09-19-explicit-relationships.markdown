@@ -11,11 +11,11 @@ image:    "icon-explicit-relationships.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>I think we are getting a better idea of what the rHatchery is: We want to help <em><span class="_paradigm">Fiat</span> businesses</em><a href="#en01"><sup id="bm01">1&nbsp;</sup></a> transform into <em><span class="_paradigm">Radical</span> companies</em>. We want to engage with businesses that want to get away from the <span class="_paradigm">Fiat</span> ways and want to get on the path of becoming healthy companies.</p>
+ <p>I think we are getting a better idea of what the rHatchery is: We want to help <em><span class="_paradigm">Fiat</span> businesses</em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> transform into <em><span class="_paradigm">Radical</span> companies</em>. We want to engage with businesses that want to get away from the <span class="_paradigm">Fiat</span> ways and want to get on the path of becoming healthy companies.</p>
  <p>We came up with many different ways of doing this and a few tools.</p>
 
 <h1>Explicit Relationships</h1>
- <p>Jose came up with a tool we call a <em>Explicit Relationship</em>.<a href="#en02"><sup id="bm02">2&nbsp;</sup></a> Each would-be co-owner answers these questions for herself while everybody takes note. Then, they come up with a narrative that touches on these topics,</p>
+ <p>Jose came up with a tool we call a <em>Explicit Relationship</em>.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> Each would-be co-owner answers these questions for herself while everybody takes note. Then, they come up with a narrative that touches on these topics,</p>
  <p>It&rsquo;s pretty simple,</p>
   <ol>
    <li>You</li>
