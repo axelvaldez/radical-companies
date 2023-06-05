@@ -37,26 +37,25 @@ image:    "icon-equal-vs-equitable.svg"
  <p>Let&rsquo;s say that the distribution is done by a boss or a committee. In the early days, with a small team, the boss or committee knows everybody and knows their work and they assign money, or stock, or whatever equitably. As the team grows, the boss or committee knows less and less of the new people as individual. At that point, the distribution starts to get out of whack: they make up rules that lean towards equal.</p>
  <p>The old people notice and feel nostalgic. The next wave of people also notice and feel it&rsquo;s somewhat unfair, but &ldquo;hey, the old guys deserve it.&rdquo; The newest people also notice, feel unappreciated, and quit.</p>
 
-<h1><span class="_paradigm">Fiat</span> Does Not Scale</h1>
+<h1>Fiat Does Not Scale</h1>
  <p>This <span class="_paradigm">Fiat</span> system doesn&rsquo;t scale mostly because it relies on one or a handful of benevolent people to make it bearable. Among other things, the <span class="_paradigm">Fiat</span> hierarchy gets in the way of innovation, productivity, and quality; worse. it gets in the way of wellbeing. The only thing it doesn&rsquo;t get in the way of, is making a few people wealthy.</p>
   <div class="_center">
-   <img
-    src="/assets/img/equal-vs-equitable-03.svg"
-    class="_center"
-    style="width:70%; margin-bottom:10px; "
-    alt="">
-  </div>
  
 <h1>Everybody a Co-Owner</h1>
  <p>The <span class="_paradigm">Radical</span> way is to have <em>everybody</em> recognize contributions <em>as they happen</em>. It makes everybody a co-owner,</p>
- <ul>
-  <li>New people join a team.</li>
-  <li>They know everybody in the team and what each does.</li>
-  <li>The team gets to know the new folks and what they do.</li>
-  <li>Everybody gets to recognize contributions as they happen.</li>
-  <li>As the community scales in size, co-owners in teams still know each other and can recognize contributions made my each.</li>
-  <li>Co-owners will learn to communitcate more global contributions widely.</li>
- </ul>
+  <ul>
+   <li>New people join a team.</li>
+   <li>They know everybody in the team and what each does.</li>
+   <li>The team gets to know the new folks and what they do.</li>
+   <li>Everybody gets to recognize contributions as they happen.</li>
+   <li>As the community scales in size, co-owners in teams still know each other and can recognize contributions made my each.</li>
+   <li>Co-owners will learn to communitcate more global contributions widely.</li>
+  </ul>
+  <img
+   src="/assets/img/equal-vs-equitable-03.svg"
+   class="_center"
+   style="width:70%; margin-bottom:10px; "
+   alt="">
  
 <h1>Contribution Recognitions</h1>
  <p>Recognition of contributuions works like this,</p>
