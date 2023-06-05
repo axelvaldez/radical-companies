@@ -127,8 +127,8 @@ image:    "icon-google-goes-radical.svg"
 
 <h1>Radical Google (rGoogle) Advantages</h1>
  <p>As a decentralized and transparent company, rGoogle would have likely not have the ballooning headcount that started around 2007.</p>
- <p><span class="_paradigm">Fiat</span> Google couldn&rsquo;t help their headcount addiction, a must have of <span class="_paradigm">Fiat</span> hierarchies. But <span class="_paradigm">Radical</span> Google co-owners would have grown their rank as needed.</p>
- <p>Here is what ten years of Google&rsquo;s performance might have looked like,</p>
+ <p><span class="_paradigm">Fiat</span> Google couldn&rsquo;t help their headcount addiction, a must have of <span class="_paradigm">Fiat</span> hierarchies. But rGoogle co-owners would have grown their rank as needed.</p>
+ <p>Here is what ten years of rGoogle&rsquo;s performance might have looked like,</p>
  <table align="center" style="width:40%; ">
   <tr style="background-color:LightGray; ">
    <td style="text-align:center; font-weight:bold; vertical-align:middle; ">
@@ -222,7 +222,7 @@ image:    "icon-google-goes-radical.svg"
    width="70%"
    alt="">
  </div>
- <p>A <span class="_paradigm">Radical</span> Google co-owner could have earned a total of over $18M over that time. As people who co-owned the company, the 2004 Googlers might have chosen to grow the company differently. Decentralized rGoogle might have grown meteorically. This would also increase profit per co-owner because there&rsquo;d be no empires (<em>i.e.</em>, <span class="_paradigm">Fiat</span> hierarchy) to grow.</p>
+ <p>A <span class="_paradigm">Radical</span> rGoogle co-owner could have earned a total of over $18M over that time. As people who co-owned the company, the 2004 rGooglers might have chosen to grow the company differently. Decentralized rGoogle might have grown meteorically. This would also increase profit per co-owner because there&rsquo;d be no empires (<em>i.e.</em>, <span class="_paradigm">Fiat</span> hierarchy) to grow.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
