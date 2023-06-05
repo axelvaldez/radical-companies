@@ -28,7 +28,8 @@ image:    "icon-the-roots-of-radical.svg"
  </ul>
  <p>The injustice, and oftentimes horror, that this system engenders is actually pretty predictable,</p>
  <ul>
-  <li>It feeds on enclosures. What used to be for the use of regular people is now for the exclusive use of the brute who moved all others out by force. In modern times, the &ldquo;force&rdquo; can be gentle and pass unnoticed, but it is force nevertheless (<em>e.g.</em>, Meta/Facebook).</li>
+  <li>It feeds on enclosures. What used to be for the use by the community is now for the exclusive use of the brute who moved all others out by force.</li>
+  <li>In modern times, the &ldquo;force&rdquo; can be gentle and pass unnoticed, but it is force nevertheless (<em>e.g.</em>, think of Facebook and the software giants).</li>
   <li>This divides people into what has come to be known as classes.</li>
   <li>Classes struggle and sometimes it ends up in bloody revolutions. All of these sacrifices end up ushering a new set of bosses.</li>
   <li>At one end, it results in an absolute &ldquo;leader&rdquo; who aims to stay forever. At the other end, it ends up with elected &ldquo;leaders.&rdquo;</li>
