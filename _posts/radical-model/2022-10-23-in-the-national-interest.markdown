@@ -36,7 +36,7 @@ image:    "icon-in-the-national-interest.svg"
  <p>So, yes, democracy is better for our wellbeing than other forms of governance. However, like all forms of moderm governments, democracy brings along with it a <span class="_paradign">Fiat</span> hierarchy and a bureaucracy. And even though the bosses of said hierarchy are elected by the governed, neverthelss, the hierarchy is imposed fy force.</p>
 
 <h1>National Governments</h1>
- <p>National governments were engendered by big kingdoms, which were engendered by lesser kingdoms, which were engendered by tribal chiefdoms. This is true for all national governments, from shameless dictatorships to benevolent democracies. Also true for all national governments they are huge <span class="_paradigm">Fiat</span> hierarchies in charge of the national borders and a monopoloy on force.</p>
+ <p>National governments were engendered by big kingdoms, which were engendered by lesser kingdoms, which were engendered by tribal chiefdoms. This is true for all national governments, from shameless dictatorships to benevolent democracies. Governments are huge <span class="_paradigm">Fiat</span> hierarchies in charge of the national borders and a monopoloy on force.</p>
 
 <h1>Nations</h1>
  <p>I think at this point it would come in handy to talk about <em>nations.</em> These are primarily groups of people who speak the same language. More accurately, these are groups of people who have been forced to speak the same language and live/fake the same culture. Spain is a good example of what I mean, but it applies to all of Europe and a good chunck of the modern world.</p>
