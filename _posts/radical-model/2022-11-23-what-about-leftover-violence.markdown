@@ -24,21 +24,20 @@ image:    "icon-what-about-leftover-violence.svg"
  <p>In other words, he who makes things less transparent, also makes things more centralized, and vice versa. That is the temptation that will be present for a long time. It may not always work, but to resist it, talk.</p>
 
 <h1>Learn from Each Other</h1>
- <p>Some numbers may appear scary, some people may panick, and some may even make dramatic exits.</p>
- <p>The <span class="_paradigm">Radical</span> way is to talk about it. And this means learn from each other,</p>
+ <p>Some numbers appear scary, some people will panick, and some even make dramatic exits. The <span class="_paradigm">Radical</span> is to have a conversation, And by &ldquo;discuss&rdquo; I mean learn from each other,</p>
   <ul>
-   <li>Whoever knows about these number must explain them.</li>
-   <li>Maybe learn a different way of looking at these numbers that will not trigger fears.</li>
-   <li>Learn from the fearful and the fearless; they all have something to contribute.</li>
+   <li>Learn about a different way of looking at these numbers that will make the fears go away.</li>
+   <li>The fearful and the fearless will have something to contribute.</li>
    <li>Brainstorm the alternatives.</li>
    <li>In the end, the group will be a little <em>more</em> decentralized and transparent.</li>
    <li>Each person will be more capable of independent action.</li>
   </ul>
 
 <h1>But&hellip; What about the Guns?</h1>
- <p>Not sure what to do about <em>people with guns.</em> Would I go down and talk to them?  I don&rsquo;t think so. Would I do the superhero thing and swipe their weapons away with my cape? I don&rsquo;t think so.</p>
- <p>The <em>talk</em> is not with <em>people with weapons</em> but with <em>people with needs.</em> And it has to start way earlier. The addicted people probably need help getting the monkeys off their back. This may give them the wherewithal to get out from under the <span class="_paradigm">Fiat</span> pressures which, in turn, may do away with the conditions that precipitated the addiction in the first place. People suffering from addictions may not, but people in recovery will most likely readily grasp what co-ownership offers them.</p>
- <p>No <span class="_paradigm">Fiat</span> pressures, no addiction, no <em>people with guns,</em> no threat of lethal violence.</p>
+ <p>Not sure what to do about <em>people with guns.</em> Would I go down and talk to them? I don&rsquo;t think so. Would I do the superhero thing and swipe their weapons away with my cape? Nope.</p>
+ <p>The <em>talk</em> is not with <em>people with weapons</em> but with <em>people with needs.</em> And it has to start way earlier.</p>
+ <p>If the money came from selling drugs to addicted people the think to so is help them getting the monkeys off their back. And not as a handout. Help them get out from under the <span class="_paradigm">Fiat</span> pressures that lead to addiction in the first place.</p>
+ <p>Get rid of <span class="_paradigm">Fiat</span> pressures and get rid of addiction, and people with guns.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
