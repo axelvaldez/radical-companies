@@ -66,7 +66,7 @@ image:    "icon-ptsd-and-trust.svg"
 <!-- proto-image -->
   <div class="_center">
    <img
-    src="/assets/img/en-alignment.svg"
+    src="/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg"
     width="70%"
     alt="">
   </div>
