@@ -32,7 +32,7 @@ image:    "icon-in-the-national-interest.svg"
    <a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>
   </p>
  </div>
- <p>People, including Churchill, had reason to believe this given the history of raids, wars and other &ldquo;dangers from abroad.&rdquo;</p>
+ <p>People, including Churchill, had reason to believe this given the history of raids, wars and other <span class='_paradigm'>dangers from abroad.</span></p>
  <p>So, yes, democracy is better for our wellbeing than other forms of governance. However, like all forms of moderm governments, democracy brings along with it a <span class="_paradign">Fiat</span> hierarchy and a bureaucracy. And even though the bosses of said hierarchy are elected by the governed, neverthelss, the hierarchy is imposed fy force.</p>
 
 <h1>National Governments</h1>
