@@ -53,7 +53,9 @@ image:    "icon-equal-vs-equitable.svg"
   <li>New people join a team.</li>
   <li>They know everybody in the team and what each does.</li>
   <li>The team gets to know the new folks and what they do.</li>
-  <li>Everybody gets to recognize contributions as they happen. One may even recognize as contributions things that the other person didn&rsquo;t realize were valuable to the work.</li>
+  <li>Everybody gets to recognize contributions as they happen.</li>
+  <li>As the community scales in size, co-owners in teams still know each other and can recognize contributions made my each.</li>
+  <li>Co-owners will learn to communitcate more global contributions widely.</li>
  </ul>
  
 <h1>Contribution Recognitions</h1>
