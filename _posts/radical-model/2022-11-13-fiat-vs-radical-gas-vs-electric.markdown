@@ -13,7 +13,7 @@ image:    "icon-the-roots-of-radical.svg"
 <h1>&nbsp;</h1>
  <p>We can&rsquo;t get to the future in a gas-powered car; it will take us over the edge first. We need a fundamentally different vehicle.</p>
 
-<h1>The <span claa="_paradigm">Fiat</span> World</h1>
+<h1>The Fiat World</h1>
  <p>The world is ruled by fiat (<em>i.e.</em>, <span class="_quotespan">because I say so</span> with an implied <span class="_quotespan">or else</span>). The <span class="_paradigm">Fiat</span> world we live in has worked in the sense that it has made things better for many of us, but it can never be just.</p>
  <p>Trying to <em>fix</em> the <span class="_paradigm">Fiat</span> model is like trying to get a gas car to consume no gas. You can make the car more efficient, or even make it a gas-electric hybrid, but it will <em>always</em> be a gasoline fueled car. No gas, no work.</p>
  <p>The <span class="_paradigm">Radical</span> model is more like the all-electric car. Same look as a car, but it is fundamentally different. No gas, no problem.</p>
@@ -44,7 +44,7 @@ image:    "icon-the-roots-of-radical.svg"
 <h1>Centralization</h1>
  <p>The &ldquo;bad guy&rdquo; is not the capital system and not this or that form of government. The bad guy is <em>centralized ownership</em>.</p>
 
-<h1><span class="_paradigm">Radical</span> Co-Ownership</h1>
+<h1>Radical Co-Ownership</h1>
  <p>The most important thing for our long-term survival is to decentralize ownership. And not for a few lucky people, but for everyone. I am not talking about tweaking a gas car, but creating an all-electric car.</p>
  <p>Maybe this was not possible earlier, but it is certainly possible now to distribute ownership without having somebody, like a boss, deciding how much to give and to whom.</p>
  <p>Today we can have everybody recognize contributions and determine ownership.</p>
