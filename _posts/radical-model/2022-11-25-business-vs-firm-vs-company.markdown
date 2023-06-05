@@ -17,6 +17,7 @@ image:    "icon-business-vs-firm-vs-company.svg"
  <p>A <em>business</em>; is about business and its sole purpose is to make money, for one or a few owners. We want to make money for everybody involved, but don&rsquo;t want <em>money making</em>; as the defining reason for coming together. <em>Firm</em> is also about making money. It might have meant to be reminiscent of a <em>firm</em> handshake, as in <em>you have my word,</em>; but it also implies rigidness. <span class="_paradigm">Company</span> is <em>fluid</em>.</p>
 
 <h1>Breaking Bread</h1>
- <p>A company is about people. It is about coming together to accomplish something bigger than any one person can. The word comes from Latin, <em>co-</em> (together) and <em>pan</em> (bread) meaning people who breaks bread together. e could have made up a word, but we didn&rsquo;t want to sound alien. Given that <span class="_paradigm">Company</span> is familiar, and its lovely etymology, <em>company</em> is it. This is reflected in all my writings in that I refer to <span class="_paradigm">Fiat</span> <em>businesses</em> and <span class="_paradigm">Radical</span> <em>companies</em>.</p>
+ <p>A company is about people. It is about coming together to accomplish something bigger than any one person can. The word comes from Latin, <em>co-</em> (together) and <em>pan</em> (bread) meaning people who breaks bread together. We could have made up a word, but we didn&rsquo;t want to sound alien, whereas <span class="_paradigm">Company</span> is familiar, and it has a lovely etymology.</p>
+ <p><em>Company</em> is it.</p>
 
 {% include related.html %}
