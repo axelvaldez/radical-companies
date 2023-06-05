@@ -109,9 +109,6 @@ image:    "icon-google-goes-radical.svg"
      <td style="text-align:right; border-left:1px dotted black; ">14136.0</td>
      <td style="text-align:right; border-left:1px dotted black; ">263,731</td>
     </tr>
-    <tr>
-     <td class="spacer">&nbsp;</td>
-    </tr>
    </table>
   </div>
  <div class="_center">
@@ -124,13 +121,13 @@ image:    "icon-google-goes-radical.svg"
  <p>The situation is even worse when you look at their Capital Efficiency. If you have worked at a <span class="_paradigm">Fiat</span> software company, it is blatantly obvious that the people create the value and capital efficiency can be viewed as profit per employee. Looking at it this way,  <span class="_paradigm">Fiat</span> Google&rsquo;s capital efficiency peaked in 2006 and essentially plateaus after that.</p>
 
 <h1>Radical Google</h1>
- <p>A <span class="_paradigm">Radical</span> Google would have acted differently. The motivation is to bring co-owners into the group only as needed. Otherwise, given a flat revenue, more headcount means less money for each co-owner.</p>
- <p>In 2004, <span class="_paradigm">Radical</span> Google would have had approximately $399 million in dividends to be distributed as <span class="_paradigm">RAD</span>s. Everybody, every Google co-owner, would get a piece of those <em>earned dividends</em> according to the <span class="_paradigm">RAD</span>s they owned at the time. People with lots of recognized contributions would get more and others less.</p>
+ <p>A <span class="_paradigm">Radical</span> Google would have acted differently. The motivation is to bring co-owners into the group, but only as needed. Otherwise more headcount means less money for each co-owner.</p>
+ <p>In 2004, <span class="_paradigm">Radical</span> Google would have had approximately $399 million in dividends to be distributed as <span class="_paradigm">RAD</span>s. Every Google co-owner would get a piece of those <em>earned dividends</em> according to the <span class="_paradigm">RAD</span>s they owned at the time. <span class="_paradigm">RAD</span> come from recognized contributions so people with lots of recognized contributions would get more and others less.</p>
  <p>In 2005, Google co-owners would share $1.465 billion in <em>earned dividends</em>. Imagine every Googler getting around half a million dollars.</p>
 
-<h1>Radical Google Advantages</h1>
+<h1>Radical Google (rGoogle) Advantages</h1>
  <p>As a decentralized and transparent company, rGoogle would have likely not have the ballooning headcount that started around 2007.</p>
- <p><span class="_paradigm">Fiat</span> Google couldn&rsquo;t help their headcount addiction,  a must have of <span class="_paradigm">Fiat</span> hierarchies. But, more than likely, the <span class="_paradigm">Radical</span> Google co-owners would have grown their rank as needed.</p>
+ <p><span class="_paradigm">Fiat</span> Google couldn&rsquo;t help their headcount addiction, a must have of <span class="_paradigm">Fiat</span> hierarchies. But <span class="_paradigm">Radical</span> Google co-owners would have grown their rank as needed.</p>
  <p>Here is what ten years of Google&rsquo;s performance might have looked like,</p>
  <table align="center" style="width:40%; ">
   <tr style="background-color:LightGray; ">
@@ -217,9 +214,6 @@ image:    "icon-google-goes-radical.svg"
    <td style="text-align:right; border-left:1px dotted black; ">4000</td>
    <td style="text-align:right; border-left:1px dotted black; ">14136</td>
    <td style="text-align:right; border-left:1px dotted black; ">3,534,000</td>
-  </tr>
-  <tr>
-   <td class="spacer">&nbsp;</td>
   </tr>
  </table>
  <div class="_center">
