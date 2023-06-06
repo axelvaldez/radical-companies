@@ -15,7 +15,7 @@ image:    "icon-capital-v-force.svg"
  <div class="_speakera">First, the proletariat will take the capitalist down by <em>force</em>. Then they will use the riches they capture to create a system that is fair to the proletariat.</div>
  <div class="_speakerb">Good. But how will this fair-to-all situation come about?</div>
  <div class="_speakera">Well, we will figure that out as we go. In the meantime, we will hold the capital on behalf of the proletariat.</div>
- <div class="_speakerb">So you will take over everthing, including the capital, and decide what to do with it all, right?</div>
+ <div class="_speakerb">So you will take over everything, including the capital, and decide what to do with it all, right?</div>
  <div class="_speakera">On behalf of the proletariat, yes!</div>
  
 <h1>We Are Not Able to See it</h1>

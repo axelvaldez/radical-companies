@@ -18,7 +18,7 @@ image:    "icon-genuine-smile.svg"
 
 <h1>The Trigger</h1>
  <p>I know now that the trigger was <span class="_paradigm">Radical</span> Companies. At first I believed that keeping control was my thing. But then I understood that seeing people as people was my calling, not seeing them as resources. People, not robots. That simple fact made a huge difference to me. People can free their potential at the same time they grow, and align with others to create something big, bigger than they could create by themselves.</p>
- <p>Something changed in me and I now believe that seeing a company as a group of aligned people was the key. Everything fits. I can see everthing falling into place. That woke me up and made feel all that I could be just because I could.</p>
+ <p>Something changed in me and I now believe that seeing a company as a group of aligned people was the key. Everything fits. I can see everything falling into place. That woke me up and made feel all that I could be just because I could.</p>
  <p>To my surprise, a feeling of emptiness came up and it was scary. I was surviving, not living. That is why I felt so bad in a <span class="_paradigm">Fiat</span> company, not being able to be part of anything, not mattering except as a smart robot.</p>
 
 <h1>Born Out of Desperation</h1>
