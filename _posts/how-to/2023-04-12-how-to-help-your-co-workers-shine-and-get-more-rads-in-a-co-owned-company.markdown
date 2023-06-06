@@ -25,7 +25,7 @@ image:    "icon-how-to-help-your-co-workers-shine-and-get-more-rads-in-a-co-owne
  <p>The <span class='_paradigm'>Radical</span> model breaks you free from this. Co-owners want to help each other learn new skills; besides being people, as co-owners any improvement benefits them.</p>
 
 <h1>They Key</h1>
- <p>This is madepossible by,</p>
+ <p>This is made possible by,</p>
   <ul>
    <li>Transparency of the <span class='_paradigm'>RAD</span> distribution results.</li>
    <li>The satisfaction of helping people grow.</li>
