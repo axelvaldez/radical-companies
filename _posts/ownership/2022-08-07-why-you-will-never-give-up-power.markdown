@@ -2,7 +2,7 @@
 layout:   post
 title:    "Why You Will Never Give Up Power"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez"
+authors:  "Adrian Perez"
 image:    "icon-you-will-never-give-up-power.svg"
 ---
 
