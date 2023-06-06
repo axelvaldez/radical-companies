@@ -113,7 +113,7 @@ image:    "icon-rads-and-chatgpt.svg"
     <th>Legal and Regulatory</th>
     <td>
      <p>OK, this is a fair concern: we have not done anything about the legal aspect of this or about <span class="_paradigm">RAD</span>s tax implications. Whenever that comes up we either skip to the next topic or handwave furiously as <span class="_quotespan">we&rsquo;ll deal with that later.</span></p>
-     <p>We defintely need to talk with competent <span class="_paradigm">Fiat</span>s lawyers and have them come up with a contract that 1) protects the work of the community, 2) the co-owners from frivolous attacks, and 3) keeps co-owners squared up with their taxes.</p>
+     <p>We definitely need to talk with competent <span class="_paradigm">Fiat</span>s lawyers and have them come up with a contract that 1) protects the work of the community, 2) the co-owners from frivolous attacks, and 3) keeps co-owners squared up with their taxes.</p>
     </td>
    </tr>
    <tr>
