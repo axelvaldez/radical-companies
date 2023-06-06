@@ -20,7 +20,7 @@ image:    "icon-radical-certs.svg"
  <p>Another example is <em>B Labs</em> which has become a &ldquo;environmental impact authority&rdquo; with its &ldquo;B Corp certificate.&rdquo; They investigate, quantify, and corroborate any and all claims that the bosses may make. But bosses are very good at obfuscatin things and while many companies have deeply ingrained values that happened to be aligned to the ones that B Corp claims, most others use their <em>B Certs</em> for virtue signaling and bragging rights.<sup id="bn01"><a href="#fn01">1&nbsp;</a></sup></p>
  
 <h1>Nonetheless</h1>
- <p>In our <span class='_paradigm'>Fiat</span> world, it makes sense to have external <em>authorities</em> investigate that management is not lying or are pressuring their employees to &lsquo;be positive.&rdquo; The resulting <em>certificate</em> and their raking make the service easier to sell to the bosses.</p>
+ <p>In our <span class='_paradigm'>Fiat</span> world, it makes sense to have external <em>authorities</em> investigate that management is not lying or are pressuring their employees to &lsquo;be positive.&rdquo; The resulting <em>certificate</em> and their ranking make the service easier to sell to the bosses.</p>
  <p>By contrast, in the <span class='_paradigm'>Radical</span> model, a company&rsquo;s co-owners, backed by fully transparent data, are the ultimate authority in declaring what path they&rsquo;re on based on what they live day and day out.</p>
 
 <h1>To Protect Employees</h1>
