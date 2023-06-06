@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "rStayHome"
-subtitle: "From Gig Subsistence to Co-Onwership"
+subtitle: "From Gig Subsistence to Co-Ownership"
 authors:  "Matt Perez"
 image:    "icon-rmedia.svg"
 ---

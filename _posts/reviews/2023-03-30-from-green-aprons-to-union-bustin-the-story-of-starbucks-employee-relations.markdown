@@ -7,11 +7,11 @@ image:    "icon-starbucks-once-a-good-employer-now-at-the-bottom-of-the-list.svg
 ---
 
 <div style="display:none;">
- <p>Starbucks shows why co-management is not enough. We need to get away from ownership based on capital to co-onwership based on contributions.</p>
+ <p>Starbucks shows why co-management is not enough. We need to get away from ownership based on capital to co-ownership based on contributions.</p>
 </div>
 
 <h1>Sad</h1>
- <p>This makes me sad because once upon a time, Starbucks was the good, generous employer. The thing that got the most press is that they paid for health  insurance for part-time baristas. This shows why co-management is not enough. We need to get away from ownership based on capital to co-onwership based on contributions.</p>
+ <p>This makes me sad because once upon a time, Starbucks was the good, generous employer. The thing that got the most press is that they paid for health  insurance for part-time baristas. This shows why co-management is not enough. We need to get away from ownership based on capital to co-ownership based on contributions.</p>
 
 <h1>Starbucks Green Apron Book</h1>
  <p>They even had a <em>Starbucks Green Apron Book</em>,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>

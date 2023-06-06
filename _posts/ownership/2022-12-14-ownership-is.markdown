@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Onwership is&hellip;"
+title:    "Ownership is&hellip;"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-ownership-is.svg"

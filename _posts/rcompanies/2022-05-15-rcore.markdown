@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "rCORE"
-subtitle: "From Gig Subsistence to Co-Onwership"
+subtitle: "From Gig Subsistence to Co-Ownership"
 authors:  "Carlos Suarez, Jose Leal, Matt Perez"
 image:    "icon-rmedia.svg"
 ---

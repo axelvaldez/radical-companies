@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "rKare"
-subtitle: "From Gig Subsistence to Co-Onwership"
+subtitle: "From Gig Subsistence to Co-Ownership"
 authors:  "Jose Leal, Matt Perez"
 image:    "icon-rmedia.svg"
 ---
