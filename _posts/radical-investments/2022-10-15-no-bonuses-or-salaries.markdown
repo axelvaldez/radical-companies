@@ -20,7 +20,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <p>Roman soldiers of yore were paid with <em>sal</em>, &ldquo;salt,&rdquo; and that is where the word &ldquo;salary&rdquo; comes from.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Dividends Go Up to Owners</h1>
- <p>Capital is money that makes money. The new money is popularly called profits. Profits (<em>i.e.</em>, really dividens) go up to the owners.</p>
+ <p>Capital is money that makes money. The new money is popularly called profits. Profits (<em>i.e.</em>, really dividends) go up to the owners.</p>
  <p>To start a business, the boss either has capital or convinces people with capital to give him some. Then a business is born. Obviously, this is all a high-level sketch of what happens, but it serves to illustrate the point that,</p>
  <ol>
   <li>Because of their capital, investors own the business,</li>
@@ -93,7 +93,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
   <img
    src="/assets/img/en-predictable-recurring-income-pri-t2a.svg"
    width="70%"
-   alt="A table with six columns labeled Salim, Daliah, Alicia, Kim, Julio, Anita. Below it there is a historgram with rows labeled Earned Dividens, PRI Account, and PRIs. The PRI Account is one vertical box full of wavy red representing money from a cash infusion. In Salim's column shows no dividens and a 4-unit vertical PR box. Under Daliah's, Alicia's, and Anita's columns there is a 3-unit, 10-unit, and 2-unit vertical PRI boxes, respectively, and a 4-unit, 1-unit and 3 unit vertical dividend boxes. In the Kim's and Julio's columns there are a 4.5-unit and 8-unit vertical PRI boxex with a mix of being and red to indicate that moneh flowed out of the PRI account to fill what was missing from Kim's and Julio's PRI."
+   alt="A table with six columns labeled Salim, Daliah, Alicia, Kim, Julio, Anita. Below it there is a historgram with rows labeled Earned Dividends, PRI Account, and PRIs. The PRI Account is one vertical box full of wavy red representing money from a cash infusion. In Salim's column shows no dividends and a 4-unit vertical PR box. Under Daliah's, Alicia's, and Anita's columns there is a 3-unit, 10-unit, and 2-unit vertical PRI boxes, respectively, and a 4-unit, 1-unit and 3 unit vertical dividend boxes. In the Kim's and Julio's columns there are a 4.5-unit and 8-unit vertical PRI boxex with a mix of being and red to indicate that moneh flowed out of the PRI account to fill what was missing from Kim's and Julio's PRI."
    width="70%"
   >
  </div>
