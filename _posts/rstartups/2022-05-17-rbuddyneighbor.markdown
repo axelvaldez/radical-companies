@@ -574,7 +574,7 @@ image:    "icon-buddyneighbor.svg"
   <li>We will also pay and collect for the goods, but there won&rsquo;t be any markup.</li>
   <li>Buddies may get rewards for their service. The trick is not to let these <span class="_quotespan">rewards</span> become the goal for members. The goal is for Neighbors to get to know other Neighbors. For example, they may get valuable reward for their community.</li>
   <li><span class="_paradigm">rBuddyNeighbors</span> are our only paying customers. They and their neighborhoods must be the primary beneficiaries. I believe that our democracy will be the ultimate beneficiary.</li>
-  <li><span class="_paradigm">rBuddyNeighbors</span>&rsquo;s purpose is to make it easy to have Neighbors meet each other in real life, being serviciable to one another, bonding over a good deed done, a good deed received.</li>
+  <li><span class="_paradigm">rBuddyNeighbors</span>&rsquo;s purpose is to make it easy to have Neighbors meet each other in real life, being serviceable to one another, bonding over a good deed done, a good deed received.</li>
   <li><span class="_paradigm">rBuddyNeighbors</span> does not depend on goods outlets or any other revenue. Members are customers. Clear and simple.</li>
   <li>Outlets can contribute to local funds and projects on behalf of <span class="_paradigm">rBuddyNeighbors</span>. Not, <span class="_quotespan">Check out your Tuesday discounts&rdquo; but &ldquo;come Tuesday and get your <span class="_paradigm">rBuddyNeighbors</span> and we&rsquo;ll contribute X% of all sales to &hellip;</span></li>
  </ul>
