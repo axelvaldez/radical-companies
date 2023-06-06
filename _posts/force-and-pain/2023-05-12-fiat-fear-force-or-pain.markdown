@@ -16,7 +16,7 @@ image:    "icon-fiat-fear-force-or-pain.svg"
 <h1>Getting Out of the Foxhole</h1>
  <p>The argument has been bouncing around in my head for a few days. So I took a shower (my contemplative place). As it turned out, we were meeting with proto-<span class="_paradigm">Radical</span> companies right after</p>
  <p>I explained what was going on and let them know that I was leaning towards getting from  system we live in. However, they had good arguments to the contrary.</p>
- <p> carries a threat of force wih it, <span class="_quotespan">move that box from there to there</span>. The implied <span class="_quotespan">or else</span> very rarely gets said, but it is always there because I, the boss, can fire you and threatened your ability to survive. The box gets moved to avoid <span class="_paradign">Pain</span>.</p>
+ <p> carries a threat of force with it, <span class="_quotespan">move that box from there to there</span>. The implied <span class="_quotespan">or else</span> very rarely gets said, but it is always there because I, the boss, can fire you and threatened your ability to survive. The box gets moved to avoid <span class="_paradign">Pain</span>.</p>
   <div class="_center">
    <img
     src="/assets/img/pic-fiat-fear-force-or-pain.svg"
@@ -29,8 +29,8 @@ image:    "icon-fiat-fear-force-or-pain.svg"
  <p>When I came out of the shower I was ready ( for now.</p>
 
 <h1>Heart-Felt Stories</h1>
- <p>Paty (Patricia) told the story of when she got beaten down by job and she hit bottom. She decided to quit. Instead, she wanted to build a platform to make it easy for people to do things for the sake of their wellbeing. It&rsquo;s been a while, but we are building that platform, not as an app, but as a different way of living and thriving (<em>i.e.</em>, but it does include an app).</p>
- <p>Chabeli told us about her transformation by a simple act: getting over the fear of bringing up what she really felt. She was concerned about the others reactionn and was scared of the conversation that would follow. Finally, <span class="_quotespan">Make it for people, not just to make money.</span> It took courage to do, but it was the right thing for her and she felt really good after she said it.</p>
+ <p>Pati (Patricia) told the story of when she got beaten down by job and she hit bottom. She decided to quit. Instead, she wanted to build a platform to make it easy for people to do things for the sake of their wellbeing. It&rsquo;s been a while, but we are building that platform, not as an app, but as a different way of living and thriving (<em>i.e.</em>, but it does include an app).</p>
+ <p>Chabeli told us about her transformation by a simple act: getting over the fear of bringing up what she really felt. She was concerned about the others reaction and was scared of the conversation that would follow. Finally, <span class="_quotespan">Make it for people, not just to make money.</span> It took courage to do, but it was the right thing for her and she felt really good after she said it.</p>
  <p>As it turned out, the women that she was working with took her seriously and enjoyed and celebrated the process.</p>
  <p>These stories resonated with me. They spoke to the power of having an alternative to the  system we live under.</p>
  <p>It gives me hope.</p>

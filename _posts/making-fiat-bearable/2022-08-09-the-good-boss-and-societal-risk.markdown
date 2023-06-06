@@ -25,7 +25,7 @@ image:    "icon-the-good-boss.svg"
  <p>What would be better than one Bell Labs would be a community of them. I see some value is focusing research, certainly for companies. But there would be more value <em>to society</em> if there were a <em>community of labs</em> and people could follow their curiosity from one to the other. <span class="_paradigm">RAD</span>s</a><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> make sure that whatever contributions a researcher made in one lab would not be lost and would carry out to the next.</p>
 
 <h1>Lucky Us</h1>
- <p>I wasn't expecting it, but listening to the book made me aware of how extremely lucky Bell Labs and the rest of society had gotten when Shannon decided to tackle Information Theory <em>first</em>. And therein lies the flaw of management as a temporary, and fragile, guarantor of autonomy. It was not systemic.</p>
+ <p>I wasn&rsquo;t expecting it, but listening to the book made me aware of how extremely lucky Bell Labs and the rest of society had gotten when Shannon decided to tackle Information Theory <em>first</em>. And therein lies the flaw of management as a temporary, and fragile, guarantor of autonomy. It was not systemic.</p>
  <p>If Bell Labs had been committed to decentralization and transparency and to creating meaning and belonging, then Shannon would have had the autonomy he needed <em>systemic level</em>. He could have tackled subjects in whatever order he pleased, whether it'd be Information Theory first or last or in the middle. It would not be up to the largesse of his <em>good boss</em> and the <em>hierarchy</em> he was beholden to.</p>
 
 <h1>Radically Healthier</h1>

@@ -12,7 +12,7 @@ image:    "icon-meaning-and-belonging-happen-in-community.svg"
 
 <h1>&nbsp;</h1>
  <p><em>Meaning & Belonging</em> only happen in communities. Transformations only happen in community.</p>
- <p>Changing your mindset is key, but you need other people who have changed their mindset as well. <span class="_quotespan">If you want to go quick, go alone. If you want to go far, go together,</span> ypu will need like-minded companions for the journey.</p>
+ <p>Changing your mindset is key, but you need other people who have changed their mindset as well. <span class="_quotespan">If you want to go quick, go alone. If you want to go far, go together,</span> you will need like-minded companions for the journey.</p>
  <p>That is, too, what diversity is all about,
   <div class="_citation">
    <p>&hellip; not just ethnic diversity, not cultural diversyty, not just econmic diverstiy &hellip; Everyone! Everyone&rsquo;s voices.</p>
