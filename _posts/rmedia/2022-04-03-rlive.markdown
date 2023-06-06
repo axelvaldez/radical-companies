@@ -110,7 +110,7 @@ image:    "icon-rmedia.svg"
      <ul>
       <li>Hire a local videographer to give the <span style="font-size:smaller; ">ICONOCLAST</span>s the ability to walk and move around.</li>
       <li>Multiple cameras.</li>
-      <li>secord in public places, with people mulling about, ambient hum, etc.</li>
+      <li>Record in public places, with people mulling about, ambient hum, etc.</li>
      </ul>
     </td>
    </tr>
