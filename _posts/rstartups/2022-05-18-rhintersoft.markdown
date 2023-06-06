@@ -187,7 +187,7 @@ image:    "icon-feudalism-is-back-square.svg"
    </tr>
    <tr>
     <th>Product Developers</th>
-    <td>Everybody in the team who contributes to making software products and tools. It includes UX/UI, Interaction Designers, Graphics Designers, Product Stewards, Manual Testers, Programers, and the cleaning crew. Altogether they are referred to as product developers.</td>
+    <td>Everybody in the team who contributes to making software products and tools. It includes UX/UI, Interaction Designers, Graphics Designers, Product Stewards, Manual Testers, Programmers, and the cleaning crew. Altogether they are referred to as product developers.</td>
    </tr>
   </table>
  </div>
