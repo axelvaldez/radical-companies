@@ -29,7 +29,7 @@ image:    "icon-meaning-and-belonging-are-not-enough.svg"
   </table>
  </div>
  <p>And the comment was, <span class="_quotespan">Do you have to do everything at once? Why can&rsquo;t you start with Meaning and Belonging?</span></p>
- <p>The answer is that you don&rsquo;t have to do anythingk that you don&rsquo;t want to. You do have to work on all three legs of the foundation to be on the <span class="_paradigm">Radical</span> path.</p>
+ <p>The answer is that you don&rsquo;t have to do anything that you don&rsquo;t want to. You do have to work on all three legs of the foundation to be on the <span class="_paradigm">Radical</span> path.</p>
  <p>No matter, <em>Meaning & Belonging</em>, without <em>Transparency & Decentralization</em>, and <em>Experimentation</em>, is what paternalistic businesses are.</p>
 
 <h1>Time to Run</h1>x
