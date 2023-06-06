@@ -112,7 +112,6 @@ image:    "icon-radical-companies-for-the-impatient.svg"
        <img
         src="/assets/img/icon-dynamic-distribution-1.svg"
         alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person."
-        title="1 person's point of view: 17 of 56 people."
        >
       </td>
      </tr>
