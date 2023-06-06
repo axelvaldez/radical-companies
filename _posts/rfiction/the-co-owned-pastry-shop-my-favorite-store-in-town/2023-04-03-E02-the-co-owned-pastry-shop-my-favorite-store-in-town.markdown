@@ -50,7 +50,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speaker"><span class="_speakerb">Yes, that one. And it is very successful and very profitable.</span></p>
  <p class="_speaker"><span class="_speakera">And it gives me a headache.</span></p>
  <p>She looked at him sternly and then she turned to me,</p>
- <p class="_speaker"><span class="_speakerc">Actually, we tried that, but it didn't work. It ended up being very chaotic.</span></p>
+ <p class="_speaker"><span class="_speakerc">Actually, we tried that, but it didn&rsquo;t work. It ended up being very chaotic.</span></p>
  <p class="_speaker"><span class="_speakerb">Yes, it can happen, but it doesn&rsquo;t have to. I am the cofounder of a business that is over 800 people now, but it has no bosses, it is very profitable, and it is not chaotic at all.</span></p>
  <p>That made them sit up. I guess I had credibility with them now.</p>
  <p class="_speaker"><span class="_speakera">So, what happens without a boss.</span></p>

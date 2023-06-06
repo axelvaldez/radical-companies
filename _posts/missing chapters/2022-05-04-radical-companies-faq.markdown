@@ -126,7 +126,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>The existing financial system is broken, yes. What&rsquo;s happening with many businesses, not in oil and gas, is a reflection of that. We don&rsquo;t know how to tweak the current system so it lets us live a bit longer, but more bureaucratic controls are not going to fix it.</p>
  <p>In a decentralized world, co-owners will deal with problems <em>before</em> they become a problem. They become a problem today because a handful of people can decide to ignore &ldquo;externalities&rdquo; for the sake of financial gain.</p>
 
-<h2>Aren&rsquo;t the liquidy suggestions super complex? What about tax-wise? Do we want the people to deal with that?</h2>
+<h2>Aren&rsquo;t the liquidity suggestions super complex? What about tax-wise? Do we want the people to deal with that?</h2>
  <p>We never said anything about taxes, law, or anything else we don&rsquo;t know much about. These are suggestions, thought experiments to point to  how things could possibly work.</p>
  <p>Maybe it is not so much a case that these ideas are impractical, as it is that they are different and unfamiliar.</p>
 
