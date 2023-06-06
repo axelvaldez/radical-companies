@@ -7,11 +7,11 @@ image:    "icon-abed-baidas-talents-of-endearment.svg"
 ---
 
 <div style="display:none;">
- <p>Surprisingly branding is best done by children. They still have playfullness left in them.</p>
+ <p>Surprisingly branding is best done by children. They still have playfulness left in them.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Surprisingly branding is best done by children. They still have playfullness left in them. They have not learned to worry about the boss, they are just playing. Abed Baidas claimed it so and he is likely right.</p>
+ <p>Surprisingly branding is best done by children. They still have playfulness left in them. They have not learned to worry about the boss, they are just playing. Abed Baidas claimed it so and he is likely right.</p>
  <p>I didn&rsquo;t know what to expect but it turned out that Abed is a proto-<span class='_paradigm'>Radical</span>. We didn&rsquo;t talk much about co-ownership, but he defintely gets Meaning and Belonging, the floor of the <span class='_paradigm'>Radical</span> Foundation.</p>
   <div class="_center">
    <img
