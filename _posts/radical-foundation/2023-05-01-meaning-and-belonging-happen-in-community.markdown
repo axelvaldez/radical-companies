@@ -15,7 +15,7 @@ image:    "icon-meaning-and-belonging-happen-in-community.svg"
  <p>Changing your mindset is key, but you need other people who have changed their mindset as well. <span class="_quotespan">If you want to go quick, go alone. If you want to go far, go together,</span> you will need like-minded companions for the journey.</p>
  <p>That is, too, what diversity is all about,
   <div class="_citation">
-   <p>&hellip; not just ethnic diversity, not cultural diversity, not just economic diverstiy &hellip; Everyone! Everyone&rsquo;s voices.</p>
+   <p>&hellip; not just ethnic diversity, not cultural diversity, not just economic diversity &hellip; Everyone! Everyone&rsquo;s voices.</p>
    <p id="_signature">Ana Menendez, Associate Professor, FIU<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
  
