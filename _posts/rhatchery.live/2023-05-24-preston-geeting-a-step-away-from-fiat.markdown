@@ -19,7 +19,7 @@ image:    "icon-preston-geeting-a-step-away-from-fiat.svg"
 
 <h1>No Top Down Management</h1>
  <p>What Preston calls Top-Down Management is the  is business-hostile.</p>
- <p>Preston said . I did mentioned why not continue to Finance and the otehr administrative areas? Why not?</p>
+ <p>Preston said . I did mentioned why not continue to Finance and the other administrative areas? Why not?</p>
  <p>Here is hoping.</p>
 
 {% include related.html %}
