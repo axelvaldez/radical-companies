@@ -22,7 +22,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
  <p>But pain is the common thing.</p>
 
 <h1>p71</h1>
- <p>People born post 1971 grew up in an economy very different from the one I grew up in (I was worn in 1951). For me it was wild growth and oppoutnities all around. Post 1971 it has been no growth and limited opportunities.
+ <p>People born post 1971 grew up in an economy very different from the one I grew up in (I was worn in 1951). For me it was wild growth and opportunities all around. Post 1971 it has been no growth and limited opportunities.
   <div class="_center">
    <img
     src="/assets/img/pic-pain-anxiety-and-depression.svg"
@@ -39,7 +39,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
   </div>
 
 <h1>Co-Ownership</h1>
- <p>Co-ownership, co-management, and something like the <span class='_paradigm'>Radical</span> system is closer to what they may be wishing for. Instead of self-managekejt, we call it co-management<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>, but whatever you call it, we also need co-ownership, decentralized ownership.</p>
+ <p>Co-ownership, co-management, and something like the <span class='_paradigm'>Radical</span> system is closer to what they may be wishing for. Instead of <em>self</em>-management, we call it <em>co</em>-management<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>, but whatever you call it, we also need co-ownership, decentralized ownership.</p>
  <p>I often see <em>experts</em> encouraging you to &ldquo;think like an owner.&rdquo; But you are not, so all that enouragement is a bunch of empty words.</p>
  <p>On the other hand, as a co-owner you behave like an owner, simply because <em>you are.</em> No empty words necessary.</p>
 
