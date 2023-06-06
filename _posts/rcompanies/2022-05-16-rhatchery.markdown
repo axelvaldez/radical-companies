@@ -240,7 +240,7 @@ image:    "icon-rmedia.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Possibly, a good opportunity to get into an established company is when a new boss comes into the scene.  Particularly, when an inheriting child takes over a parent, such as when Ricard Semler took over after his father.
+    Possibly, a good opportunity to get into an established company is when a new boss comes into the scene.  Particularly, when an inheriting child takes over a parent, such as when Ricardo Semler took over after his father.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
