@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "All about  rRADs "
+title:    "All about  RADs "
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-all-about-rads.svg"

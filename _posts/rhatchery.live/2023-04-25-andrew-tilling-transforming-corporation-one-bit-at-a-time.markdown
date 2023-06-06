@@ -14,7 +14,7 @@ image:    "icon-andrew-tilling-transforming-corporations-one-bit-at-a-time.svg"
  <p>We had a very interesting podcast with Andrew Tilling who is helping big business transform to co-management.</p>
  <p>Andrew Tillings is a Brit living in Italy and he&rsquo;s the founder of The Hive Change Consultanty. The name comes from Andrew&rsquo;s admirations of bees who communicate complex patterns and choose a direction to go build a new hive by consent. Not all of the bees have to, and not all them do, but if enough of them follow, they can build a new hive. They don&rsquo;t follow the boss, because there isn&rsquo;t any, they follow what resonates with them. The decision is decentralized.</p>
  <p>Rather than trying to convert the whole business at once, Andrew goes about it in small bites. Sometime he&rsquo;ll start with Sales and show them how they can improve sales in a decentralized way. Bosses take time away from what they like to do most: sellling. Bosses consume a big salary that is better applied to another sales person or resources to make them all more effective. The result is increase sales.</p>
- <p>He also shows them how transparency trumps made up bullshit. Being honest and straigtforward with customers creates trust and pays in the end.</p>
+ <p>He also shows them how transparency trumps made up bullshit. Being honest and straightforward with customers creates trust and pays in the end.</p>
 
 <h1>Complement</h1>
  <p>The revelation for us was that Andrew&rsquo;s way could a complement to our efforts and his approach could be used to introduce co-ownership.</p>

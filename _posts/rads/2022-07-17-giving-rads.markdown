@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Giving  rRADs "
+title:    "Giving  RADs "
 subtitle: "The Latest"
 authors:  "Matt Perez, Jose Leal, Adrian Perez"
 image:    "icon-giving-rads.svg"
