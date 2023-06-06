@@ -11,7 +11,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Dr Olusola Ajore, Univerty of Illinois Chicago Professor of Psychiatry, says,</p>
+ <p>Dr Olusola Ajore, University of Illinois Chicago Professor of Psychiatry, says,</p>
   <div class="_citation">
    <p><span class="_quotatespan">We&rsquo;ve had &hellip; soaring rates of anxiety and depressiong</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
@@ -41,7 +41,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
 <h1>Co-Ownership</h1>
  <p>Co-ownership, co-management, and something like the <span class='_paradigm'>Radical</span> system is closer to what they may be wishing for. Instead of self-managekejt, we call it co-management<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>, but whatever you call it, we also need co-ownership, decentralized ownership.</p>
  <p>I often see <em>experts</em> encouraging you to &ldquo;think like an owner.&rdquo; But you are not, so all that enouragement is a bunch of empty words.</p>
- <p>On the other hand, as a co-owner you behave like an owner, simplye because <em>you are.</em> No empty words necessary.</p>
+ <p>On the other hand, as a co-owner you behave like an owner, simply because <em>you are.</em> No empty words necessary.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
