@@ -29,25 +29,22 @@ image:    "icon-radical-certs.svg"
 
 <h1>What Is the Alternative?</h1>
  <p>Surveys are fine for collecting data relatively quickly, but they need to have a foundation. The <span class='_paradigm'>Radical</span> Foundation has only five to remember,</p>
- <div class="_center">
-  <table class="_foundation">
-   <tr>
-    <th>people</th>
-    <td>Meaning & Belonging</td>
-   </tr>
-   <tr>
-    <th>commitments</th>
-    <td>Decentralization & Transparency</td>
-   </tr>
-   <tr>
-    <th>practices</th>
-    <td>Experimentation</td>
-   </tr>
-   <tr>
-    <td class="_spacer_"></td>
-   </tr>
-  </table>
- </div>
+  <div class="_center">
+   <table class="_h2table">
+    <tr>
+     <th>people</th>
+     <td>Meaning & Belonging</td>
+    </tr>
+    <tr>
+     <th>commitments</th>
+     <td>Decentralization & Transparency</td>
+    </tr>
+    <tr>
+     <th>practices</th>
+     <td>Experimentation</td>
+    </tr>
+   </table>
+  </div>
  <p>Questions based on this Foundation gives companies, and anybody else who cares to look, a view of how the company is doing, what needs to change/improve, etc. <span class='_quotespan'>Is the conmpany more decentralized or less?</span>.</p>
 
 <h1 class="_section">ENDNOTES</h1>
