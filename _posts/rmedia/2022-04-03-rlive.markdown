@@ -357,7 +357,7 @@ image:    "icon-rmedia.svg"
  <ul style="font-size:smaller; ">
   <li id="en01">
    <p class="_list-item">
-    Iconoclasts” would be the perfect name for this show, wouldn’t it?
+    Iconoclasts” would be the perfect name for this show, wouldn&rsquo;t it?
     HBO/Grey Goose
     &lt;<a href="https://www.youtube.com/watch?v=IdaHRoxNMZQ&feature=youtu.be&t=3">https://www.youtube.com/watch?v=IdaHRoxNMZQ&feature=youtu.be&t=3</a>&gt;
     Can we talk?

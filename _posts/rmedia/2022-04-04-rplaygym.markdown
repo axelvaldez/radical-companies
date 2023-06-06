@@ -275,7 +275,7 @@ image:    "icon-rmedia.svg"
       <li>For developers, this is done as a Pair Programming with pre-defined exercises for the appropriate stack. For manual testers, the candidate is given a scenario and asked to put together a test plan.</li>
       <li>Work and talk with the candidate.</li>
       <li>Offer hints (“I saw a thread in StackOverflow abou that”).</li>
-      <li>Question/nudge as needed (“wouldn't it be easier, if you did…”).</li>
+      <li>Question/nudge as needed (“wouldn&rsquo;t it be easier, if you did…”).</li>
       <li>One interviewer acts as a distractor (<em>i.e.</em>$, to learn if the candidate is easily distracted or not, and whether she loses her train of thought easily or not).</li>
       <li>The Task interview includes three exercises,</li>
        <ul>
