@@ -25,9 +25,10 @@ image:    "icon-radical-certs.svg"
 
 <h1>To Protect Employees</h1>
  <p>The result of these surveys are redacted, &ldquo;<em>for the privacy and safety of employees</em>.&rdquo; But that excuse does not apply in the <span class='_paradigm'>Radical</span> model since there are no employees who can be fired for voicing their feelings or pointing out what needs fixing. <span class='_paradigm'>Radical</span> co-owners don&rsquo;t need &ldquo;protection&rdquo; from hearing what others have to say. In fact, because the data is fully transparent, the same is true for the community outside the company: anybody can look at the detail, ask questions, comment on conclusions, and, ultimately, learn.</p>
+ <p>And, yes, all co-owners can agree to lie and put out false data. That is very unlikely, however, and would enventually come out.</p>
 
 <h1>What Is the Alternative?</h1>
- <p>Surveys are fine for collecting data relatively quickly, but they need to have a foundation. WorldBlu&rsquo;s survey is based on 10 Principles. The <span class='_paradigm'>Radical</span> Foundation has only three to remember,</p>
+ <p>Surveys are fine for collecting data relatively quickly, but they need to have a foundation. The <span class='_paradigm'>Radical</span> Foundation has only five to remember,</p>
  <div class="_center">
   <table class="_foundation">
    <tr>
@@ -47,10 +48,7 @@ image:    "icon-radical-certs.svg"
    </tr>
   </table>
  </div>
- <p>Questions based on these priciples, commitments, amd practices would give companies, and anybody else who cares to look, a view of how the company is doing, what needs to change/improve, etc. The details will come in coversations, as always.</p>
-
-<h1>If It Works&hellip;</h1>
- <p>Instead of annual surveys, it may be more valuable to have pipelined mini-surveys, for example. The point is to show a company&rsquo;s progression towards one end of the spectrum (<em>e.g.</em>, more centralized) or the other (<em>e.g.</em> less centralized). A company can then say, &ldquo;We are on the <span class='_paradigm'>Radical</span> path&hellip; and here&rsquo;s my data. See for yourself!&rdquo; Only the <em>people</em> who embody the company, not an arbitrary third party, can attest to what path they&rsquo;re on.</p>
+ <p>Questions based on this Foundation gives companies, and anybody else who cares to look, a view of how the company is doing, what needs to change/improve, etc. <span class='_quotespan'>Is the conmpany more decentralized or less?</span>.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
