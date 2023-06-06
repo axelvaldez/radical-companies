@@ -242,7 +242,7 @@ image:    "icon-buddyneighbor.svg"
   <li id="en02">
    <p class="_list-item">
     <div class="_p">
-     Or when she turns on the car. And how would we know this? Listening on her phone's mic? Kind of creepy? What if she went with a boyfriend and they are talking about the great sex they are going to have when they get home?
+     Or when she turns on the car. And how would we know this? Listening on her phone&rsquo;s mic? Kind of creepy? What if she went with a boyfriend and they are talking about the great sex they are going to have when they get home?
     </div>
     <div class="_p">
      It could be like Waze, with a handy (handier than Waze) screen to signal <span class="_quotespan">On my way.</span>
