@@ -7,7 +7,7 @@ image:    "icon-decentralized-decisionm-making.svg"
 ---
 
 <div style="display:none;">
- <p>Imagine that a <span class='_paradigm'>RADICAL</span> company uses <span class='_paradigm'>Banner</span>s to propose a projec After some dicussion, the <span class='_paradigm'>Banner</span> is funded.</p>
+ <p>Imagine that a <span class='_paradigm'>RADICAL</span> company uses <span class='_paradigm'>Banner</span>s to propose a project After some discussion, the <span class='_paradigm'>Banner</span> is funded.</p>
 </div>
 
 <h1>&nbsp;</h1>
