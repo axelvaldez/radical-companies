@@ -47,7 +47,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-    <em>AI voice coach shows promosice in depression, anxiety treatment</em>.
+    <em>AI voice coach shows promise in depression, anxiety treatment</em>.
     University of Illinois, Chicago
     May 17, 2023.
     &lt;<a href="https://radicals.world/PQ372x" target="_blank">https://radicals.world/PQ372x</a>&gt;
