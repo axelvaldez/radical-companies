@@ -68,7 +68,7 @@ image:    "icon-buddyneighbor.svg"
       <li>When Name gets to Safeway, the system alerts him of this request and adds, <span class="_quotespan">This will take you an extra five to ten minutes and approximate three blocks out of your route.</span></li>
       <li>Nam reviews the request and gets to see Kim&rsquo;s <span class="_quotespan">vitals&rdquo; (<em>e.g.</em>, &ldquo;single male, currently alone, thinks stabbing dolls is LOLZ</span> or <span class="_quotespan">mom of three</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>). This is a kind information that this Nam needs to know before he can safely accept a request.</li>
       <li>Nam accepts the request.</li>
-      <li>The system summarizes, and displayes something like, <span class="_quotespan">You are promising to deliver one gallon of Organic Valley 2% milk to Kim at&hellip;</span></li>
+      <li>The system summarizes, and displays something like, <span class="_quotespan">You are promising to deliver one gallon of Organic Valley 2% milk to Kim at&hellip;</span></li>
      </ul>
      <p>So far, the <span class="_paradigm">Neighbor</span> doesn&rsquo;t know anything. Once she accepts the request, the system will let Kim know that, <span class="_quotespan">Your request for Organic Valley 2% milk has been accepted. We&rsquo;ll charge $2.70 to your account. Do you still want it?</span></p>
      <ul>
@@ -78,7 +78,7 @@ image:    "icon-buddyneighbor.svg"
       <li>As Nam gets close to Kim&rsquo;s home, <span class="_paradigm">rBuddyNeighbors</span> alerts her again, <span class="_quotespan">Your <span class="_paradigm">Buddy</span>, Nam (and avatar) is about to get to your home with your Organic Valley 2% milk.</span></li>
       <li>Nam parks, but his girlfriend walks to Kim&rsquo;s front door.</li>
       <li>The <span class="_paradigm">Neighbor</span> communicates with Nam through the app, <span class="_quotespan">Hey, there&rsquo;s a young woman at my door, is she with you?</span></li>
-      <li>Nam realizes her concern and says, <span class="_quotespan">Oh, yes, she is my girlfiend. I&rsquo;ll come up, too. Sorry about that.</span></li>
+      <li>Nam realizes her concern and says, <span class="_quotespan">Oh, yes, she is my girlfriend. I&rsquo;ll come up, too. Sorry about that.</span></li>
       <li>She comes up, Kim opens the door, and they talk. Name points to their place down the street, Kim tells them about getting the kids fed in the morning, Nam tells her about a Neighborhood event scheduled for the weekend, they talk about the Farmer Markets in the area, &hellip;</li>
       <li>Kim accepts the delivery and adds a note to it, <span class="_quotespan">Got the milk and got to meet a very nice couple, Nam and her girlfriend.</span></li>
      </ul>
@@ -91,7 +91,7 @@ image:    "icon-buddyneighbor.svg"
       <li>Name, the <span class="_paradigm">Buddy</span>, never shows up and Kim tells us that she is closing his request because, <span class="_quotespan">the <span class="_paradigm">Buddy</span> never got here.</span></li>
       <li>Then we&rsquo;ll tell the <span class="_paradigm">Neighbor</span> something like, <span class="_quotespan">Sorry about what happened. Obviously, we won&rsquo;t be charging anything to your account. We are donating the yield of <span class='_paradigm'>RAD</span>s to the <span class='_paradigm'>BANNER</span> to build a Neighborhood gym. In any case, if you&rsquo;d like, we can let you know what Nam has to say about breaking his promise. Please, let us know if you&rsquo;re interested.</span></li>
       <li>We&rsquo;ll ask Nam, <span class="_quotespan">What happened, you broke your promise to Kim!</span></li>
-      <li>His response might be, <span class="_quotespan">I had to go straight home right away because my neighbor found my dog in her backyard. I was all flustered and forgot to let Kim know. Later, I was just embarrassed.</span> Or he could say, <span class="_quotespan">Halfway there that my girldfriend was pretty freaked out, so I didn&rsquo;t show up. I should have said something.</span></li>
+      <li>His response might be, <span class="_quotespan">I had to go straight home right away because my neighbor found my dog in her backyard. I was all flustered and forgot to let Kim know. Later, I was just embarrassed.</span> Or he could say, <span class="_quotespan">Halfway there that my girlfriend was pretty freaked out, so I didn&rsquo;t show up. I should have said something.</span></li>
      </ul>
     </td>
    </tr>
@@ -214,7 +214,7 @@ image:    "icon-buddyneighbor.svg"
     <th>Less Desirable Activities</th>
     <td>
      <p>You just know that people will try to use this for prostitution, distribution of illegal drugs, and other less desirable activities.</p>
-     <p>Regardless of what you think of these things, this would go against the Explicit Alignment of<span class="_paradigm">rBuddyNeighbor</span>. So, we&rsquo;d probably have to do something about it, algthough not sure what.</p>
+     <p>Regardless of what you think of these things, this would go against the Explicit Alignment of<span class="_paradigm">rBuddyNeighbor</span>. So, we&rsquo;d probably have to do something about it, although not sure what.</p>
      <p>Scanning requests will not work after a short while, and people will go crypto on us (<em>e.g.</em>, <span class="_quotespan">Looking for a one-night-stand. I&rsquo;ll pay $300&rdquo; will become <span class="_quotespan">Looking for my friend, Mike. I want to return his $300.</span> Maybe we can spot patterns (<em>e.g.</em>, the same person always responds to the &ldquo;Mike</span> requests).</p>
      <p>When we detect any of this, we could kick the &ldquo;Mike&rdquo; character out (and return their membership fees). But that is a use of force.</p>
      <p>It is not a matter of rules, we already have the Explicit Alignment to guide us. No matter, in the end the members/co-owners need to do something about it.</p>

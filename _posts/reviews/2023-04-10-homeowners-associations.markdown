@@ -34,7 +34,7 @@ image:    "icon-homeowners-associations.svg"
  <p>The move to the HOA makes everything opaque, as provided by law. Period.</p>
 
 <h1>But It Is <em>Cheaper</em></h1>
- <p>The justification for doing this is that it cheaper. Besides receving a fee for allowing the HOA, the local government takes the developmen&rsquo;s roads and other bothers off their books. If homeowners are abused or exploited, well they shoud not have bought a house in that developement. Never mind that our <span class='_paradigm'>Fiat</span> society shapes and pressures people to &ldquo;go up in life&rdquo; and the development was their way to buy a house.</p>
+ <p>The justification for doing this is that it cheaper. Besides receving a fee for allowing the HOA, the local government takes the developmen&rsquo;s roads and other bothers off their books. If homeowners are abused or exploited, well they should not have bought a house in that developement. Never mind that our <span class='_paradigm'>Fiat</span> society shapes and pressures people to &ldquo;go up in life&rdquo; and the development was their way to buy a house.</p>
  <p>No matter, it is cheaper for the local government and that&rsquo;s all that counts in <span class='_paradigm'>Fiat</span> land.</p>
 
 <h1 class="_section">CREDITS</h1>
