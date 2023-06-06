@@ -42,7 +42,7 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
  <p>BTW, each co-owner&rsquo;s contributions is recognized by other co-owners, not a boss or any such.</p>
 
 <h1><span class="_paradigm">RAD</span>s for Medical Services</h1>
- <p>The medical staff/co-owners would be easy because they perform the medical services needed. They would get <span class="_paradigm">RAD</span>s from patients/co-onwers and from the medical staff/co-owners.</p>
+ <p>The medical staff/co-owners would be easy because they perform the medical services needed. They would get <span class="_paradigm">RAD</span>s from patients/co-owners and from the medical staff/co-owners.</p>
  <p>The medical services is what they create by working together.</p>
  <p>But what about the patients/co-owners?</p>
 

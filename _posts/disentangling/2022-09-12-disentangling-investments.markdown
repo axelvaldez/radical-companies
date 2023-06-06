@@ -12,13 +12,13 @@ image:    "icon-disentangling-investments.svg"
 
 <h1>&nbsp;</h1>
  <p>This, too, shall pass, but for now, you need <em>capital</em>.</p>
- <p>How else are you going to get your business started? How else are you going to hire the people who are going to build your software? At least, you don't have to pay for office space now, but you still need a budget for socializing spaces (<em>i.e.</em>, because socializing is very important to the team health)</p>
+ <p>How else are you going to get your business started? How else are you going to hire the people who are going to build your software? At least, you don&rsquo;t have to pay for office space now, but you still need a budget for socializing spaces (<em>i.e.</em>, because socializing is very important to the team health)</p>
  <p>So, yes, you need capital. But what does that even mean? You need to learn more about it and what it entails.</p>
 
 <h1>The Money Folks</h1>
- <p>You went to a bank but it turned out that they loan money against assets that are worth as much as the loan. They are play it safe, but you get the capital in one big lump. Unfortunately, you don't have any safe assets to offer. If you were an established business you'd have a revenue stream to offer, but you don't have that, either. So, scratch banks.</p>
+ <p>You went to a bank but it turned out that they loan money against assets that are worth as much as the loan. They are play it safe, but you get the capital in one big lump. Unfortunately, you don&rsquo;t have any safe assets to offer. If you were an established business you&rsquo;d have a revenue stream to offer, but you don&rsquo;t have that, either. So, scratch banks.</p>
  <p>Next on the list is Angels. Essentially, wealthy people who have been through a similar experience and feel some sympathy for you. They can put up some of the money you need and, if convince enough of them, you can get your new business going you.</p>
- <p>Right below them are the VCs, so you talk to a few of them to see if you can skip the Angels altogether. They are very nice, but essentially they tell you that you need “market fit” before  we can make an investment. “We are responsible, y’know, to our Limited Partners. So, you'd better off going the Angel route for now.”</p>
+ <p>Right below them are the VCs, so you talk to a few of them to see if you can skip the Angels altogether. They are very nice, but essentially they tell you that you need “market fit” before  we can make an investment. “We are responsible, y’know, to our Limited Partners. So, you&rsquo;d better off going the Angel route for now.”</p>
 
 <h1>Disentangling Investments</h1>
  <p>Angels trade the money for a “promissory note.” They do promise to either return you capital plus a percentage of it or issue you shares, once the VCs step up to the table.</p>
@@ -27,18 +27,18 @@ image:    "icon-disentangling-investments.svg"
    <img
     src="/assets/img/ins-and-outs-angels.svg"
     alt="A circle with one arrow going in, labeled 'High hopes and enthusiasm' and one arrow going out, labeled 'Promisory note.'"
-    style="width:70%; "> >
+    width="70%">
   </div>
  <p>VCs are different,</p>
   <div class="_center">
    <img
     src="/assets/img/ins-and-outs-vcs.svg"
     alt="A circle with three arrows going in, representing inputs. From top to bottom, 1) 'Market Fit' service or product, 2) High hopes and enthusiasm, and 3) Early clients. The outputs are, from top to bottom, 1) Seed or A-round high risk cash, 2) A pool of (non-voting) shares for early employees, 3) term sheet, and 4) Board of Directors seat for each investor."
-    style="width:70%; "> 
+    width="70%">
   </div>
- <p>The big difference is that those Board of Director seats give the VCs control of your business (<em>i.e.</em>, really, control of <em>you</em>). And, legal fantasies aside, through you, or your replacement, they have control of the business. Lots of people would differ and they will bring up this and that reason for why that is not <em>quite</em> the case. But it's a fantasy, a myth for sleeping better at night, subtleties required by the law of the land but which make no difference if the Board wants to fire your ass.</p>
+ <p>The big difference is that those Board of Director seats give the VCs control of your business (<em>i.e.</em>, really, control of <em>you</em>). And, legal fantasies aside, through you, or your replacement, they have control of the business. Lots of people would differ and they will bring up this and that reason for why that is not <em>quite</em> the case. But it&rsquo;s a fantasy, a myth for sleeping better at night, subtleties required by the law of the land but which make no difference if the Board wants to fire your ass.</p>
  <p>This is, at least, how it works in the technology business. Other business areas work differently.</p>
- <p>For example, the real estate business investment acts more like a riskier loan, IMO. The real asset doesn't exist yet, you have to build it. So, you put together several Angel-like investors  to raise the money you need to buy materials and hire the people to put them all together into a real estate asset (<em>e.g.</em>, an office building, a residential development, a hotel).</p>
+ <p>For example, the real estate business investment acts more like a riskier loan, IMO. The real asset doesn&rsquo;t exist yet, you have to build it. So, you put together several Angel-like investors  to raise the money you need to buy materials and hire the people to put them all together into a real estate asset (<em>e.g.</em>, an office building, a residential development, a hotel).</p>
  <p>The risk is that the developer fails to finish the asset and you lose the money you invested. The Return on that Investment (ROI) is usually a percent of the profits. Kind of like a forever annuity.</p>
 
 <h1>>RADICAL Investments</h1>

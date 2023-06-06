@@ -41,7 +41,7 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
   <li id="en01">
    <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
-    <em>RADICAL COMPANIES: Without Bosses or Employess</em>.
+    <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
     2021.
     <<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>

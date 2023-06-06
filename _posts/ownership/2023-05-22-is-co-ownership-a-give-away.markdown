@@ -7,11 +7,11 @@ image:    "icon-is-co-ownership-a-give-away.svg"
 ---
 
 <div style="display:none;">
- <p>Co-ownership is not a give away, it&rsquo;s selling to employess.</p>
+ <p>Co-ownership is not a give away, it&rsquo;s selling to employees.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Co-ownership is not a give away, it&rsquo;s selling to employess.</p>
+ <p>Co-ownership is not a give away, it&rsquo;s selling to employees.</p>
 
 <h1>FAQ</h1>
  <div class="_q">But they end up as owners of my property!</div>
@@ -42,6 +42,6 @@ image:    "icon-is-co-ownership-a-give-away.svg"
 <h1>Happy Endings!</h1>
  <p>You want them to succeed and they want succeed. Nevertheless, keep in mind that we are trained from an early age to <em>compete</em>.</p>
  <p>You were the boss and everybody submitted to you (more or less). Now all of you will have to learn to collaborate and deal with each other as equally well-intentioned and wanting your common work to succeed.</p>
- <p>It is going to be streneous for a while, but at the end of the tunnel you all get what you want.</p>
+ <p>It is going to be strenuous for a while, but at the end of the tunnel you all get what you want.</p>
 
 {% include related.html %}

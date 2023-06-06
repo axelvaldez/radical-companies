@@ -7,7 +7,7 @@ image:    "icon-resistance-to-co-ownership.svg"
 ---
 
 <div style="display:none;">
- <p>Resistance to co-ownership will come from everywhere, including non-onwers, too.</p>
+ <p>Resistance to co-ownership will come from everywhere, including non-owners, too.</p>
 </div>
 
 <div class="_citation">

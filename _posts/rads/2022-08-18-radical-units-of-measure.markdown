@@ -16,7 +16,7 @@ image:    "icon-radical-units-of-measure.svg"
 <h1>A Unit of Distribution</h1>
  <p><span class="_paradigm">RAD</span>s account for what has so far been unaccountable. They quantify contributions as given by co-owners.</p>
  <p>At distribution time the percentage of <span class="_paradigm">RAD</span>s you have factors the amount of, say, Earned Dividends (<em>i.e.</em>, money) you get.</p>
- <p>As we tried to use <span class="_paradigm">RAD</span>s in the early versions of the <em>RADs! app</em>, it got too clumsy and cumbersome. Co-onwers would end up adding and subtracting <span class="_paradigm">RAD</span>s, which is exactly what we didn&rsquo;t want. We wanted to capture the <em>feeling instensity</em> that an observed contributionbrought up.</p>
+ <p>As we tried to use <span class="_paradigm">RAD</span>s in the early versions of the <em>RADs! app</em>, it got too clumsy and cumbersome. Co-owners would end up adding and subtracting <span class="_paradigm">RAD</span>s, which is exactly what we didn&rsquo;t want. We wanted to capture the <em>feeling instensity</em> that an observed contributionbrought up.</p>
  
 <h1>A Unit-of-Recognition</h1>
  <p>To make the app easier to use, we needed a unit-of-recognition. So we changed the app!</p>

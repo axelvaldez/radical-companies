@@ -69,7 +69,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
   <ul>
    <li>Until revenue starts to come in, the PRI Fund pays co-owners.</li>
    <li>Well, actually, it is not the revenue, but the earned dividends that pays the PRI Fund. Earned dividens is what is left of the review after paying off all expenses, etc.</li>
-   <li>Even after earned dividends start to materialize, the PRI Fund may supplement a co-onwers&rsquo;s take home.</li>
+   <li>Even after earned dividends start to materialize, the PRI Fund may supplement a co-owners&rsquo;s take home.</li>
    <li>Eventually, the earned dividends a co-owner gets starts to pay off co-owner&rsquo;s debt to the PRI fFundund. How much of it goes into paying PRI Fund depends on what co-owners agreed to.</li>
    <li>Finally, after the PRI debt is all paid up, co-owners take earned dividends home, in addition to their home pay.</li>
   </ul>
@@ -80,7 +80,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <li>In the happy path, the stated figure is acceptable and doesn&rsquo;t cause any commotions.</li>
   </ul>
  <p>This is the important, and probably most contentious, thing of all: a withdrawal from the PRI Fund is <em>a personal debt</em> that a co-owner is responsible for. Other policies are plausible, but this seems to be the most reasonable. Co-owners are not exchanging their time for just a salary as is the case in <span class="_paradigm">Fiat</span> land and the people drawing from the PRI Fund are co-owners. Each need to realize that they are responsible for what they take out of fund.</p>
- <p>This means that co-onwers need to decide what to with people who exit while still having PRI debt. For example, you may decide to put limits on time (<span class="_quotespan">We have agreed to do this for six months&hellip;</span>) or amount (<span class="_quotespan">We have agreed to do this for as long as the $500,000 in the PRI Fund lasts</span>), or you want to have a discussion with the PRI debt to <span class="_paradigm">RAD</span>s falls too low. The point is that it is up to you, the co-owners.</p>
+ <p>This means that co-owners need to decide what to with people who exit while still having PRI debt. For example, you may decide to put limits on time (<span class="_quotespan">We have agreed to do this for six months&hellip;</span>) or amount (<span class="_quotespan">We have agreed to do this for as long as the $500,000 in the PRI Fund lasts</span>), or you want to have a discussion with the PRI debt to <span class="_paradigm">RAD</span>s falls too low. The point is that it is up to you, the co-owners.</p>
 
 <h1>The <em>RADs!</em> Mobile App</h1>
  <p>Co-owners use the <em><span class="_paradigm">RAD</span>s!</em> mobile app to recognize the contributions of other co-owners. The <em><span class="_paradigm">RAD</span>s!</em> app later converts these contributions into <span class="_paradigm">RAD</span>s at the end of each, say, monthly cycle.</p>
@@ -131,7 +131,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>These not cast in stone, but have different rates of change,</p>
   <ul>
    <li>The <b>Mission</b> will change as often as necessary. If there is more than one team, each team may have its own mission, but it must align with what the co-owners have agreed are <b>Impact</b> and <b>Purpose</b>.</li>
-   <li>The <b>Purpose</b> will change less often, but it could change as new co-onwers join.</li>
+   <li>The <b>Purpose</b> will change less often, but it could change as new co-owners join.</li>
    <li>The <b>Impact</b> should not change at all, at least not without a deep discussion. This may happen, but it is a major thing, equivalent to creating a new company.</li>
   </ul>
 
