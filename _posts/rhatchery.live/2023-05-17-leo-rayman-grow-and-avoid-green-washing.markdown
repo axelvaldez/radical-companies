@@ -45,7 +45,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-    LinjedIn profile
+    Linkedin profile
     &lt;<a href="https://www.linkedin.com/in/leorayman/" target="_blank">https://www.linkedin.com/in/leorayman/</a>&gt;
     Site
     &lt;<a href="https://www.edenlab.co/" target="_blank">https://www.edenlab.co/</a>&gt;
