@@ -66,7 +66,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speaker"><span class="_speakerc">I think I understand the mechanics. Still, it sounds a bit complicated.</span></p>
  <p class="_speaker"><span class="_speakerb">It is different, but really not that complicated. National currencies are more complicated, except the complication is hidden to &ldquo;little people&rdquo; like you and me.</span></p>
  <p class="_speaker"><span class="_speakerc">That might be true, but I would like to hear more.</span></p>
- <p>I noticed that the man&rsquo;s eyes were defocuse. He must have been thinking intensensly.</p>
+ <p>I noticed that the man&rsquo;s eyes were defocuse. He must have been thinking intensely.</p>
 
 <h1>More Complications</h1>
  <p class="_speaker"> owner. In this case, the dividends get distributed among all co-owners according to the <span class="_paradigm">RAD</span>s each has.</span></p>
@@ -138,7 +138,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speaker"><span class="_speakerb">Look at you, &lsquo;<span class="_paradigm">PRI</span>&rsquo; and &lsquo;retire&rsquo; in the same breath. That is fantastic.</span></p>
  <p class="_speaker"><span class="_speakerc">Don&rsquo;t say that until you get paid back.</span> Vicky was laughing out loud. <span class="_speakercc">And, by the way, we are going to put our 20% in the <span class="_paradigm">RAD</span>s fund to have an extra distribution. We could even reduce your number to %5, instead of 10%, to make sure that your investment grows by 5% for sure.</span></p>
  <p class="_speaker"><span class="_speakerb">We could do that. Let&rsquo;s wait until we crossed that bridge.</span></p>
- <p class="_speaker"><span class="_speakerc">We've already talk to the people in France and we are going to switch them so they have a guaranteed steady inccome forever. This may not be purely <span class="_paradigm">Radical</span>, but&hellip;</span></p>
+ <p class="_speaker"><span class="_speakerc">We've already talk to the people in France and we are going to switch them so they have a guaranteed steady intensely forever. This may not be purely <span class="_paradigm">Radical</span>, but&hellip;</span></p>
  <p class="_speaker"> owners.</span></p>
 
 <div class="_next">
