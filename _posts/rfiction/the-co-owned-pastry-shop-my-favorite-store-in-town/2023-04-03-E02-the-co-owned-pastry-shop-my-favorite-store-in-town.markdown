@@ -50,7 +50,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speakerb">Yes, you&rsquo;ll have to have a baker. Maybe they all become bakers and can back up each other.</p>
  <p class="_speakera">Oof.</p>
  <p class="_speakerb">That is how Arizmendi works.</p>
- <p class="_speakera">The hippie bakery in San Francico.</p>
+ <p class="_speakera">The hippie bakery in San Francisco.</p>
  <p class="_speakerb">Yes, that one. And it is very successful and very profitable.</p>
  <p class="_speakera">And it gives me a headache.</p>
  <p>She looked at him sternly and then she turned to me,</p>
