@@ -96,7 +96,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speakerb">All that fear, yes. Something is wrong and people try to get control. Others submit. It fell apart.</p>
  <p class="_speakerc">It fell apart because all the yelling.</p>
  <p class="_speakera">Yes, it was about taking control.</p>
- <p>I felt my eyes swelling with tears and emotion. These people had made quite a leap in an instant. They had realized in an instance that fear that had made them fail earlier: they have made their daemons visible.</p>
+ <p>I felt my eyes swelling. These people had made quite a leap in an instant. They had realized in an instance that fear that had made them fail earlier: they have made their daemons visible.</p>
  <p class="_speakerc">So, no punishment.</span> She was looking at her knees while she said that.</p>
  <p class="_speakera">No punishment.</span> He was looking sad and looking her way.</p>
  <p class="_speakerb">Instead of taking <span class="_paradigm">RAD</span>s away, there is a button for asking for &lsquo;a talk&rsquo;.</p>
