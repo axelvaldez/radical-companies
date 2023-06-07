@@ -24,12 +24,12 @@ image:    "icon-the-many-benefits-of-being-the-boss.svg"
 <h1>The Rubber Hits the (Yellow Brick) Road</h1>
  <p>After all, you&rsquo;re a new CEO and have to build your reputation and you can&rsquo;t afford to be seen as anything less a winner. And, at this point, it&rsquo;s all about making it big for those investors who took a chance on you and you crazy idea. And, yes, your awesome team, too.</p>
  <p>But now is all about growing beyond out initial market. The Board thinks we can do much, much better and turn what we have into a huge franchise. <span class="_quotespan">Really, you should start to look into the possibly of an IPO—at.worst, it will make the business more attractive for a big acquisition.</span></p>
- <p>There is so much more to do, but now they want me to hire <span class="_quotespan">people with credentials and the chops to make it happen,&rdquo; whatever that means. You&rsquo;ve talked to a couple of cendidates and found out that they want more shares and a bigger salary than anybody  in your team. And the Board keeps sending their</span> awesome friends.</span></p>
+ <p>There is so much more to do, but now they want me to hire <span class="_quotespan">people with credentials and the chops to make it happen, whatever that means. You&rsquo;ve talked to a couple of cendidates and found out that they want more shares and bigger salaries than anybody in your team. And the Board keeps sending their awesome friends.</span></p>
 
 <h1>The Gloves Come Off</h1>
  <p>The Board meetings are getting to be a royal pain. The Board members have turned hostile and they keep bringing up stuff that had to come from the people you hired. It all has a wiff of truth in it, but it&rsquo;s all twisted. And they bring this crap just as the meeting is ending and thenthere is no time to straighten things out before they <em>have to run</em> to their next meeting.</p>
  <p>On top of that, your team is not reacting well to the new executive team. They don&rsquo;t like all the <em>reporting</em> meetings that turn into <span class="_quotespan">do as I say</span> meetings.</p>
- <p>Actually, you feel awful, but, jeez, the money will make up for it.</span></p>
+ <p>Actually, you feel awful, but, jeez, the money will make up for it.</p>
 
 <h1>For Personal Reasons</h1>
  <p>One of your oldest Board member pulls you aside and tells you to not attend the next Board meeting. <span class="_quotespan">You are out and the COO is going to be our interim CEO–but, don&rsquo;t worry, you&rsquo;ll keep your shares.</span></p>
