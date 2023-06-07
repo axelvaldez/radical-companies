@@ -74,7 +74,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
 <h1>More Complications</h1>
  <p class="_speakerb">In the <span class="_paradigm">Fiat</span> system profits usually go to the owner. In the non-<span class="_paradigm">Fiat</span> system, the dividends get distributed among all co-owners according to the amount of <span class="_paradigm">RAD</span>s each has.</p>
  <p>The man looked uncomfortable, though he wasn&rsquo;t saying much.</p>
- <p class="_speakerb">I should add that there a <span class="_me"><span class="_paradigm">RAD</span>s! mobile app</span></span> that takes care of all these &lsquo;complication&rsquo;</p>
+ <p class="_speakerb">I should add that there a <span class="_paradigm">RAD</span>s! mobile app that takes care of all these &lsquo;complication&rsquo;</p>
  <p class="_speakera">Aha, &hellip; THERE IS AN APP FOR THAT!</p>
  <p>He tried to hold back, but then he let out a full laugh. I took that as a sign that, at least, he was less tense. Progress.</p>
  <p class="_speakerb">Yes. The app let&rsquo;s you recognize contributions when you see them. This means that you don&rsquo;t have to wait <em>until the end</em> of the month to <em>vote</em> or any such. And you don&rsquo;t have to deal with the mechanics, like converting contributions to <span class="_paradigm">RAD</span>s&mdash;&mdash;he app does all that. When it is done, the app records all transactions so everybody can see them.</p>
