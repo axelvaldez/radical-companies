@@ -81,7 +81,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
 
 <h1>Punishment</h1>
  <p class="_speakerc">Can I take <span class="_paradigm">RAD</span>s away?</p>
- <p class="_speakerb"><span class="_paradigm">RAD</span>s are given for contributions, so, no, it doesn't make sense to take <span class="_paradigm">RAD</span>s away.</span> I wasn&rsquo;t sure, but I said anyway, <span class="_speakerbc">You might be asking if there a way to <em>punish</em> somebody, is that it?</p>
+ <p class="_speakerb">You might be asking if there a way to <em>punish</em> somebody, is that it?</p>
  <p class="_speakerc">Yes, motivate them to do the right thing. You have to make sure that things are done <strong>the right way</strong>. Some form of punishment is very good for making people learn the correct way to do things.</p>
  <p class="_speakerb">Do you have kids?</p>
  <p class="_speakerc">Yes</p>
@@ -103,8 +103,9 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speakerb">Instead of taking <span class="_paradigm">RAD</span>s away, there is a button for asking for &lsquo;a talk&rsquo;.</p>
  <p class="_speakerc">Of course.</span> She said quietly.</p>
  <p class="_speakerb">If you talk to the person and the offending behavior doesn&rsquo;t change, you and your peers will likely stop giving this person <span class="_paradigm">RAD</span>s and eventually they will leave.</p>
- <p class="_speakera">Go away. We don&rsquo;t love you anymore</span> The way he said it, it was a statement, an annoucement to the world.</p>
- <p>I nearly fell off my chair when I heard that because love is at the root of having people learn new things. They figured all that out in front of my eyes, sitting there.</p>
+ <p class="_speakera">Go away. We don&rsquo;t love you anymore</p>
+ <p>The way he said it, it was a statement, an annoucement to the world.</p>
+ <p>I nearly fell off my chair when I heard that because love is at the root of having people learn new things. They figured all that out in a blink of an eye.</p>
 
 <h1>Can We Invest Like You?</h1>
  <p class="_speakera">Can we invest, too, the same as you.</p>
