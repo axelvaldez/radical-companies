@@ -100,10 +100,11 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p>I felt my eyes swelling. These people had made quite a leap in an instant. They had realize what had made them fail earlier. They have made their daemons visible.</p>
  <p class="_speakerc">So, no punishment.</p>
  <p>She was looking at her knees while she said that.</p>
- <p class="_speakera">No punishment.</p>
+ <p class="_speakerb">No punishment.</p>
  <p>He was looking sad and looking her way.</p>
  <p class="_speakerb">Instead of taking <span class="_paradigm">RAD</span>s away, there is a button for asking for &lsquo;a talk&rsquo;.</p>
- <p class="_speakerc">Of course.</span> She said quietly.</p>
+ <p class="_speakerc">Of course.</p>
+ <p>She said it quietly.</p>
  <p class="_speakerb">If you talk to the person and the offending behavior doesn&rsquo;t change, you and your peers will likely stop giving this person <span class="_paradigm">RAD</span>s and eventually they will leave.</p>
  <p class="_speakera">Go away. We don&rsquo;t love you anymore</p>
  <p>The way he said it, it was a statement, an annoucement to the world.</p>
