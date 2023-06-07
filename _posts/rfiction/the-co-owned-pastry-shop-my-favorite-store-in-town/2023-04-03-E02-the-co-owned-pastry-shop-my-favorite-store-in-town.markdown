@@ -98,7 +98,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speaker"><span class="_speakerb">Instead of taking <span class="_paradigm">RAD</span>s away, there is a button for asking for &lsquo;a talk&rsquo;.</span></p>
  <p class="_speaker"><span class="_speakerc">Of course.</span> She said quietly.</p>
  <p class="_speaker"><span class="_speakerb">If you talk to the person and the offending behavior doesn&rsquo;t change, you and your peers will likely stop giving this person <span class="_paradigm">RAD</span>s and eventually they will leave.</span></p>
- <p class="_speaker"><span class="_speakera">Go away. We don&rsquo;t love you anymore</span> The way he said it, it was a statemnt, an annoucement to the world.</p>
+ <p class="_speaker"><span class="_speakera">Go away. We don&rsquo;t love you anymore</span> The way he said it, it was a statement, an annoucement to the world.</p>
  <p>I nearly fell off my chair when I heard that because love is at the root of having people learn new things. They figured all that out in front of my eyes, sitting there.</p>
 
 <h1>Can We Invest Like You?</h1>
