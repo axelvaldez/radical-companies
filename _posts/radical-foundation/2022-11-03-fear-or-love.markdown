@@ -48,7 +48,7 @@ image:    "icon-simple-fear-or-love.svg"
   </li>
   <li id="en02">
    <p class="_list-item">
-    But if somebody attacks me, I'll defend <em>my</em> life.
+    But if somebody attacks me, I&rsquo;ll defend <em>my</em> life.
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
