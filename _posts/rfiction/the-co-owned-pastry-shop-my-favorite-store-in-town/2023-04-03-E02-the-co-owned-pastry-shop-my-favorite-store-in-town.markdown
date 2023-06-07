@@ -152,8 +152,8 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p>Vicky was laughing out loud.</p>
  <p class="_speakerc">And, by the way, we are going to put our 20% in the <span class="_paradigm">RAD</span>s fund to have an extra distribution. We could even reduce your number to %5, instead of 10%, to make sure that your investment grows by 5% for sure.</p>
  <p class="_speakerb">We could do that. Let&rsquo;s wait until we crossed that bridge.</p>
- <p class="_speakerc">We&rsquo;ve already talk to the people in France and we are going to switch them so they have a guaranteed steady intensely forever. This may not be purely <span class="_paradigm">Radical</span>, but&hellip;</p>
- <p class="_speaker"> owners.</p>
+ <p class="_speakerc">We&rsquo;ve already talked to the people in France and we are going to switch them so they have a guaranteed steady income forever. This may not be purely <span class="_paradigm">Radical</span>, but&hellip;</p>
+ <p class="_speakerb">Congratulations, you have made <span class="_paradigm">Radical</span> your own.</p>
 
 <div class="_next">
  <span style="float:left; " ><a href="https://radicalcompanies.com/2023/04/02/E01-the-co-owned-pastry-shop-my-favorite-store-in-town">&lt; Previous</a></span>
