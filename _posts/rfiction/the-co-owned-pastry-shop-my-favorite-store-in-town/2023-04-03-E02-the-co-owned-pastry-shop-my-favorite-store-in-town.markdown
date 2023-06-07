@@ -131,7 +131,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speakerc">Nice. Very nice hope.</p>
 
 <h1>Settled!</h1>
- <p>Finally, we had everything in hand. The amount was settle. They owners were carrying 25% of the debt woith a 5% interest which could go into a <span class="_paradigm">RAD Distribution</span> fund, if the co-owners matched it. A baker from Arizmendi had  agreed to be part fo the team for a year, and train them as bakers. The old owners would have a two-month overlap with the new co-owners in person and then they would be available for questions, but remotely. I carried 10% of the debt. The rest would come out of cashflow.</p>
+ <p>Finally, we had everything in hand. The amount was settle. They owners were carrying 25% of the debt with a 5% interest which could go into a <span class="_paradigm">RAD Distribution</span> fund, if the co-owners matched it. A baker from Arizmendi had  agreed to be part fo the team for a year, and train them as bakers. The old owners would have a two-month overlap with the new co-owners in person and then they would be available for questions, but remotely. I carried 10% of the debt. The rest would come out of cashflow.</p>
  <p>Lots of drama on the way, but all for the best.</p>
 
 <h1>Bye, Bye</h1>
