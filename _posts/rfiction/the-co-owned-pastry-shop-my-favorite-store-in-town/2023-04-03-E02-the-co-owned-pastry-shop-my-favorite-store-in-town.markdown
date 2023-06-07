@@ -77,7 +77,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speakerb">I should add that there a <span class="_paradigm">RAD</span>s! mobile app that takes care of all these &lsquo;complication&rsquo;</p>
  <p class="_speakera">Aha, &hellip; THERE IS AN APP FOR THAT!</p>
  <p>He tried to hold back, but then he let out a full laugh. I took that as a sign that, at least, he was less tense. Progress.</p>
- <p class="_speakerb">Yes. The app let&rsquo;s you recognize contributions when you see them. This means that you don&rsquo;t have to wait <em>until the end</em> of the month to <em>vote</em> or any such. And you don&rsquo;t have to deal with the mechanics, like converting contributions to <span class="_paradigm">RAD</span>s&mdash;&mdash;he app does all that. When it is done, the app records all transactions so everybody can see them.</p>
+ <p class="_speakerb">Yes. The app let&rsquo;s you recognize contributions as soon as you see them. This means that you don&rsquo;t have to wait until the end of the month to <em>vote</em> or any such. And you don&rsquo;t have to deal with the mechanics, like converting contributions to <span class="_paradigm">RAD</span>s&mdash;&mdash;he app does all that. When it is done, the app records all transactions so everybody can see them.</p>
 
 <h1>Punishment</h1>
  <p class="_speakerc">Can I take <span class="_paradigm">RAD</span>s away?</p>
