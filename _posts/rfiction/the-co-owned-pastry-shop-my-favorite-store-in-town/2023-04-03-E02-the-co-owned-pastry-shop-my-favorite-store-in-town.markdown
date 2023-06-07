@@ -92,7 +92,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p>She looked at her husband with disapproving eyes and said,</p>
  <p class="_speakerc">Lucien, please.</p>
  <p>Then she looked at me and said,</p>
- <p class='_speakerc'>No, I don&rsquo;t beat them with a broomstick when they do something. I teach them what they did wrong and why it is wrong.</span></p>
+ <p class='_speakerc'>No, I don&rsquo;t beat them with a broomstick when they do something. I teach them what they did wrong and why it is wrong.</p>
  <p>We all felt silent after she said that. The man had his arms crossed, lost in thoughts; as was she.</p>
  <p>I felt that we had crossed a significant line.</p>
  <p class="_speakera">You know, it became chaotic after we started yelling at each other&hellip; all that yelling. All that fear, yes. Something goes wrong and people try to get control. It fell apart.</p>
