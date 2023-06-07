@@ -146,7 +146,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speakerb">Is this the last payment on the debt? That means you are early!</p>
  <p class="_speakerc">Business is great. The <span class="_paradigm">RAD</span>s&rsquo; yield is going up for everybody.</p>
  <p class="_speakerb">Wow&hellip;</p>
- <p class="_speakerc">In fact, we don&rsquo;t even have a <span class="_paradigm">PRI</span> fund any more. But now we have to pay then and you to retire that debt.</p>
+ <p class="_speakerc">In fact, we don&rsquo;t even have a <span class="_paradigm">PRI</span> fund any more. But now we have to pay them and you to retire that debt.</p>
  <p class="_speakerb">Look at you, &lsquo;<span class="_paradigm">PRI</span>&rsquo; and &lsquo;retire&rsquo; in the same breath. That is fantastic.</p>
  <p class="_speakerc">Don&rsquo;t say that until you get paid back.</p>
  <p>Vicky was laughing out loud.</p>
