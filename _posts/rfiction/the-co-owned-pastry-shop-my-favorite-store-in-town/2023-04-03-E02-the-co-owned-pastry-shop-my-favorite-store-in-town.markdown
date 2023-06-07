@@ -36,7 +36,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speakerc">And then you decide? or they vote? How do you decided their contributions? Besides, waiting until the very end&hellip; I don&rsquo;t think that works!</p>
  <p class="_speakerb">No, that is not quite the way it works.</p>
  <p class="_speakera">Then, how does it work?</p>
- <p class="_speakerb">OK, if you are interested, I'll give you the whole tour of how <span class="_paradigm">RAD</span>s work.</p>
+ <p class="_speakerb">OK, if you are interested, I&rsquo;ll give you the whole tour of how <span class="_paradigm">RAD</span>s work.</p>
 
 <h1>Contributions (Not Capital)</h1>
  <p class="_speakerb">OK&hellip; <span class="_paradigm">RAD</span>s are not digital money or anthing like that. But, forget that for now! Let&rsquo;s start with <em>contributions</em>. Normally. you do something good, the boss notices, and he gives you a pat on the back. If he likes you, he may even give you a promotion later. That makes it more tangible, right? But what do you do when you are all owners <em>and there is no boss</em>&hellip;</p>
@@ -46,7 +46,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speakera">Yes, but not really.</p>
  <p class="_speakerc">Yes, really. We train them and then they take over the store. They ask some questions, but they do very well on their own.</p>
  <p class="_speakera">OK, but you can&rsquo;t run the bakery that without a baker.</p>
- <p class="_speakerb">Yes, you'll have to have a baker. Maybe they all become bakers and can back up each other.</p>
+ <p class="_speakerb">Yes, you&rsquo;ll have to have a baker. Maybe they all become bakers and can back up each other.</p>
  <p class="_speakera">Oof.</p>
  <p class="_speakerb">That is how Arizmendi works.</p>
  <p class="_speakera">The hippie bakery in San Francico.</p>
@@ -152,7 +152,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p>Vicky was laughing out loud.</p>
  <p class="_speakerc">And, by the way, we are going to put our 20% in the <span class="_paradigm">RAD</span>s fund to have an extra distribution. We could even reduce your number to %5, instead of 10%, to make sure that your investment grows by 5% for sure.</p>
  <p class="_speakerb">We could do that. Let&rsquo;s wait until we crossed that bridge.</p>
- <p class="_speakerc">We've already talk to the people in France and we are going to switch them so they have a guaranteed steady intensely forever. This may not be purely <span class="_paradigm">Radical</span>, but&hellip;</p>
+ <p class="_speakerc">We&rsquo;ve already talk to the people in France and we are going to switch them so they have a guaranteed steady intensely forever. This may not be purely <span class="_paradigm">Radical</span>, but&hellip;</p>
  <p class="_speaker"> owners.</p>
 
 <div class="_next">
