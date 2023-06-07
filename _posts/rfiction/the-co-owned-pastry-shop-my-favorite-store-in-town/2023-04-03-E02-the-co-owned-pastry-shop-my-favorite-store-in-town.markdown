@@ -104,7 +104,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
 <h1>Can We Invest Like You?</h1>
  <p class="_speaker"><span class="_speakera">Can we invest, too, the same as you.</span></p>
  <p class="_speaker"><span class="_speakerb">Of course. Like everything else, it is up to your.</span></p>
- <p class="_speaker"><span class="_speakera">We thought of sellig to our employees for a lower price, but this means that we can sell it for a normal price but take less money up front. I am not sure I am explaining myself correctly.</span></p>
+ <p class="_speaker"><span class="_speakera">We thought of selling to our employees for a lower price, but this means that we can sell it for a normal price but take less money up front. I am not sure I am explaining myself correctly.</span></p>
  <p class="_speaker"><span class="_speakerb">Perfectly clear. You sell it for $100, but expect only $80 dollars and the other $20 would be a <span class="_paradigm">Radical</span> inventment.</span></p>
  <p class="_speaker"><span class="_speakerc">More like $50 dollars</span> She said as she looked at her husband.</p>
  <p class="_speaker"><span class="_speakera">Yes, something like that.</span></p>
