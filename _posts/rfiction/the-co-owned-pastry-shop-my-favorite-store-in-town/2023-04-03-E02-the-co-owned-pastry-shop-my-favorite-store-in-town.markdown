@@ -12,112 +12,113 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
 
 <h1>The Meeting</h1>
  <p>We went through the niceties and the hellos and then there was the silence of not knowing how to start. So, I started.</p>
- <p class="_speaker"><span class="_speakerb">I am sorry to surprise you with the news that I knew about your plans, but there is a valid and innocent reason&hellip;</span> And I went on to explain.</p>
+ <p class="_speakerb">I am sorry to surprise you with the news that I knew about your plans, but there is a valid and innocent reason&hellip;</span> And I went on to explain.</p>
  <p>After my explanation, the man seemed more relaxed and the woman offered coffee. This time I accepted to give time to digest. In the meantime I told the man that I had been to Ginole les bains and found it beautiful and very relaxing.</p>
- <p class="_speaker"><span class="_speakera">Did you stay in town? Where?</span></p>
- <p class="_speaker"><span class="_speakerb">At the old bathhouse.</span> At the sound of that, he leaned forward as if to ask something, but he was interrupted by his wife coming back with the coffee.</p>
- <p class="_speaker"><span class="_speakerc">Black and no cream, right?</span> She said in a happy tone.</p>
- <p class="_speaker"><span class="_speakerb">Right! Thanks.</span></p>
+ <p class="_speakera">Did you stay in town? Where?</p>
+ <p class="_speakerb">At the old bathhouse. At the sound of that, he leaned forward as if to ask something, but he was interrupted by his wife coming back with the coffee.</p>
+ <p class="_speakerc">Black and no cream, right?</span> She said in a happy tone.</p>
+ <p class="_speakerb">Right! Thanks.</span></p>
  <p>She sat down with a nervous smile on her face and glanced at her husband.</p>
- <p class="_speaker"><span class="_speakera">We have not decided to sell, yet. We haven&rsquo;t even gone out to look for buyers.</span></p>
- <p class="_speaker"><span class="_speakerb">But you prefer to sell it to your employees.</span></p>
- <p class="_speaker"><span class="_speakerc">Yes!</span> Said the woman right away. <span class="_speakercc">And you are not our employee.</span></p>
- <p class="_speaker"><span class="_speakerb">That&rsquo;s OK, because I don&rsquo;t want to buy it. I am here to find out the financial terms and, if need be, to loan them money.</span></p>
- <p class="_speaker"><span class="_speakera">Oh.</span></p>
- <p class="_speaker"><span class="_speakerb">M&rsquo;dieu!</span></p>
+ <p class="_speakera">We have not decided to sell, yet. We haven&rsquo;t even gone out to look for buyers.</p>
+ <p class="_speakerb">But you prefer to sell it to your employees.</span></p>
+ <p class="_speakerc">Yes!</span> Said the woman right away. <span class="_speakercc">And you are not our employee.</p>
+ <p class="_speakerb">That&rsquo;s OK, because I don&rsquo;t want to buy it. I am here to find out the financial terms and, if need be, to loan them money.</p>
+ <p class="_speakerc"><span class="_speakera">Oh.</p>
+ <p class="_speakerb"><span class="_speakerb">M&rsquo;dieu!</p>
  <p>They both looked worried now.</p>
- <p class="_speaker"><span class="_speakerc">We were going to tell them anyway. In fact&hellip;<span> She glanced at her husband and he subtly signaled agreement with his eyes, <span class="_speakercc">We prefer to tell them ourselves.</span></p>
- <p class="_speaker"><span class="_speakerb">That would be best. I felt akward coming here anyways. Not let me explain what I see as my involvement</span>&mdash;I paused for a bit and thought about what I wanted to say and how I wanted to say it&mdash;<span class="_speakerbc">I intend to help them out with the finances, the money part, but I don&rsquo;t want to expect any powerr over the company in any way. Except, maybe, they should reserve three chocaolate eclairs from me.</span> Finally, we all got to smile and relax a bit.</p>
- <p class="_speaker"><span class="_speakera">What do you mean you don&rsquo;t want any power for your money?</span></p>
- <p class="_speaker"><span class="_speakerb">Hmm. This may sound weird to you, but I am more interested in the success of them and the community, our town. I&rsquo;ll give them what I call a <span class="_paradigm">Radical</span> investment, which means that they have to pay back the principle, the amount of money I give them, plus something else. I've made a couple of these investments before and the something else is that we take my interest, usually 10%, and the co-owners match it. We end up with 20% of the investment in a pool and then distribute it to everybody based on their&hellip; contributions.</span></p>
- <p class="_speaker"><span class="_speakerc">And then you decide? or they vote? How do you decided their contributions? Besides, waiting until the very end&hellip; I don&rsquo;t think that works!</span></p>
- <p class="_speaker"><span class="_speakerb">Yes, to everythig you said. But, no, that is not quite the way it works.</span></p>
- <p class="_speaker"><span class="_speakera">Then, how does it work?</span></p>
- <p class="_speaker"><span class="_speakerb">OK, you are interested, so I'll give you the whole tour of how <span class="_paradigm">RAD</span>s work.</span></p>
+ <p class="_speakerc">We were going to tell them anyway. In fact&hellip;<span> She glanced at her husband and he subtly signaled agreement with his eyes.</p>
+ <p class="_speakera">We prefer to tell them ourselves.</p>
+ <p class="_speakerb">That would be best. I felt akward coming here anyways. Not let me explain what I see as my involvement&mdash;I paused for a bit and thought about what I wanted to say and how I wanted to say it&mdash;<span class="_speakerbc">I intend to help them out with the finances, the money part, but I don&rsquo;t want to expect any powerr over the company in any way. Except, maybe, they should reserve three chocaolate eclairs from me.</span> Finally, we all got to smile and relax a bit.</p>
+ <p class="_speakera">What do you mean you don&rsquo;t want any power for your money?</span></p>
+ <p class="_speakerb">Hmm. This may sound weird to you, but I am more interested in the success of them and the community, our town. I&rsquo;ll give them what I call a <span class="_paradigm">Radical</span> investment, which means that they have to pay back the principle, the amount of money I give them, plus something else. I've made a couple of these investments before and the something else is that we take my interest, usually 10%, and the co-owners match it. We end up with 20% of the investment in a pool and then distribute it to everybody based on their&hellip; contributions.</span></p>
+ <p class="_speakerc">And then you decide? or they vote? How do you decided their contributions? Besides, waiting until the very end&hellip; I don&rsquo;t think that works!</span></p>
+ <p class="_speakerb">Yes, to everythig you said. But, no, that is not quite the way it works.</span></p>
+ <p class="_speakera">Then, how does it work?</span></p>
+ <p class="_speakerb">OK, you are interested, so I'll give you the whole tour of how <span class="_paradigm">RAD</span>s work.</span></p>
 
 <h1>Contributions (Not Capital)</h1>
- <p class="_speaker"><span class="_speakera">Go ahead. We are interested.</span></p>
- <p class="_speaker"><span class="_speakerb">OK&hellip; <span class="_paradigm">RAD</span>s are not digital money or anthing like that. But, forget that for now! Let&rsquo;s start with <em>contributions</em>. Normally. you do something good, the boss notices, and he gives you a pat on the back. If he likes you, he may even give you a promotion later. That makes it more tangible, right? But what do you do when you are all owners <em>and there is no boss</em>&hellip;</span></p>
- <p class="_speaker"><span class="_speakera">That doesn&rsquo;t work&hellip;</span></p>
- <p class="_speaker"><span class="_speakerc">That is how we run the store, n&rsquo;est pa?</span></p>
- <p class="_speaker"><span class="_speakera">Yes, but not really.</span></p>
- <p class="_speaker"><span class="_speakerc">Yes, really. We train them and then they take over the store. They ask some questions, but they do very well on their own.</span></p>
- <p class="_speaker"><span class="_speakera">OK, but you can&rsquo;t run the bakery that without a baker.</span></p>
- <p class="_speaker"><span class="_speakerb">Yes, you'll have to have a baker. Maybe they all become bakers and can back up each other.</span></p>
- <p class="_speaker"><span class="_speakera">Oof.</span></p>
- <p class="_speaker"><span class="_speakerb">That is how Arizmendi works.</span></p>
- <p class="_speaker"><span class="_speakera">The hippie bakery in San Francico.</span></p>
- <p class="_speaker"><span class="_speakerb">Yes, that one. And it is very successful and very profitable.</span></p>
- <p class="_speaker"><span class="_speakera">And it gives me a headache.</span></p>
+ <p class="_speakerb">OK&hellip; <span class="_paradigm">RAD</span>s are not digital money or anthing like that. But, forget that for now! Let&rsquo;s start with <em>contributions</em>. Normally. you do something good, the boss notices, and he gives you a pat on the back. If he likes you, he may even give you a promotion later. That makes it more tangible, right? But what do you do when you are all owners <em>and there is no boss</em>&hellip;</p>
+ <p class="_speakera">Go ahead. We are interested.</span></p>
+ <p class="_speakerb">That doesn&rsquo;t work&hellip;</span></p>
+ <p class="_speakerc">That is how we run the store, n&rsquo;est pa?</span></p>
+ <p class="_speakera">Yes, but not really.</span></p>
+ <p class="_speakerc">Yes, really. We train them and then they take over the store. They ask some questions, but they do very well on their own.</span></p>
+ <p class="_speakera">OK, but you can&rsquo;t run the bakery that without a baker.</span></p>
+ <p class="_speakerb">Yes, you'll have to have a baker. Maybe they all become bakers and can back up each other.</span></p>
+ <p class="_speakera">Oof.</span></p>
+ <p class="_speakerb">That is how Arizmendi works.</span></p>
+ <p class="_speakera">The hippie bakery in San Francico.</span></p>
+ <p class="_speakerb">Yes, that one. And it is very successful and very profitable.</span></p>
+ <p class="_speakera">And it gives me a headache.</span></p>
  <p>She looked at him sternly and then she turned to me,</p>
- <p class="_speaker"><span class="_speakerc">Actually, we tried that, but it didn&rsquo;t work. It ended up being very chaotic.</span></p>
- <p class="_speaker"><span class="_speakerb">Yes, it can happen, but it doesn&rsquo;t have to. I am the cofounder of a business that is over 800 people now, but it has no bosses, it is very profitable, and it is not chaotic at all.</span></p>
+ <p class="_speakerc">Actually, we tried that, but it didn&rsquo;t work. It ended up being very chaotic.</span></p>
+ <p class="_speakerb">Yes, it can happen, but it doesn&rsquo;t have to. I am the cofounder of a business that is over 800 people now, but it has no bosses, it is very profitable, and it is not chaotic at all.</span></p>
  <p>That made them sit up. I guess I had credibility with them now.</p>
- <p class="_speaker"><span class="_speakera">So, what happens without a boss.</span></p>
- <p class="_speaker"><span class="_speakerb">People recognize each other&rsquo;s contributions directly.</span></p>
- <p class="_speaker"><span class="_speakera">What are the rules?</span></p>
- <p class="_speaker"><span class="_speakerb">There are no rules. Whatever a person feels is a contribution, is a contribution.</span></p>
- <p class="_speaker"><span class="_speakerc">Say more.</span></p>
+ <p class="_speakera">So, what happens without a boss.</span></p>
+ <p class="_speakerb">People recognize each other&rsquo;s contributions directly.</span></p>
+ <p class="_speakera">What are the rules?</span></p>
+ <p class="_speakerb">There are no rules. Whatever a person feels is a contribution, is a contribution.</span></p>
+ <p class="_speakerc">Say more.</span></p>
 
 <h1><span class="_paradigm">RAD</span>s</h1>
- <p class="_speaker"><span class="_speakerb">The contributions that you give reflect how you feel about what you see happening. You see behavior, you feel enthused about it, and you press the &lsquo;contributions&rsquo; button to your heart&rsquo;s content. You see behavior, you feel it is wrong, and you press the &lsquo;we need to talk&rsquo; button. But we want these contributions to be tangible, not empty backslaps.</span></p>
+ <p class="_speakerb">The contributions that you give reflect how you feel about what you see happening. You see behavior, you feel enthused about it, and you press the &lsquo;contributions&rsquo; button to your heart&rsquo;s content. You see behavior, you feel it is wrong, and you press the &lsquo;we need to talk&rsquo; button. But we want these contributions to be tangible, not empty backslaps.</span></p>
  <p>I paused for a bit.</p>
- <p class="_speaker"><span class="_speakerb">To make them tangible, you have to convert them to <span class="_paradigm">RAD</span>s. If somebody has 20% of the <span class="_paradigm">RAD</span>s, they get 20% of the profits. If the profits were $100, they get $10, but if they are $1,000, they&rsquo;d get $100. Rather than converting directly to a currency which is fixed, we convert them to <span class="_paradigm">RAD</span>s because because they factor other things, like money. Next month you may have 20% of the <span class="_paradigm">RAD</span>s and then you&rsquo;ll get 20% of the profits.</span></p>
- <p class="_speaker"><span class="_speakerc">I think I understand the mechanics. Still, it sounds a bit complicated.</span></p>
- <p class="_speaker"><span class="_speakerb">It is different, but really not that complicated. National currencies are more complicated, except the complication is hidden to &ldquo;little people&rdquo; like you and me.</span></p>
- <p class="_speaker"><span class="_speakerc">That might be true, but I would like to hear more.</span></p>
+ <p class="_speakerb">To make them tangible, you have to convert them to <span class="_paradigm">RAD</span>s. If somebody has 20% of the <span class="_paradigm">RAD</span>s, they get 20% of the profits. If the profits were $100, they get $10, but if they are $1,000, they&rsquo;d get $100. Rather than converting directly to a currency which is fixed, we convert them to <span class="_paradigm">RAD</span>s because because they factor other things, like money. Next month you may have 20% of the <span class="_paradigm">RAD</span>s and then you&rsquo;ll get 20% of the profits.</span></p>
+ <p class="_speakerc">I think I understand the mechanics. Still, it sounds a bit complicated.</span></p>
+ <p class="_speakerb">It is different, but really not that complicated. National currencies are more complicated, except the complication is hidden to &ldquo;little people&rdquo; like you and me.</span></p>
+ <p class="_speakerc">That might be true, but I would like to hear more.</span></p>
  <p>I noticed that the man&rsquo;s eyes were defocuse. He must have been thinking intensely.</p>
 
 <h1>More Complications</h1>
  <p class="_speaker"> owner. In this case, the dividends get distributed among all co-owners according to the <span class="_paradigm">RAD</span>s each has.</span></p>
  <p>The man looked uncomfortable, though he wasn&rsquo;t saying much.</p>
- <p class="_speaker"><span class="_speakerb">I should add that there a <span class="_me"><span class="_paradigm">RAD</span>s! mobile app</span> that takes care of all the &ldquo;complication&rdquo;</span></p>
- <p class="_speaker"><span class="_speakera">Aha, there is&hellip;</span> He tried to hold back, but then he let out a full laugh, <span class="_speakerac">THERE IS AN APP FOR THAT!</span> I took that as a sign that he was less tense. Progress.</p>
- <p class="_speaker"><span class="_speakerb">Yes. The app let&rsquo;s you recognize contributions when you see them. This means that you don&rsquo;t have to wait until the end of month to vote. And you don't have to deal with the mechanics, like converting contributions to <span class="_paradigm">RAD</span>s&mdash;the app does that. When it is all said and done, the app records all transactions so everybody can see them.</span></p>
+ <p class="_speakerb">I should add that there a <span class="_me"><span class="_paradigm">RAD</span>s! mobile app</span> that takes care of all the &ldquo;complication&rdquo;</span></p>
+ <p class="_speakera">Aha, there is&hellip;</span> He tried to hold back, but then he let out a full laugh, <span class="_speakerac">THERE IS AN APP FOR THAT!</span> I took that as a sign that he was less tense. Progress.</p>
+ <p class="_speakerb">Yes. The app let&rsquo;s you recognize contributions when you see them. This means that you don&rsquo;t have to wait until the end of month to vote. And you don't have to deal with the mechanics, like converting contributions to <span class="_paradigm">RAD</span>s&mdash;the app does that. When it is all said and done, the app records all transactions so everybody can see them.</span></p>
 
 <h1>Punishment</h1>
- <p class="_speaker"><span class="_speakerc">Can I take <span class="_paradigm">RAD</span>s away?</span></p>
- <p class="_speaker"><span class="_speakerb"><span class="_paradigm">RAD</span>s are given for contributions, so unless the contributions disappear, somehow, it doesn't make sense to take <span class="_paradigm">RAD</span>s away.</span> I wasn&rsquo;t sure whether to say or not, but I said anyway, <span class="_speakerbc">You might be asking if there a way to <em>punish</em> somebody, is that it?</span></p>
- <p class="_speaker"><span class="_speakerc">Yes, you have to make sure that things are done the right way. Punishment is very good to make people learn.</span></p>
- <p class="_speaker"><span class="_speakerb">Do you have kids?</span></p>
- <p class="_speaker"><span class="_speakerc">Yes</span></p>
- <p class="_speaker"><span class="_speakerb">Do you love them?</span></p>
- <p class="_speaker"><span class="_speakerc">Of course. Yes.</span></p>
- <p class="_speaker"><span class="_speakerb">Do you beat them into submission every time they do something you don&rsquo;t like?</span></p>
- <p class="_speaker"><span class="_speakera">Enough of that. That is not what she said&hellip;.</span></p>
+ <p class="_speakerc">Can I take <span class="_paradigm">RAD</span>s away?</span></p>
+ <p class="_speakerb"><span class="_paradigm">RAD</span>s are given for contributions, so unless the contributions disappear, somehow, it doesn't make sense to take <span class="_paradigm">RAD</span>s away.</span> I wasn&rsquo;t sure whether to say or not, but I said anyway, <span class="_speakerbc">You might be asking if there a way to <em>punish</em> somebody, is that it?</span></p>
+ <p class="_speakerc">Yes, you have to make sure that things are done the right way. Punishment is very good to make people learn.</span></p>
+ <p class="_speakerb">Do you have kids?</span></p>
+ <p class="_speakerc">Yes</span></p>
+ <p class="_speakerb">Do you love them?</span></p>
+ <p class="_speakerc">Of course. Yes.</span></p>
+ <p class="_speakerb">Do you beat them into submission every time they do something you don&rsquo;t like?</span></p>
+ <p class="_speakera">Enough of that. That is not what she said&hellip;.</span></p>
  <p>She looked at her husband with disapproving eyes and said,</p>
- <p class="_speaker"><span class="_speakerc">&hellip; No, I don&rsquo;t beat them when do something wrong. I teach them why it is wrong.</span></p>
+ <p class="_speakerc">&hellip; No, I don&rsquo;t beat them when do something wrong. I teach them why it is wrong.</span></p>
  <p>We all feel into silence after she said that. The man had his arms crossed, but was lost in thoughts. She stared past me. I felt that they, we had crossed a significant line.</p>
- <p class="_speaker"><span class="_speakerc">You know, it became chaotic after we started yelling at each other. All that yelling.</span></p>
- <p class="_speaker"><span class="_speakerb">All that fear, yes. Something is wrong and people try to get control. Other submit, or it falls apart.</span></p>
- <p class="_speaker"><span class="_speakerc">It fell apart because all the yelling.</span></p>
- <p class="_speaker"><span class="_speakera">Yes, it was about taking control.</span></p>
+ <p class="_speakerc">You know, it became chaotic after we started yelling at each other. All that yelling.</span></p>
+ <p class="_speakerb">All that fear, yes. Something is wrong and people try to get control. Other submit, or it falls apart.</span></p>
+ <p class="_speakerc">It fell apart because all the yelling.</span></p>
+ <p class="_speakera">Yes, it was about taking control.</span></p>
  <p>I felt my eyes swelling with tears and emotion. These people had made quite a leap in an instant. They had realized in an instance that fear that had made them fail earlier: they have made their daemons visible.</p>
- <p class="_speaker"><span class="_speakerc">So, no punishment.</span> She was looking at her knees while she said that.</p>
- <p class="_speaker"><span class="_speakera">No punishment.</span> He was looking sad and looking her way.</p>
- <p class="_speaker"><span class="_speakerb">Instead of taking <span class="_paradigm">RAD</span>s away, there is a button for asking for &lsquo;a talk&rsquo;.</span></p>
- <p class="_speaker"><span class="_speakerc">Of course.</span> She said quietly.</p>
- <p class="_speaker"><span class="_speakerb">If you talk to the person and the offending behavior doesn&rsquo;t change, you and your peers will likely stop giving this person <span class="_paradigm">RAD</span>s and eventually they will leave.</span></p>
- <p class="_speaker"><span class="_speakera">Go away. We don&rsquo;t love you anymore</span> The way he said it, it was a statement, an annoucement to the world.</p>
+ <p class="_speakerc">So, no punishment.</span> She was looking at her knees while she said that.</p>
+ <p class="_speakera">No punishment.</span> He was looking sad and looking her way.</p>
+ <p class="_speakerb">Instead of taking <span class="_paradigm">RAD</span>s away, there is a button for asking for &lsquo;a talk&rsquo;.</span></p>
+ <p class="_speakerc">Of course.</span> She said quietly.</p>
+ <p class="_speakerb">If you talk to the person and the offending behavior doesn&rsquo;t change, you and your peers will likely stop giving this person <span class="_paradigm">RAD</span>s and eventually they will leave.</span></p>
+ <p class="_speakera">Go away. We don&rsquo;t love you anymore</span> The way he said it, it was a statement, an annoucement to the world.</p>
  <p>I nearly fell off my chair when I heard that because love is at the root of having people learn new things. They figured all that out in front of my eyes, sitting there.</p>
 
 <h1>Can We Invest Like You?</h1>
- <p class="_speaker"><span class="_speakera">Can we invest, too, the same as you.</span></p>
- <p class="_speaker"><span class="_speakerb">Of course. Like everything else, it is up to your.</span></p>
- <p class="_speaker"><span class="_speakera">We thought of selling to our employees for a lower price, but this means that we can sell it for a normal price but take less money up front. I am not sure I am explaining myself correctly.</span></p>
- <p class="_speaker"><span class="_speakerb">Perfectly clear. You sell it for $100, but expect only $80 dollars and the other $20 would be a <span class="_paradigm">Radical</span> inventment.</span></p>
- <p class="_speaker"><span class="_speakerc">More like $50 dollars</span> She said as she looked at her husband.</p>
- <p class="_speaker"><span class="_speakera">Yes, something like that.</span></p>
- <p class="_speaker"><span class="_speakerb">Whatever the amount, that would work&hellip; wonderfully.</span></p>
+ <p class="_speakera">Can we invest, too, the same as you.</span></p>
+ <p class="_speakerb">Of course. Like everything else, it is up to your.</span></p>
+ <p class="_speakera">We thought of selling to our employees for a lower price, but this means that we can sell it for a normal price but take less money up front. I am not sure I am explaining myself correctly.</span></p>
+ <p class="_speakerb">Perfectly clear. You sell it for $100, but expect only $80 dollars and the other $20 would be a <span class="_paradigm">Radical</span> inventment.</span></p>
+ <p class="_speakerc">More like $50 dollars</span> She said as she looked at her husband.</p>
+ <p class="_speakera">Yes, something like that.</span></p>
+ <p class="_speakerb">Whatever the amount, that would work&hellip; wonderfully.</span></p>
 
 <h1><span class="_paradigm">Radical</span> investment</h1>
- <p class="_speaker"><span class="_speakerb">What I have done with my <span class="_paradigm">Radical</span> investment is that if the co-workers are willing to match the 10% load that we have agreed to, then we put that 10% and their 10% in a pool and distribute according to <span class="_paradigm">RAD</span>s.</span></p>
- <p class="_speaker"><span class="_speakera">Sorry, but I don&rsquo;t understand.</span></p>
- <p class="_speaker"><span class="_speakerc">I don&rsquo;t understand, either.</span></p>
- <p class="_speaker"><span class="_speakerb">I do that because I figured that they have been working hard to repay the investments and this may be the first opportunity to get the full impact of their <span class="_paradigm">RAD</span>s and all their effort. They are co-owners, but that may not be significant enough at this point, but a Distribution will. I&rsquo;ll get some money out of it, too, but the impact on them is the precious thing.</span></p>
+ <p class="_speakerb">What I have done with my <span class="_paradigm">Radical</span> investment is that if the co-workers are willing to match the 10% load that we have agreed to, then we put that 10% and their 10% in a pool and distribute according to <span class="_paradigm">RAD</span>s.</span></p>
+ <p class="_speakera">Sorry, but I don&rsquo;t understand.</span></p>
+ <p class="_speakerc">I don&rsquo;t understand, either.</span></p>
+ <p class="_speakerb">I do that because I figured that they have been working hard to repay the investments and this may be the first opportunity to get the full impact of their <span class="_paradigm">RAD</span>s and all their effort. They are co-owners, but that may not be significant enough at this point, but a Distribution will. I&rsquo;ll get some money out of it, too, but the impact on them is the precious thing.</span></p>
  <p>I paused for a bit and then I said,</p>
- <p class="_speaker"><span class="_speakerb">I should tell you that none of my investments have matured, yet, so at this point they are just experiments and &rsquo;pool&rsquo; that I talked about is based on hope.</span></p>
- <p class="_speaker"><span class="_speakerc">Nice. Very nice hope.</span></p>
+ <p class="_speakerb">I should tell you that none of my investments have matured, yet, so at this point they are just experiments and &rsquo;pool&rsquo; that I talked about is based on hope.</span></p>
+ <p class="_speakerc">Nice. Very nice hope.</span></p>
 
 <h1>All Roses</h1>
  <p>Finally, we had everything in hand. The amount was settle. They owners were carry 25% of the debt, 10% of which could go into a RAD Distribution fund, if the co-owners matched it. A baker from Arizmendi had  agreed to be part fo the team for a year, and train them as bakers. The old owners would have a two-month overlap with the new co-owners in person and then they would be available for questions, but remotely. I carried 10% of the debt. The rest would come out of cashflow.</p>
@@ -131,14 +132,14 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p>They could bake alright, but they could not recreate all of the smells and flavors that they had before. They never stopped learning from trial and error, but business was stagnant. So the man came back for a few weeks and got the smells and flavors back consistenly. He even got lots of <span class="_paradigm">RAD</span>s for his contributions. He helped turn nervous smiles into real smiles. Then he left.</p>
 
 <h1>Back on Track</h1>
- <p class="_speaker"><span class="_speakerb">Is this the last payment on the debt? That means you are early!</span></p>
- <p class="_speaker"><span class="_speakerc">Business is great.</span> Vicky said. <span class="_speakercc">The <span class="_paradigm">RAD</span>s&rsquo; yield is going up for everybody.</span></p>
- <p class="_speaker"><span class="_speakerb">Wow&hellip;</span></p>
- <p class="_speaker"><span class="_speakerc">In fact, we don&rsquo;t even have a <span class="_paradigm">PRI</span> fund any more. But now we have to pay then and you to retire that debt.</span></p>
- <p class="_speaker"><span class="_speakerb">Look at you, &lsquo;<span class="_paradigm">PRI</span>&rsquo; and &lsquo;retire&rsquo; in the same breath. That is fantastic.</span></p>
- <p class="_speaker"><span class="_speakerc">Don&rsquo;t say that until you get paid back.</span> Vicky was laughing out loud. <span class="_speakercc">And, by the way, we are going to put our 20% in the <span class="_paradigm">RAD</span>s fund to have an extra distribution. We could even reduce your number to %5, instead of 10%, to make sure that your investment grows by 5% for sure.</span></p>
- <p class="_speaker"><span class="_speakerb">We could do that. Let&rsquo;s wait until we crossed that bridge.</span></p>
- <p class="_speaker"><span class="_speakerc">We've already talk to the people in France and we are going to switch them so they have a guaranteed steady intensely forever. This may not be purely <span class="_paradigm">Radical</span>, but&hellip;</span></p>
+ <p class="_speakerb">Is this the last payment on the debt? That means you are early!</span></p>
+ <p class="_speakerc">Business is great.</span> Vicky said. <span class="_speakercc">The <span class="_paradigm">RAD</span>s&rsquo; yield is going up for everybody.</span></p>
+ <p class="_speakerb">Wow&hellip;</span></p>
+ <p class="_speakerc">In fact, we don&rsquo;t even have a <span class="_paradigm">PRI</span> fund any more. But now we have to pay then and you to retire that debt.</span></p>
+ <p class="_speakerb">Look at you, &lsquo;<span class="_paradigm">PRI</span>&rsquo; and &lsquo;retire&rsquo; in the same breath. That is fantastic.</span></p>
+ <p class="_speakerc">Don&rsquo;t say that until you get paid back.</span> Vicky was laughing out loud. <span class="_speakercc">And, by the way, we are going to put our 20% in the <span class="_paradigm">RAD</span>s fund to have an extra distribution. We could even reduce your number to %5, instead of 10%, to make sure that your investment grows by 5% for sure.</span></p>
+ <p class="_speakerb">We could do that. Let&rsquo;s wait until we crossed that bridge.</span></p>
+ <p class="_speakerc">We've already talk to the people in France and we are going to switch them so they have a guaranteed steady intensely forever. This may not be purely <span class="_paradigm">Radical</span>, but&hellip;</span></p>
  <p class="_speaker"> owners.</span></p>
 
 <div class="_next">
