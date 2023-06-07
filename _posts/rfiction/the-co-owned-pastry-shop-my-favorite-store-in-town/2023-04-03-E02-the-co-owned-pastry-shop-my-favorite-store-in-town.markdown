@@ -76,7 +76,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p>The man looked uncomfortable, though he wasn&rsquo;t saying much.</p>
  <p class="_speakerb">I should add that there a <span class="_me"><span class="_paradigm">RAD</span>s! mobile app</span></span> that takes care of all these &lsquo;complication&rsquo;</p>
  <p><span class="_speakera">Aha, there is&hellip;</span> He tried to hold back, but then he let out a full laugh, <span class="_speakerac">&hellip; THERE IS AN APP FOR THAT!</span>
- <p>I took that as a sign that he was less tense. Progress.</p>
+ <p>I took that as a sign that, at least, he was less tense. Progress.</p>
  <p class="_speakerb">Yes. The app let&rsquo;s you recognize contributions when you see them. This means that you don&rsquo;t have to wait until the end of month to vote. And you don't have to deal with the mechanics, like converting contributions to <span class="_paradigm">RAD</span>s&mdash;the app does all that. When it is done, the app records all transactions so everybody can see them.</p>
 
 <h1>Punishment</h1>
