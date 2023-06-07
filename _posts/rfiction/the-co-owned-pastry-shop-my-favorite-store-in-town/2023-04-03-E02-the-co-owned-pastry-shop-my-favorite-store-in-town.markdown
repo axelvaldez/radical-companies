@@ -69,7 +69,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speakerc">I think I understand the mechanics. Still, it sounds a bit complicated.</p>
  <p class="_speakerb">It is different, but really not that complicated. National currencies are more complicated, except the complication is hidden to &ldquo;little people&rdquo; like you and me.</p>
  <p class="_speakerc">That might be true, but I would like to hear more.</p>
- <p>I noticed that the man&rsquo;s eyes were defocuse. He must have been thinking intensely.</p>
+ <p>I noticed that the man was looking into the distance, so to speak. He must have been thinking intensely.</p>
 
 <h1>More Complications</h1>
  <p class="_speaker"> owner. In this case, the dividends get distributed among all co-owners according to the <span class="_paradigm">RAD</span>s each has.</p>
