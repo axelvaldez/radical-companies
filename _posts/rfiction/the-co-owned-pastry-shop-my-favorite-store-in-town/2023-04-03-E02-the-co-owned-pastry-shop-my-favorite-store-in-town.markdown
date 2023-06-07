@@ -135,7 +135,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p>Lots of drama on the way, but all for the best.</p>
 
 <h1>Bye, Bye</h1>
- <p>The day came for the old owners to head for the airport, six weeks later than they thought. They closed the shop for the day and the new co-owners organized a caravan to take them. Everybody was still very positive. Come to think of it, only one person chose to not participate and left, but the rest of them were very enthusiastic. Even when they had to sit down with their accountant to pay their quarterly taxes. As it turned out, Pris and Vicky were most interested in that aspect of the business and rose to be leaders of that particular task. Andy and Mario emerged as leaders of ordering supplies. Martha took over decorations, with the occasional help from Cris.</p>
+ <p>The day came for the old owners to head for the airport, six weeks later than they thought. They closed the shop for the day and the new co-owners organized a caravan to take them. Everybody was still very positive. Come to think of it, only one person chose to not participate and left, but the rest of them were very enthusiastic. Even when they had to sit down with their accountant to pay their quarterly taxes. As it turned out, Pris and Vicky were most interested in that aspect of the business and rose to be leaders of that particular task. Andy and Mario emerged as leaders of ordering supplies. Martha took over decorations, with the occasional help from Pris.</p>
 
 <h1>Nervous Smiles</h1>
  <p>It was all roses in the storefront, but the bakery was another story.</p>
