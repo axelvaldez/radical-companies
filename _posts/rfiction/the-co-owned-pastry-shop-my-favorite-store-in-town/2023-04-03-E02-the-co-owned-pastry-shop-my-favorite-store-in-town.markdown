@@ -13,29 +13,28 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
 <h1>The Meeting</h1>
  <p>We went through the niceties and the hellos and then there was the silence of not knowing how to start. So, I started.</p>
  <p class="_speakerb">I am sorry to surprise you with the news that I knew about your plans, but there is a valid and innocent reason&hellip;<p>
- <p>After my explanation, the man seemed more relaxed and the woman offered coffee. This time I accepted to give them time to digest. In the meantime I told the man that I had been to <em>Ginole les Bains</em> and found it beautiful and very relaxing.</p>
+ <p>After my explanation, the man seemed more relaxed and the woman offered coffee. This time I accepted to give them time to digest.</p>
+ <p>In the meantime I told the man that I had been to <em>Ginole les Bains</em> and found it beautiful and very relaxing.</p>
  <p class="_speakera">Did you stay in town? Where?</p>
  <p class="_speakerb">At the old bathhouse.</p>
  <p>At the sound of that, he leaned forward as if to ask something, but he was interrupted by his wife coming back with the coffee.</p>
- <p class="_speakerc">Black and no cream, right?</p>
- <p>She said in a happy tone.</p>
+ <p><span class="_speakerc">Black and no cream, right?</span>&mdash;She said in a happy tone.</p>
  <p class="_speakerb">Right! Thanks.</p>
  <p>She sat down with a nervous smile on her face and glanced at her husband.</p>
  <p class="_speakera">We have not decided to sell, yet. We haven&rsquo;t even gone out to look for buyers.</p>
- <p class="_speakerb">But you prefer to sell it to your employees.</span></p>
- <p class="_speakerc">Yes!</p>
- <p>She said right away, looking excited.</p>
+ <p class="_speakerb">But you prefer to sell it to your employees.</p>
+ <p><span class="_speakerc">Yes!</span>&mdash;She said right away, looking excited.</p>
  <p class="_speakerb">That&rsquo;s OK, because I don&rsquo;t want to buy it. I am here to find out the financial terms and, if need be, to loan them money.</p>
- <p class="_speakerc"><span class="_speakera">Oh.</p>
- <p class="_speakerb"><span class="_speakerb">M&rsquo;dieu!</p>
+ <p class="_speakera">Oh.</p>
+ <p class="_speakerb">M&rsquo;dieu!</p>
  <p>They both looked worried now.</p>
- <p class="_speakerc">We were going to tell them anyway. In fact&hellip;<span> She glanced at her husband and he subtly signaled agreement with his eyes.</p>
+ <p><span class="_speakerc">We were going to tell them anyway. In fact&hellip;<span> She glanced at her husband and he subtly signaled agreement with his eyes.</p>
  <p class="_speakera">We prefer to tell them ourselves.</p>
  <p class="_speakerb">That would be best. I felt akward coming here anyways. Not let me explain what I see as my involvement&mdash;I paused for a bit and thought about what I wanted to say and how I wanted to say it&mdash;<span class="_speakerbc">I intend to help them out with the finances, the money part, but I don&rsquo;t want to expect any powerr over the company in any way. Except, maybe, they should reserve three chocaolate eclairs from me.</span> Finally, we all got to smile and relax a bit.</p>
- <p class="_speakera">What do you mean you don&rsquo;t want any power for your money?</span></p>
- <p class="_speakerb">Hmm. This may sound weird to you, but I am more interested in the success of them and the community, our town. I&rsquo;ll give them what I call a <span class="_paradigm">Radical</span> investment, which means that they have to pay back the principle, the amount of money I give them, plus something else. I've made a couple of these investments before and the something else is that we take my interest, usually 10%, and the co-owners match it. We end up with 20% of the investment in a pool and then distribute it to everybody based on their&hellip; contributions.</span></p>
+ <p class="_speakera">What do you mean you don&rsquo;t want any power for your money?</p>
+ <p class="_speakerb">Hmm. This may sound weird to you, but I am more interested that they\ and the community succeed. I&rsquo;ll give them what I call a <span class="_paradigm">Radical investment</span>. This means that they have to pay back the amount of money I give them plus a small interest. I&rsquo;ve made a couple of these investments before and the &ldquo;something more&rdquo; is that we take my interest, usually 10%, and the co-owners match it we end up with 20% of the investment in a pool and then distribute it to everybody based on their&hellip; contributions.</span></p>
  <p class="_speakerc">And then you decide? or they vote? How do you decided their contributions? Besides, waiting until the very end&hellip; I don&rsquo;t think that works!</span></p>
- <p class="_speakerb">Yes, to everythig you said. But, no, that is not quite the way it works.</span></p>
+ <p class="_speakerb">No, that is not quite the way it works.</span></p>
  <p class="_speakera">Then, how does it work?</span></p>
  <p class="_speakerb">OK, you are interested, so I'll give you the whole tour of how <span class="_paradigm">RAD</span>s work.</span></p>
 
