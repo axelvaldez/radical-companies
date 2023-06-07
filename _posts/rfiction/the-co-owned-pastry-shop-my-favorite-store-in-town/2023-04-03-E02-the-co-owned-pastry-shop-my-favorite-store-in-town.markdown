@@ -81,8 +81,8 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
 
 <h1>Punishment</h1>
  <p class="_speakerc">Can I take <span class="_paradigm">RAD</span>s away?</p>
- <p class="_speakerb"><span class="_paradigm">RAD</span>s are given for contributions, so, no, it doesn't make sense to take <span class="_paradigm">RAD</span>s away.</p> I wasn&rsquo;t sure whether to say or not, but I said anyway, <span class="_speakerbc">You might be asking if there a way to <em>punish</em> somebody, is that it?</p>
- <p class="_speakerc">Yes, you have to make sure that things are done the right way. Punishment is very good to make people learn.</p>
+ <p class="_speakerb"><span class="_paradigm">RAD</span>s are given for contributions, so, no, it doesn't make sense to take <span class="_paradigm">RAD</span>s away.</span> I wasn&rsquo;t sure whether to say it or not, but I said anyway, <span class="_speakerbc">You might be asking if there a way to <em>punish</em> somebody, is that it?</p>
+ <p class="_speakerc">Yes, motivate them to do the right thing. You have to make sure that things are done <strong>the right way</strong>. Some form of punishment is very good for making people learn the correct way to do things.</p>
  <p class="_speakerb">Do you have kids?</p>
  <p class="_speakerc">Yes</p>
  <p class="_speakerb">Do you love them?</p>
