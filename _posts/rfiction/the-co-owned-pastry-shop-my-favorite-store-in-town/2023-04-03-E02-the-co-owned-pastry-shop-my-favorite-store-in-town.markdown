@@ -62,7 +62,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speakerb">There are no rules. Whatever a person feels is a contribution, is a contribution.</p>
  <p class="_speakerc">Say more.</p>
 
-<h1><span class="_paradigm">RAD</span>s</h1>
+<h1>RADs</h1>
  <p class="_speakerb">The contributions that you give reflect how you feel about what you see happening. You see behavior, you feel enthused about it, and you press the &lsquo;contributions&rsquo; button to your heart&rsquo;s content. You see behavior, you feel it is wrong, and you press the &lsquo;we need to talk&rsquo; button. But we want these contributions to be tangible, not empty backslaps.</p>
  <p>I paused for a bit.</p>
  <p class="_speakerb">To make them tangible, you have to convert them to <span class="_paradigm">RAD</span>s. If somebody has 20% of the <span class="_paradigm">RAD</span>s, they get 20% of the profits. If the profits were $100, they get $10, but if they are $1,000, they&rsquo;d get $100. Rather than converting directly to a currency which is fixed, we convert them to <span class="_paradigm">RAD</span>s because because they factor other things, like money. Next month you may have 20% of the <span class="_paradigm">RAD</span>s and then you&rsquo;ll get 20% of the profits.</p>
