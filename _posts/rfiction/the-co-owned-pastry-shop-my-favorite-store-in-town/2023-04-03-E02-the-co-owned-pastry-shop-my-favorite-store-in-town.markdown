@@ -112,12 +112,13 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
 
 <h1>Can We Invest Like You?</h1>
  <p class="_speakera">Can we invest, too, the same as you.</p>
- <p class="_speakerb">Of course. Like everything else, it is up to your.</p>
+ <p class="_speakerb">Of course. Like everything else, it is up to you.</p>
  <p class="_speakera">We thought of selling to our employees for a lower price, but this means that we can sell it for a normal price but take less money up front. I am not sure I am explaining myself correctly.</p>
- <p class="_speakerb">Perfectly clear. You sell it for $100, but expect only $80 dollars and the other $20 would be a <span class="_paradigm">Radical</span> inventment.</p>
- <p class="_speakerc">More like $50 dollars</span> She said as she looked at her husband.</p>
+ <p class="_speakerb">Perfectly clear. You sell it for $100, but expect only $80 dollars and the other $20 would be a <span class="_paradigm">Radical</span> investment.</p>
+ <p class="_speakerc">More like $50 dollars</span>
+ <p>She said as she looked at her husband.</p>
  <p class="_speakera">Yes, something like that.</p>
- <p class="_speakerb">Whatever the amount, that would work&hellip; wonderfully.</p>
+ <p class="_speakerb">Whatever the amount, that would work wonderfully.</p>
 
 <h1>Radical Investments</h1>
  <p class="_speakerb">What I have done with my <span class="_paradigm">Radical</span> investment is that if the co-workers are willing to match the 10% load that we have agreed to, then we put that 10% and their 10% in a pool and distribute according to <span class="_paradigm">RAD</span>s.</p>
