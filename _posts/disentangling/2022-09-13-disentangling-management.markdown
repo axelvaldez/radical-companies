@@ -108,7 +108,7 @@ image:    "icon-disentangling-management.svg"
      <p>In a co-managed company, anybody in your team can give you feedback on your way of relating to others or your work. You chances of &ldquo;getting a raise&rdquo; is not up one person, your boss, but by your contributionsl.</p></td>
    </tr>
    <tr>
-    <th>Career development</th>
+    <th>Career developmentt</th>
     <td>
      <p>See Training, below, for improving your mastery of particular subjects.</p>
     </td>

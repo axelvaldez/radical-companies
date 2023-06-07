@@ -12,7 +12,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
 
 <h1>&nbsp;</h1>
  <p>Sovereignty and legitimacy are the two aspects any currency must have to be useful. The US dollar (&dollar;) has become the worldwide clearing currency, the only legitimate currency in the eyes of many governments. But it is not sovereign, except in the US. In most of Europe, the Euro (&euro;) is the sovereign currency. In Japan, the Yen (&yen;).</p>
- <p>This is a recent development, with national currencies formerly considered legitimate for trade (after lots of conversions).</p>
+ <p>This is a recent developmentt, with national currencies formerly considered legitimate for trade (after lots of conversions).</p>
  <p>If we are to enter into a more decentralized age, with nation-states and corporations seeing an end to their monopolies, any new currency must achieve legitimacy and sovereignty. And not just for local transactions, but global transactions as well.</p>
  <p>As a counter-example, Bitcoin and other crypto-currencies are not considered legitimate<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> nor sovereign. Maybe they will become legitimate for some transactions, but they can never be sovereign. The blockchain is not sustainable and the alternative, less-energy-consuming versions of it are not secure and are manipulable.</p>
 

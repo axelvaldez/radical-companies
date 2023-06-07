@@ -330,7 +330,7 @@ image:    "icon-rmedia.svg"
    <li>The Power Up program leverages the experience a developer has gained to deliver the equivalent of one year experience in a few weeks. Shifting to a new paradigm will take longer (<em>e.g.</em>, from object oriented to functional).</li>
    <li>A kickoff Power Up program covers the basics, but the rest would come in follow up workshops and production work.</li>
   </ul>
-<h2>People Development</h2>
+<h2>People Developmentt</h2>
  <p>TBD</p>
 <h2>Holding on to Your Chicken</h2>
  <p>The “chicken” comes from an illustration that Kimberly Wiefling<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> uses in her workshops where she holds a rubber chicken up over her head, opens her fist, and lets it fall to the floor. Then she asks, “what happened to the chicken?” The responses are usually all over the place, but every so often a small voice says, “… because you let it go of it?” And that&rsquo;s the point: you let go of your power, your essence, to others. And those more powerful than you grab it as soon as you let go of it.</p>

@@ -38,7 +38,7 @@ image:    "icon-disentangling-investments.svg"
   </div>
  <p>The big difference is that those Board of Director seats give the VCs control of your business (<em>i.e.</em>, really, control of <em>you</em>). And, legal fantasies aside, through you, or your replacement, they have control of the business. Lots of people would differ and they will bring up this and that reason for why that is not <em>quite</em> the case. But it&rsquo;s a fantasy, a myth for sleeping better at night, subtleties required by the law of the land but which make no difference if the Board wants to fire your ass.</p>
  <p>This is, at least, how it works in the technology business. Other business areas work differently.</p>
- <p>For example, the real estate business investment acts more like a riskier loan, IMO. The real asset doesn&rsquo;t exist yet, you have to build it. So, you put together several Angel-like investors  to raise the money you need to buy materials and hire the people to put them all together into a real estate asset (<em>e.g.</em>, an office building, a residential development, a hotel).</p>
+ <p>For example, the real estate business investment acts more like a riskier loan, IMO. The real asset doesn&rsquo;t exist yet, you have to build it. So, you put together several Angel-like investors  to raise the money you need to buy materials and hire the people to put them all together into a real estate asset (<em>e.g.</em>, an office building, a residential developmenttt, a hotel).</p>
  <p>The risk is that the developer fails to finish the asset and you lose the money you invested. The Return on that Investment (ROI) is usually a percent of the profits. Kind of like a forever annuity.</p>
 
 <h1>>RADICAL Investments</h1>

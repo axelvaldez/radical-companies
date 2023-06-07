@@ -21,7 +21,7 @@ image:    "icon-escape-velocity-radical-style.svg"
  <p>Then, how  that leads some people to act like barbariansdid this system get started? And, why has it been so robust, so long-lasting?</p>
 
 <h1>Money Did It</h1>
- <p>In <em>Debt: The First 5,000 Years</em><a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> author David Graeber proposes that the development of coinage sparked the system we live in today. Author Paul Mason agrees,</p>
+ <p>In <em>Debt: The First 5,000 Years</em><a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> author David Graeber proposes that the developmentt of coinage sparked the system we live in today. Author Paul Mason agrees,</p>
  <div class="_quotation">
   <p>Graeber says what emerged after 800 BCE was a ‘military-coinage-slave complex&rsquo;, which forms the common basis for very different&hellip; city states across China, India, and ancient Greece.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>

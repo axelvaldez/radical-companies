@@ -248,7 +248,7 @@ image:    "icon-radical-companies-faq.svg"
    </td>
   </tr>
 </table>
- <p>These are what we think are the important dimensions by which to view how healthy a community is and how supportive it is for learning and development of its members. You can also look at it as a self-assessment tool that companies can use to figure out what&rsquo;s most important to them and where they want to go. It is also a common language for companies to work with each other. Regardless of what &ldquo;solutions&rdquo; they&rsquo;ve adopted, they can use these dimensions to figure where each is and how they could possibly collaborate with one another.</p>
+ <p>These are what we think are the important dimensions by which to view how healthy a community is and how supportive it is for learning and developmentt of its members. You can also look at it as a self-assessment tool that companies can use to figure out what&rsquo;s most important to them and where they want to go. It is also a common language for companies to work with each other. Regardless of what &ldquo;solutions&rdquo; they&rsquo;ve adopted, they can use these dimensions to figure where each is and how they could possibly collaborate with one another.</p>
  <p>Without a simple shared language, we can quickly slide down to &ldquo;my X is better than you Y&rdquo; and conversations are not possible.</p>
  <p>Note that this is not a way of ranking one company against another (&ldquo;We are more transparent than you are&rdquo;). But you can use this foundation to measure
 <em>your</em> company&rsquo;s progress over time (&ldquo;We are <em>more</em> transparent this month than last month&rdquo;).</p>
