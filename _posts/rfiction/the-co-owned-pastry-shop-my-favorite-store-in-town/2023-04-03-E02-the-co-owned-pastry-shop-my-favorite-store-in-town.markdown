@@ -124,9 +124,9 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speakerb">What I have done with my <span class="_paradigm">Radical</span> investment is that if the co-workers are willing to match the 10% load that we have agreed to, then we put that 10% and their 10% in a pool and distribute according to <span class="_paradigm">RAD</span>s.</p>
  <p class="_speakera">Sorry, but I don&rsquo;t understand.</p>
  <p class="_speakerc">I don&rsquo;t understand, either.</p>
- <p class="_speakerb">I do that because I figured that they have been working hard to repay the investments and this may be the first opportunity to get the full impact of their <span class="_paradigm">RAD</span>s and all their effort. They are co-owners, but that may not be significant enough at this point, but a Distribution will. I&rsquo;ll get some money out of it, too, but the impact on them is the precious thing.</p>
+ <p class="_speakerb">I do that because I figured that they have been working hard to repay the investments and this may be the first opportunity to get the full impact of their <span class="_paradigm">RAD</span>s and all their effort. They are co-owners, but that may not be significant enough at this point, but a <span class="_paradigm">Distribution</span> will. I&rsquo;ll get some money out of it, too, but the impact on them is the precious thing.</p>
  <p>I paused for a bit and then I said,</p>
- <p class="_speakerb">I should tell you that none of my investments have matured, yet, so at this point they are just experiments and &rsquo;pool&rsquo; that I talked about is based on hope.</p>
+ <p class="_speakerb">I should tell you that none of my investments have matured, yet, so at this point they are just experiments and &rsquo;pool&rsquo; that I talked about is just a hope.</p>
  <p class="_speakerc">Nice. Very nice hope.</p>
 
 <h1>All Roses</h1>
