@@ -12,16 +12,19 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
 
 <h1>The Meeting</h1>
  <p>We went through the niceties and the hellos and then there was the silence of not knowing how to start. So, I started.</p>
- <p class="_speakerb">I am sorry to surprise you with the news that I knew about your plans, but there is a valid and innocent reason&hellip;</span> And I went on to explain.</p>
- <p>After my explanation, the man seemed more relaxed and the woman offered coffee. This time I accepted to give time to digest. In the meantime I told the man that I had been to Ginole les bains and found it beautiful and very relaxing.</p>
+ <p class="_speakerb">I am sorry to surprise you with the news that I knew about your plans, but there is a valid and innocent reason&hellip;<p>
+ <p>After my explanation, the man seemed more relaxed and the woman offered coffee. This time I accepted to give them time to digest. In the meantime I told the man that I had been to <em>Ginole les Bains</em> and found it beautiful and very relaxing.</p>
  <p class="_speakera">Did you stay in town? Where?</p>
- <p class="_speakerb">At the old bathhouse. At the sound of that, he leaned forward as if to ask something, but he was interrupted by his wife coming back with the coffee.</p>
- <p class="_speakerc">Black and no cream, right?</span> She said in a happy tone.</p>
- <p class="_speakerb">Right! Thanks.</span></p>
+ <p class="_speakerb">At the old bathhouse.</p>
+ <p>At the sound of that, he leaned forward as if to ask something, but he was interrupted by his wife coming back with the coffee.</p>
+ <p class="_speakerc">Black and no cream, right?</p>
+ <p>She said in a happy tone.</p>
+ <p class="_speakerb">Right! Thanks.</p>
  <p>She sat down with a nervous smile on her face and glanced at her husband.</p>
  <p class="_speakera">We have not decided to sell, yet. We haven&rsquo;t even gone out to look for buyers.</p>
  <p class="_speakerb">But you prefer to sell it to your employees.</span></p>
- <p class="_speakerc">Yes!</span> Said the woman right away. <span class="_speakercc">And you are not our employee.</p>
+ <p class="_speakerc">Yes!</p>
+ <p>She said right away, looking excited.</p>
  <p class="_speakerb">That&rsquo;s OK, because I don&rsquo;t want to buy it. I am here to find out the financial terms and, if need be, to loan them money.</p>
  <p class="_speakerc"><span class="_speakera">Oh.</p>
  <p class="_speakerb"><span class="_speakerb">M&rsquo;dieu!</p>
