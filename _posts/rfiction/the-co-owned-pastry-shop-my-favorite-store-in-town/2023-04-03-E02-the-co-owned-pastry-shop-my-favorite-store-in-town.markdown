@@ -43,9 +43,8 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
 <h1>Contributions (Not Capital)</h1>
  <p class="_speakerb">OK&hellip; <span class="_paradigm">RAD</span>s are not digital money or anthing like that. But, forget that for now! Let&rsquo;s start with <em>contributions</em>. Normally. you do something good, the boss notices, and he gives you a pat on the back. If he likes you, he may even give you a promotion later. That makes it more tangible, right? But what do you do when you are all owners <em>and there is no boss</em>&hellip;</p>
  <p class="_speakera">Go ahead. We are interested.</p>
- <p class="_speakerb">That doesn&rsquo;t work&hellip;</p>
  <p class="_speakerc">That is how we run the store, n&rsquo;est pa?</p>
- <p class="_speakera">Yes, but not really.</p>
+ <p class="_speakerb">Yes, but not really.</p>
  <p class="_speakerc">Yes, really. We train them and then they take over the store. They ask some questions, but they do very well on their own.</p>
  <p class="_speakera">OK, but you can&rsquo;t run the bakery that without a baker.</p>
  <p class="_speakerb">Yes, you&rsquo;ll have to have a baker. Maybe they all become bakers and can back up each other.</p>
