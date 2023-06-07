@@ -27,8 +27,9 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speakerb">That&rsquo;s OK, because I don&rsquo;t want to buy it. I am here to find out the financial terms and, if need be, to loan them money.</p>
  <p class="_speakera">Oh.</p>
  <p class="_speakerb">M&rsquo;dieu!</p>
- <p>They both looked worried now xxx.</p>
- <p><span class="_speakerc">We were going to tell them anyway. In fact&hellip;<span> She glanced at her husband and he subtly signaled agreement with his eyes.</p>
+ <p>They both looked worried now.</p>
+ <p class="_speakerc">We were going to tell them anyway. In fact&hellip;</p>
+ <p>She glanced at her husband and he subtly signaled agreement with his eyes.</p>
  <p class="_speakera">We prefer to tell them ourselves.</p>
  <p class="_speakerb">That would be best. I felt akward coming here anyways. Not let me explain what I see as my involvement&mdash;I paused for a bit and thought about what I wanted to say and how I wanted to say it&mdash;<span class="_speakerbc">I intend to help them out with the finances, the money part, but I don&rsquo;t want to expect any powerr over the company in any way. Except, maybe, they should reserve three chocaolate eclairs from me.</span> Finally, we all got to smile and relax a bit.</p>
  <p class="_speakera">What do you mean you don&rsquo;t want any power for your money?</p>
