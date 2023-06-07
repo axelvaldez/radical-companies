@@ -14,7 +14,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p>We went through the niceties and the hellos and then there was the silence of not knowing how to start. So, I started.</p>
  <p class="_speaker"><span class="_speakerb">I am sorry to surprise you with the news that I knew about your plans, but there is a valid and innocent reason&hellip;</span> And I went on to explain.</p>
  <p>After my explanation, the man seemed more relaxed and the woman offered coffee. This time I accepted to give time to digest. In the meantime I told the man that I had been to Ginole les bains and found it beautiful and very relaxing.</p>
- <p class="_speaker"><span class="_speakera">Did you stat in town? Where?</span></p>
+ <p class="_speaker"><span class="_speakera">Did you stay in town? Where?</span></p>
  <p class="_speaker"><span class="_speakerb">At the old bathhouse.</span> At the sound of that, he leaned forward as if to ask something, but he was interrupted by his wife coming back with the coffee.</p>
  <p class="_speaker"><span class="_speakerc">Black and no cream, right?</span> She said in a happy tone.</p>
  <p class="_speaker"><span class="_speakerb">Right! Thanks.</span></p>
