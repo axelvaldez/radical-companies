@@ -90,7 +90,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speakerb">Do you beat them into submission every time they do something you don&rsquo;t like?</p>
  <p class="_speakera">Enough of that. That is not what she said&hellip;.</p>
  <p>She looked at her husband with disapproving eyes and said,</p>
- <p class="_speakerc">Lucien, please.</span> Then she looked at me and said, <span class='_spearker'>No, I don&rsquo;t beat them when do something wrong. I teach them why it is wrong.</span></p>
+ <p><span class="_speakerc">Luc, please.</span> Then she looked at me and said, <span class='_speaker'>No, I don&rsquo;t beat them when do something wrong. I teach them why it is wrong.</span></p>
  <p>We all felt into silence after she said that. The man had his arms crossed and lost in thoughts. She stared past me. I felt that we had crossed a significant line.</p>
  <p class="_speakerc">You know, it became chaotic after we started yelling at each other. All that yelling.</p>
  <p class="_speakerb">All that fear, yes. Something is wrong and people try to get control. Others submit. It fell apart.</p>
