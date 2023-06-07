@@ -68,7 +68,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p>I paused for a bit.</p>
  <p class="_speakerb">To make them tangible, you have to convert them to <span class="_paradigm">RAD</span>s. If somebody has 20% of the <span class="_paradigm">RAD</span>s, they get 20% of the profits. If the profits were $100, they get $10, but if they are $1,000, they&rsquo;d get $100. Rather than converting directly to a currency which is fixed, we convert them to <span class="_paradigm">RAD</span>s because because they factor other things, like money. Next month you may have 20% of the <span class="_paradigm">RAD</span>s and then you&rsquo;ll get 20% of the profits.</p>
  <p class="_speakerc">I think I understand the mechanics. Still, it sounds a bit complicated.</p>
- <p class="_speakerb">It is different, but really not that complicated. National currencies are more complicated, except the complication is hidden to &ldquo;little people&rdquo; like you and me.</p>
+ <p class="_speakerb">It is different, but really not that complicated. National currencies are more complicated, except the complication are hidden to &ldquo;little people&rdquo; like you and me.</p>
  <p class="_speakerc">That might be true, but I would like to hear more.</p>
  <p>I noticed that the man was looking into the distance, so to speak. He must have been thinking intensely.</p>
 
