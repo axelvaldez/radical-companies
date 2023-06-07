@@ -72,7 +72,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p>I noticed that the man was looking into the distance, so to speak. He must have been thinking intensely.</p>
 
 <h1>More Complications</h1>
- <p class="_speaker"> owner. In this case, the dividends get distributed among all co-owners according to the <span class="_paradigm">RAD</span>s each has.</p>
+ <p class="_speaker">In the Fiat system profits usually go to the owner. In the non-Fiat system, the dividends get distributed among all co-owners according to the amount of <span class="_paradigm">RAD</span>s each has.</p>
  <p>The man looked uncomfortable, though he wasn&rsquo;t saying much.</p>
  <p class="_speakerb">I should add that there a <span class="_me"><span class="_paradigm">RAD</span>s! mobile app</span> that takes care of all the &ldquo;complication&rdquo;</p>
  <p class="_speakera">Aha, there is&hellip;</span> He tried to hold back, but then he let out a full laugh, <span class="_speakerac">THERE IS AN APP FOR THAT!</span> I took that as a sign that he was less tense. Progress.</p>
