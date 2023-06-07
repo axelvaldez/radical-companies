@@ -89,13 +89,15 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speakerc">Of course. Yes.</p>
  <p class="_speakerb">Do you beat them into submission every time they do something you don&rsquo;t like?</p>
  <p class="_speakera">Enough of that. That is not what she said&hellip;.</p>
- <p>She looked at her husband with disapproving eyes and said, <span class="_speakerc">Lucien, please.</span> Then she looked at me and said, <span class='_speaker'>No, I don&rsquo;t beat them with a broomstick when do something wrong. I teach them what they did wrong and why it is wrong.</span></p>
- <p>We all felt silent after she said that. The man had his arms crossed and was lost in thoughts. And so was she. I felt that we had crossed a significant line.</p>
- <p class="_speakerc">You know, it became chaotic after we started yelling at each other. All that yelling.</p>
- <p class="_speakerb">All that fear, yes. Something is wrong and people try to get control. Others submit. It fell apart.</p>
+ <p>She looked at her husband with disapproving eyes and said,</p>
+ <p class="_speakerc">Lucien, please.</p>
+ <p>Then she looked at me and said,</p>
+ <p class='_speakerc'>No, I don&rsquo;t beat them with a broomstick when they do something. I teach them what they did wrong and why it is wrong.</span></p>
+ <p>We all felt silent after she said that. The man had his arms crossed, lost in thoughts; as was she.</p>
+ <p>I felt that we had crossed a significant line.</p>
+ <p class="_speakera">You know, it became chaotic after we started yelling at each other&hellip; all that yelling. All that fear, yes. Something goes wrong and people try to get control. It fell apart.</p>
  <p class="_speakerc">It fell apart because all the yelling.</p>
- <p class="_speakera">Yes, it was about taking control.</p>
- <p>I felt my eyes swelling. These people had made quite a leap in an instant. They had realized in an instance that fear that had made them fail earlier: they have made their daemons visible.</p>
+ <p>I felt my eyes swelling. These people had made quite a leap in an instant. They had realize what had made them fail earlier. They have made their daemons visible.</p>
  <p class="_speakerc">So, no punishment.</span> She was looking at her knees while she said that.</p>
  <p class="_speakera">No punishment.</span> He was looking sad and looking her way.</p>
  <p class="_speakerb">Instead of taking <span class="_paradigm">RAD</span>s away, there is a button for asking for &lsquo;a talk&rsquo;.</p>
