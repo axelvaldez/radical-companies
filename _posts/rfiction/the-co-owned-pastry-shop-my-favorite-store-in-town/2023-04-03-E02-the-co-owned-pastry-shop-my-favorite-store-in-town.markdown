@@ -144,11 +144,13 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
 
 <h1>Back on Track</h1>
  <p class="_speakerb">Is this the last payment on the debt? That means you are early!</p>
- <p class="_speakerc">Business is great.</span> Vicky said. <span class="_speakercc">The <span class="_paradigm">RAD</span>s&rsquo; yield is going up for everybody.</p>
+ <p class="_speakerc">Business is great. The <span class="_paradigm">RAD</span>s&rsquo; yield is going up for everybody.</p>
  <p class="_speakerb">Wow&hellip;</p>
  <p class="_speakerc">In fact, we don&rsquo;t even have a <span class="_paradigm">PRI</span> fund any more. But now we have to pay then and you to retire that debt.</p>
  <p class="_speakerb">Look at you, &lsquo;<span class="_paradigm">PRI</span>&rsquo; and &lsquo;retire&rsquo; in the same breath. That is fantastic.</p>
- <p class="_speakerc">Don&rsquo;t say that until you get paid back.</span> Vicky was laughing out loud. <span class="_speakercc">And, by the way, we are going to put our 20% in the <span class="_paradigm">RAD</span>s fund to have an extra distribution. We could even reduce your number to %5, instead of 10%, to make sure that your investment grows by 5% for sure.</p>
+ <p class="_speakerc">Don&rsquo;t say that until you get paid back.</p>
+ <p>Vicky was laughing out loud.</p>
+ <p class="_speakerc">And, by the way, we are going to put our 20% in the <span class="_paradigm">RAD</span>s fund to have an extra distribution. We could even reduce your number to %5, instead of 10%, to make sure that your investment grows by 5% for sure.</p>
  <p class="_speakerb">We could do that. Let&rsquo;s wait until we crossed that bridge.</p>
  <p class="_speakerc">We've already talk to the people in France and we are going to switch them so they have a guaranteed steady intensely forever. This may not be purely <span class="_paradigm">Radical</span>, but&hellip;</p>
  <p class="_speaker"> owners.</p>
