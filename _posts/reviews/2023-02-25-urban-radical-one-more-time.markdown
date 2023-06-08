@@ -14,8 +14,8 @@ image:    "icon-urban-radical-one-more-time.svg"
  <p>Below is the continuation of an (imaginary) conversation with Tim Urban on the impact his book, <em>What&rsquo;s Ours Problem: A Self&ndash;Help Book for Society</em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>, had on me.</p>
 
 <h1>Continuing&hellip;</h1>
- <div class="_speakera">Out of love. That is making me unomfortable and energized at the same time. Weirder still, I feel like drawing.</div>
- <div class="_speakerb">And speaking of your drawings, I&rsquo;d like to tell what I found most impactful about the book using your drawings. OK?</div>
+ <div class="_speakera">Out of love. That is making me uncomfortable and energized at the same time. Weirder still, I feel like drawing.</div>
+ <div class="_speakerb">And speaking of your drawings, I&rsquo;d like to tell what I found most Impactful about the book using your drawings. OK?</div>
  <div class="_speakera">Seems like you are going to do it anyway&hellip;</div>
  <div class="_speakerb">Our history illustrated as a 1,000-page book made me sit up and pay attention.</div>
   <div class="_center">
@@ -30,14 +30,14 @@ image:    "icon-urban-radical-one-more-time.svg"
     width="70%"
     alt="">
   </div>
- <div class="_speakerb">When I got to the ladder, I recognized the analysis and labeling that was coming and I got pretty excited. Then you came up with higher and primtive minds, genies and golems and&hellip; and&hellip; it was music to my ears. The high-rung and low-run quadrants were pure joy.</div>
+ <div class="_speakerb">When I got to the ladder, I recognized the analysis and labeling that was coming and I got pretty excited. Then you came up with higher and primitive minds, genies and golems and&hellip; and&hellip; it was music to my ears. The high-rung and low-run quadrants were pure joy.</div>
   <div class="_center">
    <img
     src="/assets/img/pic-39-emergence-of-golems-and-genies-on-the-ladder.svg"
     width="70%"
     alt="">
   </div>
- <div class="_speakerb"> I was aware of the distinction between what&rsquo;s inside your head and what is expressed and I knew that spoken language was key to our humanity. But it was a forehead-slaping moment when I saw this illustration and how communication makes possible the emergence of, for example, social animals.</div>
+ <div class="_speakerb"> I was aware of the distinction between what&rsquo;s inside your head and what is expressed and I knew that spoken language was key to our humanity. But it was a forehead-slapping moment when I saw this illustration and how communication makes possible the emergence of, for example, social animals.</div>
   <div class="_center">
    <img
     src="/assets/img/pic-34-emergence-tower-ant-colony-vs-spider.svg"
