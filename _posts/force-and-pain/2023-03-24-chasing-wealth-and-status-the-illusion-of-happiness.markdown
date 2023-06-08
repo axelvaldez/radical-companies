@@ -33,7 +33,7 @@ image:    "icon-chasing-wealth-and-status-the-illusion-of-happiness.svg"
  <p>The <em>benefits</em> that chatGPT is referring to is very, very fragile. Financial security and status, for example, always are at the mercy of the boss and you can be put in the penalty box at anytime and for any reason. When I was at the height of my salary range, this is the thing that always hung over me and my family&rsquo;s head.</p>
 
 <h1>Existential Dread</h1>
- <p>Tapping one more time into the collective wisdom that is <em>chatGPT</em>, <span class="_quotespan">Existential dread is a feeling of uncertainty, anxiety, or despair about the meaning and purpose of one's life. It can be triggered by various factors, including the sense of emptiness or disconnection from one's work or the world around them.</span></p>
+ <p>Tapping one more time into the collective wisdom that is <em>chatGPT</em>, <span class="_quotespan">Existential dread is a feeling of uncertainty, anxiety, or despair about the meaning and purpose of one&rsquo; life. It can be triggered by various factors, including the sense of emptiness or disconnection from one&rsquo; work or the world around them.</span></p>
  <p>It recommends that you ask yourself certain questions&hellip;</p>
 
 <h1>Questions, Questions</h1>
