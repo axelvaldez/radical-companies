@@ -78,7 +78,7 @@ image:    "icon-E01-the-co-owned-pastry-shop-my-favorite-store-in-town.svg"
   <li id="en01">
    <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
-    <em>RADICAL COMPANIES: Without Bosses or Empoyees.</em>
+    <em>RADICAL COMPANIES: Without Bosses or Employees.</em>
     Pradera Media.
     2021.
     &lt;<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>&gt;
