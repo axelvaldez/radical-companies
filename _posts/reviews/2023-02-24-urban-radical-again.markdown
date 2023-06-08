@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Urban  Radical , Again"
+title:    "Urban  Radical, Again"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-urban-radical-silence.svg"
