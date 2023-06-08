@@ -36,7 +36,7 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
    <li>Everyone who wanted to be a patient, would also be an employee and co-owner.</li>
    <li>Physicians and other medical staff would also be co-owners, too.</li>
    <li>Everyone would have the ability to give <span class="_paradigm">RAD</span>s to other co-owners, based on their contributions.</li>
-   <li>Evertibe would have the ability to pledge their <span class="_paradigm">RAD</span>s to <span class="_paradigm">BANNER</span>s. Pledging mean that whatever the <span class="_paradigm">RAD</span>s yield (money) goes to the <span class="_paradigm">BANNER</span>.</li>
+   <li>Everybody would have the ability to pledge their <span class="_paradigm">RAD</span>s to <span class="_paradigm">BANNER</span>s. Pledging mean that whatever the <span class="_paradigm">RAD</span>s yield (money) goes to the <span class="_paradigm">BANNER</span>.</li>
   </ul>
  <p>The above steps is what happens in a <span class="_paradigm">Radical</span> company. Ownership is decentralized among co-owners based on their <em>contributions</em>, whereas traditional businesses based their ownership on the <em>capital</em> that each owner brings to the table.</p>
  <p>BTW, each co-owner&rsquo;s contributions is recognized by other co-owners, not a boss or any such.</p>
