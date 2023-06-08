@@ -7,11 +7,11 @@ image:    "icon-capital-versus-contributions.svg"
 ---
 
 <div style="display:none;">
- <p>In  businesses, power comes from capital. By contrast, in <span class='_paradigm'>Radical</span> companies come from contributions. It is not a simple issue and in this post we look at it from four diffent views.</p>
+ <p>In  businesses, power comes from capital. By contrast, in <span class='_paradigm'>Radical</span> companies come from contributions. It is not a simple issue and in this post we look at it from four different views.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>In  businesses, power comes from capital. By contrast, in <span class='_paradigm'>Radical</span> companies come from contributions. It is not a simple issue and in this post we look at it from four diffent views.</p>
+ <p>In  businesses, power comes from capital. By contrast, in <span class='_paradigm'>Radical</span> companies come from contributions. It is not a simple issue and in this post we look at it from four different views.</p>
  <p>In  businesses, power includes financial, operations, and people. By contrast, in <span class='_paradigm'>Radical</span> companies Operations is lead by co-owners and nobody has coercive power over anybody else. Co-owners do get more or less Dividends based on what other co-owners recognize as their contributions.</p>
 
 <h1 class="_section"></h1>
