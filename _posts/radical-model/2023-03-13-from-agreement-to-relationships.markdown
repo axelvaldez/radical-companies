@@ -29,7 +29,7 @@ image:    "icon-from-agreements-to-relationships.svg"
  <p>Note that when doing this with a group, &ldquo;me&rdquo; stands for each person in the group and &ldquo;my commitment&rdquo; becomes a list of each co-owner&rsquo;s commitments to each other.</p>
 
 <h1>You & Me</h1>
- <p>We want to make explicit a) how you experience the world and b) what you have to offer it in return. We want to know how you show up in relathionships.</p>
+ <p>We want to make explicit a) how you experience the world and b) what you have to offer it in return. We want to know how you show up in relationships.</p>
  <p>These are in general the questions that you need to think</p>
  <ul>
   <li>Who are you?</li>
@@ -46,7 +46,7 @@ image:    "icon-from-agreements-to-relationships.svg"
   <li>Do you speak up?</li>
   <li>Do you need to be given permission to speak? <span class="_quotespan">You didn&rsquo;t ask me!</span></li>
   <li>Do you talk without pausing?</li>
-  <li>How do we knew if we can interrrupt and jump in?</li>
+  <li>How do we knew if we can interrupt and jump in?</li>
  </ul>
  <p>Then the other co-owner talks about how she perceives the world and how she shows up in the world. If there is more than one person involved, they probably have gone through this before and their responses to these questions have been written down.</p>
  <p>Your opening up and talking about, for example, your deepest fears won&rsquo;t happen in one sitting. It will take time for you to figure things out and for you to feel safe enough to open up more and more. This is one of the many skills that we need to learn as part of our moving away from <span class="_paradigm">Fiat</span>.</p>
