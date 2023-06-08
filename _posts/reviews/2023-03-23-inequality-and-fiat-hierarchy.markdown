@@ -70,7 +70,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
   <p>The <span class="_paradigm">Radical</span> system is an alternative,</p>
    <ul>
     <li>Meaning and belonging (people) are at the root of it.</li>
-    <li>All forms of organizations are decentralied and transparent.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></li>
+    <li>All forms of organizations are Decentralzied and transparent.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></li>
    </ul>
 
 <h1 class="_section">ENDNOTES</h1>
