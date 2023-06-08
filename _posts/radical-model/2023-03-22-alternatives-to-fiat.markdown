@@ -21,7 +21,7 @@ image:    "icon-alternatives-to-fiat.svg"
   <div class="_citation">
    <p>Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</p>
   </div>
- <p>The <span class="_paradigm">Fiat</span> system is based on competition and domination and capital happens to be a very efficient form tool of getting power over everything (<em>i.e.</em>, domination). Our non-<span class="_paradigm">Fiat</span> alternative is based on contribuions, instead of capital. This, we believe, will produced more of a life nourising system.</p>
+ <p>The <span class="_paradigm">Fiat</span> system is based on competition and domination and capital happens to be a very efficient form tool of getting power over everything (<em>i.e.</em>, domination). Our non-<span class="_paradigm">Fiat</span> alternative is based on contribuions, instead of capital. This, we believe, will produced more of a life nourishing system.</p>
 
 <h1>The Forever Obstacle</h1>
  <p>The obstacle has been who decides <em>what is a contribution</em>? We are so used to the <span class="_paradigm">Fiat</span> hierarchical model that we immediately think of rules or benevolent judges. But judges don&rsquo;t stay benevolent forever and rules become sacred and unchangeable and always sprout a clerical bureaucracy around them.</p>
@@ -41,7 +41,7 @@ image:    "icon-alternatives-to-fiat.svg"
    <li>You have to interpret the rules to make sure you are within their bounds.</li>
    <li>Some people are very good at it and get away with it. They are like Rules Lawyers.</li>
   </ul>
- <p>Rules add legalisti rigidity and absolutly no value.</p>
+ <p>Rules add legalistic rigidity and absolutly no value.</p>
 
 <h1>Q&A</h1>
  <p>Before we get into the Q&A, we have to explain a bit more about recognizing contributions,</p>
