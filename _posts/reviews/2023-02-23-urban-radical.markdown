@@ -26,7 +26,7 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">That&rsquo;s very interesting. But, does it work? How?</div>
  <div class="_quotespan">There is an app for that&hellip;</div>
  <div class="_quotespan">That is so 2019&hellip;</div>
- <div class="_quotespan">But <span style="font-style:normal; ">there is</span>. The app lets every co&ndash;owner recognize the contributioins of other co&ndash;owners.</div>
+ <div class="_quotespan">But <span style="font-style:normal; ">there is</span>. The app lets every co&ndash;owner recognize the contributions of other co&ndash;owners.</div>
  <div class="_quotespan">So, you don&rsquo;t need a manager for that!</div>
  <div class="_quotespan">We call them bosses. Anybody who has power over anybody else as a matter of their <span style="font-style:normal; ">given</span> title, we call them bosses.</div>
  <div class="_quotespan">OK. OK. So, I recognize your contributions&hellip;</div>
