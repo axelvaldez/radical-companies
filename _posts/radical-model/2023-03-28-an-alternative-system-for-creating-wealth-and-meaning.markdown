@@ -47,7 +47,7 @@ image:    "icon-an-alternative-system-for-creating-wealth-and-meaning.svg"
     <td>
      <ul>
       <li>Owners have rights to all the wealth the business creates.</li>
-      <li>Everybody else gets paid a wage, not realated to profits.</li>
+      <li>Everybody else gets paid a wage, not related to profits.</li>
      </ul>
     </td>
    </tr>
