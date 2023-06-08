@@ -18,7 +18,7 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
  <p>Besides the dollar savings this results in trials that are more diverse, inclusive, and include people of color (PoC). The result is that today most of the drugs available are not been tested for PoC side-effects.</p>
 
 <h1>Literacy</h1>
- <p>Bindu also said that we need health literacy. We need to learn to weight different therapies and have a conversation with phycisians. We need to ask good, informed questions of physicians, and not just take what we read on Dr Google literally. She is from Kerala where health literacy is a staple (the state handle the pandemic better, and had less number of deaths per capita, than every other Indian state).</p>
+ <p>Bindu also said that we need health literacy. We need to learn to weight different therapies and have a conversation with physicians. We need to ask good, informed questions of physicians, and not just take what we read on Dr Google literally. She is from Kerala where health literacy is a staple (the state handle the pandemic better, and had less number of deaths per capita, than every other Indian state).</p>
  <p>That lead Jose to mentioned that we also need &ldquo;death literacy&rdquo;. We have to bring death out of the closet. You are born, you live, and then you die. We need to normalize death and learn to talk about it without fear.</p>>
 
 <h1>Sickcare</h1>
@@ -92,7 +92,7 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
  <p><span class="_paradigm">RAD</span>s affect the membership fee,</p>
   <ul>
    <li>The medical staff/co-owners would get the most <span class="_paradigm">RAD</span>s which means that they will end up not paying a membership fee.</li>
-   <li>Patient/co-owners would earn <span class="_paradigm">RAD</span>s from participatin in literacy power ups and other activities (see <a href="rads-for-other-activities">above</a>).</li>
+   <li>Patient/co-owners would earn <span class="_paradigm">RAD</span>s from participating in literacy power ups and other activities (see <a href="rads-for-other-activities">above</a>).</li>
    <li>The most active patient/co-owner contributors will get a lot of <span class="_paradigm">RAD</span>s and their fees will go down accordingly.</li>
    <li>This may mean that inactive patient/co-owners will probably pay more for their membership.</li>
   </ul>
