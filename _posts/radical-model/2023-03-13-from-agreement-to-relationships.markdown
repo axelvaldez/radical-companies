@@ -18,7 +18,7 @@ image:    "icon-from-agreements-to-relationships.svg"
  <p>What is often lacking in the world is your <em>explicit</em> expression of yourself. A limited amount of it may come out during arguments, <span class="_quotespan">&hellip; that&rsquo;s the way I am.</span> But, in general, most of it never gets expressed out in the open.</p>
  <p>Of course, whatever you say about yourself is a snapshot of the way you feel at this moment in time. It is not the &ldquo;true you&rdquo; for long and will change tomorrow or the day after. But it is a place to start.</p>
 
-<h1>Explict Relationships</h1>
+<h1>Explicit Relationships</h1>
  <p>It&rsquo;s pretty simple,</p>
   <ol>
    <li>You</li>
