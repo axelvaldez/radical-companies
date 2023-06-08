@@ -7,7 +7,7 @@ image:    "icon-the-difference-between-centralized-ownership-and-co-ownership.sv
 ---
 
 <div style="display:none;">
- <p>Centralized ownership will kill us. Decentralized ownership is beautifull. It is about centralized versus decentralized, not ownership.</p>
+ <p>Centralized ownership will kill us. Decentralized ownership is beautiful. It is about centralized versus decentralized, not ownership.</p>
 </div>
 
 <h1>&nbsp;</h1>

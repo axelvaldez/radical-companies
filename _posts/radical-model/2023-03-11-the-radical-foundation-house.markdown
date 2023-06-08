@@ -72,7 +72,7 @@ image:    "icon-the-radical-foundation-house.svg"
   </ul>
  <p>Everything else is a Practice,</p>
   <ul>
-   <li>Pratices change from company to company.</li>
+   <li>Practices change from company to company.</li>
    <li>They change over time.</li>
    <li>They are not integral to the RADICAL model.</li>
   </ul>
