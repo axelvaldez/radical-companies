@@ -26,7 +26,7 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
  <p>And it is not just Bindu: the issue of healthcare versus sickcare seems to be gaining momentum. <span class="_quotespan">Systems biology tries to see how everything works together &hellip; medicine [must be]: predictive, preventive, personalized, and participatory.</span><a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Re-Start</h1>
- <p>As we were talking about all this, Bindu mentioned that we need is <span class="_quotespan">a patient-centric halthcare system, not the money-making sickcare system we have today.</span> She warned that <span class="_quotespan">it will take a long time to do so.</span></p>
+ <p>As we were talking about all this, Bindu mentioned that we need is <span class="_quotespan">a patient-centric healthcare system, not the money-making sickcare system we have today.</span> She warned that <span class="_quotespan">it will take a long time to do so.</span></p>
  <p>As we continued talking, it became apparent to us that co-ownership could be part of making this happen. But rather than thinking about &ldquo;policies&rdquo; and such, it would be more effective to take a <span class="_paradigm">Radical</span> approach. That has the potential to make it faster.</p>
 
 <h1>Speculation, Mostly</h1>
