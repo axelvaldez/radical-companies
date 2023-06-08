@@ -95,7 +95,7 @@ image:    "icon-the-radical-atomic-composition.svg"
     </td>
    </tr>
    <tr>
-    <th>Vulnerabilty</th>
+    <th>Vulnerability</th>
     <td>
      <ul>
       <li>What are you biggest fears?</li>

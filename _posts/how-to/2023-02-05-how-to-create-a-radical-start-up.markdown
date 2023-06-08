@@ -158,7 +158,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     </td>
    </tr>
    <tr>
-    <th>Your Vulnerabilty</th>
+    <th>Your Vulnerability</th>
     <td>
      <ul>
       <li>What are you biggest fears?</li>
