@@ -51,7 +51,7 @@ image:    "icon-urban-radical-silence.svg"
  <div class="_speakerb">And <span class="_paradigm">Fiat</span> businesses are silence-training camps. And <span class="_paradigm">Fiat</span> schools and homes, that learned from <span class="_paradigm">Fiat</span> businesses. We pride ourselves on being good citizens of democracies by supporting <span class="_speakerb">dictatorships</span> known as <span class="_paradigm">Fiat</span> businesses.</div>
  <div class="_speakera">And they have been so successful&hellip;</div>
  <div class="_speakerb">&hellip; financially successful!&hellip;</div>
- <div class="_speakera">Yes, but more that that. They have also been successful in paying off a portion of society who then becomes an essential part of their <span class="_paradigm">Fiat</span> immunne system. The middle class is essential to the immune system of the the dictatorship golem. Shit.</div>
+ <div class="_speakera">Yes, but more that that. They have also been successful in paying off a portion of society who then becomes an essential part of their <span class="_paradigm">Fiat</span> Immune system. The middle class is essential to the immune system of the the dictatorship golem. Shit.</div>
  <div class="_speakerb">Shit, indeed. I could not have put that better.</div>
  <div class="_speakera">Except, you just did.</div>
 
