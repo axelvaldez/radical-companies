@@ -58,7 +58,7 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
    <li>Once the question is layed out clearly enough, the group turns to the Web to reseacrh the question.</li>
    <li>Then they discuss what people found in their research.</li>
    <li>They learn from each other to understand and evaluate what they have found.</li>
-   <li>If they want to hear from <em>an expert</em>, they cank do so.</li>
+   <li>If they want to hear from <em>an expert</em>, they can do so.</li>
   </ul>
  <p>Tey key in all these is that people at more at ease and learn more from peers with <em>adjacent skills</em>, more experienced peers than from an authority figure (<em>e.g.</em>, the medical staff). The more experienced peer will use language and example that are more meaningful to the learners&rsquo; level.</p>
  <p>Bringing up the group&rsquo;s level of literacy would be what patient/co-owners create by working together. They can then give <span class="_paradigm">RAD</span>s to each other.</p>
