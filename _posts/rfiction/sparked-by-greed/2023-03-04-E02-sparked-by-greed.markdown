@@ -26,7 +26,7 @@ image:    "icon-sparked-by-greed.svg"
 
 <h1>And They Surprised</h1>
  <div>The most surprising thing was when, Siri wanted to talk. I assume that it was to gloat about something that she had found or to deliver and not-so-veiled threat. But, no, Siri wanted to join us. And I literally fell off my chair.</div>
- <div class="_speakera">Siri, to be honest, I am suprised, but, please, come by.</div>
+ <div class="_speakera">Siri, to be honest, I am surprised, but, please, come by.</div>
  <div class="_speakerb">Well, it is not that easy for me. I don't want to be seen showing up at your place.</div>
  <div class="_speakera">There is no need. We can do it online.</div>
  <div class="_speakerb">It would have to be early. I don&rsquo;t want to take the day off.</div>

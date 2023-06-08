@@ -36,7 +36,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <p>Transparency: Secrecy is your enemy. Talk about your idea to as many people as you can <em>anywhere in the wold</em>. This will help you mold your idea. If felt great when you first thought of it, but it now has to be shaped, so lean on your social circle to help you do it. Transparency is your friend.</p>
   </li>
   <li>
-   <p>Decentralization: With all the talk about <em>teal</em> and the like, people will likely welcome decentralizing decision making, co-management; they may even be enthusiastic about it. On the other hand, when you talk about co-ownership you may get a neutral stare or curiosity, but be ready for disgust or ever-so-polite ridicule. They are not attacking you as much as they are trying to push away the thought you just put in their head. This is suddently seeing the invisible mounstrous ghost, so don&rsquo;t be suprised when people run away.</p>
+   <p>Decentralization: With all the talk about <em>teal</em> and the like, people will likely welcome decentralizing decision making, co-management; they may even be enthusiastic about it. On the other hand, when you talk about co-ownership you may get a neutral stare or curiosity, but be ready for disgust or ever-so-polite ridicule. They are not attacking you as much as they are trying to push away the thought you just put in their head. This is suddently seeing the invisible mounstrous ghost, so don&rsquo;t be surprised when people run away.</p>
   </li>
   <li>
    <p>Meaning & Belonging: if you identify people who are really interested in this, don&rsquo;t let them go. And if they have skills that will help create your idea, hold on to them. If on top of that you want them in your team, you are very lucky!</p>
