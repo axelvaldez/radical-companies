@@ -84,7 +84,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">Actually, I am the one who is sorry. I need to be more Socratic and not give in to what Th&uacute;y calls &lsquo;the boss&rsquo; in me. You have helped me.</div>
 
 <h1>A Spy</h1>
- <div>Zuri wrote an email coming out as a spy and sent it to everybody. It ended with, <span class="_quotespan">Are there other spies reading this?</span> That created enoiugh convufion that she then send a follow up email, <span class="_quotespanc">I didn&rsquo;t mean to imply that there are more spies lurking among us. I just wanted to encourage others, if there was any, to come out. It seems I was the only one.</span></div>
+ <div>Zuri wrote an email coming out as a spy and sent it to everybody. It ended with, <span class="_quotespan">Are there other spies reading this?</span> That created enough confusion that she then send a follow up email, <span class="_quotespanc">I didn&rsquo;t mean to imply that there are more spies lurking among us. I just wanted to encourage others, if there was any, to come out. It seems I was the only one.</span></div>
  <div class="_commentary">The emails were remarkable in one way, and non-remarkable in many other ways.</div>
  <div class="_speakerb">Why would you need to be a spy when everything is out in the open?</div>
  <div class="_speakerc">People suspected that this was more of a cult and it wasn&rsquo;t as sunny as all that. As it turned out, there was nothing to report other than what they new and what they could see. In the meantime, this company was well fit, excuse me, aligned with everything me.</div>
