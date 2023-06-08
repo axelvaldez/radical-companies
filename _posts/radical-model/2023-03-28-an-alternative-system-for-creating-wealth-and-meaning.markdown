@@ -30,7 +30,7 @@ image:    "icon-an-alternative-system-for-creating-wealth-and-meaning.svg"
       <li>Will this decision make the work we do more or less decentralized?</li>
       <li>Will it make it more or less transparent?</li>
       <li>Will it get in the way of people finding meaning?</li>
-      <li>Will it go against a co-owner&rsquo;s sense of beloging?</li>
+      <li>Will it go against a co-owner&rsquo;s sense of belonging?</li>
       <li>Will it make it harder to experiment?</li>
      </ul>
     </td>
