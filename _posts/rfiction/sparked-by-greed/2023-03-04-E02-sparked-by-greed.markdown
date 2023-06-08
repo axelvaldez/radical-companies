@@ -18,7 +18,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">You are married, right?&hellip;</div>
  <div class="_speakerb">Yes, I am, but it is not only that, she'll be deciding on salaries and bonus and stuff and she would have an ax to gring when it comes to you.</div>
  <div class="_speakera">Bruno, you are very smart. Think. Salaries and anything to do with money is based on <span class="_paradigm">RAD</span>s, right? And who gives me <span class="_paradigm">RAD</span>s? She doesn&rsquo;t, you guys do. If I get more than anybody else one month it must be because I did something really good&hellip; that a lot of people saw as a contribution. Right?</div>
- <div class="_speakerac">Besides, it is all out in the open and if there&rsquo;s some hanky panky, you will bring it up, right?</div>
+ <div class="_speakerac">Besides, it is all out in the open and if there&rsquo;s some hanky-panky, you will bring it up, right?</div>
  <div class="_speakerb">Yes. I get it in my head, but it is hard to shake the concerns&hellip;</div>
  <div class="_speakera">Then don&rsquo;t. Just be open to their being fears that don&rsquo;t play here.</div>
  <div class="_speakerb">And bonuses, too. I get it.</div>
@@ -71,7 +71,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">Well, maybe, but not really. Not compared to yours.</div>
  <div class="_speakera">Then I think you should go to the sea or the mountain or whereever it is that makes <span class="_quotespan">secret sauce</span> space for you.</div>
  <div class="_speakerb">You don&rsquo;t have to take it so seriously&hellip;</div>
- <div class="_speakera">Why, you weren&rsquo;t serious when you categorized yourself as a second-class co-onwer? Or maybe it was when you surrendered responsibility for what to do next? Which of those were not serious?</div>
+ <div class="_speakera">Why, you weren&rsquo;t serious when you categorized yourself as a second-class co-owner? Or maybe it was when you surrendered responsibility for what to do next? Which of those were not serious?</div>
  <div class="_speakerb">I didn&rsquo;t say any of that.</div>
  <div class="_speakera">But you implied it. When you said that I was the main inventor, you put yourself down as a lesser inventor. Then you said that you weren&rsquo;t as good when compared to me, you were were offering for me to tell you what to do to avoid responsibility.</div>
  <div class="_speakerac">You, and Mike, and Steve. You are co-owners of what we are doing. The whole thing. If your secrect sauce could be made better, other co-owners will offer their own ideas. Imagine that: people being inspired by your secret saud and adding to it. Whoa! In the end, it is up to you folks to take their advice or not.</div>
