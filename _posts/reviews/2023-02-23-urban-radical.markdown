@@ -42,7 +42,7 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">My mom had an album which she got from her dad. She said they gave them out at stores and you traded them for trinkets and stuff.</div>
  <div class="_quotespan">Yes, they did. Now, getting back to RADs, you get one per day&hellip;</div>
  <div class="_quotespan">&hellip; why?</div>
- <div class="_quotespan">Because your existance contributes to the creation and growth of things, wether you are <span style="font-style:normal; ">[air quotes]</span> &lsquo;working&rsquo; or not.</div>
+ <div class="_quotespan">Because your existence contributes to the creation and growth of things, wether you are <span style="font-style:normal; ">[air quotes]</span> &lsquo;working&rsquo; or not.</div>
  <div class="_quotespan">OK, go on.</div>
  <div class="_quotespan">You get one RAD per day and at the end of, say, the monthly cycle, the app figures what percentage of your recognized contributions each co&ndash;owner got and gives each person that percentage of RADs. Later the RADs determine how much of the revenue you get, for example.</div>
  <div class="_quotespan">So you don&rsquo;t get to keep the <span class="_paradigm">RAD</span>s! You give them to the other co&ndash;owners, right?</div>
