@@ -140,7 +140,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <div class="_center">
   <table class="_h2table">
    <tr>
-    <th>Yout Esperience</th>
+    <th>Your Esperience</th>
     <td>
      <ul>
       <li>How do you show up? Who are you?</li>
