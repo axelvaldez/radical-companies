@@ -7,7 +7,7 @@ image:    "icon-ensembles-collabortives-networks.svg"
 ---
 
 <div style="display:none;">
- <p>Jose and I have been going back and forth between networks, collaboraties, and ensembles. This is the case for ensemble.</p>
+ <p>Jose and I have been going back and forth between networks, collaboratives, and ensembles. This is the case for ensemble.</p>
 </div>
 
 <h1>&nbsp;</h1>
