@@ -31,7 +31,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p class="_speakerc">We were going to tell them anyway. In fact&hellip;</p>
  <p>She glanced at her husband and he subtly signaled agreement with his eyes.</p>
  <p class="_speakera">We prefer to tell them ourselves.</p>
- <p class="_speakerb">That would be best. I felt akward coming here anyways. Now let me explain what I see as my involvement&mdash;I paused for a bit and thought about what I wanted to say and how I wanted to say it&mdash;<span class="_speakerbc">I intend to help them out with the finances, the money part, but I don&rsquo;t want to expect any powerr over the company in any way. Except, maybe, they should reserve three chocolateeclairs from me.</p>
+ <p class="_speakerb">That would be best. I felt awkward coming here anyway. Now let me explain what I see as my involvement&mdash;I paused for a bit and thought about what I wanted to say and how I wanted to say it&mdash;<span class="_speakerbc">I intend to help them out with the finances, the money part, but I don&rsquo;t want to expect any powerr over the company in any way. Except, maybe, they should reserve three chocolateeclairs from me.</p>
  <p>Finally, we all got to smile and relax a bit.</p>
  <p class="_speakera">What do you mean you don&rsquo;t want any power for your money?</p>
  <p class="_speakerb">Hmm. This may sound weird to you, but I am more interested that they and the community succeed. I&rsquo;ll give them what I call a <span class="_paradigm">Radical investment</span>. This means that they have to pay back the amount of money I give them plus a small interest. I&rsquo;ve made a couple of these investments before and the &ldquo;something more&rdquo; is that we take my interest, usually 10%, and the co-owners match it we end up with 20% of the investment in a pool and then distribute it to everybody based on their&hellip; contributions.</p>
@@ -108,7 +108,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p>She said it quietly.</p>
  <p class="_speakerb">If you talk to the person and the offending behavior doesn&rsquo;t change, you and your peers will likely stop giving this person <span class="_paradigm">RAD</span>s and eventually they will leave.</p>
  <p class="_speakera">Go away. We don&rsquo;t love you anymore</p>
- <p>The way he said it, it was a statement, an annoucement to the world.</p>
+ <p>The way he said it, it was a statement, an announcement to the world.</p>
  <p>I nearly fell off my chair when I heard that because love is at the root of having people learn new things. They figured all that out in a blink of an eye.</p>
 
 <h1>Can We Invest Like You?</h1>

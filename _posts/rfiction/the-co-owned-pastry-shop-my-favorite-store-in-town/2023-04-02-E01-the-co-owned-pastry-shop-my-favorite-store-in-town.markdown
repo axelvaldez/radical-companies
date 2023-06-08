@@ -14,7 +14,7 @@ image:    "icon-E01-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p>The town I lived in has the first <span class="_paradigm">Radical</span> company. A delicious pastry shop, and my favorite store, of all places. In fact, it is truly the first <span class="_paradigm">Radical</span> company I know of.</p>
 
 <h1>All Smiles</h1>
- <p>I met Pris on her first day at the shop. She was all smiles and we got to talk about her day and her boyfriend and her life. She mentioned that she did&rsquo;t know any other Priss. As it happened, we want down the street, walked into a new plat shop, and, what do you know we met another youg woman named Pris (and, yes, my wife and I always exchnage names with the new people we meet). But I digress.</p>
+ <p>I met Pris on her first day at the shop. She was all smiles and we got to talk about her day and her boyfriend and her life. She mentioned that she did&rsquo;t know any other Priss. As it happened, we want down the street, walked into a new plat shop, and, what do you know we met another young woman named Pris (and, yes, my wife and I always exchnage names with the new people we meet). But I digress.</p>
  <p>A couple of days later I went back into the shop and Pris was there again, and all smiles.</p>
 
 <h1>Y pasó el tiempo, y pasó&hellip;</h1>
