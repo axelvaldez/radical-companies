@@ -18,9 +18,9 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p> communities with bosses ranging from paternalistic to brutal. But just as many were co-managed by the community without permanent <span class="_quotespan">leaders</span>. <<span class="_quotespan">I grew up in one of those communities,</span> said Yalitza, <span class="_quotespan">&hellip;, but later I joined a nomadic one. And, oh, the wonders I got to see.</span></p>
  <p>One the kids in Yalitza&rsquo;s audience elbowed her sister. They looked at each other briefly and then he said, <span call="_quotespan">Is this accurate? Or are you just making it all up?</span></p>
  <p>An older one, Bal, responded, <span class="_quotespan">You have to figure it out. That&rsquo;s the point.</span></p>
- <p><span class="_quotespan">The facts are accurate. But, yes, you have to figure out if this story about them is true to the facts, or exagerated, or otherwise twisted or corrupted.<span> xxx </p>
+ <p><span class="_quotespan">The facts are accurate. But, yes, you have to figure out if this story about them is true to the facts, or exaggerated, or otherwise twisted or corrupted.<span> xxx </p>
  <p><span class="_quotespan">You have to think. You have to figure it out.</span> Bal repeated.</p>
- <p>Yalitza smiled at the reaction to Bal&rsquo;s refrain. She made an exagerated yawn and then she said, <span class="_quotespan">And now I am going to sleep.</span></p>
+ <p>Yalitza smiled at the reaction to Bal&rsquo;s refrain. She made an exaggerated yawn and then she said, <span class="_quotespan">And now I am going to sleep.</span></p>
  <p>Several people in the audience yelled, <span class="_quotespan">We know how it ends!</span></p>
  <p><span class="_quotespan">Good, you can continue it then</span>, Yalitza said without looking back. <span class="_quotespan">Next time I&rsquo;ll tell a story with all the details I left out today. Good night.</span></p>
 
