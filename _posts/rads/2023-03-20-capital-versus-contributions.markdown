@@ -45,7 +45,7 @@ image:    "icon-capital-versus-contributions.svg"
 <h1>Operational Power</h1>
  <p>Operations are determined by people. For example, somebody proposes a particular project and either he is the lead, or he proposes somebody else as lead.</p>
  <p>The Explicit Alignment guides the overall direction of these operational project. It a proposed project does not more the needle in the direction of the Explicit Alignment, then in the worst case, nobody joins it and the project goes by the wayside. Most likely, after some discussion, the project is modified so as to lean in the direction of the Explicit Alignment and people do join.</p>
- <p>By the way, there is nothing magical about the Explicit Alignment, except that every co-owner has agreed to it and it provides a startig point of discussion.</p>
+ <p>By the way, there is nothing magical about the Explicit Alignment, except that every co-owner has agreed to it and it provides a starting point of discussion.</p>
 
 <h1>Power over People</h1>
  <p>There is no power over people. People are guided by what is meaningful to them and the Explicit Alignment.</p>
@@ -56,7 +56,7 @@ image:    "icon-capital-versus-contributions.svg"
    <li>You contribute to the work you and the other co-owners are doing together.</li>
    <li>Other co-owners see some of your work as a contribution.</li>
    <li>They give you <span class='_paradigm'>RAD</span>s in recognition.</li>
-   <li>Your pencentage of <span class='_paradigm'>RAD</span>s determines your percentage of ownership, this month (<em>i.e.</em>, it is dynamic).</li>
+   <li>Your percentage of <span class='_paradigm'>RAD</span>s determines your percentage of ownership, this month (<em>i.e.</em>, it is dynamic).</li>
   </ul>
 
 {% include related.html %}
