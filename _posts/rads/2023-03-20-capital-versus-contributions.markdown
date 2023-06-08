@@ -18,7 +18,7 @@ image:    "icon-capital-versus-contributions.svg"
 
 <h1>Financial Power</h1>
  <p>Shares in a  business for 30% ownership. let&rsquo;s assume that the 30% ownership gets you a seat on the Board.</li>
- <p>Your financial power, to dividends, is determined by owning 30% of the shares. Since business shares are stactic, this means that the 30% is yours <em>forever</em>.</p>
+ <p>Your financial power, to dividends, is determined by owning 30% of the shares. Since business shares are static, this means that the 30% is yours <em>forever</em>.</p>
 
 <h1>Operational Power</h1>
  <p>In theory, the owners, via the Board of Directors, don&rsquo;t have any operational power. On the other hand, the Board can fire the CEO and hire a new one. This results in the fact, that the CEO has to follow the Board&rsquo;s operational wishes. If they say, <span class="_quotespan">You should use AI</span>, then the CEO had better include AI or have some story about AI&mdash;a good enough story for the Board and the Annual Report.</p>

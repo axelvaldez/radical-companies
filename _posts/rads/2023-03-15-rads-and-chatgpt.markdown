@@ -90,7 +90,7 @@ image:    "icon-rads-and-chatgpt.svg"
     <th>Expiration Date</th>
     <td>
      <p>This had us going until we realized that 1) &ldquo;expiration date&rdquo; is a <span class="_paradigm">RAD</span> concept that involves negotiating, convincing, etc., and 2) instead we have a built-in <em>change rate</em> for <span class="_paradigm">RAD</span>s.</p>
-     <p><span class="_paradigm">RAD</span>s are created evey day, so the <em>percentage</em> of <span class="_paradigm">RAD</span>s that you own changes ever day. A new co-owner make may outstanding contributions and in a short time end up with a large percentage of <span class="_paradigm">RAD</span>s.</p>
+     <p><span class="_paradigm">RAD</span>s are created every day, so the <em>percentage</em> of <span class="_paradigm">RAD</span>s that you own changes ever day. A new co-owner make may outstanding contributions and in a short time end up with a large percentage of <span class="_paradigm">RAD</span>s.</p>
     </td>
    </tr>
    <tr>
