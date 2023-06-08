@@ -22,7 +22,7 @@ image:    "icon-E01-the-co-owned-pastry-shop-my-favority-store-in-town.svg"
  <p>I didn&rsquo;t know then, the timing could not have been better.</p>
 
 <h1>Marchons, Oui Marchons</h1>
- <p>The owners had already been talking about going to live back in France, at least for a good part of the year. They like the town they ended up in, but they liked their town, Ginoles les bains, back in France best. Not many prospects there, but now they had made enough money to not have to worry about that. There was even a semi-abandoned bathhouse-hotel property which they could restore and rent it for income.</p>
+ <p>The owners had already been talking about going to live back in France, at least for a good part of the year. They like the town they ended up in, but they liked their town, Ginoles les Bains, back in France best. Not many prospects there, but now they had made enough money to not have to worry about that. There was even a semi-abandoned bathhouse-hotel property which they could restore and rent it for income.</p>
  <p>The anchor was their pastry shop in our town. They had built it from the ground up. They had made financially succesful. They could not just <em>sell it</em>. Fiding a manager was nearly impossible and the few they had talked to would not cut it. Selling to their employees was unfeasible, too, because they were mostly young people working part-time orsummers. Theere were a couple of employees that could be it, but they didn&rsquo;t have enough capital and would likely not be able to borrow it from any bank.</p>
  <p>Things were at impasse, but they were not desperate or in a hurry.</p>
 
