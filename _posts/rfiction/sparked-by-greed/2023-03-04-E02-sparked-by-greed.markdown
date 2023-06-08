@@ -16,7 +16,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">What about Th&uacute;y?</div>
  <div class="_speakerb">Well, she is your wife and will side with you more often than not.</div>
  <div class="_speakera">You are married, right?&hellip;</div>
- <div class="_speakerb">Yes, I am, but it is not only that, she'll be deciding on salaries and bonus and stuff and she would have an ax to gring when it comes to you.</div>
+ <div class="_speakerb">Yes, I am, but it is not only that, she'll be deciding on salaries and bonus and stuff and she would have an ax to grind when it comes to you.</div>
  <div class="_speakera">Bruno, you are very smart. Think. Salaries and anything to do with money is based on <span class="_paradigm">RAD</span>s, right? And who gives me <span class="_paradigm">RAD</span>s? She doesn&rsquo;t, you guys do. If I get more than anybody else one month it must be because I did something really good&hellip; that a lot of people saw as a contribution. Right?</div>
  <div class="_speakerac">Besides, it is all out in the open and if there&rsquo;s some hanky-panky, you will bring it up, right?</div>
  <div class="_speakerb">Yes. I get it in my head, but it is hard to shake the concerns&hellip;</div>
