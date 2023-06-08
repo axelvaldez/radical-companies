@@ -33,7 +33,7 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
  <p>Imagine what a <span class="_paradigm">Radical</span> healthcare system would look like,</p>
   <ul>
    <li>We form a <span class="_paradigm">Radical</span> healthcare company.</li>
-   <li>Everyone who wanted to be a patient, would also be an employee and co-ownwer.</li>
+   <li>Everyone who wanted to be a patient, would also be an employee and co-owner.</li>
    <li>Physicians and other medical staff would also be co-owners, too.</li>
    <li>Everyone would have the ability to give <span class="_paradigm">RAD</span>s to other co-owners, based on their contributions.</li>
    <li>Evertibe would have the ability to pledge their <span class="_paradigm">RAD</span>s to <span class="_paradigm">BANNER</span>s. Pledging mean that whatever the <span class="_paradigm">RAD</span>s yield (money) goes to the <span class="_paradigm">BANNER</span>.</li>
