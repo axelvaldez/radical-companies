@@ -27,13 +27,13 @@ image:    "icon-capital-versus-contributions.svg"
  <p>In theory, again, the owners don&rsquo;t have any power over people. The CEO and his FIAT hierarchy has that power and the Board has power over the CEO. The CEO can not blame people for all ills because eventually someone will ask, <span class="_quotespan">But&hellip; didn&rsquo;t you hire him?</span>. On the other hand, the CEO can &ldquo;report&rdquo; that he fired an entire team for being irresponsible. At best, Directors will ask, <span class="_quotespan">How do you make sure that won&rsquo;t happen again?</span>, but that&rsquo;s it.</p>
 
 <h1>Centralized</h1>
- <p> ownership are centralized, based on capital. In plain language, that means that 1) seat on the Board are based on capital, and 2) the Board of Directors hold all power. Finacial power, Operational power, and power over people.</p>
+ <p> ownership are centralized, based on capital. In plain language, that means that 1) seat on the Board are based on capital, and 2) the Board of Directors hold all power. financial power, Operational power, and power over people.</p>
  <p><span class='_paradigm'>Radical</span> companies are very different.</p>
 
 <h1 class="_section"><span class='_paradigm'>Radical</span></h1>
 
 <h1>Financial Power</h1>
- <p>You are a co-owner of the compay and as such,</p>
+ <p>You are a co-owner of the company and as such,</p>
   <ul>
    <li>You contribute to the work you and the other co-owners are doing together.</li>
    <li>Other co-owners see some of your work as a contribution.</li>
