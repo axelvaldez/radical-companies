@@ -39,7 +39,7 @@ image:    "icon-an-alternative-system-for-creating-wealth-and-meaning.svg"
  </div>
 
 <h1> Shortcomings</h1>
- <p>The <span class='_paradigm'>Fiat</span> system is what surrounds us. It is so all-encompansing that it has become invisible to us, like water to fish.</p>
+ <p>The <span class='_paradigm'>Fiat</span> system is what surrounds us. It is so all-encompassing that it has become invisible to us, like water to fish.</p>
  <div class="_center">
   <table class="_h2table">
    <tr>
