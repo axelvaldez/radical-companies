@@ -62,7 +62,7 @@ image:    "icon-urban-radical.svg"
  <div class="_quotespan">OK. OK.</div>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left;  "><a href="https://radicalcompanies.com/2023/02/22/whats-our-problem">Previous &lt;</a></span>
+ <span style="float:left;  "><a href="https://radicalcompanies.com/2023/02/22/what&rsquo;s-our-problem">Previous &lt;</a></span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2023/02/24/urban-radical-again">    &gt; Next</a></span>
 </div>
 
@@ -79,7 +79,7 @@ image:    "icon-urban-radical.svg"
     Matt Perez.
     <em>What&rsquo;s Our Problem: A Self-Help Book for Societies</em>.
     February 2023.
-    &lt;<a href="https://radicalcompanies.com/2023/02/22/whats-our-problem" target="_blank">https://radicalcompanies.com/2023/02/22.whats-our-problem</a>&gt;
+    &lt;<a href="https://radicalcompanies.com/2023/02/22/what&rsquo;s-our-problem" target="_blank">https://radicalcompanies.com/2023/02/22.what&rsquo;s-our-problem</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>

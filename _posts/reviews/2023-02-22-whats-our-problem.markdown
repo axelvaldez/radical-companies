@@ -3,7 +3,7 @@ layout:   post
 title:    "What&rsquo;s Our Problem: A Self-Help Book for Societies"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-whats-our-problem.svg"
+image:    "icon-what&rsquo;s-our-problem.svg"
 ---
 
 <div style="display:none;">

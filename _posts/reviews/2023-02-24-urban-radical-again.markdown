@@ -73,7 +73,7 @@ image:    "icon-urban-radical-silence.svg"
     Matt Perez.
     <em>What&rsquo;s Our Problem: A Self-Help Book for Societies</em>.
     February 2023.
-    &lt;<a href="https://radicalcompanies.com/2023/02/22/whats-our-problem" target="_blank">https://radicalcompanies.com/2023/02/22.whats-our-problem</a>&gt;
+    &lt;<a href="https://radicalcompanies.com/2023/02/22/what&rsquo;s-our-problem" target="_blank">https://radicalcompanies.com/2023/02/22.what&rsquo;s-our-problem</a>&gt;
    </p>
    <p class="_list-item">
     Matt Perez.
