@@ -26,7 +26,7 @@ image:    "icon-from-agreements-to-relationships.svg"
    <li>Your explicit commitments</li>
    <li>My support commitments</li>
   </ol>
- <p>Note that when doing this with a group, &ldquo;me&rdquo; stands for each person in the group and &ldquo;my committments&rdquo; becomes a list of each co-owner&rsquo;s commitments to each other.</p>
+ <p>Note that when doing this with a group, &ldquo;me&rdquo; stands for each person in the group and &ldquo;my commitment&rdquo; becomes a list of each co-owner&rsquo;s commitments to each other.</p>
 
 <h1>You & Me</h1>
  <p>We want to make explicit a) how you experience the world and b) what you have to offer it in return. We want to know how you show up in relathionships.</p>

@@ -23,7 +23,7 @@ image:    "icon-explicit-relationships.svg"
    <li>Your explicit commitments</li>
    <li>My support commitments</li>
   </ol>
- <p>Note that when doing this with a group, &ldquo;me&rdquo; stands for each person in the group and &ldquo;my committments&rdquo; becomes a list of each co-owner&rsquo;s commitments to each other. Also, the would-be co-owner has to option to do it as a discussion or do it as a written, silent process.</p>
+ <p>Note that when doing this with a group, &ldquo;me&rdquo; stands for each person in the group and &ldquo;my commitment&rdquo; becomes a list of each co-owner&rsquo;s commitments to each other. Also, the would-be co-owner has to option to do it as a discussion or do it as a written, silent process.</p>
  <p>We were surprised by how well this worked to bring out the concerns of the people involved. People felt safe enough to let out all kinds of things about themselves, they are notafraid of making themselves vulnerable. So far, we&rsquo;ve done it with early adopters, so we don&rsquo;t have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
 
 <h1>Foundation Agreements [DRAFT]</h1>

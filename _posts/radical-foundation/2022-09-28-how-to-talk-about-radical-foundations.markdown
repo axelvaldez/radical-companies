@@ -66,7 +66,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    </tr>
    <tr id="_background">
     <td></td>
-    <td>COMMITTMENTS</td>
+    <td>COMMITMENT</td>
    </tr>
    <tr>
     <th>Transparency</th>
