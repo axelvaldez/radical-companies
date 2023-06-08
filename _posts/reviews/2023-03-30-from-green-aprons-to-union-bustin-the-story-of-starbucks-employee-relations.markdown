@@ -34,7 +34,7 @@ image:    "icon-starbucks-once-a-good-employer-now-at-the-bottom-of-the-list.svg
   </div>
 
 <h1>Very Different Today</h1>
- <p>Since then Starbucks became one of the worst employeers around. This is what <a href="https://sfba.social/@shansterable@c.im" target="_blank">@shansterable@c.im</a> posted this in <span class="_bolder">Mastodon</span>&rsquo;s <a href="https://sfba.social/home" target="_blank">sfba.social</a> today,</p>
+ <p>Since then Starbucks became one of the worst employers around. This is what <a href="https://sfba.social/@shansterable@com" target="_blank">@shansterable@c.im</a> posted this in <span class="_bolder">Mastodon</span>&rsquo;s <a href="https://sfba.social/home" target="_blank">sfba.social</a> today,</p>
  <div class="_citation">
   <p>In a study of America’s 250 largest companies, funded in part by the Schultz Family Foundation:</p>
    <ul>
