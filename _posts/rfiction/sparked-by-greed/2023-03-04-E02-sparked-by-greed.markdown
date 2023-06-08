@@ -44,8 +44,8 @@ image:    "icon-sparked-by-greed.svg"
 
 <h1>Fear Has Us</h1>
  <div class="_quotespan">I am tired of being afraid, seeing how the FIAT model works has exposed the fears and has made all the difference.</div>
- <div class="_commentary">Well, that may be the beginning, but it is not the end of the hold that fear has on us. That became obvious over time as people expressed many of their fears, including toxic colleages&hellip;</div>
- <div class="_speakerb">How are we going to deal with bullies, underminders, and slackers. What about gossip mongers and the over-controlling colleages. Are they going to be co-owners, too?</div>
+ <div class="_commentary">Well, that may be the beginning, but it is not the end of the hold that fear has on us. That became obvious over time as people expressed many of their fears, including toxic colleagues&hellip;</div>
+ <div class="_speakerb">How are we going to deal with bullies, underminders, and slackers. What about gossip mongers and the over-controlling colleagues. Are they going to be co-owners, too?</div>
  <div class="_speakera">Well, if they contribute and somebody acknowledges their contribution, then they get <span class="_paradigm">RAD</span>s and they are co-owners.</div>
  <div class="_speakerac">As to the rest of it, how would you deal with these types of folks?</div>
  <div class="_speakerb">Should we have rules to prevent that?</div>
