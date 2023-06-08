@@ -17,19 +17,19 @@ image:    "icon-alternatives-to-fiat.svg"
   <p id="_signature">John Maynard Keynes (via Blair Fix)<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>I just saw the quote above in one of Blair Fix&rsquo;s papers entitled <span class="_quotespan">Redistributing Income Through Hierarchy,</span></p>
- <p>This shows how difficut it is to see past what is normally called capitalism and Keynes admitted to be <span class="_quotespan">extremely perplexed.</span>. Hint: the problem is <em>not</em> the accumulation of capital.</p>
+ <p>This shows how difficult it is to see past what is normally called capitalism and Keynes admitted to be <span class="_quotespan">extremely perplexed.</span>. Hint: the problem is <em>not</em> the accumulation of capital.</p>
   <div class="_citation">
    <p>Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</p>
   </div>
- <p>The <span class="_paradigm">Fiat</span> system is based on competition and domination and capital happens to be a very efficient form tool of getting power over everything (<em>i.e.</em>, domination). Our non-<span class="_paradigm">Fiat</span> alternative is based on contribuions, instead of capital. This, we believe, will produced more of a life nourishing system.</p>
+ <p>The <span class="_paradigm">Fiat</span> system is based on competition and domination and capital happens to be a very efficient form tool of getting power over everything (<em>i.e.</em>, domination). Our non-<span class="_paradigm">Fiat</span> alternative is based on contributions, instead of capital. This, we believe, will produced more of a life nourishing system.</p>
 
 <h1>The Forever Obstacle</h1>
  <p>The obstacle has been who decides <em>what is a contribution</em>? We are so used to the <span class="_paradigm">Fiat</span> hierarchical model that we immediately think of rules or benevolent judges. But judges don&rsquo;t stay benevolent forever and rules become sacred and unchangeable and always sprout a clerical bureaucracy around them.</p>
  <p>No wonder we are <span class="_quotespan">extremely perplexed.</span></p>
 
 <h1>Our non-<span class="_paradigm">Fiat</span> Alternative</h1>
- <p>Our non-<span class="_paradigm">Fiat</span> alternative makes sure that ownership is distributed to all co-owners <em>based on their contributions</em>, not the caapital they invested. And not based or the &ldquo;human capital&rdquo; or any other nonsense. It is certainly not an <em>equality</em> system, where everybody gets the same no matter what. For Sam, a co-owner, her contributions are determined by all the other co-owners who recognize it. The same for Joe, another co-owner. In fact, the same for all co-owners: other co-owners determine what the contributions of each co-owner is. That is decentralized co-ownership.</p>
- <p>The are no rules, every co-owner figures out what a contribution is by the feelings it brings up, from enthsiasm to apathy. If they think they've seen a contribution, then they recognize it. It could be somebody who reorganized the warehouse, or computer code check-in which other co-owners perceive as valuable. Or it could be somebody&rsquo;s smile that makes my day. Whatever a co-owner recognizes as a contribution, is a contribution.</p>
+ <p>Our non-<span class="_paradigm">Fiat</span> alternative makes sure that ownership is distributed to all co-owners <em>based on their contributions</em>, not the capital they invested. And not based or the &ldquo;human capital&rdquo; or any other nonsense. It is certainly not an <em>equality</em> system, where everybody gets the same no matter what. For Sam, a co-owner, her contributions are determined by all the other co-owners who recognize it. The same for Joe, another co-owner. In fact, the same for all co-owners: other co-owners determine what the contributions of each co-owner is. That is decentralized co-ownership.</p>
+ <p>The are no rules, every co-owner figures out what a contribution is by the feelings it brings up, from enthusiasm to apathy. If they think they've seen a contribution, then they recognize it. It could be somebody who reorganized the warehouse, or computer code check-in which other co-owners perceive as valuable. Or it could be somebody&rsquo;s smile that makes my day. Whatever a co-owner recognizes as a contribution, is a contribution.</p>
  <p>At this point, you should be thinking, <span class="_quotespan">wow, that is chaos!</span></p>
 
 <h1>Chaos!</h1>
@@ -41,7 +41,7 @@ image:    "icon-alternatives-to-fiat.svg"
    <li>You have to interpret the rules to make sure you are within their bounds.</li>
    <li>Some people are very good at it and get away with it. They are like Rules Lawyers.</li>
   </ul>
- <p>Rules add legalistic rigidity and absolutly no value.</p>
+ <p>Rules add legalistic rigidity and absolutely no value.</p>
 
 <h1>Q&A</h1>
  <p>Before we get into the Q&A, we have to explain a bit more about recognizing contributions,</p>
@@ -58,7 +58,7 @@ image:    "icon-alternatives-to-fiat.svg"
   <div class='_qnablock'>
    <p class="_q">OK, so not quite chaos, but it is open to cheating, right?</p>
    <p class="_a">Well no. Since there are no rules, you can&rsquo;t cheat.</p>
-   <p class="_q">Doens&rsquo;t this mean that people are not protected and can have money taken out of their pocket?</p>
+   <p class="_q">doesn&rsquo;t this mean that people are not protected and can have money taken out of their pocket?</p>
    <p class='_a'>Maybe. If somebody cheats once, they some amount of <span class='_paradigm'>RAD</span>s will go to the offending co-owners. But then you talk them. If the cheating continues to go on, you and your fellow co-owners would stop giving them <span class="_paradigm">RAD</span>s.</p>
    <p class="_q">But, what if people in cahoots give all their <span class="_paradigm">RAD</span>s to each other?</p>
    <p class='_a'>Yes, that could happen. But since everything is transparent, somebody is bound to notice and question it.</p>
@@ -70,7 +70,7 @@ image:    "icon-alternatives-to-fiat.svg"
 <h1>Final Notes</h1>
  <p>Please, note,</p>
   <ul>
-   <li>This is not a <span class="_paradigm">Fiat</span> hierarchy and, therefore, there is no <em>boss</em> giving out goodies to his favority people.</li>
+   <li>This is not a <span class="_paradigm">Fiat</span> hierarchy and, therefore, there is no <em>boss</em> giving out goodies to his favorite people.</li>
    <li>People will get more or less <span class="_paradigm">RAD</span>s according contributions that their peers recognize as such. If they don&rsquo;t contribute, they don&rsquo;t get <span class="_paradigm">RAD</span>s, but if they contribute, they do.</li>
    <li>If people are not recognizing your contributions, either 1) they see them, but don&rsquo;t consider them valuable or 2) they don&rsquo;t know the value of what you are doing and you need to explain it to them.</li>
    <li>Most imporantly, there is nobody around who can give themselves a raise. The number of <span class="_paradigm">RAD</span>s one gets depends on what other co-owners recognize as contributions.</li>
