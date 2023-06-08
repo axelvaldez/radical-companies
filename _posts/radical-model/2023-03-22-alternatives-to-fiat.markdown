@@ -73,7 +73,7 @@ image:    "icon-alternatives-to-fiat.svg"
    <li>This is not a <span class="_paradigm">Fiat</span> hierarchy and, therefore, there is no <em>boss</em> giving out goodies to his favorite people.</li>
    <li>People will get more or less <span class="_paradigm">RAD</span>s according contributions that their peers recognize as such. If they don&rsquo;t contribute, they don&rsquo;t get <span class="_paradigm">RAD</span>s, but if they contribute, they do.</li>
    <li>If people are not recognizing your contributions, either 1) they see them, but don&rsquo;t consider them valuable or 2) they don&rsquo;t know the value of what you are doing and you need to explain it to them.</li>
-   <li>Most imporantly, there is nobody around who can give themselves a raise. The number of <span class="_paradigm">RAD</span>s one gets depends on what other co-owners recognize as contributions.</li>
+   <li>Most importantly, there is nobody around who can give themselves a raise. The number of <span class="_paradigm">RAD</span>s one gets depends on what other co-owners recognize as contributions.</li>
   </ul>
  <p>This is an alternative to the <span class="_paradigm">Fiat</span> model that leaves nothing to be <span class="_quotespan">extremely perplexed,</span> about. Once you see the <span class="_paradigm">Fiat</span> system and the harm that it causes, your horizons will open up and you will be able to imagine alternatives.</p>
 
