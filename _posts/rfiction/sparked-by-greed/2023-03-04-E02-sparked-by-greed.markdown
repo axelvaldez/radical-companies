@@ -95,7 +95,7 @@ image:    "icon-sparked-by-greed.svg"
 <h1>Anne Shelly Does Fine</h1>
  <div>Against the expectations many had,  competitors didn&rsquo;t know how to react to the price &lsquo;competition&rsquo;. Many ended up folding when they could not get the profits they expected. Others changed accepted lower profit levels for their investors and slowly changed their way.<div>
  <div>At one point, <span class="_paradigm">BANNERS</span> started to show up for investing in new companies. Th&uacute;y and Alda, the other financial person in the company, did a lot of workshops to teach would be founders the mechanics of investing.<div>
- <div>Many of the new companies stayed Ensembled with <span class="_paradigm">rHEALTH</span> because they did related work, but a few others went on their own, including one that went into space. They didn&rsquo;t make rockets or any such, but they wanted people going to space to stay healthy, both in on and off planet Earth. It seemed that the science was different enough.</div>
+ <div>Many of the new companies stayed ensembled with <span class="_paradigm">rHealth</span> because they did related work, but a few others went on their own, including one that went into space. They didn&rsquo;t make rockets or any such, but they wanted people going to space to stay healthy, both in on and off planet Earth. It seemed that the science was different enough.</div>
  <div>The amazing point is that people were investing in other <span class="_paradigm">Radical</span> companies. Investing had become easy. They didn&rsquo;t want to accumulate capital, they wanted to be part of creating things for all people. And that&hellip; that was more powerful.</div>
 
 <div class="_next">
