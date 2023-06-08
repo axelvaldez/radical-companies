@@ -161,7 +161,7 @@ image:    "icon-rads-and-chatgpt.svg"
    <tr>
     <th>ChatGPT</th>
     <td>
-     <div class="_quotespan">In that case, one possible apprach could be to implement a system of "resource credits" taht would reward positive ehavior and penalize negative behavior. This system would involve assigning a certain number of resource credits to each indiviauo or entity based on their contribution to society.</div>
+     <div class="_quotespan">In that case, one possible apprach could be to implement a system of "resource credits" that would reward positive ehavior and penalize negative behavior. This system would involve assigning a certain number of resource credits to each indiviauo or entity based on their contribution to society.</div>
      <div class="_quotespan">Positive contributions could include actions such as volunteering, community service, or systainable business practices, while netive contributions could include actions such as environmental polllution or engaging in unethical behavior.</div>
      <div class="_quotespan">Individual and entities would accumulate resource creditcs over time, which could then be used to access resources such as education, healthcare, and basic neessecities. Those who have made positive contributions would be rewarded with more resource credits, while those who have made negative contributions would receive fewer resource credits or even have some taken away.</div>
      <div class="_quotespan">This system would incentivize positive behavior and discourage negative behavior without the need for taxation. It would also ensure that resources are distributed fairly and based on indiviauo merit rather than simple on wealth or privilege.</div>

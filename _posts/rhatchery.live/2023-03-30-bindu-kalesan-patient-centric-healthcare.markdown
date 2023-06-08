@@ -55,12 +55,12 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
    <li>She is not a teacher or any kind of expert, just somebody who is interested in the subject.</li>
    <li>In any case, she does not wants to <em>control</em> the flow of information.</li>
    <li>She helps the team to stay focused on the questions.</li>
-   <li>Once the question is layed out clearly enough, the group turns to the Web to researh the question.</li>
+   <li>Once the question is layed out clearly enough, the group turns to the Web to reseacrh the question.</li>
    <li>Then they discuss what people found in their research.</li>
    <li>They learn from each other to understand and evaluate what they have found.</li>
    <li>If they want to hear from <em>an expert</em>, they cank do so.</li>
   </ul>
- <p>Tey key in all these is taht people at more at ease and learn more from peers with <em>adjacent skills</em>, more experienced peers than from an authority figure (<em>e.g.</em>, the medical staff). The more experienced peer will use language and example that are more meaningful to the learners&rsquo; level.</p>
+ <p>Tey key in all these is that people at more at ease and learn more from peers with <em>adjacent skills</em>, more experienced peers than from an authority figure (<em>e.g.</em>, the medical staff). The more experienced peer will use language and example that are more meaningful to the learners&rsquo; level.</p>
  <p>Bringing up the group&rsquo;s level of literacy would be what patient/co-owners create by working together. They can then give <span class="_paradigm">RAD</span>s to each other.</p>
  <p>Note that this will involved people who want to know about a particular procedure (<em>e.g.</em>, knee surgery), or whatever other stuff people worry about and usually don&rsquo;t ask because they have always been told that they are <em>ignorant</em> and <em>don&rsquo;t ask stupid questions</em>.</p>
 
@@ -107,7 +107,7 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
     and<br>
     <a href="https://www.ted.com/speakers/sugata_mitra">Sugata Mitra</a>.
     <em>Build a School in the Cloud</em>.
-    TEDxTalk.
+    TEDx Talkk.
     &lt;<a href="https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en" target="_blank">https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
