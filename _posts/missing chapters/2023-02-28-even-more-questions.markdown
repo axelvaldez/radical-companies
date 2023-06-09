@@ -23,7 +23,7 @@ image:    "icon-even-more-questions.svg"
   <div class="_speakerb">To make sure&hellip; this is person who knows how to program, but she doen&rsquo;t know the language your team needs, is that it?</div>
   <div class="_speakera">Exactly!</div>
   <div class="_speakerb">And you don&rsquo;t think that she can learn a new language?</div>
-  <div class="_speakera">Right! Well, no&hellip; Yes, she can learn. But I need to know it the minute she walks in the door.</div>
+  <div class="_speakera">Right! Well, no&hellip; yes, she can learn. But I need to know that specific language the minute she walks in the door.</div>
   <div class="_speakerb">Bad planning on your part, then, right?&hellip; By the way, do you know how to program?</div>
   <div class="_speakera">Yes&hellip;</div>
   <div class="_speakerb">So you were you born knowing all the programming languages, ever, rights?</div>
