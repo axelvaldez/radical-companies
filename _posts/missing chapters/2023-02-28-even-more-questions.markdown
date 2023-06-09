@@ -22,7 +22,7 @@ image:    "icon-even-more-questions.svg"
    Back to the &ldquo;offer more money&rdquo; competition&hellip; let&rsquo;s say that these other people are completely <span class="_paradigm">Fiat</span>. All they know is that money works and they offered your candidate more than you. Time and time again, they &ldquo;win.&rdquo; It seems to me that those people that went for &ldquo;more money&rdquo; would not be aligned with you community. Keep looking until a candidates shows enough interest and curiosity; that is the candidate you want. One who wants to learn.
   </div>
   <div class="_speakera">But what if she doesn't have the skills I need.</div>
-  <div class="_speakerb">To make sure&hellip; this is person who knows how to program, but she doen&rsquo;t know the language your team needs, is that it?</div>
+  <div class="_speakerb">To make sure&hellip; this is person who knows how to program, right? But she doesn&rsquo;t know the language your team needs, is that it?</div>
   <div class="_speakera">Exactly!</div>
   <div class="_speakerb">And you don&rsquo;t think that she can learn a new language?</div>
   <div class="_speakera">Right! Well, no&hellip; yes, she can learn. But I need to know that specific language the minute she walks in the door.</div>
