@@ -70,7 +70,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <li>Until revenue starts to come in, the PRI Fund pays co-owners.</li>
    <li>Well, actually, it is not the revenue, but the earned dividends that pays the PRI Fund. Earned dividends is what is left of the review after paying off all expenses, etc.</li>
    <li>Even after earned dividends start to materialize, the PRI Fund may supplement a co-owners&rsquo;s take home.</li>
-   <li>Eventually, the earned dividends a co-owner gets starts to pay off co-owner&rsquo;s debt to the PRI fFundund. How much of it goes into paying PRI Fund depends on what co-owners agreed to.</li>
+   <li>Eventually, the earned dividends a co-owner gets starts to pay off co-owner&rsquo;s debt to the PRI fund. How much of it goes into paying PRI Fund depends on what co-owners agreed to.</li>
    <li>Finally, after the PRI debt is all paid up, co-owners take earned dividends home, in addition to their home pay.</li>
   </ul>
  <p>This is how <em>take home</em> is determined,</p>
@@ -140,7 +140,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <div class="_center">
   <table class="_h2table">
    <tr>
-    <th>Your Esperience</th>
+    <th>Your experience</th>
     <td>
      <ul>
       <li>How do you show up? Who are you?</li>
