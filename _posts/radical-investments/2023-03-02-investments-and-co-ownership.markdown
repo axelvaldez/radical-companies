@@ -16,7 +16,7 @@ image:    "icon-investments-and-co-ownership.svg"
    <li>Put up a <span class="_paradigm">BANNER</span>.</li>
    <li>People pledge a number of their <span class="_paradigm">RAD</span>s to the <span class="_paradigm">BANNER</span>.</li>
    <li>If it falls short from the amount specified in the <span class="_paradigm">BANNER</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>, you will need an outside investment.</li>
-   <li>If you have consent, you can get an outside <span class="_paradigm">Radical</span> invesment for the difference.</li>
+   <li>If you have consent, you can get an outside <span class="_paradigm">Radical</span> investment for the difference.</li>
    <li>Done.</li>
   </ul>
 
