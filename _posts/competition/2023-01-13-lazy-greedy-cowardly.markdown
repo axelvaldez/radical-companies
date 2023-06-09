@@ -88,7 +88,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
  </ul>
  <p>Competition also means&hellip;</p>
  <ul>
-  <li>Dividng people. The boss has the &ldquo;strong leader&rdquo; mindset. He is special.</li>
+  <li>Dividing people. The boss has the &ldquo;strong leader&rdquo; mindset. He is special.</li>
   <li>Other lines of division,
    <ul>
     <li>Owners and employees.</li>
@@ -112,7 +112,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <li>Celebrating.</li>
   <li>Adding to others ideas.</li>
   <li>Jumping in to help is asked to.</li>
-  <li>Disagreesing if you don&rsquo;t like something.</li>
+  <li>Disagreesng if you don&rsquo;t like something.</li>
   <li>Don&rsquo;t punch holes in Others&rsquo; ideas to &ldquo;win.&rdquo;</li>
  </ul>
  <p>Collaboration also means&hellip;,</p>

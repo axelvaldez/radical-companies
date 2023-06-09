@@ -24,7 +24,7 @@ image:    "icon-owning-the-commons-3-3.svg"
   <li>Distributing them was easy enough through our <span class='_paradigm'>RAD</span>s.</li>
   <li><span class='_paradigm'>RAD</span>s really represent, in this case, a percentage of <span class="_paradigm">rCoins</span>.</li>
   <li>Everybody was very happy with the results.</li>
-  <li>We took our percentage of <span class="_paradigm">rCoins</span> and bought some of the goodies that came from those other townships (<em>e.g.</em>, they were cheaper and better crafted than online), like Etsyton.</li>
+  <li>We took our percentage of <span class="_paradigm">rCoins</span> and bought some of the goodies that came from those other townships (<em>e.g.</em>, they were cheaper and better crafted than online).</li>
   <li>A few of the towns tried out <span class='_paradigm'>RAD</span>s and they liked them and adopted them. In particular, they like how they were growing with help from other townships that they our 1024 families had founded or settled.</li>
   <li>The <span class="_paradigm">rCoins</span> didn&rsquo;t go away because we wanted to trade with farther away townships, in particular a huge one called Smelly Onions.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> In spite of its name, the food they made there (<em>e.g.</em>, Pizza, hot dogs, and White Castle depression era mini-hamburgers) was unique and out of this world. It was later renamed Chicago.</li>
   <li>As a matter of fact, the <span class="_paradigm">rCoins</span> fit right in with <span class='_paradigm'>RAD</span>s and even decentralized banking.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></li>

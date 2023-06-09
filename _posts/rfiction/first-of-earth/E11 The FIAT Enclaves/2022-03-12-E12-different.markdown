@@ -109,7 +109,7 @@ hidden:   true
  <p>&ldquo;OK, so we give each other RADs. For example, Beckett worked well with Ada and Rodrigo, so I&rsquo;d give them one RAD. But, Eden did a fantastic job of learning about matrices, so I&rsquo;d give her two RADs. That&rsquo;s what I saw and felt important to me,&rdquo; pointing at the others, &ldquo;they would notice different things; everybody sees things differently.&rdquo;</p>
  <p>&ldquo;But what you did back there was learning, not about being efficient and producing. So, RADs have nothing to do with work?&rdquo; Petra was struggling.</p>
  <p>&ldquo;OK&hellip; but that &lsquo;learning&rsquo; contributed to Perradero because that &lsquo;learning&rsquo; made them, all of us, more qualified to do what we want to do with Perradero.&rdquo; Kalisha looked surprised at Petra&rsquo;s question. &ldquo;It would be less &lsquo;efficient&rsquo; to not know about matrices, however you measure it.&rdquo;</p>
- <p>Ignatiuos had another surprising question, &ldquo;So if you looked hungry and somebody brought food, that would be worth a RAD, right?&rdquo;</p>
+ <p>Ignatius had another surprising question, &ldquo;So if you looked hungry and somebody brought food, that would be worth a RAD, right?&rdquo;</p>
  <p>&ldquo;Well,&rdquo; said Kalisha, &ldquo;that&rsquo;s just so common, but, yes, that&rsquo;s the general idea. You give out RADs for whatever you think it&rsquo;s important to people&rsquo;s wellbeing and that is a contribution to Perradero.&rdquo;</p>
  <p>Petra and Ignatius looked at each other with a look of surprise on their faces. Then they looked at Bayta.</p>
  <p>&ldquo;What Kalisha said.&rdquo;</p>
@@ -157,7 +157,7 @@ hidden:   true
  <p>&ldquo;What do you mean by &lsquo;proximate?&rsquo;&rdquo; Petra asked, although it seemed that she already knew the answer.</p>
  <p>&ldquo;It means that my experience is closest to yours and stands a better chance of helping you learn about the RADICAL approach. But it looks like you two would have figured things out quickly no matter what. You are surprisingly agile, like, you should be angry at me, not be sitting here, all smiles.&rdquo;</p>
  <p>&ldquo;We were angry at you,&rdquo; Petra said while looking at Ignatius. &ldquo;But then we came downstairs and talked, then came out here and talked some more, and then Ignatius got up and danced and I felt the same way. We were talking some more when you showed up.&rdquo;</p>
- <p>&ldquo;I danced because I felt lighter, like I had felt before,&rdquo; said Ignatus, &ldquo;Well, like I had never felt like for a long time, probably since I was very little. We realized that we didn&rsquo;t have to be angry at The Bracia. In a way, everything that&rsquo;s happened to us has brought us to now and we like this now.&rdquo;</p>
+ <p>&ldquo;I danced because I felt lighter, like I had felt before,&rdquo; said Ignatius, &ldquo;Well, like I had never felt like for a long time, probably since I was very little. We realized that we didn&rsquo;t have to be angry at The Bracia. In a way, everything that&rsquo;s happened to us has brought us to now and we like this now.&rdquo;</p>
  <p>&ldquo;We still have to help the people we left behind have the same opportunity,&rdquo; Petra said. &ldquo;We were talking about that when you showed up.&rdquo;</p>
  <p>&ldquo;And&hellip; ?&rdquo;</p>
  <p>&ldquo;And&hellip; we don&rsquo;t know, yet.&rdquo; Petra said as she and Ignatius laughed out loud.</p>
