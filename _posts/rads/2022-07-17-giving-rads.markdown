@@ -55,7 +55,7 @@ image:    "icon-giving-rads.svg"
   <li id="en01">
    <p class="_list-item">
     Matt Perez, Adrian Perez, Jose Leal.
-    <em>RADICAL COMPANIES: Withough Bosses or Employees</em>.
+    <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
     Pradera Media.
     2021.
     &lt;<a href="https://radicalcompanies.com" target="blank">https://radicalcompanies.com</a>&gt;

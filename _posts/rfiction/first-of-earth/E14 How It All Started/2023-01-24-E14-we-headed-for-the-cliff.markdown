@@ -11,9 +11,9 @@ image:    "icon-we-headed-for-the-cliff.svg"
 </div>
 
 <h1>Story Telling Time</h1>
- <p class="_quotespan">We didn&rsquo;t know <em>know</em> to care. In spite of all the virtous messaging around us, the most important thing for us was <span class="_quotespan">winning the race.</span> It took precedence over everything else: our life support environment, our health, happiness, and other people; it took precedence over <em>everything</em>!</p>
+ <p class="_quotespan">We didn&rsquo;t know <em>know</em> to care. In spite of all the virtuous messaging around us, the most important thing for us was <span class="_quotespan">winning the race.</span> It took precedence over everything else: our life support environment, our health, happiness, and other people; it took precedence over <em>everything</em>!</p>
  <p><span class="_quotespan">People died of never heard of sicknesses. We had vaccines, but enough of them shunned them to keep these pandemics ongoing. At one point, it was too late to get back to &lsquo;normal.&rsquo; We were over the cliff, without solid ground.</span> Yalitza had to pause at this point. The memories had gotten to her.</p>
- <p><span class="_quotespan">Most of the very wealthy hid as well as they could, but eventualy they were overwhelmed. You see, staying alive was the &lsquo;better life&rsquo; because it was the &lsquo;only life&rsquo; for the people on the outside and they were very, <em>very</em> good at pursing it and getting it. So, if they had to overwhelm the defenses that the wealthiest had put up, that is what they would do and that is what they did.</span></p>
+ <p><span class="_quotespan">Most of the very wealthy hid as well as they could, but eventually they were overwhelmed. You see, staying alive was the &lsquo;better life&rsquo; because it was the &lsquo;only life&rsquo; for the people on the outside and they were very, <em>very</em> good at pursing it and getting it. So, if they had to overwhelm the defenses that the wealthiest had put up, that is what they would do and that is what they did.</span></p>
  <p><span class="_quotespan">Not all the wealthy acted that way, many of them opened their doors and shared all they had and they ended up safer with a community around them.</span></p>
  <p> communities with bosses ranging from paternalistic to brutal. But just as many were co-managed by the community without permanent <span class="_quotespan">leaders</span>. <<span class="_quotespan">I grew up in one of those communities,</span> said Yalitza, <span class="_quotespan">&hellip;, but later I joined a nomadic one. And, oh, the wonders I got to see.</span></p>
  <p>One the kids in Yalitza&rsquo;s audience elbowed her sister. They looked at each other briefly and then he said, <span call="_quotespan">Is this accurate? Or are you just making it all up?</span></p>
@@ -32,14 +32,14 @@ image:    "icon-we-headed-for-the-cliff.svg"
  <p>People even learned to patch transmissions from one broadcaster to another and, slowly, the connection grew the world over.</p>
 
 <h1>Spring Blossoms</h1>
- <p>As it it turned out, a few communities were doing original research. A community in what used to be Laos recovered digital repositories and they spent months broadcasting the content of the material over the voice network. In parallel, and with help from the Laos folks, other recpositories were recovered in Iceland and Papua and other places.</p>
- <p>Yalitza remembered this time, clearly, <span class="_quotespan">Sure did, I was one of the people dictating the sutff we got. It was very exciting.</span></p>
+ <p>As it it turned out, a few communities were doing original research. A community in what used to be Laos recovered digital repositories and they spent months broadcasting the content of the material over the voice network. In parallel, and with help from the Laos folks, other repositories were recovered in Iceland and Papua and other places.</p>
+ <p>Yalitza remembered this time, clearly, <span class="_quotespan">Sure did, I was one of the people dictating the stuff we got. It was very exciting.</span></p>
 
 <h1> Lurkers</h1>
- <p>During that time we also figured out how to reconize  communities.</p>
+ <p>During that time we also figured out how to recognize  communities.</p>
 
 <h1> Communities</h1>
- <p>In spite of being the cause of pushing us over the cliff, the  hierarchy that had brough us to this point; mostly they could even see it as the engine messing us up.</p>
+ <p>In spite of being the cause of pushing us over the cliff, the  hierarchy that had brought us to this point; mostly they could even see it as the engine messing us up.</p>
  <p>The good news is that the  enclaves and it seemed serious about actually attacking their neighbors.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Community Ensembles</h1>
