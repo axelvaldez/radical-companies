@@ -17,8 +17,10 @@ image:    "icon-even-more-questions.svg"
   <div class='_speakera'>You&rsquo;ll make money based on your contributions, that won&rsquo;t change. And you'll work faster.</div>
   <div class='_speakerb'>Absolute win, which is what you are describing, is what we know and it is Fiat thinking, for a world driven by capital: I win it all, you lose all. However, it is not the fastest way to have a broad impact in a world based on contributions.</div>
   <div class="_speakera">I don&rsquo;t understand. What if they steal my ideas?</div>
-  <div class="_speakerb">OK, no&hellip; you cannot steal other people&rsquo;s ideas and they cannot [exaggerated air quotes] &ldquo;steal yours.&rdquo; Somebody else can copy what they understood of your Ideas, what resonated with them, but that is it.</div>
-  <div class="_spearkerc">Back to the &ldquo;offer more money&rdquo; competition&hellip; let&rsquo;s say that this four people around you are completely <span class="_paradigm">Fiat</span>. All they know is that money works and they offered your candidate more than you. Time and time again, they &ldquo;win.&rdquo; It seems to me that those people that went for &ldquo;more money&rdquo; would not be aligned with you community. Keep looking until one the candidates show enouhg interest and curiosity. That is the candidate you want. One that you don&rsquo;t have to convince, one who wants to learn.</div>
+  <div class="_speakerb">
+   OK, no&hellip; you cannot steal other people&rsquo;s ideas and they cannot [exaggerated air quotes] &ldquo;steal yours.&rdquo; Somebody else can copy what they understood of your Ideas, what resonated with them, but that is it.
+   Back to the &ldquo;offer more money&rdquo; competition&hellip; let&rsquo;s say that this four people around you are completely <span class="_paradigm">Fiat</span>. All they know is that money works and they offered your candidate more than you. Time and time again, they &ldquo;win.&rdquo; It seems to me that those people that went for &ldquo;more money&rdquo; would not be aligned with you community. Keep looking until one the candidates show enouhg interest and curiosity. That is the candidate you want. One that you don&rsquo;t have to convince, one who wants to learn.
+  </div>
   <div class="_speakera">But what if she doesn't have the skills I need.</div>
   <div class="_speakerb">To make sure&hellip; this is person who knows how to program, but she doen&rsquo;t know the language your team needs, is that it?</div>
   <div class="_speakera">Exactly!</div>
@@ -28,6 +30,6 @@ image:    "icon-even-more-questions.svg"
   <div class="_speakera">Yes&hellip;</div>
   <div class="_speakerb">So you were you born knowing all the programming languages, ever, rights?</div>
   <div class="_speakera">Of course not, but&hellip;</div>
-  <div class="_speakerb">&rdquo; then why not give her a chance to learn the new language, which looks a lot like other languages? She doesn't have to spend time learning the co-management and co-ownership side, so she spends time learning what she needs to learn? She is already aligned with the learning culture you want to build. Also, make sure to explain that your team needs for her this language fast, and maybe she knows somebody who does and can mentor her or she can propose another language that would be better suited.</div>
+  <div class="_speakerb">&hellip; then why not give her a chance to learn the new language, which looks a lot like other languages? She doesn't have to spend time learning the co-management and co-ownership side, so she spends time learning what she needs to learn? She is already aligned with the learning culture you want to build. Also, make sure to explain that your team needs for her this language fast, and maybe she knows somebody who does and can mentor her or she can propose another language that would be better suited.</div>
 
 {% include related.html %}
