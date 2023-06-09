@@ -21,14 +21,14 @@ image:    "icon-even-more-questions.svg"
   <p>He heard me, but&hellip; food for thought.</p>
   <div class="_speakerb">Back to the &ldquo;offer more money&rdquo; competition&hellip; let&rsquo;s say that these other people are completely <span class="_paradigm">Fiat</span>. All they know is that money works and they offered your candidate more than you. Time and time again, they &ldquo;win.&rdquo; It seems to me that those people that went for &ldquo;more money&rdquo; would not be aligned with you community. Keep looking until a candidates shows enough interest and curiosity; that is the candidate you want. One who wants to learn.  </div>
   <div class="_speakera">But what if she doesn't have the skills I need.</div>
-  <div class="_speakerb">To make sure&hellip; this is person who knows how to program, right? But she doesn&rsquo;t know the language your team needs, is that it?</div>
+  <div class="_speakerb">To make sure&hellip; this is person who knows how to program, right? But she doesn&rsquo;t know the specific language your team needs, is that it?</div>
   <div class="_speakera">Exactly!</div>
   <div class="_speakerb">And you don&rsquo;t think that she can learn a new language?</div>
-  <div class="_speakera">Right! Well, no&hellip; yes, she can learn. But I need to know that specific language the minute she walks in the door.</div>
-  <div class="_speakerb">Bad planning on your part, then, right?&hellip; By the way, do you know how to program?</div>
-  <div class="_speakera">Yes&hellip;</div>
-  <div class="_speakerb">So you were you born knowing all the programming languages, ever, rights?</div>
+  <div class="_speakera">Right! Well, no&hellip; yes, she can learn. But I need her to know that specific language the minute she walks in the door.</div>
+  <div class="_speakerb">That sounds like bad planning on your part, right?&hellip; By the way, do you know how to program?</div>
+  <div class="_speakera">Oh, sure&hellip;</div>
+  <div class="_speakerb">And you were you born knowing all the programming languages, ever, rights?</div>
   <div class="_speakera">Of course not, but&hellip;</div>
-  <div class="_speakerb">&hellip; then why not give her a chance to learn the new language. She doesn't have to spend time learning the co-management and co-ownership side, so she would spend time learning what she needs to learn. She is already aligned with the learning culture you want to build. Also, your team should explain what your team needs. She may even know somebody who can mentor her or she can propose another language that would be better suited.</div>
+  <div class="_speakerb">&hellip; then why not give her a chance to learn the new language. That is going to go a lot faster that learning co-management and co-ownership. Also, your team should explain what they need and she may even know somebody who can mentor her or she can propose another language that would be better suited to their needs.</div>
 
 {% include related.html %}
