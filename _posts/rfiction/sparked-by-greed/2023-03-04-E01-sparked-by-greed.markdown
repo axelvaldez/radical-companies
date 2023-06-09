@@ -7,7 +7,7 @@ image:    "icon-sparked-by-greed.svg"
 ---
 
 <div style="display:none;">
- <p>Developed with good intentions, the formula had been a money-maker for years. But it wasn&rsquo;t enough.</p>
+ <p>Developed with good intentions, the fomula had been a money-maker for years. But it wasn&rsquo;t enough.</p>
 </div>
 
 <h1>&nbsp;</h1>
@@ -38,7 +38,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">And if they don&rsquo;t laugh, screw them. Plenty of people will come to my defense&hellip;</div>
  <div class="_speakerb">&hellip; plenty of people will be sympathetic and that&rsquo;s it. Our biggest defense is that we are tiny and unimportant. That is the only thing we have going to us, OK?</div>
  <div class="_speakera">&lsquo;Tiny and unimportant&rsquo; &hellip; maybe that is what we should call it, TAU.</div>
- <div class="_speakerb">TAU, UA.</div>
+ <div class="_speakerb">TAU, reminds of UA.</div>
  <div class="_speakera">Yeah. Whatever&hellip;</div>
  <div class="_speakerb">Don&rsquo;t be dissmisive: UA stands for <span class="_me">Unincorporated Association</span>. It is a new class of legal entity that does not include stock. There are no shares in the company. I do not think it exists outside California, but we can do business in every state of the union so long as we register it and pay taxes.</div>
  <div class="_speakerbc">The fact that we will be operating without stock will make them fall off their chairs with laughter. They may even offer to buy a percentage of the company so they can have a laugh.</div>

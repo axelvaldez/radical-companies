@@ -205,7 +205,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <tr>
      <th>Borrowing Capital</th>
      <td>
-      <p>Borrowin capital is an option, but do not trade capital for &ldquo;control&rdquo; or any such <span class="_paradigm">Fiat</span> concept. And don't fool yourself with what you hope to do &ldquo;later.&rdquo;</p>
+      <p>Borrowing capital is an option, but do not trade capital for &ldquo;control&rdquo; or any such <span class="_paradigm">Fiat</span> concept. And don't fool yourself with what you hope to do &ldquo;later.&rdquo;</p>
       <p>Likely, you will need for the PRI fund. If that is the case, make it a <span class="_paradigm">Radical</span> investment.</p>
      </td>
     </tr>
