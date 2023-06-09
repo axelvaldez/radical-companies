@@ -17,7 +17,7 @@ image:    "icon-even-more-questions.svg"
   <div class='_speakera'>You&rsquo;ll make money based on your contributions, that won&rsquo;t change. And you'll work faster.</div>
   <div class='_speakerb'>Absolute win, which is what you are describing, is what we know and it is Fiat thinking, for a world driven by capital: I win it all, you lose all. However, it is not the fastest way to have a broad impact in a world based on contributions.</div>
   <div class="_speakera">I don&rsquo;t understand. What if they steal my ideas?</div>
-  <div class="_speakerb">OK, no&hellip; you cannot steal other people&rsquo;s ideas and they cannot [exaggerated air quotes] &ldquo;steal yours.&rdquo; Somebody else can copy what  they understood of your Ideas, what resonated with them, but that is it.</div>
+  <div class="_speakerb">OK, no&hellip; you cannot steal other people&rsquo;s ideas and they cannot [exaggerated air quotes] &ldquo;steal yours.&rdquo; Somebody else cannot copy you. They got the stuff that resonated with them, but that is it.</div>
   <p>He heard me, but&hellip; food for thought.</p>
   <div class="_speakerb">Back to the &ldquo;offer more money&rdquo; competition&hellip; let&rsquo;s say that these other people are completely <span class="_paradigm">Fiat</span>. All they know is that money works and they offered your candidate more than you. Time and time again, they &ldquo;win.&rdquo; It seems to me that those people that went for &ldquo;more money&rdquo; would not be aligned with you community. Keep looking until a candidates shows enough interest and curiosity; that is the candidate you want. One who wants to learn.  </div>
   <div class="_speakera">But what if she doesn't have the skills I need.</div>
