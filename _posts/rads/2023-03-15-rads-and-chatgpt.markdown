@@ -143,7 +143,7 @@ image:    "icon-rads-and-chatgpt.svg"
     <td>
      <div class="_quotespan">One potential approach could be to implemente a &ldquo;bad actor tax&rdquo; system for resource distribution. This system would involve setting aside a portioan of resources specifically designated to address the negative impact caused by bad actors in society.</div>
      <div class="_quotespan">For example, if a coporation is found to be engaging in unethical business practices or causing harm to the environment, a portion of their profits would be taxed and recirected towards efforts to mitigate the harm caused. This could include funding for environmental cleanup, community development programs, or restitution for affected individuals.</div>
-     <div class="_quotespan">The bad actor tax system would not only hold individuals and corporations accountable for their actions but also incentivize them to act in a more responsible and ethical manner. This could lead to a more equitable distribution of resources and a more sustainable socienty overall.</div>
+     <div class="_quotespan">The bad actor tax system would not only hold individuals and corporations accountable for their actions but also incentivize them to act in a more responsible and ethical manner. This could lead to a more equitable distribution of resources and a more sustainable society overall.</div>
     </td>
    </tr>
   </table>

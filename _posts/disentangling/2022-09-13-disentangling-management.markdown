@@ -77,7 +77,7 @@ image:    "icon-disentangling-management.svg"
     <th>Firing</th>
     <td>
      <p>Firing can be done by the team as well. Learning to give feedback doesn&rsquo;t come natural, even to bosses. Today, we practice a language of competition and dominance and we need to learn a language of love, empathy, and support. And not just for &ldquo;firing&rdquo;, but in general.</p>
-     <p>For a whole socienty, this is going to be a long process. But each company can do it more quickly by the process of aculturation. Among other things, this helps build trust more quickly.</p>
+     <p>For a whole society, this is going to be a long process. But each company can do it more quickly by the process of aculturation. Among other things, this helps build trust more quickly.</p>
     </td>
    </tr>
    <tr>

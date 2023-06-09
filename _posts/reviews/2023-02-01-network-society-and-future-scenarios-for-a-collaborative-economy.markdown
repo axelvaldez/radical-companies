@@ -30,7 +30,7 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaborative-economy
 
 <h1>Not Sure What to Call this&hellip;</h1>
  The authors posit that the &ldquo;partner state&rdquo; would engage <p class="_citation">in debt-free public monetary creation while supporting a structure of specialized complementary currencies.</p>
- <p>All I can say is &rdquo;maybe for a bit.&rdquo; My quesion is how to create such a &ldquo;partner state?&rdquo; Put another way, what would the system be that would bring anything like this &ldquo;partner state?&rdquo; about? What would the system be that makes this robust and long lasting?
+ <p>All I can say is &rdquo;maybe for a bit.&rdquo; My question is how to create such a &ldquo;partner state?&rdquo; Put another way, what would the system be that would bring anything like this &ldquo;partner state?&rdquo; about? What would the system be that makes this robust and long lasting?
  <p>The book is full of these. Maybe if I read it again, more carefully&hellip; ? But no, not worth it.</p>
 
 <h1>Recommendation</h1>
@@ -42,9 +42,9 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaborative-economy
   <li id="en01">
    <p class="_list-item">
     V Kostakis, M Bauwens.
-    <em>Network Socienty and Future Escenarios for a Collaboration Economy</em>.
+    <em>Network Society and Future Scenarios for a Collaborative Economy</em>.
     Aug, 2014.
-    &lt;<a href="https://a.co/9mLeEl" target="_blank">https://a.co/9mLeEl</a>&gt;
+    &lt;<a href="https://radicals.world/pJVfF5" target="_blank">https://radicals.world/pJVfF5</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
