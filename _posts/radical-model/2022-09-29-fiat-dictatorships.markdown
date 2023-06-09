@@ -24,7 +24,7 @@ image:    "icon-fiat-dictatorships.svg"
  </table>
 
 <h1>Kleptocracies</h1>
- <p>Dictatorships <em>have to</em> become kleptocracies to fund private goods (<em>aka</em>, corruption) at the expense of public goods.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Take, for example, Russia, North Korea, or Cuba: they have enough of an economy to fund the force necessary to maintain their dictatoships in power, but not enough to maintain their infrastructure or even their war machine.</p>
+ <p>Dictatorships <em>have to</em> become kleptocracies to fund private goods (<em>aka</em>, corruption) at the expense of public goods.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Take, for example, Russia, North Korea, or Cuba: they have enough of an economy to fund the force necessary to maintain their dictatorhips in power, but not enough to maintain their infrastructure or even their war machine.</p>
 
 <h1>Are Dictatorships Illegal</h1>
  <p>Dictatorships may be repugnant, but are they <em>illegal</em>? There is no international law that I know of to declare them one way or the other, so everything they do is&hellip; undefined.</p>
@@ -35,13 +35,13 @@ image:    "icon-fiat-dictatorships.svg"
  <div class="_citation">
   <p>1790: The Philadelphia Stock Exchange is formed, helping spur the developmentt of the U.S.&rsquo; financial sectors and the country&rsquo;s expansion west.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
- <p>It was a community of people with accummulated capital to invest, but note that its first priority was to help  &ldquo;the U.S.&rsquo; financial sectors.&rdquo;<p>
- <p>The &ldquo;all men are created equal&rdquo; US Constitution was written and signed by slavers, but, thankfully, the US Constituion was aspirational and its interpretation has progressed since, though not without a fight.</p>
+ <p>It was a community of people with accumulated capital to invest, but note that its first priority was to help  &ldquo;the U.S.&rsquo; financial sectors.&rdquo;<p>
+ <p>The &ldquo;all men are created equal&rdquo; US Constitution was written and signed by slavers, but, thankfully, the US Constitution was aspirational and its interpretation has progressed since, though not without a fight.</p>
  <p>On the other hand, the stock market got stuck and it went backwards. It went from being a pricing machine to a gambling table, with ruthless competition and predatory practices. All of this has corrupted its growth.</p>
 
 <h1>Oh, the Irony</h1>
  <p>It is noteworthy that non-<span class="_paradigm">Fiat</span>, <span class="_paradigm">Radical</span>, companies will be incubated <em>inside</em> <span class="_paradigm">Fiat</span> businesses. This, we hope, will transform the <span class="_paradigm">Fiat</span> system itself. As people learn what is like to be a co-owner, our hope is that they will take it to other <span class="_paradigm">Fiat</span> institutions, like School Boards and their local governments.</p>
- <p>It is worth notiing that non-<span class="_paradigm">Fiat</span> companies are better at growth than <span class="_paradigm">Fiat</span> businesses. It&rsquo;s just that <em>the growth</em> doesn&rsquo;t go into one pocket (the owner&rsquo;s), but many (co-owners&rsquo;) and therefore the difference.</p>
+ <p>It is worth noting that non-<span class="_paradigm">Fiat</span> companies are better at growth than <span class="_paradigm">Fiat</span> businesses. It&rsquo;s just that <em>the growth</em> doesn&rsquo;t go into one pocket (the owner&rsquo;s), but many (co-owners&rsquo;) and therefore the difference.</p>
  <p>Oh, the irony.</p>
 
 <h1 class="_section">ENDNOTES</h1>

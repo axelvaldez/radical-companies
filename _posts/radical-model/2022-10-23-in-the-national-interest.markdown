@@ -7,11 +7,11 @@ image:    "icon-in-the-national-interest.svg"
 ---
 
 <div style="display:none;">
- <p>National goverments really are very, very tall <span class="_paradign">Fiat</span> hierarchies with a monopoloy on force. We need governance, but not centralized governments. This is true for democracies and dictatoships.</p>
+ <p>National goverments really are very, very tall <span class="_paradign">Fiat</span> hierarchies with a monopoly on force. We need governance, but not centralized governments. This is true for democracies and dictatorhips.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>National goverments really are very, very tall <span class="_paradign">Fiat</span> hierarchies with a monopoloy on force. We need governance, but not centralized governments. This is true for the whole range of governments, from democracies to dictatorships.</p>
+ <p>National goverments really are very, very tall <span class="_paradign">Fiat</span> hierarchies with a monopoly on force. We need governance, but not centralized governments. This is true for the whole range of governments, from democracies to dictatorships.</p>
  <div class="_citation">
   <p><span class="_quotespan">&hellip; who would be trustworthy and persuasive enough?&hellip; The answer was a bunch of ordinary people.</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
@@ -33,16 +33,16 @@ image:    "icon-in-the-national-interest.svg"
   </p>
  </div>
  <p>People, including Churchill, had reason to believe this given the history of raids, wars and other <span class='_paradigm'>dangers from abroad.</span></p>
- <p>So, yes, democracy is better for our wellbeing than other forms of governance. However, like all forms of moderm governments, democracy brings along with it a <span class="_paradign">Fiat</span> hierarchy and a bureaucracy. And even though the bosses of said hierarchy are elected by the governed, neverthelss, the hierarchy is imposed fy force.</p>
+ <p>So, yes, democracy is better for our wellbeing than other forms of governance. However, like all forms of moderm governments, democracy brings along with it a <span class="_paradign">Fiat</span> hierarchy and a bureaucracy. And even though the bosses of said hierarchy are elected by the governed, nevertheless, the hierarchy is imposed fy force.</p>
 
 <h1>National Governments</h1>
- <p>National governments were engendered by big kingdoms, which were engendered by lesser kingdoms, which were engendered by tribal chiefdoms. This is true for all national governments, from shameless dictatorships to benevolent democracies. Governments are huge <span class="_paradigm">Fiat</span> hierarchies in charge of the national borders and a monopoloy on force.</p>
+ <p>National governments were engendered by big kingdoms, which were engendered by lesser kingdoms, which were engendered by tribal chiefdoms. This is true for all national governments, from shameless dictatorships to benevolent democracies. Governments are huge <span class="_paradigm">Fiat</span> hierarchies in charge of the national borders and a monopoly on force.</p>
 
 <h1>Nations</h1>
  <p>I think at this point it would come in handy to talk about <em>nations.</em> These are primarily groups of people who speak the same language. More accurately, these are groups of people who have been forced to speak the same language and live/fake the same culture. Spain is a good example of what I mean, but it applies to all of Europe and a good chunck of the modern world.</p>
 
 <h1>Iberian Peninsula</h1>
- <p>Take Spain. First the Germanic tribes, Goths, Visigoths, Celts, moved thoughout the European continent and incorporated or cleansed the people who were already living in the peninsula. The disparate tribes spoke their own versions of the language. Then the Romans of yore showed up and took over the Iberian peninsula. They spoke Latin and forced everybody to speak it as well.</p>
+ <p>Take Spain. First the Germanic tribes, Goths, Visigoths, Celts, moved throughout the European continent and incorporated or cleansed the people who were already living in the peninsula. The disparate tribes spoke their own versions of the language. Then the Romans of yore showed up and took over the Iberian peninsula. They spoke Latin and forced everybody to speak it as well.</p>
  <p>Later the Roman empire fell apart and wars ensued. In the end, the Castilian chiefdom won and forced everybody else, in what&rsquo;s today Spain, to speak Castilian. The Basque and the Catalonians still speak their corresponding language, but they speak Castilian as well. In fact, all of Europe went through similar amalgamation. Tribes became nations.</p>
  <p>To be clear, this &ldquo;amalgamation&rdquo; was not peaceful by any means. It involved all-out wars and ethnic cleansing.</p>
  <p><em>This</em> is how nations were made, by brute force.</p>
@@ -79,7 +79,7 @@ image:    "icon-in-the-national-interest.svg"
   <table class="_h2table">
    <tr>
     <th>Churches</th>
-    <td>All churches have one or more supernatural gods at the top of their <span class="_paradigm">Fiat</span> hierarchy. And, of course, there is one or a small group of humans who can interpret the deities. God is the owner and the slected few are the boss of this particular <span class="_paradigm">Fiat</span> hierarchy.</td>
+    <td>All churches have one or more supernatural gods at the top of their <span class="_paradigm">Fiat</span> hierarchy. And, of course, there is one or a small group of humans who can interpret the deities. God is the owner and the selected few are the boss of this particular <span class="_paradigm">Fiat</span> hierarchy.</td>
    </tr>
    <tr>
     <th>Businesses</th>
