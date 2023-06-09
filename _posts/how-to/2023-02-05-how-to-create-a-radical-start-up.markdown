@@ -84,7 +84,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 
 <h1>The <em>RADs!</em> Mobile App</h1>
  <p>Co-owners use the <em><span class="_paradigm">RAD</span>s!</em> mobile app to recognize the contributions of other co-owners. The <em><span class="_paradigm">RAD</span>s!</em> app later converts these contributions into <span class="_paradigm">RAD</span>s at the end of each, say, monthly cycle.</p>
- <p>Co-owners can recognize anything as a contributions. These can range from a tangible benefit to the company (<em>e.g.</em>, <span class="_quotespan">&hellip; found us a place to store return merchandize for free.</span>) to something more intangible (<em>e.g.</em>, <span class="_quotespan">&hellip; took the time to talk to him and to help him get his mental health taken care of.</span> or even <span class="_quotespan">&hellip; it gave me a lot of joy when he did that.</span>)</p>
+ <p>Co-owners can recognize anything as a contributions. These can range from a tangible benefit to the company (<em>e.g.</em>, <span class="_quotespan">&hellip; found us a place to store return merchandise for free.</span>) to something more intangible (<em>e.g.</em>, <span class="_quotespan">&hellip; took the time to talk to him and to help him get his mental health taken care of.</span> or even <span class="_quotespan">&hellip; it gave me a lot of joy when he did that.</span>)</p>
  <p><span class="_paradigm">RAD</span>s can factor anything through them. For example, if I have 10% of the <span class="_paradigm">RAD</span>s distributed and you have 20%, you get twice as much as I do of whatever is being filtered through the <span class="_paradigm">RAD</span>s this time (<em>e.g.</em>, earned dividends).</p>
 
 <h1>Explicit Alignment</h1>
