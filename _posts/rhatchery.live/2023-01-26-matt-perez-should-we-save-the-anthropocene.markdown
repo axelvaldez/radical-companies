@@ -11,7 +11,7 @@ image:    "icon-matt-perez-should-we-save-the-anthropocene.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>If culture and civilization, the Anthropocne, is to have a future we need to embrace this critical moment in our relationship with ourselves, our communities, and planet to ensure its survival.</p>
+ <p>If culture and civilization, the Anthropocene , is to have a future we need to embrace this critical moment in our relationship with ourselves, our communities, and planet to ensure its survival.</p>
  <p>We no longer deny that we have had a dramatic and significantly negative impact on the environment, our life-support system. If we want our discoveries and progress to survive, we must take steps to ensure its survival. We must question every single layer of the fabric of our &ldquo;normal&rdquo; way of doing things, our  ways.</p>
 
 <h1>Ownership</h1>
@@ -19,7 +19,7 @@ image:    "icon-matt-perez-should-we-save-the-anthropocene.svg"
  <p>Ownership is a human invention and a very good one at that. Owners care for their property, etc. I am not sure if that is &ldquo;in our nature&rdquo; or that is the way that it has worked out, but, in any case, let’s go with that assumption.</p>
 
 <h1>Assumption: Ownership Is Good</h1>
- <p>As a good thing then, ownership should be spread out to <em>everybody</em>, not just a selected few. It doesn&rsquo;t really work well when limited to a very small segment of people. Competition and dominacion has pushed us to put the financial system as the ultimate boss, with society as a servant and it will do it again and again.</p>
+ <p>As a good thing then, ownership should be spread out to <em>everybody</em>, not just a selected few. It doesn&rsquo;t really work well when limited to a very small segment of people. Competition and domination has pushed us to put the financial system as the ultimate boss, with society as a servant and it will do it again and again.</p>
  <p>Ownership does not work well for society when in the hands of a selected few, let&rsquo;s try spreading it to everybody and see what happens. People will do a lot of things, but they won't destroy their life support system.</p>
 
 <h1>Employment</h1>

@@ -12,8 +12,8 @@ image:    "icon-later.svg"
 
 <h1>Salt of the Earth</h1>
  <p>It seemd to me that the salt battery was the fulcrum that helped us bolt forward. It was developed by a small community in Australia doing research, a continent that was almost uninhabitable because it was so hot. We assumed that they would be hard press to survive, and it was surprising that they were doing this kind of work. Seems that they figured out that they had to do this to go beyond survival and thrive.</p> 
- <p>They shared their discoveries by sharing the instructions of how to make these batteries over the voice network which had painstankingly come together. Besides the how-to instructions, they spend countless hours helping people putting them together. It didn&rsquo;t take long for communities throughout the world to come up with improvements and share them.</p>
- <p>We had renewable enerby storage systems that communities and ensembles could build on.</p>
+ <p>They shared their discoveries by sharing the instructions of how to make these batteries over the voice network which had painstakingly  come together. Besides the how-to instructions, they spend countless hours helping people putting them together. It didn&rsquo;t take long for communities throughout the world to come up with improvements and share them.</p>
+ <p>We had renewable energy storage systems that communities and ensembles could build on.</p>
 
 <h1>Energy Harvesting</h1>
  <p>Then a community from Punta Arenas, in the Pampas shared that they had a rudimentary form of <em>energy harvesting</em> and could capture ambient energy from the environment. The platform that had come up for the sodium-sulphur battery came in very handy to build the energy harvesting technology and the responses came in <em>very</em> rapidly. The whole world was now working together and coming up with tangible results that communities and ensembles of communities could build on.</p>
