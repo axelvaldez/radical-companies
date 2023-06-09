@@ -28,6 +28,6 @@ image:    "icon-even-more-questions.svg"
   <div class="_speakera">Yes&hellip;</div>
   <div class="_speakerb">So you were you born knowing all the programming languages, ever, rights?</div>
   <div class="_speakera">Of course not, but&hellip;</div>
-  <div class="_speakerb">&hellip; then, why not give her a chance to learn the new language, which looks a lot like other languages? She doesn't have to spend time learning the co-management and co-ownership side, so she spends time learning what she needs to learn? She is already aligned with the learning culture you want to build. Also, make sure to explain that your team needs for her this language fast, and maybe she knows somebody who does and can mentor her or she can propose another language that would be better suited.</div>
+  <div class="_speakerb">OK, then, why not give her a chance to learn the new language, which looks a lot like other languages? She doesn't have to spend time learning the co-management and co-ownership side, so she spends time learning what she needs to learn? She is already aligned with the learning culture you want to build. Also, make sure to explain that your team needs for her this language fast, and maybe she knows somebody who does and can mentor her or she can propose another language that would be better suited.</div>
 
 {% include related.html %}
