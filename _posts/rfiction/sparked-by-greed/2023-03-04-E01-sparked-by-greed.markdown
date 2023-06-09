@@ -18,7 +18,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">What is wrong with it is that it is an artificial &lsquo;opportunity.&rsquo; The window that you are talking about is something that we are making up!</div>
  <div class="_speakerb">Wait, it is not just us&hellip;</div>
  <div class="_speakera">Right, it is not just us. We are all raising prices <span class="_me">because we can</span>.</div>
- <div class="_speakerb">Which will result in higher levels of returns thir fiscal year than last fiscal year.</div>
+ <div class="_speakerb">Which will result in higher levels of returns the fiscal year than last fiscal year.</div>
  <div class="_speakera">I see that your mind is made up and my participation is cosmetic. I came prepared for that.</div>
  <div class="_commentary">David took out an envelope and pushed it towards the power end of the table.</div>
  <div class="_speakera">This is my letter of resignation. You can send my stuff to my house, later on. Or keep it, it doesn&rsquo;t matter.</div>
@@ -99,7 +99,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">It&rsquo;s not your worth or anything like that, it is about what you did that struck me as a contribution to us as a community.</div>
  <div class="_speakera">Yes, I understand, but if I do my best work and nobody sees that as a contribution, I am going to feel like crap. You may be judging based on my behavior, but I will internatize it as worth.</div>
  <div class="_speakerb">If you are doing your best work and nobody notices, then you need to talk more. Or different. In any case, they need to learn why what you have done is so important.</div>
- <div class="_speakera">Good point. And that is what a &lsquo;learning organization&rsquo; is all about, ain&rsquo;t it? Besides, it will bring other benefits along. People can ask better questions and not feel left out of it. They would be more playful and kick the ball more&hellip; shit, it would lead to more innovation. Holy Mackrel! So, how does it work?</div>
+ <div class="_speakera">Good point. And that is what a &lsquo;learning organization&rsquo; is all about, ain&rsquo;t it? Besides, it will bring other benefits along. People can ask better questions and not feel left out of it. They would be more playful and kick the ball more&hellip; shit, it would lead to more innovation. Holy Mackerel! So, how does it work?</div>
  <div class="_speakerb">How does what work?</div>
  <div class="_speakera">The contribution thing. Are there rules? Who keeps track of them? What?</div>
  <div class="_speakerb">Oh, there is an app for that.</div>
