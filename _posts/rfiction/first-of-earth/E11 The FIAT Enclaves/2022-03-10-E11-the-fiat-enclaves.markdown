@@ -22,7 +22,7 @@ image:    "icon-e11-and-then.svg"
  <p>A few communities had stuck to FIAT ways, but most were slowly evolving. People could see what was going on with their neighbors and broke away from communities that didn&rsquo;t evolve fast enough for them. Then, starting early in 2065, one FIAT region started to make it hard to break away and by the end of the year it had declared borders and completely closed them. In many ways, they were reminiscent of the old North Korean and Cuban dictatorships.</p>
  <p>The few of us who had lived through these regimes in the late and early 21<sup>th</sup> century were mildly concerned at first. By the time these regions had declared borders more people had become worried and were now paying attention. People became very alarmed when the region called The Bracia completely closed its borders. The off Earth Surface (FES) people who had lived under the Earth Authority&rsquo;s rule were more than alarmed and began to prepare for the worst.</p>
 
-<h1>Petra and Ignatius</h1>
+<h1>Petra and Ignatiusssss</h1>
  <p>Just before dawn, one of The Bracia fighting units came over the hill, dropped their weapons, and raised what passed as an old fashioned white flag. They came down with their hands up for some reason. It turned out that they were deserting and giving themselves up as prisoners. We took care of them as best we could and explained that they were welcome to stay as members of our community, just not as prisoners. I spent a few hours explaining how our Ensemble operated and then left them to rest.</p>
  <p>By next morning, they were ready to go back, resigned to fight for the only home they knew. All of them understood that The Bracia aggression was unnecessary, but nevertheless, most wanted to go back. By the end of the day  all but two had left.</p>
  <p>&ldquo;The others went back. We didn&rsquo;t. Obviously,&rdquo; said the young woman. &ldquo;They&rsquo;ll report us as dead. We want to get as far away as we can from The Bracia.&rdquo; I looked at them and was about to speak when the young man said, softly, &ldquo;Yes, both of us. Together.&rdquo;</p>
@@ -30,7 +30,7 @@ image:    "icon-e11-and-then.svg"
  <p>I walked ahead of them, and without turning asked them their names.</p>
  <p>&ldquo;I am Ignacious. I am 18 years old. Not married.&rdquo;</p>
  <p>&ldquo;And I am Petra. I am 20. I am married, but it doesn&rsquo;t matter. Not anymore.&rdquo;</p>
- <p>&ldquo;El<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> help us,&rdquo; said Ignatius, under his breath. But Petra heard him. &ldquo;El Shaddai is not going to help us. El is a burden on us, on all The Bracia. We have to help ourselves. We have to trust that these people will help us. If you want to pray, pray that they&rsquo;d be Yahweh M'kaddesh.&rdquo;</p>
+ <p>&ldquo;El<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> help us,&rdquo; said Ignatiuss, under his breath. But Petra heard him. &ldquo;El Shaddai is not going to help us. El is a burden on us, on all The Bracia. We have to help ourselves. We have to trust that these people will help us. If you want to pray, pray that they&rsquo;d be Yahweh M'kaddesh.&rdquo;</p>
  <p>&ldquo;I am not praying,&rdquo; said Ignatius, &ldquo;it was just something I said. Don&rsquo;t let your amygdala rule you.&rdquo;</p>
  <p>I heard Petra chuckled. Then I quickly turned around and took a brief glance, enough to see them walking behind me in an awkward hug.</p>
 
