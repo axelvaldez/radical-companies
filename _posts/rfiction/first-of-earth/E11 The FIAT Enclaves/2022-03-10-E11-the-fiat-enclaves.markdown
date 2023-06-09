@@ -30,8 +30,8 @@ image:    "icon-e11-and-then.svg"
  <p>I walked ahead of them, and without turning asked them their names.</p>
  <p>&ldquo;I am Ignacious. I am 18 years old. Not married.&rdquo;</p>
  <p>&ldquo;And I am Petra. I am 20. I am married, but it doesn&rsquo;t matter. Not anymore.&rdquo;</p>
- <p>&ldquo;El<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> help us,&rdquo; said Ignatious, under his breath. But Petra heard him. &ldquo;El Shaddai is not going to help us. El is a burden on us, on all The Bracia. We have to help ourselves. We have to trust that these people will help us. If you want to pray, pray that they&rsquo;d be Yahweh M'kaddesh.&rdquo;</p>
- <p>&ldquo;I am not praying,&rdquo; said Ignatious, &ldquo;it was just something I said. Don&rsquo;t let your amygdala rule you.&rdquo;</p>
+ <p>&ldquo;El<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> help us,&rdquo; said Ignatius, under his breath. But Petra heard him. &ldquo;El Shaddai is not going to help us. El is a burden on us, on all The Bracia. We have to help ourselves. We have to trust that these people will help us. If you want to pray, pray that they&rsquo;d be Yahweh M'kaddesh.&rdquo;</p>
+ <p>&ldquo;I am not praying,&rdquo; said Ignatius, &ldquo;it was just something I said. Don&rsquo;t let your amygdala rule you.&rdquo;</p>
  <p>I heard Petra chuckled. Then I quickly turned around and took a brief glance, enough to see them walking behind me in an awkward hug.</p>
 
 <h1>Over the Hill</h1>
@@ -49,7 +49,7 @@ image:    "icon-e11-and-then.svg"
  <p>We headed for another community, southeast of us. Ignatius slept for the first part of the trip, but Petra stayed up and watched our surroundings, intensely, as we moved. The cruiser kept at a reasonable speed so Petra could see all she wanted to see.</p>
  <p>Finally, they approached a village and stopped in front of a multi-story house.</p>
  <p>&ldquo;We are going to stay here for now. This is Zion&rsquo;s Tiny Getaway, in&hellip;&rdquo;</p>
- <p>&ldquo;Who is Zion?&rdquo; said Ignatious, snapping to full awareness after a long sleep.</p>
+ <p>&ldquo;Who is Zion?&rdquo; said Ignatius, snapping to full awareness after a long sleep.</p>
  <p>&ldquo;Oh, no, it&rsquo;s nobody&hellip; It doesn&rsquo;t mean that this is the property of somebody called Zion&hellip; it&rsquo;s just the name of this village. It used to be called Cedar Points but they adopted Tiny Getaway as their name.&rdquo;</p>
  <p>&ldquo;Are we going to be safe here?,&rdquo; asked Petra, &ldquo;Is there a defense unit here? Is that why we are stopping here?&rdquo; She seemed to be on tippy toes, ready to jump. After the relaxing trip watching nature&rsquo;s beauty, coming to a stop brought out her daemons.</p>
  <p>&ldquo;Look,&rdquo; I said, &ldquo;we could keep going if you&rsquo;d like, or we can stop here for a bit, rest, and then keep going. I wanted to rest and you might want to learn something about the way other people live while we travel away from The Bracia. But, don&rsquo;t worry we are getting away from them.&rdquo;</p>
