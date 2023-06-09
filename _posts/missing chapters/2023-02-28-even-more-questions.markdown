@@ -20,6 +20,7 @@ image:    "icon-even-more-questions.svg"
   <div class="_speakerb">
    OK, no&hellip; you cannot steal other people&rsquo;s ideas and they cannot [exaggerated air quotes] &ldquo;steal yours.&rdquo; Somebody else can copy what  they understood of your Ideas, what resonated with them, but that is it.
    <br>
+   <br>
    Back to the &ldquo;offer more money&rdquo; competition&hellip; let&rsquo;s say that this four people around you are completely <span class="_paradigm">Fiat</span>. All they know is that money works and they offered your candidate more than you. Time and time again, they &ldquo;win.&rdquo; It seems to me that those people that went for &ldquo;more money&rdquo; would not be aligned with you community. Keep looking until one the candidates show enouhg interest and curiosity. That is the candidate you want. One that you don&rsquo;t have to convince, one who wants to learn.
   </div>
   <div class="_speakera">But what if she doesn't have the skills I need.</div>
