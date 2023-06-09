@@ -7,7 +7,7 @@ image:    "icon-giving-rads.svg"
 ---
 
 <div style="display:none;">
- <p>The latest and easiest way we've found to recognize others&rsquo; contributions with RADs.</p>
+ <p>The latest and easiest way we've found to recognize Others&rsquo;; contributions with RADs.</p>
 </div>
 
 <h1>&nbsp;</h1>
