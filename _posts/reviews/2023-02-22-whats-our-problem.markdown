@@ -11,7 +11,7 @@ image:    "icon-what&rsquo;s-our-problem.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>In <em>What&rsquo;s Our Problem: A Self-Help Book for Societies</em>, Tim Burton, the author, uses a very clever illustration that lays out all of human history as a 1,000 page book. He then asks, <span class="_quotespan">if the catastrophes of page 1,000 [uncluding the two World Wars] were the most devasting yet, what does that mean about catastrophies in page 1,001?</span></p>
+ <p>In <em>What&rsquo;s Our Problem: A Self-Help Book for Societies</em>, Tim Burton, the author, uses a very clever illustration that lays out all of human history as a 1,000 page book. He then asks, <span class="_quotespan">if the catastrophes of page 1,000 [including the two World Wars] were the most devasting yet, what does that mean about catastrophies in page 1,001?</span></p>
  <p> mindset when we get to page 1,001.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
