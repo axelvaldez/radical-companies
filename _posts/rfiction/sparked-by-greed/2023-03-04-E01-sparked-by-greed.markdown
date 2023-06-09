@@ -13,7 +13,7 @@ image:    "icon-sparked-by-greed.svg"
 <h1>&nbsp;</h1>
  <div class="_speakera">Nothing is enough!</div>
  <div class="_speakerb">Calm down. We just need to get the return our owners expect.</div>
- <div class="_speakera">What about telling them that their expectactions is modulated by what people can afford. And as it is they are paying over 100 times what it costs to developed and make our drugs.</div>
+ <div class="_speakera">What about telling them that their expectations is modulated by what people can afford. And as it is they are paying over 100 times what it costs to developed and make our drugs.</div>
  <div class="_speakerb">But that is the point, there is an opportunity to get higher returns. The window has opened to raise our prices. What is wrong with that?</div>
  <div class="_speakera">What is wrong with it is that it is an artificial &lsquo;opportunity.&rsquo; The window that you are talking about is something that we are making up!</div>
  <div class="_speakerb">Wait, it is not just us&hellip;</div>
@@ -40,7 +40,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">&lsquo;Tiny and unimportant&rsquo; &hellip; maybe that is what we should call it, TAU.</div>
  <div class="_speakerb">TAU, reminds of UA.</div>
  <div class="_speakera">Yeah. Whatever&hellip;</div>
- <div class="_speakerb">Don&rsquo;t be dissmisive: UA stands for <span class="_me">Unincorporated Association</span>. It is a new class of legal entity that does not include stock. There are no shares in the company. I do not think it exists outside California, but we can do business in every state of the union so long as we register it and pay taxes.</div>
+ <div class="_speakerb">Don&rsquo;t be dismissive, please. &ldquo;UA&rdquo; stands for <span class="_me">Unincorporated Association</span>. It is a new class of legal entity that does not include stock. There are no shares in the company. I do not think it exists outside California, but we can do business in every state of the union so long as we register it and pay taxes.</div>
  <div class="_speakerbc">The fact that we will be operating without stock will make them fall off their chairs with laughter. They may even offer to buy a percentage of the company so they can have a laugh.</div>
  <div class="_speakera">I like it. But, isn&rsquo;t kind of &lsquo;not-so-funny&rsquo; to not have company stock? I mean, what do we do for growth?</div>
  <div class="_speakerb">We are going to create a co-owned company, and run it as a co-managed company, too. I have read all about it. Growth will come and we will get the capital, but we won&rsquo;t give our power over the business.</div>
@@ -71,7 +71,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">But the Mission is the first step in getting to the Impact&hellip;</div>
  <div class="_speakerb">You are smart, but you are not that smart. Can you falsify what you just said? Are you being a scientist or a boss?</div>
  <div class="_speakera">Well, look, I am always a&hellip;</div>
- <div class="_speakerb">I&lsquo;ve been a boss longer than you have, and that statement screams &rsquo;boss&lsquo; to me. We cannot afford to create obstacles for people to join the team and creating a &rsquo;solid Mission&lsquo; is creating an obstacle. Many people will ignore it because they want to work with you, they want to learn from you. But it is an obstacle that get bigger and bigger over time, until they quit to get away from it or submit to it and we all lose.</div>
+ <div class="_speakerb">That <em>statement</em> screams &rsquo;boss&lsquo; to me. We cannot afford to create obstacles for people to join the team and creating a &rsquo;solid Mission&lsquo; is creating an obstacle. Many people will ignore it because they want to work with you, they want to learn from you. But it is an obstacle that get bigger and bigger over time, until they quit to get away from it or submit to it and we all lose.</div>
 
 <h1>Open Relationships</h1>
  <div>They had talked about what Th&uacute;y knew about Trust Relationship, and they were now working through one they found online. They would then be ready to ask future potential <span class="_paradigm">rHEALTH</span> to go through it, add their piece, and modifiy as needed.</div>
@@ -97,7 +97,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">You&hellip; you say it so matter-of-fact. Like it is obvious&hellip;</div>
  <div class="_speakera">Well, it is implied by what you just said. If you are constantly judging me, my worth in your eyes must change all the time. Nobody has a static view of other people.</div>
  <div class="_speakerb">It&rsquo;s not your worth or anything like that, it is about what you did that struck me as a contribution to us as a community.</div>
- <div class="_speakera">Yes, I understand, but if I do my best work and nobody sees that as a contribution, I am going to feel like crap. You may be judging based on my behavior, but I will internatize it as worth.</div>
+ <div class="_speakera">Yes, I understand, but if I do my best work and nobody sees that as a contribution, I am going to feel like crap. You may be judging based on my behavior, but I will  internalize it as worth.</div>
  <div class="_speakerb">If you are doing your best work and nobody notices, then you need to talk more. Or different. In any case, they need to learn why what you have done is so important.</div>
  <div class="_speakera">Good point. And that is what a &lsquo;learning organization&rsquo; is all about, ain&rsquo;t it? Besides, it will bring other benefits along. People can ask better questions and not feel left out of it. They would be more playful and kick the ball more&hellip; shit, it would lead to more innovation. Holy Mackerel! So, how does it work?</div>
  <div class="_speakerb">How does what work?</div>
