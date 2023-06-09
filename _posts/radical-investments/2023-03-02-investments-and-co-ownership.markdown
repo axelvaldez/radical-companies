@@ -25,7 +25,7 @@ image:    "icon-investments-and-co-ownership.svg"
   <li><span class="_paradigm">BANNER</span>s can&rsquo;t give <span class="_paradigm">RAD</span>s back, so this process cannot be gamed or corrupted (at least, not this way).</li>
   <li>An internal investment can come from anybody with company <span class="_paradigm">RAD</span>s, including people for the ensemble your company may be part of.</li>
   <li>Consensus means that everybody has to agree without a doubt. If you don&rsquo;t, we badger you or bribe you until you are willing to say you agree. If nothing works, the whole process stops. You are at the mercy of one.</li>
-  <li>Consent means that you are not sure you fully agree, but you can live with it. The disagreeing people has to explain their reasom and that may a better argument against than the one for original proposal. It is an opportunity for all to learn.</li>
+  <li>Consent means that you are not sure you fully agree, but you can live with it. The disagreeing people has to explain their reason and that may a better argument against than the one for original proposal. It is an opportunity for all to learn.</li>
   <li>For internal investments, the <em>consent</em> <span class="_paradigm">RAD</span>s get taken out of the <span class="_paradigm">RAD</span>s given in this cycle and contributed to the <span class="_paradigm">BANNER</span>s. Pledging co-owners get a percentage ownership according to the number of <span class="_paradigm">RAD</span>s they pledges.</li>
  </ul>
 
@@ -33,7 +33,7 @@ image:    "icon-investments-and-co-ownership.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-    More like IndieGo than Kickstarter)
+    More like IndieGoGo than Kickstarter)
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
