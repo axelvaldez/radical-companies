@@ -31,7 +31,7 @@ image:    "icon-trust-and-ptsd.svg"
    <li>Is society suffering from PTSD?</li>
   </ul>
  <p>After all, workplaces are where people spend most of their waking hours. Workplaces are where drama happens, oftentimes harmful drama that causes trauma.</p>
- <p>I am reminded of a friend&rsquo;s recent story about layoffs. He had survived layoffs, where a third of his team disappeared. This was sad enough because some of those people were not just his friends, but in his view, competent and undeserving of a layoff. Plus there was also <span class="_quotespan">survivor&rsquo;s guilt.</span> There were rumors of aother layoffs: the Sword of Damocles had been dangling over his head for months, taking its toll. Would he be fired? Would he, again, see people he had strong bonds with suffer?</p>
+ <p>I am reminded of a friend&rsquo;s recent story about layoffs. He had survived layoffs, where a third of his team disappeared. This was sad enough because some of those people were not just his friends, but in his view, competent and undeserving of a layoff. Plus there was also <span class="_quotespan">survivor&rsquo;s guilt.</span> There were rumors of another layoffs: the Sword of Damocles had been dangling over his head for months, taking its toll. Would he be fired? Would he, again, see people he had strong bonds with suffer?</p>
  <p>We have learned to <span class="_quotespan">man up</span> and <span class="_quotespan">don&rsquo;t say anything</span> when hurt. After all, <span class="_quotespan">it&rsquo;s not personal, it&rsquo;s just business.</span> We try to put away or ignore the pain, instead of facing it and dealing with the <em>very personal</em> harm that just happened to us.</p>
 
 <h1>Trauma</h1>
