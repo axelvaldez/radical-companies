@@ -37,7 +37,7 @@ hidden:   true
  <p>&ldquo; Hello. I am Petra and this is Bayta.&rdquo;</p>
  <p>&ldquo;Are you from here?&rdquo; asked Mirna.</p>
  <p>&ldquo;No, we came down from Hurricane and I am not sure where we are going,&rdquo; said Petra, chuckling.</p>
- <p>&ldquo;Hurricane? That&rsquo;s where The Braica aggression happened, right?&rdquo; Julian asked. &ldquo;How did you do?&rdquo;</p>
+ <p>&ldquo;Hurricane? That&rsquo;s where The Bracia aggression happened, right?&rdquo; Julian asked. &ldquo;How did you do?&rdquo;</p>
  <p>&ldquo;There were seven deaths in all. We didn&rsquo;t know any of them first hand, but we mourn them all.&rdquo;</p>
  <p>&ldquo;I was on The Bracia side at that point, but I wasn&rsquo;t part of that action,&rdquo; as Petra blurted the words, Julian and Mirna looked surprised.</p>
  <p>&ldquo;You are from The Bracia?&rdquo; Julian asked carefully.</p>
