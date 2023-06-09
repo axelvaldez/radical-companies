@@ -85,7 +85,7 @@ hidden:   true
  <p>Clayton smiled and said, &ldquo;we stole it from a museum?&rdquo;</p>
  <p>Jacob yelled from behind a huge wheel, &ldquo;Actually, we bought it off a woman and her daughter who converted a lot of old gasoline cars but rigged them so they would still sound like they had a combustion engine inside. What we liked the most is that there is no way of tracking this baby through digital means.&rdquo;</p>
  <p>Petra, Ignatius, and Bayta got into the back seat.</p>
- <p>&ldquo;Put your seatbelt on!&rdquo; exclaimed Jabcob.</p>
+ <p>&ldquo;Put your seatbelt on!&rdquo; exclaimed Jacob</p>
  <p>Looking confused, Petra said, &ldquo;My what?&rdquo;</p>
  <p>Ignatius was beyond giddy now, &ldquo;Your seatbelt. See? Like this.&rdquo; And he demonstrated how it worked.</p>
  <p>&ldquo;I think we are ready to go.&rdquo;</p>
