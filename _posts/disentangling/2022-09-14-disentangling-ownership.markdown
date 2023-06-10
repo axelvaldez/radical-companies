@@ -7,7 +7,7 @@ image:    "icon-disentangling-ownership.svg"
 ---
 
 <div style="display:none;">
-  <p>Business ownership is really simple: owners keep the profits. And since ownerships is good, everbody should be a co-owner so they can equitably, not equally, share the profits.</p>
+  <p>Business ownership is really simple: owners keep the profits. And since ownerships is good, everybody should be a co-owner so they can equitably, not equally, share the profits.</p>
 </div>
 
 <h1>Businesses & Companies</h1>

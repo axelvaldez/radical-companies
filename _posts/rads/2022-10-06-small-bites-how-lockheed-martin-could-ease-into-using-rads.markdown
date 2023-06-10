@@ -31,8 +31,8 @@ image:    "icon-small-bites-how-lockheed-martin-could-ease-into-using-rads.svg"
  <p>In a <span class="_paradigm">Radical</span> company everybody is the equivalent of the CEO in terms of being able to make decisions in behalf of the company (Decentralization) and access to information (Transparency). They all participate in creating value and they benefit from the value they create.</p>
 
 <h1>Doing It Differently</h1>
- <p>Imagine this: What if we take the bonuses for the employees and distribute them <em>equitably</em> to everybody? What if we also take the executive bonuse and distribute it equitably as well?</p>
- <p>We could give everybody the same abount but that doesn&rsquo;t work for long. We could add things like years of schooling and service, but that is pretty arbitrary and biased. In any case, it has little to do with contributions.</p>
+ <p>Imagine this: What if we take the bonuses for the employees and distribute them <em>equitably</em> to everybody? What if we also take the executive bonuses and distribute it equitably as well?</p>
+ <p>We could give everybody the same about but that doesn&rsquo;t work for long. We could add things like years of schooling and service, but that is pretty arbitrary and biased. In any case, it has little to do with contributions.</p>
 
 <h1>Equitable Distribution</h1>
  <p>&ldquo;Equitable&rdquo; sounds good, but there isn&rsquo;t a generally agreed formula for it. People have tried all kinds, but none really work for long and are often tweaked. Eventually, they become unintelligible to most people, and mistrusted.</p>

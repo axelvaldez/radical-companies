@@ -24,7 +24,7 @@ image:    "icon-explicit-relationships.svg"
    <li>My support commitments</li>
   </ol>
  <p>Note that when doing this with a group, &ldquo;me&rdquo; stands for each person in the group and &ldquo;my commitment&rdquo; becomes a list of each co-owner&rsquo;s commitments to each other. Also, the would-be co-owner has to option to do it as a discussion or do it as a written, silent process.</p>
- <p>We were surprised by how well this worked to bring out the concerns of the people involved. People felt safe enough to let out all kinds of things about themselves, they are notafraid of making themselves vulnerable. So far, we&rsquo;ve done it with early adopters, so we don&rsquo;t have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
+ <p>We were surprised by how well this worked to bring out the concerns of the people involved. People felt safe enough to let out all kinds of things about themselves, they are not afraid of making themselves vulnerable. So far, we&rsquo;ve done it with early adopters, so we don&rsquo;t have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
 
 <h1>Foundation Agreements [DRAFT]</h1>
  <p>The <em>Trust Framework</em> works for people, but not for communities. Here is a DRAFT <em>Foundation Agreement</em>,</p>
@@ -46,8 +46,8 @@ image:    "icon-explicit-relationships.svg"
       <th><em style="text-align:left; ">Commitments</em>: Decentralization & Transparency</th>
       <td>
        <ul>
-        <li>Is this the most decentralized way we can do this? Are we making things more or less centralized? If we end up with a few centralized areas,  are they open to decentralizition later?</li>
-        <li>What are we not disclosing? Why are we hesitat to disclose? Is it cultural fear that is holding us back? If this information is important to keep secret, who would know about it? Will everybody know who the chosen people are?</li>
+        <li>Is this the most decentralized way we can do this? Are we making things more or less centralized? If we end up with a few centralized areas,  are they open to decentralization later?</li>
+        <li>What are we not disclosing? Why are we hesitate to disclose? Is it cultural fear that is holding us back? If this information is important to keep secret, who would know about it? Will everybody know who the chosen people are?</li>
        </ul>
       </td>
      </tr>
@@ -72,7 +72,7 @@ image:    "icon-explicit-relationships.svg"
  <ol>
  <li id="en01">
   <p class="_list-item">
-    Matt Perez, Adrian Perez, Jose Leall
+    Matt Perez, Adrian Perez, Jose Leal
    <<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient" target="_blank">>https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient</a>
    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
   </p>
