@@ -42,7 +42,7 @@ image:    "icon-e11-and-then.svg"
  <p>&ldquo;Yes, unless they declared what he said a mortal sin,&rdquo; Petra said. &ldquo;They&hellip; they made him kill himself.&rdquo; She stopped talking, her face became hard, and she dropped her head. I made a gesture to hug her and she hugged me hard. Just as suddenly, she let go and said, &ldquo;when can we leave?&rdquo;</p>
  <p>&ldquo;I&rsquo;ll grab my gear and we can go.&rdquo;</p>
  <p>They stayed outside while I changed into my field outfit and picked up my backpack. I called for a cruiser and both of them looked at first horrified as it came towards us and then surprised when it came to a stop. &ldquo;I take it you have not seen autonomous transports before?&rdquo;</p>
- <p>&ldquo;Yes, we have them, but only a few and all at the service of the Far, the Prime, and his closests people.&rdquo; Preta said and then she looked at Ignatius.</p>
+ <p>&ldquo;Yes, we have them, but only a few and all at the service of the Far, the Prime, and his closest people.&rdquo; Preta said and then she looked at Ignatius.</p>
  <p>&ldquo;The rumors were right, I guess,&rdquo; he said. Looking at me, he explained, &ldquo;the official line was that those transports navigated with El&rsquo;s guidance and only worked for the Far and his Bosses because of their exalted DNA. But rumor had it that it was technology developed outside The Bracia.</p>
 
 <h1>From Hurricane to Talking</h1>

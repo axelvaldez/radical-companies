@@ -229,7 +229,7 @@ image:    "icon-google-goes-radical.svg"
   <li id="en01">
    <p class="_list-item">
     See <em>Number of employees at Alphabet</em>,
-    <<a href="https://statstic.com/number-of-employees-at-alphabet">https://statstic.com/number-of-employees-at-alphabet</a>>,
+    <<a href="https://statistic.com/number-of-employees-at-alphabet">https://statistic.com/number-of-employees-at-alphabet</a>>,
     and <em>Google&rsquo;s Net Income</em>,
     <<a href="https://www.statista.com/statistics/266472/googles-net-income/">https://www.statista.com/statistics/266472/googles-net-income/</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>

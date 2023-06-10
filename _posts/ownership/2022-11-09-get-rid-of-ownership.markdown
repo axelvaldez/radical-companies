@@ -12,11 +12,11 @@ image:    "icon-get-rid-of-ownership.svg"
 
 <div class="_citation">
  <p>Just get rid of ownership and everything will be fine.</p>
- <p id="_signature">A lot of well-intentioded people</p>
+ <p id="_signature">A lot of well-intentioned people</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Different version of this belief seem to be eternal, <span class="_quotespan">&hellip; the simpler life,</span> <span class="_quotespan">&hellip; home grown food,</span> <span class="_quotespan">&hellip; the values of the indiginous people.</span> However, the various attempt at this ideal have not changed anything. We need a path to a sustainable future for our anthropocene. We need to break lose from our current system of extraction and exploitation.</p>
+ <p>Different version of this belief seem to be eternal, <span class="_quotespan">&hellip; the simpler life,</span> <span class="_quotespan">&hellip; home grown food,</span> <span class="_quotespan">&hellip; the values of the Indigenous people.</span> However, the various attempt at this ideal have not changed anything. We need a path to a sustainable future for our anthropocene. We need to break lose from our current system of extraction and exploitation.</p>
  <p>Ownership, although we have taken it to an extreme in our <span class="_paradigm">Fiat</span> world, is actually one of the tools that will move us forward. Not to exclude people. We simply need to decentralize it and make it available, really available, to everyone on the planet.</p>
 
 <h1>Corporate Ownership is Bad</h1>
@@ -28,7 +28,7 @@ image:    "icon-get-rid-of-ownership.svg"
  <p>We (mostly) don’t have to fight over it.</p>
 
 <h1>Fixed Ownership is Bad</h1>
- <p>The worst part of corporate ownership is that it is forever fixed, never changig. If you get 30% of a company, that 30% is yours forever. Your relatives can inherit it, for generations, just like Prince Charles became King of Britain after mommy Queen died, who became Queen after her dad died, who&hellip; you get the point.</p>
+ <p>The worst part of corporate ownership is that it is forever fixed, never changing. If you get 30% of a company, that 30% is yours forever. Your relatives can inherit it, for generations, just like Prince Charles became King of Britain after mommy Queen died, who became Queen after her dad died, who&hellip; you get the point.</p>
 
 <h1>Dynamic Ownership Is Good</h1>
  <p>The alternative to fixed ownership, based on force, is dynamic ownership, based on contributions.</p>
