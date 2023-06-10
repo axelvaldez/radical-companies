@@ -15,7 +15,7 @@ image:    "icon-the-power-of-the-powerless.svg"
 
 <h1>The Power of Dictatorships</h1>
  <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></sup> 
- <p>In the essay, his most striking observation is that what keeps together dictatorships is the acceptance of the very people that they oppress<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>. He also observed that sovie-style dictatorshipsare based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of &ldquo;the means of production,&rdquo; that is, everything that can generate wealth, including people. In summary,</p>
+ <p>In the essay, his most striking observation is that what keeps together dictatorships is the acceptance of the very people that they oppress<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>. He also observed that soviet-style dictatorships are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of &ldquo;the means of production,&rdquo; that is, everything that can generate wealth, including people. In summary,</p>
  <table class="_background">
   <tr>
    <th><p>Huge<br>Power<br>Block</p></th>
@@ -67,14 +67,14 @@ image:    "icon-the-power-of-the-powerless.svg"
    <td>
      <p>Although there is not a <em>Left</em> and <em>Right</em> ideology when it comes to businesses, there is a cultural ideology that supports them. Among others, Roy S Jacques writes that &ldquo;<em>Beginning in the Western Europe of the fourteenth to sixteenth century one find a growth of a mode of consciousness&hellip; [that] has a &lsquo;mechanical&rsquo; orientation to it, emphasizing instrumentality, emotionlessness, accumulation, skepticism, individual consciousness, standardization, and objectification. It is also from this mode of consciousness that the particular form of production and exchange currently dominant worldwide has emerged.</em>&rdquo;</p>
     <p>He continues to say that between the 17th and 19th century, &ldquo;<em>Liberty no longer meant the freedom to perfect an enclosed city protected from the world. It was redirected as the freedom to conquer and order that outer world. Progress no longer meant movement toward a finite goal, but infinite expansion into a limitless universe</em>.&rdquo; Conquering and infinite expansion is the ideology that sustains businesses to this day.</p>
-    <p>In other words, businesses have a <em>historiccal root</em>, one that is embedded in today&rsquo;s culture.</p>
+    <p>In other words, businesses have a <em>historical root</em>, one that is embedded in today&rsquo;s culture.</p>
    </td>
   </tr>
   <tr>
    <th><p>Ideology as<br>Securalized<br>Religion</p></th>
    <td>
     <p>The unquestioned acceptance of what ownership means and how it works is the secularized religion of businesses. &ldquo;Ownership&rdquo; is the mysterious, unmentionable name of this religion. The overwhelming majority of the stuff listed under &ldquo;business/economics,&rdquo; including books on self-management, are simply tweaks of this religion, but they are blind to the issue of &ldquo;ownership&rdquo;.</p>
-    <p>In other words, the business ideaology, then, is the unquestioned acceptance of ownership as is.</p>
+    <p>In other words, the business ideology, then, is the unquestioned acceptance of ownership as is.</p>
    </td>
   </tr>
   <tr>
@@ -98,7 +98,7 @@ image:    "icon-the-power-of-the-powerless.svg"
 <p>Businesses fit <em>every one</em> of theses observations,</p>
 
 <h1>Businesses Are Dictatorships</h1>
- <p>Businesses fit depressingly well in Havel&rsquo;s framework. And this leads to the inescapable conclusion that <em>democracies (governments) are based on dictatorships</em> (businesses) called businesses. Even though we intuitively know that &ldquo;a government is not a business&rdquo;, we go back and forth on it. The <span class="_paradigm">Radical</span> model is a tool to convert the dictatorships called <em>businesses</em> into <em>companies</em> that operate more like democracies, with decentralized decision-making and ownership.<a href="#en09"><sup id="bm09">&hairsp;&nabla;&hairsp;</sup></a> A side-effect of this is that people will be equipped to be more engaged in their governance. As they learn to be company co-owners, people will learn to co-own their governamce as well.</p>
+ <p>Businesses fit depressingly well in Havel&rsquo;s framework. And this leads to the inescapable conclusion that <em>democracies (governments) are based on dictatorships</em> (businesses) called businesses. Even though we intuitively know that &ldquo;a government is not a business&rdquo;, we go back and forth on it. The <span class="_paradigm">Radical</span> model is a tool to convert the dictatorships called <em>businesses</em> into <em>companies</em> that operate more like democracies, with decentralized decision-making and ownership.<a href="#en09"><sup id="bm09">&hairsp;&nabla;&hairsp;</sup></a> A side-effect of this is that people will be equipped to be more engaged in their governance. As they learn to be company co-owners, people will learn to co-own their governance as well.</p>
  <table class="_background">
   <tr>
    <th>
@@ -113,7 +113,7 @@ image:    "icon-the-power-of-the-powerless.svg"
     <p>Historical<br>Roots</p>
    </th>
    <td>
-    <p>History is made little by little and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burnig our own life boat, little by little. According to David Graeber, author of <em>Debt: the First 5,000 Years</em>,<a href="#en11"><sup id="bm11">&hairsp;&nabla;&hairsp;</sup></a> the fuel for this has been debt. Quatified debt gave birth to money which in turn made it easy to extract and accumulate wealth.</p>
+    <p>History is made little by little and that&rsquo;s how&rsquo;ve ended up in the mess we are in, burning our own life boat, little by little. According to David Graeber, author of <em>Debt: the First 5,000 Years</em>,<a href="#en11"><sup id="bm11">&hairsp;&nabla;&hairsp;</sup></a> the fuel for this has been debt. Quantified debt gave birth to money which in turn made it easy to extract and accumulate wealth.</p>
    </td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@ image:    "icon-the-power-of-the-powerless.svg"
    <th style="width:1.5in; "><p>Dictatorships<br>& Democracies</p></th>
    <td>
     <p>People&rsquo;s effort and commerce fuels dictatorships <em>and</em> democracies alike. This is not to say that they are alike: by far, democracy is preferable to dictatorship (<em>i.e.</em>, I&rsquo;ve lives under both systems). But the fact still remains that they are both fueled by people&rsquo;s effort and commerce.</p>
-    <p>Through their efforts and commerce, people create wealth. In dictatorships, a lot of it goes to the State; in democracies, much of it goes to businesses and then the State. People keep enough to make a living, through many not even than, and some public goods trickle down from the State (<em>e.g.</em>, roads, bridges, public schools).<a href="#en13"><sup id="bm13">&hairsp;&nabla;&hairsp;</sup></a> In other words, this wealth creates some public goods, but the overwheling portian of it ends up in private hands. But even these public goods benefit <em>primarily</em> the interests of businesses and the State. Roads and bridges make it possible for people to get to work to create wealth for businesses and the same roads and bridges make it easier to move the tanks where the State needs the muscle. It so happens to be the same roads and bridges that people use to go to the beach on weekends.</p>
+    <p>Through their efforts and commerce, people create wealth. In dictatorships, a lot of it goes to the State; in democracies, much of it goes to businesses and then the State. People keep enough to make a living, through many not even than, and some public goods trickle down from the State (<em>e.g.</em>, roads, bridges, public schools).<a href="#en13"><sup id="bm13">&hairsp;&nabla;&hairsp;</sup></a> In other words, this wealth creates some public goods, but the overwheming portion of it ends up in private hands. But even these public goods benefit <em>primarily</em> the interests of businesses and the State. Roads and bridges make it possible for people to get to work to create wealth for businesses and the same roads and bridges make it easier to move the tanks where the State needs the muscle. It so happens to be the same roads and bridges that people use to go to the beach on weekends.</p>
    <p>I should also point out that in both dictatorships and democracies a lot of this wealth ends up in the so-called <em>industrial-military complex</em>.<a href="#en14"><sup id="bm14">&hairsp;&nabla;&hairsp;</sup></a></p>
     <p>Most of us learn to see this centralization of power as a positive thing, &rdquo;<em>thank goodness, because if it weren&rsquo;t for the State/businesses/military would not have nice things like bridges, roads, and schools.</em>&rdquo; Sadly, even though this system is literally unsustainable, this mindset stops us from doing anything about it. We need to decentralize decision-making. Centralization is not good for us. It is hostile to innovation and even hostile to commerce. What innovation there is, (<em>e,g,</em>, in medicine) is accidental and it overwhelmingly ends up as private goods.</p>
    </td>
@@ -159,7 +159,7 @@ image:    "icon-the-power-of-the-powerless.svg"
   </li>
   <li id="en02">
    <p class="_list-item">
-    According to Havel, the <em>Left</em> or <em>Right</em> labels don&rsquo;t matter all dictatorships are the same. The same observation was made by Etienne de la Boetie in 1577 in <em>The Politics of Obedience: The Discourse of Volutary Servitude</em>. &ldquo;&hellip; <em>even millions cling to the tyrant by this cord to which they are tied</em>.&rdquo;.
+    According to Havel, the <em>Left</em> or <em>Right</em> labels don&rsquo;t matter all dictatorships are the same. The same observation was made by Etienne de la Boetie in 1577 in <em>The Politics of Obedience: The Discourse of Voluntary Servitude</em>. &ldquo;&hellip; <em>even millions cling to the tyrant by this cord to which they are tied</em>.&rdquo;.
     <<a href="https://radicals.world/7cmqB2" target="_blank">&hellip;/radicals.world/7cmqB2</a>>
    </p>
    <p class="_list-item">
@@ -242,7 +242,7 @@ image:    "icon-the-power-of-the-powerless.svg"
   </li>
   <li id="en12">
    <p class="_list-item">
-    Chinese-style dictatorships&rsquo;s &ldquo;ideology&rdquo; seems to be something like, &ldquo;<em>Work hard, become wealthy, and we'll leave you alone unless you threaten our political control (and then we'll dissappear you). If you are <em>not</em> wealthy, be obedient and  get back work (<em>i.e.</em>, to create wealth for us).</em>&rdquo;
+    Chinese-style dictatorships&rsquo;s &ldquo;ideology&rdquo; seems to be something like, &ldquo;<em>Work hard, become wealthy, and we'll leave you alone unless you threaten our political control (and then we'll disappear you). If you are <em>not</em> wealthy, be obedient and  get back work (<em>i.e.</em>, to create wealth for us).</em>&rdquo;
     <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -254,14 +254,14 @@ image:    "icon-the-power-of-the-powerless.svg"
   </li>
   <li id="en14">
    <p class="_list-item" style="padding-bottom:1px; ">
-    The same industrial-military complex that then President Eisenhower warned us about in his 1960 Farewell Address. The plan was to wind dow our military muscle after Wold War II, but the war hardware producers managed to put the kibash on that. They got the military hooked on war toys. The military in turn got Congress hooked on pork programs that got them re-elected (<em>i.e.</em>, and this is what blocked President Eisenhower). And these pork programs created jobs that generated wealth that the war hardware producers needed to kept the engine running.
+    The same industrial-military complex that then President Eisenhower warned us about in his 1960 Farewell Address. The plan was to wind donw our military muscle after Wold War II, but the war hardware producers managed to put the kibosh on that. They got the military hooked on war toys. The military in turn got Congress hooked on pork programs that got them re-elected (<em>i.e.</em>, and this is what blocked President Eisenhower). And these pork programs created jobs that generated wealth that the war hardware producers needed to kept the engine running.
     <<a href="https://radicals.world/f3Nboy" target="_blank">https://radicals.world/f3Nboy</a>>
     <a class="_uparrow" href="#bm14"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en15">
    <p class="_list-item">
-    The story goes that in the <em>People&rsquo;s Republic of China</em> (PRC) dictatorship, private businesses and centralized political power co-habitate peacefully. You can have it all. At least that's the mirage created and maintained for people outside the PRC. As the latest Party boss, Xi Jinping has shown, the so-called-private companies can be brought to kneel by the dictatorships at any time. What really is going on is that the regime allows a handful of people (<em>i.e.</em>, the very rich and the upper middle class) to live well so long as they &ldquo;follow our orders, or else.&rdquo;
+    The story goes that in the <em>People&rsquo;s Republic of China</em> (PRC) dictatorship, private businesses and centralized political power cohabitate peacefully. You can have it all. At least that's the mirage created and maintained for people outside the PRC. As the latest Party boss, Xi Jinping has shown, the so-called-private companies can be brought to kneel by the dictatorships at any time. What really is going on is that the regime allows a handful of people (<em>i.e.</em>, the very rich and the upper middle class) to live well so long as they &ldquo;follow our orders, or else.&rdquo;
     <a class="_uparrow" href="#bm15"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>

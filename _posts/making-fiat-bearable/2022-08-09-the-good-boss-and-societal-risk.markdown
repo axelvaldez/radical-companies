@@ -17,7 +17,7 @@ image:    "icon-the-good-boss.svg"
 <h1>Claude Shannon</h1>
  <p>The poster child for autonomy was Claude Shannon who was given even wider latitude than usual given his professors recommendations to Ma Bell. They had  an intuition that he would do great things if left to his own devices. So the Labs went out of its way to let Shannon pick his work.</p>
  <p>Eventually, he would write a text on Information Theory that would define the “bit” and other concepts about how information could be measured and thought about. It was groundbreaking and ripples of his achievement are still being strongly felt to this day.</p>
- <p>Later, Shannon would work on automated chess machines and other electronic inventions. The works was important, too,to some degree, but he never again produced anything like Information Theory.</p>
+ <p>Later, Shannon would work on automated chess machines and other electronic inventions. The works was important, too, to some degree, but he never again produced anything like Information Theory.</p>
  <p>Imagine now for a moment that he had been directed to tackle the automated chess games and other electronic machines <em>before</em> he had written about Information Theory. Or he might have been encouraged to stay the course with his inventions. Or perhaps he would have been encouraged to leave and take up an academic position.</p>
  
  <h1>Better than Bell Labs</h1>

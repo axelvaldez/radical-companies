@@ -23,7 +23,7 @@ image:    "icon-you-will-never-give-up-power.svg"
  <p>You don&rsquo;t even need to actually be successful. Heck, you can fail multiple times and that adds to your <em>bona fides</em>. And that&rsquo;s what makes the exalted CEO.</p>
 
 <h1>&ldquo;Yes, I am the CEO&ldquo;</h1>
- <p>Imagine the dopamine surge when you&rsquo;re on the phone with a VC, rattle off all the &ldquo;right&rdquo; answers, they look back at you with a barely hidden smile of understanding, and a pleasurable feeling of legitimization washes over you.</p>
+ <p>Imagine the dopamine surge when you&rsquo;re on the phone with a VC, rattle off all the &ldquo;right&rdquo; answers, they look back at you with a barely hidden smile of understanding, and a pleasurable feeling of legitimatization washes over you.</p>
  <p>And, beyond feeling good, think of all that CEO confers to you,</p>
  <ul>
   <li>Dominance</li>
@@ -35,13 +35,13 @@ image:    "icon-you-will-never-give-up-power.svg"
 <h1>Dominance</h1>
  <p>You get to tell everyone what to do (<em>i.e.</em>, maybe even somebody who was your boss before). A <em>confident</em> CEO walks into a Board meeting and tells them how it&rsquo;s going to be (<em>i.e.</em>, whether they like it or not). A <em>ruthless</em> CEO makes sure to push out any Board member and executive that would oppose them. A <em>realistic</em> CEO can fire anyone according to the business&rsquo; needs.</p>
  <p>Every CEO in Silicon Valley, from the most benign to the most tyrannical, is in the cultural shadow of the ultimate entrepreneur: Steve Jobs. I&rsquo;m a little ashamed to tell you, but I cried when Steve Jobs died, it had such an unexpected emotional effect on me. After composing myself, I went downstairs and told my Dad about it, and he teared up as well.</p>
- <p>What was at work inside of us? Here was the death of a spiritual father: flawed, abusive, persuasive, and preceived in charge of the cultural movement, in addition to being a founder and &ldquo;firm hand&rdquo; of Apple Computers. The Macintosh was instrumental to our lives, and livelihood, and it would not be what it is today without the Macintosh.</p>
+ <p>What was at work inside of us? Here was the death of a spiritual father: flawed, abusive, persuasive, and perceived in charge of the cultural movement, in addition to being a founder and &ldquo;firm hand&rdquo; of Apple Computers. The Macintosh was instrumental to our lives, and livelihood, and it would not be what it is today without the Macintosh.</p>
 
 <h1>Ascription</h1>
  <p>Why was I tearing up Steve Jobs&rsquo; death? Ascription. He was not the sole progenitor of all things Apple, but he was its CEO and one of the rights conferred to him is universal ascription: good or bad, he gets the credit or the blame. The Apple 2, the Mac, iPod, and iPhone were all ascripted to him. Yes, there are mentions of his lieutenants, but never without also mentioning him.</p>
 
 <h1>Stock and Money</h1>
- <p>As the CEO of Apple, he had plenty of stock and cash. Steve Jobs was in such a good financial position that he could forgo a salary (<em>i.e.</em>, in exchange for an enormous amount of stock). The CEO gets the lionshare of the company&rsquo;s granted stock. In spite of rounds of dilution, the CEO gets most of it. As Mel Brooks once said, &ldquo;It&rsquo;s good to be the King.&rdquo;</p>
+ <p>As the CEO of Apple, he had plenty of stock and cash. Steve Jobs was in such a good financial position that he could forgo a salary (<em>i.e.</em>, in exchange for an enormous amount of stock). The CEO gets the lions&rsquo; share of the company&rsquo;s granted stock. In spite of rounds of dilution, the CEO gets most of it. As Mel Brooks once said, &ldquo;It&rsquo;s good to be the King.&rdquo;</p>
  <p>This betrays another benefit that is the most implicit: the place in society of the CEO. You have an exalted place. Being at the top of the hierarchy means that you are at the top of society.</p>
  <p>That&rsquo;s what I heard in my friend&rsquo;s voice saying that he was the CEO. The feeling that comes along with the title makes it very difficult to see the benefits of decentralizing power and making your organization transparent. Just being the CEO put you in the right. And being righteous makes you blind to anything better. And this is what adoption of the RADICAL model is up against: perverted joy blinding us from the better world.</p>
 
