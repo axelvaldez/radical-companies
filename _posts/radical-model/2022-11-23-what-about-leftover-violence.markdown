@@ -24,7 +24,7 @@ image:    "icon-what-about-leftover-violence.svg"
  <p>In other words, he who makes things less transparent, also makes things more centralized, and vice versa. That is the temptation that will be present for a long time. It may not always work, but to resist it, talk.</p>
 
 <h1>Learn from Each Other</h1>
- <p>Some numbers appear scary, some people will panick, and some even make dramatic exits. The <span class="_paradigm">Radical</span> is to have a conversation, And by &ldquo;discuss&rdquo; I mean learn from each other,</p>
+ <p>Some numbers appear scary, some people will panic, and some even make dramatic exits. The <span class="_paradigm">Radical</span> is to have a conversation, And by &ldquo;discuss&rdquo; I mean learn from each other,</p>
   <ul>
    <li>Learn about a different way of looking at these numbers that will make the fears go away.</li>
    <li>The fearful and the fearless will have something to contribute.</li>

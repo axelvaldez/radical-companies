@@ -30,7 +30,7 @@ image:    "icon-the-roots-of-radical.svg"
  <ul>
   <li>It feeds on enclosures. What used to be for the use by the community is now for the exclusive use of the brute who moved all others out by force.</li>
   <li>In modern times, the &ldquo;force&rdquo; can be gentle and pass unnoticed, but it is force nevertheless (<em>e.g.</em>, think of Facebook and the software giants).</li>
-  <li>People are diivided by what has come to be known as classes.</li>
+  <li>People are divided by what has come to be known as classes.</li>
   <li>Classes struggle and sometimes it ends up in bloody revolutions.</li>
   <li>All of these sacrifices end up ushering a new set of bosses, but the <span class="_paradigm">Fiat</span> stays in place.</li>
   <li>At one end, it results in an absolute &ldquo;leader&rdquo; who aims to stay forever.</li>

@@ -40,7 +40,7 @@ image:    "icon-the-radical-foundation-revised.svg"
 
 <h1>Meaning and Belonging</h1>
  <p>Meaning and Belonging cannot be separated. <em>Belonging</em> is key to <em>Meaning</em> to the individual, but it is something we get primarily from others in the community we that we are part of. If I make a spear to fish, it becomes significant to myself next time I am hungry and I eat the fish that I caught with my spear. But when I see <em>somebody else</em> make a spear like mine to fish, that is when my spear, my expression, becomes a contribution!</p>
- <p>Rather than &ldquo;principles,&rdquo; this sould relabled &ldquo;people&rdquo; to make it super-obvious that <em>people</em> are the basis of it all.</p>
+ <p>Rather than &ldquo;principles,&rdquo; this should re-labled &ldquo;people&rdquo; to make it super-obvious that <em>people</em> are the basis of it all.</p>
 
 <h1>Decentralization & Transparency</h1>
  <p>Decentralization and Transparency are somewhat redundant.</p>
@@ -54,7 +54,7 @@ image:    "icon-the-radical-foundation-revised.svg"
  <p>Experimentation, on the other hand, applies to every <span class="_paradigm">Radical</span> practice. The result may or may not meet our expectations (<em>i.e.</em>, our hypothesis), but even when it does not, it serves to teach us a lesson and we learn.</p>
 
 <h1>Tools</h1>
- <p>Toos are not technically a part of the <span class="_paradigm">Radical</span> foundation itself; you can be on the <span class="_paradigm">Radical</span> path and use diffferent tools. No matter, this is what we&rsquo;ve come up with, so far,</p>
+ <p>Tools are not technically a part of the <span class="_paradigm">Radical</span> foundation itself; you can be on the <span class="_paradigm">Radical</span> path and use different tools. No matter, this is what we&rsquo;ve come up with, so far,</p>
  <div class="_center">
   <table class="_h2table">
    <tr id="_background">
