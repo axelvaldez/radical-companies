@@ -23,7 +23,7 @@ hidden:   true
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Posits</h1>
  <p>They were walking about an empty lot and they watched a handful of kids come out of a large house to their left. The kids noticed them and waved, but kept walking towards the nearby road. Bayta sped up a little and got close enough to them to call out. They kept talking but stopped to wait for Bayta and her companions.</p>
  <p>&ldquo;Hi. Are you visiting?&rdquo; One kid said, the tallest in the group.</p>
- <p>&ldquo;Yeah. Kind of. We are passing by. They are going on a long trip.&rdquo; Bayte pointed to Petra and Ignatius who were about 10 meters behind her. Speaking to the two of them, she said, &ldquo;Do you want to talk to these people?&rdquo;</p>
+ <p>&ldquo;Yeah. Kind of. We are passing by. They are going on a long trip.&rdquo; Bayta pointed to Petra and Ignatius who were about 10 meters behind her. Speaking to the two of them, she said, &ldquo;Do you want to talk to these people?&rdquo;</p>
  <p>Ignatius leapt forward and said, &ldquo;yes, for sure.&rdquo;</p>
  <p>&ldquo;What is it?&rdquo; said the tall girl.</p>
  <p>&ldquo;Oh, nothing in particular, is just that we are not from around here and it&rsquo;d be cool to talk to you all for a bit.&rdquo; Ignatius looked a bit nervous. That actually helped because the tall kid said, &ldquo;Sure, we can hang out. And you don&rsquo;t have to fret.&rdquo;</p>
@@ -142,11 +142,11 @@ hidden:   true
  <p>&ldquo;But we don&rsquo;t have to. We would not be &lsquo;like wild animals,&rsquo;&rdquo; Petra responded, equally focused on Ignatius. They were now like one person having an internal conversation. &ldquo;We&rsquo;d figure out how to live with each other instead of dominating one another. No domination, no violence.&rdquo;</p>
  <p>Petra broke from Ignatius and looked at me, &ldquo;The ones acting like wild animals are the Far and his whole gang. They are feeding off us. We are even sent to subjugate other people for them, so they can have even more people to suck dry.&rdquo; With those words, Petra stood differently: a puppet with no strings to hold her down.</p>
  <p>&ldquo;The funny thing is this book with childlike adults, with no curiosity,&rdquo; said Ignatius. &ldquo;It&rsquo;s just like The Bracia!&rdquo;</p>
- <p>&ldquo;Oh, you were reading The Time Machine? Hurray for the decorations.&rdquo;</p>
+ <p>&ldquo;Oh, you were reading The Time Machine? Hoorray for the decorations.&rdquo;</p>
  <p>Ignatius looked puzzled.</p>
  <p>&ldquo;I wasn&rsquo;t making fun of you. I thought of those books as decorations and that&rsquo;s why I said that. And, yes, I guess H G Wells was sensitive to the problem that violence and domination creates for people on both sides of it.&rdquo;</p>
  <p>&ldquo;The Far and his ilk are like the Morlocks,&rdquo; continued Ignatius. &ldquo;We should call them that.&rdquo;</p>
- <p>&ldquo;Maybe. But think of the impact that doing that would have on you and Petra. Maybe, rather than fighting The Brecia bosses, consider embracing them.&rdquo;</p>
+ <p>&ldquo;Maybe. But think of the impact that doing that would have on you and Petra. Maybe, rather than fighting The Bracia bosses, consider embracing them.&rdquo;</p>
  <p>Ignatius took a step back and Petra got up with a fierce look on her face. &ldquo;Embrace them?&rdquo; she said in a restrained voice. &ldquo;And become like them?&rdquo;</p>
  <p>&ldquo;I didn&rsquo;t say anything about becoming like them. I said to consider <em>embracing</em> them. Not to sympathize with their manipulation and their actions, but they, and their families, are their own victims.&rdquo;</p>
  <p>From the glazed look on Petra&rsquo;s eyes, it was obvious that she had gone inside herself. Ignatius went to the kitchen and Petra turned and went upstairs. After so much emotion, the room felt cold so I went outside. There I realized that I was really experiencing fear and self-blame. I may have gone too far, too fast. They may not have been ready. I meditated and came out refreshed. After putting my fears in perspective, I went back inside and sat facing the back of the house, expecting them to come from upstairs and the kitchen. Then, after a bit, I realized that the back door was open. I came to it and saw them sitting in the middle of what would have been the backyard at one point having an animated conversation.</p>
