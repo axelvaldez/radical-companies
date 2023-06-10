@@ -7,11 +7,11 @@ image:    "icon-gifting-rads.svg"
 ---
 
 <div style="display:none;">
- <p>The <span class="_paradigm">RAD</span>s were given to me in recognition of <em>my</em> contributions. Gifting my <span class="_paradigm">RAD</span>s to someone else doesnt feel right. But then again, they were given to me without any strings attached.</p>
+ <p>The <span class="_paradigm">RAD</span>s were given to me in recognition of <em>my</em> contributions. Gifting my <span class="_paradigm">RAD</span>s to someone else doesn&rsquo;t feel right. But then again, they were given to me without any strings attached.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The <span class="_paradigm">RAD</span>s were given to me in recognition of <em>my</em> contributions. Gifting my <span class="_paradigm">RAD</span>s to someone else doesnt seem right. But then again, they were given to me without any strings attached.</p>
+ <p>The <span class="_paradigm">RAD</span>s were given to me in recognition of <em>my</em> contributions. Gifting my <span class="_paradigm">RAD</span>s to someone else doesn&rsquo;t seem right. But then again, they were given to me without any strings attached.</p>
  <p>Rather, I could trade <em>the money</em> that&rdquo;s factored through it for booze, but the <span class="_paradigm">RAD</span>s themselves?</p>
 
 <h1><span class="_paradigm">RAD</span>s vs Results</h1>

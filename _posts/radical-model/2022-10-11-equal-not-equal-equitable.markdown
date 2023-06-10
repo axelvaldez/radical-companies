@@ -63,7 +63,7 @@ image:    "icon-equal-vs-equitable.svg"
  <ul>
   <li>Goes on all the time, not a quarter or a year later when memories get fuzzy.</li>
   <li>Are done by everybody, not just a small group.</li>
-  <li>Each co-owner doesn&rsquo;t need to be angelical or even benevolent. She just needs to know enough about the people she is recognizing. She may not know his name, but she knows that he talked to somebody who was down in the dump and by the end of it their mood had visibly improved. And, yes, this is biased by her mood, whether or not she likes the other co-owner, etc. But other co-owners are biased as well ih the other directions and overall they strike a much better balance than the one boss or a committee.</li>
+  <li>Each co-owner doesn&rsquo;t need to be angelical or even benevolent. She just needs to know enough about the people she is recognizing. She may not know his name, but she knows that he talked to somebody who was down in the dump and by the end of it their mood had visibly improved. And, yes, this is biased by her mood, whether or not she likes the other co-owner, etc. But other co-owners are biased as well in the other directions and overall they strike a much better balance than the one boss or a committee.</li>
  </ul>
  <p>Each member, then, is a co-owner who gets to distribute the ownership of the company and its dividends to other co-owners. And they do it all the time, as they see those contributions happen.</p>
  <p>They can do this via the <em><span class="_paradigm">RAD</span>s! mobile app</em>.</p>
