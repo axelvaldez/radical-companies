@@ -49,7 +49,7 @@ image:    "icon-disentangling-ownership.svg"
   <li id="en03">
    <p class="_list-item">
     Matt Perez, Adrian Perez.
-    <em>Disentabling Management.</em>
+    <em>Disentagling Management.</em>
     RADICAL COMPANIES blog. Sep 2022.
     <<a href="https://radicalcompanies.com/2022/09/13/disentangling-management.html" target="_blank">https://radicalcompanies.com/2022/09/13/disentangling-management.html</a>>.
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>

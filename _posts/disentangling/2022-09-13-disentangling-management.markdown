@@ -28,13 +28,13 @@ image:    "icon-disentangling-management.svg"
   <p>Raising capital is the job of the Big Boss, but oftentimes a Board member or two get it done. &ldquo;We&rsquo;ll <em>help</em> you with that.&rdquo;</p>
   <p>This always happens at the start of the business. Later it may happen when</p>
    <ul>
-    <li>The Board pushes for <em>growth</em> and new investors are sought to provide the cash. If this is a <em>down round</em>, Board memebers agree to be diluted (<em>i.e.</em>, to have their shares do down in value) given that without the extra cash they may be financially screwed.</li>
+    <li>The Board pushes for <em>growth</em> and new investors are sought to provide the cash. If this is a <em>down round</em>, Board members agree to be diluted (<em>i.e.</em>, to have their shares do down in value) given that without the extra cash they may be financially screwed.</li>
     <li>A Board member wants to partially cashout. He sells some of his shares to another investor and he, not the business, gets the cash</li>
     <li>If a Board member wants to fully cash out, the euphemism is that he is &ldquo;leaving his Board seat to pursue other projects.&rdquo;. The business may or may not get any cash out of these types of transactions.</li>
    </ul>
  <h2>Hiring</h2>
   <p>Putting together the Executive team is way up there in the Big Boss&rsquo; job description; it goes right under <em>make money for the board and the stockholder.</em></p>
-  <p>If you are within striking distance of an IPO or some other &ldquo;liquidity event,&rdquo; you hire a bunch of people with bona fide credentials from well known companies. You name them CxOs because a big part of your IPO story is having &ldquo;a strong team.&rdquo;</p>
+  <p>If you are within striking distance of an IPO or some other &ldquo;liquidity event,&rdquo; you hire a bunch of people with <em>bona fide</em> credentials from well known companies. You name them CxOs because a big part of your IPO story is having &ldquo;a strong team.&rdquo;</p>
   <p>If you are far from IPO, or past it, you want to hire an &ldquo;effective&rdquo; team, no matter how they go about it, even if they go about it ruthlessly. And when it comes to finances they will get you what you need one way or the other.</p>
   <p>In a smaller company, the Big Boss&rsquo; main job is to raise money and set strategy. So, he hires an executive team who can take care of everything else. These folks are mostly competent and even nice (but they are their way of being neither).</p>
  <h2>Firing</h2>
@@ -44,7 +44,7 @@ image:    "icon-disentangling-management.svg"
 
 <h1>The Lesser Bosses</h1>
  <h2>Hiring</h2>
-  <p>Except for their direct staff, the Lesser Bosses get involved in hiring just in case their boss asks. They really add no value to the process. In fact, they slow it down. After wasting a lot of time and effort accomodating the boss, and the delays that introduces, he does a very short &ldquo;interview&rdquo; and renders a final decision to hire or not. This happens after extensive interviewing by the team, people who know the subject matter well and are going to work with the candidate. Many Lesser Bosses go with the team&rsquo;s decision, but others don&rsquo;t, because &ldquo;I didn&rsquo;t like her&hellip; attitude&hellip; tatoos&hellip; questions.&rdquo;</p>
+  <p>Except for their direct staff, the Lesser Bosses get involved in hiring just in case their boss asks. They really add no value to the process. In fact, they slow it down. After wasting a lot of time and effort accommodating the boss, and the delays that introduces, he does a very short &ldquo;interview&rdquo; and renders a final decision to hire or not. This happens after extensive interviewing by the team, people who know the subject matter well and are going to work with the candidate. Many Lesser Bosses go with the team&rsquo;s decision, but others don&rsquo;t, because &ldquo;I didn&rsquo;t like her&hellip; attitude&hellip; tatoos&hellip; questions.&rdquo;</p>
   <p>In a co-managed company,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> the people who are going to team up with the candidate make the final decision to hire or not. They may even do away with the interview altogether because the candidate is not just a vessel of cognitive skills, the rest of her comes along with it, and her contributions come from her whole person.</p>
  <h2>Firing</h2>
   <p>Firing is usually left to the Lesser Boss. Many of them dislike doing it, so they ignore it or postpone doing it until things come to a head. In a co-managed company, the team can eject a person and tell him the reasons why directly. No boss needed.</p>
@@ -63,7 +63,7 @@ image:    "icon-disentangling-management.svg"
   <p>The Lesser Bosses are, in theory, responsible for many, many other things. Unfortunately, these things go undone or are done sporadically because the Lesser Bosses spend their time doing one thing or another for their bosses.</p>
 
 <h1>Disentangling Management</h1>
- <p>Other than creating an illusion of control, the <span class="_paradigm">Fiat</span> hierarchy is hostile business. It makes innovation nearly impossible and a tremendous amount of money and effort is wasted on the hierachy and &ldquo;control theater.&rdquo;</p>
+ <p>Other than creating an illusion of control, the <span class="_paradigm">Fiat</span> hierarchy is hostile business. It makes innovation nearly impossible and a tremendous amount of money and effort is wasted on the hierarchy and &ldquo;control theater.&rdquo;</p>
  <p>Non-<span class="_paradigm">Fiat</span>-hierarchical companies are more efficient because they let go of the illusion of control and let people co-manage themselves. In any case, this and co-ownership is where all businesses are headed. As the next stage of evolution is for businesses to transform to co-owned and co-managed companies.</p>
  <div class="_center">
   <table class="_h2table">
@@ -105,7 +105,7 @@ image:    "icon-disentangling-management.svg"
     <th>One-on-ones</th>
     <td>
      <p>Today, part of this ritual is to get a sense, through our boss, of how the hierarchy perceives you, what are your chances for promotion or a raise.</p>
-     <p>In a co-managed company, anybody in your team can give you feedback on your way of relating to others or your work. You chances of &ldquo;getting a raise&rdquo; is not up one person, your boss, but by your contributionsl.</p></td>
+     <p>In a co-managed company, anybody in your team can give you feedback on your way of relating to others or your work. You chances of &ldquo;getting a raise&rdquo; is not up one person, your boss, but by your contributions.</p></td>
    </tr>
    <tr>
     <th>Career developmentt</th>
@@ -127,7 +127,7 @@ image:    "icon-disentangling-management.svg"
    <tr>
     <th>Team Health</th>
     <td>
-     <p>Lesser Bosses don&rsquo;t measure teams&lsquo; health. They don&rsquo;t do it at all or, at best, they don't do it consistenly. And, really, they don't have the tools (<em>e.g.</em>, the language) to do it.</p>
+     <p>Lesser Bosses don&rsquo;t measure teams&lsquo; health. They don&rsquo;t do it at all or, at best, they don't do it consistently. And, really, they don't have the tools (<em>e.g.</em>, the language) to do it.</p>
      <p>Teams can do this themselves, but if they need to, they can form a triad with one or more people external to the team (<em>i.e.</em>, triads are not limited to individuals, it can involve groups of people, too).</p>
     </td>
    </tr>

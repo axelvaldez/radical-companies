@@ -41,7 +41,7 @@ image:    "icon-disentangling-investments.svg"
  <p>For example, the real estate business investment acts more like a riskier loan, IMO. The real asset doesn&rsquo;t exist yet, you have to build it. So, you put together several Angel-like investors  to raise the money you need to buy materials and hire the people to put them all together into a real estate asset (<em>e.g.</em>, an office building, a residential developmenttt, a hotel).</p>
  <p>The risk is that the developer fails to finish the asset and you lose the money you invested. The Return on that Investment (ROI) is usually a percent of the profits. Kind of like a forever annuity.</p>
 
-<h1>>RADICAL Investments</h1>
+<h1>Radical Investments</h1>
  <p>These are a combination of Angel investments and real estate investment. They return the principle investment plus,</p>
   <ul>
    <li>a percentage or multiple of it</li>
@@ -52,7 +52,7 @@ image:    "icon-disentangling-investments.svg"
 <h1>An Experiment</h1>
  <p>You can experiment with a small investment or even money that you are putting up out of your own pocket. This will serve to get everybody comfortoble with how it works. Keep in mind that every co-owner will be part of honoring the terms of the investment.</p>
  <p>The first thing to keep present is that this is an investment and if things go belly up with the company,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> that money is gone. When things to well, the investment money and profits are paid according to the terms. Let&rsquo;s say the agreement is to pay back twice the principle, say, $100,000 within 48 months. In that case you need to accumulate $200K in the next 48 months.</p>
- <p>There are at least two ways to treat debt repayment: as an company obligation or as an obligation of the present co-owners. As a company obligation it applies to present <em>and future</em> co-owners; otherwise, it is treated as an obligation to current co-owners via a <span class="_paradigm">BANNER</span>. An investment can only be treated as a company obligation because the resutl (<em>i.e.</em>, company growth) benefits all co-owner, current and future.</p>
+ <p>There are at least two ways to treat debt repayment: as an company obligation or as an obligation of the present co-owners. As a company obligation it applies to present <em>and future</em> co-owners; otherwise, it is treated as an obligation to current co-owners via a <span class="_paradigm">BANNER</span>. An investment can only be treated as a company obligation because the result (<em>i.e.</em>, company growth) benefits all co-owner, current and future.</p>
  <p>As a company obligation, the repayment is taken out of revenue (<em>i.e.</em>, it is not included in the earned dividends).<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> You may decide to put away $8,334 (<em>i.e.</em>, 1/24<sup>th</sup> of $200K) every month into a repayment fund; alternatively, you could put away a percentage of revenue every month and as revenue grows, the amount put away will grow as well. In any case, by the end of the 48 months all present and future co-owners would have sacrificed a portion of their earned dividends to repay the investment.</p>
 
 <h1 class="_section">ENDNOTES</h1>

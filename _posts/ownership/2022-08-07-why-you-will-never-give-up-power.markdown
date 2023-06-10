@@ -20,7 +20,7 @@ image:    "icon-you-will-never-give-up-power.svg"
  to found a Venture backed business (<span style="font-size:larger; ">flex</span>) that
  would IPO shortly (<span style="font-size:x-large; ">flex</span>).
  Any one of these titles puts you in the winner category, a mover and shaker, the people who are locally admired. A football star? Meh!</p>
- <p>You don&rsquo;t even need to actually be successful. Heck, you can fail multiple times and that adds to you bona fides. And that&rsquo;s what makes the exalted CEO.</p>
+ <p>You don&rsquo;t even need to actually be successful. Heck, you can fail multiple times and that adds to your <em>bona fides</em>. And that&rsquo;s what makes the exalted CEO.</p>
 
 <h1>&ldquo;Yes, I am the CEO&ldquo;</h1>
  <p>Imagine the dopamine surge when you&rsquo;re on the phone with a VC, rattle off all the &ldquo;right&rdquo; answers, they look back at you with a barely hidden smile of understanding, and a pleasurable feeling of legitimization washes over you.</p>
