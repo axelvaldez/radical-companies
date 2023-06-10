@@ -158,7 +158,7 @@ image:    "icon-ptsd-and-trust.svg"
 <!-- Explicit Relationship  Table -->
   <table class="_h2table">
    <tr>
-    <th>The world as experienced by you (umwelt)</th>
+    <th>The world as experienced by you (Umwelt)</th>
     <td>
      <ul>
       <li>How do you show up? Who are you?</li>

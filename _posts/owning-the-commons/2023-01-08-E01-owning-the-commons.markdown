@@ -50,7 +50,7 @@ image:    "icon-owning-the-commons-1-3.svg"
   <li>Eventually, one family leaves.</li>
   <li>They continue to be co-owners of the land and continue to receive any money that accrues from it.</li>
   <li>As every day goes by, the people actively contributing to the land and its fruitfulness continue to receive <span class="_paradigm">RAD</span>s.</li>
-  <li>Those who left do not receive any more <span class="_paradigm">RAD</span>s, so every day their percentage goes down, and down, and down, and &hellip .</li>
+  <li>Those who left do not receive any more <span class="_paradigm">RAD</span>s, so every day their percentage goes down, and down, and down, and &hellip; .</li>
  </ul>
  <p>It all happens without shoot-them-ups or anything like that. Nothing but people helping each other out, creating a community, and learning from each other.</p>
  <p></p>

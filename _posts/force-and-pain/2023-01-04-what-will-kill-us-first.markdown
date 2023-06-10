@@ -44,7 +44,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>In sheer numbers, there is more research, but it trends towards improvement and not discovery. This is really bad because we can recognize and celebrate improvements (&ldquo;Wow, that’s going to make us live longer!&rdquo;), but we don’t recognize discoveries until it hits us in the face (&ldquo;WAT? We can generate energy like the Sun does?&rdquo;).</p>
 
 <h1>Fragile Food</h1>
- <p>Another example comes from our food supply: food productiopn is getting more and more fragile as we consume fewer and fewer food varieties.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Another example comes from our food supply: food production is getting more and more fragile as we consume fewer and fewer food varieties.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
  <div class="_quotation">
   <p>&ldquo;The ways in which plants are used by societies around the world have narrowed drastically over the past 500 years.&rdquo;<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>&ldquo;Crop growers worldwide face enormous challenges. Plants are becoming less resistant to pests and diseases. Crops are more likely to be damaged or fail because of droughts, heatwaves, floods, salinization and rising sea levels. Soils are degraded; rivers and watersheds are polluted; and the diversity and abundance of crop pollinators are in steep decline.&rdquo;</p>
@@ -68,7 +68,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>This will happen to us, and the Anthropocene will end, if we don’t do something about the direction we are going. Our fossil fuel car is heading towards world-wide homogeneity and climate change.</p>
 
 <h1>RADICAL Mindset</h1>
- <p>One way to protect us against this is a mindset of co-management and co-ownership. If we manage to spread it widely, then we will have a chance to not end up in the same place we are today, with competition rampant, and domination as the only humanity-wide <em>umwelt</em>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
+ <p>One way to protect us against this is a mindset of co-management and co-ownership. If we manage to spread it widely, then we will have a chance to not end up in the same place we are today, with competition rampant, and domination as the only humanity-wide <em>Umwelt</em>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
  <p>The RADICAL model consists of the RADICAL foundation, its tools, and new skills.</p>
 
  <h2>The RADICAL Foundation</h2>
