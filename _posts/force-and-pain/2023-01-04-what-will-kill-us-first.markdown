@@ -53,7 +53,7 @@ image:    "icon-what-will-kill-us-first.svg"
 <h1>It Has Happened Before</h1>
  <p>In <em>Profit: An Environmental History</em><a href="#en11"><sup id="bm11">&hairsp;&nabla;&hairsp;</sup></a> Mark Stoll documents, extensively, how competition has driven us to the spoilage of our environment multiple times. The process was not profitable for most people, either, who went to their early grave from overwork, malnutrition, and disease. Forests and the environment in general was devasted by sugar, tobacco, and other &ldquo;commercial&rdquo; crops. Over time they drained the land of nutrients and impoverished people&rsquo;s lives.</p>
  <p>This is not the first time that competition has driven us to collapse. The big problem now is that the specter of collapse is global. In fact, it won&rsquo;t be a collapse, as much as a near extinction. By near I mean that there will be enough of us left and we will eventually make a come back. The winner-takes-all <span class="_paradigm">Fiat</span> system of competition and dominance has been catastrophic and it would force us to replay the same old movie that ends up in collapse, again.</p>
- <p>We need to try a different system, one based on collaboration, not competition. Abundance, not scarcity. Co-manaagement and co-ownership, not masters and slaves.</p>
+ <p>We need to try a different system, one based on collaboration, not competition. Abundance, not scarcity. co-managementand co-ownership, not masters and slaves.</p>
 
 <h1>Strong Trend</h1>
  <p>Politically, our priorities are trending towards tweaking and avoiding risk. Worst, this trend is bringing about a world-wide monoculture in every aspect of our lives, in politics,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> science, food, etc.</p>
