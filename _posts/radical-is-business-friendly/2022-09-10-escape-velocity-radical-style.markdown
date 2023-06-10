@@ -16,9 +16,9 @@ image:    "icon-escape-velocity-radical-style.svg"
 <h1>Precursors</h1>
  <p><span class="_paradigm">Radical</span>-like groups have been around for a while: one comes up, others copy him, and they pick up some momentum, <em>but never enough</em>. The reasons range from the visionary leader passing away, dogma setting in, or the group being taken over by barbarians.</p>
  <p>What drives these barbarians to <em>take over</em>? Why do they believe they are winning when their chieftains get the long-term benefits of their work? Don&rsquo;t they, the people who do the <em>winning,</em> realize that they, too, can easily end up on the wrong side of this win-lose mindset?</p>
- <p>Or maybe <strong><em>we</em></strong> are all barbarians and we can&rsquo;t help it. It's just the human condition, so don&rsquo;t go against it. But, ifIn spite of it all, this, <span class="_paradigm">Radical</span>-like groups keep coming up, over and over again. Why?</p>
+ <p>Or maybe <strong><em>we</em></strong> are all barbarians and we can&rsquo;t help it. It's just the human condition, so don&rsquo;t go against it. But, if in spite of it all, this, <span class="_paradigm">Radical</span>-like groups keep coming up, over and over again. Why?</p>
  <p>Maybe, just maybe, it is because the <em>barbarian</em> thing is a system? It encourages and guides people to act like barbarians.</p>
- <p>Then, how  that leads some people to act like barbariansdid this system get started? And, why has it been so robust, so long-lasting?</p>
+ <p>Then, how  that leads some people to act like barbarians did this system get started? And, why has it been so robust, so long-lasting?</p>
 
 <h1>Money Did It</h1>
  <p>In <em>Debt: The First 5,000 Years</em><a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> author David Graeber proposes that the developmentt of coinage sparked the system we live in today. Author Paul Mason agrees,</p>
@@ -102,7 +102,7 @@ image:    "icon-escape-velocity-radical-style.svg"
        <p style="text-align:right; ">co-ownership</p>
       </th>
       <td>
-       <p>People who embody a company are co-owners of it and can earn a <em>dynamic</em> piece of the value tthough recognized contributios to what they have created together.</p>
+       <p>People who embody a company are co-owners of it and can earn a <em>dynamic</em> piece of the value through recognized contributions to what they have created together.</p>
        <p>Note that co-ownership, as we define it, doesn&rsquo;t depend on a <em>static</em> number of <em>shares</em>, whose financial value comes from trading them but from people&rsquo; contributions.</p>
       </td>
      </tr>
@@ -127,8 +127,8 @@ image:    "icon-escape-velocity-radical-style.svg"
    <li>The amount of RADs each person has earned determines their share of ownership (<em>i.e.</em>, the value created by all co-owners).</li>
    <li>The whole thing is transparent. Everybody can see who is given RADs to whom, how many RADs each co-owner has, etc. Among other benefits, this lets anybody raise a red flag when they see a problem.</li>
   </ul>
- <h2>Explicit Relatioships</h2>
-  <p><em>Explicit Relatioshipss</em> help people come together and build trust from the start.</p>
+ <h2>Explicit Relationships</h2>
+  <p><em>Explicit Relationships</em> help people come together and build trust from the start.</p>
   <p>Inspired by J Kim Wright&rsquo;s <em>Conscious Contracts<sup>®</sup></em> framework,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> an <em>Explicit Relationships</em> consists of four items that would-be co-owners discuss. Then, when they agree to come together as a community (see <a id="_aboutCommunity" href="#_appendix">Appendix</a>), they create an <em>Explicit Relationships</em> from their discussion notes.</p>
   <p>There are still lots of things to work out (<em>e.g.</em>, how to scale it), but so far we&rsquo;ve gotten good feedback, including this: <span class="_quotespan">some organizations never build up trust among people, even after years of operation.</span></p>
 

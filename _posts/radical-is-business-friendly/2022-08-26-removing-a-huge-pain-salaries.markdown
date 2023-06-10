@@ -30,15 +30,15 @@ image:    "icon-removing-a-huge-pain-salaries.svg"
 <h1>Give Everybody Stock?</h1>
   <p>Giving everybody stock is not the answer.</p>
   <p>I&rsquo;ve worked in high tech my whole adult life and I&rsquo;ve seen this movie many times: early employees get stock; later new people get less and less stock; finally the business stops giving out stocks. The &ldquo;employee pool&rdquo; is a fixed size and after a while it dries out.</p>
-  <p>In any case, regardless of the stock class they get (<em>e.g.</em>, founder, common), employees don&rsquo;t get anything other than <em>stock-as-afinancial promise</em>. Only <em>the Officers and the Board</em> (<em>i.e.</em>, capital investors) have any 1) control of the business itself and 2) get to extract real wealth from it (<em>e.g.</em>, a sale, loans against stock, sales of their stock). For example, patents belong to the business, gets converted to owners equity; the employee(s) who came up with it doesn&rsquo;t get any value out of it.</p>
+  <p>In any case, regardless of the stock class they get (<em>e.g.</em>, founder, common), employees don&rsquo;t get anything other than <em>stock-as-a-financial promise</em>. Only <em>the Officers and the Board</em> (<em>i.e.</em>, capital investors) have any 1) control of the business itself and 2) get to extract real wealth from it (<em>e.g.</em>, a sale, loans against stock, sales of their stock). For example, patents belong to the business, gets converted to owners equity; the employee(s) who came up with it doesn&rsquo;t get any value out of it.</p>
   <p class="_mb0">Other facts about stocks,
    <ul>
     <li>Stocks are given.</li>
-    <li>The amount of shares given is a <em>fixed mumber</em>.</li>
+    <li>The amount of shares given is a <em>fixed number</em>.</li>
     <li>Over time these can be diluted (<em>e.g.</em>, 1% today but 0.1% tomorrow).</li>
     <li>Employees have no control over the stock price. Bosses do and they usually decide on the side of what is good for them, not employees (or even investors).</li>
     <li>This &ldquo;gift&rdquo; is either arbitrary or the employee level determines the amount. All Jr Engineers get the same amount of stock and all Sr Engineers get more stock. This is true regardless of their individual contributions. A Sr Engineer who contributes a lot has the same amount of stock as another Sr Engineer who barely does his job.</li>
-    <li>There are exceptions and more aggressive people eak out more shares, but this is based on their aggressiveness, not their contributions.</li>
+    <li>There are exceptions and more aggressive people get more shares, but this is based on their aggressiveness, not their contributions.</li>
     <li>Cooperatives, Unions, B Corps, etc., are <span class="_paradigm">Fiat</span> organizations, too, and they see and use stocks the same way.</li>
    </ul>
   </p>
@@ -53,9 +53,9 @@ image:    "icon-removing-a-huge-pain-salaries.svg"
    </p>
    <p>Everybody does a little bit of the recognizing, which they enjoy, and money gets allocated according to that. If there are any complaints or questions, anybody can ask anybody else. The only work that managers have to do is to train people to <em>not come to him</em> with those complaints and questions but to go ask their teammates.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
 
-<h1>Elimninate Salaries</h1>
+<h1>Eliminate Salaries</h1>
  <p>You can&rsquo;t eliminate salaries. People have to pay their bills on a regular basis and they have to know how much they are going to take home so they can plan. People need a predictable and regular income (PR<span class="_paradigm">PRI</span>I). But, how to do this?</p>
- <p>Well, we already know what people are bringing in: we know their contributios and based on that we can calculate what their piece of this revenue is. We now need to know what they need to take home on regular basis. So we ask them (more <a>below</a>). If there is a difference, has to come out of somewhere. Given that there is no magic or a trunk full of treasure, we need a fund to be ready. We can budget for that, or we can borrow a few months&rsquo; worth of <span class="_paradigm">PRI</span>. For example, if 10 people need $10,000 per week, we need $260,000 in the <span class="_paradigm">PRI</span> fund, just in case,
+ <p>Well, we already know what people are bringing in: we know their contributions and based on that we can calculate what their piece of this revenue is. We now need to know what they need to take home on regular basis. So we ask them (more <a>below</a>). If there is a difference, has to come out of somewhere. Given that there is no magic or a trunk full of treasure, we need a fund to be ready. We can budget for that, or we can borrow a few months&rsquo; worth of <span class="_paradigm">PRI</span>. For example, if 10 people need $10,000 per week, we need $260,000 in the <span class="_paradigm">PRI</span> fund, just in case,
   <div style="text-align:center; ">
    <img
     src="/assets/img/pri-fund-260000.svg"

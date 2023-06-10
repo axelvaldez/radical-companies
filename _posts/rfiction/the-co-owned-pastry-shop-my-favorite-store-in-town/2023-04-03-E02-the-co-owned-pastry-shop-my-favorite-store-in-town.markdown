@@ -121,7 +121,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favorite-store-in-town.svg"
  <p class="_speakera">Yes, something like that.</p>
  <p class="_speakerb">Whatever the amount, that would work wonderfully.</p>
 
-<h1>Radical Investments</h1>
+<h1result</h1>
  <p class="_speakerb">What I have done with my <span class="_paradigm">Radical</span> investment is that if the co-workers are willing to match the 10% load that we have agreed to, then we put that 10% and their 10% in a pool and distribute according to <span class="_paradigm">RAD</span>s.</p>
  <p class="_speakera">Sorry, but I don&rsquo;t understand.</p>
  <p class="_speakerc">I don&rsquo;t understand, either.</p>

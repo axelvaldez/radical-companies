@@ -15,7 +15,7 @@ image:    "icon-fiat-hierarchy.svg"
 
 <h1>MONEY</h1>
  <p>Money is the most obvious <span class='_paradigm'>Fiat</span> benefit, but it also force.</p>
- <p>You ger,</p>
+ <p>You get,</p>
   <ul>
    <li>More buying power.</li>
    <li>The prestige of getting paid more than your peers.</li>
@@ -28,7 +28,7 @@ image:    "icon-fiat-hierarchy.svg"
  <p>In many ways, using <em>title</em> acknowledges the game that is played. If you are Senior Director or Vice President, then even if you do not have many people under you, it&rsquo;s grounds for getting paid more later. Because your title.</p>
  <p>I have another friend who is CEO of a business, and I cannot help but notice his pride when he says that he is “the CEO.” He does not pay himself that much, but he definitely cherishes the title. And it makes sense, in our society, CEOs can be elevated to rock star status. As some CEOs get paid three hundred times more than the lowest paid employee, you can imagine the emotional import of that <em>title</em>. You, as CEO, are potentially hundreds or thousands times paid more than most other people in your  business.</p>
  <p>Title bears the same property of hierarchy that seeking money does. If you go from being a Senior Director to a Vice President, your competence or direct power over others is unimportant. At the end of the day, you will get paid more. In our current <span class='_paradigm'>Fiat</span> hierarchical system, that&rsquo;s all that counts.</p>
- <p>People who compete for a fiven <em>title</em> are competing for a higher place in the hierarchy. We may not all be fluent with all the titles in play, but we all know that &ldquo;CEO&rdquo; is way at the top.</p>
+ <p>People who compete for a given <em>title</em> are competing for a higher place in the hierarchy. We may not all be fluent with all the titles in play, but we all know that &ldquo;CEO&rdquo; is way at the top.</p>
 
 <h1>EMPIRE</h1>
  <p><em>Empire</em> is the amount of people under you, creating wealth for the owners. Regardless of your current title, the more people who work for you, the better. This will eventually, you hope, lead to bigger titles and more money.</p>

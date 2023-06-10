@@ -1,13 +1,13 @@
 ---
 layout:   post
-title:    " Radical  Companies Solve Problems Faster than  Fiat  Businesses"
+title:    " Radical Companies Solve Problems Faster than Fiat Businesses"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "icon-radical-companies-solve-problems-faster-than-fiat-businesses.svg"
 ---
 
 <div style="display:none;">
- <p>In a traditional <span class="_paradigm">Fiat</span> business, there is an imposed chain of command. Most everything has to go up and down it. It is demoralazing and apathy inducing.</p>
+ <p>In a traditional <span class="_paradigm">Fiat</span> business, there is an imposed chain of command. Most everything has to go up and down it. It is demoralizing and apathy inducing.</p>
 </div>
 
 <h1>&nbsp;</h1>
