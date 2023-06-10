@@ -37,7 +37,7 @@ image:    "icon-small-bites-how-lockheed-martin-could-ease-into-using-rads.svg"
 <h1>Equitable Distribution</h1>
  <p>&ldquo;Equitable&rdquo; sounds good, but there isn&rsquo;t a generally agreed formula for it. People have tried all kinds, but none really work for long and are often tweaked. Eventually, they become unintelligible to most people, and mistrusted.</p>
  <p>We have not discovered a formula for it, either. What <span class="_paradigm">Radical</span> supports, and what a <span class="_paradigm">RAD<span>s do, is that it lets employees determine what a <em>valuable contribution</em> is.</p>
- <p>As an experiements, we could do the following,</p>
+ <p>As an experiments, we could do the following,</p>
   <ul>
    <li>Lockheed Martin employees would co-own the employee bonus pool.</li>
    <li>Each co-owner would recognize the contributions of other co-owners.</li>
@@ -136,7 +136,7 @@ image:    "icon-small-bites-how-lockheed-martin-could-ease-into-using-rads.svg"
  <ol>
   <li id="en01">
    <p class="_list-item">
-    Lockheed Marting Proxy Statement Executive Compensation.
+    Lockheed Martin Proxy Statement Executive Compensation.
     <<a href="https://www.google.com/search?client=firefox-b-1-d&q=Lockheed+Martin+Proxy+Statement+Executive+Compensation" target="_blank">https://radicals.world/V4Hf8o</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>

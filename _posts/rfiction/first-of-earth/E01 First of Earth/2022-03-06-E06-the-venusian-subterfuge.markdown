@@ -11,7 +11,7 @@ hidden:   true
  The Venus Habitat had figured out how to escape the Earth Authority's rules, but the good times are running out.
 </div>
 
-<h1>Venus: A New beggining&hellip;</h1>
+<h1>Venus: A New Beginning&hellip;</h1>
  <p>Brent looked out over the endless sea of clouds blanketing Venus. Every human space station, since Mir, has had a viewport to look out onto the cosmos. On the International Space Station it was the Cupola, a multifaceted observation area where you could look at the Earth for hours while you float in microgravity. In the Bigelow habitat, it&rsquo;s the Bubble, a three-sixty, inflatable sphere that lets you look at Jupiter in all of its intensity. And here, in the Glass Boat, while reclining on a comfortable couch staring through the floor at the clouds below, Brent made his plans to trick the Earth Authority delegation into believing that everything was in order.</p>
  <p>The Earth Authority had a few principles on which its authoritarian rule was founded: maintain the peace throughout the Solar system by keeping a strict hierarchy in every organization on Earth. This meant every organization had a CEO, a COO, and a CFO. There was even some wiggle room, for example, you could have a CXO for user experience. Or maybe you wanted to integrate well with non-profits and needed a CNGO, to interact with the Non-Governmental Organizations of the world. Below all of these were managers, and below them were lesser managers, and finally, hopefully, perhaps, people who actually did something.</p>
  <p>IT. WAS. THE. LAW.</p>
