@@ -48,7 +48,7 @@ image:    "icon-gov.svg"
    <p>Zoning strikes me as a weak way to try and control the worst tendencies of FIAT landowners. But keeping the &ldquo;bad&rdquo; buildings away from the residential buildings is not harmless. And it is not a solution, either. I&rsquo;d rather trust each hyper-local community, people who know each other, to make those decisions using the <span class="_paradigm">Radical</span> system rather than a city government.</p>
    <p>There might be a coordinating function needed as well as expertise but that can be handled by <span class="_paradigm">Radical</span> companies.</p>
    <p>Off the list.</p>
- <h2>Higiene: Waste Removal</h2>
+ <h2>Hygiene: Waste Removal</h2>
   <p>City governments already contract with private companies to do the removal work. Individual <span class="_paradigm">Radical</span> communities can do this easily, with transparency providing the coordinating function.</p>
  <h2>Municipal Courts</h2>
   <p>&ldquo;Crime&rdquo; in a <span class="_paradigm">Radical</span> community would be the exception and probably driven by mental imbalances that would be better taken care of by communities with the help of people who specialize in this kind of situation.</p>

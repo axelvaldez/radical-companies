@@ -28,16 +28,16 @@ image:    "icon-e11-and-then.svg"
  <p>&ldquo;The others went back. We didn&rsquo;t. Obviously,&rdquo; said the young woman. &ldquo;They&rsquo;ll report us as dead. We want to get as far away as we can from The Bracia.&rdquo; I looked at them and was about to speak when the young man said, softly, &ldquo;Yes, both of us. Together.&rdquo;</p>
  <p>&ldquo;Even if half of what you said is a lie,&rdquo; she said, &ldquo;we&rsquo;d rather stay out of that hell on Earth Surface.&rdquo; I was surprised how she mixed &ldquo;hell&rdquo; and &ldquo;Earth Surface&rdquo; in the same sentence. All I managed to say was, &ldquo;Uh, OK. Then follow me.&rdquo;</p>
  <p>I walked ahead of them, and without turning asked them their names.</p>
- <p>&ldquo;I am Ignacious. I am 18 years old. Not married.&rdquo;</p>
+ <p>&ldquo;I am Ignatius. I am 18 years old. Not married.&rdquo;</p>
  <p>&ldquo;And I am Petra. I am 20. I am married, but it doesn&rsquo;t matter. Not anymore.&rdquo;</p>
  <p>&ldquo;El<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> help us,&rdquo; said Ignatiuss, under his breath. But Petra heard him. &ldquo;El Shaddai is not going to help us. El is a burden on us, on all The Bracia. We have to help ourselves. We have to trust that these people will help us. If you want to pray, pray that they&rsquo;d be Yahweh M'kaddesh.&rdquo;</p>
  <p>&ldquo;I am not praying,&rdquo; said Ignatius, &ldquo;it was just something I said. Don&rsquo;t let your amygdala rule you.&rdquo;</p>
  <p>I heard Petra chuckled. Then I quickly turned around and took a brief glance, enough to see them walking behind me in an awkward hug.</p>
 
 <h1>Over the Hill</h1>
- <p>About three days later one of the people who had returned was found down from the hoodoos on the crest of a nearby hill. It seemed that he had spent the whole night there. It looked like he had been beaten and had bite marks in his legs and hips. He was almost nakes and we looked more dead than alive.</p>
+ <p>About three days later one of the people who had returned was found down from the hoodoos on the crest of a nearby hill. It seemed that he had spent the whole night there. It looked like he had been beaten and had bite marks in his legs and hips. He was almost naked and we looked more dead than alive.</p>
  <p>He stayed under an induced coma for almost three days. When he came out of it, the first words out of his mouth were, &ldquo;your brother&rsquo;s dead.&rdquo; The woman nurse was taken aback, but she quickly realized that he was delirious and had confused her for somebody else. It didn&rsquo;t take long for the word to get back to Petra that her brother was dead.</p>
- <p>&ldquo;Evidently, he took his own life when they found out that you and Ignacious were not dead after all. They found out when a few of the others confessed.&rdquo;</p>
+ <p>&ldquo;Evidently, he took his own life when they found out that you and Ignatius were not dead after all. They found out when a few of the others confessed.&rdquo;</p>
  <p>&ldquo;&lsquo;Confessions&rsquo; my eye. They were tortured, alright, but&hellip;&rdquo; Ignatius stopped in mid sentence and glimpsed at Petra.</p>
  <p>&ldquo;Yes, unless they declared what he said a mortal sin,&rdquo; Petra said. &ldquo;They&hellip; they made him kill himself.&rdquo; She stopped talking, her face became hard, and she dropped her head. I made a gesture to hug her and she hugged me hard. Just as suddenly, she let go and said, &ldquo;when can we leave?&rdquo;</p>
  <p>&ldquo;I&rsquo;ll grab my gear and we can go.&rdquo;</p>
@@ -65,7 +65,7 @@ image:    "icon-e11-and-then.svg"
 <h1>Gear and Transparency</h1>
  <p>&ldquo;Now that we are all up here, do you want to go over your gear?&rdquo;</p>
  <p>&ldquo;I looked,&rdquo; Ignatius said. &ldquo;It&rsquo;s mostly clothes in there&rdquo;</p>
- <p>&ldquo;Yes, but&hellip; let&rsquo;s go over it, OK? Most of it is the usual higiene stuff, but I want to tell you about the clothes, like the overall I am wearing.&rdquo; In the half gloom of the landing, I turned it on. &ldquo;Do you see it glow?&rdquo;</p>
+ <p>&ldquo;Yes, but&hellip; let&rsquo;s go over it, OK? Most of it is the usual hygiene stuff, but I want to tell you about the clothes, like the overall I am wearing.&rdquo; In the half gloom of the landing, I turned it on. &ldquo;Do you see it glow?&rdquo;</p>
  <p>&ldquo;Oh, yeah.&rdquo; said Petra, as she got closer and her arm extended towards my shoulder. &ldquo;That&rsquo;s something. Can I touch it?&rdquo;</p>
  <p>&ldquo;Of course. But you can do that with your clothes, too.&rdquo;</p>
  <p>They looked at each other, then at me, and then they rushed to their room. Petra came out with her jacket, but Ignatius put his overalls over his clothes. They touched it, and then looked at each other. Then they looked at me, expectantly.</p>
@@ -89,7 +89,7 @@ image:    "icon-e11-and-then.svg"
  <p>Ignatius slowly opened the door and the kid ran right in as soon as he could fit. Again, Ignatius and Petra looked at each other and she looked extremely pleased.</p>
  <p>As soon as they reached the kitchen, the introductions started. &ldquo;This is Ignatius, and this is Petra, and I am Bayta,<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> but everybody calls me Bay.&rdquo;</p>
  <p>&ldquo;Well, I am Ardeth, but everybody calls me Ard, and this is Bart, and he goes by Bart,&rdquo; everybody chuckled. &ldquo;And the little thing running around is Eden. At least, that he wants to be called now. We&rsquo;ll see how that turns out.&rdquo;</p>
- <p>Then, from the kitchen, came a loud, &ldquo;And I am Dinah, Di for short, and this is Elijah and we are doing some of the cooking tonight, well Elijah is. Come over here, and don&rsquo;t worry, he won&rsquo;t let you help.&rdquo; Then came a softer, &ldquo;I don&rsquo;t need any help. Heck, I don&rsquo;t want any help, but, yeah, come in here, I had my rabies shot already.&rdquo; Elihan and Di laughed at what was obviously a familiar joke.</p>
+ <p>Then, from the kitchen, came a loud, &ldquo;And I am Dinah, Di for short, and this is Elijah and we are doing some of the cooking tonight, well Elijah is. Come over here, and don&rsquo;t worry, he won&rsquo;t let you help.&rdquo; Then came a softer, &ldquo;I don&rsquo;t need any help. Heck, I don&rsquo;t want any help, but, yeah, come in here, I had my rabies shot already.&rdquo; Eliha and Di laughed at what was obviously a familiar joke.</p>
  <p>&ldquo;So, do they call you Iggy or something like that,&rdquo; asked Bart trying to start a conversation.</p>
  <p>Barely stopping eating, Ignatius said, &ldquo;Not really. Everybody calls me Ignatius or by my number, but I hate that. And don&rsquo;t call her Pet, she hates that even more.&rdquo; I jumped in to clarify, &ldquo;Ignatius and Petra are from The Bracia. They were in a battle unit over there and that&rsquo;s what the number is about.&rdquo;</p>
  <p>Di climbed on her elbows and leaned forward, halfway across the table and just looked at them. Finally, she said, &ldquo;Are you feeling welcome? If anything doesn&rsquo;t feel right, just tell us and we&rsquo;ll figure things out.&rdquo;</p>
@@ -112,7 +112,7 @@ image:    "icon-e11-and-then.svg"
  <p>&ldquo;But how?&rdquo; she asked.</p>
  <p>&ldquo;Does that mean,&rdquo; Ignatius asked, &ldquo;that most people here are from the same family?&rdquo;</p>
  <p>&ldquo;No. Maybe. But that&rsquo;s not the point. I imagine that when the previous owners left, nobody wanted to buy it. In those cases, several people formed a company, funded it, and the company then bought the house. Like I said, people rent for all kinds of events, not just lodging.&rdquo;</p>
- <p>Patra was intrigued, &ldquo;Formed a company?&rdquo; And so was Ignatius, &ldquo;Funded it?&rdquo;</p>
+ <p>Petra was intrigued, &ldquo;Formed a company?&rdquo; And so was Ignatius, &ldquo;Funded it?&rdquo;</p>
  <p>&ldquo;OK, I see. I&rsquo;ll explain the whole thing, but first: do you want to stay another day or do you want to continue your trip?&rdquo; They both wanted to stay another day. &ldquo;Got it. I am going upstairs to put on some clothes and then let&rsquo;s go on a walk. Maybe we&rsquo;ll meet some people.&rdquo;</p>
  <p>As they went out the door, Bayta got started. &ldquo;Let&rsquo;s start from the beginning. Decentralization is really important to us. In fact, the whole idea of a few people owning most of the wealth really is anathema to us. I mean, it&rsquo;s just weird that that system went on for so long, but I guess that proves that that divide-and-conquer worked and people just got used to it. In any case, in most RADICAL communities any group of people can come together as a company to create something or buy something or what have you. They can fund these companies with their work or with their COINs if they need to buy something. In this case I am guessing that some people formed a company and collected enough COINs to buy the house. They rent out and pay for maintenance and whatever else is needed. They also pay a bit into a community fund which does community projects with it. It&rsquo;s pretty typical.&rdquo;</p>
  <p>Bayta headed for a tree shade and sat, while Petra stood by, and Ignatius&hellip; Well, Ignatius could not stand still and he took to walking around the tree.</p>
