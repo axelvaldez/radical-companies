@@ -425,8 +425,7 @@ div._citation {
 }
 ._continue {
   content:"   ";
-  margin-left:2em;
-  text-indent:-1.5em;
+  margin-left:1.5em;
 }
 /*
  * dialog: end
