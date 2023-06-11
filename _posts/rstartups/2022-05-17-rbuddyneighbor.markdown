@@ -170,7 +170,7 @@ image:    "icon-buddyneighbor.svg"
  <p>It would be commuting with people who live nearby. People that you may even know. People you can have a lasting relationship with.</p>
 
 <h1>International</h1>
- <p>Has to work anywhere in the world, and across borders. See <em>Pickups</em>, below, under <em>Termimology</em>.</p>
+ <p>Has to work anywhere in the world, and across borders. See <em>Pickups</em>, below, under <em>Terminology</em>.</p>
  <p>For example, I can put in a request for Coyotas del Parque, Hermosillo. Somebody from my neighborhood who happens to be in Hermosillo, picks up my order and brings it. Since we live nearby, my Buddy let&rsquo;s me know when I can pick them up at his place.</p>
 
 <h1>Group Invitations (Community Organizing)</h1>
@@ -579,7 +579,7 @@ image:    "icon-buddyneighbor.svg"
   <li>Outlets can contribute to local funds and projects on behalf of <span class="_paradigm">rBuddyNeighbors</span>. Not, <span class="_quotespan">Check out your Tuesday discounts&rdquo; but &ldquo;come Tuesday and get your <span class="_paradigm">rBuddyNeighbors</span> and we&rsquo;ll contribute X% of all sales to &hellip;</span></li>
  </ul>
 
-<h1>Jose Contrera&rsquo;s Vision</h1>
+<h1>Jose Contreras&rsquo;s Vision</h1>
  <div class="_center">
   <table class="_background">
    <tr>
