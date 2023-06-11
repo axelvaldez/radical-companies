@@ -14,7 +14,7 @@ image:    "icon-the-radical-foundation-revised.svg"
  <p>The <span class="_paradigm">Radical</span> Foundation can be made a bit simpler and more focused.</p>
  <p>In the book <span class="_paradigm">RADICAL COMPANIES</span>, we described the Foundation like this,</p>
  <table align="center">
-  <tr style="_background">
+  <tr style="_foundation_">
    <th>principles</th>
    <td>Meaning & Belonging</td>
   </tr>
@@ -46,7 +46,7 @@ image:    "icon-the-radical-foundation-revised.svg"
  <p>Decentralization and Transparency are somewhat redundant.</p>
  <p>At the completely decentralized end everything will be 100% transparent. Completely decentralized means complete transparency.</p>
  <p>On the way to full decentralization you may consider keeping some things secret. The person charged with keeping them would be the boss of those secrets. The questions, then, would be,<span class="_quotespan">Who is going to be the boss of these secrets?</span> No matter if this is a very nice person, or a small, trusted committee with a term limit: so long as there are secrets, there is a boss.</p>
- <p>Even though these are redundant, I feel we need to make them both explicit. Sometimes we think we are decentralizing but when we look at the Transparency side we see incoherence. So,although decentralization implies transparency, we need both to keep us honest.</p>
+ <p>Even though these are redundant, I feel we need to make them both explicit. Sometimes we think we are decentralizing but when we look at the Transparency side we see incoherence. So, although decentralization implies transparency, we need both to keep us honest.</p>
 
 <h1>Explicit Alignment & Experimentation</h1>
  <p>Finally, we come to a leg of the <span class="_paradigm">Radical</span> foundation that needs to be changed.</p>
@@ -83,7 +83,7 @@ image:    "icon-the-radical-foundation-revised.svg"
    </tr>
    <tr id="_background">
     <th>Trust Agreements</th>
-    <td>Inspired by J Kim Wright&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building in a safe pace (psycholgically and physically).</td>
+    <td>Inspired by J Kim Wright&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building in a safe pace (psychologically and physically).</td>
    </tr>
    <tr>
     <th>Future Tools</th>

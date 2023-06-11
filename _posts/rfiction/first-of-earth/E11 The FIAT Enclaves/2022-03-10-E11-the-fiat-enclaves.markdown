@@ -22,7 +22,7 @@ image:    "icon-e11-and-then.svg"
  <p>A few communities had stuck to FIAT ways, but most were slowly evolving. People could see what was going on with their neighbors and broke away from communities that didn&rsquo;t evolve fast enough for them. Then, starting early in 2065, one FIAT region started to make it hard to break away and by the end of the year it had declared borders and completely closed them. In many ways, they were reminiscent of the old North Korean and Cuban dictatorships.</p>
  <p>The few of us who had lived through these regimes in the late and early 21<sup>th</sup> century were mildly concerned at first. By the time these regions had declared borders more people had become worried and were now paying attention. People became very alarmed when the region called The Bracia completely closed its borders. The off Earth Surface (FES) people who had lived under the Earth Authority&rsquo;s rule were more than alarmed and began to prepare for the worst.</p>
 
-<h1>Petra and Ignatiusssss</h1>
+<h1>Petra and Ignatius</h1>
  <p>Just before dawn, one of The Bracia fighting units came over the hill, dropped their weapons, and raised what passed as an old fashioned white flag. They came down with their hands up for some reason. It turned out that they were deserting and giving themselves up as prisoners. We took care of them as best we could and explained that they were welcome to stay as members of our community, just not as prisoners. I spent a few hours explaining how our Ensemble operated and then left them to rest.</p>
  <p>By next morning, they were ready to go back, resigned to fight for the only home they knew. All of them understood that The Bracia aggression was unnecessary, but nevertheless, most wanted to go back. By the end of the day  all but two had left.</p>
  <p>&ldquo;The others went back. We didn&rsquo;t. Obviously,&rdquo; said the young woman. &ldquo;They&rsquo;ll report us as dead. We want to get as far away as we can from The Bracia.&rdquo; I looked at them and was about to speak when the young man said, softly, &ldquo;Yes, both of us. Together.&rdquo;</p>
@@ -42,7 +42,7 @@ image:    "icon-e11-and-then.svg"
  <p>&ldquo;Yes, unless they declared what he said a mortal sin,&rdquo; Petra said. &ldquo;They&hellip; they made him kill himself.&rdquo; She stopped talking, her face became hard, and she dropped her head. I made a gesture to hug her and she hugged me hard. Just as suddenly, she let go and said, &ldquo;when can we leave?&rdquo;</p>
  <p>&ldquo;I&rsquo;ll grab my gear and we can go.&rdquo;</p>
  <p>They stayed outside while I changed into my field outfit and picked up my backpack. I called for a cruiser and both of them looked at first horrified as it came towards us and then surprised when it came to a stop. &ldquo;I take it you have not seen autonomous transports before?&rdquo;</p>
- <p>&ldquo;Yes, we have them, but only a few and all at the service of the Far, the Prime, and his closest people.&rdquo; Preta said and then she looked at Ignatius.</p>
+ <p>&ldquo;Yes, we have them, but only a few and all at the service of the Far, the Prime, and his closest people.&rdquo; Petra said and then she looked at Ignatius.</p>
  <p>&ldquo;The rumors were right, I guess,&rdquo; he said. Looking at me, he explained, &ldquo;the official line was that those transports navigated with El&rsquo;s guidance and only worked for the Far and his Bosses because of their exalted DNA. But rumor had it that it was technology developed outside The Bracia.</p>
 
 <h1>From Hurricane to Talking</h1>
