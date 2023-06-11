@@ -42,7 +42,7 @@ image:    "icon-escape-velocity-radical-style.svg"
  <p>What has been missing from the various approaches is a simple and clear foundation, a simple and memorable language, and easy to use tools. This is why, I am guessing, a lot of <span class="_paradigm">Radical</span>-like groups have not lasted very long.</p>
  <p>The <span class="_paradigm">Radical</span> system is a more robust potential solution because it has those elements in place.</p>
 
-<h1><span class="_paradigm">Fiat</span> vs <span class="_paradigm">Radical</span></h1>
+<h1>Fiat vs Radical</h1>
  <p>Instead of <em>barbarian,</em> we call the force-based system <span class="_paradigm">Fiat</span> and the alternative <span class="_paradigm">Radical</span>,</p>
  <div class="_center">
   <table class="_h2table">
@@ -74,7 +74,7 @@ image:    "icon-escape-velocity-radical-style.svg"
   </table>
  </div>
 
-<h1><span class="_paradigm">Radical</span> Foundation</h1>
+<h1>Radical Foundation</h1>
  <p>The Foundation is simple and easy to remember,</p>
  <div class="_center">
   <table class="_h2table">
@@ -93,7 +93,7 @@ image:    "icon-escape-velocity-radical-style.svg"
   </table>
  </div>
 
-<h1><span class="_paradigm">Radical</span> Language</h1>
+<h1>Radical Language</h1>
   <p>In the model we use only two terms: co-ownership and co-management. These terms they take up new meanings in the <span class="_paradigm">Radical</span> model.</p>
    <div class="_center">
     <table class="_h2table">
@@ -117,7 +117,7 @@ image:    "icon-escape-velocity-radical-style.svg"
     </table>
    </div>
 
-<h1><span class="_paradigm">Radical</span> Tools</h1>
+<h1>Radical Tools</h1>
  <h2><em><span class="_paradigm">RAD</span>s!</em> App</h2>
   <p>We have a mobile app called <em><span class="_paradigm">RAD</span>s!</em> that supports <span class="_paradigm">RAD DISTRIBUTION</span>s.</p>
   <ul>
