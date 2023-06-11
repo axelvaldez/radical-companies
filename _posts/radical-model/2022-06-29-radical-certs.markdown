@@ -25,7 +25,7 @@ image:    "icon-radical-certs.svg"
 
 <h1>To Protect Employees</h1>
  <p>The result of these surveys are redacted, &ldquo;<em>for the privacy and safety of employees</em>.&rdquo; But that excuse does not apply in the <span class='_paradigm'>Radical</span> model since there are no employees who can be fired for voicing their feelings or pointing out what needs fixing. <span class='_paradigm'>Radical</span> co-owners don&rsquo;t need &ldquo;protection&rdquo; from hearing what others have to say. In fact, because the data is fully transparent, the same is true for the community outside the company: anybody can look at the detail, ask questions, comment on conclusions, and, ultimately, learn.</p>
- <p>And, yes, all co-owners can agree to lie and put out false data. That is very unlikely, however, and would enentually come out.</p>
+ <p>And, yes, all co-owners can agree to lie and put out false data. That is very unlikely, however, and would eventually come out.</p>
 
 <h1>What Is the Alternative?</h1>
  <p>Surveys are fine for collecting data relatively quickly, but they need to have a foundation. The <span class='_paradigm'>Radical</span> Foundation has only five to remember,</p>
