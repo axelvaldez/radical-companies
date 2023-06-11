@@ -241,7 +241,6 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   </li>
  </ul>
  <p>That earned amount is split between Dividends and a <em>Predictable Recurring Income</em> (PRI) component.</p>
-
  <h2>Making Recurring Takehome Pay Predictable</h2>
    <p>When you really think about it, &ldquo;salary&rdquo; is a <span class="_paradigm">Fiat</span> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <span class="_paradigm">Radical</span> context.</p>
    <p>The <span class="_paradigm">PRI</span> is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),</p>
@@ -291,7 +290,6 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    </p>
    <p>We had a lot of back and forth over the <em><span class="_paradigm">PRI</span> Account</em> being a <em>personal</em> debt. Why not have it be a shared debt? This may work for small groups, but it doesn&rsquo;t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don&rsquo;t know that well. They would want to know things like &ldquo;Why is Julio&rsquo;s <span class="_paradigm">PRI</span> so high?&rdquo; On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn&rsquo;t feel good about going into so much debt and brings down his <span class="_paradigm">PRI</span> after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister&rsquo;s school and is willing to bear the debt for a while longer.</p>
    <p>If you are thinking that this process takes a lot of time, you&rsquo;re right. But it is cheaper and healthier than leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).</p>
-
  <h2>Dividends Are Not a Gift, You Earned Them</h2>
   <p>Below there are three sample scenarios for how Earned Dividends are calculated,</p>
    <ul>
@@ -321,7 +319,6 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     alt="A table and a graph. The DIVIDENS for the month is $25000, which is $9000 above the breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, EARNED, PRI ACCOUNT, and EARNED DIVIDENDS. The total DIVIDENDS add up to $16000, which is right at breakeven. The firs column is labeled SALIM who has 250 RADs, has EARNED  $2000 and so he doesn't have to take anything from the PRI ACCOUNT and take his $2000 PRI. The second column is labeled DALIAH who has 450 RADs, has EARNED $3600 and doesn't have to take anything out of the PRI ACCOUNT to cover his $1500 PRI. Next is ALICIA with 670 RADs, she has EARNED $5360 and doesn't need to take anything from the PRI ACCOUNT to cover her $5000 PRI take home. Next is KIM who has 200 RADs, has EARNED $1600, and needs to take $900 out of the PRI ACCOUNT to cover his $2500 PRI. Next is JULIO who has 130 RADs, has EARNED $1040, and has to take $2960 from the PRI ACCOUNT to cover this $4000 PRI. The last column is labeled ANITA who has 300 RADs, has EARNED $2400, and doesn't need to take anything from the PRI ACCOUNT to cover her $1000 PRI take home.
     The graph shows the PRI ACCOUNT as box full of read liquid. Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT.">
    <p>Notice that even though dividends are up, Julio continues to draw from the <em><span class="_paradigm">PRI</span> Account</em> because his <span class="_paradigm">PRI</span> is pretty high and his <span class="_paradigm">RAD</span>s count is pretty low. He may want to change his <span class="_paradigm">PRI</span> or get feedback on why his <span class="_paradigm">RAD</span>s are so low.</p>
-
  <h2>Comparing the Radical Investment Model with that of Banks and VCs</h2>
   <p><span class="_paradigm">Radical</span> investments will, at worst, have the same financial yield as today&rsquo;s VC system, but with 1) a lot more beneficiaries (<em>i.e.</em>, all the co-owners), and 2) less risk (<em>i.e.</em>, because a lot more people will be committed to making it work).</p>
    <img
