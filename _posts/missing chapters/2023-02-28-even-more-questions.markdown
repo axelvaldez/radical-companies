@@ -12,7 +12,7 @@ image:    "icon-even-more-questions.svg"
 
 <h1></h1>
  <div>The questions were about hiring. I tried to explain that my preference is that they'd be no hiring, per se. The <span class="_paradigm">Radical</span> system is set up for that. But to no avail,</div>
-  <div class="_speakera">What do you do if you can&rsquo;t offer as much as the comptetion?</div>
+  <div class="_speakera">What do you do if you can&rsquo;t offer as much as the competition?</div>
   <div class="_speakerb">You don&rsquo;t have competition. You must be doing something different or else you should create an ensemble with &ldquo;the competition&rdquo;, or join them if you are working towards the the exact same impact.</div>
   <div class='_speakera'>You&rsquo;ll make money based on your contributions, that won&rsquo;t change. And you'll work faster.</div>
   <div class='_speakerb'>Absolute win, which is what you are describing, is what we know and it is Fiat thinking, for a world driven by capital: I win it all, you lose all. However, it is not the fastest way to have a broad impact in a world based on contributions.</div>
