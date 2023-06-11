@@ -50,7 +50,7 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaborative-economy
   </li>
   <li id="en02">
    <p class="_list-item">
-    CBPP stands for Commons-based Peer Production.
+    CBPP stands for Commons-Based Peer Production.
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
