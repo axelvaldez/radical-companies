@@ -107,7 +107,7 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
     and<br>
     <a href="https://www.ted.com/speakers/sugata_mitra">Sugata Mitra</a>.
     <em>Build a School in the Cloud</em>.
-    TEDx Talkk.
+    TEDx Talk.
     &lt;<a href="https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en" target="_blank">https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=en</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>

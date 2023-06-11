@@ -18,7 +18,7 @@ image:    "icon-let-them-live-it.svg"
  <p>People have to experience alternatives to <span class="_paradigm">Fiat</span> and associate emotions with them before they can figure out if they love it, hate it, or something in between. The <em><span class='_paradigm'>RAD</span>s!</em> mobile app serves that purpose,</p>
   <ul>
    <li>It lets co-owners recognize the contributions others co-owners make. They can do so as they see them and when they see them.</li>
-   <li>From the recognized comtributions, the app figures out the number of <span class='_paradigm'>RAD</span>s each co-owner gets.</li>
+   <li>From the recognized contributions, the app figures out the number of <span class='_paradigm'>RAD</span>s each co-owner gets.</li>
    <li><span class='_paradigm'>RAD</span>s give co-owners ownership of the wealth they create.</li>
    <li>Revenue is factored through the <span class='_paradigm'>RAD</span>s and make those contributions tangible.</li>
   </ul>
