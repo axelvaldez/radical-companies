@@ -14,11 +14,11 @@ image:    "icon-radical-companies-for-the-impatient.svg"
  <h2>Businesses-as-Dictatorships Hurt Us</h2>
   <p>Our collapsing climate, the gaping wealth gap, discrimination, and exploitation are but a few of the inescapable side-effects of the system we live in. A system that &ldquo;divides, demonizes, and causes us to suspend our Instincts toward better.&rdquo; <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> But it has also brought us abundance and we don not want to throw the baby out with the bathwater. What is clear is that we need a generative way of relating to one another, a different paradigm. As we see it, businesses are the place to start, transformed into companies they are the incubators for what comes next.</p>
   <p>Nature follows a simple path to create big beautiful things out of small, unpretentious ones. From a tiny seed to a mighty oak tree. We don&rsquo;t think that a long list of color scales or a 17-page constitution are necessary, or even helpful, to make a fundamental change. Eventually, these can become dogma, a form of force, and sabotage our progress. With that in mind, we came up with what we think is the simplest, most basic foundation to support our coming together to share work and wealth.</p>
- <h2><span class="_paradigm">Radical</span> Company Foundation</h2>
+ <h2>Radical Company Foundation</h2>
   <p>In <span class="_paradigm">Radical</span> speak, a company is what we call a group of people who come together to build something bigger than themselves. In fact, the word &ldquo;company&rdquo; comes from the Latin <em>con-</em>, meaning &lsquo;together&rsquo;, and <em>pan</em>, meaning &lsquo;bread.&rsquo; In other words, people who break bread together.</p>
   <p>Every company is different because the people who embody it are different, and this means that every company must find its own way. What fundamentally makes a <span class="_paradigm">Radical</span> company different from a <span class="_paradigm">Fiat</span> business is that it has a foundation,</p>
    <div class="_center">
-    <table class="">
+    <table class="foundation">
      <tr>
       <th>people</th>
       <td>Meaning & Belonging</td>
@@ -82,14 +82,14 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   <p>Co-owners then get to distribute RADs according to their individual judgment. Each decides what is an <em>equitable</em> number of <span class="_paradigm">RAD</span>s to give to other co-owners as recognition for their contributions. The value of the whole emerges from the judgment of the many.</p> 
   <p>A few important observations about <span class="_paradigm">RAD</span>,</p>
    <ul>
-    <li  style="text-indent:0;"><span class="_paradigm">RAD</span>s are not a currency.</li>
-    <li  style="text-indent:0;"><span class="_paradigm">RAD</span>s are issued even before there is revenue because contributions happen regardless of revenue.</li>
-    <li  style="text-indent:0;">The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every <span class="_paradigm">DISTRIBUTION RESTROSPECTIVE</span> new criteria are fleshed out and harvested to use as guidelines.</li>
-    <li  style="text-indent:0;"><span class="_paradigm">RAD</span>s represent <em>dynamic</em> ownership. One month you may give me all your <span class="_paradigm">RAD</span>s, but the next month you may not give me any.</li>
-    <li  style="text-indent:0;">To calculate your percentage ownership, divide the number of <span class="_paradigm">RAD</span>s you have been given by the total number of <span class="_paradigm">RAD</span>s.</li>
-    <li  style="text-indent:0;">The absolute number of <span class="_paradigm">RAD</span>s allocated to me either stays the same or goes up at every <span class="_paradigm">DISTRIBUTION</span>, but it never goes down. For example, if I had 100 <span class="_paradigm">RAD</span>s last cycle and I get 50 this cycle, my total number of <span class="_paradigm">RAD</span>s goes to 150. If I don&rsquo;t get any this cycle, my total number of <span class="_paradigm">RAD</span>s stays at 100.</li>
-    <li  style="text-indent:0;">On the other hand, my <em>percentage</em> of the total could go up, stay the same, or go down at every <span class="_paradigm">DISTRIBUTION</span>. For example, if I get 100 <span class="_paradigm">RAD</span>s from a total of 1,000, then I have 10% of the total. If I get 50 <span class="_paradigm">RAD</span>s this cycle, I have 150 <span class="_paradigm">RAD</span>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</span>s, my percentage stays at 10%. In the worst case, if I don&rsquo;t get any new <span class="_paradigm">RAD</span>s, my percentage goes down to 8%.</li>
-    <li  style="text-indent:0;">When money, or time, or whatever else is disbursed later, it is done as a function of the number of <span class="_paradigm">RAD</span>s each person owns. For example, if you have accumulated 200 <span class="_paradigm">RAD</span>s and I have 100, then you&rsquo;ll get twice as much as me of whatever is being factored through the <span class="_paradigm">RAD</span>s.</li>
+    <li style="text-indent:0;"><span class="_paradigm">RAD</span>s are not a currency.</li>
+    <li style="text-indent:0;"><span class="_paradigm">RAD</span>s are issued even before there is revenue because contributions happen regardless of revenue.</li>
+    <li style="text-indent:0;">The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every <span class="_paradigm">DISTRIBUTION RESTROSPECTIVE</span> new criteria are fleshed out and harvested to use as guidelines.</li>
+    <li style="text-indent:0;"><span class="_paradigm">RAD</span>s represent <em>dynamic</em> ownership. One month you may give me all your <span class="_paradigm">RAD</span>s, but the next month you may not give me any.</li>
+    <li style="text-indent:0;">To calculate your percentage ownership, divide the number of <span class="_paradigm">RAD</span>s you have been given by the total number of <span class="_paradigm">RAD</span>s.</li>
+    <li style="text-indent:0;">The absolute number of <span class="_paradigm">RAD</span>s allocated to me either stays the same or goes up at every <span class="_paradigm">DISTRIBUTION</span>, but it never goes down. For example, if I had 100 <span class="_paradigm">RAD</span>s last cycle and I get 50 this cycle, my total number of <span class="_paradigm">RAD</span>s goes to 150. If I don&rsquo;t get any this cycle, my total number of <span class="_paradigm">RAD</span>s stays at 100.</li>
+    <li style="text-indent:0;">On the other hand, my <em>percentage</em> of the total could go up, stay the same, or go down at every <span class="_paradigm">DISTRIBUTION</span>. For example, if I get 100 <span class="_paradigm">RAD</span>s from a total of 1,000, then I have 10% of the total. If I get 50 <span class="_paradigm">RAD</span>s this cycle, I have 150 <span class="_paradigm">RAD</span>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</span>s, my percentage stays at 10%. In the worst case, if I don&rsquo;t get any new <span class="_paradigm">RAD</span>s, my percentage goes down to 8%.</li>
+    <li style="text-indent:0;">When money, or time, or whatever else is disbursed later, it is done as a function of the number of <span class="_paradigm">RAD</span>s each person owns. For example, if you have accumulated 200 <span class="_paradigm">RAD</span>s and I have 100, then you&rsquo;ll get twice as much as me of whatever is being factored through the <span class="_paradigm">RAD</span>s.</li>
    </ul>
   <p>Allocations work like this,</p>
    <ul>
@@ -164,22 +164,22 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     </table>
    </div>
    <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better (&ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it&rdquo; <a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a>). They will learn from their peers to value their own accomplishments. They will also learn to talk about their failures, what they&rsquo;ve learned from them, and how this learning can be valuable to others.</p>
- <h2><span class="_paradigm">Radical Distributions</span> Include <span class="_paradigm">BANNER</span>s</h2>
-  <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people. But what about team accomplishments, causes, communities, or new projects? Even though they are not people, they, too, be supported with <span class="_paradigm">BANNER</span>s</p>
+ <h2><span class="_paradigm">Radical Distributions</span> Include <span class="_paradigm">Banner</span>s</h2>
+  <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people. But what about team accomplishments, causes, communities, or new projects? Even though they are not people, they, too, be supported with <span class="_paradigm">Banner</span>s</p>
   <p style="width: 80%; margin: 0 auto 6px auto; ">
    <img
-    src="/assets/img/en-banner.svg"
+    src="/assets/img/en-Banner.svg"
     alt="Two post-its as examples of banners. The one of the left reads, 'Community: Riverwalk Cleanup & Beautify.' The one of the right reads, 'Product Prototype: Google News'"
     title="Banners"
    >
   </p>
    <div class="_center">
-    <table class="">
+    <table class="_h2table">
      <tbody style="font-size:smaller; vertical-align: top; ">
       <tr>
        <th>Teams</th>
        <td>
-         <p style="text-indent:0;">Teams can be represented by a <span class="_paradigm">BANNER</span>s. &ldquo;re: Recognize our IT support team for how they handled the storm.&rdquo; </p>
+         <p style="text-indent:0;">Teams can be represented by a <span class="_paradigm">Banner</span>s. &ldquo;re: Recognize our IT support team for how they handled the storm.&rdquo; </p>
        </td>
       </tr>
       <tr style="vertical-align: top; ">
@@ -191,21 +191,21 @@ image:    "icon-radical-companies-for-the-impatient.svg"
       <tr>
        <th>Community</th>
        <td>
-        <p style="text-indent:0;">For example, a &ldquo;No Noise&rdquo; <span class="_paradigm">BANNER</span> could fund a sound barrier around a noisy factory. A &ldquo;River Walk&rdquo; <span class="_paradigm">BANNER</span> could fund a clean up and beautification of a stream that runs nearby. A <span class="_paradigm">BANNER</span> could even fund a local vet hospital to help it recover from a fire.</p>
+        <p style="text-indent:0;">For example, a &ldquo;No Noise&rdquo; <span class="_paradigm">Banner</span> could fund a sound barrier around a noisy factory. A &ldquo;River Walk&rdquo; <span class="_paradigm">Banner</span> could fund a clean up and beautification of a stream that runs nearby. A <span class="_paradigm">Banner</span> could even fund a local vet hospital to help it recover from a fire.</p>
        </td>
       </tr>
       <tr>
        <th>Experimental Projects</th>
        <td>
         <p style="margin-bottom:3px; ">At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects (<em>e.g.</em>Google News came out of it). That was a generous gift from the <span class="_paradigm">Fiat</span> owners, but the same owners later took it away.</p>
-        <p style="text-indent:0;">For a <span class="_paradigm">Radical</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">BANNER</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">BANNER</span>s could fund that specific project.</p>
+        <p style="text-indent:0;">For a <span class="_paradigm">Radical</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">Banner</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">Banner</span>s could fund that specific project.</p>
        </td>
       </tr>
       <tr>
        <th>Investments</th>
        <td>
         <p style="margin-bottom:3px;  margin-left;0;">In <span class="_paradigm">Fiat</span> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has to do with ego and fear, like a pharaoh&rsquo;s pyramid.</p>
-        <p style="margin-bottom:6px; margin-left;0; ">In a <span class="_paradigm">Radical</span> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">BANNER</span>s for co-owners to contribute to the funding of it or not.</p>
+        <p style="margin-bottom:6px; margin-left;0; ">In a <span class="_paradigm">Radical</span> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">Banner</span>s for co-owners to contribute to the funding of it or not.</p>
        </td>
       </tr>
      </tbody>
