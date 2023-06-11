@@ -303,7 +303,7 @@ image:    "icon-rmedia.svg"
    <li>Include very specific recommendations for how to close any gaps you found.</li>
   </ol>
 <h2>Office Hours</h2>
- <p>Offer rejected candidates the opprtunity to join you for Office Hours. For example, you could commit to doing two sessions per week, one hour each.</p>
+ <p>Offer rejected candidates the opportunity to join you for Office Hours. For example, you could commit to doing two sessions per week, one hour each.</p>
  <p>During these sessions,</p>
   <ul>
    <li>Review the recommendations with her</li>

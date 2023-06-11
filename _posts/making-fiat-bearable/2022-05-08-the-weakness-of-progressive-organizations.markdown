@@ -11,7 +11,7 @@ image:    "icon-10-progressive-org-structures.svg"
 </div>
 
 <h1>The Weakness: Owner-Boss</h1>
- <p>In a recent Corporate Rebels post, Joost Minnaarr identifies ten progressive organizational structures<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> which he calls Amoebas, Cells, Circles, Chains, Fractals, Honeycombs, Lattice, Micro-communities, Mini-factories, and Squads.</p>
+ <p>In a recent Corporate Rebels post, Joost Minnaar identifies ten progressive organizational structures<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> which he calls Amoebas, Cells, Circles, Chains, Fractals, Honeycombs, Lattice, Micro-communities, Mini-factories, and Squads.</p>
  <p>Unfortunately, except for WL Gore, all the organizations given as primary examples have an owner-boss at the top. In these cases, the owner-boss sees himself as a “servant leader” or otherwise benevolent.</p>
 
 <h1>Co-Ownership Brings Robustness</h1>
