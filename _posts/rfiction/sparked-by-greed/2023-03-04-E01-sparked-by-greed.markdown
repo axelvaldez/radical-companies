@@ -76,7 +76,7 @@ image:    "icon-sparked-by-greed.svg"
 <h1>Open Relationships</h1>
  <div>They had talked about what Th&uacute;y knew about Trust Relationship, and they were now working through one they found online. They would then be ready to ask future potential <span class="_paradigm">rHEALTH</span> to go through it, add their piece, and modifiy as needed.</div>
  <div class="_speakera">I am still not clear on what co-owned company is.</div>
- <div class="_speakerb">It is a company that is not owned by anybody in particular. It is owned by the peope who contribute to it.</div>
+ <div class="_speakerb">It is a company that is not owned by anybody in particular. It is owned by the people who contribute to it.</div>
  <div class="_speakera">So, if we take time off, we are owners anymore? That doesn&rsquo;t seem right!</div>
  <div class="_speakerb">Well, no, if we take time off&hellip; OK, time out, I&rsquo;ll tell you all I know about co-owned and co-managed companies. They are called <span class="_paradigm">RADIcAL</span> companies, by the way.</div>
  <div class="_speakera">So, that&rsquo;s what the little r stands for.</div>
