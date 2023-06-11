@@ -29,8 +29,8 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaborative-economy
  <p>With <span class="_paradigm">RAD</span>s, people could get a patent and then distribute the revenue that comes from it based on the recognized contributions (to the patent project) each person has.</p>
 
 <h1>Not Sure What to Call this&hellip;</h1>
- The authors posit that the &ldquo;partner state&rdquo; would engage <p class="_citation">in debt-free public monetary creation while supporting a structure of specialized complementary currencies.</p>
- <p>All I can say is &rdquo;maybe for a bit.&rdquo; My question is how to create such a &ldquo;partner state?&rdquo; Put another way, what would the system be that would bring anything like this &ldquo;partner state?&rdquo; about? What would the system be that makes this robust and long lasting?
+ The authors posit that the &ldquo;partner state&rdquo; would engage <p class="_quotespan_">in debt-free public monetary creation while supporting a structure of specialized complementary currencies.</span></p>
+ <p>All I can say is &rdquo;maybe for a bit.&rdquo; My question is how to create such a &ldquo;partner state?&rdquo; Put another way, what would the system be that would bring anything like this &ldquo;partner state?&rdquo; about? What would the system be that makes this robust and long lasting?</p>
  <p>The book is full of these. Maybe if I read it again, more carefully&hellip; ? But no, not worth it.</p>
 
 <h1>Recommendation</h1>
