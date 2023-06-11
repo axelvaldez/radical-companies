@@ -190,7 +190,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    <li>Does it work for you?</li>
    <li>Does anything need to change or be clarified for you?</li>
   </ul>
- <p>For example, allot one hour each to Mindset, Transparency, and Collaboration. We have spend many more that three hours on these, and it has been very worth it. Doing it will get you to a level of trust with other co-owners that <span class="_paradigm">Fiat</span> businesses don&rsquo;t never get near. This practice creates a basline for the relationships that are so important to our success.</p>
+ <p>For example, allot one hour each to Mindset, Transparency, and Collaboration. We have spend many more that three hours on these, and it has been very worth it. Doing it will get you to a level of trust with other co-owners that <span class="_paradigm">Fiat</span> businesses don&rsquo;t never get near. This practice creates a baseline for the relationships that are so important to our success.</p>
 
 <h1>So&hellip;</h1>
  <p>To create a <span class="_paradigm">Radical</span> startup, do whatever works for you. We are not preaching a dogma, only a way to do it more easily and with a definite intention to get away from the <span class="_paradigm">Fiat</span> way of doing things..</p>
