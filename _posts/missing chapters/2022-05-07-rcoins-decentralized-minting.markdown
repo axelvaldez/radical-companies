@@ -125,7 +125,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
  <h2>rCoins for a Decentralized Market</h2>
   <p>We need a decentralized market to nurture the next stage of innovation and accomplishment. Unfortunately, national fiat coins are an obstacle to this. They are not very stable and are subject to cyclical crises.<a href="#en09"><sup id="bm09">&hairsp;&nabla;&hairsp;</sup></a> They make international markets very complex, very opaque, and very expensive.</p> 
   <p>Today&rsquo;s international markets have been cobbled together by agreements that are fraught with weaknesses. National and international politics make transaction costs very expensive. Worst of all, these international markets are unduly influenced by transnational businesses seeking to profit no matter the harm to society.</p>
-  <p>A decentralized market, free of interference and manipulation, is the iltimate pricing engine.</p>
+  <p>A decentralized market, free of interference and manipulation, is the ultimate pricing engine.</p>
  <h2>Decentralized Minting of rCoins</h2>
   <p>We need decentralized minting of <span class="_paradigm">rCoin</span>s to take national and international politics out of it and to eliminate the influence of transnational corporations.</p>
   <p><span class="_paradigm">rCoin</span>s are minted by companies, not any national government or central banks.</p>
@@ -177,7 +177,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
      </tr>
      <tr>
       <th>Not so Happy Ending</th>
-      <td>BenCO has retired only wo thirds of the minted <span class="_paradigm">rCoin</span>s by the third year; it retires all 30,000 <span class="_paradigm">rCoin</span>s a quarter later.</td>
+      <td>BenCO has retired only two thirds of the minted <span class="_paradigm">rCoin</span>s by the third year; it retires all 30,000 <span class="_paradigm">rCoin</span>s a quarter later.</td>
      </tr>
      <tr>
       <th>Unhappy Ending</th>
@@ -190,7 +190,7 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
   <p>In today&rsquo;s system of exchange, &ldquo;reserve currencies&rdquo; are used for international transactions. This makes these transactions very expensive.</p>
   <p>As of this writing, the four most widely held &ldquo;reserve currencies&rdquo; are the US dollar (&dollar;), the European Euro (&euro;), the Japanese Yen (&yen;), and the UK Pound Sterling (&pound;). These national fiat coinage are backed up by strong, stable economies. At least, that&rsquo;s how the story goes.</p>
  <h2>Companies as Guarantors of rCoins</h2>
-  <p>National economies are not as stable as all that and financial crises happen on a cyclical basis in our currrent <span class="_paradigm">Fiat</span> system.<a href="#en13"><sup id="bm13">&hairsp;&nabla;&hairsp;</sup></a> For another, people invariably find ways to exploit some aspect of the financial system for private gain. Politicians are very good at this and manipulate national economies shamelessly. For example, in 1971 then President Nixon renounced gold as a standard and blamed it mostly on De Gaulle&rsquo;s policies. In reality, he did it to maintain &ldquo;global economic dominance and to improve economic conditions at home.&rdquo;<a href="#en14"><sup id="bm14">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>National economies are not as stable as all that and financial crises happen on a cyclical basis in our current <span class="_paradigm">Fiat</span> system.<a href="#en13"><sup id="bm13">&hairsp;&nabla;&hairsp;</sup></a> For another, people invariably find ways to exploit some aspect of the financial system for private gain. Politicians are very good at this and manipulate national economies shamelessly. For example, in 1971 then President Nixon renounced gold as a standard and blamed it mostly on De Gaulle&rsquo;s policies. In reality, he did it to maintain &ldquo;global economic dominance and to improve economic conditions at home.&rdquo;<a href="#en14"><sup id="bm14">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>By comparison, companies are extremely stable because their reputation depends solely on how effective they are at creating value for society. That&rsquo;s it. The worst that can happen is that a company mints <span class="_paradigm">rCoin</span>s and then it is not able, or willing, to retire the debt. The financial impact of this would be insignificant; to wit, this is what happens today.</p>
  <h2>rCoins Are (Not) Fungible</h2>
   <p>In today&rsquo;s financial model, to be effective as a medium of exchange, money must be fungible—one coin is indistinguishable from all others. &ldquo;Trying to use a non-fungible good as money results in transaction costs of individually evaluating each unit of the good before an exchange can take place.&rdquo;<a href="#en15"><sup id="bm15">&hairsp;&nabla;&hairsp;</sup></a></p>
@@ -440,13 +440,13 @@ image:    "icon-rcoin-decentralized-minting-en.svg"
    <li id="en08">
     <p class="_list-item">
      David Graeber.
-     <em>Debt: The First 5,000 Years,Updated and Expanded</em>.
+     <em>Debt: The First 5,000 Years, Updated and Expanded</em>.
      &lt;<a href="https://a.co/cd9vVHk" target="_blank">https://a.co/cd9vVHk</a>&gt;
      Douglas McGregor.
      <em>Theory X</em>.
      The Human Side of Enterprise, p 1.
      1975
-     &lt;<a href="https://radicals.world/McCTGD" target="_blank">https://rzadicals.world/McCTGD</a>&gt;
+     &lt;<a href="https://radicals.world/McCTGD" target="_blank">https://radicals.world/McCTGD</a>&gt;
      (alt, &lt;<a href="https://www.diigo.com/item/pdf/zk1n/juhm">https://www.diigo.com/item/pdf/zk1n/juhm</a>&gt;).
      <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>

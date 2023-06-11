@@ -64,7 +64,7 @@ image:    "icon-gov.svg"
  <p>The main function of State government seems to be standing in the way of what progressive cities want to do or pushing conservative cities to do something they don&rsquo;t really want to. Other than that, they handle water harvesting and distribution, the State police, and its National Guard.</p>
  <p>Whatever we said about police, above, applies to the State police and National Guard.</p>
  <h2>Water: Urban vs Farm</h2>
-  <p>Water is a good case to think through. Residential water versus irrigation water is a fight that has been going on in California for a long time. Central Valley versus coastal areas. Producers versus consumers. Talking points that go straight for the emotional buzzer. And really the whole thing is about who is going to rule water? The State government is lef&rsquo;s to compromise, either where nobody outright wins or the winner is obfuscated. That&rsquo;s the FIAT way.</p>
+  <p>Water is a good case to think through. Residential water versus irrigation water is a fight that has been going on in California for a long time. Central Valley versus coastal areas. Producers versus consumers. Talking points that go straight for the emotional buzzer. And really the whole thing is about who is going to rule water? The State government is left to compromise, either where nobody outright wins or the winner is obfuscated. That&rsquo;s the FIAT way.</p>
   <p>I haven&rsquo;t thought about what this would look like under a <span class="_paradigm">Radical</span> model.</p>
 
 <h1>National Government</h1>
@@ -110,7 +110,7 @@ image:    "icon-gov.svg"
    </div>
   <h2>Evolution, Interrupted</h2>
    <p>As I see it, the <span class="_paradigm">Radical</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve anything.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
-   <p>The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of nterdependence towards a higher level of collaboration.</p>
+   <p>The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of imterdependence towards a higher level of collaboration.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>

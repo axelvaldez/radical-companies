@@ -121,7 +121,7 @@ image:    "icon-rmedia.svg"
    <th>Capital Investment</th>
    <td>
     <ul>
-     <li>Commision to Contingency recruiters,</li>
+     <li>Commission to Contingency recruiters,</li>
      <li>Or, recurring fees to Retained recruiters,</li>
      <li>Or, salaries and benefits for in-house recruiters,</li>
      <li>Or, some combination of these.</li>
@@ -274,9 +274,9 @@ image:    "icon-rmedia.svg"
      <ul>
       <li>For developers, this is done as a Pair Programming with pre-defined exercises for the appropriate stack. For manual testers, the candidate is given a scenario and asked to put together a test plan.</li>
       <li>Work and talk with the candidate.</li>
-      <li>Offer hints (“I saw a thread in StackOverflow abou that”).</li>
+      <li>Offer hints (“I saw a thread in StackOverflow about that”).</li>
       <li>Question/nudge as needed (“wouldn&rsquo;t it be easier, if you did…”).</li>
-      <li>One interviewer acts as a distractor (<em>i.e.</em>$, to learn if the candidate is easily distracted or not, and whether she loses her train of thought easily or not).</li>
+      <li>One interviewer acts as a distractor (<em>i.e.</em>, to learn if the candidate is easily distracted or not, and whether she loses her train of thought easily or not).</li>
       <li>The Task interview includes three exercises,</li>
        <ul>
         <li>Easy. Doable within a half hour. Meant to make the candidate feel good, confident.</li>
@@ -317,11 +317,11 @@ image:    "icon-rmedia.svg"
   <ul>
    <li>After the Thumbs, a member of the team tells the candidate about the Skills Incubator.</li>
    <li>The team had already estimated how long it would take the candidate to complete the program, now ask the candidate for her own estimate.</li>
-   <li>Share the team's estimate (<em>i.e.</em>, usually their estimate is lower than the team&rsquo;s).</li>
+   <li>Share the team&rsquo;s estimate (<em>i.e.</em>, usually their estimate is lower than the team&rsquo;s).</li>
    <li>Now you can both figure out what the appropriate estimate is to complete the Skills Incubator program.</li>
    <li>Use an in-house or external program to do the necessary training.</li>
    <li>Assign a mentor.</li>
-   <li>The mentor's job is to check with the candidate about her progress, any questions she may have, any topic the mentor feels she needs help with.</li>
+   <li>The mentor&rsquo;s job is to check with the candidate about her progress, any questions she may have, any topic the mentor feels she needs help with.</li>
   </ul>
 <h2>Power Up</h2>
  <p>This program is for members who want to learn a new skill or a new stack,</p>

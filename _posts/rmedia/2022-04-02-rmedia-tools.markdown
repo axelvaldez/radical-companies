@@ -56,7 +56,7 @@ image:    "icon-rmedia.svg"
 <h1>rMBA</h1>
  <div class="_citation">
   <p>Compassion is the radicalism of our time.</p>
-  <p id=_signature">Dalai Lama XIV</p>
+  <p id="_signature">Dalai Lama XIV</p>
  </div>
  <h2>Origin Story</h2>
   <p>The idea came up during a conversation with Jose Leal and Marcial Quintanar. One thing led to another and we ended up with rough plans for a <span style="font-size:smaller; ">RADICAL MBA</span>.<sup id="bm01"><a href="#en01">1&nbsp;</a></sup></p>

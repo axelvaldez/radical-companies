@@ -224,7 +224,7 @@ image:    "icon-rmedia.svg"
      <td>For co-owners and promotion</td>
     </tr>
     <tr>
-     <th>Bloposts</th>
+     <th>Blog Posts</th>
      <td>&nbsp;</td>
      <td>Podcast summary and commentary.</td>
      <td>For bloggers to cut-and-paste.</td>
