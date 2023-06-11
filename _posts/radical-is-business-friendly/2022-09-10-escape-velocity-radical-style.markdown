@@ -22,9 +22,9 @@ image:    "icon-escape-velocity-radical-style.svg"
 
 <h1>Money Did It</h1>
  <p>In <em>Debt: The First 5,000 Years</em><a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> author David Graeber proposes that the developmentt of coinage sparked the system we live in today. Author Paul Mason agrees,</p>
- <div class="_quotation">
-  <p>Graeber says what emerged after 800 BCE was a ‘military-coinage-slave complex&rsquo;, which forms the common basis for very different&hellip; city states across China, India, and ancient Greece.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
- </div>
+  <div class="_quotation">
+   <p>Graeber says what emerged after 800 BCE was a ‘military-coinage-slave complex&rsquo;, which forms the common basis for very different&hellip; city states across China, India, and ancient Greece.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
+  </div>
  <p>All of them, <em>China, India, and ancient Greece,</em> are remarkably long-lasting States.</p>
 
 <h1>From Social Debt to Taxes</h1>
@@ -44,81 +44,81 @@ image:    "icon-escape-velocity-radical-style.svg"
 
 <h1>Fiat vs Radical</h1>
  <p>Instead of <em>barbarian,</em> we call the force-based system <span class="_paradigm">Fiat</span> and the alternative <span class="_paradigm">Radical</span>,</p>
- <div class="_center">
-  <table class="_h2table">
-   <tr>
-    <th>
-     <p><span class="_paradigm">Radical</span> Foundation</p>
-    </th>
-    <td>
-     <p>The foundation is made up of <em>people</em>, <em>commitments</em>, and <em>practices</em>.</p>
-    </td>
-   </tr>
-   <tr>
-    <th>
-     <p><span class="_paradigm">Radical</span> Language</p>
-    </th>
-    <td>
-     <p>The model is based on <em>co-ownership</em> and <em>co-management</em>.</p>
-    </td>
-   </tr>
-   <tr>
-    <th>
-     <p><span class="_paradigm">Radical</span> Tools</p>
-    </th>
-    <td>
-     <p>The <em><span class="_paradigm">RAD</span>s! mobile app</em> supports <span class="_paradigm">RAD DISTRIBUTION</span>s, the key tool of co-ownership.</p>
-     <p>The <em>Explicit Relationship</em> tool helps people come together and build a social circle based on trust from the start.</p>
-    </td>
-   </tr>
-  </table>
- </div>
+  <div class="_center">
+   <table class="_h2table">
+    <tr>
+     <th>
+      <p><span class="_paradigm">Radical</span> Foundation</p>
+     </th>
+     <td>
+      <p>The foundation is made up of <em>people</em>, <em>commitments</em>, and <em>practices</em>.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>
+      <p><span class="_paradigm">Radical</span> Language</p>
+     </th>
+     <td>
+      <p>The model is based on <em>co-ownership</em> and <em>co-management</em>.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>
+      <p><span class="_paradigm">Radical</span> Tools</p>
+     </th>
+     <td>
+      <p>The <em><span class="_paradigm">RAD</span>s! mobile app</em> supports <span class="_paradigm">RAD DISTRIBUTION</span>s, the key tool of co-ownership.</p>
+      <p>The <em>Explicit Relationship</em> tool helps people come together and build a social circle based on trust from the start.</p>
+     </td>
+    </tr>
+   </table>
+  </div>
 
 <h1>Radical Foundation</h1>
  <p>The Foundation is simple and easy to remember,</p>
- <div class="_center">
-  <table class="_h2table">
-   <tr>
-    <th>people</th>
-    <td>Meaning & Belonging</td>
-   </tr>
-   <tr>
-    <th>commitments</th>
-    <td>Decentralization & Transparency</td>
-   </tr>
-   <tr>
-    <th>practices</th>
-    <td>Experimentation</td>
-   </tr>
-  </table>
- </div>
+  <div class="_center">
+   <table class="_h2table">
+    <tr>
+     <th>people</th>
+     <td>Meaning & Belonging</td>
+    </tr>
+    <tr>
+     <th>commitments</th>
+     <td>Decentralization & Transparency</td>
+    </tr>
+    <tr>
+     <th>practices</th>
+     <td>Experimentation</td>
+    </tr>
+   </table>
+  </div>
 
 <h1>Radical Language</h1>
-  <p>In the model we use only two terms: co-ownership and co-management. These terms they take up new meanings in the <span class="_paradigm">Radical</span> model.</p>
-   <div class="_center">
-    <table class="_h2table">
-     <tr>
-      <th>
-       <p style="text-align:right; ">co-ownership</p>
-      </th>
-      <td>
-       <p>People who embody a company are co-owners of it and can earn a <em>dynamic</em> piece of the value through recognized contributions to what they have created together.</p>
-       <p>Note that co-ownership, as we define it, doesn&rsquo;t depend on a <em>static</em> number of <em>shares</em>, whose financial value comes from trading them but from people&rsquo; contributions.</p>
-      </td>
-     </tr>
-     <tr>
-      <th>
-       <p style="text-align:right; width:9em; ">co-management</p>
-      </th>
-      <td>
-       <p>Self-management makes sense as it applies to individuals. But in the case of a company, there is no <em>self</em> which can manage itself. People who embody the company, <em>manage it collaboratively</em>.</p>
-      </td>
-     </tr>
-    </table>
-   </div>
+ <p>In the model we use only two terms: co-ownership and co-management. These terms they take up new meanings in the <span class="_paradigm">Radical</span> model.</p>
+  <div class="_center">
+   <table class="_h2table">
+    <tr>
+     <th>
+      <p style="text-align:right; ">co-ownership</p>
+     </th>
+     <td>
+      <p>People who embody a company are co-owners of it and can earn a <em>dynamic</em> piece of the value through recognized contributions to what they have created together.</p>
+      <p>Note that co-ownership, as we define it, doesn&rsquo;t depend on a <em>static</em> number of <em>shares</em>, whose financial value comes from trading them but from people&rsquo; contributions.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>
+      <p style="text-align:right; width:9em; ">co-management</p>
+     </th>
+     <td>
+      <p>Self-management makes sense as it applies to individuals. But in the case of a company, there is no <em>self</em> which can manage itself. People who embody the company, <em>manage it collaboratively</em>.</p>
+     </td>
+    </tr>
+   </table>
+  </div>
 
 <h1>Radical Tools</h1>
- <h2><em><span class="_paradigm">RAD</span>s!</em> App</h2>
+ <h2><em>RADs! Mobile App</em></h2>
   <p>We have a mobile app called <em><span class="_paradigm">RAD</span>s!</em> that supports <span class="_paradigm">RAD DISTRIBUTION</span>s.</p>
   <ul>
    <li>Co-owners use the RADs! app to <em>recognize contributions</em>.</li>
