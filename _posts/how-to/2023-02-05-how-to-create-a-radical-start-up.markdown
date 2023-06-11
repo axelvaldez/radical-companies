@@ -36,7 +36,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
     <p>Transparency: Secrecy is your enemy. Talk about your idea to as many people as you can <em>anywhere in the wold</em>. This will help you mold your idea. If felt great when you first thought of it, but it now has to be shaped, so lean on your social circle to help you do it. Transparency is your friend.</p>
   </li>
   <li>
-   <p>Decentralization: With all the talk about <em>teal</em> and the like, people will likely welcome decentralizing decision making, co-management; they may even be enthusiastic about it. On the other hand, when you talk about co-ownership you may get a neutral stare or curiosity, but be ready for disgust or ever-so-polite ridicule. They are not attacking you as much as they are trying to push away the thought you just put in their head. This is suddenly seeing the invisible mounstrous ghost, so don&rsquo;t be surprised when people run away.</p>
+   <p>Decentralization: With all the talk about <em>teal</em> and the like, people will likely welcome decentralizing decision making, co-management; they may even be enthusiastic about it. On the other hand, when you talk about co-ownership you may get a neutral stare or curiosity, but be ready for disgust or ever-so-polite ridicule. They are not attacking you as much as they are trying to push away the thought you just put in their head. This is suddenly seeing the invisible monstrous ghost, so don&rsquo;t be surprised when people run away.</p>
   </li>
   <li>
    <p>Meaning & Belonging: if you identify people who are really interested in this, don&rsquo;t let them go. And if they have skills that will help create your idea, hold on to them. If on top of that you want them in your team, you are very lucky!</p>
@@ -50,12 +50,12 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>If you want to, and can, then take in capital. For starting companies seed capital, as it is called, comes from friends, family, and &ldquo;fools&rdquo;. Friends and family know you and trust you; &ldquo;fools&rdquo; believe in you. The thing they have in common is that they all want you to succeed.</p>
  <p>Seed capital is formalized and made legal as a Note that promises them, 1) their money back plus some upside, or 2) future shares of the new company. Note that you startup company <em>won&rsquo;t have shares</em> (but hopes to, one day).</p>
 
-<h1result</h1>
+<h1>result</h1>
  <p>What we are proposing here is you treat capital infusions as a <em><span class="_paradigm">Radical</span> investment</em>.</p>
  <p><span class="_paradigm">Radical</span> investments include paying back the principal and an upside over a certain time. It could be 120% over two years, or double after five, or whatever you think is realistic and reasonable. Very important: <span class="_paradigm">Radical</span> investments do not include <em>any</em> other powers. This won&rsquo;t be a surprise for the friends/family/fools crowd. It will most likely be a surprise to traditional <span class="_paradigm">Fiat</span> capital investors; even unacceptable. However, a few &ldquo;traditional&rdquo; investors may be inspired enough to go along with a <span class="_paradigm">Radical</span>-investment.</p> The guaranteed return may do the trick.</p>
  <p>Instead of promising wild returns, you may structure it as a reasonable, even low, guaranteed return plus a percentage of dividends for a fixed period of time. This avoids the &ldquo;power forever&rsquo; setup of today.</p>
 
- <h1>Predictable Recurring Income (PRI)</h1>
+<h1>Predictable Recurring Income (PRI)</h1>
  <p>Once you have the capital it will go into whatever you have to buy up front. It may also go into a <em>the Predictable Recurring Income (PRI) fund</em>, used to pay all co-owners until revenue comes in.</p>
  <p>You may be able to take in less capital if co-owners can afford to wait for revenue. In that case you won&rsquo;t need a PRI fund.</p>
 
