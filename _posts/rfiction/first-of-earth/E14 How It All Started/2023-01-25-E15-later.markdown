@@ -11,7 +11,7 @@ image:    "icon-later.svg"
 </div>
 
 <h1>Salt of the Earth</h1>
- <p>It seemd to me that the salt battery was the fulcrum that helped us bolt forward. It was developed by a small community in Australia doing research, a continent that was almost uninhabitable because it was so hot. We assumed that they would be hard press to survive, and it was surprising that they were doing this kind of work. Seems that they figured out that they had to do this to go beyond survival and thrive.</p> 
+ <p>It seemed to me that the salt battery was the fulcrum that helped us bolt forward. It was developed by a small community in Australia doing research, a continent that was almost uninhabitable because it was so hot. We assumed that they would be hard press to survive, and it was surprising that they were doing this kind of work. Seems that they figured out that they had to do this to go beyond survival and thrive.</p> 
  <p>They shared their discoveries by sharing the instructions of how to make these batteries over the voice network which had painstakingly  come together. Besides the how-to instructions, they spend countless hours helping people putting them together. It didn&rsquo;t take long for communities throughout the world to come up with improvements and share them.</p>
  <p>We had renewable energy storage systems that communities and ensembles could build on.</p>
 

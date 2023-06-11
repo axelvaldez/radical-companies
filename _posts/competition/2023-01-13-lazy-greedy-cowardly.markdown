@@ -112,8 +112,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <li>Celebrating.</li>
   <li>Adding to others ideas.</li>
   <li>Jumping in to help is asked to.</li>
-  <li>Disagreesng if you don&rsquo;t like something.</li>
-  <li>Don&rsquo;t punch holes in Others&rsquo; ideas to &ldquo;win.&rdquo;</li>
+  <li>Disagree if you don&rsquo;t like something.</li>
+  <li>Don&rsquo;t punch holes in others&rsquo; ideas to &ldquo;win.&rdquo;</li>
  </ul>
  <p>Collaboration also means&hellip;,</p>
  <ul>
