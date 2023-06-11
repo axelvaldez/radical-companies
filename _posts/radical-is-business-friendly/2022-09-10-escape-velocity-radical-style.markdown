@@ -35,11 +35,11 @@ image:    "icon-escape-velocity-radical-style.svg"
 <h1>Ideology</h1>
  <p>
   Ideology makes this tax-paying habit, paying this imaginary debt, easier to live with.
-  <span class="_quotespan">The defenders keep me alive,</span>
+  <span class="_quotespan">The defenders keep me alive,</span>AAA
   ideology says,
-  <span class="_quotespan">they are good and necessary.</span>
+  <span class="_quotespan">they are good and necessary.</span>AAA
   Eventually, this gets codified as,
-  <span class="_quotespan">our King keeps us alive.</span>
+  <span class="_quotespan">our King keeps us alive.</span>AAA
  </p>
  <p>This is obviously a very rough sketch of how the system could have gotten <em>started</em>.</p>
  <p>What <em>has kept it going</em> is that this system has been supported by the very people exploited by it: the footsoldiers, the mothers who bear them, the families and communities that feed and nourish them. Ideology made this system possible.</p>
