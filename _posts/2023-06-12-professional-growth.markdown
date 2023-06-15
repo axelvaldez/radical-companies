@@ -16,7 +16,7 @@ image:    "icon-professional-growth.svg"
 <h1>Making a Difference</h1>
  <p>I read an articlle on Professional Development<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> and this, which caught my attendion, is what one coach said about his clients,</p>
  <p class='_citation'>&hellip; they want to go to bed at night feeling like they've made a difference.</p>
- <p>Their clients are not so worried how to get a raise or a promotion, but they concerned with <em>making a difference</em>. I take this as a sign that a future with many non-<span class='_paradigm'>Fiat</span> is going to happen, sooner or later. We&rsquo;ll try <span class='_paradigm'>Fiat</span> system and drag it around because for a while. Evantually the carcass will fall off the cart and nobody will notice. Much later, eulogies will be written bemoaning its death.</p>
+ <p>Their clients are not so worried how to get a raise or a promotion, but they concerned with <em>making a difference</em>. I take this as a sign that a future with many non-<span class='_paradigm'>Fiat</span> systems is going to happen, sooner or later. We&rsquo;ll try <span class='_paradigm'>Fiat</span> system and drag it around because for a while. Evantually the carcass will fall off the cart and nobody will notice. Much later, eulogies will be written bemoaning its death.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
