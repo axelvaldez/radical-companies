@@ -7,7 +7,7 @@ image:    "icon-professional-growth..svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>A non-<span class='_paradigm'>Fiat</span> future is going to happen. We&rsquo;ll drag the <span class='_paradigm'>Fiat</span> system around for a while and the the carcass will fall off the cart and nobody will notice.</p>
 </div>
 
 <h1>&nbsp;</h1>
