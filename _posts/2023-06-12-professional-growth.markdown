@@ -3,7 +3,7 @@ layout:   post
 title:    "Professional Growth"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-professional-growth..svg"
+image:    "icon-professional-growth.svg"
 ---
 
 <div style="display:none;">
