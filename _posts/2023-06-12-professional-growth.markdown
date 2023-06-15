@@ -14,15 +14,15 @@ image:    "icon-professional-growth.svg"
  <p>A non-<span class='_paradigm'>Fiat</span> future is going to happen. We&rsquo;ll drag the <span class='_paradigm'>Fiat</span> system around for a while and then the carcass will fall off the cart and nobody will notice. Years later people will write papers bemoaning its death.</p>
 
 <h1>Making a Difference</h1>
- <p>I read an Washiton Post article<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> and this, which caught my attention, is what one coach said about his clients,</p>
+ <p>I read an Washington Post article<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> and this, which caught my attention, is what one coach said about his clients,</p>
  <p class='_citation'>&hellip; they want to go to bed at night feeling like they've made a difference.</p>
- <p>Their clients are not so worried how to get a raise or a promotion, but they concerned with <em>making a difference</em>. I take this as a sign that a future with many non-<span class='_paradigm'>Fiat</span> systems is going to happen, sooner or later. We&rsquo;ll try <span class='_paradigm'>Fiat</span> system and drag it around because for a while. Evantually the carcass will fall off the cart and nobody will notice. Much later, eulogies will be written bemoaning its death.</p>
+ <p>Their clients are not so worried how to get a raise or a promotion, but they concerned with <em>making a difference</em>. I take this as a sign that a future with many non-<span class='_paradigm'>Fiat</span> systems is going to happen, sooner or later. We&rsquo;ll try <span class='_paradigm'>Fiat</span> system and drag it around because for a while. Eventually the carcass will fall off the cart and nobody will notice. Much later, eulogies will be written bemoaning its death.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Michal Errigo.
+    Michael Errigo.
     <em>3 professional development tips that prioritize work-life balance</em>.
     June 13, 2023.
     &lt;<a href="https://radicals.world/20xN1T" target="_blank">https://radicals.world/20xN1T</a>&gt;
