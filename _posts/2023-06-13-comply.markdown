@@ -11,7 +11,7 @@ image:    "icon-comply.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>According to Seth Goding, <span class='_quotespan'>The alternative [to compliance] isn&rsquo;t freedom. It&rsquo;s responsibility.</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> I would say that the alternative to compliance is <em><strong>commitment</strong></em>. This is in fact what he describes later, <span class='_quotespan'>What matters is our willingness willingness to see what&rsquo;s happening and to sign up to do something about it</span>.</p>
+ <p>According to Seth Godin, <span class='_quotespan'>The alternative [to compliance] isn&rsquo;t freedom. It&rsquo;s responsibility.</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> I would say that the alternative to compliance is <em><strong>commitment</strong></em>. This is in fact what he describes later, <span class='_quotespan'>What matters is our willingness willingness to see what&rsquo;s happening and to sign up to do something about it</span>.</p>
  <p>He also says that <span class='_quotespan'>Compliance is seductive because it comes with short-term prizes. &hellip; The center of the herd may in fact be safer, but the view is terrible.</span>So true!</p>
 
 <h1 class="_section">ENDNOTES</h1>
