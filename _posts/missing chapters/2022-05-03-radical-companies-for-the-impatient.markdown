@@ -18,7 +18,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   <p>In non-<span class="_paradigm">Fiat</span> speak, a company is what we call a group of people who come together to build something bigger than themselves. The word &ldquo;company&rdquo; comes from the Latin <em>co-</em>, meaning &lsquo;together&rsquo;, and <em>pan-</em>, meaning &lsquo;bread.&rsquo; In other words, people who break bread together.</p>
   <p>Every company is different because the people who embody it are different, and this means that every company must find its own way. What fundamentally makes a non-<span class="_paradigm">Fiat</span> company different from a <span class="_paradigm">Fiat</span> business is that it has a Foundation,</p>
    <div class="_center">
-    <table class="foundation">
+    <table class="_foundation">
      <tr>
       <th>people</th>
       <td>Meaning & Belonging</td>
