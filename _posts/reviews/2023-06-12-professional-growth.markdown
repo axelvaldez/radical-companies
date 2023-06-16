@@ -7,7 +7,7 @@ image:    "icon-professional-growth.svg"
 ---
 
 <div style="display:none;">
- <p>Non-<span class='_paradigm'>Fiat</span> futures are going to happen. We&rsquo;ll drag the <span class='_paradigm'>Fiat</span> system around for a while trying to fix it. Then the carcass will fall off the cart and nobody will notice.</p>
+ <p>Non-<span class='_paradigm'>Fiat</span> futures are going to happen. We&rsquo;ll drag the <span class='_paradigm'>Fiat</span> system around for a while trying to fix it. Eventually the carcass will fall off the cart and nobody will notice.</p>
 </div>
 
 <h1>&nbsp;</h1>
@@ -15,8 +15,8 @@ image:    "icon-professional-growth.svg"
 
 <h1>Making a Difference</h1>
  <p>I read an Washington Post article<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> and this, which caught my attention, is what one coach said about his clients,</p>
- <p class='_citation'>&hellip; they want to go to bed at night feeling like they've made a difference.</p>
- <p>Their clients are not so worried how to get a raise or a promotion, but they concerned with <em>making a difference</em>. I take this as a sign that a future with many non-<span class='_paradigm'>Fiat</span> systems is going to happen, sooner or later. We&rsquo;ll try <span class='_paradigm'>Fiat</span> system and drag it around because for a while. Eventually the carcass will fall off the cart and nobody will notice. Much later, eulogies will be written bemoaning its death.</p>
+ <p class='_citation'>&hellip; they want to go to bed at night feeling like they&rsquo;ve made a difference.</p>
+ <p>Their clients are not so worried how to get a raise or a promotion, but they concerned with <em>making a difference</em>. I take this as a sign that a future with many non-<span class='_paradigm'>Fiat</span> systems is going to happen, sooner or later. We&rsquo;ll drag the <span class='_paradigm'>Fiat</span> system for a while. Eventually the carcass will fall off the cart and nobody will notice. Much later, eulogies will be written bemoaning its death.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
