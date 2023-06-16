@@ -7,11 +7,11 @@ image:    "icon-professional-growth.svg"
 ---
 
 <div style="display:none;">
- <p>Non-<span class='_paradigm'>Fiat</span> future are going to happen. We&rsquo;ll drag the <span class='_paradigm'>Fiat</span> system around for a while trying to fix it. Then the carcass will fall off the cart and nobody will notice.</p>
+ <p>Non-<span class='_paradigm'>Fiat</span> futures are going to happen. We&rsquo;ll drag the <span class='_paradigm'>Fiat</span> system around for a while trying to fix it. Then the carcass will fall off the cart and nobody will notice.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>A non-<span class='_paradigm'>Fiat</span> future is going to happen. We&rsquo;ll drag the <span class='_paradigm'>Fiat</span> system around for a while, trying to fix piecemeal. Then, after coming up with non-<span class='_paradigm'>Fiat</span> systems will forget about <span class='_paradigm'>Fiat</span> system. Then, the carcass will fall off the cart and nobody will notice. Years later people will write papers bemoaning its death.</p>
+ <p>A non-<span class='_paradigm'>Fiat</span> futures is going to happen. We&rsquo;ll drag the <span class='_paradigm'>Fiat</span> system around for a while, trying to fix piecemeal. Then, after coming up with non-<span class='_paradigm'>Fiat</span> systems will forget about <span class='_paradigm'>Fiat</span> system. Then, the carcass will fall off the cart and nobody will notice. Years later people will write papers bemoaning its death.</p>
 
 <h1>Making a Difference</h1>
  <p>I read an Washington Post article<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> and this, which caught my attention, is what one coach said about his clients,</p>
