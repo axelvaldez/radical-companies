@@ -7,7 +7,7 @@ image:    "icon-surviving-is-not-living.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>First, I jumped into the void. I was hoping to go through it safely, but instead I came out stronger. I came out with a positive view of live. I discovered the light in my life.</p>
 </div>
 
 <h1>&nbsp;</h1>
