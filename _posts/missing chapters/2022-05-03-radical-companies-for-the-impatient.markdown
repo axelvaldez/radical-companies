@@ -234,10 +234,10 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    <p style="text-indent:0;">There is a total of 1,000 RADs allocated which means that each <span class="_paradigm">RAD</span> is worth $16 this cycle.</p>
   </li>
   <li>
-   <p style="text-indent:0;">You have 450 allocated RADs and I have 130.</p>
+   <p style="text-indent:0;">You have twice as many <span class="_paradigm">RAD</span>s as me.</p>
   </li>
   <li>
-   <p style="text-indent:0;">You <em>earned</em> $7,200 and I&rsquo;ve <em>earned</em> $2,080 of the total dividends.</p>
+   <p style="text-indent:0;">You <em>earned</em> twice as much as me of the Earned Dividends.</p>
   </li>
  </ul>
  <p>That earned amount is split between Dividends and a <em>Predictable Recurring Income</em> (PRI) component.</p>
