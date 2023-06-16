@@ -2,7 +2,7 @@
 layout:   post
 title:    "Surviving Is Not Living"
 subtitle: "TEMPLATE"
-authors:  "Chabelin Atahuaman"
+authors:  "Chabeli Atahuaman"
 image:    "icon-surviving-is-not-living.svg"
 ---
 
