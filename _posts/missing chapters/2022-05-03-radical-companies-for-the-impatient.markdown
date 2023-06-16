@@ -14,9 +14,9 @@ image:    "icon-radical-companies-for-the-impatient.svg"
  <h2>Businesses-as-Dictatorships Hurt Us</h2>
   <p>Our collapsing climate, the gaping wealth gap, discrimination, and exploitation are but a few of the inescapable side-effects of the system we live in. A system that &ldquo;divides, demonizes, and causes us to suspend our instincts toward better.&rdquo; <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> But it has also brought us abundance and we do not want to throw the baby out with the bathwater. What is clear is that we need a generative way of relating to one another, a different paradigm. As we see it, businesses are the place to start, transformed into companies-as-incubators for what comes next.</p>
   <p>Nature follows a simple path to create big beautiful things out of small, unpretentious ones. From a tiny seed to a mighty oak tree. We don&rsquo;t think that a long list of color scales or a 17-page constitution are necessary, or even helpful, to make a fundamental change. Eventually, these can become dogma, a form of force, and sabotage our progress. With that in mind, we came up with what we think is the simplest, most basic foundation to support our coming together to share work and wealth.</p>
- <h2>Radical Company Foundation</h2>
-  <p>In <span class="_paradigm">Radical</span> speak, a company is what we call a group of people who come together to build something bigger than themselves. In fact, the word &ldquo;company&rdquo; comes from the Latin <em>con-</em>, meaning &lsquo;together&rsquo;, and <em>pan</em>, meaning &lsquo;bread.&rsquo; In other words, people who break bread together.</p>
-  <p>Every company is different because the people who embody it are different, and this means that every company must find its own way. What fundamentally makes a <span class="_paradigm">Radical</span> company different from a <span class="_paradigm">Fiat</span> business is that it has a foundation,</p>
+ <h2>Company Foundation</h2>
+  <p>In non-<span class="_paradigm">Fiat</span> speak, a company is what we call a group of people who come together to build something bigger than themselves. The word &ldquo;company&rdquo; comes from the Latin <em>co-</em>, meaning &lsquo;together&rsquo;, and <em>pan-</em>, meaning &lsquo;bread.&rsquo; In other words, people who break bread together.</p>
+  <p>Every company is different because the people who embody it are different, and this means that every company must find its own way. What fundamentally makes a non-<span class="_paradigm">Fiat</span> company different from a <span class="_paradigm">Fiat</span> business is that it has a Foundation,</p>
    <div class="_center">
     <table class="foundation">
      <tr>
@@ -33,10 +33,11 @@ image:    "icon-radical-companies-for-the-impatient.svg"
      </tr>
     </table>
    </div>
-  <p>Other practices can be layered on top of these, but for a <span class="_paradigm">Radical</span> company this foundation is essential, otherwise it is just a <span class="_paradigm">Fiat</span> business with ain&rsquo;t-we-nice sprinkled on top.</p>
-  <p>Hierarchies don&rsquo;t just go away, but, unlike in a <span class='_paradigm'>Fiat</span> business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what&rsquo;s needed, at a particular time, by the people involved. &ldquo;An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. &hellip; The org chart is insufficient.&rdquo; <a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>Other practices can be layered on top of these, but for a non-<span class="_paradigm">Fiat</span> company this foundation is essential, otherwise it is just a <span class="_paradigm">Fiat</span> business with &ldquo;ain&rsquo;t-we-nice&rdquo; sprinkled on top.</p>
+ <h2>Fiat Hiearchies</h2>
+  <p>Hierarchies don&rsquo;t just go away. Hierarchies are alyes present, but, unlike in a <span class='_paradigm'>Fiat</span> business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what&rsquo;s needed, at a particular time, by the people involved. &ldquo;An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. &hellip; The org chart is insufficient.&rdquo; <a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  <h2>Alignment Must Be Explicit and Transparent</h2>
-  <p>In order to create a <span class="_paradigm">Radical</span> company, you first need to be explicit about the company&rsquo;s Impact  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump them in different ways, but, no matter, they have to be explicit and completely open and accessible to everyone.</p>
+  <p>In order to create a non-<span class="_paradigm">Fiat</span> company, you first need to be explicit about the company&rsquo;s Impact  (<em>i.e.</em>, <em>what for</em>), its PURPOSE (<em>i.e.</em> why), and MISSION (<em>e.g.</em>,its <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump them in different ways, but, no matter, they have to be explicit and completely open and accessible to everyone.</p>
   <p>The three-finger Scout Salute <a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> is a good mnemonic for it,</p>
    <img
     src="/assets/img/en-alignment.svg"
@@ -198,14 +199,14 @@ image:    "icon-radical-companies-for-the-impatient.svg"
        <th>Experimental Projects</th>
        <td>
         <p style="margin-bottom:3px; ">At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects (<em>e.g.</em>Google News came out of it). That was a generous gift from the <span class="_paradigm">Fiat</span> owners, but the same owners later took it away.</p>
-        <p style="text-indent:0;">For a <span class="_paradigm">Radical</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">Banner</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">Banner</span>s could fund that specific project.</p>
+        <p style="text-indent:0;">For a non-<span class="_paradigm">Fiat</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">Banner</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">Banner</span>s could fund that specific project.</p>
        </td>
       </tr>
       <tr>
        <th>Investments</th>
        <td>
         <p style="margin-bottom:3px;  margin-left;0;">In <span class="_paradigm">Fiat</span> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has to do with ego and fear, like a pharaoh&rsquo;s pyramid.</p>
-        <p style="margin-bottom:6px; margin-left;0; ">In a <span class="_paradigm">Radical</span> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">Banner</span>s for co-owners to contribute to the funding of it or not.</p>
+        <p style="margin-bottom:6px; margin-left;0; ">In a non-<span class="_paradigm">Fiat</span> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">Banner</span>s for co-owners to contribute to the funding of it or not.</p>
        </td>
       </tr>
      </tbody>
@@ -224,7 +225,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   <p>Maybe I gave you <span class="_paradigm">RAD</span>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
   <p>In short, <span class="_paradigm">RAD</span>s account for the uncountable. They measure what had previously been immeasurable.</p>
 
-<h1>Radical Wealth Extraction</h1>
+<h1>Co-Ownership</h1>
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <span class="_paradigm">RAD</span>s. For example,</p>
  <ul>
   <li>
@@ -237,13 +238,13 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    <p style="text-indent:0;">You have twice as many <span class="_paradigm">RAD</span>s as me.</p>
   </li>
   <li>
-   <p style="text-indent:0;">You <em>earned</em> twice as much as me of the Earned Dividends.</p>
+   <p style="text-indent:0;">You <em>Earned</em> twice as many Dividends as me.</p>
   </li>
  </ul>
- <p>That earned amount is split between Dividends and a <em>Predictable Recurring Income</em> (PRI) component.</p>
  <h2>Making Recurring Takehome Pay Predictable</h2>
-   <p>When you really think about it, &ldquo;salary&rdquo; is a <span class="_paradigm">Fiat</span> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <span class="_paradigm">Radical</span> context.</p>
-   <p>The <span class="_paradigm">PRI</span> is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),</p>
+  <p>That earned amount is split between Dividends and a <em>Predictable Recurring Income</em> (PRI) component.</p>
+  <p>When you really think about it, &ldquo;salary&rdquo; is a <span class="_paradigm">Fiat</span> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the non-<span class="_paradigm">Fiat</span> context.</p>
+  <p>The <span class="_paradigm">PRI</span> is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),</p>
    <ul>
     <li>
      <p style="text-indent:0;">Each member determines their <span class="_paradigm">PRI</span>. This is what they feel they need to take home every month.</p>
@@ -269,7 +270,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
      </p>
     </li>
    </ul>
-   <p>The <span class="_paradigm">PRI</span> functions a lot like a salary,</p>
+  <p>The <span class="_paradigm">PRI</span> functions a lot like a salary,</p>
    <ul>
     <li>
      <p style="text-indent:0;">If I earned <em>more</em> than my <span class="_paradigm">PRI</span>, then I can take home my <span class="_paradigm">PRI</span> <em>and my Earned Dividends</em>.</p>
@@ -281,15 +282,15 @@ image:    "icon-radical-companies-for-the-impatient.svg"
      <p style="text-indent:0;">If I earned <em>less than my <span class="_paradigm">PRI</span></em>, I still take home <em>the amount of money I expected</em>, because the <em><span class="_paradigm">PRI</span> Account</em> makes up the difference, but I now owe the difference to the <em><span class="_paradigm">PRI</span> Account</em>.</p>
     </li>
    </ul>
-   <p>You&rsquo;ll have to experiment with how these debts are settled. At its loosest, I could pay that debt &ldquo;later&rdquo; (<em>e.g.</em>, out of my future Earned Dividends). At its most rigid, I&rsquo;d have to pay the <em><span class="_paradigm">PRI</span> Account</em> debt, plus interest, within, say, 60 days. Our suggestion, as always, is to go for a policy that matches peoples' needs and situation. If a problem crops up, then tweak the policy as appropriate. In any case, don&rsquo;t yield to imagined fears.</p>
-   <p>In the example below, Salim, Daliah, Alicia, and Anita earned enough dividends to cover their full <em>Predictable  Recurring Income</em> (<span class="_paradigm">PRI</span>); Kim and Julio earned less than their <span class="_paradigm">PRI</span>, so money flows out of the <em><span class="_paradigm">PRI</span> Account</em> to make up the difference, but they now owe this much to the <em><span class="_paradigm">PRI</span> Account</em>.</p>
-   <p style="font-family: courier new; font-size: smaller; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+  <p>You&rsquo;ll have to experiment with how these debts are settled. At its loosest, I could pay that debt &ldquo;later&rdquo; (<em>e.g.</em>, out of my future Earned Dividends). At its most rigid, I&rsquo;d have to pay the <em><span class="_paradigm">PRI</span> Account</em> debt, plus interest, within, say, 60 days. Our suggestion, as always, is to go for a policy that matches peoples' needs and situation. If a problem crops up, then tweak the policy as appropriate. In any case, don&rsquo;t yield to imagined fears.</p>
+  <p>In the example below, Salim, Daliah, Alicia, and Anita earned enough dividends to cover their full <em>Predictable  Recurring Income</em> (<span class="_paradigm">PRI</span>); Kim and Julio earned less than their <span class="_paradigm">PRI</span>, so money flows out of the <em><span class="_paradigm">PRI</span> Account</em> to make up the difference, but they now owe this much to the <em><span class="_paradigm">PRI</span> Account</em>.</p>
+  <p>
     <img
      src="/assets/img/en-predictable-recurring-income-pri-t0.svg"
      alt="A table and a graph. The table has two rows and six columns. The first row is labeled RADs and the second row PRIs. The firs column is labeled SALIM who has 250 RADs and takes home $2000 in PRI. The second column is labeled DALIAH who has 450 RADs and takes $1500 in PRI. Next is ALICIA with 670 RADs and takes $5000 in PRI. Next is KIM with 200 RADs and takes $2500 in PRI. JULIO who has 150 RADs and takes $4000 in PRI. Next is JULIO with 130 RADs and takes $4000 in PRI. The sixth column is labeled ANITA who has 300 RADs and takes $1000 in PRI. The graph shows a box labeled PRI ACCOUNT which is mostly filled with red liquid (an RADICAL investment). Below it are vertical boxes representing the PRIs taken by SALIM, DALIAH, ALICIA, KIM, JULIO, and ANITA. ALICIA takes the  largest PRI with $5000 and ANITA the smallest with $1000">
-   </p>
-   <p>We had a lot of back and forth over the <em><span class="_paradigm">PRI</span> Account</em> being a <em>personal</em> debt. Why not have it be a shared debt? This may work for small groups, but it doesn&rsquo;t scale well. In a large group, it would make co-owners responsible for debt accumulated by people they don&rsquo;t know that well. They would want to know things like &ldquo;Why is Julio&rsquo;s <span class="_paradigm">PRI</span> so high?&rdquo; On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn&rsquo;t feel good about going into so much debt and brings down his <span class="_paradigm">PRI</span> after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister&rsquo;s school and is willing to bear the debt for a while longer.</p>
-   <p>If you are thinking that this process takes a lot of time, you&rsquo;re right. But it is cheaper and healthier than leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).</p>
+  </p>
+  <p>We had a lot of back and forth over the <em><span class="_paradigm">PRI</span> Account</em> being a <em>personal</em> debt. Why not have it be a shared debt? Appealing, but it doesn&rsquo;t scale well. In a large group, it would make all co-owners responsible for debt accumulated by people they may not know that well. They would want to know things like <span class='_quotespan'>Why is Julio&rsquo;s <span class="_paradigm">PRI</span> so high?</span> On the other hand, as a personal debt, everybody can figure out what works for them and decide accordingly. Maybe Julio doesn&rsquo;t feel good about going into so much debt and eventually brings down his <span class="_paradigm">PRI</span> after realizing that he had jacked it up out of unexamined fears. Or maybe he is helping pay for his sister&rsquo;s school and is willing to bear the debt for a while longer.</p>
+  <p>If you are thinking that this process takes a lot of time, you&rsquo;re right. But it is cheaper and healthier than leaving tension to fester. That anger and bottled up frustration translates to less engaged people and less trust within the team. This is very expensive and very unhealthy in the long-term (and even in the short-term).</p>
  <h2>Dividends Are Not a Gift, You Earned Them</h2>
   <p>Below there are three sample scenarios for how Earned Dividends are calculated,</p>
    <ul>
@@ -318,9 +319,9 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     src="/assets/img/en-predictable-recurring-income-pri-t3.svg"
     alt="A table and a graph. The DIVIDENS for the month is $25000, which is $9000 above the breakeven point. The table has five rows and six columns. The rows are labeled RADs, PRIs, EARNED, PRI ACCOUNT, and EARNED DIVIDENDS. The total DIVIDENDS add up to $16000, which is right at breakeven. The firs column is labeled SALIM who has 250 RADs, has EARNED  $2000 and so he doesn't have to take anything from the PRI ACCOUNT and take his $2000 PRI. The second column is labeled DALIAH who has 450 RADs, has EARNED $3600 and doesn't have to take anything out of the PRI ACCOUNT to cover his $1500 PRI. Next is ALICIA with 670 RADs, she has EARNED $5360 and doesn't need to take anything from the PRI ACCOUNT to cover her $5000 PRI take home. Next is KIM who has 200 RADs, has EARNED $1600, and needs to take $900 out of the PRI ACCOUNT to cover his $2500 PRI. Next is JULIO who has 130 RADs, has EARNED $1040, and has to take $2960 from the PRI ACCOUNT to cover this $4000 PRI. The last column is labeled ANITA who has 300 RADs, has EARNED $2400, and doesn't need to take anything from the PRI ACCOUNT to cover her $1000 PRI take home.
     The graph shows the PRI ACCOUNT as box full of read liquid. Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT.">
-   <p>Notice that even though dividends are up, Julio continues to draw from the <em><span class="_paradigm">PRI</span> Account</em> because his <span class="_paradigm">PRI</span> is pretty high and his <span class="_paradigm">RAD</span>s count is pretty low. He may want to change his <span class="_paradigm">PRI</span> or get feedback on why his <span class="_paradigm">RAD</span>s are so low.</p>
+  <p>Notice that even though dividends are up, Julio continues to draw from the <em><span class="_paradigm">PRI</span> Account</em> because his <span class="_paradigm">PRI</span> is pretty high and his <span class="_paradigm">RAD</span>s count is pretty low. He may want to change his <span class="_paradigm">PRI</span> or get feedback on why his <span class="_paradigm">RAD</span>s are so low.</p>
  <h2>Comparing the Radical Investment Model with that of Banks and VCs</h2>
-  <p><span class="_paradigm">Radical</span> investments will, at worst, have the same financial yield as today&rsquo;s VC system, but with 1) a lot more beneficiaries (<em>i.e.</em>, all the co-owners), and 2) less risk (<em>i.e.</em>, because a lot more people will be committed to making it work).</p>
+  <p>non-<span class="_paradigm">Fiat</span> investments will, at worst, have the same financial yield as today&rsquo;s VC system, but with 1) a lot more beneficiaries (<em>i.e.</em>, all the co-owners), and 2) less risk (<em>i.e.</em>, because a lot more people will be committed to making it work).</p>
    <img
     src="/assets/img/bank-vs-vcs-vs-radical.svg"     alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS defines a small horizontal parallelogram, it's dot is about one fifth of the way into the RISKS axis and one tenth of the way up the YIELD axis. VC defines a square, it's dot is a little over half way into the RISKS axis and half way up the YIELD axis. RADICAL defines a large vertical parallelogram, with its dot at a little less than half way into the RISKS axis and nine tenth of the way up the YIELD axis. The RADICAL box shows a hashed square area which highlights the fact that the RADICAL approach provides much more YIELD than the BANKS or VC approaches. The graph on the right has RISKS on the horizontal axis and BENEFICIARIES on the vertical axis. As in the previous graph, BANKS defines a small horizontal parallelogram. VC defines a horizontal parallelogram, with it's dot appears seven tenth of the way into the RISKS axis and one fourth of the way up the YIELD axis. As in the previous graph, RADICAL defines a large vertical parallelogram. The RADICAL box shows a hashed area which highlights the fact that the RADICAL approach BENEFITS many more people than the BANKS or VC approaches.">
 
