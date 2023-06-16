@@ -12,7 +12,7 @@ image:    "icon-competence-is-not-intelligence.svg"
 
 <h1>&nbsp;</h1>
  <p>Blair Fix makes an excellent post in his latest post: competence is not intelligence.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Intelligence is what comes to us as conscious thought. Digesting food, going to the bathroom. That is competence, but we don&rsquo;t know how we do it. It just happens. We will know <em>exactly</em> now it works one day, but we have been doing for a long time without knowing how it happens.</p>
- <p>It isn&rsquo;t Artificial Intelligence that is going to <span class='_quotespan'>eliminate humanity.</span> The high risk for us is the enclosures of Artificial Competence tools.</p>
+ <p>It isn&rsquo;t Artificial Intelligence that is going to <span class='_quotespan'>eliminate humanity.</span> The high risk for us is the enclosures of Artificial Competence technology, tools.</p>
  <p>If the Musks and Altmans of this world have it their way, their businesses will among the handful who will be allowed to build Articial Competence tools. Smaller companies will have to take a lot of <span class='_paradigm'>Fiat</span> investment to get over the regulatory hump or stay out of that business altogether.</p>
  <p>Open Source Software (OSS) wil be out of it for good.</p>
  <p>These enclosures are the real risk. And it is not the fact that somebody will be making more money our ot it. The real risk is that by virtue of their capital investements they will getting more power to do their own &ldquo;regulation.&rdquo;.</p>
