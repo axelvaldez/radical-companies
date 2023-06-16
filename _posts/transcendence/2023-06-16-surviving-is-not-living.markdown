@@ -25,6 +25,8 @@ image:    "icon-surviving-is-not-living.svg"
 
 <h1>&nbsp;</h1>
  <p>Nobody knows how to live my life better than myself. Nobody, besides me, knows what&rsquo;s best for me.</p>
+
+<h1>&nbsp;</h1>
  <p>Security and control are now foreign to me. I know they were they priority at one point, but no more.</p>
 
 {% include related.html %}
