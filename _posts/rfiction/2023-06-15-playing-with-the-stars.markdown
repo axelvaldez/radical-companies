@@ -7,7 +7,7 @@ image:    "icon-playing-with-the-stars.svg"
 ---
 
 <div style="display:none;">
- <p>It all started with shining lights on sodium atoms to correct for a telescope&rsquo;s, in Chile, atmospheric distortions.</p>
+ <p>It all started with shining lights on sodium atoms to correct for the Atacama telescope&rsquo;s atmospheric distortions.</p>
 </div>
 
 <h1>&nbsp;</h1>
