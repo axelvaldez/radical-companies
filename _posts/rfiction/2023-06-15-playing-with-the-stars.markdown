@@ -15,7 +15,7 @@ image:    "icon-playing-with-the-stars.svg"
 
 <h1>It Wasn&rsquo;t Long</h1>
  <p>It wasn&rsquo;t long after that somebody got the notion to cmbine sodium with nobelium. The nobelium a is synthetic chemical element and had to be pushed up, through the atmosphere, to the sodium atoms. Someody must have thought that was funny, because the combo created Chile saltpeter (NaNO<sub>3</sub>).</p>
- <p>It wasn&rsquo;t long after that that the military enclosed the technology and modified it to manipulate compounds at higher and higher altitudes. They were aiming for Doc Smith&rsquo;s scheme or making things at a distance. Probably not benign things</p>
+ <p>It wasn&rsquo;t long after that that the military enclosed the technology and modified it to manipulate compounds at higher and higher altitudes. They were aiming for Doc Smith&rsquo;s scheme of making things at a distance. Probably not benign things</p>
  <p>It wasn&rsquo;t long after that that borders disappeared, the military lost its reason to exist, and we were reaching out to play with the stars.</p>
 
 {% include related.html %}
