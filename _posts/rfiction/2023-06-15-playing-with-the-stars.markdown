@@ -7,7 +7,7 @@ image:    "icon-playing-with-the-stars.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>It all started shining lights on sodium atoms to correct for telescope&rsquo;s atmospheric distortions.</p>
 </div>
 
 <h1>&nbsp;</h1>
