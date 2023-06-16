@@ -7,11 +7,11 @@ image:    "icon-competence-is-not-intelligence.svg"
 ---
 
 <div style="display:none;">
- <p>Intelligence is what the PFC reports to us as conscious throught; competence is how we digest food, go to the bathroom, etc. We don&rsquo;t know how we do it, it just happens.</p>
+ <p>Intelligence is what comes to us as conscious throught; competence is how we digest food, go to the bathroom, etc. We don&rsquo;t know how we do it, it just happens.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Blair Fix makes an excellent post in his latest post: competence is not intelligence.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Intelligence is what the Pre-Frontal Cortex (PFC) reports as conscious thought. Competance is things like how we digest food, go to the bathroom, etc. We don&rsquo;t know how we do it, it just happens. Even if you theorize that we will know one day, we have been doing without knowing how it happens A LOT longer.</p>
+ <p>Blair Fix makes an excellent post in his latest post: competence is not intelligence.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Intelligence is what comes to us as conscious thought. Digesting food, going to the bathroom. That is competence, but we don&rsquo;t know how we do it. It just happens. We will know <em>exactly</em> now it works one day, but we have been doing for a long time without knowing how it happens.</p>
  <p>It isn&rsquo;t Artificial Intelligence that is going to <span class='_quotespan'>eliminate humaniity.</span> The high risk for us is the enclosures of Artificial Competence tools.</p>
  <p>If the Musks and Altmans of this world have it their way, their businesses will among the handful who will be allowed to build Articial Competence tools. Smaller companies will have to take a lot of <span class='_paradigm'>Fiat</span> investment to get over the regulatory hump or stay out of that business altogether.</p>
  <p>Open Source Software (OSS) wil be out of it for good.</p>
