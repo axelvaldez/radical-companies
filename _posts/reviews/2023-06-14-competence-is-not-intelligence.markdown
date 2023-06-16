@@ -17,7 +17,7 @@ image:    "icon-competence-is-not-intelligence.svg"
  <p>Open Source Software (OSS) wil be out of it for good.</p>
 
 <h1>The Real Risk</h1>
- <p>These enclosures are the real risk. And it is not the fact that somebody will be making more money our ot it. The real risk is that by virtue of their capital investements they will getting more power to do their own &ldquo;regulation.&rdquo;.</p>
+ <p>These enclosures are the real risk. And it is not the fact that somebody will be making more money our ot it. The real risk is that by virtue of their capital investements they will getting more power. As investors they will be doing their own &ldquo;regulation.&rdquo;.</p>
  <p>A few people will be slotted into the priviledged category of &ldquo;AI wizards&rdquo; and be paid a &ldquo;reasonable.&rdquo; amount, enough to make them think they are different. Everybody else will live off handouts from the <em>21c Robber Barons</em>. This means that the <span class='_paradigm'>Fiat</span> system and the oligarchic owners will continue to thrive and the possibility of non-<span class='_paradigm'>Fiat</span> systems and co-ownership will be slowed down.</p>
  <p>The piece by Blair Fix is entitled, <span class='_quotespan'>No, AI Does Not Pose an Existential Risk to Humanity</span>. It is very true. A,so, very true is that the <em>21c Robbert Barons</em> are pushing hard for an enclosure-by-regulation moat around their businesses.</p>
 
