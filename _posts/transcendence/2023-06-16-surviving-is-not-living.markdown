@@ -12,8 +12,7 @@ image:    "icon-surviving-is-not-living.svg"
 
 <h1>&nbsp;</h1>
  <p>First, I jumped into the void, and I jumped past my fears. I was hoping to go through it safely. Instead I came out stronger, with a positive view of live. It was a blind jump, but I discovered the light in my life.</p>
-
-<h1>&nbsp;</h1>
+ <p>&nbsp;</p>
  <p>I am not split between my &ldquo;personal&rdquo; live and my &ldquo;work&rdquo; life. I am one and the same no matter what I am doing. Love for myself exploded into my life and I now recognize the fears that &ldquo;work&rdquo; brings up.</p>
 
 <h1>&nbsp;</h1>
