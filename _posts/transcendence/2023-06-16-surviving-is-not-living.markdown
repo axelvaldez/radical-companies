@@ -20,7 +20,7 @@ image:    "icon-surviving-is-not-living.svg"
  <p>I was surviving, not living. But now I can recognize the fears that hold me back, in survival mode. I can go around them, lovinglly, and go on with my life, guided my me, not my fears.</p>
 
 <h1>&nbsp;</h1>
- <p>I am still afraid of living, but I am living my life. The more I do it, the easier it get. I am not afraid of dying, so I am not afraid of living.</p>
+ <p>I am still afraid of living, but I am living my life. The more I do it, the easier it gets. I am not afraid of dying, so I am not afraid of living.</p>
 
 <h1>&nbsp;</h1>
  <p>Nobody knows how to live my life better than myself. Nobody, besides me, knows what&rsquo;s best for me.</p>
