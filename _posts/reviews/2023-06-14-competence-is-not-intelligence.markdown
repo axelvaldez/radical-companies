@@ -27,7 +27,7 @@ image:    "icon-competence-is-not-intelligence.svg"
    <p class="_list-item">
     Blair Fix.
     <em>No, AI Does Not Pose an Existential Risk to Humanity</em>.
-    Jue 10,2023.
+    Jue 10, 2023.
     <a class="_uparrow">https://radicals.world/IHYXqL" target="_blank">https://radicals.world/IHYXqL</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
