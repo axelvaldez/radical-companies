@@ -7,7 +7,7 @@ image:    "icon-fernanda-guerra-conscious-contracts.svg"
 ---
 
 <div style="display:none;">
- <p>Fernanda Guerra is one of those people that recognize a good thing when they see it. And that is how she went for Conscious Contracts&copy;: she saw the good in them right away.</p>
+ <p>Fernanda Guerra is one of those people that recognize a good thing when they see it. She saw the good in Kim Wright&rsquo;s Conscious Contracts&copy; and went for it.</p>
 </div>
 
 <h1>&nbsp;</h1>
