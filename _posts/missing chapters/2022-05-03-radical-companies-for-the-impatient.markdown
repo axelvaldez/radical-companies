@@ -18,7 +18,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   <p>In non-<span class="_paradigm">Fiat</span> speak, a company is what we call a group of people who come together to build something bigger than themselves. The word &ldquo;company&rdquo; comes from the Latin <em>co-</em>, meaning &lsquo;together&rsquo;, and <em>pan-</em>, meaning &lsquo;bread.&rsquo; In other words, people who break bread together.</p>
   <p>Every company is different because the people who embody it are different, and this means that every company must find its own way. What fundamentally makes a non-<span class="_paradigm">Fiat</span> company different from a <span class="_paradigm">Fiat</span> business is that it has a Foundation,</p>
    <div class="_center">
-    <table class="_foundation">
+    <table class="_h2table">
      <tr>
       <th>people</th>
       <td>Meaning & Belonging</td>
@@ -227,20 +227,20 @@ image:    "icon-radical-companies-for-the-impatient.svg"
 
 <h1>Co-Ownership</h1>
  <p>You can calculate the amount each co-owners have earned by factoring the total revenue through the allocated <span class="_paradigm">RAD</span>s. For example,</p>
- <ul>
-  <li>
-   <p style="text-indent:0;">Six of us generate $16,000 in dividends.</p>
-  </li>
-  <li>
-   <p style="text-indent:0;">There is a total of 1,000 RADs allocated which means that each <span class="_paradigm">RAD</span> is worth $16 this cycle.</p>
-  </li>
-  <li>
-   <p style="text-indent:0;">You have twice as many <span class="_paradigm">RAD</span>s as me.</p>
-  </li>
-  <li>
-   <p style="text-indent:0;">You <em>Earned</em> twice as many Dividends as me.</p>
-  </li>
- </ul>
+  <ul>
+   <li>
+    <p style="text-indent:0;">Six of us generate $16,000 in dividends.</p>
+   </li>
+   <li>
+    <p style="text-indent:0;">There is a total of 1,000 RADs allocated which means that each <span class="_paradigm">RAD</span> is worth $16 this cycle.</p>
+   </li>
+   <li>
+    <p style="text-indent:0;">You have twice as many <span class="_paradigm">RAD</span>s as me.</p>
+   </li>
+   <li>
+    <p style="text-indent:0;">You <em>Earned</em> twice as many Dividends as me.</p>
+   </li>
+  </ul>
  <h2>Making Recurring Takehome Pay Predictable</h2>
   <p>That earned amount is split between Dividends and a <em>Predictable Recurring Income</em> (PRI) component.</p>
   <p>When you really think about it, &ldquo;salary&rdquo; is a <span class="_paradigm">Fiat</span> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the non-<span class="_paradigm">Fiat</span> context.</p>
@@ -367,5 +367,5 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    <a href="#bm07"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
  </ul>
-
+h2table
 {% include related.html %}
