@@ -24,7 +24,7 @@ image:    "icon-esops-making-fiat-bearable-for-fiat-owners.svg"
  <p>Unfortuntely, Kelso didn&rsquo;t go far enough and ESOPs stayed within the <span class='_paradigm'>Fiat</span> system, making it a little bit more bearable for <span class='_paradigm'>Fiat</span> owners.</p>
 
 <h1>Non-Fiat</h1>
- <p>The good news is that a non-<span class='_paradigm'>Fiat</span> system provides these benetifs,</p>
+ <p>The good news is that a non-<span class='_paradigm'>Fiat</span> system provides these benetifs for every co-owner,</p>
   <ul>
    <li>Shared Success: This would be more like community success, where the community could part of company or an esembles of companies.</li>
    <li>Retention Revolution: It is not so much retention-of-employees-to-make-weath-for-me, but that people would want stay with the community that they are part off. On the other hand, it they need to move on, they can and they take the part of the part of the company they helped create.</li>
