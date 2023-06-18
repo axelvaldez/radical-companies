@@ -21,7 +21,7 @@ image:    "icon-esops-making-fiat-bearable-for-fiat-owners.svg"
    <li>Win-Win Wealth: ESOPs are beneficial not just for the employees, but also for the company, with various tax advantages in play.</li>
   </ul>
  <p>Levin claims that, <span class='_quotespan'>This is a game-changer in driving employee performance and satisfaction.</span> And that is pretty much the way I felt until I discovered how many loopholes have crept in the law over the years. Today is is simply a windfall for the origianl owner.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> The employee-owners continue to be employees and have no say in the management of the business which continues to be ruled by a Board and a <span class='_paradigm'>Fiat</span> hierarchy.</p>
- <p>Unfortuntely, Kelso&rsquo;s ESOPs stayed within the <span class='_paradigm'>Fiat</span> system, making it a little bit more bearable for <span class='_paradigm'>Fiat</span> owners.</p>
+ <p>Unfortunately, Kelso&rsquo;s ESOPs stayed within the <span class='_paradigm'>Fiat</span> system, making it a little bit more generous (and more risky) for employees and definitly a windfall for <span class='_paradigm'>Fiat</span> owners.</p>
 
 <h1>Non-Fiat</h1>
  <p>The good news is that a non-<span class='_paradigm'>Fiat</span> system provides these benetifs for every co-owner,</p>
