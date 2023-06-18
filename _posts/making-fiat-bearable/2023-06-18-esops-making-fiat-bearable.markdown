@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "ESOPS: Making Fiat Bearable"
+title:    "ESOPS: Making Fiat Bearable for Owners"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-esops-making-fiat-bearable.svg"
+image:    "icon-esops-making-fiat-bearable-for-owners.svg"
 ---
 
 <div style="display:none;">
