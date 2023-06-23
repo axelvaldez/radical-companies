@@ -14,7 +14,7 @@ image:    "icon-the-power-of-the-powerless.svg"
  <p>According to Václav Havel, dictatorships are held together by historical roots, ideology, and the very people they dominate. That is what he concluded in the <em>The Power of Powerless</em>. Looked at it through this lense, <em>businesses are dictatorship</em>.</p>
 
 <h1>The Power of Dictatorships</h1>
- <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></sup> 
+ <p>In October 1978, Václav Havel, the Czech dramatist and then political dissident, published <em>The Power of the Powerless</em>. Twenty years later the Velvet Revolution brought a bloodless transition of power to the country and Havel as President.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p> 
  <p>In the essay, his most striking observation is that what keeps together dictatorships is the acceptance of the very people that they oppress<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>. He also observed that soviet-style dictatorships are based on a huge power block, historical roots, ideology-as-securalized-religion, and State ownership of &ldquo;the means of production,&rdquo; that is, everything that can generate wealth, including people. In summary,</p>
  <table class="_background">
   <tr>
