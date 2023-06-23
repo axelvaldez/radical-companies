@@ -15,7 +15,7 @@ image:    "icon-esops-making-fiat-bearable-for-fiat-owners.svg"
  <p>The ESOP law was inspired by the book Capitalist Manifest, by Louis Kelso and Mortimer Adler. Adler was he writer, but the idea came from Kelso. As a recent post by Thomas Lewin put is, <span class='_quotespan'>If you contribute to the success of an enterprise, you share in the reward,</span></p>
   <ul>
    <li>Shared Success: ESOPs embody the philosophy that those who contribute to success should also share in the rewards. This is a game-changer in driving employee performance and satisfaction.</li>
-   <li>Retention Revolution: Say goodbye to the revolving door of talent. With ESOPs, your top performers have a vested interest in your company's success and are more likely to stick around.</li>
+   <li>Retention Revolution: Say goodbye to the revolving door of talent. With ESOPs, your top performers have a vested interest in your company&rsquo;s success and are more likely to stick around.</li>
    <li>Smooth Succession: ESOPs keep the power within the organization, ensuring a seamless transition and uninterrupted growth.</li>
    <li>Empowered Culture: Employees aren't just workers, they're owners. This fosters a culture of mutual respect, shared responsibility, and collective triumph.</li>
    <li>Win-Win Wealth: ESOPs are beneficial not just for the employees, but also for the company, with various tax advantages in play.</li>
@@ -24,7 +24,7 @@ image:    "icon-esops-making-fiat-bearable-for-fiat-owners.svg"
  <p>Unfortunately, Kelso&rsquo;s ESOPs stayed within the <span class='_paradigm'>Fiat</span> system, making it a little bit more generous (and more risky) for employees and definitely a windfall for <span class='_paradigm'>Fiat</span> owners.</p>
 
 <h1>Non-Fiat</h1>
- <p>Non-<span class='_paradigm'>Fiat</span> systems provides these benetifs for <em>every co-owner</em>,</p>
+ <p>Non-<span class='_paradigm'>Fiat</span> systems provides these benefits for <em>every co-owner</em>,</p>
   <ul>
    <li>Shared Success: This would be more like community success, where the co-owner could part of company or an ensembles of companies.</li>
    <li>Retention Revolution: It is not so much retention-of-employees-to-make-wealth-for-me, but that people would want stay with the community that they are part of. On the other hand, it they need to move on, they benefit from the part of the company they helped create.</li>
