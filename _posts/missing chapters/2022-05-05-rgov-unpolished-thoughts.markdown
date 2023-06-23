@@ -110,7 +110,7 @@ image:    "icon-gov.svg"
    </div>
   <h2>Evolution, Interrupted</h2>
    <p>As I see it, the <span class="_paradigm">Radical</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve anything.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
-   <p>The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of imterdependence towards a higher level of collaboration.</p>
+   <p>The dominance model of collaboration has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of interdependence towards a higher level of collaboration.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
