@@ -7,11 +7,11 @@ image:    "icon-esops-making-fiat-bearable-for-fiat-owners.svg"
 ---
 
 <div style="display:none;">
- <p>At one point I was really excited around ESOP, the Employee Stock Ownership Plan. And then I reserached it and I wasn&rsquo;t so excited anymore.</p>
+ <p>At one point I was really excited around ESOP, the Employee Stock Ownership Plan. And then I researched it and I wasn&rsquo;t so excited anymore.</p>
 </div>
 
 <h1>ESOPs</h1>
- <p>At one point I was really excited around ESOP, the Employee Stock Ownership Plan. And then I reserached it and I wasn&rsquo;t so excited anymore.</p>
+ <p>At one point I was really excited around ESOP, the Employee Stock Ownership Plan. And then I researched it and I wasn&rsquo;t so excited anymore.</p>
  <p>The ESOP law was inspired by the book Capitalist Manifest, by Louis Kelso and Mortimer Adler. Adler was he writer, but the idea came from Kelso. As a recent post by Thomas Lewin put is, <span class='_quotespan'>If you contribute to the success of an enterprise, you share in the reward,</span></p>
   <ul>
    <li>Shared Success: ESOPs embody the philosophy that those who contribute to success should also share in the rewards. This is a game-changer in driving employee performance and satisfaction.</li>
