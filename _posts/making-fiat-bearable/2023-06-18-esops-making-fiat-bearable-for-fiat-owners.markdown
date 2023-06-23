@@ -26,7 +26,7 @@ image:    "icon-esops-making-fiat-bearable-for-fiat-owners.svg"
 <h1>Non-Fiat</h1>
  <p>Non-<span class='_paradigm'>Fiat</span> systems provides these benetifs for <em>every co-owner</em>,</p>
   <ul>
-   <li>Shared Success: This would be more like community success, where the co-owner could part of company or an esembles of companies.</li>
+   <li>Shared Success: This would be more like community success, where the co-owner could part of company or an ensembles of companies.</li>
    <li>Retention Revolution: It is not so much retention-of-employees-to-make-wealth-for-me, but that people would want stay with the community that they are part of. On the other hand, it they need to move on, they benefit from the part of the company they helped create.</li>
    <li>Smooth Succession: This doesn&rsquo;t mean anything in a non-<span class='_paradigm'>Fiat</span> environment. On the other hand, if we interpret it as the &ldquo;smooth succession&rdquo; of the company itself, then this makes more sense. Note that this is not the succession of a <span class='_paradigm'>Fiat</span> wealth-making-for-the-owners business. It means that the company doesn&rsquo;t fall apart because of one departure.</li>
    <li>Empowered Culture: The ESOP is neither empowered nor a culture. On the other hand, non-<span class='_paradigm'>Fiat</span> companies are decentralized, co-management and co-ownership, and as such they are a culture empowerered by every co-owner in the team.</li>
