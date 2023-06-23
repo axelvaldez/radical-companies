@@ -14,9 +14,9 @@ image:    "icon-removing-a-huge-pain-salaries.svg"
  <p>Salaries are a pain for salaried people <span style="font-weight:bold; ">and</span> for the bosses who have to face them. Not only are they a pain, but the system is way too centralized, in the hands of bosses who have no idea what anybody really needs and have only a fuzzy, biased idea as to anybody&rsquo;s contribution. There is no way for bosses to be <em>fair</em> or for the employees to feel they are being treated fairly.</p>
  <p>The alternative is to let people set their own salaries.</p>
 
-<h1>Salaries Are  Debt</h1>
+<h1>Salaries Are Debt</h1>
  <p>Responsible adults know what they need, and everybody person you hire is a responsible adult. They are quite capable of figuring out how much they need to take home regularly; or put another way, they are quite capable of deciding how much to extract from the wealth that everybody helped create. This is what &ldquo;salaries&rdquo; should be: predictable and regular wealth extraction. But they are a form of wealth extraction, but a market-driven price, same as pees.</p>
- <p class="_mb0">The owners, on the other hand,m get to extract wealth from everybody&rsquo;s work,
+ <p class="_mb0">The owners, on the other hand, get to extract wealth from everybody&rsquo;s work,
   <ul>
    <li>People do the work.</li>
    <li>This shows in the books as debt.</li>
