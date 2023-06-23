@@ -18,7 +18,7 @@ image:    "icon-competence-is-not-intelligence.svg"
 
 <h1>The Real Risk</h1>
  <p>These enclosures are the real risk. And it is not the fact that somebody will be making more money our ot it. The real risk is that by virtue of their capital investements they will getting more power. As investors they will be doing their own &ldquo;regulation.&rdquo;</p>
- <p>A few people will be slotted into the priviledged category of &ldquo;AI wizards&rdquo; and be paid a &ldquo;more than reasonable&rdquo; amount, enough to make them believe they a cut above. Everybody else will live off handouts from the <em>21c Robber Barons</em>. This means that the <span class='_paradigm'>Fiat</span> system and the oligarchic owners will continue to thrive and the possibility of non-<span class='_paradigm'>Fiat</span> systems and co-ownership will be slowed down.</p>
+ <p>A few people will be slotted into the privileged category of &ldquo;AI wizards&rdquo; and be paid a &ldquo;more than reasonable&rdquo; amount, enough to make them believe they a cut above. Everybody else will live off handouts from the <em>21c Robber Barons</em>. This means that the <span class='_paradigm'>Fiat</span> system and the oligarchic owners will continue to thrive and the possibility of non-<span class='_paradigm'>Fiat</span> systems and co-ownership will be slowed down.</p>
 
  <h1>Enclosure-by-Regulation</h1>
  <p>The piece by Blair Fix is entitled, <span class='_quotespan'>No, AI Does Not Pose an Existential Risk to Humanity</span>. The <em>21c Robbert Barons</em> are pushing hard for an enclosure-by-regulation moat around their businesses.</p>
