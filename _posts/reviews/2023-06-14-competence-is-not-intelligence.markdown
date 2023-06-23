@@ -7,7 +7,7 @@ image:    "icon-competence-is-not-intelligence.svg"
 ---
 
 <div style="display:none;">
- <p>Intelligence is what comes to us as conscious throught; competence is how we digest food, go to the bathroom, etc. We don&rsquo;t know how we do it, it just happens.</p>
+ <p>Intelligence is what comes to us as conscious thought. Competence is how we digest food, go to the bathroom, etc.: we don&rsquo;t know how we do it, it just happens.</p>
 </div>
 
 <h1>Open Source Is Out</h1>

@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Money, Title, and Empire Are All the Same Thing:  Fiat  Hierarchies"
+title:    "Money, Title, and Empire Are All the Same Thing: Fiat  Hierarchies"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "icon-fiat-hierarchy.svg"
