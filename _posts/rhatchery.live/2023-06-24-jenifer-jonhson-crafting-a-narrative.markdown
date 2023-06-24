@@ -7,7 +7,7 @@ image:    "icon-jenifer-jonhson-crafting-a-narrative.svg"
 ---
 
 <div style="display:none;">
- <p></p>
+ <p>We had talked with Jenifer Johnson before, but now we got to talk with her in the rHatchery.live podcast. It was mind blowing, a term I don&rsquo;t use often.</p>
 </div>
 
 <h1>&nbsp;</h1>
@@ -24,6 +24,5 @@ image:    "icon-jenifer-jonhson-crafting-a-narrative.svg"
 
 <h1>To Barcelona</h1>
  <p>Jenifer moved to Barcelona 35 years ago and has only move back to the US to work that lobbyist stint. As quickly as she came, she went back to Barcelona and has continued her life there. Her business, Storymind, helps people, who usually have not worked together before, work together to create narratives for a given situation. We are hoping to do a workshop with her to create our non-<span class='_paradigm'>Fiat</span> narrative for <span class='_paradigm'>Fiat</span> natives.</p>
-
 
 {% include related.html %}
