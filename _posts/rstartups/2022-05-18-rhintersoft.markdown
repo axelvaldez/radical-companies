@@ -7,7 +7,7 @@ image:    "icon-feudalism-is-back-square.svg"
 ---
 
 <div style="display: none; ">
- <p>World-wide, software craft shhop ensemble.</p>
+ <p>World-wide, software craft shop ensemble.</p>
 </div>
 
 <h1>Intro</h1>
