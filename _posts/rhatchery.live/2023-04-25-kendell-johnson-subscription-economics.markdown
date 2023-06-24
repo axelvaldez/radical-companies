@@ -38,7 +38,7 @@ image:    "icon-kendell-johnson-subscription-economy.svg"
    <tr>
     <th>Frictionless</th>
     <td>
-     <p>My friend, ÁÁlvaro Daza started a company to make things frictionless for digital nomads. Frictionless is equivalent to light in this context.</p>
+     <p>My friend, &Aacute;lvaro Daza started a company to make things frictionless for digital nomads. Frictionless is equivalent to light in this context.</p>
      <p>Digital Nomads have realized that they can live and work anywhere in the world. What Circolo, my friend&rsquo;s company, is doing for them is to make mundane things like insurance and housing frictionless. Add a subscription model on top and we are making the world pretty light.</p>
      <p>As a counterexample, a long while back my friends moved to Japan for a few years and he had to ship all their furniture there. Today that would be a crazy thing to do.</p>
     </td>
