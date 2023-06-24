@@ -3,11 +3,11 @@ layout:   post
 title:    "rBuddyNeighbor"
 subtitle: "Connecting neighbors, building community."
 authors:  "Matt Perez"
-image:    "icon-buddyneighbor.svg"
+image:    "icon-rbuddyneighbor.svg"
 ---
 
 <div style="display: none; ">
- <p>Politics is local, it starts at the grassroots. BuddyNeighbor build communities of neighbors that can talk and act together.</p>
+ <p>Politics is local, it starts at the grassroots. RBuddyneighbor build communities of neighbors that can talk and act together.</p>
 </div>
 
 <h1>Origin Story</h1>
@@ -721,7 +721,7 @@ image:    "icon-buddyneighbor.svg"
   <li id="en07">
    <p class="_list-item">
     <div class="_p">
-     This is an account for getting reimbursed. The ideal is for BuddyNeighbor.com to pay for the goods.
+     This is an account for getting reimbursed. The ideal is for RBuddyneighbor.com to pay for the goods.
     </div>
     <div class="_p">
      Later, we should figure a way for Buddies not to have to pay up front for anything. Maybe we issue cards where changes are only accepted after a request is committed.
