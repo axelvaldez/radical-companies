@@ -79,7 +79,7 @@ image:    "icon-nextbright.svg"
     <th>Personal Branding</th>
     <td>
      <ul>
-      <li>Personal Brand Story developmentt</li>
+      <li>Personal Brand Story development</li>
       <li>CV preparation</li>
       <li>Professional breadcrumbs (<em>e.g.<sub> </sub></em>StackOverflow footprint, GitHub footprint).</li>
      </ul>

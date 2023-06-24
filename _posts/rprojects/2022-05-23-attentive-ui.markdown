@@ -24,7 +24,7 @@ image:    "icon-rmedia.svg"
     <td>
      <ul>
       <li>UIs adapt to each user and lower the cognitive load of using computers.</li>
-      <li>The UI is responsive to each user’s actual use and developmentt teams don&rsquo;t have to worry (as much) about how to order their menus.</li>
+      <li>The UI is responsive to each user’s actual use and development teams don&rsquo;t have to worry (as much) about how to order their menus.</li>
      </ul>
     </td>
    </tr>

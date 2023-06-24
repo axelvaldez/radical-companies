@@ -11,7 +11,7 @@ image:    "icon-feudalism-is-back-square.svg"
 </div>
 
 <h1>Intro</h1>
- <p>Hintersoft helps its clients grow their product developmentt teams, enhance their innovation, and end up with committed team. The company is co-owned and co-managed by the people who embody it and contribute to it.</p>
+ <p>Hintersoft helps its clients grow their product development teams, enhance their innovation, and end up with committed team. The company is co-owned and co-managed by the people who embody it and contribute to it.</p>
 
 <h1>Alignment</h1>
  <div class="_center">

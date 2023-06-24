@@ -32,7 +32,7 @@ image:    "icon-gov.svg"
    <li>Parks and recreation.</li>
    <li>Municipal courts.</li>
   </ul>
-  <p>Another thing that our present day&rsquo;s cities get involved in is economic developmentt. Let&rsquo;s start with that because that is where the wheels of &ldquo;government of the people, by the people, for the people&rdquo; start to come off.</p>
+  <p>Another thing that our present day&rsquo;s cities get involved in is economic development. Let&rsquo;s start with that because that is where the wheels of &ldquo;government of the people, by the people, for the people&rdquo; start to come off.</p>
   <h2>Economic Development</h2>
    <p>&ldquo;Economic development&ldquo; is where elected government goes over the line and gets involved in the creation of private goods for businesses and their owners in the name of &ldquo;job creation.&rdquo; In a <span class="_paradigm">Radical</span> world, city governments are no longer responsible for any of this&mdash;everybody is capable and has the means to build their own wealth creating communities.</p>
   <h2>Car Traffic</h2>

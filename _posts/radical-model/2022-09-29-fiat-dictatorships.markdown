@@ -33,7 +33,7 @@ image:    "icon-fiat-dictatorships.svg"
 <h1>The Stock Market</h1>
  <p>The brilliance of the stock market is the realization that it takes a community to grow.<p>
  <div class="_citation">
-  <p>1790: The Philadelphia Stock Exchange is formed, helping spur the developmentt of the U.S.&rsquo; financial sectors and the country&rsquo;s expansion west.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>1790: The Philadelphia Stock Exchange is formed, helping spur the development of the U.S.&rsquo; financial sectors and the country&rsquo;s expansion west.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>It was a community of people with accumulated capital to invest, but note that its first priority was to help  &ldquo;the U.S.&rsquo; financial sectors.&rdquo;<p>
  <p>The &ldquo;all men are created equal&rdquo; US Constitution was written and signed by slavers, but, thankfully, the US Constitution was aspirational and its interpretation has progressed since, though not without a fight.</p>
