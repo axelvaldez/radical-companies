@@ -3,7 +3,7 @@ layout:   post
 title:    "rNextBright"
 subtitle: "WE GROW, YOU GROW, I GROW."
 authors:  "Matt Perez"
-image:    "icon-nextbright.svg"
+image:    "icon-rnextbright.svg"
 ---
 
 <div style="display: none; ">
@@ -113,7 +113,7 @@ image:    "icon-nextbright.svg"
  <p>Integrate employers into the program and create opportunities for them to participate as early as possible in the process. They are the beneficiaries of making this happen.</p>
  <ul>
   <li>Employers: employer developers mentor the less experienced.</li>
-  <li>Traditional vs NextBright Sourcing – Hire graduates for a a percentage of salary vs hire them for less by prepaying for <code>N</code> hires. Requires an in-depth Kickoff.</li>
+  <li>Traditional vs RNextbright Sourcing – Hire graduates for a a percentage of salary vs hire them for less by prepaying for <code>N</code> hires. Requires an in-depth Kickoff.</li>
   <li>Either of above, but with discounts/credits for participating in the training (mentorship).</li>
  </ul>
 
