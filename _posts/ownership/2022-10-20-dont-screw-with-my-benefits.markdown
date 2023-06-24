@@ -16,7 +16,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
  
 <div class="_citation">
  Perhaps our job is to create the conditions for things to get better, not to predict that they won’t.
- <p id="_signature">Seth Goding<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p id="_signature">Seth Godin<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 </div>
  
 <h1>RADICAL Threat</h1>

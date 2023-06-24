@@ -394,7 +394,7 @@ image:    "icon-rmedia.svg"
   </li>
   <li id="en02">
    <p class="_list-item">
-    Mary Parker Follet
+    Mary Parker Follett
     <em>Creative Experience</em>.
     &lt;<a href="https://a.co/7rTNcYl" target="_blank">https://a.co/7rTNcYl</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>

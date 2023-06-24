@@ -52,7 +52,7 @@ image:    "icon-explicit-relationships.svg"
       </td>
      </tr>
      <tr>
-      <th><em style="text-align:left; ">Practices</em>: Alignment & Experimentatiom</th>
+      <th><em style="text-align:left; ">Practices</em>: Alignment & Experimentation</th>
       <td>
        <ul>
         <li>What is the impact that we want to have on the world?</li>
