@@ -42,7 +42,7 @@ image:    "icon-simple-fear-or-love.svg"
   <li id="en01">
    <p class="_list-item">
     Love.
-    <<a href="https://en.wikipedia.org/wiki/Love" target="_blank">https://en.wikipedia.org/wiki/Lov</a>>
+    <<a href="https://en.wikipedia.org/wiki/Love" target="_blank">https://en.wikipedia.org/wiki/Love</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
