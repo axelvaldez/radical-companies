@@ -31,7 +31,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favorite-store-in-town.svg"
  <p class="_speakerc">We were going to tell them anyway. In fact&hellip;</p>
  <p>She glanced at her husband and he subtly signaled agreement with his eyes.</p>
  <p class="_speakera">We prefer to tell them ourselves.</p>
- <p class="_speakerb">That would be best. I felt awkward coming here anyway. Now let me explain what I see as my involvement&mdash;I paused for a bit and thought about what I wanted to say and how I wanted to say it&mdash;<span class="_speakerbc">I intend to help them out with the finances, the money part, but I don&rsquo;t want to expect any powerr over the company in any way. Except, maybe, they should reserve three chocolate eclairs from me.</p>
+ <p class="_speakerb">That would be best. I felt awkward coming here anyway. Now let me explain what I see as my involvement&mdash;I paused for a bit and thought about what I wanted to say and how I wanted to say it&mdash;<span class="_speakerbc">I intend to help them out with the finances, the money part, but I don&rsquo;t want to expect any power over the company in any way. Except, maybe, they should reserve three chocolate eclairs from me.</p>
  <p>Finally, we all got to smile and relax a bit.</p>
  <p class="_speakera">What do you mean you don&rsquo;t want any power for your money?</p>
  <p class="_speakerb">Hmm. This may sound weird to you, but I am more interested that they and the community succeed. I&rsquo;ll give them what I call a <span class="_paradigm">Radical investment</span>. This means that they have to pay back the amount of money I give them plus a small interest. I&rsquo;ve made a couple of these investments before and the &ldquo;something more&rdquo; is that we take my interest, usually 10%, and the co-owners match it we end up with 20% of the investment in a pool and then distribute it to everybody based on their&hellip; contributions.</p>
@@ -41,7 +41,7 @@ image:    "icon-E02-the-co-owned-pastry-shop-my-favorite-store-in-town.svg"
  <p class="_speakerb">OK, if you are interested, I&rsquo;ll give you the whole tour of how <span class="_paradigm">RAD</span>s work.</p>
 
 <h1>Contributions (Not Capital)</h1>
- <p class="_speakerb">OK&hellip; <span class="_paradigm">RAD</span>s are not digital money or anthing like that. But, forget that for now! Let&rsquo;s start with <em>contributions</em>. Normally. you do something good, the boss notices, and he gives you a pat on the back. If he likes you, he may even give you a promotion later. That makes it more tangible, right? But what do you do when you are all owners <em>and there is no boss</em>&hellip;</p>
+ <p class="_speakerb">OK&hellip; <span class="_paradigm">RAD</span>s are not digital money or anything like that. But, forget that for now! Let&rsquo;s start with <em>contributions</em>. Normally. you do something good, the boss notices, and he gives you a pat on the back. If he likes you, he may even give you a promotion later. That makes it more tangible, right? But what do you do when you are all owners <em>and there is no boss</em>&hellip;</p>
  <p class="_speakera">Go ahead. We are interested.</p>
  <p class="_speakerc">That is how we run the store, n&rsquo;est pa?</p>
  <p class="_speakerb">Yes, but not really.</p>

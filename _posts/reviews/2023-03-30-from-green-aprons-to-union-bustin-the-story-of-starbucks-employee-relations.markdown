@@ -45,7 +45,7 @@ image:    "icon-starbucks-once-a-good-employer-now-at-the-bottom-of-the-list.svg
   <p>The National Labor Relations Board (NLRB) has more than 500 pending cases against Starbucks and NLRB judges have found Starbucks has violated the law over 100 times.</p>
   <p>According to a March 27, 2023, <a href="https://www.sanders.senate.gov/wp-content/uploads/No-Company-is-Above-the-Law-HELP-Report.pdf" target="_blank">US Senate Health, Education, Labor, and Pensions Committee (HELP) report</a>.</p>
  </div>
- <p>This shows that co-management <em>is not enough</em>. It is inspirational and values and purpose sound good: you really want to believe it! But whether they apply or not, it is up to the owners. And when a business like Starbucks focus on the financial bottom line. As it happened in Starbucks, the owners can decide to ignore values, purpose, and all the rest and focus on the financial goal. Starbucks is not the first one to go from &ldquo;good&rdquo;  emloyer to &ldquo;what&rsquo;s the margin&rdquo; employer.</p>
+ <p>This shows that co-management <em>is not enough</em>. It is inspirational and values and purpose sound good: you really want to believe it! But whether they apply or not, it is up to the owners. And when a business like Starbucks focus on the financial bottom line. As it happened in Starbucks, the owners can decide to ignore values, purpose, and all the rest and focus on the financial goal. Starbucks is not the first one to go from &ldquo;good&rdquo;  employer to &ldquo;what&rsquo;s the margin&rdquo; employer.</p>
  <p>We need to get away from ownership based on capital and towards decentralized ownership based on contributions. Co-owners will not go against themselves.</p>
 
 <h1 class="_section">ENDNOTES</h1>

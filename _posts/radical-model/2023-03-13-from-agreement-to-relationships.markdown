@@ -54,7 +54,7 @@ image:    "icon-from-agreements-to-relationships.svg"
 <h1>Commitments</h1>
  <p>As you go through these questions, you will likely bring up things that you would like to change. For some of these, you may even make a commitment, <span class="_quotespan">Even when I am angry, I will keep my voice down&hellip; .</span></p>
  <p>For each of those commitments, people in the group will make a support commitment to help remind you of your commitment. <span class="_quotespan">I will ask you to keep your voice down, even if I have to raise my own voice to get your attention.</span></p>
- <p>After you make your explicit commitments and receive support commiments, go through commitments written down in the Explicit Relationship document by other co-owners and add your own support commitments, as appropriate.</p>
+ <p>After you make your explicit commitments and receive support commitments, go through commitments written down in the Explicit Relationship document by other co-owners and add your own support commitments, as appropriate.</p>
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
