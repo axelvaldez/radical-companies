@@ -30,7 +30,7 @@ image:    "icon-e11-and-then.svg"
  <p>I walked ahead of them, and without turning asked them their names.</p>
  <p>&ldquo;I am Ignatius. I am 18 years old. Not married.&rdquo;</p>
  <p>&ldquo;And I am Petra. I am 20. I am married, but it doesn&rsquo;t matter. Not anymore.&rdquo;</p>
- <p>&ldquo;El<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> help us,&rdquo; said Ignatiuss, under his breath. But Petra heard him. &ldquo;El Shaddai is not going to help us. El is a burden on us, on all The Bracia. We have to help ourselves. We have to trust that these people will help us. If you want to pray, pray that they&rsquo;d be Yahweh M'kaddesh.&rdquo;</p>
+ <p>&ldquo;El<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> help us,&rdquo; said Ignatius, under his breath. But Petra heard him. &ldquo;El Shaddai is not going to help us. El is a burden on us, on all The Bracia. We have to help ourselves. We have to trust that these people will help us. If you want to pray, pray that they&rsquo;d be Yahweh M'kaddesh.&rdquo;</p>
  <p>&ldquo;I am not praying,&rdquo; said Ignatius, &ldquo;it was just something I said. Don&rsquo;t let your amygdala rule you.&rdquo;</p>
  <p>I heard Petra chuckled. Then I quickly turned around and took a brief glance, enough to see them walking behind me in an awkward hug.</p>
 
