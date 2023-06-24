@@ -315,7 +315,7 @@ image:    "icon-buddyneighbor.svg"
      Later, we should figure a way for Buddies not to have to pay up front for anything. Maybe we issue cards where changes are only accepted after a request is committed.
     </div>
     <div class="_p">
-      In the example below, we'd load up Margot's card with $2 which is the approximate price of an Organic Valley 2% Milk gallon.
+      In the example below, we'd load up Margot&rsquo;s card with $2 which is the approximate price of an Organic Valley 2% Milk gallon.
     </div>
     <div class="_p">
      We take the risk that or Margot may not deliver or Nam may not accept it.
