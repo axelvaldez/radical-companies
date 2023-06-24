@@ -22,7 +22,7 @@ image:    "icon-jenifer-jonhson-crafting-a-narrative.svg"
 <h1>HIV/AIDs</h1>
  <p>Jenifer talked about the time she worked as a lobbyist, trying to get the bush administration to pass a bill to get medecins to people with HIV, a bit that would save lives. As she was telling the story, I exepected that the whole thing had failed. Instead, the Bush administration signed off on a $1 trillion bill to pay for benefits. I almost fell off my seat. I do remember how people with HIV were dying left and right and then they were not, but I didn&rsquo;t know what had happened.</p>
 
-<h1>From Texas to Barcelona</h1>
+<h1>To Barcelona</h1>
  <p>Jenifer moved to Barcelona 35 years ago and has only move back to the US to work that lobbyist stint. As quickly as she came, she went back to Barcelona and has continued her life there. Her business, Storymind, helps people, who usually have not worked together before, work together to create narratives for a given situation. We are hoping to do a workshop with her to create our non-<span class='_paradigm'>Fiat</span> narrative for <span class='_paradigm'>Fiat</span> natives.</p>
 
 
