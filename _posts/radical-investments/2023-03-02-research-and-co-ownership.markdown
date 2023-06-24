@@ -33,7 +33,7 @@ image:    "icon-research-and-co-ownership.svg"
   <li id="en01">
    <p class="_list-item">
     Matt Perez, Adrian Perez.
-    <emresult.</em>
+    <em>Radical Investments</em>.
     PRADERA MEDIA.
     2022.
     &lt;<a href="https://radicalcompanies.com/2022/10/18/radical-investments" target="_blank">https://radicalcompanies.com/2022/10/18/radical-investments</a>&gt;

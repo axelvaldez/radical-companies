@@ -50,7 +50,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>If you want to, and can, then take in capital. For starting companies seed capital, as it is called, comes from friends, family, and &ldquo;fools&rdquo;. Friends and family know you and trust you; &ldquo;fools&rdquo; believe in you. The thing they have in common is that they all want you to succeed.</p>
  <p>Seed capital is formalized and made legal as a Note that promises them, 1) their money back plus some upside, or 2) future shares of the new company. Note that you startup company <em>won&rsquo;t have shares</em> (but hopes to, one day).</p>
 
-<h1>result</h1>
+<h1>Result</h1>
  <p>What we are proposing here is you treat capital infusions as a <em><span class="_paradigm">Radical</span> investment</em>.</p>
  <p><span class="_paradigm">Radical</span> investments include paying back the principal and an upside over a certain time. It could be 120% over two years, or double after five, or whatever you think is realistic and reasonable. Very important: <span class="_paradigm">Radical</span> investments do not include <em>any</em> other powers. This won&rsquo;t be a surprise for the friends/family/fools crowd. It will most likely be a surprise to traditional <span class="_paradigm">Fiat</span> capital investors; even unacceptable. However, a few &ldquo;traditional&rdquo; investors may be inspired enough to go along with a <span class="_paradigm">Radical</span>-investment.</p> The guaranteed return may do the trick.</p>
  <p>Instead of promising wild returns, you may structure it as a reasonable, even low, guaranteed return plus a percentage of dividends for a fixed period of time. This avoids the &ldquo;power forever&rsquo; setup of today.</p>
