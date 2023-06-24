@@ -24,7 +24,7 @@ image:    "icon-fiat-dictatorships.svg"
  </table>
 
 <h1>Kleptocracies</h1>
- <p>Dictatorships <em>have to</em> become kleptocracies to fund private goods (<em>aka</em>, corruption) at the expense of public goods.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Take, for example, Russia, North Korea, or Cuba: they have enough of an economy to fund the force necessary to maintain their dictatorhips in power, but not enough to maintain their infrastructure or even their war machine.</p>
+ <p>Dictatorships <em>have to</em> become kleptocracies to fund private goods (<em>aka</em>, corruption) at the expense of public goods.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Take, for example, Russia, North Korea, or Cuba: they have enough of an economy to fund the force necessary to maintain their dictatorships in power, but not enough to maintain their infrastructure or even their war machine.</p>
 
 <h1>Are Dictatorships Illegal</h1>
  <p>Dictatorships may be repugnant, but are they <em>illegal</em>? There is no international law that I know of to declare them one way or the other, so everything they do is&hellip; undefined.</p>

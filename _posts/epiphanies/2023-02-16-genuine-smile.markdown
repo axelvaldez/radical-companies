@@ -13,7 +13,7 @@ image:    "icon-genuine-smile.svg"
 <h1>Love</h1>
  <p>I love. My self-love has grown. I love my smile.</p>
  <p>The feeling came to me as a loud snap. I saw my own, genuine smile. I must have seen it before, but I had not loved it before. In the past I had to force myself to smile, it was uncomfortable. I felt that smiling made me vulnerable; it'd be better not to smile and protect myself. But now I smile when I feel like smiling, take a selfie, or a video, or just when I see my reflection in the mirror and there is that genuine smile shining right back. Even, no, particularly when I don&rsquo;t know that I am smiling, I love seeing it. Sometimes I worry that I this is some form of narcissism, but &hellip; nah!.</p>
- <p>When I am telling others about <span class="_paradigm">Radical</span> companies and their philosophy they can tell my enthusiamm and my passion about them by the way my eyes shine. This is one of the many things that I am trying on to become more me.</p>
+ <p>When I am telling others about <span class="_paradigm">Radical</span> companies and their philosophy they can tell my enthusiasm and my passion about them by the way my eyes shine. This is one of the many things that I am trying on to become more me.</p>
  <p>I have been wondering what has made me feel this way. Thinking back, I remember that I took the first step by realizing that my life felt empty and I needed to connect with myself.</p>
 
 <h1>The Trigger</h1>

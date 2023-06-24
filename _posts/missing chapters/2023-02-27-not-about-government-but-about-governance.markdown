@@ -7,11 +7,11 @@ image:    "icon-not-about-government-but-about-governance.svg"
 ---
 
 <div style="display:none;">
- <p>Goverments are  institutions, based on dictatorships-known-as-businesses. What&rsquo;s important is governance.</p>
+ <p>Governments are  institutions, based on dictatorships-known-as-businesses. What&rsquo;s important is governance.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The nice story is that governments protect us and our country&rsquo;s borders and therefore need to have a monopoly on force and foreign policy. The other story is that goverments are  organizations, dependant on dictatorships-known-as-businesses.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>The nice story is that governments protect us and our country&rsquo;s borders and therefore need to have a monopoly on force and foreign policy. The other story is that governments are  organizations, dependant on dictatorships-known-as-businesses.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>What we do need, and always emerges is <em>governance</em>. A way to collaborate, live, and work together. You don&rsquo;t need governance if you are stranded in an island by yourself. The only &lsquo;agreement&rsquo; you can have with the other dangerous animals in the island is, <span class="_quotespan">If you come near me again, and you scare me, I will slaughter you.</span> But that doesn&rsquo;t work with people. You need governance with people.</p>
  <p>Governance is about collaborating to create and change those agreements. Our ability to transform the culture is the point.</p>
 

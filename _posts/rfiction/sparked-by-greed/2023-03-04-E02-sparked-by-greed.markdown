@@ -74,7 +74,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">Why, you weren&rsquo;t serious when you categorized yourself as a second-class co-owner? Or maybe it was when you surrendered responsibility for what to do next? Which of those were not serious?</div>
  <div class="_speakerb">I didn&rsquo;t say any of that.</div>
  <div class="_speakera">But you implied it. When you said that I was the main inventor, you put yourself down as a lesser inventor. Then you said that you weren&rsquo;t as good when compared to me, you were were offering for me to tell you what to do to avoid responsibility.</div>
- <div class="_speakerac">You, and Mike, and Steve. You are co-owners of what we are doing. The whole thing. If your secrect sauce could be made better, other co-owners will offer their own ideas. Imagine that: people being inspired by your secret saud and adding to it. Whoa! In the end, it is up to you folks to take their advice or not.</div>
+ <div class="_speakerac">You, and Mike, and Steve. You are co-owners of what we are doing. The whole thing. If your secret sauce could be made better, other co-owners will offer their own ideas. Imagine that: people being inspired by your secret saud and adding to it. Whoa! In the end, it is up to you folks to take their advice or not.</div>
  <div class="_speakerb">It is a myth, isn&rsquo;t it? The whole thing about the lead inventor and all that. But we are so used to it&hellip; And we compete for it by not pointing out the weaknesses or what can be done better, easier.</div>
  <div class="_speakerb">Here we can, but we keep on going back to our&hellip; our&hellip;</div>
  <div class="_speakera">Fears?</div>
