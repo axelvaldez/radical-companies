@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    " rCoins  Decentralized Minting, Again"
+title:    " rCoins: Decentralized Minting, Again"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
 image:    "icon-rcoins-decentralized-minting-again.svg"
@@ -20,7 +20,7 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
  <p>Legitimacy means you do not have to convince people to accept the particular currency you wish to exchange. Sovereignty means the currency is protected by a national power. The more legitimate and sovereign the currency, the easier to use it becomes. The seller and buyer of the currency exchange the currency as matter of routine.</p>
  <p>The seller does not have to explain how the currency is legitimate and the buyer already knows that its lasting value is backed up by a sovereign power.</p>
 
-<h1><span class='_paradigm'>rCOIN</span>s</h1>
+<h1>rCOINs</h1>
  <p><span class='_paradigm'>rCOIN</span>s have a herculean task when it comes to stepping away from tradition. It must derive both its legitimacy and sovereignty from people. There is no platform or nation-state to create sovereignty or legitimacy, rather a transparent protocol. The legitimacy and sovereignty of my personal coinage comes from the many I trade with (what would they be called, my community, my “convivium?”)</p>
 
 <h1>Relationships</h1>
@@ -53,7 +53,7 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
  <p>This is pretty much the way seed rounds are raised today, even though the deals are opaque. <span class='_paradigm'>rCOIN</span>s bring along a transparent history. You would most likely not bother looking at it and calculating its legitimacy and sovereignty, but your mobile phone will.Your mobile can tirelessly look through all of the <span class='_paradigm'>rCOIN</span>s history and give you a go/no-go signal plus a recommended discount.</p>
  <p>As a side note, we used to tell people that computers could do this, but they rejected out of hand, <span class="_quotespan">it&rsquo;s&hellip; utopian!</span></p>
  
- <h1>A Herculean Task Ahead</h1>
+<h1>A Herculean Task Ahead</h1>
  <p>As we said at the top of this post, <span class='_paradigm'>rCOIN</span>s will have a herculean task ahead when it comes to stepping away from tradition. Change is perceived as a threat.</p>
  <p>We are counting on the fact that <span class='_paradigm'>rCOIN</span>s are on the right side of history. National governments and their banks are on the wrong side, holding us back. Something is going to have to change. Perhaps the change will not result in <span class='_paradigm'>rCOIN</span>s, but it would be something close to it, that doesn&rsquo;t depend on national interests.</p>
 
