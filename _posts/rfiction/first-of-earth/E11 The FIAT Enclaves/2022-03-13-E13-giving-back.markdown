@@ -8,7 +8,7 @@ hidden:   true
 ---
 
 <div style="display: none;">
- <p>How can one battle people bent on violence without wielding violence yourself? Let's talk about it&hellip;</p>
+ <p>How can one battle people bent on violence without wielding violence yourself? Let&rsquo;s talk about it&hellip;</p>
 </div>
 
 <h1>Onwards</h1>
