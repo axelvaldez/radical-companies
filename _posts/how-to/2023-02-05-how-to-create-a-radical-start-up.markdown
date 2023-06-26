@@ -83,7 +83,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
  <p>This means that co-owners need to decide what to with people who exit while still having PRI debt. For example, you may decide to put limits on time (<span class="_quotespan">We have agreed to do this for six months&hellip;</span>) or amount (<span class="_quotespan">We have agreed to do this for as long as the $500,000 in the PRI Fund lasts</span>), or you want to have a discussion with the PRI debt to <span class="_paradigm">RAD</span>s falls too low. The point is that it is up to you, the co-owners.</p>
 
 <h1>The <em>RADs!</em> Mobile App</h1>
- <p>Co-owners use the <em><span class="_paradigm">RAD</span>s!</em> mobile app to recognize the contributions of other co-owners. The <em><span class="_paradigm">RAD</span>s!</em> app later converts these contributions into <span class="_paradigm">RAD</span>s at the end of each, say, monthly cycle.</p>
+ <p>Co-owners use the <em><span class="_paradigm">RAD</span>s! mobile app</em> to recognize the contributions of other co-owners. The <em><span class="_paradigm">RAD</span>s!</em> app later converts these contributions into <span class="_paradigm">RAD</span>s at the end of each, say, monthly cycle.</p>
  <p>Co-owners can recognize anything as a contributions. These can range from a tangible benefit to the company (<em>e.g.</em>, <span class="_quotespan">&hellip; found us a place to store return merchandise for free.</span>) to something more intangible (<em>e.g.</em>, <span class="_quotespan">&hellip; took the time to talk to him and to help him get his mental health taken care of.</span> or even <span class="_quotespan">&hellip; it gave me a lot of joy when he did that.</span>)</p>
  <p><span class="_paradigm">RAD</span>s can factor anything through them. For example, if I have 10% of the <span class="_paradigm">RAD</span>s distributed and you have 20%, you get twice as much as I do of whatever is being filtered through the <span class="_paradigm">RAD</span>s this time (<em>e.g.</em>, earned dividends).</p>
 
@@ -228,7 +228,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
        <ul>
         <li>Explicit Relationship and Explicit Alignment can help establish a foundation for healthy relationships.</li>
         <li>
-         <p>The <em><span class="_paradigm">RAD</span>s!</em> mobile app makes it easier for all co-owners to recognize contributions.</p>
+         <p>The <em><span class="_paradigm">RAD</span>s! mobile app</em> makes it easier for all co-owners to recognize contributions.</p>
          <p>It also makes it easier to start difficult conversations which requires different skills than what we have learned throughout our lives in a <span class="_paradigm">Fiat</span> system. Sometimes the conversation will end up being a misunderstanding, sometimes behavior will have to change, and other times it will end up in a collaboration to do things differently.</p>
         </li>
        </ul>
