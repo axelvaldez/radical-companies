@@ -19,11 +19,11 @@ image:    "icon-rcoins-decentralized-minting.svg"
  <p>Today, money is the canonical medium of exchange and that is what we assumed in our book, <span class="_paradigm">RADICAL COMPANIES</span>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> After all, we need money to pay our bills and as a medium of exchange to buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people. This is problematic and leads to the most serious problems we face today.</p>
  <p>For this and other reasons, I now believe that we should have a universal medium of exchange, like <span class="_paradigm">rCoin</span>s that doesn&rsquo;t have the baggage of national fiat money and can help us transform to a human centered economy.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Like today&rsquo;s money, <span class="_paradigm">rCoin</span>s function as,</p>
- <ul>
-  <li>A unit of measure</li>
-  <li>A store of value</li>
-  <li>A medium of exchange</li>
- </ul>
+  <ul>
+   <li>A unit of measure</li>
+   <li>A store of value</li>
+   <li>A medium of exchange</li>
+  </ul>
  <p>In addition, and this is critical, <span class="_paradigm">rCoin</span>s are transparent in the sense that an integral part of each <span class="_paradigm">rCoin</span> is its log of information from which potential risks and benefits can be calculated.</p>
  <p><span class="_paradigm">rCoin</span>s are also decentralized. Companies will be the guarantors of <span class="_paradigm">rCoin</span>s: not banks, not governments, and not international accords. This will make the costs of all transactions negligible.</p>
  <p>A decentralized and transparent <span class="_paradigm">rCoin</span> will make possible a world-wide market that we can all play in without intermediaries.</p>
@@ -223,14 +223,14 @@ image:    "icon-rcoins-decentralized-minting.svg"
 <h1>rCoin Risks and Benefits</h1>
  <p>There is plenty of evidence that shows that a currency, one that actually actually flows, can benefit a society,<a href="#en18"><sup id="bm18">&hairsp;&nabla;&hairsp;</sup></a> while money stuffed under a mattress only benefits the hoarder.</p>
  <p>People have figured out that, in today&rsquo;s world, one way to keep money flowing is by having it lose its value over time (<em>i.e.</em>, there is no point in hoarding it because it will &ldquo;rot&rdquo;). This can be done by inflation or demurrage. Inflation, the decline of purchasing power, has been the preferred method of national governments for controlling the value and availability of its coinage. Governments can do this by several means, including by tweaking interest rates, which impacts the supply of national fiat coins. We all know that &ldquo;inflation is bad,&rdquo; but we cannot do anything about it.</p>
- <p>The other approach is by demurrage, where coins <em>lose</em> their value over time. There&rsquo;s been a number of local deployments of demurrage coins and they are generally beneficial to the local economy. However, as far as I know, demurrage has never been used at a national level. The poster child of demurrage is the <em>Miracle of Wörgl."</em><a href="#en19"><sup id="bm19">&hairsp;&nabla;&hairsp;</sup></a>. During the Great Depression, the town of Wörgl, Austria, was quickly running out of money, like most of the world. The mayor issued Wörgls to pay people for doing local jobs and the local shops agreed to accept them. The bills had to be stamped every week in order to keep them valid, and every stamp reduced the value of these coins. This kept the notes in circulation. So much so, that people even paid taxes earlier rather than let their currency &ldquo;rot.&rdquo;</p>
+ <p>The other approach is by demurrage, where coins <em>lose</em> their value over time. There&rsquo;s been a number of local deployments of demurrage coins and they are generally beneficial to the local economy. However, as far as I know, demurrage has never been used at a national level. The poster child of demurrage is the <em>Miracle of W&ouml;rgl."</em><a href="#en19"><sup id="bm19">&hairsp;&nabla;&hairsp;</sup></a>. During the Great Depression, the town of W&ouml;rgl, Austria, was quickly running out of money, like most of the world. The mayor issued W&ouml;rgls to pay people for doing local jobs and the local shops agreed to accept them. The bills had to be stamped every week in order to keep them valid, and every stamp reduced the value of these coins. This kept the notes in circulation. So much so, that people even paid taxes earlier rather than let their currency &ldquo;rot.&rdquo;</p>
  <table>
   <tr>
    <td>
     <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
      <img
       src="/assets/img/en-worgl.svg"
-      alt="Five of the 52 stamps that were applied to the back of the local currency that the town of Wörgl, Austria minted in the 1930s in response to the Great Depression."
+      alt="Five of the 52 stamps that were applied to the back of the local currency that the town of W&ouml;rgl, Austria minted in the 1930s in response to the Great Depression."
      >
     </p>
    </td>
@@ -239,7 +239,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
    <td>The bills had <em>52 spaces on the reverse side, one for each week of the year.</em><a href="#en20"><sup id="bm20">&hairsp;&nabla;&hairsp;</sup></a> This meant that the script kept its face value only for one week.</td>
   </tr>
  </table>
- <p>One problem with demurrage is that the rate of decay is not tied to value creation or anything like it. The Wörgl, and others like it, kept its face value for a week and went down in value every week thereafter. The W&auml;ra, another demurrage coin, lost 1% of its value every month.<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a> Regardless of their good intentions, these rates of decay are picked out of thin air.</p>
+ <p>One problem with demurrage is that the rate of decay is not tied to value creation or anything like it. The W&ouml;rgl, and others like it, kept its face value for a week and went down in value every week thereafter. The W&auml;ra, another demurrage coin, lost 1% of its value every month.<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a> Regardless of their good intentions, these rates of decay are picked out of thin air.</p>
  <p><span class="_paradigm">rCoin</span>s, on the other hand, are always the same value. What changes is the potential risks and benefits associated with the company that engendered it. Every <span class="_paradigm">rCoin</span> carries a log of all the information people need to decide whether or not to accept it.</p>
   <img
    src="/assets/img/en-rad-auto-inflation.svg"
@@ -533,7 +533,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
    </li>
    <li id="en19">
     <p class="_list-item">
-     For more information, see Wörgl
+     For more information, see W&ouml;rgl
      &lt;<a href="https://radicals.world/sYcjKW" target="_blank">https://radicals.world/sYcjKW</a>&gt;
      <a class="_uparrow" href="#bm19"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
