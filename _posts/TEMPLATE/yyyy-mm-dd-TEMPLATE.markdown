@@ -125,7 +125,7 @@ image:    "icon-ptsd-and-trust.svg"
  <div class="_center">
   <table class="_explicitalignment">
    <tr id="_background">
-    <td></td>
+    <td stle="width:20%; "></td>
     <th>Impact</th>
    </tr>
    <tr>
