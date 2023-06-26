@@ -10,7 +10,7 @@ image:    "icon-rmedia.svg"
  <p>Taking care of people at their home</p>
 </div>
 
-<h1>Explici Alignment</h1>
+<h1>Explicit Alignment</h1>
  <div class="_center">
   <table class="_explicitalignment">
    <tr id="_background">
