@@ -57,16 +57,6 @@ image:    "icon-the-radical-foundation-revised.svg"
  <p>Tools are not technically a part of the <span class="_paradigm">Radical</span> foundation itself; you can be on the <span class="_paradigm">Radical</span> path and use different tools. No matter, this is what we&rsquo;ve come up with, so far,</p>
  <div class="_center">
   <table class="_h2table">
-   <tr id="_background">
-    <th>RADs! App</th>
-    <td>This is the most general tool in that it can be used by any one community or an ensemble of communities. For more, see,
-                                   <em>Get Rid of Ownership</em>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
-     <em>Google Goes <span class="_paradigm">Radical</span></em>,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>
-      <em>Your Cheating <span class="_paradigm">RAD</span>s</em>,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>
-                                 <em>No Bonuses or Salaries</em>,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a>
-         and <em>Giving <span class="_paradigm">RAD</span>s</em>.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a>
-    </td>
-   </tr>
    <tr>
     <th>Explicit Alignment</th>
     <td>
@@ -81,8 +71,8 @@ image:    "icon-the-radical-foundation-revised.svg"
      </div>
     </td>
    </tr>
-   <tr id="_background">
-    <th>Trust Agreements</th>
+   <tr>
+    <th>Explicit Agreements</th>
     <td>Inspired by J Kim Wright&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building in a safe pace (psychologically and physically).</td>
    </tr>
    <tr>
