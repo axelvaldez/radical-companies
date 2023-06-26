@@ -44,63 +44,6 @@ image:    "icon-rmedia.svg"
   </table>
  </div>
 
- <table>
- <tbody style="font-size:smaller; vertical-align:top; ">
-  <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Impact</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What for?</td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Purpose</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Why?</td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2">&nbsp;</td>
-  </tr>
-  <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Mission</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What?</td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">When?</td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">How?</td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
- </tbody>
-</table>
-
 <h1>Intro</h1>
  <p>Taking care of children with or without the parents&rsquo; help, while their parents are busy with something else (<em>e.g.</em> their FIAT work).</p>
 
