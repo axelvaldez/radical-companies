@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    " RADs  and chatGPT"
+title:    "RADs and chatGPT"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
 image:    "icon-rads-and-chatgpt.svg"
@@ -105,7 +105,7 @@ image:    "icon-rads-and-chatgpt.svg"
    <tr>
     <th>Administration and logistics</th>
     <td>
-     <p>We have a Open Source (free) <em><span class="_paradigm">RAD</span>s!</em> mobile app that does all the administration and logistics needed. You could also do it with stones, if it came to it.</p>
+     <p>We have a Open Source (free) <em><span class="_paradigm">RAD</span>s! mobile app</em> that does all the administration and logistics needed. You could also do it with stones, if it came to it.</p>
      <p>The point is that &ldquo;administration and logistics&rdquo; is a default <span class="_paradigm">RAD</span>s excuse for not doing something.</p>
     </td>
    </tr>
@@ -128,91 +128,5 @@ image:    "icon-rads-and-chatgpt.svg"
    </tr>
   </table>
  </div>
-<!--
-<h1>&nbsp;</h1>
- <div class="_center">
-  <table class="_background">
-   <tr>
-    <th>Question</th>
-    <td>
-     <div class="_quotespan">Can you think of something never thought of before about how to distribute resources in society that takes into account bad actors and still produces a nice result?</div>
-    </td>
-   </tr>
-   <tr>
-    <th>ChatGPT</th>
-    <td>
-     <div class="_quotespan">One potential approach could be to implemente a &ldquo;bad actor tax&rdquo; system for resource distribution. This system would involve setting aside a portioan of resources specifically designated to address the negative impact caused by bad actors in society.</div>
-     <div class="_quotespan">For example, if a coporation is found to be engaging in unethical business practices or causing harm to the environment, a portion of their profits would be taxed and recirected towards efforts to mitigate the harm caused. This could include funding for environmental cleanup, community development programs, or restitution for affected individuals.</div>
-     <div class="_quotespan">The bad actor tax system would not only hold individuals and corporations accountable for their actions but also incentivize them to act in a more responsible and ethical manner. This could lead to a more equitable distribution of resources and a more sustainable society overall.</div>
-    </td>
-   </tr>
-  </table>
- </div>
--->
-<!--
- <div class="_center">
-  <table class="_background">
-   <tr>
-    <th>Question</th>
-    <td>
-     <div class="_quotespan">What about something like the above, but with no tax?</div>
-    </td>
-   </tr>
-   <tr>
-    <th>ChatGPT</th>
-    <td>
-     <div class="_quotespan">In that case, one possible apprach could be to implement a system of "resource credits" that would reward positive ehavior and penalize negative behavior. This system would involve assigning a certain number of resource credits to each indiviauo or entity based on their contribution to society.</div>
-     <div class="_quotespan">Positive contributions could include actions such as volunteering, community service, or systainable business practices, while netive contributions could include actions such as environmental polllution or engaging in unethical behavior.</div>
-     <div class="_quotespan">Individual and entities would accumulate resource creditcs over time, which could then be used to access resources such as education, healthcare, and basic neessecities. Those who have made positive contributions would be rewarded with more resource credits, while those who have made negative contributions would receive fewer resource credits or even have some taken away.</div>
-     <div class="_quotespan">This system would incentivize positive behavior and discourage negative behavior without the need for taxation. It would also ensure that resources are distributed fairly and based on indiviauo merit rather than simple on wealth or privilege.</div>
-    </td>
-   </tr>
-  </table>
- </div>
--->
-<!--
- <div class="_center">
-  <table class="_background">
-   <tr>
-    <th>Question</th>
-    <td>
-     <div class="_quotespan">And could you add a new way to discourage hoarding?</div>
-    </td>
-   </tr>
-   <tr>
-    <th>ChatGPT</th>
-    <td>
-     <div class="_quotespan">Yes, one way to discourage hoarding in this system could be to include a &ldquo;use it or lose it&rdquo; policy for resource credits. This policy would require individuals and entities to use their resource credits within a certain timeframe or risk losing them.</div>
-     <div class="_quotespan">For example, if an individual is assigned a nertain number of resource credits each year, they would need to use those credits within that year or risk losing them at the end of the year. This would incentivize individuals to use their resource credits for the greater good rather than hoarding them for personal gain.</div>
-     <div class="_quotespan">Additionally, the system could also implement a &ldquo;maximum limit&rdquo; on the number of resource credits any inndiidual or entity can accumulate. This would prebent a small group of individual or entities from hoarding an excessive amount of resource credits, ensuring that resource are distributed more equitably throughout society.</div>
-     <div class="_quotespan">By combining these two approaches&mdash;&ldquo;use it or lose it&rdquo; policy and maximum limits&mdash;the system could sicourage hoarding and ensure that resources are used for the greater good of society.</div>
-    </td>
-   </tr>
-  </table>
- </div>
--->
-<!--
- <div class="_center">
-  <table class="_background">
-   <tr>
-    <th>Question</th>
-    <td>
-     <div class="_quotespan">How can a decentralized community give credits for recognized contributions?</div>
-    </td>
-   </tr>
-   <tr>
-    <th>ChatGPT</th>
-    <td>
-     <div class="_quotespan">A decentralized community can use a variety of methods to give credits for recognized contributions. Here are some possible ways:.</div>
-     <div class="_quotespan">Token-based system: The community can create a token or cryptocurrency that is used to reward contributors for their efforts. Contributors earn tokens based on their contributions, and can then exchange these tokens for goods or services within the community.</div>
-     <div class="_quotespan">Reputation-based system: The community can create a reputation system that tracks the contributions of each member. Contributors who have made significant contributions to the community can be given higher reputation scores, which can then be used to unlock privileges or access to special features.</div>
-     <div class="_quotespan">Staking-based system: The community can use a staking system where members stake their tokens to show their commitment to the community. Members who have made significant contributions can be given higher staking power, which can be used to vote on important decisions within the community.</div>
-     <div class="_quotespan">Contribution-based system: The community can create a system where members can submit their contributions, and then other members can vote on the quality and importance of each contribution. The most highly-rated contributions can then be rewarded with credits or other benefits.</div>
-     <div class="_quotespan">Overall, the key to a successful credit system for a decentralized community is to ensure that it is transparent, fair, and accessible to all members. It should also incentivize contributions that benefit the community as a whole, rather than just rewarding individual achievements.</div>
-    </td>
-   </tr>
-  </table>
- </div>
--->
 
 {% include related.html %}
