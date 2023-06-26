@@ -18,7 +18,7 @@ image:    "icon-rmedia.svg"
     <th>Impact</th>
    </tr>
    <tr>
-    <th>What for?</th>
+    <th style="widthL20%; ">hat for?</th>
     <td>&nbsp;</td>
    </tr>
    <tr id="_background">

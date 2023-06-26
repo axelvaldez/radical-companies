@@ -18,8 +18,8 @@ image:    "icon-rmedia.svg"
     <th>Impact</th>
    </tr>
    <tr>
-    <th>What for?</th>
-    <td>xxx</td>
+    <th style="widthL20%; ">What for?</th>
+    <td>&nbsp;</td>
    </tr>
    <tr id="_background">
     <td></td>
@@ -27,7 +27,7 @@ image:    "icon-rmedia.svg"
    </tr>
    <tr>
     <th>Why?</th>
-    <td>xxx</td>
+    <td>&nbsp;</td>
    </tr>
    <tr id="_background">
     <td></td>
@@ -39,7 +39,7 @@ image:    "icon-rmedia.svg"
      When?<br>
      How?
     </th>
-    <td>xxx</td>
+    <td>&nbsp;</td>
    </tr>
   </table>
  </div>
