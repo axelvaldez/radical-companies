@@ -37,7 +37,7 @@ image:    "icon-we-remember-therefore-we-are.svg"
    <p class="_list-item">
     Andrew Budson, Kenneth Richman, Elizabeth Kensinger.
     <em>Consciousness as a Memory System</em>.
-    &lt;*<a href="https://radicals.world/AY2xGX" target="_blank">https://radicals.world/AY2xGX</a>&gt; (alt, &lt;<a href="https://www.diigo.com/user/matt_perez/b/646173375" target="_blank">https://www.diigo.com/user/matt_perez/b/646173375</a>&gt;)
+    &lt;*<a href="https://radicals.world/yPwC12" target="_blank">https://radicals.world/yPwC12</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
