@@ -54,12 +54,12 @@ image:    "icon-alternatives-to-fiat.svg"
    <li>Everything is transparent, so everything is out in the open to everybody. If I give <span class="_paradigm">RAD</span>s to Mike, a co-owner, everybody can see that. And ask about it.</li>
    <li>You, and everybody else in a <span class="_paradigm">Radical</span> company, are co-owners.</li>
   </ul>
- <p>Having said that, we can talk about potential cheating,</p>
+ <p>Having said that, we can talk about potential cheatin&rsquo;,</p>
   <div class='_qnablock'>
-   <p class="_q">OK, so not quite chaos, but it is open to cheating, right?</p>
+   <p class="_q">OK, so not quite chaos, but it is open to cheatin&rsquo;, right?</p>
    <p class="_a">Well no. Since there are no rules, you can&rsquo;t cheat.</p>
    <p class="_q">doesn&rsquo;t this mean that people are not protected and can have money taken out of their pocket?</p>
-   <p class='_a'>Maybe. If somebody cheats once, they some amount of <span class='_paradigm'>RAD</span>s will go to the offending co-owners. But then you talk them. If the cheating continues to go on, you and your fellow co-owners would stop giving them <span class="_paradigm">RAD</span>s.</p>
+   <p class='_a'>Maybe. If somebody cheats once, they some amount of <span class='_paradigm'>RAD</span>s will go to the offending co-owners. But then you talk them. If the cheatin&rsquo; continues to go on, you and your fellow co-owners would stop giving them <span class="_paradigm">RAD</span>s.</p>
    <p class="_q">But, what if people in cahoots give all their <span class="_paradigm">RAD</span>s to each other?</p>
    <p class='_a'>Yes, that could happen. But since everything is transparent, somebody is bound to notice and question it.</p>
    <p class="_q">What if co-owners give out <span class="_paradigm">RAD</span>s for silly reasons?</p>

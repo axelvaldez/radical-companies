@@ -199,7 +199,7 @@ image:    "icon-what-will-kill-us-first.svg"
   </li>
   <li id="en08">
    <p class="_list-item">
-    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
+    <em>Your Cheatin&rsquo; <span class="_paradigm">RAD</span>s</em>
     &lt;<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>&gt;
     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>

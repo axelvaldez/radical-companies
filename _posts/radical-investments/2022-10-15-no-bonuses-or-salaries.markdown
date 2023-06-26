@@ -55,7 +55,7 @@ image:    "icon-no-bonuses-or-salaries.svg"
 <h1>No Bonus</h1>
  <p>Instead of giving a &ldquo;bonus,&rdquo; set up a system that recognizes contributions, and rather than a handful of bosses, have everybody recognize contributions <em>as they notice</em>.</p>
  <p>At &ldquo;bonus&rdquo; time, the number of recognitions, which we call <span class='_paradigm'>RAD</span>s, determines what percentage of the bonus fund each person receives.</p>
- <p>It is key that you make the distribution completely transparent and easily available to everybody. This way, anybody can raise questions, ask for clarification, and detect cheating.</p>
+ <p>It is key that you make the distribution completely transparent and easily available to everybody. This way, anybody can raise questions, ask for clarification, and detect cheatin&rsquo;.</p>
 
 <h1>What about Capital Investors?</h1>
  <ul>
