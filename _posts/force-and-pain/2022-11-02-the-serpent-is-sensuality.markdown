@@ -68,7 +68,7 @@ image:    "icon-the-serpent-is-sensuality.svg"
   </li>
   <li id="en03">
    <p class="_list-item">
-    <em>Your Cheating <span class="_paradigm">RAD</span>s</em>
+    <em>Your Cheatin&rsquo; <span class="_paradigm">RAD</span>s</em>
     <<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
