@@ -125,11 +125,11 @@ image:    "icon-ptsd-and-trust.svg"
  <div class="_center">
   <table class="_explicitalignment">
    <tr id="_background">
-    <td stle="width:20%; "></td>
+    <td></td>
     <th>Impact</th>
    </tr>
    <tr>
-    <th>What for?</th>
+    <th stle="width:20%; ">What for?</th>
     <td>&nbsp;</td>
    </tr>
    <tr id="_background">
