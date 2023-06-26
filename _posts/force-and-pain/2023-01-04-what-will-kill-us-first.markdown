@@ -151,9 +151,9 @@ image:    "icon-what-will-kill-us-first.svg"
   <li id="en03">
    <p class="_list-item">
     Alexandre Antonelli.
-    <em>New Phytol</em>.
+    <em>Indigenous knowledge is key to sustainable food systems</em>.
     Nature 613, 239-242.
-    2023.
+    Jan 10, 2023.
     &lt;<a href="https://radicals.world/Se6ora" target="_blank">https://radicals.world/Se6ora</a>&gt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
