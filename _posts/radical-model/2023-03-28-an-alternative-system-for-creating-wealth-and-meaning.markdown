@@ -10,7 +10,7 @@ image:    "icon-an-alternative-system-for-creating-wealth-and-meaning.svg"
  <p>&ldquo;<em>Lead with Radicals benefits, rather than Fiat shortcomings.</em>&rdquo;</p>
 </div>
 
-<h1>Non-<span class='_paradigm'>Fiat</span> Benefits</h1>
+<h1>Non-Fiat Benefits</h1>
  <p>The  system.</p>
  <div class="_center">
   <table class="_h2table">

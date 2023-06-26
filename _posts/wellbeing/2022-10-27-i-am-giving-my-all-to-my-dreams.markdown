@@ -37,7 +37,7 @@ image:    "icon-i-am-giving-it-all-to-my-dreams.svg"
  <p>You can still work on the weekend, maybe because that is what you are used to. Your dreams and the joy of their pursuit are your &ldquo;boss,&rdquo; prodding you to do it. But you are not the only one paying the price of manic work. Your coworkers pay for it, too.</p>
  <p>In a <span class="_paradigm">Radical</span> environment, your co-worker has the ability and skill to tell you that she does not like seeing you work to exhaustion for weeks on end. And she doesn&rsquo;t like you texting her in the evening because it puts pressure on her to overwork and sacrifice her health, her relationship. The ability to talk to your co-workers directly, not through your boss, is one of the <span class="_paradigm">Radical</span> foundations.</p>
 
-<h1><span class="_paradigm">RAD</span>s</h1>
+<h1>RADs</h1>
  <p>It&rsquo;s not just ideals: <span class="_paradigm">Radical</span> brings along practices and tools, too. In a <span class="_paradigm">Radical</span> company, she and other co-workers can make this feedback tangible to you. With <span class="_paradigm">RAD</span>s, they can reward you for things they like or they can stop giving you <span class="_paradigm">RAD</span>s if you continue on a path that doesn&rsquo;t work for them. The <span class="_paradigm">RAD</span> distribution creates the conditions for different conversations to take place.</p>
  <p>In our current, <span class="_paradigm">Fiat</span> world, your coworker might say something, but it won&rsquo;t really be tangible. Only your boss matters.</p>
 

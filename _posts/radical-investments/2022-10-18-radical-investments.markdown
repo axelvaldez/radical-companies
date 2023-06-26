@@ -28,7 +28,7 @@ image:    "icon-radical-investments.svg"
  <p>Real estate investors exchange their capital for an annuity. They receive their return as a percentage of their investment on a recurring basis. Normally, this return goes on for the life of the investor, but it may also survive the death of the original investor.</p>
  <p>BTW, I am not sure if this applies to <em>all</em> types of real estate investments, but it applies to hotels and other real estate ventures.</p>
 
-<h1><span class="_paradigm">Radical</span> Investments</h1>
+<h1>Radical Investments</h1>
  <p>A <span class="_paradigm">Radical</span> investment does not trigger an ownership transfer. <span class="_paradigm">Radical</span> investors do not seek control of the companies they invest in, nor are they looking for a &ldquo;forever&rdquo; return.</p>
  <p>Like the Angel investment, a <span class="_paradigm">Radical</span> Investments exchanges capital for a promissory note. Like a real estate investment, the return may come as an annuity. A big difference to other forms of investment, is that a <span class="_paradigm">Radical</span> investor can also participate in giving and receiving <span class="_paradigm">RAD</span>s. Investors can,</p>
   <ul>

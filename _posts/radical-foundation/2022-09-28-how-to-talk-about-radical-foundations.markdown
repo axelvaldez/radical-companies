@@ -21,7 +21,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  </ul>
  <p>You can read about the first two in previous posts. This post is about the <span class="_paradigm">Radical</span> Foundations.</p>
 
-<h1><span class="_paradigm">Radical</span> Foundation Template</h1>
+<h1>Radical Foundation Template</h1>
  <p>Our deepest problems are the inescapable side-effects of the system we live in: our collapsing climate, the expanding wealth, and wellbeing, gap, discrimination against people of color, the exploitation of women. Instead, we need a generative way of relating to one another, a different paradigm. As we see it, businesses are the place to start. Businesses-as-dictatorship are the root of the problem, so they must be the incubators for what comes next.</p>
  <p>In the <span class="_paradigm">Radical</span> model, a <em>company</em> is simply a group of people who come together to build something bigger than themselves. The word "company" comes from the Latin prefix con-, meaning together, and pan, meaning bread. A company then is a group of people who work and socialize together.</p>
  <p>Every company is different because the people who embody it are different. What fundamentally makes a <span class="_paradigm">Radical</span> company different from a <span class="_paradigm">Fiat</span> business is that it starts from this simple Foundation.</p>

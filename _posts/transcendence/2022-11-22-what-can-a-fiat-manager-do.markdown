@@ -19,7 +19,7 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
   </ul>
  <p>But building a <span class="_paradigm">Radical</span> company from scratch is a hack because most people work in <span class="_paradigm">Fiat</span> businesses and see it as their only option. So, what can <em>they</em> do? Can they adopt some of the <span class="_paradigm">Radical</span> practices? Can they get away with it?</p>
 
-<h1><span class="_paradigm">Radical</span> in Small Bites</h1>
+<h1>Radical in Small Bites</h1>
  <p>If you are a manager in a <span class="_paradigm">Fiat</span> environment, then implementing some <span class="_paradigm">Radical</span> practices can be fairly easy because what you say, goes. You can always tell your boss and HR what you want; you can even tell them that it is just a clever <span class="_paradigm">Fiat</span> trick.</p>
 
 <h1>Bonuses</h1>
@@ -29,7 +29,7 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
  <p>Instead, you share the RADs! application with your team. They can reward each other for what they see as a contribution. Then you don’t have to sweat it and you base your bonus allocation on the <span class="_paradigm">RAD</span> distribution. Is this subversive? Yes! But, is it good? Hell, yeah.</p>
  <p>And just imagine how your team will feel having the ability to determine the bonus distribution themselves. And how will you feel knowing that the distribution is based on actual contributions to the company-as-common effort (and not guessing at it)?</p>
 
-<h1>Virtual <span class="_paradigm">Radical</span></h1>
+<h1>Virtual Radical</h1>
  <p>In software, there is the concept of a virtual machine, where you can emulate one computer inside another computer system. For example, you could run the Linux operating system inside MS Windows, or vice versa. The software handles it.</p>
  <p>Similarly, you run <span class="_paradigm">Radical</span> inside a <span class="_paradigm">Fiat</span> organization.</p>
  <p>Deploying <span class="_paradigm">Radical</span> wherever it can be run, will lead to more adoption. Mistakes will be made. Don't assume that everybody will get it right away: you’ll have to discuss what seems to you like the same topic over and over. Somebody will run to HR and tank it before it gets a chance to be put into action. You may even get fired over it.</p>

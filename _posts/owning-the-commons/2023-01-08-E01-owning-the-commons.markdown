@@ -39,7 +39,7 @@ image:    "icon-owning-the-commons-1-3.svg"
   <li>The US Governments levied taxes on the titles to the land.</li>
  </ul>
 
-<h1><span class="_paradigm">RAD</span>s! Mobile App</h1>
+<h1>RADs! Mobile App</h1>
  <p>This is where the <em><span class="_paradigm">RAD</span>s! app</em> comes in,</p>
  <ul>
   <li>As each family shows up in their covered wagon, we instruct them to download the <em><span class="_paradigm">RAD</span>s!</em> app (<em>i.e.</em>, if they can order industrial drills online, they can do this).</li>

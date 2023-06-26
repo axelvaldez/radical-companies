@@ -50,7 +50,7 @@ image:    "icon-giving-rads-validated.svg"
    <td><span class="_quotespan">&hellip;those working in high-trust companies enjoyed their jobs 60% more, were 70% more aligned with their companies’ purpose, and felt 66% closer to their colleagues. &hellip; Compared with employees at low-trust organizations, the high-trust folks had 11% more empathy for their workmates, depersonalized them 41% less often, and experienced 40% less burnout from their work. They felt a greater sense of accomplishment, as well—41% more.</span></td>
   </div>
 
-<h1><span class="_paradigm">RAD</span>s Promote Trust</h1>
+<h1>RADs Promote Trust</h1>
  <p>These behaviors are integral to the <span class="_paradigm">Radical</span> model and its Foundation,</p>
  <div class="_center">
   <table class="_foundation">

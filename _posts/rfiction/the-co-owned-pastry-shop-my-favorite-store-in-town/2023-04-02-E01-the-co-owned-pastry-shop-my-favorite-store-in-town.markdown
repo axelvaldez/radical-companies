@@ -52,7 +52,7 @@ image:    "icon-E01-the-co-owned-pastry-shop-my-favorite-store-in-town.svg"
  <p class="_speaker"><span class="_speakera">Well, the owners talked to a few people. And we asked them and Vicky told us that the owners were thinking of moving back to France and selling the store, but that they would really want to sell it to us, at least some of us. I was through most of the second section of your book so I re-read the rest of it as fast as I could and then I read the last two thirds again and&hellip; here we are.</span></p>
  <p class="_speaker"><span class="_speakerb">Holly sh&hellip; what <em>timing</em>.</span></p>
 
-<h1>Children of <span class="_paradigm">Fiat</span></h1>
+<h1>Children of Fiat</h1>
  <p class="_speaker"><span class="_speakerb">There is another option. You could borrow part of it to pay the owners right away and pay the rest in installments. And I don't mean, from a bank, borrow it as a <span class="_paradigm">Radical</span> investment.</span></p>
  <p class="_speaker"><span class="_speakera">What is that? How does it work? And what will they give us money when we are all broke.</span></p>
  <p class="_speaker"><span class="_speakerb">How much do they want?</span></p>

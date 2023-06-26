@@ -41,12 +41,12 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
  <p>The above steps is what happens in a <span class="_paradigm">Radical</span> company. Ownership is decentralized among co-owners based on their <em>contributions</em>, whereas traditional businesses based their ownership on the <em>capital</em> that each owner brings to the table.</p>
  <p>BTW, each co-owner&rsquo;s contributions is recognized by other co-owners, not a boss or any such.</p>
 
-<h1><span class="_paradigm">RAD</span>s for Medical Services</h1>
+<h1>RADs for Medical Services</h1>
  <p>The medical staff/co-owners would be easy because they perform the medical services needed. They would get <span class="_paradigm">RAD</span>s from patients/co-owners and from the medical staff/co-owners.</p>
  <p>The medical services is what they create by working together.</p>
  <p>But what about the patients/co-owners?</p>
 
-<h1><span class="_paradigm">RAD</span>s for Literacy Power Ups</h1>
+<h1>RADs for Literacy Power Ups</h1>
  <p>The patients/co-owners would deliver literacy. Healthcare literacy, death literacy, etc.</p>
  <p>For example, StartSOLE<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> is pretty simple process,</p>
   <ul>
@@ -78,7 +78,7 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
   </table>
  </div>
 
-<h1><span class="_paradigm">RAD</span>s?</h1>
+<h1>RADs?</h1>
  <p>First, let&rsquo;s explain what <span class="_paradigm">RAD</span>s are,</p>
   <ul>
    <li>Co-owners recognize each other&rsquo;s contributions and give <span class="_paradigm">RAD</span>s to each other.</li>
