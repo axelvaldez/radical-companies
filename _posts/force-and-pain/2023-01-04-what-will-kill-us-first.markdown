@@ -160,9 +160,10 @@ image:    "icon-what-will-kill-us-first.svg"
   </li>
   <li id="en04">
    <p class="_list-item">
-    CK Khoury, et al.
-    <em>New Phytol</em>.
+    Maris Nuhkat, Mikael Brosché, Sonja Stoelzle-Feix, Petra Dietrich, Rainer Hedrich, M. Rob G. Roelfsema, Hannes Kollist.
+    <em>Rapid depolarization and cytosolic calcium increase go hand-in-hand in mesophyll cells&rsquo; ozone response</em>.
     233, 84–118 (2022).
+    New Phytologist.
     &lt;<a href="https://doi.org/10.1111%2Fnph.17711" target="_blank">https://doi.org/10.1111%2Fnph.17711</a>&gt;
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
