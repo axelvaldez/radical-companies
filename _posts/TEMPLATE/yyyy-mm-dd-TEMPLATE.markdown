@@ -130,7 +130,7 @@ image:    "icon-ptsd-and-trust.svg"
    </tr>
    <tr>
     <th>What for?</th>
-    <td>xxx</td>
+    <td>&nbsp;</td>
    </tr>
    <tr id="_background">
     <td></td>
@@ -138,7 +138,7 @@ image:    "icon-ptsd-and-trust.svg"
    </tr>
    <tr>
     <th>Why?</th>
-    <td>xxx</td>
+    <td>&nbsp;</td>
    </tr>
    <tr id="_background">
     <td></td>
@@ -150,7 +150,7 @@ image:    "icon-ptsd-and-trust.svg"
      When?<br>
      How?
     </th>
-    <td>xxx</td>
+    <td>&nbsp;</td>
    </tr>
   </table>
  </div>
