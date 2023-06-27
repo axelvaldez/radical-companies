@@ -13,6 +13,7 @@ image:    "icon-the-difference-between-centralized-ownership-and-co-ownership.sv
 <h1>&nbsp;</h1>
  <p>At one point I wrote,</p>
   <div class="_quotespan" id="_bolder">&hellip; centralized governance and ownership will destroy us. A lot of folks seem to agree that we have to decentralize decision making (co-management); we also have to decentralize ownership (co-ownership). We have to let wealth flow to the people who created it. We need co-ownership in addition to co-management.</div>
+ </p>
  <p>It is confusing and not as clear as it needs to be. I have this thing about using the fewest words possible to say things, but sometimes I go way over and this is one case where I did.</p>
  <p>This is the corrections I made,</p>
   <ul>
