@@ -3,7 +3,7 @@ layout:   post
 title:    "The Co-Owned Pastry Shop: My Favorite Store in Town (E01)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-xxx.svg"
+image:    "icon-e01-xxx.svg"
 ---
 
 <!--
