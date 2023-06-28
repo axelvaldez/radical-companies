@@ -3,7 +3,7 @@ layout:   post
 title:    "Your Cheatin&rsquo; RADs "
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
-image:    "icon-cheatin&rsquo;-rads.svg"
+image:    "icon-cheatin-rads.svg"
 ---
 
 <div style="display:none;">
