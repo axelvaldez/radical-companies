@@ -7,11 +7,11 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
 ---
 
 <div style="display:none;">
- <p>Patient-centric healthcare is what we need and want. Money-making sickcare is what we have.</p>
+ <p>Patient-centric healthcare is what we need and want; sickcare is what we have.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Patient-centric healthcare is what we want. Money-making sickcare is what we have.</p>
+ <p>Patient-centric healthcare is what we need and want; sickcare is what we have.</p>
 
 <h1>Tury Health</h1>
  <p>In a <em>rHatchery.live</em> podcast, Bindu Kalesan, Epidemiologist and founder of Tury Health, talked about her startup.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> She mentioned that they can bring the costs of clinical trials to one-tenth of what they are today, at $30M each. They can do that by making the trial patient-centric rather than focused on location or anything else.</p>
