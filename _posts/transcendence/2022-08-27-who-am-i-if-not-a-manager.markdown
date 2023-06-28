@@ -3,7 +3,7 @@ layout:   post
 title:    "Who Am I If Not a Manager?"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "existential-threat-icon.svg"
+image:    "icon-who-am-i-if-not-a-manager.svg"
 ---
 
 <div style="display:none;">
