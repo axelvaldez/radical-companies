@@ -7,7 +7,7 @@ image:    "icon-going-radical-increases-your-chances-of-success.svg"
 ---
 
 <div style="display:none;">
- <p>Everyone who starts a business wants to increase its chances of success and the <span class="_paradigm">Radical</span> model is the &ldquo;edge&rdquo; we think can make it a lot more likely to satisfy that sense of, <span class="_quotespan">I did it!</span></p>
+ <p>Everyone who starts a business wants to increase its chances of success and the <span class="_paradigm">Radical</span> model is the &ldquo;edge&rdquo; we think can make it a lot more likely to satisfy that sense of &ldquo;I did it!&rdquo;</p>
 </div>
 
 <h1>&nbsp;</h1>
