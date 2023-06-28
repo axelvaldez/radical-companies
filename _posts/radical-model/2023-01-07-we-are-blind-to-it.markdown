@@ -31,14 +31,14 @@ image:    "icon-we-are-blind-to-it.svg"
 
 <h1>Co-Management</h1>
  <p>To start to move away from <span class="_paradigm">Fiat</span>, consider co-management (scary),</p>
- <ul>
-  <li>No bosses or employees</li>
-  <li>Decentralized management: everybody is a co-manager</li>
-  <li>The <em>RADs! mobile app</em></li>
-  <li>Explicit relationships</li>
-  <li>Explicit alignment</li>
-  <li>Explicit profile</li>
- </ul>
+  <ul>
+   <li>No bosses or employees</li>
+   <li>Decentralized management: everybody is a co-manager</li>
+   <li>The <em>RADs! mobile app</em></li>
+   <li>Explicit relationships</li>
+   <li>Explicit alignment</li>
+   <li>Explicit profile</li>
+  </ul>
   <img
    src='/assets/img/pic-the-radical-model-coming-together.svg'
    alt=''
