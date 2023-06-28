@@ -3,11 +3,11 @@ layout:   post
 title:    "The Co-Owned Pastry Shop: My Favorite Store in Town (E02)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-e02-xxx.svg"
+image:    "icon-the-co-owned-pastry-shop-my-favorite-store-in-town-e02.svg"
 ---
 
 <div style="display:none;">
- <p>The town I lived in has the first <span class="_paradigm">Radical</span> company. A delicious pastry shop, and my favorite store, of all places. In fact, it is truly the first co-owned and co-managed company I know of.</p>
+ <p>The town I lived in has the first co-owned and co-managed company I know of. And their astries are delicious.</p>
 </div>
 
 <h1>The Meeting</h1>
