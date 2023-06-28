@@ -7,11 +7,11 @@ image:    "icon-the-co-owned-pastry-shop-my-favorite-store-in-town-e01.svg"
 ---
 
 <div style="display:none;">
- <p>The town I lived in has the first <span class="_paradigm">Radical</span> company. A delicious pastry shop, and my favorite store, of all places. In fact, it is truly the first co-owned and co-managed company I know of.</p>
+ <p>The town I lived in has the first co-owned and co-managed company I know of. And their astries are delicious.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>The town I lived in has the first <span class="_paradigm">Radical</span> company. A delicious pastry shop, and my favorite store, of all places. In fact, it is truly the first <span class="_paradigm">Radical</span> company I know of.</p>
+ <p>The town I lived in has the first co-owned and co-managed company I know of. And their astries are delicious.</p>
 
 <h1>All Smiles</h1>
  <p>I met Pris on her first day at the shop. She was all smiles and we got to talk about her day and her boyfriend and her life. She mentioned that she did&rsquo;t know any other Pris. As it happened, we want down the street, walked into a new plat shop, and, what do you know we met another young woman named Pris (and, yes, my wife and I always exchange names with the new people we meet). But I digress.</p>
