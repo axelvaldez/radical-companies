@@ -73,7 +73,10 @@ image:    "icon-welcome-and-introduction.svg"
   <ul>
    <li>1469: Marriage of Fernando of Aragon and Isabel of Castile, uniting the crowns of Castile and Aragon.</li>
    <li>1474: The death of King Henry IV of Castile leads to the ascension of Fernando and Isabel as joint monarchs, marking the beginning of their reign.</li>
-   <li><strong>1492</strong>: The Catholic Monarchs capture the last Muslim stronghold in Spain, the Kingdom of Granada, and complete the Reconquista (the Christian reconquest of the Iberian Peninsula).Additionally, Christopher Columbus makes his first voyage to the Americas under the sponsorship of Ferdinand and Isabella.</li>
+   <li><strong>1492</strong>:
+    <p>The Catholic Monarchs capture the last Muslim stronghold in Spain, the Kingdom of Granada, and complete the Reconquista (<em>i.e.</em>, the Christian reconquest of the Iberian Peninsula).</p>
+    <p>Christopher Columbus makes his first voyage to the Americas under the sponsorship of Ferdinand and Isabella.</p>
+   </li>
    <li>1502: The Treaty of Granada is signed between Spain and Portugal, defining their spheres of influence in the newly discovered lands.</li>
   </ul>
 
