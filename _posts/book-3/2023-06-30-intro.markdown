@@ -62,8 +62,8 @@ image:    "icon-welcome-and-introduction.svg"
  <p></p>
 
 <h1>The Book</h1>
- <p>In the remainder of this book we are going to take it one theme are a time and compare how it works in a <span class='_paradigm'>Fiat</span> system and how it would work in a non-<span class='_paradigm'>Fiat</span> system.</p>
- <p>Even if you already see <span class='_paradigm'>Fiat</span> and its consequences, it might be worth skimming it to not get caught by surprise when the questions come (and keep coming).</p>
+ <p>The rest of the book takes it one <span class='_paradigm'>Fiat</span> theme are a time. It then compares how it works in a <span class='_paradigm'>Fiat</span> system and how it would work in a non-<span class='_paradigm'>Fiat</span> system. Because I a describing a system, you may find the book repetitive.</p>
+ <p>Even if you already see <span class='_paradigm'>Fiat</span> and its consequences, it might be worth skimming through the book not to be surprised when you tried to explain it to somebody else and the questions come (and keep coming).</p>
 
 <h1>Notes</h1>
  <ul>
