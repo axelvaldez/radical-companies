@@ -45,4 +45,9 @@ image:    "icon-welcome-and-introduction.svg"
 <h1>The Book</h1>
  <p>We are going to take it one theme are a time and compare how it works in a <span class='_paradigm'>Fiat</span> system and how it would work ih non-<span class='_paradigm'>Fiat</span> system.</p>
 
+<h1>Notes</h1>
+ <ul>
+  <li>Capital</li>
+ </ul>
+
 {% include related.html %}
