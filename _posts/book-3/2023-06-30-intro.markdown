@@ -48,7 +48,30 @@ image:    "icon-welcome-and-introduction.svg"
 <h1>Notes</h1>
  <ul>
   <li>Capital</li>
-  <li>banners book-3 competition disentangling epiphanies force-and-pain how-to making-fiat-bearable miscellaneous missing chapters ownership owning-the-commons radical-foundation radical-investments radical-is-business-friendly radical-model rads rcompanies reviews rfiction rhatchery.live rmedia rprojects rstartups
+  <li>banners</li>
+  <li>competition</li>
+  <li>disentangling</li>
+  <li>epiphanies</li>
+  <li>force-and-pain</li>
+  <li>how-to</li>
+  <li>making-fiat-bearable</li>
+  <li>miscellaneous</li>
+  <li>missing</li>
+  <li>chapters</li>
+  <li>ownership</li>
+  <li>owning-the-commons</li>
+  <li>radical-foundation</li>
+  <li>radical-investments</li>
+  <li>radical-is-business-friendly</li>
+  <li>radical-model</li>
+  <li>rads</li>
+  <li>rcompanies</li>
+  <li>reviews</li>
+  <li>rfiction</li>
+  <li>rhatchery.live</li>
+  <li>rmedia</li>
+  <li>rprojects</li>
+  <li>rstartups</li>
   <li>rtools</li>
   <li>transcendence</li>
   <li>wellbeing</li>
