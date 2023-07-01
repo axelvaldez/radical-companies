@@ -52,6 +52,7 @@ image:    "icon-welcome-and-introduction.svg"
   <li>Countries</li>
   <li>Military</li>
   <li>Rules and Laws</li>
+  <li>Pain vs Wellbeing</li>
  </ul>
  <ul>
   <li>banners</li>
