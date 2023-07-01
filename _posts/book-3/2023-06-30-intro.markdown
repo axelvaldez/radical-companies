@@ -16,6 +16,30 @@ image:    "icon-welcome-and-introduction.svg"
 
 <h1>Fiat?</h1>
  <p>Fiat is an Italian automobile brand; it stands for <em>Fabbrica Italiana Automobili Torino.</em></p>
- <p>Fiat is also a word that means <span class='_quotespan'>because I say so</span. </em></p>
+ <p>Fiat is also an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> It also carries an implied <span class='_quotespan'>&hellip; or else.</span> with it. <span class='_quotespan'>Move those boxes over there (because I say so).</span></p>
+
+<h1>The Fiat System</h1>
+ <p>We live in a <span class='_paradigm'>Fiat</span> sytem. Some people <em>do not</em> like the word <em>system</em> associated with their lives, we understand. However, that is what it is: we all live within a system.</p>
+ <p>As we grow up, our parents teach us to follow rules. They do that for our own good, because if you don&rsquo;t fit in society, you are going to pushed to the edge. You are going to be an outcast relegated to the edge with other maladapted undesirables. When I was a kid, the "edge" included people with Down Syndrom, men who left their hair long and women who cut it too short (unless it was a church thing). Drug addicts were at the edge, too.</p>
+ <p>Then, if we are lucky, we go to Kindergarten. We have to unlearn some rules (<span class='_quotepan'>did you hit him back harder</span>) and learn new ones (<span>keep your hands to yourself</span>).</p>
+ <p>And then, if we continue to be lucky, we go to primary school, where we learn more rules. We also learn the sanctioned view of the world. There will be a test of that. That is, BTW, when we start to put on the <span class='_paradigm'>Fiat</span> glasses.</p>
+  <div class="_center">
+   <img
+    src="/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg"
+    width="70%"
+    alt="">
+  </div>
+ <p>If we contine be very lucky <em>and</em> we happen to be live in an &ldquo;advanced&rdquo; country, we go to secondary school. By then the glasses are on all the time, we are simple learning to have fit better. And we make sure that the <span class='_paradigm'>Fiat</span> lenses are never, ever off.</p>
+ <p>Finally, we go to work. With our <span class='_paradigm'>Fiat</span> glasses firmly on. We ask what the rules are and what a good worker is. We learn to be kind and condescending to the non-conformist, the ones whose glasses are askewed and not fitting correctly. We do our best fo these people, be they don&rsquo;t want to learn.</p>
+ <p>That is what <span class='_paradigm'>Fiat</span> is,
+  <ul>
+   <li>Learning the rules,</li>
+   <li>Following the rules,</li>
+   <li>Enforcing the rules.</li>
+  </ul>
+ </p>
+
+<h1>The Book</h1>
+ <p>We are going to take it very slow, one theme are a time and compare how it works in a <span class='_paradigm'>Fiat</span> system and how it would work ih non-<span class='_paradigm'>Fiat</span> system.</p>
 
 {% include related.html %}
