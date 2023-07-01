@@ -15,8 +15,8 @@ image:    "icon-welcome-and-introduction.svg"
  <p>If that is you, return this book. Sorry for the confusion.</p>
 
 <h1>Fiat?</h1>
- <p>Fiat is an Italian automobile brand; it stands for <em>Fabbrica Italiana Automobili Torino.</em></p>
- <p>Fiat is also an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> It also carries an implied <span class='_quotespan'>&hellip; or else.</span> with it. <span class='_quotespan'>Move those boxes over there (because I say so).</span></p>
+ <p><span class='_paradigm'>Fiat</span> is an Italian automobile brand; it stands for <em>Fabbrica Italiana Automobili Torino.</em></p>
+ <p><span class='_paradigm'>Fiat</span> is also an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> It also carries an implied <span class='_quotespan'>&hellip; or else.</span> with it. <span class='_quotespan'>Move those boxes over there (because I say so).</span></p>
 
 <h1>The Fiat System</h1>
  <p>We live in a <span class='_paradigm'>Fiat</span> sytem. Some people <em>do not</em> like the word <em>system</em> associated with their lives, we understand. However, that is what it is: we all live within a system.</p>
