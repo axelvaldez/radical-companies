@@ -51,7 +51,7 @@ image:    "icon-welcome-and-introduction.svg"
  <p>Even if you already see <span class='_paradigm'>Fiat</span> and its consequences, it might be worth skimming through the book not to be surprised when you tried to explain it to somebody else and the questions come (and keep coming).</p>
 
 <h1>Rules, Laws, and Force</h1>
- <p>Rules, followed by convention, eventually turn into laws which <em>you are <em>forced</em> to follow,</em></p>
+ <p>Rules, followed by convention, eventually turn into <span class='_paradigm'>Fiat</span> laws which <em>you are <em>forced</em> to follow,</em></p>
   <ul>
    <li>If you don&rsquo;t, you  get a ticket. A very minor form of force. You have to give up money (<em>i.e.</em>, coined force) to be spared the pain that would follow if you don&rsquo;t.</li>
    <li>If you feel that is an injustice, you let it go to court (<em>i.e.</em>, another type of force).</li>
@@ -61,6 +61,9 @@ image:    "icon-welcome-and-introduction.svg"
   </ul>
  <p>Force is ever present in out <span class='_paradigm'>Fiat</span> system. It goes from a frown to the electric chair. Witholding a prize because you did not said or did what was expected of you is a form of force.</p>
  <p>Motivation is another form of force. <span class='_quotespan'>Do this and you'll get the reward.</span> Realize that that is coming from somebody else. You are &ldquo;motivated&rdquo; to do what somebody else wants. You may want to do something else but you have to do what is specified by someone else to get the reward. That is force.</p>
+ <p>---</p>
+ <p>In an alternative to the <span class='_paradigm'>Fiat</span> system there is no you-ha-do-it-or-else force. The myth is without <span class='_paradigm'>Fiat</span> and force we would never do anything of significance, we would never do anything bigger than ourselves. As I said, that is a myth.<p>
+ <p>First came prisioners of minor wars. They were made to carry whatever the winners didn&rsquo;t want to carry.
 
 <h1>Capital and Contributions</h1>
  <p></p>
