@@ -48,9 +48,11 @@ image:    "icon-welcome-and-introduction.svg"
 <h1>Notes</h1>
  <ul>
   <li>Capital</li>
-  <li>banners banners/2022-10-01-banners-as-financial-instruments.markdown banners/2022-10-17-banners-do-no-evil.markdown book-3 book-3/2023-06-30-intro.markdown competition disentangling epiphanies force-and-pain how-to making-fiat-bearable miscellaneous missing chapters ownership owning-the-commons radical-foundation radical-investments radical-is-business-friendly radical-model rads rcompanies reviews rfiction rhatchery.live rmedia rprojects rstartups rTools</li>
+  <li>banners book-3 competition disentangling epiphanies force-and-pain how-to making-fiat-bearable miscellaneous missing chapters ownership owning-the-commons radical-foundation radical-investments radical-is-business-friendly radical-model rads rcompanies reviews rfiction rhatchery.live rmedia rprojects rstartups
+  <li>rtools</li>
   <li>transcendence</li>
   <li>wellbeing</li>
+
  </ul>
 
 {% include related.html %}
