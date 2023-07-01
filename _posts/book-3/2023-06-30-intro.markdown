@@ -68,7 +68,8 @@ image:    "icon-welcome-and-introduction.svg"
  <p>Religion is part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
 
 <h1>Countries and Other Divisions</h1>
- <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of chiefdoms and later kingdowns. Empires didn&rsquo;t last so long, but countries did. Countries were mostly nations and when they weren&rsquo;t they were made so by force. Before Fernando and Isabel sent their minions to the Americas, they cleansed most of the Iberian peninsula; Portugal escaped the onslaught by doing their own cleansing. Basques, Astures, Galicians, Catalonians, al-Andalucians, and ohers were forced to speak be Chatholics and Castillian (or else). So, by the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered.</p>
+ <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of chiefdoms and later kingdowns. Countries were mostly nations and when they weren&rsquo;t they were made so by force.</p>
+ <p>For example, before Fernando and Isabel sent their minions to the Americas, they cleansed most of their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and ohers were forced to act as Chatholics and speak Castillian (or else). So, by the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered.</p>
 
 <h1>Capital and Contributions</h1>
  <p></p>
