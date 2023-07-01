@@ -51,7 +51,7 @@ image:    "icon-welcome-and-introduction.svg"
   <ul>
    <li>If you don&rsquo;t, you  get a ticket. A very minor form of force. You have to give up money (<em>i.e.</em>, coined force) to be spared the pain that would follow if you don&rsquo;t.</li>
    <li>If you feel that is an injustice, you let it go to court (<em>i.e.</em>, another type of force).</li>
-   <li>If they rule in your behalf, you celebrate; if they don&rsquo;t, you are angry but you have to pay the ticket. Still minor force.</li>
+   <li>If they rule in your behalf, you celebrate; if they don&rsquo;t, you are angry and you have to pay the ticket. Still minor force.</li>
    <li>If you happen to be from the edge, it may get ugly. It may end up in prison time for you. No longer a minor force.</li>
    <li>In prison you end in a fight and you end up maimed or dead or you kill or maimed somebody. Definitely a <em>force majeure</em>.</li>
   </ul>
