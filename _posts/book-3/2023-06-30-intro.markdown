@@ -49,7 +49,7 @@ image:    "icon-welcome-and-introduction.svg"
 <h1>Notes</h1>
  <ul>
   <li>Capital and Contributions</li>
-  <li>Countries</li>
+  <li>Countries and Divisions</li>
   <li>Military</li>
   <li>Rules and Laws</li>
   <li>Pain and Wellbeing</li>
