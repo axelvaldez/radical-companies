@@ -31,8 +31,8 @@ image:    "icon-welcome-and-introduction.svg"
     width="70%"
     alt="">
   </div>
- <p>If we continue be very lucky <em>and</em> we happen to be live in an &ldquo;advanced&rdquo; country, we go to secondary school. By then the glasses are on all the time, we are simple learning to have fit better. And we make sure that the <span class='_paradigm'>Fiat</span> lenses are never, ever off.</p>
- <p>Finally, we go to work. With our <span class='_paradigm'>Fiat</span> glasses firmly on. We ask what the rules are and what a good worker is. We learn to be kind and condescending to the non-conformist, the ones whose glasses are askewed and not fitting correctly. We do our best fo these people, be they don&rsquo;t want to learn.</p>
+ <p>If we continue be very lucky <em>and</em> we happen to be live in an &ldquo;advanced&rdquo; country, we go to secondary school. By then the glasses are on all the time, we are simple learning to have them fit better. And we make sure that the <span class='_paradigm'>Fiat</span> lenses are never, ever off.</p>
+ <p>Finally, we go to work, with our <span class='_paradigm'>Fiat</span> glasses firmly on. We ask what the rules are and what a good worker is. We learn to be kind and condescending to the non-conformist, the ones whose glasses are askewed and not fitting correctly. We do our best fo these people, be they don&rsquo;t want to learn.</p>
  <p>That is what <span class='_paradigm'>Fiat</span> is,
   <ul>
    <li>Learning the rules,</li>
