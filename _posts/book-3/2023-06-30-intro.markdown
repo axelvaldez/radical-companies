@@ -7,11 +7,11 @@ image:    "icon-welcome-and-introduction.svg"
 ---
 
 <div style="display:none;">
- <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They want to, but they do&rsquo;t yet see it.</p>
+ <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They want to, but they don&rsquo;t yet see it.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>.  They want to, but they do&rsquo;t yet see it. <span class='_quotespan'>Sounds interesting&hellip; tell me more about about it,</span> says you as you cross your arms and lean back on your comfortable chair.</p>
+ <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>.  They want to, but they don&rsquo;t yet see it. <span class='_quotespan'>Sounds interesting&hellip; tell me more about about it,</span> says you as you cross your arms and lean back on your comfortable chair.</p>
  <p>If that is you, return this book. Sorry for the confusion.</p>
 
 <h1>Fiat?</h1>
