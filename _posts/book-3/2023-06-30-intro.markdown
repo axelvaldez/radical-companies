@@ -79,7 +79,6 @@ image:    "icon-welcome-and-introduction.svg"
     1474:
     <p>The death of King Henry IV of Castile leads to the ascension of Fernando and Isabel as joint monarchs, marking the beginning of their reign.</p>
    </li>
-   <li>
    <li style='text-indent:0; '>
     <strong>1492</strong>:
     <p>The Catholic Monarchs capture the last Muslim stronghold in Spain, the Kingdom of Granada, and complete the Reconquista (<em>i.e.</em>, the Christian reconquest of the Iberian Peninsula).</p>
