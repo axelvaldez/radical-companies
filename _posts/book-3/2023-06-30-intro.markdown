@@ -75,7 +75,6 @@ image:    "icon-welcome-and-introduction.svg"
   <li>rtools</li>
   <li>transcendence</li>
   <li>wellbeing</li>
-
  </ul>
 
 {% include related.html %}
