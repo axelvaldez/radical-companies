@@ -48,11 +48,11 @@ image:    "icon-welcome-and-introduction.svg"
 
 <h1>Notes</h1>
  <ul>
-  <li>Capital vs Contributions</li>
+  <li>Capital and Contributions</li>
   <li>Countries</li>
   <li>Military</li>
   <li>Rules and Laws</li>
-  <li>Pain vs Wellbeing</li>
+  <li>Pain and Wellbeing</li>
  </ul>
  <ul>
   <li>banners</li>
