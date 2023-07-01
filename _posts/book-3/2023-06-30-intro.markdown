@@ -12,7 +12,7 @@ image:    "icon-welcome-and-introduction.svg"
 
 <h1>&nbsp;</h1>
  <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. Rather, they want to see it <span class='_paradigm'>Fiat</span> with their <span class='_paradigm'>Fiat</span> glasses on. <span class='_quotespan'>Sounds interesting&hellip; tell me more about about it,</span> say you as you cross your arms and lean back on your comfortable chair.</p>
- <p>If that is you, return this book. Sorry we confused you.</p>
+ <p>If that is you, return this book. Sorry for the confusion.</p>
 
 <h1>Fiat?</h1>
  <p>Fiat is an Italian automobile brand; it stands for <em>Fabbrica Italiana Automobili Torino.</em></p>
