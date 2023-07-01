@@ -85,7 +85,6 @@ image:    "icon-welcome-and-introduction.svg"
 
 <h1>Notes</h1>
  <ul>
-  <li>Countries and Other Divisions</li>
   <li>Military and Force</li>
   <li>Rules and Laws</li>
   <li>Pain and Wellbeing</li>
