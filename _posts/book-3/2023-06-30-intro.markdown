@@ -67,8 +67,8 @@ image:    "icon-welcome-and-introduction.svg"
  <p>And we made a system out of it to the point that &ldquo;being a good worker&rdquo; is a sign of pride today. There is nothing strange about it. It is normal. The alternative is chaos, to be avoided at all costs. Anybody talking alternatives (us) must be crazy.</p>
  <p>Religion is part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
 
-<li>Countries and Other Divisions</li>
- <p>Countries are <span class='_paradigm'>Fiat</span> creatinons. They come straight out of chiefdoms and later kingdowns. Empires didn't last so long, but countries did. Countries were mostly nations and when they weren&rsquo;t they were made so by force. Before Fernando and Isabel went to the Americas, they cleansed most of the Iberian peninsula. Basques, Astures, Galicians, and ohers were forced to speak Castillian (or else). So, by the time they got to the Americas, they had developed a methodology that had proven to work.</p>
+<h1>Countries and Other Divisions</h1>
+ <p>Countries are <span class='_paradigm'>Fiat</span> creatinons. They come straight out of chiefdoms and later kingdowns. Empires didn't last so long, but countries did. Countries were mostly nations and when they weren&rsquo;t they were made so by force. Before Fernando and Isabel went to the Americas, they cleansed most of the Iberian peninsula. Basques, Astures, Galicians, and ohers were forced to speak Castillian (or else). So, by the time they got to the Americas, the castillian rulers had developed a methodology to cleanse whateve got in front of them.</p>
 
 <h1>Capital and Contributions</h1>
  <p></p>
