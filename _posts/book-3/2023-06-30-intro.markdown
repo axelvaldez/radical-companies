@@ -46,6 +46,10 @@ image:    "icon-welcome-and-introduction.svg"
  <p>Think of what happens <em>when you get caught</em> not following the rules.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Think of how many decision you have made, now think if you did it without considering in the back of your head what your boss would think of it. <span class='_quotespan'>Bob would want it this way</span>. Think of how many times you have said, <span class='_quotespan'>I am pretty sure that Bob is not going tot like it!</span> You can&rsquo;t make a decision without considering Bob. <span class='_quotespan'>How else would the system work? Things would not work without Bob.</span> That&rsquo;s what constantly happens in a <span class='_paradigm'>Fiat</span> system. You do what you do <em>because of Bob</em>.</p>
  </p>
 
+<h1>The Book</h1>
+ <p>The rest of the book takes it one <span class='_paradigm'>Fiat</span> theme are a time. It then compares how it works in a <span class='_paradigm'>Fiat</span> system and how it would work in a non-<span class='_paradigm'>Fiat</span> system. Because I a describing a system, you may find the book repetitive.</p>
+ <p>Even if you already see <span class='_paradigm'>Fiat</span> and its consequences, it might be worth skimming through the book not to be surprised when you tried to explain it to somebody else and the questions come (and keep coming).</p>
+
 <h1>Rules, Laws, and Force</h1>
  <p>Rules, followed by convention, eventually turn into laws which <em>you are <em>forced</em> to follow,</em></p>
   <ul>
@@ -61,13 +65,9 @@ image:    "icon-welcome-and-introduction.svg"
 <h1>Capital and Contributions</h1>
  <p></p>
 
-<h1>The Book</h1>
- <p>The rest of the book takes it one <span class='_paradigm'>Fiat</span> theme are a time. It then compares how it works in a <span class='_paradigm'>Fiat</span> system and how it would work in a non-<span class='_paradigm'>Fiat</span> system. Because I a describing a system, you may find the book repetitive.</p>
- <p>Even if you already see <span class='_paradigm'>Fiat</span> and its consequences, it might be worth skimming through the book not to be surprised when you tried to explain it to somebody else and the questions come (and keep coming).</p>
-
 <h1>Notes</h1>
  <ul>
-  <li>Countries and Divisions</li>
+  <li>Countries and Other Divisions</li>
   <li>Military and Force</li>
   <li>Rules and Laws</li>
   <li>Pain and Wellbeing</li>
