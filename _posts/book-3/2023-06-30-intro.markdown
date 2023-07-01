@@ -51,7 +51,7 @@ image:    "icon-welcome-and-introduction.svg"
   <li>Capital vs Contributions</li>
   <li>Countries</li>
   <li>Military</li>
-  <li>Laws (<em>aka</em>, Rules)</li>
+  <li>Rules and Laws</li>
  </ul>
  <ul>
   <li>banners</li>
