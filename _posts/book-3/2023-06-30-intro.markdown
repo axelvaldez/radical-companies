@@ -39,9 +39,10 @@ image:    "icon-welcome-and-introduction.svg"
    <li>Following the rules,</li>
    <li>Enforcing the rules.</li>
   </ul>
+ <p>Think of your life. Think of what happens when you get caught not following the rules. Think of how many decision you have taken without considering in the back of your heard what your boss would think of it. Thinjk of how many times you have said or have considered saying, <span class='_quotespan'>I am pretty sure that Mike,</span> the boss, <span class='_quotespan'>is not going tot like it!</span> That&rsquo;s what constantly happens in a <span class='_paradigm'>Fiat</span> system. You do what you do <em>because Mike says so</em>.</p>
  </p>
 
 <h1>The Book</h1>
- <p>We are going to take it very slow, one theme are a time and compare how it works in a <span class='_paradigm'>Fiat</span> system and how it would work ih non-<span class='_paradigm'>Fiat</span> system.</p>
+ <p>We are going to take it one theme are a time and compare how it works in a <span class='_paradigm'>Fiat</span> system and how it would work ih non-<span class='_paradigm'>Fiat</span> system.</p>
 
 {% include related.html %}
