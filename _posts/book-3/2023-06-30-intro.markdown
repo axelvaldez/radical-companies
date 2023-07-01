@@ -43,11 +43,14 @@ image:    "icon-welcome-and-introduction.svg"
    <li>Following the rules,</li>
    <li>Enforcing the rules.</li>
   </ul>
- <p>Think of what happens <em>when you get caught</em> not following the rules.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Think of how many decision you have taken without considering in the back of your head what your boss would think of it. Think of how many times you have said or have considered saying, <span class='_quotespan'>I am pretty sure that Bob,</span> the boss, <span class='_quotespan'>is not going tot like it!</span> That&rsquo;s what constantly happens in a <span class='_paradigm'>Fiat</span> system. You do what you do <em>because Bob says so</em>.</p>
+ <p>Think of what happens <em>when you get caught</em> not following the rules.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Think of how many decision you have made, now think if you did it without considering in the back of your head what your boss would think of it. <span class='_quotespan'>Bob would want it this way</span>. Think of how many times you have said, <span class='_quotespan'>I am pretty sure that Bob is not going tot like it!</span> You can&rsquo;t make a decision without considering Bob. <span class='_quotespan'>How else would the system work? Things would not work without Bob.</span> That&rsquo;s what constantly happens in a <span class='_paradigm'>Fiat</span> system. You do what you do <em>because of Bob</em>.</p>
  </p>
 
-<h1>Rules and Laws</h1>
- <p>As system, </p>
+<h1>Rules, Laws, and Force</h1>
+ <p>Rules, followed by convention, eventually turn into laws which <em>you are forced to follow.</em></p>
+ <p>If you don&rsquo;t, you get a ticket. If you feel that&rsquo;s an injustice, you let it go to court, another type of force. If they rule in your behalf, you celebrate; if they don&rsquo;t, you are angry. All minor force.</p>
+ <p>If you happen to be from the edge, it may get ugly and end up in prison time for you. A not so minor force.</p>
+ <p>In prison you end in a fight and you end up maimed or dead. Definitely a <em>force majeure</em>.</p>
 
 <h1>Capital and Contributions</h1>
  <p></p>
