@@ -70,27 +70,6 @@ image:    "icon-welcome-and-introduction.svg"
 <h1>Countries and Other Divisions</h1>
  <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of chiefdoms and later kingdowns. Empires didn&rsquo;t last so long, but countries did. Countries were mostly nations and when they weren&rsquo;t they were made so by force. Before Fernando and Isabel sent their minions to the Americas, they cleansed most of the Iberian peninsula; Portugal escaped the onslaught by doing their own cleansing. Basques, Astures, Galicians, Catalonians, al-Andalucians, and ohers were forced to speak be Chatholics and Castillian (or else). So, by the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encounter.</p>
  <p>Limited timeline,</p>
-  <ul>
-   <li style='text-indent:0; '>
-    1469:
-    <p>Marriage of Fernando of Aragon and Isabel of Castile, uniting the crowns of Castile and Aragon.</p>
-   </li>
-   <li style='text-indent:0; '>
-    1474:
-    <p>The death of King Henry IV of Castile leads to the ascension of Fernando and Isabel as joint monarchs, marking the beginning of their reign.</p>
-   </li>
-   <li style='text-indent:0; '>
-    <strong>1492</strong>:
-    <p>The Catholic Monarchs capture the last Muslim stronghold in Spain, the Kingdom of Granada, and complete the Reconquista (<em>i.e.</em>, the Christian reconquest of the Iberian Peninsula).</p>
-    <p>Christopher Columbus makes his first voyage to the Americas under the sponsorship of Ferdinand and Isabella.</p>
-   </li>
-   <li style='text-indent:0; '>
-    1502:
-    <p>The Treaty of Granada is signed between Spain and Portugal, defining their spheres of influence in the newly discovered lands.</p>
-   </li>
-  </ul>
- <!--
- -->
 
 <h1>Capital and Contributions</h1>
  <p></p>
