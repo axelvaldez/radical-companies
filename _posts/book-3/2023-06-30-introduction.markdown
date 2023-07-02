@@ -99,8 +99,8 @@ image:    "icon-welcome-and-introduction.svg"
   <ul>
    <li>In my decentralized and fully transparent community I trust.</li>
    <li>What is going to keep my community growing is what&rsquo;s good for them which is what is good for me.</li>
-   <li>If that is not the case, I leave (and keep what ownership I&rsquo;ve earned to that point_.</li>
-  </ul
+   <li>If that is not the case, I leave (and keep what ownership I&rsquo;ve earned to that point).</li>
+  </ul>
  <h2>Foundation</h2>
   <p>This is the <span class='_paradigm'>Foundation</span> of a community,</p>
    <ul>
