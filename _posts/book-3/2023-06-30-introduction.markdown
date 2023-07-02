@@ -26,7 +26,7 @@ image:    "icon-welcome-and-introduction.svg"
 
 <h1>The Fiat System</h1>
  <p>We live in a <span class='_paradigm'>Fiat</span> <em>system</em>. Some people <em>do not</em> like the word <em>system</em> associated with their lives, and that is understandable. <span class='_quotespan'>My life is not encased in a system, I shape it however I want to.</span> However, that is what it is: you and I live within a system.</p>
- <p>We created the system and we maintain it. Money is a medium of exchange within the system. The military (nominally) protect our borders within the system. We get our food at grocery stores within the system. These are elements of the system we created, we live in, and we maintain.</p>
+ <p>We created the system and we maintain it. Money is a medium of exchange, within the system. The military (nominally) protect our borders, within the system. We get our food at grocery stores, within the system. These are elements of the system we created, we live in, and we maintain.</p>
  <p>There are alternatives. I don't believe that &ldquo;this is the end&rdquo;, but I do see that this system is getting too complicated and it is becoming unmaintainable.</p>
 
 <h1>It Starts with Rules</h1>
