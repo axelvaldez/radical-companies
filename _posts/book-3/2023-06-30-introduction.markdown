@@ -119,7 +119,7 @@ image:    "icon-welcome-and-introduction.svg"
    </ul>
    <div class='_center'>
     <img
-     src='/assets/img/pic-radical-alignment-en.svg'
+     src='/assets/img/pic-explicit-alignment-en.svg'
      width='70%'
      alt=''>
     </div>
