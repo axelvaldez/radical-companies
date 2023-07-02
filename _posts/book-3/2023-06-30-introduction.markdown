@@ -40,7 +40,7 @@ image:    "icon-welcome-and-introduction.svg"
     alt="">
   </div>
  <p>If we happen to be live in an &ldquo;advanced&rdquo; country, we go to secondary school. By then the glasses are on all the time, we are simple fiddling with them and learning to make them more comfortable. No matter, we make sure that the <span class='_paradigm'>Fiat</span> lenses are never, ever off. We want to stay far away from the edge.</p>
- <p>Finally, we go to work, with our <span class='_paradigm'>Fiat</span> glasses firmly on. We ask what the rules are and how to be a good worker.  We are hppy to be a resource and happier that we are getting a steady wage (until we are not). We learn to be kind and condescending to the ones whose glasses are skewed and not fitting correctly. We do our best for these people, but they just don&rsquo;t want to learn the rules.</p>
+ <p>Finally, we go to work, with our <span class='_paradigm'>Fiat</span> glasses firmly on. We ask what the rules are and how to be a good worker.  We are hppy to be a resource and happier that we are getting a steady wage (until we are not). We learn to be kind and condescending to the ones whose glasses are skewed and not fitting correctly. <span class='_quotespan'>We do our best for these people, but they just don&rsquo;t want to learn the rules.</span></p>
  
 <h1>The Fiat System Is&hellip;</h1>
  <p>That is what <span class='_paradigm'>Fiat</span> <strong>system</strong> is,
