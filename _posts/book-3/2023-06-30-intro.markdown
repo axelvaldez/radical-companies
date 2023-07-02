@@ -100,25 +100,27 @@ image:    "icon-welcome-and-introduction.svg"
  <ul>
   <li>Military and Force</li>
   <li>Pain and Wellbeing</li>
+  <li>competition</li>
+  <li>force-and-pain</li>
+  <li>ownership</li>
+  <li>owning-the-commons</li>
+  <li>rads</li>
+  <li>rtools</li>
+  <li>transcendence</li>
+  <li>wellbeing</li>
  </ul>
  <ul>
   <li>banners</li>
-  <li>competition</li>
   <li>disentangling</li>
   <li>epiphanies</li>
-  <li>force-and-pain</li>
   <li>how-to</li>
   <li>making-fiat-bearable</li>
   <li>miscellaneous</li>
-  <li>missing</li>
-  <li>chapters</li>
-  <li>ownership</li>
-  <li>owning-the-commons</li>
+  <li>missing chapters</li>
   <li>radical-foundation</li>
   <li>radical-investments</li>
   <li>radical-is-business-friendly</li>
   <li>radical-model</li>
-  <li>rads</li>
   <li>rcompanies</li>
   <li>reviews</li>
   <li>rfiction</li>
@@ -126,9 +128,6 @@ image:    "icon-welcome-and-introduction.svg"
   <li>rmedia</li>
   <li>rprojects</li>
   <li>rstartups</li>
-  <li>rtools</li>
-  <li>transcendence</li>
-  <li>wellbeing</li>
  </ul>
 
 <h1 class="_section">ENDNOTES</h1>
