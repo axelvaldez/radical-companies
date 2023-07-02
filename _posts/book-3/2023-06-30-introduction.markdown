@@ -84,7 +84,7 @@ image:    "icon-welcome-and-introduction.svg"
   <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of chiefdoms and later kingdons. Empires were mostly nations or were cleansed by force.</p>
   <p>For example, before Fernando and Isabel sent their minions to the Americas, they cleansed most of their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act as Catholics and speak Castillian (or else). In fact, the Inquisition made sure that the converted were truly convicing Catholics and spoke the language of the Church.</p>
   <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered.</p>
- <h2>Women</h2>
+ <h2>Divide and Conquer</h2>
   <p>At some point women were made second to men and were made subservient to them. Men were the kings of their castle and women were chattel.  It all went inside, bundled with a strong ideology and women became pillars of the institution. <span class='_paradigm'>Eve was the bad apple,</span> and she had better submit for salvation. And women covered their hair and wore burkas as a matter of duty.</p>
   <p>As Christianity spread, non-Europeans got pushed to be subservient to Europeans all over the world. Of course, there were wealthy non-Europeans and poor non-Europeans. The wealthier was treated better and oftentimes put in charge.</p>
   <p>We are still struggling with that attitude today, thousands of years later.</p>
