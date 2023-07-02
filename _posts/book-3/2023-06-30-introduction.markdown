@@ -107,7 +107,7 @@ image:    "icon-welcome-and-introduction.svg"
   <p>This is the <span class='_paradigm'>Foundation</span> of a community,</p>
    <ul>
     <li>A community must provide me with Meaning. This is a community that I want to Belong to.</li>
-    <li>To work for <em>every</em> member of the community, it must be fully decentralized and transparent.</li>
+    <li>To work for <em>every</em> member, the community must be fully decentralized and transparent.</li>
     <li>Members are free to experiment. The only rules are those the community agrees to, and even those could be negotiated.</li>
    </ul>
  <h2>Alignment</h2>
