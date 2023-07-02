@@ -75,7 +75,7 @@ image:    "icon-welcome-and-introduction.svg"
  <p>This got absorbed by the Fiat system to the point that &ldquo;being a good worker&rdquo; is a sign of pride today. There is nothing strange about it, it is normal. The alternative is chaos, to be avoided at all costs. Anybody talking alternatives (you and I) must be crazy.</p>
  <p>--</p>
  <p>The alternative is not chaos, but it is different.</p>
- <p>For one there&rsquo;s no force. There&rsquo;s persuasion, there is convicing, there is guilt. But there is no force to make you do something that you don&rsquo;t want to do.</p>
+ <p>For one, there&rsquo;s no force. There&rsquo;s persuasion, there is convicing, there is guilt. But there is no force to make you do something that you don&rsquo;t want to do.</p>
  <p>--</p>
  <p>Religion is part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
 
