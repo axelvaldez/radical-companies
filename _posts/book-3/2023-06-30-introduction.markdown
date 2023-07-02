@@ -29,7 +29,7 @@ image:    "icon-welcome-and-introduction.svg"
 <h1>It Starts with Rules</h1>
  <p>As we grow up, our parents teach us simple rules and they teach us how to follow them. They do that for our own good, because if you don&rsquo;t fit in society, you are going to pushed to the edge. You are going to be an outcast relegated to the edge with other maladapted undesirables. When I was a kid, the &ldquo;edge&rdquo; included people with Down Syndrome, men who left their hair long and women who cut it too short (unless it was a church thing). Drug addicts were at the edge, too.</p>
  <p>Then, if we are lucky, we go to Kindergarten. We have to unlearn some rules (<span class='_quotespan'>did you hit him back harder</span>) and learn new ones (<span class='_quotespan'>keep your hands to yourself</span>).</p>
- <p>Lucky that we are, we go to primary school, where we learn more rules. We also start to learn the sanctioned view of the world. <span class='_quotespan'>That will be on the test!</span> In primary school also is when we start to put on the <span class='_paradigm'>Fiat</span> glasses.</p>
+ <p>Lucky that we are, we go to primary school, where we learn more rules. We also start to learn the sanctioned view of the world. <span class='_quotespan'>That will be on the test!</span> In primary school, too, is when we start to put on the <span class='_paradigm'>Fiat</span> glasses.</p>
   <div class="_center">
    <img
     src="/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg"
