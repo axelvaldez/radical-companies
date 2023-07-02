@@ -65,7 +65,7 @@ image:    "icon-welcome-and-introduction.svg"
    <li>On the other hand, if you happen to be from the edge, it may get ugly and you may end up in prison. No longer a minor force.</li>
    <li>In prison you end in a fight and you are maimed or killed or vice versa. Either way, it is definitely a <em>force majeure</em>.</li>
   </ul>
- <p>Force is ever present in out <span class='_paradigm'>Fiat</span> system. It goes from a frown to the electric chair. Withholding a prize because you did not said or did what was expected of you is a form of force.</p>
+ <p>Force is ever present in out <span class='_paradigm'>Fiat</span> system. It goes from a frown to the electric chair. Withholding a prize because you did not said or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or the more euphemistic &ldquo;laying you off&rdquo; is a form of force. Raising you rent so your only option is to leave is a form of force. We are surrounded by a system that runs on force.</p>
  <p>Motivation is another form of force. <span class='_quotespan'>Do this and you'll get the reward.</span> Realize that that is coming from somebody else. You are &ldquo;motivated&rdquo; to do what somebody else wants. You may want to do something else but you have to do what is specified by someone else to get the reward. That is force.</p>
  <p>---</p>
  <p>In an alternative to the <span class='_paradigm'>Fiat</span> system there is no you-have-do-it-or-else force. The myth is that without <span class='_paradigm'>Fiat</span> force we would never do anything of significance, we would never do anything bigger than ourselves. And so goes the myth.<p>
