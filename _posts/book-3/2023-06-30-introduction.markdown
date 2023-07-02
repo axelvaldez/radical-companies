@@ -11,9 +11,9 @@ image:    "icon-welcome-and-introduction.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They may not even know what the heck Fiat means. But they are interested, they feel that the currect system is not working for them.</p>
+ <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They may not even know what the heck <span class='_paradigm'>Fiat</span> means. But they are interested, they feel that the currect system is not working for them.</p>
  <p>You have to be open and ready to put aside everything you take for granted. You have to be open and ready to put aside everything has always been here and will always be part of us. You have to be open and ready to put aside much of you consider our &ldquo;nature.&rdquo; You have to be open and ready to question what is true about us.</p>
- <p>The alternative to Fiat is fundamentally different and will feel foreign and even crazy.</p>
+ <p>The alternative to <span class='_paradigm'>Fiat</span> is fundamentally different and will feel foreign and even crazy.</p>
  <div class="_citation">
   <p>Creativity takes courage.</p>
   <p id='_signature'>Henri Matisse</p>
@@ -26,8 +26,8 @@ image:    "icon-welcome-and-introduction.svg"
 
 <h1>The Fiat System</h1>
  <p>We live in a <span class='_paradigm'>Fiat</span> <em>system</em>. Some people <em>do not</em> like the word <em>system</em> associated with their lives, and that is understandable. <span class='_quotespan'>My life is not encased in a system, I shape it however I want to.</span> However, that is what it is: you and I live within a system.</p>
- <p>We created the system and we maintain it. Money is a medium of exchange, within the system. The military (nominally) protect our borders, within the system. We get our food at grocery stores, within the system. These are elements of the system we created, we live in, and we maintain.</p>
- <p>There are alternatives. I don't believe that &ldquo;this is the end&rdquo;, but I do see that this system is getting too complicated and it is becoming unmaintainable.</p>
+ <p>We created the system and we maintain it. Money is a medium of exchange, within the <span class='_paradigm'>Fiat</span> system. The military (nominally) protect our borders, within the <span class='_paradigm'>Fiat</span> system. We get our food at grocery stores, within the <span class='_paradigm'>Fiat</span> system. These are elements of the <span class='_paradigm'>Fiat</span> system that we created, we live in, and we uphold and maintain.</p>
+ <p>There are alternatives. I don't believe that this is &ldquo;the end of the world&rdquo;, but it is getting overly complicated and it is becoming unmaintainable.</p>
 
 <h1>It Starts with Rules</h1>
  <p>As we grow up, our parents teach us simple rules and they teach us how to follow them. They do that for our own good, because if you don&rsquo;t fit in society, you are going to pushed to the edge. You are going to be an outcast relegated to the edge with other maladapted undesirables. When I was a kid, the &ldquo;edge&rdquo; included people with Down Syndrome, men who left their hair long and women who cut it too short (unless it was a church thing). Drug addicts were at the edge, too.</p>
