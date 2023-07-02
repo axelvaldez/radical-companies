@@ -76,7 +76,6 @@ image:    "icon-welcome-and-introduction.svg"
  <p>---</p>
  <p>In an alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in God, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t is working against our survival as a species. In my community I trust. In my decentralized and fully transparent community I trust. What is going to keep my community growing is what&rsquo;s good for them which is what is good for me. And if it doesn&rsquo;t work for me, I'll find another community.</p>
 
-
 <h1>Capital and Contributions</h1>
  <p></p>
 
