@@ -14,7 +14,7 @@ image:    "icon-welcome-and-introduction.svg"
  <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They may not even know what the heck Fiat means. But they are interested, they feel that the currect system is not working for them.</p>
  <p>You have to be open and ready to put aside everything you take for granted. You have to be open and ready to put aside everything has always been here and will always be part of us. You have to be open and ready to put aside much of you consider our &ldquo;nature.&rdquo; You have to be open and ready to question what is true about us.</p>
  <p>The alternative to Fiat is fundamentally different and will feel foreign and even crazy.</p>
- <div class="citation">
+ <div class="_citation">
   <p>Creativity takes courage.</p>
   <P class='_signature'>Henri Mattisse</p>
  </div>
