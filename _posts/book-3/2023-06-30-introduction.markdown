@@ -154,7 +154,6 @@ image:    "icon-welcome-and-introduction.svg"
   <li>making-fiat-bearable</li>
   <li>miscellaneous</li>
   <li>missing chapters</li>
-  <li>radical-foundation</li>
   <li>radical-investments</li>
   <li>radical-is-business-friendly</li>
   <li>radical-model</li>
