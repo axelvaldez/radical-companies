@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "icon-welcome-and-introduction.svg"
 ---
 
-<div style="display:none;">
+<div style='display:none;'>
  <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They want to, but they don&rsquo;t yet see it.</p>
 </div>
 
@@ -49,7 +49,7 @@ image:    "icon-welcome-and-introduction.svg"
    <li>Following the rules,</li>
    <li>Enforcing the rules.</li>
   </ul>
- <p>Think of what happens <em>when you get caught</em> not following the rules.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Think of how many decision you have made, now think if you did it without considering in the back of your head what your boss would think of it. <span class='_quotespan'>Bob would want it this way</span>. Think of how many times you have said, <span class='_quotespan'>I am pretty sure that Bob is not going tot like it!</span> You can&rsquo;t make a decision without considering Bob. <span class='_quotespan'>How else would the system work? Things would not work without Bob.</span> That&rsquo;s what constantly happens in a <span class='_paradigm'>Fiat</span> system. You do what you do <em>because of Bob, the boss</em>.</p>
+ <p>Think of what happens <em>when you get caught</em> not following the rules.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> Think of how many decision you have made, now think if you did it without considering in the back of your head what your boss would think of it. <span class='_quotespan'>Bob would want it this way</span>. Think of how many times you have said, <span class='_quotespan'>I am pretty sure that Bob is not going tot like it!</span> You can&rsquo;t make a decision without considering Bob. <span class='_quotespan'>How else would the system work? Things would not work without Bob.</span> That&rsquo;s what constantly happens in a <span class='_paradigm'>Fiat</span> system. You do what you do <em>because of Bob, the boss</em>.</p>
  </p>
 
 <h1>The Book</h1>
@@ -151,12 +151,12 @@ image:    "icon-welcome-and-introduction.svg"
   <li>rstartups</li>
  </ul>
 
-<h1 class="_section">ENDNOTES</h1>
+<h1 class='_section'>ENDNOTES</h1>
  <ul>
-  <li id="en01">
-   <p class="_list-item">
+  <li id='en01'>
+   <p class='_list-item'>
     If you don&rsquo;t get caught, no problem.
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class='_uparrow' href='#bm01'><img src='/assets/img/arrow-up-icon.png'></a>
    </p>
   </li>
  </ul>
