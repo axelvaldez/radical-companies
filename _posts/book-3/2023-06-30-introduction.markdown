@@ -16,7 +16,7 @@ image:    "icon-welcome-and-introduction.svg"
  <p>The alternative to Fiat is fundamentally different and will feel foreign and even crazy.</p>
  <div class="_citation">
   <p>Creativity takes courage.</p>
-  <P class='_signature'>Henri Mattisse</p>
+  <p id='_signature'>Henri Mattisse</p>
  </div>
  <p>If you are not open and ready for this, this is not the book for you. <span class='_quotespan'>Sounds interesting&hellip; tell me more about about it,</span> says you as you cross your arms and lean back on your comfortable chair. If that is you, return this book. Sorry for the inconvenience.</p>
 
