@@ -11,7 +11,7 @@ image:    "icon-welcome-and-introduction.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They may not even know what the heck Fiat means. But they are interested, they feel that the currect system is not working for them, not working for us.</p>
+ <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They may not even know what the heck Fiat means. But they are interested, they feel that the currect system is not working for them.</p>
  <p>You have to be open and ready to switch paradigms. You have to be open and ready to suspend everything you take for granted, everything you assume has always been here and will always be part of us. The alternative to Fiat is fundamentally different and will at first feel foreign.</p>
  <p>If you are not open and ready for this, this is not the book for you. <span class='_quotespan'>Sounds interesting&hellip; tell me more about about it,</span> says you as you cross your arms and lean back on your comfortable chair. If that is you, return this book. Sorry for the inconvenience.</p>
 
