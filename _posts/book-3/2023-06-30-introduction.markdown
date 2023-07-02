@@ -80,33 +80,43 @@ image:    "icon-welcome-and-introduction.svg"
  <p>Religion is part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
 
 <h1>Countries and Other Divisions</h1>
- <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of chiefdoms and later kingdons. Empires were mostly nations or were made so by force.</p>
- <p>For example, before Fernando and Isabel sent their minions to the Americas, they cleansed most of their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act as Catholics and speak Castillian (or else). So, by the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered.</p>
- <p>At some point women were made second to men and were made subservient to them. Men were the kings of their castle and women were chattel.  It all went inside bundled by a strong ideology and women became pillars of that institution. As Christianity spread, women and non-Europeans got pushed to be subservient to European men all over the world.</p>
- <p>Eve was the bad apple and she had better work for salvation.</p>
- <p>Women covered their hair and wore burkas as a matter of duty. We are still struggling with that attitude today, thousands of years later.</p>
- <p>With men lording over half of the population, strongmen could lord over men. They could appeal to the stories and the making up of history. They certainly supported the making of kingdoms and empires. <span class='_quotespan'>We could be in paradise, but the woman gave the man the apple of knowledge and poisoned him.</span></p>
- <p>The Jewish tradition, Christianity, and Islam have an eternal boss named God, at the top. You would dare to even think of equitable, you can only submit to God. In Christianity, the Pope is the only one that could understand what God wished. They won, I claim, because they had the better story, compared to Judaism and Islam.</p>
+ <h2>Cleansing</h2>
+  <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of chiefdoms and later kingdons. Empires were mostly nations or were cleansed by force.</p>
+  <p>For example, before Fernando and Isabel sent their minions to the Americas, they cleansed most of their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act as Catholics and speak Castillian (or else). In fact, the Inquisition made sure that the converted were truly convicing Catholics and spoke the language of the Church.</p>
+ <h2>Women</h2>
+  <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered.</p>
+  <p>At some point women were made second to men and were made subservient to them. Men were the kings of their castle and women were chattel.  It all went inside, bundled with a strong ideology and women became pillars of the institution. <span class='_paradigm'>Eve was the bad apple,</span> and she had better submit for salvation. And women covered their hair and wore burkas as a matter of duty.</p>
+  <p>As Christianity spread, non-Europeans got pushed to be subservient to Europeans all over the world. Of course, there were wealthy non-Europeans and poor non-Europeans. The wealthier was treated better and oftentimes put in charge.</p>
+  <p>We are still struggling with that attitude today, thousands of years later.</p>
+ <h2>Lording</h2>
+  <p>With men lording over half of the population, strongmen could lord over men. They could appeal to the stories and the making up of history. They certainly supported the making of kingdoms and empires. <span class='_quotespan'>We could be in paradise, but the woman gave the man the apple of knowledge and poisoned him.</span></p>
+  <p>The Jewish tradition, Christianity, and Islam have an eternal boss named God, at the top. You would dare to even think of equitable, you can only submit to God. In Christianity, the Pope is the only one that could understand what God wished. They won, I claim, because they had the better story, compared to Judaism and Islam.</p>
+
  <p>---</p>
- <p>In an alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in supernatural beings, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore; in fact, the believe that an omnipotent being is at the top works against our survival as a species.</p>
- <p>The alternative is not that different,</p>
+
+ <p>In an alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in supernatural beings, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore; in fact, that believe works against our survival as a species.</p>
+ <p>The alternative is not chaos, but it is different,</p>
+ <h2>Community</h2>
   <ul>
    <li>In my decentralized and fully transparent community I trust.</li>
    <li>What is going to keep my community growing is what&rsquo;s good for them which is what is good for me.</li>
+   <li>If that is not the case, I leave (and keep what ownership I&rsquo;ve earned to that point_.</li>
   </ul
- <h2>Community</h2>
+ <h2>Foundation</h2>
   <p>This is the <span class='_paradigm'>Foundation</span> of a community,</p>
    <ul>
     <li>A community must provide me with Meaning. This is a community that I want to Belong to.</li>
     <li>To work for <em>every</em> member of the community, it must be fully decentralized and transparent.</li>
     <li>Members are free to experiment. The only rules are those the community agrees to, and even those could be negotiated.</li>
    </ul>
-  <p>But the <span class='_paradigm'>Foundation</span> is not enough, it needs an Explicit Alignment,</p>
+ <h2>Alignment</h2>
+  <p>But the <span class='_paradigm'>Foundation</span> is not enough, it needs an <span class='_paradigm'>Explicit Alignment</span>,</p>
    <ul>
     <li>To hold us together a community must define the <em>what for</em>, the <span class='_paradigm'>Impact</span>, that it wants to have on the world.</li>
     <li>It must be explicit about the <em>why</em>, its <span class='_paradigm'>Purpose</span>, that made it come together as a community.</li>
     <li>The community can then define the <em>what, when, and how,</em> the <span class='_paradigm'>Mission</span>, of the work it needs to do.</li>
    </ul>
+   
   <p>It is <em>explicit</em> in that it lays it all out for every member of the community to know; there are no dark corner where need-to-know data is kept. Is it &ldquo;alignment&rdquo; in the sense that it gives a community of people something in common.</p>
    <ul>
     <li>If the <em>what for</em>, the Impact, is not your thing, then you don't join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed at it because it is very, very difficult.</li>
