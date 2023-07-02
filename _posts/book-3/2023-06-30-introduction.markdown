@@ -36,7 +36,7 @@ image:    "icon-welcome-and-introduction.svg"
     width="70%"
     alt="">
   </div>
- <p>If we happen to be live in an &ldquo;advanced&rdquo; country, we go to secondary school. By then the glasses are on all the time, we are simple fiddling with them and learning to make them more comfortable. No matter, we make sure that the <span class='_paradigm'>Fiat</span> lenses are never, ever off. BecauseWe want to stay ogg the edge.</p>
+ <p>If we happen to be live in an &ldquo;advanced&rdquo; country, we go to secondary school. By then the glasses are on all the time, we are simple fiddling with them and learning to make them more comfortable. No matter, we make sure that the <span class='_paradigm'>Fiat</span> lenses are never, ever off. BecauseWe want to stay off the edge.</p>
  <p>Finally, we go to work, with our <span class='_paradigm'>Fiat</span> glasses firmly on. We ask what the rules are and how to be a good worker.  We are hppy to be a resource and happier that we are getting a steady wage (until we are not). We learn to be kind and condescending to the ones whose glasses are skewed and not fitting correctly. We do our best for these people, but they just don&rsquo;t want to learn the rules.</p>
  
 <h1>The Fiat System Is&hellip;</h1>
