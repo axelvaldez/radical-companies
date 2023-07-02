@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Roboto:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
 
 
-html{
+html {
   --color-acc-1: #36B3C7;
   --color-acc-2: #ED8849;
   --color-text: #011616;
@@ -9,71 +9,76 @@ html{
   font-size: 20px;
 }
 @media (max-width: 700px){
-  html{
+  html {
     font-size: 16px;
   }
   [class^="col-"]{
     margin-bottom: 1rem;
   }
-  section, nav{
+  section, nav {
     padding-left: 2rem;
     padding-right: 2rem;
   }
 }
 @media (max-width: 650px){
-  html{
+  html {
     font-size: 14px;
   }
 
-  section, nav{
+  section, nav {
     padding-left: 0;
     padding-right: 0;
   }
 }
-a{
+a {
   color: var(--color-acc-2);
 }
-a:hover{
+a:hover {
   color: var(--color-acc-1);
 }
 h2 a, h3 a {
   color: var(--color-text);
   text-decoration: none;
 }
-h2 a:hover, h3 a:hover{
+h2 a:hover, h3 a:hover {
   color: var(--color-acc-2);
   text-decoration: none;
 }
-.btn{
+.btn {
   font-family: Courier New, monospace;
 }
-nav{
+/* TEST */
+p a.btn {
+  text-indent:0;
+}
+
+nav {
   font-family: Courier New, monospace;
 }
 nav {
   border-bottom:#dedede 1px solid;
 }
-nav a, nav a span{
+nav a, nav a span {
   text-decoration: none;
   color: var(--color-acc-1);
 }
-nav a:hover, nav a:hover span{
+nav a:hover, nav a:hover span {
   text-decoration: none;
   color: var(--color-acc-2);
 }
-nav a svg{
+nav a svg {
   fill: var(--color-acc-1);
   width: auto;
   height: 1.2rem;
   vertical-align: sub;
 }
-nav a:hover svg{
+nav a:hover svg {
   fill: var(--color-acc-2);
   width: auto;
   height: 1.2rem;
   vertical-align: sub;
 }
-body{
+body {
   font-family: "Lora", sans-serif;
 }
 h1, h2, h3, h4, h5, h6{
@@ -110,36 +115,36 @@ section, footer {
 .bg-orange {
   background-color: var(--color-acc-2);
 }
-.bg-black{
+.bg-black {
   background-color: var(--color-text);
 }
-.bg-hover-accent:hover{
+.bg-hover-accent:hover {
   background-color: var(--color-acc-1);
 }
-.text-accent{
+.text-accent {
   color: var(--color-acc-1);
 }
-.text-orange{
+.text-orange {
   color: var(--color-acc-2);
 }
-.text-black{
+.text-black {
   color: var(--color-text);
 }
-.card{
+.card {
   background:white;
   padding:3rem;
   box-shadow:0 4px 16px rgba(0,0,0,.15);
   border-radius:0;
   border:none;
 }
-.neg-y{
+.neg-y {
   margin-top:-5rem !important;
   margin-bottom:-5rem !important;
 }
-.trans-white-accent{
+.trans-white-accent {
   background:linear-gradient(var(--color-light) 0, var(--color-light) 50%, var(--color-acc-1) 50%, var(--color-acc-1) 100%);
 }
-.ripped{
+.ripped {
     padding-top:7rem;
     padding-bottom:7rem;
     background-image:url(img/rip-1.png), url(img/rip-2.png);
@@ -147,21 +152,21 @@ section, footer {
     background-size:100%;
     background-repeat:no-repeat;
 }
-.ripped-top-alt{
+.ripped-top-alt {
   padding-top:7rem;
   background-image:url(img/rip-2.png);
   background-position:center top;
   background-size:100%;
   background-repeat:no-repeat;
 }
-.ripped-top{
+.ripped-top {
   padding-top:7rem;
   background-image:url(img/rip-1.png);
   background-position:center top;
   background-size:100%;
   background-repeat:no-repeat;
 }
-.section-buy{
+.section-buy {
   background:
     url(img/rip-1.png),
     linear-gradient(var(--color-light) 0, var(--color-light) 50%, var(--color-acc-1) 50%, var(--color-acc-1) 100%);
@@ -169,7 +174,7 @@ section, footer {
   background-size: 100%;
   background-repeat: no-repeat;
 }
-footer{
+footer {
     padding-top:10rem;
     background-image:url(img/rip-4.png);
     background-position:center top;
@@ -178,7 +183,7 @@ footer{
     font-family:Courier New, monospace;
 }
 @media (min-width: 1024px){
-  .hero-img{
+  .hero-img {
     margin-left:-250px;
   }
 }
