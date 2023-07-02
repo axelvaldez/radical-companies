@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "icon-ptsd-and-trust.svg"
 ---
 
-<div style="display:none;">
+<div style='display:none;'>
  <p></p>
 </div>
 
@@ -17,16 +17,16 @@ image:    "icon-ptsd-and-trust.svg"
 
 <!-- Endnotes URL -->
 <h1></h1>
- <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
+ <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a>
 
 <!-- Endnote URL replace -->
 <h1></h1>
- <a href="#en(\d\d)"><[^>]*>\d&nbsp;<.*/a>
- <a href="#en$1"><sup id="bm$1">&hairsp;&nabla;&hairsp;</sup></a>
+ <a href=[\"\']#en(\d\d)[\"\']><[^>]*>\d&nbsp;<.*/a>
+ <a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a>
 
-<!-- Opposite of <em> -->
+<!-- Opposite of <me> -->
 <h1></h1>
- <span class="_em">xxx</span>
+ <span class='_em'>xxx</span>
 
 <!-- RADICAL | FIAT | RAD | rCOIN |  -->
 <h1></h1>
@@ -54,27 +54,27 @@ image:    "icon-ptsd-and-trust.svg"
  <span class='_paradigm'>Pain</span>
  <span class='_paradigm'>Survival</span>
  <!-- rMedia -->
- <span class="_paradigm">rMedia</span>
- <span class="_paradigm">rPlayGym</span>
+ <span class='_paradigm'>rMedia</span>
+ <span class='_paradigm'>rPlayGym</span>
  <!-- Misc -->
- <span class="_paradigm">Business</span>
- <span class="_paradigm">Firm</span>
+ <span class='_paradigm'>Business</span>
+ <span class='_paradigm'>Firm</span>
 
 <!-- QUOTESPAN -->
 <h1></h1>
- <span class="_quotespan">xxx</span>
+ <span class='_quotespan'>xxx</span>
 
 <!-- proto-image -->
-  <div class="_center">
+  <div class='_center'>
    <img
-    src="/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg"
-    width="70%"
-    alt="">
+    src='/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg'
+    width='70%'
+    alt=''>
   </div>
 
 <!-- proto-table -->
- <div class="_center">
-   <table class="_foundation">
+ <div class='_center'>
+   <table class='_foundation'>
     <tr>
      <th></th>
      <td></td>
@@ -83,8 +83,8 @@ image:    "icon-ptsd-and-trust.svg"
   </div> 
 
 <!-- FOUNDATION  Table -->
-  <div class="_center">
-   <table class="_h2table">
+  <div class='_center'>
+   <table class='_h2table'>
     <tr>
      <th>people</th>
      <td>Meaning & Belonging</td>
@@ -101,8 +101,8 @@ image:    "icon-ptsd-and-trust.svg"
   </div>
 
 <!-- Two-Column Table -->
-  <div class="_center">
-   <table class="_h2table">
+  <div class='_center'>
+   <table class='_h2table'>
     <tr>
      <th>What for?</th>
      <td>Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras.</td>
@@ -123,17 +123,17 @@ image:    "icon-ptsd-and-trust.svg"
   </div>
 
 <!-- EXPLICIT ALIGNMENT Table -->
- <div class="_center">
-  <table class="_explicitalignment">
-   <tr id="_background">
+ <div class='_center'>
+  <table class='_explicitalignment'>
+   <tr id='_background'>
     <td></td>
     <th>Impact</th>
    </tr>
    <tr>
-    <th stle="width:20%; ">What for?</th>
+    <th stle='width:20%; '>What for?</th>
     <td>&nbsp;</td>
    </tr>
-   <tr id="_background">
+   <tr id='_background'>
     <td></td>
     <th>Purpose</th>
    </tr>
@@ -141,7 +141,7 @@ image:    "icon-ptsd-and-trust.svg"
     <th>Why?</th>
     <td>&nbsp;</td>
    </tr>
-   <tr id="_background">
+   <tr id='_background'>
     <td></td>
     <th>Mission</th>
    </tr>
@@ -157,7 +157,7 @@ image:    "icon-ptsd-and-trust.svg"
  </div>
 
 <!-- Explicit Relationship  Table -->
-  <table class="_h2table">
+  <table class='_h2table'>
    <tr>
     <th>The world as experienced by you (Umwelt)</th>
     <td>
@@ -182,7 +182,7 @@ image:    "icon-ptsd-and-trust.svg"
      <ul>
       <li>What are you biggest fears?</li>
       <li>Do you speak up? How?</li>
-      <li>Do you need to be given permission to speak? <span class="_quotespan">You didn&rsquo;t ask me!</span></li>
+      <li>Do you need to be given permission to speak? <span class='_quotespan'>You didn&rsquo;t ask me!</span></li>
       <li>Anything else?</li>
      </ul>
     </td>
@@ -207,38 +207,38 @@ image:    "icon-ptsd-and-trust.svg"
 
 <!-- PREV ... NEXT -->
 <h1></h1>
-<div class="_next">
- <span style="float:left; " ><a href="https://radicalcompanies.com/">&lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/">    Next &gt;</a></span>
+<div class='_next'>
+ <span style='float:left; ' ><a href='https://radicalcompanies.com/'>&lt; Previous</a></span>
+ <span style='float:right; '><a href='https://radicalcompanies.com/'>    Next &gt;</a></span>
 </div>
 
-<h1 class="_section">ENDNOTES</h1>
+<h1 class='_section'>ENDNOTES</h1>
  <ul>
-  <li id="en01">
-   <p class="_list-item">
+  <li id='en01'>
+   <p class='_list-item'>
     AUTHOR.
     <em>TITLE</em>.
     PUBLICATION YEAR.
-    &lt;<a href="https://…" target="_blank">https://…</a>&gt;
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+    &lt;<a href='https://…' target='_blank'>https://…</a>&gt;
+    <a class='_uparrow' href='#bm01'><img src='/assets/img/arrow-up-icon.png'></a>
    </p>
   </li>
-  <li id="en02">
-   <p class="_list-item">
+  <li id='en02'>
+   <p class='_list-item'>
     AUTHOR.
     <em>TITLE</em>.
     PUBLICATION YEAR.
-    &lt;<a href="https://…" target="_blank">https://…</a>&gt;
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+    &lt;<a href='https://…' target='_blank'>https://…</a>&gt;
+    <a class='_uparrow' href='#bm02'><img src='/assets/img/arrow-up-icon.png'></a>
    </p>
   </li>
-  <li id="en03">
-   <p class="_list-item">
+  <li id='en03'>
+   <p class='_list-item'>
     AUTHOR.
     <em>TITLE</em>.
     PUBLICATION YEAR.
-    &lt;<a href="https://…" target="_blank">https://…</a>&gt;
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+    &lt;<a href='https://…' target='_blank'>https://…</a>&gt;
+    <a class='_uparrow' href='#bm03'><img src='/assets/img/arrow-up-icon.png'></a>
    </p>
   </li>
  </ul>

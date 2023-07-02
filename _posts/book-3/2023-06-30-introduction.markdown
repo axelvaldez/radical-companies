@@ -14,7 +14,7 @@ image:    "icon-welcome-and-introduction.svg"
  <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They may not even know what the heck <span class='_paradigm'>Fiat</span> means. But they are interested, they feel that the currect system is not working for them.</p>
  <p>You have to be open and ready to put aside everything you take for granted. You have to be open and ready to put aside everything has always been here and will always be part of us. You have to be open and ready to put aside much of you consider our &ldquo;nature.&rdquo; You have to be open and ready to question what is true about us.</p>
  <p>The alternative to <span class='_paradigm'>Fiat</span> is fundamentally different and will feel foreign and even crazy.</p>
- <div class="_citation">
+ <div class='_citation'>
   <p>Creativity takes courage.</p>
   <p id='_signature'>Henri Matisse</p>
  </div>
@@ -33,11 +33,11 @@ image:    "icon-welcome-and-introduction.svg"
  <p>As we grow up, our parents teach us simple rules and they teach us how to follow them. They do that for our own good, because if you don&rsquo;t fit in society, you are going to pushed to the edge. You are going to be an outcast relegated to the edge with other maladapted undesirables. When I was a kid, the &ldquo;edge&rdquo; included people with Down Syndrome, men who left their hair long and women who cut it too short (unless it was a church thing). Drug addicts were at the edge, too.</p>
  <p>Then, if we are lucky, we go to a pre-school. We have to unlearn some rules (<span class='_quotespan'>did you hit him back harder</span>) and learn new ones (<span class='_quotespan'>keep your hands to yourself</span>).</p>
  <p>Lucky that we are, we go to primary school, where we learn more rules. We also start to learn the sanctioned view of the world. <span class='_quotespan'>That will be on the test!</span> In primary school, too, is when we start to put on the <span class='_paradigm'>Fiat</span> glasses.</p>
-  <div class="_center">
+  <div class='_center'>
    <img
-    src="/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg"
-    width="70%"
-    alt="">
+    src='/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg'
+    width='70%'
+    alt=''>
   </div>
  <p>If we happen to be live in an &ldquo;advanced&rdquo; country, we go to secondary school. By then the glasses are on all the time, we are simple fiddling with them and learning to make them more comfortable. No matter, we make sure that the <span class='_paradigm'>Fiat</span> lenses are never, ever off. We want to stay far away from the edge.</p>
  <p>Finally, we go to work, with our <span class='_paradigm'>Fiat</span> glasses firmly on. We ask what the rules are and how to be a good worker.  We are hppy to be a resource and happier that we are getting a steady wage (until we are not). We learn to be kind and condescending to the ones whose glasses are skewed and not fitting correctly. <span class='_quotespan'>We do our best for these people, but they just don&rsquo;t want to learn the rules.</span></p>
@@ -74,35 +74,45 @@ image:    "icon-welcome-and-introduction.svg"
  <p>It didn&rsquo;t start this way, but it evolved. First came prisoners of minor wars, that were made to carry whatever the winners didn&rsquo;t want to carry. At the end they either joined the winners (after all, they were related) or they went back to their village. Then came slavery, they kep you as a worthless worker because they have the force. Finally came work in exchange for wage. This is the general direction of the evolution, from forced labor by sheer force to forced labor by coin. Different form of force, but force throughout.</p>
  <p>This got absorbed by the Fiat system to the point that &ldquo;being a good worker&rdquo; is a sign of pride today. There is nothing strange about it, it is normal. The alternative is chaos, to be avoided at all costs. Anybody talking alternatives (you and I) must be crazy.</p>
  <p>--</p>
- <p>The alternative is not chaos, but it is different. For one there&rsquo;s no force. There&rsquo;s persuasion, there is convicing, there is guilt. But there is no force to make you do something that you don&rsquo;t want to do.</p>
+ <p>The alternative is not chaos, but it is different.</p>
+ <p>For one there&rsquo;s no force. There&rsquo;s persuasion, there is convicing, there is guilt. But there is no force to make you do something that you don&rsquo;t want to do.</p>
  <p>--</p>
  <p>Religion is part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
 
 <h1>Countries and Other Divisions</h1>
- <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of chiefdoms and later kingdons. Countries were mostly nations and when they weren&rsquo;t they were made so by force.</p>
+ <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of chiefdoms and later kingdons. Empires were mostly nations or were made so by force.</p>
  <p>For example, before Fernando and Isabel sent their minions to the Americas, they cleansed most of their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act as Catholics and speak Castillian (or else). So, by the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered.</p>
- <p>At some point women were made second to men and were made subservient to them. Men were the kings of their castle and women became a pillar of that institution. It all went inside bundled by a strong ideology. It worked marvelously for men. As Christianity spread, women and non-Europeans got pushed to be subservient to European men all over the world.</p>
- <p>Eve was the bad apple and she had better work for salvation. Women covered their hair and wore burkas as a matter of duty. We are still struggling with that attitude today, thousands of years later.</p>
- <p>With men lording over the fully supportive half of the population, strongmen could lord over men. They could appeal to the ideologies/religions stories and the making up of convenient history. They certainly supported the making of kingdoms and empires. <span class='_quotespan'>We could be in paradise, but the woman gave the man the apple of knowledge and poisoned him.</span> The Jewish tradition, Christianity, and Islam have an eternal boss named God, at the top. You would dare to even think of equitable, you can only submit to God. In Christianity, the Pope is the only one that could understand what God wished. They won, I claim, because they had the better story, compared to Judaism and Islam.</p>
+ <p>At some point women were made second to men and were made subservient to them. Men were the kings of their castle and women were chattel.  It all went inside bundled by a strong ideology and women became pillars of that institution. As Christianity spread, women and non-Europeans got pushed to be subservient to European men all over the world.</p>
+ <p>Eve was the bad apple and she had better work for salvation.</p>
+ <p>Women covered their hair and wore burkas as a matter of duty. We are still struggling with that attitude today, thousands of years later.</p>
+ <p>With men lording over half of the population, strongmen could lord over men. They could appeal to the stories and the making up of history. They certainly supported the making of kingdoms and empires. <span class='_quotespan'>We could be in paradise, but the woman gave the man the apple of knowledge and poisoned him.</span></p>
+ <p>The Jewish tradition, Christianity, and Islam have an eternal boss named God, at the top. You would dare to even think of equitable, you can only submit to God. In Christianity, the Pope is the only one that could understand what God wished. They won, I claim, because they had the better story, compared to Judaism and Islam.</p>
  <p>---</p>
- <p>In an alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in a god, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore for the rest of it; in fact, an omnipotent being at the to works against our survival as a species.</p>
- <p>In my decentralized and fully transparent community I trust. What is going to keep my community growing is what&rsquo;s good for them which is what is good for me.</p>
- <ul>
-  <li>To become a community, it must provide me with Meaning; this is a community that I want to Belong to.</li>
-  <li>To work for every member of the community, it must be fully decentralized and transparent.</li>
- </ul>
- <p>This is the community&rsquo;s Foundation. But that&rsquo;s not enough,</p>
- <ul>
-  <li>To hold us together a community must define the <em>what for</em>, the Impact, that it wants to have on the world.</li>
-  <li>It must be explicit about the <em>why</em>, its Purpose, that made it come together as a community.</li>
-  <li>The community can then define the <em>what, when, and how,</em> the Mission, of the work it needs to do.</li>
- </ul>
- <p>This is its Explicit Alignment. It is explicit in that it lays it all out for every member of the community to know; there are no dark corner where need-to-know data is kept. Is it Alignment in the sense that it gives a community of people something in common.</p>
+ <p>In an alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in supernatural beings, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore; in fact, the believe that an omnipotent being is at the top works against our survival as a species.</p>
+ <p>The alternative is not that different,</p>
   <ul>
-   <li>If the <em>what for</em>, the Impact, is not your thing, then you don't join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed at it because it is very, very difficult.</li>
+   <li>In my decentralized and fully transparent community I trust.</li>
+   <li>What is going to keep my community growing is what&rsquo;s good for them which is what is good for me.</li>
+  </ul
+ <h2>Community</h2>
+  <p>This is the <span class='_paradigm'>Foundation</span> of a community,</p>
+   <ul>
+    <li>A community must provide me with Meaning. This is a community that I want to Belong to.</li>
+    <li>To work for <em>every</em> member of the community, it must be fully decentralized and transparent.</li>
+    <li>Members are free to experiment. The only rules are those the community agrees to, and even those could be negotiated.</li>
+   </ul>
+  <p>But the <span class='_paradigm'>Foundation</span> is not enough, it needs an Explicit Alignment,</p>
+   <ul>
+    <li>To hold us together a community must define the <em>what for</em>, the <span class='_paradigm'>Impact</span>, that it wants to have on the world.</li>
+    <li>It must be explicit about the <em>why</em>, its <span class='_paradigm'>Purpose</span>, that made it come together as a community.</li>
+    <li>The community can then define the <em>what, when, and how,</em> the <span class='_paradigm'>Mission</span>, of the work it needs to do.</li>
+   </ul>
+  <p>It is <em>explicit</em> in that it lays it all out for every member of the community to know; there are no dark corner where need-to-know data is kept. Is it &ldquo;alignment&rdquo; in the sense that it gives a community of people something in common.</p>
+   <ul>
+    <li>If the <em>what for</em>, the Impact, is not your thing, then you don't join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed at it because it is very, very difficult.</li>
    <li>If the <em>why</em>, the Purpose, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn&rsquo;t work, you don&rsquo;t join the community.</li>
-   <li>The <em>what, when, and how</em>, the Mission, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create you own with the support of the community.</li>
-  </ul>
+    <li>The <em>what, when, and how</em>, the Mission, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create you own with the support of the community.</li>
+   </ul>
 
 <h1>Capital and Contributions</h1>
  <p></p>
