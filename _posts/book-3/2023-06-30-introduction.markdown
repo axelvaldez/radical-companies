@@ -123,15 +123,28 @@ image:    "icon-welcome-and-introduction.svg"
      width='70%'
      alt=''>
     </div>
-   <p>It is <em>explicit</em> in that it lays it all out for every member of the community to know; there are no dark corners where need-to-know data is kept away from view. Is it &ldquo;alignment&rdquo; in the sense that it gives a community of people something in common.</p>
+   <p>It is <em>explicit</em> in that it lays it all out for every member of the community to know; there are no dark corners where need-to-know data is kept away from view.</p>
+   <p>It is &ldquo;alignment&rdquo; in the sense that it that it ties people together into a community with something in common.</p>
+   <p>To be clear,</p>
    <ul>
     <li>If the <em>what for</em>, the <span class='_paradigm'>Impact</span>, is not your thing, then you don't join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed at it because it is very, very difficult.</li>
-   <li>If the <em>why</em>, the <span class='_paradigm'>Purpose</span>, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn&rsquo;t work, you don&rsquo;t join the community.</li>
+    <li>If the <em>why</em>, the <span class='_paradigm'>Purpose</span>, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn&rsquo;t work, you don&rsquo;t join the community.</li>
     <li>The <em>what, when, and how</em>, the <span class='_paradigm'>Mission</span>, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create you own with the support of the community.</li>
    </ul>
+ <h2>No Divisions</h2>
+  <p>All members are co-onwers of the community. If their goal is to build products or services it would be called a company.</p>
+  <p>I make a distinction between a business and a company,</p>
+   <ul>
+    <li>Businesses is what we are used to. Their one and only goal is to make wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You work at a business for a wage agreed upon by the owner.</li>
+    <li>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-onwers. They own everything about the company, including its revenue. The level of co-ownership is not equal, as in co-ops, but equitable to their contributions. BTW, the word company comes from Laten <em>co</em>, meaning <em>together</em>, and <em>pan</em>, meaning <em>bread</em>.</li>
+    <li>The level of co-ownership is determined by contributions, not capital.</li>
+    <li>These contributions are recognized by all other co-owners.</li>
+   </ul>
+  <p>And, yes, there is an app for that.</p> 
 
 <h1>Capital and Contributions</h1>
- <p></p>
+ <p>We are addicted to capital. The dafault is that we need capital to start a business. Said capital investment gives the investors power over the company.</p>
+ <p>Power is force. In the US investors don&rsquo;t have any power over company operations, but they can replace the CEO. And they can keep replacig him until they find one that runs the opporations according to their wishes.</p>
 
 <h1>Notes</h1>
  <ul>
