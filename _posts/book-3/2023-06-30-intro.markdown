@@ -75,7 +75,7 @@ image:    "icon-welcome-and-introduction.svg"
  <p>With men lording over the fully supportive half of the population, strongmen could lord over men. They could appeal to the ideologies/religions stories and the making up of convenient history. They certainly supported the making of kingdoms and empires. <span class='_quotespan'>We could be in paradise, but the woman gave the man the apple of knowledge and poisoned him.</span> The Jewish tradition, Christianity, and Islam have an eternal boss named God, at the top. You would dare to even think of equitable, you can only submit to God. In Christianity, the Pope is the only one that could understand what God wished. They won, I claim, because they had the better story, compared to Judaism and Islam.</p>
  <p>---</p>
  <p>In an alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in a god, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore for the rest of it; in fact, an omnipotet being at the to works against our survival as a species.</p>
- <p>In my decentralized and fully transparent community I trust. What is going to keep my community growing is what&rsquo;s good for them which is what is good for me. And if it doesn&rsquo;t work for me, I'll find another community.</p>
+ <p>In my decentralized and fully transparent community I trust. What is going to keep my community growing is what&rsquo;s good for them which is what is good for me.</p>
  <ul>
   <li>To become a community, it must provide me with Meaning; this is a community that I want to Belong to.</li>
   <li>To work for every member of the community, it must be fully decentralized and transparent.</li>
@@ -86,7 +86,7 @@ image:    "icon-welcome-and-introduction.svg"
   <li>It must be explicit about the why, its Purpose, that made it come togeter as a community.</li>
   <li>The community can then define the what, when, and how, the Mission, of the work it needs to do.</li>
  </ul>
- <p>This is its Explicit Aiignment.</p>
+ <p>This is its Explicit Alignment.</p>
 
 <h1>Capital and Contributions</h1>
  <p></p>
