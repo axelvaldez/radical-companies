@@ -80,7 +80,7 @@ image:    "icon-welcome-and-introduction.svg"
  <p>Religion is part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
 
 <h1>Countries and Other Divisions</h1>
- <h2>Cleansing</h2>
+ <h2>Fiat</h2>
   <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of chiefdoms and later kingdons. Empires were mostly nations or were cleansed by force.</p>
   <p>For example, before Fernando and Isabel sent their minions to the Americas, they cleansed most of their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act as Catholics and speak Castillian (or else). In fact, the Inquisition made sure that the converted were truly convicing Catholics and spoke the language of the Church.</p>
  <h2>Women</h2>
@@ -91,11 +91,10 @@ image:    "icon-welcome-and-introduction.svg"
  <h2>Lording</h2>
   <p>With men lording over half of the population, strongmen could lord over men. They could appeal to the stories and the making up of history. They certainly supported the making of kingdoms and empires. <span class='_quotespan'>We could be in paradise, but the woman gave the man the apple of knowledge and poisoned him.</span></p>
   <p>The Jewish tradition, Christianity, and Islam have an eternal boss named God, at the top. You would dare to even think of equitable, you can only submit to God. In Christianity, the Pope is the only one that could understand what God wished. They won, I claim, because they had the better story, compared to Judaism and Islam.</p>
-
  <p>---</p>
-
- <p>In an alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in supernatural beings, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore; in fact, that believe works against our survival as a species.</p>
- <p>The alternative is not chaos, but it is different,</p>
+ <h2>Non-Fiat</h2>
+  <p>In an alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in supernatural beings, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore; in fact, that believe works against our survival as a species.</p>
+  <p>The alternative is not chaos, but it is different,</p>
  <h2>Community</h2>
   <ul>
    <li>In my decentralized and fully transparent community I trust.</li>
