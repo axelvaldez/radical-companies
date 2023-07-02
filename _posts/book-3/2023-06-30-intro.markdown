@@ -96,7 +96,6 @@ image:    "icon-welcome-and-introduction.svg"
   <li>Military and Force</li>
   <li>Pain and Wellbeing</li>
  </ul>
-
  <ul>
   <li>banners</li>
   <li>competition</li>
