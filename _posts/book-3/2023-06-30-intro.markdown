@@ -82,11 +82,16 @@ image:    "icon-welcome-and-introduction.svg"
  </ul>
  <p>This is the community&rsquo;s Foundation. But that&rsquo;s not enough,</p>
  <ul>
-  <li>To hold us together a community must define the what for, the Impact, that it wants to have on the world.</li>
-  <li>It must be explicit about the why, its Purpose, that made it come togeter as a community.</li>
-  <li>The community can then define the what, when, and how, the Mission, of the work it needs to do.</li>
+  <li>To hold us together a community must define the <em>what for</em>, the Impact, that it wants to have on the world.</li>
+  <li>It must be explicit about the <em>why</em>, its Purpose, that made it come togeter as a community.</li>
+  <li>The community can then define the <em>what, when, and how,</em> the Mission, of the work it needs to do.</li>
  </ul>
- <p>This is its Explicit Alignment.</p>
+ <p>This is its Explicit Alignment. It is explicit in that it lays it all out for every member of the community to know; there are no dark corner where need-to-know data is kept. Is it Alignment in the sense that it gives a community of people something in common.</p>
+  <ul>
+   <li>If the <em>what for</em>, the Impact, is not your thing, then you don't join the community. In theory it could be changed, but in practice it would make it a different community. It would be like make a hardware company into a software company. Sun Microsystems failed at it because it is very, very difficult.</li>
+   <li>If the <em>why</em>, the Purpose, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but eaiser to change. Else, you don&rsquo;t join the community.</li>
+   <li>The <em>what, when, and how</em>, the Mission, changes all the time. People may be pursuing different Missions in parallel and you may create you own if the community supports it.</li>
+  </ul>
 
 <h1>Capital and Contributions</h1>
  <p></p>
