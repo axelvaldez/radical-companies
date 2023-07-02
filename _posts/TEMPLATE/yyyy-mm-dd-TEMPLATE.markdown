@@ -82,24 +82,6 @@ image:    "icon-ptsd-and-trust.svg"
    </table>
   </div> 
 
-<!-- FOUNDATION  Table -->
-  <div class='_center'>
-   <table class='_h2table'>
-    <tr>
-     <th>people</th>
-     <td>Meaning & Belonging</td>
-    </tr>
-    <tr>
-     <th>commitments</th>
-     <td>Decentralization & Transparency</td>
-    </tr>
-    <tr>
-     <th>practices</th>
-     <td>Experimentation</td>
-    </tr>
-   </table>
-  </div>
-
 <!-- Two-Column Table -->
   <div class='_center'>
    <table class='_h2table'>
@@ -118,6 +100,24 @@ image:    "icon-ptsd-and-trust.svg"
       How?
      </th>
      <td>Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras. Era de noche y llovía y el sol rajaba las piedras.</td>
+    </tr>
+   </table>
+  </div>
+
+<!-- FOUNDATION  Table -->
+  <div class='_center'>
+   <table class='_h2table'>
+    <tr>
+     <th>people</th>
+     <td>Meaning & Belonging</td>
+    </tr>
+    <tr>
+     <th>commitments</th>
+     <td>Decentralization & Transparency</td>
+    </tr>
+    <tr>
+     <th>practices</th>
+     <td>Experimentation</td>
     </tr>
    </table>
   </div>
@@ -155,6 +155,14 @@ image:    "icon-ptsd-and-trust.svg"
    </tr>
   </table>
  </div>
+
+<!-- EXPLICIT ALIGNMENT img -->
+  <div class='_center'>
+   <img
+    src='/assets/img/pic-explicit-alignment-en.svg'
+    width='70%'
+    alt=''>
+   </div>
 
 <!-- Explicit Relationship  Table -->
   <table class='_h2table'>

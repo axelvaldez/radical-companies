@@ -116,8 +116,13 @@ image:    "icon-welcome-and-introduction.svg"
     <li>It must be explicit about the <em>why</em>, its <span class='_paradigm'>Purpose</span>, that made it come together as a community.</li>
     <li>The community can then define the <em>what, when, and how,</em> the <span class='_paradigm'>Mission</span>, of the work it needs to do.</li>
    </ul>
-   
-  <p>It is <em>explicit</em> in that it lays it all out for every member of the community to know; there are no dark corner where need-to-know data is kept. Is it &ldquo;alignment&rdquo; in the sense that it gives a community of people something in common.</p>
+   <div class='_center'>
+    <img
+     src='/assets/img/pic-explicit-alignment-en.svg'
+     width='70%'
+     alt=''>
+    </div>
+   <p>It is <em>explicit</em> in that it lays it all out for every member of the community to know; there are no dark corner where need-to-know data is kept. Is it &ldquo;alignment&rdquo; in the sense that it gives a community of people something in common.</p>
    <ul>
     <li>If the <em>what for</em>, the Impact, is not your thing, then you don't join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed at it because it is very, very difficult.</li>
    <li>If the <em>why</em>, the Purpose, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn&rsquo;t work, you don&rsquo;t join the community.</li>
