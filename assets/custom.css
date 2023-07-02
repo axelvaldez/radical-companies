@@ -47,11 +47,9 @@ h2 a:hover, h3 a:hover {
 .btn {
   font-family: Courier New, monospace;
 }
-/* TEST */
 p a.btn {
   text-indent:0;
 }
-
 nav {
   font-family: Courier New, monospace;
 }
