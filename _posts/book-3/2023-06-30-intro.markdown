@@ -76,6 +76,17 @@ image:    "icon-welcome-and-introduction.svg"
  <p>---</p>
  <p>In an alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in God, so be it, but the story of the omnipotent boss at the top works against our survival as a species.</p>
  <p>In my community I trust. In my decentralized and fully transparent community I trust. What is going to keep my community growing is what&rsquo;s good for them which is what is good for me. And if it doesn&rsquo;t work for me, I'll find another community.</p>
+ <ul>
+  <li>To become a community, it must provide me with Meaning; this is a community that I want to Belong to.</li>
+  <li>To work for every member of the community, it must be fully decentralized and transparent.</li>
+ </ul>
+ <p>This is the community&rsquo;s Foundation. But that&rsquo;s not enough,</p>
+ <ul>
+  <li>To hold us together a community must define the what for, the Impact, that it wants to have on the world.</li>
+  <li>It must be explicit about the why, its Purpose, that made it come togeter as a community.</li>
+  <li>The community can then define the what, when, and how, the Mission, of the work it needs to do.</li>
+ </ul>
+ <p>This is its Explicit Aiignment.</p>
 
 <h1>Capital and Contributions</h1>
  <p></p>
@@ -83,9 +94,9 @@ image:    "icon-welcome-and-introduction.svg"
 <h1>Notes</h1>
  <ul>
   <li>Military and Force</li>
-  <li>Rules and Laws</li>
   <li>Pain and Wellbeing</li>
  </ul>
+
  <ul>
   <li>banners</li>
   <li>competition</li>
