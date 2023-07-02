@@ -145,6 +145,8 @@ image:    "icon-welcome-and-introduction.svg"
 <h1>Capital and Contributions</h1>
  <p>We are addicted to capital. The dafault is that we need capital to start a business. Said capital investment gives the investors power over the company.</p>
  <p>Power is force. In the US investors don&rsquo;t have any power over company operations, but they can replace the CEO. And they can keep replacig him until they find one that runs the opporations according to their wishes.</p>
+ <p>This is probably the most shocking thing about non-<span class='_paradigm'>Fiat</span> alternatives: companies are not there to make founders and the investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, not goes into the pockets of the co-owners which is the say into the pockets of everybody who contributes to creating the wealth.</p>
+ <p>If you are looking for yet another way to become wealthy, this ain&rsquo;t it. Companies are way to make every co-onwer, everybody, a little bit wealthier and not be tied down to a wage.</p>
 
 <h1>Notes</h1>
  <ul>
