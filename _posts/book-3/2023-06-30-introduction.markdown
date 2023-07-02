@@ -89,7 +89,7 @@ image:    "icon-welcome-and-introduction.svg"
   <p>As Christianity spread, non-Europeans got pushed to be subservient to Europeans all over the world. Of course, there were wealthy non-Europeans and poor non-Europeans. The wealthier was treated better and oftentimes put in charge.</p>
   <p>We are still struggling with that attitude today, thousands of years later.</p>
  <h2>Lording</h2>
-  <p>With men lording over half of the population, strongmen could lord over men. They could appeal to the stories and the making up of history. They certainly supported the making of kingdoms and empires. <span class='_quotespan'>We could be in paradise, but the woman gave the man the apple of knowledge and poisoned him.</span></p>
+  <p>With men lording over half of the population, it was easier for a few to lord over men. They could appeal to the stories and the making up of history. They certainly supported the making of kingdoms and empires. <span class='_quotespan'>We could be in paradise, but the woman gave the man the apple of knowledge and poisoned him.</span></p>
   <p>The Jewish tradition, Christianity, and Islam have an eternal boss named God, at the top. You would dare to even think of equitable, you can only submit to God. In Christianity, the Pope is the only one that could understand what God wished. They won, I claim, because they had the better story, compared to Judaism and Islam.</p>
  <p>---</p>
  <h2>Non-Fiat</h2>
