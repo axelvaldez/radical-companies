@@ -100,7 +100,7 @@ image:    "icon-welcome-and-introduction.svg"
   <ul>
    <li>In my decentralized and fully transparent community I trust.</li>
    <li>What is going to keep my community growing is what&rsquo;s good for them which is what is good for me.</li>
-   <li>My community listens to me and helps to present my ideas nore intelligible.</li>
+   <li>People in my community listens to me and help make my ideas easier to understand.</li>
    <li>If that is not the case, I leave (and keep what ownership I&rsquo;ve earned to that point).</li>
   </ul>
  <h2>Foundation</h2>
