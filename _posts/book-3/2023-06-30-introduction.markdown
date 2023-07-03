@@ -178,9 +178,9 @@ image:    "icon-welcome-and-introduction.svg"
      <tr>
       <td>
        <h2 style='font-size:smaller; padding-top:1rem; padding-bottom:0; '>Banner:</h2>
-        <p style='text-indent:1em; '>      Ammount: $1M</p>
-        <p style='text-indent:1em; '>         Time: 3 years</p>
-        <p style='text-indent:1em; '>       Reason: To buy and furnish a building.</p>
+        <p style='text-indent:1em; '>Ammount: $1M</p>
+        <p style='text-indent:1em; '>Time: 3 years</p>
+        <p style='text-indent:1em; '>Reason: To buy and furnish a building.</p>
         <p style='text-indent:1em; '>Beneficiaries: Building Fund.</p>
        <h2 style='font-size:smaller; padding-top:0; padding-bottom:0;  '>Contributions:</h2>
         <p style='text-indent:1em; '>All, $100.00</p>
@@ -192,9 +192,9 @@ image:    "icon-welcome-and-introduction.svg"
      <tr>
       <td>
        <h2 style='font-size:smaller; padding-top:1rem; padding-bottom:0; '>Banner:</h2>
-        <p style='text-indent:1em; '>      Ammount: $1M</p>
-        <p style='text-indent:1em; '>         Time: 3 years</p>
-        <p style='text-indent:1em; '>       Reason: To buy and furnish a building.</p>
+        <p style='text-indent:1em; '>Ammount: $1M</p>
+        <p style='text-indent:1em; '>Time: 3 years</p>
+        <p style='text-indent:1em; '>Reason: To buy and furnish a building.</p>
         <p style='text-indent:1em; '>Beneficiaries: Building Fund.</p>
        <h2 style='font-size:smaller; padding-top:0; padding-bottom:0;  '>Contributions:</h2>
         <p style='text-indent:1em; '>Mary, $100.00</p>
