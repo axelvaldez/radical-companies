@@ -145,7 +145,7 @@ image:    "icon-welcome-and-introduction.svg"
 <h1>Capital and Contributions</h1>
  <h2>Fiat</h2>
   <p>The default is that the only way to contribute to, a new business, is to give it capital. Said capital investment gives the investors power over the company. But, power is force. In the US investors don&rsquo;t have any power over company operations, but they can replace the CEO. And they can keep replacig him until they find one that runs the opporations according to their wishes. Those are some of the side-effect of seeing capital as the only way to contribute.</p>
-  <p>You have no owership in the business. You get your salary and that is that. Some people, like Sales, gets paid commissions for a limited time.</p>
+  <p>You have no owership in the business. You get your salary or commissions and that is that.</p>
 
  <h2>Non-Fiat</h2>
   <p>This is probably the most shocking thing about non-<span class='_paradigm'>Fiat</span> alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-ownersk, into the pockets of everybody who contributes to creating the wealth. If you were looking for yet another way to become wealthy, this ain&rsquo;t it. Companies are way to increase the wellbeing of every co-owner and the society around then.</p>
