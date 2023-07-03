@@ -170,9 +170,19 @@ image:    "icon-welcome-and-introduction.svg"
  <h2>But&hellip;</h2>
   <p>What about investing in the future? Owner don&rsquo;t put all the profits in the pocket, they invest it!</p>
   <p>Indeed they do and co-owners can do the same. I make a distiction between profits and dividends, and the latter is what is left after paying all expenses, including any investments. For example, if the co-owners want to buy a $5M buildingd, they would put up a <span class='_quotespan'>Banner</span> to accumulate that amount. They could decide to put 10% into the <span class='_quotespan'>Banner</span> which would build up to $5M in three years. In that case, the 10% would not be included in the dividends. Investing in the future is covered.</p>
-  <p>Alternatively, co-owners may not agree to 10% or any amount. In that case, the <span class='_quotespan'>Banner</span> would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
+  <p>Alternatively, all co-owners may not agree to 10% or any particular amount. In that case, the <span class='_quotespan'>Banner</span> would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
  <h2>Banners?</h2>
-  <p><span class='_quotespan'>Banner</span>s represent non-people things like projects and investments. The <em><span class='_quotespan'>RAD</span>s! mobile app</em> supports <span class='_quotespan'>Banner</span>s. You can create a <span class='_quotespan'>Banner</span>, change your contribution to it, see who is contrubuting, and the beneficiary.
+  <p><span class='_quotespan'>Banner</span>s represent non-people things like projects and investments. The <em><span class='_quotespan'>RAD</span>s! mobile app</em> supports <span class='_quotespan'>Banner</span>s. You can create a <span class='_quotespan'>Banner</span>, change your contribution to it, see who is contributing, and the beneficiary. The dashboard may show something like this,
+   <div style='padding-left:1rem;'>
+    <h2>Banner<>
+     <p>$1M in 3 years, to buy and furnish a building.</p>
+   </div>
+  <p>A contribution may be something like this,</p>
+   <div style='padding-left:1rem;'>
+    Mary, $100.00
+    Anita, 0.25% de $1M
+    Salim, 5.00% of his <span class='_quotespan'>RAD</span>s
+   </div>
 
 <h1>Notes</h1>
  <ul>
