@@ -157,11 +157,11 @@ image:    "icon-ptsd-and-trust.svg"
  </div>
 
 <!-- EXPLICIT ALIGNMENT img -->
-  <div class='_center'>
-   <img
-    src='/assets/img/pic-explicit-alignment-en.svg'
-    width='70%'
-    alt=''>
+   <div class='_center'>
+    <img
+     src='/assets/img/pic-explicit-alignment-en.svg'
+     width='70%'
+     alt=''>
    </div>
 
 <!-- Explicit Relationship  Table -->

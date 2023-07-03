@@ -144,12 +144,29 @@ image:    "icon-welcome-and-introduction.svg"
 
 <h1>Capital and Contributions</h1>
  <h2>Fiat</h2>
-  <p>We are addicted to capital. The dafault is that we need capital to start a business. Said capital investment gives the investors power over the company.</p>
-  <p>Power is force. In the US investors don&rsquo;t have any power over company operations, but they can replace the CEO. And they can keep replacig him until they find one that runs the opporations according to their wishes.</p>
+  <p>The default is that the only way to contribute to, a new business, is to give it capital. Said capital investment gives the investors power over the company. But, power is force. In the US investors don&rsquo;t have any power over company operations, but they can replace the CEO. And they can keep replacig him until they find one that runs the opporations according to their wishes. Those are some of the side-effect of seeing capital as the only way to contribute.</p>
+  <p>You have no owership in the business. You get your salary and that is that. Some people, like Sales, gets paid commissions for a limited time.</p>
 
  <h2>Non-Fiat</h2>
-  <p>This is probably the most shocking thing about non-<span class='_paradigm'>Fiat</span> alternatives: companies are not there to make founders and the investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, not goes into the pockets of the co-owners which is the say into the pockets of everybody who contributes to creating the wealth.</p>
-  <p>If you were looking for yet another way to become wealthy, this ain&rsquo;t it. Companies are way to make every co-owner, everybody, not be tied down to a wage decided by a boss.</p>
+  <p>This is probably the most shocking thing about non-<span class='_paradigm'>Fiat</span> alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-ownersk, into the pockets of everybody who contributes to creating the wealth. If you were looking for yet another way to become wealthy, this ain&rsquo;t it. Companies are way to make every co-owner, everybody, not be tied down to a wage decided by a boss.</p>
+  <p>Non-capital can be contributions, too, usually the most valualble contribution. As I said earlier, a company is a group of co-owners that come together to improve the wellbeing of their members and the society around them. They are the only ones that can recognize a contribution because because they are workig shoulder to shoulder with you and know what&rsquo;s valuable to their common effort.</p>
+  <p>Your level of co-ownership is determined by these contributions given to you by your co-owner peers. You recognized contributions determines your level of co-ownership <em>that month.</em> Next most it will most likely be differet.</p>
+ <h2>The Calculations</h2>
+  <p>The number of contributions that each co-owner recognizes within a month for other co-owners becomes the denominator. The number of RADs is the numerator. In other words, you get a <span class='_paradigm'>RAD</span> every day to give, not to keep. In a 30-day month, you get 30 <span class='_paradigm'>RAD</span>s and those 30 <span class='_paradigm'>RAD</span>s are shared among the co-owner for whom you have reconized one or more contribution.</p>
+   <div class='_center'>
+    <img
+     src='/assets/img/pic-recognitions-to-rads-equation.svg'
+     width='70%'
+     alt=''>
+   </div>
+  <p>There is an mobile app that does the calculation.</p>
+  <p>As you give those <span class='_paradigm'>RAD</span>s away, you are given other people ownership in the company. No boss is necessary to give attaboys to his favorites.</p>
+ <h2>But&hellip;</h2>
+  <p>At this point you may be coming up with objections. <span class='_quotespan'>Yeah, but it can be easily gamed: I&rsquo;ll give you all my <span class='_paradigm'>RAD</span>s and you give me all of yours. And yes, it could, but only if the other co-owners do not say or do anything about. Because of &ldquo;Transparecy,&rdquo; they can see all the transactions and it is up to the co-owners to say or do something. They can have a conversation with people who are trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of the contributions because they are doing something that works agaist a very fundamental action that would make co-ownership a joke.</span></p>
+  <p>Another objection might be that people won&rsquo;t want to take the time to recognize contributions. They may do it at first, but then they slowly stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won&rsquo;t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then they will go back to doing it. If not, the company will fail, as well it should. On the way to a non-<span class='_paradigm'>Fiat</span> alternative things won&rsquo;t go perfect or smoothly. There will be plenty of bumps along the way. The &rdquo;fix&ldquo; is not to elect a boss to tell us what to do, the fix is to fix your behaviour&mdash;you are all co-owners.</p>
+ <h2>Capital</h2>
+  <p>Capital does have a place in a non-<span class='_paradigm'>Fiat</span> company, but not as a regular <span class='_paradigm'>Fiat</span> investment: you give me money, I give a fixed percent of the business. A non-<span class='_paradigm'>Fiat Investment</span> is nore like a loan in that you get your principal back. It is an investment in that the return-on-investment is negotiated, but how much and how it&rsquo;s paid.</p>
+  <p>Usually that capital goes to pay for things needed for the company and to fund a Predictable Recurrig Income (PRI) fund. The PRI is used to pay co-owners a predictable, recurring amount of money when there is little or no revenue. The PRI is normally paid back by the revenue each co-owner gets given their <span class='_paradigm'>RAD</span>s. Until it is paid in full by revenue, what a co-owner takes of out of the PRI fund is a personal debt.</p>
 
 <h1>Notes</h1>
  <ul>
