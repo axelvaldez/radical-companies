@@ -177,7 +177,7 @@ image:    "icon-welcome-and-introduction.svg"
     <h2>Banner:</h2>
      <p>$1M in 3 years, to buy and furnish a building.</p>
     <h2>Contributions:</h2>
-     <p>Mary, $100.00</p>
+     <div>Mary, $100.00</div>
      <p>Anita, 0.25% de $1M</p>
      <p>Salim, 5.00% of his <span class='_quotespan'>RAD</span>s</p>
    </div>
