@@ -174,15 +174,29 @@ image:    "icon-welcome-and-introduction.svg"
  <h2>Banners?</h2>
   <p><span class='_paradigm'>Banner</span>s represent non-people things like projects and investments. With the <em><span class='_paradigm'>RAD</span>s! mobile app</em> you can create a <span class='_paradigm'>Banner</span>, change your contribution to it, see who is contributing, and the beneficiary. The dashboard may show something like this,
    <div style='padding-left:1rem; '>
-    <h2 style='font-size:smaller; padding-top:1rem; padding-bottom:0; '>Banner:</h2>
-     <p style='text-indent:1em; '>$1M in 3 years, to buy and furnish a building. Beneficiaries: investors.</p>
-    <h2 style='font-size:smaller; padding-top:1rem; padding-bottom:0;  '>Contributions:</h2>
-     <p style='text-indent:1em; '>All, $100.00</p>
-    <p style='padding-top:1rem; text-indent:0; '>Or&hellip;</p>
-    <h2 style='font-size:smaller; padding-top:1rem; padding-bottom:0;  '>Contributions:</h2>
-     <p style='text-indent:1em; '>Mary, $100.00</p>
-     <p>Anita, 0.25% de $1M</p>
-     <p>Salim, 5.00% of his <span class='_paradigm'>RAD</span>s</p>
+    <table>
+     <tr>
+      <td>
+       <h2 style='font-size:smaller; padding-top:1rem; padding-bottom:0; '>Banner:</h2>
+        <p style='text-indent:1em; '>$1M in 3 years, to buy and furnish a building. Beneficiaries: investors.</p>
+       <h2 style='font-size:smaller; padding-top:0; padding-bottom:0;  '>Contributions:</h2>
+        <p style='text-indent:1em; '>All, $100.00</p>
+      </td>
+     </tr>
+    </table>
+  <p style='padding-top:1rem; text-indent:0; '>Or&hellip;</p>
+    <table>
+     <tr>
+      <td>
+       <h2 style='font-size:smaller; padding-top:1rem; padding-bottom:0; '>Banner:</h2>
+        <p style='text-indent:1em; '>$1M in 3 years, to buy and furnish a building. Beneficiaries: investors.</p>
+       <h2 style='font-size:smaller; padding-top:0; padding-bottom:0;  '>Contributions:</h2>
+        <p style='text-indent:1em; '>Mary, $100.00</p>
+        <p style='text-indent:1em; '>Anita, 0.25% de $1M</p>
+        <p style='text-indent:1em; '>Salim, 5.00% of <span class='_paradigm'>RAD</span>s yield</p>
+      </td>
+     </tr>
+    </table>
    </div>
 
 <h1>Notes</h1>
