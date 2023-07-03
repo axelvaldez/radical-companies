@@ -175,10 +175,11 @@ image:    "icon-welcome-and-introduction.svg"
   <p><span class='_paradigm'>Banner</span>s represent non-people things like projects and investments. The <em><span class='_paradigm'>RAD</span>s! mobile app</em> supports <span class='_paradigm'>Banner</span>s. You can create a <span class='_paradigm'>Banner</span>, change your contribution to it, see who is contributing, and the beneficiary. The dashboard may show something like this,
    <div style='padding-left:1rem; '>
     <h2 style='font-size:smaller; padding-top:1rem; padding-bottom:0; '>Banner:</h2>
-     <p>$1M in 3 years, to buy and furnish a building. Beneficiaries: investors.</p>
+     <p style='text-indent:1em; '>$1M in 3 years, to buy and furnish a building. Beneficiaries: investors.</p>
     <h2 style='font-size:smaller; padding-top:1rem; padding-bottom:0;  '>Contributions:</h2>
      <p style='text-indent:1em; '>All, $100.00</p>
-    <h2 style='font-size:smaller; padding-top:1rem; padding-bottom:0;  '>Or, contributions:</h2>
+    <p>Or&hellip;&</p>
+    <h2 style='font-size:smaller; padding-top:1rem; padding-bottom:0;  '>Contributions:</h2>
      <p style='text-indent:1em; '>Mary, $100.00</p>
      <p>Anita, 0.25% de $1M</p>
      <p>Salim, 5.00% of his <span class='_paradigm'>RAD</span>s</p>
