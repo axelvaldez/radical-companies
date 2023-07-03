@@ -187,8 +187,7 @@ image:    "icon-welcome-and-introduction.svg"
       </td>
      </tr>
     </table>
-  <p style='text-indent:0; '>Or&hellip;</p>
-  <p>Or&hellip;</p>
+    <p style='text-indent:0; '>Or&hellip;</p>
     <table>
      <tr>
       <td>
