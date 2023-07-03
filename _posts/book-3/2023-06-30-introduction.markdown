@@ -200,6 +200,7 @@ image:    "icon-welcome-and-introduction.svg"
         <p style='text-indent:1em; '>Mary, $100.00</p>
         <p style='text-indent:1em; '>Anita, 0.25% de $1M</p>
         <p style='text-indent:1em; '>Salim, 5.00% of <span class='_paradigm'>RAD</span>s yield</p>
+        <p style='text-indent:1em; '>&hellip;</p>
       </td>
      </tr>
     </table>
