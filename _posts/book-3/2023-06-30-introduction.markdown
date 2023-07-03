@@ -177,9 +177,9 @@ image:    "icon-welcome-and-introduction.svg"
     <h2 style='font-size:smaller; padding-top:1rem; padding-bottom:0; '>Banner:</h2>
      <p>$1M in 3 years, to buy and furnish a building. Beneficiaries: investors.</p>
     <h2 style='font-size:smaller; padding-top:1rem; padding-bottom:0;  '>Contributions:</h2>
-     <div>All, $100.00</div>
+     <p style='text-indent:1em; '>All, $100.00</p>
     <h2 style='font-size:smaller; padding-top:1rem; padding-bottom:0;  '>Or, contributions:</h2>
-     <div>Mary, $100.00</div>
+     <p style='text-indent:1em; '>Mary, $100.00</p>
      <p>Anita, 0.25% de $1M</p>
      <p>Salim, 5.00% of his <span class='_paradigm'>RAD</span>s</p>
    </div>
