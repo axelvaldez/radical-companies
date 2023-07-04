@@ -13,7 +13,7 @@ image:    "icon-welcome-and-introduction.svg"
 <h1 class='_section'>Radiance Inspiration and Discovery</h1>
 
 <div class='_citation'>
- <p>I contend that we are both #atheists. I just believe in one fewer #God than you do.</p>
+ <p>I contend that we are both atheists. I just believe in one fewer #God than you do.</p>
  <p id='_signature'>Stephen Roberts</p>
 </div>
 
