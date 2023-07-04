@@ -42,7 +42,7 @@ image:    "icon-welcome-and-introduction.svg"
  <p>If you are not open and ready for this, this is not the book for you. <span class='_quotespan'>Sounds interesting&hellip; tell me more about about it,</span> says you as you cross your arms and lean back on your comfortable chair. If that is you, return this book. Sorry for the inconvenience.</p>
 
 <h1>Fiat?</h1>
- <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> is a car</span>. And it is, an Italian automobile brand that stands for <em>Fabbrica Italiana Automobili Torino.</em></p>
+ <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> is a car!</span>. And it is, an Italian automobile brand that stands for <em>Fabbrica Italiana Automobili Torino.</em></p>
  <p><span class='_paradigm'>Fiat</span> is also an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> It also carries an implied <span class='_quotespan'>&hellip; or else</span> with it. <span class='_quotespan'>Move those boxes over there (because I say so&hellip; or else).</span></p>
 
 <h1>The Fiat System</h1>
