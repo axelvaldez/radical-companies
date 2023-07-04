@@ -12,8 +12,13 @@ image:    "icon-welcome-and-introduction.svg"
 
 <h1 class='_section'>Radiance Inspiration and Discovery</h1>
 
+<div class='_citation'>
+ <p>I contend that we are both atheists</p>
+ <p id='_signature'>Stephen Roberts</p>
+</div>
+
 <h1>Introduction</h1>
- <p>Prepare to witness the dawn of a groundbreaking era, where boundless opportunities await and traditional boundaries crumble. Welcome to the unveiling of Radical Companies, an unparalleled force poised to redefine the landscape of innovation. Brace yourself for an extraordinary journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world.</p>
+ <p>You are about to enter an alternative to the way we live where boundless opportunities await and traditional boundaries crumble. Brace yourself for an extraordinary journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world.</p>
 
 <h1>Paragraph 1</h1>
  <p>Imagine a realm where imagination reigns supreme, where the relentless pursuit of progress fuels the fires of transformation. Radical Companies stands as a testament to the audacity of dreams, where pioneers emerge to lead the way into uncharted territories of success. It is a sanctuary of groundbreaking ideas and bold endeavors, beckoning you to be part of a movement that shapes the future.</p>
