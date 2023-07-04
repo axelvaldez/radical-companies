@@ -18,22 +18,9 @@ image:    "icon-welcome-and-introduction.svg"
 </div>
 
 <h1>Introduction</h1>
- <p>You are about to learn about an alternative to the way we live, where traditional boundaries crumble. Be ready for a journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world.</p>
-
-<h1>Paragraph 1</h1>
- <p>Imagine a realm where imagination reigns supreme, where the relentless pursuit of progress fuels the fires of transformation. Radical Companies stands as a testament to the audacity of dreams, where pioneers emerge to lead the way into uncharted territories of success. It is a sanctuary of groundbreaking ideas and bold endeavors, beckoning you to be part of a movement that shapes the future.</p>
-
-<h1>Paragraph 2</h1>
- <p>In the extraordinary world of Radical Companies, the boundaries of what's possible are shattered, opening the floodgates to unimagined opportunities. Here, the conventional is reimagined, and innovation thrives on the pulse of calculated risk-taking. Join us in this bold revolution, where creative minds converge, pushing the limits and defying expectations. Together, we will challenge the status quo, propelling humanity towards new horizons.</p>
-
-<h1>Paragraph 3</h1>
- <p>At the core of Radical Companies lies a driving force that fuels our relentless pursuit of excellence: a collective hunger for success. We embrace calculated risks, harnessing the power of innovation to forge paths untraveled. It is within this realm that we harness our entrepreneurial spirit, leveraging it to revolutionize industries and redefine the very fabric of success. Together, we will embark on a journey of unrivaled possibilities and drive change on an unprecedented scale.</p>
-
-<h1>Paragraph 4</h1>
- <p>Join our community of like-minded visionaries, where collaboration is the cornerstone of progress. By aligning our ambitions and sharing our expertise, we unlock a multitude of potential. Within the vibrant tapestry of Radical Companies, partnerships are forged, empowering us to achieve what was once deemed impossible. Together, we will leave an indelible mark on the world, shaping the future with our audacious dreams and unwavering determination.</p>
-
-<h1>Conclusion</h1>
- <p>Now is the time to seize this extraordinary opportunity, to be part of something truly momentous. Embrace the power of Radical Companies, where innovation converges with ambition, and daring ventures become reality. Step forward as a pioneer, and together, we will ignite a revolution that surpasses expectations, transforming industries and inspiring generations to come. Dare to challenge the boundaries, and let Radical Companies be your catalyst for greatness.</p>
+ <p>You are about to learn about an alternative to the way we live, where traditional boundaries crumble. Be ready for a journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world. Imagine a way of living where the relentless pursuit of progress fuels the fires of transformation. Radical Companies stands as a testament to the audacity of dreams, where pioneers emerge to lead the way into uncharted territories of different opportunities. Groundbreaking ideas that invite you to be part of a movement that shapes the future.</p>
+ <p>In world of Radical Companies it is up to you to open the floodgates to opportunities. Here, the conventional is reimagined, and innovation thrives on a different kind of risk-taking. Join us. Together, we will challenge the status quo, propelling humanity towards new horizons. We embrace calculated risks, harnessing the power of playfullness and innovation to paths untraveled. We redefine the very fabric of success. Together, we will embark on a journey of possibilities and drive change on an unprecedented scale.</p>
+ <p>Join our community of like-minded people, where collaboration is a cornerstone. We aim to achieve what was once deemed impossible and create a worl not drive by capital but by contrinbutions. We aim leave an indelible mark on the world. Now is the time to be part of something truly momentous, where daring ventures become reality. Step forward as a pioneer, and together, we will surpasses expectations and transforming ownership. Dare to challenge the boundaries.</p>
 
 <h1>&nbsp;</h1>
  <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They may not even know what the heck <span class='_paradigm'>Fiat</span> means. But they are interested, they feel that the current system is not working for them.</p>
@@ -92,7 +79,7 @@ image:    "icon-welcome-and-introduction.svg"
    <li>In prison you end in a fight and you are maimed or killed or vice versa. Either way, it is definitely a <em>force majeure</em>.</li>
   </ul>
  <p>Force is ever present in out <span class='_paradigm'>Fiat</span> system. It goes from a frown to the electric chair. Withholding a prize because you did not said or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or the more euphemistic &ldquo;laying you off&rdquo; is a form of force. Raising you rent so your only option is to leave is a form of force. We are surrounded by a system that runs on force.</p>
- <p>Motivation is another form of force. <span class='_quotespan'>Do this and you'll get the reward.</span> Realize that that is coming from somebody else. You are &ldquo;motivated&rdquo; to do what somebody else wants. You may want to do something else but you have to do what is specified by someone else to get the reward. That is force.</p>
+ <p>Motivation is another form of force. <span class='_quotespan'>Do this and you&rsquo;ll get the reward.</span> Realize that that is coming from somebody else. You are &ldquo;motivated&rdquo; to do what somebody else wants. You may want to do something else but you have to do what is specified by someone else to get the reward. That is force.</p>
  <p>---</p>
  <p>In an alternative to the <span class='_paradigm'>Fiat</span> system there is no you-have-do-it-or-else force. The myth is that without <span class='_paradigm'>Fiat</span> force we would never do anything of significance, we would never do anything bigger than ourselves. And is a myth because we managed to survive as a species. We invented agriculture. Agriculture spread to all corners of the earth. We managed to do all that and more without anybody telling how to do it.<p>
  <p>Then came the people who took things by force, because they had nothing to trade but force. And then came money, coinage which allowed them to trade the wealth that the rest of us created. And slowly by surely the Fiat system took shape with us in it. And we believe the stories that came up to support it; a top supernatural being, paradise, Eve and the bad apple, and eating shellfish as an abomination. And we believe these Iron age stories to these days. Including the stories about work and how that elevates above the crowd, definitely above the people from the edge.</p>
@@ -153,7 +140,7 @@ image:    "icon-welcome-and-introduction.svg"
    <p>It is &ldquo;alignment&rdquo; in the sense that it that it ties people together into a community with something in common.</p>
    <p>To be clear,</p>
    <ul>
-    <li>If the <em>what for</em>, the <span class='_paradigm'>Impact</span>, is not your thing, then you don't join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed at it because it is very, very difficult.</li>
+    <li>If the <em>what for</em>, the <span class='_paradigm'>Impact</span>, is not your thing, then you don&rsquo;t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed at it because it is very, very difficult.</li>
     <li>If the <em>why</em>, the <span class='_paradigm'>Purpose</span>, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn&rsquo;t work, you don&rsquo;t join the community.</li>
     <li>The <em>what, when, and how</em>, the <span class='_paradigm'>Mission</span>, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create you own with the support of the community.</li>
    </ul>
