@@ -7,8 +7,28 @@ image:    "icon-welcome-and-introduction.svg"
 ---
 
 <div style='display:none;'>
- <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They want to, but they don&rsquo;t yet see it.</p>
+ <p>This booklet is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They want to, but they don&rsquo;t yet see it.</p>
 </div>
+
+<h1 class='_section'>Radiance Inspiration and Discovery</h1>
+
+<h1>Introduction</h1>
+ <p>Prepare to witness the dawn of a groundbreaking era, where boundless opportunities await and traditional boundaries crumble. Welcome to the unveiling of Radical Companies, an unparalleled force poised to redefine the landscape of innovation. Brace yourself for an extraordinary journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world.</p>
+
+<h1>Paragraph 1</h1>
+ <p>Imagine a realm where imagination reigns supreme, where the relentless pursuit of progress fuels the fires of transformation. Radical Companies stands as a testament to the audacity of dreams, where pioneers emerge to lead the way into uncharted territories of success. It is a sanctuary of groundbreaking ideas and bold endeavors, beckoning you to be part of a movement that shapes the future.</p>
+
+<h1>Paragraph 2</h1>
+ <p>In the extraordinary world of Radical Companies, the boundaries of what's possible are shattered, opening the floodgates to unimagined opportunities. Here, the conventional is reimagined, and innovation thrives on the pulse of calculated risk-taking. Join us in this bold revolution, where creative minds converge, pushing the limits and defying expectations. Together, we will challenge the status quo, propelling humanity towards new horizons.</p>
+
+<h1>Paragraph 3</h1>
+ <p>At the core of Radical Companies lies a driving force that fuels our relentless pursuit of excellence: a collective hunger for success. We embrace calculated risks, harnessing the power of innovation to forge paths untraveled. It is within this realm that we harness our entrepreneurial spirit, leveraging it to revolutionize industries and redefine the very fabric of success. Together, we will embark on a journey of unrivaled possibilities and drive change on an unprecedented scale.</p>
+
+<h1>Paragraph 4</h1>
+ <p>Join our community of like-minded visionaries, where collaboration is the cornerstone of progress. By aligning our ambitions and sharing our expertise, we unlock a multitude of potential. Within the vibrant tapestry of Radical Companies, partnerships are forged, empowering us to achieve what was once deemed impossible. Together, we will leave an indelible mark on the world, shaping the future with our audacious dreams and unwavering determination.</p>
+
+<h1>Conclusion</h1>
+ <p>Now is the time to seize this extraordinary opportunity, to be part of something truly momentous. Embrace the power of Radical Companies, where innovation converges with ambition, and daring ventures become reality. Step forward as a pioneer, and together, we will ignite a revolution that surpasses expectations, transforming industries and inspiring generations to come. Dare to challenge the boundaries, and let Radical Companies be your catalyst for greatness.</p>
 
 <h1>&nbsp;</h1>
  <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They may not even know what the heck <span class='_paradigm'>Fiat</span> means. But they are interested, they feel that the current system is not working for them.</p>
