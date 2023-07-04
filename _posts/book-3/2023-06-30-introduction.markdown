@@ -18,7 +18,7 @@ image:    "icon-welcome-and-introduction.svg"
 </div>
 
 <h1>Introduction</h1>
- <p>You are about to enter an alternative to the way we live where boundless opportunities await and traditional boundaries crumble. Brace yourself for an extraordinary journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world.</p>
+ <p>You are about to learn about an alternative to the way we live, where traditional boundaries crumble. Be ready for a journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world.</p>
 
 <h1>Paragraph 1</h1>
  <p>Imagine a realm where imagination reigns supreme, where the relentless pursuit of progress fuels the fires of transformation. Radical Companies stands as a testament to the audacity of dreams, where pioneers emerge to lead the way into uncharted territories of success. It is a sanctuary of groundbreaking ideas and bold endeavors, beckoning you to be part of a movement that shapes the future.</p>
