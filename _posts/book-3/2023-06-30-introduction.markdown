@@ -14,9 +14,7 @@ image:    "icon-welcome-and-introduction.svg"
  <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They may not even know what the heck <span class='_paradigm'>Fiat</span> means. But they are interested, they feel that the current system is not working for them.</p>
  <p>For the rest of the book, you have to be open and ready to put aside everything you take for granted. You have to be open and ready to put aside everything has always been here and will always be part of us. You have to be open and ready to put aside much of you consider our &ldquo;nature.&rdquo; You have to be open and ready to question what is true about us.</p>
  <p>If you are feeling a overwhelmed by work, it is not a matter of working harder. That what everybody tells you, that what every business book says. <span class='_quotespan'>Search for Excellence,</span> <span class='_quotespan'>The Seven Habits You Need to Move Up,</span> <span class='_quotespan'>Do More with Less Effort.</span> But it is not you, it is the system that we call <span class='_paradigm'>Fiat</span>. It forces to create more wealth for the owners and investors of the business you work for. We created it, and we can create an alternative system (the <span class='_paradigm'>Fiat</span> system has not cure).</p>
- <p>&nbsp;</p>
- <p>The alternative to <span class='_paradigm'>Fiat</span> is fundamentally different and will feel foreign, even crazy.</p>
- <p>&nbsp;</p>
+ <p>Alternatives to <span class='_paradigm'>Fiat</span> is fundamentally different and will feel foreign, even crazy.</p>
  <p>If you are not open and ready for this, this is not the book for you. <span class='_quotespan'>Sounds interesting&hellip; tell me more about about it,</span> says you as you cross your arms and lean back on your comfortable chair. If that is you, return this book. Sorry for the inconvenience.</p>
  <div class='_citation'>
   <p>Creativity takes courage.</p>
