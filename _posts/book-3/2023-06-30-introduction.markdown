@@ -24,7 +24,7 @@ image:    "icon-welcome-and-introduction.svg"
  <p>Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpasses expectations, and transform ownership. Dare to challenge the boundaries.</p>
 
 <h1>Fiat?</h1>
- <p>You don&rsquo;t see <span class='_paradigm'>Fiat</span>. TheyYou may not even know what the heck <span class='_paradigm'>Fiat</span> means. But you are interested. There is an itch that tells you that the current system is not working for you.</p>
+ <p>You don&rsquo;t see <span class='_paradigm'>Fiat</span>. You may not even know what the heck <span class='_paradigm'>Fiat</span> means. But you are interested. There is an itch that tells you that the current system is not working for you.</p>
  <p>For the rest of the book you have to be open and ready to put aside everything you take for granted. You have to be open and ready to put aside everything that has always been there. You have to be open and ready to put aside much of you consider our &ldquo;nature.&rdquo; In fact, you have to be open and ready to question what is true about us.</p>
  <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> is a car!</span>. And it is, an Italian automobile brand that stands for <em>Fabbrica Italiana Automobili Torino.</em></p>
  <p><span class='_paradigm'>Fiat</span> is also an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> It also carries an implied <span class='_quotespan'>&hellip; or else</span> with it. <span class='_quotespan'>Move those boxes over there (because I say so&hellip; or else).</span></p>
