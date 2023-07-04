@@ -10,7 +10,7 @@ image:    "icon-welcome-and-introduction.svg"
  <p>This booklet is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They want to, but they don&rsquo;t yet see it.</p>
 </div>
 
-<h1 class='_section'>Radiance Inspiration and Discovery</h1>
+<h1 class='_section'>Radical Inspiration and Discovery</h1>
 
 <div class='_citation'>
  <p>I contend that we are both atheists. I just believe in one fewer #God than you do.</p>
