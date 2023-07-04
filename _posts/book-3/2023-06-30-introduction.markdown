@@ -24,15 +24,18 @@ image:    "icon-welcome-and-introduction.svg"
  <p>Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpasses expectations, and transform ownership. Dare to challenge the boundaries.</p>
 
 <h1>&nbsp;</h1>
- <p>This book is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They may not even know what the heck <span class='_paradigm'>Fiat</span> means. But they are interested, they feel that the current system is not working for them.</p>
- <p>For the rest of the book, you have to be open and ready to put aside everything you take for granted. You have to be open and ready to put aside everything has always been here and will always be part of us. You have to be open and ready to put aside much of you consider our &ldquo;nature.&rdquo; You have to be open and ready to question what is true about us.</p>
- <p>If you are feeling a overwhelmed by work, it is not a matter of working harder. That what everybody tells you, that what every business book says. <span class='_quotespan'>Search for Excellence,</span> <span class='_quotespan'>The Seven Habits You Need to Move Up,</span> <span class='_quotespan'>Do More with Less Effort.</span> But it is not you, it is the system that we call <span class='_paradigm'>Fiat</span>. It forces to create more wealth for the owners and investors of the business you work for. We created it, and we can create an alternative system (the <span class='_paradigm'>Fiat</span> system has not cure).</p>
- <p>Alternatives to <span class='_paradigm'>Fiat</span> is fundamentally different and will feel foreign, even crazy.</p>
+ <p>You don&rsquo;t see <span class='_paradigm'>Fiat</span>. TheyYou may not even know what the heck <span class='_paradigm'>Fiat</span> means. But you are interested. There is an itch that tells you that the current system is not working for you.</p>
+ <p>For the rest of the book you have to be open and ready to put aside everything you take for granted. You have to be open and ready to put aside everything that has always been there. You have to be open and ready to put aside much of you consider our &ldquo;nature.&rdquo; In fact, you have to be open and ready to question what is true about us.</p>
+
+<h1>Work and Other Ills</h1>
+ <p>If you are feeling a overwhelmed by work, it is not a matter of working harder. That what everybody tells you, that what every business book says. <span class='_quotespan'>Search for Excellence,</span> <span class='_quotespan'>The Seven Habits You Need to Move Up,</span> <span class='_quotespan'>Do More with Less Effort.</span> These are all about you doing less than you can. But it is not you. It is the system that we call <span class='_paradigm'>Fiat</span>. The <span class='_paradigm'>Fiat</span> system is designed for you to create more wealth for the owners and investors of the business you work for. Do more (You are not doing enough). Work smarter (you are not working smart enough).</p>
+ <p>The thing is that we created it. And you and I can create an alternative system. &ldquo;Curing&rdquo; the <span class='_paradigm'>Fiat</span> system would be never ending. Boss demanding that you drive back to the office. Climate change. Discrimination of women. Discrimation of Black and brown folks. Glaring injustices. It is never ending, like Sisyphus forced to roll a boulder up a hill for eternity. This system is too easy to game, particular if you have accumulated power.</p>
+ <p>But bewarned, alternatives to <span class='_paradigm'>Fiat</span> are fundamentally different and will feel foreign. They&rsquo;ll be put down as idealistic and even crazy.</p>
  <div class='_citation'>
   <p>Creativity takes courage.</p>
   <p id='_signature'>Henri Matisse</p>
  </div>
- <p>If you are not open and ready for this, this is not the book for you. <span class='_quotespan'>Sounds interesting&hellip; tell me more about about it,</span> says you as you cross your arms and lean back on your comfortable chair. If that is you, return this book. Sorry for the inconvenience.</p>
+ <p>If you are not open and ready for this, this is not the booklet for you. <span class='_quotespan'>Sounds interesting&hellip; tell me more about about it,</span> says you as you cross your arms and lean back on your comfy chair. If that is you, return this book. Sorry for the inconvenience.</p>
 
 <h1>Fiat?</h1>
  <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> is a car!</span>. And it is, an Italian automobile brand that stands for <em>Fabbrica Italiana Automobili Torino.</em></p>
