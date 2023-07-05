@@ -42,7 +42,7 @@ image:    "icon-welcome-and-introduction.svg"
 
 <h1>The Fiat System</h1>
  <p>We live in a <span class='_paradigm'>Fiat</span> environment, a <span class='_paradigm'>Fiat</span> <em>system</em>. Some people <em>do not</em> like the word <em>system</em> associated with their lives, and that is understandable. <span class='_quotespan'>My life is not limited by a system, I shape it however I want to.</span> However, that is what it is: you and I live within a system.</p>
- <p>We created the system and we maintain it. We use money, coined power, is the medium of exchange, within the <span class='_paradigm'>Fiat</span> system. You have a boss, within the <span class='_paradigm'>Fiat</span> system. You work for a wage, within the <span class='_paradigm'>Fiat</span> system. These are a elements of the <span class='_paradigm'>Fiat</span> system that we created, we live in, and we uphold and maintain. These elements are well accepted and invisible.</p>
+ <p>We created the system and we maintain it. We use money, coined power, is the medium of exchange, within the <span class='_paradigm'>Fiat</span> system. You have a boss, within the <span class='_paradigm'>Fiat</span> system. You work for a wage, within the <span class='_paradigm'>Fiat</span> system. These are a elements of the <span class='_paradigm'>Fiat</span> system that we created, we live in, and we uphold and maintain.</p>
  <p>Luckily, there are alternatives to the <span class='_paradigm'>Fiat</span> system.</p>
 
 <h1>It Starts with Rules</h1>
