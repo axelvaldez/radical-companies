@@ -351,14 +351,17 @@ span._paradigm {
   margin:0 auto 30px auto;
   padding:0 auto .5em  auto;
 }
-._citation #_signature {
+._citation #_signature, 
+._citation._signature {
   display: block;
   text-indent:-1em;
   font-style:italic;
   padding-top:10px;
   margin:0 0.5em .5em 10%;
+  text-align:center;
 }
-._citation #_signature::before {
+._citation #_signature::before, 
+._citation._signature::before  {
   text-indent:-0.3em;
   content:"— ";
 }
