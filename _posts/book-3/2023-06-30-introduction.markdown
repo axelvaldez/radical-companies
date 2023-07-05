@@ -23,12 +23,6 @@ image:    "icon-welcome-and-introduction.svg"
  <p>Join our community of like-minded people, where collaboration is a cornerstone. We aim to achieve what was once deemed impossible and create a worl not driven by capital but by contributions. We aim to leave an indelible mark on the world.
  <p>Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpasses expectations, and transform ownership. Dare to challenge the boundaries.</p>
 
-<h1>Fiat?</h1>
- <p>You don&rsquo;t see <span class='_paradigm'>Fiat</span>. You may not even know what the heck <span class='_paradigm'>Fiat</span> means. But you are interested. There is an itch that tells you that the system we live in is not working for you.</p>
- <p>For the rest of the book you have to be open and ready to put aside everything you take for granted. You have to be open and ready to put aside everything that has always been there. You have to be open and ready to put aside much of you consider our &ldquo;nature.&rdquo; In fact, you have to be open and ready to question what is true about us.</p>
- <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> is a car!</span>. And it is, an Italian automobile brand that stands for <em>Fabbrica Italiana Automobili Torino.</em></p>
- <p><span class='_paradigm'>Fiat</span> is also an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> It also carries an implied <span class='_quotespan'>&hellip; or else</span> with it. <span class='_quotespan'>Move those boxes over there (because I say so&hellip; or else).</span></p>
-
 <h1>Work and Other Ills</h1>
  <p>If you are feeling a overwhelmed by work, it is not a matter of working harder. That is what your boss tells you and even your well-meaning co-workers. That is what every business book says, <span class='_quotespan'>Search for Excellence,</span> <span class='_quotespan'>The Seven Habits You Need to Move Up,</span> <span class='_quotespan'>Do More with Less Effort.</span> These are all about you doing less than you can. But it is not you. It is the system that we call <span class='_paradigm'>Fiat</span>. The <span class='_paradigm'>Fiat</span> system is designed for you to create more wealth for the owners and investors of the business you work for. Do more (<em>implied</em>, <span class='_quotespan'>you are not doing enough</span>). Work smarter (<em>implied</em>, <span class='_quotespan'>you are not working smart enough</span>).</p>
  <p>The thing is that we created it. And you and I can create an alternative system. &ldquo;Curing&rdquo; the <span class='_paradigm'>Fiat</span> system would be never ending. Boss demanding that you drive back to the office. Climate change. Discrimination of women. Discrimation of Black and brown folks. Glaring injustices. It is never ending, like Sisyphus forced to roll a boulder up a hill for eternity. This system is too easy to game, particular if you have accumulated power.</p>
@@ -38,6 +32,12 @@ image:    "icon-welcome-and-introduction.svg"
   <p id='_signature'>Henri Matisse</p>
  </div>
  <p>If you are not open and ready for this, this is not the booklet for you. <span class='_quotespan'>Sounds interesting&hellip; tell me more about about it,</span> says you as you cross your arms and lean back on your comfy chair. If that is you, return this book. Sorry for the inconvenience.</p>
+
+<h1>Fiat?</h1>
+ <p>You don&rsquo;t see <span class='_paradigm'>Fiat</span>. You may not even know what the heck <span class='_paradigm'>Fiat</span> means. But you are interested. There is an itch that tells you that the system we live in is not working for you.</p>
+ <p>For the rest of the book you have to be open and ready to put aside everything you take for granted. You have to be open and ready to put aside everything that has always been there. You have to be open and ready to put aside much of you consider our &ldquo;nature.&rdquo; In fact, you have to be open and ready to question what is true about us.</p>
+ <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> is a car!</span>. And it is, an Italian automobile brand that stands for <em>Fabbrica Italiana Automobili Torino.</em></p>
+ <p><span class='_paradigm'>Fiat</span> is also an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> It also carries an implied <span class='_quotespan'>&hellip; or else</span> with it. <span class='_quotespan'>Move those boxes over there (because I say so&hellip; or else).</span></p>
 
 <h1>The Fiat System</h1>
  <p>We live in a <span class='_paradigm'>Fiat</span> <em>system</em>. Some people <em>do not</em> like the word <em>system</em> associated with their lives, and that is understandable. <span class='_quotespan'>My life is not limited by a system, I shape it however I want to.</span> However, that is what it is: you and I live within a system.</p>
