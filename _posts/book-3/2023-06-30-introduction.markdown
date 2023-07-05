@@ -31,7 +31,7 @@ image:    "icon-welcome-and-introduction.svg"
   <p class="_center">Creativity takes courage.</p>
   <p id='_signature'>Henri Matisse</p>
  </div>
- <p>If you are not open for this, this is not the booklet for you. <span class='_quotespan'>Sounds interesting&hellip; tell me more about about it,</span> says you as you cross your arms and lean back on your comfy chair. If that is you, return this book. Sorry for the inconvenience.</p>
+ <p>If you are not open for this, this is not for you. <span class='_quotespan'>Sounds interesting&hellip; tell me more about about it,</span> says you as you cross your arms and lean back on your comfy chair. If that is you, return it and sorry for the inconvenience.</p>
 
 <h1>Fiat?</h1>
  <p>You don&rsquo;t see <span class='_paradigm'>Fiat</span>. You may not even know what the heck <span class='_paradigm'>Fiat</span> means. But you are interested. There is an itch that tells you that the system we live in is not working for you.</p>
