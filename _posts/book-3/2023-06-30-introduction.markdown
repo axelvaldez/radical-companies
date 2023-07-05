@@ -34,7 +34,7 @@ image:    "icon-welcome-and-introduction.svg"
  <p>The thing is that we created it. And you and I can create an alternative system. &ldquo;Curing&rdquo; the <span class='_paradigm'>Fiat</span> system would be never ending. Boss demanding that you drive back to the office. Climate change. Discrimination of women. Discrimation of Black and brown folks. Glaring injustices. It is never ending, like Sisyphus forced to roll a boulder up a hill for eternity. This system is too easy to game, particular if you have accumulated power.</p>
  <p>But bewarned, alternatives to <span class='_paradigm'>Fiat</span> are fundamentally different and will feel foreign. They&rsquo;ll be put down as idealistic and even crazy.</p>
  <div class='_citation'>
-  <p>Creativity takes courage.</p>
+  <p class="_center">Creativity takes courage.</p>
   <p id='_signature'>Henri Matisse</p>
  </div>
  <p>If you are not open and ready for this, this is not the booklet for you. <span class='_quotespan'>Sounds interesting&hellip; tell me more about about it,</span> says you as you cross your arms and lean back on your comfy chair. If that is you, return this book. Sorry for the inconvenience.</p>
