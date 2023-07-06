@@ -16,7 +16,7 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
  <p>I believe that truly sustainable businesses will differentiate themselves and thrive. Many with stick to the  ways.</p>
 
 <h1>AIR? What&rsquo;s That?</h1>
- <p> social order we live in is so encompassing that as to be invisible,</p>
+ <p>The world view that we grew up with, and we live, in is so encompassing that as to be invisible. It&rsquo;s like talking to fish about water, or to us people about air,</p>
   <div class="_citation">
    <p>Some 2,500 years ago, the ancient Greeks identified air</p>
    <p id="_signature">International Historic Chemical Landmark<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
