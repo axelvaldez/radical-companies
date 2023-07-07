@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Radical: Inspiration and Discovery"
+title:    "Radical Inspiration and Discovery"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-radical-insperation-and-discovery.svg"
@@ -9,8 +9,6 @@ image:    "icon-radical-insperation-and-discovery.svg"
 <div style='display:none;'>
  <p>This booklet is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They want to, but they don&rsquo;t yet see it.</p>
 </div>
-
-<h1 class='_section'>Radical Inspiration and Discovery</h1>
 
 <div class='_citation'>
  <p>I contend that we are both atheists. I just believe in one fewer god than you do.</p>
