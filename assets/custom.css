@@ -488,16 +488,15 @@ div table._background, div table._foundation {
   place-items:center;
 }
 ._adorned::before {
-  text-align:center;
+  align-items:center;
   padding-top:10px;
-  content:'“\
-  ';
+  font-size:larger;
+  content:'“';
 }
 ._adorned::after {
-  text-align:center;
+  align-items:center;
+  content:'”';
   padding-bottom:10px;
-  content:'\
-  “';
 }
 ._mb0 {
   margin-bottom:0;
