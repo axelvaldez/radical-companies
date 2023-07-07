@@ -491,11 +491,11 @@ div table._background, div table._foundation {
   align-items:center;
   padding-top:10px;
   font-size:larger;
-  content:\201C;
+  content:open-quote;
 }
 ._adorned::after {
   align-items:center;
-  content:\201D;
+  content:close-quote;
   padding-bottom:10px;
 }
 ._mb0 {
