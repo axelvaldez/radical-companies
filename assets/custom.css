@@ -490,7 +490,14 @@ div table._background, div table._foundation {
 ._adorned::before {
   text-align:center;
   padding-top:10px;
-  content:'“';
+  content:'“\
+  ';
+}
+._adorned::after {
+  text-align:center;
+  padding-bottom:10px;
+  content:'\
+  “';
 }
 ._mb0 {
   margin-bottom:0;
