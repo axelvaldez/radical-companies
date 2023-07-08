@@ -40,10 +40,24 @@ image:    "icon-radical-insperation-and-discovery.svg"
  <p>The thing is that we created it. And you and I can create an alternative system. &ldquo;Curing&rdquo; the <span class='_paradigm'>Fiat</span> system would be never ending. Boss demanding that you get back to the office, to work. Climate change. Discrimination of women. Discrimation of Black and brown folks. Glaring injustices. It is never ending, like Sisyphus forced to roll a boulder up a hill for eternity. This system is too easy to game, particular if you have accumulated power.</p>
  <p>But bewarned, alternatives to <span class='_paradigm'>Fiat</span> are fundamentally different and will feel foreign. They&rsquo;ll be put down as idealistic and even crazy.</p>
  <div class='_citation'>
-  <p class="_center, _adorned">Creativity takes courage.</p>
-  <p id='_signature'>Henri Matisse</p>
+  <div class='_center'>
+   <table>
+    <tr>
+     <td style='font-family:times New Roman; font-size:300%; text-align:center; padding-top:20px; '>&ldquo;</td>
+    </tr>
+    <tr>
+     <td>
+      <p>Creativity takes courage.</p>
+      <p id='_signature'>Henri Matisse</p>
+     </td>
+    </tr>
+    <tr>
+     <td style='font-family:times New Roman; font-size:300%; text-align:center; padding-bottom:0px; '>&rdquo;</td>
+    </tr>
+   </table>
+  </div>
  </div>
- <p>If you are not open for this or if are just being polite (<span class='_quotespan'>Sounds interesting&hellip; tell me more about about it,</span>), return it. Sorry for the inconvenience.</p>
+ <p>If you are not open to this and are just being polite (<span class='_quotespan'>Sounds interesting&hellip; tell me more about about it,</span>), return this booklet. Sorry for the inconvenience.</p>
 
 <h1>Fiat?</h1>
  <p>You don&rsquo;t see <span class='_paradigm'>Fiat</span>. You may not even know what the heck <span class='_paradigm'>Fiat</span> means. But there is something, a feeling you have, that tells you that the system we live in is not quite right and you need to find an alternative. And, you are correct in that it is not quite right. Perhaps you are spending too much time at work. Or you are always on call, so to speak, ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one. <span class='_quotespan'>Don't worry, you will get a chance to rest when you get back,</span> but then you get back to bigger pile of work. Maybe you are fully aware of this or maybe you think that <span class='_quotespan'>this is life</span> </p>
