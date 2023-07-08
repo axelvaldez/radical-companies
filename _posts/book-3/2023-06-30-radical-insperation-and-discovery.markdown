@@ -134,12 +134,16 @@ image:    "icon-radical-insperation-and-discovery.svg"
    <li>Paradise</li>
    <li>Eve as the bad apple</li>
    <li>Homosexuality and shellfish as abominations.</li>
-   <li><span class='_quotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ.<a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></li>
+   <li><span class='_quotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ.</span><a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></li>
   </ul>
- <p>And to this day, we believe these Iron age stories. Including the story about how work would elevate us above the crowd and keep us out of the edge.</p>
- <p>Most insidious of all, we learn to expect that the fruit of our work would go to someone else, the smaller god, the omnipotent being at the top, the boss. And that we get paid what the boss says we should get paid.</p>
- <p>It didn&rsquo;t start this way, but it evolved. First came prisoners of minor wars, that were made to carry whatever the winners didn&rsquo;t want to carry. At the end they either joined the winners (after all, they were related) or they went back to their village. Then came slavery, they kep you as a worthless worker because they have the force. Finally came work in exchange for wage. This is the general direction of the evolution, from forced labor by sheer force to forced labor by coin. Different form of force, but force throughout.</p>
- <p>This got absorbed by the Fiat system to the point that &ldquo;being a good worker&rdquo; is a sign of pride today. There is nothing strange about it, it is normal. The alternative is chaos, to be avoided at all costs. Anybody talking alternatives (you and I) must be crazy.</p>
+ <p>Most insidious of all, we learn to expect that the fruit of our work should go to someone else,</p>
+  <ul>
+   <li>A god, the omnipotent being at the top</li>
+   <li>The boss.</li>
+  </ul>
+ <p>And that we get paid what the boss says it is reasonable.</p>
+ <p>It didn&rsquo;t start this way, but it evolved. First came prisoners of minor wars, that were made to carry whatever the winners didn&rsquo;t want to carry. At the end they either joined the winners (after all, they were related) or they went back to their village. Then came slavery, they kept you as a worthless worker because they had the force (and you were not related). Finally came wage work. This is the general direction of the evolution, from forced labor by sheer force to forced labor by coin. Different forms of force, but force throughout.</p>
+ <p>In the Fiat system &ldquo;being a good worker&rdquo; is a sign of pride today. There is nothing strange about it, it is normal. The alternative is chaos, to be avoided at all costs. Anybody talking alternatives (you and I) must be crazy.</p>
  <p>--</p>
  <p>The alternative is not chaos, but it is different.</p>
  <p>For one, there&rsquo;s no force. There&rsquo;s persuasion, there is convincing, there is guilt. But there is no force to make you do something that you don&rsquo;t want to do.</p>
