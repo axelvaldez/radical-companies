@@ -489,7 +489,6 @@ div table._background, div table._foundation {
 }
 ._adorned::before {
   align-items:center;
-  padding-top:20%;
   font-size:larger;
   content:open-quote;
   padding-right:20px;
@@ -497,8 +496,8 @@ div table._background, div table._foundation {
 ._adorned::after {
   align-items:center;
   font-size:larger;
-  content:close-quote;
   padding-left:20px;
+  content:close-quote;
 }
 ._mb0 {
   margin-bottom:0;
