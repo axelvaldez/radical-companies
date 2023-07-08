@@ -145,7 +145,7 @@ image:    "icon-radical-insperation-and-discovery.svg"
  <p>It didn&rsquo;t start this way, but it evolved. First came prisoners of minor wars, that were made to carry whatever the winners didn&rsquo;t want to carry. At the end they either joined the winners (after all, they were related) or they went back to their village. Then came slavery, they kept you as a worthless worker because they had the force (and you were not related). Finally came wage work. This is the general direction of the evolution, from forced labor by sheer force to forced labor by coin. Different forms of force, but force throughout.</p>
  <p>In the Fiat system &ldquo;being a good worker&rdquo; is a sign of pride today. There is nothing strange about it, it is normal. The alternative is chaos, to be avoided at all costs. Anybody talking alternatives (you and I) must be crazy.</p>
  <p></p>
- <p>Religion is part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
+ <p>Organized religion is part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
 
 <h1>Countries and Other Divisions</h1>
  <h2>Fiat</h2>
