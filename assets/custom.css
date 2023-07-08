@@ -340,16 +340,20 @@ span._paradigm {
  * _quotation & _citation
  */
 ._quotation, ._citation {
-  text-align:justify;
+  text-align:center;
+  /*
   font-size:smaller;
-  font-family: 'Roboto Slab', serif;
-  background-color:beige;
+  */
+  font-family:'Courier New', Courier, monospace;
+  background-color:AntiqueWhite;
   white-space:normal;
-  border:CadetBlue 1px solid;
+  border:CadetBlue 4px solid;
+  /*
   width:80%;
-  padding:10px 10px 0 10px;
   margin:0 auto 30px auto;
+  */
   padding:0 auto .5em  auto;
+  padding:10px 20px 0 20px;
 }
 ._citation #_signature, 
 ._citation._signature {
@@ -421,6 +425,7 @@ div._quotespan {
 }
 div._citation {
   padding-bottom:6px;
+  padding-bottom:0px;
 }
 ._commentary {
   padding-left:0;
@@ -453,7 +458,8 @@ div._center table._explicitalignment p {
 h1+p, h2+p {
   text-indent:0;
 }
-._quotation p:first-child, ._citation p:first-child {
+._quotation p:first-child,
+._citation p:first-child {
   text-indent:0;
 }
 ._float {
