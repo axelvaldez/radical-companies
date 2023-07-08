@@ -14,7 +14,7 @@ image:    "icon-radical-insperation-and-discovery.svg"
  <div class="_center">
   <table>
    <tr>
-    <td style='padding-top:20px; font-size:larger; '>&ldquo;</td>
+    <td style='padding-top:20px; font-size:larger; text-align:center; '>&ldquo;</td>
    </tr>
    <tr>
     <td>
@@ -23,7 +23,7 @@ image:    "icon-radical-insperation-and-discovery.svg"
     </td>
    </tr>
    <tr>
-    <td style='padding-bottom:20px; font-size:larger; '>&rdquo;</td>
+    <td style='padding-bottom:20px; font-size:x-large; text-align:center; '>&rdquo;</td>
    </tr>
   </table>
  </div>
