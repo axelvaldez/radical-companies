@@ -16,7 +16,7 @@ image:    "icon-radical-insperation-and-discovery.svg"
  <div class="_citation, _center">
   <table>
    <tr>
-    <td style='font-family:times New Roman; font-size:xx-large; text-align:center; padding-top:20px; '>&ldquo;</td>
+    <td style='font-family:times New Roman; font-size:300%; text-align:center; padding-top:20px; '>&ldquo;</td>
    </tr>
    <tr>
     <td>
