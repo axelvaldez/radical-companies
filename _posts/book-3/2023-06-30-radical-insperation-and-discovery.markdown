@@ -14,7 +14,7 @@ image:    "icon-radical-insperation-and-discovery.svg"
  <div class='_center'>
   <table>
    <tr>
-    <td style='font-family:times New Roman; font-size:300%; text-align:center; padding-top:20px; '>&ldquo;</td>
+    <td style='font-family:times New Roman; font-size:400%; text-align:center; padding-top:20px; '>&ldquo;</td>
    </tr>
    <tr>
     <td>
@@ -23,7 +23,7 @@ image:    "icon-radical-insperation-and-discovery.svg"
     </td>
    </tr>
    <tr>
-    <td style='font-family:times New Roman; font-size:300%; text-align:center; padding-bottom:0px; '>&rdquo;</td>
+    <td style='font-family:times New Roman; font-size:400%; text-align:center; padding-bottom:0px; '>&rdquo;</td>
    </tr>
   </table>
  </div>
