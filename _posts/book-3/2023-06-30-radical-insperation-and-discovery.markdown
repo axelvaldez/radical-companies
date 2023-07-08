@@ -18,7 +18,7 @@ image:    "icon-radical-insperation-and-discovery.svg"
    </tr>
    <tr>
     <td>
-      <p style='font-size:150%; '>I contend that we are both atheists. I just believe in one fewer god than you do.</p>
+      <p style='font-size:150%; text-align:center; '>I contend that we are both atheists. I just believe in one fewer god than you do.</p>
      <p id='_signature'>Stephen Roberts</p>
     </td>
    </tr>
@@ -43,16 +43,16 @@ image:    "icon-radical-insperation-and-discovery.svg"
   <div class='_center'>
    <table>
     <tr>
-     <td style='font-family:times New Roman; font-size:300%; text-align:center; padding-top:20px; '>&ldquo;</td>
+     <td style='font-family:times New Roman; font-size:400%; text-align:center; padding-top:20px; '>&ldquo;</td>
     </tr>
     <tr>
      <td>
-      <p style='font-size:150%; '>Creativity takes courage.</p>
+      <p style='font-size:150%; text-align:center; '>Creativity takes courage.</p>
       <p id='_signature'>Henri Matisse</p>
      </td>
     </tr>
     <tr>
-     <td style='font-family:times New Roman; font-size:300%; text-align:center; padding-bottom:0px; '>&rdquo;</td>
+     <td style='font-family:times New Roman; font-size:400%; text-align:center; padding-bottom:0px; '>&rdquo;</td>
     </tr>
    </table>
   </div>
