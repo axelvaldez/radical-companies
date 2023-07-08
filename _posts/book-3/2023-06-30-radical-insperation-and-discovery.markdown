@@ -57,7 +57,7 @@ image:    "icon-radical-insperation-and-discovery.svg"
    </table>
   </div>
  </div>
- <p>If you are not open to this and are just being polite (<span class='_quotespan'>Sounds interesting&hellip; tell me more about about it,</span>), return this booklet. Sorry for the inconvenience.</p>
+ <p>If you are not open to this and are just being polite (<span class='_quotespan'>Sounds interesting&hellip; tell me more about about it</span>), return this booklet. Sorry for the inconvenience.</p>
 
 <h1>Fiat?</h1>
  <p>You don&rsquo;t see <span class='_paradigm'>Fiat</span>. You may not even know what the heck <span class='_paradigm'>Fiat</span> means. But there is something, a feeling you have, that tells you that the system we live in is not quite right and you need to find an alternative. And, you are correct in that it is not quite right. Perhaps you are spending too much time at work. Or you are always on call, so to speak, ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one. <span class='_quotespan'>Don't worry, you will get a chance to rest when you get back,</span> but then you get back to bigger pile of work. Maybe you are fully aware of this or maybe you think that <span class='_quotespan'>this is life</span> </p>
