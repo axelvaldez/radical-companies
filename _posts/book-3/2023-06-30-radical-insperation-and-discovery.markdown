@@ -10,21 +10,23 @@ image:    "icon-radical-insperation-and-discovery.svg"
  <p>This booklet is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They want to, but they don&rsquo;t yet see it.</p>
 </div>
 
-<div class="_citation, _center">
- <table>
-  <tr>
-   <td style='font-family:times New Roman; font-size:300%; text-align:center; padding-top:20px; '>&ldquo;</td>
-  </tr>
-  <tr>
-   <td>
-    <p>I contend that we are both atheists. I just believe in one fewer god than you do.</p>
-    <p id='_signature'>Stephen Roberts</p>
-   </td>
-  </tr>
-  <tr>
-   <td style='font-family:times New Roman; font-size:300%; text-align:center; padding-bottom:0px; '>&rdquo;</td>
-  </tr>
- </table>
+<div class='_citation'>
+ <div class='_center'>
+  <table>
+   <tr>
+    <td style='font-family:times New Roman; font-size:300%; text-align:center; padding-top:20px; '>&ldquo;</td>
+   </tr>
+   <tr>
+    <td>
+     <p>I contend that we are both atheists. I just believe in one fewer god than you do.</p>
+     <p id='_signature'>Stephen Roberts</p>
+    </td>
+   </tr>
+   <tr>
+    <td style='font-family:times New Roman; font-size:300%; text-align:center; padding-bottom:0px; '>&rdquo;</td>
+   </tr>
+  </table>
+ </div>
 </div>
 
 <h1>Introduction</h1>
