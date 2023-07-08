@@ -22,7 +22,7 @@ image:    "icon-radical-insperation-and-discovery.svg"
    </td>
   </tr>
   <tr>
-   <td style='font-family:times New Roman; font-size:xx-large; text-align:center; padding-bottom:0px; '>&rdquo;</td>
+   <td style='font-family:times New Roman; font-size:300%; text-align:center; padding-bottom:0px; '>&rdquo;</td>
   </tr>
  </table>
 </div>
