@@ -10,22 +10,22 @@ image:    "icon-radical-insperation-and-discovery.svg"
  <p>This booklet is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They want to, but they don&rsquo;t yet see it.</p>
 </div>
 
- <div class="_citation, _center">
-  <table>
-   <tr>
-    <td style='font-family:times New Roman; font-size:300%; text-align:center; padding-top:20px; '>&ldquo;</td>
-   </tr>
-   <tr>
-    <td>
-      <p>I contend that we are both atheists. I just believe in one fewer god than you do.</p>
-      <p id='_signature'>Stephen Roberts</p>
-    </td>
-   </tr>
-   <tr>
-    <td style='font-family:times New Roman; font-size:xx-large; text-align:center; padding-bottom:0px; '>&rdquo;</td>
-   </tr>
-  </table>
- </div>
+<div class="_citation, _center">
+ <table>
+  <tr>
+   <td style='font-family:times New Roman; font-size:300%; text-align:center; padding-top:20px; '>&ldquo;</td>
+  </tr>
+  <tr>
+   <td>
+    <p>I contend that we are both atheists. I just believe in one fewer god than you do.</p>
+    <p id='_signature'>Stephen Roberts</p>
+   </td>
+  </tr>
+  <tr>
+   <td style='font-family:times New Roman; font-size:xx-large; text-align:center; padding-bottom:0px; '>&rdquo;</td>
+  </tr>
+ </table>
+</div>
 
 <h1>Introduction</h1>
  <p>You are about to learn about an alternative to the way we live, where traditional boundaries crumble. Be ready for a journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world. Imagine a way of living where the relentless pursuit of progress fuels transformation. Radical encourages the audacity of dreams, where pioneers emerge to lead the way into uncharted territories, groundbreaking ideas that invite you to be part of a movement that shapes the future.</p>
