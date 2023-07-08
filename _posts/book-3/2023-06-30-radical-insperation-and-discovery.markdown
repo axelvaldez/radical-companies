@@ -38,7 +38,7 @@ image:    "icon-radical-insperation-and-discovery.svg"
  <p>Join our community of like-minded people, where collaboration is a cornerstone. We aim to achieve what was once deemed impossible and create a worl driven by contributions, not capital. We aim to leave an indelible mark on the world.
  <p>Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpasses expectations, and transform ownership. Dare to challenge the boundaries.</p>
 
-<h1>Modern Ills</h1>
+<h1>Alternatives</h1>
  <p>If you are feeling overwhelmed by work, it is not a matter of working harder. That is what your boss tells you, and even your well-meaning co-workers. That is what every business book says, to search for excellence,  acquire new habits to move up, do more with less effort. But it is not you, but the system that we call <span class='_paradigm'>Fiat</span>.</p>
  <p>The <span class='_paradigm'>Fiat</span> system is designed to create more wealth for the owners and investors of the business you work for.</p>
  <p>The thing is that we created it, and we can create an alternative system, an alternative way of living.</p>
@@ -65,16 +65,21 @@ image:    "icon-radical-insperation-and-discovery.svg"
  <p>If you are not open to this and are just being polite (<span class='_quotespan'>Sounds interesting&hellip; tell me more about about it</span>), return this booklet. Sorry for the inconvenience.</p>
 
 <h1>Fiat?</h1>
- <p>You don&rsquo;t see <span class='_paradigm'>Fiat</span>. You may not even know what the heck <span class='_paradigm'>Fiat</span> means. But there is something, a feeling you have, that tells you that the system we live in is not quite right and you need to find an alternative. And, you are correct in that it is not quite right. Perhaps you are spending too much time at work. Or you are always on call, so to speak, ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one. <span class='_quotespan'>Don't worry, you will get a chance to rest when you get back,</span> but then you get back to bigger pile of work. Maybe you are fully aware of this or maybe you think that <span class='_quotespan'>this is life</span> </p>
+ <p>You don&rsquo;t see <span class='_paradigm'>Fiat</span>; you may not even know what the heck <span class='_paradigm'>Fiat</span> means. But there is something, a feeling you have, that tells you that the system you and I live in is not quite right. And, you are correct in that it is not quite right. Perhaps you are spending too much time at work. Or you are always on call, so to speak, ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one, hoping for an attaboy and maybe a reward. <span class='_quotespan'>Don't worry, you will get a chance to rest when you get back,</span> but then you get back to a bigger pile of work.</p>
+ <p>Maybe you are fully aware of this or maybe you think that this is our destiny. But it is not &ldquo;our destiny&rdquo;, it is not living.</p>
+ <p>We want to help you see <span class='_paradigm'>Fiat</span> and how it is causing the way you feel.</p>
 
 <h1>What Does Fiat Even Mean?</h1>
- <p>The fisrt reaction to the word <span class='_paradigm'>Fiat</span> is that it&rsquo;s a car. And it is, an Italian automobile brand that stands for <em>Fabbrica Italiana Automobili Torino.</em> But what does the work <span class='_paradigm'>Fiat</span> mean?</p>
- <p>The word <span class='_paradigm'>Fiat</span> is also an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> It also carries an implied <span class='_quotespan'>&hellip; or else</span> with it, as in <span class='_quotespan'>move those boxes over there (because I say so&hellip; or else).</span></p>
+ <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> it&rsquo;s a car.</span> And it is an Italian automobile brand that stands for <em>Fabbrica Italiana Automobili Torino.</em> Thus the acronym, FIAT.</p>
+ <p>But what does <em>the word</em> <span class='_paradigm'>Fiat</span> mean?</p>
+ <p><span class='_paradigm'>Fiat</span> is an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> <span class='_paradigm'>Fiat</span> money, for example, is worth what each nation says it is. Money used to be an equivalent to gold, but that stopped in the 70s. Now it is <span class='_quotespan'>because the country says so (and nominally its economy).</span>.</p>
+ <p>In the context of giving orders, the phrase additionally carries an implied threat: <span class='_quotespan'>or else.</span></p>
+ <p><span class='_quotespan'>Move those boxes over there</span> because I say so,&hellip; or else.</span></p>
 
 <h1>The Fiat System</h1>
- <p>We live in a <span class='_paradigm'>Fiat</span> environment, or more accurately, a <span class='_paradigm'>Fiat</span> <em>system</em>. Some people <em>do not</em> like the word <em>system</em> associated with their lives, and that is understandable. <span class='_quotespan'>My life is not limited by a system, I shape it however I want to.</span> However, that is what it is: you and I live within a system.</p>
- <p>We created the system and we maintain it. We use money, coined power, is the medium of exchange, within the <span class='_paradigm'>Fiat</span> system. You have a boss, within the <span class='_paradigm'>Fiat</span> system. You work for a wage, within the <span class='_paradigm'>Fiat</span> system. These are a elements of the <span class='_paradigm'>Fiat</span> system that we created, we live in, and we uphold.</p>
- <p>Worse, the <span class='_paradigm'>Fiat</span> system is based on competition, not collaboration. It based on dividing people, not bringing them together. And worst of all, it is based on threats, fear, force, and pain. It extracts the wealth that the majority people create and turns it into profits for a few owners. The <span class='_paradigm'>Fiat</span> system does not for the majority of us. And even the people it purportedly benefiting pay a huge price for it.</p>
+ <p>We live in a <span class='_paradigm'>Fiat</span> environment, or more accurately, a <span class='_paradigm'>Fiat</span> <em>system</em>. Some people <em>do not</em> like the word <em>system</em> associated with their lives, and that is understandable. <span class='_quotespan'>My life is not limited by a system, I shape it however I want to.</span> However, you and I live within a system that has been evolving for quite a while.</p>
+ <p>We created the system and we maintain it. You have a boss, within the <span class='_paradigm'>Fiat</span> system. You work for a wage, within the <span class='_paradigm'>Fiat</span> system. And within the <span class='_paradigm'>Fiat</span> system, you produce wealth for the business you work for, not for yourself. These are a elements of the <span class='_paradigm'>Fiat</span> system that we created, we live in, and we uphold.</p>
+ <p>Worse, the <span class='_paradigm'>Fiat</span> system is based on competition, not collaboration. It based on dividing people, not bringing them together. It is based on threats, fear, force, and pain. The <span class='_paradigm'>Fiat</span> system does not work for the majority of us and even the wealthiest people.</p>
  <p>Luckily, there are alternatives to the <span class='_paradigm'>Fiat</span> system.</p>
 
 <h1>It Starts with Rules</h1>
@@ -83,12 +88,13 @@ image:    "icon-radical-insperation-and-discovery.svg"
  <p>Lucky that we are, we go to primary school, where we learn more rules. We also start to learn the sanctioned view of the world. <span class='_quotespan'>That will be on the test!</span> In primary school, too, is when we start to put on the <span class='_paradigm'>Fiat</span> glasses.</p>
   <div class='_center'>
    <img
-    src='/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg'
+    src='/assets/img/pic-fiat-not-fiat-glass.svg'
     width='70%'
     alt=''>
   </div>
- <p>If we happen to be live in an &ldquo;advanced&rdquo; country, we go to secondary school. By then the glasses are on all the time, we are simple fiddling with them and learning to make them more comfortable. No matter, we make sure that the <span class='_paradigm'>Fiat</span> lenses are never, ever off. We want to stay far away from the edge.</p>
- <p>Finally, we go to work, with our <span class='_paradigm'>Fiat</span> glasses firmly on. We ask what the rules are and how to be a good worker.  We are happy to be a resource and happier that we are getting a steady wage (until, surprise, we are not). We learn to be kind and condescending to the ones whose glasses are skewed and not fitting correctly. <span class='_quotespan'>We do our best for these people, but they just don&rsquo;t want to learn the rules.</span></p>
+ <p>If we happen to be live in an &ldquo;advanced&rdquo; country, we go to secondary school. By then the glasses are on all the time, we are simple fiddling with them and learning to make them more comfortable. No matter, we make sure that the <span class='_paradigm'>Fiat</span> lenses are never, ever off. We want to stay away from the people who don't know how to wear the glasses correctly.</p>
+ <p>Finally, we go to work, with our <span class='_paradigm'>Fiat</span> glasses firmly on. We ask what the rules are and how to be a good worker.  We are happy to be a resource and happier that we are getting a steady wage (until, surprise, we are not).</p>
+ <p>We learn to be kind and condescending to the ones whose glasses are skewed and not fitting correctly. <span class='_quotespan'>We do our best for these people, but they just don&rsquo;t want to learn the rules.</span> They want to live in the edge.</p>
  
 <h1>The Fiat System Is&hellip;</h1>
  <p>That is what <span class='_paradigm'>Fiat</span> <strong>system</strong> is,
@@ -97,29 +103,40 @@ image:    "icon-radical-insperation-and-discovery.svg"
    <li>Following the rules,</li>
    <li>Enforcing the rules.</li>
   </ul>
- <p>Think of what happens <em>when you get caught</em> not following the rules.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> Think of how many decision you have made, now think if you did it without considering in the back of your head what your boss would think of it. <span class='_quotespan'>Bob would want it this way</span>. Think of how many times you have said, <span class='_quotespan'>I am pretty sure that Bob is not going tot like it!</span> You can&rsquo;t make a decision without considering Bob. <span class='_quotespan'>How else would the system work? Things would not work without Bob.</span> That&rsquo;s what constantly happens in a <span class='_paradigm'>Fiat</span> system. You do what you do <em>because of Bob, the boss</em>.</p>
+ <p>Think of what happens <em>when you get caught</em> not following the rules.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> Think of how many decision you have made, now think of how you considered in the back of your head what your boss would think of it. Think of how many times you have said, <span class='_quotespan'>I am pretty sure that Bob is not going tot like it!</span> You can&rsquo;t make a decision without considering Bob.</p>
+ <p>You may be thinking, <span class='_quotespan'>How else would the system work? Things would not work without Bob.</span> That&rsquo;s part of what we learn as we grow up in the <span class='_paradigm'>Fiat</span> system. It is Bob or chaos. You do what you do because of Bob, the boss.</p>
  </p>
 
-<h1>The Book</h1>
- <p>The rest of the book takes it one theme are a time. It then compares how it works in a <span class='_paradigm'>Fiat</span> system and how it would work in a non-<span class='_paradigm'>Fiat</span> system. Because I am describing a system, you may find the book repetitive.</p>
- <p>Even if you already see <span class='_paradigm'>Fiat</span> and its consequences, it might be worth skimming through the book not to be surprised when you tried to explain it to somebody else and the questions come (and keep coming).</p>
+<h1>The Booklet</h1>
+ <p>The rest of the booklet takes it one theme are a time. It then compares how it works in a <span class='_paradigm'>Fiat</span> system and how it would work in a non-<span class='_paradigm'>Fiat</span> system. Because I am describing a system, you may find the booklet repetitive.</p>
+ <p>Even if you already see <span class='_paradigm'>Fiat</span> and its consequences, it might be worth skimming through the booklet not to be surprised when you tried to explain it to somebody else and the questions come (and keep coming).</p>
 
 <h1 class='_section'>Themes</h1>
 
 <h1>Rules, Laws, and Force</h1>
- <p>Rules, followed by convention, eventually turn into <span class='_paradigm'>Fiat</span> laws which <em>you are <em>forced</em> to follow,</em></p>
+ <p>Rules, followed by convention, eventually turn into <span class='_paradigm'>Fiat</span> laws which you are <em>forced</em> to follow,</p>
   <ul>
-   <li>If you don&rsquo;t, you  get a ticket. A very minor form of force. You have to give up money (<em>i.e.</em>, coined force) to be spared the pain that would follow if you don&rsquo;t.</li>
+   <li>You  get a ticket. A very minor form of force. You have to give up money (<em>i.e.</em>, coined force) to be spared the pain that would follow if you don&rsquo;t.</li>
    <li>If you feel that is an injustice, you let it go to court (<em>i.e.</em>, another type of force).</li>
-   <li>If they rule in your behalf, you celebrate; if they don&rsquo;t, you are angry and you have to pay the ticket. Still minor force.</li>
-   <li>On the other hand, if you happen to be from the edge, it may get ugly and you may end up in prison. No longer a minor force.</li>
-   <li>In prison you end in a fight and you are maimed or killed or vice versa. Either way, it is definitely a <em>force majeure</em>.</li>
+   <li>If they rule in your behalf, you celebrate because you won, the force is with you. If they don&rsquo;t, you are angry and you have to pay the ticket. Still minor force.</li>
+   <li>On the other hand, if you happen to be from the edge, it may get ugly and you may end up in prison.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> No longer a minor force.</li>
+   <li>In prison you end, say, in a fight and you are maimed or killed or vice versa. Either way, it is definitely a <em>force majeure</em>.</li>
   </ul>
- <p>Force is ever present in out <span class='_paradigm'>Fiat</span> system. It goes from a frown to the electric chair. Withholding a prize because you did not said or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or the more euphemistic &ldquo;laying you off&rdquo; is a form of force. Raising you rent so your only option is to leave is a form of force. We are surrounded by a system that runs on force.</p>
- <p>Motivation is another form of force. <span class='_quotespan'>Do this and you&rsquo;ll get the reward.</span> Realize that that is coming from somebody else. You are &ldquo;motivated&rdquo; to do what somebody else wants. You may want to do something else but you have to do what is specified by someone else to get the reward. That is force.</p>
+ <p>Force is ever present in out <span class='_paradigm'>Fiat</span> system. It goes from a frown to the electric chair. Withholding a prize because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising you rent so your only option is to leave is a form of force. We are surrounded by a system that runs on theats to actual pain (<em>i.e.</em>, force).</p>
+ <p>Motivation is another form of force. <span class='_quotespan'>Do this and you&rsquo;ll get the reward.</span> We often don&rsquo;t realize that is coming from somebody else and we call it motivation. But you are being &ldquo;motivated&rdquo; to do what somebody else wants, regardless of you may want to do. That is force.</p>
  <p>---</p>
- <p>In an alternative to the <span class='_paradigm'>Fiat</span> system there is no you-have-do-it-or-else force. The myth is that without <span class='_paradigm'>Fiat</span> force we would never do anything of significance, we would never do anything bigger than ourselves. And is a myth because we managed to survive as a species. We invented agriculture. Agriculture spread to all corners of the earth. We managed to do all that and more without anybody telling how to do it.<p>
- <p>Then came the people who took things by force, because they had nothing to trade but force. And then came money, coinage which allowed them to trade the wealth that the rest of us created. And slowly by surely the Fiat system took shape with us in it. And we believe the stories that came up to support it; a top supernatural being, paradise, Eve and the bad apple, and eating shellfish as an abomination. And we believe these Iron age stories to these days. Including the stories about work and how that elevates above the crowd, definitely above the people from the edge.</p>
+ <p>In an alternative to the <span class='_paradigm'>Fiat</span> system there is no do-it-or-else force. This goes againt the myth that without <span class='_paradigm'>Fiat</span> force we would never do anything of significance, we would never do anything bigger than ourselves.</p>
+ <p>But considere that humanity managed to survive as a species. We invented agriculture. Agriculture spread to all corners of the earth. We managed to do all that and more without anybody telling us how to do it.<p>
+ <p>Then came the people who took things by force, because they had nothing to trade but force. And then came money, coinage which allowed them to trade the wealth that they extracted from you by force. And slowly by surely the <span class='_paradigm'>Fiat</span> system took shape around us.</p>
+ <p>Then came the stories that supported it,</p>
+  <ul>
+   <li>An all powerful supernatural being at the top</li>
+   <li>Paradise</li>
+   <li>Eve as the bad apple</li>
+   <li>Homosexuality and shellfish as abominations.</li>
+   <li><span class='_quotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ.<a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></li>
+  </ul>
+ <p>And to this day, we believe these Iron age stories. Including the story about how work would elevate us above the crowd and keep us out of the edge.</p>
  <p>Most insidious of all, we learn to expect that the fruit of our work would go to someone else, the smaller god, the omnipotent being at the top, the boss. And that we get paid what the boss says we should get paid.</p>
  <p>It didn&rsquo;t start this way, but it evolved. First came prisoners of minor wars, that were made to carry whatever the winners didn&rsquo;t want to carry. At the end they either joined the winners (after all, they were related) or they went back to their village. Then came slavery, they kep you as a worthless worker because they have the force. Finally came work in exchange for wage. This is the general direction of the evolution, from forced labor by sheer force to forced labor by coin. Different form of force, but force throughout.</p>
  <p>This got absorbed by the Fiat system to the point that &ldquo;being a good worker&rdquo; is a sign of pride today. There is nothing strange about it, it is normal. The alternative is chaos, to be avoided at all costs. Anybody talking alternatives (you and I) must be crazy.</p>
@@ -297,6 +314,22 @@ image:    "icon-radical-insperation-and-discovery.svg"
     <a class='_uparrow' href='#bm01'><img src='/assets/img/arrow-up-icon.png'></a>
    </p>
   </li>
+  <li id='en02'>
+   <p class='_list-item'>
+    <em>Can I go to Jail for a Traffic Ticket?</em>
+    &lt;<a href='https://radicals.world/64LLrH' target='_blank'>https://radicals.world/64LLrH</a>&gt;
+    hg.org
+    <a class='_uparrow' href='#bm02'><img src='/assets/img/arrow-up-icon.png'></a>
+   </p>
+  </li>
+  <li id='en03'>
+   <p class='_list-item'>
+    &lt;<a href='https://radicals.world/EzlUyO' target='_blank'>https://radicals.world/EzlUyO</a>&gt;
+    Ephesians 6:5-9
+    <a class='_uparrow' href='#bm03'><img src='/assets/img/arrow-up-icon.png'></a>
+   </p>
+  </li>
+  
  </ul>
 
 {% include related.html %}
