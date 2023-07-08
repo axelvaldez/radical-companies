@@ -82,6 +82,24 @@ image:    "icon-ptsd-and-trust.svg"
    </table>
   </div> 
 
+<!-- CITATION Table> -->
+<div class="_citation, _center">
+ <table>
+  <tr>
+   <td style='font-family:times New Roman; font-size:300%; text-align:center; padding-top:20px; '>&ldquo;</td>
+  </tr>
+  <tr>
+   <td>
+    <p>Quote</p>
+    <p id='_signature'>signature</p>
+   </td>
+  </tr>
+  <tr>
+   <td style='font-family:times New Roman; font-size:300%; text-align:center; padding-bottom:0px; '>&rdquo;</td>
+  </tr>
+ </table>
+</div>
+
 <!-- Two-Column Table -->
   <div class='_center'>
    <table class='_h2table'>
