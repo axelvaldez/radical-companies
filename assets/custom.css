@@ -491,7 +491,7 @@ div table._background, div table._foundation {
   align-items:center;
   padding-top:10px;
   font-size:larger;
-  content:open-quote;
+  content:open-quote+'\00a0\00a0\00a0';
 }
 ._adorned::after {
   align-items:center;
