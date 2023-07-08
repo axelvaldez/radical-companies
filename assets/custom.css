@@ -336,6 +336,7 @@ span._paradigm {
   font-family:sans-serif;
   font-size:small;
 }
+
 /*
  * _quotation & _citation
  */
@@ -358,12 +359,12 @@ span._paradigm {
   text-align:center;
   */
 }
-  
 ._citation #_signature::before, 
 ._citation._signature::before  {
   text-indent:-0.3em;
   content:"— ";
 }
+
 /*
  * dialog: begin
  */
