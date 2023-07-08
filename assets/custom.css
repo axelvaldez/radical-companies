@@ -489,14 +489,15 @@ div table._background, div table._foundation {
 }
 ._adorned::before {
   align-items:center;
-  padding-top:10px;
+  padding-top:20%;
   font-size:larger;
-  content:open-quote+'\00a0\00a0\00a0';
+  content:open-quote;
 }
 ._adorned::after {
   align-items:center;
+  font-size:larger;
   content:close-quote;
-  padding-bottom:10px;
+  padding-bottom:20px;
 }
 ._mb0 {
   margin-bottom:0;
