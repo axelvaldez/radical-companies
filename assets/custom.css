@@ -356,6 +356,7 @@ span._paradigm {
   display: block;
   text-indent:-1em;
   font-style:italic;
+  font-family:cursive;
   padding-top:10px;
   margin:0 0.5em .5em 10%;
   text-align:center;
@@ -486,6 +487,9 @@ div table._background, div table._foundation {
   align-items:center;
   display:grid;
   place-items:center;
+}
+._adorned {
+  font-size:larger;
 }
 ._mb0 {
   margin-bottom:0;
