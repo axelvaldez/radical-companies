@@ -10,8 +10,10 @@ image:    "icon-radical-insperation-and-discovery.svg"
  <p>This booklet is for people who don&rsquo;t quite see <span class='_paradigm'>Fiat</span>. They want to, but they don&rsquo;t yet see it.</p>
 </div>
 
+<!--
 <div class="_citation">
- <div class="_center">
+-->
+ <div class="_citation, _center">
   <table>
    <tr>
     <td style='font-family:times New Roman; font-size:xx-large; text-align:center; padding-top:20px; '>&ldquo;</td>
