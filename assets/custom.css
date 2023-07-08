@@ -340,18 +340,10 @@ span._paradigm {
  * _quotation & _citation
  */
 ._quotation, ._citation {
-  text-align:center;
-  /*
-  font-size:smaller;
-  */
   font-family:'Courier New', Courier, monospace;
   background-color:AntiqueWhite;
-  white-space:normal;
-  border:CadetBlue 4px solid;
+  border:peru 4px solid;
   width:80%;
-  /*
-  margin:0 auto 30px auto;
-  */
   padding:10px 40px 0 40px;
 }
 ._citation #_signature, 
@@ -361,9 +353,12 @@ span._paradigm {
   font-style:italic;
   font-family:cursive;
   padding-top:10px;
+  /*
   margin:0 0.5em .5em 10%;
   text-align:center;
+  */
 }
+  
 ._citation #_signature::before, 
 ._citation._signature::before  {
   text-indent:-0.3em;
