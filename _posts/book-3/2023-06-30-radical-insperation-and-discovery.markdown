@@ -18,7 +18,7 @@ image:    "icon-radical-insperation-and-discovery.svg"
    </tr>
    <tr>
     <td>
-     <p>I contend that we are both atheists. I just believe in one fewer god than you do.</p>
+      <p style='font-size:150%; '>I contend that we are both atheists. I just believe in one fewer god than you do.</p>
      <p id='_signature'>Stephen Roberts</p>
     </td>
    </tr>
@@ -47,7 +47,7 @@ image:    "icon-radical-insperation-and-discovery.svg"
     </tr>
     <tr>
      <td>
-      <p>Creativity takes courage.</p>
+      <p style='font-size:150%; '>Creativity takes courage.</p>
       <p id='_signature'>Henri Matisse</p>
      </td>
     </tr>
