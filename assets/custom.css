@@ -348,12 +348,11 @@ span._paradigm {
   background-color:AntiqueWhite;
   white-space:normal;
   border:CadetBlue 4px solid;
-  /*
   width:80%;
+  /*
   margin:0 auto 30px auto;
   */
-  padding:0 auto .5em  auto;
-  padding:10px 20px 0 20px;
+  padding:10px 40px 0 40px;
 }
 ._citation #_signature, 
 ._citation._signature {
