@@ -344,7 +344,6 @@ span._paradigm {
   font-family:'Courier New', Courier, monospace;
   background-color:AntiqueWhite;
   border:peru 4px solid;
-  width:80%;
   padding:10px 40px 0 40px;
 }
 ._citation #_signature, 
@@ -354,10 +353,6 @@ span._paradigm {
   font-style:italic;
   font-family:cursive;
   padding-top:10px;
-  /*
-  margin:0 0.5em .5em 10%;
-  text-align:center;
-  */
 }
 ._citation #_signature::before, 
 ._citation._signature::before  {
