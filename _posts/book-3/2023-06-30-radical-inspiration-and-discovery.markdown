@@ -336,13 +336,12 @@ image:    "icon-radical-inspiration-and-discovery.svg"
             <p style='text-indent:1em; '>&hellip;</p>
           </td>
          </tr>
-        </table>x
+        </table>
        </div>
-     </table>y
-    </td>
-   </tr>
- </table>z
-</div>
+     </td>
+    </tr>
+   </table>
+  </div>
 
 <h1>Fiat and Radical</h1>
  <h2>Fiat</h2>
