@@ -255,10 +255,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <p>The mobile app does the all the calculation.</p>
      </td>
     </tr>
-   </table>
-  </div>
-  <div class='_center'>
-   <table class='_h2table'>
     <tr>
      <th>But&hellip;</th>
      <td>
@@ -267,10 +263,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <p>An objection that I heard more than once is that <em>other</em> people are coin operated. They do not want to do anything for a community of society. My usual retort is, <span class='_quotespan'>what about family?</span> The thing is that <em>homo economicus</em> is one of those convenient stories that popped up to support the <span class='_paradigm'>Fiat</span> system. People have to survive and they will go to kinds of length to do it, but survival, though necessary, is not living.</p>
      </td>
     </tr>
-   </table>
-  </div>
-  <div class='_center'>
-   <table class='_h2table'>
     <tr>
      <th>Capital</th>
      <td>
@@ -301,13 +293,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <td>
       <p>But what about investing in the future? Owners don&rsquo;t put all the profits in the pocket, they invest it!</p>
       <p>Indeed they do and co-owners can do the same. I make a distinction between profits and dividends, and the latter is what is left after paying all expenses, <em>including any investments</em>. For example, if the co-owners want to buy a $5M building, they would put up a <span class='_paradigm'>Banner</span> to accumulate that amount. They could decide to commit enough into the <span class='_paradigm'>Banner</span> to build up to $5M in three years. That amount is not be included in the dividends.</p>
-     <td>
+     </td>
     </tr>
-   </table>
-  </div>
-  <!--
-  <div class='_center'>
-   <table class='_h2table'>
     <tr>
      <th>Banners?</th>
      <td>
@@ -356,7 +343,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </tr>
  </table>
 </div>
--->
 
 <h1>Fiat and Radical</h1>
  <h2>Fiat</h2>
