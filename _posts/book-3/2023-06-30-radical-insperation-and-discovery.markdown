@@ -315,7 +315,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   </li>
   <li id='en04'>
    <p class='_list-item'>
-    And keep what ownership I&rsquo;ve earned to that point. More about that later.
+    And keep what ownership you&rsquo;ve earned to that point. More about that later.
     <a class='_uparrow' href='#bm04'><img src='/assets/img/arrow-up-icon.png'></a>
    </p>
   </li>
