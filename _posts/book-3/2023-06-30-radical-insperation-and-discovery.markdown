@@ -29,9 +29,9 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <tr>
      <td>
       <img
+       class='_center'
        src='/assets/img/pic-open-quote.svg'
-       width='15%'
-       class='_center'>
+       width='15%'>
      </td>
     </tr>
     <tr>
@@ -43,9 +43,9 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <tr>
      <td>
       <img
+       class='_center'
        src='/assets/img/pic-close-quote.svg'
-       width='15%'
-       class='_center'>
+       width='15%'>
      </td>
     </tr>
    </table>
