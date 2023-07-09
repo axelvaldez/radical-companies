@@ -48,7 +48,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <div class='_center'>
    <table>
     <tr>
-     <td style='font-family:times New Roman; font-size:400%; text-align:center; padding-top:20px; '>&ldquo;</td>
+     <td>
+      <img
+       src='/assets/img/pic-open-quote.svg'>
+     </td>
     </tr>
     <tr>
      <td>
@@ -57,7 +60,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </td>
     </tr>
     <tr>
-     <td style='font-family:times New Roman; font-size:400%; text-align:center; padding-bottom:0px; '>&rdquo;</td>
+     <td>
+      <img
+       src='/assets/img/pic-close-quote.svg'>
+     </td>
     </tr>
    </table>
   </div>
