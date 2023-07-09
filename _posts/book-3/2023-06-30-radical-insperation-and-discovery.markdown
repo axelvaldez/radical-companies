@@ -254,7 +254,7 @@ image:    "icon-radical-insperation-and-discovery.svg"
    <div style='padding-left:1rem; '>
     <table>
      <tr>
-      <td style='border:1px solid white; '>
+      <td style='border:1px solid green; '>
        <h2 style='padding-top:1rem; padding-bottom:0; font-size:smaller; '>Banner:</h2>
         <p style='text-indent:1em; '>Goal: $1M</p>
         <p style='text-indent:1em; '>Time: 3 years</p>
@@ -270,7 +270,7 @@ image:    "icon-radical-insperation-and-discovery.svg"
     <p style='text-indent:0; '>Or&hellip;</p>
     <table>
      <tr>
-      <td style='border:1px solid white; '>
+      <td style='border:1px solid green; '>
        <h2 style='padding-top:1rem; padding-bottom:0; font-size:smaller; '>Banner:</h2>
         <p style='text-indent:1em; '>Goal: $1M</p>
         <p style='text-indent:1em; '>Time: 3 years</p>
