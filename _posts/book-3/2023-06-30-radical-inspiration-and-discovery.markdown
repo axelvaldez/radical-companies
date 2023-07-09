@@ -337,6 +337,11 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
 <h1>Fiat and Radical</h1>
  <h2>Fiat</h2>
+  <p>I have already said a lot about <span class='_paradigm'>Fiat</span>. One thing I mentioned in passing is that <span class='_paradigm'>Fiat</span> evolved into the world view it is today. And like all things that evolve, they are not simple. Rules and laws came and went and morphed to adapt to their environment. For example, whereas the Christian Bible was admonishing slaves to &ldquo;obey your earthly masters&rdquo; that stopped being acceptable language in the lates 1800s (though women and children still had to obey their earthly master).</p>
+  <p>The <span class='_paradigm'>Fiat</span> model is at the base off all govenance, from most free democracies to the most brutal dictatorships. Can you think of a fully decentralized national government? I can't, either, because they don't exist.</p>
+ <h2>Radical</h2>
+  <p>Radical is a foundation, not an evolved system. Rational does not have rules, only a Foundation. The closest to rules is the mobile app that calculates recognized contribution to <span class='_paradigm'>RAD<s/span>s. That is it.</p>
+
  <h2>Non-Fiat</h2>
 
 <h1>Military and Force</h1>
