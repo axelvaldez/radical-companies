@@ -330,9 +330,9 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          </tr>
         </table>
        </div>
-      </table>
-     </td>
-    </tr>
+     </table>
+    </td>
+   </tr>
  </table>
 </div>
 
