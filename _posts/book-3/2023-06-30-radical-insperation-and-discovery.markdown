@@ -247,10 +247,9 @@ image:    "icon-radical-insperation-and-discovery.svg"
  <h2>But&hellip;</h2>
   <p>But what about investing in the future? Owners don&rsquo;t put all the profits in the pocket, they invest it!</p>
   <p>Indeed they do and co-owners can do the same. I make a distinction between profits and dividends, and the latter is what is left after paying all expenses, <em>including any investments</em>. For example, if the co-owners want to buy a $5M building, they would put up a <span class='_paradigm'>Banner</span> to accumulate that amount. They could decide to commit enough into the <span class='_paradigm'>Banner</span> to build up to $5M in three years. That amount is not be included in the dividends.</p>
-  <p>Investing in the future is covered.</p>
-  <p>Alternatively, all co-owners may not agree to commit any particular amount. In that case, the <span class='_paradigm'>Banner</span> would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
  <h2>Banners?</h2>
-  <p><span class='_paradigm'>Banner</span>s represent non-people things like projects and investments. With the <em><span class='_paradigm'>RAD</span>s! mobile app</em> you can create a <span class='_paradigm'>Banner</span>, change your contribution to it, see who is contributing, and the beneficiaries. For example, the dashboard may show something like this,
+  <p><span class='_paradigm'>Banner</span>s represent non-people things like projects and investments. With the <em><span class='_paradigm'>RAD</span>s! mobile app</em> you can create a <span class='_paradigm'>Banner</span>, change your contribution to it, see who is contributing, and the beneficiaries.</p>
+  <p>For the case, where all co-owners agree, the Banner Dashboard could lile this,</->
    <div style='padding-left:1rem; '>
     <table>
      <tr>
@@ -267,7 +266,9 @@ image:    "icon-radical-insperation-and-discovery.svg"
       </td>
      </tr>
     </table>
-    <p style='text-indent:0; '>Or&hellip;</p>
+   </div>
+  <p>Alternatively, all co-owners may not agree to commit any particular amount. In that case, the <span class='_paradigm'>Banner</span> would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
+   <div style='padding-left:1rem; '>
     <table>
      <tr>
       <td style='border:1px solid black; '>
