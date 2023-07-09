@@ -346,16 +346,17 @@ span._paradigm {
   border:peru 4px solid;
   padding:0 40px 0 40px;
 }
-._citation #_signature, 
-._citation._signature {
+#_signature, 
+._signature {
   display: block;
   text-indent:-1em;
   font-style:italic;
   font-family:cursive;
   padding-top:10px;
+  text-align:right;
 }
-._citation #_signature::before, 
-._citation._signature::before  {
+#_signature::before, 
+._signature::before  {
   text-indent:-0.3em;
   content:"— ";
 }
