@@ -255,14 +255,14 @@ image:    "icon-radical-insperation-and-discovery.svg"
     <table>
      <tr>
       <td style='border:1px solid white; '>
-       <h2 style='padding-top:1rem; padding-bottom:0; '>Banner:</h2>
+       <h2 style='padding-top:1rem; padding-bottom:0; font-size:smaller; '>Banner:</h2>
         <p style='text-indent:1em; '>Goal: $1M</p>
         <p style='text-indent:1em; '>Time: 3 years</p>
         <p style='text-indent:1em; '>Reason: To buy and furnish a building.</p>
         <p style='text-indent:1em; '>Beneficiaries: Building Fund.</p>
       </td>
       <td style='border:1px solid black; '>
-       <h2 style='padding-top:0; padding-bottom:0;  '>Contributions:</h2>
+       <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Contributions:</h2>
         <p style='text-indent:1em; '>All, $100.00</p>
       </td>
      </tr>
@@ -271,14 +271,14 @@ image:    "icon-radical-insperation-and-discovery.svg"
     <table>
      <tr>
       <td style='border:1px solid white; '>
-       <h2 style='padding-top:1rem; padding-bottom:0; '>Banner:</h2>
+       <h2 style='padding-top:1rem; padding-bottom:0; font-size:smaller; '>Banner:</h2>
         <p style='text-indent:1em; '>Goal: $1M</p>
         <p style='text-indent:1em; '>Time: 3 years</p>
         <p style='text-indent:1em; '>Reason: To buy and furnish a building.</p>
         <p style='text-indent:1em; '>Beneficiaries: Building Fund.</p>
       </td>
       <td style='border:1px solid black; '>
-       <h2 style='padding-top:0; padding-bottom:0;  '>Contributions:</h2>
+       <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Contributions:</h2>
         <p style='text-indent:1em; '>Mary O, $100.00</p>
         <p style='text-indent:1em; '>Anita P, 0.25% de $1M</p>
         <p style='text-indent:1em; '>Salim Q, 5.00% of <span class='_paradigm'>RAD</span>s yield</p>
