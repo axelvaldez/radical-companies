@@ -27,9 +27,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <div class='_center'>
    <table>
     <tr>
-     <td>
+     <td class='_center'>
       <img
-       class='_center'
        src='/assets/img/pic-open-quote.svg'
        width='15%'>
      </td>
@@ -41,9 +40,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </td>
     </tr>
     <tr>
-     <td>
+     <td class='_center'>
       <img
-       class='_center'
        src='/assets/img/pic-close-quote.svg'
        width='15%'>
      </td>
