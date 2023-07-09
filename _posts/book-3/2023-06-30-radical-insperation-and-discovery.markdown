@@ -141,66 +141,94 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of kingdoms that were mostly nations or were cleansed by force.</p>
   <p>For example, before Fernando and Isabel sent their minions to the Americas, they cleansed most of their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act as Catholics and speak Castillian (or else). In fact, the Inquisition made sure that the converted were truly convicing Catholics and spoke the language of the Church.</p>
   <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered.</p>
- <h2>Divide and Conquer</h2>
-  <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inhereted last names are the man&rsquo;s. The &ldquo;ez&rdquo; at the end of Spanish nanes is the equivalent to the &ldquo;apostrophe s&rdquo; in Enghlish, &ldquo;the property of.&rdquo; <span class='_quotespan'>Men were the kings of their castle</span> and women were chattel.</p>
-  <p>It all was bundled with a strong ideology that created an institution and women became pillars of it. <span class='_quotespan'>Eve was the bad apple,</span> and she had better submit for salvation. And women covered their hair and wore burkas as a matter of duty.</p>
-  <p>As Christianity spread at the spear-end of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans and poor non-Europeans. The wealthier was treated better and oftentimes put in charge.</p>
-  <p>We are still struggling with that attitude today, thousands of years later. <span class='_quotespan'>We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us.</span></p>
- <h2>Lording</h2>
-  <p>With men lording over half of the population, it was easier for a few to lord over men. They could appeal to the stories and the made up history to support this convenient idealogy which also supported the making of kingdoms and empires.</p>
-  <p>The Jewish tradition, Christianity, and Islam have an eternal boss named God. All powerful, at the top. You would dare to even think of equitable to such power, you can only submit to God.</p>
-  <p>In Christianity, the Pope is the only one that could understand what God meant with his signs.</p>
- <p>---</p>
+  <table class='_center, _h2table'>
+   <tr>
+    <th>Divide and Conquer</th>
+    <td>
+     <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inhereted last names are the man&rsquo;s. The &ldquo;ez&rdquo; at the end of Spanish nanes is the equivalent to the &ldquo;apostrophe s&rdquo; in Enghlish, &ldquo;the property of.&rdquo; <span class='_quotespan'>Men were the kings of their castle</span> and women were chattel.</p>
+     <p>It all was bundled with a strong ideology that created an institution and women became pillars of it. <span class='_quotespan'>Eve was the bad apple,</span> and she had better submit for salvation. And women covered their hair and wore burkas as a matter of duty.</p>
+     <p>As Christianity spread at the spear-end of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans and poor non-Europeans. The wealthier was treated better and oftentimes put in charge.</p>
+     <p>We are still struggling with that attitude today, thousands of years later. <span class='_quotespan'>We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us.</span></p>
+    </td>
+   </tr>
+   <tr>
+    <th>Lording</th>
+    <td>
+     <p>With men lording over half of the population, it was easier for a few to lord over men. They could appeal to the stories and the made up history to support this convenient idealogy which also supported the making of kingdoms and empires.</p>
+     <p>The Jewish tradition, Christianity, and Islam have an eternal boss named God. All powerful, at the top. You would dare to even think of equitable to such power, you can only submit to God.</p>
+     <p>In Christianity, the Pope is the only one that could understand what God meant with his signs.</p>
+    </td>
+   </tr>
+  </table>
+
  <h2>Non-Fiat</h2>
   <p>In an alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in supernatural beings, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore; in fact, that particular believe works against our survival as a species.</p>
   <p>The alternative is not chaos, but it is certainly different,</p>
- <h2>Community</h2>
-  <ul>
-   <li>I trust my decentralized and fully transparent community.</li>
-   <li>What is going to keep my community growing is what&rsquo;s good for us.</li>
-   <li>People in my community listen to me. They help make my ideas easier to understand. They help me find meaning.</li>
-   <li>And if that is not the case, I leave<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a>.</li>
-  </ul>
- <h2>Foundation</h2>
-  <p>This is the <span class='_paradigm'>Foundation</span> of a community,</p>
-   <ul>
-    <li>A community must help find Meaning. This is a community that I want to Belong to.</li>
-    <li>To work for <em>every</em> member, the community must be fully decentralized and transparent.</li>
-    <li>Members are free to experiment. Not meeting the expect result, means that we learn how not to do it.</li>
-   </ul>
- <h2>Alignment</h2>
-  <p>But the <span class='_paradigm'>Foundation</span> is not enough, it needs an <span class='_paradigm'>Explicit Alignment</span>,</p>
-   <ul>
-    <li>To hold us together a community must define the <em>what for</em>, the <span class='_paradigm'>Impact</span> it wants to have on the world.</li>
-    <li>It must be explicit about the <em>why</em>, its <span class='_paradigm'>Purpose</span> that made it come together as a community.</li>
-    <li>The community can then define the <em>what, when, and how,</em> of each <span class='_paradigm'>Mission</span> of the work it needs to do.</li>
-   </ul>
-   <div class='_center'>
-    <img
-     src='/assets/img/pic-explicit-alignment-en.svg'
-     width='70%'
-     alt=''>
-    </div>
-   <p>It is <em>explicit</em> in that it lays it all out for all to know; there are no dark corners where need-to-know information is kept away from view.</p>
-   <p>It is &ldquo;alignment&rdquo; in the sense that it that it ties people together into a community with something in common.</p>
-   <p>To be clear,</p>
-    <ul>
-     <li>If the <em>what for</em>, the <span class='_paradigm'>Impact</span>, is not your thing, then you don&rsquo;t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed at it because it is very, very difficult.</li>
-     <li>If the <em>why</em>, the <span class='_paradigm'>Purpose</span>, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn&rsquo;t work, you don&rsquo;t join the community.</li>
-     <li>The <em>what, when, and how</em>, the <span class='_paradigm'>Mission</span>, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create you own with the support of the community.</li>
-    </ul>
- <h2>No Divisions</h2>
-  <p>All members are co-owners of the community. If their goal is to build products or services it would be called a company, which is different from a business,</p>
-   <ul>
-    <li>Businesses is what we are used to. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You work at a business for a wage agreed upon by the owner or his delegate.</li>
-    <li>
-     <p>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not <em>equal</em>, as in co-ops, but it is equitable based on contributions.</p>
-     <p>BTW, the word company comes from Latin <em>co</em>, meaning <em>together</em>, and <em>pan</em>, meaning <em>bread</em>.</p>
-    </li>
-    <li>The level of co-ownership is determined by contributions, not capital.</li>
-    <li>These contributions are recognized by all other co-owners.</li>
-   </ul>
-  <p>And, yes, there is an app for that.</p> 
+  <table class='_center, _h2table'>
+   <tr>
+    <th>Community</th>
+    <td>
+     <ul>
+      <li>I trust my decentralized and fully transparent community.</li>
+      <li>What is going to keep my community growing is what&rsquo;s good for us.</li>
+      <li>People in my community listen to me. They help make my ideas easier to understand. They help me find meaning.</li>
+      <li>And if that is not the case, I leave<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a>.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Foundation</th>
+    <td>
+     <p>This is the <span class='_paradigm'>Foundation</span> of a community,</p>
+      <ul>
+       <li>A community must help find Meaning. This is a community that I want to Belong to.</li>
+       <li>To work for <em>every</em> member, the community must be fully decentralized and transparent.</li>
+       <li>Members are free to experiment. Not meeting the expect result, means that we learn how not to do it.</li>
+      </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Alignment</th>
+    <td>
+     <p>But the <span class='_paradigm'>Foundation</span> is not enough, it needs an <span class='_paradigm'>Explicit Alignment</span>,</p>
+      <ul>
+       <li>To hold us together a community must define the <em>what for</em>, the <span class='_paradigm'>Impact</span> it wants to have on the world.</li>
+       <li>It must be explicit about the <em>why</em>, its <span class='_paradigm'>Purpose</span> that made it come together as a community.</li>
+       <li>The community can then define the <em>what, when, and how,</em> of each <span class='_paradigm'>Mission</span> of the work it needs to do.</li>
+      </ul>
+       <div class='_center'>
+        <img
+         src='/assets/img/pic-explicit-alignment-en.svg'
+         width='70%'
+         alt=''>
+       </div>
+     <p>It is <em>explicit</em> in that it lays it all out for all to know; there are no dark corners where need-to-know information is kept away from view.</p>
+     <p>It is &ldquo;alignment&rdquo; in the sense that it that it ties people together into a community with something in common.</p>
+     <p>To be clear,</p>
+      <ul>
+       <li>If the <em>what for</em>, the <span class='_paradigm'>Impact</span>, is not your thing, then you don&rsquo;t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed at it because it is very, very difficult.</li>
+       <li>If the <em>why</em>, the <span class='_paradigm'>Purpose</span>, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn&rsquo;t work, you don&rsquo;t join the community.</li>
+       <li>The <em>what, when, and how</em>, the <span class='_paradigm'>Mission</span>, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create you own with the support of the community.</li>
+      </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>No Divisions</th>
+    <td>
+     <p>All members are co-owners of the community. If their goal is to build products or services it would be called a company, which is different from a business,</p>
+      <ul>
+       <li>Businesses is what we are used to. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You work at a business for a wage agreed upon by the owner or his delegate.</li>
+       <li>
+        <p>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not <em>equal</em>, as in co-ops, but it is equitable based on contributions.</p>
+         <p>BTW, the word company comes from Latin <em>co</em>, meaning <em>together</em>, and <em>pan</em>, meaning <em>bread</em>.</p>
+       </li>
+       <li>The level of co-ownership is determined by contributions, not capital.</li>
+       <li>These contributions are recognized by all other co-owners.</li>
+      </ul>
+     <p>And, yes, there is an app for that.</p>
+    </td>
+   </tr>
+  </table>
 
 <h1>Capital and Contributions</h1>
  <h2>Fiat</h2>
@@ -224,6 +252,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <p>At this point you may be coming up with objections, <span class='_quotespan'>Yeah, but it can be easily gamed: I&rsquo;ll give you all my <span class='_paradigm'>RAD</span>s and you give me all of yours.</span> And yes, it could, but only if the other co-owners do not say anything about. Because of &ldquo;Transparency,&rdquo; they can see all the transactions and it is up to the co-owners to say or do something. They can have a conversation with people who seem to be trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of their contributions because they are doing something that make co-ownership a joke.</span></p>
   <p>Another objection might be that people won&rsquo;t want to take the time to recognize contributions. They may do it at first, but then they will stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won&rsquo;t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then, I hope, they will go back to doing it. If not, the company will fall apart. On the way to a non-<span class='_paradigm'>Fiat</span> alternative things won&rsquo;t go perfect or smoothly. There will be plenty of bumps along the way. The &rdquo;fix&ldquo; is not to elect a boss to tell us what to do, the &rdquo;fix&ldquo; is to fix what is in your hands&mdash;you are all co-owners.</p>
   <p>An objection that I heard more than once is that <em>other</em> people are coin operated. They do not want to do anything for a community of society. My usual retort is, <span class='_quotespan'>what about family?</span> The thing is that <em>homo economicus</em> is one of those convenient stories that popped up to support the <span class='_paradigm'>Fiat</span> system. People have to survive and they will go to kinds of length to do it, but survival, though necessary, is not living.</p>
+<h2>Non-Fiat</h2>
  <h2>Capital</h2>
   <p>Capital does have a place in a non-<span class='_paradigm'>Fiat</span> company, but it doesn&rsquo;t acquire power. A non-<span class='_paradigm'>Fiat Investment</span> is more like a loan in that you get your principal back. It is an investment in that how much and how it&rsquo;s paid is negotiated,.</p>
   <p>Usually that capital goes to pay for,</p>
@@ -278,17 +307,42 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </table>
    </div>
 
-<h1>Notes</h1>
- <ul>
-  <li>Military and Force</li>
-  <li>Pain vs Wellbeing</li>
-  <li>Competition</li>
-  <li>Owning the Commons</li>
-  <li>RADs</li>
-  <li>Other rTools</li>
-  <li>Transcendence</li>
-  <li>Wellbeing</li>
- </ul>
+<h1>Fiat and Radical</h1>
+ <h2>Fiat</h2>
+  
+ <h2>Non-Fiat</h2>
+
+<h1>Military and Force</h1>
+ <h2>Fiat</h2>
+ <h2>Non-Fiat</h2>
+
+<h1>Competition</h1>
+ <h2>Fiat</h2>
+ <h2>Non-Fiat</h2>
+
+<h1>Pain vs Wellbeing</h1>
+ <h2>Fiat</h2>
+ <h2>Non-Fiat</h2>
+
+<h1>Wellbeing</h1>
+ <h2>Fiat</h2>
+ <h2>Non-Fiat</h2>
+
+<h1>RADs</h1>
+ <h2>Fiat</h2>
+ <h2>Non-Fiat</h2>
+
+<h1>Other rTools</h1>
+ <h2>Fiat</h2>
+ <h2>Non-Fiat</h2>
+
+<h1>Transcendence</h1>
+ <h2>Fiat</h2>
+ <h2>Non-Fiat</h2>
+
+<h1>Owning the Commons</h1>
+ <h2>Fiat</h2>
+ <h2>Non-Fiat</h2>
 
 <h1 class='_section'>ENDNOTES</h1>
  <ul>
