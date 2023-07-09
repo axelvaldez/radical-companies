@@ -281,15 +281,13 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1>Notes</h1>
  <ul>
   <li>Military and Force</li>
-  <li>Pain and Wellbeing</li>
-  <li>competition</li>
-  <li>force-and-pain</li>
-  <li>ownership</li>
-  <li>owning-the-commons</li>
-  <li>rads</li>
-  <li>rtools</li>
-  <li>transcendence</li>
-  <li>wellbeing</li>
+  <li>Pain vs Wellbeing</li>
+  <li>Competition</li>
+  <li>Owning the Commons</li>
+  <li>RADs</li>
+  <li>Other rTools</li>
+  <li>Transcendence</li>
+  <li>Wellbeing</li>
  </ul>
  <ul>
   <li>banners</li>
