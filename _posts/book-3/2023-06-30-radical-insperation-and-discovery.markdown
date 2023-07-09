@@ -30,7 +30,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <td>
       <img
        src='/assets/img/pic-open-quote.svg'
-       width='25%'>
+       width='15%'
+       class='_center'>
      </td>
     </tr>
     <tr>
@@ -43,7 +44,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <td>
       <img
        src='/assets/img/pic-close-quote.svg'
-       width='25%'>
+       width='15%'
+       class='_center'>
      </td>
     </tr>
    </table>
