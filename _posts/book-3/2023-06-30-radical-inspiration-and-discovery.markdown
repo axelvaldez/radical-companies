@@ -333,7 +333,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
 <h1>Fiat and Radical</h1>
  <h2>Fiat</h2>
-  
  <h2>Non-Fiat</h2>
 
 <h1>Military and Force</h1>
