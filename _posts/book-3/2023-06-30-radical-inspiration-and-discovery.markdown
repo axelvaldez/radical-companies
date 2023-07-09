@@ -291,7 +291,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <th>Banners?</th>
      <td>
       <p><span class='_paradigm'>Banner</span>s represent non-people things like projects and investments. With the <em><span class='_paradigm'>RAD</span>s! mobile app</em> you can create a <span class='_paradigm'>Banner</span>, change your contribution to it, see who is contributing, and the beneficiaries.</p>
-      <p>For the case, where all co-owners agree, the Banner Dashboard could lile this,</->
+      <p>For the case, where all co-owners agree, the Banner Dashboard could lile this,</p>
        <div style='padding-left:1rem; '>
         <table>
          <tr>
