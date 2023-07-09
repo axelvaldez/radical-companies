@@ -257,7 +257,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </tr>
    </table>
   </div>
-  <!--
   <div class='_center'>
    <table class='_h2table'>
     <tr>
@@ -306,6 +305,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </tr>
    </table>
   </div>
+  <!--
   <div class='_center'>
    <table class='_h2table'>
     <tr>
