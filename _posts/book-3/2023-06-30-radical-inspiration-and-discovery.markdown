@@ -238,7 +238,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <p>On the other hand, you have no ownership in the business. You are happy to get your salary, but that&rsquo;s that. Owners have power over you.</p>
  <h2>Non-Fiat</h2>
   <p>This is probably the most shocking thing about non-<span class='_paradigm'>Fiat</span> alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-owners, into the pockets of everybody who contributes to creating the wealth. If you are looking for yet another way to become wealthy, this ain&rsquo;t it. Companies are way to increase the wellbeing of every co-owner and the society around then.</p>
-  <p>Your level of co-ownership is determined by these contributions given to you by your co-owner peers. You recognized contributions determines your level of co-ownership <em>that month.</em> Next most it will most likely be different.</p>
+  <p>Your level of co-ownership is determined by these contributions given to you by your co-owner peers. You recognized contributions determines your level of co-ownership <em>that month.</em> Next month it will most likely be different.</p>
   <div class='_center'>
    <table class='_h2table'>
     <tr>
