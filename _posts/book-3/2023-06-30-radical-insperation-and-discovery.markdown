@@ -289,25 +289,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <li>Transcendence</li>
   <li>Wellbeing</li>
  </ul>
- <ul>
-  <li>banners</li>
-  <li>disentangling</li>
-  <li>epiphanies</li>
-  <li>how-to</li>
-  <li>making-fiat-bearable</li>
-  <li>miscellaneous</li>
-  <li>missing chapters</li>
-  <li>radical-investments</li>
-  <li>radical-is-business-friendly</li>
-  <li>radical-model</li>
-  <li>rcompanies</li>
-  <li>reviews</li>
-  <li>rfiction</li>
-  <li>rhatchery.live</li>
-  <li>rmedia</li>
-  <li>rprojects</li>
-  <li>rstartups</li>
- </ul>
 
 <h1 class='_section'>ENDNOTES</h1>
  <ul>
