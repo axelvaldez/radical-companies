@@ -221,38 +221,48 @@ image:    "icon-radical-insperation-and-discovery.svg"
   <p>This is probably the most shocking thing about non-<span class='_paradigm'>Fiat</span> alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-owners, into the pockets of everybody who contributes to creating the wealth. If you are looking for yet another way to become wealthy, this ain&rsquo;t it. Companies are way to increase the wellbeing of every co-owner and the society around then.</p>
   <p>Your level of co-ownership is determined by these contributions given to you by your co-owner peers. You recognized contributions determines your level of co-ownership <em>that month.</em> Next most it will most likely be different.</p>
  <h2>The Calculations</h2>
-  <p>The number of contributions that each co-owner recognizes within a month becomes the denominator. The number of <span class='_paradigm'>RAD</span>s is the numerator. In other words, you get a <span class='_paradigm'>RAD</span> every day to give, not to keep. In a 30-day month, you get 30 <span class='_paradigm'>RAD</span>s and those 30 <span class='_paradigm'>RAD</span>s are shared among the co-owner for whom you have recognized one or more contribution.</p>
+  <p>You get a <span class='_paradigm'>RAD</span> every day to give, not to keep. <span class='_paradigm'>RAD</span>s make contribution tangible.</p>
+  <p><span class='_paradigm'>RAD</span>s are distributed based on contributions that you have recognized,</p>
    <div class='_center'>
     <img
      src='/assets/img/pic-recognitions-to-rads-equation.svg'
      width='70%'
      alt=''>
    </div>
-  <p>There is an mobile app that does the calculation.</p>
   <p>As you give those <span class='_paradigm'>RAD</span>s away, you are given other people ownership in the company. No boss is necessary to give attaboys to his favorites.</p>
- <h2>But&hellip;</h2>
-  <p>At this point you may be coming up with objections. <span class='_quotespan'>Yeah, but it can be easily gamed: I&rsquo;ll give you all my <span class='_paradigm'>RAD</span>s and you give me all of yours. And yes, it could, but only if the other co-owners do not say or do anything about. Because of &ldquo;Transparency,&rdquo; they can see all the transactions and it is up to the co-owners to say or do something. They can have a conversation with people who are trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of the contributions because they are doing something that works against a very fundamental action that would make co-ownership a joke.</span></p>
-  <p>Another objection might be that people won&rsquo;t want to take the time to recognize contributions. They may do it at first, but then they slowly stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won&rsquo;t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then they will go back to doing it. If not, the company will fail, as well it should. On the way to a non-<span class='_paradigm'>Fiat</span> alternative things won&rsquo;t go perfect or smoothly. There will be plenty of bumps along the way. The &rdquo;fix&ldquo; is not to elect a boss to tell us what to do, the fix is to fix your behaviour&mdash;you are all co-owners.</p>
-  <p>My favorite is when people say that <em>other</em> people are coin operated. They do not want to do anything for a community of society. My usual retort is, <span class='_quotespan'>what about family?</span> They do a lot backing out then, but some people double down, <span class='_quotespan'>my children will eventually have to fend for themselves.</span> You can imagine where it goes from there (but I won&rsquo;t repeat it here). The thing is that homo economicus is one of those convenient stories that popped up to support the <span class='_paradigm'>Fiat</span> system. People have to survive and they will go to kinds of length to do it, but survival is not living.</p>
+  <p>The mobile app does the all the calculation.</p>
+<h2>But&hellip;</h2>
+  <p>At this point you may be coming up with objections, <span class='_quotespan'>Yeah, but it can be easily gamed: I&rsquo;ll give you all my <span class='_paradigm'>RAD</span>s and you give me all of yours.</span> And yes, it could, but only if the other co-owners do not say anything about. Because of &ldquo;Transparency,&rdquo; they can see all the transactions and it is up to the co-owners to say or do something. They can have a conversation with people who seem to be trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of their contributions because they are doing something that make co-ownership a joke.</span></p>
+  <p>Another objection might be that people won&rsquo;t want to take the time to recognize contributions. They may do it at first, but then they will stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won&rsquo;t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then, I hope, they will go back to doing it. If not, the company will fall apart. On the way to a non-<span class='_paradigm'>Fiat</span> alternative things won&rsquo;t go perfect or smoothly. There will be plenty of bumps along the way. The &rdquo;fix&ldquo; is not to elect a boss to tell us what to do, the &rdquo;fix&ldquo; is to fix what is in your hands&mdash;you are all co-owners.</p>
+  <p>An objection that I heard more than once is that <em>other</em> people are coin operated. They do not want to do anything for a community of society. My usual retort is, <span class='_quotespan'>what about family?</span> The thing is that <em>homo economicus</em> is one of those convenient stories that popped up to support the <span class='_paradigm'>Fiat</span> system. People have to survive and they will go to kinds of length to do it, but survival, though necessary, is not living.</p>
  <h2>Capital</h2>
-  <p>Capital does have a place in a non-<span class='_paradigm'>Fiat</span> company, but not as a regular <span class='_paradigm'>Fiat</span> investment: you give me money, I give a fixed percent of the business. A non-<span class='_paradigm'>Fiat Investment</span> is more like a loan in that you get your principal back. It is an investment in that the return-on-investment is negotiated, but how much and how it&rsquo;s paid.</p>
-  <p>Usually that capital goes to pay for 1) things needed by the company and 2) to fund a <span class='_paradigm'>Predictable Recurring Income</span> (PRI) fund. The PRI is used to pay co-owners a predictable, recurring amount of money (like a salary) when there is little or no revenue. The PRI is paid back by the revenue each co-owner gets given their <span class='_paradigm'>RAD</span>s. Until it is paid in full, what a co-owner takes of out of the PRI fund is a personal debt. Once the PRI fund is paid, the upside that would normally go to the owners and investors goes to the co-owners according to their <span class='_paradigm'>RAD</span>s.</p>
+  <p>Capital does have a place in a non-<span class='_paradigm'>Fiat</span> company, but it doesn&rsquo;t acquire power. A non-<span class='_paradigm'>Fiat Investment</span> is more like a loan in that you get your principal back. It is an investment in that how much and how it&rsquo;s paid is negotiated,.</p>
+  <p>Usually that capital goes to pay for,</p>
+   <ul>
+    <li>Things needed by the company</li>
+    <li>To fund a <span class='_paradigm'>Predictable Recurring Income</span> (PRI) fund.</li>
+   </ul>
+ <h2>The PRI</h2>
+  <p>The PRI is used to pay co-owners a <em>predictable, recurring income</em> (like a salary) when there is little or no revenue. The PRI is paid back by the revenue each co-owner gets given their <span class='_paradigm'>RAD</span>s. Until it is paid in full, what a co-owner takes of out of the PRI fund is a personal debt. Once the PRI fund is paid, the upside that would normally (dividends) go to the owners and investors goes to the co-owners according to their <span class='_paradigm'>RAD</span>s.</p>
  <h2>But&hellip;</h2>
-  <p>What about investing in the future? Owner don&rsquo;t put all the profits in the pocket, they invest it!</p>
-  <p>Indeed they do and co-owners can do the same. I make a distinction between profits and dividends, and the latter is what is left after paying all expenses, including any investments. For example, if the co-owners want to buy a $5M building, they would put up a <span class='_paradigm'>Banner</span> to accumulate that amount. They could decide to put 10% into the <span class='_paradigm'>Banner</span> which would build up to $5M in three years. In that case, the 10% would not be included in the dividends. Investing in the future is covered.</p>
-  <p>Alternatively, all co-owners may not agree to 10% or any particular amount. In that case, the <span class='_paradigm'>Banner</span> would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
+  <p>But what about investing in the future? Owners don&rsquo;t put all the profits in the pocket, they invest it!</p>
+  <p>Indeed they do and co-owners can do the same. I make a distinction between profits and dividends, and the latter is what is left after paying all expenses, <em>including any investments</em>. For example, if the co-owners want to buy a $5M building, they would put up a <span class='_paradigm'>Banner</span> to accumulate that amount. They could decide to commit enough into the <span class='_paradigm'>Banner</span> to build up to $5M in three years. That amount is not be included in the dividends.</p>
+  <p>Investing in the future is covered.</p>
+  <p>Alternatively, all co-owners may not agree to commit any particular amount. In that case, the <span class='_paradigm'>Banner</span> would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
  <h2>Banners?</h2>
-  <p><span class='_paradigm'>Banner</span>s represent non-people things like projects and investments. With the <em><span class='_paradigm'>RAD</span>s! mobile app</em> you can create a <span class='_paradigm'>Banner</span>, change your contribution to it, see who is contributing, and the beneficiary. The dashboard may show something like this,
+  <p><span class='_paradigm'>Banner</span>s represent non-people things like projects and investments. With the <em><span class='_paradigm'>RAD</span>s! mobile app</em> you can create a <span class='_paradigm'>Banner</span>, change your contribution to it, see who is contributing, and the beneficiaries. For example, the dashboard may show something like this,
    <div style='padding-left:1rem; '>
     <table>
      <tr>
       <td>
-       <h2 style='font-size:smaller; padding-top:1rem; padding-bottom:0; '>Banner:</h2>
+       <h2 style='padding-top:1rem; padding-bottom:0; '>Banner:</h2>
         <p style='text-indent:1em; '>Goal: $1M</p>
         <p style='text-indent:1em; '>Time: 3 years</p>
         <p style='text-indent:1em; '>Reason: To buy and furnish a building.</p>
         <p style='text-indent:1em; '>Beneficiaries: Building Fund.</p>
-       <h2 style='font-size:smaller; padding-top:0; padding-bottom:0;  '>Contributions:</h2>
+      </td>
+      <td style='border:1px solid black; '>
+       <h2 style='padding-top:0; padding-bottom:0;  '>Contributions:</h2>
         <p style='text-indent:1em; '>All, $100.00</p>
       </td>
      </tr>
@@ -261,12 +271,14 @@ image:    "icon-radical-insperation-and-discovery.svg"
     <table>
      <tr>
       <td>
-       <h2 style='font-size:smaller; padding-top:1rem; padding-bottom:0; '>Banner:</h2>
+       <h2 style='padding-top:1rem; padding-bottom:0; '>Banner:</h2>
         <p style='text-indent:1em; '>Goal: $1M</p>
         <p style='text-indent:1em; '>Time: 3 years</p>
         <p style='text-indent:1em; '>Reason: To buy and furnish a building.</p>
         <p style='text-indent:1em; '>Beneficiaries: Building Fund.</p>
-       <h2 style='font-size:smaller; padding-top:0; padding-bottom:0;  '>Contributions:</h2>
+      </td>
+      <td style='border:1px solid black; '>
+       <h2 style='padding-top:0; padding-bottom:0;  '>Contributions:</h2>
         <p style='text-indent:1em; '>Mary O, $100.00</p>
         <p style='text-indent:1em; '>Anita P, 0.25% de $1M</p>
         <p style='text-indent:1em; '>Salim Q, 5.00% of <span class='_paradigm'>RAD</span>s yield</p>
