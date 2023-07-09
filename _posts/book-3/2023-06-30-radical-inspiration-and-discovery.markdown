@@ -246,7 +246,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <div class='_center'>
        <img
         src='/assets/img/pic-recognitions-to-rads-equation.svg'
-        width='70%'
         alt=''>
       </div>
      <p>As you give those <span class='_paradigm'>RAD</span>s away, you are given other people ownership in the company. No boss is necessary to give attaboys to his favorites.</p>
