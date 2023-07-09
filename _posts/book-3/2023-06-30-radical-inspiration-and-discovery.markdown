@@ -255,6 +255,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <p>The mobile app does the all the calculation.</p>
      </td>
     </tr>
+   </table>
+  </div>
+  <div class='_center'>
+   <table class='_h2table'>
     <tr>
      <th>But&hellip;</th>
      <td>
@@ -263,6 +267,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <p>An objection that I heard more than once is that <em>other</em> people are coin operated. They do not want to do anything for a community of society. My usual retort is, <span class='_quotespan'>what about family?</span> The thing is that <em>homo economicus</em> is one of those convenient stories that popped up to support the <span class='_paradigm'>Fiat</span> system. People have to survive and they will go to kinds of length to do it, but survival, though necessary, is not living.</p>
      </td>
     </tr>
+   </table>
+  </div>
+  <div class='_center'>
+   <table class='_h2table'>
     <tr>
      <th>Capital</th>
      <td>
@@ -274,12 +282,20 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        </ul>
      </td>
     </tr>
+   </table>
+  </div>
+  <div class='_center'>
+   <table class='_h2table'>
     <tr>
      <th>The PRI</th>
      <td>
       <p>The PRI is used to pay co-owners a <em>predictable, recurring income</em> (like a salary) when there is little or no revenue. The PRI is paid back by the revenue each co-owner gets given their <span class='_paradigm'>RAD</span>s. Until it is paid in full, what a co-owner takes of out of the PRI fund is a personal debt. Once the PRI fund is paid, the upside that would normally (dividends) go to the owners and investors goes to the co-owners according to their <span class='_paradigm'>RAD</span>s.</p>
      </td>
     </tr>
+   </table>
+  </div>
+  <div class='_center'>
+   <table class='_h2table'>
     <tr>
      <th>But&hellip;</th>
      <td>
@@ -287,6 +303,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <p>Indeed they do and co-owners can do the same. I make a distinction between profits and dividends, and the latter is what is left after paying all expenses, <em>including any investments</em>. For example, if the co-owners want to buy a $5M building, they would put up a <span class='_paradigm'>Banner</span> to accumulate that amount. They could decide to commit enough into the <span class='_paradigm'>Banner</span> to build up to $5M in three years. That amount is not be included in the dividends.</p>
      <td>
     </tr>
+   </table>
+  </div>
+  <div class='_center'>
+   <table class='_h2table'>
     <tr>
      <th>Banners?</th>
      <td>
