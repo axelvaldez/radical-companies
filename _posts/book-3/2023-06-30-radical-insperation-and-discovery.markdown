@@ -255,7 +255,7 @@ image:    "icon-radical-insperation-and-discovery.svg"
     <table>
      <tr>
       <td style='border:1px solid green; '>
-       <h2 style='padding-top:1rem; padding-bottom:0; font-size:smaller; '>Banner:</h2>
+       <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Banner:</h2>
         <p style='text-indent:1em; '>Goal: $1M</p>
         <p style='text-indent:1em; '>Time: 3 years</p>
         <p style='text-indent:1em; '>Reason: To buy and furnish a building.</p>
@@ -271,7 +271,7 @@ image:    "icon-radical-insperation-and-discovery.svg"
     <table>
      <tr>
       <td style='border:1px solid green; '>
-       <h2 style='padding-top:1rem; padding-bottom:0; font-size:smaller; '>Banner:</h2>
+       <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Banner:</h2>
         <p style='text-indent:1em; '>Goal: $1M</p>
         <p style='text-indent:1em; '>Time: 3 years</p>
         <p style='text-indent:1em; '>Reason: To buy and furnish a building.</p>
