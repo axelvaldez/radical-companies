@@ -353,7 +353,7 @@ span._paradigm {
   font-style:italic;
   font-family:cursive;
   padding-top:10px;
-  text-align:right;
+  text-align:center;
 }
 #_signature::before, 
 ._signature::before  {
