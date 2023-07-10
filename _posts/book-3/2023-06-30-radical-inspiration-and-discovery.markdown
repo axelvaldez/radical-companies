@@ -401,6 +401,26 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <h2>Fiat</h2>
   <p>Nothing to see here.</p>
  <h2>Radical</h2>
+  <div class='_center'>
+   <table class='h2table'>
+    <tr>
+     <th>Explicit Relationships</th>
+     <td></td>
+    </tr>
+    <tr>
+     <th>Explicit Alignment</th>
+     <td></td>
+    </tr>
+    <tr>
+     <th>Explicit Profile</th>
+     <td></td>
+    </tr>
+    <tr>
+     <th>RADs! Mobile App</th>
+     <td></td>
+    </tr>
+   </table>
+  </div>
 
 <h1>Pain vs Wellbeing</h1>
  <h2>Fiat</h2>
