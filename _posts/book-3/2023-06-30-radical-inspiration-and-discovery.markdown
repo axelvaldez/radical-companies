@@ -351,7 +351,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     src='/assets/img/pic-the-radical-model-coming-together.svg'
     width='70%'
     alt=''>
-  <p>We get lost in the intellectual weeds, and the <span class='_paradigm'>Foundation</span> helps us remain clear,</p>
+  <p>We get often lost in the intellectual weeds and never discover the really toxic. The <span class='_paradigm'>Radical Foundation</span> helps us remain clear,</p>
    <ul>
     <li>Will this decision make us more or less decentralized. Either choice is OK, but the <span class='_paradigm'>Foundation</span> helps you know which direction the decision is taking you.</li>
     <li>Will this decision make it easier to help people find meaning in what they are doing or not. Again, wither choice is OK, but the <span class='_paradigm'>Foundation</span> helps you know which direction the decision is taking you.</li>
