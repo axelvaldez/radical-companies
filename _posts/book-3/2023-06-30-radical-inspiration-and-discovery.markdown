@@ -366,7 +366,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1>Competition and Collaboration</h1>
  <h2>Fiat</h2>
   <p>Competition is another constant feature of the <span class='_paradigm'>Fiat</span> model. We learn to compete from the minute we are born. Kindergarten slows it down a little, but it comes back in full force in everything that follows. We pretend to listen, but we are really waiting our chance to outcompete the previous speakers. Sometimes we are aggressive and sometimes we are meek, but underneath it all we compete in the <span class='_paradigm'>Fiat</span> system. There are even debate clubs where we can practive our competitive skills.</p>
-  <p>And, <span class='_quotespan'>so?</span>, you ask, <span class='_quotespan'>what is wrong with that. We need to compete to survive.</span> But I see it as a way to divide people, as in divide and conquer. They who win and they who lose. In the Parlamentary system a specific political party may not win so they have to lump itno coaliations and then proceed to the sausage-making room where they come up with Minister of this and Minister of that. Democracy-by-voting makes it a lot easier for the powerful to game the system: just pay off the winners.</p>
+  <p>And, <span class='_quotespan'>so?</span>, you ask, <span class='_quotespan'>what is wrong with that. We need to compete to survive.</span> But I see it as a way to divide people, as in divide and conquer. They who win and they who lose. In the Parlamentary system a specific political party may not win so they have to lump itno coaliations and then proceed to the sausage-making room where they come up with Minister of this and Minister of that. This makes it a lot easier for the powerful to just pay off enough of the winners.</p>
+  <p>Democracy-by-voting is the best 18<sup>th</sup> century system we have, but we are in 21<sup>st</sup> century now.</p> 
   <div class='_center'>
    <table class='_h2table'>
     <tr>
