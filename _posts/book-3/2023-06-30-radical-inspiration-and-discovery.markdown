@@ -409,7 +409,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <th>Explicit Relationships</th>
       <table class='_h2table'>
        <tr>
-        <th>The world as experienced by you (Umwelt)</th>
+        <th>The world as experienced by you,</th>
         <td>
          <ul>
           <li>How do you show up? Who are you?</li>
