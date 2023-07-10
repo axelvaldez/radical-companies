@@ -150,7 +150,7 @@ image:    "icon-ptsd-and-trust.svg"
     <th>Impact</th>
    </tr>
    <tr>
-    <th stle='width:20%; '>What for?</th>
+    <th style='width:20%; '>What for?</th>
     <td>&nbsp;</td>
    </tr>
    <tr id='_background'>
