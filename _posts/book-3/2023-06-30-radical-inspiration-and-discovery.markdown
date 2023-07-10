@@ -401,26 +401,26 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <h2>Fiat</h2>
   <p>The only consistent tool in the <span class='_paradigm'>Radical</span> model is force.</p>
  <h2>Radical</h2>
-  <p>These are some of the tools that have worked for us in our <span class='_paradigm'>Radical</span> work with companies who are based on the <span class='_paradigm'>Radical</span> model. Some of these may go away, others will evolve, and others will come up in the future. I am presenting them here to inspire ideas, not dogman.</p>
+  <p>These are some of the tools that have worked for us in our <span class='_paradigm'>Radical</span> work with companies who are based on the <span class='_paradigm'>Radical</span> model. Some of these may go away, others will evolve, and others will come up in the future. I am presenting them here to inspire ideas, not dogma.</p>
   <div class='_center'>
    <table class='h2table'>
     <tr>
      <th>Explicit Relationships</th>
-     <td>Explicit Relationships</td>
+     <td>These are some of the tools that have worked for us in our <span class='_paradigm'>Radical</span> work with companies who are based on the <span class='_paradigm'>Radical</span> model. Some of these may go away, others will evolve, and others will come up in the future. I am presenting them here to inspire ideas, not dogma.</td>
     </tr>
     <tr>
      <th>Explicit Alignment</th>
-     <td>Explicit Alignment</td>
+     <td>These are some of the tools that have worked for us in our <span class='_paradigm'>Radical</span> work with companies who are based on the <span class='_paradigm'>Radical</span> model. Some of these may go away, others will evolve, and others will come up in the future. I am presenting them here to inspire ideas, not dogma.</td>
     </tr>
     <tr>
      <th>Explicit Profile</th>
-     <td>Explicit Profile</td>
+     <td>These are some of the tools that have worked for us in our <span class='_paradigm'>Radical</span> work with companies who are based on the <span class='_paradigm'>Radical</span> model. Some of these may go away, others will evolve, and others will come up in the future. I am presenting them here to inspire ideas, not dogma.</td>
     </tr>
    </table>
   </div>
-  <p>The other rTools, and to me the most fundamental one is the <em>RADs! Mobile App</em>.</p>
+  <p>The other rTools, and to me the most fundamental one, is the <em>RADs! Mobile App</em>.</p>
 
-<h1>RADs</h1>
+<h1>RADs and RADs! Mobile App</h1>
  <h2>Fiat</h2>
  <h2>Non-Fiat</h2>
 
