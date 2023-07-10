@@ -491,10 +491,12 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       </table>
      </div>
     </tr>
+<!--
     <tr>
      <th>Explicit Profile</th>
      <td>An explicit progile is something that you maintain to let others know about, what bothers you, etc. It is not a resume or a LinkedIn profile. It is as close as possible to what you really feel. Our Fiat training goes against this, goes against being vulnerable, <span class='_quotespane'>because people can use use it against you.</span> But others can&rsquo;t help you without knowing you. For the <span class='_paradigm'>Radical</span> model to work, you have to lead with trust and the Explicit Profile is a tool you can use to trust others so they can trust you.</td>
     </tr>
+-->
    </table>
   </div>
   <p>The other rTools, and to me the most fundamental one, is the <eg>RADs! Mobile App</eg>.</p>
