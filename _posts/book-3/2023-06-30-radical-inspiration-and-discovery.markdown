@@ -336,17 +336,23 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   </div>
 
 <h1>Fiat and Radical</h1>
+ <p><span class='_paradigm'>Fiat</span> is a complex and complicated system. <span class='_paradigm'>Radical</span> is a simple <span class='_paradigm'>Foundation.</span></p>
  <h2>Fiat</h2>
   <p>I have already said a lot about <span class='_paradigm'>Fiat</span>. One thing I mentioned in passing is that <span class='_paradigm'>Fiat</span> evolved into the world view it is today. And like all things that evolve, they are not simple. Rules and laws came and went and morphed to adapt to their environment. For example, whereas the Christian Bible was admonishing slaves to &ldquo;obey your earthly masters&rdquo; that stopped being acceptable language in the lates 1800s (though women and children still had to obey their earthly master).</p>
   <p>The <span class='_paradigm'>Fiat</span> model is at the base off all govenance, from most free democracies to the most brutal dictatorships. Can you think of a fully decentralized national government? I can't, either, because they don't exist.</p>
  <h2>Radical</h2>
-  <p>As opposed to <span class='_paradigm'>Fiat</span>, <span class='_paradigm'>Radical</span> is a foundation, not an evolved system (<em>i.e.</em>, in yellow, below). <span class='_paradigm'>Radical</span> does not have embedded rules and it is not dogmatic in any way,</p>
+  <p>As opposed to <span class='_paradigm'>Fiat</span>, <span class='_paradigm'>Radical</span> is a <span class='_paradigm'>Foundation.</span>, not an evolved system (<em>i.e.</em>, in yellow, below). <span class='_paradigm'>Radical</span> does not have embedded rules and it is not dogmatic in any way,</p>
    <img
     src='/assets/img/pic-the-radical-model-coming-together.svg'
     width='70%'
     alt=''>
-
- <h2>Non-Fiat</h2>
+  <p>We get lost in the intellectual weeds, and the <span class='_paradigm'>Foundation.</span> helps us remain clear,</p>
+   <ul>
+    <li>Will this decision make us more or less decentralized. Either choice is OK, but the <span class='_paradigm'>Foundation.</span> helps you know which direction the decision is taking you.</li>
+    <li>Will this decision make it easier to help people find meaning in what they are doing or not. Again, wither choice is OK, but the <span class='_paradigm'>Foundation.</span> helps you know which direction the decision is taking you.</li>
+   </ul>
+  <p>You may be leaning one way, but rethink it once you realize where it would take you. What you can&rsquo;t do is hide behind, <span class='_quotespan'>Oh, I didn*&rsquo;*t know!</span></p>
+  <p><span class='_paradigm'>Radical</span> doesn&rsquo;t come with rules out of the box, but you and the community of people you work with gets to come up witgh the rules. You are all co-owners.</p>
 
 <h1>Military and Force</h1>
  <h2>Fiat</h2>
