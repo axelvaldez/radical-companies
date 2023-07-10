@@ -200,13 +200,14 @@ table._explicitalignment th {
   text-align:right;
   border-right:black 1px solid;
   font-weight:bold;
-  width:20%;
+  column-width:20%;
 }
 table._explicitalignment td {
   vertical-align:text-top;
   padding-left:1em;
   text-align:left;
   border-left:black 1px solid;
+  column-width:80%;
 }
 table._explicitalignment tr:nth-child(1),
 table._explicitalignment tr:nth-child(3),
