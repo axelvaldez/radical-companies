@@ -376,28 +376,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <td></td>
       <p></p>
     </tr>
-    <tr>
-     <th></th>
-      <p></p>
-     <td></td>
-      <p></p>
-    </tr>
-    <tr>
-     <th></th>
-      <p></p>
-     <td></td>
-      <p></p>
-    </tr>
-    <tr>
-     <th></th>
-      <p></p>
-     <td></td>
-      <p></p>
-    </tr>
    </table>
   </div>
  <h2>Radical</h2>
-  <p>Competition and cooperation is a way of imposing your will. Collaboration is the way to come up with a solution that is acceptable to most everyone. The people who can&rsquo;t live with it, have to come up with an acceptable proposal. This is called <em>consent</em> by Sociocracy practioners.</p>
+  <p>Competition  is a way of imposing your will. Cooperation is how you negotiate your will. Collaboration is the way to come up with what acceptable to (most) everyone. The people who can&rsquo;t live with it, have to come up with their own proposal. BTW, this is called <em>consent</em> by Sociocracy practioners and as far as I know, they came up with it.</p>
   <div class='_center'>
    <table class='_h2table'>
     <tr>
