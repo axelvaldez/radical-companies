@@ -200,6 +200,7 @@ table._explicitalignment th {
   text-align:right;
   border-right:black 1px solid;
   font-weight:bold;
+  width:20%;
 }
 table._explicitalignment td {
   vertical-align:text-top;
