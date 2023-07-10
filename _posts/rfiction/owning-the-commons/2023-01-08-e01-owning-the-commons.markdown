@@ -3,7 +3,7 @@ layout:   post
 title:    "Owning the Commons (1/3)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-owning-the-commons-1-3.svg"
+image:    "icon-owning-the-commons-e01.svg"
 ---
 <div style="display:none;">
   <p>This may be a case of having a hammer and seeing everything as a nail, but I believe that the <em><span class="_paradigm">RAD</span>s!</em> app can be used as a tool for assigning dynamic ownership of the commons.</p>

@@ -3,7 +3,7 @@ layout:   post
 title:    "Owning the Commons (2/3)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-owning-the-commons-2-3.svg"
+image:    "icon-owning-the-commons-e02.svg"
 ---
 <div style="display:none;">
   <p>Continued&hellip;</p>
