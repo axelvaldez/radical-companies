@@ -161,76 +161,77 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       </td>
      </tr>
     </table>
-   <h2>Non-Fiat</h2>
-    <p>In an alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in supernatural beings, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore; in fact, that particular believe works against our survival as a species.</p>
-    <p>The alternative is not chaos, but it is certainly different,</p>
-     <div class='_center'>
-      <table class='_center, _h2table'>
-       <tr>
-        <th>Community</th>
-        <td>
+   </div>
+  <h2>Non-Fiat</h2>
+   <p>In an alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in supernatural beings, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore; in fact, that particular believe works against our survival as a species.</p>
+   <p>The alternative is not chaos, but it is certainly different,</p>
+    <div class='_center'>
+     <table class='_center, _h2table'>
+      <tr>
+       <th>Community</th>
+       <td>
+        <ul>
+         <li>I trust my decentralized and fully transparent community.</li>
+         <li>What is going to keep my community growing is what&rsquo;s good for us.</li>
+         <li>People in my community listen to me. They help make my ideas easier to understand. They help me find meaning.</li>
+         <li>And if that is not the case, I leave<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a>.</li>
+        </ul>
+       </td>
+      </tr>
+      <tr>
+       <th>Foundation</th>
+       <td>
+        <p>This is the <span class='_paradigm'>Foundation</span> of a community,</p>
          <ul>
-          <li>I trust my decentralized and fully transparent community.</li>
-          <li>What is going to keep my community growing is what&rsquo;s good for us.</li>
-          <li>People in my community listen to me. They help make my ideas easier to understand. They help me find meaning.</li>
-          <li>And if that is not the case, I leave<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a>.</li>
+          <li>A community must help find Meaning. This is a community that I want to Belong to.</li>
+          <li>To work for <em>every</em> member, the community must be fully decentralized and transparent.</li>
+          <li>Members are free to experiment. Not meeting the expect result, means that we learn how not to do it.</li>
          </ul>
-        </td>
-       </tr>
-       <tr>
-        <th>Foundation</th>
-        <td>
-         <p>This is the <span class='_paradigm'>Foundation</span> of a community,</p>
-          <ul>
-           <li>A community must help find Meaning. This is a community that I want to Belong to.</li>
-           <li>To work for <em>every</em> member, the community must be fully decentralized and transparent.</li>
-           <li>Members are free to experiment. Not meeting the expect result, means that we learn how not to do it.</li>
-          </ul>
-        </td>
-       </tr>
-       <tr>
-        <th>Alignment</th>
-        <td>
-         <p>But the <span class='_paradigm'>Foundation</span> is not enough, it needs an <span class='_paradigm'>Explicit Alignment</span>,</p>
-          <ul>
-           <li>To hold us together a community must define the <em>what for</em>, the <span class='_paradigm'>Impact</span> it wants to have on the world.</li>
-           <li>It must be explicit about the <em>why</em>, its <span class='_paradigm'>Purpose</span> that made it come together as a community.</li>
-           <li>The community can then define the <em>what, when, and how,</em> of each <span class='_paradigm'>Mission</span> of the work it needs to do.</li>
-          </ul>
-           <div class='_center'>
-            <img
-             src='/assets/img/pic-explicit-alignment-en.svg'
-             width='70%'
-             alt=''>
-           </div>
-         <p>It is <em>explicit</em> in that it lays it all out for all to know; there are no dark corners where need-to-know information is kept away from view.</p>
-         <p>It is &ldquo;alignment&rdquo; in the sense that it that it ties people together into a community with something in common.</p>
-         <p>To be clear,</p>
-          <ul>
-           <li>If the <em>what for</em>, the <span class='_paradigm'>Impact</span>, is not your thing, then you don&rsquo;t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed at it because it is very, very difficult.</li>
-           <li>If the <em>why</em>, the <span class='_paradigm'>Purpose</span>, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn&rsquo;t work, you don&rsquo;t join the community.</li>
-           <li>The <em>what, when, and how</em>, the <span class='_paradigm'>Mission</span>, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create you own with the support of the community.</li>
-          </ul>
-        </td>
-       </tr>
-       <tr>
-        <th>No Divisions</th>
-        <td>
-         <p>All members are co-owners of the community. If their goal is to build products or services it would be called a company, which is different from a business,</p>
-          <ul>
-           <li>Businesses is what we are used to. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You work at a business for a wage agreed upon by the owner or his delegate.</li>
-           <li>
-            <p>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not <em>equal</em>, as in co-ops, but it is equitable based on contributions.</p>
-            <p>BTW, the word company comes from Latin <em>co</em>, meaning <em>together</em>, and <em>pan</em>, meaning <em>bread</em>.</p>
-           </li>
-           <li>The level of co-ownership is determined by contributions, not capital.</li>
-           <li>These contributions are recognized by all other co-owners.</li>
-          </ul>
-         <p>And, yes, there is an app for that.</p>
-        </td>
-       </tr>
-      </table>
-     </div>
+       </td>
+      </tr>
+      <tr>
+       <th>Alignment</th>
+       <td>
+        <p>But the <span class='_paradigm'>Foundation</span> is not enough, it needs an <span class='_paradigm'>Explicit Alignment</span>,</p>
+         <ul>
+          <li>To hold us together a community must define the <em>what for</em>, the <span class='_paradigm'>Impact</span> it wants to have on the world.</li>
+          <li>It must be explicit about the <em>why</em>, its <span class='_paradigm'>Purpose</span> that made it come together as a community.</li>
+          <li>The community can then define the <em>what, when, and how,</em> of each <span class='_paradigm'>Mission</span> of the work it needs to do.</li>
+         </ul>
+         <div class='_center'>
+          <img
+           src='/assets/img/pic-explicit-alignment-en.svg'
+           width='70%'
+           alt=''>
+         </div>
+        <p>It is <em>explicit</em> in that it lays it all out for all to know; there are no dark corners where need-to-know information is kept away from view.</p>
+        <p>It is &ldquo;alignment&rdquo; in the sense that it that it ties people together into a community with something in common.</p>
+        <p>To be clear,</p>
+         <ul>
+          <li>If the <em>what for</em>, the <span class='_paradigm'>Impact</span>, is not your thing, then you don&rsquo;t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed at it because it is very, very difficult.</li>
+          <li>If the <em>why</em>, the <span class='_paradigm'>Purpose</span>, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn&rsquo;t work, you don&rsquo;t join the community.</li>
+          <li>The <em>what, when, and how</em>, the <span class='_paradigm'>Mission</span>, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create you own with the support of the community.</li>
+         </ul>
+       </td>
+      </tr>
+      <tr>
+       <th>No Divisions</th>
+       <td>
+        <p>All members are co-owners of the community. If their goal is to build products or services it would be called a company, which is different from a business,</p>
+         <ul>
+          <li>Businesses is what we are used to. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You work at a business for a wage agreed upon by the owner or his delegate.</li>
+          <li>
+           <p>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not <em>equal</em>, as in co-ops, but it is equitable based on contributions.</p>
+           <p>BTW, the word company comes from Latin <em>co</em>, meaning <em>together</em>, and <em>pan</em>, meaning <em>bread</em>.</p>
+          </li>
+          <li>The level of co-ownership is determined by contributions, not capital.</li>
+          <li>These contributions are recognized by all other co-owners.</li>
+         </ul>
+        <p>And, yes, there is an app for that.</p>
+       </td>
+      </tr>
+     </table>
+    </div>
 
 <h1>Capital and Contributions</h1>
  <h2>Fiat</h2>
