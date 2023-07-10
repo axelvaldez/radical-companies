@@ -501,7 +501,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 -->
    </table>
   </div>
-  <p>The other rTools, and to me the most fundamental one, is the <eg>RADs! Mobile App</eg>.</p>
+  <p>The other rTool, and to me the most fundamental one, is the <eg>RADs! Mobile App</eg>.</p>
 
 <h1>RADs and RADs! Mobile App</h1>
  <h2>Fiat</h2>
