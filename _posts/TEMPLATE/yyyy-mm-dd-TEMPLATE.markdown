@@ -187,7 +187,7 @@ image:    "icon-ptsd-and-trust.svg"
 <!-- Explicit Relationship  Table -->
   <table class='_h2table'>
    <tr>
-    <th>The world as experienced by you (Umwelt)</th>
+    <th>The world as experienced by you.</th>
     <td>
      <ul>
       <li>How do you show up? Who are you?</li>
@@ -231,7 +231,7 @@ image:    "icon-ptsd-and-trust.svg"
    </tr>
   </table>
  </div>
- <p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them.</p>
+ <p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them and consistenly communicate what the community is about.</p>
 
 <!-- PREV ... NEXT -->
 <h1></h1>

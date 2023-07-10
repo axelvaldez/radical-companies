@@ -407,6 +407,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <table class='_h2table'>
     <tr>
      <th>Explicit Relationships</th>
+     <td>
       <table class='_h2table'>
        <tr>
         <th>The world as experienced by you,</th>
@@ -452,7 +453,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
         </td>
        </tr>
       </table>
-     </div>
+     </td>
     </tr>
     <tr>
      <th>Explicit Alignment</th>
