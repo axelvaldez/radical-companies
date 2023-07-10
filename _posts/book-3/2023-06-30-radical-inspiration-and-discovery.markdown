@@ -457,39 +457,41 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </tr>
     <tr>
      <th>Explicit Alignment</th>
-     <td>This is for the community to express what they are about and what they are trying to do. It consists of three elements: Impact, Purpose, and Mission. These words have been used before and it has lead to confusion. In particular Purpose has been used in oftentimes contradictory ways to the point that it doesn&rsquo;t mean anything. Here we are hoping to give these words a context for a community to define what it is all about.</td>
-     <div class='_center'>
-      <table class='_explicitalignment'>
-       <tr id='_background'>
-        <td></td>
-        <th>Impact</th>
-       </tr>
-       <tr>
-        <th stle='width:20%; '>What for?</th>
-        <td>&nbsp;</td>
-       </tr>
-       <tr id='_background'>
-        <td></td>
-        <th>Purpose</th>
-       </tr>
-       <tr>
-        <th>Why?</th>
-        <td>&nbsp;</td>
-       </tr>
-       <tr id='_background'>
-        <td></td>
-        <th>Mission</th>
-       </tr>
-       <tr>
-        <th>
-         What?<br>
-         When?<br>
-         How?
-        </th>
-        <td>&nbsp;</td>
-       </tr>
-      </table>
-     </div>
+     <td>
+      <p>This is for the community to express what they are about and what they are trying to do. It consists of three elements: Impact, Purpose, and Mission. These words have been used before and it has lead to confusion. In particular Purpose has been used in oftentimes contradictory ways to the point that it doesn&rsquo;t mean anything. Here we are hoping to give these words a context for a community to define what it is all about.</p>
+      <div class='_center'>
+       <table class='_explicitalignment'>
+        <tr id='_background'>
+         <td></td>
+         <th>Impact</th>
+        </tr>
+        <tr>
+         <th stle='width:20%; '>What for?</th>
+         <td>&nbsp;</td>
+        </tr>
+        <tr id='_background'>
+         <td></td>
+         <th>Purpose</th>
+        </tr>
+        <tr>
+         <th>Why?</th>
+         <td>&nbsp;</td>
+        </tr>
+        <tr id='_background'>
+         <td></td>
+         <th>Mission</th>
+        </tr>
+        <tr>
+         <th>
+          What?<br>
+          When?<br>
+          How?
+         </th>
+         <td>&nbsp;</td>
+        </tr>
+       </table>
+      </div>
+     </td>
     </tr>
 <!--
     <tr>
