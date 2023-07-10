@@ -612,3 +612,11 @@ h1 ~ h3 {
 ul th, ul td, ul th p, ul td p {
   text-indent:0;
 }
+
+/*
+ extended em
+ */
+em {
+  font-style:italic;
+  font-weight:400px;
+}
