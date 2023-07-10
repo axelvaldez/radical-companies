@@ -363,13 +363,51 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <p>You may be leaning one way, but rethink it once you realize where it would take you. What you definitely will not be able to do is hide behind, <span class='_quotespan'>Oh, I didn&rsquo;t know!</span></p>
   <p><span class='_paradigm'>Radical</span> doesn&rsquo;t come with rules out of the box, but you and the community of people you work with gets to come up witgh the rules. You are all co-owners.</p>
 
-<h1>Military and Force</h1>
+<h1>Competition and Collaboration</h1>
  <h2>Fiat</h2>
- <h2>Non-Fiat</h2>
-
-<h1>Competition</h1>
- <h2>Fiat</h2>
- <h2>Non-Fiat</h2>
+  <p>Competition is another constant feature of the <span class='_paradigm'>Fiat</span> model. We learn to compete from the minute we are born. Kindergarten slows it down a little, but it comes back in full force in everything that follows. We pretend to listen, but we are really waiting our chance to outcompete the previous speakers. Sometimes we are aggressive and sometimes we are meek, but underneath it all we compete in the <span class='_paradigm'>Fiat</span> system. There are even debate clubs where we can practive our competitive skills.</p>
+  <p>And, <span class='_quotespan'>so?</span>, you ask, <span class='_quotespan'>what is wrong with that. We need to compete to survive.</span> But I see it another way&hellip;</p>
+  <p>I see competition as a way to divide people, as in divide and conquer. They who win and they who lose. In the Parlamentary system a specific political party may not win so they have to make coaliations and then proceed to the sausage-making back room where they come up with Minister of this and Minister of that, Democracy-by-voting makes it a lot easier for the powerful to game the system: just pay off the winners.</p>
+  <div class='_center'>
+   <table class='_h2table'>
+    <tr>
+     <th>Competition</th>
+      <p></p>
+     <td></td>
+      <p></p>
+    </tr>
+    <tr>
+     <th></th>
+      <p></p>
+     <td></td>
+      <p></p>
+    </tr>
+    <tr>
+     <th></th>
+      <p></p>
+     <td></td>
+      <p></p>
+    </tr>
+    <tr>
+     <th></th>
+      <p></p>
+     <td></td>
+      <p></p>
+    </tr>
+   </table>
+  </div>
+ <h2>Radical</h2>
+  <p>Competition and cooperation is a way of imposing your will. Collaboration is the way to come up with a solution that is acceptable to most everyone. The people who can&rsquo;t live with it, have to come up with an acceptable proposal. This is called <em>consent</em> by Sociocracy practioners.</p>
+  <div class='_center'>
+   <table class='_h2table'>
+    <tr>
+     <th></th>
+      <p></p>
+     <td></td>
+      <p></p>
+    </tr>
+   </table>
+  </div>
 
 <h1>Pain vs Wellbeing</h1>
  <h2>Fiat</h2>
@@ -392,6 +430,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <h2>Non-Fiat</h2>
 
 <h1>Owning the Commons</h1>
+ <h2>Fiat</h2>
+ <h2>Non-Fiat</h2>
+
+<h1>Military and Force</h1>
  <h2>Fiat</h2>
  <h2>Non-Fiat</h2>
 
