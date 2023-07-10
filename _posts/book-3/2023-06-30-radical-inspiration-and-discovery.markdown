@@ -390,7 +390,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <h2>Fiat</h2>
   <p>Food scarcity ended centuries ago, as soon as agriculture started to mix in with hunting and gathering. But then, agriculture brought in land scarcity. At least,that&rsquo;s how the story goes.</p>
   <p>Actually, what agriculture brought about was <em>land enclosures.</em> An enclosure is when somebody takes, <em>by force</em>, over land that was previously communal and provided for all. After the enclosure, if you want to use the land, you have to render goods.</em><a href='#en05'><sup id='bm05'>&hairsp;&nabla;&hairsp;</sup></a> Abundance for a few, scarcity for everybody else.</p>
-  <p>Abundance brings out the foreces to enclosed, and that is going on today. For example, the newest abundant good is the so-called AI computing. It is abundant because it has evolved in the Open Source space (free as in beer). Some people would like to enclose that technology with regulation (force). People like Elon Musk, Tesla and SpaceX, Sam Altman, OpenAI, Kent Walker, SVP at Google, Mustafa Suleyman, Co-founder of DeepMind, Francesca Rossi, Global Leader at IBM Research are lobbying the US Congress for regulation that would amount to an enclosure. Abundance for a few, scarcity for everybody else, 21<sup>st</sup> century style.</p>
+  <p>Abundance brings out the foreces to enclosed, and that is going on today. For example, the newest abundant good is the so-called AI computing. It is abundant because it has evolved in the Open Source space (free as in beer). Some people would like to enclose that technology with regulation (force). People like Elon Musk, Tesla and SpaceX, Sam Altman, OpenAI, Kent Walker, SVP at Google, Mustafa Suleyman, Co-founder of DeepMind, Francesca Rossi, Global Leader at IBM Research are lobbying the US Congress for regulation that would amount to an enclosure.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> Abundance for a few, scarcity for everybody else, 21<sup>st</sup> century style.</p>
  <h2>Radical</h2>
   <p>Enclosures do come out of force and force is a no-no in <span class='_paradigm'>Radical</span>-based alternatives.</p>
   <p>We can&rsquo;t fix history, but we can choose our future. And we can choose a future where abundance is the rule, not the exception-until-somebody-figures-out-how-to-exploit-it.</p>
@@ -473,6 +473,16 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <p class='_list-item'>
     Rent comes from Render whose first meaning is to provide or give. It also may mean to submit or present for inspection of consideration, deliver, or, literally, hand over.
     <a class='_uparrow' href='#bm05'><img src='/assets/img/arrow-up-icon.png'></a>
+   </p>
+  </li>
+  <li id='en06'>
+   <p class='_list-item'>
+    Karen Hao
+    <em>Artificial intelligence is creating a new colonial world order</em>
+    MIT Technology Review
+    April 19, 2022
+    &lt;<a href='https://radicals.world/sfYP5h' target='_blank'>https://radicals.world/sfYP5h</a>&gt;
+    <a class='_uparrow' href='#bm06'><img src='/assets/img/arrow-up-icon.png'></a>
    </p>
   </li>
  </ul>
