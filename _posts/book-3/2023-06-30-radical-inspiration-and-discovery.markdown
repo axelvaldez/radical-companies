@@ -371,7 +371,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <div class='_center'>
    <table class='_h2table'>
     <tr>
-     <th>Competition</th>
+     <th></th>
       <p></p>
      <td></td>
       <p></p>
