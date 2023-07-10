@@ -397,15 +397,16 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <p>We can lead the way to such a future. It won&rsquo;t be easy and there will be many obstacles in the way. Many will come from inside us, what we have learned as the children-of-<span class='_paradigm'>Fiat</span> that we are.</p>
   <p>But we need to choose and then act to make it happen.</p>
 
+<h1>rTools</h1>
+ <h2>Fiat</h2>
+  <p>Nothing to see here.</p>
+ <h2>Radical</h2>
+
 <h1>Pain vs Wellbeing</h1>
  <h2>Fiat</h2>
  <h2>Non-Fiat</h2>
 
 <h1>RADs</h1>
- <h2>Fiat</h2>
- <h2>Non-Fiat</h2>
-
-<h1>Other rTools</h1>
  <h2>Fiat</h2>
  <h2>Non-Fiat</h2>
 
