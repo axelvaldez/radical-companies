@@ -12,7 +12,7 @@ image:    "icon-owning-the-commons-2-3.svg"
 <h1>Exponential Growth</h1>
  <p>Then eight families show up&hellip;</p>
  <p>In case you have not noticed by now, this is <em>exponential growth</em>. We are up to eight families,</p>
-  <p class="_quotation">1 + 1 +  2 + 4 = 8</p>
+  <p class="_quotation">1 +  2 + 4 = 8</p>
   <div class='_center'>
    <img
     src='/assets/img/pic-owning-the-commons.svg'
@@ -20,7 +20,7 @@ image:    "icon-owning-the-commons-2-3.svg"
     alt=''>
   </div>
  <p>The land can handle that. But now we would add another 8 families,</p>
-  <p class="_quotation">1 + 1 +  2 + 4 + 8 = 16</p>
+  <p class="_quotation">1 +  2 + 4 + 8 = 16</p>
  <p>But we don&rsquo;t have enough land or water to keep our lifestyle. A few people are experimenting with low water systems, but who knows when that will work.</p>
  <p>That&rsquo;s when we take out the rifles that we bought online and bar the new families&hellip; oh, wait, that is the  way!</p>
 
