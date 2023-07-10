@@ -401,6 +401,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <h2>Fiat</h2>
   <p>Nothing to see here.</p>
  <h2>Radical</h2>
+  <p>These are some of the tools that have worked for us in our <span class='_paradigm'>Radical</span> work with companies who are based on the <span class='_paradigm'>Radical</span> model. Some of these may go away, others will evolve, and others will come up in the future. I am presenting them here to inspire ideas, not dogman.</p>
   <div class='_center'>
    <table class='h2table'>
     <tr>
